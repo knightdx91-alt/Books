@@ -33,9 +33,23 @@ charisma - 5
 luck - 5
 ```
 
+<!-- pg 6 -->
+Now it was James's turn to look shocked. Apparently he had stats and a portal ability that was locked. When he focused on the portal ability he got a new screen "conditions not met." So apparently he had an ability he couldn't use and stats he had no idea about. He was officially in a video game. "I don't understand," James says, turning to dapple, "non of this makes sense." Dapple looked at him for a minute thinking, finally she shrugs, rolling her shoulders, "You'll get used to it. Especially once you level up." "How exactly am I supposed to do that?" James asks cautiously. Dapples face lit up with what James could only describe as a wolfy grin. "By fighting of course."
+
+Dapple pushed against him until he stood up and followed her into the woods. They walked for a bit before coming upon a small squirrel. Dapple sat on her haunches and looked at him expectantly. "Seriously?" James asks, "you expect me to fight a squirrel?" off to the side a small rock slowly lifted into the air then shot forward slamming into the side of the squirrel. The squirrel, who had been minding its own business, slowly turned and looked at James. "Uh nice squirrel," he said slowly backing away with his hands up. The squirrel darted forward, leaves fluttering in its wake as it ran. Sharp pain radiated from his leg where he got bit. "oh fuck this." James looked around until he spots a large branch on the ground. Dodging the pissed off squirrel he grabs the branch and turns just in time to bat the fur ball away as it flew at his face. The squirrel shook his head then stood up from where it had fallen. "Ha! Mess with me now!" James says hefting the branch in both hands. "One more hit should do it." Dapple tells him. James nods. The squirrel crouched down then jumped straight at James. With a loud yell James swings the branch connecting solidly with the squirrel sending it flying away. Dapple jumped
+
+<!-- pg 7 -->
+up, catching the squirrel in her jaws. "Nice!" she says. James sits down in front of a tree, leaning back against it trying to catch his breath.
+
+[you have killed forest squirrel (Lvl 1) you have gained 10 exp]
+[Lvl up] [you have gained one stat point and the ability to choose a class. Would you like to choose a class now?]
+
+"Uh Dapple, do I need to choose a class now or wait until later?" Dapple plops down next to him, "Eh, its really up to you. There are instances where you might get a stronger class by waiting but in general Its better to just pick one as you might get a growth class. you can always just get a new class at level 25 if you aren't a fan of the one you chose." James thought for a minute then nodded, "yeah I'm going to do it." With a mental nudge, James opens up the class menu. There were about thirty classes in all, with most of them being ones that, after skimming through them, he knew he wouldn't take. From what he could see each class had a rarity. There were quite a few common classes, like archer and hunter. There was even a basic warrior class. Scrolling through the list he stopped when he saw the beast tamer class. Now that didn't sound earth shattering but what made it interesting was the rarity. "Uh, could you explain the class rarities?" James asks dapple, "I mean I kind of get it, but what all ranks are there?" "Well, there's common, uncommon, rare, epic, ancient, legendary, and mythic," she says listing them off. "Why? did you get something other than common?" James nods, "I've got the beast tamer class as an option." "Huh," Dapple says cocking her head, "That's normally a common class. What rarity does it say yours is?" "Uh, ancient, and it says it is a growth class." Dapple stares at him blinking rapidly, obviously confused. "That is. Well, that's new. Click on it and see the requirements." James nods and mentally selects the class.
+
 ---
 
 ## Transcription notes (uncertain spots — verify against originals)
 - **pg 1:** "James sat down heavily in his chair" — the subject was slightly ambiguous in the handwriting; context (his parents, "he had just seen them last weekend") makes it James, so transcribed as James.
+- **pg 7:** "Uh, ancient" — a word was crossed out and "ancient" written above it; transcribed the corrected word only.
 - **pg 5:** the status header reads `James mason (F)` — the parenthetical was hard to read (could be `(F)` / `(CF)`). Left as `(F)`.
 - Original inconsistent capitalization of names (mark/Mark, james/James, dapple) preserved as written.
