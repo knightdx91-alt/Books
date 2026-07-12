@@ -15,6 +15,30 @@ if [ "${CLAUDE_CODE_REMOTE:-}" != "true" ]; then
   exit 0
 fi
 
+# ============================================================================
+# ⚖️ WORKFLOW LAW — main ONLY. No branches, ever. No PRs.
+# If this session starts on any branch other than main, IMMEDIATELY switch to
+# main and DELETE the stray branch. Uncommitted work is carried across via a
+# stash pop so nothing in the working tree is lost.
+# ============================================================================
+GITDIR="${CLAUDE_PROJECT_DIR:-$PWD}"
+if git -C "$GITDIR" rev-parse --git-dir >/dev/null 2>&1; then
+  CUR="$(git -C "$GITDIR" rev-parse --abbrev-ref HEAD 2>/dev/null || echo)"
+  if [ -n "$CUR" ] && [ "$CUR" != "main" ] && [ "$CUR" != "HEAD" ]; then
+    echo "⚖️  WORKFLOW LAW: session started on '$CUR' — switching to main and deleting the branch."
+    if git -C "$GITDIR" stash push -u -m "law-autostash" >/dev/null 2>&1; then STASHED=1; else STASHED=0; fi
+    git -C "$GITDIR" fetch origin main >/dev/null 2>&1 || true
+    if git -C "$GITDIR" show-ref --verify --quiet refs/heads/main; then
+      git -C "$GITDIR" checkout main >/dev/null 2>&1 || true
+    else
+      git -C "$GITDIR" checkout -B main origin/main >/dev/null 2>&1 || true
+    fi
+    [ "$STASHED" = "1" ] && git -C "$GITDIR" stash pop >/dev/null 2>&1 || true
+    git -C "$GITDIR" branch -D "$CUR" >/dev/null 2>&1 || true
+    echo "   Now on main; stray branch '$CUR' deleted (uncommitted work carried over)."
+  fi
+fi
+
 BSS_TARBALL_URL="https://codeload.github.com/felipelobomotta-blip/best-seller-studio/tar.gz/refs/heads/master"
 BSS_DIR="/tmp/bss"
 AGENTS_DIR="$HOME/.claude/agents"

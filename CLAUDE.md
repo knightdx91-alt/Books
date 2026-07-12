@@ -34,6 +34,14 @@ is when the author (Terry) explicitly says otherwise for a task.
 
 Git identity: `git config user.email noreply@anthropic.com && git config user.name Claude`
 
+**This is enforced, not just documented:**
+- The **SessionStart** hook (`.claude/hooks/session-start.sh`) detects a session that
+  starts on any non-`main` branch, switches to `main` (carrying uncommitted work across
+  via stash), and **deletes the stray branch** automatically.
+- A **PreToolUse** guard (`.claude/hooks/enforce-main-law.sh`) blocks any command that
+  creates a branch (`git checkout -b`, `git switch -c`, `git branch <name>`) or opens a PR
+  (`gh pr create`, the `create_pull_request` MCP tool) before it can run.
+
 ## Working on a book
 
 1. **Pick the book folder** under `books/<name>/` (for a series, the specific book
