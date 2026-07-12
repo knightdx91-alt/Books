@@ -46,6 +46,23 @@ up, catching the squirrel in her jaws. "Nice!" she says. James sits down in fron
 
 "Uh Dapple, do I need to choose a class now or wait until later?" Dapple plops down next to him, "Eh, its really up to you. There are instances where you might get a stronger class by waiting but in general Its better to just pick one as you might get a growth class. you can always just get a new class at level 25 if you aren't a fan of the one you chose." James thought for a minute then nodded, "yeah I'm going to do it." With a mental nudge, James opens up the class menu. There were about thirty classes in all, with most of them being ones that, after skimming through them, he knew he wouldn't take. From what he could see each class had a rarity. There were quite a few common classes, like archer and hunter. There was even a basic warrior class. Scrolling through the list he stopped when he saw the beast tamer class. Now that didn't sound earth shattering but what made it interesting was the rarity. "Uh, could you explain the class rarities?" James asks dapple, "I mean I kind of get it, but what all ranks are there?" "Well, there's common, uncommon, rare, epic, ancient, legendary, and mythic," she says listing them off. "Why? did you get something other than common?" James nods, "I've got the beast tamer class as an option." "Huh," Dapple says cocking her head, "That's normally a common class. What rarity does it say yours is?" "Uh, ancient, and it says it is a growth class." Dapple stares at him blinking rapidly, obviously confused. "That is. Well, that's new. Click on it and see the requirements." James nods and mentally selects the class.
 
+<!-- pg 8 -->
+```
+Beast Tamer (Ancient) growth class
++2 Int  +1 str  +1 cha per level
+```
+grants the ability to bond any amount of creatures up to your class rarity. May only have one creature that is of a rarity above yours. The beast being tamed may decline the bond. As the bond goes both ways the highest stat of the tamer and beast is shared equally. This only applies to a max of five beasts.   Conditions to unlock growth class - must bond with rare or higher beast before gaining first level. The rarity of the beast bonded determines the rarity of the class.
+
+After reading the description to Dapple, she chuckled, "well aren't you lucky. That's quite a class. Normally it's only half of the stat is shared. I'm guessing it's because of the rarity." James agreed. Starting off with an ancient rarity class sounded awesome but he was curious. "Are there any down sides to having such a high rarity class?" James asks. Dapple shakes her large shaggy head, "Not really. It will just take more experience for you to level up. Other than that, you will be stronger per level than someone else at the same level." Making his decision, James selects the Beast Tamer class. Knowledge of beasts enters his mind, how they hunt and their society's structure. He then noticed a small tattoo of a wolfs head on the back of his right hand. Dapple walked over to him and nudged his hand, "That marks your beta, the one who is over your other beasts in command. You can also use it to call me to your side if we are ever separated." "Huh, well thats nice." James said looking at the tattoo.
+
+---
+
+## Author planning notes (from a loose "Litrpg" notes page — NOT prose; author's own outline)
+
+**Possible classes:** Beast tamer, explorer of legends, legends progeny
+
+**Story conflicts / outline:** MC has to get back to his world. He ends up finding out his grandfather was a legend in that world. Was possibly from that world originally? He learns about his family's history, as well as why his father turned down coming to the new world, Seminova. He ends up going to the local adventurers guild. He makes friends but no romantic interests. Has a title already, legend's progeny, that grants him bonuses. He learns no one is supposed to have the portal ability outside of the (portal mage's guild)? as it is passed down in the family line? His grandfather had an ability that allowed him to steal abilities? Well, he ended up passing the portal ability on to MC, by way of the card. Originally it was supposed to go to MC's father. There are seven towers, that contain trials. He has to go through them to make it back home. One tower per stat, excluding luck. They must be done in order. The first tower is located two towns over. Dapple gets MC to join a training center (Dojo?) in the first town. He ends up meeting a girl who parties up with him for the first tower. (tower per book?) or more? The first tower's reward: He gets a title as well as the choice of another reward.
+
 ---
 
 ## Transcription notes (uncertain spots — verify against originals)
