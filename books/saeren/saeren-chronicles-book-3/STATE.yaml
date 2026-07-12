@@ -1,0 +1,122 @@
+project:
+  title: "The Saeren Chronicles — Book Three: The Weight of the Source"
+  genre: "YA fantasy"
+  subgenre: "upper/mature YA epic fantasy (post-war 'consequences' story)"
+  language: "English"
+  word_count_target: 100000
+  comp_titles: []   # carry Book Two's literary/quiet positioning; fill via book-packager
+  engagement_type: {primary: "epic/consequences fantasy", secondary: "found-family", tertiary: "cosmic-horror undertone (the Horrors/void)"}
+  premise: >
+    Months after the magical rebirth, Viridia — now the living vessel of the source, able to
+    feel every core in the world — must hold together a world she fundamentally altered: the
+    old light-supremacist order has collapsed into chaos, everyone suddenly carries both halves
+    of the gift, and unstable portals are leaking Horrors that drain life. The gut-punch: the
+    Horrors are not attacking — they are being pulled toward the source she became. In saving
+    the world she created its next threat, and the book is about what she does with that power
+    without becoming the thing she fought.
+  created: "2026-06-24"
+  updated: "2026-06-24"
+
+# GENESIS-FROM-ROADMAP — there is NO prior author draft for Book Three (unlike Books One/Two).
+# Build foundation.md + outline.md from the Series Roadmap's Book Three section + Book Two's
+# ENTITY_STATE, then run the chapter loop. Do NOT invent canon that contradicts Books One/Two.
+adaptation:
+  mode: "genesis-from-roadmap"
+  canon_sources:
+    series_roadmap:   "research/series-roadmap-book3.md"      # BINDING: premise, 3 conflict levels, key revelation, resolution, ending image, magic bible
+    reconciliation:   "research/roadmap-vs-books-reconciliation.md"  # READ WITH the roadmap — where finished Books 1/2 OVERRIDE the (pre-final) roadmap (sight spent, Alice↔Moravian direction, Marick/Fen, age/timeline, etc.). Finished books win.
+    book2_entity_state:"research/book2-ENTITY_STATE.yaml"     # continuity anchor — entities/threads as of end of Book Two
+    book2_final_chapter:"research/book2-final-chapter-20.md"  # Book Three opens months after this; the Marick/lab + void-rim seeds live here
+    book2_rebirth:    "research/book2-chapter-18-rebirth.md"  # the rebirth + its named cost (sight spent, returns slowly); the physical source-cavern
+    book1_canon:      "../saeren-chronicles/manuscript/chapters/"  # open Book One prose when reusing any Book One element
+    book2_canon:      "../saeren-chronicles-book-2/manuscript/chapters/"
+  chapter_1_locked: false        # Book One Ch.1 / Book Two Ch.1 are the voice benchmark; match them
+  chapters_to_produce: []        # set after the architect builds outline.md
+
+word_floor:
+  manuscript_min_words: 95000    # HARD FLOOR (roadmap target 95,000–110,000)
+  manuscript_target_words: 100000
+  per_chapter_min_words: 4600    # match Book Two's per-chapter floor
+
+phase:
+  current: 4   # DRAFT COMPLETE + REVISED. (1 scaffold, 2 architect, 3 drafting, 4 revision/delivery)
+  status: "BOOK COMPLETE + REVISED to r2. All chapters drafted, gate-clean, on main. Build r2 = 20 ch, 112,205 w, 328 pp (RGB + PDF/X-1a). NEXT (author's call): external beta read of r2; optional Tier-2 polish (thin the 'very long way off' motif cluster); fill any front/back-matter placeholders before print."
+  history:
+    - "2026-06-24: scaffolded + seeded; roadmap reconciled vs finished Books 1/2."
+    - "2026-06-24: architect pass — foundation.md + outline.md (22 chapters, 3 acts; balance-not-victory)."
+    - "2026-06-24..25: drafted Ch.1-22 via the agent pipeline, each gate-clean; build r1 (22 ch, 118,848 w)."
+    - "2026-06-29: developmental edit (APODICTIC floor passes); Tier-1 fix = denouement compression."
+    - "2026-06-29: r2 cut — former Ch.20/21/22 merged into one closing Ch.20; book now 20 ch, 112,205 w; gates clean; r1 kept as history."
+
+chapters:
+  total_planned: 20              # r2 (2026-06-29): denouement compressed, former Ch.20/21/22 -> one closing Ch.20 ("A Place Where a Core Should Be"). Was 22 ch in r1.
+  completed: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]  # ALL chapters finalized + revised to r2, gates clean, on main
+  # NOTE: per-chapter genesis scores below were recorded live during drafting for Ch.1-12 only;
+  #   Ch.13-22 were drafted gate-clean but their individual eval scores were not logged into this block.
+  #   After the r2 compression the closing chapter is Ch.20 (the former 20/21/22). The book is COMPLETE.
+  scores:
+    1: {floor: 8.5, average: 8.9, verdict: PASS, continuity: "0 critical (Raizen-eyes WARN fixed vs Bk2 Ch.19)"}
+    2: {floor: 8.5, average: 8.79, verdict: PASS, continuity: "0 critical/1 optional (softened); Death symbol correctly absent"}
+    3: {floor: 8.5, average: 8.84, verdict: PASS, continuity: "0 critical/0 warning/2 minor; temptation named; Death symbol correctly reserved for Ch.4"}
+    4: {floor: 8.5, average: 8.86, verdict: PASS, continuity: "CRIT-001 (Death symbol taught by Raizen) FIXED -> reframed to first USE, Drake taught it Bk2 Ch.8; re-verified clean. Casual momentum 7->8"}
+    5: {floor: 8.5, average: 8.84, verdict: PASS, continuity: "0 critical/0 warning/1 minor (primary-source mode vs ENTITY_STATE). BINDING pull-reveal (Horrors pulled to the source=her) LANDED here, pulled fwd from outline Ch.7"}
+    6: {floor: 8.5, average: 8.86, verdict: PASS, continuity: "0 critical/0 warning/2 minor. Sela (miller's wife) drained; half-sight cost paid; Casual 8->8.5; resolve to go to the source cavern"}
+    7: {floor: 8.5, average: 8.87, verdict: PASS, continuity: "0 critical/0 warning/2 minor. END OF ACT ONE. Cavern matched Bk1 verbatim; differential measured vastly wider+ACCELERATING; re-task OK (no axis re-reveal); turn WEST. Act One coheres."}
+    8: {floor: 8.5, average: 8.89, verdict: PASS, continuity: "0 critical/0 warning/2 minor. ACT TWO opens. Marick+Fen on-page (match Bk2 Ch.20 seed; Marick OPENER alive w/ new curiosity; Fen planted); void abstract; symptom-not-cause nailed (closing portal does NOT slow pull). Characters 9.0; Casual 8.5"}
+    9: {floor: 8.5, average: 8.86, verdict: PASS, continuity: "0 critical/0 warning/1 minor. Drake+Varissa on-page (verified vs Bk2 Ch.7/8/19); cosmology=BALANCE named (no mark for a pressure; held not won); no axis re-reveal. Characters 9.0 (Varissa); Casual 7.5 intentional valley before Ch.10 gut-punch"}
+    10: {floor: 8.6, average: 8.94, verdict: PASS, continuity: "0 critical/0 warning/2 minor. MIDPOINT GUT-PUNCH. Enacted overwhelm; the cost FELT not newly learned; SECOND sanctioned break = Raizen-alone private (mirror of Bk2 Ch.16 public), author decision 2026-06-25 - guardrail updated. Highest floor/avg yet."}
+    11: {floor: 8.5, average: 8.81, verdict: PASS, continuity: "0 critical/0 warning/4 minor. Concrete texture restored post-Ch.10 gut-punch; un-mend temptation named+refused; Lest summons END HOOK. Casual 8.5."}
+    12: {floor: 8.5, average: 8.84, verdict: PASS, continuity: "0 critical/0 warning/5 minor. TEMPTATION PEAKS at Lest; she comes to the edge of the council's crime, leash (Amber/Alice/Raizen) holds; Lest burning-man (Harl) payoff - holds doors with presence, does NOT reach his core, Death symbol named-not-used, camera cut. Chooses not to rule. END HOOK=fix a pressure without controlling anyone. New entities Lest/Harl/Coyle/Renwick. ENTITY_STATE fold-in Ch.9-12 still pending. Lowest dim Pacing 8.5."}
+
+genesis_score:
+  current_floor: 8.5
+  current_average: 8.85
+
+quality_gate:
+  chapters_passed: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]  # all gate-clean at r2 (style/grammar/rhythm)
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean. rhythm_check: no flat reflective triplets (sanctioned anaphora only). em-dash <=4 per chapter (Book Two standard). Add Book-Three deliberate motifs to the ALLOWLIST."
+  - "Word floor >= 95,000; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "VOICE: match Book One/Two — Viridia's quiet, observant, inward register; grief held inward (NO ONE sees her cry in public). TWO sanctioned breaks only: Book Two Ch.16 (public, Jazen); Book Three Ch.10 (private, witnessed by RAIZEN ALONE — first time she lets anyone see; author decision 2026-06-25). Everyone else still never sees; no third break."
+  - "YA TONE (series-wide): violence = consequence, never spectacle; cut the camera on the worst acts; no explicit sex / graphic torture / adult profanity; keep hope/connection load-bearing (Raizen, Alice, chosen family) between the dark beats."
+  - "SERIES CANON (never violate): series name single-n **Saeren**; Alice **PEMBROOK**; spelling **JAZEN**; Lady Lightwell wore ROSE-TINTED spectacles (now dead); Viridia silver-blonde hair, green eyes, slight 5'5'; trains + motorcars exist."
+  - "DO NOT introduce Johnathan Masters or the void woman in this trilogy (Masters of the Void is a separate series). The ONLY connection is the final image (below) — do not explain it."
+  - "CONTINUITY DISCIPLINE: before reusing any Book One/Two element (the physical source-cavern, the death-symbol, a returning character, a rule), open the earlier book's actual prose and match it — ENTITY_STATE is a summary, not the source of truth for how a thing was rendered. Run continuity-guardian vs Book One AND Book Two before finalizing each Act-Three chapter."
+
+binding_beats:
+  - "KEY REVELATION: the Horrors are not attacking — they are pulled toward the source the way absence is drawn to presence; the rebirth created a pressure differential between this world and the void. Viridia, saving the world, created its next threat. (The moral gut-punch.)"
+  - "RESOLUTION: not a defeat of the Horrors but an establishment of BALANCE — source contained, void acknowledged, world made sustainable. The void is the necessary counterpart to the source (neither good nor evil)."
+  - "ENDING: balance established; world changed, not fixed. Raizen + Viridia take the long view (their True-Bond means they outlive almost everyone — heavy, carried together)."
+  - "FINAL IMAGE (binding, do NOT explain): in a lab, a tentacle snaps back through a portal, severed; a young man named **Fen** runs; and Viridia, far away, feels a VOID for the first time — a place where a core should be and is not. This is the thread to Masters of the Void. Let it sit."
+
+open_threads_from_book_two:   # seeds planted in Book Two to pay off here
+  - "Marick / the lab — Book Two Ch.20 ends with a man named **Marick**, handed a whole core in the rebirth, picking up the chalk to attempt an old severed-half working he should not, ignoring a worn warning. (The Horror/portal trigger.)"
+  - "The void-rim differential — Book Two Ch.20: the absence at the rim of everything widened 'a shade' as the world ran full; Viridia's sight (when it returns) will read it wider than she remembers."
+  - "Viridia's mana-sight — spent to the wick in the rebirth (Book Two Ch.18); returns slowly over a long count of weeks/months. Book Three opens 'months later' as it comes back."
+  - "Bella's-name thread — the warm unfollowable thread with her mother's name at the bottom of the source (touched, unfollowed, in Book Two Ch.18). The off-pattern family-tree name (Book One/Two seed)."
+  - "Raizen human — walking on two legs, learning to be human; the True-Bond and its long-life weight."
+  - "Alice — freed, changed (calm, stilled), recovering her warmth slowly."
+
+resolved_decisions:   # author rulings 2026-06-24
+  - "MARICK vs FEN — RESOLVED: **Marick is the one who OPENS the portal** (the forty-year candle handed the whole dark half in the rebirth; picks up the chalk — Book Two Ch.20 seed). **Fen is his ASSISTANT, who RUNS** at the very end (the roadmap's final-image character). Two distinct people, one thread: Marick opens it / Fen survives + runs. Fen is NEW to Book Three; introduce him as Marick's assistant in the lab."
+  - "AGE on-page — RESOLVED: Book Three MAY state Viridia's age (she is sixteen) normally. The Book-Two no-age-number rule was a device for the private 14→15 turn-beat during the war; Book Three has no such turn, so plain reference is fine and consistent (Book One stated 'Fourteen' plainly). Verified: Book Two has NO Viridia age-number on-page (the Ch.4 'fourteen-year-old' was fixed in r6; 'Fifteen feet' = distance, 'sixteen' in Ch.3 = Jan). NOTE TIMELINE below."
+
+  - "TIME-SKIP ≈ 1 YEAR (CONFIRMED 2026-06-24) — and it's a feature; she is 16. Sight has been returning across the year."
+  - "MRS. ZORAN RETURNS (2026-06-24) — Bk1 Hazel growth-magic teacher Viridia taught Moravian; escaped the attack; spent the year teaching newly-whole mages to handle the dark half + preserving Moravian = responsible counterweight to Marick."
+  - "BELLA'S-NAME THREAD: Viridia ATTEMPTS to follow it (2026-06-24), at a cost (~Ch.13 personal climax)."
+  - "PACT + DANGRIS: resolved on-page lightly (2026-06-24), folded into the balance finale."
+  - "RAIZEN AFFINITY: all elements/prismatic (Bk2 ruling), unusual range in human form."
+  - "CHAPTER COUNT: 22 at draft (2026-06-24) — completes 18→20→22. SUPERSEDED at r2 (2026-06-29): 20, after the denouement compression merged former Ch.20/21/22 into one closing chapter."
+
+open_author_decisions:   # remaining, minor — decide in-flight
+  - "Exact Mrs. Zoran escape beat (how she got out of Hazel)."
+  - "Precise cost of the Bella-thread attempt (~Ch.13)."
+  - "Whether Lor-ar returns for the balance finale."
+
+decisions:
+  - "Folder-per-book genesis project at book/genesis/saeren-chronicles-book-3/ (single-branch: everything to main)."
+  - "Own PDF/production pipeline mirrored from Book Two (REVISION + tools/{assemble_manuscript,build_pdf,make_pdfx} + PDFX_def.ps + rhythm_check). Same revision policy: bump REVISION BEFORE any rebuild; keep prior builds as history."
+revision_cycles: 1   # r1 (draft) -> r2 (2026-06-29, denouement compression). See feedback/book3-r2-changes.md.

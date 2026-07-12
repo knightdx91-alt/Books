@@ -1,0 +1,5 @@
+# POV map — "The Hour of Ash" (Pompeii)
+# Single-POV first-person (Mara). voice_wear_check.py uses this to know which chapters
+# share a narrating voice; with one POV it runs layer-2 generic self-repetition only.
+# Format: <chapter-number> <POV-character>
+1 MARA

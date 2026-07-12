@@ -1,0 +1,17 @@
+project:
+  title: "The Dragon Isle"
+  genre: "Epic Fantasy"
+  language: "English"
+  premise: "TBD — part of the Ne'veran saga. See ../land-of-the-guardians/research/series-bible.md."
+  created: "2026-07-12"
+  updated: "2026-07-12"
+  status: "PLANNED — not yet drafted"
+
+series:
+  universe: "Ne'veran"
+  this_book_role: "chronological book 2b / publication book 2; potential Vol. 2 of Guardians"
+  villain_spine: "High King Alten; theme = power, sacrifice, consumption"
+  universe_bible: "../land-of-the-guardians/research/series-bible.md"   # single source of canon for all 4 books
+
+# Scaffold only — drafting not started. The universe bible (Part covering this book)
+# lives with the active project to keep one canonical copy.

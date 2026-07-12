@@ -1,0 +1,87 @@
+project:
+  title: "Land of the Guardians"
+  genre: "Epic Fantasy"
+  subgenre: "Sword & sorcery / coming-of-age ensemble"
+  language: "English"
+  word_count_target: 90000
+  comp_titles: []
+  engagement_type: {primary: "adventure", secondary: "found-family resistance", tertiary: "dragon lore mystery"}
+  premise: "On the world of Ne'veran, three sets of teenagers — human twins Aeron & Selena, elven twins Katy & Reagen, and the trader Seiss with the Moonwalker Wolf — are forced from their homes on the same day and converge into a resistance against High King Alten, who hunts the world's hidden dragons for the elemental power sealed in their hearts."
+  created: "2026-07-12"
+  updated: "2026-07-12"
+
+# Part of the Ne'veran universe (3-4 books). Universe bible: research/series-bible.md.
+# Series order (author-confirmed 2026-06-22, see research/series-order-decision.md):
+#   Publication: Land of the Guardians -> The Dragon Isle -> Son of None -> The Origin
+#   Writing:     Son of None SPINE-LOCK (done) -> Land of the Guardians (THIS, active) ->
+#                Dragon Isle -> Son of None POLISH -> The Origin (last)
+series:
+  universe: "Ne'veran"
+  this_book_role: "chronological book 2; write & publish FIRST (strongest hook, on-ramp)"
+  canon_role: "CANON-LOCKING — the decisions made here bind Son of None's final polish"
+  villain_spine: "High King Alten; theme = power, sacrifice, consumption"
+
+# GENESIS-FROM-SOURCE — build the book from the author's reading + the series bible.
+adaptation:
+  mode: "genesis-from-author-source"
+  canon_sources:
+    series_bible:      "research/series-bible.md"              # universe canon (Part 2 = this book)
+    series_order:      "research/series-order-decision.md"     # what to lock vs. defer
+    authors_reading:   "research/authors-reading-prologue-ch1.md"  # author's own prologue + ch.1 (voice seed)
+  chapter_1_locked: false        # author's recorded prologue+ch1 is the voice/canon seed, not yet a locked draft
+  chapters_to_produce: []        # set once outline.md chapter count is fixed
+
+word_floor:
+  manuscript_min_words: 85000
+  manuscript_target_words: 90000
+  per_chapter_min_words: 4500
+
+phase:
+  current: 0
+  status: "universe worldbuilding DEEP (cosmology + Alten + Origin fully spined). Book-1 depth pass IN PROGRESS: resume at Aeron & Selena (3 pending decisions). Then Katy/Reagen, Seiss/Wolf, Alten, convergence, climax; then architect pass. See feedback/progress.md."
+  history:
+    - "2026-07-12 migrated Ne'veran material out of the-saeren-chronicles; made Guardians the active project; relocated the universe bible here."
+
+chapters:
+  total_planned: 0
+  completed: []
+  scores: {}
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+
+quality_gate:
+  chapters_passed: []
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean. Add this book's deliberate motifs to ALLOWLIST."
+  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "CANON LOCK: whatever is decided here (esp. Rosalia's death, Alten's dragon-heart count entering the book, Aeron/Selena's true parentage) becomes binding series canon — record it in series-bible.md so Son of None's polish inherits it."
+  - "Keep men's vs. women's magic distinct (Wheel of Time-style) and persecution bottom-up (village mobs), per the bible."
+  - "The prologue cold-open (Alten's interrogation) is fixed; Rosalia's sacrifice scene is hard-set and uncuttable."
+
+open_author_decisions:
+  # --- Book 1 depth pass (2026-07-12, in progress; resume with Aeron & Selena) ---
+  - "AERON & SELENA (1) twin dynamic: proposed Aeron=protector/physical (black-dragon sword) + Selena=perceptive/magically-attuned; or invert. UNDECIDED."
+  - "AERON & SELENA (2) real parents: proposed = the LAST DRAGON-BONDED BLOODLINE (why Alten hunts them; why Aeron holds the black-dragon sword). UNDECIDED."
+  - "AERON & SELENA (3) Selena's artifact: (A) another of the five dragon-swords, or (B) no sword but she IS the true dragon-CALLER (recommended). UNDECIDED."
+  - "(then) Katy & Reagen depth; Seiss & Wolf depth; Alten in Book 1; the convergence; dragons + flee-climax choreography — see feedback/progress.md RESUME POINT."
+  - "How many dragons (bible assumes ~five, one per element: black, blue, +3 TBD)."
+  - "What does calling a dragon cost the caller?"
+  - "Does Alten know about the dragon-engraved swords?"
+  - "(TENTATIVELY SET: one complete book — see decisions.) Confirm before architect locks chapters."
+  - "Does Reagen become queen-shaped or remain Katy's consort?"
+
+decisions:
+  - "THE ORIGIN SETTING (CANON 2026-07-12): the old world is LITERALLY our Earth — rural England, the year of our Lord 1697. Option A alt-history APOCALYPSE: reads as historical fiction, then Earth is consumed and the sibling worlds are born from it (real timeline does not continue). Real geography/tech/voice required. Persecution = the real, BOTTOM-UP witch-hunt (Crown cooling by 1697, but village mobs/zealots still hunt). Father = hidden true power; persecutors are period zealots, NOT a polemic against real Christianity. Power is conserved (mark transfers on death) so the five die totally but their power precipitates into the dragons. See series-bible PART 3 + PART 0.5."
+  - "COSMOLOGY (CANON 2026-07-12): the Origin shatters the old world into a CLUSTER OF SIBLING WORLDS. World G = Guardians (dragons/elves/Moonwalkers, Alten native). World N = Father's sacred world (Son of None). World C = Gorlak homeworld. Dragons exist across sibling worlds. See series-bible PART 0.5."
+  - "ALTEN POWER (CANON 2026-07-12): dragon-heart GRAFTING. 5 hearts (one per element) implanted into body sites (Fire=R palm, Water=L palm, Air=throat, Earth=sternum, Spirit=over his heart). Each = element mastery + longevity + DISTRIBUTED LIFE (can't be killed while a heart beats — must destroy/remove the hearts) + a corruption cost (withers/greys him → the 'kindly old man'). Heart count = the series doomsday tally; all 5 = godlike + gateway stabilized. See series-bible PART 0.6."
+  - "ALTEN FLEES, does not conquer (CANON 2026-07-12): Guardians climax = heroes take one heart; cornered Alten tears a gateway and flees to World N, NOT knowing it is Father's world; gateway collapses; Guardians heroes CANNOT follow (no heart-power). This is why the Guardians cast is absent from Son of None."
+  - "STRUCTURE: Land of the Guardians = ONE complete book ending on the flight + waking the kingdom (recommended, tentatively set). Dragon Isle = Book 2 only if material earns it."
+  - "Male human twin renamed 'Aeron' (CANON, author 2026-07-12). The bible's 'Knight' and the reading's 'Xavier' are both in use in the author's OTHER books; Aeron is a fresh name in the same sound-family (Selena/Reagen/Raveena/Alverin/Alten). Update the black-dragon-color reference accordingly."
+  - "Folder-per-book genesis project under book/genesis/land-of-the-guardians/."
+  - "The universe series bible is maintained HERE (the canon-locking book), not in son-of-none/."
+revision_cycles: 0

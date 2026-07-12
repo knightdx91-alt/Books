@@ -1,0 +1,281 @@
+meta:
+  version: "1.0"
+  last_updated: "2026-07-12"
+  last_updated_by: "entity-tracker"
+  chapters_tracked: [1, 2]
+  mode: "BUILD"
+
+characters:
+  xavier-steadman:
+    canonical_name: "Xavier Steadman"
+    aliases: ["Xavier"]
+    importance: major
+    physical:
+      distinguishing:
+        - { value: "calloused hands, split thumbnail, working-man's knuckles", source: "ch-01:p26" }
+    traits:
+      - { trait: "handy / manual laborer (fences, roofs, hinges)", source: "ch-01:p26", mutable: false }
+      - { trait: "withholds feelings; answers with fewer words than asked", source: "ch-01:p16", mutable: false }
+      - { trait: "counts things (hours, seconds) when barely holding on", source: "ch-01:p05", mutable: true }
+      - { trait: "grief-numb; guards against any near-laugh (the 'unlocking')", source: "ch-01:p48", mutable: true }
+      - { trait: "reflexively 'makes himself for two' / reaches for absent passenger seat out of habit", source: "ch-01:p13", mutable: true }
+    voice_markers:
+      ref: "voice-dna.md#xavier"
+    relationships:
+      selena-steadman:
+        type: "late wife (deceased)"
+        established: "ch-01:p49"
+        current_status: "widower; grieving, will not speak of her"
+      anna-holmes:
+        type: "met hitchhiking; she drove him into Jamestown"
+        established: "ch-01:p16"
+        current_status: "just met; drawn to her; realizes she 'set him up'"
+      george-holmes:
+        type: "employer; took him in and hired him"
+        established: "ch-02:p10"
+        current_status: "newly hired hand; George calls him 'son' once"
+    location_log:
+      - { chapter: 1, location: "county line / county road", scene: "hitchhiking on the shoulder", travel_noted: true }
+      - { chapter: 1, location: "diner at the crossroads", scene: "booth, lunch with Anna", travel_noted: true }
+      - { chapter: 1, location: "Jamestown", scene: "dropped at Holmes General at dusk", travel_noted: true }
+      - { chapter: 2, location: "Holmes General Store", scene: "storeroom cot, then front of store fixing the door", travel_noted: false }
+    knowledge:
+      - fact: "Anna is George Holmes's daughter"
+        learned: "ch-02:p31"
+        method: "told_by:george-holmes"
+      - fact: "Anna deliberately drove him to her father's store without revealing who she was"
+        learned: "ch-02:p36"
+        method: "inferred"
+      - fact: "Anna lives about a mile past the church, outside Jamestown"
+        learned: "ch-02:p34"
+        method: "told_by:george-holmes"
+    arc_notes: "Grief-numb drifter three years after his wife's death; lands in Jamestown and accepts work and shelter at the Holmes store."
+
+  anna-holmes:
+    canonical_name: "Anna Holmes"
+    aliases: ["Anna"]
+    importance: major
+    physical:
+      age: { value: "mid-twenties", at_chapter: 1, source: "ch-01:p05" }
+    traits:
+      - { trait: "reads people fast; 'orders for people who won't order for themselves' (double-cheeseburger method)", source: "ch-01:p41", mutable: false }
+      - { trait: "quick complete sentences with a turn at the end; questions like scalpels", source: "ch-01:p14", mutable: false }
+      - { trait: "picks up strangers on a hunch / can't pass a stray (inherited from her mother)", source: "ch-02:p34", mutable: false }
+      - { trait: "coy deflection: 'in a way'", source: "ch-01:p71", mutable: false }
+      - { trait: "drinks coffee black", source: "ch-01:p51", mutable: true }
+    voice_markers:
+      ref: "voice-dna.md#anna"
+    relationships:
+      xavier-steadman:
+        type: "picked him up hitchhiking; delivered him to her father's store"
+        established: "ch-01:p16"
+        current_status: "interested (per George, she 'wouldn't waste the trouble' otherwise)"
+      george-holmes:
+        type: "father"
+        established: "ch-02:p31"
+        current_status: "close; at the store more than at her own place"
+    location_log:
+      - { chapter: 1, location: "county road", scene: "driving the green hatchback", travel_noted: true }
+      - { chapter: 1, location: "diner at the crossroads", scene: "booth with Xavier", travel_noted: true }
+      - { chapter: 1, location: "Jamestown", scene: "drop-off at Holmes General", travel_noted: true }
+      - { chapter: 2, location: "Jamestown / Holmes General", scene: "returns in the hatchback to check on the morning", travel_noted: true }
+    knowledge:
+      - fact: "Xavier is a handy drifter looking for work heading east"
+        learned: "ch-01:p26"
+        method: "told_by:xavier-steadman"
+      - fact: "she is George Holmes's daughter (withheld this from Xavier the entire ride)"
+        learned: "foundation"
+        method: "discovered"
+    arc_notes: "George's daughter; lives a mile past the church. Picks Xavier up on a hunch and steers him to her father's store without revealing the connection."
+
+  george-holmes:
+    canonical_name: "George Holmes"
+    aliases: ["George"]
+    importance: major
+    physical:
+      distinguishing:
+        - { value: "big-shouldered old man; large, dry, careful grip (a big man's grip that learned to hold back)", source: "ch-02:p10" }
+        - { value: "wears a canvas apron", source: "ch-02:p02" }
+    traits:
+      - { trait: "old-store folksy; buries the kind thing at the end of a story and underplays it", source: "ch-02:p16", mutable: false }
+      - { trait: "opens with 'Well—'", source: "ch-02:p31", mutable: false }
+      - { trait: "talks aloud to the store stock (the soup cans)", source: "ch-02:p04", mutable: false }
+      - { trait: "feeds/houses people before they can raise a guard", source: "ch-02:p02", mutable: false }
+      - { trait: "does not hire strangers ('never have')", source: "ch-02:p42", mutable: true }
+    voice_markers:
+      ref: "voice-dna.md#george"
+    relationships:
+      anna-holmes:
+        type: "daughter"
+        established: "ch-02:p31"
+        current_status: "close; indulgent about her stray-collecting habit"
+      xavier-steadman:
+        type: "took him in, gave him work; calls him 'son' once"
+        established: "ch-02:p02"
+        current_status: "employer / father-warmth"
+      selena-steadman:
+        type: "unknown to George on-page"
+        established: null
+        current_status: "not established"
+    location_log:
+      - { chapter: 1, location: "Holmes General Store", scene: "closing up; answers the screen door to Xavier", travel_noted: false }
+      - { chapter: 2, location: "Holmes General Store", scene: "shelving, lunch at the counter, hiring Xavier", travel_noted: false }
+    knowledge:
+      - fact: "a woman named Anna gave Xavier a ride into town"
+        learned: "ch-02:p26"
+        method: "told_by:xavier-steadman"
+      - fact: "Anna dropped Xavier at his store without telling him she was George's daughter"
+        learned: "ch-02:p27"
+        method: "inferred"
+    arc_notes: "Owner of Holmes General Store, Anna's father; a widower himself (wife deceased). Takes Xavier in, has him fix the door, and hires him."
+
+  marcus:
+    canonical_name: "Marcus"
+    aliases: []
+    importance: minor
+    physical:
+      age: { value: "about nineteen", at_chapter: 1, source: "ch-01:p36" }
+    traits:
+      - { trait: "eager-to-please, smitten with Anna; can't finish words near her; turns to her 'like a plant to a window'", source: "ch-01:p36", mutable: true }
+      - { trait: "speaks in fragments when Anna is present", source: "ch-01:p40", mutable: true }
+    voice_markers:
+      ref: "character-bible.md#marcus"
+    relationships:
+      anna-holmes:
+        type: "server smitten with her; knows her as a regular"
+        established: "ch-01:p37"
+        current_status: "hopeful/harmless admirer"
+    location_log:
+      - { chapter: 1, location: "diner at the crossroads", scene: "working the counter alone (Rosalie called in)", travel_noted: false }
+    knowledge: []
+    arc_notes: "Young diner server working alone the day Rosalie called in sick; takes Anna's order for Xavier without question."
+
+  selena-steadman:
+    canonical_name: "Selena Steadman"
+    aliases: ["Selena"]
+    importance: supporting
+    traits:
+      - { trait: "appears in memory only; her absence is her present-day presence", source: "ch-01:p49", mutable: false }
+    voice_markers:
+      ref: "character-bible.md#selena"
+    relationships:
+      xavier-steadman:
+        type: "late wife"
+        established: "ch-01:p49"
+        current_status: "deceased (three years before the story opens per Xavier's grief-count)"
+    location_log:
+      - { chapter: 1, location: "an unnamed diner (memory)", scene: "her foot hooked over Xavier's under a booth; sun through blinds", travel_noted: false, flashback: true }
+    knowledge: []
+    arc_notes: "Xavier's late wife, rendered only in memory in Ch1-2 (a remembered diner and an unnamed song). Xavier will not name her aloud."
+    needs_review: false
+
+locations:
+  county-road:
+    canonical_name: "the county road"
+    aliases: ["the county line", "the shoulder", "the two-lane"]
+    facts:
+      - { fact: "where Xavier stood hitchhiking for two-to-three hours before Anna stopped", source: "ch-01:p05" }
+      - { fact: "long, empty rural road through corn fields and cattle pasture", source: "ch-01:p39" }
+      - { fact: "about six miles from the turnoff to Jamestown", source: "ch-02:p21" }
+
+  the-crossroads-diner:
+    canonical_name: "the diner at the crossroads"
+    aliases: ["the diner"]
+    facts:
+      - { fact: "sits at a crossroads with a gravel lot and a sign missing two letters", source: "ch-01:p36" }
+      - { fact: "smells of an old griddle; four stools and split-vinyl booths taped over", source: "ch-01:p36" }
+      - { fact: "about ten miles along the road from where Anna picked Xavier up", source: "ch-01:p30" }
+      - { fact: "double cheeseburger is the only good item, per Anna", source: "ch-01:p41" }
+    distances:
+      - { to: "county-road", value: "~10 miles from pickup point", source: "ch-01:p30" }
+
+  jamestown:
+    canonical_name: "Jamestown"
+    aliases: []
+    facts:
+      - { fact: "one long block of storefronts: a feed store, a church with a marquee, a hardware place, Holmes General on a corner", source: "ch-01:p62" }
+      - { fact: "reached by turning off the county road onto a two-lane, then onto the named street", source: "ch-01:p62" }
+    distances:
+      - { to: "county-road", value: "~6 miles from the turnoff", source: "ch-02:p21" }
+
+  holmes-general-store:
+    canonical_name: "Holmes General Store"
+    aliases: ["Holmes General", "the store"]
+    facts:
+      - { fact: "general store on a corner in Jamestown; wooden 'HOLMES GENERAL' sign gone soft at the edges", source: "ch-01:p62" }
+      - { fact: "screened front door; window light 'the color of butter'", source: "ch-01:p62" }
+      - { fact: "closes at six", source: "ch-01:p67" }
+      - { fact: "owned by George Holmes; his name is on the sign", source: "ch-02:p10" }
+      - { fact: "has been the same building/business for about fifty years; smells of dry goods, paper sacks, old woodsmoke", source: "ch-02:p01" }
+      - { fact: "a toolbox has been kept under the register 'since Eisenhower'", source: "ch-02:p16" }
+
+  store-storeroom:
+    canonical_name: "the storeroom (Holmes General)"
+    aliases: ["the back", "the storeroom cot"]
+    facts:
+      - { fact: "back room with a cot where George put Xavier up the first night", source: "ch-02:p02" }
+      - { fact: "pressed-tin ceiling gone the color of weak tea", source: "ch-02:p13" }
+
+  store-upstairs-room:
+    canonical_name: "the room upstairs (Holmes General)"
+    aliases: ["the room upstairs"]
+    facts:
+      - { fact: "a room George has been using to store winter coats; offered to Xavier as part of the job", source: "ch-02:p42" }
+
+organizations: {}
+
+timeline:
+  - chapter: 1
+    time: "daytime into dusk (single day; Anna picks Xavier up, lunch at the diner, drop-off at dusk)"
+    season: "ambiguous"
+    year: null
+    note: "No explicit date. Xavier references drifting/being careful for 'three years' since Selena's death, and a barn cleared 'in the spring' (past reference). Dusk 'coming down blue' marks arrival in Jamestown."
+  - chapter: 2
+    time: "the next morning into early afternoon (after-lunch; George hires Xavier)"
+    season: "ambiguous"
+    year: null
+    note: "Directly the morning after Ch1's drop-off. Winter coats stored upstairs and 'every winter's woodsmoke' suggest a cool/non-summer season but nothing explicit."
+
+objects:
+  xaviers-duffel:
+    introduced: "ch-01:p05"
+    description: "Xavier's duffel bag; carries everything he owns as a drifter; 'a duffel that could hold anything'"
+    status: background
+    last_mentioned: "ch-02:p02"
+    resolution: null
+
+  green-hatchback:
+    introduced: "ch-01:p07"
+    description: "Anna's green hatchback 'that had seen some winters'; the car she drives"
+    status: background
+    last_mentioned: "ch-02:p44"
+    resolution: null
+
+  store-door-hinge:
+    introduced: "ch-02:p16"
+    description: "the store's screen door, top hinge pulled half out of the jamb, catching for a month; Xavier repairs it by plugging the stripped holes with matchsticks and glue and rehanging it true"
+    status: chekhov_closed
+    last_mentioned: "ch-02:p19"
+    resolution: { chapter: 2, paragraph: 17, description: "Xavier fixes the door; it swings true and the latch catches clean — proves his usefulness and prompts the hire" }
+
+  dead-jukebox:
+    introduced: "ch-01:p49"
+    description: "a dead, unplugged jukebox in the corner of the crossroads diner, its cord looped over the top; triggers Xavier's memory of Selena and the unnamed song"
+    status: background
+    last_mentioned: "ch-01:p49"
+    resolution: null
+
+  the-unnamed-song:
+    introduced: "ch-01:p49"
+    description: "a song that was playing at some diner years ago when Xavier was with Selena; he can recall every detail of the memory except the song's name, which sits 'just past where he could reach'"
+    status: chekhov_open
+    last_mentioned: "ch-01:p49"
+    resolution: null
+
+world_rules:
+  - { rule: "Strict single third-limited POV (Xavier only) — the narrative conveys only what Xavier perceives/knows", source: "ch-01:p05" }
+  - { rule: "Holmes General Store closes at six", source: "ch-01:p67" }
+  - { rule: "George Holmes does not hire strangers — only people who have 'been introduced'", source: "ch-02:p42" }
+  - { rule: "Anna lives about a mile past the church, outside Jamestown, though she is at the store more than at home", source: "ch-02:p34" }
+
+knowledge_gaps: []
