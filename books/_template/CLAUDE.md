@@ -68,4 +68,8 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 - <fill in>
 
 ## Status (update as you go)
-- Scaffolded. Awaiting source material in `research/`, then architect pass.
+- ⚠️ TEMPLATE DEFAULT — freshly scaffolded, no source staged yet. **Update this AND
+  `STATE.yaml`'s `phase.status` the moment source lands or the architect runs.** A status
+  line that still says "TEMPLATE DEFAULT" is stale by definition — verify against the actual
+  files (`research/`, `foundation.md`/`outline.md` at root or under `project/`,
+  `feedback/progress.md`) rather than trusting it.
