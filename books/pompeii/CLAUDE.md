@@ -167,6 +167,9 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 >
 > **MANDATORY chapter loop (author Terry, EVERY chapter — no skipping):**
 > book-writer → **dialogue-polish → hook-craft → disruptor** (all three, every time) →
+> **update `character-bible.md`** if the chapter introduced a new named character (distinctness
+> signature + DISTINCTNESS GUARANTEE; obey the TIC BUDGET — ≤2–3 tic-bearers total = Fenn + Kallia;
+> no second character borrows the narrator's catalogue/condition device) →
 > mechanical gates (style_check + grammar_check + voice_wear_check clean; em-dash ≤4) →
 > **independent book-evaluator Genesis Score (Floor ≥8.5 + PACING)** → book-editor polish loop if
 > any dimension <8.5 → re-evaluate → commit + push to main + update ALL trackers per chapter.

@@ -37,6 +37,7 @@ run ONE general-purpose agent that performs each role itself by reading ~/.claud
 book/genesis/<slug>/
 ├── STATE.yaml                 # READ FIRST — project state, word/style gates, canon
 ├── research/                  # staged source: original-draft.txt + roadmap/bible/etc.
+├── character-bible.md         # cast VOICE/distinctness — ADD every new named character here (tic budget)
 ├── manuscript/chapters/       # chapter-1.md ... chapter-N.md (the book)
 ├── evaluations/               # per-chapter eval reports + continuity audits
 ├── feedback/progress.md       # exact resume point
