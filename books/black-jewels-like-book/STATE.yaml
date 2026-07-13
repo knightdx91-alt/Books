@@ -33,7 +33,7 @@ word_floor:
 
 phase:
   current: 1
-  status: "scaffolded — awaiting source material in research/, then architect"
+  status: "source staged — research/source-notes.md (~2.8KB, premise + gem/rank worldbuilding notes; no prose drafted) present; READY for architect pass. Not yet blueprinted. (Separate story from Sygl per author — do NOT merge.)"
   history: []
 
 chapters:

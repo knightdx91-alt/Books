@@ -33,7 +33,7 @@ word_floor:
 
 phase:
   current: 1
-  status: "scaffolded — awaiting source material in research/, then architect"
+  status: "source staged (thin) — research/source-notes.md (~0.9KB, premise seed only: John Maxwell, B&B, ghost-draining wraith) present; READY for architect pass, though premise may need expansion first. Not yet blueprinted."
   history: []
 
 chapters:

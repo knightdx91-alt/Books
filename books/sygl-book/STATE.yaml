@@ -33,7 +33,7 @@ word_floor:
 
 phase:
   current: 1
-  status: "scaffolded — awaiting source material in research/, then architect"
+  status: "architect DONE — foundation.md + outline.md live in project/; source is Sygl_Complete.txt (root); 3 chapters drafted (manuscript/chapter-01..03.md), superseded/ holds earlier drafts. Resume: normalize STATE.yaml from project/ blueprint, repoint canon_sources at project/, optionally migrate manuscript/chapter-0N.md → manuscript/chapters/, then continue drafting. See feedback/progress.md."
   history: []
 
 chapters:

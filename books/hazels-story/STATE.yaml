@@ -33,7 +33,7 @@ word_floor:
 
 phase:
   current: 1
-  status: "scaffolded — awaiting source material in research/, then architect"
+  status: "source staged — research/source-notes.md (~1.8KB, one page of opening prose: Hazel, shadow-jumping chase) present; READY for architect pass. Not yet blueprinted. (Separate story from Saeren per author — do NOT merge.)"
   history: []
 
 chapters:
