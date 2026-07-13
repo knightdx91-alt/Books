@@ -155,6 +155,32 @@ dollars — he is barely holding on.
 - **Sample line:** "I've known her since we were nine. You've known her a month.
   I'm just saying."
 
+#### The Watcher (concealed-antagonist interlude voice)
+> This is the stalker's interior, used ONLY in the 3–4 set-off interludes (see the
+> amended POV lock). It is Derek — but it must NEVER read as identifiably Derek, or
+> as any single suspect. Treat it as a **fourth, deliberately anonymous voice.**
+- **Vocabulary band:** Cold, flat, controlled. Plain words, short declaratives.
+  No charm (that would fingerprint Derek), no fumbling (that would fingerprint
+  Caleb), no grief-somatics (that would fingerprint Xavier). Ownership language
+  kept abstract — "she," "the thing," "what's mine" — never "my Anna" (Derek's
+  public tic must not leak into the interludes).
+- **Syntax fingerprint:** Calm, patient, sequential. The horror is the *reasonable
+  tone* applied to unreasonable content. Present-tense certainty about her
+  feelings ("she remembers," "she'll understand"). Repetition as fixation.
+- **Concealment rules (hard):** Never names himself, Anna's men, his job, his
+  vehicle, or any single-suspect physical tell. Refers to himself as "he." Every
+  line literally true in hindsight (withhold, never lie). May carry **reread-plant
+  facts** (e.g. "you don't throw a thing back and have it stay thrown") only after
+  the necklace history is planted in Xavier's line.
+- **Never says:** His own name; "my Anna"; anything that decodes to one suspect
+  before its fair-play window; any statement false after the Ch27 reveal.
+- **Under pressure (late book):** The control fissures into rage right at the arson
+  — this is the ONLY place the flat voice heats up, and the heat is *why* he slips
+  and leaves the evidence that gets him caught. Reserve it.
+- **Sample line:** "He had a good spot now, past the propane cage where the
+  streetlight quit. She moved around the lit store not knowing she was watched.
+  That was the part he liked. The not-knowing."
+
 ---
 
 ## 3. Voice Differentiation Matrix
@@ -166,6 +192,7 @@ dollars — he is barely holding on.
 | George | Long circling stories that bury the kind thing at the end | vs Anna: George's turn warms, Anna's cuts |
 | Derek | Reasonable sentences with a possessive word hidden inside; calm = threat | vs Caleb: Derek's resentment is CONCEALED and smooth; Caleb's is OPEN and clumsy — the whole misdirection lives in this contrast |
 | Caleb | Unfinished sentences, "I'm just saying," can't lie | vs Derek: transparency vs concealment |
+| The Watcher | Cold flat reasonable interior applied to obsessive content; abstract ownership ("the thing," "what's mine") | vs Derek: must NOT carry Derek's charm or "my Anna" — the interlude voice is deliberately un-matchable to any suspect |
 
 **Cover-the-name test pre-solved:** the two men circling Anna are the collision
 risk. Rule: **Derek is always smooth and never finishes short; Caleb is always

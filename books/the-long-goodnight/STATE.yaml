@@ -55,6 +55,7 @@ guardrails:
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
   - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
   - "Small-town romantic suspense with a whodunit spine; slow-burn grief romance braided with an escalating stalker mystery. Canon blueprint in outline.md, voice-dna.md, character-bible.md, ENTITY_STATE.yaml. Canon names Xavier (was Troy) / Derek (was Chris); the handwritten draft (research/) is pre-canon source, NOT canon."
+  - "POV (amended 2026-07-13): primary POV is strict single third-limited Xavier ONLY, plus 3-4 concealed-antagonist 'Watcher' interludes (the sole non-Xavier POV). Watcher is Derek but must NEVER read as identifiable: never named/self-described, refers to himself as 'he', withholds-never-lies (every line true after the Ch27 reveal), no single-suspect tell before its fair-play window, a deliberately un-matchable 4th voice. First interlude no earlier than post-Ch9. Consequence: reader no longer suspects Xavier (interludes show a separate consciousness); Xavier-as-suspect survives as TOWN suspicion only; reader's whodunit = Derek vs Caleb. Interlude map in chapter-outline.md; concealment rules in outline.md POV lock + voice-dna Watcher card."
 
 open_author_decisions:
   - "Reconcile the 2 drafted chapters + handwritten draft to canon names before continuing."

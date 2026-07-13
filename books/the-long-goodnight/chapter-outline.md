@@ -1,7 +1,9 @@
 # The Long Goodnight — Chapter Outline / Beat Sheet
 
-> Blueprint, not prose. Canon = `outline.md` (roadmap). Strict single
-> third-limited, Xavier only, throughout. No villain POV, ever.
+> Blueprint, not prose. Canon = `outline.md` (roadmap). Primary POV: strict single
+> third-limited, Xavier only, throughout — EXCEPT the 3–4 set-off **Watcher
+> interludes** (concealed-antagonist POV; see outline.md POV lock + the interlude
+> map below). Those are the only non-Xavier POV; hard concealment rules apply.
 
 ---
 
@@ -46,6 +48,27 @@ slack that can trim without threatening the floor).
 - Rung 5 (the fire): Ch 28
 - **Fair-play clue pays off: Ch 27** (Xavier finally places the gift → knows it's
   Derek → too late to stop the fire, races back)
+
+**Watcher-interlude map (concealed-antagonist POV — 4 slots):**
+Each is a short (~200–350w), unlabeled, typographically set-off block placed at a
+chapter *seam* (open or close), NEVER earlier than the suspect pool (post-Ch9).
+Concealment/fair-play rules per outline.md POV lock + voice-dna Watcher card.
+- **Interlude I — seam of Ch 9/10 (after the first gift).** Establishes there IS a
+  predator and that he savors "the not-knowing." Watching the lit store; the gift
+  left. Identity sealed → reader's mind races Derek↔Caleb. (Rung 1 amplifier.)
+- **Interlude II — seam of Ch 12/13 (after the necklace is planted).** The watcher
+  and "the thing she threw back" — reread-plant deepening the necklace clue,
+  still unnamed. Inside-knowledge menace (he knows her routine). (Rung 2.)
+- **Interlude III — seam of Ch 18/19 (point of no return).** The fixation curdles
+  from "win her back" to "she has to see what she's choosing" — the turn toward
+  removing the rival begins. Dread now points at Xavier's safety. (Rung 3→4.)
+- **Interlude IV — seam of Ch 26/27, DURING the "Derek left town" belief.** The
+  rug-pull: the reader, having filed Derek as gone, gets proof the predator is
+  still here and moving — the flat voice starting to heat — right before Xavier
+  places the necklace. Maximum dread + misdirection collapse. (Pre-fire.)
+> Rejected: a cold-open prologue interlude (Interlude 0). It would tip menace
+> before Xavier's numb opening earns its quiet, and before suspects exist there's
+> no pool for the reader to race across. Hold the first interlude to post-Ch9.
 
 ---
 
