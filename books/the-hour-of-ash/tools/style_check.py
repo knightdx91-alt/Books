@@ -45,6 +45,7 @@ ALLOWLIST = [
     "next season",
     "the map is honest",          # Fenn marginalia insert #1 (Ch.2); canonical door-law refrain
     "whether there was anything in it",  # Verrall's thematic refrain (Ch.2 spine + pull payoff)
+    "nothing to me either way",   # Valens's signature lie (Ch.7); deliberately echoed/thrown back (Ch.8)
 ]
 
 # n-gram repetition settings
