@@ -10,6 +10,8 @@ Now it was morning and the man was out front already, and Xavier lay a minute on
 
 He was talking to the soup.
 
+Xavier lay still and took the storeroom in by ear and nose the way he'd learned to take a strange building, which was the way you take the measure of a man by his house. Everything within reach of the cot was paper or wood or cloth. Flour in paper sacks stacked to his shoulder, crackers in waxed boxes, a bolt of oilcloth stood on end in the corner, cardboard soft with age, the dry-goods smell of a dry old room under dry old beams that had been holding the second floor up since before anybody now alive had a say in it. A box of kitchen matches on the shelf by his head, and under the window a squat can of lamp oil, because the power went out here and George was the kind to be ready for it. It was all so quiet and so kept. Somebody wound this clock. He hadn't slept in a wound building in a long time, and his body had noticed before he had, and stayed down an extra hour on the strength of it.
+
 Xavier lay back down and looked at the ceiling, which was pressed tin gone the color of weak tea, and for a moment — a bare moment, gone before he could be ashamed of it — the store held still around him like a held breath, and it was the first honest quiet he'd been inside of in longer than he wanted to count.
 
 He got up and put his boots on.
@@ -39,6 +41,12 @@ Xavier looked at the door. He was glad of it — of a thing with a clear inside 
 He stood there holding the door a second longer than the job needed, working it, listening to the latch, and something in his chest did the thing it had done in the diner — the small unlocking. He shut the door. He shut the feeling with it.
 
 "Now that," George said from behind him, not turning around, "is the first time that door's told the truth in a month."
+
+Xavier meant to say it was nothing, which was the true thing and the easy thing and the thing that closes a moment clean. What came out of him instead was the matchsticks. He heard himself explaining them, how the screws had chewed their holes out and the wood behind had gone punky, how you plug it and give the threads something green to bite into, how it'd hold now till the frame itself let go in a few more winters — explaining it past where George had stopped needing to know, and then past where he himself knew to quit, the words just running on because the other option was to stand there having done a decent thing in front of a man and be looked at for it. He got to the frame letting go in a few more winters and there was nowhere left to take it. He stopped. He looked at the door instead of at George.
+
+"Anyway," he said. "It was catching."
+
+"It was," George agreed, and let him off it, and turned back to the shelf, and that was a kindness too, though a different-shaped one than the sandwich.
 
 ---
 
@@ -96,8 +104,14 @@ George heard it and grinned and didn't say anything, which was the kindest thing
 
 Xavier looked at the hand. Three years he'd taken work the way you take weather, one town's worth at a time, careful never to be anywhere long enough to be missed leaving it. He knew how to say no to this. He'd said no to gentler things than this and walked out into the dark and been glad of the dark.
 
-Behind the counter, through the front glass, a green hatchback that had seen some winters slowed at the curb, and gravel ticked, and a woman he'd known for exactly one day put it in park and left it running and looked in through the butter-colored window to see how the morning had gone.
+Behind the counter, through the front glass, a green hatchback that had seen some winters slowed at the curb, and gravel ticked, and a woman he'd known for exactly one day put it in park and left it running.
+
+She looked in through the butter-colored window to see how the morning had gone, and Xavier looked back at her, and there it was, the thing she didn't have yet. She'd built his whole morning and driven off pleased with the building of it, and now she'd come back around to watch it land on him, and she didn't know it had already landed, that her father had handed him the whole trick of her across a ham sandwich an hour ago. She was reading his face for a stranger's surprise. He had a day on her now that she didn't know he had, one turned card she hadn't seen him turn. It settled into his chest next to the other thing, the unlocking, and the two of them did not sit easy together, the warmth and the small cool weight of knowing something about her before she knew he knew it.
+
+She lifted a hand off the wheel. Not quite a wave. Just letting him see she was there.
 
 Xavier took the old man's hand.
 
 "All right," he said. "I can do that."
+
+He watched her through the glass while he said it, and kept what he knew off his face, and it came to him that he'd just said yes to two people in the one breath, and only one of them had heard it.
