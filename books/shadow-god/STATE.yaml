@@ -22,7 +22,7 @@ adaptation:
     # chapter_roadmap: "research/chapter-roadmap.md"   # scene-by-scene plan (binding outline)
     # master_checklist:"research/master-checklist.md"
   chapter_1_locked: false        # set true if Ch.1 is a hand-finished voice benchmark
-  chapters_to_produce: []        # e.g. [2,3,...,N]
+  chapters_to_produce: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21]  # Ch.1 REVISES Draft A+B; Ch.2 expands Draft B; rest new on canon
 
 word_floor:
   manuscript_min_words: 85000    # HARD FLOOR (book total) — the binding gate; adjust per book.
@@ -33,12 +33,12 @@ word_floor:
   shortest_chapter_floor: 1200   # sanity floor for the SHORTEST allowed chapter (punch chapters ok; not a target)
 
 phase:
-  current: 1
-  status: "seeded — author opening staged (research/original-draft.md); next: architect"
-  history: []
+  current: 2
+  status: "architect complete — foundation.md + outline.md + voice-dna.md written; next: chapter loop starting Ch.1 (revise Draft A+B)"
+  history: ["2026-07-13: architect pass — diptych macro-structure, 21 chapters, Σ~104.7k budget"]
 
 chapters:
-  total_planned: 0
+  total_planned: 21
   completed: []
   scores: {}
 
