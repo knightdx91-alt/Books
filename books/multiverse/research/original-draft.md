@@ -3,6 +3,11 @@
 > Source: author's handwritten pages (3 pp.), transcribed 2026-07-12. This is the
 > author's own prose — the opening scene / chapter 1 seed. Preserve the voice; the
 > pipeline revises/expands from here, it does not overwrite the author's intent.
+>
+> **DEVELOPMENT STATUS (2026-07-13):** the opening below is preserved verbatim. The full story
+> spine (genre lane, cast, travel dynamic, antagonist truth, romance, ending) has since been
+> developed with the author and is LOCKED — see "LOCKED STORY DECISIONS" below. This doc is canon
+> for the architect pass. Architect NOT yet run.
 
 ---
 
@@ -82,29 +87,114 @@ science fiction to him.
 
 ---
 
-## What the opening establishes (for the architect)
+## LOCKED STORY DECISIONS (author, 2026-07-13)
 
-- **Nathan** — POV. Divorced ~3 years ago; travels for work ("the job"); has spent ~6 months
-  as a regular at the shop; genuinely in love with Cat, not just attracted. Ordinary-man anchor.
-- **Cat Williams** — small, curly black hair, green eyes "full of laughter," jet-black lipstick,
-  mischievous. Owner of **Cat's Curiosities** (curio/antique shop, lives above it). Politely
-  rebuffs every suitor. Sad to sell items she "can't replace." She is clearly a multiverse
-  traveler who sources her one-of-a-kind stock from other worlds — and something more: she's
-  "truly powerful" (has a presence in every world), and has a personal history/grudge with **the
-  Watchers** ("things the Watchers have forgotten... reminding them just who I am and what I can do").
-- **The multiverse rules (canon so far):**
-  - Every decision branches a universe (trivial → world-historical). Uncountable worlds.
-  - Worlds are NOT mirror copies. Only the "truly powerful" have a presence in EVERY world.
-  - Having no counterpart in a world lets you move through it without being "pulled into" that
-    life; people who DO have counterparts there get killed that way (mechanism TBD).
-  - **The Watchers / "powers that be"** police secrecy. Traversal isn't forbidden, but drawing
-    attention is. One warning via an **emissary**; ignore it and a team wipes you out.
-- **Tone:** grounded contemporary/urban fantasy; slow-burn reveal via conversation; romance thread.
+**Genre / lane — COZY-WITH-TEETH.** The draft's DNA is cozy (tea, wonder, a comfort-space shop, a
+slow-burn romance, the Watchers *described* not *felt*) — lean into that. Cozy fantasy romance with
+escalating stakes: warmth first, a shadow lengthening underneath. ~90,000 words. Comps (the STATE gap
+to fill): *Legends & Lattes* (Travis Baldree), *The Midnight Library* (Matt Haig), *The House in the
+Cerulean Sea* (TJ Klune). The multiverse is NOT the differentiator (that concept is saturated) — **the
+cozy magic-shop framing + the moral twist are.**
 
-## Open questions the draft leaves (architect / author)
-- Who exactly are the Watchers, and what is Cat's history with them? What is she planning?
-- What makes Cat "truly powerful"? What is she, really?
-- How does traversal physically work (the shop's items as anchors/keys?)? Does Nathan get to travel?
-- The "pulled into the life you were living" death mechanism — how does it work?
-- Where is the story going — is Nathan drawn into Cat's campaign against the Watchers? Genre lane
-  (cozy-ish urban fantasy vs. escalating multiverse thriller)?
+1. **POV / cast.** Keep **Nathan** as the everyman-anchor POV (divorced ~3 yrs, travels for work,
+   6-month shop regular, in love with Cat — genuine, not just attraction). **Cat Williams** — the
+   self-made powerful traveler who owns Cat's Curiosities and lives above it. (Single-POV Nathan vs.
+   dual-POV with Cat is an architect call; the everyman surrogate is right for cozy wonder.)
+
+2. **Travel dynamic — BOTH travel, with INVERTED asymmetric risk.** Cat sources her stock herself and
+   is not powerless. But the risk is reversed from the usual: **Nathan, a nobody with no counterpart in
+   almost any world, moves invisibly and safely**; **Cat, powerful and *known* (a presence in every
+   world), is exposed every time she travels** — the Watchers can find her, and anyone with her. So
+   "she risks going with him" is a real emotional beat: she doesn't have to go, and goes anyway. The
+   ordinary man is the safe one; the powerful woman is the one in danger.
+
+3. **Cat's nature — self-made, grew INTO her power.** Not born-divine. An ordinary person who stumbled
+   into traversal, got the one emissary's warning, and instead of stopping went *deeper* and kept
+   growing — survived when the Watchers came, and grew until she has a presence in every world (the mark
+   of the truly powerful, and what put her on their radar). Now finally strong enough to stop running.
+   Her line "there are things the Watchers have forgotten; I plan on reminding them just who I am" =
+   she was a nobody they tried to swat and became someone they should have finished.
+
+4. **Cat's plan — force the Watchers to END the kill-on-sight rule.** NOT expose the multiverse to the
+   whole world (too big/thriller). Targeted: make herself and her leverage undeniable enough that they
+   must deal rather than murder. **The shop is a secret arsenal** — the special one-of-a-kind items are
+   a decades-long collection of leverage (artifacts, keys, evidence — things the Watchers want or fear),
+   quietly gathered across a thousand worlds. That's why she's *sad to sell*: she parts with cover stock
+   and guards the real hoard. Personal engine underneath: the Watchers killed travelers like her (a
+   first companion, early on), and she's spent years becoming strong enough to make them stop.
+
+5. **THE TWIST (author-added — the spine of the book): she learns the REAL reason they have to kill.**
+   Promote the draft's own death-mechanic from footnote to engine. Attention-drawing travel doesn't just
+   endanger the loud traveler — it triggers a **cascade**: the noise (via the counterpart mechanic)
+   consumes not only the traveler but their **counterparts across every world they touch** — the more
+   attention, the wider it spreads; one reckless traveler can unravel and kill *thousands* of innocent
+   versions of people. So the Watchers' kill-on-sight is **tragic triage**: murder the one loud traveler
+   fast, before the noise spreads and takes thousands of quiet innocents. Cat's crusade to end the rule,
+   if she *won*, would unleash exactly the catastrophe the rule prevents. She has spent years and her
+   whole heart becoming strong enough to end the killings — and learns the killings are the lesser evil.
+
+6. **The Watchers — necessary BUT callous/complacent (never simple villains, never fully absolved).**
+   The rule may be necessary, but they've grown callous enforcing it and stopped looking for a better way
+   generations ago, because killing is easy. Cat keeps the moral high ground even after the reveal:
+   *"You're right that it's dangerous. But you gave up. I won't."* They remain antagonists — guardians
+   who quit trying — and Cat is the search for the third door they abandoned.
+
+7. **The ending — the THIRD WAY (cozy-with-teeth resolution).** Not "burn it down," not "accept the
+   murders." Cat, with her arsenal-shop and **crucially Nathan's ordinariness**, finds what the Watchers
+   stopped looking for: people with **no counterparts** — nobodies like Nathan — can travel without
+   triggering the cascade. **The un-huntable are the safe travelers.** The very thing that made Nathan
+   safe to love becomes the seed of the solution: a way through that doesn't require the killing.
+   Hopeful, earned, and it costs them something to reach (the "teeth"). Nathan's ordinariness closes the
+   whole loop — romance, plot, and theme in one.
+
+8. **Romance — mutual, and safe-BECAUSE-ordinary (reframed).** Cut the nice-guy-persistence and the
+   male-gaze. Cat rebuffs everyone for a REAL reason — attachment is dangerous (the Watchers hunt her;
+   the close are exposure and leverage; she's watched people die). Nathan is different not because he
+   wore her down but because **his ordinariness makes him safe to love** — un-huntable, no counterparts,
+   can't be traced or used against her. It's *her* active choice, mutual from the start, plot-integrated.
+   CUT the "she had the perfect body, in Nathan's eyes" line; KEEP the real romance line already in the
+   draft: *"things always seemed better when he was with her."*
+
+---
+
+## STRUCTURE THIS IMPLIES (for the architect)
+- **Front half — cozy:** the shop, the deepening romance, episodic **sourcing trips** into wondrous
+  worlds; the Watchers a looming but unfelt shadow.
+- **Midpoint / ~60% turn:** Cat gets close enough to force the Watchers' hand and **learns the truth**
+  (the cascade / why the rule exists). The book pivots from "beat the villains" to the harder problem.
+- **Back half — what do you do with a terrible truth?** → the **third-way climax** (the un-huntable
+  travelers), reached at real cost.
+
+## KEEP-IT-SIMPLE GUARDRAILS (do not violate in the architect pass)
+- **Lead cozy, escalate to teeth** — warmth first; do NOT open on violence/urgency.
+- **The Watchers are necessary AND complacent** — never simple villains, never fully absolved.
+- **Romance is mutual and Cat's choice for real reasons** — no persistence-wins-her, no male-gaze.
+- **The differentiator is the cozy shop + the moral twist**, not the multiverse concept itself.
+- **Ch.1 CRAFT NOTE:** the current opening delivers the whole secret as an *infodump over tea*
+  ("What do you know of the multiverse?" → lecture), which spends the mystery cheaply and makes Nathan a
+  passive audience. The architect/writer should **dramatize and earn the reveal** (show a hint of the
+  impossible before Cat explains it; give Nathan a want and a little agency) while KEEPING the warm voice
+  and the tea-and-wonder texture. Front-loading "yes, it's real" is fine; delivering it as a lecture is not.
+
+---
+
+## OPEN / FOR THE ARCHITECT TO PROPOSE (not yet decided)
+- Real **title** (rename the folder once chosen).
+- The **cascade / predator's** exact nature and name (what precisely consumes the counterparts; is it a
+  thing, a physics, a merging?) and how the counterpart-death mechanic works mechanically.
+- The **Watchers'** organization: structure, the emissaries, who they are, how they became complacent,
+  and what leverage in Cat's collection could actually move them.
+- **Cat's specific backstory:** the first companion they killed; how she grew into power; the "who I am"
+  they forgot.
+- **How traversal physically works** (are the shop's one-of-a-kind items keys/anchors? Is the shop a
+  nexus?) and the concrete mechanics of the third-way solution (un-huntable travelers).
+- **Setting** (town, region, era) — atmosphere/cozy-texture is a marketing asset in this comp lane.
+- POV scope (single-Nathan vs. dual with Cat); comps to lock in STATE.
+
+---
+
+## Transcription notes
+- Author's Chapter 1 opening kept verbatim (above).
+- Story spine developed with the author 2026-07-13; decisions LOCKED as recorded.
+- No revised prose drafted yet. READY for the architect pass (build foundation + outline + voice-dna
+  from this) — but per author, do NOT run the architect yet.
