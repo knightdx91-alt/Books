@@ -12,6 +12,8 @@ He was talking to the soup.
 
 Xavier lay still and took the storeroom in by ear and nose the way he'd learned to take a strange building, which was the way you take the measure of a man by his house. Everything within reach of the cot was paper or wood or cloth. Flour in paper sacks stacked to his shoulder, crackers in waxed boxes, a bolt of oilcloth stood on end in the corner, cardboard soft with age, the dry-goods smell of a dry old room under dry old beams that had been holding the second floor up since before anybody now alive had a say in it. A box of kitchen matches on the shelf by his head, and under the window a squat can of lamp oil, because the power went out here and George was the kind to be ready for it. It was all so quiet and so kept. Somebody wound this clock. He hadn't slept in a wound building in a long time, and his body had noticed before he had, and stayed down an extra hour on the strength of it.
 
+His hand had gone looking in the night. He knew it the way you know a thing your body did without you — it had crossed the cot to the cold half where nobody was, found the seam of the mattress and the wall behind it, and come back. Three years and it still went. He lay a moment with the hand curled empty against his chest and let it be empty, which was the only thing you could do with it, and then the cooler kicked on again and gave him somewhere else to put his attention.
+
 Xavier lay back down and looked at the ceiling, which was pressed tin gone the color of weak tea, and for a moment — a bare moment, gone before he could be ashamed of it — the store held still around him like a held breath, and it was the first honest quiet he'd been inside of in longer than he wanted to count.
 
 He got up and put his boots on.
