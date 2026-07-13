@@ -10,6 +10,16 @@ The Demon Lord General Bal governs the third ring of Hell. Zack's mother met Bal
 
 Being the son of a Demon Lord and an ex-arch angel, Zack possesses the ability to survive on both the angelic and infernal planes. His angelic side doesn't really come into play until the second book.
 
+### Additional notes (from a later "Demon Academy Notes" page)
+
+- MC is a Demon Lord, not just a greater Demon.
+- There are currently ten rings of hell; only a Demon Lord can rule a ring.
+- There are currently 7 demon Lords, as there was a rebellion against the Daemon High Lord, who rules all of hell.
+- Out of the 7 demon lords only three could be considered completely loyal; they went to the demon academy with the High Lord.
+- Just an idea → MC could be part demon part angel?
+
+> Note: these later notes upgrade the MC from "greater demon" (earlier premise + pg5) to "Demon Lord," and the "part demon part angel" idea is marked here as tentative ("just an idea") even though the first premise page already committed to it. Author to reconcile.
+
 ---
 
 ## Manuscript
@@ -28,6 +38,9 @@ At some point Zack passed out, the strain finally getting to him. The first thin
 <!-- pg 4 -->
 because his bed and pillow at home definitely did not feel like this, he opened his eyes. The white of the walls and the sterile feel of the room made zack think he was in a hospital. Zack struggled to sit up before giving up and laying back down. What the hell was going on? The last thing he remembered was the girls in the school and that creepy ass tunnel thing on the ceiling. The door to his right opened a moment later and a tall woman with shoulder length jet black hair and a pair of glasses that hung from a chain around her neck. She wore black slacks and a blood red blouse. "Ah," she says with a smile when she sees that he is awake, "Our newest student has finally woken up." she walked to his bedside and looked down at him. "And how are we feeling?" she asked. Zack shakes his head, "I'm confused as hell," he says, "whats going on? Where am I?" Now it was the woman's turn to be confused. "The girls didn't explain?" she asked. When zack shakes his head the woman sighs. "I'm sorry about that, they really should have known better new students or not. Okay, let's start over. My name is Mara darksoul and I am the current headmistress of the Demon Academy," she says brightly. Looking around she grabs a chair from the corner of the room and places it beside the bed. "Demons that are just coming into their powers get recruited into one of the three schools in the outer reaches of hell. We're currently ranked number three but we're hopeful we will dominate in the Demon trials this year." "Like I told those girls, you've got the wrong guy. I'm not a Demon." Mara bit her lip, looking at him, "Okay, obviously just explaining isn't working." Mara stood up, "Maybe this will work." With a deep breath, she made some complicated hand signs then placed her hands by her side. After a moment her form began to ripple and change. Zacks jaw dropped as Mara now had large black leathery wings and two black horns coming out of her forehead. Other than that, besides her skin having a faint reddish tint, she looked the same.
 
+<!-- pg 5 -->
+"Holy fuck demons are real" Zack breathed, not able to take his eyes from Mara, who smiled at his response. "That we are. Though there are more impressive demons, looks wise, then me, but at least you know I'm telling the truth." Zack shook his head again, this time in stunned amazement, "That still doesn't explain me though. Like how you think I'm a demon too." Mara nods expecting this, "All demons give off certain energy, it helps us find our own kind. While it is possible to mask it with enough practise, no new demon is going to know how to do that. For lesser demons, such as the girls that came through with you, to pass through the hells of perdition they need a greater demon as an anchor. That way they don't get stuck there." "So you're saying I'm a greater demon?" Mara nods, "At least. There's honestly no telling until you do the test to see what class of demon you are. All we know about you so far is that you were strong enough to bring the girls through. Also, thanks for that by the way. Korin is the daughter of a friend of mine. I would have hated to tell her that her daughter didn't make it." "What would have happened if I hadn't of shown up?" Zack asked curiously. Mara looked at him, turning serious. "Then she would have died." "What?!" Zack says. Mara nods, "Demons need the infernal energies of the hells, especially newly awoken ones. The portals that lead here are only able to be open so often. If she had not made this trip the odds are she would not have survived until the next opening." Mara looks down at her watch on her right wrist. "It's about time for orientation," she says
+
 ---
 
 ## Transcription notes (uncertain spots — verify against originals)
@@ -37,3 +50,4 @@ because his bed and pillow at home definitely did not feel like this, he opened 
 - The five girls' uniforms bear "DA" — presumably "Demon Academy."
 - **pg 3:** MC's full name given as **Zack Adams** (the premise page only used "Zack").
 - **pg 4:** "dominate in the Demon trials" — "games" was crossed out and "trials" written above; kept "trials." Headmistress: **Mara Darksoul**.
+- **pg 5:** the red-haired girl's name is spelled **Korin** here but **Karin** on pg 2 — same character, inconsistent spelling in the original.
