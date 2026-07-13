@@ -21,7 +21,7 @@
 and dies in the ash and the book ends in 79 AD, the retrospective vantage is NOT a future survivor
 looking back. It is the voice of a woman who has lived the whole nine years and is telling it from
 *inside* the ending — the foreknowledge ("I would learn, too late…") is lived memory, not a
-20th-century deathbed. Read it as her account given in the long dark of the last shelter (Ch.45),
+20th-century deathbed. Read it as her account given in the long dark of the last shelter (Ch.34–35),
 the whole life passing before her in the hours before the surge. The "thirty years" register
 becomes "the years I had," not "the years since." **NO POV shift, NO modern frame, NO close-third
 coda.** Stay in Mara's first-person voice from Ch.1 through the final line in the ash.
