@@ -55,6 +55,7 @@ guardrails:
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
   - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
   - "System canon: status screens/stats (STR/VIT/AGI/WIS/INT/CHA/LUCK), class rarities common→uncommon→rare→epic→ancient→legendary→mythic; MC's Beast Tamer (Ancient) growth class; beta bond Dapple (iron-hide wolf cub, ancient); title 'Legend's Progeny'; seven towers (one per stat except luck, done in order, ~tower per book); world 'Seminova' / Cygnis system. MC James Mason — distinct from litrpg-josh."
+  - "NO ROMANCE: per author source, James makes friends but has NO romantic interests. Do NOT add a love line or harem. The girl who parties up for the first tower is an ally/party member, not a love interest."
 
 open_author_decisions:
   - "Confirm whether the grandfather was originally from Seminova and the source of the portal ability."
