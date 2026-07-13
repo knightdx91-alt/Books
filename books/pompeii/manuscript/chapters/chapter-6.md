@@ -154,7 +154,7 @@ He came up the road in the last good weather before the wet closed in, an old ma
 
 I stood there with the jug going cold in my hand, and something in me had gone very still.
 
-Because I had a question. I had the largest question a human creature had ever carried up that road, and here was an old man telling me, over a pot, that there was a place, a walk of a morning from where I stood, where the god still troubled to answer, where a woman went down into a cleft in the rock and came up with the true thing folded small. I did not believe in the god. I want to be clear that the modern woman in me did not, for one instant, believe that a priestess breathing a vapour in a cave could know anything of doors through time or the way back to a life nineteen centuries off. But I had also not believed, on an English headland, that a compass could turn in circles pointing at a north below the world, and I had knelt and watched it do exactly that, and I had learned, at great cost, to distrust the confident *cannot* as much as the confident *is.*
+Because I had a question. I had the largest question a human creature had ever carried up that road, and here was an old man telling me, over a pot, that there was a place, a walk of a morning from where I stood, where the god still troubled to answer, where a woman went down into a cleft in the rock and came up with the true thing folded small. I did not believe in the god. I want to be clear that the modern woman in me did not, for one instant, believe that a priestess breathing a vapour in a cave could know anything of doors through time or the way back to a life nineteen centuries off. But I had also not believed, on a headland at the edge of the world, that a compass could turn in circles pointing at a north below the world, and I had knelt and watched it do exactly that, and I had learned, at great cost, to distrust the confident *cannot* as much as the confident *is.*
 
 "Does he answer anything," I said, and I heard my own voice come out lower than I meant it. "Or only the ordinary stones. Inheritances. Grandsons."
 
@@ -170,7 +170,7 @@ I did not sleep well that night either. But it was a different not-sleeping. The
 
 I thought, in my ignorance, that the language and the loom and the scarf were the whole of the wall between me and Pompeii. I thought that once I could pass, I could go. I was wrong, and Kallia showed me how wrong, and she did it without meaning to, over a pot, on an ordinary evening. It was the worst hour of my early exile, because it was the hour the true size of the thing came clear.
 
-I had asked her, carefully, in my improving Greek, how a person went from here to Italy. To the bay below the smoking mountain, I said; I had a thing I must do there. I meant it lightly, a traveller's question. She set down her spoon and looked at me as though I had asked the way to the moon.
+I had asked her, carefully, in my improving Greek, how a person went from here to Italy. To the bay in the south, I said, under its mountain; I had a thing I must do there. I meant it lightly, a traveller's question. She set down her spoon and looked at me as though I had asked the way to the moon.
 
 "A person," she said. "What person."
 
