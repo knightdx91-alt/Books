@@ -22,15 +22,19 @@ import argparse, glob, re, statistics
 from pathlib import Path
 
 # Deliberate recurring motifs (keep — flag only incidental over-use). Extend per book.
+# Pompeii / "The Hour of Ash" deliberate motifs (book-specific — like the style_check ALLOWLIST).
+# NOTE: seeded fresh for THIS book. Do NOT carry another book's motif vocabulary in here (that is
+# cross-book tic bleed). Extend with this book's own load-bearing recurrences only.
 MOTIFS = [
-    r"bank(?:ed|ing|s)?\b",
-    r"the count\b", r"kept count\b", r"counting\b",
-    r"small true thing",
-    r"careful face", r"the flat( hard)? thing", r"flat and stripped",
-    r"cold working part", r"the arithmetic\b", r"did the sum",
-    r"paid for (?:it|before)", r"coin by coin",
-    r"where no one could see", r"did not (?:let it|weep)",
-    r"filed (?:it|that|the)", r"the way she (?:read|always)",
+    r"the lid of (?:the world|something|it)",   # the crossing / threshold motif
+    r"a woman who does not exist", r"\bunclaimed\b", r"\bimpossible\b",
+    r"the date (?:in|at) (?:my|the)", r"in (?:my|her) own hand",   # re-read seed #4 (the field date)
+    r"condition report", r"catalogu(?:e|ed|ing)", r"the readings?\b",   # Mara's conservator device
+    r"the body wants bread", r"\bbread\b",   # the bodily-puncture motif
+    r"the lamp\b", r"lit (?:the|a) lamp",   # Kallia's lamp / the faithful-useless-gesture motif
+    r"never (?:coming|came) back down the road",
+    # Fenn's numbering is HIS earned device (bookkeeper) — flag only incidental bleed onto others:
+    r"\bitem, the\b",
 ]
 
 def strip_comments(t): return re.sub(r"<!--.*?-->", "", t, flags=re.S)

@@ -3,3 +3,8 @@
 # share a narrating voice; with one POV it runs layer-2 generic self-repetition only.
 # Format: <chapter-number> <POV-character>
 1 MARA
+2 MARA
+3 MARA
+4 MARA
+5 MARA
+6 MARA

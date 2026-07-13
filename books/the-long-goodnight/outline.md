@@ -25,11 +25,49 @@ romance braided with an escalating stalker mystery. Comp: Nora Roberts,
 braided; town-wide suspect pool). Tag/blurb it as romantic suspense so mystery
 readers find it and romance readers aren't ambushed by the fire.
 
-## POV — LOCKED
-Strict **single third-limited, Xavier only.** No head-hopping. **No villain POV,
-ever** — the reader knows only what Xavier knows; that is what keeps the mystery
-fair. Anything that happens to Anna offscreen reaches us only *through* Xavier
-(she tells him; he finds the aftermath). Never dramatized directly.
+## POV — LOCKED (amended: concealed-antagonist interludes permitted)
+Primary POV is strict **single third-limited, Xavier only.** No head-hopping
+between named characters. The main narrative line stays entirely in Xavier — the
+romance, the town, the store — and anything that happens to Anna within that line
+reaches us only *through* him (she tells him; he finds the aftermath).
+
+**The one sanctioned exception — the WATCHER interludes.** A small number (3–4
+total across the book) of short, set-off interludes are dramatized directly from
+the stalker's POV to build dread (the book's tertiary engagement type) the way
+the Nora Roberts comps do. These are the ONLY non-Xavier POV in the book. They
+are governed by hard **concealment / fair-play rules** — breaking any of these
+breaks the whodunit:
+
+1. **Never named, never self-described.** The watcher is never named, never
+   assigned an identifying physical detail (job, uniform, age, gait, vehicle),
+   and never names Anna's other men. He refers to himself as "he," to Anna as
+   "she/her." All three suspects (Derek, Caleb, Xavier) are male, so "he" leaks
+   nothing.
+2. **Withhold, never lie.** An interlude may conceal identity but must never state
+   a falsehood the reader would rely on. Every sentence must read as literally
+   true in hindsight after the Ch27 reveal. Fair-play is preserved by *omission,
+   not deception.*
+3. **No knowledge only one suspect could have — except reread-plants.** The
+   watcher's interior may reference facts true of the culprit **only** where those
+   facts have already been fairly planted in Xavier's line (e.g. "the thing she
+   threw back at me" — legible as breakup color, decodable to *the necklace →
+   Derek* only once that history is planted, Ch7/Ch12). Never a fact that fingers
+   a single suspect before its fair-play window.
+4. **A third voice.** The watcher's register is a cold, flat, possessive interior
+   deliberately UNLIKE Xavier's numb-grief voice AND unlike Derek's charming
+   public voice and Caleb's inarticulate one — so the reader cannot voice-match it
+   to any suspect. (See voice-dna.md — Watcher concealment card.)
+5. **Placed only after the suspect pool exists** (first interlude no earlier than
+   ~Ch9), so the reader's mind races *across* Derek/Caleb, never at an empty set.
+   Typographically set off (centered ornament / italic block), unlabeled.
+
+**Cost accepted (author decision):** because the interludes show the watcher as a
+consciousness separate from Xavier (they occur when Xavier is elsewhere/asleep),
+the *reader* stops seriously suspecting Xavier. Xavier-as-suspect therefore
+survives only as **in-town social pressure** (the town side-eyes the outsider),
+which still isolates the couple and raises romance stakes — it is no longer a
+suspect the *reader* entertains. The whodunit the reader plays is now
+**Derek vs. Caleb**, powered by the "Derek left town" pull (Ch20–23).
 
 ## Principals
 - **Xavier Steadman** — protagonist. Widower, early 30s. Wife **Selena** died in a
@@ -72,11 +110,20 @@ The reader must **figure out who** the stalker is. Rules that follow:
   gets *ruled out* in the reader's mind ("can't be him, he's gone") while he's
   been circling all along.
 - **Suspect pool (need real alternatives):**
-  1. **Derek Vance (the ex)** — real culprit, hidden by being dismissed.
-  2. **Caleb Ruiz** — local quietly sweet on Anna; resents the newcomer.
-  3. **Xavier himself** — the stranger who arrived right when the trouble started;
-     town distrust of the outsider, maybe a flicker of doubt even from Anna. This
-     isolates him and raises the romance stakes.
+  1. **Derek Vance (the ex)** — real culprit, hidden by being dismissed ("he left
+     town"). The reader's whodunit is primarily **Derek vs. Caleb.**
+  2. **Caleb Ruiz** — local quietly sweet on Anna; resents the newcomer. Carries
+     the reader-facing red-herring load now that Xavier is off the reader's list.
+  3. **Xavier himself** — with the Watcher interludes in play, Xavier is **no
+     longer a suspect the reader entertains** (the interludes show a separate
+     consciousness). He remains a suspect *in the town's eyes only* — outsider
+     distrust, a flicker of doubt even from Anna at the low point — which isolates
+     the couple and raises romance stakes without competing with the interludes.
+- **The Watcher interludes carry the dread the confined POV can't.** They let us
+  dramatize the stalking directly (watching the lit store, leaving the gift,
+  the fixation curdling from "win her back" to "remove the rival") while the
+  identity stays sealed. See the POV lock's concealment rules and the interlude
+  slots in `chapter-outline.md`.
 - **The catch (earned, not "somehow"):** Derek is careful all book, but the arson
   is *rage, not planning* — so this is where he slips and leaves the physical
   evidence that gets him **arrested by the law** (not killed by Xavier). The care

@@ -33,7 +33,7 @@ word_floor:
 
 phase:
   current: 1
-  status: "scaffolded — awaiting source material in research/, then architect"
+  status: "source staged — research/source-notes.md (~12KB, detailed OCR'd planning notes: Zack, part-demon/part-angel, Demon Lord Bal, rings of Hell) present; READY for architect pass. Not yet blueprinted."
   history: []
 
 chapters:

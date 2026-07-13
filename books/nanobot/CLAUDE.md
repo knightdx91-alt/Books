@@ -62,10 +62,35 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 `wc -w manuscript/chapters/chapter-*.md`. If short, expand the thinnest chapters.
 
 ## Canon guardrails (settled author decisions — never violate)
-- <fill in this book's settled spellings, names, world rules, locked chapters, etc.>
+- **Read `research/spine-locked.md` first** — the author-locked story spine. The
+  architect BUILDS ON it; never overwrite it.
+- **Shape:** braided **three-timeline** SF mystery, **STANDALONE** puzzle-box.
+  Threads: **Mark** (1,000ya, CIA founder, the ORIGIN, the LAST truly biological POV) /
+  **the Boy** (500ya, ark-ship **Hope**, restoration seed, a COPY) / **Darin Markson**
+  (now, gains **root**, the LEVER, also a COPY). Converge in the present as Hope returns.
+- **Reveal stack (fair-play — plant across all three timelines):** (1) surface = alien
+  invasion swapping people for doppelgangers; (2) world reveal = the invasion is a
+  **RESCUE** (truly-Other aliens copy people to save them from a coming extinction;
+  Hope's restoration would UNDO it); (3) personal reveal = the hero is a **COPY** (both
+  Darin AND the Boy) → restoration is self-negating.
+- **Extinction (proposed, adjustable):** the nanotech's own runaway conversion consumes
+  all biological matter — disease and cure are the same tech.
+- **Aliens:** genuinely Other, kept mostly UNSEEN — revealed by consequence, not
+  exposition. Not conquerors; an old "rescue" civilization.
+- **Theme:** is a perfect copy that remembers being you still you — and is "true
+  humanity" worth extinction? Authenticity vs. survival.
+- **Cross-book:** keep DISTINCT from `books/multiverse/` (cozy portal romance) — this is
+  cold hard-SF paradox. Per-timeline POV voices must NOT rhyme.
 
 ## Open author decisions (ask, don't invent)
-- <fill in>
+- Confirm/adjust the **(proposed)** items in `spine-locked.md` (the extinction's nature).
+- **Title:** working "Nanobot"; author pages say "Nanobot Trio." Architect to propose a
+  real title that carries the copy/rescue reveal.
+- Architect to INVENT/PROPOSE: the aliens' name & how much is shown; the rules & LIMITS
+  of "root"; fair-play clue seeding across timelines; the refusers'/Hope's launch
+  history; the Boy's creators aboard.
 
 ## Status (update as you go)
-- Scaffolded. Awaiting source material in `research/`, then architect pass.
+- Phase 1. **Spine DEVELOPED & LOCKED** (`research/spine-locked.md`); STATE comps +
+  engagement types set. **READY for the architect pass** (foundation.md + outline.md +
+  voice-dna.md) — not yet run. Resume: `feedback/progress.md`.

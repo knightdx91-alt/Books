@@ -194,6 +194,22 @@ Full entry requires ALL four:
 3. **Interiority hint** — one glimpse of inner life without explaining their psychology
 4. **Named tension** — what they want vs. what they show
 
+### UPDATE THE CHARACTER BIBLE (mandatory, every chapter that introduces a named character)
+The moment you put a NEW named character on the page — even a functional one who will recur — ADD or
+confirm their entry in **`character-bible.md`** before you finalize the chapter. This is how a cast that
+grows across 30+ chapters keeps every voice distinct instead of drifting into sameness. For the new
+entry:
+- Give them a distinctness signature on the four axes (worldview, syntax, evasion, physicality) and a
+  one-sentence **DISTINCTNESS GUARANTEE**.
+- **Check the TIC BUDGET first.** Do NOT hand the newcomer a verbal tic unless they are being added to
+  the ≤2–3-character tic-bearer roster on purpose. Default to "no tic — distinguished by <axis>."
+- **No device collision.** Verify the new voice does not reuse a DEVICE already assigned to an existing
+  character (counting/listing/pricing/rating/cataloguing are one device) — if it would, differentiate
+  before you finalize. Watch especially for the protagonist's signature device bleeding onto others
+  (the "everyone quantifies" failure): a secondary character must NOT borrow the narrator's habit.
+If the architect built the bible under a different filename (e.g. voice cards inside `voice-dna.md`),
+add the entry there and note it; the point is one canonical, growing home for cast distinctness.
+
 Wrong: "Sarah was tall, dark-haired, and anxious by nature."
 Right: "Sarah shook his hand before he'd finished extending it."
 

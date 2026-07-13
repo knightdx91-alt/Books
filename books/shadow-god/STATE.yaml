@@ -4,8 +4,8 @@ project:
   subgenre: "Mythic progression fantasy — street-thief-to-god"
   language: "English"
   word_count_target: 90000
-  comp_titles: []
-  engagement_type: {primary: "", secondary: "", tertiary: ""}
+  comp_titles: ["The Night Angel Trilogy (Brent Weeks) — lane/arc comp, MUST differentiate", "The Lies of Locke Lamora (Scott Lynch) — street-thief texture", "Blood Song (Anthony Ryan) — grit-with-hope progression voice"]
+  engagement_type: {primary: "progression/ascension payoff", secondary: "underdog loyalty (found family)", tertiary: "conspiracy mystery (who killed the gods)"}
   premise: "Theran, an orphan street thief whose unnatural shadow-affinity marks him as a 'quirk' — the founder of a brand-new bloodline — is chosen as the new God of Shadows, a crack in the order the treacherous Artificer God built by murdering the old gods to appease invading Utarra."
   created: "2026-07-12"
   updated: "2026-07-12"
@@ -22,7 +22,7 @@ adaptation:
     # chapter_roadmap: "research/chapter-roadmap.md"   # scene-by-scene plan (binding outline)
     # master_checklist:"research/master-checklist.md"
   chapter_1_locked: false        # set true if Ch.1 is a hand-finished voice benchmark
-  chapters_to_produce: []        # e.g. [2,3,...,N]
+  chapters_to_produce: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21]  # Ch.1 REVISES Draft A+B; Ch.2 expands Draft B; rest new on canon
 
 word_floor:
   manuscript_min_words: 85000    # HARD FLOOR (book total) — the binding gate; adjust per book.
@@ -33,12 +33,12 @@ word_floor:
   shortest_chapter_floor: 1200   # sanity floor for the SHORTEST allowed chapter (punch chapters ok; not a target)
 
 phase:
-  current: 1
-  status: "seeded — author opening staged (research/original-draft.md); next: architect"
-  history: []
+  current: 2
+  status: "architect complete — foundation.md + outline.md + voice-dna.md written; next: chapter loop starting Ch.1 (revise Draft A+B)"
+  history: ["2026-07-13: architect pass — diptych macro-structure, 21 chapters, Σ~104.7k budget"]
 
 chapters:
-  total_planned: 0
+  total_planned: 21
   completed: []
   scores: {}
 
@@ -55,7 +55,9 @@ guardrails:
   - "CANON (author, from worldbuilding-notes.md): inherent magic is RARE; artificers craft expensive magic items for the wealthy. Magic runs in BLOODLINES/family lines (artificers, were, elemental, adaptability, spirit, necromancer). Each line ties to a god; members access that line's whole domain but manifest a random signature/strength."
   - "CANON: Theran is a 'quirk' — an orphan founding a NEW SHADOW bloodline (assassin/thief skills)."
   - "CANON (central mythology): The God of Shadows was killed; Theran is chosen as the new God of Shadows. The ARTIFICER GOD betrayed the pantheon — cut a deal with the invading Utarran gods (chaos/corruption/destruction), killed the other gods, and sealed their Domains, cutting them off from the mortal connections they need."
-  - "Author's own prose — PRESERVE VOICE. Revise/expand the drafts; do not overwrite intent. Two candidate openings (Draft A alley-pickpocket, Draft B Singing Siren artifact) — author to choose lead."
+  - "Author's own prose — PRESERVE VOICE. Revise/expand the drafts; do not overwrite intent. OPENING DECIDED 2026-07-13: combine — Draft A (alley pickpocket) leads Ch.1, flowing into Draft B (Singing Siren / symbol of resonance) as the score that launches the plot."
+  - "LANE (author, 2026-07-13): 'Night Angel route' — adult dark fantasy, child street-urchin opening, time-skip to older teen, ascension-to-power arc, series book 1. BUT it must NOT read as a Night Angel clone. Differentiation is a hard gate (see NIGHT-ANGEL DIFFERENTIATION guardrails)."
+  - "NIGHT-ANGEL DIFFERENTIATION (hard rules): (1) NO legendary-assassin master / apprenticeship plot — no Durzo Blint analog; Theran learns from the streets, his crew, and the sealed Shadow Domain itself. (2) The symbol of resonance is a TRIGGER that awakens the bloodline, not a bonded talking companion-artifact (no ka'kari analog; the old Shadow God stays dead and silent — Theran is a NEW god, not an inheritor of a voice). (3) The endgame is GODHOOD WITH A COST ECONOMY (power flows from mortal connections/bloodline/worship), not immortality or an avatar-of-retribution. (4) Book 1's antagonist force is the DOMESTIC conspiracy (the Artificer God's order and its mortal instruments), not an invading Godking — Utarra looms offstage. (5) Avoid Weeks-flavored vocabulary and furniture: no 'wetboy'-style coined assassin caste, no thieves' guild that owns child rats via a cruel guild fist — Theran and Jeren are INDEPENDENT urchins, unguilded. (6) The wound: hunger/erasure and loyalty to the few who see him — not the shame/abuse engine Weeks uses."
   - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
   - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
@@ -63,8 +65,11 @@ guardrails:
   - "<add this book's settled canon guardrails here>"
 
 open_author_decisions:
-  - "<list any plot/character decisions the author must make before drafting>"
+  - "Confirm/adjust: time-skip target age (working choice: Ch.1-2 at age 10, then skip to ~17)."
+  - "Confirm/adjust: series shape (working choice: series book 1 — book 1 ends with Theran chosen as the new Shadow God, conspiracy uncovered but unresolved)."
 
 decisions:
   - "This book is a folder-per-book genesis project under book/genesis/shadow-god/."
+  - "2026-07-13 (author): 'Night Angel route, but not too like the Night Angel books' — adult dark-fantasy street-kid-to-power arc with mandatory differentiation guardrails."
+  - "2026-07-13 (working, author may override): combined opening A→B; time-skip 10→~17 after the awakening sequence; series book 1; tone gritty-but-earning-hope (not full grimdark)."
 revision_cycles: 0

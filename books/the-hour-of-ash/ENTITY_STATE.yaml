@@ -1,0 +1,694 @@
+# ============================================================================
+# ENTITY_STATE.yaml  —  "The Hour of Ash" (working title "Pompeii")
+# Structured entity memory. Built by entity-tracker (BUILD mode) from Ch.1-7.
+# Downstream skills (continuity-guardian, prose-craft, hook-craft, etc.) read
+# THIS instead of re-reading the manuscript. entity-tracker EXTRACTS and FLAGS;
+# it does not audit, resolve, or judge.
+# ----------------------------------------------------------------------------
+# NOTE ON SOURCES: paragraph numbers (pNN) are approximate counts of prose
+# paragraphs within each chapter file (blank-line separated, excluding the HTML
+# comment header and the "---" scene-break rules). Treat as locators, not exact.
+# ============================================================================
+#
+# ============================ FLAGS FOR CONTINUITY ==========================
+# (contradictions / ambiguities noticed during extraction — NOT fixed, only surfaced)
+#
+# FLAG 1 — ORACLE TIMING (Ch.7). Ch-7 states, retrospectively, that "The Oracle
+#   had told me, in the first hour, in words I had turned over ten thousand times
+#   since, that the door home lay under a mountain by the Roman sea" (ch-07:p67).
+#   BUT within the same chapter Mara has NOT yet visited the Pythia — she is still
+#   PLANNING to climb the sacred way to ask WHERE the door is ("she told me where
+#   the door is not. She might tell me where it is", ch-07:p69), and the outline
+#   places the Oracle scene at Ch.10. So Ch.7 simultaneously (a) claims the Oracle
+#   already told her the WHERE ("under a mountain by the Roman sea") in "the first
+#   hour", and (b) has her not-yet-consulted the Oracle and planning to. The
+#   "first hour" she landed (Ch.4-5) contained no Oracle meeting on the page.
+#   Possible intended reading: retrospective foreknowledge intrusion collapsing a
+#   later event; but as written it reads as Mara already possessing the WHERE
+#   before the Ch.10 Oracle beat. RESOLVE before Ch.10 is written.
+#
+# FLAG 2 — "under a mountain by the Roman sea" vs canon "Pompeii/Vesuvius". The
+#   on-page WHERE (ch-07:p67) is the vague "mountain by the Roman sea", consistent
+#   with canon that the Oracle gives WHERE-not-WHEN and Mara narrows it later. No
+#   contradiction; noted so continuity knows the specific "Pompeii" name has NOT
+#   yet been given to Mara on the page as of Ch.7.
+#
+# FLAG 3 — FENN'S ATTEMPT COUNT. Ch-1 note: "This is the eleventh attempt"
+#   (ch-01:p30) and "Went through the fourth of the month". Ch-2 ledger shows a
+#   dated column of attempts across three years with the successful crossing on
+#   "4th of the month" (ch-02:p94). Counts are compatible but not reconciled on
+#   the page (11 attempts vs a 3-year dated column). Low priority.
+#
+# FLAG 4 — MARA'S NAME ON THE PAGE. Mara gives Kallia "the nearest true thing my
+#   mouth could make of my name" and lets a "Greek shape" of it stand (ch-05:p57);
+#   Kallia later calls her "Mara" directly (ch-07:p63, "Angry, Mara. Not detailed").
+#   So the narrator's real first name IS used aloud in-world by Ch.7, though Ch.5
+#   implied a Greek-ified version was adopted. Verify intended in-world name.
+#
+# FLAG 5 — VALENS FIRST-LOOK CONSISTENCY. Ch-5 establishes he "never looked at my
+#   face" (ch-05:p105-109). Ch-7, their first two-hander, has him deliberately
+#   NOT looking up, then pointedly looking "at my face" for the first time
+#   (ch-07:p121-123). Intentional callback/payoff, not a contradiction — logged
+#   so it is not mistaken for one.
+#
+# FLAG 6 — "the one it brought" branded door-law phrase (canon/allowlist) does
+#   NOT yet appear on the page in Ch.1-7. Fenn's #3 insert ("only open for the one
+#   they brought", outline Ch.10) is still ahead. Tracked as world_rules gap.
+# ============================================================================
+
+meta:
+  version: "1.0"
+  last_updated: "2026-07-13"
+  last_updated_by: "entity-tracker"
+  mode: "BUILD"
+  pov: "single-POV first-person past retrospective (Mara)"
+  chapters_tracked: [1, 2, 3, 4, 5, 6, 7]
+
+characters:
+
+  mara-reyes:
+    canonical_name: "Mara Reyes"
+    aliases: ["the niece", "Kallia's niece", "the widow (adopted cover, later dropped)", "Caedicia (planned widow-name, discarded)"]
+    importance: major
+    physical:
+      age: { value: 34, at_chapter: 1, source: "ch-01:p1", note: "34 in the 1998 frame; the story spans ~9 years to 79 AD" }
+      resemblance: { value: "favours her late father round the eyes", source: "ch-02:p54" }
+      hands: { value: "a scholar's/conservator's hands — soft, steady over corroded metal; ruined into calluses by Greek labour", source: "ch-06:p61" }
+      hair: { value: "cut wrong/short by 1st-c standards (machine-cut); grows out to be scarf-coverable in Greece", source: "ch-05:p85" }
+    traits:
+      - { trait: "conservator/cataloguer — catalogues material conditions under stress; voice deflates to procedural inventory under fear", source: "ch-03:p59", mutable: false }
+      - { trait: "sunk-cost completionism — cannot leave a thing unfinished ('finishing what she shouldn't')", source: "ch-01:p43", mutable: false }
+      - { trait: "bread-opinions — uninvited appraisal of bread, even at bad moments", source: "ch-01:p53", mutable: false }
+      - { trait: "the *click* of folded glasses intrudes at the worst moments", source: "ch-01:p21", mutable: true }
+      - { trait: "does not cry when a moment calls for it ('I have never in my life cried when a moment called for it') — breaks this in Greece", source: "ch-01:p53", mutable: true }
+      - { trait: "tells people 'I'll let you know' and does not", source: "ch-03:p17", mutable: true }
+      - { trait: "reads the life behind an object/person from the wear — 'a terrible habit, it's cost me'", source: "ch-07:p181", mutable: false }
+    voice_markers:
+      ref: "voice-dna.md#mara"
+    occupation: "Museum conservator / freelance antiquities cataloguer (basement, scalpel and solvents)"
+    lie: "The past is safer than the present; the dead don't leave."
+    relationships:
+      emilio-reyes:
+        type: "daughter of (deceased father)"
+        established: "ch-01:p32"
+        current_status: "grief unresolved; carries the unkept 'next season I'll take you with me' promise"
+      verrall:
+        type: "acquaintance / debtor of a promise"
+        established: "ch-02:p26"
+        current_status: "promised to return and tell him 'whether there was anything in it'; never does (narrator confirms)"
+      kallia:
+        type: "sheltered by / adopted daughter-figure ('you are not the wrong niece')"
+        established: "ch-05:p113"
+        current_status: "belongs to Kallia's house; deep mutual love, unspoken"
+      valens:
+        type: "the man she will 'spend my life with' / love interest (first two-hander)"
+        established: "ch-05:p101 (unnamed, saved-and-dismissed); named & first real scene ch-07"
+        current_status: "he refused her passage but found her a safer road; something 'lit' in her, unnamed"
+    location_log:
+      - { chapter: 1, location: "England", scene: "father Emilio's study & kitchen (1998, English spring)", travel_noted: false }
+      - { chapter: 2, location: "English coast (fourth coastal town, 3h up the coast)", scene: "Verrall & Son antique shop", travel_noted: true }
+      - { chapter: 3, location: "England then southern coast abroad (2 planes away)", scene: "guesthouse; airport; hire car; crossroads taverna; the headland/saddle", travel_noted: true }
+      - { chapter: 4, location: "the headland (saddle of rock) then AD ~70 Greece", scene: "the crossing / threshold; lands on a packed-earth road", travel_noted: true }
+      - { chapter: 5, location: "Delphi, Greece, ~AD 70", scene: "mountain road, the sanctuary/sacred way, fountain-house, holm-oak above sanctuary, Kallia's byre", travel_noted: false }
+      - { chapter: 6, location: "Delphi valley / Kallia's inn on the sanctuary road", scene: "the inn, loom, olive groves/press, market below sanctuary", travel_noted: false }
+      - { chapter: 7, location: "sanctuary road / spring market / Valens's mule-yard (road bend south)", scene: "market lane; the inn; Valens's yard (3 miles down)", travel_noted: true }
+    knowledge:
+      - { fact: "father Emilio hid a map with 'the door' marked and A. Fenn's note", learned: "ch-01:p57", method: "discovered" }
+      - { fact: "the door 'is not honest'; opened for Fenn, would not let him back; his 11th attempt", learned: "ch-01:p65", method: "discovered" }
+      - { fact: "the map is honest, it is the door that lies — map tells WHERE, something else decides WHEN/whether/for whom", learned: "ch-02:p108", method: "witnessed (read Fenn's ledger flyleaf)" }
+      - { fact: "August Fenn vanished autumn 1968 at age 34 (= Mara's age), without his coat", learned: "ch-02:p154", method: "told_by:verrall" }
+      - { fact: "the coordinates fall on a foreign (Greek) coast, 2 planes away, not England", learned: "ch-03:p9", method: "discovered" }
+      - { fact: "instruments behave wrong at the saddle (meters pegged, watch drags, compass rotates) — 'the lid of something'", learned: "ch-03:p69", method: "witnessed" }
+      - { fact: "she has crossed to ~AD 70 Delphi under Vespasian (dated via Nero's stripped bronzes)", learned: "ch-05:p37", method: "inferred" }
+      - { fact: "her scholar's Greek is useless; living Greek differs; she must learn to pass", learned: "ch-05:p63", method: "discovered" }
+      - { fact: "Fenn 'too woke in the wrong year'; she is not the first, not mad", learned: "ch-05:p141", method: "witnessed (read Fenn journal #2)" }
+      - { fact: "a lone woman cannot travel — needs a man's name; road to Italy is a chain of guarded links; no ship till spring", learned: "ch-06:p183", method: "told_by:kallia" }
+      - { fact: "the Oracle/Pythia still answers at Delphi; a morning's walk; 'a door with a voice'", learned: "ch-06:p153", method: "told_by:pilgrim-at-inn" }
+      - { fact: "she is 'nobody's woman' — cannot buy passage south without a man to answer for her", learned: "ch-07:p21", method: "told_by:amphissa-wagoner" }
+      - { fact: "Valens will not run her; he found her a safer road (factor's widow needs a book-keeping companion)", learned: "ch-07:p199", method: "told_by:valens" }
+      - { fact: "the Krisa widow was murdered by her own guard-party two springs back; Valens carried the body up to Krisa", learned: "ch-07:p165", method: "told_by:valens" }
+    knowledge_gap:
+      - fact: "references that the Oracle 'told me, in the first hour... the door home lay under a mountain by the Roman sea'"
+        used_in: "ch-07:p67"
+        issue: "no on-page Oracle meeting has occurred by Ch.7 (Mara is still planning to ask the Pythia WHERE); see FLAG 1. Possible retrospective-foreknowledge intrusion or a continuity gap — do not treat as an established acquisition until reconciled with the Ch.10 Oracle scene."
+    arc_notes: "Keeper-of-the-dead who follows her dead father's map through a time-door into ~AD 70 Greece; learning to exist as a woman-with-no-man; sets out to reach the door home under a mountain in Italy. Ch.1-7: grief -> crossing -> survival -> first foothold -> the NO that begins the romance."
+
+  emilio-reyes:
+    canonical_name: "Emilio Reyes"
+    aliases: ["Mara's father", "the archaeologist"]
+    importance: supporting
+    status: "deceased (died April 1998, heart, after a Feb episode)"
+    physical:
+      description: { value: "tall, thin, glasses; read everything, moved his lips over commas", source: "ch-01:p19" }
+      glasses: { value: "tortoiseshell chemist reading glasses, '1.5' though plainly 2; folded one-handed with a *click*", source: "ch-01:p17" }
+    traits:
+      - { trait: "list-maker; underlined 'START THE LIST' twice at the end", source: "ch-01:p41", mutable: false }
+      - { trait: "empiricist who did not believe anything he couldn't stratify/date — yet secretly kept the door-map", source: "ch-01:p69", mutable: false }
+    relationships:
+      mara-reyes:
+        type: "father of"
+        established: "ch-01:p32"
+        current_status: "dead; emotional engine of the book"
+      verrall:
+        type: "was given the map by (three visits, last spring)",
+        established: "ch-02:p120"
+        current_status: "dead; Verrall 'sorry since'"
+    knowledge:
+      - { fact: "chased August Fenn / the door in his last spring; drove the coast to Verrall three times", learned: "ch-02:p120", method: "witnessed (Verrall's account)" }
+    location_log:
+      - { chapter: 1, location: "England", scene: "his study (as absence)", travel_noted: false, note: "present only through objects" }
+    arc_notes: "The unkept 'next season I'll take you with me' promise (25 years). Secretly obsessed with Fenn's map at the end; underlined 'START THE LIST'. Held a Campanian survey permit via Halloran."
+
+  august-fenn:
+    canonical_name: "August Fenn"
+    aliases: ["A. Fenn, Esq.", "the treasure hunter", "the vanished hunter"]
+    importance: supporting
+    status: "vanished autumn 1968 at age 34; per canon he crossed the door and is marooned/old in the past (not yet met on the page)"
+    physical:
+      age: { value: 34, at_chapter: 2, source: "ch-02:p154", note: "age at disappearance, 1968; = Mara's current age" }
+      description: { value: "big man run to stringiness, hatless, heavy coat; photographed on a shingle beach looking off-frame at 'a thing he intends to reach'", source: "ch-02:p152" }
+    traits:
+      - { trait: "numbers/enumerates everything, even regret (bookkeeper's double columns)", source: "ch-02:p90", mutable: false }
+      - { trait: "refrain 'the door is not honest' / 'it is the door that lies'", source: "ch-02:p108", mutable: false }
+    voice_markers:
+      ref: "voice-dna.md#fenn"
+    relationships:
+      verrall:
+        type: "his estate/contents bought by Verrall; the ledger kept"
+        established: "ch-02:p76"
+        current_status: "Verrall the disbeliever-who-keeps-the-ledger"
+    knowledge:
+      - { fact: "the map is honest, the door lies; door decides when/whether/for whom", learned: "pre-1968 (documented)", method: "discovered" }
+      - { fact: "'I, too, woke in the wrong year' — knew his location to the reign; wrote for 'the next one'", learned: "documented (journal #2, read by Mara ch-05:p141)", method: "discovered" }
+    document_inserts:
+      - { id: "note-mailing-tube", where_read: "ch-01:p65", content: "'The door is not honest... Went through the fourth of the month. Have not been able to get back. This is the eleventh attempt...'" }
+      - { id: "ledger-columns", where_read: "ch-02:p94", content: "dated left column of attempts (crossed through), money right column; '4th of the month. It opened.'" }
+      - { id: "ledger-flyleaf (marginalia #1)", where_read: "ch-02:p108", content: "'The map is honest... it is the door that lies... the map tells you where, and something else entirely decides when, and whether, and for whom. ... I find it Tuesday.'" }
+      - { id: "journal-#2", where_read: "ch-05:p141", content: "'Item, the second: I, too, woke in the wrong year. ... you are not mad, and you are not the first...'" }
+    arc_notes: "The cautionary mirror. Started 'at your age near enough'. Bought a barometer 'on tick' he never paid. Per author-canon (not yet on page): reveals the WHEN (late summer 79 AD) in Movement IV."
+
+  verrall:
+    canonical_name: "Verrall"
+    aliases: ["Verrall & Son (shop sign)"]
+    importance: supporting
+    status: "alive (1998), 81 years old"
+    physical:
+      age: { value: 81, at_chapter: 2, source: "ch-02:p142" }
+      description: { value: "'a face like a walnut and pale intelligent eyes'; pared-down old strength; buttons cardigan wrong on the cold step", source: "ch-02:p26" }
+    traits:
+      - { trait: "squares a cloth on the counter — cannot leave a thing crooked", source: "ch-02:p32", mutable: false }
+      - { trait: "flat unsentimental North-of-England pragmatism; auctioneer's raised finger", source: "ch-02:p82", mutable: false }
+      - { trait: "refrain: wants only 'to be told, at the end, whether there was anything in it'", source: "ch-02:p164", mutable: false }
+    voice_markers:
+      ref: "voice-dna.md#verrall"
+    wound: "No son though the 1959 sign says '& Son' — 'the future didn't arrive, we weren't given one, my wife and I'; never repainted it."
+    relationships:
+      emilio-reyes:
+        type: "gave the map to (three visits last spring)"
+        established: "ch-02:p120"
+        current_status: "'sorry since'; sorrier when he heard Emilio died"
+      august-fenn:
+        type: "bought the vanished man's estate/contents; keeps his ledger"
+        established: "ch-02:p76"
+        current_status: "the disbeliever who won't burn the ledger"
+    location_log:
+      - { chapter: 2, location: "English coast town", scene: "his shop & back room", travel_noted: false }
+    arc_notes: "Delivers the first live mystery thread. Valued the map only because it was 'too accurate to be fake'. Gave (not sold) it to Emilio. Mara promises to return and tell him; never does."
+
+  halloran:
+    canonical_name: "Professor Halloran"
+    aliases: ["the permit man"]
+    importance: minor
+    status: "alive (1998), off-page voice only"
+    physical:
+      description: { value: "'a tired man in a university office three time zones off'", source: "ch-01:p87" }
+    relationships:
+      emilio-reyes:
+        type: "old friend of; held a survey permit for him"
+        established: "ch-01:p87"
+        current_status: "was chasing Emilio (not vice versa); permit nearly through"
+    knowledge:
+      - { fact: "held a survey-season permit for the Campanian coast as a favour to Emilio", learned: "ch-01:p87", method: "witnessed (his own account)" }
+    location_log:
+      - { chapter: 1, location: "university office (three time zones off)", scene: "phone call", travel_noted: false, note: "voice only" }
+      - { chapter: 3, location: "phone", scene: "second call; writes Mara a letter of association", travel_noted: false }
+    arc_notes: "The Campanian-coast permit thread that routes Mara's cover-story survey toward Italy. Renamed from 'Reyes' to avoid collision with Mara. Asks twice whether Emilio was 'chasing something real, or only chasing'."
+
+  valens:
+    canonical_name: "Valens"
+    aliases: ["the Roman", "the scarred muleteer", "the big scarred man", "Lupus (former arena name, per canon; not yet on page)"]
+    importance: major
+    status: "alive, ~AD 70, runs a mule/horse yard outside the sanctuary road near Delphi; a freedman"
+    physical:
+      description: { value: "very big; 'still somehow the largest thing in the yard'; killer's stillness", source: "ch-07:p105" }
+      distinguishing:
+        - { value: "heavily scarred — 'a country of them up one forearm', a seam through one eyebrow (permanent slight question)", source: "ch-07:p105" }
+        - { value: "scar down the side of the jaw pulling his short beard askew; arena-pattern scarring on forearms", source: "ch-05:p103" }
+      hands: { value: "enormous, precise, gentle on leather — 'a killer's hands doing a saddler's work'", source: "ch-07:p105" }
+    traits:
+      - { trait: "hands work a knot/strap/buckle whenever feeling threatens; when nothing left to work, hands lie 'open and still'", source: "ch-07:p169", mutable: false }
+      - { trait: "short, level, declarative speech; understates mortal danger ('a liability with legs')", source: "ch-07:p157", mutable: false }
+      - { trait: "withholds warmth; kindness turned sideways ('I'm sorry, which is more than I said to the last three')", source: "ch-07:p157", mutable: false }
+      - { trait: "will not look at a face he means to refuse; deliberate not-looking as a closed door", source: "ch-07:p113", mutable: true }
+      - { trait: "speaks Greek accented and exact — 'a tool used well and loved not at all'; Latin to the boy", source: "ch-07:p109", mutable: false }
+    voice_markers:
+      ref: "voice-dna.md#valens"
+    scandal: "Per canon (surfaced obliquely on page): 'some scandal down south, a great man's household, a woman's name in it' (ch-07:p87); came up into the hills to be no one."
+    lie: "If I am needed but never loved, I can't be betrayed again. Be useful. Stay outside."
+    relationships:
+      mara-reyes:
+        type: "refuses her passage, then finds her a safer road; the man she will 'spend my life with'"
+        established: "ch-05:p101 (wordless save); ch-07 (first two-hander)"
+        current_status: "said NO to her fare 'for her sake'; brokered the factor's-widow companion role; told the 'nothing to me either way' lie to a knot"
+      the-stable-boy:
+        type: "employs a boy (~12) in the yard"
+        established: "ch-07:p103"
+        current_status: "runs the yard with him"
+      krisa-widow:
+        type: "carried her murdered body up to Krisa two springs back (backstory)"
+        established: "ch-07:p165"
+        current_status: "the wound that makes him refuse Mara"
+    location_log:
+      - { chapter: 5, location: "Delphi, fountain-house / muleteers' ground below sanctuary", scene: "calls off two men threatening Mara by stillness, never looks at her face", travel_noted: false }
+      - { chapter: 7, location: "his mule-yard (where the sanctuary road bends south, a fold of ground with stream & poplars)", scene: "the refusal two-hander; the Krisa-widow account; brokers the safer road", travel_noted: false }
+    knowledge:
+      - { fact: "Mara is not a real widow — 'you're not one'", learned: "ch-07:p123", method: "inferred (read her)" }
+      - { fact: "Mara is 'nobody's woman' with no one to answer for her — a fatal liability on the road", learned: "ch-07:p157", method: "inferred" }
+      - { fact: "Mara comes from 'somewhere I can't go back to' (does NOT know the time-travel truth)", learned: "ch-07:p149", method: "told_by:mara-reyes" }
+    arc_notes: "First appears Ch.5 as a wordless wall who saves-and-dismisses. Ch.7 first live scene, rendered to bible: refusal is protective; his one big lie ('nothing to me either way') told to a knot. Per canon: marries Mara (~Ch.13), children Lucius & Aelia."
+
+  kallia:
+    canonical_name: "Kallia"
+    aliases: []
+    importance: supporting
+    status: "alive, ~AD 70; Greek widow, runs a small poor inn on the sanctuary road below Delphi"
+    physical:
+      description: { value: "old or made-old; broad, bent, quick-eyed; hard hands", source: "ch-05:p115" }
+    traits:
+      - { trait: "misquotes proverbs, always slightly, always weaponised/bent-toward-mercy ('a lit lamp wastes no oil it wasn't going to waste')", source: "ch-05:p131", mutable: false }
+      - { trait: "never says her son's name aloud", source: "ch-06:p207", mutable: false }
+      - { trait: "hard, fair teacher; refuses to be impressed; declines to thank family for family", source: "ch-06:p45", mutable: false }
+    voice_markers:
+      ref: "voice-dna.md#kallia"
+    wound: "A son who went for a soldier six years ago, unheard-from two years; keeps a lamp lit nightly in the window for him; keeps his room swept, shut, and unsold."
+    relationships:
+      mara-reyes:
+        type: "shelters, feeds, teaches, and adopts Mara ('you are not the wrong niece')"
+        established: "ch-05:p113"
+        current_status: "deep mutual love, unspoken; built Mara's widow cover with her"
+      kallias-son:
+        type: "mother of (unnamed son in the legions)"
+        established: "ch-06:p207"
+        current_status: "unheard-from; lamp kept lit"
+    location_log:
+      - { chapter: 5, location: "her house/byre below the sanctuary road, Delphi", scene: "finds Mara on the broken ground, takes her in, feeds her, first language lesson", travel_noted: false }
+      - { chapter: 6, location: "Kallia's inn (sanctuary road)", scene: "teaches Mara to pass; olive harvest; the fever she survives; tells of the lamp/son; 'the size of your mountain'", travel_noted: false }
+      - { chapter: 7, location: "Kallia's inn", scene: "builds the widow cover over three nights ('take out the wall'); names Valens; warns of 'the dangerous no'", travel_noted: false }
+    knowledge:
+      - { fact: "Mara is not really her niece / has a hidden grief (a shut 'drawer')", learned: "ch-06:p219", method: "told_by:mara-reyes (partial) + inferred" }
+      - { fact: "Mara plans to travel south to Italy to 'a mountain'; does not press for the reason", learned: "ch-07:p71", method: "told_by:mara-reyes" }
+    arc_notes: "Mara's first foothold in antiquity; teaches her to pass. The lamp/absent-son motif mirrors Mara's drawer/dead-father. Coined the widow-cover strategy and the 'clever survive by being thought stupid' law."
+
+  melita:
+    canonical_name: "Melita"
+    aliases: []
+    importance: minor
+    status: "alive, ~AD 70; a Delphi-valley woman, olive-harvest neighbour"
+    physical:
+      description: { value: "broad woman on the next harvest cloth", source: "ch-06:p89" }
+    traits:
+      - { trait: "garrulous warm-scornful self-narration (mothers, marriages, 'ideas') — never asks a hard question back; NO verbal tic", source: "ch-06:p97", mutable: false }
+    voice_markers:
+      ref: "character-bible.md#melita"
+    relationships:
+      mara-reyes:
+        type: "draws Mara out at the olive harvest; folds her into the village"
+        established: "ch-06:p89"
+        current_status: "Mara's first acceptance by someone who is not Kallia"
+    location_log:
+      - { chapter: 6, location: "olive terraces / sacred plain, Delphi valley", scene: "the communal olive harvest", travel_noted: false }
+    arc_notes: "The valley's welcome. Satisfied by a half-answer about a mother ('she had ideas'), which admits Mara to the village."
+
+  the-stable-boy:
+    canonical_name: "the boy at Valens's yard"
+    aliases: ["the boy (~12)"]
+    importance: minor
+    status: "alive, ~AD 70; works Valens's mule-yard"
+    physical:
+      age: { value: "about twelve", at_chapter: 7, source: "ch-07:p103" }
+    relationships:
+      valens:
+        type: "works for"
+        established: "ch-07:p103"
+        current_status: "forks hay; taken instructions in Latin"
+    location_log:
+      - { chapter: 7, location: "Valens's mule-yard", scene: "forking hay during the refusal two-hander", travel_noted: false }
+    arc_notes: "Unnamed. Confirms Valens 'runs the yard with a boy' per bible."
+    needs_review: true
+    review_note: "Unnamed; tracked for narrative significance (recurring yard-hand). Give a name only if he recurs materially."
+
+  amphissa-wagoner:
+    canonical_name: "the wagoner out of Amphissa"
+    aliases: []
+    importance: minor
+    status: "alive, ~AD 70; oil-jar carrier"
+    traits:
+      - { trait: "weary practicality, not cruelty; declines 'nobody's woman' as a fact of the world", source: "ch-07:p21", mutable: false }
+    relationships:
+      mara-reyes:
+        type: "refuses her passage south"
+        established: "ch-07:p13"
+        current_status: "one-scene; dramatizes the no-male-guarantor wall"
+    location_log:
+      - { chapter: 7, location: "spring market, sanctuary road", scene: "refuses Mara passage toward Kirrha/the coast", travel_noted: false }
+    knowledge:
+      - { fact: "a woman with coin and no man front-or-back is a liability he 'can't sell at Kirrha'", learned: "ch-07:p21", method: "witnessed (his own reasoning)" }
+    arc_notes: "Carries oil-jars down toward Kirrha; delivers the 'nobody's woman' / 'who comes asking if you don't arrive' beat."
+
+  corinthian-trader:
+    canonical_name: "the Corinthian trader"
+    aliases: ["the fat cheerful Corinthian"]
+    importance: minor
+    status: "alive, ~AD 70; a trader stopping at Kallia's inn"
+    physical:
+      description: { value: "fat, cheerful, with opinions", source: "ch-06:p109" }
+    relationships:
+      mara-reyes:
+        type: "asks the dangerous 'where are you from' question"
+        established: "ch-06:p111"
+        current_status: "deflected by Kallia's 'hill country' cover"
+    location_log:
+      - { chapter: 6, location: "Kallia's inn", scene: "questions Mara's strange speech; Kallia covers", travel_noted: false }
+    arc_notes: "The inn's-danger beat; Kallia's 'sister's girl from the hill country' cover deployed."
+
+  pilgrim-at-inn:
+    canonical_name: "the pilgrim at the inn (old man, bad leg)"
+    aliases: []
+    importance: minor
+    status: "alive, ~AD 70; an old pilgrim bound up the sacred way"
+    physical:
+      description: { value: "old man with a bad leg and a good cloak, leaning on a stick, a servant leading the mule", source: "ch-06:p147" }
+    relationships:
+      mara-reyes:
+        type: "unwittingly tells Mara how the Oracle works ('a door with a voice')"
+        established: "ch-06:p149"
+        current_status: "one-scene; seeds the Oracle plan"
+    location_log:
+      - { chapter: 6, location: "Kallia's inn", scene: "talks of the Pythia / how the god answers; his own question about an inheritance & grandson", travel_noted: false }
+    knowledge:
+      - { fact: "the Pythia still answers at Delphi; you ask plain, she goes down, the priest shapes it into verse", learned: "ch-06:p153", method: "witnessed (his account)" }
+    arc_notes: "Seeds the Oracle for Mara. NOTE: a SEPARATE pilgrim ('footsore and certain', black of the year) is referenced retrospectively in ch-07:p69 as the Oracle-source; verify whether one or two pilgrims are intended."
+    needs_review: true
+    review_note: "Possible duplicate/merge with the 'pilgrim' referenced in ch-07:p69 who talks of the Pythia. Ch.6 pilgrim = old/bad-leg/inheritance; Ch.7 pilgrim = footsore/certain/black-of-year. Keep separate until confirmed."
+
+  krisa-widow:
+    canonical_name: "the Krisa widow"
+    aliases: ["the real widow", "the woman in the poppies"]
+    importance: minor
+    status: "deceased (murdered ~two springs before Ch.7); backstory only"
+    physical:
+      description: { value: "a real widow — coin, a story that held, people at the far end who'd ask", source: "ch-07:p165" }
+    relationships:
+      valens:
+        type: "he carried her murdered body up to Krisa on his own beast"
+        established: "ch-07:p165"
+        current_status: "dead; the wound behind Valens's refusal"
+    location_log:
+      - { chapter: 7, location: "the road below Kirrha (the poppies) / Krisa", scene: "backstory: went down with a party out of Krisa; her own guards killed her", travel_noted: true, flashback: true, flashback_year: "~2 springs before Ch.7" }
+    arc_notes: "Valens's cautionary backstory: her guard-party (the men she'd have run to) were the killers; goatherd found the body after 3 days; Valens questioned by a magistrate. The reason he says NO to Mara."
+
+  kallias-son:
+    canonical_name: "Kallia's son"
+    aliases: []
+    importance: mentioned_only
+    status: "unknown — a soldier in the legions, unheard-from ~two years; deliberately unnamed"
+    relationships:
+      kallia:
+        type: "son of"
+        established: "ch-06:p207"
+        current_status: "went for a soldier six years ago; last letter two years past 'from the edge of the world'; then silence"
+    arc_notes: "Never named on the page (Kallia won't say it). The lamp is kept lit for him. Off-page."
+
+locations:
+
+  emilio-house:
+    canonical_name: "Emilio Reyes's house (the father's house)"
+    aliases: ["the study", "the drawer's house"]
+    facts:
+      - { fact: "English; cold spring 1998; study three walls double-shelved; a bread bin with a stale sliced loaf", source: "ch-01:p31" }
+      - { fact: "the bottom-left desk drawer will not open (holds the folded glasses) — never opened", source: "ch-01:p13" }
+      - { fact: "the map/tube hidden behind the second (hidden) row of books", source: "ch-01:p55" }
+    distances:
+      - { to: "verrall-shop", value: "3 hours up the coast", source: "ch-02:p16" }
+
+  verrall-shop:
+    canonical_name: "Verrall & Son"
+    aliases: ["the antique shop"]
+    facts:
+      - { fact: "in the fourth of three-same coastal towns, a side street off the water, between a shut cafe and a chapel-turned-carpet-showroom", source: "ch-02:p18" }
+      - { fact: "back room: paraffin heater, kettle, tea-chests; the Fenn ledger kept here", source: "ch-02:p61" }
+      - { fact: "window barometer fixed on 'Change' (Fenn's unpaid-for barometer motif)", source: "ch-02:p20" }
+
+  the-headland:
+    canonical_name: "the headland / the saddle (threshold)"
+    aliases: ["the lid of the world", "the saddle of rock"]
+    facts:
+      - { fact: "a fist of pale rock past the last olives on a southern (Greek) coast; a shallow greener saddle ~10ft across, thyme in the cracks", source: "ch-03:p35" }
+      - { fact: "instruments read wrong here: meters pegged, watch drags/accelerates, compass rotates pointing at 'a north under the world'", source: "ch-03:p69" }
+      - { fact: "the crossing point; a downward-inward 'pull'; the way back closes on crossing", source: "ch-04:p13" }
+    distances:
+      - { to: "crossroads-taverna", value: "~40 minutes down the road", source: "ch-03:p27" }
+
+  crossroads-taverna:
+    canonical_name: "the crossroads taverna"
+    aliases: []
+    facts:
+      - { fact: "a taverna at a crossroads ~40 min from the headland; two old men under a vine; extraordinary wood-fired bread", source: "ch-03:p27" }
+
+  delphi-sanctuary:
+    canonical_name: "Delphi (the sanctuary of Apollo)"
+    aliases: ["the sacred plain", "the god's ground"]
+    facts:
+      - { fact: "terraced sanctuary climbing a grey peak above an olive plain above a gulf; polygonal masonry retaining wall; treasuries lining the sacred way", source: "ch-05:p21" }
+      - { fact: "statue plinths freshly stripped of ~500 bronzes (Nero's looting, dated to AD 67) — dates the arrival post-67, under Vespasian (~AD 70)", source: "ch-05:p29" }
+      - { fact: "temple of Apollo on the polygonal terrace, six columns wide; altar smoke; the Pythia still speaks (genteel decline)", source: "ch-05:p54" }
+      - { fact: "Castalian spring / fountain-house below the sanctuary where the road widens", source: "ch-05:p93" }
+
+  kallias-inn:
+    canonical_name: "Kallia's house / inn"
+    aliases: ["the byre", "the house below the road"]
+    facts:
+      - { fact: "a single low room of grey polygonal stone below the road; hearth, byre for the goat, loft, beaten-earth floor; a lamp-niche by the door", source: "ch-05:p121" }
+      - { fact: "a small poor inn letting two rooms to the sacred-road traffic; a third best room kept shut for the absent son", source: "ch-06:p105" }
+      - { fact: "on the sanctuary road; ~3 miles up from Valens's yard", source: "ch-07:p99" }
+
+  olive-village:
+    canonical_name: "the Delphi valley / olive groves"
+    aliases: ["the sacred plain of olives", "the terraces"]
+    facts:
+      - { fact: "silver-green olive forest filling the valley to the sea; communal autumn harvest; a great stone press below the grove", source: "ch-06:p83" }
+
+  valens-yard:
+    canonical_name: "Valens's mule-yard"
+    aliases: ["the Roman's yard"]
+    facts:
+      - { fact: "where the sanctuary road bends south, a fold of ground with a stream and a stand of poplars; low house, longer stable, mud paddock", source: "ch-07:p101" }
+      - { fact: "~a dozen mules and three horses; harness oiled and graded, mending-bench, muck-heap squared off — a careful man's yard", source: "ch-07:p101" }
+    distances:
+      - { to: "kallias-inn", value: "3 miles up the sanctuary road", source: "ch-07:p99" }
+      - { to: "kirrha", value: "Valens's road runs down to the coast near a ship (Kirrha or thereabouts)", source: "ch-07:p116" }
+
+  kirrha:
+    canonical_name: "Kirrha"
+    aliases: []
+    facts:
+      - { fact: "a coastal/port destination south of Delphi where the wool/oil roads end near a ship", source: "ch-07:p13" }
+      - { fact: "'the poppies below Kirrha' — where the Krisa widow's body was found", source: "ch-07:p159" }
+
+  krisa:
+    canonical_name: "Krisa"
+    aliases: []
+    facts:
+      - { fact: "a settlement on the road down; the murdered widow's party set out from here; Valens carried her body up to Krisa", source: "ch-07:p165" }
+
+  amphissa:
+    canonical_name: "Amphissa"
+    aliases: []
+    facts:
+      - { fact: "town of origin of the oil-jar wagoner who refused Mara passage", source: "ch-07:p13" }
+
+  campania-pompeii:
+    canonical_name: "Campania / Pompeii (the goal — 'a mountain by the Roman sea')"
+    aliases: ["Italy", "the bay below the smoking mountain", "the far goal"]
+    facts:
+      - { fact: "Mara's destination: 'the bay below the smoking mountain' in Italy where the door home lies", source: "ch-06:p173" }
+      - { fact: "the WHERE Mara carries: 'under a mountain by the Roman sea' (a hundred mountains) — not yet narrowed to a name on the page", source: "ch-07:p67", note: "see FLAG 1 & 2" }
+      - { fact: "Puteoli named as a plausible destination in the widow cover-story", source: "ch-07:p63" }
+      - { fact: "Emilio's Campanian-coast survey permit (via Halloran) points the cover-story here", source: "ch-01:p87" }
+
+timeline:
+  - chapter: 1
+    time: "an April day (weeks after the father's death); into the following morning"
+    season: "English spring (sleet then thin sun)"
+    year: 1998
+    note: "Modern frame. Narrator fixes the year explicitly ('It was 1998')."
+  - chapter: 2
+    time: "the next day — driven since first light"
+    season: "spring"
+    year: 1998
+    note: "Verrall's timeline references: Fenn vanished autumn 1968; Emilio's three visits 'last spring, near enough a year gone'."
+  - chapter: 3
+    time: "one night decoding; flies out 'three days later'; arrives foreign coast; surveys the headland at ~5pm"
+    season: "hot southern summer (arrival country); English spring at start"
+    year: 1998
+    note: "Travel montage compresses several days."
+  - chapter: 4
+    time: "'the fourth day' — early afternoon, tide going out; the crossing"
+    season: "summer (departure); crosses into AD Greek summer"
+    year: 1998
+    note: "Point-of-no-return. Light 'wrong for the hour' on arrival; departs evening, lands mid-morning."
+  - chapter: 5
+    time: "arrival morning through the first night (crossing day)"
+    season: "high hot southern summer (cicadas)"
+    year: "~AD 70"
+    note: "Dated on page via Nero's stripped bronzes (AD 67 looting) + Vespasian's reign; narrator states '~1928 years before' 1998. Contradicts nothing; anchors the AD ~70 frame."
+  - chapter: 6
+    time: "'the second morning' through a first autumn and into the black of winter (a season+)"
+    season: "late autumn (olive harvest) into hard winter (Kallia's fever)"
+    year: "~AD 70"
+    note: "Spans several months. 'No ship crosses till the spring.'"
+  - chapter: 7
+    time: "'the tail of winter' into the first dry-road days of spring; the fair is 'six weeks' off"
+    season: "late winter -> early spring"
+    year: "~AD 70 (spring)"
+    note: "Widow cover built 'over three nights'; Mara to return to the yard 'in three days'. Krisa-widow backstory dated 'two springs back'."
+
+objects:
+
+  the-map:
+    introduced: "ch-01:p59"
+    description: "A linen-backed working survey map of a (Greek) coastline; muddled Greek/Roman scripts, offshore depths, inland excavation crosses; one cross ringed twice hard; A. Fenn's copperplate marginalia incl. 'The door'. Emilio added the ringed cross's coordinates in his own ink."
+    status: chekhov_open
+    last_mentioned: "ch-05:p137 (carried in the kit across the crossing)"
+    resolution: null
+
+  fenn-notes-ledger:
+    introduced: "ch-01:p65"
+    description: "August Fenn's papers: the mailing-tube note ('the door is not honest', 11th attempt); the cloth-bound ledger (dated left column of attempts, money right column); the flyleaf marginalia #1; journal #2 ('I, too, woke in the wrong year'). The 'only map through this any human ever drew.'"
+    status: chekhov_open
+    last_mentioned: "ch-05:p141"
+    resolution: null
+    note: "Verrall wrote out the flyleaf line ('the map is honest, it is the door that lies') on a shop receipt for Mara (ch-02:p162) — a separate carried token."
+
+  camera-and-roll:
+    introduced: "ch-01:p89"
+    description: "A good manual all-metal 35mm camera with a roll of film shot months ago and never developed. At the headland Mara loads fresh film but does NOT press the shutter — one blank frame on the counter; 'the frame I did not take'."
+    status: chekhov_open
+    last_mentioned: "ch-05:p75 (catalogued as anachronism in the kit)"
+    resolution: null
+    note: "Re-read seed #4 (fieldwork kit ritual). Per outline pays off Ch.26/climax."
+
+  fathers-wristwatch:
+    introduced: "ch-01:p89"
+    description: "Emilio's cheap accurate steel wristwatch, dull at the lugs, second hand that sweeps. Worn by Mara. At the headland it drags/strains then accelerates (time distortion), then keeps perfect time."
+    status: chekhov_open
+    last_mentioned: "ch-05:p75"
+    resolution: null
+
+  dig-slides:
+    introduced: "ch-01:p35"
+    description: "A carousel + three boxes of Emilio's 30 years of dig-season slides; trenches, section drawings, meter-sticks, walls; his thumb in the corner of two."
+    status: background
+    last_mentioned: "ch-01:p91 (left behind; not taken across)"
+    resolution: null
+
+  folded-glasses-click:
+    introduced: "ch-01:p17"
+    description: "Emilio's tortoiseshell reading glasses folded in the locked drawer; the *click* of the arms folding — a sound 'below language' that intrudes at the worst moments. THE motif instrument (reserved payoff Ch.36)."
+    status: chekhov_open
+    last_mentioned: "ch-03:p87 (intrudes at the headland)"
+    resolution: null
+    note: "Withheld deliberately Ch.4-7 per style policy; re-appears only where load-bearing."
+
+  kallias-lamp:
+    introduced: "ch-05:p131"
+    description: "A small clay lamp Kallia fills, trims, and lights nightly in the window/niche for her absent soldier son; 'a lit lamp wastes no oil it wasn't going to waste'. Mara keeps it lit through Kallia's fever — takes up the vigil."
+    status: chekhov_open
+    last_mentioned: "ch-07:p223"
+    resolution: null
+    note: "Mirror-motif to Mara's shut drawer. Both are 'the useless faithful gesture toward the one who is not coming back'."
+
+  the-linen-scarf:
+    introduced: "ch-05:p83"
+    description: "A plain undyed square of linen Mara carried against the sun — the one item of her kit that could exist in AD 70. First object of her disguise; drawn over her hair. 'One of the few things I carried all the way through.'"
+    status: chekhov_open
+    last_mentioned: "ch-05:p85"
+    resolution: null
+
+  compass-and-meters:
+    introduced: "ch-03:p59"
+    description: "A prismatic oil-damped compass and two light meters (camera CdS + a selenium handheld). All behave wrong at the saddle (pegged / rotating) then read true after. 'They told me the truth' about the crossing."
+    status: background
+    last_mentioned: "ch-05:p75"
+    resolution: null
+
+  field-notebook:
+    introduced: "ch-01:p77"
+    description: "Mara's stiff waterproof gridded field notebook with a pencil bound in the spiral. Holds Emilio's copied coordinates and the date/place/time she wrote at the headland in her own hand (re-read seed for Ch.26)."
+    status: chekhov_open
+    last_mentioned: "ch-05:p137"
+    resolution: null
+
+  buried-kit-cairn:
+    introduced: "ch-05:p81"
+    description: "Mara's modern technical jacket and anachronistic coins, buried under a cairn of stones above the sanctuary, marked against a split oak, a white boulder, and the polygonal wall — recorded like a find-spot to return to."
+    status: lost
+    last_mentioned: "ch-06:p75 (trousers added to the cairn)"
+    resolution: { chapter: 6, paragraph: 75, description: "The impossible modern clothes committed to the cairn as Mara assimilates; a marked cache she intends to recover." }
+
+  trade-card:
+    introduced: "ch-01:p79"
+    description: "An antique-dealer trade card (Verrall's, ~20 yrs old) fallen in the map-tube; Emilio wrote 'Fenn?' on the back. Leads Mara to Verrall's shop."
+    status: chekhov_closed
+    last_mentioned: "ch-02:p38"
+    resolution: { chapter: 2, paragraph: 38, description: "The card leads Mara to Verrall & Son; its purpose (finding Fenn's source) is spent when Verrall recognises it." }
+
+  the-boots:
+    introduced: "ch-05:p85"
+    description: "Mara's modern hiking boots — kept, hidden under the hem, her 'one small mutiny' when everything else is surrendered to disguise."
+    status: chekhov_open
+    last_mentioned: "ch-07:p105 (implied under the widow's dress)"
+    resolution: null
+
+organizations:
+
+  legate-household:
+    canonical_name: "the great man's household / the legate's faction (Valens's scandal)"
+    aliases: ["a great man's household, a woman's name in it"]
+    facts:
+      - { fact: "the 'scandal down south' that ruined Valens and drove him to hide in the hills as a freedman", source: "ch-07:p87" }
+    note: "Per canon the provincial legate's faction becomes antagonist-force #4 (via Sabina) in later movements; on-page in Ch.7 only as vague rumour."
+
+  factors-wool-party:
+    canonical_name: "the factor's wool party (from Corinth)"
+    aliases: ["the wool party", "the factor from Corinth"]
+    facts:
+      - { fact: "a factor from Corinth 'who answers to real people' runs a proper guarded party with the wool down to the coast twice a year", source: "ch-07:p199" }
+      - { fact: "a widow woman travels with it; short a book-keeping companion this spring — Valens brokers Mara into the role as the 'safe crossing'", source: "ch-07:p199" }
+    note: "The safe road Valens finds for Mara instead of running her on his string."
+
+  the-legions:
+    canonical_name: "the Roman legions"
+    aliases: []
+    facts:
+      - { fact: "Kallia's son enlisted six years ago (a recruiter with a full purse); last heard from two years back 'from the edge of the world'", source: "ch-06:p207" }
+
+world_rules:
+  - { rule: "The map is honest; the door is not — 'the map tells you where, and something else entirely decides when, and whether, and for whom'", source: "ch-02:p108" }
+  - { rule: "The door opened for Fenn and 'would not open for the others' — it is selective ('for whom')", source: "ch-01:p65" }
+  - { rule: "The crossing point behaves as an added spatial direction ('a north under the world' / a downward-inward pull); instruments read it though eyes cannot", source: "ch-03:p69" }
+  - { rule: "The way back closes as you cross ('felt it close the way a held breath closes a throat')", source: "ch-04:p21" }
+  - { rule: "The door answers WHERE but not WHEN (Mara carries a WHERE — 'a mountain by the Roman sea' — but not the when)", source: "ch-07:p67", note: "SEE FLAG 1 — the on-page Oracle meeting has not yet occurred; treat this rule as canon-stated but not yet dramatized." }
+  - { rule: "A lone woman cannot travel — she needs a man's name to be real ('a woman is real in the light a man throws on her'); no man = runaway, whore, or unclaimed, all 'solved by force'", source: "ch-06:p189" }
+  - { rule: "A widow is the least-unfree woman — she can travel on a dead husband's business with coin, a reason, and a story that holds", source: "ch-06:p249" }
+  # GAP: the branded door-law phrase 'the one it brought' / 'only opens for the one it brought' is canon but NOT yet on the page as of Ch.7 (outline places Fenn insert #3 at Ch.10). See FLAG 6.

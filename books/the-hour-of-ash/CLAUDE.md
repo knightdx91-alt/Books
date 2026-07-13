@@ -62,7 +62,7 @@ book/genesis/<slug>/
   - the emotional "W" — is this chapter's beat the right high/low for its slot in the arc
     (see foundation.md CALIBRATION), or are we stacking too many same-energy chapters?
   - tension/forward pull: does it open with a hook and end with a pull (hook-craft)?
-  - chapter length vs. neighbors — VARIANCE IS BY DESIGN (this book runs 1,600–12,000w; see
+  - chapter length vs. neighbors — VARIANCE IS BY DESIGN (this book runs 1,600–9,200w after the 2026-07-13 recalibration; see
     outline.md Macro-Structure). Do NOT enforce "no chapter >2× another." Instead check the
     length serves the beat: brisk modern frame, swelling immersive Greece/Campania chapters,
     deliberately collapsing chapters through the ash. Flag only length that fights its beat
@@ -93,7 +93,7 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 - **Greece first:** a lone foreign woman in antiquity can't just travel — real obstacle, not hand-waved.
 - **Love interest:** disgraced **ex-gladiator** accused of an affair with the emperor's wife; they marry + have children over years.
 - **Climax:** family can't pass to the future; **stay vs. leave** as Vesuvius erupts.
-- **Romance heat:** explicit when it occurs but OCCASIONAL/earned (NOT erotica, no per-page quota). ~3-4 on-page scenes across the arc (Ch.16/18/20 + a late payoff), none after the eruption begins. See STATE.yaml `resolved_author_decisions` for the exact wording.
+- **Romance heat:** explicit when it occurs but OCCASIONAL/earned (NOT erotica, no per-page quota). ~3-4 on-page scenes across the arc, mapped to the CURRENT 36-ch outline: **first at Ch.12 "The First Night Is a Mistake"** (slow-burn/yearning built through Ch.11), **fuller at Ch.15** (marriage warming), **a late payoff ~Ch.22** (the last unshadowed joy) — **none after the eruption begins**. (The old "Ch.16/18/20" refs were stale 45/48-ch numbering, reconciled 2026-07-13.) See STATE.yaml `resolved_author_decisions` for the exact wording.
 - **magic spelling:** n/a (this is historical, not invented-magic — the only "magic" is the time-door).
 
 ## Open author decisions (ask, don't invent)
@@ -103,7 +103,54 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 
 ## Status (update as you go)
 
-> ### ▶ NEXT SESSION — START HERE: draft Chapter 4 "The Threshold" (~1,800w · SHORT PUNCH)
+> ### ▶ NEXT SESSION — START HERE: draft Chapter 7 "The Roman With the Mules" (~8,600w · first real two-hander)
+> **Ch.1-6 all FINAL, all Floor 8.5 PASS.** Ch.6 "Kallia's House" (2026-07-13): 7,532w domestic collage,
+> **Floor 8.5 / Avg 8.64 / Casual 8.7 / Prose 9.0 / Immersion 9.0**. The foothold — learning to PASS.
+> Cover-the-name/tic CLEAN (no device bleed). NEW char MELITA in character-bible.md. Dialogue 18.7%.
+>
+> **Ch.7 = the status antagonist + the NO:** Mara hits the wall of having no male guarantor, forges a
+> widow's backstory, hears of the Oracle, and seeks out VALENS (the scarred freed muleteer) to buy
+> passage to the coast. He refuses, coldly. The romance is built on his NO. **THIS IS THE DIALOGUE PEAK
+> — lean hard (~35%+); it is the first real two-hander.** Valens: short level declaratives, works a
+> knot/strap when feeling threatens, understates mortal danger, withholds 'love', kindness always
+> sideways (his bible entry exists — confirm/extend it on his first live scene).
+> **WATCH — now 2+ chapters overdue, FIX IN Ch.7: (1) ration DEFINE-BY-NEGATION to one instance max in
+> Mara's narration. (2) do NOT lean on any character's device as a scene-button (rotate the closers).
+> (3) anaphora at top of range.**
+> **LENGTH POLICY (author, 2026-07-13 — RECALIBRATED):** Ch.5-6 land ~7,500 (complete; do NOT
+> retro-expand — padding = AI filler). The whole immersive band was rescaled DOWN to a UNIFORM
+> 7,800-9,200 so 5/6 don't look short and no density seam opens. **Ch.7 target is now 8,600w** (not
+> 9,800). Write each chapter to its NEW outline target within ~5%. Recalibrated Σ ~245k, +25k over the
+> 220k floor. See STATE.yaml LENGTH POLICY + outline.md Σ BUDGET CHECK.
+>
+> --- prior START HERE (Ch.6, now done) retained below for context ---
+> ### ▶ (done) draft Chapter 6 "Kallia's House" (~10,400w · domestic immersive collage)
+> **Movement I is COMPLETE — Ch.1-5 all FINAL, all Floor 8.5 PASS.**
+> **Ch.5 "Greece, 70 AD" is now FINAL** (2026-07-13): 7,451w LONG IMMERSIVE landing, **Genesis Floor
+> 8.5 / Avg 8.64 / Casual 8.5 / Prose 9.0 / Immersion 9.0 / Pacing 8.5**, no dimension <8.5. Closes
+> Movement I; flips mystery -> survival. Mara wakes near Delphi, DATES IT via Nero's stripped bronzes +
+> Vespasian, survives as "a woman who does not exist", Valens passes without helping, handed to Kallia,
+> Fenn journal #2 under the lamp. Dialogue ~0% ruled an EARNED strength (language barrier = the engine).
+> All gates clean (em-dash 0; long-sentence 8.2% after a heavy split pass).
+>
+> **Ch.6 = the foothold:** Kallia shelters Mara; the brutal apprenticeship of learning to PASS as a
+> woman who exists; the "lone foreign woman can't just travel" obstacle made concrete; Kallia's lamp/son
+> onstage. SIT in the humiliation of assimilation, do not montage it. **WATCH (from Ch.5 eval): (1)
+> bring DIALOGUE SHARE back up (~30-40%) after two low-dialogue chapters — this is the two-woman
+> domestic chapter, lean in. (2) Ration the define-by-negation cadence (now in Ch.3/4/5) — one strong
+> instance max. (3) Anaphora at top of its range.**
+>
+> --- prior START HERE (Ch.5, now done) retained below for context ---
+> ### ▶ (done) draft Chapter 5 "Greece, 70 AD" (~9,800w · LONG IMMERSIVE landing)
+>
+> **Ch.5 = the landing:** Mara wakes near Delphi, dates it, survives her first hours as a woman who
+> does not exist; a big scarred man (Valens) walks past without helping; she is handed to Kallia.
+> FLIPS mystery -> survival; establishes the gender/status powerlessness that is the Movement II
+> engine. The long immersive counter-weight to Ch.4's punch — crank the authenticity dial (sensory ~8,
+> harshness ~7). **[INSERT: Fenn journal #2 — "I, too, woke in the wrong year."]**
+>
+> --- prior START HERE (Ch.4, now done) retained below for context ---
+> ### ▶ (done) draft Chapter 4 "The Threshold" (~1,800w · SHORT PUNCH)
 > **Ch.3 "Coordinates & the Survey" is now FINAL** (2026-07-11): ~6,700w, **Genesis Floor 8.5 / Avg
 > 8.57 / Casual 8.5**, Prose 9.0, PACING PASS (the mandated tonal TURN — competence-joy under dread —
 > lands; strongest-paced chapter of Movement I). Full pipeline run (writer -> dialogue-polish ->
@@ -141,6 +188,9 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 >
 > **MANDATORY chapter loop (author Terry, EVERY chapter — no skipping):**
 > book-writer → **dialogue-polish → hook-craft → disruptor** (all three, every time) →
+> **update `character-bible.md`** if the chapter introduced a new named character (distinctness
+> signature + DISTINCTNESS GUARANTEE; obey the TIC BUDGET — ≤2–3 tic-bearers total = Fenn + Kallia;
+> no second character borrows the narrator's catalogue/condition device) →
 > mechanical gates (style_check + grammar_check + voice_wear_check clean; em-dash ≤4) →
 > **independent book-evaluator Genesis Score (Floor ≥8.5 + PACING)** → book-editor polish loop if
 > any dimension <8.5 → re-evaluate → commit + push to main + update ALL trackers per chapter.

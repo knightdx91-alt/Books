@@ -33,7 +33,12 @@ word_floor:
 
 phase:
   current: 1
-  status: "scaffolded — awaiting source material in research/, then architect"
+  # ⚠️ PLACEHOLDER — this default is a lie until you update it. The moment source
+  # material lands in research/ (or elsewhere), OR the architect runs, REWRITE this
+  # line to name the actual staged material and the true next step. Do NOT trust a
+  # status that still reads "TEMPLATE DEFAULT" — check the files (research/,
+  # foundation.md/outline.md at root OR under project/, feedback/progress.md).
+  status: "TEMPLATE DEFAULT (update me) — freshly scaffolded, no source staged yet; awaiting source material in research/, then architect"
   history: []
 
 chapters:

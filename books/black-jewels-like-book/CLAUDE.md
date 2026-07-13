@@ -62,10 +62,37 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 `wc -w manuscript/chapters/chapter-*.md`. If short, expand the thinnest chapters.
 
 ## Canon guardrails (settled author decisions — never violate)
-- <fill in this book's settled spellings, names, world rules, locked chapters, etc.>
+- **Read `research/worldbuilding-locked.md` first** — the author-locked world bible.
+  The architect BUILDS ON it; never overwrite it.
+- **Magic = two axes:** placement = tier (Unlit → left hand/Inner → +right/Outer →
+  +forehead/Trinity+Gift → chest/Keystone); celestial grade = depth
+  (**Dawn → Dusk → Star → Void**, each lesser/greater). Read as "placement + grade."
+- **Cosmology (one fact, three faces):** gems are goddess **Neth's** night-light in
+  stone; she bound the titan **Ossuth** at the founding, pouring herself into the
+  **Binding**, so her fading = rarer deep-gems = weakening Binding.
+- **Conflict = taboo AND hunted, one system:** Church/Crown outlaws the Trinity;
+  the **Vigil** (with rotten core the **Ashen Court**) uses that taboo as cover to
+  harvest deep-gems — the Court hoards them to stay immortal, hastening the failure.
+  On-page villains stay HUMAN; Ossuth is the off-page clock.
+- **Hero:** 17-yr-old one-rank orphan (a left-hand Dawn); dedicates alone at a
+  backwater shrine (army enlists/dedicates at 17); gifted the chest **Keystone** +
+  a deep-grade Trinity by the disguised goddess; hides his 3rd & 4th gems.
+- **Prophecy/theme:** the Keystone-King unites LIVING bearers so shared light renews
+  the Binding — **hoarded dying light vs. shared living light.**
+- **Distinctiveness (hard):** inspired-by Anne Bishop ONLY. No Bishop signature terms
+  (Jewels, Blood/landen, Territories, Offering, caste, Warlord Prince). Keep separate
+  from `books/sygl-book/` (the sigil system) — different story, do NOT merge.
+- **`Domash`** capital war-Domain spelling kept as-is.
 
 ## Open author decisions (ask, don't invent)
-- <fill in>
+- **Proposed names pending final sign-off:** the Vigil, the Ashen Court, Neth (the
+  Last Light), Ossuth (the First Dark). The architect may build on them; lock before
+  drafting to avoid a rename.
+- **Working title** ("Black Jewels–like book") — architect to propose a real title.
+- Architect to INVENT (keep distinct from Bishop): the gemstones per celestial band,
+  the hero's Trinity Gift, the Domain map + names, Neth's surviving cult.
 
 ## Status (update as you go)
-- Scaffolded. Awaiting source material in `research/`, then architect pass.
+- Phase 1. Source staged + **worldbuilding LOCKED** (`research/worldbuilding-locked.md`).
+  Core spine decisions resolved. **READY for the architect pass** (foundation.md +
+  outline.md + voice-dna.md) — not yet run. Resume: `feedback/progress.md`.
