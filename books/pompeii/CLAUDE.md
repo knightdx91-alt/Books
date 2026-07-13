@@ -103,7 +103,21 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 
 ## Status (update as you go)
 
-> ### ▶ NEXT SESSION — START HERE: draft Chapter 4 "The Threshold" (~1,800w · SHORT PUNCH)
+> ### ▶ NEXT SESSION — START HERE: draft Chapter 5 "Greece, 70 AD" (~9,800w · LONG IMMERSIVE landing)
+> **Ch.4 "The Threshold" is now FINAL** (2026-07-13): 1,734w SHORT PUNCH, **Genesis Floor 8.5 / Avg
+> 8.64 / Casual 8.5 / Prose 9.0 / Pacing 9.0**, no dimension <8.5. The crossing rendered fast/bodily —
+> Mara pulled across mid-retreat, the way back gone; hook "I went back on the fourth day." / pull "I
+> raised my head." All gates clean (em-dash 0); *click* motif WITHHELD (Ch.36 payoff). WATCH: ration
+> the "I want to be exact" tic + define-by-negation cadence in Ch.5 (both now in consecutive chapters).
+>
+> **Ch.5 = the landing:** Mara wakes near Delphi, dates it, survives her first hours as a woman who
+> does not exist; a big scarred man (Valens) walks past without helping; she is handed to Kallia.
+> FLIPS mystery -> survival; establishes the gender/status powerlessness that is the Movement II
+> engine. The long immersive counter-weight to Ch.4's punch — crank the authenticity dial (sensory ~8,
+> harshness ~7). **[INSERT: Fenn journal #2 — "I, too, woke in the wrong year."]**
+>
+> --- prior START HERE (Ch.4, now done) retained below for context ---
+> ### ▶ (done) draft Chapter 4 "The Threshold" (~1,800w · SHORT PUNCH)
 > **Ch.3 "Coordinates & the Survey" is now FINAL** (2026-07-11): ~6,700w, **Genesis Floor 8.5 / Avg
 > 8.57 / Casual 8.5**, Prose 9.0, PACING PASS (the mandated tonal TURN — competence-joy under dread —
 > lands; strongest-paced chapter of Movement I). Full pipeline run (writer -> dialogue-polish ->

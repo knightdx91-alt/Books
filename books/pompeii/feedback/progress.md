@@ -137,3 +137,28 @@ flatline on melancholy.** Standing policy: full self-pass chain (dialogue-polish
   drawer/glasses/*click*, unkept "next season" promise, bread opinion, completionism/sunk-cost lie,
   the map + Fenn's note, ringed coords, Halloran/permit, fieldwork kit, trade-card → Ch.2 pull.
   OPEN: run book-evaluator for the Genesis Floor before calling Ch.1 final.
+
+## RESUME HERE (2026-07-13) — Ch.4 FINAL, next is Ch.5
+
+Ch.4 "The Threshold" DRAFTED & FINALIZED (1,734w; SHORT-PUNCH target 1,800). The crossing —
+Mara returns on the fourth day, steps into the saddle, loses nerve, and is pulled across
+mid-retreat; the way back is gone. In-medias-res, fast, bodily; the book's first structural
+shock. Hook "I went back on the fourth day." (9/10); pull "I raised my head." (9/10).
+Full pipeline: writer -> self-pass chain (dialogue 0% BY DESIGN per voice §7 interior/catastrophe;
+hook-craft, disruptor beats folded in) -> mechanical gates ALL CLEAN (em-dash 0, simile 1.2/1k,
+long-sentence 12.8% after splitting several spirals to sharpen the punch, grammar clean,
+voice-wear clean; remaining 2 rhythm flags deliberate — the "wrong for the hour/air/coast" triad
+echoes Ch.3's instrument-motif, and "I want to be exact" is Mara's established tic) -> PACING PASS
+(the Ch.3 6.6k -> Ch.4 1.7k collapse IS the shock signal; correct high-tension slot between the
+dread-buildup and the survival flip) -> book-evaluator **PASS: Genesis Floor 8.5 / Avg 8.64 /
+Casual 8.5 / Prose 9.0 / Pacing 9.0**, no dimension <8.5, no polish loop needed. *click* motif
+WITHHELD (0 occurrences, independently confirmed — reserved for the Ch.36 payoff). Fixed a
+cross-chapter phrase leak ("want that on the record"). Eval: evaluations/chapter-4-eval.md.
+
+**Next: Ch.5 "Greece, 70 AD"** (~9,800w, LONG IMMERSIVE landing). Mara wakes near Delphi, dates
+it, survives her first hours as a woman who does not exist; big scarred man (Valens) walks past
+without helping; she is handed to Kallia. FLIPS mystery -> survival; establishes gender/status
+powerlessness (the Movement II engine). **[INSERT: Fenn journal #2 — "I, too, woke in the wrong
+year."]** WATCH (from Ch.4 eval, non-blocking): ration the "I want to be exact" tic and the
+define-by-negation cadence — both now in consecutive chapters; rest them here. Continue the full
+MANDATORY loop (writer -> self-pass chain -> gates -> pacing -> independent evaluator -> commit).
