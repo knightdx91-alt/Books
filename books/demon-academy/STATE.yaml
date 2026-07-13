@@ -1,12 +1,12 @@
 project:
   title: "Demon Academy"
-  genre: "<genre>"
-  subgenre: "<subgenre>"
+  genre: "Paranormal fantasy"
+  subgenre: "Demon-academy / NA paranormal"
   language: "English"
-  word_count_target: 90000
-  comp_titles: []
-  engagement_type: {primary: "", secondary: "", tertiary: ""}
-  premise: "<one-sentence premise>"
+  word_count_target: 95000
+  comp_titles: ["Half-Blood (Jennifer L. Armentrout)", "The Hollows (Kim Harrison)", "The Mortal Instruments (Cassandra Clare)"]
+  engagement_type: {primary: "self_insertion", secondary: "fascination", tertiary: "empathy"}
+  premise: "Summoned to a school in the outer rings of Hell by five new classmates, ordinary teen Zack Adams learns he is the half-angel son of a Demon Lord — a dual heritage that makes him both a prize and a target."
   created: "2026-07-13"
   updated: "2026-07-13"
 
@@ -15,7 +15,7 @@ adaptation:
   mode: "revise-existing-draft"
   canon_sources:
     # Fill these in once source material is staged into research/:
-    original_draft:  "research/original-draft.txt"   # raw prose to revise/expand
+    original_draft:  "research/source-notes.md"   # raw prose to revise/expand
     # series_roadmap:  "research/series-roadmap.md"
     # character_bible: "research/character-bible.md"
     # chapter_roadmap: "research/chapter-roadmap.md"   # scene-by-scene plan (binding outline)
@@ -54,10 +54,12 @@ guardrails:
   - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
   - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
-  - "<add this book's settled canon guardrails here>"
+  - "Cast/canon: Zack Adams (MC), father Demon Lord General Bal, mother Carina (part/ex-arch angel), headmistress Mara Darksoul; the five girls (Karin, Tera, Mandy, Jasmine, Sabrina) wear 'DA' uniforms; ten rings of hell, 7 Demon Lords post-rebellion, Daemon High Lord rules all."
 
 open_author_decisions:
-  - "<list any plot/character decisions the author must make before drafting>"
+  - "Reconcile MC rank: 'greater demon' (premise + drafted pg5) vs 'Demon Lord' (later notes)."
+  - "Confirm the part-demon/part-angel heritage is canon (later notes mark it 'just an idea')."
+  - "Lock name spelling: Karin vs Korin (same red-haired girl)."
 
 decisions:
   - "This book is a folder-per-book genesis project under book/genesis/<slug>/."

@@ -1,12 +1,12 @@
 project:
   title: "Horror Story (provisional title)"
-  genre: "<genre>"
-  subgenre: "<subgenre>"
+  genre: "Horror"
+  subgenre: "Supernatural / ghost-hunting horror"
   language: "English"
-  word_count_target: 90000
-  comp_titles: []
-  engagement_type: {primary: "", secondary: "", tertiary: ""}
-  premise: "<one-sentence premise>"
+  word_count_target: 80000
+  comp_titles: ["The Hollow Places (T. Kingfisher)", "A Head Full of Ghosts (Paul Tremblay)", "The Sun Down Motel (Simone St. James)"]
+  engagement_type: {primary: "fascination", secondary: "empathy", tertiary: "dread"}
+  premise: "A widowed bed-and-breakfast owner who has always seen ghosts goes hunting when a wraith that feeds on the living and the dead alike devours his late wife's lingering spirit."
   created: "2026-07-13"
   updated: "2026-07-13"
 
@@ -15,7 +15,7 @@ adaptation:
   mode: "revise-existing-draft"
   canon_sources:
     # Fill these in once source material is staged into research/:
-    original_draft:  "research/original-draft.txt"   # raw prose to revise/expand
+    original_draft:  "research/source-notes.md"   # raw prose to revise/expand
     # series_roadmap:  "research/series-roadmap.md"
     # character_bible: "research/character-bible.md"
     # chapter_roadmap: "research/chapter-roadmap.md"   # scene-by-scene plan (binding outline)
@@ -54,10 +54,11 @@ guardrails:
   - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
   - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
-  - "<add this book's settled canon guardrails here>"
+  - "MC John Maxwell, a lifelong medium who runs a B&B; his late wife's ghost (a skeptic in life) is taken by an unknown entity draining both living and dead. He has laid ghosts to rest before but never faced this."
 
 open_author_decisions:
-  - "<list any plot/character decisions the author must make before drafting>"
+  - "Name the antagonist entity and its rules (what it is, how it feeds, how it can be stopped)."
+  - "Decide the real title (folder is provisional)."
 
 decisions:
   - "This book is a folder-per-book genesis project under book/genesis/<slug>/."

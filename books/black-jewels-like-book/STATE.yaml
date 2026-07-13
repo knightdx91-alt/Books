@@ -1,12 +1,12 @@
 project:
   title: "Black Jewels–like book (working title)"
-  genre: "<genre>"
-  subgenre: "<subgenre>"
+  genre: "Fantasy"
+  subgenre: "Epic / gaslamp fantasy (gem-rank magic)"
   language: "English"
-  word_count_target: 90000
-  comp_titles: []
-  engagement_type: {primary: "", secondary: "", tertiary: ""}
-  premise: "<one-sentence premise>"
+  word_count_target: 100000
+  comp_titles: ["The Black Jewels Trilogy (Anne Bishop)", "Mistborn (Brandon Sanderson)", "Shadow and Bone (Leigh Bardugo)"]
+  engagement_type: {primary: "fascination (rank/gem system)", secondary: "self_insertion (orphan rises)", tertiary: "empathy"}
+  premise: "A one-rank orphan doing his army dedication alone at a backwater shrine is gifted a forbidden fourth gem by a disguised goddess, and must hide his true rank as a prophecy — and the hunters chasing high-rank bearers — close in."
   created: "2026-07-13"
   updated: "2026-07-13"
 
@@ -15,7 +15,7 @@ adaptation:
   mode: "revise-existing-draft"
   canon_sources:
     # Fill these in once source material is staged into research/:
-    original_draft:  "research/original-draft.txt"   # raw prose to revise/expand
+    original_draft:  "research/source-notes.md"   # raw prose to revise/expand
     # series_roadmap:  "research/series-roadmap.md"
     # character_bible: "research/character-bible.md"
     # chapter_roadmap: "research/chapter-roadmap.md"   # scene-by-scene plan (binding outline)
@@ -54,10 +54,12 @@ guardrails:
   - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
   - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
-  - "<add this book's settled canon guardrails here>"
+  - "Gem-rank magic: no gem / left hand / +right hand / +forehead (Trinity is rare); the hidden 4th gem is unique to the MC. Maturity dedication at 16 (F) / 18 (M). Domains as regions. Keep distinct from Sygl's sigil system — separate story."
 
 open_author_decisions:
-  - "<list any plot/character decisions the author must make before drafting>"
+  - "Is the 3rd gem forbidden, or are high-rank bearers hunted for power? Pick the central conflict."
+  - "Confirm the 4th-gem location (forehead-center vs chest) and the prophecy's stakes."
+  - "Lock spelling of 'Domash' army."
 
 decisions:
   - "This book is a folder-per-book genesis project under book/genesis/<slug>/."

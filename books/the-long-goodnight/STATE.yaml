@@ -1,12 +1,12 @@
 project:
   title: "The Long Goodnight"
-  genre: "<genre>"
-  subgenre: "<subgenre>"
+  genre: "Romantic suspense"
+  subgenre: "Small-town romantic suspense / whodunit"
   language: "English"
-  word_count_target: 90000
-  comp_titles: []
-  engagement_type: {primary: "", secondary: "", tertiary: ""}
-  premise: "<one-sentence premise>"
+  word_count_target: 85000
+  comp_titles: ["Northern Lights (Nora Roberts)", "The Witness (Nora Roberts)", "Behind Closed Doors (B.A. Paris)"]
+  engagement_type: {primary: "empathy", secondary: "fascination (whodunit)", tertiary: "dread"}
+  premise: "Three years after a drunk driver killed his wife, a grief-numbed drifter takes a job at a small-town general store and lets himself love the owner's daughter — just as someone starts stalking her, and the town, including her, begins to wonder if the trouble arrived with the stranger."
   created: "2026-07-13"
   updated: "2026-07-13"
 
@@ -15,7 +15,7 @@ adaptation:
   mode: "revise-existing-draft"
   canon_sources:
     # Fill these in once source material is staged into research/:
-    original_draft:  "research/original-draft.txt"   # raw prose to revise/expand
+    original_draft:  "research/original-handwritten-draft.md"   # raw prose to revise/expand
     # series_roadmap:  "research/series-roadmap.md"
     # character_bible: "research/character-bible.md"
     # chapter_roadmap: "research/chapter-roadmap.md"   # scene-by-scene plan (binding outline)
@@ -54,10 +54,11 @@ guardrails:
   - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
   - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
-  - "<add this book's settled canon guardrails here>"
+  - "Small-town romantic suspense with a whodunit spine; slow-burn grief romance braided with an escalating stalker mystery. Canon blueprint in outline.md, voice-dna.md, character-bible.md, ENTITY_STATE.yaml. Canon names Xavier (was Troy) / Derek (was Chris); the handwritten draft (research/) is pre-canon source, NOT canon."
 
 open_author_decisions:
-  - "<list any plot/character decisions the author must make before drafting>"
+  - "Reconcile the 2 drafted chapters + handwritten draft to canon names before continuing."
+  - "Migrate chapters/*.md into manuscript/chapters/ for pipeline consistency, or keep as-is?"
 
 decisions:
   - "This book is a folder-per-book genesis project under book/genesis/<slug>/."

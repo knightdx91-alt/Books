@@ -1,12 +1,12 @@
 project:
   title: "LitRPG — James Mason"
-  genre: "<genre>"
-  subgenre: "<subgenre>"
+  genre: "LitRPG / progression fantasy"
+  subgenre: "Portal-fantasy LitRPG (beast-taming)"
   language: "English"
-  word_count_target: 90000
-  comp_titles: []
-  engagement_type: {primary: "", secondary: "", tertiary: ""}
-  premise: "<one-sentence premise>"
+  word_count_target: 110000
+  comp_titles: ["He Who Fights with Monsters (Shirtaloon)", "The Divine Dungeon (Dakota Krout)", "Awaken Online (Travis Bagwell)"]
+  engagement_type: {primary: "self_insertion", secondary: "fascination", tertiary: "empathy"}
+  premise: "Orphaned by a suspicious crash, James Mason opens the sealed box his grandfather left him and is pulled into the Cygnis system — a world of levels, classes and towers — where an inherited forbidden portal ability and an ancient Beast Tamer growth class mark him as a legend's heir."
   created: "2026-07-13"
   updated: "2026-07-13"
 
@@ -15,7 +15,7 @@ adaptation:
   mode: "revise-existing-draft"
   canon_sources:
     # Fill these in once source material is staged into research/:
-    original_draft:  "research/original-draft.txt"   # raw prose to revise/expand
+    original_draft:  "research/source-notes.md"   # raw prose to revise/expand
     # series_roadmap:  "research/series-roadmap.md"
     # character_bible: "research/character-bible.md"
     # chapter_roadmap: "research/chapter-roadmap.md"   # scene-by-scene plan (binding outline)
@@ -54,10 +54,11 @@ guardrails:
   - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
   - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
-  - "<add this book's settled canon guardrails here>"
+  - "System canon: status screens/stats (STR/VIT/AGI/WIS/INT/CHA/LUCK), class rarities common→uncommon→rare→epic→ancient→legendary→mythic; MC's Beast Tamer (Ancient) growth class; beta bond Dapple (iron-hide wolf cub, ancient); title 'Legend's Progeny'; seven towers (one per stat except luck, done in order, ~tower per book); world 'Seminova' / Cygnis system. MC James Mason — distinct from litrpg-josh."
 
 open_author_decisions:
-  - "<list any plot/character decisions the author must make before drafting>"
+  - "Confirm whether the grandfather was originally from Seminova and the source of the portal ability."
+  - "Lock tower structure: one tower per book, or more per book?"
 
 decisions:
   - "This book is a folder-per-book genesis project under book/genesis/<slug>/."
