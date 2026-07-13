@@ -266,3 +266,30 @@ proximity, competence as courtship; Valens's yes must be EARNED, not given. **WA
 standing habit, break at least one per chapter. (3) ration retrospective significance-tagging to
 <=1/chapter (let objects carry weight). (4) Drusus must be distinct from Valens (cost-talk worldview
 vs stoic-spare silence — NO shared counting/pricing device).** Continue the full MANDATORY loop.
+
+## BOOK-WIDE POLISH PASS (2026-07-13) — foreknowledge + performed-candor + proverb over-use
+
+Author (Terry) approved fixing the cross-chapter patterns the 7-chapter beta panels flagged. Applied
+across Ch.1-7 (finalized chapters), verified against all gates:
+
+- **Performed-candor tic rationed to ONE.** The "I want that on the record / I want to be exact / I
+  mention it because it is true / let it be said plainly / I want to be clear / I will be honest"
+  family was a book-wide reflex (Ch.1 x3, Ch.2 x2, Ch.3 x3, Ch.4 x1, Ch.6 x2). KEPT the single
+  signature instance — Ch.1 "I did not cry. I want that on the record." (earliest, characterizing) —
+  and varied ALL the rest to plain narration.
+- **Retrospective foreknowledge rationed; romance pre-spends cut.** Kept the deliberate Outlander
+  retrospection but removed the beats that pre-spent the romance before it's earned: Ch.5 "the man I
+  would love past my own life" (at first sighting) -> "the man who would come to matter most"; Ch.6's
+  page-before-the-two-hander reveal ("he was the reason she would not want to leave the room") CUT,
+  keeping only the "I misjudged the door" irony; Ch.7 softened "the last hour of both our lives",
+  "would spend nine years learning", "the whole rest of my story would turn on", and the panel's #1
+  Ch.7 fix "the man I would die beside" -> "the man at the centre of all of it". KEPT the Ch.7 hook
+  ("the man I would spend my life with") as the one rationed foreshadow in his introduction chapter.
+- **Kallia proverb over-use trimmed (Ch.6).** Cut the two self-glosses that re-annotated the device
+  (already introduced in Ch.5) and de-anaphora'd the "Which is not the proverb / means nothing /
+  meant everything" triplet. Scene-button proverbs left as characterization; Ch.7's close already
+  withholds one.
+
+All 7 chapters re-verified: style_check / grammar / voice-wear CLEAN; em-dash within gate; rhythm
+flags 22 -> 20; all above word floor. No book-evaluator re-run needed (edits are subtractive/ration,
+not structural; Ch.7's Floor-8.5 PASS stands).

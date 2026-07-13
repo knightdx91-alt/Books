@@ -106,7 +106,7 @@ But something in the set of him reached those two men before I did. The stillnes
 
 That was the whole of it. Saved and dismissed in one motion. Kept alive and unseen in the same breath by a man who would, in the fullness of a great many hard years, weep at my own table over a child mispronouncing his name, and who could not, that first afternoon, be troubled to ask me mine.
 
-I have turned that over a great deal since. That the man I would love past my own life first came to me as a shut door I was grateful merely not to be crushed against. It is not the meeting a story would invent. But it was the truest thing the world could have shown me about him at the start. That his kindness, when it finally came, would always arrive like that. Sideways. Unlooked-at. Costing him something he would rather not admit to spending. Dressed up as indifference, so that no one, least of all himself, could accuse him of having a heart still soft enough to break.
+I have turned that over a great deal since. That the man who would come to matter most to me first came to me as a shut door I was grateful merely not to be crushed against. It is not the meeting a story would invent. But it was the truest thing the world could have shown me about him at the start. That his kindness, when it finally came, would always arrive like that. Sideways. Unlooked-at. Costing him something he would rather not admit to spending. Dressed up as indifference, so that no one, least of all himself, could accuse him of having a heart still soft enough to break.
 
 ---
 
