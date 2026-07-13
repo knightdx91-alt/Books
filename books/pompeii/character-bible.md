@@ -156,6 +156,17 @@ books** (cross-book pattern rule — e.g. "counting things" is spent elsewhere a
   folk-blunt vs courtly-veiled. **vs Verrall:** both grieve an absent "son," but Kallia leaves a lamp
   lit and lies about it; Verrall keeps a ledger and admits it.
 
+### MELITA ○ — Delphi valley woman, the olive-harvest neighbour (Ch.6; may recur as village texture)
+- **Role:** The valley's welcome, in one broad woman — draws Mara out at the communal olive harvest and,
+  by being satisfied with a half-answer about a mother, folds her into the village. Mara's first
+  acceptance by anyone who is not Kallia.
+- **Own problem:** Her mother's "ideas" and the marriage they made — the ordinary grievance-fondness a
+  mother earns; she narrates herself readily, which is what makes her safe to stand near.
+- **DISTINCTNESS GUARANTEE:** *Talks ABOUT herself in a warm scornful flood (mothers, marriages, "ideas")
+  so that she never has to ask a hard question back — the opposite of Kallia's terse withholding; NO
+  verbal tic (per TIC BUDGET — she is distinguished by garrulous self-narration, not a catchphrase).*
+  **vs Kallia:** floods vs clips; tells everything vs guards one shut room.
+
 ### DRUSUS ◐ — Roman trader; Valens's reluctant partner & friend (recurs)
 - **Role:** The bridge into Roman society; gets the family to Campania; comic relief that curdles.
 - **Own problem:** Drowning in debt to the wrong people; bored inside his marriage. Buys luxury he

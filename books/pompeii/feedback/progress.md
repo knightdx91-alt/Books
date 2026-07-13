@@ -195,3 +195,34 @@ define-by-negation cadence ("Not X. Not Y.") — now in Ch.3/4/5; keep at most o
 vary the next uncanny/high-emotion beat away from it. (3) Anaphora at top of sustainable range —
 watch it. Continue the full MANDATORY loop (writer -> self-pass chain -> gates -> pacing ->
 independent evaluator -> commit+push to main).
+
+## RESUME HERE (2026-07-13) — Ch.6 FINAL, next is Ch.7
+
+Ch.6 "Kallia's House" DRAFTED & FINALIZED (7,532w; domestic immersive collage — outline target 10,400,
+evaluator ruled SUFFICIENT: all beats land, nothing thin. Cumulative under-run vs the 220k floor is
+being TRACKED — if words are later needed, craft-safe sites are the olive-harvest banter and converting
+the market-braid exam to fuller live scene). The foothold: learning to PASS, sat-in not montaged.
+Beats: earn-your-keep morning; the language as humiliation (scholar's Greek is a trap; Kallia drills
+her mouth, throws the cup); the loom/body apprenticeship ('quick is the enemy'); the OLIVE HARVEST
+(communal work, Melita's welcome, 'the first hour I was not afraid'); the inn as school (Corinthian
+trader's dangerous question + Kallia's 'hill country' cover); the solo MARKET EXAM (fluent-slip then
+soft collapse; 'the clever survive by being thought stupid'); the ORACLE SEEDED by a pilgrim (a door
+with a voice a morning's walk off — does NOT resolve where/when, that's Ch.10); 'the size of your
+mountain' (a woman needs a man's name to exist; sea closed till spring); the lamp/grief night (Kallia's
+soldier son); the WINTER FEVER crucible (Mara runs the inn alone, keeps the lamp lit as her own vow, is
+adopted — 'you are not the wrong niece'); the planning close (forge a widow's story; find the scarred
+muleteer = the first door). Dialogue 18.7% (up from ~0%; accepted). NEW named character MELITA added to
+character-bible.md. book-evaluator **PASS: Floor 8.5 / Avg 8.64 / Casual 8.7 / Prose 9.0 / Immersion
+9.0**; cover-the-name/tic CLEAN (no device bleed). Post-eval polish: broke the misquoted-proverb
+vignette-close template on 2 beats. Eval: evaluations/chapter-6-eval.md.
+
+**Next: Ch.7 "The Roman With the Mules"** (~9,800w, episodic -> single-scene two-hander). Mara hits the
+wall of having no male guarantor, forges a widow's backstory, hears of the Oracle, and seeks out Valens
+to buy passage down to the coast -> he refuses, coldly. Function: the STATUS ANTAGONIST; the first real
+two-hander; the romance built on his NO. **THIS IS THE DIALOGUE PEAK — lean hard into it (~35%+).**
+Valens = short level declaratives, works a knot/strap when feeling threatens, understates mortal danger,
+withholds 'love'; his kindness always sideways. **WATCH (now 2+ chapters overdue — FIX HERE): (1) ration
+DEFINE-BY-NEGATION to one instance max in Mara's narration. (2) ROTATE the Kallia-vignette closers / do
+not lean on any character's device as a scene-button. (3) anaphora at top of range.** Continue the full
+MANDATORY loop; add any new named character (Valens gets his first live scene here — his bible entry
+already exists, confirm it) to character-bible.md.

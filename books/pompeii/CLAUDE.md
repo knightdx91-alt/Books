@@ -103,7 +103,23 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 
 ## Status (update as you go)
 
-> ### ▶ NEXT SESSION — START HERE: draft Chapter 6 "Kallia's House" (~10,400w · domestic immersive collage)
+> ### ▶ NEXT SESSION — START HERE: draft Chapter 7 "The Roman With the Mules" (~9,800w · first real two-hander)
+> **Ch.1-6 all FINAL, all Floor 8.5 PASS.** Ch.6 "Kallia's House" (2026-07-13): 7,532w domestic collage,
+> **Floor 8.5 / Avg 8.64 / Casual 8.7 / Prose 9.0 / Immersion 9.0**. The foothold — learning to PASS.
+> Cover-the-name/tic CLEAN (no device bleed). NEW char MELITA in character-bible.md. Dialogue 18.7%.
+>
+> **Ch.7 = the status antagonist + the NO:** Mara hits the wall of having no male guarantor, forges a
+> widow's backstory, hears of the Oracle, and seeks out VALENS (the scarred freed muleteer) to buy
+> passage to the coast. He refuses, coldly. The romance is built on his NO. **THIS IS THE DIALOGUE PEAK
+> — lean hard (~35%+); it is the first real two-hander.** Valens: short level declaratives, works a
+> knot/strap when feeling threatens, understates mortal danger, withholds 'love', kindness always
+> sideways (his bible entry exists — confirm/extend it on his first live scene).
+> **WATCH — now 2+ chapters overdue, FIX IN Ch.7: (1) ration DEFINE-BY-NEGATION to one instance max in
+> Mara's narration. (2) do NOT lean on any character's device as a scene-button (rotate the closers).
+> (3) anaphora at top of range.**
+>
+> --- prior START HERE (Ch.6, now done) retained below for context ---
+> ### ▶ (done) draft Chapter 6 "Kallia's House" (~10,400w · domestic immersive collage)
 > **Movement I is COMPLETE — Ch.1-5 all FINAL, all Floor 8.5 PASS.**
 > **Ch.5 "Greece, 70 AD" is now FINAL** (2026-07-13): 7,451w LONG IMMERSIVE landing, **Genesis Floor
 > 8.5 / Avg 8.64 / Casual 8.5 / Prose 9.0 / Immersion 9.0 / Pacing 8.5**, no dimension <8.5. Closes
