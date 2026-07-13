@@ -103,12 +103,24 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 
 ## Status (update as you go)
 
-> ### ▶ NEXT SESSION — START HERE: draft Chapter 5 "Greece, 70 AD" (~9,800w · LONG IMMERSIVE landing)
-> **Ch.4 "The Threshold" is now FINAL** (2026-07-13): 1,734w SHORT PUNCH, **Genesis Floor 8.5 / Avg
-> 8.64 / Casual 8.5 / Prose 9.0 / Pacing 9.0**, no dimension <8.5. The crossing rendered fast/bodily —
-> Mara pulled across mid-retreat, the way back gone; hook "I went back on the fourth day." / pull "I
-> raised my head." All gates clean (em-dash 0); *click* motif WITHHELD (Ch.36 payoff). WATCH: ration
-> the "I want to be exact" tic + define-by-negation cadence in Ch.5 (both now in consecutive chapters).
+> ### ▶ NEXT SESSION — START HERE: draft Chapter 6 "Kallia's House" (~10,400w · domestic immersive collage)
+> **Movement I is COMPLETE — Ch.1-5 all FINAL, all Floor 8.5 PASS.**
+> **Ch.5 "Greece, 70 AD" is now FINAL** (2026-07-13): 7,451w LONG IMMERSIVE landing, **Genesis Floor
+> 8.5 / Avg 8.64 / Casual 8.5 / Prose 9.0 / Immersion 9.0 / Pacing 8.5**, no dimension <8.5. Closes
+> Movement I; flips mystery -> survival. Mara wakes near Delphi, DATES IT via Nero's stripped bronzes +
+> Vespasian, survives as "a woman who does not exist", Valens passes without helping, handed to Kallia,
+> Fenn journal #2 under the lamp. Dialogue ~0% ruled an EARNED strength (language barrier = the engine).
+> All gates clean (em-dash 0; long-sentence 8.2% after a heavy split pass).
+>
+> **Ch.6 = the foothold:** Kallia shelters Mara; the brutal apprenticeship of learning to PASS as a
+> woman who exists; the "lone foreign woman can't just travel" obstacle made concrete; Kallia's lamp/son
+> onstage. SIT in the humiliation of assimilation, do not montage it. **WATCH (from Ch.5 eval): (1)
+> bring DIALOGUE SHARE back up (~30-40%) after two low-dialogue chapters — this is the two-woman
+> domestic chapter, lean in. (2) Ration the define-by-negation cadence (now in Ch.3/4/5) — one strong
+> instance max. (3) Anaphora at top of its range.**
+>
+> --- prior START HERE (Ch.5, now done) retained below for context ---
+> ### ▶ (done) draft Chapter 5 "Greece, 70 AD" (~9,800w · LONG IMMERSIVE landing)
 >
 > **Ch.5 = the landing:** Mara wakes near Delphi, dates it, survives her first hours as a woman who
 > does not exist; a big scarred man (Valens) walks past without helping; she is handed to Kallia.

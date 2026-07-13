@@ -162,3 +162,36 @@ powerlessness (the Movement II engine). **[INSERT: Fenn journal #2 — "I, too, 
 year."]** WATCH (from Ch.4 eval, non-blocking): ration the "I want to be exact" tic and the
 define-by-negation cadence — both now in consecutive chapters; rest them here. Continue the full
 MANDATORY loop (writer -> self-pass chain -> gates -> pacing -> independent evaluator -> commit).
+
+## RESUME HERE (2026-07-13) — Ch.5 FINAL, Movement I COMPLETE, next is Ch.6
+
+Ch.5 "Greece, 70 AD" DRAFTED & FINALIZED (7,451w; LONG IMMERSIVE landing — outline target 9,800,
+but book-evaluator ruled 7,451 SUFFICIENT: all beats land, the ~2,350w belongs to Ch.6 by design;
+do NOT pad). Closes Movement I; flips mystery -> survival. Beats delivered: Mara wakes near Delphi;
+DATES IT via Nero's 67 AD stripping of the sanctuary bronzes (empty statue plinths) + the reign of
+Vespasian -> ~AD 70; survives her first hours as "a woman who does not exist" (wrong clothes, money,
+language, unclaimed status); walks the living sanctuary (treasuries, temple of Apollo, Castalian
+spring she once touched "dead" on a coach tour); Valens PASSES without helping (calls off two men by
+sheer stillness, never looks at her face — his kindness always sideways/unlooked-at); handed to
+KALLIA (Greek widow, misquoted proverbs, lamp lit nightly for an absent son she won't name); Fenn
+journal #2 ("I, too, woke in the wrong year") read under Kallia's lamp = the quiet gut-punch.
+
+Heavy revision pass on the first draft: split runaway long sentences (LONG% 39% -> 8.2%, median 12w);
+de-ticked (retired "never once"; varied "which is to say", "could not have", "I stood at the edge");
+added the sanctuary-precinct immersive beat (+~875w). Gates ALL CLEAN (em-dash 0, simile 1.2/1k,
+grammar/voice-wear/metaphor clean). Dialogue ~0% BY DESIGN — she cannot yet speak living Greek; the
+barrier IS the Movement II engine; the two quoted words ("Kallia," "Panis,") make the naming ritual
+the chapter's most intimate beat. Evaluator: earned strength, not a miss. book-evaluator **PASS:
+Genesis Floor 8.5 / Avg 8.64 / Casual 8.5 / Prose 9.0 / Immersion 9.0 / Pacing 8.5**; no dimension
+<8.5. Hook (L3) 9/10, pull (L157) 9/10. Eval: evaluations/chapter-5-eval.md.
+
+**Next: Ch.6 "Kallia's House"** (~10,400w, domestic immersive collage). Kallia shelters Mara; the
+brutal apprenticeship of learning to PASS as a woman who exists; the "lone foreign woman can't just
+travel" obstacle made concrete; Kallia's secondary life onstage (the lamp / the son). Function: the
+foothold — SIT in the humiliation of assimilation rather than montage it.
+**WATCH (from Ch.5 eval, carry in):** (1) DIALOGUE SHARE must come back UP after two low-dialogue
+chapters (Ch.4-5) — this is the domestic two-woman chapter, lean into it (~30-40%). (2) Ration the
+define-by-negation cadence ("Not X. Not Y.") — now in Ch.3/4/5; keep at most one strong instance,
+vary the next uncanny/high-emotion beat away from it. (3) Anaphora at top of sustainable range —
+watch it. Continue the full MANDATORY loop (writer -> self-pass chain -> gates -> pacing ->
+independent evaluator -> commit+push to main).
