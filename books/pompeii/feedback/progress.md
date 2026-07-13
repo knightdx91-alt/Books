@@ -293,3 +293,28 @@ across Ch.1-7 (finalized chapters), verified against all gates:
 All 7 chapters re-verified: style_check / grammar / voice-wear CLEAN; em-dash within gate; rhythm
 flags 22 -> 20; all above word floor. No book-evaluator re-run needed (edits are subtractive/ration,
 not structural; Ch.7's Floor-8.5 PASS stands).
+
+## OUTLINE v3 — back-half sag fix (2026-07-13, author Terry approved)
+
+Diagnosed a 4-chapter low-tension TROUGH in the old Movement III (Ch.14-17: arrival -> montage ->
+breather -> birth) sitting AFTER the romance resolves (Ch.13 marriage) and BEFORE the first antagonist
+(Sabina, Ch.18), with no clock the reader could feel. Fixed with 4 moves, NET-ZERO chapter change
+(36 preserved; Movement V 28-36 NOT renumbered):
+1. Reader-ahead Fenn dread fragment pulled forward to Ch.14-15 (reader clocks Vesuvius before Mara).
+2. The two early breathers MERGED (old 15 "Building a Life" + old 16 "Catalogue of Small Days" -> Ch.15).
+3. Faction seeded PHYSICALLY in Campania at Ch.15 ("Lupus" rumor -> live thread to Ch.18).
+4. Fenn's first live contact brought forward to a new Ch.16 (partial/withholding); the WHEN-method
+   payoff kept at Ch.20 ("What Fenn Knows"). Old single 9,200 Fenn peak split into 7,000 + 6,500.
+Result: ONE pure breather survives (Ch.22 Aelia, nearest the fall); dramatic-irony clock runs from
+~46% not ~55%. Σ ~= 241,500 (14-27 span -3,800). Ch.1-13 UNTOUCHED. Full detail in STATE history +
+outline.md Movements III-IV.
+
+**FLAG for Terry (pre-existing, NOT introduced by v3):** the romance-heat chapter refs in CLAUDE.md
+("Ch.16/18/20 + a late payoff") and the STATE 2026-06-21 log are STALE numbering — they don't match
+the v2/v3 36-ch outline, where the first union is **Ch.12 "The First Night Is a Mistake"** and
+intimacy lives in Ch.11-13 (+ a late payoff). Want the heat placement reconciled to the current
+outline? (Not touched here — scene placement is an author call.)
+
+**NEXT: still Chapter 8 "Earning the Yes"** (unchanged by v3 — Movement II is intact). Negotiation +
+caper collage; Mara makes herself useful to Valens's trade; Drusus introduced; grudging conditional
+passage; the legate's reach seeded.
