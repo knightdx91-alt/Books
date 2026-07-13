@@ -273,7 +273,7 @@ objects:
     resolution: null
 
 world_rules:
-  - { rule: "Strict single third-limited POV (Xavier only) — the narrative conveys only what Xavier perceives/knows", source: "ch-01:p05" }
+  - { rule: "POV (amended 2026-07-13): primary narrative is strict single third-limited, Xavier only. EXCEPTION: 3-4 concealed-antagonist 'Watcher' interludes (the sole non-Xavier POV) dramatize the stalker directly with identity sealed — never named/self-described, refers to self as 'he', withholds-never-lies (every line true after the Ch27 reveal), no single-suspect tell before its fair-play window. See STATE.yaml + outline.md POV lock.", source: "ch-01:p05; amended per author decision" }
   - { rule: "Holmes General Store closes at six", source: "ch-01:p67" }
   - { rule: "George Holmes does not hire strangers — only people who have 'been introduced'", source: "ch-02:p42" }
   - { rule: "Anna lives about a mile past the church, outside Jamestown, though she is at the store more than at home", source: "ch-02:p34" }

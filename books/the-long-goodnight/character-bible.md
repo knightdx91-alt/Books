@@ -49,6 +49,11 @@ Legend: **PRINCIPAL** (full card in voice-dna.md) · **SUPPORTING** · **WALK-ON
   slips.
 - **Distinct from:** Caleb — Derek's resentment is *concealed and smooth*;
   Caleb's is *open and clumsy*. This contrast IS the misdirection; keep it audible.
+- **In the Watcher interludes (concealed POV):** this public voice must NOT leak.
+  The interior stalker voice is a deliberately un-matchable *fourth* voice — cold,
+  flat, abstract ownership ("the thing," "what's mine"), **never** "my Anna," no
+  charm. Identity stays sealed until the Ch27 reveal. See voice-dna.md Watcher card
+  + outline.md POV lock (withhold-never-lie; no single-suspect tell early).
 
 ## Caleb Ruiz — SUPPORTING (local sweet on Anna; red-herring suspect)
 - **Sound:** Earnest, stiff, means well and says it badly. Starts sentences he

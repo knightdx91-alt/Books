@@ -8,10 +8,13 @@
 
 ## 1. Global Narrative Voice
 
-Strict single third-limited, **Xavier only**. The narration is Xavier's
-consciousness rendered in close past tense. The reader never knows a thing
-Xavier doesn't. Anna's offscreen life reaches the page only as report or
-aftermath.
+Strict single third-limited, **Xavier only**, for the entire main narrative line.
+The narration is Xavier's consciousness rendered in close past tense. Within his
+line the reader never knows a thing Xavier doesn't, and Anna's offscreen life
+reaches the page only as report or aftermath. **The one exception** is the 3–4
+concealed **Watcher interludes** (see the Watcher voice-card in §2 and the amended
+POV lock in outline.md) — the sole non-Xavier POV, and even there the antagonist's
+*identity* is withheld, never his menace.
 
 - **Vocabulary level:** 4/10. Plain, concrete, worked-with-his-hands nouns.
   Xavier notices tools, weather, the give of a floorboard, the price of things.
