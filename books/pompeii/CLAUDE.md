@@ -103,7 +103,7 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 
 ## Status (update as you go)
 
-> ### ▶ NEXT SESSION — START HERE: draft Chapter 7 "The Roman With the Mules" (~9,800w · first real two-hander)
+> ### ▶ NEXT SESSION — START HERE: draft Chapter 7 "The Roman With the Mules" (~8,600w · first real two-hander)
 > **Ch.1-6 all FINAL, all Floor 8.5 PASS.** Ch.6 "Kallia's House" (2026-07-13): 7,532w domestic collage,
 > **Floor 8.5 / Avg 8.64 / Casual 8.7 / Prose 9.0 / Immersion 9.0**. The foothold — learning to PASS.
 > Cover-the-name/tic CLEAN (no device bleed). NEW char MELITA in character-bible.md. Dialogue 18.7%.
@@ -117,9 +117,11 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 > **WATCH — now 2+ chapters overdue, FIX IN Ch.7: (1) ration DEFINE-BY-NEGATION to one instance max in
 > Mara's narration. (2) do NOT lean on any character's device as a scene-button (rotate the closers).
 > (3) anaphora at top of range.**
-> **LENGTH POLICY (author, 2026-07-13):** Ch.5-6 came in ~12% under target; do NOT retro-expand them
-> (ruled complete — padding = AI filler). CORRECT FORWARD: write Ch.7+ NEARER target (aim within ~5%,
-> i.e. Ch.7 ~9,300-9,800w, dialogue-rich two-hander). See STATE.yaml LENGTH POLICY.
+> **LENGTH POLICY (author, 2026-07-13 — RECALIBRATED):** Ch.5-6 land ~7,500 (complete; do NOT
+> retro-expand — padding = AI filler). The whole immersive band was rescaled DOWN to a UNIFORM
+> 7,800-9,200 so 5/6 don't look short and no density seam opens. **Ch.7 target is now 8,600w** (not
+> 9,800). Write each chapter to its NEW outline target within ~5%. Recalibrated Σ ~245k, +25k over the
+> 220k floor. See STATE.yaml LENGTH POLICY + outline.md Σ BUDGET CHECK.
 >
 > --- prior START HERE (Ch.6, now done) retained below for context ---
 > ### ▶ (done) draft Chapter 6 "Kallia's House" (~10,400w · domestic immersive collage)

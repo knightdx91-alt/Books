@@ -216,7 +216,7 @@ character-bible.md. book-evaluator **PASS: Floor 8.5 / Avg 8.64 / Casual 8.7 / P
 9.0**; cover-the-name/tic CLEAN (no device bleed). Post-eval polish: broke the misquoted-proverb
 vignette-close template on 2 beats. Eval: evaluations/chapter-6-eval.md.
 
-**Next: Ch.7 "The Roman With the Mules"** (~9,800w, episodic -> single-scene two-hander). Mara hits the
+**Next: Ch.7 "The Roman With the Mules"** (~8,600w RECALIBRATED, episodic -> single-scene two-hander). Mara hits the
 wall of having no male guarantor, forges a widow's backstory, hears of the Oracle, and seeks out Valens
 to buy passage down to the coast -> he refuses, coldly. Function: the STATUS ANTAGONIST; the first real
 two-hander; the romance built on his NO. **THIS IS THE DIALOGUE PEAK — lean hard into it (~35%+).**
