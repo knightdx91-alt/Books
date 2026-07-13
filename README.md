@@ -4,7 +4,8 @@ This is the consolidated home for all of Terry's books. **The writing pipeline l
 at the repo root and every book uses it directly** — no per-book copies, no separate
 pipeline repo to keep in sync.
 
-See **`CLAUDE.md`** for the full working guide (read it every session).
+See **`CLAUDE.md`** for the full working guide (read it every session), and
+**`PROJECT-STATUS.md`** for the consolidation log, decisions, and outstanding manual steps.
 
 ## Layout
 
