@@ -1,7 +1,7 @@
 project:
   title: "Demon Academy"
-  genre: "Paranormal fantasy romance (reverse harem)"
-  subgenre: "Demon-academy reverse-harem / NA paranormal"
+  genre: "Paranormal fantasy romance (harem)"
+  subgenre: "Demon-academy harem / NA paranormal"
   language: "English"
   word_count_target: 100000
   comp_titles: ["Zodiac Academy (Caroline Peckham & Susanne Valenti)", "Supernatural Prison / Demon Trials (G. Bailey)", "Hush, Hush (Becca Fitzpatrick)"]
@@ -54,7 +54,7 @@ guardrails:
   - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
   - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
-  - "STRUCTURE = REVERSE HAREM: one male MC (Zack), a love-interest ensemble that grows over the series. The five summoners are the founding harem — Karin (curvy, flame-red hair, silver glasses, ringleader), Tera (shy, lanky brown hair, freckles), Mandy (short, heavier, perpetually smiling), Jasmine (serious, pixie cut, ice-blue eyes), Sabrina (blonde, green eyes, blunt/impatient). Each needs a fully distinct voice + arc; do NOT let them blur. Give each girl a real reason to choose Zack and let the bonds build with friction, not default."
+  - "STRUCTURE = HAREM (one male MC, multiple female love interests): MC Zack + a female love-interest ensemble that grows over the series. The five summoners are the founding harem — Karin (curvy, flame-red hair, silver glasses, ringleader), Tera (shy, lanky brown hair, freckles), Mandy (short, heavier, perpetually smiling), Jasmine (serious, pixie cut, ice-blue eyes), Sabrina (blonde, green eyes, blunt/impatient). Each needs a fully distinct voice + arc; do NOT let them blur. Give each girl a real reason to choose Zack and let the bonds build with friction, not default."
   - "Cast/canon: Zack Adams (MC, 6ft, blond, green eyes), father Demon Lord General Bal (rules 3rd ring), mother Carina (part/ex-arch angel), headmistress Mara Darksoul; the five girls wear 'DA' uniforms; lesser demons need a greater-demon anchor to cross the hells of perdition (this is why they summoned Zack — Karin nearly died); demons tested for class/rank; Demon Academy is one of three outer-hell schools competing in the Demon Trials; ten rings of hell, 7 Demon Lords post-rebellion, Daemon High Lord rules all."
 
 open_author_decisions:
