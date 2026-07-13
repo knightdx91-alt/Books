@@ -1,8 +1,26 @@
-# The Long Goodnight — OCR (handwritten draft)
+# The Long Goodnight — original handwritten draft (SOURCE MATERIAL, not canon)
 
-> Raw OCR transcription from handwritten pages. Faithful to the original (spelling/wording kept as written). **Staging file** — to be moved into `books/the-long-goodnight/` (likely as `manuscript/`) later.
+> **Status (decided):** The **digital** planning + chapters in this folder are **canonical.**
+> This file is the **original handwritten draft**, transcribed via OCR and kept as
+> *source material / voice reference only.* It is NOT the canonical text.
 >
-> ⚠️ Note: this handwritten draft names the protagonist **Troy Steadman** (wife **Selena**). The existing digital planning docs / chapters in `books/the-long-goodnight/` use a different opening and character framing — verify which is canonical before merging (this may be the original handwritten version the digital drafts were reworked from).
+> It's preserved because its prose runs further than the canon has drafted (through
+> Chapter 2, ~4,450 words) and is a useful reference for scenes not yet written into
+> the canonical manuscript. When those scenes are written into canon, apply the
+> name/role mapping below.
+>
+> **Name & role mapping (handwritten → canon):**
+>
+> | Handwritten (this file) | Canonical (digital) |
+> |---|---|
+> | **Troy** Steadman | **Xavier** Steadman *(deliberately renamed — "Troy" is used in another book)* |
+> | Selena (wife) | Selena Steadman — unchanged |
+> | **Anna** ("In a way…") | **Anna Holmes** — revealed as **George's daughter** |
+> | George Holmes / general store | George Holmes / **Holmes General Store** (dies mid-book) |
+> | **Chris** (controlling ex) | **Derek Vance** — the **stalker/antagonist** |
+> | *(not present)* | Caleb Ruiz (red-herring), the necklace fair-play clue, arson climax |
+>
+> Transcription faithful to the original (spelling/wording kept as written).
 
 <!-- pg 1 -->
 ## The Long Goodnight

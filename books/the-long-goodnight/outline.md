@@ -1,6 +1,12 @@
 # The Long Goodnight — Outline / Roadmap
 
 > Working roadmap. Planning doc, not prose. Update as decisions change.
+>
+> **Source material:** the author's original handwritten draft is transcribed at
+> `research/original-handwritten-draft.md`. It is NOT canon (uses the old names
+> Troy→Xavier, Chris→Derek; Anna's reveal not yet developed) but its prose runs
+> through Chapter 2 (~4,450 words) — further than the canonical manuscript — so mine
+> it for scenes/voice and rename to canon when adapting.
 
 ## Logline
 Three years after a drunk driver killed his wife, a grief-numbed drifter takes a
