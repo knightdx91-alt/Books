@@ -32,12 +32,14 @@ word_floor:
   shortest_chapter_floor: 1200   # sanity floor for the SHORTEST allowed chapter (punch chapters ok; not a target)
 
 phase:
-  current: 1
-  status: "scaffolded — awaiting source material in research/, then architect"
-  history: []
+  current: 2
+  status: "architect complete — foundation.md + outline.md + voice-dna.md built; ready to draft Chapter 1"
+  history:
+    - "2026-07-13: scaffolded; source-notes.md staged (drafted opening pg.1-8 + author planning notes)"
+    - "2026-07-13: architect pass complete — foundation/outline/voice-dna. 26 chapters, 5-movement progression ladder, Σ≈115k words. Two open decisions made provisionally (grandfather = native Seminovan legend Corin Vale/Threshold-Walker; ONE tower per book, Book 1 = Strength Tower)."
 
 chapters:
-  total_planned: 0
+  total_planned: 26
   completed: []
   scores: {}
 

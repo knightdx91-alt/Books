@@ -133,8 +133,11 @@ inked into his skin before he's earned anything.
 squirrel until Dapple telekinesis-nudges it and it bites him.
 **Opening strategy (bridge):** continuous — walk from the field into the woods.
 **Key beats:** 1) the squirrel fight (drafted canon — the branch, "oh fuck this," the bite, Dapple's
-catch). 2) [kill / +10 exp / Lvl up / choose a class?]. 3) the class list (~30), Beast Tamer at
-ANCIENT + growth; Dapple's shock; the class description + bond mechanics (canon). 4) selects it —
+catch). 2) [kill / +10 exp / Lvl up / choose a class?]. 3) the class list (~30), **Beast Tamer
+(Ancient)** growth class; Dapple's shock; the class description + bond mechanics (canon: **+2 INT / +1
+STR / +1 CHA per level**; bond up to class rarity, one above, max five, beast may decline, higher stat
+shared equally; unlock = bond rare-or-higher before first level, beast's rarity sets class rarity).
+4) selects it —
 knowledge floods in; the beta tattoo.
 **Progressive structure:** builds on "to level you fight." **Adds:** the class, the rarity ladder said
 aloud, the beta bond, the "shared highest stat" mechanic. **Opens toward Ch.5:** the town in the

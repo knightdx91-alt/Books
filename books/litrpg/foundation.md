@@ -167,6 +167,21 @@ being kind to him without wanting anything back* — a stray gift wrecks him fas
   at the funeral and then breaks down because a Seminovan market stall smells like his mother's
   kitchen (Ch.11). He can't cry on cue; it arrives sideways.
 
+### CANON — James's class: **Beast Tamer (Ancient)** growth class (verbatim, do not alter)
+
+> From drafted source pg.8. This exact name and stat block are canon — never genericize to
+> "his ancient growth class."
+> - **Class name:** **Beast Tamer (Ancient)** — a *growth class*.
+> - **Stat growth:** **+2 INT, +1 STR, +1 CHA per level.**
+> - **Ability:** bond any number of creatures up to your class rarity; may have only ONE creature of
+>   a rarity ABOVE yours; the beast **may decline** the bond; the bond is two-way, so the **HIGHER**
+>   of tamer/beast stat is **shared equally**, capped at a max of **five** beasts.
+> - **Growth-class unlock:** must bond a **rare-or-higher** beast **before gaining your first level**;
+>   the bonded beast's rarity **sets the class rarity**. (Dapple is Ancient → James's Beast Tamer came
+>   back Ancient.)
+> - Bonding grants innate beast-knowledge (hunting, society structure) and the **beta mark** (the
+>   wolf's-head tattoo on his right hand) designating Dapple as beta over future beasts and a summons.
+
 ### Dapple — the bonded iron-hide wolf cub (Ancient), James's beta
 
 > **CANON, do not alter:** iron-hide wolf cub, **ancient** rarity, **female**, speaks mind-to-mind
