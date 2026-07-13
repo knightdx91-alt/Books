@@ -46,6 +46,47 @@ All book repos were audited so branches can be deleted without losing content.
 Note: **branch deletion does NOT work from the Claude web environment** (git proxy returns 403).
 Delete via the GitHub website (repo → Branches → trash icon) or a local terminal.
 
+## Session log — 2026-07-13 (readiness + first architect pass)
+
+**Goal:** get every book folder "ready to start work," then begin architect passes.
+
+- **Normalized all folders to standard pipeline layout** (idempotent; nothing overwritten).
+  The 6 OCR stubs, plus the 3 non-standard folders (`apathetic-love`, `sygl-book`,
+  `the-long-goodnight`), now have `STATE.yaml`, `CLAUDE.md`, `tools/` (style+grammar),
+  standard dirs, and `feedback/progress.md`. OCR premises moved to `research/source-notes.md`;
+  apathetic-love's 19.6k draft staged as `research/original-draft.md`. Saeren Bk 1 & 2 got
+  per-book `CLAUDE.md`; the two planned LotG books scaffolded.
+- **Filled `STATE.yaml`** (genre, subgenre, comps, engagement, one-line premise, canon
+  guardrail, open decisions, canon-source path) for 9 pre-blueprint books:
+  black-jewels-like-book, demon-academy, hazels-story, horror-story, litrpg, norse-story,
+  apathetic-love (revise-existing-draft), sygl-book (rewrite/expansion), the-long-goodnight.
+- **Genre corrections:** `demon-academy` = **standard harem** (one male MC Zack + the five
+  girls who summon/anchor him — NOT reverse harem). `sygl-book` confirmed harem-romance.
+  `litrpg` (James Mason) locked **NO-ROMANCE** guardrail per source. Scanned all other books —
+  no other hidden harem/romance structures.
+- **First architect pass DONE — `litrpg` (James Mason):** foundation.md + outline.md +
+  voice-dna.md built; STATE phase→2, total_planned **26 chapters (~115k words)**;
+  macro-structure = 5-movement progression ladder (not 3-act). Blueprint is **staged/committed
+  but awaits author sign-off** on: (A) grandfather = Seminova-native legend "Corin Vale";
+  (B) one tower per book (Bk1 = Strength Tower); and invented names (towns Hallowmere/Draeval,
+  ally Wren, Corin Vale) — all renameable. **Ready for Chapter 1 once confirmed.**
+
+### Architect-pass readiness map (for next session)
+- **Blueprint complete → near ch1:** `finding-lady-death`, `the-gift` (already had F+O+V);
+  `litrpg` (done this session, pending author confirm).
+- **Needs partial pass:** LotG Bk 1 (`land-of-the-guardians/land-of-the-guardians`) — has
+  foundation+outline, needs only `voice-dna.md`.
+- **Needs full architect pass (STATE filled):** black-jewels-like-book, demon-academy,
+  hazels-story, horror-story, norse-story, litrpg-josh, multiverse, nanobot, shadow-god,
+  the-manipulators, LotG `son-of-none`/`the-dragon-isle`/`the-origin`.
+- **Special (reconcile / adaptation, NOT fresh architect):** `sygl-book` (lift `project/`
+  blueprint to root), `the-long-goodnight` (reconcile 2 chapters + docs to canon),
+  `apathetic-love` (entity-tracker BUILD → architect in revise mode).
+- **Open per-book author decisions still pending** in each STATE.yaml's `open_author_decisions`
+  (e.g. demon-academy heat level + harem roster; greater-demon-vs-Demon-Lord; sygl friction).
+- **Check:** LotG README calls `son-of-none` "Drafted ~26k words" but its `manuscript/chapters/`
+  is empty — locate that draft before treating it as adaptation vs from-scratch.
+
 ## Outstanding manual steps (owner: Terry)
 
 1. **Delete old branches** on The-Saeren-Chronicles (15), Apathetic-Love (1), The-Manipulators (1)
