@@ -10,7 +10,7 @@ him. He was just finishing up for the day, he had been typing up the contract fo
 
 Logan nods his head but keeps working, she looks to the guy, who cleared his throat.
 
-"I'm Chris" he says, "and this is Tracy. We work a few cubicles down."
+"I'm Derek" he says, "and this is Tracy. We work a few cubicles down."
 
 Seeing that they were not going away, Logan stops typing and looks up.
 
@@ -26,13 +26,13 @@ it depressing. Tracy leaned her long tan arms on the top of his cubicle wall.
 
 "In all seriousness though," she said, "we just wanted to reach out. We've both been the new people here and seen how many people don't make an effort to socialize. So we figured we would be the welcome committee."
 
-Logan tilted his head and peered at them. Tracy was pretty enough. She had light red hair that shone when the light hit it, small glasses perched on a sharp nose. Her hair fell nicely on her slim shoulders. Chris definitely looked like a typical office guy. Black hair parted to the side with a suit jacket slung over a shoulder. His grey eyes held laughter. Looking at his arms Logan wonders if he works out.
+Logan tilted his head and peered at them. Tracy was pretty enough. She had light red hair that shone when the light hit it, small glasses perched on a sharp nose. Her hair fell nicely on her slim shoulders. Derek definitely looked like a typical office guy. Black hair parted to the side with a suit jacket slung over a shoulder. His grey eyes held laughter. Looking at his arms Logan wonders if he works out.
 
 "Thank you for stopping by. I appreciate it. Have you two worked here long?" he asks politely.
 
 "Two years next week," Tracy says.
 
-"A little over three years," Chris replies.
+"A little over three years," Derek replies.
 
 ## Page 4
 
@@ -46,15 +46,15 @@ Tracy looked confused.
 
 "When they moved me from acquisitions to accounts I told them I would still help when they needed me. I usually do more work for Mr. Baker though."
 
-Chris shook his head and pulled Tracy off the wall.
+Derek shook his head and pulled Tracy off the wall.
 
 "I don't know how you do it," he said, "I've got enough work to keep me busy as it is."
 
-With a final wave Chris led Tracy back to their cubicles. Logan lets out a sigh and finishes the last two paragraphs of the contract before attaching it to an
+With a final wave Derek led Tracy back to their cubicles. Logan lets out a sigh and finishes the last two paragraphs of the contract before attaching it to an
 
 ## Page 5
 
-email for Mr. Baker. The next day when Logan arrived at work he was pulled into a group of people by Chris, who began introducing everyone. Slightly overwhelmed he backed away slowly to put some distance between them. "It's nice to meet you all." he said, "I'm honestly terrible with names so if I forget yours please don't think I'm being rude." he smiles weakly.
+email for Mr. Baker. The next day when Logan arrived at work he was pulled into a group of people by Derek, who began introducing everyone. Slightly overwhelmed he backed away slowly to put some distance between them. "It's nice to meet you all." he said, "I'm honestly terrible with names so if I forget yours please don't think I'm being rude." he smiles weakly.
 
 Tracy sees the look on his face and pulls him away.
 
@@ -72,7 +72,7 @@ Logan was shaking his head even before she had finished speaking. Seeing this Tr
 
 "I'll make sure he doesn't pressure you into it, or try to anyway. Well I'll let you get to work. You know where we are if you need anything."
 
-Tracy waved then walked off to the group and dragged Chris to his cubicle. Chris looked like he was objecting but apparently gave in to the fact he could not stand around all day.
+Tracy waved then walked off to the group and dragged Derek to his cubicle. Derek looked like he was objecting but apparently gave in to the fact he could not stand around all day.
 
 *Now* — thinking back to that day, Logan breathed deeply, then slowly exhaled. It was true that he did not do well in large groups of people. The high emotions confused him. When he was growing up he was often considered dull and boring because he never showed much emotion. Logan was sure he had them but they must be buried deep. He remembers at his parents' funeral, after they had died in a car crash, he was the only one who didn't cry at their deaths. His brother and sister didn't understand how he could not
 
@@ -90,7 +90,7 @@ Logan just nodded and went out to bury his dog then continued playing outside. F
 
 ## Page 8
 
-messages. Besides the initial greeting telling him that they were here to listen if he would like to talk, they ignored him carrying on their own conversation. Currently they were having a discussion about whether it was rude to walk away from people if you get overwhelmed, especially if you were forced into the situation against your will. Logan thought back to what Tracy and Chris pulled him into and shuddered.
+messages. Besides the initial greeting telling him that they were here to listen if he would like to talk, they ignored him carrying on their own conversation. Currently they were having a discussion about whether it was rude to walk away from people if you get overwhelmed, especially if you were forced into the situation against your will. Logan thought back to what Tracy and Derek pulled him into and shuddered.
 
 PinkHairedPixie – I'm just saying that they should have thought about that before dragging you into a situation you didn't want to be in.
 
@@ -136,7 +136,7 @@ A chime sounds from his computer. Logan switches over to his email and sees that
 
 DarkSide – I've got to go. Big boss wants to see me in his office. I'll be back on tonight.
 
-With that he closes the tab and picks up his briefcase from under his desk. Making sure his screen is clear he heads for the elevator. He passes the group eating cake and Tracy and Chris wave at him smiling. He smiles back and steps into the elevator. He pushes
+With that he closes the tab and picks up his briefcase from under his desk. Making sure his screen is clear he heads for the elevator. He passes the group eating cake and Tracy and Derek wave at him smiling. He smiles back and steps into the elevator. He pushes
 
 ## Page 11
 
@@ -1201,3 +1201,120 @@ Megan frowns a little, "Then why suggest this?"
 Logan looks over at Megan and smiles, "Trust me, just seeing you in that outfit makes whatever discomfort I may feel worth it." Megan blushes and looks away.
 
 Once they finally reached the parking lot of the Anime Con, Logan stared in amazement. He had never seen so many people dressed up in his life. After they parked and began walking towards the building hand in hand, Megan began pointing out costumes she recognized. There was everything from Dragon Ball to Sailor Moon. Megan seemed to particularly like the costumes for a series
+
+## Page 102
+
+called *Magic Knights Rayearth*. Logan noticed that she eyed quite a few of the girls' shapely legs. Seeing him watching her, she grins sheepishly.
+
+"I can't help it. They're nice to look at."
+
+Logan eyes Megan up and down and nods, "I agree." Megan smiles at him and pulls him towards the Fruits Basket stall to the right. Logan sees Chase behind the table showing a couple of girls t-shirts with Fruits Basket characters on them. Megan stepped over to the table and started looking through the merchandise. They had phone cases, key chains, and even some stuffed plushies. Logan stepped to the right and noticed they had two wooden cases that held hand painted stones made to look like the zodiac animals. It was a remarkable reproduction of the ones that Shigure did in the first episode. Logan looked over to where Megan was checking out the t-shirts and figured she would be occupied for a bit, which would give him a chance to buy the stones before she noticed. Five minutes later, with the closed case in his hand, he walks over to where Megan was chatting with a pretty blond woman in an outfit
+
+## Page 103
+
+that he recognized from Inuyasha.
+
+"I get what you're saying," the woman argues, "but the new series has nothing on the original. When they do a sequel after that many years it's most times just a cash grab."
+
+Megan shook her head in exasperation, "That's not it at all. Sometimes the fan base is the one pushing for more, it's not just the studios. That's why they redid Fruits Basket." Megan then noticed Logan standing off to the side and motioned him over.
+
+"Logan this is Sara," she said introducing them, "she seems to think any anime reboot is just a way for the studios to make more money."
+
+Logan shakes Sara's hand, "Nice to meet you. Love the costume by the way." Logan then smirks, "but I'm not going to get in the middle of an argument with two beautiful women." Megan sticks her tongue out at him then notices that he was carrying a wooden case by the handle.
+
+## Page 104
+
+"Ooh, what's that?" she asks motioning to the case. Logan shakes his head and grins, "Something you'll get later."
+
+Megan pouts for a moment, which Logan finds cute as hell, then shrugs, "Well guess you'll have to wait until later for something too." she says then heads to the next booth. She then looks over her shoulder and grins at him, "Come on."
+
+Over the next few hours they made their way through the many stalls set up with merchandise as well as tables set up where people could get their items signed by their series' creators. Logan got a picture of Tite Kubo signed by him, as Logan loved his Bleach series. Megan had picked up a few plush dolls as well as some funko pops she had been looking for. All in all they had a good time walking hand in hand admiring the anime convention.
+
+It was around one in the afternoon when they decided to head out to grab lunch. Once Megan was settled in her seat in the car, Logan handed her the wooden case before closing her car door softly, by the time
+
+## Page 105
+
+Logan had settled into his own seat, Megan had opened the case and just sat there staring down at the artfully painted stones. The only real difference between this set and the one on the show was that there was a stone set off by itself, which was the cat, Kyo. Logan started the car but sat there watching Megan.
+
+"You okay?" Logan asks
+
+Megan nods but sniffles a little. Logan reaches over to grab her hand and she squeezes his fingers tightly.
+
+"Thank you." Megan says quietly, "They're beautiful. I can honestly say this is one of the best presents I've ever gotten." Megan shakes her head as if trying to clear it of bad thoughts, "I'm sorry, I didn't mean to get all maudlin on you."
+
+Logan shakes his head, "It's fine, what's wrong?"
+
+Megan looks up at him through her long lashes, judging if he really wanted to know. She apparently sees what she's looking for and begins to speak.
+
+## Page 106
+
+"I've never really had a good relationship," she admits, "I've never had someone that has acted like he actually wanted to know how I was feeling or did little things for me."
+
+Logan rubbed his thumb over the top of her hand listening to her talk.
+
+"My last boyfriend Caleb, I dated him like a year ago, he was just using me for a place to stay. It started out good but went downhill fast. I just don't have any luck with picking guys." Megan looks down at their clasped hands, "you're one of the sweetest guys I've ever met Logan. I'm sorry if it seems like I'm a mess."
+
+Logan reaches out and wipes away a tear that had escaped her eye.
+
+"You're not a mess, you've just had crappy men make you think you are." Logan tilts her head up with a forefinger, making her look at him, "I'm not them," Logan says softly, "I'm not perfect but I will not ask for more than you can give."
+
+## Page 107
+
+Megan looked at him for a moment before leaning in and kissing him softly on the lips. "Thank you." she whispers.
+
+Logan smiled at her, relieved that she seemed better. "Want me to take you home?" he asks.
+
+"You're not mad?" she asks.
+
+Logan shakes his head, "not at all. We both have a past, if you need time that's okay. Just know that I'm here okay?"
+
+The drive back to Megan's house was quiet. Megan held his hand as he drove but seemed preoccupied so Logan left her to her thoughts. Once he pulled into her driveway, Megan shook her head as if she hadn't realized they had already made it there. Logan opened her car door and walked her to her front door.
+
+"Thank you for a wonderful date." Logan says once they reached the door, "I really enjoyed it." Megan smiles up at him in response.
+
+## Page 108
+
+"I'm sorry the end was sucky," she apologized fidgeting with her keys. "I'll make it up to you" with that she hurriedly kisses Logan on the lips and darts inside. Logan stood staring at her door for a moment before chuckling and heading back to his car.
+
+After Logan had gotten home, he had texted Megan but hadn't received a response. So, faced with a free evening he decided to jump on the Apathetic Way chat room. It had been awhile since he had been on, what with working and everything, so it was about time he got on.
+
+Darkside has entered the chat
+
+Darkside - Hey all! It's been awhile.
+Under_Dog - Hey man!
+Lilywhite - Hi DS, how you been?
+Darkside - I'm good Lilywhite, just been working. How's everyone been?
+Under_Dog - I'm good, work's been steady and the missus is happy. Can't complain.
+Lilywhite - Well I don't work unless you count taking care of the kiddos as a job,
+
+## Page 109
+
+Lilywhite - but other than that everything's been great.
+Darkside - Hey Under_Dog, I've got a question if you don't find it too personal.
+Under_Dog - Sure man, what's up?
+Darkside - How does it work being married and being apathetic?
+Under_Dog - Huh, honestly didn't expect that question.
+Under_Dog - Well, let's see. I've been married to my wife for almost fifteen years. When we started out I knew there were things I enjoyed about her but there wasn't love. Honestly, I don't know if there is love now, I just know I'd do anything, be anything, for her. To me that's what marriage is about. I give her everything I can give.
+Darkside - So she's okay with how you feel?
+Under_Dog - Well, we've never strictly talked about it but I'd have to say yes. I mean she's still with me, so that's something lol.
+Lilywhite - From a woman's perspective, we want someone who is going to be there, no matter what.
+
+## Page 110
+
+Under_Dog - Why the question DS?
+Darkside - *shrug* I met someone I actually enjoy being around and talking to. I just wasn't sure how marriage would work ya know. I like seeing her name pop up when I get a message, I like looking at her.
+Lilywhite - Have you told her that?
+Darkside - In so many words.
+Under_Dog - I don't know man, every relationship is different. Just take it one day at a time. If she's the one, then it will work out.
+
+Logan scrolled through the logged in users, seeing who was all there.
+
+Darkside - I'm surprised that Pinkhairedpixie isn't on.
+Lilywhite - She's another one we haven't seen in awhile. Last time I talked to her, she said she was real busy with work but that's been a bit.
+Darkside - Huh, well speaking of work, I need to jump off here and get to it. Thanks for the advice!
+Under_Dog - Anytime man.
+Lilywhite - Take care DS!
+
+## Page 111
+
+Logan sat back on the couch, letting his hands fall from the keyboard. He hadn't planned on asking Under_Dog about his marriage but he was glad he did. Throughout Logan's whole life he felt like he was always barely tolerating people. Because he could not empathise with their problems, it was usually more strenuous to deal with others and Logan didn't want to make the effort half the time. It was different with Megan. For once there was someone that he genuinely enjoyed spending time with and looked forward to hearing from. This was new to him. With what happened in the car, Logan hoped he had acted right trying to reassure her. Logan checked his phone again and sighed when he saw that there was still no message from her.
