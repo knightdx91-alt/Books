@@ -46,6 +46,36 @@ Your chapter does not pass the gate below Genesis Floor 8.5 (every dimension ≥
 
 The floor IS the score: one dimension at 7.5 sinks the chapter. Before handing off, name this chapter's weakest dimension to yourself and reinforce it.
 
+## HIT THE WORD TARGET ON THE FIRST DRAFT (scene budget)
+
+Landing short and expanding afterward is a defect, not a workflow. Padding a finished
+chapter dilutes what already works. Build the length in from the start by budgeting scenes
+BEFORE you write, and checking your running count AS you write.
+
+**Before the first sentence — build a scene budget.** Read the chapter's word Target from
+the outline (`Σ` / chapter target). Break the chapter into its scenes/beats and assign each
+a word allotment that sums to the Target (leave ~5% headroom). Write the budget as an HTML
+comment at the top of the file so you can steer against it, e.g.:
+
+```
+<!-- SCENE BUDGET (Target 7,900): opening/hook 900 | negotiation 2,600 | Drusus intro 1,800 | conditional-yes turn 1,600 | legate seed + pull 1,000 -->
+```
+
+A chapter that comes in short almost always has too FEW scenes or beats for its target —
+not thin scenes. If the budget won't reach Target, the fix is another beat (a complication,
+a second location, a reversal, an interiority pass at the emotional peak), NOT stretching
+existing prose. Add the beat to the budget before you draft it.
+
+**While writing — checkpoint at every scene break.** After each scene, run
+`wc -w manuscript/chapters/chapter-[N].md` and compare cumulative words to your budget. If a
+scene lands >15% under its allotment, you are trending short: course-correct in the NEXT
+scene (deepen it, or promote a planned beat) rather than discovering the shortfall at the end.
+Never inflate a completed scene to hit a number — carry the deficit forward as real story.
+
+**The floor is a hard gate.** Before handoff, `wc -w` the file. If actual < Target, you are
+not done: return to the budget, find the beat that's missing, and write it. Do not hand off a
+short chapter expecting a later pass to fix it.
+
 ## THE FLEXIBLE OBLIGATIONS
 
 Every chapter should aim for all of these, but ONE obligation per chapter is allowed to take a backseat. A chapter where the theme recedes but emotion is devastating is better than a chapter that checks all six boxes and moves no one.
@@ -305,6 +335,7 @@ Write the chapter to `manuscript/chapters/chapter-[N].md` with this header:
 ```markdown
 # Chapter [N]: [Title]
 
+<!-- SCENE BUDGET (Target [Y]): [beat 1] N | [beat 2] N | ... (sums to Target) -->
 <!-- Word count: [X] | Target: [Y] | Anchor: [the emotional anchor] -->
 
 [Chapter prose begins here]
@@ -314,7 +345,7 @@ After writing, save a self-report to `manuscript/chapters/chapter-[N]-report.md`
 
 ```markdown
 # Writer Report: Chapter [N]
-- **Word count:** actual vs target
+- **Word count:** actual vs target (if actual < target, the chapter is NOT done — add the missing beat before handoff, do not report short)
 - **Emotional anchor:** did you hit it? What IS the moment?
 - **Chaos moments:** which ones, where (line references)
 - **Impulse deviations:** where the text went somewhere unplanned (and why kept/cut)
