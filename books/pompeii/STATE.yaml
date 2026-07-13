@@ -23,6 +23,12 @@ word_floor:
   manuscript_target_words: 260000
   # NO uniform per-chapter floor — chapter length VARIES 1,600-12,000w by design (v2). The
   # book TOTAL is the binding gate; the architect budgeted Sigma chapter targets = 273,000 >= target.
+  # LENGTH POLICY (author Terry, 2026-07-13): through Ch.6, actual 34,083 vs budget 39,000 = ~4,900
+  # under (-12.6%). The 220k HARD FLOOR is NOT at risk even if the trend continues (worst case ~239k,
+  # +19k over floor); only the 260k target is. DECISION: do NOT retro-expand Ch.5/6 (evaluator ruled
+  # both COMPLETE; padding finished chapters reads as AI filler). CORRECT FORWARD — write the remaining
+  # big chapters NEARER their outline targets (aim within ~5%, not 12% under) to hold the 260k target.
+  # Track the running total each chapter; if it drifts toward the floor, revisit.
   shortest_chapter_floor: 1600   # the shortest planned chapter (Ch.36, the door closing)
 
 phase:

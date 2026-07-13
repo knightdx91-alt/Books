@@ -117,6 +117,9 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 > **WATCH — now 2+ chapters overdue, FIX IN Ch.7: (1) ration DEFINE-BY-NEGATION to one instance max in
 > Mara's narration. (2) do NOT lean on any character's device as a scene-button (rotate the closers).
 > (3) anaphora at top of range.**
+> **LENGTH POLICY (author, 2026-07-13):** Ch.5-6 came in ~12% under target; do NOT retro-expand them
+> (ruled complete — padding = AI filler). CORRECT FORWARD: write Ch.7+ NEARER target (aim within ~5%,
+> i.e. Ch.7 ~9,300-9,800w, dialogue-rich two-hander). See STATE.yaml LENGTH POLICY.
 >
 > --- prior START HERE (Ch.6, now done) retained below for context ---
 > ### ▶ (done) draft Chapter 6 "Kallia's House" (~10,400w · domestic immersive collage)
