@@ -2,7 +2,7 @@
 
 > Raw OCR transcription of handwritten **planning notes** (no prose drafted yet). Faithful to the original. A worldbuilding concept the author notes is inspired by Anne Bishop's *Black Jewels* trilogy.
 >
-> ⚠️ Possible overlap to check: this gem/rank magic system (gems on left hand / right hand / forehead granting magic + abilities) strongly resembles the **sigil ("sygl") system in the `Sygl` manuscript**. May be the same world/idea under a different working title — author to confirm whether to merge.
+> Note: the gem/rank magic here may look similar to the sigil system in `Sygl`, but per the author these are **separate stories** — do NOT merge them.
 
 ## Premise page
 
