@@ -74,6 +74,13 @@ books** (cross-book pattern rule — e.g. "counting things" is spent elsewhere a
 - **Chaos (4/4):** re-ties knots/harness-leather in tense scenes (his hands need a task to survive
   feeling); hyper-vigilant threat mind-reading (wrong in mundane ways); the smell of arena sand
   intrudes in good moments; weeps once — at his baby son mispronouncing his old arena name — and leaves the room.
+- **First live scene:** Ch.7 "The Roman With the Mules" (the mule-yard two-hander). Confirmed to this
+  card: short level declaratives; hands work a knot/strap when feeling threatens (paid at the scene's
+  peak — "nothing left to work... open and still"); understates mortal danger ("a liability with legs");
+  kindness turned sideways ("I'm sorry, which is more than I said to the last three"); withholds any
+  warmth behind the closing lie "It's nothing to me either way," told to a knot instead of to her face.
+  His refusal is protective, not cold-hearted (the Krisa widow / the poppies). Runs the yard with a boy
+  (unnamed, ~12) and a string of mules/horses outside the sanctuary road.
 - **Marriage:** marries Mara (Ch.13); children **Lucius** then **Aelia**.
 - **DISTINCTNESS GUARANTEE (no verbal tic — control & distance):** *Syntax of a man who trusts nothing
   he hasn't secured himself — short, level, declarative; subordinates rarely; understates mortal danger

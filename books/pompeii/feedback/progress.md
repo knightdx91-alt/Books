@@ -226,3 +226,43 @@ DEFINE-BY-NEGATION to one instance max in Mara's narration. (2) ROTATE the Kalli
 not lean on any character's device as a scene-button. (3) anaphora at top of range.** Continue the full
 MANDATORY loop; add any new named character (Valens gets his first live scene here — his bible entry
 already exists, confirm it) to character-bible.md.
+
+## RESUME HERE (2026-07-13) — Ch.7 FINAL, next is Ch.8
+
+Ch.7 "The Roman With the Mules" DRAFTED & FINALIZED (8,216w; target 8,600, -4.5%, inside the
+recalibrated 7,800-9,200 immersive band). FIRST REAL TWO-HANDER / dialogue PEAK (31.6%, in the
+28-38% Outlander band). Beats: (1) HITS THE WALL of no male guarantor, dramatized — an Amphissa
+wagoner refuses her coin ("nobody's woman"; "who comes asking if you don't arrive?"). (2) FORGES THE
+WIDOW with Kallia over three nights (Lucius Caedicius; Kallia's note "take out the wall" = don't tell
+the story you love, grief goes short and stops). (3) HEARS OF THE ORACLE — the two-lock plan: before
+buying passage south she must climb the sacred way and ask the Pythia WHERE in Italy the door home is
+(plants Ch.10; ties Ch.6 pilgrim seed). (4) THE VALENS TWO-HANDER: pitches the widow -> he reads
+through her instantly ("Go home, widow. You're not one") -> she PUTS THE STORY DOWN, tells the truth
+-> his NO is FOR HER SAKE (the Krisa widow, the poppies below Kirrha, guards were the killers) -> his
+sideways kindness: finds her a safer road (the factor's widow needs a book-keeping companion), sworn
+as "just business... nothing to me either way" (the one big lie, told to a knot). Hook = "The first
+time I met the man I would spend my life with, he told me to get off his land, and he did not look up
+from the harness." Pull = the three days / the lamp / the hope she won't say aloud.
+
+Valens rendered to bible & DISTINCT (cover-the-name PASS): short level declaratives; hands work the
+knot/strap when feeling threatens (PAID at the peak — "nothing left to work... open and still");
+understates mortal danger ("a liability with legs"); withholds love; kindness sideways. Distinct from
+Mara (spirals/questions) and Kallia (proverbs). No device bleed.
+
+The three overdue WATCH items DISCHARGED: define-by-negation cut to 0 sentence-initial instances;
+Kallia's misquoted-proverb scene-button deliberately WITHHELD at the close ("she was not misquoting
+any proverb"); anaphora held at top of range (broke one triad post-eval). Applied 2 non-blocking eval
+fixes: softened a modern-mileage leak ("twelve hundred miles" -> "half the width of the world");
+broke an "I had..." anaphora triad. Gates ALL CLEAN (style/rhythm/grammar/voice-wear; em-dash 2,
+simile 1.6/1k, long-sentence 17.3%). book-evaluator **PASS: Genesis Floor 8.5 / Avg 8.71 / Casual 8.8
+/ Prose 9.0 / Emotion 9.0 / Immersion 9.0**; no dimension <8.5, no polish loop. Eval:
+evaluations/chapter-7-eval.md.
+
+**Next: Ch.8 "Earning the Yes"** (~7,900w, negotiation + caper collage). Mara makes herself useful to
+Valens's trade; DRUSUS introduced (venal, prices everything — must NOT share Valens's silence-and-a-
+task device); a grudging conditional passage secured; the legate's reach seeded. Function: forced
+proximity, competence as courtship; Valens's yes must be EARNED, not given. **WATCH (from Ch.7 eval):
+(1) keep define-by-negation rationed (now at 0). (2) ACTIVELY VARY anaphora triads — 7-chapter
+standing habit, break at least one per chapter. (3) ration retrospective significance-tagging to
+<=1/chapter (let objects carry weight). (4) Drusus must be distinct from Valens (cost-talk worldview
+vs stoic-spare silence — NO shared counting/pricing device).** Continue the full MANDATORY loop.
