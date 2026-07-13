@@ -62,7 +62,7 @@ book/genesis/<slug>/
   - the emotional "W" — is this chapter's beat the right high/low for its slot in the arc
     (see foundation.md CALIBRATION), or are we stacking too many same-energy chapters?
   - tension/forward pull: does it open with a hook and end with a pull (hook-craft)?
-  - chapter length vs. neighbors — VARIANCE IS BY DESIGN (this book runs 1,600–12,000w; see
+  - chapter length vs. neighbors — VARIANCE IS BY DESIGN (this book runs 1,600–9,200w after the 2026-07-13 recalibration; see
     outline.md Macro-Structure). Do NOT enforce "no chapter >2× another." Instead check the
     length serves the beat: brisk modern frame, swelling immersive Greece/Campania chapters,
     deliberately collapsing chapters through the ash. Flag only length that fights its beat

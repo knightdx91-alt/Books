@@ -21,8 +21,9 @@ adaptation:
 word_floor:
   manuscript_min_words: 220000   # long single volume (Outlander-scale)
   manuscript_target_words: 260000
-  # NO uniform per-chapter floor — chapter length VARIES 1,600-12,000w by design (v2). The
-  # book TOTAL is the binding gate; the architect budgeted Sigma chapter targets = 273,000 >= target.
+  # NO uniform per-chapter floor — chapter length VARIES 1,600-9,200w by design (RECALIBRATED
+  # 2026-07-13 from the old 1,600-12,000 band). The book TOTAL is the binding gate; recalibrated
+  # Sigma chapter targets ~= 245,300 >= 220k floor (see LENGTH POLICY below).
   # LENGTH POLICY (author Terry, 2026-07-13): through Ch.6, actual 34,083 vs budget 39,000 = ~4,900
   # under (-12.6%). The immersive chapters (Ch.3/5/6) naturally land ~7,000-7,500, well under the old
   # 9,800-10,400 targets. DECISION (revised): do NOT retro-expand Ch.5/6 (evaluator ruled both COMPLETE;

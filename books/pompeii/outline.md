@@ -31,13 +31,13 @@ Sectioned as **Movements** (dated, place-named), not "ACT ONE/TWO/THREE."
    time collapses to seconds. Uniform 5,400w chapters cannot do that.
 4. **Chapter length is a structural signal here, on purpose:** the modern frame is brisk
    (short/medium chapters, one 1,800w crossing-punch); Greece and Campania *swell* into long
-   immersive chapters (up to 12,000w — the winter, the wedding, the Pompeii day, the Fenn
+   immersive chapters (up to ~9,200w — the winter, the wedding, the Pompeii day, the Fenn
    interview) because the book's argument is that the past is where she finally *lives*; then
    the ash movement guts the chapter lengths to render panic and loss. The shape enacts the
    theme.
 
 **Jittered turning-point map (deliberately OFF the quarter-marks; back-loaded for slow-burn):**
-| Turning point | Chapter | ≈ % of 273k |
+| Turning point | Chapter | ≈ % of ~245k |
 |---|---|---|
 | Crossing over (modern → 70 AD) | Ch.4 (crossing) → Ch.5 (landing) | ~6–10% |
 | The Oracle — WHERE given, WHEN withheld | Ch.10 | ~28% |
@@ -63,11 +63,10 @@ Telling+Preparing; the door-calls+the-law-holds), while the catastrophe was SPLI
 short punch chapters. Length follows the beat, so the granularity is coarse in the immersive
 movements and fine in the ash.
 
-**Length range:** **1,600w (Ch.36, the door closing) to 12,000w (Ch.11, the Delphi winter)**
-— the longest chapter is ~7.5× the shortest (the old outline's spread was ~4,800–5,600, ~1.2×).
+**Length range (RECALIBRATED 2026-07-13):** **1,600w (Ch.36, the door closing) to 9,200w (the immersive peaks — Ch.11 winter, Ch.13/15/20)** — the immersive band was pulled to a uniform 7,800–9,200 to match the density Ch.5/6 actually land at (no 10–12k outliers). Longest ≈5.75× shortest; still deliberate variance, no density seam.
 Deliberate SHORT punch chapters: Ch.4 (1,800), Ch.30 (2,600), Ch.32 (3,200), Ch.36 (1,600).
-Deliberate LONG immersive chapters: Ch.11 (12,000), Ch.15 (11,000), Ch.20 (10,800), Ch.6 (10,400),
-Ch.13 (10,400), Ch.27 (10,000).
+Deliberate LONG immersive chapters (RECALIBRATED — the relative peaks, now capped at ~9,200):
+Ch.11 (9,200), Ch.13 (9,200), Ch.15 (9,200), Ch.20 (9,200), Ch.27 (8,800). (Ch.6 drafted 7,532.)
 
 **Σ BUDGET CHECK (RECALIBRATED 2026-07-13):** the immersive band was pulled DOWN to match the
 density the finalized chapters actually land at (Ch.3/5/6 came in ~7,000–7,500 vs 9,800–10,400
@@ -98,7 +97,7 @@ Mara decodes Fenn's notes, travels to the coast the coordinates name, and survey
 Half through, Mara is pulled across mid-retreat; the way back is gone.
 **Function:** The literal crossing; point of no return, rendered fast and bodily. The book's first structural shock — a chapter that stops almost before it starts.
 
-## Chapter 5 — Greece, 70 AD  ·  9,800w  ·  *chronological survival (LONG IMMERSIVE landing)*
+## Chapter 5 — Greece, 70 AD  ·  ~8,000w (target; DRAFTED 7,451w)  ·  *chronological survival (LONG IMMERSIVE landing)*
 Mara wakes near Delphi, dates it, survives her first hours as a woman who does not exist; a big scarred man (Valens) walks past without helping; she is handed to Kallia.
 **Function:** Land the premise; flip mystery → survival; establish gender/status powerlessness (the Movt II engine). **[INSERT: Fenn journal #2 — "I, too, woke in the wrong year."]**
 
@@ -106,7 +105,7 @@ Mara wakes near Delphi, dates it, survives her first hours as a woman who does n
 
 # MOVEMENT II — LEARNING TO EXIST  (Greece, 70 AD · Ch.6–13 · ~10–39%)
 
-## Chapter 6 — Kallia's House  ·  10,400w  ·  *domestic immersive collage*
+## Chapter 6 — Kallia's House  ·  ~8,000w (target; DRAFTED 7,532w)  ·  *domestic immersive collage*
 Kallia shelters Mara; the brutal apprenticeship of learning to *pass*; the "lone foreign woman can't just travel" obstacle made concrete. Secondary life onstage (Kallia's lamp/son).
 **Function:** The foothold; sit in the humiliation of assimilation rather than montage it.
 
@@ -256,9 +255,9 @@ architect rules now flag.
 
 **NEW shape:** **36 chapters**, organized as five **Movements** (dated/place-named, not "Acts"),
 built on a **slow-burn-to-eruption** dynamic:
-- **Length range 1,600–12,000w** (longest ≈7.5× shortest) instead of a near-flat line. Chapters
-  deliberately **swell** through the immersive Greece/Campania movements (Ch.11 Winter 12,000w;
-  Ch.15 Building a Life 11,000w; Ch.20 Fenn 10,800w) and **collapse** through the ash (Ch.30
+- **Length range 1,600–9,200w** (RECALIBRATED 2026-07-13; longest ≈5.75× shortest) instead of a near-flat line. Chapters
+  deliberately **swell** through the immersive Greece/Campania movements (the relative peaks Ch.11 Winter,
+  Ch.13/15/20 all now ~9,200w — pulled in from the old 10.8–12k so they don't dwarf Ch.5/6) and **collapse** through the ash (Ch.30
   2,600w; Ch.32 3,200w; Ch.34 3,400w; Ch.36 1,600w) — length itself carries meaning.
 - **Short punch chapters** fall exactly where the old outline would have padded to 5,000+: the
   crossing (Ch.4, 1,800w), the first refusal (Ch.30), the door closing (Ch.36, 1,600w).
