@@ -1,12 +1,12 @@
 project:
   title: "Demon Academy"
-  genre: "Paranormal fantasy"
-  subgenre: "Demon-academy / NA paranormal"
+  genre: "Paranormal fantasy romance (reverse harem)"
+  subgenre: "Demon-academy reverse-harem / NA paranormal"
   language: "English"
-  word_count_target: 95000
-  comp_titles: ["Half-Blood (Jennifer L. Armentrout)", "The Hollows (Kim Harrison)", "The Mortal Instruments (Cassandra Clare)"]
-  engagement_type: {primary: "self_insertion", secondary: "fascination", tertiary: "empathy"}
-  premise: "Summoned to a school in the outer rings of Hell by five new classmates, ordinary teen Zack Adams learns he is the half-angel son of a Demon Lord — a dual heritage that makes him both a prize and a target."
+  word_count_target: 100000
+  comp_titles: ["Zodiac Academy (Caroline Peckham & Susanne Valenti)", "Supernatural Prison / Demon Trials (G. Bailey)", "Hush, Hush (Becca Fitzpatrick)"]
+  engagement_type: {primary: "self_insertion", secondary: "romance / wish-fulfilment", tertiary: "fascination"}
+  premise: "Dragged to a school in the outer rings of Hell by the five girls who need him as their anchor, ordinary teen Zack Adams learns he is the half-angel son of a Demon Lord — and that the coven who summoned him are now his classmates, his tether, and, whether any of them planned it or not, his harem."
   created: "2026-07-13"
   updated: "2026-07-13"
 
@@ -54,12 +54,15 @@ guardrails:
   - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
   - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
-  - "Cast/canon: Zack Adams (MC), father Demon Lord General Bal, mother Carina (part/ex-arch angel), headmistress Mara Darksoul; the five girls (Karin, Tera, Mandy, Jasmine, Sabrina) wear 'DA' uniforms; ten rings of hell, 7 Demon Lords post-rebellion, Daemon High Lord rules all."
+  - "STRUCTURE = REVERSE HAREM: one male MC (Zack), a love-interest ensemble that grows over the series. The five summoners are the founding harem — Karin (curvy, flame-red hair, silver glasses, ringleader), Tera (shy, lanky brown hair, freckles), Mandy (short, heavier, perpetually smiling), Jasmine (serious, pixie cut, ice-blue eyes), Sabrina (blonde, green eyes, blunt/impatient). Each needs a fully distinct voice + arc; do NOT let them blur. Give each girl a real reason to choose Zack and let the bonds build with friction, not default."
+  - "Cast/canon: Zack Adams (MC, 6ft, blond, green eyes), father Demon Lord General Bal (rules 3rd ring), mother Carina (part/ex-arch angel), headmistress Mara Darksoul; the five girls wear 'DA' uniforms; lesser demons need a greater-demon anchor to cross the hells of perdition (this is why they summoned Zack — Karin nearly died); demons tested for class/rank; Demon Academy is one of three outer-hell schools competing in the Demon Trials; ten rings of hell, 7 Demon Lords post-rebellion, Daemon High Lord rules all."
 
 open_author_decisions:
   - "Reconcile MC rank: 'greater demon' (premise + drafted pg5) vs 'Demon Lord' (later notes)."
   - "Confirm the part-demon/part-angel heritage is canon (later notes mark it 'just an idea')."
   - "Lock name spelling: Karin vs Korin (same red-haired girl)."
+  - "Harem size/scope: is it exactly these five, or does the harem grow across the series? Confirm the final roster."
+  - "Heat level / spice: how explicit does the romance get (fade-to-black vs on-page)? Sets style_check + content guardrails."
 
 decisions:
   - "This book is a folder-per-book genesis project under book/genesis/<slug>/."
