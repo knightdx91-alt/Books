@@ -168,7 +168,7 @@ They reach the Bay of Naples; Mara admires the "beautiful green mountain"; the d
 
 ## Chapter 15 — Building a Life  ·  9,200w  ·  *domestic montage-collage (LONG IMMERSIVE — absorbs old Ch.16)*
 Home and trade near Pompeii; the marriage quietly becomes real; pregnancy; the door-search set aside "for now." ABSORBS the best of the old "Catalogue of Small Days": the bread that finally *rises* since her father died (she weeps over the bread, not the pregnancy); work, friendship, near-pure happiness. Valens's hands-find-a-task tell — a knot/strap when feeling rises (re-read seed #3; NOT a counting tic).
-**Function:** The domestic-happiness movement the climax will destroy — made load-bearing by dwelling in it, but now SHADOWED (the Ch.14 Fenn fragment + this chapter's threat) so the happiness has an undertow. **[INSERT (v3): the faction seeded PHYSICALLY — a stranger passing through asks after a scarred freedman by his arena name "Lupus"; Valens goes still and works a strap to nothing; it comes to nothing yet, but the thread is now live and pulls through to Ch.18.]**
+**Function:** The domestic-happiness movement the climax will destroy — made load-bearing by dwelling in it, but now SHADOWED (the Ch.14 Fenn fragment + this chapter's threat) so the happiness has an undertow. **[HEAT: the 2nd on-page scene — fuller, marriage warming; Mara's catalogue-brain goes quiet, Valens's control breaks (voice-dna §5).]** **[INSERT (v3): the faction seeded PHYSICALLY — a stranger passing through asks after a scarred freedman by his arena name "Lupus"; Valens goes still and works a strap to nothing; it comes to nothing yet, but the thread is now live and pulls through to Ch.18.]**
 
 ## Chapter 16 — The Madman on the Coast  ·  7,000w  ·  *two-hander (Fenn, FIRST live contact — partial/withholding)*
 Mara tracks down the mad old Roman from the Ch.14 rumor and finds **August Fenn** — alive, old, marooned, kind, unbearably tired: the cautionary mirror of who she becomes if she never chooses. He speaks the *law of the doors* ("only the one it brought") but WITHHOLDS the WHEN-method this first time (he protects her from it, or judges her not ready). *(Brought forward from old Ch.20; split so first-contact lands mid-Movement-III and the method payoff waits for Ch.20.)*
@@ -200,7 +200,7 @@ Back home with the means Fenn gave her, Mara half-does the calculation, recoils,
 
 ## Chapter 22 — Aelia  ·  7,800w  ·  *domestic vignettes (BREATHING — theme RECEDES — the ONLY pure breather in v3)*
 Second child; the family complete; a perfect ordinary day — the high the reader will mourn; far off, the mountain steams faintly (narrator only).
-**Function:** Max the stakes; the last unshadowed joy. This is now the book's SINGLE pure-breather (v3 merged the two early ones into Ch.15), placed here on purpose — closest to the fall, where banked happiness has the highest mourn-value. Aelia inherits Mara's bread-frown (re-read reward).
+**Function:** Max the stakes; the last unshadowed joy. This is now the book's SINGLE pure-breather (v3 merged the two early ones into Ch.15), placed here on purpose — closest to the fall, where banked happiness has the highest mourn-value. Aelia inherits Mara's bread-frown (re-read reward). **[HEAT: the LATE payoff — the last on-page intimacy before the dread; restraint returns after this, no heat once the eruption begins (voice-dna §5).]**
 
 ## Chapter 23 — Small Quakes  ·  5,200w  ·  *chronological domestic (short-ish)*
 Tremors begin; the family treats them as routine, jokes about a cracked wall, re-plasters.

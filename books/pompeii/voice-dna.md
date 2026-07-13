@@ -167,7 +167,7 @@ clinical, never purple.
 - **Anatomy serves character, not inventory.** The scene advances the relationship and the arc —
   what they're afraid of, what they finally let go of — through the body, not a parts-list.
 - **Mara's signature in heat:** her catalogue-brain *goes quiet* (it never does otherwise). That
-  silence is how the reader knows it's real (planted Ch.16, paid Ch.41). Track it.
+  silence is how the reader knows it's real (planted Ch.12, paid in the ash — Ch.33/35). Track it.
 - **Valens's signature in heat:** control vs. surrender — the man who keeps everyone at a
   transaction's distance has nowhere to put his hands except on her; the knot-tic has no object,
   so it stops. His stillness breaking is the charge.
@@ -177,9 +177,12 @@ clinical, never purple.
 - **Anti-patterns specific to heat:** no purple euphemism, no clinical terminology, no
   metaphor-stacking ("her body a [noun] of [noun]"), no emotional-temperature reports mid-scene.
   Em-dash budget is easy to blow in a breathless scene — watch it.
-- **Frequency/placement:** first at Ch.16 (clumsy, then funny — intimacy over perfection);
-  fuller at Ch.18/20 (marriage warming); restraint returns under the Act V dread (no heat after
-  the eruption begins — the body's last language there is the re-tied sandal, not sex).
+- **Frequency/placement (CURRENT 36-ch outline; old Ch.16/18/20 was stale 45/48-ch numbering,
+  reconciled 2026-07-13):** yearning/slow-burn built at Ch.11; first explicit scene at **Ch.12 "The
+  First Night Is a Mistake"** (clumsy, then funny — intimacy over perfection); fuller at **Ch.15**
+  (marriage warming); a late payoff **~Ch.22** (the last unshadowed joy); restraint returns under the
+  Movement V dread (no heat after the eruption begins — the body's last language there is the re-tied
+  sandal, not sex).
 - **Consent & character agency:** both fully willing adults; the tension is emotional risk, not
   coercion. The heat earns its place by being where the lie ("stay outside" / "the dead don't
   leave") finally cracks.

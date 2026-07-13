@@ -93,7 +93,7 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 - **Greece first:** a lone foreign woman in antiquity can't just travel — real obstacle, not hand-waved.
 - **Love interest:** disgraced **ex-gladiator** accused of an affair with the emperor's wife; they marry + have children over years.
 - **Climax:** family can't pass to the future; **stay vs. leave** as Vesuvius erupts.
-- **Romance heat:** explicit when it occurs but OCCASIONAL/earned (NOT erotica, no per-page quota). ~3-4 on-page scenes across the arc (Ch.16/18/20 + a late payoff), none after the eruption begins. See STATE.yaml `resolved_author_decisions` for the exact wording.
+- **Romance heat:** explicit when it occurs but OCCASIONAL/earned (NOT erotica, no per-page quota). ~3-4 on-page scenes across the arc, mapped to the CURRENT 36-ch outline: **first at Ch.12 "The First Night Is a Mistake"** (slow-burn/yearning built through Ch.11), **fuller at Ch.15** (marriage warming), **a late payoff ~Ch.22** (the last unshadowed joy) — **none after the eruption begins**. (The old "Ch.16/18/20" refs were stale 45/48-ch numbering, reconciled 2026-07-13.) See STATE.yaml `resolved_author_decisions` for the exact wording.
 - **magic spelling:** n/a (this is historical, not invented-magic — the only "magic" is the time-door).
 
 ## Open author decisions (ask, don't invent)
