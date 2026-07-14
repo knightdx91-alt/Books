@@ -70,6 +70,9 @@ def scan():
                     help="per-1,000-words ceiling for any single tic word")
     ap.add_argument("--max-emdash", type=int, default=4,
                     help="ABSOLUTE em-dashes allowed per chapter (AI tell — keep near zero)")
+    ap.add_argument("--max-theway", type=int, default=2,
+                    help="ABSOLUTE 'the way [x]' explanatory tic per chapter (pipeline "
+                         "fingerprint — HARD CAP 2, and stagger: aim 0-1 in alternating chapters)")
     args = ap.parse_args()
 
     base = os.path.dirname(os.path.abspath(__file__))
@@ -108,8 +111,12 @@ def scan():
         if emdash > args.max_emdash:
             flags.append(f"EM-DASH {emdash}/chapter > {args.max_emdash} (density {em1k}/1k)"); problems += 1
 
-        tic_hits = []
         low = text.lower()
+        theway = len(re.findall(r"\bthe (?:same )?way\b", low))
+        if theway > args.max_theway:
+            flags.append(f"THE-WAY ×{theway}/chapter > {args.max_theway} (pipeline fingerprint)"); problems += 1
+
+        tic_hits = []
         for t in TIC_WORDS:
             c = len(re.findall(r"\b"+re.escape(t)+r"\b", low))
             if c and per1k(c) > args.tic_ratio:

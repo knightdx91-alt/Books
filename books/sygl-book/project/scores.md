@@ -23,6 +23,14 @@
 - **Compliance recheck:** em-dash 0; banned tics/filters 0; present-tense tags 0; tense uniformly PAST. WC 3,927 (target 3,800).
 - **Revised floor: 8.5 — first-pass gate met without an editor loop.**
 
+### Style-law tightening (2026-07-14) — "the way" cap 6 → 2 (staggered)
+Author decision: the "the way [x]" fingerprint is now HARD-CAPPED at **2 per chapter**
+(was 6), staggered so it's not uniform (aim 0-1 alternating). Enforced in
+tools/style_check.py (`--max-theway`, default 2) and books/_template. **Ch.1 re-trimmed
+6 → 2** (kept only banker/coin + child-by-collar; recast the rest as "like"/plain syntax).
+Ch.1 style_check: clean. NOTE: Ch.2 (×19) and Ch.3 (×15) now flag under the new cap and
+must be trimmed when finalized.
+
 **Compliance (exact counts):**
 - Em dashes: 0 (cap 2/1k) PASS
 - Banned tics (nod/shrug/shake-head/grin/just/seemed/really/slightly/suddenly/began-to/visibly): 0 total PASS

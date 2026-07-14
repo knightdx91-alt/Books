@@ -21,7 +21,14 @@ Banned/strictly-rationed stage business and filler:
 - After each chapter, scan your own 3- and 4-grams for unintended repetition and revise.
 
 ## 3b. "the way [x]" SIMILE CAP (pipeline fingerprint)
-- The explanatory construction "...the way [someone does/feels x]" is a recurring tic across chapters. **Cap: at most 6 per chapter** (~1.5 per 1,000 words). Keep only concrete ones; cut self-explaining extensions. Vary sentence shape instead.
+- The explanatory construction "...the way [someone does/feels x]" is a recurring machine
+  tic across chapters. **HARD CAP: at most 2 per chapter — and STAGGERED, not uniform.**
+- Do NOT hit 2 every chapter (that recreates the fingerprint). Alternate: aim for **0–1 in
+  every other chapter**, so the running average is "~2 every other chapter," never a
+  mechanical constant. A chapter with zero is good.
+- Keep only the most concrete instances; recast the rest with plain syntax or a "like"
+  simile (respect the simile cap ≤4/1k). Vary sentence shape instead of reaching for it.
+- Count after every chapter; if over 2, revise down before handoff.
 
 ## 4. TENSE & POV
 - PAST tense, consistent. Close third on Balthazaar unless a scene explicitly shifts.
