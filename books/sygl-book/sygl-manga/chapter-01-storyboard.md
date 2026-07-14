@@ -146,6 +146,21 @@ even if the art is beautiful. Check each panel against the script location. Know
 - **Process rule:** after generating a panel, LOOK at it against this list before it's
   "done." Wrong setting = re-roll (fix the prompt), not keep-and-hope.
 
+### 🖐 STUMP-COMPOSE RULE (author decision 2026-07-14 — "compose around it")
+The stump inpaint is only reliable when the left hand is **isolated against a simple
+background** (open sky / plain area). So we STAGE every Pre-Regrowth-Bal panel to make that
+true, rather than gamble on inpainting a hand tucked against the rug/leg/body:
+- Prefer poses where the **left arm hangs free / extends into open sky / rests against a
+  plain area** — never tucked in the lap, gripping the rug, or crossed against the body.
+- If a beat wants both hands busy, frame so the **left arm is out of frame** (cropped) or
+  turned away, so no stump is needed in that panel.
+- Do NOT stack inpaints on one spot (it turns the arm grotesque and tears nearby art — see
+  the flight-panel lesson). One clean pass on an isolated hand, or re-roll the pose.
+- Panels in Ch.1 that show Bal's left arm and therefore need isolated-arm staging: p.1.1
+  (stump ECU — fine, it IS the stump), p.2.2 (juggling miss — stump alone), p.7.1–7.4 (the
+  cast — stump on the rug, frame the stump ITSELF clearly, right hand elsewhere), p.9 (flight
+  — left arm hanging off the carpet edge into sky), p.11.1/13.3 (stump CUs — fine).
+
 ## OPEN CALLS
 - p.16 panel 2 "statue turned a few degrees" — keep the ambiguous foreshadow, or cut for a
   cleaner cliff on the whisper? (Author call.)
