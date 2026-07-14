@@ -1,5 +1,5 @@
 project:
-  title: "Black Jewels–like book (working title)"
+  title: "The Fourfold Crown"   # author-chosen 2026-07-14 (was working "Black Jewels–like book"); the prophecy/uniter-King + forbidden 4th gem hook.
   genre: "Fantasy"
   subgenre: "Epic / gaslamp fantasy (gem-rank magic)"
   language: "English"
@@ -64,7 +64,7 @@ guardrails:
 open_author_decisions:
   - "RESOLVED 2026-07-13: central conflict = taboo AND hunted (one system); 4th gem = chest / uniter-King; age = 17 army-enlistment dedication; Domash kept. See guardrails."
   - "Architect to propose: the gem COLOR/rank ladder (names + order), the faction's name + what they use harvested power FOR, the deity's name, and the Domain map. (Invent — keep distinct from Bishop.)"
-  - "Title (working: 'Black Jewels–like book') — pick a real title at/after the architect pass."
+  - "Title RESOLVED 2026-07-14 → 'The Fourfold Crown'."
 
 decisions:
   - "This book is a folder-per-book genesis project under book/genesis/<slug>/."

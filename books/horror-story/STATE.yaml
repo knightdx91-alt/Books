@@ -1,5 +1,5 @@
 project:
-  title: "Horror Story (provisional title)"
+  title: "Everything That Lingers"   # author-chosen 2026-07-14 (was provisional "Horror Story"); the grief/letting-go heart, quiet-horror positioning.
   genre: "Horror"
   subgenre: "Supernatural / ghost-hunting horror"
   language: "English"
@@ -58,7 +58,7 @@ guardrails:
 
 open_author_decisions:
   - "Name the antagonist entity and its rules (what it is, how it feeds, how it can be stopped)."
-  - "Decide the real title (folder is provisional)."
+  - "Title RESOLVED 2026-07-14 → 'Everything That Lingers'."
 
 decisions:
   - "This book is a folder-per-book genesis project under book/genesis/<slug>/."
