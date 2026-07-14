@@ -13,3 +13,10 @@ See `sygl-manga/` for the illustrated version. Image generation works end-to-end
 serverless endpoint (ComfyUI **5.8.5** + FLUX; the 5.8.6 build crash-loops — see sygl-manga/README.md).
 First working Bal panel: sygl-manga/panel-bal-flux.png. Next milestone: lock Bal's canonical look
 (fixed seed + prompt template) before generating scene panels.
+
+### Dual-narration device (candidate — manga now, PROSE possibly)
+Bal narrates; **Amelia butts into the narration** (margin-banter: teasing/correcting/adding
+her 3,000 years of context). **Ch.1 is solo-Bal** (isolation theme + protects the reveal);
+Amelia's whisper "Because it's magic" is her first intrusion and launches the device, which
+runs from Ch.2 on. Currently locked for the MANGA (distinct caption-box style). OPEN: whether
+to retrofit this into the prose chapters — decide before drafting Ch.2 prose.

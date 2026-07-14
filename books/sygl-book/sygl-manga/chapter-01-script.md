@@ -236,6 +236,16 @@ Captions = Bal's interior voice (box). Keep them terse.
    22 by giving pages 3–6 and the flight/temple more panels and beats, not by padding).
 2. **Caption voice: DRY / WRY — match the finished prose.** Bal is observant and quietly
    self-deprecating; keep the book's voice in every caption box.
+   **DUAL-NARRATION DEVICE (book-wide):** Bal narrates; **Amelia butts into the caption
+   boxes** with her own commentary (teasing, correcting, adding context he lacks). Give
+   her a visually distinct caption-box style (darker fill / different border) so readers
+   instantly know it's her. **Ch.1 EXCEPTION: Bal's voice ALONE — no Amelia interjections.**
+   Rationale: Ch.1 is about his total isolation (only unmarked boy, no one in his corner),
+   so the solo narration *is* the loneliness; and Amelia is not revealed to the reader
+   until the final panel. Her whisper *"Because it's magic"* (P14.1) is her FIRST-EVER
+   intrusion — it doubles as the cliffhanger AND the birth of the dual-voice device. From
+   **Ch.2 onward** the margin-banter runs fully. (Device may extend to the PROSE too, not
+   just the manga — flagged in ../feedback/progress.md.)
 3. **Stump itch/pull is NOT a recurring visual motif.** Show it where the prose calls for
    it in Ch.1 (the itch, the hard "pull" toward the tomb) but do NOT invent a repeating
    symbol/hooked-line that readers track across chapters. Draw it plainly, in-scene, then
