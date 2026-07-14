@@ -367,3 +367,31 @@ First crucible bonding the leads. Continue the full MANDATORY loop.
 **NEXT: still Chapter 8 "Earning the Yes"** (unchanged by v3 — Movement II is intact). Negotiation +
 caper collage; Mara makes herself useful to Valens's trade; Drusus introduced; grudging conditional
 passage; the legate's reach seeded.
+
+---
+
+## Ch.9 "The Road to Delphi" — FINAL (2026-07-14)
+
+7,748w (target 7,900). First crucible bonding the leads: the road ambush. **book-evaluator PASS:
+Genesis Floor 8.5 / Avg 8.71 / Casual 8.7 / Characters 9.0 / Emotion 9.0 / Immersion 9.0.**
+
+Full pipeline run: writer -> dialogue-polish (cover-the-name PASS) -> hook-craft (hook 9/10, pull 9/10,
+no retrospective-declaration repeat) -> disruptor (3 light ops; de-cloned a Ch.8 near-repeat; fear-stretch
+untouched) -> mechanical gates ALL CLEAN (em-dash 1 title-only, simile 2.0/1k) -> book-evaluator PASS
+-> book-editor subtraction-only polish (discharged the ONE regression).
+
+**Voice-under-pressure device EARNED** (evaluator-confirmed): Mara's prose strips to flat procedural
+inventory during the ambush ("Condition: upright. Damage: left palm... I was a list, and the list had no
+feelings in it, only conditions"), pre-training the Vesuvius-climax device (voice-dna §5). **Role-reversal
+anchor:** after the killing HE shakes (the hands that always find a knot cannot fasten a loose strap) and
+SHE ties it — the knot-tic paid inverted. Reader-unease seeded, NOT resolved (bandits "not ragged enough",
+came for the man; "paid by the head and told which head" = the legate reach from Ch.8).
+
+**WATCH (carry into Ch.10):** retrospective significance-tagging recurred at ~8 in draft vs the <=2 budget
+(the pipeline's default comfort-move; NOT self-correcting — same trim as Ch.7/8). Trimmed to 2 post-eval,
+restoring Prose to 9.0. RECOMMENDATION promoted to STATE: make <=2 a hard PRE-finalize check. Keep breaking
+anaphora triads; define-by-negation 0-1.
+
+**Next: Ch.10 "The Pythia"** (~8,400w, ritual single-scene -> planning) — **[TP — Oracle, ~28%]**. The
+Oracle tells Mara WHERE the door home is (Pompeii) but refuses the WHEN; the road to Campania is long,
+illegal, unaffordable. INSERT: Fenn journal #3. Continue the full MANDATORY loop.

@@ -46,6 +46,7 @@ ALLOWLIST = [
     "the map is honest",          # Fenn marginalia insert #1 (Ch.2); canonical door-law refrain
     "whether there was anything in it",  # Verrall's thematic refrain (Ch.2 spine + pull payoff)
     "nothing to me either way",   # Valens's signature lie (Ch.7); deliberately echoed/thrown back (Ch.8)
+    "he'll not be the last",       # Valens's Ch.8 warning, deliberately recalled in Ch.9 after the ambush
 ]
 
 # n-gram repetition settings
