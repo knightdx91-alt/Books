@@ -9,6 +9,32 @@ this folder; the prose book stays in the parent `books/sygl-book/`.
 - `panel-familiar-reveal.jpg` — Pollinations test panel (familiar-class reveal).
 - `panel-bal-flux.png` — first WORKING FLUX panel via the RunPod API (Bal).
 
+## ▶ RUN IMAGE GENERATION (any RunPod account — e.g. a different one)
+Everything needed is in `tools/gen.py`. No API key is stored in this repo.
+
+1. **Deploy the endpoint** on the account you want to use: RunPod → Serverless →
+   New Endpoint → **Deploy from the Hub → "ComfyUI" release 5.8.5** (NOT 5.8.6 — it
+   crash-loops). GPU 24 GB · Active workers 0 · Max 1 · FlashBoot on. No env vars needed
+   on the endpoint (the 5.8.5 build has the FLUX model baked in — non-gated).
+2. **Get two values:** the **Endpoint ID** (on the endpoint page / in the `/v2/<ID>/run`
+   URL) and an **API key** (RunPod → Settings → API Keys → Create).
+3. **Set them as env vars and run:**
+   ```bash
+   export RUNPOD_ENDPOINT_ID=your_endpoint_id
+   export RUNPOD_API_KEY=rpa_your_key
+   cd books/sygl-book/sygl-manga
+   python3 tools/gen.py health                       # confirm workers are ready
+   python3 tools/gen.py txt2img --prompt "Bal on a roof, ..." --out test.png --seed 42
+   python3 tools/gen.py inpaint --base test.png --out fixed.png \
+       --ellipse 808 596 930 690 \
+       --prompt "left forearm ends in a rounded stump, no hand, no fingers"
+   ```
+   `txt2img` auto-appends the locked STYLE block; add `--raw` to use your prompt verbatim.
+   Cost ≈ 2¢/image; $0 idle. **Rotate/delete the API key when done** — it can spend money.
+4. **Follow the canon** in `chapter-01-storyboard.md` (Bal = stump + no sygl; spot-color
+   sygls; mausoleum BEHIND orphanage; kids in FRONT; Bal ALONE) and the locked designs in
+   `CHARACTER-LOCK.md`. Verify each panel against the SETTING/PROP CONTINUITY checklist.
+
 ## VISUAL STYLE (locked 2026-07-14)
 **Monochrome manga + SPOT-COLOR sygls/magyk.** Pages are black-and-white ink + screentone;
 the ONLY color is the sygls and actively-cast magyk, each in its element's colour. This makes
