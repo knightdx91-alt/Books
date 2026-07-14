@@ -126,6 +126,26 @@ pages. Panel counts kept LOW on splashes, higher on interior/dialogue pages, to 
   through-the-roof, altar details, the whisper ECU, the whirl.
 - STATUS: flight splash p.9 = FINAL. Everything else = to generate against this board.
 
+## 🚨 SETTING & PROP CONTINUITY (verify EVERY panel before accepting it)
+A generated panel is WRONG if its setting/props don't match where it falls in the story —
+even if the art is beautiful. Check each panel against the script location. Known traps:
+- **Location per act:** pp.1–8 = the ORPHANAGE (isolated old brick building, bare yard, a
+  lonely lane to distant trees, half a mile of nothing — **NOT a town, NO rows of houses /
+  chimney forest**). pp.9–11 = mid-AIR over that same isolated orphanage. pp.11–16 = INSIDE
+  the sealed temple (pillars, braziers, impossible sky-square, swept floor, the face-away
+  statue). Do not let a village/townscape appear in any Ch.1 exterior.
+- **Bal every panel:** LEFT arm = stump (no hand); NO sygl/mark anywhere. Inpaint the stump;
+  verify the junction is CLEAN (no smudge/blob where it meets clothes/carpet — re-inpaint the
+  end with "clean rounded stump, small clean gap, no smudge" if muddy).
+- **The carpet:** small flat rug, tasselled/gold-thread edge, sky-blue border — floats FREE
+  (never a rope hammock tied to poles). Same rug every appearance.
+- **Sygl colour:** only Posy's GREEN Terra mark appears in Ch.1, and it is on the PALM (not
+  chest/forehead). Bal's stump-levitation has NO colour (he's unmarked).
+- **Time of day / light:** roof scenes = warm late afternoon; temple = low braziers + pale
+  shaft from above. Keep consistent within a scene.
+- **Process rule:** after generating a panel, LOOK at it against this list before it's
+  "done." Wrong setting = re-roll (fix the prompt), not keep-and-hope.
+
 ## OPEN CALLS
 - p.16 panel 2 "statue turned a few degrees" — keep the ambiguous foreshadow, or cut for a
   cleaner cliff on the whisper? (Author call.)
