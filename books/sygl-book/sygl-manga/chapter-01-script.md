@@ -8,6 +8,17 @@ prose.**
 
 ---
 
+## 🔒 LOCKED REFERENCE
+- **Pre-Regrowth Bal:** `bal-REF-preregrowth.png` (design 202 + inpainted stump). This is
+  the canon face/hair/build for Ch.1–2. Base look came from the prompt in `batch.py`
+  (seed 202); the missing hand was added by INPAINTING (see method below).
+- **The stump method (FLUX won't prompt it away):** generate the figure normally, then mask
+  the left-hand region and inpaint with positive *"left forearm ending in a smooth rounded
+  healed stump at the wrist, no hand, no fingers"* / negative *"hand, fingers, palm, fist."*
+  Workflow: LoadImage(base)+LoadImage(mask)→ImageToMask→VAEEncodeForInpaint(grow_mask_by 10)
+  →KSampler(denoise 1.0)→VAEDecode. Script: `../../../` scratch `inpaint.py` pattern. Redo
+  this per panel that shows the left arm.
+
 ## ⚠️ CANON — CHARACTER DESIGN (must be enforced every panel)
 
 **Bal in Chapter 1 = "PRE-REGROWTH BAL". Two hard rules:**
