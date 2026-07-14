@@ -15,9 +15,13 @@ workflow uses.
 
 ## 2. Make the key available (two options)
 
-**A. Persistent (recommended for web sessions).** The container is ephemeral, so
-a key written to disk in one session is gone the next. Put it in the web
-**Environment** config as an environment variable named `GEMINI_API_KEY`
+> **Status:** `GEMINI_API_KEY` has been added to the web **Environment** config
+> (option A). It is present as an env var every session automatically — no
+> per-session file needed. `manga_render.mjs` picks it up directly.
+
+**A. Persistent (recommended for web sessions) — CONFIGURED.** The container is
+ephemeral, so a key written to disk in one session is gone the next. Put it in
+the web **Environment** config as an environment variable named `GEMINI_API_KEY`
 (Environment → setup/secrets). Then it's present every session automatically.
 
 **B. Per-session file.** Same convention as `tools/gemini_review.sh`:
