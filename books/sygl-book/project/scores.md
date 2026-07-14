@@ -17,6 +17,12 @@
 
 **8.5 GATE: FAIL (Floor 8.0).** Theme is the sole bottleneck; Casual Reader clears at 9.0.
 
+### Polish pass (2026-07-14) → GATE: PASS
+- **Theme 8.0 → 8.5:** de-glossed. Cut the two stated-verdict lines ("The world had read him at birth… decided he was nothing it needed") and dramatized the same idea through Posy's dropped spoon / the green light / the cart with no name on it. Theme now embodied in image + event, not asserted (mirrors the Ch.3 fix).
+- **Style-law fix:** "the way" tic 16 → **6** (at cap; kept only concrete similes — banker/coin, loose tooth, child-by-collar, kitchen flags, doorstep). Recast the rest with "as"/plain syntax.
+- **Compliance recheck:** em-dash 0; banned tics/filters 0; present-tense tags 0; tense uniformly PAST. WC 3,927 (target 3,800).
+- **Revised floor: 8.5 — first-pass gate met without an editor loop.**
+
 **Compliance (exact counts):**
 - Em dashes: 0 (cap 2/1k) PASS
 - Banned tics (nod/shrug/shake-head/grin/just/seemed/really/slightly/suddenly/began-to/visibly): 0 total PASS
