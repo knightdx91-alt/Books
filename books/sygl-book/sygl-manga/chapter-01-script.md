@@ -21,6 +21,14 @@ plan for turning Ch.1 into manga. Prose is ~3,900 words; as manga this is roughl
 the levitation spell *through the blockage in his left wrist*. Visualize as a faint
 strain/glow at the stump, not a drawn sigil.
 
+**3. HE IS THE *ONLY* UNMARKED ONE.** Not one of a few — the *single* exception in an
+orphanage of ~40 children. Everyone else wakes with a sygl; he never did. This absolute
+singularity is the chapter's emotional engine and must READ VISUALLY: whenever we show
+other kids, imply/telegraph that they all bear marks and he alone does not. Stage him as
+the lone figure — apart in frame, outside the group, the one hand with nothing on it.
+Canon line to honor: *"From the roof he could not be the only boy in the building without
+a sygl. From the roof he was the only boy at all."*
+
 **Design carries forward:** "Regrown-hand Bal" (Ch.3+) is a SEPARATE design with a
 left hand AND the Blood sigil on the left palm. Keep the two reference sheets separate
 so panels never mix them up. (The existing `panel-bal-flux.png` and `bal-manga.png` are
@@ -74,9 +82,10 @@ Captions = Bal's interior voice (box). Keep them terse.
   can remember.*
 - **2.3** — [Wide] The roof, the closed grey mausoleum behind, lane running to the trees.
   // CAP: *Up here I'm not the only boy without a sygl. Up here I'm the only boy at all.*
-- **2.4** — [Down-angle] Below, other boys playing stick-and-rag-ball in the yard; Bal
-  not looking. // SFX: *crack* (the stick). // CAP: *Watching the game only teaches you
-  what outside feels like.*
+- **2.4** — [Down-angle] Below, other boys playing stick-and-rag-ball; **stage it so a
+  marked hand is visible on one of them** (a mark catching light as he swings), the group
+  together — Bal alone above, apart, not looking. // SFX: *crack* (the stick). // CAP:
+  *Watching the game only teaches you what outside feels like.*
 
 ### PAGE 3 — The sygl world (compressed exposition, visual)
 - **3.1** — [Insert/flashback tint] A younger child's hand, a mark burning into the skin
@@ -87,8 +96,9 @@ Captions = Bal's interior voice (box). Keep them terse.
 - **3.3** — [Flashback] A cart on the lane, a stranger, Posy leaving. // CAP: *By spring
   a steward came. The mark tells the world what you're good for, and the world comes and
   collects.*
-- **3.4** — [Present, close on stump] Bal's stump, no mark. // CAP: *I got a soft white
-  knot. The world read it, and moved on to a child it could use.*
+- **3.4** — [Present, close on stump] Bal's stump, no mark. // CAP: *Every child in this
+  house woke with a mark. Every one. I got a soft white knot. The world read it and moved
+  on to a child it could use.*
 
 ### PAGE 4 — The flicker (the inciting mystery)
 - **4.1** — [Flashback, days ago] Bal on the roof tracing carved figures on the
