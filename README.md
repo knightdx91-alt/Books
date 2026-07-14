@@ -14,7 +14,7 @@ See **`CLAUDE.md`** for the full working guide (read it every session), and
 tools/          shared tools — apodictic (structural editor), gemini_review.sh, grok_review.sh, new-book.sh
 books/
   _template/    scaffold a new book copies from (not a book)
-  <name>/       one folder per book (e.g. the-gift/, nanobot/, pompeii/)
+  <name>/       one folder per book (e.g. the-gift/, the-replaced/, the-hour-of-ash/)
   saeren/       a SERIES: saeren-chronicles/ + -book-2/ + -book-3/ + shared epub tooling
   land-of-the-guardians/   the Ne'veran 4-book saga (see its own README)
 ```

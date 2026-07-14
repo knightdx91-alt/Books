@@ -1,0 +1,64 @@
+project:
+  title: "All the Worlds She Keeps"   # author-chosen 2026-07-14 (was generic "Multiverse"); the curio-shop owner + her cross-multiverse stock.
+  genre: "Urban / Contemporary Fantasy"
+  subgenre: "Multiverse / portal fantasy with a slow-burn romance"
+  language: "English"
+  word_count_target: 90000
+  comp_titles: []
+  engagement_type: {primary: "", secondary: "", tertiary: ""}
+  premise: "A divorced everyman in love with the mysterious owner of a curio shop learns her one-of-a-kind stock comes from across the multiverse — and is pulled into her long game against the Watchers who police it."
+  created: "2026-07-12"
+  updated: "2026-07-12"
+
+# ADAPTED RUN — revise/expand an existing draft, NOT genesis-from-idea.
+adaptation:
+  mode: "revise-existing-draft"
+  canon_sources:
+    # Fill these in once source material is staged into research/:
+    original_draft:  "research/original-draft.md"   # raw prose to revise/expand
+    # series_roadmap:  "research/series-roadmap.md"
+    # character_bible: "research/character-bible.md"
+    # chapter_roadmap: "research/chapter-roadmap.md"   # scene-by-scene plan (binding outline)
+    # master_checklist:"research/master-checklist.md"
+  chapter_1_locked: false        # set true if Ch.1 is a hand-finished voice benchmark
+  chapters_to_produce: []        # e.g. [2,3,...,N]
+
+word_floor:
+  manuscript_min_words: 85000    # HARD FLOOR (book total) — the binding gate; adjust per book.
+  manuscript_target_words: 90000 # architect budgets Σ chapter targets ≥ this (see book-architect §0.5).
+  # NOTE: there is deliberately NO uniform per-chapter floor. Chapter lengths VARY WIDELY
+  # (~1,500–7,000w) by design — the book TOTAL is what's enforced, not each chapter. A
+  # per-chapter minimum would recreate the uniform ~5k/20-chapter "AI-neat" shape.
+  shortest_chapter_floor: 1200   # sanity floor for the SHORTEST allowed chapter (punch chapters ok; not a target)
+
+phase:
+  current: 1
+  status: "SPINE DEVELOPED & LOCKED (2026-07-13) — research/original-draft.md holds the author's verbatim Ch.1 opening PLUS the full developed spine (canon): lane = COZY-WITH-TEETH (cozy fantasy romance, escalating; comps Legends & Lattes / The Midnight Library / The House in the Cerulean Sea); Nathan everyman-POV; BOTH travel with inverted risk (ordinary Nathan moves safely/invisibly, powerful Cat is exposed everywhere); Cat = self-made power; her plan = force the Watchers to END the kill-on-sight rule, her shop secretly an arsenal of leverage; THE TWIST = she learns the rule is tragic triage (attention triggers a cascade that kills a traveler's counterparts across many worlds — the Watchers murder the one to save thousands); Watchers necessary BUT complacent; ENDING = the third way (the un-huntable/no-counterpart 'nobodies' like Nathan are the safe travelers — his ordinariness closes romance+plot+theme); romance reframed mutual & safe-because-ordinary. READY for architect. Architect NOT yet run (author prepping all books first). Still open: title, the cascade's exact nature, the Watchers' org, Cat's backstory, traversal mechanics, setting, comps-to-lock."
+  history: []
+
+chapters:
+  total_planned: 0
+  completed: []
+  scores: {}
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+
+quality_gate:
+  chapters_passed: []
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
+  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
+  - "<add this book's settled canon guardrails here>"
+
+open_author_decisions:
+  - "<list any plot/character decisions the author must make before drafting>"
+
+decisions:
+  - "This book is a folder-per-book genesis project under book/genesis/all-the-worlds-she-keeps/."
+revision_cycles: 0

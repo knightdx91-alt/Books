@@ -1,21 +1,21 @@
 project:
-  title: "Sygl"
-  genre: "Fantasy (harem-romance elements)"
-  subgenre: "Progression / harem fantasy"
+  title: "Full Dive"   # author-chosen 2026-07-14 (was working "LitRPG Josh"; MC Josh — the incarcerated hacker). Total-immersion VR term of art.
+  genre: "LitRPG / Science Fiction"
+  subgenre: "Prison LitRPG with a hacking/escape thread"
   language: "English"
   word_count_target: 90000
-  comp_titles: ["Cradle (Will Wight)", "He Who Fights with Monsters (Shirtaloon)", "A Court of Thorns and Roses (Sarah J. Maas)"]
-  engagement_type: {primary: "self_insertion (55%)", secondary: "empathy (35%)", tertiary: "fascination (10%)"}
-  premise: "A sigil-less, one-handed orphan stumbles into the prison-temple of a forgotten goddess everyone calls a myth, regrows his hand on her blood and bonds her — the originator of the feared Blood sygl — as his own familiar; to keep the few people who finally choose him he must wield the one power that got her buried alive: stealing other gods' followers."
-  created: "2026-07-13"
-  updated: "2026-07-13"
+  comp_titles: []
+  engagement_type: {primary: "", secondary: "", tertiary: ""}
+  premise: "An incarcerated hacker beta-testing a prison neural link enters an AI-built game world blind — and the same tech that lets him play may be his way out."
+  created: "2026-07-12"
+  updated: "2026-07-12"
 
 # ADAPTED RUN — revise/expand an existing draft, NOT genesis-from-idea.
 adaptation:
   mode: "revise-existing-draft"
   canon_sources:
     # Fill these in once source material is staged into research/:
-    original_draft:  "Sygl_Complete.txt"   # raw prose to revise/expand
+    original_draft:  "research/original-draft.md"   # raw prose to revise/expand
     # series_roadmap:  "research/series-roadmap.md"
     # character_bible: "research/character-bible.md"
     # chapter_roadmap: "research/chapter-roadmap.md"   # scene-by-scene plan (binding outline)
@@ -33,7 +33,7 @@ word_floor:
 
 phase:
   current: 1
-  status: "architect DONE — foundation.md + outline.md live in project/; source is Sygl_Complete.txt (root); 3 chapters drafted (manuscript/chapter-01..03.md), superseded/ holds earlier drafts. Resume: normalize STATE.yaml from project/ blueprint, repoint canon_sources at project/, optionally migrate manuscript/chapter-0N.md → manuscript/chapters/, then continue drafting. See feedback/progress.md."
+  status: "seeded — author opening staged (research/original-draft.md); next: architect (lock GAME SYSTEM as canon)"
   history: []
 
 chapters:
@@ -54,12 +54,11 @@ guardrails:
   - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
   - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
-  - "REWRITE/EXPANSION of Sygl_Complete.txt (~49k → >=90k). Canon locked in project/foundation.md + STYLE_CONSTRAINTS.md (names, worldbuilding rules, war rules, conversion mechanic). Bal 'Norheart', Amelia (Vampire Goddess/familiar), Viridia, Lora; PAST tense; fade-to-black. Do NOT invent new plot or lose a canon beat. KEEP SEPARATE from the-fourfold-crown."
+  - "<add this book's settled canon guardrails here>"
 
 open_author_decisions:
-  - "Migrate project/foundation.md + outline.md to book root (or keep in project/) so the pipeline finds the blueprint."
-  - "Add the required friction: give Bal a real flaw/failure and the girls a genuine choice (harem assembles too easily in the source)."
+  - "<list any plot/character decisions the author must make before drafting>"
 
 decisions:
-  - "This book is a folder-per-book genesis project under book/genesis/<slug>/."
+  - "This book is a folder-per-book genesis project under book/genesis/full-dive/."
 revision_cycles: 0

@@ -8,15 +8,15 @@ records what's here, decisions made, and the manual steps still outstanding.
 ## What's in `books/`
 
 **Migrated full books** (from their old standalone repos):
-`the-gift`, `litrpg-josh`, `scale-and-silver`, `finding-lady-death`, `the-manipulators`,
-`nanobot`, `shadow-god`, `multiverse`, `pompeii`, `the-long-goodnight`, `apathetic-love`,
+`the-gift`, `full-dive`, `scale-and-silver`, `death-and-remembrance`, `the-power-thief`,
+`the-replaced`, `a-god-of-thieves`, `all-the-worlds-she-keeps`, `the-hour-of-ash`, `the-long-goodnight`, `apathetic-love`,
 `sygl-book`, plus two series: `saeren/` (3 books) and `land-of-the-guardians/` (Ne'veran,
 4 books incl. scaffolded `the-dragon-isle` + `the-origin`).
 
-**OCR / early-stage stories** (transcribed from handwritten pages this session; provisional
-folder names — rename to real titles once decided):
-`litrpg` (James Mason), `demon-academy` (Zack), `hazels-story`, `norse-story`,
-`black-jewels-like-book`, `horror-story` (John Maxwell premise).
+**OCR / early-stage stories** (transcribed from handwritten pages; folders renamed to their
+final author-chosen titles 2026-07-14):
+`legends-progeny` (James Mason), `anchor-of-the-damned` (Zack), `shadowcrosser`, `the-burning-tree`,
+`the-fourfold-crown`, `everything-that-lingers` (John Maxwell premise).
 
 ## Key decisions (this session)
 
@@ -58,13 +58,13 @@ Delete via the GitHub website (repo → Branches → trash icon) or a local term
   per-book `CLAUDE.md`; the two planned LotG books scaffolded.
 - **Filled `STATE.yaml`** (genre, subgenre, comps, engagement, one-line premise, canon
   guardrail, open decisions, canon-source path) for 9 pre-blueprint books:
-  black-jewels-like-book, demon-academy, hazels-story, horror-story, litrpg, norse-story,
+  the-fourfold-crown, anchor-of-the-damned, shadowcrosser, everything-that-lingers, legends-progeny, the-burning-tree,
   apathetic-love (revise-existing-draft), sygl-book (rewrite/expansion), the-long-goodnight.
-- **Genre corrections:** `demon-academy` = **standard harem** (one male MC Zack + the five
+- **Genre corrections:** `anchor-of-the-damned` = **standard harem** (one male MC Zack + the five
   girls who summon/anchor him — NOT reverse harem). `sygl-book` confirmed harem-romance.
-  `litrpg` (James Mason) locked **NO-ROMANCE** guardrail per source. Scanned all other books —
+  `legends-progeny` (James Mason) locked **NO-ROMANCE** guardrail per source. Scanned all other books —
   no other hidden harem/romance structures.
-- **First architect pass DONE — `litrpg` (James Mason):** foundation.md + outline.md +
+- **First architect pass DONE — `legends-progeny` (James Mason):** foundation.md + outline.md +
   voice-dna.md built; STATE phase→2, total_planned **26 chapters (~115k words)**;
   macro-structure = 5-movement progression ladder (not 3-act). Blueprint is **staged/committed
   but awaits author sign-off** on: (A) grandfather = Seminova-native legend "Corin Vale";
@@ -72,18 +72,18 @@ Delete via the GitHub website (repo → Branches → trash icon) or a local term
   ally Wren, Corin Vale) — all renameable. **Ready for Chapter 1 once confirmed.**
 
 ### Architect-pass readiness map (for next session)
-- **Blueprint complete → near ch1:** `finding-lady-death`, `the-gift` (already had F+O+V);
-  `litrpg` (done this session, pending author confirm).
+- **Blueprint complete → near ch1:** `death-and-remembrance`, `the-gift` (already had F+O+V);
+  `legends-progeny` (done this session, pending author confirm).
 - **Needs partial pass:** LotG Bk 1 (`land-of-the-guardians/land-of-the-guardians`) — has
   foundation+outline, needs only `voice-dna.md`.
-- **Needs full architect pass (STATE filled):** black-jewels-like-book, demon-academy,
-  hazels-story, horror-story, norse-story, litrpg-josh, multiverse, nanobot, shadow-god,
-  the-manipulators, LotG `son-of-none`/`the-dragon-isle`/`the-origin`.
+- **Needs full architect pass (STATE filled):** the-fourfold-crown, anchor-of-the-damned,
+  shadowcrosser, everything-that-lingers, the-burning-tree, full-dive, all-the-worlds-she-keeps, the-replaced, a-god-of-thieves,
+  the-power-thief, LotG `son-of-none`/`the-dragon-isle`/`the-origin`.
 - **Special (reconcile / adaptation, NOT fresh architect):** `sygl-book` (lift `project/`
   blueprint to root), `the-long-goodnight` (reconcile 2 chapters + docs to canon),
   `apathetic-love` (entity-tracker BUILD → architect in revise mode).
 - **Open per-book author decisions still pending** in each STATE.yaml's `open_author_decisions`
-  (e.g. demon-academy heat level + harem roster; greater-demon-vs-Demon-Lord; sygl friction).
+  (e.g. anchor-of-the-damned heat level + harem roster; greater-demon-vs-Demon-Lord; sygl friction).
 - **Check:** LotG README calls `son-of-none` "Drafted ~26k words" but its `manuscript/chapters/`
   is empty — locate that draft before treating it as adaptation vs from-scratch.
 
@@ -94,4 +94,5 @@ Delete via the GitHub website (repo → Branches → trash icon) or a local term
 2. **Apathetic-Love:** set default branch to `main` before deleting its branch.
 3. **Archive the 14 original standalone book repos** (Settings → Danger Zone → Archive) once you
    trust this consolidated repo. Content is fully copied here — archiving is lossless.
-4. **Rename provisional OCR-story folders** to real titles once chosen.
+4. ~~Rename provisional OCR-story folders to real titles~~ — DONE 2026-07-14 (all folders now
+   carry final title-based slugs).
