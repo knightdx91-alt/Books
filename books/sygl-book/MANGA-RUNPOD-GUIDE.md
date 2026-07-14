@@ -1,5 +1,24 @@
 # Sygl Manga — RunPod + ComfyUI Setup Guide
 
+## ✅ WORKING CONFIG (confirmed 2026-07-14)
+- **Serverless** endpoint from the Hub → **"ComfyUI" release 5.8.5** (NOT 5.8.6).
+  The 5.8.6 FLUX.1-dev build crash-looped (workers unhealthy, empty container
+  logs, jobs stuck IN_QUEUE) even with a valid HF token + granted gated access.
+  The **5.8.5** release boots clean (model baked in, no gated download) and
+  generated Bal in ~20s.
+- GPU: 24 GB · Active workers 0 · Max 1 · FlashBoot on · no env vars needed.
+- Driven purely by API (`/run` + poll `/status/{id}`), images returned as
+  base64 in `output.images[].data`. Working FLUX t2i workflow (CheckpointLoader
+  `flux1-dev-fp8.safetensors` → CLIPTextEncode ×2 → EmptySD3LatentImage →
+  KSampler(cfg 1.0, euler, simple, 20 steps) → VAEDecode → SaveImage).
+- Cost: ~2¢ per image; $0 while idle (serverless). No pod to shut down.
+- Prompt tip: add `signature, border, text` to the NEGATIVE to kill the garbled
+  autograph/frame FLUX sometimes adds.
+- API key is NOT stored here (secret). Endpoint ID + key are passed per session.
+
+---
+
+
 Goal: rent an RTX 4090 by the hour (~$0.34/hr), run ComfyUI, and generate
 **consistent** manga panels of Bal & co. Pay only while the pod runs; shut it
 down and you pay nothing.
