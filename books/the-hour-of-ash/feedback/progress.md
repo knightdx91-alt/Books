@@ -315,29 +315,55 @@ the v2/v3 36-ch outline, where the first union is **Ch.12 "The First Night Is a 
 intimacy lives in Ch.11-13 (+ a late payoff). Want the heat placement reconciled to the current
 outline? (Not touched here — scene placement is an author call.)
 
+## RESUME HERE (2026-07-14) — Ch.8 FINAL, next is Ch.9
+
+Ch.8 "Earning the Yes" DRAFTED & FINALIZED (7,939w; target 7,900, +0.5%). Movement II negotiation +
+competence-as-courtship collage. RESUMED from a first draft (7,532w) left on disk by a prior run that
+died mid-pipeline; NOT rewritten — closed the ~400w gap by DRAMATIZING the missing beat (the wool-tally
+trial with the factor's Corinthian clerk was summarized in one paragraph; promoted to a live adversarial
+scene — the steelyard beam she stops with her hand, the thumb's-width offset in the counter-weight — the
+first competence rung escalating INTO the horse caper), then ran the full remaining pipeline.
+
+Beats: return on day 3 (the door on the latch, not open — "he meant me to open it myself"); muck-out
+trial; "hold this"/the horse leaning its weight (the cracked involuntary laugh); the boy's dropped
+bucket ("Again, and slower"); DRUSUS introduced (worldview-through-COST: "grief's cheap — it's the
+carrying charge that ruins a man"; names his creditor aloud); the wool-tally + the ANCHOR — Mara reads
+a bishoped horse's teeth (aged UP, burned-in cups, rasped table) and a gingered mule off the coper's
+string with her forgery/false-patina eye, and Valens turns the grey's lip up with his OWN thumb, finds
+it, and says it to the horse ("You poor doctored bastard") — the yes he can't take back; "Charm he
+could refuse. Competence walked straight past the guard and sat down at the fire"; the LEGATE'S REACH
+seeded (an ordinary townsman agent, Campanian cloak, asks after "a fighting name / an old debt",
+rides the WRONG way — "He'll not be the last"); the sideways YES (Valens takes her up to Delphi with
+four beasts for the festival trade, "it's not a favour, it's just the road being the road") which is
+also her secret errand to the Pythia (the two locks); the dark climb home, Kallia's lamp turned to the
+window, no misquoted proverb ("which was how I knew she was serious").
+
+Full pipeline run: writer (gap-close beat) -> dialogue-polish (cover-the-name PASS; one Valens money-
+metaphor bleed corrected) -> hook-craft (opening rewritten 6->8/10 to a VOICE hook, no longer repeating
+Ch.7's retrospective-declaration; pull 8-9/10 left) -> disruptor (3 light ops: blister bodily-wrongness
++ callback, anaphora triad broken) -> mechanical gates ALL CLEAN (style_check: em-dash 1 [title dash;
+body 0], simile 1.1/1k, repeated-phrase clean after fixing 3 disruptor-introduced cross-chapter leaks:
+"i have come to think", "i had eaten nothing since", "had nothing to do with") -> book-evaluator PASS:
+**Genesis Floor 8.5 / Avg 8.61 / Casual 8.7 / CVI-Launch 8.9 / Immersion 9.0 / Emotion 8.7** -> book-editor
+light polish (discharged the ONE eval regression: retrospective significance-tagging was 6 over the <=2
+hard gate; trimmed to 1 by converting five hindsight-tags to object/action beats, keeping only "the years
+we were given" — restores Prose to 9.0; also recast 2 of 3 define-by-negation narration fragments to
+positive-first). Cover-the-name PASS on Drusus, the wool-clerk, and the legate's agent (all distinct from
+Valens and each other). Eval: evaluations/chapter-8-eval.md. Disruption: evaluations/disruption-chapter-8.md.
+
+**WATCH (carry into Ch.9, from Ch.8 eval): (1) retrospective significance-tagging is the pipeline's
+DEFAULT comfort-move — it broke the <=2 gate here (6 instances) before the trim; ENFORCE <=1-2, let
+objects/gestures carry weight. (2) define-by-negation crept back to 3 narration fragments (was 0 in
+Ch.7); ration to 0-1. (3) anaphora is a standing 8-chapter habit — keep actively BREAKING triads, not
+just holding. (4) dialogue dipped to ~29% (narration-heavy) — Ch.9 is action, but restore two-hander
+banter where the road allows.**
+
+**Next: Ch.9 "The Road to Delphi"** (~7,900w, action single-arc). The journey up the mountain together;
+a road ambush forces mutual reliance; after the violence HE shakes and she doesn't (role reversal).
+Voice-under-pressure REHEARSAL: Mara's prose goes flat/procedural in fear (pre-trains the climax device).
+First crucible bonding the leads. Continue the full MANDATORY loop.
+
+--- superseded (pre-Ch.8) note retained for context ---
 **NEXT: still Chapter 8 "Earning the Yes"** (unchanged by v3 — Movement II is intact). Negotiation +
 caper collage; Mara makes herself useful to Valens's trade; Drusus introduced; grudging conditional
 passage; the legate's reach seeded.
-
-## RESUME HERE (2026-07-14) — Ch.8 FINAL, next is Ch.9
-
-**Ch.8 "Earning the Yes" is FINAL** — 7,913w (target 7,900). Genesis **Floor 8.5 / Avg 8.61 /
-Casual 8.7 / CVI-Launch 8.9**. Movement II negotiation + competence-as-courtship. Beats delivered:
-Mara reads a doctored horse's teeth cold at the rail and makes herself useful to Valens's trade;
-**Drusus introduced** (worldview-through-cost — "grief's cheap; it's the carrying charge that ruins
-a man"); the wool-clerk manifest audit (margin-note-as-mirror); a grudging **conditional yes** won
-over a week; the **legate's reach seeded** through his townsman agent. Anchor: Valens turning the
-horse's lip up with his own thumb to read what she'd read, and saying nothing.
-
-**Process note:** the first orchestrator run died mid-pipeline on a session usage limit (draft only,
-7,532w, un-evaluated). Resumed from that draft — closed the word gap with an added beat (NOT padding),
-ran the self-pass chain + disruptor + evaluator.
-
-**One eval regression, FIXED post-eval:** retrospective significance-tagging came in over the ≤2/ch
-hard gate (6 instances → Prose capped 8.5). Trimmed to 1 (kept only the load-bearing "the years we
-were given"), restoring the Prose ceiling. This is the SAME comfort-move flagged in Ch.7 — it is now
-the pipeline's default significance tic. **WATCH for Ch.9: hold significance-tags to ≤1; let objects
-carry the weight. Keep varying anaphora triads.** Gates all clean (em-dash 1, simile 1.1/1k, repeated
--phrase clean). ALLOWLIST += "nothing to me either way" (Valens's Ch.7 lie, thrown back).
-
-**Next: Ch.9** — see outline.md Movement II.

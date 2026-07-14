@@ -1,13 +1,14 @@
-# CLAUDE.md — Pompeii (working title)
+# CLAUDE.md — The Hour of Ash
 
 Per-book playbook. A fresh Claude Code session should read this first, then continue.
-(This is a copy of the template; fill in the <…> placeholders for this book.)
+(Folder renamed from `pompeii` → `the-hour-of-ash` on 2026-07-13 to match the title;
+avoid bare "Pompeii" — Robert Harris owns that.)
 
 ## What this is
 A **genesis-from-idea** project: build a NEW long Outlander-style time-slip historical
-romance from the author's story bible (`research/story-bible.md`), using the adapted
-**Best Seller Studio** pipeline. There is NO original draft — architect builds
-foundation + outline + voice-dna from the bible, then the chapter loop writes.
+romance from the author's story bible (`research/story-bible.md`), using the shared
+book pipeline. There is NO original draft — architect builds foundation + outline +
+voice-dna from the bible, then the chapter loop writes.
 
 Git identity (so commits show verified):
 ```
@@ -15,30 +16,18 @@ git config user.email noreply@anthropic.com
 git config user.name Claude
 ```
 
-## Install the agents (fresh environment)
-```
-git clone https://github.com/felipelobomotta-blip/best-seller-studio /tmp/bss
-cp /tmp/bss/agents/*.md ~/.claude/agents/
-# Also install 4 skill-based roles as agents (add tools/model frontmatter):
-#   entity-tracker, continuity-guardian (skills/optional/*/SKILL.md)
-#   dialogue-polish, hook-craft        (skills/deprecated/*/SKILL.md)
-# Frontmatter to prepend to each:
-#   ---
-#   name: <name>
-#   description: <from SKILL.md>
-#   tools: Read, Write, Edit, Grep, Glob, Bash
-#   model: opus
-#   maxTurns: 40
-#   ---
-```
-Note: in some environments the Agent tool can't dispatch these named subagents. If so,
-run ONE general-purpose agent that performs each role itself by reading ~/.claude/agents/*.md.
+## The pipeline (shared — no install step)
+The 12 `book-*` agents, `/gemini` + `/grok`, and APODICTIC live in the **repo root**
+`.claude/` + `tools/` and are loaded automatically each session (installed by
+`setup-script.sh` at SessionStart). This book uses them directly — nothing to clone or
+copy in. Improvements to the pipeline go to the **root**, per the repo UPDATE RULE; the
+only per-book file is this book's `tools/style_check.py` ALLOWLIST.
 
-## Project layout
+## Project layout (`books/the-hour-of-ash/`)
 ```
-book/genesis/<slug>/
+books/the-hour-of-ash/
 ├── STATE.yaml                 # READ FIRST — project state, word/style gates, canon
-├── research/                  # staged source: original-draft.txt + roadmap/bible/etc.
+├── research/                  # staged source: story-bible.md + roadmap/etc.
 ├── manuscript/chapters/       # chapter-1.md ... chapter-N.md (the book)
 ├── evaluations/               # per-chapter eval reports + continuity audits
 ├── feedback/progress.md       # exact resume point
@@ -46,12 +35,12 @@ book/genesis/<slug>/
 ```
 
 ## How to continue
-1. `cd book/genesis/<slug>` and read `STATE.yaml` and `feedback/progress.md`.
+1. `cd books/the-hour-of-ash` and read `STATE.yaml` and `feedback/progress.md`.
 2. `ls manuscript/chapters/` and `git log --oneline` to find the last finalized chapter.
 3. Produce the next chapter IN ORDER. Build from the outline beats — match this book's voice.
    Run each chapter through: write → dialogue-polish → hook-craft → disruptor → **pacing
    check** → evaluate → quality gate.
-4. Commit per chapter: `git add -A && git commit -m "genesis: finalize chapter N"`.
+4. Commit per chapter to `main`: `git add -A && git commit -m "genesis: finalize chapter N"`.
 
 ## Quality gates (ALL must pass before a chapter is "done")
 - **Genesis Floor ≥ 8.5** (book-evaluator); below → book-editor polish loop (max 5).
@@ -103,7 +92,18 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 
 ## Status (update as you go)
 
-> ### ▶ NEXT SESSION — START HERE: draft Chapter 7 "The Roman With the Mules" (~8,600w · first real two-hander)
+> ### ▶ NEXT SESSION — START HERE: draft Chapter 9 (Movement II)
+> **Ch.1-8 all FINAL, all Floor 8.5 PASS.** Ch.8 "Earning the Yes" (2026-07-14): 7,923w,
+> **Floor 8.5 / Avg 8.61 / Casual 8.7 / CVI-Launch 8.9**. Competence-as-courtship; Mara reads a
+> bishoped horse's teeth to earn a conditional yes; DRUSUS and the legate's townsman agent introduced.
+> **WATCH (carry from Ch.8 eval): (1) hold RETROSPECTIVE SIGNIFICANCE-TAGGING to ≤1/chapter — it is the
+> pipeline's default significance move and breached the ≤2 gate in BOTH Ch.7 and Ch.8 (trimmed both
+> times). Let objects carry the weight. (2) DEFINE-BY-NEGATION crept back to 3 in Ch.8 (was 0 in Ch.7);
+> rationed to 1 — keep watching. (3) actively VARY anaphora triads (break at least one per chapter).**
+> See STATE.yaml + feedback/progress.md for the exact resume point; Ch.9 beats in outline.md Movement II.
+>
+> --- prior START HERE (Ch.7, now done) retained below for context ---
+> ### ▶ (done) draft Chapter 7 "The Roman With the Mules" (~8,600w · first real two-hander)
 > **Ch.1-6 all FINAL, all Floor 8.5 PASS.** Ch.6 "Kallia's House" (2026-07-13): 7,532w domestic collage,
 > **Floor 8.5 / Avg 8.64 / Casual 8.7 / Prose 9.0 / Immersion 9.0**. The foothold — learning to PASS.
 > Cover-the-name/tic CLEAN (no device bleed). NEW char MELITA in character-bible.md. Dialogue 18.7%.
@@ -218,13 +218,8 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 - 2026-07-11: voice-DNA §7 Outlander comp calibration added; RESTART — deleted prior Ch.1/2;
   Ch.1 redrafted & finalized (Floor 8.5). Standing policy: full self-pass chain + evaluator every ch.
 
-## Other active books in this repo (each on its own branch — for cross-project awareness)
-> This session set up several books, each as `book/genesis/<slug>/` on its own branch with the
-> same pipeline + pacing gate. Switch branches to work on another.
-- **rosalia** (branch `claude/elegant-wright-yyt925`) — vampire/shifter epic-romance; 29-ch ~150k blueprint done; chapter loop not started.
-- **pompeii** (branch `claude/pompeii-story`, THIS) — Outlander-style time-slip; Ch.1-2 written.
-- **finding-lady-death** (branch `claude/death-and-remembrance`) — paranormal romance; 20-ch ~96k blueprint done; loop not started.
-- **the-gift** (branch `claude/the-gift`) — sci-fi antihero thriller; 21-ch ~103k blueprint done; loop not started; pick a company name (Helix Vanguard rec.).
-- **son-of-none** (branch `claude/son-of-none`) — empty; awaiting the author's "Son of None" file/idea.
-- **the-long-goodnight** (branch `claude/the-long-goodnight`) — empty placeholder.
-- (saeren-chronicles is the original, on `main`.)
+## Other books in this repo (cross-project awareness)
+> **MONOREPO (2026):** all books now live side-by-side under `books/<slug>/` on `main` — NOT the old
+> one-repo-per-branch / `book/genesis/<slug>` model. There are no per-book branches; everything commits
+> to `main` (repo WORKFLOW LAW). To work on another book, just `cd books/<other-slug>/` — the shared
+> pipeline in the repo root serves all of them. Run `ls books/` for the current list.
