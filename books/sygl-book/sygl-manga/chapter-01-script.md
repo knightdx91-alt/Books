@@ -18,6 +18,14 @@ prose.**
   Workflow: LoadImage(base)+LoadImage(mask)→ImageToMask→VAEEncodeForInpaint(grow_mask_by 10)
   →KSampler(denoise 1.0)→VAEDecode. Script: `../../../` scratch `inpaint.py` pattern. Redo
   this per panel that shows the left arm.
+- **REFINED (2026-07-14, from flight panel):** direct prompting NEVER yields a stump — FLUX
+  always draws a hand. Inpaint works BEST when you (a) compose the panel so the left arm
+  is clearly separated (hanging at side, or resting), and (b) mask GENEROUSLY — include part
+  of the forearm and prompt "his left arm is SHORTER and ends in a rounded stump… no hand,
+  empty surface below" so it regenerates the arm ENDING rather than refilling a hand. A
+  too-tight mask just gets a redrawn (often deformed) hand. Raised-arm / tucked-hand poses
+  are the hardest — avoid them for Pre-Regrowth Bal. Expect 1–2 inpaint tries per panel.
+- **First fully canon-correct story panel:** `p9-2-flight-FINAL.png` (the flight splash).
 
 ## ⚠️ CANON — CHARACTER DESIGN (must be enforced every panel)
 
