@@ -2,8 +2,9 @@
 ## "The Roof and the Flicker"
 
 Source: `../manuscript/chapter-01.md` (finalized prose). This is the panel-by-panel
-plan for turning Ch.1 into manga. Prose is ~3,900 words; as manga this is roughly
-**18–20 pages**.
+plan for turning Ch.1 into manga. Prose is ~3,900 words; **target length: 22 pages**
+(author decision — see AUTHOR DECISIONS below). Caption voice: **dry/wry, matching the
+prose.**
 
 ---
 
@@ -229,8 +230,19 @@ Captions = Bal's interior voice (box). Keep them terse.
   (stump close-up — proves we can force the missing hand). If those three work, the
   chapter is generatable.
 
-## OPEN QUESTIONS FOR THE AUTHOR
-1. Page count target — tight ~16 or roomy ~22? (Affects how much backstory we compress.)
-2. Tone of Bal's caption voice — dry/wry (matches prose) vs. plainer?
-3. Do we want a recurring visual motif for "the itch/pull" at the stump (e.g., a faint
-   hooked line) so readers track it across chapters?
+## AUTHOR DECISIONS (locked 2026-07-14)
+1. **Page count: 22 pages (roomy).** We have room — do NOT over-compress the backstory.
+   Let the sygl/Posy/Fredrick flashbacks breathe (the current 14-page script expands to
+   22 by giving pages 3–6 and the flight/temple more panels and beats, not by padding).
+2. **Caption voice: DRY / WRY — match the finished prose.** Bal is observant and quietly
+   self-deprecating; keep the book's voice in every caption box.
+3. **Stump itch/pull is NOT a recurring visual motif.** Show it where the prose calls for
+   it in Ch.1 (the itch, the hard "pull" toward the tomb) but do NOT invent a repeating
+   symbol/hooked-line that readers track across chapters. Draw it plainly, in-scene, then
+   let it go.
+
+### Re-pagination note (14 → 22)
+The scripted 14 pages are the spine. To reach 22, expand (don't pad): the flight (P9–10)
+earns 2–3 more panels of real peril; the temple reveal (P12–13) earns a full extra page
+of dread-detail; the sygl-world flashback (P3) and the decision (P6) each get more room so
+the isolation lands. Final page map to be drawn up when we lock panel art.
