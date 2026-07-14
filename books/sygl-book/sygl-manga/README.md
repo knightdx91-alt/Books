@@ -1,4 +1,20 @@
-# Sygl Manga — RunPod + ComfyUI Setup Guide
+# Sygl Manga
+
+Manga adaptation of **Sygl**. Everything for the illustrated version lives in
+this folder; the prose book stays in the parent `books/sygl-book/`.
+
+## Folder contents
+- `README.md` — this file: RunPod + ComfyUI setup, working config, workflow.
+- `bal-manga.png` — early Pollinations style test (free, keyless).
+- `panel-familiar-reveal.jpg` — Pollinations test panel (familiar-class reveal).
+- `panel-bal-flux.png` — first WORKING FLUX panel via the RunPod API (Bal).
+
+## Pipeline at a glance
+Prose chapter (finalized in `../manuscript/`) → panel script → generate panels
+on RunPod (ComfyUI + FLUX) → letter speech bubbles → assemble page. Character
+consistency is the next milestone (lock Bal's seed/prompt, then IP-Adapter/LoRA).
+
+---
 
 ## ✅ WORKING CONFIG (confirmed 2026-07-14)
 - **Serverless** endpoint from the Hub → **"ComfyUI" release 5.8.5** (NOT 5.8.6).
@@ -23,7 +39,8 @@ Goal: rent an RTX 4090 by the hour (~$0.34/hr), run ComfyUI, and generate
 **consistent** manga panels of Bal & co. Pay only while the pod runs; shut it
 down and you pay nothing.
 
-Character reference art already in repo: `books/sygl-book/bal-manga.png`.
+Character reference art already in repo: `books/sygl-book/sygl-manga/bal-manga.png`.
+Generated panels save into `books/sygl-book/sygl-manga/`.
 
 ---
 
