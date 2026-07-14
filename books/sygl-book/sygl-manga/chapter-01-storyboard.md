@@ -66,9 +66,19 @@ Legend: **▭** wide panel · **▯** tall panel · **◫** inset · **⬛** spl
 3 ▭ He shrugs the pack on, folds his legs, settles.
 4 ▭ The roof's edge slides out from under him. CAP: *Then I asked it to take me across.*
 
-### p.9 — THE FLIGHT (2) — hero splash [uses p9-2-flight-FINAL.png]
-1 ⬛ FULL SPLASH: Bal on the free-floating rug over the isolated orphanage + lane; wind, exhilarated grin; stump visible. SFX *WHOOSH*. CAP: *I should've been terrified. I waited politely to be.*
+### p.9 — THE FLIGHT (2) — hero splash
+**GEOGRAPHY (canon):** Bal launches from the ORPHANAGE roof and flies ACROSS toward the
+MAUSOLEUM (~60 ft away). The panel must show he is HEADING SOMEWHERE — the great grey
+sealed tomb AHEAD is his destination. Stage: orphanage roof behind/below him, the
+**mausoleum looming ahead** in his flight path (large grey windowless stone tomb, carved
+vines/faces along its top edge, looks dead/sealed). He flies toward it, not over empty
+fields. Left arm hangs off the carpet edge into open sky (stump-compose rule).
+1 ⬛ FULL SPLASH: Bal on the free-floating rug, wind, exhilarated grin, stump visible; the
+orphanage roof he left behind, the **mausoleum ahead** as his target. SFX *WHOOSH*. CAP: *I
+should've been terrified. I waited politely to be.*
 2 ◫ inset face: aching wide grin. CAP: *If I die doing this — at least it was THIS.*
+[NOTE: current `p9-2-flight-BASE-clean.png` shows only the orphanage below — REDO to include
+the mausoleum destination ahead.]
 
 ### p.10 — Near-loss (4) — real peril
 1 ◫ Mind drifts; threads go loose. SFX *stutter…*
@@ -131,9 +141,14 @@ A generated panel is WRONG if its setting/props don't match where it falls in th
 even if the art is beautiful. Check each panel against the script location. Known traps:
 - **Location per act:** pp.1–8 = the ORPHANAGE (isolated old brick building, bare yard, a
   lonely lane to distant trees, half a mile of nothing — **NOT a town, NO rows of houses /
-  chimney forest**). pp.9–11 = mid-AIR over that same isolated orphanage. pp.11–16 = INSIDE
-  the sealed temple (pillars, braziers, impossible sky-square, swept floor, the face-away
-  statue). Do not let a village/townscape appear in any Ch.1 exterior.
+  chimney forest**). pp.9–11 = mid-AIR, flying FROM the orphanage roof TOWARD the mausoleum
+  — **the mausoleum (destination) must be visible ahead** in the flight panels, not empty
+  fields. pp.11–16 = INSIDE the sealed temple (pillars, braziers, impossible sky-square,
+  swept floor, the face-away statue). Do not let a village/townscape appear in any Ch.1 ext.
+- **Two distinct buildings — don't conflate:** the ORPHANAGE (old brick, 3 storeys, windows,
+  a door, a flat roof, lived-in) vs. the MAUSOLEUM (grey stone TOMB, windowless, sealed, no
+  door anyone can open, carved vines/faces along the top edge, looks dead). The flicker/temple
+  is INSIDE the mausoleum. Never draw the mausoleum with ordinary windows/door.
 - **Bal every panel:** LEFT arm = stump (no hand); NO sygl/mark anywhere. Inpaint the stump;
   verify the junction is CLEAN (no smudge/blob where it meets clothes/carpet — re-inpaint the
   end with "clean rounded stump, small clean gap, no smudge" if muddy).
