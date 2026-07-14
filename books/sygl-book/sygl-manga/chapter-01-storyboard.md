@@ -67,22 +67,26 @@ Legend: **▭** wide panel · **▯** tall panel · **◫** inset · **⬛** spl
 4 ▭ The roof's edge slides out from under him. CAP: *Then I asked it to take me across.*
 
 ### p.9 — THE FLIGHT (2) — hero splash
-**GEOGRAPHY (canon):** Bal launches from the ORPHANAGE roof and flies ACROSS toward the
-MAUSOLEUM (~60 ft away). The panel must show he is HEADING SOMEWHERE — the great grey
-sealed tomb AHEAD is his destination. Stage: orphanage roof behind/below him, the
-**mausoleum looming ahead** in his flight path (large grey windowless stone tomb, carved
-vines/faces along its top edge, looks dead/sealed). He flies toward it, not over empty
-fields. Left arm hangs off the carpet edge into open sky (stump-compose rule).
-1 ⬛ FULL SPLASH: Bal on the free-floating rug, wind, exhilarated grin, stump visible; the
-orphanage roof he left behind, the **mausoleum ahead** as his target. SFX *WHOOSH*. CAP: *I
-should've been terrified. I waited politely to be.*
+**GEOGRAPHY (canon, verified vs prose L71–79):** this is a SHORT, INTIMATE crossing, ~60 ft,
+at rooftop height ~40 ft above the yard — NOT high-altitude soaring over empty countryside.
+- **BELOW:** the orphanage YARD with the boys and their stick-and-rag-ball, "gone small and
+  bright and oblivious" (they do NOT notice him) — 40 ft straight down; then the lane, the
+  trees flicking past beneath.
+- **AHEAD:** the MAUSOLEUM (grey windowless sealed tomb, carved vines/faces on top edge)
+  "rushing up to meet him" — his destination, filling the flight path.
+- **BEHIND:** the orphanage roof he just left.
+- Left arm hangs off the carpet edge into open sky (stump-compose rule).
+1 ⬛ FULL SPLASH: Bal on the free-floating wash-basin rug (dull gold, sky-blue border), wind,
+exhilarated aching grin, stump visible; the tiny oblivious boys + yard 40 ft below; the
+**mausoleum looming ahead, rushing up**. SFX *WHOOSH*. CAP: *I should've been terrified. I
+waited politely to be.*
 2 ◫ inset face: aching wide grin. CAP: *If I die doing this — at least it was THIS.*
-[NOTE: current `p9-2-flight-BASE-clean.png` shows only the orphanage below — REDO to include
-the mausoleum destination ahead.]
+[⚠️ REDO: current `p9-2-flight-BASE-clean.png` is WRONG — high soaring over empty fields with a
+distant house. Must be: yard+boys below (40 ft), mausoleum ahead rushing up, intimate scale.]
 
-### p.10 — Near-loss (4) — real peril
+### p.10 — Near-loss (4) — real peril  [still mid-crossing, yard below, mausoleum ahead]
 1 ◫ Mind drifts; threads go loose. SFX *stutter…*
-2 ▭ Rug drops a foot; stomach lurches. SFX *DIP*.
+2 ▭ Rug drops a foot toward the yard 40 ft down; stomach lurches. SFX *DIP*.
 3 ◫ Fierce CU: hauls his mind back. CAP: *No. The carpet. Only the carpet.*
 4 ▭ Threads pull taut, hum steadies. CAP: *I can be terrified later.* — TURN
 
@@ -90,7 +94,7 @@ the mausoleum destination ahead.]
 1 ◫ CU stump LIGHTS with a hard pull toward the tomb (weight, not itch). CAP: *A fishhook in a part of me with no nerves left.*
 2 ▭ Mausoleum rushes close; he aims at the thin place.
 3 ⬛ He passes THROUGH where stone should be — light warms. SFX *sshh*.
-4 ▯ Interior swings up: a floor between huge pillars. BAL(thought): *Down — gently — down.*
+4 ▯ Interior swings up: a floor between huge pillars ("taller than the orphanage"). BAL(thought): *Down — gently — down.*
 
 ### p.12 — Inside (2) — wonder splash [temple ref = design-statue-a]
 1 ⬛ FULL SPLASH: rug sets him down; slumps dead into dull gold; two braziers, columns to shadow, impossible square of pale sky, swept floor, the pale STATUE far off, face away. SFX *fmp*.
@@ -175,6 +179,32 @@ true, rather than gamble on inpainting a hand tucked against the rug/leg/body:
   (stump ECU — fine, it IS the stump), p.2.2 (juggling miss — stump alone), p.7.1–7.4 (the
   cast — stump on the rug, frame the stump ITSELF clearly, right hand elsewhere), p.9 (flight
   — left arm hanging off the carpet edge into sky), p.11.1/13.3 (stump CUs — fine).
+
+## ✅ STORY-ACCURACY VERIFICATION (checked panel-by-panel vs manuscript/chapter-01.md, 2026-07-14)
+Confirmed matching the prose:
+- p.1 three facts (stump itch / mausoleum flickered 3 days ago / spell could drop him 40 ft) — L3.
+- p.2 one-handed juggling, only unmarked boy, yard game (flat stick + rag ball) — L9,15,19.
+- p.3 Posy marks at supper, GREEN Terra on the PALM, table crowds, cart up the lane — L25.
+- p.4 the flicker: pillars, open floor, tall pale statue FACING AWAY — L33,91.
+- p.5 ladder too short; Year2 appendix "holds until the caster's attention breaks"; Fredrick
+  gives 3 books + trunk; candle reading — L37,39,41.
+- p.6 decision (bell, nobody hurries, "tired of agreeing with them") — L43–47.
+- p.7 casts through the LEFT-WRIST STUMP (not a hand), "Levimotorcorpus," rug rises a few
+  inches then STOPS — L53–63.
+- p.8 "Higher," settles, roof edge slides out — L65–71.
+- p.9–10 flight: yard+oblivious boys 40 ft below, lane/trees, mausoleum rushing up; mind
+  wanders → rug drops a foot → hauls it back — L71–77. **(Art corrected: was soaring/empty.)**
+- p.11 stump lights with a hard pull at the tomb; aims at the thin place; passes through — L79–83.
+- p.12 lands inside; rug slumps to dull gold; braziers; impossible sky-square; statue far,
+  face away; pillars "taller than the orphanage" — L85–91.
+- p.13 swept clean floor (no dust in 200 yrs), two fires, itch GONE, low worn altar, stays
+  center — L93–99.
+- p.14–15 whisper "Because it's magic" at his ear; whirls; room empty; hair still moving — L101–107.
+CORRECTIONS APPLIED: flight scale/content (yard+boys+mausoleum, intimate crossing), carpet =
+wash-basin rug dull-gold + sky-blue border (tassels are stylization, keep subtle), orphanage
+≠ mausoleum design, pillars taller than the orphanage.
+FLAG (not in prose — addition): p.16.2 "statue turned a few degrees" is INVENTED foreshadow,
+not canon. Keep only if author wants it (see Open Calls); default = cut for a clean cliff.
 
 ## OPEN CALLS
 - p.16 panel 2 "statue turned a few degrees" — keep the ambiguous foreshadow, or cut for a
