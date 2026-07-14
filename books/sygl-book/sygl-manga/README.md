@@ -9,6 +9,26 @@ this folder; the prose book stays in the parent `books/sygl-book/`.
 - `panel-familiar-reveal.jpg` — Pollinations test panel (familiar-class reveal).
 - `panel-bal-flux.png` — first WORKING FLUX panel via the RunPod API (Bal).
 
+## VISUAL STYLE (locked 2026-07-14)
+**Monochrome manga + SPOT-COLOR sygls/magyk.** Pages are black-and-white ink + screentone;
+the ONLY color is the sygls and actively-cast magyk, each in its element's colour. This makes
+the magic system instantly readable and lets Bal's Blood powers pop later.
+
+**Element → colour map** (house sygl on the palm + that element's aerial glyphs when casting):
+| Element / sygl | Colour |
+|---|---|
+| **Blood** (Amelia; Bal after regrowth) | crimson red |
+| **Terra** (Posy) | green |
+| **Tempus** (storm; Viridia) | electric blue |
+| **Waves** (Lora) | deep teal/blue |
+| **Duality** (Aren/Nera) | TBD (split/gold?) |
+| others | TBD as they appear |
+
+Notes: In **Ch.1** the only colour moments are Posy's green Terra mark (flashback) and any
+marked hand in the crowd — Bal is UNMARKED and his stump-forced levitation is NOT an element,
+so it carries **no sygl colour** (draw it as plain B/W strain/glow at the stump). Colour enters
+the book properly with the Blood sygl later.
+
 ## Pipeline at a glance
 Prose chapter (finalized in `../manuscript/`) → panel script → generate panels
 on RunPod (ComfyUI + FLUX) → letter speech bubbles → assemble page. Character
