@@ -8,6 +8,22 @@ Spot-color: only Posy's green Terra mark in Ch.1. Bal = Pre-Regrowth (stump, no 
 Legend: **▭** wide panel · **▯** tall panel · **◫** inset · **⬛** splash (full/near-full page)
 "TURN" = right-hand page whose last panel should pull the reader to turn.
 
+## 🗺 ORPHANAGE-GROUNDS LAYOUT (canon — get this right in every establishing/flight panel)
+- **The orphanage building** — old brick, 3 storeys, a flat slate roof (the one flat thing
+  for half a mile).
+- **IN FRONT / below:** the bare yard the orphanage calls a "field" — the older boys play
+  stick-and-rag-ball here. This is where the kids are, DOWN in the yard.
+- **BEHIND the orphanage:** the MAUSOLEUM — the great grey sealed windowless tomb, sitting
+  closed (carved vines/faces on the top edge; no door anyone can open). It is behind the
+  building, not out in an open field on its own.
+- **Bal is ALONE.** On the roof he is the only person up high; the kids are far below in the
+  yard and OBLIVIOUS to him. His solitude is the emotional core — never crowd him. Kids, if
+  shown, are TINY and distant, never beside him.
+- **The lane** runs out from the grounds toward distant trees; nobody walks it. Isolated,
+  half a mile from anything. NO town, NO neighbours.
+- **FLIGHT geometry:** he lifts off the roof and crosses ~60 ft toward the mausoleum, ~40 ft
+  above the yard; tiny oblivious boys below; the sealed tomb ahead. He is ALONE in the air.
+
 ---
 
 ## ACT 1 — THE BOY ON THE ROOF (pp.1–7)
@@ -122,7 +138,8 @@ distant house. Must be: yard+boys below (40 ft), mausoleum ahead rushing up, int
 
 ### p.16 — End beat / bridge to Ch.2 (2)
 1 ⬛ Ominous wide: the dark between columns; the hair by his ear still moving. CAP: *…very clearly wasn't.*
-2 ◫ Tiny final panel: the statue — has its head turned a few degrees more than before? (ambiguous). → END CH.1.
+2 ◫ Final beat: Bal frozen, alone in the vast quiet, staring into the dark where the voice came from — nothing there. Hold on the dread. → END CH.1.
+[Cut the earlier "statue turns a few degrees" idea — not in the prose; cleaner cliff on the whisper.]
 
 ---
 
@@ -203,10 +220,8 @@ Confirmed matching the prose:
 CORRECTIONS APPLIED: flight scale/content (yard+boys+mausoleum, intimate crossing), carpet =
 wash-basin rug dull-gold + sky-blue border (tassels are stylization, keep subtle), orphanage
 ≠ mausoleum design, pillars taller than the orphanage.
-FLAG (not in prose — addition): p.16.2 "statue turned a few degrees" is INVENTED foreshadow,
-not canon. Keep only if author wants it (see Open Calls); default = cut for a clean cliff.
+RESOLVED: p.16.2 "statue turned a few degrees" (invented, not in prose) — CUT. p.16 now ends
+on Bal alone staring into the dark where the voice came from.
 
 ## OPEN CALLS
-- p.16 panel 2 "statue turned a few degrees" — keep the ambiguous foreshadow, or cut for a
-  cleaner cliff on the whisper? (Author call.)
 - Confirm 22 is firm, or allow ±1 if a page feels cramped/padded when we lay art in.
