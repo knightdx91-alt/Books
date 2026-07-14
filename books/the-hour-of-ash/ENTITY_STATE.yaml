@@ -58,11 +58,12 @@
 
 meta:
   version: "1.0"
-  last_updated: "2026-07-13"
+  last_updated: "2026-07-14"
   last_updated_by: "entity-tracker"
-  mode: "BUILD"
+  mode: "UPDATE"
+  last_updated_chapter: 8
   pov: "single-POV first-person past retrospective (Mara)"
-  chapters_tracked: [1, 2, 3, 4, 5, 6, 7]
+  chapters_tracked: [1, 2, 3, 4, 5, 6, 7, 8]
 
 characters:
 
@@ -103,7 +104,7 @@ characters:
       valens:
         type: "the man she will 'spend my life with' / love interest (first two-hander)"
         established: "ch-05:p101 (unnamed, saved-and-dismissed); named & first real scene ch-07"
-        current_status: "he refused her passage but found her a safer road; something 'lit' in her, unnamed"
+        current_status: "ch-08: she EARNED the trial and a place in his trade by being right about the copered horse in front of him; a 'fitted silence' of two who work well; he takes her up to Delphi with four beasts, the sideways yes ('nothing, the road being the road')"
     location_log:
       - { chapter: 1, location: "England", scene: "father Emilio's study & kitchen (1998, English spring)", travel_noted: false }
       - { chapter: 2, location: "English coast (fourth coastal town, 3h up the coast)", scene: "Verrall & Son antique shop", travel_noted: true }
@@ -112,6 +113,7 @@ characters:
       - { chapter: 5, location: "Delphi, Greece, ~AD 70", scene: "mountain road, the sanctuary/sacred way, fountain-house, holm-oak above sanctuary, Kallia's byre", travel_noted: false }
       - { chapter: 6, location: "Delphi valley / Kallia's inn on the sanctuary road", scene: "the inn, loom, olive groves/press, market below sanctuary", travel_noted: false }
       - { chapter: 7, location: "sanctuary road / spring market / Valens's mule-yard (road bend south)", scene: "market lane; the inn; Valens's yard (3 miles down)", travel_noted: true }
+      - { chapter: 8, location: "Valens's mule-yard (over ~9-10 days, early spring); climbs 3 miles home to Kallia's at night", scene: "mucks out; the trial-labour; the wool tally; the coper's-string horse/mule caper; Drusus's consignment; the legate's agent visit; the paddock-rail 'yes'; night climb home", travel_noted: true }
     knowledge:
       - { fact: "father Emilio hid a map with 'the door' marked and A. Fenn's note", learned: "ch-01:p57", method: "discovered" }
       - { fact: "the door 'is not honest'; opened for Fenn, would not let him back; his 11th attempt", learned: "ch-01:p65", method: "discovered" }
@@ -127,11 +129,20 @@ characters:
       - { fact: "she is 'nobody's woman' — cannot buy passage south without a man to answer for her", learned: "ch-07:p21", method: "told_by:amphissa-wagoner" }
       - { fact: "Valens will not run her; he found her a safer road (factor's widow needs a book-keeping companion)", learned: "ch-07:p199", method: "told_by:valens" }
       - { fact: "the Krisa widow was murdered by her own guard-party two springs back; Valens carried the body up to Krisa", learned: "ch-07:p165", method: "told_by:valens" }
+      - { fact: "the factor's-widow place runs through Drusus (Valens's partner) and the Corinthian factor; she must be SHOWN doing the work, not sworn for — a trial", learned: "ch-08:p17", method: "told_by:valens" }
+      - { fact: "the horse-copers age a green beast UP ('bishoping'): burn false cups into the teeth, rasp the table smooth — a doctored tooth is a doctored surface she can read off her forgery/false-patina eye", learned: "ch-08:p117", method: "discovered (applied her conservator's eye)" }
+      - { fact: "a beast can be peppered/gingered to carry itself sound over a sale (wears off next day into lameness)", learned: "ch-08:p131", method: "discovered" }
+      - { fact: "she has earned a place in Valens's trade — does the beasts/tack/anything-with-a-maker's-mark tally, and tells him BEFORE Drusus", learned: "ch-08:p161", method: "told_by:valens" }
+      - { fact: "there is a festival day coming at the Delphi sanctuary; the factor's man, the widow, and Corinth's money come up for the trade — her final showing is up top", learned: "ch-08:p209", method: "told_by:valens" }
+      - { fact: "Valens is taking her UP to Delphi with four beasts for the festival trade, day after tomorrow before light (framed as 'nothing, the road being the road' — the sideways yes)", learned: "ch-08:p229", method: "told_by:valens" }
+      - { fact: "an ordinary man came asking after Valens ('a fighting man from the south, went by a fighting name') under cover of hiring passage; Valens: 'He'll not be the last'", learned: "ch-08:p187", method: "witnessed (overheard from the stable)" }
+    knowledge_noted_not_acted:
+      - { fact: "Drusus names his creditor aloud up and down the valley — ties his loud debt to the legate-agent thread; danger noted, 'filed against a day I could not yet see the shape of', not acted on", noted: "ch-08:p203", method: "inferred" }
     knowledge_gap:
       - fact: "references that the Oracle 'told me, in the first hour... the door home lay under a mountain by the Roman sea'"
         used_in: "ch-07:p67"
         issue: "no on-page Oracle meeting has occurred by Ch.7 (Mara is still planning to ask the Pythia WHERE); see FLAG 1. Possible retrospective-foreknowledge intrusion or a continuity gap — do not treat as an established acquisition until reconciled with the Ch.10 Oracle scene."
-    arc_notes: "Keeper-of-the-dead who follows her dead father's map through a time-door into ~AD 70 Greece; learning to exist as a woman-with-no-man; sets out to reach the door home under a mountain in Italy. Ch.1-7: grief -> crossing -> survival -> first foothold -> the NO that begins the romance."
+    arc_notes: "Keeper-of-the-dead who follows her dead father's map through a time-door into ~AD 70 Greece; learning to exist as a woman-with-no-man; sets out to reach the door home under a mountain in Italy. Ch.1-8: grief -> crossing -> survival -> first foothold -> the NO -> EARNING THE YES (proves competence, wins a place in the trade, is taken up to Delphi where she carries her own secret errand: ask the Pythia the WHERE — the two locks). Her scandal-pursuit went live in Ch.8: an agent came asking for Valens."
 
   emilio-reyes:
     canonical_name: "Emilio Reyes"
@@ -150,7 +161,7 @@ characters:
         established: "ch-01:p32"
         current_status: "dead; emotional engine of the book"
       verrall:
-        type: "was given the map by (three visits, last spring)",
+        type: "was given the map by (three visits, last spring)"
         established: "ch-02:p120"
         current_status: "dead; Verrall 'sorry since'"
     knowledge:
@@ -253,7 +264,7 @@ characters:
       - { trait: "speaks Greek accented and exact — 'a tool used well and loved not at all'; Latin to the boy", source: "ch-07:p109", mutable: false }
     voice_markers:
       ref: "voice-dna.md#valens"
-    scandal: "Per canon (surfaced obliquely on page): 'some scandal down south, a great man's household, a woman's name in it' (ch-07:p87); came up into the hills to be no one."
+    scandal: "Per canon (surfaced obliquely on page): 'some scandal down south, a great man's household, a woman's name in it' (ch-07:p87); came up into the hills to be no one. Ch.8: the pursuit went PHYSICAL — an ordinary man came asking after 'a fighting man from the south, went by a fighting name', framed as 'an old debt, a household I served'; Valens denied being him ('I'd not know him') and said 'He'll not be the last' (ch-08:p201)."
     lie: "If I am needed but never loved, I can't be betrayed again. Be useful. Stay outside."
     relationships:
       mara-reyes:
@@ -271,11 +282,15 @@ characters:
     location_log:
       - { chapter: 5, location: "Delphi, fountain-house / muleteers' ground below sanctuary", scene: "calls off two men threatening Mara by stillness, never looks at her face", travel_noted: false }
       - { chapter: 7, location: "his mule-yard (where the sanctuary road bends south, a fold of ground with stream & poplars)", scene: "the refusal two-hander; the Krisa-widow account; brokers the safer road", travel_noted: false }
+      - { chapter: 8, location: "his mule-yard (over ~9-10 days) then setting out UP to Delphi", scene: "sets Mara her trial-labour; Drusus's consignment; verifies the copered horse with his own thumb; gives her the beasts/tack tally; the legate's-agent visit; the paddock-rail yes", travel_noted: false }
     knowledge:
       - { fact: "Mara is not a real widow — 'you're not one'", learned: "ch-07:p123", method: "inferred (read her)" }
       - { fact: "Mara is 'nobody's woman' with no one to answer for her — a fatal liability on the road", learned: "ch-07:p157", method: "inferred" }
       - { fact: "Mara comes from 'somewhere I can't go back to' (does NOT know the time-travel truth)", learned: "ch-07:p149", method: "told_by:mara-reyes" }
-    arc_notes: "First appears Ch.5 as a wordless wall who saves-and-dismisses. Ch.7 first live scene, rendered to bible: refusal is protective; his one big lie ('nothing to me either way') told to a knot. Per canon: marries Mara (~Ch.13), children Lucius & Aelia."
+      - { fact: "the grey is copered/bishoped (aged up, burned cups, rasped table) and the dark mule is gingered — verified it himself after Mara read it", learned: "ch-08:p127", method: "witnessed (checked with his own thumb/eye)" }
+      - { fact: "Mara can read the true thing under the plausible one faster than he can — competence he has no armour against; puts her on the beasts/tack tally", learned: "ch-08:p159", method: "witnessed" }
+      - { fact: "an agent came up the valley asking after him by his old fighting profession under cover of hiring; the man rode back the WRONG way (not toward Kirrha as claimed)", learned: "ch-08:p193", method: "witnessed" }
+    arc_notes: "First appears Ch.5 as a wordless wall who saves-and-dismisses. Ch.7 first live scene: refusal is protective; his one big lie ('nothing to me either way') told to a knot. Ch.8: gives the yes he can't take back — competence (not charm) walks past his guard; takes her up to Delphi 'because he was going anyhow'. His scandal-pursuit becomes active/physical (an agent asks). Hands-work-a-strap tell recurs; hands go open-and-still after the agent leaves. Per canon: marries Mara (~Ch.13), children Lucius & Aelia."
 
   kallia:
     canonical_name: "Kallia"
@@ -364,6 +379,79 @@ characters:
     knowledge:
       - { fact: "a woman with coin and no man front-or-back is a liability he 'can't sell at Kirrha'", learned: "ch-07:p21", method: "witnessed (his own reasoning)" }
     arc_notes: "Carries oil-jars down toward Kirrha; delivers the 'nobody's woman' / 'who comes asking if you don't arrive' beat."
+
+  drusus:
+    canonical_name: "Drusus"
+    aliases: ["the Roman trader", "Valens's partner"]
+    importance: supporting
+    status: "alive, ~AD 70; a Roman trader, Valens's partner in the mule/horse trade 'in the loose way a rope is partner to the bucket'"
+    physical:
+      description: { value: "a soft heavy man gone prematurely jowled; a tunic with a stripe of dye at the hem 'that cost more than the mule and a great deal more than he had'", source: "ch-08:p55" }
+      eyes: { value: "quick unhappy clever eyes 'that had seen the bottom of things and climbed back up talking'", source: "ch-08:p67" }
+    traits:
+      - { trait: "venal / cost-worldview — reduces all feeling to cost; 'changes the subject to money before the subject can change him'; NO shared counting device with Valens (distinctness: he prices, he does not enumerate-as-mirror)", source: "ch-08:p73", mutable: false }
+      - { trait: "loud — 'I heard him before I saw him, which was the whole of the man'", source: "ch-08:p53", mutable: false }
+      - { trait: "never cruel ('it would have cost him effort and he saved his effort for money')", source: "ch-08:p63", mutable: false }
+      - { trait: "cannot pass a bargain 'the way a drunk cannot pass a tavern' — buys cheap, buys badly (bought the copered string)", source: "ch-08:p97", mutable: false }
+    voice_markers:
+      ref: "character-bible.md#drusus / voice-dna.md#drusus"
+    relationships:
+      valens:
+        type: "trade partner (the factor's-widow place runs through him and the factor)"
+        established: "ch-08:p17"
+        current_status: "ch-08: comes up ahead of a consignment; the copered string he bought is exposed by Mara; Valens tallies his losses for him"
+      mara-reyes:
+        type: "swore to the factor there was 'a clever discreet woman going spare in the hills' — her trial rides on him"
+        established: "ch-08:p63"
+        current_status: "prices her as 'the expense', then watches her expose his copered string"
+    location_log:
+      - { chapter: 8, location: "Valens's mule-yard (came up on the fifth day ahead of his consignment)", scene: "arrives on a mule too good for him; complains of the wine; the consignment day; prices his own ruin aloud when the copered string is exposed", travel_noted: true }
+    knowledge:
+      - { fact: "his beast-string (bought cheap off a coper out of Amphissa) is copered — grey bishoped, dark mule gingered; two sound, one a loss", learned: "ch-08:p123", method: "witnessed (shown by Mara/Valens)" }
+    debt:
+      - { fact: "owes a named creditor money (interest on a sum); names his debt AND the creditor aloud in the yard, fast, 'the way you'd flinch from a hot pan'", source: "ch-08:p137", note: "creditor's name not given on the page ('a name that meant nothing to me then and would mean a great deal later'); ties to the legate-agent thread — Drusus names his debts loudly up and down the valley (Mara notes this, ch-08:p203)" }
+    arc_notes: "New Ch.8 character. The venal/cost-worldview foil. Distinctness = reduces feeling to cost; explicitly NO shared counting/enumeration device with Valens (he prices; Fenn/Mara enumerate-as-mirror). His loud debt-naming is seeded as a danger vector tying to the legate's reach."
+    needs_review: false
+
+  factors-wool-clerk:
+    canonical_name: "the factor's wool-clerk"
+    aliases: ["the clerk", "the weasel (Drusus's word)"]
+    importance: minor
+    status: "alive, ~AD 70; Corinthian; the factor's tally-clerk"
+    physical:
+      description: { value: "a narrow young man with ink-stained fingers", source: "ch-08:p79" }
+    traits:
+      - { trait: "adversarial / condescending — did not offer Mara the stool; the patient smile of a man explaining a simple thing to a woman", source: "ch-08:p91", mutable: false }
+    relationships:
+      mara-reyes:
+        type: "ran the steelyard tally Mara reconciled against him"
+        established: "ch-08:p79"
+        current_status: "ch-08: called weights fast before the beam settled ('off by a hair in the factor's favour'); Mara let the beam settle, marked true, left a margin note without accusing; he conceded by silence ('said nothing, which was the most respectful thing he had it in him to say')"
+    location_log:
+      - { chapter: 8, location: "Valens's mule-yard (board set on trestles under the eaves)", scene: "the wool consignment tally / steelyard reconciliation", travel_noted: false }
+    arc_notes: "New Ch.8 minor. The trial's adversary. Mara's 'a margin note is a mirror and an accusation is a wall' beat."
+    needs_review: false
+
+  legate-agent:
+    canonical_name: "the legate's agent (the ordinary man)"
+    aliases: ["the ordinary man", "the man in the good cloak"]
+    importance: supporting
+    status: "alive, ~AD 70; a deliberately ordinary traveller — the legate's reach made physical"
+    physical:
+      description: { value: "deliberately ordinary, 'refuses to be more than ordinary'; middle years; a good road-dusted traveller's cloak (Campanian weave, southern not local); rode a hired (not owned) mule", source: "ch-08:p183" }
+    traits:
+      - { trait: "careful townsman's speech, 'saying less than he knows'; framed a hunt as small talk — asked lightly, and 'light was the tell'", source: "ch-08:p183", mutable: false }
+    relationships:
+      valens:
+        type: "came asking after Valens by his old fighting profession"
+        established: "ch-08:p187"
+        current_status: "ch-08: asked after 'a fighting man from the south, went by a fighting name'; framed it as 'an old debt, a household I served'; Valens denied him ('I'd not know him'); man arranged passage for 'day after tomorrow' then rode back UP the valley the WRONG way (not toward Kirrha as he'd claimed)"
+    location_log:
+      - { chapter: 8, location: "Valens's mule-yard (came on the ninth day, afternoon)", scene: "posed as a hirer wanting passage to Kirrha/Corinth; asked after the fighting man; rode back up-valley the wrong way", travel_noted: true }
+    knowledge:
+      - { fact: "confirmed a big scarred Roman fighting-man came up from the south a few years back and can be found near Delphi (Valens denied being him, but the agent 'didn't suppose' otherwise)", learned: "ch-08:p187", method: "discovered (asking down the valley)" }
+    arc_notes: "New Ch.8 character — the legate's reach seeded PHYSICALLY on the page (the faction's pursuit is now active, not just rumour). Valens: 'He'll not be the last.' The wrong-direction departure marks him as not a real hirer."
+    needs_review: false
 
   corinthian-trader:
     canonical_name: "the Corinthian trader"
@@ -562,6 +650,11 @@ timeline:
     season: "late winter -> early spring"
     year: "~AD 70 (spring)"
     note: "Widow cover built 'over three nights'; Mara to return to the yard 'in three days'. Krisa-widow backstory dated 'two springs back'."
+  - chapter: 8
+    time: "~9-10 days at Valens's yard in early spring: return on day 3, Drusus arrives day 5, the consignment day 6, the legate's agent on day 9, the 'yes' that evening; ends with Mara climbing 3 miles home to Kallia's at night"
+    season: "early spring"
+    year: "~AD 70 (spring)"
+    note: "Departure for Delphi set 'day after tomorrow, before light'. Continuous with Ch.7's 'return to the yard in three days'. Festival day at the sanctuary is coming (the trade week up top)."
 
 objects:
 
@@ -667,7 +760,9 @@ organizations:
     aliases: ["a great man's household, a woman's name in it"]
     facts:
       - { fact: "the 'scandal down south' that ruined Valens and drove him to hide in the hills as a freedman", source: "ch-07:p87" }
-    note: "Per canon the provincial legate's faction becomes antagonist-force #4 (via Sabina) in later movements; on-page in Ch.7 only as vague rumour."
+      - { fact: "the faction's pursuit is now ACTIVE and PHYSICAL: an agent (deliberately ordinary, good Campanian-weave cloak, hired mule) came to Valens's yard on the ninth day asking after 'a fighting man from the south, went by a fighting name', framing it as 'an old debt, a household I served', then rode back UP the valley the wrong way (not toward Kirrha as claimed)", source: "ch-08:p187" }
+      - { fact: "Valens's reaction: stillness; hands worked the mule's lead-rope buckle then went 'open and still'; his line 'He'll not be the last'", source: "ch-08:p201" }
+    note: "Per canon the provincial legate's faction becomes antagonist-force #4 (via Sabina) in later movements. As of Ch.8 the reach is no longer just rumour — an agent has physically come asking. See character legate-agent. Possible danger-vector convergence: Drusus names his creditor loudly up and down the valley (ch-08:p203, Mara notes it) — tracked, not resolved."
 
   factors-wool-party:
     canonical_name: "the factor's wool party (from Corinth)"

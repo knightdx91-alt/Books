@@ -318,3 +318,26 @@ outline? (Not touched here — scene placement is an author call.)
 **NEXT: still Chapter 8 "Earning the Yes"** (unchanged by v3 — Movement II is intact). Negotiation +
 caper collage; Mara makes herself useful to Valens's trade; Drusus introduced; grudging conditional
 passage; the legate's reach seeded.
+
+## RESUME HERE (2026-07-14) — Ch.8 FINAL, next is Ch.9
+
+**Ch.8 "Earning the Yes" is FINAL** — 7,913w (target 7,900). Genesis **Floor 8.5 / Avg 8.61 /
+Casual 8.7 / CVI-Launch 8.9**. Movement II negotiation + competence-as-courtship. Beats delivered:
+Mara reads a doctored horse's teeth cold at the rail and makes herself useful to Valens's trade;
+**Drusus introduced** (worldview-through-cost — "grief's cheap; it's the carrying charge that ruins
+a man"); the wool-clerk manifest audit (margin-note-as-mirror); a grudging **conditional yes** won
+over a week; the **legate's reach seeded** through his townsman agent. Anchor: Valens turning the
+horse's lip up with his own thumb to read what she'd read, and saying nothing.
+
+**Process note:** the first orchestrator run died mid-pipeline on a session usage limit (draft only,
+7,532w, un-evaluated). Resumed from that draft — closed the word gap with an added beat (NOT padding),
+ran the self-pass chain + disruptor + evaluator.
+
+**One eval regression, FIXED post-eval:** retrospective significance-tagging came in over the ≤2/ch
+hard gate (6 instances → Prose capped 8.5). Trimmed to 1 (kept only the load-bearing "the years we
+were given"), restoring the Prose ceiling. This is the SAME comfort-move flagged in Ch.7 — it is now
+the pipeline's default significance tic. **WATCH for Ch.9: hold significance-tags to ≤1; let objects
+carry the weight. Keep varying anaphora triads.** Gates all clean (em-dash 1, simile 1.1/1k, repeated
+-phrase clean). ALLOWLIST += "nothing to me either way" (Valens's Ch.7 lie, thrown back).
+
+**Next: Ch.9** — see outline.md Movement II.
