@@ -245,32 +245,32 @@ sworn to protect her and someone let him hang is worse. Children (author-fixed):
 
 - **Ch.1 (grief):** Anchor — her father's reading glasses, folded, *click*, still in the desk
   drawer she's clearing. **Surprise:** she laughs at the wrong line in his obituary draft.
-- **Ch.6 (crossing):** Anchor — the modern world's *sound* cutting out the instant she steps
+- **Ch.4–5 (crossing/landing):** Anchor — the modern world's *sound* cutting out the instant she steps
   through; the silence has a texture. **Surprise:** her first thought in 70 AD is about her bladder,
   not wonder.
-- **Ch.12 (the Oracle):** Anchor — "I can tell you the door. I will not tell you the hour." The
+- **Ch.10 (the Oracle):** Anchor — "I can tell you the door. I will not tell you the hour." The
   Pythia mending a cat's torn ear while she damns Mara. **Surprise:** the prophecy is delivered flat,
   bored, mid-chore.
-- **Ch.24 (marriage, midpoint):** Anchor — Valens re-tying her sandal at the wedding because his
+- **Ch.13 (marriage — Movement hinge):** Anchor — Valens re-tying her sandal at the wedding because his
   hands need a knot to survive being this happy. **Surprise:** Mara thinks about bread.
-- **Ch.36 (the WHEN / family can't pass):** Anchor — Fenn's flat old voice: "It only ever opens
+- **Ch.29 (the reveal — family can't pass):** Anchor — Fenn's flat old voice: "It only ever opens
   for the one it brought. I have tested it more years than you've been alive." **Surprise:** he says
   it kindly, eating soup.
-- **Ch.38 (eruption onset):** Anchor — ash on the children's eyelashes; Aelia thinks it's snow and
+- **Ch.31 (eruption in full):** Anchor — ash on the children's eyelashes; Aelia thinks it's snow and
   is delighted. **Surprise:** delight, where there should be terror.
-- **Ch.41 (the choice):** Anchor — *the door, open, the light of the late-1990s on one side and her
+- **Ch.33 (the choice):** Anchor — *the door, open, the light of the late-1990s on one side and her
   daughter's hand on the other; she drops the camera and the slides and lifts the child instead.*
   Earned by every smaller "two things you can't both keep" beat seeded throughout.
-- **Ch.45 (the last image — 79 AD):** Anchor — the family in the dark of the shelter, a re-tied
-  sandal, the *click*; the book's final beat lands in the ash, NOT in any modern frame.
+- **Ch.34→36 (the last ordinary hour → the last image — 79 AD):** Anchor — the family in the dark of the
+  shelter, a re-tied sandal (Ch.34), the *click*; the book's final beat (Ch.36) lands in the ash, NOT in any modern frame.
 
 ### 4b. SHAREABLE MOMENTS (mapped ~every 6 chapters)
-1. (Ch.6) "She followed a map to a dead library and walked into a living world."
-2. (Ch.12) "The Oracle tells her where the door home is — but refuses to say *when* it opens."
-3. (Ch.18–24) "She marries the gladiator the empire tried to erase."
-4. (Ch.36) "The way home only works for the one it brought. Her husband and children can never pass."
-5. (Ch.38) "Vesuvius starts to erupt the same week the door finally opens."
-6. (Ch.41) "She has one minute and two worlds and can only keep one — and she lets the door close."
+1. (Ch.5) "She followed a map to a dead library and walked into a living world."
+2. (Ch.10) "The Oracle tells her where the door home is — but refuses to say *when* it opens."
+3. (Ch.7–13) "She marries the gladiator the empire tried to erase."
+4. (Ch.29) "The way home only works for the one it brought. Her husband and children can never pass."
+5. (Ch.29–31) "Vesuvius starts to erupt the same week the door finally opens."
+6. (Ch.33) "She has one minute and two worlds and can only keep one — and she lets the door close."
 
 ### 4c. EMOTIONAL RESIDUE (designed backward from the ending)
 The reader, ten minutes after the last page, should be **unable to decide whether she chose
@@ -296,7 +296,7 @@ the lived memory of her years in the past, not a 20th-century survivor looking b
 ### 4d. CULTURAL VOCABULARY
 **"The one it brought."** The law of the door, stated by Fenn, then by Mara, then carved (re-read)
 into the lintel where she first crossed. By the end the reader should use it for any door that only
-opens one way. Introduced Ch.36; reinforced Ch.40, Ch.41, final (Ch.45).
+opens one way. Introduced Ch.29; reinforced Ch.32, Ch.33; final (Ch.36). (Seeded far earlier in Fenn's notes — journal #3 at Ch.10, the long letter at Ch.18 — before it is stated plainly at the Ch.29 reveal.)
 
 ### 4e. IDENTITY EFFECT
 Designed beat ~every 6 chapters that lets the reader feel: *"I am someone who would have stayed"* —
@@ -304,19 +304,19 @@ or, more honestly, *"I am brave enough to admit I don't know if I would."* The b
 reader's capacity for love at cost, not their cleverness.
 
 ### 4f. RE-READ ARCHITECTURE (seeds)
-1. **The Oracle's Ch.12 line** ("you will lose nothing you keep, and keep nothing you can carry")
+1. **The Oracle's Ch.10 line** ("you will lose nothing you keep, and keep nothing you can carry")
    reads as riddle-noise first time; second time it is the *exact* law of the door — she warned her.
 2. **Fenn's marginalia in Ch.2** ("the map is honest, the door is not") is dismissed as a crank's
-   note; post-Ch.36 it is the whole tragedy in six words.
+   note; post-Ch.29 it is the whole tragedy in six words.
 3. **Valens's hands find a task** (a knot, a strap) whenever they're all together and feeling rises —
-   Ch.11 onward; on re-read it's a man who calms himself by securing things, and the loss lands when his
+   Ch.7 onward; on re-read it's a man who calms himself by securing things, and the loss lands when his
    hands have nothing left to tie. (REVISED 2026-07-11 — was "Valens counts the children"; the counting
    device is spent in another of the author's books and overlapped Drusus, so it's cut everywhere.)
-4. **Mara's undeveloped film roll & her father's slides** carried as relics; in Ch.32 she realizes
+4. **Mara's undeveloped film roll & her father's slides** carried as relics; in Ch.26 she realizes
    her field notebook already holds the dig-season dates her father chased — and the door's date
    matches a date she'd written down years before in her own century. She's been carrying the WHEN in
    her kit the whole book. (1990s-correct: a notebook + a wristwatch + an exposure log, not a phone.)
-5. **Aelia's "snow"** (Ch.38) — first read: a child's sweetness in horror. Re-read: the reader knows
+5. **Aelia's "snow"** (Ch.31) — first read: a child's sweetness in horror. Re-read: the reader knows
    from page one (history) it was always going to be snow that wasn't snow.
 
 ---
@@ -340,7 +340,7 @@ reader's capacity for love at cost, not their cleverness.
 
 **Ash / preservation** (the cruel irony motif)
 - First: dust on museum artifacts, Ch.1. Evolution: the conservator who preserves the dead becomes the
-  *preserved* — Pompeii's ash is the ultimate conservation. Final (Ch.45): she ends as the thing she
+  *preserved* — Pompeii's ash is the ultimate conservation. Final (Ch.35): she ends as the thing she
   catalogued, rendered ENTIRELY in 79 AD — the ash falling on the family in the dark, not a modern
   excavator's trowel uncovering them. The reader supplies the future irony; the page never leaves the past.
 - Theme link: to be remembered and to be alive are not the same; she chose alive.
@@ -379,9 +379,9 @@ to narrate straight.
 **Device:** **Fenn's documents** (epistolary inserts) — map marginalia, journal fragments, one long
 letter — set between certain chapters, ≤500 words each.
 **Function:** Carries the mystery and the dread the first-person present can't see; lets the reader
-know things Mara doesn't (the doors' law is foreshadowed in his notes long before Ch.36).
-**Frequency:** ~6 inserts total, at act seams (after Ch.2, 6, 12, 24, 30, 36). Not every chapter.
-**Quality target — REVEAL:** each insert must say something the narrative did NOT — by Ch.36 the
+know things Mara doesn't (the doors' law is foreshadowed in his notes long before Ch.29).
+**Frequency:** ~6–7 inserts total, at seams (after Ch.2, 5, 10, 14, 18, 24, 29 — v3 numbering; incl. the v3 Ch.14 reader-ahead fragment). Not every chapter.
+**Quality target — REVEAL:** each insert must say something the narrative did NOT — by Ch.29 the
 reader who's been reading Fenn's notes has half-assembled the law of the door before Mara hears it,
 turning the reveal into confirmation-dread rather than surprise. (If an insert merely re-states the
 chapter, cut it.)

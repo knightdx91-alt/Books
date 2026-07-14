@@ -70,7 +70,7 @@ The loom was the worst of it and the making of me. It stood against the wall, th
 
 "Then the loom will teach you," she said. "It is a good teacher. It has taught worse than you." And she left me to it, without another word, and went back to her own work, and I did the one true thing, and then it again, and then again, and somewhere in the doing of it my clever ruined hands began, at last, to learn.
 
-There is a particular humiliation in being forty years an expert at one thing and six weeks a fumbling child at everything. I felt it daily, the scholar reduced to a slow pair of hands, and I will be honest that it galled me. Some evenings I sat at the loom with my ruined fingers and hated the wool, and hated the goat, and hated, for one black hour, the kindly hard old woman who would not let me be the clever thing I had spent my whole life being. Then it would pass. The alternative to learning was dying, and I am, whatever else, a survivor, and a survivor learns the loom.
+There is a particular humiliation in being forty years an expert at one thing and six weeks a fumbling child at everything. I felt it daily, the scholar reduced to a slow pair of hands, and it galled me past the telling of it. Some evenings I sat at the loom with my ruined fingers and hated the wool, and hated the goat, and hated, for one black hour, the kindly hard old woman who would not let me be the clever thing I had spent my whole life being. Then it would pass. The alternative to learning was dying, and I am, whatever else, a survivor, and a survivor learns the loom.
 
 My clothes changed by degrees, one honest object at a time, the way I had known on the mountain they would. The impossible trousers went up the hill under the cairn with the buried jacket. I put on a coarse thing of Kallia's, a sleeveless tunic pinned at the shoulders and belted, and over it, as the weather cooled, a rough mantle. I kept the boots. God help me, I kept the boots, hidden under the hem, my one indulgence, my one refusal. A woman can lose everything and still keep one small mutiny, and mine was footwear.
 
@@ -154,7 +154,7 @@ He came up the road in the last good weather before the wet closed in, an old ma
 
 I stood there with the jug going cold in my hand, and something in me had gone very still.
 
-Because I had a question. I had the largest question a human creature had ever carried up that road, and here was an old man telling me, over a pot, that there was a place, a walk of a morning from where I stood, where the god still troubled to answer, where a woman went down into a cleft in the rock and came up with the true thing folded small. I did not believe in the god. I want to be clear that the modern woman in me did not, for one instant, believe that a priestess breathing a vapour in a cave could know anything of doors through time or the way back to a life nineteen centuries off. But I had also not believed, on an English headland, that a compass could turn in circles pointing at a north below the world, and I had knelt and watched it do exactly that, and I had learned, at great cost, to distrust the confident *cannot* as much as the confident *is.*
+Because I had a question. I had the largest question a human creature had ever carried up that road, and here was an old man telling me, over a pot, that there was a place, a walk of a morning from where I stood, where the god still troubled to answer, where a woman went down into a cleft in the rock and came up with the true thing folded small. I did not believe in the god. The modern woman in me did not, for one instant, believe that a priestess breathing a vapour in a cave could know anything of doors through time or the way back to a life nineteen centuries off. But I had also not believed, on a headland at the edge of the world, that a compass could turn in circles pointing at a north below the world, and I had knelt and watched it do exactly that, and I had learned, at great cost, to distrust the confident *cannot* as much as the confident *is.*
 
 "Does he answer anything," I said, and I heard my own voice come out lower than I meant it. "Or only the ordinary stones. Inheritances. Grandsons."
 
@@ -170,7 +170,7 @@ I did not sleep well that night either. But it was a different not-sleeping. The
 
 I thought, in my ignorance, that the language and the loom and the scarf were the whole of the wall between me and Pompeii. I thought that once I could pass, I could go. I was wrong, and Kallia showed me how wrong, and she did it without meaning to, over a pot, on an ordinary evening. It was the worst hour of my early exile, because it was the hour the true size of the thing came clear.
 
-I had asked her, carefully, in my improving Greek, how a person went from here to Italy. To the bay below the smoking mountain, I said; I had a thing I must do there. I meant it lightly, a traveller's question. She set down her spoon and looked at me as though I had asked the way to the moon.
+I had asked her, carefully, in my improving Greek, how a person went from here to Italy. To the bay in the south, I said, under its mountain; I had a thing I must do there. I meant it lightly, a traveller's question. She set down her spoon and looked at me as though I had asked the way to the moon.
 
 "A person," she said. "What person."
 
@@ -196,7 +196,7 @@ I sat with that. I had known it as history. I had lectured on it, in a warm room
 
 "Good." She picked the spoon back up. "A woman who knows the size of her mountain has already walked the worst mile of it."
 
-She got the proverb wrong, of course. The real one is grimmer and offers no such comfort. But she made it mean what I needed it to mean, and I have thought since that this was her whole genius and her whole kindness: that she took the hard sayings of a hard people and bent them, one word, toward mercy, and handed them to you as if they had always said the gentler thing.
+She got the proverb wrong, of course. The real one is grimmer and offers no such comfort. But she made it mean what I needed it to mean, and I took the comfort and asked no questions of it.
 
 ---
 
@@ -212,7 +212,7 @@ I had never asked. I had a shut drawer of my own, a whole life away, and I knew 
 
 "Yes," I said. Because there was nothing else to say, and because it was the kindness she was asking for. The agreement. Not the truth.
 
-"A lit lamp," she said, "wastes no oil it wasn't going to burn." Which is not the proverb. Which means nothing. Which meant everything. She got up and filled the lamp though it was already full, and set it back in the window against the rain.
+"A lit lamp," she said, "wastes no oil it wasn't going to burn." It was not any proverb I could find the true shape of, and it meant nothing, and it meant everything. She got up and filled the lamp though it was already full, and set it back in the window against the rain.
 
 I thought of a drawer that stuck, and a small plastic sound below language, and a date written at the head of a page. "I had a father," I said, to the fire, not to her, because it was easier said to the fire. "I keep— there are things of his I cannot make myself put away. A drawer I cannot open and cannot empty."
 
@@ -250,9 +250,9 @@ If I needed a man's name to cross the world, I would have to acquire one, by wha
 
 And I would need coin, which meant work, real work, more than a widow's keep at an inn. And I would need, first, before any of it, the one road out of these mountains that a woman might buy her way onto, and the man who ran it. I had already heard the shape of him in the inn's talk, without knowing I was gathering it. A Roman, a freedman, scarred, who ran mules and horses down to the coast and back, and was said to be honest, or at least too dangerous to cheat, and who trusted no one and helped no one, and had once, on the road below the sanctuary, called off two men who meant me harm without troubling to look at my face.
 
-I lay in the dark and turned him over, the big scarred wall of a man, and I thought of him as nothing but a door. That is all he was to me then: the first door in the long chain of doors between a byre in Delphi and a threshold under a mountain in Italy. I have laughed since, in the years after, in the good years and even at the end, at how completely I misjudged the door. At the woman lying in the straw costing out a cold transaction with a man she thought was a means. I have wished, more than once, that I could reach back down the whole length of time and tell that frightened planning woman in the goat-dark the one thing she needed and would not have believed: that he was not the door. He was the reason she would not want to leave the room.
+I lay in the dark and turned him over, the big scarred wall of a man, and I thought of him as nothing but a door. That is all he was to me then: the first door in the long chain of doors between a byre in Delphi and a threshold under a mountain in Italy. I have laughed since at how completely I misjudged him. At the woman lying in the straw costing out a cold transaction with a man she had decided was a means, a thing to be used and left behind, the first in a chain of things between her and home. I would not go back and tell her, even if the length of time would let me reach into the goat-dark and try. She had a mountain to climb and needed the cold arithmetic more than she needed the truth, and I owe her the dignity of her ignorance.
 
-But she had a mountain to climb and no time for the truth, and I owe her the dignity of her ignorance. So I will let her lie there in the straw doing her sums. I will let the rain come down, and the one faithful lamp burn in the window for a boy at the edge of the world, and the morning, which was coming, which always came, bring the first hard step of the rest of it.
+So I will let her lie there in the straw doing her sums. I will let the rain come down, and the one faithful lamp burn in the window for a boy at the edge of the world, and the morning, which was coming, which always came, bring the first hard step of the rest of it.
 
 In the morning I asked Kallia where a woman might find honest work that paid in coin and not in keep. She looked at me a long moment, and something moved behind her eyes. Approval, maybe. Or recognition. Or only the plain acknowledgement of a fellow creature who had decided to climb rather than lie down.
 

@@ -34,6 +34,8 @@ She hadn't seen it. She was checking her mirror, pulling them back onto the road
 
 "Anna." She said it the way you'd set a cup down. Not offered. Just put where he could reach it.
 
+Outside the window the county unrolled the same as it had for an hour, and he let it. A grain elevator stood up out of nothing and got big and got small again. A dog ran a fence line for the length of a field like it had somewhere to be at the end of the wire and then stopped when the wire did, the way they always did, having forgotten the whole point of it. He'd learned to let a landscape be its own errand and not his. It asked nothing. It was the easiest company he had.
+
 ---
 
 They drove a while without deciding to talk. That suited him. He'd gotten good at riding in other people's cars — you learned the geography of a stranger's front seat fast, where to put your eyes, how to be a shape that wasn't a burden. He kept his eyes on the fields. Corn, mostly, and then not corn, and then a long low run of pasture with cattle standing in it the way cattle stood, like they'd been switched off and left there. One of them had its head through the fence and was eating on the other side, which was the same grass.
@@ -76,6 +78,8 @@ The diner was terrible. She'd been honest about that.
 
 It sat at a crossroads with a gravel lot and a sign missing two letters, and inside it smelled like a griddle that had been going since before either of them was born. There were four stools and a row of booths with the vinyl split on the seats and taped, and behind the counter a boy of maybe nineteen straightened up when Anna came in like a plant turning to a window.
 
+Two of the booths were taken. In the far one an old man sat with a newspaper folded down to a quarter of itself and a cup he wasn't drinking, his white hair pulled back in a tail and a leather vest on him in a diner that wasn't cold, a man who'd settled a long time ago on what he looked like and had stopped revisiting the question. Nearer the window a young woman worked at a laptop with a stripe of green dyed into the hair along one side of her face, glancing up every so often at a television bolted in the corner with the sound off, reading the weather crawl and going back down into whatever she was building. Neither of them looked up when the door went. It was that kind of place, the kind where the people had come to an understanding about not being curious, and Xavier, who lived most of his life inside that understanding, felt the give of it in his shoulders before he was all the way into the booth.
+
 "Anna," the boy said, and then couldn't think of the next word.
 
 "Marcus." She slid into a booth and Xavier took the other side, and the boy came around with two laminated menus and set them down and stood there with his order pad like he was waiting to be told he could exist.
@@ -100,7 +104,17 @@ He almost laughed.
 
 The almost came up out of nowhere and got as far as his throat, and he caught it there, and the catching scared him worse than the road had, worse than the standing. Three years he'd been careful with himself the way you're careful with a bad tooth, learning where not to press. And here was this stranger's front seat, this terrible diner, this boy named Marcus, and his own throat trying to do a thing it hadn't tried in a long time, and he shut it down and looked at the table.
 
-There was a jukebox in the corner, dead, unplugged, the cord looped over the top of it. There'd been a song. Years ago, some diner like this one, a song had been on, and he could get everything about it — the booth, the sun through the blinds in bars across the table, Selena's foot hooked over his under it — everything except the song. The name of it sat just past where he could reach. He worked at it while Anna talked about the town and he made the sounds a person makes, and he never did get the song, and it bothered him for reasons that had nothing to do with music.
+There was a jukebox in the corner, dead, unplugged, the cord looped over the top of it. There'd been a song. Years ago, some diner like this one, a song had been on, and he could get everything about it — the booth, the sun through the blinds in bars across the table, Selena's foot hooked over his under it — everything except the song. The name of it sat just past where he could reach.
+
+"That one's Del," Anna said, not looking at the old man with the paper, when Xavier's eyes went that way a second time. "He rode with people you'd have heard of, if you're the kind who's heard of anybody. Now he does the crossword in ink and won't give up an answer to save your life. And the girl's building something on that computer that's going to make her rich or get her sued, and she won't say which, which is how you know she doesn't know yet either." She laid it out flat, the way you'd read a map to a man just passing over the country, no warmth spent on it and none held back. "Everybody in here is one long story that started before you walked in and'll keep on after you leave. Don't let the quiet fool you into thinking there's nothing going on."
+
+"You know all of them."
+
+"I know most of everybody." She turned her cup a quarter turn on the table and didn't say how she'd come to, and he noticed that she didn't, and set it with the growing pile of things she was steering around.
+
+Marcus came back too soon, before the food could have been ready, carrying the coffeepot for an excuse. He topped off a cup that hadn't asked for it and stood a beat too long hunting a reason to keep standing there, and Anna handed him one — "How's your mother getting on, Marcus?" — and the boy lit up and told her, at length, and it cost her nothing and made his whole shift, and Xavier watched her do it and understood he was being shown a thing without being told that he was being shown it.
+
+He worked at the song while she talked, and made the sounds a person makes, and never did get it, and it bothered him for reasons that had nothing to do with music.
 
 ---
 
@@ -155,5 +169,11 @@ Then she was a pair of taillights going down the long block and turning off it, 
 He made himself for two out of habit before he remembered. He'd have told her — Selena — about the woman on the road, the whole strange delivered evening, done the voices, gotten it a little wrong on purpose because she liked catching him at it. He got as far as opening the door of that in his head and then shut it, the way you shut a door on a cold room.
 
 The light in the store window was the color of butter and somebody was moving around behind it, closing up.
+
+He didn't go to the door right away.
+
+There was a thing he knew how to do, standing on a sidewalk at dusk in a town he'd never heard of with a bag in his hand, and the thing was to turn around. The block ran back the way the taillights had gone, and past that to the county road, and past that to everywhere, and not one foot of it would ask him a single question. He could be gone before the light behind the glass finished closing up. Nobody in there knew his name yet. This was the last minute that would be true, and some part of him stood inside it a little longer than the minute needed, the way you stand in a doorway you haven't decided about, the warm room on one side and the cold on the other, knowing the cold at least never expected anything back.
+
+The woman on the road had known which one he'd pick. Sitting there popping his door, telling him to suit himself — she'd already run this part in her head and come out the other side of it sure. He was beginning to think she'd been sure before he was.
 
 He went to the screen door and knocked.

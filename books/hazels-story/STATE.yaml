@@ -6,7 +6,7 @@ project:
   word_count_target: 90000
   comp_titles: ["Kate Daniels (Ilona Andrews)", "Mercy Thompson (Patricia Briggs)", "Rivers of London (Ben Aaronovitch)"]
   engagement_type: {primary: "self_insertion", secondary: "empathy", tertiary: "fascination"}
-  premise: "Chasing a stranger who looks maddeningly familiar, college runner Hazel tackles him straight through a shadow — landing on another street entirely, and inside a hidden world she was never supposed to see."
+  premise: "Chasing a stranger who looks maddeningly familiar, college runner Hazel tackles him straight through a shadow — and out of a shadow in a parallel world, awakening the latent shadow-blood that let her cross and pulling her into a universe she was never supposed to reach."
   created: "2026-07-13"
   updated: "2026-07-13"
 
@@ -33,7 +33,7 @@ word_floor:
 
 phase:
   current: 1
-  status: "source staged — research/source-notes.md (~1.8KB, one page of opening prose: Hazel, shadow-jumping chase) present; READY for architect pass. Not yet blueprinted. (Separate story from Saeren per author — do NOT merge.)"
+  status: "SPINE DEVELOPED & LOCKED (2026-07-13) — author decisions recorded in research/source-notes.md (DEVELOPED SPINE section): shadows = crossings between PARALLEL WORLDS; only the rare shadow-blooded can cross; NO magic cost/no predators (stakes load onto destination-world conflict + Hazel's-origin mystery, per binding design note); Hazel = latent shadow-blood (changing eyes = the tell), awakened by tackling the walker through a shadow; the walker = shadow-blooded parallel-world native, romantic co-lead, slow-burn. READY for architect pass. Architect NOT yet run. Still open (architect to propose): parallel world + central conflict, why Hazel was in our world, walker's name, series-vs-standalone, title, antagonist. (Separate story from Saeren; differentiate shadow mechanic from Shadow God — do NOT merge either.)"
   history: []
 
 chapters:
@@ -54,12 +54,20 @@ guardrails:
   - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
   - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
-  - "Shadow-travel magic (people who 'stick' to and step between shadows). MC Hazel (changeable hazel eyes, ex-track). KEEP SEPARATE from the Saeren 'Hazel Academy' universe — shared name only, different story."
+  - "MC Hazel: college runner (ex-track), changeable hazel eyes = outward tell of LATENT shadow-blood (she doesn't know). Awakens her crossing ability by tackling the walker through a shadow."
+  - "CANON (author, 2026-07-13): shadows are crossing-points between PARALLEL WORLDS (not a hidden society inside our world). Only the rare SHADOW-BLOODED can cross."
+  - "CANON (author, 2026-07-13): shadow-travel has NO cost and NO predators/danger in the dark — crossing is clean/safe; the only gate is rarity of the ability. BINDING DESIGN NOTE for architect: load all stakes onto the destination-world conflict + the mystery of Hazel's origin; do NOT invent a hidden magic cost to manufacture tension."
+  - "CANON (author, 2026-07-13): the shadow-walker is the ROMANTIC LEAD — slow-burn co-lead, strong B-plot braided with the mystery (Kate Daniels texture), not the sole engine. He looks 'familiar' because shadow-blood recognizes shadow-blood."
+  - "KEEP SEPARATE from the Saeren 'Hazel Academy' universe — shared name only, different story. DIFFERENTIATE the shadow mechanic from Shadow God (that book = shadow as god-bloodline domain; THIS book = shadow as parallel-world crossings) — no shared vocabulary/mechanics."
 
 open_author_decisions:
-  - "Who is the shadow-walker and what world does he open? Define the hidden society."
-  - "Set the magic's rules and limits for shadow-travel."
+  - "(architect to PROPOSE, author to ratify) The parallel world: nature, culture, and the CENTRAL CONFLICT that gives the book teeth."
+  - "(architect to PROPOSE) Why Hazel — latent shadow-blood — was living in our world at all (lost native? child of a crosser? hidden on purpose?). The mystery engine."
+  - "(architect to PROPOSE) The shadow-walker's name and what brought him across."
+  - "(architect to PROPOSE) Series vs standalone; final title (keep 'Hazel's Story' as working title)."
+  - "(architect to PROPOSE) The antagonist force."
 
 decisions:
   - "This book is a folder-per-book genesis project under book/genesis/<slug>/."
+  - "2026-07-13 (author): shadows = parallel-world crossings; Hazel = latent shadow-blood; no magic cost (stakes from plot, not mechanic); shadow-walker = slow-burn romantic co-lead. Spine locked; architect-ready."
 revision_cycles: 0

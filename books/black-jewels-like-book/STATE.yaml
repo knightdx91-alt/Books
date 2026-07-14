@@ -6,7 +6,7 @@ project:
   word_count_target: 100000
   comp_titles: ["The Black Jewels Trilogy (Anne Bishop)", "Mistborn (Brandon Sanderson)", "Shadow and Bone (Leigh Bardugo)"]
   engagement_type: {primary: "fascination (rank/gem system)", secondary: "self_insertion (orphan rises)", tertiary: "empathy"}
-  premise: "A one-rank orphan doing his army dedication alone at a backwater shrine is gifted a forbidden fourth gem by a disguised goddess, and must hide his true rank as a prophecy — and the hunters chasing high-rank bearers — close in."
+  premise: "A one-rank orphan, dedicating alone at a backwater shrine because no house will sponsor him at the great temple, is gifted a forbidden fourth gem by a disguised goddess. He must hide TWO secrets from TWO predators — a Church/Crown that outlaws his true 3rd (Trinity) rank, and a hidden faction that harvests high-rank bearers behind the cover of that very taboo — while a prophecy names his chest-borne 4th gem as the uniter-King who could end them both."
   created: "2026-07-13"
   updated: "2026-07-13"
 
@@ -33,7 +33,7 @@ word_floor:
 
 phase:
   current: 1
-  status: "source staged — research/source-notes.md (~2.8KB, premise + gem/rank worldbuilding notes; no prose drafted) present; READY for architect pass. Not yet blueprinted. (Separate story from Sygl per author — do NOT merge.)"
+  status: "source staged + CORE DECISIONS LOCKED (2026-07-13): central conflict (taboo+hunted as one system), 4th gem (chest/uniter-King), age reconciliation, Bishop-distinctiveness guardrail. READY for architect pass (foundation.md + outline.md + voice-dna.md). Not yet blueprinted. (Separate story from Sygl per author — do NOT merge.)"
   history: []
 
 chapters:
@@ -55,11 +55,16 @@ guardrails:
   - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
   - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
   - "Gem-rank magic: no gem / left hand / +right hand / +forehead (Trinity is rare); the hidden 4th gem is unique to the MC. Maturity dedication at 16 (F) / 18 (M). Domains as regions. Keep distinct from Sygl's sigil system — separate story."
+  - "CENTRAL CONFLICT (locked): taboo AND hunted, as ONE system. The Church/Crown outlawed the Trinity (3rd rank) generations ago on stated grounds of piety ('no mortal should hold such power'); a hidden faction uses that prohibition as cover to HARVEST Trinity bearers for their power (a vanished Trinity reads as 'taken for illegal rank'). The taboo ENABLES the hunt — do not let the two pressures become separate/competing threads."
+  - "THE 4TH GEM (locked): sits at the CENTER OF THE CHEST (distinct from the forehead Trinity slot). Prophecy names it the uniter-'King' meant to unite the Domains against a coming threat and end the faction. Both Church and faction want him gone; a resistance would protect him. Unique to the MC; hideable from all lower ranks."
+  - "AGE reconciliation (locked): army recruits dedicate ON ENLISTMENT at 17, ahead of the civilian maturity rite (18 M / 16 F). The orphan MC has no house to sponsor him at the great temple, so he dedicates ALONE at the backwater shrine — which is why the goddess finds him solo. 'Domash' army spelling kept as-is."
+  - "DISTINCTIVENESS from Anne Bishop (hard): inspired-by only. Invent our OWN gem/color rank ladder, ceremony names, Domain names, deity/faction names. Do NOT lift Bishop's signature terms (Jewels, Blood/landen, Territories, Offering, caste, Warlord Prince, etc.). The placement-tier system (hands/forehead/chest + Domains + dedication) is already ours — keep it that way."
+  - "WORLDBUILDING LOCKED (2026-07-13): see research/worldbuilding-locked.md — the architect BUILDS ON it, does not overwrite. Two-axis magic (placement=tier / celestial grade Dawn->Dusk->Star->Void = depth). Cosmology: gems are goddess Neth's night-light in stone; she bound the titan Ossuth (First Dark) at the founding, pouring herself into the Binding, so her FADING = rarer deep-gems = weakening Binding (one fact, three faces). Faction = the Vigil (maintains the Binding by harvesting deep-gems) with rotten inner cabal the Ashen Court (hoard deep-gems to stay immortal, hastening the failure); Trinity taboo is their supply line. On-page villains stay HUMAN; Ossuth is the off-page clock. Keystone-King prophecy = unite living bearers so SHARED light renews the Binding. Theme: hoarded dying light vs shared living light. Names (Vigil/Ashen Court/Neth/Ossuth) proposed, pending final author sign-off."
 
 open_author_decisions:
-  - "Is the 3rd gem forbidden, or are high-rank bearers hunted for power? Pick the central conflict."
-  - "Confirm the 4th-gem location (forehead-center vs chest) and the prophecy's stakes."
-  - "Lock spelling of 'Domash' army."
+  - "RESOLVED 2026-07-13: central conflict = taboo AND hunted (one system); 4th gem = chest / uniter-King; age = 17 army-enlistment dedication; Domash kept. See guardrails."
+  - "Architect to propose: the gem COLOR/rank ladder (names + order), the faction's name + what they use harvested power FOR, the deity's name, and the Domain map. (Invent — keep distinct from Bishop.)"
+  - "Title (working: 'Black Jewels–like book') — pick a real title at/after the architect pass."
 
 decisions:
   - "This book is a folder-per-book genesis project under book/genesis/<slug>/."

@@ -74,6 +74,13 @@ books** (cross-book pattern rule — e.g. "counting things" is spent elsewhere a
 - **Chaos (4/4):** re-ties knots/harness-leather in tense scenes (his hands need a task to survive
   feeling); hyper-vigilant threat mind-reading (wrong in mundane ways); the smell of arena sand
   intrudes in good moments; weeps once — at his baby son mispronouncing his old arena name — and leaves the room.
+- **First live scene:** Ch.7 "The Roman With the Mules" (the mule-yard two-hander). Confirmed to this
+  card: short level declaratives; hands work a knot/strap when feeling threatens (paid at the scene's
+  peak — "nothing left to work... open and still"); understates mortal danger ("a liability with legs");
+  kindness turned sideways ("I'm sorry, which is more than I said to the last three"); withholds any
+  warmth behind the closing lie "It's nothing to me either way," told to a knot instead of to her face.
+  His refusal is protective, not cold-hearted (the Krisa widow / the poppies). Runs the yard with a boy
+  (unnamed, ~12) and a string of mules/horses outside the sanctuary road.
 - **Marriage:** marries Mara (Ch.13); children **Lucius** then **Aelia**.
 - **DISTINCTNESS GUARANTEE (no verbal tic — control & distance):** *Syntax of a man who trusts nothing
   he hasn't secured himself — short, level, declarative; subordinates rarely; understates mortal danger
@@ -214,12 +221,16 @@ books** (cross-book pattern rule — e.g. "counting things" is spent elsewhere a
   little on his own; who, in his last spring, secretly drove the coast to Verrall's shop chasing Fenn.
 
 ### PROFESSOR HALLORAN ★ — the university permit contact from the datebook [renamed from "Reyes" 2026-07-11]
-- Ch.1: the diary line "Ring Halloran back re: permit, Turkey"; Mara reaches "a tired man in a university
+- Ch.1: the diary line "Ring Halloran back re: permit, Italy"; Mara reaches "a tired man in a university
   office three time zones off" holding a survey permit for the **Campanian coast** as a favour to her
   father ("an old friend"); asks whether the family will "send anyone in his stead."
 - **Collision RESOLVED:** was originally "Reyes," which clashed with protagonist Mara **Reyes**; renamed
-  **Halloran** (author's pick) so the surname is unique. Distinct, minor off-page voice; the permit is
-  the thread that later routes Mara's survey to the Campanian coast (canon: the crossing site).
+  **Halloran** (author's pick) so the surname is unique. Distinct, minor off-page voice.
+- **CROSSING-SITE NOTE (reconciled to manuscript 2026-07-13):** the Halloran permit is the *father's
+  unfinished Campanian survey* — it seeds Mara's later in-world GOAL (the home-door lies under a mountain
+  by the Roman sea / Campania) and converges thematically with it. It is **NOT the modern crossing site.**
+  As executed in Ch.3–5, Mara crosses in **GREECE**, following **Fenn's Greek coordinates** to a seaward
+  headland, and lands at **Delphi**. Keep "crossing site = Greece; Campania = destination/goal" straight.
 
 ### THE PROVINCIAL LEGATE ◐ — Valens's former patron; Sabina's late husband
 - The powerful man whose faction framed and ruined Valens; dead by the time Sabina resurfaces, but his

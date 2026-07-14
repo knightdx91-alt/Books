@@ -42,7 +42,9 @@ Sectioned as **Movements** (dated, place-named), not "ACT ONE/TWO/THREE."
 | Crossing over (modern → 70 AD) | Ch.4 (crossing) → Ch.5 (landing) | ~6–10% |
 | The Oracle — WHERE given, WHEN withheld | Ch.10 | ~28% |
 | Movement hinge — leave Greece, marry | Ch.13 | ~39% |
+| Fenn first contact — the cautionary mirror, law of the doors (v3, WHEN withheld) | Ch.16 | ~46% |
 | Midpoint reversal — the past walks in (Sabina) | Ch.18 | ~53–57% |
+| Fenn gives the method — the WHEN on the table (v3) | Ch.20 | ~60% |
 | The cruel reveal — the door will not take them | Ch.29 | ~86% |
 | Detonation — eruption in full → the choice → ash | Ch.30–36 | ~90–100% |
 
@@ -66,7 +68,8 @@ movements and fine in the ash.
 **Length range (RECALIBRATED 2026-07-13):** **1,600w (Ch.36, the door closing) to 9,200w (the immersive peaks — Ch.11 winter, Ch.13/15/20)** — the immersive band was pulled to a uniform 7,800–9,200 to match the density Ch.5/6 actually land at (no 10–12k outliers). Longest ≈5.75× shortest; still deliberate variance, no density seam.
 Deliberate SHORT punch chapters: Ch.4 (1,800), Ch.30 (2,600), Ch.32 (3,200), Ch.36 (1,600).
 Deliberate LONG immersive chapters (RECALIBRATED — the relative peaks, now capped at ~9,200):
-Ch.11 (9,200), Ch.13 (9,200), Ch.15 (9,200), Ch.20 (9,200), Ch.27 (8,800). (Ch.6 drafted 7,532.)
+Ch.11 (9,200), Ch.13 (9,200), Ch.15 (9,200), Ch.27 (8,800). (Ch.6 drafted 7,532.)
+v3 note: old Ch.20 was a 9,200 Fenn peak; v3 SPLIT it into Ch.16 (7,000, first contact) + Ch.20 (6,500, the method), so neither is a peak now — a net ~−4,900 trim that tightens the back half.
 
 **Σ BUDGET CHECK (RECALIBRATED 2026-07-13):** the immersive band was pulled DOWN to match the
 density the finalized chapters actually land at (Ch.3/5/6 came in ~7,000–7,500 vs 9,800–10,400
@@ -76,6 +79,14 @@ unchanged. Recalibrated Σ ≈ **245,300** ≥ 220,000 hard floor by **+25,300**
 the 260k stretch — accepted, per the author LENGTH POLICY in STATE.yaml, to keep chapter density
 UNIFORM rather than open a seam mid-Greece). This is now the binding plan: write each chapter to
 its recalibrated target within ~5%.
+
+**Σ AFTER v3 RE-ARCHITECTURE (2026-07-13):** the Movement III–IV re-shape is near budget-neutral by
+design (it fixes the *engine*, not the length): the 14–27 span goes from ~106,800 to ~103,000, a net
+**~−3,800w**, so recalibrated Σ ≈ **241,500** (still ≥ 220k floor by ~+21.5k). The trim comes from
+merging the two early breathers (−8,100) and splitting the old 9,200 Fenn peak into two leaner beats
+(+4,300 across Ch.16+Ch.20). Chapter COUNT unchanged at 36; **Movement V (Ch.28–36) is untouched** —
+no renumber. If Terry later wants a bigger cut toward ~230k, the cleanest lever is the still-unwritten
+Movement II Greece courtship (~66k over 8 chapters), NOT the now-load-bearing Campania material.
 
 ---
 
@@ -141,25 +152,35 @@ Goodbye to Kallia; the voyage toward Italy; the pursuit thread tightens; to trav
 
 # MOVEMENT III — THE LIFE SHE BUILT  (Campania, ~72–78 AD · Ch.14–18 · ~39–57%)
 
+> **v3 RE-ARCHITECTURE (2026-07-13) — sag fix.** The old Movement III ran four low-tension chapters
+> (arrival → montage → breather → birth) before the first antagonist (Sabina, Ch.18), with the romance
+> already spent at the Ch.13 marriage and no clock the reader could *feel*. v3 kills that trough with
+> four moves, net ZERO chapter change (Movement V numbering unchanged): (1) a reader-ahead Fenn dread
+> fragment pulled forward to Ch.14–15 so every happy scene is shadowed for us; (2) the two early
+> breathers MERGED (old 15 "Building a Life" + old 16 "Catalogue of Small Days" → one Ch.15); (3) the
+> faction seeded PHYSICALLY in Campania at Ch.15 (a live thread, not a Ch.18 ambush); (4) Fenn's first
+> live contact brought forward from old Ch.20 to Ch.16 (partial/withholding), reinvesting the merged
+> slot. Result: only ONE pure breather survives, at Ch.22 (Aelia), where the mourn-value is highest.
+
 ## Chapter 14 — Under the Mountain  ·  8,600w  ·  *arrival panorama*
 They reach the Bay of Naples; Mara admires the "beautiful green mountain"; the door's site is located; she still doesn't know the WHEN.
-**Function:** Arrive at the deadline-place; dramatic-irony engine online. Her ease is the whole horror — do NOT let her sense doom.
+**Function:** Arrive at the deadline-place; dramatic-irony engine online. Her ease is the whole horror — do NOT let her sense doom. **[INSERT (v3): reader-ahead Fenn fragment #1 — the door-law hinted and "a mountain by the Roman sea" named, so the READER clocks the deadline-place even as Mara doesn't; + rumor seeded of a mad old Roman living out on the coast "who came from nowhere years ago" → makes finding Fenn a LIVE Movement-III quest, not a Ch.20 surprise.]**
 
-## Chapter 15 — Building a Life  ·  9,200w  ·  *domestic montage-collage (LONG IMMERSIVE)*
-Home and trade near Pompeii; the marriage quietly becomes real; Mara stops thinking about the door; pregnancy. Valens's hands-find-a-task tell — a knot/strap when feeling rises (re-read seed #3; NOT a counting tic).
-**Function:** The domestic-happiness movement the climax will destroy — made load-bearing by dwelling in it.
+## Chapter 15 — Building a Life  ·  9,200w  ·  *domestic montage-collage (LONG IMMERSIVE — absorbs old Ch.16)*
+Home and trade near Pompeii; the marriage quietly becomes real; pregnancy; the door-search set aside "for now." ABSORBS the best of the old "Catalogue of Small Days": the bread that finally *rises* since her father died (she weeps over the bread, not the pregnancy); work, friendship, near-pure happiness. Valens's hands-find-a-task tell — a knot/strap when feeling rises (re-read seed #3; NOT a counting tic).
+**Function:** The domestic-happiness movement the climax will destroy — made load-bearing by dwelling in it, but now SHADOWED (the Ch.14 Fenn fragment + this chapter's threat) so the happiness has an undertow. **[HEAT: the 2nd on-page scene — fuller, marriage warming; Mara's catalogue-brain goes quiet, Valens's control breaks (voice-dna §5).]** **[INSERT (v3): the faction seeded PHYSICALLY — a stranger passing through asks after a scarred freedman by his arena name "Lupus"; Valens goes still and works a strap to nothing; it comes to nothing yet, but the thread is now live and pulls through to Ch.18.]**
 
-## Chapter 16 — The Catalogue of Small Days  ·  8,100w  ·  *fragmented vignettes / white space (BREATHING — theme RECEDES)*
-Near-pure happiness; work, friendship, the door-search abandoned "for now"; Mara bakes the first bread that *rises* since her father died — and weeps over the bread, not the pregnancy.
-**Function:** Bank the emotional capital the ending spends. The absence of a planted threat IS the threat.
+## Chapter 16 — The Madman on the Coast  ·  7,000w  ·  *two-hander (Fenn, FIRST live contact — partial/withholding)*
+Mara tracks down the mad old Roman from the Ch.14 rumor and finds **August Fenn** — alive, old, marooned, kind, unbearably tired: the cautionary mirror of who she becomes if she never chooses. He speaks the *law of the doors* ("only the one it brought") but WITHHOLDS the WHEN-method this first time (he protects her from it, or judges her not ready). *(Brought forward from old Ch.20; split so first-contact lands mid-Movement-III and the method payoff waits for Ch.20.)*
+**Function:** Convert "find Fenn" from a late info-dump into a live mid-book mystery beat; plant the cautionary mirror and the suppressed law early so the reader carries them through the fall. Re-read seeds begin paying. **[INSERT: Fenn's marooned-life detail — the relics he can't use, the doors he's missed.]**
 
 ## Chapter 17 — Lucius  ·  7,800w  ·  *single-scene, intense*
 The birth — danger, then a son; the family becomes irreversible; Valens, who has killed men, can't hold the baby until shown how.
 **Function:** Stakes made flesh; voice-under-pressure showcase (catalogue-brain returns under birth-pain — rehearsal for the climax, used for *life* not death).
 
 ## Chapter 18 — Sabina  ·  8,600w  ·  *chronological belonging → single-scene arrival + fallout*  ·  **[MIDPOINT REVERSAL, ~53–57%]**
-Mara is fully embedded (the town knows her Roman name) when Sabina — the woman from Valens's scandal — arrives *ruined and frightened*, bringing the legate's men to Campania. *(Fuses old Ch.23 + Ch.24.)*
-**Function:** The buried backstory becomes present threat; jittered midpoint at ~55%. **[INSERT: Fenn long letter — the law of the doors stated almost plainly; reader now ahead of Mara.]**
+Mara is fully embedded (the town knows her Roman name) when Sabina — the woman from Valens's scandal — arrives *ruined and frightened*, bringing the legate's men to Campania. The Ch.15 "Lupus" rumor pays off here: the faction was always coming. *(Fuses old Ch.23 + Ch.24.)*
+**Function:** The buried backstory becomes present threat; jittered midpoint at ~55%. **[INSERT: Fenn long letter — the law of the doors stated almost plainly; reader now FULLY ahead of Mara.]**
 
 ---
 
@@ -169,17 +190,17 @@ Mara is fully embedded (the town knows her Roman name) when Sabina — the woman
 The family shelters Sabina at risk; the faction closes; Valens protects the woman who once doomed him — for Mara's sake. Mara is the one who insists.
 **Function:** Convert the love story's stakes into active danger; test his arc.
 
-## Chapter 20 — The Madman on the Coast (Fenn)  ·  9,200w  ·  *long two-hander*
-Mara finally finds August Fenn — alive, old, marooned, kind, unbearably tired — who speaks the law of the door and holds the *method* for the WHEN.
-**Function:** Mystery payoff begins; Fenn as the cautionary mirror (who she becomes if she never chooses); re-read seeds pay off. **[PROPOSAL: the WHEN-method lands the Pompeii door in late summer 79 AD; Mara does not yet finish the arithmetic.]**
+## Chapter 20 — What Fenn Knows  ·  6,500w  ·  *two-hander (Fenn, SECOND beat — the method)*
+Mara returns to Fenn (now with Sabina/the faction pressing and the door suddenly urgent); this time he gives her the *method* for the WHEN — the doors' rhythm against a temple/celestial cycle — and it lands the Pompeii door in **late summer 79 AD**. *(Second half of old Ch.20, now the payoff of the Ch.16 first contact.)*
+**Function:** Mystery payoff completes; the WHEN is now on the table. Fenn as cautionary mirror deepens (he stopped doing the arithmetic; so will she). **[He gives the means; Mara does not yet finish it.]**
 
 ## Chapter 21 — The Arithmetic She Won't Do  ·  4,600w  ·  *internal + domestic (short-ish)*
-Fenn gives Mara the means to calculate the when; she half-does it, recoils, buries the notes; Aelia coming.
+Back home with the means Fenn gave her, Mara half-does the calculation, recoils, buries the notes; Aelia coming.
 **Function:** Start the dramatic-irony clock (reader knows, Mara refuses); her completionism *fails* her — finishing means choosing.
 
-## Chapter 22 — Aelia  ·  7,800w  ·  *domestic vignettes (BREATHING — theme RECEDES)*
+## Chapter 22 — Aelia  ·  7,800w  ·  *domestic vignettes (BREATHING — theme RECEDES — the ONLY pure breather in v3)*
 Second child; the family complete; a perfect ordinary day — the high the reader will mourn; far off, the mountain steams faintly (narrator only).
-**Function:** Max the stakes; the last unshadowed joy. Aelia inherits Mara's bread-frown (re-read reward).
+**Function:** Max the stakes; the last unshadowed joy. This is now the book's SINGLE pure-breather (v3 merged the two early ones into Ch.15), placed here on purpose — closest to the fall, where banked happiness has the highest mourn-value. Aelia inherits Mara's bread-frown (re-read reward). **[HEAT: the LATE payoff — the last on-page intimacy before the dread; restraint returns after this, no heat once the eruption begins (voice-dna §5).]**
 
 ## Chapter 23 — Small Quakes  ·  5,200w  ·  *chronological domestic (short-ish)*
 Tremors begin; the family treats them as routine, jokes about a cracked wall, re-plasters.

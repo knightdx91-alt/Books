@@ -38,6 +38,11 @@ WORD = re.compile(r"[a-z']+", re.I)
 # Repeated phrases that contain any of these are ignored by the n-gram check.
 ALLOWLIST = [
     # Add THIS book's deliberate recurring motifs / canon terms here.
+    "in a way",                                  # Anna's planted fair-play coy tell
+    "i'm nobody you've met yet",                 # Anna's Ch1 button, re-heard in Ch2
+    "a green hatchback that had seen some winters",  # deliberate Ch1->Ch2 visual rhyme
+    "the color of butter",                       # Holmes General window light (recurring motif)
+    "the same way he'd fed him",                 # George's kindness-arrives-first motif
 ]
 
 # n-gram repetition settings

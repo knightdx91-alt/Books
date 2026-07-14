@@ -226,3 +226,144 @@ DEFINE-BY-NEGATION to one instance max in Mara's narration. (2) ROTATE the Kalli
 not lean on any character's device as a scene-button. (3) anaphora at top of range.** Continue the full
 MANDATORY loop; add any new named character (Valens gets his first live scene here — his bible entry
 already exists, confirm it) to character-bible.md.
+
+## RESUME HERE (2026-07-13) — Ch.7 FINAL, next is Ch.8
+
+Ch.7 "The Roman With the Mules" DRAFTED & FINALIZED (8,216w; target 8,600, -4.5%, inside the
+recalibrated 7,800-9,200 immersive band). FIRST REAL TWO-HANDER / dialogue PEAK (31.6%, in the
+28-38% Outlander band). Beats: (1) HITS THE WALL of no male guarantor, dramatized — an Amphissa
+wagoner refuses her coin ("nobody's woman"; "who comes asking if you don't arrive?"). (2) FORGES THE
+WIDOW with Kallia over three nights (Lucius Caedicius; Kallia's note "take out the wall" = don't tell
+the story you love, grief goes short and stops). (3) HEARS OF THE ORACLE — the two-lock plan: before
+buying passage south she must climb the sacred way and ask the Pythia WHERE in Italy the door home is
+(plants Ch.10; ties Ch.6 pilgrim seed). (4) THE VALENS TWO-HANDER: pitches the widow -> he reads
+through her instantly ("Go home, widow. You're not one") -> she PUTS THE STORY DOWN, tells the truth
+-> his NO is FOR HER SAKE (the Krisa widow, the poppies below Kirrha, guards were the killers) -> his
+sideways kindness: finds her a safer road (the factor's widow needs a book-keeping companion), sworn
+as "just business... nothing to me either way" (the one big lie, told to a knot). Hook = "The first
+time I met the man I would spend my life with, he told me to get off his land, and he did not look up
+from the harness." Pull = the three days / the lamp / the hope she won't say aloud.
+
+Valens rendered to bible & DISTINCT (cover-the-name PASS): short level declaratives; hands work the
+knot/strap when feeling threatens (PAID at the peak — "nothing left to work... open and still");
+understates mortal danger ("a liability with legs"); withholds love; kindness sideways. Distinct from
+Mara (spirals/questions) and Kallia (proverbs). No device bleed.
+
+The three overdue WATCH items DISCHARGED: define-by-negation cut to 0 sentence-initial instances;
+Kallia's misquoted-proverb scene-button deliberately WITHHELD at the close ("she was not misquoting
+any proverb"); anaphora held at top of range (broke one triad post-eval). Applied 2 non-blocking eval
+fixes: softened a modern-mileage leak ("twelve hundred miles" -> "half the width of the world");
+broke an "I had..." anaphora triad. Gates ALL CLEAN (style/rhythm/grammar/voice-wear; em-dash 2,
+simile 1.6/1k, long-sentence 17.3%). book-evaluator **PASS: Genesis Floor 8.5 / Avg 8.71 / Casual 8.8
+/ Prose 9.0 / Emotion 9.0 / Immersion 9.0**; no dimension <8.5, no polish loop. Eval:
+evaluations/chapter-7-eval.md.
+
+**Next: Ch.8 "Earning the Yes"** (~7,900w, negotiation + caper collage). Mara makes herself useful to
+Valens's trade; DRUSUS introduced (venal, prices everything — must NOT share Valens's silence-and-a-
+task device); a grudging conditional passage secured; the legate's reach seeded. Function: forced
+proximity, competence as courtship; Valens's yes must be EARNED, not given. **WATCH (from Ch.7 eval):
+(1) keep define-by-negation rationed (now at 0). (2) ACTIVELY VARY anaphora triads — 7-chapter
+standing habit, break at least one per chapter. (3) ration retrospective significance-tagging to
+<=1/chapter (let objects carry weight). (4) Drusus must be distinct from Valens (cost-talk worldview
+vs stoic-spare silence — NO shared counting/pricing device).** Continue the full MANDATORY loop.
+
+## BOOK-WIDE POLISH PASS (2026-07-13) — foreknowledge + performed-candor + proverb over-use
+
+Author (Terry) approved fixing the cross-chapter patterns the 7-chapter beta panels flagged. Applied
+across Ch.1-7 (finalized chapters), verified against all gates:
+
+- **Performed-candor tic rationed to ONE.** The "I want that on the record / I want to be exact / I
+  mention it because it is true / let it be said plainly / I want to be clear / I will be honest"
+  family was a book-wide reflex (Ch.1 x3, Ch.2 x2, Ch.3 x3, Ch.4 x1, Ch.6 x2). KEPT the single
+  signature instance — Ch.1 "I did not cry. I want that on the record." (earliest, characterizing) —
+  and varied ALL the rest to plain narration.
+- **Retrospective foreknowledge rationed; romance pre-spends cut.** Kept the deliberate Outlander
+  retrospection but removed the beats that pre-spent the romance before it's earned: Ch.5 "the man I
+  would love past my own life" (at first sighting) -> "the man who would come to matter most"; Ch.6's
+  page-before-the-two-hander reveal ("he was the reason she would not want to leave the room") CUT,
+  keeping only the "I misjudged the door" irony; Ch.7 softened "the last hour of both our lives",
+  "would spend nine years learning", "the whole rest of my story would turn on", and the panel's #1
+  Ch.7 fix "the man I would die beside" -> "the man at the centre of all of it". KEPT the Ch.7 hook
+  ("the man I would spend my life with") as the one rationed foreshadow in his introduction chapter.
+- **Kallia proverb over-use trimmed (Ch.6).** Cut the two self-glosses that re-annotated the device
+  (already introduced in Ch.5) and de-anaphora'd the "Which is not the proverb / means nothing /
+  meant everything" triplet. Scene-button proverbs left as characterization; Ch.7's close already
+  withholds one.
+
+All 7 chapters re-verified: style_check / grammar / voice-wear CLEAN; em-dash within gate; rhythm
+flags 22 -> 20; all above word floor. No book-evaluator re-run needed (edits are subtractive/ration,
+not structural; Ch.7's Floor-8.5 PASS stands).
+
+## OUTLINE v3 — back-half sag fix (2026-07-13, author Terry approved)
+
+Diagnosed a 4-chapter low-tension TROUGH in the old Movement III (Ch.14-17: arrival -> montage ->
+breather -> birth) sitting AFTER the romance resolves (Ch.13 marriage) and BEFORE the first antagonist
+(Sabina, Ch.18), with no clock the reader could feel. Fixed with 4 moves, NET-ZERO chapter change
+(36 preserved; Movement V 28-36 NOT renumbered):
+1. Reader-ahead Fenn dread fragment pulled forward to Ch.14-15 (reader clocks Vesuvius before Mara).
+2. The two early breathers MERGED (old 15 "Building a Life" + old 16 "Catalogue of Small Days" -> Ch.15).
+3. Faction seeded PHYSICALLY in Campania at Ch.15 ("Lupus" rumor -> live thread to Ch.18).
+4. Fenn's first live contact brought forward to a new Ch.16 (partial/withholding); the WHEN-method
+   payoff kept at Ch.20 ("What Fenn Knows"). Old single 9,200 Fenn peak split into 7,000 + 6,500.
+Result: ONE pure breather survives (Ch.22 Aelia, nearest the fall); dramatic-irony clock runs from
+~46% not ~55%. Σ ~= 241,500 (14-27 span -3,800). Ch.1-13 UNTOUCHED. Full detail in STATE history +
+outline.md Movements III-IV.
+
+**FLAG for Terry (pre-existing, NOT introduced by v3):** the romance-heat chapter refs in CLAUDE.md
+("Ch.16/18/20 + a late payoff") and the STATE 2026-06-21 log are STALE numbering — they don't match
+the v2/v3 36-ch outline, where the first union is **Ch.12 "The First Night Is a Mistake"** and
+intimacy lives in Ch.11-13 (+ a late payoff). Want the heat placement reconciled to the current
+outline? (Not touched here — scene placement is an author call.)
+
+## RESUME HERE (2026-07-14) — Ch.8 FINAL, next is Ch.9
+
+Ch.8 "Earning the Yes" DRAFTED & FINALIZED (7,939w; target 7,900, +0.5%). Movement II negotiation +
+competence-as-courtship collage. RESUMED from a first draft (7,532w) left on disk by a prior run that
+died mid-pipeline; NOT rewritten — closed the ~400w gap by DRAMATIZING the missing beat (the wool-tally
+trial with the factor's Corinthian clerk was summarized in one paragraph; promoted to a live adversarial
+scene — the steelyard beam she stops with her hand, the thumb's-width offset in the counter-weight — the
+first competence rung escalating INTO the horse caper), then ran the full remaining pipeline.
+
+Beats: return on day 3 (the door on the latch, not open — "he meant me to open it myself"); muck-out
+trial; "hold this"/the horse leaning its weight (the cracked involuntary laugh); the boy's dropped
+bucket ("Again, and slower"); DRUSUS introduced (worldview-through-COST: "grief's cheap — it's the
+carrying charge that ruins a man"; names his creditor aloud); the wool-tally + the ANCHOR — Mara reads
+a bishoped horse's teeth (aged UP, burned-in cups, rasped table) and a gingered mule off the coper's
+string with her forgery/false-patina eye, and Valens turns the grey's lip up with his OWN thumb, finds
+it, and says it to the horse ("You poor doctored bastard") — the yes he can't take back; "Charm he
+could refuse. Competence walked straight past the guard and sat down at the fire"; the LEGATE'S REACH
+seeded (an ordinary townsman agent, Campanian cloak, asks after "a fighting name / an old debt",
+rides the WRONG way — "He'll not be the last"); the sideways YES (Valens takes her up to Delphi with
+four beasts for the festival trade, "it's not a favour, it's just the road being the road") which is
+also her secret errand to the Pythia (the two locks); the dark climb home, Kallia's lamp turned to the
+window, no misquoted proverb ("which was how I knew she was serious").
+
+Full pipeline run: writer (gap-close beat) -> dialogue-polish (cover-the-name PASS; one Valens money-
+metaphor bleed corrected) -> hook-craft (opening rewritten 6->8/10 to a VOICE hook, no longer repeating
+Ch.7's retrospective-declaration; pull 8-9/10 left) -> disruptor (3 light ops: blister bodily-wrongness
++ callback, anaphora triad broken) -> mechanical gates ALL CLEAN (style_check: em-dash 1 [title dash;
+body 0], simile 1.1/1k, repeated-phrase clean after fixing 3 disruptor-introduced cross-chapter leaks:
+"i have come to think", "i had eaten nothing since", "had nothing to do with") -> book-evaluator PASS:
+**Genesis Floor 8.5 / Avg 8.61 / Casual 8.7 / CVI-Launch 8.9 / Immersion 9.0 / Emotion 8.7** -> book-editor
+light polish (discharged the ONE eval regression: retrospective significance-tagging was 6 over the <=2
+hard gate; trimmed to 1 by converting five hindsight-tags to object/action beats, keeping only "the years
+we were given" — restores Prose to 9.0; also recast 2 of 3 define-by-negation narration fragments to
+positive-first). Cover-the-name PASS on Drusus, the wool-clerk, and the legate's agent (all distinct from
+Valens and each other). Eval: evaluations/chapter-8-eval.md. Disruption: evaluations/disruption-chapter-8.md.
+
+**WATCH (carry into Ch.9, from Ch.8 eval): (1) retrospective significance-tagging is the pipeline's
+DEFAULT comfort-move — it broke the <=2 gate here (6 instances) before the trim; ENFORCE <=1-2, let
+objects/gestures carry weight. (2) define-by-negation crept back to 3 narration fragments (was 0 in
+Ch.7); ration to 0-1. (3) anaphora is a standing 8-chapter habit — keep actively BREAKING triads, not
+just holding. (4) dialogue dipped to ~29% (narration-heavy) — Ch.9 is action, but restore two-hander
+banter where the road allows.**
+
+**Next: Ch.9 "The Road to Delphi"** (~7,900w, action single-arc). The journey up the mountain together;
+a road ambush forces mutual reliance; after the violence HE shakes and she doesn't (role reversal).
+Voice-under-pressure REHEARSAL: Mara's prose goes flat/procedural in fear (pre-trains the climax device).
+First crucible bonding the leads. Continue the full MANDATORY loop.
+
+--- superseded (pre-Ch.8) note retained for context ---
+**NEXT: still Chapter 8 "Earning the Yes"** (unchanged by v3 — Movement II is intact). Negotiation +
+caper collage; Mara makes herself useful to Valens's trade; Drusus introduced; grudging conditional
+passage; the legate's reach seeded.
