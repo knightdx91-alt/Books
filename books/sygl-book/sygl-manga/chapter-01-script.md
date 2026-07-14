@@ -30,8 +30,21 @@ the lone figure — apart in frame, outside the group, the one hand with nothing
 Canon line to honor: *"From the roof he could not be the only boy in the building without
 a sygl. From the roof he was the only boy at all."*
 
+**WORLD RULE — SYGLS ARE ON THE PALM (canon, enforce everywhere):**
+- Every marked person's house/originator sygl sits on their **PALM** (not the back of the
+  hand, not the knuckles). It is **permanent** — always there for anyone who has one.
+- When someone actively casts, the magyk also **manifests as glowing sygls/glyphs in the
+  air** (shaped by what magic they're doing) — but the **palm sygl stays on the palm**
+  regardless. So: permanent palm-mark + transient aerial glyphs during casting.
+- This sharpens Bal's tragedy: sygls live on the palm, and his **left palm is simply gone**
+  (missing hand) — there is no surface for a mark even if one wanted to come. When he later
+  gets the Blood sygl, it appears on his **regrown left palm** (canon: the blood conversion
+  is done on the left hand/palm).
+- FLASHBACK/CROWD ART: when showing marked kids (Posy, the yard boys), put the mark on the
+  **open palm**, palm turned to camera — NOT the back of the hand.
+
 **Design carries forward:** "Regrown-hand Bal" (Ch.3+) is a SEPARATE design with a
-left hand AND the Blood sigil on the left palm. Keep the two reference sheets separate
+left hand AND the Blood sigil on the left PALM. Keep the two reference sheets separate
 so panels never mix them up. (The existing `panel-bal-flux.png` and `bal-manga.png` are
 BOTH regrown-Bal — wrong for Ch.1; keep as future reference only.)
 
@@ -89,11 +102,12 @@ Captions = Bal's interior voice (box). Keep them terse.
   *Watching the game only teaches you what outside feels like.*
 
 ### PAGE 3 — The sygl world (compressed exposition, visual)
-- **3.1** — [Insert/flashback tint] A younger child's hand, a mark burning into the skin
-  — green coil (Terra). // CAP: *Everyone else wakes one day with a sygl. A mark that
-  tells the world what they're for.*
-- **3.2** — [Flashback] A supper table; a girl (Posy) drops her spoon, holds her glowing
-  hand up; the whole table leans in. // SFX: *clatter*. // CAP: *Posy got hers at supper.*
+- **3.1** — [Insert/flashback tint] A younger child's **open palm, turned up**, a green
+  coil (Terra) burning slowly into the skin OF THE PALM. // CAP: *Everyone else wakes one
+  day with a sygl. A mark that tells the world what they're for.*
+- **3.2** — [Flashback] A supper table; a girl (Posy) drops her spoon, **turns her palm
+  over** in front of her face, green light on it; the whole table leans in. // SFX:
+  *clatter*. // CAP: *Posy got hers at supper.*
 - **3.3** — [Flashback] A cart on the lane, a stranger, Posy leaving. // CAP: *By spring
   a steward came. The mark tells the world what you're good for, and the world comes and
   collects.*
