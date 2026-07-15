@@ -28,7 +28,7 @@ And the rim broke over it. She came over the lip of the valley and her half-sigh
 
 Raizen had stopped beside her. He did not see what she saw, none of them did, but he had walked beside her sight for a year and could read the place she pointed it. The faint prismatic shimmer ran off his fingers, the light of the thing he was that he could not stop being even in a man's shape, and he closed his hand to bank it, the way you bank a coal you are not ready to use. "It's a house," he said.
 
-"It's the cut." She looked at the smoke. The cold working part of her had already run the sum, the way it ran every sum so the rest of her could survive the choosing, and what it returned to her was so plain and so small that for a moment she could not make it fit the size of the thing she had read from the bottom of the world. The whole edge of the world leaning in, the curve steepening toward an edge none of them could see, the sea past a glass of water, and at the bottom of the current a chimney with tea-smoke coming out of it. "Somebody lives there," she said, and heard how stupid it sounded, and meant it anyway.
+"It's the cut." She looked at the smoke. She had already run the sum, the way she ran every sum so the rest of her could survive the choosing, and what it returned to her was so plain and so small that for a moment she could not make it fit the size of the thing she had read from the bottom of the world. The whole edge of the world leaning in, the curve steepening toward an edge none of them could see, the sea past a glass of water, and at the bottom of the current a chimney with tea-smoke coming out of it. "Somebody lives there," she said, and heard how stupid it sounded, and meant it anyway.
 
 * * *
 

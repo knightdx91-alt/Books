@@ -6,7 +6,7 @@ The second one came while they were still a half-day short of home, and it annou
 
 "The bridge," he managed, when Amber caught him by the arms and held him up, because he had run past the point where his legs were his to command. "The Hallow side. There's a, there's a hole in the air, there's a thing, it took Dell's boy off the wall, it took him right off, and then it took the dog, and we ran, we all ran, and it didn't follow, it just, it's just standing there drinking the bridge." He got his eyes onto Viridia and they did the thing eyes did. "You're her. You're the girl. They said go and find the girl."
 
-She was already moving. She had felt it open under her breastbone four miles back and had said nothing, because there had been nothing yet to say that running would not say faster, and now she ran, and the cold working part counted while she ran, the distance, the slope, the warmth thinning ahead of her the way it had thinned three days before, a steady small subtraction at the edge of everything, and behind it, under it, the half-finished thing she had filed away at the first tear and not let arrive, leaning toward arriving now whether she let it or not.
+She was already moving. She had felt it open under her breastbone four miles back and had said nothing, because there had been nothing yet to say that running would not say faster, and now she ran, and counted while she ran, the distance, the slope, the warmth thinning ahead of her the way it had thinned three days before, a steady small subtraction at the edge of everything, and behind it, under it, the half-finished thing she had filed away at the first tear and not let arrive, leaning toward arriving now whether she let it or not.
 
 * * *
 
