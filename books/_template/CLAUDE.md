@@ -57,6 +57,11 @@ book/genesis/<slug>/
 - **Genesis Floor ≥ 8.5** (book-evaluator); below → book-editor polish loop (max 5).
 - **Style check** — `python3 tools/style_check.py` clean: simile ≤4/1k, em-dash ≤~10/1k,
   no NEW cross-chapter repeated phrase (add deliberate motifs to ALLOWLIST), tics under ceiling.
+- **Motif cap (author standing rule)** — no signature narrative tic-phrase may recur more than
+  **3 times across the whole book**. ALLOWLIST is a *capped* registry, not an exemption:
+  declaring a motif does NOT license unlimited use. Entries are `"phrase"` (cap 3) or
+  `("phrase", N)` to raise the cap for a genuinely load-bearing image (keep overrides rare/small).
+  The gate FAILS if any motif exceeds its cap.
 
 ## Word floor
 Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
