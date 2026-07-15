@@ -395,3 +395,30 @@ anaphora triads; define-by-negation 0-1.
 **Next: Ch.10 "The Pythia"** (~8,400w, ritual single-scene -> planning) — **[TP — Oracle, ~28%]**. The
 Oracle tells Mara WHERE the door home is (Pompeii) but refuses the WHEN; the road to Campania is long,
 illegal, unaffordable. INSERT: Fenn journal #3. Continue the full MANDATORY loop.
+
+---
+
+## Ch.10 "The Pythia" — FINAL (2026-07-15) — ORACLE TURNING POINT [~28%]
+
+8,003w (target 8,400). The Oracle TP: WHERE won (Pompeii/the green mountain, encoded), WHEN refused.
+**book-evaluator PASS: Genesis Floor 8.5 / Avg 8.79 / Casual 8.7 / Originality 9.0 / Characters 9.0 /
+Emotion 9.0 / Immersion 9.0.**
+
+Full pipeline: writer -> dialogue-polish (cover-the-name PASS Theano-vs-Kallia, no edits) -> hook-craft
+(hook 9/10 warm-smell sensory open, pull 9/10) -> disruptor (2 light subtractive ops) -> mechanical gates
+ALL CLEAN (em-dash 1 title-only, simile 1.6/1k) -> book-evaluator PASS -> book-editor subtraction-only
+polish (discharged the ONE regression + compressed road-south exposition).
+
+**Originality engine = the anti-theatrical ORACLE DEFLATION** (Theano is a tired old woman scolding a cat
+off the omphalos; prophecy as chore-talk "Mind the third step; it's loose") — evaluator confirmed fresh +
+uncanny, not anticlimax. **WHERE-CHAIN canon honored** (Oracle builds on Fenn's rough where, gives exact
+place, withholds when). **"keep nothing you can carry"** planted twice, opaque, un-unpacked (master seed
+#1). **Fenn journal #3** inserted, withholding; chapter refuses to lay it beside the oracle line.
+
+**WATCH (carry into Ch.11):** retrospective significance-tagging recurred at 3 vs the <=2 gate (Ch.7 ~8->2,
+Ch.8 ~6->1, Ch.9 ~8->2, Ch.10 3->2 — NOT self-correcting across 4 chapters). Trimmed to 2 post-eval. The
+<=2 check is now a formal PRE-finalize gate. Keep breaking anaphora; define-by-negation 0-1.
+
+**Next: Ch.11 "Winter in Delphi"** (~9,200w, the LONGEST chapter — intimate two-hander, braided vignettes,
+the slow-burn's deep chamber: stranded by season/money, Valens's scandal told flat over coins, a near-kiss
+refused, working-passage jobs, the partnership becomes a de facto family). Continue the full MANDATORY loop.

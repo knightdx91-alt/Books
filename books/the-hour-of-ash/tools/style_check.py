@@ -47,6 +47,9 @@ ALLOWLIST = [
     "whether there was anything in it",  # Verrall's thematic refrain (Ch.2 spine + pull payoff)
     "nothing to me either way",   # Valens's signature lie (Ch.7); deliberately echoed/thrown back (Ch.8)
     "he'll not be the last",       # Valens's Ch.8 warning, deliberately recalled in Ch.9 after the ambush
+    "keep nothing you can carry",  # MASTER re-read seed #1 (Ch.10 Oracle); spirals within-ch and pays across the book
+    "a mountain by the roman sea", # WHERE-CHAIN canon (Fenn's rough where, Ch.6/7); repeated by design at the Oracle TP
+    "who comes asking if you don't arrive",  # the Amphissa wagoner's cruelty (Ch.7), Valens deliberately quotes it back (Ch.10)
 ]
 
 # n-gram repetition settings
