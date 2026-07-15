@@ -281,3 +281,38 @@ voice-matched to Bks 1/2; canon held vs the reconciliation note). Sequential the
 - **Marick vs Fen** (Book Two Ch.20 planted Marick; roadmap ending names Fen) — reconcile.
 - **Age on-page** (roadmap says Viridia is 16; Book Two kept no number on-page) — decide.
 - Raizen's elemental affinity; pact-and-Dangris; Mrs. Zoran's role.
+
+---
+
+## 2026-07-15 session — r6/r7 tic work + r5 re-eval (author paused here)
+
+**Readiness re-check (author asked "is Book 3 as ready as we can make it?"):** re-ran the full
+evaluator + 3-reader beta on the real current build (the 2026-07-11 reviews had judged the pre-thinning
+r3). Results: evaluator = **SHIP-READY / PASS** (Floor 8.5, Avg ~8.6); beta = **P1 8.5 / Hostile 6.25 /
+Casual 6.5**. r4's thinning fixed the back third; the skeptical readers cool in the **Ch.5->9 corridor**.
+Files: evaluations/full-book-eval-r5-2026-07-15.md, feedback/beta-panel-r5-2026-07-15.md.
+
+**r6 (de-tick):** Act-One + migrated-finale tics thinned (cold-working-part 43->16, doorpost/second-warmth
+28->17, slow-way 8->2, Ch.6 careful-surface 8->2). Log: book3-r6-changes.md.
+
+**r7 (aggressive tic-cap — author standing rule):** no signature narrative tic-phrase may recur >3x
+book-wide. Every tic brought to <=3 (cold-working-part ->3, did-not-weep ->3, careful-surface ->2,
+slow-way ->3, born-and-gone ->3, far-end-of-bond ->3; doorpost/second-warmth cluster ->4 floor; #11
+'the way you' similes ->3/ch). Cuts recast to concrete varied sensation; sanctioned breaks + bond
+vocabulary preserved; no structure/canon/scene-order moved. Gates clean; 111,618 w. Log: book3-r7-changes.md.
+
+**Pipeline change (baked into the shared template, commit adcf00f):** style_check.py ALLOWLIST is now a
+CAPPED registry — declared motifs are held to a book-wide cap (default 3; `("phrase", N)` to raise) and
+the gate FAILS if exceeded. Every NEW book inherits it. Book 3's own custom style_check does NOT have it
+yet (parked item 2 below).
+
+**PARKED — do NOT start without an author go-ahead:**
+1. **Option B (author-APPROVED, not executed):** refunction Ch.7 (passive fount-read -> active
+   attempt-and-fail-with-cost) and Ch.9 (Drake confirmation -> discovery of the forever/balance). Leaves
+   Ch.5 temptation ladder, the Act-One boundary, Marick's Ch.8 intro, and the 20-ch count intact.
+   Proposal: feedback/ch5-9-corridor-restructure-proposal.md. After executing: continuity-guardian vs
+   Books 1/2 + evaluator + gates, then a corridor-only 2-reader re-beta; escalate to Option A only if
+   the hostile reader still "counts chapters."
+2. Port the MOTIF-CAP gate into this book's tools/style_check.py + register capped tics.
+3. Rebuild PDF deliverables to r7 (assemble_manuscript -> build_pdf -> make_pdfx) + refresh STATE status.
+4. External human beta; fill front/back-matter placeholders before print.
