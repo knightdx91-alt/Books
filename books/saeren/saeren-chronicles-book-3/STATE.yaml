@@ -40,7 +40,7 @@ word_floor:
 
 phase:
   current: 4   # DRAFT COMPLETE + REVISED. (1 scaffold, 2 architect, 3 drafting, 4 revision/delivery)
-  status: "BOOK COMPLETE + REVISED to r2. All chapters drafted, gate-clean, on main. Build r2 = 20 ch, 112,205 w, 328 pp (RGB + PDF/X-1a). NEXT (author's call): external beta read of r2; optional Tier-2 polish (thin the 'very long way off' motif cluster); fill any front/back-matter placeholders before print."
+  status: "BOOK COMPLETE + REVISED to r5. All chapters drafted, gate-clean, on main. Current build r5 = 20 ch, ~111,853 w, 326 pp (RGB + PDF/X-1a). Revision history: r2 (denouement compression) -> r3 (2026-06-29, literary-preserving consolidation per external review) -> r4 (2026-07-03, Tier-2 thinning: back-third motif clusters Ch.17-19, Ch.10->11 sag, Ch.2/4/6/8 door cadence) -> r5 (2026-07-11, Ch.8 Marick timeline continuity CRIT-001). NOTE: the 2026-07-11 full evaluator + 3-reader beta panel were run against r3 (pre-thinning), so their motif-saturation flags are partly stale; a fresh r5 evaluator + beta re-run is in flight (2026-07-15) to get a true current readiness read. NEXT (author's call, pending r5 re-eval): decide whether to thin the mid-book thesis restatement + Ch.5->7->9 realize/measure/confirm stretch (LOAD-BEARING escalation the author chose to protect in the r3 pass — not an obvious cut); external human beta read; fill any front/back-matter placeholders before print."
   history:
     - "2026-06-24: scaffolded + seeded; roadmap reconciled vs finished Books 1/2."
     - "2026-06-24: architect pass — foundation.md + outline.md (22 chapters, 3 acts; balance-not-victory)."
@@ -119,4 +119,4 @@ open_author_decisions:   # remaining, minor — decide in-flight
 decisions:
   - "Folder-per-book genesis project at book/genesis/saeren-chronicles-book-3/ (single-branch: everything to main)."
   - "Own PDF/production pipeline mirrored from Book Two (REVISION + tools/{assemble_manuscript,build_pdf,make_pdfx} + PDFX_def.ps + rhythm_check). Same revision policy: bump REVISION BEFORE any rebuild; keep prior builds as history."
-revision_cycles: 1   # r1 (draft) -> r2 (2026-06-29, denouement compression). See feedback/book3-r2-changes.md.
+revision_cycles: 5   # r1 draft -> r2 (denouement compression) -> r3 (consolidation) -> r4 (Tier-2 thinning) -> r5 (Ch.8 continuity). See feedback/book3-r{2,3,4,5}-changes.md.
