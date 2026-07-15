@@ -48,7 +48,7 @@ Alice wrapped her hands around her cup. "That's not what I mean." She had her wa
 
 Viridia drank her tea. It was good tea, the kind that came up on the slow line from somewhere warm. She made herself taste it.
 
-"The worst of it," she said, and told her, in the flat grammar of the cold working part, the shape of what the sight had given her at the pedestal. The lines. The count. Sela. The eleven. The shape the eating made being the shape the mending made. She told it the way she told the things that couldn't be felt in the telling, which was the only way she had, and Alice listened without flinching, which was a thing that came from practice, the healer's muscle, the deliberate not-flinching that was not absence but a kind of attention that made room.
+"The worst of it," she said, and told her, in the flat level grammar of the arithmetic, the shape of what the sight had given her at the pedestal. The lines. The count. Sela. The eleven. The shape the eating made being the shape the mending made. She told it the way she told the things that couldn't be felt in the telling, which was the only way she had, and Alice listened without flinching, which was a thing that came from practice, the healer's muscle, the deliberate not-flinching that was not absence but a kind of attention that made room.
 
 When she stopped, Alice was quiet for a while.
 
@@ -182,7 +182,7 @@ She turned down the lamp. She went upstairs.
 
 In the morning they would take the train to the slow junction, and from there a portal west. They would go to Lest and she would stand in a place she had not yet stood and make a decision she had not yet worked out, and whatever the decision was, there would be another letter after it, and another after that. The ledger was open. It had been open since the cavern. It had just taken her a year and a full sight to be able to read the columns.
 
-She lay down in her dark room and felt the whole world breathing, born and gone, born and gone, the surf of the source-sense running under her awareness, and the cold lean at the rim of it, patient, vast, no hurry in it at all.
+She lay down in her dark room and felt the whole world breathing, in and out, in and out, the surf of the source-sense running under her awareness, and the cold lean at the rim of it, patient, vast, no hurry in it at all.
 
 Three hundred people in a schoolhouse. One burning-man who could not stop. One girl on a train in the morning with a line that ran from every one of them to her hand.
 

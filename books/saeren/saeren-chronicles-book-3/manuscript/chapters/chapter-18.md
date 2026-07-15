@@ -36,7 +36,7 @@ She felt that one differently. It was a warmth that had begun to be and then sto
 
 The bond held.
 
-She found it the way she had found it in the worse flood, the one line in all the changing weight that wanted nothing of her, that did not fill or empty or lean, that only held, rooted, a warmth set to be a warmth and not a door. Raizen, up the dark at the threshold where the stone began, the second warmth. She could feel him on the far end of the line, braced, ordinary, still half-amazed by feet and cold and the whole strange business of standing on two legs in a body the source had given back, and she could feel that the wild dragging on the line had stopped, that what ran between them now was the steady even draw of a thing being carried and not the tearing of a thing being torn, and she could feel that he did not know yet what his bracing had bought, only that the pull had changed under him, from a storm to a weight.
+She found it the way she had found it in the worse flood, the one line in all the changing weight that wanted nothing of her, that did not fill or empty or lean, that only held, rooted, a warmth set to be a warmth and not a door. Raizen, up the dark at the threshold where the stone began. She could feel him on the far end of the line, braced, ordinary, still half-amazed by feet and cold and the whole strange business of standing on two legs in a body the source had given back, and she could feel that the wild dragging on the line had stopped, that what ran between them now was the steady even draw of a thing being carried and not the tearing of a thing being torn, and she could feel that he did not know yet what his bracing had bought, only that the pull had changed under him, from a storm to a weight.
 
 She reached for the line, with the part of her that was still a girl and not yet only the door.
 
@@ -76,7 +76,7 @@ That was the shape the bond put on it, finally, the thing the True-Bond meant th
 
 She was sixteen years old.
 
-She let that be a fact, the way she had set the arithmetic down, put it where she could see it and held her gaze on it: that she was sixteen, and what she had learned this morning was that this was the watch, and there was no end to a watch but the end of the watcher, and the watcher was bonded to a thing that did not end the way watchers usually do. She did not weep. She held the door. She looked down into the glow until the eyes stopped, and held the line off the back of her, and held the door, and let the world come and go across the throat of her, and was sixteen, and did the only thing a person can do with a weight that does not lift, which is the carrying of it, one breath at a time, beginning now.
+She let that be a fact, the way she had set the arithmetic down, put it where she could see it and held her gaze on it: that she was sixteen, and what she had learned this morning was that this was the watch, and there was no end to a watch but the end of the watcher, and the watcher was bonded to a thing that did not end the way watchers usually do. She held her face still. She held the door. She looked down into the glow until the eyes stopped, and held the line off the back of her, and held the door, and let the world come and go across the throat of her, and was sixteen, and did the only thing a person can do with a weight that does not lift, which is the carrying of it, one breath at a time, beginning now.
 
 * * *
 
@@ -100,7 +100,7 @@ It would take a long time. She could feel that too. The lean had been steepening
 
 She had done that. Her hand had done that, in the source, in front of everyone she loved and where they could not feel it, and she would go on doing it, holding the door true through every birth and every death, and the doing of it had not ended and was never going to end, and the cost of it was that there was no away and no eyelid and no taking of turns and no end but the end of the watcher.
 
-She lifted her face a little more from the pool. Her ordinary eyes still found the dark cave and the pale glow, there for her the way they were there for anyone. Down the line off the back of her, the doorpost held. Far up the dark, the company held the line they could see, and the cold leaning thinnest at the seam where the Dangris stood began, by the smallest degree, to lean less thin.
+She lifted her face a little more from the pool. Her ordinary eyes still found the dark cave and the pale glow, there for her the way they were there for anyone. Down the line off the back of her, Raizen held, rooted. Far up the dark, the company held the line they could see, and the cold leaning thinnest at the seam where the Dangris stood began, by the smallest degree, to lean less thin.
 
 She knelt at the door with her hand in the world and held it, and felt the great pull go quiet, out across the torn places, the way a fever goes quiet, and did not yet know how she was going to carry the whole rest of it, only that she was going to, and that the world, for the first time in a year, had stopped tearing and begun, somewhere far off and out of her sight, to mend the long slow way a thing mends when at last it has been let alone.
 

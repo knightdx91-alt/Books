@@ -34,7 +34,7 @@ Not the way they had gone at the rebirth, washed out gently into the grief of st
 
 One line did not push.
 
-The bond. She found it the way she had found it once before in a worse flood, the single line in all the leaning weight that wanted nothing from her, that did not surge or thin or gape, that only held, rooted, fixed, set to be a line. Raizen at the far braced end of it, up the dark on the threshold where the stone began, the second warmth, coming apart and going back together as he had warned her in the dark he would, every breath of the holding, paying out the line and never the man. She could feel him doing it. She could feel the cost of it on his end, the new-to-feet, new-to-cold, new-to-rope-and-buttons man bracing his whole strange human self against a weight that was meant for a girl with her hand in the world, taking the recoil of it up the line so that some part of it never reached her, coming apart at the seams of his own newly ordinary body and going back together and coming apart again, and not once, not for the length of a breath, letting the line go slack.
+The bond. She found it the way she had found it once before in a worse flood, the single line in all the leaning weight that wanted nothing from her, that did not surge or thin or gape, that only held, rooted, fixed, set to be a line. Raizen at the far braced end of it, up the dark on the threshold where the stone began, coming apart and going back together as he had warned her in the dark he would, every breath of the holding, paying out the line and never the man. She could feel him doing it. She could feel the cost of it on his end, the new-to-feet, new-to-cold, new-to-rope-and-buttons man bracing his whole strange human self against a weight that was meant for a girl with her hand in the world, taking the recoil of it up the line so that some part of it never reached her, coming apart at the seams of his own newly ordinary body and going back together and coming apart again, and not once, not for the length of a breath, letting the line go slack.
 
 She set herself against it.
 
@@ -94,7 +94,7 @@ The burning came up behind her eyes, once. She held her hand in the pool and loo
 
 * * *
 
-Up the dark, at the threshold where the stone began, the doorpost came apart one more time and went back together, and held the line, and did not know yet what his end of it had paid for, only that the pull on the bond had changed, from the wild dragging of a thing being torn to the steady even draw of a thing being carried, and that the difference, whatever it had cost her to make, was the difference his bracing at the far rooted end had been for, and he held it, rooted, so that she would not be only herself and would not be by herself either.
+Up the dark, at the threshold where the stone began, Raizen came apart one more time and went back together, and held the line, and did not know yet what his end of it had paid for, only that the pull on the bond had changed, from the wild dragging of a thing being torn to the steady even draw of a thing being carried, and that the difference, whatever it had cost her to make, was the difference his bracing at the far rooted end had been for, and he held it, rooted, so that she would not be only herself and would not be by herself either.
 
 * * *
 
