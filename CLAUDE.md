@@ -54,6 +54,26 @@ Git identity: `git config user.email noreply@anthropic.com && git config user.na
    `voice-dna.md`, `research/`, `manuscript/chapters/`, `evaluations/`, `feedback/`,
    `delivery/`, and a per-book `tools/style_check.py` (its ALLOWLIST is book-specific).
 
+## Finished books — `completed-books/`
+
+Every book that is done and upload-ready has its three IngramSpark files collected
+into `completed-books/<nn-slug>/`: the grayscale no-ICC **interior**, the CMYK no-ICC
+**cover wrap**, and the **EPUB**. See `completed-books/README.md` for the ISBN/spine
+table and the pre-print checklist.
+
+**The folder is generated — never hand-edit it.**
+```
+python3 tools/collect_completed.py           # refresh from each book's current REVISION
+python3 tools/collect_completed.py --check   # verify nothing has gone stale (exit 1 if it has)
+```
+Re-run it after any re-cut, and add new books to the `BOOKS` list in that script. The
+checksums land in `completed-books/MANIFEST.md`, so a stale copy is detectable rather
+than silently shipped — which matters, because a stale print file is exactly the kind
+of thing that gets uploaded by mistake.
+
+The PDF/X-1a builds are archival/prepress copies and deliberately stay in each book's
+own `delivery/` folder. IngramSpark takes the grayscale interior and the CMYK cover.
+
 ## Starting a new book
 
 Run: `bash tools/new-book.sh <slug> "<Book Title>"`
