@@ -17,7 +17,7 @@ html = f'''<!doctype html><html><head><meta charset="utf-8"><style>
 @font-face{{font-family:'Young';src:url(data:font/ttf;base64,{young}) format('truetype');}}
 @font-face{{font-family:'Plex';src:url(data:font/ttf;base64,{plex}) format('truetype');}}
 *{{margin:0;padding:0;box-sizing:border-box;}}
-html,body{{width:1600px;height:2263px;}}
+html,body{{width:1600px;height:2263px;background:#04060d;}}
 .cover{{position:relative;width:1600px;height:2263px;overflow:hidden;
   background:url(data:image/png;base64,{art}) center/cover no-repeat;font-family:'Plex',serif;}}
 .scrim{{position:absolute;left:0;right:0;bottom:0;height:1000px;
@@ -46,4 +46,28 @@ html,body{{width:1600px;height:2263px;}}
   </div>
   <div class="author">{AUTHOR}</div>
 </div></body></html>'''
-open(os.path.join(HERE, "compose.html"), "w").write(html); print("ok")
+html_path = os.path.join(HERE, "compose.html")
+open(html_path, "w").write(html)
+
+# --- render ---------------------------------------------------------------
+# Chromium's layout viewport comes out SHORTER than --window-size, so the bottom
+# of the .cover div never gets painted and the body's white shows through. That
+# is where the ~87px white strip at the foot of the old covers came from: it was
+# never in the art (front-art-nolabel.png has none) — the render truncated it,
+# losing the bottom ~4% of the composition. Render with headroom, then crop back
+# to the exact cover box.
+import subprocess, sys
+CHROME = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
+W, H = 1600, 2263
+for scale, out in ((1, OUTNAME), (2, OUTNAME.replace(".png", "-2x.png"))):
+    dst = os.path.join(HERE, out)
+    subprocess.run([CHROME, "--headless", "--no-sandbox", "--disable-gpu",
+                    "--hide-scrollbars", f"--force-device-scale-factor={scale}",
+                    f"--window-size={W},{H + 300}", f"--screenshot={dst}",
+                    f"file://{html_path}"], capture_output=True)
+    from PIL import Image
+    im = Image.open(dst)
+    box = (W * scale, H * scale)
+    if im.size != box:
+        im.crop((0, 0, *box)).save(dst)
+    print("wrote", out, Image.open(dst).size)

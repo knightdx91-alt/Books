@@ -222,3 +222,18 @@ at 470), clear of IngramSpark's 300 dpi floor.
 - **If the original design files ever turn up**, re-export the front art at
   ≥1838 x 2775 px, drop it in under the plain filename, and point `front=` back at
   it. That is the only way to get real detail rather than a clean number.
+
+## The white-strip bug (fixed 2026-09-01) — r5
+The composited fronts carried an ~87px white strip along the bottom edge, and the
+**EPUB shipped with it**. It was never in the source art (`front-art-nolabel.png`
+has none): Chromium lays its viewport out shorter than `--window-size`, so the foot
+of the `.cover` box was never painted and the body's white showed through. The print
+wrap escaped it only because `prep_front()` detects and crops a white strip.
+
+Two consequences, both now fixed: the strip itself, and the fact that the bottom ~4%
+of the intended composition was being cut off rather than merely covered.
+
+`compose_cover.py` now renders both the 1x and 2x fronts itself, with 300px of
+headroom, then crops back to the exact box — and paints the body the art's dark
+colour as a second line of defence. Verified: 0 white rows in the 1x, the 2x, the
+EPUB's embedded cover, and the print wrap.

@@ -25,8 +25,11 @@ python3 concept-A_make_cover.py            # writes cover.html
 ```
 
 ## Files
-- `front-cover-post-peleos.png` — the decided final front (1600×2263). Has an ~87px white strip
-  at the very bottom (below the author line).
+- `front-cover-post-peleos.png` — the superseded Post Peleos front (1600×2263). Its ~87px
+  white strip at the bottom was NOT in the art: `compose_cover.py` rendered the page shorter
+  than the cover box, so the foot of the composition was never painted and the body's white
+  showed through. Fixed 2026-09-01 — the script now renders with headroom and crops back, and
+  the regenerated fronts have no strip and no longer lose the bottom ~4% of the design.
 - `front-cover-post-peleos-clean.png` — same art with that white strip cropped (1600×2176), so the
   dark art bleeds edge-to-edge. Use this as the canonical front/ebook asset; the wrap builder crops
   the white strip on the fly from the original, so either source produces the same front panel.
