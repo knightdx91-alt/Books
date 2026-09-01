@@ -62,7 +62,7 @@ BOOKS = {
     "book-1": dict(
         slug="saeren-chronicles",
         out_name="Saeren-Book-One-FULL-WRAP",
-        front="delivery/cover/hazel-academy-front-cover-print.png",
+        front="delivery/cover/hazel-academy-front-cover-PUBLISHED-pendant-print.png",
         book_line="BOOK ONE",
         title="HAZEL ACADEMY",
         spine_title="HAZEL ACADEMY",
