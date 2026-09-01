@@ -41,7 +41,7 @@ TMP = os.path.join(ROOT, "delivery", "production", "_front-bleed.png")
 
 # --- dimensions ---
 TRIM_W, TRIM_H, BLEED = 6.0, 9.0, 0.125
-PAGES = 450          # interior r2 physical page count (build_pdf.py reports it)
+PAGES = 448          # interior r2 physical page count (build_pdf.py reports it)
 PPI_FACTOR = 0.0025            # IngramSpark cream 50#  (white 50# = 0.002252)
 SPINE = PAGES * PPI_FACTOR     # 1.12"
 FULL_W = 2 * TRIM_W + SPINE + 2 * BLEED

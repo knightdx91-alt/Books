@@ -84,6 +84,19 @@ def build_epub(cfg):
         f'<div class="subtitle">{html.escape(cfg["subtitle"])}</div>'
         f'<div class="author">POST PELEOS</div></div>')
     items.append(("titlepage","title.xhtml", xhtml("Title Page",tp), "application/xhtml+xml", True, "Title Page"))
+    # "Also by" — front matter, right after the title page, as in the print book
+    ab=('<h2 class="chnum">Also by Post Peleos</h2>'
+        '<p class="first"><strong>THE SAEREN CHRONICLES</strong><br/>'
+        '<em>Book One: Hazel Academy</em><br/>'
+        '<em>Book Two: The Resistance</em><br/>'
+        '<em>Book Three: The Weight of the Source</em></p>'
+        '<p>Writing adult fantasy romance as <strong>S&#248;ren Stromberg</strong>:</p>'
+        '<p><em>A Bond of Scale and Silver</em></p>'
+        '<p>A standalone romantasy of dangerous devotion and the price of being seen. '
+        'Written for adult readers (18+) &#8212; not part of the Saeren Chronicles, and '
+        'not intended for the same shelf.</p>')
+    items.append(("alsoby","alsoby.xhtml", xhtml("Also by Post Peleos",ab),
+                  "application/xhtml+xml", True, "Also by Post Peleos"))
     # copyright
     cp_lines=[f"Copyright &#169; 2026 Post Peleos","All rights reserved.",
         "This is a work of fiction. Names, characters, places, and incidents are "
@@ -94,9 +107,10 @@ def build_epub(cfg):
     cp='<div class="cp">'+"<br/><br/>".join(cp_lines)+"</div>"
     items.append(("copyright","copyright.xhtml", xhtml("Copyright",cp), "application/xhtml+xml", True, None))
     # dedication
-    items.append(("dedication","dedication.xhtml",
-        xhtml("Dedication", f'<div class="ded">{cfg["dedication"]}</div>'),
-        "application/xhtml+xml", True, "Dedication"))
+    if cfg["dedication"].strip():
+        items.append(("dedication","dedication.xhtml",
+            xhtml("Dedication", f'<div class="ded">{cfg["dedication"]}</div>'),
+            "application/xhtml+xml", True, "Dedication"))
     # chapters
     for n,title,text in chapters:
         body=[f'<h2 class="chnum">Chapter {WORDTITLE.get(n,n)}</h2>']
@@ -147,7 +161,7 @@ def build_epub(cfg):
     opf=('<?xml version="1.0" encoding="utf-8"?>\n'
         '<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid">\n'
         '<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">\n'
-        f'<dc:identifier id="bookid">{uid}</dc:identifier>\n'
+        f'<dc:identifier id="bookid">urn:isbn:{cfg["isbn"]}</dc:identifier>\n'
         f'<dc:title>{html.escape(cfg["full_title"])}</dc:title>\n'
         '<dc:language>en</dc:language>\n<dc:creator>Post Peleos</dc:creator>\n'
         '<dc:publisher>Post Peleos</dc:publisher>\n'
@@ -183,26 +197,69 @@ BIO=("Post Peleos writes character-driven fantasy about quiet people in loud "
      "quite stop wondering what waits out beyond the stars. <em>The Saeren "
      "Chronicles</em> is their debut series.")
 
-ROOT="/home/user/The-Saeren-Chronicles/book/genesis"
-configs=[
- {"manuscript":f"{ROOT}/saeren-chronicles/manuscript/full-manuscript-r14.md",
-  "cover":"/tmp/claude-0/-home-user-The-Saeren-Chronicles/bce4b0a8-8b7e-52a1-818e-dbb13b0d329e/scratchpad/ebook-cover-book1-hazel-academy.jpg",
-  "subtitle":"Book One: Hazel Academy","full_title":"The Saeren Chronicles — Book One: Hazel Academy",
-  "isbn":"9798240990441","isbn_hyphen":"979-8-2409-9044-1",
-  "dedication":"For my daughter Raelynn &#8212;<br/>may she have all the happiness she deserves.",
-  "ack":"To my parents, for always believing in me.","bio":BIO,
-  "desc":"A quiet, lyrical YA fantasy about grief, found family, and a girl who refuses to be made small.",
-  "out":f"{ROOT}/saeren-chronicles/delivery/ebook/Saeren-Chronicles-Book-One-Hazel-Academy.epub"},
- {"manuscript":f"{ROOT}/saeren-chronicles-book-2/manuscript/full-manuscript-r7.md",
-  "cover":"/tmp/claude-0/-home-user-The-Saeren-Chronicles/bce4b0a8-8b7e-52a1-818e-dbb13b0d329e/scratchpad/ebook-cover-book2-the-resistance.jpg",
-  "subtitle":"Book Two: The Resistance","full_title":"The Saeren Chronicles — Book Two: The Resistance",
-  "isbn":"9798240993831","isbn_hyphen":"979-8-2409-9383-1",
-  "dedication":"For MNB &#8212;<br/>may your life be long and happy.",
-  "ack":"Thanks to everyone who has read my books and encouraged me to keep writing.","bio":BIO,
-  "desc":"The second book of The Saeren Chronicles: a devastating fantasy about grief, found family, consent, and the weight of being the only one who can.",
-  "out":f"{ROOT}/saeren-chronicles-book-2/delivery/ebook/Saeren-Chronicles-Book-Two-The-Resistance.epub"},
-]
-for c in configs:
-    os.makedirs(os.path.dirname(c["out"]), exist_ok=True)
-    out,n=build_epub(c)
-    print(f"wrote {out}  ({n} chapters, {os.path.getsize(out)//1024} KB)")
+import sys
+
+SAEREN = os.path.dirname(os.path.abspath(__file__))
+
+
+def _rev(slug):
+    """Each book's REVISION file names the assembled manuscript to build from."""
+    return open(os.path.join(SAEREN, slug, "REVISION"), encoding="utf-8").read().strip()
+
+
+def _book(slug, **kw):
+    rev = _rev(slug)
+    d = dict(
+        manuscript=os.path.join(SAEREN, slug, "manuscript", f"full-manuscript-{rev}.md"),
+        cover=os.path.join(SAEREN, slug, "delivery", "cover", kw.pop("cover_name")),
+        out=os.path.join(SAEREN, slug, "delivery", "ebook", kw.pop("out_name")),
+        bio=BIO)
+    d.update(kw)
+    return d
+
+
+CONFIGS = {
+ "book-1": _book("saeren-chronicles",
+  cover_name="ebook-cover-book1-hazel-academy.jpg",
+  out_name="Saeren-Chronicles-Book-One-Hazel-Academy.epub",
+  subtitle="Book One: Hazel Academy",
+  full_title="The Saeren Chronicles \u2014 Book One: Hazel Academy",
+  isbn="9798240990441", isbn_hyphen="979-8-2409-9044-1",
+  dedication="For my daughter Raelynn &#8212;<br/>may she have all the happiness she deserves.",
+  ack="To my parents, for always believing in me.",
+  desc="A quiet, lyrical YA fantasy about grief, found family, and a girl who refuses to be made small."),
+
+ "book-2": _book("saeren-chronicles-book-2",
+  cover_name="ebook-cover-book2-the-resistance.jpg",
+  out_name="Saeren-Chronicles-Book-Two-The-Resistance.epub",
+  subtitle="Book Two: The Resistance",
+  full_title="The Saeren Chronicles \u2014 Book Two: The Resistance",
+  # the ebook ISBN actually registered for Book Two (see INGRAMSPARK-UPLOAD-GUIDE)
+  isbn="9798256100254", isbn_hyphen="979-8-2561-0025-4",
+  dedication="For MNB &#8212;<br/>may your life be long and happy.",
+  ack="Thanks to everyone who has read my books and encouraged me to keep writing.",
+  desc="The second book of The Saeren Chronicles: a devastating fantasy about grief, found family, consent, and the weight of being the only one who can."),
+
+ "book-3": _book("saeren-chronicles-book-3",
+  cover_name="ebook-cover-book3-the-weight-of-the-source.jpg",
+  out_name="Saeren-Chronicles-Book-Three-The-Weight-of-the-Source.epub",
+  subtitle="Book Three: The Weight of the Source",
+  full_title="The Saeren Chronicles \u2014 Book Three: The Weight of the Source",
+  isbn="9798182723800", isbn_hyphen="979-8-1827-2380-0",
+  # Book Three's print copyright page carries no dedication yet; keep the ebook
+  # consistent with it rather than inventing one.
+  dedication="",
+  ack="Thanks to everyone who has read my books and encouraged me to keep writing.",
+  desc="The conclusion of The Saeren Chronicles: a fantasy about power held without cruelty, the people who keep you human, and the weight of being what everyone else needs."),
+}
+
+if __name__ == "__main__":
+    keys = sys.argv[1:] or list(CONFIGS)
+    unknown = [k for k in keys if k not in CONFIGS]
+    if unknown:
+        sys.exit(f"unknown book(s) {unknown}; choose from {list(CONFIGS)}")
+    for k in keys:
+        c = CONFIGS[k]
+        os.makedirs(os.path.dirname(c["out"]), exist_ok=True)
+        out, n = build_epub(c)
+        print(f"wrote {out}  ({n} chapters, {os.path.getsize(out)//1024} KB)")

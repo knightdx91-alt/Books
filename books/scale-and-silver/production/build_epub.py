@@ -153,7 +153,9 @@ def main():
         '<h2 class="chnum">About the Author</h2>'
         f'<p class="first">{esc(AUTHOR)} writes adult fantasy romance &#8212; dangerous '
         'devotion, bonds that are chosen rather than fated, and the price of finally '
-        f'being seen. <em>{esc(BOOK_TITLE)}</em> is the first novel under this name.</p>'
+        f'being seen. <em>{esc(BOOK_TITLE)}</em> is the first novel under this name.</p>')
+    # "Also by" — front matter, right after the title page, as in the print book
+    alsoby_xhtml = wrap_page("Also by this author",
         '<h2 class="chnum">Also by this author</h2>'
         '<p class="first">Writing upper-YA fantasy as <strong>Post Peleos</strong>:</p>'
         '<p><strong>THE SAEREN CHRONICLES</strong><br/>'
@@ -170,6 +172,7 @@ def main():
     docs = []  # (id, filename, xhtml, nav-title-or-None)
     docs.append(("cover", "text/cover.xhtml", cover_xhtml, None))
     docs.append(("titlepage", "text/titlepage.xhtml", title_xhtml, None))
+    docs.append(("alsoby", "text/alsoby.xhtml", alsoby_xhtml, "Also by this author"))
     docs.append(("copyright", "text/copyright.xhtml", copyright_xhtml, None))
     if dedication_xhtml:
         docs.append(("dedication", "text/dedication.xhtml", dedication_xhtml, None))

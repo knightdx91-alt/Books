@@ -181,8 +181,25 @@ def build(pad_to_even=False):
     story.append(Spacer(1, 3.2*inch))
     story.append(Paragraph(BOOK_TITLE, halftitle))
     story.append(PageBreak())
-    # 2. blank (verso)
-    story.append(Spacer(1, 1*inch)); story.append(PageBreak())
+
+    # 2. "Also by" (verso, facing the title page) — where a trade paperback
+    #    conventionally carries it. Replaces what was a blank verso, so the page
+    #    count (and therefore the cover spine width) is unchanged.
+    story.append(Spacer(1, 1.0*inch))
+    story.append(Paragraph("Also by this author", bm_head))
+    story.append(Paragraph("Writing upper-YA fantasy as", ab_lead))
+    story.append(Paragraph("POST PELEOS", ab_series))
+    story.append(Spacer(1, 0.16*inch))
+    story.append(Paragraph("THE SAEREN CHRONICLES", ab_series))
+    story.append(Paragraph("Book One: Hazel Academy", ab_item))
+    story.append(Paragraph("Book Two: The Resistance", ab_item))
+    story.append(Paragraph("Book Three: The Weight of the Source", ab_item))
+    story.append(Spacer(1, 0.14*inch))
+    story.append(Paragraph(
+        "A completed upper-YA fantasy trilogy about grief, found family, and a "
+        "girl born with the one magic her world kills to keep buried. Written "
+        "for younger readers &#8212; no explicit content.", ab_note))
+    story.append(PageBreak())
 
     # 3. Title page (recto)
     story.append(Spacer(1, 1.8*inch))
@@ -251,21 +268,6 @@ def build(pad_to_even=False):
         "finally being seen. <i>A Bond of Scale and Silver</i> is the first "
         "novel under this name.", bm_body))
     story.append(PageBreak())
-
-    # --- Also by (the YA line under the author's other pen name) ---
-    story.append(Paragraph("Also by this author", bm_head))
-    story.append(Paragraph("Writing upper-YA fantasy as", ab_lead))
-    story.append(Paragraph("POST PELEOS", ab_series))
-    story.append(Spacer(1, 0.16*inch))
-    story.append(Paragraph("THE SAEREN CHRONICLES", ab_series))
-    story.append(Paragraph("Book One: Hazel Academy", ab_item))
-    story.append(Paragraph("Book Two: The Resistance", ab_item))
-    story.append(Paragraph("Book Three: The Weight of the Source", ab_item))
-    story.append(Spacer(1, 0.14*inch))
-    story.append(Paragraph(
-        "A completed upper-YA fantasy trilogy about grief, found family, and a "
-        "girl born with the one magic her world kills to keep buried. Written "
-        "for younger readers &#8212; no explicit content.", ab_note))
 
     if pad_to_even:
         story.append(PageBreak())

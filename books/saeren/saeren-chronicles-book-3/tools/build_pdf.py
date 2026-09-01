@@ -33,6 +33,13 @@ try:
 except FileNotFoundError:
     REV = ""
 _rev = f"-{REV}" if REV else ""
+
+# --- Front-matter fields (fill these in; empty string omits the line/page) ---
+ISBN = "979-8-1827-2380-0"      # print ISBN
+IMPRINT = "Post Peleos"
+DEDICATION = ""                # italic line on its own recto; "" omits the page
+ACKNOWLEDGMENTS = ("Thanks to everyone who has read my books and encouraged me "
+                   "to keep writing.")
 SRC = os.path.join(ROOT, "manuscript", f"full-manuscript{_rev}.md")
 OUT = os.path.join(ROOT, "delivery", "production",
                    f"Saeren-Chronicles-Book-Three-6x9-interior{_rev}.pdf")
@@ -78,6 +85,19 @@ fm_body = ParagraphStyle("fm_body", fontName="PlexSerif", fontSize=11,
                          allowWidows=0, allowOrphans=0)
 fm_half = ParagraphStyle("fm_half", fontName="PlexSerif-It", fontSize=16,
                          alignment=TA_CENTER, leading=20, textColor=K_BLACK)
+# --- "Also by" page ---------------------------------------------------------
+ab_series = ParagraphStyle("ab_series", fontName="PlexSerif-Bd", fontSize=11,
+                           alignment=TA_CENTER, leading=15, spaceBefore=6,
+                           spaceAfter=8, textColor=K_BLACK)
+ab_item = ParagraphStyle("ab_item", fontName="PlexSerif-It", fontSize=12,
+                         alignment=TA_CENTER, leading=18, textColor=K_BLACK)
+ab_lead = ParagraphStyle("ab_lead", fontName="PlexSerif", fontSize=10.5,
+                         alignment=TA_CENTER, leading=15, textColor=K_BLACK)
+ab_note = ParagraphStyle("ab_note", fontName="PlexSerif", fontSize=9.5,
+                         alignment=TA_CENTER, leading=13, textColor=K_BLACK)
+ab_rule = ParagraphStyle("ab_rule", fontName="PlexSerif", fontSize=11,
+                         alignment=TA_CENTER, leading=15, spaceBefore=22,
+                         spaceAfter=18, textColor=K_BLACK)
 
 BODY_OFFSET = [0]
 PAGE_COUNT = [0]
@@ -151,7 +171,26 @@ def build(pad_to_even=False, head_map=None):
     story.append(Spacer(1, 3.2*inch))
     story.append(Paragraph("THE SAEREN CHRONICLES", fm_half))
     end_page()
-    blank_verso_if_needed()
+
+    # --- verso: "Also by" (series + the adult line under the second pen name) ---
+    story.append(Spacer(1, 1.0*inch))
+    story.append(Paragraph("Also by Post Peleos", fm_head))
+    story.append(Paragraph("THE SAEREN CHRONICLES", ab_series))
+    story.append(Paragraph("Book One: Hazel Academy", ab_item))
+    story.append(Paragraph("Book Two: The Resistance", ab_item))
+    story.append(Paragraph("Book Three: The Weight of the Source", ab_item))
+    story.append(Spacer(1, 0.10*inch))
+    story.append(Paragraph("The trilogy is complete.", ab_note))
+    story.append(Paragraph("&#8212;&#160;&#160;&#8212;&#160;&#160;&#8212;", ab_rule))
+    story.append(Paragraph("Writing adult fantasy romance as", ab_lead))
+    story.append(Paragraph("S&#216;REN STROMBERG", ab_series))
+    story.append(Paragraph("A Bond of Scale and Silver", ab_item))
+    story.append(Spacer(1, 0.10*inch))
+    story.append(Paragraph(
+        "A standalone romantasy of dangerous devotion and the price of being "
+        "seen. Written for adult readers (18+) &#8212; not part of the Saeren "
+        "Chronicles, and not intended for the same shelf.", ab_note))
+    end_page()
 
     # --- recto: title page ---
     story.append(Spacer(1, 1.8*inch))
@@ -178,23 +217,25 @@ def build(pad_to_even=False, head_map=None):
         "retrieval systems, without written permission from the author, except "
         "for the use of brief quotations in a book review.",
         "",
-        "ISBN [ISBN]",
-        "",
+        f"ISBN {ISBN}" if ISBN else None,
+        "" if ISBN else None,
         "First Edition",
         "",
-        "[IMPRINT]",
+        IMPRINT,
     ]
+    cp = [line for line in cp if line is not None]
     story.append(Spacer(1, 3.0*inch))
     for line in cp:
         story.append(Paragraph(line if line else "&nbsp;", fm_small))
     end_page()
 
-    # --- recto: dedication ---
-    story.append(Spacer(1, 3.6*inch))
-    story.append(Paragraph("[Dedication]", ParagraphStyle(
-        "ded", parent=fm_center, fontName="PlexSerif-It")))
-    end_page()
-    blank_verso_if_needed()
+    # --- recto: dedication (only when set) ---
+    if DEDICATION.strip():
+        story.append(Spacer(1, 3.6*inch))
+        story.append(Paragraph(DEDICATION, ParagraphStyle(
+            "ded", parent=fm_center, fontName="PlexSerif-It")))
+        end_page()
+        blank_verso_if_needed()
 
     # --- Body (numbered) ---
     BODY_OFFSET[0] = state["page"]
@@ -218,25 +259,14 @@ def build(pad_to_even=False, head_map=None):
     # --- Back matter ---
     story.append(Paragraph("About the Author", fm_head))
     story.append(Paragraph(
-        "Post Peleos is a writer of fantasy. <i>The Saeren Chronicles</i> is "
-        "their debut series.", fm_body))
-    story.append(Spacer(1, 0.2*inch))
-    story.append(Paragraph("[EXPANDED BIO OPTIONAL]", fm_small))
+        "Post Peleos writes character-driven fantasy about quiet people in loud "
+        "worlds — stories that love to tease as much as they wound, and never "
+        "quite stop wondering what waits out beyond the stars. <i>The Saeren "
+        "Chronicles</i> is their debut series.", fm_body))
     story.append(PageBreak())
 
     story.append(Paragraph("Acknowledgments", fm_head))
-    story.append(Paragraph("[Acknowledgments]", fm_body))
-    story.append(PageBreak())
-
-    # --- Series-close note (final book; no Masters-of-the-Void tease — let it sit) ---
-    teaser_it = ParagraphStyle("teaser_it", parent=fm_center, fontName="PlexSerif-It")
-    story.append(Spacer(1, 1.0*inch))
-    story.append(Paragraph("THE SAEREN CHRONICLES", fm_head))
-    story.append(Paragraph("Book One: Hazel Academy", teaser_it))
-    story.append(Paragraph("Book Two: The Resistance", teaser_it))
-    story.append(Paragraph("Book Three: The Weight of the Source", teaser_it))
-    story.append(Spacer(1, 0.35*inch))
-    story.append(Paragraph("End of the trilogy.", fm_center))
+    story.append(Paragraph(ACKNOWLEDGMENTS, fm_body))
 
     if pad_to_even:
         story.append(PageBreak())

@@ -21,11 +21,28 @@ bash    tools/make_pdfx.sh             # -> delivery/production/...-interior-<re
 - Even physical page count (auto-padded) for perfect binding.
 - Body text is pure K-only black, so the CMYK pass yields clean black with no rich-black.
 
+## Cover wrap
+`../../../tools/compose_wrap.py book-2` builds the full wrap (back + spine + front,
+full bleed) from `delivery/cover/the-resistance-front-cover-fractured-light.png`.
+Spine = page count x `PPI_FACTOR`; that factor is set to IngramSpark **white 50#**
+(0.002252"/pp), which is what the accepted Book One and Book Two wraps were built at.
+**Confirm the paper stock at upload and re-check the spine against IngramSpark's own
+spine calculator before ordering** — it is the one dimension a reprint can't fix.
+Convert the wrap to PDF/X-1a with `bash tools/make_pdfx.sh <wrap.pdf> <wrap-PDFX1a.pdf>`.
+
 ## Current build
-- **r1 (V1)** — 20 chapters, 102,961 words, **306 pages** (even).
-  - `Saeren-Chronicles-Book-Two-6x9-interior-r1.pdf` — RGB review/proof copy.
-  - `Saeren-Chronicles-Book-Two-6x9-interior-r1-PDFX1a.pdf` — PDF/X-1a:2001 (IngramSpark).
-- Front/back matter use placeholders ([ISBN], [IMPRINT], [Dedication],
-  [Acknowledgments], expanded bio) — fill before final print.
-- r1 includes the climax-agency "witnessed cost" revision (Ch.17 reframe + Ch.19
-  Amber witness beat); see `feedback/climax-agency-witnessed-cost-2026-06-24.md`.
+- **r11** — 20 chapters, 103,245 words, **308 pages** (even).
+  - `Saeren-Chronicles-Book-Two-6x9-interior-r11.pdf` — RGB review/proof copy.
+  - `Saeren-Chronicles-Book-Two-6x9-interior-r11-PDFX1a.pdf` — PDF/X-1a:2001 (IngramSpark).
+  - `../cover/Saeren-Book-Two-FULL-WRAP-r11.pdf` + `-PDFX1a.pdf` — spine 0.694",
+    canvas 12.944" x 9.250", real EAN-13 for 979-8-2409-9382-4.
+  - `../ebook/Saeren-Chronicles-Book-Two-The-Resistance.epub` — eBook ISBN
+    979-8-2561-0025-4 (also the OPF `dc:identifier`).
+- What changed from r10: an **"Also by Post Peleos"** page was added to the front
+  matter, on the verso facing the title page (where a trade paperback conventionally
+  carries it). It lists the trilogy, then — under a rule — the adult line as
+  *A Bond of Scale and Silver* by **Søren Stromberg**, labelled 18+ so the YA brand
+  stays clean. The Book Three teaser at the back now names the title. Page count
+  306 -> 308, so the cover was re-cut to match.
+- Front matter is fully filled (ISBN, imprint, dedication, acknowledgments, bio) —
+  no placeholders remain in this book.

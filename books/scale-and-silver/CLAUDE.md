@@ -212,7 +212,7 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 - **2026-07-10 — ✅ PRODUCTION + PACKAGING COMPLETE (all on `main`).** Cover decided
   (`delivery/cover/front-cover-post-peleos.png` + `…-clean.png`). Interior assembled + built:
   `A-Bond-of-Scale-and-Silver-6x9-interior.pdf` (**448 pp**) + PDF/X-1a CMYK, fonts embedded. Front
-  matter added (half-title, title page w/ **Post Peleos**, copyright, **dedication**: "For all the ones
+  matter added (half-title, title page w/ **Søren Stromberg**, copyright, **dedication**: "For all the ones
   that were told to hide themselves from the world. We see you."). Full cover **wrap** built (spine
   1.120" @ 448 pp cream 50#) + X-1a. **EPUB 3** built + validated. Editorial package incl.
   `beta-reader-pitch.md`. Standalone; no series line; no in-interior heat advisory. Build scripts:

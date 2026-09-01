@@ -272,6 +272,17 @@ zip -X -q0 OUT.epub mimetype && zip -X -qrg OUT.epub . -x mimetype
 ---
 
 ## Quick reference — ISBNs used
-- Book 1 print: 979-8-2409-9043-4
+- Book 1 print: 979-8-2409-9043-4 · Book 1 eBook: 979-8-2409-9044-1
 - Book 2 print: 979-8-2409-9382-4 · Book 2 eBook: 979-8-2561-0025-4
-- (Book 3: fill in when assigned.)
+- Book 3 print: 979-8-1827-2380-0 · Book 3 eBook: 979-8-1827-2381-7
+- *A Bond of Scale and Silver* (Søren Stromberg) print: 979-8-1827-2378-7 ·
+  eBook: 979-8-1827-2379-4
+
+All of these are now baked into the builds: the print ISBN prints on the copyright
+page and renders as a real EAN-13 (no price add-on) on the back cover, and the
+eBook ISBN is both on the ebook copyright page and the EPUB's `dc:identifier`.
+
+> **Two names, two lists.** The Saeren books publish as **Post Peleos**;
+> *A Bond of Scale and Silver* publishes as **Søren Stromberg** (the adult, 18+
+> line). Set the author field to the right one per title when you create the
+> IngramSpark record — it must match the cover and title page.

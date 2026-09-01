@@ -1,6 +1,6 @@
 # Beta-Reader Pitch — *A Bond of Scale and Silver*
 
-> Standalone adult romantasy · ~154,000 words · by Post Peleos
+> Standalone adult romantasy · ~154,000 words · by Søren Stromberg
 > Spoiler-light recruiting pitch (stops before the climax). For the spoiler-complete
 > version see `synopsis.md`; for the sales blurb see `back-cover.md`.
 

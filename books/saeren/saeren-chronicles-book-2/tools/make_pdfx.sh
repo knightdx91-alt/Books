@@ -2,7 +2,8 @@
 # Convert the RGB interior PDF to PDF/X-1a:2001 (CMYK + OutputIntent) for IngramSpark.
 # Requires Ghostscript (gs). Run AFTER tools/build_pdf.py.
 #
-#   bash tools/make_pdfx.sh
+#   bash tools/make_pdfx.sh                 # interior (default)
+#   bash tools/make_pdfx.sh <in.pdf> <out.pdf>   # e.g. the cover wrap
 #
 # Output: delivery/production/Saeren-Chronicles-Book-Two-6x9-interior-<REV>-PDFX1a.pdf
 # Text in the interior is pure K-only black (set in build_pdf.py), so the CMYK
@@ -14,8 +15,8 @@ ROOT="$(dirname "$HERE")"
 REV="$(cat "$ROOT/REVISION" 2>/dev/null || echo "")"
 SUF=""; [ -n "$REV" ] && SUF="-$REV"
 
-IN="$ROOT/delivery/production/Saeren-Chronicles-Book-Two-6x9-interior${SUF}.pdf"
-OUT="$ROOT/delivery/production/Saeren-Chronicles-Book-Two-6x9-interior${SUF}-PDFX1a.pdf"
+IN="${1:-$ROOT/delivery/production/Saeren-Chronicles-Book-Two-6x9-interior${SUF}.pdf}"
+OUT="${2:-${IN%.pdf}-PDFX1a.pdf}"
 DEF="$HERE/PDFX_def.ps"
 
 [ -f "$IN" ] || { echo "ERROR: interior PDF not found: $IN (run tools/build_pdf.py first)"; exit 1; }

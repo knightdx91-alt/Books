@@ -17,7 +17,8 @@ before a print order.
 - **Interior** — `manuscript/full-manuscript.md` reassembled (29 ch) → `production/build_pdf.py` →
   `delivery/production/A-Bond-of-Scale-and-Silver-6x9-interior.pdf` (**448 pp**) + PDF/X-1a CMYK.
   Fonts embedded (Plex subsets only), body paginates from 1.
-- **Front matter** — half-title, title page (title / "a novel" / **Post Peleos**), copyright page,
+- **Front matter** — half-title, "Also by this author" (verso), title page (title / "a novel" /
+  **Søren Stromberg**), copyright page,
   and the **dedication**: *"For all the ones that were told to hide themselves from the world. We see
   you."* Author decisions applied: standalone (no series line), no in-interior heat advisory.
 - **Cover wrap** — `production/compose_wrap.py` → `…-wrap-6x9.pdf` (+ X-1a CMYK). Spine **1.120"** @
