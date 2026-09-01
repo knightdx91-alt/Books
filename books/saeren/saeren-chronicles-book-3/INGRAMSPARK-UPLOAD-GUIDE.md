@@ -331,3 +331,34 @@ previously accepted files went through the same conversion.
 It does mean the upload PDFs are poor for full-text search, copy-paste and screen
 readers. If a genuinely searchable PDF is ever needed (an ARC, an accessibility
 copy), ship the **RGB** build — its text layer is clean.
+readers. If a genuinely searchable PDF is ever needed (an ARC, an accessibility
+copy), ship the **RGB** build — its text layer is clean.
+
+### Upload failures — "An error has occurred during the upload"
+
+Hit 2026-09-01 uploading Scale & Silver. Generic message, tells you nothing about the
+cause. Work through these in order; the files are almost never the problem.
+
+1. **Use Chrome, not Safari.** IngramSpark's uploader has known problems in Safari —
+   their own support steers people to Chrome, and Safari's cross-site tracking
+   prevention breaks the upload widget. This is the first thing to try.
+2. **Safari also mangles downloads.** Its "Open 'safe' files after downloading"
+   setting auto-expands archives, and an EPUB *is* a zip — it will silently turn your
+   `.epub` into a folder. Turn that off (Safari → Settings → General) before
+   downloading anything destined for upload.
+3. **Session expiry.** Log out completely, close the tab, log back in. Their tokens
+   expire quietly and the upload is the first thing to fail.
+4. **Title locked by a previous submission.** After a validation report — especially
+   if you accepted the "we can correct this automatically" offer — the title enters
+   processing and file controls lock until it clears. Check the title's status on the
+   dashboard; cancel or wait before trying to replace files.
+5. **Extensions.** Ad-blockers and privacy extensions break the widget. Incognito with
+   extensions off.
+
+**Rule out the files first, cheaply:** every file in `completed-books/` is checksummed
+in `completed-books/MANIFEST.md`. Compare the byte size of what landed on your machine
+(Finder → ⌘I) against the manifest. If it matches, the file is fine and the problem is
+the browser, the session, or the title's state.
+
+**Downloading from GitHub:** use the **Download raw file** button. Saving from the file
+preview page gives you an HTML page with a `.pdf` name, which is rejected instantly.
