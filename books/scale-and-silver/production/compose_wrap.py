@@ -41,7 +41,11 @@ AUTHOR_BIO = ("S&#248;ren Stromberg writes adult fantasy romance &#8212; dangero
 # point this at a different file or set it to "" and the block drops out.
 AUTHOR_PHOTO = os.path.join(os.path.dirname(ROOT), "_assets", "author-photo.jpg")
 ISBN = "979-8-1827-2378-7"      # print ISBN — drawn as a real EAN-13 on the back
-FRONT = os.path.join(ROOT, "delivery", "cover", "front-cover-soren-stromberg.png")
+# 2x render of the composited front (art bed + HTML/CSS type). The type is
+# genuinely vector-sharp at this size rather than resampled; only the art bed is
+# interpolated. Regenerate with delivery/cover/compose_cover.py + headless Chromium
+# at --force-device-scale-factor=2 (see PRODUCTION-PLAYBOOK).
+FRONT = os.path.join(ROOT, "delivery", "cover", "front-cover-soren-stromberg-2x.png")
 OUT = os.path.join(ROOT, "delivery", "production",
                    f"A-Bond-of-Scale-and-Silver-wrap-6x9{_rev}.pdf")
 TMP = os.path.join(ROOT, "delivery", "production", "_front-bleed.png")

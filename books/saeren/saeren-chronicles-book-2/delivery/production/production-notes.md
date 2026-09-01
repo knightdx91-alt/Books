@@ -68,3 +68,30 @@ bash tools/make_noicc.sh cmyk <wrap-rN.pdf>     <wrap-rN-CMYK-noicc.pdf>
 ```
 It leaves images at source resolution rather than resampling them to exactly
 300 dpi, and it verifies the output carries no ICC profile or output intent.
+
+## Front-cover art resolution — resolved 2026-09-01
+All four covers now place their front art at **375 dpi or better** (Scale & Silver
+at 470), clear of IngramSpark's 300 dpi floor.
+
+- **Scale & Silver** is the real fix: its front is composited in-repo
+  (`delivery/cover/compose_cover.py` = art bed + HTML/CSS type), so it was
+  **re-rendered at 2x** through headless Chromium. The *type* is genuinely
+  vector-sharp at that size rather than resampled — and type is what shows
+  softness in print. Only its art bed is interpolated.
+  ```
+  python3 delivery/cover/compose_cover.py
+  chromium --headless --no-sandbox --disable-gpu --hide-scrollbars \
+    --force-device-scale-factor=2 --window-size=1600,2263 \
+    --screenshot=front-cover-soren-stromberg-2x.png "file://$PWD/compose.html"
+  ```
+- **Books One, Two and Three** are fixed rasters with no design source in the repo,
+  so they were resampled with `tools/cover_art_to_print_res.py` into `-print`
+  variants that the wrap generator now points at. **Be straight about what that
+  is:** it clears the spec and puts our resampler in charge instead of the
+  printer's RIP, but it adds no detail. The cost is unusually low here — the art is
+  soft gradient (smoke, glow, a crack, an eclipse) with almost no high-frequency
+  detail, and the type on it was already antialiased — but it is not the same as a
+  true high-res export.
+- **If the original design files ever turn up**, re-export the front art at
+  ≥1838 x 2775 px, drop it in under the plain filename, and point `front=` back at
+  it. That is the only way to get real detail rather than a clean number.

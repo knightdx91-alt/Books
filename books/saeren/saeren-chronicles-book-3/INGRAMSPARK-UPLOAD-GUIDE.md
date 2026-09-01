@@ -293,10 +293,10 @@ eBook ISBN is both on the ebook copyright page and the EPUB's `dc:identifier`.
 
 | Title | Interior (upload) | Cover (upload) | eBook | Pages | Spine |
 |---|---|---|---|---|---|
-| Book One — Hazel Academy | `…interior-r17-GRAY-noicc.pdf` | `…FULL-WRAP-r17-CMYK-noicc.pdf` | `…Hazel-Academy.epub` | 294 | 0.662" |
-| Book Two — The Resistance | `…interior-r12-GRAY-noicc.pdf` | `…FULL-WRAP-r12-CMYK-noicc.pdf` | `…The-Resistance.epub` | 308 | 0.694" |
-| Book Three — The Weight of the Source | `…interior-r9-GRAY-noicc.pdf` | `…FULL-WRAP-r9-CMYK-noicc.pdf` | `…The-Weight-of-the-Source.epub` | 324 | 0.730" |
-| A Bond of Scale and Silver | `…interior-r3-GRAY-noicc.pdf` | `…wrap-6x9-r3-CMYK-noicc.pdf` | `A-Bond-of-Scale-and-Silver.epub` | 448 | 1.120" |
+| Book One — Hazel Academy | `…interior-r18-GRAY-noicc.pdf` | `…FULL-WRAP-r18-CMYK-noicc.pdf` | `…Hazel-Academy.epub` | 294 | 0.662" |
+| Book Two — The Resistance | `…interior-r13-GRAY-noicc.pdf` | `…FULL-WRAP-r13-CMYK-noicc.pdf` | `…The-Resistance.epub` | 308 | 0.694" |
+| Book Three — The Weight of the Source | `…interior-r10-GRAY-noicc.pdf` | `…FULL-WRAP-r10-CMYK-noicc.pdf` | `…The-Weight-of-the-Source.epub` | 324 | 0.730" |
+| A Bond of Scale and Silver | `…interior-r4-GRAY-noicc.pdf` | `…wrap-6x9-r4-CMYK-noicc.pdf` | `A-Bond-of-Scale-and-Silver.epub` | 448 | 1.120" |
 
 The `-PDFX1a` builds sitting beside these are the archival/prepress copies. Upload
 the **GRAY-noicc** interior and the **CMYK-noicc** cover, per Part C above.
@@ -307,12 +307,9 @@ earlier Book One and Book Two covers were accepted at (0.661" at 294pp, 0.687" a
 stock you actually select and re-check against IngramSpark's spine calculator before
 ordering** — spine width is the one dimension a reprint can't fix.
 
-> **⚠ Front-cover art resolution.** The front art is below the 300 dpi IngramSpark
-> asks for on three of the four titles — Book Two and Book Three at **243 dpi**,
-> Scale & Silver at **235 dpi**; only Book One clears it at 300. This is a property
-> of the source artwork, not the build, and it is unchanged from the covers already
-> uploaded, so it is not a new problem — but it may draw a preflight warning and can
-> print slightly soft. Upscaling would not add detail. The only real fix is
-> re-exporting the front art larger (≥1838 x 2775 px for a 6.125 x 9.25" bleed area).
-> Everything else in the covers is comfortably over spec: author photo 1080 dpi,
-> barcodes ~500 dpi.
+> **Front-cover art resolution — resolved.** Every cover now places its art at
+> **375 dpi or better** (Scale & Silver 470), author photo 1080 dpi, barcodes ~500
+> dpi. Scale & Silver's front was genuinely re-rendered at 2x (its type is vector,
+> so it is truly sharp); Books One to Three were resampled to `-print` variants,
+> which clears the spec but adds no detail — if a higher-resolution export of the
+> original art appears, swap it in. See the per-book production notes.

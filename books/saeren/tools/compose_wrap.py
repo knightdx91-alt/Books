@@ -18,6 +18,12 @@ before ordering, because the spine is the one dimension a reprint can't fix.
 Page counts come from tools/build_pdf.py's reported TOTAL PHYSICAL PAGE COUNT;
 bump PAGES here whenever the interior is re-cut at a different length.
 
+The `front` paths point at the "-print" art: the same artwork resampled up so it
+clears IngramSpark's 300 dpi floor once the wrap centre-crops it to the front
+panel (see tools/cover_art_to_print_res.py, which explains what that does and,
+importantly, does not do). If a genuinely higher-resolution export of the original
+art ever turns up, drop it in as the plain filename and point these back at it.
+
 Output: <book>/delivery/cover/Saeren-Book-<N>-FULL-WRAP-<rev>.pdf (RGB proof).
 Convert to PDF/X-1a with the book's own tools/make_pdfx.sh, passing in/out paths.
 """
@@ -56,7 +62,7 @@ BOOKS = {
     "book-1": dict(
         slug="saeren-chronicles",
         out_name="Saeren-Book-One-FULL-WRAP",
-        front="delivery/cover/hazel-academy-front-cover.png",
+        front="delivery/cover/hazel-academy-front-cover-print.png",
         book_line="BOOK ONE",
         title="HAZEL ACADEMY",
         spine_title="HAZEL ACADEMY",
@@ -85,7 +91,7 @@ BOOKS = {
     "book-2": dict(
         slug="saeren-chronicles-book-2",
         out_name="Saeren-Book-Two-FULL-WRAP",
-        front="delivery/cover/the-resistance-front-cover-fractured-light.png",
+        front="delivery/cover/the-resistance-front-cover-fractured-light-print.png",
         book_line="BOOK TWO",
         title="THE RESISTANCE",
         spine_title="THE RESISTANCE",
@@ -110,7 +116,7 @@ BOOKS = {
     "book-3": dict(
         slug="saeren-chronicles-book-3",
         out_name="Saeren-Book-Three-FULL-WRAP",
-        front="delivery/cover/the-weight-of-the-source-front-cover-eclipse.png",
+        front="delivery/cover/the-weight-of-the-source-front-cover-eclipse-print.png",
         book_line="BOOK THREE",
         title="THE WEIGHT OF THE SOURCE",
         spine_title="THE WEIGHT OF THE SOURCE",
