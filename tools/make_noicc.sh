@@ -10,10 +10,18 @@
 # copies; these are the upload copies. An embedded ICC profile only triggers the
 # "PDF CONTAINS ICC COLOR PROFILES" warning, so we ship without one.
 #
-# Downsampling is switched OFF. /prepress otherwise resamples images to exactly
-# 300 dpi, which is IngramSpark's floor rather than a comfortable margin — the
-# author photo would land on 300.0 dpi and any rounding in their preflight could
-# read as under-spec. Keeping the source resolution costs a few hundred KB.
+# Images are downsampled to 300 ppi (600 for bitmap line art), which is what
+# IngramSpark asks for.
+#
+# This was briefly set to preserve native resolution instead, on the theory that
+# landing on exactly 300.0 risked reading as under-spec. That was wrong, and
+# IngramSpark rejected the upload for it: "UNNECESSARY HIGH RESOLUTION IMAGES IN
+# FILE ... Excessively high resolution images will not increase the quality of the
+# printed book, and can lead to the book being delayed while processing." Their
+# preflight objects to too-high as well as too-low. 300 is the target, not a floor.
+#
+# The threshold overrides matter: /prepress only downsamples above 1.5x the target
+# by default, so 300-450 ppi images would have slipped through untouched.
 set -euo pipefail
 
 MODE="${1:?usage: make_noicc.sh <gray|cmyk> <in.pdf> <out.pdf>}"
@@ -34,8 +42,12 @@ gs -q -dBATCH -dNOPAUSE -dNOSAFER -sDEVICE=pdfwrite \
    -sColorConversionStrategy="$CS" -sProcessColorModel="$PCM" \
    -dAutoRotatePages=/None \
    -dEmbedAllFonts=true -dSubsetFonts=true \
-   -dDownsampleGrayImages=false -dDownsampleColorImages=false \
-   -dDownsampleMonoImages=false \
+   -dDownsampleColorImages=true  -dColorImageResolution=300 \
+   -dDownsampleGrayImages=true   -dGrayImageResolution=300 \
+   -dDownsampleMonoImages=true   -dMonoImageResolution=600 \
+   -dColorImageDownsampleThreshold=1.0 \
+   -dGrayImageDownsampleThreshold=1.0 \
+   -dMonoImageDownsampleThreshold=1.0 \
    -sOutputFile="$OUT" "$IN"
 
 # Verify it really is profile-free — an ICC profile here is the one thing that

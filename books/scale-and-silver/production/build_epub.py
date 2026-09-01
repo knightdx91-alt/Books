@@ -23,6 +23,9 @@ BOOK_TITLE = "A Bond of Scale and Silver"
 # The adult line publishes under the author's second pen name.
 AUTHOR = "Søren Stromberg"
 ISBN = "979-8-1827-2379-4"      # ebook ISBN (print is 979-8-1827-2378-7)
+# The NCX dtb:uid must equal the OPF dc:identifier or IngramSpark rejects the
+# upload with "an identifier mismatch was found within the ePub file".
+ISBN_DIGITS = ISBN.replace("-", "")
 YEAR = "2026"
 LANG = "en"
 DEDICATION = "For all the ones that were told to hide themselves from the world. We see you."
@@ -213,7 +216,7 @@ def main():
     ncx = (
         '<?xml version="1.0" encoding="utf-8"?>\n'
         '<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">\n'
-        f'  <head><meta name="dtb:uid" content="{BOOK_UUID}"/>\n'
+        f'  <head><meta name="dtb:uid" content="urn:isbn:{ISBN_DIGITS}"/>\n'
         '    <meta name="dtb:depth" content="1"/>\n'
         '    <meta name="dtb:totalPageCount" content="0"/>\n'
         '    <meta name="dtb:maxPageNumber" content="0"/></head>\n'

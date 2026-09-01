@@ -99,6 +99,7 @@ def plan():
 
 def main(check=False):
     missing, stale = [], []
+    wanted = {}          # dir -> filenames that belong there
     p = plan()
     for b, r, files in p:
         for src, dst, _ in files:
@@ -110,16 +111,35 @@ def main(check=False):
             else:
                 os.makedirs(os.path.dirname(dst), exist_ok=True)
                 shutil.copy2(src, dst)
+                wanted.setdefault(os.path.dirname(dst), set()).add(os.path.basename(dst))
     if missing:
         print("MISSING SOURCE FILES:"); [print("  ", os.path.relpath(m, ROOT)) for m in missing]
         return 1
     if check:
+        for b, r, files in p:
+            d = os.path.join(OUT, b["folder"])
+            keep = {os.path.basename(dst) for _, dst, _ in files}
+            if os.path.isdir(d):
+                stale += [os.path.relpath(os.path.join(d, f), ROOT)
+                          for f in sorted(os.listdir(d)) if f not in keep]
         if stale:
             print("STALE — completed-books/ does not match the current builds:")
             [print("  ", s) for s in stale]
             return 1
         print("completed-books/ is up to date with every book's current REVISION")
         return 0
+
+    # --- remove superseded revisions -----------------------------------------
+    # Filenames carry the revision, so a re-cut leaves the previous build sitting
+    # beside the new one. That is precisely the stale-file hazard this folder exists
+    # to prevent — someone uploads r19 because it sorted first. Anything in a book's
+    # folder that is not part of the current build goes.
+    removed = []
+    for d, keep in wanted.items():
+        for f in sorted(os.listdir(d)):
+            if f not in keep:
+                os.remove(os.path.join(d, f))
+                removed.append(os.path.relpath(os.path.join(d, f), ROOT))
 
     # --- MANIFEST -----------------------------------------------------------
     lines = ["# Manifest\n",
@@ -138,6 +158,10 @@ def main(check=False):
 
     for b, r, files in p:
         print(f"{b['title']:28s} {r:4s} -> completed-books/{b['folder']}/")
+    if removed:
+        print(f"\nremoved {len(removed)} superseded file(s):")
+        for f in removed:
+            print("  ", f)
     print("\nwrote completed-books/MANIFEST.md")
     return 0
 

@@ -6,10 +6,10 @@ refresh, and `--check` to verify nothing here has gone stale against the live bu
 
 | # | Title | Pen name | Pages | Spine | Print ISBN | eBook ISBN | Rev |
 |---|---|---|---|---|---|---|---|
-| 1 | Hazel Academy | Post Peleos | 294 | 0.662" | 979-8-2409-9043-4 | 979-8-2409-9044-1 | r19 |
-| 2 | The Resistance | Post Peleos | 308 | 0.694" | 979-8-2409-9382-4 | 979-8-2561-0025-4 | r13 |
-| 3 | The Weight of the Source | Post Peleos | 324 | 0.730" | 979-8-1827-2380-0 | 979-8-1827-2381-7 | r10 |
-| 4 | A Bond of Scale and Silver | **Søren Stromberg** | 448 | 1.120" | 979-8-1827-2378-7 | 979-8-1827-2379-4 | r5 |
+| 1 | Hazel Academy | Post Peleos | 294 | 0.662" | 979-8-2409-9043-4 | 979-8-2409-9044-1 | r20 |
+| 2 | The Resistance | Post Peleos | 308 | 0.694" | 979-8-2409-9382-4 | 979-8-2561-0025-4 | r14 |
+| 3 | The Weight of the Source | Post Peleos | 324 | 0.730" | 979-8-1827-2380-0 | 979-8-1827-2381-7 | r11 |
+| 4 | A Bond of Scale and Silver | **Søren Stromberg** | 448 | 1.120" | 979-8-1827-2378-7 | 979-8-1827-2379-4 | r6 |
 
 Books 1–3 are the upper-YA Saeren trilogy under **Post Peleos**. Book 4 is a
 standalone adult romantasy (18+) under **Søren Stromberg** — set the author field to
@@ -50,10 +50,11 @@ Full walkthrough, including the Cloud Shell + VNC route from a locked phone, is 
   covers were built at. Scale & Silver is at cream 50# per its own playbook. Re-check
   the final number against IngramSpark's spine calculator — the spine is the one
   dimension a reprint cannot fix.
-- **Cover art is upscaled, not native 300 dpi.** Every cover places its art at 375 dpi
-  or better, but that is reached by resampling (1.24–1.55×; Scale & Silver's front was
-  genuinely re-rendered at 2×). It clears the spec and adds no detail. Recorded in each
-  book's production notes.
+- **Images sit at 300 ppi, which is what IngramSpark asks for.** They rejected an
+  earlier upload for *too high* a resolution ("unnecessary high resolution images"), so
+  the conversion downsamples to 300 (600 for bitmap line art). Note the underlying
+  cover art is upscaled to reach that number rather than being natively 300 — it clears
+  the spec and adds no detail. Recorded in each book's production notes.
 - **The text layer is degraded in the upload PDFs.** The Ghostscript grayscale/CMYK
   pass drops the fonts' ToUnicode mapping, so non-ASCII characters (em dashes, curly
   quotes, ©, ø) do not *extract* — printing is unaffected. If you ever need a
