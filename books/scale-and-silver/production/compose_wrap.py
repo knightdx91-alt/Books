@@ -130,6 +130,8 @@ def draw_cover_fit(c, img_path, x, y, w, h):
 def main():
     front = prep_front()
     c = canvas.Canvas(OUT, pagesize=(FULL_W * inch, FULL_H * inch))
+    c.setTitle("A Bond of Scale and Silver (cover)")
+    c.setAuthor(AUTHOR)
 
     # 1) whole canvas dark (so any bleed/gaps match the art)
     c.setFillColor(BG)

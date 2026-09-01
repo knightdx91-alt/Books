@@ -197,6 +197,8 @@ def main(key):
     full_h = TRIM_H + 2 * BLEED
 
     c = canvas.Canvas(out, pagesize=(full_w * inch, full_h * inch))
+    c.setTitle(f'The Saeren Chronicles - {cfg["book_line"].title()}: {cfg["title"].title()} (cover)')
+    c.setAuthor(AUTHOR)
 
     # 1) whole canvas dark, so any bleed/gap matches the art
     c.setFillColor(BG)

@@ -313,3 +313,19 @@ ordering** — spine width is the one dimension a reprint can't fix.
 > so it is truly sharp); Books One to Three were resampled to `-print` variants,
 > which clears the spec but adds no detail — if a higher-resolution export of the
 > original art appears, swap it in. See the per-book production notes.
+
+### Known, accepted: the Ghostscript pass costs the text layer
+
+`make_noicc.sh` converts the RGB build to grayscale/CMYK via Ghostscript, and
+pdfwrite drops the fonts' ToUnicode mapping on the way through. Consequence: in the
+**upload** PDFs, non-ASCII characters (em dashes, curly quotes, ©, ø) no longer
+*extract* — `pdftotext` renders them as spaces. Verified: the RGB build extracts
+"Søren Stromberg" and "©" correctly; the GRAY-noicc build does not.
+
+**This does not affect printing at all** — every glyph renders correctly on the page;
+only the invisible text layer is degraded. It also predates this pipeline: the
+previously accepted files went through the same conversion.
+
+It does mean the upload PDFs are poor for full-text search, copy-paste and screen
+readers. If a genuinely searchable PDF is ever needed (an ARC, an accessibility
+copy), ship the **RGB** build — its text layer is clean.
