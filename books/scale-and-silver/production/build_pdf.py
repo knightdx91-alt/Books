@@ -25,7 +25,8 @@ from reportlab.lib.colors import CMYKColor
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame,
-                                Paragraph, Spacer, PageBreak, NextPageTemplate)
+                                Paragraph, Spacer, PageBreak, NextPageTemplate,
+                                Image as RLImage)
 
 # Pure K-only black for text: converts cleanly to K-only in the CMYK pass, so
 # body type prints as a single plate (no rich-black / registration fuzz).
@@ -48,6 +49,11 @@ BOOK_TITLE = "A BOND OF SCALE AND SILVER"
 AUTHOR = "Søren Stromberg"
 ISBN = "979-8-1827-2378-7"      # print ISBN
 YEAR = "2026"
+
+# Author photo for the "About the Author" page. Grayscale on purpose: the interior
+# uploads to IngramSpark as DeviceGray, so a colour image would be converted anyway.
+AUTHOR_PHOTO = os.path.join(ROOT, "..", "_assets", "author-photo-gray.jpg")
+AUTHOR_PHOTO_W = 1.6 * inch          # 1080px source -> ~675 dpi at this size
 
 # --- Dedication --------------------------------------------------------------
 # Replace with the author's final line. Set to "" to omit the dedication page.
@@ -262,6 +268,11 @@ def build(pad_to_even=False):
 
     # ===== Back matter =====
     story.append(Paragraph("About the Author", bm_head))
+    if os.path.exists(AUTHOR_PHOTO):
+        photo = RLImage(AUTHOR_PHOTO, width=AUTHOR_PHOTO_W, height=AUTHOR_PHOTO_W)
+        photo.hAlign = "CENTER"
+        story.append(photo)
+        story.append(Spacer(1, 0.22*inch))
     story.append(Paragraph(
         "S&#248;ren Stromberg writes adult fantasy romance &#8212; dangerous "
         "devotion, bonds that are chosen rather than fated, and the price of "

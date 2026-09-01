@@ -44,7 +44,7 @@ shorter, cut the fourth paragraph's middle sentences first.)*
 ## Author bio (1–2 lines, back cover + metadata contributor field)
 
 > **Post Peleos** writes character-driven fantasy about quiet people in loud worlds.
-> *The Saeren Chronicles* is their debut series. *(Expand with location / "lives with…"
+> *The Saeren Chronicles* is his debut series. *(Expand with location / "lives with…"
 > / prior work if desired.)*
 
 ---

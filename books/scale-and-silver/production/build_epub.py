@@ -15,6 +15,8 @@ import os, re, html, zipfile, datetime, uuid
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "manuscript", "full-manuscript.md")
 COVER = os.path.join(ROOT, "delivery", "cover", "front-cover-soren-stromberg.png")
+# Author photo for the About the Author page (colour; ebooks aren't B&W-limited).
+AUTHOR_PHOTO = os.path.join(ROOT, "..", "_assets", "author-photo.jpg")
 OUT = os.path.join(ROOT, "delivery", "production", "A-Bond-of-Scale-and-Silver.epub")
 
 BOOK_TITLE = "A Bond of Scale and Silver"
@@ -149,8 +151,11 @@ def main():
         f'written permission from the author, except for brief quotations in a review.</p>'
         f'<p class="copyright">ISBN {ISBN}</p>'
         f'<p class="copyright">First edition, {YEAR}.</p>')
+    _photo = ('<div style="text-align:center"><img src="../images/author-photo.jpg" '
+              'alt="" style="max-width:45%;margin:0 auto 1em;"/></div>'
+              if os.path.exists(AUTHOR_PHOTO) else "")
     backmatter_xhtml = wrap_page("About the Author",
-        '<h2 class="chnum">About the Author</h2>'
+        '<h2 class="chnum">About the Author</h2>' + _photo +
         f'<p class="first">{esc(AUTHOR)} writes adult fantasy romance &#8212; dangerous '
         'devotion, bonds that are chosen rather than fated, and the price of finally '
         f'being seen. <em>{esc(BOOK_TITLE)}</em> is the first novel under this name.</p>')
@@ -222,6 +227,8 @@ def main():
         '    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>',
         '    <item id="css" href="css/style.css" media-type="text/css"/>',
         '    <item id="cover-image" href="images/cover.png" media-type="image/png" properties="cover-image"/>',
+        *(['    <item id="author-photo" href="images/author-photo.jpg" media-type="image/jpeg"/>']
+          if os.path.exists(AUTHOR_PHOTO) else []),
     ]
     spine = []
     for (_id, fn, _x, _nt) in docs:
@@ -266,6 +273,9 @@ def main():
         z.writestr("OEBPS/css/style.css", CSS)
         with open(COVER, "rb") as f:
             z.writestr("OEBPS/images/cover.png", f.read())
+        if os.path.exists(AUTHOR_PHOTO):
+            with open(AUTHOR_PHOTO, "rb") as f:
+                z.writestr("OEBPS/images/author-photo.jpg", f.read())
         for (_id, fn, xhtml, _nt) in docs:
             z.writestr("OEBPS/" + fn, xhtml)
     print("wrote", OUT, f"({len(chapters)} chapters)")

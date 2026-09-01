@@ -286,3 +286,33 @@ eBook ISBN is both on the ebook copyright page and the EPUB's `dc:identifier`.
 > *A Bond of Scale and Silver* publishes as **Søren Stromberg** (the adult, 18+
 > line). Set the author field to the right one per title when you create the
 > IngramSpark record — it must match the cover and title page.
+
+---
+
+## Current upload set (2026-09-01)
+
+| Title | Interior (upload) | Cover (upload) | eBook | Pages | Spine |
+|---|---|---|---|---|---|
+| Book One — Hazel Academy | `…interior-r17-GRAY-noicc.pdf` | `…FULL-WRAP-r17-CMYK-noicc.pdf` | `…Hazel-Academy.epub` | 294 | 0.662" |
+| Book Two — The Resistance | `…interior-r12-GRAY-noicc.pdf` | `…FULL-WRAP-r12-CMYK-noicc.pdf` | `…The-Resistance.epub` | 308 | 0.694" |
+| Book Three — The Weight of the Source | `…interior-r9-GRAY-noicc.pdf` | `…FULL-WRAP-r9-CMYK-noicc.pdf` | `…The-Weight-of-the-Source.epub` | 324 | 0.730" |
+| A Bond of Scale and Silver | `…interior-r3-GRAY-noicc.pdf` | `…wrap-6x9-r3-CMYK-noicc.pdf` | `A-Bond-of-Scale-and-Silver.epub` | 448 | 1.120" |
+
+The `-PDFX1a` builds sitting beside these are the archival/prepress copies. Upload
+the **GRAY-noicc** interior and the **CMYK-noicc** cover, per Part C above.
+
+Spines are computed at **white 50#** (0.002252"/pp), which reproduces the sizes the
+earlier Book One and Book Two covers were accepted at (0.661" at 294pp, 0.687" at
+306pp). Scale & Silver's is at cream 50# per its own playbook. **Confirm the paper
+stock you actually select and re-check against IngramSpark's spine calculator before
+ordering** — spine width is the one dimension a reprint can't fix.
+
+> **⚠ Front-cover art resolution.** The front art is below the 300 dpi IngramSpark
+> asks for on three of the four titles — Book Two and Book Three at **243 dpi**,
+> Scale & Silver at **235 dpi**; only Book One clears it at 300. This is a property
+> of the source artwork, not the build, and it is unchanged from the covers already
+> uploaded, so it is not a new problem — but it may draw a preflight warning and can
+> print slightly soft. Upscaling would not add detail. The only real fix is
+> re-exporting the front art larger (≥1838 x 2775 px for a 6.125 x 9.25" bleed area).
+> Everything else in the covers is comfortably over spec: author photo 1080 dpi,
+> barcodes ~500 dpi.

@@ -46,10 +46,42 @@ GREY = HexColor("#AEB8C6")
 EMBER = HexColor("#C9A25A")
 
 AUTHOR = "Post Peleos"
+# Author photo for the back panel. Colour here (covers print CMYK); the interiors
+# use the grayscale twin because they upload as DeviceGray.
+AUTHOR_PHOTO = os.path.join(os.path.dirname(SAEREN), "_assets", "author-photo.jpg")
 AUTHOR_BIO = ("Post Peleos writes character-driven fantasy about quiet people "
-              "in loud worlds. <i>The Saeren Chronicles</i> is their debut series.")
+              "in loud worlds. <i>The Saeren Chronicles</i> is his debut series.")
 
 BOOKS = {
+    "book-1": dict(
+        slug="saeren-chronicles",
+        out_name="Saeren-Book-One-FULL-WRAP",
+        front="delivery/cover/hazel-academy-front-cover.png",
+        book_line="BOOK ONE",
+        title="HAZEL ACADEMY",
+        spine_title="HAZEL ACADEMY",
+        pages=294,                       # interior r17
+        isbn="979-8-2409-9043-4",
+        hook="The last ordinary morning of Viridia&#8217;s life smelled like scorched "
+             "bread and her mother&#8217;s tea.",
+        paras=[
+            "Three days later she walks through the gates of Hazel &#8212; the most "
+            "prestigious school for mages in the country &#8212; orphaned, silent, and "
+            "certain of one thing: no one is ever going to see her grieve.",
+            "In a world that long ago tore its magic cleanly in two &#8212; light from "
+            "dark, safe from forbidden &#8212; Viridia was born <i>whole.</i> Both "
+            "halves. The one thing Hazel was built to make certain could never exist. "
+            "To be known is to be killed. So she makes herself small, learns in secret "
+            "what she truly is, and lets in one person: Alice, the only girl at Hazel "
+            "who sees the drowning underneath the quiet.",
+            "Then the people who fear what this school hides decide to burn it down "
+            "&#8212; and a girl who survives by disappearing must choose between the "
+            "many she can save and the one she cannot bear to lose.",
+        ],
+        closing="A quiet, lyrical fantasy about grief, found family, and a girl who "
+                "refuses to be made small &#8212; the first book of <i>The Saeren "
+                "Chronicles.</i>",
+    ),
     "book-2": dict(
         slug="saeren-chronicles-book-2",
         out_name="Saeren-Book-Two-FULL-WRAP",
@@ -209,19 +241,30 @@ def main(key):
     flow.append(Paragraph(cfg["closing"], closing))
 
     barcode_h, barcode_w = 1.1, 1.9
-    author_block_h = 0.62
+    author_block_h = 1.0
     frame_bottom = (BLEED + SAFE + max(barcode_h, author_block_h) + 0.28) * inch
     frame_top = (full_h - BLEED - SAFE) * inch
     Frame(back_left, frame_bottom, back_width, frame_top - frame_bottom,
           leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0,
           showBoundary=0).addFromList(flow, c)
 
-    # 5) author block, bottom-left of the back panel
+    # 5) author block, bottom-left of the back panel: photo, then name + bio
     bio = ParagraphStyle("bio", fontName="Plex", fontSize=7.5, leading=10.5,
                          textColor=GREY, alignment=TA_LEFT)
     name = ParagraphStyle("name", fontName="Plex-Bd", fontSize=9, leading=12,
                           textColor=EMBER, alignment=TA_LEFT, spaceAfter=3)
-    Frame(back_left, (BLEED + SAFE) * inch, back_width - (barcode_w + 0.2) * inch,
+    text_left, text_w = back_left, back_width - (barcode_w + 0.2) * inch
+    if os.path.exists(AUTHOR_PHOTO):
+        ph = photo_h = 1.0                       # inches, square
+        px, py = back_left, (BLEED + SAFE) * inch
+        c.drawImage(AUTHOR_PHOTO, px, py, ph * inch, photo_h * inch, mask=None)
+        # hairline keeps the photo from floating on the dark panel
+        c.setStrokeColor(GREY)
+        c.setLineWidth(0.5)
+        c.rect(px, py, ph * inch, photo_h * inch, fill=0, stroke=1)
+        text_left = px + (ph + 0.15) * inch
+        text_w -= (ph + 0.15) * inch
+    Frame(text_left, (BLEED + SAFE) * inch, text_w,
           author_block_h * inch, leftPadding=0, rightPadding=0, topPadding=0,
           bottomPadding=0, showBoundary=0).addFromList(
               [Paragraph(AUTHOR.upper(), name), Paragraph(AUTHOR_BIO, bio)], c)

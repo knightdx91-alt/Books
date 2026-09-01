@@ -33,6 +33,13 @@ except FileNotFoundError:
 _rev = f"-{REV}" if REV else ""
 
 AUTHOR = "Søren Stromberg"      # the adult line's pen name (see build_pdf.py)
+AUTHOR_BIO = ("S&#248;ren Stromberg writes adult fantasy romance &#8212; dangerous "
+              "devotion, chosen bonds, and the price of finally being seen.")
+# Author photo on the back panel. NOTE this is the same face as the Post Peleos
+# covers, so it ties the two pen names together in public. The "Also by" page
+# already links them by name, but if the imprints should stay visually separate,
+# point this at a different file or set it to "" and the block drops out.
+AUTHOR_PHOTO = os.path.join(os.path.dirname(ROOT), "_assets", "author-photo.jpg")
 ISBN = "979-8-1827-2378-7"      # print ISBN — drawn as a real EAN-13 on the back
 FRONT = os.path.join(ROOT, "delivery", "cover", "front-cover-soren-stromberg.png")
 OUT = os.path.join(ROOT, "delivery", "production",
@@ -193,7 +200,24 @@ def main():
               leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0, showBoundary=0)
     f.addFromList(flow, c)
 
-    # 5) EAN-13 barcode (white box + quiet zone) bottom-right of the back panel.
+    # 5) author block, bottom-left of the back panel: photo, then name + bio
+    if AUTHOR_PHOTO and os.path.exists(AUTHOR_PHOTO):
+        ph = 1.0                                  # inches, square
+        px, py = back_left, (BLEED + SAFE) * inch
+        c.drawImage(AUTHOR_PHOTO, px, py, ph * inch, ph * inch, mask=None)
+        c.setStrokeColor(GREY); c.setLineWidth(0.5)
+        c.rect(px, py, ph * inch, ph * inch, fill=0, stroke=1)
+        name_st = ParagraphStyle("name", fontName="Plex-Bd", fontSize=9, leading=12,
+                                 textColor=EMBER, alignment=TA_LEFT, spaceAfter=3)
+        bio_st = ParagraphStyle("bio", fontName="Plex", fontSize=7.5, leading=10.5,
+                                textColor=GREY, alignment=TA_LEFT)
+        tx = px + (ph + 0.15) * inch
+        tw = back_width - (ph + 0.15) * inch - (barcode_w + 0.2) * inch
+        Frame(tx, py, tw, ph * inch, leftPadding=0, rightPadding=0, topPadding=0,
+              bottomPadding=0, showBoundary=0).addFromList(
+                  [Paragraph(AUTHOR.upper(), name_st), Paragraph(AUTHOR_BIO, bio_st)], c)
+
+    # 6) EAN-13 barcode (white box + quiet zone) bottom-right of the back panel.
     #    No price add-on — IngramSpark sets price per market.
     bx = (spine_x0 - SAFE - barcode_w) * inch
     by = (BLEED + SAFE) * inch

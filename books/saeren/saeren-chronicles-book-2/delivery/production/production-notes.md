@@ -46,3 +46,25 @@ Convert the wrap to PDF/X-1a with `bash tools/make_pdfx.sh <wrap.pdf> <wrap-PDFX
   306 -> 308, so the cover was re-cut to match.
 - Front matter is fully filled (ISBN, imprint, dedication, acknowledgments, bio) —
   no placeholders remain in this book.
+
+## Author photo
+`books/_assets/author-photo.jpg` (colour, 1080x1080) and `author-photo-gray.jpg`
+(the grayscale twin) are shared by every book. Two placements, both automatic:
+- **Interior**, centred above the bio on the *About the Author* page, 1.6" square
+  from the **grayscale** file — the print interior uploads as DeviceGray, so a
+  colour image there would be converted anyway and risks the B&W-interior spec.
+  Lands at ~675 dpi.
+- **Back cover**, bottom-left beside the name and bio, 1.0" square with a hairline
+  border, from the **colour** file (covers print CMYK). Lands at ~1080 dpi.
+Set the `AUTHOR_PHOTO` constant to `""` in either script to drop the photo.
+
+## ⚠ Which file to upload (this is easy to get wrong)
+IngramSpark takes the **`-GRAY-noicc.pdf`** interior and the **`-CMYK-noicc.pdf`**
+cover — *not* the PDF/X-1a builds. The X-1a files are kept as the archival/prepress
+copies. Produce the upload pair with the shared converter:
+```
+bash tools/make_noicc.sh gray <interior-rN.pdf> <interior-rN-GRAY-noicc.pdf>
+bash tools/make_noicc.sh cmyk <wrap-rN.pdf>     <wrap-rN-CMYK-noicc.pdf>
+```
+It leaves images at source resolution rather than resampling them to exactly
+300 dpi, and it verifies the output carries no ICC profile or output intent.

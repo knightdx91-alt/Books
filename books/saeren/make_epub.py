@@ -76,6 +76,12 @@ def build_epub(cfg):
     cover_ext = os.path.splitext(cfg["cover"])[1].lower().lstrip(".")
     cover_mt = "image/jpeg" if cover_ext in ("jpg","jpeg") else "image/png"
     items.append(("coverimg","cover."+cover_ext, ("FILE",cfg["cover"]), cover_mt, False, None))
+    # author photo for the About the Author page (manifest only, not in the spine)
+    photo_rel = None
+    if cfg.get("photo") and os.path.exists(cfg["photo"]):
+        photo_rel = "author-photo" + os.path.splitext(cfg["photo"])[1].lower()
+        items.append(("authorphoto", photo_rel, ("FILE", cfg["photo"]),
+                      "image/jpeg", False, None))
     # cover page
     cover_body=f'<div class="center"><img class="cover" src="cover.{cover_ext}" alt="Cover"/></div>'
     items.append(("coverpage","cover.xhtml", xhtml("Cover",cover_body), "application/xhtml+xml", True, None))
@@ -124,7 +130,10 @@ def build_epub(cfg):
         items.append((f"ch{n}", f"chapter-{n}.xhtml", xhtml(lbl,"\n".join(body)),
                       "application/xhtml+xml", True, lbl))
     # back matter
-    bm=(f'<h2 class="chnum">About the Author</h2><p class="first">{cfg["bio"]}</p>'
+    photo_html = (f'<div class="center"><img src="{photo_rel}" alt="" '
+                  'style="max-width:45%;margin:0 auto 1em;"/></div>') if photo_rel else ""
+    bm=(f'<h2 class="chnum">About the Author</h2>{photo_html}'
+        f'<p class="first">{cfg["bio"]}</p>'
         f'<h2 class="chnum">Acknowledgments</h2><p class="first">{cfg["ack"]}</p>')
     items.append(("backmatter","backmatter.xhtml", xhtml("About the Author",bm),
                   "application/xhtml+xml", True, "About the Author"))
@@ -195,7 +204,7 @@ def build_epub(cfg):
 BIO=("Post Peleos writes character-driven fantasy about quiet people in loud "
      "worlds &#8212; stories that love to tease as much as they wound, and never "
      "quite stop wondering what waits out beyond the stars. <em>The Saeren "
-     "Chronicles</em> is their debut series.")
+     "Chronicles</em> is his debut series.")
 
 import sys
 
@@ -213,6 +222,7 @@ def _book(slug, **kw):
         manuscript=os.path.join(SAEREN, slug, "manuscript", f"full-manuscript-{rev}.md"),
         cover=os.path.join(SAEREN, slug, "delivery", "cover", kw.pop("cover_name")),
         out=os.path.join(SAEREN, slug, "delivery", "ebook", kw.pop("out_name")),
+        photo=os.path.join(os.path.dirname(SAEREN), "_assets", "author-photo.jpg"),
         bio=BIO)
     d.update(kw)
     return d

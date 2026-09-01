@@ -272,7 +272,7 @@ def build():
     para(doc, "Post Peleos writes character-driven fantasy about quiet people in "
               "loud worlds — stories that love to tease as much as they wound, and "
               "never quite stop wondering what waits out beyond the stars. *The "
-              "Saeren Chronicles* is their debut series.", align=J, inline=True)
+              "Saeren Chronicles* is his debut series.", align=J, inline=True)
 
     page_break(doc)
     para(doc, "Acknowledgments", align=C, bold=True, size=16, space_after=18)

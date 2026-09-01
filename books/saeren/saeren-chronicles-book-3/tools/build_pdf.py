@@ -21,7 +21,8 @@ from reportlab.lib.colors import CMYKColor
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame,
-                                Paragraph, Spacer, PageBreak, NextPageTemplate)
+                                Paragraph, Spacer, PageBreak, NextPageTemplate,
+                                Image as RLImage)
 
 # Pure K-only black for text: converts cleanly to K-only in a CMYK pass.
 K_BLACK = CMYKColor(0, 0, 0, 1)
@@ -33,6 +34,12 @@ try:
 except FileNotFoundError:
     REV = ""
 _rev = f"-{REV}" if REV else ""
+
+# Author photo for the "About the Author" page. Grayscale on purpose: the interior
+# uploads to IngramSpark as DeviceGray (see INGRAMSPARK-UPLOAD-GUIDE Part D), so a
+# colour image here would be converted anyway and risks the B&W-interior spec.
+AUTHOR_PHOTO = os.path.join(ROOT, "..", "..", "_assets", "author-photo-gray.jpg")
+AUTHOR_PHOTO_W = 1.6 * inch          # 1080px source -> ~675 dpi at this size
 
 # --- Front-matter fields (fill these in; empty string omits the line/page) ---
 ISBN = "979-8-1827-2380-0"      # print ISBN
@@ -260,11 +267,16 @@ def build(pad_to_even=False, head_map=None):
 
     # --- Back matter ---
     story.append(Paragraph("About the Author", fm_head))
+    if os.path.exists(AUTHOR_PHOTO):
+        photo = RLImage(AUTHOR_PHOTO, width=AUTHOR_PHOTO_W, height=AUTHOR_PHOTO_W)
+        photo.hAlign = "CENTER"
+        story.append(photo)
+        story.append(Spacer(1, 0.22*inch))
     story.append(Paragraph(
         "Post Peleos writes character-driven fantasy about quiet people in loud "
         "worlds — stories that love to tease as much as they wound, and never "
         "quite stop wondering what waits out beyond the stars. <i>The Saeren "
-        "Chronicles</i> is their debut series.", fm_body))
+        "Chronicles</i> is his debut series.", fm_body))
     story.append(PageBreak())
 
     story.append(Paragraph("Acknowledgments", fm_head))

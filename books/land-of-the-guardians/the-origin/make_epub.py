@@ -181,7 +181,7 @@ def build_epub(cfg):
 BIO=("Post Peleos writes character-driven fantasy about quiet people in loud "
      "worlds &#8212; stories that love to tease as much as they wound, and never "
      "quite stop wondering what waits out beyond the stars. <em>The Saeren "
-     "Chronicles</em> is their debut series.")
+     "Chronicles</em> is his debut series.")
 
 ROOT="/home/user/The-Saeren-Chronicles/book/genesis"
 configs=[
