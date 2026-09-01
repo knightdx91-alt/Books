@@ -26,13 +26,22 @@ from reportlab.pdfgen import canvas
 from reportlab.platypus import Paragraph, Frame
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-FRONT = os.path.join(ROOT, "delivery", "cover", "front-cover-post-peleos.png")
-OUT = os.path.join(ROOT, "delivery", "production", "A-Bond-of-Scale-and-Silver-wrap-6x9.pdf")
+try:
+    REV = open(os.path.join(ROOT, "REVISION"), encoding="utf-8").read().strip()
+except FileNotFoundError:
+    REV = ""
+_rev = f"-{REV}" if REV else ""
+
+AUTHOR = "Søren Stromberg"      # the adult line's pen name (see build_pdf.py)
+ISBN = "979-8-1827-2378-7"      # print ISBN — drawn as a real EAN-13 on the back
+FRONT = os.path.join(ROOT, "delivery", "cover", "front-cover-soren-stromberg.png")
+OUT = os.path.join(ROOT, "delivery", "production",
+                   f"A-Bond-of-Scale-and-Silver-wrap-6x9{_rev}.pdf")
 TMP = os.path.join(ROOT, "delivery", "production", "_front-bleed.png")
 
 # --- dimensions ---
 TRIM_W, TRIM_H, BLEED = 6.0, 9.0, 0.125
-PAGES = 448
+PAGES = 450          # interior r2 physical page count (build_pdf.py reports it)
 PPI_FACTOR = 0.0025            # IngramSpark cream 50#  (white 50# = 0.002252)
 SPINE = PAGES * PPI_FACTOR     # 1.12"
 FULL_W = 2 * TRIM_W + SPINE + 2 * BLEED
@@ -53,6 +62,23 @@ pdfmetrics.registerFont(TTFont("Plex-BdIt", f"{FONT_DIR}/IBMPlexSerif-BoldItalic
 # reportlab declares a default base-14 Helvetica slot even when unused; override it to an
 # embedded TTF so the RGB proof carries zero non-embedded fonts (the X-1a is clean either way).
 pdfmetrics.registerFont(TTFont("Helvetica", f"{FONT_DIR}/IBMPlexSerif-Regular.ttf"))
+
+
+def render_ean13(isbn):
+    """Render the print ISBN as a real EAN-13 PNG. Returns a path, or None if
+    python-barcode isn't installed (caller then falls back to a labelled box)."""
+    try:
+        from barcode import EAN13
+        from barcode.writer import ImageWriter
+    except ImportError:
+        return None
+    digits = "".join(ch for ch in isbn if ch.isdigit())[:12]
+    base = os.path.join(ROOT, "delivery", "production", "_ean13")
+    # EAN13 recomputes the check digit from the first 12 digits.
+    EAN13(digits, writer=ImageWriter()).save(
+        base, options={"module_height": 12.0, "quiet_zone": 2.0,
+                       "font_size": 8, "text_distance": 3.0, "dpi": 600})
+    return base + ".png"
 
 
 def prep_front():
@@ -125,7 +151,7 @@ def main():
     c.rotate(-90)
     c.setFillColor(GREY)
     c.setFont("Plex-It", 12)
-    c.drawCentredString(0, vshift, "Post Peleos")
+    c.drawCentredString(0, vshift, AUTHOR)
     c.restoreState()
 
     # 4) BACK panel text
@@ -167,15 +193,25 @@ def main():
               leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0, showBoundary=0)
     f.addFromList(flow, c)
 
-    # 5) barcode placeholder (white box, quiet zone) bottom-right of the back panel
+    # 5) EAN-13 barcode (white box + quiet zone) bottom-right of the back panel.
+    #    No price add-on — IngramSpark sets price per market.
     bx = (spine_x0 - SAFE - barcode_w) * inch
     by = (BLEED + SAFE) * inch
     c.setFillColor(Color(1, 1, 1))
     c.rect(bx, by, barcode_w * inch, barcode_h * inch, fill=1, stroke=0)
-    c.setFillColor(Color(0.45, 0.45, 0.45))
-    c.setFont("Plex", 7)
-    c.drawCentredString(bx + barcode_w * inch / 2, by + barcode_h * inch / 2 - 3,
-                        "ISBN barcode area")
+    bc_png = render_ean13(ISBN)
+    if bc_png:
+        # inset inside the white box so the quiet zone is preserved on all sides
+        pad_x, pad_y = 0.14 * inch, 0.13 * inch
+        c.drawImage(bc_png, bx + pad_x, by + pad_y,
+                    barcode_w * inch - 2 * pad_x, barcode_h * inch - 2 * pad_y,
+                    preserveAspectRatio=True, anchor="c", mask=None)
+        os.remove(bc_png)
+    else:
+        c.setFillColor(Color(0.45, 0.45, 0.45))
+        c.setFont("Plex", 7)
+        c.drawCentredString(bx + barcode_w * inch / 2, by + barcode_h * inch / 2 - 3,
+                            f"ISBN {ISBN}")
 
     c.showPage()
     c.save()

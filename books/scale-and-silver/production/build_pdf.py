@@ -21,18 +21,32 @@ import os, re, html
 from reportlab.lib.units import inch
 from reportlab.lib.enums import TA_JUSTIFY, TA_CENTER
 from reportlab.lib.styles import ParagraphStyle
+from reportlab.lib.colors import CMYKColor
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame,
                                 Paragraph, Spacer, PageBreak, NextPageTemplate)
 
+# Pure K-only black for text: converts cleanly to K-only in the CMYK pass, so
+# body type prints as a single plate (no rich-black / registration fuzz).
+K_BLACK = CMYKColor(0, 0, 0, 1)
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Single source of truth for the revision tag (bump ROOT/REVISION to re-stamp).
+try:
+    REV = open(os.path.join(ROOT, "REVISION"), encoding="utf-8").read().strip()
+except FileNotFoundError:
+    REV = ""
+_rev = f"-{REV}" if REV else ""
 SRC = os.path.join(ROOT, "manuscript", "full-manuscript.md")
 OUT = os.path.join(ROOT, "delivery", "production",
-                   "A-Bond-of-Scale-and-Silver-6x9-interior.pdf")
+                   f"A-Bond-of-Scale-and-Silver-6x9-interior{_rev}.pdf")
 
 BOOK_TITLE = "A BOND OF SCALE AND SILVER"
-AUTHOR = "Post Peleos"
+# Adult line publishes under the author's second pen name (the YA/Saeren books
+# stay under Post Peleos). See the site catalog in Post_Peleos_Website/assets/books.js.
+AUTHOR = "Søren Stromberg"
+ISBN = "979-8-1827-2378-7"      # print ISBN
 YEAR = "2026"
 
 # --- Dedication --------------------------------------------------------------
@@ -58,25 +72,47 @@ TRIM_W, TRIM_H = 6 * inch, 9 * inch
 M_SIDE, M_TOP, M_BOT = 0.75*inch, 0.75*inch, 0.70*inch
 
 body = ParagraphStyle("body", fontName="PlexSerif", fontSize=11, leading=15.5,
-                      alignment=TA_JUSTIFY, firstLineIndent=16)
+                      alignment=TA_JUSTIFY, firstLineIndent=16, textColor=K_BLACK,
+                      allowWidows=0, allowOrphans=0)
 body_first = ParagraphStyle("body_first", parent=body, firstLineIndent=0)
 scene = ParagraphStyle("scene", parent=body, alignment=TA_CENTER,
                        firstLineIndent=0, spaceBefore=10, spaceAfter=10)
 ch_num = ParagraphStyle("ch_num", fontName="PlexSerif-Bd", fontSize=13,
                         alignment=TA_CENTER, leading=16, spaceAfter=6,
-                        textColor="#000000")
+                        textColor=K_BLACK)
 ch_title = ParagraphStyle("ch_title", fontName="PlexSerif-It", fontSize=18,
-                          alignment=TA_CENTER, leading=22, spaceAfter=28)
+                          alignment=TA_CENTER, leading=22, spaceAfter=28,
+                          textColor=K_BLACK)
 title_main = ParagraphStyle("title_main", fontName="PlexSerif-Bd", fontSize=26,
-                            alignment=TA_CENTER, leading=32)
+                            alignment=TA_CENTER, leading=32, textColor=K_BLACK)
 title_sub = ParagraphStyle("title_sub", fontName="PlexSerif-It", fontSize=15,
-                           alignment=TA_CENTER, leading=20)
+                           alignment=TA_CENTER, leading=20, textColor=K_BLACK)
 halftitle = ParagraphStyle("halftitle", fontName="PlexSerif-It", fontSize=16,
-                           alignment=TA_CENTER, leading=22)
+                           alignment=TA_CENTER, leading=22, textColor=K_BLACK)
 copyr = ParagraphStyle("copyr", fontName="PlexSerif", fontSize=9, leading=13,
-                       alignment=TA_CENTER)
+                       alignment=TA_CENTER, textColor=K_BLACK)
 dedic = ParagraphStyle("dedic", fontName="PlexSerif-It", fontSize=12, leading=18,
-                       alignment=TA_CENTER)
+                       alignment=TA_CENTER, textColor=K_BLACK)
+# --- back matter -------------------------------------------------------------
+bm_head = ParagraphStyle("bm_head", fontName="PlexSerif-Bd", fontSize=16,
+                         alignment=TA_CENTER, leading=20, spaceAfter=22,
+                         textColor=K_BLACK)
+bm_body = ParagraphStyle("bm_body", fontName="PlexSerif", fontSize=11,
+                         leading=16, alignment=TA_JUSTIFY, textColor=K_BLACK,
+                         allowWidows=0, allowOrphans=0)
+ab_series = ParagraphStyle("ab_series", fontName="PlexSerif-Bd", fontSize=11,
+                           alignment=TA_CENTER, leading=15, spaceBefore=6,
+                           spaceAfter=8, textColor=K_BLACK)
+ab_item = ParagraphStyle("ab_item", fontName="PlexSerif-It", fontSize=12,
+                         alignment=TA_CENTER, leading=18, textColor=K_BLACK)
+ab_lead = ParagraphStyle("ab_lead", fontName="PlexSerif", fontSize=10.5,
+                         alignment=TA_CENTER, leading=15, textColor=K_BLACK)
+ab_note = ParagraphStyle("ab_note", fontName="PlexSerif", fontSize=9.5,
+                         alignment=TA_CENTER, leading=13, textColor=K_BLACK)
+
+
+PAGE_COUNT = [0]
+front_pages_seen = [0]
 
 
 def md_inline(t):
@@ -134,7 +170,7 @@ def paras_from(text):
     return out
 
 
-def build():
+def build(pad_to_even=False):
     chapters = parse(SRC)
     story = []
 
@@ -173,6 +209,9 @@ def build():
         "No part of this book may be reproduced in any form without written "
         "permission from the author, except for brief quotations in a review.", copyr))
     story.append(Spacer(1, 0.10*inch))
+    story.append(Spacer(1, 0.10*inch))
+    story.append(Paragraph(f"ISBN {ISBN}", copyr))
+    story.append(Spacer(1, 0.10*inch))
     story.append(Paragraph(f"First edition, {YEAR}.", copyr))
     story.append(PageBreak())
 
@@ -184,6 +223,7 @@ def build():
         story.append(PageBreak())
         story.append(Spacer(1, 1*inch)); story.append(PageBreak())
         front_pages += 2
+    front_pages_seen[0] = front_pages
 
     # ===== Body (numbered from 1) =====
     story.append(NextPageTemplate("body"))
@@ -201,8 +241,35 @@ def build():
                 story.append(Paragraph(md_inline(content),
                                        body_first if first else body))
                 first = False
-        if idx != len(chapters) - 1:
-            story.append(PageBreak())
+        story.append(PageBreak())
+
+    # ===== Back matter =====
+    story.append(Paragraph("About the Author", bm_head))
+    story.append(Paragraph(
+        "S&#248;ren Stromberg writes adult fantasy romance &#8212; dangerous "
+        "devotion, bonds that are chosen rather than fated, and the price of "
+        "finally being seen. <i>A Bond of Scale and Silver</i> is the first "
+        "novel under this name.", bm_body))
+    story.append(PageBreak())
+
+    # --- Also by (the YA line under the author's other pen name) ---
+    story.append(Paragraph("Also by this author", bm_head))
+    story.append(Paragraph("Writing upper-YA fantasy as", ab_lead))
+    story.append(Paragraph("POST PELEOS", ab_series))
+    story.append(Spacer(1, 0.16*inch))
+    story.append(Paragraph("THE SAEREN CHRONICLES", ab_series))
+    story.append(Paragraph("Book One: Hazel Academy", ab_item))
+    story.append(Paragraph("Book Two: The Resistance", ab_item))
+    story.append(Paragraph("Book Three: The Weight of the Source", ab_item))
+    story.append(Spacer(1, 0.14*inch))
+    story.append(Paragraph(
+        "A completed upper-YA fantasy trilogy about grief, found family, and a "
+        "girl born with the one magic her world kills to keep buried. Written "
+        "for younger readers &#8212; no explicit content.", ab_note))
+
+    if pad_to_even:
+        story.append(PageBreak())
+        story.append(Paragraph("&nbsp;", copyr))
 
     def front_page(canvas, doc):
         canvas.setFont("PlexSerif", 10)  # avoid Helvetica default resource
@@ -224,9 +291,14 @@ def build():
     bodyt = PageTemplate(id="body", frames=[frame], onPage=body_page)
     doc.addPageTemplates([front, bodyt])
     doc.build(story)
+    PAGE_COUNT[0] = doc.page
     return OUT
 
 
 if __name__ == "__main__":
-    out = build()
+    build()
+    # perfect binding needs an even physical page count; re-run padded if odd.
+    out = build(pad_to_even=PAGE_COUNT[0] % 2 == 1)
     print("wrote", out)
+    print(f"front-matter pages (unnumbered): {front_pages_seen[0]}")
+    print(f"TOTAL PHYSICAL PAGE COUNT (even for binding): {PAGE_COUNT[0]}")

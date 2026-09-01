@@ -14,11 +14,13 @@ import os, re, html, zipfile, datetime, uuid
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "manuscript", "full-manuscript.md")
-COVER = os.path.join(ROOT, "delivery", "cover", "front-cover-post-peleos.png")
+COVER = os.path.join(ROOT, "delivery", "cover", "front-cover-soren-stromberg.png")
 OUT = os.path.join(ROOT, "delivery", "production", "A-Bond-of-Scale-and-Silver.epub")
 
 BOOK_TITLE = "A Bond of Scale and Silver"
-AUTHOR = "Post Peleos"
+# The adult line publishes under the author's second pen name.
+AUTHOR = "Søren Stromberg"
+ISBN = "979-8-1827-2379-4"      # ebook ISBN (print is 979-8-1827-2378-7)
 YEAR = "2026"
 LANG = "en"
 DEDICATION = "For all the ones that were told to hide themselves from the world. We see you."
@@ -145,7 +147,22 @@ def main():
         f'locales is entirely coincidental.</p>'
         f'<p class="copyright">No part of this book may be reproduced in any form without '
         f'written permission from the author, except for brief quotations in a review.</p>'
+        f'<p class="copyright">ISBN {ISBN}</p>'
         f'<p class="copyright">First edition, {YEAR}.</p>')
+    backmatter_xhtml = wrap_page("About the Author",
+        '<h2 class="chnum">About the Author</h2>'
+        f'<p class="first">{esc(AUTHOR)} writes adult fantasy romance &#8212; dangerous '
+        'devotion, bonds that are chosen rather than fated, and the price of finally '
+        f'being seen. <em>{esc(BOOK_TITLE)}</em> is the first novel under this name.</p>'
+        '<h2 class="chnum">Also by this author</h2>'
+        '<p class="first">Writing upper-YA fantasy as <strong>Post Peleos</strong>:</p>'
+        '<p><strong>THE SAEREN CHRONICLES</strong><br/>'
+        '<em>Book One: Hazel Academy</em><br/>'
+        '<em>Book Two: The Resistance</em><br/>'
+        '<em>Book Three: The Weight of the Source</em></p>'
+        '<p>A completed upper-YA fantasy trilogy about grief, found family, and a girl '
+        'born with the one magic her world kills to keep buried. Written for younger '
+        'readers &#8212; no explicit content.</p>')
     dedication_xhtml = wrap_page("Dedication",
         f'<p class="dedication">{md_inline(DEDICATION)}</p>') if DEDICATION.strip() else None
 
@@ -160,6 +177,8 @@ def main():
         navtitle = f"Chapter {num.title()}" + (f" — {title}" if title else "")
         docs.append((f"chap{idx}", f"text/chapter-{idx:02d}.xhtml",
                      chapter_html(num, title, text), navtitle))
+    docs.append(("backmatter", "text/backmatter.xhtml", backmatter_xhtml,
+                 "About the Author"))
 
     # ---- nav.xhtml (EPUB3) ----
     # nav.xhtml lives in OEBPS/, chapters in OEBPS/text/ — link the full relative path
@@ -211,7 +230,7 @@ def main():
         '<?xml version="1.0" encoding="utf-8"?>\n'
         '<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="bookid" xml:lang="en">\n'
         '  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">\n'
-        f'    <dc:identifier id="bookid">{BOOK_UUID}</dc:identifier>\n'
+        f'    <dc:identifier id="bookid">urn:isbn:{ISBN.replace("-", "")}</dc:identifier>\n'
         f'    <dc:title>{esc(BOOK_TITLE)}</dc:title>\n'
         f'    <dc:creator id="creator">{esc(AUTHOR)}</dc:creator>\n'
         f'    <dc:language>{LANG}</dc:language>\n'

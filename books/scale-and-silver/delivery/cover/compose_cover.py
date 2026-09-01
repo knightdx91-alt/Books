@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
-"""Composite the title over the clean Canva art for 'A Bond of Scale and Silver' (Post Peleos).
+"""Composite the title over the clean Canva art for 'A Bond of Scale and Silver'.
 Final = silver-to-ember title, no blood-red (only the natural pendant gem in the art)."""
 import base64, os
+
+# The adult line publishes under the second pen name.
+AUTHOR = "SØREN STROMBERG"
+OUTNAME = "front-cover-soren-stromberg.png"
 HERE = os.path.dirname(__file__)
 FONT_DIR = "/mnt/skills/examples/canvas-design/canvas-fonts"
 def b64(p): return base64.b64encode(open(p, "rb").read()).decode()
@@ -30,7 +34,7 @@ html,body{{width:1600px;height:2263px;}}
 .divider .ln.r{{background:linear-gradient(90deg,rgba(200,210,224,.75),rgba(200,210,224,0));}}
 .divider .dot{{width:9px;height:9px;transform:rotate(45deg);background:#c8ceda;box-shadow:0 0 10px rgba(0,0,0,.8);}}
 .author{{position:absolute;left:0;right:0;bottom:120px;text-align:center;font-family:'Plex';
-  letter-spacing:.46em;text-indent:.46em;font-size:66px;color:#e6eaf1;text-transform:uppercase;
+  letter-spacing:.34em;text-indent:.34em;font-size:58px;color:#e6eaf1;text-transform:uppercase;
   filter:drop-shadow(0 3px 14px rgba(0,0,0,.95));}}
 </style></head><body>
 <div class="cover">
@@ -40,6 +44,6 @@ html,body{{width:1600px;height:2263px;}}
     <div class="main">Scale and<br>Silver</div>
     <div class="divider"><span class="ln"></span><span class="dot"></span><span class="ln r"></span></div>
   </div>
-  <div class="author">Post Peleos</div>
+  <div class="author">{AUTHOR}</div>
 </div></body></html>'''
 open(os.path.join(HERE, "compose.html"), "w").write(html); print("ok")
