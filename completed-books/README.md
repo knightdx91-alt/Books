@@ -22,7 +22,12 @@ cover and title page.
   fonts fully embedded, even page count for perfect binding.
 - `*-COVER.pdf` — the full wrap (back + spine + front) at full bleed. CMYK, no ICC,
   with a real EAN-13 barcode for the print ISBN and no price add-on.
-- `*.epub` — the ebook, carrying the eBook ISBN as its package identifier.
+- `*.epub` — the ebook, carrying the eBook ISBN as its package identifier, with a
+  working chapter-navigation TOC (`nav.xhtml` + `toc.ncx`).
+- `*-EBOOK-COVER.jpg` — the standalone front-cover image the ebook listing asks for
+  separately from the EPUB. RGB JPG, at least 1600px on the short side, ratio 1.414
+  (inside the 1.33–1.6 retailers accept). Not revision-stamped, because it is artwork
+  rather than a build output.
 
 These are the three files IngramSpark wants. The PDF/X-1a builds are archival /
 prepress copies and stay in each book's own `delivery/` folder — **do not upload

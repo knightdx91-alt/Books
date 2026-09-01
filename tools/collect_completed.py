@@ -11,9 +11,10 @@ is checksummed into MANIFEST.md alongside the revision it came from, and --check
 tells you whether what is sitting in completed-books/ is still the current build.
 
 Each book contributes the THREE files IngramSpark actually wants:
-  INTERIOR  the grayscale, no-ICC print interior
-  COVER     the CMYK, no-ICC full wrap (back + spine + front, full bleed)
-  EPUB      the ebook
+  INTERIOR     the grayscale, no-ICC print interior
+  COVER        the CMYK, no-ICC full wrap (back + spine + front, full bleed)
+  EPUB         the ebook
+  EBOOK-COVER  the standalone front-cover JPG the ebook listing asks for separately
 The PDF/X-1a builds are archival/prepress copies and deliberately stay behind in
 each book's own delivery/ folder.
 """
@@ -29,6 +30,7 @@ BOOKS = [
          interior="delivery/production/Saeren-Chronicles-Book-One-6x9-interior-{rev}-GRAY-noicc.pdf",
          cover="delivery/cover/Saeren-Book-One-FULL-WRAP-{rev}-CMYK-noicc.pdf",
          epub="delivery/ebook/Saeren-Chronicles-Book-One-Hazel-Academy.epub",
+         ebookcover="delivery/cover/ebook-cover-book1-hazel-academy.jpg",
          pages=294, spine='0.662"', isbn="979-8-2409-9043-4", eisbn="979-8-2409-9044-1"),
     dict(order="02", title="The Resistance", folder="02-the-resistance",
          series="The Saeren Chronicles, Book Two", pen="Post Peleos",
@@ -36,6 +38,7 @@ BOOKS = [
          interior="delivery/production/Saeren-Chronicles-Book-Two-6x9-interior-{rev}-GRAY-noicc.pdf",
          cover="delivery/cover/Saeren-Book-Two-FULL-WRAP-{rev}-CMYK-noicc.pdf",
          epub="delivery/ebook/Saeren-Chronicles-Book-Two-The-Resistance.epub",
+         ebookcover="delivery/cover/ebook-cover-book2-the-resistance.jpg",
          pages=308, spine='0.694"', isbn="979-8-2409-9382-4", eisbn="979-8-2561-0025-4"),
     dict(order="03", title="The Weight of the Source", folder="03-the-weight-of-the-source",
          series="The Saeren Chronicles, Book Three", pen="Post Peleos",
@@ -43,6 +46,7 @@ BOOKS = [
          interior="delivery/production/Saeren-Chronicles-Book-Three-6x9-interior-{rev}-GRAY-noicc.pdf",
          cover="delivery/cover/Saeren-Book-Three-FULL-WRAP-{rev}-CMYK-noicc.pdf",
          epub="delivery/ebook/Saeren-Chronicles-Book-Three-The-Weight-of-the-Source.epub",
+         ebookcover="delivery/cover/ebook-cover-book3-the-weight-of-the-source.jpg",
          pages=324, spine='0.730"', isbn="979-8-1827-2380-0", eisbn="979-8-1827-2381-7"),
     dict(order="04", title="A Bond of Scale and Silver", folder="04-a-bond-of-scale-and-silver",
          series="Standalone — adult romantasy (18+)", pen="Søren Stromberg",
@@ -50,6 +54,7 @@ BOOKS = [
          interior="delivery/production/A-Bond-of-Scale-and-Silver-6x9-interior-{rev}-GRAY-noicc.pdf",
          cover="delivery/production/A-Bond-of-Scale-and-Silver-wrap-6x9-{rev}-CMYK-noicc.pdf",
          epub="delivery/production/A-Bond-of-Scale-and-Silver.epub",
+         ebookcover="delivery/cover/ebook-cover-a-bond-of-scale-and-silver.jpg",
          pages=448, spine='1.120"', isbn="979-8-1827-2378-7", eisbn="979-8-1827-2379-4"),
 ]
 
@@ -77,11 +82,16 @@ def plan():
         r = rev(b)
         dst_dir = os.path.join(OUT, b["folder"])
         files = []
-        for key, label in (("interior", "INTERIOR"), ("cover", "COVER"), ("epub", "EPUB")):
+        for key, label in (("interior", "INTERIOR"), ("cover", "COVER"),
+                           ("epub", "EPUB"), ("ebookcover", "EBOOK-COVER")):
             src = os.path.join(ROOT, b["book"], b[key].format(rev=r))
             ext = os.path.splitext(src)[1]
-            name = f"{slug(b['title'])}{'' if label == 'EPUB' else '-' + r}-{label}{ext}" \
-                if label != "EPUB" else f"{slug(b['title'])}{ext}"
+            if label == "EPUB":
+                name = f"{slug(b['title'])}{ext}"
+            elif label == "EBOOK-COVER":          # not revision-stamped: art, not a build
+                name = f"{slug(b['title'])}-{label}{ext}"
+            else:
+                name = f"{slug(b['title'])}-{r}-{label}{ext}"
             files.append((src, os.path.join(dst_dir, name), label))
         out.append((b, r, files))
     return out

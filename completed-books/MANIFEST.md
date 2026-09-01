@@ -12,6 +12,7 @@ The Saeren Chronicles, Book One · by Post Peleos
 | `Hazel-Academy-r19-INTERIOR.pdf` | `af5521407b4f9891` | 588 KB |
 | `Hazel-Academy-r19-COVER.pdf` | `079c7a5406611e4b` | 1790 KB |
 | `Hazel-Academy.epub` | `3e513dda4a9858cc` | 652 KB |
+| `Hazel-Academy-EBOOK-COVER.jpg` | `532e3b31384e68a6` | 364 KB |
 
 ## The Resistance — r13
 The Saeren Chronicles, Book Two · by Post Peleos
@@ -23,6 +24,7 @@ The Saeren Chronicles, Book Two · by Post Peleos
 | `The-Resistance-r13-INTERIOR.pdf` | `758ae5687da818b5` | 588 KB |
 | `The-Resistance-r13-COVER.pdf` | `79cf48fd23e9e8f8` | 1817 KB |
 | `The-Resistance.epub` | `37fdc82d9874c5e2` | 622 KB |
+| `The-Resistance-EBOOK-COVER.jpg` | `4216741c704b6020` | 338 KB |
 
 ## The Weight of the Source — r10
 The Saeren Chronicles, Book Three · by Post Peleos
@@ -34,6 +36,7 @@ The Saeren Chronicles, Book Three · by Post Peleos
 | `The-Weight-of-the-Source-r10-INTERIOR.pdf` | `fb629ad0180a9be9` | 607 KB |
 | `The-Weight-of-the-Source-r10-COVER.pdf` | `2303a4acb5e57009` | 1730 KB |
 | `The-Weight-of-the-Source.epub` | `cf54262cdb1d87f4` | 629 KB |
+| `The-Weight-of-the-Source-EBOOK-COVER.jpg` | `2d8593c0eda1afa4` | 335 KB |
 
 ## A Bond of Scale and Silver — r5
 Standalone — adult romantasy (18+) · by Søren Stromberg
@@ -45,3 +48,4 @@ Standalone — adult romantasy (18+) · by Søren Stromberg
 | `A-Bond-of-Scale-and-Silver-r5-INTERIOR.pdf` | `9b72428a4ceac17b` | 789 KB |
 | `A-Bond-of-Scale-and-Silver-r5-COVER.pdf` | `83b9c1fd8e84984a` | 9969 KB |
 | `A-Bond-of-Scale-and-Silver.epub` | `f38dbf4d2c0a7b72` | 2751 KB |
+| `A-Bond-of-Scale-and-Silver-EBOOK-COVER.jpg` | `35bb3336c0172340` | 517 KB |
