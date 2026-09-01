@@ -18,18 +18,39 @@ back to us, facing the thing — so they read as a set:
 |---|---|---|
 | One | walking through the open gates toward Hazel | `front-book-1.png` |
 | Two | at the treeline looking back at Hazel burning | `front-book-2.png` |
-| Three | **undecided** — cavern vs portal | `front-book-3a-cavern.png`, `front-book-3b-portal.png` |
+| Three | the source cavern (Book One Ch.14) | `front-book-3a-cavern.png` |
 
 `TRILOGY-LINEUP.png` shows the set (with the cavern in slot three).
 
-### Book Three is not settled
-Four options were asked for. Only two are viewable:
-- **cavern** — the Book One Ch.14 chamber. Best fit thematically, but see the
-  resolution warning below.
-- **portal** — clean full-bleed art, the strongest technically.
-- **wall at dusk** — Canva returned a template, not art; the inset was too small a
-  strip to rescue. Needs regenerating.
-- **eclipse** — never generated; hit the Canva quota limit.
+All three are the author's picks (2026-09-01). The rejected Book Three options are
+kept for reference: `front-book-3b-portal.png` (clean art, the technically strongest
+file); the wall-at-dusk came back as a Canva template rather than art and the inset
+was too small a strip to rescue; the eclipse never generated (quota limit).
+
+## ⚠ THESE CANNOT PRINT AS-IS — the art is too low-resolution
+
+Tested and confirmed: **Canva's generated art tops out at ~1000x1500.** A `pro`
+PDF export was pulled apart to check for a higher-resolution original behind the
+PNG canvas — the largest embedded layer is **992x1472**, i.e. there is none.
+
+| | art width | dpi on the 6.125" print panel |
+|---|---|---|
+| these Canva beds | 1000px | **163 dpi** |
+| the existing Saeren cover art | 1587px | 259 dpi |
+| what IngramSpark wants | 1838px | 300 dpi |
+
+Reaching 300 dpi from 1000px means a **1.84x** upscale. The existing covers only
+needed 1.24x, and that was already recorded as "clears the spec, adds no detail".
+At 1.84x it would be visibly soft. The cavern is worse again — its bed is already
+a 2.14x upscale out of a template inset, so it would be upscaled twice.
+
+**Ebook is fine.** Amazon/KDP wants >=1000px on the short side and 1600x2560 ideal;
+`ebook-front-*.png` are 1600x2400, comfortably inside spec. Use these for ebook now.
+
+**For print, the art has to come from somewhere else** — commissioned, licensed
+stock, or a generator that outputs >=1838x2775. The typography layer does not care:
+`compose_front_cover.py` re-renders it sharp at any size, so a higher-resolution bed
+can be dropped into `art/` and the covers rebuilt unchanged.
 
 ## The palette rule (why these are green and amber)
 
