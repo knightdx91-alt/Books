@@ -37,7 +37,15 @@ Getting them crossed would put an 18+ audience code on a YA title, or vice versa
 - Scale & Silver: `books/scale-and-silver/editorial/ingramspark-listing-copy.md`
 - Book Two: `books/saeren/saeren-chronicles-book-2/delivery/editorial/10-book2-description.md`
 - Book One: `books/saeren/saeren-chronicles/delivery/editorial/10-back-cover-copy.md`
-- Book Three: not written yet.
+- Book Three: `books/saeren/saeren-chronicles-book-3/editorial/ingramspark-listing-copy.md`
+
+## Paper stock — differs per book, and the spine depends on it
+
+- **Saeren trilogy: WHITE 50#** (0.002252"/pp). Spines 0.662" / 0.694" / 0.730".
+- **Scale & Silver: CREAM 50#** (0.0025"/pp). Spine 1.120".
+
+Pick the wrong one and the cover is built for the wrong spine width. This is the one
+dimension a reprint cannot fix.
 
 ## Imprint caveat
 
