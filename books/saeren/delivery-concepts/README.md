@@ -11,10 +11,25 @@ behind, walking through the open gates toward Hazel, photoreal art with the seri
 typography composited over it. Built by `../tools/compose_front_cover.py` from the
 art bed in `art/`.
 
-Books Two and Three have **no scene chosen yet**. The proposal is to repeat Book
-One's device — her back to us, facing the thing she is walking into — so the three
-read as a set: Book Two the resistance camp in the trees at dusk, Book Three the
-source cavern from Book One Ch.14. Awaiting the author.
+Scenes are chosen (author, 2026-09-01). All three repeat Book One's device — her
+back to us, facing the thing — so they read as a set:
+
+| | scene | file |
+|---|---|---|
+| One | walking through the open gates toward Hazel | `front-book-1.png` |
+| Two | at the treeline looking back at Hazel burning | `front-book-2.png` |
+| Three | **undecided** — cavern vs portal | `front-book-3a-cavern.png`, `front-book-3b-portal.png` |
+
+`TRILOGY-LINEUP.png` shows the set (with the cavern in slot three).
+
+### Book Three is not settled
+Four options were asked for. Only two are viewable:
+- **cavern** — the Book One Ch.14 chamber. Best fit thematically, but see the
+  resolution warning below.
+- **portal** — clean full-bleed art, the strongest technically.
+- **wall at dusk** — Canva returned a template, not art; the inset was too small a
+  strip to rescue. Needs regenerating.
+- **eclipse** — never generated; hit the Canva quota limit.
 
 ## The palette rule (why these are green and amber)
 
@@ -39,10 +54,15 @@ detail intact.
 
 ## Resolution
 
-`front-book-1.png` is 1000x1500 — a mockup, **below print resolution**. Re-render
-the chosen one with `--print` (2452x3703). The type is vector so it re-renders
-genuinely sharp; the Canva art bed still needs upscaling, same tradeoff recorded in
+All of these are 1000x1500 — mockups, **below print resolution**. Re-render the
+chosen ones with `--print` (2452x3703). The type is vector so it re-renders
+genuinely sharp; the Canva art beds still need upscaling, same tradeoff recorded in
 the per-book production notes.
+
+**The cavern is worse than that.** Canva returned it as a template with the art in
+a box, so `art/book-3a-cavern-extracted.png` is a crop of that inset upscaled
+**2.14x** from 467x701. Fine for judging the composition, not fit to print. If the
+cavern is chosen it must be regenerated clean, full-bleed, once quota allows.
 
 ## The earlier abstract concepts
 

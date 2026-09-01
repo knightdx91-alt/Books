@@ -57,13 +57,20 @@ def lift(im, gamma=0.62, black=10):
     return Image.fromarray((a * 255).astype(np.uint8))
 
 
-def scrim(im, height=0.42, power=2.1):
-    """Darken the bottom so type reads, without flattening the whole image."""
+def scrim(im, height=0.42, power=2.1, top=0.20, top_strength=0.55):
+    """Darken the bottom (title) and the top (series line) so type stays legible.
+
+    The top scrim matters on bright-topped art — the cavern's lit ceiling washed
+    the series line out completely without it.
+    """
     a = np.asarray(im.convert("RGB")).astype(np.float32)
     h = a.shape[0]
     y0 = int(h * (1 - height))
     t = np.linspace(0, 1, h - y0) ** power
     a[y0:] *= (1 - 0.86 * t)[:, None, None]
+    y1 = int(h * top)
+    tt = np.linspace(1, 0, y1) ** 1.6
+    a[:y1] *= (1 - top_strength * tt)[:, None, None]
     return Image.fromarray(np.clip(a, 0, 255).astype(np.uint8))
 
 
