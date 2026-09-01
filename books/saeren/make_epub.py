@@ -246,9 +246,8 @@ CONFIGS = {
   subtitle="Book Three: The Weight of the Source",
   full_title="The Saeren Chronicles \u2014 Book Three: The Weight of the Source",
   isbn="9798182723800", isbn_hyphen="979-8-1827-2380-0",
-  # Book Three's print copyright page carries no dedication yet; keep the ebook
-  # consistent with it rather than inventing one.
-  dedication="",
+  dedication="For my family &#8212;<br/>it&#8217;s not always the one you are born into,"
+             "<br/>but the one who accepts you for who you are,<br/>flaws and all.",
   ack="Thanks to everyone who has read my books and encouraged me to keep writing.",
   desc="The conclusion of The Saeren Chronicles: a fantasy about power held without cruelty, the people who keep you human, and the weight of being what everyone else needs."),
 }

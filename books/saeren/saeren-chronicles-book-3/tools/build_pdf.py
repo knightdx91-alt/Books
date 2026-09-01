@@ -37,7 +37,9 @@ _rev = f"-{REV}" if REV else ""
 # --- Front-matter fields (fill these in; empty string omits the line/page) ---
 ISBN = "979-8-1827-2380-0"      # print ISBN
 IMPRINT = "Post Peleos"
-DEDICATION = ""                # italic line on its own recto; "" omits the page
+DEDICATION = ("For my family &#8212;<br/>it&#8217;s not always the one you are born into,"
+              "<br/>but the one who accepts you for who you are,<br/>flaws and all.")
+# (an empty DEDICATION omits the page entirely rather than printing a placeholder)
 ACKNOWLEDGMENTS = ("Thanks to everyone who has read my books and encouraged me "
                    "to keep writing.")
 SRC = os.path.join(ROOT, "manuscript", f"full-manuscript{_rev}.md")

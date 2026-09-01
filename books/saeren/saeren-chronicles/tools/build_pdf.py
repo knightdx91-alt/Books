@@ -94,6 +94,19 @@ fm_body = ParagraphStyle("fm_body", fontName="PlexSerif", fontSize=11,
                          allowWidows=0, allowOrphans=0)
 fm_half = ParagraphStyle("fm_half", fontName="PlexSerif-It", fontSize=16,
                          alignment=TA_CENTER, leading=20, textColor=K_BLACK)
+# --- "Also by" page ---------------------------------------------------------
+ab_series = ParagraphStyle("ab_series", fontName="PlexSerif-Bd", fontSize=11,
+                           alignment=TA_CENTER, leading=15, spaceBefore=6,
+                           spaceAfter=8, textColor=K_BLACK)
+ab_item = ParagraphStyle("ab_item", fontName="PlexSerif-It", fontSize=12,
+                         alignment=TA_CENTER, leading=18, textColor=K_BLACK)
+ab_lead = ParagraphStyle("ab_lead", fontName="PlexSerif", fontSize=10.5,
+                         alignment=TA_CENTER, leading=15, textColor=K_BLACK)
+ab_note = ParagraphStyle("ab_note", fontName="PlexSerif", fontSize=9.5,
+                         alignment=TA_CENTER, leading=13, textColor=K_BLACK)
+ab_rule = ParagraphStyle("ab_rule", fontName="PlexSerif", fontSize=11,
+                         alignment=TA_CENTER, leading=15, spaceBefore=22,
+                         spaceAfter=18, textColor=K_BLACK)
 
 
 # Mutable holders so build() can report the front-matter offset / total pages.
@@ -186,7 +199,25 @@ def build(pad_to_even=False, head_map=None):
     story.append(Spacer(1, 3.2*inch))
     story.append(Paragraph("THE SAEREN CHRONICLES", fm_half))
     end_page()
-    blank_verso_if_needed()  # blank verso so the title page lands on a recto
+
+    # --- verso: "Also by" (matches Books Two and Three). This fills what was a
+    #     blank verso, so the page count and the cover spine are unchanged. ---
+    story.append(Spacer(1, 1.0*inch))
+    story.append(Paragraph("Also by Post Peleos", fm_head))
+    story.append(Paragraph("THE SAEREN CHRONICLES", ab_series))
+    story.append(Paragraph("Book One: Hazel Academy", ab_item))
+    story.append(Paragraph("Book Two: The Resistance", ab_item))
+    story.append(Paragraph("Book Three: The Weight of the Source", ab_item))
+    story.append(Paragraph("&#8212;&#160;&#160;&#8212;&#160;&#160;&#8212;", ab_rule))
+    story.append(Paragraph("Writing adult fantasy romance as", ab_lead))
+    story.append(Paragraph("S&#216;REN STROMBERG", ab_series))
+    story.append(Paragraph("A Bond of Scale and Silver", ab_item))
+    story.append(Spacer(1, 0.10*inch))
+    story.append(Paragraph(
+        "A standalone romantasy of dangerous devotion and the price of being "
+        "seen. Written for adult readers (18+) &#8212; not part of the Saeren "
+        "Chronicles, and not intended for the same shelf.", ab_note))
+    end_page()
 
     # --- recto: title page ---
     story.append(Spacer(1, 1.8*inch))

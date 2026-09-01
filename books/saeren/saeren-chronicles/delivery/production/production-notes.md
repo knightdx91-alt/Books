@@ -31,3 +31,12 @@ A full read of all 18 chapters plus targeted consistency searches was performed.
 
 - No EPUB/print binary was generated (no platform specified). The assembled markdown is the production master; convert to EPUB/PDF once a target platform (KDP / IngramSpark / Apple Books) and trim size are chosen. Recommended defaults are in `~/.claude/agents/book-packager.md` (5.5×8.5 trade paperback; serif body; `* * *` scene breaks; chapter heads page-break-before).
 - Front/back matter beyond the title page (copyright, dedication, acknowledgments, about-the-author) not added — supply when publishing details exist.
+
+## r16 (2026-09-01) — "Also by" page
+Front matter gained an **"Also by Post Peleos"** page on the verso facing the title
+page, matching Books Two and Three: the three Saeren titles, then under a rule the
+adult line — *A Bond of Scale and Silver* by **Søren Stromberg**, labelled 18+ and
+marked as not part of this series. It fills what was a blank verso, so the book is
+still **294 pages** and the existing cover wrap is unchanged and still valid.
+Deliverables: `...-interior-r16.pdf`, `...-interior-r16-PDFX1a.pdf`, and a rebuilt
+`../ebook/Saeren-Chronicles-Book-One-Hazel-Academy.epub`.

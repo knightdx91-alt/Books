@@ -27,9 +27,9 @@ python3 ../make_epub.py book-3             # -> delivery/ebook/...epub
 They are constants at the top of `tools/build_pdf.py` — `ISBN`, `IMPRINT`,
 `DEDICATION`, `ACKNOWLEDGMENTS`. An empty string omits that line or page rather
 than printing a placeholder, so a production file never ships with `[Dedication]`
-on a page. **`DEDICATION` is currently empty** (Books One and Two each have one;
-Book Three was never given a line). Setting it adds a recto + blank verso, i.e.
-**+2 pages**, which changes the spine — re-cut the cover if you fill it in.
+on a page. `DEDICATION` is now set (author-supplied, 2026-09-01), so Book Three's front
+matter matches Books One and Two exactly: half-title / "Also by" / title page /
+copyright / dedication / blank verso.
 
 ## Cover wrap
 `../tools/compose_wrap.py book-3` builds the full wrap from
@@ -41,16 +41,16 @@ The back-cover copy lives in `../tools/compose_wrap.py` (BOOKS["book-3"]) and is
 first pass written from STATE.yaml's premise — worth an author read before print.
 
 ## Current build
-- **r8** — 20 chapters, 111,618 words, **322 pages** (even). First build since r5;
+- **r8** — 20 chapters, 111,618 words, **324 pages** (even). First build since r5;
   it picks up the r6 (Act-One + finale de-tick) and r7 (aggressive tic-cap) prose.
   - `Saeren-Chronicles-Book-Three-6x9-interior-r8.pdf` — RGB review/proof copy.
   - `Saeren-Chronicles-Book-Three-6x9-interior-r8-PDFX1a.pdf` — PDF/X-1a:2001.
-  - `../cover/Saeren-Book-Three-FULL-WRAP-r8.pdf` + `-PDFX1a.pdf` — spine 0.725",
-    canvas 12.975" x 9.250", real EAN-13 for 979-8-1827-2380-0. First wrap this
+  - `../cover/Saeren-Book-Three-FULL-WRAP-r8.pdf` + `-PDFX1a.pdf` — spine 0.730",
+    canvas 12.980" x 9.250", real EAN-13 for 979-8-1827-2380-0. First wrap this
     book has had.
   - `../ebook/Saeren-Chronicles-Book-Three-The-Weight-of-the-Source.epub` — eBook
     ISBN 979-8-1827-2381-7.
-- New in r8: print ISBN 979-8-1827-2380-0 on the copyright page; imprint, bio and
+- New in r8: the author's dedication; print ISBN 979-8-1827-2380-0 on the copyright page; imprint, bio and
   acknowledgments filled in (were `[IMPRINT]` / `[EXPANDED BIO OPTIONAL]` /
   `[Acknowledgments]`); and an **"Also by Post Peleos"** page in the front matter,
   on the verso facing the title page, listing the trilogy and — under a rule — the
