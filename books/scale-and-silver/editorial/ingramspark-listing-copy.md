@@ -95,22 +95,32 @@ the stronger hook — it goes in the long Description instead.
 
 ---
 
-## Keyword field — these all appear in the description above
+## KEYWORD field
 
-Ingram's guidance is that the Keyword field and the description reinforce each other.
-Each of these appears verbatim, or as its exact component words, in the copy:
+Semicolon-separated, 10 terms, 240 characters / 240 bytes, pure ASCII:
 
-1. `adult romantasy`
-2. `vampire romance`
-3. `dragon shifter romance`
-4. `slow burn fantasy romance`
-5. `standalone fantasy romance`
-6. `dark fantasy romance`
-7. `forced proximity romance`
+```text
+adult romantasy; vampire romance; dragon shifter romance; slow burn fantasy romance; standalone fantasy romance; dark fantasy romance; forced proximity romance; spicy fantasy romance; hidden royal fantasy romance; morally grey love interest
+```
 
-Do **not** add "Anne Bishop", "Carissa Broadbent" or "Danielle L. Jensen" as keywords.
-Comp authors belong in the description as positioning; another author's name in the
-backend keyword field breaches Amazon's terms and can get a listing suppressed.
+Every one is supported by the book and appears in, or is a direct component of, the
+Description copy — which is what Ingram means by having the two reinforce each other.
+
+### Two terms deliberately NOT used
+
+- **`fated mates`** — high-volume in romantasy, and actively wrong here. The book's
+  stated differentiator is a bond that is *chosen, not fated*; the positioning notes
+  call that out as what separates it from default romantasy. Using the term would pull
+  in exactly the readers set up to be disappointed, and disappointed readers leave
+  one-star reviews. Volume is not worth a mismatch.
+- **`enemies to lovers`** — also high-volume, also inaccurate. Amelia and Korvan are
+  two hunted people thrown together, not adversaries. `forced proximity romance` is
+  the honest version of that search and is in the list.
+
+Comp authors — **Anne Bishop, Carissa Broadbent, Danielle L. Jensen** — must not go in
+this field either. Another author's name as a backend keyword breaches Amazon's terms
+and can get a listing suppressed. They belong in the Description as positioning, where
+they already are.
 
 ## BISAC categories
 
