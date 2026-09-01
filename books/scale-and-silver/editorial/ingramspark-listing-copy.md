@@ -1,6 +1,19 @@
-# Retailer description — *A Bond of Scale and Silver*
+# IngramSpark listing copy — *A Bond of Scale and Silver*
 
-For the IngramSpark **Description** field (the same copy works at KDP/Apple/Kobo).
+Everything that goes in the IngramSpark setup form's text fields. Ingram has **two
+separate description fields** and they are not interchangeable:
+
+- **Description** — the long one (~4,000 char limit). This is what appears on Amazon,
+  Barnes & Noble and the rest. Section below.
+- **Short Description** — a brief summary for Ingram's own catalogs and some online
+  sites (~350 chars). Different section, further down. Ingram asks for key selling
+  points here, and explicitly no author bio, no excerpt, no URLs.
+
+---
+
+## DESCRIPTION field (the long one)
+
+The same copy works at KDP/Apple/Kobo.
 
 Written to Ingram's guidance for that field: consumer-friendly, and with the
 Keyword-field terms worked into the prose so the description and the keywords
@@ -39,6 +52,36 @@ Content advisory: Adult (18+). Explicit sexual content (two open-door scenes), b
 Deliberately not hard-wrapped: these paste into a web form as clean paragraphs.
 If a form mangles the em dashes, replace them with a spaced hyphen rather than
 letting a mojibake character reach the listing.
+
+---
+
+## SHORT DESCRIPTION field
+
+~350 characters, for Ingram catalogs and some online retailers. Ingram asks for key
+selling points and forbids author bio, excerpt, and URLs — all respected below.
+
+**Note on "key selling points":** this book has no awards, no illustrations and no
+bonus material to cite, so the selling points that carry it are the premise hook
+(first natural-born vampire + a dragon clan-of-one), that it is a **standalone**, and
+the **chosen-not-fated** differentiator that separates it from default romantasy. Do
+not invent an award or an accolade to fill the space — Ingram catalog copy is trade
+facing and a fabricated credit is worse than none.
+
+```text
+Amelia is the first vampire born, not made, in a thousand years — and the secret that could start a war. Exposed and hunted, she runs, and meets an outcast whose first shift makes him a dragon out of dead legend. A standalone adult romantasy: dual POV, slow burn, a chosen bond rather than fated mates, and a bittersweet ending honestly earned. 18+.
+```
+
+349 characters.
+
+### If the field allows more than 350
+
+```text
+The first vampire born — not made — in a thousand years, Amelia has been hidden her whole life. When a schemer exposes her, the war begins. On the run she meets Korvan, whose first shift makes him a dragon out of dead legend, a clan of one. A standalone adult romantasy of chosen love, not fated mates, and the price of being seen. For readers of Carissa Broadbent. 18+.
+```
+
+370 characters. Adds the comp author, which is worth having in trade-facing catalog
+copy where a buyer is scanning for shelf placement.
+
 
 ---
 

@@ -34,7 +34,7 @@ Getting them crossed would put an 18+ audience code on a YA title, or vice versa
 
 ## Descriptions
 
-- Scale & Silver: `books/scale-and-silver/editorial/retailer-description.md`
+- Scale & Silver: `books/scale-and-silver/editorial/ingramspark-listing-copy.md`
 - Book Two: `books/saeren/saeren-chronicles-book-2/delivery/editorial/10-book2-description.md`
 - Book One: `books/saeren/saeren-chronicles/delivery/editorial/10-back-cover-copy.md`
 - Book Three: not written yet.
