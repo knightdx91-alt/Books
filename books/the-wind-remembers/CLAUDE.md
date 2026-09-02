@@ -80,9 +80,12 @@ Full text in `research/source-notes.md`; the load-bearing rules:
 - **Memories unlock only by USING the gift that put you on the wheel.** After that they
   trickle back **through dreams**, faster the more the soul embraces its past. Return is
   not always pleasant — a violent death is re-lived.
-- A **"hand"** (a watcher easing a soul's transition) is assigned ONLY for a soul's FIRST
-  reincarnation, and only mature souls are given the duty. The hand begins with no name,
-  no face, not even a gender — only a vague sense of **where**.
+- A **ward** (a newly reincarnated soul, watched over to ease the transition) is assigned
+  ONLY for a soul's FIRST reincarnation, and only mature souls are given the duty. The
+  **protector** begins with no name, no face, not even a gender — only a vague sense of
+  **where**. **Knight is the protector; Mandy is his ward — never the reverse.** The
+  handwritten pages write this term as "hand"; the author corrected it to "ward", which is
+  the pages' own word one line later ("protector and ward").
 - The wheel keeps protector and ward close in age: **Knight was three when Mandy was
   born**, felt the world shift at her first breath, a pull **west**, and that he had time.
 - **Opening shape:** Ch.1 = Elizabeth's Victorian life through her death. Ch.2 = time-skip
@@ -99,8 +102,8 @@ Three are the author's own side-note questions, and the last is the book's spine
 - **What determines how often a soul is reborn?**
 - Mandy's present-day job: **hotel** (as first written) or **museum curator** (the
   author's own later preference). The notes lean museum.
-- Standalone or series opener? Romance heat level? Does Knight's assignment as her hand
-  end once she remembers — and does the wheel reassign him?
+- Romance heat level? Does Knight's charge as her protector end once she remembers — and
+  does the wheel give him another ward? (Standalone is SETTLED — see STATE.yaml decisions.)
 
 ## Status (update as you go)
 - **2026-09-02 — source staged, architect NOT run.** `research/source-notes.md` holds the

@@ -19,8 +19,8 @@ harder than she ever has — and is placed on the wheel of reincarnation. Her
 first reincarnation is Mandy, present day, who knows only that she is drawn to a
 period she has no reason to love. Knight, an old soul out of the Middle Ages
 whose distinguishing trait is a will nothing can stop, was assigned as her
-"hand" — a watcher for a soul's first time around — and has been three years
-ahead of her since the day she was born.
+**protector** — a duty given only for a soul's first time around, with Mandy as
+his **ward** — and has been three years ahead of her since the day she was born.
 
 ## Blocking the architect
 

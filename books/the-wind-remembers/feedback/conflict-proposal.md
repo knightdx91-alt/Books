@@ -107,7 +107,7 @@ estate for him is two books inside one cover.
 
 ## A possible ending (author's call)
 
-Hands are assigned only for a soul's **first** reincarnation — so Knight's job
+A ward is given only for a soul's **first** reincarnation — so Knight's charge
 ends. The wheel releases him and points him at the next stranger.
 
 **He stays anyway.** That is what implacable will is for: assignment becomes

@@ -10,6 +10,18 @@ or a crossing-out obscured it, that is marked inline as `[?]` or noted in
 brackets. Nothing has been smoothed, expanded, or "improved" — interpretation
 belongs in `STATE.yaml` and the architect pass, not in the transcript.
 
+> **Author correction, 2026-09-02 — the term is "ward", not "hand".** The pages as
+> written say `"hand"`; the author has since corrected it. The transcription below
+> is left exactly as written (that is the point of a transcription), but **"ward"
+> is the canonical term everywhere else in this project.** Note that the pages
+> already use it a line later — *"the wheel does it's best to make the protector
+> and ward close to the same age"* — so the corrected term is the notes' own.
+>
+> **Direction, so it is never got backwards again:** the **ward** is the newly
+> reincarnated soul being watched over — **Mandy**. The **protector** is the mature
+> soul given the duty — **Knight**. A mature soul is assigned a ward; a ward is not
+> assigned a protector.
+
 ---
 
 ## Page 1 — the story
@@ -49,7 +61,7 @@ belongs in `STATE.yaml` and the architect pass, not in the transcript.
 > he still breathes. It's gotten easier for him, over the long years to remember
 > his past lives, once he is reborn. Each old soul, once they reach a…
 
-## Page 2 — the wheel, "hands", and how memory returns
+## Page 2 — the wheel, wards, and how memory returns
 
 > …point of maturity as in they have been reincarnated so many times, is
 > sometimes assigned a "hand", someone to watch over that is a newly
@@ -102,7 +114,7 @@ distinguishing gift is **calling the wind**.
 His distinguishing trait is **implacable will**: once committed to a course of
 action, nothing on earth stops him while he still breathes. Long practice has
 made recovering his past lives easy and early for him; his battlefield-born
-instincts help. He is Mandy's assigned **"hand."**
+instincts help. He is Mandy's assigned **protector**; she is his **ward**.
 
 ## The wheel — rules as written
 
@@ -119,12 +131,14 @@ instincts help. He is Mandy's assigned **"hand."**
   The more a soul **embraces its past**, in whatever form, the faster they come.
 - Memory return is **not always pleasant** — a soul who died violently
   re-experiences the moment of its death.
-- **"Hands":** a soul that has reached a **point of maturity** (i.e. has been
-  reincarnated many times) is *sometimes* assigned a hand — a watcher for a
-  **newly** reincarnated soul, to ease the transition. **Only ever for a soul's
-  first reincarnation.**
-- What an assigned hand is given at the start: **not** a name, **not** a face,
-  **not even a gender** — only a **vague sense of where** the person is.
+- **Wards:** a soul that has reached a **point of maturity** (i.e. has been
+  reincarnated many times) is *sometimes* assigned a **ward** — a **newly**
+  reincarnated soul to watch over, to ease the transition. **Only ever for a
+  soul's first reincarnation.** (The pages write this term as "hand"; the author
+  has corrected it to "ward" — see the note at the top of this file. The mature
+  soul is the **protector**; the new soul is the **ward**.)
+- What a protector is given at the start: **not** a name, **not** a face,
+  **not even a gender** — only a **vague sense of where** the ward is.
 - The wheel tries to keep protector and ward **close in age**. Knight was
   **three years old when Mandy was born**.
 - At **the moment Mandy drew her first breath**, something shifted in the world
