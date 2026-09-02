@@ -125,8 +125,16 @@ Three are the author's own side-note questions, and the last is the book's spine
 - **What determines how often a soul is reborn?**
 - Mandy's present-day job: **hotel** (as first written) or **museum curator** (the
   author's own later preference). The notes lean museum.
-- Romance heat level? Does Knight's charge as her protector end once she remembers — and
-  does the wheel give him another ward? (Standalone is SETTLED — see STATE.yaml decisions.)
+- Does Knight's charge as her protector end once she remembers — and does the wheel give
+  him another ward? (Standalone, conflict, memory structure, Mandy's job and heat level are
+  all SETTLED — see STATE.yaml `decisions`.)
+
+## Settled shape (see STATE.yaml `decisions` for the full text)
+Standalone. Mandy is a **Victorian-period museum curator** — her job is the accelerant for
+her memory recovery, and the pacing solution. Romance is **closed-door**; the author wants
+teens to be able to read it, which makes this **adult** clean fantasy romance with crossover
+readership, **not YA** (the leads are in their twenties — do not age Mandy down). The heavy
+material stays; it is rendered consequence-forward rather than gore-forward.
 
 ## Status (update as you go)
 - **2026-09-02 — source staged, architect NOT run.** `research/source-notes.md` holds the

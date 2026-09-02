@@ -1,10 +1,10 @@
 project:
   title: "The Wind Remembers"   # WORKING TITLE — Claude-chosen 2026-09-02 at scaffold time; the notes name no title. Author to confirm or replace (see open_author_decisions).
-  genre: "Fantasy romance"
+  genre: "Fantasy romance (closed-door / clean — adult, crossover-friendly)"
   subgenre: "Reincarnation / past-lives contemporary fantasy with historical strands (Victorian, medieval)"
   language: "English"
   word_count_target: 95000
-  comp_titles: []   # TODO: book-researcher pass — reincarnation/past-lives romance shelf.
+  comp_titles: []   # TODO: book-researcher pass. IMPORTANT: comp against CLOSED-DOOR / clean fantasy romance with adult leads and crossover teen readership — NOT open-door romantasy. Wrong comps here mispackage the book.
   engagement_type: {primary: "empathy", secondary: "fascination", tertiary: "romance / wish-fulfilment"}
   premise: "A young woman drawn all her life to a Victorian England she has no reason to love is the first reincarnation of the girl who died calling the wind — and the man who has spent every life since the Middle Ages sharpening one implacable will was assigned, at three years old, to watch over her."
   created: "2026-09-02"
@@ -76,15 +76,17 @@ guardrails:
 
 open_author_decisions:
   - "TITLE: 'The Wind Remembers' is a Claude-chosen working title — the notes name none. Confirm, or replace."
-  - "Mandy's present-day job: hotel (first written) or MUSEUM CURATOR (the author's own later preference, because it showcases the pull toward a period she cannot explain)? The notes lean museum; not settled."
   - "What determines how OFTEN a soul is reborn? (Author's open question.)"
   - "WHY is a soul reborn at all? (Author's open question — this is the metaphysics the ending has to answer.)"
-  - "Heat level of the Mandy/Knight romance (fade-to-black vs on-page) — sets style_check + content guardrails."
   - "Does Knight's charge as Mandy's protector end when she recovers her memories, and does the wheel give him another ward? The notes are silent, and the romance's shape depends on it."
 
 decisions:
   - "This book is a folder-per-book genesis project under books/the-wind-remembers/."
   - "2026-09-02 AUTHOR DECISION — CONFLICT APPROVED (feedback/conflict-proposal.md v2). There is NO binder: the wheel took Elizabeth impersonally because her gift made her exceptional (the author's own note). ONE antagonist — a man who can sever souls from the wheel, who is not a menace but a MERCY: tired old souls who re-live violent deaths every cycle are offered rest, and his argument is real. HIS SIN IS THAT HE DOES NOT ASK — which is the wheel's sin too (Elizabeth was not asked; Knight was not asked at three). THEME = CONSENT. He enters through KNIGHT, not through Elizabeth: Knight is exactly the worn soul his work exists for, Knight refuses because of Mandy, so he turns to her — free her and Knight has no reason to stay. The leverage IS the romance; no coincidence required. Knight's implacable will is the CLIMAX MECHANISM, not a superpower. BALANCE = souls must be able to leave or the wheel is a prison, but if leaving is easy whatever the wheel is for collapses; the climax restores the ABILITY TO CHOOSE rather than winning a fight."
+  - "2026-09-02 AUTHOR DECISION: Mandy is a MUSEUM CURATOR specializing in the VICTORIAN period — the exact era she lived. Consequence: her workplace is full of objects from her own first life, so her career is the ACCELERANT for her memory recovery. Canon-compliant, and note the limit: objects do NOT unlock memory (only USING THE GIFT does that). Before the wind, the museum supplies only the unexplained pull. After the wind unlocks the stream, the museum is the fastest place on earth for her to embrace her past, which is exactly the notes' acceleration rule — and it is also the PACING SOLUTION for recovering a whole life inside one standalone."
+  - "2026-09-02 AUTHOR DECISION: romance is CLOSED-DOOR / behind-the-scenes. No on-page sex. The author wants TEENS to be able to read this."
+  - "2026-09-02 SHELF NOTE (Claude, flagged for author): teen-readable + leads in their TWENTIES means this is NOT YA — YA convention puts a teenager in the lead, and the notes explicitly place Mandy in her twenties with a career. This is ADULT closed-door fantasy romance with crossover teen readership, which is a real and healthy shelf. Do NOT age Mandy down to chase the YA label; it would break the notes. Comp and package accordingly."
+  - "2026-09-02 CONTENT GUARDRAIL (teen-readable): the heavy material STAYS — Elizabeth dies violently in Ch.1, Knight re-lives his own death, there are battlefield memories, and the antagonist offers to end souls. What changes is RENDERING: consequence-forward, not gore-forward. Death is felt, not dwelt on. The severer's offer is the delicate one — a sympathetic character arguing for ending existence, read by teens — and the book's own theme is the guard: his sin is that HE DOES NOT ASK, and the ending is Mandy CHOOSING TO STAY. Never render the offer as seductive or as the wiser path; let it be understandable and still refused."
   - "2026-09-02 AUTHOR DECISION: souls are reborn because THE WHEEL KEEPS WHAT IS RARE — impersonal, no decider. How often is deliberately left unanswered."
   - "2026-09-02 AUTHOR DECISION: STANDALONE. One book, self-contained ending. Consequence for the architect: the wheel's cosmology is NEVER fully explained and its administration is NEVER staged on-page (no council, no agents, no hierarchy) — the wheel is weather, not a government. The ending resolves WHY MANDY is on the wheel, not why the wheel exists. Characters get closure; the cosmos does not."
   - "The handwritten pages are transcribed VERBATIM in research/source-notes.md, with interpretation kept in a separate clearly-marked section, so the author's own words stay recoverable."
