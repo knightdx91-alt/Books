@@ -1,0 +1,73 @@
+project:
+  title: "The Wind Remembers"   # WORKING TITLE — Claude-chosen 2026-09-02 at scaffold time; the notes name no title. Author to confirm or replace (see open_author_decisions).
+  genre: "Fantasy romance"
+  subgenre: "Reincarnation / past-lives contemporary fantasy with historical strands (Victorian, medieval)"
+  language: "English"
+  word_count_target: 95000
+  comp_titles: []   # TODO: book-researcher pass — reincarnation/past-lives romance shelf.
+  engagement_type: {primary: "empathy", secondary: "fascination", tertiary: "romance / wish-fulfilment"}
+  premise: "A young woman drawn all her life to a Victorian England she has no reason to love is the first reincarnation of the girl who died calling the wind — and the man who has spent every life since the Middle Ages sharpening one implacable will was assigned, at three years old, to watch over her."
+  created: "2026-09-02"
+  updated: "2026-09-02"
+
+# GENESIS FROM AUTHOR'S PLANNING NOTES — no prose draft exists. The notes are canon
+# (premise, cast, wheel rules, opening two chapters); everything else is the architect's
+# to build. This is NOT a revise-existing-draft run.
+adaptation:
+  mode: "genesis-from-notes"
+  canon_sources:
+    planning_notes: "research/source-notes.md"          # transcribed handwritten pages = BINDING canon
+    notes_scans:    "research/notes-scans/"             # page-1.jpg, page-2.jpg — the original hand
+  chapter_1_locked: false
+  chapters_to_produce: []        # architect sets this after the structure pass
+
+word_floor:
+  manuscript_min_words: 90000    # HARD FLOOR (book total) — the binding gate.
+  manuscript_target_words: 95000
+  # NOTE: there is deliberately NO uniform per-chapter floor. Chapter lengths VARY WIDELY
+  # (~1,500–7,000w) by design — the book TOTAL is what's enforced, not each chapter.
+  shortest_chapter_floor: 1200
+
+phase:
+  current: 1
+  status: "source staged — research/source-notes.md (verbatim transcription of the author's 2 handwritten pages + extracted canon + the author's own open questions) and the scans in research/notes-scans/. READY for the architect pass. Nothing blueprinted, nothing drafted. NOTE: three of the author's open questions (why/how often souls are reborn, the overarching conflict) are unanswered in the notes — see open_author_decisions; the architect should PROPOSE, not silently decide."
+  history:
+    - "2026-09-02: scaffolded from books/_template/; author's handwritten planning pages transcribed to research/source-notes.md and scans preserved in research/notes-scans/."
+
+chapters:
+  total_planned: 0
+  completed: []
+  scores: {}
+
+genesis_score:
+  current_floor: 0.0
+  current_average: 0.0
+
+quality_gate:
+  chapters_passed: []
+  chapters_escalated: []
+
+guardrails:
+  - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
+  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py — wind imagery is a MOTIF here and will otherwise trip the repetition gate."
+  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
+  - "CANON — the wheel (from the notes, non-negotiable): (a) each old soul has ONE thing that sets it apart — Mandy: calling the wind; Knight: implacable will, unstoppable while he still breathes. (b) Memories unlock ONLY by USING the gift that put you on the wheel; after that they trickle back THROUGH DREAMS, and faster the more the soul embraces its past. (c) Memory return is not always pleasant — a violent death is re-lived. (d) A 'hand' is assigned only for a soul's FIRST reincarnation, and only mature souls are given one. (e) An assigned hand starts with NO name, NO face, NOT even a gender — only a vague sense of WHERE. (f) The wheel keeps protector and ward close in age: Knight was 3 when Mandy was born, and felt the world shift at her first breath, a pull WEST, and that he had time."
+  - "CANON — the leads: Mandy is the FIRST reincarnation of Elizabeth, a high-society Victorian Englishwoman who called the wind and died doing it in a moment of crisis. Mandy does NOT know she is an old soul; she only knows she is drawn to the period (the dresses, the society) without knowing why — hold that ignorance until the notes' reveal. Knight is an old soul out of the MEDIEVAL period who recovers his memories early and easily, helped by battlefield instincts."
+  - "CANON — opening shape: Ch.1 is Elizabeth's Victorian life through her death. Ch.2 time-skips to Mandy as a child, kids outside a run-down abandoned house, storm-feeling but no storm; she calls the wind for the FIRST time and DISMISSES it as the coming weather (they had played the calling game before with nothing happening); sun, then they run laughing to her house out of the sprinkling rain. Then skip to Mandy in her twenties, where she meets Knight."
+  - "Flashbacks go to the leads' FIRST lives specifically — Elizabeth's Victorian one for Mandy, Knight's adulthood for him."
+  - "Do NOT invent past the notes without flagging it. Where the notes are silent (see open_author_decisions), the architect PROPOSES options in feedback/progress.md for author sign-off rather than quietly settling canon."
+
+open_author_decisions:
+  - "TITLE: 'The Wind Remembers' is a Claude-chosen working title — the notes name none. Confirm, or replace."
+  - "Mandy's present-day job: hotel (first written) or MUSEUM CURATOR (the author's own later preference, because it showcases the pull toward a period she cannot explain)? The notes lean museum; not settled."
+  - "What determines how OFTEN a soul is reborn? (Author's open question.)"
+  - "WHY is a soul reborn at all? (Author's open question — this is the metaphysics the ending has to answer.)"
+  - "The OVERARCHING CONFLICT. Author's working idea: someone who can SEVER a soul's connection to the wheel, with BALANCE as the stake. Needs to be settled before the architect can build an outline — it is the book's antagonist and its spine."
+  - "Is this a standalone or the opening of a series? (Affects how much of the wheel's metaphysics resolves on-page.)"
+  - "Heat level of the Mandy/Knight romance (fade-to-black vs on-page) — sets style_check + content guardrails."
+  - "Does Knight's assignment as Mandy's 'hand' end when she recovers her memories, and does the wheel reassign him? The notes are silent, and the romance's shape depends on it."
+
+decisions:
+  - "This book is a folder-per-book genesis project under books/the-wind-remembers/."
+  - "The handwritten pages are transcribed VERBATIM in research/source-notes.md, with interpretation kept in a separate clearly-marked section, so the author's own words stay recoverable."
+revision_cycles: 0

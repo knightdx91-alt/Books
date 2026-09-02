@@ -31,11 +31,12 @@ mkdir -p "$DEST"/{research,manuscript/chapters,evaluations/continuity,feedback,d
 # Seed from the template.
 [[ -f "$TPL/STATE.yaml" ]]            && cp "$TPL/STATE.yaml" "$DEST/STATE.yaml"
 [[ -f "$TPL/CLAUDE.md" ]]             && cp "$TPL/CLAUDE.md"  "$DEST/CLAUDE.md"
+[[ -f "$TPL/character-bible.md" ]]    && cp "$TPL/character-bible.md" "$DEST/character-bible.md"
 [[ -f "$TPL/tools/style_check.py" ]]  && cp "$TPL/tools/style_check.py"  "$DEST/tools/style_check.py"
 [[ -f "$TPL/tools/grammar_check.py" ]]&& cp "$TPL/tools/grammar_check.py" "$DEST/tools/grammar_check.py"
 
 # Fill placeholders.
-sed -i "s|<BOOK TITLE>|$TITLE|g; s|<YYYY-MM-DD>|$TODAY|g" "$DEST/STATE.yaml" "$DEST/CLAUDE.md" 2>/dev/null || true
+sed -i "s|<BOOK TITLE>|$TITLE|g; s|<YYYY-MM-DD>|$TODAY|g" "$DEST/STATE.yaml" "$DEST/CLAUDE.md" "$DEST/character-bible.md" 2>/dev/null || true
 
 cat > "$DEST/feedback/progress.md" <<EOF
 # Progress — $TITLE
