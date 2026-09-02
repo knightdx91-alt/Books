@@ -101,20 +101,37 @@ whodunit — so give Knight enough POV that the reader knows what he is early, a
 let the tension be *when she finds out and how she takes it*. Running a mystery
 after that opening wastes the opening.
 
-**Memory structure (author decision, supersedes the earlier flashback-budget
-note).** Past lives are **interspersed throughout**, and they **escalate** — a few
-lines of sensory intrusion early, disordered dream fragments next, then short
-involuntary scenes, then full scenes she can enter on purpose. Never evenly
-distributed: the notes' own rule is that memories come faster the more a soul
-embraces its past, so the *form* should perform the rule.
+**Memory structure (author decisions, supersede the earlier flashback-budget
+note).** Past lives run **interspersed throughout** and **in chronological order**.
+Each lead recovers their *first* life from the beginning forward, ending in their
+death — Elizabeth's Victorian life for Mandy, his medieval life for Knight.
+Neither stream ranges across later lives. Early memories are short and incomplete
+— seconds of a scene, a sensory intrusion not yet legible as memory — but still in
+sequence; what escalates is **length, continuity and rate**, never order. That is
+how the notes' own rule ("the more you embrace your past, the faster they come")
+becomes pacing instead of scrambling.
 
-Two things keep that from becoming decoration. **The asymmetry:** Mandy has one
-prior life and is assembling a single person out of fragments (discovery, gated
-behind her first adult use of the wind), while Knight carries dozens and is
-drowning in them (accumulation, available from his first page) — same mechanism,
-opposite pressure. **And Knight's memories are the antagonist's evidence:** canon
-says a violent death is re-lived, so every life Knight surfaces *demonstrates* the
-severer's case rather than arguing it.
+The order is what makes it work: **it's a countdown.** The reader watched
+Elizabeth die in Ch.1, so every recovered memory is one step nearer the thing
+already seen. Treat Elizabeth's life as a second forward-moving plotline with its
+own beats, not as texture.
+
+**The asymmetry is in the relationship, not the structure.** Both leads recover a
+first life in order, ending in death — but Mandy is recovering hers for the first
+time and doesn't know what's coming, while Knight has recovered his *every single
+cycle* and knows exactly how it ends. He's watching a rerun of his own death. She
+dreads the unknown; he dreads the known. That is also the sharpest version of his
+fatigue: not "many vague lives," but one death re-lived on schedule, forever.
+
+**So land Knight's death-memory near the midpoint, well before hers.** Canon says
+he remembers early and easily. His stream becomes the rehearsal for Mandy's — it
+shows the reader precisely what is waiting for her, and it makes the severer's
+case by demonstration rather than speech.
+
+**Convergence.** Memory unlocks by *using* the gift, and the climax should require
+Mandy to call the wind as hard as Elizabeth did. So the final memory lands *at*
+the climax: she calls the wind, re-lives dying, and the severer's offer is on the
+table in the same scene. Three chronologies resolve in one moment.
 
 **Withhold Elizabeth's death from Mandy until last.** The reader watched it in
 Ch.1; Mandy recovers it only when the memories finish arriving. The book then runs

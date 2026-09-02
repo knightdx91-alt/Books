@@ -95,9 +95,17 @@ Full text in `research/source-notes.md`; the load-bearing rules:
 - **Memories are INTERSPERSED throughout** (author decision), not a few set-piece flashbacks,
   and they **escalate** in density and length — because the notes' own rule is that they come
   faster the more a soul embraces its past. The form dramatizes the rule.
-- **Asymmetry:** Mandy is the first reincarnation, so she has **one** prior life (Elizabeth's)
-  and assembles one person from fragments — memory as *discovery*, gated behind her first adult
-  use of the wind. Knight carries **dozens** — memory as *accumulation*, available immediately.
+- **In chronological order.** Each lead recovers their **first life from its beginning
+  forward, ending in their death** — Elizabeth's Victorian life for Mandy, his medieval one
+  for Knight. Neither stream ranges across later lives. Early memories are short and
+  incomplete but still *in sequence*; what escalates is length, continuity and rate.
+- **The ordered stream is a countdown.** The reader watched Elizabeth die in Ch.1, so every
+  memory is a step toward the thing already seen.
+- **Asymmetry:** Mandy is recovering hers for the first time and doesn't know what's coming.
+  Knight has recovered his every cycle and knows exactly how it ends — a rerun of his own
+  death. She dreads the unknown; he dreads the known. Land *his* death-memory near the
+  midpoint: it shows the reader what waits for her, and makes the severer's case without a
+  speech.
 - **Elizabeth's death is withheld from Mandy until last.** The reader saw it in Ch.1. The book
   runs on dread, not mystery.
 
