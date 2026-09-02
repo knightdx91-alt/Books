@@ -111,6 +111,30 @@ sequence; what escalates is **length, continuity and rate**, never order. That i
 how the notes' own rule ("the more you embrace your past, the faster they come")
 becomes pacing instead of scrambling.
 
+**What the streams are for.** Canon gives every old soul one thing that sets it
+apart — so each first life is **the origin story of that thing**. Elizabeth's life
+shows the wind growing until it made her exceptional enough for the wheel to keep
+her. Knight's shows the will forming: how he became the man nothing on earth can
+stop. That is the single test for every installment — if it doesn't advance the
+formation of the trait, it isn't in the book.
+
+**Knight's will is a scar, not a virtue.** A man becomes unable to stop because
+stopping once cost him everything. Don't deliver that as one trauma in one reveal;
+across the ordered stream we watch it *accrete* — small choices, a hardening,
+until the shape is set. And the formation should be visible before anyone names
+it. Nobody in this book says "that's why you're like this."
+
+**His trait is also what kills him.** End his first life because he would not
+stop. Then the reader learns at the midpoint that his defining virtue is lethal to
+him, every time — so when he refuses to stop at the climax, they are genuinely
+afraid. It is also the severer's case at full strength: this man was broken into
+this shape centuries ago and has never once been allowed to set it down.
+
+**And the arc closes on his reason, not his trait.** He doesn't become less
+implacable. If the will was forged by failing to hold on to someone, then staying
+with Mandy after his charge ends is the *same* impulse — chosen, for the first
+time, instead of driven by a wound.
+
 The order is what makes it work: **it's a countdown.** The reader watched
 Elizabeth die in Ch.1, so every recovered memory is one step nearer the thing
 already seen. Treat Elizabeth's life as a second forward-moving plotline with its

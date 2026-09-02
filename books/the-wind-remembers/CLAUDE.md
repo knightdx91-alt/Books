@@ -99,6 +99,14 @@ Full text in `research/source-notes.md`; the load-bearing rules:
   forward, ending in their death** — Elizabeth's Victorian life for Mandy, his medieval one
   for Knight. Neither stream ranges across later lives. Early memories are short and
   incomplete but still *in sequence*; what escalates is length, continuity and rate.
+- **Each first life is the origin story of that soul's distinguishing trait.** Canon gives
+  every old soul one thing that sets it apart, so Elizabeth's life shows the **wind** growing
+  until the wheel kept her, and Knight's shows the **will** forming. If a memory doesn't
+  advance the formation of that trait, it doesn't belong.
+- **Knight's will is a scar, not a virtue** — show it being made, accreting across the ordered
+  stream rather than revealed as one trauma. Nobody in the book ever says "that's why you're
+  like this." And his first life should **end because he would not stop**: his defining virtue
+  is what kills him, every time, which is what makes the climax frightening.
 - **The ordered stream is a countdown.** The reader watched Elizabeth die in Ch.1, so every
   memory is a step toward the thing already seen.
 - **Asymmetry:** Mandy is recovering hers for the first time and doesn't know what's coming.
