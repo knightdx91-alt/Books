@@ -92,7 +92,14 @@ Full text in `research/source-notes.md`; the load-bearing rules:
   to Mandy as a child outside a run-down abandoned house, storm-feeling but no storm; she
   calls the wind for the first time and dismisses it as the weather; sun, then they run
   laughing to her house out of the sprinkling rain. Then skip to Mandy in her twenties.
-- Flashbacks go to the leads' **first** lives specifically.
+- **Memories are INTERSPERSED throughout** (author decision), not a few set-piece flashbacks,
+  and they **escalate** in density and length — because the notes' own rule is that they come
+  faster the more a soul embraces its past. The form dramatizes the rule.
+- **Asymmetry:** Mandy is the first reincarnation, so she has **one** prior life (Elizabeth's)
+  and assembles one person from fragments — memory as *discovery*, gated behind her first adult
+  use of the wind. Knight carries **dozens** — memory as *accumulation*, available immediately.
+- **Elizabeth's death is withheld from Mandy until last.** The reader saw it in Ch.1. The book
+  runs on dread, not mystery.
 
 ## Open author decisions (ask, don't invent)
 Three are the author's own side-note questions, and the last is the book's spine:
