@@ -1,7 +1,7 @@
 # Conflict proposal — The Wind Remembers (v2)
 
-**Status: PROPOSED, awaiting author sign-off.** Nothing here is canon. The
-architect must not build an outline against this until the author approves it.
+**Status: APPROVED by the author 2026-09-02.** This is now canon — mirrored into
+STATE.yaml decisions and guardrails. Build the outline against it.
 `research/source-notes.md` remains the only binding canon.
 
 **Settled:** standalone.
@@ -101,9 +101,24 @@ whodunit — so give Knight enough POV that the reader knows what he is early, a
 let the tension be *when she finds out and how she takes it*. Running a mystery
 after that opening wastes the opening.
 
-**Flashback budget.** Present day is the spine. Victorian returns a handful of
-times after Ch.1; Knight's medieval life fewer and shorter. Equal flashback real
-estate for him is two books inside one cover.
+**Memory structure (author decision, supersedes the earlier flashback-budget
+note).** Past lives are **interspersed throughout**, and they **escalate** — a few
+lines of sensory intrusion early, disordered dream fragments next, then short
+involuntary scenes, then full scenes she can enter on purpose. Never evenly
+distributed: the notes' own rule is that memories come faster the more a soul
+embraces its past, so the *form* should perform the rule.
+
+Two things keep that from becoming decoration. **The asymmetry:** Mandy has one
+prior life and is assembling a single person out of fragments (discovery, gated
+behind her first adult use of the wind), while Knight carries dozens and is
+drowning in them (accumulation, available from his first page) — same mechanism,
+opposite pressure. **And Knight's memories are the antagonist's evidence:** canon
+says a violent death is re-lived, so every life Knight surfaces *demonstrates* the
+severer's case rather than arguing it.
+
+**Withhold Elizabeth's death from Mandy until last.** The reader watched it in
+Ch.1; Mandy recovers it only when the memories finish arriving. The book then runs
+on dread rather than mystery, which is what that opening actually promised.
 
 ## A possible ending (author's call)
 

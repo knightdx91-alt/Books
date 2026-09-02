@@ -30,7 +30,7 @@ word_floor:
 
 phase:
   current: 1
-  status: "source staged — research/source-notes.md (verbatim transcription of the author's 2 handwritten pages + extracted canon + the author's own open questions) and the scans in research/notes-scans/. READY for the architect pass. Nothing blueprinted, nothing drafted. NOTE: three of the author's open questions (why/how often souls are reborn, the overarching conflict) are unanswered in the notes — see open_author_decisions; the architect should PROPOSE, not silently decide."
+  status: "CONFLICT SIGNED OFF 2026-09-02 (proposal v2 approved) — architect UNBLOCKED once the job + heat-level calls land. Source staged — research/source-notes.md (verbatim transcription of the author's 2 handwritten pages + extracted canon + the author's own open questions) and the scans in research/notes-scans/. READY for the architect pass. Nothing blueprinted, nothing drafted. NOTE: three of the author's open questions (why/how often souls are reborn, the overarching conflict) are unanswered in the notes — see open_author_decisions; the architect should PROPOSE, not silently decide."
   history:
     - "2026-09-02: scaffolded from books/_template/; author's handwritten planning pages transcribed to research/source-notes.md and scans preserved in research/notes-scans/."
 
@@ -55,6 +55,11 @@ guardrails:
   - "CANON — the leads: Mandy is the FIRST reincarnation of Elizabeth, a high-society Victorian Englishwoman who called the wind and died doing it in a moment of crisis. Mandy does NOT know she is an old soul; she only knows she is drawn to the period (the dresses, the society) without knowing why — hold that ignorance until the notes' reveal. Knight is an old soul out of the MEDIEVAL period who recovers his memories early and easily, helped by battlefield instincts."
   - "CANON — opening shape: Ch.1 is Elizabeth's Victorian life through her death. Ch.2 time-skips to Mandy as a child, kids outside a run-down abandoned house, storm-feeling but no storm; she calls the wind for the FIRST time and DISMISSES it as the coming weather (they had played the calling game before with nothing happening); sun, then they run laughing to her house out of the sprinkling rain. Then skip to Mandy in her twenties, where she meets Knight."
   - "Flashbacks go to the leads' FIRST lives specifically — Elizabeth's Victorian one for Mandy, Knight's adulthood for him."
+  - "STANDALONE DISCIPLINE 1 — never stage the wheel's administration: no council, no clerks, no officers, no binder, no audience with management. The wheel is weather, not a government. The moment the institution has staff, it has a sequel."
+  - "STANDALONE DISCIPLINE 2 — answer 'why me', not 'why the wheel'. Mandy never learns why the wheel exists; she learns what being kept by it costs, and she chooses. Characters get closure; the cosmos does not."
+  - "STANDALONE DISCIPLINE 3 — every reveal arrives through the mechanism already in the notes (gift used -> memories trickle back in dreams -> faster as she embraces her past). NO investigation subplot, NO archive, NO research montage: the past resolves inside the romance, not beside it."
+  - "POV — Ch.1 opening on Elizabeth's death makes this a DRAMATIC-IRONY book, not a whodunit. Give Knight enough POV that the reader knows what he is early; the tension is WHEN SHE FINDS OUT AND HOW SHE TAKES IT, not 'who is this man'."
+  - "FLASHBACK BUDGET — present day is the spine. Victorian returns a handful of times after Ch.1; Knight's medieval life fewer and shorter. Equal flashback real estate for Knight is two books in one cover."
   - "Do NOT invent past the notes without flagging it. Where the notes are silent (see open_author_decisions), the architect PROPOSES options in feedback/progress.md for author sign-off rather than quietly settling canon."
 
 open_author_decisions:
@@ -62,12 +67,13 @@ open_author_decisions:
   - "Mandy's present-day job: hotel (first written) or MUSEUM CURATOR (the author's own later preference, because it showcases the pull toward a period she cannot explain)? The notes lean museum; not settled."
   - "What determines how OFTEN a soul is reborn? (Author's open question.)"
   - "WHY is a soul reborn at all? (Author's open question — this is the metaphysics the ending has to answer.)"
-  - "The OVERARCHING CONFLICT — a configuration is PROPOSED in feedback/conflict-proposal.md (severance-as-mercy; the binder and the severer are one man, the same power run in two directions; his sin is that he does not ask). AWAITING AUTHOR SIGN-OFF. Until signed off, the architect does not build an outline."
   - "Heat level of the Mandy/Knight romance (fade-to-black vs on-page) — sets style_check + content guardrails."
   - "Does Knight's charge as Mandy's protector end when she recovers her memories, and does the wheel give him another ward? The notes are silent, and the romance's shape depends on it."
 
 decisions:
   - "This book is a folder-per-book genesis project under books/the-wind-remembers/."
+  - "2026-09-02 AUTHOR DECISION — CONFLICT APPROVED (feedback/conflict-proposal.md v2). There is NO binder: the wheel took Elizabeth impersonally because her gift made her exceptional (the author's own note). ONE antagonist — a man who can sever souls from the wheel, who is not a menace but a MERCY: tired old souls who re-live violent deaths every cycle are offered rest, and his argument is real. HIS SIN IS THAT HE DOES NOT ASK — which is the wheel's sin too (Elizabeth was not asked; Knight was not asked at three). THEME = CONSENT. He enters through KNIGHT, not through Elizabeth: Knight is exactly the worn soul his work exists for, Knight refuses because of Mandy, so he turns to her — free her and Knight has no reason to stay. The leverage IS the romance; no coincidence required. Knight's implacable will is the CLIMAX MECHANISM, not a superpower. BALANCE = souls must be able to leave or the wheel is a prison, but if leaving is easy whatever the wheel is for collapses; the climax restores the ABILITY TO CHOOSE rather than winning a fight."
+  - "2026-09-02 AUTHOR DECISION: souls are reborn because THE WHEEL KEEPS WHAT IS RARE — impersonal, no decider. How often is deliberately left unanswered."
   - "2026-09-02 AUTHOR DECISION: STANDALONE. One book, self-contained ending. Consequence for the architect: the wheel's cosmology is NEVER fully explained and its administration is NEVER staged on-page (no council, no agents, no hierarchy) — the wheel is weather, not a government. The ending resolves WHY MANDY is on the wheel, not why the wheel exists. Characters get closure; the cosmos does not."
   - "The handwritten pages are transcribed VERBATIM in research/source-notes.md, with interpretation kept in a separate clearly-marked section, so the author's own words stay recoverable."
 revision_cycles: 0
