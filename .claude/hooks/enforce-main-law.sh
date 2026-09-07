@@ -3,12 +3,23 @@
 # PreToolUse guard enforcing WORKFLOW LAW for the Books repo:
 #   - No creating new branches (main ONLY).
 #   - No pull requests (commit + push straight to main).
+# Enabled/disabled by WORKFLOW_LAW in .claude/pipeline.conf (default: main-only).
 # Blocks the offending tool call by exiting 2 with an explanation on stderr,
 # which Claude Code feeds back to the model instead of running the command.
 # Reads the tool-call JSON on stdin.
 # ============================================================================
 set -euo pipefail
 INPUT="$(cat)"
+
+# Repo config decides whether the law is enforced at all. A fork that wants a normal
+# branch/PR workflow sets WORKFLOW_LAW="off" in .claude/pipeline.conf.
+WORKFLOW_LAW="main-only"
+CONF="${CLAUDE_PROJECT_DIR:-$PWD}/.claude/pipeline.conf"
+if [ -f "$CONF" ]; then
+  # shellcheck disable=SC1090
+  source "$CONF"
+fi
+[ "$WORKFLOW_LAW" = "main-only" ] || exit 0
 
 block () {
   echo "⚖️ WORKFLOW LAW (Books repo): $1 We work ONLY on main — no new branches, no PRs. Commit and push straight to main." >&2

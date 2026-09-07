@@ -10,10 +10,14 @@
 # Auth: reads GEMINI_API_KEY. Looks for it in the environment, else sources
 # ~/.gemini_env (mode 600, kept OUTSIDE the repo so it is never committed).
 #
+# The editor persona and the book briefing are DERIVED from the book the chapter
+# lives in (tools/review_context.py reads the nearest STATE.yaml, or a hand-written
+# <book>/review-context.md). Override with REVIEW_CONTEXT="..." for a one-off.
+#
 # Usage:
 #   bash tools/gemini_review.sh <chapter.md> [extra focus notes...]
 # Example:
-#   bash tools/gemini_review.sh book/genesis/saeren-chronicles-book-2/manuscript/chapters/chapter-18.md
+#   bash tools/gemini_review.sh books/the-gift/manuscript/chapters/chapter-18.md
 set -euo pipefail
 
 CHAPTER="${1:?usage: gemini_review.sh <chapter.md> [focus notes]}"
@@ -32,17 +36,25 @@ export GEMINI_CLI_TRUST_WORKSPACE=true
 
 PROMPT_FILE=$(mktemp)
 trap 'rm -f "$PROMPT_FILE"' EXIT
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# A context-helper failure must never kill the review — fall back to a generic brief.
+PERSONA="$(python3 "$SCRIPT_DIR/review_context.py" "$CHAPTER" --what persona 2>/dev/null || true)"
+CONTEXT="$(python3 "$SCRIPT_DIR/review_context.py" "$CHAPTER" --what context 2>/dev/null || true)"
+[ -n "$PERSONA" ] || PERSONA="You are a veteran acquiring editor of commercial fiction. You are giving a candid, specific SECOND OPINION on a single chapter of a draft novel, independent of the author's own pipeline. Flattery is worthless."
+[ -n "$CONTEXT" ] || CONTEXT="(No book metadata found; judge the chapter on its own terms.)"
+
 {
-  echo "You are a veteran editor of upper/mature YA epic fantasy (think the editors of An Ember in the Ashes, Shadow and Bone, The Winner's Curse). You are giving a SECOND OPINION on a single chapter of a draft novel — independent of the author's own pipeline. Be candid, specific, and useful; flattery is worthless."
+  echo "$PERSONA"
   echo
-  echo "Series context: 'The Saeren Chronicles', Book Two ('The Resistance'). Protagonist Viridia: silver-blonde, green eyes, grief held strictly inward, an analytical 'cold working part' that files everything. Register is upper-mature YA — violence is consequence not spectacle, hope/connection kept load-bearing between dark beats."
+  echo "Book context:"
+  echo "$CONTEXT"
   echo
   echo "Critique THIS CHAPTER on, in order of importance:"
   echo "1. What is genuinely NOT WORKING (the most important section — be blunt, rank the problems)."
   echo "2. Prose & VOICE: sentence rhythm, over-writing/over-narration, any line that rings false or purple."
   echo "3. PACING & tension: where it drags, where it rushes, whether the chapter earns its length."
   echo "4. EMOTIONAL truth: does the feeling land or is it asserted; is restraint maintained or undercut."
-  echo "5. YA TONE: anything that tips toward adult grimdark or, conversely, deflates the stakes."
+  echo "5. REGISTER: does it hold the tone/age-band the book context above describes, or drift out of it."
   echo "6. Anything that reads as AI-generated / formulaic, and any continuity or logic snags you notice."
   echo "End with the 3 highest-leverage fixes, concrete. Do NOT rewrite the chapter. Respond in prose/markdown only; do not attempt to use any tools or read any files."
   [ -n "$FOCUS" ] && { echo; echo "ALSO specifically address: $FOCUS"; }

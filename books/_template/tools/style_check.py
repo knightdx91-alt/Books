@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Saeren Chronicles — cross-manuscript style checker.
+Cross-manuscript style checker (per-book copy — edit ALLOWLIST for THIS book).
 
 Catches the three things the per-chapter agents can miss across the whole book:
   1. VERBAL TICS         — overused filler/crutch words (just, suddenly, seemed, somehow...)

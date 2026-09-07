@@ -2,6 +2,15 @@
 
 Guidance for Claude Code working in this repository. **Read this first, every session.**
 
+> **Reference docs live in `docs/`** — [PIPELINE.md](docs/PIPELINE.md) (agents, phases, files),
+> [CHARACTER-BIBLE.md](docs/CHARACTER-BIBLE.md) (cast voice + tic budget),
+> [SERIES.md](docs/SERIES.md) (series canon carry-over),
+> [QUALITY-GATES.md](docs/QUALITY-GATES.md) (scores, gates, checkers),
+> [PUBLISHING.md](docs/PUBLISHING.md) (print/ebook/IngramSpark),
+> [WORKFLOW-AND-HOOKS.md](docs/WORKFLOW-AND-HOOKS.md), [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md),
+> [GLOSSARY.md](docs/GLOSSARY.md). This file stays the session-start briefing; the docs are the detail.
+> Keep both current — a doc that lags the pipeline is worse than no doc.
+
 ## What this repo is
 
 **One repo for all books.** The shared writing pipeline lives at the repo root; each
@@ -10,10 +19,13 @@ and every book uses it — no per-book duplication.
 
 ```
 /                       ← repo root
-├── .claude/            ← the pipeline: 12 book-* agents, /gemini + /grok commands, hooks
-├── tools/              ← shared tools: apodictic (structural editor), gemini/grok review scripts
+├── .claude/            ← the pipeline: 12 book-* agents, /gemini + /grok commands, hooks, pipeline.conf
+├── docs/               ← the reference documentation (see above)
+├── tools/              ← shared tools: apodictic (structural editor), gemini/grok review scripts,
+│                          new-book.sh / new-series.sh, review_context.py, build + collect scripts
 ├── books/
 │   ├── _template/      ← scaffold a new book copies from (NOT a book)
+│   ├── _series-template/ ← scaffold a new SERIES copies from (NOT a series)
 │   ├── the-gift/       ← a single book
 │   ├── saeren/         ← a SERIES folder (multiple book subfolders + shared tooling)
 │   │   ├── saeren-chronicles/            (book 1)
@@ -34,6 +46,10 @@ is when the author (Terry) explicitly says otherwise for a task.
 
 Git identity: `git config user.email noreply@anthropic.com && git config user.name Claude`
 
+(The law is enforced by hooks that read `WORKFLOW_LAW` in `.claude/pipeline.conf`. It is set
+to `main-only` here and stays that way — the switch exists so a FORK of this repo can choose a
+branch/PR workflow, not as an option to exercise in this repo.)
+
 **This is enforced, not just documented:**
 - The **SessionStart** hook (`.claude/hooks/session-start.sh`) detects a session that
   starts on any non-`main` branch, switches to `main` (carrying uncommitted work across
@@ -51,8 +67,13 @@ Git identity: `git config user.email noreply@anthropic.com && git config user.na
 3. Run the pipeline agents/commands against **paths inside that book folder**. The
    pipeline itself is shared from the root `.claude/` + `tools/` — you never copy it in.
 4. A book folder typically holds: `STATE.yaml`, `foundation.md`, `outline.md`,
-   `voice-dna.md`, `research/`, `manuscript/chapters/`, `evaluations/`, `feedback/`,
-   `delivery/`, and a per-book `tools/style_check.py` (its ALLOWLIST is book-specific).
+   `voice-dna.md`, `character-bible.md`, `ENTITY_STATE.yaml`, `research/`,
+   `manuscript/chapters/`, `evaluations/`, `feedback/`, `delivery/`, and a per-book
+   `tools/style_check.py` (its ALLOWLIST is book-specific).
+5. **`character-bible.md` is a required architect deliverable, and the Writer keeps it
+   current** — a new named character gets an entry the moment they appear, and the TIC
+   BUDGET (≤2–3 tic-bearers per book, no shared devices) is a hard ceiling. See
+   [docs/CHARACTER-BIBLE.md](docs/CHARACTER-BIBLE.md).
 
 ## Finished books — `completed-books/`
 
@@ -80,8 +101,14 @@ Run: `bash tools/new-book.sh <slug> "<Book Title>"`
 → creates `books/<slug>/` from `books/_template/`, ready for source material + the
 architect pass. (No new repo, no GitHub step — it's just a folder in this repo.)
 
-For a new book **inside an existing series**, create the subfolder under that series
-folder and copy `books/_template/` into it.
+For a new book **inside an existing series**:
+```
+bash tools/new-book.sh <book-slug> "<Book Title>" --series <series-slug> --position N
+```
+→ creates `books/<series-slug>/<book-slug>/` and fills in its `STATE.yaml` `series:` block
+(bible + previous book) so canon carries forward. A brand-new series starts with
+`bash tools/new-series.sh <series-slug> "<Series Name>"`. Then run the carry-over checklist
+at the bottom of the series bible — see [docs/SERIES.md](docs/SERIES.md).
 
 ## 🔧 Pipeline is shared — improvements flow to the root (THE UPDATE RULE)
 
@@ -113,3 +140,9 @@ installs build deps (reportlab/ghostscript/language-tool) and defaults sub-agent
 Because the pipeline now lives in THIS repo's root `.claude/`, Claude Code loads it
 directly — no cloning a separate pipeline repo. Update the script only if the install
 mechanism changes; update the root `.claude/`/`tools/` for everything else.
+
+`.claude/hooks/session-start.sh` installs the 12 agents into `~/.claude/agents` **from this
+repo's own `.claude/agents/`** (`AGENT_SOURCE=repo` in `.claude/pipeline.conf`) — the repo
+copies are the source of truth and carry every UPDATE-RULE improvement. Remember that in web
+sessions only agents COMMITTED to `.claude/agents/` are dispatchable by name, and an edited
+agent therefore takes effect NEXT session.

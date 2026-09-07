@@ -1,6 +1,6 @@
 # Books — project status & consolidation log
 
-_Last updated: 2026-07-13._
+_Last updated: 2026-09-07._
 
 This repo is the consolidated home for all books + the shared writing pipeline. This file
 records what's here, decisions made, and the manual steps still outstanding.
@@ -86,6 +86,52 @@ Delete via the GitHub website (repo → Branches → trash icon) or a local term
   (e.g. anchor-of-the-damned heat level + harem roster; greater-demon-vs-Demon-Lord; sygl friction).
 - **Check:** LotG README calls `son-of-none` "Drafted ~26k words" but its `manuscript/chapters/`
   is empty — locate that draft before treating it as adaptation vs from-scratch.
+
+## Session log — 2026-09-07 (make the pipeline usable by other people)
+
+**Goal:** turn this from "Terry's repo that happens to contain a pipeline" into something a
+stranger can fork and run — without weakening anything we settled.
+
+- **New `docs/` suite** (9 documents + index): GETTING-STARTED, PIPELINE (12 agents, phases,
+  every file), CHARACTER-BIBLE (four axes, tic budget, the Amelia Lesson, retrofitting onto an
+  existing draft), SERIES (series bible, canon carry-over checklist), QUALITY-GATES (Genesis
+  Score, CVI, the 20-pattern scan, motif cap, mechanical checkers, second opinions, APODICTIC),
+  PUBLISHING (the IngramSpark specs + every rejection we ate), WORKFLOW-AND-HOOKS,
+  TROUBLESHOOTING, GLOSSARY. Root README rewritten as the front door; CLAUDE.md points into docs.
+- **Series support made real, not just convention:** `tools/new-series.sh`,
+  `books/_series-template/` (SERIES-BIBLE.md + README), and `tools/new-book.sh --series <slug>
+  --position N`, which writes the `series:` block into STATE.yaml and auto-links the previous
+  book. The orchestrator now tells the architect to read the series bible + previous book's
+  character bible for a series entry.
+- **Character bible wired into the pipeline properly.** It was a required architect deliverable
+  in `book-architect` §3b but the orchestrator never asked for it or verified it. Now it does:
+  produced in the voice dispatch, verified after, read by the writer (with the tic budget called
+  out as a hard ceiling) and by dialogue-polish. Added `character_bible:` to the STATE schema.
+- **Fork blockers fixed:** orchestrator wrote books to `~/Desktop/livros/{slug}/` (upstream
+  leftover) → now `books/<slug>/`; template CLAUDE.md still told sessions to clone Best Seller
+  Studio and use `book/genesis/<slug>/` → rewritten for the monorepo; template STATE.yaml
+  decisions line and the Saeren-named gate docstrings generalized.
+- **Second-opinion scripts generalized.** `gemini_review.sh`/`grok_review.sh` hardcoded Saeren
+  Book Two's series context and a YA-fantasy editor persona, so every other book got reviewed
+  against the wrong book. New `tools/review_context.py` derives the persona and briefing from
+  the book's own STATE.yaml (title, genre, premise, comps, series position, settled guardrails),
+  overridable via `<book>/review-context.md` or `$REVIEW_CONTEXT`.
+- **`.claude/pipeline.conf` added.** `WORKFLOW_LAW` (main-only | off) is now read by BOTH hooks,
+  so a fork can choose branches/PRs; this repo stays `main-only`. Also `AGENT_SOURCE`,
+  `PIPELINE_MODEL`, `PIPELINE_MAXTURNS`.
+- **SessionStart hook made self-contained.** It now installs the 12 agents from THIS repo's
+  `.claude/agents/` instead of always refetching the upstream tarball — which had been
+  overwriting our improved agents in `~/.claude/agents` every session. Upstream fetch is kept as
+  an opt-in (`AGENT_SOURCE=upstream`) and as the fallback if repo agents are ever missing.
+
+Verified: both hook paths (law on → blocks, law off → passes), the SessionStart hook end-to-end
+(installs 12 agents, leaves the tree clean), series scaffolding for books 1/2/3 including
+previous-book auto-detection and valid YAML, and the derived review context on a real book.
+
+**Not done (author's call):** no LICENSE file at the repo root. The pipeline is forkable but the
+manuscripts under `books/` are copyrighted work — the README says so explicitly and tells a
+forker to delete the book folders. Add a license covering `.claude/`, `tools/` and `docs/` only
+if you want to make the pipeline's terms explicit.
 
 ## Outstanding manual steps (owner: Terry)
 

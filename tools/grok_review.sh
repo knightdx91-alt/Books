@@ -24,9 +24,22 @@ if [ -z "${XAI_API_KEY:-}" ] && [ -f "$HOME/.grok_env" ]; then
 fi
 [ -n "${XAI_API_KEY:-}" ] || { echo "XAI_API_KEY not set (add it to the environment or ~/.grok_env)." >&2; exit 1; }
 
-SYS="You are a veteran editor of upper/mature YA epic fantasy (think the editors of An Ember in the Ashes, Shadow and Bone, The Winner's Curse). You give a candid, specific SECOND OPINION on a single chapter of a draft novel, independent of the author's own pipeline. Flattery is worthless. Series: 'The Saeren Chronicles', Book Two. Protagonist Viridia: silver-blonde, grief held strictly inward, an analytical 'cold working part' that files everything. Register: upper-mature YA — violence is consequence not spectacle, hope/connection kept load-bearing."
+# Editor persona + book briefing are derived from the book this chapter lives in
+# (nearest STATE.yaml, or a hand-written <book>/review-context.md). Override for a
+# one-off with REVIEW_CONTEXT="...".
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# A context-helper failure must never kill the review — fall back to a generic brief.
+PERSONA="$(python3 "$SCRIPT_DIR/review_context.py" "$CHAPTER" --what persona 2>/dev/null || true)"
+CONTEXT="$(python3 "$SCRIPT_DIR/review_context.py" "$CHAPTER" --what context 2>/dev/null || true)"
+[ -n "$PERSONA" ] || PERSONA="You are a veteran acquiring editor of commercial fiction. You are giving a candid, specific SECOND OPINION on a single chapter of a draft novel, independent of the author's own pipeline. Flattery is worthless."
+[ -n "$CONTEXT" ] || CONTEXT="(No book metadata found; judge the chapter on its own terms.)"
 
-INSTR="Critique THIS CHAPTER, in order: 1) what is genuinely NOT WORKING (rank it, be blunt); 2) prose & VOICE (rhythm, over-writing, false/purple lines); 3) PACING & tension (drags/rushes; does it earn its length); 4) EMOTIONAL truth (landed vs asserted; restraint kept or undercut); 5) YA TONE (drift to adult grimdark, or deflated stakes); 6) anything formulaic/AI-sounding + continuity snags. End with the 3 highest-leverage fixes, concrete. Do NOT rewrite the chapter. Prose/markdown only."
+SYS="$PERSONA
+
+Book context:
+$CONTEXT"
+
+INSTR="Critique THIS CHAPTER, in order: 1) what is genuinely NOT WORKING (rank it, be blunt); 2) prose & VOICE (rhythm, over-writing, false/purple lines); 3) PACING & tension (drags/rushes; does it earn its length); 4) EMOTIONAL truth (landed vs asserted; restraint kept or undercut); 5) REGISTER (does it hold the tone/age-band the book context describes, or drift out of it); 6) anything formulaic/AI-sounding + continuity snags. End with the 3 highest-leverage fixes, concrete. Do NOT rewrite the chapter. Prose/markdown only."
 [ -n "$FOCUS" ] && INSTR="$INSTR Also specifically address: $FOCUS"
 
 CHAP_TEXT=$(cat "$CHAPTER")
