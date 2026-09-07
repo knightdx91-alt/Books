@@ -8,9 +8,10 @@ chapter; a full book is days-to-weeks of sessions, not one sitting.
 - **Claude Code** — the CLI, the desktop app, or [claude.ai/code](https://claude.ai/code)
   on the web. The pipeline runs in all three; the web version is what this repo's hooks
   are tuned for.
-- **Python 3** with `pyyaml` (for the tools), plus `reportlab` + `pillow` and
-  **Ghostscript** if you intend to build print PDFs. The SessionStart hook installs these
-  in a fresh web container automatically.
+- **Python 3.** `bash tools/install.sh` installs everything from `requirements.txt`
+  (pyyaml for the tools; reportlab/pillow for print builds). **Ghostscript** is the one
+  non-pip dependency, and only for IngramSpark print files. On the web, the SessionStart
+  hook handles all of it.
 - Optional: a **Gemini** and/or **xAI** API key for cross-model second opinions.
 - Nothing else. There is no service to sign up for, no vector database, no local model.
 
@@ -18,7 +19,13 @@ chapter; a full book is days-to-weeks of sessions, not one sitting.
 
 ```bash
 git clone <your fork> Books && cd Books
+bash tools/install.sh     # Python deps + the 12 agents into ~/.claude/agents
+bash tools/doctor.sh      # verify: tells you exactly what's missing, if anything
 ```
+
+`install.sh` is the local equivalent of the web SessionStart hook (which only runs in the
+remote environment). Re-run it after pulling pipeline changes. `doctor.sh` is safe to run
+any time and also audits your book folders.
 
 Open **`.claude/pipeline.conf`** and make two decisions:
 
@@ -39,10 +46,13 @@ books. Delete the ones that aren't yours, keep `books/_template/` and
 
 ### If you use Claude Code on the web
 
-Paste `setup-script.sh` into your environment's setup-script field. It runs at session
-start and installs the build toolchain. The 12 agents come from the repo itself
-(`.claude/agents/`), which is also the **only** place they can be dispatched by name from
-— the agent registry is built from the clone before hooks run.
+Paste `setup-script.sh` into your environment's setup-script field. It installs the build
+toolchain before the session starts; `.claude/hooks/session-start.sh` (already in the repo)
+does the rest. You don't need `tools/install.sh` there.
+
+The 12 agents come from the repo itself (`.claude/agents/`), which is also the **only**
+place they can be dispatched by name from — the agent registry is built from the clone
+before hooks run.
 
 ## 3. Scaffold a book
 
@@ -51,8 +61,9 @@ bash tools/new-book.sh the-glass-road "The Glass Road"
 ```
 
 That creates `books/the-glass-road/` from the template: `STATE.yaml`, `CLAUDE.md`,
-`character-bible.md`, the standard folders, and this book's own copies of
-`style_check.py` / `grammar_check.py`.
+`character-bible.md`, `delivery/ebook.yaml`, the standard folders, and this book's own
+copies of the three mechanical gates (`style_check.py`, `grammar_check.py`,
+`voice_wear_check.py`).
 
 For a series, create the series first — see [SERIES.md](SERIES.md):
 
@@ -143,8 +154,14 @@ Run book-packager on books/the-glass-road
 ```
 
 Editorial package (logline, synopsis, query letter, cover brief) plus production files.
-For print and ebook builds and the IngramSpark upload path, see
-[PUBLISHING.md](PUBLISHING.md).
+Then build the ebook:
+
+```bash
+# fill in books/the-glass-road/delivery/ebook.yaml (title, author, ebook ISBN, cover)
+python3 tools/make_epub.py books/the-glass-road
+```
+
+For print builds and the IngramSpark upload path, see [PUBLISHING.md](PUBLISHING.md).
 
 ## Where the time actually goes
 

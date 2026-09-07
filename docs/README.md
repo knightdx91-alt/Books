@@ -22,12 +22,15 @@ A book is a **folder** under `books/`. The **pipeline is shared** — one copy a
 root in `.claude/` and `tools/`, used by every book, improved in one place.
 
 ```
+bash tools/install.sh                        # deps + agents (local; the web hook does this)
+bash tools/doctor.sh                         # verify the checkout is ready
 bash tools/new-book.sh my-book "My Book"     # scaffold
 # stage source material in books/my-book/research/, fill STATE.yaml
 # then, in Claude Code:
 #   "Run the book-architect on books/my-book"
 #   "Write chapter 1 of books/my-book"  → the chapter loop
 python3 books/my-book/tools/style_check.py   # the mechanical gate
+python3 tools/make_epub.py books/my-book     # the ebook
 ```
 
 Three ideas carry most of the value, and they are worth understanding before you run

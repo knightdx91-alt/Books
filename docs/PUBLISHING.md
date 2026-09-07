@@ -33,16 +33,40 @@ bash tools/make_noicc.sh cmyk delivery/cover/WRAP-r7-fullbleed-rgb.pdf WRAP-r7-C
 Needs Ghostscript. Verify a finished PDF is clean by confirming `OutputIntent` and
 `/ICCBased` are both absent.
 
-EPUB ISBN swap (when reusing a build for a new identifier): unzip, replace the ISBN in
-`OEBPS/content.opf` (`dc:identifier`), `OEBPS/toc.ncx` (`dtb:uid`) and
-`OEBPS/copyright.xhtml`, then rezip with **mimetype stored first**:
+### The EPUB
+
+```bash
+python3 tools/make_epub.py books/<slug>
+```
+
+Config lives in `books/<slug>/delivery/ebook.yaml` (new books get an annotated copy;
+otherwise start from `books/_template/delivery/ebook.yaml`). Required: `full_title`,
+`author`, `isbn` + `isbn_hyphen`, `cover`. Everything else falls back to `STATE.yaml` or is
+optional — subtitle, series title, publisher, year, dedication, bio, acknowledgments, author
+photo, and an "Also by" page. All paths are relative to the book folder, so a book folder
+stays portable.
+
+Input is an assembled single-file manuscript using `CHAPTER ONE` headings — what the
+per-book `assemble_manuscript.py` produces. If `manuscript` isn't set, the newest
+`manuscript/full-manuscript*.md` is used, or the one matching a `REVISION` file.
+
+**The `isbn` must be the EBOOK ISBN**, not the print one: it becomes the EPUB's package
+identifier, which is what retailers read.
+
+The output is EPUB3 with an EPUB2 NCX fallback, mimetype stored first and uncompressed, and
+a working `nav.xhtml` + `toc.ncx`.
+
+EPUB ISBN swap (when reusing an existing build for a new identifier, rather than rebuilding):
+unzip, replace the ISBN in `OEBPS/content.opf` (`dc:identifier`), `OEBPS/toc.ncx`
+(`dtb:uid`) and `OEBPS/copyright.xhtml`, then rezip with **mimetype stored first**:
 
 ```bash
 zip -X -q0 OUT.epub mimetype && zip -X -qrg OUT.epub . -x mimetype
 ```
 
-Per-book `make_epub.py`, `build_pdf.py` and `assemble_manuscript.py` live in each book's
-folder (or at the series level) because front matter, trim and typography differ per title.
+`build_pdf.py` and `assemble_manuscript.py` stay per-book, because trim size, front matter
+and typography differ per title. `books/saeren/make_epub.py` is a series-specific builder
+kept for that trilogy's locked front matter; it produces a structurally identical EPUB.
 
 ## The gotchas, in the order they bit
 

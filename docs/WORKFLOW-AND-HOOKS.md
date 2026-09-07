@@ -89,12 +89,28 @@ The practical consequences:
 - If you must run a modified agent in the current session, run a general-purpose agent and
   have it read the agent file and follow it directly.
 
-## `setup-script.sh`
+## `setup-script.sh` and `tools/install.sh`
 
-The environment-level installer for Claude Code on the web: paste it into the environment's
-setup-script field. It does the same dependency installs so a fresh container is ready
-before the session begins. Update it only when the *install mechanism* changes; everything
-about how the pipeline behaves belongs in the root `.claude/` and `tools/`.
+**`setup-script.sh`** is the environment-level installer for Claude Code on the web: paste
+it into the environment's setup-script field. It runs before the session starts and installs
+the Python dependencies plus Ghostscript. It deliberately does **not** install the agents —
+those load from the repo clone, which is the only place they can be dispatched by name from.
+
+It also ships with no personal content in it. It runs for every repo in your environment, so
+it's a convenient place to install your own account-wide `~/.claude/CLAUDE.md`; there's a
+commented placeholder at the bottom for exactly that. What goes in it is yours — a repo that
+installs its author's standing instructions into everyone else's account is a bug, not a
+feature.
+
+**`tools/install.sh`** is the local equivalent, since the SessionStart hook only runs in the
+remote environment. It installs `requirements.txt`, checks for Ghostscript, and copies the
+agents into `~/.claude/agents` with `maxTurns` normalized. Re-run it after pulling pipeline
+changes.
+
+**`tools/doctor.sh`** verifies the result — dependencies, agents in both locations, hook
+syntax, config, tools, templates, API keys, and each book's `STATE.yaml` (placeholder
+fields, missing character bible, a series block pointing at a bible that doesn't exist). It
+exits non-zero if anything required is missing, so it also works as a CI check.
 
 ## Git identity
 

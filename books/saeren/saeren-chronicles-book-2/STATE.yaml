@@ -22,10 +22,10 @@ adaptation:
     series_roadmap:    "research/series-roadmap.md"        # Book Two section is binding (premise, 3 levels of conflict, ending, additions needed)
     character_bible:   "research/character-bible.md"       # character canon (binding)
     master_checklist:  "research/master-checklist.md"      # Book Two high-level tasks
-    book1_entity_state:"research/book1-entity-state.yaml"  # canonical state at end of Book One — seed ENTITY_STATE.yaml from this
+    book1_entity_state: "research/book1-entity-state.yaml"  # canonical state at end of Book One — seed ENTITY_STATE.yaml from this
     book1_voice_dna:   "research/book1-voice-dna.md"       # match Book One voice
     book1_foundation:  "research/book1-foundation.md"
-    book1_final_chapter:"research/book1-final-chapter-18.md" # continuity anchor — Book Two opens right after
+    book1_final_chapter: "research/book1-final-chapter-18.md" # continuity anchor — Book Two opens right after
   opens_where: "Resistance camp, immediately after Book One's ending (Viridia just arrived; Jazen revealed as Lightwell's son)."
 
 # NOTE: There is NO scene-by-scene Book Two roadmap yet. The architect must BUILD

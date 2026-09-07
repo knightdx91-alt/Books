@@ -2,6 +2,9 @@
 
 The failures you will actually hit, and what they mean.
 
+**Start here:** `bash tools/doctor.sh` checks the environment, the pipeline files and every
+book folder, and names what's missing. `bash tools/doctor.sh books/<slug>` checks one book.
+
 ## Agents
 
 **"Cannot resolve subagent_type" / the agent isn't found.**
@@ -72,9 +75,9 @@ uses per book. If you genuinely need more for one load-bearing image, use
 not a configuration problem.
 
 **Every chapter trips the same tic words.**
-That's voice wear. Copy `voice_wear_check.py` from a book that has it, and check the
-retired/at-risk list in `character-bible.md`. See the Amelia Lesson in
-[CHARACTER-BIBLE.md](CHARACTER-BIBLE.md).
+That's voice wear. Run `python3 books/<slug>/tools/voice_wear_check.py` (shipped with every
+new book) and check the retired/at-risk list in `character-bible.md`. See the Amelia Lesson
+in [CHARACTER-BIBLE.md](CHARACTER-BIBLE.md).
 
 **grammar_check.py --languagetool is slow or fails.**
 Tier 2 needs Java and a ~250MB engine that downloads on first use. Tier 1 gates without it
@@ -93,7 +96,8 @@ at console.x.ai.
 
 **A key isn't found.**
 `GEMINI_API_KEY` / `XAI_API_KEY` from the environment, or `~/.gemini_env` / `~/.grok_env`
-(mode 600, outside the repo). Never commit them.
+(mode 600, outside the repo). Never commit them — `.gitignore` covers the usual filenames,
+but the safe location is outside the repo entirely.
 
 **The review reads as though it's for a different book.**
 Check what `tools/review_context.py` derives: `python3 tools/review_context.py <chapter>`.
@@ -125,7 +129,9 @@ stale clones — deletes still succeed while writes fail.
 
 **Ghostscript missing / `build_pdf.py` won't run.**
 The SessionStart hook installs `reportlab`, `pillow` and Ghostscript, but only in the
-remote environment. Locally: `pip install reportlab pillow` and install Ghostscript.
+remote environment. Locally run `bash tools/install.sh`, then install Ghostscript itself
+(`apt-get install ghostscript` / `brew install ghostscript`) — it isn't pip-installable.
+`bash tools/doctor.sh` tells you which of these are missing.
 
 ## Publishing
 
@@ -144,6 +150,15 @@ unaffected. Use the RGB build from `delivery/` if you need extractable text.
 **The eBook format blocks submission while I'm on the print tab.**
 "Preview my book" validates all formats. Fill in the eBook format (EPUB — a PDF is
 rejected there) before previewing.
+
+**`make_epub.py` says "missing required config".**
+The book has no `delivery/ebook.yaml`, or it lacks a required key (title, author, ebook
+ISBN, cover). Start from `books/_template/delivery/ebook.yaml`; new books get a copy
+automatically. Paths in it are relative to the book folder.
+
+**The EPUB built but has 0 chapters.**
+The assembled manuscript isn't using `CHAPTER ONE` headings — that's the format
+`assemble_manuscript.py` produces and what the parser looks for.
 
 **`collect_completed.py --check` exits 1.**
 `completed-books/` is stale against the current builds. Re-run without `--check`. Never

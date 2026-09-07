@@ -1,0 +1,28 @@
+# Book One: Hazel Academy — config for `python3 tools/make_epub.py`.
+# Paths are relative to this book folder. Replaces the old hardcoded config that
+# lived inside a copied make_epub.py.
+full_title: "The Saeren Chronicles — Book One: Hazel Academy"
+series_title: "The Saeren Chronicles"
+subtitle: "Book One: Hazel Academy"
+author: "Post Peleos"
+publisher: "Post Peleos"
+year: 2026
+isbn: "9798240990441"
+isbn_hyphen: "979-8-2409-9044-1"
+cover: "delivery/cover/ebook-cover-book1-hazel-academy.jpg"
+out: "delivery/ebook/Saeren-Chronicles-Book-One-Hazel-Academy.epub"
+photo: "../../_assets/author-photo.jpg"
+desc: "A quiet, lyrical YA fantasy about grief, found family, and a girl who refuses to be made small."
+dedication: "For my daughter Raelynn &#8212;<br/>may she have all the happiness she deserves."
+ack: "To my parents, for always believing in me."
+bio: "Post Peleos writes character-driven fantasy about quiet people in loud worlds &#8212; stories that love to tease as much as they wound, and never quite stop wondering what waits out beyond the stars. <em>The Saeren Chronicles</em> is his debut series."
+also_by: |
+  <p class="first"><strong>THE SAEREN CHRONICLES</strong><br/>
+  <em>Book One: Hazel Academy</em><br/>
+  <em>Book Two: The Resistance</em><br/>
+  <em>Book Three: The Weight of the Source</em></p>
+  <p>Writing adult fantasy romance as <strong>S&#248;ren Stromberg</strong>:</p>
+  <p><em>A Bond of Scale and Silver</em></p>
+  <p>A standalone romantasy of dangerous devotion and the price of being seen.
+  Written for adult readers (18+) &#8212; not part of the Saeren Chronicles, and
+  not intended for the same shelf.</p>

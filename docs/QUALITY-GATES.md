@@ -148,10 +148,21 @@ python3 books/<slug>/tools/grammar_check.py --languagetool     # optional tier 2
 (optional, never gates): tense/agreement/dangling-modifier scan via LanguageTool — an
 assist, not an authority, because it is false-positive-prone on fiction dialogue.
 
-### Optional per-book checkers
+### `voice_wear_check.py`
 
-Books that needed them grew them; copy any into a new book that has the same problem:
-`voice_wear_check.py` (motif calcification — the Amelia Lesson early-warning),
+```bash
+python3 books/<slug>/tools/voice_wear_check.py
+```
+
+Shipped with every new book. The Amelia Lesson made mechanical: three layers —
+book-wide **retired phrases** (a hard gate; seeded with "never once"), **auto-detected
+self-repetition per POV** (no configuration; it finds phrases a POV repeats across its own
+chapters), and optional **named-device caps** per character. Multi-POV books get a
+`feedback/pov-map.txt` (`chapter-N: Name` per line); single-POV books can skip it.
+
+### Other per-book checkers
+
+Books that needed them grew them; copy any into a book with the same problem:
 `rhythm_check.py`, `tic_report.py`, `show_tell_check.py`, `metaphor_check.py`.
 
 ### The word floor
@@ -206,6 +217,7 @@ polishes chapters, and no amount of chapter polish fixes a spine.
 # per chapter, after the agent loop
 python3 books/<slug>/tools/style_check.py
 python3 books/<slug>/tools/grammar_check.py
+python3 books/<slug>/tools/voice_wear_check.py   # whole-book; run periodically
 git add -A && git commit -m "finalize chapter N"
 
 # every 3-5 chapters

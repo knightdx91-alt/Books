@@ -21,8 +21,9 @@ and every book uses it — no per-book duplication.
 /                       ← repo root
 ├── .claude/            ← the pipeline: 12 book-* agents, /gemini + /grok commands, hooks, pipeline.conf
 ├── docs/               ← the reference documentation (see above)
-├── tools/              ← shared tools: apodictic (structural editor), gemini/grok review scripts,
-│                          new-book.sh / new-series.sh, review_context.py, build + collect scripts
+├── tools/              ← shared tools: install.sh + doctor.sh (setup & preflight), new-book.sh /
+│                          new-series.sh, make_epub.py, make_noicc.sh, collect_completed.py,
+│                          gemini/grok review scripts + review_context.py, apodictic
 ├── books/
 │   ├── _template/      ← scaffold a new book copies from (NOT a book)
 │   ├── _series-template/ ← scaffold a new SERIES copies from (NOT a series)
@@ -57,6 +58,14 @@ branch/PR workflow, not as an option to exercise in this repo.)
 - A **PreToolUse** guard (`.claude/hooks/enforce-main-law.sh`) blocks any command that
   creates a branch (`git checkout -b`, `git switch -c`, `git branch <name>`) or opens a PR
   (`gh pr create`, the `create_pull_request` MCP tool) before it can run.
+
+## Health check
+
+`bash tools/doctor.sh` verifies the environment, the pipeline files and every book folder
+(placeholder STATE fields, missing character bible, a series block pointing at a bible that
+does not exist, missing gates). Run it when something behaves oddly, and after pulling
+pipeline changes. `bash tools/install.sh` is the local setup (the SessionStart hook covers
+the web environment).
 
 ## Working on a book
 
@@ -99,7 +108,9 @@ own `delivery/` folder. IngramSpark takes the grayscale interior and the CMYK co
 
 Run: `bash tools/new-book.sh <slug> "<Book Title>"`
 → creates `books/<slug>/` from `books/_template/`, ready for source material + the
-architect pass. (No new repo, no GitHub step — it's just a folder in this repo.)
+architect pass. (No new repo, no GitHub step — it's just a folder in this repo.) The new
+folder ships with all three mechanical gates (`style_check.py`, `grammar_check.py`,
+`voice_wear_check.py`) and a `delivery/ebook.yaml` for `tools/make_epub.py`.
 
 For a new book **inside an existing series**:
 ```

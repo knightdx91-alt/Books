@@ -12,6 +12,8 @@ finished, formatted and upload-ready in `completed-books/`.
 
 ```bash
 git clone <this repo> Books && cd Books
+bash tools/install.sh      # Python deps + the 12 agents (the web hook does this for you)
+bash tools/doctor.sh       # verify — names anything missing
 bash tools/new-book.sh the-glass-road "The Glass Road"
 # fill in books/the-glass-road/STATE.yaml (premise, genre, comps, word floor)
 ```
@@ -42,8 +44,10 @@ Full walkthrough: **[docs/GETTING-STARTED.md](docs/GETTING-STARTED.md)**.
 
 ```
 .claude/         the pipeline: 12 book-* agents, /gemini + /grok commands, hooks, pipeline.conf
-tools/           shared tools: apodictic (developmental editor), review + build scripts, scaffolding
+tools/           shared tools: install.sh, doctor.sh, new-book.sh, new-series.sh, make_epub.py,
+                 make_noicc.sh, collect_completed.py, review scripts, apodictic (dev editor)
 docs/            the documentation above
+requirements.txt Python dependencies (pip install -r requirements.txt)
 books/
   _template/     what a new book is scaffolded from
   _series-template/  what a new series is scaffolded from

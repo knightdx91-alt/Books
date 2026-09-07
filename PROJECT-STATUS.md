@@ -133,6 +133,48 @@ manuscripts under `books/` are copyrighted work — the README says so explicitl
 forker to delete the book folders. Add a license covering `.claude/`, `tools/` and `docs/` only
 if you want to make the pipeline's terms explicit.
 
+### Follow-up the same day — "plug and play" pass
+
+A second sweep for anything a fresh fork would trip over, beyond documentation.
+
+- **`setup-script.sh` was the worst blocker — rewritten.** It cloned the separate personal
+  `knightdx91-alt/book-pipeline` repo (which no forker can reach, and which contradicts this
+  repo's own "the pipeline lives here" model, installing stale agents over the good ones),
+  and it wrote a personal global `~/.claude/CLAUDE.md` — i.e. it installed the author's own
+  standing instructions into anyone else's account. It now installs only the toolchain, and
+  carries a commented placeholder for whatever you want your own global instructions to be.
+  ⚠️ **Terry: your environment's setup-script field still has the OLD version.** Paste the
+  new one in. If you want your global CLAUDE.md recreated in fresh containers, put it in the
+  commented block at the bottom of your own copy — it is no longer shipped in the repo.
+- **`tools/install.sh`** — local one-command setup (deps + agents). The SessionStart hook
+  only runs in the web environment, so a local clone previously got nothing.
+- **`tools/doctor.sh`** — preflight: deps, agents in both locations, hook syntax, config,
+  tools, templates, keys, and per-book STATE health. Exits non-zero on real problems, so it
+  doubles as a CI check. It immediately found a real bug: **saeren-chronicles-book-2's
+  STATE.yaml did not parse** (two `key:"value"` entries missing the space after the colon,
+  so `book1_entity_state` and `book1_final_chapter` were silently not keys at all) — fixed.
+- **`tools/make_epub.py`** — the EPUB builder was copy-pasted into 17 book folders; 16 of
+  them were byte-identical copies hardcoding Saeren metadata and dead absolute paths
+  (`/home/user/The-Saeren-Chronicles/...`), so running the one in e.g. `books/the-gift/`
+  would try to build Saeren Book One. Now one shared, config-driven tool
+  (`<book>/delivery/ebook.yaml`, falling back to STATE.yaml, paths relative to the book).
+  Verified against the shipped Saeren Book One EPUB: identical file set, spine length and
+  metadata. The 16 dead copies are removed (git history keeps them); `books/saeren/make_epub.py`
+  stays because the trilogy's production notes drive rebuilds through it.
+- **`requirements.txt` + `.gitignore`** — declared deps, and ignore rules for `__pycache__`,
+  key files and OS noise. Dropped two committed `.pyc` files.
+- **`voice_wear_check.py` now ships in `books/_template/tools/`** — the template's own
+  character-bible.md referenced it, but no new book got a copy. Genericized (it was already
+  book-agnostic in logic) and seeded by `new-book.sh`, along with `delivery/ebook.yaml`.
+
+Verified by building a clean fork from scratch (only `.claude/`, `docs/`, `tools/`, the two
+templates) and running install → doctor → new-book → new-series → doctor end to end, plus
+the doctor's failure paths (broken series-bible link exits 1).
+
+Still open, surfaced by the doctor and left as your call: 23 books have no
+`character-bible.md` (it needs an architect pass, not a file copy — docs/CHARACTER-BIBLE.md
+has a retrofit procedure), and 3 have no `word_floor.manuscript_min_words`.
+
 ## Outstanding manual steps (owner: Terry)
 
 1. **Delete old branches** on The-Saeren-Chronicles (15), Apathetic-Love (1), The-Manipulators (1)

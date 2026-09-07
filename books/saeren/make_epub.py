@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
-"""Generate a reflowable EPUB3 (with EPUB2 NCX fallback) from an assembled
+"""Saeren-specific EPUB builder (all three books, with their locked front matter).
+
+NOTE: for any OTHER book use the shared, config-driven `tools/make_epub.py`
+(`python3 tools/make_epub.py books/<slug>`, configured by `<book>/delivery/ebook.yaml`).
+This file is kept because the series' production notes drive book-1/2/3 rebuilds through
+it; the shared tool produces a structurally identical EPUB.
+
+Generate a reflowable EPUB3 (with EPUB2 NCX fallback) from an assembled
 full-manuscript markdown. Cover + title + copyright + dedication + chapters +
 back matter, with a navigable TOC. Pure stdlib (zipfile)."""
 import os, re, zipfile, html, uuid, sys
