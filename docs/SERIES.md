@@ -2,8 +2,8 @@
 
 The pipeline is book-shaped: agents work on one book folder at a time. A series works by
 **convention plus carry-over** — a shared bible above the books, and a deliberate handoff
-of canon when you start the next one. This is how `books/saeren/` (3 books) and
-`books/land-of-the-guardians/` (4 books) are built.
+of canon when you start the next one. This layout has carried a completed 3-book trilogy
+and a planned 4-book saga.
 
 ## Layout
 
@@ -126,9 +126,9 @@ decision, not an accident.
 
 - Front matter carries an **"Also by"** page listing the series in order; update it in
   every book when a new one ships.
-- Cover design should be visibly a set. `books/saeren/tools/` keeps a shared cover
-  compositor and wrap builder for exactly this reason — series-level tooling lives at the
-  series level rather than being copied into each book.
+- Cover design should be visibly a set. Keep a shared cover compositor and wrap builder in
+  the series folder's own `tools/` for exactly this reason — series-level tooling lives at
+  the series level rather than being copied into each book.
 - Each book gets its **own ISBNs** (print and ebook are separate ISBNs, per book).
 - Spine width differs per book (it's a function of page count), so it is computed per book
   even when the cover template is shared.

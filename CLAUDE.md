@@ -121,6 +121,29 @@ bash tools/new-book.sh <book-slug> "<Book Title>" --series <series-slug> --posit
 `bash tools/new-series.sh <series-slug> "<Series Name>"`. Then run the carry-over checklist
 at the bottom of the series bible — see [docs/SERIES.md](docs/SERIES.md).
 
+## Sharing the pipeline — `knightdx91-alt/Book-pipeline`
+
+The pipeline is **developed here**, alongside the books. A books-free copy of it is
+published separately at `knightdx91-alt/Book-pipeline` for other people to use — that repo
+holds `.claude/`, `docs/`, `tools/` and the two templates, and **no manuscripts**.
+
+Refresh it with:
+```
+git clone https://github.com/knightdx91-alt/book-pipeline /tmp/pipeline
+bash tools/export-pipeline.sh /tmp/pipeline
+cd /tmp/pipeline && bash tools/doctor.sh && git add -A && git commit && git push
+```
+
+`export-pipeline.sh` copies the pipeline, strips the personal book registry out of
+`collect_completed.py` (real ISBNs, pen names, paths), neutralizes book titles used as path
+examples, and **refuses to finish if it finds manuscripts or personal data** in the result.
+That guard is the point: it is what stops the shared copy from ever carrying a book.
+
+**This repo is the source.** Never edit the pipeline in the published repo directly — fix it
+here and re-export, or the two drift (which is exactly what happened to the old copy).
+Anything the export has to rewrite is a sign the source text should be generic in the first
+place; fix it here instead of teaching the exporter another substitution.
+
 ## 🔧 Pipeline is shared — improvements flow to the root (THE UPDATE RULE)
 
 The pipeline (the `book-*` agents, `/gemini` + `/grok`, APODICTIC) is edited in **one

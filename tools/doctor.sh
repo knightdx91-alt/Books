@@ -3,7 +3,7 @@
 # doctor.sh — preflight check for the Books pipeline.
 #
 #   bash tools/doctor.sh                 # check the environment + every book
-#   bash tools/doctor.sh books/the-gift  # check the environment + one book
+#   bash tools/doctor.sh books/your-book # check the environment + one book
 #
 # Tells you whether this checkout is ready to write a book, and what is missing
 # if it isn't. Exits non-zero if anything REQUIRED is missing (optional pieces

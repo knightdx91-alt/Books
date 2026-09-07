@@ -3,10 +3,10 @@
 review_context.py — build the book-specific context block that the cross-model
 second-opinion scripts (gemini_review.sh / grok_review.sh) prepend to a chapter.
 
-Why this exists: the review prompts used to hardcode one book's series context
-("The Saeren Chronicles, Book Two, protagonist Viridia..."), which quietly gave
-every other book the wrong editor and the wrong expectations. Now the context is
-DERIVED from the book the chapter lives in.
+Why this exists: the review prompts used to hardcode one specific book's series
+context and editor persona, which quietly gave every other book the wrong editor
+and the wrong expectations. Now the context is DERIVED from the book the chapter
+lives in.
 
 Resolution order (first hit wins):
   1. $REVIEW_CONTEXT            — explicit override in the environment.

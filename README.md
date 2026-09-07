@@ -79,6 +79,15 @@ its `STATE.yaml` is the source of truth for that book.
 - **It ends at a real book.** Grayscale no-ICC interiors, CMYK wraps with a real barcode,
   EPUBs with working navigation, and the spec gotchas already discovered the hard way.
 
+## Sharing the pipeline
+
+The pipeline is developed here and published books-free at
+[knightdx91-alt/Book-pipeline](https://github.com/knightdx91-alt/Book-pipeline) for others to
+use. Refresh that copy with `bash tools/export-pipeline.sh <clone-of-that-repo>` — it strips
+the personal book registry, neutralizes book-title examples, and refuses to finish if any
+manuscript or personal data would ship. This repo is the source; never edit the published
+copy directly.
+
 ## The update rule
 
 The pipeline is edited in **one place — the root `.claude/` + `tools/`** — so every book

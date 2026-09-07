@@ -98,6 +98,12 @@ def plan():
 
 
 def main(check=False):
+    if not BOOKS:
+        print("No books registered yet. Add an entry to the BOOKS list in this script")
+        print("(there is a commented example) once a book has its three upload files:")
+        print("  the grayscale no-ICC interior, the CMYK no-ICC cover wrap, and the EPUB.")
+        return 0
+    os.makedirs(OUT, exist_ok=True)
     missing, stale = [], []
     wanted = {}          # dir -> filenames that belong there
     p = plan()

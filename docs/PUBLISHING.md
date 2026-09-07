@@ -65,8 +65,8 @@ zip -X -q0 OUT.epub mimetype && zip -X -qrg OUT.epub . -x mimetype
 ```
 
 `build_pdf.py` and `assemble_manuscript.py` stay per-book, because trim size, front matter
-and typography differ per title. `books/saeren/make_epub.py` is a series-specific builder
-kept for that trilogy's locked front matter; it produces a structurally identical EPUB.
+and typography differ per title. A series with locked shared front matter can keep its own
+builder in the series folder; `tools/make_epub.py` covers everything else.
 
 ## The gotchas, in the order they bit
 
@@ -129,14 +129,16 @@ not characters, which matters the moment you use a curly quote or an em dash).
 
 ## Uploading from a locked-down device
 
-`books/saeren/INGRAMSPARK-UPLOAD-GUIDE.md` documents a full workaround for uploading when
-the local file picker doesn't work: an XFCE desktop and real Firefox running inside Google
-Cloud Shell, streamed to the browser, with the book files pulled straight from GitHub into
-that desktop's `~/Downloads`. Niche, but complete — including the "an error has occurred
-during the upload" troubleshooting path.
+If the machine you're on can't drive a file picker (a locked phone, a kiosk), the route
+that works is a full Linux desktop in **Google Cloud Shell** — XFCE plus real Firefox,
+streamed into the browser — with the book files pulled straight from your repo into that
+desktop's `~/Downloads`. The desktop's file picker works, and the device is just a screen.
 
-No access token is stored in that guide on purpose: GitHub's secret scanning auto-revokes
-any token committed to a repo. Mint a fresh one when you need it.
+Keep your own notes on this in the book folder once you've done it — including the "an error
+has occurred during the upload" path, which is the one that wastes an afternoon. One warning
+if you do: never commit a GitHub access token to those notes. Secret scanning auto-revokes
+any token pushed to a repo, so it would be dead within minutes anyway — mint a fresh one when
+you need it (about 30 seconds).
 
 ## Before you approve for sale
 

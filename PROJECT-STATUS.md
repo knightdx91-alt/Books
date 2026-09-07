@@ -175,6 +175,32 @@ Still open, surfaced by the doctor and left as your call: 23 books have no
 `character-bible.md` (it needs an architect pass, not a file copy — docs/CHARACTER-BIBLE.md
 has a retrofit procedure), and 3 have no `word_floor.manuscript_min_words`.
 
+### Pipeline split out for sharing — books stay here
+
+The pipeline is now published books-free at **`knightdx91-alt/Book-pipeline`** (which was a
+stale July snapshot of the same thing; it is current again). This repo is unchanged as the
+home of the books — nothing deleted, no history rewritten.
+
+- **`tools/export-pipeline.sh`** produces the distributable copy: `.claude/`, `docs/`,
+  `tools/`, and the two templates. It strips the BOOKS registry out of
+  `collect_completed.py` (real ISBNs, pen names, file paths), neutralizes book titles used
+  as path examples, and **exits non-zero if it finds any manuscript or personal data** in
+  the result. Verified idempotent — a re-run reproduces the published repo byte for byte.
+- The published repo got its own README and CLAUDE.md (written for a standalone pipeline),
+  the old `book/genesis/_template/` layout replaced by `books/_template/` +
+  `books/_series-template/`, and `new_book_repo.sh` dropped.
+- Three edits made while adapting it were **ported back here** so the export stays a pure
+  copy: generic wording in `docs/PUBLISHING.md` + `docs/SERIES.md` where they pointed into
+  book folders, and `collect_completed.py`'s empty-registry guard.
+
+⚠️ **Terry — two things only you can do:**
+1. **`knightdx91-alt/Books` is PUBLIC.** Every manuscript, ISBN, pen name, dedication and the
+   author photo are publicly readable. Switch it to private in GitHub → Settings → General →
+   Danger Zone → Change repository visibility. (Deleting files would not have fixed this —
+   git history keeps them readable regardless.)
+2. **Update your environment's setup-script field** with the new `setup-script.sh` (see the
+   note in the previous entry).
+
 ## Outstanding manual steps (owner: Terry)
 
 1. **Delete old branches** on The-Saeren-Chronicles (15), Apathetic-Love (1), The-Manipulators (1)
