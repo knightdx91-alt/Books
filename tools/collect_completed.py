@@ -20,6 +20,9 @@ each book's own delivery/ folder.
 """
 import hashlib, os, shutil, sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from check_upload_pdf import inspect as inspect_pdf   # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "completed-books")
 
@@ -97,6 +100,32 @@ def plan():
     return out
 
 
+def preflight(p):
+    """Every collected print PDF must be the upload copy, not the archival one.
+
+    The two are a filename apart, so the stale-check alone would happily bless a
+    PDF/X-1a wrap sitting under the right name. IngramSpark would not: an embedded
+    profile comes back as "PDF CONTAINS ICC COLOR PROFILES" after the upload, which
+    is a slow way to learn it. Read the colour space out of the bytes instead.
+    """
+    want = {"INTERIOR": "DeviceGray", "COVER": "DeviceCMYK"}
+    bad = []
+    for _, _, files in p:
+        for _, dst, label in files:
+            if label not in want or not os.path.exists(dst):
+                continue
+            profiles, spaces = inspect_pdf(dst)
+            rel = os.path.relpath(dst, ROOT)
+            if profiles:
+                bad.append(f"{rel}: carries {' + '.join(sorted(profiles))} "
+                           f"(this is the archival PDF/X-1a copy, not the upload copy)")
+            elif want[label] not in spaces:
+                bad.append(f"{rel}: colour space is "
+                           f"{'/'.join(sorted(spaces)) or 'undetermined'}, "
+                           f"expected {want[label]}")
+    return bad
+
+
 def main(check=False):
     if not BOOKS:
         print("No books registered yet. Add an entry to the BOOKS list in this script")
@@ -132,7 +161,13 @@ def main(check=False):
             print("STALE — completed-books/ does not match the current builds:")
             [print("  ", s) for s in stale]
             return 1
+        bad = preflight(p)
+        if bad:
+            print("NOT UPLOAD-SAFE — a print file here would be rejected on upload:")
+            [print("  ", b) for b in bad]
+            return 1
         print("completed-books/ is up to date with every book's current REVISION")
+        print("and every print file is profile-free in the right colour space")
         return 0
 
     # --- remove superseded revisions -----------------------------------------

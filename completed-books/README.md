@@ -33,6 +33,19 @@ These are the three files IngramSpark wants. The PDF/X-1a builds are archival /
 prepress copies and stay in each book's own `delivery/` folder — **do not upload
 those**; per the upload guide it takes the grayscale interior and the CMYK cover.
 
+Uploading a PDF/X-1a wrap by mistake is how you get **"PDF CONTAINS ICC COLOR
+PROFILES"** on the validation screen: the X-1a build carries an OutputIntent by
+design, and the two files differ only by a filename. If that warning appears, don't
+tick the authorize-anyway box — go Back and check what you actually sent:
+
+```
+python3 tools/check_upload_pdf.py cover    <file.pdf>
+python3 tools/check_upload_pdf.py interior <file.pdf>
+```
+
+Everything in this folder is verified profile-free on every
+`collect_completed.py --check`, so a file taken from here will pass.
+
 ## Getting them onto a machine that can upload
 
 ```
