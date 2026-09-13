@@ -11,7 +11,7 @@ The Saeren Chronicles, Book One · by Post Peleos
 |---|---|---|
 | `Hazel-Academy-r20-INTERIOR.pdf` | `235cffd6ef91d0a8` | 538 KB |
 | `Hazel-Academy-r20-COVER.pdf` | `25b580fd86b266d5` | 1138 KB |
-| `Hazel-Academy.epub` | `6e3f9cd7dcb7b4e5` | 652 KB |
+| `Hazel-Academy.epub` | `00155c5106a131aa` | 652 KB |
 | `Hazel-Academy-EBOOK-COVER.jpg` | `532e3b31384e68a6` | 364 KB |
 
 ## The Resistance — r14
@@ -23,7 +23,7 @@ The Saeren Chronicles, Book Two · by Post Peleos
 |---|---|---|
 | `The-Resistance-r14-INTERIOR.pdf` | `0d88698888580fad` | 538 KB |
 | `The-Resistance-r14-COVER.pdf` | `66fc4fa43182aea4` | 1145 KB |
-| `The-Resistance.epub` | `536a2098de89ea7c` | 622 KB |
+| `The-Resistance.epub` | `6e54529ddc89d66e` | 622 KB |
 | `The-Resistance-EBOOK-COVER.jpg` | `4216741c704b6020` | 338 KB |
 
 ## The Weight of the Source — r11
@@ -35,7 +35,7 @@ The Saeren Chronicles, Book Three · by Post Peleos
 |---|---|---|
 | `The-Weight-of-the-Source-r11-INTERIOR.pdf` | `e9d418735a7b1afe` | 557 KB |
 | `The-Weight-of-the-Source-r11-COVER.pdf` | `e013031da720f215` | 1119 KB |
-| `The-Weight-of-the-Source.epub` | `12964186bf216027` | 629 KB |
+| `The-Weight-of-the-Source.epub` | `2c5e57ceaffb15e0` | 630 KB |
 | `The-Weight-of-the-Source-EBOOK-COVER.jpg` | `2d8593c0eda1afa4` | 335 KB |
 
 ## A Bond of Scale and Silver — r6
