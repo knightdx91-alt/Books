@@ -163,29 +163,47 @@ formats, so an empty eBook format will block you even while you're on the print 
 **Barcode:** our covers have the barcode baked in (print ISBN), **no price add-on**
 (per author preference). So always pick "I supply my own barcode."
 
-**The ICC-profile warning** ("PDF CONTAINS ICC COLOR PROFILES…") is technically
-non-blocking, but **do not just tick the authorize-anyway box.** Our upload files are
-profile-free, so if the warning appears at all, the near-certain cause is that a
-`-PDFX1a.pdf` went up instead of the `-CMYK-noicc.pdf` — the X-1a build carries an
-OutputIntent *by design*, which is exactly what the warning detects. Go Back and check
-what you actually sent:
+**IngramSpark renames your files on upload.** A file you sent as
+`The-Resistance-r14-COVER.pdf` can come back on the validation screen as something like
+`BB-cover.pdf` — an internal job name, unrelated to what you uploaded. Observed
+2026-09-13. Two consequences, and the second one cost us a lot of wasted reasoning:
 
+- **The filename on the validation screen is not evidence of which file you sent.** You
+  cannot diagnose anything from it. Don't try.
+- **They are re-processing the PDF server-side**, not just storing it. A rename means
+  their pipeline rewrites the file, so what their validator inspects is *their* output,
+  not your bytes.
+
+**The ICC-profile warning** ("PDF CONTAINS ICC COLOR PROFILES…") is a **non-blocking
+warning**, and given the above it can appear even on a file that is verifiably
+profile-free when it leaves here — their re-save can attach a profile of its own. So
+the sequence that actually works is:
+
+**1. Verify BEFORE you upload, while you still control the bytes:**
 ```
 python3 tools/check_upload_pdf.py cover    <file.pdf>
 python3 tools/check_upload_pdf.py interior <file.pdf>
 ```
+Files taken from `completed-books/<nn-slug>/` are already verified on every
+`collect_completed.py --check`, so this is a formality unless you sourced the file
+elsewhere.
 
-Re-upload from `completed-books/<nn-slug>/` if it comes back FAIL. Only if the file
-genuinely checks out clean should you proceed through the warning — and then **order a
-printed proof** to confirm the interior text prints solid black (not gray) before
-approving for sale.
+**2. If it passed locally and the warning still appears, proceed.** You have done
+everything you can from this side; the profile is theirs. Tick the box, then **order a
+printed proof** and confirm the interior text prints solid black (not gray) before
+approving for sale. That proof is the real check — do not skip it.
 
-> **Superseded note, kept because it cost us a round:** an earlier version of Part B
-> said to upload the **PDF/X-1a** cover instead, on the grounds that the CMYK/no-ICC
-> file "previews BLANK/WHITE on IngramSpark because it has no OutputIntent." Following
-> that is what produced the ICC rejection on 2026-09-13. The rest of this guide, and
-> `docs/PUBLISHING.md`, have always said CMYK/no-ICC — that is the correct file. If a
-> no-ICC cover ever does preview blank, say so rather than switching files: that is a
+**3. If it failed locally, go Back** and re-upload from `completed-books/<nn-slug>/`.
+
+> **A caution about the `-PDFX1a.pdf` files.** An earlier version of Part B said to
+> upload the PDF/X-1a cover instead of the CMYK/no-ICC one, on the grounds that the
+> no-ICC file "previews BLANK/WHITE on IngramSpark because it has no OutputIntent."
+> That contradicted Part C of this same document and `docs/PUBLISHING.md`, both of which
+> have always said CMYK/no-ICC, so it has been removed. The X-1a build does carry an
+> OutputIntent by design, so it will certainly trip the warning — but note we have never
+> actually confirmed it was the file behind any particular rejection, and the rename
+> behaviour above means the validation screen could never have told us. If a no-ICC
+> cover ever does preview blank, report that rather than switching files: it is a
 > preview-renderer quirk to investigate, not a reason to upload the profiled build.
 
 **Cover document size:** IngramSpark's current template wants a **tight full-bleed
