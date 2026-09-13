@@ -88,6 +88,55 @@ a record, a name — something that proves a school the town has a soft blank ab
 
 ---
 
+## What is the loop FOR?
+
+The premise's hardest question: what does eighty years of the same day accomplish?
+
+**First answer: nothing, and that is the point.** Nobody decided to do this for eighty years.
+They decided *not today*, and then again. A loop is not a plan — it is a refusal, repeated until
+it sets. There is no architect to confront and no bargain to strike. In horror this is usually
+stronger than any invented purpose.
+
+**Second answer, and the recommended spine: the goal is the roll call.**
+
+Every morning every name is read and every child answers *present*. That is the ritual.
+Everything else — lessons, the lunch nobody eats, going home, coming back — is scaffolding built
+to make the roll call happen again tomorrow. Dead children do not answer roll. So as long as
+every name gets an answer, nobody is dead. Grief in the most school-shaped form available: the
+paperwork says they are here, therefore they are here.
+
+The goal can never be completed, only re-achieved — daily, forever, like a prayer. A goal that
+went somewhere would end. This one cannot. That is what a loop *is*.
+
+It retro-explains every element already in the dream:
+
+- **Why a school.** Roll call is a school ritual. Nowhere else does an adult read your name aloud
+  every day and require you to prove you exist.
+- **Why nobody is ever absent.** Not a spooky detail — the load-bearing rule.
+- **Why the empty desk is catastrophic.** A name with no answer is the crack in the dam.
+- **Why vampires who never feed.** Appetite means wanting something *next*. Feeding admits that
+  tomorrow exists.
+- **Why a substitute breaks it.** She is the one person who does not know the answers. She reads
+  the list wrong. She says a name nobody has spoken aloud in decades — and waits.
+
+### Alternatives, if the loop should have a true purpose
+
+- **Containment.** The children are not merely dead, they are dead *wrong*. End the day and they
+  do not rest, they wake as something. The faculty are holding the lid on, and their abstinence
+  is the example they are setting. Turns the protagonist's mercy into the catastrophe.
+- **Waiting.** The day is held open like a door for someone who is not in it — which is why a
+  substitute could get in at all. Gives the dream's own detail a job: they are waiting for the
+  son. Gut-punch: they have waited so long they have forgotten who they are waiting for, and
+  only realise it when he walks in at seventy.
+- **Payment.** The vampires caused it. The loop is not a memorial but a sentence being served,
+  with the children as collateral. Coldest version, fewest moving parts.
+
+**Recommended: the roll call as the stated goal, waiting underneath it.** The faculty would tell
+you the point is that every child is accounted for. One of them, somewhere in the building, still
+knows that is not it.
+
+---
+
 ## Candidate endings
 
 **1 — The mercy massacre.** She finds the anchor (roll book / bell / a body still in the
@@ -123,7 +172,8 @@ the alternative that gets quoted.
 ## Open questions
 
 - What killed the children? (Keep mundane. Decide late — the reveal is emotional, not clever.)
-- Whose desk is the empty one?
+- Whose desk is the empty one? (Likely the child whose body is still in the building — the
+  ritual's anchor. Finding the desk is act one; finding the body is act three.)
 - How long has it run? (Eighty years is proposed — it must be long enough that the son is elderly.)
 - Does the town outside know, refuse to know, or have a hole where the knowing goes?
 - Does she have a child of her own, or did she have one?
