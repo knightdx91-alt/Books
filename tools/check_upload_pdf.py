@@ -36,12 +36,31 @@ import re, sys, zlib
 MARKERS = (b"ICCBased", b"OutputIntent")
 SPACES = (b"DeviceCMYK", b"DeviceGray", b"DeviceRGB", b"CalRGB", b"CalGray", b"Lab")
 
+# Content-stream colour operators. A text-only interior often sets grey with a bare
+# `0 g` and never declares a /DeviceGray resource at all, so the named colour spaces
+# above can come back empty on a perfectly good file — the operators are the evidence
+# that survives. (Matching `g` needs the leading number: `/Fm0 Do`, `/GS0 gs` and font
+# names are full of stray letters.)
+OPS = ((rb"[\d.]\s+g[\s\n]", "DeviceGray"),
+       (rb"[\d.]\s+k[\s\n]", "DeviceCMYK"),
+       (rb"[\d.]\s+rg[\s\n]", "DeviceRGB"))
+
 # what each upload slot must be, per INGRAMSPARK-UPLOAD-GUIDE Part C
 WANT = {"interior": "DeviceGray", "cover": "DeviceCMYK"}
 
+# Colour spaces that are positively WRONG in each slot, as opposed to merely absent.
+# DeviceGray inside a CMYK cover is fine — grey is a legal CMYK ink mix and Ghostscript
+# emits it for black text — so only RGB convicts a cover.
+BANNED = {"interior": ("DeviceRGB", "CalRGB", "Lab", "DeviceCMYK"),
+          "cover": ("DeviceRGB", "CalRGB", "Lab")}
+
 
 def inspect(path):
-    """-> (set of profile markers found, set of device colour spaces used)."""
+    """-> (set of profile markers found, set of device colour spaces used).
+
+    Looks at named colour-space resources AND the operators in the content streams,
+    because a file can legitimately use one without the other.
+    """
     data = open(path, "rb").read()
     blobs = [data]
     for m in re.finditer(rb"stream\r?\n", data):
@@ -60,6 +79,10 @@ def inspect(path):
         for name in SPACES:
             if b"/" + name in blob:
                 spaces.add(name.decode())
+    for blob in blobs[1:]:            # operators only exist in decompressed streams
+        for pat, name in OPS:
+            if re.search(pat, blob):
+                spaces.add(name)
     return profiles, spaces
 
 
@@ -76,15 +99,22 @@ def check(kind, path):
                         " — IngramSpark will reject this as 'PDF CONTAINS ICC "
                         "COLOR PROFILES'. This is the archival PDF/X-1a copy, "
                         "not the upload copy.")
-    if want and want not in spaces:
-        problems.append(f"colour space is {'/'.join(sorted(spaces)) or 'undetermined'},"
-                        f" but the {kind} uploads as {want}.")
+    wrong = sorted(set(BANNED.get(kind, ())) & spaces)
+    if wrong:
+        problems.append(f"uses {'/'.join(wrong)}, but the {kind} uploads as {want}.")
     label = ", ".join(sorted(spaces)) or "no device colour space found"
     if problems:
         print(f"FAIL  {path}")
         for p in problems:
             print(f"      {p}")
         return False
+    # Absence of evidence is not evidence of absence: an unusual producer may name no
+    # colour space and use no colour operator. Say so rather than failing a good file.
+    if want and want not in spaces:
+        print(f"WARN  {path}\n      no colour profile (good), but could not confirm "
+              f"{want} — nothing in the file names a colour space or sets one. "
+              f"Eyeball it before uploading.")
+        return True
     print(f"OK    {path}\n      {label}, no colour profile — safe to upload")
     return True
 
