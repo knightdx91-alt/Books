@@ -5,11 +5,12 @@ from an FRP-locked Android phone whose native file picker doesn't work. Reuse it
 **Book 3** (and re-uploads). Everything here was learned the hard way — the gotchas
 are called out so you don't repeat them.
 
-> **About the access token:** there is NO live token saved in this file on purpose.
-> GitHub's secret-scanning **auto-revokes any token committed to a repo**, so storing
-> one here would be dead within minutes and flag the account. Minting a fresh one
-> takes ~30 seconds (Part B, Step 1). That generation step was never the hard part —
-> the hard part was the confusion, which this guide removes.
+> **No access token is needed any more.** `knightdx91-alt/Books` is a **public**
+> repo (deliberately), so the files download over plain HTTPS with no credentials at
+> all. The whole token dance this guide used to open with is gone — see Part B.
+> If you ever make the repo private again, you will need a classic `repo`-scope token
+> back; never commit one, because GitHub secret-scanning auto-revokes tokens pushed
+> to a repo and flags the account.
 
 ---
 
@@ -68,7 +69,7 @@ echo "started"
   (no panel / no menus). If the desktop comes up grey, wait ~15s for the panel to
   paint, or check `cat ~/.vnc/*.log` for errors. Cloud Shell wipes apt packages
   between sessions, so XFCE is reinstalled each time you come back (re-run Steps 1–3),
-  but `~` files (including `~/.vnc/xstartup` and `~/.github_token`) persist.
+  but `~` files (including `~/.vnc/xstartup`) persist.
 
 **4. Open the desktop in the phone browser.** Cloud Shell toolbar (top-right) →
 **Web Preview** (monitor/eye icon; may be under a `⋮` overflow on a narrow screen) →
@@ -88,70 +89,54 @@ desktop to your screen, no pinch-zoom). There's also a fullscreen button there.
 We download the files straight into the Cloud Shell desktop (no native picker needed),
 then upload them to IngramSpark from there.
 
-**1. Make a GitHub token** (on the phone's normal browser, already logged into GitHub):
-GitHub → **Settings → Developer settings → Personal access tokens → Tokens (classic)
-→ Generate new token (classic)** → scope **`repo`** → Generate → **copy it** (`ghp_…`).
-Keep it until all uploads are done, then revoke it (Settings → revoke).
+> **This part used to require a personal access token.** It no longer does — the repo
+> is public. If you are following an older printout, skip every token step in it.
 
-> **Use a CLASSIC token, not fine-grained.** A valid classic token is `ghp_` + 36
-> chars = **40 characters total**. If `echo -n "$TOKEN" | wc -c` prints anything
-> other than 40, the paste grabbed extra/missing characters — that's the usual
-> cause of **HTTP 401 "Bad credentials."** Tokens are case-sensitive; never paste
-> a token into a chat/log (treat any token that lands in one as compromised and
-> revoke it).
+**Take the files from `completed-books/`, never from a book's `delivery/` folder.**
+`delivery/` holds every build ever cut — three near-identical wraps per revision, of
+which exactly one is the upload copy. `completed-books/<nn-slug>/` holds only the
+current, correct four, and `collect_completed.py --check` verifies they are the live
+build AND profile-free in the right colour space. Picking from `delivery/` by hand is
+how the wrong file gets uploaded.
 
-**1a. (Recommended) Persist the token so you don't re-paste it every session.**
-Cloud Shell wipes apt packages + the desktop between sessions, but **`~` files
-survive**. Save the token once into your private home dir (NEVER into this repo —
-GitHub secret-scanning auto-revokes any token committed to a repo, so a token in
-these docs would be dead within minutes and flag the account):
-```
-echo 'export GH_TOKEN=PASTE_YOUR_TOKEN_HERE' > ~/.github_token
-chmod 600 ~/.github_token
-```
-Then on every future session, instead of pasting the token, just run:
-```
-source ~/.github_token
-TOKEN=$GH_TOKEN
-```
-and continue to Step 2. (Alternative: set it as an ENV SECRET in the web-environment
-config — same mechanism as `GEMINI_API_KEY` — which persists it to the container
-without it sitting in the repo.)
-
-**Sanity-check the token before downloading** (200 = good, 401 = bad paste, 404 = no access):
-```
-curl -sL -o /dev/null -w "HTTP %{http_code}\n" -H "Authorization: token $TOKEN" \
-  "https://api.github.com/repos/knightdx91-alt/The-Saeren-Chronicles"
-```
-
-**2. Download the files** — in the Cloud Shell **terminal**, paste this, replacing the
-token. (Always `rm -f ~/Downloads/*` first — stale/old files caused upload failures.)
+**1. Download them** — in the Cloud Shell **terminal**. Set `BOOK` to the folder you
+want and paste the rest as-is. (Always clear `~/Downloads` first — stale files from a
+previous session caused upload failures.)
 
 ```
+BOOK=02-the-resistance     # 01-hazel-academy | 02-the-resistance |
+                           # 03-the-weight-of-the-source | 04-a-bond-of-scale-and-silver
+
 rm -f ~/Downloads/*
-cd ~/Downloads
-TOKEN=PASTE_YOUR_TOKEN_HERE        # ...or if you saved it (Step 1a): source ~/.github_token; TOKEN=$GH_TOKEN
-api="https://api.github.com/repos/knightdx91-alt/The-Saeren-Chronicles/contents"
-get(){ curl -sL -H "Authorization: token $TOKEN" -H "Accept: application/vnd.github.raw" -o "$2" "$api/$1"; }
+mkdir -p ~/Downloads && cd ~/Downloads
+base="https://raw.githubusercontent.com/knightdx91-alt/Books/main/completed-books/$BOOK"
+curl -sL "https://api.github.com/repos/knightdx91-alt/Books/contents/completed-books/$BOOK" \
+  | grep -o '"name": *"[^"]*"' | cut -d'"' -f4 \
+  | while read -r f; do curl -sL -o "$f" "$base/$f"; done
 
-# --- change these paths per book; Book-3 paths go under book/genesis/saeren-chronicles-book-3/ ---
-# Book One (barcode-fixed cover = r3 PDF/X-1a; interior r14 PDF/X-1a):
-#   USE THE -PDFX1a COVER, NOT -CMYK-noicc. The plain CMYK/no-ICC file previews BLANK/WHITE
-#   on IngramSpark (and phone viewers) because it has no OutputIntent. PDF/X-1a (CMYK +
-#   OutputIntent) is what IngramSpark expects and previews correctly.
-#   get "book/genesis/saeren-chronicles/delivery/cover/Saeren-Book-One-FULL-WRAP-r3-PDFX1a.pdf" cover.pdf
-#   get "book/genesis/saeren-chronicles/delivery/production/Saeren-Chronicles-Book-One-6x9-interior-r14-PDFX1a.pdf" interior.pdf
-get "book/genesis/saeren-chronicles-book-2/delivery/production/Saeren-Chronicles-Book-Two-6x9-interior-r7-GRAY-noicc.pdf" interior.pdf
-get "book/genesis/saeren-chronicles-book-2/delivery/cover/Saeren-Book-Two-FULL-WRAP-r2-CMYK-noicc.pdf" cover.pdf
-get "book/genesis/saeren-chronicles-book-2/delivery/ebook/Saeren-Chronicles-Book-Two-The-Resistance.epub" book.epub
-
-echo "=== check: want real sizes + %PDF / PK headers, NOT ~112 bytes ==="
-for f in interior.pdf cover.pdf book.epub; do printf "%-14s " "$f"; ls -lh "$f"|awk '{print $5}'|tr -d '\n'; printf " hdr="; head -c4 "$f"; echo; done
+echo "=== want 4 files, real sizes, %PDF / PK / JFIF headers — NOT ~112 bytes ==="
+for f in *; do printf "%-46s %-7s hdr=" "$f" "$(ls -lh "$f" | awk '{print $5}')"; head -c4 "$f"; echo; done
 ```
 
-**GOTCHA — the 112-byte file:** if any file is ~112 bytes or its header is `{`, the
-token is wrong/revoked and you downloaded a GitHub error message. Mint a fresh token
-and re-run. A real file shows `%PDF` (PDFs) or `PK` (epub/docx) and a sensible size.
+Or, if you would rather have the whole repo (it is ~320 MB, so the per-file version
+above is faster):
+```
+cd ~ && rm -rf Books && git clone --depth 1 https://github.com/knightdx91-alt/Books.git
+rm -f ~/Downloads/* && cp ~/Books/completed-books/$BOOK/* ~/Downloads/
+```
+
+**GOTCHA — the 112-byte file:** a file of ~112 bytes, or one whose header is `{`, is a
+GitHub error message rather than a book. Under the old token flow that meant a bad
+token; now it means a wrong path or folder name. Re-check `BOOK` against the list above.
+
+**2. What each of the four files is for:**
+
+| file | IngramSpark slot |
+|---|---|
+| `*-INTERIOR.pdf` | Print (Perfect Bound) → interior |
+| `*-COVER.pdf` | Print (Perfect Bound) → cover |
+| `*.epub` | eBook → interior (a PDF is rejected here) |
+| `*-EBOOK-COVER.jpg` | eBook → cover image |
 
 **3. Upload in Firefox** (inside the Cloud Shell desktop): go to ingramspark.com, and
 when its picker opens, choose the files from **Home → Downloads**.
@@ -178,10 +163,30 @@ formats, so an empty eBook format will block you even while you're on the print 
 **Barcode:** our covers have the barcode baked in (print ISBN), **no price add-on**
 (per author preference). So always pick "I supply my own barcode."
 
-**The ICC-profile warning** ("PDF CONTAINS ICC COLOR PROFILES…") is a **non-blocking
-warning** — you can proceed. Our files are already profile-free, so it should stay
-quiet; if it appears, proceed and **order a printed proof** to confirm the interior
-text prints solid black (not gray) before approving for sale.
+**The ICC-profile warning** ("PDF CONTAINS ICC COLOR PROFILES…") is technically
+non-blocking, but **do not just tick the authorize-anyway box.** Our upload files are
+profile-free, so if the warning appears at all, the near-certain cause is that a
+`-PDFX1a.pdf` went up instead of the `-CMYK-noicc.pdf` — the X-1a build carries an
+OutputIntent *by design*, which is exactly what the warning detects. Go Back and check
+what you actually sent:
+
+```
+python3 tools/check_upload_pdf.py cover    <file.pdf>
+python3 tools/check_upload_pdf.py interior <file.pdf>
+```
+
+Re-upload from `completed-books/<nn-slug>/` if it comes back FAIL. Only if the file
+genuinely checks out clean should you proceed through the warning — and then **order a
+printed proof** to confirm the interior text prints solid black (not gray) before
+approving for sale.
+
+> **Superseded note, kept because it cost us a round:** an earlier version of Part B
+> said to upload the **PDF/X-1a** cover instead, on the grounds that the CMYK/no-ICC
+> file "previews BLANK/WHITE on IngramSpark because it has no OutputIntent." Following
+> that is what produced the ICC rejection on 2026-09-13. The rest of this guide, and
+> `docs/PUBLISHING.md`, have always said CMYK/no-ICC — that is the correct file. If a
+> no-ICC cover ever does preview blank, say so rather than switching files: that is a
+> preview-renderer quirk to investigate, not a reason to upload the profiled build.
 
 **Cover document size:** IngramSpark's current template wants a **tight full-bleed
 wrap** (no white margins). The original wraps were built to the old 15×12 Lightning
@@ -217,19 +222,21 @@ download arrow. It saves to **~/Downloads** in the Cloud Shell desktop.
 
 **4. Push it into GitHub** — in the Cloud Shell **terminal**:
 ```
-source ~/.github_token; TOKEN=$GH_TOKEN
-cd ~ && rm -rf SC && git clone https://x:$TOKEN@github.com/knightdx91-alt/The-Saeren-Chronicles.git SC
-cd SC
+cd ~ && rm -rf Books && git clone https://github.com/knightdx91-alt/Books.git
+cd Books
 git config user.email noreply@anthropic.com; git config user.name "Claude"
 # copy the WhatsApp file in (change filename + destination folder as needed):
-cp ~/Downloads/THE_FILE.pdf  book/genesis/saeren-chronicles/delivery/cover/
+cp ~/Downloads/THE_FILE.pdf  books/saeren/saeren-chronicles/delivery/cover/
 git add -A && git commit -m "add file from WhatsApp" && git push
 ```
 Once pushed it's on `main` — Claude can then see it, rename/move it, or rebuild
-deliverables from it.
+deliverables from it. **Reading the repo needs no credentials, but pushing does**, so
+this step will prompt for a GitHub username + token, or use the Upload-files
+alternative below, which authenticates through the browser session you are already
+signed into.
 
 - You re-link WhatsApp Web once per Cloud Shell session (the desktop resets between
-  sessions; ~/.github_token persists, so only the QR re-scan is needed).
+  sessions, so the QR re-scan is needed each time).
 - Alternative to the git commands: in the same Firefox, go to github.com → the repo
   → the target folder → **Add file → Upload files** and pick the file from ~/Downloads.
 
@@ -237,7 +244,7 @@ deliverables from it.
 
 ## PART D — How the print/ebook files are produced (for Book 3, in this repo)
 
-Run these in the book's folder (`book/genesis/saeren-chronicles-book-3/`). Needs
+Run these in the book's folder (`books/saeren/saeren-chronicles-book-3/`). Needs
 Ghostscript (`sudo apt-get install -y ghostscript`) and Python `pymupdf`,`pillow`,
 `numpy`,`python-barcode`.
 
