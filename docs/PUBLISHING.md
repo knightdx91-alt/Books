@@ -75,10 +75,10 @@ the back panel, the spine, the EAN-13, and the full-bleed canvas.
 the cover is built — re-cut the interior and the wrap is wrong. Only the two factors
 verified against accepted books ship in the tool:
 
-| stock | factor | used by |
-|---|---|---|
-| `white50` | 0.002252 | the Saeren trilogy |
-| `cream50` | 0.0025 | A Bond of Scale and Silver |
+| stock | factor |
+|---|---|
+| `white50` | 0.002252 |
+| `cream50` | 0.0025 |
 
 Any other stock must set `paper.factor` explicitly, read off IngramSpark's own spine
 calculator. The tool refuses to guess, because guessing here wastes a print run.
@@ -99,8 +99,10 @@ clears the spec and adds no detail, so prefer real resolution when it exists.
 
 The output is an RGB proof; run `make_noicc.sh cmyk` on it for the upload copy.
 
-Verified by rebuilding all four shipped wraps from config: Books One/Two/Three and
-*A Bond of Scale and Silver* each render **pixel-identical** to the accepted PDF.
+Both factors were verified against books this pipeline has had accepted and printed.
+
+Verified by rebuilding every shipped wrap from config — each renders **pixel-identical**
+to the PDF that was accepted, across both paper stocks.
 
 ### The EPUB
 

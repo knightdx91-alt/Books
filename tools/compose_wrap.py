@@ -75,8 +75,8 @@ except ImportError as exc:
 # project has had accepted and printed. Everything else is a deliberate error:
 # guessing here wastes a whole print run.
 PAPER_STOCKS = {
-    "white50": 0.002252,   # IngramSpark white 50# -- the Saeren trilogy
-    "cream50": 0.0025,     # IngramSpark cream 50# -- A Bond of Scale and Silver
+    "white50": 0.002252,   # IngramSpark white 50#
+    "cream50": 0.0025,     # IngramSpark cream 50#
 }
 
 ALIGN = {"left": TA_LEFT, "center": TA_CENTER, "centre": TA_CENTER,
