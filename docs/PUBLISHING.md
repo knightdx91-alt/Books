@@ -54,9 +54,24 @@ too instead of at the upload form.
 
 ### The cover wrap
 
+Start by taking the specs — trim, stock, page count, ISBN, art:
+
+```bash
+python3 tools/compose_wrap.py books/<slug> --init
+```
+
+It asks for each one, shows the resulting spine and wrap size for confirmation,
+checks the ISBN and the art resolution as you go, and writes
+`books/<slug>/delivery/cover.yaml`. Fill in the back-cover copy it leaves as
+placeholders, then build:
+
 ```bash
 python3 tools/compose_wrap.py books/<slug>
 ```
+
+It stops rather than guessing: refuse the spine confirmation and nothing is
+written; art under 300 ppi has to be accepted explicitly; a short ISBN
+re-prompts. An existing config is never overwritten without asking.
 
 Config-driven, from `books/<slug>/delivery/cover.yaml` (the twin of `ebook.yaml`).
 **You supply front cover art only** — the tool builds everything else on the wrap:

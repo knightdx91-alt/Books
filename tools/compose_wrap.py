@@ -2,9 +2,15 @@
 """
 Compose a print-ready cover WRAP (back panel + spine + front panel) for any book.
 
-    python3 tools/compose_wrap.py books/<slug>
+    python3 tools/compose_wrap.py books/<slug> --init   # ask for the specs
+    python3 tools/compose_wrap.py books/<slug>          # build the wrap
     python3 tools/compose_wrap.py books/<slug> --config delivery/cover.yaml
     python3 tools/compose_wrap.py books/<slug> --out /tmp/proof.pdf
+
+--init takes the specs that cannot be fixed after printing -- trim, paper stock,
+page count, print ISBN, front art -- confirms the resulting spine against the
+operator, and writes delivery/cover.yaml with the back-cover copy left as
+placeholders to edit.
 
 Config-driven twin of tools/make_epub.py: the book supplies delivery/cover.yaml,
 this supplies the geometry, typesetting and the IngramSpark compliance. Replaces
@@ -263,12 +269,345 @@ def require(cfg, path):
     return node
 
 
+# ------------------------------------------------------------------ intake
+# Common IngramSpark perfect-bound trims. NOT exhaustive, and which trims are
+# available depends on binding and stock -- confirm against IngramSpark before
+# ordering. Any other size goes in as a custom width x height.
+TRIM_PRESETS = [
+    ("5 x 8", 5.0, 8.0),
+    ("5.25 x 8", 5.25, 8.0),
+    ("5.5 x 8.5", 5.5, 8.5),
+    ("6 x 9", 6.0, 9.0),
+    ("6.14 x 9.21", 6.14, 9.21),
+    ("7 x 10", 7.0, 10.0),
+    ("8.5 x 11", 8.5, 11.0),
+]
+
+
+def ask(prompt, default=None, validate=None):
+    """Prompt until the answer validates. Empty input takes the default.
+    validate(raw) returns the parsed value or raises ValueError(message)."""
+    suffix = f" [{default}]" if default not in (None, "") else ""
+    while True:
+        try:
+            raw = input(f"{prompt}{suffix}: ").strip()
+        except EOFError:
+            if default is not None:
+                raw = str(default)
+                print(f"  (no input -- using {default})")
+            else:
+                sys.exit("\nERROR: input ended before a required answer was given.")
+        if not raw:
+            if default is None:
+                print("  required.")
+                continue
+            raw = str(default)
+            if not raw:          # an empty default means "optional, leave blank"
+                return ""
+        if validate is None:
+            return raw
+        try:
+            return validate(raw)
+        except ValueError as exc:
+            print(f"  {exc}")
+
+
+def ask_yes_no(prompt, default=True):
+    d = "Y/n" if default else "y/N"
+    while True:
+        try:
+            raw = input(f"{prompt} [{d}]: ").strip().lower()
+        except EOFError:
+            return default
+        if not raw:
+            return default
+        if raw in ("y", "yes"):
+            return True
+        if raw in ("n", "no"):
+            return False
+        print("  answer y or n.")
+
+
+def _pos_float(raw):
+    v = float(raw)
+    if v <= 0:
+        raise ValueError("must be greater than zero.")
+    return v
+
+
+def sample_bg(path):
+    """Sample the art's border for a back-panel/bleed background colour.
+
+    Returns (darker, median) as hex. The DARKER reading (25th percentile per
+    channel) is the suggestion: it tracks the real background on dark covers,
+    where the median gets dragged up by a bright focal area. On the three
+    covers this was checked against, median missed one badly (#757478 for art
+    whose background is #0A0A0C) while the 25th percentile stayed close on all
+    three. Neither is authoritative -- the caller offers both and takes an
+    override, because a light-background cover inverts the logic."""
+    im = Image.open(path).convert("RGB")
+    w, h = im.size
+    px = []
+    for x in range(0, w, max(1, w // 60)):
+        px.append(im.getpixel((x, 0)))
+        px.append(im.getpixel((x, h - 1)))
+    for y in range(0, h, max(1, h // 60)):
+        px.append(im.getpixel((0, y)))
+        px.append(im.getpixel((w - 1, y)))
+    n = len(px)
+    chan = [sorted(p[i] for p in px) for i in range(3)]
+    hexc = lambda t: "#%02X%02X%02X" % tuple(t)
+    return (hexc(tuple(c[n // 4] for c in chan)),
+            hexc(tuple(c[n // 2] for c in chan)))
+
+
+def init_config(book_dir, config_path=None):
+    """Interactive intake: ask for the specs, then write delivery/cover.yaml."""
+    book_dir = os.path.abspath(book_dir)
+    if not os.path.isdir(book_dir):
+        sys.exit(f"ERROR: no such book folder: {book_dir}")
+    out_cfg = config_path or os.path.join(book_dir, "delivery", "cover.yaml")
+    if os.path.exists(out_cfg):
+        print(f"{out_cfg} already exists.")
+        if not ask_yes_no("Overwrite it?", default=False):
+            sys.exit("Left the existing config alone.")
+
+    def bookpath(rel):
+        return rel if os.path.isabs(rel) else os.path.join(book_dir, rel)
+
+    print(f"\nCover specs for {os.path.basename(book_dir)}")
+    print("Enter accepts the default in brackets.\n")
+
+    # --- trim -------------------------------------------------------------
+    print("Trim size:")
+    for i, (label, _, _) in enumerate(TRIM_PRESETS, 1):
+        print(f"  {i}) {label}\"" + ("   <- most common" if label == "6 x 9" else ""))
+    print(f"  {len(TRIM_PRESETS) + 1}) other")
+
+    def _trim_choice(raw):
+        n = int(raw)
+        if not 1 <= n <= len(TRIM_PRESETS) + 1:
+            raise ValueError("pick a number from the list.")
+        return n
+
+    choice = ask("  choice", default=4, validate=_trim_choice)
+    if choice == len(TRIM_PRESETS) + 1:
+        tw = ask("  trim width (inches)", validate=_pos_float)
+        th = ask("  trim height (inches)", validate=_pos_float)
+    else:
+        _, tw, th = TRIM_PRESETS[choice - 1]
+    print(f"  -> {tw} x {th}\"\n")
+
+    # --- paper + page count, i.e. the spine -------------------------------
+    print("Paper stock -- this sets the spine width with the page count.")
+    print("  1) white 50#   (0.002252\"/page)")
+    print("  2) cream 50#   (0.0025\"/page)")
+    print("  3) other       (factor from IngramSpark's spine calculator)")
+
+    def _stock_choice(raw):
+        n = int(raw)
+        if n not in (1, 2, 3):
+            raise ValueError("pick 1, 2 or 3.")
+        return n
+
+    sc = ask("  choice", default=1, validate=_stock_choice)
+    stock, factor = None, None
+    if sc == 1:
+        stock, factor = "white50", PAPER_STOCKS["white50"]
+    elif sc == 2:
+        stock, factor = "cream50", PAPER_STOCKS["cream50"]
+    else:
+        print("  Take this off IngramSpark's spine calculator for your stock --")
+        print("  the spine is the one dimension a reprint cannot fix.")
+        factor = ask("  inches of spine per page", validate=_pos_float)
+
+    def _pages(raw):
+        n = int(raw)
+        if n < 24:
+            raise ValueError("perfect binding needs a real page count (24+).")
+        return n
+
+    print("\nPage count -- the FINAL interior's physical page count.")
+    print("  Re-cut the interior later and the spine is wrong, so build the")
+    print("  cover after the interior is locked.")
+    pages = ask("  pages", validate=_pages)
+    if pages % 2:
+        print(f"  WARNING: {pages} is odd. Perfect binding needs an even page")
+        print("           count -- check the interior before ordering.")
+
+    spine = pages * factor
+    full_w = 2 * tw + spine + 2 * 0.125
+    full_h = th + 2 * 0.125
+    print(f"\n  spine  {spine:.4f}\"  = {pages} x {factor}")
+    print(f"  wrap   {full_w:.3f}\" x {full_h:.3f}\"  (with 0.125\" bleed)")
+    if not ask_yes_no("  Does that spine match IngramSpark's calculator?", default=True):
+        sys.exit("Stopped. Re-check the page count and stock, then run --init again.")
+
+    # --- barcode ----------------------------------------------------------
+    print("\nBarcode:")
+    own_barcode = ask_yes_no("  Bake a real EAN-13 into the cover?", default=True)
+    isbn = None
+    if own_barcode:
+        def _isbn(raw):
+            digits = "".join(ch for ch in raw if ch.isdigit())[:12]
+            if len(digits) != 12:
+                raise ValueError(f"got {len(digits)} digits, need 12 "
+                                 "(the PRINT ISBN, not the eBook one).")
+            return raw.strip()
+        isbn = ask("  print ISBN", validate=_isbn)
+    else:
+        print("  -> barcode disabled; tell IngramSpark to supply one.")
+
+    # --- front art --------------------------------------------------------
+    print("\nFront cover art:")
+
+    def _art(raw):
+        if not os.path.exists(bookpath(raw)):
+            raise ValueError(f"not found: {bookpath(raw)}")
+        return raw
+    art = ask("  path (relative to the book folder)", validate=_art)
+    art_abs = bookpath(art)
+    im = Image.open(art_abs)
+    iw, ih = im.size
+    panel_w, panel_h = tw + 0.125, full_h
+    target, src = panel_w / panel_h, iw / ih
+    crop_w = int(ih * target) if src > target else iw
+    ppi = crop_w / panel_w
+    lost = round(100 * (iw - crop_w) / iw, 1)
+    print(f"  {iw}x{ih}px -> centre-cropped to {panel_w}x{panel_h}\" "
+          f"(loses {lost}% of width)")
+    if ppi >= 300:
+        print(f"  {ppi:.0f} ppi effective -- OK")
+    else:
+        print(f"  {ppi:.0f} ppi effective -- UNDER 300, will print soft.")
+        print(f"  Ask for at least {int(round(300 * panel_w))}x"
+              f"{int(round(300 * panel_h))}px.")
+        if not ask_yes_no("  Continue anyway?", default=False):
+            sys.exit("Stopped. Get higher-resolution art.")
+    strip = ask_yes_no("  Does the art have a white band at the bottom to crop?",
+                       default=False)
+
+    # --- palette ----------------------------------------------------------
+    print("\nBackground colour -- the back panel and any bleed gap are painted")
+    print("this, so it should match the art's BACKGROUND, not its brightest area.")
+    darker, median = sample_bg(art_abs)
+    print(f"  sampled from the art's edges:  darker {darker}   median {median}")
+
+    def _hex(raw):
+        v = raw.strip().upper()
+        if not v.startswith("#"):
+            v = "#" + v
+        if len(v) != 7 or any(ch not in "0123456789ABCDEF" for ch in v[1:]):
+            raise ValueError("give a 6-digit hex colour, e.g. #0A0A0C.")
+        return v
+    bg = ask("  background colour", default=darker, validate=_hex)
+
+    # --- text -------------------------------------------------------------
+    print("\nText:")
+    title = ask("  book title (as it reads on the spine)")
+    author = ask("  author name (the pen name on this cover)")
+    out_name = ask("  output filename (no extension)",
+                   default=title.replace(" ", "-") + "-FULL-WRAP")
+    bio = ask("  author bio for the back panel (blank to leave it out)",
+              default="")
+    photo = ""
+    if ask_yes_no("  Is there an author photo?", default=False):
+        photo = ask("    path (relative to the book folder)", validate=_art)
+
+    # --- write ------------------------------------------------------------
+    def y(v):
+        return '"' + str(v).replace('"', '\\"') + '"'
+
+    paper_block = (f"  stock: {stock}" if stock
+                   else f"  factor: {factor}        # from IngramSpark's calculator")
+    lines = [
+        "# Cover wrap config -- read by tools/compose_wrap.py",
+        "#",
+        f"#   python3 tools/compose_wrap.py {os.path.relpath(book_dir, os.getcwd())}",
+        "#",
+        "# Written by --init. The specs below are the unfixable ones; the back-cover",
+        "# copy is placeholder text -- edit it, then build.",
+        "",
+        f"pages: {pages}",
+        "paper:",
+        paper_block,
+        "",
+        (f"isbn: {y(isbn)}" if isbn else "# isbn: not used -- IngramSpark supplies the barcode"),
+        "",
+        "metadata:",
+        f"  title: {y(title)}",
+        f"  author: {y(author)}",
+        "",
+        "output:",
+        "  dir: delivery/cover",
+        f"  name: {y(out_name)}",
+        "  revision_file: REVISION",
+        "",
+        f"trim: {{width: {tw}, height: {th}, bleed: 0.125, safe: 0.375}}",
+        "",
+        "palette:",
+        f'  bg: "{bg}"',
+        '  primary: "#DCE2EC"',
+        '  secondary: "#AEB8C6"',
+        '  accent: "#C9A25A"',
+        "",
+        "front:",
+        f"  art: {y(art)}",
+        f"  trim_white_strip: {str(bool(strip)).lower()}",
+        "",
+        "spine:",
+        f"  title: {y(title.upper())}",
+        f"  author: {y(author)}",
+        "  title_size: 14",
+        "  author_size: 11",
+        "",
+        "styles:",
+        "  hook:    {font: bolditalic, size: 12,  leading: 16,   color: primary,   align: center, space_after: 14}",
+        "  para:    {font: regular,    size: 10,  leading: 14.5, color: secondary, align: left,   space_after: 9}",
+        "  closing: {font: italic,     size: 9.5, leading: 13.5, color: primary,   align: center, space_before: 6, space_after: 0}",
+        "",
+        "back:",
+        "  frame_gap: 0.28",
+        "  blocks:                       # TODO: replace with the real back-cover copy",
+        '    - {style: hook, text: "One line that makes someone turn the book over."}',
+        '    - {style: para, text: "The setup paragraph."}',
+        '    - {style: para, text: "What goes wrong."}',
+        '    - {style: closing, text: "The closing positioning line."}',
+        "",
+    ]
+    if bio or photo:
+        lines += ["author_block:"]
+        if photo:
+            lines += [f"  photo: {y(photo)}"]
+        lines += [f"  name: {y(author.upper())}"]
+        if bio:
+            lines += [f"  bio: {y(bio)}"]
+        lines += [""]
+    lines += [("barcode: {enabled: true, width: 1.9, height: 1.1}" if isbn
+               else "barcode: {enabled: false}"), ""]
+
+    os.makedirs(os.path.dirname(out_cfg), exist_ok=True)
+    with open(out_cfg, "w", encoding="utf-8") as fh:
+        fh.write("\n".join(lines))
+
+    rel = os.path.relpath(out_cfg, os.getcwd())
+    print(f"\nwrote {rel}")
+    print(f"  spine {spine:.4f}\"  wrap {full_w:.3f}\" x {full_h:.3f}\"")
+    print("\nNext:")
+    print(f"  1. edit the back.blocks copy in {rel}")
+    print(f"  2. python3 tools/compose_wrap.py "
+          f"{os.path.relpath(book_dir, os.getcwd())}")
+    return out_cfg
+
+
 def build(book_dir, config_path=None, out_path=None):
     book_dir = os.path.abspath(book_dir)
     cfg_path = config_path or os.path.join(book_dir, "delivery", "cover.yaml")
     if not os.path.exists(cfg_path):
         sys.exit(f"ERROR: no cover config at {cfg_path}\n"
-                 "       Seed one from books/_template/delivery/cover.yaml")
+                 f"       Run:  python3 tools/compose_wrap.py {book_dir} --init\n"
+                 "       to be asked for the specs, or copy "
+                 "books/_template/delivery/cover.yaml")
     with open(cfg_path, encoding="utf-8") as fh:
         cfg = deep_merge(DEFAULTS, yaml.safe_load(fh) or {})
 
@@ -496,9 +835,18 @@ def main():
     ap = argparse.ArgumentParser(
         description="Compose a print-ready cover wrap from delivery/cover.yaml.")
     ap.add_argument("book_dir", help="path to the book folder, e.g. books/the-gift")
+    ap.add_argument("--init", action="store_true",
+                    help="ask for the specs (trim, stock, page count, ISBN, art) "
+                         "and write the cover config")
     ap.add_argument("--config", help="cover config (default: <book>/delivery/cover.yaml)")
     ap.add_argument("--out", help="output PDF (default: from output.name + REVISION)")
+    ap.add_argument("--build", action="store_true",
+                    help="with --init, build the wrap straight after writing the config")
     args = ap.parse_args()
+    if args.init:
+        init_config(args.book_dir, args.config)
+        if not args.build:
+            return
     build(args.book_dir, args.config, args.out)
 
 

@@ -1,6 +1,8 @@
 # Cover wrap config -- read by tools/compose_wrap.py
 #
-#   python3 tools/compose_wrap.py books/<slug>
+#   python3 tools/compose_wrap.py books/<slug> --init    <- asks for the specs
+#                                                           and fills this in
+#   python3 tools/compose_wrap.py books/<slug>           <- build the wrap
 #
 # You supply FRONT COVER ART. This file describes everything else on the wrap:
 # the back panel, the spine, the barcode, and the geometry.
