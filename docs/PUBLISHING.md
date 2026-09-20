@@ -52,6 +52,56 @@ filename — which matters, because the three wraps in a `delivery/` folder look
 `completed-books/`, so a wrong-colour-space or profile-carrying print file fails there
 too instead of at the upload form.
 
+### The cover wrap
+
+```bash
+python3 tools/compose_wrap.py books/<slug>
+```
+
+Config-driven, from `books/<slug>/delivery/cover.yaml` (the twin of `ebook.yaml`).
+**You supply front cover art only** — the tool builds everything else on the wrap:
+the back panel, the spine, the EAN-13, and the full-bleed canvas.
+
+```
+│◄──────────── 2 × 6" + spine + 2 × 0.125" bleed ────────────►│
+┌──────────────────────┬─────────┬──────────────────────┐
+│      BACK PANEL      │  SPINE  │     FRONT PANEL      │ 9.25"
+│  blurb, author block │  title  │   (the supplied art) │
+│  photo, EAN-13       │  author │                      │
+└──────────────────────┴─────────┴──────────────────────┘
+```
+
+**The spine width is `pages × paper factor`,** so the interior must be final before
+the cover is built — re-cut the interior and the wrap is wrong. Only the two factors
+verified against accepted books ship in the tool:
+
+| stock | factor | used by |
+|---|---|---|
+| `white50` | 0.002252 | the Saeren trilogy |
+| `cream50` | 0.0025 | A Bond of Scale and Silver |
+
+Any other stock must set `paper.factor` explicitly, read off IngramSpark's own spine
+calculator. The tool refuses to guess, because guessing here wastes a print run.
+
+**The front art is placed scale-to-fill with a centre crop** into the 6.125 × 9.25"
+front panel (trim plus bleed). Art at the wrong aspect ratio loses its edges, so the
+build report prints the crop and the effective resolution:
+
+```
+  art      2452x3469px -> crop 2297x3469px (lost 6.3% w, 0.0% h)
+  art ppi  375.0 effective across the 6.125" front panel [OK]
+```
+
+Under 300 ppi it says so and gives the pixel dimensions to ask for. A square
+1024×1024 cover, for instance, loses a third of its width and lands at 110 ppi.
+`tools/cover_art_to_print_res.py` upscales art to clear the 300 ppi floor — it
+clears the spec and adds no detail, so prefer real resolution when it exists.
+
+The output is an RGB proof; run `make_noicc.sh cmyk` on it for the upload copy.
+
+Verified by rebuilding all four shipped wraps from config: Books One/Two/Three and
+*A Bond of Scale and Silver* each render **pixel-identical** to the accepted PDF.
+
 ### The EPUB
 
 ```bash

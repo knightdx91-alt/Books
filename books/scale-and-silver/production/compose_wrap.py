@@ -13,6 +13,12 @@ white bottom strip is cropped so the dark art bleeds. Back-cover copy from edito
 
 Output: delivery/production/A-Bond-of-Scale-and-Silver-wrap-6x9.pdf  (RGB; convert to
 PDF/X-1a CMYK with the same gs pipeline as the interior — see PRODUCTION-PLAYBOOK §4/§5).
+
+⚠ SUPERSEDED by the shared, config-driven tools/compose_wrap.py, which
+  reproduces this script's output pixel-identically from delivery/cover.yaml.
+  Kept because this book's production notes still drive rebuilds through it.
+  Make cover changes in the YAML, not here -- per the UPDATE RULE an edit made
+  in this copy is stranded in one book.
 """
 import os
 from PIL import Image

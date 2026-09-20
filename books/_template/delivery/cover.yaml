@@ -1,0 +1,75 @@
+# Cover wrap config -- read by tools/compose_wrap.py
+#
+#   python3 tools/compose_wrap.py books/<slug>
+#
+# You supply FRONT COVER ART. This file describes everything else on the wrap:
+# the back panel, the spine, the barcode, and the geometry.
+#
+# ⚠ pages + paper.stock set the SPINE WIDTH, which is the one dimension a
+#   reprint cannot fix. Set `pages` from the FINAL interior's physical page
+#   count, and `paper.stock` to the stock you will actually order.
+
+pages: ~                        # REQUIRED: final interior physical page count
+paper:
+  stock: white50                # white50 (0.002252"/pp) | cream50 (0.0025"/pp)
+  # factor: 0.0041              # any other stock: take the number from
+                                # IngramSpark's spine calculator and set it here
+
+isbn: ~                         # REQUIRED: the PRINT ISBN (not the eBook one).
+                                # Drawn as a real EAN-13, no price add-on.
+                                # Set barcode.enabled: false if IngramSpark supplies it.
+
+metadata:
+  title: ~                      # PDF metadata only, not printed on the cover
+  author: ~
+
+output:
+  dir: delivery/cover
+  name: ~                       # REQUIRED: e.g. My-Book-FULL-WRAP
+  revision_file: REVISION       # if present, its contents are appended: -r7
+
+trim: {width: 6.0, height: 9.0, bleed: 0.125, safe: 0.375}
+
+palette:                        # sample these from the front art so the back
+  bg: "#0A0A0C"                 # panel and the bleed match it
+  primary: "#DCE2EC"            # headline / spine title
+  secondary: "#AEB8C6"          # body copy
+  accent: "#C9A25A"             # author name, comp titles
+
+front:
+  art: ~                        # REQUIRED: path to the front cover image.
+                                # Placed scale-to-fill with a CENTER CROP to
+                                # 6.125 x 9.25" -- supply >= 1838x2775px for
+                                # 300ppi, and keep the title clear of the edges.
+  trim_white_strip: false       # true if the export has a white band at the
+                                # bottom that should be cropped so art bleeds
+
+spine:
+  title: ~                      # reads top-to-bottom on a shelved book
+  author: ~
+  title_size: 14
+  author_size: 11
+  # title_offset: 1.5           # inches above the vertical centre
+  # author_offset: 0.55         # inches above the bottom safe line
+
+# Named paragraph styles the back panel blocks refer to.
+# font: regular | italic | bold | bolditalic
+styles:
+  hook:    {font: bolditalic, size: 12,  leading: 16,   color: primary,   align: center, space_after: 14}
+  para:    {font: regular,    size: 10,  leading: 14.5, color: secondary, align: left,   space_after: 9}
+  closing: {font: italic,     size: 9.5, leading: 13.5, color: primary,   align: center, space_before: 6, space_after: 0}
+
+back:
+  frame_gap: 0.28               # clearance above the barcode / author block
+  blocks:                       # flowed top-down; <i> and &#8212; work here
+    - {style: hook, text: "One line that makes someone turn the book over."}
+    - {style: para, text: "The setup paragraph."}
+    - {style: para, text: "What goes wrong."}
+    - {style: closing, text: "The closing positioning line."}
+
+author_block:                   # omit the whole block to leave it off the cover
+  photo: ~                      # optional; square, drawn at photo_size inches
+  name: ~
+  bio: ~
+
+barcode: {enabled: true, width: 1.9, height: 1.1}

@@ -68,6 +68,7 @@ mkdir -p "$DEST"/{research,manuscript/chapters,evaluations/continuity,feedback,d
 [[ -f "$TPL/tools/grammar_check.py" ]]&& cp "$TPL/tools/grammar_check.py" "$DEST/tools/grammar_check.py"
 [[ -f "$TPL/tools/voice_wear_check.py" ]]&& cp "$TPL/tools/voice_wear_check.py" "$DEST/tools/voice_wear_check.py"
 [[ -f "$TPL/delivery/ebook.yaml" ]]     && cp "$TPL/delivery/ebook.yaml" "$DEST/delivery/ebook.yaml"
+[[ -f "$TPL/delivery/cover.yaml" ]]     && cp "$TPL/delivery/cover.yaml" "$DEST/delivery/cover.yaml"
 
 # Fill placeholders.
 sed -i "s|<BOOK TITLE>|$TITLE|g; s|<YYYY-MM-DD>|$TODAY|g; s|books/<slug>|$REL|g" \

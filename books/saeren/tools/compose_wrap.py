@@ -26,6 +26,12 @@ art ever turns up, drop it in as the plain filename and point these back at it.
 
 Output: <book>/delivery/cover/Saeren-Book-<N>-FULL-WRAP-<rev>.pdf (RGB proof).
 Convert to PDF/X-1a with the book's own tools/make_pdfx.sh, passing in/out paths.
+
+⚠ SUPERSEDED by the shared, config-driven tools/compose_wrap.py, which
+  reproduces this script's output pixel-identically from delivery/cover.yaml.
+  Kept because this book's production notes still drive rebuilds through it.
+  Make cover changes in the YAML, not here -- per the UPDATE RULE an edit made
+  in this copy is stranded in one book.
 """
 import os, sys
 from PIL import Image

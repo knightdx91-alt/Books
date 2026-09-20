@@ -22,7 +22,8 @@ and every book uses it — no per-book duplication.
 ├── .claude/            ← the pipeline: 12 book-* agents, /gemini + /grok commands, hooks, pipeline.conf
 ├── docs/               ← the reference documentation (see above)
 ├── tools/              ← shared tools: install.sh + doctor.sh (setup & preflight), new-book.sh /
-│                          new-series.sh, make_epub.py, make_noicc.sh, collect_completed.py,
+│                          new-series.sh, make_epub.py, compose_wrap.py, make_noicc.sh,
+│                          collect_completed.py,
 │                          gemini/grok review scripts + review_context.py, apodictic
 ├── books/
 │   ├── _template/      ← scaffold a new book copies from (NOT a book)
@@ -110,7 +111,8 @@ Run: `bash tools/new-book.sh <slug> "<Book Title>"`
 → creates `books/<slug>/` from `books/_template/`, ready for source material + the
 architect pass. (No new repo, no GitHub step — it's just a folder in this repo.) The new
 folder ships with all three mechanical gates (`style_check.py`, `grammar_check.py`,
-`voice_wear_check.py`) and a `delivery/ebook.yaml` for `tools/make_epub.py`.
+`voice_wear_check.py`), a `delivery/ebook.yaml` for `tools/make_epub.py`, and a
+`delivery/cover.yaml` for `tools/compose_wrap.py` (the print cover wrap).
 
 For a new book **inside an existing series**:
 ```

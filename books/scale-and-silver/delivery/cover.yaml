@@ -1,0 +1,71 @@
+# Cover wrap config for tools/compose_wrap.py
+#   python3 tools/compose_wrap.py books/scale-and-silver
+#
+# The adult line: different pen name, different palette, and CREAM 50# stock --
+# which gives a different spine factor from the Saeren trilogy's white 50#.
+pages: 448                    # interior r2 physical page count
+paper: {stock: cream50}       # IngramSpark cream 50# -> 1.12" spine at 448pp
+isbn: "979-8-1827-2378-7"     # PRINT ISBN -- becomes the EAN-13
+metadata:
+  title: "A Bond of Scale and Silver (cover)"
+  author: "Søren Stromberg"
+output:
+  dir: delivery/production
+  name: A-Bond-of-Scale-and-Silver-wrap-6x9
+  revision_file: REVISION
+trim: {width: 6.0, height: 9.0, bleed: 0.125, safe: 0.375}
+palette: {bg: "#050A11", primary: "#DCE2EC", secondary: "#AEB8C6", accent: "#C9A25A"}
+front:
+  # 2x render of the composited front (art bed + type). Carries a white bottom
+  # strip from the export, cropped so the dark art bleeds off-trim.
+  art: delivery/cover/front-cover-soren-stromberg-2x.png
+  trim_white_strip: true
+spine:
+  title: A BOND OF SCALE AND SILVER
+  author: "Søren Stromberg"
+  title_size: 15
+  author_size: 12
+  title_offset: 1.3
+styles:
+  tag:     {font: bolditalic, size: 13,   leading: 17, color: primary,   align: center, space_after: 16}
+  hook:    {font: italic,     size: 11.5, leading: 16, color: primary,   align: center, space_after: 12}
+  para:    {font: regular,    size: 10.5, leading: 15, color: secondary, align: left,   space_after: 9}
+  closing: {font: italic,     size: 10.5, leading: 15, color: primary,   align: center, space_before: 4, space_after: 12}
+  comps:   {font: bold,       size: 10,   leading: 14, color: accent,    align: center, space_after: 0}
+back:
+  frame_gap: 0.25
+  blocks:
+    - style: tag
+      text: Two hunted things, one road, and a war that ends at a crown neither of them wanted.
+    - style: hook
+      text: She was born to be a secret. The world is about to make her a war.
+    - style: para
+      text: >-
+        Amelia has never been allowed outside. The first vampire born&#8212;not made&#8212;in a
+        thousand years, she is her mother the Queen&#8217;s cherished, forbidden secret: a girl
+        with blood magyk that should not exist, kept behind a bolt because her very existence
+        could shatter the treaty that holds three peoples apart. She wants one thing the world
+        will never grant her&#8212;to be seen.
+    - style: para
+      text: Then a grief-poisoned schemer unveils her before both courts, and the war begins.
+    - style: para
+      text: >-
+        On the run at last, Amelia crosses paths with Korvan, the shifter chief&#8217;s outcast
+        son&#8212;a late shifter whose first change makes him the one creature more hunted than
+        she is: a dragon out of dead legend, a clan of one. Thrown together on a brutal road with
+        the war closing behind them, two exiles learn each other. But the bond they choose is not
+        fated, and being finally seen will cost Amelia everything she loves.
+    - style: closing
+      text: >-
+        A dark, adult romantasy of dangerous devotion, chosen love, and the terrible price of the truth.
+    - style: comps
+      text: For readers of Carissa Broadbent, Danielle L. Jensen, and Anne Bishop.
+author_block:
+  # NOTE: same face as the Post Peleos covers, which ties the two pen names
+  # together in public. Point at a different file or drop the key to separate them.
+  photo: ../_assets/author-photo.jpg
+  name: "SØREN STROMBERG"
+  bio: >-
+    S&#248;ren Stromberg writes adult fantasy romance &#8212; dangerous
+    devotion, chosen bonds, and the price of finally being seen.
+barcode: {width: 2.0, height: 1.2, pad_x: 0.14, pad_y: 0.13}

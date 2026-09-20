@@ -1,0 +1,54 @@
+# Cover wrap config for tools/compose_wrap.py
+#   python3 tools/compose_wrap.py books/saeren/saeren-chronicles-book-3
+pages: 324                    # interior r8 physical page count
+paper: {stock: white50}
+isbn: "979-8-1827-2380-0"     # PRINT ISBN -- becomes the EAN-13
+metadata:
+  title: "The Saeren Chronicles - Book Three: The Weight Of The Source (cover)"
+  author: Post Peleos
+output: {dir: delivery/cover, name: Saeren-Book-Three-FULL-WRAP, revision_file: REVISION}
+trim: {width: 6.0, height: 9.0, bleed: 0.125, safe: 0.375}
+palette: {bg: "#0A0A0C", primary: "#DCE2EC", secondary: "#AEB8C6", accent: "#C9A25A"}
+front:
+  art: delivery/cover/the-weight-of-the-source-front-cover-eclipse-print.png
+spine: {title: THE WEIGHT OF THE SOURCE, author: Post Peleos, title_size: 14, author_size: 11}
+styles:
+  series:  {font: regular,    size: 8.5, leading: 13,   color: secondary, align: center, space_after: 2}
+  booknum: {font: regular,    size: 7.5, leading: 11,   color: secondary, align: center, space_after: 16}
+  hook:    {font: bolditalic, size: 12,  leading: 16,   color: primary,   align: center, space_after: 14}
+  para:    {font: regular,    size: 10,  leading: 14.5, color: secondary, align: left,   space_after: 9}
+  closing: {font: italic,     size: 9.5, leading: 13.5, color: primary,   align: center, space_before: 6, space_after: 0}
+back:
+  blocks:
+    - {style: series,  text: THE SAEREN CHRONICLES}
+    - {style: booknum, text: BOOK THREE}
+    - style: hook
+      text: She put the world back together. Now she has to carry it.
+    - style: para
+      text: >-
+        Months after the severing was mended, the old order is ash and every living soul
+        carries both halves of the gift &#8212; and Viridia feels all of them. She is the
+        source now: the still point a remade world turns on, and the one person who cannot
+        put it down.
+    - style: para
+      text: >-
+        Then the portals begin to open, and the things that come through do not attack.
+        They come toward her. Whatever is loose in the world is being pulled to the source
+        &#8212; and the source is a girl who has already spent almost everything she had.
+    - style: para
+      text: >-
+        In saving her world she made the thing that will unmake it. What she does with
+        that power &#8212; and what she refuses to become to use it &#8212; is the last
+        question the Saeren Chronicles will ask of her.
+    - style: closing
+      text: >-
+        The conclusion of <i>The Saeren Chronicles</i> &#8212; a fantasy about power
+        held without cruelty, the people who keep you human, and the weight of being
+        what everyone else needs.
+author_block:
+  photo: ../../_assets/author-photo.jpg
+  name: POST PELEOS
+  bio: >-
+    Post Peleos writes character-driven fantasy about quiet people in loud
+    worlds. <i>The Saeren Chronicles</i> is his debut series.
+barcode: {width: 1.9, height: 1.1}
