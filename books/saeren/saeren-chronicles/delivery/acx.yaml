@@ -1,0 +1,76 @@
+# ACX / Audible audiobook cover -- read by tools/make_acx_cover.py
+#
+#   python3 tools/make_acx_cover.py books/saeren/saeren-chronicles
+#
+# The print cover is 6x9 portrait; ACX wants a square. Cropping to square would
+# cut the byline off the bottom, and ACX requires the author name on the cover,
+# so the elements are lifted from the print art and re-laid out here. Boxes are
+# pixel coordinates in source_art, measured from its own rendered artwork -- so
+# the audiobook cover carries the identical typeface and colour as the print and
+# ebook editions.
+
+size: 2400                      # ACX minimum; square is enforced by the builder
+
+source_art: delivery/cover/hazel-academy-front-cover-PUBLISHED-pendant-print.png
+
+text:                           # what must be legible on the cover, for the check
+  title: Hazel Academy
+  author: Post Peleos
+
+background:
+  # A type-free band of the print art (between the pendant's shadow and the
+  # title), stretched to the square. The art's grain runs vertically, so this
+  # reads as the same material rather than a flat fill.
+  patch: [8, 1800, 2444, 2105]
+  gradient:                     # the print cover darkens toward the foot
+    top: "#040B12"
+    bottom: "#00020A"
+    strength: 0.45
+
+elements:
+  # Masthead + chain, down to just above the gem. Lifted as EMISSION (add), which
+  # is right for type and the lit chain: the crop's own background is subtracted,
+  # so no rectangle comes across with it.
+  - name: masthead
+    box: [380, 200, 2130, 1190]
+    width: 1480
+    y: 120
+    feather: 30
+
+  # The pendant is the exception. Its body is DARKER than the background it sits
+  # on, so subtracting that background erases the gem and leaves the flame
+  # hanging in space. It is placed whole instead, with a wide feather to blend.
+  # Its box, width and position are set so the chain continues the masthead's at
+  # exactly the same scale (0.846) -- change one and you must change both.
+  - name: pendant
+    box: [1080, 1150, 1430, 1770]
+    width: 296
+    x: 1052
+    y: 923
+    mode: replace
+    feather: 44
+
+  # "HAZEL ACADEMY", both lines, lifted together to keep their leading.
+  - name: title
+    box: [440, 2090, 2060, 2700]
+    width: 1540
+    y: 1470
+    feather: 20
+
+  - name: rule
+    box: [1010, 2870, 1485, 2920]
+    width: 430
+    y: 2110
+    feather: 12
+
+  - name: byline
+    box: [790, 3115, 1710, 3235]
+    width: 1040
+    y: 2180
+    feather: 16
+
+output:
+  dir: delivery/cover
+  name: acx-cover-book1-hazel-academy
+  format: jpg
+  quality: 92

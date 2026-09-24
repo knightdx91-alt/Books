@@ -119,6 +119,62 @@ Both factors were verified against books this pipeline has had accepted and prin
 Verified by rebuilding every shipped wrap from config — each renders **pixel-identical**
 to the PDF that was accepted, across both paper stocks.
 
+## Audiobook — the ACX cover
+
+ACX wants a **square** cover, and a print cover is portrait. Centre-cropping one to
+square cuts off the top and bottom, which is where the series line and the byline
+usually sit — and ACX **requires the author name on the cover**, so that crop fails
+review. The builder recomposes instead:
+
+```bash
+python3 tools/make_acx_cover.py books/<slug> --measure   # find the element boxes
+python3 tools/make_acx_cover.py books/<slug>             # build the cover
+```
+
+`--measure` scans the art for bright elements and prints their bounding boxes (and
+warns about bright edge artifacts, which otherwise drag every box out to the edge).
+Those boxes go in `books/<slug>/delivery/acx.yaml`; the builder lifts each element
+from the print art and re-lays them out on the square. Lifting the **rendered
+pixels** rather than re-typesetting means the audiobook cover carries the identical
+typeface, weight, letterspacing and colour as the print and ebook editions, with no
+font to identify or licence.
+
+Three compositing modes, because light-on-dark art does not lift uniformly:
+
+| mode | what it does | use for |
+|---|---|---|
+| `add` (default) | subtracts the element's own background, adds the rest | type, rules, anything lit |
+| `replace` | places the element whole | a focal object **darker** than its surroundings |
+| `lighten` | keeps the brighter of the two | simple highlights |
+
+`add` is what stops a lifted rectangle showing its edges — a plain lighten carries
+the crop's background across, and since print art is vignetted that background
+differs from the canvas and the box becomes visible. But `add` **erases** anything
+darker than its surroundings, so a dark focal object (a black gem, a silhouette)
+needs `replace`.
+
+### What ACX enforces
+
+Checked automatically on every build:
+
+| requirement | |
+|---|---|
+| square 1:1 | minimum 2400 × 2400 px |
+| JPG / PNG / TIF | RGB, not CMYK |
+| at least 72 dpi | at least 24-bit |
+| 8 MB maximum | title and author on the cover |
+
+ACX also rejects pixelated or blurry text, Audible logos, watermarks or third-party
+images, references to physical media, other retailers or websites, runtime or
+pricing, barcodes and QR codes — and **book jacket designs**. So the print wrap is
+never a valid audiobook cover: it would fail as a jacket design and again on its
+EAN-13 barcode.
+
+Every build also writes `_acx-thumbnail-check.jpg`, the cover at Audible's display
+sizes (500 / 300 / 200 / 100 px). The 100px one is the browse grid — if the title
+and author stop reading there, the cover is not finished, and that is a judgement
+no check can make for you.
+
 ### The EPUB
 
 ```bash

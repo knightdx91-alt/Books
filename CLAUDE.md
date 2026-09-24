@@ -22,7 +22,8 @@ and every book uses it — no per-book duplication.
 ├── .claude/            ← the pipeline: 12 book-* agents, /gemini + /grok commands, hooks, pipeline.conf
 ├── docs/               ← the reference documentation (see above)
 ├── tools/              ← shared tools: install.sh + doctor.sh (setup & preflight), new-book.sh /
-│                          new-series.sh, make_epub.py, compose_wrap.py, make_noicc.sh,
+│                          new-series.sh, make_epub.py, compose_wrap.py, make_acx_cover.py,
+│                          make_noicc.sh,
 │                          collect_completed.py,
 │                          gemini/grok review scripts + review_context.py, apodictic
 ├── books/

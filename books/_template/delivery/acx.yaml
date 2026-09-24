@@ -1,0 +1,70 @@
+# ACX / Audible audiobook cover -- read by tools/make_acx_cover.py
+#
+#   python3 tools/make_acx_cover.py books/<slug> --measure   <- find the boxes
+#   python3 tools/make_acx_cover.py books/<slug>             <- build the cover
+#
+# ACX wants a SQUARE cover and requires the TITLE and AUTHOR NAME on it. A print
+# cover is portrait, and centre-cropping it to square cuts off the top and bottom
+# -- which is usually exactly where the series line and the byline live. So this
+# does not crop: it lifts the already-rendered elements out of the print art and
+# re-lays them out square. The audiobook cover then carries the identical
+# typeface and colour as the print and ebook editions, with no font to match.
+#
+# ⚠ Never upload the print WRAP. ACX rejects book jacket designs outright, and
+#   the wrap's EAN-13 barcode is separately prohibited.
+
+size: 2400                      # ACX minimum; the builder enforces square
+
+source_art: delivery/cover/<front-cover-art>.png
+
+text:                           # what must be legible; checked, and reported
+  title: ~
+  author: ~
+
+background:
+  # A TYPE-FREE band of the art, stretched to the square, so the cover keeps the
+  # art's own grain instead of a flat fill. Pick a band with nothing in it --
+  # --measure shows you where the elements are, so pick a gap between them.
+  # Leave room: a soft shadow reaches further than its bright band suggests.
+  patch: [0, 0, 100, 100]
+  gradient:                     # optional; most dark covers darken toward the foot
+    top: "#0A0A0C"
+    bottom: "#000000"
+    strength: 0.45
+
+# Run --measure, then pad the boxes it prints. Elements are drawn in order.
+#
+#   mode: add      (default) treat the element as light on a dark field: its own
+#                  background is subtracted, so no rectangle comes with it. Right
+#                  for type, rules and anything lit.
+#   mode: replace  place the element whole. Use it for a focal object DARKER than
+#                  its surroundings, which `add` would erase.
+#   mode: lighten  keep the brighter of element and canvas.
+#
+# width sets the scale. Give `x` only to override horizontal centring -- two
+# elements that must line up (a chain and the thing it holds) need the same
+# scale and explicit positions.
+elements:
+  - name: masthead
+    box: [0, 0, 100, 100]
+    width: 1480
+    y: 120
+    feather: 30
+
+  - name: title
+    box: [0, 0, 100, 100]
+    width: 1540
+    y: 1470
+    feather: 20
+
+  - name: byline
+    box: [0, 0, 100, 100]
+    width: 1040
+    y: 2180
+    feather: 16
+
+output:
+  dir: delivery/cover
+  name: acx-cover
+  format: jpg                   # jpg, png or tif
+  quality: 92
