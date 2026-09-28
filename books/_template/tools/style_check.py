@@ -34,6 +34,24 @@ SIMILE_MARKERS = re.compile(r"\b(like|as if|as though)\b", re.I)
 ADVERB = re.compile(r"\b\w+ly\b", re.I)
 WORD = re.compile(r"[a-z']+", re.I)
 
+# FORESHADOWING / narratorial foreknowledge-intrusion — a retrospective narrator reaching
+# FORWARD to spoil an unreached outcome. It is an AI-ish tell and some authors ban it outright
+# (e.g. The Hour of Ash, author ruling 2026-09-28: book-wide target 0). Reported informationally
+# by default; a book enforces it hard with --max-foreshadow 0 (or N). These patterns aim at the
+# forward-gesture constructions and try to avoid ordinary past-facing reflection.
+FORESHADOW_PATTERNS = [
+    r"\b(?:i|we|she|he|they)\s+(?:did|does)\s*n[o']?t\s+(?:yet\s+)?know\b",
+    r"\blittle\s+did\s+(?:i|we|she|he|they)\s+know\b",
+    r"\b(?:i|we|she|he|they)\s+would\s+(?:soon\s+|later\s+|only\s+later\s+|one\s+day\s+|come\s+to\s+|learn|discover|understand|realise|realize|find\s+out|know|never)\b",
+    r"\bwould\s+(?:later\s+)?(?:prove|turn\s+out|become|come\s+to\s+be)\b",
+    r"\bas\s+(?:i|we|she|he|they)\s+would\s+(?:later\s+)?(?:learn|discover|come\s+to)\b",
+    r"\bthe\s+last\s+\w+\s+(?:i|we|she|he|they)\s+would\b",
+    r"\bfor\s+the\s+last\s+time\b",
+    r"\b(?:in|over)\s+(?:all\s+)?the\s+years\s+(?:since|that\s+followed|to\s+come|after)\b",
+    r"\bthe\s+(?:man|woman|girl|boy|day|night|word|moment)\s+(?:who|that)\s+would\b",
+]
+FORESHADOW_RE = [re.compile(p, re.I) for p in FORESHADOW_PATTERNS]
+
 # Deliberate recurring motifs / canon terminology — NOT accidental reuse.
 # Deliberate recurring motifs / canon terms — a CAPPED registry, not an exemption.
 # An allowlisted phrase is ignored by the generic n-gram repeat check, BUT it is still
@@ -94,6 +112,10 @@ def scan():
     ap.add_argument("--motif-cap", type=int, default=MOTIF_CAP_DEFAULT,
                     help="book-wide occurrence cap for any ALLOWLIST motif (author rule: "
                          "no signature tic-phrase recurs more than this; per-entry (phrase,N) overrides)")
+    ap.add_argument("--max-foreshadow", type=int, default=-1,
+                    help="per-book cap on narratorial FORESHADOWING / foreknowledge intrusions "
+                         "('I would learn', 'the last time I would', etc). -1 = informational only "
+                         "(never fails); set 0 to ban them outright, N to allow N.")
     args = ap.parse_args()
     motif_caps = _motif_caps(args.motif_cap)
 
@@ -109,6 +131,7 @@ def scan():
     phrase_chapters = defaultdict(set)   # ngram -> {chapter numbers}
     phrase_counts = Counter()
     motif_book_counts = Counter()        # motif phrase -> book-wide raw occurrences
+    foreshadow_hits = []                  # (chapter, matched snippet)
     motif_chapters = defaultdict(set)    # motif phrase -> {chapter numbers it appears in}
 
     print("=" * 70)
@@ -141,6 +164,11 @@ def scan():
             if c:
                 motif_book_counts[phrase] += c
                 motif_chapters[phrase].add(n)
+        for frx in FORESHADOW_RE:
+            for m in frx.finditer(text):
+                a, b = max(0, m.start()-20), min(len(text), m.end()+20)
+                snip = " ".join(text[a:b].split())
+                foreshadow_hits.append((n, snip))
         theway = len(re.findall(r"\bthe (?:same )?way\b", low))
         if theway > args.max_theway:
             flags.append(f"THE-WAY ×{theway}/chapter > {args.max_theway} (pipeline fingerprint)"); problems += 1
@@ -222,6 +250,23 @@ def scan():
                 problems += 1
         else:
             print("  all motifs within cap (clean)")
+
+    # --- FORESHADOWING scan (narratorial foreknowledge intrusion) --------------------
+    fc = len(foreshadow_hits)
+    label = "informational" if args.max_foreshadow < 0 else f"cap {args.max_foreshadow}"
+    print("\n" + "=" * 70)
+    print(f"FORESHADOWING / foreknowledge intrusions (book-wide: {fc}; {label})")
+    print("=" * 70)
+    if fc:
+        for ch, snip in foreshadow_hits[:40]:
+            print(f"  Ch{ch}: …{snip}…")
+        if fc > 40:
+            print(f"  … and {fc-40} more")
+    else:
+        print("  none found")
+    if args.max_foreshadow >= 0 and fc > args.max_foreshadow:
+        print(f"  OVER: {fc} > {args.max_foreshadow} (foreshadowing banned/limited for this book)")
+        problems += 1
 
     print("\n" + "=" * 70)
     print(f"RESULT: {problems} issue(s) flagged." if problems else "RESULT: clean.")

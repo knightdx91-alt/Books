@@ -11,20 +11,44 @@
 **First-person, past tense, RETROSPECTIVE** — older Mara narrating. Justification:
 1. It is the **Outlander register** the author named (Gabaldon = first-person past, Claire's
    wry modern intelligence inside the period).
-2. Retrospection is the book's **suspense engine**: the narrator knows the volcano comes, so
-   dread can bleed backward ("I did not know yet that…") — the reader feels the catastrophe
-   before the character, which is the entire point of setting a love story at Pompeii.
+2. **The suspense engine is PRESENT-TENSE, in-the-moment — NOT narratorial foreknowledge
+   (author ruling 2026-09-28).** The reader already knows Pompeii's fate from history; that
+   dramatic irony belongs to the *setting and the reader*, and it does its work without the
+   narrator spoiling anything. Mara narrates from after the fact but **does NOT reach forward
+   to tell us what's coming.** The dread is built by what the character feels and fears in the
+   scene, and by the reader's own knowledge of where a love story at Pompeii must end — never
+   by "I did not know yet that…" / "I would learn, too late…" / "for the last time." Those
+   moves are BANNED (see §4 and the NO-FORESHADOWING rule below).
 3. Single-POV keeps the time-door's rules honest (we only know what Mara knows; Fenn's
    inserts carry what she can't see).
 
 **NARRATOR CONCEIT — RECONCILED (author-fixed: she dies; NO modern coda).** Because Mara stays
 and dies in the ash and the book ends in 79 AD, the retrospective vantage is NOT a future survivor
 looking back. It is the voice of a woman who has lived the whole nine years and is telling it from
-*inside* the ending — the foreknowledge ("I would learn, too late…") is lived memory, not a
-20th-century deathbed. Read it as her account given in the long dark of the last shelter (Ch.34–35),
-the whole life passing before her in the hours before the surge. The "thirty years" register
-becomes "the years I had," not "the years since." **NO POV shift, NO modern frame, NO close-third
-coda.** Stay in Mara's first-person voice from Ch.1 through the final line in the ash.
+*inside* the ending. **She tells it in order, as it was lived — she does not spoil her own story.**
+The retrospective vantage buys the narrator's *earned wisdom and PAST-facing reflection* ("prayer,
+the closest thing I have to a religion, and like most religions it has mostly cost me"), NOT
+future-spoiling. Read it as her account given in the long dark of the last shelter (Ch.34–35), the
+whole life passing before her — but each moment is narrated as it was met, with the future closed.
+The "thirty years" register becomes "the years I had," never "the years since [I survived X]."
+**NO POV shift, NO modern frame, NO close-third coda.** Stay in Mara's first-person voice from Ch.1
+through the final line in the ash.
+
+**★ NO-FORESHADOWING RULE (author-fixed 2026-09-28 — HARD, near-zero).** Do NOT let the narrator
+gesture forward to any unreached outcome. BANNED subclass:
+- **Foreknowledge intrusion:** "I did not know yet that…", "I would learn (too late) that…",
+  "which I would come to…", "as I would discover", "little did I know", "it would prove".
+- **Significance-tagging by future loss:** "the last time I would…", "the last [X] I would be
+  given", "I would never [do this] again".
+- **Survival/outcome implication:** "in all the years since", "I have [done X] since" when it
+  reveals she lives past an unreached event or reveals that event's result.
+KEEP (these are NOT foreshadowing): past-facing reflection and timeless character-voice asides
+that do not reveal a future plot outcome; present-scene dread the character actually feels; the
+reader's own historical knowledge of Vesuvius (carried by period detail, not narrator hints).
+When a moment needs weight, let an OBJECT, a GESTURE, or the present sensation carry it — never a
+line that tells the reader what the future holds. **Book-wide target: 0.** The style gate and the
+evaluator enforce this; the old "≤2 rationed foreknowledge intrusions per chapter" budget is
+REVOKED.
 
 ---
 
@@ -41,8 +65,8 @@ coda.** Stay in Mara's first-person voice from Ch.1 through the final line in th
 - **Humor:** Dry, subtle, defensive — Mara's coping. Vanishes entirely under real fear.
 - **Emotional register:** Open but earned; restraint is default so the breaks land.
 - **Distinctive features:**
-  - Retrospective foreknowledge intrusions ("I would learn, far too late, that…") — rationed,
-    one or two per chapter MAX, never in action scenes.
+  - **NO foreknowledge intrusions (banned — see §0 NO-FORESHADOWING RULE).** The narrator never
+    reaches forward. Weight is carried by present sensation, an object, or a gesture instead.
   - The conservator's eye: she sees the ancient world as both miracle and artifact; describes
     living things with a cataloguer's precision when calm.
   - Anachronism only as *owned interiority* (her private comparisons), never in narration of
@@ -80,7 +104,8 @@ artifacts, because naming them as people would end her. **The prose strips to in
   fragments when afraid. Classifies under stress.
 - **Rhythm:** Statements that turn into questions; self-correcting clauses ("It was bronze. It
   was older than bronze should be.").
-- **Verbal tics:** Naming materials/conditions; the bread-opinion; "I would learn" foreknowledge.
+- **Verbal tics:** Naming materials/conditions; the bread-opinion. (NOT foreknowledge — the
+  "I would learn" move is BANNED, see §0.)
 - **Never says:** Sentimental abstractions about love ("my soul," "completed me"); she shows, deflects.
 - **Sample line:** "Severe oxidation, a cracked guard, and a man who had clearly killed with it
   recently. I catalogued him the way I catalogued everything I was afraid of."
@@ -154,7 +179,7 @@ for Fenn and Kallia. Cover-the-name test passes.
 - **Metacognitive narration ("she realized she was realizing"):** 0 — banned.
 - **Emotional-temperature reports ("a wave of X washed over her"):** ≤ 1 per chapter; prefer the
   object (glasses, knot, dropped bowl, the *click*).
-- **Retrospective foreknowledge intrusions:** ≤ 2 per chapter; 0 in action scenes.
+- **Retrospective foreknowledge intrusions:** BANNED — book-wide target 0 (see §0 NO-FORESHADOWING RULE). Enforced by the style gate + evaluator.
 - **Allowlist (deliberate motifs — do NOT flag as repeated phrases):** "the one it brought,"
   the *click* of folded glasses, the bread starter. (Add these to
   tools/style_check.py ALLOWLIST before drafting.)
@@ -192,7 +217,7 @@ clinical, never purple.
 ## 6. BENCHMARK SAMPLES (for the voice bank — to be drafted by Writer/architect dispatch)
 Canonical targets every downstream agent measures against:
 1. **`sample-01-controlled.md`** — Mara cataloguing the antique map in calm wonder (Ch.2 register):
-   long spiraling sensory sentences, modern dry idiom, one rationed foreknowledge intrusion.
+   long spiraling sensory sentences, modern dry idiom, NO foreknowledge intrusion (banned, §0).
 2. **`sample-02-breaking.md`** — Mara at the door (Ch.36 register): procedural-flat, short
    declaratives, nouns, the *click* intruding — the voice deflating under maximum pressure.
 3. **`sample-03-irrelevant-thought.md`** — Mara thinking about bread hydration at her own wedding
@@ -240,8 +265,10 @@ These are the numbers the book's Outlander register is calibrated TO. Treat as t
    striped silk waistcoat fitted him like a second skin," the thieves'-hole stench catalogued by a
    frightened woman. Matches the authenticity dial (~8 sensory). Every scene grounds in one or two
    *specific* period materials, never generic "ancient" atmosphere.
-5. **First-person foreknowledge + present control under threat.** Claire narrates peril with her
-   observing intelligence intact ("torn between exultation and panic," still reading the room). NOTE
+5. **First-person present control under threat (NOT foreknowledge).** Claire narrates peril with her
+   observing intelligence intact ("torn between exultation and panic," still reading the room) — this
+   is *in-the-moment* observation, which we KEEP. We do NOT borrow Gabaldon's forward-spoiling
+   ("I would learn…"); that move is banned here (§0). NOTE
    A DELIBERATE DIVERGENCE: our book pushes FURTHER than Gabaldon under maximum pressure — Mara's
    voice *deflates to procedural inventory* (§1 Voice Under Pressure), where Claire stays sensory.
    That flatter terror is a chosen departure from the comp, not a miss — hold it at the climax

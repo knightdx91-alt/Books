@@ -92,6 +92,17 @@ Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
 
 ## Status (update as you go)
 
+> ### ⛔ AUTHOR RULING 2026-09-28 — NO FORESHADOWING (read before drafting/editing anything)
+> The narrator must NOT reach forward to spoil the story. Near-zero, book-wide target 0.
+> BANNED: "I did not know yet that…", "I would learn/come to (too late)…", "it would prove…",
+> "the last time I would…", "the last [X] I would be given", "in the years since [survived X]",
+> "the man who would become…". KEEP past-facing reflection + present-scene dread; the reader's
+> own historical knowledge of Vesuvius carries the tragedy, not narrator hints. The old "≤2
+> retrospective significance-tags/chapter" budget is REVOKED. Full rule: voice-dna.md §0
+> NO-FORESHADOWING RULE + STATE.yaml guardrails. (A de-foreshadow sweep of Ch.1-10 was run
+> 2026-09-28.) **Also note: real resume point is Ch.11, not Ch.9 — the block below is stale;
+> trust STATE.yaml + feedback/progress.md.**
+>
 > ### ▶ NEXT SESSION — START HERE: draft Chapter 9 (Movement II)
 > **Ch.1-8 all FINAL, all Floor 8.5 PASS.** Ch.8 "Earning the Yes" (2026-07-14): 7,923w,
 > **Floor 8.5 / Avg 8.61 / Casual 8.7 / CVI-Launch 8.9**. Competence-as-courtship; Mara reads a
