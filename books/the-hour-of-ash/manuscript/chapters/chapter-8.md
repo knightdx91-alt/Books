@@ -30,11 +30,11 @@ I understood that he was, in his sideways graceless way, giving me exactly the t
 
 ---
 
-I mucked out. I want it set down that the first thing I ever did for the man I would marry was shovel the leavings of a dozen mules into a squared heap to a standard he did not have to explain to me because I had read it off the corners of the heap before I picked up the fork.
+I mucked out. I want it set down that the first thing I ever did for him was shovel the leavings of a dozen mules into a squared heap to a standard he did not have to explain to me because I had read it off the corners of the heap before I picked up the fork.
 
 I was not good at it and I did not pretend to be. My hands, which had gone from a conservator's soft steadiness to Kallia's calluses over a winter, found a fresh set of complaints. A blister came up on the pad below my thumb by the second load; it filled, and it broke on the third, and I forked on with the raw of it printing wet against the handle, because minding it where he could see was not a thing I was willing to do. But I was fast, and I was tidy, and tidiness was a language he spoke; I saw him clock the squared corners of my heap without appearing to look at anything but the horse he was gentling, and I saw him decide not to remark on it, which from him was a paragraph.
 
-The smell of the place got into me those first days and never left. Dung and warm hide and the sweetish rot of old hay and the clean bite of neat's-foot oil off the harness under the eaves; I have smelled it since in other yards in other countries and been ambushed by it every time, put down in the churned mud below Delphi with my heart doing something I would not name. I loved it before I loved him and I have never told him so, because to say *I loved the smell of your muck-heap first* is not a thing a woman says to a man, though it is truer than most of what she does say.
+The smell of the place got into me those first days and never left. Dung and warm hide and the sweetish rot of old hay and the clean bite of neat's-foot oil off the harness under the eaves; I have smelled it since in other yards in other countries and been ambushed by it every time, put down in the churned mud below Delphi with my heart doing something I would not name. I loved that smell from the first, and I have never said so out loud, because to tell a man you loved the smell of his muck-heap is not a thing a woman says, though it is truer than most of what she does say.
 
 We worked near each other and did not talk much, and the not-talking was its own conversation. He gave me tasks the way another man might have made small talk, testing what I could do by handing me the doing of it. Water the string. Sort the harness that's for mending from the harness that's for the tip. Hold this. He said *hold this* to me on the second morning, a young horse's headstall while he worked a knot out of its mane with those enormous careful fingers, and the horse leaned its whole warm weight into my chest and blew, and I stood there holding a Roman horse in a Greek valley nineteen hundred years from anyone who had ever loved me, and I laughed, out loud, at nothing, the cracked involuntary laugh that comes up in me at the wrong moments and has never once asked my permission.
 
@@ -50,7 +50,7 @@ The boy watched all of this with the frank suspicion of the young. He was called
 
 ---
 
-Drusus came up on the fifth day, ahead of his consignment, on a mule that was too good for him and a temper that was too loud for the hour, and I heard him before I saw him, which I would learn was the whole of the man.
+Drusus came up on the fifth day, ahead of his consignment, on a mule that was too good for him and a temper that was too loud for the hour, and I heard him before I saw him, which was the whole of the man.
 
 "Valens! *Valens.* Tell me you've wine that isn't vinegar, tell me you've something a Roman can drink without weeping for the Republic, I've come up a road that's cost me a shoe off this beast and a half-day I'll never bill anyone for, and if you offer me that resined Greek pitch you keep for the goatherds I'll take my factor to Timarchos and you can run your mules to the sea empty." He swung down, a soft heavy man gone prematurely jowled, in a tunic with a stripe of dye at the hem that cost more than the mule and a great deal more than he had, and he saw me, and stopped, and his whole face did a swift sum. "Ah. And who's the expense."
 
@@ -74,7 +74,7 @@ I did not go still where he could read it. I had learned that much.
 
 ---
 
-The consignment came up the next morning, and with it the thing I had crossed a winter to be good for, though I did not know yet that it would be the making of me in that yard.
+The consignment came up the next morning, and with it the thing I had crossed a winter to be good for.
 
 It was wool, chiefly, forty-odd bales of it graded and pressed, and the clerk had set up his board on two trestles under the eaves, out of the sun, the factor's manifest weighted flat under a river stone and a steelyard hung from the roof-beam beside it. He watched me come with the exact watchful discourtesy Drusus had promised, a narrow young man with ink-stained fingers who did not offer me the stool. I took it anyway. This part I could do in my sleep. A tally is a tally; you count, you weigh where weighing's called for, you mark, you reconcile the marks against the writing.
 
@@ -134,7 +134,7 @@ Valens went to the dark mule. He lifted its tail. He looked at its eye, which ev
 
 "Ginger," he said. "And something else. He'll be lame by dark." He looked down the line of the string, all of it, the whole cheap clever fraud of it that Drusus had walked past sound-trotting animals and bought with his eyes and never once thought to distrust, and he said a short thing in Latin that I did not need Latin to translate.
 
-Drusus had gone the colour of the wine he'd complained about. "How much," he said, which I would come to understand was the man praying. "How much of it's sound. How much have I lost. Valens, put a figure on it, I can't... if it's the string, if the whole string's copered, that's..." and he named a sum, and named the interest on the sum, and named the man the interest was owed to, a name that meant nothing to me then and would mean a great deal later, and he named it the way you'd flinch from a hot pan, fast, and then he was pricing his own ruin aloud on the sun-bench because pricing it was the only way he had ever found to hold it far enough from himself to keep breathing. "Grief I can manage. Grief's cheap. It's the *carrying charge* on grief that ruins a man, it's the compound on it, it's the man you owe it to..."
+Drusus had gone the colour of the wine he'd complained about. "How much," he said, which was the man praying. "How much of it's sound. How much have I lost. Valens, put a figure on it, I can't... if it's the string, if the whole string's copered, that's..." and he named a sum, and named the interest on the sum, and named the man the interest was owed to, a name that meant nothing to me then, and he named it the way you'd flinch from a hot pan, fast, and then he was pricing his own ruin aloud on the sun-bench because pricing it was the only way he had ever found to hold it far enough from himself to keep breathing. "Grief I can manage. Grief's cheap. It's the *carrying charge* on grief that ruins a man, it's the compound on it, it's the man you owe it to..."
 
 "Drusus," Valens said.
 
@@ -200,7 +200,7 @@ Valens stood in the yard a while after the sound of the mule was gone. His hands
 
 "A household in the south. An old debt." He rolled the lead-rope up, slow, methodical, a task where there was no task, and set it on its peg. "Settling old debts. That's a kind way to say a thing." He looked up the empty valley where the man had gone. "He'll not be the last. That's the trouble with being the only steady clerk on the mountain; word travels, and word doesn't care who's listening for it." He turned and looked at me, and there was something bleak and level in it. "You want to be gone from here before words like that turn into men like that. So do I. It's the one thing you and I have wanted the same since you walked into my yard."
 
-I did not tell him what I was thinking, which was that the man had asked *would that be you* about a fighting name, and that Drusus that first day had priced his own ruin aloud and named a creditor and never once thought about who might be listening to a loud soft man name his debts up and down a valley. I kept it back because I did not yet know it mattered, and because his hands had only just gone still, and because there are things you do not hand a man in the first hour of his fear. I filed it. I have a great capacity for filing.
+I did not tell him what I was thinking, which was that the man had asked *would that be you* about a fighting name, and that Drusus that first day had priced his own ruin aloud and named a creditor and never once thought about who might be listening to a loud soft man name his debts up and down a valley. I kept it back because it seemed to matter to no one just then, least of all me, and because his hands had only just gone still, and because there are things you do not hand a man in the first hour of his fear. I filed it. I have a great capacity for filing.
 
 ---
 
@@ -232,7 +232,7 @@ He was quiet a long time. The light went from the poplars and left them grey.
 
 "Good," he said. "Because it isn't one."
 
-It was, of course. It was the largest thing, and he built it out of four beasts and a rival who watered his oats so that I could not thank him for it, and I did not thank him for it, and we stood at the rail in the last of the light not thanking each other, which was, I know now, the truest conversation the two of us ever had, and we had a great many after, in the years we were given.
+It was, of course. It was the largest thing, and he built it out of four beasts and a rival who watered his oats so that I could not thank him for it, and I did not thank him for it, and we stood at the rail in the last of the light not thanking each other, which was, I know now, as true a conversation as the two of us ever had.
 
 ---
 

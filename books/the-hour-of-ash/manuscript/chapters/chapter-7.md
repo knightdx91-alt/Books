@@ -1,8 +1,8 @@
 # Chapter 7 — The Roman With the Mules
 
-The first time I met the man I would spend my life with, he told me to get off his land, and he did not look up from the harness he was mending to do it.
+The first time I met Valens, he told me to get off his land, and he did not look up from the harness he was mending to do it.
 
-I have gone back to that morning more times than I can count, in the years since, turning it over the way I once turned a corroded fitting under the lamp to find the maker's mark. I was looking, I think, for the moment the door opened. There wasn't one. That is the joke of it: the door I had crossed the world to find had made a great deal of noise, and this one, the one that mattered, opened on a man saying no to me across a mule-yard, and I walked toward it thinking it was a wall.
+I have gone back to that morning more times than I can count, turning it over the way I once turned a corroded fitting under the lamp to find the maker's mark. I was looking, I think, for the moment the door opened. There wasn't one. That is the joke of it: the door I had crossed the world to find had made a great deal of noise, and this one, the one I did not recognize, opened on a man saying no to me across a mule-yard, and I walked toward it thinking it was a wall.
 
 But I am ahead of myself, and I owe the morning its order, because the order is the point. Before there was a man to say no, there was the wall I walked into that taught me I would need him; and before the wall, there was the fool I still was, who thought that coin and competence were enough to buy a road in that world, as they had been in mine.
 
@@ -154,7 +154,7 @@ He looked at me a while longer. Then he laid the harness aside and stood, and st
 
 "The fair's not safe and you know it," I said. "You just told me to hide in a crowd, that's not safe, that's *survivable*, those aren't the same word, I've had a whole winter of the difference. I'm not asking you to run me. I'm asking to buy a place on a string you're already running, one paying rider among however many, with the most respectable company on the mountain, which everyone from here to the coast says is yours. That's not doing me a favour. That's a fare."
 
-"It's a fare that ends with a body found in the poppies below Kirrha and a road-master answering questions to a magistrate about the woman with no people who paid him half in front and was never seen again," he said, and it was the longest thing he'd said, and it came out level and cold and complete, a man who had thought the whole thing through to its end before I'd finished my sentence. "You have no one who'd ask after you. You said so yourself; it's the truest thing you've said. A rider with no one to ask after her is not a passenger. She's a liability with legs. If anything happens to you on my road, and on that road something happens to someone every second trip, there's no father, no brother, no master to pay off or fear or answer to, and there's just me, holding a woman with no name that holds, explaining myself to men who'd love a reason to look hard at the Roman who came up from a scandal to hide in the hills." His hands, I saw, had stopped. They had gone still on the harness, and that stillness, I would learn, was the loudest thing he ever did. "I have spent six years being no one. You are the most someone I've had walk into this yard, and I want you gone before the wanting to help you costs me the only thing I've got left, which is that no one knows my name. So. No. And I'm sorry, which is more than I said to the last three, and you should take *that* and go, because it's the most I've given anyone since I came up this road."
+"It's a fare that ends with a body found in the poppies below Kirrha and a road-master answering questions to a magistrate about the woman with no people who paid him half in front and was never seen again," he said, and it was the longest thing he'd said, and it came out level and cold and complete, a man who had thought the whole thing through to its end before I'd finished my sentence. "You have no one who'd ask after you. You said so yourself; it's the truest thing you've said. A rider with no one to ask after her is not a passenger. She's a liability with legs. If anything happens to you on my road, and on that road something happens to someone every second trip, there's no father, no brother, no master to pay off or fear or answer to, and there's just me, holding a woman with no name that holds, explaining myself to men who'd love a reason to look hard at the Roman who came up from a scandal to hide in the hills." His hands, I saw, had stopped. They had gone still on the harness, and that stillness was the loudest thing he did. "I have spent six years being no one. You are the most someone I've had walk into this yard, and I want you gone before the wanting to help you costs me the only thing I've got left, which is that no one knows my name. So. No. And I'm sorry, which is more than I said to the last three, and you should take *that* and go, because it's the most I've given anyone since I came up this road."
 
 "You keep saying the poppies," I said. I did not mean to. It came out of the part of me that reaches, always, for the true detail under the plausible one, the part that had cost me and would go on costing me. "Below Kirrha. You said it twice, both times like a place you've stood. Most men, warning a woman, they say *something could happen.* You said where the body turns up. That's not a warning. That's a memory."
 
@@ -166,11 +166,11 @@ He did not throw me out. He did something worse and better; he answered.
 
 The yard was silent. The stream ran. I found I had nothing to say, none of my questions, none of my spirals; the reading part of me had gone quiet at last, humbled, the way it should have been humbled years before.
 
-"So when you stand in my yard," he said, and now he looked up, and looked at my face, "with no coin-count in the world that fixes what's wrong with you, which is that you are exactly her but without even the party to lie about it after, and you ask me to put you on my string, you are asking me to carry you up to Krisa in two springs' time. That's what I'm saying no to. Not your fare. Your funeral." He lowered the harness across his knees, done, and his hands, having nothing left to work, lay open and still and enormous on the leather, and I could not yet read what open still hands meant on him, though I would learn it, in time. "Now go home."
+"So when you stand in my yard," he said, and now he looked up, and looked at my face, "with no coin-count in the world that fixes what's wrong with you, which is that you are exactly her but without even the party to lie about it after, and you ask me to put you on my string, you are asking me to carry you up to Krisa in two springs' time. That's what I'm saying no to. Not your fare. Your funeral." He lowered the harness across his knees, done, and his hands, having nothing left to work, lay open and still and enormous on the leather, and I could not yet read what open still hands meant on him. "Now go home."
 
 ---
 
-I should have gone. Any sensible woman goes, there. He had told me no in the one way that could not be argued with, which is the way where the no is *for your sake and his both* and true on every count, and he had even, at the end, done the thing I would come to know as the whole of him, the kindness turned sideways so you'd not catch him at it, the *I'm sorry* that was worth more than a yes from a lesser man. I should have thanked him and walked my three miles back up the mountain and waited for the fair and hidden in the crowd.
+I should have gone. Any sensible woman goes, there. He had told me no in the one way that could not be argued with, which is the way where the no is *for your sake and his both* and true on every count, and he had even, at the end, done the thing that was the whole of him, the kindness turned sideways so you'd not catch him at it, the *I'm sorry* that was worth more than a yes from a lesser man. I should have thanked him and walked my three miles back up the mountain and waited for the fair and hidden in the crowd.
 
 Instead I did the thing that is either my worst flaw or the reason I am the woman this whole story happened to, depending on the day you ask me. I stayed, and I told him a truth I had not planned to tell, because I had run clean out of plans and there was nothing under the plans but the actual thing.
 
@@ -188,7 +188,7 @@ I did not know, when I said it, how close to the bone I'd cut. I was guessing, t
 
 I turned to go.
 
-I had gone perhaps six steps, out past the paddock rail into the churned mud of the lane, the boy watching me go and the mules swinging their heads to follow, when he said it. He said it to my back, in Greek, level, as though it cost him nothing, which was how I would learn he said everything that cost him most.
+I had gone perhaps six steps, out past the paddock rail into the churned mud of the lane, the boy watching me go and the mules swinging their heads to follow, when he said it. He said it to my back, in Greek, level, as though it cost him nothing, the way he said everything that cost him most.
 
 "The fair's not for six weeks."
 
@@ -204,7 +204,7 @@ I stood in the lane with my back to him and I felt the thing move through me tha
 
 "Come back in three days or don't," he said, and I heard the harness go back across his knees, the conversation closed the way he closed everything, with a task. "It's nothing to me either way."
 
-It was, I would learn, the largest lie he told in all the years I knew him, and the only one, and he told it looking at a knot instead of at me, and I let him have it, and I walked back up the mountain three miles in the clinging mud with something lit in me that I kept turning away from and turning away from, calling it relief, calling it a plan coming good, calling it anything but what it was.
+It was a lie, and I knew it for one, and he told it looking at a knot instead of at me, and I let him have it, and I walked back up the mountain three miles in the clinging mud with something lit in me that I kept turning away from and turning away from, calling it relief, calling it a plan coming good, calling it anything but what it was.
 
 ---
 

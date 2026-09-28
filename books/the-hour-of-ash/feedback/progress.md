@@ -422,3 +422,30 @@ Ch.8 ~6->1, Ch.9 ~8->2, Ch.10 3->2 — NOT self-correcting across 4 chapters). T
 **Next: Ch.11 "Winter in Delphi"** (~9,200w, the LONGEST chapter — intimate two-hander, braided vignettes,
 the slow-burn's deep chamber: stranded by season/money, Valens's scandal told flat over coins, a near-kiss
 refused, working-passage jobs, the partnership becomes a de facto family). Continue the full MANDATORY loop.
+
+---
+
+## 2026-09-28 — NO-FORESHADOWING pass (author ruling) — Ch.1-10
+
+Author (Terry) disliked the retrospective narrator's forward-gestures ("she knows something's
+coming", "this is the last time I'd..."). RULING: near-zero foreshadowing, book-wide target 0.
+Kept: past-facing reflection + present-scene dread + the frame ("telling it from her last hours");
+the reader's own historical knowledge of Vesuvius now carries the tragedy. See voice-dna.md §0.
+
+- **voice-dna.md** rewritten: §0 old "retrospection = suspense engine / foreknowledge" pillar
+  replaced by the hard NO-FORESHADOWING RULE; old "<=2 foreknowledge intrusions/chapter" budget
+  REVOKED; §1/§4/§7.5 fixed. STATE.yaml guardrail + CLAUDE.md note added. (committed a75ed6b)
+- **De-foreshadow sweep Ch.1-10** (book-editor, 2 passes): ~28 forward-gestures in pass 1, but
+  the "0 remaining" self-report was WRONG on verification — 8 real survivors (ch5 "I would later
+  learn to read"/"as I would come to understand"/"I would learn it burned every night", ch7 "in
+  the years since"/"stillness I would learn", ch8 "which I would come to understand"/"would mean a
+  great deal later"/"did not yet know it mattered") were caught in a verify pass and fixed in a
+  2nd round. Independently re-verified: 0 real forward-gestures remain. ~559 words trimmed (recast
+  only; no plot/scene/canon change). Present-scene "I did not know [his name]", conditional plans,
+  and character traits correctly LEFT.
+- **Gate:** foreshadow scan added to the shared TEMPLATE style_check (informational default;
+  --max-foreshadow N to enforce), and to THIS book's tools/style_check.py with default
+  --max-foreshadow 0 (bare run now FAILS on any regression). Book gate: FORESHADOWING 0, clean.
+
+Ch.1-10 word counts: 5027/5494/6545/1728/7395/7429/8201/7881/7703/8070.
+Ch.11 onward: draft with ZERO forward-gesture (voice-dna §0).

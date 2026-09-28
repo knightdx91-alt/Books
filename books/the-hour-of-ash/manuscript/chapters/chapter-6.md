@@ -240,7 +240,7 @@ She lived. On the fifth morning the fever broke and she woke thin and furious an
 
 "I kept it lit," I said.
 
-"Hm." She lay back. "The wrong niece would have let it go and told me the oil was dear." A long pause. "You are not the wrong niece." And she slept, healing, and I sat in the pale winter light in a house I had, against every likelihood in the turning of the world, come to belong to, and I let myself feel, for one moment, the thing I had been too busy and too frightened to feel, which was that I had found, in the middle of my catastrophe, a person I could not now bear to lose, and that this was a new kind of danger, the oldest kind, the kind the whole rest of my story would be made of.
+"Hm." She lay back. "The wrong niece would have let it go and told me the oil was dear." A long pause. "You are not the wrong niece." And she slept, healing, and I sat in the pale winter light in a house I had, against every likelihood in the turning of the world, come to belong to, and I let myself feel, for one moment, the thing I had been too busy and too frightened to feel, which was that I had found, in the middle of my catastrophe, a person I could not now bear to lose, and that this was a new kind of danger, the oldest kind.
 
 ---
 
@@ -250,7 +250,7 @@ If I needed a man's name to cross the world, I would have to acquire one, by wha
 
 And I would need coin, which meant work, real work, more than a widow's keep at an inn. And I would need, first, before any of it, the one road out of these mountains that a woman might buy her way onto, and the man who ran it. I had already heard the shape of him in the inn's talk, without knowing I was gathering it. A Roman, a freedman, scarred, who ran mules and horses down to the coast and back, and was said to be honest, or at least too dangerous to cheat, and who trusted no one and helped no one, and had once, on the road below the sanctuary, called off two men who meant me harm without troubling to look at my face.
 
-I lay in the dark and turned him over, the big scarred wall of a man, and I thought of him as nothing but a door. That is all he was to me then: the first door in the long chain of doors between a byre in Delphi and a threshold under a mountain in Italy. I have laughed since at how completely I misjudged him. At the woman lying in the straw costing out a cold transaction with a man she had decided was a means, a thing to be used and left behind, the first in a chain of things between her and home. I would not go back and tell her, even if the length of time would let me reach into the goat-dark and try. She had a mountain to climb and needed the cold arithmetic more than she needed the truth, and I owe her the dignity of her ignorance.
+I lay in the dark and turned him over, the big scarred wall of a man, and I thought of him as nothing but a door. That is all he was to me then: the first door in the long chain of doors between a byre in Delphi and a threshold under a mountain in Italy. A woman lying in the straw, costing out a cold transaction with a man she had decided was a means, a thing to be used and left behind. She had a mountain to climb and needed the cold arithmetic more than she needed the truth, and I owe her the dignity of her ignorance.
 
 So I will let her lie there in the straw doing her sums. I will let the rain come down, and the one faithful lamp burn in the window for a boy at the edge of the world, and the morning, which was coming, which always came, bring the first hard step of the rest of it.
 

@@ -34,6 +34,23 @@ SIMILE_MARKERS = re.compile(r"\b(like|as if|as though)\b", re.I)
 ADVERB = re.compile(r"\b\w+ly\b", re.I)
 WORD = re.compile(r"[a-z']+", re.I)
 
+# FORESHADOWING / narratorial foreknowledge intrusion (author ruling 2026-09-28: BANNED here,
+# book-wide target 0). The retrospective narrator must not reach forward to spoil an unreached
+# outcome. Enforced hard: --max-foreshadow default 0 for this book. See voice-dna.md §0.
+FORESHADOW_PATTERNS = [
+    r"\blittle\s+did\s+(?:i|we|she|he|they)\s+know\b",
+    r"\b(?:i|we|she|he|they)\s+would\s+(?:soon\s+|later\s+|only\s+later\s+|one\s+day\s+|come\s+to\s+|learn|discover|understand|realise|realize|find\s+out)\b",
+    r"\bwould\s+(?:later\s+)?(?:prove|turn\s+out)\b",
+    r"\bas\s+(?:i|we|she|he|they)\s+would\s+(?:later\s+)?(?:learn|discover|come\s+to)\b",
+    r"\bthe\s+last\s+\w+\s+(?:i|we|she|he|they)\s+would\b",
+    r"\bfor\s+the\s+last\s+time\b",
+    r"\b(?:in|over)\s+(?:all\s+)?the\s+years\s+(?:since|that\s+followed|to\s+come|after)\b",
+    r"\bwould\s+mean\s+(?:a\s+great\s+deal|much|everything)\s+later\b",
+    r"\bdid\s+not\s+yet\s+know\s+(?:it|that\s+it|how\s+much)\b",
+    r"\bthe\s+(?:man|woman|girl|boy)\s+(?:i|she|he)\s+would\s+(?:marry|love|become|lose)\b",
+]
+FORESHADOW_RE = [re.compile(p, re.I) for p in FORESHADOW_PATTERNS]
+
 # Deliberate recurring motifs / canon terminology — NOT accidental reuse.
 # Repeated phrases that contain any of these are ignored by the n-gram check.
 ALLOWLIST = [
@@ -82,7 +99,11 @@ def scan():
                     help="per-1,000-words ceiling for any single tic word")
     ap.add_argument("--max-emdash", type=int, default=4,
                     help="ABSOLUTE em-dashes allowed per chapter (AI tell — keep near zero)")
+    ap.add_argument("--max-foreshadow", type=int, default=0,
+                    help="per-book cap on narratorial FORESHADOWING / foreknowledge intrusions "
+                         "(author ruling: BANNED here, default 0). Set -1 for informational only.")
     args = ap.parse_args()
+    foreshadow_hits = []
 
     base = os.path.dirname(os.path.abspath(__file__))
     root = os.path.dirname(base)
@@ -106,6 +127,10 @@ def scan():
         toks = words(text)
         wc = len(toks) or 1
         per1k = lambda c: round(c / wc * 1000, 1)
+        for frx in FORESHADOW_RE:
+            for m in frx.finditer(text):
+                a, b = max(0, m.start()-24), min(len(text), m.end()+24)
+                foreshadow_hits.append((n, " ".join(text[a:b].split())))
 
         similes = len(SIMILE_MARKERS.findall(text))
         adverbs = len(ADVERB.findall(text))
@@ -178,6 +203,20 @@ def scan():
         print(f"\n  (informational — {len(shown_info)} generic/×2 repeats, not gated):")
         for s in shown_info[:25]:
             print(f"     · \"{s}\"")
+
+    fc = len(foreshadow_hits)
+    label = "informational" if args.max_foreshadow < 0 else f"cap {args.max_foreshadow}"
+    print("\n" + "=" * 70)
+    print(f"FORESHADOWING / foreknowledge intrusions (book-wide: {fc}; {label})")
+    print("=" * 70)
+    if fc:
+        for ch, snip in foreshadow_hits[:40]:
+            print(f"  Ch{ch}: …{snip}…")
+    else:
+        print("  none found")
+    if args.max_foreshadow >= 0 and fc > args.max_foreshadow:
+        print(f"  OVER: {fc} > {args.max_foreshadow} (foreshadowing banned for this book — see voice-dna.md §0)")
+        problems += 1
 
     print("\n" + "=" * 70)
     print(f"RESULT: {problems} issue(s) flagged." if problems else "RESULT: clean.")

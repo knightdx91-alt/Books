@@ -161,7 +161,7 @@ He watched me do it. He watched me do the thing his hands could not, on his own 
 
 "Yes," he said. His voice had the tremor his hand had. He heard it have the tremor and he stopped talking rather than let me hear more of it, and he turned half away toward the gorge and stood with the knife finally lowered at his side, and I stood at the mule's head with my hand on the strap I had tied, and neither of us looked at the two men on the road, and the mountain let us not look at them for a while, which was the only mercy going.
 
-I broke first, but not into pieces. I broke into work, which is the family way, his and mine both, our whole marriage in one small figure though it was months from being a marriage: two people finding a task to stand inside while the feeling had its way with them out of eyeshot. I got the water-skin down off the lead mule and uncapped it and went to him and held it up, and he took it in the hand that wasn't cut and the hand still shook and the water went down his chin as much as his throat, and he wiped his mouth with the back of the shaking wrist and looked at the wet of it, blood and water, and said the first whole thing he had said since the road went empty.
+I broke first, but not into pieces. I broke into work, which is the family way, his and mine both: two people finding a task to stand inside while the feeling had its way with them out of eyeshot. I got the water-skin down off the lead mule and uncapped it and went to him and held it up, and he took it in the hand that wasn't cut and the hand still shook and the water went down his chin as much as his throat, and he wiped his mouth with the back of the shaking wrist and looked at the wet of it, blood and water, and said the first whole thing he had said since the road went empty.
 
 "You were behind me."
 
@@ -231,4 +231,4 @@ But I was not looking at the porticoes where the factor's people would be, and I
 
 "Go and be seen," he said again, because I had not moved.
 
-I went. But I went up the sacred way and not down to the porticoes, with a dead man washed off my hands and a live one at my back not asking why, toward the smoke and the temple and the loose third step and the tired cold voice of the god, to ask it where my door home was, and to learn, before that day was out, that the god of that place answers the question you ask and keeps the one you need.
+I went. But I went up the sacred way and not down to the porticoes, with a dead man washed off my hands and a live one at my back not asking why, toward the smoke and the temple and the tired cold voice of the god, to ask it where my door home was.
