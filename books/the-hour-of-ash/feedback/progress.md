@@ -19,21 +19,29 @@ What was done:
   mode + Step D.6 shape audit, docs updated.
 
 ## Resume point
-**Ch.1 FINAL (2026-10-18).** Next: **Ch.2 "Fenn's Notebook"** — ledger: Collage (a document read in
-pieces) · open: a Fenn notebook entry (document → `narrative`) · end: document fragment → `long-fade` ·
-4,200w · dialogue 10–20% · theme present · 6 breaks · gear mid. Ch.1's hook type was CONTRAST, pull
-QUESTION-PLANT — do not repeat. WATCH from Ch.1: semicolons 4.1/1k (ease to ~3); the at-risk list in
-character-bible.md ("Which one stops it?" is spent; "the [color] of [thing]"; item-by-item looks;
-"Then you…"; TV-turning beats). The blueprint, entity state and bible are current.
+**Ch.1–2 FINAL (2026-10-18).** Next: **Ch.3 "Parnassus"** — ledger: Single-scene (walk → threshold) ·
+open: long sensory spiral → `long-spiral` · end: action unfinished → `punch` · 6,800w · dialogue 5–15% ·
+theme present · 0 breaks · gear high · Greece, May 1998 — the crossing at the Corycian Cave; anchor: the
+knucklebone she pockets. Hook/pull types used so far: Ch.1 CONTRAST / QUESTION-PLANT, Ch.2 VOICE /
+EMOTIONAL-GUT-PUNCH — do not repeat. WATCH: the GESTURE layer of the tic gate is live (3+ of one
+stage-business class within 500 words, or over the chapter cap, fails) — in a chapter of walking and
+climbing, vary the body's business; "somebody/nobody" and "X, or Y" hedges are near their book-wide
+limits already; the at-risk list in character-bible.md. The blueprint, entity state and bible are current.
 
 ## Chapter log
 - **Ch.1 "The Reception"** — 6,546w · Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 9.0 · 2 polish cycles
   (Prose was the holdout: chain sentences and an inventory form that was a tic forming) · entity +
-  continuity audit per chapter clean · full chain in STATE.yaml history.
+  continuity audit per chapter clean · full chain in STATE.yaml history. Re-opened later the same day
+  for two subtractive gesture trims (object handling 9 → 4) when the gesture layer went live; 6,503w.
+- **Ch.2 "Fenn's Notebook"** — 4,101w · Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 8.8 · 1 polish cycle
+  (Prose: counter tears repeating Ch.1, "without" ×4, a handling-beat cluster in the packing stretch) ·
+  13 audit warnings all fixed · full chain in STATE.yaml history.
 
 ## Pacing log
+- Ch.2 (FINAL): PASS — brisk documents / slow textural days / quick packing as planned; curiosity rising after the grief-low with one laugh (kept a crack, not a collapse); dialogue 14.7% in the 10–20% band; 4,101w vs 4,200; the italic blocks land unpredictably; document-fragment close with nothing after it.
 - Ch.1 (FINAL): PASS — fast reception → slow shop → very slow at the machine, as planned; grief-low slot without melancholy (irritation surprise lands); dialogue 32% in band; 6,546w vs 6,800 target after the trim that fixed pages 2–3; quiet close, pull carried by the unread notebook.
 
 ## Shape audits
 (every chapter: `python3 tools/shape_check.py books/the-hour-of-ash` from the repo root)
 - after Ch.1: n/a (needs 4 chapters); Ch.1 signatures `I-statement` / `quiet`.
+- after Ch.2: n/a (needs 4); Ch.2 `narrative` / `long-fade`; lengths 6,503 / 4,101; dialogue 31% / 15%; breaks 3 / 6.

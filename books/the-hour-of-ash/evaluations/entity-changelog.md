@@ -68,3 +68,116 @@ Mara (first appearance, location log, Ch.1 knowledge, arc waypoint, relationship
 - **CH1-3 (info):** the tracker's own earlier note said Fenn was "named by Szabo Ch.1". In the prose she calls him only "her brother", and his name appears only as "A. J. FENN" on the notebook cover. Note corrected.
 
 No knowledge_gap. No other departures from the outline's Ch.1 beats.
+
+---
+
+## 2026-10-18: UPDATE (chapter 2, final text: post-polish, post-disruption)
+
+**Trigger:** chapter loop step D.5, after book-disruptor on Ch.2 (run 2; an earlier attempt was killed by a container restart before it wrote anything: `last_updated_chapter` still read 1 and there was no Ch.2 entry here).
+**Inputs read:** `manuscript/chapters/chapter-2.md` (69 prose paragraphs, 6 scene breaks, 4,240 words), the existing `ENTITY_STATE.yaml` (`last_updated_chapter: 1`), outline Ch.2, character-bible (Halloran, Fenn, Margaret, the Ch.2 walk-ons note).
+**Meta:** `last_updated_chapter: 2`; `chapters_tracked: [1, 2]`; paragraph rule now records Ch.2 = p1..p69; new `meta.revalidation_needed` block.
+
+### Re-sourced from the plan to the prose (outline:ch-02 → ch-02:pYY)
+Mara's five Ch.2 knowledge rows, her location log, possessions and arc waypoint; Fenn's first appearance, cold-air knowledge and arc waypoint; Margaret's Mexico trait and name usage; Halloran's location log; the microcassette, Pentax, film roll, Seiko, notebook, chart, flashlight, granola bars, ibuprofen and permit; the philadelphia and emilio-rowhouse facts (study, chart); timeline row 2 and the 1967/1968 events; the fenn-cautionary-mirror, mending-the-seam, relics-film-roll and halloran-campania threads.
+
+### Added (prose facts)
+- **Fenn's notebook:** eight entries, Thanksgiving 1967 → July 21, 1968:
+  - the scholion via Father Kostas ("…the cave of the nymphs on Parnassus, and they are there")
+  - the coordinates as written, 38° 31′ N, 22° 32′ E, and Margaret's question mark
+  - the Plymouth sold; TWA to Athens on 2 April 1968; Margaret's "Mexico" cover
+  - Delphi and the cave: four hours up, names scratched on the walls, "No books"
+  - the slot: "cold in a way air isn't" for a minute or so, again one Tuesday, then nothing; "Slept up there"
+  - June: boots, "Tired today."
+  - the Herald Tribune bridge column
+  - last entry: cold for "a whole cigarette"; going in on 22 July with a flashlight and kite string; "Back before Labor Day"
+
+  Also recorded: the hand-change (capitals pressed through until April; a small leaning hand from May); the back half blank (sixty-odd leaves); the stuck back board, humidified; the consulate carbon (16 Sept 1968; overcoat "with contents of pockets"; "Pennsylvania" mistyped and x'd out).
+- **Mara (17 knowledge rows: 5 re-sourced, 12 new; 11 traits):**
+  - Days: the North African lamp, rejoined twice to an invisible seam; the Leipzig 1838 volume in the stacks (slit only to the scholion; the sunflower-seed boy).
+  - The Seiko: three links out on Sansom Street ($8; her throat shuts over it).
+  - Halloran's call (Sat 28 Mar): *Firma mancante*, then the laughing fit; the heir's declaration, signed 1 Apr and faxed; the 20 April deadline met by fax, outcome not stated; the north-transect notebooks wanted by the end of June; the 6 July invitation "in Emilio's place"; her answer, "I might be in Greece."
+  - The chart: matted and pinned, Sat 4 Apr. Her father's notebooks: left unopened.
+  - The decision, made while flossing: Tue 5 May, Olympic from JFK for Tue 19 May. Gloria's call (via Pat; "Till the ninth of June").
+  - Belief about Fenn: does not believe the scholion; puts the cold down to caves breathing; draws no conclusion about his fate.
+- **Packing:** Pentax loaded Sun 17 May, Kodak, 36 frames, **0 shot**, counter at 1 (packing implied). Seiko on her wrist. Microcassette in a gray wool sock in a hiking-boot toe. Notebook last, on top. Flashlight, two boxes of granola bars, a bottle of Advil, toothbrush, floss (packed before the passport). The chart stays. No flash is mentioned.
+- **Characters (10):** `father-kostas`, `goat-boy-1968` and `goat-boys-mother-1968` (both needs_review; kept separate from the AD 70 goat-boy), `hallorans-wife`, `naples-new-tenants`, `sansom-street-jeweler`, `check-cashing-notary`, `olympic-airways-agent`, `sunflower-seed-boy`, `maras-department-head`. Halloran, Gloria, Pat, Ray, Dorothy, Emilio and Margaret extended.
+- **Locations (4):** `maras-apartment`, `university-library`, `delphi-modern`, `athens`. Facts added to the corycian-cave (1968 walls, the slot, the breaths; 4 h from the village), the lab, the rowhouse study/kitchen/porch, and Naples (Halloran's flat; the 6 July season).
+- **Objects (9):** `consulate-effects-slip`, `leipzig-scholia-volume`, `seiko-band-links`, `maras-duffel` (contents listed), `toothbrush-and-floss`, `maras-passport`, `olympic-booking`, `emilio-field-notebooks` (chekhov_open, unplanned: Halloran's request), `north-african-lamp` (closed p9).
+- **Organizations (3):** `us-consulate-athens`, `olympic-airways`, `twa`. The Soprintendenza, the museum and the Inquirer extended.
+- **Knowledge index:** new `cave_coordinates`, `mara_greece_trip`, `fenn_fate_1998`; `margaret_fenn` and `fenn_identity` updated.
+- **Threads:** new `emilio-north-transect-notebooks` (open errand) and `maras-stated-return` (9 June). relics-film-roll is now `open`.
+- **World rules:** Fenn's observed 1968 breaths recorded neutrally (their relation to the opening-duration rule is not stated on the page).
+
+### Contradictions
+- **CH1-1 RESOLVED:** Ch.2 keeps 20 April, and the bible's sample line now says the same.
+- **CH2-1 (low):** plan "might be in Greece *first*"; prose "I might be in Greece." Halloran hears a holiday.
+- **CH2-2 (info):** plan "no flash unit" in the Ch.2 packing; prose silent.
+- **CH2-3 (low):** plan "the notebook came home in his coat"; the carbon says only "overcoat … with contents of pockets", and there is no shepherd.
+- **CH2-4 (info):** plan "eight weeks"; prose about nine weeks and three days (14 Mar → 18/19 May).
+- **CH2-5 (info):** the bible's Ch.2 addenda paraphrase loosely ("you'll practically be next door", "only beeps", "after BIBLIOTHECA", "taps").
+- **CH2-6 (info):** the Pentax is loaded, but its packing is only implied.
+
+### Flagged for the orchestrator
+`meta.revalidation_needed`: chapter-1.md now has 193 paragraphs, against the 209 tracked, so the ch-01:pYY sources are offset. Revision cycle 1 cut facts still recorded here (see its § "ENTITY_STATE facts changed"). Chapter 1 was also written again during this run. Run UPDATE on chapter 1.
+
+No knowledge_gap. Halloran's knowledge is "might be in Greece" only, with no date and no reason.
+
+---
+
+## 2026-10-18: UPDATE (re-sync after editor passes, Ch.1 + Ch.2)
+
+**Trigger:** chapter-1.md had two gesture trims and chapter-2.md had polish cycle 1 (`revision-chapter-2-cycle1.md`), both after their last entity update. An earlier attempt at this re-sync was killed by a container restart before it wrote anything (no entry here; YAML unchanged), so this run did the full re-sync.
+**Inputs re-read:** `chapter-1.md` (193 paragraphs) and `chapter-2.md` (69 paragraphs) as they stand now; revision-chapter-1-cycle1.md § "ENTITY_STATE facts changed"; revision-chapter-2-cycle1.md; the a7d8aea gesture-trim diff; outline Ch.2; character-bible (Szabo, Halloran, Ch.2 addenda).
+**Meta:** `last_updated_chapter: 2` (unchanged); `chapters_tracked: [1, 2]`; `revalidation_needed` items for Ch.1 and Ch.2 are now RESOLVED; the paragraph rule records Ch.1 = p1..p193.
+
+### Citations re-anchored
+- **Ch.1:** 491 of 554 `ch-01:pYY` citations renumbered by content, from the old 209-paragraph draft to the current file. They now run from a 0 offset at the start of the chapter to −16 from the old p131 on. Bare in-text refs (p194→p178, p157→p141, p182→p166, p195-p203→p179-p187, and the others) are fixed too. The source for Szabo's Hungarian was wrong (p63) and now points to p134.
+- **Ch.2:** the numbering is stable at 69 paragraphs. Every citation was checked against the current text. The notebook-packing sentence moved from p65 to p67. Three earlier mis-citations that had used manuscript line numbers are corrected: hands p17→p7, seam test p21→p9 (in two places), and the notebook hand p41→p12. The Mara belief source moves from p67 to p66.
+
+### Facts removed (no longer on the page)
+- **Ch.1:**
+  - The dean's-office woman's fire-department bill.
+  - The cab driver's rosebushes and Jersey mulch.
+  - The guard's "Nobody finds one in this". He now says "You won't, in this."
+  - The carousel's empty white square.
+  - The lilies' "tall white spray, stamens nipped".
+  - Arroz con pollo and the classroom-wing screen.
+  - The Hogarth restrike and the 1796 map. A Hogarth still hangs in the shop.
+  - The magnifier taken out and laid on the ledger, and the tissue lift.
+  - The cassette turned over and the watch picked up. No YAML entries recorded these.
+  - The all-or-nothing quote "There was no staying a little…". The trait is re-sourced to p11.
+  - "Jacket wet through … dark at the cuffs".
+  - The cigar-box label "faded to weak-tea brown".
+  - "On her wrist" for the Acme sack.
+  - The Halloran message text now reads "The Soprintendenza want another name on it".
+- **Ch.2:**
+  - At the jeweler: the telephone, the ten on the glass, the change left behind, and her eyes and throat.
+  - The laugh's slide down the cabinet door. She now stays on her feet.
+  - "Said so to the kitchen".
+  - The notebook put back on its tobacco crumbs. The cigar box is no longer mentioned in Ch.2, so it was last mentioned at ch-01:p193.
+  - The Leipzig volume put back "where it lived".
+  - "Did not go looking for [the passport] until the week I left".
+  - "Or Mrs. Szabo's seven".
+  - "Nobody finds the books…" is now "You don't find the books…".
+  - "A minute or so" is now "about a minute", corrected in 6 places.
+  - "Gray" wool sock, and "cartridge", which is now "roll".
+  - Halloran's room "nobody's been given" is now "standing empty".
+  - The thumbnail along the spines is now a finger. "Then or on later Saturdays" is gone.
+
+### Facts added
+- **Fenn's coordinate source:** "the Army map down at the Free Library puts the cave up the mountain from" Castri. Fenn's knowledge method changes from inferred (from the chart) to discovered. This updates his knowledge, Mara's knowledge, cave_coordinates, the venetian-map ink, the Free Library location and organization, and Fenn's 1967 location log.
+- **The chart's doorway drawing:** it is Fenn's "little picture of the cave mouth beside it so I'd know which hole I meant", tied to ch-01:p78.
+- **The jeweler:** the Daily News crossword in ink, and humming a show tune he can't get the middle of. **The department head:** signs against a seed catalogue and asks whether the Greeks grow a decent tomato. This is a new knowledge row: he knows she is going to Greece.
+- **The jeweler scene's new ending:** the watch "snug against my wristbone for the first time", with the envelope "in my pocket beside the tape". This adds a new microcassette touch at ch-02:p16.
+- **Smaller additions:** the laugh as "a bark first … bent me over the sink"; the cereal box knocked off the drainboard; Halloran's "as if I'd said Florida", "clicked twice, somewhere under the ocean" and "went round his bare room"; the watch "rode down onto the back of my hand"; the chart "perforated all along its green edge"; Szabo underlining the surname.
+
+### Contradictions
+- **CH2-1..CH2-6: all still OPEN.** The revised text and the plan documents still disagree in every case:
+  - CH2-1: no "first" in the prose; outline.md:163 still has it.
+  - CH2-2: still no flash on the page.
+  - CH2-3: the carbon text is unchanged and there is no shepherd.
+  - CH2-4: the span is still about nine weeks and three days, against "Over eight weeks".
+  - CH2-5: the bible still paraphrases ("only beeps", "practically be next door", "after BIBLIOTHECA", "taps").
+  - CH2-6: Pentax packing is still only implied, now by p67.
+- **CH1-1:** stays RESOLVED, re-anchored to p176 (line 359). **CH1-2:** still OPEN; the bible's physicality line is unchanged, and the magnifier is now used only once, at p52. **CH1-3:** still OPEN (info); re-quoted as "That is the brother. Treasure hunter." (p90).
+- No new contradictions. foundation:§9's "Fenn's coordinates on a 1680s Venetian chart" is compatible with the Army-map source. No knowledge_gap.

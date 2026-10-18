@@ -42,8 +42,9 @@ word_floor:
 
 phase:
   current: 3
-  status: "RUN 2 — architect v4 dispatch 1 DONE 2026-10-18: foundation.md + outline.md (44 ch, uneven diptych WHERE/WHEN hinged on the Lechaion wedding Ch.18 ~41%; elastic clock; Σ 260,300; Anti-Predictability Ledger checked against shape_check rules; tic-bearer roster EMPTY) + voice-bank (13 samples). voice mode DONE; ENTITY_STATE built; outline audit (3 CRIT/26 WARN/29 NOTE) fully PATCHED into the blueprint; Σ 260,300, ledger re-verified. CHAPTER LOOP RUNNING — Ch.1 FINAL 2026-10-18 (6,546w; Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 9.0 after 2 polish cycles; all gates + per-chapter entity update + continuity audit clean). Next: Ch.2 'Fenn's Notebook' (Collage, 4,200w, document opener, long-fade close). Autonomy: full; drift_check: every-chapter; no tics."
+  status: "RUN 2 — architect v4 dispatch 1 DONE 2026-10-18: foundation.md + outline.md (44 ch, uneven diptych WHERE/WHEN hinged on the Lechaion wedding Ch.18 ~41%; elastic clock; Σ 260,300; Anti-Predictability Ledger checked against shape_check rules; tic-bearer roster EMPTY) + voice-bank (13 samples). voice mode DONE; ENTITY_STATE built; outline audit (3 CRIT/26 WARN/29 NOTE) fully PATCHED into the blueprint; Σ 260,300, ledger re-verified. CHAPTER LOOP RUNNING — Ch.1-2 FINAL 2026-10-18 (Ch.1 6,503w Floor 8.5 / Avg 8.57; Ch.2 4,101w Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 8.8 after 1 polish cycle; all gates incl. the new GESTURE layer, per-chapter entity update + continuity audit clean). Next: Ch.3 'Parnassus' (Single-scene, 6,800w, long-spiral opener, action-unfinished punch close, 0 breaks, gear high). Autonomy: full; drift_check: every-chapter; no tics."
   history:
+    - "2026-10-18 (Ch.2): 'Fenn's Notebook' FINAL — 4,101w (target 4,200; Collage: Fenn's 1967-68 entries against Mara's March-May 1998 days). Full chain: writer (4,154w, gates clean) -> dialogue-polish (17 edits; cover-the-name PASS Mara/Halloran/Gloria/Fenn-on-paper; cut both spent 'Then you…' lines) -> hook-craft (hook 8 VOICE, pull 8 EMOTIONAL-GUT-PUNCH via the cheerful 1968 line, no edit) -> disruptor (4 ops: simile tail cut, an unannounced Herald-Tribune bridge-column entry, sunflower seeds in the stacks, a typo on the consulate slip) -> entity UPDATE (10 chars, 9 objects, 2 threads; 6 minor prose-vs-plan notes, prose wins) -> continuity audit (0 CRIT / 13 WARN / 22 NOTE: counter tears repeating Ch.1, the laugh too big, Ch.1 echoes, 'X, or Y' hedges x9, somebody/nobody x16, 'put it back / did not' paragraph endings, foundation Fenn-wound line vs prose) -> gates clean -> evaluator Floor 8.0 (Prose; Casual 8.5) -> NEW GESTURE LAYER in the tic gate flagged object handling 6 (cap 4) + a 4-in-500-words cluster -> editor cycle 1 (-139w: tears cut, scene ends on the watch that fits; 'without' 4->1; handling 6->1; laugh a crack; hedges 9->1; somebody 16->5; walk-ons given a life; doorway drawing tied to the chart; Fenn given a coordinate source; foundation.md Fenn wound amended to the prose) -> re-eval PASS Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 8.8; foreshadowing 0; tics 0 incl. gestures. Ledger honored: document open (`narrative`), long-fade document close (40w), 6 breaks, dialogue 14.7%. ALSO: Ch.1 re-opened for two subtractive gesture trims (object handling 9->4, no scene cluster) and recommitted. Container restarted twice mid-chain; no work lost beyond re-runs."
     - "2026-10-18 (Ch.1): 'The Reception' FINAL — 6,546w (target 6,800; Philadelphia, March 1998). Full chain: writer -> dialogue-polish (29 edits, cover-the-name PASS all speakers) -> hook-craft (hook 9 CONTRAST / pull 8 QUESTION-PLANT, no edit) -> disruptor (4 ops, -68w) -> entity UPDATE (16 chars, 12 objects; 2 contradictions resolved: Halloran deadline = 20 April, Szabo magnifier) -> continuity audit (0 CRIT / 10 WARN / 23 NOTE; all WARN fixed) -> gates clean -> evaluator Floor 8.0 (Characters/Prose/Pacing 8.0, Casual 8.0) -> editor cycle 1 (-567w; chain sentences 24->8; the looked-at-A-and-B inventory form removed; 1974 Cyprus->Sicily, four decades->thirty-odd years, Come to Grief->Wild Horses) -> re-eval Floor 8.0 (Prose only; Casual 8.5) -> editor cycle 2 (and-stopped 4->2; drawer gesture; roll exchange folded; 15 semicolon joins) -> re-eval PASS Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 9.0; foreshadowing 0, tics 0. Ledger honored: I-statement open, quiet close (23w), 3 breaks, dialogue 32%. WATCH: semicolons 4.1/1k (target ~3) — ease off in Ch.2; at-risk phrases logged in the bible."
     - "2026-10-18: FULL RESTART (author Terry). Retired the whole first run (Ch.1-10, v1/v2/v3 outlines, evals, trackers). Pipeline gained tools/shape_check.py (manuscript predictability audit), the architect's Anti-Predictability Ledger, and FULL AUTONOMY mode. This run: autonomous chapter loop, every agent every chapter, until told to stop."
     - "2026-09-28: AUTHOR RULING — NO FORESHADOWING (book-wide target 0). Carried into run 2 as a hard gate (style_check --max-foreshadow 0 + evaluator + voice-dna §0)."
@@ -53,15 +54,15 @@ phase:
 
 chapters:
   total_planned: 44   # architect v4, 2026-10-18 (count fell out of the beats; 1,500-8,400w)
-  completed: [1]
-  scores: {1: 8.5}   # Genesis Floor; Ch.1 avg 8.57, Casual 8.5, CVI-Launch 9.0 (2 polish cycles)
+  completed: [1, 2]
+  scores: {1: 8.5, 2: 8.5}   # Genesis Floor; Ch.1 avg 8.57 / Casual 8.5 / CVI-L 9.0 (2 polish cycles); Ch.2 avg 8.57 / Casual 8.5 / CVI-L 8.8 (1 polish cycle)
 
 genesis_score:
   current_floor: 8.5
-  current_average: 8.57   # running: Ch.1 8.57
+  current_average: 8.57   # running: Ch.1 8.57, Ch.2 8.57
 
 quality_gate:
-  chapters_passed: [1]
+  chapters_passed: [1, 2]
   chapters_escalated: []
 
 guardrails:
