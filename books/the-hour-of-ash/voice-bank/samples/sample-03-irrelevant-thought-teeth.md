@@ -1,0 +1,6 @@
+<!-- IRRELEVANT THOUGHT · tension undercut by noise · Ch.13 register · material: barley meal, laurel smoke -->
+They sprinkled the goat with water from the spring, and the goat stood there and did nothing. If it did not shiver the god would not answer; everyone on the terrace knew that, and a murmur went along the line of waiting women like a draught under a door. The priest dipped his fingers again. Valens stood beside the animal with his hands at his sides and his face giving away nothing at all.
+
+The woman next to me was eating a twist of fried dough out of a cloth. She had beautiful teeth. I noticed it the way I always noticed teeth, helplessly and with a professional resentment I had no right to. Every tooth was present and nearly white, and she had never in her life been near a dentist, a fluoride rinse, or a length of waxed floss. I had seen what the women of Delphi used to clean their mouths. It was burnt horn ground to a powder, sometimes with a little crushed shell for grit. Kallia had offered me some in a dish, kindly, and I had said thank you and gone out behind the woodpile to scrub my gums with a frayed stick of mastic until they bled.
+
+The goat shivered. The whole terrace let out its breath. I had missed the moment entirely, and I was still thinking about the woman's molars when Valens went up the steps and in.

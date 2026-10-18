@@ -19,7 +19,7 @@ adaptation:
   canon_sources:
     story_bible: "research/story-bible.md"   # author canon (spoken idea); wins over pipeline
   chapter_1_locked: false
-  chapters_to_produce: []   # architect v4 fills the count; chapter COUNT and LENGTHS emerge from beats, never from arithmetic
+  chapters_to_produce: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44]   # architect v4 (2026-10-18): 44 chapters, 1,500-8,400w, uneven diptych (Part One WHERE Ch.1-18 ~41% / Part Two WHEN Ch.19-44 ~59%); Σ 260,300 vs 245k target
 
 # AUTONOMY — the author's standing instruction for this run (2026-10-18):
 # write a chapter -> run EVERY agent on it (dialogue-polish, hook-craft, disruptor, mechanical
@@ -41,8 +41,8 @@ word_floor:
   shortest_chapter_floor: 1200
 
 phase:
-  current: 2
-  status: "RUN 2 RESTART 2026-10-18 — folder wiped to canon; architect v4 pass next (foundation + outline with Anti-Predictability Ledger, then voice-dna + character-bible), then entity BUILD + outline audit, then the autonomous chapter loop from Ch.1."
+  current: 2.5
+  status: "RUN 2 — architect v4 dispatch 1 DONE 2026-10-18: foundation.md + outline.md (44 ch, uneven diptych WHERE/WHEN hinged on the Lechaion wedding Ch.18 ~41%; elastic clock; Σ 260,300; Anti-Predictability Ledger checked against shape_check rules; tic-bearer roster EMPTY) + voice-bank (13 samples). NEXT: architect voice mode (voice-dna.md + character-bible.md, zero tics) -> entity BUILD -> outline audit -> autonomous chapter loop from Ch.1."
   history:
     - "2026-10-18: FULL RESTART (author Terry). Retired the whole first run (Ch.1-10, v1/v2/v3 outlines, evals, trackers). Pipeline gained tools/shape_check.py (manuscript predictability audit), the architect's Anti-Predictability Ledger, and FULL AUTONOMY mode. This run: autonomous chapter loop, every agent every chapter, until told to stop."
     - "2026-09-28: AUTHOR RULING — NO FORESHADOWING (book-wide target 0). Carried into run 2 as a hard gate (style_check --max-foreshadow 0 + evaluator + voice-dna §0)."
@@ -51,7 +51,7 @@ phase:
     - "2026-06-21: author canon captured (research/story-bible.md) and all open decisions resolved (see resolved_author_decisions)."
 
 chapters:
-  total_planned: 0   # set by the v4 architect pass
+  total_planned: 44   # architect v4, 2026-10-18 (count fell out of the beats; 1,500-8,400w)
   completed: []
   scores: {}
 
@@ -102,5 +102,19 @@ character_bible:
   tic_bearers: []
 
 decisions:
-  - "2026-10-18 (run 2): full restart; architecture rebuilt from canon with the Anti-Predictability Ledger; autonomous loop; every agent every chapter."
+  - "2026-10-18 (run 2): full restart; architecture rebuilt from canon with the Anti-Predictability Ledger; autonomous loop; every agent every chapter; NO TICS law."
+  # --- Architect v4 decisions on points the author left open (auto-passed under autonomy: full; author may override any of them) ---
+  - "ARCH-1: modern frame = Philadelphia, late 1990s; Mara is American."
+  - "ARCH-2: the crossing site is the Corycian Cave above Delphi."
+  - "ARCH-3: the door home is a tomb outside Pompeii's Nuceria Gate."
+  - "ARCH-4: women could not consult the Oracle, so Valens carries Mara's question in; the Pythia's answer (Pompeii / WHERE) still reaches Mara in Ch.13 and the WHEN is withheld — canon honored via a historically accurate route. FLAG for the author: the Oracle speaks to Mara through Valens's errand rather than face to face."
+  - "ARCH-5: Valens's frame was a dowry scheme by his employer Celer; settled by a lawsuit in Rome, AD 74 (Ch.22 Basilica Julia)."
+  - "ARCH-6: Fenn lives in Puteoli as the astrologer 'Augurinus'; gives the date in Ch.25; dies winter 78-79, before the door opens."
+  - "ARCH-7: the family stays in Pompeii because the door is their planned lifeboat; the backup boat (Ch.37) cannot land."
+  - "ARCH-8: Lucius born summer AD 74; Aelia winter 75-76 (shifts canon's 'Lucius b. ~year 3' by a few months)."
+  - "ARCH-9: Felix, Valens's freed mule-boy, takes the boat out; his fate is left open."
+  - "ARCH-10: the eruption uses the traditional 24-25 August AD 79 date."
+  - "ARCH-11: no recurring between-chapter device (no inserts/epigraphs as a system)."
+  - "ARCH-12: new secondary cast = Kallia, Theano, Felix, Plautia, Celer, Grata."
+  - "ARCH-13: heat scenes at Ch.15 (first union), Ch.23 (after the Rome trial), Ch.34 (Surrentum); none from Ch.39 on. No-pull chapters: Ch.10, Ch.31, Ch.34, Ch.44."
 revision_cycles: 0

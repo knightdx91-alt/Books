@@ -31,11 +31,14 @@ MOTIFS = [
     # (each capped at 3 uses book-wide). Anything ELSE that recurs 3+ times across the book is a
     # defect, not a motif — see the AUTO-RECURRENCE report below.
     r"the one it brought",
+    r"where the dead go out of the city",
 ]
 # World terms / proper names that legitimately recur (place names, titles, institutions). NOT
 # motifs and NOT tics — exempt from the recurrence gate. Keep to nouns the story cannot avoid.
 WORLD_TERMS = [
     "the oracle", "the pythia", "the library of alexandria", "the temple of apollo",
+    "the corycian cave", "the nuceria gate", "the basilica julia", "the appian way",
+    "the castalian spring", "the sarno", "the polygonal wall", "the sacred way",
 ]
 
 def strip_comments(t): return re.sub(r"<!--.*?-->", "", t, flags=re.S)

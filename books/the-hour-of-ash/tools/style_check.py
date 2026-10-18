@@ -54,11 +54,10 @@ FORESHADOW_RE = [re.compile(p, re.I) for p in FORESHADOW_PATTERNS]
 # Deliberate recurring motifs / canon terminology — NOT accidental reuse.
 # Repeated phrases that contain any of these are ignored by the n-gram check.
 ALLOWLIST = [
-    # Add THIS book's deliberate recurring motifs / canon terms here (capped registry: a bare
-    # "phrase" is capped at 3 uses book-wide; ("phrase", N) raises the cap — keep overrides rare).
-    # Run 2 (2026-10-18): reset to canon only; the v4 voice-dna §4 motif list is added after the
-    # architect pass, and the Writer adds a motif the moment it is planted.
-    "the one it brought",
+    # Deliberate OBJECT-motif phrases only (NO TICS law). Capped registry: each entry = 3 uses
+    # book-wide max. From the v4 foundation.md (2026-10-18). Keep this list at <=5 entries.
+    "the one it brought",                 # Fenn's law of the doors (Ch.25 promise / Ch.42-43 limit)
+    "where the dead go out of the city",  # Theano's words (Ch.13) -> the Nuceria Gate road (Ch.44)
 ]
 
 # n-gram repetition settings
