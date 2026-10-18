@@ -7,6 +7,11 @@
 # outline:ch-02 sources replaced where the prose confirms; departures logged as CH2-n in meta.contradictions.
 # UPDATE (re-sync after editor passes) 2026-10-18: Ch.1 (gesture trims; 193 paragraphs) and Ch.2 (polish cycle 1; 69 paragraphs)
 # re-read as they stand; every ch-01:pYY / ch-02:pYY re-anchored to the current files; trimmed facts removed, new facts added.
+# UPDATE (chapter 3, final text: post-polish, post-disruption) 2026-10-18. Ch.3 facts carry ch-03:pYY (p1..p91, no scene breaks);
+# outline:ch-03 sources replaced where the prose confirms; departures logged as CH3-n in meta.contradictions.
+# UPDATE (re-sync after the Ch.3 editor pass, polish cycle 1 run 2) 2026-10-18: chapter-3.md re-read as it stands (90 paragraphs,
+# 6,834 words; old p56 'Then I went in.' folded into p55, so old p57..p91 = new p56..p90). Every ch-03:pYY re-anchored by content;
+# cut facts removed, new facts added (microcassette located; summits bare + thyme over; kneeling slot entry); CH3-1..7 re-checked.
 # Facts, not interpretation. Contradictions are flagged with `conflict` (flag: UNRESOLVED), never resolved here;
 # a conflict is marked resolved only when the source documents themselves now carry one value.
 
@@ -14,10 +19,10 @@ meta:
   version: "1.0"
   last_updated: "2026-10-18"
   last_updated_by: "entity-tracker"
-  mode: "UPDATE (re-sync after editor passes: chapter-1.md after the two gesture trims, chapter-2.md after polish cycle 1)"
-  source: "manuscript Ch.1-2 (as they stand after the editor passes, 2026-10-18) + outline (patched 2026-10-18) for Ch.3-44"
-  last_updated_chapter: 2
-  chapters_tracked: [1, 2]
+  mode: "UPDATE (re-sync of chapter 3 after the editor pass: evaluations/revision-chapter-3-cycle1.md)"
+  source: "manuscript Ch.1-3 (all three as re-synced after their editor passes, 2026-10-18) + outline (patched 2026-10-18) for Ch.4-44"
+  last_updated_chapter: 3
+  chapters_tracked: [1, 2, 3]
   revalidation_needed:
     - chapter: 1
       found: "2026-10-18 (Ch.2 run)"
@@ -31,6 +36,12 @@ meta:
       action: "DONE in the re-sync run (2026-10-18): every ch-02:pYY checked against the current file (four earlier mis-citations that used manuscript line numbers corrected: p17->p7, p21->p9, p41->p12); cut facts removed (the jeweler's telephone, the ten on the glass, the change left, her eyes going hot; the laugh's slide down the cabinet door; 'said so to the kitchen'; the notebook put back on its tobacco crumbs; the Leipzig volume put back 'where it lived'; the passport 'not looked for until the week I left'; 'or Mrs. Szabo's seven'; 'gray' wool sock; 'cartridge'); new facts added (Fenn's coordinate source, the Army map at the Free Library; the chart's doorway drawing = his picture of the cave mouth; the jeweler's crossword and show tune; the department head's seed catalogue and tomato question; the scene ending on the watch that fits; the cereal box knocked over)."
       flag: "RESOLVED"
       resolved_date: "2026-10-18"
+    - chapter: 3
+      found: "2026-10-18 (polish cycle 1 run 2, evaluations/revision-chapter-3-cycle1.md)"
+      issue: "chapter-3.md revised after its entity update: the one-line 'Then I went in.' (old p56) folded into p55, so 91 -> 90 paragraphs (old p57..p91 = new p56..p90); text changed inside paragraphs; 6,817 -> 6,834 words"
+      action: "DONE in the re-sync run (2026-10-18): 251 ch-03:pYY citations re-anchored (plus bare p-refs and two manuscript-line refs), each checked by content. Removed (no longer on the page): her ears going hot at the theft (old p66) and the bag swinging against her hip; the watch case going cold 'against my wristbone'; 'It was not cave cold'; 'the beam … did not shake' (now 'shook on the rock'); the crack 'as wide as a narrow door turned on its side' at knee height; the slumped stalagmite's parking-space size; the boulder 'as broad as a car's hood' (now 'a kitchen table'); 'dishwater gray' (now 'pale gray'); 'tens of thousands' of knucklebones (now 'more than twenty thousand'; 'dyed or drilled through, and a few filled with lead'); the cellar memory's September (now July); the pen photo's 'in a way I could not have explained'. Added: the microcassette's location (in its sock among her clothes in the duffel since she laced the boots on at home, p69); the slot geometry (forearm-wide at shoulder height, a foot and a half at the floor, p67) and the kneeling entry and exit (p79, p83); the two autumn signs at the mouth (summit gullies bare of snow, thyme gone to husk, p88) as the basis of 'October'; the blush 'of a kind I had thought I was too old for' (p81). CH3-4, CH3-5, CH3-6 RESOLVED; CH3-1, CH3-2, CH3-3, CH3-7 still open."
+      flag: "RESOLVED"
+      resolved_date: "2026-10-18"
   chapters_planned: 44
   canon_inputs:
     - "STATE.yaml (guardrails, resolved_author_decisions, decisions ARCH-1..18; ARCH-4 revised)"
@@ -42,7 +53,7 @@ meta:
   source_convention:
     plan: "outline:ch-XX = planned in that chapter's outline entry; outline:macro = Macro-Structure/ledger block; foundation:§N = foundation section; STATE:ARCH-N = architect decision in STATE.yaml"
     manuscript: "ch-XX:pYY once written. UPDATE mode replaces outline:ch-XX with ch-XX:pYY as each chapter confirms (or contradicts) the plan."
-    paragraph_rule: "pYY = the YY-th prose paragraph of the chapter file, counting every non-empty line except the '# Chapter' heading and the '* * *' scene breaks (Ch.1 = p1..p193 and Ch.2 = p1..p69, both re-anchored 2026-10-18 to the files as they stand after the editor passes). Italic notebook/document lines count as paragraphs."
+    paragraph_rule: "pYY = the YY-th prose paragraph of the chapter file, counting every non-empty line except the '# Chapter' heading and the '* * *' scene breaks (Ch.1 = p1..p193 and Ch.2 = p1..p69, both re-anchored 2026-10-18 to the files as they stand after the editor passes; Ch.3 = p1..p90, no scene breaks, 6,834 words, re-anchored 2026-10-18 after polish cycle 1). Italic notebook/document lines count as paragraphs."
   status_convention: "Every fact below is PLANNED until its chapter is written. A written chapter that departs from a planned fact is a conflict, not an overwrite."
   method_extension: "knowledge.method adds `prior_knowledge` (known before the story's first scene, e.g. Mara's 1998 education) to the standard set told_by:slug | overheard | witnessed | discovered | inferred."
   conflicts_index:
@@ -65,11 +76,11 @@ meta:
   plan_gaps:
     - { gap: "Which notebook holds the tremor notes / goes through the door", status: CLOSED, resolution: "one notebook, Fenn's 1968 notebook: tremor notes in its blank back pages from Ch.20; through the door Ch.43", source: "outline:ch-20; outline:ch-36; outline:ch-43; audit WARN-012" }
     - { gap: "The map's whereabouts after Ch.2", status: CLOSED, resolution: "stays pinned over Emilio's desk in Philadelphia; the coordinates are in the notebook", source: "outline:ch-02", ch2_update: "CONFIRMED on the page: window-matted, the mat board pinned to the cork strip over Emilio's desk on the first Saturday in April (p45); the coordinates are in Fenn's Thanksgiving 1967 entry (p2) and match the chart to the minute (p4)", ch2_source: "ch-02:p2; ch-02:p4; ch-02:p45" }
-    - { gap: "The flash", status: CLOSED, resolution: "no flash unit; the K1000 has none (Ch.2 packing; Ch.12)", source: "outline:ch-02; outline:ch-12", ch2_update: "NOT ON THE PAGE: the Ch.2 packing never mentions a flash, for or against (p63-p67). Ch.12 is the first place it can be shown. See meta.contradictions CH2-2", ch2_source: "ch-02:p63; ch-02:p64" }
+    - { gap: "The flash", status: CLOSED, resolution: "no flash unit; the K1000 has none (Ch.2 packing; Ch.12)", source: "outline:ch-02; outline:ch-12", ch2_update: "NOT ON THE PAGE: the Ch.2 packing never mentions a flash, for or against (p63-p67). Ch.12 is the first place it can be shown. See meta.contradictions CH2-2", ch2_source: "ch-02:p63; ch-02:p64", ch3_update: "CONFIRMED on the page in Ch.3: 'The camera had no flash; in this light I would have got a frame of brown mud' (the knucklebone goes unphotographed). CH2-2 RESOLVED", ch3_source: "ch-03:p63" }
     - { gap: "When Valens learns the tomb's location", status: CLOSED, resolution: "Ch.30: he follows her to the tomb after the tremor", source: "outline:ch-30; outline:ch-37" }
     - { gap: "Whether Fenn knows AD 79 is the eruption year", status: CLOSED, resolution: "yes, from school; he rebuilt his tables around it after 73 and says so plainly in Ch.25", source: "outline:ch-25; foundation:§3; STATE:ARCH-16" }
     - { gap: "Whether Felix knows about the door", status: CLOSED, resolution: "no; Ch.37 he is told only that Mara fears the mountain", source: "outline:ch-37" }
-    - { gap: "Mara's eye colour, hair and height", status: OPEN, resolution: "set on the page by Ch.1 (or first mention); by design", source: "outline-audit.md § Beyond the audit", ch1_update: "PARTIAL: Ch.1 sets only that her hair is worn up in a knot (long enough to knot; a pencil through it after the clip broke). Colour, eye colour and height remain unset on the page.", ch1_source: "ch-01:p146; ch-01:p147; ch-01:p150", ch2_update: "Ch.2 adds none of the three (the jeweler-scene 'my eyes going hot' is cut in polish cycle 1; only an old filling on the upper-left last molar, p50). Still PARTIAL." }
+    - { gap: "Mara's eye colour, hair and height", status: OPEN, resolution: "set on the page by Ch.1 (or first mention); by design", source: "outline-audit.md § Beyond the audit", ch1_update: "PARTIAL: Ch.1 sets only that her hair is worn up in a knot (long enough to knot; a pencil through it after the clip broke). Colour, eye colour and height remain unset on the page.", ch1_source: "ch-01:p146; ch-01:p147; ch-01:p150", ch2_update: "Ch.2 adds none of the three (the jeweler-scene 'my eyes going hot' is cut in polish cycle 1; only an old filling on the upper-left last molar, p50). Still PARTIAL.", ch3_update: "Ch.3 adds none of the three (only a blush into cheeks and the tops of her ears, p81; a scratch across her knuckles, p55). Still PARTIAL." }
     - { gap: "How Celer learned (autumn AD 70) that Valens was in Phocis and approached as a witness, so that the reward notice went up 'within the month'", status: OPEN, resolution: null, source: "outline:ch-12; foundation:§3" }
     - { gap: "Whether Felix knows Mara's origin", status: OPEN, resolution: null, source: "outline (absent)" }
   contradictions:
@@ -124,7 +135,10 @@ meta:
       prose: "the packing (p63-p67) never mentions a flash, either way"
       line: "ch-02:p63; ch-02:p64"
       note: "This is an omission, not a contradiction. Ch.12 ('no flash appears') is the first place it can be shown. Re-checked 2026-10-18: still no flash on the page; outline.md:165 unchanged. Still open."
-      flag: "UNRESOLVED"
+      ch3_note: "Ch.3 states it: 'The camera had no flash; in this light I would have got a frame of brown mud' (ch-03:p63). The page and the plan now carry one value (no flash); the plan placed it in the Ch.2 packing, the prose in the Ch.3 cave."
+      flag: "RESOLVED"
+      resolved_from_conflict: true
+      resolved_date: "2026-10-18"
     - id: CH2-3
       chapter: 2
       severity: low
@@ -151,6 +165,7 @@ meta:
       prose: "'Sure, that's practically next door' (p42). 'your machine gives me its little tone and then nothing at all' (p24). Fenn's entry says only that he 'put one' (a question mark) after writing the coordinates on (and now adds 'a little picture of the cave mouth'); it does not name BIBLIOTHECA (p2), though the chart's only question mark is after BIBLIOTHECA (Ch.1). Gloria's errands are mail, circulars, Dorothy's dish and the key; there are no taps (p59-p62)."
       line: "ch-02:p2; ch-02:p24; ch-02:p42; ch-02:p59-p62"
       note: "the bible paraphrases loosely. Quote the prose if any of these is recalled later. Re-checked 2026-10-18: character-bible.md still says 'only beeps' (l.409), 'you'll practically be next door' (l.416), 'after BIBLIOTHECA' (l.174) and 'taps' (l.518). Still open."
+      ch3_note: "also found in the Ch.3 run (2026-10-18): character-bible.md l.520-521 still gives the Sansom Street jeweler a 'telephone clamped to his shoulder the whole visit'; polish cycle 1 cut the telephone (the prose has the Daily News crossword and the show tune, ch-02:p14-p15)."
       flag: "UNRESOLVED"
     - id: CH2-6
       chapter: 2
@@ -160,6 +175,86 @@ meta:
       prose: "she loads it on the kitchen table on the Sunday before the flight (p64). That it goes into the duffel is implied only by 'The notebook went into the duffel last, on top' (p67, moved there from p65 in polish cycle 1)."
       line: "ch-02:p64; ch-02:p67"
       note: "the page does not contradict the plan, but packing is implied rather than stated. Ch.3 can show the camera on the path without a gap. Re-checked 2026-10-18: still implied, not stated. Still open."
+      ch3_note: "Ch.3 states it: 'I got the Pentax out of the end pocket of the bag' (ch-03:p6). Packed, confirmed."
+      flag: "RESOLVED"
+      resolved_from_conflict: true
+      resolved_date: "2026-10-18"
+    - id: CH3-1
+      chapter: 3
+      severity: low
+      entity: "august-fenn.knowledge (the order of the 1968 breaths) / Mara's summary of the notebook"
+      plan: "Ch.2 (prose, Fenn's entries): first cold 'about a minute' (May, by placement, ch-02:p19-p20); 'Cold again Tuesday morning. Nothing Wednesday, nothing since' (ch-02:p20); last entry July 21 (a Sunday): cold 'for a whole cigarette, which is the longest yet', 'Going in tomorrow first thing' (= Mon 22 July) (ch-02:p69)"
+      prose: "'Fenn had stood here with his arm in a hole for the length of a cigarette, and written it down, and come back on Tuesday.' Read in order, the Tuesday return follows the cigarette-length cold"
+      line: "ch-03:p77 (manuscript line 155)"
+      note: "in Ch.2 the Tuesday cold came weeks before the cigarette, and after the cigarette he planned to go in the next day (Monday). The Ch.3 sentence is Mara's compressed recollection; the tracker keeps the Ch.2 entries as the record of what the notebook says."
+      recheck_ch3_cycle1: "2026-10-18, after polish cycle 1: sentence unchanged (now ch-03:p77, the paragraph re-anchored from p78). Still open."
+      flag: "UNRESOLVED"
+    - id: CH3-2
+      chapter: 3
+      severity: info
+      entity: "objects.venetian-map (size of Fenn's drawn doorway)"
+      plan: "Ch.1 prose: 'a doorway the size of my littlest fingernail, drawn freehand, an arch on two posts with the inside scribbled dark' (ch-01:p78)"
+      prose: "'Fenn had drawn a doorway in ballpoint smaller than a lentil, two posts and a curved top with its middle filled in black' (ch-03:p51)"
+      line: "ch-01:p78 (manuscript line 159); ch-03:p51 (manuscript line 103)"
+      note: "same drawing, two size comparisons (littlest fingernail vs smaller than a lentil). The shape agrees in both."
+      recheck_ch3_cycle1: "2026-10-18, after polish cycle 1: ch-03:p51 unchanged ('smaller than a lentil'); chapter-1.md line 159 unchanged ('the size of my littlest fingernail'). Still open."
+      flag: "UNRESOLVED"
+    - id: CH3-3
+      chapter: 3
+      severity: low
+      entity: "locations.kalivia-plateau (the 1998 structure that becomes a stone pen) / outline Ch.4 beat 4"
+      plan: "outline.md Ch.4 beat 4: 'The refuge hut is now a shepherd's stone pen.' ENTITY_STATE kalivia-plateau: 'a refuge hut (1998) that is a shepherd's stone pen in AD 70' (outline:ch-03; outline:ch-04)"
+      prose: "Ch.3 has no refuge hut. The 1998 structure beside the path is already a shepherd's pen: an old herringbone wall with one corner rebuilt in flat courses and a length of bedspring mortared in for a gate hinge (photographed twice). The plateau holds Kalivia's summer huts of gray stone with tin roofs, stone pens and a small white church"
+      recheck_ch3_cycle1: "2026-10-18, after polish cycle 1: still no refuge hut (p14 lost only its closing clause; p5 lost only its closing clause). outline.md:222 still 'The refuge hut is now a shepherd's stone pen.' Still open."
+      line: "ch-03:p5; ch-03:p14"
+      note: "Ch.4's 'refuge hut is now a pen' has no refuge hut on the page to look back to; the herringbone-and-bedspring pen is the 1998 antecedent the prose provides."
+      flag: "UNRESOLVED"
+    - id: CH3-4
+      chapter: 3
+      severity: info
+      entity: "goatherd-1998 (character-bible 'Ch.3 unnamed walk-ons')"
+      plan: "character-bible.md l.535-536: the goatherd has 'a mobile phone he shouts into about one recurring word'"
+      prose: "he sits on a flat stone with a crook across his knees, shouting up the slope at a brown nanny on a ledge: 'the same word every time, her name or his opinion of her'. There is no phone"
+      line: "ch-03:p10; ch-03:p13"
+      note: "the bible card paraphrases a pre-polish version. Quote the prose if he is recalled."
+      ch3_cycle1_note: "2026-10-18 re-sync: the phone is gone from the prose (ch-03:p10 'shouting up the slope at one brown nanny'; ch-03:p13 'Then he finished the word'). character-bible.md l.535-540 now reads 'cursing a nanny goat on a ledge, stops mid-word for Mara's \"Kalimera,\" then finishes the curse' and records the phone beat as CUT. Both sources carry one value: he was cursing a nanny goat. Any future bible edit must keep that wording (no phone)."
+      flag: "RESOLVED"
+      resolved_from_conflict: true
+      resolved_date: "2026-10-18"
+    - id: CH3-5
+      chapter: 3
+      severity: info
+      entity: "timeline ch.3 exit / mara-reyes.knowledge (season)"
+      plan: "outline.md Ch.3 beat 4: 'Final line: she steps out into the wrong season'. The timeline rows give Ch.4 'autumn', Ch.5 'autumn (olive-pressing season)', Ch.6 'November' (AD 70)"
+      prose: "'I stepped out into October.' (single-sentence closing paragraph, 5 words) The month is named in the narration, read from the light and air at the cave mouth (p85-p89); [pre-revision text: nothing on the page confirmed it]"
+      line: "ch-03:p90 (manuscript line 181)"
+      note: "October is inside the plan's autumn. Recorded as Mara's inference, not a confirmed date. Ch.5's 'olive-pressing season' and Ch.6's November snow day will follow an October arrival."
+      ch3_cycle1_note: "2026-10-18 re-sync: polish cycle 1 adds the evidence the inference rests on, in p88, right after 'a paper-bag brown that I put down to the light': the high summits stand lit to their tops 'and there was gray rock all the way up the gullies where the snow had lain that morning' (p50 had them 'streaked with old snow'), and 'the thyme was over, every flower head dried to a brown husk on its stalk'. With the low orange light (p86), the chill 'that had not been there at noon', the woodsmoke (p88) and the lichened boulder (p89), the page now supports an autumn reading. 'October' stays Mara's inference (no calendar, no year), and it agrees with the plan's autumn AD 70. Prose and plan carry one value (autumn)."
+      flag: "RESOLVED"
+      resolved_from_conflict: true
+      resolved_date: "2026-10-18"
+    - id: CH3-6
+      chapter: 3
+      severity: info
+      entity: "objects.microcassette (location after Ch.2)"
+      plan: "outline Ch.5: 'touched in its sock' (and Ch.19, 35, 38, 43: in her bag)"
+      prose: "Ch.2 packs the tape in a wool sock in the toe of a hiking boot at the bottom of the bag (ch-02:p63). In Ch.3 she is wearing boots ('a bootlace that had worked loose', p9; 'in time with my boots', p52; 'the beam on my boots', p71, p84). The microcassette is not mentioned in Ch.3"
+      line: "ch-02:p63; ch-03:p9; ch-03:p52"
+      note: "the page does not say whether the boots she wears are the packed hiking boots or where the sock went. Where the tape is at the end of Ch.3 is not stated."
+      ch3_cycle1_note: "2026-10-18 re-sync: polish cycle 1 locates it. ch-03:p69: 'I groped in the bag under me for another granola bar, past the sock with the tape in it, which had been down among my clothes since I laced the boots on at home.' So the boots she wears are the packed hiking boots; the sock (with the tape) moved from the boot to among her clothes in the duffel when she put them on at home; the duffel goes through the crack with her (p78-p79) and is on her at the mouth. Touched without comment, never named 'microcassette'. Agrees with outline Ch.5 'touched in its sock' (outline.md:251) and Ch.35 'in its sock in her bag'."
+      line_ch3_cycle1: "ch-02:p63; ch-03:p69"
+      flag: "RESOLVED"
+      resolved_from_conflict: true
+      resolved_date: "2026-10-18"
+    - id: CH3-7
+      chapter: 3
+      severity: info
+      entity: "mara-reyes.knowledge ch.3 (tracker's planned row, not the outline beat)"
+      plan: "ENTITY_STATE planned knowledge row: 'the cave door is real (she crossed)', learned Ch.3, witnessed (from outline Ch.3 'Adds: the door is real')"
+      prose: "she perceives the dry cold, the sound thinning and the blush; backs out; then reads the changed light, air and the missing blaze, and infers only that more than an afternoon has passed ('Lichen did not grow like that in an afternoon') and that it is October. She draws no conclusion about a door, a crossing or a year"
+      line: "ch-03:p76; ch-03:p80-p82; ch-03:p85-p90"
+      note: "the tracker's row is replaced by the prose facts (mara-reyes.knowledge, Ch.3). 'The door is real' is reader knowledge at the end of Ch.3. No manuscript action implied."
+      recheck_ch3_cycle1: "2026-10-18, after polish cycle 1: she now kneels into the crack and backs out on her knees (p79-p83), and she reads two more autumn signs at the mouth (p88), but she still names no door, crossing or year. Still open (tracker-plan vs prose; no manuscript action implied)."
       flag: "UNRESOLVED"
   post_patch_flags:   # P1-P5 RESOLVED 2026-10-18 by direct outline edits: Ch.20 opener=narrative (italic notice); Ch.7 'written down as somebody's kin'; Fenn: 34 yrs in the past, waited for THIS door since 62; Ch.43 original tables go through the door inside the notebook; the Corinth notice (autumn 70) reaches Delphi only in spring 71 (Ch.9).
     # Found while re-reading the PATCHED blueprint. Not resolved here (tracker rule 3). flag: UNRESOLVED.
@@ -203,6 +298,19 @@ characters:
       carries_ch2:
         - { value: "a credit card (the Olympic booking); money for the jeweler ('I paid him')", source: "ch-02:p16; ch-02:p52" }
         - { value: "the microcassette 'in my jacket since March' (on the jeweler Thursday it is in her pocket beside the envelope of links: 'the envelope in my pocket beside the tape'), until she packs it in a sock", source: "ch-02:p16; ch-02:p63" }
+      worn_ch3:
+        - { value: "a jacket with pockets (the walker's map and Fenn's notebook in it; the lens cap dropped into a jacket pocket); zipped to the chin in the cave; the sleeve torn at the elbow on a thornbush", source: "ch-03:p7; ch-03:p50; ch-03:p54; ch-03:p55; ch-03:p57" }
+        - { value: "jeans", source: "ch-03:p71" }
+        - { value: "boots: the hiking boots packed in Ch.2 ('since I laced the boots on at home'); one bootlace has lost its plastic tip ('somewhere between Kennedy and here') and is fraying", source: "ch-03:p9; ch-03:p52; ch-03:p69" }
+        - { value: "her father's Seiko on her wrist, under her jacket cuff (wound on the Delphi balcony that morning)", source: "ch-03:p4; ch-03:p73; ch-03:p76" }
+      marks_ch3:
+        - { value: "a fresh scratch across her knuckles, beaded red along its length (from the thornbush)", source: "ch-03:p55" }
+        - { value: "her right shoulder rubbed by the duffel strap 'where there was bone and no padding'", source: "ch-03:p2" }
+      carries_ch3:
+        - { value: "the duffel (on her shoulder; later its strap over her head so the bag hangs across her chest for the crossing). Contents on the page: a change of clothes, a toothbrush, 'a box and a half of granola bars' (no sleeping bag); the sock with the microcassette in it, down among her clothes (moved there from the boot when she laced the boots on at home); the Pentax in the end pocket; the Advil bottle in a pocket; the flashlight; the unwritten Charioteer postcard; water", source: "ch-03:p2; ch-03:p6; ch-03:p31; ch-03:p50; ch-03:p69; ch-03:p72; ch-03:p78" }
+        - { value: "the walker's map of Parnassus and Fenn's notebook, in her jacket", source: "ch-03:p7" }
+        - { value: "the Pentax lens cap, in a jacket pocket (from p54)", source: "ch-03:p54" }
+        - { value: "the knucklebone, in a pocket (garment not stated), her hand closed around it", source: "ch-03:p64; ch-03:p65; ch-03:p73; ch-03:p84" }
       age_at_eruption: { value: 42, note: "body-age, 33 + 9", source: "foundation:§10" }
       hands: { value: "steady, competent; betray her only at thresholds; touches surfaces to read them", source: "foundation:§3", ch2_note: "on the page: holds a resin join under the hood until her fingers ache from the wrist down (p7); tests the seam with her thumbnail, eyes shut (p9)" }
       teeth: { value: "kept clean 'like a religion'; flossed twice daily in 1998", source: "foundation:§3", ch2_detail: "an old filling with a lip on the last upper-left molar catches and frays the floss; she flosses at the medicine-cabinet mirror in her apartment (p50); the floss is packed before the ticket or the passport (p53)", ch2_source: "ch-02:p50; ch-02:p52; ch-02:p53" }
@@ -231,10 +339,23 @@ characters:
       - { trait: "decides while flossing: near midnight on the first Tuesday in May she stops with the floss still in her teeth, calls Olympic Airways and says 'Athens' before taking the floss out", source: "ch-02:p50; ch-02:p51", mutable: false }
       - { trait: "by May uses her own apartment 'for very little else' than flossing; at her father's house every Saturday (reads Fenn's notebook in his study chair)", source: "ch-02:p46; ch-02:p50; ch-02:p55", mutable: true }
       - { trait: "evasion holds in Ch.2: never states her father's death ('my father's kitchen', 'his greeting had been'); answers Halloran's invitation only with 'I might be in Greece'", source: "ch-02:p3; ch-02:p41", mutable: true }
+      # --- Ch.3 (prose) ---
+      - { trait: "learned Greek 'from grammars with paper covers'; can get through a page of Thucydides faster than she can buy a stamp in it; her 'kalimera' is correct, 'which my Greek mostly was not'; composes Attic Greek with the correct optative in her head, 'more than I could have managed out loud'", source: "ch-03:p13; ch-03:p71", mutable: true }
+      - { trait: "reads French (read the French excavation report on the cave 'slowly, in French' through most of April)", source: "ch-03:p60", mutable: false }
+      - { trait: "has worked about ten years in the basement lab ('My lungs had spent ten years in a basement lab'); out of breath on the climb", source: "ch-03:p2", mutable: false }
+      - { trait: "photographs as her father did: the site from above first, horizon a third of the way from the top; balances the lens cap in the frame for scale and drops it into her pocket instead of refitting it ('which he also would have done')", source: "ch-03:p6; ch-03:p54", mutable: true }
+      - { trait: "reads a wall of graffiti as she reads the underside of a pot, 'for the order things had happened in', in raking light ('If it had come into my lab I would have needed a month just to decide what to keep')", source: "ch-03:p58; ch-03:p59", mutable: false }
+      - { trait: "wrote the lab's page of procedure for unprovenanced finds (taped above the lab sink: leave it, or return it to its hollow, photograph with a scale, record, tell the ephorate); gives a speech at parties about objects lifted without records; pockets the knucklebone anyway ('I pocketed it'), stands up too fast and looks out at the mouth, and means to hand it in at the Delphi museum on the way down", source: "ch-03:p63; ch-03:p64; ch-03:p65", mutable: true }
+      - { trait: "will not leave litter: chases a granola wrapper twenty feet downhill into a thornbush and tears her sleeve getting it back", source: "ch-03:p50", mutable: false }
+      - { trait: "all-or-nothing at the slot: 'I was going in properly or I was going home' (the outline's chaos moment)", source: "ch-03:p77; outline:ch-03", mutable: true }
+      - { trait: "evasion holds in Ch.3: answers the German's questions in a few words ('Just my clothes.' 'However long it takes.' 'I fix pots. In a museum.'); does not say why she is on the mountain; still never states her father's death ('my father's camera', 'my father's watch')", source: "ch-03:p19; ch-03:p21; ch-03:p32; ch-03:p43; ch-03:p73", mutable: true }
+      - { trait: "keeps the sherds her father brought her each September in a Buster Brown shoebox (once under her bed, sorted by color on rainy Saturdays; now on the top shelf of her closet behind the winter sweaters); at twenty-four, halfway through a seminar on the antiquities trade, she 'understood what each of them was'; has not opened the box since and has not thrown it out", source: "ch-03:p25", mutable: true }
+      - { trait: "unprompted memories (Ch.3): a boy going out on 'aglet' with two g's at the citywide spelling bee in 1977; the cellar dark the July she was seven, when she screamed; a department Christmas party in Mount Airy in 1989 (opening a bedroom door on eight or nine strangers around a candle); the Hanson song from the summer before (chorus only)", source: "ch-03:p9; ch-03:p52; ch-03:p70; ch-03:p81", mutable: false }
+      - { trait: "has not called Gloria from Greece (stood at the Delphi kiosk phone on Wednesday with a phone card, thinking about Ray having his fit, and bought a postcard instead)", source: "ch-03:p72", mutable: true }
       - { trait: "can speak Greek by Ch.32 (argues with Philokrates in it)", source: "outline:ch-32", mutable: true }
       - { trait: "dry, quick, over-prepared, allergic to being looked after", source: "foundation:§3", mutable: true }
       - { trait: "irrelevant obsession: teeth (full surfacings Ch.7, 20, 31; glancing only Ch.2 floss, Ch.5 Kallia inspects hers, Ch.15 Valens's, Ch.24 the midwife's = the book's only introduction-by-teeth; cut from Ch.1, 4, 8, 19, 23; horrified by burnt-horn tooth powder and urine mouthwash; chews a mastic-wood stick)", source: "foundation:§3; outline:checks#4; outline:ch-01", mutable: false }
-      - { trait: "cognitive distortion: all-or-nothing (Ch.1, 5, 7, 9, 20, 29, 33)", source: "foundation:§3; outline:checks#4; ch-01:p11 ('If I stayed for the Sicily tray I would stay for all of them, then for the coffee, then for the foil …')", mutable: true }
+      - { trait: "cognitive distortion: all-or-nothing (Ch.1, 5, 7, 9, 20, 29, 33)", source: "foundation:§3; outline:checks#4; ch-01:p11 ('If I stayed for the Sicily tray I would stay for all of them, then for the coffee, then for the foil …'); ch-03:p77 ('I was going in properly or I was going home'; outline Ch.3 chaos moment)", mutable: true }
       - { trait: "unprompted memory: Mrs. Dunphy crying at her desk (green cardigan Ch.7; brown Ch.24; unsure it was long division Ch.41)", source: "foundation:§3", mutable: false }
       - trait: "failed emotional management: three breaks — Ch.6 scream at the shut cave wall (the one break the plot earns); Ch.20 weeps at a fountain over a toddler's wet pebble; Ch.22 laughing fit when a man on the benches sneezes (unearned)"
         source: "foundation:§3; outline:checks#4; outline:ch-06; outline:ch-20; outline:ch-22"
@@ -261,9 +382,10 @@ characters:
     voice_markers:
       ref: "character-bible.md#mara-reyes"
     relationships:
-      emilio-reyes: { type: "daughter; grew up in his rowhouse (knelt on the radiator cover watching the corner for his taxis); installed his answering machine with him, December 1991", established: "ch-01:p1", current_status: "father deceased (January 1998). End of Ch.2: she has signed the heir's declaration for his permit (Wed 1 Apr); his Seiko is resized and on her wrist; his Pentax is loaded; the chart hangs over his desk; she has not taken down any of his field notebooks; she spends Saturdays in his study chair", source: "ch-01:p1; ch-01:p163; ch-01:p167; ch-01:p188; ch-01:p191; ch-01:p192; ch-02:p14; ch-02:p44; ch-02:p45; ch-02:p46; ch-02:p64" }
-      maras-mother: { type: "daughter; mother lives in Phoenix", established: "ch-01:p3", current_status: "sent lilies and a card ('Thinking of you, sweetheart, today and always'); has said little about Emilio 'since 1981'; off-page" }
-      gloria: { type: "cousin (side not stated on the page; character-bible: father's side)", established: "ch-01:p26", current_status: "Ch.2 (Sat 9 May, by phone): has heard from Pat about Greece; gets 'Till the ninth of June'; tells Mara to leave the key in the flowerpot and to call collect when she arrives", ch2_source: "ch-02:p55; ch-02:p56; ch-02:p61; ch-02:p62" }
+      emilio-reyes: { type: "daughter; grew up in his rowhouse (knelt on the radiator cover watching the corner for his taxis); installed his answering machine with him, December 1991", established: "ch-01:p1", current_status: "father deceased (January 1998). End of Ch.2: she has signed the heir's declaration for his permit (Wed 1 Apr); his Seiko is resized and on her wrist; his Pentax is loaded; the chart hangs over his desk; she has not taken down any of his field notebooks; she spends Saturdays in his study chair. Ch.3: carries his Pentax and wears his Seiko up Parnassus and through the slot; frames her first photograph as he framed his; remembers his September sherds and the cellar dark (the July she was seven)", source: "ch-01:p1; ch-01:p163; ch-01:p167; ch-01:p188; ch-01:p191; ch-01:p192; ch-02:p14; ch-02:p44; ch-02:p45; ch-02:p46; ch-02:p64; ch-03:p6; ch-03:p25; ch-03:p70; ch-03:p73" }
+      maras-mother: { type: "daughter; mother lives in Phoenix", established: "ch-01:p3", current_status: "sent lilies and a card ('Thinking of you, sweetheart, today and always'); has said little about Emilio 'since 1981'; off-page. Ch.3: Mara tells the German hiker 'My mother's in Phoenix' (he takes her photograph 'for your mother')", ch3_source: "ch-03:p41; ch-03:p42; ch-03:p43" }
+      gloria: { type: "cousin (side not stated on the page; character-bible: father's side)", established: "ch-01:p26", current_status: "Ch.2 (Sat 9 May, by phone): has heard from Pat about Greece; gets 'Till the ninth of June'; tells Mara to leave the key in the flowerpot and to call collect when she arrives. Ch.3: Mara has NOT called her (stood at the Delphi kiosk phone on Wednesday and bought a postcard instead)", ch2_source: "ch-02:p55; ch-02:p56; ch-02:p61; ch-02:p62", ch3_source: "ch-03:p72" }
+      german-hiker: { type: "stranger on the Parnassus path (1998)", established: "ch-03:p15", current_status: "one meeting; she photographs him with his Olympus and he photographs her with the Pentax; last seen as a red speck crossing the plateau toward the road", source: "ch-03:p15; ch-03:p38; ch-03:p47; ch-03:p55" }
       doug-fessler: { type: "her father's dig colleague (eleven seasons in Cyprus, two in Sicily); acquaintance", established: "ch-01:p4", current_status: "offers to clear Emilio's office; asks if she is keeping the house (unanswered); absent from Ch.2" }
       pat: { type: "her father's next-door neighbor", established: "ch-01:p168", current_status: "Ch.2: Mara has asked Pat to keep an eye on the house, and Pat has told Gloria about Greece", ch2_source: "ch-02:p56; ch-02:p57" }
       valens: { type: "stranger-hire (Ch.6) → yard worker (Ch.11) → lovers (Ch.15) → wife (Ch.18)", established: "outline:ch-06", current_status: "planned: married, parents of Lucius and Aelia" }
@@ -271,28 +393,32 @@ characters:
       felix: { type: "household member", established: "outline:ch-11", current_status: "planned: family's first member; fate open after Ch.40" }
       plautia: { type: "jealousy → first female friendship in the past", established: "outline:ch-16", current_status: "allies (Ch.16-22)" }
       pomponia-grata: { type: "landlady and neighbor; rents rooms (Ch.19) and shop front (Ch.20)", established: "outline:ch-19", current_status: "neighbor through Ch.40" }
-      august-fenn: { type: "reader of his 1967-68 notebook (Ch.2) → fellow traveler; correspondent; friend; she nurses his death", established: "ch-02:p1 (documents); in person outline:ch-25", current_status: "Ch.2: knows him only from his notebook, the chart and the consulate carbon; packs his notebook. Planned: Fenn dies winter AD 78-79 (Ch.35)" }
+      august-fenn: { type: "reader of his 1967-68 notebook (Ch.2) → fellow traveler; correspondent; friend; she nurses his death", established: "ch-02:p1 (documents); in person outline:ch-25", current_status: "Ch.2: knows him only from his notebook, the chart and the consulate carbon; packs his notebook. Ch.3: follows his coordinates and directions to the slot; sits 'in his place' ('which of the three of us was the bigger fool'); carries his notebook through. Planned: Fenn dies winter AD 78-79 (Ch.35)", ch3_source: "ch-03:p7; ch-03:p66; ch-03:p73; ch-03:p77" }
       lucius: { type: "mother", established: "outline:ch-24", current_status: "planned" }
       aelia: { type: "mother", established: "outline:ch-26", current_status: "planned" }
       halloran: { type: "her father's permit contact; phone only", established: "ch-01:p176", current_status: "1998 only. Ch.2: he rings Sat 28 March and she answers. She signs and faxes the heir's declaration (Wed 1 Apr). He asks for Emilio's last-season notebooks by the end of June (not sent on the page). His invitation for 6 July 'in Emilio's place' gets 'I might be in Greece'.", ch2_source: "ch-02:p23; ch-02:p36; ch-02:p38; ch-02:p40; ch-02:p41; ch-02:p44" }
       irene-szabo: { type: "seller of the map", established: "ch-01:p41", current_status: "1998 only; holds Mara's $1,150 check (bearing Emilio's house phone number) and her license number" }
       theano: { type: "the Pythia who names Pompeii to her", established: "outline:ch-13", current_status: "one meeting" }
     possessions:
-      - { item: "fathers-pentax-k1000", acquired: "ch-01:p192 (on her father's shelf); taken down and loaded ch-02:p64", status: "Ch.1: handled and put back on the shelf. Ch.2: loaded at the house's kitchen table on the Sunday before the flight (Sun 17 May) with a new roll of Kodak (36 frames); counter at 1; no frames taken. Packing implied, not stated (meta.contradictions CH2-6). Planned: carried to AD 70; frame 36 Ch.38, roll rewound and removed; camera back on the shelf (not packed)" }
-      - { item: "film-roll", acquired: "ch-02:p64 (a new roll of Kodak loaded)", status: "Ch.2: 36 frames, 0 taken (two blank advances with the cap on, to frame 1). Planned: 8 frames shot in 1998 (so all eight fall after 17 May); canister packed Ch.38; sent through the door Ch.43" }
-      - { item: "microcassette", acquired: "ch-01:p188 (ejected from the answering machine's greeting well)", status: "Ch.1: in her jacket pocket, buttoned. Ch.2: in the jacket 'since March' (in her pocket beside the jeweler's envelope, ch-02:p16), then put inside a wool sock, rolled tight, in the toe of a hiking boot at the bottom of the bag (ch-02:p63). Planned: sent through the door Ch.43" }
-      - { item: "fathers-seiko-watch", acquired: "ch-01:p190-p191 (nightstand; she winds it, sets it by the clock radio, buckles it on)", status: "Ch.1: on her wrist, too big. Ch.2: three links taken out at a Sansom Street jeweler (Thursday after work, $8), so it sits snug against her wristbone; wound each morning; 'needed no packing' (ch-02:p14; ch-02:p16; ch-02:p63). Planned: worn Ch.3-5; paid to Valens Ch.6; returned wound and running Ch.18; on her wrist Ch.43-44" }
+      - { item: "fathers-pentax-k1000", acquired: "ch-01:p192 (on her father's shelf); taken down and loaded ch-02:p64", status: "Ch.1: handled and put back on the shelf. Ch.2: loaded at the house's kitchen table on the Sunday before the flight (Sun 17 May) with a new roll of Kodak (36 frames); counter at 1; no frames taken. Ch.3: in the end pocket of the duffel (CH2-6 resolved); used on the path and at the mouth (six frames on the page; see objects.film-roll); goes through the slot with her; lens cap off, in her jacket pocket. Planned: frame 36 Ch.38, roll rewound and removed; camera back on the shelf (not packed)", ch3_source: "ch-03:p6; ch-03:p54" }
+      - { item: "film-roll", acquired: "ch-02:p64 (a new roll of Kodak loaded)", status: "Ch.2: 36 frames, 0 taken (two blank advances with the cap on, to frame 1). Ch.3: 'a little of the roll' spent in Delphi before the climb (count not stated) + six frames on the page (plateau; the pen's join x2; Mara, taken by the German; the cave arch; the inscription with the lens cap). The counter is never mentioned. Planned: 8 frames shot in 1998; canister packed Ch.38; sent through the door Ch.43", ch3_source: "ch-03:p6; ch-03:p13; ch-03:p14; ch-03:p47; ch-03:p51; ch-03:p54" }
+      - { item: "microcassette", acquired: "ch-01:p188 (ejected from the answering machine's greeting well)", status: "Ch.1: in her jacket pocket, buttoned. Ch.2: in the jacket 'since March' (in her pocket beside the jeweler's envelope, ch-02:p16), then put inside a wool sock, rolled tight, in the toe of a hiking boot at the bottom of the bag (ch-02:p63). Ch.3: in its sock 'down among my clothes' in the duffel since she laced the boots on at home; touched without comment as she gropes for a granola bar in the dark of the cave (ch-03:p69); crosses with her in the duffel (CH3-6 RESOLVED 2026-10-18). Planned: touched in its sock Ch.5; sent through the door Ch.43" }
+      - { item: "fathers-seiko-watch", acquired: "ch-01:p190-p191 (nightstand; she winds it, sets it by the clock radio, buckles it on)", status: "Ch.1: on her wrist, too big. Ch.2: three links taken out at a Sansom Street jeweler (Thursday after work, $8), so it sits snug against her wristbone; wound each morning; 'needed no packing' (ch-02:p14; ch-02:p16; ch-02:p63). Ch.3: wound on the Delphi balcony that morning; running throughout (read at 12:20, 12:30, 1:40; 'ten to two' at the mouth with the sun low in the west); at the slot 'Under my cuff the steel of the watch took the cold and held it'; on her wrist through the slot (ch-03:p4; ch-03:p69; ch-03:p74; ch-03:p76; ch-03:p87). Planned: worn Ch.4-5; paid to Valens Ch.6; returned wound and running Ch.18; on her wrist Ch.43-44" }
       - { item: "seiko-band-links", acquired: "ch-02:p14 (three links in a stamp-sized sealed manila envelope)", status: "she leaves the shop with the envelope in her pocket beside the tape (p16); where it goes after that is not stated" }
-      - { item: "fenn-notebook", acquired: "ch-01:p98-p99 (in the Phillies cigar box that 'comes with' the chart)", status: "Ch.2: read in rations from the night of 14 March (kitchen; later the study on Saturdays); the stuck back leaves were humidified overnight and the consulate carbon found in the back-cover pocket; then it 'went into the duffel last, on top'; she re-reads the last entry the night before the flight (ch-02:p3; ch-02:p5; ch-02:p46; ch-02:p65; ch-02:p67; ch-02:p68). Planned: tremor notes in its back pages from Ch.20; offered to Fenn and refused Ch.25; read by him and returned Ch.35; sent through the door Ch.43" }
+      - { item: "fenn-notebook", acquired: "ch-01:p98-p99 (in the Phillies cigar box that 'comes with' the chart)", status: "Ch.2: read in rations from the night of 14 March (kitchen; later the study on Saturdays); the stuck back leaves were humidified overnight and the consulate carbon found in the back-cover pocket; then it 'went into the duffel last, on top'; she re-reads the last entry the night before the flight (ch-02:p3; ch-02:p5; ch-02:p46; ch-02:p65; ch-02:p67; ch-02:p68). Ch.3: in her jacket with the walker's map; its straight edge used on the map in Delphi; the slot directions re-read by flashlight in the cave; through the slot with her (ch-03:p7; ch-03:p66). Planned: tremor notes in its back pages from Ch.20; offered to Fenn and refused Ch.25; read by him and returned Ch.35; sent through the door Ch.43" }
       - { item: "consulate-effects-slip", acquired: "ch-02:p65 (folded in three in the receipt pocket inside the notebook's back cover)", status: "read, refolded along its creases and put back in the pocket (p67); travels inside the notebook" }
       - { item: "phillies-cigar-box", acquired: "ch-01:p98 ('This comes with it … The box is free')", status: "Ch.1: in the Acme sack on Emilio's kitchen table at chapter end (ch-01:p193). Ch.2: not mentioned (the sentence returning the notebook to its tobacco crumbs is cut); only the notebook goes into the duffel (ch-02:p67)" }
       - { item: "venetian-map", acquired: "ch-01:p102-p131 ($1,150 by check, with a board; Szabo asked $1,400)", status: "Ch.2: window-matted in the lab (four-ply board, hinged with tissue and wheat starch paste), carried flat in a portfolio, and the mat board pinned to the cork strip over Emilio's desk on the first Saturday in April (Sat 4 Apr) (ch-02:p45). Stays in Philadelphia; not packed" }
       - { item: "fathers-house-key", acquired: "prior ('You still have a key?' 'I have a key.')", status: "used Ch.1; the lock sticks unless the door is lifted by the knob. Ch.2: Gloria tells her to leave it in the flowerpot, 'Not under the mat' (ch-02:p62); whether she does is not stated", source: "ch-01:p160; ch-01:p161; ch-01:p163; ch-02:p62" }
-      - { item: "corycian-knucklebone", acquired: "outline:ch-03 (pocketed from the cave floor)", status: "Lucius's by Ch.26; Lucius gives it to Aelia Ch.41; in Aelia's fist Ch.44" }
-      - { item: "maras-duffel", acquired: "prior (half packed in her hall closet 'as it had in every apartment since college')", status: "Ch.2: packed (change of clothes, toothbrush, floss in the outside pocket, granola bars, Advil in the side pocket, hiking boots with the sock and microcassette at the bottom, flashlight implied, Fenn's notebook last, on top); by the door the night before the flight", source: "ch-02:p53; ch-02:p63; ch-02:p67; ch-02:p68" }
-      - { item: "flashlight", acquired: "ch-02:p63 (bought 'because Fenn had wanted a better one')", status: "packed (implied by 'The rest came…'). Planned: shown to Valens Ch.15" }
-      - { item: "granola-bars", acquired: "ch-02:p63 (two boxes 'for the plane and then for the mountain'; shedding oats into the duffel's seams within a day)", status: "planned: one split with the goat-boy Ch.4" }
-      - { item: "ibuprofen", acquired: "ch-02:p63 ('a bottle of Advil', rattling in the duffel's side pocket against the floss)", status: "planned: last two given to Theano for her knees Ch.13 (a payment); optional past-facing mention Ch.32" }
+      - { item: "corycian-knucklebone", acquired: "ch-03:p61-p64 (found at the edge of a drip-basin near the slumped stalagmite; lifted; not photographed; 'I pocketed it')", status: "Ch.3: in a pocket, her hand around it; she means to hand it in at the Delphi museum on the way down; goes through the slot with her. Planned: Lucius's by Ch.26; Lucius gives it to Aelia Ch.41; in Aelia's fist Ch.44" }
+      - { item: "maras-duffel", acquired: "prior (half packed in her hall closet 'as it had in every apartment since college')", status: "Ch.2: packed (change of clothes, toothbrush, floss in the outside pocket, granola bars, Advil in the side pocket, hiking boots with the sock and microcassette at the bottom, flashlight implied, Fenn's notebook last, on top); by the door the night before the flight. Ch.3: carried up from the end of the asphalt (strap on the right shoulder, then the left); the German: 'You are carrying your whole house'; sat on in the dark; strap over her head, bag across her chest and pushed ahead of her into the crack; catches on the slab and is pulled free", source: "ch-02:p53; ch-02:p63; ch-02:p67; ch-02:p68; ch-03:p2; ch-03:p18; ch-03:p69; ch-03:p78; ch-03:p79; ch-03:p83" }
+      - { item: "flashlight", acquired: "ch-02:p63 (bought 'because Fenn had wanted a better one')", status: "Ch.3: used in the cave (a yellow oval showing a yard of rock at a time); switched off to save the batteries while she waits; held between her teeth through the crack; taken out of her mouth back in the hall. Planned: shown to Valens Ch.15", ch3_source: "ch-03:p61; ch-03:p66; ch-03:p69; ch-03:p78; ch-03:p83" }
+      - { item: "granola-bars", acquired: "ch-02:p63 (two boxes 'for the plane and then for the mountain'; shedding oats into the duffel's seams within a day)", status: "Ch.3: 'a box and a half' at the German meeting; one eaten at the second rest stop (wrapper chased into a thornbush), another in the dark of the cave (oats down her front). Planned: one split with the goat-boy Ch.4", ch3_source: "ch-03:p31; ch-03:p50; ch-03:p69" }
+      - { item: "ibuprofen", acquired: "ch-02:p63 ('a bottle of Advil', rattling in the duffel's side pocket against the floss)", status: "Ch.3: 'the Advil bottle chattered in its pocket whenever I moved' (ch-03:p69). Planned: last two given to Theano for her knees Ch.13 (a payment); optional past-facing mention Ch.32" }
+      - { item: "walkers-map-parnassus", acquired: "ch-03:p7 (a kiosk in Delphi, the afternoon she arrived)", status: "in her jacket with Fenn's notebook" }
+      - { item: "charioteer-postcard", acquired: "ch-03:p72 (the Delphi kiosk, Wednesday, instead of a phone call to Gloria)", status: "in the bag, unwritten" }
+      - { item: "lens-cap", acquired: "with the Pentax (on the lens, ch-02:p64)", status: "Ch.3: balanced on the ledge under the inscription for scale, then dropped into her jacket pocket instead of being refitted (ch-03:p54)" }
+      - { item: "sherd-shoebox", acquired: "childhood (the sherds Emilio brought each September)", status: "a Buster Brown shoebox on the top shelf of her closet behind the winter sweaters (Philadelphia); not opened since her antiquities-trade seminar at twenty-four; not thrown out", source: "ch-03:p25" }
       - { item: "toothbrush-and-floss", acquired: "toothbrush: in the duffel since college (ch-02:p53); floss: into its outside pocket on the night of Tue 5 May, 'before there was a ticket in the house or a passport anywhere near the bag' (ch-02:p53)", status: "planned: replaced by a mastic-wood stick by Ch.7" }
       - { item: "hiking-boots", acquired: "ch-02:p63 (at the bottom of the bag; the microcassette sock is pushed into one toe)", status: "packed" }
       - { item: "maras-passport", acquired: "prior", status: "at the back of a dresser drawer under the warranty for a toaster she no longer owns (ch-02:p53). Retrieving and packing it are not narrated (the line 'I did not go looking for it until the week I left' is cut)" }
@@ -310,7 +436,7 @@ characters:
     location_log:
       - { chapter: 1, location: "philadelphia", scene: "university-museum upper gallery (reception, by the Coptic textile case) → STAFF door, back stairs, south loading dock (sleet) → on foot two blocks, cab from Spruce Street over the river to Pine and Tenth → Antique Row → szabo-shop → trolley back, walk down from Thirty-Third Street → upper gallery, coat rack (Gloria), nearly five → emilio-rowhouse (kitchen; then upstairs bedroom; then kitchen, lights off)", travel_noted: true, source: "ch-01:p3; ch-01:p26; ch-01:p32; ch-01:p36; ch-01:p37; ch-01:p40; ch-01:p45; ch-01:p136; ch-01:p140; ch-01:p163; ch-01:p189; ch-01:p193" }
       - { chapter: 2, location: "philadelphia", scene: "emilio-rowhouse kitchen, the night of Sat 14 Mar (first reading, p3) → university-museum basement lab, Mon 16 Mar (lamp, p6-p9) → university-library stacks at lunch (p10) → lab (p11) → a jeweler on Sansom Street, a Thursday after work (p14) → emilio-rowhouse kitchen, Sat 28 Mar ~10 a.m. (Halloran's call, p23-p43) → lab fax, Mon 30 Mar; a check-cashing place on Baltimore Avenue (notary), Wed 1 Apr; lab fax to Naples that afternoon (p44) → emilio-rowhouse study (chart hung Sat 4 Apr; Saturdays after, p45-p46) → maras-apartment bathroom and kitchen, Tue 5 May near midnight (p50-p53) → emilio-rowhouse, Sat 9 May (Gloria's call, p55) → emilio-rowhouse kitchen, Sun 17 May (Pentax, p64) → emilio-rowhouse kitchen, the night before the flight (Mon 18 May, p68)", travel_noted: false, source: "ch-02:p3; ch-02:p6; ch-02:p10; ch-02:p14; ch-02:p23; ch-02:p44; ch-02:p45; ch-02:p50; ch-02:p55; ch-02:p64; ch-02:p68" }
-      - { chapter: 3, location: "kalivia-plateau → corycian-cave", scene: "trail up; first chamber; back recess; crossing; out of the cave mouth", travel_noted: true, note: "flight to Athens + KTEL bus to Delphi per foundation:§9; not staged", source: "outline:ch-03" }
+      - { chapter: 3, location: "delphi-modern → arachova → kalivia-plateau → parnassus → corycian-cave", scene: "(reported) the flight from Kennedy; a room over a shop at the top of Delphi (map bought the afternoon she arrived; the museum and the kiosk phone on Wednesday; the stadium in the last of the light); room given up at 7 a.m. on the climb day → (by means not stated) a taxi out of Arachova across the high plain to the end of the asphalt, a little after nine → on foot up the red-marked path above the plateau: the goats and goatherd; the herringbone pen; the firs (the German hiker); open zigzags; the last paint boulder; the cave mouth (inscription) → the first chamber (graffiti; the knucklebone by the slumped stalagmite) → up the flowstone past the daylight to the slab and the crack; waits from about noon; pees behind the big stalagmite at 12:30 → into the crack at 1:40, kneeling, left shoulder first → backs out on her knees and stands in the hall → down to the mouth; steps out (1:50 by her watch; the sun low)", travel_noted: true, note: "the Athens-to-Delphi leg (foundation's KTEL bus) is not staged; 'the four o'clock bus' is named only as the day-visitor's option. How she got from Delphi to Arachova is not stated", source: "ch-03:p3; ch-03:p4; ch-03:p7; ch-03:p9; ch-03:p10; ch-03:p14; ch-03:p15; ch-03:p50; ch-03:p53; ch-03:p54; ch-03:p56; ch-03:p61; ch-03:p66; ch-03:p69; ch-03:p71; ch-03:p78; ch-03:p82; ch-03:p88; ch-03:p90" }
       - { chapter: 4, location: "parnassus", scene: "goats, goat-boy, shepherd's stone pen (AD 70)", travel_noted: false, source: "outline:ch-04" }
       - { chapter: 5, location: "delphi", scene: "descent; Sacred Way; temple steps (beaten off); agora (herald); Castalian spring; Kallia's storeroom", travel_noted: true, note: "most of a day down the mountain", source: "outline:ch-05" }
       - { chapter: 6, location: "corycian-cave", scene: "back recess in snow; backfill at Kallia's lodging; climb; descent", travel_noted: true, source: "outline:ch-06" }
@@ -388,7 +514,23 @@ characters:
       - { fact: "Halloran and his wife are leaving their Naples flat after thirty-one years; he is ringing from the floor of an emptied room; new tenants come to measure for curtains", learned_chapter: 2, method: "told_by:halloran", source: "ch-02:p26; ch-02:p42" }
       - { fact: "Halloran rang four times that week and got 'its little tone and then nothing at all' (no greeting on the machine)", learned_chapter: 2, method: "told_by:halloran", source: "ch-02:p24" }
       - { fact: "Pat has told Gloria that Mara is going to Greece", learned_chapter: 2, method: "told_by:gloria", source: "ch-02:p56" }
-      - { fact: "the cave door is real (she crossed)", learned_chapter: 3, method: "witnessed", source: "outline:ch-03" }
+      # --- Ch.3 (prose). The planned row 'the cave door is real (she crossed)' is replaced by what the page gives her (CH3-7). ---
+      - { fact: "on a walker's map of Parnassus with degrees and minutes in its margins (bought at a Delphi kiosk), lines laid along the grid from 38° 31′ and 22° 32′ meet on the mountain a few hundred yards from the symbol marked ΚΩΡΥΚΕΙΟ ΑΝΤΡΟ; a minute of latitude covers 'better than a mile', and the cave sits inside it. Fenn 'had read the map right in a library in Philadelphia in 1967 without ever having seen the mountain'", learned_chapter: 3, method: "discovered", note: "plotted on her hotel bed the first evening in Delphi (before the climb day)", source: "ch-03:p7" }
+      - { fact: "the French dug the cave floor at the beginning of the 1970s; their report (two fat volumes in gray paper covers, in the university library): clay figurines by the thousand, rings, lamps, coins, a bronze cicada and 'more than twenty thousand' knucklebones (sheep and goat ankle bones carried up over centuries and left for Pan and the nymphs; the dice and game pieces of every child in Phocis; 'Some had been dyed or drilled through, and a few filled with lead to make them fall a certain way'; laid out in the plates in rows 'like trays of dried beans')", learned_chapter: 3, method: "discovered", learned_when: "April 1998, read cross-legged in the stacks, in French, 'eating nothing, because I had been caught once already' (inside the Ch.2 span; first on the page in Ch.3)", source: "ch-03:p60" }
+      - { fact: "the German hiker's directions: follow the red squares on the stones; the yellow-and-black E4 goes over the summit and on to the sea; the cave is 'For me, forty minutes. For you, with the house, one hour'; 'at two o'clock comes the cloud, up from the gulf. Every day this week… Be down before'", learned_chapter: 3, method: "told_by:german-hiker", source: "ch-03:p27; ch-03:p29" }
+      - { fact: "Fenn's drawn doorway on the chart is this cave's mouth: the same lean to the left-hand post where the rock has broken away, the same flattening along the top; he 'must have copied it out of a photograph in some library book'", learned_chapter: 3, method: "inferred", note: "she had taken it in March for 'the way a child draws any cave at all'; size comparison differs from Ch.1 (CH3-2)", source: "ch-03:p51" }
+      - { fact: "the knucklebone is ancient: a sheep's (maybe a small goat's) hind-leg ankle bone, heavy for its size, stained tea-brown through and through, no smell (a modern bone would be chalky, light and smell of something), two long sides ground flat on a stone (fine parallel scratches), the edges glossy with finger polish", learned_chapter: 3, method: "inferred", note: "by examination under the flashlight", source: "ch-03:p62" }
+      - { fact: "the slot's shape: a vertical crack between a leaning split slab and the wall under a low roof; at the height of her shoulder 'just wide enough to take my forearm', pinched shut above; it widens downward until 'along the floor it was a good foot and a half across'; the flashlight finds a bend four or five feet in, and beyond the bend 'the beam ran on into black'", learned_chapter: 3, method: "witnessed", source: "ch-03:p66; ch-03:p67" }
+      - { fact: "the slot at first gives nothing: rock and air, cave cold, no movement of air on her palm; at twenty past twelve 'the rock was still only rock'", learned_chapter: 3, method: "witnessed", source: "ch-03:p68; ch-03:p69" }
+      - { fact: "BELIEF (Ch.3, before the cold comes): cave air moves with the pressure outside ('the book about limestone had said so'); the cold Fenn felt 'was the weather on the far side of the mountain, coming through the rock'", learned_chapter: 3, method: "inferred", note: "belief, not fact; continues the Ch.2 'Caves breathed'", source: "ch-03:p73" }
+      - { fact: "at twenty to two a cold came from the crack: a single thread across the back of her left hand, then her breath white in the beam, drifting toward the crack; in the opening 'This cold came from somewhere behind the rock': dry, with an edge, 'where the cold off the walls was damp and slow', aching into the bones of her fingers to the wrist (the chest-freezer cold at the Acme); 'Under my cuff the steel of the watch took the cold and held it'; the hairs stood up along her forearm; the drip behind her went thin and far away, the bells at the mouth went and were gone; her ears filled with a pressure that did not pop; 'The beam of the flashlight shook on the rock'", learned_chapter: 3, method: "witnessed", source: "ch-03:p74; ch-03:p75; ch-03:p76" }
+      - { fact: "the entry: flashlight between her teeth, the bag's strap over her head so the duffel hangs across her chest, left side to the opening, left foot in at the wide bottom; she 'sank onto my knees and went in sideways with my left shoulder first and my back flat to the slab', the bag pushed down in front of her in both fists, rock against the back of her head and her shoulder blades, wet stone 'a foot from my eyes'", learned_chapter: 3, method: "witnessed", source: "ch-03:p78; ch-03:p79" }
+      - { fact: "inside the crack, kneeling: cold over her face and down her collar and up her sleeves to the elbows; the last sound (the bag's canvas scraping) went smaller and was gone; 'nothing at all'; she 'knelt in the nothing'; then a scalding blush into her cheeks and the tops of her ears, 'of a kind I had thought I was too old for', the embarrassment of walking into the wrong room ('I had the word sorry in my mouth'); there was no one there", learned_chapter: 3, method: "witnessed", note: "the outline's emotional surprise; recorded as perception. After the cut of the theft-scene 'My ears went hot' (old p66), this is the only heat in her face in Ch.3", source: "ch-03:p79; ch-03:p80; ch-03:p81" }
+      - { fact: "she backed out; the bag caught on the slab and she pulled it free; 'Then I was in the hall again, upright' (she came out on her knees and stood)", learned_chapter: 3, method: "witnessed", source: "ch-03:p82; ch-03:p83" }
+      - { fact: "after she backed out: the drip was going again; the air was cave air, wet and still; nothing came out of the crack against her hand", learned_chapter: 3, method: "witnessed", note: "she does not name this as the door shutting (the shut door is a planned Ch.6 discovery)", source: "ch-03:p84" }
+      - { fact: "at the mouth: the light reaches far into the cave in a long slant, yellow going toward orange, every pebble with a shadow longer than itself; her watch says ten to two; the sun stands low and swollen over the western ridge; half the plateau is in shadow and the lit half 'a paper-bag brown that I put down to the light'; beyond it the high summits lit to their tops, 'gray rock all the way up the gullies where the snow had lain that morning'; on the slope below her 'the thyme was over, every flower head dried to a brown husk on its stalk'; a chill in the air 'that had not been there at noon'; woodsmoke from below; dung, 'close and fresh'; bells under the lip; the last paint boulder has no red on it and no ghost of red, only lichen rosettes as wide as her hand", learned_chapter: 3, method: "witnessed", source: "ch-03:p85; ch-03:p86; ch-03:p87; ch-03:p88; ch-03:p89" }
+      - { fact: "more time has passed than an afternoon ('Lichen did not grow like that in an afternoon')", learned_chapter: 3, method: "inferred", source: "ch-03:p89" }
+      - { fact: "it is October ('I stepped out into October')", learned_chapter: 3, method: "inferred", basis: "the autumn evidence she reads at the mouth: the low, long, yellow-to-orange light at what her watch calls ten to two (p86, p87); the snow gone from the summit gullies she had seen streaked with old snow that morning (p50 → p88); the thyme over, flower heads dried to brown husks (p88); the plateau gone brown, first excused as the light (p88); a chill not there at noon and woodsmoke (p88); the unblazed, lichened boulder (p89)", note: "her inference; no calendar and no year on the page. Agrees with the plan's autumn AD 70 (CH3-5 RESOLVED 2026-10-18)", source: "ch-03:p86; ch-03:p87; ch-03:p88; ch-03:p89; ch-03:p90" }
       - { fact: "the year is AD 70; Vespasian reigns (herald: Titus has taken Jerusalem)", learned_chapter: 5, method: "inferred", note: "overheard the herald; did the history herself; no thought of 79 yet", source: "outline:ch-05" }
       - { fact: "the Corycian door she came by is shut", learned_chapter: 6, method: "discovered", note: "confirmed again Ch.8", source: "outline:ch-06; outline:ch-08" }
       - { fact: "consulting the Oracle needs the pelanos fee, a goat, a Delphian sponsor and a man to ask; women do not go in", learned_chapter: 9, method: "discovered", source: "outline:ch-09" }
@@ -428,10 +570,11 @@ characters:
       - { fact: "the plan, locked: stay for the door; the daylight hours after the mountain opens go to the boat (all by sea if it can, the door let go); if the sea refuses, the door at night", learned_chapter: 37, method: "told_by:valens", note: "Valens's one condition; agreed between them", revised: "2026-10-18", source: "outline:ch-37; STATE:ARCH-18" }
       - { fact: "the backup boat cannot land", learned_chapter: 40, method: "witnessed", source: "outline:ch-40" }
       - { fact: "the door opens before dawn 25 Aug; it takes her; Valens, Lucius and Aelia meet plaster (no one native to its side)", learned_chapter: 42, method: "witnessed", source: "outline:ch-42" }
+    knowledge_absent_ch3: ["the year (plan: AD 70; nothing on the page tells her)", "that she has crossed in time or that a door exists: no conclusion is drawn on the page (CH3-7)", "whether the road, the huts, the church or the ski lifts are still on the plateau (not looked at on the page)", "that the cold she felt at the crack is not weather (her stated belief before it came, p73)"]
     arc_waypoints:
       - { chapter: 1, waypoint: "leaves her father's memorial to look at antiques (the failure); buys the chart; plays his greeting three times, ejects the tape rather than re-record it; winds and wears his watch", source: "ch-01:p1; ch-01:p116; ch-01:p181; ch-01:p184; ch-01:p186; ch-01:p188; ch-01:p191" }
       - { chapter: 2, waypoint: "reads Fenn's notebook in rations against her days; makes a lamp's seam invisible; laughs at the dead man's paperwork; signs as heir; leaves her father's notebooks shut; decides while flossing (Tue 5 May) and books Athens for Tue 19 May; the watch made to fit; packs (the chart stays)", source: "ch-02:p5; ch-02:p9; ch-02:p31; ch-02:p44; ch-02:p45; ch-02:p46; ch-02:p50; ch-02:p52; ch-02:p63; ch-02:p67" }
-      - { chapter: 3, waypoint: "crosses (1998 → AD 70)", source: "outline:ch-03" }
+      - { chapter: 3, waypoint: "climbs to the Corycian Cave with her bag 'however long it takes'; pockets an ancient knucklebone against her own procedure; waits in the dark; at the cold she goes 'in properly' through the crack, blushes, backs out, and steps out of the mouth into a changed light (1998 → autumn, year unknown to her; plan AD 70)", source: "ch-03:p21; ch-03:p64; ch-03:p69; ch-03:p77; ch-03:p79; ch-03:p82; ch-03:p90" }
       - { chapter: 7, waypoint: "becomes Kallia's (legal existence)", source: "outline:ch-07" }
       - { chapter: 13, waypoint: "learns WHERE: Pompeii", source: "outline:ch-13" }
       - { chapter: 14, waypoint: "plan: reach Pompeii, find the door, be gone long before the mountain", source: "outline:ch-14" }
@@ -648,6 +791,9 @@ characters:
       - { fact: "his sister Margaret is dead", learned_chapter: 25, method: "inferred", note: "from 'estate sale'; does not ask whose; the name is not spoken in Ch.25", revised: "2026-10-18", source: "outline:ch-25; character-bible.md#august-fenn-augurinus; STATE:ARCH-17" }
       - { fact: "1990s vocabulary such as 'voicemail' exists", learned_chapter: 26, method: "told_by:mara-reyes", note: "via her letter; rages (once only)", source: "outline:ch-26" }
     knowledge_absent: ["Mara's tremor notes in his notebook's back pages (Ch.35: he reads only his own 1968 front pages)", "that the door will not take natives (never learns)"]
+    ch3_mentions:
+      - { value: "Mara's narration (her reading of his notebook, not new facts about him): he slept up there; climbed to the cave day after day for most of a summer; read the map right in a library in Philadelphia in 1967 without ever seeing the mountain; called the cave a barn ('He had undersold it'); knew cave cold from the Florida sinkholes; sat on the floor in the dark 'with his cigarettes and his notebook and his better flashlight, if he had ever got the better flashlight', going down in the evenings to his beans and his goat", source: "ch-03:p4; ch-03:p7; ch-03:p56; ch-03:p57; ch-03:p73" }
+      - { value: "Mara's compressed version of his last breaths: 'stood here with his arm in a hole for the length of a cigarette, and written it down, and come back on Tuesday' (order differs from his entries: CH3-1)", source: "ch-03:p77" }
     death: { when: "winter AD 78-79", chapter: 35, note: "dies wanting the door; any spoken count is his (37 years, nearly 38); Mara's narration must not say 'months' away (she refuses the date until Ch.36)", source: "STATE:ARCH-6; outline:ch-35; foundation:§10" }
     arc_waypoints:
       - { chapter: 2, waypoint: "notebook voice: confident capitals (Thanksgiving 1967) to a small leaning hand (May 1968) to entries that barely mark the page; last entry July 21, 1968: going in tomorrow, back before Labor Day", source: "ch-02:p1; ch-02:p18; ch-02:p47; ch-02:p68; ch-02:p69" }
@@ -907,6 +1053,11 @@ characters:
       - { trait: "kept only his study (the back bedroom) in order; decades of field notebooks in yellow surveyor's covers, browned at the spine where his thumb opened them, each labelled with a site and a year; wrote small and fast, leaning forward, 'like a man running for a bus'; site plans pinned on the cork strip over his desk 'until their corners curled'", source: "ch-02:p45; ch-02:p46", mutable: false }
       - { trait: "'never in his life returned a form on time' (Mara); never typed up his notebooks (Halloran: 'He never got round to typing anything, did he')", source: "ch-02:p31; ch-02:p36", mutable: false }
       - { trait: "director of record for the Campanian survey season; last season's north transects exist only in his notebooks", source: "ch-02:p28; ch-02:p36", mutable: false }
+      # --- Ch.3 (Mara's memories) ---
+      - { trait: "began every tray of slides with the site from a hilltop before a spade touched it ('the house they lived in a white speck and the trenches not yet cut'), horizon a third of the way from the top; called it 'the only honest picture of a season'", source: "ch-03:p6", mutable: false }
+      - { trait: "brought Mara a sherd in his shirt pocket every September, wrapped in a page of the Cyprus Mail (a cooking-pot scrap with soot on its belly, a lamp rim, a strap handle with the potter's thumbprint)", source: "ch-03:p25", mutable: false }
+      - { trait: "balanced the lens cap in a frame for scale and dropped it into his pocket rather than refit it (Mara: 'which he also would have done')", source: "ch-03:p54", mutable: false }
+      - { trait: "home one July when Mara was seven ('My father was home that July, which was itself unusual'; the page does not say why; Septembers were home months: the slides 'every September', ch-01:p11; the sherds 'every September', ch-03:p25); in a thunderstorm blackout took her down the cellar with a flashlight and switched it off to show her real underground dark; she screamed; he switched it on at once, was sorry for an hour, and left a butterscotch Krimpet (Tastykake) unwrapped on a napkin on her plate in the morning", source: "ch-03:p70", mutable: false }
     voice_markers:
       ref: "character-bible.md#emilio-reyes"
     greeting_ch1:
@@ -1147,7 +1298,7 @@ characters:
       - { fact: "Mara is going to Greece", learned_chapter: 2, method: "told_by:pat", note: "'So it's true': confirmed by Mara's answer", source: "ch-02:p56; ch-02:p58" }
       - { fact: "Mara will be away 'Till the ninth of June' and will put a hold on the mail", learned_chapter: 2, method: "told_by:mara-reyes", source: "ch-02:p59; ch-02:p61" }
       - { fact: "Dorothy's dish is still in Emilio's refrigerator ('I saw it')", learned_chapter: 2, method: "witnessed", note: "she has been in the house since Ch.1", source: "ch-02:p60" }
-    knowledge_absent: ["the notebook / Fenn (she sees only the bag and the sack)", "where Mara went ('Out')", "why Greece, and the flight date (Ch.2)"]
+    knowledge_absent: ["the notebook / Fenn (she sees only the bag and the sack)", "where Mara went ('Out')", "why Greece, and the flight date (Ch.2)", "that Mara has arrived in Greece: Mara has not called her collect as asked (ch-03:p72)", "the cave, the climb, the crossing (Ch.3)"]
     ch2:
       - { value: "rings Emilio's house on Sat 9 May on the cordless from her garage ('Don't ask'); errands: the mail ('Not Pat. Pat opens things'), circulars on the porch, Dorothy's dish; 'Leave the key in the flowerpot, then. Not under the mat'; 'call me when you get there. Collect. Ray'll have a fit, let him.' Still never names Emilio ('that refrigerator')", source: "ch-02:p55; ch-02:p58; ch-02:p60; ch-02:p62" }
 
@@ -1176,6 +1327,7 @@ characters:
     first_appearance: { chapter: 1, mode: "mentioned (lilies and card)", source: "ch-01:p3" }
     traits:
       - { trait: "sent lilies from Phoenix, with a card: 'Thinking of you, sweetheart, today and always'", source: "ch-01:p3", mutable: false }
+      - { trait: "Mara to the German hiker: 'My mother's in Phoenix'; he takes her photograph with the Pentax 'for your mother' ('Good, we send it to Phoenix')", source: "ch-03:p41; ch-03:p42; ch-03:p43", mutable: false }
 
   ray:
     canonical_name: "Ray"
@@ -1184,7 +1336,7 @@ characters:
     first_appearance: { chapter: 1, mode: "mentioned by Gloria", source: "ch-01:p141" }
     traits:
       - { trait: "Gloria's husband (fourteen years); told her the odd earrings were 'a style'; waits in the car with the engine running; won't eat ziti two days running", source: "ch-01:p141; ch-01:p158", mutable: false }
-      - { trait: "will 'have a fit' at a collect call from Greece (Gloria)", source: "ch-02:p62", mutable: false }
+      - { trait: "will 'have a fit' at a collect call from Greece (Gloria); Mara thinks of 'Ray having his fit' at the Delphi phone and does not call", source: "ch-02:p62; ch-03:p72", mutable: false }
 
   tia-nilda:
     canonical_name: "Tía Nilda"
@@ -1261,6 +1413,7 @@ characters:
     aliases: []
     importance: minor
     first_appearance: { chapter: 4, source: "outline:ch-04" }
+    note: "AD 70. Not the 1998 goatherd of Ch.3 (goatherd-1998) and not Fenn's 1968 boy (goat-boy-1968)"
     physical:
       age: { value: "about nine", at_chapter: 4, source: "outline:ch-04" }
       teeth: { value: "REMOVED from the plan (patch pass: teeth cut from Ch.4)", last_confirmed: "outline v4 pre-patch", source: "outline:ch-04 (Character chaos: 'teeth are not used here'); audit WARN-022" }
@@ -1492,6 +1645,79 @@ characters:
     knowledge:
       - { fact: "Mara is taking leave, and she is going to Greece (he asks whether the Greeks grow a decent tomato)", learned_chapter: 2, method: "told_by:mara-reyes", note: "teller implied (the leave form); nothing on the page says he knows why", revised: "2026-10-18 (re-sync: was 'destination unread' before polish cycle 1)", source: "ch-02:p63" }
 
+  # --- added from the Ch.3 manuscript (2026-10-18) ---
+  german-hiker:
+    canonical_name: "the German hiker"
+    aliases: ["the German"]
+    importance: minor
+    first_appearance: { chapter: 3, source: "ch-03:p15" }
+    physical:
+      age: { value: "perhaps sixty-five", at_chapter: 3, source: "ch-03:p15" }
+      build: { value: "tall, with a red face", source: "ch-03:p15" }
+      clothing: { value: "white knee socks, a red windbreaker, a canvas hat with a cord under the chin; two walking poles 'going ahead of him like a second pair of legs'", source: "ch-03:p15" }
+    traits:
+      - { trait: "German ('Ach so', 'Bitte'; his daughter lives in Ulm); English in the present tense with inverted objects ('Olympus she has')", source: "ch-03:p18; ch-03:p23; ch-03:p37; ch-03:p55", mutable: false }
+      - { trait: "takes one stone from every mountain he climbs for his daughter's kitchen windowsill in Ulm (Olympus; Snowdon, 'which is not a mountain, but it rained the whole day, so it is allowed'); her husband says the windowsill will fall into the street one day and kill a man; this one is from Liakoura, that morning at six, a gray stone smaller than a hen's egg with a ribbed fossil shell in it", source: "ch-03:p22; ch-03:p23; ch-03:p24", mutable: false }
+      - { trait: "his son-in-law glues cup handles back on with something from a tube that smells of fish, and the handles come off in your hand", source: "ch-03:p33", mutable: false }
+      - { trait: "his wife is in Arachova 'with her knee'; she says he takes the bus to the top and walks down and tells her stories; he has Mara photograph him with his camera as evidence ('Here I am with the mountain. She cannot argue'), standing straight with his poles crossed, not smiling", source: "ch-03:p37; ch-03:p38", mutable: false }
+      - { trait: "he and his wife eat Philadelphia cream cheese on bread every morning ('Philadelphia! Like the cheese')", source: "ch-03:p35; ch-03:p37", mutable: false }
+      - { trait: "carries a small silver point-and-shoot Olympus on a cord inside his windbreaker (lens slides out with a whine; 'It thinks for itself'); has never held a camera that does not; takes Mara's photograph with the Pentax at arm's length, tongue between his teeth, and jerks it away at the shutter: 'So loud! It is like a gun'", source: "ch-03:p37; ch-03:p43; ch-03:p47; ch-03:p48", mutable: false }
+      - { trait: "warns about weather and route: follow the red, not the E4; the two o'clock cloud off the gulf; 'Be down before'", source: "ch-03:p27; ch-03:p29", mutable: false }
+    voice_markers:
+      ref: "character-bible.md (Ch.3 unnamed walk-ons: The German hiker)"
+    location_log:
+      - { chapter: 3, location: "parnassus", scene: "summit of Liakoura at six a.m.; coming down through the firs above the pen (meets Mara); then down past the goatherd; later a red speck crossing the plateau toward the road", travel_noted: true, source: "ch-03:p23; ch-03:p15; ch-03:p49; ch-03:p55" }
+    knowledge:
+      - { fact: "Mara is American, from Philadelphia; she 'fixes pots. In a museum'; she is carrying her clothes, means to stay up 'However long it takes', and is going to the cave", learned_chapter: 3, method: "told_by:mara-reyes", source: "ch-03:p17; ch-03:p19; ch-03:p21; ch-03:p26; ch-03:p30; ch-03:p32; ch-03:p34" }
+      - { fact: "Mara's mother is in Phoenix", learned_chapter: 3, method: "told_by:mara-reyes", source: "ch-03:p42" }
+      - { fact: "she has a good sleeping bag (his assumption; false: she has a change of clothes, a toothbrush and a box and a half of granola bars)", learned_chapter: 3, method: "inferred", source: "ch-03:p31" }
+    knowledge_absent: ["her name", "that the camera is her father's", "Fenn, the coordinates, the slot"]
+    note: "character-bible's 'Like the cheese' budget: 2 uses, spent (ch-03:p35; ch-03:p36)"
+
+  goatherd-1998:
+    canonical_name: "the goatherd on the Kalivia slope (1998)"
+    aliases: []
+    importance: minor
+    first_appearance: { chapter: 3, source: "ch-03:p10" }
+    note: "distinct from the AD 70 goat-boy (goat-boy, Ch.4) and from goat-boy-1968 (Fenn's notebook): different person, different century"
+    physical:
+      age: { value: "old", at_chapter: 3, source: "ch-03:p10" }
+      clothing: { value: "a flat cap, a gray suit jacket over a sweater; a crook across his knees", source: "ch-03:p10" }
+    traits:
+      - { trait: "sits on a flat stone below the flock (forty or fifty black, brown and dirty-white long-haired goats, belled, with a kid standing on a point of boulder) and shouts the same word, 'her name or his opinion of her', with more disgust each time, up the slope at a brown nanny who has climbed onto a ledge above the rest to eat something she prefers; she does not come down", source: "ch-03:p10; ch-03:p13", mutable: false }
+      - { trait: "breaks off mid-word to greet Mara: 'Kalimera'; then finishes the word; greets the German on his way down", source: "ch-03:p10; ch-03:p11; ch-03:p13; ch-03:p49", mutable: false }
+    knowledge:
+      - { fact: "a foreign woman with a big bag passed up the path toward the cave in the morning", learned_chapter: 3, method: "witnessed", source: "ch-03:p10; ch-03:p13" }
+    bible_variance: "none (CH3-4 RESOLVED 2026-10-18): character-bible.md l.535-540 says he was cursing a nanny goat on a ledge and records the phone beat as cut; the prose has no phone"
+
+  arachova-taxi-driver:
+    canonical_name: "the taxi driver from Arachova"
+    aliases: []
+    importance: minor
+    first_appearance: { chapter: 3, mode: "reported", source: "ch-03:p3" }
+    traits:
+      - { trait: "young; a string of blue glass eyes swinging from his mirror; drives out of his village and across the high plain fast enough to hold the eyes out sideways; stops where the asphalt gives out; points at the slope, the bag and Mara with his whole arm and laughs until he wipes his eyes on his wrist; turns round in a spray of gravel", source: "ch-03:p3", mutable: false }
+    knowledge:
+      - { fact: "he left a foreign woman with a large bag at the end of the asphalt below the cave path, a little after nine", learned_chapter: 3, method: "witnessed", note: "paid 'what he asked' (the number not understood by Mara)", source: "ch-03:p3" }
+
+  delphi-hotel-desk-woman:
+    canonical_name: "the woman at the desk (Mara's Delphi lodging)"
+    aliases: []
+    importance: mentioned_only
+    first_appearance: { chapter: 3, mode: "reported", source: "ch-03:p4" }
+    traits:
+      - { trait: "at the desk downstairs from Mara's room over the worry-bead shop; asks whether she is going back to Athens", source: "ch-03:p4", mutable: false }
+    knowledge:
+      - { fact: "Mara gave up her room at seven on the climb day and was going 'up', not back to Athens", learned_chapter: 3, method: "told_by:mara-reyes", source: "ch-03:p4" }
+
+  delphi-museum-guard:
+    canonical_name: "the guard at the Delphi museum door"
+    aliases: []
+    importance: mentioned_only
+    first_appearance: { chapter: 3, mode: "reported", source: "ch-03:p65" }
+    traits:
+      - { trait: "in a blue uniform; tore Mara's ticket in half on Wednesday 'with tremendous ceremony'; the man she means to give the knucklebone to on her way down", source: "ch-03:p65", mutable: false }
+
 # =====================================================================
 # LOCATIONS
 # =====================================================================
@@ -1513,6 +1739,7 @@ locations:
       - { fact: "Kennedy airport (New York): Mara's Olympic flight to Athens, Tue 19 May 1998", source: "ch-02:p52" }
       - { fact: "Chestnut Hill: Margaret Fenn's estate sale", source: "ch-01:p88" }
       - { fact: "Chestnut Street: the Horn & Hardart automat (Fenn's memory)", source: "foundation:§3" }
+      - { fact: "Ch.3 (Mara's references): the subway stairs at City Hall; Mount Airy (a department Christmas party, 1989); the Acme's chest freezers; Philadelphia never 'green in May' like the Kalivia plain", source: "ch-03:p2; ch-03:p5; ch-03:p76; ch-03:p81" }
       - { fact: "Fenn's 1968 hall table where he left Margaret a note", source: "outline:ch-26; outline:ch-35" }
       - { fact: "the Venetian chart stays pinned over Emilio's desk when Mara leaves (window-matted; the mat board pinned to the cork strip, Sat 4 Apr)", source: "ch-02:p45" }
       - { fact: "Ch.1 weather, Saturday 14 March 1998: sleet in the afternoon ('cold sand' in the collar); plain rain by nearly five and after dark", source: "ch-01:p26; ch-01:p32; ch-01:p136; ch-01:p163" }
@@ -1537,6 +1764,8 @@ locations:
       - { fact: "front steps (Mara returns by them, nearly five)", source: "ch-01:p136" }
       - { fact: "Mara's conservation lab is in the basement: always cold; a fume hood with a fan; overhead light and a low raking lamp; a magnifier (she takes it home in June); a fax machine (Halloran's form comes through it, and she faxes the signed declaration to Naples from it)", source: "ch-02:p6; ch-02:p7; ch-02:p8; ch-02:p44; ch-02:p47" }
       - { fact: "storerooms: the North African lamp was damaged there c.1935 and mended with shellac", source: "ch-02:p6" }
+      - { fact: "the lab sink, with a kettle; above it, taped up and gone wavy from the steam, Mara's one-page procedure for interns on unprovenanced finds", source: "ch-03:p63" }
+      - { fact: "the night men clean the museum corridors with a pine-oil cleaner", source: "ch-03:p15" }
     distances:
       - { to: "szabo-shop", value: "cab from Spruce Street over the river to Pine and Tenth; trolley back plus a walk down from Thirty-Third Street", source: "ch-01:p32; ch-01:p37; ch-01:p136" }
 
@@ -1567,6 +1796,7 @@ locations:
       - { fact: "study: the back bedroom, 'the only room in the house he had ever kept in order'; his desk with a blotter and chair; a strip of cork over the desk (once his site plans, now the chart's mat board); a bookcase whose bottom shelf holds decades of his field notebooks", source: "ch-02:p45; ch-02:p46" }
       - { fact: "a porch where circulars pile up; a flowerpot (Gloria: leave the key there, not under the mat); Dorothy's dish still in the refrigerator in May", source: "ch-02:p60; ch-02:p62" }
       - { fact: "Mara is there every Saturday by May; the duffel stands by its door the night before the flight", source: "ch-02:p55; ch-02:p68" }
+      - { fact: "a crawlspace under the porch (cave cold, to Mara); a cellar with steps where Emilio switched off the flashlight when she was seven ('our own cellar'); the whole block lost power in that thunderstorm", source: "ch-03:p57; ch-03:p70" }
 
   nicosia:
     canonical_name: "Nicosia (1998)"
@@ -1584,6 +1814,7 @@ locations:
       - { fact: "bathroom: a medicine-cabinet mirror with the silvering gone at one corner, and a light over it that buzzes", source: "ch-02:p50" }
       - { fact: "kitchen: the phone book on top of the refrigerator", source: "ch-02:p50" }
       - { fact: "hall closet: the half-packed canvas duffel; a dresser drawer: the passport at the back under a toaster warranty", source: "ch-02:p53" }
+      - { fact: "her closet: the Buster Brown shoebox of her father's sherds on the top shelf, behind the winter sweaters", source: "ch-03:p25" }
 
   university-library:
     canonical_name: "the university library (Philadelphia)"
@@ -1593,6 +1824,7 @@ locations:
     facts:
       - { fact: "1967: Fenn slit the uncut leaves of the German's volume there with his thumb; 'The girl at the desk looked at me like I came about the radiators'", source: "ch-02:p1" }
       - { fact: "1998: stacks where food is not allowed; the Leipzig 1838 volume in marbled boards on a bottom shelf; still slit only up to the scholion's page", source: "ch-02:p10" }
+      - { fact: "1998: holds the French excavation report on the Corycian Cave in two fat volumes with gray paper covers (Mara read them in the stacks through most of April, in French); Mara has been caught eating in the stacks once", source: "ch-03:p60" }
     distances:
       - { to: "university-museum", value: "up at lunch and back down to the lab (a walk; no figure)", source: "ch-02:p10; ch-02:p11" }
 
@@ -1604,8 +1836,14 @@ locations:
       - { fact: "'they picked up the whole village and moved it down the road so the French could dig' (Fenn, 1968; cf. Kastri moved in the 1890s, Ch.1)", source: "ch-02:p17" }
       - { fact: "1968: Fenn's room over a taverna; the owner's mother feeds him beans; a goat eats what is left on the sill, including half a postcard", source: "ch-02:p17" }
       - { fact: "1968: the Athens bus arrives here (a passenger leaves a week-old Herald Tribune on Fenn's table)", source: "ch-02:p54" }
+      - { fact: "1998: Mara's room over a shop selling blue worry beads and plaster copies of the Charioteer, at the top of the town; a balcony the width of a bookshelf; the view straight down into a gray-green sea of olive trees running on to the water at Itea; swifts below the balcony; a woman at the desk downstairs ('hotel bed', p7)", source: "ch-03:p4; ch-03:p7" }
+      - { fact: "1998: a kiosk with a telephone (phone cards), walkers' maps of Parnassus and postcards of the Charioteer", source: "ch-03:p7; ch-03:p72" }
+      - { fact: "1998: the museum, a guard in a blue uniform at the door who tears tickets (Mara's visit on Wednesday); the stadium at the top of the sanctuary (photographed by Mara in the last of the light)", source: "ch-03:p6; ch-03:p65" }
+      - { fact: "1998: 'the four o'clock bus' (the day visitor's way back after an hour at the cave; route not stated)", source: "ch-03:p4" }
+      - { fact: "1998: the ephorate here would be told of a find and 'send a man up in a month'", source: "ch-03:p63" }
     distances:
       - { to: "corycian-cave", value: "four hours up on foot (Fenn, 1968)", source: "ch-02:p17" }
+      - { to: "arachova", value: "not stated (Mara leaves Delphi at seven; a taxi out of Arachova drops her at the end of the asphalt a little after nine)", source: "ch-03:p3; ch-03:p4" }
 
   athens:
     canonical_name: "Athens"
@@ -1616,12 +1854,21 @@ locations:
       - { fact: "the American consulate in Athens issued the effects carbon of 16 September 1968", source: "ch-02:p65" }
       - { fact: "Mara's Olympic Airways destination from Kennedy, Tue 19 May 1998", source: "ch-02:p51; ch-02:p52" }
 
+  arachova:
+    canonical_name: "Arachova (1998)"
+    era: "1998"
+    aliases: []
+    facts:
+      - { fact: "the taxi driver's village; the road out of it climbs up across the high plain to the Kalivia plateau and on, as two ruts of white gravel where the asphalt ends", source: "ch-03:p3" }
+      - { fact: "the plateau road comes 'from the Arachova side' and climbs the far slope to the ski runs", source: "ch-03:p5" }
+      - { fact: "the German hiker's wife waits here 'with her knee'", source: "ch-03:p37" }
+
   phoenix:
     canonical_name: "Phoenix (1998)"
     era: "1998"
     aliases: []
     facts:
-      - { fact: "where Mara's mother lives (sent lilies)", source: "ch-01:p3" }
+      - { fact: "where Mara's mother lives (sent lilies); Mara tells the German hiker so", source: "ch-01:p3; ch-03:p42" }
 
   naples:
     canonical_name: "Naples (1998)"
@@ -1635,20 +1882,35 @@ locations:
   kalivia-plateau:
     canonical_name: "Kalivia plateau"
     era: "1998 / AD 70"
-    aliases: []
+    aliases: ["Livadi (the map's name for the plain)", "the high plain"]
     facts:
-      - { fact: "trailhead to the Corycian Cave; thyme, goat bells, wind; a refuge hut (1998) that is a shepherd's stone pen in AD 70", source: "outline:ch-03; outline:ch-04" }
-      - { fact: "reached via Olympic Airways to Athens and the KTEL bus to Delphi", source: "foundation:§9" }
+      - { fact: "trailhead to the Corycian Cave; thyme, goat bells, wind", source: "ch-03:p1" }
+      - { fact: "PLAN: 'a refuge hut (1998) that is a shepherd's stone pen in AD 70'. NOT ON THE PAGE in Ch.3: there is no refuge hut; the 1998 structure by the path is already a shepherd's pen (CH3-3)", source: "outline:ch-03; outline:ch-04; ch-03:p14" }
+      - { fact: "reached via Olympic Airways to Athens and the KTEL bus to Delphi (plan). Ch.3 stages only a taxi out of Arachova across the high plain to the end of the asphalt", source: "foundation:§9; ch-03:p3" }
+      - { fact: "1998, May: a long floor of new grass between the mountains, a wet, 'almost violent green with yellow in it'; the map calls the plain Livadi; the shepherds' summer huts of Kalivia in loose clusters (rough gray stone, tin roofs rusted orange at the seams); stone pens; a white church hardly bigger than a garage, its bell in an iron frame beside the door (no tower); sheets of standing snowmelt; a black plastic bag caught on a pen wall", source: "ch-03:p5" }
+      - { fact: "1998: the road crosses the plain from the Arachova side and climbs the far slope to the ski runs, where the lifts stand idle for the summer with their chairs hanging; the road looks 'like a dropped bootlace' from the slope; trucks and a white van on it", source: "ch-03:p1; ch-03:p5" }
+      - { fact: "1998: beside the path above the plain, a shepherd's pen whose fallen corner was rebuilt by a second builder: the old stones set on edge in a long herringbone, the new ones laid flat in courses, and a length of bedspring mortared into the join as a gate hinge (Mara photographs the join twice)", source: "ch-03:p14" }
+      - { fact: "seen from the cave mouth at Mara's exit: the sun low over the western ridge; half the plateau in shadow; the lit half 'a paper-bag brown that I put down to the light'; beyond it the high summits lit to their tops, 'gray rock all the way up the gullies where the snow had lain that morning'; woodsmoke rising from below; bells under the lip", source: "ch-03:p88" }
 
   corycian-cave:
     canonical_name: "the Corycian Cave"
     era: "1998 / AD 41-71"
     aliases: ["the cave of the nymphs on Parnassus", "the nymphs' cave"]
     facts:
-      - { fact: "the crossing site (Mara 1998; Fenn 1968)", source: "STATE:ARCH-2; foundation:§9" }
-      - { fact: "sacred to Pan and the nymphs; tens of thousands of knucklebones excavated there", source: "foundation:§9" }
-      - { fact: "vast first chamber; stalagmites; tourist graffiti (1998); a cold back recess at Fenn's coordinates", source: "outline:ch-03" }
-      - { fact: "the trail's paint blaze is gone on the AD 70 side", source: "outline:ch-03" }
+      - { fact: "the crossing site (Mara 1998, Ch.3 on the page; Fenn 1968)", source: "STATE:ARCH-2; foundation:§9; ch-03:p79" }
+      - { fact: "sacred to Pan and the nymphs; 'more than twenty thousand' knucklebones excavated there (by the French, early 1970s: figurines by the thousand, rings, lamps, coins, a bronze cicada; knucklebones 'dyed or drilled through, and a few filled with lead'; report in two volumes)", source: "foundation:§9; ch-03:p60" }
+      - { fact: "ΚΩΡΥΚΕΙΟ ΑΝΤΡΟ on the 1998 walker's map; Fenn's 38° 31′ / 22° 32′ falls a few hundred yards from its symbol", source: "ch-03:p7" }
+      - { fact: "1998 approach: a path marked with red paint squares on boulders every fifty yards (some with an arrow, some with a white bar; drips dried in beads); seen from below as a dark arch in a low gray cliff, wider than high, a scrub oak growing out of a crack over the lip; the arch's left-hand post leans where the rock broke away and its top is flattened (= Fenn's drawing)", source: "ch-03:p8; ch-03:p51" }
+      - { fact: "1998: the last paint is on a gray boulder 'as broad as a kitchen table' at the final turn below the mouth, facing the cave, with a red square and an arrow pointing at the arch", source: "ch-03:p53" }
+      - { fact: "1998 mouth: ground trodden bare, goat droppings; a fire ring of blackened stones under the overhang with a crushed plastic water bottle and the stub of a white church candle in the ashes; to the right of the arch a smoothed patch at shoulder height with worn Greek capitals, lichened: ΝΥΜΦ… (rest lost) and ΠΑΝ, cut deeper and very clear, with a small ledge beneath", source: "ch-03:p54" }
+      - { fact: "first chamber: the floor slopes down from the lip, loose and stony; daylight goes a little way and stops; a single hall running back into the mountain farther than daylight follows, the roof rising into darkness and folding down at the sides in draperies of stone; stalactites in brown wet bunches; pale stalagmites from knee height to taller than a man; near the middle a great slumped stalagmite ('a great slumped mass', no size given) with a dull shine on its near shoulder where hands have been laid on it 'for a span of years I could not begin to guess at'", source: "ch-03:p56" }
+      - { fact: "cave cold: 'the cold of a cellar in August', damp and steady; smells of wet stone, earth and faintly of goats; drips falling into water in different places and keys", source: "ch-03:p57" }
+      - { fact: "graffiti on the walls near the mouth (1998): hundreds of names cut with knives and nails, many French in capitals dated 1840s–1850s (one with his regiment); Greek names in capitals with small crosses; one long name in looping Greek script; 'E. WILKINS' of Bristol, 1861, deep and serifed; a 1952 cut through a French lieutenant; names in candle soot on the roof, one upside down; lowest, at hip height, a heart in blue felt-tip with two pairs of initials and 1996", source: "ch-03:p58" }
+      - { fact: "the floor (1998): loose, gray-brown, uneven, humped where the French spoil went back and hollow where it settled; a goat's sleeping hollow; near the slumped stalagmite a drip has washed out a basin as wide as a soup plate, where the knucklebone lay", source: "ch-03:p60; ch-03:p61" }
+      - { fact: "the way to the slot: past the slumped stone the floor climbs as ridged, slick flowstone with a skin of water; daylight fails; on the left the roof comes down until one must stoop and meets a great slab split from the wall and leaning there; between slab and low roof a vertical crack: at shoulder height 'just wide enough to take my forearm', pinched shut above; lower down it widens, and 'along the floor it was a good foot and a half across' (roughly a tent shape: an adult enters kneeling, sideways, back to the slab); a flashlight beam finds a bend four or five feet in, and beyond the bend 'the beam ran on into black'", source: "ch-03:p66; ch-03:p67" }
+      - { fact: "at the crack (Mara, 1998): still air and cave cold from about noon until 1:40; then a dry, edged cold from behind the rock, breath visible, the cave's sounds thinning to nothing, ear pressure; she went in kneeling at the wide bottom; after she backed out, cave air again and nothing from the crack", source: "ch-03:p68; ch-03:p74; ch-03:p75; ch-03:p76; ch-03:p84" }
+      - { fact: "the trail's paint blaze is gone on the far side of the crossing: the last-turn boulder carries no red and no trace of it, its face covered in gray-green and orange lichen rosettes as wide as a hand", source: "ch-03:p89; outline:ch-03" }
+      - { fact: "after the crossing (Mara's exit): low yellow-to-orange light slanting deep into the cave; a chill under the arch; woodsmoke; fresh dung; goat bells below the lip; on the slope below the mouth 'the thyme was over, every flower head dried to a brown husk on its stalk'", source: "ch-03:p86; ch-03:p88" }
       - { fact: "shut after Mara's crossing: only cold (Ch.6), nothing (Ch.8)", source: "outline:ch-06; outline:ch-08" }
       - { fact: "Fenn left his coat at the cave mouth in 1968, the notebook in its pocket; a shepherd brought the coat down", source: "outline:ch-27; foundation:§3", ch2_note: "Ch.2 shows only the consulate forwarding the overcoat 'with contents of pockets' (ch-02:p66); CH2-3" }
       - { fact: "1968 (Fenn): 'a big wet barn of a place with names scratched all over the walls, a lot of them French'", source: "ch-02:p17" }
@@ -1658,6 +1920,7 @@ locations:
     distances:
       - { to: "delphi", value: "most of a day down the mountain on foot", source: "outline:ch-05" }
       - { to: "delphi-modern", value: "'four hours up and every one of them uphill' to the plateau and the cave (Fenn, 1968)", source: "ch-02:p17" }
+      - { to: "kalivia-plateau", value: "from the end of the asphalt: under three hours with the duffel and rests (derived: taxi drop 'a little after nine'; inside the mouth by noon, when 'the light had come in white and flat'); the German, met above the pen: 'For me, forty minutes. For you, with the house, one hour'", source: "ch-03:p3; ch-03:p27; ch-03:p86" }
 
   parnassus:
     canonical_name: "Mount Parnassus"
@@ -1665,6 +1928,10 @@ locations:
     facts:
       - { fact: "Thyiades' winter rites; women trapped by snow until dawn (Ch.8)", source: "outline:ch-08; foundation:§9" }
       - { fact: "high summer pasture with a shepherd hut (Ch.15)", source: "outline:ch-15" }
+      - { fact: "1998: Liakoura is the summit (the German climbs it by six a.m.); the high summits' gullies 'streaked with old snow' in May (no colour given); limestone 'pale gray', fluted by rain into channels and knife-edged ridges; thyme in low gray cushions, scrub oak; a fir belt above the pen (tall, silver-gray bark, cones upright on the branches, needle floor, thick resin smell)", source: "ch-03:p1; ch-03:p8; ch-03:p15; ch-03:p23; ch-03:p50" }
+      - { fact: "1998: a yellow-and-black E4 sign on a post points toward the summits ('over the summit and down the other side and on, many days, to the sea'); the cave path is marked separately in red", source: "ch-03:p8; ch-03:p27" }
+      - { fact: "1998 (the German): a cloud comes up from the gulf at two or half past two every day 'this week', thick enough to hide the path", source: "ch-03:p29" }
+      - { fact: "at Mara's exit from the cave (far side of the crossing): the high summits stand lit to their tops with 'gray rock all the way up the gullies where the snow had lain that morning' (no snow); the thyme on the slope below the mouth 'was over, every flower head dried to a brown husk on its stalk'", source: "ch-03:p50; ch-03:p88" }
 
   delphi:
     canonical_name: "Delphi (AD 70-71)"
@@ -1857,7 +2124,7 @@ locations:
 timeline:
   - { chapter: 1, time: "Saturday 14 March 1998: forty minutes into the 2 p.m. memorial reception (~2:40) → Pine Street → back at the museum 'nearly five' → the house 'nearly dark'", season: "late winter (sleet turning to rain)", year: 1998, note: "no dateline in Part One. Date from the department office message 'Saturday the fourteenth, two o'clock' + Szabo's 'On a Saturday' + March (plan); 14 March 1998 is a Saturday. Gloria: Mara gone 'Two hours'. Emilio died in January (obituary, Seiko, Halloran); 'two months of mail'. Tía Nilda's call 'Thursday' = 12 March.", source: "ch-01:p1; ch-01:p58; ch-01:p136; ch-01:p158; ch-01:p160; ch-01:p163; ch-01:p164; ch-01:p174; outline:ch-01" }
   - { chapter: 2, time: "night of Sat 14 March 1998 (first reading) → Mon 16 Mar (lab; library at lunch) → a Thursday (jeweler; Thu 19 Mar by sequence) → Sat 28 Mar a little after 10 a.m. (Halloran) → Mon 30 Mar (fax arrives) → Wed 1 Apr (notarized, faxed) → Sat 4 Apr (chart hung) → Saturdays in the study → Tue 5 May just before midnight (decision; booking) → Sat 9 May (Gloria) → Sun 17 May (Pentax loaded) → a night and morning (notebook humidified; consulate carbon) → Mon 18 May night (last entry re-read)", season: "spring", year: 1998, note: "about nine weeks and three days (plan: eight weeks; CH2-4). Fenn's documents run Thanksgiving 1967 → 21 July 1968 and are read in order. Weekdays check: 28 Mar, 4 Apr, 9 May 1998 are Saturdays; 20 Apr and 18 May are Mondays; 5 and 19 May are Tuesdays. Halloran's targets: the 15th (his walk-over), the 20th (Monday; the deadline from Ch.1). Season starts 6 July. Mara tells Gloria she is back on 9 June. No date clash with Ch.1.", source: "ch-02:p3; ch-02:p6; ch-02:p14; ch-02:p23; ch-02:p35; ch-02:p44; ch-02:p45; ch-02:p50; ch-02:p52; ch-02:p55; ch-02:p61; ch-02:p64; ch-02:p65; ch-02:p68" }
-  - { chapter: 3, time: "one day", season: "spring (May) → steps out into 'the wrong season'", year: "1998 → AD 70", note: "the crossing", source: "outline:ch-03; foundation:§10" }
+  - { chapter: 3, time: "one day in May 1998 (date not stated; after a Wednesday spent in Delphi): room given up at 7 a.m.; taxi drop at the end of the asphalt a little after nine; climbing half an hour at the opening; the German in the firs; inside the cave mouth by noon; 12:20 and 12:30 by the Seiko; the cold at 1:40; through the crack and back out; at the mouth 'ten to two' by the Seiko, with the sun low and swollen over the western ridge", season: "spring (May: the plain 'green in a way nothing in Philadelphia was ever green in May'; old snow in the high gullies; ski lifts idle 'for the summer') → at the exit, autumn: 'I stepped out into October' (Mara's inference from the low orange light, the snow gone from the summit gullies, the thyme gone to husk, the browned plateau, the chill and woodsmoke, p86-p88; no calendar; CH3-5 RESOLVED)", year: "1998 → year NOT known to Mara (plan: AD 70)", note: "the crossing. Single scene, no breaks. Arrival in Delphi on an afternoon (map bought that afternoon); a Wednesday in Delphi (museum ticket; kiosk phone; postcard). Flight was Tue 19 May from Kennedy, so the Wednesday is 20 May or later; the climb day is not dated. The Seiko runs 10 minutes across the crossing (1:40 → 1:50) while the sun outside stands at late afternoon: her watch keeps the 1998 day. Plan's timeline: AD 70, autumn (Ch.4-5), November (Ch.6).", source: "ch-03:p2; ch-03:p3; ch-03:p4; ch-03:p5; ch-03:p7; ch-03:p65; ch-03:p69; ch-03:p71; ch-03:p72; ch-03:p74; ch-03:p86; ch-03:p87; ch-03:p88; ch-03:p90; outline:ch-03; foundation:§10" }
   - { chapter: 4, time: "her first hour", season: "autumn", year: "AD 70", note: "she does not know the year; do not date it here", source: "outline:ch-04" }
   - { chapter: 5, time: "most of a day down the mountain; night at the spring", season: "autumn (olive-pressing season)", year: "AD 70", note: "year learned from the herald (Titus took Jerusalem, late summer 70)", source: "outline:ch-05; foundation:§9" }
   - { chapter: 6, time: "a snow day", season: "November", year: "AD 70", note: "", source: "outline:ch-06" }
@@ -1951,7 +2218,19 @@ timeline_events:
   - { date: "9 June 1998", event: "Mara's stated return (to Gloria)", source: "ch-02:p61" }
   - { date: "end of June 1998", event: "Halloran's date for Emilio's last-season notebooks", source: "ch-02:p38" }
   - { date: "6 July 1998", event: "the Campanian survey season starts (Halloran)", source: "ch-02:p40" }
-  - { date: "May 1998", event: "Mara crosses (Ch.3)", source: "foundation:§10", ch2_note: "after the 19 May flight" }
+  - { date: "May 1998", event: "Mara crosses (Ch.3): at 1:40 p.m. by her Seiko, through the crack beside the slab at the back of the Corycian Cave; out of the mouth at 'ten to two' by the watch into late-afternoon autumn light", source: "foundation:§10; ch-03:p74; ch-03:p79; ch-03:p87", ch2_note: "after the 19 May flight" }
+  - { date: "1840s–1850s; 1861; 1952; 1996", event: "names cut and written in the Corycian Cave (French with dates; E. WILKINS of Bristol 1861; a 1952 across a French lieutenant; a 1996 felt-tip heart)", source: "ch-03:p58" }
+  - { date: "July 1972 or 1973 (Mara aged seven)", event: "a thunderstorm blacks out the block; Emilio, home that July ('which was itself unusual'), switches off the flashlight in the cellar; Mara screams; a butterscotch Krimpet next morning", source: "ch-03:p70", revised: "2026-10-18 (polish cycle 1: September → July; the old 'home that September … unusual' sat against ch-01:p11 slides 'every September of my childhood' and ch-03:p25 sherds 'every September')" }
+  - { date: "early 1970s", event: "the French excavate the Corycian Cave floor (report in two volumes)", source: "ch-03:p60" }
+  - { date: "1977", event: "the citywide spelling bee (a boy goes out on 'aglet' with two g's), remembered by Mara", source: "ch-03:p9" }
+  - { date: "c. 1988 (derived: 'ten years in a basement lab' in 1998)", event: "Mara begins work in the basement lab", source: "ch-03:p2" }
+  - { date: "1989", event: "a department Christmas party in Mount Airy: Mara opens a bedroom door on eight or nine strangers around a candle", source: "ch-03:p81" }
+  - { date: "c. 1989 (Mara aged twenty-four)", event: "halfway through a seminar on the antiquities trade, Mara understands what her father's sherds were; the shoebox goes unopened from then on", source: "ch-03:p25" }
+  - { date: "summer 1997", event: "'the Hanson song from the summer before' (Ch.3 is May 1998)", source: "ch-03:p52" }
+  - { date: "April 1998", event: "Mara reads the French cave report in the university library stacks, in French", source: "ch-03:p60" }
+  - { date: "May 1998, her arrival afternoon in Delphi", event: "Mara buys a walker's map of Parnassus at a kiosk and plots Fenn's coordinates that evening on the hotel bed", source: "ch-03:p7" }
+  - { date: "a Wednesday in Delphi (20 May 1998 or later)", event: "the museum (the guard tears her ticket); she stands at the kiosk phone with a phone card, does not call Gloria, buys a Charioteer postcard; (a day in Delphi) the stadium photographed in the last of the light", source: "ch-03:p6; ch-03:p65; ch-03:p72" }
+  - { date: "the climb day, May 1998", event: "7 a.m. room given up; a little after nine the taxi drop; the German hiker (summit of Liakoura at six that morning); the cave by noon; the knucklebone pocketed; the cold at 1:40", source: "ch-03:p3; ch-03:p4; ch-03:p23; ch-03:p64; ch-03:p74" }
   - { date: "c. AD 38", event: "Valens born in Thrace", source: "foundation:§3" }
   - { date: "AD 41", event: "Fenn lands in the past", source: "foundation:§3" }
   - { date: "c. AD 58", event: "Felix born (about 12 in AD 70)", source: "foundation:§3" }
@@ -1962,7 +2241,7 @@ timeline_events:
   - { date: "AD 69", event: "Celer frames Plautia with Valens; Valens flogged, record seized, flees to Phocis; divorce; Celer keeps Marcus", source: "foundation:§3" }
   - { date: "AD 69", event: "Vespasian's reign begins", source: "STATE:guardrails" }
   - { date: "late summer AD 70", event: "Titus captures Jerusalem", source: "foundation:§9" }
-  - { date: "autumn AD 70", event: "Mara arrives", source: "foundation:§10" }
+  - { date: "autumn AD 70", event: "Mara arrives (plan year). On the page: a late-afternoon autumn exit she reads as 'October'; the year is not known to her", source: "foundation:§10; ch-03:p90" }
   - { date: "autumn AD 70", event: "Plautia's brother's freedman finds Valens at Kirrha harbor and asks him to testify; he refuses; the reward notice goes up within the month", source: "outline:ch-12; foundation:§3; STATE:ARCH-15" }
   - { date: "by AD 71", event: "a proconsul governs Achaea again from Corinth (in this book); Celer back on the staff by 71–72", source: "foundation:§9; foundation:§3" }
   - { date: "AD 71, autumn AD 73", event: "Fenn's two tremor-only dates for the Pompeii door fail (three nights at the tomb each time); in autumn 73 Mara lives a mile away (FLEX)", source: "outline:ch-25; foundation:§3" }
@@ -2014,6 +2293,7 @@ objects:
     touches:
       - { chapter: 2, detail: "in her pocket beside the jeweler's envelope of links on the Thursday after work ('the envelope in my pocket beside the tape')", source: "ch-02:p16" }
       - { chapter: 2, detail: "in her jacket 'since March'; then in a wool sock, rolled tight, in the toe of a hiking boot at the bottom of the bag", source: "ch-02:p63" }
+      - { chapter: 3, detail: "touched without comment in the dark of the cave as she gropes in the duffel for a granola bar: 'past the sock with the tape in it, which had been down among my clothes since I laced the boots on at home' (not named 'microcassette')", source: "ch-03:p69" }
       - { chapter: 5, detail: "touched in its sock, no comment", source: "outline:ch-05" }
       - { chapter: 19, detail: "touched in her bag, no comment", source: "outline:ch-19" }
       - chapter: 35
@@ -2025,8 +2305,10 @@ objects:
       - { chapter: 38, detail: "packed in the bag", source: "outline:ch-38" }
       - { chapter: 43, detail: "in the old sock in her hand; first through the door", source: "outline:ch-43" }
     paid: 43
-    last_mentioned_manuscript: "ch-02:p63"
+    last_mentioned_manuscript: "ch-03:p69"
     location_end_ch2: "in a wool sock, rolled tight, in the toe of a hiking boot, at the bottom of the duffel"
+    location_end_ch3: { value: "in its sock, down among her clothes in the duffel (moved out of the boot when she laced the boots on at home, before the flight); the duffel goes through the crack with her and is on her at the mouth", source: "ch-03:p69; ch-03:p78; ch-03:p79; ch-03:p84" }
+    ch3_note: "LOCATED in the 2026-10-18 re-sync (polish cycle 1 added ch-03:p69); CH3-6 RESOLVED. The earlier 'NOT MENTIONED in Ch.3' note is superseded."
     last_mentioned: "outline:ch-43"
     resolution: { chapter: 43, description: "sent through the door to the other side, first (narration says 'the other side' / 'her own century', not '1998')", planned: true }
 
@@ -2039,7 +2321,7 @@ objects:
     beats:
       - { chapter: 1, detail: "on the shelf over Emilio's bureau; Mara opens the back (empty), works the advance lever, and puts it back with the strap as he left it", source: "ch-01:p192" }
       - { chapter: 2, detail: "taken down and loaded at the house's kitchen table, Sun 17 May: rewind crank pulled up until the back popped open; a new roll of Kodak dropped into the chamber; tongue coaxed onto the take-up spool; two shots at the ceiling with the cap on until the window over the lever showed 1; 'thirty-six frames in it, and I had not taken one'. Going into the duffel is implied only by 'The notebook went into the duffel last' (p67; CH2-6). A flash is not mentioned (CH2-2)", source: "ch-02:p64; ch-02:p67" }
-      - { chapter: 3, detail: "photographs on the path; counter reads 9 = eight frames shot (not mentioned)", source: "outline:ch-03" }
+      - { chapter: 3, detail: "taken from the end pocket of the duffel (packing confirmed, CH2-6). Six frames on the page: the plateau from above (her father's first picture, horizon a third from the top; mirror slap and 'clack'; wound on with her thumb); the pen's bedspring join, twice; Mara on the path, shot by the German (he finds the button only after asking; 'So loud! … It is like a gun'); the cave arch from the angle of Fenn's drawing; the ΝΥΜΦ/ΠΑΝ inscription with the lens cap for scale. Mara shows the German the focusing ring and the meter needle centred by the aperture ring. 'The camera had no flash' (the knucklebone and the cave interior go unshot). The counter is never mentioned (as planned). Goes through the crack in or with the duffel (not separately stated)", source: "ch-03:p6; ch-03:p14; ch-03:p43; ch-03:p47; ch-03:p48; ch-03:p51; ch-03:p54; ch-03:p63" }
       - { chapter: 12, detail: "swung as a weapon; survives; plastic lens cap lost in the dust; no flash appears", source: "outline:ch-12" }
       - { chapter: 15, detail: "shown to Valens", source: "outline:ch-15" }
       - { chapter: 16, detail: "named frame: Kallia's lamp on the sill", source: "outline:ch-16" }
@@ -2050,7 +2332,9 @@ objects:
       - { chapter: 38, detail: "frame 36 on the mountain at dawn; she rewinds and removes the roll; the camera goes back on the shelf", source: "outline:ch-38" }
     paid: 38
     lens_cap_ch2: { value: "on the lens while she advances to frame 1 (the cap planned lost in Ch.12)", source: "ch-02:p64" }
-    last_mentioned: "ch-02:p64 (manuscript); planned outline:ch-38"
+    lens_cap_ch3: { value: "off the lens from the inscription shot on: balanced on the ledge for scale, then dropped into her jacket pocket instead of refitted", source: "ch-03:p54" }
+    flash_ch3: { value: "'The camera had no flash' (CH2-2 resolved)", source: "ch-03:p63" }
+    last_mentioned: "ch-03:p63 (manuscript); planned outline:ch-38"
     resolution: { chapter: 38, description: "frame 36 spent; roll removed; camera left on the shelf (not packed)", planned: true }
 
   film-roll:
@@ -2076,10 +2360,22 @@ objects:
         resolved_from_conflict: true
         resolved_date: "2026-10-18"
         resolution_note: "C5: foundation 'smoking very faintly' removed"
-    frames_remaining_after_ch3: 28
-    frames_shot_in_1998: 8
+    frames_shot_ch3:
+      before_climb: { value: "'I had spent a little of the roll in Delphi already, on the stadium at the top of the sanctuary in the last of the light' (count not stated; at least 1)", source: "ch-03:p6" }
+      on_the_page:
+        - { frame_order: 1, subject: "the plateau from above, the road across the bottom (her father's first picture)", source: "ch-03:p6" }
+        - { frame_order: 2, subject: "the herringbone pen's rebuilt corner with the bedspring hinge", source: "ch-03:p14" }
+        - { frame_order: 3, subject: "the same join from closer, bedspring sharp, herringbone soft behind", source: "ch-03:p14" }
+        - { frame_order: 4, subject: "Mara on the path with the bag on her shoulder and the dark firs behind, taken by the German 'for your mother' (Phoenix)", source: "ch-03:p43; ch-03:p47" }
+        - { frame_order: 5, subject: "the cave arch from the angle of Fenn's drawing, with the oak and the lean and the dark inside", source: "ch-03:p51" }
+        - { frame_order: 6, subject: "the ΝΥΜΦ/ΠΑΝ inscription with the PENTAX lens cap on the ledge for scale", source: "ch-03:p54" }
+      not_shot: ["the knucklebone (no flash; 'a frame of brown mud')", "the cave interior and graffiti", "the changed plateau at the exit"]
+      implied_total_by_exit: { value: "6 on the page + the Delphi 'little' (unstated, at least 1) = at least 7. The plan's 8 shot (counter at 9) holds if Delphi took 2. The counter is not mentioned. Indeterminate, not a contradiction", source: "ch-03:p6; foundation:§4f; outline:ch-03" }
+      note: "the German's own Olympus photograph (Mara presses the button) is not on this roll"
+    frames_remaining_after_ch3: { value: 28, basis: "plan (8 shot in 1998). On the page: at most 29 (if Delphi = 1), 28 if Delphi = 2", source: "foundation:§4f; ch-03:p6" }
+    frames_shot_in_1998: { value: 8, basis: "plan; the page shows 6 + an unstated Delphi count", source: "foundation:§4f; ch-03:p6" }
     paid: 43
-    last_mentioned_manuscript: "ch-02:p64"
+    last_mentioned_manuscript: "ch-03:p54"
     last_mentioned: "outline:ch-43"
     resolution: { chapter: 43, description: "canister (packed Ch.38) sent through the door to the other side, undeveloped (narration never asserts '1998' beyond Ch.42's '1998, or near it')", planned: true }
 
@@ -2096,6 +2392,7 @@ objects:
     custody:
       - { chapter: 1, holder: "mara-reyes", detail: "found face up on a folded handkerchief, band coiled, stopped at ten past four (stopped 'in January'); wound by the crown until stiff, set by the clock radio's red numbers, buckled on; ticking 'quick and light'", source: "ch-01:p190; ch-01:p191; ch-01:p193" }
       - { chapter: 2, holder: "mara-reyes", detail: "on her wrist; three links out at a Sansom Street jeweler ($8; the links in a stamp-sized manila envelope); wound each morning 'at whatever window I was standing near'; 'needed no packing'", source: "ch-02:p14; ch-02:p16; ch-02:p63" }
+      - { chapter: 3, holder: "mara-reyes", detail: "RUNNING. Wound on the Delphi balcony that morning. Its luminous dots 'had stopped glowing years ago', so she reads it by flashlight in the cave: 12:20, 12:30; the cold 'came at twenty to two'; at the slot 'Under my cuff the steel of the watch took the cold and held it'; on her wrist through the crack ('my father's watch on my wrist'); back at the mouth 'The watch said ten to two' while the sun stands low over the western ridge (watch time and sun time no longer agree; she does not reset it on the page)", source: "ch-03:p4; ch-03:p69; ch-03:p73; ch-03:p74; ch-03:p76; ch-03:p87; ch-03:p88" }
       - { chapter: 5, holder: "mara-reyes", detail: "ticking in the storeroom", source: "outline:ch-05" }
       - { chapter: 6, holder: "valens", detail: "payment; he winds it the wrong way (backward) until she stops him; keeps it", source: "outline:ch-06" }
       - { chapter: 11, holder: "valens", detail: "she does not get it back", source: "outline:ch-11" }
@@ -2104,18 +2401,24 @@ objects:
       - { chapter: 24, by: "valens", detail: "winds it on her wrist while she sleeps", source: "outline:ch-24" }
       - { chapter: 32, by: "valens", detail: "at midnight, without a word", source: "outline:ch-32" }
       - { chapter: 41, by: "valens", detail: "in the tomb's niche by lamplight", source: "outline:ch-41" }
+    physical_ch3: { value: "luminous dots dead ('had stopped glowing years ago'); steel case", source: "ch-03:p69; ch-03:p76" }
     paid: 43
-    last_mentioned_manuscript: "ch-02:p63"
+    last_mentioned_manuscript: "ch-03:p87"
     final_state: { chapter: 44, detail: "ticking on her wrist (kept, Ch.43)", source: "outline:ch-43; outline:ch-44" }
     last_mentioned: "outline:ch-44"
     resolution: { chapter: 43, description: "she keeps it; it does not go through", planned: true }
 
   corycian-knucklebone:
-    introduced: "outline:ch-03"
+    introduced: "ch-03:p61"
     description: "an ancient knucklebone pocketed from the Corycian Cave floor in 1998 (a conservator's sin)"
+    physical: { value: "a sheep's (maybe a small goat's) hind-leg ankle bone, about as long as the top joint of Mara's thumb; two knobbed ends, a waist and four long sides, each a different shape; heavy for its size; stained tea-brown through and through; no smell; two long sides ground flat, crossed with fine parallel scratches from the rubbing stone; glossy along the edges where flats meet curves (finger polish)", source: "ch-03:p62" }
+    found: { value: "near the slumped stalagmite, at the edge of a soup-plate-wide basin washed out by a drip, its top rinsed clean; lifted from the wet dirt 'with a small suck'; not photographed ('The camera had no flash'); not returned to its hollow; no record made", source: "ch-03:p61; ch-03:p62; ch-03:p63" }
     status: "chekhov_open"
     planted: 3
+    location_end_ch3: { value: "in Mara's pocket (garment not stated), her hand closed around it; it went cold from the dirt 'and then it was not'; carried through the crack and out of the mouth", source: "ch-03:p64; ch-03:p65; ch-03:p73; ch-03:p84" }
+    stated_intent_ch3: { value: "to hand it in at the museum in Delphi on her way down, to the door guard in the blue uniform, 'and explain'", source: "ch-03:p65" }
     beats:
+      - { chapter: 3, detail: "found; examined; pocketed against her own written procedure ('I pocketed it'); she stands up too fast and looks out at the mouth; she keeps her hand around it in the pocket on the way to the slot and on the hurried way down ('closed around the bone'); 'a stolen bone in my pocket'", source: "ch-03:p61; ch-03:p64; ch-03:p65; ch-03:p73; ch-03:p84" }
       - { chapter: 26, detail: "Lucius rolling it", source: "outline:ch-26" }
       - { chapter: 27, detail: "Lucius rolls it down the Cumae gallery", source: "outline:ch-27" }
       - { chapter: 34, detail: "lost in the sand and found", source: "outline:ch-34" }
@@ -2123,6 +2426,7 @@ objects:
       - { chapter: 44, detail: "in Aelia's fist on the road", source: "outline:ch-44" }
     note: "absent from the plan Ch.4–25 by design (audit N-23)"
     paid: 44
+    last_mentioned_manuscript: "ch-03:p84"
     last_mentioned: "outline:ch-44"
     resolution: { chapter: 44, description: "in Aelia's fist at the end", planned: true }
 
@@ -2148,13 +2452,15 @@ objects:
       - { date: "June 1968", gist: "'Up again. Nothing.'; boots going at the toes; 'Tired today.'", source: "ch-02:p48; ch-02:p49" }
       - { date: "undated", gist: "a week-old Herald Tribune from a passenger off the Athens bus, bridge column too", source: "ch-02:p54" }
       - { date: "July 21 [1968]", gist: "cold at the slot for a whole cigarette; going in tomorrow with the good flashlight and kite string; the boy's mother washed his shirts; back before Labor Day; Margaret can stop saying Mexico; the Inquirer", source: "ch-02:p69" }
-    last_mentioned_manuscript: "ch-02:p68"
+    last_mentioned_manuscript: "ch-03:p66"
     location_end_ch2: "'went into the duffel last, on top, where I could get at it' (after the carbon was refolded and put back); re-read at the kitchen table the night before the flight; the cigar box is not mentioned in Ch.2"
+    location_end_ch3: { value: "in her jacket (with the walker's map), through the crack with her", source: "ch-03:p7; ch-03:p66" }
     provenance: "in the coat Fenn left at the Corycian Cave mouth (1968); a shepherd brought it down; the US consulate in Athens forwarded his effects to Margaret (effects slip folded inside the back cover); her boxes → 1997 estate sale → Szabo's cigar box → Mara"
     provenance_source: "outline:ch-27; foundation:§3; ch-02:p65; ch-02:p66"
     provenance_ch2_note: "on the page: the carbon in the back-cover pocket names the overcoat 'with contents of pockets'. The coat-at-the-cave-mouth and shepherd links stay plan-only (CH2-3)"
     beats:
       - { chapter: 2, detail: "read in rations (one entry a night, two on bad days) from the night of 14 March; read in Emilio's study chair on Saturdays; the 1967 coordinates match the chart; the stuck back leaves freed; the consulate carbon found and put back; then into the duffel last, on top; the last entry re-read the night before the flight", source: "ch-02:p3; ch-02:p4; ch-02:p5; ch-02:p46; ch-02:p65; ch-02:p67; ch-02:p68" }
+      - { chapter: 3, detail: "in her jacket with the walker's map (out of the duffel, where it was packed on top in Ch.2); its straight edge laid along the map's grid in Delphi; its slot directions re-read by flashlight in the cave, though she has had them 'by heart since March' ('beyond the last of the daylight, the roof dropping on the left-hand side, a slot there that a man could get his arm into'); carried through the crack", source: "ch-03:p7; ch-03:p66" }
       - { chapter: 20, detail: "first tremor-note entry in the blank back pages", source: "outline:ch-20" }
       - { chapter: 25, detail: "offered to Fenn; he refuses it ('Keep it. I know what's in it.')", source: "outline:ch-25" }
       - { chapter: 30, detail: "another tremor entry", source: "outline:ch-30" }
@@ -2184,12 +2490,12 @@ objects:
     mounting_ch2: { value: "window mat cut in the lab from four-ply board, hinged in with tissue and wheat starch paste; carried to the house flat in a portfolio; the mat board, not the chart, pinned to the cork strip over Emilio's desk in the study, Sat 4 Apr 1998. Visible: the coast of Phocis over his blotter, 'perforated all along its green edge', and Fenn's numbers in blue on the shoulder of Parnassus", source: "ch-02:p45" }
     location_end_ch2: { value: "pinned over Emilio's desk in the study (back bedroom) of the rowhouse; not packed", source: "ch-02:p45" }
     ink_ch2: { value: "Fenn's Thanksgiving 1967 entry: the chart 'got Castri right where it ought to be'; the cave's position came from 'the Army map down at the Free Library'; he wrote it on the chart in ballpoint 'so I'd have it, with a little picture of the cave mouth beside it'; Margaret made him add a question mark 'to be honest about it' (the entry does not name BIBLIOTHECA)", revised: "2026-10-18 (re-sync)", source: "ch-02:p2" }
-    status: "chekhov_open"
-    planned_status: "chekhov_closed (paid Ch.3 via the coordinates; chart stays in Philadelphia)"
+    ch3_detail: { value: "recalled, not present: 'the chart in my father's study'; it never had degrees and minutes in its margins (the walker's map does); Fenn's ballpoint doorway, 'smaller than a lentil' (CH3-2), proves to be this cave's mouth (the lean of the left post, the flattened top)", source: "ch-03:p7; ch-03:p51" }
+    status: "chekhov_closed"
     planted: 1
     paid: 3
-    last_mentioned: "ch-02:p45 (manuscript)"
-    resolution: { chapter: 3, description: "its coordinates (copied into Fenn's notebook) lead to the crossing; the chart stays pinned over Emilio's desk (Ch.2); it never went to Greece in 1968 either", planned: true }
+    last_mentioned: "ch-03:p51 (manuscript)"
+    resolution: { chapter: 3, paragraph: 51, description: "Fenn's coordinates (from his notebook) plotted on a 1998 walker's map put her at the Corycian Cave (p7), and his drawn doorway on the chart matches the cave's mouth (p51); the chart itself stays pinned over Emilio's desk in Philadelphia" }
 
   fenn-tables:
     introduced: "outline:ch-26"
@@ -2263,6 +2569,8 @@ objects:
       - { chapter: 13, detail: "the last two given to Theano for her knees, with instructions; she swallows them without thanks (a payment, one line, never mentioned again in the chapter)", source: "outline:ch-13" }
       - { chapter: 32, detail: "OPTIONAL one past-facing line: the last went into a priestess's knees six years ago; it would only have cooled him", source: "outline:ch-32" }
     paid: 13
+    ch3_beat: { value: "'the Advil bottle chattered in its pocket whenever I moved' (in the cave, in the dark)", source: "ch-03:p69" }
+    last_mentioned_manuscript: "ch-03:p69"
     last_mentioned: "outline:ch-32"
     resolution: { chapter: 13, description: "used up: last two to Theano", planned: true }
 
@@ -2335,10 +2643,15 @@ objects:
     resolution: { chapter: 16, description: "Kallia gives it to Mara (no speech)", planned: true }
 
   lens-cap:
-    introduced: "outline:ch-12"
-    description: "the Pentax's plastic lens cap"
-    status: "lost"
-    last_mentioned: "outline:ch-12"
+    introduced: "ch-02:p64"
+    description: "the Pentax's plastic lens cap: 'a black plastic disc with PENTAX across it in white'"
+    beats:
+      - { chapter: 2, detail: "on the lens for the two blank advances to frame 1", source: "ch-02:p64" }
+      - { chapter: 3, detail: "balanced on the ledge under the cave-mouth inscription for scale, 'as my father would have done'; then dropped into her jacket pocket instead of refitted, 'which he also would have done'", source: "ch-03:p54" }
+    location_end_ch3: { value: "her jacket pocket (the lens uncapped)", source: "ch-03:p54" }
+    status: "background"
+    planned_status: "lost (Ch.12: rolls into the dust during the fight)"
+    last_mentioned: "ch-03:p54 (manuscript); planned outline:ch-12"
     resolution: { chapter: 12, description: "rolls into the dust during the fight; lost", planned: true }
 
   consultation-goat:
@@ -2427,6 +2740,8 @@ objects:
     introduced: "ch-02:p63"
     description: "1998 flashlight, bought 'because Fenn had wanted a better one'"
     status: "background"
+    ch3_beat: { value: "a yellow oval in the cave showing a yard of rock at a time; on the knucklebone; switched off to save the batteries while she waits; switched on to read the watch; at the cold its beam 'shook on the rock'; between her teeth through the crack (her breath 'going out white into its beam'); taken out of her mouth back in the hall", source: "ch-03:p61; ch-03:p66; ch-03:p69; ch-03:p75; ch-03:p76; ch-03:p78; ch-03:p79; ch-03:p83" }
+    last_mentioned_manuscript: "ch-03:p84"
     last_mentioned: "outline:ch-15"
     resolution: null
 
@@ -2434,6 +2749,8 @@ objects:
     introduced: "ch-02:p63"
     description: "two boxes of granola bars 'for the plane and then for the mountain', shedding oats into the duffel's seams; one planned split with the goat-boy, who spits it out"
     status: "background"
+    ch3_beat: { value: "'a box and a half' left at the German meeting; one eaten at the second rest (the wind takes the wrapper; she retrieves it from a thornbush); 'too soon for another' near the top; another eaten in the dark of the cave, oats down her front", source: "ch-03:p31; ch-03:p50; ch-03:p52; ch-03:p69" }
+    last_mentioned_manuscript: "ch-03:p69"
     last_mentioned: "outline:ch-04"
     resolution: null
 
@@ -2589,9 +2906,19 @@ objects:
       - { item: "Fenn's notebook, last, on top", source: "ch-02:p67" }
     not_in_bag: ["the Venetian chart (pinned in the study)", "the Phillies cigar box", "the Seiko (on her wrist)", "a flash unit (never mentioned)"]
     location_end_ch2: { value: "by the door at Emilio's house the night before the flight", source: "ch-02:p68" }
+    contents_ch3:
+      - { item: "a change of clothes, a toothbrush, 'a box and a half of granola bars' (no sleeping bag)", source: "ch-03:p31" }
+      - { item: "the Pentax, in the end pocket", source: "ch-03:p6" }
+      - { item: "the Advil bottle, in a pocket", source: "ch-03:p69" }
+      - { item: "the unwritten Charioteer postcard", source: "ch-03:p72" }
+      - { item: "the flashlight, granola bars and water come out on the climb and in the cave (the bag is not named as their source each time)", source: "ch-03:p50; ch-03:p61; ch-03:p69" }
+      - { item: "the microcassette in its sock, down among her clothes (the boots came out when she laced them on at home)", source: "ch-03:p69" }
+      - { item: "not mentioned: the floss", source: "ch-03 (absent)" }
+    ch3_use: { value: "canvas; the strap works at a bony place on her right shoulder 'with the patience of a wood rasp'; never asked anything 'steeper … than the subway stairs at City Hall'; the taxi driver laughs at it; the German: 'You are carrying your whole house'; she sits on it in the dark against the slab; she gropes in it in the dark for a granola bar, past the sock with the tape; for the crossing the strap goes over her head, the bag hangs across her chest and is pushed down in front of her in both fists as she goes in on her knees; its canvas scraping the rock is 'the last sound in the world'; it catches on the slab coming out and is pulled free", source: "ch-03:p2; ch-03:p3; ch-03:p18; ch-03:p69; ch-03:p78; ch-03:p79; ch-03:p83" }
+    location_end_ch3: { value: "on her (strap re-hauled on) as she steps out of the cave mouth", source: "ch-03:p84; ch-03:p90" }
     status: "background"
-    note: "the plan's 'her bag' (Ch.19, Ch.35, Ch.38) is presumably this duffel, but the page does not say so beyond Ch.2"
-    last_mentioned: "ch-02:p68"
+    note: "the plan's 'her bag' (Ch.19, Ch.35, Ch.38) is presumably this duffel, but the page does not say so beyond Ch.3"
+    last_mentioned: "ch-03:p84"
     resolution: null
 
   toothbrush-and-floss:
@@ -2639,6 +2966,47 @@ objects:
     resolution: { chapter: 2, paragraph: 9, description: "rejoined with acrylic resin; the first join shows a step under the raking lamp, so she takes it apart and redoes it; the second seam is invisible and does not catch a thumbnail" }
     note: "plot_threads.mending-the-seam: the invisible-seam beat"
     last_mentioned: "ch-02:p11"
+
+  walkers-map-parnassus:
+    introduced: "ch-03:p7"
+    description: "a 1998 walker's map of Parnassus bought at a kiosk in Delphi the afternoon Mara arrived, folded into a cardboard cover with a snowy summit on the front; degrees and minutes printed in its margins; marks the cave with a small black symbol and ΚΩΡΥΚΕΙΟ ΑΝΤΡΟ; calls the plain Livadi"
+    beats:
+      - { chapter: 3, detail: "the first evening, on the hotel bed, she lays the straight edge of Fenn's notebook along the grid from 38° 31′ and 22° 32′: the lines meet a few hundred yards from the cave symbol", source: "ch-03:p7" }
+    location_end_ch3: { value: "in her jacket with Fenn's notebook", source: "ch-03:p7" }
+    status: "background"
+    last_mentioned: "ch-03:p7"
+    resolution: null
+
+  charioteer-postcard:
+    introduced: "ch-03:p72"
+    description: "a postcard of the Delphi Charioteer, bought at the kiosk on Wednesday instead of telephoning Gloria (she had a phone card in her hand)"
+    location_end_ch3: { value: "in the bag, unwritten", source: "ch-03:p72" }
+    status: "background"
+    last_mentioned: "ch-03:p72"
+    resolution: null
+
+  sherd-shoebox:
+    introduced: "ch-03:p25"
+    description: "a Buster Brown shoebox of the sherds Emilio brought Mara every September in his shirt pocket, wrapped in a page of the Cyprus Mail (a cooking-pot scrap with soot on its belly, a lamp rim, a strap handle with the potter's thumbprint)"
+    history: { value: "kept under her bed as a child and sorted by color on rainy Saturdays; at twenty-four, halfway through a seminar on the antiquities trade, she understood what each sherd was; now on the top shelf of her closet behind the winter sweaters; not opened since the seminar; not thrown out", source: "ch-03:p25" }
+    location: { value: "Philadelphia (her closet)", source: "ch-03:p25" }
+    status: "background"
+    last_mentioned: "ch-03:p25"
+    resolution: null
+
+  germans-summit-stone:
+    introduced: "ch-03:p22"
+    description: "the German hiker's stone from the summit of Liakoura (that morning at six), gray, a little smaller than a hen's egg, with a ribbed fossil shell 'the breadth of a fingernail'; for his daughter's windowsill in Ulm"
+    status: "background"
+    last_mentioned: "ch-03:p24"
+    resolution: null
+
+  germans-olympus-camera:
+    introduced: "ch-03:p37"
+    description: "the German hiker's small silver Olympus point-and-shoot on a cord inside his windbreaker; lens slides out with a whine; no needle, nothing to set ('It thinks for itself'); Mara takes his photograph with it, poles crossed, firs behind, 'because this was evidence'"
+    status: "background"
+    last_mentioned: "ch-03:p38"
+    resolution: null
 
   pompeii-painted-false-door:
     introduced: "outline:ch-19"
@@ -2716,7 +3084,8 @@ knowledge_index:
     - { who: "margaret-fenn", what: "was there when he wrote them on the chart; made him add a question mark (deceased 1997)", from_chapter: "0 (1967)", method: "witnessed", source: "ch-02:p2" }
     - { who: "irene-szabo", what: "saw the ballpoint numbers on the chart: 'That is all I know about them'", from_chapter: "0 (owned the chart from Oct 1997)", method: "witnessed", source: "ch-01:p80" }
     - { who: "mara-reyes", what: "read them on the chart (Ch.1); found them again in Fenn's 1967 entry, with their source (an Army map at the Free Library), and matched the two 'to the minute' (Ch.2)", from_chapter: 2, method: "discovered", source: "ch-01:p78; ch-02:p2; ch-02:p4" }
-    - { who: "halloran, gloria, pat, maras-department-head", what: "NOT known: no one is told the coordinates or the cave", from_chapter: null, method: null, source: "ch-02:p41; ch-02:p56; ch-02:p63" }
+    - { who: "mara-reyes", what: "plotted them on a 1998 walker's map: a few hundred yards from ΚΩΡΥΚΕΙΟ ΑΝΤΡΟ (Ch.3); followed them to the cave", from_chapter: 3, method: "discovered", source: "ch-03:p7" }
+    - { who: "halloran, gloria, pat, maras-department-head, german-hiker, delphi-hotel-desk-woman", what: "NOT known: no one is told the coordinates (the German knows only that she is going to the cave to stay up; the desk woman only 'up')", from_chapter: null, method: null, source: "ch-02:p41; ch-02:p56; ch-02:p63; ch-03:p4; ch-03:p26" }
   mara_greece_trip:
     - { who: "halloran", what: "'I might be in Greece' (Sat 28 Mar, before the decision; he hears a holiday; no 'first', CH2-1)", from_chapter: 2, method: "told_by:mara-reyes", source: "ch-02:p41; ch-02:p42" }
     - { who: "olympic-airways-agent", what: "Athens, from Kennedy, Tue 19 May", from_chapter: 2, method: "told_by:mara-reyes", source: "ch-02:p51; ch-02:p52" }
@@ -2724,8 +3093,18 @@ knowledge_index:
     - { who: "gloria", what: "Greece; back 'Till the ninth of June'", from_chapter: 2, method: "told_by:pat; told_by:mara-reyes", source: "ch-02:p56; ch-02:p61" }
     - { who: "maras-department-head", what: "she is on leave and going to Greece (asks whether the Greeks grow a decent tomato)", from_chapter: 2, method: "told_by:mara-reyes", revised: "2026-10-18 (re-sync)", source: "ch-02:p63" }
     - { who: "all of the above", what: "NOT why (Fenn, the chart, the cave)", from_chapter: null, method: null, source: "ch-02 (absent)" }
+    - { who: "gloria", what: "NOT that Mara arrived: no collect call was made (Mara stood at the Delphi phone on Wednesday and bought a postcard instead)", from_chapter: null, method: null, source: "ch-03:p72" }
+  crossing_1998:
+    # who knows where Mara went on the climb day, and what happened there
+    - { who: "mara-reyes", what: "the cold at the crack at 1:40, the sound gone, kneeling in the crack, the blush; backing out; the changed light, air and blaze at the mouth, the snow gone from the summit gullies and the thyme gone to husk; infers more than an afternoon has passed and that it is October. No conclusion about a door, a crossing or the year", from_chapter: 3, method: "witnessed; inferred", source: "ch-03:p76; ch-03:p81; ch-03:p85-p90" }
+    - { who: "german-hiker", what: "an American woman from Philadelphia who fixes pots in a museum was going up to the cave with her bag to stay 'however long it takes', past the two o'clock cloud; he has her photograph on her own camera, not his", from_chapter: 3, method: "told_by:mara-reyes", source: "ch-03:p21; ch-03:p30; ch-03:p32; ch-03:p34; ch-03:p47" }
+    - { who: "arachova-taxi-driver", what: "left her and the bag at the end of the asphalt a little after nine", from_chapter: 3, method: "witnessed", source: "ch-03:p3" }
+    - { who: "goatherd-1998", what: "saw her pass up the path in the morning", from_chapter: 3, method: "witnessed", source: "ch-03:p10" }
+    - { who: "delphi-hotel-desk-woman", what: "she gave up her room at seven and went 'up', not back to Athens", from_chapter: 3, method: "told_by:mara-reyes", source: "ch-03:p4" }
+    - { who: "gloria, pat, halloran, maras-mother, everyone in Philadelphia", what: "NOT known", from_chapter: null, method: null, source: "ch-03:p72 (no call)" }
   fenn_fate_1998:
     - { who: "mara-reyes", what: "went to Greece in '68 and did not come back (Szabo); meant to go in on 22 July 1968 with a flashlight and kite string and be home before Labor Day; his overcoat was forwarded to Margaret on 16 Sept 1968. She disbelieves the scholion and puts the cold air down to caves breathing. She states no conclusion about his fate.", from_chapter: 2, method: "discovered; inferred (belief)", source: "ch-01:p90; ch-02:p4; ch-02:p22; ch-02:p66; ch-02:p69" }
+    - { who: "mara-reyes", what: "Ch.3, before the cold comes: still reads his cold as 'the weather on the far side of the mountain, coming through the rock'; sits 'in his place' with her bag packed, her father's watch and a stolen bone, and 'would have been hard put to say which of the three of us was the bigger fool' (the three are not named). After the crossing she draws no conclusion about him on the page", from_chapter: 3, method: "inferred (belief)", source: "ch-03:p73" }
 
 # =====================================================================
 # PLOT THREADS (each with its scheduled payoff)
@@ -2766,10 +3145,10 @@ plot_threads:
 
   the-door-and-the-choice:
     description: "the door home, from crossing to choice"
-    opened: { chapter: 3, source: "outline:ch-03" }
+    opened: { chapter: 3, detail: "the crossing at the Corycian crack (1:40 by her watch); she backs out into a changed cave and steps out into autumn ('October'); she names no door", source: "ch-03:p74-p90" }
     beats: [6, 8, 13, 19, 25, 30, 33, 36, 41]
     payoff_chapter: 43
-    status: "planned_open"
+    status: "open"
     source: "foundation:§5; outline:ch-42; outline:ch-43"
 
   celer-and-the-frame:
@@ -2855,7 +3234,8 @@ plot_threads:
   fenn-cautionary-mirror:
     description: "Fenn as the man who never unpacked"
     opened: { chapter: 2, detail: "his notebook: confident capitals to a tired hand; last entry 'Back before Labor Day'; his overcoat comes home to Margaret without him", source: "ch-02:p18; ch-02:p66; ch-02:p69" }
-    beats: [24, 25, 26, 27, 29, 33]
+    ch3_beat: { chapter: 3, detail: "Mara sits where he sat, 'with my bag packed and my father's watch on my wrist and a stolen bone in my pocket', and 'would have been hard put to say which of the three of us was the bigger fool'; she will not stand with her arm in a crack 'and then go down to Delphi and write it up in a notebook. I was going in properly or I was going home'", source: "ch-03:p73; ch-03:p77" }
+    beats: [3, 24, 25, 26, 27, 29, 33]
     payoff_chapter: 35
     status: "planned_open"
     source: "foundation:§3; outline:ch-35"
@@ -2923,20 +3303,21 @@ plot_threads:
     description: "invisible repair → visible seam → the door's seam closed"
     opened: { chapter: 2, detail: "the North African lamp: first join shows a fingernail-paring step under the raking lamp, so she takes it apart; the second seam is invisible ('it did not catch'); nobody comes in to see it", source: "ch-02:p8; ch-02:p9; foundation:§5" }
     ch1_beat: { chapter: 1, detail: "the stapled platter in Szabo's window: Mara admires a visible c.150-year-old repair ('could have kissed him') while noting its maker would be out of work in her department because 'you could see it from the street'", source: "ch-01:p40; ch-01:p51" }
-    beats: [1, 9, 20]
+    ch3_beat: { chapter: 3, detail: "the shepherd's pen on the Parnassus path: a fallen corner rebuilt flat against the old herringbone, standing out 'as plainly as a patch on a sleeve', with a bedspring mortared into the join for a hinge; she photographs the join twice and is 'more pleased with that one than with anything I had taken in Delphi'", source: "ch-03:p14" }
+    beats: [1, 3, 9, 20]
     payoff_chapter: 43
     status: "planned_open"
     source: "foundation:§5; outline:ch-43"
 
   relics-microcassette: { description: "her father's voice", opened: 1, opened_source: "ch-01:p188", payoff_chapter: 43, status: "open", source: "foundation:§4f; outline:ch-43" }
-  relics-film-roll: { description: "the 36-frame record", opened: 2, opened_source: "ch-02:p64 (loaded; 0 frames)", payoff_chapter: 43, last_frame_chapter: 38, status: "open", source: "foundation:§4f; outline:ch-38; outline:ch-43" }
-  relics-watch: { description: "the watch-winding (the only countdown)", opened: 1, opened_source: "ch-01:p191", payoff_chapter: 43, status: "open", source: "foundation:§4f" }
-  relics-knucklebone: { description: "the bone that went to 1998 and came back", opened: 3, payoff_chapter: 44, status: "planned_open", source: "foundation:§4f; outline:ch-44" }
+  relics-film-roll: { description: "the 36-frame record", opened: 2, opened_source: "ch-02:p64 (loaded; 0 frames)", ch3: "Delphi stadium ('a little', count unstated) + 6 frames on the page (ch-03:p6-p54); counter not mentioned", payoff_chapter: 43, last_frame_chapter: 38, status: "open", source: "foundation:§4f; outline:ch-38; outline:ch-43" }
+  relics-watch: { description: "the watch-winding (the only countdown)", opened: 1, opened_source: "ch-01:p191", ch3: "wound on the Delphi balcony; running; reads 'ten to two' at the mouth under a low sun (ch-03:p4; ch-03:p87)", payoff_chapter: 43, status: "open", source: "foundation:§4f" }
+  relics-knucklebone: { description: "the bone that went to 1998 and came back", opened: 3, opened_source: "ch-03:p64 ('I pocketed it')", payoff_chapter: 44, status: "open", source: "foundation:§4f; outline:ch-44; ch-03:p61-p65" }
 
   hand-at-threshold:
     description: "repeated situation: her hand at a door"
     occurrences:
-      - { chapter: 3, detail: "cold air on her palm (cave)", source: "outline:ch-03" }
+      - { chapter: 3, detail: "FIRST INSTANCE (on the page). (a) She reaches into the crack: rock and air, cave cold, her palm flat in the opening feels no air moving (p68). (b) She slides her hand in at intervals while she waits: at 12:20 'the rock was still only rock' (p69). (c) At 1:40 the cold crosses the back of her left hand on her knee; she pushes her hand in, palm toward the dark: dry, edged cold aching to the wrist, the drip thinning, the bells gone (p75-p76). (d) She draws her hand out and goes in bodily (p78-p79). (e) Back in the hall, her hand held to the crack: nothing coming out (p84)", source: "ch-03:p68; ch-03:p69; ch-03:p75; ch-03:p76; ch-03:p78; ch-03:p84" }
       - { chapter: 6, detail: "hands in the shut cave floor", source: "outline:ch-06; foundation:§4f" }
       - { chapter: 8, detail: "nothing; no scream", source: "outline:ch-08" }
       - { chapter: 19, detail: "painted false door faintly cool on a warm spring afternoon", source: "outline:ch-19" }
@@ -2989,6 +3370,7 @@ plot_threads:
   maras-stated-return:
     description: "Mara tells Gloria she will be away 'Till the ninth of June'; Gloria asks for a collect call on arrival; key in the flowerpot; Pat watches the house"
     opened: { chapter: 2, source: "ch-02:p61; ch-02:p62" }
+    ch3_beat: { chapter: 3, detail: "she has not called Gloria: stood at the Delphi kiosk phone on Wednesday with a phone card, thought about Ray having his fit, bought a postcard of the Charioteer instead (in the bag, unwritten)", source: "ch-03:p72" }
     payoff_chapter: null
     status: "open (unplanned as a date; the plan has no 1998 return)"
     source: "ch-02:p61; ch-02:p62"
@@ -3007,8 +3389,8 @@ world_rules:
   - { rule: "THE LAW OF THE DOORS: a door takes back anyone who came through a door, from any time, through any mouth, but no one native to its side. Fenn's phrase 'it takes back the one it brought' states this exactly because his 'it' is ALL the doors as one ('one door with many mouths'): the cave brought Mara, so Pompeii's mouth takes her.", revised: "2026-10-18", source: "foundation:§9; foundation:§4d; foundation:§1; outline:ch-25; STATE:ARCH-16" }
   - { rule: "Fenn does not know the native exclusion (always alone); Mara discovers it at the door in Ch.42, never stated as a rule.", source: "foundation:§9; outline:ch-42" }
   - { rule: "WHAT CANNOT PASS: Valens, Lucius and Aelia (all native to the AD side — children born in the past count as native) meet painted plaster.", source: "outline:ch-42" }
-  - { rule: "WHAT CAN PASS: the traveler, and the objects she puts through — microcassette, film canister, Fenn's notebook (his key figures and her tremor notes in its back pages), his Zippo and 1964 dime go to the other side in Ch.43 (all made on the modern side). Whether objects made on the ancient side can pass is not established.", revised: "2026-10-18", source: "outline:ch-43; foundation:§4c" }
-  - { rule: "A door is felt as a seam of cool air and an absence of sound; no voices, glow or special effects.", source: "foundation:§9; outline:ch-03" }
+  - { rule: "WHAT CAN PASS: the traveler, and the objects she puts through — microcassette, film canister, Fenn's notebook (his key figures and her tremor notes in its back pages), his Zippo and 1964 dime go to the other side in Ch.43 (all made on the modern side). Whether objects made on the ancient side can pass is not established.", revised: "2026-10-18", source: "outline:ch-43; foundation:§4c", ch3_observed: "Ch.3 (prose): everything Mara carries goes through the crack with her (the duffel and contents, the Pentax, the Seiko, Fenn's notebook, the walker's map, the lens cap) AND the knucklebone, an object made in antiquity, in her pocket, in the 1998 → past direction (ch-03:p79; ch-03:p84). The page states no rule; whether an ancient-made object can pass in the past → modern direction is still not established." }
+  - { rule: "A door is felt as a seam of cool air and an absence of sound; no voices, glow or special effects.", source: "foundation:§9; outline:ch-03; ch-03:p76; ch-03:p79", ch3_observed: "Ch.3 on the page: the cold arrives as 'a single thread' across the back of a hand; unlike damp cave cold it is dry, has 'an edge', aches into the bones to the wrist (a chest-freezer cold); the breath shows white; the cave's sounds go 'thin and far away' then are gone; the ears fill with pressure that does not pop; 'The beam of the flashlight shook on the rock' (her hand, not the door); inside, kneeling, 'nothing at all'; no light, voices or visions. Mara's own response is a blush of embarrassment. Afterwards: cave air, and nothing from the crack. Timing: the cold came at 1:40 after about an hour and forty minutes of still air (ch-03:p68; ch-03:p69; ch-03:p74-p84)" }
   - { rule: "OBSERVED (Fenn's 1968 notebook, before his crossing): the Corycian slot breathed cold intermittently: 'about a minute', then 'like somebody shut a door in another part of the house' (May); again one Tuesday morning; then nothing for weeks; on 21 July cold enough to see his breath, for 'a whole cigarette, which is the longest yet'. Fenn: 'cold in a way air isn't', unlike the 'cave cold' he knew from Florida sinkholes. Mara's counter-reading: 'Caves breathed' with the weather. The page does not say how these breaths relate to the OPENING DURATION rule.", source: "ch-02:p19; ch-02:p20; ch-02:p22; ch-02:p69" }
   - { rule: "OPENING RHYTHM: doors open on their own timing; Fenn's empirical rule is that they 'breathe with the earth'.", source: "foundation:§9; outline:ch-25" }
   - { rule: "OPENING DURATION: an opening lasts hours, never days. AD 62 = part of one night (the quake night); AD 79 = from the night after the mountain opens until before first light on the 25th.", revised: "2026-10-18", source: "foundation:§9; outline:ch-25; audit WARN-016" }
@@ -3016,7 +3398,8 @@ world_rules:
   - { rule: "The Pompeii door's next opening is late summer AD 79 (Fenn); the arithmetic (Fenn's tables + Mara's independent tremor notes) puts it in the night after the mountain opens; it opens before dawn 25 Aug 79.", source: "outline:ch-25; outline:ch-36; outline:ch-42" }
   - { rule: "An ordinary tremor (AD 77) does not open the door.", source: "outline:ch-30" }
   - { rule: "Dormant/waking door temperature: faintly cool (Ch.19) → the same faint coolness, no colder, after the tremor (Ch.30) → cooler (Ch.36) → cold (Ch.41) → open (Ch.42).", revised: "2026-10-18", source: "outline:ch-19; outline:ch-30; outline:ch-36; outline:ch-41; outline:ch-42; foundation:§4f; audit N-24" }
-  - { rule: "Doors do not deliver to matching dates: 1968 → AD 41 (Fenn); May 1998 → autumn AD 70 (Mara). So the far side in Ch.42 is '1998, or near it' only; the narration never asserts the year (Ch.43 says 'the other side' / 'her own century').", revised: "2026-10-18", source: "foundation:§9; outline:ch-03; outline:ch-42; outline:ch-43" }
+  - { rule: "Doors do not deliver to matching dates: 1968 → AD 41 (Fenn); May 1998 → autumn AD 70 (Mara). So the far side in Ch.42 is '1998, or near it' only; the narration never asserts the year (Ch.43 says 'the other side' / 'her own century').", revised: "2026-10-18", source: "foundation:§9; outline:ch-03; outline:ch-42; outline:ch-43", ch3_observed: "Ch.3 (prose): Mara goes in on a May day and comes out under a low autumn sun she reads as October; her Seiko advances only ten minutes (1:40 → 1:50) and keeps the 1998 day's time; the year on the far side is not shown or known to her (ch-03:p74; ch-03:p87; ch-03:p88; ch-03:p90)" }
+  - { rule: "OBSERVED (Ch.3): the Corycian slot gave still air and ordinary cave cold to Mara's hand from about noon until 1:40; the cold then came at 1:40 p.m. by her watch on a day in May (Fenn's July 21 1968 cold was in the morning). The page does not relate this timing to any rule.", source: "ch-03:p68; ch-03:p69; ch-03:p74; ch-02:p69" }
   - { rule: "A door used for a crossing can stay shut afterwards (the Corycian door, Ch.6 and Ch.8).", source: "outline:ch-06; outline:ch-08" }
   - { rule: "Doors can die (the Cumae door).", source: "outline:ch-27" }
   - { rule: "Each opening is brief: the door's seam closes (Ch.43).", source: "outline:ch-43" }
@@ -3081,6 +3464,21 @@ organizations:
     facts:
       - { fact: "a single iudex with assessors hears the dowry suit, spring AD 74; Celer must return the dowry; Plautia's access to Marcus is Celer's private settlement, not the court's order", source: "outline:ch-22" }
 
+  french-excavators:
+    canonical_name: "the French (archaeologists at Delphi and the Corycian Cave)"
+    aliases: ["the French"]
+    note: "the page never names the institution"
+    facts:
+      - { fact: "paid for Kastri to be moved off the Delphi site in the 1890s (Mara)", source: "ch-01:p83" }
+      - { fact: "1968 (Fenn): the village was moved 'so the French could dig'", source: "ch-02:p17" }
+      - { fact: "dug the Corycian Cave floor at the beginning of the seventies; report in two fat volumes with gray paper covers (in the Philadelphia university library); plates of figurines, rings, lamps, coins, a bronze cicada and 'more than twenty thousand' knucklebones laid out 'like trays of dried beans'; their spoil went back into the floor", source: "ch-03:p60" }
+
+  delphi-ephorate:
+    canonical_name: "the ephorate (Greek antiquities service at Delphi, 1998)"
+    aliases: ["the ephorate"]
+    facts:
+      - { fact: "by Mara's procedure, the body a finder reports to in Delphi; 'who would thank you without warmth and send a man up in a month'; not told of the knucklebone", source: "ch-03:p63" }
+
   philadelphia-university-museum:
     canonical_name: "the Philadelphia university museum"
     aliases: []
@@ -3122,6 +3520,7 @@ organizations:
     aliases: []
     facts:
       - { fact: "800 number answered in New York near midnight; sells Mara a seat Kennedy → Athens for Tue 19 May 1998", source: "ch-02:p50; ch-02:p52" }
+      - { fact: "Ch.3 confirms she flew from Kennedy ('somewhere between Kennedy and here'); the airline is not named in Ch.3", source: "ch-03:p9" }
 
   twa:
     canonical_name: "TWA"

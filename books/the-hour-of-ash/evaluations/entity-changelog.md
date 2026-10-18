@@ -181,3 +181,102 @@ No knowledge_gap. Halloran's knowledge is "might be in Greece" only, with no dat
   - CH2-6: Pentax packing is still only implied, now by p67.
 - **CH1-1:** stays RESOLVED, re-anchored to p176 (line 359). **CH1-2:** still OPEN; the bible's physicality line is unchanged, and the magnifier is now used only once, at p52. **CH1-3:** still OPEN (info); re-quoted as "That is the brother. Treasure hunter." (p90).
 - No new contradictions. foundation:§9's "Fenn's coordinates on a 1680s Venetian chart" is compatible with the Army-map source. No knowledge_gap.
+
+---
+
+## 2026-10-18: UPDATE (chapter 3, final text: post-polish, post-disruption)
+
+**Trigger:** chapter loop step D.5, after book-disruptor on Ch.3.
+**Inputs read:** `manuscript/chapters/chapter-3.md` (91 prose paragraphs, no scene breaks, 6,817 words), the existing `ENTITY_STATE.yaml` (`last_updated_chapter: 2`), outline Ch.3–4, foundation §4f/§9/§10, character-bible (the Ch.3 walk-ons note).
+**Meta:** `last_updated_chapter: 3`; `chapters_tracked: [1, 2, 3]`; the paragraph rule records Ch.3 = p1..p91. Ch.1 (193) and Ch.2 (69) paragraph counts re-checked; both unchanged.
+
+### Re-sourced from the plan to the prose (outline:ch-03 → ch-03:pYY)
+Mara's Ch.3 location log, arc waypoint and knowledge; the knucklebone (introduced ch-03:p62); the Pentax Ch.3 beat; the hand-at-threshold Ch.3 occurrence; the corycian-cave facts (first chamber, stalagmites, graffiti, the crack, the missing blaze); the kalivia-plateau facts; timeline row 3; the-door-and-the-choice (now `open`); relics-knucklebone (now `open`).
+
+### Added (prose facts)
+- **Route:** Delphi (room over a worry-bead shop, given up at 7) → a taxi out of Arachova to the end of the asphalt (a little after nine) → the red-square path above the plain the map calls Livadi (Kalivia huts, tin roofs, a white church, ski lifts idle) → goats and goatherd → the herringbone pen with a bedspring hinge → the firs (the German) → zigzags → the last paint boulder → the mouth (fire ring, candle stub, the ΝΥΜΦ/ΠΑΝ inscription) → the first chamber (the slumped stalagmite; graffiti from the 1840s to a 1996 felt-tip heart) → the flowstone → the slab and the vertical crack.
+- **Characters (5):**
+  - `german-hiker`: about 65; red windbreaker; a stone from Liakoura for his daughter in Ulm; his wife in Arachova; an Olympus. He knows: American, Philadelphia, fixes pots, staying up, mother in Phoenix.
+  - `goatherd-1998`: the brown nanny on the ledge; "Kalimera".
+  - `arachova-taxi-driver`.
+  - Mentioned only: `delphi-hotel-desk-woman`, `delphi-museum-guard`.
+- **Mara:**
+  - 13 knowledge rows (learned_chapter 3). The planned row "the cave door is real" is replaced (CH3-7).
+  - 12 traits: reads French; ten years in the lab; her father's framing and lens-cap habits; the sherd shoebox; memories of 1977, 1989 and the cellar dark at seven; Gloria not called.
+  - What she wore and carried in Ch.3; `knowledge_absent_ch3` (the year; any conclusion about a door).
+- **Crossing:**
+  - The cold at 1:40: dry, edged, her breath visible, the drip thinning, the bells gone, ear pressure.
+  - Inside the crack: the blush.
+  - She backs out: cave air again, nothing from the crack.
+  - At the exit: low gold-orange light, the lit half of the plateau gone brown, a chill, woodsmoke, fresh dung; the blaze gone under lichen.
+  - "October" is recorded as her inference.
+- **Objects:**
+  - New: `walkers-map-parnassus`, `charioteer-postcard`, `sherd-shoebox`, `germans-summit-stone`, `germans-olympus-camera`.
+  - Knucklebone: physical description, find spot, in her pocket, intends to hand it in.
+  - Seiko: RUNNING (wound that morning; 12:20, 12:30, 1:40, then 1:50 under a low sun; its luminous dots are dead).
+  - Fenn's notebook: in her jacket.
+  - Lens cap: in her jacket pocket. Its status changes from lost to background; the loss stays planned for Ch.12.
+  - Venetian map: `chekhov_closed`.
+  - Duffel: contents and use. Flashlight, granola bars and Advil touched.
+- **Film:**
+  - Delphi stadium, "a little of the roll" (count unstated).
+  - Six frames on the page: the plateau; the pen's join (two frames); Mara, shot by the German; the cave arch; the inscription.
+  - Total by the exit is at least 7, and 8 only if Delphi took 2. The counter is not mentioned. Indeterminate, not a contradiction.
+- **Locations / organizations:** new `arachova`, `french-excavators`, `delphi-ephorate`. Ch.3 facts added to parnassus, delphi-modern, philadelphia, the museum lab, the rowhouse (crawlspace, cellar), maras-apartment and university-library.
+- **Knowledge index:** new `crossing_1998` (nobody in Philadelphia knows where she went). Rows added to cave_coordinates, mara_greece_trip and fenn_fate_1998.
+- **Threads and world rules:**
+  - Threads with Ch.3 beats: hand-at-threshold (first instance), mending-the-seam (the bedspring pen), fenn-cautionary-mirror, maras-stated-return.
+  - World rules, observed: what the door felt like; the ancient knucklebone passing in the 1998 → past direction (past → modern still not established); the watch keeping 1998 time.
+
+### Contradictions
+- **CH2-2 RESOLVED:** "The camera had no flash" (p64).
+- **CH2-6 RESOLVED:** the Pentax is in the duffel's end pocket (p6).
+- **CH2-5:** extended. The bible still gives the jeweler a telephone, which was cut in polish.
+- **CH3-1 (low):** p78 says Fenn felt the cigarette-length cold and then "come back on Tuesday". In Ch.2 the Tuesday came weeks earlier, and after the cigarette he was going in the next day (Monday).
+- **CH3-2 (info):** Fenn's drawn doorway is "smaller than a lentil" (Ch.3) but "the size of my littlest fingernail" in Ch.1.
+- **CH3-3 (low):** the plan's 1998 refuge hut is not on the page. The 1998 structure is already a shepherd's pen, so Ch.4's "refuge hut is now a pen" has no antecedent.
+- **CH3-4 (info):** the bible gives the goatherd a mobile phone. The prose has none.
+- **CH3-5 (info):** "October" is named where the plan says "the wrong season". It is inside the plan's autumn and is recorded as her inference.
+- **CH3-6 (info):** the microcassette is not mentioned. Its Ch.2 hiding place was a sock in a boot toe, and she is wearing boots in Ch.3.
+- **CH3-7 (info):** the tracker's planned knowledge row "door is real" is replaced. She draws no conclusion on the page.
+
+No knowledge_gap.
+
+---
+
+## 2026-10-18: UPDATE (re-sync of Ch.3 after the editor pass)
+
+**Trigger:** polish cycle 1 (run 2) on Ch.3, `evaluations/revision-chapter-3-cycle1.md`, edited the chapter after its entity update.
+**Inputs re-read:** `manuscript/chapters/chapter-3.md` as it stands now (90 paragraphs, 6,834 words, no scene breaks); the revision report; character-bible.md (goatherd card); outline.md (Ch.4 beat 4, Ch.5 beat 6); chapter-1.md line 159.
+**Meta:** `last_updated_chapter: 3` (unchanged); `chapters_tracked: [1, 2, 3]`; `paragraph_rule` now says Ch.3 = p1..p90; new `revalidation_needed` entry for chapter 3 (RESOLVED).
+
+### Re-anchoring
+- The one-line paragraph "Then I went in." (old p56) is folded into p55. Old p57..p91 are now p56..p90, and p1..p55 keep their numbers.
+- 251 `ch-03:pYY` citations re-anchored. Bare p-refs on Ch.3 lines and two manuscript-line refs (157 → 155, 183 → 181) were also re-anchored. Every quoted phrase was checked against its cited paragraph, and none is misplaced.
+
+### Facts removed (no longer on the page)
+- Her ears going hot at the theft, and the bag swinging against her hip (old p66).
+- At the slot: "the watch case went cold … against my wristbone", "It was not cave cold", and the beam that "did not shake". The beam now "shook on the rock" (p76).
+- The crack "as wide as a narrow door turned on its side" at knee height.
+- The slumped stalagmite's parking-space size. The last-paint boulder "as broad as a car's hood" is now "a kitchen table" (p53).
+- "dishwater gray" (now "pale gray", p8). The snow's "sink-white" colour (now just "streaked with old snow", p50).
+- "tens of thousands" of knucklebones. The prose now says "more than twenty thousand", "dyed or drilled through, and a few filled with lead" (p60).
+- The cellar memory's September is now **July** (p70), in the Mara trait, the Emilio trait, the relationship note and the history event.
+- The pen photo's "in a way I could not have explained" (now "than with anything I had taken in Delphi", p14).
+
+### Facts added
+- **Microcassette:** in its sock, down among her clothes in the duffel, "since I laced the boots on at home". She touches it without comment while groping for a granola bar (p69). It crosses in the duffel. Added as a new `touches` row and `location_end_ch3`; `last_mentioned_manuscript` is now ch-03:p69. Mara's carried items, the duffel's contents and the boots (now known to be the packed hiking boots) are updated.
+- **Slot mechanics:** the crack is forearm-wide at shoulder height, pinches shut above, and is "a good foot and a half" across at the floor; past the bend, "the beam ran on into black" (p67). She "sank onto my knees and went in sideways", back to the slab, and "knelt in the nothing" (p79). She backs out on her knees and is "upright" again in the hall (p83). Updated in Mara's knowledge, `corycian-cave` facts, the location log, the duffel, and world rule ch3_observed.
+- **Autumn evidence:** at the mouth, the summit gullies are now bare gray rock "where the snow had lain that morning", and "the thyme was over, every flower head dried to a brown husk" (p88). These are recorded as the `basis` of her "October" inference, together with the low orange light (p86), the browned plateau, the chill and woodsmoke (p88), and the lichened boulder (p89). They are added to `kalivia-plateau`, `parnassus`, `corycian-cave`, the timeline row and the knowledge index.
+- **Other wording:** the blush is now "of a kind I had thought I was too old for" (p81). At the slot, "Under my cuff the steel of the watch took the cold and held it" (p76), recorded under Seiko and Mara/worn.
+
+### Contradictions
+- **CH3-1 (low): still open.** The p77 sentence is unchanged.
+- **CH3-2 (info): still open.** "lentil" (p51) vs "littlest fingernail" (ch-01 line 159). Both are unchanged.
+- **CH3-3 (low): still open.** There is still no refuge hut on the page, and outline.md:222 still has one.
+- **CH3-4: RESOLVED.** The phone is gone from the prose, and he is cursing a nanny goat (p10, p13). character-bible.md l.535-540 already says "cursing a nanny goat on a ledge" and marks the phone beat as cut. Any further bible edit must keep that wording.
+- **CH3-5: RESOLVED.** The page now gives the evidence for "October" (p86-p89). It stays her inference and agrees with the plan's autumn.
+- **CH3-6: RESOLVED.** The microcassette is located (p69) and matches outline Ch.5 "touched in its sock".
+- **CH3-7 (info): still open.** She kneels in and reads more autumn signs, but she still names no door, crossing or year.
+
+No new conflicts. No knowledge_gap. No needs_review.

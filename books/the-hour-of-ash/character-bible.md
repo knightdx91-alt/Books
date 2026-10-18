@@ -522,6 +522,27 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   check-cashing place on Baltimore Avenue (offers a lottery ticket); the Olympic Airways agent; the head of
   Mara's department (signs the leave form unread). None has a device; none notices materials.
 
+#### Ch.3 unnamed walk-ons (no card needed unless they return or are named)
+- **The German hiker** (the only extended speech of Ch.3): about 65, from Ulm by way of his daughter's
+  kitchen; red face, white knee socks, red windbreaker, canvas hat with a chin cord, two walking poles.
+  Attention: weather, the trail markings (follow the red; the yellow-and-black E4 is the long way), the
+  two o'clock cloud off the gulf. His own life: a stone from every summit for his daughter's windowsill
+  (this one from Liakoura, with a fossil shell); a son-in-law who glues cup handles back on badly; a
+  wife in Arachova with a bad knee who thinks he takes the bus up. A point-and-shoot Olympus; cannot work
+  a manual camera. Syntax: German-English present tense, inverted objects ("Olympus she has"), short
+  verdicts. No device, no materials-eye (he describes the cups by what goes wrong, not how they were
+  made). "Like the cheese" (Philadelphia) is spent: 2 uses, never again.
+- **The goatherd** (Kalivia slope, 1998): old, flat cap, gray suit jacket over a sweater, crook;
+  cursing a nanny goat on a ledge, stops mid-word for Mara's "Kalimera," then finishes the curse. (The
+  earlier "shouts into a mobile phone" beat was CUT in the Ch.3 disruption pass: a character turning to
+  a device instead of Mara had already happened twice — Szabo's TV, the jeweler's phone — and that
+  pattern is on the at-risk list now.) Distinct from the AD 70 goat-boy of Ch.4 (different century;
+  different person).
+- **The Arachova taxi driver** (no speech): blue glass eye-beads on his mirror; laughs at the duffel.
+- **Mentioned only:** the Delphi hotel desk woman (asked whether Mara was going back to Athens); the
+  museum door guard in Delphi in a blue uniform (tore her ticket on Wednesday; Mara means to hand him the
+  knucklebone); E. Wilkins of Bristol, 1861, a name cut in the cave wall (graffiti, not a character).
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -687,6 +708,10 @@ line each, so that walk-ons don't all sound like Mara.
   since," "over the years that followed," "the years to come," "the man I would marry / love / lose /
   become," "my future husband," "I never saw him again," "had I known," "even now," "I still remember,"
   "to this day," "looking back," "in hindsight."
+- **At-risk after Ch.3 (2026-10-18):** a character turning to a DEVICE instead of Mara (a TV, a phone) —
+  used twice (Szabo, the jeweler) and now closed; "My [part] went hot" (one per chapter at most; the
+  crossing blush in Ch.3 is the only one there); "you could have [verb]" (spent); the watch "against my
+  wristbone" (spent); "Then…" as a one-line pivot; paragraphs ending on a negation.
 - **At-risk after Ch.1 (audit 2026-10-18; a third use anywhere in the book is a defect):** "Which one
   stops it?" (Emilio's recorded line — spent exactly twice in Ch.1, the anchor; never again); "the
   conservator in me"; "the [color] of [thing]" as a sentence shape; the item-by-item look; a character
@@ -796,3 +821,9 @@ finalizing the chapter. Never add a tic to fix it.
   document). Extended Halloran's and Fenn's cards with what Ch.2 established; added a Ch.2 mention/walk-on
   note (Gloria's call, the jeweler, the notary). At-risk list: four Ch.2 phrases capped. No device
   collisions; Fenn's entries carry no numbering or listing. Tic-bearer roster still NONE.
+- 2026-10-18 (Writer, Ch.3): no new named characters. Added a Ch.3 walk-on note (the German hiker, the
+  goatherd, the taxi driver; mention-only desk woman and museum guard). No device collisions: the hiker's
+  stones-for-his-daughter is his own life, not a counting habit, and he does not notice workmanship.
+  Mara's Ch.3 memories of Emilio (the establishing-shot slide, the sherds in the *Cyprus Mail*, the
+  cellar blackout and the Krimpet) each enter with a different sentence; no "My father used to say".
+  Tic-bearer roster still NONE.
