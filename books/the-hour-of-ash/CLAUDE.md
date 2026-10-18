@@ -22,7 +22,8 @@ chapter, until the manuscript is complete or the author says stop:
 
 ```
 for N in 1..total_planned:
-  A  book-writer        → manuscript/chapters/chapter-N.md (+ chapter-N-report.md)
+  A  book-writer        → manuscript/chapters/chapter-N.md (+ manuscript/reports/chapter-N-report.md —
+                           never put a report in chapters/: the gates glob chapter-*.md there)
                            prompted from outline.md INCLUDING the Anti-Predictability Ledger row
                            (structural approach / opening move / ending move / dialogue band)
   B  dialogue-polish    → edits in place; evaluations/dialogue-chapter-N.md

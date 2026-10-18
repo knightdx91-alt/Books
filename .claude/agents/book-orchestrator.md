@@ -361,7 +361,7 @@ Secondary characters in this chapter: {names}. Give each ONE moment of their own
 Pattern #11 prevention: write similes RAW; do not extend them. Prevention > detection.
 
 Write to: {path}/manuscript/chapters/chapter-{N}.md
-Write self-report to: {path}/manuscript/chapters/chapter-{N}-report.md"
+Write self-report to: {path}/manuscript/reports/chapter-{N}-report.md  (NOT into chapters/ — the mechanical gates glob chapter-*.md there)"
 ```
 
 **Step B — Dialogue Polish:**
@@ -393,7 +393,7 @@ Preserve POV voice and facts. Edit in place. Report to {path}/evaluations/hook-c
 Dispatch: book-disruptor
 Prompt: "Disrupt chapter {N} of '{title}'.
 Project dir: {path}
-Read: {path}/manuscript/chapters/chapter-{N}.md, {path}/manuscript/chapters/chapter-{N}-report.md, {path}/voice-dna.md (anti-pattern budget), {path}/ENTITY_STATE.yaml.
+Read: {path}/manuscript/chapters/chapter-{N}.md, {path}/manuscript/reports/chapter-{N}-report.md, {path}/voice-dna.md (anti-pattern budget), {path}/ENTITY_STATE.yaml.
 Apply disruption operations scaled to chapter quality (2-4 for strong, 5-6 for predictable, 6-8 for weak). Simile Surgery (Pattern #11) is priority. Stay within the genre's anti-pattern budget.
 Preserve the emotional anchor: {anchor}. Do not break continuity.
 Edit in place. Write disruption report to: {path}/evaluations/disruption-chapter-{N}.md"

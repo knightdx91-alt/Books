@@ -344,7 +344,7 @@ Write the chapter to `manuscript/chapters/chapter-[N].md` with this header:
 [Chapter prose begins here]
 ```
 
-After writing, save a self-report to `manuscript/chapters/chapter-[N]-report.md`:
+After writing, save a self-report to `manuscript/reports/chapter-[N]-report.md` (never inside `chapters/` — the mechanical gates glob `chapter-*.md` there):
 
 ```markdown
 # Writer Report: Chapter [N]
