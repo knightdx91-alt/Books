@@ -75,6 +75,12 @@ What this means in practice:
 - **Motifs are objects and situations, not phrases.** A recurring *image* (the lamp, the
   knot, the stamped loaf) is fine; a recurring *line* is a tic. The style-gate ALLOWLIST
   stays short (≤5 phrases) and each entry is capped at 3 uses book-wide.
+- **Gestures are tics too.** Stage business repeated with the wording varied — characters
+  forever picking things up and setting them down, nodding, swallowing, sighing, looking
+  away, pausing "for a long moment" — is a tic the n-gram scans cannot see, and readers feel
+  it by chapter six. `tic_report.py` counts gesture *classes* by meaning and fails a cluster
+  (4+ of one class in a chapter, or more than 0.3 per 1,000 words book-wide). A motif object
+  may recur; the *handling* of it must not become the book's reflex.
 - **Mechanically enforced every chapter** (see [QUALITY-GATES.md](QUALITY-GATES.md)):
   `voice_wear_check.py` fails on any phrase a POV repeats across chapters;
   `tic_report.py --gate` fails on any non-allowlisted phrase recurring 3+ times book-wide

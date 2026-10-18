@@ -94,7 +94,10 @@ manuscript, a session MUST:
   verbal tic, catchphrase, refrain or signature device. Distinctness by worldview, syntax,
   evasion, physicality only. `voice_wear_check.py` self-repetition findings are BLOCKING here;
   `tic_report.py` runs every chapter and any non-allowlisted phrase recurring 3+ times book-wide
-  is removed before finalize; the allowlist stays ≤5 entries, each capped at 3 uses.
+  is removed before finalize; the allowlist stays ≤5 entries, each capped at 3 uses. **Gestures
+  count too** (author, 2026-10-18): stage business repeated with varied wording (picking things up
+  and setting them down, nodding, swallowing, "a long moment"…) is a tic; the gate's gesture layer
+  fails 4+ of one class in a chapter or > 0.3/1k book-wide.
 - **Retired reflexes** (STATE.yaml guardrails): no retrospective significance-tagging, no
   define-by-negation openers, no anaphora triads, no performed-candour tics, no device as a
   scene-button, no closing aphorisms.

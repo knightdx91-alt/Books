@@ -238,8 +238,14 @@ entry:
 - **No devices.** Counting/listing/pricing/rating/cataloguing are one device in different coats and it
   is retired for everyone. Watch especially for the narrator's habits bleeding onto others (the
   "everyone quantifies" failure): a secondary character must NOT borrow the narrator's way of noticing.
+- **Gestures are tics too.** Stage business repeated with the wording varied is still a tic: nobody
+  keeps picking things up and setting them down, nodding, swallowing, sighing, looking away, or
+  pausing "for a long moment". Use a beat ONCE and then find a different thing for the body to do —
+  or no beat at all (a line can stand without a gesture). Never more than 3 of one gesture class in a
+  chapter; across chapters, rotate.
 - **The gates will catch it anyway:** `voice_wear_check.py` fails on a phrase repeated across chapters,
-  `tic_report.py --gate` on any phrase recurring 3+ times book-wide — so write it clean the first time.
+  `tic_report.py --gate` on any phrase recurring 3+ times book-wide AND on any gesture class that
+  clusters (4+ in a chapter, or > 0.3 per 1,000 words book-wide) — so write it clean the first time.
 If the architect built the bible under a different filename (e.g. voice cards inside `voice-dna.md`),
 add the entry there and note it; the point is one canonical, growing home for cast distinctness.
 

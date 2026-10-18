@@ -86,6 +86,13 @@ Score each dimension from 6.0 to 10.0. The floor is the score.
   infected the others, is not a distinct cast. Cross-check new named characters against
   `character-bible.md`: a newcomer with no distinctness entry, or any card whose tic line is not
   "none", is a finding. Cite the recurring line and its count.
+- **GESTURE TICS count too (author ruling 2026-10-18).** A repeated piece of stage business is a tic
+  even when every instance is worded differently: characters forever picking things up and setting
+  them down, nodding, swallowing, sighing, looking away, pausing "for a long moment", jaws setting,
+  breaths let out. Count the GESTURE CLASS across the chapter (and against the prior chapters you
+  read): 4+ of one class in a chapter, or a class that recurs chapter after chapter, caps Characters
+  at 7.5 and goes in the findings with the count. `tic_report.py --gate` measures this mechanically;
+  your job is the judgement call on the ones it cannot classify.
 - **Chaos check (genre-adjusted V3.2):** Does the chapter include character chaos moments?
   - Irrelevant thought present? (not plot-functional)
   - Cognitive distortion visible in behavior?

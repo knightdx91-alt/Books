@@ -177,6 +177,17 @@ names, titles). On a finished unguided draft it typically finds a dozen lines th
 never noticed — "for the first time" fourteen times, a character's favourite saying six
 times — which is exactly the creep it exists to stop.
 
+It also carries a **gesture layer**, because a tic does not need repeated words: a cast
+that keeps picking things up and setting them down, nodding, swallowing, looking away or
+pausing "for a long moment" is repeating stage business with the wording varied. The
+script counts gesture *classes* by meaning (object handling, nods, shrugs, sighs,
+swallows, breath beats, jaws, looking/turning away, "a long moment", hair, grips, eyes,
+lips, head shakes) book-wide and per chapter, and fails a cluster: 4+ of one class in a
+chapter, or more than 0.3 per 1,000 words across the book. Measured on an earlier
+finished book it found "a long moment" 65 times and object handling 42 times — the exact
+reflex a reader had noticed. Extend `GESTURE_CLASSES` in the book's copy when a new
+piece of business starts to recur.
+
 ### `shape_check.py` — the predictability audit (shared, book-agnostic)
 
 ```bash

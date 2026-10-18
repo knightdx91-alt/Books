@@ -9,7 +9,10 @@ instead of eyeballed. Two reports:
      book median) so the redundant instances can be thinned while the load-bearing one is kept.
      (This is the AI-reviewers' "vary internal motifs" note — banking / count / small true things.)
 
-  2. VERB-FORM / RHYTHM CANDIDATES — lines with dense past-perfect ("had -ed") chains or -ing
+  2. GESTURE / ACTION-BEAT layer — stage business counted by CLASS regardless of wording
+     (object handling, nods, swallows, 'a long moment'…); a repeated gesture is a tic.
+
+  3. VERB-FORM / RHYTHM CANDIDATES — lines with dense past-perfect ("had -ed") chains or -ing
      stacks. These are the class Eilidh (Book One reviewer) touched by preference (looked->look,
      smelling->smelled): grammatically correct, so LanguageTool stays silent — a human/Claude must
      judge whether the tense/ending reads better changed. Pure candidates, high false-positive rate.
@@ -100,11 +103,61 @@ def recurrence_scan(files, allow):
         return sorted(kept, key=lambda x: -x[0])
     return keep(prose, 3), keep(speech, 3), where
 
+# ---- GESTURE / ACTION-BEAT LAYER (author ruling 2026-10-18: a repeated GESTURE is a tic) -------------
+# The n-gram scans only see repeated WORDS. A character who keeps picking things up and setting them
+# down, nodding, swallowing, looking away, or pausing "for a long moment" is repeating a gesture with
+# the wording varied — the reader feels it by chapter six. Each class below is matched by meaning
+# (regex over inflections), counted book-wide (density per 1,000 words) and per chapter (clustering).
+# Flags: a class above GESTURE_BOOK_MAX per 1k words book-wide, or GESTURE_CHAPTER_MAX+ hits in one
+# chapter. Extend the classes per book if a new piece of stage business starts to recur.
+GESTURE_CLASSES = {
+    "object handling (pick up / set down / put down / place)":
+        r"\b(?:pick(?:ed|s|ing)?\s+(?:\w+\s+){0,3}up|set(?:s|ting)?\s+(?:\w+\s+){0,3}(?:back\s+)?down|put(?:s|ting)?\s+(?:\w+\s+){0,3}(?:back\s+)?down|placed\s+(?:it|them|the|her|his|my)\b|laid\s+(?:it|them|the|her|his|my)\s+(?:\w+\s+){0,2}down|put\s+(?:it|them)\s+back)\b",
+    "nod": r"\bnod(?:ded|s|ding)?\b",
+    "shrug": r"\bshrug(?:ged|s|ging)?\b",
+    "sigh": r"\bsigh(?:ed|s|ing)?\b",
+    "swallow": r"\bswallow(?:ed|s|ing)?\b",
+    "breath beat (let out a breath / exhaled / breath caught)": r"\b(?:let\s+out\s+(?:a|the|her|his|my)\s+breath|exhal\w+|breathed\s+out|breath\s+(?:caught|hitched)|took\s+a\s+(?:deep\s+)?breath|drew\s+a\s+breath)\b",
+    "jaw (set / tight / clench)": r"\bjaw\b",
+    "look away / look down": r"\blook(?:ed|s|ing)?\s+(?:away|down)\b",
+    "turn away / turn back": r"\bturn(?:ed|s|ing)?\s+(?:away|back)\b",
+    "hand through hair": r"\b(?:hand|fingers)\s+through\s+(?:her|his|my|their)\s+hair\b",
+    "fingers / grip tighten": r"\b(?:fingers|hands?|grip|knuckles)\s+(?:tighten\w*|whiten\w*)\b",
+    "'a (long) moment'": r"\b(?:for\s+)?a\s+(?:long\s+)?moment\b",
+    "something in (chest / stomach / throat)": r"\bsomething\s+in\s+(?:her|his|my)\s+(?:chest|stomach|throat)\b",
+    "eyes (narrowed / widened / closed)": r"\beyes\s+(?:narrow\w*|widen\w*|clos\w+)\b",
+    "lips (pressed / thinned)": r"\b(?:lips|mouth)\s+(?:press\w*|thin\w*|tighten\w*)\b",
+    "head shake": r"\bsh(?:ook|akes?|aking)\s+(?:her|his|my|their)\s+head\b",
+}
+GESTURE_BOOK_MAX = 0.30      # per 1,000 words, book-wide
+GESTURE_CHAPTER_MAX = 4      # hits of one class inside a single chapter
+
+def gesture_scan(files):
+    """Return (rows, flags). rows: (class, total, per1k, worst_chapter, worst_count)."""
+    texts = [(Path(f).stem.split("-")[-1], strip_comments(Path(f).read_text())) for f in files]
+    total_words = sum(len(re.findall(r"[A-Za-z'’\-]+", t)) for _, t in texts) or 1
+    rows, flags = [], []
+    for name, pat in GESTURE_CLASSES.items():
+        rx = re.compile(pat, re.I)
+        per_ch = [(ch, len(rx.findall(t))) for ch, t in texts]
+        total = sum(c for _, c in per_ch)
+        if not total:
+            continue
+        per1k = total / total_words * 1000
+        worst_ch, worst = max(per_ch, key=lambda x: x[1])
+        rows.append((name, total, per1k, worst_ch, worst))
+        if per1k > GESTURE_BOOK_MAX:
+            flags.append(f"{name}: {total}x book-wide = {per1k:.2f}/1k (> {GESTURE_BOOK_MAX})")
+        if worst >= GESTURE_CHAPTER_MAX:
+            flags.append(f"{name}: {worst}x in chapter {worst_ch} (>= {GESTURE_CHAPTER_MAX} in one chapter)")
+    rows.sort(key=lambda r: -r[2])
+    return rows, flags
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--file")
     ap.add_argument("--gate", action="store_true",
-                    help="exit 1 if any non-allowlisted phrase recurs 3+ times book-wide (tic budget = 0)")
+                    help="exit 1 if any non-allowlisted phrase recurs 3+ times book-wide, or a gesture beat clusters (tic budget = 0)")
     a = ap.parse_args()
     files = [a.file] if a.file else sorted(
         glob.glob("manuscript/chapters/chapter-*.md"),
@@ -147,6 +200,20 @@ def main():
             print(f"    {c}x  \"{j}\"  [ch {chs}]"); bad += 1
     if not bad:
         print("  none — clean.")
+    # ---- GESTURE / ACTION-BEAT recurrence (stage business repeated with varied wording) -------------
+    grows, gflags = gesture_scan(allfiles)
+    print("\nGESTURE BEATS — stage business by class (book-wide; a repeated gesture is a tic):")
+    for name, total, per1k, wch, worst in grows[:16]:
+        mark = "  <-- FLAG" if any(f.startswith(name + ":") for f in gflags) else ""
+        print(f"  {total:4d}x  {per1k:5.2f}/1k  worst ch {wch}: {worst}x   {name}{mark}")
+    if not grows:
+        print("  none found.")
+    if gflags:
+        print("  FLAGS:")
+        for f in gflags:
+            print(f"    - {f}")
+        bad += len(gflags)
+
     if a.gate:
         print(f"RESULT: {'FAIL — ' + str(bad) + ' recurring phrase(s) to vary/remove' if bad else 'clean (tic gate)'}")
         sys.exit(1 if bad else 0)

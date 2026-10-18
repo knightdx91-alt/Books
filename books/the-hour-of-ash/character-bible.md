@@ -168,6 +168,16 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **DISTINCTNESS GUARANTEE:** the only voice that runs on 1968 American slang in breathless "and"-chains
   and talks about the future as a place he is going, against Mara's precise 1998 English, which will not
   name the future at all.
+- **Ch.2 documents as written (Writer, 2026-10-18):** Thanksgiving 1967 entry (Margaret thinks a scholiast is
+  a foot doctor; Father Kostas at St. George's translated the scholion for a roast pork sandwich at the
+  Terminal; he slit the uncut pages of an 1838 Leipzig edition at the university library with his thumb,
+  up to the note and no further; Margaret made him add the question mark after BIBLIOTHECA "to be
+  honest"; "two thousand bucks and a better flashlight"). February 1968: sold the Plymouth to a mailman in
+  Jenkintown; TWA to Athens 2 April; Margaret tells the church ladies he is in Mexico. Delphi (room over a
+  taverna, a goat at the window); the cold-air entry; "Slept up there. Didn't help."; June "Tired
+  today."; last entry dated July 21, 1968 (going in "tomorrow first thing", back before Labor Day).
+  Consulate carbon dated 16 Sept 1968: one gray wool overcoat with contents of pockets, forwarded to Miss
+  Margaret Fenn. No enumerating anywhere; the handwriting change is carried by Mara's description.
 - **Sample line:** "You know what kills me? I had two seats for the Labor Day doubleheader, and some guy
   at Connie Mack sat next to an empty chair all afternoon and never knew it was me, and that was, what,
   a hundred years ago, two thousand, for crying out loud."
@@ -395,6 +405,16 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   is all warmth and no dates.
 - **Sample line:** "I'm sorry to ring about forms at a time like this, Ms. Reyes, but the permit needs a
   name on it by the twentieth of April, and your father's is, well. It's still the one on it."
+- **Ch.2 as written (Writer, 2026-10-18):** rings the house on the last Saturday in March (~10 a.m.
+  Philadelphia / 4 p.m. Naples, both still on standard time); the machine "only beeps" (no greeting since
+  Ch.1). His own life on the call: he and his wife are leaving their flat after thirty-one years; he sits on
+  the floor of an emptied room with the telephone in his lap; the new tenants arrive to measure for
+  curtains. The Soprintendenza accept him as director but returned the cession marked *firma mancante*
+  (the outgoing director's signature missing); Mara signs an heir's declaration before a notary instead
+  (by the fifteenth; the 20th is a Monday). Asks for Emilio's last-season field notebooks (the north
+  transects exist only there) "by the end of June". Invites her for the season from 6 July "in Emilio's
+  place"; she says she might be in Greece; "you'll practically be next door." Never says "died." Speaks
+  Italian to the tenants, not cheerfully.
 
 #### IRENE SZABO — antiques dealer, Pine Street's Antique Row; Hungarian, in her seventies (Ch.1)
 - **Attention / worldview:** authenticity: fakes, period accuracy, what a thing will fetch, whether a
@@ -490,6 +510,17 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   drawings, '92); the department office caller about the memorial room.
 
 ---
+
+#### Ch.2 mention-only names and unnamed walk-ons (no card needed unless they return)
+- **Mentioned by name only:** Father Kostas (St. George's; in Fenn's 1967 entry only, never speaks). Pat and
+  Dorothy recur by mention (Mara asked Pat to watch the house; Dorothy's dish still in the refrigerator).
+- **Gloria (existing card) in Ch.2:** phones the house on a Saturday in May from her garage on the cordless
+  ("Don't ask"); errands only (mail, taps, Dorothy's dish, the key in the flowerpot, not under the mat);
+  "call me when you get there. Collect." Still never names Emilio.
+- **Unnamed walk-ons:** the Sansom Street jeweler (telephone clamped to his shoulder the whole visit, arguing
+  that a ring is not a ring until paid for; takes three links out of the Seiko's band; $8); the notary at a
+  check-cashing place on Baltimore Avenue (offers a lottery ticket); the Olympic Airways agent; the head of
+  Mara's department (signs the leave form unread). None has a device; none notices materials.
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -683,6 +714,10 @@ line each, so that walk-ons don't all sound like Mara.
 | "one door with many mouths" | 1 | Fenn's idea of the doors (Ch.25); paraphrase after |
 | "hand at the threshold" / "the visible seam" | 0 | design labels for the Writer, never page text |
 | any phrase in a sample line in this file or in a voice-bank sample | 0 | calibration only |
+| "cold in a way air isn't" | 2 | Fenn's 1968 line, used once in Ch.2; Ch.3 makes it physical in fresh words |
+| "the girls at church" | 2 | Fenn/Margaret, Ch.2 (Feb 1968 + last entry): SPENT |
+| "firma mancante" | 1 | Ch.2 Halloran; never called back |
+| "in Emilio's place" | 1 | Ch.2 Halloran's invitation; paraphrase if ever recalled |
 
 ---
 
@@ -757,3 +792,7 @@ finalizing the chapter. Never add a tic to fix it.
   Ch.1 mention-only and walk-on note (Ray, Tía Nilda, Dorothy, Carol, Frank; Mara's mother in Phoenix,
   divorced c. 1981). Extended Irene Szabo's card with what Ch.1 established. No device collisions: none of
   the three new voices counts, lists, prices or notices materials. Tic-bearer roster still NONE.
+- 2026-10-18 (Writer, Ch.2): no new named speaking characters (Father Kostas is mention-only, inside a
+  document). Extended Halloran's and Fenn's cards with what Ch.2 established; added a Ch.2 mention/walk-on
+  note (Gloria's call, the jeweler, the notary). At-risk list: four Ch.2 phrases capped. No device
+  collisions; Fenn's entries carry no numbering or listing. Tic-bearer roster still NONE.
