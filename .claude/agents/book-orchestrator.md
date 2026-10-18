@@ -408,6 +408,11 @@ Read the new chapters since meta.last_updated_chapter: chapters {range}.
 Update {path}/ENTITY_STATE.yaml incrementally — new facts, knowledge gained (with learned_chapter + source), location/status changes, new objects/threads. NEVER overwrite a contradiction silently — log contradictions. Set meta.last_updated_chapter. Append to {path}/evaluations/entity-changelog.md"
 ```
 
+**Drift policy override.** If `STATE.yaml` carries `drift_check: every-chapter`, Step D.5
+(entity update), Step D.6 (shape audit) AND a `continuity-guardian` MANUSCRIPT AUDIT of the new
+chapter against all prior chapters run after EVERY chapter, before Step E — never batched. A
+CRITICAL continuity finding goes to `book-editor` before the evaluator sees the chapter.
+
 **Step D.6 — Shape audit (every 5 chapters, bash, no agent):**
 Run `python3 tools/shape_check.py {path}` from the repo root. It measures the SHAPE of every
 chapter so far (length, opening move, ending move, scene-break count, dialogue share, sentence

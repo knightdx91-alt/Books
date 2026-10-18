@@ -29,10 +29,20 @@ for N in 1..total_planned:
   C  hook-craft         → edits in place; evaluations/hook-chapter-N.md
                            (respects a ledger row that says "no pull — just stop")
   D  book-disruptor     → edits in place; evaluations/disruption-chapter-N.md
-  D.5 entity-tracker    → UPDATE every 3 chapters (and after any chapter that adds canon)
-  D.6 shape audit       → every 5 chapters: python3 tools/shape_check.py books/the-hour-of-ash
+  D.5 entity-tracker    → UPDATE mode EVERY chapter (author instruction 2026-10-18: "a full run
+                           after each chapter so there is no drift"); contradictions logged, never
+                           silently overwritten; evaluations/entity-changelog.md
+  D.6 continuity-guardian → MANUSCRIPT AUDIT EVERY chapter: the new chapter against ALL prior
+                           chapters + ENTITY_STATE + outline (character consistency, timeline,
+                           information flow, plot threads, world rules, objects, VOICE drift vs
+                           voice-dna + character-bible). CRITICAL → book-editor before anything
+                           else; evaluations/continuity/chapter-N-audit.md
+  D.7 shape audit       → EVERY chapter: python3 tools/shape_check.py books/the-hour-of-ash
+                           (from the repo root); a flag on the new chapter = fix its opening /
+                           closing signature now, not later
   E  mechanical gates   → bash tools/check_chapter.sh N  — ALL clean (style incl. foreshadow 0,
-                           grammar, rhythm, show/tell, voice-wear, metaphor). Fix via book-editor.
+                           grammar, rhythm, show/tell, voice-wear [book-wide], metaphor). Fix via
+                           book-editor.
   F  book-evaluator     → evaluations/chapter-N-eval.md (Genesis 7 dims, 20-pattern scan,
                            5 readers, Tomorrow Test; Discovery Test on Ch.1, Residue on the last)
   G  quality gate       → PASS only if Genesis Floor ≥ 8.5 AND Casual ≥ 8.5 AND PACING ok AND
@@ -43,9 +53,11 @@ for N in 1..total_planned:
     then: git add -A && git commit -m "the-hour-of-ash: finalize chapter N" && git push origin main
 ```
 
-Every 10 chapters, additionally: `continuity-guardian` MANUSCRIPT AUDIT on the chapters so far
-(CRITICAL findings → book-editor before the next chapter). Phase 4/5/6 (full-manuscript
-evaluation, revision, delivery) follow once every chapter is done — still without pausing.
+**Drift policy (author, 2026-10-18): the FULL run happens after EVERY chapter** — entity
+update, continuity audit against all prior chapters, voice-wear, shape audit, and the
+independent evaluation. No batching, no "every N chapters". A chapter is not final until the
+audit of it against the whole book so far is clean. Phase 4/5/6 (full-manuscript evaluation,
+revision, delivery) follow once every chapter is done — still without pausing.
 
 ### Session handoff — the LOOP LOCK (so two sessions never write the same chapter)
 A scheduled task re-launches the loop in a fresh session on a cadence. Before touching the

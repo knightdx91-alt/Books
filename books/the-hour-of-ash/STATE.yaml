@@ -27,6 +27,10 @@ adaptation:
 # only when it fully passes, move to the next chapter -> keep going until the author says stop.
 # No checkpoint pauses (book-orchestrator FULL AUTONOMY MODE). Commit + push each finished chapter.
 autonomy: full
+# DRIFT POLICY (author, 2026-10-18): "a full run after each chapter so there is no drift" —
+# entity-tracker UPDATE + continuity-guardian audit (new chapter vs ALL prior) + voice-wear +
+# shape audit run after EVERY chapter, before the evaluator; never batched.
+drift_check: every-chapter
 
 word_floor:
   manuscript_min_words: 220000   # HARD FLOOR (book total) — the only word gate
