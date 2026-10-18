@@ -36,7 +36,21 @@ POV_MAP_FILE = os.path.join(HERE, '..', 'feedback', 'pov-map.txt')
 # ---- Layer 1: book-wide retired phrases (hard fail anywhere) ----------------
 BOOK_WIDE_RETIRED = [
     r"\bnever once\b",
+    # RUN 2 (2026-10-18) — the retired performed-candour / narrator reflexes from run 1:
+    r"\bI want (?:that|this|it) (?:on the record|written down|noted)\b",
+    r"\bI want to be (?:exact|clear|honest|precise)\b",
+    r"\blet it be said\b", r"\bI will be honest\b", r"\bI mention it because\b",
+    r"\bfor the record\b",
 ]
+
+# RUN 2 — AUTHOR RULING: TIC BUDGET = 0. Single-POV book: unmapped chapters default to the
+# narrator so the self-repetition detector always runs. --strict turns every self-repeat
+# WARN into a hard FAIL (only the allowlisted object-motifs below are exempt, cap 3 book-wide).
+DEFAULT_POV = "Mara"
+SELF_REPEAT_ALLOW = [
+    "the one it brought",
+]
+STRICT = "--strict" in sys.argv
 
 # ---- Layer 3: optional named-device caps, keyed by POV character -------------
 # cap = max occurrences allowed PER CHAPTER for that character's POV chapters.
@@ -107,13 +121,13 @@ def main():
         who = pov.get(n)
         if who is None:
             unmapped.append(n)
-            who = "UNKNOWN"
+            who = DEFAULT_POV
         by_pov[who].append(f)
 
     print("=" * 70)
     print("VOICE-WEAR CHECK — per character (whole book)")
     print("=" * 70)
-    if unmapped:
+    if unmapped and not DEFAULT_POV:
         warnings.append(f"chapters not in pov-map.txt (add them): {unmapped}")
 
     # ---- Layer 1: book-wide retired phrases --------------------------------
@@ -192,8 +206,12 @@ def main():
                 continue
             kept.append((spread, total, g))
         if kept:
-            for spread, total, g in sorted(kept, key=lambda x: (-x[0], -x[1]))[:12]:
-                warnings.append(f"  [{who}] self-repeat: \"{' '.join(g)}\" — in {spread} ch, {total}x total")
+            for spread, total, g in sorted(kept, key=lambda x: (-x[0], -x[1]))[:40]:
+                joined = " ".join(g)
+                if any(a in joined or joined in a for a in SELF_REPEAT_ALLOW):
+                    continue
+                msg = f"  [{who}] self-repeat: \"{joined}\" — in {spread} ch, {total}x total"
+                (failures if STRICT else warnings).append(msg)
             print(f"  self-repetition: {len(kept)} phrase(s) recur across {who}'s chapters (see WARN).")
         else:
             print("  self-repetition: none above threshold.")
@@ -211,7 +229,7 @@ def main():
             print(x)
         print("=" * 70)
         return 1
-    print("RESULT: clean — no retired phrases, no device over cap.")
+    print("RESULT: clean — no retired phrases, no device over cap" + (", no self-repetition (strict)" if STRICT else "") + ".")
     print("=" * 70)
     return 0
 

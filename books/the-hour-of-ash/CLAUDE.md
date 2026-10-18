@@ -82,6 +82,11 @@ manuscript, a session MUST:
   a signature change on the most recent offender, not a rewrite.
 - **Pacing check** vs neighbours (scene/summary, dialogue band from the ledger, emotional slot,
   length-serves-the-beat; variance is by design — never flatten it).
+- **NO TICS (author ruling 2026-10-18): tic budget = 0.** Nobody, narrator included, gets a
+  verbal tic, catchphrase, refrain or signature device. Distinctness by worldview, syntax,
+  evasion, physicality only. `voice_wear_check.py` self-repetition findings are BLOCKING here;
+  `tic_report.py` runs every chapter and any non-allowlisted phrase recurring 3+ times book-wide
+  is removed before finalize; the allowlist stays ≤5 entries, each capped at 3 uses.
 - **Retired reflexes** (STATE.yaml guardrails): no retrospective significance-tagging, no
   define-by-negation openers, no anaphora triads, no performed-candour tics, no device as a
   scene-button, no closing aphorisms.
