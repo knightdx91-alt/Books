@@ -26,12 +26,12 @@ from pathlib import Path
 # NOTE: seeded fresh for THIS book. Do NOT carry another book's motif vocabulary in here (that is
 # cross-book tic bleed). Extend with this book's own load-bearing recurrences only.
 MOTIFS = [
-    # RUN 2 (2026-10-18) — AUTHOR RULING: TIC BUDGET = 0. No character device, no refrain. This
-    # list holds ONLY the few allowlisted object-motif phrases from tools/style_check.py ALLOWLIST
-    # (each capped at 3 uses book-wide). Anything ELSE that recurs 3+ times across the book is a
-    # defect, not a motif — see the AUTO-RECURRENCE report below.
+    # NO TICS law: no character device, no refrain. ONLY the allowlisted object-motif phrases from
+    # tools/style_check.py ALLOWLIST (foundation.md §12; each capped at 3 uses book-wide). Anything
+    # ELSE that recurs 3+ times across the book is a defect — see AUTO-RECURRENCE below.
     r"the one it brought",
-    r"where the dead go out of the city",
+    r"where the dead go out",
+    r"the seventh of bysios",
 ]
 # World terms / proper names that legitimately recur (place names, titles, institutions). NOT
 # motifs and NOT tics — exempt from the recurrence gate. Keep to nouns the story cannot avoid.

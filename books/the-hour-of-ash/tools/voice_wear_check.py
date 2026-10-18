@@ -49,7 +49,8 @@ BOOK_WIDE_RETIRED = [
 DEFAULT_POV = "Mara"
 SELF_REPEAT_ALLOW = [
     "the one it brought",
-    "where the dead go out of the city",
+    "where the dead go out",
+    "the seventh of bysios",
 ]
 STRICT = "--lenient" not in sys.argv   # the no-tics law: strict by DEFAULT; --lenient only for a diagnostic read
 
