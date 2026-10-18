@@ -111,8 +111,8 @@ def recurrence_scan(files, allow):
 # Flags: a class above GESTURE_BOOK_MAX per 1k words book-wide, or GESTURE_CHAPTER_MAX+ hits in one
 # chapter. Extend the classes per book if a new piece of stage business starts to recur.
 GESTURE_CLASSES = {
-    "object handling (pick up / set down / put down / place)":
-        r"\b(?:pick(?:ed|s|ing)?\s+(?:\w+\s+){0,3}up|set(?:s|ting)?\s+(?:\w+\s+){0,3}(?:back\s+)?down|put(?:s|ting)?\s+(?:\w+\s+){0,3}(?:back\s+)?down|placed\s+(?:it|them|the|her|his|my)\b|laid\s+(?:it|them|the|her|his|my)\s+(?:\w+\s+){0,2}down|put\s+(?:it|them)\s+back)\b",
+    "object handling (set down / put down / pick up / take out / put back / hold out / turn over)":
+        r"\b(?:pick(?:ed|s|ing)?\s+(?:it|them|the\s+\w+|her\s+\w+|his\s+\w+|my\s+\w+|a\s+\w+)?\s*(?:back\s+)?up|set(?:s|ting)?\s+(?:it|them|the\s+\w+|her\s+\w+|his\s+\w+|my\s+\w+|a\s+\w+)\s+(?:back\s+)?(?:down|aside)|put(?:s|ting)?\s+(?:it|them|the\s+\w+|her\s+\w+|his\s+\w+|my\s+\w+)\s+(?:back\s+)?(?:down|aside|back)|laid\s+(?:it|them|the\s+\w+|her\s+\w+|his\s+\w+|my\s+\w+)\s+(?:down|on\s+the|aside)|took\s+(?:it|them|the\s+\w+|her\s+\w+|his\s+\w+|my\s+\w+)\s+(?:out\s+of|off|from)\s+(?:her|his|my|the|a)\b|held\s+(?:it|them|the\s+\w+|a\s+\w+)\s+out|turn(?:ed|s|ing)?\s+(?:it|them|the\s+\w+)\s+over)\b",
     "nod": r"\bnod(?:ded|s|ding)?\b",
     "shrug": r"\bshrug(?:ged|s|ging)?\b",
     "sigh": r"\bsigh(?:ed|s|ing)?\b",
@@ -130,8 +130,10 @@ GESTURE_CLASSES = {
     "head shake": r"\bsh(?:ook|akes?|aking)\s+(?:her|his|my|their)\s+head\b",
 }
 GESTURE_BOOK_MAX = 0.30      # per 1,000 words, book-wide (applies once the manuscript has GESTURE_MIN_WORDS)
-GESTURE_CHAPTER_MAX = 4      # hits of one class inside a single chapter (applies from chapter 1)
+GESTURE_CHAPTER_MAX = 4      # per-chapter cap = max(this, chapter words / 1000); a long chapter earns a little more room
 GESTURE_MIN_WORDS = 20000    # the density rule needs a sample; a two-chapter book is judged per chapter only
+GESTURE_WINDOW = 500         # words; a SCENE cluster — 3+ of one class inside this window is the reader-visible tic
+GESTURE_WINDOW_MAX = 3
 
 def gesture_scan(files):
     """Return (rows, flags). rows: (class, total, per1k, worst_chapter, worst_count)."""
@@ -141,6 +143,7 @@ def gesture_scan(files):
     for name, pat in GESTURE_CLASSES.items():
         rx = re.compile(pat, re.I)
         per_ch = [(ch, len(rx.findall(t))) for ch, t in texts]
+        chap_words = {ch: len(re.findall(r"[A-Za-z'\u2019\-]+", t)) for ch, t in texts}
         total = sum(c for _, c in per_ch)
         if not total:
             continue
@@ -149,8 +152,19 @@ def gesture_scan(files):
         rows.append((name, total, per1k, worst_ch, worst))
         if per1k > GESTURE_BOOK_MAX and total_words >= GESTURE_MIN_WORDS:
             flags.append(f"{name}: {total}x book-wide = {per1k:.2f}/1k (> {GESTURE_BOOK_MAX})")
-        if worst >= GESTURE_CHAPTER_MAX:
-            flags.append(f"{name}: {worst}x in chapter {worst_ch} (>= {GESTURE_CHAPTER_MAX} in one chapter)")
+        cap = max(GESTURE_CHAPTER_MAX, round(chap_words.get(worst_ch, 0) / 1000))
+        if worst > cap:
+            flags.append(f"{name}: {worst}x in chapter {worst_ch} (cap {cap} for a {chap_words.get(worst_ch, 0):,}-word chapter)")
+        # scene-window cluster: positions (in words) of each hit; 3+ inside GESTURE_WINDOW words
+        for ch, t in texts:
+            pos = [len(re.findall(r"[A-Za-z'\u2019\-]+", t[:m.start()])) for m in rx.finditer(t)]
+            for i in range(len(pos)):
+                j = i
+                while j + 1 < len(pos) and pos[j + 1] - pos[i] <= GESTURE_WINDOW:
+                    j += 1
+                if j - i + 1 >= GESTURE_WINDOW_MAX:
+                    flags.append(f"{name}: {j - i + 1}x within {GESTURE_WINDOW} words in chapter {ch} (around word {pos[i]}) — a scene is running on this gesture")
+                    break
     rows.sort(key=lambda r: -r[2])
     return rows, flags
 
