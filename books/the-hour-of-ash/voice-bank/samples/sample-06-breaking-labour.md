@@ -1,4 +1,4 @@
-<!-- BREAKING · labour · Ch.24 register · unglossed Latin, untagged speech, senses narrowed to sound · gear low -->
+<!-- BREAKING · labor · Ch.24 register · unglossed Latin, untagged speech, senses narrowed to sound · gear low -->
 The stool creaked. Somebody was saying Iuno Lucina, Iuno Lucina, over and over in a low voice, and it was Grata.
 
 "Now."

@@ -1,5 +1,5 @@
 <!-- CONTROLLED · Pompeii domestic · Ch.20 register · the visible seam shown, never stated · material: red-slip ware, birch-tar glue -->
-The woman wanted her lamp back by the Vinalia. It was cheap red-slip ware with a little moulded dolphin on the discus, the sort they turned out by the cartload in the potteries outside the Herculaneum gate, and she could have bought a new one for less than I charged her. She did not want a new one. Her mother had carried it to the bathhouse every evening for thirty years, and she had dropped it on the threshold the day after the funeral.
+The woman wanted her lamp back by the Vinalia. It was cheap red-slip ware with a little molded dolphin on the discus, the sort they turned out by the cartload in the potteries outside the Herculaneum gate, and she could have bought a new one for less than I charged her. She did not want a new one. Her mother had carried it to the bathhouse every evening for thirty years, and she had dropped it on the threshold the day after the funeral.
 
 I had mended it twice already that week in my head, invisibly, the way I had been trained: a hairline of birch tar, the break filled and toned, the dolphin whole again so that nobody would ever know. I said so. She frowned at me across the counter as if I had offered to bury her mother a second time.
 

@@ -326,7 +326,7 @@ No character, Mara included, carries a verbal tic, catchphrase, refrain or signa
 Retrospective significance-tagging · define-by-negation openers ("Not X. Not Y. It was Z.") · anaphora triads · performed-candour lines ("I want that on the record", "I want to be exact", "let it be said plainly") · any character device or object used as a scene button · chapter-closing aphorisms · proverb-as-button.
 
 ### 6e. HEAT ON THE PAGE
-Explicit when it occurs, sensual and character-driven, never clinical or purple. The scene advances what each fears and lets go of. Specificity and restraint carry the sensuality, not elevated diction. Watch the em-dash budget. **Placement (four scenes, all before the eruption):**
+Explicit when it occurs, sensual and character-driven, never clinical or purple. The scene advances what each fears and lets go of. Specificity and restraint carry the sensuality, not elevated diction. Watch the em-dash budget. **Placement (three scenes, all before the eruption):**
 - **Ch.15, Summer Pasture (AD 71): first union.** Clumsy, funny, then not funny. It comes after she has told him the truth and he has asked about mules.
 - **Ch.23, An Inn on the Appian Way (AD 74): the key turn.** After the Basilica Julia. Valens, publicly believed for the first time, lets himself be held. She is pregnant, which is unusual on the page and handled tenderly and frankly.
 - **Ch.34, Surrentum (AD 78): the late unshadowed joy.** A seaside inn at the end of a perfect day. Nothing in the scene points anywhere.
