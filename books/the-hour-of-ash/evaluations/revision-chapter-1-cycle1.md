@@ -168,3 +168,36 @@ Optional eval #6 (precision flex) was not done; it is outside this brief.
 | Shape | Clean. |
 
 **All mechanical sections are clean.**
+
+## Gesture trim (2026-10-18)
+
+Author ruling: a repeated gesture is a tic even when the wording varies. `tic_report.py --gate` flagged chapter 1 for **object handling: 4 beats** (limit 3). The four beats were:
+1. l.199 Szabo "set a cigar box down": protected (cigar box), kept.
+2. l.249 Szabo "put the pen down": cut.
+3. l.389 "when I picked it up" (the Seiko): kept.
+4. l.391 "put it back on the shelf with the strap turned as he had left it" (the Pentax): kept, because it carries the father's habit.
+
+**Change (l.249):**
+- Before: `She wrote it on the pad and put the pen down. "There was a Reyes in the *Inquirer*.`
+- After: `She wrote it on the pad and underlined the surname. "There was a Reyes in the *Inquirer*.`
+
+The underlined surname gives Szabo a reason to recall the *Inquirer* Reyes in her next line. It is not a handling, nod, swallow, sigh, look-away or "moment" beat. "underlined" and "surname" appear nowhere else in the book. I avoided "square capitals" because it is already used twice in chapter 1.
+
+- Object handling in ch.1: **4 → 3**. Words (`wc -w`): 6,539 → 6,538. The first and last sentences, the 3 scene breaks and every protected strength are untouched.
+- `bash tools/check_chapter.sh 1`: style, grammar, rhythm, show/tell, voice-wear, metaphor and shape are clean. In the tic gate, auto-recurrence is clean and chapter 1 no longer appears in the gesture FLAGS. **The tic gate still prints FAIL** because of **chapter 2** (object handling 4x), which was out of scope for this pass. Chapter 2 needs its own trim.
+
+## Gesture trim 2 (2026-10-18)
+
+The recalibrated gesture layer counts object handling with a cap of 7 for this chapter and a scene-window limit (3 or more inside 500 words fails). Chapter 1 had 9 hits. It also had two clusters: the Szabo shop (4 hits within 461 words) and the closing relic stretch (4 hits within about 270 words, which the gate had not printed yet because it reports only the first cluster per chapter). Everything here is a cut. Nothing was added.
+
+| # | Where | Before | After |
+|---|-------|--------|-------|
+| 1-2 | Szabo, "Greek pots" line | `...come up dirty." She took the magnifier out of her braid and laid it on the ledger. "I have one chart. Real, and ruined."` | `...come up dirty. I have one chart. Real, and ruined."` (Szabo talks straight on, with no hand business) |
+| 3 | Szabo, estate-sale line (named in the brief but not caught by the regex) | `...last October." She lifted her end of the tissue a fraction and settled it again. "Margaret Fenn.` | `...last October. Margaret Fenn.` |
+| 4 | Answering machine, third play | `I pressed GREETING and laid my finger on the button below it, the one marked RECORD GREETING, and listened to him with my finger there.` | `I pressed GREETING and listened to him with my finger on the button below it, the one marked RECORD GREETING.` (the finger was stated twice; it is now one clause. "I took my finger off the button" after the anchor is unchanged) |
+| 5 | Cassette | `I turned it over once, and read the label,` | `I read the label,` (the cassette is still handled once: eject into fingers, then pocket) |
+| 6 | Watch | `The case, when I picked it up, was scratched` | `The case was scratched` (winding, ear and buckling are untouched) |
+
+- Object handling in ch.1: **9 → 4**. The remaining hits are at about word 2188 (chart laid on the counter glass), 2566 (sheet turned over to the embossing), 5923 (finger off the button) and 6337 (Pentax put back on the shelf). No two are within 500 words of a third. The "set a cigar box down" beat is not a regex hit and is plot, so it stays.
+- Words (`wc -w`): 6,538 → 6,496 (−42). The first and last sentences, the 3 scene breaks, the anchor "Mara? Which one stops it?", the cigar-box light at the close, the haggle subtext and the lemon cake are all untouched. The magnifier is now mentioned only at its first appearance, pushed up in her hair. Nothing later depends on it.
+- `bash tools/check_chapter.sh 1`: style, grammar, rhythm, show/tell, voice-wear, metaphor and shape are clean. Chapter 1 does not appear in the tic gate's gesture FLAGS. **The tic gate still prints FAIL, on chapter 2 only**: object handling 6x (cap 4) and 4x within 500 words around word 1180. Chapter 2 was out of scope and was not touched.

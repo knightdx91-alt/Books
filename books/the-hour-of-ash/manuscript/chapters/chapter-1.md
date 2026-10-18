@@ -132,7 +132,7 @@ I had not known I was going to ask it.
 
 She considered that for longer than it deserved.
 
-"Greek coins, fake. Greek pots, worse, because a man in Athens made them last spring and buried them in his garden for a month so they would come up dirty." She took the magnifier out of her braid and laid it on the ledger. "I have one chart. Real, and ruined."
+"Greek coins, fake. Greek pots, worse, because a man in Athens made them last spring and buried them in his garden for a month so they would come up dirty. I have one chart. Real, and ruined."
 
 She walked to the flat files at the speed of a woman who had decided years before not to hurry for customers, ran her gloved finger down the labels, and drew out one of the wide shallow drawers with a steel shriek. What she lifted out lay between sheets of yellowed tissue. She carried it back on her forearms, laid it on the glass of the counter, and turned the tissue back the way you turned back a sheet from a face.
 
@@ -176,7 +176,7 @@ She let the French go by. "You know Greek."
 
 "He takes it from four thousand dollars to nothing."
 
-"Not to nothing," she said. "To what I paid. Estate sale, Chestnut Hill, last October." She lifted her end of the tissue a fraction and settled it again. "Margaret Fenn. Old lady, no children, a house full of boxes."
+"Not to nothing," she said. "To what I paid. Estate sale, Chestnut Hill, last October. Margaret Fenn. Old lady, no children, a house full of boxes."
 
 "What was she like?"
 
@@ -246,7 +246,7 @@ I said yes. I had said it before I had checked anything at all, my account or my
 
 "Mara Reyes."
 
-She wrote it on the pad and put the pen down. "There was a Reyes in the *Inquirer*. In January. A professor who dug things."
+She wrote it on the pad and underlined the surname. "There was a Reyes in the *Inquirer*. In January. A professor who dug things."
 
 "It's a common name."
 
@@ -376,17 +376,17 @@ I pressed it again and listened to the breath at the beginning this time, and to
 
 Beep. The machine waited.
 
-The third time, I pressed GREETING and laid my finger on the button below it, the one marked RECORD GREETING, and listened to him with my finger there. It needed only pressing. Hold the button and speak after the tone, the instructions had said, beside a drawing of a little man with a speech balloon. You have reached the Reyes house. Please leave a message. Anyone could have said it. Gloria could have said it in her stocking feet.
+The third time, I pressed GREETING and listened to him with my finger on the button below it, the one marked RECORD GREETING. It needed only pressing. Hold the button and speak after the tone, the instructions had said, beside a drawing of a little man with a speech balloon. You have reached the Reyes house. Please leave a message. Anyone could have said it. Gloria could have said it in her stocking feet.
 
 "Mara?" he said. "Which one stops it?"
 
-I took my finger off the button. I opened the little smoked door with my thumbnail. The microcassette sat in its well, no bigger than a matchbook, its two white hubs and the brown ribbon of tape stretched between them behind a window of clear plastic. I pressed the eject lever and it came up into my fingers. It weighed less than the cake had. I turned it over once, and read the label, which was blank, and put it in my jacket pocket where the napkin had been, and buttoned the pocket.
+I took my finger off the button. I opened the little smoked door with my thumbnail. The microcassette sat in its well, no bigger than a matchbook, its two white hubs and the brown ribbon of tape stretched between them behind a window of clear plastic. I pressed the eject lever and it came up into my fingers. It weighed less than the cake had. I read the label, which was blank, and put it in my jacket pocket where the napkin had been, and buttoned the pocket.
 
 Then I went upstairs, because it was the next thing.
 
 His bedroom was cold; the radiator had been turned down. The bed was made, badly, with the spread pulled up over the pillows in a long lump. His 1966 Seiko lay on the nightstand where he had always taken it off at night, face up on a folded handkerchief, its steel band coiled beside it like a dropped ribbon. The hands said ten past four. It had stopped at some ten past four in January, morning or afternoon, and had not been wound since.
 
-The case, when I picked it up, was scratched in fine circles where it had knocked against thirty-odd years of trench walls, and the crystal had a nick at two o'clock. My thumbnail found the crown. I turned it forward between finger and thumb, feeling the small dry ratchet of the mainspring taking up, and when it grew stiff I stopped. The second hand twitched and went on. I held it to my ear and it was ticking, quick and light. Then I set it by the red numbers of the clock radio and buckled it on. It was far too big; it slid down over the knuckle of my thumb, and I pushed it back up and it slid down again.
+The case was scratched in fine circles where it had knocked against thirty-odd years of trench walls, and the crystal had a nick at two o'clock. My thumbnail found the crown. I turned it forward between finger and thumb, feeling the small dry ratchet of the mainspring taking up, and when it grew stiff I stopped. The second hand twitched and went on. I held it to my ear and it was ticking, quick and light. Then I set it by the red numbers of the clock radio and buckled it on. It was far too big; it slid down over the knuckle of my thumb, and I pushed it back up and it slid down again.
 
 His Pentax sat on the shelf over the bureau, between a Cypriot lamp with a chipped nozzle and a row of paperbacks swollen from the bathtub. It was the black-and-chrome K1000, its worn strap wound around it in the same three turns for as long as he'd had it. I took it down; it had the weight of a good brick and smelled of leatherette and light machine oil. I lifted the rewind knob and the back sprang open on nothing; the film chamber was empty and clean, the pressure plate bright. I closed it. The advance lever went through its stroke with the same soft ratcheting sound the watch had made, a size larger, and I put it back on the shelf with the strap turned as he had left it.
 
