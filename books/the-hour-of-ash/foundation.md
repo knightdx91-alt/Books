@@ -241,7 +241,7 @@ Irene Szabo (Pine Street dealer, Ch.1), Emilio Reyes (absence: objects and the a
 1. **Ch.13–14:** "The Oracle tells her the way home is in Pompeii, and she's the only person alive who knows what that means."
 2. **Ch.13:** "Women weren't allowed in the room, so the ex-gladiator carried her prophecy out word for word, the way he used to memorize fights."
 3. **Ch.15:** "She tells him she's from nineteen hundred years in the future, and he asks if they still have mules."
-4. **Ch.25:** "The mad old astrologer in the port turns out to be an American who went through in 1968, and he has been waiting thirty-four years for a door that opens the night Vesuvius erupts."
+4. **Ch.25:** "The mad old astrologer in the port turns out to be an American who went through in 1968, thirty-four years ago, and he has been waiting since the earthquake of 62 for a door that opens the night Vesuvius erupts."
 5. **Ch.33:** "She wants to take her children through the door to penicillin."
 6. **Ch.42–43:** "The door works, for her. She throws her father's voice through it into her own century and stays."
 

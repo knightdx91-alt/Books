@@ -316,7 +316,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Reading speed:** argument passages brisk; scenes slow; the Dunphy memory a sudden drop in pace.
 **Word count target:** 6,600
 **Writer warnings:** Essayistic must not become lecture. Every claim is followed by a scene in which it hurts or amuses. No anaphora in the argument passages. The closing question must be a real question Mara has, not a rhetorical button or an aphorism.
-**Beat subversion:** *Genre beat:* the fish-out-of-water montage of comic mistakes. *Subversion:* the comedy curdles into one bureaucratic act, and the heroine is grateful to be owned.
+**Beat subversion:** *Genre beat:* the fish-out-of-water montage of comic mistakes. *Subversion:* the comedy curdles into one bureaucratic act, and the heroine is grateful to be written down as somebody's kin.
 
 ## Chapter 8: The Thyiades
 **Ledger:** Single-scene (internal shape: *ritual*, the rite's own order is the structure) · open: mid-dialogue → `dialogue` · end: quiet image → `quiet` · 8,200 · dialogue 25–35% · theme present · 0 breaks · gear mid
@@ -359,7 +359,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 1. **(document, REVEAL)** The manumission text, with its *paramone* clause: freedom with strings attached.
 2. **NON-NEGOTIABLE.** She mends a priest's bronze incense stand (her craft, accurate: a cold join, wax, no welding) and gets coins.
 3. **NON-NEGOTIABLE.** The cost of a consultation: the *pelanos* fee, a goat, a Delphian sponsor, and a man to ask the question, because women do not go in.
-4. **(document, REVEAL)** A notice posted from Corinth: reward for a runaway Thracian, scarred, "answering to Lupus," claimed as property of the household of Q. Arrius Celer.
+4. **(document, REVEAL)** A notice, newly posted in the agora with the first spring traffic, copied from one circulated in Corinth last autumn: reward for a runaway Thracian, scarred, "answering to Lupus," claimed as property of the household of Q. Arrius Celer. (Knowledge flow: the Corinth original went up in autumn 70; the Delphi copy arrives only now, which is why Valens could work openly through the winter of Ch.6–8 and reads it here as news.)
 5. **(document, texture)** A lead curse tablet against a rival's loom. It means nothing.
 6. **NON-NEGOTIABLE.** She sees Valens read the notice in the agora and walk away without hurrying. The chapter ends on a ≤7-word line, a single-sentence closing paragraph.
 **Progressive structure:**
@@ -443,7 +443,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Key scenes/beats:**
 1. **NON-NEGOTIABLE.** Three men. Valens is fast, efficient and unglamorous. Mara swings the Pentax (it survives; the lens cap doesn't). One man dies; two run. Voice under pressure: the asides die and she narrates only what bodies do.
 2. **NON-NEGOTIABLE.** After: Valens's hands shaking at the stream. She holds them still.
-3. **NON-NEGOTIABLE.** He tells it while washing: the *rudis*, Nero's games at Corinth, Plautia, Celer, the dowry. Flat, chronological, no self-pity. "I was a good bodyguard. That was the use of me." **Knowledge path (one plain passage):** last autumn Plautia's brother's freedman found him at Kirrha harbor and asked him to testify in the dowry suit; he said no; the notice with his description went up within the month. So Celer wants a dead witness, not a returned slave, and today's men proved it.
+3. **NON-NEGOTIABLE.** He tells it while washing: the *rudis*, Nero's games at Corinth, Plautia, Celer, the dowry. Flat, chronological, no self-pity. "I was a good bodyguard. That was the use of me." **Knowledge path (one plain passage):** last autumn Plautia's brother's freedman found him at Kirrha harbor and asked him to testify in the dowry suit; he said no; the notice with his description went up in Corinth within the month, and a copy reached Delphi with the spring traffic (Ch.9). So Celer wants a dead witness, not a returned slave, and today's men proved it.
 4. Felix brings the goat home. They leave the body for the road's owners to find.
 **Progressive structure:**
 - Builds on Ch.11: the goat errand.
@@ -663,7 +663,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Beat subversion:** *Genre beat:* arriving at the doomed city under ominous skies. *Subversion:* it is spring, the mountain is green and the town is cheerful and under scaffolding. The only ominous thing is that she declines to take a photograph.
 
 ## Chapter 20: The Mender's Shop
-**Ledger:** Collage (internal shape: *a year told in wall-writing and repairs*) · open: document (a wall graffito) → `short-punch` · end: spoken line → `dialogue` · 8,200 · dialogue 30–40% · theme present · 6 breaks · gear mid
+**Ledger:** Collage (internal shape: *a year told in wall-writing and repairs*) · open: document (the painted lost-property notice, 9–27 words, italics) → `narrative` · end: spoken line → `dialogue` · 8,200 · dialogue 30–40% · theme present · 6 breaks · gear mid
 **Dateline:** *Pompeii · AD 72–73*
 
 **Premise:** Mara opens a repair shop in Grata's front room while Valens hauls rubble for a rebuilding city. Over a year, told partly in the town's own wall-writing, she becomes a resident and learns to let a seam show.
@@ -834,7 +834,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Theme presence:** a man who never unpacked, face to face with a woman who keeps a bag packed.
 **Character chaos moments:** Fenn's automat memory (coconut cream pie). The Phillies (first mention).
 **Subtext layer:** Fenn's lecture on tremor-cycles is really a lonely man trying to keep a visitor talking. Mara's "you're wrong" is really "please be wrong."
-**Shareable moment:** #4 (the American astrologer waiting thirty-four years for a door that opens the night Vesuvius erupts).
+**Shareable moment:** #4 (the American astrologer, thirty-four years in the past, who has waited since the quake of 62 for a door that opens the night Vesuvius erupts).
 **Reading speed:** quick recognition; slow story; very fast date; a dead stop.
 **Word count target:** 8,400
 **Writer warnings:** Fenn must NOT enumerate or list (zero-tic ruling). His pattern-mind shows in his subject matter. Fenn's dialogue must avoid the banned pattern "in (all) the years since". The style gate scans dialogue too, so use "thirty-four years" or "since I landed." Valens's belief is shown, not declared. Mara's refusal must read as human denial with a fig leaf (two failed dates and a third built around the history-book year), not stupidity. No narrator dread about 79 beyond her own present thought. The "one door with many mouths" idea is worded once, by Fenn, and never repeated verbatim (at-risk list). Mara must not say "Margaret".
@@ -1095,7 +1095,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Ledger:** Parallel (internal shape: *deathbed / 1968*, Fenn's dying intercut with the story of his leaving, told in his own words) · open: mid-dialogue → `dialogue` · end: document fragment → `long-fade` · 7,000 · dialogue 35–45% · theme present · 6 breaks · gear mid
 **Dateline:** *Puteoli · winter, AD 78–79*
 
-**Premise:** Fenn dies in his upper room, still waiting for the door he has waited for since he landed, arguing about baseball and insisting to the end that he would have gone through. (Mara still refuses his date until Ch.36, so her narration must not say the door is "months" away. If a count is spoken, it is Fenn's: thirty-seven years, nearly thirty-eight.)
+**Premise:** Fenn dies in his upper room, still waiting for the door he has watched since the quake of 62 (and for a way home since he landed in 41), arguing about baseball and insisting to the end that he would have gone through. (Mara still refuses his date until Ch.36, so her narration must not say the door is "months" away. If a count is spoken, it is Fenn's: thirty-seven years, nearly thirty-eight.)
 **Function in arc:** The cautionary mirror completes as negative example, not lesson. His tables and his 1968 objects pass to her.
 **Emotional anchor:** the Zippo, refilled with lamp oil, finally catching once in Fenn's hand.
 **Emotional surprise:** his dying is irritable and funny.
@@ -1323,7 +1323,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Opening strategy:** an object. The microcassette in the old sock in her hand (9–27 words, so `narrative`).
 **Key scenes/beats:**
 1. **NON-NEGOTIABLE.** Valens begs her through: the children's future is gone, so let *her* have one. He says *love*, once, plainly. It is not a payoff line, and the scene does not pause on it.
-2. **NON-NEGOTIABLE.** Her choice, in actions: the microcassette, the film canister and Fenn's 1968 notebook (his tables and her tremor figures in its back pages), with his Zippo and dime, one by one, through the seam to the other side. Fenn's things go home without him. She does not explain.
+2. **NON-NEGOTIABLE.** Her choice, in actions: the microcassette, the film canister and Fenn's 1968 notebook (his tables and her tremor figures in its back pages), with his Zippo and dime, one by one, through the seam to the other side. Fenn's ORIGINAL tables go with them, folded inside the notebook (she copied his key figures into the notebook in Ch.36, so nothing stays behind that she needs). Fenn's things go home without him. She does not explain.
 3. **NON-NEGOTIABLE.** She keeps the watch on her wrist. She lifts Aelia.
 4. **NON-NEGOTIABLE.** The seam closes, and she watches it close without mending it open.
 5. A quiet image: her empty hand on Aelia's back.

@@ -1,21 +1,24 @@
 # ENTITY_STATE.yaml — The Hour of Ash (run 2)
-# Canonical entity state. BUILD mode (SEED, pre-writing): built from the PLAN only.
-# Facts, not interpretation. Contradictions are flagged with `conflict` (flag: UNRESOLVED), never resolved here.
+# Canonical entity state. Built from the PLAN only (pre-writing). BUILD (SEED) 2026-10-18, then
+# UPDATE (plan re-sync) 2026-10-18 after the architect's patch pass on the outline audit.
+# Facts, not interpretation. Contradictions are flagged with `conflict` (flag: UNRESOLVED), never resolved here;
+# a conflict is marked resolved only when the source documents themselves now carry one value.
 
 meta:
   version: "1.0"
   last_updated: "2026-10-18"
   last_updated_by: "entity-tracker"
-  mode: "BUILD (SEED — pre-writing, no chapters exist)"
-  source: outline
+  mode: "UPDATE (plan re-sync, pre-writing — no chapters exist)"
+  source: "outline (patched 2026-10-18)"
   last_updated_chapter: 0
   chapters_tracked: []
   chapters_planned: 44
   canon_inputs:
-    - "STATE.yaml (guardrails, resolved_author_decisions, decisions ARCH-1..13)"
-    - "foundation.md (run 2, architect v4)"
-    - "outline.md (44 chapters; Macro-Structure, turning-point map, Anti-Predictability Ledger)"
-    - "character-bible.md (voice only; used for voice_markers.ref, not for facts)"
+    - "STATE.yaml (guardrails, resolved_author_decisions, decisions ARCH-1..18; ARCH-4 revised)"
+    - "foundation.md (run 2, architect v4, patched 2026-10-18)"
+    - "outline.md (44 chapters; Macro-Structure, turning-point map, Anti-Predictability Ledger; patched 2026-10-18)"
+    - "character-bible.md (voice; patched facts used where the card states a fact, e.g. Marcus b. autumn AD 64)"
+    - "evaluations/continuity/outline-audit.md § RESOLUTIONS (patch pass, 2026-10-18)"
   excluded: "research/prior-run-2026-07/ — retired run, NOT canon; nothing taken from it"
   source_convention:
     plan: "outline:ch-XX = planned in that chapter's outline entry; outline:macro = Macro-Structure/ledger block; foundation:§N = foundation section; STATE:ARCH-N = architect decision in STATE.yaml"
@@ -23,28 +26,39 @@ meta:
   status_convention: "Every fact below is PLANNED until its chapter is written. A written chapter that departs from a planned fact is a conflict, not an overwrite."
   method_extension: "knowledge.method adds `prior_knowledge` (known before the story's first scene, e.g. Mara's 1998 education) to the standard set told_by:slug | overheard | witnessed | discovered | inferred."
   conflicts_index:
-    - "C1 pomponia-grata.first_appearance — foundation Ch.20 vs outline Ch.19"
-    - "C2 objects.microcassette.touches — foundation schedules a Ch.35 touch; outline Ch.35 omits it"
-    - "C3 valens.traits(mime) — foundation 'Pompeii's small theatre' vs outline Ch.29 'a street stage'"
-    - "C4 mara-reyes.legal_status Ch.7 — foundation 'registered as Kallia's property' vs outline 'dependent kinswoman'"
-    - "C5 objects.film-roll frame 36 — foundation 'smoking very faintly' vs outline 'may only be cloud'"
-    - "C6 mara-reyes.traits(mundane breaks) — foundation 'two' (Ch.20, 22) vs outline three (Ch.6, 20, 22)"
-    - "C7 plot_threads.the-when — foundation ladder: after Ch.25 she 'gives up home'; outline Ch.30 she still runs to the tomb hoping for an early door"
-    - "C8 locations.pompeii — 'seventeen years after the quake' (foundation §5 + outline Ch.19) at AD 72; AD 62 + 17 = AD 79"
-    - "C9 valens Ch.23 — 'the truth cost three years' (foundation §4 + outline Ch.23); frame AD 69 to trial AD 74 = five years"
-    - "C10 marcus.age — foundation 'now seven' in the Ch.16 frame (c. AD 71-72, 'three years' after 69) vs outline Ch.22 'seven' in AD 74"
-    - "C11 foundation-internal — §11.13 'Four on-page heat scenes' lists three; §6e, outline and STATE:ARCH-13 say three"
-    - "C12 STATE:ARCH-4 'the Oracle speaks to Mara through Valens's errand rather than face to face' vs outline Ch.13 Theano names Pompeii to Mara in person"
-    - "C13 august-fenn — outline Ch.27 (AD 76) 'thirty-four years of waiting'; landed AD 41 = 35 years (Ch.25, AD 75 = 34 is consistent)"
-    - "C14 outline-internal — Ch.24 gives the Chaldean rumor to Grata's husband; Ch.25 'Builds on' calls it 'Grata's rumor'"
+    # All 14 SEED conflicts RESOLVED 2026-10-18: the architect patched the source documents so that each now
+    # carries a single value (outline-audit.md § RESOLUTIONS; STATE ARCH-4 revised, ARCH-14..18). Kept for audit trail.
+    - { id: C1, entity: "pomponia-grata.first_appearance", was: "foundation Ch.20 vs outline Ch.19", status: RESOLVED, resolved_date: "2026-10-18", decision: "Ch.19 (she rents the rooms); foundation range now Ch.19–40", source: "STATE:ARCH-14; audit N-01; foundation:§3; outline:ch-19" }
+    - { id: C2, entity: "objects.microcassette.touches", was: "foundation Ch.35 touch vs outline Ch.35 silent", status: RESOLVED, resolved_date: "2026-10-18", decision: "Ch.35 one-line touch added to the outline (in its sock in her bag while Fenn sleeps)", source: "STATE:ARCH-14; audit N-02; outline:ch-35" }
+    - { id: C3, entity: "valens.traits(mime)", was: "foundation 'small theatre' vs outline 'street stage'", status: RESOLVED, resolved_date: "2026-10-18", decision: "a street stage", source: "STATE:ARCH-14; audit N-03; foundation:§3" }
+    - { id: C4, entity: "mara-reyes.legal_status (Ch.7)", was: "foundation 'property' vs outline 'dependent kinswoman'", status: RESOLVED, resolved_date: "2026-10-18", decision: "dependent kinswoman: a free woman under Kallia's guardianship, never property", source: "STATE:ARCH-14; audit WARN-005; foundation:§4 row 7; outline:ch-07" }
+    - { id: C5, entity: "objects.film-roll frame 36 / locations.vesuvius", was: "foundation 'smoking very faintly' vs outline 'may only be cloud'", status: RESOLVED, resolved_date: "2026-10-18", decision: "'a thread of cloud on the summit that may only be cloud'", source: "STATE:ARCH-14; audit WARN-004; foundation:§4 row 38; outline:ch-38" }
+    - { id: C6, entity: "mara-reyes.traits(mundane breaks)", was: "foundation two vs outline three", status: RESOLVED, resolved_date: "2026-10-18", decision: "three breaks: Ch.6 (plot-earned), Ch.20 and Ch.22 (unearned)", source: "STATE:ARCH-14; audit N-04; foundation:§3; outline:checks#4" }
+    - { id: C7, entity: "plot_threads.the-when", was: "foundation ladder 'gives up home' vs outline Ch.30 hoping for an early door", status: RESOLVED, resolved_date: "2026-10-18", decision: "after Fenn's date she refuses the arithmetic and keeps hoping for an earlier opening; no plan to leave Campania", source: "STATE:ARCH-14; audit WARN-003; foundation:§1" }
+    - { id: C8, entity: "locations.pompeii", was: "'seventeen years after the quake' in AD 72", status: RESOLVED, resolved_date: "2026-10-18", decision: "AD 72 = ten years after the AD 62 quake; Ch.20 and Ch.30 cite no count", source: "STATE:ARCH-14; audit CRIT-001; foundation:§5, §10; outline:ch-19" }
+    - { id: C9, entity: "plot_threads.valens-known (Ch.23)", was: "'the truth cost three years' (69→74)", status: RESOLVED, resolved_date: "2026-10-18", decision: "five years (frame 69 → trial spring 74); Plautia's 'twice in three years' anchored on the 69 divorce", source: "STATE:ARCH-14; audit CRIT-002; foundation:§4 row 23, §3, §10; outline:ch-23" }
+    - { id: C10, entity: "marcus.physical.age", was: "'seven' in winter 71–72 and 'seven' in AD 74", status: RESOLVED, resolved_date: "2026-10-18", decision: "born autumn AD 64: 7 in Ch.16 (winter 71–72), 9 in Ch.22 (spring 74)", source: "STATE:ARCH-14; audit CRIT-003; foundation:§3, §10; outline:ch-16, ch-22; character-bible.md#marcus" }
+    - { id: C11, entity: "plot_threads.romance.heat_scenes", was: "foundation §11.13 'Four' with three listed", status: RESOLVED, resolved_date: "2026-10-18", decision: "three heat scenes (Ch.15, 23, 34); foundation cut-off 'none from Ch.35 on' (strictest; satisfies outline/ARCH-13 'none from Ch.39')", source: "audit N-05; foundation:§6e, §11.13" }
+    - { id: C12, entity: "theano / STATE:ARCH-4", was: "ARCH-4 'through Valens's errand rather than face to face' vs outline Theano in person", status: RESOLVED, resolved_date: "2026-10-18", decision: "public answer via Valens inside the male-only consultation; Theano names Pompeii to Mara in person, off duty, at her own house", source: "STATE:ARCH-4 (revised); audit WARN-001; outline:ch-13; foundation:§11.4" }
+    - { id: C13, entity: "august-fenn (Ch.27 count)", was: "'thirty-four years' in AD 76", status: RESOLVED, resolved_date: "2026-10-18", decision: "thirty-five years in Ch.27 (AD 76); 34 in Ch.25; 37–38 in Ch.35", source: "audit WARN-002; outline:ch-27; foundation:§10" }
+    - { id: C14, entity: "gratas-husband (rumor)", was: "Ch.25 'Grata's rumor' vs Ch.24 husband", status: RESOLVED, resolved_date: "2026-10-18", decision: "'the rumor from Grata's husband'", source: "audit N-06; outline:ch-24; outline:ch-25" }
   plan_gaps:
-    - "Which notebook goes through the door: outline Ch.43 'the notebook with Fenn's tables' / anchor 'Fenn's notebook'; Ch.36 'her 1998 notebook' (tremor notes since 72). Ch.2 packing lists only 'the notebook' (Fenn's). Whether Mara has a separate 1998 notebook is not established."
-    - "The map is not in the Ch.2 packing list; its whereabouts after Ch.2 are unplanned (Fenn's coordinates are also in his notebook)."
-    - "Outline Ch.12 says 'the flash is never used'; no flash unit is listed in the Ch.2 packing and the K1000 has no built-in flash."
-    - "When Valens learns the door's LOCATION (the Nuceria Gate tomb) is unplanned. He knows the public riddle (Ch.13) and discusses the door to 1998 by Ch.33; 'everything' is told Ch.37."
-    - "Whether Fenn knows AD 79 is the eruption year is unplanned (shareable #4 frames his door as 'the night Vesuvius erupts')."
-    - "Whether Felix knows about the door is unplanned."
-    - "Mara's eye colour, hair and height are not specified anywhere in the plan; Ch.1 (or first mention) will set canon."
+    - { gap: "Which notebook holds the tremor notes / goes through the door", status: CLOSED, resolution: "one notebook, Fenn's 1968 notebook: tremor notes in its blank back pages from Ch.20; through the door Ch.43", source: "outline:ch-20; outline:ch-36; outline:ch-43; audit WARN-012" }
+    - { gap: "The map's whereabouts after Ch.2", status: CLOSED, resolution: "stays pinned over Emilio's desk in Philadelphia; the coordinates are in the notebook", source: "outline:ch-02" }
+    - { gap: "The flash", status: CLOSED, resolution: "no flash unit; the K1000 has none (Ch.2 packing; Ch.12)", source: "outline:ch-02; outline:ch-12" }
+    - { gap: "When Valens learns the tomb's location", status: CLOSED, resolution: "Ch.30: he follows her to the tomb after the tremor", source: "outline:ch-30; outline:ch-37" }
+    - { gap: "Whether Fenn knows AD 79 is the eruption year", status: CLOSED, resolution: "yes, from school; he rebuilt his tables around it after 73 and says so plainly in Ch.25", source: "outline:ch-25; foundation:§3; STATE:ARCH-16" }
+    - { gap: "Whether Felix knows about the door", status: CLOSED, resolution: "no; Ch.37 he is told only that Mara fears the mountain", source: "outline:ch-37" }
+    - { gap: "Mara's eye colour, hair and height", status: OPEN, resolution: "set on the page by Ch.1 (or first mention); by design", source: "outline-audit.md § Beyond the audit" }
+    - { gap: "How Celer learned (autumn AD 70) that Valens was in Phocis and approached as a witness, so that the reward notice went up 'within the month'", status: OPEN, resolution: null, source: "outline:ch-12; foundation:§3" }
+    - { gap: "Whether Felix knows Mara's origin", status: OPEN, resolution: null, source: "outline (absent)" }
+  post_patch_flags:   # P1-P5 RESOLVED 2026-10-18 by direct outline edits: Ch.20 opener=narrative (italic notice); Ch.7 'written down as somebody's kin'; Fenn: 34 yrs in the past, waited for THIS door since 62; Ch.43 original tables go through the door inside the notebook; the Corinth notice (autumn 70) reaches Delphi only in spring 71 (Ch.9).
+    # Found while re-reading the PATCHED blueprint. Not resolved here (tracker rule 3). flag: UNRESOLVED.
+    - { id: P1, where: "outline:ch-20", issue: "chapter header line says 'open: document (a wall graffito) → short-punch'; the ledger row, beat 1 and the opening strategy say an italic lost-property notice of 9–27 words → narrative (audit N-26 moved it to narrative)", flag: "UNRESOLVED" }
+    - { id: P2, where: "outline:ch-07", issue: "beat subversion still reads 'the heroine is grateful to be owned' (and the surprise calls the registration 'the worst humiliation'); beat 2, foundation §4 row 7 and ARCH-14 say dependent kinswoman, free, never property", flag: "UNRESOLVED" }
+    - { id: P3, where: "outline:ch-35 premise; outline:ch-25 shareable #4 = foundation §4b #4", issue: "Ch.35 'the door he has waited for since he landed' (AD 41) and shareable #4 'waiting thirty-four years for a door that opens the night Vesuvius erupts' vs Ch.25 / foundation §3 'he has waited for that door since 62' (he learned of it from the 62 tavern story)", flag: "UNRESOLVED" }
+    - { id: P4, where: "outline:ch-38; outline:ch-43", issue: "Ch.38 packs 'the notebook and the tables'; Ch.43 sends the notebook (Fenn's key figures copied into its back pages, Ch.36), the tape, the film, the Zippo and the dime; the fate of Fenn's ORIGINAL tables (wax tablets / sheets given in Ch.35) is not stated", flag: "UNRESOLVED" }
+    - { id: P5, where: "outline:ch-12 vs outline:ch-06, ch-09", issue: "the notice went up 'within the month' of autumn AD 70 (Ch.12 knowledge path), yet Valens works openly at Kallia's in November 70 (Ch.6) and Ch.9 (late winter 71) stages him reading it in the Delphi agora as a fresh sighting; reconcilable only if the notice reached Delphi months after Corinth (not stated)", flag: "UNRESOLVED" }
 
 # =====================================================================
 # CHARACTERS
@@ -54,7 +68,7 @@ characters:
   mara-reyes:
     canonical_name: "Mara Reyes"
     aliases:
-      - { alias: "Mara", note: "kept on registration; passes as a Syrian name", source: "outline:ch-07" }
+      - { alias: "Maira", note: "she keeps her name on registration; the clerk writes it as Maira, an old Greek name, and does not ask (the 'Syrian name' line is cut)", source: "outline:ch-07" }
       - { alias: "Kallia's kinswoman from Syracuse", note: "cover identity; 'Syracuse' excuses the accent", source: "outline:ch-07" }
       - { alias: "nymphē", note: "the goat-boy's word for her (nymph / bride / young woman)", source: "outline:ch-04" }
       - { alias: "Mama", note: "to Lucius and Aelia", source: "outline:ch-39" }
@@ -76,26 +90,27 @@ characters:
       - { trait: "reads Attic Greek and Latin well; speaks neither at first; classroom (Erasmian) pronunciation is comic to 1st-c ears", source: "foundation:§3; outline:ch-07", mutable: true }
       - { trait: "can speak Greek by Ch.32 (argues with Philokrates in it)", source: "outline:ch-32", mutable: true }
       - { trait: "dry, quick, over-prepared, allergic to being looked after", source: "foundation:§3", mutable: true }
-      - { trait: "irrelevant obsession: teeth (surfacings Ch.7, 20, 31; horrified by burnt-horn tooth powder and urine mouthwash; chews a mastic-wood stick)", source: "foundation:§3", mutable: false }
+      - { trait: "irrelevant obsession: teeth (full surfacings Ch.7, 20, 31; glancing only Ch.2 floss, Ch.5 Kallia inspects hers, Ch.15 Valens's, Ch.24 the midwife's = the book's only introduction-by-teeth; cut from Ch.1, 4, 8, 19, 23; horrified by burnt-horn tooth powder and urine mouthwash; chews a mastic-wood stick)", source: "foundation:§3; outline:checks#4; outline:ch-01", mutable: false }
       - { trait: "cognitive distortion: all-or-nothing (Ch.1, 5, 7, 9, 20, 29, 33)", source: "foundation:§3; outline:checks#4", mutable: true }
       - { trait: "unprompted memory: Mrs. Dunphy crying at her desk (green cardigan Ch.7; brown Ch.24; unsure it was long division Ch.41)", source: "foundation:§3", mutable: false }
-      - trait: "failed emotional management / mundane breaks: weeps at a fountain over a toddler's wet pebble (Ch.20); laughing fit at a juror's sneeze (Ch.22)"
-        source: "foundation:§3"
+      - trait: "failed emotional management: three breaks — Ch.6 scream at the shut cave wall (the one break the plot earns); Ch.20 weeps at a fountain over a toddler's wet pebble; Ch.22 laughing fit when a man on the benches sneezes (unearned)"
+        source: "foundation:§3; outline:checks#4; outline:ch-06; outline:ch-20; outline:ch-22"
         mutable: false
-        conflict:
-          value: "three breaks: Ch.6 (scream at the cave wall), Ch.20, Ch.22"
-          source: "outline:ch-06; outline:checks#4"
-          flag: "UNRESOLVED"
+        resolved_from_conflict: true
+        resolved_date: "2026-10-18"
+        resolution_note: "C6: foundation now says three breaks (was two)"
       - { trait: "refuses to speak Greek for a month after being laughed at", source: "outline:ch-05; outline:ch-07", mutable: true }
       - { trait: "refuses to sing at Saturnalia because she cannot do it well; then sings badly", source: "outline:ch-29", mutable: true }
       - { trait: "evasion: never uses the word 'love' in her narration until Part Two; never states her father's death plainly; never claims to be brave", source: "foundation:§3", mutable: true }
+      - { trait: "evasion (narrowed): after Ch.25 she will not put FENN'S DATE in the future tense until Ch.36; hope for an earlier opening (Ch.30) and the Ch.33 debate are allowed", source: "character-bible.md#mara-reyes; audit WARN-013", mutable: true }
+      - { trait: "never says 'Margaret' to Fenn (Ch.25, Ch.35)", source: "character-bible.md#mara-reyes; outline:ch-25; outline:ch-35; STATE:ARCH-17", mutable: false }
+      - { trait: "keeps tremor notes in the blank back pages of Fenn's notebook from Ch.20 (a private eruption watch; no reckoning)", source: "outline:ch-20; outline:ch-30; outline:ch-36", mutable: true }
     legal_status:
-      - value: "registered by a magistrate's clerk as Kallia's dependent kinswoman 'from Syracuse'"
-        source: "outline:ch-07"
-        conflict:
-          value: "registered as Kallia's property"
-          source: "foundation:§4 (Ch.7 surprise)"
-          flag: "UNRESOLVED"
+      - value: "registered by a magistrate's clerk as Kallia's dependent kinswoman 'from Syracuse' — a free woman under Kallia's guardianship, never property (Ch.16 and Ch.18 depend on it)"
+        source: "outline:ch-07; foundation:§4 row 7"
+        resolved_from_conflict: true
+        resolved_date: "2026-10-18"
+        resolution_note: "C4: foundation 'property' replaced by 'dependent kinswoman' (STATE:ARCH-14)"
       - { value: "married to Valens on the Lechaion quay (consent before witnesses)", source: "outline:ch-18" }
     lie: { value: "Love the things that stay put (the made things, the dead), and keep a bag packed. Then nothing can leave you first.", source: "foundation:§3" }
     want: { value: "to go home carrying the proof her father never found; later, to take her children to her century", source: "foundation:§3" }
@@ -116,27 +131,27 @@ characters:
       irene-szabo: { type: "seller of the map", established: "outline:ch-01", current_status: "1998 only" }
       theano: { type: "the Pythia who names Pompeii to her", established: "outline:ch-13", current_status: "one meeting" }
     possessions:
-      - { item: "fathers-pentax-k1000", acquired: "outline:ch-01 (on her father's shelf)", status: "packed Ch.2; carried to AD 70; last frame Ch.38; camera put away empty" }
-      - { item: "film-roll", acquired: "outline:ch-02 (fresh roll loaded)", status: "sent through the door Ch.43" }
+      - { item: "fathers-pentax-k1000", acquired: "outline:ch-01 (on her father's shelf)", status: "packed Ch.2; carried to AD 70; frame 36 Ch.38, roll rewound and removed; camera back on the shelf (not packed)" }
+      - { item: "film-roll", acquired: "outline:ch-02 (fresh roll loaded)", status: "8 frames shot in 1998; canister packed Ch.38; sent through the door Ch.43" }
       - { item: "microcassette", acquired: "outline:ch-01 (ejected from the answering machine)", status: "sent through the door Ch.43" }
-      - { item: "fathers-seiko-watch", acquired: "outline:ch-01 (nightstand; she winds it)", status: "worn Ch.2-5; paid to Valens Ch.6; returned wound Ch.18; on her wrist Ch.43-44" }
-      - { item: "fenn-notebook", acquired: "outline:ch-01 (in the cigar box with the map)", status: "packed Ch.2; sent through the door Ch.43 (see plan_gaps)" }
-      - { item: "venetian-map", acquired: "outline:ch-01 (check she can't really afford)", status: "not in Ch.2 packing list; unplanned after Ch.2" }
-      - { item: "corycian-knucklebone", acquired: "outline:ch-03 (pocketed from the cave floor)", status: "passes to the children (Lucius by Ch.26; Aelia Ch.44)" }
+      - { item: "fathers-seiko-watch", acquired: "outline:ch-01 (nightstand; she winds it)", status: "worn Ch.2-5; paid to Valens Ch.6; returned wound and running Ch.18; on her wrist Ch.43-44" }
+      - { item: "fenn-notebook", acquired: "outline:ch-01 (in the cigar box with the map)", status: "packed Ch.2; tremor notes in its back pages from Ch.20; offered to Fenn and refused Ch.25; read by him and returned Ch.35; sent through the door Ch.43" }
+      - { item: "venetian-map", acquired: "outline:ch-01 (check she can't really afford)", status: "left pinned over her father's desk (Ch.2); not taken to Greece" }
+      - { item: "corycian-knucklebone", acquired: "outline:ch-03 (pocketed from the cave floor)", status: "Lucius's by Ch.26; Lucius gives it to Aelia Ch.41; in Aelia's fist Ch.44" }
       - { item: "flashlight", acquired: "outline:ch-02 (packed)", status: "shown to Valens Ch.15" }
       - { item: "granola-bars", acquired: "outline:ch-02 (packed)", status: "one split with the goat-boy Ch.4" }
-      - { item: "ibuprofen", acquired: "outline:ch-02 (packed)", status: "unplanned after packing" }
+      - { item: "ibuprofen", acquired: "outline:ch-02 (packed)", status: "last two given to Theano for her knees Ch.13 (a payment); optional past-facing mention Ch.32" }
       - { item: "toothbrush-and-floss", acquired: "outline:ch-02 (packed; floss before passport)", status: "replaced by a mastic-wood stick by Ch.7" }
       - { item: "mastic-wood-stick", acquired: "outline:ch-07", status: "frayed; her antiquity toothbrush" }
       - { item: "borrowed-himation", acquired: "outline:ch-07 (borrowed)", status: "given to her by Kallia Ch.16" }
       - { item: "plautias-bracelet", acquired: "outline:ch-16 (Plautia gives away the bracelet Mara admired)", status: "unplanned after Ch.16" }
       - { item: "bone-toothpick", acquired: "outline:ch-20 (traded for a repair)", status: "texture" }
       - { item: "fenn-tables-copy", acquired: "outline:ch-26 (box under the bed, unopened)", status: "opened/used by Ch.36" }
-      - { item: "fenn-tables-original", acquired: "outline:ch-35 (given by Fenn)", status: "packed Ch.38; through the door Ch.43 (with the notebook)" }
-      - { item: "fenns-zippo", acquired: "outline:ch-35 (given by Fenn)", status: "unplanned after Ch.35" }
-      - { item: "fenns-1964-dime", acquired: "outline:ch-35", status: "unplanned after Ch.35" }
-      - { item: "fenns-coverless-paperback", acquired: "outline:ch-35", status: "unplanned after Ch.35" }
-      - { item: "tremor-notes", acquired: "outline:ch-36 ('kept since 72 in her 1998 notebook')", status: "matched against Fenn's tables Ch.36" }
+      - { item: "fenn-tables-original", acquired: "outline:ch-35 (given by Fenn)", status: "Ch.36 key figures copied into the notebook; 'the tables' packed Ch.38; Ch.43 fate not stated (meta.post_patch_flags P4)" }
+      - { item: "fenns-zippo", acquired: "outline:ch-35 (given by Fenn)", status: "packed Ch.38; through the door Ch.43" }
+      - { item: "fenns-1964-dime", acquired: "outline:ch-35", status: "packed Ch.38; through the door Ch.43" }
+      - { item: "fenns-coverless-paperback", acquired: "outline:ch-35", status: "stays on the shelf (Ch.38)" }
+      - { item: "tremor-notes", acquired: "outline:ch-20 (first entry, back pages of Fenn's notebook)", status: "entry Ch.30; matched against Fenn's tables Ch.36; through the door in the notebook Ch.43" }
     location_log:
       - { chapter: 1, location: "philadelphia", scene: "museum upper gallery reception → Pine Street, Szabo's shop → reception (coat) → Emilio's rowhouse", travel_noted: false, source: "outline:ch-01" }
       - { chapter: 2, location: "philadelphia", scene: "her lab; father's study; packing (March–May 1998)", travel_noted: false, source: "outline:ch-02" }
@@ -150,13 +165,13 @@ characters:
       - { chapter: 10, location: "delphi", scene: "Kallia's kitchen", travel_noted: false, source: "outline:ch-10" }
       - { chapter: 11, location: "valens-yard", scene: "the mule yard on the Kirrha road; tack shed", travel_noted: true, source: "outline:ch-11" }
       - { chapter: 12, location: "kirrha-road", scene: "road to Kirrha (fight); a stream", travel_noted: true, source: "outline:ch-12" }
-      - { chapter: 13, location: "delphi", scene: "temple terrace among the waiting women; the inn; Theano's house", travel_noted: false, source: "outline:ch-13" }
-      - { chapter: 14, location: "delphi", scene: "the inn, same night", travel_noted: false, source: "outline:ch-14" }
+      - { chapter: 13, location: "delphi", scene: "temple terrace among the waiting women; Kallia's lodging (Valens's account); Theano's house", travel_noted: false, source: "outline:ch-13" }
+      - { chapter: 14, location: "delphi", scene: "Kallia's lodging, same night", travel_noted: false, source: "outline:ch-14" }
       - { chapter: 15, location: "parnassus", scene: "high summer pasture; shepherd hut", travel_noted: true, source: "outline:ch-15" }
       - { chapter: 16, location: "corinth", scene: "Plautia's brother's house; intercut Delphi (autumn farewell) and the gulf crossing Kirrha → Lechaion", travel_noted: true, source: "outline:ch-16" }
       - { chapter: 17, location: "corinth", scene: "provincial record office; colonnade (Celer); Isthmian Games crowd; running for Lechaion", travel_noted: true, source: "outline:ch-17" }
       - { chapter: 18, location: "lechaion", scene: "the quay; aboard", travel_noted: true, source: "outline:ch-18" }
-      - { chapter: 19, location: "puteoli → pompeii", scene: "deck view; harbor clerk; coast road; Grata's; Nuceria Gate tombs", travel_noted: true, source: "outline:ch-19" }
+      - { chapter: 19, location: "puteoli → pompeii", scene: "deck view; harbor clerk; coast road (two days, a night at a roadside inn near Neapolis); Grata's; Herculaneum Gate road and Stabian Gate tombs (first free afternoon); Nuceria Gate tombs (next afternoon)", travel_noted: true, source: "outline:ch-19" }
       - { chapter: 20, location: "pompeii", scene: "repair shop in Grata's front room; a street fountain", travel_noted: false, source: "outline:ch-20" }
       - { chapter: 21, location: "pompeii", scene: "the shop (alternating with the amphitheatre)", travel_noted: false, source: "outline:ch-21" }
       - { chapter: 22, location: "rome", scene: "Basilica Julia (walked out); the Forum; Flavian Amphitheatre in scaffolding", travel_noted: true, source: "outline:ch-22" }
@@ -164,10 +179,10 @@ characters:
       - { chapter: 24, location: "pompeii", scene: "Grata's back room (labor)", travel_noted: true, source: "outline:ch-24" }
       - { chapter: 25, location: "puteoli", scene: "Fenn's upper room by the harbor", travel_noted: true, source: "outline:ch-25" }
       - { chapter: 26, location: "pompeii", scene: "home", travel_noted: false, source: "outline:ch-26" }
-      - { chapter: 27, location: "cumae", scene: "Puteoli sulphur fields → Lake Avernus → the Sibyl's cave", travel_noted: true, source: "outline:ch-27" }
+      - { chapter: 27, location: "cumae", scene: "Puteoli sulphur fields → Lake Avernus → the Sibyl's cave (Aelia in a sling)", travel_noted: true, source: "outline:ch-27" }
       - { chapter: 28, location: "pompeii", scene: "amphitheatre (her presence in the stands not specified)", travel_noted: false, source: "outline:ch-28" }
       - { chapter: 29, location: "pompeii", scene: "home table; street stage (mime)", travel_noted: false, source: "outline:ch-29" }
-      - { chapter: 30, location: "pompeii", scene: "kitchen; Nuceria Gate tomb", travel_noted: false, source: "outline:ch-30" }
+      - { chapter: 30, location: "pompeii", scene: "kitchen; Nuceria Gate tomb (Valens follows her there)", travel_noted: false, source: "outline:ch-30" }
       - { chapter: 31, location: "pompeii", scene: "streets at night; Grata's wall", travel_noted: false, source: "outline:ch-31" }
       - { chapter: 32, location: "pompeii", scene: "home, Lucius's sickroom", travel_noted: false, source: "outline:ch-32" }
       - { chapter: 33, location: "pompeii; puteoli", scene: "home (pill on the tablet); Fenn's room", travel_noted: true, source: "outline:ch-33" }
@@ -191,6 +206,7 @@ characters:
       - { fact: "Fenn's theory: Ptolemaic scrolls carried to 'the cave of the nymphs on Parnassus'; his coordinates", learned_chapter: 2, method: "discovered", source: "outline:ch-02" }
       - { fact: "Fenn (1968) put his hand in at the back of the cave and felt cold air", learned_chapter: 2, method: "discovered", source: "outline:ch-02" }
       - { fact: "Fenn's sister was Margaret (he wrote she could stop telling people he was in Mexico)", learned_chapter: 2, method: "discovered", source: "outline:ch-02" }
+      - { fact: "the notebook came home without Fenn: the US consulate in Athens forwarded his personal effects to next of kin in 1968 (effects slip folded inside the back cover)", learned_chapter: 2, method: "discovered", revised: "2026-10-18", source: "outline:ch-02; foundation:§3" }
       - { fact: "the cave door is real (she crossed)", learned_chapter: 3, method: "witnessed", source: "outline:ch-03" }
       - { fact: "the year is AD 70; Vespasian reigns (herald: Titus has taken Jerusalem)", learned_chapter: 5, method: "inferred", note: "overheard the herald; did the history herself; no thought of 79 yet", source: "outline:ch-05" }
       - { fact: "the Corycian door she came by is shut", learned_chapter: 6, method: "discovered", note: "confirmed again Ch.8", source: "outline:ch-06; outline:ch-08" }
@@ -200,28 +216,35 @@ characters:
       - { fact: "Ariston is alive, married in Emesa, a child coming, not coming home", learned_chapter: 10, method: "discovered", note: "she reads the letter aloud", source: "outline:ch-10" }
       - { fact: "Valens reads but pretends he can't; he bought Felix off a slaver and freed him with no paperwork", learned_chapter: 11, method: "discovered", source: "outline:ch-11" }
       - { fact: "Valens's history: the rudis, Nero's games at Corinth, Plautia, Celer's dowry frame; Celer wants him dead (the dowry suit)", learned_chapter: 12, method: "told_by:valens", source: "outline:ch-12" }
-      - { fact: "the Oracle's public answer: 'the road home lies under the mountain of vines by the western sea, where the dead go out of the city'", learned_chapter: 13, method: "told_by:valens", source: "outline:ch-13" }
-      - { fact: "the door home is at POMPEII", learned_chapter: 13, method: "told_by:theano", source: "outline:ch-13" }
+      - { fact: "how Valens knows about the suit: last autumn (AD 70) Plautia's brother's freedman found him at Kirrha harbor and asked him to testify; he refused; the reward notice went up within the month — so Celer wants a dead witness", learned_chapter: 12, method: "told_by:valens", revised: "2026-10-18", source: "outline:ch-12; foundation:§3; STATE:ARCH-15" }
+      - { fact: "the Oracle's public answer: 'the road home lies under the mountain of vines by the western sea, where the dead go out of the city, at the door painted on a dead man's house' (two markers: the necropolis + a painted door on a tomb)", learned_chapter: 13, method: "told_by:valens", note: "his word-for-word repetition at Kallia's lodging; rendered once", revised: "2026-10-18", source: "outline:ch-13; STATE:ARCH-4" }
+      - { fact: "the door home is at POMPEII", learned_chapter: 13, method: "told_by:theano", note: "in person, off duty, at Theano's house (sent for by a temple slave); a widow talking to a woman, not an oracular response", revised: "2026-10-18", source: "outline:ch-13; STATE:ARCH-4 (revised)" }
       - { fact: "the WHEN is withheld: 'not hers to give, or not given'", learned_chapter: 13, method: "told_by:theano", source: "outline:ch-13" }
       - { fact: "Plautia was never Valens's lover", learned_chapter: 16, method: "inferred", note: "from watching, not asking", source: "outline:ch-16" }
       - { fact: "Celer kept Plautia's son Marcus; the archive copy of Valens's manumission is in the provincial record office under Celer's influence", learned_chapter: 16, method: "told_by:plautia", source: "outline:ch-16" }
-      - { fact: "the door is a small freedman's tomb with a painted false door outside the Nuceria Gate; faintly cool on a hot day; dormant", learned_chapter: 19, method: "discovered", source: "outline:ch-19" }
-      - { fact: "Valens is summoned to testify in Rome in spring (dowry suit)", learned_chapter: 21, method: "told_by:plautias-brother", note: "by summons/letter", source: "outline:ch-21" }
+      - { fact: "the door is a small freedman's tomb with a painted false door outside the Nuceria Gate; faintly cool on a warm spring afternoon; dormant", learned_chapter: 19, method: "discovered", note: "found after a short search: Herculaneum Gate road and Stabian Gate tombs on her first free afternoon, the Nuceria Gate the next afternoon; the god's 'door painted on a dead man's house' lets her know it at once", revised: "2026-10-18", source: "outline:ch-19; foundation:§11.3" }
+      - { fact: "Valens is summoned to testify in Rome in spring (dowry suit)", learned_chapter: 21, method: "told_by:plautias-brothers-freedman", note: "the brother's summons, brought by the freedman to Grata's counter by name; the address came via Plautia (Valens sent word summer AD 72)", revised: "2026-10-18", source: "outline:ch-21" }
       - { fact: "a Chaldean in Puteoli 'talks gibberish to himself'", learned_chapter: 24, method: "told_by:gratas-husband", source: "outline:ch-24" }
       - { fact: "Augurinus is August Fenn, alive, marooned since AD 41", learned_chapter: 25, method: "discovered", source: "outline:ch-25" }
-      - { fact: "Fenn's history: 1968 crossing, landed AD 41, thirty-four years; doors 'breathe with the earth'; the 62 quake opened Pompeii's door for a day and he arrived three days late", learned_chapter: 25, method: "told_by:august-fenn", source: "outline:ch-25" }
-      - { fact: "a door takes back the one it brought, so it will take her", learned_chapter: 25, method: "told_by:august-fenn", note: "a promise; allowlisted phrase use 1/3", source: "outline:ch-25" }
+      - { fact: "Fenn's history: 1968 crossing, landed AD 41, thirty-four years; doors 'breathe with the earth'; the 62 quake opened Pompeii's door for part of one night; he was down with fever in Misenum and three days later heard a tavern story about a tomb whose painted door 'breathed cold' — which is how he found the door, already shut", learned_chapter: 25, method: "told_by:august-fenn", revised: "2026-10-18", source: "outline:ch-25; foundation:§3" }
+      - { fact: "the law in Fenn's words: the doors are one door with many mouths, so 'it' takes back the one it brought — the cave brought her, so Pompeii's mouth will take her", learned_chapter: 25, method: "told_by:august-fenn", note: "a promise; allowlisted phrase use 1/3; 'one door with many mouths' worded once", revised: "2026-10-18", source: "outline:ch-25; foundation:§4d; STATE:ARCH-16" }
+      - { fact: "an opening is brief: hours at most, never days", learned_chapter: 25, method: "told_by:august-fenn", revised: "2026-10-18", source: "outline:ch-25; foundation:§9" }
       - { fact: "whether the door would take others is UNKNOWN (Fenn has always been alone)", learned_chapter: 25, method: "told_by:august-fenn", source: "outline:ch-25" }
-      - { fact: "the WHEN: late summer, AD 79", learned_chapter: 25, method: "told_by:august-fenn", note: "she rejects it (Ch.25-35); accepted Ch.36", source: "outline:ch-25" }
-      - { fact: "Fenn's predictions for 71 and 73 failed", learned_chapter: 25, method: "told_by:august-fenn", source: "outline:ch-25" }
+      - { fact: "the WHEN: late summer, AD 79 (be at the tomb the night after the mountain opens)", learned_chapter: 25, method: "told_by:august-fenn", note: "she rejects it (Ch.25-35); accepted Ch.36", revised: "2026-10-18", source: "outline:ch-25" }
+      - { fact: "Fenn's first two dates for the door's reopening (71, then 73) came from the tremor rhythm alone and failed: three nights at the tomb each time; after 73 he rebuilt the tables around 79, which he knows from school is Pompeii's year", learned_chapter: 25, method: "told_by:august-fenn", note: "her fig leaf: wrong twice, and the third date built around the history-book year", revised: "2026-10-18", source: "outline:ch-25; foundation:§3; STATE:ARCH-16" }
+      - { fact: "in the autumn of 73 she was living a mile from where Fenn sat at the tomb", learned_chapter: 25, method: "inferred", note: "FLEX", revised: "2026-10-18", source: "outline:ch-25" }
+      - { fact: "Fenn understood from 'estate sale in Chestnut Hill' that his sister is dead; he did not ask whose sale; he refuses the notebook ('Keep it. I know what's in it.')", learned_chapter: 25, method: "witnessed", note: "she does not say the name, then or ever, to him", revised: "2026-10-18", source: "outline:ch-25; STATE:ARCH-17" }
       - { fact: "Fenn left his sister a note on the hall table (unnamed in the letter)", learned_chapter: 26, method: "told_by:august-fenn", note: "letter", source: "outline:ch-26" }
       - { fact: "doors can die (the Cumae door is dead)", learned_chapter: 27, method: "witnessed", source: "outline:ch-27" }
       - { fact: "Fenn left his coat at the cave mouth in 1968", learned_chapter: 27, method: "told_by:august-fenn", source: "outline:ch-27" }
       - { fact: "Felix has sworn himself to the gladiator school as auctoratus", learned_chapter: 28, method: "told_by:valens", note: "news waiting on return from Cumae (Ch.27 end)", source: "outline:ch-27; outline:ch-28" }
-      - { fact: "the tremor did not open the door (warm plaster only)", learned_chapter: 30, method: "discovered", source: "outline:ch-30" }
-      - { fact: "Fenn still does not know whether the door would take others; has never seen anyone try", learned_chapter: 33, method: "told_by:august-fenn", source: "outline:ch-33" }
-      - { fact: "Vespasian died 23 June 79; Titus is emperor", learned_chapter: 36, method: "discovered", note: "public notice", source: "outline:ch-36" }
-      - { fact: "Fenn's tables and her tremor notes agree: the door opens in the night after the mountain opens", learned_chapter: 36, method: "discovered", source: "outline:ch-36" }
+      - { fact: "the tremor did not open the door (the same faint coolness as the day she found it, under sun-warmed plaster; no colder)", learned_chapter: 30, method: "discovered", revised: "2026-10-18", source: "outline:ch-30" }
+      - { fact: "Valens followed her to the tomb and saw her hand on the painted door; he asked nothing", learned_chapter: 30, method: "witnessed", revised: "2026-10-18", source: "outline:ch-30" }
+      - { fact: "Fenn still does not know whether the door would take others; has never seen anyone try; would like to see it", learned_chapter: 33, method: "told_by:august-fenn", note: "in Greek, with Valens present; she steers away from the date", revised: "2026-10-18", source: "outline:ch-33" }
+      - { fact: "Fenn's sister's name is spoken by him for the first time (after reading his own 1968 front pages)", learned_chapter: 35, method: "witnessed", revised: "2026-10-18", source: "outline:ch-35" }
+      - { fact: "Vespasian died 23 June 79; Titus is emperor", learned_chapter: 36, method: "discovered", note: "news in the streets since late June; the early-July posted notice is what makes her sit down", revised: "2026-10-18", source: "outline:ch-36" }
+      - { fact: "Fenn's tables and her tremor notes (kept independently since 72 in the back pages of his notebook) agree: the door opens in the night after the mountain opens", learned_chapter: 36, method: "discovered", note: "she copies his key figures into the notebook beside hers", revised: "2026-10-18", source: "outline:ch-36" }
+      - { fact: "the plan, locked: stay for the door; the daylight hours after the mountain opens go to the boat (all by sea if it can, the door let go); if the sea refuses, the door at night", learned_chapter: 37, method: "told_by:valens", note: "Valens's one condition; agreed between them", revised: "2026-10-18", source: "outline:ch-37; STATE:ARCH-18" }
       - { fact: "the backup boat cannot land", learned_chapter: 40, method: "witnessed", source: "outline:ch-40" }
       - { fact: "the door opens before dawn 25 Aug; it takes her; Valens, Lucius and Aelia meet plaster (no one native to its side)", learned_chapter: 42, method: "witnessed", source: "outline:ch-42" }
     arc_waypoints:
@@ -238,7 +261,7 @@ characters:
       - { chapter: "32-41", waypoint: "would-be rescuer: wants the door for the children", source: "foundation:§3" }
       - { chapter: 36, waypoint: "the arithmetic accepted; first feeling calm", source: "outline:ch-36" }
       - { chapter: 37, waypoint: "tells Valens everything", source: "outline:ch-37" }
-      - { chapter: 43, waypoint: "stays: sends tape, film and notebook through; keeps the watch; lets the seam close", source: "outline:ch-43" }
+      - { chapter: 43, waypoint: "stays: sends tape, film, Fenn's notebook, his Zippo and dime through; keeps the watch; lets the seam close", source: "outline:ch-43" }
     arc_notes: "Visitor → reluctant resident → would-be rescuer → the one who stays (active choice)."
 
   valens:
@@ -266,19 +289,18 @@ characters:
       - { trait: "irrelevant obsession: figs (Ch.11, 20, 34; potted fig tree moved twice); spent after Ch.34", source: "foundation:§3; outline:ch-38", mutable: false }
       - { trait: "cognitive distortion: mind-reading threat (Ch.6, 11, 19, 21, 28, 37) — e.g. sure the Puteoli harbor clerk marked him (short-sighted); sure Grata dislikes him (she fancies him)", source: "foundation:§3; outline:checks#4", mutable: true }
       - { trait: "unprompted memory: onions drying under Thracian eaves (Ch.12, 22, 23, 32, 41); never explained", source: "foundation:§3; outline:checks#4", mutable: false }
-      - trait: "failed emotional management: weeps at a mime farce about a cuckolded baker (Ch.29); Lucius mortified"
-        source: "outline:ch-29 (at 'a street stage')"
+      - trait: "failed emotional management: weeps at a mime farce about a cuckolded baker on a street stage (Ch.29); Lucius (~2½, on his shoulders) pushes bread at his mouth to make it stop ('mortified' cut)"
+        source: "outline:ch-29; foundation:§3"
         mutable: false
-        conflict:
-          value: "in Pompeii's small theatre"
-          source: "foundation:§3"
-          flag: "UNRESOLVED"
+        resolved_from_conflict: true
+        resolved_date: "2026-10-18"
+        resolution_note: "C3: foundation now says 'a street stage' (was 'Pompeii's small theatre'); WARN-015 also applied"
       - { trait: "evasion: never speaks of the men he killed; never says he is afraid; says 'love' once only, Ch.43", source: "foundation:§3; outline:ch-43", mutable: true }
       - { trait: "refuses the arena for himself (Ch.21); never steps into the arena (Ch.28)", source: "outline:ch-21; outline:ch-28", mutable: false }
     legal_status:
-      - { value: "freedman; manumission contested; his copy of the record seized (69)", source: "foundation:§3" }
+      - { value: "freedman; his copy of the record seized (69); Celer contests the manumission as never registered before a magistrate and claims to have bought him from the lanista first (the 'property' basis)", source: "foundation:§3" }
       - { value: "claimed as runaway property of Celer's household (notice)", source: "outline:ch-09" }
-      - { value: "manumission record recovered from the Corinth record office (bronze-and-wax diptych)", source: "outline:ch-17" }
+      - { value: "manumission record recovered from the Corinth record office (bronze-and-wax diptych); it proves the registration", source: "outline:ch-17; foundation:§3" }
       - { value: "papers accepted at Puteoli", source: "outline:ch-19" }
       - { value: "vindicated as witness; says his own name in the Basilica Julia", source: "outline:ch-22" }
     lie: { value: "Whoever is close enough to know you is close enough to sell you. Be useful; be nobody.", source: "foundation:§3" }
@@ -289,7 +311,8 @@ characters:
     relationships:
       mara-reyes: { type: "hired hauler (Ch.6) → employer (Ch.11) → lover (Ch.15) → husband (Ch.18)", established: "outline:ch-06", current_status: "planned: married" }
       felix: { type: "bought him off a slaver at Kirrha (~AD 70) and freed him informally; surrogate father", established: "outline:ch-11", current_status: "planned" }
-      plautia: { type: "former sworn bodyguard; falsely accused as her lover", established: "foundation:§3", current_status: "never lovers; allies in the suit" }
+      plautia: { type: "former sworn bodyguard; falsely accused as her lover", established: "foundation:§3", current_status: "never lovers; allies in the suit; he sends her word of the Pompeii lodging, summer AD 72 (outline:ch-21)" }
+      plautias-brothers-freedman: { type: "messenger for the dowry suit", established: "outline:ch-12 (autumn AD 70, Kirrha harbor, told)", current_status: "brings the Rome summons to Grata's counter (Ch.21)" }
       quintus-arrius-celer: { type: "former employer; framer", established: "foundation:§3", current_status: "settled by law, Ch.22" }
       august-fenn: { type: "friendship of two exiles", established: "outline:ch-25", current_status: "friends by Ch.29; carries Fenn to the window Ch.35" }
       lucius: { type: "father", established: "outline:ch-24", current_status: "planned" }
@@ -297,16 +320,16 @@ characters:
       pomponia-grata: { type: "landlord's family / neighbor; he wrongly thinks she dislikes him", established: "outline:ch-19", current_status: "planned" }
     possessions:
       - { item: "mules-and-horses", acquired: "pre-story", status: "eleven mules, two horses (and a boy) on the Kirrha–Delphi road", source: "foundation:§3" }
-      - { item: "fathers-seiko-watch", acquired: "outline:ch-06 (payment from Mara)", status: "kept wound sixteen months; returned Ch.18" }
+      - { item: "fathers-seiko-watch", acquired: "outline:ch-06 (payment from Mara)", status: "kept wound seventeen months (Nov 70 → spring 72); returned Ch.18 running, set near noon by the shadow" }
       - { item: "manumission-record", acquired: "outline:ch-17", status: "used at Puteoli Ch.19" }
-      - { item: "potted-fig-tree", acquired: "foundation:§3", status: "on the roof in Pompeii (Ch.20); moved twice" }
+      - { item: "potted-fig-tree", acquired: "foundation:§3", status: "on the roof in Pompeii (Ch.20; he sleeps under it in the named frame); moved twice" }
     location_log:
       - { chapter: 6, location: "delphi → corycian-cave", scene: "delivering firewood to Kallia's lodging (backfill); the climb; the cave", travel_noted: true, source: "outline:ch-06" }
       - { chapter: 9, location: "delphi", scene: "agora, reads the notice", travel_noted: false, source: "outline:ch-09" }
       - { chapter: 11, location: "valens-yard", scene: "the yard", travel_noted: false, source: "outline:ch-11" }
       - { chapter: 12, location: "kirrha-road", scene: "fight; stream", travel_noted: true, source: "outline:ch-12" }
-      - { chapter: 13, location: "delphi", scene: "inside the temple as questioner; the inn after", travel_noted: false, source: "outline:ch-13" }
-      - { chapter: 14, location: "delphi", scene: "asleep on the inn floor across the doorway", travel_noted: false, source: "outline:ch-14" }
+      - { chapter: 13, location: "delphi", scene: "inside the temple as questioner; Kallia's lodging after (recounts the consultation)", travel_noted: false, source: "outline:ch-13" }
+      - { chapter: 14, location: "delphi", scene: "asleep on the floor of Kallia's lodging across Mara's doorway (Kallia put him there: pilgrims, Celer's men)", travel_noted: false, source: "outline:ch-14" }
       - { chapter: 15, location: "parnassus", scene: "high pasture; shepherd hut", travel_noted: true, source: "outline:ch-15" }
       - { chapter: 16, location: "corinth", scene: "Corinth", travel_noted: true, source: "outline:ch-16" }
       - { chapter: 17, location: "corinth", scene: "colonnade (Celer face to face); games crowd", travel_noted: false, source: "outline:ch-17" }
@@ -316,26 +339,32 @@ characters:
       - { chapter: 21, location: "pompeii", scene: "amphitheatre at a minor show", travel_noted: false, source: "outline:ch-21" }
       - { chapter: 22, location: "rome", scene: "Basilica Julia, witness", travel_noted: true, source: "outline:ch-22" }
       - { chapter: 23, location: "appian-way-inn", scene: "inn", travel_noted: true, source: "outline:ch-23" }
-      - { chapter: 24, location: "pompeii", scene: "outside the birthing room; re-shoeing a mule at midnight", travel_noted: false, source: "outline:ch-24" }
-      - { chapter: 25, location: "puteoli", scene: "Fenn's doorway, holding Lucius", travel_noted: true, source: "outline:ch-25" }
+      - { chapter: 24, location: "pompeii", scene: "outside the birthing room; trimming a mule's hooves by lamplight at midnight (no nailed shoes)", travel_noted: false, source: "outline:ch-24" }
+      - { chapter: 25, location: "puteoli", scene: "Fenn's doorway, holding Lucius (~8 months)", travel_noted: true, source: "outline:ch-25" }
       - { chapter: 28, location: "pompeii", scene: "amphitheatre stands, Lucius on his knee", travel_noted: false, source: "outline:ch-28" }
-      - { chapter: 29, location: "pompeii", scene: "home table; mime stage", travel_noted: false, source: "outline:ch-29" }
+      - { chapter: 29, location: "pompeii", scene: "home table; street stage (mime)", travel_noted: false, source: "outline:ch-29" }
+      - { chapter: 30, location: "nuceria-gate-tomb", scene: "follows Mara out of the Nuceria Gate after the tremor; watches her hand on the painted door", travel_noted: true, source: "outline:ch-30" }
       - { chapter: 31, location: "pompeii", scene: "refuses to help, then holds the lamp", travel_noted: false, source: "outline:ch-31" }
       - { chapter: 32, location: "pompeii", scene: "Temple of Isis, then home", travel_noted: false, source: "outline:ch-32" }
+      - { chapter: 33, location: "pompeii; puteoli", scene: "the pill on the wax tablet; present at Fenn's room for the Greek conversation", travel_noted: true, source: "outline:ch-33" }
       - { chapter: 34, location: "surrentum", scene: "beach; inn", travel_noted: true, source: "outline:ch-34" }
       - { chapter: 35, location: "puteoli", scene: "carries Fenn to the window", travel_noted: true, source: "outline:ch-35" }
       - { chapter: 37, location: "sarno-river-port", scene: "the argument", travel_noted: true, source: "outline:ch-37" }
       - { chapter: "39-44", location: "pompeii → sarno-river-port → nuceria-gate-tomb → nuceria-road", scene: "with the family", travel_noted: true, source: "outline:ch-39..44" }
     knowledge:
       - { fact: "Celer framed him to retain part of Plautia's dowry; he was never her lover", learned_chapter: 0, method: "prior_knowledge", source: "foundation:§3" }
-      - { fact: "a reward notice with his description is posted in Delphi", learned_chapter: 9, method: "discovered", source: "outline:ch-09" }
-      - { fact: "the Oracle's public answer, word for word", learned_chapter: 13, method: "witnessed", note: "heard inside the temple; repeats it exactly", source: "outline:ch-13" }
+      - { fact: "Plautia's brother is suing Celer for the dowry and wants him as witness; he refused; the reward notice followed within the month, so Celer wants a dead witness", learned_chapter: 0, method: "told_by:plautias-brothers-freedman", note: "autumn AD 70 at Kirrha harbor, before his first appearance (Ch.6); the conclusion about Celer is his own inference; told to Mara Ch.12", revised: "2026-10-18", source: "outline:ch-12; foundation:§3; STATE:ARCH-15" }
+      - { fact: "a reward notice with his description is posted in Delphi", learned_chapter: 9, method: "discovered", note: "see meta.post_patch_flags P5 (timing vs 'within the month' of autumn 70)", revised: "2026-10-18", source: "outline:ch-09" }
+      - { fact: "the Oracle's public answer, word for word, including the second marker 'at the door painted on a dead man's house'", learned_chapter: 13, method: "witnessed", note: "heard inside the temple; repeats it exactly at Kallia's lodging", revised: "2026-10-18", source: "outline:ch-13" }
       - { fact: "Mara says she comes from nineteen centuries ahead", learned_chapter: 15, method: "told_by:mara-reyes", note: "disbelieves; thinks her harmlessly mad; does not care", source: "outline:ch-15" }
+      - { fact: "Mara says a door in the Corycian cave brought her, and that the old woman told her the door home is in Pompeii (why she must reach Italy)", learned_chapter: 15, method: "told_by:mara-reyes", note: "accepts Pompeii as a place; NOT told the city's fate (that waits for Ch.37)", revised: "2026-10-18", source: "outline:ch-15" }
       - { fact: "the bargain: his papers from Corinth in autumn; sail for Italy in spring as man and wife", learned_chapter: 15, method: "told_by:mara-reyes", source: "outline:ch-15" }
-      - { fact: "Mara's origin is TRUE", learned_chapter: 25, method: "overheard", note: "hears Mara and Fenn speak fluent English; belief shown on his face, never declared", source: "outline:ch-25; outline:ch-15 (beat subversion)" }
+      - { fact: "Mara's origin is TRUE, and a door leads to her time", learned_chapter: 25, method: "overheard", note: "hears Mara and Fenn speak fluent English; belief shown on his face, never declared; follows no English, so learns neither the date nor the door's rules here", revised: "2026-10-18", source: "outline:ch-25; outline:ch-15 (beat subversion)" }
       - { fact: "Felix is sworn to the gladiator school (auctoratus, cannot be bought out before his first fight)", learned_chapter: 28, method: "discovered", source: "outline:ch-28" }
-      - { fact: "Mara wants to take the children through the door into 1998", learned_chapter: 33, method: "told_by:mara-reyes", source: "outline:ch-33" }
-      - { fact: "everything: what the mountain will do, what day, the door, the hours of falling stone", learned_chapter: 37, method: "told_by:mara-reyes", source: "outline:ch-37" }
+      - { fact: "where the door is: the painted false door of the tomb outside the Nuceria Gate", learned_chapter: 30, method: "witnessed", note: "followed Mara after the tremor; asks nothing", revised: "2026-10-18", source: "outline:ch-30; outline:ch-37" }
+      - { fact: "Mara wants to take the children through the door into her century", learned_chapter: 33, method: "told_by:mara-reyes", source: "outline:ch-33" }
+      - { fact: "the door might not take him or the children; Fenn does not know and has never seen anyone try", learned_chapter: 33, method: "witnessed", note: "the conversation is held in Greek in front of him; nobody names the date", revised: "2026-10-18", source: "outline:ch-33; outline:ch-37" }
+      - { fact: "NEW in Ch.37 only: what the mountain will do, the day, the hours of falling stone, and that the door's night is the eruption's night", learned_chapter: 37, method: "told_by:mara-reyes", note: "everything else about the door he already has (Ch.15, 25, 30, 33)", revised: "2026-10-18", source: "outline:ch-37" }
       - { fact: "the door does not take him or the children", learned_chapter: 42, method: "witnessed", source: "outline:ch-42" }
     arc_waypoints:
       - { chapter: 6, waypoint: "a nobody on a mountain road; keeps her watch as his fee", source: "outline:ch-06" }
@@ -347,7 +376,7 @@ characters:
       - { chapter: 22, waypoint: "says his own name in the Basilica Julia", source: "outline:ch-22" }
       - { chapter: 25, waypoint: "believes Mara", source: "outline:ch-25" }
       - { chapter: 28, waypoint: "watches rather than intervenes", source: "outline:ch-28" }
-      - { chapter: 37, waypoint: "agrees to wait for the door because she has never asked him for anything", source: "outline:ch-37" }
+      - { chapter: 37, waypoint: "agrees to stay for the door because she has never asked him for anything; his one condition: the daylight hours go to the boat", source: "outline:ch-37; STATE:ARCH-18" }
       - { chapter: 43, waypoint: "begs her to go and means it; says 'love' once", source: "outline:ch-43" }
     arc_notes: "From invisible nobody to publicly known witness, husband and father."
 
@@ -360,7 +389,7 @@ characters:
     role: "vanished treasure hunter, marooned; cautionary mirror; gives the WHEN"
     first_appearance: { chapter: 2, mode: "documents (notebook)", in_person: 25, source: "outline:ch-02; outline:ch-25", note: "named by Szabo Ch.1" }
     physical:
-      age: { value: 68, at_chapter: 25, birth_year: 1934, note: "34 when he vanished (1968); 34 years lived in the past by AD 75", source: "foundation:§3" }
+      age: { value: 68, at_chapter: 25, birth_year: 1934, note: "34 when he vanished (1968); years since landing (AD 41): 34 in Ch.25 (AD 75), 35 in Ch.27 (AD 76), 37–38 in Ch.35 (winter 78–79)", resolved_from_conflict: true, resolved_date: "2026-10-18", resolution_note: "C13: outline Ch.27 now 'thirty-five years'", source: "foundation:§3; foundation:§10; outline:ch-27" }
       build: { value: "thin", source: "foundation:§3" }
       distinguishing:
         - { value: "ink-stained fingers", source: "foundation:§3" }
@@ -373,8 +402,9 @@ characters:
       - { trait: "irrelevant obsession: the 1964 Phillies (Ch.25, 26, 29, 35)", source: "foundation:§3; outline:checks#4", mutable: false }
       - { trait: "sunk cost: finishes every terrible jar of wine he has paid for", source: "foundation:§3", mutable: false }
       - { trait: "unprompted memory: Horn & Hardart automat on Chestnut Street (coconut cream Ch.25; lemon meringue Ch.27; can't remember the pie Ch.35)", source: "foundation:§3; outline:ch-35", mutable: false }
-      - { trait: "rage at 1990s English he doesn't know ('voicemail') — Ch.26 letter, Ch.27 in person", source: "foundation:§3", mutable: false }
-      - { trait: "never says his sister's name in person until Ch.35", source: "foundation:§3; outline:ch-35", mutable: true }
+      - { trait: "rage at 1990s English he doesn't know ('voicemail') — once only, Ch.26 letter; the Ch.27 in-person repeat is cut", source: "foundation:§3; outline:ch-27; outline:checks#4", mutable: false }
+      - { trait: "never says his sister's name in person until Ch.35; in Ch.25 'estate sale' tells him she is dead and he does not ask whose; he refuses the notebook until Ch.35", source: "foundation:§3; outline:ch-25; outline:ch-35; character-bible.md#august-fenn-augurinus", mutable: true }
+      - { trait: "thinks of the doors as one door with many mouths ('it' in 'the one it brought' = all the doors as one)", source: "foundation:§4d, §9; outline:ch-25; STATE:ARCH-16", mutable: false }
       - { trait: "never furnishes a room here; insists to his death he'd go through; no deathbed conversion", source: "foundation:§3; outline:ch-35", mutable: false }
     voice_markers:
       ref: "character-bible.md#august-fenn-augurinus"
@@ -384,33 +414,40 @@ characters:
       valens: { type: "friendship of two exiles", established: "outline:ch-29", current_status: "planned" }
       lucius: { type: "draws a baseball diamond for him (Ch.27)", established: "outline:ch-27", current_status: "planned" }
     possessions:
-      - { item: "fenns-zippo", status: "1968 Zippo; refilled with lamp oil; dead (Ch.25); catches once (Ch.35); given to Mara", source: "foundation:§3; outline:ch-25; outline:ch-35" }
+      - { item: "fenns-zippo", status: "1968 Zippo; refilled with lamp oil; dead (Ch.25); he tries to light it for Mara's photograph on the Cumae road (Ch.27); catches once (Ch.35); given to Mara", source: "foundation:§3; outline:ch-25; outline:ch-27; outline:ch-35" }
       - { item: "fenn-tables-original", status: "given to Mara Ch.35; last margin line in his hand", source: "outline:ch-35" }
       - { item: "fenns-1964-dime", status: "given to Mara Ch.35", source: "outline:ch-35" }
       - { item: "fenns-coverless-paperback", status: "given to Mara Ch.35", source: "outline:ch-35" }
       - { item: "potted-basil", status: "in his upper room", source: "outline:ch-25" }
-      - { item: "fenn-notebook", status: "left in 1968 Philadelphia; via Margaret's boxes to Szabo to Mara (Ch.1)", source: "outline:ch-01" }
+      - { item: "fenn-notebook", status: "in the coat he left at the Corycian Cave mouth (1968); a shepherd brought the coat down; the US consulate in Athens forwarded his effects to Margaret; her boxes → estate sale (1997) → Szabo → Mara (Ch.1); refused by him Ch.25; read and returned Ch.35", source: "outline:ch-02; outline:ch-27; foundation:§3; outline:ch-25; outline:ch-35" }
     location_log:
       - { chapter: 25, location: "puteoli", scene: "upper room by the harbor", travel_noted: false, source: "outline:ch-25" }
-      - { chapter: 27, location: "cumae", scene: "Sibyl's cave (takes Mara and Lucius)", travel_noted: true, source: "outline:ch-27" }
+      - { chapter: 27, location: "cumae", scene: "Sibyl's cave (takes Mara, Lucius and the baby Aelia)", travel_noted: true, source: "outline:ch-27" }
       - { chapter: 29, location: "pompeii", scene: "Saturnalia dinner", travel_noted: true, source: "outline:ch-29" }
       - { chapter: 33, location: "puteoli", scene: "his room", travel_noted: false, source: "outline:ch-33" }
       - { chapter: 35, location: "puteoli", scene: "deathbed, upper room", travel_noted: false, source: "outline:ch-35" }
     knowledge:
       - { fact: "cold air at the back of the Corycian Cave (1968)", learned_chapter: 0, method: "discovered", note: "pre-story; in his notebook", source: "outline:ch-02" }
-      - { fact: "the doors 'breathe with the earth'; doors don't deliver to matching dates (1968 → AD 41)", learned_chapter: 0, method: "inferred", note: "34 years of tracking", source: "foundation:§3; foundation:§9" }
-      - { fact: "the Pompeii door opened for a day in the AD 62 quake; he arrived three days late", learned_chapter: 0, method: "discovered", note: "pre-story, AD 62", source: "foundation:§3; outline:ch-25" }
-      - { fact: "the Pompeii door's next opening: late summer AD 79", learned_chapter: 0, method: "inferred", note: "waiting for it since 62; earlier predictions for 71 and 73 failed", source: "outline:ch-25" }
+      - { fact: "the doors 'breathe with the earth'; doors don't deliver to matching dates (1968 → AD 41); an opening lasts hours at most, never days", learned_chapter: 0, method: "inferred", note: "34 years of tracking", revised: "2026-10-18", source: "foundation:§3; foundation:§9; outline:ch-25" }
+      - { fact: "the doors are one door with many mouths: 'it' takes back the one it brought", learned_chapter: 0, method: "inferred", note: "his belief; it states the canonical law (anyone the doors brought, no one native) though he does not know the native half", revised: "2026-10-18", source: "foundation:§4d; foundation:§9; STATE:ARCH-16" }
+      - { fact: "Vesuvius destroys Pompeii in AD 79", learned_chapter: 0, method: "prior_knowledge", note: "from school; says so plainly to Mara in Ch.25", revised: "2026-10-18", source: "outline:ch-25; foundation:§3; STATE:ARCH-16" }
+      - { fact: "a Pompeian tomb's painted door 'breathed cold' the night of the AD 62 quake (the opening lasted part of one night)", learned_chapter: 0, method: "overheard", note: "a tavern story heard three days later; he had been down with fever in Misenum; pre-story, AD 62", revised: "2026-10-18", source: "outline:ch-25; foundation:§3" }
+      - { fact: "the Pompeii door: the painted false door of a freedman's tomb outside the Nuceria Gate, dormant", learned_chapter: 0, method: "discovered", note: "found by following the tavern story, already shut; has waited for it since 62", revised: "2026-10-18", source: "outline:ch-25; foundation:§3" }
+      - { fact: "his first two dates for the reopening (AD 71, then 73), worked from the tremor rhythm alone, were wrong: three nights at the tomb each time, and it stayed shut", learned_chapter: 0, method: "witnessed", note: "pre-Ch.25; the 73 vigil was in autumn (FLEX)", revised: "2026-10-18", source: "outline:ch-25; foundation:§3; STATE:ARCH-16" }
+      - { fact: "the Pompeii door's next opening: late summer AD 79, in the night after the mountain opens", learned_chapter: 0, method: "inferred", note: "after 73 he rebuilt the tables around the year he knew from school; his tremor figures now fit", revised: "2026-10-18", source: "outline:ch-25; foundation:§3" }
       - { fact: "whether a door takes anyone but the one it brought: UNKNOWN to him (always alone); never learns", learned_chapter: 0, method: "inferred", source: "outline:ch-25; outline:ch-33; foundation:§9" }
       - { fact: "Mara is from 1998", learned_chapter: 25, method: "witnessed", note: "she speaks English to him", source: "outline:ch-25" }
-      - { fact: "1990s vocabulary such as 'voicemail' exists", learned_chapter: 26, method: "told_by:mara-reyes", note: "via her letter; rages", source: "outline:ch-26" }
-    death: { when: "winter AD 78-79", chapter: 35, note: "months short of the door; dies wanting it", source: "STATE:ARCH-6; outline:ch-35" }
+      - { fact: "Mara has his 1968 notebook, bought at an estate sale in Chestnut Hill", learned_chapter: 25, method: "told_by:mara-reyes", note: "refuses it ('Keep it. I know what's in it.')", revised: "2026-10-18", source: "outline:ch-25; STATE:ARCH-17" }
+      - { fact: "his sister Margaret is dead", learned_chapter: 25, method: "inferred", note: "from 'estate sale'; does not ask whose; the name is not spoken in Ch.25", revised: "2026-10-18", source: "outline:ch-25; character-bible.md#august-fenn-augurinus; STATE:ARCH-17" }
+      - { fact: "1990s vocabulary such as 'voicemail' exists", learned_chapter: 26, method: "told_by:mara-reyes", note: "via her letter; rages (once only)", source: "outline:ch-26" }
+    knowledge_absent: ["Mara's tremor notes in his notebook's back pages (Ch.35: he reads only his own 1968 front pages)", "that the door will not take natives (never learns)"]
+    death: { when: "winter AD 78-79", chapter: 35, note: "dies wanting the door; any spoken count is his (37 years, nearly 38); Mara's narration must not say 'months' away (she refuses the date until Ch.36)", source: "STATE:ARCH-6; outline:ch-35; foundation:§10" }
     arc_waypoints:
       - { chapter: 2, waypoint: "notebook voice: boyish capitals to small tired script; last entry July 1968, back by Labor Day", source: "outline:ch-02" }
       - { chapter: 25, waypoint: "found in Puteoli; gives the WHEN in under a minute", source: "outline:ch-25" }
       - { chapter: 27, waypoint: "shows Mara the dead door at Cumae", source: "outline:ch-27" }
       - { chapter: 29, waypoint: "inside the family at Saturnalia", source: "outline:ch-29" }
-      - { chapter: 35, waypoint: "says 'Margaret'; Zippo catches; dies packed", source: "outline:ch-35" }
+      - { chapter: 35, waypoint: "asks for the notebook, reads his 1968 front pages, says 'Margaret' (first time); Zippo catches; gives Mara his tables, Zippo, dime, paperback and the notebook back; dies packed", source: "outline:ch-35" }
     arc_notes: "Cautionary mirror by example; never admits he lived here."
 
   kallia:
@@ -427,6 +464,7 @@ characters:
       - { trait: "sweeps the threshold of her son's empty room every morning before her own and leaves the broom across it", source: "foundation:§3; outline:ch-07", mutable: true }
       - { trait: "never says her son's name until the letter forces it once (Ch.10)", source: "foundation:§3; outline:ch-10", mutable: true }
       - { trait: "inspects Mara's hands and teeth; takes her in as unpaid help, not out of kindness", source: "outline:ch-05", mutable: false }
+      - { trait: "puts Valens on the floor across Mara's doorway on consultation night (lodging crammed with pilgrims; Celer's men on the road)", source: "outline:ch-14", mutable: true }
     voice_markers:
       ref: "character-bible.md#kallia"
     relationships:
@@ -436,7 +474,7 @@ characters:
     possessions:
       - { item: "borrowed-himation", status: "lent Ch.7; given to Mara Ch.16", source: "outline:ch-07; outline:ch-16" }
       - { item: "kallias-broom", status: "across the threshold Ch.7/10; put away Ch.16", source: "outline:ch-16" }
-      - { item: "kallias-lamp", status: "a frame of Mara's film (unscheduled)", source: "foundation:§4f" }
+      - { item: "kallias-lamp", status: "photographed on the sill in morning light at the farewell (named frame, Ch.16); Kallia does not ask what the camera does", source: "outline:ch-16; foundation:§4f" }
     knowledge:
       - { fact: "Mara is a foreign woman with no status (a possible runaway)", learned_chapter: 5, method: "inferred", source: "outline:ch-05" }
       - { fact: "Mara means to consult the Oracle", learned_chapter: 8, method: "told_by:mara-reyes", note: "Kallia mentions it on the descent", source: "outline:ch-08" }
@@ -460,15 +498,17 @@ characters:
         - { value: "old woman; a farmer's widow off duty", source: "outline:ch-08; foundation:§3" }
     traits:
       - { trait: "negotiating with the priests for a stool", source: "foundation:§3", mutable: true }
-      - { trait: "feeds the sanctuary crows from the god's own barley and lies about it", source: "foundation:§3", mutable: false }
+      - { trait: "feeds the sanctuary crows from the god's own barley, shouts at them for taking it, and lies about it", source: "foundation:§3; outline:ch-08", mutable: false }
+      - { trait: "goes down into the adyton on the monthly consultation days of the warm season", source: "foundation:§3; character-bible.md#theano", mutable: false }
       - { trait: "plain mountain-Phocian Greek; never comforts, never explains", source: "foundation:§3", mutable: false }
+      - { trait: "takes Mara's last two ibuprofen for her knees, without thanks (Ch.13)", source: "outline:ch-13; character-bible.md#theano", mutable: false }
     voice_markers:
       ref: "character-bible.md#theano"
     location_log:
       - { chapter: 8, location: "delphi", scene: "her house; shouting at crows", travel_noted: false, source: "outline:ch-08" }
-      - { chapter: 13, location: "delphi", scene: "the adyton (voice from below, per Valens); her house (sends for Mara)", travel_noted: false, source: "outline:ch-13" }
+      - { chapter: 13, location: "delphi", scene: "the adyton (voice from below, described not quoted, per Valens); her own house, off duty (sends a temple slave for Mara)", travel_noted: false, source: "outline:ch-13" }
     knowledge:
-      - { fact: "the door home is at Pompeii", learned_chapter: 0, method: "discovered", note: "source never explained; tells a stranger more than the god gave", source: "outline:ch-13" }
+      - { fact: "the door home is at Pompeii", learned_chapter: 0, method: "discovered", note: "source never explained; tells a stranger more than the god gave, in person and off duty (not an oracular response)", revised: "2026-10-18", source: "outline:ch-13; STATE:ARCH-4 (revised)" }
       - { fact: "the hour: 'not hers to give, or not given' — will not say which", learned_chapter: 13, method: "inferred", source: "outline:ch-13" }
 
   felix:
@@ -480,7 +520,7 @@ characters:
     physical:
       age: { value: 12, at_chapter: 11, birth_year: 58, era: "AD", note: "about 12 in AD 70; 18 in AD 76 (Ch.28); ~21 at the eruption", source: "foundation:§3; foundation:§10; outline:ch-28" }
     traits:
-      - { trait: "bought off a slaver at Kirrha; freed informally, no paperwork", source: "foundation:§3; outline:ch-11", mutable: false }
+      - { trait: "bought off a slaver at Kirrha; freed informally, no paperwork — a Junian Latin, free enough to swear as auctoratus", source: "foundation:§3; outline:ch-11", mutable: false }
       - { trait: "arena-mad", source: "foundation:§3", mutable: true }
       - { trait: "scratches a tiny palm-branch on walls he leans against (Ch.21 barracks; Ch.28 under the seats)", source: "foundation:§3; outline:ch-21; outline:ch-28", mutable: false }
       - { trait: "always moving; sleeps anywhere (against a mule's belly, Ch.11)", source: "foundation:§3; outline:ch-11", mutable: false }
@@ -498,8 +538,10 @@ characters:
       - { chapter: 37, status: "term at the school served out; asleep in the hired boat", source: "outline:ch-37" }
       - { chapter: 40, status: "takes the boat out to try for Stabiae; lost to sight; FATE LEFT OPEN by design", source: "outline:ch-40; STATE:ARCH-9" }
     knowledge:
-      - { fact: "the boat backup plan at the Sarno mouth", learned_chapter: 37, method: "told_by:valens", note: "he is hired into it; teller not specified", source: "outline:ch-37" }
-    knowledge_unplanned: ["whether he knows about the door", "whether he knows Mara's origin"]
+      - { fact: "the boat backup plan at the Sarno mouth", learned_chapter: 37, method: "told_by:valens", note: "he takes the boat for the money and for Valens; teller not specified", revised: "2026-10-18", source: "outline:ch-37" }
+      - { fact: "Mara fears the mountain (only that)", learned_chapter: 37, method: "told_by:valens", note: "teller not specified in the plan", revised: "2026-10-18", source: "outline:ch-37" }
+    knowledge_absent: ["the door (knows nothing of it, Ch.37)"]
+    knowledge_unplanned: ["whether he knows Mara's origin"]
 
   plautia:
     canonical_name: "Plautia"
@@ -518,13 +560,14 @@ characters:
       ref: "character-bible.md#plautia"
     relationships:
       quintus-arrius-celer: { type: "former husband (divorced after the 69 frame)", established: "foundation:§3", current_status: "loses the dowry suit, Ch.22" }
-      marcus: { type: "mother; Celer kept the boy after the divorce", established: "foundation:§3", current_status: "access granted by the verdict, Ch.22" }
+      marcus: { type: "mother; Celer kept the boy after the divorce", established: "foundation:§3", current_status: "access granted Ch.22 as Celer's private settlement (the price of quiet), not a court remedy" }
       plautias-brother: { type: "sister; living in his house in Corinth", established: "outline:ch-16", current_status: "he brings the dowry suit" }
       valens: { type: "her former sworn bodyguard; never lovers", established: "foundation:§3", current_status: "needs his testimony" }
       mara-reyes: { type: "wary alliance → friendship", established: "outline:ch-16", current_status: "planned" }
     knowledge:
       - { fact: "she and Valens were framed by Celer; never lovers", learned_chapter: 0, method: "prior_knowledge", source: "foundation:§3" }
-      - { fact: "she has seen Marcus twice in three years (as of Ch.16)", learned_chapter: 0, method: "prior_knowledge", source: "foundation:§3" }
+      - { fact: "she has seen Marcus twice in the three years since the 69 divorce (as of Ch.16, winter 71–72)", learned_chapter: 0, method: "prior_knowledge", revised: "2026-10-18", source: "foundation:§3" }
+      - { fact: "the family's Pompeii lodging (Grata's)", learned_chapter: "off-page between Ch.19 and Ch.21 (summer AD 72)", method: "told_by:valens", note: "he sent her word; passed to her brother, whose freedman brings the Ch.21 summons", revised: "2026-10-18", source: "outline:ch-21" }
     arc_waypoints:
       - { chapter: 16, waypoint: "meets Mara; gives away the bracelet; plans the Isthmia theft", source: "outline:ch-16" }
       - { chapter: 17, waypoint: "bribes the archive clerk", source: "outline:ch-17" }
@@ -534,13 +577,15 @@ characters:
     canonical_name: "Quintus Arrius Celer"
     aliases: ["Celer", "Q. Arrius Celer", "the legate"]
     importance: supporting
-    role: "legate on the proconsul's staff at Corinth; human antagonist of Part One; defendant in Rome"
+    role: "legate on the proconsul's staff at Corinth until Nero's grant of 'freedom' to Achaea (late 67); out of office at the frame (69); back on the restored proconsul's staff by 71–72 (his record-office influence); human antagonist of Part One; defendant in Rome"
+    role_source: "foundation:§3; foundation:§9; outline:ch-16; character-bible.md#quintus-arrius-celer"
     first_appearance: { chapter: 9, mode: "by proxy (reward notice)", in_person: 17, source: "outline:ch-09; outline:ch-17", note: "foundation lists 'Ch.12 by proxy' (his men)" }
     physical: {}
     traits:
       - { trait: "genial, reasonable, patient; never raises his voice; never says the word 'wife'", source: "foundation:§3", mutable: false }
       - { trait: "will not walk under ladders or scaffolding; his men carry him around it", source: "foundation:§3; outline:ch-17", mutable: false }
       - { trait: "in debt; needs a praetorship; two years behind his rivals", source: "foundation:§3", mutable: true }
+      - { trait: "contests Valens's arena manumission as unregistered before a magistrate; claims he bought Valens from the lanista first", source: "foundation:§3", mutable: false }
     voice_markers:
       ref: "character-bible.md#quintus-arrius-celer"
     relationships:
@@ -548,8 +593,8 @@ characters:
       valens: { type: "former employer of his wife's sworn bodyguard; framer", established: "foundation:§3", current_status: "humiliated by law; not a recurring villain after Ch.22" }
       marcus: { type: "father; kept the boy after the divorce", established: "foundation:§3", current_status: "Plautia gets access (Ch.22)" }
     knowledge:
-      - { fact: "Valens is alive and in Phocis", learned_chapter: 9, method: "inferred", note: "notice posted; his men find Valens on the Kirrha road Ch.12; still searching in summer (Ch.15)", source: "outline:ch-09; outline:ch-12; outline:ch-15" }
-    outcome: { chapter: 22, value: "loses the dowry suit; pays; genial in defeat; no violence", source: "outline:ch-22; STATE:ARCH-5" }
+      - { fact: "Valens is alive, in Phocis, and wanted as the witness in the dowry suit", learned_chapter: 0, method: "inferred", note: "by autumn AD 70: the reward notice went up within the month of the freedman's approach (how Celer learned is unplanned — meta.plan_gaps); his men find Valens on the Kirrha road Ch.12; still searching in summer (Ch.15)", revised: "2026-10-18", source: "outline:ch-12; foundation:§3; outline:ch-09; outline:ch-15" }
+    outcome: { chapter: 22, value: "loses the dowry suit before a single iudex; must return the dowry; settles privately (Plautia may see Marcus) for his praetorship's sake; genial in defeat; no violence", source: "outline:ch-22; STATE:ARCH-5" }
 
   pomponia-grata:
     canonical_name: "Pomponia Grata"
@@ -558,13 +603,12 @@ characters:
     role: "thermopolium keeper on the Via dell'Abbondanza; landlady and neighbor"
     first_appearance:
       chapter: 19
-      source: "outline:ch-19 (rents them rooms)"
-      conflict:
-        value: 20
-        source: "foundation:§3 (Ch.20–40)"
-        flag: "UNRESOLVED"
+      source: "outline:ch-19 (rents them rooms); foundation:§3 (Ch.19–40)"
+      resolved_from_conflict: true
+      resolved_date: "2026-10-18"
+      resolution_note: "C1: foundation range now Ch.19–40 (STATE:ARCH-14)"
     physical:
-      teeth: { value: "bad", source: "outline:ch-19" }
+      teeth: { value: "bad; discussed at length with Grata in Ch.31 (not used in Ch.19)", source: "outline:ch-31; outline:ch-19" }
     traits:
       - { trait: "rapid Oscan-flavored Latin; every sentence a sale or a complaint; touches people's arms", source: "foundation:§3", mutable: false }
       - { trait: "never asks a personal question; tells you about yourself", source: "foundation:§3", mutable: false }
@@ -575,16 +619,17 @@ characters:
     relationships:
       gratas-husband: { type: "wife; he gambles at dice in the back room", established: "foundation:§3", current_status: "dice debts" }
       secundus: { type: "mother; he runs for aedile (Ch.31)", established: "foundation:§3", current_status: "election result never given" }
-      gratas-sister: { type: "sister in Nuceria (unnamed)", established: "outline:ch-38", current_status: "Mara pays for a visit 'next week'" }
+      gratas-sister: { type: "sister in Nuceria (unnamed)", established: "outline:ch-38", current_status: "Mara pays for a visit 'the day after tomorrow, and stay the month'; Grata does not go" }
       mara-reyes: { type: "landlady (rooms Ch.19; shop front Ch.20)", established: "outline:ch-19", current_status: "planned" }
     knowledge:
       - { fact: "Mara is pregnant (before Mara says it)", learned_chapter: 20, method: "inferred", source: "outline:ch-20" }
-      - { fact: "Mara wants her out of town (travel money); refuses to ask why", learned_chapter: 38, method: "told_by:mara-reyes", source: "outline:ch-38" }
+      - { fact: "a summons has come for Valens, by name (the freedman brings it to her counter)", learned_chapter: 21, method: "witnessed", revised: "2026-10-18", source: "outline:ch-21" }
+      - { fact: "Mara wants her out of town from 'the day after tomorrow' for a month (travel money); refuses to ask why", learned_chapter: 38, method: "told_by:mara-reyes", revised: "2026-10-18", source: "outline:ch-38" }
     knowledge_absent: ["the door", "the eruption", "Mara's origin"]
     status_log:
       - { chapter: 24, status: "attends the birth in her back room", source: "outline:ch-24" }
-      - { chapter: 38, status: "takes the money and laughs; whether she goes is not resolved", source: "outline:ch-38" }
-      - { chapter: 40, status: "roof already fallen in; alive; refuses to leave her shop; death NOT shown", source: "outline:ch-40" }
+      - { chapter: 38, status: "takes the money and laughs; whether she goes is not resolved in the chapter", source: "outline:ch-38" }
+      - { chapter: 40, status: "she did not go (her choice, never explained); roof already fallen in; alive; refuses to leave her shop; death NOT shown", source: "outline:ch-38; outline:ch-40" }
 
   lucius:
     canonical_name: "Lucius"
@@ -593,16 +638,17 @@ characters:
     role: "son of Mara and Valens"
     first_appearance: { chapter: 24, note: "born", source: "outline:ch-24" }
     physical:
-      age: { value: 0, at_chapter: 24, birth_year: 74, era: "AD", birth_season: "summer", note: "~1 (in arms) Ch.25; ~2 Ch.27-29; 3 Ch.32; 4 Ch.34; 5 at the eruption", source: "STATE:ARCH-8; foundation:§10; outline:ch-32" }
+      age: { value: 0, at_chapter: 24, birth_year: 74, era: "AD", birth_season: "summer", note: "~8 months (in arms) Ch.25 (early spring 75); ~18 months Ch.26; ~2 Ch.27-28; ~2½ Ch.29 (Dec 76); 3 Ch.32; 4 Ch.34; 5 at the eruption", revised: "2026-10-18", source: "STATE:ARCH-8; foundation:§10; outline:ch-25; outline:ch-26; outline:ch-29; outline:ch-32" }
     traits:
       - { trait: "grave, literal, watchful; wants real tasks; takes adults at their word", source: "foundation:§3", mutable: false }
-      - { trait: "mortified by his father's tears at the mime (Ch.29)", source: "outline:ch-29", mutable: false }
+      - { trait: "at the mime (Ch.29), on his father's shoulders, pushes a piece of bread at his weeping father's mouth to make it stop ('mortified' cut as implausible at ~2½)", source: "outline:ch-29; foundation:§3; audit WARN-015", mutable: false }
       - { trait: "can swim three strokes (Ch.34)", source: "outline:ch-34", mutable: true }
     voice_markers:
       ref: "character-bible.md#lucius"
     possessions:
-      - { item: "corycian-knucklebone", status: "rolling it Ch.26; rolls it down the Cumae gallery Ch.27; lost in the sand and found Ch.34", source: "outline:ch-26; outline:ch-27; outline:ch-34" }
+      - { item: "corycian-knucklebone", status: "rolling it Ch.26; rolls it down the Cumae gallery Ch.27; lost in the sand and found Ch.34; gives it to Aelia in the tomb so she will stop grabbing the lamp Ch.41", source: "outline:ch-26; outline:ch-27; outline:ch-34; outline:ch-41" }
     status_log:
+      - { chapter: 26, status: "photographed (named frame) sitting still holding newborn Aelia", source: "outline:ch-26; foundation:§4f" }
       - { chapter: 32, status: "near-fatal fever; recovers through nursing, luck and Philokrates's care", source: "outline:ch-32" }
       - { chapter: 40, status: "delighted by floating pumice", source: "outline:ch-40" }
       - { chapter: 42, status: "his hand meets plaster at the door", source: "outline:ch-42" }
@@ -623,8 +669,9 @@ characters:
     voice_markers:
       ref: "character-bible.md#aelia"
     possessions:
-      - { item: "corycian-knucklebone", status: "in her fist on the road, Ch.44", source: "outline:ch-44" }
+      - { item: "corycian-knucklebone", status: "given to her by Lucius in the tomb and kept, Ch.41; in her fist on the road, Ch.44", source: "outline:ch-41; outline:ch-44" }
     status_log:
+      - { chapter: 27, status: "a few months old; rides in a sling against Mara at Cumae and sleeps through the Sibyl", source: "outline:ch-27" }
       - { chapter: 39, status: "'Mama, look' — sees the column first", source: "outline:ch-39" }
       - { chapter: 41, status: "FLEX: may call the falling stones snow (Mara once told her about Philadelphia)", source: "outline:ch-41" }
       - { chapter: 42, status: "her hand flat against painted plaster", source: "outline:ch-42" }
@@ -727,14 +774,16 @@ characters:
     first_appearance: { chapter: 22, mode: "glimpsed on the basilica steps", source: "outline:ch-22" }
     physical:
       age:
-        value: 7
+        value: 9
         at_chapter: 22
-        note: "AD 74 → born c. AD 67"
-        source: "outline:ch-22"
-        conflict:
-          value: "seven 'now' in the Ch.16 frame (c. AD 71-72; 'three years' after the 69 divorce) → born c. AD 64-65"
-          source: "foundation:§3 (Plautia profile)"
-          flag: "UNRESOLVED"
+        birth_year: 64
+        era: "AD"
+        birth_season: "autumn"
+        note: "7 in the Ch.16 winter (71–72, mentioned); 9 at the Rome trial, spring 74 (glimpsed Ch.22)"
+        source: "outline:ch-16; outline:ch-22; foundation:§3; foundation:§10; character-bible.md#marcus"
+        resolved_from_conflict: true
+        resolved_date: "2026-10-18"
+        resolution_note: "C10: birth year fixed once (autumn AD 64) across foundation, outline Ch.16/22 and both bible cards (STATE:ARCH-14)"
     voice_markers:
       ref: "character-bible.md#marcus"
 
@@ -749,7 +798,8 @@ characters:
     death: { when: "1997", source: "foundation:§3" }
     voice_markers:
       ref: "character-bible.md#margaret-fenn"
-    name_usage: "named freely in Fenn's 1968 notebook (Ch.2); unnamed in his letters (Ch.26); spoken aloud by him only once, Ch.35"
+    name_usage: "named by Szabo (Ch.1) and freely in Fenn's 1968 notebook (Ch.2); not spoken in Ch.25 ('estate sale' tells Fenn she is dead; Mara never says the name to him); unnamed in his letters (Ch.26); spoken aloud by him only once, Ch.35"
+    name_usage_source: "outline:ch-01; outline:ch-02; outline:ch-25; outline:ch-26; outline:ch-35; STATE:ARCH-17"
 
   mrs-dunphy:
     canonical_name: "Mrs. Dunphy"
@@ -774,6 +824,20 @@ characters:
     first_appearance: { chapter: 16, mode: "his house", source: "outline:ch-16" }
     traits:
       - { trait: "suing Celer for the dowry; Valens is his key witness", source: "foundation:§3", mutable: false }
+    knowledge:
+      - { fact: "Valens is at Kirrha (his freedman finds him there, autumn AD 70)", learned_chapter: 0, method: "told_by:plautias-brothers-freedman", revised: "2026-10-18", source: "outline:ch-12; foundation:§3" }
+      - { fact: "the family's Pompeii lodging", learned_chapter: "off-page by Ch.21 (after summer AD 72)", method: "told_by:plautia", note: "inferred path: Valens wrote to Plautia; the summons goes to Grata's counter", revised: "2026-10-18", source: "outline:ch-21" }
+
+  plautias-brothers-freedman:
+    canonical_name: "Plautia's brother's freedman"
+    aliases: []
+    importance: minor
+    needs_review: true
+    review_note: "unnamed in plan; new tracked role from the patch pass (WARN-007, N-14). Off-page in Ch.12 (told by Valens); in person or by name at Grata's counter Ch.21 (unclear whether on-page). Needs a character-bible line if he speaks."
+    first_appearance: { chapter: 12, mode: "told (Valens's account of autumn AD 70)", source: "outline:ch-12" }
+    traits:
+      - { trait: "found Valens at Kirrha harbor in autumn AD 70 and asked him to testify; refused", source: "outline:ch-12; foundation:§3; STATE:ARCH-15", mutable: false }
+      - { trait: "brings the Rome summons to Grata's counter, asking for Valens by name (Ch.21)", source: "outline:ch-21", mutable: false }
 
   gratas-husband:
     canonical_name: "Grata's husband"
@@ -783,7 +847,7 @@ characters:
     traits:
       - { trait: "gambles at dice in the back room; debts", source: "foundation:§3; outline:ch-31", mutable: true }
     knowledge:
-      - { fact: "a Chaldean in Puteoli 'talks gibberish to himself'", learned_chapter: 0, method: "overheard", note: "rumor; passes it on Ch.24", source: "outline:ch-24" }
+      - { fact: "a Chaldean in Puteoli 'talks gibberish to himself'", learned_chapter: 0, method: "overheard", note: "rumor; passes it on Ch.24; Ch.25 now calls it 'the rumor from Grata's husband'", resolved_from_conflict: true, resolved_date: "2026-10-18", resolution_note: "C14", source: "outline:ch-24; outline:ch-25" }
 
   goat-boy:
     canonical_name: "the goat-boy"
@@ -792,7 +856,7 @@ characters:
     first_appearance: { chapter: 4, source: "outline:ch-04" }
     physical:
       age: { value: "about nine", at_chapter: 4, source: "outline:ch-04" }
-      teeth: { value: "perfect (annoys Mara)", source: "outline:ch-04" }
+      teeth: { value: "REMOVED from the plan (patch pass: teeth cut from Ch.4)", last_confirmed: "outline v4 pre-patch", source: "outline:ch-04 (Character chaos: 'teeth are not used here'); audit WARN-022" }
     traits:
       - { trait: "Phocian dialect; spits out the granola bar; calls her nymphē; points her down the mountain", source: "outline:ch-04", mutable: false }
 
@@ -820,6 +884,14 @@ characters:
     traits:
       - { trait: "passage only for a respectable man with his wife and boy", source: "outline:ch-18", mutable: false }
 
+  temple-slave-delphi:
+    canonical_name: "the temple slave (Ch.13 summons)"
+    aliases: []
+    importance: minor
+    first_appearance: { chapter: 13, source: "outline:ch-13" }
+    traits:
+      - { trait: "summons Mara from the terrace to Theano's house", source: "outline:ch-13", mutable: false }
+
   puteoli-harbor-clerk:
     canonical_name: "the Puteoli harbor clerk"
     aliases: []
@@ -834,7 +906,7 @@ characters:
     importance: minor
     first_appearance: { chapter: 24, source: "outline:ch-24" }
     traits:
-      - { trait: "terrible teeth (Mara's fixation during labor); shows Valens how to hold Lucius", source: "outline:ch-24", mutable: false }
+      - { trait: "terrible (crossed front) teeth — Mara's fixation during labor and the book's only introduction-by-teeth; shows Valens how to hold Lucius", source: "outline:ch-24; outline:ch-23; character-bible.md (unnamed roles)", mutable: false }
 
   lanista-pompeii:
     canonical_name: "the lanista"
@@ -877,6 +949,7 @@ locations:
       - { fact: "Chestnut Hill: Margaret Fenn's estate sale", source: "outline:ch-01" }
       - { fact: "Chestnut Street: the Horn & Hardart automat (Fenn's memory)", source: "foundation:§3" }
       - { fact: "Fenn's 1968 hall table where he left Margaret a note", source: "outline:ch-26; outline:ch-35" }
+      - { fact: "the Venetian chart stays pinned over Emilio's desk when Mara leaves", source: "outline:ch-02" }
 
   naples:
     canonical_name: "Naples (1998)"
@@ -903,7 +976,7 @@ locations:
       - { fact: "vast first chamber; stalagmites; tourist graffiti (1998); a cold back recess at Fenn's coordinates", source: "outline:ch-03" }
       - { fact: "the trail's paint blaze is gone on the AD 70 side", source: "outline:ch-03" }
       - { fact: "shut after Mara's crossing: only cold (Ch.6), nothing (Ch.8)", source: "outline:ch-06; outline:ch-08" }
-      - { fact: "Fenn left his coat at the cave mouth in 1968", source: "outline:ch-27" }
+      - { fact: "Fenn left his coat at the cave mouth in 1968, the notebook in its pocket; a shepherd brought the coat down", source: "outline:ch-27; foundation:§3" }
     distances:
       - { to: "delphi", value: "most of a day down the mountain on foot", source: "outline:ch-05" }
 
@@ -923,8 +996,8 @@ locations:
       - { fact: "Castalian spring; Kallia's pilgrims' lodging beside it", source: "outline:ch-05" }
       - { fact: "agora: herald announces Titus's capture of Jerusalem; reward notice for 'Lupus' posted", source: "outline:ch-05; outline:ch-09" }
       - { fact: "polygonal wall carries manumission records (sale to Apollo; paramone clauses)", source: "outline:ch-09; foundation:§9" }
-      - { fact: "consultation on fixed days; the year's first on the seventh of Bysios; goat must shiver at cold water; women ask through a male representative", source: "foundation:§9; outline:ch-13" }
-      - { fact: "Theano's house (crows); an inn where Valens recounts the consultation", source: "outline:ch-08; outline:ch-13" }
+      - { fact: "consultation on fixed (monthly) days in the warm season; the year's first on the seventh of Bysios; goat must shiver at cold water; women ask through a male representative", source: "foundation:§9; foundation:§3; outline:ch-13" }
+      - { fact: "Theano's house (crows), where she names Pompeii to Mara off duty; Valens recounts the consultation at Kallia's lodging (not an inn)", source: "outline:ch-08; outline:ch-13; outline:ch-14" }
 
   valens-yard:
     canonical_name: "Valens's mule yard"
@@ -937,6 +1010,8 @@ locations:
     aliases: ["the Kirrha road"]
     facts:
       - { fact: "port below Delphi; Valens bought Felix off a slaver here", source: "foundation:§3" }
+      - { fact: "harbor where Plautia's brother's freedman found Valens (autumn AD 70)", source: "outline:ch-12; foundation:§3" }
+      - { fact: "Ariston's autumn letter sat at the harbor all winter while the sea was closed; up the hill with the first carter of the year", source: "outline:ch-10" }
       - { fact: "source of the consultation goat; road where Celer's men attack (one dies, two run)", source: "outline:ch-11; outline:ch-12" }
       - { fact: "embarkation for the gulf crossing to Lechaion (autumn AD 71)", source: "outline:ch-16" }
 
@@ -944,9 +1019,9 @@ locations:
     canonical_name: "Corinth"
     aliases: []
     facts:
-      - { fact: "Roman colony with games and an amphitheatre; seat of the proconsul's staff", source: "foundation:§9; foundation:§3" }
+      - { fact: "Roman colony with games and an amphitheatre; no proconsul during Achaea's 'freedom' (late 67 to its revocation); a proconsul governs again from Corinth by 71 (in this book)", source: "foundation:§9; foundation:§3" }
       - { fact: "Plautia lives in her brother's house", source: "outline:ch-16" }
-      - { fact: "provincial record office holds the archive copy of Valens's manumission", source: "outline:ch-16; outline:ch-17" }
+      - { fact: "provincial record office holds the archive copy of Valens's manumission; newly back under the restored proconsul, on whose staff Celer serves again", source: "outline:ch-16; outline:ch-17" }
       - { fact: "a colonnade where Celer meets Valens; scaffolding Celer won't walk under", source: "outline:ch-17" }
 
   isthmia:
@@ -977,23 +1052,22 @@ locations:
       - { fact: "green, vine-covered, a single broad summit (AD 72)", source: "outline:ch-19" }
       - { fact: "not mentioned or framed in Ch.34 (Surrentum)", source: "outline:ch-34" }
       - fact: "a thread of cloud on the summit at dawn 19 Aug 79 'that may only be cloud'"
-        source: "outline:ch-38"
-        conflict:
-          value: "smoking very faintly at dawn"
-          source: "foundation:§4 (Ch.38 anchor)"
-          flag: "UNRESOLVED"
+        source: "outline:ch-38; foundation:§4 row 38"
+        resolved_from_conflict: true
+        resolved_date: "2026-10-18"
+        resolution_note: "C5: foundation's 'smoking very faintly' portent removed (STATE:ARCH-14)"
       - { fact: "column rises ~1 p.m. 24 Aug 79, umbrella-pine shape", source: "outline:ch-39; foundation:§9" }
 
   pompeii:
     canonical_name: "Pompeii"
     aliases: []
     facts:
-      - fact: "still rebuilding after the AD 62 earthquake: scaffolds, patched columns, trades in demand"
-        source: "foundation:§9; outline:ch-19"
-        conflict:
-          value: "'a city seventeen years after the quake' at the AD 72 arrival (AD 62 + 17 = AD 79; AD 72 is ten years after)"
-          source: "outline:ch-19; foundation:§5"
-          flag: "UNRESOLVED"
+      - fact: "still rebuilding after the AD 62 earthquake: scaffolds, patched columns, trades in demand — 'a city ten years after the quake and still mending' at the AD 72 arrival"
+        source: "foundation:§9; foundation:§5; foundation:§10; outline:ch-19"
+        resolved_from_conflict: true
+        resolved_date: "2026-10-18"
+        resolution_note: "C8: 'seventeen' corrected to 'ten' in outline Ch.19 and foundation §5; Ch.20 and Ch.30 cite no count (STATE:ARCH-14)"
+      - { fact: "tombs line the roads out of every gate; the Herculaneum Gate road (marble benches, grand altars) and the Stabian Gate's few tombs have no painted door; use modern gate names, never a 'Vesuvius Gate'", source: "outline:ch-19" }
       - { fact: "Via dell'Abbondanza: Grata's thermopolium; the family rents rooms behind and the shop front", source: "foundation:§3; outline:ch-19; outline:ch-20" }
       - { fact: "painted election notices; one painted over the old earthquake crack in Grata's wall", source: "outline:ch-20" }
       - { fact: "amphitheatre and gladiator barracks", source: "outline:ch-21; outline:ch-28" }
@@ -1002,17 +1076,19 @@ locations:
       - { fact: "mime show at a street stage (Ch.29)", source: "outline:ch-29" }
       - { fact: "Nuceria Gate and its necropolis", source: "outline:ch-19" }
       - { fact: "Vinalia Rustica 19 Aug: first new wine, garlands", source: "outline:ch-38; foundation:§9" }
-      - { fact: "news of Vespasian's death reaches it within days (posted notice by July 79)", source: "foundation:§9; outline:ch-36" }
+      - { fact: "news of Vespasian's death in the streets since late June 79; the posted notice in early July", source: "foundation:§9; outline:ch-36" }
     distances:
-      - { to: "puteoli", value: "coast road past villas, salt pans and the Sarno", source: "outline:ch-19" }
+      - { to: "puteoli", value: "coast road past villas, salt pans and the Sarno; two days with mules and baggage, a night at a roadside inn near Neapolis", source: "outline:ch-19" }
 
   nuceria-gate-tomb:
     canonical_name: "the tomb with the painted false door (outside the Nuceria Gate)"
     aliases: ["the door", "the tomb", "where the dead go out of the city"]
     facts:
-      - { fact: "a small freedman's tomb with a painted false door, in the necropolis outside the Nuceria Gate; the door home", source: "STATE:ARCH-3; outline:ch-19" }
-      - { fact: "Ch.19: faintly cool on a hot day — dormant", source: "outline:ch-19" }
-      - { fact: "Ch.30 (after a tremor): nothing, warm plaster", source: "outline:ch-30" }
+      - { fact: "a small freedman's tomb with a painted false door, in the necropolis outside the Nuceria Gate; the door home; marked in the god's answer as 'the door painted on a dead man's house'", source: "STATE:ARCH-3; STATE:ARCH-4; outline:ch-13; outline:ch-19" }
+      - { fact: "AD 62: breathed cold for part of the quake night (tavern story Fenn heard three days later)", source: "outline:ch-25; foundation:§3" }
+      - { fact: "AD 71 and AD 73: shut through Fenn's three-night vigils", source: "outline:ch-25" }
+      - { fact: "Ch.19: faintly cool on a warm spring afternoon — dormant", source: "outline:ch-19" }
+      - { fact: "Ch.30 (after a tremor): the same faint coolness under sun-warmed plaster, no colder; Valens sees it", source: "outline:ch-30; foundation:§4f" }
       - { fact: "Ch.36: cooler than before", source: "outline:ch-36" }
       - { fact: "Ch.41: cold in the hot night; strangers shelter in neighboring tombs", source: "outline:ch-41" }
       - { fact: "Ch.42: opens before dawn 25 Aug 79 onto a sodium streetlamp, chain-link fence, cicada, distant scooter, diesel and pine (1998, or near it)", source: "outline:ch-42" }
@@ -1047,13 +1123,21 @@ locations:
     canonical_name: "Neapolis"
     aliases: []
     facts:
+      - { fact: "a roadside inn near it: the night stop on the two-day coast road, Puteoli → Pompeii (Ch.19)", source: "outline:ch-19" }
       - { fact: "Valens's proposed escape destination ('tomorrow')", source: "outline:ch-37" }
+
+  misenum:
+    canonical_name: "Misenum"
+    aliases: []
+    facts:
+      - { fact: "the fleet, seen from the deck at Puteoli (Ch.19)", source: "outline:ch-19" }
+      - { fact: "Fenn lay with fever here during the AD 62 quake and missed the Pompeii opening", source: "outline:ch-25; foundation:§3" }
 
   rome:
     canonical_name: "Rome (AD 74)"
     aliases: []
     facts:
-      - { fact: "Basilica Julia tribunals: the dowry suit, spring AD 74", source: "outline:ch-22; STATE:ARCH-5" }
+      - { fact: "Basilica Julia tribunals: the dowry suit (actio rei uxoriae), spring AD 74, before a single iudex with assessors among the benches of other courts; no jury", source: "outline:ch-22; STATE:ARCH-5" }
       - { fact: "the Forum Mara visited as a student in 1991, now whole", source: "outline:ch-22" }
       - { fact: "Flavian Amphitheatre rising in scaffolding; the smell of the Tiber", source: "outline:ch-22" }
 
@@ -1103,22 +1187,22 @@ timeline:
   - { chapter: 9, time: "weeks", season: "late winter", year: "AD 71", note: "", source: "outline:ch-09" }
   - { chapter: 10, time: "one afternoon", season: "late winter", year: "AD 71", note: "", source: "outline:ch-10" }
   - { chapter: 11, time: "about a week+ (harness for a week)", season: "late winter", year: "AD 71", note: "", source: "outline:ch-11" }
-  - { chapter: 12, time: "one day", season: "early spring", year: "AD 71", note: "the seventh of Bysios is three days off", source: "outline:ch-12" }
-  - { chapter: 13, time: "the seventh of Bysios (year's first consultation; Apollo's birthday)", season: "spring", year: "AD 71", note: "TURNING POINT ~30%: WHERE", source: "outline:ch-13; foundation:§9" }
+  - { chapter: 12, time: "one day", season: "early spring", year: "AD 71", note: "the seventh of Bysios is three days off (allowlisted phrase: the Ch.12 bridge); Valens's suit backstory dates the freedman's approach to 'last autumn' (AD 70)", source: "outline:ch-12" }
+  - { chapter: 13, time: "the seventh of Bysios (year's first consultation; Apollo's birthday)", season: "spring", year: "AD 71", note: "TURNING POINT ~30%: WHERE; the phrase appears only in the title; opener paraphrases ('The first consultation day…')", source: "outline:ch-13; foundation:§9; foundation:§12" }
   - { chapter: 14, time: "the same night", season: "spring", year: "AD 71", note: "'Eight years' to 79", source: "outline:ch-14" }
   - { chapter: 15, time: "one day, dawn to night", season: "summer", year: "AD 71", note: "HEAT 1", source: "outline:ch-15" }
   - { chapter: 16, time: "Corinth intercut with Delphi", season: "winter (Corinth) / autumn (Delphi)", year: "AD 71-72", note: "parallel timelines", source: "outline:ch-16" }
   - { chapter: 17, time: "during the Isthmian Games", season: "spring", year: "AD 72", note: "", source: "outline:ch-17" }
-  - { chapter: 18, time: "one hour on the quay, from before dawn (awake since the second watch)", season: "spring", year: "AD 72", note: "HINGE ~41%; watch kept wound sixteen months", source: "outline:ch-18" }
-  - { chapter: 19, time: "arrival day(s)", season: "spring", year: "AD 72", note: "dateline 'Puteoli · spring, AD 72'; datelines begin", source: "outline:ch-19" }
-  - { chapter: 20, time: "about a year", season: "", year: "AD 72-73", note: "pregnancy revealed at end", source: "outline:ch-20" }
-  - { chapter: 21, time: "", season: "winter", year: "AD 73-74", note: "summons for spring", source: "outline:ch-21" }
+  - { chapter: 18, time: "one hour on the quay, from before dawn (awake since the second watch)", season: "spring", year: "AD 72", note: "HINGE ~41%; watch kept wound seventeen months (Nov 70 → spring 72)", source: "outline:ch-18" }
+  - { chapter: 19, time: "arrival and her first days: two days on the coast road (a night near Neapolis); tomb roads on her first free afternoon; the Nuceria Gate the next afternoon", season: "spring (warm afternoon)", year: "AD 72", note: "dateline 'Puteoli · spring, AD 72'; datelines begin; ten years after the AD 62 quake", source: "outline:ch-19; foundation:§10" }
+  - { chapter: 20, time: "about a year", season: "", year: "AD 72-73", note: "pregnancy revealed at end; first tremor-note entry after a small night shake", source: "outline:ch-20" }
+  - { chapter: 21, time: "", season: "winter", year: "AD 73-74", note: "summons for spring; address via Plautia (Valens sent word, summer 72)", source: "outline:ch-21" }
   - { chapter: 22, time: "the trial", season: "spring", year: "AD 74", note: "TURNING POINT ~53%; Mara ~six months pregnant", source: "outline:ch-22; foundation:§10" }
-  - { chapter: 23, time: "one rainy night", season: "spring", year: "AD 74", note: "HEAT 2", source: "outline:ch-23" }
+  - { chapter: 23, time: "one rainy night", season: "spring", year: "AD 74", note: "HEAT 2; 'the truth cost five years' (frame 69 → trial 74)", source: "outline:ch-23; foundation:§10" }
   - { chapter: 24, time: "one night to morning", season: "summer", year: "AD 74", note: "Lucius born", source: "outline:ch-24" }
-  - { chapter: 25, time: "one rainy afternoon", season: "", year: "AD 75", note: "TURNING POINT ~60%: WHEN; Lucius ~1", source: "outline:ch-25" }
+  - { chapter: 25, time: "one rainy afternoon", season: "early spring", year: "AD 75", note: "TURNING POINT ~60%: WHEN; Lucius ~8 months, in arms; Mara not yet pregnant with Aelia; Fenn 34 years since landing", revised: "2026-10-18", source: "outline:ch-25; foundation:§10" }
   - { chapter: 26, time: "months, from Aelia at three weeks", season: "winter →", year: "AD 75-76", note: "Aelia born off-page, winter 75-76", source: "outline:ch-26" }
-  - { chapter: 27, time: "one day's walk", season: "", year: "AD 76", note: "", source: "outline:ch-27" }
+  - { chapter: 27, time: "one day's walk", season: "", year: "AD 76", note: "Fenn: thirty-five years since landing; Aelia a few months old", source: "outline:ch-27" }
   - { chapter: 28, time: "a bout + the week before", season: "", year: "AD 76", note: "Felix 18", source: "outline:ch-28" }
   - { chapter: 29, time: "Saturnalia", season: "December", year: "AD 76", note: "", source: "outline:ch-29" }
   - { chapter: 30, time: "one morning", season: "winter into spring", year: "AD 77", note: "before the March elections", source: "outline:ch-30" }
@@ -1126,8 +1210,8 @@ timeline:
   - { chapter: 32, time: "the third night of the fever, to dawn", season: "summer", year: "AD 77", note: "TURNING POINT ~77%; Lucius three", source: "outline:ch-32" }
   - { chapter: 33, time: "", season: "autumn", year: "AD 77", note: "", source: "outline:ch-33" }
   - { chapter: 34, time: "one day and the next morning", season: "summer", year: "AD 78", note: "HEAT 3; leap of a year", source: "outline:ch-34" }
-  - { chapter: 35, time: "Fenn's last days", season: "winter", year: "AD 78-79", note: "Fenn dies", source: "outline:ch-35" }
-  - { chapter: 36, time: "", season: "July", year: "AD 79", note: "TURNING POINT ~86%; Vespasian died 23 June", source: "outline:ch-36" }
+  - { chapter: 35, time: "Fenn's last days", season: "winter", year: "AD 78-79", note: "Fenn dies; 37 years since landing, nearly 38 (his count, if spoken)", source: "outline:ch-35" }
+  - { chapter: 36, time: "early July (posted notice)", season: "July", year: "AD 79", note: "TURNING POINT ~86%; Vespasian died 23 June; news in the streets since late June", source: "outline:ch-36" }
   - { chapter: 37, time: "one argument", season: "early August", year: "AD 79", note: "", source: "outline:ch-37" }
   - { chapter: 38, time: "dawn to night, 19 August (Vinalia Rustica)", season: "summer", year: "AD 79", note: "five days before the eruption", source: "outline:ch-38" }
   - { chapter: 39, time: "24 August, morning to ~1 p.m. and after", season: "late summer", year: "AD 79", note: "TURNING POINT ~93%: column", source: "outline:ch-39" }
@@ -1145,7 +1229,8 @@ timeline_events:
   - { date: "1966", event: "the Seiko made", source: "foundation:§9" }
   - { date: "1967", event: "Fenn's first notebook entry (boyish capitals)", source: "outline:ch-02" }
   - { date: "July 1968", event: "Fenn's last notebook entry (back before Labor Day)", source: "outline:ch-02" }
-  - { date: "summer 1968", event: "Fenn crosses at the Corycian Cave, lands AD 41", source: "foundation:§3" }
+  - { date: "summer 1968", event: "Fenn crosses at the Corycian Cave, lands AD 41; leaves his coat (notebook in the pocket) at the cave mouth", source: "foundation:§3; outline:ch-27" }
+  - { date: "1968 (after his disappearance)", event: "a shepherd brings the coat down; the US consulate in Athens forwards Fenn's effects to Margaret", source: "foundation:§3; outline:ch-02" }
   - { date: "1988", event: "Mara sees an exhibition of the Pompeii plaster casts as a graduate student", source: "outline:ch-14" }
   - { date: "1991", event: "Mara visits the Roman Forum as a student", source: "outline:ch-22" }
   - { date: "1997", event: "Margaret Fenn dies; estate sale in Chestnut Hill", source: "foundation:§3; outline:ch-01" }
@@ -1155,22 +1240,28 @@ timeline_events:
   - { date: "c. AD 38", event: "Valens born in Thrace", source: "foundation:§3" }
   - { date: "AD 41", event: "Fenn lands in the past", source: "foundation:§3" }
   - { date: "c. AD 58", event: "Felix born (about 12 in AD 70)", source: "foundation:§3" }
-  - { date: "AD 62", event: "earthquake; Pompeii door opens for a day; Fenn arrives three days late", source: "foundation:§3; outline:ch-25" }
+  - { date: "AD 62", event: "earthquake; the Pompeii door breathes cold for part of one night; Fenn, fevered in Misenum, hears the tavern story three days later and finds the door shut", source: "foundation:§3; outline:ch-25" }
+  - { date: "autumn AD 64", event: "Marcus born to Plautia and Celer", source: "foundation:§3; foundation:§10" }
   - { date: "AD 66-67", event: "Nero's Greek tour; Valens wins the rudis and freedom at Corinth; Nero takes Delphi's statues (~AD 67)", source: "foundation:§3; outline:ch-05" }
+  - { date: "late AD 67", event: "Nero grants Achaea 'freedom'; the proconsul's post lapses and Celer is out of office", source: "foundation:§3; foundation:§9" }
   - { date: "AD 69", event: "Celer frames Plautia with Valens; Valens flogged, record seized, flees to Phocis; divorce; Celer keeps Marcus", source: "foundation:§3" }
   - { date: "AD 69", event: "Vespasian's reign begins", source: "STATE:guardrails" }
   - { date: "late summer AD 70", event: "Titus captures Jerusalem", source: "foundation:§9" }
   - { date: "autumn AD 70", event: "Mara arrives", source: "foundation:§10" }
-  - { date: "AD 71, AD 73", event: "Fenn's failed predictions", source: "outline:ch-25" }
+  - { date: "autumn AD 70", event: "Plautia's brother's freedman finds Valens at Kirrha harbor and asks him to testify; he refuses; the reward notice goes up within the month", source: "outline:ch-12; foundation:§3; STATE:ARCH-15" }
+  - { date: "by AD 71", event: "a proconsul governs Achaea again from Corinth (in this book); Celer back on the staff by 71–72", source: "foundation:§9; foundation:§3" }
+  - { date: "AD 71, autumn AD 73", event: "Fenn's two tremor-only dates for the Pompeii door fail (three nights at the tomb each time); in autumn 73 Mara lives a mile away (FLEX)", source: "outline:ch-25; foundation:§3" }
+  - { date: "after AD 73", event: "Fenn rebuilds his tables around AD 79", source: "outline:ch-25; foundation:§3" }
   - { date: "seventh of Bysios, AD 71", event: "the consultation", source: "foundation:§10" }
   - { date: "summer AD 71", event: "Summer Pasture; first union", source: "outline:ch-15" }
   - { date: "autumn AD 71", event: "farewell to Kallia; to Corinth", source: "outline:ch-16" }
   - { date: "spring AD 72", event: "Isthmian Games; papers; Lechaion wedding; Puteoli; Pompeii; door found", source: "foundation:§10" }
-  - { date: "AD 72 onward", event: "Mara keeps tremor notes", source: "outline:ch-36" }
+  - { date: "summer AD 72", event: "Valens sends Plautia word of the Pompeii lodging", source: "outline:ch-21" }
+  - { date: "AD 72 onward", event: "Mara keeps tremor notes in the back pages of Fenn's notebook (first entry Ch.20; another Ch.30)", source: "outline:ch-20; outline:ch-30; outline:ch-36" }
   - { date: "AD 73 (winter 73-74)", event: "the summons", source: "foundation:§10; outline:ch-21" }
   - { date: "spring AD 74", event: "Rome trial; Celer must return the dowry", source: "STATE:ARCH-5; outline:ch-22" }
   - { date: "summer AD 74", event: "Lucius born", source: "STATE:ARCH-8" }
-  - { date: "AD 75", event: "Fenn found; gives the date", source: "outline:ch-25" }
+  - { date: "early spring AD 75", event: "Fenn found; gives the date", source: "outline:ch-25; foundation:§10" }
   - { date: "winter AD 75-76", event: "Aelia born (off-page)", source: "STATE:ARCH-8" }
   - { date: "AD 76", event: "Cumae; Felix's first bout; Saturnalia (December)", source: "foundation:§10" }
   - { date: "AD 77", event: "tremor; elections (March); Lucius's fever (summer); the case for the future (autumn)", source: "foundation:§10" }
@@ -1178,7 +1269,7 @@ timeline_events:
   - { date: "winter AD 78-79", event: "Fenn dies", source: "STATE:ARCH-6" }
   - { date: "23 June AD 79", event: "Vespasian dies; Titus emperor", source: "foundation:§9; outline:ch-36" }
   - { date: "early August AD 79", event: "the boat plan", source: "outline:ch-37" }
-  - { date: "19 August AD 79", event: "Vinalia Rustica; last frame", source: "outline:ch-38" }
+  - { date: "19 August AD 79", event: "Vinalia Rustica; frame 36; Grata given money to leave 'the day after tomorrow'", source: "outline:ch-38" }
   - { date: "24 August AD 79, ~1 p.m.", event: "the column rises; pumice ~18 hours", source: "foundation:§9; STATE:ARCH-10" }
   - { date: "night 24-25 August AD 79, before dawn", event: "the door opens; the choice", source: "outline:ch-42; outline:ch-43" }
   - { date: "25 August AD 79, ~6:30-7:30 a.m.", event: "surges reach Pompeii", source: "foundation:§9" }
@@ -1189,6 +1280,7 @@ ages_at_eruption:
   - { character: "lucius", age: 5, source: "foundation:§10" }
   - { character: "aelia", age: "3½", source: "foundation:§10" }
   - { character: "felix", age: "~21", source: "foundation:§10" }
+  - { character: "marcus", age: "~14 (b. autumn AD 64; not present)", source: "foundation:§10 (derived)" }
 
 # =====================================================================
 # OBJECTS (Chekhov tracking: planted / paid)
@@ -1205,17 +1297,16 @@ objects:
       - { chapter: 5, detail: "touched in its sock, no comment", source: "outline:ch-05" }
       - { chapter: 19, detail: "touched in her bag, no comment", source: "outline:ch-19" }
       - chapter: 35
-        detail: "touched without comment"
-        source: "foundation:§4f"
-        conflict:
-          value: "no microcassette beat in the Ch.35 outline entry"
-          source: "outline:ch-35"
-          flag: "UNRESOLVED"
+        detail: "touched in its sock in her bag while Fenn sleeps, without comment (one-line object beat)"
+        source: "foundation:§4f; outline:ch-35"
+        resolved_from_conflict: true
+        resolved_date: "2026-10-18"
+        resolution_note: "C2: Ch.35 touch added to the outline (STATE:ARCH-14)"
       - { chapter: 38, detail: "packed in the bag", source: "outline:ch-38" }
       - { chapter: 43, detail: "in the old sock in her hand; first through the door", source: "outline:ch-43" }
     paid: 43
     last_mentioned: "outline:ch-43"
-    resolution: { chapter: 43, description: "sent through the door into 1998", planned: true }
+    resolution: { chapter: 43, description: "sent through the door to the other side, first (narration says 'the other side' / 'her own century', not '1998')", planned: true }
 
   fathers-pentax-k1000:
     introduced: "outline:ch-01"
@@ -1223,15 +1314,19 @@ objects:
     status: "chekhov_open"
     planted: 1
     beats:
-      - { chapter: 2, detail: "packed with a fresh roll", source: "outline:ch-02" }
-      - { chapter: 3, detail: "photographs on the path; counter reads 9 (not mentioned)", source: "outline:ch-03" }
-      - { chapter: 12, detail: "swung as a weapon; survives; plastic lens cap lost in the dust", source: "outline:ch-12" }
+      - { chapter: 2, detail: "packed with a fresh roll; no flash unit (the K1000 has none)", source: "outline:ch-02" }
+      - { chapter: 3, detail: "photographs on the path; counter reads 9 = eight frames shot (not mentioned)", source: "outline:ch-03" }
+      - { chapter: 12, detail: "swung as a weapon; survives; plastic lens cap lost in the dust; no flash appears", source: "outline:ch-12" }
       - { chapter: 15, detail: "shown to Valens", source: "outline:ch-15" }
+      - { chapter: 16, detail: "named frame: Kallia's lamp on the sill", source: "outline:ch-16" }
       - { chapter: 19, detail: "raised and lowered; refuses to photograph the mountain", source: "outline:ch-19" }
-      - { chapter: 38, detail: "last frame on the mountain; put away empty", source: "outline:ch-38" }
+      - { chapter: 20, detail: "named frame: Valens asleep under the potted fig on the roof", source: "outline:ch-20" }
+      - { chapter: 26, detail: "named frame: Lucius holding newborn Aelia", source: "outline:ch-26" }
+      - { chapter: 27, detail: "named frame: Fenn on the Cumae road trying to light the dead Zippo", source: "outline:ch-27" }
+      - { chapter: 38, detail: "frame 36 on the mountain at dawn; she rewinds and removes the roll; the camera goes back on the shelf", source: "outline:ch-38" }
     paid: 38
     last_mentioned: "outline:ch-38"
-    resolution: { chapter: 38, description: "last frame spent", planned: true }
+    resolution: { chapter: 38, description: "frame 36 spent; roll removed; camera left on the shelf (not packed)", planned: true }
 
   film-roll:
     introduced: "outline:ch-02"
@@ -1240,25 +1335,25 @@ objects:
     planted: 2
     frames_total: 36
     spend_plan:
-      - { frames: "1-9", chapter: "2-3", subject: "1998 shots (unspecified); counter reads 9 on the Parnassus path", source: "foundation:§4f; outline:ch-03" }
-      - { frames: "10-35 (26 frames)", chapter: "4-37", subject: "rationed in antiquity; 4 named subjects below, 22 unassigned", source: "foundation:§4f" }
-      - { frame: "unscheduled", subject: "Kallia's lamp", window: "Ch.5-16 (Delphi)", source: "foundation:§4f" }
-      - { frame: "unscheduled", subject: "Valens asleep", window: "after Ch.15", source: "foundation:§4f" }
-      - { frame: "unscheduled", subject: "Lucius's first steps", window: "c. AD 75 (Lucius ~1), between Ch.25 and Ch.26", source: "foundation:§4f" }
-      - { frame: "unscheduled", subject: "Fenn with his Zippo", window: "Ch.25-35", source: "foundation:§4f" }
+      - { frames: "1-8", chapter: "2-3", subject: "1998 shots (unspecified); counter reads 9 on the Parnassus path (shows the next frame)", revised: "2026-10-18", source: "foundation:§4f; outline:ch-03" }
+      - { frames: "9-35 (27 frames)", chapter: "4-37", subject: "rationed in antiquity; 4 named frames below, the rest off the page", revised: "2026-10-18", source: "foundation:§4f" }
+      - { frame: "named", chapter: 16, subject: "Kallia's lamp on the sill in morning light (the farewell)", source: "outline:ch-16; foundation:§4f" }
+      - { frame: "named", chapter: 20, subject: "Valens asleep under the potted fig on the roof", source: "outline:ch-20; foundation:§4f" }
+      - { frame: "named", chapter: 26, subject: "Lucius (~18 months) holding newborn Aelia (replaces 'Lucius's first steps')", source: "outline:ch-26; foundation:§4f" }
+      - { frame: "named", chapter: 27, subject: "Fenn on the Cumae road, trying to light the dead Zippo", source: "outline:ch-27; foundation:§4f" }
       - { frame: "none", chapter: 19, subject: "the mountain: camera raised and lowered, NOT shot", source: "outline:ch-19" }
       - frame: 36
         chapter: 38
-        subject: "the mountain at dawn, 19 Aug 79, a thread of cloud that may only be cloud"
-        source: "outline:ch-38"
-        conflict:
-          value: "Vesuvius 'smoking very faintly at dawn'"
-          source: "foundation:§4 (Ch.38 anchor)"
-          flag: "UNRESOLVED"
-    frames_remaining_after_ch3: 27
+        subject: "the mountain at dawn, 19 Aug 79, a thread of cloud that may only be cloud; then rewound and removed"
+        source: "outline:ch-38; foundation:§4 row 38"
+        resolved_from_conflict: true
+        resolved_date: "2026-10-18"
+        resolution_note: "C5: foundation 'smoking very faintly' removed"
+    frames_remaining_after_ch3: 28
+    frames_shot_in_1998: 8
     paid: 43
     last_mentioned: "outline:ch-43"
-    resolution: { chapter: 43, description: "roll sent through the door into 1998, undeveloped", planned: true }
+    resolution: { chapter: 43, description: "canister (packed Ch.38) sent through the door to the other side, undeveloped (narration never asserts '1998' beyond Ch.42's '1998, or near it')", planned: true }
 
   fathers-seiko-watch:
     introduced: "outline:ch-01"
@@ -1271,7 +1366,7 @@ objects:
       - { chapter: 5, holder: "mara-reyes", detail: "ticking in the storeroom", source: "outline:ch-05" }
       - { chapter: 6, holder: "valens", detail: "payment; he winds it the wrong way (backward) until she stops him; keeps it", source: "outline:ch-06" }
       - { chapter: 11, holder: "valens", detail: "she does not get it back", source: "outline:ch-11" }
-      - { chapter: 18, holder: "mara-reyes", detail: "returned on the quay as a wedding gift, wound; kept wound sixteen months", source: "outline:ch-18" }
+      - { chapter: 18, holder: "mara-reyes", detail: "returned on the quay as a wedding gift, wound; kept wound seventeen months; running, near enough the sun's noon that he must have set it by the shadow", source: "outline:ch-18" }
     windings:
       - { chapter: 24, by: "valens", detail: "winds it on her wrist while she sleeps", source: "outline:ch-24" }
       - { chapter: 32, by: "valens", detail: "at midnight, without a word", source: "outline:ch-32" }
@@ -1290,7 +1385,9 @@ objects:
       - { chapter: 26, detail: "Lucius rolling it", source: "outline:ch-26" }
       - { chapter: 27, detail: "Lucius rolls it down the Cumae gallery", source: "outline:ch-27" }
       - { chapter: 34, detail: "lost in the sand and found", source: "outline:ch-34" }
+      - { chapter: 41, detail: "Lucius gives it to Aelia so she will stop grabbing the lamp; she keeps it (the hand-off Ch.44 depends on)", source: "outline:ch-41" }
       - { chapter: 44, detail: "in Aelia's fist on the road", source: "outline:ch-44" }
+    note: "absent from the plan Ch.4–25 by design (audit N-23)"
     paid: 44
     last_mentioned: "outline:ch-44"
     resolution: { chapter: 44, description: "in Aelia's fist at the end", planned: true }
@@ -1300,14 +1397,21 @@ objects:
     description: "August Fenn's notebook (1967-68), in a cigar box with the map; handwriting goes from capitals to small tired script"
     status: "chekhov_open"
     planted: 1
+    provenance: "in the coat Fenn left at the Corycian Cave mouth (1968); a shepherd brought it down; the US consulate in Athens forwarded his effects to Margaret (effects slip folded inside the back cover); her boxes → 1997 estate sale → Szabo's cigar box → Mara"
+    provenance_source: "outline:ch-02; outline:ch-27; foundation:§3"
     beats:
-      - { chapter: 2, detail: "read; entries 1967, 1968, last entry July 1968; packed", source: "outline:ch-02" }
-      - { chapter: 38, detail: "'the notebook' packed in the bag", source: "outline:ch-38" }
-      - { chapter: 43, detail: "'the notebook with Fenn's tables' through the door", source: "outline:ch-43" }
+      - { chapter: 2, detail: "read; entries 1967, 1968, last entry July 1968; the consulate effects slip; half its pages blank at the back; packed", source: "outline:ch-02" }
+      - { chapter: 20, detail: "first tremor-note entry in the blank back pages", source: "outline:ch-20" }
+      - { chapter: 25, detail: "offered to Fenn; he refuses it ('Keep it. I know what's in it.')", source: "outline:ch-25" }
+      - { chapter: 30, detail: "another tremor entry", source: "outline:ch-30" }
+      - { chapter: 35, detail: "Fenn asks for it, reads his own 1968 front pages, says 'Margaret'; gives it back", source: "outline:ch-35" }
+      - { chapter: 36, detail: "her tremor notes matched against his tables; she copies his key figures into it beside hers", source: "outline:ch-36" }
+      - { chapter: 38, detail: "packed in the bag", source: "outline:ch-38" }
+      - { chapter: 43, detail: "through the door (his tables' figures and her tremor notes in its back pages), with his Zippo and dime", source: "outline:ch-43" }
     paid: 43
-    note: "see meta.plan_gaps — Ch.36 refers to 'her 1998 notebook' holding tremor notes; identity vs Fenn's notebook not established"
+    note: "ONE notebook (closes the SEED plan_gap); there is no separate 1998 notebook of Mara's"
     last_mentioned: "outline:ch-43"
-    resolution: { chapter: 43, description: "sent through the door into 1998", planned: true }
+    resolution: { chapter: 43, description: "sent through the door to the other side ('Fenn's things go home without him')", planned: true }
 
   venetian-map:
     introduced: "outline:ch-01"
@@ -1315,8 +1419,8 @@ objects:
     status: "chekhov_closed"
     planted: 1
     paid: 3
-    last_mentioned: "outline:ch-01"
-    resolution: { chapter: 3, description: "its coordinates (also in Fenn's notebook) lead to the crossing; map not in the Ch.2 packing list", planned: true }
+    last_mentioned: "outline:ch-02"
+    resolution: { chapter: 3, description: "its coordinates (copied into Fenn's notebook) lead to the crossing; the chart stays pinned over Emilio's desk (Ch.2); it never went to Greece in 1968 either", planned: true }
 
   fenn-tables:
     introduced: "outline:ch-26"
@@ -1326,23 +1430,27 @@ objects:
     beats:
       - { chapter: 26, detail: "copy in a box under the bed, unopened", source: "outline:ch-26" }
       - { chapter: 35, detail: "originals given to Mara; last margin line in Fenn's hand (practical, English) ends the chapter", source: "outline:ch-35" }
-      - { chapter: 36, detail: "beside her tremor notes; the figures agree", source: "outline:ch-36" }
+      - { chapter: 36, detail: "beside her tremor notes; the figures agree; key figures copied into the notebook", source: "outline:ch-36" }
       - { chapter: 36, detail: "taken to the tomb in her hand", source: "outline:ch-36" }
-      - { chapter: 38, detail: "packed", source: "outline:ch-38" }
-      - { chapter: 43, detail: "through the door with the notebook", source: "outline:ch-43" }
+      - { chapter: 38, detail: "'the notebook and the tables' packed", source: "outline:ch-38" }
+      - { chapter: 43, detail: "his tables' figures go through in the notebook's back pages; the ORIGINAL tables are not named in Ch.43 (meta.post_patch_flags P4)", source: "outline:ch-43" }
     paid: 36
-    last_mentioned: "outline:ch-43"
+    last_mentioned: "outline:ch-38"
     resolution: { chapter: 36, description: "the arithmetic: the door opens the night after the mountain opens", planned: true }
 
   tremor-notes:
-    introduced: "outline:ch-36"
-    description: "Mara's tremor notes, kept since AD 72 'in her 1998 notebook'"
+    introduced: "outline:ch-20"
+    description: "Mara's tremor notes in the blank back pages of Fenn's 1968 notebook, kept since AD 72 as a private eruption watch (she knows 62 and the year), independent of Fenn's tables"
     status: "chekhov_open"
-    planted: 36
+    planted: 20
+    beats:
+      - { chapter: 20, detail: "first entry after a small night shake; no reckoning", source: "outline:ch-20" }
+      - { chapter: 30, detail: "the tremor added that night", source: "outline:ch-30" }
+      - { chapter: 36, detail: "seven years of notes beside Fenn's tables; the figures agree", source: "outline:ch-36" }
     paid: 36
-    note: "planted and paid in the same chapter per outline; the seven years of note-keeping are off-page"
-    last_mentioned: "outline:ch-36"
-    resolution: { chapter: 36, description: "match Fenn's tables", planned: true }
+    note: "plant moved to Ch.20 (audit WARN-012); their independence from his tables is why the agreement ends the refusal"
+    last_mentioned: "outline:ch-43"
+    resolution: { chapter: 36, description: "match Fenn's tables; go through the door in the notebook (Ch.43)", planned: true }
 
   fenns-zippo:
     introduced: "outline:ch-25"
@@ -1351,24 +1459,42 @@ objects:
     planted: 25
     beats:
       - { chapter: 25, detail: "dead Zippo in his room", source: "outline:ch-25" }
+      - { chapter: 27, detail: "he tries to light it for Mara's photograph on the Cumae road (named frame)", source: "outline:ch-27" }
       - { chapter: 35, detail: "catches once in his hand; given to Mara", source: "outline:ch-35" }
+      - { chapter: 38, detail: "packed", source: "outline:ch-38" }
+      - { chapter: 43, detail: "through the door with the notebook", source: "outline:ch-43" }
     paid: 35
-    last_mentioned: "outline:ch-35"
-    resolution: { chapter: 35, description: "catches once", planned: true }
+    last_mentioned: "outline:ch-43"
+    resolution: { chapter: 35, description: "catches once; then goes home without him (Ch.43)", planned: true }
 
   fenns-1964-dime:
     introduced: "outline:ch-35"
     description: "a 1964 dime, one of Fenn's 1968 objects"
-    status: "background"
-    last_mentioned: "outline:ch-35"
-    resolution: null
+    status: "chekhov_open"
+    beats:
+      - { chapter: 35, detail: "given to Mara", source: "outline:ch-35" }
+      - { chapter: 38, detail: "packed", source: "outline:ch-38" }
+    last_mentioned: "outline:ch-43"
+    resolution: { chapter: 43, description: "through the door with the notebook", planned: true }
 
   fenns-coverless-paperback:
     introduced: "outline:ch-35"
     description: "a coverless paperback, one of Fenn's 1968 objects"
     status: "background"
-    last_mentioned: "outline:ch-35"
-    resolution: null
+    last_mentioned: "outline:ch-38"
+    resolution: { chapter: 38, description: "stays on the shelf (not packed)", planned: true }
+
+  ibuprofen:
+    introduced: "outline:ch-02"
+    description: "a 1998 packet of ibuprofen, packed for the trip"
+    status: "chekhov_closed"
+    planted: 2
+    beats:
+      - { chapter: 13, detail: "the last two given to Theano for her knees, with instructions; she swallows them without thanks (a payment, one line, never mentioned again in the chapter)", source: "outline:ch-13" }
+      - { chapter: 32, detail: "OPTIONAL one past-facing line: the last went into a priestess's knees six years ago; it would only have cooled him", source: "outline:ch-32" }
+    paid: 13
+    last_mentioned: "outline:ch-32"
+    resolution: { chapter: 13, description: "used up: last two to Theano", planned: true }
 
   manumission-record:
     introduced: "foundation:§3 (Valens's copy seized in 69)"
@@ -1380,6 +1506,7 @@ objects:
       - { chapter: 16, detail: "located in the record office under Celer's influence", source: "outline:ch-16" }
       - { chapter: 17, detail: "taken during the Isthmian Games", source: "outline:ch-17" }
       - { chapter: 19, detail: "the papers work at Puteoli", source: "outline:ch-19" }
+    note: "it proves the registration that Celer contests (foundation:§3)"
     paid: 19
     last_mentioned: "outline:ch-19"
     resolution: { chapter: 19, description: "accepted at Puteoli harbor", planned: true }
@@ -1388,6 +1515,7 @@ objects:
     introduced: "outline:ch-09"
     description: "notice posted from Corinth: reward for a runaway Thracian, scarred, 'answering to Lupus', claimed by the household of Q. Arrius Celer"
     status: "chekhov_open"
+    issued: "autumn AD 70, within the month of the freedman's approach (outline:ch-12; foundation:§3); see meta.post_patch_flags P5"
     planted: 9
     paid: 12
     last_mentioned: "outline:ch-11"
@@ -1479,7 +1607,7 @@ objects:
 
   rome-summons:
     introduced: "outline:ch-21"
-    description: "summons from Plautia's brother: the dowry suit heard in Rome in spring; Valens the witness"
+    description: "summons from Plautia's brother: the dowry suit heard in Rome in spring; Valens the witness; brought by the brother's freedman to Grata's counter by name (address via Plautia)"
     status: "chekhov_open"
     planted: 21
     paid: 22
@@ -1502,7 +1630,7 @@ objects:
 
   hired-boat:
     introduced: "outline:ch-37"
-    description: "hired boat with a painted eye at the Sarno mouth; the backup plan; Felix asleep in it"
+    description: "hired boat with a painted eye at the Sarno mouth; Felix (term served) asleep in it; tried FIRST, in the daylight hours after the mountain opens (Valens's condition); the door only at night if the sea refuses"
     status: "chekhov_open"
     planted: 37
     paid: 40
@@ -1511,16 +1639,16 @@ objects:
 
   grata-travel-money:
     introduced: "outline:ch-38"
-    description: "money Mara gives Grata to visit her sister in Nuceria 'next week'"
-    status: "chekhov_open"
+    description: "money Mara gives Grata to visit her sister in Nuceria 'the day after tomorrow, and stay the month' (before the 24th)"
+    status: "chekhov_closed"
     planted: 38
-    last_mentioned: "outline:ch-38"
-    resolution: null
-    note: "deliberately unresolved: whether Grata goes is not resolved in Ch.38; Ch.40 she is in her shop"
+    last_mentioned: "outline:ch-40"
+    resolution: { chapter: 40, description: "she does not go; Ch.40 finds her in her shop; her choice, never explained", planned: true }
+    note: "was 'next week' (after the 24th) in the SEED plan; changed by STATE:ARCH-18 / audit WARN-019"
 
   potted-fig-tree:
     introduced: "foundation:§3"
-    description: "Valens's potted fig tree, moved twice; on the roof in Pompeii"
+    description: "Valens's potted fig tree, moved twice; on the roof in Pompeii; Valens asleep under it is a named film frame (Ch.20)"
     status: "background"
     last_mentioned: "outline:ch-20"
     resolution: null
@@ -1549,9 +1677,9 @@ objects:
 
   pompeii-painted-false-door:
     introduced: "outline:ch-19"
-    description: "the painted false door on the freedman's tomb outside the Nuceria Gate — the door home"
+    description: "the painted false door on the freedman's tomb outside the Nuceria Gate — the door home; set up by the god's 'door painted on a dead man's house' (Ch.13)"
     status: "chekhov_open"
-    planted: 19
+    planted: 13
     paid: 42
     last_mentioned: "outline:ch-43"
     resolution: { chapter: 42, description: "opens for Mara alone; closes Ch.43", planned: true }
@@ -1562,30 +1690,45 @@ objects:
 knowledge_index:
   door_location:
     - { who: "theano", what: "Pompeii", from_chapter: "pre-13", method: "discovered (unexplained)", source: "outline:ch-13" }
-    - { who: "august-fenn", what: "the Pompeii door (missed in AD 62)", from_chapter: "pre-25 (AD 62)", method: "discovered", source: "outline:ch-25" }
-    - { who: "valens", what: "the public riddle only ('mountain of vines by the western sea, where the dead go out of the city')", from_chapter: 13, method: "witnessed", source: "outline:ch-13" }
-    - { who: "mara-reyes", what: "riddle (via Valens) + 'Pompeii' (Theano)", from_chapter: 13, method: "told_by:valens; told_by:theano", source: "outline:ch-13" }
-    - { who: "mara-reyes", what: "the specific tomb with the painted false door, Nuceria Gate", from_chapter: 19, method: "discovered", source: "outline:ch-19" }
-    - { who: "valens", what: "the door (existence, leads to 1998) — discussed", from_chapter: 33, method: "told_by:mara-reyes", note: "the tomb's location to him: unplanned; 'everything' by Ch.37", source: "outline:ch-33; outline:ch-37" }
+    - { who: "august-fenn", what: "the Nuceria Gate tomb's painted door (missed in AD 62; found via a tavern story three days later)", from_chapter: "pre-25 (AD 62)", method: "overheard → discovered", revised: "2026-10-18", source: "outline:ch-25; foundation:§3" }
+    - { who: "valens", what: "the public answer only: 'mountain of vines by the western sea, where the dead go out of the city, at the door painted on a dead man's house'", from_chapter: 13, method: "witnessed", revised: "2026-10-18", source: "outline:ch-13" }
+    - { who: "mara-reyes", what: "the answer with both markers (via Valens) + 'Pompeii' (Theano, in person, off duty)", from_chapter: 13, method: "told_by:valens; told_by:theano", revised: "2026-10-18", source: "outline:ch-13; STATE:ARCH-4" }
+    - { who: "valens", what: "the door home is in Pompeii (and a door in the Corycian cave brought her)", from_chapter: 15, method: "told_by:mara-reyes", note: "not the city's fate", revised: "2026-10-18", source: "outline:ch-15" }
+    - { who: "mara-reyes", what: "the specific tomb with the painted false door, Nuceria Gate (after searching the Herculaneum and Stabian Gate roads)", from_chapter: 19, method: "discovered", revised: "2026-10-18", source: "outline:ch-19" }
+    - { who: "valens", what: "believes a door leads to her time", from_chapter: 25, method: "overheard", revised: "2026-10-18", source: "outline:ch-25" }
+    - { who: "valens", what: "the tomb itself", from_chapter: 30, method: "witnessed", note: "follows her after the tremor", revised: "2026-10-18", source: "outline:ch-30" }
+    - { who: "valens", what: "the door might not take him or the children", from_chapter: 33, method: "witnessed", note: "Greek conversation with Fenn in front of him", revised: "2026-10-18", source: "outline:ch-33" }
     - { who: "lucius, aelia", what: "the door itself", from_chapter: 41, method: "witnessed", source: "outline:ch-41; outline:ch-42" }
-    - { who: "kallia, plautia, grata, felix", what: "NOT told (Felix unplanned)", from_chapter: null, method: null, source: "outline (absent)" }
+    - { who: "kallia, plautia, grata, felix", what: "NOT told (Felix: knows nothing of the door, Ch.37)", from_chapter: null, method: null, revised: "2026-10-18", source: "outline (absent); outline:ch-37" }
   door_when:
     - { who: "theano", what: "withholds it ('not hers to give, or not given')", from_chapter: 13, method: "n/a", source: "outline:ch-13" }
-    - { who: "august-fenn", what: "late summer AD 79", from_chapter: "pre-25 (since AD 62)", method: "inferred", source: "outline:ch-25" }
-    - { who: "mara-reyes", what: "late summer AD 79 (rejected Ch.25-35)", from_chapter: 25, method: "told_by:august-fenn", source: "outline:ch-25" }
+    - { who: "august-fenn", what: "71 and 73 (tremor-only dates, failed); then late summer AD 79, rebuilt around the year he knows from school", from_chapter: "pre-25 (since AD 62; 79 after 73)", method: "inferred", revised: "2026-10-18", source: "outline:ch-25; foundation:§3" }
+    - { who: "mara-reyes", what: "late summer AD 79 (rejected Ch.25-35: wrong twice, built on the history-book year)", from_chapter: 25, method: "told_by:august-fenn", revised: "2026-10-18", source: "outline:ch-25" }
     - { who: "mara-reyes", what: "the night after the mountain opens (accepted)", from_chapter: 36, method: "discovered", source: "outline:ch-36" }
-    - { who: "valens", what: "the day and the hours", from_chapter: 37, method: "told_by:mara-reyes", source: "outline:ch-37" }
+    - { who: "valens", what: "NOT the date at Ch.25 (follows no English) or Ch.33 (nobody names it)", from_chapter: null, method: null, revised: "2026-10-18", source: "outline:ch-25; outline:ch-33" }
+    - { who: "valens", what: "the day, the hours, and that the door's night is the eruption's night", from_chapter: 37, method: "told_by:mara-reyes", revised: "2026-10-18", source: "outline:ch-37" }
   mara_origin:
     - { who: "goat-boy", what: "takes her for a nymph from the nymphs' cave", from_chapter: 4, method: "inferred", source: "outline:ch-04" }
     - { who: "kallia", what: "knows only the 'Syracuse' cover", from_chapter: 7, method: "n/a", source: "outline:ch-07" }
-    - { who: "valens", what: "told she is from nineteen centuries ahead; disbelieves", from_chapter: 15, method: "told_by:mara-reyes", source: "outline:ch-15" }
+    - { who: "valens", what: "told she is from nineteen centuries ahead, that a door brought her and the door home is in Pompeii; disbelieves", from_chapter: 15, method: "told_by:mara-reyes", revised: "2026-10-18", source: "outline:ch-15" }
     - { who: "valens", what: "believes it", from_chapter: 25, method: "overheard", source: "outline:ch-25" }
     - { who: "august-fenn", what: "from 1998", from_chapter: 25, method: "witnessed", source: "outline:ch-25" }
     - { who: "aelia", what: "told about Philadelphia (snow)", from_chapter: "pre-41", method: "told_by:mara-reyes", note: "FLEX", source: "outline:ch-41" }
   eruption_foreknowledge:
     - { who: "mara-reyes", what: "AD 79 (in scene from Ch.14); 24 Aug and Pliny's hours (stated Ch.36)", from_chapter: 0, method: "prior_knowledge", source: "outline:ch-14; outline:ch-36" }
     - { who: "valens", what: "the mountain, the day, the hours", from_chapter: 37, method: "told_by:mara-reyes", source: "outline:ch-37" }
-    - { who: "august-fenn", what: "UNPLANNED whether he connects 79 to the eruption", from_chapter: null, method: null, source: "meta.plan_gaps" }
+    - { who: "august-fenn", what: "AD 79 is Pompeii's year (from school); says so plainly to Mara in English", from_chapter: 0, method: "prior_knowledge", revised: "2026-10-18", source: "outline:ch-25; STATE:ARCH-16" }
+    - { who: "felix", what: "only that Mara fears the mountain", from_chapter: 37, method: "told_by:valens", note: "teller not specified", revised: "2026-10-18", source: "outline:ch-37" }
+  dowry_suit_witness:
+    - { who: "valens", what: "the brother's suit; asked to testify; refused; the notice followed", from_chapter: "0 (autumn AD 70)", method: "told_by:plautias-brothers-freedman", revised: "2026-10-18", source: "outline:ch-12; STATE:ARCH-15" }
+    - { who: "quintus-arrius-celer", what: "Valens is a live witness in Phocis", from_chapter: "0 (autumn AD 70)", method: "inferred", note: "source unplanned (meta.plan_gaps)", revised: "2026-10-18", source: "outline:ch-12; foundation:§3" }
+    - { who: "mara-reyes", what: "the suit and how Valens knows", from_chapter: 12, method: "told_by:valens", revised: "2026-10-18", source: "outline:ch-12" }
+    - { who: "plautia", what: "the family's Pompeii lodging", from_chapter: "off-page (summer AD 72)", method: "told_by:valens", revised: "2026-10-18", source: "outline:ch-21" }
+    - { who: "pomponia-grata", what: "a summons came for Valens by name", from_chapter: 21, method: "witnessed", revised: "2026-10-18", source: "outline:ch-21" }
+  margaret_fenn:
+    - { who: "mara-reyes", what: "Margaret's name, her estate sale, her death", from_chapter: "1-2", method: "told_by:irene-szabo; discovered (notebook)", source: "outline:ch-01; outline:ch-02" }
+    - { who: "august-fenn", what: "his sister is dead", from_chapter: 25, method: "inferred", note: "from 'estate sale in Chestnut Hill'; does not ask whose", revised: "2026-10-18", source: "outline:ch-25; STATE:ARCH-17" }
+    - { who: "august-fenn", what: "says 'Margaret' aloud for the first time", from_chapter: 35, method: "n/a", note: "Mara never says the name to him", revised: "2026-10-18", source: "outline:ch-35; STATE:ARCH-17" }
   fenn_identity:
     - { who: "gratas-husband", what: "a Chaldean in Puteoli who talks gibberish", from_chapter: "pre-24", method: "overheard", source: "outline:ch-24" }
     - { who: "mara-reyes", what: "Augurinus = August Fenn", from_chapter: 25, method: "discovered", source: "outline:ch-25" }
@@ -1600,7 +1743,7 @@ plot_threads:
     opened: { chapter: 6, detail: "the door she came by is shut", source: "outline:ch-06" }
     beats: [8, 9, 11, 12]
     payoff_chapter: 13
-    secondary_payoff: { chapter: 19, detail: "the tomb found, dormant", source: "outline:ch-19" }
+    secondary_payoff: { chapter: 19, detail: "the tomb found, dormant, after a short search of the tomb roads (set up by the god's second marker, Ch.13)", source: "outline:ch-19; outline:ch-13" }
     status: "planned_open"
     source: "outline:macro; outline:ch-13"
 
@@ -1611,13 +1754,14 @@ plot_threads:
     payoff_chapter: 36
     status: "planned_open"
     source: "outline:macro; outline:ch-25; outline:ch-36"
-    refusal_window: "Ch.25-35 (Mara will not use the future tense about the door until Ch.36 — character-bible)"
-    conflict:
-      value: "foundation §1 ladder: after Fenn's date she 'plans to leave Campania with her family before then, and gives up home'"
-      source: "foundation:§1"
-      counter_value: "outline Ch.30: she runs to the tomb hoping the doors breathe early ('the door wanted, and denied again')"
-      counter_source: "outline:ch-30"
-      flag: "UNRESOLVED"
+    refusal_window: "Ch.25-35 (Mara will not put FENN'S DATE in the future tense until Ch.36; early-door hope Ch.30 and the Ch.33 debate allowed — character-bible, narrowed)"
+    refusal_basis: "Fenn has been wrong twice (71, 73) and built his third date around the year he knew from school"
+    refusal_basis_source: "outline:ch-25; foundation:§1; STATE:ARCH-16"
+    ladder_step_2: "she refuses the arithmetic and keeps hoping for an earlier opening (a tremor's breath); no plan to leave Campania"
+    ladder_source: "foundation:§1"
+    resolved_from_conflict: true
+    resolved_date: "2026-10-18"
+    resolution_note: "C7: foundation ladder softened to match outline Ch.30 (STATE:ARCH-14)"
 
   can-others-pass:
     description: "will the door take anyone but the one it brought?"
@@ -1639,6 +1783,8 @@ plot_threads:
     description: "Valens framed by Celer's dowry scheme; resolved by lawsuit"
     opened: { chapter: 9, detail: "reward notice", source: "outline:ch-09" }
     beats: [12, 15, 16, 17, 21]
+    knowledge_paths: "Ch.12 suit source (brother's freedman, autumn 70); Ch.21 summons address (via Plautia, Valens's word in summer 72)"
+    knowledge_paths_source: "outline:ch-12; outline:ch-21; STATE:ARCH-15"
     payoff_chapter: 22
     status: "planned_open"
     source: "STATE:ARCH-5; outline:ch-22"
@@ -1658,12 +1804,11 @@ plot_threads:
     payoff_chapter: 43
     heat_scenes:
       value: [15, 23, 34]
-      source: "foundation:§6e; outline (heat map); STATE:ARCH-13"
-      note: "none from Ch.39 on (no heat after Ch.38)"
-      conflict:
-        value: "'Four on-page heat scenes: Ch.15, 23, 34' (count four, three listed)"
-        source: "foundation:§11.13"
-        flag: "UNRESOLVED"
+      source: "foundation:§6e; foundation:§11.13; outline (heat map); STATE:ARCH-13"
+      note: "cut-offs: foundation §6e/§11.13 'none from Ch.35 on' (strictest); outline heat map and STATE:ARCH-13 'none from Ch.39'; the plan satisfies all"
+      resolved_from_conflict: true
+      resolved_date: "2026-10-18"
+      resolution_note: "C11: foundation §11.13 now says 'Three'"
     yearning_only: [11, 16, 17, 18]
     status: "planned_open"
     source: "outline (heat map); outline:ch-43"
@@ -1683,11 +1828,11 @@ plot_threads:
     aftermath: 23
     status: "planned_open"
     source: "outline:ch-22; outline:ch-23"
-    note_conflict:
-      value: "Ch.23 'the truth cost three years'"
-      source: "foundation:§4; outline:ch-23"
-      counter_value: "frame AD 69 (foundation §3) to trial AD 74 = five years"
-      flag: "UNRESOLVED"
+    aftermath_line: "Ch.23 'the truth cost five years' (frame 69 → trial spring 74)"
+    aftermath_source: "outline:ch-23; foundation:§4 row 23; foundation:§10"
+    resolved_from_conflict: true
+    resolved_date: "2026-10-18"
+    resolution_note: "C9: 'three' corrected to 'five' (STATE:ARCH-14)"
 
   kallias-son:
     description: "Kallia's swept room and her son"
@@ -1701,6 +1846,7 @@ plot_threads:
     description: "Plautia's access to Marcus"
     opened: { chapter: 16, source: "outline:ch-16" }
     payoff_chapter: 22
+    payoff_detail: "access as Celer's private settlement, not a court remedy; Marcus (9) glimpsed on the basilica steps"
     status: "planned_open"
     source: "outline:ch-22"
 
@@ -1722,9 +1868,12 @@ plot_threads:
     source: "foundation:§3; outline:ch-35"
 
   fenn-sisters-name:
-    description: "Fenn's silence about Margaret"
-    opened: { chapter: 26, detail: "unnamed in letters (named in the 1968 notebook, Ch.2)", source: "outline:ch-26" }
+    description: "Fenn's silence about Margaret; the notebook reunion"
+    opened: { chapter: 25, detail: "Mara: 'estate sale in Chestnut Hill'; he understands his sister is dead, does not ask whose, refuses the notebook; nobody says the name (Mara never does)", source: "outline:ch-25; STATE:ARCH-17" }
+    beats: [26]
+    beat_note: "Ch.26 unnamed in his letter (named in the 1968 notebook, Ch.2)"
     payoff_chapter: 35
+    payoff_detail: "he asks for the notebook, reads his own front pages, says 'Margaret' first"
     status: "planned_open"
     source: "outline:ch-35"
 
@@ -1748,13 +1897,16 @@ plot_threads:
     opened: { chapter: 37, source: "outline:ch-37" }
     beats: [38]
     payoff_chapter: 40
+    order: "boat FIRST, in the daylight hours after the mountain opens (all go by sea if it can, Mara included, and the door is let go); the door at NIGHT only if the sea refuses — locked Ch.37, followed Ch.40"
+    order_source: "outline:ch-37; outline:ch-40; foundation:§11.7; STATE:ARCH-18"
     status: "planned_open"
     source: "STATE:ARCH-7; outline:ch-40"
+    resolved_note: "SEED order mismatch (Ch.37 door-first vs Ch.40 boat-first; audit WARN-018) is gone: both chapters now carry the same order"
 
   gratas-fate:
     description: "Grata and the travel money"
-    opened: { chapter: 38, source: "outline:ch-38" }
-    final_beat: { chapter: 40, detail: "alive, roof fallen, refuses to leave; death not shown", source: "outline:ch-40" }
+    opened: { chapter: 38, detail: "money for 'the day after tomorrow, and stay the month'", source: "outline:ch-38" }
+    final_beat: { chapter: 40, detail: "did not go (her choice, unexplained); alive, roof fallen, refuses to leave; death not shown", source: "outline:ch-38; outline:ch-40" }
     payoff_chapter: null
     status: "unresolved_by_design"
     source: "outline:ch-38; outline:ch-40"
@@ -1768,7 +1920,7 @@ plot_threads:
     source: "outline:ch-31"
 
   maras-secret:
-    description: "Mara alone knows what Pompeii means"
+    description: "Mara alone (among those around her) knows what Pompeii means; Fenn also knows from Ch.25, in English"
     opened: { chapter: 14, source: "outline:ch-14" }
     payoff_chapter: 37
     status: "planned_open"
@@ -1793,9 +1945,9 @@ plot_threads:
       - { chapter: 3, detail: "cold air on her palm (cave)", source: "outline:ch-03" }
       - { chapter: 6, detail: "hands in the shut cave floor", source: "outline:ch-06; foundation:§4f" }
       - { chapter: 8, detail: "nothing; no scream", source: "outline:ch-08" }
-      - { chapter: 19, detail: "painted false door faintly cool", source: "outline:ch-19" }
+      - { chapter: 19, detail: "painted false door faintly cool on a warm spring afternoon", source: "outline:ch-19" }
       - { chapter: 27, detail: "Fenn's palm on the dead Cumae door", source: "outline:ch-27" }
-      - { chapter: 30, detail: "warm plaster, nothing", source: "outline:ch-30" }
+      - { chapter: 30, detail: "the same faint coolness under sun-warmed plaster, no colder (Valens watching)", source: "outline:ch-30" }
       - { chapter: 36, detail: "cooler than before", source: "outline:ch-36" }
       - { chapter: 41, detail: "cold in the hot night", source: "outline:ch-41" }
     payoff_chapter: 42
@@ -1804,17 +1956,24 @@ plot_threads:
 
   theano-phrase:
     description: "allowlisted 'where the dead go out (of the city)', cap 3"
-    uses: [13, 19, 44]
+    uses: [{ chapter: 13, as: "once, in Valens's repetition only (the voice is described, not quoted)" }, { chapter: 19 }, { chapter: 44, as: "optional, incidental; the chapter must land with it absent" }]
     payoff_chapter: 44
     status: "planned_open"
-    source: "foundation:§12; outline:ch-13; outline:ch-19; outline:ch-44"
+    source: "foundation:§12; foundation:§4f #6; outline:ch-13; outline:ch-19; outline:ch-44"
 
   the-one-it-brought:
-    description: "allowlisted 'the one it brought', cap 3"
-    uses: [{ chapter: 25, as: "promise" }, { chapter: 42, as: "limit, if used at all" }]
+    description: "allowlisted 'the one it brought', cap 3; 'it' = all the doors as one (one door with many mouths)"
+    uses: [{ chapter: 25, as: "promise" }, { chapter: 42, as: "optional, incidental limit in Mara's thought; the beat works with no phrase (plaster under three hands)" }]
     payoff_chapter: 42
     status: "planned_open"
-    source: "foundation:§12; outline:ch-25; outline:ch-42"
+    source: "foundation:§12; foundation:§4d; outline:ch-25; outline:ch-42"
+
+  seventh-of-bysios-phrase:
+    description: "allowlisted 'the seventh of Bysios', cap 3; planned 2"
+    uses: [{ chapter: 12, as: "bridge ('three days off')" }, { chapter: 13, as: "the title (counts)" }]
+    paraphrased_only: [11, "13 (opener and body)"]
+    status: "planned_open"
+    source: "foundation:§12; outline:ch-11; outline:ch-12; outline:ch-13"
 
   halloran-campania:
     description: "Halloran's invitation to Campania in Emilio's place"
@@ -1835,28 +1994,32 @@ plot_threads:
 # WORLD RULES
 # =====================================================================
 world_rules:
-  - { rule: "THE LAW OF THE DOORS: a door takes back anyone who came through a door, from any time, but no one native to its side ('it takes back only the one it brought').", source: "foundation:§9; foundation:§1" }
+  - { rule: "THE LAW OF THE DOORS: a door takes back anyone who came through a door, from any time, through any mouth, but no one native to its side. Fenn's phrase 'it takes back the one it brought' states this exactly because his 'it' is ALL the doors as one ('one door with many mouths'): the cave brought Mara, so Pompeii's mouth takes her.", revised: "2026-10-18", source: "foundation:§9; foundation:§4d; foundation:§1; outline:ch-25; STATE:ARCH-16" }
   - { rule: "Fenn does not know the native exclusion (always alone); Mara discovers it at the door in Ch.42, never stated as a rule.", source: "foundation:§9; outline:ch-42" }
   - { rule: "WHAT CANNOT PASS: Valens, Lucius and Aelia (all native to the AD side — children born in the past count as native) meet painted plaster.", source: "outline:ch-42" }
-  - { rule: "WHAT CAN PASS: the traveler, and the objects she puts through — microcassette, film roll, notebook (+ Fenn's tables) go into 1998 in Ch.43. Whether objects made on the ancient side can pass is not established.", source: "outline:ch-43; foundation:§4c" }
+  - { rule: "WHAT CAN PASS: the traveler, and the objects she puts through — microcassette, film canister, Fenn's notebook (his key figures and her tremor notes in its back pages), his Zippo and 1964 dime go to the other side in Ch.43 (all made on the modern side). Whether objects made on the ancient side can pass is not established.", revised: "2026-10-18", source: "outline:ch-43; foundation:§4c" }
   - { rule: "A door is felt as a seam of cool air and an absence of sound; no voices, glow or special effects.", source: "foundation:§9; outline:ch-03" }
-  - { rule: "OPENING RHYTHM: doors open on their own timing; Fenn's empirical rule is that they 'breathe with the earth'. The AD 62 earthquake opened Pompeii's door briefly (about a day).", source: "foundation:§9; outline:ch-25" }
-  - { rule: "The Pompeii door's next opening is late summer AD 79 (Fenn); the arithmetic (Fenn's tables + Mara's tremor notes) puts it in the night after the mountain opens; it opens before dawn 25 Aug 79.", source: "outline:ch-25; outline:ch-36; outline:ch-42" }
+  - { rule: "OPENING RHYTHM: doors open on their own timing; Fenn's empirical rule is that they 'breathe with the earth'.", source: "foundation:§9; outline:ch-25" }
+  - { rule: "OPENING DURATION: an opening lasts hours, never days. AD 62 = part of one night (the quake night); AD 79 = from the night after the mountain opens until before first light on the 25th.", revised: "2026-10-18", source: "foundation:§9; outline:ch-25; audit WARN-016" }
+  - { rule: "Tremors alone did not predict the Pompeii door: Fenn's tremor-only dates (71, 73) failed; his 79 date is the tremor tables rebuilt around the known eruption year.", revised: "2026-10-18", source: "outline:ch-25; foundation:§3" }
+  - { rule: "The Pompeii door's next opening is late summer AD 79 (Fenn); the arithmetic (Fenn's tables + Mara's independent tremor notes) puts it in the night after the mountain opens; it opens before dawn 25 Aug 79.", source: "outline:ch-25; outline:ch-36; outline:ch-42" }
   - { rule: "An ordinary tremor (AD 77) does not open the door.", source: "outline:ch-30" }
-  - { rule: "Dormant/waking door temperature: faintly cool (Ch.19) → nothing (Ch.30) → cooler (Ch.36) → cold (Ch.41) → open (Ch.42).", source: "outline:ch-19; outline:ch-30; outline:ch-36; outline:ch-41; outline:ch-42" }
-  - { rule: "Doors do not deliver to matching dates: 1968 → AD 41 (Fenn); May 1998 → autumn AD 70 (Mara).", source: "foundation:§9; outline:ch-03" }
+  - { rule: "Dormant/waking door temperature: faintly cool (Ch.19) → the same faint coolness, no colder, after the tremor (Ch.30) → cooler (Ch.36) → cold (Ch.41) → open (Ch.42).", revised: "2026-10-18", source: "outline:ch-19; outline:ch-30; outline:ch-36; outline:ch-41; outline:ch-42; foundation:§4f; audit N-24" }
+  - { rule: "Doors do not deliver to matching dates: 1968 → AD 41 (Fenn); May 1998 → autumn AD 70 (Mara). So the far side in Ch.42 is '1998, or near it' only; the narration never asserts the year (Ch.43 says 'the other side' / 'her own century').", revised: "2026-10-18", source: "foundation:§9; outline:ch-03; outline:ch-42; outline:ch-43" }
   - { rule: "A door used for a crossing can stay shut afterwards (the Corycian door, Ch.6 and Ch.8).", source: "outline:ch-06; outline:ch-08" }
   - { rule: "Doors can die (the Cumae door).", source: "outline:ch-27" }
   - { rule: "Each opening is brief: the door's seam closes (Ch.43).", source: "outline:ch-43" }
   - { rule: "The mechanism is never explained (Outlander standard).", source: "foundation:§9" }
-  - { rule: "Women did not enter to consult the Oracle; they asked through a male representative.", source: "foundation:§9; STATE:ARCH-4" }
-  - { rule: "Oracle consulted on fixed days in the warm months; year's first consultation on the seventh of Bysios; the goat must shiver at a sprinkling of cold water.", source: "foundation:§9" }
+  - { rule: "Women did not enter to consult the Oracle; they asked through a male representative. The Pythia speaking to a woman privately, off duty, is not an oracular response (Ch.13).", revised: "2026-10-18", source: "foundation:§9; foundation:§11.4; STATE:ARCH-4 (revised)" }
+  - { rule: "Oracle consulted on fixed (monthly) days in the warm months; year's first consultation on the seventh of Bysios; the goat must shiver at a sprinkling of cold water.", revised: "2026-10-18", source: "foundation:§9; foundation:§3" }
   - { rule: "A foreign woman with no guardian is legally nobody; she must be registered as someone's.", source: "foundation:§3; outline:ch-07" }
   - { rule: "Roman marriage needs no priest: consent before witnesses.", source: "outline:ch-18" }
-  - { rule: "A husband who divorces an adulterous wife may retain part of her dowry; recovery via the actio rei uxoriae; the father keeps the children after divorce.", source: "foundation:§3; foundation:§9" }
-  - { rule: "An auctoratus (free man sworn to a gladiator school for a term) cannot be bought out before his first fight.", source: "outline:ch-28" }
-  - { rule: "The sea is closed from about November to March.", source: "foundation:§9" }
-  - { rule: "Vespasian revoked the 'freedom' Nero had granted Achaea (political backdrop).", source: "foundation:§9" }
+  - { rule: "A husband who divorces an adulterous wife may retain part of her dowry; recovery via the actio rei uxoriae, heard by a single iudex (no jury); the father keeps the children after divorce, and custody/access is not a remedy in a dowry suit.", revised: "2026-10-18", source: "foundation:§3; foundation:§9; outline:ch-22" }
+  - { rule: "An auctoratus (free man sworn to a gladiator school for a term) cannot be bought out before his first fight. An informally freed slave (Junian Latin) is free enough to swear the oath.", revised: "2026-10-18", source: "outline:ch-28; foundation:§3" }
+  - { rule: "An arena manumission unregistered before a magistrate can be contested as void (Celer's 'property' claim); the Corinth archive copy proves registration.", source: "foundation:§3" }
+  - { rule: "The sea is closed from about November to March (letters wait in harbor; Ariston's sat at Kirrha all winter).", source: "foundation:§9; outline:ch-10" }
+  - { rule: "Political backdrop: Nero granted Achaea 'freedom' (late 67), removing the proconsul; there is no proconsul in 69; Vespasian revoked it, and in this book a proconsul governs from Corinth again by 71.", revised: "2026-10-18", source: "foundation:§9; foundation:§3" }
+  - { rule: "Roman equids went barefoot or in strapped hipposandals; no nailed horseshoes (Ch.24 hooves trimmed).", source: "outline:ch-24" }
   - { rule: "Eruption per Pliny: column ~1 p.m. 24 Aug; ~18 hours of pumice; roofs collapse; boats cannot land; surges reach Pompeii ~6:30-7:30 a.m. 25 Aug. The October theory is never raised.", source: "foundation:§9; STATE:ARCH-10" }
   - { rule: "Narrative law: the narrator's horizon is the moment narrated — no foreshadowing; Mara's historical knowledge of 79 is present-tense dread only.", source: "foundation:§6a; STATE:guardrails" }
 
@@ -1876,13 +2039,14 @@ organizations:
     facts:
       - { fact: "priests hire Mara to mend bronze (incense stand) and pay with contempt", source: "outline:ch-09" }
       - { fact: "a temple slave beats Mara off the steps with a rod", source: "outline:ch-05" }
-      - { fact: "the prophetes conducts the consultation; Theano is the Pythia", source: "outline:ch-13" }
+      - { fact: "the prophetes conducts the consultation; Theano is the Pythia; consultation days are monthly in the warm season", source: "outline:ch-13; foundation:§3" }
+      - { fact: "a temple slave carries Theano's summons to Mara (Ch.13)", source: "outline:ch-13" }
 
   household-of-celer:
     canonical_name: "the household of Q. Arrius Celer"
     aliases: ["Celer's men"]
     facts:
-      - { fact: "claims Valens as runaway property (Ch.9 notice)", source: "outline:ch-09" }
+      - { fact: "claims Valens as runaway property (Ch.9 notice; issued autumn AD 70)", source: "outline:ch-09; outline:ch-12" }
       - { fact: "three men attack on the Kirrha road; one dies, two run (Ch.12)", source: "outline:ch-12" }
       - { fact: "still hunting Valens in summer AD 71 (Ch.15)", source: "outline:ch-15" }
       - { fact: "carry Celer around scaffolding", source: "foundation:§3" }
@@ -1891,7 +2055,7 @@ organizations:
     canonical_name: "the provincial record office at Corinth"
     aliases: []
     facts:
-      - { fact: "holds the archive copy of Valens's manumission under Celer's influence; a bored fig-eating clerk", source: "outline:ch-16; outline:ch-17" }
+      - { fact: "holds the archive copy of Valens's manumission under Celer's influence (he is on the restored proconsul's staff by 71–72); a bored fig-eating clerk", source: "outline:ch-16; outline:ch-17; foundation:§3" }
 
   pompeii-gladiator-school:
     canonical_name: "Pompeii's gladiator school"
@@ -1904,7 +2068,7 @@ organizations:
     canonical_name: "the court in the Basilica Julia"
     aliases: []
     facts:
-      - { fact: "hears the dowry suit, spring AD 74; Celer must return the dowry; Plautia granted access to Marcus", source: "outline:ch-22" }
+      - { fact: "a single iudex with assessors hears the dowry suit, spring AD 74; Celer must return the dowry; Plautia's access to Marcus is Celer's private settlement, not the court's order", source: "outline:ch-22" }
 
   philadelphia-university-museum:
     canonical_name: "the Philadelphia university museum"
