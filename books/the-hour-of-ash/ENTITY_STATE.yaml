@@ -1,6 +1,8 @@
 # ENTITY_STATE.yaml — The Hour of Ash (run 2)
 # Canonical entity state. Built from the PLAN only (pre-writing). BUILD (SEED) 2026-10-18, then
 # UPDATE (plan re-sync) 2026-10-18 after the architect's patch pass on the outline audit.
+# UPDATE (chapter 1, finalized draft: post-polish, post-disruption) 2026-10-18. Ch.1 facts now carry ch-01:pYY
+# sources; prose-vs-plan departures are logged in meta.contradictions, never silently overwritten.
 # Facts, not interpretation. Contradictions are flagged with `conflict` (flag: UNRESOLVED), never resolved here;
 # a conflict is marked resolved only when the source documents themselves now carry one value.
 
@@ -8,10 +10,10 @@ meta:
   version: "1.0"
   last_updated: "2026-10-18"
   last_updated_by: "entity-tracker"
-  mode: "UPDATE (plan re-sync, pre-writing — no chapters exist)"
-  source: "outline (patched 2026-10-18)"
-  last_updated_chapter: 0
-  chapters_tracked: []
+  mode: "UPDATE (chapter 1 reconciled against manuscript/chapters/chapter-1.md)"
+  source: "manuscript Ch.1 (finalized draft) + outline (patched 2026-10-18) for Ch.2-44"
+  last_updated_chapter: 1
+  chapters_tracked: [1]
   chapters_planned: 44
   canon_inputs:
     - "STATE.yaml (guardrails, resolved_author_decisions, decisions ARCH-1..18; ARCH-4 revised)"
@@ -23,6 +25,7 @@ meta:
   source_convention:
     plan: "outline:ch-XX = planned in that chapter's outline entry; outline:macro = Macro-Structure/ledger block; foundation:§N = foundation section; STATE:ARCH-N = architect decision in STATE.yaml"
     manuscript: "ch-XX:pYY once written. UPDATE mode replaces outline:ch-XX with ch-XX:pYY as each chapter confirms (or contradicts) the plan."
+    paragraph_rule: "pYY = the YY-th prose paragraph of the chapter file, counting every non-empty line except the '# Chapter' heading and the '* * *' scene breaks (Ch.1 = p1..p209)."
   status_convention: "Every fact below is PLANNED until its chapter is written. A written chapter that departs from a planned fact is a conflict, not an overwrite."
   method_extension: "knowledge.method adds `prior_knowledge` (known before the story's first scene, e.g. Mara's 1998 education) to the standard set told_by:slug | overheard | witnessed | discovered | inferred."
   conflicts_index:
@@ -49,9 +52,40 @@ meta:
     - { gap: "When Valens learns the tomb's location", status: CLOSED, resolution: "Ch.30: he follows her to the tomb after the tremor", source: "outline:ch-30; outline:ch-37" }
     - { gap: "Whether Fenn knows AD 79 is the eruption year", status: CLOSED, resolution: "yes, from school; he rebuilt his tables around it after 73 and says so plainly in Ch.25", source: "outline:ch-25; foundation:§3; STATE:ARCH-16" }
     - { gap: "Whether Felix knows about the door", status: CLOSED, resolution: "no; Ch.37 he is told only that Mara fears the mountain", source: "outline:ch-37" }
-    - { gap: "Mara's eye colour, hair and height", status: OPEN, resolution: "set on the page by Ch.1 (or first mention); by design", source: "outline-audit.md § Beyond the audit" }
+    - { gap: "Mara's eye colour, hair and height", status: OPEN, resolution: "set on the page by Ch.1 (or first mention); by design", source: "outline-audit.md § Beyond the audit", ch1_update: "PARTIAL: Ch.1 sets only that her hair is worn up in a knot (long enough to knot; a pencil through it after the clip broke). Colour, eye colour and height remain unset on the page.", ch1_source: "ch-01:p162; ch-01:p163; ch-01:p166" }
     - { gap: "How Celer learned (autumn AD 70) that Valens was in Phocis and approached as a witness, so that the reward notice went up 'within the month'", status: OPEN, resolution: null, source: "outline:ch-12; foundation:§3" }
     - { gap: "Whether Felix knows Mara's origin", status: OPEN, resolution: null, source: "outline (absent)" }
+  contradictions:
+    # Prose-vs-plan departures found during manuscript UPDATE runs. The YAML records what the PROSE says; the plan
+    # value is kept here beside it. Not resolved by the tracker (rule 3). flag: UNRESOLVED until a human or
+    # continuity-guardian decides (or the source documents are patched to match).
+    - id: CH1-1
+      chapter: 1
+      severity: low
+      entity: "halloran / objects.campanian-survey-permit (deadline)"
+      plan: "character-bible.md#prof-halloran sample line: 'the permit needs a name on it by the first of June' — RESOLVED 2026-10-18: prose wins (20 April); bible sample line corrected"
+      prose: "'the Soprintendenza want a name on it by the twentieth of April or the season lapses'"
+      line: "ch-01:p192 (manuscript line 391)"
+      note: "outline.md Ch.1/Ch.2 give no deadline; the bible sample line is the only plan value. Risk: the Ch.2 phone call drawing on the bible."
+      flag: "UNRESOLVED"
+    - id: CH1-2
+      chapter: 1
+      severity: low
+      entity: "irene-szabo.physicality"
+      plan: "character-bible.md#irene-szabo: 'looks over glasses she is not wearing; weights a chart's corners with whatever is to hand'"
+      prose: "she looks 'over the top of a magnifier she had pushed up into her hair' (p55); she has Mara hold one corner with the dry hand and holds the other end herself (p74-p75)"
+      line: "ch-01:p55 (line 113); ch-01:p74-p75 (lines 151-153)"
+      note: "the bible's 'Ch.1 as written' addendum already records the magnifier; the original physicality line was not updated."
+      flag: "UNRESOLVED"
+    - id: CH1-3
+      chapter: 1
+      severity: info
+      entity: "august-fenn.first_appearance (tracker note, not the outline)"
+      plan: "ENTITY_STATE note 'named by Szabo Ch.1' (outline Ch.1 itself only quotes 'Her brother. Treasure hunter.')"
+      prose: "Szabo never says his name ('Her brother', p100); the only name on the page is 'A. J. FENN' on the notebook cover (p111)"
+      line: "ch-01:p100 (line 203); ch-01:p111 (line 225)"
+      note: "tracker's own earlier note was imprecise; the first_appearance note is re-stated from the prose. No manuscript action implied."
+      flag: "UNRESOLVED"
   post_patch_flags:   # P1-P5 RESOLVED 2026-10-18 by direct outline edits: Ch.20 opener=narrative (italic notice); Ch.7 'written down as somebody's kin'; Fenn: 34 yrs in the past, waited for THIS door since 62; Ch.43 original tables go through the door inside the notebook; the Corinth notice (autumn 70) reaches Delphi only in spring 71 (Ch.9).
     # Found while re-reading the PATCHED blueprint. Not resolved here (tracker rule 3). flag: UNRESOLVED.
     - { id: P1, where: "outline:ch-20", issue: "chapter header line says 'open: document (a wall graffito) → short-punch'; the ledger row, beat 1 and the opening strategy say an italic lost-property notice of 9–27 words → narrative (audit N-26 moved it to narrative)", flag: "UNRESOLVED" }
@@ -74,9 +108,20 @@ characters:
       - { alias: "Mama", note: "to Lucius and Aelia", source: "outline:ch-39" }
     importance: major
     role: "protagonist; first-person past-tense narrator; horizon = the moment narrated"
-    first_appearance: { chapter: 1, source: "outline:ch-01" }
+    first_appearance: { chapter: 1, source: "ch-01:p1" }
     physical:
-      age: { value: 33, at_chapter: 1, birth_year: 1965, note: "33 in 1998; birth year derived", source: "foundation:§3" }
+      age: { value: 33, at_chapter: 1, birth_year: 1965, note: "33 in 1998; birth year derived. Ch.1: she was twenty-six in December 1991 when the answering machine was installed (consistent with b. 1965); 'the age of nine' = the summer Gloria stayed (1974 or 1975, depending on birthday)", source: "foundation:§3; ch-01:p183; ch-01:p200; ch-01:p166" }
+      hair: { value: "worn up in a knot; after the clip broke 'in the car' she pushed a pencil through it (colour not stated)", at_chapter: 1, source: "ch-01:p162; ch-01:p163; ch-01:p165; ch-01:p166" }
+      clothing_ch1:
+        - { value: "'my good black jacket' with a buttonable pocket (holds the cake in a napkin; later the microcassette, buttoned in); Szabo: 'a good jacket for standing a long time in a room'", source: "ch-01:p1; ch-01:p59; ch-01:p204" }
+        - { value: "no coat from the reception to Pine Street and back (coat left on the rolling rack by the elevators); jacket wet through across the shoulders and dark at the cuffs; wet shoes", source: "ch-01:p29; ch-01:p44; ch-01:p149; ch-01:p166" }
+        - { value: "coat recovered from the rack (Gloria holds it for her); taken off in the kitchen", source: "ch-01:p176; ch-01:p178; ch-01:p182" }
+        - { value: "her father's Seiko buckled on her wrist at the end of the chapter; far too big, slides down over the knuckle of her thumb", source: "ch-01:p207; ch-01:p209" }
+      carries_ch1:
+        - { value: "lemon cake in a paper napkin in the jacket pocket (eaten at the kitchen counter, p182)", source: "ch-01:p1; ch-01:p182" }
+        - { value: "eleven dollars; a check register she does not want to open; checkbook; driver's license", source: "ch-01:p142; ch-01:p152" }
+        - { value: "a key to her father's house", source: "ch-01:p176; ch-01:p177" }
+        - { value: "after the shop: the chart flat between mat boards in a black garbage bag; the Phillies cigar box in an Acme paper sack on her wrist; then Gloria's shopping bag of foil-wrapped ziti", source: "ch-01:p147; ch-01:p149; ch-01:p152; ch-01:p166; ch-01:p174" }
       age_at_eruption: { value: 42, note: "body-age, 33 + 9", source: "foundation:§10" }
       hands: { value: "steady, competent; betray her only at thresholds; touches surfaces to read them", source: "foundation:§3" }
       teeth: { value: "kept clean 'like a religion'; flossed twice daily in 1998", source: "foundation:§3" }
@@ -86,12 +131,17 @@ characters:
     physical_unset: ["eye_color", "hair", "height"]
     traits:
       - { trait: "American; Philadelphia", source: "STATE:ARCH-1", mutable: false }
-      - { trait: "objects conservator at a Philadelphia university museum (basement lab; reglues Roman lamps, stabilizes bronze disease)", source: "foundation:§3", mutable: false }
-      - { trait: "reads Attic Greek and Latin well; speaks neither at first; classroom (Erasmian) pronunciation is comic to 1st-c ears", source: "foundation:§3; outline:ch-07", mutable: true }
+      - { trait: "objects conservator at a Philadelphia university museum (basement lab; reglues Roman lamps, stabilizes bronze disease)", source: "foundation:§3; ch-01:p56 ('I work at the museum. In the conservation—'); ch-01:p62 ('Conservators work Saturdays'); ch-01:p43 ('my department')", mutable: false }
+      - { trait: "reads Attic Greek and Latin well; speaks neither at first; classroom (Erasmian) pronunciation is comic to 1st-c ears", source: "foundation:§3; outline:ch-07; ch-01:p91 ('I read it'); ch-01:p105 (Latin: 'Yes')", mutable: true }
+      - { trait: "reads objects and rooms as a conservator: watches the reception 'the way I watched a cracked pot … to see where the strain had gone'; spots a replaced finial, a bad Staffordshire restoration, the stapled platter's half-drilled holes, a Hogarth restrike, verdigris damage, the tre lune watermark", source: "ch-01:p3; ch-01:p43; ch-01:p54; ch-01:p64; ch-01:p77; ch-01:p80", mutable: false }
+      - { trait: "admires a visible 150-year-old staple repair ('could have kissed him') while noting its maker 'would have been out of work in my department in a week, because you could see it from the street'", source: "ch-01:p43", mutable: true }
+      - { trait: "knows Kastri was moved off the Delphi site in the 1890s at French expense; knows Venetian paper mills by watermark", source: "ch-01:p82; ch-01:p89", mutable: false }
+      - { trait: "writes her father's house phone number on the check by reflex ('an order my hand had known since before I could spell') and lets the check go with the wrong number", source: "ch-01:p142; ch-01:p143; ch-01:p144", mutable: false }
+      - { trait: "lies to deflect: 'I came from work' (p60), 'It's a common name' (p140), 'I ate it' (p154), 'Not much' (p171); does not answer Doug's 'Are you keeping the house?' (p25-p26)", source: "ch-01:p26; ch-01:p60; ch-01:p140; ch-01:p154; ch-01:p171", mutable: true }
       - { trait: "can speak Greek by Ch.32 (argues with Philokrates in it)", source: "outline:ch-32", mutable: true }
       - { trait: "dry, quick, over-prepared, allergic to being looked after", source: "foundation:§3", mutable: true }
       - { trait: "irrelevant obsession: teeth (full surfacings Ch.7, 20, 31; glancing only Ch.2 floss, Ch.5 Kallia inspects hers, Ch.15 Valens's, Ch.24 the midwife's = the book's only introduction-by-teeth; cut from Ch.1, 4, 8, 19, 23; horrified by burnt-horn tooth powder and urine mouthwash; chews a mastic-wood stick)", source: "foundation:§3; outline:checks#4; outline:ch-01", mutable: false }
-      - { trait: "cognitive distortion: all-or-nothing (Ch.1, 5, 7, 9, 20, 29, 33)", source: "foundation:§3; outline:checks#4", mutable: true }
+      - { trait: "cognitive distortion: all-or-nothing (Ch.1, 5, 7, 9, 20, 29, 33)", source: "foundation:§3; outline:checks#4; ch-01:p11 ('There was no staying a little. There was all of that, or there were the stairs.')", mutable: true }
       - { trait: "unprompted memory: Mrs. Dunphy crying at her desk (green cardigan Ch.7; brown Ch.24; unsure it was long division Ch.41)", source: "foundation:§3", mutable: false }
       - trait: "failed emotional management: three breaks — Ch.6 scream at the shut cave wall (the one break the plot earns); Ch.20 weeps at a fountain over a toddler's wet pebble; Ch.22 laughing fit when a man on the benches sneezes (unearned)"
         source: "foundation:§3; outline:checks#4; outline:ch-06; outline:ch-20; outline:ch-22"
@@ -101,7 +151,7 @@ characters:
         resolution_note: "C6: foundation now says three breaks (was two)"
       - { trait: "refuses to speak Greek for a month after being laughed at", source: "outline:ch-05; outline:ch-07", mutable: true }
       - { trait: "refuses to sing at Saturnalia because she cannot do it well; then sings badly", source: "outline:ch-29", mutable: true }
-      - { trait: "evasion: never uses the word 'love' in her narration until Part Two; never states her father's death plainly; never claims to be brave", source: "foundation:§3", mutable: true }
+      - { trait: "evasion: never uses the word 'love' in her narration until Part Two; never states her father's death plainly; never claims to be brave", source: "foundation:§3; confirmed Ch.1: 'memorial reception', 'my father's estate', the stopped watch; no 'died'/'death' in her narration (ch-01:p1; ch-01:p132; ch-01:p206)", mutable: true }
       - { trait: "evasion (narrowed): after Ch.25 she will not put FENN'S DATE in the future tense until Ch.36; hope for an earlier opening (Ch.30) and the Ch.33 debate are allowed", source: "character-bible.md#mara-reyes; audit WARN-013", mutable: true }
       - { trait: "never says 'Margaret' to Fenn (Ch.25, Ch.35)", source: "character-bible.md#mara-reyes; outline:ch-25; outline:ch-35; STATE:ARCH-17", mutable: false }
       - { trait: "keeps tremor notes in the blank back pages of Fenn's notebook from Ch.20 (a private eruption watch; no reckoning)", source: "outline:ch-20; outline:ch-30; outline:ch-36", mutable: true }
@@ -118,7 +168,11 @@ characters:
     voice_markers:
       ref: "character-bible.md#mara-reyes"
     relationships:
-      emilio-reyes: { type: "daughter", established: "outline:ch-01", current_status: "father deceased (January 1998); she keeps his tape, watch, camera" }
+      emilio-reyes: { type: "daughter; grew up in his rowhouse (knelt on the radiator cover watching the corner for his taxis); installed his answering machine with him, December 1991", established: "ch-01:p1", current_status: "father deceased (January 1998); end of Ch.1: she has ejected his greeting tape and is wearing his wound Seiko; the Pentax stays on his shelf", source: "ch-01:p1; ch-01:p179; ch-01:p183; ch-01:p204; ch-01:p207; ch-01:p208" }
+      maras-mother: { type: "daughter; mother lives in Phoenix", established: "ch-01:p3", current_status: "sent lilies and a card ('Thinking of you, sweetheart, today and always'); has said little about Emilio 'since 1981'; off-page" }
+      gloria: { type: "cousin (side not stated on the page; character-bible: father's side)", established: "ch-01:p29", current_status: "Gloria sends her to the house with the ziti and the job of changing the machine's greeting; has known the 'long look' since Mara was nine" }
+      doug-fessler: { type: "her father's dig colleague (eleven seasons in Cyprus, two in Sicily); acquaintance", established: "ch-01:p4", current_status: "offers to clear Emilio's office; asks if she is keeping the house (unanswered)" }
+      pat: { type: "her father's next-door neighbor (on tape only)", established: "ch-01:p184", current_status: "Pat has the blue Tupperware; message erased" }
       valens: { type: "stranger-hire (Ch.6) → yard worker (Ch.11) → lovers (Ch.15) → wife (Ch.18)", established: "outline:ch-06", current_status: "planned: married, parents of Lucius and Aelia" }
       kallia: { type: "unpaid help (Ch.5) → registered dependent kinswoman (Ch.7) → farewell (Ch.16)", established: "outline:ch-05", current_status: "parted autumn AD 71" }
       felix: { type: "household member", established: "outline:ch-11", current_status: "planned: family's first member; fate open after Ch.40" }
@@ -127,16 +181,18 @@ characters:
       august-fenn: { type: "fellow traveler; correspondent; friend; she nurses his death", established: "outline:ch-25", current_status: "planned: Fenn dies winter AD 78-79 (Ch.35)" }
       lucius: { type: "mother", established: "outline:ch-24", current_status: "planned" }
       aelia: { type: "mother", established: "outline:ch-26", current_status: "planned" }
-      halloran: { type: "her father's permit contact; phone only", established: "outline:ch-01", current_status: "1998 only" }
-      irene-szabo: { type: "seller of the map", established: "outline:ch-01", current_status: "1998 only" }
+      halloran: { type: "her father's permit contact; phone only", established: "ch-01:p192", current_status: "1998 only; his Ch.1 message heard and erased; she wrote nothing down (p194)" }
+      irene-szabo: { type: "seller of the map", established: "ch-01:p44", current_status: "1998 only; holds Mara's $1,150 check (bearing Emilio's house phone number) and her license number" }
       theano: { type: "the Pythia who names Pompeii to her", established: "outline:ch-13", current_status: "one meeting" }
     possessions:
-      - { item: "fathers-pentax-k1000", acquired: "outline:ch-01 (on her father's shelf)", status: "packed Ch.2; carried to AD 70; frame 36 Ch.38, roll rewound and removed; camera back on the shelf (not packed)" }
+      - { item: "fathers-pentax-k1000", acquired: "outline:ch-01 (on her father's shelf)", status: "Ch.1: handled (empty film chamber, advance lever stroked) and put back on the shelf over the bureau, strap as he left it (ch-01:p208) — NOT taken in Ch.1; planned: packed Ch.2; carried to AD 70; frame 36 Ch.38, roll rewound and removed; camera back on the shelf (not packed)" }
       - { item: "film-roll", acquired: "outline:ch-02 (fresh roll loaded)", status: "8 frames shot in 1998; canister packed Ch.38; sent through the door Ch.43" }
-      - { item: "microcassette", acquired: "outline:ch-01 (ejected from the answering machine)", status: "sent through the door Ch.43" }
-      - { item: "fathers-seiko-watch", acquired: "outline:ch-01 (nightstand; she winds it)", status: "worn Ch.2-5; paid to Valens Ch.6; returned wound and running Ch.18; on her wrist Ch.43-44" }
-      - { item: "fenn-notebook", acquired: "outline:ch-01 (in the cigar box with the map)", status: "packed Ch.2; tremor notes in its back pages from Ch.20; offered to Fenn and refused Ch.25; read by him and returned Ch.35; sent through the door Ch.43" }
-      - { item: "venetian-map", acquired: "outline:ch-01 (check she can't really afford)", status: "left pinned over her father's desk (Ch.2); not taken to Greece" }
+      - { item: "microcassette", acquired: "ch-01:p204 (ejected from the answering machine's greeting well)", status: "Ch.1: in her jacket pocket, buttoned; planned: sent through the door Ch.43" }
+      - { item: "fathers-seiko-watch", acquired: "ch-01:p206-p207 (nightstand; she winds it, sets it by the clock radio, buckles it on)", status: "Ch.1: on her wrist, ticking; planned: worn Ch.2-5; paid to Valens Ch.6; returned wound and running Ch.18; on her wrist Ch.43-44" }
+      - { item: "fenn-notebook", acquired: "ch-01:p110-p111 (in the Phillies cigar box that 'comes with' the chart)", status: "Ch.1: unread, in the box in the Acme sack on the kitchen table; planned: packed Ch.2; tremor notes in its back pages from Ch.20; offered to Fenn and refused Ch.25; read by him and returned Ch.35; sent through the door Ch.43" }
+      - { item: "phillies-cigar-box", acquired: "ch-01:p110 ('This comes with it … The box is free')", status: "Ch.1: on the kitchen table in the Acme sack, lid lit by the machine's blinking light (p209)" }
+      - { item: "venetian-map", acquired: "ch-01:p131-p147 ($1,150 by check, with a board; Szabo asked $1,400)", status: "Ch.1: flat between gray mat boards in a black garbage bag on her father's kitchen table; planned: left pinned over her father's desk (Ch.2); not taken to Greece" }
+      - { item: "fathers-house-key", acquired: "prior ('You still have a key?' 'I have a key.')", status: "used Ch.1; the lock sticks unless the door is lifted by the knob", source: "ch-01:p176; ch-01:p177; ch-01:p179" }
       - { item: "corycian-knucklebone", acquired: "outline:ch-03 (pocketed from the cave floor)", status: "Lucius's by Ch.26; Lucius gives it to Aelia Ch.41; in Aelia's fist Ch.44" }
       - { item: "flashlight", acquired: "outline:ch-02 (packed)", status: "shown to Valens Ch.15" }
       - { item: "granola-bars", acquired: "outline:ch-02 (packed)", status: "one split with the goat-boy Ch.4" }
@@ -153,7 +209,7 @@ characters:
       - { item: "fenns-coverless-paperback", acquired: "outline:ch-35", status: "stays on the shelf (Ch.38)" }
       - { item: "tremor-notes", acquired: "outline:ch-20 (first entry, back pages of Fenn's notebook)", status: "entry Ch.30; matched against Fenn's tables Ch.36; through the door in the notebook Ch.43" }
     location_log:
-      - { chapter: 1, location: "philadelphia", scene: "museum upper gallery reception → Pine Street, Szabo's shop → reception (coat) → Emilio's rowhouse", travel_noted: false, source: "outline:ch-01" }
+      - { chapter: 1, location: "philadelphia", scene: "university-museum upper gallery (reception, by the Coptic textile case) → STAFF door, back stairs, south loading dock (sleet) → on foot two blocks, cab from Spruce Street over the river to Pine and Tenth → Antique Row → szabo-shop → trolley back, walk down from Thirty-Third Street → upper gallery, coat rack (Gloria), nearly five → emilio-rowhouse (kitchen; then upstairs bedroom; then kitchen, lights off)", travel_noted: true, source: "ch-01:p3; ch-01:p29; ch-01:p34; ch-01:p35; ch-01:p40; ch-01:p43; ch-01:p48; ch-01:p152; ch-01:p156; ch-01:p179; ch-01:p205; ch-01:p209" }
       - { chapter: 2, location: "philadelphia", scene: "her lab; father's study; packing (March–May 1998)", travel_noted: false, source: "outline:ch-02" }
       - { chapter: 3, location: "kalivia-plateau → corycian-cave", scene: "trail up; first chamber; back recess; crossing; out of the cave mouth", travel_noted: true, note: "flight to Athens + KTEL bus to Delphi per foundation:§9; not staged", source: "outline:ch-03" }
       - { chapter: 4, location: "parnassus", scene: "goats, goat-boy, shepherd's stone pen (AD 70)", travel_noted: false, source: "outline:ch-04" }
@@ -200,8 +256,22 @@ characters:
     knowledge:
       - { fact: "Pompeii is destroyed by Vesuvius in AD 79 (1998 education; 1988 plaster-cast exhibition as a graduate student)", learned_chapter: 0, method: "prior_knowledge", first_in_scene: 14, source: "outline:ch-14" }
       - { fact: "Pliny's account: column ~1 p.m. like an umbrella pine; ~18 hours of pumice; roofs collapse; boats cannot land; surges reach Pompeii ~6:30-7:30 a.m. on the 25th; date 24 August", learned_chapter: 0, method: "prior_knowledge", first_in_scene: 36, note: "date stated in present thought Ch.36; hours told to Valens Ch.37", source: "outline:ch-36; outline:ch-37; foundation:§9" }
-      - { fact: "Fenn went to Greece in 1968 and didn't come back; the map came from Margaret Fenn's estate sale", learned_chapter: 1, method: "told_by:irene-szabo", source: "outline:ch-01" }
-      - { fact: "Halloran (Naples) wants a name on Emilio's permit for the Campanian survey season", learned_chapter: 1, method: "told_by:halloran", note: "answering-machine message", source: "outline:ch-01" }
+      - { fact: "the chart (and the cigar box with the notebook) came from Margaret Fenn's estate sale in Chestnut Hill last October (1997): an old lady, no children, a house full of boxes; her brother, a 'treasure hunter', went to Greece in sixty-eight and did not come back; the sister kept his things; the brother wrote on the chart", learned_chapter: 1, method: "told_by:irene-szabo", note: "Szabo does not say the brother's name", source: "ch-01:p96; ch-01:p98; ch-01:p100; ch-01:p102" }
+      - { fact: "the notebook's owner: 'A. J. FENN' on the oilcloth cover, in the same square capitals as the ballpoint on the chart", learned_chapter: 1, method: "discovered", note: "she closes the lid without reading it; notebook unread at chapter end", source: "ch-01:p111; ch-01:p112" }
+      - { fact: "the chart is a Venetian survey from Morosini's war (1687-88), coast sounded by the navy; Szabo bought it because 'the coast is right' and it says Castri, not Delfi; the Fenn lot also held Navy uniforms, forty years of National Geographic and a glassless diving helmet", learned_chapter: 1, method: "told_by:irene-szabo", source: "ch-01:p86; ch-01:p88; ch-01:p117" }
+      - { fact: "Szabo's reading of the ink: the brother was hunting 'a library' (the one people dig for, Alexandria)", learned_chapter: 1, method: "told_by:irene-szabo", note: "Szabo's opinion; Mara notes the question mark after BIBLIOTHECA 'did not look sure'", source: "ch-01:p106; ch-01:p108; ch-01:p109" }
+      - fact: "Halloran (ringing from Naples): the permesso for the Campanian survey season is still in Emilio's name; the Soprintendenza want a name on it by the twentieth of April or the season lapses (then 'one begins again from nothing'); asks whether the family will send anyone; 'It needn't be an archaeologist, strictly, for the paperwork'"
+        learned_chapter: 1
+        method: "told_by:halloran"
+        note: "recorded message on the incoming tape; she wrote nothing down and erased it (p194). Deadline vs character-bible sample line: meta.contradictions CH1-1"
+        source: "ch-01:p192; ch-01:p194"
+      - { fact: "a friend in Nicosia (unnamed) has found Emilio's 1992 Kourion drawings, the whole box, under his bed, and has not heard of the death", learned_chapter: 1, method: "told_by:nicosia-caller", note: "message; she infers he has not heard", source: "ch-01:p188; ch-01:p189" }
+      - { fact: "Pat next door has Emilio's blue Tupperware; Emilio shoveled her walk; the Free Library (Walnut Street West) wants Wild Horses back; the department office booked the upper gallery, Saturday the fourteenth, two o'clock; an unnamed woman breathed 'Oh, Emilio' and hung up", learned_chapter: 1, method: "told_by:pat", note: "all on the incoming tape (method covers Pat's message; the others are told_by their callers)", source: "ch-01:p184; ch-01:p186; ch-01:p190; ch-01:p191" }
+      - { fact: "Tía Nilda (78) phoned the house on Thursday to tell Emilio the memorial time, got his greeting, and had to lie down; the incoming tape is full", learned_chapter: 1, method: "told_by:gloria", source: "ch-01:p176" }
+      - { fact: "Emilio used to talk about rebuilding the porch every season's last week (drawn on the back of a context sheet) and talked about Mara on site 'all the time'", learned_chapter: 1, method: "told_by:doug-fessler", source: "ch-01:p27" }
+      - { fact: "the dean plans a lecture fund in Emilio's name, every spring", learned_chapter: 1, method: "told_by:dean", source: "ch-01:p13" }
+      - { fact: "neighbors have been in the house and stocked the refrigerator (Dorothy's Pyrex: RETURN DISH); someone has a key she did not know about", learned_chapter: 1, method: "inferred", source: "ch-01:p181" }
+      - { fact: "Szabo read a Reyes professor's obituary in the Inquirer in January and asked; Mara deflected ('It's a common name')", learned_chapter: 1, method: "witnessed", source: "ch-01:p139; ch-01:p140; ch-01:p141" }
       - { fact: "Halloran invites her to Campania for July in Emilio's place", learned_chapter: 2, method: "told_by:halloran", source: "outline:ch-02" }
       - { fact: "Fenn's theory: Ptolemaic scrolls carried to 'the cave of the nymphs on Parnassus'; his coordinates", learned_chapter: 2, method: "discovered", source: "outline:ch-02" }
       - { fact: "Fenn (1968) put his hand in at the back of the cave and felt cold air", learned_chapter: 2, method: "discovered", source: "outline:ch-02" }
@@ -248,7 +318,7 @@ characters:
       - { fact: "the backup boat cannot land", learned_chapter: 40, method: "witnessed", source: "outline:ch-40" }
       - { fact: "the door opens before dawn 25 Aug; it takes her; Valens, Lucius and Aelia meet plaster (no one native to its side)", learned_chapter: 42, method: "witnessed", source: "outline:ch-42" }
     arc_waypoints:
-      - { chapter: 1, waypoint: "leaves her father's memorial to look at antiques (the failure)", source: "outline:ch-01" }
+      - { chapter: 1, waypoint: "leaves her father's memorial to look at antiques (the failure); buys the chart; plays his greeting three times, ejects the tape rather than re-record it; winds and wears his watch", source: "ch-01:p1; ch-01:p132; ch-01:p197; ch-01:p200; ch-01:p202; ch-01:p204; ch-01:p207" }
       - { chapter: 3, waypoint: "crosses (1998 → AD 70)", source: "outline:ch-03" }
       - { chapter: 7, waypoint: "becomes Kallia's (legal existence)", source: "outline:ch-07" }
       - { chapter: 13, waypoint: "learns WHERE: Pompeii", source: "outline:ch-13" }
@@ -387,7 +457,7 @@ characters:
       - { alias: "the Chaldean", note: "as rumored in Pompeii", source: "outline:ch-24" }
     importance: major
     role: "vanished treasure hunter, marooned; cautionary mirror; gives the WHEN"
-    first_appearance: { chapter: 2, mode: "documents (notebook)", in_person: 25, source: "outline:ch-02; outline:ch-25", note: "named by Szabo Ch.1" }
+    first_appearance: { chapter: 2, mode: "documents (notebook)", in_person: 25, source: "outline:ch-02; outline:ch-25", note: "first mentioned Ch.1: Szabo calls him only 'her brother … Treasure hunter' (ch-01:p100); his name is on the page only as 'A. J. FENN' on the notebook cover (ch-01:p111); his ink on the chart (ch-01:p84). See meta.contradictions CH1-3." }
     physical:
       age: { value: 68, at_chapter: 25, birth_year: 1934, note: "34 when he vanished (1968); years since landing (AD 41): 34 in Ch.25 (AD 75), 35 in Ch.27 (AD 76), 37–38 in Ch.35 (winter 78–79)", resolved_from_conflict: true, resolved_date: "2026-10-18", resolution_note: "C13: outline Ch.27 now 'thirty-five years'", source: "foundation:§3; foundation:§10; outline:ch-27" }
       build: { value: "thin", source: "foundation:§3" }
@@ -398,6 +468,9 @@ characters:
     traits:
       - { trait: "born Philadelphia 1934; Navy; self-styled treasure hunter (Spanish wreck, Templar cache, Alexandrian scrolls)", source: "foundation:§3", mutable: false }
       - { trait: "English frozen in 1968; perfect formal Greek", source: "foundation:§3", mutable: false }
+      - { trait: "writes in square capitals pressed so hard the pen nearly goes through (chart: coordinates 38° 31′ N / 22° 32′ E, 'BIBLIOTHECA?', a tiny drawn doorway, in blue ballpoint; notebook cover 'A. J. FENN')", source: "ch-01:p84; ch-01:p111", mutable: false }
+      - { trait: "initials A. J. (consistent with the planned consulate slip 'Fenn, August J.')", source: "ch-01:p111; outline:ch-02", mutable: false }
+      - { trait: "his things in Margaret's boxes: Navy uniforms, forty years of National Geographic, a diving helmet with no glass (sold by Szabo to a Wildwood seafood restaurant, now holding a lobster)", source: "ch-01:p117", mutable: false }
       - { trait: "casts horoscopes; teaches rich men's sons geometry", source: "foundation:§3", mutable: false }
       - { trait: "irrelevant obsession: the 1964 Phillies (Ch.25, 26, 29, 35)", source: "foundation:§3; outline:checks#4", mutable: false }
       - { trait: "sunk cost: finishes every terrible jar of wine he has paid for", source: "foundation:§3", mutable: false }
@@ -419,7 +492,9 @@ characters:
       - { item: "fenns-1964-dime", status: "given to Mara Ch.35", source: "outline:ch-35" }
       - { item: "fenns-coverless-paperback", status: "given to Mara Ch.35", source: "outline:ch-35" }
       - { item: "potted-basil", status: "in his upper room", source: "outline:ch-25" }
-      - { item: "fenn-notebook", status: "in the coat he left at the Corycian Cave mouth (1968); a shepherd brought the coat down; the US consulate in Athens forwarded his effects to Margaret; her boxes → estate sale (1997) → Szabo → Mara (Ch.1); refused by him Ch.25; read and returned Ch.35", source: "outline:ch-02; outline:ch-27; foundation:§3; outline:ch-25; outline:ch-35" }
+      - { item: "fenn-notebook", status: "in the coat he left at the Corycian Cave mouth (1968); a shepherd brought the coat down; the US consulate in Athens forwarded his effects to Margaret; her boxes → estate sale (October 1997, ch-01:p96) → Szabo → Mara (Ch.1, in a Phillies cigar box, ch-01:p110); refused by him Ch.25; read and returned Ch.35", source: "outline:ch-02; outline:ch-27; foundation:§3; ch-01:p96; ch-01:p110; outline:ch-25; outline:ch-35" }
+      - { item: "venetian-map", status: "his ballpoint annotations (coordinates, BIBLIOTHECA?, doorway); kept by Margaret; estate sale → Szabo → Mara (Ch.1)", source: "ch-01:p84; ch-01:p100; ch-01:p102" }
+      - { item: "phillies-cigar-box", status: "sold with the chart; holds the notebook on loose tobacco crumbs (whose box it was originally is not stated)", source: "ch-01:p110; ch-01:p111" }
     location_log:
       - { chapter: 25, location: "puteoli", scene: "upper room by the harbor", travel_noted: false, source: "outline:ch-25" }
       - { chapter: 27, location: "cumae", scene: "Sibyl's cave (takes Mara, Lucius and the baby Aelia)", travel_noted: true, source: "outline:ch-27" }
@@ -684,34 +759,63 @@ characters:
     aliases: []
     importance: supporting
     role: "Mara's father (deceased); field archaeologist; present only as objects and the tape"
-    first_appearance: { chapter: 1, mode: "absence (memorial; outgoing message)", source: "outline:ch-01" }
+    first_appearance: { chapter: 1, mode: "absence (memorial; outgoing message)", source: "ch-01:p1; ch-01:p197" }
     physical:
       age: { value: 68, at_death: "January 1998", birth_year: "1929-30", source: "foundation:§10" }
     traits:
-      - { trait: "field archaeologist at a Philadelphia university; eight months a year on digs", source: "foundation:§3; foundation:§11.1", mutable: false }
+      - { trait: "field archaeologist at a Philadelphia university; eight months a year on digs", source: "foundation:§3; foundation:§11.1; ch-01:p5 ('forty years of my father's trenches'); ch-01:p207 ('thirty-odd years of trench walls' — polish cycle 1)", mutable: false }
       - { trait: "promised 'next season, you come with me' for twenty-five years; never took her", source: "foundation:§3", mutable: false }
+      - { trait: "dug in Cyprus (eleven seasons with Doug Fessler; Paphos 1984; Kourion 1992), Sicily (two seasons with Doug) and Turkey (slides)", source: "ch-01:p4; ch-01:p19; ch-01:p28; ch-01:p188", mutable: false }
+      - { trait: "'generous with his time' (Doug's eulogy): climbed into a student's section in his good shirt; gave a Sunday to a village boy; sat up until 2 a.m. over Doug's sherd with a 7 a.m. flight", source: "ch-01:p5; ch-01:p19", mutable: false }
+      - { trait: "showed his dig slides every September at the kitchen table, projected on a bedsheet thumbtacked over the china cabinet", source: "ch-01:p11", mutable: false }
+      - { trait: "read Dick Francis on planes (Wild Horses overdue at the Free Library)", source: "ch-01:p186; ch-01:p187", mutable: false }
+      - { trait: "talked every season of jacking up the sagging porch (drawn on the back of a context sheet); shoveled Pat's walk when home", source: "ch-01:p27; ch-01:p184; ch-01:p179", mutable: false }
+      - { trait: "offended for a week when the store recommended the two-tape answering machine as 'easier for older people' (December 1991)", source: "ch-01:p183", mutable: false }
+      - { trait: "wore his 1966 Seiko daily, took it off at night face up on a folded handkerchief on the nightstand", source: "ch-01:p206", mutable: false }
     voice_markers:
       ref: "character-bible.md#emilio-reyes"
+    greeting_ch1:
+      text: "Hello, you've reached the Reyes house, which means you've reached a machine, because I'm out somewhere digging a hole in somebody else's country. Or I'm in the basement looking for the Christmas lights. Tell me who you are and where you're calling from, and say it slowly, and I'll find you. [aside, lower:] Mara? Which one stops it?"
+      recorded: "c. December 1991 / 'six years ago' (Mara 26, beside him at the counter; he pressed the wrong button and never re-did it); a radio playing 'Brahms or something like Brahms' in the background"
+      source: "ch-01:p196; ch-01:p197; ch-01:p200"
+    relationships:
+      mara-reyes: { type: "father", established: "ch-01:p1", current_status: "deceased" }
+      maras-mother: { type: "former spouse (apart 'since 1981'; character-bible: divorced c. 1981)", established: "ch-01:p3", current_status: "in Phoenix; sent lilies" }
+      doug-fessler: { type: "dig colleague: eleven seasons Cyprus, two Sicily", established: "ch-01:p4", current_status: "gave the eulogy" }
+      pat: { type: "next-door neighbor; he shoveled her walk", established: "ch-01:p184", current_status: "has his blue Tupperware" }
+      nicosia-caller: { type: "friend/colleague in Nicosia (unnamed)", established: "ch-01:p188", current_status: "has not heard of his death; holds his 1992 Kourion drawings" }
+      halloran: { type: "permit contact in Naples (Campanian survey)", established: "ch-01:p192", current_status: "needs a name on the permesso by 20 April" }
+    memorial: { when: "Saturday the fourteenth (March 1998), two o'clock", where: "university museum upper gallery", eulogist: "doug-fessler", note: "a priest gave a reading earlier (Gloria, p157); lilies from Mara's mother; three lemon cakes; slide carousel of his digs", source: "ch-01:p2; ch-01:p3; ch-01:p4; ch-01:p157; ch-01:p190" }
     possessions:
-      - { item: "microcassette", status: "his outgoing message", source: "outline:ch-01" }
-      - { item: "fathers-seiko-watch", status: "stopped on his nightstand", source: "outline:ch-01" }
-      - { item: "fathers-pentax-k1000", status: "on his shelf", source: "outline:ch-01" }
+      - { item: "microcassette", status: "his outgoing message (greeting tape); ejected by Mara Ch.1", source: "ch-01:p204" }
+      - { item: "fathers-seiko-watch", status: "stopped at ten past four on his nightstand; wound and taken by Mara Ch.1", source: "ch-01:p206; ch-01:p207" }
+      - { item: "fathers-pentax-k1000", status: "on the shelf over his bureau; handled and put back Ch.1", source: "ch-01:p208" }
+      - { item: "answering-machine", status: "Panasonic two-tape on the kitchen counter", source: "ch-01:p183" }
+      - { item: "emilio-rowhouse", status: "his house (off Baltimore Avenue); estate with a lawyer on Walnut Street", source: "ch-01:p132; ch-01:p179" }
+      - { item: "cypriot-lamp", status: "chipped nozzle; on the bedroom shelf beside the Pentax", source: "ch-01:p208" }
+      - { item: "kourion-drawings", status: "1992 Kourion drawings, under a friend's bed in Nicosia", source: "ch-01:p188" }
+      - { item: "overdue-library-book", status: "Wild Horses (Dick Francis), overdue to the Free Library, Walnut Street West", source: "ch-01:p186" }
       - { item: "field-notebooks", status: "in his study; Mara does not open them (Ch.2 FLEX)", source: "outline:ch-02" }
-      - { item: "campanian-survey-permit", status: "his name still on it; Halloran needs a replacement", source: "outline:ch-01" }
-    death: { when: "January 1998", age: 68, source: "foundation:§10" }
+      - { item: "campanian-survey-permit", status: "the permesso is still in his name; Halloran needs a name by 20 April", source: "ch-01:p192" }
+    death: { when: "January 1998", age: 68, source: "foundation:§10; ch-01:p139 (Inquirer obituary 'In January'); ch-01:p192 (Halloran: 'since January'); ch-01:p206 (Seiko stopped 'in January')" }
 
   halloran:
     canonical_name: "Prof. Halloran"
     aliases: ["Halloran"]
     importance: minor
     role: "Emilio's permit contact, phoning from Naples"
-    first_appearance: { chapter: 1, mode: "answering machine", source: "outline:ch-01" }
+    first_appearance: { chapter: 1, mode: "answering machine", source: "ch-01:p192" }
     traits:
-      - { trait: "in Naples; handles Emilio's permit for the Campanian survey season", source: "outline:ch-01", mutable: false }
+      - { trait: "in Naples; handles Emilio's permit for the Campanian survey season", source: "ch-01:p192", mutable: false }
+      - { trait: "on the page: says 'ringing', 'rung'; apologizes before the request; never says 'died' ('the family of Professor Reyes', 'since January'); forgets the six-hour time difference; starts to give a fax number (081 552 …) and abandons it", source: "ch-01:p192", mutable: false }
     voice_markers:
       ref: "character-bible.md#prof-halloran"
+    message_ch1:
+      text: "Ah. Hello. This message is for the family of Professor Reyes. Ms. Reyes, I hope. It's Halloran, ringing from Naples. […] I'm very sorry indeed to be ringing about paperwork, of all things, and I'm sorry, I should have rung sooner, since January I've been meaning to. The difficulty is the permit. The permesso for the Campanian survey season is still in Emilio's name, and the Soprintendenza want a name on it by the twentieth of April or the season lapses, and then of course one begins again from nothing, which takes, well. Years, sometimes. I wondered whether the family would be sending anyone. Anyone at all. It needn't be an archaeologist, strictly, for the paperwork. Or you could fax, if it's easier, the number at the office is zero-eight-one, five-five-two, oh, I'll give it again at the end. I'll try you again. It's six hours later here than with you, which I always forget, so forgive me if I've woken anyone. Oh, the fax. No. I'll ring. Well."
+      status: "last message on the incoming tape; erased by Mara (p194); he says he will ring again"
+      source: "ch-01:p192; ch-01:p194"
     location_log:
-      - { chapter: 1, location: "naples", scene: "message on the machine", travel_noted: false, source: "outline:ch-01" }
+      - { chapter: 1, location: "naples", scene: "message on the machine (from 'the office')", travel_noted: false, source: "ch-01:p192" }
       - { chapter: 2, location: "naples", scene: "phone call", travel_noted: false, source: "outline:ch-02" }
     note: "His Campania invitation is a neutral fact with no payoff by design."
 
@@ -720,16 +824,33 @@ characters:
     aliases: ["Szabo"]
     importance: minor
     role: "antiques dealer, Pine Street's Antique Row"
-    first_appearance: { chapter: 1, source: "outline:ch-01" }
+    first_appearance: { chapter: 1, source: "ch-01:p44" }
+    name_on_page: "'I. SZABO' on the window; 'Mrs. Szabo' in narration; first name not spoken (canonical 'Irene' from the plan)"
+    name_source: "ch-01:p43; ch-01:p81; outline:ch-01"
     physical:
-      age: { value: "seventies", at_chapter: 1, source: "outline:ch-01" }
+      age: { value: "seventies", at_chapter: 1, source: "ch-01:p48" }
+      hair: { value: "white braid pinned flat around her head; a magnifier pushed up into it", source: "ch-01:p48; ch-01:p55" }
+      clothing: { value: "liver-colored cardigan (check goes in its pocket); fingerless gloves", source: "ch-01:p48; ch-01:p147" }
+      note: "physicality vs character-bible: meta.contradictions CH1-2"
     traits:
-      - { trait: "Hungarian; brisk; unsentimental; haggles hard", source: "outline:ch-01", mutable: false }
-      - { trait: "bought the map only because the coastline is right for its period; wants it off her shelves; no warning or destiny line", source: "outline:ch-01", mutable: false }
+      - { trait: "Hungarian; brisk; unsentimental; haggles hard", source: "ch-01:p63 (speaks Hungarian to the TV); ch-01:p150; ch-01:p119-p131", mutable: false }
+      - { trait: "bought the map only because the coastline is right for its period; wants it off her shelves; no warning or destiny line", source: "ch-01:p88; ch-01:p125", mutable: false }
+      - { trait: "no contractions in speech; verdicts on fakes ('Greek coins, fake. Greek pots, worse')", source: "ch-01:p72; passim", mutable: false }
+      - { trait: "does not read notebooks ('A notebook belongs to the family'); does not 'split a lot'; does not 'buy stories about the boxes'", source: "ch-01:p102; ch-01:p110; ch-01:p113", mutable: false }
+      - { trait: "does not take checks from strangers, then takes Mara's with her license number and phone across the top", source: "ch-01:p133; ch-01:p137", mutable: true }
+      - { trait: "watches college basketball with the sound off; five dollars on the game with the barber next door (the barber backs 'the ones in red'); pays out from the register", source: "ch-01:p48; ch-01:p127; ch-01:p150", mutable: true }
+      - { trait: "widowed or married ('Mrs.'); not stated which", source: "ch-01:p81", mutable: true }
     voice_markers:
       ref: "character-bible.md#irene-szabo"
+    location_log:
+      - { chapter: 1, location: "szabo-shop", scene: "behind the counter; to the flat files and back", travel_noted: false, source: "ch-01:p44; ch-01:p73" }
     knowledge:
-      - { fact: "the map lot came from Margaret Fenn's estate sale in Chestnut Hill; her brother went to Greece in '68 and didn't come back", learned_chapter: 0, method: "prior_knowledge", source: "outline:ch-01" }
+      - { fact: "the map lot came from Margaret Fenn's estate sale in Chestnut Hill; her brother went to Greece in '68 and didn't come back", learned_chapter: 0, method: "prior_knowledge", source: "outline:ch-01; ch-01:p96; ch-01:p100" }
+      - { fact: "estate sale was last October (1997); the lawyer wanted the house empty by Sunday; the lot held Navy uniforms, forty years of National Geographic, a glassless diving helmet (sold to a Wildwood seafood restaurant)", learned_chapter: 0, method: "witnessed", source: "ch-01:p96; ch-01:p98; ch-01:p117" }
+      - { fact: "paid $800 for the chart; asked $1,400 ('four thousand' undefaced); sold for $1,150 with a board", learned_chapter: 0, method: "prior_knowledge", source: "ch-01:p93; ch-01:p119; ch-01:p127; ch-01:p131" }
+      - { fact: "a Reyes, 'a professor who dug things', had an obituary in the Inquirer in January", learned_chapter: 0, method: "discovered", note: "read it; she lets Mara's 'It's a common name' stand", source: "ch-01:p139; ch-01:p141" }
+      - { fact: "the buyer is Mara Reyes; her license number; a phone number (actually Emilio's house number)", learned_chapter: 1, method: "told_by:mara-reyes", note: "on the check and the receipt pad; Szabo does not know the number is the father's house", source: "ch-01:p137; ch-01:p138; ch-01:p142; ch-01:p147" }
+      - { fact: "Mara works at a museum in conservation and is not buying as a dealer", learned_chapter: 1, method: "told_by:mara-reyes", source: "ch-01:p56; ch-01:p57" }
 
   philokrates:
     canonical_name: "Philokrates"
@@ -792,10 +913,11 @@ characters:
     aliases: ["Margaret"]
     importance: mentioned_only
     role: "August's sister; kept his boxes until her death; never quoted"
-    first_appearance: { chapter: 1, mode: "mentioned by Szabo (estate sale)", source: "outline:ch-01" }
+    first_appearance: { chapter: 1, mode: "mentioned by Szabo (estate sale)", source: "ch-01:p96" }
     traits:
       - { trait: "told people he was in Mexico", source: "outline:ch-02", mutable: false }
-    death: { when: "1997", source: "foundation:§3" }
+      - { trait: "'Old lady, no children, a house full of boxes'; kept her brother's things after he went", source: "ch-01:p96; ch-01:p102", mutable: false }
+    death: { when: "1997", source: "foundation:§3", ch1_note: "dead by the estate sale 'last October' (October 1997); a lawyer wanted the house empty by Sunday (ch-01:p96; ch-01:p98)" }
     voice_markers:
       ref: "character-bible.md#margaret-fenn"
     name_usage: "named by Szabo (Ch.1) and freely in Fenn's 1968 notebook (Ch.2); not spoken in Ch.25 ('estate sale' tells Fenn she is dead; Mara never says the name to him); unnamed in his letters (Ch.26); spoken aloud by him only once, Ch.35"
@@ -813,6 +935,131 @@ characters:
       - { chapter: 41, detail: "Mara unsure it was long division", source: "outline:ch-41" }
     voice_markers:
       ref: "character-bible.md#mrs-dunphy"
+
+  # --- added from the Ch.1 manuscript (2026-10-18) ---
+  doug-fessler:
+    canonical_name: "Doug Fessler"
+    aliases: ["Doug"]
+    importance: minor
+    role: "field archaeologist; Emilio's dig colleague; gave the eulogy"
+    first_appearance: { chapter: 1, source: "ch-01:p4" }
+    physical:
+      distinguishing:
+        - { value: "fresh winter-season sunburn from Jordan, forehead and nose 'the pink of boiled ham'; pale hat-line across the forehead (six weeks in a hat); nose peeling", source: "ch-01:p4; ch-01:p17; ch-01:p26; ch-01:p27" }
+      clothing: { value: "a borrowed tie (his brother-in-law's, an insurance salesman's)", source: "ch-01:p21" }
+    traits:
+      - { trait: "dug beside Emilio eleven seasons in Cyprus and two in Sicily", source: "ch-01:p4", mutable: false }
+      - { trait: "flew in the night before from a winter season in Jordan; Royal Jordanian lost his duffel at Kennedy with six weeks of context sheets (he thinks it is in a cage in Queens)", source: "ch-01:p4; ch-01:p21", mutable: true }
+      - { trait: "cut a page of the eulogy (Paphos 1984, the sherd Emilio sat up with him over) 'because I'd have cried'", source: "ch-01:p19", mutable: false }
+      - { trait: "carries a paper plate with one stick of celery; talks around it", source: "ch-01:p17; ch-01:p21; ch-01:p23", mutable: false }
+      - { trait: "has a brother-in-law who sells insurance", source: "ch-01:p21", mutable: false }
+    voice_markers:
+      ref: "character-bible.md#doug-fessler"
+    relationships:
+      emilio-reyes: { type: "dig colleague", established: "ch-01:p4", current_status: "eulogist" }
+      mara-reyes: { type: "colleague's daughter", established: "ch-01:p17", current_status: "offered to do Emilio's office (boxes, offprints)" }
+    location_log:
+      - { chapter: 1, location: "university-museum", scene: "upper gallery: lectern (eulogy); by the chafing dishes; back toward the screen", travel_noted: true, note: "flew in from Jordan via Kennedy the night before", source: "ch-01:p4; ch-01:p17; ch-01:p28" }
+    knowledge:
+      - { fact: "Emilio meant to jack up the porch (drawn on a context sheet) and talked about Mara on site", learned_chapter: 0, method: "witnessed", source: "ch-01:p27" }
+      - { fact: "Mara was 'in the ladies' room' (Gloria's cover) when he came looking for her", learned_chapter: 1, method: "told_by:gloria", note: "false; Mara was on Pine Street", source: "ch-01:p174" }
+
+  gloria:
+    canonical_name: "Gloria"
+    aliases: []
+    importance: minor
+    role: "Mara's cousin; manages the memorial's practical ledger"
+    first_appearance: { chapter: 1, source: "ch-01:p29" }
+    physical:
+      age: { value: "~36", at_chapter: 1, source: "character-bible.md#gloria (not stated on the page)" }
+      clothing: { value: "navy suit; navy pumps, one heel worn to the plastic, parked under the coat rack; stockinged feet", source: "ch-01:p29; ch-01:p156; ch-01:p174" }
+      distinguishing:
+        - { value: "wore two different earrings all day: a pearl stud and a small gold hoop", source: "ch-01:p157" }
+    traits:
+      - { trait: "guards the guest book; wraps the leftover ziti in individual foil squares; assigns errands", source: "ch-01:p29; ch-01:p156; ch-01:p174", mutable: false }
+      - { trait: "never says Emilio's name ('his machine', 'nobody gets him')", source: "ch-01:p176; character-bible.md#gloria", mutable: false }
+      - { trait: "the long wordless look, known to Mara since age nine; holds a coat open at a child's height", source: "ch-01:p166; ch-01:p176", mutable: false }
+      - { trait: "has a freezer with no room; drives with Ray", source: "ch-01:p174", mutable: false }
+    voice_markers:
+      ref: "character-bible.md#gloria"
+    relationships:
+      ray: { type: "husband ('Fourteen years')", established: "ch-01:p157", current_status: "waiting in the car with the engine running since the reading" }
+      mara-reyes: { type: "cousin (side not stated on the page; bible: father's side)", established: "ch-01:p29", current_status: "sent Mara to the house with the ziti and the machine job" }
+      tia-nilda: { type: "relative ('Tía')", established: "ch-01:p176", current_status: "passes on Nilda's call" }
+    status_log:
+      - { chapter: 1, status: "stayed with Mara's family the summer Mara was nine, when her own mother had the twins (1974 or 1975)", source: "ch-01:p166" }
+    location_log:
+      - { chapter: 1, location: "university-museum", scene: "upper gallery: guest-book table by the coat rack and elevators", travel_noted: false, source: "ch-01:p29; ch-01:p156" }
+    knowledge:
+      - { fact: "Mara bought 'a map', a Venetian chart of the 1680s; price withheld ('Not much'); Gloria reads it as 'the check face'", learned_chapter: 1, method: "told_by:mara-reyes", source: "ch-01:p167; ch-01:p169; ch-01:p171; ch-01:p172" }
+      - { fact: "Tía Nilda phoned Emilio's number Thursday and got his greeting; the machine is full", learned_chapter: 0, method: "told_by:tia-nilda", note: "teller not stated; prior to the chapter", source: "ch-01:p176" }
+    knowledge_absent: ["the notebook / Fenn (she sees only the bag and the sack)", "where Mara went ('Out')"]
+
+  pat:
+    canonical_name: "Pat"
+    aliases: []
+    importance: minor
+    role: "Emilio's next-door neighbor; on the incoming-message tape only"
+    first_appearance: { chapter: 1, mode: "answering-machine message", source: "ch-01:p184" }
+    traits:
+      - { trait: "called the house by habit, then apologized; has 'your Tupperware, I mean his, the blue one'; Emilio shoveled her walk when he was home", source: "ch-01:p184", mutable: false }
+    voice_markers:
+      ref: "character-bible.md#pat"
+    knowledge:
+      - { fact: "Emilio is dead", learned_chapter: 0, method: "prior_knowledge", source: "ch-01:p184" }
+    note: "message erased Ch.1 (p194)"
+
+  maras-mother:
+    canonical_name: "Mara's mother"
+    aliases: []
+    importance: mentioned_only
+    needs_review: true
+    review_note: "unnamed; lives in Phoenix; apart from Emilio 'since 1981' (bible: divorced c. 1981). Needs a name/card only if she returns."
+    first_appearance: { chapter: 1, mode: "mentioned (lilies and card)", source: "ch-01:p3" }
+    traits:
+      - { trait: "sent a tall white spray of lilies, stamens nipped, and a card: 'Thinking of you, sweetheart, today and always'", source: "ch-01:p3", mutable: false }
+
+  ray:
+    canonical_name: "Ray"
+    aliases: []
+    importance: mentioned_only
+    first_appearance: { chapter: 1, mode: "mentioned by Gloria", source: "ch-01:p157" }
+    traits:
+      - { trait: "Gloria's husband (fourteen years); told her the odd earrings were 'a style'; waits in the car with the engine running; won't eat ziti two days running", source: "ch-01:p157; ch-01:p174", mutable: false }
+
+  tia-nilda:
+    canonical_name: "Tía Nilda"
+    aliases: ["Nilda"]
+    importance: mentioned_only
+    first_appearance: { chapter: 1, mode: "mentioned by Gloria", source: "ch-01:p176" }
+    physical:
+      age: { value: 78, at_chapter: 1, source: "ch-01:p176" }
+    traits:
+      - { trait: "forgot; phoned Emilio's house Thursday to tell him the memorial time, got his greeting, and had to lie down", source: "ch-01:p176", mutable: false }
+
+  dorothy:
+    canonical_name: "Dorothy"
+    aliases: []
+    importance: mentioned_only
+    first_appearance: { chapter: 1, mode: "masking tape on a Pyrex lid", source: "ch-01:p181" }
+    traits:
+      - { trait: "a neighbor (inferred); left a Pyrex dish in Emilio's refrigerator labelled DOROTHY / RETURN DISH", source: "ch-01:p181", mutable: false }
+
+  carol:
+    canonical_name: "Carol"
+    aliases: []
+    importance: mentioned_only
+    first_appearance: { chapter: 1, mode: "mentioned by the dean's-office woman", source: "ch-01:p9" }
+    traits:
+      - { trait: "may have baked the third lemon cake (or 'somebody from the slide library' did)", source: "ch-01:p9", mutable: false }
+
+  frank-registrar:
+    canonical_name: "Frank"
+    aliases: ["the registrar"]
+    importance: mentioned_only
+    first_appearance: { chapter: 1, mode: "mentioned by the dean's-office woman", source: "ch-01:p9" }
+    traits:
+      - { trait: "the museum registrar; 'nearly had a stroke' at food in the galleries", source: "ch-01:p9", mutable: false }
 
   # --- unnamed but tracked (narrative function) ---
   plautias-brother:
@@ -932,6 +1179,68 @@ characters:
     traits:
       - { trait: "shelters in a neighboring tomb; shares figs; complains about his landlord", source: "outline:ch-41", mutable: false }
 
+  # --- Ch.1 unnamed walk-ons (manuscript) ---
+  dean:
+    canonical_name: "the dean"
+    aliases: []
+    importance: minor
+    first_appearance: { chapter: 1, source: "ch-01:p3" }
+    traits:
+      - { trait: "jingles the change in his pocket whenever someone says 'Emilio'; plans a spring lecture fund in Emilio's name ('He'd have hated it'); offers Mara a ride", source: "ch-01:p3; ch-01:p12; ch-01:p13; ch-01:p15", mutable: false }
+
+  deans-office-woman:
+    canonical_name: "the woman from the dean's office"
+    aliases: ["the lid-lifter"]
+    importance: minor
+    first_appearance: { chapter: 1, source: "ch-01:p2" }
+    traits:
+      - { trait: "lifts the chafing-dish lids; presses the lemon cake on Mara; worries the Sterno will trip the detectors (the fire department billed them for the Christmas party); 'Good girl'", source: "ch-01:p2; ch-01:p6; ch-01:p9; ch-01:p153; ch-01:p155", mutable: false }
+    knowledge:
+      - { fact: "Mara ate the cake", learned_chapter: 1, method: "told_by:mara-reyes", note: "false at the time (cake still in her pocket)", source: "ch-01:p154" }
+
+  loading-dock-guard:
+    canonical_name: "the loading-dock security guard"
+    aliases: []
+    importance: minor
+    first_appearance: { chapter: 1, source: "ch-01:p29" }
+    traits:
+      - { trait: "eating a soft pretzel under the overhang; offers to call a cab ('Nobody finds one in this')", source: "ch-01:p29; ch-01:p31; ch-01:p33", mutable: false }
+
+  cab-driver:
+    canonical_name: "the cab driver"
+    aliases: []
+    importance: minor
+    first_appearance: { chapter: 1, source: "ch-01:p35" }
+    traits:
+      - { trait: "radio gardening show (roses in burlap); wife's eleven rosebushes; mulch from 'the place in Jersey', always 'the wrong mulch'; pulls up at a hydrant", source: "ch-01:p35; ch-01:p38; ch-01:p39; ch-01:p42", mutable: false }
+
+  nicosia-caller:
+    canonical_name: "the caller from Nicosia"
+    aliases: []
+    importance: minor
+    needs_review: true
+    review_note: "unnamed friend of Emilio's; open errand (the drawings) but no planned return"
+    first_appearance: { chapter: 1, mode: "answering-machine message", source: "ch-01:p188" }
+    traits:
+      - { trait: "shouts cheerfully over a bad line; found Emilio's Kourion drawings ('ninety-two, the whole box') under his bed; proposes dinner 'at the place by the walls'", source: "ch-01:p188", mutable: false }
+    knowledge_absent: ["Emilio's death (he had not heard, ch-01:p189)"]
+
+  unnamed-woman-caller:
+    canonical_name: "the woman who did not leave her name"
+    aliases: []
+    importance: minor
+    needs_review: true
+    review_note: "breathes, says 'Oh, Emilio', hangs up; identity not given"
+    first_appearance: { chapter: 1, mode: "answering-machine message", source: "ch-01:p191" }
+
+  department-office-caller:
+    canonical_name: "the department office caller"
+    aliases: []
+    importance: minor
+    first_appearance: { chapter: 1, mode: "answering-machine message", source: "ch-01:p190" }
+    traits:
+      - { trait: "confirms the upper gallery, Saturday the fourteenth, two o'clock; 'The coffee's taken care of'", source: "ch-01:p190", mutable: false }
+
 # =====================================================================
 # LOCATIONS
 # =====================================================================
@@ -943,20 +1252,79 @@ locations:
     aliases: []
     facts:
       - { fact: "modern frame city; Mara is American", source: "STATE:ARCH-1" }
-      - { fact: "university museum: upper gallery (memorial reception); Mara's basement conservation lab", source: "outline:ch-01; foundation:§3" }
-      - { fact: "Pine Street's Antique Row: Irene Szabo's shop; sleet in March", source: "outline:ch-01" }
-      - { fact: "Emilio's rowhouse: answering machine, nightstand (Seiko), shelf (Pentax), study (field notebooks); Mara waited at its window as a child", source: "outline:ch-01; outline:ch-02; foundation:§3" }
-      - { fact: "Chestnut Hill: Margaret Fenn's estate sale", source: "outline:ch-01" }
+      - { fact: "university museum: upper gallery (memorial reception); Mara's basement conservation lab", source: "ch-01:p2 (upper gallery); foundation:§3 (basement lab, not yet on the page)" }
+      - { fact: "Pine Street's Antique Row: Irene Szabo's shop; sleet in March", source: "ch-01:p29; ch-01:p43" }
+      - { fact: "Emilio's rowhouse: answering machine, nightstand (Seiko), shelf (Pentax), study (field notebooks); Mara waited at its window as a child", source: "ch-01:p179; ch-01:p183; ch-01:p206; ch-01:p208 (Pentax shelf is over the bedroom bureau); outline:ch-02 (study); foundation:§3" }
+      - { fact: "Chestnut Hill: Margaret Fenn's estate sale", source: "ch-01:p96" }
       - { fact: "Chestnut Street: the Horn & Hardart automat (Fenn's memory)", source: "foundation:§3" }
       - { fact: "Fenn's 1968 hall table where he left Margaret a note", source: "outline:ch-26; outline:ch-35" }
       - { fact: "the Venetian chart stays pinned over Emilio's desk when Mara leaves", source: "outline:ch-02" }
+      - { fact: "Ch.1 weather, Saturday 14 March 1998: sleet in the afternoon ('cold sand' in the collar); plain rain by nearly five and after dark", source: "ch-01:p29; ch-01:p35; ch-01:p152; ch-01:p179" }
+      - { fact: "Spruce Street (cab found two blocks from the museum's loading dock); the cab crosses the river (water 'the color of an old nickel') to Pine Street at Tenth", source: "ch-01:p35; ch-01:p39; ch-01:p40" }
+      - { fact: "Antique Row: three blocks of narrow fronts (a tall-case clock with a replaced finial; Staffordshire dogs badly restored); szabo-shop among them", source: "ch-01:p43" }
+      - { fact: "a trolley runs back toward the museum; Mara walks down from Thirty-Third Street", source: "ch-01:p152" }
+      - { fact: "a lawyer's office on Walnut Street holds Emilio's estate 'waiting for a form'", source: "ch-01:p132" }
+      - { fact: "the Free Library of Philadelphia, Walnut Street West branch (Emilio's overdue book)", source: "ch-01:p186" }
+      - { fact: "Chestnut Hill: Margaret Fenn's house, emptied for the estate sale last October; Bryn Mawr: where a decorator would hang the chart over a sofa", source: "ch-01:p96; ch-01:p125" }
+      - { fact: "the Acme (supermarket): the memorial sheet cake; Szabo's paper sack", source: "ch-01:p2; ch-01:p149" }
+      - { fact: "elsewhere mentioned in Ch.1: Jersey (mulch); Wildwood (a seafood restaurant with Fenn's diving helmet); Kennedy airport / Queens (Doug's lost duffel)", source: "ch-01:p38; ch-01:p117; ch-01:p21" }
+
+  university-museum:
+    canonical_name: "the university museum (Philadelphia)"
+    era: "1998"
+    aliases: ["the museum"]
+    note: "not named on the page; organization entry philadelphia-university-museum"
+    facts:
+      - { fact: "upper gallery: emptied of cases for the memorial except a long bolted-down run of Coptic textiles; parquet floor; folding tables of food (baked ziti, arroz con pollo, a crockpot of meatballs, an Acme sheet cake piped with a trowel, three lemon cakes); Sterno under chafing dishes; a slide carousel on a screen borrowed from the classroom wing", source: "ch-01:p1; ch-01:p2" }
+      - { fact: "coat rack on rollers and the guest-book table by the elevators", source: "ch-01:p29" }
+      - { fact: "a door marked STAFF to the back stairs: poured concrete painted battleship gray, handrail wrapped in electrical tape; out to a loading dock with an overhang on the south side of the building", source: "ch-01:p29" }
+      - { fact: "front steps (Mara returns by them, nearly five)", source: "ch-01:p152" }
+    distances:
+      - { to: "szabo-shop", value: "cab from Spruce Street over the river to Pine and Tenth; trolley back plus a walk down from Thirty-Third Street", source: "ch-01:p35; ch-01:p40; ch-01:p152" }
+
+  szabo-shop:
+    canonical_name: "I. Szabo · Maps · Prints · Small Antiques (Pine Street)"
+    era: "1998"
+    aliases: ["Szabo's shop"]
+    facts:
+      - { fact: "on Antique Row, Pine Street (Mara gets out at Tenth); window lettered in flaking gold 'I. SZABO · MAPS · PRINTS · SMALL ANTIQUES'; a stapled Chinese export platter on a wire stand in the window", source: "ch-01:p40; ch-01:p43" }
+      - { fact: "door kept locked; buzzer and a speaker over the door; the door sticks ('Pull the door hard')", source: "ch-01:p44; ch-01:p151" }
+      - { fact: "deep and narrow; smells of foxed paper and space-heater dust (orange bars by the counter); framed prints frame to frame (botanical plates; a Hogarth restrike at $40; the Battery in 1840; a 1796 map of Philadelphia with a coffee ring across Southwark); gray steel flat files at the back; glass counter; a small TV on a shelf; a mat at the door; a ledger; an old board cutter", source: "ch-01:p48; ch-01:p51; ch-01:p65; ch-01:p66; ch-01:p73; ch-01:p147" }
+      - { fact: "a barber next door (Szabo's five-dollar bet)", source: "ch-01:p127" }
+
+  emilio-rowhouse:
+    canonical_name: "Emilio Reyes's rowhouse"
+    era: "1998"
+    aliases: ["the house", "the Reyes house"]
+    facts:
+      - { fact: "on a narrow street off Baltimore Avenue; fourth in a row of twelve; porch sags toward the middle 'like a hammock'; a front window with the radiator under it (child Mara knelt on the radiator cover to watch the corner for taxis); a humming streetlight in front", source: "ch-01:p179" }
+      - { fact: "the key sticks unless the door is lifted by the knob", source: "ch-01:p179" }
+      - { fact: "Ch.1 state: two months of mail on the hall floor; refrigerator stocked by neighbors (foil, Tupperware, Dorothy's Pyrex), eggs with a January date, a jar of pickles; Gloria's ziti added", source: "ch-01:p180; ch-01:p181" }
+      - { fact: "kitchen: table (china cabinet once in the room where slides were shown), counter, wall phone, the answering machine on the counter, a window over the sink", source: "ch-01:p11; ch-01:p181; ch-01:p183; ch-01:p209" }
+      - { fact: "upstairs bedroom: radiator turned down; bed made badly; nightstand (Seiko on a folded handkerchief); clock radio with red numbers; shelf over the bureau (Pentax, a Cypriot lamp with a chipped nozzle, bathtub-swollen paperbacks); a basement (the greeting mentions Christmas lights)", source: "ch-01:p197; ch-01:p206; ch-01:p207; ch-01:p208" }
+      - { fact: "phone number: one Mara has known by hand since before she could spell; written on Szabo's check", source: "ch-01:p142" }
+      - { fact: "someone besides Mara has a key (neighbors have been in)", source: "ch-01:p181" }
+
+  nicosia:
+    canonical_name: "Nicosia (1998)"
+    era: "1998"
+    aliases: []
+    facts:
+      - { fact: "home of the unnamed friend with Emilio's 1992 Kourion drawings; raining; 'the place by the walls'", source: "ch-01:p188; ch-01:p189" }
+
+  phoenix:
+    canonical_name: "Phoenix (1998)"
+    era: "1998"
+    aliases: []
+    facts:
+      - { fact: "where Mara's mother lives (sent lilies)", source: "ch-01:p3" }
 
   naples:
     canonical_name: "Naples (1998)"
     era: "1998"
     aliases: []
     facts:
-      - { fact: "Halloran phones from here about the Campanian survey season", source: "outline:ch-01" }
+      - { fact: "Halloran phones from here about the Campanian survey season ('the office'; fax number begins 081 552; six hours ahead of Philadelphia)", source: "ch-01:p192" }
 
   kalivia-plateau:
     canonical_name: "Kalivia plateau"
@@ -1176,7 +1544,7 @@ locations:
 # TIMELINE (planned; one entry per chapter)
 # =====================================================================
 timeline:
-  - { chapter: 1, time: "March, day of the memorial; ends near dark", season: "late winter (sleet)", year: 1998, note: "no dateline in Part One", source: "outline:ch-01; foundation:§10" }
+  - { chapter: 1, time: "Saturday 14 March 1998: forty minutes into the 2 p.m. memorial reception (~2:40) → Pine Street → back at the museum 'nearly five' → the house 'nearly dark'", season: "late winter (sleet turning to rain)", year: 1998, note: "no dateline in Part One. Date from the department office message 'Saturday the fourteenth, two o'clock' + Szabo's 'On a Saturday' + March (plan); 14 March 1998 is a Saturday. Gloria: Mara gone 'Two hours'. Emilio died in January (obituary, Seiko, Halloran); 'two months of mail'. Tía Nilda's call 'Thursday' = 12 March.", source: "ch-01:p1; ch-01:p61; ch-01:p152; ch-01:p174; ch-01:p176; ch-01:p179; ch-01:p180; ch-01:p190; outline:ch-01" }
   - { chapter: 2, time: "eight weeks, March–May", season: "spring", year: 1998, note: "", source: "outline:ch-02" }
   - { chapter: 3, time: "one day", season: "spring (May) → steps out into 'the wrong season'", year: "1998 → AD 70", note: "the crossing", source: "outline:ch-03; foundation:§10" }
   - { chapter: 4, time: "her first hour", season: "autumn", year: "AD 70", note: "she does not know the year; do not date it here", source: "outline:ch-04" }
@@ -1233,9 +1601,18 @@ timeline_events:
   - { date: "1968 (after his disappearance)", event: "a shepherd brings the coat down; the US consulate in Athens forwards Fenn's effects to Margaret", source: "foundation:§3; outline:ch-02" }
   - { date: "1988", event: "Mara sees an exhibition of the Pompeii plaster casts as a graduate student", source: "outline:ch-14" }
   - { date: "1991", event: "Mara visits the Roman Forum as a student", source: "outline:ch-22" }
+  - { date: "1687-88", event: "Morosini's war: the Venetian navy sounds the Morea coast; the chart is engraved (paper with the tre lune watermark)", source: "ch-01:p80; ch-01:p86" }
+  - { date: "1890s", event: "the village of Kastri moved off the Delphi site, the French paying (Mara's knowledge)", source: "ch-01:p89" }
+  - { date: "summer 1974 or 1975", event: "Gloria stays with the Reyes family while her mother has twins; Emilio's taxi leaves for Sicily (Mara aged nine; changed from Cyprus in polish cycle 1 — 1974 was the invasion summer)", source: "ch-01:p166" }
+  - { date: "1981", event: "Mara's mother stops speaking of Emilio (character-bible: divorced c. 1981)", source: "ch-01:p3" }
+  - { date: "1984", event: "Paphos: Emilio sits up until 2 a.m. with Doug over an unplaced sherd before a 7 a.m. flight", source: "ch-01:p19" }
+  - { date: "December 1991", event: "Mara (26) and Emilio install the Panasonic two-tape answering machine; he records the greeting ('Mara? Which one stops it?')", source: "ch-01:p183; ch-01:p196; ch-01:p200" }
+  - { date: "1992", event: "Emilio's Kourion drawings (later found under a friend's bed in Nicosia)", source: "ch-01:p188" }
   - { date: "1997", event: "Margaret Fenn dies; estate sale in Chestnut Hill", source: "foundation:§3; outline:ch-01" }
-  - { date: "January 1998", event: "Emilio Reyes dies, aged 68", source: "foundation:§10" }
-  - { date: "March 1998", event: "memorial; map bought (Ch.1)", source: "foundation:§10" }
+  - { date: "October 1997", event: "the Margaret Fenn estate sale, Chestnut Hill; Szabo buys the lot (chart $800; cigar box and notebook; Navy uniforms; National Geographics; diving helmet)", source: "ch-01:p96; ch-01:p117; ch-01:p127" }
+  - { date: "January 1998", event: "Emilio Reyes dies, aged 68; Inquirer obituary in January; his Seiko stops at ten past four", source: "foundation:§10; ch-01:p139; ch-01:p206" }
+  - { date: "Thursday 12 March 1998", event: "Tía Nilda phones Emilio's house and hears his greeting", source: "ch-01:p176" }
+  - { date: "Saturday 14 March 1998", event: "memorial reception, museum upper gallery, 2 p.m.; Mara buys the chart for $1,150; ejects the greeting tape; winds the Seiko (Ch.1)", source: "ch-01:p190; ch-01:p131; ch-01:p204; ch-01:p207; foundation:§10" }
   - { date: "May 1998", event: "Mara crosses (Ch.3)", source: "foundation:§10" }
   - { date: "c. AD 38", event: "Valens born in Thrace", source: "foundation:§3" }
   - { date: "AD 41", event: "Fenn lands in the past", source: "foundation:§3" }
@@ -1288,10 +1665,14 @@ ages_at_eruption:
 objects:
 
   microcassette:
-    introduced: "outline:ch-01"
+    introduced: "ch-01:p204"
     description: "answering-machine microcassette with Emilio's outgoing message; carried nine years with no machine to play it"
+    physical: { value: "no bigger than a matchbook; two white hubs; brown tape behind a clear plastic window; blank label; 'weighed less than the cake had'", source: "ch-01:p204" }
+    content: { value: "Emilio's greeting, recorded c. December 1991 (see characters.emilio-reyes.greeting_ch1)", source: "ch-01:p196; ch-01:p197" }
     status: "chekhov_open"
     planted: 1
+    ch1_detail: "played three times via GREETING (p195-p203); her finger rests on RECORD GREETING and lifts; ejected from its well behind the left smoked door and buttoned into her jacket pocket where the napkin had been (p204). The machine is left with an empty greeting well, light slow-blinking (p209)."
+    ch1_source: "ch-01:p195; ch-01:p200; ch-01:p202; ch-01:p204; ch-01:p209"
     touches:
       - { chapter: 2, detail: "packed in a sock", source: "outline:ch-02" }
       - { chapter: 5, detail: "touched in its sock, no comment", source: "outline:ch-05" }
@@ -1309,11 +1690,13 @@ objects:
     resolution: { chapter: 43, description: "sent through the door to the other side, first (narration says 'the other side' / 'her own century', not '1998')", planned: true }
 
   fathers-pentax-k1000:
-    introduced: "outline:ch-01"
+    introduced: "ch-01:p208"
     description: "Emilio's mechanical Pentax K1000"
+    physical: { value: "black-and-chrome K1000; worn strap wound round it in the same three turns; 'the weight of a good brick'; smells of leatherette and light machine oil; film chamber empty and clean, pressure plate bright; advance lever ratchets", source: "ch-01:p208" }
     status: "chekhov_open"
     planted: 1
     beats:
+      - { chapter: 1, detail: "on the shelf over Emilio's bureau; Mara opens the back (empty), works the advance lever, and puts it back with the strap as he left it", source: "ch-01:p208" }
       - { chapter: 2, detail: "packed with a fresh roll; no flash unit (the K1000 has none)", source: "outline:ch-02" }
       - { chapter: 3, detail: "photographs on the path; counter reads 9 = eight frames shot (not mentioned)", source: "outline:ch-03" }
       - { chapter: 12, detail: "swung as a weapon; survives; plastic lens cap lost in the dust; no flash appears", source: "outline:ch-12" }
@@ -1325,7 +1708,7 @@ objects:
       - { chapter: 27, detail: "named frame: Fenn on the Cumae road trying to light the dead Zippo", source: "outline:ch-27" }
       - { chapter: 38, detail: "frame 36 on the mountain at dawn; she rewinds and removes the roll; the camera goes back on the shelf", source: "outline:ch-38" }
     paid: 38
-    last_mentioned: "outline:ch-38"
+    last_mentioned: "ch-01:p208 (manuscript); planned outline:ch-38"
     resolution: { chapter: 38, description: "frame 36 spent; roll removed; camera left on the shelf (not packed)", planned: true }
 
   film-roll:
@@ -1356,12 +1739,13 @@ objects:
     resolution: { chapter: 43, description: "canister (packed Ch.38) sent through the door to the other side, undeveloped (narration never asserts '1998' beyond Ch.42's '1998, or near it')", planned: true }
 
   fathers-seiko-watch:
-    introduced: "outline:ch-01"
+    introduced: "ch-01:p206"
     description: "Emilio's 1966 hand-wound Seiko; stopped on his nightstand; Mara winds it"
+    physical: { value: "steel case scratched in fine circles from trench walls; crystal nicked at two o'clock; steel band; must be wound by hand daily; far too big for Mara's wrist (slides over the knuckle of her thumb)", source: "ch-01:p206; ch-01:p207" }
     status: "chekhov_open"
     planted: 1
     custody:
-      - { chapter: 1, holder: "mara-reyes", detail: "wound from stopped", source: "outline:ch-01" }
+      - { chapter: 1, holder: "mara-reyes", detail: "found face up on a folded handkerchief, band coiled, stopped at ten past four (stopped 'in January'); wound by the crown until stiff, set by the clock radio's red numbers, buckled on; ticking 'quick and light'", source: "ch-01:p206; ch-01:p207; ch-01:p209" }
       - { chapter: 2, holder: "mara-reyes", detail: "on her wrist", source: "outline:ch-02" }
       - { chapter: 5, holder: "mara-reyes", detail: "ticking in the storeroom", source: "outline:ch-05" }
       - { chapter: 6, holder: "valens", detail: "payment; he winds it the wrong way (backward) until she stops him; keeps it", source: "outline:ch-06" }
@@ -1393,10 +1777,14 @@ objects:
     resolution: { chapter: 44, description: "in Aelia's fist at the end", planned: true }
 
   fenn-notebook:
-    introduced: "outline:ch-01"
+    introduced: "ch-01:p111"
     description: "August Fenn's notebook (1967-68), in a cigar box with the map; handwriting goes from capitals to small tired script"
+    physical: { value: "black oilcloth cover; elastic band perished, lying across it in two dry pieces; 'A. J. FENN' on the cover in square capitals; cover warped from damp and dried again; lies on loose tobacco crumbs in a Phillies cigar box", source: "ch-01:p111; ch-01:p209" }
     status: "chekhov_open"
     planted: 1
+    ch1_detail: "not opened (Mara closes the box lid; Szabo has not read it); at chapter end in the box in the Acme sack on Emilio's kitchen table"
+    ch1_source: "ch-01:p111; ch-01:p112; ch-01:p113; ch-01:p209"
+    last_mentioned_manuscript: "ch-01:p209"
     provenance: "in the coat Fenn left at the Corycian Cave mouth (1968); a shepherd brought it down; the US consulate in Athens forwarded his effects to Margaret (effects slip folded inside the back cover); her boxes → 1997 estate sale → Szabo's cigar box → Mara"
     provenance_source: "outline:ch-02; outline:ch-27; foundation:§3"
     beats:
@@ -1414,12 +1802,24 @@ objects:
     resolution: { chapter: 43, description: "sent through the door to the other side ('Fenn's things go home without him')", planned: true }
 
   venetian-map:
-    introduced: "outline:ch-01"
+    introduced: "ch-01:p75"
     description: "1680s Venetian chart of the Gulf of Corinth and Phocis; modern ink coordinates on Parnassus, 'BIBLIOTHECA?', a drawn doorway; accurate for its period (not a fake)"
-    status: "chekhov_closed"
+    physical:
+      - { value: "copperplate engraving on a sheet ~20 inches wide; plate mark a bevelled step on all four sides", source: "ch-01:p76" }
+      - { value: "hand-colored soon after printing: land in yellow ochre, coastlines in verdigris green; the verdigris has eaten through the northern shore of the gulf in long fine slots (six places per Mara, seven per Szabo)", source: "ch-01:p76; ch-01:p120; ch-01:p121" }
+      - { value: "Italian lettering: GOLFO DI LEPANTO; Salona inland on a river; hachured mountains with M. Parnaso; a cluster of four tiny houses labelled Castri", source: "ch-01:p79" }
+      - { value: "watermark: three diminishing crescent moons (tre lune), Venetian mills", source: "ch-01:p80; ch-01:p81; ch-01:p83" }
+      - { value: "blue ballpoint above Castri: 38° 31′ N and 22° 32′ E; under them BIBLIOTHECA? in square capitals pressed nearly through; beside it a fingernail-sized freehand doorway (arch on two posts, inside scribbled dark); embossed in reverse on the back", source: "ch-01:p84" }
+      - { value: "dated by Szabo to Morosini's war, 1687-88 (Venetian naval survey); 'Three hundred years it eats'", source: "ch-01:p78; ch-01:p86" }
+    provenance: "Margaret Fenn estate sale, Chestnut Hill, October 1997 → Szabo's flat files (between yellowed tissue) → Mara"
+    provenance_source: "ch-01:p73; ch-01:p96"
+    price: { value: "asked $1,400 ('four thousand' undefaced); Szabo paid $800; sold for $1,150 by check, with a board", source: "ch-01:p93; ch-01:p119; ch-01:p127; ch-01:p131" }
+    packaging_ch1: { value: "in its tissue between two pieces of gray mat board, edges taped with brown paper tape, inside a black garbage bag; carried flat; on Emilio's kitchen table at chapter end", source: "ch-01:p147; ch-01:p149; ch-01:p181; ch-01:p209" }
+    status: "chekhov_open"
+    planned_status: "chekhov_closed (paid Ch.3 via the coordinates; chart stays in Philadelphia)"
     planted: 1
     paid: 3
-    last_mentioned: "outline:ch-02"
+    last_mentioned: "ch-01:p209 (manuscript); planned outline:ch-02"
     resolution: { chapter: 3, description: "its coordinates (copied into Fenn's notebook) lead to the crossing; the chart stays pinned over Emilio's desk (Ch.2); it never went to Greece in 1968 either", planned: true }
 
   fenn-tables:
@@ -1668,12 +2068,105 @@ objects:
     resolution: null
 
   campanian-survey-permit:
-    introduced: "outline:ch-01"
+    introduced: "ch-01:p192"
     description: "Emilio's permit for the Campanian survey season (Halloran)"
+    detail_ch1: { value: "the permesso is still in Emilio's name; the Soprintendenza want a name on it by the twentieth of April or the season lapses; it needn't be an archaeologist 'for the paperwork'", source: "ch-01:p192" }
     status: "background"
-    last_mentioned: "outline:ch-02"
+    last_mentioned: "ch-01:p192 (manuscript); planned outline:ch-02"
     resolution: null
-    note: "neutral fact; no payoff by design"
+    note: "neutral fact; no payoff by design. Deadline vs character-bible sample line: meta.contradictions CH1-1"
+
+  answering-machine:
+    introduced: "ch-01:p183"
+    description: "Emilio's Panasonic two-tape answering machine: two smoked-plastic doors, one microcassette for the greeting, one for messages; buttons PLAY, ERASE, GREETING, RECORD GREETING; installed by Mara in December 1991"
+    status: "background"
+    beats:
+      - { chapter: 1, detail: "red light blinking fast (tape full); six messages played (Pat; Free Library; Nicosia; department office; an unnamed woman; Halloran); messages erased (light to solid red); greeting played three times; greeting tape ejected; light changes to a slow blink that lights the cigar-box lid", source: "ch-01:p183; ch-01:p184; ch-01:p194; ch-01:p204; ch-01:p209" }
+    last_mentioned: "ch-01:p209"
+    resolution: null
+
+  phillies-cigar-box:
+    introduced: "ch-01:p110"
+    description: "a Phillies cigar box, paper label worn soft and faded to weak-tea brown; loose tobacco crumbs inside; holds the Fenn notebook; sold 'free' with the chart"
+    status: "background"
+    beats:
+      - { chapter: 1, detail: "put in an Acme paper sack; on Emilio's kitchen table; its lid lit by the machine's blinking light (closing image)", source: "ch-01:p149; ch-01:p181; ch-01:p209" }
+    last_mentioned: "ch-01:p209"
+    resolution: null
+
+  szabo-check:
+    introduced: "ch-01:p142"
+    description: "Mara's check to Szabo, 'Eleven hundred fifty and 00/100', with her license number; the phone number written is Emilio's house number (by reflex), the last digit dented"
+    status: "chekhov_open"
+    planned: false
+    beats:
+      - { chapter: 1, detail: "torn out and handed over with the wrong number; Szabo folds it into her cardigan pocket; receipt pad reads 'One chart, Venetian, defaced, with box'", source: "ch-01:p141; ch-01:p143; ch-01:p144; ch-01:p147" }
+    note: "unplanned object with narrative emphasis; Mara cannot cover it from her pocket (eleven dollars) and the estate is with a lawyer"
+    last_mentioned: "ch-01:p147"
+    resolution: null
+
+  lemon-cake:
+    introduced: "ch-01:p1"
+    description: "a square of the third (worst-looking) lemon cake, pressed on Mara by the dean's-office woman, carried in a napkin in her jacket pocket all afternoon"
+    status: "chekhov_closed"
+    last_mentioned: "ch-01:p182"
+    resolution: { chapter: 1, paragraph: 182, description: "eaten with her fingers at Emilio's kitchen counter in four bites; it was good" }
+
+  stapled-platter:
+    introduced: "ch-01:p43"
+    description: "Chinese export platter (c. 1820) in Szabo's window, crack bridged by four iron staples set in half-drilled holes (a visible old repair Mara admires)"
+    status: "background"
+    last_mentioned: "ch-01:p54"
+    resolution: null
+
+  dorothys-pyrex-dish:
+    introduced: "ch-01:p181"
+    description: "a Pyrex dish under plastic wrap in Emilio's refrigerator, masking tape: DOROTHY / RETURN DISH; the ziti goes on top of it"
+    status: "background"
+    last_mentioned: "ch-01:p181"
+    resolution: null
+
+  pats-blue-tupperware:
+    introduced: "ch-01:p184"
+    description: "Emilio's blue Tupperware, at Pat's next door"
+    status: "background"
+    last_mentioned: "ch-01:p184"
+    resolution: null
+
+  overdue-library-book:
+    introduced: "ch-01:p186"
+    description: "Wild Horses (Dick Francis), overdue to the Free Library, Walnut Street West branch; location in the house not stated"
+    status: "background"
+    last_mentioned: "ch-01:p187"
+    resolution: null
+
+  kourion-drawings:
+    introduced: "ch-01:p188"
+    description: "Emilio's 1992 Kourion drawings, 'the whole box', found under a friend's bed in Nicosia; the friend asks whether to send them"
+    status: "background"
+    last_mentioned: "ch-01:p188"
+    resolution: null
+
+  dougs-duffel:
+    introduced: "ch-01:p21"
+    description: "Doug Fessler's duffel with six weeks of Jordan context sheets, lost by Royal Jordanian at Kennedy"
+    status: "lost"
+    last_mentioned: "ch-01:p21"
+    resolution: null
+
+  slide-carousel:
+    introduced: "ch-01:p2"
+    description: "the memorial slide carousel of Emilio's digs (Cyprus, Sicily, Turkey); runs out and projects an empty white square, fan still going"
+    status: "background"
+    last_mentioned: "ch-01:p155"
+    resolution: null
+
+  cypriot-lamp:
+    introduced: "ch-01:p208"
+    description: "a Cypriot lamp with a chipped nozzle on Emilio's bedroom shelf beside the Pentax"
+    status: "background"
+    last_mentioned: "ch-01:p208"
+    resolution: null
 
   pompeii-painted-false-door:
     introduced: "outline:ch-19"
@@ -1726,10 +2219,21 @@ knowledge_index:
     - { who: "plautia", what: "the family's Pompeii lodging", from_chapter: "off-page (summer AD 72)", method: "told_by:valens", revised: "2026-10-18", source: "outline:ch-21" }
     - { who: "pomponia-grata", what: "a summons came for Valens by name", from_chapter: 21, method: "witnessed", revised: "2026-10-18", source: "outline:ch-21" }
   margaret_fenn:
-    - { who: "mara-reyes", what: "Margaret's name, her estate sale, her death", from_chapter: "1-2", method: "told_by:irene-szabo; discovered (notebook)", source: "outline:ch-01; outline:ch-02" }
+    - { who: "mara-reyes", what: "Margaret's name, her estate sale (Chestnut Hill, last October), her death ('She was dead'); the brother unnamed by Szabo; 'A. J. FENN' on the notebook", from_chapter: 1, method: "told_by:irene-szabo; discovered (notebook cover)", source: "ch-01:p96; ch-01:p98; ch-01:p100; ch-01:p111" }
+    - { who: "mara-reyes", what: "Margaret in Fenn's own words (Mexico line)", from_chapter: 2, method: "discovered (notebook)", source: "outline:ch-02" }
     - { who: "august-fenn", what: "his sister is dead", from_chapter: 25, method: "inferred", note: "from 'estate sale in Chestnut Hill'; does not ask whose", revised: "2026-10-18", source: "outline:ch-25; STATE:ARCH-17" }
     - { who: "august-fenn", what: "says 'Margaret' aloud for the first time", from_chapter: 35, method: "n/a", note: "Mara never says the name to him", revised: "2026-10-18", source: "outline:ch-35; STATE:ARCH-17" }
+  emilio_death_1998:
+    - { who: "pat, gloria, doug-fessler, dean, halloran, department-office-caller", what: "Emilio is dead", from_chapter: 0, method: "prior_knowledge", source: "ch-01:p4; ch-01:p13; ch-01:p184; ch-01:p190; ch-01:p192" }
+    - { who: "tia-nilda", what: "knows, but forgot and phoned him Thursday", from_chapter: 0, method: "prior_knowledge", source: "ch-01:p176" }
+    - { who: "nicosia-caller", what: "NOT known (he had not heard)", from_chapter: null, method: null, source: "ch-01:p188; ch-01:p189" }
+    - { who: "irene-szabo", what: "read a Reyes professor's obituary in January; Mara denies a connection; Szabo agrees aloud ('It is a common name')", from_chapter: 0, method: "discovered (newspaper); link unconfirmed", source: "ch-01:p139; ch-01:p140; ch-01:p141" }
+  map_purchase_1998:
+    - { who: "irene-szabo", what: "Mara Reyes bought the chart and box for $1,150; has her license number and a phone number that is Emilio's house line", from_chapter: 1, method: "told_by:mara-reyes", source: "ch-01:p138; ch-01:p142; ch-01:p147" }
+    - { who: "gloria", what: "Mara bought a Venetian chart of the 1680s; price withheld", from_chapter: 1, method: "told_by:mara-reyes", source: "ch-01:p167; ch-01:p169; ch-01:p171" }
+    - { who: "doug-fessler, deans-office-woman", what: "NOT told (Doug told 'ladies' room'; the woman told 'I ate it')", from_chapter: null, method: null, source: "ch-01:p154; ch-01:p174" }
   fenn_identity:
+    - { who: "mara-reyes", what: "the notebook belongs to 'A. J. FENN', Margaret Fenn's brother, who went to Greece in '68 and did not come back", from_chapter: 1, method: "told_by:irene-szabo; discovered (cover)", source: "ch-01:p100; ch-01:p111" }
     - { who: "gratas-husband", what: "a Chaldean in Puteoli who talks gibberish", from_chapter: "pre-24", method: "overheard", source: "outline:ch-24" }
     - { who: "mara-reyes", what: "Augurinus = August Fenn", from_chapter: 25, method: "discovered", source: "outline:ch-25" }
     - { who: "valens", what: "Fenn speaks Mara's language", from_chapter: 25, method: "witnessed", source: "outline:ch-25" }
@@ -1929,14 +2433,15 @@ plot_threads:
   mending-the-seam:
     description: "invisible repair → visible seam → the door's seam closed"
     opened: { chapter: 2, detail: "invisible lamp seam (lab); Ch.1 lab as ideal", source: "outline:ch-02; foundation:§5" }
-    beats: [9, 20]
+    ch1_beat: { chapter: 1, detail: "the stapled platter in Szabo's window: Mara admires a visible c.150-year-old repair ('could have kissed him') while noting its maker would be out of work in her department because 'you could see it from the street'", source: "ch-01:p43; ch-01:p54" }
+    beats: [1, 9, 20]
     payoff_chapter: 43
     status: "planned_open"
     source: "foundation:§5; outline:ch-43"
 
-  relics-microcassette: { description: "her father's voice", opened: 1, payoff_chapter: 43, status: "planned_open", source: "foundation:§4f; outline:ch-43" }
+  relics-microcassette: { description: "her father's voice", opened: 1, opened_source: "ch-01:p204", payoff_chapter: 43, status: "open", source: "foundation:§4f; outline:ch-43" }
   relics-film-roll: { description: "the 36-frame record", opened: 2, payoff_chapter: 43, last_frame_chapter: 38, status: "planned_open", source: "foundation:§4f; outline:ch-38; outline:ch-43" }
-  relics-watch: { description: "the watch-winding (the only countdown)", opened: 1, payoff_chapter: 43, status: "planned_open", source: "foundation:§4f" }
+  relics-watch: { description: "the watch-winding (the only countdown)", opened: 1, opened_source: "ch-01:p207", payoff_chapter: 43, status: "open", source: "foundation:§4f" }
   relics-knucklebone: { description: "the bone that went to 1998 and came back", opened: 3, payoff_chapter: 44, status: "planned_open", source: "foundation:§4f; outline:ch-44" }
 
   hand-at-threshold:
@@ -1977,7 +2482,7 @@ plot_threads:
 
   halloran-campania:
     description: "Halloran's invitation to Campania in Emilio's place"
-    opened: { chapter: 1, source: "outline:ch-01" }
+    opened: { chapter: 1, detail: "Halloran's message: permit name needed by 20 April; 'whether the family would be sending anyone'; he will ring again", source: "ch-01:p192" }
     beats: [2]
     payoff_chapter: null
     status: "no_payoff_by_design (neutral fact)"
@@ -2074,4 +2579,23 @@ organizations:
     canonical_name: "the Philadelphia university museum"
     aliases: []
     facts:
-      - { fact: "employs Mara as objects conservator; hosts Emilio's memorial in the upper gallery", source: "foundation:§3; outline:ch-01" }
+      - { fact: "employs Mara as objects conservator; hosts Emilio's memorial in the upper gallery", source: "foundation:§3; ch-01:p1; ch-01:p56" }
+      - { fact: "has a dean (and dean's office), a registrar (Frank), a slide library, a classroom wing, and a department office that booked the memorial; the dean plans a spring lecture fund in Emilio's name; no food normally allowed in the galleries; the fire department billed them for the Christmas party", source: "ch-01:p2; ch-01:p9; ch-01:p13; ch-01:p190" }
+
+  soprintendenza:
+    canonical_name: "the Soprintendenza (Campania)"
+    aliases: []
+    facts:
+      - { fact: "issues the permesso for the Campanian survey season; wants a new name on Emilio's permit by 20 April 1998 or the season lapses", source: "ch-01:p192" }
+
+  free-library-of-philadelphia:
+    canonical_name: "the Free Library of Philadelphia"
+    aliases: ["Walnut Street West branch"]
+    facts:
+      - { fact: "recorded overdue notice to Emilio for Wild Horses", source: "ch-01:p186" }
+
+  philadelphia-inquirer:
+    canonical_name: "the Philadelphia Inquirer"
+    aliases: ["the Inquirer"]
+    facts:
+      - { fact: "ran Emilio's obituary in January 1998 ('a professor who dug things'), read by Szabo", source: "ch-01:p139" }

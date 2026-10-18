@@ -19,11 +19,21 @@ What was done:
   mode + Step D.6 shape audit, docs updated.
 
 ## Resume point
-Architect v4 pass (foundation + outline, then voice mode) → entity BUILD → outline audit →
-chapter loop from Ch.1. Each finished chapter is committed and pushed to `main`.
+**Ch.1 FINAL (2026-10-18).** Next: **Ch.2 "Fenn's Notebook"** — ledger: Collage (a document read in
+pieces) · open: a Fenn notebook entry (document → `narrative`) · end: document fragment → `long-fade` ·
+4,200w · dialogue 10–20% · theme present · 6 breaks · gear mid. Ch.1's hook type was CONTRAST, pull
+QUESTION-PLANT — do not repeat. WATCH from Ch.1: semicolons 4.1/1k (ease to ~3); the at-risk list in
+character-bible.md ("Which one stops it?" is spent; "the [color] of [thing]"; item-by-item looks;
+"Then you…"; TV-turning beats). The blueprint, entity state and bible are current.
+
+## Chapter log
+- **Ch.1 "The Reception"** — 6,546w · Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 9.0 · 2 polish cycles
+  (Prose was the holdout: chain sentences and an inventory form that was a tic forming) · entity +
+  continuity audit per chapter clean · full chain in STATE.yaml history.
 
 ## Pacing log
-(one line per finalized chapter)
+- Ch.1 (FINAL): PASS — fast reception → slow shop → very slow at the machine, as planned; grief-low slot without melancholy (irritation surprise lands); dialogue 32% in band; 6,546w vs 6,800 target after the trim that fixed pages 2–3; quiet close, pull carried by the unread notebook.
 
 ## Shape audits
-(every 5 chapters: `python3 tools/shape_check.py books/the-hour-of-ash` from the repo root)
+(every chapter: `python3 tools/shape_check.py books/the-hour-of-ash` from the repo root)
+- after Ch.1: n/a (needs 4 chapters); Ch.1 signatures `I-statement` / `quiet`.

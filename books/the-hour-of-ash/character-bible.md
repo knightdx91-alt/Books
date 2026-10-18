@@ -394,7 +394,7 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **DISTINCTNESS GUARANTEE:** the only voice that wraps death in paperwork, against Emilio's tape, which
   is all warmth and no dates.
 - **Sample line:** "I'm sorry to ring about forms at a time like this, Ms. Reyes, but the permit needs a
-  name on it by the first of June, and your father's is, well. It's still the one on it."
+  name on it by the twentieth of April, and your father's is, well. It's still the one on it."
 
 #### IRENE SZABO — antiques dealer, Pine Street's Antique Row; Hungarian, in her seventies (Ch.1)
 - **Attention / worldview:** authenticity: fakes, period accuracy, what a thing will fetch, whether a
@@ -413,6 +413,81 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   by flood and flattery.
 - **Sample line:** "Fakers make the mountains too tall. They think tall looks old. This one is dull in the
   right places, which is why I paid for it."
+- **Ch.1 as written (Writer, 2026-10-18):** buzzer-and-speaker shop door; magnifier pushed up into her
+  white braid; liver-colored cardigan, fingerless gloves; a mute TV with a college game and a $5 bet with
+  the barber next door (her own life, nothing to do with Mara). Notices the obituary name ("There was a
+  Reyes in the *Inquirer*") and lets Mara's "It's a common name" stand. No condolence, no warning.
+
+#### DOUG FESSLER — field archaeologist; dug with Emilio eleven seasons in Cyprus and two in Sicily; gave the eulogy (Ch.1)
+- **Attention / worldview:** his own fieldwork and its logistics: his lost duffel, his context sheets,
+  the sherd he could not place in 1984. Grief reaches him as anecdote about a site, never as a feeling
+  stated.
+- **Vocabulary band:** American field-archaeologist shop talk (context sheets, type series, section,
+  offprints, dig house), plain and warm.
+- **Syntax fingerprint:** runaway anecdote that loops back to correct itself; agrees with himself out loud;
+  talks around food in his mouth.
+- **Rhythm:** a story, a self-interruption, an offer of practical help ("I can do the office").
+- **Evasion — never says:** "died," or anything about his own grief; he cuts the story he would have cried
+  at and says so instead of crying.
+- **Physicality / silence:** a fresh winter-season sunburn from Jordan with a hat-line across the forehead
+  and peeling at the nose; a borrowed tie; a paper plate holding one stick of celery, which he talks to.
+- **Verbal tic:** none — distinguished by attention (his own site logistics) and physicality (the sunburn)
+- **Bleed guard:** must not notice materials or joins (Mara's axis); his sherd talk is about *placing* a
+  thing in a sequence, never about how it was made or mended.
+- **Chaos on the page (subjects, never phrases):** Royal Jordanian lost his duffel with six weeks of context
+  sheets; he cannot stop talking about it at a memorial.
+- **DISTINCTNESS GUARANTEE:** the colleague who mourns through his own anecdotes and luggage, against
+  Halloran, who mourns through permits and dates.
+- **Sample line:** "Don't look at the nose. Six weeks in a hat and the one day I take it off they're
+  pouring concrete."
+
+#### GLORIA — Mara's cousin on her father's side; ~36 in 1998; married to Ray, fourteen years (Ch.1)
+- **Attention / worldview:** the family's practical ledger: leftovers, freezers, keys, who called whom,
+  who was offended and who had to lie down. She manages grief by assigning errands.
+- **Vocabulary band:** Philadelphia family English, quick and contracted, with an occasional Spanish
+  kinship word (*Tía*).
+- **Syntax fingerprint:** short logistical questions ("Where'd you go?" "How much?" "Did you eat
+  anything?") followed by instructions; tells you her own small humiliations as comedy.
+- **Rhythm:** a complaint about herself, a question, a list of jobs, a command.
+- **Evasion — never says:** Emilio's name. In Ch.1 he is only "him," "his machine," "nobody gets him."
+  She never asks Mara how she feels.
+- **Physicality / silence:** works with her hands while she talks (foil folded with the heel of the hand),
+  stockinged feet with her pumps parked under the coat rack; the long wordless look (Ch.1), held instead of
+  a sentence; holds a coat open at a child's height.
+- **Verbal tic:** none — distinguished by evasion (never names the dead man) and attention (errands and
+  the family ledger)
+- **Bleed guard:** never Mara's dry aside or her eye for materials; never Grata's flattery or sales talk
+  (Gloria asks practical questions; Grata never asks). Her hands-at-work is *domestic packing* only, to stay
+  clear of Kallia's labor-attention in Delphi.
+- **Chaos on the page (subjects, never phrases):** wore two different earrings (a pearl stud and a gold
+  hoop) through the whole memorial; Ray called it a style.
+- **DISTINCTNESS GUARANTEE:** the relative who will not say the dead man's name and hands you a job
+  instead, against Halloran, who says the name and wraps the death in paperwork.
+- **Sample line:** "Your keys are in the freezer door, don't ask me why, and Ray's waiting, so take the
+  pierogi."
+
+#### PAT — Emilio's next-door neighbor (Ch.1, on the answering-machine tape only)
+- **Attention / worldview:** borrowed dishes and neighborly favors; who has whose Tupperware.
+- **Vocabulary band:** warm South-Jersey-and-Philly neighbor English ("hon," "bye now"), used once.
+- **Syntax fingerprint:** flustered self-correction mid-sentence ("your Tupperware, I mean his").
+- **Rhythm:** apology, errand, a single remembered kindness, sign-off.
+- **Evasion — never says:** why she is calling a dead man's number.
+- **Physicality / silence:** none on the page; a voice on the incoming-message tape (erased in Ch.1).
+- **Verbal tic:** none — distinguished by syntax (self-correction) and attention (lent objects)
+- **DISTINCTNESS GUARANTEE:** the only voice that calls the house by habit and corrects herself on tape,
+  against Halloran's deliberate, over-long message.
+- **Sample line:** none beyond the Ch.1 tape.
+
+#### Ch.1 mention-only names and unnamed walk-ons (no card needed unless they return)
+- **Mentioned by name only:** Ray (Gloria's husband; waits in the car); Tía Nilda (78; forgot, phoned
+  Emilio's number to tell him the memorial time and got the greeting); Dorothy (neighbor; masking tape on a
+  Pyrex lid: RETURN DISH); Carol (may have baked a lemon cake); Frank (the museum registrar).
+- **Mara's mother:** alive, in Phoenix; divorced from Emilio around 1981; sent lilies and a card. Off-page.
+- **Unnamed walk-ons:** the dean (jingles his change; "lecture fund"); the dean's-office woman who lifts
+  the chafing-dish lids and presses the lemon cake on Mara (her own worry: the smoke detectors and the fire
+  department's bill); the loading-dock security guard with a soft pretzel; the cab driver (wife's eleven
+  rosebushes, "wrong mulch"); the cheerful caller from Nicosia who has not heard (Emilio's Kourion
+  drawings, '92); the department office caller about the memorial room.
 
 ---
 
@@ -581,6 +656,10 @@ line each, so that walk-ons don't all sound like Mara.
   since," "over the years that followed," "the years to come," "the man I would marry / love / lose /
   become," "my future husband," "I never saw him again," "had I known," "even now," "I still remember,"
   "to this day," "looking back," "in hindsight."
+- **At-risk after Ch.1 (audit 2026-10-18; a third use anywhere in the book is a defect):** "Which one
+  stops it?" (Emilio's recorded line — spent exactly twice in Ch.1, the anchor; never again); "the
+  conservator in me"; "the [color] of [thing]" as a sentence shape; the item-by-item look; a character
+  turning to a television/screen as a beat; "Then you…" as Szabo's reply shape.
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
   used as a scene button.
@@ -674,3 +753,7 @@ finalizing the chapter. Never add a tic to fix it.
   "estate sale" in Ch.25, rage once (Ch.26). Mara: the future-tense evasion narrowed to Fenn's date; never
   says "Margaret" to him; teeth schedule cut to Ch.2, 5, 7, 15, 20, 24, 31. At-risk list: two entries added.
   Every tic line still reads "none — distinguished by <axis>".
+- 2026-10-18 (Writer, Ch.1): added DOUG FESSLER, GLORIA and PAT (all speak on the page in Ch.1), plus a
+  Ch.1 mention-only and walk-on note (Ray, Tía Nilda, Dorothy, Carol, Frank; Mara's mother in Phoenix,
+  divorced c. 1981). Extended Irene Szabo's card with what Ch.1 established. No device collisions: none of
+  the three new voices counts, lists, prices or notices materials. Tic-bearer roster still NONE.

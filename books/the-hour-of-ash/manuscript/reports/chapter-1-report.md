@@ -1,0 +1,63 @@
+# Writer Report: Chapter 1 — The Reception
+
+- **Word count:** 7,089 by `wc -w` (7,085 of prose plus the 4-word heading; `shape_check` counts 7,069). Target 6,800, so +4.2%, inside the ±5% band. Planned budget was reception 1,550 | Pine Street + Szabo 2,650 | coat + cousin 850 | rowhouse 1,750. Actual: about 1,500 | 3,100 | 750 | 1,750. The first draft landed at 5,943 words with only 20% dialogue. The shortfall was closed with new *beats*, not padding: the dean's-office woman pushing the cake on Mara (it now explains why she has it), the eulogy in Doug's own words, the dean's "lecture fund", Szabo naming the Library of Alexandria (a premise plant the chapter needed), Szabo half-recognizing the Reyes obituary, Fenn's other boxes (Navy uniforms, a diving helmet), Gloria covering for Mara and the Tía Nilda phone call, the Nicosia caller who hasn't heard, and Halloran forgetting the fax number.
+- **Dialogue share:** 30.3% by `shape_check`, 31.3% by `show_tell_check`. Band 30–40%: in band, at the low end.
+- **Scene breaks:** exactly 3 (`* * *`, lines 71, 309, 365), giving four sections. `shape_check` reads breaks = 3.
+- **Shape signatures (computed by `tools/shape_check.py`):** open = `I-statement`, end = `quiet`. No one-line opening or closing paragraph.
+- **Opening sentence (verbatim):** "I had been at my father's memorial reception for forty minutes when I wrapped a square of lemon cake in a paper napkin, put it in the pocket of my good black jacket, and started for the back stairs."
+- **Closing sentence (verbatim, 23 words):** "Every second or so the red light came on and went off, and each time it lit the lid of the cigar box."
+- **Sentence gear:** narration-only paragraphs have a median of 14 words (mid gear). The whole-chapter median is 10 because 30% of the text is short dialogue. Sentences over 40 words: 5.1% (gate 18%). Similes 2.3/1k. "as if": 1.
+
+## Where the NON-NEGOTIABLE beats landed
+1. **Reception, upper gallery** (§1, lines 3–69): casseroles and foil trays, Sterno, the slide carousel, the Coptic textile case. Doug Fessler's sunburned eulogy, "generous with his time", quoted at line 11. Mara watching the room like a cracked pot from storage (line 7). She leaves by the back stairs to the loading dock in sleet.
+2. **Pine Street in sleet; Szabo's shop** (§2, lines 73–307). The chart is a Venetian copperplate of the Gulf of Corinth ("GOLFO DI LEPANTO", *Castri*, *M. Parnaso*), 1680s, Morosini's war, with tre-lune watermark paper and verdigris burned through the coast. Blue-ballpoint coordinates (38° 31′ N / 22° 32′ E), "BIBLIOTHECA?" and a freehand doorway. Phillies cigar box with the oilcloth notebook "A. J. FENN", lid closed, **unread**. Provenance: Margaret Fenn's estate sale, Chestnut Hill, last October; "He went to Greece in sixty-eight and he did not come back." Bought only because "The coast is right." Haggling from 1,400 down to 1,150; Mara writes a check she cannot afford.
+3. **FLEX, kept** (§3, lines 311–363): back to the reception for her coat. Gloria's long wordless look (line 339), which also hands Mara the *errand*: clear the machine and change the greeting.
+4. **Rowhouse near dark** (§4, lines 367–427). Condolences on the machine (Pat, the library, Nicosia, the department, a breathing woman), then Halloran from Naples about "the *permesso* for the Campanian survey season" and whether "the family would be sending anyone". She plays the outgoing message three times (lines 399, 409, 413), cannot press RECORD GREETING, ejects the microcassette and buttons it into the pocket where the cake was. The 1966 Seiko is stopped at ten past four on the nightstand; she winds it and buckles it on, far too big. The Pentax K1000 is on the shelf; she opens the back, finds it empty, and puts it back.
+
+## Anchor and surprise
+- **Anchor:** Emilio's outgoing greeting, played three times and never erased. It ends off-mic with him asking her, at the counter in December 1991, "Mara? Which one stops it?" The tape ends up in her jacket pocket, and it weighs less than the cake had.
+- **Surprise (wrong emotion):** irritation, not grief. Three lemon cakes ("Somewhere, I assumed, there was a pamphlet"), the eulogy's "generous with his time", and she leaves to go shopping. Payoff: alone in the dark kitchen she eats the cake, finds it good, and is "annoyed about that too."
+- **Beat subversion delivered:** Szabo wants the chart gone, haggles hard, says "I do not buy stories about the boxes", and the only uncanny thing about the map is that it is accurate (the Venetian navy sounded the coast with a lead line; the village is labeled *Castri*, not *Delfi*). No warning, no destiny line. Her treasure-hunter contempt ("They are only sure") is aimed at Fenn, not at Mara.
+
+## Chaos moments
+- **All-or-nothing (inhabited):** line 23, "There was no staying a little. There was all of that, or there were the stairs." It drives two choices: she walks out, and she won't pass Gloria for her coat, so she goes into sleet without it.
+- **Failed emotional management (mundane):** lines 287–291, at Szabo's counter. Her hand writes her father's phone number on the check, the number she has known since before she could spell. Her eyes blur, "It's this heater," she says to nobody, and she hands over the check with the wrong number on it.
+- **Irrelevant thought:** line 81, burlap against hessian ("the same cloth with two passports") and the Hessian soldiers, prompted by a garden show on the cab radio.
+- Teeth do not appear (checked; a glaze-against-teeth phrase was caught and removed).
+
+## Secondary characters' own moments
+- **Doug Fessler:** Royal Jordanian lost his duffel with six weeks of context sheets ("It isn't in Amman"); his tie is borrowed from his brother-in-law, who "sells insurance in it."
+- **Irene Szabo:** a $5 bet on the mute college game with the barber next door, whose nephew played. She sold Fenn's diving helmet to a Wildwood seafood restaurant ("They put a lobster in it").
+- **Gloria:** wore two different earrings all day; Ray called it "a style. Fourteen years." Ray is waiting in the car with the engine running.
+- Walk-ons: the dean's-office woman frets about the Sterno setting off the smoke detectors (the fire department billed them for the Christmas party); the cab driver's wife's eleven rosebushes and the "wrong mulch."
+
+## Material details per scene
+- **Reception:** foil trays of ziti and arroz con pollo, a crockpot cord taped to the parquet, an Acme sheet cake with a piped trowel, Sterno flames, a Kodak-style slide carousel and its fan, lilies with the stamens nipped out, a stair rail wrapped in electrical tape.
+- **Cab and Pine Street:** a cardboard pine-tree air freshener, burlap on the radio, a replaced finial, a Staffordshire dog's bad restoration, a riveted (stapled) Chinese export platter drilled half through from the back.
+- **Szabo's shop:** foxed paper, a space heater, gray steel flat files, a copperplate plate mark, verdigris (copper salts in gum) eating through the coast, a tre-lune watermark, ballpoint ink embossed through to the back, the Phillies box with tobacco crumbs, an oilcloth notebook with perished elastic, mat board and brown paper tape, a driver's license number written on a check.
+- **Coat rack:** squares of foil folded with the heel of the hand, pumps with one heel worn to the plastic, a pearl stud and a gold hoop.
+- **Rowhouse:** the radiator-cover grille printing diamonds on a child's knees, the sticking lock, a Pyrex lid labeled DOROTHY / RETURN DISH, eggs with a January date, a two-cassette Panasonic machine with smoked-plastic doors, a microcassette with a blank label, the Seiko's crown and dry ratchet and the crystal nicked at two o'clock, the K1000's leatherette and oil and empty pressure plate.
+
+## Deviations from the outline (and why)
+- **The first sentence is set in the moment, not as a summary.** It starts at minute forty with the cake going into her pocket. The earlier forty minutes come in as short past-perfect observations while she crosses the room, so the chapter stays strictly chronological after the first line.
+- **The cake is in her jacket pocket, not her coat.** The FLEX coat beat (and the all-or-nothing choice to skip it) needs her to leave the coat behind. Foundation §8 says "coat pocket"; jacket keeps the sense.
+- **An errand engine was added:** Gloria tells her to clear the full machine and change the greeting (Tía Nilda forgot, rang to tell him the memorial time, and got his voice). The errand goes sideways (she can't record over him) and is finished anyway (she erases the incoming tape and takes the greeting tape out). This is the outline's *errand* shape.
+- **Canon set where the plan left gaps:** Emilio's rowhouse is off Baltimore Avenue in West Philadelphia. Mara's mother is alive in Phoenix, divorced from Emilio around 1981. The memorial was Saturday 14 March 1998, which really was a Saturday. Mara set up the machine for him in December 1991. Fenn's coordinates are 38° 31′ N / 22° 32′ E. Szabo paid about $800, the asking price was $1,400, and the sale was $1,150 by check. Szabo has the Reyes obituary name from the *Inquirer*. Fenn's boxes held Navy uniforms, *National Geographic* and a diving helmet. The cigar box is a Phillies box, a texture echo of Fenn's 1964 Phillies (planted only; never pointed at). The entity tracker should record these.
+- **Mara's physical anchor:** her hair is in a knot with a pencil through it because the clip snapped. Eye color and height are still unset.
+
+## Self-scan
+- **Em-dashes:** 0. One slipped into the masking-tape label and was replaced with a slash. Spaced en-dashes: 0.
+- **Foreshadowing / forward gestures:** 0 (`style_check --max-foreshadow 0` clean). I checked every "would": all are conditionals or counterfactuals inside the scene ("If I stayed for the Sicily tray I would stay for all of them"; "who would have been out of work in my department in a week"). Halloran's Campania stays a neutral fact: Mara writes nothing down and nothing in the narration weights it.
+- **Phrases caught and varied:** "never once" (retired phrase) was replaced by "then or ever". "the way" fell from about 10 uses to 5, a syntactic habit forming. Tic-gate hits were all varied: "Mrs. Szabo said" (5→2), "all the way" (4→2), "she did not look" (3→0), "a long time", "the question mark", "the woman from the dean's office", "two in the morning" (3→2), "the chafing dishes", "forty years of", "what do you". The Acme sack and garbage bag are now named in varied wording.
+- **Phrases still used more than twice in the chapter:** none at 3+ words. Two-word pairs at 3–5: "lemon cake" (4), "could have" (5, generic), "two o'clock" (3, three different senses). All gates are clean: style, grammar, rhythm, show/tell, strict voice-wear, tic gate, metaphor, shape.
+- **Mara's evasions kept:** the word "love" never appears in her narration (one "loved him" and one "lovely" were cut). Her father's death is never stated plainly; a "my father's death" line was rewritten. She never claims bravery.
+- **Retired reflexes:** no define-by-negation opener, no anaphora triad (the rhythm gate flagged two "I"-led runs, both broken), no performed candour, no device or object used as a button, no closing aphorism.
+- **Weakest dimension (my read):** Momentum. The ledger asks for a quiet image, so the pull is carried by objects: the unread notebook lit by the blinking light, "Didn't come back how?", and the question-marked BIBLIOTHECA. The evaluator should check whether that light-on-the-cigar-box image loads enough of a question.
+
+## Impulse deviations
+- **Kept:** the off-mic "Mara? Which one stops it?" on the greeting tape. It was not planned. It came out of asking why the message mattered more than any other object. It also makes erasing it mean erasing her name in his mouth, which is never said.
+- **Kept:** the check made out with her father's phone number. This was the planned "failed management in a mundane place" becoming specific. It is also a quiet loop: if the check bounces, Szabo's call goes to the machine whose tape Mara has just removed.
+- **Ugly sentence (quiet, deliberate):** line 371, "...and I put the ziti in on top of Dorothy's dish, and it was still a little warm through the foil and I put it in anyway."
+
+## Bible
+Added cards for **Doug Fessler**, **Gloria** and **Pat**, each with tic "none — distinguished by <axis>". Added a Ch.1 note for mention-only names (Ray, Tía Nilda, Dorothy, Carol, Frank; Mara's mother) and the unnamed walk-ons, and extended Irene Szabo's card. No device collisions. The department caller was deliberately left unnamed.
