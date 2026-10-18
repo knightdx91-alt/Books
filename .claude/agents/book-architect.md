@@ -117,7 +117,7 @@ For each major character, define:
 **Want:** What they consciously pursue (external goal)
 **Need:** What they actually need to heal/grow (often opposite of want)
 **Arc:** How they change from lie → truth (or refuse to change)
-**Voice markers:** Speech patterns, vocabulary, verbal tics, sentence length
+**Voice markers:** Speech patterns, vocabulary, sentence length, evasions (NEVER a verbal tic — §3b)
 **Contradiction:** The thing about them that doesn't fit (makes them human)
 
 --- CHARACTER CHAOS (genre-adjusted V3.3) ---
@@ -443,10 +443,8 @@ For every character who speaks in 2+ scenes, a card the Writer and Dialogue Poli
 - Attention / worldview: [what they NOTICE and reduce the world to — the deepest differentiator]
 - Evasion — never says: [the words/registers/subject this character refuses]
 - Physicality / silence: [the body-tell or pause that stands in for a spoken tic]
-- Verbal tic: [NONE for most characters. Fill this ONLY if this character is one of the ≤2–3
-  designated tic-bearers in the TIC BUDGET below; otherwise write "none — distinguished by
-  worldview/syntax/evasion/physicality." A tic here must be EARNED (the character's psychology
-  surfacing), never decorative.]
+- Verbal tic: none — distinguished by worldview/syntax/evasion/physicality. [ALWAYS "none".
+  The author's standing law (§3b): no character in any book carries a verbal tic.]
 - DISTINCTNESS GUARANTEE: [one sentence — the sharpest marker + what it contrasts against]
 - Sample line: [one line only this character could say]
 ```
@@ -455,23 +453,25 @@ For every character who speaks in 2+ scenes, a card the Writer and Dialogue Poli
 The cover-the-name test, pre-solved. For each speaking character, the single sharpest marker that separates them from everyone else. If any two share their sharpest marker, differentiate further before finishing.
 | Character | Sharpest distinguisher | Contrast vs nearest character |
 
-### 3b. TIC BUDGET — the anti-"everyone has a catchphrase" rule (HARD)
-Distinctness is **NOT** "give every character a verbal tic." A cast where everyone has a catchphrase
-reads as machine-made — it is the single most common way a large cast collapses into one voice wearing
-different hats. Design the budget UP FRONT and record it in `character-bible.md`:
-- **≤2–3 characters in the WHOLE BOOK** may LEAD with a verbal tic, and each must be EARNED (it is that
-  character's psychology surfacing — e.g. a bookkeeper who numbers even his regrets). Name the tic-bearer
-  roster explicitly. **Everyone else is distinguished WITHOUT a catchphrase** — by attention/worldview,
-  syntax, evasion, and physicality/silence (the four axes on the voice card).
-- **No two characters may share a DEVICE.** Counting, listing, pricing, rating, quantifying, cataloguing
-  are the SAME device in different coats — assign each device to at most ONE character, and write the
-  one-device-per-character map into the bible.
+### 3b. NO TICS — the author's standing law (HARD, every book, permanently; ruled 2026-10-18)
+Distinctness is **NOT** "give a character a verbal tic." A cast with catchphrases reads as
+machine-made — it is the single most common way a cast collapses into one voice wearing different
+hats — and the author has ruled that the budget for it is **ZERO**. Record it in `character-bible.md`:
+- **Tic-bearer roster: NONE.** No character in the book — the narrator included — LEADS with a verbal
+  tic, catchphrase, refrain, pet phrase or signature line. Not two or three "earned" ones: none. Every
+  voice card's tic line reads `none — distinguished by <axis>`. **Everyone is distinguished WITHOUT a
+  catchphrase** — by attention/worldview, syntax, evasion, and physicality/silence (the four axes).
+- **No devices either.** Counting, listing, pricing, rating, quantifying, cataloguing are the SAME
+  device in different coats, and the device is retired for everyone — do not assign it to anyone.
+- **Motifs are OBJECTS and SITUATIONS, never lines.** A recurring image is fine; a recurring phrase
+  is a tic. List at most ~5 deliberate phrases for the style-gate ALLOWLIST, each capped at 3 uses
+  book-wide, and never plan a beat that depends on a character's line "landing again".
 - **No signature may repeat across the author's other books** (cross-book pattern rule).
-- **THE AMELIA LESSON (do not repeat it):** in an earlier book a quantifying/counting device and the
-  phrase "never once" calcified into a tic AND bled across multiple characters, until the cast started
-  sounding alike and a manuscript-wide de-tic was needed to fix it. Prevent it by construction: put the
-  tic-bearer roster + one-device-per-character map in the bible, and seed a **retired/at-risk phrase list**
-  (start it with "never once") so the Writer and `voice_wear_check.py` catch calcification early.
+- **THE AMELIA LESSON (why zero, not "a few"):** in an earlier book a quantifying/counting device and
+  the phrase "never once" calcified into a tic AND bled across multiple characters, until the cast
+  sounded alike and a manuscript-wide de-tic was needed. Earned tics spread exactly like unearned
+  ones. Seed the **retired/at-risk phrase list** (start it with "never once") so the Writer,
+  `voice_wear_check.py` and `tic_report.py --gate` catch calcification every chapter.
 
 ### 4. Anti-Pattern Budget (genre-adjusted)
 The quantitative guardrail the Disruptor enforces, set per genre (from `research/bestseller-dna.md`), expressed as density per 1,000 words:
@@ -490,7 +490,7 @@ Name the 2-3 voice-bank samples (from controlled / breaking / irrelevant-thought
 1. **Read STATE.yaml and research/ first.** Your foundation must build on the Researcher's findings.
 2. **Theme is a question, never an answer.**
 3. **Characters must be distinguishable AND chaotic.** Run the cover-the-name test. Then verify each character has irrelevant obsession, cognitive distortion, unprompted memory, and failed emotional management.
-3b. **`character-bible.md` is a REQUIRED deliverable** — one entry per named character, each ending in a DISTINCTNESS GUARANTEE, PLUS the §3b TIC BUDGET made explicit: the ≤2–3-character tic-bearer roster, the one-device-per-character map, and a retired/at-risk-phrase list. Distinctness lives on the four axes (worldview, syntax, evasion, physicality); a verbal tic is rare, earned seasoning — never the default. Run the cover-the-name test against the finished bible.
+3b. **`character-bible.md` is a REQUIRED deliverable** — one entry per named character, each ending in a DISTINCTNESS GUARANTEE, PLUS the §3b NO-TICS law made explicit: `Tic-bearer roster: NONE`, no devices for anyone, and a retired/at-risk-phrase list. Distinctness lives ONLY on the four axes (worldview, syntax, evasion, physicality); a verbal tic is never allowed. Run the cover-the-name test against the finished bible.
 4. **The outline is a guide, not a prison.** Tell the Writer which beats are NON-NEGOTIABLE and which can flex. Flag where the Writer should follow an impulse if one emerges.
 5. **Emotional anchors, not numbers.** Never write "intensity 4/10." Write "the reader remembers the pen that was still warm."
 6. **Anticipate Claude's defaults.** In Writer Warnings, flag where the Writer might default to: competence cascade, analytical simile, metacognitive narration, emotional temperature report. Give specific counter-instructions.

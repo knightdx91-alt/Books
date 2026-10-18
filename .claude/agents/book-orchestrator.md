@@ -188,7 +188,7 @@ books/{slug}/                      # or books/{series-slug}/{slug}/ for a series
 ├── foundation.md
 ├── outline.md
 ├── voice-dna.md
-├── character-bible.md             # cast VOICE + distinctness + TIC BUDGET (architect seeds, writer maintains)
+├── character-bible.md             # cast VOICE + distinctness, NO-TICS law (architect seeds, writer maintains)
 ├── reader-personas.md
 ├── voice-bank/
 │   ├── README.md
@@ -287,7 +287,7 @@ Read: {path}/foundation.md (character profiles + VOICE UNDER PRESSURE), {path}/r
 
 Produce {path}/voice-dna.md with all five sections:
 1. Global narrative voice (POV, sentence architecture, metaphor domain, prose register, voice-under-pressure)
-2. Per-character voice cards (vocabulary band, syntax fingerprint, rhythm, verbal tics, 'never says', sample line)
+2. Per-character voice cards (vocabulary band, syntax fingerprint, rhythm, 'never says', physicality, sample line — NO verbal tics, ever)
 3. Voice differentiation matrix (cover-the-name pre-solved; min 3 distinguishing markers per character pair)
 4. Anti-pattern budget, genre-adjusted (Pattern #11 ceiling per 1K words: literary ≤3 / commercial ≤4 / thriller ≤6 / other ≤8; adverbs-in-tags near-zero; 'as if' ceiling; metacognitive ceiling; emotional-temperature ceiling — what the Writer aims under and the Disruptor cuts down to)
 5. Benchmark samples
@@ -295,9 +295,9 @@ This document is PRESCRIPTIVE and EXECUTABLE — the Writer, dialogue-polish, an
 Write to: {path}/voice-dna.md
 
 ALSO REQUIRED (your §3b): seed {path}/character-bible.md — one voice card per named character,
-each ending in a DISTINCTNESS GUARANTEE, plus the explicit TIC BUDGET (the ≤2-3-character
-tic-bearer roster, the one-device-per-character map, the retired/at-risk phrase list) and the
-cast-wide distinctness matrix. The Writer keeps this file current as new characters appear."
+each ending in a DISTINCTNESS GUARANTEE, with the NO-TICS law made explicit (Tic-bearer roster:
+NONE; no devices for anyone; the retired/at-risk phrase list) and the cast-wide distinctness
+matrix. The Writer keeps this file current as new characters appear."
 ```
 
 After agent returns: verify voice-dna.md **and character-bible.md** exist (the bible is a required
@@ -348,9 +348,9 @@ Prompt: "Write chapter {N} of '{title}'.
 Project dir: {path}
 Read: {path}/outline.md for this chapter's plan (emotional anchor: {anchor}, emotional surprise: {surprise}, structural approach: {approach}, opening move: {open_move}, ending move: {end_move} — from the outline's Anti-Predictability Ledger).
 Read: {path}/voice-dna.md for voice specs. FOLLOW THEM.
-Read: {path}/character-bible.md for the cast's voice cards + the TIC BUDGET. Any NEW named
-character who speaks or acts on the page gets an entry ADDED there before you finalize — and the
-tic budget is a hard ceiling, not a suggestion (most characters carry NO verbal tic).
+Read: {path}/character-bible.md for the cast's voice cards + the NO-TICS law. Any NEW named
+character who speaks or acts on the page gets an entry ADDED there before you finalize — and
+nobody, the narrator included, carries a verbal tic, catchphrase or device (author's standing law).
 Read: {path}/voice-bank/ for voice reference.
 Read: {path}/ENTITY_STATE.yaml for canonical facts and who-knows-what.
 {If N>1: Read {path}/manuscript/chapters/chapter-{N-1}.md (the FINALIZED previous chapter) for continuity.}
@@ -369,7 +369,7 @@ Write self-report to: {path}/manuscript/chapters/chapter-{N}-report.md"
 Dispatch: dialogue-polish
 Prompt: "Dialogue-only editing pass on chapter {N} of '{title}'.
 Project dir: {path}
-Read: {path}/manuscript/chapters/chapter-{N}.md, {path}/voice-dna.md, {path}/character-bible.md (the cast's voice cards + tic budget), {path}/ENTITY_STATE.yaml.
+Read: {path}/manuscript/chapters/chapter-{N}.md, {path}/voice-dna.md, {path}/character-bible.md (the cast's voice cards; no-tics law), {path}/ENTITY_STATE.yaml.
 Run the cover-the-name test on ALL speaking characters.
 Fix: voice bleeding, missing subtext, thesaurus tags / tag-adverbs, tag/beat ratio, filler.
 Light naturalism only — leave heavy mess to the Disruptor. Touch ONLY dialogue + its immediate mechanics; never narrative prose. Introduce no continuity contradiction.
@@ -575,7 +575,7 @@ voice_dna:
 character_bible:
   created: false          # character-bible.md — REQUIRED deliverable of the architect's voice dispatch
   entries: 0              # named characters with a voice card + DISTINCTNESS GUARANTEE
-  tic_bearers: []         # the <=2-3 characters allowed to LEAD with a verbal tic (§3b tic budget)
+  tic_bearers: []         # ALWAYS empty — the author's no-tics law (architect §3b); kept so a non-empty list is a visible violation
 
 # Optional — present only for a book inside a series (see docs/SERIES.md).
 series:

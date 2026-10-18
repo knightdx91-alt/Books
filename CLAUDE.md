@@ -3,7 +3,7 @@
 Guidance for Claude Code working in this repository. **Read this first, every session.**
 
 > **Reference docs live in `docs/`** — [PIPELINE.md](docs/PIPELINE.md) (agents, phases, files),
-> [CHARACTER-BIBLE.md](docs/CHARACTER-BIBLE.md) (cast voice + tic budget),
+> [CHARACTER-BIBLE.md](docs/CHARACTER-BIBLE.md) (cast voice + the no-tics law),
 > [SERIES.md](docs/SERIES.md) (series canon carry-over),
 > [QUALITY-GATES.md](docs/QUALITY-GATES.md) (scores, gates, checkers),
 > [PUBLISHING.md](docs/PUBLISHING.md) (print/ebook/IngramSpark),
@@ -81,8 +81,11 @@ the web environment).
    `manuscript/chapters/`, `evaluations/`, `feedback/`, `delivery/`, and a per-book
    `tools/style_check.py` (its ALLOWLIST is book-specific).
 5. **`character-bible.md` is a required architect deliverable, and the Writer keeps it
-   current** — a new named character gets an entry the moment they appear, and the TIC
-   BUDGET (≤2–3 tic-bearers per book, no shared devices) is a hard ceiling. See
+   current** — a new named character gets an entry the moment they appear. **NO TICS, ever
+   (author's standing law, 2026-10-18):** no character in any book, narrator included, carries
+   a verbal tic, catchphrase, refrain or device; distinctness comes from worldview, syntax,
+   evasion and physicality only, and the per-chapter gates (`voice_wear_check.py`,
+   `tic_report.py --gate`) fail on a phrase that recurs. See
    [docs/CHARACTER-BIBLE.md](docs/CHARACTER-BIBLE.md).
 
 ## Finished books — `completed-books/`

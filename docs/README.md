@@ -8,7 +8,7 @@ Everything needed to run this book pipeline on your own books.
 |---|---|
 | **[GETTING-STARTED.md](GETTING-STARTED.md)** | Fork it, set the environment up, produce your first book. Read this first. |
 | **[PIPELINE.md](PIPELINE.md)** | The 12 agents, the phases, the chapter loop, what every file is for. The reference. |
-| **[CHARACTER-BIBLE.md](CHARACTER-BIBLE.md)** | How the cast stays distinct: voice cards, the four axes, the TIC BUDGET, retrofitting a bible onto an existing draft. |
+| **[CHARACTER-BIBLE.md](CHARACTER-BIBLE.md)** | How the cast stays distinct: voice cards, the four axes, the NO-TICS law, retrofitting a bible onto an existing draft. |
 | **[SERIES.md](SERIES.md)** | Multi-book series: the series bible, canon carry-over, voice continuity, the checklist when starting book N+1. |
 | **[QUALITY-GATES.md](QUALITY-GATES.md)** | Every gate a chapter has to clear, the scoring system, the mechanical checkers, cross-model second opinions. |
 | **[PUBLISHING.md](PUBLISHING.md)** | Manuscript → EPUB + print PDFs → IngramSpark. The file specs and the rejections we already ate. |

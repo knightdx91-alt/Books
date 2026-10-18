@@ -214,7 +214,7 @@ PY
     && ok "character-bible.md present" \
     || warn "no character-bible.md — required architect deliverable (docs/CHARACTER-BIBLE.md)"
 
-  for f in tools/style_check.py tools/grammar_check.py tools/voice_wear_check.py; do
+  for f in tools/style_check.py tools/grammar_check.py tools/voice_wear_check.py tools/tic_report.py; do
     [ -f "$d/$f" ] && ok "$f" || warn "$f missing — copy it from books/_template/"
   done
 

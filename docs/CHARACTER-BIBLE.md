@@ -14,7 +14,7 @@ characters have started sounding like the narrator and the fix is a manuscript-w
 |---|---|---|
 | `ENTITY_STATE.yaml` | Facts: names, ages, places, objects, timeline, who-knows-what-when | "Was her coat green in chapter 4?" |
 | `voice-dna.md` | The **narration's** voice + the cast-wide differentiation matrix and anti-pattern budget | "How does this book sound?" |
-| `character-bible.md` | Each **character's** voice: worldview, syntax, evasion, physicality, tic | "Would Marek say this line?" |
+| `character-bible.md` | Each **character's** voice: worldview, syntax, evasion, physicality (never a tic) | "Would Marek say this line?" |
 
 They overlap on purpose but they are not substitutes. A continuity error is an
 ENTITY_STATE problem; a character who sounds like everyone else is a character-bible
@@ -32,9 +32,9 @@ functional one — the writer adds their entry *before finalizing the chapter*. 
 matters: written at introduction, the voice gets designed. Written retroactively at chapter
 30, it gets described, and by then the drift has already happened.
 
-**The evaluator audits against it.** A newcomer with no entry, or one whose tic duplicates
-an existing character's, is a finding — and tic proliferation caps the Characters dimension
-at 7.5 no matter how good the chapter otherwise is.
+**The evaluator audits against it.** A newcomer with no entry, or any character who has
+acquired a tic or a device on the page, is a finding — and a tic anywhere in the cast caps
+the Characters dimension at 7.5 no matter how good the chapter otherwise is.
 
 **The dialogue-polish pass writes from it**, running the cover-the-name test against the
 cards.
@@ -54,23 +54,36 @@ are separated on four axes, in roughly this order of power:
    Silence characterizes harder than speech.
 4. **Physicality / silence** — the body-tell or pause that stands in for a spoken tic.
 
-A verbal tic is a fifth thing, rare and earned. Most characters should carry **none**.
+There is no fifth thing. **Nobody gets a verbal tic.**
 
-## The TIC BUDGET (hard rule)
+## NO TICS — the author's standing law (hard, every book, permanently)
 
-Recorded in the bible itself, designed up front:
+Ruled by the author on 2026-10-18 and not negotiable per book: **the tic budget is zero.**
+No character in any book — the narrator included — leads with a verbal tic, catchphrase,
+refrain, pet phrase, or signature device (no counting habit, no pricing-in-feelings, no
+misquoted-proverb habit, no cataloguing-under-stress, no "as I always say"). A character
+is distinct on the four axes above or they are not distinct yet; a tic is never the fix.
 
-- **≤2–3 characters in the whole book** may LEAD with a verbal tic, and each must be
-  earned — the character's psychology surfacing, not decoration (a bookkeeper who numbers
-  even his regrets). Name the roster explicitly.
-- **No two characters share a DEVICE.** Counting, listing, pricing, rating, quantifying and
-  cataloguing are *the same device in different coats* — one character each, at most. Write
-  the one-device-per-character map into the bible.
-- **No signature repeats across your other books.** The cross-book pattern rule: a tic that
-  worked in the last novel is a fingerprint if it comes back in this one.
-- **Watch for device bleed from the narrator.** The POV character's signature habit leaking
-  onto secondary characters is the specific failure that makes everyone sound alike, and
-  it is nearly invisible from inside a single chapter.
+What this means in practice:
+
+- **The bible records `Tic-bearer roster: NONE`** and every card's tic line reads
+  `none — distinguished by <axis>`. The architect never designs a tic; the writer never
+  hands a newcomer one; dialogue-polish removes any that forms.
+- **No devices either.** Counting, listing, pricing, rating, quantifying and cataloguing are
+  the same device in different coats, and the device is retired for everyone — not rationed
+  to one character.
+- **Motifs are objects and situations, not phrases.** A recurring *image* (the lamp, the
+  knot, the stamped loaf) is fine; a recurring *line* is a tic. The style-gate ALLOWLIST
+  stays short (≤5 phrases) and each entry is capped at 3 uses book-wide.
+- **Mechanically enforced every chapter** (see [QUALITY-GATES.md](QUALITY-GATES.md)):
+  `voice_wear_check.py` fails on any phrase a POV repeats across chapters;
+  `tic_report.py --gate` fails on any non-allowlisted phrase recurring 3+ times book-wide
+  and on any spoken phrase of 3+ words recurring in dialogue (a catchphrase forming); the
+  retired-phrase list fails on sight; the evaluator's tic-proliferation scan caps
+  Characters at 7.5 if ANY character leads with a tic.
+- **Watch for bleed from the narrator.** A POV character's habit leaking onto secondary
+  characters is the failure that makes everyone sound alike, and it is nearly invisible
+  from inside a single chapter — which is why the gate is book-wide, every chapter.
 
 ### The Amelia Lesson
 
@@ -81,9 +94,11 @@ a manuscript-wide de-tic pass.
 
 The lesson isn't "watch for that phrase." It's that voice tics **spread**, because each
 chapter's writer imitates the voice they can see in the previous chapters, and a habit
-repeated three times reads as intentional. So the bible carries a **retired / at-risk
-phrase list** (seeded with "never once"), and `voice_wear_check.py` catches calcification
-early. Prevention by construction, because detection at chapter 30 is already too late.
+repeated three times reads as intentional. That is why the budget is now zero rather than
+"a few, earned": the earned ones spread too. The bible carries a **retired / at-risk
+phrase list** (seeded with "never once"), and `voice_wear_check.py` + `tic_report.py`
+catch calcification every chapter. Prevention by construction, because detection at
+chapter 30 is already too late.
 
 ## The card format
 
@@ -142,16 +157,16 @@ Common case: a draft exists (yours, or an earlier pipeline run) and there's no b
 
 A returning character keeps their card. Copy it forward into the new book's bible and
 evolve it deliberately — a book of grief should change a voice — but never re-invent it
-from scratch, and never hand a returning character a tic they never had. Re-check the tic
-budget against the *new* book's cast, since a new cast can quietly push you over the
-≤2–3 ceiling. See [SERIES.md](SERIES.md).
+from scratch, and never hand a returning character a tic (nobody has one). Re-run the
+recurrence gate against the *new* book, since a phrase that was fresh in book one is a
+fingerprint by book three. See [SERIES.md](SERIES.md).
 
 ## Common failure modes
 
 | Symptom | What's actually wrong |
 |---|---|
 | Everyone sounds thoughtful and observant | The narrator's worldview has been given to the whole cast |
-| Every character has a catchphrase | Tic budget ignored; distinctness outsourced to decoration |
+| Any character has a catchphrase | The no-tics law ignored; distinctness outsourced to decoration |
 | Two characters feel like one | Device collision — check the one-device map |
 | Voices fine early, mushy after ch.20 | The bible stopped being updated at introduction time |
 | A phrase that was striking now grates | Motif calcification — check the retired/at-risk list and the motif cap |

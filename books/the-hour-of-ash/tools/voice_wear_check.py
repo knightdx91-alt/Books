@@ -44,13 +44,13 @@ BOOK_WIDE_RETIRED = [
 ]
 
 # RUN 2 — AUTHOR RULING: TIC BUDGET = 0. Single-POV book: unmapped chapters default to the
-# narrator so the self-repetition detector always runs. --strict turns every self-repeat
-# WARN into a hard FAIL (only the allowlisted object-motifs below are exempt, cap 3 book-wide).
+# narrator so the self-repetition detector always runs. Self-repeats are hard FAILS by default
+# (author's no-tics law); --lenient downgrades them to WARN for a diagnostic read (only the allowlisted object-motifs below are exempt, cap 3 book-wide).
 DEFAULT_POV = "Mara"
 SELF_REPEAT_ALLOW = [
     "the one it brought",
 ]
-STRICT = "--strict" in sys.argv
+STRICT = "--lenient" not in sys.argv   # the no-tics law: strict by DEFAULT; --lenient only for a diagnostic read
 
 # ---- Layer 3: optional named-device caps, keyed by POV character -------------
 # cap = max occurrences allowed PER CHAPTER for that character's POV chapters.

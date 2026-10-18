@@ -231,12 +231,15 @@ grows across 30+ chapters keeps every voice distinct instead of drifting into sa
 entry:
 - Give them a distinctness signature on the four axes (worldview, syntax, evasion, physicality) and a
   one-sentence **DISTINCTNESS GUARANTEE**.
-- **Check the TIC BUDGET first.** Do NOT hand the newcomer a verbal tic unless they are being added to
-  the ≤2–3-character tic-bearer roster on purpose. Default to "no tic — distinguished by <axis>."
-- **No device collision.** Verify the new voice does not reuse a DEVICE already assigned to an existing
-  character (counting/listing/pricing/rating/cataloguing are one device) — if it would, differentiate
-  before you finalize. Watch especially for the protagonist's signature device bleeding onto others
-  (the "everyone quantifies" failure): a secondary character must NOT borrow the narrator's habit.
+- **NO TICS (author's standing law, every book).** Never hand anyone — newcomer, principal, or the
+  narrator — a verbal tic, catchphrase, refrain or pet phrase. The tic line is always "none —
+  distinguished by <axis>." If you notice a line of yours wanting to come back a third time, that
+  is a tic forming: vary it or cut it before you finalize.
+- **No devices.** Counting/listing/pricing/rating/cataloguing are one device in different coats and it
+  is retired for everyone. Watch especially for the narrator's habits bleeding onto others (the
+  "everyone quantifies" failure): a secondary character must NOT borrow the narrator's way of noticing.
+- **The gates will catch it anyway:** `voice_wear_check.py` fails on a phrase repeated across chapters,
+  `tic_report.py --gate` on any phrase recurring 3+ times book-wide — so write it clean the first time.
 If the architect built the bible under a different filename (e.g. voice cards inside `voice-dna.md`),
 add the entry there and note it; the point is one canonical, growing home for cast distinctness.
 

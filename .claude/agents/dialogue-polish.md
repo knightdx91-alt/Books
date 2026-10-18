@@ -26,7 +26,7 @@ The goal: every line of dialogue in the manuscript should pass the **Cover-the-N
 
 1. **Chapter draft** — the prose-craft output file (e.g., `chapters/chapter-03.md`)
 2. **voice-dna.md** — must contain:
-   - Character voice cards with speech patterns, vocabulary, verbal tics, sentence length preferences
+   - Character voice cards with speech patterns, vocabulary, evasions, sentence length preferences (NO verbal tics — the author's standing law; if a character's line is recurring, vary or cut it)
    - Dialogue-to-prose ratio target for the genre
    - Any character-specific dialogue rules (e.g., "Marcus never uses contractions when angry")
 3. **foundation.md** — for character profiles (wound, lie, want, need) to inform subtext decisions

@@ -77,14 +77,15 @@ Score each dimension from 6.0 to 10.0. The floor is the score.
 
 ### Dimension 3: CHARACTERS
 - **Cover-the-name test.** Can you identify speakers from dialogue alone?
-- **Tic-proliferation / device-bleed scan (the "everyone sounds alike" failure).** Flag if MORE than
-  ~2–3 characters in the cast lead with a verbal tic/catchphrase, or if two characters share the same
-  DEVICE (counting, listing, pricing, rating, cataloguing = one device in different coats), or if the
-  narrator's signature device has bled onto secondary characters so they quantify/catalogue the same
-  way. Any of these caps Characters at 7.5 — a cast distinguished only by catchphrases, or one where the
-  POV voice has infected the others, is not a distinct cast. Cross-check new named characters against
-  `character-bible.md`: a newcomer with no distinctness entry, or one whose tic duplicates an existing
-  character's, is a finding.
+- **NO-TICS scan (author's standing law: tic budget = 0, every book).** Flag if ANY character in the
+  cast — the narrator included — leads with a verbal tic, catchphrase, refrain or pet phrase (a line
+  that has come back a third time is a tic), or if any character carries a DEVICE (counting, listing,
+  pricing, rating, cataloguing = one device in different coats; retired for everyone), or if the
+  narrator's habits have bled onto secondary characters so they notice/quantify the same way. Any of
+  these caps Characters at 7.5 — a cast distinguished by catchphrases, or one where the POV voice has
+  infected the others, is not a distinct cast. Cross-check new named characters against
+  `character-bible.md`: a newcomer with no distinctness entry, or any card whose tic line is not
+  "none", is a finding. Cite the recurring line and its count.
 - **Chaos check (genre-adjusted V3.2):** Does the chapter include character chaos moments?
   - Irrelevant thought present? (not plot-functional)
   - Cognitive distortion visible in behavior?

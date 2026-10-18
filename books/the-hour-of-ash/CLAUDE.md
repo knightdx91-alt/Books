@@ -48,7 +48,7 @@ for N in 1..total_planned:
   G  quality gate       → PASS only if Genesis Floor ≥ 8.5 AND Casual ≥ 8.5 AND PACING ok AND
                            gates clean. Else book-editor on the named dimensions → re-run E+F
                            (max 5 cycles; a chapter below the hard floor never ships).
-  → update character-bible.md (new named character = new entry; TIC BUDGET is a ceiling),
+  → update character-bible.md (new named character = new entry; NO tics, ever),
     STATE.yaml (chapters.completed, scores), feedback/progress.md (one-line pacing verdict),
     then: git add -A && git commit -m "the-hour-of-ash: finalize chapter N" && git push origin main
 ```

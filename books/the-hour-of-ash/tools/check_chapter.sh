@@ -25,7 +25,7 @@ line "2. GRAMMAR (hard)";           python3 tools/grammar_check.py 2>&1 | grep -
 line "3. RHYTHM";                   python3 tools/rhythm_check.py 2>&1 | grep -iE "chapter-${N}\.md|TOTAL"
 line "4. SHOW/TELL (too-descriptive) — chapter row + any book-wide heavies for this ch"
 python3 tools/show_tell_check.py 2>&1 | grep -E "chapter *wds|chapter-${N}\.md"
-line "5. VOICE-WEAR (strict: self-repetition BLOCKS — tic budget 0)"; python3 tools/voice_wear_check.py --strict 2>&1 | grep -iE "\[.*\].*ch |RETIRED|RESULT"
+line "5. VOICE-WEAR (strict: self-repetition BLOCKS — tic budget 0)"; python3 tools/voice_wear_check.py 2>&1 | grep -iE "\[.*\].*ch |RETIRED|RESULT"
 line "5a. TIC GATE (any non-allowlisted phrase 3+ times book-wide = defect)"; python3 tools/tic_report.py --gate 2>&1 | sed -n "/AUTO-RECURRENCE/,\$p"
 line "5b. METAPHOR/SENTENCE-SHAPE (register: figurative load + long-sentence %)"
 python3 tools/metaphor_check.py 2>&1 | grep -E "wds|^ *${N} " | head -2

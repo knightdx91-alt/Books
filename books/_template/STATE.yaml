@@ -70,7 +70,7 @@ open_author_decisions:
 character_bible:
   created: false
   entries: 0          # named characters carrying a voice card + DISTINCTNESS GUARANTEE
-  tic_bearers: []     # the <=2-3 characters allowed to LEAD with a verbal tic
+  tic_bearers: []     # ALWAYS empty — the author's no-tics law (no character carries a verbal tic, ever)
 
 # SERIES — delete this block for a standalone book. See docs/SERIES.md.
 # series:

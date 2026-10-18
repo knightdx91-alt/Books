@@ -144,7 +144,7 @@ books/<slug>/
 ├── foundation.md         # characters (with chaos), theme-as-question, anchors, opening strategy
 ├── outline.md            # macro-structure block + per-chapter beats
 ├── voice-dna.md          # global voice, differentiation matrix, anti-pattern budget
-├── character-bible.md    # per-character voice cards + the TIC BUDGET  → CHARACTER-BIBLE.md
+├── character-bible.md    # per-character voice cards, no tics ever  → CHARACTER-BIBLE.md
 ├── ENTITY_STATE.yaml     # structured canon: facts, timeline, who-knows-what-when
 ├── reader-personas.md    # primary (drives writing), hostile (drives evaluation), stretch
 ├── voice-bank/           # benchmark prose samples this book is aiming at

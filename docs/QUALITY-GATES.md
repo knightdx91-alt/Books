@@ -160,6 +160,23 @@ self-repetition per POV** (no configuration; it finds phrases a POV repeats acro
 chapters), and optional **named-device caps** per character. Multi-POV books get a
 `feedback/pov-map.txt` (`chapter-N: Name` per line); single-POV books can skip it.
 
+### `tic_report.py --gate` — the no-tics gate (shipped with every book)
+
+```bash
+python3 books/<slug>/tools/tic_report.py --gate      # every chapter
+```
+
+The author's standing law is that **no character, narrator included, carries a verbal tic,
+catchphrase, refrain or device — in any book, ever.** `voice_wear_check.py` catches a POV
+repeating itself across chapters (its self-repetition findings FAIL, not warn). This gate
+closes the other door: any content-rich phrase of 3–6 words recurring **3+ times across the
+whole book**, and any spoken phrase of 3+ words recurring in dialogue (a catchphrase
+forming), fails the chapter. The only exemptions are the few allowlisted object-motif
+phrases (≤5, each capped at 3 uses) and a short list of unavoidable world terms (place
+names, titles). On a finished unguided draft it typically finds a dozen lines the writer
+never noticed — "for the first time" fourteen times, a character's favourite saying six
+times — which is exactly the creep it exists to stop.
+
 ### `shape_check.py` — the predictability audit (shared, book-agnostic)
 
 ```bash

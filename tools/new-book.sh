@@ -67,6 +67,7 @@ mkdir -p "$DEST"/{research,manuscript/chapters,evaluations/continuity,feedback,d
 [[ -f "$TPL/tools/style_check.py" ]]  && cp "$TPL/tools/style_check.py"  "$DEST/tools/style_check.py"
 [[ -f "$TPL/tools/grammar_check.py" ]]&& cp "$TPL/tools/grammar_check.py" "$DEST/tools/grammar_check.py"
 [[ -f "$TPL/tools/voice_wear_check.py" ]]&& cp "$TPL/tools/voice_wear_check.py" "$DEST/tools/voice_wear_check.py"
+[[ -f "$TPL/tools/tic_report.py" ]]      && cp "$TPL/tools/tic_report.py"      "$DEST/tools/tic_report.py"
 [[ -f "$TPL/delivery/ebook.yaml" ]]     && cp "$TPL/delivery/ebook.yaml" "$DEST/delivery/ebook.yaml"
 [[ -f "$TPL/delivery/cover.yaml" ]]     && cp "$TPL/delivery/cover.yaml" "$DEST/delivery/cover.yaml"
 [[ -f "$TPL/delivery/acx.yaml" ]]       && cp "$TPL/delivery/acx.yaml" "$DEST/delivery/acx.yaml"

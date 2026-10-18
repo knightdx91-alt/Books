@@ -38,7 +38,7 @@ books/<slug>/
 ├── foundation.md              # characters, theme-as-question, anchors, opening strategy
 ├── outline.md                 # macro-structure + per-chapter plan
 ├── voice-dna.md               # global voice, differentiation matrix, anti-pattern budget
-├── character-bible.md         # cast VOICE/distinctness — ADD every new named character (tic budget)
+├── character-bible.md         # cast VOICE/distinctness — ADD every new named character (no tics, ever)
 ├── ENTITY_STATE.yaml          # entity-tracker's structured canon (facts, timeline, who-knows-what)
 ├── research/                  # staged source: original draft, story/series bible, roadmap
 ├── manuscript/chapters/       # chapter-1.md ... chapter-N.md (the book)
@@ -70,8 +70,10 @@ answers to the series bible — see `docs/SERIES.md`.
   declaring a motif does NOT license unlimited use. Entries are `"phrase"` (cap 3) or
   `("phrase", N)` to raise the cap for a genuinely load-bearing image (keep overrides rare/small).
   The gate FAILS if any motif exceeds its cap.
-- **Tic budget** — `character-bible.md` §TIC BUDGET holds: ≤2–3 tic-bearing characters in the
-  whole book, no two characters sharing a device.
+- **NO TICS (author's standing law)** — `character-bible.md` records `Tic-bearer roster: NONE`:
+  no character, narrator included, carries a verbal tic, catchphrase, refrain or device.
+  `python3 tools/voice_wear_check.py` (self-repetition FAILS) and `python3 tools/tic_report.py
+  --gate` (any non-allowlisted phrase 3+ times book-wide FAILS) run every chapter.
 
 ## Word floor
 Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:

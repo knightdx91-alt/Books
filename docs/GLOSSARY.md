@@ -4,7 +4,7 @@ The pipeline's working vocabulary, in one place.
 
 **Amelia Lesson** — the named precedent for tic calcification: a counting device and the
 phrase "never once" hardened into a tic and then bled across the cast until everyone sounded
-alike, requiring a manuscript-wide de-tic. Why the tic budget and the retired-phrase list
+alike, requiring a manuscript-wide de-tic. Why the no-tics law and the retired-phrase list
 exist. See [CHARACTER-BIBLE.md](CHARACTER-BIBLE.md).
 
 **Anti-pattern budget** — genre-adjusted density ceilings (per 1,000 words) for explanatory
@@ -115,8 +115,10 @@ the beats; the book *total* is the only word gate.
 **Theme as question** — a book asks; it never answers. The architect writes the theme as an
 interrogative and the ending refuses to resolve it into a moral.
 
-**Tic budget** — at most 2–3 characters in a whole book may lead with a verbal tic, each
-earned; no two characters share a device; no signature repeats across your other books.
+**No-tics law** (formerly the "tic budget") — the author's standing rule, every book: no
+character, narrator included, carries a verbal tic, catchphrase, refrain or device. Motifs
+are objects and situations, never lines; allowlisted phrases are capped at 3 uses. Enforced
+by `voice_wear_check.py`, `tic_report.py --gate` and the evaluator every chapter.
 
 **Tomorrow Test** — what concrete anchors does a reader still remember tomorrow? Counts both
 image and quote anchors; a CVI-Launch input.

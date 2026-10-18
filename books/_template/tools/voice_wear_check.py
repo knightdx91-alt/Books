@@ -13,8 +13,7 @@ not a hardcoded few. It has three layers:
   2. Auto-detected self-repetition (per character, no hardcoding) — for each POV
      it gathers that character's chapters and finds multi-word phrases the POV
      repeats across its own chapters. Works for any POV character and any future
-     POV the moment they appear in feedback/pov-map.txt (one "chapter-N: Name"
-     line per chapter; single-POV books can skip the file entirely).
+     POV (Rosalia, Maren, Loric...) the moment they appear in feedback/pov-map.txt.
      This is the universal engine — every character is covered automatically.
 
   3. Named-device caps (optional, per character) — hand-tuned regexes with a
@@ -37,16 +36,29 @@ POV_MAP_FILE = os.path.join(HERE, '..', 'feedback', 'pov-map.txt')
 # ---- Layer 1: book-wide retired phrases (hard fail anywhere) ----------------
 BOOK_WIDE_RETIRED = [
     r"\bnever once\b",
+    # retired performed-candour / narrator reflexes (pipeline-wide):
+    r"\bI want (?:that|this|it) (?:on the record|written down|noted)\b",
+    r"\bI want to be (?:exact|clear|honest|precise)\b",
+    r"\blet it be said\b", r"\bI will be honest\b", r"\bI mention it because\b",
+    r"\bfor the record\b",
 ]
+
+# AUTHOR'S NO-TICS LAW (every book): tic budget = 0. Single-POV books: unmapped chapters default to
+# the narrator so the self-repetition detector always runs. Self-repeats are hard FAILS by default
+# (author's no-tics law); --lenient downgrades them to WARN for a diagnostic read (only the allowlisted object-motifs below are exempt, cap 3 book-wide).
+DEFAULT_POV = None   # set to the narrator's name for a single-POV book; multi-POV books use feedback/pov-map.txt
+SELF_REPEAT_ALLOW = [
+    # this book's few allowlisted OBJECT-motif phrases (mirror tools/style_check.py ALLOWLIST; cap 3)
+]
+STRICT = "--lenient" not in sys.argv   # the no-tics law: strict by DEFAULT; --lenient only for a diagnostic read
 
 # ---- Layer 3: optional named-device caps, keyed by POV character -------------
 # cap = max occurrences allowed PER CHAPTER for that character's POV chapters.
 # Extend freely; anything not listed is still covered by layer 2.
 CHARACTER_DEVICES = {
-    # Per-book, and usually empty to start with: layer-2's generic n-gram
-    # self-repetition covers every POV automatically. Add an entry only once a
-    # specific signature starts calcifying:
-    #   "CharacterName": [ ("label", r"regex", per_chapter_cap), ... ]
+    # Pompeii is single-POV first-person retrospective (Mara). No per-character
+    # device caps needed yet; layer-2 generic n-gram self-repetition still applies.
+    # Add "Mara": [ (label, regex, cap), ... ] here if a tic emerges.
 }
 
 # ---- generic n-gram self-repetition (layer 2) -------------------------------
@@ -109,13 +121,13 @@ def main():
         who = pov.get(n)
         if who is None:
             unmapped.append(n)
-            who = "UNKNOWN"
+            who = DEFAULT_POV
         by_pov[who].append(f)
 
     print("=" * 70)
     print("VOICE-WEAR CHECK — per character (whole book)")
     print("=" * 70)
-    if unmapped:
+    if unmapped and not DEFAULT_POV:
         warnings.append(f"chapters not in pov-map.txt (add them): {unmapped}")
 
     # ---- Layer 1: book-wide retired phrases --------------------------------
@@ -194,8 +206,12 @@ def main():
                 continue
             kept.append((spread, total, g))
         if kept:
-            for spread, total, g in sorted(kept, key=lambda x: (-x[0], -x[1]))[:12]:
-                warnings.append(f"  [{who}] self-repeat: \"{' '.join(g)}\" — in {spread} ch, {total}x total")
+            for spread, total, g in sorted(kept, key=lambda x: (-x[0], -x[1]))[:40]:
+                joined = " ".join(g)
+                if any(a in joined or joined in a for a in SELF_REPEAT_ALLOW):
+                    continue
+                msg = f"  [{who}] self-repeat: \"{joined}\" — in {spread} ch, {total}x total"
+                (failures if STRICT else warnings).append(msg)
             print(f"  self-repetition: {len(kept)} phrase(s) recur across {who}'s chapters (see WARN).")
         else:
             print("  self-repetition: none above threshold.")
@@ -213,7 +229,7 @@ def main():
             print(x)
         print("=" * 70)
         return 1
-    print("RESULT: clean — no retired phrases, no device over cap.")
+    print("RESULT: clean — no retired phrases, no device over cap" + (", no self-repetition (strict)" if STRICT else "") + ".")
     print("=" * 70)
     return 0
 

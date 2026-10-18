@@ -80,9 +80,9 @@ touches the new book.
 
 1. **Character bible.** Copy the previous book's forward. Prune characters who are gone;
    keep returning characters' voice cards verbatim, then evolve them deliberately if the
-   last book changed them. Re-check the **TIC BUDGET against the new cast** — a new book's
-   newcomers can push you past the ≤2–3 tic-bearer ceiling even though each book looked
-   fine alone.
+   last book changed them. The **no-tics law** still holds: nobody gains a tic in book two,
+   and a phrase that was fresh in book one is a fingerprint by book three — run
+   `tic_report.py --gate` against the new book from chapter one.
 2. **ENTITY_STATE.yaml.** Seed the new book's from the previous book's *final* state
    (`entity-tracker` BUILD mode with the old file as input). This is what preserves
    **who-knows-what across the book boundary** — the single hardest continuity problem in
