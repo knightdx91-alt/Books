@@ -68,8 +68,10 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   rarely uses them in calm narration.
 - **Evasion — never says:** the word *love* in her own narration until Part Two (first use no earlier
   than Ch.19, and rare after that); her father's death stated plainly (she circles it through his
-  objects); any claim to be brave; any request to be looked after. After Ch.25 she will not use the
-  future tense about the door until Ch.36.
+  objects); any claim to be brave; any request to be looked after. After Ch.25 she will not put
+  **Fenn's date** in the future tense (no "it will open in seventy-nine") until Ch.36. Hope for an
+  earlier opening (Ch.30) and the argument over whether the door would take the children (Ch.33) are
+  allowed; what she refuses is the date. She never says "Margaret" to Fenn.
 - **Physicality / silence:** steady, competent hands that betray her only at thresholds. She **touches
   surfaces to read them** (a thumbnail along a seam, a fingertip on a glaze, her palm on painted
   plaster). When she cannot speak she *inspects* something. Under pressure her hands act neatly by
@@ -79,7 +81,8 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **Bleed guard:** her dry asides and her eye for materials must never migrate into anyone else's
   dialogue. Avoid "the conservator in me" as a recurring phrase (at-risk list).
 - **Chaos on the page (subjects, never phrases):** **teeth** (full surfacings Ch.7, 20, 31; glancing
-  mentions only where the outline marks them; at most one introduction-by-teeth in any four chapters).
+  only in Ch.2 floss, Ch.5 Kallia inspects hers, Ch.15 Valens's, Ch.24 the midwife's; the Ch.24
+  midwife is the book's only introduction-by-teeth, and the rule stays at most one in any four chapters).
   **All-or-nothing** (Ch.1, 5, 7, 9, 20, 29, 33; the ending must read as accepting a seam, not as this
   distortion). **Mrs. Dunphy** (Ch.7 green cardigan; Ch.24 brown; Ch.41 unsure it was long division).
   **Mundane breaks** (Ch.6 the scream, Ch.20 the pebble, Ch.22 the sneeze).
@@ -128,7 +131,7 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   scores. **He sees people last.** His worldview: his real life is the one he is going back to. He has
   never furnished a room here.
 - **Vocabulary band:** **in English, frozen in 1968** (see the pool below), with Navy and treasure-hunter
-  bravado and Philadelphia vowels. **In Greek, perfect, formal and courtly** after thirty-four years. He
+  bravado and Philadelphia vowels. **In Greek, perfect, formal and courtly** after more than three decades. He
   is the only character whose second language is better than his first is current. His English documents
   move from boyish capitals (1967) to small, tired script (1968).
 - **Syntax fingerprint:** **excited:** runaway sentences chained on "and," changing subject mid-stream and
@@ -137,7 +140,8 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   never in a verbal device.
 - **Rhythm:** bursts and collapses; asks questions and refuses the answers.
 - **Evasion — never says:** his sister's name in person until Ch.35 (his 1968 notebook names Margaret
-  freely; the silence grew over thirty-four years); that he is afraid of dying here; the word "home" for
+  freely; the silence grew over the decades). In Ch.25 "estate sale" tells him she is dead, and he does
+  not ask whose; he refuses the notebook until Ch.35. That he is afraid of dying here; the word "home" for
   anywhere in this century. He talks about going back in a confident future tense until the day he dies.
   No deathbed conversion and no wisdom.
 - **Physicality / silence:** ink-stained fingers, a tremor in the left hand, a 1968 Zippo turned over and
@@ -157,7 +161,10 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **Chaos on the page (subjects, never phrases):** **the 1964 Phillies** (Ch.25, 26, 29, 35: the 6½-game
   lead with 12 to play). **The automat** (Ch.25 coconut cream; Ch.27 lemon meringue; Ch.35 he can't
   remember the pie). **Sunk cost** (he finishes every terrible jar of wine he has paid for). **The rage**
-  (Ch.26 the "voicemail" letter; Ch.27 in person).
+  (Ch.26 the "voicemail" letter, once only; never repeated in person, so it cannot become a bit).
+- **What he knows (fixes the Ch.25 delivery):** he knows from school that Pompeii dies in 79, and he
+  rebuilt his door-tables around it after his 71 and 73 dates failed. He believes the doors are one door
+  with many mouths, which is what his "it" means in "the one it brought."
 - **DISTINCTNESS GUARANTEE:** the only voice that runs on 1968 American slang in breathless "and"-chains
   and talks about the future as a place he is going, against Mara's precise 1998 English, which will not
   name the future at all.
@@ -196,20 +203,22 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **Vocabulary band:** plain mountain Phocian Greek, a farmer's widow's words. **No oracular verse, no
   riddles, no portent**, except when she repeats the god's public answer, which is *his* language and not
   hers.
-- **Syntax fingerprint:** grumbling run-on complaint, then a flat fact delivered with no softening. She
+- **Syntax fingerprint:** grumbling run-on complaint, then a flat fact delivered with no softening.
+- **Fact:** she goes down into the adyton on the monthly consultation days of the warm season. In Ch.13
+  she takes Mara's last two ibuprofen for her knees without thanks. She
   refuses questions or answers them in one word.
 - **Rhythm:** a long complaint, then a short answer, then a return to the complaint.
 - **Evasion — never says:** anything comforting; any explanation; any hint of the hour. Whether the hour
   is "not hers to give" or "not given," she will not say which.
 - **Physicality / silence:** sits whenever she can and lowers herself with a hand on her knee. Feeds the
-  crows the god's barley and lies about it.
+  crows the god's barley, shouts at them for taking it, and lies about it.
 - **Verbal tic:** none — distinguished by attention (her body and her grievances) and evasion (no
   comfort, no explanation)
 - **Bleed guard:** must not sound like Kallia (see the guarantee) or like a fantasy oracle.
 - **DISTINCTNESS GUARANTEE:** the only character who talks freely about herself and gives nothing away,
   against Kallia, who gives a stranger a roof and never says a word about herself.
-- **Sample line:** "Twice a month that god has me down a hole on these knees, and those men won't spare me
-  a stool. Well? Ask it. It's going to rain."
+- **Sample line:** "Once a month all summer that god has me down a hole on these knees, and those men won't
+  spare me a stool. Well? Ask it. It's going to rain."
 
 #### FELIX — Valens's mule-boy, bought off a Kirrha slaver c. AD 70 aged ~12 and freed with no papers; later sworn to Pompeii's gladiator school (Ch.11–40)
 - **Attention / worldview:** fame, fights, who is winning, who is watching. The arena is the most glorious
@@ -234,7 +243,7 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 
 #### PLAUTIA — Celer's divorced wife; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
-  Marcus, seven, kept by his father under Roman law). She has learned that everything can be taken, so
+  Marcus, b. autumn AD 64: seven in Ch.16, nine in Ch.22; kept by his father under Roman law). She has learned that everything can be taken, so
   she gives it away first.
 - **Vocabulary band:** an aristocrat's exquisite Latin (in Corinth also polished Greek); legal terms used
   correctly (dowry, the *actio rei uxoriae*, guardianship).
@@ -255,7 +264,7 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   never been permitted to meet, has asked the court to consider his reputation; do you think the boy
   still knows my face?"
 
-#### QUINTUS ARRIUS CELER — legate on the proconsul's staff at Corinth; the defendant in Rome (Ch.12 by proxy, Ch.17, Ch.22)
+#### QUINTUS ARRIUS CELER — legate on the proconsul's staff at Corinth until Nero's grant of freedom (late 67), out of office at the frame (69), back on the restored proconsul's staff by 71–72; the defendant in Rome (Ch.12 by proxy, Ch.17, Ch.22)
 - **Attention / worldview:** standing, reputations, who is watching, which way a room leans. Everyone is
   a friend he has not yet needed. Settled by dowry law, never by violence.
 - **Vocabulary band:** senatorial Latin worn lightly; easy, social, unhurried.
@@ -461,7 +470,7 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **Sample line:** "Greet Philon the potter for me, and his wife, and old Damo by the spring, and tell them
   the sun here is a thing they would not believe."
 
-#### MARCUS — Plautia's son, aged 7 (glimpsed Ch.22)
+#### MARCUS — Plautia's son, b. autumn AD 64; aged 9 when glimpsed (Ch.22, spring 74)
 - **Attention / worldview:** what he has been told to do; his mother's face, which he is relearning.
 - **Vocabulary band:** a well-schooled aristocratic child's Latin, formal beyond his years.
 - **Syntax fingerprint:** a sentence he has been taught, then one of his own that comes out too fast.
@@ -591,6 +600,8 @@ line each, so that walk-ons don't all sound like Mara.
 | "the cave of the nymphs" | 2 | vary: the Corycian, the cave, Pan's cave |
 | "wound the watch" / "my father's watch" | 2 each | the winding recurs in Ch.18, 24, 32, 41; new verb phrase each time |
 | "the painted door" | 2 | vary: the false door, the plaster door, the dead man's door |
+| "painted on a dead man's house" | 1 | the second marker in the god's answer (Ch.13, Valens's repetition only); Ch.19 recognition is worded fresh |
+| "one door with many mouths" | 1 | Fenn's idea of the doors (Ch.25); paraphrase after |
 | "hand at the threshold" / "the visible seam" | 0 | design labels for the Writer, never page text |
 | any phrase in a sample line in this file or in a voice-bank sample | 0 | calibration only |
 
@@ -629,7 +640,7 @@ Ten unattributed lines, one per frequent speaker, written fresh for the test and
 1. "Ground's bad past the bridge. We lead them."
 2. "Is he fighting Tuesday? Is it the thraex? Can I carry his shield in? Who's paying?"
 3. "Beans first. Then you can talk."
-4. "And the thing is, the tables were right in sixty-two and I was laid up in Misenum with a fever,
+4. "And the thing is, the door was open in sixty-two and I was laid up in Misenum with a fever,
    three days, holy cow, three lousy days."
 5. "We needn't make an enemy of each other over a little paper, need we?"
 6. "You will forgive me for asking it plainly: did he ever love you?"
@@ -657,3 +668,9 @@ finalizing the chapter. Never add a tic to fix it.
 - 2026-10-18: seeded by the architect (voice mode, run 2). 20 named entries: 3 principals, 6 major
   secondaries, 2 children, 3 frame characters, 6 minor; plus the guide to unnamed walk-on roles.
   Tic-bearer roster NONE.
+- 2026-10-18 (architect patch pass, outline audit run 2): facts only, no voice changes. Marcus
+  b. autumn AD 64 (7 in Ch.16, 9 in Ch.22). Celer's post re-dated around Achaea's "freedom". Theano's
+  consultation rhythm (monthly) and her crows (feeds and shouts). Fenn: knows 79, the 71/73 dates,
+  "estate sale" in Ch.25, rage once (Ch.26). Mara: the future-tense evasion narrowed to Fenn's date; never
+  says "Margaret" to him; teeth schedule cut to Ch.2, 5, 7, 15, 20, 24, 31. At-risk list: two entries added.
+  Every tic line still reads "none — distinguished by <axis>".

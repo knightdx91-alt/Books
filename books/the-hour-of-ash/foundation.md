@@ -29,11 +29,11 @@
 
 **Structural premise (fiction formula).** Mara Reyes, a museum conservator who grew up waiting for an archaeologist father who always left for the past, must find the one door that will take her home to 1998. The Oracle of Delphi tells her where it is, under the mountain at Pompeii, but not when. Mara knows exactly what Pompeii means. She has to build a life in a doomed city while she waits for it. She also has to resist the obvious arithmetic, because her flaw is the habit she learned from her father: she lives like a visitor, with one foot always in the door.
 
-**Irony engine.** The door home is a lifeboat that opens only inside the catastrophe. To use it, Mara must keep the people she loves in Pompeii until the mountain breaks. And when it opens, it takes only the one it brought. *The only way out of the volcano is the thing that makes her stay in it.*
+**Irony engine.** The door home is a lifeboat that opens only inside the catastrophe. To use it, Mara must keep the people she loves in Pompeii until the mountain breaks. And when it opens, it takes back only someone the doors brought: her, and none of the people she has made here. *The only way out of the volcano is the thing that makes her stay in it.*
 
 **Escalation ladder (native, no injected events).**
 1. She can't get home through the door she came in by. The Oracle names Pompeii, and she alone knows what that word means.
-2. Fenn tells her the door opens in late summer of 79, the season of the eruption. She refuses the arithmetic, plans to leave Campania with her family before then, and gives up home.
+2. Fenn tells her the door opens in late summer of 79, the season of the eruption. She refuses the arithmetic (he has been wrong twice, and she tells herself he bent his tables to the history-book year) and keeps hoping for an earlier opening, a tremor's breath, that would take her home long before the mountain.
 3. Her son nearly dies of a fever a 1998 pharmacy would have cured in a week. Now she wants the door *for the children*. She bets her family on it, keeps them in the city, and the door opens for her alone.
 
 **The central question (only the last page answers it):** *When the door opens, will she go through?*
@@ -85,14 +85,14 @@ engagement_type:
 - **Physicality:** steady, competent hands that betray her only at thresholds. She touches surfaces to read them, and keeps her teeth clean like a religion (see obsession).
 
 **CHARACTER CHAOS (full, 4/4):**
-- **Irrelevant obsession: teeth.** In 1998 she flossed twice a day, bought a specific brush, and quietly judged dentists. In antiquity she is privately horrified by Roman tooth powder (burnt horn, eggshell) and by urine mouthwash. She chews a frayed mastic-wood stick and assesses every new acquaintance's teeth before their character. It surfaces Ch.7, Ch.20 and Ch.31, and nothing in the plot ever needs it.
+- **Irrelevant obsession: teeth.** In 1998 she flossed twice a day, bought a specific brush, and quietly judged dentists. In antiquity she is privately horrified by Roman tooth powder (burnt horn, eggshell) and by urine mouthwash. She chews a frayed mastic-wood stick and assesses every new acquaintance's teeth before their character. It has full surfacings in Ch.7, Ch.20 and Ch.31, and glancing touches only in Ch.2 (floss packed), Ch.5 (Kallia inspects *hers*), Ch.15 (Valens's) and Ch.24 (the midwife's, the chapter's designed surprise). That is the only introduction-by-teeth in the book. Nothing in the plot ever needs it.
 - **Cognitive distortion: all-or-nothing.** Mundanely so: a repair is invisible or it is a failure. Her Greek is fluent or it is useless, so she won't speak it in front of Kallia for a month. A day that started badly is written off. It shows in decisions: she throws out a bowl she mended because the seam shows (Ch.20), and refuses to sing at Saturnalia because she can't do it well (Ch.29). *Designer's note:* the ending must not read as this distortion. Staying is the moment she accepts a seam.
 - **Unprompted memory:** Mrs. Dunphy, a substitute teacher in fourth grade, who cried silently at her desk all through a long-division lesson while the class pretended not to see. No one ever learned why. The memory mutates: the cardigan is green in Ch.7, brown in Ch.24 (labor), and by Ch.41 (the tomb road) Mara is not sure it was long division. It is never connected to the plot.
-- **Failed emotional management:** two mundane breaks. (1) Ch.20: she weeps helplessly at a Pompeian street fountain because a stranger's toddler gives her a wet pebble. (2) Ch.22: she gets an uncontrollable fit of laughter in the Basilica Julia when a juror sneezes during the most serious testimony of Valens's life, and has to be walked out. Neither is earned by the plot. They just happen.
+- **Failed emotional management:** three breaks. (1) Ch.6: she screams at the shut cave wall. This is the one break the plot earns. (2) Ch.20: she weeps helplessly at a Pompeian street fountain because a stranger's toddler gives her a wet pebble. (3) Ch.22: she gets an uncontrollable fit of laughter in the Basilica Julia when a man on the benches sneezes during the most serious testimony of Valens's life, and has to be walked out. The last two are earned by nothing in the plot. They just happen.
 
 #### VALENS — the ex-gladiator (arena name "Lupus")
 - **Surface:** About 32 in AD 70. A big, scarred, unhurried muleteer who works the Kirrha–Delphi road with eleven mules, two horses and a boy. His manners are too good for a muleteer and his Greek is a soldier's. People stop asking where the scars came from.
-- **History [DECISION, salvaged and sharpened]:** Thracian-born, taken as a boy, trained at a gladiatorial school, fought as a *murmillo* in the Roman colony of Corinth. He won the wooden sword (*rudis*) and his freedom during the games for Nero's Greek tour (AD 66–67). He was then hired as sworn bodyguard to **Plautia**, wife of **Quintus Arrius Celer**, legate on the proconsul's staff at Corinth. In 69 Celer framed his wife with her bodyguard. The motive was money: a husband who divorced an adulterous wife could retain part of her dowry. Valens was the instrument. He was flogged, his manumission was contested and his copy of the record seized, and he fled into the mountains of Phocis. He was never Plautia's lover. Plautia's brother is now suing for the dowry, and Valens is the one witness who can prove the frame. That is why Celer's men are still looking for him.
+- **History [DECISION, salvaged and sharpened]:** Thracian-born, taken as a boy, trained at a gladiatorial school, fought as a *murmillo* in the Roman colony of Corinth. He won the wooden sword (*rudis*) and his freedom during the games for Nero's Greek tour (AD 66–67). He was then hired as sworn bodyguard to **Plautia**, wife of **Quintus Arrius Celer**, then a legate on the proconsul's staff at Corinth. Nero's grant of "freedom" to Achaea (late 67) abolished the post, and Celer stayed on in the colony as a great man without an office, in debt. In 69 Celer framed his wife with her bodyguard. The motive was money: a husband who divorced an adulterous wife could retain part of her dowry. Valens was the instrument. He was flogged and his copy of the manumission record seized. Celer contests the manumission itself: he claims the arena freedom was never registered before a magistrate and that he had bought Valens from the lanista before it could be, which is the basis of the "property of the household" notice (Ch.9). The archive copy in Corinth proves the registration, which is why Valens needs it (Ch.17). Valens fled into the mountains of Phocis. He was never Plautia's lover. Plautia's brother is now suing for the dowry, and Valens is the one witness who can prove the frame. **How Valens knows:** in the autumn of 70 the brother's freedman found him at Kirrha harbor and asked him to testify; Valens refused, and the reward notice went up within the month. He concludes that Celer wants a dead witness, not a recaptured slave, and tells Mara so in Ch.12.
 - **Wound:** Twice the property of other people's stories. First the arena owned his body. Then a powerful man owned the story told about him, and everyone believed it.
 - **Lie:** *"Whoever is close enough to know you is close enough to sell you. Be useful; be nobody."*
 - **Want:** To be left alone. His freedom on paper. A small life no one can take.
@@ -108,26 +108,26 @@ engagement_type:
 - **Irrelevant obsession: figs.** He has strong, unexplained opinions about figs: Chian against Caunian, the right week to pick, how to dry them. He keeps a fig tree in a pot wherever they live and moves it twice. It surfaces Ch.11, Ch.20 and Ch.34, and nothing ever comes of it.
 - **Cognitive distortion: mind-reading threat.** He reads neutral faces as hostile and is wrong in mundane ways. He is sure the Puteoli harbor clerk has marked him (the man is short-sighted), and sure Grata dislikes him (she fancies him).
 - **Unprompted memory:** strings of onions drying under the eaves of a house in Thrace, and the smell of them. It arrives at odd times (the Basilica, the inn bed, the tomb road) and he never explains it.
-- **Failed emotional management:** he weeps at a stupid mime farce in Pompeii's small theatre (Ch.29, Saturnalia season), at a slapstick bit about a cuckolded baker, and cannot stop. Lucius is mortified.
+- **Failed emotional management:** he weeps at a stupid mime farce on a street stage in Pompeii (Ch.29, Saturnalia season), at a slapstick bit about a cuckolded baker, and cannot stop. Lucius, about two and a half and on his shoulders, leans down and pushes a piece of bread at his father's mouth to make it better.
 
 #### AUGUST FENN — the vanished treasure hunter, marooned and old
-- **Surface (1998 documents):** Born 1934 in Philadelphia. Navy, then a self-styled treasure hunter with a run of failed expeditions (a Spanish wreck, a Knights Templar cache, the Alexandrian scrolls). He vanished in Greece in summer 1968, aged 34. His sister Margaret kept his boxes until her death in 1997, and the estate sale scattered them. The notebook voice is boyish, certain and funny, and it slowly loses its certainty.
+- **Surface (1998 documents):** Born 1934 in Philadelphia. Navy, then a self-styled treasure hunter with a run of failed expeditions (a Spanish wreck, a Knights Templar cache, the Alexandrian scrolls). He vanished in Greece in summer 1968, aged 34. He left his coat at the mouth of the Corycian Cave with the notebook in its pocket (Ch.27). A shepherd brought the coat down, and the US consulate in Athens forwarded his effects to his sister, so the notebook came home without him; the effects slip is still folded inside it (Ch.2). The map never went to Greece: he had copied the coordinates into the notebook and left the chart in Philadelphia. His sister Margaret kept his boxes until her death in 1997, and the estate sale scattered them. The notebook voice is boyish, certain and funny, and it slowly loses its certainty.
 - **Surface (AD 75):** about 68. He lives in Puteoli as **Augurinus**, a Greek-speaking "Chaldean" who casts horoscopes and teaches rich men's sons geometry. He is thin, sharp, kind and very lonely, and his English is frozen in 1968.
-- **The truth (author canon):** He went through the Corycian Cave in 1968, landed in AD 41, and could not return. He has spent 34 years tracking the doors. He missed the Pompeii door's last brief opening in the great earthquake of AD 62 by three days. He tells Mara the WHEN plainly the first time they meet (outline Ch.25): **late summer, AD 79.**
+- **The truth (author canon):** He went through the Corycian Cave in 1968, landed in AD 41, and could not return. He has spent 34 years tracking the doors. In AD 62 the great earthquake opened the Pompeii door for part of one night. Fenn was laid up with fever in Misenum; three days later he heard a Pompeian tavern story about a tomb whose painted door "breathed cold" the night of the quake, and that is how he found the door at all, dormant. He has waited for *that* door since 62. His first two dates for its reopening (71, then 73), worked from the tremor rhythm alone, failed: he sat at the tomb three nights each time and it stayed shut. After 73 he reworked the tables around the one event he knows is coming. He is an educated American and knows from school that Vesuvius destroys Pompeii in 79, and he reasons that the earth's biggest breath will open the door. His tremor figures now fit late summer 79. He means to be at the tomb in the night after the mountain opens and to be gone before the worst. He tells Mara the WHEN plainly the first time they meet (outline Ch.25): **late summer, AD 79.** That gives Mara her fig leaf: he has been wrong twice, and he built the third date around a year he already knew.
 - **Wound:** He left in a hurry, sure he'd be back by Labor Day, and left his sister with nothing but a note.
 - **Lie:** *"My real life is the one I'm going back to."* He has never furnished a room here.
 - **Want:** The door in 79.
 - **Need:** To admit he lived here. He never does. He dies in the winter of 78–79, months short of the door, still wanting it. That is the cautionary mirror: negative example, never a lecture.
 - **Attention (primary axis):** systems and patterns, such as tides, tremors, star tables and the doors' timing. He sees people last.
 - **Syntax:** dated American idiom and frozen 1960s slang, run in long runaway sentences when excited and brief when tired. In Greek he is perfect and formal. In English he is boyish. *No enumerating, numbering or listing habit: this is struck by the zero-tic ruling.* His mind for pattern shows in what he talks about, never in a verbal device.
-- **Evasion (never says):** in person (AD 75 on), his sister's name, until his last chapter. His young 1968 notebook names her freely; the silence grew over 34 years. Nor does he say that he is afraid of dying here.
+- **Evasion (never says):** in person (AD 75 on), his sister's name, until his last chapter. His young 1968 notebook names her freely; the silence grew over the decades. Mara keeps the silence with him: she never says the name to him (outline Ch.25, Ch.35). Nor does he say that he is afraid of dying here.
 - **Physicality:** ink-stained fingers, a tremor in the left hand, a 1968 Zippo lighter he refills with lamp oil and cannot make work.
 
 **CHARACTER CHAOS (full, 4/4):**
 - **Irrelevant obsession: the 1964 Phillies.** They blew a six-and-a-half-game lead with twelve games to go. He still argues it, explains baseball to Valens in the Saturnalia chapter, and draws a diamond in the dust for Lucius.
 - **Cognitive distortion: sunk cost.** He has waited so long that stopping would make the waiting worthless, so he cannot stop. This shows in small things too: he finishes every terrible jar of wine he has paid for.
 - **Unprompted memory:** a Horn & Hardart automat on Chestnut Street. Nickels in the slot, the little glass door, a slice of coconut cream pie. It mutates (lemon meringue the second time).
-- **Failed emotional management:** he flies into a rage at Mara for using 1990s English he doesn't know ("What the hell is a *voicemail*?") (Ch.26 letters / Ch.27 Cumae). The fury is about the language having moved on without him.
+- **Failed emotional management:** he flies into a rage at Mara for using 1990s English he doesn't know ("What the hell is a *voicemail*?") in a letter (Ch.26). It happens once and is never repeated as a bit. The fury is about the language having moved on without him.
 
 ### SECONDARY — MINI PROFILES (every character in 3+ chapters or pivotal speaking scenes)
 
@@ -140,28 +140,29 @@ engagement_type:
 #### THEANO — the Pythia (Ch.13; glimpsed Ch.8)
 - **Role:** the first and only early source of WHERE. She names Pompeii and withholds the hour.
 - **Her OWN problem:** her knees. The descent into the adyton hurts her every consultation day, and she is negotiating with the priests for a stool.
-- **One irrational behavior:** she feeds the sanctuary crows from the god's own barley and lies about it.
+- **One irrational behavior:** she feeds the sanctuary crows from the god's own barley, shouts at them for taking it (Ch.8), and lies about it. She goes down into the adyton on the monthly consultation days of the warm season.
 - **Voice:** plain mountain-Phocian Greek, not oracular verse. Off duty she sounds like a farmer's widow, which she is. She never comforts and never explains.
 
 #### FELIX — Valens's mule-boy, later an apprentice gladiator (Ch.11–40)
-- **Role:** the family's first member. Valens bought him off a slaver at Kirrha (about 12 in AD 70) and freed him informally. He follows them to Italy and is Lucius's idol.
+- **Role:** the family's first member. Valens bought him off a slaver at Kirrha (about 12 in AD 70) and freed him informally. Informal freedom leaves him a Junian Latin: free enough to swear the gladiator's oath as an *auctoratus* in Ch.28, and the lanista does not ask. He follows them to Italy and is Lucius's idol.
 - **His OWN problem:** he is arena-mad. In Pompeii, gladiator-crazy Pompeii, he wants exactly the life that nearly destroyed Valens, and at 18 he sells himself to the gladiator school (Ch.28).
 - **One irrational behavior:** he scratches a tiny palm-branch on every wall he leans against, the victory sign of a fighter he has never been.
 - **Voice:** fast, boastful street Greek that turns into Pompeian Latin slang. He asks three questions before anyone answers one. He never admits being afraid of Valens's disapproval. He is always moving.
 
 #### PLAUTIA — the woman in Valens's scandal (Ch.16–17, Ch.22)
 - **Role:** the past as supplicant, not villain. She needs Valens's testimony.
-- **Her OWN problem:** under Roman law her husband kept their son, Marcus, now seven, after the divorce. She has seen him twice in three years. The dowry suit is her only leverage for access.
+- **Her OWN problem:** under Roman law her husband kept their son after the divorce. Marcus was born in the autumn of AD 64, so he is seven in the Ch.16 winter (71–72) and nine at the Rome trial (spring 74, Ch.22). She has seen him twice in the three years since the divorce. The dowry suit is her only leverage for access; Celer grants it privately as the price of a quiet settlement (Ch.22).
 - **One irrational behavior:** she gives away anything anyone admires: a bracelet, a cloak, her lamp. Then she grieves for it.
 - **Voice:** an aristocrat's exquisite Latin, formal and subordinate-clause-heavy, with sudden blunt questions. She never names the night she was framed.
 
 #### QUINTUS ARRIUS CELER — the legate (Ch.12 by proxy, Ch.17, Ch.22)
+- **Post:** legate on the proconsul's staff at Corinth until late 67. He was out of office during Achaea's "freedom" (the frame, 69), and back on the staff of the restored proconsul by 71–72, which gives him his influence over the provincial record office (Ch.16–17).
 - **Role:** the human antagonist of the Greek half and the defendant in Rome. He is not a recurring villain after Ch.22. Roman law, not a sword, ends him: he is humiliated and pays.
 - **His OWN problem:** his debts and the career ladder. He needs a praetorship and is two years behind his rivals.
 - **One irrational behavior:** he will not walk under ladders or scaffolding, even in a city being rebuilt. His men carry him around it.
 - **Voice:** genial, reasonable and patient. He talks as if he were already your friend. He never raises his voice and never says the word *wife*.
 
-#### POMPONIA GRATA — thermopolium keeper on the Via dell'Abbondanza, the family's landlady and neighbor (Ch.20–40)
+#### POMPONIA GRATA — thermopolium keeper on the Via dell'Abbondanza, the family's landlady and neighbor (Ch.19–40)
 - **Role:** Pompeii's welcome, loud and transactional. She rents them the shop front and the rooms behind it.
 - **Her OWN problem:** her husband gambles at dice in the back room, and her son Secundus is running for aedile (Ch.31) on money they do not have.
 - **One irrational behavior:** she whitewashes over every election notice on her wall that isn't for her son, at night, personally.
@@ -176,7 +177,7 @@ engagement_type:
 Irene Szabo (Pine Street dealer, Ch.1), Emilio Reyes (absence: objects and the answering-machine voice), Prof. Halloran (phone, Ch.1–2), Ariston (Kallia's son, letter only), Philokrates (Greek physician, Ch.32), Marcus (Plautia's son, glimpsed Ch.22).
 
 ### ANTAGONIST FORCES (Outlander-style pressure systems, no single villain)
-1. **The door**: rule-bound and indifferent. It takes back the one it brought.
+1. **The door**: rule-bound and indifferent. It takes back only those the doors brought.
 2. **History**: AD 79. Mara knows the year from the start, and that knowledge is honest in-scene dread, not narratorial foreshadowing.
 3. **Status law**: a foreign woman with no guardian is legally nobody. Then come a freedman's contested papers, a mother's lost custody, and a Roman husband's rights.
 4. **Celer**: the human threat of Part One, settled by law at ~53%.
@@ -195,7 +196,7 @@ Irene Szabo (Pine Street dealer, Ch.1), Emilio Reyes (absence: objects and the a
 | 4 | A goat-boy's word for her, which she can read but not hear | She is overwhelmingly *hungry* rather than amazed |
 | 5 | The temple of Apollo painted: red, blue, gilt, garish, *ugly* to a woman who loved the white ruin | The intact sanctuary disappoints her, and the disappointment shames her |
 | 6 | Valens winding her father's watch the wrong way, carefully, with a thumb too big for the crown | She hits the cave wall and Valens laughs, kindly, because it is the first honest thing she's done |
-| 7 | A borrowed wool himation that smells of the woman who wore it before her | The worst humiliation (being registered as Kallia's property) lands as relief: at last she is *somebody's* |
+| 7 | A borrowed wool himation that smells of the woman who wore it before her | The worst humiliation (being registered as Kallia's dependent kinswoman "from Syracuse") lands as relief: at last she is *somebody's* |
 | 8 | Women asleep in a heap in the snow on Parnassus, steam rising off them | A sacred midnight rite turns into a farce about wet sandals, and that is where Mara first belongs |
 | 9 | A real manumission inscription cut into the polygonal wall, a slave "sold to Apollo" | Mara's skill at mending a priest's bronze earns her money and contempt in the same breath |
 | 10 | Kallia's broom left across the empty room's threshold | The letter's good news (the son is alive) is the worst news Kallia could get |
@@ -210,11 +211,11 @@ Irene Szabo (Pine Street dealer, Ch.1), Emilio Reyes (absence: objects and the a
 | 19 | The green, vine-covered mountain from the deck at Puteoli, a single broad summit, nothing like the postcards | She refuses to photograph it. Valens says it is a fine mountain for vines, and she agrees |
 | 20 | A lamp she mended for a customer, the seam showing on purpose | Weeping at a street fountain over a toddler's wet pebble |
 | 21 | Felix's palm-branch scratched into the plaster outside the gladiator barracks | Valens's old fame is *flattering* to him, and he hates that it is |
-| 22 | Valens saying his own name in the Basilica Julia, loud enough for the back benches | Mara's fit of laughter at the sneezing juror |
-| 23 | The rough inn blanket and the rain on its roof tiles, her pregnant body, his care | After vindication he is *sad*, not triumphant: the truth cost three years and changes nothing about his back |
+| 22 | Valens saying his own name in the Basilica Julia, loud enough for the back benches | Mara's fit of laughter at a sneeze from the benches |
+| 23 | The rough inn blanket and the rain on its roof tiles, her pregnant body, his care | After vindication he is *sad*, not triumphant: the truth cost five years and changes nothing about his back |
 | 24 | Valens holding his son like a dropped amphora he has just caught | During labor she is fixated on the midwife's terrible teeth |
 | 25 | An old man in a Chaldean's robe saying "Jesus H. Christ" in a Philadelphia accent | The WHEN is delivered first, bluntly, in under a minute; the mystery is no mystery to him |
-| 26 | Fenn's letters in English, read aloud by Mara to a newborn who will never know the language | Valens is jealous of a language |
+| 26 | Fenn's letters in English, read aloud by Mara to a three-week-old, in a language no one else in the street speaks | Valens is jealous of a language |
 | 27 | A dead door in the Sibyl's cave at Cumae; Fenn pressing his palm to rock as if it might be warm | Fenn is funny and young in the cave; it is Mara who is old |
 | 28 | Valens in the stands holding Lucius on his knee while Felix fights below | The fight is boring and short, Felix survives, and the crowd hated it |
 | 29 | Valens weeping at a mime farce about a cuckolded baker | Saturnalia's slave-master inversion is genuinely joyful, and Mara is ashamed of enjoying it |
@@ -226,12 +227,12 @@ Irene Szabo (Pine Street dealer, Ch.1), Emilio Reyes (absence: objects and the a
 | 35 | The Zippo, refilled with lamp oil, finally catching once in Fenn's hand | Fenn's dying is irritable and funny. He argues baseball to the end |
 | 36 | A wax tablet of Fenn's tables, her own figures beside his, matching | The emperor's death is the day she stops pretending, and her first feeling is *calm* |
 | 37 | The hired boat's painted eye at the Sarno mouth, Felix asleep in it | Valens agrees to stay for the door not because he believes in it, but because she has never asked him for anything |
-| 38 | The last frame of film spent on Vesuvius, smoking very faintly at dawn, on a festival day | The Vinalia is sweet and drunk and ordinary, and she is happy |
+| 38 | Frame 36, the end of the roll, spent on the mountain at dawn on a festival day: a thread of cloud on the summit that may only be cloud | The Vinalia is sweet and drunk and ordinary, and she is happy |
 | 39 | Aelia's "Mama, look," the pine-shaped cloud, the noon sun going brown | People in the street *applaud* the cloud |
 | 40 | Pumice stones, light as bread, rattling on roof tiles; the boat unable to come in | Lucius is delighted by the floating stones on the water |
 | 41 | The watch wound in the tomb's niche by lamplight | A stranger shares figs and complains about his landlord |
 | 42 | Her hand in cool night air smelling of diesel and pine; Aelia's hand flat against painted plaster | The door *works* |
-| 43 | The tape, the film roll and the notebook going through the door into 1998; her hand empty | Calm, not anguish, at the moment of choosing |
+| 43 | The tape, the film roll and Fenn's notebook going through the door to the other side; her hand empty | Calm, not anguish, at the moment of choosing |
 | 44 | The knucklebone in Aelia's fist; the gate; the light | (No designed surprise; the chapter is the residue. See §4c) |
 
 **Climax anchor earned:** quieter versions of "hand at a threshold" occur in Ch.3, 6, 19, 30 and 36 before Ch.42–43 (see §4f).
@@ -242,24 +243,24 @@ Irene Szabo (Pine Street dealer, Ch.1), Emilio Reyes (absence: objects and the a
 3. **Ch.15:** "She tells him she's from nineteen hundred years in the future, and he asks if they still have mules."
 4. **Ch.25:** "The mad old astrologer in the port turns out to be an American who went through in 1968, and he has been waiting thirty-four years for a door that opens the night Vesuvius erupts."
 5. **Ch.33:** "She wants to take her children through the door to penicillin."
-6. **Ch.42–43:** "The door works, for her. She throws her father's voice through it into 1998 and stays."
+6. **Ch.42–43:** "The door works, for her. She throws her father's voice through it into her own century and stays."
 
 ### 4c. EMOTIONAL RESIDUE (designed backward)
 Ten minutes after the last page, the reader should be **thinking about what is lying on the other side of the door in 1998:** a roll of undeveloped film, a microcassette of a dead man's voice, a notebook. They should understand that she sent her past home and kept her present. They should not be able to decide whether that was an ending or a beginning. And they should be asking themselves, with no help from the book, *who they would stay for*. Not "satisfied"; implicated and tender. The final chapter withholds every verdict. There is no aphorism, no summing-up and no future.
 
 ### 4d. CULTURAL VOCABULARY
-**"The one it brought."** Fenn's phrase for the doors' law, capped at three uses book-wide. Ch.25: as a *promise* ("it takes back the one it brought, so it will take you"). Ch.42 or 43: as a *limit*, discovered rather than stated. Optionally one more use, by Mara. It must never become a refrain or a scene button. The reader should own the concept because of what happens at the door, not because the phrase is repeated. (Allowlisted, cap 3.)
+**"The one it brought."** Fenn's phrase for the doors' law, capped at three uses book-wide. **Its "it" is all the doors at once:** Fenn believes the doors are one door with many mouths, so the phrase states the canonical law exactly (§9): the system takes back anyone it brought, through any mouth, and no one native to its side. Ch.25: as a *promise* ("it takes back the one it brought, so it will take you"; the cave brought her, so Pompeii's mouth will take her). The *limit* (it did not bring her children) is **discovered in action at Ch.42**, by plaster under three hands. That beat works with no phrase at all. If the phrase recurs there as Mara's present thought, it is incidental, never load-bearing and never a button. It must never become a refrain. The reader should own the concept because of what happens at the door, not because the phrase is repeated. (Allowlisted, cap 3.)
 
 ### 4e. IDENTITY EFFECT
 Every three or four chapters a beat lets the reader feel *"I'm someone who would have stayed, or at least someone honest enough not to know."* Examples: Ch.10 (Kallia lets her son go), Ch.15 (being known completely and wanted anyway), Ch.22 (saying your own name in public), Ch.29 (letting yourself enjoy something imperfect), Ch.33 (wanting more for your children than your own life gave), Ch.37 (trusting someone because they never asked before), Ch.43. The book flatters the reader's capacity for love at a cost, never their cleverness.
 
 ### 4f. RE-READ ARCHITECTURE (built from OBJECTS and REPEATED SITUATIONS, never narrator hints)
 1. **The microcassette.** Ch.1: she pops it out of the answering machine and keeps it. She carries it for nine years with no machine to play it on, and it is touched without comment in Ch.5, 19 and 35. In Ch.43 it goes through the door. On re-read, every touch is a woman carrying her father's voice to the only place it could ever be played.
-2. **The film roll (father's mechanical Pentax K1000, 36 exposures).** She shoots nine frames in 1998 and then rations the rest across nine years. Each frame is a decision about what to keep: Kallia's lamp, Valens asleep, Lucius's first steps, Fenn with his Zippo. Ch.19: she refuses to photograph the mountain. Ch.38: she spends the last frame on it. Ch.43: the roll goes through the door. On re-read, the roll is the book's true record, sent home.
+2. **The film roll (father's mechanical Pentax K1000, 36 exposures).** She shoots eight frames in 1998 (the counter reads 9 at the cave, Ch.3) and then rations the other 28 across nine years. Each frame is a decision about what to keep. The named frames are scheduled: Kallia's lamp on the sill at the farewell (Ch.16), Valens asleep under the potted fig on the roof (Ch.20), Lucius holding his newborn sister (Ch.26), Fenn with his Zippo on the Cumae road (Ch.27). The rest happen off the page. Ch.19: she refuses to photograph the mountain. Ch.38: frame 36 goes on it, and she rewinds the roll and takes it out. Ch.43: the roll goes through the door. On re-read, the roll is the book's true record, sent home.
 3. **The knucklebone from the Corycian Cave.** Pocketed in Ch.3, it becomes Lucius's game piece (Ch.27, 34) and is in Aelia's fist in Ch.44. An ancient bone that went to 1998 and came back.
-4. **Hand at a threshold (repeated situation).** Ch.3, cold air on her palm in the cave. Ch.6, her hands in the cave's shut floor. Ch.19, palm on the tomb's painted false door, faintly cool on a hot day. Ch.30, back at the tomb after a tremor: nothing. Ch.36, the tomb again with the tables in her hand. Ch.42, the door. Each one reads as a beat of hope the first time, and as a rehearsal on re-read.
+4. **Hand at a threshold (repeated situation).** Ch.3, cold air on her palm in the cave. Ch.6, her hands in the cave's shut floor. Ch.19, palm on the tomb's painted false door, faintly cool on a warm spring afternoon. Ch.30, back at the tomb after a tremor: nothing more than that same faint coolness under sun-warmed plaster. Ch.36, the tomb again with the tables in her hand. Ch.42, the door. Each one reads as a beat of hope the first time, and as a rehearsal on re-read.
 5. **The watch-winding.** Ch.6: Valens winds it wrong. Ch.18: given back, wound. It is wound without comment at ordinary moments (Ch.24, Ch.32), and in Ch.41 Valens winds it in the tomb. The repeated domestic act is the only countdown in the book, and no one ever calls it one.
-6. **Theano's words "where the dead go out of the city"** (Ch.13). First read: the necropolis, a location. Re-read: in Ch.44 they go out of the city by that road. Diegetic prophecy, never narrator hint. (Allowlisted, cap 3.)
+6. **The god's words "where the dead go out of the city"** (Ch.13, carried out by Valens). First read: the necropolis, a location. Re-read: in Ch.44 they go out of the city by that road. **The re-read works through the road and the place, not through the words:** Ch.44 must land with the phrase absent, and if it appears there it is incidental. Diegetic prophecy, never narrator hint. (Allowlisted, cap 3.)
 7. **Fenn's date (Ch.25):** "Late summer, seventy-nine." First read: Mara's denial seems almost reasonable, because Fenn has been wrong before. Re-read: the reader can see her refusing the obvious in every chapter between 25 and 36.
 
 ---
@@ -271,7 +272,7 @@ Every three or four chapters a beat lets the reader feel *"I'm someone who would
 > resonates, the world becomes a puzzle. Writers should mark nothing as symbolic in prose.
 
 **Mending / the visible seam**
-- First: Ch.1, her lab, where invisible repair is a professional ideal. Evolution: she earns her keep in Delphi mending bronze (Ch.9). In Pompeii, a city still rebuilding seventeen years after the AD 62 earthquake (scaffolds, patched columns), she runs a repair shop (Ch.20) and learns to let a seam show. Final: Ch.43, she watches the door's seam close and does not mend it open.
+- First: Ch.1, her lab, where invisible repair is a professional ideal. Evolution: she earns her keep in Delphi mending bronze (Ch.9). In Pompeii, a city still rebuilding ten years after the AD 62 earthquake (scaffolds, patched columns), she runs a repair shop (Ch.20) and learns to let a seam show. Final: Ch.43, she watches the door's seam close and does not mend it open.
 - Theme link: you cannot keep a life whole by refusing to let it break where it was joined.
 
 **The door / the threshold**
@@ -331,7 +332,7 @@ Explicit when it occurs, sensual and character-driven, never clinical or purple.
 - **Ch.23, An Inn on the Appian Way (AD 74): the key turn.** After the Basilica Julia. Valens, publicly believed for the first time, lets himself be held. She is pregnant, which is unusual on the page and handled tenderly and frankly.
 - **Ch.34, Surrentum (AD 78): the late unshadowed joy.** A seaside inn at the end of a perfect day. Nothing in the scene points anywhere.
 - *(Yearning beats without sex: Ch.11 the refused kiss, Ch.16–18 the Corinth winter.)*
-- **None after Ch.38.** Once the mountain opens, the body's language is hands, carrying, and a watch being wound.
+- **None from Ch.35 on** (the strictest of the three cut-offs in the docs; STATE ARCH-13's "none from Ch.39" and voice-dna §5 are both satisfied). Once the mountain opens, the body's language is hands, carrying, and a watch being wound.
 
 ---
 
@@ -354,43 +355,44 @@ Ch.1 opens on Mara walking out of her father's memorial reception forty minutes 
 
 ## 9. PERIOD & PLACE ANCHORS (Outlander-standard accuracy, fictional leads)
 - **1998 frame:** Philadelphia (Pine Street's Antique Row; a university museum lab; a rowhouse; a Chestnut Hill estate sale). Answering machine with microcassette, Pentax K1000, a 1966 Seiko hand-wound watch, paper notebook, payphone calls, an Olympic Airways flight to Athens, the KTEL bus to Delphi, the trail from the Kalivia plateau to the **Corycian Cave** (sacred to Pan and the nymphs; tens of thousands of knucklebones were excavated there).
-- **AD 70–72, Phocis/Corinth:** Delphi in genteel decline but busy. Arrival in autumn 70. She dates the year from news of **Titus's capture of Jerusalem** (late summer 70). The Oracle was consulted on fixed days in the warm months, with the year's first consultation on **the seventh of Bysios** (Apollo's birthday, late winter/early spring). The goat had to shiver at a sprinkling of cold water. Women did not enter to consult and asked through a male representative, which is the Greece-first obstacle made concrete. The **Thyiades** held winter rites on Parnassus (Plutarch records women trapped by snow). Delphi's **polygonal wall** carries hundreds of manumission records. Vespasian **revoked the "freedom" Nero had granted Achaea**, a live political backdrop. Corinth was a Roman colony with games and an amphitheatre, and the **Isthmian Games** fell in spring 72. The sea was closed from about November to March.
+- **AD 70–72, Phocis/Corinth:** Delphi in genteel decline but busy. Arrival in autumn 70. She dates the year from news of **Titus's capture of Jerusalem** (late summer 70). The Oracle was consulted on fixed days in the warm months, with the year's first consultation on **the seventh of Bysios** (Apollo's birthday, late winter/early spring). The goat had to shiver at a sprinkling of cold water. Women did not enter to consult and asked through a male representative, which is the Greece-first obstacle made concrete. The **Thyiades** held winter rites on Parnassus (Plutarch records women trapped by snow). Delphi's **polygonal wall** carries hundreds of manumission records. Vespasian **revoked the "freedom" Nero had granted Achaea** (late 67), a live political backdrop: in 69 there is no proconsul; in this book a proconsul governs again from Corinth by 71, so the Ch.16–17 provincial record office is newly back under Roman administration. Corinth was a Roman colony with games and an amphitheatre, and the **Isthmian Games** fell in spring 72. The sea was closed from about November to March.
 - **AD 72–79, Campania:** Puteoli harbor. Pompeii **still rebuilding after the AD 62 earthquake** (scaffolds, patched columns, trades in demand). Painted election notices and graffiti. Thermopolia on the Via dell'Abbondanza. The amphitheatre and the gladiator barracks. **Nuceria Gate** necropolis. The Sarno river port. **Cumae** (the Sibyl's cave). Surrentum. Rome in 74 with the **Flavian Amphitheatre under construction** and the **Basilica Julia** courts. Dowry law (retention for adultery; the *actio rei uxoriae*) and paternal custody after divorce. Saturnalia (December) and the **Vinalia Rustica (19 August)**. **Vespasian dies 23 June 79**, and the news reaches Campania within days.
 - **The eruption [DECISION: keep the traditional date].** Canon says "late summer 79," so the book uses Pliny's manuscript date of **24–25 August**. The column rises around 1 p.m. (Pliny's umbrella pine). Pumice falls on Pompeii for about 18 hours and roofs collapse. Boats cannot land on the choked shore (Pliny the Elder at Stabiae). The surges reach Pompeii around 6:30–7:30 a.m. on the 25th. The scholarly argument for October is *not* used, and the book never raises it.
-- **The doors [DECISION]:** the door Mara uses to cross is the Corycian Cave. The home door is a small freedman's tomb outside the Nuceria Gate with a painted false door. The doors are felt as a seam of cool air and an absence of sound. They open on their own timing. Fenn's empirical rule is that they "breathe with the earth": the 62 earthquake opened Pompeii's briefly. A door takes back anyone who came through a door, from any time, but **no one native to its side**. Fenn does not know the last part, because he has always been alone. Mara discovers it in Ch.42. Fenn crossed in 1968 and landed in AD 41: the doors do not deliver to matching dates. The mechanism is never explained, in the Outlander standard.
+- **The doors [DECISION]:** the door Mara uses to cross is the Corycian Cave. The home door is a small freedman's tomb outside the Nuceria Gate with a painted false door. The doors are felt as a seam of cool air and an absence of sound. They open on their own timing. Fenn's empirical rule is that they "breathe with the earth": the 62 earthquake opened Pompeii's for part of one night, and the 79 opening runs from the night after the mountain opens to before first light on the 25th. An opening is always brief, a matter of hours, never days. A door takes back anyone who came through a door, from any time, but **no one native to its side**. Fenn's phrase "the one it brought" states this law exactly, because he thinks of the doors as one door with many mouths (§4d). He does not know the "no one native" half, because he has always been alone. Mara discovers it in Ch.42. Fenn crossed in 1968 and landed in AD 41: the doors do not deliver to matching dates. The mechanism is never explained, in the Outlander standard.
 
 ---
 
 ## 10. KEY FACTS / TIMELINE (canon for the entity tracker)
 - **1998:** Emilio Reyes dies in January, aged 68. The memorial and the purchase are in March (Ch.1). Mara crosses in May (Ch.3).
 - **AD 70 autumn:** lands. **71:** Oracle at the seventh of Bysios; summer pasture and first union; autumn to Corinth. **72 spring:** Isthmia, papers, married at Lechaion, sails, arrives Puteoli → Pompeii.
-- **73:** the summons; Rome trial in **spring 74** (Ch.22), with Mara about six months pregnant. → **Lucius is born in summer 74** *(this shifts canon's "b. ~year 3" by a few months: Lucius is ~5 at the eruption)*. **75:** Fenn found (Ch.25). **Winter 75–76:** Aelia born, off-page. **76:** Cumae, Felix's fight, Saturnalia. **77:** tremor, elections (March), fever (summer), the case for the future (autumn). **78:** Surrentum (summer); Fenn dies in winter 78–79. **79:** Vespasian dies (June); the arithmetic; the boat; the Vinalia (19 Aug); eruption 24–25 Aug.
-- **Ages at the eruption:** Mara 42 (body-age; 33 + 9), Valens ~41, Lucius 5, Aelia 3½, Felix ~21.
+- **73:** the summons; Rome trial in **spring 74** (Ch.22), with Mara about six months pregnant. → **Lucius is born in summer 74** *(this shifts canon's "b. ~year 3" by a few months: Lucius is ~5 at the eruption)*. **Early spring 75:** Fenn found (Ch.25), before Mara is pregnant again. **Winter 75–76:** Aelia born, off-page. **76:** Cumae, Felix's fight, Saturnalia. **77:** tremor, elections (March), fever (summer), the case for the future (autumn). **78:** Surrentum (summer); Fenn dies in winter 78–79. **79:** Vespasian dies (June); the arithmetic; the boat; the Vinalia (19 Aug); eruption 24–25 Aug.
+- **Ages at the eruption:** Mara 42 (body-age; 33 + 9), Valens ~41, Lucius 5, Aelia 3½, Felix ~21. **Marcus** (Plautia's son) b. autumn AD 64: 7 in winter 71–72, 9 in spring 74.
+- **Counts the Writer will print:** AD 72 is **ten years** after the AD 62 quake (Ch.19–20); the frame (69) to the trial (spring 74) is **five years** (Ch.23); Fenn's years since landing (AD 41) are 34 in Ch.25 (AD 75), 35 in Ch.27 (AD 76) and 37–38 in Ch.35 (winter 78–79).
 
 ---
 
 ## 11. DECISIONS MADE WHERE THE AUTHOR LEFT GAPS (log these)
 1. Modern frame is **Philadelphia**, and Mara is American (Emilio Reyes, Philadelphia university archaeologist).
 2. The **crossing site is the Corycian Cave** above Delphi, following Fenn's coordinates on a 1680s Venetian chart of Phocis (a legend of Alexandrian scrolls hidden in the cave).
-3. The **home door is a tomb outside Pompeii's Nuceria Gate**, named in Theano's answer.
-4. Women could not consult directly, so **Valens carries Mara's question into the temple** and brings the answer out word for word.
+3. The **home door is a tomb outside Pompeii's Nuceria Gate**. The god's public answer gives the necropolis and a second marker ("at the door painted on a dead man's house"), Theano names the city, and Mara finds the tomb by walking the tomb roads in her first days in Pompeii (Ch.19).
+4. Women could not consult directly, so **Valens carries Mara's question into the temple** and brings the answer out word for word. Afterwards Theano, off duty, sends for Mara to her own house and names the city to her face. That is a woman speaking to a woman outside the formal consultation, not an oracular response, so the history holds. (STATE ARCH-4's "rather than face to face" flag is stale; the outline's Ch.13 is the final version.)
 5. Valens's frame = Celer's **dowry-retention scheme**; the plot resolves by **lawsuit in Rome (AD 74)**, not violence.
 6. **Fenn = "Augurinus," an astrologer in Puteoli**, landed AD 41, gives the WHEN at first meeting, **dies winter 78–79** before the door.
-7. Why the family is in Pompeii during the eruption: **the door is their planned lifeboat into 1998** (after Lucius's fever, Mara wants the future for the children), with **a boat at the Sarno mouth as backup** that cannot land.
+7. Why the family is in Pompeii during the eruption: **the door is their planned lifeboat into 1998** (after Lucius's fever, Mara wants the future for the children), with **a boat at the Sarno mouth as backup** that cannot land. The order is set by the clock: the door only breathes at night, so Valens's one condition (Ch.37) is that the boat is tried first, in the daylight hours after the mountain opens; if the sea refuses, they go to the door in the night (Ch.40–41).
 8. **Lucius born summer 74; Aelia winter 75–76** (ages 5 and 3½ at the eruption).
 9. **Felix** (Valens's freed mule-boy) is the third member of the household; his fate in the eruption is left open (he takes the boat out).
 10. Eruption on the **traditional 24–25 August** date.
 11. **No recurring stylistic device**; documents only inside collage chapters.
 12. Theano, Kallia, Felix, Plautia, Celer, Grata are the named secondary cast; Verrall/Drusus/Sabina/Melita of the prior run are not used.
-13. Four on-page heat scenes: Ch.15, 23, 34 (+ yearning only elsewhere); none after Ch.38.
+13. Three on-page heat scenes: Ch.15, 23, 34 (+ yearning only elsewhere); none from Ch.35 on.
 14. **Zero tic-bearers** (author ruling) — prior run's Fenn numbering, Kallia proverbs, and Mara's catalogue-under-stress are all retired.
 
 ---
 
 ## 12. DELIBERATE MOTIF PHRASES FOR THE STYLE-GATE ALLOWLIST (≤5; each cap 3 book-wide)
 Motifs in this book are carried by OBJECTS and SITUATIONS, which the n-gram check does not see. Only these phrases may recur verbatim, each **capped at 3 uses across the whole manuscript**:
-1. `"the one it brought"` (cap 3): Fenn's law of the doors (Ch.25; Ch.42/43; optional third).
-2. `"where the dead go out"` (cap 3): Theano's answer (Ch.13; Ch.14 or 19; Ch.44).
-3. `"the seventh of Bysios"` (cap 3): the consultation day (Ch.11 or 12; Ch.13; at most one later).
+1. `"the one it brought"` (cap 3): Fenn's law of the doors (Ch.25 promise; Ch.42 optional, never load-bearing; optional third). Planned: 1–2.
+2. `"where the dead go out"` (cap 3): the god's answer as Valens carries it out (Ch.13, rendered **once**; Ch.19; Ch.44 optional, never load-bearing). Planned: 2–3.
+3. `"the seventh of Bysios"` (cap 3): the consultation day (Ch.12 bridge; the Ch.13 title, which counts). **Nothing else:** the Ch.11 beat and the Ch.13 opener paraphrase it. Planned: 2.
 
 Everything else that recurs must vary in wording every time it appears. Place-names under four words (Nuceria Gate, Corycian Cave, Via dell'Abbondanza) do not trip the 4–6-gram check. Longer canon place-phrases ("the tombs outside the Nuceria Gate") must be varied rather than allowlisted.

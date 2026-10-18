@@ -253,7 +253,7 @@ from the cards. The Evaluator audits against them.
 | Era idiom | 1998 American | frozen 1968 American (§ bible pool), no item used more than twice book-wide |
 | Attention | how things are made; people's hands and teeth | systems and patterns (tides, tremors, star tables, door timing); sees people last |
 | Syntax in English | precise, clipped in speech, semicolon spirals in narration | runaway "and…and" chains when excited; four-word fragments when tired |
-| Tense orientation | after Ch.25 she will not use the future tense about the door | talks about going back in a confident future tense ("when I get back") until the day he dies |
+| Tense orientation | after Ch.25 she will not put Fenn's *date* in the future tense until Ch.36 (hoping for an earlier opening, and arguing whether it would take the children, are allowed) | talks about going back in a confident future tense ("when I get back") until the day he dies |
 | Evasion | her father's death; love; bravery | his sister's name (until Ch.35); fear of dying here; never calls anywhere here "home" |
 | Body | steady hands, touches surfaces | ink-stained fingers, a left-hand tremor, the Zippo, fast pats |
 | Breaks | weeps or laughs at the wrong moment | rages at words that moved on without him |
@@ -342,11 +342,11 @@ For the Writer, Dialogue Polish, Hook Craft, the Disruptor, the Editor and the E
 fixes what slips through before finalize.
 
 ### Tool configuration the orchestrator must apply before Ch.1 (flagged, not applied here)
-This dispatch writes only `voice-dna.md` and `character-bible.md`. The gate files currently allowlist
-only "the one it brought." Before drafting:
-- `tools/style_check.py` ALLOWLIST, `tools/voice_wear_check.py` SELF_REPEAT_ALLOW and
-  `tools/tic_report.py` MOTIFS: add **"where the dead go out"** and **"seventh of bysios"**. Without
-  this, Theano's answer fails voice_wear the moment it is used in a second chapter (Ch.13 → Ch.19).
+This dispatch writes only `voice-dna.md` and `character-bible.md`.
+- **Done (verified at the 2026-10-18 patch pass):** all three allowlisted phrases ("the one it brought",
+  "where the dead go out", "the seventh of bysios") are in `tools/style_check.py` ALLOWLIST,
+  `tools/voice_wear_check.py` SELF_REPEAT_ALLOW and `tools/tic_report.py` MOTIFS. The inline comments
+  in `style_check.py` were updated to the planned uses in §4 below.
 - `tools/tic_report.py` WORLD_TERMS: add the proper place-names the story cannot avoid, because the
   tic gate scans 3-grams: **"nuceria gate", "corycian cave", "castalian spring", "sacred way",
   "polygonal wall", "via dell'abbondanza", "basilica julia", "flavian amphitheatre", "isthmian games",
@@ -382,9 +382,9 @@ The Writer aims under these; the Disruptor cuts down to them; the Evaluator scor
 ### The ALLOWLIST (foundation §12): exactly three phrases, each **capped at 3 uses book-wide**
 | Phrase | Owner and planned uses |
 |---|---|
-| **"the one it brought"** | Fenn's law of the doors. Ch.25 (a *promise*); Ch.42 or 43 (a *limit*, in Mara's present thought, never as a button); optionally one more, by Mara. |
-| **"where the dead go out"** | Theano's answer. Ch.13 (the public answer); Ch.19 (the tombs; or Ch.14); Ch.44 (if used at all). |
-| **"the seventh of Bysios"** | The consultation day. **The Ch.13 title counts as a use if the title carries it.** Remaining uses: Ch.11 or 12, and the Ch.13 opener. Nothing later. |
+| **"the one it brought"** | Fenn's law of the doors ("it" = all the doors as one door with many mouths, so the phrase states the canonical law exactly). Ch.25 (a *promise*); Ch.42 optional (a *limit*, in Mara's present thought). **Ch.42 must work without it**: the limit is discovered in the action. Never a button. |
+| **"where the dead go out"** | The god's answer, as Valens carries it out. Ch.13 (rendered **once**, in Valens's repetition only); Ch.19 (the Nuceria Gate tombs); Ch.44 optional. **Ch.44 must land without it.** |
+| **"the seventh of Bysios"** | The consultation day. **The Ch.13 title counts as a use.** Planned: the Ch.12 bridge and the Ch.13 title, two in all. The Ch.11 beat and the Ch.13 opener paraphrase the day ("the year's first consultation day", Apollo's birthday). Nothing later. |
 
 Everything else that recurs must vary in wording every time it appears.
 
@@ -396,8 +396,7 @@ Everything else that recurs must vary in wording every time it appears.
 **Three scenes, all before the eruption: Ch.15, Ch.23, Ch.34.** Yearning without sex: Ch.11 (the
 refused kiss), Ch.16–18 (the Corinth winter). **Nothing explicit from Ch.35 on, and none from Ch.39 by
 law.** Once the mountain opens, the body's language is hands, carrying, and a watch being wound.
-*(Foundation §6e's header says "four scenes" but lists three; STATE ARCH-13 and the outline heat map say
-three. Three is canon.)*
+*(Three is canon. Foundation §6e and §11.13 now agree, and use the strictest cut-off: none from Ch.35 on.)*
 
 ### Register
 - **Sensual and character-driven; never clinical, never purple.** Specificity and restraint carry the

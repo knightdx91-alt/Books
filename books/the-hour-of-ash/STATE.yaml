@@ -41,8 +41,8 @@ word_floor:
   shortest_chapter_floor: 1200
 
 phase:
-  current: 2.7
-  status: "RUN 2 — architect v4 dispatch 1 DONE 2026-10-18: foundation.md + outline.md (44 ch, uneven diptych WHERE/WHEN hinged on the Lechaion wedding Ch.18 ~41%; elastic clock; Σ 260,300; Anti-Predictability Ledger checked against shape_check rules; tic-bearer roster EMPTY) + voice-bank (13 samples). voice mode DONE (voice-dna.md + character-bible.md: 20 cards, every tic line none; cover-the-name PASS). NEXT: entity BUILD -> outline audit -> autonomous chapter loop from Ch.1."
+  current: 3
+  status: "RUN 2 — architect v4 dispatch 1 DONE 2026-10-18: foundation.md + outline.md (44 ch, uneven diptych WHERE/WHEN hinged on the Lechaion wedding Ch.18 ~41%; elastic clock; Σ 260,300; Anti-Predictability Ledger checked against shape_check rules; tic-bearer roster EMPTY) + voice-bank (13 samples). voice mode DONE; ENTITY_STATE built; outline audit (3 CRIT/26 WARN/29 NOTE) fully PATCHED into the blueprint; Σ 260,300, ledger re-verified. CHAPTER LOOP RUNNING from Ch.1 (autonomy: full; drift_check: every-chapter; no tics)."
   history:
     - "2026-10-18: FULL RESTART (author Terry). Retired the whole first run (Ch.1-10, v1/v2/v3 outlines, evals, trackers). Pipeline gained tools/shape_check.py (manuscript predictability audit), the architect's Anti-Predictability Ledger, and FULL AUTONOMY mode. This run: autonomous chapter loop, every agent every chapter, until told to stop."
     - "2026-09-28: AUTHOR RULING — NO FORESHADOWING (book-wide target 0). Carried into run 2 as a hard gate (style_check --max-foreshadow 0 + evaluator + voice-dna §0)."
@@ -107,7 +107,7 @@ decisions:
   - "ARCH-1: modern frame = Philadelphia, late 1990s; Mara is American."
   - "ARCH-2: the crossing site is the Corycian Cave above Delphi."
   - "ARCH-3: the door home is a tomb outside Pompeii's Nuceria Gate."
-  - "ARCH-4: women could not consult the Oracle, so Valens carries Mara's question in; the Pythia's answer (Pompeii / WHERE) still reaches Mara in Ch.13 and the WHEN is withheld — canon honored via a historically accurate route. FLAG for the author: the Oracle speaks to Mara through Valens's errand rather than face to face."
+  - "ARCH-4 (revised after the outline audit): women could not consult the Oracle formally, so Valens carries Mara's question into the consultation on the seventh of Bysios; THEANO then names Pompeii to Mara IN PERSON, off duty and outside the formal consultation (Ch.13) — the Oracle speaks to her face to face, the WHEN withheld. The god's answer carries two markers: 'where the dead go out of the city' + 'the door painted on a dead man's house' (so Ch.19 can find the Nuceria Gate tomb after a short search of the tomb roads)."
   - "ARCH-5: Valens's frame was a dowry scheme by his employer Celer; settled by a lawsuit in Rome, AD 74 (Ch.22 Basilica Julia)."
   - "ARCH-6: Fenn lives in Puteoli as the astrologer 'Augurinus'; gives the date in Ch.25; dies winter 78-79, before the door opens."
   - "ARCH-7: the family stays in Pompeii because the door is their planned lifeboat; the backup boat (Ch.37) cannot land."
@@ -116,5 +116,10 @@ decisions:
   - "ARCH-10: the eruption uses the traditional 24-25 August AD 79 date."
   - "ARCH-11: no recurring between-chapter device (no inserts/epigraphs as a system)."
   - "ARCH-12: new secondary cast = Kallia, Theano, Felix, Plautia, Celer, Grata."
+  - "ARCH-14 (patch pass, 2026-10-18 — all 3 CRITICAL / 26 WARNING / 14 tracker conflicts resolved; see evaluations/continuity/outline-audit.md RESOLUTIONS): AD 62 quake = 'ten years' in AD 72; AD 69 frame -> AD 74 trial = 'five years'; Marcus born autumn AD 64 (7 in Ch.16, 9 in Ch.22); Grata first appears Ch.19; microcassette touch added to Ch.35; Valens's mime = street stage; Ch.7 registers Mara as Kallia's kinswoman; last frame 'may only be cloud'; Mara's breaks = three; after Fenn's date she refuses the arithmetic and still hopes for an early door."
+  - "ARCH-15: the dowry suit — in autumn AD 70 Plautia's brother's freedman found Valens and asked him to testify; the reward notice followed (Valens's source)."
+  - "ARCH-16: Fenn's failed dates (71, 73) came from tremors; he knows 79 from school and rebuilt his tables around it — Mara's fig leaf for refusing it. His 'it' in the law of the doors means all the doors as one."
+  - "ARCH-17: Margaret — in Ch.25 'estate sale' tells Fenn his sister is dead; he refuses the notebook; Mara never says the name, so Ch.35 is the first time he does."
+  - "ARCH-18: the boat goes first in daylight, the door at night (Ch.37 and Ch.40 agree); Grata's money is for 'the day after tomorrow' (before the 24th)."
   - "ARCH-13: heat scenes at Ch.15 (first union), Ch.23 (after the Rome trial), Ch.34 (Surrentum); none from Ch.39 on. No-pull chapters: Ch.10, Ch.31, Ch.34, Ch.44."
 revision_cycles: 0

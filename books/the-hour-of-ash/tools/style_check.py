@@ -56,9 +56,9 @@ FORESHADOW_RE = [re.compile(p, re.I) for p in FORESHADOW_PATTERNS]
 ALLOWLIST = [
     # Deliberate OBJECT-motif phrases only (NO TICS law). Capped registry: each entry = 3 uses
     # book-wide max. From the v4 foundation.md §12 (2026-10-18). Keep this list at <=5 entries.
-    "the one it brought",       # Fenn's law of the doors (Ch.25; Ch.42/43; optional third)
-    "where the dead go out",    # Theano's answer (Ch.13; Ch.14 or 19; Ch.44)
-    "the seventh of Bysios",    # the consultation day (Ch.11/12; Ch.13; at most one later)
+    "the one it brought",       # Fenn's law of the doors (Ch.25 promise; Ch.42 optional, never load-bearing)
+    "where the dead go out",    # the god's answer (Ch.13 once; Ch.19; Ch.44 optional)
+    "the seventh of Bysios",    # the consultation day (Ch.12 bridge; Ch.13 title; nothing else)
 ]
 
 # n-gram repetition settings

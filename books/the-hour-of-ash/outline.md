@@ -57,7 +57,8 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 - Endings: `punch` (7 words or fewer), `quiet` (8–24), `long-fade` (25+), `question`, `dialogue`.
 
 **The Writer must hit the planned sig.** That alone makes the audit pass by construction.
-- Opening sigs: no sig over 18%, none three running.
+- **Detector notes (from `tools/shape_check.py`):** a `scene-set` opener must begin with one of the detector's time openers: "It was", "That morning/night/…", "The morning/day/first/last/next…", "In the spring/…", "By the/then/morning/noon/evening/dawn/dusk", "On the first/second/third/fourth/fifth/morning/day/night", or "Two/Three… days/weeks/months/years". "On the seventh…", "On the nineteenth…" and "By first light…" do **not** match. Collage chapters that open on a document (Ch.2, 9, 20, 26) set it in *italics*, never in quotation marks, or it computes as `dialogue`. Ch.14 and Ch.40 open on a short first sentence *inside* a longer paragraph (they are not on the one-sentence-opening list).
+- Opening sigs: no sig over 18% (short-punch 7, scene-set 7, dialogue 7, narrative 7, I-statement 6, long-spiral 6, I-punch 4), none three running.
 - Ending sigs: quiet 27%, punch 23%, long-fade 20%, dialogue 20%, question 9%. None over 50%, none three running, punch well under 60%.
 - **NO-PULL chapters (they simply stop, with no hook):** Ch.10, 31, 34, and 44 (the book's end).
 - **Theme RECEDES:** Ch.4, 28, 31, 34.
@@ -86,7 +87,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 | 17 | Isthmia | In medias res | mid-action → `short-punch` | action unfinished → `quiet` | 7,400 | 30–40% | present | 3 | low |
 | 18 | Lechaion | Single-scene | flat statement of fact (I) → `I-statement` | short punch → `punch` | 2,800 | 30–40% | present | 0 | mid |
 | 19 | Puteoli | Chronological | scene-setting (place/time) → `scene-set` | long fade → `long-fade` | 8,400 | 20–30% | present | 4 | high |
-| 20 | The Mender's Shop | Collage | document (a wall graffito) → `short-punch` | spoken line → `dialogue` | 8,200 | 30–40% | present | 6 | mid |
+| 20 | The Mender's Shop | Collage | document (a painted lost-property notice, 9–27 words) → `narrative` | spoken line → `dialogue` | 8,200 | 30–40% | present | 6 | mid |
 | 21 | The Wolf's Old Name | Chronological | mid-dialogue → `dialogue` | question → `question` | 7,200 | 40–50% | present | 3 | mid |
 | 22 | The Basilica Julia | Parallel | long sensory spiral → `long-spiral` | spoken line → `dialogue` | 7,600 | 35–45% | present | 7 | high |
 | 23 | An Inn on the Appian Way | Single-scene | an object → `short-punch` | long fade → `long-fade` | 4,200 | 15–25% | present | 0 | low |
@@ -137,7 +138,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 - Adds: who Emilio was through his objects, and that Mara does what he did (walks out toward the past).
 - Opens toward Ch.2: the notebook unread on the kitchen table.
 **Theme presence:** the visitor's life. A daughter of a man who always left, leaving.
-**Character chaos moments:** teeth (she clocks the eulogist's veneers). The all-or-nothing distortion: she can't stay "a little" at the reception, so she goes.
+**Character chaos moments:** the all-or-nothing distortion: she can't stay "a little" at the reception, so she goes. (No teeth here: the teeth schedule is Ch.2, 5, 7, 15, 20, 24, 31 only.)
 **Device presence:** none.
 **Subtext layer:** Mara and Szabo appear to be haggling over a map. Underneath, Szabo is asking whether this woman is a dealer or a mourner, and Mara is refusing to say.
 **Shareable moment:** none designed.
@@ -161,8 +162,9 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 3. **NON-NEGOTIABLE (document, REVEAL).** Fenn, 1968: "I put my hand in at the back and the air was cold in a way air isn't." The handwriting has changed.
 4. A phone call with Halloran. He invites her to Campania for July "in Emilio's place." She says she might be in Greece first. **Neutral, with no portent.**
 5. **FLEX.** Her father's field notebooks in his study; she does not open them.
-6. **NON-NEGOTIABLE.** Packing: the Pentax with a fresh roll, the Seiko on her wrist, the microcassette in a sock, the notebook, a flashlight, granola bars, ibuprofen, her toothbrush and floss.
-7. **NON-NEGOTIABLE (end document).** Fenn's last entry, July 1968, cheerful: back before Labor Day, Margaret can stop telling people he's in Mexico.
+6. **NON-NEGOTIABLE.** Packing: the Pentax with a fresh roll, the Seiko on her wrist, the microcassette in a sock, Fenn's notebook (half its pages still blank at the back), a flashlight, granola bars, ibuprofen, her toothbrush and floss. The chart stays pinned over her father's desk; the coordinates are in the notebook. (No flash unit: the K1000 has none.)
+7. **(document, REVEAL, one line).** Folded inside the back cover, the US consulate's slip from Athens, 1968: personal effects of Fenn, August J., forwarded to next of kin. One line of provenance: the notebook came home in his coat, without him.
+8. **NON-NEGOTIABLE (end document).** Fenn's last entry, July 1968, cheerful: back before Labor Day, Margaret can stop telling people he's in Mexico.
 **Progressive structure:**
 - Builds on Ch.1: the notebook from the cigar box is opened.
 - Adds: the cave, the cold air, and Fenn as a voice and a person.
@@ -187,7 +189,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Emotional surprise:** at the moment of crossing she feels *embarrassed*, as if she has walked into the wrong room at a party.
 **Opening strategy:** a single 28-word-plus sentence of plateau: thyme, goat bells, the wind, the road far below.
 **Key scenes/beats:**
-1. The path up from the plateau. A German hiker passes, the only speech of the chapter apart from a goatherd's "kalimera." She takes photographs. The exposure counter on the Pentax reads 9, and that number is not mentioned.
+1. The path up from the plateau. A German hiker passes, the only speech of the chapter apart from a goatherd's "kalimera." She takes photographs. The exposure counter on the Pentax reads 9 (eight frames shot; on a K1000 the counter shows the next frame), and that number is not mentioned.
 2. **NON-NEGOTIABLE.** The cave: the vast first chamber, stalagmites, tourist graffiti, the cold. She finds a stray knucklebone in the dirt and pockets it.
 3. **NON-NEGOTIABLE.** The back recess by Fenn's coordinates. A **hand at a threshold**: cold air on her palm, the sound of the world thinning to nothing. She steps in. A long continuous sentence, then the change.
 4. **NON-NEGOTIABLE.** Walking back out of the mouth: the light is lower and gold, the air smells of woodsmoke and dung, and the trail's paint blaze is gone. Final line: she steps out into the wrong season (≤7 words, a single-sentence closing paragraph).
@@ -224,7 +226,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 - Adds: the language barrier is real; her book Greek is a liability.
 - Opens toward Ch.5: he points her down the mountain.
 **Theme presence:** **RECEDES.** Body and survival only.
-**Character chaos moments:** teeth (the boy's are perfect, which annoys her).
+**Character chaos moments:** none forced; the hunger is the chaos (teeth are not used here, see Ch.1 note).
 **Subtext layer:** the boy is asking whether she is a goddess or trouble. She is trying to ask what year it is.
 **Shareable moment:** —
 **Reading speed:** fast throughout.
@@ -299,7 +301,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Opening strategy:** a claim. A woman in Phocis in the second year of Vespasian belonged to someone (9–27 words, so `narrative`).
 **Key scenes/beats:**
 1. Claim → evidence: the bathhouse women's hours; the public latrine; Kallia's fierce lessons in how to walk, sit and not meet a man's eyes.
-2. **NON-NEGOTIABLE.** A magistrate's clerk enters Mara as Kallia's kinswoman. The "Syracuse" accent excuse. She keeps the name Mara, which passes as a Syrian name.
+2. **NON-NEGOTIABLE.** A magistrate's clerk enters Mara as Kallia's dependent kinswoman, a free woman under Kallia's guardianship (never property; Ch.16 and Ch.18 depend on it). The "Syracuse" accent excuse: Sicilian Greek would sound odd here too. She keeps her name; the clerk writes it as Maira, an old Greek name, and does not ask.
 3. Language: her Erasmian pronunciation versus living Koine, the comedy and the shame. She refuses to speak for a month (all-or-nothing).
 4. Kallia's son's room: swept every morning, the broom laid across its threshold. No explanation.
 5. Personal turn: what belonging cost, and Mrs. Dunphy crying at her desk, uninvited and irrelevant.
@@ -326,7 +328,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Emotional surprise:** a sacred midnight rite turns into a farce about wet sandals, and that farce is where she first belongs.
 **Opening strategy:** mid-dialogue. Kallia, mid-instruction about what not to say on the mountain.
 **Key scenes/beats:**
-1. Passing a house where an old woman shouts at crows (Theano, unnamed and unrecognized; texture now, recognized in Ch.13 by situation only).
+1. Passing a house where an old woman throws barley to the crows and shouts at them for taking it (Theano, unnamed and unrecognized; texture now, recognized in Ch.13 by situation only).
 2. **NON-NEGOTIABLE.** The ascent by torchlight: ivy, fawnskins, drums, wine, the dance. It is real and strange and not lurid.
 3. **NON-NEGOTIABLE.** Mara slips off to the cave. A hand at the threshold: nothing. She doesn't scream this time.
 4. Snow closes the path, and the women are trapped until dawn (Plutarch records a real instance).
@@ -336,7 +338,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 - Adds: the cave is consistently shut, and Mara is beginning to belong.
 - Opens toward Ch.9: money; she has decided to consult the Oracle (Kallia mentions it on the descent).
 **Theme presence:** belonging found where the door wasn't.
-**Character chaos moments:** teeth (a woman's missing front tooth and how wonderfully she whistles through it).
+**Character chaos moments:** none of Mara's forced; the women's own (the wet-sandals worrier, the bawdy singer) carry the chapter. Teeth are not used.
 **Subtext layer:** the women's teasing about Mara's "husband" (she has none) is really a test of whether she will laugh with them.
 **Shareable moment:** —
 **Reading speed:** the rite is fast and rhythmic; the cave slow and silent; the snow-heap very slow.
@@ -382,7 +384,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Function in arc:** A secondary character's own life, fully onstage (Outline Check #9). A short, quiet punch between the money chapter and the Valens chapters.
 **Emotional anchor:** the broom, still lying across the empty room's threshold when Kallia goes out.
 **Emotional surprise:** the good news (he's alive) is the worst news Kallia could get.
-**Opening strategy:** an object. The letter, folded small and stained from the road (≤8 words).
+**Opening strategy:** an object. The letter, folded small and stained from the road (≤8 words). It was sent in the autumn and sat at Kirrha harbor all winter while the sea was closed; it comes up the hill with the first carter of the year.
 **Key scenes/beats:**
 1. **NON-NEGOTIABLE.** Mara reads it aloud. Her reading is perfect, unlike her speech, so her gift becomes the instrument of the blow.
 2. Ariston writes from Emesa: a wife, a child coming, his discharge land in Syria. He sends greetings to the neighbors by name and not to the room.
@@ -415,7 +417,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 2. He refuses (the sanctuary is full of eyes, and there's a notice with his description on it). She mends harness for a week anyway.
 3. **Slow reveal, in this order:** his figs (an absurd argument about drying them); his gentleness with a lame mule; that he reads but pretends he can't; Felix, the boy he bought off a slaver and freed with no paperwork at all.
 4. **NON-NEGOTIABLE.** The near-kiss, in the tack shed. He steps back and she is relieved. Neither explains.
-5. **NON-NEGOTIABLE.** He agrees to carry her question on the seventh of Bysios. He gives no reason, and she doesn't get the watch back.
+5. **NON-NEGOTIABLE.** He agrees to carry her question on the year's first consultation day. Name the day by paraphrase (Apollo's birthday, the god's first day); do **not** use the allowlisted phrase here. He gives no reason, and she doesn't get the watch back.
 **Progressive structure:**
 - Builds on Ch.9: she saw him read the notice.
 - Adds: who he is, piece by piece, and Felix.
@@ -441,7 +443,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Key scenes/beats:**
 1. **NON-NEGOTIABLE.** Three men. Valens is fast, efficient and unglamorous. Mara swings the Pentax (it survives; the lens cap doesn't). One man dies; two run. Voice under pressure: the asides die and she narrates only what bodies do.
 2. **NON-NEGOTIABLE.** After: Valens's hands shaking at the stream. She holds them still.
-3. **NON-NEGOTIABLE.** He tells it while washing: the *rudis*, Nero's games at Corinth, Plautia, Celer, the dowry. Flat, chronological, no self-pity. "I was a good bodyguard. That was the use of me."
+3. **NON-NEGOTIABLE.** He tells it while washing: the *rudis*, Nero's games at Corinth, Plautia, Celer, the dowry. Flat, chronological, no self-pity. "I was a good bodyguard. That was the use of me." **Knowledge path (one plain passage):** last autumn Plautia's brother's freedman found him at Kirrha harbor and asked him to testify in the dowry suit; he said no; the notice with his description went up within the month. So Celer wants a dead witness, not a returned slave, and today's men proved it.
 4. Felix brings the goat home. They leave the body for the road's owners to find.
 **Progressive structure:**
 - Builds on Ch.11: the goat errand.
@@ -453,24 +455,26 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Shareable moment:** —
 **Reading speed:** very fast fight; slow stream; flat telling.
 **Word count target:** 5,600
-**Writer warnings:** No choreographed action-movie fight; keep it short, ugly and confused. Using the camera is panic, not cleverness, and the flash is never used. Valens's account must not be a monologue of grievance. NO aphorism after the killing. The final punch is concrete.
+**Writer warnings:** No choreographed action-movie fight; keep it short, ugly and confused. Using the camera is panic, not cleverness (the K1000 has no flash, so none appears). Valens's account must not be a monologue of grievance. NO aphorism after the killing. The final punch is concrete.
 **Beat subversion:** *Genre beat:* the hero saves the heroine and she melts. *Subversion:* she saves a little of him, he falls apart afterward, and the romance is in her steady hands, not his sword.
 
 ## Chapter 13: The Seventh of Bysios
 **Ledger:** Parallel (internal shape: *outside / inside*, her wait and his account alternating) · open: scene-setting (date) → `scene-set` · end: spoken line → `dialogue` · 8,000 · dialogue 35–45% · theme present · 4 breaks · gear mid
 *(Delphi, the year's first consultation day, spring, AD 71.)*
 
-**Premise:** Women may not go in, so Valens carries Mara's question to the god and brings back the answer word for word. Then the Pythia herself sends for Mara and names the city.
+**Premise:** Women may not go in, so Valens carries Mara's question to the god and brings back the answer word for word. Then the Pythia herself, off duty, sends for Mara to her own house and names the city to her face.
 **Function in arc:** **TURNING POINT, the WHERE (~30%).** The Oracle is the first and only early source of where. The hour is withheld.
+**FINAL VERSION (resolves STATE ARCH-4 / audit WARN-001):** the formal consultation is male-only, and Valens is Mara's representative inside it, so the god's *public* answer reaches her through him. Theano's word "Pompeii" is spoken **in person**, afterwards, at Theano's house: a widow talking to a woman outside the formal consultation, not an oracular response. This is historically defensible and closer to canon ("the Oracle tells her WHERE"). The orchestrator should update STATE ARCH-4 to match.
 **Emotional anchor:** Valens repeating the god's answer word for word, the way he once drilled sword-forms.
 **Emotional surprise:** the answer comes from a tired woman with bad knees, mid-complaint about the priests' stool. It is precise.
-**Opening strategy:** a time opener ("On the seventh of Bysios…" or similar), so `scene-set`.
+**Opening strategy:** a time opener that the detector recognizes and that does **not** spend the allowlisted phrase, e.g. "The first consultation day of the year came in cold…" (`The first` → `scene-set`). The chapter *title* already carries "the seventh of Bysios" (allowlisted use 2 of 3).
 **Key scenes/beats (alternating A/B):**
 - **A.** Outside: dawn on the terrace, the crowd, the sprinkling of cold water on the goat. It must shiver to be accepted, and it doesn't, then does. Mara among the waiting women.
-- **B.** Inside, as Valens tells it afterward at the inn: the laurel smoke, the priest (*prophetes*), the voice from below.
-- **NON-NEGOTIABLE (B).** The public answer, repeated exactly: *the road home lies under the mountain of vines by the western sea, where the dead go out of the city.* (Allowlisted phrase, use 1 of 3.)
-- **A.** Mara's frustration: which mountain, which city?
+- **B.** Inside, as Valens tells it afterward at Kallia's lodging: the laurel smoke, the priest (*prophetes*), the voice from below. The voice is *described* (pitch, the pause, the priest's hand), never quoted.
+- **NON-NEGOTIABLE (B).** The public answer, given **once**, in Valens's word-for-word repetition only: *the road home lies under the mountain of vines by the western sea, where the dead go out of the city, at the door painted on a dead man's house.* (Allowlisted phrase, use 1 of 3. "A door painted on a dead man's house" is the second marker that lets Mara find the tomb in Ch.19; it is at-risk, max 1 verbatim.)
+- **A.** Mara's frustration: which mountain, which city? A painted door could be anywhere there are tombs.
 - **NON-NEGOTIABLE (A).** A temple slave summons her to the house of the old woman who shouts at crows (recognized by situation, from Ch.8). **Theano**, off duty: knees, crows, plain mountain Greek.
+- **Object beat (one line, resolves the ibuprofen).** Theano complains about her knees; Mara gives her the last two ibuprofen from the 1998 packet and shows her how to take them. Theano swallows them without thanks. It is a payment, never a joke and never mentioned again in this chapter.
 - **NON-NEGOTIABLE.** Mara asks *when*. Theano: not hers to give, or not given. She will not say which, and will not comfort.
 - **NON-NEGOTIABLE.** Mara asks *which city*. Theano's last word, which ends the chapter: "Pompeii."
 **Progressive structure:**
@@ -483,7 +487,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Shareable moments:** #1 (she alone knows what "Pompeii" means) and #2 (the gladiator carrying her prophecy out word for word).
 **Reading speed:** ritual slow; Valens's account measured; Theano's house quick and dry.
 **Word count target:** 8,000
-**Writer warnings:** Theano must not speak in riddling verse or deliver a theatrical prophecy; her register is a farmer's widow's. She must not hint at the hour ("you will learn it in the fire"). **No narratorial foreshadowing:** Mara's horror arrives in Ch.14. Here it is only the word. Valens's word-for-word recall is shown once, not turned into a running device. Keep "where the dead go out" to its one use here.
+**Writer warnings:** Theano must not speak in riddling verse or deliver a theatrical prophecy; her register is a farmer's widow's. She must not hint at the hour ("you will learn it in the fire"). **No narratorial foreshadowing:** Mara's horror arrives in Ch.14. Here it is only the word. Valens's word-for-word recall is shown once, not turned into a running device. Keep "where the dead go out" to its one use here (Valens's repetition, not also the voice). Neither "the seventh of Bysios" in the opener nor anywhere in the body: the title is the chapter's one use.
 **Beat subversion:** *Genre beat:* the heroine stands before the Oracle in a trance-lit chamber. *Subversion:* she isn't allowed in the room. The prophecy reaches her second-hand through a gladiator's memory, and the truth comes from an old woman complaining about her knees.
 
 ## Chapter 14: What Pompeii Means
@@ -499,7 +503,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 1. What she knows: the city's plan, the forum, a 1988 exhibition of the plaster casts she saw as a graduate student. This is a **past-facing memory of 1998-era knowledge**, not her own future.
 2. Eight years. The door could open on any day in them.
 3. **NON-NEGOTIABLE.** The laugh.
-4. Valens asleep on the inn floor across the doorway (he took the floor). She does not tell him.
+4. Valens asleep on the floor of Kallia's lodging across Mara's doorway. Kallia put him there herself: the lodging is crammed with consultation-day pilgrims, Celer's men were on the road three days ago, and a guardian uses the guard she has. She does not tell him what Pompeii means.
 5. **NON-NEGOTIABLE.** The plan: money, a man, the sea in spring, Italy.
 **Progressive structure:**
 - Builds on Ch.13: the word.
@@ -523,7 +527,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Opening strategy:** the pasture at dawn in one long sentence: bells, dew, thyme, cold.
 **Key scenes/beats:**
 1. The bargain spoken plainly. He needs his manumission record from Corinth to travel safely in Italy. She needs a husband to travel at all. Plautia's brother's suit needs his testimony.
-2. **NON-NEGOTIABLE.** She tells him the truth, badly. She shows him the flashlight and the camera. He asks practical questions: mules, the emperor, whether the sea is still salt. He decides she is mad in a harmless way, *and does not care*.
+2. **NON-NEGOTIABLE.** She tells him the truth, badly. She shows him the flashlight and the camera. **What Valens is told here (knowledge flow):** that she is from nineteen centuries ahead; that a door in the Corycian cave brought her; that the old woman told her the door home is in Pompeii, which is why she must get to Italy. **She does not tell him what will happen to Pompeii** (that waits for Ch.37). He asks practical questions: mules, the emperor, whether the sea is still salt. He decides she is mad in a harmless way, *and does not care*. Pompeii he accepts as a place, because a place is a place.
 3. A day of work: milk, mules, Felix's endless questions, the figs that aren't ripe.
 4. **NON-NEGOTIABLE (HEAT 1).** The shepherd hut. Explicit, sensual and character-driven: elbows, a collapsing bed, laughter, then the moment the laughter stops. Her asides go quiet. His stillness breaks.
 5. Night. Felix snoring by the fire outside. A quiet image to end.
@@ -550,8 +554,8 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Emotional surprise:** Mara's jealousy of Plautia turns into her first female friendship in the past.
 **Opening strategy:** mid-dialogue. Plautia's first blunt question to Mara.
 **Key scenes/beats (alternating):**
-- **Corinth:** Plautia in her brother's house. Exquisite Latin, sudden bluntness. Celer kept her son Marcus. The archive copy of Valens's manumission sits in the provincial record office under Celer's influence.
-- **Delphi, autumn:** Kallia's farewell. **NON-NEGOTIABLE:** Kallia gives Mara the borrowed himation from Ch.7. No speech. A sweep of the threshold and the broom put away.
+- **Corinth:** Plautia in her brother's house. Exquisite Latin, sudden bluntness. Celer kept her son Marcus (seven this winter). The archive copy of Valens's manumission sits in the provincial record office, newly back under the restored proconsul, on whose staff Celer now serves again.
+- **Delphi, autumn:** Kallia's farewell. **NON-NEGOTIABLE:** Kallia gives Mara the borrowed himation from Ch.7. No speech. A sweep of the threshold and the broom put away. **Film (named frame):** Mara photographs Kallia's lamp on the sill in morning light. Kallia does not know what the camera does and does not ask.
 - **Corinth:** the bracelet. Mara's jealousy (were they lovers?) and the answer she gets from watching, not asking.
 - **Delphi/the gulf:** the crossing from Kirrha to Lechaion, with mules seasick.
 - **NON-NEGOTIABLE (Corinth):** the plan for Isthmia, when the officials will be at the games.
@@ -608,7 +612,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Key scenes/beats:**
 1. The captain's condition: a respectable man with his wife and boy, or no passage.
 2. **NON-NEGOTIABLE.** The wedding is consent before witnesses (Roman marriage needed no priest). Ten words. Felix cries; the sailor wants to get on.
-3. **NON-NEGOTIABLE.** The watch, given back and wound. He has kept it wound for sixteen months. No speech.
+3. **NON-NEGOTIABLE.** The watch, given back and wound. He has kept it wound for seventeen months (November 70 to spring 72). No speech.
 4. A mule refuses the gangplank. Chaos. Aboard.
 5. The chapter ends on a ≤7-word line, a single-sentence closing paragraph.
 **Progressive structure:**
@@ -621,7 +625,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Shareable moment:** —
 **Reading speed:** fast and practical; one still moment with the watch.
 **Word count target:** 2,800
-**Writer warnings:** No wedding vows or speeches. No narrator significance ("it was the beginning of everything"). Don't explain that he kept the watch wound; let her notice the hands are right. End on action, not an aphorism.
+**Writer warnings:** No wedding vows or speeches. No narrator significance ("it was the beginning of everything"). Don't explain that he kept the watch wound; let her notice it is running, and near enough to the sun's noon that he must have set it by the shadow. End on action, not an aphorism.
 **Beat subversion:** *Genre beat:* the wedding as a lavish emotional set-piece. *Subversion:* it is ten words on a wet quay, conducted to satisfy a ship's captain, and the emotion is in a wound watch.
 
 ---
@@ -629,10 +633,10 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 # PART TWO · WHEN
 
 ## Chapter 19: Puteoli
-**Ledger:** Chronological (internal shape: *walk*, harbor → coast road → city → necropolis) · open: scene-setting (place/time) → `scene-set` · end: long fade → `long-fade` · 8,400 · dialogue 20–30% · theme present · 4 breaks · gear high
+**Ledger:** Chronological (internal shape: *walk*, harbor → coast road (a night on the road) → city → the tomb roads, over the first days) · open: scene-setting (place/time) → `scene-set` · end: long fade → `long-fade` · 8,400 · dialogue 20–30% · theme present · 4 breaks · gear high
 **Dateline:** *Puteoli · spring, AD 72*
 
-**Premise:** They land at Puteoli under a green mountain Mara refuses to photograph, settle in a Pompeii still rebuilding from an old earthquake, and she walks out of the Nuceria Gate and finds the tomb with the painted door.
+**Premise:** They land at Puteoli under a green mountain Mara refuses to photograph, settle in a Pompeii still rebuilding from an old earthquake, and in her first days she walks the city's tomb roads until, outside the Nuceria Gate, she finds the tomb with the painted door.
 **Function in arc:** Arrive at the deadline-place. The door is located and dormant. The Pompeii world is established (Dimension 7).
 **Emotional anchor:** the green, vine-covered mountain seen from the deck, one broad summit and nothing like the postcards.
 **Emotional surprise:** she refuses to photograph it. Valens says it's a fine mountain for vines, and she agrees with him.
@@ -640,16 +644,17 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Key scenes/beats:**
 1. **NON-NEGOTIABLE.** The bay from the deck: Puteoli's moles, Misenum's fleet, the mountain. The camera is raised and lowered. The reader's own knowledge does the work.
 2. The harbor clerk Valens is sure has marked him (he is short-sighted). The papers work.
-3. The coast road to Pompeii: villas, salt pans, the Sarno.
-4. **NON-NEGOTIABLE.** Pompeii in repair: scaffolds, patched columns, painted election notices, a city seventeen years after the quake and still mending. **Grata** at her thermopolium rents them rooms.
-5. **NON-NEGOTIABLE.** Alone, Mara walks out of the Nuceria Gate into the tombs, where the dead go out of the city (allowlisted phrase, use 2 of 3). A small freedman's tomb with a painted false door. **A hand at the threshold:** faintly cool on a hot day. Dormant. Real.
-6. She touches the microcassette in her bag without comment. A long fade into the city's evening noise.
+3. The coast road to Pompeii: villas, salt pans, the Sarno. With mules and baggage it is two days, with a night at a roadside inn near Neapolis.
+4. **NON-NEGOTIABLE.** Pompeii in repair: scaffolds, patched columns, painted election notices, a city ten years after the quake and still mending. **Grata** at her thermopolium rents them rooms.
+5. **Search beat (short, a page at most; resolves how she finds it).** The answer gave her the necropolis and one marker, a door painted on a dead man's house. Pompeii's dead go out by every gate. On her first free afternoon she tries the Herculaneum Gate road (marble benches, grand altars, no painted door), then the Stabian Gate's few tombs. Do not tour; one sentence of each road. (Use the book's modern gate names; do not name a "Vesuvius Gate", which would put the mountain's name in her eyeline.)
+6. **NON-NEGOTIABLE.** On the next afternoon, alone, Mara walks out of the Nuceria Gate into the tombs, where the dead go out of the city (allowlisted phrase, use 2 of 3). A small freedman's tomb with a painted false door, which she knows at once. **A hand at the threshold:** faintly cool on a warm spring afternoon. Dormant. Real.
+7. She touches the microcassette in her bag without comment. A long fade into the city's evening noise.
 **Progressive structure:**
 - Builds on Ch.18: the ship arrives.
 - Adds: Campania, Grata, the door found.
 - Opens toward Ch.20: they need a living.
 **Theme presence:** home located, in a place that will not last.
-**Character chaos moments:** Valens's mind-reading (the clerk). Mara's teeth (Grata's are bad, and she's charmed anyway).
+**Character chaos moments:** Valens's mind-reading (the clerk). (Teeth not used: Grata's teeth wait for Ch.31.)
 **Subtext layer:** "Fine mountain for vines" is just what he thinks. Her agreement is a lie told to a man who can't know why she's lying.
 **Shareable moment:** —
 **Reading speed:** slow, panoramic; quick at the harbor; very slow at the tomb.
@@ -665,11 +670,12 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Function in arc:** Build the life the climax will cost. The mending motif turns. The pregnancy is revealed.
 **Emotional anchor:** a lamp she mends for a customer, with the seam showing on purpose.
 **Emotional surprise:** she weeps at a street fountain because a stranger's toddler hands her a wet pebble.
-**Opening strategy:** a document. A real-style Pompeian graffito, short (≤8 words).
+**Opening strategy:** a document. The real-style painted lost-property notice of beat 1, 9–27 words, in italics (so `narrative`, not `short-punch` or `dialogue`).
 **Key scenes/beats:**
-1. **(document, REVEAL)** A lost-property notice painted on a shopfront ("a bronze pot has gone from this shop…"). Mara takes the trade: people here mend rather than replace.
+1. **(document, REVEAL; the chapter's opening, 9–27 words, set in italics)** A lost-property notice painted on a shopfront ("a bronze pot has gone from this shop…"). Mara takes the trade: people here mend rather than replace.
 2. **NON-NEGOTIABLE.** She throws out a bowl she mended because the seam shows (all-or-nothing).
-3. Valens's carting: column drums, roof tiles, the quake's leftovers. His fig tree in a pot on the roof.
+3. Valens's carting: column drums, roof tiles, the quake's leftovers. His fig tree in a pot on the roof. **Film (named frame):** Valens asleep on the roof in the afternoon heat under the potted fig.
+3a. **Object plant (one or two sentences, no comment).** After a small shake one night that rattles the lamps and bothers no one, Mara writes the date and a line in the blank back pages of Fenn's notebook. It is a private eruption watch: she knows 62 and she knows the year. She does not reckon anything from it. This is the first entry of the tremor notes Ch.36 depends on.
 4. **NON-NEGOTIABLE.** The fountain and the pebble. Unearned and inexplicable.
 5. **(document, REVEAL)** An election notice painted over the old earthquake crack in Grata's wall. Texture with a reveal: the city papers over its fault lines.
 6. **NON-NEGOTIABLE.** The lamp: she leaves the join visible because the customer wants to see where it broke.
@@ -699,7 +705,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Emotional surprise:** Valens's old fame flatters him, and he hates that it does.
 **Opening strategy:** mid-dialogue. Felix bursting in with news from the barracks.
 **Key scenes/beats:**
-1. **NON-NEGOTIABLE (early).** The summons from Plautia's brother: the dowry suit will be heard in Rome in spring, and Valens is the witness.
+1. **NON-NEGOTIABLE (early).** The summons from Plautia's brother: the dowry suit will be heard in Rome in spring, and Valens is the witness. **Knowledge path (one line):** the brother's freedman brings it to Grata's counter by name, because in the summer of 72 Valens sent word of their Pompeii lodging to Plautia, the one person in Corinth who wanted him alive.
 2. The amphitheatre at a minor show: an old trainer recognizes him. Graffiti about Lupus. An editor's offer of an exhibition bout. Felix's face.
 3. **NON-NEGOTIABLE.** Valens refuses the arena flatly. He has not decided about Rome.
 4. Mara, pregnant, argues for Rome: speak, be believed. He argues for invisibility, the children and safety.
@@ -722,16 +728,17 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Dateline:** *Rome · spring, AD 74* · **TURNING POINT (~53%)**
 
 **Premise:** In a Roman court Valens says his own name aloud and tells the truth about Celer. Mara, walked out for laughing, wanders the Rome she once knew as ruins.
+**Legal texture (keep accurate, keep light):** a dowry action (*actio rei uxoriae*) is heard by a single *iudex* with his assessors, at a tribunal in the Basilica Julia among the crowded benches of the other courts sitting there. There is no jury.
 **Function in arc:** Valens's arc turns from invisibility to being known. Celer is resolved by law. Fascination set-piece.
 **Emotional anchor:** Valens saying his own name, loud enough for the back benches.
-**Emotional surprise:** Mara's uncontrollable laughter when a juror sneezes during the gravest testimony of Valens's life.
+**Emotional surprise:** Mara's uncontrollable laughter when a man on the benches sneezes during the gravest testimony of Valens's life.
 **Opening strategy:** Rome in one long sensory sentence (more than 28 words): scaffolds, noise, the smell of the Tiber.
 **Key scenes/beats (alternating):**
 - **Court:** the Basilica Julia's tribunals, crowds, lawyers. Celer's advocate is smooth. Plautia veiled.
 - **NON-NEGOTIABLE.** Valens's testimony: plain, his name stated, the frame described. The sneeze. Mara's laughter. She is walked out.
 - **City:** Mara in the Forum she visited as a student in 1991, the stones she knew broken now whole. The **Flavian Amphitheatre rising in scaffolding**. She carries a gladiator's child to look at the arena being built, and doesn't think about it more than once.
-- **Court:** the verdict is money. Celer must return the dowry. Plautia gets access to her son. Celer genial in defeat. No violence, ever.
-- **NON-NEGOTIABLE.** A glimpse of Plautia with Marcus, seven, on the basilica steps.
+- **Court:** the verdict is money. Celer must return the dowry. Needing his praetorship more than his pride, he settles the rest privately: the price of quiet is that Plautia may see her son. (Custody is not a remedy in a dowry suit; the access is Celer's concession.) Celer genial in defeat. No violence, ever.
+- **NON-NEGOTIABLE.** A glimpse of Plautia with Marcus, nine (b. autumn AD 64), on the basilica steps.
 - **End:** a spoken line, Valens's or Plautia's, plain.
 **Progressive structure:**
 - Builds on Ch.21: he chose to come.
@@ -753,7 +760,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Premise:** In a flea-bitten roadside inn on the way home, Valens is sad rather than triumphant. Mara, six months pregnant, holds him until he lets himself be held.
 **Function in arc:** The marriage turns real on both sides: he is known and lets himself need someone.
 **Emotional anchor:** the rough inn blanket, rain on the roof tiles, her pregnant body, and his care.
-**Emotional surprise:** after vindication he is sad. The truth cost three years and changes nothing about his back.
+**Emotional surprise:** after vindication he is sad. The truth cost five years (the frame was in 69) and changes nothing about his back.
 **Opening strategy:** an object. The blanket (≤8 words).
 **Key scenes/beats:**
 1. The inn: a bad supper, a landlady, rain.
@@ -765,7 +772,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 - Adds: Valens is changed; the marriage deepens.
 - Opens toward Ch.24: home, and the birth.
 **Theme presence:** home as being held.
-**Character chaos moments:** Valens's onion memory. Mara's teeth (the landlady's, briefly and absurdly).
+**Character chaos moments:** Valens's onion memory. (Teeth not used: the midwife's in Ch.24 is the book's one introduction-by-teeth.)
 **Subtext layer:** "It's done" is about the trial on the surface. Underneath it means *now I have nothing to hide behind.*
 **Shareable moment:** —
 **Reading speed:** slow throughout.
@@ -786,7 +793,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 1. The midwife, the birthing stool, Grata, Juno Lucina invoked, the heat.
 2. **NON-NEGOTIABLE.** Voice under pressure: the asides die; she narrates only what hands and bodies do; Latin goes unglossed; speech goes untagged; the senses narrow to sound.
 3. Mrs. Dunphy (brown cardigan), uninvited.
-4. Valens outside the door, unable to stand still, re-shoeing a mule at midnight.
+4. Valens outside the door, unable to stand still, trimming a mule's hooves by lamplight at midnight. (No nailed horseshoes: the period's equids went barefoot or in strapped hipposandals.)
 5. **NON-NEGOTIABLE.** Birth. Lucius. Valens can't hold him until the midwife shows him how.
 6. Morning: Valens winds the Seiko on her wrist while she sleeps. No comment. The quiet image ends the chapter.
 **Progressive structure:**
@@ -799,11 +806,11 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Reading speed:** very fast shards; slow at the birth; still at the watch.
 **Word count target:** 6,200
 **Writer warnings:** Voice breaking ≠ list or inventory (zero-tic ruling). Keep the birth real but at harshness ~7, not grinding. No "the first of many" or any future gesture about Lucius. The watch winding is not remarked on.
-**Beat subversion:** *Genre beat:* the radiant birth scene. *Subversion:* her strongest memory of it is the midwife's teeth. The tenderness belongs to the man outside shoeing a mule at midnight.
+**Beat subversion:** *Genre beat:* the radiant birth scene. *Subversion:* her strongest memory of it is the midwife's teeth. The tenderness belongs to the man outside trimming a mule's hooves at midnight.
 
 ## Chapter 25: Augurinus
 **Ledger:** Single-scene (internal shape: *one afternoon in one upper room*) · open: scene-setting (place) → `scene-set` · end: short punch → `punch` · 8,400 · dialogue 45–55% · theme present · 0 breaks · gear mid
-**Dateline:** *Puteoli · AD 75* · **TURNING POINT, the WHEN (~60%)**
+**Dateline:** *Puteoli · early spring, AD 75* · **TURNING POINT, the WHEN (~60%)** *(Lucius is about eight months old, in Valens's arms; Mara is not yet pregnant with Aelia, who is born winter 75–76.)*
 
 **Premise:** Mara tracks down a mad old astrologer in Puteoli who turns out to be August Fenn. He speaks English, tells her within a minute when the door will open, and she tells him he is wrong.
 **Function in arc:** The cautionary mirror arrives. The WHEN is on the table. Valens finally believes her. The refusal begins.
@@ -814,14 +821,15 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 1. Fenn's upper room by the harbor: star charts, wax tablets, a dead Zippo, a potted basil.
 2. **NON-NEGOTIABLE.** She speaks English. He answers. His language is frozen in 1968. Her collapse is laughter and tears, both at once.
 3. **NON-NEGOTIABLE.** Valens, in the doorway with Lucius, hears two people speak fluently in a language no one knows. He believes her, and it shows on his face. Nobody says so.
-4. **NON-NEGOTIABLE.** Fenn's story: 1968, the cave, landing in AD 41, thirty-four years. The doors "breathe with the earth." The quake of 62 opened Pompeii's for a day, and he arrived three days late. A door takes back the one it brought, so it will take her (allowlisted phrase, use 1 of 3, as a *promise*).
+4. **NON-NEGOTIABLE.** Fenn's story: 1968, the cave, landing in AD 41, thirty-four years. The doors "breathe with the earth." **How he knows about 62:** the quake opened Pompeii's door for part of one night; he was down with fever in Misenum, and three days later heard a tavern story about a tomb whose painted door "breathed cold" the night of the quake. That is how he found the door, already shut. **The law, in his words:** to Fenn the doors are one door with many mouths (worded once, here), so *it* takes back the one it brought: the cave brought her, so Pompeii's mouth will take her (allowlisted phrase, use 1 of 3, as a *promise*). An opening is brief, hours at most, never days.
 5. **NON-NEGOTIABLE.** Mara asks whether it would take others. Fenn: he doesn't know. He has always been alone. **Leave it unknown.**
-6. **NON-NEGOTIABLE.** The WHEN, flat and fast: "Late summer, seventy-nine." He has been waiting for it since 62.
-7. Fenn admits two earlier predictions (71, 73) failed.
+6. **NON-NEGOTIABLE.** The WHEN, flat and fast: "Late summer, seventy-nine." He has waited for this door since 62.
+7. **NON-NEGOTIABLE (the fig leaf, reconciled).** Fenn admits his first two dates for the door's reopening (71, then 73) failed. He worked them from the tremor rhythm alone, sat three nights at the tomb each time, and it stayed shut. (FLEX: Mara realizes that in the autumn of 73 she was living a mile from where he sat.) After 73 he rebuilt the tables around the one thing he knew was coming. He knows from school what happens to Pompeii in 79, says so plainly, and reasons that the earth's biggest breath will open the door: be at the tomb the night after the mountain opens, and gone before the worst. His tremor figures now fit. Mara's refusal seizes on exactly this: he has been wrong twice, and his third date is a year he already knew.
+7a. **NON-NEGOTIABLE (the notebook, Margaret; resolves the unplanned reunion).** Mara tells him she has his notebook: she bought his things at an estate sale in Chestnut Hill. He hears "estate sale" and understands that his sister is dead. He does not ask whose sale, and Mara, seeing that, does not say the name. She offers the notebook; he will not take it or open it ("Keep it. I know what's in it."). Nobody says "Margaret" in this chapter, and Mara never says it to him at all. That protects Ch.35, where he says it first.
 8. **NON-NEGOTIABLE (end).** She tells him his arithmetic is wrong (≤7 words, a single-sentence closing paragraph).
 **Progressive structure:**
-- Builds on Ch.24: Grata's rumor.
-- Adds: Fenn, the date, the law of return, and the open question about others.
+- Builds on Ch.24: the rumor from Grata's husband.
+- Adds: Fenn, the date, the law of return, and the open question about others. **Valens's knowledge after this chapter:** he believes she is from the future and that a door leads there (he heard the English). He does not follow the English, so he does **not** learn the date or the door's rules here.
 - Opens toward Ch.26: his letters begin.
 **Theme presence:** a man who never unpacked, face to face with a woman who keeps a bag packed.
 **Character chaos moments:** Fenn's automat memory (coconut cream pie). The Phillies (first mention).
@@ -829,7 +837,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Shareable moment:** #4 (the American astrologer waiting thirty-four years for a door that opens the night Vesuvius erupts).
 **Reading speed:** quick recognition; slow story; very fast date; a dead stop.
 **Word count target:** 8,400
-**Writer warnings:** Fenn must NOT enumerate or list (zero-tic ruling). His pattern-mind shows in his subject matter. Fenn's dialogue must avoid the banned pattern "in (all) the years since". The style gate scans dialogue too, so use "thirty-four years" or "since I landed." Valens's belief is shown, not declared. Mara's refusal must read as human denial with a fig leaf (his failed predictions), not stupidity. No narrator dread about 79 beyond her own present thought.
+**Writer warnings:** Fenn must NOT enumerate or list (zero-tic ruling). His pattern-mind shows in his subject matter. Fenn's dialogue must avoid the banned pattern "in (all) the years since". The style gate scans dialogue too, so use "thirty-four years" or "since I landed." Valens's belief is shown, not declared. Mara's refusal must read as human denial with a fig leaf (two failed dates and a third built around the history-book year), not stupidity. No narrator dread about 79 beyond her own present thought. The "one door with many mouths" idea is worded once, by Fenn, and never repeated verbatim (at-risk list). Mara must not say "Margaret".
 **Beat subversion:** *Genre beat:* the mysterious mentor withholds the crucial secret until the right moment. *Subversion:* he blurts it out in the first five minutes, and it is the heroine who withholds, from herself.
 
 ## Chapter 26: Letters in English
@@ -838,7 +846,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 
 **Premise:** Fenn writes to Mara in English by carter's post. She reads his letters aloud to her newborn daughter while her husband grows jealous of a language.
 **Function in arc:** Deepen Fenn. Aelia arrives (off the page). The refusal is shown: she doesn't open the copy of his tables.
-**Emotional anchor:** Fenn's English read aloud to a three-week-old who will never know the language.
+**Emotional anchor:** Fenn's English read aloud to a three-week-old, in a language no one else in the street speaks. (A present fact of the scene; the anchor must not be rendered as an outcome such as "will never know.")
 **Emotional surprise:** Valens is jealous of a language.
 **Opening strategy:** a document. A Fenn letter in his runaway 1960s idiom (9–27 words, so `narrative`).
 **Key scenes/beats:**
@@ -847,7 +855,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 3. **(document, REVEAL)** Fenn asks who won the World Series in 1997. He is furious at a word she used ("voicemail").
 4. **NON-NEGOTIABLE.** The copy of his tables lies in a box under the bed, unopened. No narration of why.
 5. Valens asks her to teach him an English word. She teaches him one, and he uses it wrongly and happily. This happens only in this chapter. **No recurring callback.**
-6. Lucius with the knucklebone, rolling it.
+6. Lucius with the knucklebone, rolling it. **Film (named frame):** Lucius, about eighteen months, made to sit still holding his newborn sister, very carefully. (Design note only; the Writer finds the image.)
 **Progressive structure:**
 - Builds on Ch.25: the correspondence begins.
 - Adds: Aelia; Fenn's interior; the tables avoided.
@@ -866,24 +874,23 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Ledger:** Chronological (internal shape: *walk*, Puteoli → the Phlegraean fields → the Sibyl's cave) · open: claim/opinion (I) → `I-statement` · end: long fade → `long-fade` · 7,600 · dialogue 35–45% · theme present · 3 breaks · gear high
 **Dateline:** *Cumae · AD 76*
 
-**Premise:** Fenn takes Mara and little Lucius to the Sibyl's cave at Cumae to show her a door that died, and she watches what thirty-four years of waiting have done to him.
+**Premise:** Fenn takes Mara, little Lucius and the baby to the Sibyl's cave at Cumae to show her a door that died, and she watches what thirty-five years of waiting have done to him. (Aelia, a few months old, rides in a sling against Mara and sleeps through the Sibyl.)
 **Function in arc:** The cautionary mirror at full strength, through example and never lecture. The rules of the doors are deepened.
 **Emotional anchor:** Fenn pressing his palm to the rock of a dead door, as if it might be warm.
 **Emotional surprise:** in the cave Fenn is funny and young, and it is Mara who feels old.
 **Opening strategy:** a claim starting with "I" (more than 8 words), about what she had expected the Sibyl's cave to be.
 **Key scenes/beats:**
-1. The road: sulphur fields at Puteoli, steam vents (texture, not portent), Lake Avernus.
+1. The road: sulphur fields at Puteoli, steam vents (texture, not portent), Lake Avernus. **Film (named frame):** Fenn on the road in daylight, trying to light the dead Zippo for the picture.
 2. **NON-NEGOTIABLE.** The long trapezoidal gallery of the cave, cut light. Fenn finds the dead door. A **hand at the threshold**, *his*.
 3. Fenn's crossing story, more of it: the coat he left at the cave mouth in 1968.
 4. **NON-NEGOTIABLE.** Lucius rolls the knucklebone down the gallery. Fenn draws a baseball diamond in the dust for him.
-5. Fenn's rage at a 1990s word, in person this time.
-6. Long fade on the walk back, the bay going purple.
+5. Long fade on the walk back, the bay going purple. (The 1990s-word rage stays a one-off in the Ch.26 letter; it is not repeated in person.)
 **Progressive structure:**
 - Builds on Ch.26: his invitation.
 - Adds: doors can die, and Fenn's waiting has a texture.
 - Opens toward Ch.28: Felix has gone missing (news on return).
 **Theme presence:** what waiting for another life costs.
-**Character chaos moments:** Fenn's rage, the Phillies, the automat (lemon meringue: memory mutation).
+**Character chaos moments:** the Phillies, the automat (lemon meringue: memory mutation).
 **Subtext layer:** Fenn's tour of the dead door is really a confession that he has never lived anywhere.
 **Shareable moment:** —
 **Reading speed:** a slow walk; still in the cave.
@@ -931,7 +938,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Key scenes/beats:**
 1. Evidence: wax candles, clay figurines as gifts, the felt caps, gambling in the open. Felix on leave from the school, crowned mock-king.
 2. **NON-NEGOTIABLE.** Fenn at dinner: baseball explained to Valens with olive pits. Valens's questions (practical, of course).
-3. **NON-NEGOTIABLE.** The mime show at a street stage. Valens weeps; Lucius is mortified.
+3. **NON-NEGOTIABLE.** The mime show at a street stage. Valens weeps; Lucius (about two and a half, on his father's shoulders) leans down and pushes a piece of bread at his father's mouth to make it stop.
 4. Mara refuses to sing because she can't do it well (all-or-nothing). Then she sings, badly.
 5. The personal turn: the household's own enslaved neighbor served at table, and the shame. A quiet image to end.
 **Progressive structure:**
@@ -958,8 +965,9 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Opening strategy:** "I was kneading when the floor moved." (≤8 words, starting with "I"; the opening paragraph may be a single sentence.)
 **Key scenes/beats:**
 1. Dust, a cracked wall, Grata swearing, Aelia laughing.
-2. **NON-NEGOTIABLE.** Mara runs out of the Nuceria Gate. **A hand at the threshold:** nothing, only warm plaster.
-3. The walk back past people re-plastering already. In Campania this is ordinary.
+2. **NON-NEGOTIABLE.** Mara runs out of the Nuceria Gate. **A hand at the threshold:** nothing more than the same faint coolness she felt the day she found it, under sun-warmed plaster. No colder.
+2a. **Knowledge beat (no dialogue needed).** When she turns, Valens is standing in the road with plaster dust in his hair; he followed her when she ran. He looks at the painted door and at her hand on it and asks nothing. From here he knows where the door is.
+3. The walk back past people re-plastering already. In Campania this is ordinary. That night she adds the tremor to the back pages of Fenn's notebook.
 4. A ≤7-word last line, as a single-sentence closing paragraph.
 **Progressive structure:**
 - Builds on Ch.29: winter into spring.
@@ -1012,7 +1020,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 1. **Philokrates**, the Greek physician: honey-and-vinegar, poultices, cool cloths. Mara refuses the bleeding. They argue in Greek she can now speak.
 2. **NON-NEGOTIABLE.** Voice under pressure, at full strength: the asides die; she narrates only hands and breath; the senses narrow to sound.
 3. Valens at the Temple of Isis, then home. He winds the watch at midnight without a word.
-4. **NON-NEGOTIABLE.** The word *amoxicillin* in her head, useless as a prayer.
+4. **NON-NEGOTIABLE.** The word *amoxicillin* in her head, useless as a prayer. (One past-facing line, if the scene wants it: the last of the 1998 ibuprofen went into a priestess's knees six years ago. It would only have cooled him anyway.)
 5. **NON-NEGOTIABLE.** Dawn. The fever breaks. A quiet image of breathing.
 **Progressive structure:**
 - Builds on Ch.31: an ordinary town, an ordinary summer sickness.
@@ -1039,7 +1047,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Key scenes/beats:**
 1. The argument: medicine, schools, a girl's life in 1998 against a girl's life here, the small tombs at the necropolis. **No counted list** (zero-tic ruling).
 2. **NON-NEGOTIABLE.** The pill on the wax tablet. Valens's practical questions: what would *he* be there? A man with scars and no papers, nobody again.
-3. **NON-NEGOTIABLE.** At Puteoli: will the door take them? Fenn: he doesn't know, and he has never seen anyone try. He says, gently, that he would like to see it.
+3. **NON-NEGOTIABLE.** At Puteoli: will the door take them? The conversation is in **Greek**, with Valens present, so that he hears that the door might not take him or the children. Fenn: he doesn't know, and he has never seen anyone try. He says, gently, that he would like to see it. **Nobody names the date in front of Valens** (Mara steers away from it); he learns it, and what the mountain will do, in Ch.37.
 4. Personal: the fear her own eloquence raises. She is planning her children's lives the way her father planned digs.
 5. A real question ends the chapter.
 **Progressive structure:**
@@ -1059,7 +1067,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Ledger:** Chronological (internal shape: *day-in-full*) · open: long sensory spiral → `long-spiral` · end: **PLAIN STOP (no pull)** → `quiet` · 7,600 · dialogue 30–40% · **theme RECEDES** · 3 breaks · gear high
 **Dateline:** *Surrentum · summer, AD 78* · **HEAT 3: the late unshadowed joy**
 
-**Premise:** A perfect family day at the sea across the bay. Lucius swims, Aelia eats sand, and that night, at the inn, the marriage has its happiest hour. Then the day simply ends.
+**Premise:** A perfect family day at the sea across the bay. Lucius swims, Aelia eats sand, and that night, at the inn, the marriage is at its most at ease. Then the day simply ends. *(Design labels such as "happiest" are for the architect only and must never reach the page; see N-19.)*
 **Function in arc:** The banked joy, unshadowed inside the scene. The last heat scene.
 **Emotional anchor:** Lucius swimming three strokes to his father in green water.
 **Emotional surprise:** nothing goes wrong, and the chapter ends without anything happening.
@@ -1087,16 +1095,17 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Ledger:** Parallel (internal shape: *deathbed / 1968*, Fenn's dying intercut with the story of his leaving, told in his own words) · open: mid-dialogue → `dialogue` · end: document fragment → `long-fade` · 7,000 · dialogue 35–45% · theme present · 6 breaks · gear mid
 **Dateline:** *Puteoli · winter, AD 78–79*
 
-**Premise:** Fenn dies in his upper room months short of the door he waited thirty-eight years for, arguing about baseball and insisting to the end that he would have gone through.
+**Premise:** Fenn dies in his upper room, still waiting for the door he has waited for since he landed, arguing about baseball and insisting to the end that he would have gone through. (Mara still refuses his date until Ch.36, so her narration must not say the door is "months" away. If a count is spoken, it is Fenn's: thirty-seven years, nearly thirty-eight.)
 **Function in arc:** The cautionary mirror completes as negative example, not lesson. His tables and his 1968 objects pass to her.
 **Emotional anchor:** the Zippo, refilled with lamp oil, finally catching once in Fenn's hand.
 **Emotional surprise:** his dying is irritable and funny.
 **Opening strategy:** mid-dialogue. Fenn complaining about the doctor.
 **Key scenes/beats (alternating):**
 - **Deathbed:** Mara nursing him; Valens carrying him to the window; the children kept away, then not.
-- **1968, in his words:** Philadelphia, the morning he left, the note on the hall table. **NON-NEGOTIABLE:** he says his sister's name, Margaret, for the first time.
+- **1968, in his words:** Philadelphia, the morning he left, the note on the hall table. **NON-NEGOTIABLE:** he asks at last for the notebook he refused in Ch.25, reads his own 1968 front pages (not her tremor notes at the back), and says his sister's name, Margaret, for the first time. Mara has never said it to him; she does not say it now.
+- **Object beat (one line, no comment).** Waiting by the bed while he sleeps, Mara touches the microcassette in its sock in her bag.
 - **NON-NEGOTIABLE.** The Zippo catches once.
-- **NON-NEGOTIABLE.** He gives her his original tables and his things (the Zippo, a 1964 dime, a coverless paperback). He insists he'd go. He does not have a deathbed conversion.
+- **NON-NEGOTIABLE.** He gives her his original tables and his things (the Zippo, a 1964 dime, a coverless paperback), and the notebook back. He insists he'd go. He does not have a deathbed conversion.
 - **Death.** Rendered plainly.
 - **End (document fragment):** the last line in his own hand in the margin of his tables, something practical and in English. It ends the chapter as a long fade.
 **Progressive structure:**
@@ -1116,7 +1125,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Ledger:** Collage (internal shape: *the notice, the tables, the tomb*) · open: flat statement of fact → `short-punch` · end: short punch → `punch` · 4,400 · dialogue 15–25% · theme present · 5 breaks · gear low
 **Dateline:** *Pompeii · July, AD 79* · **TURNING POINT, the arithmetic (~86%)**
 
-**Premise:** The emperor's death reaches Pompeii, and Mara finally sits down with Fenn's tables and her own seven years of tremor notes. The arithmetic puts the door in the eruption's night.
+**Premise:** The emperor's death reaches Pompeii, and Mara finally sits down with Fenn's tables and her own seven years of tremor notes. The arithmetic puts the door in the eruption's night. (The news has been in the streets since late June; the posted notice she reads in early July is what makes her sit down. Her notes were kept independently of Fenn's tables, which is why their agreement ends the refusal.)
 **Function in arc:** The refusal ends. The clock compresses from years to weeks.
 **Emotional anchor:** a wax tablet of Fenn's tables, her own figures beside his, matching.
 **Emotional surprise:** the day she stops pretending, her first feeling is calm.
@@ -1124,7 +1133,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Key scenes/beats:**
 1. **(document, REVEAL)** The public notice: Vespasian dead on 23 June, Titus emperor.
 2. **NON-NEGOTIABLE.** Year arithmetic she can no longer avoid: it is AD 79, and she knows what late August means.
-3. **(document, REVEAL)** Fenn's tables beside her own tremor notes, kept since 72 in her 1998 notebook. The figures agree. The door opens in the night after the mountain opens.
+3. **(document, REVEAL)** Fenn's tables beside her own tremor notes, kept since 72 in the back pages of Fenn's 1968 notebook (planted Ch.20 and Ch.30). The figures agree. The door opens in the night after the mountain opens. She copies his key figures into the notebook beside hers, so the notebook now carries both.
 4. **NON-NEGOTIABLE.** The tomb with the tables in her hand. **A hand at the threshold:** cooler than before.
 5. A ≤7-word last line, as a single-sentence closing paragraph.
 **Progressive structure:**
@@ -1145,14 +1154,15 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Dateline:** *The Sarno river port · early August, AD 79*
 
 **Premise:** Mara tells Valens everything: the mountain, the date, the door, the hours people had to escape. They fight over whether to flee now or wait for the door. He agrees to stay, with a hired boat as backup, because she has never asked him for anything.
-**Function in arc:** The marriage's truth-test. The plan is locked: wait at the door, with the boat at the river mouth if it fails.
+**Function in arc:** The marriage's truth-test. **The plan is locked, and its order is set by the clock:** they stay in Pompeii for the door. Because the door only breathes in the night after the mountain opens, Valens's one condition is that the daylight hours go to the boat. When the mountain opens they go first to the river mouth; if the sea lets them out, they all go by sea, Mara included, and the door is let go; if the sea refuses, they go to the tomb for the night. (This is the order Ch.40 follows.)
+**What Valens knows coming in, and what is new here:** he already knows she is from the future (Ch.15, believed Ch.25), that the door leads there and might not take him or the children (Ch.33), and where the door is (Ch.30). **New in this chapter:** what the mountain will do, the day, the hours of falling stone, and that the door's night is the eruption's night. Felix is told only that Mara fears the mountain; he takes the boat for the money and for Valens, and knows nothing of the door.
 **Emotional anchor:** the hired boat's painted eye at the Sarno mouth, with Felix (his term at the school served out) asleep in it.
 **Emotional surprise:** Valens agrees not because he believes in the door, but because she has never asked him for anything.
 **Opening strategy:** a flat statement starting with "I" (more than 8 words).
 **Key scenes/beats:**
 1. **NON-NEGOTIABLE.** The whole truth, in order: what the mountain will do, what day, and the hours of falling stone before the end, from Pliny's letters as she remembers them. Valens believes her (Ch.25 settled that).
 2. **NON-NEGOTIABLE.** His case: take the children to Neapolis tomorrow, and the future be damned. Her case: the door, for them, with time to run if it fails.
-3. The compromise: the boat, Felix, the river mouth.
+3. The compromise: the boat, Felix, the river mouth; the boat first in daylight, the door at night (see Function).
 4. **NON-NEGOTIABLE.** Why he agrees. A plain line, not a speech.
 5. His spoken line ends the chapter.
 **Progressive structure:**
@@ -1172,16 +1182,16 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Ledger:** Parallel (internal shape: *the festival / the packing*) · open: scene-setting (date) → `scene-set` · end: quiet image → `quiet` · 8,000 · dialogue 25–35% · theme present · 5 breaks · gear high
 **Dateline:** *Pompeii · 19 August, AD 79*
 
-**Premise:** On the wine festival five days before the mountain opens, the city is sweet and drunk. Mara photographs the mountain with her last frame, tries to get the people she loves out of town, and is happy.
-**Function in arc:** The last ordinary day, rendered fully and with no tagging. The final long immersion before the lengths collapse.
-**Emotional anchor:** the last frame of film spent on the mountain at dawn, a thread of cloud on the summit that may only be cloud.
+**Premise:** On the wine festival five days before the mountain opens, the city is sweet and drunk. Mara photographs the mountain with frame 36, the end of the roll, tries to get the people she loves out of town, and is happy.
+**Function in arc:** A full ordinary day, rendered fully and with no tagging. The final long immersion before the lengths collapse.
+**Emotional anchor:** frame 36, the end of the roll, spent on the mountain at dawn: a thread of cloud on the summit that may only be cloud.
 **Emotional surprise:** the Vinalia is ordinary and lovely, and she is happy.
-**Opening strategy:** a time opener ("On the nineteenth…" or "It was the Vinalia…"), so `scene-set`.
+**Opening strategy:** a time opener the detector recognizes: "It was the Vinalia…" (not "On the nineteenth…", which does not compute as `scene-set`).
 **Key scenes/beats (alternating):**
 - **Festival:** first new wine offered, garlands, Grata's thermopolium overflowing, Aelia sticky with must.
-- **Packing:** what goes in the bag: the tape, the camera, the notebook and the tables. The watch on her wrist.
-- **NON-NEGOTIABLE.** The last frame. The camera put away empty.
-- **NON-NEGOTIABLE.** She gives Grata money to visit her sister in Nuceria "next week." Grata takes the money and laughs. Whether she goes is not resolved here.
+- **Packing:** what goes in the bag: the tape, the camera, the notebook and the tables, Fenn's Zippo and dime (his coverless paperback stays on the shelf). The watch on her wrist.
+- **NON-NEGOTIABLE.** Frame 36, written as an act and never as a tag. She rewinds the roll, takes it out of the camera and puts the canister in the bag; the camera goes back on the shelf.
+- **NON-NEGOTIABLE.** She gives Grata money to visit her sister in Nuceria "the day after tomorrow, and stay the month." Grata takes the money and laughs. Whether she goes is not resolved here. (She does not go: Ch.40 finds her in her shop. It is her choice, never explained.)
 - Felix with the boat. Valens's figs are not mentioned (the obsession is spent).
 - A quiet image ends the chapter.
 **Progressive structure:**
@@ -1226,7 +1236,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Ledger:** Chronological (internal shape: *aftermath-first*, opens after the roof falls and never shows it falling) · open: flat statement (I) → `I-punch` · end: long fade → `long-fade` · 5,800 · dialogue 15–25% · theme present · 4 breaks · gear low
 **Dateline:** *Pompeii and the river mouth · 24 August, afternoon into night*
 
-**Premise:** Through the afternoon of falling stone the family reaches the river mouth, where the boat cannot come in, and then turns back for the tombs and the door.
+**Premise:** Through the afternoon of falling stone the family reaches the river mouth, where the boat cannot come in, and then turns back for the tombs and the door. (This is the Ch.37 plan's own order: boat in daylight, door at night.)
 **Function in arc:** The backup fails, for real historical reasons (Pliny's choked shore and onshore wind). Felix's fate is left open.
 **Emotional anchor:** pumice stones, light as bread, rattling on roof tiles; the boat unable to come in.
 **Emotional surprise:** Lucius is delighted by stones that float on the water.
@@ -1253,7 +1263,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Dateline:** *The Nuceria Gate tombs · night, 24–25 August, AD 79*
 
 **Premise:** Sheltering through the night in the niche of the tomb with the painted door, among strangers doing the same, the family waits, and Valens winds the watch.
-**Function in arc:** The last held breath before the door. The family's final ordinary closeness.
+**Function in arc:** The held breath before the door. The family close together in the niche, with nothing to do but wait.
 **Emotional anchor:** the watch wound in the tomb's niche by lamplight.
 **Emotional surprise:** a stranger shares figs and complains about his landlord.
 **Opening strategy:** the night in one long sentence: the hiss of falling stone, the lamp, the smell of sulphur and wet wool.
@@ -1261,7 +1271,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 1. Strangers in the neighboring tombs. The fig-sharing man and his landlord grievance.
 2. **NON-NEGOTIABLE.** Valens winds the Seiko. No comment from anyone.
 3. Mrs. Dunphy surfaces (third mutation: Mara is no longer sure it was long division).
-4. Aelia's delight at the falling stones (FLEX: she may call it snow, because Mara once told her about Philadelphia).
+4. Aelia's delight at the falling stones (FLEX: she may call it snow, because Mara once told her about Philadelphia). Lucius gives her the knucklebone to hold so that she will stop grabbing the lamp; she keeps it (the hand-off that Ch.44 depends on).
 5. **NON-NEGOTIABLE.** A hand at the threshold: the painted door is cold in the hot night.
 6. A spoken line ends the chapter, plain and in the present scene.
 **Progressive structure:**
@@ -1289,8 +1299,8 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Key scenes/beats (shards):**
 1. **NON-NEGOTIABLE.** The seam of cold and quiet. Through it: a sodium streetlamp, a chain-link fence, a cicada, the distant whine of a scooter, the smell of diesel and pine. 1998, or near it.
 2. **NON-NEGOTIABLE.** Her hand goes through.
-3. **NON-NEGOTIABLE.** Aelia's hand: plaster. Lucius's: plaster. Valens's: plaster.
-4. The law, understood without anyone stating a rule. The door takes back the one it brought (allowlisted phrase, use 2 of 3, *if used at all*: as a limit, in Mara's present thought, never as a button).
+3. **NON-NEGOTIABLE.** The children's hands and Valens's meet painted plaster where hers met air. Render it **without a parallel triad**: Aelia's palm flat and pressing; Lucius trying once, exactly as told; Valens last, with his shoulder, in a sentence built differently from both.
+4. The law, understood without anyone stating a rule. **The beat must work with no phrase at all;** the plaster under three hands is the discovery. If "the one it brought" appears, it is incidental (allowlisted use 2 of 3): a limit, in Mara's present thought, never load-bearing and never a button.
 5. A ≤7-word last line, as a single-sentence closing paragraph.
 **Progressive structure:**
 - Builds on Ch.41: the door waking.
@@ -1306,14 +1316,14 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Ledger:** Single-scene (internal shape: *one choice, made with the hands*) · open: an object → `narrative` · end: quiet image → `quiet` · 3,000 · dialogue 25–35% · theme present · 0 breaks · gear low
 **Dateline:** *before dawn, 25 August, AD 79*
 
-**Premise:** Valens begs her to go and means it. Mara sends her father's voice, the film and the notebook through the door into 1998, and stays.
+**Premise:** Valens begs her to go and means it. Mara sends her father's voice, the film and the notebook through the door to the other side, and stays. (The narration never asserts the year beyond it. Ch.42's "1998, or near it" is the only stance-safe phrasing; the doors do not deliver to matching dates.)
 **Function in arc:** THE CHOICE, as active agency. The door is a live exit she turns from, by her own hand, in calm.
 **Emotional anchor:** the tape, the film roll and Fenn's notebook going through the door; her hand empty.
 **Emotional surprise:** calm, not anguish, at the moment of choosing.
 **Opening strategy:** an object. The microcassette in the old sock in her hand (9–27 words, so `narrative`).
 **Key scenes/beats:**
 1. **NON-NEGOTIABLE.** Valens begs her through: the children's future is gone, so let *her* have one. He says *love*, once, plainly. It is not a payoff line, and the scene does not pause on it.
-2. **NON-NEGOTIABLE.** Her choice, in actions: the microcassette, the film roll and the notebook with Fenn's tables, one by one, through the seam into 1998. She does not explain.
+2. **NON-NEGOTIABLE.** Her choice, in actions: the microcassette, the film canister and Fenn's 1968 notebook (his tables and her tremor figures in its back pages), with his Zippo and dime, one by one, through the seam to the other side. Fenn's things go home without him. She does not explain.
 3. **NON-NEGOTIABLE.** She keeps the watch on her wrist. She lifts Aelia.
 4. **NON-NEGOTIABLE.** The seam closes, and she watches it close without mending it open.
 5. A quiet image: her empty hand on Aelia's back.
@@ -1324,7 +1334,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Theme presence:** answered by action, never stated. Home is the people she stays beside.
 **Character chaos moments:** none.
 **Subtext layer:** Valens's begging is the most loving thing he says. Her refusal is the most loving thing she does. Neither names it.
-**Shareable moment:** #6 (she throws her father's voice through into 1998 and stays).
+**Shareable moment:** #6 (she throws her father's voice through into her own century and stays).
 **Reading speed:** slowed time; very short sentences.
 **Word count target:** 3,000
 **Writer warnings:** NO speech explaining her choice. NO aphorism. NO "I chose them" thesis line; the actions carry it. The door must be clearly usable, with nothing preventing her. Her calm must not read as numbness or as the all-or-nothing distortion. It is acceptance of a seam.
@@ -1338,9 +1348,9 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Function in arc:** The residue chamber, and the end, in AD 79 with no coda.
 **Emotional anchor:** the knucklebone in Aelia's fist; the road; the light.
 **Emotional surprise:** none designed. The chapter is the residue (foundation §4c).
-**Opening strategy:** a time opener ("By first light…"), so `scene-set`.
+**Opening strategy:** a time opener the detector recognizes, e.g. "By dawn…" (not "By first light…", which does not compute as `scene-set`).
 **Key scenes/beats:**
-1. Walking the road between tombs, out of the city (allowlisted phrase, use 3 of 3, if used).
+1. Walking the road between tombs, out of the city. The re-read works through the road and the place; **the chapter must land with the allowlisted phrase absent.** If used, it is incidental (use 3 of 3).
 2. Valens carrying Lucius; Mara carrying Aelia; the knucklebone; the watch ticking on her wrist.
 3. **NON-NEGOTIABLE.** The surge, rendered as light, heat and then silence in no more than three sentences, with no gore.
 4. **NON-NEGOTIABLE.** The past tense runs up to the last moment and **stops**. The final sentence has ≤7 words, as a single-sentence closing paragraph. It is concrete (a hand, warmth), not a verdict.
@@ -1361,9 +1371,9 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 2. **No orphans.** Every chapter builds back and opens forward. The no-pull chapters (10, 31, 34) open nothing *deliberately*, and the next chapter starts on its own. ✓
 3. **Anchor variety.** Auditory (1, 13, 15, 32, 39), tactile (7, 23, 42), gestural (6, 11, 18, 24, 28, 41), visual (5, 8, 19, 38), verbal (13, 15, 25). No three consecutive anchors share a sense. ✓
 4. **Chaos distribution.**
-   - Mara: teeth 7/20/31; all-or-nothing 1/5/7/9/20/29/33; Dunphy 7/24/41; breaks 6/20/22.
+   - Mara: teeth full 7/20/31, glancing 2/5/15/24 (Ch.24's midwife is the only introduction-by-teeth); all-or-nothing 1/5/7/9/20/29/33; Dunphy 7/24/41; breaks 6 (plot-earned)/20/22 (unearned).
    - Valens: figs 11/20/34; mind-reading 6/11/19/21/28/37; onion 12/22/23/32/41; the mime 29.
-   - Fenn: Phillies 25/26/29/35; automat 25/27/35; rage 26/27.
+   - Fenn: Phillies 25/26/29/35; automat 25/27/35; rage 26 only (a one-off, never a bit).
    - Secondaries each have an own-life scene: Kallia 10, Plautia 16/22, Felix 28, Grata 31. ✓
 5. **Opening diversity.** See the ledger: there are 12 distinct opening moves, and no mechanical sig appears three in a row. ✓
 6. **Breathing room.** Theme RECEDES in Ch.4, 28, 31 and 34. ✓

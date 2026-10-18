@@ -291,3 +291,90 @@ suggested_patches:
     action: "update"
     reason: "WARN-018 — Ch.37 order (door→boat) vs Ch.40 order (boat→door)"
 ```
+
+---
+
+## RESOLUTIONS (patch pass, 2026-10-18)
+
+**By:** book-architect, PATCH MODE (run 2). **Scope:** every CRITICAL and WARNING, all 14 tracker conflicts, and every NOTE that a one-line edit could fix. **Untouched:** STATE.yaml and ENTITY_STATE.yaml (the tracker re-syncs from this list). No chapters were added or removed, and no ledger targets moved, so **Σ stays at 260,300**. Ledger re-verified mechanically after the edits: opening sigs narrative/short-punch/scene-set/dialogue 7 each (15.9%), I-statement 6, long-spiral 6, I-punch 4; endings unchanged; nothing three-running; no adjacent structural approaches (11/10/5/5/5/5/3); no-pull chapters Ch.10, 31, 34 and 44 unchanged. NO FORESHADOWING and NO TICS: no new forward gesture, no new tic, every bible tic line still "none — distinguished by <axis>".
+
+**Files:** F = `foundation.md`, O = `outline.md`, CB = `character-bible.md`, VD = `voice-dna.md`, SC = `tools/style_check.py` (comments only).
+
+### CRITICAL (3/3 resolved)
+| ID | Decision | Files |
+|---|---|---|
+| CRIT-001 (C8) | AD 72 = **ten years** after the 62 quake. Ch.20 and Ch.30 cite no count. Counts the Writer will print are collected in F §10. | F §5, F §10; O Ch.19 |
+| CRIT-002 (C9) | The truth cost **five years** (frame 69 → trial spring 74). Plautia's "twice in three years" is kept, anchored on the 69 divorce (winter 71–72 ≈ 3 years). | F §4 row 23, F §3 Plautia; O Ch.23 |
+| CRIT-003 (C10) | **Marcus b. autumn AD 64**: 7 in the Ch.16 winter (71–72), 9 at the trial (spring 74). The "formal beyond his years" card fits a 9-year-old. | F §3 Plautia, F §10; O Ch.16, Ch.22; CB Plautia + Marcus cards |
+
+### WARNING (26/26 resolved)
+| ID | Decision | Files |
+|---|---|---|
+| WARN-001 (C12) | **Theano speaks to Mara in person.** The formal consultation is male-only, so the god's public answer comes through Valens. Afterwards Theano, off duty, sends for Mara to her own house and says "Pompeii": a widow talking to a woman outside the consultation, not an oracular response. The final version is stated in O Ch.13. **ORCHESTRATOR: update STATE ARCH-4** (its "rather than face to face" flag is stale). | O Ch.13; F §11.4 |
+| WARN-002 (C13) | Ch.27 (AD 76) = **thirty-five years**. CB's "after thirty-four years" and "over thirty-four years" are generalized. | O Ch.27; CB Fenn; F §3 Fenn |
+| WARN-003 (C7) | Ladder step 2 softened: she refuses the arithmetic and keeps hoping for an earlier opening. She no longer "gives up home" or plans to leave Campania. | F §1 |
+| WARN-004 (C5) | Ch.38 anchor = "a thread of cloud on the summit that may only be cloud" (frame 36). The portent is gone. | F §4 row 38; O Ch.38 |
+| WARN-005 (C4) | Ch.7 = **dependent kinswoman**, a free woman under Kallia's guardianship, never property. | F §4 row 7; O Ch.7 |
+| WARN-006 | **How she finds the tomb:** the god's answer carries a second marker ("…where the dead go out of the city, at the door painted on a dead man's house"), and Ch.19 gains a short search beat (Herculaneum Gate road, then the Stabian Gate tombs, then the Nuceria Gate on the next afternoon). Allowlisted phrase count unchanged (Ch.13 ×1, Ch.19 ×1, Ch.44 optional). | O Ch.13, Ch.19; F §11.3; CB at-risk list |
+| WARN-007 | **Valens's source for the suit:** in autumn 70 Plautia's brother's freedman found him at Kirrha harbor and asked him to testify; he refused; the notice went up within the month, so Celer wants a dead witness. Told plainly in Ch.12. | O Ch.12; F §3 Valens |
+| WARN-008 | **Valens's knowledge schedule:** Ch.15, told: from the future, a door brought her, the door home is in Pompeii (not the city's fate). Ch.25, believes, but follows no English, so no date. Ch.30, he follows her to the tomb, so he knows its location. Ch.33, the door question is discussed in Greek in front of him, with no date. Ch.37 brings only what is new: the mountain, the day, the hours, the door's night. Felix knows nothing of the door. | O Ch.15, 25, 30, 33, 37 |
+| WARN-009 | **Fenn's door rhythm reconciled:** he has waited for the Pompeii door since 62. His first two dates for its reopening (71, 73) came from tremors alone and failed (three nights at the tomb each time; FLEX: Mara lived a mile away in 73). After 73 he rebuilt the tables around 79, which he **knows** from school is Pompeii's year: the earth's biggest breath. That is Mara's fig leaf. He learned of the 62 opening from a tavern ghost story three days late (fever in Misenum), which is also how he found the door. | O Ch.25; F §3 Fenn; CB Fenn |
+| WARN-010 | **Notebook and Margaret scheduled.** Ch.25: Mara says "estate sale in Chestnut Hill", he understands his sister is dead and does not ask whose; he refuses the notebook; Mara never says the name to him. Ch.35: he asks for the notebook, reads his own front pages and says "Margaret" first. The "first time" beat is protected. | O Ch.25, Ch.35; CB Mara + Fenn; F §3 Fenn |
+| WARN-011 | **Provenance:** the notebook was in the coat Fenn left at the cave mouth (Ch.27). A shepherd brought it down and the US consulate in Athens forwarded his effects to Margaret. The effects slip is folded in the notebook as a one-line Ch.2 document. The chart never went to Greece. | O Ch.2; F §3 Fenn |
+| WARN-012 | **Tremor notes planted:** Ch.20, the first entry, in the blank back pages of Fenn's notebook, as a private eruption watch with no reckoning; Ch.30, another entry. Ch.36 says "back pages of Fenn's 1968 notebook". Her notes are independent of his tables, which is why their agreement ends the refusal. Also closes the tracker's "which notebook" plan_gap: **one** notebook, Fenn's. | O Ch.20, 30, 36, 43 |
+| WARN-013 | Voice rule narrowed: after Ch.25 she will not put **Fenn's date** in the future tense until Ch.36. Early-door hope (Ch.30) and the Ch.33 debate are allowed. | CB Mara; VD §3 Mara↔Fenn |
+| WARN-014 | Ch.25 = **early spring AD 75**, before Aelia's conception. Lucius ~8 months, in arms. | O Ch.25; F §10 |
+| WARN-015 | Ch.29: Lucius (~2½, on Valens's shoulders) pushes bread at his weeping father's mouth. "Mortified" is cut. | O Ch.29; F §3 Valens |
+| WARN-016 | Openings last **hours, never days**: 62 = part of one night; 79 = the night after the mountain opens until before first light. | O Ch.25; F §9 doors |
+| WARN-017 | **"The one it brought" reconciled with the law:** Fenn thinks of the doors as one door with many mouths ("it" = the system). The phrase therefore states the canonical rule: anyone the doors brought, no one native. The promise holds in Ch.25 and the limit is discovered in Ch.42. New at-risk entry: "one door with many mouths" (max 1). | F §1, §3 antagonists, §4d, §9; O Ch.25; CB Fenn + at-risk; VD §4 |
+| WARN-018 | **Order set by the clock, locked in Ch.37:** stay for the door. Valens's one condition is that the daylight hours after the mountain opens go to the boat (all go by sea if it can, and the door is let go); if the sea refuses, the door at night. Ch.40 follows that order. | O Ch.37, Ch.40; F §11.7 |
+| WARN-019 | Grata's money is for "the day after tomorrow, and stay the month". She does not go (Ch.40); it is her choice, unexplained. | O Ch.38 |
+| WARN-020 | **Frames assigned:** Kallia's lamp (Ch.16), Valens asleep under the fig (Ch.20), Lucius holding newborn Aelia (Ch.26), Fenn with the Zippo on the Cumae road (Ch.27). In Ch.38 frame 36 is followed by rewinding and removing the roll. | O Ch.16, 20, 26, 27, 38; F §4f #2 |
+| WARN-021 | **Ibuprofen:** the last two go to Theano's knees in Ch.13 (a payment, one line). Ch.32 has one optional past-facing line. | O Ch.13, Ch.32; CB Theano |
+| WARN-022 | **Teeth cut from 12 chapters to 7:** full 7/20/31; glancing 2, 5, 15, 24. The Ch.24 midwife is the only introduction-by-teeth. Removed from Ch.1, 4, 8, 19 and 23. | O Ch.1, 4, 8, 19, 23 + checks #4; F §3 Mara; CB Mara |
+| WARN-023 | **Bysios = 2 planned uses:** the Ch.12 bridge and the Ch.13 title. The Ch.11 beat and the Ch.13 opener paraphrase the day, so the cap of 3 holds with a margin. All docs and the SC comments agree. | O Ch.11, Ch.13; F §12; VD §4; SC |
+| WARN-024 | Ch.26 anchor recast as a present fact: "in a language no one else in the street speaks". | O Ch.26; F §4 row 26 |
+| WARN-025 | Ch.42 (the limit, from plaster under three hands) and Ch.44 (the road) are written to **work with the phrases absent**; any use there is incidental. | F §4d, §4f #6, §12; O Ch.42, Ch.44; VD §4 |
+| WARN-026 | **Celer re-dated:** legate on the proconsul's staff until Nero's grant (late 67); out of office at the frame (69); on the restored proconsul's staff by 71–72, which gives him his record-office influence. | F §3 Valens + Celer, §9; O Ch.16; CB Celer |
+
+### NOTE (29/29 addressed; one part of N-23 left by design)
+| ID | Decision | Files |
+|---|---|---|
+| N-01 (C1) | Grata's range is Ch.19–40. | F §3 |
+| N-02 (C2) | The Ch.35 microcassette touch is added (one-line object beat). | O Ch.35 |
+| N-03 (C3) | The mime is on a "street stage". | F §3 Valens |
+| N-04 (C6) | Three breaks: Ch.6 (plot-earned), Ch.20 and Ch.22 (unearned). | F §3 Mara; O checks #4 |
+| N-05 (C11) | "Three" heat scenes; cut-off harmonized to the strictest (none from Ch.35 on). | F §6e, §11.13; VD §5 |
+| N-06 (C14) | "the rumor from Grata's husband". | O Ch.25 |
+| N-07 | Seventeen months (Nov 70 → spring 72). | O Ch.18 |
+| N-08 | Ch.18: the watch is running, set near noon by the shadow. | O Ch.18 |
+| N-09 | Eight frames shot in 1998 (counter reads 9); 28 rationed. | O Ch.3; F §4f #2 |
+| N-10 | The clerk writes her name as Maira, an old Greek name; the "Syrian name" line is cut. | O Ch.7 |
+| N-11 | "At the inn" → Kallia's lodging. Kallia puts Valens across the doorway (pilgrims, Celer's men). | O Ch.13, Ch.14 |
+| N-12 | Theano feeds the crows and shouts at them; the consultations are monthly; the CB sample says "Once a month all summer". | F §3 Theano; O Ch.8; CB Theano |
+| N-13 | Ariston's letter was sent in autumn and sat at Kirrha all winter. | O Ch.10 |
+| N-14 | The summons address came via Plautia (Valens sent word in summer 72). | O Ch.21 |
+| N-15 | Ch.19 coast road takes two days (a night near Neapolis); "hot day" → warm spring afternoon. | O Ch.19; F §4f #4 |
+| N-16 | Aelia rides in a sling at Cumae. | O Ch.27 |
+| N-17 | The news has been in the streets since late June; the early-July posted notice is the trigger. | O Ch.36 |
+| N-18 | Ch.35 premise no longer says "months"; any count is Fenn's (37, nearly 38). | O Ch.35 |
+| N-19 | "happiest hour", "last ordinary day", "final ordinary closeness" and "last frame" relabelled (Ch.34, 38, 41; frame 36 written as an act). | O Ch.34, 38, 41 |
+| N-20 | "into 1998" → "to the other side" / "her own century". Ch.42's "1998, or near it" is the only stance-safe phrasing. | O Ch.43 + shareable; F §4 row 43, §4b #6 |
+| N-21 | Ch.42 plaster beat re-specified without a parallel triad. | O Ch.42 |
+| N-22 | Fenn's rage is a one-off (Ch.26 letter); the Ch.27 repeat is cut. | O Ch.27 + checks #4; F §3 Fenn; CB Fenn |
+| N-23 | Zippo and dime go through the door with the notebook in Ch.43 (packed Ch.38); the paperback stays on the shelf; the knucklebone passes Lucius → Aelia in Ch.41. **Left open by design:** the knucklebone's absence from Ch.4–25 (it resurfaces Ch.26/27/34; no beat needed). | O Ch.38, 41, 43 |
+| N-24 | Temperature sequence: dormant = faintly cool (Ch.19); after the tremor, the same faint coolness and no colder (Ch.30); cooler (Ch.36); cold (Ch.41). | O Ch.30; F §4f #4 |
+| N-25 | Celer contests the arena manumission as unregistered (the "property" basis); the Corinth record proves registration. Felix is a Junian Latin, free enough to swear as *auctoratus*. | F §3 Valens + Felix |
+| N-26 | Ch.20 opener → `narrative` (a 9–27-word italic notice). Short-punch is now 7/44 = 15.9%. Ledger legend: collage documents in italics; Ch.14/40 short first sentence inside a longer paragraph. | O ledger + legend, Ch.20 |
+| N-27 | The god's answer is rendered once in Ch.13 (Valens's repetition; the voice is described, not quoted). | O Ch.13 |
+| N-28 | A single *iudex* (no jury); the sneeze comes from "a man on the benches"; access to Marcus is Celer's private settlement, not a court remedy. | O Ch.22; F §3 Mara + Plautia, §4 row 22 |
+| N-29 | Hooves trimmed by lamplight (no nailed shoes). VD's stale allowlist line updated. | O Ch.24; VD §3b |
+
+### Beyond the audit (found while patching; one-line fixes)
+- **Shape-detector openers:** `tools/shape_check.py` TIME_OPENERS does not match "On the seventh…", "On the nineteenth…" or "By first light…", so three planned `scene-set` openers would have computed wrongly. Ch.13 → "The first consultation day…", Ch.38 → "It was the Vinalia…", Ch.44 → "By dawn…". The detector rules are recorded in the ledger legend. (O)
+- **Tracker plan_gaps closed:** which notebook (one notebook, Fenn's; WARN-012); the map (stays on Emilio's desk, Ch.2); the flash (the K1000 has none, Ch.2/12); when Valens learns the tomb's location (Ch.30); whether Fenn knows 79 (yes, Ch.25); whether Felix knows of the door (no, Ch.37). **Still open (by design):** Mara's eye colour, hair and height are set by Ch.1 on the page.
+- CB cover-the-name test line 4 reworded ("the door was open in sixty-two") so it no longer implies Fenn's tables predicted 62.
+
+### For the orchestrator / entity-tracker
+1. **STATE.yaml ARCH-4:** replace the "speaks through Valens's errand rather than face to face" flag with the O Ch.13 final version (public answer via Valens; Theano names Pompeii to Mara in person, off duty).
+2. **ENTITY_STATE re-sync:** mark C1–C14 resolved per the table above. Update marcus (b. autumn 64), mara-reyes.legal_status, the mara alias ("Maira", not "Syrian name"), pompeii fact (ten years), valens.knowledge (suit: autumn 70 via the brother's freedman; door/Pompeii Ch.15; tomb Ch.30; date Ch.37), august-fenn.knowledge (knows 79; 71/73 dates; 62 via tavern story; Margaret's death via "estate sale" Ch.25), world_rules (the system-"it"; openings last hours), objects (film: 8 shot in 1998 + four named frames; ibuprofen → Theano Ch.13; notebook = Fenn's with tremor notes in its back pages; Zippo/dime through the door; knucklebone hand-off Ch.41), plot_threads.backup-boat (boat first in daylight, door at night).
