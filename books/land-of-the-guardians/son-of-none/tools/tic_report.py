@@ -129,8 +129,9 @@ GESTURE_CLASSES = {
     "lips (pressed / thinned)": r"\b(?:lips|mouth)\s+(?:press\w*|thin\w*|tighten\w*)\b",
     "head shake": r"\bsh(?:ook|akes?|aking)\s+(?:her|his|my|their)\s+head\b",
 }
-GESTURE_BOOK_MAX = 0.30      # per 1,000 words, book-wide
-GESTURE_CHAPTER_MAX = 4      # hits of one class inside a single chapter
+GESTURE_BOOK_MAX = 0.30      # per 1,000 words, book-wide (applies once the manuscript has GESTURE_MIN_WORDS)
+GESTURE_CHAPTER_MAX = 4      # hits of one class inside a single chapter (applies from chapter 1)
+GESTURE_MIN_WORDS = 20000    # the density rule needs a sample; a two-chapter book is judged per chapter only
 
 def gesture_scan(files):
     """Return (rows, flags). rows: (class, total, per1k, worst_chapter, worst_count)."""
@@ -146,7 +147,7 @@ def gesture_scan(files):
         per1k = total / total_words * 1000
         worst_ch, worst = max(per_ch, key=lambda x: x[1])
         rows.append((name, total, per1k, worst_ch, worst))
-        if per1k > GESTURE_BOOK_MAX:
+        if per1k > GESTURE_BOOK_MAX and total_words >= GESTURE_MIN_WORDS:
             flags.append(f"{name}: {total}x book-wide = {per1k:.2f}/1k (> {GESTURE_BOOK_MAX})")
         if worst >= GESTURE_CHAPTER_MAX:
             flags.append(f"{name}: {worst}x in chapter {worst_ch} (>= {GESTURE_CHAPTER_MAX} in one chapter)")
