@@ -60,6 +60,13 @@ independent evaluation. No batching, no "every N chapters". A chapter is not fin
 audit of it against the whole book so far is clean. Phase 4/5/6 (full-manuscript evaluation,
 revision, delivery) follow once every chapter is done — still without pausing.
 
+### The scheduled task (the off switch)
+Scheduled task **"The Hour of Ash — autonomous chapter loop"**, id `trig_01Gj2nSCqQF7NmAs93fwDMHd`,
+fires a fresh session every 2 hours with the standing "continue the loop" prompt. **To stop the
+book:** tell any session "stop", or disable the task (`update_trigger` with `enabled=false`, or in
+the claude.ai scheduled-tasks UI). A session that finishes the book, or that is blocked on an author
+decision, disables/pauses it itself (see STEP 4 of the task prompt).
+
 ### Session handoff — the LOOP LOCK (so two sessions never write the same chapter)
 A scheduled task re-launches the loop in a fresh session on a cadence. Before touching the
 manuscript, a session MUST:
