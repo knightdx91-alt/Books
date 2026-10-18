@@ -47,6 +47,19 @@ Every 10 chapters, additionally: `continuity-guardian` MANUSCRIPT AUDIT on the c
 (CRITICAL findings → book-editor before the next chapter). Phase 4/5/6 (full-manuscript
 evaluation, revision, delivery) follow once every chapter is done — still without pausing.
 
+### Session handoff — the LOOP LOCK (so two sessions never write the same chapter)
+A scheduled task re-launches the loop in a fresh session on a cadence. Before touching the
+manuscript, a session MUST:
+1. `git pull origin main`, then read `feedback/LOOP-LOCK` if it exists. It holds
+   `session=<id> chapter=<N> updated=<UTC ISO>`. If `updated` is **less than 2 hours old**,
+   another session is mid-chapter: do nothing, say so in one line, and end the turn.
+   Older than 2 hours = a dead session; take over.
+2. Write your own LOOP-LOCK (same format) and commit + push it before dispatching the writer.
+3. Refresh `updated=` (commit + push) every time a chapter is finalized.
+4. When the loop stops for any reason (book complete, blocked, author said stop), delete the
+   lock, commit + push, and disable the scheduled task (`update_trigger enabled=false`) if the
+   stop is final.
+
 ## Hard gates (ALL must pass before a chapter is "done")
 - **Genesis Floor ≥ 8.5 and Casual Reader ≥ 8.5** (book-evaluator, independent of the writer).
 - **NO FORESHADOWING** (author ruling 2026-09-28): `tools/style_check.py` runs with
