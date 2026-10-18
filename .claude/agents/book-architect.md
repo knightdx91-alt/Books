@@ -328,6 +328,28 @@ and (e) the chapter-count logic. Then build the outline to match.
 ### Step 4 — sectioning. Do NOT reflexively print "ACT ONE / ACT TWO / ACT THREE."
 Use whatever the chosen structure implies (Parts, movements, dated sections, none at all). Internal scaffolding need not be visible to the reader.
 
+### Step 5 — the ANTI-PREDICTABILITY LEDGER (mandatory; closes the `## Macro-Structure` block)
+Structure is not only the macro shape — it is also the chapter-level reflexes a reader learns to
+predict by chapter six: every chapter opening the same way, every chapter ending on a punch-line,
+every chapter running establish → anomaly → escalate → close with three scene breaks. End the
+`## Macro-Structure` block with a table, ONE ROW PER CHAPTER:
+
+| Ch | Structural approach | Opening move | Ending move | Target words | Dialogue band | Theme |
+
+- **Structural approach** from the 7 types in Outline Quality Check #8 — no type in two consecutive
+  chapters, and no type on more than ~30% of chapters.
+- **Opening move** — e.g. mid-dialogue, mid-action, scene-setting (time/place), an object, a
+  claim/opinion, a question, a document/insert, a list, a long sensory spiral, a flat statement of
+  fact. No move three chapters running; no move on more than ~35% of chapters.
+- **Ending move** — e.g. a spoken line, a short punch, a question, a quiet image, a plain stop
+  mid-scene, a document fragment, an action unfinished, a long fade. Same limits as openings, AND
+  at least two chapters must end with NO pull — they simply stop. "Every chapter ends on a hook"
+  is itself a tell.
+- **Dialogue band** varies by chapter function (a two-hander and an interior chapter must not weigh
+  the same); **Theme** is `present` or `RECEDES` (at least 1–2 recede).
+The Writer is prompted from this ledger, and `tools/shape_check.py` audits the finished
+manuscript against exactly these reflexes — build the ledger so the audit passes by construction.
+
 ### Guard against your own defaults
 If the structure you're about to choose is 3-act with ~20 equal chapters and clean-quarter turns, STOP and re-choose — that is the failure mode this section exists to prevent. Variety must be DRIVEN BY THE STORY, not randomized; but "the story happens to want the exact same shape as the last four books" is not credible. Make the case in the `## Macro-Structure` block or pick differently.
 

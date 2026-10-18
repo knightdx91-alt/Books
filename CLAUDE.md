@@ -166,8 +166,10 @@ differ). Those stay in the book folder, seeded from `books/_template/`. If you i
 
 Books must NOT all converge on ~20 chapters of ~5,000 words in three visible acts with
 turning points on the exact quarter-marks — that uniformity is a machine-made tell. The
-architect **selects a macro-structure per premise** (Section 0.5 of `book-architect.md`).
-Improve that logic at the root so every future book inherits it.
+architect **selects a macro-structure per premise** (Section 0.5 of `book-architect.md`) and
+fills an **Anti-Predictability Ledger** (structural approach / opening move / ending move per
+chapter); `tools/shape_check.py` then audits the finished chapters for the same reflexes every
+~5 chapters. Improve that logic at the root so every future book inherits it.
 
 ## How the pipeline is installed each session
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Consolidated per-chapter gate runner for Pompeii (working title).
+# Consolidated per-chapter gate runner for The Hour of Ash.
 # Usage: bash tools/check_chapter.sh <chapter-number>
 # Runs EVERY gate a finalized chapter must pass, so none is ever skipped:
 #   1. style_check   (too-flowery: simile/em-dash/adverb + cross-chapter n-grams)
@@ -7,7 +7,8 @@
 #   3. rhythm_check  (flat triplets / unsanctioned anaphora)
 #   4. show_tell     (too-descriptive: filter/abstraction; chapter row + book heavies)
 #   5. voice_wear    (per-POV device calcification / retired phrases)
-#   6. word floor    (>= 5000 words)
+#   6. word count    (vs the outline target — NO per-chapter floor; length varies by design)
+#   7. shape audit   (book-wide predictability check, tools/shape_check.py at the repo root)
 # Genesis Floor >= 8.5 (book-evaluator) and the PACING check are judgement gates —
 # this script prints a reminder; they are not mechanical.
 set -uo pipefail
@@ -27,7 +28,8 @@ line "5. VOICE-WEAR";               python3 tools/voice_wear_check.py 2>&1 | gre
 line "5b. METAPHOR/SENTENCE-SHAPE (register: figurative load + long-sentence %)"
 python3 tools/metaphor_check.py 2>&1 | grep -E "wds|^ *${N} " | head -2
 python3 tools/metaphor_check.py "$N" >/dev/null 2>&1 || echo "   ^ over a figurative ceiling (FIG>4.0/1k or LONG>18% of sentences) — split/trim"
-line "6. WORD FLOOR (>=5000)";      wc -w "$CH"
+line "6. WORD COUNT (compare to this chapter's outline target; no per-chapter floor)"; wc -w "$CH"
+line "7. SHAPE AUDIT (book-wide predictability)"; python3 ../../tools/shape_check.py . 2>&1 | grep -E "^\s+\[|RESULT|note:"
 line "JUDGEMENT GATES (not mechanical — do these by hand every chapter)"
 printf '  [ ] Genesis Floor >= 8.5 (book-evaluator, 7 dims) -> evaluations/chapter-%s-eval.md\n' "$N"
 printf '  [ ] PACING check vs neighbors (length band, dialogue share, emotional slot, hook)\n'

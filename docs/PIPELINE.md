@@ -49,6 +49,11 @@ doing anything:
 It states which phase it's resuming at before dispatching anything. A file that exists but
 still holds template placeholders counts as missing.
 
+**Full autonomy.** With `autonomy: full` in `STATE.yaml` the three checkpoints do not pause:
+the orchestrator logs each checkpoint summary to `feedback/progress.md`, decides anything the
+author left open (and records it under `decisions:`), and keeps going — every chapter through
+the whole loop and the quality gate — until the book is done or the author says stop.
+
 This matters because a book is many sessions: the whole reason state lives in files is that
 any later session, on any model, can pick the book up exactly where it was left.
 

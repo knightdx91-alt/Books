@@ -1,236 +1,76 @@
 # CLAUDE.md — The Hour of Ash
 
-Per-book playbook. A fresh Claude Code session should read this first, then continue.
-(Folder renamed from `pompeii` → `the-hour-of-ash` on 2026-07-13 to match the title;
-avoid bare "Pompeii" — Robert Harris owns that.)
+Per-book playbook. A fresh session reads this first, then `STATE.yaml`, then
+`feedback/progress.md`, and continues the loop. (Avoid bare "Pompeii" as a title — Robert
+Harris owns it.)
 
 ## What this is
-A **genesis-from-idea** project: build a NEW long Outlander-style time-slip historical
-romance from the author's story bible (`research/story-bible.md`), using the shared
-book pipeline. There is NO original draft — architect builds foundation + outline +
-voice-dna from the bible, then the chapter loop writes.
+A **genesis-from-bible** project: a long Outlander-style time-slip historical romance built
+from the author's story bible (`research/story-bible.md`) by the shared pipeline. There is no
+author draft — the architect builds the blueprint, the chapter loop writes.
 
-Git identity (so commits show verified):
+**RUN 2 (2026-10-18).** The author retired the first run in full (Ch.1–10 on a v3 outline) and
+restarted from canon. The old blueprint is archived under `research/prior-run-2026-07/` as
+reference only; the old manuscript is in git at `2a8db82`. Do not resurrect either.
+
+Git identity: `git config user.email noreply@anthropic.com && git config user.name Claude`
+
+## ▶ THE AUTONOMOUS LOOP (author's standing instruction — this is how the book gets written)
+
+`STATE.yaml` carries `autonomy: full`. **Nobody pauses to ask.** The loop runs, chapter after
+chapter, until the manuscript is complete or the author says stop:
+
 ```
-git config user.email noreply@anthropic.com
-git config user.name Claude
+for N in 1..total_planned:
+  A  book-writer        → manuscript/chapters/chapter-N.md (+ chapter-N-report.md)
+                           prompted from outline.md INCLUDING the Anti-Predictability Ledger row
+                           (structural approach / opening move / ending move / dialogue band)
+  B  dialogue-polish    → edits in place; evaluations/dialogue-chapter-N.md
+  C  hook-craft         → edits in place; evaluations/hook-chapter-N.md
+                           (respects a ledger row that says "no pull — just stop")
+  D  book-disruptor     → edits in place; evaluations/disruption-chapter-N.md
+  D.5 entity-tracker    → UPDATE every 3 chapters (and after any chapter that adds canon)
+  D.6 shape audit       → every 5 chapters: python3 tools/shape_check.py books/the-hour-of-ash
+  E  mechanical gates   → bash tools/check_chapter.sh N  — ALL clean (style incl. foreshadow 0,
+                           grammar, rhythm, show/tell, voice-wear, metaphor). Fix via book-editor.
+  F  book-evaluator     → evaluations/chapter-N-eval.md (Genesis 7 dims, 20-pattern scan,
+                           5 readers, Tomorrow Test; Discovery Test on Ch.1, Residue on the last)
+  G  quality gate       → PASS only if Genesis Floor ≥ 8.5 AND Casual ≥ 8.5 AND PACING ok AND
+                           gates clean. Else book-editor on the named dimensions → re-run E+F
+                           (max 5 cycles; a chapter below the hard floor never ships).
+  → update character-bible.md (new named character = new entry; TIC BUDGET is a ceiling),
+    STATE.yaml (chapters.completed, scores), feedback/progress.md (one-line pacing verdict),
+    then: git add -A && git commit -m "the-hour-of-ash: finalize chapter N" && git push origin main
 ```
 
-## The pipeline (shared — no install step)
-The 12 `book-*` agents, `/gemini` + `/grok`, and APODICTIC live in the **repo root**
-`.claude/` + `tools/` and are loaded automatically each session (installed by
-`setup-script.sh` at SessionStart). This book uses them directly — nothing to clone or
-copy in. Improvements to the pipeline go to the **root**, per the repo UPDATE RULE; the
-only per-book file is this book's `tools/style_check.py` ALLOWLIST.
+Every 10 chapters, additionally: `continuity-guardian` MANUSCRIPT AUDIT on the chapters so far
+(CRITICAL findings → book-editor before the next chapter). Phase 4/5/6 (full-manuscript
+evaluation, revision, delivery) follow once every chapter is done — still without pausing.
 
-## Project layout (`books/the-hour-of-ash/`)
-```
-books/the-hour-of-ash/
-├── STATE.yaml                 # READ FIRST — project state, word/style gates, canon
-├── research/                  # staged source: story-bible.md + roadmap/etc.
-├── manuscript/chapters/       # chapter-1.md ... chapter-N.md (the book)
-├── evaluations/               # per-chapter eval reports + continuity audits
-├── feedback/progress.md       # exact resume point
-└── tools/style_check.py       # style gate (edit ALLOWLIST for this book's motifs)
-```
-
-## How to continue
-1. `cd books/the-hour-of-ash` and read `STATE.yaml` and `feedback/progress.md`.
-2. `ls manuscript/chapters/` and `git log --oneline` to find the last finalized chapter.
-3. Produce the next chapter IN ORDER. Build from the outline beats — match this book's voice.
-   Run each chapter through: write → dialogue-polish → hook-craft → disruptor → **pacing
-   check** → evaluate → quality gate.
-4. Commit per chapter to `main`: `git add -A && git commit -m "genesis: finalize chapter N"`.
-
-## Quality gates (ALL must pass before a chapter is "done")
-- **Genesis Floor ≥ 8.5** (book-evaluator); below → book-editor polish loop (max 5).
-- **PACING CHECK — required after EVERY chapter.** Before a chapter is finalized, assess its
-  pacing and its pacing *in context of the chapters around it*:
-  - scene-vs-summary balance; does any stretch sag or rush?
-  - dialogue share within the genre band (~30–45%; target ~35%);
-  - the emotional "W" — is this chapter's beat the right high/low for its slot in the arc
-    (see foundation.md CALIBRATION), or are we stacking too many same-energy chapters?
-  - tension/forward pull: does it open with a hook and end with a pull (hook-craft)?
-  - chapter length vs. neighbors — VARIANCE IS BY DESIGN (this book runs 1,600–9,200w after the 2026-07-13 recalibration; see
-    outline.md Macro-Structure). Do NOT enforce "no chapter >2× another." Instead check the
-    length serves the beat: brisk modern frame, swelling immersive Greece/Campania chapters,
-    deliberately collapsing chapters through the ash. Flag only length that fights its beat
-    (a sag in a should-be-taut scene, padding in a punch chapter), not length that carries it.
-  - Log the verdict in `evaluations/` (a one-line pacing note per chapter is fine) and in
-    `feedback/progress.md`. If pacing is off, fix via book-editor/disruptor BEFORE finalizing.
-- **Style check** — `python3 tools/style_check.py` clean: simile ≤4/1k, **em-dash ≤4 per
-  chapter (absolute)**, no NEW cross-chapter repeated phrase (add deliberate motifs to
-  ALLOWLIST), tics under ceiling. Log frequent flags in `feedback/style-flags.md`.
-
-## Word floor
-Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
-`wc -w manuscript/chapters/chapter-*.md`. If short, expand the thinnest chapters.
+## Hard gates (ALL must pass before a chapter is "done")
+- **Genesis Floor ≥ 8.5 and Casual Reader ≥ 8.5** (book-evaluator, independent of the writer).
+- **NO FORESHADOWING** (author ruling 2026-09-28): `tools/style_check.py` runs with
+  `--max-foreshadow 0` by default here; the evaluator checks it too. Full rule in voice-dna.md §0.
+- **Mechanical suite clean**: `bash tools/check_chapter.sh N`.
+- **Anti-predictability**: the chapter matches its ledger row (approach / opening / ending), and
+  `tools/shape_check.py` (repo root) is clean every 5 chapters. A flag on finalized chapters means
+  a signature change on the most recent offender, not a rewrite.
+- **Pacing check** vs neighbours (scene/summary, dialogue band from the ledger, emotional slot,
+  length-serves-the-beat; variance is by design — never flatten it).
+- **Retired reflexes** (STATE.yaml guardrails): no retrospective significance-tagging, no
+  define-by-negation openers, no anaphora triads, no performed-candour tics, no device as a
+  scene-button, no closing aphorisms.
 
 ## Canon guardrails (settled author decisions — never violate)
-- **Comp/tone:** Outlander — sweeping, romantic, immersive, historically grounded "to a point."
-- **AUTHENTICITY DIAL — "best of both" (see STATE.yaml for full text). Apply when drafting the
-  Roman chapters:** SENSORY/TEXTURAL DETAIL cranked to ~8+ (real, specific, period-correct
-  material — carbonized bread, Pliny's black-noon sky, garum, insulae, lamps — the immersion
-  engine AND the marketing hook); HARSHNESS/PACE/COMFORT held at Outlander ~7 (1st-c Rome's
-  slavery/gender-powerlessness/brutality stays real and present but never grinds the romance or
-  pace down — soften edges, escapism wins ties). Authentic-FEELING and still escapist; NOT a
-  purist reconstruction.
-- **Scope:** ONE long standalone (~260k target / 220k floor) running through the eruption + final choice.
-- **History:** Flavian era. Arrive ~70 AD (Vespasian); ~9-year span; **Vesuvius erupts 79 AD under Titus.** NOT Nero (died 68). Keep the political backdrop accurate.
-- **The map:** purports to lead to the lost **Library of Alexandria**; real secret = a door through time. From the estate sale of a vanished self-proclaimed treasure hunter (left notes + coordinates).
-- **Mechanism:** coordinates open a time-door; she lands in **Greece (Delphi)**; the **Oracle** tells her WHERE the door home is (Pompeii) but NOT WHEN; she learns the "when" later.
-- **Greece first:** a lone foreign woman in antiquity can't just travel — real obstacle, not hand-waved.
-- **Love interest:** disgraced **ex-gladiator** accused of an affair with the emperor's wife; they marry + have children over years.
-- **Climax:** family can't pass to the future; **stay vs. leave** as Vesuvius erupts.
-- **Romance heat:** explicit when it occurs but OCCASIONAL/earned (NOT erotica, no per-page quota). ~3-4 on-page scenes across the arc, mapped to the CURRENT 36-ch outline: **first at Ch.12 "The First Night Is a Mistake"** (slow-burn/yearning built through Ch.11), **fuller at Ch.15** (marriage warming), **a late payoff ~Ch.22** (the last unshadowed joy) — **none after the eruption begins**. (The old "Ch.16/18/20" refs were stale 45/48-ch numbering, reconciled 2026-07-13.) See STATE.yaml `resolved_author_decisions` for the exact wording.
-- **magic spelling:** n/a (this is historical, not invented-magic — the only "magic" is the time-door).
+Full text in `STATE.yaml` (`guardrails` + `resolved_author_decisions`). In short: Outlander
+tone; one long standalone (~245k target, 220k floor, never padded); Flavian era, arrive ~70 AD,
+Vesuvius 79 AD under Titus; the map "to the Library of Alexandria" hides a time-door; Greece
+(Delphi) first; the Oracle is the first source of WHERE and withholds WHEN; Fenn (marooned, old)
+gives the WHEN; Mara Reyes / Emilio Reyes / Halloran / Valens "Lupus" / Lucius & Aelia; explicit
+but occasional, earned heat, none after the eruption begins; she STAYS and dies with them — an
+active choice; no modern coda; first-person past, in order, never reaching forward; the
+authenticity dial split (sensory ~8+, harshness ~7).
 
-## Open author decisions (ask, don't invent)
-- Protagonist name + modern era; father OR grandfather as the archaeologist.
-- Ex-gladiator's name + scandal specifics; how she learns WHEN the door opens.
-- Treasure-hunter mystery payoff; final choice outcome (stay or go = the ending).
-
-## Status (update as you go)
-
-> ### ⛔ AUTHOR RULING 2026-09-28 — NO FORESHADOWING (read before drafting/editing anything)
-> The narrator must NOT reach forward to spoil the story. Near-zero, book-wide target 0.
-> BANNED: "I did not know yet that…", "I would learn/come to (too late)…", "it would prove…",
-> "the last time I would…", "the last [X] I would be given", "in the years since [survived X]",
-> "the man who would become…". KEEP past-facing reflection + present-scene dread; the reader's
-> own historical knowledge of Vesuvius carries the tragedy, not narrator hints. The old "≤2
-> retrospective significance-tags/chapter" budget is REVOKED. Full rule: voice-dna.md §0
-> NO-FORESHADOWING RULE + STATE.yaml guardrails. (A de-foreshadow sweep of Ch.1-10 was run
-> 2026-09-28.) **Also note: real resume point is Ch.11, not Ch.9 — the block below is stale;
-> trust STATE.yaml + feedback/progress.md.**
->
-> ### ▶ NEXT SESSION — START HERE: draft Chapter 9 (Movement II)
-> **Ch.1-8 all FINAL, all Floor 8.5 PASS.** Ch.8 "Earning the Yes" (2026-07-14): 7,923w,
-> **Floor 8.5 / Avg 8.61 / Casual 8.7 / CVI-Launch 8.9**. Competence-as-courtship; Mara reads a
-> bishoped horse's teeth to earn a conditional yes; DRUSUS and the legate's townsman agent introduced.
-> **WATCH (carry from Ch.8 eval): (1) hold RETROSPECTIVE SIGNIFICANCE-TAGGING to ≤1/chapter — it is the
-> pipeline's default significance move and breached the ≤2 gate in BOTH Ch.7 and Ch.8 (trimmed both
-> times). Let objects carry the weight. (2) DEFINE-BY-NEGATION crept back to 3 in Ch.8 (was 0 in Ch.7);
-> rationed to 1 — keep watching. (3) actively VARY anaphora triads (break at least one per chapter).**
-> See STATE.yaml + feedback/progress.md for the exact resume point; Ch.9 beats in outline.md Movement II.
->
-> --- prior START HERE (Ch.7, now done) retained below for context ---
-> ### ▶ (done) draft Chapter 7 "The Roman With the Mules" (~8,600w · first real two-hander)
-> **Ch.1-6 all FINAL, all Floor 8.5 PASS.** Ch.6 "Kallia's House" (2026-07-13): 7,532w domestic collage,
-> **Floor 8.5 / Avg 8.64 / Casual 8.7 / Prose 9.0 / Immersion 9.0**. The foothold — learning to PASS.
-> Cover-the-name/tic CLEAN (no device bleed). NEW char MELITA in character-bible.md. Dialogue 18.7%.
->
-> **Ch.7 = the status antagonist + the NO:** Mara hits the wall of having no male guarantor, forges a
-> widow's backstory, hears of the Oracle, and seeks out VALENS (the scarred freed muleteer) to buy
-> passage to the coast. He refuses, coldly. The romance is built on his NO. **THIS IS THE DIALOGUE PEAK
-> — lean hard (~35%+); it is the first real two-hander.** Valens: short level declaratives, works a
-> knot/strap when feeling threatens, understates mortal danger, withholds 'love', kindness always
-> sideways (his bible entry exists — confirm/extend it on his first live scene).
-> **WATCH — now 2+ chapters overdue, FIX IN Ch.7: (1) ration DEFINE-BY-NEGATION to one instance max in
-> Mara's narration. (2) do NOT lean on any character's device as a scene-button (rotate the closers).
-> (3) anaphora at top of range.**
-> **LENGTH POLICY (author, 2026-07-13 — RECALIBRATED):** Ch.5-6 land ~7,500 (complete; do NOT
-> retro-expand — padding = AI filler). The whole immersive band was rescaled DOWN to a UNIFORM
-> 7,800-9,200 so 5/6 don't look short and no density seam opens. **Ch.7 target is now 8,600w** (not
-> 9,800). Write each chapter to its NEW outline target within ~5%. Recalibrated Σ ~245k, +25k over the
-> 220k floor. See STATE.yaml LENGTH POLICY + outline.md Σ BUDGET CHECK.
->
-> --- prior START HERE (Ch.6, now done) retained below for context ---
-> ### ▶ (done) draft Chapter 6 "Kallia's House" (~10,400w · domestic immersive collage)
-> **Movement I is COMPLETE — Ch.1-5 all FINAL, all Floor 8.5 PASS.**
-> **Ch.5 "Greece, 70 AD" is now FINAL** (2026-07-13): 7,451w LONG IMMERSIVE landing, **Genesis Floor
-> 8.5 / Avg 8.64 / Casual 8.5 / Prose 9.0 / Immersion 9.0 / Pacing 8.5**, no dimension <8.5. Closes
-> Movement I; flips mystery -> survival. Mara wakes near Delphi, DATES IT via Nero's stripped bronzes +
-> Vespasian, survives as "a woman who does not exist", Valens passes without helping, handed to Kallia,
-> Fenn journal #2 under the lamp. Dialogue ~0% ruled an EARNED strength (language barrier = the engine).
-> All gates clean (em-dash 0; long-sentence 8.2% after a heavy split pass).
->
-> **Ch.6 = the foothold:** Kallia shelters Mara; the brutal apprenticeship of learning to PASS as a
-> woman who exists; the "lone foreign woman can't just travel" obstacle made concrete; Kallia's lamp/son
-> onstage. SIT in the humiliation of assimilation, do not montage it. **WATCH (from Ch.5 eval): (1)
-> bring DIALOGUE SHARE back up (~30-40%) after two low-dialogue chapters — this is the two-woman
-> domestic chapter, lean in. (2) Ration the define-by-negation cadence (now in Ch.3/4/5) — one strong
-> instance max. (3) Anaphora at top of its range.**
->
-> --- prior START HERE (Ch.5, now done) retained below for context ---
-> ### ▶ (done) draft Chapter 5 "Greece, 70 AD" (~9,800w · LONG IMMERSIVE landing)
->
-> **Ch.5 = the landing:** Mara wakes near Delphi, dates it, survives her first hours as a woman who
-> does not exist; a big scarred man (Valens) walks past without helping; she is handed to Kallia.
-> FLIPS mystery -> survival; establishes the gender/status powerlessness that is the Movement II
-> engine. The long immersive counter-weight to Ch.4's punch — crank the authenticity dial (sensory ~8,
-> harshness ~7). **[INSERT: Fenn journal #2 — "I, too, woke in the wrong year."]**
->
-> --- prior START HERE (Ch.4, now done) retained below for context ---
-> ### ▶ (done) draft Chapter 4 "The Threshold" (~1,800w · SHORT PUNCH)
-> **Ch.3 "Coordinates & the Survey" is now FINAL** (2026-07-11): ~6,700w, **Genesis Floor 8.5 / Avg
-> 8.57 / Casual 8.5**, Prose 9.0, PACING PASS (the mandated tonal TURN — competence-joy under dread —
-> lands; strongest-paced chapter of Movement I). Full pipeline run (writer -> dialogue-polish ->
-> hook-craft -> disruptor -> gates -> book-editor long-sentence trim -> book-evaluator). Seed #4
-> (fieldwork kit ritual, incl. the date in her own hand) planted -> pays Ch.26. Instruments-go-wrong
-> uncanny landed. em-dash 0; long-sentence 22.2% in Ch.1's accepted immersive band. Fixed a Ch.2->Ch.3
-> cadence clone + retired phrase 'never once'. **WATCH: the *click* motif is now in all 3 chapters —
-> WITHHOLD it in Ch.4-5 (it's the Ch.36 payoff instrument).**
->
-> **Ch.4 = the crossing:** half through her retreat off the headland, Mara is pulled across mid-step;
-> the way back is gone. In-medias-res, fast, bodily; the book's first structural SHOCK — a chapter that
-> stops almost before it starts. The collapse from ~6,700w to ~1,800w IS the structural signal; keep it
-> taut. Then Ch.5 (Greece 70 AD, ~9,800w LONG landing) flips mystery -> survival.
->
-> --- prior START HERE (Ch.3, now done) retained below for context ---
-> ### ▶ (done) draft Chapter 3 "Coordinates & the Survey" (~7,000w)
-> **Ch.2 "Too Accurate to Be Fake" is now REDRAFT FINAL** (2026-07-11): dialogue two-hander, 4,776w,
-> **Genesis Floor 8.5 PASS** (Avg 8.64, Casual 8.5, Prose 9.0). Antique dealer Verrall / vanished
-> hunter August Fenn's estate ledger; Fenn marginalia insert #1 landed; "Fenn vanished at 34 = Mara's
-> age" spent as the pull. Gates clean (em-dash 0). PACING WATCH: Movement I now has two consecutive
-> melancholy chapters — **Ch.3-5 must introduce wonder/brightening before the crossing.**
->
-> Blueprint COMPLETE (foundation.md + outline.md [36 ch v2] + voice-dna.md, now incl. §7 Outlander
-> comp calibration), all author decisions resolved (see STATE.yaml). **Cadence: ONE chapter at a
-> time, then the author reviews** before the next.
->
-> **2026-07-11 RESTART (author Terry):** the prior Ch.1 & Ch.2 drafts were DELETED and the book
-> restarted from Ch.1 (old drafts recoverable in git history). Ch.2 must be REDRAFTED.
->
-> **Done & committed:**
-> - Ch.1 "The Drawer" — REDRAFT FINAL, 5,066w, **Genesis Floor 8.5 PASS** (Avg 8.64, Casual 8.5).
->   Single-location grief chapter; stuck drawer + glasses *click*, unkept "next season" promise,
->   bread opinion, completionism, the map + A. Fenn's note, Halloran/permit, fieldwork kit, trade-card
->   pull to Ch.2. Written to voice-DNA §7. em-dash 0. (Rev 1 lifted Characters 8.0→8.5.)
->
-> **MANDATORY chapter loop (author Terry, EVERY chapter — no skipping):**
-> book-writer → **dialogue-polish → hook-craft → disruptor** (all three, every time) →
-> **update `character-bible.md`** if the chapter introduced a new named character (distinctness
-> signature + DISTINCTNESS GUARANTEE; obey the TIC BUDGET — ≤2–3 tic-bearers total = Fenn + Kallia;
-> no second character borrows the narrator's catalogue/condition device) →
-> mechanical gates (style_check + grammar_check + voice_wear_check clean; em-dash ≤4) →
-> **independent book-evaluator Genesis Score (Floor ≥8.5 + PACING)** → book-editor polish loop if
-> any dimension <8.5 → re-evaluate → commit + push to main + update ALL trackers per chapter.
-> Optional extra on load-bearing chapters (openers/crossing/midpoint/climax): beta-reader panel.
->
-> **STRUCTURE ADOPTED (2026-07-06): v2 — 36 chapters, 5 Movements, slow-burn-to-eruption,
-> VARIED chapter length 1,600-12,000w (Sigma 273k).** See outline.md Macro-Structure. Old 45-ch
-> outline archived as outline-v1-45ch.md.bak. Chapter length is a structural signal now — do NOT
-> flatten it (pacing gate updated to allow the variance).
->
-> **STANDING NOTE for Ch.3 "Coordinates & the Survey" (v2 = old Ch.3+4 FUSED; target ~7,000w):**
-> the outline's original Ch.3 anchor ("Fenn exactly her age") was spent as Ch.2's final line.
-> **Re-anchor Ch.3 on the fieldwork kit-ritual** (loading the 35mm film camera, the wristwatch,
-> the father's dig slides — re-read seed #4, load-bearing for the climax) and let the spent
-> photo's dread COLOR the note-reading. v2 Ch.3 now runs decode notes/coordinates → isolation/
-> fieldwork → travel to the site → survey the threshold (the crossing itself is the SHORT-PUNCH
-> Ch.4, ~1,800w). Match the Ch.1/Ch.2 voice exactly.
->
-> **Resume:** `cd book/genesis/pompeii`; read STATE.yaml + feedback/progress.md + the Ch.2 eval;
-> reread chapter-1.md & chapter-2.md for voice; then write chapter-3.md.
-
---- history ---
-- Scaffolded; bible staged as canon; all decisions resolved; architect built the 45-ch blueprint.
-- v2 re-architecture: 36 ch, 5 Movements, slow-burn-to-eruption, varied length.
-- 2026-07-11: voice-DNA §7 Outlander comp calibration added; RESTART — deleted prior Ch.1/2;
-  Ch.1 redrafted & finalized (Floor 8.5). Standing policy: full self-pass chain + evaluator every ch.
-
-## Other books in this repo (cross-project awareness)
-> **MONOREPO (2026):** all books now live side-by-side under `books/<slug>/` on `main` — NOT the old
-> one-repo-per-branch / `book/genesis/<slug>` model. There are no per-book branches; everything commits
-> to `main` (repo WORKFLOW LAW). To work on another book, just `cd books/<other-slug>/` — the shared
-> pipeline in the repo root serves all of them. Run `ls books/` for the current list.
+## Status
+See `STATE.yaml` `phase.status` and `feedback/progress.md` — those are the live resume point.
+This file is the protocol, not the log.

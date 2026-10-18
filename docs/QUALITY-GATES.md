@@ -160,6 +160,23 @@ self-repetition per POV** (no configuration; it finds phrases a POV repeats acro
 chapters), and optional **named-device caps** per character. Multi-POV books get a
 `feedback/pov-map.txt` (`chapter-N: Name` per line); single-POV books can skip it.
 
+### `shape_check.py` — the predictability audit (shared, book-agnostic)
+
+```bash
+python3 tools/shape_check.py books/<slug>            # every ~5 chapters, from the repo root
+python3 tools/shape_check.py books/<slug> --strict   # Phase 4: exit 1 on any flag
+```
+
+No per-chapter gate can see the loudest machine tell, which lives *between* chapters: every
+chapter the same length, opening the same way, closing on a punch-line, with the same number
+of scene breaks and the same dialogue share. This script measures the shape of every chapter
+and flags uniformity (`LEN-CLUSTER`, `OPEN-RUN`, `END-RUN`, `PUNCH-REFLEX`, `DIALOGUE-FLAT`,
+`BREAKS-SAME`, `RHYTHM-FLAT`, …). It is the mechanical counterpart of the architect's
+Anti-Predictability Ledger (book-architect §0.5 Step 5): the ledger plans the variety, the
+Writer is prompted from it, and this script proves the manuscript actually kept it. A flag
+on finalized chapters means revising the most recent offender's opening or closing — a
+signature change, not a rewrite.
+
 ### Other per-book checkers
 
 Books that needed them grew them; copy any into a book with the same problem:

@@ -54,19 +54,11 @@ FORESHADOW_RE = [re.compile(p, re.I) for p in FORESHADOW_PATTERNS]
 # Deliberate recurring motifs / canon terminology — NOT accidental reuse.
 # Repeated phrases that contain any of these are ignored by the n-gram check.
 ALLOWLIST = [
-    # Add THIS book's deliberate recurring motifs / canon terms here.
+    # Add THIS book's deliberate recurring motifs / canon terms here (capped registry: a bare
+    # "phrase" is capped at 3 uses book-wide; ("phrase", N) raises the cap — keep overrides rare).
+    # Run 2 (2026-10-18): reset to canon only; the v4 voice-dna §4 motif list is added after the
+    # architect pass, and the Writer adds a motif the moment it is planted.
     "the one it brought",
-    "the dead don't leave",
-    "the bread starter",
-    "his reading glasses",
-    "next season",
-    "the map is honest",          # Fenn marginalia insert #1 (Ch.2); canonical door-law refrain
-    "whether there was anything in it",  # Verrall's thematic refrain (Ch.2 spine + pull payoff)
-    "nothing to me either way",   # Valens's signature lie (Ch.7); deliberately echoed/thrown back (Ch.8)
-    "he'll not be the last",       # Valens's Ch.8 warning, deliberately recalled in Ch.9 after the ambush
-    "keep nothing you can carry",  # MASTER re-read seed #1 (Ch.10 Oracle); spirals within-ch and pays across the book
-    "a mountain by the roman sea", # WHERE-CHAIN canon (Fenn's rough where, Ch.6/7); repeated by design at the Oracle TP
-    "who comes asking if you don't arrive",  # the Amphissa wagoner's cruelty (Ch.7), Valens deliberately quotes it back (Ch.10)
 ]
 
 # n-gram repetition settings

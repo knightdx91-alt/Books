@@ -62,6 +62,16 @@ Do NOT use slash-command syntax (`/agent-name`). Do NOT invent names. If you can
 
 Everything between checkpoints runs AUTOMATICALLY.
 
+### FULL AUTONOMY MODE (no checkpoints)
+
+If `STATE.yaml` carries `autonomy: full`, or the dispatch prompt says FULL AUTONOMY, the three
+checkpoints do **not** pause. At each one, write the summary you would have shown the user into
+`{path}/feedback/progress.md` under a heading `## CHECKPOINT n — auto-passed <date>`, make the
+call yourself (the author's settled decisions in STATE.yaml are binding; anything they left open
+you decide and LOG under `decisions:`), and continue straight into the next phase. The run keeps
+going — chapter after chapter, each one through the full loop and the quality gate — until the
+manuscript is complete or the author says stop. Never ask "shall I continue?" in this mode.
+
 ## THE PIPELINE
 
 ```
@@ -336,7 +346,7 @@ For EACH chapter (1 through N), in order, run Steps A–G to completion before s
 Dispatch: book-writer
 Prompt: "Write chapter {N} of '{title}'.
 Project dir: {path}
-Read: {path}/outline.md for this chapter's plan (emotional anchor: {anchor}, emotional surprise: {surprise}, structural approach: {approach}).
+Read: {path}/outline.md for this chapter's plan (emotional anchor: {anchor}, emotional surprise: {surprise}, structural approach: {approach}, opening move: {open_move}, ending move: {end_move} — from the outline's Anti-Predictability Ledger).
 Read: {path}/voice-dna.md for voice specs. FOLLOW THEM.
 Read: {path}/character-bible.md for the cast's voice cards + the TIC BUDGET. Any NEW named
 character who speaks or acts on the page gets an entry ADDED there before you finalize — and the
@@ -397,6 +407,15 @@ Project dir: {path}
 Read the new chapters since meta.last_updated_chapter: chapters {range}.
 Update {path}/ENTITY_STATE.yaml incrementally — new facts, knowledge gained (with learned_chapter + source), location/status changes, new objects/threads. NEVER overwrite a contradiction silently — log contradictions. Set meta.last_updated_chapter. Append to {path}/evaluations/entity-changelog.md"
 ```
+
+**Step D.6 — Shape audit (every 5 chapters, bash, no agent):**
+Run `python3 tools/shape_check.py {path}` from the repo root. It measures the SHAPE of every
+chapter so far (length, opening move, ending move, scene-break count, dialogue share, sentence
+rhythm) and flags uniformity — the "every chapter is the same chapter" tell no per-chapter
+evaluator can see. If it flags: (a) put the flagged signature into the next chapters' Writer
+prompts as a thing to avoid, and (b) if the run sits on finalized chapters, dispatch
+`book-editor` on the most recent offender (opening/closing paragraphs only — a signature
+change, not a rewrite). Run it once more in Phase 4 on the whole manuscript, `--strict`.
 
 **Step E — Mechanical Preprocess (bash, no agent):**
 Run directly with the Bash tool against `chapter-{N}.md`:
