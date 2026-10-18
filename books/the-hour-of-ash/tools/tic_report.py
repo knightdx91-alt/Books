@@ -32,6 +32,11 @@ MOTIFS = [
     # defect, not a motif — see the AUTO-RECURRENCE report below.
     r"the one it brought",
 ]
+# World terms / proper names that legitimately recur (place names, titles, institutions). NOT
+# motifs and NOT tics — exempt from the recurrence gate. Keep to nouns the story cannot avoid.
+WORLD_TERMS = [
+    "the oracle", "the pythia", "the library of alexandria", "the temple of apollo",
+]
 
 def strip_comments(t): return re.sub(r"<!--.*?-->", "", t, flags=re.S)
 
@@ -130,7 +135,7 @@ def main():
     # ---- AUTO-RECURRENCE (tic candidates) — always book-wide ----------------
     allfiles = sorted(glob.glob("manuscript/chapters/chapter-*.md"),
                       key=lambda p: int(re.search(r"(\d+)", Path(p).name).group(1)))
-    allow = [re.sub(r"\\b|\(\?:|[()\\|?]", "", m).strip() for m in MOTIFS]
+    allow = [re.sub(r"\\b|\(\?:|[()\\|?]", "", m).strip() for m in MOTIFS] + [w.lower() for w in WORLD_TERMS]
     prose_hits, speech_hits, where = recurrence_scan(allfiles, allow)
     print("\nAUTO-RECURRENCE — tic candidates (tic budget = 0; allowlisted motifs exempt):")
     bad = 0
