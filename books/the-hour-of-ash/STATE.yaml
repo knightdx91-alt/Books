@@ -27,6 +27,14 @@ adaptation:
 # only when it fully passes, move to the next chapter -> keep going until the author says stop.
 # No checkpoint pauses (book-orchestrator FULL AUTONOMY MODE). Commit + push each finished chapter.
 autonomy: full
+# REVIEW CHECKPOINTS (author, 2026-10-19): the loop STOPS after every 5th finalized chapter
+# (5, 10, 15, ...) and waits for the author to evaluate. At a checkpoint the session writes
+# feedback/review-chN-M.md (scores, shape audit, tic/gesture stats, open contradictions, what to
+# read), sets awaiting_author_review: true, commits, pushes, and ENDS. No session — this one or
+# a scheduled one — starts the next chapter while awaiting_author_review is true. The author
+# clears it by saying "continue" (the session sets it back to false).
+review_checkpoint_every: 5
+awaiting_author_review: false
 # DRIFT POLICY (author, 2026-10-18): "a full run after each chapter so there is no drift" —
 # entity-tracker UPDATE + continuity-guardian audit (new chapter vs ALL prior) + voice-wear +
 # shape audit run after EVERY chapter, before the evaluator; never batched.

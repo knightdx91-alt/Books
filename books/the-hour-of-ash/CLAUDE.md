@@ -54,6 +54,15 @@ for N in 1..total_planned:
     then: git add -A && git commit -m "the-hour-of-ash: finalize chapter N" && git push origin main
 ```
 
+**Review checkpoints (author, 2026-10-19): STOP after every 5th chapter.** When chapter 5, 10, 15 …
+is finalized and committed, the loop does NOT start the next chapter. Instead: write
+`feedback/review-ch<N-4>-<N>.md` for the author (per-chapter scores and polish cycles, the strict
+shape audit table, the tic/gesture gate summary, open contradictions in ENTITY_STATE, the at-risk
+list growth, and the three things most worth reading), set `awaiting_author_review: true` in
+STATE.yaml, delete LOOP-LOCK, commit, push, and end the turn with a short report. The scheduled task
+sees the flag and stands down. The author's "continue" (in any session) sets the flag back to
+false and the loop resumes at chapter N+1.
+
 **Drift policy (author, 2026-10-18): the FULL run happens after EVERY chapter** — entity
 update, continuity audit against all prior chapters, voice-wear, shape audit, and the
 independent evaluation. No batching, no "every N chapters". A chapter is not final until the
