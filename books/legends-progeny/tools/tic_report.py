@@ -37,6 +37,14 @@ MOTIFS = [
 WORLD_TERMS = [
     # e.g. "the citadel", "the high council" — nouns the story cannot avoid; NOT motifs, NOT tics.
 ]
+# The narrator's professional reflex: the phrases by which THIS book's narrator files everything she
+# sees under her own expertise (a lab, a seminar, a trade). Book-specific; leave empty if none. The gate
+# caps them per chapter (CREDENTIAL_MAX, narration only): it is characterization at a low rate and a
+# device at a high one.
+CREDENTIAL_PATTERNS = [
+]
+CREDENTIAL_MAX = 4
+
 
 def strip_comments(t): return re.sub(r"<!--.*?-->", "", t, flags=re.S)
 
@@ -193,6 +201,37 @@ def prop_scan(files):
                     break
     return flags
 
+# ---- RHYTHM & VOICE REFLEXES (narration only; quoted speech and italic documents excluded) --------
+# AND-CHAINS: sentences with 4+ "and"s. One designed held sentence per chapter is a device; a dozen is
+# the narrator's default rhythm. Cap: max(AND_CHAIN_MIN_CAP, chapter words / AND_CHAIN_WORDS_PER).
+AND_CHAIN_MIN_CAP = 9
+AND_CHAIN_WORDS_PER = 900
+
+def _narration(text):
+    text = re.sub(r"[\u201c\"][^\u201d\"]*[\u201d\"]", " ", text)         # quoted speech
+    text = re.sub(r"(?m)^\*[^*\n].*\*\s*$", " ", text)                       # whole italic paragraphs (documents)
+    text = re.sub(r"(?m)^#.*$", " ", text)
+    return text
+
+def reflex_scan(files):
+    rows, flags = [], []
+    creds = [re.compile(p, re.I) for p in CREDENTIAL_PATTERNS]
+    for f in files:
+        ch = Path(f).stem.split("-")[-1]
+        t = strip_comments(Path(f).read_text())
+        words = len(re.findall(r"[A-Za-z'\u2019\-]+", t))
+        nar = _narration(t)
+        sents = re.split(r"(?<=[.!?])\s+", re.sub(r"\s+", " ", nar))
+        chains = sum(1 for s in sents if len(re.findall(r"\band\b", s, re.I)) >= 4)
+        cap = max(AND_CHAIN_MIN_CAP, round(words / AND_CHAIN_WORDS_PER))
+        cred = sum(len(rx.findall(nar)) for rx in creds)
+        rows.append((ch, chains, cap, cred))
+        if chains > cap:
+            flags.append(f"and-chains: {chains} sentences with 4+ 'and' in chapter {ch} (cap {cap}) — the narrator's default rhythm; split or recast")
+        if creds and cred > CREDENTIAL_MAX:
+            flags.append(f"credential asides: {cred} in chapter {ch} (cap {CREDENTIAL_MAX}) — the narrator filing the world under her expertise")
+    return rows, flags
+
 def gesture_scan(files):
     """Return (rows, flags). rows: (class, total, per1k, worst_chapter, worst_count)."""
     texts = [(Path(f).stem.split("-")[-1], strip_comments(Path(f).read_text())) for f in files]
@@ -326,6 +365,11 @@ def main():
     # ---- GESTURE / ACTION-BEAT recurrence (stage business repeated with varied wording) -------------
     grows, gflags = gesture_scan(allfiles)
     gflags += prop_scan(allfiles)
+    rrows, rflags = reflex_scan(allfiles)
+    print("\nRHYTHM & VOICE REFLEXES (narration only):")
+    for ch, chains, cap, cred in rrows:
+        print(f"  ch {ch:>3}: and-chains {chains:>3} (cap {cap})   credential asides {cred:>3}" + (f" (cap {CREDENTIAL_MAX})" if CREDENTIAL_PATTERNS else ""))
+    gflags += rflags
     print("\nGESTURE BEATS — stage business by class (book-wide; a repeated gesture is a tic):")
     for name, total, per1k, wch, worst in grows[:16]:
         mark = "  <-- FLAG" if any(f.startswith(name + ":") for f in gflags) else ""

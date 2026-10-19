@@ -195,6 +195,12 @@ actions and idioms ("put money on it", unpacking a bag) do not fire it; the eval
 judges the business the regex cannot classify. Extend `GESTURE_CLASSES` in the book's
 copy when a new piece of business starts to recur.
 
+A third layer, **RHYTHM & VOICE REFLEXES**, counts narration only (speech and italic documents
+excluded): **AND-CHAINS**, sentences with four or more "and"s, capped at max(9, words ÷ 900) per chapter
+(one designed held sentence is a device; a dozen is the narrator's default rhythm — Hazel Academy ran 2–8
+early and drifted to 20–26 late), and **CREDENTIAL ASIDES**, the book-specific phrases by which a narrator
+files the world under her own expertise (`CREDENTIAL_PATTERNS` in the book's copy; capped at 4 per chapter).
+
 A second layer, **PROP FIDGET**, follows a single object through a scene — including "it" and "them"
 back to the prop named last — and fails when it is fidgeted with (turned, set down, picked up, taken
 off, put back, held in the fingers or the mouth) 3+ times within 400 words. That is the exact shape of
