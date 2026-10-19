@@ -902,3 +902,65 @@ No knowledge_gap. Valens's 'You've stopped talking' has a path (her silence at t
   - The status rests on a wax entry in Delphi's council book, rewritten yearly, with no copy issued.
   - She is 'free', and 'Maira, daughter of Aimilios, of Syrakousai' is her name on paper.
   - The fifth coin is owed but SPENT as a scene.
+
+## 2026-10-19: UPDATE (re-sync of Ch.7 after polish cycle 1 + finalize fixes F1-F3)
+
+Re-sync of ENTITY_STATE.yaml to chapter-7.md as it stands (last written 17:25:38; revision log `evaluations/revision-chapter-7-cycle1.md`; F1-F3 from `evaluations/chapter-7-eval.md`). `last_updated_chapter` stays 7. chapter-8.md was not read or recorded.
+
+### Numbering
+- 194 -> **195** paragraphs; still 3 breaks (after p58, p128, p182).
+- The only structural change is a **new p184**, the storeroom address scene. The editor's log calls it ¶378 because it numbers by file line.
+- Old p1..p183 keep their numbers; old p184..p194 = new p185..p195.
+- Remapped: 68 explicit `ch-07:pYY` cites (including the range p186-p194 -> p187-p195) and 8 bare Ch.7 p-refs.
+- Every quoted fragment on a Ch.7 line was then checked against the file.
+
+### Removed (cut from the page)
+- The bath laugh (p54).
+- The queue laughing "at something Kallia had said" (p170), on three rows: Mara's splinter trait, the boundary-wall father, and the bath woman's trait.
+- Kallia "the only woman in the room on her feet" (p44).
+- "before I had thought about it" (p183, the Mera alias).
+- "of their own accord" (p183).
+- The old summary's "I gave up English even with myself" and its one-clause address.
+
+### Moved p183 -> p184
+- The zip code.
+- The himation's late smell ("had stopped smelling of quince").
+- Sleeping under the himation.
+
+### Added
+- **maras-apartment**:
+  - the street door
+  - a vestibule with the mailboxes, hers with "my name inked on a bit of tape"
+  - the stairs and "the second landing"
+  - the address form: number, street, apartment, "Philadelphia, P-A", and a zip code whose first two figures are 1 and 9
+  - the floor is not stated (at or above the second landing, inferred)
+  - whether this is the Larchwood building is not stated
+- **Mara's knowledge**:
+  - her address as prior knowledge
+  - the address failing after "P-A" and coming back on the remembered walk (discovered)
+  - a knowledge_index row: nobody else knows
+- **Mara's Ch.7 location row**: the storeroom night, with a `remembered_walk` field.
+- **philadelphia**: the counters (the dry cleaner's, the circulation desk) and p1's zip-code clerk.
+- **kallias-house** storeroom at night (the hanging oregano, a Theban snoring along the gallery), plus the lodgers' row.
+- The timeline row and a timeline_events entry.
+- The cost trait, rewritten from the page.
+
+### Continuity commitment (recorded)
+- New Mara trait `CONTINUITY COMMITMENT`, and a new thread `maras-english-to-herself`, status open.
+- From ch-07:p184 ("from the next night I kept even my own company in Greek"), Mara speaks **no English to herself**, aloud or under her breath.
+- English to a listener is not a break (for example Fenn, outline Ch.25).
+- Earlier English to herself (ch-04:p79) comes before the commitment.
+- The "falls back on English" trait gets a `ch7_note`, and maras-greek-refusal gets a cross-reference.
+- Check point for continuity-guardian, not judged here: outline Ch.26 has her read Fenn's letters aloud to her newborn.
+
+### Contradictions
+- CH7-1..CH7-8 were already RESOLVED and stay RESOLVED. The cycle text does not reopen any of them.
+- No new contradiction and no knowledge_gap.
+- Nothing else is settled by the page: no Ch.7-opened object or thread changes status.
+- Older cite gaps filled:
+  - CH7-2 "at the bottom" = p187
+  - the shovel's "the god's rock" +p4
+  - "The god's women. Dionysos's." p190
+  - the timeline's "till the thaw" +p144
+- Audit trail: `meta.revalidation_needed` (chapter 7, RESOLVED), the header comment and `paragraph_rule`.
+- The YAML parses with `yaml.safe_load`.
