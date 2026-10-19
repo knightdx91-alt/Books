@@ -61,7 +61,7 @@ The street ended high in the town at a long low building with a stable at one en
 
 The drums had started at the front, out of my sight. There were two at first, then four: round frames of hide struck with the palm. Under them a pipe climbed and fell on two notes and never seemed to stop for breath. At the front a woman carried fire in a pot. The women approached it by turns, and the light passed from torch to torch toward us. Kallia held hers to the woman ahead and came away with it burning; Nikaso lit hers from Kallia's, I lit mine from Nikaso's, and the pine caught.
 
-The path took the cliff in its switchbacks, as it had in November. That time I had climbed it in the dark behind the gray; now I had a torch in my fist, and the women ahead of me took the turns at a pace I would have called reckless on a stepladder, singing. The rock gave the drums back, so that every beat arrived twice. Above me the torches folded back on themselves at each turn. Below me the town shrank to a smudge of smoke with a few sparks in it, and after that I watched the rock.
+The path took the cliff in its switchbacks, as it had in November. That time I had climbed it in the dark behind the gray; now I had a torch in my fist, and the women ahead of me took the turns at a pace I would have called reckless on a stepladder, singing. Every drumbeat arrived twice, once from the drum and once off the rock. Above me the torches folded back on themselves at each turn. Below me the town shrank to a smudge of smoke with a few sparks in it, and after that I watched the rock.
 
 Ahead of me a tall woman wore a fawnskin knotted over her cloak at one shoulder, dappled side out, and its little black hooves knocked together at her hip as she climbed. It had been tawed with the fat still on the belly, and the hide there had gone stiff as card and was splitting where the ribs had been. Half the women near me carried a stalk of giant fennel instead of a torch, with ivy wound down it and a pine cone jammed on the end, and they leaned on them on the steep parts, which I suspected was not the intention.
 
@@ -83,7 +83,7 @@ Near the front an old woman had a winnowing basket riding on her head, a broad s
 
 Kallia climbed past both of us with the wineskin slung across her back on a cord, and her stride never altered for the ice.
 
-"Snow caught the women up here once, when my mother was a girl," Nikaso said behind her. "They sent men up in the morning to fetch them, and the men's cloaks froze so hard on the way that they broke in two when anybody tried to unfold them."
+"Snow caught the women up here once, when my mother was a girl," Nikaso said behind her. "They sent men up in the morning to fetch them, and the men's cloaks froze so hard on the climb that they broke in two when anybody tried to unfold them."
 
 "Is it true that in Syracuse the women go to the baths with the men?" said Nikaso, on the next turn, with no breath to spare for it.
 
@@ -107,7 +107,7 @@ Behind us the woman who had offered to singe my legs at the bath hauled herself 
 
 "He comes to whoever's awake," Sostrata told Timo, a good deal lower.
 
-The plain lay gray under the stars, with the black line of the firs along its far side. A mule had taken most of a morning to bring me from here to the cave. Now the drums set the pace, and the women crossed the snow at something between a march and a run, torches leaning back, breath going up white into the light. Before we arrived I had guessed where we were going. Below the pen at the foot of the firs lay a stretch of level ground, swept bare by the wind and ringed with rocks. Philista went to the largest rock, and the old woman knelt and lodged her basket on top of it.
+The plain lay gray under the stars, with the black line of the firs along its far side. The drums set the pace, and the women crossed the snow at something between a march and a run, torches leaning back, breath going up white into the light. Before we arrived I had guessed where we were going. Below the pen at the foot of the firs lay a stretch of level ground, swept bare by the wind and ringed with rocks. Philista went to the largest rock, and the old woman knelt and lodged her basket on top of it.
 
 Everybody who could had carried wood up on her back. I had one of Kallia's bundles, split oak, roped in a sling across my shoulders, and the whole length of the cliff I had wanted to be rid of it. The women piled it in the middle of the ring, with much argument about how it should go. A girl brought the fire up from the pot and blew on it, and the oak caught slowly, and then with a roar.
 
@@ -151,7 +151,7 @@ Every December two brothers from Vermont sold Christmas trees from the corner lo
 
 My feet went with the drum as well as they could, and my arms did whatever they liked. The women circling the fire circled me as they circled each other, and none of them looked to see whether I was doing it right; when the cry went up I cried out with the rest, a word I had met in Euripides and never had cause to say out loud, and my mouth made it Delphian.
 
-When the oak had gone to coals, the women came by twos and threes to put new pine to them. I lit mine with theirs, took a second off the pile as some of the others did, and headed out between the rocks beyond the ring, where women had been slipping off into the night all evening in pairs to squat in the snow and coming back hitching up their skirts. Nobody watched them go, and no one watched me. Kallia was in the middle of the ring with her back to me and her gray hair swinging, and Nikaso had the skin.
+When the oak had gone to coals, the women came in little knots to put new pine to them. I lit mine with theirs, took a second off the pile as some of the others did, and headed out between the rocks beyond the ring, where women had been slipping off into the night all evening in pairs to squat in the snow and coming back hitching up their skirts. Nobody watched them go, and no one watched me. Kallia was in the middle of the ring with her back to me and her gray hair swinging, and Nikaso had the skin.
 
 Beyond the pen the firs began, and the drums went behind me into the trees like a party through the wall of the next apartment. Under the firs the snow was deeper and softer, and there was no wind in it at all. My torch lit the trunks nearest me, red on one side; every other trunk was black. The path the mules had taken lay buried under the snow, and I climbed by the slope of the ground and the dark gap overhead where the trees thinned. The climb went on and on. My breath was loud in my ears and the rags on my boots were heavy with snow, and twice I had to stop and knock it off against a root.
 
@@ -385,7 +385,7 @@ It went quiet in the pen. Timo's mouth stayed a little open. A woman behind Nika
 
 Kallia was no help. She had supplied dead people and a boat that got in ahead of the winter, but no husband, and she did not add one now.
 
-They were all looking at me, and in the light of the last fennel I could not tell which way it was going to go.
+They were all looking at me, and in the light of the last fennel there was no telling which way it was going to go.
 
 "Well," Sostrata said, "she can have the loan of ours." And she began to sing.
 
