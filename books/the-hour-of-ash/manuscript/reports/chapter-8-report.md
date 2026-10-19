@@ -1,0 +1,73 @@
+# Writer Report: Chapter 8 — "The Thyiades"
+
+- **Word count:** 7,993 prose words (shape_check; `wc -w` 8,121 including the header and comments). Target 8,200, range 7,500–8,800. In range, under target by ~200. That is deliberate: the shortfall came from cutting narration to bring the dialogue band up and to clear 173 cross-chapter echoes, not from a missing beat. Every planned beat is on the page, and I didn't pad.
+- **Ledger row (binding), as delivered:**
+  - Single-scene, structured by the rite's own order: gathering → procession → ascent → waking the child → dance → (the cave) → storm → the stair shut → the pen → the release ("Say what you like") → song → heap → dawn.
+  - 0 scene breaks. Time moves inside continuous narration.
+  - Open `dialogue`: the first paragraph is Kallia mid-instruction, three sentences, about what not to say on the mountain.
+  - End `quiet`: last sentence 22 words, inside a 4-sentence paragraph.
+  - Dialogue **26.2%** (band 25–35). Median sentence **15** (gear mid; the Ch.1/Ch.6 drift to 11 was avoided). And-chains **4** (cap 9). Em-dashes 2. Simile 3.0/1k; figurative load 3.5/1k.
+  - Hook: dialogue / in medias res, not VOICE. Pull: a quiet image, not QUESTION PLANT.
+- **Gates (run from /home/user/Books):**
+  - `check_chapter.sh 8`: style, grammar, rhythm, show/tell, voice-wear (strict) and the tic gate (0 phrases, 0 gestures in Ch.8) are all clean.
+  - `tic_report.py --echoes 8`: **0 echoes**.
+  - `shape_check.py --strict`: **SHAPE CLEAN**.
+- **Emotional anchor:** hit. The last paragraph, at first light: "All down the length of the wall the women lay heaped together asleep, and the steam rose off them into the cold." (¶240). The steam is set up by small domestic steam earlier: the sandals steaming, Kallia's rags steaming in her hands.
+- **Emotional surprise:** the rite becomes a farce about wet sandals: Nikaso's borrowed red pair, fifty-nine sandals and a stone, Timo in two right sandals, the frozen cloak that stands up by itself. Mara belongs there, not at the cave. Her repair of a shrunk sandal is the first useful thing she does for strangers. Her joke finishing the husband verse is the first laugh she shares *with* others.
+- **Engineered "stop" sentence (cave peak):** "I left my hand in there until I had been fair to it." (¶79)
+- **Beat subversion:** nothing supernatural happens. The crack is "a crack like any other". There is no scream: "This time I hit nothing, and there was nobody to laugh." The night's real event is social. Nikaso's deflation answers the cave ("It's a cave … It's always open.", ¶231), and a stranger's cloak answers the night.
+- **Chaos moments:**
+  - **Mara's irrelevant memory:** the Vermont brothers' Christmas-tree lot and oil drum at Twenty-second and Pine (¶69). It ends on an act, with no kicker.
+  - **Mara's wrong reaction at the cave:** annoyance that "Nikaso would be drinking my share" instead of grief (¶81).
+  - **Women's chaos** (the outline wanted theirs to carry the chapter):
+    - Nikaso: catastrophizing over the sandals, from ¶33; "She'll have my eyes … with a spoon" (¶160).
+    - Sostrata: her mother-in-law and the dough (¶98, ¶216).
+    - Timo: the husband who promised a hot stone; the whispered fear of his mother.
+    - Philista: the grudge against Athens, "An Athenian's" (¶145), "They can keep him" (¶200).
+    - The stranger: the woman who "lost the end of her nose".
+    - Theano: the crows (¶26).
+- **Impulse deviations (kept):**
+  - Kallia knows where Mara went ("In there." / "Was it shut?", ¶93). This turns the Oracle mention from exposition into Kallia's answer.
+  - The stranger is the woman whose feet Mara stared at through her silent month. Mara recognizes her by the mended strap, never the face. The stranger takes Mara's wrist at the same spring where the Ch.7 drover grabbed it; the inversion is left unremarked.
+  - The shovel scratches Mara left in November are "the only new thing in the cave" (¶78). It is a conservator's quiet shame at having marked a site.
+  - Mara can't sing, so she *speaks* her line into the tune. This protects Ch.29, where she refuses to sing.
+- **Impulse deviations (cut):**
+  - "I understood that this was a test." It stated the subtext.
+  - A sentence comparing the cave's single cold with the heap's forty-woman heat. It explained the theme.
+  - "It was not beautiful. It was…" A define-by-negation opener.
+  - "Stamp." / "I stamped." The spent command-echoed-as-compliance move.
+  - A "So we…" opener and a "So this was…" opener.
+  - Background laughs at the dance, and "teeth" for both Nikaso and Sostrata.
+- **Ugly sentence:** "The climb went on and on." (¶73, the quiet climb through the firs to the cave).
+- **Outline deviations:**
+  1. **Names.** The outline's "Thyiades women" are now named: Nikaso (the sandal worrier, already Kallia's sieve neighbor from Ch.5), Sostrata (the Ch.7 bath's baker's wife, now the bawdy singer), Timo (the bride who asks about husbands) and Philista (the drum leader). Two reasons. The voices needed anchors. And the tic gate fails any role label repeated 3+ times book-wide ("the drum woman", "said the bride", "the baker's wife"), so the recurring women had to be named. **The woman who pulls Mara into the heap stays unnamed by design.**
+  2. **"On the descent, Kallia mentions the Oracle."** This happens on the attempted descent, the walk to the cliff head before the stair is found shut (¶93–¶103). The chapter's ending had to stay the dawn heap, so the morning's real descent is off the page.
+  3. **Kallia's opening rule** (nothing about men, "not husbands and not sons") is set up so that Philista's release ("The rest of the night's ours. Say what you like.") and the husband song break it. Kallia, a widow, gets no verse: "that was as near as anyone in the pen came that night to keeping Kallia's rule". "Not sons" is left unexplained, which keeps Ch.10's reveal intact.
+  4. **Valens's name.** The brief says Mara "does not yet know Valens's name". ENTITY_STATE says otherwise: she learned it in Ch.6 ¶48 ("Not in my court, Valens"), and Ch.7's narration uses it. So the one glimpse (¶28) names him through the mule: "It was the gray, so it was Valens". There is no line, no face and no romance signal. If the brief meant he does not know *hers*, nothing here contradicts that.
+- **Canon checks:**
+  - Midwinter falls a few days after the turn of the year.
+  - No watch, so the cave visit is untimed ("The climb went on and on").
+  - The flashlight stays in the bag under the stair, because forty torches would know a light that isn't fire.
+  - Rags over the boots, which she keeps on and covered in the pen.
+  - The girl's brown himation, which freezes and cracks: Plutarch's detail, used once as a dry aside.
+  - Kallia goes and dances. No men past the last house: they stop there, and Philista says "No man comes up here".
+  - One skin to three women, stated by Nikaso.
+  - She doesn't carry a jar on her head ("An empty jar would not stay on mine").
+  - Not used: "simple", the broom, public mockery, teeth, English.
+  - Credential asides: detector 0; manual 2 (Euripides, Plutarch).
+  - Banned moves: no "So I…", no "before I had decided", no echoed command. "The one / the only" appears twice in narration. No negation pivot. No "He meant". No failing voice. No laughs except the song moment.
+- **Structural approach used:** Single-scene, structured by the ritual's own order. This differs from Ch.7's essayistic structure.
+- **Secondary characters' own moments:**
+  - Kallia dances with her hair down, lies down in the heap, and gives one silent non-answer ("Have you asked him anything? The god?").
+  - Nikaso drinks the whole skin "as long as I could".
+  - Sostrata stands her frozen cloak up on its hem.
+  - Timo whispers her fear of the mother-in-law.
+  - Philista's man "went off to the Athenians".
+  - The stranger complains about the cold.
+  - The crying mother: "She'll have them in her bed with the dog."
+- **Character bible updated:**
+  - New cards for NIKASO, SOSTRATA, PHILISTA and TIMO (tic: none).
+  - Ch.8 blocks for MARA, VALENS, KALLIA and THEANO.
+  - A Ch.8 walk-on note (the unnamed stranger, the basket bearer, the stair women) with its spent list.
+  - The planned-roles table row, an at-risk-after-Ch.8 block, and a change-log entry.
+  - ENTITY_STATE was not touched.
