@@ -578,6 +578,15 @@ meta:
       flag: "RESOLVED"
       resolved_from_conflict: true
       resolved_date: "2026-10-19"
+    - id: CH6-9
+      chapter: 6
+      severity: info
+      entity: "character-bible.md Valens card (Ch.6 body facts and spent list) vs the Ch.6 page after polish cycle 1"
+      plan: "character-bible.md#valens, Ch.6 block (synced 'after … polish cycle 1'): 'When he leans on the gray's shoulder, \"she had to brace a foot under his weight; his hands were older than the rest of him\"'; spent list: '\"his hands were older than the rest of him\"'. The cycle report (revision-chapter-6-cycle1.md fix #6) gives the same sentence"
+      prose: "'He leaned on her shoulder, and she had to brace a foot under his weight.' (ch-06:p44). The clause about his hands is not on the page"
+      line: "ch-06:p44"
+      note: "found in the Ch.7 run while re-anchoring Ch.6. chapter-6.md (last written 15:45:34) was edited after the cycle report (15:39), and the clause went. The bible's body fact and spent-list entry quote text that is no longer published. Ch.7 adds no Valens body facts (boots only), so nothing downstream depends on it yet. Recorded, not judged."
+      flag: "UNRESOLVED"
     - id: CH7-1
       chapter: 7
       severity: low
@@ -1148,7 +1157,7 @@ characters:
     first_appearance: { chapter: 6, source: "ch-06:p5", note: "first line on the page: '\"Your fingers are white,\" Valens said.' (p5, the cave, present). In story order Mara first meets him in the backfill, bringing a string of mules loaded with split oak up Kallia's lane (p36). His name reaches her from Kallia, 'Not in my court, Valens' (p48). 'Lupus' is not on the page. The Ch.9 notice describes him (plan)" }
     physical:
       age: { value: 32, at_chapter: 6, birth_year: 38, era: "AD", note: "'about 32 in AD 70'; ~41 at the eruption. NOT stated on the page in Ch.6", source: "foundation:§3; foundation:§10" }
-      build: { value: "big, unhurried", source: "foundation:§3", ch6_page: "big hands: 'His thumb covered the crown entirely, and the rest of his hand closed round the case'; the Seiko's band 'would not go halfway' round his wrist", ch6_source: "ch-06:p131; ch-06:p142", ch6_cycle1: "added in Ch.6 polish cycle 1 (fix #6): 'He leaned on her shoulder, and she had to brace a foot under his weight; his hands were older than the rest of him.' Size and wear, read by Mara; his age is still not stated", ch6_cycle1_source: "ch-06:p44" }
+      build: { value: "big, unhurried", source: "foundation:§3", ch6_page: "big hands: 'His thumb covered the crown entirely, and the rest of his hand closed round the case'; the Seiko's band 'would not go halfway' round his wrist", ch6_source: "ch-06:p131; ch-06:p142", ch6_cycle1: "after Ch.6 polish cycle 1 the page reads 'He leaned on her shoulder, and she had to brace a foot under his weight.' His size, shown through the mule. The cycle report's second clause, 'his hands were older than the rest of him', is NOT on the page (cut after the report; CH6-9). His age is still not stated", ch6_cycle1_source: "ch-06:p44" }
       distinguishing:
         - { value: "scarred (people stop asking where the scars came from)", source: "foundation:§3", ch6_page: "ON THE PAGE: 'A scar the length of my finger ran over the back of his right hand. Whoever closed it had been in a hurry and set the stitches too far apart, and it had healed in a ladder, every rung raised and white.' (Mara's eye; no origin given)", ch6_source: "ch-06:p42" }
         - { value: "flogged back (from the 69 frame)", source: "foundation:§3; outline:ch-23" }
