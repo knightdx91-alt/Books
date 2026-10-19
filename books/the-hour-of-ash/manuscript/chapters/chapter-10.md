@@ -1,7 +1,7 @@
 # Chapter 10: Kallia's Letter
 
 <!-- SCENE BUDGET (Target 2,800; range 2,500-3,100): the letter at the gate; the Elean turned away 550 | the hours it rode in her belt 200 | opened; the formula; the war and the arm 400 | the wife: "Is she Greek?" / "Can she weave?" 450 | the child, the roof, the land, Emesa 400 | the greetings by name; nothing for the house 350 | the name on the page; Nikaso; the reply she will not send 450 | the afternoon sweep; Ariston's room; out 250 | Mara alone in the kitchen, the afternoon going on 150 -->
-<!-- Word count: 2,447 (shape_check) | FINAL 2026-10-19 after continuity repair, polish cycle 1 and the PATH fix | Target: 2,800 (range 2,500-3,100; no per-chapter floor) | Dialogue 40.46% (990/2,447; band 30-40) | Breaks 0 | Median sentence 15 (gear mid) | Echoes 0 | Anchor: the broom, still lying across the empty room's threshold when Kallia goes out -->
+<!-- Word count: 2,446 (shape_check) | FINAL 2026-10-19 after continuity repair, polish cycle 1 and the PATH fix | Target: 2,800 (range 2,500-3,100; no per-chapter floor) | Dialogue 40.47% (990/2,446; band 30-40) | Breaks 0 | Median sentence 15 (gear mid) | Echoes 0 | Anchor: the broom, still lying across the empty room's threshold when Kallia goes out -->
 
 The letter had been folded down very small. It came to the gate just after noon, held out between two fingers by a pilgrim from Elis, a young man with a peeling scalp who had been sick on the boat from Aigion and wanted it known. One end of it had stood in wet somewhere and dried with a brown tidemark across it. The thread round its middle was knotted under a thumb of gray clay.
 
