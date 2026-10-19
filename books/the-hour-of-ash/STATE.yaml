@@ -143,6 +143,6 @@ decisions:
   - "AUTHOR-CP2-1 (2026-10-19, checkpoint 2): Ch.11 Valens's Yard is a FULL two-hander with Valens (away from the gray mule as his frame), and the plot moves from there."
   - "AUTHOR-CP2-3 (2026-10-19): kneeling / crouching / squatting is LIMITED like every other gesture class (author: 'Nothing repetitive that makes it seem like AI'). Gated in tic_report.py; finished chapters trimmed to fit."
   - "AUTHOR-CP2-4 (2026-10-19): keep the Ch.10 line as revised: 'Kallia corrected none of it. The Greek was his, from beginning to end.'"
-  - "AUTHOR-CP2-2 (2026-10-19): the Philadelphia memory inserts are PENDING the author's decision after an explanation; the loop stays paused until it is given."
+  - "AUTHOR-CP2-2 (2026-10-19): stand-alone memory inserts break immersion (author: 'Wouldn't those memories break immersion? Vary them as well as trimming the ones already there'). Rule: every memory is triggered by something in the scene and goes back into it; no stand-alone memory paragraphs; at most one longer memory every other chapter; never the same shape twice running; never closes on a lost name. The five existing drop-ins (Ch.6 Larchwood + snow tires, Ch.8 tree lot, Ch.9 hardware store, Ch.10 Van Pelt) are cut or folded into their scenes. Pipeline specs changed at the root."
   - "ARCH-13: heat scenes at Ch.15 (first union), Ch.23 (after the Rome trial), Ch.34 (Surrentum); none from Ch.39 on. No-pull chapters: Ch.10, Ch.31, Ch.34, Ch.44."
 revision_cycles: 0
