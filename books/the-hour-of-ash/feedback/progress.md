@@ -19,7 +19,7 @@ What was done:
   mode + Step D.6 shape audit, docs updated.
 
 ## Resume point
-**LOOP RUNNING — resume at Ch.10 "Kallia's Letter" (2026-10-19). Ch.9 FINAL. Checkpoint 2 after Ch.10.** Checkpoint 1 reviewed; the
+**PAUSED AT REVIEW CHECKPOINT 2 — Ch.1–10 FINAL (2026-10-19).** `awaiting_author_review: true`. The author's bundle is `feedback/review-ch6-10.md` (four decisions at the bottom) with the independent read in `feedback/independent-review-ch6-10.md`. On "continue", clear the flag and resume at **Ch.11 "Valens's Yard"**. Ch.11 briefs: a full two-hander with Valens away from the gray mule; NO bending beats (class at 0.28/1k vs 0.30); NO Philadelphia memory insert (cap: one every other chapter); no "So" opener; the hook must not be SENSORY (Ch.10). Checkpoint 1 reviewed; the
 author said "Make the fixes then continue". The independent-read fixes are in (Ch.2 asides; Ch.3
 trimmed to 5,628; Ch.5 to 7,858 with the town-Greek clause) and Ch.3/Ch.5 re-evaluated PASS. Next
 checkpoint after Ch.10 (`feedback/review-ch6-10.md`). Hook/pull types used so far: Ch.1 CONTRAST /
@@ -32,6 +32,7 @@ list in character-bible.md; `--echoes N` on every fresh draft; Kallia's hands ar
 handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Chapter log
+- **Ch.10 "Kallia's Letter"** — 2,446w · Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 9.3 / Emotion 9.0 · 2 polish cycles + a continuity repair (1 CRIT / 9 WARN) · the letter; "Ariston's room, at the three obols"; plain stop · full chain in STATE.yaml history.
 - **Ch.9 "The Polygonal Wall"** — 5,763w · Floor 8.5 / Avg 8.64 / Casual 9.0 / CVI-L 9.1 / Emotion 9.0 · 2 polish cycles (Prose: narrator moves; then a bending cluster the first cycle made) + a continuity repair (1 CRIT / 11 WARN) · the notice; Valens reads it in silence · full chain in STATE.yaml history.
 - **Ch.8 "The Thyiades"** — ~7,470w · Floor 8.5 / Avg 8.64 / Casual 9.0 / CVI-L 9.8 / Emotion 9.0 · 1 polish cycle (Prose: eleven narrator recurrences) + a continuity repair (20 WARN) · the rite, the shut cave, the heap · full chain in STATE.yaml history.
 - **Ch.7 "The Laws of Belonging"** — 6,122w · Floor 8.5 / Avg 8.64 / Casual 8.5 / CVI-L 9.3 / Emotion 9.0 · 1 polish cycle (Prose: narrator moves) + a continuity repair (2 CRIT / 20 WARN) · the registration as Kallia's free kinswoman · full chain in STATE.yaml history.
@@ -55,6 +56,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
   13 audit warnings all fixed · full chain in STATE.yaml history.
 
 ## Pacing log
+- Ch.10 (FINAL): PASS — 2,446w (target 2,800; no per-chapter floor) · dialogue 40% (30–40 ✓) · 0 breaks · gear mid (median 15) · slow, held, one room; the plain stop is plain.
 - Ch.9 (FINAL): PASS — 5,763w (target 6,400; no per-chapter floor; do not pad) · dialogue 28% (25–35 ✓) · 5 breaks · gear mid (median 15) · documents brisk, mending slow, the square sudden, as planned.
 - Ch.8 (FINAL): PASS — ~7,470w (target 8,200; no per-chapter floor; book projects ~246k vs 245k target, so no padding) · dialogue 28% (25–35 ✓) · 0 breaks · gear mid (median 15) · rite fast, cave slow, heap very slow as planned · forward pull (the Oracle's price) at ~60% by design.
 - Ch.7 (FINAL): PASS — 6,122w (target 6,600, in range) · dialogue 22% (20–30 ✓) · 3 breaks · gear high (median 17) · essayistic without lecture: every claim paid off in a scene; the cost now shown (storeroom) not summarised · relief lands on the step.
@@ -67,6 +69,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Shape audits
 (every chapter: `python3 tools/shape_check.py books/the-hour-of-ash` from the repo root)
+- after Ch.10 (--strict): CLEAN. Ch.10 `short-punch` / `quiet`; 0 breaks; dialogue 40%; median 15. Ten chapters: lengths 1,821–7,843, dialogue 6–40%, no signature used more than three times.
 - after Ch.9 (--strict): CLEAN. Ch.9 `narrative` / `punch`; 5 breaks; dialogue 28%; median 15.
 - after Ch.8 (--strict): CLEAN. Ch.8 `dialogue` / `quiet`; 0 breaks; dialogue 28%; median 15.
 - after Ch.7 (--strict): CLEAN. Ch.7 `narrative` / `question`; 6,122w; dialogue 22%; 3 breaks; median 17.
