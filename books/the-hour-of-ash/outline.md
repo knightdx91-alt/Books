@@ -302,7 +302,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Key scenes/beats:**
 1. Claim → evidence: the bathhouse women's hours; the public latrine; Kallia's fierce lessons in how to walk, sit and not meet a man's eyes.
 2. **NON-NEGOTIABLE.** A magistrate's clerk enters Mara as Kallia's dependent kinswoman, a free woman under Kallia's guardianship (never property; Ch.16 and Ch.18 depend on it). The "Syracuse" accent excuse: Sicilian Greek would sound odd here too. She keeps her name; the clerk writes it as Maira, an old Greek name, and does not ask.
-3. Language: her Erasmian pronunciation versus living Koine, the comedy and the shame. She refuses to speak for a month (all-or-nothing).
+3. Language: her Erasmian pronunciation versus living Koine, the comedy and the shame. She already speaks Greek when she must (Valens, the charcoal burner, Ch.6) and has been silent only with Kallia; now, after the market laughs at her, she goes silent *in public* for a month and speaks only inside Kallia's house (all-or-nothing). (Patched 2026-10-19, continuity W-17: Ch.6 already shows her speaking.)
 4. Kallia's son's room: swept every morning, the broom laid across its threshold. No explanation.
 5. Personal turn: what belonging cost, and Mrs. Dunphy crying at her desk, uninvited and irrelevant.
 **Progressive structure:**
@@ -310,7 +310,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 - Adds: legal status, Kallia's own life, and the cost of passing.
 - Opens toward Ch.8: Kallia says the women go up the mountain at midwinter.
 **Theme presence:** home as belonging-to versus belonging-with.
-**Character chaos moments:** teeth (her mastic-stick toothbrush, and her horror at burnt-horn tooth powder). Mrs. Dunphy (green cardigan). All-or-nothing (the month of silence).
+**Character chaos moments:** teeth (her mastic-stick toothbrush, and her horror at burnt-horn tooth powder). Mrs. Dunphy (green cardigan). All-or-nothing (the month of public silence; she talks only indoors).
 **Subtext layer:** Kallia's lessons look like etiquette. Underneath, she is teaching Mara how not to be killed.
 **Shareable moment:** —
 **Reading speed:** argument passages brisk; scenes slow; the Dunphy memory a sudden drop in pace.
