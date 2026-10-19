@@ -118,31 +118,41 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   longer hers: they are Nikaso's story on the stair (Plutarch, *De primo frigido* 953D, behind it, unnamed). Unprompted
   memory: the Vermont brothers' Christmas-tree lot at Twenty-second and Pine and its oil drum (spent). Her pay "turned up
   in a bank downtown every other Friday" (no intersection on the page).
-- **Ch.9 as written (Writer, 2026-10-19; Delphi, late winter AD 71; every quote below is on the page, checked by
-  script):** the commitment holds: no English anywhere, aloud or alone. **The decision to consult is shown, not told to
-  Kallia:** she climbs the Sacred Way "to find a priest" and composes the question in Greek on the gymnasium lane ("*Where is
-  the way back?*" too short; "*Where is the door I came in by, now it is shut?*" nearer), tried "in a murmur with the Delphian
-  vowels, and again with the book's"; "Whether I believed in Apollo was beside the point. He was the one office in Phocis that
-  took questions about doors, and the cave had been shut to me twice." Public identity: the slave calls her "Kallia's
-  Syracusan"; to "Where does a woman learn bronze?": "In Syracuse," … "which was where I was from, now." Her Greek stays
-  uncontracted ("If you heat it," … "the bowl will come off." / "That it runs long before bronze does," / "Then it will break
-  again where it broke before," … "and in no new place, and the next mender will have nothing to undo but wax." / "It is not a
-  smith's work. That is why it will hold." / "It holds. It is the seam I am taking out." / "I can join it again." / "With this
-  in it? Years. If nobody knocks it over." / "I have nothing until he pays me." / "It is a curse." / "Onto it. From above.").
+- **Ch.9 as written (Writer, 2026-10-19; Delphi, late winter AD 71. SYNCED to the final page 2026-10-19, after
+  dialogue-polish, disruptor, continuity repair, polish cycle 1 and the bending fix with finalize lines F1–F4; every quote below
+  is on the page, checked by script):** the commitment holds: no English anywhere, aloud or alone. **The decision to consult is
+  shown, not told to Kallia:** she climbs the Sacred Way "to find a priest" and composes the question in Greek on the gymnasium
+  lane ("*Where is the way back?*" too short; "*Where is the door I came in by, now it is shut?*" nearer): "I tried it over in a
+  murmur, and it sounded like somebody patting her pockets for a key. Whether I believed in Apollo was beside the point. He kept
+  the one window in Phocis that took questions about doors, and the cave had been shut to me twice." Public identity: the slave
+  calls her "Kallia's Syracusan"; to "Where does a woman learn bronze?": "In Syracuse," … "which was where I was from, now."
+  Her Greek stays uncontracted ("So that nobody can say she bought herself." / "And if he sells her before then? To some man in
+  Amphissa who has never—", cut off by the cutter, the chapter's one em-dash / "If you heat it," … "the bowl will come off." /
+  "That it runs long before bronze does," / "No forge," / "The rod takes the weight. The wax is only for the eye." / "It will
+  come apart along the same line," … "and in no new place, and the next mender will have nothing to undo but wax." / "It is not a
+  smith's work. That is why it will last." / "Tell them it is for the god." / "It holds. It is the seam I am taking out." / "I
+  can join it again." / "With this in it? Years. If nobody knocks it over." / "I have nothing until he pays me." / "It is a
+  curse." / "Onto it. From above." / "The man, I suppose."). To Kallia the god's price is one line, not a list: "He says a stater
+  for the god," … "and a goat that shakes, and more after that."
   **Craft, as hands at work (no report form):** spots the old lead solder ringing the bowl and the gas cavities at the break;
-  refuses fire; rakes the burnt clay core out with a bent nail, files the smith's rod to fit ("It was too fat, and I filed it,
-  and it was still too fat.", the chapter's ugly sentence), seats the halves on it; fills with the bee-man's wax and lamp soot,
-  then with Valens's pitch melted in; **digs the fill out three times** (the wax "shone" as "a thin gold thread" in low sun; a
-  thumbprint "the whorls raised in the fill" and a soot smear; a smooth band on a bronze "skin like an orange's"), cutting her
-  thumb at the base on the third; the fourth fill is pricked with bristles so the soot sits in the holes: "I had lost it myself."
-  **All-or-nothing as a wager:** "If you find it, pay me nothing. If you cannot, pay me the smith's price." **Wrong reaction at
-  the peak:** the priest drops the coins on her palm and wipes his fingers; "He had not touched it. Perhaps it was the soot." /
-  "Thank you," … "and bent my head to him as well." Memory/noise: the red crayon on a schoolroom radiator (a smell inside a
-  sentence, no person); the hardware store off Fortieth Street with a cat on the counter scale, its name gone. Money: the
-  priest's coins knotted "into a rag with the two brass ones from 1998, the poet and the other"; she owes Valens an obol and
-  is holding it ("I had his obol in the rag with the rest. I stayed where I was."). At the notice (pressure level 1): asides
-  die; "I read it through again. The rag had gone damp in my fist." / "I was looking at him. I looked at his face." Knowledge
-  asides by credential: 0. Teeth: none.
+  refuses the forge; rakes the burnt clay core out with a bent nail, files the smith's rod to fit ("It was too fat, and I filed
+  it, and it was still too fat.", the chapter's ugly sentence), seats the halves on it; fills with the bee-man's wax and lamp
+  soot, then with Valens's pitch melted in. **The fill comes out three times, on uneven rungs:** the first dig-out is implied
+  ("On the second try"), after the wax "shone" as "a thin gold thread" in low sun; the second is the bee-man's "Out it comes,"
+  after a thumbprint, "the whorls raised in the fill"; the third follows the line seen sighting along the sun on a bronze "skin
+  like an orange's", "and my fill was smooth", and goes "too fast": the knife "laid my thumb open at the base. I sucked it until
+  it stopped." The fourth fill is pricked with bristles: "I had lost it myself." **The dawn try is lost to the house:** "Kallia
+  wanted the jars filled before she lit her fire, and I was at the lions with the first of them; the stand would have to go to
+  the priest as it stood." **All-or-nothing as a wager:** "If you find it, pay me nothing. If you cannot, pay me the smith's
+  price." **Wrong reaction at the peak:** the priest drops the coins on her palm and wipes his fingers; "He had not touched it.
+  Perhaps it was the soot." / "Thank you," … "and bent my head to him as well." **Body rebel (the book's first of its kind):** in
+  Kallia's basin "the cut in my thumb came open in the water and put a thread of red into the black. I cleaned round it. It went
+  on coloring the basin for a while, fainter each time my hands went in, and then the water stayed black." Memory/noise: the red
+  crayon on a schoolroom radiator (a smell inside a sentence, no person); the hardware store off Fortieth Street with a cat on the
+  counter scale, its name gone. Money: the priest's coins knotted "into a rag with the two brass ones from 1998, the poet and the
+  other"; she owes Valens an obol and is holding it ("I had his obol in the rag. I kept my place."). At the notice (pressure
+  level 1): asides die; "I read it through again. The rag had gone damp in my fist." / "I was looking at him. I looked at his
+  face." Knowledge asides by credential: 0. Teeth: none.
 - **DISTINCTNESS GUARANTEE:** the only voice in the book that sees how a thing was made and where it was
   mended, against Valens, who sees where a thing or a man will move next.
 - **Sample line:** "Somebody's glued this before, look, there's an old line under the new one, and
@@ -296,21 +306,28 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   gray. **Escalated by the Ch.8 eval (Cross-Book #4):** this is his second chapter as a glimpse; the Ch.9 writer prompt
   should give him one spoken exchange with Mara (no romance signal in narration; the fifth coin is SPENT).
 
-- **Ch.9 as written (Writer, 2026-10-19; the eval's escalation met: one spoken exchange, practical, before the notice;
-  every quote below is on the page, checked by script):** unloading split wood into the priest Euthydikos's woodshed at the
-  rear gate, the gray tied apart with her load off, a pot of pitch hung on the gatepost; he works it into a saddle gall on her
-  withers "with two fingers, slowly, and she stood for it" (hands only inside a task). Lines: "For her back." … "The new
-  saddle's rubbed her." / "What for?" / "That's the god's," / "Warm it first. It'll crack cold." / "How long will it hold?" /
-  "Somebody will." / "An obol." / "He'll pay." Attention: before answering he looks "past me then, into the court: to the
-  stand on its sack in the sun, and to the old man on his basket by the hives, who had gone to sleep sitting up" (who is
-  watching). Wipes his fingers on the gray's mane, breaks the pitch with the haft of his knife. Still does not know her name;
-  no romance signal; no closeness, so no practical-order deflection. **The notice (no words on either side):** he comes into
-  the square at its upper corner with the gray on a slack rope, "at his ordinary pace"; halts at the board; stands "while a slow
-  man might read it once, and then as long again" (the page does not confirm that he reads; Ch.11 keeps that reveal); finds
-  Mara by the next column; "He looked back at me while a cart came in at the top of the square and rolled down past us"; takes
-  the gray "down the square at a walk" to the trough below the fountain; last line: "He let the gray drink first." Nobody in
-  Delphi calls him Lupus; the men at the board joke about the name without connecting it to him. Spent: the pitch exchange;
-  "He'll pay."; "Somebody will."; the silent look at the board; letting the gray drink first.
+- **Ch.9 as written (Writer, 2026-10-19; the eval's escalation met: one spoken exchange, practical, before the notice.
+  SYNCED to the final page 2026-10-19, after dialogue-polish, disruptor, continuity repair, polish cycle 1 and the bending fix;
+  every quote below is on the page, checked by script):** "At the back gate Valens was unloading split wood off a line of mules
+  into the priest's woodshed." The gray is tied apart with her load off, a pot of pitch hung on the gatepost; he works it into a
+  saddle gall on her withers. "Her ears were flat. When she swung her head round to bite him he put her nose away with his elbow
+  and went on working." (the disruptor cut the two-fingered caress as a romance cue: do not restore it). Lines: "For her back.
+  The new saddle's rubbed her." (one speech) / "What for?" / "That's the god's," / "Will it stand?" / "Somebody will." / "An
+  obol." / "He'll pay." (dialogue-polish cut "Warm it first…" as his spent order-plus-consequence shape and a bleed into Mara's
+  materials axis.) Attention: before answering, "His eyes left me for the court: to the stand on its sack in the sun, and to the
+  old man on his basket by the hives, who had gone to sleep sitting up." (who is watching). "He wiped his fingers on the gray's
+  mane, unhooked the pot and broke the cake of pitch in it with the haft of his knife"; the pitch is "almost black, cold and
+  brittle, with a mule hair in it." "He bent to her withers again." (the "[S] bent to [the X] again" frame is CLOSED: see at-risk
+  after Ch.9). Still does not know her name; no romance signal; no closeness, so no practical-order deflection. **The notice (no
+  words on either side):** he comes into the square at its upper corner "with the gray behind him on a slack rope. She carried
+  nothing."; "at his ordinary pace"; "He halted at the board."; stands "while a slow man might read it once, and then as long
+  again" (the page does not confirm that he reads; Ch.11 keeps that reveal); "He turned his head and found me there by the
+  column."; "He looked back at me while a cart came in at the top of the square and rolled down past us"; takes the gray "down
+  the square at a walk, past the men still at the eel-seller, to the trough below the fountain"; last line: "He let the gray
+  drink first." Nobody in Delphi calls him Lupus; the men at the board joke about the name without connecting it to him (the
+  Hostile reader's open question for Ch.10–11: a scarred Thracian at the board in daylight, unconnected by five men). His
+  "How long…?" stays at 3 book-wide (all Ch.6). Spent: the pitch exchange; "He'll pay."; "Somebody will."; the silent look at
+  the board; letting the gray drink first; the bite elbowed away.
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -511,13 +528,18 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   dried rags under her cheek: "Wake me when it's light," … "Those Thebans will have the pot scraped dry by now, and burnt
   the scrapings." Never speaks of herself.
 
-- **Ch.9 as written (Writer, 2026-10-19; one short scene at home; every quote below is on the page, checked by script):**
-  scouring the big pot with sand; "she looked at my hand before she looked at my face". "Who paid?" / "Into your hand?" To
-  "Onto it. From above." **her varied reply is an act, not a chore and not a question back:** she "gave no word at all", filled
-  the basin at the jar, stood it on the hearthstone beside the coins, set a lump of the gray washing clay next to it, and
-  returned to her pot. To the price of the god (Mara lists it once): "Who takes the goat up?" / "Then you'll want a man a goat
-  will walk for. They don't, for most." (her one "Then" retort; her labor axis). Ends "with her shoulders to me", the scraping
-  continuing. Never sits, never touches Mara, never speaks of herself. No broom, no shut room, no letter (Ch.10's).
+- **Ch.9 as written (Writer, 2026-10-19; one short scene at home. SYNCED to the final page 2026-10-19, after
+  dialogue-polish, disruptor, continuity repair and polish cycle 1; every quote below is on the page, checked by script):**
+  "Kallia was in the court at home, scouring the big pot with sand." No look at Mara's hand first (continuity W-06 cut it as the
+  Ch.7 broken-jar template). Her only question is "Into your hand?" (cycle 1 cut "Who paid?" / "Euthydikos." as the Ch.7
+  hearthstone skeleton). To "Onto it. From above." **her varied reply is an act, not a chore and not a question back:** "To
+  that she gave no word at all. She filled the basin at the jar and stood it on the hearthstone beside the coins. A lump of the
+  gray washing clay went down next to it." Her one chore beat: "The sand hissed round the belly of the pot." To the god's price
+  (one line from Mara, no list): "Who takes the goat up?" / "Then you'll want a man a goat will walk for. They don't, for most."
+  (her one "Then" retort; her labor axis). Close: "Kallia's sand had gone quiet while I tied it." (she stops work to watch the
+  rag knotted; no turn-away, no walk-off). Never sits, never touches Mara, never speaks of herself. No broom, no shut room, no
+  letter (Ch.10's). **Ch.10 is hers:** no gaze-arrival "then" for her (eval Cross-Book #4), no hearthstone exchange in the Ch.7/9
+  shape, no body rebel through Mara's hands.
 
 #### THEANO — the Pythia; a farmer's widow off duty (glimpsed Ch.8 unnamed, shouting at crows; Ch.13)
 - **Attention / worldview:** her own body (her knees, the descent into the adyton), the priests' petty

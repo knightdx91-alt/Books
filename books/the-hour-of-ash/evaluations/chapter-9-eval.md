@@ -524,3 +524,85 @@ Ch.9 (cycle 1): 5,763w (target 6,400, −10.0%; 37w under the writer's range flo
 - Emotion 9.0 was forecast in cycle 0 ("two edits away"), and the forecast could have anchored this score. It rests on two cited changes and one unforecast gain ("I cleaned round it"). Discount it to 8.5 if an external reader finds the hands a channel worn smooth: it is the fourth chapter (Ch.5, 6, 8, 9) in which the body speaks through them.
 - Casual 9.0 rests on the wipe and the notice. A romance reader counting the chapters since Valens last spoke at length could put it at 8.5, which still clears the gate.
 - CVI-Launch 9.1 is a one-chapter formula and is not a book forecast.
+
+## RE-EVALUATION — polish cycle 2 (confirmation, 2026-10-19)
+**Evaluator:** book-evaluator (independent; did not write or revise this prose). **Scope:** the cycle-1 PATH (¶256, ¶308) plus finalize F1–F4, as the cycle-1 section says. Everything else was verified in cycle 1 and is not re-scored. **Length:** 5,968 by `wc -w` and 5,790 by style_check, both unchanged. The six edits net to 0 words (−1, +2, −2, −1, 0, +2). My cycle-1 F1 and F4 word deltas were miscounted, but the sum is still neutral. Git was not run and the manuscript was not touched.
+
+### 1. The six lines, on the page
+| Item | ¶ | Text now | Verdict |
+|---|---|---|---|
+| PATH 1 | 256 | "She's cut herself." The bee-man was smoking a hive. "On his bronze. Don't tell him." | ✓ Work, not posture. The period fact sits well beside the telling-the-bees beat (¶174). |
+| PATH 2 | 308 | He put his face so close to it that his beard brushed the bowl, and looked at my finger… When he straightened at last… | ✓ "straightened" still implies the stoop without naming it, which is better than naming it. |
+| F1 | 158 | "Pay the smith for his clay," he told the slave, and then, from the house door… | ✓ "He" is clear from ¶156. The in-chapter 6-gram is now 0, and ¶78 keeps the device's first statement. |
+| F2 | 198 | She came and stood over it. | ✓ The antecedent is the stand, at the end of the sentence before. stand/stood is gone. |
+| F3 | 356 | …pegged to a pillar of the colonnade… | ✓ The curse→notice verb link ("nail her" → "nailed") is broken. |
+| F4 | 338 | …fainter each time my hands went in, and then the water stayed black. | ✓ "each time" now has its occasion. The paragraph's falling cadence is intact. |
+
+None of the replaced strings survive: "was bent over", "He bent so close", "the priest said to the slave" (now ×1, at ¶78), "stood over the stand", "nailed to a pillar" and "a little less each time" are all 0. ¶6, ¶110, ¶318, ¶410 and ¶414 ("He let the gray drink first.") are intact.
+
+### 2. Bend / stoop count
+- **Correction to the brief:** a bent nail is not the only remaining "bent". `\bbent\b` returns **4 tokens**, which is exactly what the cycle-1 PATH asked for:
+  - ¶176 "a bent nail" (adjective)
+  - ¶248 "He bent to her withers again." (cycle 0, kept by design)
+  - ¶296 "he circled the stand before he bent to it." (cycle 0, kept by design)
+  - ¶320 "bent my head to him" (the preserved bow)
+- **Bend-to-the-work beats: 2** (¶248 Valens, ¶296 the priest), against 4 at cycle 1. The gate's new class counts Ch.9 at **2**. `stoop` appears once, inside speech (¶18 "without stooping", a cutter's measure, not a gesture). `lean` 0.
+- The priest's in-scene self-repeat is gone. The payment scene now has one bend (¶296) and one bow (¶320) in 335 words.
+- **Kneel, judged by hand** (the gate has no kneel class): there are 3 kneels, and each does a job. The boy at the bellows (¶62) is a posture. Sighting along the shaft (¶252) is the work. The dropped coin (¶314) is the humiliation beat itself. None is filler, and none is folded into the bend count.
+- **N1 is cleared.**
+
+### 3. Did the six edits introduce anything?
+- **Echo:** every new string is 0 in Ch.1–8 and the voice bank: "smoking a hive", "put his face", "told the slave", "stood over it", "pegged", "fainter", "hands went in". 5c echo scan: 0. Command echo: none. "smoking" appears in Ch.6 and twice in Ch.8, but as unrelated senses (snow-smoke, a hot sandal, Sostrata's retort), so it is not a phrase echo.
+- **Tic / gesture:** tic gate clean. No class is charged in Ch.9. The new bend class is not tripped (2 against a cap of 6).
+- **In-chapter repeats, three traces, none blocking:**
+  - (a) **The "[speech]," X told Y tag is now 4 in Ch.9** (¶124 the smith "told his clay", ¶158 F1, ¶174 and ¶326 the bee-man), against 1 each in Ch.5 and Ch.7. That is three speakers in four scenes across about 3,600 words, a narration tag rather than a character tic, and F1 is my own prescription. **WATCH: Ch.10 should carry at most one.**
+  - (b) ¶308 "I put my fingertip… He put his face…" in adjacent sentences. It reads as a mirror: her finger on the flaw, his face as close to it as he will come, one paragraph before the coins fall from above. Keep it.
+  - (c) "went in" now occurs ×5 (¶60, ¶162, ¶180, ¶252, ¶338), and ¶338 "my hands went in" sits next to ¶340 "with my hands in the water". This is an ordinary phrasal verb and one continuous wash. Keep it.
+- **Spent moves:** none reused. There is no ear-to-hive, no "brought [x] down", no bend-to-work recast, and no standing-object close.
+- **Logic:** smoking a hive in the afternoon court is period-plausible (smoke to take the comb), and there is a coal pot on the paving (¶62). The beard reaching the bowl while his face is at the low line is pre-existing blocking, and a stooping man's beard passes the bowl's rim.
+
+### 4. Mechanical suite: `bash books/the-hour-of-ash/tools/check_chapter.sh 9` (run here, from /home/user/Books)
+| Gate | Result |
+|---|---|
+| Style | clean. Simile 1.9/1k, adverb 3.1/1k, em-dash 1, foreshadow 0. |
+| Grammar | 0 errors. |
+| Rhythm | 0 flagged. |
+| Show/tell | no flags. Dialogue 26.9%. |
+| Voice-wear (strict) | clean. |
+| 5a tic gate | clean. Ch.9: and-chains 4/9, credential asides 0, negation pivots 0, 'So' openers 0. |
+| 5c echo scan | 0. |
+| Metaphor | fig 2.8/1k, median 15, 6.6% over 40 words. |
+| Shape | CLEAN. |
+
+### Genesis Score — cycle 2 (final)
+| Dimension | Cycle 1 | Cycle 2 | Basis |
+|---|---|---|---|
+| Originality | 8.5 | **8.5** | Unchanged text. |
+| Theme | 8.5 | **8.5** | F3 removes one of the two weak #18 diction links. Not raised. |
+| Characters | 7.5 (capped; 8.5 on merit) | **8.5** | The +1.0 is the cap lifting, not a new merit claim. Each of the four regressions cited in cycle 1 is reversed and cited: ¶256 recast, ¶308 recast, the priest's ¶296/¶308 self-repeat gone, and "bent" 3× in 335 words reduced to 2 (bend + bow). Class at 2 in the chapter. Cover-the-name PASS and chaos 4/4 as in cycle 1. |
+| Prose & Voice | 8.5 | **8.5** | F1, F2 and F4 clear three traces. No new underline. Not raised. Anti-AI 6/20, −0.75 (#18 is still minor via "laid hold of" → "hold the rope"). |
+| Pacing | 8.5 | **8.5** | Word-neutral. Shape CLEAN. |
+| Emotion | 9.0 | **9.0** | F4 sharpens the red thread's course without adding feeling words. Held, with the cycle-1 discount note. |
+| Immersion (Dim 7) | 9.0 | **9.0** | "smoking a hive" adds a period fact. Held. |
+| **FLOOR** | 7.5 | **8.5** | |
+| **AVERAGE** | 8.50 | **8.64** (60.5 / 7) | |
+
+**CVI-Launch 9.1** · **CVI-Legacy 6.6** (provisional) · **Casual 9.0** · Tomorrow anchor: the coins from above, the wiped fingers and the red thread in black water (IMAGE). All unchanged.
+
+### VERDICT — cycle 2
+**PASS.** Gate: **Floor ≥ 8.5 ✓ (8.5) AND Casual ≥ 8.5 ✓ (9.0) AND pacing OK ✓ (5,763 prose words, −10.0% on target, do not pad; dialogue 27–28%; `narrative` → `punch`) AND gates clean ✓ (full suite, run here).** The Floor sits exactly on the line, and Characters is the bottleneck by margin. Do not touch the chapter again.
+
+### For finalize (orchestrator)
+- **Sync list:** add "smoking a hive", "he told the slave", "stood over it", "pegged to a pillar" and "fainter each time my hands went in" to the cycle-1 final-page quotes.
+- **At-risk for Ch.10:**
+  - **Bend class:** 15 book-wide = **0.287/1k against the 0.30 cap.** Ch.10 should carry at most 1, because 3 would fail the book-wide rule at ~58k words.
+  - "X told Y" speech tag: at most 1.
+  - The body-rebel channel must not be the hands (carried).
+  - "[S] bent to [the X] again": CLOSED.
+  - Narrated object-fronting: no third.
+- **Pipeline (UPDATE RULE, root plus `books/_template/tools/tic_report.py`):**
+  - (a) The chapter-cap test checks only the *worst* chapter (`worst_ch`), so a 4-count in a short chapter (cap 4) can hide behind a 5-count in a long one (cap 8). It should loop every chapter against its own cap.
+  - (b) There is no kneel/crouch class. Ch.8 has 6 kneels and Ch.5 has 5. Judge whether lowering-to-the-work is a class before Ch.10, but not against Ch.9, where all 3 kneels are functional.
+- **Editor credit:** all six edits were applied exactly as prescribed and verified on the page.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in every score at or above 8.5 (all seven dimensions), in Casual 9.0 and in CVI-Launch 9.1 requires external validation from beta readers, editors or comp analysis. The 8.5 Floor is a lifted cap. It is not a fresh judgement, and the cycle-1 discount notes (Emotion's hands channel, Casual's romance thread) still apply.
