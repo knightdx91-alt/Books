@@ -293,9 +293,10 @@ def gesture_scan(files):
         rows.append((name, total, per1k, worst_ch, worst))
         if per1k > GESTURE_BOOK_MAX and total_words >= GESTURE_MIN_WORDS:
             flags.append(f"{name}: {total}x book-wide = {per1k:.2f}/1k (> {GESTURE_BOOK_MAX})")
-        cap = max(GESTURE_CHAPTER_MAX, round(chap_words.get(worst_ch, 0) / 1000))
-        if worst >= cap:   # reaching the cap fails (the law: 4+ of one class, or one per 1,000 words)
-            flags.append(f"{name}: {worst}x in chapter {worst_ch} (cap {cap} for a {chap_words.get(worst_ch, 0):,}-word chapter)")
+        for ch, c in per_ch:   # every chapter against its OWN cap (a 4 in a short chapter must not hide behind a long one)
+            cap = max(GESTURE_CHAPTER_MAX, round(chap_words.get(ch, 0) / 1000))
+            if c >= cap:   # reaching the cap fails (the law: 4+ of one class, or one per 1,000 words)
+                flags.append(f"{name}: {c}x in chapter {ch} (cap {cap} for a {chap_words.get(ch, 0):,}-word chapter)")
         # scene-window cluster: positions (in words) of each hit; 3+ inside GESTURE_WINDOW words
         for ch, t in texts:
             pos = [len(re.findall(r"[A-Za-z'\u2019\-]+", t[:m.start()])) for m in rx.finditer(t)]
