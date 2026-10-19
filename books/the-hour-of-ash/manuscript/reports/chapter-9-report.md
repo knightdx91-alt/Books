@@ -1,0 +1,53 @@
+# Writer Report: Chapter 9 — "The Polygonal Wall"
+
+- **Word count:** 6,166 by shape_check (wc -w 6,294 including the header). The target is 6,400 and the range 5,800–7,000. It lands 3.7% under target and inside the range. The first draft was 5,564 words, too few beats rather than thin ones. I added four real beats: the wall as legal proof and Aphrodisia's deep-cut letters; the priest's wife and her broken mirror, which sets up the "kitchen door" line; Mara composing her question in Greek, which gives the errand its stake and puts vulnerability before the long competence stretch; and Kallia on who leads the goat. I stopped at 6,166 rather than pad, per the dispatch.
+- **Ledger row:** Collage ("stones and errands"), exactly 5 breaks, 6 sections. Opens on the manumission document in italics, first sentence 22 words → `narrative`. Ends on a single-sentence closing paragraph of 6 words, "He let the gray drink first." → `punch`. Dialogue 26.9% (band 25–35). Median sentence 15 (gear mid). Theme present. Strict shape audit clean.
+- **Emotional anchor:** hit. The paramone clause sits in the opening document ("But let Aphrodisia remain with Xenon as long as Xenon lives…"). The letter-cutter then turns it from text into a person, at L38: "She paid me an obol over the price, from what was left in her pot, to cut hers deep. She can't read a letter of it. I read it out to her the day I finished, twice through, and she listened to the whole of it and went home." She passes a moment later, "near enough to touch, with her gaze on the steps" (L40). No narrator comment. Euthydikos is a named witness in the document; the page never points at it.
+- **Emotional surprise / peak:** the payment (L312–320). Coins dropped "from a little above, so that his fingers stayed clear of my palm"; the last one rolls under the stand and she kneels for it; he wipes his fingers on the bee-man's linen, "each one, the thumb last"; the wife's hem is at the balustrade again; "He had not touched it. Perhaps it was the soot." The peak channel is a wrong reaction, not a laugh: "Thank you," I said, and bent my head to him as well. He re-hires her in the same breath ("When I send, come back and do the bowl").
+- **Weakest dimension, and what I did about it:** Characters/Valens, a third chapter at a distance. He now has one practical spoken exchange before the notice: the pitch for her wax at the priest's rear gate (L218–248). It ends on her debt ("An obol." / "I have nothing until he pays me." / "He'll pay."), so the obol in her rag at the notice (L414) carries weight without comment. He asks one practical question ("How long will it hold?" / "Somebody will."). He still does not know her name. There are no romance signals, his hands appear only in a task, and no closeness is answered with an order. At the board: silence on both sides.
+- **Chaos moments:**
+  - all-or-nothing as a wager (L148) and the seam dug out three times (L192, L212, L254);
+  - unprompted memory breaking into a sentence as a smell with no person in it, the red crayon on a schoolroom radiator (L188);
+  - an irrelevant memory paragraph built around a place, not a person, the Fortieth Street hardware store whose name has gone, closing on an act (L176);
+  - the body: the knife laying her thumb open at the base, bled onto the paving clear of the bronze (L254);
+  - failed management at the notice, plainly: "The rag had gone damp in my fist." (L404).
+- **Secondary character moments:**
+  - the letter-cutter's grievance about patronymics cut to save letters;
+  - the smith padding his bill (he put the lead on the bowl nine years ago and would gladly put it on again);
+  - Euthydikos's chilblains and his "olive picking" sneer at gloves (L156–160);
+  - the bee-man telling the hives ("Don't tell him.", L256) and mocking his master's beard (L196);
+  - the mistress's mother's mirror, "Not in his court." (L208);
+  - the culvert boy's disappointment;
+  - the woman at the lions, superstitious about the lead;
+  - the goat man selling the shiver ("Like a bride.");
+  - the men at the board ("For three hundred I'd give up my wife's brother, and help them tie him.", L388).
+- **Ugly sentence:** "It was too fat, and I filed it, and it was still too fat." (L174, the filing, a quiet moment).
+- **Impulse deviations:**
+  - **The mistress, kept.** She was not in the outline. Once the hem stayed still at the balustrade, the gallery wanted a person, and she gives the chapter a second economy: a woman who can't hire openly in "his court".
+  - **The wager, kept.** It also wasn't in the outline. It came out of the bargaining and makes the redo-thrice both her distortion and the contract.
+  - **Valens wiping his fingers on the mane, kept unpointed.** It came by itself before the pitch handover and rhymes with the priest's wipe.
+  - **Telling the bees, cut back.** The bee-man's habit wanted to become a running gag (six uses in one draft). I cut it to two tagged uses and one narrated, because a repeated tag is a device and "said to the [non-listener]" is capped.
+- **Outline deviations:**
+  - The cost of a consultation comes from the priest during the bargaining (Kallia's "Ask a priest" is honored without being pointed at). Mara summarizes it once to Kallia. The "man" requirement builds on Ch.8 by consequence rather than re-explanation: the goat man's "Come back with a man" and Kallia's "a man a goat will walk for".
+  - The curse tablet is pure texture: a boy at the drovers' culvert, Thraitta the weaver, Hermes the Holder. It means nothing.
+  - The notice came over the Boeotian road with the first oil carts from Thebes, so nothing comes up from Kirrha and Ch.10's first-carter letter is untouched. It hangs beside the herald's door in the square.
+  - Mending method: no fire; the burnt clay core raked out; the smith's bronze rod filed to an internal sleeve; beeswax and lamp soot, then hardened with Valens's pitch; a fourth fill pricked with bristles to take the bronze's grain. The break is at the feet, away from the coals in the bowl. The priest's smith had planned to cast on new metal, which would have run his own old lead solder at the bowl.
+- **Structural approach used:** Collage (6 sections: wall / court / mending / tablet / payment / notice), three documents (two reveal, one texture).
+- **Narrator-move counts (by hand and gate):**
+  - 0: hinge openers, "So" openers, "before I had decided", negation pivots, "He meant…", credential asides, em-dashes, English, command-echo (the priest's "Lower." is answered by "The finger slid down the flute"), lying-awake coda, cloth smells, taste reactions, laughs, callback pointers;
+  - 1 each: "the one / the only" ("the one office in Phocis"), "as if / as though";
+  - and-chains 3; semicolons 15.
+- **Mara's Greek:** uncontracted throughout. Kallia never sits or touches her. Her varied reply is an act: the basin and the washing clay. Her one "Then" retort: "Then you'll want a man a goat will walk for." The watch and the flashlight go unmentioned. Valens is "Valens" in Delphi, and "Lupus" appears only on the notice and in the men's talk.
+- **Gates (from /home/user/Books):**
+  - `check_chapter.sh 9`: style, grammar, rhythm (0 flagged), show/tell, voice-wear (strict) and tic gate (incl. gestures) all clean;
+  - `tic_report.py --echoes 9`: 0 echoes (98 → 0 in drafting);
+  - `shape_check.py --strict`: clean.
+- **Character bible:**
+  - added a full EUTHYDIKOS card (tic: none);
+  - added Ch.9 blocks to Mara, Valens and Kallia;
+  - added a Ch.9 walk-on note (the mistress and Aphrodisia flagged for promotion if they return);
+  - marked the planned-roles row WRITTEN;
+  - added the at-risk after Ch.9 block (the redo-the-seam sequence SPENT at two; the wiped hand SPENT; "a man" as the requirement CLOSED; the fee list SPENT; feet-first CLOSED at 3; the silent look and the closing line SPENT);
+  - added a change-log line.
+
+  ENTITY_STATE.yaml was not touched.

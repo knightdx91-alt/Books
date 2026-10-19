@@ -118,6 +118,31 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   longer hers: they are Nikaso's story on the stair (Plutarch, *De primo frigido* 953D, behind it, unnamed). Unprompted
   memory: the Vermont brothers' Christmas-tree lot at Twenty-second and Pine and its oil drum (spent). Her pay "turned up
   in a bank downtown every other Friday" (no intersection on the page).
+- **Ch.9 as written (Writer, 2026-10-19; Delphi, late winter AD 71; every quote below is on the page, checked by
+  script):** the commitment holds: no English anywhere, aloud or alone. **The decision to consult is shown, not told to
+  Kallia:** she climbs the Sacred Way "to find a priest" and composes the question in Greek on the gymnasium lane ("*Where is
+  the way back?*" too short; "*Where is the door I came in by, now it is shut?*" nearer), tried "in a murmur with the Delphian
+  vowels, and again with the book's"; "Whether I believed in Apollo was beside the point. He was the one office in Phocis that
+  took questions about doors, and the cave had been shut to me twice." Public identity: the slave calls her "Kallia's
+  Syracusan"; to "Where does a woman learn bronze?": "In Syracuse," … "which was where I was from, now." Her Greek stays
+  uncontracted ("If you heat it," … "the bowl will come off." / "That it runs long before bronze does," / "Then it will break
+  again where it broke before," … "and in no new place, and the next mender will have nothing to undo but wax." / "It is not a
+  smith's work. That is why it will hold." / "It holds. It is the seam I am taking out." / "I can join it again." / "With this
+  in it? Years. If nobody knocks it over." / "I have nothing until he pays me." / "It is a curse." / "Onto it. From above.").
+  **Craft, as hands at work (no report form):** spots the old lead solder ringing the bowl and the gas cavities at the break;
+  refuses fire; rakes the burnt clay core out with a bent nail, files the smith's rod to fit ("It was too fat, and I filed it,
+  and it was still too fat.", the chapter's ugly sentence), seats the halves on it; fills with the bee-man's wax and lamp soot,
+  then with Valens's pitch melted in; **digs the fill out three times** (the wax "shone" as "a thin gold thread" in low sun; a
+  thumbprint "the whorls raised in the fill" and a soot smear; a smooth band on a bronze "skin like an orange's"), cutting her
+  thumb at the base on the third; the fourth fill is pricked with bristles so the soot sits in the holes: "I had lost it myself."
+  **All-or-nothing as a wager:** "If you find it, pay me nothing. If you cannot, pay me the smith's price." **Wrong reaction at
+  the peak:** the priest drops the coins on her palm and wipes his fingers; "He had not touched it. Perhaps it was the soot." /
+  "Thank you," … "and bent my head to him as well." Memory/noise: the red crayon on a schoolroom radiator (a smell inside a
+  sentence, no person); the hardware store off Fortieth Street with a cat on the counter scale, its name gone. Money: the
+  priest's coins knotted "into a rag with the two brass ones from 1998, the poet and the other"; she owes Valens an obol and
+  is holding it ("I had his obol in the rag with the rest. I stayed where I was."). At the notice (pressure level 1): asides
+  die; "I read it through again. The rag had gone damp in my fist." / "I was looking at him. I looked at his face." Knowledge
+  asides by credential: 0. Teeth: none.
 - **DISTINCTNESS GUARANTEE:** the only voice in the book that sees how a thing was made and where it was
   mended, against Valens, who sees where a thing or a man will move next.
 - **Sample line:** "Somebody's glued this before, look, there's an old line under the new one, and
@@ -270,6 +295,22 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   forward at the drums and his hand go up her neck". No face, no look, no romance signal. Spent: identifying him by the
   gray. **Escalated by the Ch.8 eval (Cross-Book #4):** this is his second chapter as a glimpse; the Ch.9 writer prompt
   should give him one spoken exchange with Mara (no romance signal in narration; the fifth coin is SPENT).
+
+- **Ch.9 as written (Writer, 2026-10-19; the eval's escalation met: one spoken exchange, practical, before the notice;
+  every quote below is on the page, checked by script):** unloading split wood into the priest Euthydikos's woodshed at the
+  rear gate, the gray tied apart with her load off, a pot of pitch hung on the gatepost; he works it into a saddle gall on her
+  withers "with two fingers, slowly, and she stood for it" (hands only inside a task). Lines: "For her back." … "The new
+  saddle's rubbed her." / "What for?" / "That's the god's," / "Warm it first. It'll crack cold." / "How long will it hold?" /
+  "Somebody will." / "An obol." / "He'll pay." Attention: before answering he looks "past me then, into the court: to the
+  stand on its sack in the sun, and to the old man on his basket by the hives, who had gone to sleep sitting up" (who is
+  watching). Wipes his fingers on the gray's mane, breaks the pitch with the haft of his knife. Still does not know her name;
+  no romance signal; no closeness, so no practical-order deflection. **The notice (no words on either side):** he comes into
+  the square at its upper corner with the gray on a slack rope, "at his ordinary pace"; halts at the board; stands "while a slow
+  man might read it once, and then as long again" (the page does not confirm that he reads; Ch.11 keeps that reveal); finds
+  Mara by the next column; "He looked back at me while a cart came in at the top of the square and rolled down past us"; takes
+  the gray "down the square at a walk" to the trough below the fountain; last line: "He let the gray drink first." Nobody in
+  Delphi calls him Lupus; the men at the board joke about the name without connecting it to him. Spent: the pitch exchange;
+  "He'll pay."; "Somebody will."; the silent look at the board; letting the gray drink first.
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -469,6 +510,14 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   her face over her rags and did not raise it". **Lies down** at the outer edge of the heap, on her side, wind at her back,
   dried rags under her cheek: "Wake me when it's light," … "Those Thebans will have the pot scraped dry by now, and burnt
   the scrapings." Never speaks of herself.
+
+- **Ch.9 as written (Writer, 2026-10-19; one short scene at home; every quote below is on the page, checked by script):**
+  scouring the big pot with sand; "she looked at my hand before she looked at my face". "Who paid?" / "Into your hand?" To
+  "Onto it. From above." **her varied reply is an act, not a chore and not a question back:** she "gave no word at all", filled
+  the basin at the jar, stood it on the hearthstone beside the coins, set a lump of the gray washing clay next to it, and
+  returned to her pot. To the price of the god (Mara lists it once): "Who takes the goat up?" / "Then you'll want a man a goat
+  will walk for. They don't, for most." (her one "Then" retort; her labor axis). Ends "with her shoulders to me", the scraping
+  continuing. Never sits, never touches Mara, never speaks of herself. No broom, no shut room, no letter (Ch.10's).
 
 #### THEANO — the Pythia; a farmer's widow off duty (glimpsed Ch.8 unnamed, shouting at crows; Ch.13)
 - **Attention / worldview:** her own body (her knees, the descent into the adyton), the priests' petty
@@ -1085,6 +1134,51 @@ below is on the page, checked by script.)*
   restaurant-tray simile for the basket, the oven-kitchen simile for the cloak (now the laundromat), the possessive form of Philista's Athenian
   joke (now "An Athenian,") and Philista's "girl" in "He can't hear you from Delphi", all cut in cycle 1 or before.)
 
+#### Ch.9 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+*(Writer, 2026-10-19. Every quote below is on the page, checked by script.)*
+- **The letter-cutter** (on a plank across two trestles at the polygonal wall, "white with dust to the elbows and in the hair
+  of his eyebrows"): **attention** = letters and what he is paid for them; his grievance is men who cut their fathers' names to
+  save letters ("He made me leave his grandfather off." / "which is a whole word I've not been paid for" / "They all do it. A
+  man frees a girl and haggles with me over his own father."). Explains the god as buyer ("The god's the buyer, so nobody can
+  say afterward she bought herself"), the wall as proof ("A tablet gets lost, or a man says it did. Nobody ever lost a wall."),
+  and Aphrodisia's depth ("She paid me an obol over the price, from what was left in her pot, to cut hers deep. She can't read a
+  letter of it. I read it out to her the day I finished, twice through, and she listened to the whole of it and went home.").
+  Directs Mara to Euthydikos. No comparison of his trade to anything; he never notices materials (the "soft block" that "flies"
+  is footing for his chisel, not workmanship).
+- **Aphrodisia** (named in the manumission document; glimpsed once): "a basket of washing on her head and a hand up to steady
+  it, in a tunic dyed a cheap blue that had faded in streaks", passing under the wall "near enough to touch, with her gaze on the
+  steps". No line. Home-born in Xenon's house; cannot read. Promote to a card if she returns.
+- **Euthydikos's household:** **the slave at the door** (shelling beans; "looked at my feet first … and then worked his way
+  up"; "The temple's up the hill," / "Everybody has a question." / "Kallia's Syracusan," … "She wants the god."); **the smith**
+  (short, leather apron, eyebrows "long since gone into somebody's fire"; put the lead on the bowl "Nine years back, for your
+  father"; "I'd have put it on again. It's no trouble to me." / "Wax." / "Call it two," / "Three drachmas, and the clay found." /
+  "When it lies down," … "send to me. I'll bring the lead."); **the smith's boy** (bellows worked "with both knees"; gapes);
+  **the bee-man** (old slave who keeps the priest's bees in clay hives along the back wall; dozes on an overturned basket;
+  talks to the hives: tagged twice, "There's a woman at the master's bronze," … "From Syracuse. Don't mind her." and the
+  untagged "She's cut herself." … "On his bronze. Don't tell him."; supplies raw wax after telling the bees what for; "Out it
+  comes," / "He'll not know the difference, you know. He couldn't find his own feet in that beard." / "He'll look at it in the
+  morning," … "When the sun's on the court. He said the sun." / carries the mistress's message); **the mistress** (the
+  priest's wife, "much younger than the priest", himation kept over her head indoors, hair "crimped in rows as regular as the
+  flutes on the stand"; first a hem at the balustrade that "stayed perfectly still", and again at the payment; shows Mara the
+  handle of her mother's bronze mirror, "a little woman standing on a tortoise with her arms raised to hold up a disc, and no
+  disc"; "Does it hold?" / "He wants it in its place for the god's return." / "Not now." … "Not in his court."; her message:
+  "when you come for the bowl, come round to the kitchen door."). If the mistress returns for the mirror, she gets a card.
+- **At the spring:** **the boy at the culvert** (fishing in the drovers' end of the basin, "his arm in to the shoulder";
+  "Is it a letter? Is there money in it?" / "What's written on it? Is it a treasure? Who's it from?" / "There's no Thraitta at
+  the spring." / "Is it worth anything?"; runs off to sell the lead); **a woman at the lions** ("Put that where you found it,"
+  … "Whoever buried it meant it to stay buried."; she keeps her eyes on her own jar).
+- **In the square:** **the goat man** (pens by the fountain; eating a heel of bread; demonstrates the shiver with a handful of
+  trough water; "Like a bride." / "Mine all do it; I keep them warm, so the water surprises them." / "More than that." / "For
+  that you can have the shake and not the goat." / "Come back with a man. I'll keep her warm for you."); **the men at the
+  board** (five or six; the reward, Corinth, "He'd walk you into the gulf.", "For three hundred I'd give up my wife's brother,
+  and help them tie him.", the oil carts from Thebes, "Lupus. What sort of name is that for a man?" / "It's a wolf.", the cook
+  called Victory, the Thracian eel-seller at Kirrha); **a carter** (oil jars roped in straw, swearing at his ox).
+- **Mention only:** Xenon son of Euangelos (Aphrodisia's former owner, "forty, and eats for two"); Damon son of Aristion
+  (guarantor); the priest Nikandros and the private witnesses Babylos, Eudoros, Philon son of Philon; Kleodamos (archon,
+  recurring); Euthydikos's grandfather (gave the stand) and father (the smith's earlier job); Thraitta (the cursed weaver) and
+  Hermes the Holder; Quintus Arrius Celer (by the notice only); the goat man's rival "out beyond the stadium"; a cousin's
+  master in Patrae and his cook Victory; the Thracian eel-seller at Kirrha; the hardware store off Fortieth Street and its cat.
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -1366,6 +1460,47 @@ below is on the page, checked by script.)*
   Sostrata, who has twenty years of proof he will not.
 - **Sample line (calibration only):** "He's carving me a bird for the shelf, he says, and he won't let me see it."
 
+#### EUTHYDIKOS — priest of Apollo at Delphi; a witness on Aphrodisia's manumission; hires Mara to mend his grandfather's incense stand (Ch.9)
+- **Attention / worldview:** status and appearances: his grandfather's stand back in its place "for the god's return", his own
+  name in stone (the letter-cutter: "His name's at the foot of half this wall; he likes it in stone."), and his chilblains.
+  Money is weighed against who earns it: "I'll pay a smith a smith's price. I'll not pay a woman a smith's price for doing it
+  with wax."
+- **Vocabulary band:** courteous temple Greek; cult and fee words (the pelanos, the god's treasury, the archive, a stater); no
+  oaths, no maxims.
+- **Syntax fingerprint:** **speaks of Mara in the third person to his slave while she stands in front of him** ("Ask her what
+  she means by it," / "What would she do instead?" / "And for this rod and this wax, what does she want?"), and turns to her
+  only for a ruling; then short verdicts ("Half." / "In what light?" / "Daylight," / "The smith's price.").
+- **Rhythm:** one long courteous period, then a one- or two-word ruling.
+- **Evasion — never says:** a price first (the smith and Mara must name theirs); thanks; that the work is good (he pays "The
+  smith's price" and gives her the next job instead).
+- **Physicality / silence:** a long gray beard "combed out and cut square at its end, so neat that it looked put on over his
+  own"; hands kept up his himation sleeves, "red and swollen across every knuckle with chilblains, shiny as boiled sausages";
+  purse on a cord round his neck. **Never touches Mara:** lets the coins fall "from a little above, so that his fingers stayed
+  clear of my palm", then wipes his fingers on the bee-man's linen, "each one, the thumb last" (SPENT).
+- **Verbal tic:** none — distinguished by syntax (talking past her to the slave) and attention (status, his own name)
+- **Bleed guard:** must not notice workmanship or materials (he cannot find the seam even with a lamp in a sunlit court); no
+  form-questions in order (Sosandros's); no labor reckoning (Kallia's); no proverbs. **His fee itemization ("First the
+  pelanos… Then the goat… And a Delphian… And a man…") is spent in Ch.9**: if he returns he never lists again.
+- **Chaos on the page (subjects, never phrases):** the chilblains ("In Syracuse, what do they do for chilblains?" / Mara:
+  "Wool on the hands," … "With a place for each finger." / "Like a slave at the olive picking."); the lamp fetched into a court
+  full of sun.
+- **DISTINCTNESS GUARANTEE:** the only speaker who talks about Mara to somebody else while she stands in front of him, against
+  Sosandros, who asks her the form's questions directly without looking up.
+- **Sample line (calibration only):** "Tell the woman she may stand in the shade while I decide; the sun is the god's, not hers."
+- **Ch.9 as written (Writer, 2026-10-19; every quote below is on the page, checked by script):** "Ask her what she means by
+  it," / "Yours, is it?" / "And if the bowl had dropped into your fire this morning?" / "Ask her," / "What would she do
+  instead?" / "Where does a woman learn bronze?" / "And for this rod and this wax, what does she want?" / the price of the god:
+  "For a Syracusan?" … "First the pelanos, into the god's treasury, before he'll hear you at all. What a Syracusan pays I'd have
+  to send to the archive to learn, to find whether your city ever made terms with the god, and if it did, whether anybody in it
+  remembers. Call it a stater." / "Then the goat. Cold water goes on its head at the altar, and it must tremble from the hooves
+  up, every leg of it, or the god isn't receiving that day; it goes on the fire whatever it did, and home you go, and back you
+  come next month with another goat." / "And a Delphian to stand for you, since you aren't one, and he'll expect a present for
+  his trouble. And a man to carry the thing in, since you aren't that either." / "Then you have the worst of it." / "A stater.
+  For wax." / "Your price?" / "And three more for the bowl, when it fell in your fire." / "Half." / "In what light?" / "Pay the
+  smith for his clay," / "Daylight," / at the inspection: "Here?" / "Show me." / "The smith's price," / "There's that smith's
+  lead in the top that wants cutting out," … "When I send, come back and do the bowl." He is a named witness on Aphrodisia's
+  manumission (the document); the page never points at it.
+
 ---
 
 ## UNNAMED SPEAKING ROLES PLANNED IN THE OUTLINE
@@ -1379,7 +1514,7 @@ line each, so that walk-ons don't all sound like Mara.
 | Temple slave with the rod (5) | order on the steps; commands only |
 | Herald (5) | the news; public formula |
 | The Thyiades women (8) | WRITTEN (Ch.8) and named: Sostrata the bawdy singer, Nikaso the wet-sandals worrier, Timo the husband-asker, Philista the drum leader; the stranger in the goat-hair cloak stays unnamed. See their cards and the Ch.8 walk-on note |
-| Priest who hires Mara (9) | status and purity; pays her and wipes his hand; condescending courtesy |
+| Priest who hires Mara (9) | WRITTEN (Ch.9) and named: EUTHYDIKOS (card above); the wiped hand is spent. His household (slave at the door, smith, bee-man, the mistress) is in the Ch.9 walk-on note |
 | Kallia's cousin (11) | money; wheedling |
 | Celer's man on the road (12) | false friendliness; one greeting, then nothing |
 | Archive clerk (17) | boredom and figs; monosyllables; does not look up |
@@ -1724,6 +1859,48 @@ line each, so that walk-ons don't all sound like Mara.
     figure, an odd habit, closing on an image: Ch.3, 5, 6, 7, 8 "Every December"): the frame is now the tell. Next: a memory
     that breaks into a sentence, or a sense with no person in it.
 
+- **At-risk after Ch.9 (Writer, 2026-10-19; moves and shapes to keep out of Ch.10 and after):**
+  - **The redo-the-seam sequence: SPENT.** Ch.2 (the lamp nozzle, the raking lamp, the thumbnail that did not catch) and Ch.9
+    (three fills dug out: the gold thread in low sun, the thumbprint whorls, the smooth band on a skin "like an orange's", the
+    bristle-pricked fourth fill, "I had lost it myself") are two. A third scene of Mara redoing a join because the seam shows is
+    a device; Ch.20's shop is where she learns to let a seam show, and it must be staged as a different act in fresh words.
+    Spent craft wording: "stood proud", "squeeze-out", "dressed down level", "gas … caught in the metal", "a pinch at a go".
+  - **The wiped hand: SPENT** (Euthydikos, "each one, the thumb last"). No character wipes after touching or paying Mara again;
+    Valens wiping his fingers on the gray's mane before handing over the pitch is spent with it.
+  - **"Perhaps it was the soot."** / the thanked insult (Mara's wrong reaction: "Thank you," … "and bent my head to him as
+    well."): SPENT. Ch.10's peak needs another channel (and not a laugh: see after Ch.8).
+  - **"A man" as the requirement, voiced:** Kallia (Ch.8 "A man goes in for you…", "Who would I send in?"), Euthydikos ("a man to
+    carry the thing in"), the goat man ("Come back with a man."), Kallia again ("you'll want a man a goat will walk for"):
+    **CLOSED.** Ch.11 shows the requirement by action (the cousin's price, the yard); nobody tells Mara again that she needs a man.
+  - **The price of the god itemized: SPENT** (Euthydikos's speech; Mara's one-line summary to Kallia). Later chapters refer to the
+    pelanos, the goat or the sponsor singly, never as a list again.
+  - **The goat that must shiver:** explained once (Euthydikos) and demonstrated once (the goat man's handful of water, "Like a
+    bride."). Ch.12–13's goat is shown, not explained.
+  - **Looking at feet first:** Ch.7's lesson, Ch.8's stranger ("each morning you look at my feet"), Ch.9's slave at the door
+    ("looked at my feet first, as everyone in Delphi did"): CLOSED at 3.
+  - **The silent mutual look at the notice** ("I was looking at him. I looked at his face." / "He looked back at me while a cart
+    came in…"): SPENT. **"He let the gray drink first."**: spent as a closing line and as a beat.
+  - **The notice's text: do not re-quote.** Ch.12's knowledge path refers to it in Valens's own words; the scar is never again
+    given in the notice's words.
+  - **Telling the bees:** the bee-man's subject, tagged twice and narrated once in Ch.9 ("He went and told them…"); if he
+    returns (the bowl), once at most. **"said/told the [non-listener]"** stays capped at 1 per chapter for everyone else.
+  - **Hems as a person** (the mistress shown only as "a hem at the balustrade" that "stayed perfectly still", then "the hem was at
+    the balustrade again"): SPENT.
+  - **Mara's purse is "a rag"** (the priest's coins and the two 1998 brass coins knotted together; "the whole of it lay in my
+    palm and weighed very little"; "The rag had gone damp in my fist."): the next mention of her money uses fresh words and
+    no weight comparison.
+  - **Open threads (for the tracker, not motifs):** Mara owes Valens an obol and is holding it; Euthydikos's bowl "When I send";
+    the mistress's mirror via "the kitchen door"; the goat man's she-goat kept warm.
+  - **Similes spent in Ch.9:** filled "like wells"; "fine as the scratches on a long-playing record"; "shiny as boiled sausages";
+    "a skin like an orange's"; "tear like old cloth"; "as regular as the flutes on the stand"; "fluted like a column"; "as though I
+    had ridden in on a mule"; "like somebody patting her pockets for a key"; the red crayon on a schoolroom radiator; the goat
+    man's "Like a bride.".
+  - **Counts on the final draft:** hinge-family paragraph openers 0; "So" openers 0; "before I had decided" 0; "the one / the
+    only" 1 ("the one office in Phocis"); negation pivots 0; "He meant…" 0; "as if / as though" 1; credential asides 0; and-chains
+    3; em-dashes 0; semicolons 15; command echoed as compliance 0 ("Lower." is answered by "The finger slid down the flute");
+    lying-awake coda 0; English 0; cloth smells 0; taste reactions 0; laughs 0. The unprompted memory broke into a sentence (the
+    crayon smell) and one standalone paragraph opened on a place with no person in it (the hardware store), closing on an act.
+
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
   used as a scene button.
@@ -1987,3 +2164,15 @@ finalizing the chapter. Never add a tic to fix it.
   (SPENT); Philista's barked commands repeated (WATCH); the Prometheus aside (spent once); Nikaso's frozen-cloaks story
   (CLOSED); the flashlight's status (unmentioned until used or seen); the P6–P11 second uses; Valens's glimpse
   escalation; the peak-as-laugh and memory-frame cross-book patterns. Tic-bearer roster still NONE.
+- 2026-10-19 (Writer, Ch.9): added EUTHYDIKOS (priest of Apollo; a witness on the manumission; hires Mara; talks about her to his
+  slave in the third person; chilblains; the wiped hand) as a minor named card, tic: none. Extended MARA (the question composed in
+  Greek; "which was where I was from, now"; the mend as hands at work, dug out three times; the wager; "Perhaps it was the soot.";
+  the rag of coins and Valens's obol; no English), VALENS (one practical spoken exchange over pitch at the priest's rear gate, as
+  the Ch.8 eval asked; the notice read in silence; "He let the gray drink first."; still nameless to him; no romance signal) and
+  KALLIA (her varied reply is an act: the basin and the washing clay; "a man a goat will walk for"). Added the Ch.9 walk-on note
+  (the letter-cutter; Aphrodisia glimpsed; the slave at the door, the smith, his boy, the bee-man, the mistress; the boy at the
+  culvert; the goat man; the men at the board) and the at-risk after Ch.9 block (the redo-the-seam sequence SPENT at two; the wiped
+  hand SPENT; "a man" as the requirement CLOSED; the price list SPENT; feet-first CLOSED at 3; the silent look SPENT; notice text not
+  re-quoted). Planned-roles row for the priest marked WRITTEN. No device collisions: nobody but Mara notices materials or joins (the
+  smith knows his own lead as a tradesman's fact; the letter-cutter knows letters and pay); nobody counts or lists except the priest's
+  one fee speech, now spent. Tic-bearer roster still NONE.
