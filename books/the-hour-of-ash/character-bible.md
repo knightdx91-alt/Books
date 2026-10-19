@@ -89,6 +89,15 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   **All-or-nothing** (Ch.1, 5, 7, 9, 20, 29, 33; the ending must read as accepting a seam, not as this
   distortion). **Mrs. Dunphy** (Ch.7 green cardigan; Ch.24 brown; Ch.41 unsure it was long division).
   **Mundane breaks** (Ch.6 the scream, Ch.20 the pebble, Ch.22 the sneeze).
+- **CONTINUITY COMMITMENT (from late Ch.7, ¶378; logged 2026-10-19 from the Ch.7 re-evaluation):** "from the
+  next night I kept even my own company in Greek." From that night on, Mara does **not speak English to
+  herself**: no muttered English, no English said aloud alone in the dark, no English prayer or curse under
+  her breath, and no English address or name recited to keep it. **English to a listener does not break it:**
+  her English with Fenn (Ch.25 on) is speech to another person. Any later solitary English must be written as
+  a **deliberate, visible break** of this commitment, and the page should register it as one. (Her English
+  *thoughts* are the narration itself and are not affected.) The commitment is her all-or-nothing distortion
+  escalating inside one chapter (¶148 public silence → ¶378 private English); the beat of renouncing a register
+  is SPENT after these two (see at-risk after Ch.7, cycle 1).
 - **DISTINCTNESS GUARANTEE:** the only voice in the book that sees how a thing was made and where it was
   mended, against Valens, who sees where a thing or a man will move next.
 - **Sample line:** "Somebody's glued this before, look, there's an old line under the new one, and
@@ -222,7 +231,8 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   him"; the scar "in a ladder".
 
 - **Ch.7 as written (Writer, 2026-10-19; brief, the middle of her month of public silence. SYNCED to the final page
-  2026-10-19, after dialogue-polish, disruptor and continuity repair; every quote below is on the page):** comes to
+  2026-10-19, after dialogue-polish, disruptor, continuity repair, polish cycle 1 and the three finalize fixes; every
+  quote below is on the page, checked by script):** comes to
   Kallia's gate with the mules for the fifth coin. Mara, in her month of public silence and taught to look at men's
   feet, sees ONLY his boots (rawhide, laced to the shin, one lace broken and knotted). Lines: "It burned." / "Oak
   doesn't spit." / to Mara: "She's taught you to walk," / "You've stopped talking." / to Kallia's "She's simple": "No."
@@ -349,9 +359,13 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   "The shovel comes back." Mara thanks her for the blanket in English; Kallia: "Shut the gate behind you." Still
   never touches Mara, never asks her name, never speaks of herself.
 - **Ch.7 as written (Writer, 2026-10-19; winter AD 70-71. SYNCED to the final page 2026-10-19, after dialogue-polish,
-  disruptor and continuity repair; every quote below is on the page):** takes the shovel back ("Let the god put an edge
+  disruptor, continuity repair, polish cycle 1 and the three finalize fixes; every quote below is on the page, checked
+  by script):** takes the shovel back ("Let the god put an edge
   back on it.") and says nothing more about the mountain that morning. Dresses Mara in the runaway girl's tunic, cord
-  and himation ("She took herself off when the grapes came in, in what she stood up in." / "Not to carry water in.").
+  and himation ("She took herself off when the grapes came in, in what she stood up in." / "Not to carry water in. The
+  hem hides the boots if you walk right. You don't walk right.", one unbroken speech since cycle 1, with no exit inside
+  it). Gives her lessons in the court in the slack hour, ignoring the Thebans' advice; after the cheese-man she "stood
+  square before me with a pot in her hands" for the eye lesson.
   Lessons as tasks: walking ("Shorter. From the knee. You're not going up a mountain." / "So the town says." / "You see
   their feet." / "You've no ears. I answer."), SITS once to demonstrate (the only time on the page; up before the stool
   stops rocking: "You sit like you paid for the bench."), eyes, given as ONE speech with no beat inside it ("He was
@@ -843,15 +857,16 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   road", which are not on the page.)
 
 #### Ch.7 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
-*(Synced to the final page 2026-10-19, after dialogue-polish, disruptor and continuity repair. Every quote below is on
-the page.)*
+*(Synced to the final page 2026-10-19, after dialogue-polish, disruptor, continuity repair, polish cycle 1 and the three
+finalize fixes. Every quote below is on the page, checked by script.)*
 - **The baker's wife at the women's bath:** soft and heavy, a red clay lamp in her fist; at the bath since before light
   because "his mother has moved in on us for the winter, and that house was never built for two women who both know
   best." Offers to singe Mara's legs with the lamp ("Stand still, I'll singe them for you. It doesn't hurt if you don't
   jump."); "She's let herself go like a widow." (to Kallia's face, unremarked); to Kallia's "where she's from": "And
   where's that, where they've no lamps?" (her lamp, her body-talk); finds the vaccination scar ("Somebody's marked
   her."); teases Kallia that "Everything's over the sea with you" (Kallia once said her Thebans came by ship; they
-  walked). Attention: bodies and household feuds. No device; notices no workmanship.
+  walked). Attention: bodies and household feuds. No device; notices no workmanship. Since cycle 1 she does not laugh:
+  "The woman with the lamp gave me my arm back." (the bath now ends on Kallia's flat lie and the cow's pox).
 - **The girl with the mole** (bath): turns Mara's wrist toward the window ("What's this white, then? Has she had a
   fetter on?"), asks "Is she bought?" / "Is that where they put it, over there?", offers the burnt-horn powder ("Horn.
   Burnt and ground. Goat's is best."), smiling with a full set of sound teeth (Mara's teeth chaos, NOT an
@@ -874,30 +889,44 @@ the page.)*
   drops the jar. He is NOT asking after Mara (the Ch.7-8 rule holds): he is a man at a spring.
 - **The four men in the latrine** ("Thirty-two the jar at Kirrha … the Jews' war … what have the Jews got to do with
   my—"). **The cheese-man** from the valley villages (no line). **The Thebans**: the bassoon voice on the gallery ("Put a
-  cushion under it, and another girl under the cushion!"); "Kallia, is she a goat, that she eats the hedge?" **The
-  father with three sons and a boundary wall** (council hall): "Some of us have a wall coming down, Sosandros." **The
-  clerk's boy** (carries the brick).
+  cushion under it, and another girl under the cushion!"); "Kallia, is she a goat, that she eats the hedge?"; one of them
+  snoring "somewhere along the gallery" on the storeroom night (¶378). **The father with three sons and a boundary
+  wall** (council hall): "Some of us have a wall coming down, Sosandros."; while Mara's tongue is on the lentisk
+  splinter, "the father behind us was back on his wall" (cycle 1; it replaced a laugh in the queue, so the line pays
+  off his grievance as comedy without a laugh). The men in the line no longer laugh at anything. **The clerk's boy**
+  (carries the brick).
 - **Mention only:** "the girl" who ran off at the vintage (UNNAMED by design; her himation of wet-sand brown, quince
   hair oil, a dark crimped hair in the fringe, a hurried darn); the nurse at a pediatric clinic in West Philadelphia
   (the smallpox vaccination); a friend's husband's gin and tonic on Rittenhouse Square; **Syracuse known only from her
-  father's slides** (a quarry deep enough to stand a church in, the fountain of papyrus and ducks, and his voice in the
-  dark kitchen saying the gelato there tasted of nothing but cold: he never took her abroad, per foundation §3); the
-  offprints from Nicosia printed "Aimilios Reyes", one pinned to the corkboard by the telephone; Mrs. Dunphy (see her
-  card; Ch.7 surfacing done). (Removed in the sync: the young man in the good cloak past the running track, whose
-  paragraph the disruptor cut, and a travel memory that broke canon, removed by the continuity repair, C-01.)
+  father's slides** (a quarry deep enough to stand a church in, a fountain full of papyrus and ducks, and "his voice in
+  our dark kitchen telling me the gelato there tasted of nothing but cold", which since cycle 1 is where the memory
+  ends: he never took her abroad, per foundation §3); the offprints from Nicosia printed "Aimilios Reyes", one pinned
+  to the corkboard by the telephone; Mrs. Dunphy (see her card; Ch.7 surfacing done). **Mara's Philadelphia building**
+  (¶378, recalled in the dark, never revisited): a street door, a vestibule with mailboxes, hers so marked ("mine had my name
+  inked on a bit of tape"), stairs, a second landing (her flat is at least two flights up; ENTITY_STATE carries the facts); and
+  the counters where she gave the address, "at the dry cleaner's and the circulation desk". (Removed in the syncs: the
+  young man in the good cloak past the running track, whose paragraph the disruptor cut; a travel memory that broke
+  canon, removed by the continuity repair, C-01; the dry closing sentence after the slides memory, cut in cycle 1.)
 - **Spent in Ch.7 (do not reuse):** "a piece of luck lying in the road for whoever bent down first"; "the way a clerk at
-  a counter wanted a zip code"; "quince or something with ambitions to be quince"; "bagged into the shape of another
-  woman's arms"; "like a woman carved on a grave"; "You sit like you paid for the bench"; "In here you look at the pots";
-  "the price of oil stopped"; the cow's-pox aside; "a different word with the same lentils in it"; "correct was an
+  a counter wanted a zip code"; "heavy and not new"; "quince or something with ambitions to be quince"; "bagged into
+  the shape of another woman's arms"; "She gave her lessons"; "like a woman carved on a grave"; "You sit like you paid
+  for the bench"; "stood square before me"; "In here you look at the pots"; "The price of oil stopped"; "They looked me
+  over for weight and for flaws"; the cow's-pox aside; "a different word with the same lentils in it"; "correct was an
   accent like any other"; Antigone / bury your brother; "the lane gave way back"; "There's no such country." / "Then
-  why aren't you in it?"; "Hers was the one question I could not answer by doing something."; "the knot standing up
-  like a little fist"; "the boots took themselves off"; the green weed "combed all one way by the water" on the lion's
-  lip; "I had heard the boat invented"; "a city tied onto it"; "It did not seem the right moment to bring that up.";
-  "half the stand had to help him get a cup of water"; "as flat as Philadelphia"; "a Nereid or a star with four legs";
-  "the boundary wall came forward with its three sons"; "the least lasting surface in Delphi"; "light at both ends";
-  "nobody in there understood it"; "the hedge was better company than he was"; "burnished slip scoured to a dull fog".
-  (Removed in the sync: "a woman stripped of her clothes in that room was a document", cut by the disruptor; "a
-  sea-nymph or a star with four legs", now "a Nereid…" after continuity W-05.)
+  why aren't you in it?"; "Hers was a question I could not answer by doing something."; "the knot standing up like a
+  little fist"; "the boots took themselves off"; the green weed "combed all one way by the water" on the lion's lip; "I
+  had heard the boat invented"; "a city tied onto it"; "half the stand had to help him get a cup of water"; "as flat as
+  Philadelphia"; "a Nereid or a star with four legs"; "It was the size of nothing, and it took up my entire mouth.";
+  "back on his wall"; "the boundary wall came forward with its three sons"; "the least lasting surface in Delphi";
+  "light at both ends"; "the hedge was better company than he was"; "burnished slip scoured to a dull fog"; and from the
+  storeroom scene (¶378, cycle 1 + finalize): "English went with the rest"; "how much of it was already gone"; "across a
+  hundred counters"; "After the two letters came nothing."; "A one came, and then a nine, and after the nine only
+  guesses."; "I had to go back for the zip code, the long way."; "my name inked on a bit of tape"; "the figures turned
+  up again in their right order"; "kept even my own company in Greek"; "a woman I had to think about before I knew her".
+  (Removed in the syncs, so no longer on the page and not quoted here: the disruptor's cut line about a stripped woman at the
+  bath; the earlier sea-nymph wording of the Nereid gloss, W-05; and three lines cut in cycle 1: the dry kicker closing
+  the slides memory, the exclusivity wording of ¶190 (now "Hers was a question…"), and the old ¶376 summary clause about
+  giving up English in the storeroom.)
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -995,7 +1024,10 @@ the page.)*
   a remainder; the class does the problems twice; the paragraph ends on the bell, her wiping her face "with the backs
   of her fingers", and "said we could go". The not-knowing stays implicit: the closing sentence saying nobody in the room
   ever learned why was cut (continuity W-12), and "None of us went for the principal" replaced a "Nobody" opener. Later surfacings
-  (Ch.24, Ch.41) must not end on not-knowing either.
+  (Ch.24, Ch.41) must not end on not-knowing either. **After polish cycle 1** the paragraph (now ¶380) is byte-identical, but
+  it follows the storeroom scene's walk through the Philadelphia building, so it reads slightly less uninvited than the outline asks (re-eval).
+  Ch.24 and Ch.41: let Dunphy arrive straight out of the present scene, never right after another memory or a remembered
+  walk.
 
 #### SOSANDROS — clerk to the Delphian council; enters households on the tribute lists (Ch.5 unnamed, "the thin man in the doorway" who corrects the herald; named Ch.7)
 - **Attention / worldview:** correct forms. Titles in full, a city's proper name ("Syrakousai"), the right column for a Theban
@@ -1022,8 +1054,9 @@ the page.)*
 - **DISTINCTNESS GUARANTEE:** the official who corrects the name of a city and misspells a woman without asking,
   against the Ch.17 Corinth archive clerk, who is bored, eats figs and corrects nothing.
 - **Sample line:** "Bring me the father's name and the city, and spare me the rest; the wax is cold enough."
-- **Ch.7 as written (Writer, 2026-10-19. SYNCED to the final page 2026-10-19, after dialogue-polish, disruptor and
-  continuity repair; every quote below is on the page):** at a table at the end of the council hall beside the square,
+- **Ch.7 as written (Writer, 2026-10-19. SYNCED to the final page 2026-10-19, after dialogue-polish, disruptor,
+  continuity repair, polish cycle 1 and the finalize fixes; the council scene is unchanged by cycle 1 apart from ¶348's
+  queue line; every quote below is on the page, checked by script):** at a table at the end of the council hall beside the square,
   a line of householders before him, the tribute lists (the talk at the spring is that the new emperor means to take
   back Nero's "freedom"; nobody there knows when, and the council wants every house on tablets "before Rome put a
   governor back in Corinth to ask for it"). Lines on the page: "Kallia. The lodging over the spring." / "Boy, the
@@ -1181,7 +1214,8 @@ line each, so that walk-ons don't all sound like Mara.
   - **The flashlight (Ch.6):** in the duffel, unused in the cave, kept from Valens's sight ("I had let him burn his
     pines rather than have him see it"). The Ch.5 rule stands: any use must reckon with being seen.
 - **At-risk after Ch.7 (Writer, 2026-10-19; SYNCED to the final page 2026-10-19 and extended from the dialogue-polish,
-  disruption and continuity-repair logs and the Ch.7 continuity audit):**
+  disruption and continuity-repair logs and the Ch.7 continuity audit; re-synced after polish cycle 1 and the finalize
+  fixes, with the cycle-1 entries in the next block):**
   - **A walk-on reading Mara's body for ownership marks** (the pale watch band as a fetter, the vaccination scar as a
     brand, at the bath): used once, SPENT. The scar and the band may recur as objects only, in fresh words.
   - **Mara mocked for her Greek in public** (Ch.5 the son and the guide; Ch.7 the salt-seller's "Antigone"): three
@@ -1192,7 +1226,7 @@ line each, so that walk-ons don't all sound like Mara.
     before then.
   - **The broom across the threshold**: Ch.7 shows it twice (the morning rule; the last morning). Ch.10 has the anchor;
     word it fresh there and do not show it again in Ch.8-9.
-  - **Kallia's "you've no ears / I answer"**: the lesson is given once; do not have her repeat it as a rule.
+  - **Kallia's "You've no ears. I answer."**: the lesson is given once; do not have her repeat it as a rule.
   - **"simple"** as the town's word for Mara: 5 on the page, all in Ch.7. The drover says it twice in one speech ("Kallia's
     simple one. Is she simple all over…"), and Kallia three times ("At the spring they say you're simple", "Simple girls
     don't get asked anything", "She's simple" to Valens). RETIRED for Mara after Ch.7, for every speaker, Valens included.
@@ -1201,15 +1235,17 @@ line each, so that walk-ons don't all sound like Mara.
   - **"Nereid" as the gloss on Maira** (2 in one Ch.7 paragraph: "a Maira among the Nereids", "a Nereid or a star with four
     legs"): SPENT. The Homeric gloss on her name is not given again, and the narration never hands her the rumour's word
     "nymph" (continuity W-05).
-  - **Credential asides**: the detector counts 0 in Ch.7 after the disruptor's trim of the language paragraph; a manual
-    count finds 2 (the Erasmian schooling; "the one tragedy I had read through twice in the original", audit N-19). Keep
-    it low.
+  - **Credential asides**: the detector counts 0 in Ch.7 (re-measured after cycle 1); a manual count finds 2 (the
+    Erasmian schooling; "a tragedy I had read through twice in the original", audit N-19, softened in cycle 1 when the
+    exclusivity frame came out of it). Keep it low.
   - **Kallia's "Then [retort]" reply shape** (Ch.6 ×2, "Then she can stand in the lane and think about the brown." and
     "Then it'll spit oak."; Ch.7 ×1 after dialogue-polish cut three, "Then why aren't you in it?"): **max 1 per chapter**
     in Kallia's mouth. Her default is the imperative or the task.
-  - **Kallia walking off mid-exchange** (WATCH): the disruptor cut it from 6 to 3 in Ch.7 ("She was already going.", the
-    broom-gallery exit, "She was at the woodstack"). It matches her card ("goes and does something instead"), but stage it
-    a different way each time and never more than 3 in a chapter.
+  - **Kallia walking off mid-exchange** (WATCH): the disruptor cut it from 6 to 3 in Ch.7, and cycle 1 took it to **2** by
+    merging ¶32 into one speech. The two on the page: the broom put back, "and she was on the stair again" (¶78); "When I
+    stood she started home" (¶358). "She was at the woodstack" (¶394) is a task beat inside the midwinter exchange, not
+    an exit. The cut ¶32 exit wording is SPENT. It matches her card (she goes and does something instead of finishing),
+    but stage it a different way each time and never more than 3 in a chapter.
   - **Kallia handing Mara things** (WATCH): Ch.7 now 1 (the empty jar at the walking lesson) after dialogue-polish and the
     disruptor cut the carders, the pot to scour and the lentil bag. Her corrections are no longer hand-offs. Keep it rare.
   - **"The [color] of [thing]" as a sentence shape**: CLOSED at 2 (Ch.1 "the pink of boiled ham", "the color of an old
@@ -1221,7 +1257,7 @@ line each, so that walk-ons don't all sound like Mara.
     both Ch.7 uses cut by continuity W-09): SPENT. Her Attic is described some other way, or not at all.
   - **Performance similes for her Greek** (a listener comparing it to a performer or a reciter: Ch.5 "like the man who
     reads out the laws", "like a schoolboy reciting for a master with a cane"; Ch.6 "a schoolmaster's Greek"; Ch.7 the
-    salt-seller's stage, which stays, and Sosandros's "like a man in a play", which was cut, W-10): SPENT.
+    salt-seller's stage, which stays, and a stage comparison in Sosandros's mouth, which was cut, W-10): SPENT.
   - **Mara's job statement** (Ch.3 "I fix pots. In a museum."; Ch.5 "…for a living"; Ch.6 the cliff speech; Ch.7 "My work is
     pots older than this house, that somebody has dug up."): 4 uses, SPENT until the plot needs it. When it does, the
     statement is new information, not a paraphrase of these four.
@@ -1233,8 +1269,9 @@ line each, so that walk-ons don't all sound like Mara.
   - **Water rising in a jar** (Ch.7 ×2 after the disruptor cut it from 4: "The water came up into its neck." at the spring;
     "watched it climb to the shoulder" at the close): WATCH. One at most in Ch.8, worded fresh, or none.
   - **"Nobody/somebody" indefinites in narration** (WATCH): Ch.7 went from 24 to 18 across speech and narration after
-    continuity W-18 (nobody 5, somebody 8, anybody 3, everybody 2); the narration still carries 12, among them the
-    thematic "belonged to somebody" / "to be somebody's", which stay. Hold incidental ones down, and no sentence-initial
+    continuity W-18, and to **17** after cycle 1 cut the old ¶376 summary clause (final page: nobody 4, somebody 8,
+    anybody 3, everybody 2); the narration now carries 11, among them the thematic "belonged to somebody" / "to be
+    somebody's", which stay. Hold incidental ones down, and no sentence-initial
     "Nobody" in narration beyond one per chapter (Ch.7's is "Nobody asked it unkindly").
   - **"What was he called? Your husband's brother."** (Mara, during the Syracuse briefing; Kallia talks past it): used
     once, UNANSWERED by design. Do not re-ask it and do not have anyone answer it. Cascade (audit N-07): the register
@@ -1242,6 +1279,52 @@ line each, so that walk-ons don't all sound like Mara.
     Kallia's in-laws must not contradict it.
   - **Also from the audit's patch list:** "as broad as" (Ch.5 "as broad as a coin"; both Ch.7 uses cut, W-20): SPENT, and
     no coin as a ruler. Kallia blaming the gray for the pomegranate (Ch.6, Ch.7): SPENT (audit N-06).
+- **At-risk after Ch.7 polish cycle 1 + finalize (bookkeeping sync 2026-10-19, from the "RE-EVALUATION — polish cycle 1"
+  section of `evaluations/chapter-7-eval.md` and `evaluations/revision-chapter-7-cycle1.md`; these are narrator MOVES,
+  shapes the n-gram gates cannot see, so the Writer prompt for Ch.8 must carry them by name):**
+  - **The command echoed as compliance** (an order, then the narrator repeating the order's word as her action):
+    **book-wide 3 on the page**: Ch.1 "Stand on the mat." / "I stood on the mat."; Ch.6 "Sit back." / "I sat back.";
+    Ch.7 "Say it again." / "I said it again." (kept: the salt joke needs it). Cycle 1 cut Ch.7's other two (¶38, ¶158).
+    **SPENT: no fourth anywhere in the book.** Show compliance by its result ("The toes of the boots still showed at
+    each step") or not at all. The gate detector is not yet built (pipeline #15a), so this is enforced by hand.
+  - **The "So I… / So she…" paragraph opener** (the narrator's consequence hinge): the gate (`tic_report.py`,
+    `SO_OPENER_RX`) now caps it at **1 per chapter** and prints a WATCH at 4+ consecutive chapters. It has appeared in
+    **six consecutive chapters** (Ch.2–6, one each on the page, plus the Ch.7 draft's two, at ¶34 and ¶132, both cut in
+    cycle 1; the final Ch.7 has 0). **Ch.8: NONE**, so the streak stays broken. Open on the action itself.
+  - **"before I had decided / thought"** (the body outrunning the mind): the gate caps it at **1 per chapter**, and Ch.7
+    sits at the cap with the one it keeps, the father's name (¶334, "The Greek of it was out before I had decided
+    anything about it."). Cycle 1 cut two more, and the related clause that had her eyes go down by themselves (¶376). Related forms book-wide: Ch.1
+    "before I had checked anything at all", Ch.4 "without deciding to", Ch.6 "I had not meant to". **Ch.8: none**; let
+    the act stand without a clause about the will. The epistemic "before I knew" (¶198, ¶378) is a different
+    construction, ruled out by the evaluator, but hold it at those two.
+  - **The memory-paragraph kicker** (a remembered scene closing on a short dry sentence that comments on it): Ch.3, Ch.5,
+    Ch.6 ×2, and Ch.7's slides memory at ¶288, where the continuity repair wrote it and cycle 1 cut it. **SPENT.** A memory
+    insert ends on its image, an act or an object: the slides memory now ends "tasted of nothing but cold", and Dunphy on
+    the bell and "said we could go". Every edit pass (repairs included) gets this pattern check; the gate heuristic is
+    not yet built (pipeline #15d).
+  - **"the one / the only [X]" exclusivity claims**: **cap 3 per chapter.** Ch.7 is at 3 after cycle 1 thinned it from 6:
+    "the one thing Kallia never did in my sight" (¶56), "The one door in that house I was not let near" (¶78), "the only
+    thing in that whole country that had ever said I was in it" (¶356). Narrator glosses on Kallia's exceptions (the
+    rarity glosses) are at 2 (¶12, ¶56): **Ch.8 ≤1.** Proposed gate frame: `\bthe (one|only) \w+ (that|who|which|I|in)\b`.
+  - **The address-and-zip-code scene** (¶378: her Philadelphia address said aloud in the dark, the zip code lost after
+    "A one came, and then a nine", recovered by walking her own building in her head): **SPENT.** The **zip-code pair is CLOSED at
+    2** (¶6 the clerk's box, ¶378 the loss): no third "zip code" anywhere, and her address is never recited again.
+    **Recovering a memory by walking a remembered place** is SPENT with it.
+  - **Renouncing a register for good** (¶148 her month of public silence; ¶378 English kept from herself): SPENT after
+    these two. No third beat of her giving up a kind of speech from then on, in any wording. The private-English renunciation is now a continuity
+    commitment on Mara's card.
+  - **The bath and queue laughs** (walk-on texture laughs used to loosen a scene): cycle 1 cut the lamp woman's laugh at
+    the bath (¶112) and the men's laugh in the council queue (¶348; now "the father behind us was back on his wall").
+    Ch.7's laugh events are 3, all load-bearing: the row and the man at the fountain (¶146) and the step (¶356), which is
+    **the only laugh Mara completes**. **SPENT** as a device; in **Ch.8 the laughter channel stays quiet apart from the
+    outline's bawdy song**.
+  - **Also from the re-evaluation:** the "the way [pronoun/article]" comparison frame is at 6 in Ch.7 (0.95/1k): **WATCH,
+    ≤4 in Ch.8.** "one breath" is now single in Ch.7 (¶56) after finalize F1 removed the ¶378 instance; "Under my breath"
+    (¶378) is volume, not a breath beat. Kallia's reply-with-a-task runs about nine times in Ch.7: in Ch.8 give her **one**
+    reply that is silence, a question back or an act that is not a chore. Cycle-0 bookkeeping items, all SPENT: the
+    self-placing verb cut from ¶64 (now "stood square"); the ¶32 exit cut in cycle 1; the bare-nothing sentence cut from
+    in front of "the size of nothing" (¶348); a second "that was all" (Ch.7 keeps ¶20 only). Kallia paying from her kerchief knot (Ch.6,
+    Ch.7): rest until Ch.10. Mara's eyes-down business, the chapter's subject in Ch.7: CLOSED after Ch.7.
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
   used as a scene button.
@@ -1433,3 +1516,25 @@ finalizing the chapter. Never add a tic to fix it.
   plus "as broad as" and the gray-and-pomegranate gag from the audit's patch list (SPENT). Credential asides re-counted
   (detector 0, manual 2). Not done here: ENTITY_STATE's `objects.the-girls-himation` "wet-sand brown" belongs to the
   entity-tracker. Tic-bearer roster still NONE.
+- 2026-10-19 (bookkeeping sync, Ch.7 FINAL page after polish cycle 1 and the three finalize fixes; no chapter text
+  touched; git not run): every Ch.7 quotation in the bible was checked by script against chapter-7.md, and each one no
+  longer on the page was replaced or removed. Replaced: the ¶190 line (now "Hers was a question I could not answer by
+  doing something."), the ¶146 credential aside (now "a tragedy I had read through twice in the original"), "You've no
+  ears. I answer." in its page form, the slides memory (now ending "his voice in our dark kitchen telling me the gelato
+  there tasted of nothing but cold"). Removed: the cut slides-memory kicker, the cut ¶376 summary clause and the cut ¶32
+  exit from the spent and WATCH lists; verbatim quotes of earlier cut lines (the bath line about a stripped woman, the sea-nymph
+  gloss, Sosandros's stage comparison) are now described, not quoted. KALLIA: ¶32 as one speech, "She gave her lessons",
+  "stood square before me"; walk-offs 3 → 2 (¶78, ¶358; the woodstack is a task beat). Walk-ons: the lamp woman no
+  longer laughs; the queue laugh is now "the father behind us was back on his wall"; a Theban snoring on the storeroom
+  night; Mara's Philadelphia building and counters added as mention-only (finalize wording: "at the dry cleaner's and the
+  circulation desk"; "how much of it was already gone"). Spent list extended with the cycle-1 and storeroom phrases.
+  Indefinites re-counted (17; narration 11). MRS. DUNPHY: byte-identical at ¶380, slightly less uninvited after the
+  storeroom; Ch.24/41 must arrive from the present. MARA: CONTINUITY COMMITMENT added (from late Ch.7 she keeps even her
+  own company in Greek, so no English to herself; English to a listener, Fenn later, does not break it). New at-risk block
+  after Ch.7 cycle 1: echo-compliance (book-wide 3, SPENT); "So I…" opener (gate cap 1/ch; six consecutive chapters
+  counting the Ch.7 draft; Ch.8 none); "before I had decided" (cap 1/ch, Ch.7 at cap; Ch.8 none); the memory-paragraph
+  kicker (SPENT); "the one/only" exclusivity claims (cap 3; Ch.7 at 3; rarity glosses ≤1 in Ch.8); the address-and-zip-code
+  scene (SPENT; zip-code pair CLOSED at 2; walking a remembered place SPENT); renouncing a register (SPENT after two); the
+  bath and queue laughs (SPENT; Ch.8 laughter quiet apart from the bawdy song); the "the way [pronoun]" frame (WATCH ≤4 in
+  Ch.8); Kallia's task-reply to vary once in Ch.8; the cycle-0 bookkeeping items. Not done here: ENTITY_STATE's
+  Philadelphia apartment facts belong to the entity-tracker. Tic-bearer roster still NONE.

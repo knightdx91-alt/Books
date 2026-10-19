@@ -19,19 +19,20 @@ What was done:
   mode + Step D.6 shape audit, docs updated.
 
 ## Resume point
-**LOOP RUNNING — resume at Ch.7 "The Laws of Belonging" (2026-10-19). Ch.6 FINAL.** Checkpoint 1 reviewed; the
+**LOOP RUNNING — resume at Ch.8 "The Thyiades" (2026-10-19). Ch.7 FINAL.** Checkpoint 1 reviewed; the
 author said "Make the fixes then continue". The independent-read fixes are in (Ch.2 asides; Ch.3
 trimmed to 5,628; Ch.5 to 7,858 with the town-Greek clause) and Ch.3/Ch.5 re-evaluated PASS. Next
 checkpoint after Ch.10 (`feedback/review-ch6-10.md`). Hook/pull types used so far: Ch.1 CONTRAST /
 QUESTION-PLANT, Ch.2 VOICE / EMOTIONAL-GUT-PUNCH, Ch.3 SENSORY-IMMERSION / CLIFFHANGER, Ch.4
-IN-MEDIAS-RES / REVELATION, Ch.5 QUESTION / DECISION-POINT, Ch.6 IN MEDIAS RES / OMINOUS PROMISE — every pull type now used once; from here only no back-to-back repeats (Ch.7 must not use IN MEDIAS RES or OMINOUS PROMISE). Ending signatures so far:
-quiet, long-fade, punch, dialogue, long-fade, dialogue (no long-fade before Ch.8). Gear: Ch.1 and Ch.6 were mid rows that landed low (median 11) — Ch.8's writer gets a gear brief. New gates in `tic_report.py
+IN-MEDIAS-RES / REVELATION, Ch.5 QUESTION / DECISION-POINT, Ch.6 IN MEDIAS RES / OMINOUS PROMISE, Ch.7 VOICE / QUESTION PLANT — from here only no back-to-back repeats (Ch.8 must not use a VOICE hook or a QUESTION PLANT pull; TICKING CLOCK is the one hook type never used). Ending signatures so far:
+quiet, long-fade, punch, dialogue, long-fade, dialogue, question. Gear: Ch.1 and Ch.6 were mid rows that landed low (median 11) — Ch.8's writer gets a gear brief. New gates in `tic_report.py
 --gate`: and-chains ≤ max(9, words/900), credential asides ≤4, no prop handled 3+ in 400 words.
 **Keep Ch.6–8 moving** — Valens arrives in Ch.6, the book's first romance beat. WATCH: the at-risk
 list in character-bible.md; `--echoes N` on every fresh draft; Kallia's hands are tasks, never
 handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Chapter log
+- **Ch.7 "The Laws of Belonging"** — 6,122w · Floor 8.5 / Avg 8.64 / Casual 8.5 / CVI-L 9.3 / Emotion 9.0 · 1 polish cycle (Prose: narrator moves) + a continuity repair (2 CRIT / 20 WARN) · the registration as Kallia's free kinswoman · full chain in STATE.yaml history.
 - **Ch.6 "Snow at the Cave Mouth"** — 6,639w · Floor 8.5 / Avg 8.57 / Casual 9.0 / CVI-L 9.4 / Emotion 9.0 · 1 polish cycle (Prose: nine narrator-law items) + a continuity repair (1 CRIT / 19 WARN) · Valens's first appearance · full chain in STATE.yaml history.
 - **Author fixes (checkpoint 1, 2026-10-19)** — Ch.2 asides 8→3; Ch.3 6,837→5,628 (chains 21→6, asides 4) re-eval PASS Floor 8.5 / Casual 9.0; Ch.5 8,184→7,858 (chains 7, asides 4, town-Greek clause) re-eval PASS Floor 8.5 / Casual 8.5.
 - **Ch.1 "The Reception"** — 6,546w · Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 9.0 · 2 polish cycles
@@ -52,6 +53,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
   13 audit warnings all fixed · full chain in STATE.yaml history.
 
 ## Pacing log
+- Ch.7 (FINAL): PASS — 6,122w (target 6,600, in range) · dialogue 22% (20–30 ✓) · 3 breaks · gear high (median 17) · essayistic without lecture: every claim paid off in a scene; the cost now shown (storeroom) not summarised · relief lands on the step.
 - Ch.6 (FINAL): PASS — 6,639w (target 7,200, in range) · dialogue 38% (35–45 ✓) · 2 breaks (sections ~800 / ~4,000 / ~1,800) · fast open, measured backfill, short hard break at the wall, slow descent, as planned · gear median 11–12 vs mid accepted · first two-hander lands without romance signals in narration.
 - Ch.5 (FINAL): PASS — decelerates on the Sacred Way, accelerates on the steps and the beating, slow storeroom fade, as planned; dialogue 20.4% at the bottom of the band (narration-heavy by design: a woman who cannot speak); 8,184w vs 8,300; slot: hunger → disappointment/shame → pain → date-shock → shelter; sags noted but accepted: the monument roll-call, the fountain men (now pays off).
 - Ch.4 (FINAL): PASS — fast throughout; the 6,817 → 1,876 collapse is the structural shock the ledger asked for, and the evaluator confirms it lands rather than thins; dialogue 16% in band; theme recedes cleanly (body and survival only); ends on his word, nothing after.
@@ -61,6 +63,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Shape audits
 (every chapter: `python3 tools/shape_check.py books/the-hour-of-ash` from the repo root)
+- after Ch.7 (--strict): CLEAN. Ch.7 `narrative` / `question`; 6,122w; dialogue 22%; 3 breaks; median 17.
 - after Ch.6 (--strict): CLEAN. Openings I-statement / narrative / long-spiral / short-punch / scene-set / I-statement; endings quiet / long-fade / punch / dialogue / long-fade / dialogue; lengths 6,466 / 4,048 / 5,617 / 1,821 / 7,844 / 6,639; dialogue 31 / 15 / 6 / 17 / 20 / 38%; breaks 3 / 6 / 0 / 7 / 4 / 2; median sentence 11 / 16 / 17 / 10 / 17 / 11.
 - after Ch.1: n/a (needs 4 chapters); Ch.1 signatures `I-statement` / `quiet`.
 - after Ch.2: n/a (needs 4); Ch.2 `narrative` / `long-fade`; lengths 6,503 / 4,101; dialogue 31% / 15%; breaks 3 / 6.
