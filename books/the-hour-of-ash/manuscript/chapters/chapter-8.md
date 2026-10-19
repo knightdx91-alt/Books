@@ -1,7 +1,7 @@
 # Chapter 8: The Thyiades
 
 <!-- SCENE BUDGET (Target 8,200; range 7,500-8,800): the court, the rags, the rule about men 850 | the lane, Nikaso, the crows, the last house 900 | the ascent by torchlight 1,200 | the plain, waking the child, the dance 1,250 | away to the cave; the hand in the crack 1,250 | snow; the stair shut; Kallia on the god who answers 850 | the pen: the wet-sandals farce, the frozen cloak 1,000 | the song about husbands 650 | the stranger's cloak, the heap, first light 600 -->
-<!-- Word count: 7,697 (shape_check; wc -w 7,840 incl. header) | Target: 8,200 (range 7,500-8,800) | Dialogue 26.9% (band 25-35%) | Breaks 0 | Median sentence 15 (gear mid) | And-chains 3 | Anchor: women asleep in a heap in the snow, steam rising off them -->
+<!-- Word count: 7,691 (shape_check; wc -w 7,834 incl. header) | Target: 8,200 (range 7,500-8,800) | Dialogue 26.9% (band 25-35%) | Breaks 0 | Median sentence 15 (gear mid) | And-chains 3 | Anchor: women asleep in a heap in the snow, steam rising off them -->
 
 "And once we're above the last house you say nothing about men, not husbands and not sons, whatever they've done to you this winter," Kallia said. "Up there you talk about your feet, or the cold, or you hold your tongue. Wind it harder than that, or it'll be round your ankle before you're halfway up the stair."
 
@@ -25,7 +25,7 @@ The flashlight stayed where it was, at the bottom of my bag under the stair. Thi
 
 "Where on the plain do they dance?" I said.
 
-"Where they danced the last time." She caught the pin at my shoulder, two fingers on the bronze and none on me, and moved it higher.
+"Where they danced the last time." She caught the pin, two fingers on the bronze and none on me, and moved it higher.
 
 The lane had filled with women. The Thyiades, the town called them, the god's wild women, though the ones in sight were mostly worried about their hems. They spilled from every gate in twos and threes, torches unlit, cloaks pulled up; the talk went back and forth between the walls as loud as a market. Two gates up from Kallia's, a small quick woman with a mass of black hair came out and fell in beside us, holding her skirts clear of the frozen slops in two fists.
 
@@ -51,17 +51,17 @@ This, then, was the wife of the man with the sieve. The night I came, I had stoo
 
 At the head of the lane we came out on the street that climbed through the upper town, where the other lanes emptied into it, and the noise doubled at every gate. Men stood in their doorways to watch. Some held torches over the street to see their wives and daughters off, and the light went along the faces under the hoods, each in turn. A boy ran beside us in the gutter shouting his mother's name until she cuffed him home.
 
-At the last gate but one, an old woman sat on a block of stone by her door with a basket of barley in her lap and threw it over the snow a fistful at a time. The crows had dropped to it out of the dusk, a dozen and more, black on the white, walking about on the frozen crust with their shoulders up.
+At the last gate but one, an old woman sat on a block of stone by her door with a basket of barley in her lap and threw it over the frozen ruts a fistful at a time. The crows had dropped to it out of the dusk, a dozen and more, black on the white rime, walking about with their shoulders up.
 
-"Thieves," she was shouting at them. "Black thieves, every one of you. That's not for you, and you know very well whose it is." She threw another handful. "Go on, then. Take it. Choke on it."
+"Black thieves," she was shouting at them, "every one of you. That's not for you." She threw another handful. "Go on, then. Take it. Choke on it."
 
-She kept her free hand on her knee the whole time and gave us not a look as we went by. Nor did any of us spare her one.
+She kept her free hand on her knee the whole time, and her eyes on the crows.
 
 The street ended high in the town at a long low building with a stable at one end, the last roof in Delphi, and there the men stopped. A man stood at its corner holding a gray mule by her headstall, with her face turned in to the stable wall so that the torches would not set her off. It was the gray, so it was Valens; he had his own back to us as well, like every other man in the street, and I saw only the mule's ears go back and forward at the drums and his hand go up her neck.
 
 The drums had started at the front, out of my sight. There were two at first, then four: round frames of hide struck with the palm. Under them a pipe climbed and fell on two notes and never seemed to stop for breath. At the front a woman carried fire in a pot. The women approached it by turns, and the light passed from torch to torch toward us. Kallia held hers to the woman ahead and came away with it burning; Nikaso lit hers from Kallia's, I lit mine from Nikaso's, and the pine caught with a noise like a sheet being shaken out.
 
-The path took the cliff in its switchbacks, as it had in November. Then I had been towed up it on a mule's tail; now I had a torch in my fist, and the women ahead of me took the turns at a pace I would have called reckless on a stepladder, singing. The drums came back late off the rock, so that every beat arrived twice. Above me the torches folded back on themselves at each turn. Below me the town shrank to a smudge of smoke with a few sparks in it, and after that I watched the rock.
+The path took the cliff in its switchbacks, as it had in November. That time I had climbed it in the dark behind the gray; now I had a torch in my fist, and the women ahead of me took the turns at a pace I would have called reckless on a stepladder, singing. The drums came back late off the rock, so that every beat arrived twice. Above me the torches folded back on themselves at each turn. Below me the town shrank to a smudge of smoke with a few sparks in it, and after that I watched the rock.
 
 Ahead of me a tall woman wore a fawnskin knotted over her cloak at one shoulder, dappled side out, and its little black hooves knocked together at her hip as she climbed. Whoever dressed it had left fat on the belly before the tawing, and the hide there had gone stiff as card and was splitting where the ribs had been. Half the women near me carried a stalk of giant fennel instead of a torch, with ivy wound down it and a pine cone jammed on the end, and they leaned on them on the steep parts, which I suspected was not the intention.
 
@@ -133,7 +133,7 @@ After that it was dancing.
 
 The drums went faster, and the women went about the fire, each by herself, with her head back and her torch or her fennel stalk held out at the full stretch of her arm, stamping, turning, crying out when Philista cried. "Louder," she was shouting. "He's been asleep three months. Louder!" Hair came down and hoods fell back. A woman went by me with her mouth open and her ivy over one ear, and another came past with both arms over her head and her torch held so far back that the woman behind her had to duck. The snow at the ring's edge was kicked into the fire and hissed. The whole business was loud and clumsy, hot on the side toward the fire and freezing on the other, and the smoke kept changing its mind.
 
-Kallia pulled off her kerchief. Her hair came down gray to her shoulder blades; it had been under a kerchief every day I had known her, and I had begun to think of it as something she did not have. She stepped into the ring with her arms stuck out stiff from her sides and her chin up, and she danced as she scoured a pot, all of her at once, with no expression on her face.
+Kallia pulled off her kerchief. Her hair came down gray to her shoulder blades. I had seen it only once before, plastered flat at the bath, and I had begun to think of it as something she did not have. She stepped into the ring with her arms stuck out stiff from her sides and her chin up, and she danced as she scoured a pot, all of her at once, with no expression on her face.
 
 Nikaso worked the thong loose from the neck of the skin, drank from the leg, and passed it across. The wine was thick and black and unmixed. It tasted of the pitch the skin was lined with and, a little, of goat, and it went down into me like a hot stone. It made my eyes water. I passed the skin back; she drank again, and was shoving it at me once more while I was still coughing.
 
@@ -149,17 +149,17 @@ Every December two brothers from Vermont sold Christmas trees from the corner lo
 
 My boots kept time with the drum, and my arms did whatever they liked. The women circling the fire circled me as they circled each other, and none of them looked to see whether I was doing it right; when the cry went up I cried out with the rest, a word I had met in Euripides and never had cause to say out loud, and in my mouth it had the Delphian vowels, not the book's.
 
-When the oak had burned down to a red heap, the women came to it by twos and threes to put new pine to the coals. I lit mine with theirs, took a second pine off the pile as some of the others did, and headed out between the rocks beyond the ring, where women had been slipping off into the night all evening in pairs to squat in the snow and coming back hitching up their skirts. Nobody watched them go, and no one watched me. Kallia was in the middle of the ring with her back to me and her gray hair swinging, and Nikaso had the skin.
+When the oak had burned down to a red heap, the women came to it by twos and threes to put new pine to the coals. I lit mine with theirs, took another two pines off the pile as some of the others did, and headed out between the rocks beyond the ring, where women had been slipping off into the night all evening in pairs to squat in the snow and coming back hitching up their skirts. Nobody watched them go, and no one watched me. Kallia was in the middle of the ring with her back to me and her gray hair swinging, and Nikaso had the skin.
 
 Past the pen the firs began, and the drums went behind me into the trees like a party through the wall of the next apartment. Under the firs the snow was deeper and softer, and there was no wind in it at all. My torch lit the trunks nearest me, red on one side; every other trunk was black. The path the mules had taken lay buried under the snow, and I climbed by the slope of the ground and the dark gap overhead where the trees thinned. The climb went on and on. My breath was loud in my ears and the rags on my boots were heavy with snow, and twice I had to stop and knock it off against a root.
 
-The arch was where it had always been. The drift inside it had grown, long and smooth, nearly to the lip. I crossed its crest crawling, with the torch held out to one side, and slid down the inner face into the cave on the seat of my borrowed himation.
+The drift inside the arch had grown, long and smooth, nearly to the lip. I crossed its crest crawling, with the torch held out to one side, and slid down the inner face into the cave on the seat of my borrowed himation.
 
 Inside, the wind and the snow stopped at the arch, and the drum with them. There was the drip, somewhere far back, dropping into its pool, and the torch.
 
-I crossed into the hall at a walk. The great pale stone in the middle slid past on my right, its shoulder wet and shining. Beyond it the floor rose. I climbed the ridged rock keeping a hand to the wall, which was cold and furred with damp. I had been here twice. I knew the roof would come down on my left before it did. When it came I stooped under it, and there was the slab in front of me, leaning where it had leaned, with the crack running the height of it into blackness.
+I crossed into the hall at a walk. The great pale stone in the middle slid past to my left, its shoulder wet and shining. Beyond it the floor rose. I climbed the ridged rock keeping a hand to the wall, which was cold and furred with damp. I had been here twice. I knew the roof would come down on my left before it did. When it came I stooped under it, and there was the slab in front of me, propped against the wall as before, with the crack running the height of it into blackness.
 
-At the bend, low down, there were pale marks on the rock: short raw scratches through the gray, all slanting one way. They were the only new thing in the cave. They were mine; Kallia's little shovel had made them in November, when I was sure there was earth down there to dig. The rock had been unmarked since it was rock, and in one afternoon I had scored it like the bottom of a saucepan. I laid my thumb in one of the scratches. It was an ordinary feeling, the edge of a scratch in stone, and my thumb knew it from a hundred bad repairs that had reached my bench from other people's hands.
+At the bend, low down, there were pale marks on the rock: short raw scratches through the gray, all slanting one way. They were the only new thing in the cave. They were mine; Kallia's little shovel had made them in November, when I was sure there was earth down there to dig. The rock had been unmarked since it was rock, and in one afternoon I had scored it like the bottom of a saucepan. I laid my thumb in one of the scratches. It was an ordinary feeling, the edge of a scratch in stone.
 
 Then I knelt at the crack's widest, at the floor, and eased my hand in flat, palm to the dark, up to the wrist.
 
@@ -167,7 +167,7 @@ The torch burned. Deep in the hall the drip fell, and fell again. My knuckles we
 
 I withdrew the hand and tucked it inside the himation, under my arm, where it ached as it warmed.
 
-I stayed on my knees; this time I hit nothing, and there was nobody to laugh. Once the torch began to gutter I lit the second pine off it and crushed the first out on the rock, and in the new light I looked at the crack again: a black gap the height of the slab, a crack like any other. My knees were soaked. Down on the plain Nikaso would be drinking my share.
+I stayed on my knees; this time I hit nothing, and there was nobody to laugh. Once the torch began to gutter I lit the last of my pines from it and crushed the spent one out on the rock, and in the new light I looked at the crack again: a black gap the height of the slab, a crack like any other. My knees were soaked. Down on the plain Nikaso would be drinking my share.
 
 I retraced the ridged rock, the hall and the slope to the arch, and crawled back over the drift. Outside, the stars had gone. The dark beyond the trees was soft and close. The first flakes drifted down through my torchlight, large and far apart, and the drums had stopped.
 
@@ -191,9 +191,9 @@ We straggled toward the cliff with the wind at our backs. The snow came past us 
 
 "I knelt."
 
-"In there." Then, further on, because the wind had dropped for a breath and she could be heard without shouting: "Was it shut?"
+"In there." Then, further on, because the wind had dropped for a breath and she could be heard without shouting: "Did you find what you went for?"
 
-"Yes. It was shut."
+"No. It was shut."
 
 She let a dozen paces go by.
 
@@ -223,7 +223,7 @@ At the head of the cliff the line bunched and stopped. Philista had gone to the 
 
 The other woman came back after her, slowly, on her hands and knees.
 
-Everybody talked at once. A woman behind me began to cry. "My two are with his mother. She'll have them in her bed with the dog."
+Everybody talked at once, and for a while I could not sort one voice from the next, until single ones came clear of it. A woman behind me began to cry. "My two are with his mother. She'll have them in her bed with the dog."
 
 "They'll be warmer than you," said the woman next to her, "and glad of a night without your feet in their backs."
 
@@ -245,7 +245,7 @@ Everybody talked at once. A woman behind me began to cry. "My two are with his m
 
 We recrossed the plain with the wind in our faces now. I bent my head into it, followed the gray heel of Kallia's rag in front of me, and thought about money. All the money I had in the world was two brass coins from 1998 with a poet on the bigger one; everything else I had was either borrowed or could not be shown. In Philadelphia my pay had turned up in a bank downtown every other Friday without my lifting a finger, and what I was worth in Phocis was anybody's guess.
 
-The pen had walls of stacked stone to the height of my chest and no roof, and a drift in the corner nearest the plain. We kicked the drift out through the gateway and built the fire in the gap where the hurdle had been, so that the wall took the wind and the fire took the gate. There was not much left to burn. The last of the oak went on before anything else. After it the fennel stalks went on singly, ivy and pine cones and all, and the god's wands burned fast and bright with a smell of aniseed, like a licorice store on fire.
+The shepherds' huts were the width of the plain away, somewhere in the dark. The pen had walls of edge-set stone to the height of my chest and no roof, and a drift in the corner nearest the plain. We kicked the drift out through the gateway, dragged the hurdle aside, and built the fire in the gap, so that the wall took the wind and the fire took the gate. There was not much left to burn. The last of the oak went on before anything else. After it the fennel stalks went on singly, ivy and pine cones and all, and the god's wands burned fast and bright with a smell of aniseed, like a licorice store on fire.
 
 Then everybody took off her shoes.
 
@@ -275,9 +275,9 @@ Nikaso set the red sandals in the place of honor, nearest the coals.
 
 "And if I leave it wet it rots on my feet and I lose a toe, and then she has my toes and the sandals both." She pushed them a finger's width nearer, as a concession to me. "Who taught you sandals?"
 
-I kept my boots on. I unwound the outer rags from them, which were ice, and left the inner ones, which were only wet, and I drew my hem across the whole bundle and tucked my feet under me. The others had their own feet to think about. Kallia, beside me, had her shoes off and her rags hung over her two hands toward the fire, turning them like flatbreads on a griddle.
+I kept my boots on. I unwound the outer rags from them, which were ice, and left the inner ones, which were only wet, and I drew my hem across the whole bundle and tucked my feet under me. The others had their own feet to think about. Kallia crouched beside me with her shoes off and her rags hung over her two hands toward the fire, turning them like flatbreads on a griddle.
 
-Across the fire a big woman sat with her feet out and a black goat-hair cloak round her like a tent, the shepherds' kind, with the snow lying unmelted on its shoulders. I would not have known her face. But she had kept her sandals by her own feet instead of at the fire, and I knew the sandals: the left strap had been mended with a thong of paler leather and knotted twice over the instep, the second knot tighter than the first. I had studied that knot at the spring every morning for weeks, while the woman who wore it stood beside me and talked about the cold, and I had given her nothing but the top of my head.
+Across the fire a big woman sat with her feet out and a black goat-hair cloak round her like a tent, the shepherds' kind, with the snow lying unmelted on its shoulders. I would not have known her face. But she had kept her sandals by her own feet instead of at the fire, and I knew the sandals: the left strap had been patched over the instep with a square of paler leather, sewn on with a thong and set on askew. I had studied that patch at the spring every morning for weeks, while the woman who wore it stood beside me and talked about the cold, and I had given her nothing but the top of my head.
 
 She was not looking at me now. She was chewing something she kept in a fold of her cloak, slowly, with her eyes shut.
 
@@ -291,9 +291,9 @@ It was only the hem, which she had spread out to dry too near the embers, and it
 
 Everybody near her had leapt up too, and the pen rose out of a ring of sandals and settled again in a different place. When they reached for their sandals there were fifty-nine sandals and a stone.
 
-"Whose is the stone?"
+"Who put a stone in the ring?"
 
-"An Athenian's," said Philista.
+"An Athenian," said Philista.
 
 "That's mine."
 
@@ -311,15 +311,15 @@ Timo examined her feet. She had two sandals on that both bent the same way, and 
 
 "And on the left?"
 
-"How should I know? It was next to me." She stuck the foot out at the fire. "It's got a knot in the strap. Whose has a knot in the strap?"
+"How should I know? It was next to me." She stuck the foot out at the fire. "It's got a patch on the strap. Who has a patch on her strap?"
 
 "Not that one." The big woman spoke without opening her eyes. "Mine are here."
 
-Kallia said nothing through any of it. She sat and let it go by her like weather, until a sandal landed in the fire, kicked by a heel in the scramble, and lay on the coals with its strap beginning to fry. Then she reached across and fished it out with a burning fennel stalk, flicked it clear, and fed the stalk to the fire.
+Kallia said nothing through any of it. She stayed crouched and let it go by her like weather, until a sandal landed in the fire, kicked by a heel in the scramble, and lay on the coals with its strap beginning to fry. Then she reached across and fished it out with a burning fennel stalk, flicked it clear, and fed the stalk to the fire.
 
 "And who's going down that stair barefoot in the morning? Who's to carry her?"
 
-After that the sandal went unclaimed. It lay where it had landed, smoking faintly, while each woman in the pen decided it was some other woman's.
+After that the sandal went unclaimed. It lay smoking faintly on the stones while each woman in the pen decided it was some other woman's.
 
 It was Nikaso who wept. She had fished the red pair out of the ring when Timo caught fire, and now she had one of them in her lap. It had done what wet leather did by a fire. The sole had curled up at toe and heel, and the red straps had shrunk tight and shiny and turned liver-dark. When she tried it against her foot it sat on her toes like a hat.
 
@@ -349,7 +349,7 @@ Nikaso put it on, and it went on. She put her weight on it, with the other foot 
 
 "Now I'll have one eye," she said.
 
-I leaned back on the wall, and the himation cracked. The drift at the arch had soaked it, and while I worked on the sandal the side turned from the fire had frozen; where it folded under my arm it broke along the fold like a biscuit. It had set hard from the shoulder to the hem. Plutarch had a story of women caught by snow on this mountain, whose clothes froze so hard that they snapped when anybody tried to unfold them; I had taken it for a moralist embroidering, and I sat in the god's pen with a cracked cloak on my knees and owed him an apology.
+I leaned back on the wall, and the himation cracked. The drift at the arch had soaked it, and while I worked on the sandal the side turned from the fire had frozen; where it folded under my arm it broke along the fold like a biscuit. It had set hard from the shoulder to the hem. On the stair Nikaso had told me of women caught by snow on this mountain, and of the cloaks of the men sent up for them, frozen so hard they snapped when anybody tried to unfold them; I had taken it for Nikaso's nerves, and I sat in the god's pen with a cracked cloak on my knees and owed her an apology.
 
 Sostrata's cloak had done the same. She got out of her cloak and stood it on its hem in the snow, and it stayed there by itself, the shape of her shoulders, with nothing inside it.
 
@@ -371,7 +371,7 @@ The last of the fennel was going when Philista stood up in the gateway and struc
 
 "There is no he."
 
-It went quiet in the pen. Timo's mouth stayed a little open. A woman behind Nikaso, a stranger to me, stopped wringing out her rag to look.
+It went quiet in the pen. Timo's mouth stayed a little open. A woman behind Nikaso, nobody I knew, stopped wringing out her rag to look.
 
 "No husband?" Timo stared. "At your age?"
 
@@ -381,7 +381,7 @@ It went quiet in the pen. Timo's mouth stayed a little open. A woman behind Nika
 
 "Who sends you up mountains, then?" Nikaso said.
 
-Kallia was no help. She had supplied dead people and a boat that got in ahead of the winter; she had supplied no husband, and she did not supply one now.
+Kallia was no help. She had supplied dead people and a boat that got in ahead of the winter, but no husband, and she did not add one now.
 
 They were all looking at me. I had been looked at by the women of Delphi at the bath and in the salt row, and I had felt it go one way before; in the light of the last fennel I could not tell which way this was going to go.
 
@@ -417,7 +417,7 @@ They all waited. Even the big woman had opened her eyes. Behind me the snow whis
 
 "And he was so small," I said, into the gap where the tune should have gone, since I could not sing to save my life, "that I lost him on the boat."
 
-The pen went to pieces. Timo went over sideways into Nikaso, and Nikaso's good sandal went out into the snow. Sostrata beat her own knees with both fists and had no breath left to sing the next line, so Philista sang it for her and beat her drum with it, and the women roared the refrain at the sky, louder than they had roared anything for the god. Kallia bent her face over her rags and did not raise it. I was laughing with them. The laugh started down under the wine, and there was no stopping it, and I did not try, and when it was done my face ached in the cold.
+The pen went to pieces. Timo went over sideways into Nikaso, and Nikaso's good sandal went out into the snow. Sostrata beat her own knees with both fists and had no breath left to sing the next line, so Philista sang it for her and beat her drum with it, and the women roared the refrain at the sky, louder than they had roared anything for the god. Kallia bent her face over her rags and did not raise it. I was laughing too. The laugh started down under the wine, and when it was done my face ached in the cold.
 
 "Was he?" Timo said, when she could. "Truly? That small?"
 
@@ -467,7 +467,7 @@ She seemed to think that was enough talk. Her breathing went long and slow again
 
 "It's a cave," said Nikaso, and yawned against my shoulder. "It's always open."
 
-I lay awake long after the others. The snow hissed on the cloak over us like sand thrown at a window. Further along the heap Timo was whispering to Sostrata, and Sostrata was whispering back.
+I lay awake long after the others. The snow hissed on the cloak over us like sand thrown at a window. Further along the heap Timo was whispering to Sostrata, and Sostrata was whispering back, near enough that I got about half of it.
 
 "And if his mother's in the house when I get back?"
 
@@ -477,10 +477,10 @@ I lay awake long after the others. The snow hissed on the cloak over us like san
 
 "Go to sleep."
 
-Later Sostrata talked in her sleep about the dough, and Nikaso's bare foot found my calf and kept to it for the warmth, and from down the wall, now and then, Timo said her husband's name under her breath, until Philista lifted her head out of the heap.
+Later Sostrata talked in her sleep, a word of it about the dough, and Nikaso's bare foot found my calf and kept to it for the warmth, and from down the wall, now and then, Timo said her husband's name under her breath, until Philista lost patience.
 
 "He can't hear you from Delphi, girl. We can."
 
 I listened to all of it, with my wrist still warm where the stranger had taken hold of it.
 
-When I woke the snow had stopped. I raised the edge of the stranger's cloak an inch and saw the pen in the first gray light: the fire a black ring in the gateway, and Nikaso's one good sandal standing up in the snow outside it where it had landed. Everything else was white and still. All down the length of the wall the women lay heaped together asleep, and the steam rose off them into the cold.
+When I woke the snow had stopped. I pushed the stranger's cloak up an inch and saw the pen in the first gray light: the fire a black ring in the gateway, and Nikaso's one good sandal standing up in the snow outside it where it had landed. Everything else was white and still. All down the length of the wall the women lay heaped together asleep, and the steam rose off them into the cold.
