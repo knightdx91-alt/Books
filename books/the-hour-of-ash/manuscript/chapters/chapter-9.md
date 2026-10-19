@@ -1,7 +1,7 @@
 # Chapter 9: The Polygonal Wall
 
 <!-- SCENE BUDGET (Target 6,400; range 5,800-7,000): Aphrodisia's stone and the letter-cutter 1,050 | the priest's court: the smith, the stand, the price of the god 1,550 | the mending, three times dug out; pitch from Valens 1,550 | the curse tablet at the trough 450 | the payment and the wiped hand; Kallia's basin 850 | the notice; the goat man; Valens at the board 1,000 -->
-<!-- Word count: 6,166 (shape_check; wc -w 6,294 incl. header) | Target: 6,400 (range 5,800-7,000) | Dialogue 26.9% (band 25-35%) | Breaks 5 | Median sentence 15 (gear mid) | And-chains 3 | Echoes 0 | Anchor: a woman "sold to Apollo" for three minae, on condition she remain with her former owner until death; she paid the cutter extra to cut it deep and cannot read it | Date: 2026-10-19 -->
+<!-- Word count: 6,166 (shape_check; wc -w 6,294 incl. header; 6,114 after dialogue-polish) | Target: 6,400 (range 5,800-7,000) | Dialogue 26.9% (26.8% after dialogue-polish; band 25-35%) | Breaks 5 | Median sentence 15 (gear mid) | And-chains 3 | Echoes 0 | Anchor: a woman "sold to Apollo" for three minae, on condition she remain with her former owner until death; she paid the cutter extra to cut it deep and cannot read it | Date: 2026-10-19 -->
 
 *In the archonship of Kleodamos, in the month Poitropios, Xenon son of Euangelos, a Delphian, sold to Apollo the Pythian a female body. Her name is Aphrodisia, she is home-born, and the price is three minae of silver, and he has the whole price. Aphrodisia has entrusted the sale to the god, on these terms: that she be free, and not to be laid hold of by anyone all her life, doing what she wishes and going to whom she wishes. But let Aphrodisia remain with Xenon as long as Xenon lives, doing what she is told, so far as she is able, without complaint. If she does not remain, or does not do what she is told, let Xenon have power to punish her as he wishes, by beating and by selling, and let the sale to the god be void. Guarantor according to the law: Damon son of Aristion. Witnesses: the priests Euthydikos and Nikandros; of private persons, Babylos, Eudoros, Philon son of Philon.*
 
@@ -19,7 +19,7 @@ He sat a few stones along, on a plank laid across two trestles. His legs hung do
 
 "Yes."
 
-"Then read me the end of the second line, there. He made me leave his grandfather off. Saved himself the letters, and now he reads like something that grew in a field."
+"Read me the end of the second line, there. He made me leave his grandfather off. Saved himself the letters, and now he reads like something that grew in a field."
 
 "Xenon son of Euangelos."
 
@@ -27,7 +27,11 @@ He sat a few stones along, on a plank laid across two trestles. His legs hung do
 
 "Who is she?"
 
-"Xenon's girl. Born in his kitchen. She's been putting it by since she was small, an obol here and an obol there out of what the lodgers gave her, and last month she brought it up here in a pot and paid it to the god, and the god paid it to Xenon. That's how it goes. The god's the buyer, so nobody can say afterward she bought herself, and the god doesn't want a girl to cook for him, so she's free."
+"Xenon's girl. Born in his kitchen. She's been putting it by since she was small, an obol here and an obol there out of what the lodgers gave her. Last month she brought it up here in a pot and paid it to the god, and the god paid it to Xenon."
+
+"So that nobody can say she bought herself."
+
+"And the god doesn't want a girl to cook for him, so she's free."
 
 "And then she went home with Xenon."
 
@@ -35,7 +39,7 @@ He sat a few stones along, on a plank laid across two trestles. His legs hung do
 
 "And if he sells her before then? To a man in Amphissa, who has never seen this wall?"
 
-"Then she brings the man up here and stands him in front of it, and he reads it, and his money's gone." He struck, and a flake sprang past my ear and ticked away down the steps behind me. "The wall's for that. A tablet gets lost, or a man says it did. Nobody ever lost a wall." He blew the new stroke clean. "She paid me an obol over the price, from what was left in her pot, to cut hers deep. She can't read a letter of it. I read it out to her the day I finished, twice through, and she listened to the whole of it and went home." He tilted the mallet at the Way. "That's her."
+"She brings the man up here and stands him in front of it, and he reads it, and his money's gone." He struck, and a flake sprang past my ear and ticked away down the steps behind me. "The wall's for that. A tablet gets lost, or a man says it did. I've never had to cut one of these twice. She paid me an obol over the price, from what was left in her pot, to cut hers deep. She can't read a letter of it. I read it out to her the day I finished, twice through, and she listened to the whole of it and went home." He tilted the mallet at the Way. "That's her."
 
 A young woman was passing along the Way with a basket of washing on her head and a hand up to steady it, in a tunic dyed a cheap blue that had faded in streaks. She went by under the wall, near enough to touch, with her gaze on the steps.
 
@@ -59,7 +63,7 @@ The court was paved, with a colonnade down two sides and a well-head in the midd
 
 On the step of the colonnade stood the priest, in a white himation, with his hands up its sleeves. His beard was long and gray, combed out and cut square at its end, so neat that it looked put on over his own. He was telling the smith that his grandfather had given that stand to the god.
 
-"Then your grandfather had it cast too thin," the smith said, "and the clay's nearly on."
+"Your grandfather bought it cast too thin," the smith said, "and the clay's nearly on."
 
 From the threshold the bowl was in plain view. Where it sat on the head of the shaft a band of duller metal ringed the join, gray where the rest was green and brown, smooth where the rest was pitted. It was lead. Somebody had broken that bowl off once and run solder in to fix it on again; it had been neatly done, dressed down level afterward, and a little of it had crept away into the flutes.
 
@@ -85,9 +89,7 @@ The priest's hands emerged from his sleeves. They were red and swollen across ev
 
 "And if the bowl had dropped into your fire this morning?"
 
-"I'd have put it on again. It's no trouble to me." The smith gave me the whole of his attention, starting at the boots, which showed under my hem. "What's she know about lead?"
-
-"Ask her," said the priest.
+"I'd have put it on again. It's no trouble to me." The smith turned round on his knees to have me in front of him. "And you know lead, do you?"
 
 "That it runs long before bronze does," I said. "And that the bronze at the break is full of holes. Look at it."
 
@@ -103,7 +105,7 @@ Everyone had looked at it but the priest. The broken face of the shaft was gray 
 
 "And when some slave knocks it over again?"
 
-"Then it will break again where it broke before," I said, "and in no new place, and the next mender will have nothing to undo but wax."
+"It will break again where it broke before," I said, "and in no new place, and the next mender will have nothing to undo but wax."
 
 Euthydikos looked at me then. Until then his eyes had gone to the slave, or to the smith, or to the air a little behind my shoulder, where a husband might have stood.
 
@@ -125,7 +127,7 @@ He sought the answer from the slave, and the slave had none for him, having no b
 
 "I know about the man."
 
-"Then you have the worst of it."
+"The rest is only money."
 
 "Mend it for a stater," I said.
 
@@ -137,7 +139,7 @@ He spoke to the smith over my head. "Your price?"
 
 "Three drachmas, and the clay found."
 
-"And three more for the bowl, when it fell in your fire." He brought his gaze down to me, or near me. "I'll pay a smith a smith's price. I'll not pay a woman a smith's price for doing it with wax."
+"And three more for the bowl, when it fell in your fire." He brought his gaze down to me, or near me. "A smith's price is for a smith's fire. I have wax from my own bees."
 
 "It is not a smith's work. That is why it will hold."
 
@@ -181,7 +183,7 @@ Late in the day the rod went in. It slid into the foot end of the shaft to half 
 
 "From them?" He considered his hives. "They'll want to know what for."
 
-"For the master's bronze."
+"Tell them it is for the god."
 
 He went and told them, with his mouth close to the clay, and in the morning he brought me a yellow cake of it wrapped in a fig leaf, and a sherd with lamp soot in it scraped off the kitchen wall.
 
@@ -193,7 +195,7 @@ I dug it out with the point of the knife, every crumb, and cleaned the line with
 
 On the second try I put in more soot and a pinch of earth from the bay tree's pot, and dulled the fill afterward with my thumb instead of the wool. In the sun the thread had gone. But the wax was soft, and by noon the sun on the paving was warm enough to make it softer, and close to, my own thumbprint showed in it, the whorls raised in the fill. To the left and right of the line ran a faint dark smear where the soot had rubbed off onto the old metal and was shining there instead.
 
-"Out it comes," the bee-man said. "He'll not know the difference, you know. He couldn't find his own feet in that beard."
+"Out it comes," the bee-man said. "He'll not know the difference. He couldn't find his own feet in that beard."
 
 Early in the afternoon a woman descended the gallery stair into the court, and the bee-man woke and was suddenly very busy at his hives. She was much younger than the priest, and she kept her himation up over her head in her own house; under it her hair was crimped in rows as regular as the flutes on the stand. She came and stood over the stand, and not over me.
 
@@ -233,7 +235,7 @@ His eyes went past me then, into the court: to the stand on its sack in the sun,
 
 He wiped his fingers on the gray's mane, unhooked the pot and broke the cake of pitch in it with the haft of his knife, and gave me a piece. It was almost black, cold and brittle, with a mule hair in it.
 
-"Warm it first. It'll crack cold." He had the pot back on its hook. "How long will it hold?"
+He had the pot back on its hook. "How long will it hold?"
 
 "With this in it? Years. If nobody knocks it over."
 
@@ -269,15 +271,15 @@ The boy who found it was fishing in the mud at the drovers' end of the spring ba
 
 He scrambled out of the culvert with something gray and folded in his fist and ran with it to the women at the lions.
 
-"Put that where you found it," one of the women said, and kept her eyes on her own jar. "Whoever buried it meant it to stay buried."
+"Put that where you found it," one of the women said, and kept her eyes on her own jar. "It's been given to the ones below, and they don't want it handed round."
 
 None of them would look at it, so in the end he brought it to me.
 
-"Is it a letter? Is there money in it?"
+"Is there money in it?"
 
 It was a sheet of lead about the size of my palm, folded twice over and pierced through every layer with a bronze nail. It had lain in the mud till the creases went white. I worked the nail out and opened the folds slowly, because lead that has lain in wet ground will tear like old cloth, and the writing surfaced through the white in scratched capitals, crowded, every line running uphill at its end.
 
-"What's written on it? Is it a treasure? Who's it from?"
+"What's it say?"
 
 "It is a curse. Somebody wants a weaver's cloth to come off the loom crooked."
 
@@ -337,7 +339,7 @@ Kallia was in the court at home, scouring the big pot with sand, and she looked 
 
 "Onto it. From above."
 
-She looked at the coins on the stone and at the hand they had come from, and gave no word at all. She filled the basin at the jar and stood it on the hearthstone beside the coins. A lump of the gray washing clay went down next to it. She returned to her pot.
+She looked at the coins on the stone and at the hand they had come from, and gave no word at all. She filled the basin at the jar and stood it on the hearthstone beside the coins. A lump of the gray washing clay went down next to it.
 
 I washed. The water in the basin went black, and the black worked into the clay, and under my nails the soot would not shift.
 
@@ -351,7 +353,7 @@ The sand hissed round the belly of the pot.
 
 "Then you'll want a man a goat will walk for. They don't, for most."
 
-When my hands were as clean as they were going to get, I knotted the priest's coins into a rag with the two brass ones from 1998, the poet and the other, and the whole of it lay in my palm and weighed very little. At the pot Kallia worked her sand round the inside of the belly with her shoulders to me, and the scraping continued.
+When my hands were as clean as they were going to get, I knotted the priest's coins into a rag with the two brass ones from 1998, the poet and the other, and the whole of it lay in my palm and weighed very little. Kallia's sand had gone quiet while I tied it.
 
 * * *
 
@@ -363,7 +365,7 @@ My errand in the square was to price a goat.
 
 The goat man had his animals penned in hurdles at the lower end of the square beside the fountain, a dozen of them, and he was eating a heel of bread.
 
-"For the god?" he said, before I had asked a thing. "You'll want one that shakes." He reached across the hurdle and took a young she-goat by the horn, dipped his cupped hand in the fountain trough and threw the water down her spine, and she shuddered from her ears to her tail and stamped. "There. Like a bride. Mine all do it; I keep them warm, so the water surprises them. The fellow out beyond the stadium keeps his on the hill all winter, and you can pour a river on them and they'll only look at you."
+"For the god?" he said, before I had asked a thing. "It's a shaker you're after." He reached across the hurdle and took a young she-goat by the horn, dipped his cupped hand in the fountain trough and threw the water down her spine, and she shuddered from her ears to her tail and stamped. "There. Like a bride. Mine all do it; I keep them warm, so the water surprises them. The fellow out beyond the stadium keeps his on the hill all winter, and you can pour a river on them and they'll only look at you."
 
 "What does she cost?"
 
@@ -371,7 +373,7 @@ He looked at the rag in my fist, which was the shape of what was in it. "More th
 
 "How much more?"
 
-"For that you can have the shake and not the goat." He shook the rest of the water off his hand. "Come back with a man. I'll keep her warm for you."
+"For that you can have the shake and not the goat." He shook the rest of the water off his hand. "Send whoever's leading her up, with the rest of it. I'll keep her warm till then."
 
 The men at the board were why I went to read it. There were five or six of them, and they had the look of men who had been standing there since it went up and had settled among themselves what it said.
 
@@ -387,7 +389,9 @@ The men at the board were why I went to read it. There were five or six of them,
 
 "I would. For three hundred I'd give up my wife's brother, and help them tie him."
 
-"It came over with the oil from Thebes. First carts since the snow, and the clerk had it on the wall before the oil was off."
+"When did that go up?"
+
+"With the oil from Thebes. First carts since the snow, and the clerk had it on the wall before the oil was off."
 
 "Lupus. What sort of name is that for a man?"
 
