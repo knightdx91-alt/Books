@@ -205,6 +205,28 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **DISTINCTNESS GUARANTEE:** the woman who replies to every question with a job, against Theano, who
   replies to every question with a complaint about herself.
 - **Sample line:** "Water first. Cry after. The jar's by the door and the spring won't come to you."
+- **Ch.5 as written (Writer, 2026-10-19; first live appearance):** about fifty; broad brown face lined
+  across the forehead; gray hair dragged back under a dark kerchief. Comes to the Castalian spring after
+  dark with a jar on her head and a clay lamp to fill the jar (the page gives no reason beyond the errand).
+  Her lodging is a short walk above the spring, up the road and along a lane ("near" the spring, not
+  beside the basin). **Her own life before
+  she sees Mara:** fishes a pilgrims' limp garland out of the basin and flings it down the slope
+  ("Boeotians"), then washes each foot under the overflow with her eyes shut. Lines are imperatives and
+  practical questions only: "Out of the basin. People drink that." / "Who beat you?" / "Hands." / "Turn
+  them." / "Open your mouth." / "What's that? Lead?" (Mara's amalgam filling) / "Who saw you come down
+  here?" / "Can you carry water? … card wool? Weave? Grind? Cook?" / "Whose are you?" / "Bring the jar."
+  She **never touches Mara**: she inspects hands and teeth by lamplight and demonstrates opening her own
+  mouth and carrying on the head. Answers Mara's long English outburst by pointing at the jar (a task).
+  The one sentence about her household, not herself: "I've a houseful of Thebans, and the girl ran off
+  at the vintage." On the way home she bangs up a neighbor at night to reclaim her fine horsehair sieve
+  (lent "a month" ago for the neighbor's wife to strain her must; it comes back with a hole; she threatens to shame the wife at the spring).
+  Mara answers her in English throughout, or by a head-shake (the Greek refusal holds from the
+  guide's mimicry on); Kallia reads tone, not words ("Mine." is said in English). Her name reaches Mara only when a pilgrim shouts it from the gallery; to "Who's that you've got?" she
+  says "A pair of hands" and, to "Can she sing?", "She can carry." Work orders: ashes out before light,
+  hearth swept, two jars from the spring before the pilgrims wake, then the floors and the Thebans' pots.
+  "Don't touch the oil." Takes the lamp away (lamp oil is lamp oil); later throws a goat-hair blanket in
+  from the dark ("Blanket"). **She never asks Mara's name.** No thanks, no sitting, no proverb, no
+  speech about herself. Her son's room is NOT shown (held for Ch.7).
 
 #### THEANO — the Pythia; a farmer's widow off duty (glimpsed Ch.8 unnamed, shouting at crows; Ch.13)
 - **Attention / worldview:** her own body (her knees, the descent into the adyton), the priests' petty
@@ -570,6 +592,58 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **Spent in Ch.4 (do not reuse):** "Khaire/Khére" farce; the Theophrastus superstitious-man
   aside; "strangers and beggars are from Zeus" (Odyssey, quoted once); the Wawa hoagie case.
 
+#### Ch.5 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+- **The press woman** (olive farm on the road down from the Arachova village): Mara's age, skirts kilted
+  through her belt, forearms oiled to the elbow, skims a sunk jar with a wide shell. **Her own life:** her
+  husband has been two days at Kirrha "with the jars" (a word from Aristophanes for a useless husband);
+  she rails at her sleeping son and later kicks him awake and hands him the shell. Asks "Where's your
+  man?"; pays Mara for carrying olives with bread dipped in new oil. "They charge you for breathing up
+  there." Attention: her own short-handed day. No device; notices no materials.
+- **The pilgrim family** (father, mother, grown son with a white kid for sacrifice): father, "Where else
+  would it go? Up there's the god and down there's the sea…"; son mocks Mara's Attic ("like the man who
+  reads out the laws"); mother: "You don't know what she is." Distinct from the Ch.4 goat-boy.
+- **The olive girl** on a terrace: laughs at Mara biting a raw olive ("You salt them first! Salt!").
+- **The guide** (Sacred Way): lean, about fifty, brown cloak whose brooch has lost its pin and is fastened
+  with a thorn; talks walking backward up the paving without looking. **Attention:** the speech and the
+  fee; the story, never the maker ("Who made it? Nobody asks that. A man from Aegina, and they paid him").
+  **Syntax:** memorized periods worn smooth (Mara can follow them), broken by asides about money and
+  rivals. **His own life:** a feud with a rival guide in a green cloak "from Amphissa" who tells the
+  Siphnians wrong, and a jab at the wool-seller who washes her wool in the horse trough. Recites the
+  absent Kroton runner over an empty base; calls Nero "the singer" and gets his death wrong ("in a
+  ditch"); takes Mara's 100-drachma coin, reads its Greek capitals where it lies on his palm (no biting), mimics her Attic to the crowd. That
+  laugh is the trigger for Mara's refusal to speak Greek (all-or-nothing). No device; notices no
+  workmanship. **Spent:** the recital for an absent statue; the mimicry; "What is a stranger going to look
+  at? The holes?"
+- **The rival guide in green** (from Amphissa): "I heard that"; "Is it the Pythia's grandmother?"
+- **The water boy** ("Spring water, cold, an obol the cup!") and **the wool-seller** (takes up the mimicry and
+  sings the end of it after them; no laugh-fit).
+- **The temple warden** (white tunic, purple stripe, staff) and two men: "Off the god's step! Who let her
+  up here unwashed?" / "Whose is she?" (an unattributed voice among the three) / "Is that Syrian?" / "The rod! Bring the rod!"
+- **The temple slave with the rod**: barefoot, thickset, cropped head, a peeled rod as long as Mara's arm.
+  **Attention:** order on the steps; commands only. **His own life:** the rod splits on her and he shows
+  the split to the warden, who ignores him: "Look at it… Split end to end, and they'll stop it out of my bread." (Distinct
+  from the planned Ch.13 temple slave who summons Mara to Theano.)
+- **The herald** (agora colonnade): stout, staff wound with white wool, a boy with a wax tablet. Big, slow
+  voice that sets down every word (the guide's worn speech comes first; the herald is the first public Greek). **His own life:**
+  long-sighted, holds the tablet at arm's length, garbles the imperial titles, is corrected by **the
+  clerk** in the doorway ("Autokratōr Kaisar Ouespasianos Sebastos"), repeats it sourly, and answers
+  "Citizens only?" with "The rest of you can smell it cooking." Public formula only.
+- **The clay-figure seller** (next pillar): moves her board away from Mara, then back; her husband makes
+  the mold-made figurines; "Since the bronzes were carted off there's no buying." ("the singer" stays at 2)
+- **Two men at the fountain**: four oxen for the whole town (Mara is not sure the herald said any number; she heard "the fourth day"); a brother's wife who got a hoof; "Then that
+  god will want paying for it." / "Not from us, he won't."
+- **The procurer at dusk**: younger than Mara, good cloak, bad smile; offers "a house down past the
+  stadium road that takes in girls on their own." Mara refuses in English.
+- **The neighbor with the sieve** (Kallia's lane) and **the pilgrim on the gallery** (asks for lentils;
+  "Can she sing?"); **the singer** upstairs with the endless song about a girl from Corinth.
+- **Mention only:** Kleodamos (archon) again, in the herald's decree (still a name only). Gloria (the
+  ninth of June). Dr. Pinsky, Mara's 1998 dentist on Walnut Street (memory only; told her she brushed too
+  hard).
+- **Spent in Ch.5 (do not reuse):** "The Mummers had got at it"; "I preferred it dead"; "A pair of
+  hands" / "She can carry"; "lamp oil was lamp oil"; the shutter "like a slammed drawer"; the dog "like a
+  car alarm on Baltimore Avenue"; Egyptian blue "like ground sugar" on a slide; the Thessalians taken off
+  their horses; "Eggs. I can do eggs."; the hundred-drachma coin.
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -743,6 +817,24 @@ line each, so that walk-ons don't all sound like Mara.
   stops it?" (Emilio's recorded line — spent exactly twice in Ch.1, the anchor; never again); "the
   conservator in me"; "the [color] of [thing]" as a sentence shape; the item-by-item look; a character
   turning to a television/screen as a beat; "Then you…" as Szabo's reply shape.
+- **At-risk after Ch.5 (editor cycle 1, 2026-10-19; closed devices, a further use is a defect):** the
+  **item-by-item look** (page count back to 2: Ch.1, Ch.3; CLOSED — any later look at a garment is one object
+  or a duration, never a sequence); "**[color] going [color]**" (1, Ch.3: SPENT); "**laughed until [result]**"
+  (1, Ch.3: SPENT; walk-on laughter gets no bodily aftermath); "**That one I had/heard whole**" and "hold on to
+  it whole" (Ch.4 only: SPENT); the "**did not X; he Y**" pivot (SPENT); **"the size of a fingernail"** as a
+  ruler (SPENT); **bread "full of grit"** (SPENT); the **sock "rolled tight" / "flat weight" / blind rummage
+  past box and camera** (SPENT — Ch.19 and Ch.35 touches must be staged a third way); **the watch at her ear,
+  "ticking, quick and…", its dead luminous paint** (none again until Ch.18); **the duffel sliding off her
+  shoulder before a kneel** (SPENT); "**said to the [non-listener]**" (cap 1 per chapter; Ch.5 keeps only
+  "said to the dark"); **"I said to his/her back"** (SPENT); **thumbnail probe** (max 1 per chapter);
+  **knowledge-provenance aside** ("I knew X from [text/lab]": max 2 per chapter); **walk-on holding an
+  object up to the eye** (max 1 per chapter; Ch.5's is the herald); **walk-on word-doubling** ("Salt them!
+  Salt!", "Look. Look.", "Two days… Two days": none for walk-ons; the goat-boy's was his alone);
+  **"the same… the same… the same"** triad (broken); **"the flat of her hand"** (1 per chapter);
+  "**a [man/woman] of fifty**" introduction formula (1 per chapter); **"It was nearly dark"**, **"smelled of
+  wet stone"**, **"side by side"** shoes (each spent at its earlier use); the **flashlight**: used once on the
+  page in Ch.5 (the sheepfold, a dog goes frantic at the beam) and deliberately kept hidden in Kallia's
+  storeroom — any later use must reckon with being seen.
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
   used as a scene button.
@@ -770,6 +862,10 @@ line each, so that walk-ons don't all sound like Mara.
 | "the girls at church" | 2 | Fenn/Margaret, Ch.2 (Feb 1968 + last entry): SPENT |
 | "firma mancante" | 1 | Ch.2 Halloran; never called back |
 | "in Emilio's place" | 1 | Ch.2 Halloran's invitation; paraphrase if ever recalled |
+| "Whose are you?" / "Whose is she?" | 2 | Ch.5 (the warden; Kallia): SPENT. A third "whose" question would make it a refrain; Ch.7's registration scene must say it differently |
+| "the singer" (Nero) | 2 | Ch.5 guide: SPENT; name him or vary |
+| "a pair of hands" | 1 | Ch.5 Kallia; never called back |
+| "preferred it dead" | 1 | Ch.5 anchor line |
 
 ---
 
@@ -859,3 +955,14 @@ finalizing the chapter. Never add a tic to fix it.
   device collisions: the boy neither counts nor notices workmanship; Mara's conservator eye appears
   only at the pen (the herringbone corner whole). "Ti?" held to one use so no spoken refrain forms.
   Tic-bearer roster still NONE.
+- 2026-10-19 (Writer, Ch.5): KALLIA's first live appearance written to her card; card extended with
+  what Ch.5 established (spring at night, Boeotian garland, foot-washing, hand/teeth inspection without
+  touching, the sieve, "A pair of hands", never asks Mara's name). No new NAMED characters: the guide,
+  rival guide, press woman, temple warden, temple slave, herald, clerk, clay-figure seller and others are
+  unnamed walk-ons (note added). Kleodamos recurs as a name in the decree. No device collisions: no
+  walk-on counts, lists, prices or notices workmanship (the guide pointedly does not); Mara's materials-eye
+  stays hers. At-risk list: four Ch.5 phrases capped. Tic-bearer roster still NONE.
+- 2026-10-19 (Editor, Ch.5 polish cycle 1): Ch.5 notes corrected to the page (Kallia's "Who saw you come
+  down here?", the sieve "a month", the slave's bread line, the clay seller's "bronzes", the herald not the
+  first Greek followed, the lodging a short walk above the spring, Mara's replies to Kallia in English or a
+  head-shake). At-risk list: the Ch.5 closed-device block added. Tic-bearer roster still NONE.

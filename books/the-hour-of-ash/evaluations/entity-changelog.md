@@ -379,3 +379,179 @@ The year stays unknown to Mara. No knowledge_gap. No needs_review.
 - **CH4-4 (info): still open.** The ΠΑΝΙ / ΠΑΝ wording is unchanged.
 
 No new conflicts. No knowledge_gap. No needs_review.
+
+---
+
+## 2026-10-19: UPDATE (chapter 5, final text: post-polish, post-disruption)
+
+**Trigger:** chapter loop step D.5 for chapter 5 (drift policy: every chapter).
+**Inputs read:** `manuscript/chapters/chapter-5.md` (212 paragraphs, 4 breaks = 5 shards: p1-p21, p22-p73, p74-p93, p94-p206, p207-p212; wc -w 8,364); outline.md Ch.5 (and Ch.6 for the hand-off); foundation.md §3, §4f; character-bible.md (Kallia card and the Ch.5 walk-on block); chapter-3.md p3 and p76 for cross-checks.
+**Meta:** `last_updated_chapter: 5`; `chapters_tracked: [1, 2, 3, 4, 5]`; `paragraph_rule` extended to Ch.5. 846 `ch-05:pYY` citations, all checked against p1..p212.
+
+### Replaced (plan → prose)
+- **Mara's location log, Ch.5:** sheepfold → the lip → the village where Arachova was → the valley road (olive harvest; the press) → the gymnasium track → the spring → the gateway → the Sacred Way → the temple → the market square → the spring at dark → the lane → Kallia's storeroom.
+- **The year:** the planned knowledge row is replaced. Mara dates it "the autumn of the year seventy". The basis is Titus taking Jerusalem in late summer 70 (Josephus), news reaching Greece by sea in weeks, and the olives coming down. Ouespasianos = Vespasian. 1998 − 70 = 1,928 years. Her first step was at the Kroton base: after Nero's death in June 68, with the lead 2–3 years weathered. **Nothing about 79.**
+- **The timeline row** for Ch.5 (day 2 in AD 70, after a night in a sheepfold). **Kallia's** `first_appearance` is now ch-05:p139. **Delphi** facts are confirmed or annotated.
+
+### Added
+- **Mara:**
+  - `worn_ch5` / `carries_ch5`: fleece, jeans, boots, Seiko, duffel contents, the three taxi coins.
+  - `marks_ch5`, the rod injuries: two welts on the right forearm, one split and bleeding; the wrist skinned at the watch band; the knee through the denim; a weeping place on the shoulder that sticks to the fleece; the hip. No fracture.
+  - `hands_ch5`: scalpel scar on the left forefinger, acetone shine, a pen callus.
+  - `teeth_ch5`: the upper-left filling, and Dr. Pinsky.
+  - `hunger_ch5`.
+  - 13 Ch.5 traits.
+  - 27 knowledge rows, including the clay discs she cannot place, the missed Athenian treasury, the retouched molding, Kallia's name (overheard) and her terms.
+  - `knowledge_absent_ch5`.
+  - The Ch.5 arc waypoint.
+  - Relationships: Kallia, the guide, the rod slave.
+- **Kallia:**
+  - Physical: about fifty; square brown face lined across the forehead; gray hair under a dark kerchief.
+  - Her own moment: the Boeotians' garland flung out, and her feet washed under the overflow with her eyes shut.
+  - Seven page traits. She never touches Mara and never asks her name.
+  - Household: courtyard, pomegranate tree, gallery, Thebans, a singer, the girl who ran off at the vintage, the sieve neighbor.
+  - Possessions: lamp, jar, sieve, blanket.
+  - Knowledge, with the basis for "a possible runaway". `knowledge_absent` adds the content of Mara's English outburst, which she heard but did not understand.
+- **Characters (21 new):**
+  - On the road: olive-press-woman, olive-girl, pilgrim-family-with-kid.
+  - On the Sacred Way: sacred-way-guide, rival-guide-in-green, water-boy, wool-seller.
+  - At the temple: temple-warden-purple-stripe, temple-slave-with-rod (distinct from the Ch.13 slave).
+  - In the square: delphi-herald, council-clerk, clay-figure-seller, fountain-men, procurer-at-dusk.
+  - At Kallia's: sieve-neighbor, gallery-pilgrim, singer-upstairs.
+  - Mentioned only: dr-pinsky, nero, vespasian, titus.
+  - Kleodamos gets the herald's mention. The goat-boy gets his Ch.5 departure.
+- **Locations (7 new):** castalian-spring (1998 dry niche / AD 70 lions), delphi-sacred-way, temple-of-apollo-delphi, delphi-market-square, kallias-house, descent-road-to-delphi, jerusalem.
+  - Additions to existing locations: AD 70 Arachova; the plateau at night; 1998 Delphi recollections; Kirrha; Corinth; Rome; Philadelphia; the cave → Delphi distance.
+- **Objects (6 new):**
+  - taxi-drachma-coins: 3 → 2 left in her jeans; the 100-drachma piece goes into the guide's cloak.
+  - pierced-clay-discs: chekhov_open, unplanned.
+  - kroton-runner-base.
+  - temple-rod.
+  - kallias-sieve.
+  - goat-hair-blanket.
+- **Objects updated:**
+  - Pentax: one frame, the empty Kroton base.
+  - film-roll: running count. Plan 9 shot / 27 left; page at least 8 / at most 28.
+  - Seiko: struck by the rod and still going; the luminous paint dead; ticking in the storeroom; not wound.
+  - Microcassette: the planned touch at p211; location at the end of Ch.5.
+  - Duffel: it came down the mountain.
+  - Granola: one pouch eaten; count not stated.
+  - Knucklebone: absent.
+- **Threads:** maras-legal-nonexistence (opened), return-to-the-cave (opened → Ch.6), maras-greek-refusal (opened), kleodamos-archon (name only, no payoff); notes on mending-the-seam and the relics.
+- **Timeline events:** Nero's death (June 68); the bronzes taken; Ch.5 day 2; the sacrifice "on the fourth day from now"; Dr. Pinsky (Feb 1998); the Josephus seminar.
+- **World rules (observed):** the social side of a woman alone; temple purity and the altar rules; the sea still open.
+- **Organizations:** delphic-sanctuary confirmed and extended; delphi-council added.
+- **knowledge_index:** the_year (the row is now prose); mara_origin (Kallia; the guide); fenn_fate_1998. Mara calls the notebook's owner "a dead man", her first stated belief that he is dead.
+
+### Contradictions
+- **CH5-1 (info):** Kallia's house is up the road and down a lane from the spring, while the plan says "beside" it.
+- **CH5-2 (info):** the character-bible's Ch.5 addenda paraphrase an earlier draft:
+  - Kallia: "Who's coming after you?" (the prose has "Who saw you come down here?").
+  - The sieve: lent "since the vintage" (the prose has "a month").
+  - The slave: "three days of bread" (the prose has "stop it out of my bread").
+  - The clay seller: "Since the singer" (the prose has "Since the bronzes were carted off").
+- **CH5-3 (info):** a frame on the page (the Kroton base). The plan puts every unnamed antiquity frame off the page.
+- **CH5-4 (info):** this is the 3rd contact with the microcassette sock on the page since the packing (Ch.3, Ch.4, Ch.5), not the 2nd.
+- **CH5-5 (info):** p2 has the 1998 taxi going "east toward Arachova and … down". Ch.3 has it coming up from Arachova.
+- **CH5-6 (info):** the Greek refusal begins at p65-p66, but Mara's replies to Kallia ("No." "Eggs." "Mine.") carry no language tag, and Kallia acts on "Mine."
+- **Notes added to open items:**
+  - CH3-3: still a pen, no hut.
+  - CH3-7: she now has the year and the span, but still no "door".
+  - CH4-2: the pouch is still the unit.
+  - CH4-3: "fleece" ×6, no "jacket".
+  - P5: the Corinth post reaches Delphi in weeks in autumn 70, which adds to the reward-notice gap.
+
+No knowledge_gap. No needs_review (the rod slave is kept distinct from the Ch.13 temple slave, per the bible).
+
+---
+
+## 2026-10-19: UPDATE (re-sync after the Ch.5 editor pass, polish cycle 1 run 2 + finalize fixes N1-N7)
+
+**Trigger:** `evaluations/revision-chapter-5-cycle1.md` edited chapter 5 after its entity update. While this run was underway, the finalize fixes N1-N7 landed in the same file (chapter-5.md last written 02:12:41). This entry is synced to that final text.
+**Inputs re-read:** `manuscript/chapters/chapter-5.md` as it stands now (212 paragraphs, 4 breaks, wc -w 8,173); the revision report, including "Finalize fixes N1-N7"; character-bible.md (Kallia card l.189-230; Ch.5 walk-ons l.610-640); outline.md l.213, l.222, l.240-250; foundation.md §3; ch-03:p3, p5, p54, p69; ch-04:p28, p43.
+**Meta:** `last_updated_chapter: 5` (unchanged); `chapters_tracked: [1, 2, 3, 4, 5]`; `mode`, `source` and `paragraph_rule` updated; new `revalidation_needed` entry for chapter 5 (RESOLVED).
+
+### Re-anchoring
+- The paragraph count is still 212, but the numbering shifted inside the chapter:
+  - Old p1-p59 keep their numbers.
+  - Old p60 is deleted ("His face lit with joy."), so old p61-p130 are now p60-p129.
+  - New p130: "The herald had said the fourth day, I was nearly sure, and nothing about four oxen."
+  - Old p131-p171 keep their numbers.
+  - New p172: "She took that for a no, which it more or less was." So old p172-p209 are now p173-p210.
+  - Old p210 (the boots and the fleece) and old p211 (the sock) are merged into p211.
+  - p212 is unchanged.
+- Shards: p1-p21, p22-p72, p73-p92, p93-p207, p208-p212.
+- All Ch.5 citations were remapped (845 occurrences across 343 lines). Each was then checked by content, and every quoted phrase was checked against the paragraph it cites.
+- Old mis-cites fixed: olive-paste hands p49 → p23; "my jeans" p5 → p4; "the backs of bottles" p11 → p5; the lodgers p207 → p211.
+- Sources completed: p9 ("I am a foreigner and hungry"); p171 ("Eggs"); p197 ("Scrape it yourself").
+
+### Facts removed (no longer on the page)
+- **Injury aftermath (W-08):** "raised" and "red going purple"; the skinned wrist; "my knee had come through the denim". The blows during the beating (p88) still stand.
+- **Seiko:** "The watch was going; I listened to it at my ear to be sure"; "its luminous paint was long dead and the hands were invisible". It is still struck (p88) and still running in the storeroom (p212).
+- **Storeroom rummage (W-07):**
+  - the route past the granola box and "the cold body of the Pentax";
+  - "rolled tight" and "small flat weight";
+  - boots set "side by side".
+  - Granola and Pentax `last_mentioned_manuscript` moved back to p138 and p54.
+- **"loved"** (W-02). Cycle 1's replacement, "with my whole chest full of it", was itself replaced by N5: "and wished the light would stay".
+- **The guide:** the coin weighed and bitten twice; "a man of fifty" (age is now not stated); "Who asks that?"
+- **Walk-on doubling:** "Salt!"; "Off! Off"; the slave's second "Look."
+- **Herald:** "like grass under wind".
+- **Similes and stock phrases:** "bright as a new penny"; "like a jigsaw puzzle".
+- **Laughs:** the wool woman's laugh-fit on a statue base; the procurer's laugh.
+- **Provenance lines:** "as I knew the Gettysburg Address" and "in Pausanias"; "Aristophanes".
+- **Thumbnail on the chisel bites and on the lead.** The only thumbnail left is on the molding flake, p74.
+- **Body-unit measures:** "fingernail-sized" flake; "shin height"; "clay women a hand high" (N6a).
+- **Other wording:**
+  - "square" face (now "broad");
+  - "in exactly those words";
+  - "smelled of wet stone";
+  - "a house full of" (now "houseful");
+  - "the cave by midday" (now "by noon").
+- **Tags cut by N3/N4:** "She took the English for a no", "I said it in English. She had the tone of it, if not the word", and "\"Where are we going?\" I said, in English."
+
+### Facts added or corrected
+- **Taxi (p2):** "a taxi had brought me up from Arachova and across this plain on asphalt. At first light I set off back the way it had come, on foot, eastward". The repeated "no road" clause is gone. Updated in kalivia-plateau, arachova and CH5-5.
+- **Flashlight (W-19):**
+  - p1: "I found a wall with the flashlight, and a dog … went frantic at the beam until I put it out".
+  - p208: it stays "somewhere in the bottom of the duffel … Kallia was not going to come back and find a light under her stairs that burned nothing".
+  - Added to the flashlight object (`ch5_beat`; `last_mentioned_manuscript` → ch-05:p208), Mara's possessions, the duffel and her location log. The "not mentioned in Ch.5" row is corrected.
+- **The sock (p211):** her right sock is soaked from the jar water. She reaches into the bag for a dry one, "and my hand closed on the sock and the hard little oblong in its toe. I let it be and drew out the sweater instead". This is the only Ch.5 touch. Dry socks are implied in the duffel.
+- **Injuries (p93):** "two hot stripes across my right forearm, and the skin had split on one of them in a short line beaded with blood", and the back of the fleece "pulled at something underneath that had begun to stick".
+- **Kallia's lodging (p183):** "A short way above the spring the road turned off between houses into a lane". Updated in kallias-house, delphi, household_ch5 and CH5-1.
+- **Language of each reply to Kallia:**
+  - Tagged English: p147-p148 ("She heard the English") and p161 ("In English").
+  - Head-shake: p169, "I shook my head." (to "Weave?").
+  - Untagged: "Eggs. I can do eggs." (p171; p172 "She took that for a no"), "Mine." (p177) and "Where are we going?" (p181).
+  - No line of hers after p65 is Greek.
+- **Herald and fountain:** "I could follow most of it" (p119). A new Mara knowledge row records her doubt about the four oxen (p130). Added to the delphi decree row and the fountain men.
+- **Other wording now on the page:**
+  - "clay women" (p23);
+  - "planted himself" (p131);
+  - "The question was finished before his look was" (p132);
+  - "the flame under my chin" (p154);
+  - "She let me finish" (p162);
+  - the sieve is "my good one" (p187), and Kallia bangs on the door "with her fist" (p183) and goes "round the mesh with one finger" (p190);
+  - the lead is scored "with the edge of a coin from my pocket" (p53);
+  - the Kourion grains "under my lens like ground sugar" (p37);
+  - the bull is "polished bright"; the wall is "fitted together in curving shapes";
+  - the guide is "lean, bandy-legged";
+  - the slave holds the rod "bent open in his two fists where it had split";
+  - "the noise of the square sank under his voice";
+  - "smelling of moss and cold water"; "The cold of it stopped my breath";
+  - "the word that came to me for all of it was English: ugly".
+
+### Contradictions
+- **CH5-1: RESOLVED.** p183 puts the lodging "a short way above the spring". foundation ("by"), the bible ("near … a short walk above") and the page now carry one value.
+- **CH5-5: RESOLVED.** The taxi now comes up from Arachova, which matches ch-03:p3 and p5.
+- **CH5-2 (info): narrowed, still open.** All five original bible paraphrases now quote the prose. What remains: the bible's Kallia card (l.223-224) says Mara answers "in English throughout" and that "'Mine.' is said in English", but after N3/N4 the page tags neither "Mine." nor "Where are we going?" nor "Eggs". The bible also says "clay lamp"; the page says "a lamp".
+- **CH5-6 (info): narrowed, still open.** No Greek from Mara after p65. The head-shake replaces "No.", and p172 and p182 read as Kallia not understanding her. But three replies (p171, p177, p181) carry no language tag again since N3/N4.
+- **CH5-3 (info): still open.** The Kroton frame (p54) still breaks the plan's "the rest happen off the page".
+- **CH5-4 (info): still open.** Ch.5 now has exactly one touch (p211). The count question comes from ch-03:p69 and ch-04:p43, and both are unchanged.
+- **CH3-3 (low): still open.** p138 still has a pen; outline.md:213 and :222 still have the hut.
+- **CH3-7 (info): still open.** The year and span are unchanged (p110-p111), and the page still never names a door.
+- **CH4-2 (info): still open.** The storeroom "corners of the granola box" are cut; the pouch-vs-bar question is unchanged.
+- **CH4-3 (info): still open.** "fleece" still appears six times (p75, p88, p93, p138, p164, p211), with no "jacket".
+- **CH4-4 (info): still open.** Ch.5 does not touch the inscription.
+
+No new conflicts. No knowledge_gap. No needs_review.

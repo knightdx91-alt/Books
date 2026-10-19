@@ -19,27 +19,24 @@ What was done:
   mode + Step D.6 shape audit, docs updated.
 
 ## Resume point
-**Ch.1–4 FINAL (2026-10-19).** Next: **Ch.5 "The Sanctuary"** — ledger: Chronological (walk, the city
-changing as the road does) · open: scene-setting (time) → `scene-set` · end: long fade → `long-fade` ·
-8,300w · dialogue 20–30% · theme present · 4 breaks · gear high. Beats: the descent; the Sacred Way with
-Nero's empty statue bases (anchor: the temple PAINTED, and it looks ugly to her; surprise: she is ashamed
-of being disappointed); seized on the temple steps, beaten off briefly; a herald — Titus has taken
-Jerusalem — AD 70, Vespasian, as a PRESENT realization, no thought of Pompeii or 79; night at the Castalian
-spring, KALLIA inspects her hands and teeth and takes her home as unpaid help; the storeroom, the Seiko,
-the microcassette touched without comment. Hook/pull types used: Ch.1 CONTRAST / QUESTION-PLANT, Ch.2
-VOICE / EMOTIONAL-GUT-PUNCH, Ch.3 SENSORY-IMMERSION / CLIFFHANGER, Ch.4 IN-MEDIAS-RES / REVELATION — repeat
-none. WATCH: the knucklebone touch is spent (2 uses frozen); the microcassette touch in Ch.5 is planned
-and counts; no device-turning; no "[color] of [thing]"; no item-by-item looks; gesture classes ≤2 per
-500 words. WATCH: the GESTURE layer of the tic gate is live (3+ of one
-stage-business class within 500 words, or over the chapter cap, fails) — in a chapter of walking and
-climbing, vary the body's business; "somebody/nobody" and "X, or Y" hedges are near their book-wide
-limits already; the at-risk list in character-bible.md. The blueprint, entity state and bible are current.
+**PAUSED AT REVIEW CHECKPOINT 1 — Ch.1–5 FINAL (2026-10-19).** `awaiting_author_review: true` in
+STATE.yaml. The author's review bundle is `feedback/review-ch1-5.md`. When the author says "continue",
+set the flag back to false and resume at **Ch.6 "Snow at the Cave Mouth"** (read its ledger row and
+section in outline.md). Hook/pull types used so far: Ch.1 CONTRAST / QUESTION-PLANT, Ch.2 VOICE /
+EMOTIONAL-GUT-PUNCH, Ch.3 SENSORY-IMMERSION / CLIFFHANGER, Ch.4 IN-MEDIAS-RES / REVELATION, Ch.5
+QUESTION / DECISION-POINT — repeat none. Ending signatures so far: quiet, long-fade, punch, dialogue,
+long-fade (long-fade is at 2 of 5 — do not use it again before Ch.8). WATCH: the at-risk list in
+character-bible.md (now three dated blocks); run `python3 tools/tic_report.py --echoes N` on every fresh
+draft; Kallia's hands are tasks, never handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Chapter log
 - **Ch.1 "The Reception"** — 6,546w · Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 9.0 · 2 polish cycles
   (Prose was the holdout: chain sentences and an inventory form that was a tic forming) · entity +
   continuity audit per chapter clean · full chain in STATE.yaml history. Re-opened later the same day
   for two subtractive gesture trims (object handling 9 → 4) when the gesture layer went live; 6,503w.
+- **Ch.5 "The Sanctuary"** — 8,184w · Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 8.7 / Immersion 9.0 · 1 polish
+  cycle (Prose: nine cross-chapter repeats; one critical third-use; 17 audit warnings) · full chain in
+  STATE.yaml history.
 - **Ch.4 "The Goats Saw Me First"** — ~1,825w · Floor 8.5 / Avg 8.50 / Casual 8.5 / CVI-L 8.9 · 1 polish
   cycle (Prose: five cross-chapter repeats; two critical third-uses of capped shapes) · first full shape
   audit clean in strict mode · full chain in STATE.yaml history.
@@ -51,6 +48,7 @@ limits already; the at-risk list in character-bible.md. The blueprint, entity st
   13 audit warnings all fixed · full chain in STATE.yaml history.
 
 ## Pacing log
+- Ch.5 (FINAL): PASS — decelerates on the Sacred Way, accelerates on the steps and the beating, slow storeroom fade, as planned; dialogue 20.4% at the bottom of the band (narration-heavy by design: a woman who cannot speak); 8,184w vs 8,300; slot: hunger → disappointment/shame → pain → date-shock → shelter; sags noted but accepted: the monument roll-call, the fountain men (now pays off).
 - Ch.4 (FINAL): PASS — fast throughout; the 6,817 → 1,876 collapse is the structural shock the ledger asked for, and the evaluator confirms it lands rather than thins; dialogue 16% in band; theme recedes cleanly (body and survival only); ends on his word, nothing after.
 - Ch.3 (FINAL): PASS — slow sensory climb → one held sentence at the threshold → fast short sentences outside, as planned; curiosity → cold → embarrassment; dialogue 5.8% in the 5–15% band; 6,837w vs 6,800; single unbroken scene after Ch.2's six-break collage; the modern frame closes on a 5-word cliffhanger.
 - Ch.2 (FINAL): PASS — brisk documents / slow textural days / quick packing as planned; curiosity rising after the grief-low with one laugh (kept a crack, not a collapse); dialogue 14.7% in the 10–20% band; 4,101w vs 4,200; the italic blocks land unpredictably; document-fragment close with nothing after it.
@@ -61,4 +59,5 @@ limits already; the at-risk list in character-bible.md. The blueprint, entity st
 - after Ch.1: n/a (needs 4 chapters); Ch.1 signatures `I-statement` / `quiet`.
 - after Ch.2: n/a (needs 4); Ch.2 `narrative` / `long-fade`; lengths 6,503 / 4,101; dialogue 31% / 15%; breaks 3 / 6.
 - after Ch.3: n/a (needs 4); Ch.3 `long-spiral` / `punch`; 6,837w; dialogue 6%; 0 breaks; median sentence 18 (gear high). First full audit fires after Ch.4.
+- after Ch.5 (--strict): CLEAN. Five different openings; endings quiet / long-fade / punch / dialogue / long-fade; lengths 6,473 / 4,069 / 6,817 / 1,821 / 8,184 (CV 0.42, max÷min 4.5); dialogue 31 / 15 / 6 / 17 / 20%; breaks 3 / 6 / 0 / 7 / 4; median sentence 11 / 16 / 18 / 10 / 17.
 - after Ch.4 (FIRST FULL AUDIT, --strict): CLEAN. Openings I-statement / narrative / long-spiral / short-punch; endings quiet / long-fade / punch / dialogue; lengths 6,473 / 4,069 / 6,817 / 1,876 (CV 0.42, max÷min 3.6); dialogue 31 / 15 / 6 / 18%; breaks 3 / 6 / 0 / 7; median sentence 11 / 16 / 18 / 9.
