@@ -301,6 +301,17 @@ def echo_scan(files, n_target, allow):
         kept.append((L,j,chs))
     return kept
 
+# Chapters are found relative to THIS script (books/<name>/tools/), not the current directory, so a
+# run from the repo root checks the same files as a run from the book folder instead of finding none.
+BOOK_DIR = Path(__file__).resolve().parent.parent
+
+def chapter_files():
+    files = sorted(glob.glob(str(BOOK_DIR / "manuscript" / "chapters" / "chapter-*.md")),
+                   key=lambda p: int(re.search(r"(\d+)", Path(p).name).group(1)))
+    if not files:
+        sys.exit(f"tic_report: no chapters found under {BOOK_DIR}/manuscript/chapters — refusing to report a clean result")
+    return files
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--file")
@@ -311,8 +322,7 @@ def main():
                     help="exit 1 if any non-allowlisted phrase recurs 3+ times book-wide, or a gesture beat clusters (tic budget = 0)")
     a = ap.parse_args()
     if a.echoes:
-        allfiles = sorted(glob.glob("manuscript/chapters/chapter-*.md"),
-                          key=lambda p: int(re.search(r"(\d+)", Path(p).name).group(1)))
+        allfiles = chapter_files()
         allow = [re.sub(r"\\b|\(\?:|[()\\|?]", "", m).strip() for m in MOTIFS] + [w.lower() for w in WORLD_TERMS]
         hits = echo_scan(allfiles, a.echoes, allow)
         print(f"ECHO SCAN — chapter {a.echoes}: phrases already used in an earlier chapter (2nd use; vary them now)")
@@ -321,9 +331,9 @@ def main():
             print(f"  \"{j}\"  (earlier in ch {','.join(map(str,chs))})")
         print(f"RESULT: {len(hits)} echo(es)")
         sys.exit(0)
-    files = [a.file] if a.file else sorted(
-        glob.glob("manuscript/chapters/chapter-*.md"),
-        key=lambda p: int(re.search(r"(\d+)", Path(p).name).group(1)))
+    if a.file and not Path(a.file).exists() and (BOOK_DIR / a.file).exists():
+        a.file = str(BOOK_DIR / a.file)
+    files = [a.file] if a.file else chapter_files()
     rows = []
     for f in files:
         w, total, counts, vf = analyze(f)
@@ -345,8 +355,7 @@ def main():
         if not vf: print("  (none)")
 
     # ---- AUTO-RECURRENCE (tic candidates) — always book-wide ----------------
-    allfiles = sorted(glob.glob("manuscript/chapters/chapter-*.md"),
-                      key=lambda p: int(re.search(r"(\d+)", Path(p).name).group(1)))
+    allfiles = chapter_files()
     allow = [re.sub(r"\\b|\(\?:|[()\\|?]", "", m).strip() for m in MOTIFS] + [w.lower() for w in WORLD_TERMS]
     prose_hits, speech_hits, where = recurrence_scan(allfiles, allow)
     print("\nAUTO-RECURRENCE — tic candidates (tic budget = 0; allowlisted motifs exempt):")

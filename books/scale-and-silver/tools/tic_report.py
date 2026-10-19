@@ -52,13 +52,24 @@ def analyze(path):
             vf.append((i, had_ed, ing, line[:90]))
     return words, total, counts, vf
 
+# Chapters are found relative to THIS script (books/<name>/tools/), not the current directory, so a
+# run from the repo root checks the same files as a run from the book folder instead of finding none.
+BOOK_DIR = Path(__file__).resolve().parent.parent
+
+def chapter_files():
+    files = sorted(glob.glob(str(BOOK_DIR / "manuscript" / "chapters" / "chapter-*.md")),
+                   key=lambda p: int(re.search(r"(\d+)", Path(p).name).group(1)))
+    if not files:
+        sys.exit(f"tic_report: no chapters found under {BOOK_DIR}/manuscript/chapters — refusing to report a clean result")
+    return files
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--file")
     a = ap.parse_args()
-    files = [a.file] if a.file else sorted(
-        glob.glob("manuscript/chapters/chapter-*.md"),
-        key=lambda p: int(re.search(r"(\d+)", Path(p).name).group(1)))
+    if a.file and not Path(a.file).exists() and (BOOK_DIR / a.file).exists():
+        a.file = str(BOOK_DIR / a.file)
+    files = [a.file] if a.file else chapter_files()
     rows = []
     for f in files:
         w, total, counts, vf = analyze(f)
