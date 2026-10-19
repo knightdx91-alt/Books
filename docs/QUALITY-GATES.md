@@ -200,6 +200,12 @@ excluded): **AND-CHAINS**, sentences with four or more "and"s, capped at max(9, 
 (one designed held sentence is a device; a dozen is the narrator's default rhythm — Hazel Academy ran 2–8
 early and drifted to 20–26 late), and **CREDENTIAL ASIDES**, the book-specific phrases by which a narrator
 files the world under her own expertise (`CREDENTIAL_PATTERNS` in the book's copy; capped at 4 per chapter).
+The echo scan also lists **COMMAND ECHO candidates**: a short quoted order whose verb returns at the head of
+the next narration paragraph ("Hold that corner." / "I held it…"), the narrator answering an order by repeating
+it as compliance. Defiance and plain narrative match too, so the list is judged by hand and never fails; a
+book allows about three real ones. It exists because the move slipped past the writer, the disruptor and the
+bible in Hour of Ash Ch.9.
+
 The **ECHO SCAN** (`--echoes N`) also reads the book's `voice-bank/samples/` when there is one: a 5+-word phrase
 shared with a benchmark sample is listed as an echo from "voice-bank", because the samples are register targets,
 never text to reuse (shorter matches are left out; the samples share the book's own nouns).

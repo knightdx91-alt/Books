@@ -368,6 +368,33 @@ def chapter_files():
         sys.exit(f"tic_report: no chapters found under {BOOK_DIR}/manuscript/chapters — refusing to report a clean result")
     return files
 
+# ---- COMMAND ECHO candidates (hand-judged; printed with --echoes) -------------------------------------
+# A short quoted order whose verb returns at the head of the next narration paragraph ("Hold that corner."
+# / "I held it…") — the narrator answering an order by repeating it as compliance. Defiance and plain
+# narrative also match ("Look at me." / "I looked at the jar"), so this lists candidates; it never fails.
+CMD_IRR={"tell":["told"],"take":["took","taken"],"give":["gave","given"],"go":["went","gone"],"hold":["held"],"bring":["brought"],"put":["put"],"sit":["sat"],"stand":["stood"],"keep":["kept"],"leave":["left"],"come":["came"],"get":["got"],"say":["said"],"find":["found"],"eat":["ate","eaten"],"drink":["drank"],"run":["ran"],"lie":["lay"],"make":["made"],"shut":["shut"],"let":["let"],"send":["sent"],"wind":["wound"],"sing":["sang"],"speak":["spoke"],"throw":["threw"],"wear":["wore"],"hang":["hung"],"sweep":["swept"],"fetch":["fetched"],"stamp":["stamped"],"walk":["walked"]}
+def _cmd_forms(v):
+    f={v,v+"s",v+"ed",v+"d",v+"ing",v[:-1]+"ied" if v.endswith("y") else v}
+    if len(v)>2 and v[-1] not in "aeiouwy" and v[-2] in "aeiou" and v[-3] not in "aeiou": f.add(v+v[-1]+"ed")
+    f.update(CMD_IRR.get(v,[])); return f
+CMD_STOP={"i","you","we","no","yes","oh","what","who","why","how","where","when","the","a","it","that","this","and","but","if","so","not","then","there","here","they","he","she","my","your","good","well","all","one","now","come"}
+def command_echo_scan(path):
+    t=re.sub(r"<!--.*?-->","",Path(path).read_text(),flags=re.S)
+    paras=[p.strip() for p in t.split("\n") if p.strip() and not p.startswith("#")]
+    hits=[]
+    for a,b in zip(paras,paras[1:]):
+        qs=re.findall(r"[“\"]([^”\"]+)[”\"]",a)
+        if not qs or re.search(r"[“\"]",b): continue
+        for q in qs:
+            w=re.findall(r"[A-Za-z']+",q)
+            if len(w)<1 or len(w)>8: continue
+            v=w[0].lower()
+            if v in CMD_STOP or len(v)<3: continue
+            head=[x.lower() for x in re.findall(r"[A-Za-z']+",b)[:8]]
+            if _cmd_forms(v) & set(head):
+                hits.append((q[:50], " ".join(head)))
+    return hits
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--file")
@@ -386,6 +413,12 @@ def main():
         for L,j,chs in hits[:60]:
             print(f"  \"{j}\"  (earlier in ch {','.join(map(str,chs))})")
         print(f"RESULT: {len(hits)} echo(es)")
+        target_file = [f for f in allfiles if int(re.search(r"(\d+)", Path(f).name).group(1)) == a.echoes]
+        cands = command_echo_scan(target_file[0]) if target_file else []
+        print("COMMAND ECHO candidates (an order repeated back as compliance? judge each; a book allows ~3 total):")
+        for q, head in cands:
+            print(f"  \"{q}\"  ->  {head}")
+        if not cands: print("  none.")
         sys.exit(0)
     if a.file and not Path(a.file).exists() and (BOOK_DIR / a.file).exists():
         a.file = str(BOOK_DIR / a.file)
