@@ -108,6 +108,11 @@ manuscript, a session MUST:
   count too** (author, 2026-10-18): stage business repeated with varied wording (picking things up
   and setting them down, nodding, swallowing, "a long moment"…) is a tic; the gate's gesture layer
   fails 4+ of one class in a chapter or > 0.3/1k book-wide.
+- **From the author's independent read of Ch.1–5 (2026-10-19):** narration and-chains ≤ max(9, words/900)
+  per chapter (one designed held sentence allowed); Mara's credential asides (lab / seminar / grammars /
+  graduate school) ≤4 per chapter; no prop handled 3+ times in 400 words; and **keep Ch.6–8 moving** —
+  Valens's arrival is the book's first romance beat and Part One has spent its patience on solitary
+  stretches. All enforced by `tools/tic_report.py --gate` (step 5a of check_chapter.sh).
 - **Retired reflexes** (STATE.yaml guardrails): no retrospective significance-tagging, no
   define-by-negation openers, no anaphora triads, no performed-candour tics, no device as a
   scene-button, no closing aphorisms.

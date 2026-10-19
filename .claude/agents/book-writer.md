@@ -243,6 +243,14 @@ entry:
   pausing "for a long moment". Use a beat ONCE and then find a different thing for the body to do —
   or no beat at all (a line can stand without a gesture). Never more than 3 of one gesture class in a
   chapter; across chapters, rotate.
+- **Rhythm and voice reflexes are gated too.** In narration, sentences with four or more "and"s are
+  capped at max(9, words ÷ 900) per chapter: one designed held sentence is a device, a dozen is a
+  default rhythm, so split action into shorter sentences. If the book defines `CREDENTIAL_PATTERNS` in
+  its `tools/tic_report.py`, the narrator's habit of filing what she sees under her own expertise is
+  capped at 4 per chapter. Let most sights stand on their own.
+- **Props never do the acting.** No single object handled three times within 400 words (turned in the
+  fingers, set down, picked up, taken off, put back). If a character needs a beat between lines, give
+  them something new to do, or no beat.
 - **Run the ECHO SCAN on your draft before you finish:** `python3 tools/tic_report.py --echoes N` from the
   book folder lists every phrase in your chapter that an earlier chapter already used. A second use is
   where a tic starts; vary every hit that is not an allowlisted motif.
