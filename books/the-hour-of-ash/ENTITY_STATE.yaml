@@ -4311,14 +4311,26 @@ knowledge_index:
     - { who: "mara-reyes", what: "went to Greece in '68 and did not come back (Szabo); meant to go in on 22 July 1968 with a flashlight and kite string and be home before Labor Day; his overcoat was forwarded to Margaret on 16 Sept 1968. She disbelieves the scholion and puts the cold air down to caves breathing. She states no conclusion about his fate.", from_chapter: 2, method: "discovered; inferred (belief)", source: "ch-01:p90; ch-02:p4; ch-02:p22; ch-02:p66; ch-02:p69" }
     - { who: "mara-reyes", what: "Ch.3, before the cold comes: still reads his cold as 'the weather on the far side of the mountain, coming through the rock' (the 'bigger fool' sentence is cut in the author fixes). After the crossing she draws no conclusion about him on the page", from_chapter: 3, method: "inferred (belief)", source: "ch-03:p67" }
     - { who: "mara-reyes", what: "Ch.5, to Kallia in English: she came to Greece 'because of a dead man's notebook'. This is the first time the page has her call the notebook's owner dead (plan: Fenn is alive in antiquity, Ch.25)", from_chapter: 5, method: "inferred (belief)", source: "ch-05:p159" }
-
+  seiko_with_valens:
+    # who knows that Valens holds Emilio's Seiko (from the evening before the Ch.6 climb)
+    - { who: "valens", what: "he holds it as his fee; it was her father's; how to wind it (not how to set it)", from_chapter: 6, method: "witnessed; told_by:mara-reyes", source: "ch-06:p121; ch-06:p137; ch-06:p144" }
+    - { who: "mara-reyes", what: "Valens keeps it in his belt pouch, will wind it forward, and will not sell it back", from_chapter: 6, method: "witnessed; told_by:valens", source: "ch-06:p143; ch-06:p302; ch-06:p307" }
+    - { who: "kallia", what: "NOT known: the deal was made in the lane after she went in", from_chapter: null, method: null, source: "ch-06:p76" }
+    - { who: "charcoal-burner-parnassus", what: "NOT shown (the watch is never out at the kiln)", from_chapter: null, method: null, source: "ch-06:p308-p327" }
+    - { who: "anyone who asks", what: "COVER (Valens): 'You went up by yourself. You never had a watch.'", from_chapter: 6, method: "told_by:valens", source: "ch-06:p342" }
+  mountain_trip_ch6:
+    # who knows that Mara went up to the Corycian cave with Valens in the snow
+    - { who: "mara-reyes, valens", what: "the climb, the cave, the descent", from_chapter: 6, method: "witnessed", source: "ch-06:p161-p342" }
+    - { who: "charcoal-burner-parnassus", what: "saw them on the path at dawn (from below) and hosted them at his kiln at dusk coming down; knows Mara hurt her hand ('She hit Pan')", from_chapter: 6, method: "witnessed; told_by:valens", source: "ch-06:p184; ch-06:p309; ch-06:p323; ch-06:p324" }
+    - { who: "kallia", what: "knows Mara went out before light with the duffel and the shovel; where and with whom is not stated", from_chapter: 6, method: "witnessed", source: "ch-06:p154; ch-06:p155; ch-06:p160" }
 # =====================================================================
 # PLOT THREADS (each with its scheduled payoff)
 # =====================================================================
 plot_threads:
   the-where:
     description: "where the door home is"
-    opened: { chapter: 6, detail: "the door she came by is shut", source: "outline:ch-06" }
+    opened: { chapter: 6, detail: "the door she came by is shut", source: "outline:ch-06", ch6_page: "WRITTEN as a null test. The crack gives 'Cold that was only cold' from before 1:10 to 1:55 by the watch; 'The rock was cold. The air did not move.' No 'door' or 'shut' in the narration", ch6_source: "ch-06:p240; ch-06:p246; ch-06:p248" }
+    status_note: "open on the page from Ch.6: the way she came is closed to her for now; where else to look is not raised in Ch.6"
     beats: [8, 9, 11, 12]
     payoff_chapter: 13
     secondary_payoff: { chapter: 19, detail: "the tomb found, dormant, after a short search of the tomb roads (set up by the god's second marker, Ch.13)", source: "outline:ch-19; outline:ch-13" }
@@ -4353,6 +4365,7 @@ plot_threads:
     description: "the door home, from crossing to choice"
     opened: { chapter: 3, detail: "the crossing at the Corycian crack (1:40 by her watch); she backs out into a changed cave and steps out into autumn ('October'); she names no door", source: "ch-03:p68-p84" }
     beats: [6, 8, 13, 19, 25, 30, 33, 36, 41]
+    ch6_beat: { chapter: 6, detail: "the return attempt fails: a month later, in snow, with Valens holding the light, the crack at the bend gives no cold she can tell from the mountain's; she pleads in English, hits the slab and makes a wordless noise; she comes down with everything she owns", source: "ch-06:p2; ch-06:p240; ch-06:p245; ch-06:p246; ch-06:p249; ch-06:p250; ch-06:p341" }
     payoff_chapter: 43
     status: "open"
     source: "foundation:§5; outline:ch-42; outline:ch-43"
@@ -4360,6 +4373,7 @@ plot_threads:
   celer-and-the-frame:
     description: "Valens framed by Celer's dowry scheme; resolved by lawsuit"
     opened: { chapter: 9, detail: "reward notice", source: "outline:ch-09" }
+    ch6_note: { chapter: 6, detail: "nothing of Celer, the frame or a notice on the page. Valens's watchfulness (the donkey man 'Somebody for you'; 'Men will come asking') is pinned on HER pursuers. He lives openly in Delphi under the name Valens (meta P5 ch6_note)", source: "ch-06:p188; ch-06:p342" }
     beats: [12, 15, 16, 17, 21]
     knowledge_paths: "Ch.12 suit source (brother's freedman, autumn 70); Ch.21 summons address (via Plautia, Valens's word in summer 72)"
     knowledge_paths_source: "outline:ch-12; outline:ch-21; STATE:ARCH-15"
@@ -4377,7 +4391,7 @@ plot_threads:
 
   romance:
     description: "Mara and Valens"
-    opened: { chapter: 6, source: "outline:ch-06" }
+    opened: { chapter: 6, source: "ch-06:p36", ch6_page: "the first two-hander (the lane; the climb; the cave; the descent). On the page: a hire and a fee, his laugh 'with nobody at the end of it', warm bread shared, 'It was the first thing you did up here I understood', 'A thief doesn't fill the widow's jar before she goes', the refused resale, neither name asked. The narration has no romance signals (outline warning kept; the disruptor cut the one 'romance-adjacent glance' per disruption-chapter-6.md)", ch6_source: "ch-06:p144; ch-06:p254; ch-06:p256; ch-06:p263; ch-06:p271; ch-06:p302; ch-06:p336" }
     beats: [11, 15, 18, 23, 34]
     payoff_chapter: 43
     heat_scenes:
@@ -4400,7 +4414,7 @@ plot_threads:
 
   valens-known:
     description: "Valens from nobody to known under his own name"
-    opened: { chapter: 6, source: "foundation:§3" }
+    opened: { chapter: 6, source: "foundation:§3", ch6_page: "on the page he is known locally as Valens (Kallia), as 'Mule-man' (the charcoal burner) and to the sanctuary dogs, but he tells nothing of himself ('North.'; 'On the road.'). He practices being nobody for both of them: lies for her at the kiln and erases the trip and the watch ('You went up by yourself. You never had a watch.')", ch6_source: "ch-06:p48; ch-06:p161; ch-06:p206; ch-06:p309; ch-06:p316; ch-06:p338; ch-06:p342" }
     beats: [12, 13, 21]
     payoff_chapter: 22
     aftermath: 23
@@ -4415,6 +4429,7 @@ plot_threads:
   kallias-son:
     description: "Kallia's swept room and her son"
     opened: { chapter: 7, source: "outline:ch-07" }
+    ch6_preplant: { chapter: 6, detail: "unexplained on the page: Kallia asks Valens 'Is the sea shut yet?', whether anything 'came in from the east before it went', then 'Letters.'; he: 'I don't carry letters.' / she: 'Nobody asked what you carry.' The son is not named or mentioned. The plan's letter is from Emesa in Syria (east) and sits at Kirrha all winter (Ch.10)", source: "ch-06:p68; ch-06:p70; ch-06:p72; ch-06:p73; ch-06:p74; outline:ch-10" }
     payoff_chapter: 10
     coda: 16
     status: "planned_open"
@@ -4512,6 +4527,7 @@ plot_threads:
     ch3_beat: { chapter: 3, detail: "the shepherd's pen on the Parnassus path: a fallen corner rebuilt flat against the old herringbone, standing out 'as plainly as a patch on a sleeve', with a bedspring mortared into the join for a hinge; she photographs the join twice and is 'more pleased with that one than with anything I had taken in Delphi'", source: "ch-03:p14" }
     ch4_note: { chapter: 4, detail: "related fact, not a planned beat: in AD 70 a pen stands whole where the pen had stood ('Past the firs a pen …'), every stone on edge, and 'The corner kept the same long slant as the rest'. The flat-coursed repair and the bedspring of Ch.3 do not exist yet", source: "ch-04:p61; ch-03:p14" }
     ch5_note: { chapter: 5, detail: "related fact, not a planned beat: the god's own house has been touched up badly. The new blue on the porch molding is 'slopped over the edge of the old border by a painter in a hurry', who missed a hand's breadth behind a column; Mara is smiling at it when she is seized. Also, the Kroton base keeps the marks of the taking ('The streaks were the oldest thing on the block; the holes were the newest')", source: "ch-05:p44; ch-05:p72" }
+    ch6_note: { chapter: 6, detail: "related facts, not planned beats: Valens's scar, 'Whoever closed it had been in a hurry and set the stitches too far apart, and it had healed in a ladder, every rung raised and white' (a visible, hasty mend, read by Mara's eye); Mara's woodstack built 'two this way and two that, so that it would stand on its own and not lean on Kallia's wall, which had enough to hold up already'", source: "ch-06:p42; ch-06:p59" }
     beats: [1, 3, 9, 20]
     payoff_chapter: 43
     status: "planned_open"
@@ -4519,14 +4535,14 @@ plot_threads:
 
   relics-microcassette: { description: "her father's voice", opened: 1, opened_source: "ch-01:p188", ch5: "the planned touch, in its sock in the duffel in Kallia's storeroom, no comment (ch-05:p209; CH5-4 on the count). Next planned: Ch.19, Ch.35", payoff_chapter: 43, status: "open", source: "foundation:§4f; outline:ch-43" }
   relics-film-roll: { description: "the 36-frame record", opened: 2, opened_source: "ch-02:p64 (loaded; 0 frames)", ch3: "Delphi stadium ('a little', count unstated) + 6 frames on the page (ch-03:p6-p49); counter not mentioned", ch5: "1 frame: the empty Kroton base (ch-05:p52; CH5-3). Plan count 9 shot / 27 left; page at least 8 / at most 28", payoff_chapter: 43, last_frame_chapter: 38, status: "open", source: "foundation:§4f; outline:ch-38; outline:ch-43" }
-  relics-watch: { description: "the watch-winding (the only countdown)", opened: 1, opened_source: "ch-01:p191", ch3: "wound on the Delphi balcony; running; reads 'ten to two' at the mouth under a low sun (ch-03:p4; ch-03:p81)", ch5: "struck by the rod (no damage stated); 'ten minutes' by it (to Kallia); ticking in the storeroom dark; not wound on the page (ch-05:p86; ch-05:p159; ch-05:p210)", payoff_chapter: 43, status: "open", source: "foundation:§4f" }
+  relics-watch: { description: "the watch-winding (the only countdown)", opened: 1, opened_source: "ch-01:p191", ch3: "wound on the Delphi balcony; running; reads 'ten to two' at the mouth under a low sun (ch-03:p4; ch-03:p81)", ch5: "struck by the rod (no damage stated); 'ten minutes' by it (to Kallia); ticking in the storeroom dark; not wound on the page (ch-05:p86; ch-05:p159; ch-05:p210)", ch6: "set to local time by the gatepost's noon shadow (her second day at Kallia's); paid to Valens as his fee; wound backward by him until stopped, then forward to full; in his belt pouch; 'Forward. Till it stops, and not past.'; 'You never had a watch.' Mara is without a watch from here (ch-06:p13; ch-06:p132; ch-06:p138; ch-06:p143; ch-06:p144; ch-06:p307; ch-06:p342)", payoff_chapter: 43, status: "open", source: "foundation:§4f" }
   relics-knucklebone: { description: "the bone that went to 1998 and came back", opened: 3, opened_source: "ch-03:p58 ('I pocketed it')", ch4: "not mentioned in Ch.4 since polish cycle 1 (CH4-1 RESOLVED); the nymphs' ledge shows three offered knucklebones (ch-04:p28)", payoff_chapter: 44, status: "open", source: "foundation:§4f; outline:ch-44; ch-03:p55-p59" }
 
   hand-at-threshold:
     description: "repeated situation: her hand at a door"
     occurrences:
       - { chapter: 3, detail: "FIRST INSTANCE (on the page). (a) She reaches into the crack: rock and air, cave cold, her palm flat in the opening feels no air moving (p62). (b) She slides her hand in at intervals while she waits: at 12:20 'the rock was still only rock' (p63). (c) At 1:40 the cold crosses the back of her left hand on her knee; she pushes her hand in, palm toward the dark: dry, edged cold aching to the wrist, the drip thinning, the bells gone (p69-p70). (d) She draws her hand out and goes in bodily (p72-p73). (e) Back in the hall, her hand held to the crack: nothing coming out (p78)", source: "ch-03:p62; ch-03:p63; ch-03:p69; ch-03:p70; ch-03:p72; ch-03:p78" }
-      - { chapter: 6, detail: "hands in the shut cave floor", source: "outline:ch-06; foundation:§4f" }
+      - { chapter: 6, detail: "WRITTEN: hands in the shut cave floor. (a) She scrapes the crack's floor to bare rock and chops at the frozen plates with the shovel. (b) 'I pressed my hand flat in the bottom of the bend … Nothing moved across them.' (c) Arriving, she 'worked my hand in between the two faces of rock and kept it there, palm to the black': 'Rock. Air. Cold that was only cold.' (d) At the end, 'I pushed my fingers into the gap, flat, as deep as they would reach', pleads, and 'The rock was cold. The air did not move.' (e) Her hand on the slab, then her fist and the heel of her hand against it", source: "ch-06:p1; ch-06:p8; ch-06:p239; ch-06:p240; ch-06:p244; ch-06:p246; ch-06:p249" }
       - { chapter: 8, detail: "nothing; no scream", source: "outline:ch-08" }
       - { chapter: 19, detail: "painted false door faintly cool on a warm spring afternoon", source: "outline:ch-19" }
       - { chapter: 27, detail: "Fenn's palm on the dead Cumae door", source: "outline:ch-27" }
@@ -4586,6 +4602,7 @@ plot_threads:
   maras-legal-nonexistence:
     description: "a woman alone, with no man, no owner, no guardian and no name anyone asks for (the Part One engine, outline Ch.5 'Adds: … the fact that a woman alone has no status')"
     opened: { chapter: 5, detail: "'Where's your man?' / 'I have no man.' / 'Lucky.' (the press woman); 'You don't know what she is' (the pilgrim mother); 'Whose is she? Does anyone know her?' and 'She's run off from some house' (the temple steps); 'On your own? Lost your people?' and 'a house … that takes in girls on their own' (the procurer); 'Whose are you?' / 'Mine.' (Kallia, using the same word as the men on the steps); 'A pair of hands' (Kallia to the gallery). Nobody asks her name", source: "ch-05:p11; ch-05:p13; ch-05:p14; ch-05:p20; ch-05:p76; ch-05:p77; ch-05:p130; ch-05:p173; ch-05:p174; ch-05:p175; ch-05:p197" }
+    ch6_beat: { chapter: 6, detail: "'In this whole country not one person knows my name. The widow has not asked it.' Valens has not asked it either ('No.'). Valens's reading of a lone woman in trousers is a runaway pursued by 'a father or a husband'. The burner: 'Since when has Kallia got anybody?' Valens answers for her: 'She's the widow Kallia's.' This is the first time she is publicly called somebody's, as a cover", source: "ch-06:p116; ch-06:p117; ch-06:p119; ch-06:p316; ch-06:p317; ch-06:p329; ch-06:p336" }
     beats: [7]
     payoff_chapter: 7
     payoff_detail: "registered as Kallia's dependent kinswoman 'from Syracuse' (plan); the 'whose' question is SPENT at two uses in Ch.5 (character-bible at-risk list), so Ch.7 must word it differently"
@@ -4597,16 +4614,29 @@ plot_threads:
     opened: { chapter: 5, detail: "at the spring: 'In the morning I would go back up … if the cold had leaked from that rock at one-forty on a day in May it might come again on some other day, if I sat there long enough with my hand in the crack'; in the storeroom she works out an early start (ashes and water first, the cart track by full light, 'the cave at the top of it by noon')", source: "ch-05:p136; ch-05:p210" }
     payoff_chapter: 6
     payoff_detail: "plan: she goes up in November snow with Valens (paid with the Seiko) and the cave is only a cave"
-    status: "open"
-    source: "outline:ch-05; outline:ch-06"
+    ch6_payoff: { chapter: 6, detail: "PAID. The morning plan 'had not lasted the first day' (Kallia's work). On the fourth morning she reached the top of the town and turned back, with no way up the cliff (CH6-5). About a month later she hires Valens with the Seiko; the crack gives nothing; she comes down", source: "ch-06:p38; ch-06:p144; ch-06:p246; ch-06:p341" }
+    status: "closed"
+    closed_date: "2026-10-19"
+    source: "outline:ch-05; outline:ch-06; ch-06:p38; ch-06:p246"
 
   maras-greek-refusal:
     description: "all-or-nothing about spoken Greek after the guide mocks her Attic"
     opened: { chapter: 5, detail: "the optative sentence 'put away'; 'Keep the coin,' in English; no Greek from her on the page for the rest of the chapter: English tagged to strangers and to Kallia (p114, p133, p146, p159), a head-shake (p167), and three untagged replies to Kallia (p169, p175, p179; CH5-6 narrowed, still open)", source: "ch-05:p62; ch-05:p63; ch-05:p114; ch-05:p133; ch-05:p146; ch-05:p159; ch-05:p167; ch-05:p169; ch-05:p175; ch-05:p179" }
+    ch6_beat: { chapter: 6, detail: "the month held: 'I had spoken no Greek aloud since the guide on the Sacred Way' (CH5-6 RESOLVED). Broken for Valens ('You go up on the mountain', with 'all its breathings in') and used with the charcoal burner ('It was oats'). It holds with Kallia ('She doesn't talk'; the blanket thanked for in English). See CH6-7 on outline Ch.7 beat 3", source: "ch-06:p39; ch-06:p61; ch-06:p78; ch-06:p79; ch-06:p156; ch-06:p322" }
     beats: [7]
     payoff_detail: "foundation: 'she won't speak it in front of Kallia for a month'"
     status: "open"
     source: "foundation:§3; outline:ch-05; outline:ch-07"
+
+  nymph-rumor:
+    description: "the goat-boy's story of a nymph out of Pan's cave, and the cover Valens puts on it"
+    opened: { chapter: 6, detail: "the charcoal men had it 'at the vintage' (Valens); the charcoal burner, the boy's kin, recognizes her at his kiln; Valens gives him a cover ('She's the widow Kallia's … Since the vintage … She came off a ship' / 'She hit Pan')", source: "ch-06:p86; ch-06:p315; ch-06:p316; ch-06:p318; ch-06:p320; ch-06:p324" }
+    risk: { value: "'He'll have you all over the town by the next market' (Valens). The burner saw them on the mountain together, which cuts against Valens's line 'You went up by yourself'", source: "ch-06:p184; ch-06:p309; ch-06:p329; ch-06:p342" }
+    constraint: "character-bible at-risk list: 'the goat-boy's nymph story told by a third party' is SPENT. The rumor is not retold again on the page (its effects may be shown)"
+    constraint_source: "character-bible.md (At-risk after Ch.6)"
+    payoff_chapter: null
+    status: "open (unplanned)"
+    source: "ch-06:p86; ch-06:p315-p329"
 
   kleodamos-archon:
     description: "the archon's name, heard twice (the goat-boy Ch.4; the herald's decree Ch.5)"
@@ -4641,21 +4671,29 @@ world_rules:
   - { rule: "Dormant/waking door temperature: faintly cool (Ch.19) → the same faint coolness, no colder, after the tremor (Ch.30) → cooler (Ch.36) → cold (Ch.41) → open (Ch.42).", revised: "2026-10-18", source: "outline:ch-19; outline:ch-30; outline:ch-36; outline:ch-41; outline:ch-42; foundation:§4f; audit N-24" }
   - { rule: "Doors do not deliver to matching dates: 1968 → AD 41 (Fenn); May 1998 → autumn AD 70 (Mara). So the far side in Ch.42 is '1998, or near it' only; the narration never asserts the year (Ch.43 says 'the other side' / 'her own century').", revised: "2026-10-18", source: "foundation:§9; outline:ch-03; outline:ch-42; outline:ch-43", ch3_observed: "Ch.3 (prose): Mara goes in on a May day and comes out under a low autumn sun she reads as October; her Seiko advances only ten minutes (1:40 → 1:50) and keeps the 1998 day's time; the year on the far side is not shown or known to her (ch-03:p68; ch-03:p81; ch-03:p82; ch-03:p84)", ch4_observed: "Ch.4 (prose): on the far side the inscription is freshly cut and painted, the pen is unbroken, and there is no road, no ski ridge, no tin roof. The year is still not given: archon Kleodamos, month Boathoos, a Kaisar in Rome (ch-04:p22; ch-04:p24; ch-04:p28; ch-04:p61; ch-04:p62; ch-04:p64)" }
   - { rule: "OBSERVED (Ch.3): the Corycian slot gave still air and ordinary cave cold to Mara's hand from about noon until 1:40; the cold then came at 1:40 p.m. by her watch on a day in May (Fenn's July 21 1968 cold was in the morning). The page does not relate this timing to any rule.", source: "ch-03:p62; ch-03:p63; ch-03:p68; ch-02:p69" }
-  - { rule: "A door used for a crossing can stay shut afterwards (the Corycian door, Ch.6 and Ch.8).", source: "outline:ch-06; outline:ch-08" }
+  - { rule: "A door used for a crossing can stay shut afterwards (the Corycian door, Ch.6 and Ch.8).", source: "outline:ch-06; outline:ch-08", ch6_observed: "Ch.6 (prose), about a month after the crossing: the Corycian crack, tested by hand from before 1:10 to 1:55 by the watch on a snowy afternoon (the May cold came at 1:40), gives nothing: 'Rock. Air. Cold that was only cold.' / 'The rock was cold. The air did not move.' One null afternoon; the page does not say the door is shut for good (Mara: 'I have no idea what happens if it's shut')", ch6_source: "ch-06:p13; ch-06:p14; ch-06:p165; ch-06:p240; ch-06:p246; ch-06:p248" }
+  - { rule: "OBSERVED (Ch.6): in deep cold the door's sign cannot be told apart. The Ch.3 cold was 'one thread, dry, with an edge to it' against damp, slow cave cold; in November 'the whole mountain had turned to cold … Nothing could have come through that crack that I would have known from the rest'. A hand test proves nothing in winter, so the planned midwinter attempt (Ch.8) has the same limit. The page does not say whether anything opened unseen", source: "ch-06:p2" }
+  - { rule: "OBSERVED (Ch.6): the opening is not tied to a repeating clock hour, at least on this day. Her only rule, the May hour (1:40), gives nothing ('It was nothing to go on, and I had nothing else'). The watch's time basis changed between the two readings (1998 clock time in May; the sun's noon at Kallia's gatepost in November; CH6-8, derived). Agrees with Fenn's 1968 record of breaths on scattered days with weeks of nothing", source: "ch-06:p13; ch-06:p14; ch-02:p20" }
+  - { rule: "OBSERVED (Ch.6): the door answers nothing the traveler does. Clearing the floor to bare rock, bringing 'Everything' she owns to the crack, pleading in English, striking the slab: none of it changes anything. No voices, light or sign: only the drip, the torch hissing and her own echo. Keeps 'The mechanism is never explained' and 'no special effects'", source: "ch-06:p159; ch-06:p244; ch-06:p245; ch-06:p249; ch-06:p251; ch-06:p252" }
+  - { rule: "OBSERVED (Ch.6): a native standing by changes nothing that can be seen. Valens stands on the flowstone below the crack holding the torches the whole time, and nothing opens, so the page says nothing either way about the native exclusion (Ch.42)", source: "ch-06:p7; ch-06:p238" }
+  - { rule: "OBSERVED (Ch.6): time on this side runs on at the same rate as hers. About a month passes for her in Delphi and on the mountain (the hurdle 'tied shut with a fresh withy since October'; the ledge offerings of Ch.4 gone under snow), and nothing suggests otherwise", source: "ch-06:p37; ch-06:p220; ch-06:p222" }
+  - { rule: "CONSEQUENCE (Ch.6 → Ch.7, plan): with the way back closed she must live here, and the Greece-first obstacles apply in full (a guardian, a name, a story, clothes). Her belief that an open crack would put her in 1998 near Delphi (hotel, bus, Kennedy, Philadelphia) is untested, and the plan's rule is that doors do not deliver to matching dates", source: "ch-06:p165; outline:ch-07; foundation:§9" }
   - { rule: "Doors can die (the Cumae door).", source: "outline:ch-27" }
   - { rule: "Each opening is brief: the door's seam closes (Ch.43).", source: "outline:ch-43" }
   - { rule: "The mechanism is never explained (Outlander standard).", source: "foundation:§9" }
   - { rule: "Women did not enter to consult the Oracle; they asked through a male representative. The Pythia speaking to a woman privately, off duty, is not an oracular response (Ch.13).", revised: "2026-10-18", source: "foundation:§9; foundation:§11.4; STATE:ARCH-4 (revised)" }
   - { rule: "Oracle consulted on fixed (monthly) days in the warm months; year's first consultation on the seventh of Bysios; the goat must shiver at a sprinkling of cold water.", revised: "2026-10-18", source: "foundation:§9; foundation:§3" }
-  - { rule: "A foreign woman with no guardian is legally nobody; she must be registered as someone's.", source: "foundation:§3; outline:ch-07", ch5_observed: "Ch.5 (prose) shows the social side, not the law: strangers ask 'Where's your man?' and 'Whose is she?' / 'Whose are you?'; on the god's steps she is assumed to have 'run off from some house'; at dusk a man offers her 'a house … that takes in girls on their own' (ch-05:p11; ch-05:p76; ch-05:p77; ch-05:p130; ch-05:p173)" }
+  - { rule: "A foreign woman with no guardian is legally nobody; she must be registered as someone's.", source: "foundation:§3; outline:ch-07", ch5_observed: "Ch.5 (prose) shows the social side, not the law: strangers ask 'Where's your man?' and 'Whose is she?' / 'Whose are you?'; on the god's steps she is assumed to have 'run off from some house'; at dusk a man offers her 'a house … that takes in girls on their own' (ch-05:p11; ch-05:p76; ch-05:p77; ch-05:p130; ch-05:p173)", ch6_observed: "Ch.6: Valens's questions assume a woman alone is someone's runaway ('Who's coming after you?' / 'A husband.' / 'A father, then.'); trousers 'so the road wouldn't take you for a woman'; the charcoal burner: 'Since when has Kallia got anybody?'; the cover that makes her safe is 'She's the widow Kallia's' (ch-06:p115; ch-06:p117; ch-06:p119; ch-06:p316; ch-06:p317; ch-06:p329)" }
   - { rule: "OBSERVED (Ch.5): at Delphi, touching the god's house 'unwashed' is grounds for removal by the temple's men and a slave with a rod; passers-by touch water from a basin at the gate to their foreheads; strangers are to keep clear of the altar at the decreed sacrifice, and the meat goes to citizens only", source: "ch-05:p23; ch-05:p75; ch-05:p78; ch-05:p84; ch-05:p102; ch-05:p103" }
   - { rule: "Roman marriage needs no priest: consent before witnesses.", source: "outline:ch-18" }
   - { rule: "A husband who divorces an adulterous wife may retain part of her dowry; recovery via the actio rei uxoriae, heard by a single iudex (no jury); the father keeps the children after divorce, and custody/access is not a remedy in a dowry suit.", revised: "2026-10-18", source: "foundation:§3; foundation:§9; outline:ch-22" }
   - { rule: "An auctoratus (free man sworn to a gladiator school for a term) cannot be bought out before his first fight. An informally freed slave (Junian Latin) is free enough to swear the oath.", revised: "2026-10-18", source: "outline:ch-28; foundation:§3" }
   - { rule: "An arena manumission unregistered before a magistrate can be contested as void (Celer's 'property' claim); the Corinth archive copy proves registration.", source: "foundation:§3" }
-  - { rule: "The sea is closed from about November to March (letters wait in harbor; Ariston's sat at Kirrha all winter).", source: "foundation:§9; outline:ch-10", ch5_observed: "Ch.5: 'News like that came to Greece in weeks, by sea, and the sea was still open' (autumn AD 70, Mara's reasoning); letters from Corinth arrive 'with the ship' (ch-05:p95; ch-05:p108)" }
+  - { rule: "The sea is closed from about November to March (letters wait in harbor; Ariston's sat at Kirrha all winter).", source: "foundation:§9; outline:ch-10", ch5_observed: "Ch.5: 'News like that came to Greece in weeks, by sea, and the sea was still open' (autumn AD 70, Mara's reasoning); letters from Corinth arrive 'with the ship' (ch-05:p95; ch-05:p108)", ch6_observed: "Ch.6: shut. 'Is the sea shut yet?' / 'The last ship went out of Kirrha eight days ago.' Before it, from the east: oil, Cretan wine, a man with dogs. No letters carried by Valens. Overland too: 'The road over to Boeotia's under snow. All of it.' (ch-06:p68; ch-06:p69; ch-06:p71; ch-06:p73; ch-06:p150)" }
   - { rule: "Political backdrop: Nero granted Achaea 'freedom' (late 67), removing the proconsul; there is no proconsul in 69; Vespasian revoked it, and in this book a proconsul governs from Corinth again by 71.", revised: "2026-10-18", source: "foundation:§9; foundation:§3" }
-  - { rule: "Roman equids went barefoot or in strapped hipposandals; no nailed horseshoes (Ch.24 hooves trimmed).", source: "outline:ch-24" }
+  - { rule: "Roman equids went barefoot or in strapped hipposandals; no nailed horseshoes (Ch.24 hooves trimmed).", source: "outline:ch-24", ch6_observed: "Ch.6: no shoes on Valens's mules. On ice he binds sacking round each hoof with twine pulled tight with his teeth, and rebinds fresh at the kiln. On Kallia's iced lane he throws ashes where the hooves land (ch-06:p42; ch-06:p173; ch-06:p316)" }
+  - { rule: "OBSERVED (Ch.6): offerings at the Corycian cave go on in AD 70. A muleteer leaves a corner of crust on the ledge under the inscription for Pan ('It's his house' / 'I pay him'). Ch.4 showed a lamp and three knucklebones there; by Ch.6 the ledge 'held only snow'", source: "ch-04:p28; ch-06:p222; ch-06:p226; ch-06:p227; ch-06:p229" }
+  - { rule: "OBSERVED (Ch.6): the temple of Apollo is repainted each spring after the snow, by a man the priests hang off the roof on a rope 'with a pot of red'", source: "ch-06:p178; ch-06:p180" }
   - { rule: "Eruption per Pliny: column ~1 p.m. 24 Aug; ~18 hours of pumice; roofs collapse; boats cannot land; surges reach Pompeii ~6:30-7:30 a.m. 25 Aug. The October theory is never raised.", source: "foundation:§9; STATE:ARCH-10" }
   - { rule: "Narrative law: the narrator's horizon is the moment narrated — no foreshadowing; Mara's historical knowledge of 79 is present-tense dread only.", source: "foundation:§6a; STATE:guardrails" }
 
@@ -4676,6 +4714,7 @@ organizations:
       - { fact: "priests hire Mara to mend bronze (incense stand) and pay with contempt", source: "outline:ch-09" }
       - { fact: "a temple slave beats Mara off the steps with a rod", source: "outline:ch-05; ch-05:p84; ch-05:p85; ch-05:p86", ch5_confirmed: "CONFIRMED: a man in a white tunic with a purple stripe and a staff, with two more men, hauls her off the porch; a barefoot slave with a peeled rod beats her down the steps and to the head of the ramp; the rod splits; 'Get her down before the priest comes out'" }
       - { fact: "Ch.5: a priest's assistant sluices blood off the black altar's step; a sacrificial goat is led up to a flute; the temple steps and porch are policed against the unwashed", source: "ch-05:p32; ch-05:p65; ch-05:p75; ch-05:p79" }
+      - { fact: "Ch.6: the priests have the temple repainted every spring by the same cheap painter on a rope (Valens); the sanctuary wall's high corner marks the start of the cliff stair; 'the sanctuary dogs' know Valens", source: "ch-06:p161; ch-06:p178; ch-06:p180; ch-06:p340" }
 
   delphi-council:
     canonical_name: "the council and people of the Delphians"
@@ -4683,6 +4722,7 @@ organizations:
     facts:
       - { fact: "receives letters from Corinth by ship and has its herald proclaim them in the market square; the archon Kleodamos with the council and the people decree a sacrifice of oxen to Pythian Apollo for the Emperor and Titus (autumn AD 70); a council house (the procession's start); a clerk who knows the titles", source: "ch-05:p95; ch-05:p99; ch-05:p100; ch-05:p102" }
       - { fact: "the square expects the council to take most of the meat ('The council will have it all before it's cooked')", source: "ch-05:p118" }
+      - { fact: "Ch.6: after the sacrifice, the charcoal burner's grievance about 'the god's ox' names 'the number four' and 'the council' (Mara catches no more); he got 'Smoke'", source: "ch-06:p313; ch-06:p315" }
       - { fact: "the prophetes conducts the consultation; Theano is the Pythia; consultation days are monthly in the warm season", source: "outline:ch-13; foundation:§3" }
       - { fact: "a temple slave carries Theano's summons to Mara (Ch.13)", source: "outline:ch-13" }
 
