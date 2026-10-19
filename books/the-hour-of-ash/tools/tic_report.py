@@ -313,13 +313,18 @@ def echo_scan(files, n_target, allow):
         if ch==n_target: target=g
         elif ch<n_target:
             for k in g: earlier.setdefault(k,set()).add(ch)
+    # The book's voice-bank samples are benchmark passages, never text to reuse: a phrase lifted from one
+    # is an echo exactly like a phrase from an earlier chapter (it shows as "voice-bank").
+    for vb in sorted((BOOK_DIR / "voice-bank").glob("**/sample-*.md")):
+        for k in grams(strip_comments(vb.read_text())):
+            if len(k) >= 5: earlier.setdefault(k,set()).add("voice-bank")   # 5+ words: the samples share the book's nouns
     if target is None: return []
     hits=[]
     for g in target:
         if g in earlier:
             j=" ".join(g)
             if any(a in j or j in a for a in allow): continue
-            hits.append((len(g), j, sorted(earlier[g])))
+            hits.append((len(g), j, sorted(earlier[g], key=str)))
     hits.sort(key=lambda x:(-x[0], x[1]))
     kept=[]
     for L,j,chs in hits:

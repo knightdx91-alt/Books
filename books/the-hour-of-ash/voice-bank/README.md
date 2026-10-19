@@ -2,7 +2,8 @@
 
 Benchmark passages the Writer calibrates against before every chapter, and the Evaluator and Editor
 measure against. They are **targets for register, not text to reuse.** No sentence, image or line in
-these samples may be copied into the manuscript, and the style gate's n-gram check will flag it if one is.
+these samples may be copied into the manuscript. The echo scan (`tic_report.py --echoes N`, step 5c of
+`check_chapter.sh`) lists any 5+-word phrase a chapter shares with a sample, tagged "voice-bank".
 
 ## The voice in one paragraph
 Mara Reyes, first person, past tense, told in order. A dry, curious, late-1990s American intelligence
