@@ -153,6 +153,24 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   other"; she owes Valens an obol and is holding it ("I had his obol in the rag. I kept my place."). At the notice (pressure
   level 1): asides die; "I read it through again. The rag had gone damp in my fist." / "I was looking at him. I looked at his
   face." Knowledge asides by credential: 0. Teeth: none.
+- **Ch.10 as written (Writer, 2026-10-19; one afternoon in Kallia's court; quotes are on the writer's page):** the commitment holds:
+  no English anywhere. **She reads Ariston's letter aloud, whole and unedited** (her reading voice is the instrument: "My eyes ran a
+  line ahead of my voice, which was how reading aloud had always gone, and the next thing in the letter reached me while I was still
+  giving Kallia the last." / "It was the best Greek I had spoken since October, and it was his from beginning to end."). Her own Greek
+  stays uncontracted and short ("Her father is called Iamblichos. It is a name from that country." / "It does not say. He says she
+  keeps his house well." / "It says only a man." / "It runs off, I suppose. They have less of it there." / "He writes as one who is
+  content there," / "How old was he, when he went?" / "I can write, as well as read. If you want to send him word, when the boats go
+  east." / "Papyrus. The priest's household would sell me a sheet." / "Somebody going east would take it for a cup. As the Elean did." /
+  "Shall I go up and open it?"). **Cognitive distortion in action:** the two-kinds-of-letter reasoning ("Letters came in two kinds, I
+  thought, and either kind got read at once") and the misread yawn ("She had
+  been on her feet since the dark, and the Elean had come at the worst of the day; I read the next part faster."). **Irrelevant
+  thought / memory:** "Emesa was Homs." and the crusader-castle postcard left in a library book at Van Pelt ("My voice went on through
+  the oxen without me."). Present-scene history (not foreshadowing): "Jerusalem had fallen that summer, and the Temple with it, burning.
+  I knew it the way I knew the year of the Armada, as a date on a page with a fire in it." After: "I could have left out the roof." …
+  and, alone, "To myself it was a cheerful letter, from a man with a roof to sit on in the evenings." Hands: the thumbnail on the thread
+  (1), a palm on the papyrus when the draught lifts it; no body break of her own (Kallia's yawn carries it). Ends at work: "Half the
+  basket was still to clean, and I took it onto my knees again and went on picking out the grit." No teeth, no credential asides, no
+  laugh, no parallel drawn between Ariston's choice and hers, in narration or anywhere.
 - **DISTINCTNESS GUARANTEE:** the only voice in the book that sees how a thing was made and where it was
   mended, against Valens, who sees where a thing or a man will move next.
 - **Sample line:** "Somebody's glued this before, look, there's an old line under the new one, and
@@ -541,6 +559,37 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   rag knotted; no turn-away, no walk-off). Never sits, never touches Mara, never speaks of herself. No broom, no shut room, no
   letter (Ch.10's). **Ch.10 is hers:** no gaze-arrival "then" for her (eval Cross-Book #4), no hearthstone exchange in the Ch.7/9
   shape, no body rebel through Mara's hands.
+
+- **Ch.10 as written (Writer, 2026-10-19; one afternoon at home; every quote below is on the writer's page, checked by script;
+  re-sync after the polish chain):** takes the letter at the gate ("Kallia had it out of his fingers and held it shut in her hand.")
+  and asks only "Where from?"; "She heard that with the face she wore at the oil-seller's." To the Elean, money and labor:
+  "Water," (to Mara) / "That was a cup." / "Then drink in Elis." (her one "Then" retort) / "Full." / "The house is full." / "There's the
+  houses by the stadium." **Carries the letter unread in her belt from noon to mid-afternoon** ("She put the letter inside her belt,
+  against her stomach, and returned to the pots."; "Once she put her hand flat across it in passing"); gives the man from Patrai his
+  bread "twice over" (a slip, unremarked). **Stands to spin** in the court beside the lean-to; hands the letter across the wool "as far
+  as her arm would reach": "You read the clerk's wax," (her only acknowledgment that Mara reads). Her replies during the reading:
+  "There's gods enough here," / "Which arm?" / "He was never any use with the left," / "Two and a half," … "At the vintage." / "Is she
+  Greek?" / "Can she weave?" / "Anybody keeps a house." … "Go on." / "Here it's for the father's father." / **the yawn** (involuntary,
+  face and eyes, twice; Mara takes it for tiredness) / "A roof you sit on," … "Where does the rain go?" / "Everywhere has rain." / "The
+  man," … "Bought?" / "The middle of winter's gone by." / "It's come, then, whichever it is." / answering the greetings to the letter
+  itself: "She's living," … "Thrasyllos died when the olives were in, the year after. *Let me take*, he says. He took them, at ten
+  years old, and told nobody, and Thrasyllos walked to Kirrha after him in his bare feet. Glauke's girls are married. The big one's in
+  Amphissa with a potter, with a cast in her eye from his kiln." (her one memory of him, given as neighbor news) / to Mara's "He writes
+  as one who is content there," no word: "She drew a fresh pull of wool from the hank, and let it run back." / "Which is his name?" (she
+  looks from where she stands, "without coming nearer", for "the time it would have taken her to read it if she could read") / "Keep it
+  out of the smoke," / to Nikaso, flat: "He's living." / "He sends you greeting. You and your husband." / "He's married, in Syria.
+  There'll be a child by now." / "That Elean was promised a cup of wine for carrying it, and got water. Go and stand him one, if you
+  want the lions." / to "How old was he, when he went?": a task, "Put a plate on those, or the mice will be in." / to Mara's offer to
+  write back: "On what?" / "And whoever carries it to Syria?" / "Tell him," (unfinished; she winds the yarn up instead) / at the foot
+  of the stair: "Tell him the baker's old mother is living." / an obol from her belt "on the bottom stair, where I would have to pass
+  it. 'For the sheet.'" **The broom (anchor):** in mid-afternoon she sweeps the boards before the shut door, which "At dawn ...
+  had been swept already", then "laid the broom over the threshold again, the head against one post and the handle against the other,
+  and came down." Puts her good himation over head and kerchief; **says his name once**: "That Elean will have been all round the
+  stadium by now," … "and there's nothing there with a roof on it that isn't full to the tiles. He can have Ariston's room, at the three
+  obols." To "Shall I go up and open it?": "There's the lamps to fill before the gallery comes down." Goes out to find the Elean; the
+  broom "still lay over the threshold, from post to post." **Never sits, never touches Mara, no gaze-arrival "then", no hearthstone
+  shape, no bending, no kerchief-knot payment, never speaks of herself.** Leaves the letter with Mara (it goes in the niche "where
+  Kallia kept the good knife and a twist of cumin").
 
 #### THEANO — the Pythia; a farmer's widow off duty (glimpsed Ch.8 unnamed, shouting at crows; Ch.13)
 - **Attention / worldview:** her own body (her knees, the descent into the adyton), the priests' petty
@@ -1230,6 +1279,31 @@ and the bending fix with finalize lines F1–F4. Every quote below is on the pag
   rival "out beyond the stadium"; a cousin's master in Patrae and his cook Victory; the Thracian eel-seller at Kirrha; the
   hardware store off Fortieth Street and its cat.
 
+#### Ch.10 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+*(Writer, 2026-10-19; every quote below is on the writer's page.)*
+- **The pilgrim from Elis ("the Elean")** — passing figure who will take Ariston's room: "a young man with a peeling scalp who had
+  been sick on the boat from Aigion and wanted it known"; holds the letter out "between two fingers". **Attention** = what he is
+  owed and where he will sleep. Lines: "The wine-seller at Kirrha had it on a nail behind his jars," … "Since the autumn, he says. It
+  came over from Corinth on a coaster at the back end of the sailing, and then the sailing stopped, and nobody he'd trust was bound
+  for Delphi. He said whoever let rooms near the lions would stand me a cup for carrying it." / "Syria, he said. Is it bad? He said
+  it might be bad, being so long." / "He said a cup." / "In Elis a cup has wine in it." / "Have you a room? Three nights, till the
+  god opens his house." / "I'll give two obols a night." / "Three, then, for anywhere with a roof on it. I've slept two nights on a
+  deck with a Corinthian's goat." … "Three obols." Goes off "coughing" to the houses by the stadium; later "at the lions telling
+  everybody" (Nikaso). Kallia lets him the room "at the three obols". **If he returns as the lodger (Ch.11+), name him and give
+  him a card**; his cough is texture, not a tic, and must not be his only trait.
+- **The man from Patrai** (a lodger, "who had stayed behind with a bad foot"): "came down late for his bread, and she gave it him
+  twice over; he took it twice and kept his mouth shut." No line.
+- **The lodgers** (pilgrims "come early for the god"; every gallery room taken; "nearly all of them had climbed to the sanctuary";
+  their cloaks hung on the gallery; a tunic drying on the rail; "A pair of wet sandals ... with their soles to the sun"). The
+  Thebans are not on the page (gone with the thaw, unstated).
+- **Mention only (from the letter and Kallia's answers):** Domna (Ariston's wife) and her mother; Iamblichos (Domna's father, "sells
+  horses to the cohort"; "has no son, and he calls me his"); the prefect of the cohort; the baker (Sostrata's husband) and "his old
+  mother" ("She's living."); **Thrasyllos** (dead "when the olives were in, the year after"; Ariston took his mules at ten, "and told
+  nobody, and Thrasyllos walked to Kirrha after him in his bare feet"); **Glauke** and "Glauke's girls" (both married; "The big
+  one's in Amphissa with a potter, with a cast in her eye from his kiln."); Nikaso's husband (the man with the sieve); the Kirrha
+  wine-seller; the Corinthian with the goat on the deck; the woman in the lane telling off a goat (heard). Mara's 1998 side: the
+  crusader-castle postcard near Homs and the Van Pelt library desk.
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -1283,6 +1357,30 @@ and the bending fix with finalize lines F1–F4. Every quote below is on the pag
   Fenn's English letters, which have no formula at all.
 - **Sample line:** "Greet Philon the potter for me, and his wife, and old Damo by the spring, and tell them
   the sun here is a thing they would not believe."
+- **Status: MENTION-ONLY (by letter).** He never appears; his voice reaches the page only as the letter Mara reads aloud.
+  Verbal tic: none — distinguished by vocabulary band (Greek letter formula) and evasion (no "home", no room, no return).
+- **Ch.10 as written (Writer, 2026-10-19; every quote is on the page):** the letter "had been folded down very small", "A thread
+  went round it twice, sealed at the knot with a thumb of gray clay", "a brown tidemark across it"; sent from Emesa "on the
+  twentieth of Hyperberetaios" (autumn AD 70), it "came over from Corinth on a coaster at the back end of the sailing, and then the
+  sailing stopped", hung all winter "on a nail behind his jars" at a Kirrha wine-seller's, and came up with the Elean pilgrim. The
+  hand inside "small and level from top to foot" (a scribe's or his own: the page does not say). **Formula:** "Ariston to Kallia,
+  his mother, greeting, and many of them. Before everything I pray for your health, and every day I make an offering for you to the
+  gods of this place, though you would not know their names." **News:** "with the cohort before Jerusalem from springtime until
+  the city was taken"; "the left arm, which a stone off the wall broke above the elbow. It has knit, but it will not straighten";
+  "the prefect has given me my discharge before my time, with the money that goes with it"; "Forgive me the two years." (Kallia:
+  "Two and a half … At the vintage."); "Nobody was going west, and after that there was the war. The year before it I took a wife
+  here: Domna, the daughter of Iamblichos, who sells horses to the cohort. She is a good wife to me. Her father has no son, and he
+  calls me his."; the child due "before the middle of the winter", "If it is a boy, he will be named for her father, as they do
+  here."; "In the evenings the whole house goes up on the roof … the mountains past it, which keep their snow until the summer.";
+  land "on the river half a day below Emesa … wheat land, with olives along the bank already, and water runs past the door in a
+  channel all summer. I have a yoke of oxen, and a man to drive them, since I cannot." **Greetings by name:** Nikaso and her
+  husband; Philista ("whose drum it was I put my foot through"); the baker and Sostrata, "and his old mother, if she is living";
+  Thrasyllos "who let me take his mules to the harbor"; "Glauke's girls at the spring, both of them". **Close:** "I pray for your
+  health, mother, and that the gods keep you. Farewell." Address on the back: "to Kallia, at Delphi, at the lodging above the
+  Castalian spring, from her son." **Nothing for the house, the room or a return.** No kin in Syracuse is mentioned (the register's
+  "Aimilios of Syracuse" stands untouched). Canon now fixed: wife Domna, daughter of Iamblichos (horse dealer to the cohort); a child
+  born by midwinter AD 70-71, sex unknown to Delphi; discharged early for the left arm; land below Emesa on the river (the Orontes,
+  unnamed on the page).
 
 #### MARCUS — Plautia's son, b. autumn AD 64; aged 9 when glimpsed (Ch.22, spring 74)
 - **Attention / worldview:** what he has been told to do; his mother's face, which he is relearning.
@@ -1418,6 +1516,15 @@ and the bending fix with finalize lines F1–F4. Every quote below is on the pag
   Kallia, who expects only to have to carry it.
 - **Sample line (calibration only; replaced 2026-10-19 because "lentils" as a joke is SPENT):** "You'll have it back by the
   feast, won't you? If it's late she'll say I sold it."
+- **Ch.10 as written (Writer, 2026-10-19; every quote is on the page):** comes in at Kallia's gate "at a run", "from three gates
+  down, with flour on her hands and her black hair half out of its pins". "Kallia! That boy from Elis is at the lions telling
+  everybody he brought you something written, from as far as Syria. Is it him? Is he living?" / her chaos on the page: "Nikaso put
+  both hands over her mouth, and when she took them away there was flour on her lips." / her axis, the worry answered herself: "He'll
+  be home for the god's day, won't he? And your sieve still at my house with the hole in it. Who'll he hear that from first? His
+  mother. And then it's me that put a hole in his mother's sieve." / "Me? He remembers me?" … "He used to drop snails in my water
+  jar." / "A child." … "And you out here spinning. I'd have been at the lions by now. I'd have told every woman with a jar." / "I'll
+  stand him two," and the news goes down the lane gate by gate: "Syria, and a wife, and a child." She takes the good news as good
+  news (the chapter's public face of it). The sieve is now CLOSED as her topic; "Maira" in her mouth: 0 in Ch.10.
 
 #### SOSTRATA — the baker's wife (the Ch.7 bath walk-on, named in Ch.8)
 - **Attention / worldview:** bodies and household feuds, above all her husband's mother; she turns a grievance into a
@@ -2058,6 +2165,67 @@ line each, so that walk-ons don't all sound like Mara.
     where [pron] was" (Ch.5; now "I kept my place."); "Hermes the Holder" / "hold her" (now "Hermes below", "I nail her under the
     lead"); the curse-to-notice "nailed" link (F3: the notice is "pegged to a pillar").
 
+- **At-risk after Ch.10 (Writer, 2026-10-19; Ch.10 "Kallia's Letter", one afternoon in the court, 0 breaks. Every quote below
+  is on the writer's page, checked by script; re-sync after dialogue-polish / disruptor / polish cycles):**
+  - **The broom across the threshold: the anchor is SPENT on the page.** Ch.7 ×2 (the morning rule; "at its slant"), Ch.10 ×2 (she
+    sweeps the already-swept boards in mid-afternoon, then "laid the broom over the threshold again, the head against one post and
+    the handle against the other"; after the gate shuts, "Up at the last door the broom still lay over the threshold, from post to
+    post."). Spent wording: "at its slant", "head against one post", "from post to post", "over the threshold". Ch.16's sweep and
+    put-away broom (the farewell) must find a third wording and must not describe the broom's position again.
+  - **The shut door described** ("the oldest on the gallery, gray planks gone silver at the foot where the light reached, with a
+    wooden latch and a loop of cord dropped over the latch-peg"): SPENT. The room is now Ariston's by Kallia's own mouth and is
+    being let to the Elean; later chapters refer to it as the Elean's room or not at all. **The room's inside has NOT been shown.**
+  - **Kallia's involuntary body reaction is the yawn** ("Kallia yawned. The yawn took her in the middle of the court, enormous. It
+    stretched her face and shut her eyes, and when it let her go her eyes were running with it. A second came behind it, as big.");
+    Mara misreads it as tiredness and reads faster. The yawn-as-shock is SPENT for everyone; the face/eyes channel is used. Hands
+    stayed rested (no spilled, dropped or shaking thing as a reaction).
+  - **Reading aloud with the eye a line ahead of the voice** ("My eyes ran a line ahead of my voice, which was how reading aloud had
+    always gone"): SPENT. **The written-Greek-against-spoken-Greek contrast** (Ch.4, Ch.7, Ch.10: "In the lane my Greek arrived in
+    single words. Each one had to be chosen, set down and tested. The Greek on the papyrus had been chosen already, in Syria, and all
+    it wanted from me was breath.") is CLOSED at 3. "the best Greek I had spoken since October" is spent with it.
+  - **Mara's could-have-edited reflection** ("I could have left out the roof. I could have left out the father with no son of his
+    own, and read the wife as so much talk about rain. There was not a soul in that court or in that lane who could have told the
+    difference."): once; it is a two-plus-one shape, not a triad, and must not recur as a frame. **Reading a document silently after
+    reading it aloud** ("To myself it was a cheerful letter, from a man with a roof to sit on in the evenings."): once.
+  - **Mara's wrong comfort** ("He writes as one who is content there," answered by wool drawn and let run back): once. Kallia's
+    silence-with-wool is her varied reply here; the next varied reply is not wool.
+  - **The neighbor-news answer** (Kallia answering a letter's greeting list with who is living, dead and married): once, CLOSED.
+    "Tell him the baker's old mother is living." is said once and is never called back. **"the baker's mother" stays at 1
+    book-wide (Ch.8)**: the Ch.10 page uses "his old mother" (the letter), "the old woman who slept between the baker and his wife"
+    (narration) and "the baker's old mother" (Kallia), each once. Do not use any of the four again.
+  - **Nikaso's sieve: CLOSED as a topic** (Ch.5 the hole, Ch.8 "a sieve of mine to mend", Ch.10 "a hole in his mother's sieve").
+    Flour on the lips: once.
+  - **Kallia's questions about the wife** ("Is she Greek?" / "Can she weave?" / "Anybody keeps a house." / "A roof you sit on …
+    Where does the rain go?" / "Everywhere has rain." / "The man … Bought?"): the subtext questions are SPENT; no character asks a
+    proxy-for-happiness question in this shape again. **"It does not say."** is at 1 and "It says only a man." at 1: no third.
+  - **Kallia says "Ariston" once** ("He can have Ariston's room, at the three obols."). The name is never in her mouth again. Mara
+    reads it once inside the letter's formula; the narration names him only as "Kallia's son" (×1). Hold "Ariston" in narration to
+    the minimum in later chapters.
+  - **The letter formula** ("Ariston to Kallia, his mother, greeting, and many of them. Before everything I pray for your health",
+    "I pray for your health, mother, and that the gods keep you. Farewell.") is Ariston's alone; Fenn's English letters (Ch.26)
+    use no formula, and no other Greek letter in the book reuses these openings.
+  - **An obol set down for a reply** ("She felt in her belt for an obol and set it on the bottom stair, where I would have to pass
+    it. 'For the sheet.'"): an OPEN THREAD (Mara is to buy a sheet and write the one line). Kallia's kerchief-knot payment was NOT
+    used (it stays at Ch.6, Ch.7); her belt carried the letter and the obol.
+  - **A document described by its surface:** Ch.10 keeps it to the packet (thread, a thumb of gray clay, the tidemark) and one clause
+    on the hand ("small and level from top to foot"); no forensic paragraph on the making. The next documents (Ch.20, 26) may each
+    stand without one.
+  - **Similes spent in Ch.10:** "stiff as a dried leaf"; "the way a woman in a crowd checks her purse"; "the way I knew the year of
+    the Armada, as a date on a page with a fire in it". **Memory spent:** the crusader-castle postcard near Homs left in a library book
+    returned at Van Pelt (a 1998 object, no person; it breaks into the reading and ends on "My voice went on through the oxen without
+    me.", an act, no kicker).
+  - **The ugly sentence:** "It was the cracked one but it fit." (the plate over the soaking chickpeas). Chickpeas cleaned of grit
+    are Ch.10's chore; give the next chore-in-hand scene a different food.
+  - **Counts on the writer's page (2026-10-19):** hinge-family paragraph openers 0; "So" openers 0; "before I had [verb]" 0; "the one
+    / the only" claims 0 ("the one after" is a gate); negation pivots 0; "He meant…" 0; "as if / as though" 1 (Nikaso, "as if it
+    might say so again"); credential asides 0; and-chains 1; em-dashes 0; semicolons 4; bend / stoop / lean-over beats 0; kneel /
+    crouch 0; command echo 0 ("Water" → "I filled the dipper at the jar."; "Put a plate on those" → "I found a plate."; "Keep it out of
+    the smoke" → the cold end of the lean-to, by result); "said/told the [non-listener]" 1 ("She said it to the letter."); "[speech],"
+    he/she told X tags 0; gaze-arrival "then" 0; hearthstone shape 0; lying-awake coda 0; laughs 0; English 0; cloth smells 0; taste
+    reactions 0; Kallia sits 0; Kallia touches Mara 0; Kallia's "Then" retorts 1 ("Then drink in Elis."); Kallia hands Mara a thing
+    1 (the letter); Kallia exits 1 (the gate; the stair is a task). Spindle on the page ×5 (WATCH: spinning must not become
+    Kallia's signature stage business in Ch.11-16).
+
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
   used as a scene button.
@@ -2369,3 +2537,10 @@ finalizing the chapter. Never add a tic to fix it.
   SPENT; the forensic document paragraph; walk-on "Then…" openers ≤2; the "And…" rejoinder WATCH; role labels 6+ get a name; the
   smaller second uses. MARA's sample line gained a calibration note ("in a hurry" is spent on the page). Not done here:
   ENTITY_STATE's CH9-4 flag status belongs to the entity-tracker. Tic-bearer roster still NONE.
+- 2026-10-19 (Writer, Ch.10 "Kallia's Letter"): ARISTON's card marked mention-only (by letter; tic: none) and extended with the
+  letter as written (Domna daughter of Iamblichos; the left arm; early discharge; land below Emesa; greetings by name; nothing for
+  the house). Added a Ch.10 KALLIA block (the letter unread in her belt; the reading; the yawn; neighbor news to the letter; "Which is
+  his name?"; the obol for a reply; the mid-afternoon sweep and the broom over the threshold; "Ariston's room", her name for him said
+  once), a Ch.10 NIKASO block (the news down the lane; the sieve CLOSED), a Ch.10 MARA block, the Ch.10 walk-on note (the Elean,
+  the man from Patrai, mention-only Thrasyllos and Glauke's girls) and the **At-risk after Ch.10** block. No device collisions:
+  nobody counts or lists; only Mara notices the packet's thread and clay. Tic-bearer roster still NONE.
