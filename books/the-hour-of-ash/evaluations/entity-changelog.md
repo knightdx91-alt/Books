@@ -1139,3 +1139,110 @@ No knowledge_gap. Every reference on the page has a path: "I know about the man"
 ## 2026-10-19: UPDATE (re-sync of chapter 9 after polish cycle 1, the bending fix and finalize F1–F4)
 
 - Re-anchored every ch-09:pYY to the final page (chapter-9.md last written 21:28:18; 200 paragraphs; breaks now after p23, p80, p127, p141, p169). Cycle 1 cut old p160–p161 ("Who paid?" / "Euthydikos."), so old p1..p159 keep their numbers and old p162..p202 = new p160..p200 (918 explicit cites, 10 bare refs; the five cites to the cut lines rewritten). Removed the cut facts and quotes: "Who paid?", the thumb bleeding onto the paving, the soot under her nails, "No fire", "The bellows stopped.", the cutter's dusty eyebrows, the V-stroke dust and lichen, "boiled sausages", "looked at me then", "and not over me", "How long will it stand?", "went past me then", the ear-to-hive at the cut, "Hermes the Holder … hold her", "arm in to the shoulder", "surfaced", "and the rest" / "with the rest of it" / "with the rest", "nailed" and the hurried, cold-painted gypsum, "before I had asked a thing", "my wife's brother, and help them tie him", the second money-changer, and "I stayed where I was". Added the new facts: the dawn try is not made ("Kallia wanted the jars filled before she lit her fire … the stand would have to go to the priest as it stood", p129), which puts the curse-tablet morning on the inspection day, and Kallia gets a new house-order trait. The thumb wound is sucked at the bench (p123), reopens in the basin with "a thread of red into the black", and fades until "the water stayed black" (p163). Also new on the page: "No forge,"; "Will it stand?"; "left me for the court"; "smoking a hive"; "tight and glossy as cherries"; "floured all over with stone dust"; "Up to then … This question he asked of me."; "Hermes below … I nail her under the lead"; "lying on his belly with one arm down it"; "pegged to a pillar"; "with his mouth full"; "with the money"; "my landlord, and hold the rope"; "The men from the board"; one money-changer (p193); "I had his obol in the rag. I kept my place."; "more after that". Kallia no longer learns on the page who paid (knowledge row, relationship rows, waypoint and knowledge_absent updated). The page keeps "I was looking at him." (p198), not the revision log's "watching". CH9-1, CH9-2 and CH9-4 re-checked (recheck_cycle1). All stay RESOLVED, and the bible, rewritten at 21:35, quotes the cut strings only as cut. `last_updated_chapter` stays 9. No new contradiction and no knowledge_gap. The YAML loads under a strict loader with no duplicate keys. chapter-10.md was not read.
+
+## 2026-10-19: UPDATE (chapter 10, final text: post-writer, dialogue-polish, hook-craft, disruptor and continuity repair C-01, W-01..W-08)
+
+**Trigger:** chapter loop step D.5 for chapter 10.
+
+**Inputs read:**
+- `manuscript/chapters/chapter-10.md`, twice.
+  - First in its post-disruptor state (98 prose paragraphs, last written 22:15).
+  - Mid-run the orchestrator reported the book-editor's continuity repair. The update was held until the file had stopped changing and was then applied to the repaired page (last written 22:42:17; `evaluations/revision-chapter-10-continuity.md`).
+  - The repaired page has **97 paragraphs and no breaks**:
+    - old p1..p61 keep their numbers;
+    - a new p62 (the reed blind) is added;
+    - old p62..p93 = p63..p94;
+    - old p94..p95 ("Shall I go up and open it?" / "He can lift a latch.") are cut;
+    - old p96..p98 = p95..p97.
+- `ENTITY_STATE.yaml` (`last_updated_chapter: 9`).
+- outline.md Ch.10–12.
+- character-bible.md: Kallia, Ariston, Nikaso, Sostrata and the Ch.10 walk-on note.
+- `manuscript/reports/chapter-10-report.md`. It numbers paragraphs by file LINE and is stale in places, so it was used only as a list of claims to check.
+- `evaluations/continuity/chapter-10-audit.md` (C-01, W-01..W-09, N-01..N-25).
+- foundation §3 (Kallia).
+
+**Meta:**
+- `last_updated_chapter: 10`; `chapters_tracked: [1..10]`.
+- `paragraph_rule` is extended to Ch.10, with a rough map and the repair's renumbering.
+- New block `meta.ch10_requested_checks`.
+- 715 `ch-10:pYY` cites, all within p1..p97.
+- Every single-quoted fragment on a line that cites Ch.10 was machine-checked against the cited paragraphs. The only misses are deliberate: plan text, pre-repair or cut text (labelled as such), foundation quotes, and earlier-chapter quotes on mixed lines.
+- The YAML loads under a strict loader with no duplicate keys.
+
+### Replaced (plan → prose)
+- **Mara:** the Ch.10 location row ("Kallia's kitchen" → the gate, the court, the step by the lean-to). The planned knowledge row is replaced by 9 prose rows.
+- **Kallia:**
+  - the planned knowledge row is replaced by 8 prose rows;
+  - the arc waypoint;
+  - the `ariston` relationship;
+  - confirmations on "cannot read", "sweeps the threshold of her son's empty room" and "never says her son's name until the letter forces it once" (p94).
+- **Ariston:** the whole block, written from the letter:
+  - the left arm and right-handedness;
+  - service and an early discharge with his savings "at the standards" paid out (repair W-04);
+  - household: wife **Shalmath** (renamed from Domna by repair W-03), Iamblichos, the child, the roof, the bought land, the oxen;
+  - the two years' silence; his boyhood (the mules, the drum, the snails); the greetings;
+  - his `knowledge_absent`.
+- **Objects:** `ariston-letter` (description, date, route, full text, beats; kept "in behind the cumin"; Ch.6 "Letters." link noted, not drawn by the page); the `kallias-broom` Ch.10 beats (CONFIRMED; `whose_room`: Ariston's).
+- **Locations:** the Kirrha plan row ("first carter") is marked replaced; Emesa's plan row is confirmed.
+- **Timeline:** row 10 and its events.
+- **Threads:** `kallias-son` is **PAID** (coda Ch.16).
+
+### Added
+- **Characters:**
+  - `elean-pilgrim` (minor; the bible says to card him if he returns as the lodger);
+  - `man-from-patrae` ("Patrae" after repair W-06);
+  - `shalmath` (with a `former_name` note), `shalmaths-mother`, `iamblichos`, `aristons-child`, `thrasyllos` (dead), `glaukes-girls`, `kirrha-wine-seller`;
+  - `bakers-mother`, promoted from a relationship key under Sostrata (Ch.7, 8, 10).
+  - Ch.10 notes on Nikaso (traits, 3 knowledge rows, `knowledge_absent_ch10`, location, the sieve in her house), Philista, Sostrata, the baker, the sieve neighbour and Valens (absent).
+- **Mara:**
+  - `worn/carries/marks/hair_ch10`;
+  - 10 traits: reads aloud whole; could have edited and did not; the two-kinds-of-letter distortion; the misread yawn; the Homs postcard at Van Pelt; offers to write;
+  - relationships with Ariston and the Elean; `knowledge_absent_ch10`; the arc waypoint;
+  - the CONTINUITY COMMITMENT is **HELD** (no English).
+- **Kallia:**
+  - 13 Ch.10 traits, including the reed blind let down (new p62) and her order "If he comes to the gate before I find him, he waits in the court.";
+  - `clothing_ch10`, `household_ch10`, a location row;
+  - possessions: the good himation, the spindle, the knife and cumin niche, the letter, the reply obol, the blind;
+  - relationships with the Elean, the man from Patrae, Shalmath and Iamblichos; `knowledge_absent_ch10`.
+- **Locations:**
+  - new: `syria`, `elis`, `aigion`, `van-pelt-library` (**needs_review**: possibly the same as `university-library`);
+  - Ch.10 facts on kallias-house (the shut room is Ariston's; the lean-to, the niche and the blind; the gallery full of pilgrims; the lane), castalian-spring, delphi, kirrha, corinth, jerusalem, amphissa and emesa.
+- **Objects:** `reply-obol` (chekhov_open, on the bottom stair); `lean-to-reed-blind` (background; the revision log asked for it). `kallias-sieve` gets a Ch.10 beat and a holder **conflict** sub-field (CH10-4).
+- **Organization:** `aristons-cohort`.
+- **Knowledge index:**
+  - new `ariston_letter`: Mara has the whole text; Kallia has it as read to her; Nikaso has only living, the greeting, married and a child; the lane has "Syria, and a wife, and a child"; the Elean has no contents; Valens is not shown.
+  - new `aristons_return`: only Mara and Kallia, by inference. Nikaso and the lane do not know; Nikaso expects him "home for the god's day". The page never states it.
+  - Ch.10 rows on `lupus_notice` (Kallia still not shown) and `oracle_access`.
+- **Threads:**
+  - new `ariston-reply` (open; the one line "Tell him the baker's old mother is living."; the obol; the sheet from "The priest's household"; the carrier east for a cup; Iamblichos's name asked again).
+  - Ch.10 notes on oracle-access, syracuse-cover, maras-english-to-herself, euthydikos-bowl, obol-owed-to-valens, goat-kept-warm, valens-literacy, maras-living and the four relics (none mentioned).
+- **World rules:** the sea rule gets a Ch.10 observation (the gulf is open again). New OBSERVED rules: the Greek letter formula and its address; letters carried by favour for a cup; naming customs (Emesa: the mother's father; Delphi: the father's father); lodgings filling before the god's day at two to three obols a night; early discharge for a wound with savings paid out.
+
+### Contradictions
+- **CH10-1 (medium): RESOLVED by the repair.** The pre-repair line "Three nights, till the god opens his house" set the god's first day three days after Ch.10, against outline Ch.11 (a week) and Ch.12 ("three days off"). The page now reads "I'm here till the god opens his house." Forward constraint: at least about ten days between Ch.10 and the seventh of Bysios.
+- **CH10-2 (low, OPEN):** the outline and foundation have "discharge land" and "never/not coming home". The page has land bought with his cohort savings and the dowry, an early discharge, and no word of a return.
+- **CH10-3 (info, OPEN):** the outline's harbor road vs the page's "nobody he'd trust was bound for Delphi" and a sea passenger (CH9-3 honoured).
+- **CH10-4 (low, OPEN):** this file's sieve holder "kallia" vs "your sieve still at my house" (p70). The pages agree with each other; the conflict is with the tracker's field.
+- **CH10-5 (info, OPEN):** "three gates down" (p67) vs "Midway along the lane". Compatible only with about six gates.
+- **CH10-6 (info, OPEN):** "no other name on that line for years" (ch-07:p169) vs a son gone since about the vintage of AD 68. It depends on when he left, which the page does not state.
+- **CH10-7 (info, OPEN):** the bible's Ch.10 blocks and the writer's report quote many lines that are not on the final page, including everything the repair cut. Waits on the W-09 bible sync.
+- **Requested checks:**
+  - Kallia's age against Ariston's service: NO CONFLICT.
+  - The council-list line: CH10-6.
+  - The letter against the Syracuse cover and Aimilios: NO CONFLICT. Ariston is her cousin under the cover; exposure noted for any fuller reply.
+
+No knowledge_gap. Kallia's "You read the clerk's wax" has a path (ch-07:p177). Nikaso knows of the son from before the story (prior knowledge). Nobody references Ariston before he is on the page.
+
+### For Ch.11–12
+- **The god's day:** no interval is stated now. Keep at least about ten days between Ch.10 and the seventh of Bysios, so that "come early for the god" means two weeks or more early. If the Elean lodges, he stays "till the god opens his house" at three obols a night.
+- **Ariston's room:** let to the Elean by Kallia's word, with the broom across the threshold. Whether he takes it, and what becomes of the broom, is not on the page. The room's inside is unseen. Kallia has said "Ariston" once; per the bible, never again.
+- **The reply:**
+  - one line; Kallia's obol is on the bottom stair "For the sheet";
+  - the sheet is to come from "The priest's household" (the priest is not named);
+  - a carrier going east "for a cup", "when the boats go east";
+  - Iamblichos is the likely address.
+- **The letter:** behind the cumin in the lean-to niche, with the good knife.
+- **Who knows he will not come home:** only Mara and Kallia, both by inference. Nikaso and the lane have "Syria, and a wife, and a child" and expect a visit for the god's day. Do not have anyone quote him saying he will not return.
+- **Names:** Shalmath (not Domna); Patrae (not Patrai). Ariston's discharge brought his savings at the standards, not a bounty.
+- **Kallia:** still not shown to know about the notice or Valens (audit N-19). Ch.11's cousin beat is the next chance to account for it or keep her from it. The sieve is CLOSED as a topic (bible).
+- **Unchanged since Ch.9:** Mara's money (the smith's price plus two 1998 coins), the obol she owes Valens, the warm Delphi goat versus the plan's Kirrha goat, and the watch, which is with Valens and not mentioned.

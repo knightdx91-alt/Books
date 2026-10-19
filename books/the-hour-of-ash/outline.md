@@ -384,10 +384,10 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Function in arc:** A secondary character's own life, fully onstage (Outline Check #9). A short, quiet punch between the money chapter and the Valens chapters.
 **Emotional anchor:** the broom, still lying across the empty room's threshold when Kallia goes out.
 **Emotional surprise:** the good news (he's alive) is the worst news Kallia could get.
-**Opening strategy:** an object. The letter, folded small and stained from the road (≤8 words). It was sent in the autumn and sat at Kirrha harbor all winter while the sea was closed; it comes up the hill once the harbor road opens. (Ch.9 has spent "first carts since the snow": word the arrival freshly.)
+**Opening strategy:** an object. The letter, folded small and stained from the road (≤8 words). It was sent in the autumn and sat at Kirrha harbor all winter while the sea was closed; it comes up the hill with the Elean pilgrim, who brings it on from Kirrha (as written: nobody Ariston trusted was bound for Delphi). (Ch.9 has spent "first carts since the snow": word the arrival freshly.)
 **Key scenes/beats:**
 1. **NON-NEGOTIABLE.** Mara reads it aloud. Her reading is perfect, unlike her speech, so her gift becomes the instrument of the blow.
-2. Ariston writes from Emesa: a wife, a child coming, his discharge land in Syria. He sends greetings to the neighbors by name and not to the room.
+2. Ariston writes from Emesa: a wife, a child coming, land in Syria bought with what he saved at the standards and the dowry, after an early discharge for a broken arm (as written, 2026-10-19). He never says he is not coming home; the reader and Kallia hear it. He sends greetings to the neighbors by name and not to the room.
 3. **NON-NEGOTIABLE.** Kallia says his name for the first time, once.
 4. Kallia goes out to rent the room to a pilgrim from Elis. The chapter **just stops**: Mara alone in the kitchen with the letter, the afternoon going on. No hook.
 **Progressive structure:**
