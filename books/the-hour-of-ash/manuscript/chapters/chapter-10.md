@@ -1,7 +1,7 @@
 # Chapter 10: Kallia's Letter
 
 <!-- SCENE BUDGET (Target 2,800; range 2,500-3,100): the letter at the gate; the Elean turned away 550 | the hours it rode in her belt 200 | opened; the formula; the war and the arm 400 | the wife: "Is she Greek?" / "Can she weave?" 450 | the child, the roof, the land, Emesa 400 | the greetings by name; nothing for the house 350 | the name on the page; Nikaso; the reply she will not send 450 | the afternoon sweep; Ariston's room; out 250 | Mara alone in the kitchen, the afternoon going on 150 -->
-<!-- Word count: 2,713 after dialogue-polish (shape_check; style_check 2,721; writer 2,747) | Target: 2,800 (range 2,500-3,100) | Dialogue 36% (show/tell 34.2%; band 30-40) | Breaks 0 | Median sentence 15 (gear mid) | And-chains 1 | Echoes 0 | Anchor: the broom, still lying across the empty room's threshold when Kallia goes out | Date: 2026-10-19 -->
+<!-- Word count: 2,528 after disruptor (shape_check; style_check 2,537; hook-craft 2,697; dialogue-polish 2,713; writer 2,747) | Target: 2,800 (range 2,500-3,100) | Dialogue 39% (show/tell 36.7%; band 30-40) | Breaks 0 | Median sentence 15 (gear mid) | And-chains 1 | Echoes 0 | Anchor: the broom, still lying across the empty room's threshold when Kallia goes out | Date: 2026-10-19 -->
 
 The letter had been folded down very small. It came to the gate just after noon, held out between two fingers by a pilgrim from Elis, a young man with a peeling scalp who had been sick on the boat from Aigion and wanted it known. It was a strip of papyrus folded over and over on itself into a packet I could have closed my fist on. A thread went round it twice, sealed at the knot with a thumb of gray clay. One end had stood in wet somewhere and dried with a brown tidemark across it.
 
@@ -35,13 +35,13 @@ I filled the dipper at the jar. The Elean drank half and returned the dipper wit
 
 "The house is full."
 
-"Three, then, for anywhere with a roof on it. I was sick over the side from Aigion to Kirrha, and I've slept two nights on a deck with a Corinthian's goat." He looked past her at the gallery, which was hung with other people's cloaks. "Three obols."
+"Three, then, for anywhere with a roof on it. I was sick over the side from Aigion to Kirrha, and I've slept two nights on a deck with a Corinthian's goat." Behind her the gallery was hung with other people's cloaks. "Three obols."
 
 "There's the houses by the stadium."
 
 He went away toward them, coughing. Every room on the gallery had been taken that week by people come early for the god. After the noon bread nearly all of them had climbed to the sanctuary to stare at the temple.
 
-She put the letter inside her belt, against her stomach, and returned to the pots. It rode there through the scouring and the lodgers' washing water. The corner of it showed over her belt when she reached up for the oil. Once she put her hand flat across it in passing, the way a woman in a crowd checks her purse. The man from Patrai, who had stayed behind with a bad foot, came down late for his bread, and she gave it him twice over; he took it twice and kept his mouth shut. In four months I had seen nothing come to that house that could be read. Letters came in two kinds, I thought, and either kind got read at once: the bad to be done with, and the good to be had. I scoured what she gave me to scour and asked her nothing.
+The letter went inside her belt, against her stomach, and she returned to the pots. It rode there through the scouring and the lodgers' washing water. The corner of it showed over her belt when she reached up for the oil. Once she put her hand flat across it in passing, the way a woman in a crowd checks her purse. The man from Patrai, who had stayed behind with a bad foot, came down late for his bread, and she gave it him twice over; he took it twice and kept his mouth shut. In four months I had seen nothing come to that house that could be read. Letters came in two kinds, I thought, and either kind got read at once: the bad to be done with, and the good to be had. I scoured what she gave me to scour and asked her nothing.
 
 Halfway through the afternoon she brought her spindle and a basket of carded wool into the court. It was the first afternoon of the year with heat enough in the sun to work without a cloak. She stood in it beside the lean-to, where the hearth was and all the kitchen the house had, and spun. I sat on the step with a basket of chickpeas on my knees, picking out the grit. The spindle dropped and turned and came up again under her fingers. Presently she let it hang. She drew the letter from her belt and held it toward me across the wool, as far as her arm would reach.
 
@@ -61,9 +61,7 @@ The clay crumbled off the knot in one piece. I worked the thread loose with a th
 
 "He was never any use with the left," Kallia said.
 
-Jerusalem had fallen that summer, and the Temple with it, burning. I knew it the way I knew the year of the Armada, as a date on a page with a fire in it. A stone off that wall had found Kallia's son, and she was asking which arm.
-
-In the lane my Greek arrived in single words. Each one had to be chosen, set down and tested. The Greek on the papyrus had been chosen already, in Syria, and all it wanted from me was breath. My eyes ran a line ahead of my voice, which was how reading aloud had always gone, and the next thing in the letter reached me while I was still giving Kallia the last.
+Jerusalem had fallen that summer, and the Temple with it, burning. I knew it the way I knew the year of the Armada, as a date on a page with a fire in it.
 
 "Forgive me the two years."
 
@@ -75,7 +73,7 @@ It was the best Greek I had spoken since October, and it was his from beginning 
 
 "Is she Greek?"
 
-I looked at the name, which told me nothing a Phocian would have wanted told. "Her father is called Iamblichos. It is a name from that country."
+The name told me nothing a Phocian would have wanted told. "Her father is called Iamblichos. It is a name from that country."
 
 "Can she weave?"
 
@@ -111,7 +109,7 @@ Emesa was Homs. There had been a postcard of a crusader castle somewhere near Ho
 
 "It's come, then, whichever it is."
 
-She wanted no answer to that, and I gave her none. The spindle hung at the end of its thread, turning a little one way and then the other, and she let it.
+She wanted no answer to that, and I gave her none. The spindle hung at the end of its thread, turning a little one way and then the other.
 
 "Greet for me Nikaso and her husband. Tell Philista I have not forgotten whose drum it was I put my foot through. Greet the baker and Sostrata, and his old mother, if she is living, and Thrasyllos who let me take his mules to the harbor, and Glauke's girls at the spring, both of them."
 
@@ -121,7 +119,7 @@ She said it to the letter. I raised it for her.
 
 "I pray for your health, mother, and that the gods keep you. Farewell. Written at Emesa, on the twentieth of Hyperberetaios."
 
-There was no more. I looked on the back to be sure. There, in the same small hand, was the address: to Kallia, at Delphi, at the lodging above the Castalian spring, from her son. He had found room for the old woman who slept between the baker and his wife. For the house there was no line, nor for anything under its roof. Kallia stood in the sun with the wool in her hand, and she had heard all of it as clearly as I had.
+There was no more. I looked on the back to be sure. There, in the same small hand, was the address: to Kallia, at Delphi, at the lodging above the Castalian spring, from her son. He had found room for the old woman who slept between the baker and his wife. For the house there was no line, nor for anything under its roof. Kallia stood in the sun with the wool in her hand.
 
 "He says the arm has knit," I said.
 
@@ -131,7 +129,7 @@ The chickpeas had gone warm in their basket. A lodger's tunic was drying on the 
 
 "Which is his name?"
 
-I turned the papyrus to her and put a fingertip under the opening word. She looked at it from where she stood, without coming nearer, for the time it would have taken her to read it if she could read. It was seven letters. At that distance, in that hand, they could have been anything.
+I turned the papyrus to her and showed her the opening word with a fingertip. She looked at it from where she stood, without coming nearer, for the time it would have taken her to read it if she could read. It was seven letters. At that distance, in that hand, they could have been anything.
 
 "Keep it out of the smoke," she said.
 
@@ -149,7 +147,7 @@ Somebody came in at the gate at a run. It was Nikaso, from three gates down, wit
 
 "He's married, in Syria, and there's a child."
 
-"A child." Nikaso looked from Kallia to me and back. "And you out here spinning, with a grandson in Syria. I'd have been in the lane with it already, telling every woman with a jar."
+"A child. And you out here spinning, with a grandson in Syria. I'd have been in the lane with it already, telling every woman with a jar."
 
 "That Elean was promised a cup of wine for carrying it, and got water."
 
@@ -171,19 +169,23 @@ The one on top was the cracked one but it fit.
 
 "Papyrus. The priest's household would sell me a sheet."
 
+"The horse-seller," Kallia said. "His name again."
+
+"Iamblichos."
+
 "And whoever carries it to Syria?"
 
 "Somebody going east would take it for a cup. As the Elean did."
 
-"Tell him," Kallia said, and wound the yarn up, all of it, and laid the spindle on the wool in its basket. At the foot of the stair she stopped.
+"Tell him," Kallia said, and wound the yarn up, all of it. At the foot of the stair she stopped.
 
 "Tell him the baker's old mother is living."
 
 She felt in her belt for an obol and set it on the bottom stair, where I would have to pass it. "For the sheet."
 
-The papyrus still lay open in my lap. A draught from above caught its loose end and lifted it, and I put my palm on it. I watched her climb, and pass the lodgers' doors. A pair of wet sandals stood outside one of them with their soles to the sun. The last door was the oldest on the gallery, gray planks gone silver at the foot where the light reached, with a wooden latch and a loop of cord dropped over the latch-peg. Kallia lifted the broom off its boards and swept them. At dawn they had been swept already; from my mat I had heard the broom. It went to the lip of the gallery in short strokes, and nothing came over, and back to the door. Once more she went over them, along the grain, and then she laid the broom over the threshold again, the head against one post and the handle against the other, and came down.
+The papyrus still lay open in my lap. I watched her climb, and pass the lodgers' doors. A pair of wet sandals stood outside one of them with their soles to the sun. The last door was the oldest on the gallery, gray planks gone silver at the foot where the light reached, with a wooden latch and a loop of cord dropped over the latch-peg. Kallia lifted the broom off its boards and swept them. At dawn they had been swept already; from my mat I had heard the broom. It went to the lip of the gallery in short strokes, and nothing came over, and back to the door. Once more she went over them, along the grain, and then she laid the broom over the threshold again, the head against one post and the handle against the other, and came down.
 
-Her good himation hung on the peg by the storeroom. She drew it up to cover her head and her kerchief, and closed it under her chin.
+Her good himation hung on the peg by the storeroom. She covered her head with it, kerchief and all, and closed it under her chin.
 
 "That Elean will have been all round the stadium by now," she said, "and the houses there are full to the tiles. He can have Ariston's room, at the three obols."
 
@@ -191,8 +193,8 @@ Her good himation hung on the peg by the storeroom. She drew it up to cover her 
 
 "He can lift a latch."
 
-The gate came to behind her and bounced once on its latch. Her shoes receded over the stones at the pace she used for the spring. Up at the last door the broom still lay over the threshold, from post to post.
+The gate came to behind her and bounced once. Her shoes receded over the stones at the pace she used for the spring. Up at the last door the broom still lay over the threshold, from post to post.
 
-Before I folded it I read it once more, without moving my lips. To myself it was a cheerful letter, from a man with a roof to sit on in the evenings. I folded the papyrus down along the folds it had come in, and it made a fatter packet than before. In the cold end wall of the lean-to was a niche where Kallia kept the good knife and a twist of cumin. I put the letter in behind the cumin. Hyperberetaios would be October, or near it; the Macedonian months had always slid about in my head, and the Syrians might reckon them their own way.
+Before I folded it I read it once more, without moving my lips. To myself it was a cheerful letter, from a man with a roof to sit on in the evenings. I folded the papyrus down along the folds it had come in, and it made a fatter packet than before. In the cold end wall of the lean-to was a niche where Kallia kept the good knife and a twist of cumin. I put the letter in behind the cumin.
 
 Out in the lane somebody was driving a goat that was against the whole idea, and a woman's voice was telling him so. The step was in shade. It was a good while yet till the lamps. Half the basket was still to clean, and I pulled it back onto my knees.
