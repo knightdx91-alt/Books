@@ -200,6 +200,10 @@ excluded): **AND-CHAINS**, sentences with four or more "and"s, capped at max(9, 
 (one designed held sentence is a device; a dozen is the narrator's default rhythm — Hazel Academy ran 2–8
 early and drifted to 20–26 late), and **CREDENTIAL ASIDES**, the book-specific phrases by which a narrator
 files the world under her own expertise (`CREDENTIAL_PATTERNS` in the book's copy; capped at 4 per chapter).
+It also counts **NEGATION PIVOTS**: a short negated clause hinged on a semicolon to a pronoun that says
+what happened instead ("the mule did not pull; she sat back"). That is define-by-negation in miniature,
+and it reads as a device quickly. The cap is 1 per chapter, and the gate fails at 3 book-wide. The pattern
+is deliberately narrow, so an ordinary negative sentence followed by a new one does not fire.
 
 A second layer, **PROP FIDGET**, follows a single object through a scene — including "it" and "them"
 back to the prop named last — and fails when it is fidgeted with (turned, set down, picked up, taken

@@ -213,8 +213,18 @@ def _narration(text):
     text = re.sub(r"(?m)^#.*$", " ", text)
     return text
 
+# NEGATION PIVOT: "the mule did not pull; she sat back" — a short negated clause hinged on a semicolon to a
+# pronoun that says what happened instead. Define-by-negation in miniature; it reads as a device fast.
+# Fails a chapter with more than PIVOT_CHAPTER_MAX, or a book with PIVOT_BOOK_MAX+ (the 3+ recurrence rule).
+PIVOT_RX = re.compile(r"\b(?:did not|didn't|was not|wasn't|were not|weren't|would not|wouldn't|could not|couldn't|"
+                      r"had not|hadn't|does not|doesn't|is not|isn't)\s+(?:\w+\s+){0,2}?\w+;\s+(?:he|she|it|I|they|we)\s+\w+",
+                      re.I)
+PIVOT_CHAPTER_MAX = 1
+PIVOT_BOOK_MAX = 3
+
 def reflex_scan(files):
     rows, flags = [], []
+    pivot_total = 0
     creds = [re.compile(p, re.I) for p in CREDENTIAL_PATTERNS]
     for f in files:
         ch = Path(f).stem.split("-")[-1]
@@ -225,11 +235,17 @@ def reflex_scan(files):
         chains = sum(1 for s in sents if len(re.findall(r"\band\b", s, re.I)) >= 4)
         cap = max(AND_CHAIN_MIN_CAP, round(words / AND_CHAIN_WORDS_PER))
         cred = sum(len(rx.findall(nar)) for rx in creds)
-        rows.append((ch, chains, cap, cred))
+        pivots = len(PIVOT_RX.findall(re.sub(r"\s+", " ", nar)))
+        pivot_total += pivots
+        rows.append((ch, chains, cap, cred, pivots))
+        if pivots > PIVOT_CHAPTER_MAX:
+            flags.append(f"negation pivots: {pivots} in chapter {ch} (cap {PIVOT_CHAPTER_MAX}) — 'did not X; she Y'; say what happened")
         if chains > cap:
             flags.append(f"and-chains: {chains} sentences with 4+ 'and' in chapter {ch} (cap {cap}) — the narrator's default rhythm; split or recast")
         if creds and cred > CREDENTIAL_MAX:
             flags.append(f"credential asides: {cred} in chapter {ch} (cap {CREDENTIAL_MAX}) — the narrator filing the world under her expertise")
+    if pivot_total >= PIVOT_BOOK_MAX:
+        flags.append(f"negation pivots: {pivot_total} book-wide (fails at {PIVOT_BOOK_MAX}) — a construction recurring is a tic")
     return rows, flags
 
 def gesture_scan(files):
@@ -376,8 +392,9 @@ def main():
     gflags += prop_scan(allfiles)
     rrows, rflags = reflex_scan(allfiles)
     print("\nRHYTHM & VOICE REFLEXES (narration only):")
-    for ch, chains, cap, cred in rrows:
-        print(f"  ch {ch:>3}: and-chains {chains:>3} (cap {cap})   credential asides {cred:>3}" + (f" (cap {CREDENTIAL_MAX})" if CREDENTIAL_PATTERNS else ""))
+    for ch, chains, cap, cred, pivots in rrows:
+        print(f"  ch {ch:>3}: and-chains {chains:>3} (cap {cap})   credential asides {cred:>3}" + (f" (cap {CREDENTIAL_MAX})" if CREDENTIAL_PATTERNS else "")
+              + f"   negation pivots {pivots} (cap {PIVOT_CHAPTER_MAX})")
     gflags += rflags
     print("\nGESTURE BEATS — stage business by class (book-wide; a repeated gesture is a tic):")
     for name, total, per1k, wch, worst in grows[:16]:

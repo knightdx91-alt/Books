@@ -248,6 +248,9 @@ entry:
   default rhythm, so split action into shorter sentences. If the book defines `CREDENTIAL_PATTERNS` in
   its `tools/tic_report.py`, the narrator's habit of filing what she sees under her own expertise is
   capped at 4 per chapter. Let most sights stand on their own.
+- **No negation pivots.** "The mule did not pull; she sat back" and "It was not a large laugh; it was…"
+  define a thing by what it isn't, then correct it. Say what happened. The gate caps it at 1 per chapter
+  and fails at 3 book-wide.
 - **Props never do the acting.** No single object handled three times within 400 words (turned in the
   fingers, set down, picked up, taken off, put back). If a character needs a beat between lines, give
   them something new to do, or no beat.
