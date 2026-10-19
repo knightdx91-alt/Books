@@ -150,9 +150,15 @@ Every chapter must have:
 
 For applicable genres, include from the character's chaos profile in foundation.md:
 
-- **Irrelevant thought:** The character thinks about something that has nothing to do with the scene. It arrives uninvited. It leaves without comment. 1-2 sentences, max. No narrative justification.
+- **Irrelevant thought:** The character thinks about something that has nothing to do with the scene. It arrives uninvited, set off by something in the scene, and leaves without comment. 1-2 sentences, max, inside the moment, not a paragraph of its own. Optional, never on a schedule (see the ration rule below).
 - **Cognitive distortion in action:** The character's habitual thinking error shows up in a decision, reaction, or internal monologue. They catastrophize, or think in black-and-white, or assume they know what someone else is thinking.
-- **Unprompted memory:** A memory from the character's past surfaces at the wrong time. Concrete, sensory, emotionally loaded, but NOT connected to the current scene.
+- **Unprompted memory:** A memory from the character's past surfaces at the wrong time. Concrete, sensory, emotionally loaded — and **triggered by something in the scene** (a smell, a sound, an object, a gesture), even when what it remembers has nothing to do with the plot. It comes out of the scene and goes straight back into it, usually inside the paragraph rather than as a paragraph of its own.
+- **Ration and vary human noise (author ruling, 2026-10-19: "Wouldn't those memories break immersion? Vary them").** A chaos device on a fixed cadence is itself a tic: the reader learns to wait for "the memory paragraph". So:
+  - none of these is required in every chapter; a chapter with none is fine;
+  - a stand-alone memory paragraph (one that does not grow out of the scene) is not allowed; at most one longer memory every other chapter;
+  - never the same shape twice running (length, position, how it enters and how it leaves);
+  - never close a memory on a small loss of knowing ("nobody ever learned his name", "its name had gone");
+  - before adding one, look at the previous two chapters' memories and make this one different.
 - **Failed emotional management:** The character tries to control their emotion and FAILS. Not dramatically — small and human. Voice cracks. Eyes burn. Hand won't stop shaking.
 
 These moments are NOT plot points. They are HUMAN NOISE. They exist because people are not narrative vehicles.

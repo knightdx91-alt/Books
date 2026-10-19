@@ -209,7 +209,7 @@ Before deleting or converting any passage, name what it IS doing. The following 
 
 ### "Character chaos missing"
 1. Read the character's chaos profile in foundation.md
-2. Insert at least one chaos moment: irrelevant thought, cognitive distortion in action, unprompted memory, or failed emotional management
+2. Insert at least one chaos moment: irrelevant thought, cognitive distortion in action, unprompted memory, or failed emotional management — only if the chapter has none and the previous two chapters do not already carry the same kind; a memory must be triggered by the scene and stay inside it (never a stand-alone memory paragraph)
 3. The chaos moment gets NO narrative justification. It just happens. 1-2 sentences. Then the scene continues.
 
 ### "CVI-Launch issues: low commercial pacing"

@@ -69,7 +69,9 @@ Example:
 ### 2. IRRELEVANT THOUGHT INJECTION
 Check the Writer's self-report for existing chaos moments. If the Writer already inserted 2+ chaos moments, SKIP or do only 1. Total chaos moments per chapter should be 2-3 max (Writer + Disruptor combined). Too many = character seems scattered rather than human.
 
-Find a moment in the chapter where the character is focused on the plot. Insert ONE irrelevant thought — something the character would actually think about that has nothing to do with the scene. Use the character's irrelevant obsession from the foundation, or invent one that fits.
+Find a moment in the chapter where the character is focused on the plot. Insert ONE irrelevant thought — something the character would actually think about that has nothing to do with the plot, **set off by something in the scene**, and kept inside the moment (1-2 sentences in an existing paragraph, never a stand-alone memory paragraph). Use the character's irrelevant obsession from the foundation, or invent one that fits.
+
+**SKIP this operation** if either of the previous two chapters already has a memory or irrelevant-thought insert of the same shape, or if this chapter already has one. A chaos device on a fixed cadence is itself a tic (author ruling 2026-10-19). Never close one on a small loss of knowing ("nobody ever learned his name").
 
 Rules:
 - The thought gets NO narrative justification. It just appears.

@@ -19,6 +19,9 @@ generously: max +0.5 per revision cycle, cited evidence per score, challenge any
 **Character chaos** — the deliberate irrationality that makes a character read as a person:
 an irrelevant thought, a visible cognitive distortion, an unprompted memory, a failure of
 emotional management. Literary fiction and memoir cap at 7.5 on Characters without it.
+It must never run on a schedule: a memory or thought is triggered by something in the scene and goes back
+into it, and the same device in the same shape chapter after chapter is itself a tic. A stand-alone memory
+paragraph that drops in from nowhere breaks immersion (author ruling 2026-10-19).
 
 **Chapter loop** — steps A–G run per chapter, strictly sequential: write → dialogue-polish
 → hook-craft → disruption → (entity update) → mechanical preprocess → evaluate → gate.

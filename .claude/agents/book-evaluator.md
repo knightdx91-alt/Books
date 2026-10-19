@@ -98,7 +98,8 @@ Score each dimension from 6.0 to 10.0. The floor is the score.
 - **Chaos check (genre-adjusted V3.2):** Does the chapter include character chaos moments?
   - Irrelevant thought present? (not plot-functional)
   - Cognitive distortion visible in behavior?
-  - Unprompted memory surfacing?
+  - Unprompted memory surfacing? It must be **triggered by the scene and return to it**. A stand-alone memory paragraph that drops in from nowhere breaks immersion: flag it.
+  - **Absence is not a defect.** The inverse is: a chaos device on a fixed cadence (a memory paragraph every chapter, the same size, the same kind of ending) is a tic. Compare with the previous chapters, and cap Characters at 7.5 if one has become a pattern (author ruling 2026-10-19).
   - Failed emotional management? (control breaking)
   - **Genre profiles (from 10-bestseller benchmark):**
     - Literary Fiction: 4-5/5 required. Cap at 7.5 without chaos. (Benchmark: Normal People 5/5, A Little Life 4/4)
