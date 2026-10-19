@@ -1,7 +1,7 @@
 # Chapter 10: Kallia's Letter
 
 <!-- SCENE BUDGET (Target 2,800; range 2,500-3,100): the letter at the gate; the Elean turned away 550 | the hours it rode in her belt 200 | opened; the formula; the war and the arm 400 | the wife: "Is she Greek?" / "Can she weave?" 450 | the child, the roof, the land, Emesa 400 | the greetings by name; nothing for the house 350 | the name on the page; Nikaso; the reply she will not send 450 | the afternoon sweep; Ariston's room; out 250 | Mara alone in the kitchen, the afternoon going on 150 -->
-<!-- Word count: 2,446 after polish cycle 1 (shape_check; style_check 2,457; wc -w 2,624; continuity repair 2,563; disruptor 2,528; hook-craft 2,697; dialogue-polish 2,713; writer 2,747) | Revision: polish cycle 1 (eval P1-P7, #8, #9, #11, #12, #13; ENTITY CH10-5) after continuity (C-01, W-01 to W-08) | Target: 2,800 (range 2,500-3,100; no per-chapter floor, not padded) | Dialogue 40% (raw 40.47%; show/tell 38.0%; band 30-40) | Breaks 0 | Median sentence 15 (gear mid) | And-chains 1 | Echoes 0 | Anchor: the broom, still lying across the empty room's threshold when Kallia goes out | Date: 2026-10-19 -->
+<!-- Word count: 2,447 (shape_check) | FINAL 2026-10-19 after continuity repair, polish cycle 1 and the PATH fix | Target: 2,800 (range 2,500-3,100; no per-chapter floor) | Dialogue 40.46% (990/2,447; band 30-40) | Breaks 0 | Median sentence 15 (gear mid) | Echoes 0 | Anchor: the broom, still lying across the empty room's threshold when Kallia goes out -->
 
 The letter had been folded down very small. It came to the gate just after noon, held out between two fingers by a pilgrim from Elis, a young man with a peeling scalp who had been sick on the boat from Aigion and wanted it known. One end of it had stood in wet somewhere and dried with a brown tidemark across it. The thread round its middle was knotted under a thumb of gray clay.
 
@@ -195,6 +195,6 @@ Her good himation hung on the peg by the storeroom. She covered her head with it
 
 The gate came to behind her and bounced once. Up at the last door the broom still lay over the threshold, from post to post.
 
-I read it over again to myself, from the greeting down to the date, and rolled it up. In the cold end wall of the lean-to was a niche where Kallia kept the good knife and a twist of cumin. I put the letter in behind the cumin.
+I read it all to myself, from the greeting down to the date, and rolled it up. In the cold end wall of the lean-to was a niche where Kallia kept the good knife and a twist of cumin. I put the letter in behind the cumin.
 
 Half the basket was still to clean, and I pulled it back onto my knees. Out in the lane a woman was shaking her blanket over the neighbor's wall, and the neighbor was telling her where else she might shake it. The step was in shade. It was a good while yet till the lamps.

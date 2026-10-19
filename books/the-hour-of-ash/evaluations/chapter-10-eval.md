@@ -518,3 +518,108 @@ Ch.10 (cycle 1): 2,446w (target 2,800, −12.6%; 54 under the writer's range flo
 - A reader could fairly call the cap legalistic. Its trigger is 0.02/1k over the line, its cause is the chapter getting shorter, and one of the two instances (the Armada) is a keeper. It is held because the rule is labelled HARD, Ch.9 cycle 1 applied the gesture cap at its exact threshold, and the fix is one sentence that also clears #1 and #16. **If the author rules that #11 density applies only from a third instance in chapters under 3k words, the floor is 8.5 today and the chapter passes as it stands, tunic and all.** The band-neutral set would then be finalize work.
 - Casual 8.5 is unchanged and still rests on a reader catching the yawn. A reader who misses it could put Casual at 8.0, which would fail the gate. This cycle's moves (the blind and the packet out of the broom's way) make that less likely, not more.
 - CVI-Launch 9.3 is a one-chapter formula and is not a book forecast.
+
+---
+
+## RE-EVALUATION — polish cycle 2 (confirmation, 2026-10-19)
+**Evaluator:** book-evaluator (independent; did not write or edit this prose). **Text:** `manuscript/chapters/chapter-10.md` after the orchestrator applied cycle-1 PATH items 1–3 verbatim, plus optional F1. I did not touch the manuscript and did not run git. **2,447 prose words** by shape_check, 2,458 by style_check and 2,650 by `wc -w` including the header. ¶N = line number in the current file.
+
+### 1. The PATH lines, on the page
+| Item | On the page | Verdict |
+|---|---|---|
+| PATH 1, ¶44 | "Whatever was in a letter, I thought, a person read it at once, standing at the door it came to, and the pots could wait." | ✓ verbatim. "Letters came in two kinds" now greps 0. |
+| PATH 2, ¶132 | "The chickpeas had gone warm in their basket. A lodger's tunic was drying on the rail above us." | ✓ The clause is cut and nothing fills the slot. "every so often" greps 0. |
+| PATH 2, ¶98 | "The oxen and the man to drive them went by while I was at that desk." | ✓ "still at that desk" greps 0. |
+| PATH 2, ¶6 | "One end of it had stood in wet somewhere…" | ✓ The rest of the sentence is verbatim. |
+| PATH 2, ¶160 | "Nobody else in that court or in that lane could read a word…" | ✓ |
+| PATH 3, ¶46 | "She stood in it beside the lean-to that held the hearth and all the kitchen the house had, and spun." | ✓ The ¶48 blind is byte-identical. "lean-to, where" greps **1**, and that 1 is the preserved blind sentence itself. My cycle-1 grep target of 0 was wrong. The doublet (N2) is gone. |
+| F1, ¶198 | "I read it over again to myself, from the greeting down to the date, and rolled it up." | ✓ (see the trace under point 3) |
+| Signatures | The first sentence and the last paragraph are byte-identical. Shape reads `short-punch` → `quiet`. | ✓ |
+
+### 2. Pattern #11 re-count
+- **1 instance:** ¶68 "I knew it the way I knew the year of the Armada, as a date on a page with a fire in it." This is the keeper.
+- **Density:** 1 / 2.447k = **0.41/1k** (0.41 at style_check's 2,458). That is under the commercial >0.8/1k cap and far under the >6 count. **The hard-check cap on Prose lifts.**
+- **Checked and not counted:**
+  - ¶44's new sentence states Mara's belief in concrete terms. It is not a comparison with an unpacking extension.
+  - ¶88 "so fine it could hardly hold the spindle up" is a result clause.
+  - ¶150 "as if it might say so again" is a bare simile.
+  - ¶76 and ¶136 remain traces, as ruled in cycle 1.
+- **Anti-AI total:** 2/20, both minor: #11 (0.41) −0.125 and #17 −0.125, for **−0.25**.
+  - #1 and #16 cleared with ¶44. The new sentence is a belief the afternoon disproves, tied to "the pots", so it is not a coffee-mug line.
+  - #15 and #18 stay at trace.
+  - This is the CLEAN band. The over-correction flag does not fire.
+
+### 3. Anything new? (echo, tic, spent move)
+- **Mechanical:** the echo scan is 0, command echo is none, voice-wear strict is clean, and the tic gate is clean. Ch.10 has 1 and-chain, 0 credential asides, 0 negation pivots and no gesture class charged.
+- **Hand n-gram check:** I checked every new string against Ch.1–9 and the voice bank. All of these are 0: "Whatever was in", "a person read", "the door it came", "at once, standing", "the pots could", "could wait", "read it over", "that held the", "lean-to that", "the man to drive", "at that desk", "Nobody else in", "One end of it".
+- **In-chapter counts:**
+  - "at once" ×1.
+  - "the pots" ×2, which is designed: ¶44 sets it up and the afternoon disproves it.
+  - "stood/standing" 5/1, unchanged except for the new "standing", which is the only one in its paragraph.
+  - "held" now has four senses spread over 50 lines. No pairing.
+- **¶98 → ¶106 is a gain, not an echo.** The narrator lets "the man to drive them" go by unheard, and eight lines later Kallia picks him up ("The man. Bought?"). The reader sees that she caught what Mara missed. Keep it.
+- **Spent moves:** none. The held-silence-by-indifferent-motion family is now **0 in Ch.10**. The ¶132 time marker is static.
+- **Logic:** the ¶6 "it" resolves to the letter (sentence 2's subject); "One end" of a sickness is not a live reading. ¶160 is fixed.
+- **One trace, from my own optional F1 string (not charged):**
+  - ¶198 "I read it over again to myself" is closer than the old "once more" was to **Ch.9 ¶402 "I read it through again."** That is the same narrator, the same act and a "I read it [particle] again" frame, one chapter back.
+  - It also sits eight lines after ¶190's "Once more she went over them … over the threshold again", so the over/again rhyme with Kallia's re-sweep has moved rather than gone.
+  - Mara re-reading the letter here is the same beat that cycle 0 and cycle 1 passed. Only the wording moved closer, and the echo scan does not register it. **Not charged to the floor.** See the finalize option below.
+- **Book-wide WATCH (not Ch.10):** the bend/stoop gesture class is at 15 uses, **0.28/1k against the 0.3/1k book-wide cap**. Ch.10 has none, but Ch.11 onward has almost no room for it.
+
+### 4. Gate run (from /home/user/Books)
+`bash books/the-hour-of-ash/tools/check_chapter.sh 10` → **all clean**:
+- Style: 2,458w, simile 0.4/1k, adverb 3.7/1k, em-dash 0, foreshadow 0.
+- Grammar 0. Rhythm 0 flagged. Show/tell: no flags (37.6%).
+- Voice-wear strict: clean. Tic gate: clean. Echo 0. Metaphor: fig 0.4/1k, 0% over 40 words.
+- Shape: CLEAN.
+- **Dialogue:** quoted 990 / prose 2,447 = **40.458%**, and shape_check reports **40%**. The meter rounds to 41 at 2,444, so there are **2 words of headroom**.
+
+### Genesis Score — cycle 2 (final)
+| Dimension | Cycle 1 | Cycle 2 | Evidence |
+|---|---|---|---|
+| Originality | 8.5 | **8.5** | Unchanged. All inventions intact. |
+| Theme | 8.5 | **8.5** | Unchanged. ¶44's rule is now plainly a belief the afternoon overturns (Kallia "returned to the pots"). |
+| Characters | 8.5 | **8.5** | Mara's all-or-nothing distortion is kept in the new ¶44. Chaos is 4/4. Cover-the-name PASS. NO-TICS clean. No gesture class charged. |
+| **Prose & Voice** | 7.5 (capped; 8.5 on merit) | **8.5** | The #11 cap lifts at 0.41/1k. The +1.0 is the cap lifting onto the cycle-1 merit score, backed by six cited changes: ¶44 (clears #11, #1 and #16), ¶132, ¶98, ¶6, ¶160 and ¶46. Stopping sentences are intact (¶94 the yawn, ¶186, ¶194). Anti-AI is −0.25. **Not raised past 8.5:** the cycle adds no new close-book sentence. |
+| Pacing | 8.5 | **8.5** | Ledger ✓, dialogue 40%, 0 breaks, median 15. The plain stop is intact and the ¶98 "what oxen?" stumble is gone. |
+| Emotion | 9.0 | **9.0** | The anchor (the broom), the yawn as body rebel and the wrong comfort are intact. With the tunic's motion gone, the silence before "Which is his name?" now belongs to the reader. |
+| Immersion (Dim 7) | 8.5 | **8.5** | Unchanged. |
+| **FLOOR** | 7.5 | **8.5** | |
+| **AVERAGE** | 8.43 | **8.57** (60.0 / 7) | |
+
+**Casual 8.5 (holds).** The oxen fix removes the one stumble the Casual reader had. The cycle-0 reasons for not raising it are unchanged. **CVI-Launch 9.3** (unchanged). **CVI-Legacy 6.6** (provisional, unchanged). There is no divergence alert: 9.3 − 8.5 = 0.8.
+
+### VERDICT — cycle 2
+**PASS.**
+
+| Gate condition | Result |
+|---|---|
+| Genesis Floor ≥ 8.5 | ✓ (8.5) |
+| Casual ≥ 8.5 | ✓ (8.5) |
+| Pacing | ✓ OK |
+| Gates | ✓ all clean, as run here |
+
+Foreshadowing is 0, NO-TICS is clean, and AI patterns are at 2/20.
+
+### For finalize (none of these affects the gate)
+- **Optional F1′ (¶198):** this clears the Ch.9 ¶402 "I read it through again" frame and the over/again rhyme with ¶190. Both options were tested on a scratch copy and pass every gate, echo 0, shape CLEAN.
+  - (a) `I read it to myself, from the greeting down to the date, and rolled it up.` This is the cleaner sentence, at 2,445 words and 40.49%. It leaves **0 words of headroom**: any later narration cut tips the meter to 41.
+  - (b) `I read it all to myself, from the greeting down to the date, and rolled it up.` This gives 2,446 words, 40.47% and 1 word of headroom.
+  - "to myself" and "read it all" grep 0 in Ch.1–9.
+  - If neither is taken, the current line stands. It is a trace.
+- **Chapter header (line 4):** update it to "2,447 after polish cycle 2 (style_check 2,458; wc -w 2,650) | raw dialogue 40.46%". It is stale bookkeeping, not prose.
+- **character-bible.md:** it still quotes the retired strings: line 164 "Letters came in two kinds" and line 2187, the old ¶160 "There was not a soul … could have told the". Sync the Ch.10 blocks to the final page: the ¶44 belief, "Kallia corrected none of it.", "it was any name in Phocis", "made the roof into so much talk about rain", "Nobody else", the oxen and the man, "rolled it up" and "from along the lane". This closes cycle-0 Revision #16.
+- **At-risk list for Ch.11 on (carried, plus one):**
+  - The held silence measured by an indifferent motion is SPENT, with 0 left anywhere.
+  - The speech ledger is SPENT.
+  - Object weight or size at a close is SPENT.
+  - "X corrected none of it" has been used once.
+  - Kallia's farewell must not use stopped work or wool.
+  - **New:** bend/stoop is at 0.28/1k book-wide against a 0.3 cap.
+  - **New:** the narrator re-reading a document to herself now appears in two consecutive chapters (Ch.9 ¶402, mid-scene; Ch.10 ¶198, in the closing run). Give it no third.
+- **Pipeline note (cycle 1 (a), still open):** the #11 density cap needs a word-count guard for short chapters. Until the author rules, it is applied as written.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in every score at or above 8.5, in Emotion 9.0, in Casual 8.5 and in CVI-Launch 9.3 requires external validation from beta readers, editors or comp analysis.
+- The PASS sits exactly on the line for both Floor and Casual.
+- Casual still depends on the reader catching the yawn.
+- Prose 8.5 is the cycle-1 merit judgement with the mechanical cap lifted. It is not a re-scored raise.
