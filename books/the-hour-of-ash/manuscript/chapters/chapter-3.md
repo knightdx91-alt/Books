@@ -56,7 +56,7 @@ My father had brought me sherds. There had been one in his shirt pocket every Se
 
 "I'll skip the sea."
 
-He leaned on his poles. "You are a student? Archaeology? Every second person on this mountain is digging something."
+"You are a student? Archaeology? Every second person on this mountain is digging something."
 
 "I fix pots. In a museum."
 
@@ -88,7 +88,7 @@ I stood on the path with the bag on my shoulder and the dark trees behind me, an
 
 He gave it back strap first, carefully, and went off down the path toward the goats, poles first.
 
-The wind was stronger once I was out of the firs and came in gusts that pushed at the duffel and flattened the grass. The slope opened out again into broken rock and thyme, and the path climbed it in long zigzags. In the lulls a bird I could not name went over and over a phrase of four notes with the last one missing. On the far side of the plateau the high summits showed now over the nearer ridges. Every gully on them was streaked with old snow. I stopped twice more. The second stop I sat on the duffel and drank half my water and ate a granola bar, and the wind snatched the wrapper from my fingers and carried it twenty feet downhill into a thornbush. I went after it, because I could not leave it there, and tore my sleeve on the thorns getting it back.
+The wind was stronger once I was out of the firs and came in gusts that pushed at the duffel and flattened the grass. The slope opened out again into broken rock and thyme, and the path climbed it in long zigzags. In the lulls a bird I could not name went over and over a phrase of four notes with the last one missing. On the far side of the plateau the high summits showed now over the nearer ridges. Every gully on them was streaked with old snow. I stopped twice more. The second stop I sat on the duffel and drank half my water and ate a granola bar, and the wind snatched the wrapper from my fingers and carried it twenty feet downhill into a thornbush. I went after it, because I could not leave it there, and tore my sleeve on the thorns getting it back, and the knuckles of my right hand with it.
 
 I saw the cave a good while before I reached it. It was a dark arch in a low cliff of gray rock on the hillside above me, wider than it was high, with a scrub oak growing out of a crack over its lip and leaning out over the drop. I knew the shape. On the chart in my father's study, beside the coordinates, Fenn had drawn a doorway in ballpoint smaller than a lentil, two posts and a curved top with its middle filled in black, and I had taken it in March for the way a child draws any cave at all. It was this cave, copied too exactly for a guess, from a photograph in some library book, I supposed; it had the same lean to the left-hand post where the rock had broken away, and the same flattening along the top. I climbed until I had the arch at the angle of the drawing and photographed it from there, with the oak and the lean and the dark inside.
 
