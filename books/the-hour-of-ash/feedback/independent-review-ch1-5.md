@@ -90,7 +90,27 @@ That is Outlander scale by design. On this evidence the book will be long becaus
 not because it has more story. The recommendation is to keep the total but tighten the solitary
 stretches, so the length goes to Greece and Pompeii, where the romance lives.
 
-## Suggested actions (author's call; nothing has been changed)
+## The Saeren check: props doing the acting (author's follow-up, 2026-10-19)
+
+Asked specifically whether the Hazel Academy habit (characters setting things down and picking them
+up between lines) happens here. Every object-handling beat in Ch.1–5 was read in context.
+
+- **One real instance, now fixed.** Ch.1, Doug Fessler and his single stick of celery: he turned it in
+  his fingers, put it in his mouth, took it out again and frowned at it, three beats in about 100 words
+  while he talked. That is the spectacles scene in miniature. The first beat ("He turned the celery in
+  his fingers.") is cut; the mouth-and-frown joke stays. Gates re-run clean.
+- **Everything else is action, not fidgeting.** Packing the chart, the boy's food bag, Mara fighting
+  for her duffel on the temple steps, the press woman skimming oil while she talks (her work goes on
+  and she stops once, when Mara's Greek comes out wrong; borderline but kept). Several regex hits were
+  not gestures at all: "picked up the whole village" is Fenn describing Kastri being moved.
+- **By the numbers:** the narrow handling class runs 0.22 per 1,000 words here against 0.53 in Hazel
+  Academy; "a long moment" runs 0.07 against 0.70.
+- **The gate now catches it.** A PROP FIDGET layer in `tic_report.py --gate` follows one prop
+  (including "it"/"them" back to the prop named last) and fails a scene where it is handled 3+ times
+  within 400 words. It fires on Hazel Academy Ch.4 and on the original celery beat, and is silent on
+  the current Hour of Ash. Shipped to every book.
+
+## Suggested actions (author's call; nothing else has been changed)
 
 - Trim Ch.3 by 1,200–1,500 words and Ch.5's monument roll-call by about 400.
 - Add two counts to the per-chapter gates: and-chain sentences (at most 8 per chapter, plus one

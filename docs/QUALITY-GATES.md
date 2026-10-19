@@ -195,6 +195,12 @@ actions and idioms ("put money on it", unpacking a bag) do not fire it; the eval
 judges the business the regex cannot classify. Extend `GESTURE_CLASSES` in the book's
 copy when a new piece of business starts to recur.
 
+A second layer, **PROP FIDGET**, follows a single object through a scene — including "it" and "them"
+back to the prop named last — and fails when it is fidgeted with (turned, set down, picked up, taken
+off, put back, held in the fingers or the mouth) 3+ times within 400 words. That is the exact shape of
+the Hazel Academy spectacles scene, where the prop does the acting between lines of dialogue. Real
+action (fighting for a bag, packing a parcel) uses other verbs and does not fire.
+
 ### `shape_check.py` — the predictability audit (shared, book-agnostic)
 
 ```bash

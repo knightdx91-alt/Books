@@ -140,6 +140,64 @@ GESTURE_MIN_WORDS = 20000    # the density rule needs a sample; a two-chapter bo
 GESTURE_WINDOW = 500         # words; a SCENE cluster — 3+ of one class inside this window is the reader-visible tic
 GESTURE_WINDOW_MAX = 3
 
+# ---- PROP FIDGET layer: the same object handled again and again inside one scene ------------------
+# The Saeren lesson: a headmistress sets down her paper, takes off her spectacles, picks them up,
+# turns them over, puts them back on — all between lines of one conversation. The prop does the
+# acting. This finds any noun that is FIDGETED with (turned, twisted, set/put down, picked up, taken
+# off/out, put back/on, folded, tapped…) 3+ times within PROP_WINDOW words. Real action (fighting for
+# a bag, packing a parcel) uses other verbs and does not fire.
+PROP_WINDOW = 400
+_FV = (r"(?:turn(?:ed|s|ing)?|twist(?:ed|s|ing)?|roll(?:ed|s|ing)?|fold(?:ed|s|ing)?|unfold(?:ed|s|ing)?|"
+       r"tap(?:ped|s|ping)?|fiddl(?:ed|es|ing)|smooth(?:ed|s|ing)?|straighten(?:ed|s|ing)?|adjust(?:ed|s|ing)?|"
+       r"set(?:s|ting)?|put(?:s|ting)?|pick(?:ed|s|ing)?|took|tak(?:es|ing)|laid|slid|weigh(?:ed|s|ing)?|"
+       r"tilt(?:ed|s|ing)?|rub(?:bed|s|bing)?|spun|spin(?:s|ning)?)")
+_PART = r"(?:back\s+)?(?:down|up|over|off|out|on|aside|away|round|around|back)"
+_PLACE = r"(?:in|into|between|through)\s+(?:his|her|my|their)\s+(?:fingers|hands?|mouth|lap|teeth)"
+_DET = r"(?:the|his|her|my|their|its|a|an)"
+# A: verb + det + [adj] + NOUN + (particle | in his fingers/mouth)   e.g. "turned the celery in his fingers"
+# B: verb + particle + det + [adj] + NOUN                             e.g. "set down the paper"
+# C: verb + it/them + (particle | place)                              e.g. "turned them over" -> last named prop
+_PA = re.compile(rf"\b{_FV}\s+{_DET}\s+(?:\w+\s+)?([a-z]+)\s+(?:{_PART}|{_PLACE})\b", re.I)
+_PB = re.compile(rf"\b{_FV}\s+{_PART}\s+{_DET}\s+(?:\w+\s+)?([a-z]+)\b", re.I)
+_PC = re.compile(rf"\b{_FV}\s+(it|them)\s+(?:\w+\s+)?(?:{_PART}|{_PLACE})\b", re.I)
+PROP_STOP = set("hand hands head face eyes eye arm arms shoulder shoulders foot feet leg legs back way time "
+                "breath voice look mind word words light lights air door doors heart chin lips mouth fingers "
+                "finger knee knees neck hair attention money".split())
+
+def prop_scan(files):
+    """Any one PROP fidgeted with 3+ times inside PROP_WINDOW words (pronouns follow the last named prop)."""
+    flags = []
+    for f in files:
+        ch = Path(f).stem.split("-")[-1]
+        t = strip_comments(Path(f).read_text())
+        def wpos(i): return len(re.findall(r"[A-Za-z'\u2019\-]+", t[:i]))
+        events = []
+        for rx in (_PA, _PB):
+            for m in rx.finditer(t):
+                noun = m.group(1).lower()
+                if noun in PROP_STOP or len(noun) < 3: continue
+                events.append((m.start(), noun))
+        for m in _PC.finditer(t):
+            events.append((m.start(), None))
+        events.sort()
+        hits, last, last_pos = {}, None, -10**9
+        for start, noun in events:
+            p = wpos(start)
+            if noun is None:
+                if last is None or p - last_pos > 150: continue
+                noun = last
+            last, last_pos = noun, p
+            hits.setdefault(noun, []).append(p)
+        for noun, pos in hits.items():
+            for i in range(len(pos)):
+                j = i
+                while j + 1 < len(pos) and pos[j + 1] - pos[i] <= PROP_WINDOW: j += 1
+                if j - i + 1 >= 3:
+                    flags.append(f"prop fidget: '{noun}' handled {j - i + 1}x within {PROP_WINDOW} words in chapter {ch} "
+                                 f"(around word {pos[i]}) — the prop is doing the acting")
+                    break
+    return flags
+
 def gesture_scan(files):
     """Return (rows, flags). rows: (class, total, per1k, worst_chapter, worst_count)."""
     texts = [(Path(f).stem.split("-")[-1], strip_comments(Path(f).read_text())) for f in files]
@@ -272,6 +330,7 @@ def main():
         print("  none — clean.")
     # ---- GESTURE / ACTION-BEAT recurrence (stage business repeated with varied wording) -------------
     grows, gflags = gesture_scan(allfiles)
+    gflags += prop_scan(allfiles)
     print("\nGESTURE BEATS — stage business by class (book-wide; a repeated gesture is a tic):")
     for name, total, per1k, wch, worst in grows[:16]:
         mark = "  <-- FLAG" if any(f.startswith(name + ":") for f in gflags) else ""

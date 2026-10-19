@@ -34,7 +34,7 @@ I got as far as the chafing dishes.
 
 "You didn't go on."
 
-"I cut a whole page. There was a story about Paphos, eighty-four, I had a sherd I couldn't place, some ugly piece of local ware, and he sat up with me in the dig house until two in the morning going through the type series. He had a flight at seven." He turned the celery in his fingers. "I cut it because I'd have cried. I'm in a borrowed tie. Did you notice? It's my brother-in-law's. He sells insurance in it. Royal Jordanian lost my duffel at Kennedy, every context sheet from the season, and they keep telling me it's in Amman." He put the celery in his mouth and spoke around it. "It isn't in Amman. It's in a cage in Queens, I'd put money on it."
+"I cut a whole page. There was a story about Paphos, eighty-four, I had a sherd I couldn't place, some ugly piece of local ware, and he sat up with me in the dig house until two in the morning going through the type series. He had a flight at seven." "I cut it because I'd have cried. I'm in a borrowed tie. Did you notice? It's my brother-in-law's. He sells insurance in it. Royal Jordanian lost my duffel at Kennedy, every context sheet from the season, and they keep telling me it's in Amman." He put the celery in his mouth and spoke around it. "It isn't in Amman. It's in a cage in Queens, I'd put money on it."
 
 "I'm sorry about your sheets."
 
