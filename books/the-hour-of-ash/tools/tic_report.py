@@ -173,12 +173,62 @@ def gesture_scan(files):
     rows.sort(key=lambda r: -r[2])
     return rows, flags
 
+def echo_scan(files, n_target, allow):
+    """Phrases in chapter n_target that already occur in an earlier chapter (2nd use)."""
+    def grams(text):
+        toks=[w.lower() for w in re.findall(r"[A-Za-z'\u2019\-]+", text)]
+        out={}
+        for n in range(3,7):
+            for i in range(len(toks)-n+1):
+                g=tuple(toks[i:i+n])
+                if not content_rich(g): continue
+                # a 3-gram must be DISTINCTIVE to count as an echo: at least one word of 6+ letters
+                # ("full of grit" yes; "after a while" no). 4+-grams count as they are.
+                if n==3 and not any(len(w)>=6 for w in g): continue
+                out.setdefault(g,0); out[g]+=1
+        return out
+    earlier={}
+    target=None
+    for f in files:
+        ch=int(re.search(r"(\d+)",Path(f).name).group(1))
+        g=grams(strip_comments(Path(f).read_text()))
+        if ch==n_target: target=g
+        elif ch<n_target:
+            for k in g: earlier.setdefault(k,set()).add(ch)
+    if target is None: return []
+    hits=[]
+    for g in target:
+        if g in earlier:
+            j=" ".join(g)
+            if any(a in j or j in a for a in allow): continue
+            hits.append((len(g), j, sorted(earlier[g])))
+    hits.sort(key=lambda x:(-x[0], x[1]))
+    kept=[]
+    for L,j,chs in hits:
+        if any(j in k[1] for k in kept): continue
+        kept.append((L,j,chs))
+    return kept
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--file")
+    ap.add_argument("--echoes", type=int, metavar="N",
+                    help="ECHO scan: list every content-rich 3-6-word phrase in chapter N that already occurs in ANY "
+                         "earlier chapter (a second use, before the 3+ gate fires). Run it on a fresh draft and vary each hit.")
     ap.add_argument("--gate", action="store_true",
                     help="exit 1 if any non-allowlisted phrase recurs 3+ times book-wide, or a gesture beat clusters (tic budget = 0)")
     a = ap.parse_args()
+    if a.echoes:
+        allfiles = sorted(glob.glob("manuscript/chapters/chapter-*.md"),
+                          key=lambda p: int(re.search(r"(\d+)", Path(p).name).group(1)))
+        allow = [re.sub(r"\\b|\(\?:|[()\\|?]", "", m).strip() for m in MOTIFS] + [w.lower() for w in WORLD_TERMS]
+        hits = echo_scan(allfiles, a.echoes, allow)
+        print(f"ECHO SCAN — chapter {a.echoes}: phrases already used in an earlier chapter (2nd use; vary them now)")
+        if not hits: print("  none — no cross-chapter echoes.")
+        for L,j,chs in hits[:60]:
+            print(f"  \"{j}\"  (earlier in ch {','.join(map(str,chs))})")
+        print(f"RESULT: {len(hits)} echo(es)")
+        sys.exit(0)
     files = [a.file] if a.file else sorted(
         glob.glob("manuscript/chapters/chapter-*.md"),
         key=lambda p: int(re.search(r"(\d+)", Path(p).name).group(1)))

@@ -243,6 +243,9 @@ entry:
   pausing "for a long moment". Use a beat ONCE and then find a different thing for the body to do —
   or no beat at all (a line can stand without a gesture). Never more than 3 of one gesture class in a
   chapter; across chapters, rotate.
+- **Run the ECHO SCAN on your draft before you finish:** `python3 tools/tic_report.py --echoes N` from the
+  book folder lists every phrase in your chapter that an earlier chapter already used. A second use is
+  where a tic starts; vary every hit that is not an allowlisted motif.
 - **The gates will catch it anyway:** `voice_wear_check.py` fails on a phrase repeated across chapters,
   `tic_report.py --gate` on any phrase recurring 3+ times book-wide AND on any gesture class that
   clusters (4+ in a chapter, or > 0.3 per 1,000 words book-wide) — so write it clean the first time.

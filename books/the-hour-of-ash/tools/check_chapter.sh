@@ -27,6 +27,7 @@ line "4. SHOW/TELL (too-descriptive) — chapter row + any book-wide heavies for
 python3 tools/show_tell_check.py 2>&1 | grep -E "chapter *wds|chapter-${N}\.md"
 line "5. VOICE-WEAR (strict: self-repetition BLOCKS — tic budget 0)"; python3 tools/voice_wear_check.py 2>&1 | grep -iE "\[.*\].*ch |RETIRED|RESULT"
 line "5a. TIC GATE (any non-allowlisted phrase 3+ times book-wide = defect)"; python3 tools/tic_report.py --gate 2>&1 | sed -n "/AUTO-RECURRENCE/,\$p"
+line "5c. ECHO SCAN (2nd uses of an earlier chapter's phrase — vary them before the evaluator sees them)"; python3 tools/tic_report.py --echoes "$N" 2>&1 | head -40
 line "5b. METAPHOR/SENTENCE-SHAPE (register: figurative load + long-sentence %)"
 python3 tools/metaphor_check.py 2>&1 | grep -E "wds|^ *${N} " | head -2
 python3 tools/metaphor_check.py "$N" >/dev/null 2>&1 || echo "   ^ over a figurative ceiling (FIG>4.0/1k or LONG>18% of sentences) — split/trim"

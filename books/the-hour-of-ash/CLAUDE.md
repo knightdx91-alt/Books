@@ -41,7 +41,8 @@ for N in 1..total_planned:
   D.7 shape audit       → EVERY chapter: python3 tools/shape_check.py books/the-hour-of-ash
                            (from the repo root); a flag on the new chapter = fix its opening /
                            closing signature now, not later
-  E  mechanical gates   → bash tools/check_chapter.sh N  — ALL clean (style incl. foreshadow 0,
+  E  mechanical gates   → bash tools/check_chapter.sh N  — ALL clean (incl. 5c ECHO SCAN: every
+                           2nd use of an earlier chapter's phrase is varied before the evaluator runs) (style incl. foreshadow 0,
                            grammar, rhythm, show/tell, voice-wear [book-wide], metaphor). Fix via
                            book-editor.
   F  book-evaluator     → evaluations/chapter-N-eval.md (Genesis 7 dims, 20-pattern scan,
