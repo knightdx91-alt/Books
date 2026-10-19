@@ -551,7 +551,8 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   back, "Who would I send in?", and no chore follows: "She walked on, and the wind took her flame flat and let it go
   again." To Mara's question about the god in the basket: "He rides down on her head in the morning, and they put him
   back in his house till the next time." **In the pen she crouches, never sits** ("Kallia crouched beside me with her shoes
-  off"; "She stayed crouched and let it go by her like weather"), her rags turned to the fire "like flatbreads on a
+  off": her ONE posture beat in the chapter since the 2026-10-19 kneel/crouch trim; later she simply "let it go by her
+  like weather"), her rags turned to the fire "like flatbreads on a
   griddle"; says nothing through the farce, then fishes a sandal out of the fire with a burning fennel stalk, flicks it
   clear and feeds the stalk to the fire ("And who's going down that stair barefoot in the morning? Who's to carry her?");
   backs Mara ("Give it her, and hush," … "She'll do it if you hush."); "Kallia was no help" over the missing husband (she
@@ -1176,7 +1177,7 @@ below is on the page, checked by script.)*
   it much." She works her knees in behind Mara's; "Soon she went heavy against my back, and she was asleep." Mara's whole
   answer: "It is very cold." If she is ever named, promote to a full card.
 - **The old woman with the winnowing basket** (the *liknon*): "a broad shallow scoop of woven reed with a cloth tied over
-  it", carried on her head up the cliff "without putting a hand to it"; kneels and lodges it on Philista's rock; unties
+  it", carried on her head up the cliff "without putting a hand to it"; lodges it on Philista's rock; unties
   the cloth (a round loaf, a wrinkled apple, a twist of raw wool, a sprig of ivy); "She lifted it in both hands." / "He's
   heavy this year." The toss is "the winnowing toss, a lift and a jerk to let the wind take the chaff" (cycle 1 cut the
   summer-threshing gloss Mara could not have seen). No other line.
@@ -1847,7 +1848,7 @@ line each, so that walk-ons don't all sound like Mara.
     laughing."); the other three were cut. Let the line carry its own referent.
   - **Also flagged by the Ch.6 chain:** "took in my [X]" SPENT; watching someone "decide" SPENT; the crack rendered
     as "rock / air / cold" SPENT (Ch.3, Ch.6); "You've got Latin" 2 in Valens's mouth, SPENT; "crouched in the
-    mouth" 1; "[It/That] was English, and…" and "in (n)either language" SPENT; "talked/said to his/her back" SPENT
+    mouth" 0 (cut in the 2026-10-19 kneel/crouch trim; Valens keeps one crouch, at the hooves on the ice); "[It/That] was English, and…" and "in (n)either language" SPENT; "talked/said to his/her back" SPENT
     in every wording; plate and glaze comparisons SPENT (Ch.2, Ch.6), and sugar comparisons rest (Ch.5, Ch.6); "the
     widow" for Kallia is now at 6 in Ch.6 (Valens 4, Mara's Greek 2). Mara knows the name, so she avoids the epithet
     and Valens does not lean on it; sample-line content on the page: 0 (the freezer-door keys were removed);
@@ -2695,3 +2696,10 @@ finalizing the chapter. Never add a tic to fix it.
   silence measured by something moving SPENT; the speech ledger and the object-weight close SPENT; one comparison vehicle per book;
   gait/footwear exits; one displaced-labor act per blow; Kallia's work-suspended tell kept out of Ch.16; "living", "cup" and the yawn
   closed; sample-09's frame; walk-on relays; the repair-grep rule. Tic-bearer roster still NONE.
+- 2026-10-19 (author ruling CP2-3, kneel / crouch / squat trim): the class is LIMITED like every gesture
+  (author: "Nothing repetitive that makes it seem like AI"). Ch.1-10 cut from 24 beats to 12 (0.22/1k), max 2 per
+  chapter; log in evaluations/revision-kneel-crouch-2026-10-19.md. Cards synced: Kallia keeps ONE pen crouch
+  ("Kallia crouched beside me with her shoes off"); the old woman with the liknon no longer kneels at the rock;
+  Valens keeps one crouch (the hooves on the ice, Ch.6), and his "crouched in the mouth" is gone. Going forward: at
+  most 2 such beats in any chapter, no posture named while a character only talks or watches, and no renamed
+  posture ("on her heels", "dropped to one knee", "got down") to dodge the count. Tic-bearer roster still NONE.

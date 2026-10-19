@@ -463,7 +463,7 @@ He tied the mules in the lee of the rock, broke a corner off a crust from his ba
 
 "That is not an answer."
 
-"It's what I do." He was already crouched in the mouth with his back to the wind. "How long will you be in there?"
+"It's what I do." He was already in the mouth with his back to the wind. "How long will you be in there?"
 
 "Until it opens."
 
@@ -635,7 +635,7 @@ They burned my fingers, and I ate them anyway. He talked fast, in the mountain G
 
 "So you ate what we ate. Smoke." He peered up at me in the glow. "That's her. The nymph. My cousin's boy saw her step out of Pan's cave at the olive beating."
 
-"She's the widow Kallia's," Valens said. He had crouched at the other mule's forefeet to strip off the wet sacking and bind on fresh. "Down by the spring."
+"She's the widow Kallia's," Valens said. He had gone to the other mule's forefeet to strip off the wet sacking and bind on fresh. "Down by the spring."
 
 "Since when has Kallia got anybody?"
 

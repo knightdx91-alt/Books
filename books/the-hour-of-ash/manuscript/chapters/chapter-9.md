@@ -59,7 +59,7 @@ The bay tree stood in its pot, and a slave on a stool beside it, shelling beans 
 
 "Everybody has a question." He tipped the beans off his lap into the bowl and went in. He left the door open. I came after him as far as the threshold and stood on it.
 
-The court was paved, with a colonnade down two sides and a well-head in the middle under a wooden lid, and it smelled of charcoal. A boy knelt by a pot of coals working a goatskin bellows with both knees. The smith was short and wore a leather apron, and his eyebrows had long since gone into somebody's fire. He was down on the paving beside a sack, and on the sack lay a bronze stand of the kind that held a dish of coals for the incense: three lion's feet joined at the heels, a shaft fluted like a column, and at its top a shallow bowl under a pierced lid on a chain. Standing, it would have come to my hip; it lay on its side. The shaft had snapped across just above the feet, and the smith was pressing wet clay round the stump in a fat collar.
+The court was paved, with a colonnade down two sides and a well-head in the middle under a wooden lid, and it smelled of charcoal. A boy by a pot of coals worked a goatskin bellows with both knees. The smith was short and wore a leather apron, and his eyebrows had long since gone into somebody's fire. He was down on the paving beside a sack, and on the sack lay a bronze stand of the kind that held a dish of coals for the incense: three lion's feet joined at the heels, a shaft fluted like a column, and at its top a shallow bowl under a pierced lid on a chain. Standing, it would have come to my hip; it lay on its side. The shaft had snapped across just above the feet, and the smith was pressing wet clay round the stump in a fat collar.
 
 On the step of the colonnade stood the priest, in a white himation, with his hands up its sleeves. His beard was long and gray, combed out and cut square at its end, so neat that it looked put on over his own. He was telling the smith that his grandfather had given that stand to the god.
 
@@ -311,7 +311,7 @@ I put my fingertip on the line at the back, where the fill crossed the deepest f
 
 He kept his purse on a cord round his neck, under the white wool. He brought it out and loosened it and took the coins out coin by coin with his red fingers. I held out my hand, and he let them fall into it from a little above, so that his fingers stayed clear of my palm. The last one struck the edge of my hand, went off onto the paving and rolled under the stand.
 
-I knelt for it. It had stopped against a lion's foot, and I hooked it out with a finger. When I stood again the bee-man was holding out a square of linen to his master, and the priest was wiping his fingers on it, each one, the thumb last.
+It had stopped against a lion's foot, and I hooked it out with a finger. When I stood again the bee-man was holding out a square of linen to his master, and the priest was wiping his fingers on it, each one, the thumb last.
 
 Above us the hem was at the balustrade again.
 

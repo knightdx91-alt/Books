@@ -86,7 +86,7 @@ He had stopped walking backward and was pointing at a base, and he went on with 
 
 It was a block of limestone as high as my waist, with an inscription cut deep and filled with red saying that the people of Kroton had set up this man for the god. There was no man on it. Its top had two sockets cut into it in the shapes of two feet planted for a stride. Around the lip of the nearer socket the stone had sheared off in a curved flake, where something had been driven in under the edge and leaned on, and at the bottom lay a crumb of lead, chopped through.
 
-I dropped the bag in the road and knelt.
+I dropped the bag in the road.
 
 The flake had come away clean, its face raw crystal, sparkling, and the rest of the block around it was old weathered limestone, pitted, with a rosette of lichen in one corner as broad as a coin. No dirt had got into the scar, and no lichen. Along the lip of the second socket ran chisel bites, short square cuts where the lead had been hacked out to free the bronze foot, still sharp enough to catch a fingertip. Below where the feet had been, faint green streaks ran down the front of the base, the stain that copper left in stone when rain had run over it for centuries, and the bronze that had fed them was gone. The streaks were the oldest thing on the block; the holes were the newest.
 
@@ -146,7 +146,7 @@ The people who built it had seen it like this and meant it like this, and they h
 
 So I went up to give it its due.
 
-The steps of the temple were a mason's steps and not a person's, each one as high as my knee, and I climbed them with a hand on each, like a child getting onto a bus. Between the columns it was suddenly cool, and the noise of the altar dropped behind me. Under my palm the stucco of the nearest column was fine and hard and very slightly gritty, marble dust in the lime, beautifully laid. Along the foot of the porch wall ran a low molding, painted with a key pattern in red and blue. I crouched to look at it, and the blue was the Egyptian blue again, coarse enough to feel under the ball of my thumb. A flake had lifted from it, and under the flake was another blue, older and paler and laid on finer. The new blue had been slopped over the edge of the old border by a painter in a hurry who had missed a whole hand's breadth behind the column, where he thought no one would crouch. The god's house had been touched up. Badly. I had my thumbnail at the edge of the flake, and I was smiling.
+The steps of the temple were a mason's steps and not a person's, each one as high as my knee, and I climbed them with a hand on each, like a child getting onto a bus. Between the columns it was suddenly cool, and the noise of the altar dropped behind me. Under my palm the stucco of the nearest column was fine and hard and very slightly gritty, marble dust in the lime, beautifully laid. Along the foot of the porch wall ran a low molding, painted with a key pattern in red and blue. The blue was the Egyptian blue again, coarse enough to feel under the ball of my thumb. A flake had lifted from it, and under the flake was another blue, older and paler and laid on finer. The new blue had been slopped over the edge of the old border by a painter in a hurry who had missed a whole hand's breadth behind the column, where he thought no one would crouch. The god's house had been touched up. Badly. I had my thumbnail at the edge of the flake, and I was smiling.
 
 A hand took me by the collar of the fleece and hauled.
 
@@ -284,7 +284,7 @@ She did not see me, but walked the length of the basin to the far end, where the
 
 "Boeotians," she said to the dark.
 
-She kicked off one sandal and put her foot under the overflow and stood on the other leg with her skirt held up. She let the water run over her foot, then changed feet and stood quite still while it ran. Her face in the lamplight was broad and brown and lined across the forehead, a woman of fifty with gray hair dragged back under a dark kerchief, and her eyes were shut. When she opened them she saw me, kneeling on the lip of the god's spring in trousers, with my wet hair in my face.
+She kicked off one sandal and put her foot under the overflow and stood on the other leg with her skirt held up. She let the water run over her foot, then changed feet and stood quite still while it ran. Her face in the lamplight was broad and brown and lined across the forehead, a woman of fifty with gray hair dragged back under a dark kerchief, and her eyes were shut. When she opened them she saw me on the lip of the god's spring in trousers, with my wet hair in my face.
 
 "Out of the basin," she said. "People drink that. Use the trough at the end."
 

@@ -107,7 +107,7 @@ Behind us the woman who had offered to singe my legs at the bath hauled herself 
 
 "He comes to whoever's awake," Sostrata told Timo, a good deal lower.
 
-The plain lay gray under the stars, with the black line of the firs along its far side. The drums set the pace, and the women crossed the snow at something between a march and a run, torches leaning back, breath going up white into the light. Before we arrived I had guessed where we were going. Below the pen at the foot of the firs lay a stretch of level ground, swept bare by the wind and ringed with rocks. Philista went to the largest rock, and the old woman knelt and lodged her basket on top of it.
+The plain lay gray under the stars, with the black line of the firs along its far side. The drums set the pace, and the women crossed the snow at something between a march and a run, torches leaning back, breath going up white into the light. Before we arrived I had guessed where we were going. Below the pen at the foot of the firs lay a stretch of level ground, swept bare by the wind and ringed with rocks. Philista went to the largest rock, and the old woman lodged her basket on top of it.
 
 Everybody who could had carried wood up on her back. I had one of Kallia's bundles, split oak, roped in a sling across my shoulders, and the whole length of the cliff I had wanted to be rid of it. The women piled it in the middle of the ring, with much argument about how it should go. A girl brought the fire up from the pot and blew on it, and the oak caught slowly, and then with a roar.
 
@@ -151,7 +151,7 @@ Every December two brothers from Vermont sold Christmas trees from the corner lo
 
 My feet went with the drum as well as they could, and my arms did whatever they liked. The women circling the fire circled me as they circled each other, and none of them looked to see whether I was doing it right; when the cry went up I cried out with the rest, a word I had met in Euripides and never had cause to say out loud, and my mouth made it Delphian.
 
-When the oak had gone to coals, the women came in little knots to put new pine to them. I lit mine with theirs, took a second off the pile as some of the others did, and headed out between the rocks beyond the ring, where women had been slipping off into the night all evening in pairs to squat in the snow and coming back hitching up their skirts. Nobody watched them go, and no one watched me. Kallia was in the middle of the ring with her back to me and her gray hair swinging, and Nikaso had the skin.
+When the oak had gone to coals, the women came in little knots to put new pine to them. I lit mine with theirs, took a second off the pile as some of the others did, and headed out between the rocks beyond the ring, where women had been slipping off into the night all evening in pairs and coming back hitching up their skirts. Nobody watched them go, and no one watched me. Kallia was in the middle of the ring with her back to me and her gray hair swinging, and Nikaso had the skin.
 
 Beyond the pen the firs began, and the drums went behind me into the trees like a party through the wall of the next apartment. Under the firs the snow was deeper and softer, and there was no wind in it at all. My torch lit the trunks nearest me, red on one side; every other trunk was black. The path the mules had taken lay buried under the snow, and I climbed by the slope of the ground and the dark gap overhead where the trees thinned. The climb went on and on. My breath was loud in my ears and the rags on my boots were heavy with snow, and twice I had to stop and knock it off against a root.
 
@@ -163,7 +163,7 @@ I crossed into the hall at a walk, and beyond the middle of it the floor rose. I
 
 At the bend, low down, there were pale marks on the rock: short raw scratches through the gray, all slanting one way. They were the only new thing in the cave. They were mine; Kallia's little shovel had made them in November, after the last of the earth was out. The rock had been unmarked since it was rock, and in one afternoon I had scored it like the bottom of a saucepan. I laid my thumb in one of the scratches. It was an ordinary feeling, the edge of a scratch in stone.
 
-I knelt at the crack's widest, at the floor, and sent my hand in to the wrist.
+At the crack's widest, at the floor, I sent my hand in to the wrist.
 
 The torch burned. Deep in the hall the drip fell, and fell again. My knuckles were on stone and my palm was in the dark, and the two of them were as cold as each other, which was January cold and no more. I kept my cheek on the slab while pitch from the torch crept down my thumb; I left my hand in there until I had been fair to it.
 
@@ -317,7 +317,7 @@ Timo examined her feet. She had two sandals on that both bent the same way, and 
 
 "Not that one." The big woman spoke without opening her eyes. "Mine are here."
 
-Kallia said nothing through any of it. She stayed crouched and let it go by her like weather, until a sandal landed in the fire, kicked by a heel in the scramble, and lay on the coals with its strap beginning to fry. Then she reached across and fished it out with a burning fennel stalk, flicked it clear, and fed the stalk to the fire.
+Kallia said nothing through any of it. She let it go by her like weather, until a sandal landed in the fire, kicked by a heel in the scramble, and lay on the coals with its strap beginning to fry. Then she reached across and fished it out with a burning fennel stalk, flicked it clear, and fed the stalk to the fire.
 
 "And who's going down that stair barefoot in the morning? Who's to carry her?"
 
