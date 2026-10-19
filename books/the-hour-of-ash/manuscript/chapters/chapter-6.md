@@ -79,7 +79,7 @@ The afternoon before, he had brought a string of mules up Kallia's lane, loaded 
 
 The ground was ice from the gate to the turn, and the ice was mine. Twice a day for most of a month I had carried water up the lane on my hip, because I still could not do it on my head, and every step slopped a little onto the stones; since the nights had turned, the slops had stopped drying and begun to freeze, one coat on another, like the paint on a fire escape.
 
-My plan at the spring had not lasted the first day. I had the hearth cleared and two jars in before light, as I had meant to, and Kallia was waiting for me in the court with the broom. After the court there were the floors; after the floors the pots the Thebans left, and a Theban who wanted his cloak beaten, and then it was dark. On the fourth morning I reached the top of the town with the duffel before it came to me that I had no idea how to get from the town up onto the plain. I'd come into the town by the long road round, and between the plain and Delphi stood only cliff. I went back down and did the floors.
+My plan at the spring had not lasted the first day. I had the hearth cleared and two jars in before light, as I had meant to, and Kallia was waiting for me in the court with the broom. After the court there were the floors; after the floors the pots the Thebans left, and a Theban who wanted his cloak beaten, and then it was dark. On the fourth morning I reached the top of the town with the duffel before it came to me that I had no idea how to get up onto the plain. I'd come down by the long road round, and between the plain and Delphi stood only cliff. I went back down and did the floors.
 
 Since then the snow had come a little lower on Parnassus every night. I watched it at the lions while the second jar filled, first the summits and then the shoulders and then the rim of the cliffs above the sanctuary, white along its edge like a glass dipped in sugar. I had spoken no Greek aloud since the guide on the Sacred Way. Kallia gave me orders my hands could understand without me, and I followed them, and whatever got away from me got away in English, and Kallia worked on through it.
 
@@ -87,11 +87,11 @@ He walked back to his mules. I was in the gateway with the empty jar on my hip.
 
 "Ashes," he said. "For the ice. Before they come up."
 
-A woman in a gateway with a jar was whoever you asked for ashes, so I went and got them. The pail stood by the hearth where I left it every morning, half full, with Kallia's little iron shovel upright in it. He took the pail from me at the gate and went up the lane throwing the ashes in low, flat fans, so that they fell where a hoof would come down and nowhere else. A scar the length of my finger ran over the back of his right hand. Whoever closed it had been in a hurry and set the stitches too far apart, and it had healed in a ladder, every rung raised and white.
+A woman in a gateway with a jar was whoever you asked for ashes, so I went and got them. The pail stood by the hearth where I left it every morning, half full, with Kallia's little iron shovel upright in it. He took the pail from me at the gate and went up the lane throwing the ashes in low, flat fans, so that they fell where a hoof would come down and nowhere else. A scar the length of my finger ran over the back of his right hand. Whoever closed it had been in a hurry and set the stitches too far apart, and it had healed in a ladder, every rung raised and white. It was an older hand than the rest of him.
 
 In the ice storm of January '94 the man in the ground-floor apartment on Larchwood had appeared at six in the morning in his bathrobe and poured a whole bag of cat litter down the front steps. In March he moved out. Nobody in the building ever learned his name.
 
-He brought the mules up singly. They were big, dark, dusty animals with the oak lashed onto wooden packsaddles, and each one stopped at the edge of the ice, put a forefoot on the ashes, and considered. The last was a gray who would not consider anything. He leaned on her shoulder, and she had to brace a foot under his weight; his hands were older than the rest of him. He spoke into her ear, low and level, in Latin. *Ambula, asini filia.* Walk on, daughter of a donkey.
+He brought the mules up singly. They were big, dark, dusty animals with the oak lashed onto wooden packsaddles, and each one stopped at the edge of the ice, put a forefoot on the ashes, and considered. The last was a gray who would not consider anything. He leaned on her shoulder, and she had to brace a foot under his weight. He spoke into her ear, low and level, in Latin. *Ambula, asini filia.* Walk on, daughter of a donkey.
 
 It was the plain truth about her, and I laughed.
 
@@ -287,7 +287,7 @@ He did it himself. Forward, the click was finer and closer together, and the cro
 
 "It stops. You wind it, and it goes again."
 
-He tried to put the band round his own wrist. It would not go halfway. The watch disappeared into the pouch at his belt, and he drew the string.
+He tried to put the band round his own wrist. It would not go halfway. He dropped the watch in the pouch at his belt and drew the string.
 
 "Paid now," he said. "Not up there. Now."
 
