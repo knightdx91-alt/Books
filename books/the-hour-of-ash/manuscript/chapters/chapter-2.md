@@ -46,7 +46,7 @@ The capitals stood upright through April. In May they began to come apart. First
 
 *Slept up there. Didn't help.*
 
-Caves breathed. I had read it somewhere, in a book about limestone: the air inside went in and out with the weather, slow as a sleeper. I turned the page.
+Caves breathed. The air inside went in and out with the weather, slow as a sleeper. I turned the page.
 
 * * *
 
@@ -94,13 +94,13 @@ When the line went I stayed at the sink with the receiver against my ear until t
 
 * * *
 
-The form came through the lab's fax machine on Monday in a long warm curl. I signed it on Wednesday in front of a notary at a check-cashing place on Baltimore Avenue; she stamped it without reading a word and asked if I wanted a lottery ticket while I was there. I faxed it to Naples from the lab that afternoon, a page at a time, the machine pulling each sheet in with a small sound of disapproval.
+The form came through the lab's fax machine on Monday in a long warm curl. I signed it on Wednesday in front of a notary at a check-cashing place on Baltimore Avenue; she stamped it without reading a word and asked if I wanted a lottery ticket while I was there. I faxed it to Naples that afternoon, a page at a time, the machine pulling each sheet in with a small sound of disapproval.
 
-The chart went up on the first Saturday in April. In the lab I had cut it a window mat from four-ply board and hinged it in with tissue and wheat starch paste, and I carried it to the house flat in a portfolio and pinned the mat board, not the chart, to the strip of cork over my father's desk, where his site plans used to hang until their corners curled. The coast of Phocis hung over his blotter, perforated all along its green edge, with Fenn's numbers in blue on the shoulder of Parnassus.
+The chart went up on the first Saturday in April. I had cut it a window mat from four-ply board and hinged it in with tissue and wheat starch paste, and I carried it to the house flat in a portfolio and pinned the mat board, not the chart, to the strip of cork over my father's desk, where his site plans used to hang until their corners curled. The coast of Phocis hung over his blotter, perforated all along its green edge, with Fenn's numbers in blue on the shoulder of Parnassus.
 
 His study was the back bedroom; it was the only room in the house he had ever kept in order. His field notebooks took up the bottom shelf of the bookcase, decades of them in yellow surveyor's covers gone brown at the spine where his thumb had opened them, each with a site and a year on it in his writing. He wrote small and fast, leaning forward, like a man running for a bus. I knelt and ran a finger along the spines from one end of the shelf to the other, each binding ticking under it in turn, and stood up again. I did not take one down. On the Saturdays after that I came to sit in his chair and read Fenn's notebook in the room with the chart, the yellow spines down by my ankles.
 
-The June entries were short, some of them a single line, and the hand had grown so small that I brought the magnifier home from the lab to read them.
+The June entries were short, some of them a single line, and the hand had grown so small that I brought the magnifier home to read them.
 
 *Up again. Nothing. My boots are going at the toes, and the boy's mother has a cousin who'll stitch them, she says, if I quit going up the mountain long enough to take them off.*
 
@@ -134,7 +134,7 @@ Gloria rang my father's house the Saturday after that, because I was always ther
 
 "Leave the key in the flowerpot, then. Not under the mat, everybody looks under the mat." The door behind her settled again. "And call me when you get there. Collect. Ray'll have a fit, let him."
 
-The rest came in whatever order it came. I bought a flashlight because Fenn had wanted a better one. The head of my department signed my leave form against a seed catalogue and wanted to know whether the Greeks grew a decent tomato. Two boxes of granola bars were for the plane and then for the mountain, and within a day of going into the duffel they had begun to shed oats into its seams; a bottle of Advil rattled in the side pocket against the floss. The microcassette had been in my jacket since March; now it rode in a wool sock, rolled tight, in the toe of a hiking boot at the bottom of the bag. The watch needed no packing; I gave its crown its turns each morning at whatever window I was standing near, and by now I knew where the spring would begin to resist.
+The rest came in whatever order it came. I bought a flashlight because Fenn had wanted a better one. The department head signed my leave form against a seed catalogue and wanted to know whether the Greeks grew a decent tomato. Two boxes of granola bars were for the plane and then for the mountain, and within a day of going into the duffel they had begun to shed oats into its seams; a bottle of Advil rattled in the side pocket against the floss. The microcassette had been in my jacket since March; now it rode in a wool sock, rolled tight, in the toe of a hiking boot at the bottom of the bag. The watch needed no packing; I gave its crown its turns each morning at whatever window I was standing near, and by now I knew where the spring would begin to resist.
 
 On the Sunday before the flight I loaded the Pentax on the kitchen table at the house. I pulled the rewind crank up until the back popped open, dropped a new roll of Kodak into its chamber, and drew the tongue of film across to the take-up spool, which needed some coaxing before it caught. When the back was shut I wound on and fired at the kitchen ceiling with the cap still on the lens, twice, until the little window over the lever showed 1. There were thirty-six frames in it, and I had not taken one.
 
