@@ -155,7 +155,7 @@ The boy gaped at me over the bellows. Above us somebody had stepped out onto the
 
 He kept silent while the smith began scraping his clay off the stump. It came away in one piece, with the print of the flutes on its inside.
 
-"Pay the smith for his clay," the priest said to the slave, and then, from the house door, "In Syracuse, what do they do for chilblains?"
+"Pay the smith for his clay," he told the slave, and then, from the house door, "In Syracuse, what do they do for chilblains?"
 
 "Wool on the hands," I said. "With a place for each finger."
 
@@ -195,7 +195,7 @@ On the second try I put in more soot and a pinch of earth from the bay tree's po
 
 "Out it comes," the bee-man said. "He'll not know the difference. He couldn't find his own feet in that beard."
 
-Early in the afternoon a woman descended the gallery stair into the court, and the bee-man woke and was suddenly very busy at his hives. She was much younger than the priest, and she kept her himation up over her head in her own house; under it her hair was crimped in rows as regular as the flutes on the stand. She came and stood over the stand.
+Early in the afternoon a woman descended the gallery stair into the court, and the bee-man woke and was suddenly very busy at his hives. She was much younger than the priest, and she kept her himation up over her head in her own house; under it her hair was crimped in rows as regular as the flutes on the stand. She came and stood over it.
 
 "Does it hold?"
 
@@ -253,7 +253,7 @@ The third fill went in dark and hard and took the soot well, and when I rubbed i
 
 I dug it out a third time, too fast, and the knife skidded off the hard fill and laid my thumb open at the base. I sucked it until it stopped.
 
-"She's cut herself." The bee-man was bent over a hive. "On his bronze. Don't tell him."
+"She's cut herself." The bee-man was smoking a hive. "On his bronze. Don't tell him."
 
 The sun had left the court by the fourth fill. I pressed it in, and before it could harden I pricked the whole face of it with a bundle of bristles from the bee-man's brush, rubbed soot into the pricks with a fingertip and took the rest off with the wool. I had lost it myself. If I sighted along the shaft I thought there was something, and it might have been only the light going.
 
@@ -305,7 +305,7 @@ The finger slid down the flute, past the place, and up again.
 
 "Show me."
 
-I put my fingertip on the line at the back, where the fill crossed the deepest flute. He bent so close to it that his beard brushed the bowl, and looked at my finger and at the bronze around it. His lips were moving. When he straightened at last he gave the lamp back to the bee-man.
+I put my fingertip on the line at the back, where the fill crossed the deepest flute. He put his face so close to it that his beard brushed the bowl, and looked at my finger and at the bronze around it. His lips were moving. When he straightened at last he gave the lamp back to the bee-man.
 
 "The smith's price," he said.
 
@@ -335,7 +335,7 @@ Kallia was in the court at home, scouring the big pot with sand. I opened my han
 
 To that she gave no word at all. She filled the basin at the jar and stood it on the hearthstone beside the coins. A lump of the gray washing clay went down next to it.
 
-I washed. The water in the basin went black, and the black worked into the clay, and the cut in my thumb came open in the water and put a thread of red into the black. I cleaned round it. It went on coloring the basin for a while, a little less each time, and then the water stayed black.
+I washed. The water in the basin went black, and the black worked into the clay, and the cut in my thumb came open in the water and put a thread of red into the black. I cleaned round it. It went on coloring the basin for a while, fainter each time my hands went in, and then the water stayed black.
 
 "He says a stater for the god," I said, with my hands in the water, "and a goat that shakes, and more after that."
 
@@ -353,7 +353,7 @@ When my hands were as clean as they were going to get, I knotted the priest's co
 
 *Runaway from the household of Quintus Arrius Celer at Corinth: a Thracian, answering to the name Lupus, the property of that household. About thirty years old, tall, broad in the shoulder, with a scar on the back of the right hand from a wound badly stitched. He speaks Latin, and Greek like a foreigner. He has been in the arena; whoever takes him should take him with others. To whoever brings him back to the household at Corinth, five hundred drachmas. To whoever shows where he is kept, in a sanctuary or in the house of a man able to answer for him, three hundred. Copied from the notice posted at Corinth in the month Dadaphorios.*
 
-It was painted in red on a board whitened with gypsum, nailed to a pillar of the colonnade in the square, beside the door the herald used. The brush had dragged in the gypsum, and the red had run a little at the foot of every upright.
+It was painted in red on a board whitened with gypsum, pegged to a pillar of the colonnade in the square, beside the door the herald used. The brush had dragged in the gypsum, and the red had run a little at the foot of every upright.
 
 My errand in the square was to price a goat.
 

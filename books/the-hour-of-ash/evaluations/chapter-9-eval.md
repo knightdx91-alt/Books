@@ -308,3 +308,219 @@ Ch.9: 5,840w (target 6,400, −8.75%, inside the 5,800–7,000 range; book 51,84
 This is the book's sharpest social chapter: a woman whose skill is worth exactly a smith's price and not one touch, told through a beard, a lamp in daylight and a wiped thumb, and closed on a man watering his mule in front of the notice that prices him. What holds it is, again, the narrator's own habits, this time in the grammar between the content words.
 
 **BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in every score at or above 8.5, in Immersion 9.0, in Casual 9.0 and in CVI-Launch 9.1 requires external validation (beta readers, editors, comp analysis). Prose is held at 8.0 to the standard that held Ch.1–8 in cycle 0. Note that several items here (the stopword-bounded frames in P7, the pronoun-swapped "stayed where", the scene skeletons in P4 and P8) are a finer grain than any earlier evaluation named, and a reader could fairly call them a stricter bar; they are held because each recurs at or past the book's own tic threshold (3) or reproduces a capped, spent or anchor-reserved move named in the bible. P1 ("in a hurry", six chapters) and P2 (the freeze, five) would hold the floor on their own. Casual 9.0 rests on the wipe and the notice; a romance reader counting the chapters since Valens last spoke at length could put it at 8.5, which still clears the gate. CVI-Launch 9.1 is a one-chapter formula and is not a book forecast.
+
+---
+
+## RE-EVALUATION — polish cycle 1 (2026-10-19)
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Text:** `manuscript/chapters/chapter-9.md` after book-editor cycle 1 (`evaluations/revision-chapter-9-cycle1.md`, 35 entries). The orchestrator then restored one preserved line, "I was looking at him." (¶410). **5,763 prose words** (shape_check), 5,790 by style_check, 5,968 by `wc -w` (incl. header), against the 6,400 target (−10.0%; 37 words under the writer's 5,800 range floor. STATE has no per-chapter floor, so this is not a defect. Do not pad).
+**Read against:** the cycle-0 evaluation above (every P item, Revision row and Strength); the revision log; Ch.1–8 (targeted, for every changed sentence); all 13 voice-bank samples; STATE.yaml NO-TICS law (gesture clause); `tools/tic_report.py` (the gesture classes, the chapter cap, the new paragraph-bounded pronoun layer). Every changed or new sentence (33 of them) was 3/4/5-gram scanned against Ch.1–8, the samples and the rest of Ch.9 with a scratch script, then followed up by hand. Git was not run (per instruction). **¶N = line number in the revised file.** Up to ¶330, lines keep their cycle-0 numbers. The cut of "Who paid?" / "Euthydikos." removes four lines, so from cycle-0 ¶336 on every number shifts by −4 (the basin is now ¶338, the notice ¶354, the board ¶372–¶400, the look ¶410, the punch ¶414).
+**Measured here, not taken from the report:** `bash books/the-hour-of-ash/tools/check_chapter.sh 9` (run from /home/user/Books): **every gate is clean.** Style: simile 1.9/1k, adverb 3.1/1k, em-dash 1 (¶40), **foreshadow 0**. Grammar 0. Rhythm 0 flagged. Show/tell: no flags (dialogue 26.9%). Voice-wear strict: clean. 5a tic gate: clean. Ch.9: and-chains 4 (cap 9; cycle 0 had 3, and the new one is the basin sentence), credential asides 0, negation pivots 0, 'So' openers 0, 'before I decided' 0, no gesture class charged by the gate. **5c echo scan: 0, including the new pronoun-swapped layer. That layer is now paragraph-bounded (`a phrase never spans a paragraph break`), so the restored ¶410 passes, as it should.** Command echo: none. Metaphor: fig 2.8/1k, 11 similes, median 15, 6.6% over 40 words. Shape: CLEAN; Ch.9 is `narrative` → `punch`, 5 breaks, dialogue 28%, median 15. **Hinge family (`HINGE_RX`): 0.** In-chapter verbatim 6-gram: 1 ("the priest said to the slave", ¶78/¶158, pre-existing). ¶414 "He let the gray drink first." is unchanged. ¶6 matches every clause quoted in cycle 0; the byte diff is the editor's (no pre-cycle copy is in the book folder).
+
+### PATH items, verified one by one
+| PATH item | Now | Verdict |
+|---|---|---|
+| 1 Logic: dawn seam (¶268), "No fire" (¶100) | ¶268 "Kallia wanted the jars filled before she lit her fire, and I was at the lions with the first of them; the stand would have to go to the priest as it stood."; ¶100 "No forge," | **CLEARED.** The seam now resolves as a cost (judged below). "A smith's price is for a smith's fire" (¶142) still lands. |
+| 2 P9 scrub → thumb (¶254, ¶342→¶338) | ¶254 "I sucked it until it stopped."; ¶338 "…the cut in my thumb came open in the water and put a thread of red into the black. I cleaned round it. It went on coloring the basin…" | **CLEARED.** Nails, "would not shift" and "kept at them" are 0. The Ch.6 ¶522 held-clear hand is gone. ¶318 is byte-identical, so "black in every crease" occurs once. |
+| 3 P1 "in a hurry" (¶360→¶356) | "The brush had dragged in the gypsum, and the red had run a little at the foot of every upright." | **CLEARED.** "in a hurry" 0. The #11 because-clause is cut with it. |
+| 4 P2 freeze (¶72) | "The slave swung round in the doorway and stared at me…" | **CLEARED.** |
+| 5 P3 gaze "then" (¶110, ¶228) | ¶110 "Up to then Euthydikos had looked at the slave, or at the smith, or at the air a little behind my shoulder, where a husband might have stood. This question he asked of me."; ¶228 "His eyes left me for the court:" | **CLEARED.** By hand, `then[.,:]` in narration is 0 (the four hits are in speech or are temporal "and then"). Judged below. |
+| 6 P4 hearthstone skeleton (¶332–¶334) | Kallia's only question is "Into your hand?" | **CLEARED.** The Ch.7 skeleton is down to the touch question and the body answer, and both are Kallia's own axis. |
+| 7 P5 standing anchor (¶262) | "I set the stand on its three feet on the paving. The bowl sat level, and the lid hung still on its chain." | **CLEARED.** "and it stayed" is 0. Judged below. |
+| 8 P6 inscription words (¶8, ¶278) | ¶8 "The letters had been cut that winter." / "…the round letters in them had filled with green like wells."; ¶278 "…the writing was scratched in capitals beneath the white…" | **CLEARED.** "lichen", "surfaced" and "in the V of" are 0. |
+| 9 P7 joint ruler (¶14, ¶268) | ¶14 "floured all over with stone dust"; ¶268 "lying on his belly with one arm down it" | **CLEARED.** `to the (ankle…shoulder)` 0, `with dust to the` 0, `in to the` 0. |
+| 10 P8 square-chorus marks | ¶384 "For three hundred I'd give up my landlord, and hold the rope."; ¶404 "The men from the board had their backs to him."; ¶412 "past the men still at the eel-seller" | **CLEARED.** "wife's brother" 0; "money-changer" 3 → 1. The landlord line is funnier and darker than the in-law joke. |
+| 11 P10 "the rest" (¶340, ¶370, ¶412) | "and more after that"; "with the money"; "I had his obol in the rag." | **CLEARED.** "The rest is only money." (¶130) is now the only money use. The other five uses are physical (the solder ×2, the wax, the mirror, the water). |
+| 12 P11 + the close (¶362, ¶412) | "'For the god?' he said, with his mouth full."; "I kept my place." | **CLEARED.** `before I had \w+` 0; "stayed where" 0. "I kept my place" also carries the idiom of social rank, unpointed, three paragraphs after the wiped fingers. |
+| 13 second uses (#13, #14, #18) | ¶214, ¶236 "Will it stand?", ¶44, ¶26, ¶198, ¶12, ¶84 "tight and glossy as cherries", ¶54, ¶308, ¶180 "a line a hair wide" | **CLEARED on every string I named.** Valens's "How long…?" is held at 3. "brought [x] down" 3 → 2. "fine as" 2 → 1. **But the two gesture recasts (¶256, ¶308) create N1, below.** |
+| Optional #16 tablet (¶266) | "I give her down to Hermes below and to Earth, and I nail her under the lead." | **CLEARED.** "Holder" / "hold her" 0. Judged below. |
+| Optional #17 (beat half, ¶256) | "The bee-man was bent over a hive." | Ear-to-hive 2 → 1, **but the replacement is N1's second token.** The label ×14 is untouched (WATCH; correctly out of scope). |
+
+**All eleven law items P1–P11 are cleared**, plus both logic items and the optional tablet fix. Every cycle-0 string I quoted as a defect now greps 0.
+
+### The editor's departures from my strings
+| ¶ | My string → editor's | Ruling |
+|---|---|---|
+| ¶268 | "with Kallia's first jar" → "Kallia wanted the jars filled before she lit her fire, and I was at the lions with the first of them" | **ACCEPT; better.** Mine left the cost implied. His states it by a household fact, in Kallia's order of things. +22w of real content. |
+| ¶338 | "the cut at the base of my thumb" → "the cut in my thumb"; "I washed round it" → "I cleaned round it"; + the thinning sentence | **ACCEPT all three.** The first two avoid in-paragraph doubles I created. The thinning sentence is judged below (one optional antecedent fix, F4). |
+| ¶110 | "Up to now" → "Up to then" | **ACCEPT; correct.** Mine was wrong for first-person past. |
+| ¶228 | "His eyes went past me into the court:" → "His eyes left me for the court:" | **ACCEPT; better.** Mine tripped the echo scan. His makes the gaze a departure, which reads as Valens checking who is watching. |
+| ¶14 / ¶270 | knock-on "He scrambled up with…" | **ACCEPT.** The boy is now beside the culvert, not in it, so the continuity fix is right. |
+| ¶404 | "Those men" → "The men from the board" | **ACCEPT.** The antecedent is clear. |
+| ¶12 | "a man called down to me" → "a man called." | **ACCEPT.** The chip and the plank place him above. |
+| ¶54 | "by the door" → "The bay tree stood in its pot, and a slave on a stool beside it, shelling beans into his lap, looked at my feet first…" | **ACCEPT.** The definite article is earned by the cutter's directions (¶48). Both traps he names are real. |
+| ¶410 | "looking" → "watching" (since restored by the orchestrator) | **The restoration is right.** The match it dodged crossed a paragraph break, the gate no longer counts such matches, and the preserved "I was looking at him. I looked at his face." is intact. |
+| ¶256, ¶308 | "had his ear to a hive" → "was bent over a hive"; "brought his face down to it" → "He bent so close to it" | **REJECT both, as N1.** Each fixes the repeat I named by moving into the same neighbouring gesture class. |
+
+### The new material, judged
+**1. The dawn seam (¶268): LANDS. The cost is stated as fact, with no reflection.**
+- Kallia's water comes before Mara's wager, and nobody says so. "Kallia wanted the jars filled before she lit her fire" is household order, and "the stand would have to go to the priest as it stood" is the price of belonging, paid without a word. That is the chapter's theme (whose time is hers?) carried by a jar.
+- **Foreshadowing:** "would have to go" is a present-scene modal at the spring (she knows at dawn the stand goes as it is). It is not the narrator reaching past the scene. It is on voice-dna §0's KEPT list, and the gate counts 0.
+- The Hostile's question ("did she try or not?") is answered.
+- *Trace:* "the stand … as it stood" puts stand/stood side by side. It is idiomatic, and it reads as a dry echo of her own pun at ¶136 ("a stand that stands"). I prescribed "as it stood" myself. Keep.
+
+**2. The thumb in the basin, "a thread of red into the black" (¶338): LANDS. This is the chapter's new body rebel and it is the book's first.**
+- The cut opens by itself in the water, so the body acts without her consent. "Thread" rhymes, unpointed, with the seam that came back "as a thin gold thread" in the sun (¶192): the flaw in the bronze was gold, the flaw in her is red. That is a re-read reward.
+- "I cleaned round it." She keeps her hands clear of her own wound, three paragraphs after the priest kept his fingers clear of her palm. That is the chapter's gesture done to herself, never pointed at. It is the best thing the cycle added.
+- **The thinning sentence reads as body, not as a report beat.** It is a falling cadence that ends on the work's colour winning ("and then the water stayed black"), with no feeling-word anywhere in the paragraph. One looseness: "a little less each time" has no stated *time* (optional F4).
+- "black" ×4 in the paragraph is a deliberate drum, answering ¶318's two. Keep.
+- *Caution, carried:* this is the hands again (Cross-Book #9: hands as the body-rebel channel since Ch.5, thumbs in Ch.6, 8 and 9). It is acceptable here because it pays off a wound already on the page rather than adding one. **Ch.10's body break must use another channel.**
+
+**3. "Up to then Euthydikos had looked at…" / "This question he asked of me." (¶110): LANDS, with a small loss and a gain.**
+- *The gain:* the turn now sits on the next line. The one question he puts to her face is "Where does a woman learn bronze?" Placing it after "This question he asked of me" makes the irony structural: he talks past her about everything except her sex. That beats the inherited gaze-arrival "looked at me then".
+- *The loss:* "his eyes had gone to" became "had looked at", a flatter verb in a chapter with 15 look-words. The husband clause is verbatim and still carries the stopping weight.
+- *WATCH:* the fronted object ("This question he asked of me") is the chapter's second narrated object-fronting after "To that she gave no word at all." (¶336, a preserved strength). Both are about address given or withheld. Two is a pair, not a tic, and there is no book-wide instance. No change, but **no third in the book**.
+
+**4. The standing-stand recast (¶262): RIGHT.**
+- The Ch.8 anchor mechanism ("stood it on its hem … and it stayed") is gone. What is left is two plain sentences of stillness that show the mend working: "The bowl sat level, and the lid hung still on its chain."
+- It is a flatter section button than before, which is correct for a section whose real last beat is the wish before it ("I wanted one more try at dawn…").
+- Trace: an in-chapter 4-gram "the stand on its" (¶228 "on its sack", ¶262 "on its three feet"). It is function words around the object's name. Ignore.
+
+**5. "I nail her under the lead" (¶266): ACCEPT; better than leaving "Holder".**
+- The verb is what the bronze nail on the page does (¶278, "pierced through every layer with a bronze nail"; "I worked the nail out"). It is close to the trade's own Latin, *defigo*, "I fix down". The Devoted reader gets a word made literal by an object.
+- The manumission tie (¶6 "laid hold of" → "Hermes the Holder … I hold her") is broken.
+- *Residue (trace #18):* "nail" now runs into the notice paragraph, "nailed to a pillar of the colonnade" (¶356), so the curse→notice pair shares a verb. It is far weaker than the cut tie, because the board is literal hardware. Optional F3.
+
+### Did the cycle introduce anything?
+- **N1 (BLOCKING under the gesture law): a "bend to the work" cluster, made by two recasts.** The chapter now has **four** characters-bend-to-an-object beats in about 900 words:
+  - ¶248 Valens: "He bent to her withers again."
+  - ¶256 the bee-man: "The bee-man was bent over a hive." (**new**)
+  - ¶296 the priest: "he circled the stand before he bent to it."
+  - ¶308 the priest: "He bent so close to it that his beard brushed the bowl" (**new**). This is 123 words after ¶296, with the same man, the same object, the same verb and the same "to it".
+  - Mara's bow (¶320 "bent my head to him", a preserved strength) is a different gesture, but it makes the verb **3× in 335 words** of the payment scene (¶296, ¶308, ¶320). That is the reader-visible shape the gate's 500-word cluster test exists for.
+  - Cycle 0 had 3 bend beats (¶248, ¶296, ¶320) and "brought [x] down" ×3. The cycle moved one in-chapter repeat into the next class over, twice.
+  - Book-wide, the same beat runs Ch.5 ¶307 ("she bent over them"), Ch.6 ¶42 ("I bent to the shovel again."), Ch.7 ¶196, Ch.8 ¶124. That is about 0.15/1k, under the density cap. The 4 in Ch.9 is what fails.
+  - **Ruling:** STATE's law ("fails at 4+ of one class in a chapter"), the book CLAUDE.md and the evaluator's rule all say 4. Ch.8's re-evaluation counted events against 4. **This is 4 events. Characters is capped at 7.5.**
+  - The gate does not see it, for two reasons. It has no bend class. And its chapter cap is coded as `worst > max(4, round(words/1000))`, which for this 5.8k chapter fires only at 7+, looser than the law it enforces (pipeline, below).
+  - **The fix is two recasts of the cycle's own lines, word-neutral** (PATH below).
+- **Pre-existing near-frame, missed in cycle 0 and not created by this cycle:** ¶248 "He bent to her withers again." against Ch.6 ¶42 "I bent to the shovel again." This is the pronoun-swapped "[S] bent to [the X] again." with the noun changed, so neither echo layer can see it. With N1 fixed it is the chapter's only one. **WATCH: the frame is CLOSED after Ch.9.**
+- **Echo/n-gram scan of every changed sentence against Ch.1–8 and the voice bank:** the hits are generic ("had been cut", "a third time", "with a basket of", "at the foot of") or were in cycle 0 too ("came and stood", "laid my thumb", "and looked at my", "of the colonnade in the"). The 5c gate finds 0, including the pronoun layer.
+- **Tics:** no verbal tic and no refrain. Valens "How long…?" is held at 3. Kallia's "Then" retort is 1. The "And…" rejoinder is still 8 dialogue openers (WATCH, cast-wide, unchanged and not in this cycle's scope). "the bee-man" ×14 (WATCH, unchanged).
+- **No spent move reused:** no stranger-freeze, no gaze "then", no absent-workman verdict, no scrub-past-need, no standing-object close, no "with dust to the", no square-chorus in-law, no "before I had", no "stayed where". The post-humiliation scrub is now SPENT.
+- **Strengths: none damaged.** These are intact:
+  - ¶318 byte-identical.
+  - ¶320's thanks and bow.
+  - The wipe "each one, the thumb last".
+  - The husband clause, verbatim.
+  - "having no beans left to examine".
+  - The cutter's lines.
+  - The hardware store (¶178).
+  - "It was too fat, and I filed it, and it was still too fat."
+  - "Onto it. From above." / "To that she gave no word at all."
+  - "Kallia's sand had gone quiet while I tied it."
+  - The notice.
+  - "the shape of what was in it".
+  - "the shake and not the goat".
+  - "while a slow man might read it once…".
+  - The restored ¶410.
+  - The punch.
+
+### Anti-AI re-scan (5.76k; commercial band)
+| # | Result | Count, density | Note |
+|---|---|---|---|
+| 1 | FOUND minor | 2 (0.35) | ¶252, ¶68 (unchanged) **−0.125** |
+| 3 | FOUND minor | 2 (0.35) | the ¶110 triad survives inside the recast (purposeful); ¶62 the stand's tour **−0.125** |
+| 11 | FOUND minor | 2 (0.35) | ¶192, ¶96 (both keepers); the ¶360 because-clause is cut (cycle 0: 3, moderate) **−0.125** |
+| 12 | **CLEAR** | 0 | the ¶198 "and not over me" tail is cut |
+| 15 | FOUND minor | 1 | the ¶62 tour; "No fire" is fixed **−0.125** |
+| 17 | FOUND minor | — | the rear-gate ping-pong is unchanged; Kallia's catechism is cut to one question **−0.125** |
+| 18 | FOUND minor | — | the Holder tie is cut. Two weaker links remain: "I nail her" (¶266) → "nailed to a pillar" (¶356), and "laid hold of" (¶6) → "hold the rope" (¶384), a joke in a stranger's mouth **−0.125** |
+| 7 | trace | — | ¶350's quiet money button, unchanged |
+| 2, 4, 5, 6, 8, 9, 10, 13, 14, 16, 19, 20 | clear / trace | — | #20: the thinning sentence is a wound's course, not a temperature report |
+
+**6/20 found (cycle 0: 7/20). Total −0.75 (cycle 0: −1.0).** CLEAN band (commercial 0–8). The over-correction flag does not fire. **#11 hard check:** 2 at 0.35/1k, under the cap.
+
+### Genesis Score — cycle 1
+| Dimension | Cycle 0 | Cycle 1 | Evidence | Holds |
+|---|---|---|---|---|
+| Originality | 8.5 | **8.5 (holds)** | All eight writer inventions are intact. One more: the curse made literal by its nail (¶266, ¶278). | The beat's shape is the genre's. Not raised. |
+| Theme | 8.5 | **8.5 (holds)** | Hold (a) is mostly cleared (the Holder tie). Two quiet additions: "I kept my place." (¶412), whose idiom of rank lands three paragraphs after the wiped fingers; and the dawn seam's household order before her wager (¶268). | Two weaker diction links remain (#18 above). The ¶110 husband gloss is kept by design. Not raised. |
+| Characters | 8.5 | **7.5 (CAPPED; 8.5 on merit)** | **On merit it holds 8.5.** Kallia's skeleton is cut, and her single question is hers. Valens's question form is fresh ("Will it stand?"). The bee-man's ear beat is 1. Euthydikos's addresses are sharper (¶110). Cover-the-name PASS. Chaos 4/4, three inhabited (the thumb adds a fifth involuntary beat). | **Gesture law: the bend-to-the-work class is at 4 in the chapter (N1: ¶248, ¶256, ¶296, ¶308), and two of the four are this cycle's recasts.** The drop of 1.0 is cited by four regressions: ¶256, ¶308, the priest's in-scene self-repeat (¶296/¶308) and the verb 3× in 335 words (¶296–¶320). It lifts mechanically on the two PATH recasts below. WATCH, unchanged: the "And…" rejoinder 8, "the bee-man" ×14, Valens through the gray (Cross-Book #5). |
+| **Prose & Voice** | 8.0 | **8.5 (+0.5)** | **All eleven law items P1–P11 are cleared** (table above), far past the three cited changes a +0.5 needs. **Stopping sentences intact:** ¶318 byte-identical; ¶110's husband clause verbatim. **New underlines:** "the cut in my thumb came open in the water and put a thread of red into the black" (¶338); "I cleaned round it." (¶338); "This question he asked of me." (¶110); "For three hundred I'd give up my landlord, and hold the rope." (¶384); "I nail her under the lead." (¶266); "floured all over with stone dust" (¶14); "I kept my place." (¶412). The ugly sentence and level-1 pressure (¶402 on) are intact. Anti-AI −1.0 → −0.75. | 8.5, not higher (+0.5 is the cycle maximum in any case). Residue: traces only (the fronting pair ¶110/¶336, stand/stood ¶198/¶268, nail→nailed, the pre-existing "the priest said to the slave" ×2). N1 is charged to Characters, where the law puts it, not counted twice. |
+| Pacing | 8.5 | **8.5 (holds)** | Hold (a), the dawn seam, is cleared. Ledger ✓ on every field (`narrative` → `punch`, 5 breaks, 28%, median 15). Value shift + → −− intact. | (b) the curse tablet still sits before the payment (an outline beat; no cut). (c) the four time-of-day openers are unchanged. The cleared item was a defect, not a 9.0 lever. Not raised. |
+| Emotion | 8.5 | **9.0 (+0.5)** | Cycle 0 said "9.0 is two edits away: P9 replaced by the cut thumb in the basin, and P5". **Both are done:** (1) the peak's aftermath is in its own body channel (a wound opening by itself, red into the work's black) with zero intensity words; and "I cleaned round it" re-enacts the priest's withheld touch on her own hand. (2) The section close no longer borrows Ch.8's anchor. Anchor, surprise ("Thank you"), body rebel ×2 (¶338, ¶402) and ≥5 techniques are intact. **≥9.0 challenge:** set beside *Outlander*'s Leoch surgery scenes (Claire's skill used and her person distrusted), the sequence of coins from a little above → fingers wiped, thumb last → "Thank you" → "Onto it. From above." → red thread in black water is one an editor would accept, carried by objects and acts alone. | At the 9.0 edge. The body channel is the hands again (Cross-Book #9). Discount note in the BIAS CHECK. |
+| Immersion (Dim 7) | 9.0 | **9.0 (holds)** | Hold (a) is cleared ("No forge"). The curse's verb is now its nail. "floured" and "lying on his belly with one arm down it" are physical. | (b) the stand's three-part tour (¶62) is unchanged. Not raised. |
+| **FLOOR** | 8.0 | **7.5** (Characters, capped) | **8.5 on merit** | |
+| **AVERAGE** | 8.50 | **8.50** (59.5 / 7) | **8.64 on merit** (60.5 / 7) | |
+
+**Dropped:** Characters −1.0, by rule (the gesture cap), with four cited regressions. On merit nothing fell. **Cross-check of neighbors:** Prose and Emotion rose by exactly 0.5 each, with cited changes. Theme, Pacing and Immersion cleared holds without a raise. No dimension rose by more than 0.5. **The floor moved from Prose (cleared) to Characters (a cap the cycle created). The number is lower than cycle 0 and the chapter is better. Both are true.**
+
+### Pacing check (one line for `feedback/progress.md`)
+Ch.9 (cycle 1): 5,763w (target 6,400, −10.0%; 37w under the writer's range floor; no per-chapter floor in STATE; book 51,770 vs 55,000 cumulative, −5.9%, ≈245.0k projected against Σ 260.3k: on the 245k line, do not pad) · dialogue 28% (25–35 ✓) · 5 breaks ✓ · gear mid, median 15 ✓ · collage of stones and errands, no adjacent collage ✓ · the dawn seam resolves as a cost ✓ · documents brisk / mending slow / sighting sudden ✓ · value shift + → −− ✓ · `narrative` / `punch` ✓ · hinge 0 ✓. **Verdict: OK.**
+
+### Readers (deltas only)
+- **Devourer:** no change in speed. The dawn now reads as a choice made for her, with no dropped thread. The landlord joke gets a laugh. Would not stop.
+- **Critic:** every cycle-0 disappointment is gone. Would underline the red thread, "I cleaned round it", "This question he asked of me", "hold the rope", "I kept my place". **New snag:** "Didn't the priest just bend to it? And Valens, and the bee-man… everyone in this chapter bends." (N1). Minor: "the priest said to the slave" twice; "stood over the stand".
+- **Hostile:** the dawn seam, the fire, the thumb and the boy's position all hold. Still open (pre-existing, for Ch.10–11): a scarred Thracian at the board in daylight, unconnected by five men. Verdict: "Logic holds."
+- **Casual (9.0, holds):** the cycle took out things they never noticed and gave them one they will. The thumb bleeding into the black basin after "Thank you" lands as a feeling they cannot name. The frictions are unchanged: an opening legal document, the long fill ladder, the curse tablet. **Not raised:** the romance thread is unchanged (a look and a mule). **Would buy.**
+- **Devoted:** will add *defigo* and the nail, and the gold thread / red thread pair.
+
+### CVI
+**CVI-Launch:** Commercial Pacing 8.5 × .2 (the two named deductions, the fill ladder and the tablet, remain) + Tomorrow 6 anchors (the red thread added) → 10 × .2 + Casual 9.0 × .2 + Shareability 8.0 × .2 (unchanged; "give up my landlord, and hold the rope" joins the quote pool without moving MAX) + Concept 10 × .1 + Human Closeness 5 × .1 = 8.6, **+0.5 strong anchor = 9.1** (unchanged). **CVI-Legacy:** 8.5 × .30 + 8.5 × .25 + 2 × .20 + 7 × .15 + 5 × .10 = **6.6** (provisional, unchanged). Divergence: none by rule (9.1 − 7.5 = 1.6; on merit 0.6).
+
+### Cross-reader matrix (cycle 1)
+| Issue | Dev | Crit | Host | Cas | Devo | Severity |
+|---|---|---|---|---|---|---|
+| N1 bend-to-the-work ×4 (¶248, ¶256, ¶296, ¶308); "bent" 3× in 335 words | | ✓ | | | ✓ | **BLOCKING by the gesture law** (PATH, two recasts) |
+| "[S] bent to [the X] again" (¶248 vs Ch.6 ¶42) | | ✓ | | | | WATCH, CLOSED after Ch.9 (pre-existing) |
+| "the priest said to the slave" ¶78/¶158 | | ✓ | | | | INVESTIGATE (F1, optional) |
+| stand/stood ¶198 | | ✓ | | | | INVESTIGATE (F2, optional) |
+| "I nail her" → "nailed to a pillar" | | | | | ✓ | trace (F3, optional) |
+| "each time" with no antecedent (¶338) | | ✓ | | | | trace (F4, optional) |
+| Fronted-object pair ¶110/¶336 | | ✓ | | | | WATCH (no third in the book) |
+| Valens only through the gray, fourth chapter | ✓ | | | ✓ | | carried → the Ch.11 brief (Cross-Book #5, unchanged) |
+
+### VERDICT — cycle 1
+**POLISH.** Genesis Floor **7.5** (Characters, capped by the gesture law; **8.5 on merit**) | Average **8.50** (**8.64 on merit**) | Casual **9.0** | CVI-Launch **9.1** | CVI-Legacy 6.6 (provisional) | pacing **OK** | mechanical suite all clean (echo scan 0 incl. the pronoun layer; hinge 0; shape CLEAN) | foreshadowing **0** | **all eleven narrator-law items P1–P11 cleared**; Prose 8.5 and Emotion 9.0 earned | AI patterns 6/20 (clean) | the dawn seam, the red thread, the ¶110 recast, the standing-stand recast and "I nail her" are all judged keepers. **Gate: Floor ≥ 8.5 ✗ (7.5) AND Casual ≥ 8.5 ✓ AND pacing OK ✓ AND gates clean ✓ (mechanical).** One defect holds the gate. The gates cannot see it, and the cycle made it.
+
+## PATH TO 8.5 (cycle 2; two edits, word-neutral)
+**Characters 7.5 (capped) → 8.5 requires the bend-to-the-work class at ≤3 in the chapter, and nothing else.** Recast the cycle's own two lines. Leave ¶248 and ¶296, which were in cycle 0, and ¶320's bow, a preserved strength and a bow, not a bend to work.
+1. **¶256:** `"She's cut herself." The bee-man was bent over a hive. "On his bronze. Don't tell him."` → `"She's cut herself." The bee-man was smoking a hive. "On his bronze. Don't tell him."` (word-neutral). Ancient keepers smoked a hive to take the comb, so this is work, not a gesture class, and it adds a period fact. Pre-checked: "smoking a hive" and "was smoking" are 0 in Ch.1–9 and the samples; `smok` is 0 in Ch.9. **Do not use:**
+   - "at his hives" (¶198)
+   - "had a hive open" (it echoes ¶254 "laid my thumb open" two lines up)
+   - "told the hives" (the telling-the-bees beat, ¶174)
+   - anything with "ear" (the cut beat)
+   - "leaned" or "stooped" (the same class)
+2. **¶308:** `He bent so close to it that his beard brushed the bowl, and looked at my finger…` → `He put his face so close to it that his beard brushed the bowl, and looked at my finger…` (+2w). Pre-checked: "put his face" and "his face so close" are 0 in Ch.1–9 and the samples. It does not match the gate's object-handling regex (which needs down/aside/back). **Do not use:** "brought his face down" (cycle-0 N-09), "leaned", "stooped", "bent".
+3. Re-run `bash books/the-hour-of-ash/tools/check_chapter.sh 9` and `python3 tools/shape_check.py books/the-hour-of-ash`. Confirm by grep that `\bbent\b` in Ch.9 = 3 (¶176 the adjective, ¶248, ¶296) plus ¶320's bow, which makes 4 tokens and **2 bend-to-the-work beats**. ¶6 and ¶414 must stay byte-identical.
+
+**With 1–2 applied and nothing else changed, I expect Characters 8.5, Floor 8.5, Average 8.64, Casual 9.0 held → PASS.** The cycle-2 re-evaluation needs only to confirm the two lines, the gate run and the bend count. Everything else was verified above. Do not touch any of the strengths listed under "Did the cycle introduce anything?".
+
+**Optional finalize fixes (not required for the gate; word-neutral or near; re-run the gates afterwards):**
+- **F1 ¶158, the in-chapter 6-gram "the priest said to the slave" (¶78/¶158):** `"Pay the smith for his clay," the priest said to the slave, and then…` → `"Pay the smith for his clay," he told the slave, and then…` (−1w). Pre-checked: "he told the slave" and "told the slave" are 0 in Ch.1–9 and the samples. "He" is unambiguous after ¶156 ("He kept silent while the smith…"). Keep ¶78, the device's first statement.
+- **F2 ¶198:** "She came and stood over the stand." → "She came and stood over it." (−1w; stand/stood; the antecedent is "the flutes on the stand" in the sentence before; "stood over it" is 0).
+- **F3 ¶356 (trace #18):** "nailed to a pillar of the colonnade" → "pegged to a pillar of the colonnade" ("pegged" 0). This breaks the new curse→notice verb link. Low priority.
+- **F4 ¶338:** "a little less each time" → "fainter each time my hands went in" (+3w; gives "each time" its occasion; "fainter" and "my hands went in" are 0).
+- **No change** to the fronted-object pair (¶110, ¶336). Both are good. Never a third.
+
+**Bookkeeping (orchestrator):**
+- The editor's #19 sync list stands, plus these final-page quotes:
+  - Valens "Will it stand?"
+  - Kallia's single question "Into your hand?"
+  - "hold the rope"
+  - "Hermes below … nail her under the lead"
+  - ¶110's recast
+  - the basin
+  - (after the PATH) "smoking a hive"
+- **New at-risk entries:**
+  - The bend-to-the-work beat (Ch.5–9): cap 2 per chapter.
+  - "[S] bent to [the X] again": CLOSED (Ch.6, Ch.9).
+  - Post-humiliation hand-scrub: SPENT (Ch.5).
+  - A wound reopening in wash water: SPENT (Ch.9).
+  - Hands as the body-rebel channel: Ch.10 must use another (carried).
+  - Narrated object-fronting ("This question he asked of me", "To that she gave no word at all"): no third in the book.
+  - The held moment measured by passing traffic: SPENT (Ch.9, as ruled).
+  - Gold seam / red thread: told once.
+
+**Pipeline (UPDATE RULE, root, including `books/_template/tools/tic_report.py`):**
+- (a) **The gesture layer's chapter cap does not match the law it enforces.** STATE, the book CLAUDE.md and the evaluator all say "fails at 4+ of one class in a chapter". The code flags only `worst > max(GESTURE_CHAPTER_MAX, round(words/1000))`, which means 7+ in a 6k chapter and 9+ in Ch.5's 7.8k. Either the law gains the length scaling in writing, or the code returns to `>= 4`. The two must agree.
+- (b) Add a **"bend / stoop / lean to the work"** class: `\b(?:bent|bend(?:s|ing)?|stoop\w*|lean(?:ed|s|ing)?)\s+(?:so\s+close\s+)?(?:to|over|down)\b`. It would have caught N1. It does not match "bent my head" (a bow) or "a bent nail".
+- (c) **The pronoun-layer fix works:** the paragraph-bounded scan passes ¶410 and still catches the Ch.5 "stayed where" class.
+- (d) **Editor checklist rule:** a recast of a gesture is grepped for the *class* across the chapter (the verbs of the same stage business), not only for the phrase it replaces. Here two fixes each moved a repeat one class over ("brought down" → "bent"; ear-to-hive → "bent over a hive").
+
+**Cross-book note (Ch.1–9):** this is the fourth cycle running in which the editor caught my own prescriptions tripping the gates and varied every one correctly; three of his departures (¶268, ¶228, ¶110) are better than my strings. The residue again sits below the gates. This time it is not a phrase but a gesture class, made by fixes, in two lines that were not on my list. Cycle 0 named "brought [x] down" ×3 as a gesture verb at three. The class rule must travel with every gesture recast, not just the phrase rule.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in every score at or above 8.5, in Emotion 9.0, Immersion 9.0, Casual 9.0 and CVI-Launch 9.1 requires external validation from beta readers, editors or comp analysis.
+- **The 7.5 is a rule-bound cap, not a judgement that the cast got worse.** On merit the cast holds 8.5. A reader could fairly call four bends in 900 words ordinary blocking. It is held because the author's gesture law sets the line at 4, the count is 4, two of the four were made this cycle, and two are one man's in one scene. If the author rules that working postures are not "stage business", the floor is 8.5 and the chapter passes as it stands.
+- Emotion 9.0 was forecast in cycle 0 ("two edits away"), and the forecast could have anchored this score. It rests on two cited changes and one unforecast gain ("I cleaned round it"). Discount it to 8.5 if an external reader finds the hands a channel worn smooth: it is the fourth chapter (Ch.5, 6, 8, 9) in which the body speaks through them.
+- Casual 9.0 rests on the wipe and the notice. A romance reader counting the chapters since Valens last spoke at length could put it at 8.5, which still clears the gate.
+- CVI-Launch 9.1 is a one-chapter formula and is not a book forecast.
