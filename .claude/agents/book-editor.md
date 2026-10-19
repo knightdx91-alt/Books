@@ -134,6 +134,10 @@ Your revisions must not INTRODUCE AI patterns. This is the #1 risk of LLM editin
 - Check for rule of three
 - Check for excessive em dashes
 - Ensure emotions are shown, not described
+- **A recast must not move a repeat sideways.** When you replace a gesture, a phrase or a narrator move,
+  count its whole CLASS across the chapter afterwards, not just the line you touched. Swapping one
+  "looked at" for "bent over" can push the bending class to its cap (Hour of Ash Ch.9 lost a cycle to
+  exactly this). Run `tic_report.py --gate` and `--echoes N` after every pass, your own included.
 
 ### 7. Style-Bearing Elements — Burden of Proof
 Before deleting or converting any passage, name what it IS doing. The following carry voice even when they resist efficiency — do NOT silently convert to standard prose:

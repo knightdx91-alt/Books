@@ -142,6 +142,9 @@ GESTURE_CHAPTER_MAX = 4      # per-chapter cap = max(this, chapter words / 1000)
 GESTURE_MIN_WORDS = 20000    # the density rule needs a sample; a two-chapter book is judged per chapter only
 GESTURE_WINDOW = 500         # words; a SCENE cluster — 3+ of one class inside this window is the reader-visible tic
 GESTURE_WINDOW_MAX = 3
+# Bending to the work (added after Hour of Ash ch.9: a cast that bends over every task is a gesture tic too).
+GESTURE_CLASSES["bend / stoop over"] = (r"\b(?:bent|bending|bends|bend|stooped|stooping|stoops|stoop|leaned|leaning)\s+"
+                                        r"(?:over|down|to|forward|close|low|closer|in)\b")
 
 # ---- PROP FIDGET layer: the same object handled again and again inside one scene ------------------
 # The Saeren lesson: a headmistress sets down her paper, takes off her spectacles, picks them up,
@@ -291,7 +294,7 @@ def gesture_scan(files):
         if per1k > GESTURE_BOOK_MAX and total_words >= GESTURE_MIN_WORDS:
             flags.append(f"{name}: {total}x book-wide = {per1k:.2f}/1k (> {GESTURE_BOOK_MAX})")
         cap = max(GESTURE_CHAPTER_MAX, round(chap_words.get(worst_ch, 0) / 1000))
-        if worst > cap:
+        if worst >= cap:   # reaching the cap fails (the law: 4+ of one class, or one per 1,000 words)
             flags.append(f"{name}: {worst}x in chapter {worst_ch} (cap {cap} for a {chap_words.get(worst_ch, 0):,}-word chapter)")
         # scene-window cluster: positions (in words) of each hit; 3+ inside GESTURE_WINDOW words
         for ch, t in texts:

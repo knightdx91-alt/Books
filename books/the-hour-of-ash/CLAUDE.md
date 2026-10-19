@@ -107,7 +107,8 @@ manuscript, a session MUST:
   is removed before finalize; the allowlist stays ≤5 entries, each capped at 3 uses. **Gestures
   count too** (author, 2026-10-18): stage business repeated with varied wording (picking things up
   and setting them down, nodding, swallowing, "a long moment"…) is a tic; the gate's gesture layer
-  fails 4+ of one class in a chapter or > 0.3/1k book-wide.
+  fails a class that reaches its chapter cap (4, or one per 1,000 words in a long chapter), 3+ of a
+  class inside 500 words, or > 0.3/1k book-wide.
 - **From the author's independent read of Ch.1–5 (2026-10-19):** narration and-chains ≤ max(9, words/900)
   per chapter (one designed held sentence allowed); Mara's credential asides (lab / seminar / grammars /
   graduate school) ≤4 per chapter; no prop handled 3+ times in 400 words; and **keep Ch.6–8 moving** —

@@ -182,11 +182,11 @@ that keeps picking things up and setting them down, nodding, swallowing, looking
 pausing "for a long moment" is repeating stage business with the wording varied. The
 script counts gesture *classes* by meaning (object handling, nods, shrugs, sighs,
 swallows, breath beats, jaws, looking/turning away, "a long moment", hair, grips, eyes,
-lips, head shakes) book-wide and per chapter, and fails three shapes of cluster: **a scene
+lips, head shakes, bending over the work) book-wide and per chapter, and fails three shapes of cluster: **a scene
 running on one gesture** (3+ of a class within 500 words — the reader-visible tic: a
 headmistress who sets down the paper, takes off her spectacles, picks them up, turns them
 over, puts them back on, all between lines of one conversation); a chapter over its cap
-(4, or one per 1,000 words for a long chapter); and, once the manuscript has 20,000 words,
+(4, or one per 1,000 words for a long chapter; reaching the cap fails); and, once the manuscript has 20,000 words,
 more than 0.3 per 1,000 words across the book. Measured on an earlier finished book it
 found "a long moment" 65 times and object handling 49 times with eight scene clusters —
 the exact reflex a reader had noticed. The handling class is deliberately narrow
