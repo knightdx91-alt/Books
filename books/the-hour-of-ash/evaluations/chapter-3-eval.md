@@ -418,3 +418,209 @@ The lichen then tells her *years*, not hours. No cue is month-specific, so "Octo
 **Trajectory:** Floor 8.0 → 8.5, exactly as the cycle-0 PATH predicted, by removing the recurrences and nothing else. No dimension dropped. Emotion has a credible but unclaimed case for 9.0. The chapter is finalizable. R1–R6 are optional.
 
 **BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in every score at or above 8.5, in Immersion 9.0, and in CVI-Launch 8.7 requires external validation from beta readers, editors or comp analysis. The +0.5 on Prose is the per-cycle maximum and rests on five cited removals plus two cited new stopping sentences. Emotion was deliberately held at 8.5 despite two cleared holds, for this reason.
+
+---
+
+## RE-EVALUATION — author trim (2026-10-19)
+**Evaluator:** book-evaluator (independent; did not write this prose) | **Text:** `manuscript/chapters/chapter-3.md` after the author-requested trim: **5,598 words** (`wc -w`), 0 breaks, dialogue 6.1%, 1 em-dash, 19 semicolons (3.4/1k).
+**Read against:** the cycle-1 PASS above, `feedback/independent-review-ch1-5.md` (problems 1–3), `evaluations/revision-chapter-3-author-fixes.md`, a sentence-level diff against the committed cycle-1 text (`git show HEAD:…/chapter-3.md`, 6,834w), chapters 2 and 4, STATE guardrails, outline Ch.3 and its ledger row, voice-dna §1 and §3 (Mara ↔ Fenn matrix), and ENTITY_STATE `knowledge_absent_ch3`.
+**Measured here, not taken from the revision note:** `bash tools/check_chapter.sh 3`: **all gates clean.**
+- Style: simile 1.8/1k, em-dash 1, foreshadow 0.
+- Grammar 0. Rhythm 0. Show/tell: no flags.
+- Voice-wear (strict): clean.
+- 5a tic gate: clean, including the gesture layer and the prop-fidget layer.
+- **And-chains 6 (cap 9), credential asides 4 (cap 4, at the cap).**
+- Echo scan: 20 second uses, none a third.
+- Metaphor: fig 2.7/1k, **median 17** (high gear; bottom of the 17–20 band).
+- Shape audit: clean.
+- **Byte checks:** the 79-word opener and the 151-word held sentence (¶147) are identical to cycle 1, and so is "I stepped out into October."
+
+**Where the beats now fall (word position, cycle 1 → now):**
+| Beat | Cycle 1 | Now |
+|---|---|---|
+| Goatherd | 1,275 | 947 |
+| German | 1,698 | 1,369 |
+| Arch sighted | 2,982 | 2,421 |
+| "I went in" | 3,569 | 2,922 |
+| Knucklebone | 4,346 | **3,334** |
+| The wait | 5,136 | 4,071 |
+| The cold | 5,740 | 4,505 |
+| Exit | 6,539 | 5,303 |
+
+The plateau survey (¶11–17) is **549w (was 773)**. The German runs **904w (was 1,117)**. The wait runs **434w**. Sentences: median 17; 27% at ≤8 words; 10% at ≥40 words.
+
+### HEADLINE
+**CVI-Launch:** **8.9** (was 8.7) | **CVI-Legacy:** 6.4 (provisional; was 6.5) | **Genesis Floor:** **8.5** | **Genesis Average:** **8.57** | **Casual:** **9.0** (was 8.5)
+**Gate (Floor ≥ 8.5 AND Casual ≥ 8.5 AND pacing OK AND gates clean): MET → PASS.**
+The trim cost the chapter **nothing it needed**. Every beat the brief names survives, byte-identical or with one-word changes. The chapter now reaches its anchor about 1,000 words sooner, and the held crossing sentence is the only runaway chain left in the chapter, so it stands out. **Three small casualties** are worth a 40-word restoration, none of them blocking:
+1. **The ski lifts.** Ch.4's "the ridge above them had only sky on it" is now a payoff with nothing set up for it.
+2. **The vast first chamber.** The outline's non-negotiable beat 2 has lost its roof.
+3. **How Fenn drew the cave.** The explanation for the exact drawing is gone.
+
+### Did the trim cost anything the chapter needed? Checklist, verified against the diff
+| Element | Status |
+|---|---|
+| The knucklebone (¶111–113) | **Intact**, byte-identical: the drip basin, "with a small suck", tea-brown through, the ground flats, "the polish fingers left on a thing". |
+| The procedure and the pocketing (¶115–119) | **Intact.** The only change is "Every Monday ~~in the lab~~ I unpacked", which is still clear because the page is "taped above the lab sink" two sentences earlier. "**I pocketed it.**" stands alone. ¶119's chain is split into "…the daylight lay white across the slope. There was only the arch and the oak and a piece of sky." That reads better: guilt looks out at an empty doorway. |
+| The wait in the dark (¶127–135) | **Intact, now at its minimum length.** 434w carries 12:20 → 1:40. These all remain: the hand that can't be found, the drips, the bells "when the wind brought them, and then did not", the oats down her front, the Advil chattering, the dead lume, "still only rock", the cellar and the Krimpet, the optative, the unwritten postcard, and Fenn's barometric denial. The duration is now carried by the cellar memory and the iterative "Every so often I lit the flashlight… and slid my hand into the crack". It works, but **do not cut any further here.** |
+| The cold (¶139–141) | **Intact.** The only change is one chain split at "slow. It went in through the skin…", which sharpens it. "The beam of the flashlight shook on the rock." still ends the paragraph. |
+| The crossing sentence (¶147) | **Byte-identical**, 151w, 17 "and"s, simile-free and aside-free. |
+| The blush surprise (¶149–151) | **Intact**, and it lands harder. The cut of "I sat in his place with… a stolen bone in my pocket… the bigger fool" removes the last guilt reprise before the crossing, so the blush reads even more cleanly as walking into the wrong room rather than guilt continued. That was the cycle-0 Emotion hold (a). |
+| The four autumn signs (¶165) | **Byte-identical**: the paper-bag brown "I put down to the light", the gullies bare of snow, the thyme in brown husks, the chill and the woodsmoke. |
+| "I stepped out into October." | **Byte-identical.** |
+
+### Did pace improve for the Casual reader and the Devourer? **Yes, materially.**
+- **The Casual reader's ten pages** now hold the taxi laugh, the goatherd and the Thucydides line, the bedspring, the German *entire* (windowsill, Snowdon, fish-glue cups, "Like the cheese", "this was evidence", "So loud! It is like a gun."), the sherds box, **and the arch sighted**. In cycle 1 the same ten pages stopped in the middle of a camera tutorial.
+- **The Devourer's skim zones** were the plateau survey, the camera lesson, the graffiti catalogue and the French plates. The survey is down 29%, and the other three are gone. The run from "I went in" to the bone is now about 410w (was about 780).
+- **The structure is unchanged:** the approach is still **52%** of the chapter, because the cuts came out of the climb and the cave in proportion. This is still a solitary chapter at 6% dialogue. It is a shorter and denser version of the same shape, not a different shape.
+
+### Is the rhythm varied rather than chained? **Yes. This is the trim's largest craft gain.**
+- **And-chains are down from 21 to 6.** Five of the six do work:
+  - the opener (a sensory spiral);
+  - the taxi ("whole arm… bag… last of all at me");
+  - the second stop and the wrapper;
+  - the procedure, where the "and you… and you…" list *is* the bureaucracy;
+  - the 1989 bedroom.
+  The sixth is the held sentence.
+- **The splits were made at full stops, not commas:** "The air up here was thin and clean and smelled of resin and hot stone. I was hauling it in through my mouth." / "The floor sloped down from the lip, loose and stony. The light came with me a little way, white and flat, and stopped." The second split *improves* the line the exit calls back to ("At noon the light had come in white and flat and stopped").
+- **Voice gain, not only pace.** voice-dna §3 assigns "runaway 'and…and' chains when excited" to **Fenn** and "semicolon spirals in narration" to **Mara**. At 21 chains, Mara's narration had been drifting into Fenn's syntax marker before Fenn ever speaks in the book. At 6, the pair's differentiation is restored, and the one 17-"and" sentence now reads as a breath held at the threshold, not as house style.
+- **Side effects:**
+  - Semicolons rose to 3.4/1k because the splits were made with full stops while the semicolons stayed (target ~3; watch).
+  - A few split pairs now open alike: "He was perhaps sixty-five… He stopped above me…" and "They were black and brown… They wore bells…". This is acceptable plainness, not a pattern.
+
+### Re-scored dimensions
+| Dimension | Cycle 1 | Now | Evidence (cited) and reasons it does not move |
+|---|---|---|---|
+| Originality | 8.5 | **8.5** | The beat subversion is untouched: "I had the word *sorry* in my mouth behind the flashlight." / "I backed out." / "It was the wrong color." / "There was no red on it." The inventions survive: the sherds box (¶51), "The walls went by unread." (¶157), "The watch said ten to two." (¶163) and the optative (¶131). Lost texture: the upside-down soot name, and the fire ring with a church-candle stub, which mirrored Ch.4's sooted clay lamp on the ledge. Neither was carrying the dimension. Same execution-level ceiling. |
+| Theme | 8.5 | **8.5** | "You are carrying your whole house." / "However long it takes." (¶37–43); "the only honest picture of a season" (¶13); the procedure broken in three words. **The mild underlining flagged in cycle 0 and cycle 1 ("which of the three of us was the bigger fool") is gone**, a small gain. Texture is still ample and meaningless: the bedspring, the aglet, Hanson, the black bag "filling and emptying", the wrapper, the Krimpet, "all plastic and confidence". It does not rise, because the gain is one subtraction. |
+| Characters | 8.5 | **8.5** | Chaos is still 4/4: the aglet (¶19); "I was going in properly or I was going home." (¶143); the blush; "I backed out." The German keeps his life: "she keeps them on the windowsill in her kitchen in Ulm", "My wife is in Arachova with her knee", "he did not smile, because this was evidence". **Small losses:** the camera lesson ("This?" / "That's the lever. The other one.") was Mara's competence beat *and* the chapter's best cross-talk. Its cut tilts the vulnerability ratio further toward vulnerability, which is fine for Ch.1–3, but the German's "Be down before." imperative and "revised his opinion of the duffel" went with it. "The old man on the stone left off with the nanny to greet him" was the only moment the walk-ons existed apart from Mara, and it is gone too. **Still held by:** "Ach so" (R4, not done), the systemic one-comic-preoccupation walk-on, and the half-mediated distortion. Cover-the-name: PASS (German: "For me, forty minutes. For you, with the house, one hour."; Mara: "I fix pots. In a museum."). |
+| **Prose & Voice** | 8.5 | **8.5** | **Gains:** and-chains 21 → 6 with the Mara/Fenn syntax line restored; credential asides 8 → 4; the held sentence is now singular. **Every stopping sentence survives:** "he did not smile, because this was evidence" / "I pocketed it." / "I heard again only because they were going, and then they were gone." / "The walls went by unread." / "The beam of the flashlight shook on the rock." / "there was gray rock all the way up the gullies where the snow had lain that morning". The ugly sentences survive: "My shoulder hurt and I moved the bag to the other shoulder and then that one hurt." / "I got the flashlight out of my mouth and wiped my mouth on my sleeve." / "I ate the bar in the dark and the oats went down my front". **Why not 9.0:** the cycle-1 holds all stand, unchanged in kind. The four ladder openers (¶29/31/91/121) remain. The four explanatory tails (¶107, ¶113 ×2, ¶167) remain. "a little" ×8 is now *denser* (1.4/1k), and "and then" ×11 is unchanged. The gain is subtractive, and it cannot rise above the cycle-1 holds it did not touch. |
+| Pacing | 8.5 | **8.5** | **Improved inside the band, not out of it.** The anchor arrives 1,012w sooner. The hall lecture is gone, and with it the "tour-guide catalogue" and "facts she merely knows" anti-patterns of voice-dna §1. The wait is tight. **It does not rise** for three reasons: (a) the approach is still 52% (2,922/5,595), so the architecture is the same; (b) dialogue is 6.1%, still at the band floor; (c) **a new coherence casualty.** Cutting the ski lifts from ¶11 orphans Ch.4 ¶135's "the ridge above them had only sky on it", and ENTITY_STATE `knowledge_absent_ch3` still names "the ski lifts". **Ledger:** single-scene ✓, 0 breaks ✓, `long-spiral` 79w ✓, `punch` 5w ✓, dialogue 6.1% (5–15 ✓), gear high (median 17 ✓). Length is 5,598 against the ledger's 6,800, which is the **author's choice**. The ledger row should be updated to match, so that no downstream length tracker reads it as a shortfall. |
+| Emotion | 8.5 | **8.5** | The anchor, the procedure, "It was cold from the dirt and then it was not.", the cellar Krimpet, the blush and the four signs are all intact. The surprise is cleaner (see the checklist). The body rebel (heat) and the leak (the shake) are intact. **The case for 9.0 strengthens slightly**, but the anchor and techniques are unchanged and the gain is subtractive again, so it is **held under intrasystem bias**, as in cycle 1. Lost: the beaded scratch across her knuckles (a minor body cost). |
+| Immersion (Dim 7) | 9.0 | **9.0 (held; now at its floor)** | **What went:** Livadi, the meltwater sheets, the bell in its iron frame, the ski lifts and the white van, the E4 signpost (now only in the German's mouth, ¶55), the silver-gray bark, the needle floor, the fire ring, the roof "in folds and draperies of stone", the stalactites, the soot names, E. WILKINS, and the French plates (clay women, a bronze cicada, "trays of dried beans"). That is a real withdrawal of about 15 materials. **What holds it at 9.0:** the cuts were mostly what voice-dna §1 bans ("tour-guide catalogues of a place", "a period detail Mara neither uses nor suffers"), and the cycle-0 #15 brochure sentence ("Stalactites hung from it in bunches") went with them. What remains is friction, not survey: the tin roofs "rusted orange at the seams", the drips of paint "dried in little beads", the fluted karst, the fir cones "like unlit candles", the bedspring hinge, ΝΥΜΦ / ΠΑΝ with the lens cap for scale, the hand-polished boss, the 1952 cut through a French lieutenant, "more than twenty thousand knucklebones", the goat's print in the spoil, the forensic knucklebone, the flowstone "with a skin of water over it", and the exit sequence entire. All four built-in wrong impressions survive (the unnamed bird, "a red speck I took for the German's windbreaker", the "paper-bag brown that I put down to the light", "a drop of water"). The 1998 kit is still used, not lectured. **The one real immersion cost:** the hall is now *asserted* rather than *rendered*. "Fenn had called it a barn. He had undersold it." is followed by one sentence of length and one of floor, with no height at all, and the outline's non-negotiable beat 2 says "the **vast** first chamber". Restoring one clause fixes it (Rec. 2). Any further cut to place material would take this dimension to 8.5. |
+| **FLOOR** | 8.5 | **8.5** | Six dimensions tie at 8.5. |
+| **AVERAGE** | 8.57 | **8.57** | (8.5×6 + 9.0) / 7 = 60.0 / 7 |
+
+### CVI-Launch (re-scored)
+| Input | Cycle 1 | Now | Evidence |
+|---|---|---|---|
+| Commercial Pacing | 7.5 | **8.0** | The anchor comes 1,000w sooner; the camera lesson, the graffiti catalogue and the French report are gone; the survey is down 29%. Not higher: the chapter is still a 5,600-word solitary climb at 6% dialogue. |
+| Tomorrow Test | 4 → 10 | **4 → 10** | All four anchors survive: "I pocketed it." and the bone warming; the German's evidence photograph and "It is like a gun"; the blush and *sorry*; the bare boulder and "October". |
+| Casual Reader | 8.5 | **9.0** | +0.5 (the maximum), on three cited changes: first human contact at 947w (was 1,275); the German's punchlines with no tutorial between them; the theft about 400w after "I went in" (was about 780). The cycle-1 reason for withholding 9.0 ("the first third asks for patience with scenery") is now mostly answered. |
+| Shareability (quote / plot / emotional) | 3/4/3 → 7.5 | **3/4/3 → 7.5** | Unchanged: the Thucydides/stamp line, the blush, the looter's speech then the theft. |
+| Concept Pitch | yes → 10 | **yes → 10** | |
+| Human Closeness | partial → 5 | **partial → 5** | Slightly thinner (the camera lesson and the walk-ons greeting each other are gone), but still partial. |
+| **CVI-Launch** | 8.2 + 0.5 = **8.7** | **8.4 + 0.5 = 8.9** | Strong commercial tier. |
+
+**CVI-Legacy (provisional):** Originality 8.5×.30 + Theme 8.5×.25 + Cultural Vocabulary 2×.20 + Re-readability **5.5**×.15 + Identity 5×.10 = **6.4**. Re-readability drops from 6 because two re-read rhymes were cut: the 1998 ski lifts → Ch.4's empty ridge, and the church-candle stub in the fire ring → Ch.4's clay lamp on the ledge. Restoring the lifts (Rec. 1) returns it to 6.5.
+
+### Anti-AI scan (re-run at 5.60k words; commercial band)
+| # | Result | Note |
+|---|---|---|
+| 9 | Smooth transitions: FOUND, **moderate** (−0.25) | 4 instances, now 0.71/1k: "A little higher there was…" (¶29) / "Above the pen…" (¶31) / "Above the firs…" (¶91) / "Past the slumped stone…" (¶121). |
+| 11 | Explanatory extension: FOUND, moderate (−0.25) | 4 instances, 0.71/1k, under the commercial cap (>6 or >0.8): "which was why it had been a die before there were dice" (¶113); "the polish fingers left on a thing after a very long time" (¶113); "It was the raking light I used in the lab to find a seam." (¶107); "Lichen did not grow like that in an afternoon." (¶167). |
+| 15 | Authoritative description: FOUND, minor (−0.125) | Only the plateau (¶11) now; the brochure hall sentences are cut. |
+| 20 | Clock gauge: FOUND, **moderate** (−0.25) | 12:20 / 12:30 / 1:40 are 0.54/1k; the payoff "The watch said ten to two" is excluded. |
+| 17 | Clean dialogue: clear | The camera cross-talk is gone, but "It's all right, I don't—" / "No, no. For your mother." still interrupts. |
+| 3, 12, 14 | Clear | |
+| 6 | Clear | 0 "And" openers. |
+| 4 | Clear | 1 em-dash, in dialogue. |
+| 7, 13 | Trace | |
+| All others | Clear | |
+
+**4/20 found, total −0.875 (was −0.625). Band: CLEAN.**
+
+**Denominator note:** the higher deduction is entirely a density artifact. **No instance was added.** The trim removed the words around unchanged instances, so #9 and #20 crossed 0.5/1k. That is why Prose holds rather than falls. The cheapest repairs are in Rec. 5 and Rec. 6: re-open two ladder paragraphs, and cut the "die before there were dice" tail, which also removes a within-chapter "dice" echo with ¶109's "the dice of every child in Phocis".
+
+### NO-TICS scan (verbal, device, gesture, props): **PASS, 0 defects**
+- **Verbal and device:** no character leads with a tic, catchphrase or refrain, and no one carries a device. The German's stones are his life, not a counting habit, and no narrator habit bleeds into dialogue.
+- **Frozen-at-2 list in Ch.3:**
+  - "you could have" 0.
+  - "against my" 0.
+  - "went hot" 1 (the designed blush).
+  - "the size of a" 1 (the saucer; book-wide 2, frozen).
+  - "my father's watch" **0** (cut with "bigger fool", so the book-wide count falls).
+- **The trim *retired* three cross-chapter watch items:**
+  - the read-like-a-pot comparison (Ch.3 instance cut; book-wide now 1);
+  - "Ray… have a fit" (Ch.3 instance cut; book-wide now 1);
+  - the "kitchen table" echo (the boulder's "as broad as a kitchen table" is cut, which resolves R2).
+- **Gesture classes, counted by hand:**
+  - Heat: 1.
+  - Hand closed on the bone: 2 (¶119, ¶157). Frozen; there is no third in Ch.4 ✓.
+  - Flashlight on/off/teeth: one continuous functional state.
+  - Duffel cost beats: about 5. This is the chapter's argument, as judged in cycles 0 and 1.
+  - Sitting on the bag: 2.
+  - Look: 1 as a Mara beat ("looked out at the mouth"). The other "looked" belongs to the strangers in the 1989 memory.
+  - Nod, sigh, swallow, "a long moment", breath beats, set-down/pick-up: 0. The gate's one "swallow" is the mountain swallowing the shutter clack.
+  - **Props:** the prop-fidget layer is silent, and the German's Olympus is handled 3 times across about 180 words while he talks. That is within the gate, but it is the one place to watch.
+  - **No new class, no 7.5 cap.**
+- **Retired reflexes:** none. The splits created no define-by-negation opener and no anaphora triad.
+- **The review's two new counts:** and-chains 6/9 ✓; credential asides 4/4 ✓, at the cap with no headroom. Kept: the procedure "for the interns" plus "the lab sink"; the raking light; the sherds seminar. "My lungs had spent ten years in a basement lab" (¶5) is a body joke rather than a credential, but if the gate ever counts it, it is the one to recast.
+
+### Foreshadowing: **0** (gate 0; read by hand)
+Nothing new reaches forward. The cut of the German's "at two o'clock comes the cloud… Be down before." **removes the only line in the chapter a hostile reader could have called a planted warning** (the cloud never paid off). "drawn too exactly for a guess" (¶93) is a present observation. "I would hand it in… on my way down" is a present intention. The mountain does nothing.
+
+### Strengths to PRESERVE: **24/27 intact, 2 trimmed, 1 cut**
+- **Intact (byte-identical or one-word changes):** 1 opener · 2 ugly sentence · 3 taxi · 4 establishing shot · 5 aglet · 6 nanny and Thucydides · 7 herringbone and bedspring · 8 the German, every named line · 10 wrapper and torn sleeve · 11 the lentil doorway ("drawn too exactly for a guess") · 12 Hanson · 13 lens cap · 16 the anchor run ("in the lab" dropped) · 17 dots and "still only rock" · 18 cellar and Krimpet · 19 the optative (compressed to one sentence, line kept) · 20 the postcard "unwritten" · 21 bells and ear pressure · 22 "properly or… home" and ¶145 · 23 the held sentence · 24 1989 and *sorry* · 25 "I backed out." / "The walls went by unread." · 26 the outside run · 27 the last line.
+- **Trimmed:**
+  - **#9**, the sherds paragraph: "since the seminar" → "since". This is still clear, because the seminar is named two sentences earlier.
+  - **#14**, the graffiti run: the 1952 lieutenant and the 1996 heart stay. **Casualties:** the upside-down soot name, and "**If it had come into my lab I would have needed a month just to decide what to keep.**" The latter was a credential aside, and the cap required one to go. Of the four, it was the best line to lose, but it *was* a good line.
+- **Cut, #15:** "eating nothing, because I had been caught once already." This casualty also clears the Hostile's cycle-0 continuity flag, since Ch.2 never showed her getting caught. **Net neutral.**
+- **"The walls went by unread."** still lands. On the way in she reads dates, a regiment-less lieutenant and a heart, so the walls were read. The cut of "I went along the wall reading it…" removes the explicit verb the payoff echoes, so the payoff is slightly quieter. That is acceptable.
+
+### Reader reports (delta only)
+- **Devourer:** "Still a climb, but now I'm at the cave before I get restless." Their former skim zones are the survey (halved in effect) and the camera lesson and French plates (gone). They read the last 2,300 words without blinking, as before. Verdict: "Shorter climb, same killer top."
+- **Critic:** Welcomes the de-chaining: "the long sentence at the crack finally sounds like an event, not a habit." Misses "If it had come into my lab…" and the roof of the hall. Notices "dice" twice in four paragraphs, and that semicolons now do the work the "and"s used to.
+- **Hostile:**
+  - (1) "How did Fenn draw the cave *exactly* from Philadelphia?" Cycle 1 answered this with "He must have copied it out of a photograph in some library book"; the trim removed the answer, and ¶15 still says he had never seen the mountain.
+  - (2) "Ch.4's empty ridge refers to what?"
+  - (3) R1 "Beyond the bend the beam ran on into black" (¶123) is still there.
+  - (4) The old flags are gone: "caught once already" and the "kitchen table" echo.
+- **Casual:** "I liked her straight away, the German made me laugh, and she was in the cave before I checked how many pages were left." **9.0.**
+- **Devoted:** Loses the soot names, WILKINS and the French plates, which they would have looked up, plus the fire-ring candle that rhymed with Ch.4's lamp. Will notice that the empty ridge in Ch.4 has nothing to be empty *of*. Their verdict is unchanged for the crossing.
+
+**Cross-reader matrix:** "Fenn's drawing unexplained" (Hostile + Devoted) = SHOULD FIX. "Orphaned Ch.4 ridge" (Hostile + Devoted) = SHOULD FIX. "Hall has no height" (Critic + Devoted) = SHOULD FIX. No issue is flagged by the Casual reader, so there is no VIBES PROBLEM.
+
+### Revision recommendations (non-blocking; one finalize pass, about +40 words)
+| # | Location | Type | Now | Why it matters | Direction | Project rule? |
+|---|---|---|---|---|---|---|
+| 1 | ¶11 | Continuity | The ski lifts are cut | Ch.4 ¶135 "the ridge above them had only sky on it" is now a payoff with nothing set up for it, and ENTITY_STATE `knowledge_absent_ch3` still cites "the ski lifts". | Append to ¶11, after the church: "On the far slope the ski lifts stood idle for the summer with their chairs hanging in a row." (+19w). | **Yes:** "Before cutting a 1998 detail from Ch.3, grep Ch.4 for its absence-payoff (road, huts, lifts, paint, inscription paint, pen)." |
+| 2 | ¶103 | Immersion / outline beat 2 | "It was a single hall running back into the mountain farther than the daylight could follow." | "He had undersold it" is asserted; the "vast first chamber" (a non-negotiable beat) has no height. | "…farther than the daylight could follow, with a roof that went up into darkness in the middle." (+11w). Do **not** restore the stalactite sentence, which is the #15 brochure line. | No |
+| 3 | ¶93 | Logic | "It was this cave, drawn too exactly for a guess;" | ¶15 says Fenn had never seen the mountain, so exactness needs a source. | "It was this cave, copied too exactly for a guess, from a photograph in some library book, I supposed;" (+9w). It keeps her inference, not narrator knowledge. | No |
+| 4 | outline.md Ch.3 ledger, STATE, `feedback/progress.md` | Bookkeeping | The ledger target is 6,800 | The author chose 5,600, and the ledger should state it. | Set the Ch.3 target to 5,600 with "(author trim 2026-10-19)". Resync ENTITY_STATE for the cut sources (room over a shop, kiosk phone, "caught once already", the fire ring, the lifts if Rec. 1 is declined). | No |
+| 5 | ¶113 | Style (#11 + echo) | "each of the four a different shape, which was why it had been a die before there were dice" | It is an explanatory tail and echoes ¶109's "the dice of every child in Phocis". | Cut the tail: "…and its four long sides, each of the four a different shape." | No |
+| 6 | ¶29 / ¶91 | Style (#9) | "A little higher there was…" / "Above the firs the slope…" | A spatial ladder of openers, now 0.71/1k. | Open ¶29 on the object ("A shepherd's pen stood beside the path, its wall fallen in…") and ¶91 on the wind ("The wind was stronger once I was out of the firs…"). | No |
+| 7 | ¶123 (R1), ¶37 (R4), ¶127 (R3) | Carried | The bend, "Ach so", the sock tail | Still open from cycle 1. | As in cycle 1. | No |
+| 8 | Whole chapter | Style (watch) | Semicolons 3.4/1k; "a little" 1.4/1k | Both densities rose with the trim. | Next touch: convert 2 semicolons to full stops, and drop 2 of the "a little"s. | No |
+
+**Do not cut further:** the wait (¶127–135) is at its minimum, and Immersion is at its 9.0 floor.
+
+### Pacing check (one line for `feedback/progress.md`)
+*Ch.3 author trim: 5,598w (author's choice; ledger 6,800 to be updated) · 0 breaks · dlg 6.1% · high gear (median 17) · long-spiral/punch ✓ · and-chains 6 (held sentence + 5), credentials 4/4 · anchor at 3.3k (was 4.3k) · approach still 52% · PASS.*
+
+### VERDICT (author trim)
+**PASS.**
+- **Scores:** Originality 8.5 · Theme 8.5 · Characters 8.5 · Prose & Voice 8.5 · Pacing 8.5 · Emotion 8.5 · Immersion 9.0 (held, at its floor).
+- **Genesis:** Floor **8.5** | Average **8.57**.
+- **Readers and commercial:** Casual **9.0** (+0.5) | CVI-Launch **8.9** (+0.2) | CVI-Legacy 6.4 provisional.
+- **Laws:** foreshadowing **0** | NO-TICS **0 defects** (verbal, device, gesture, props) | retired reflexes 0 | gates all clean.
+- **Process checks:** PRESERVE 24 intact + 2 trimmed + 1 cut.
+
+**What the trim gained:**
+- The anchor arrives 1,000 words sooner.
+- The rhythm is de-chained (21 → 6), and the Mara/Fenn syntax split is restored.
+- The held sentence is now singular.
+- The credential reflex is halved.
+- The surprise is cleaner, and three cross-chapter watch items are retired.
+
+**What the trim cost:**
+- The roof of the hall.
+- The ski-lift plant behind Ch.4's empty ridge.
+- The explanation for Fenn's exact drawing.
+- About 15 survey-grade place details, which leaves Immersion with no margin.
+- The camera lesson's cross-talk.
+- "If it had come into my lab…".
+
+Recs 1–3 (+39 words) recover the costs that matter.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in every score at or above 8.5, in Immersion 9.0, in Casual 9.0 and in CVI-Launch 8.9 requires external validation from beta readers, editors or comp analysis. The Casual +0.5 rests on three measured beat-position changes, not on impression. Prose, Pacing and Emotion were deliberately held, because their gains are subtractive and the cycle-1 holds on them are untouched. The independent review that prompted this trim is the best external check available: its pace complaint is answered in part, since the chapter is now shorter but still a solitary walk, and its rhythm complaint is answered in full.

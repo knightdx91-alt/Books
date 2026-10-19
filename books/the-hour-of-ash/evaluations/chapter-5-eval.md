@@ -395,3 +395,198 @@ Ch.5 (cycle 1): 8,212w (target 8,300 ✓) · dialogue 20.4% (20–30 ✓) · 4 b
 **Cross-book note (Ch.1–5):** for the first time, a polish cycle's own replacements created the next recurrence (N1, N2: the held-look device that replaced the item-by-item look). The editor's grep checked the new *words* against Ch.1–4 but not the new *constructions*. Pipeline fix: when retiring a device, grep the replacement's *frame* ("longer than", "eyes on my", "and stayed"), not only its vocabulary.
 
 **BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in every score at or above 8.5, in Immersion 9.0 and in CVI-Launch 8.7 requires external validation from beta readers, editors or comp analysis. Prose 8.5 sits at the low edge: it is awarded because every cited cycle-0 hold is cleared and the new residue is WATCH-level by this book's own precedent (Ch.4 N4). It would not survive one more recurrence class.
+
+---
+
+## RE-EVALUATION — author fixes (2026-10-19)
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Text:** `manuscript/chapters/chapter-5.md` after the author-requested fixes (`evaluations/revision-chapter-5-author-fixes.md`), working copy against the finalized commit `f54cdfd` (word-diffed line by line). **7,855 words** by `wc -w` (7,862 by style_check), against the 8,300 target (−5.4%; the target is not a floor, and the author asked for the cut).
+**Read against:** the cycle-0 and cycle-1 evaluations above (the baseline is the finalized text, which already carries N1–N7: "The question was finished before his look was" ¶267, "wished the light would stay" ¶137, the bare "Mine." ¶357–¶359, "She let me finish" ¶327, "planted himself" ¶265 are all present). Also read: `feedback/independent-review-ch1-5.md`; chapters 3 (revised working copy) and 4 (the boy's Greek, Ch.4 ¶41: "fast and flat, the vowels pinched"); STATE/CLAUDE.md laws, including the new and-chain and credential caps; outline ledger row 5; voice-dna §0, §1 (gear bands), §3b. ¶N below = line number in the revised file.
+**Measured here, not taken from the report:** `bash tools/check_chapter.sh 5`: every gate is clean. Style: simile 1.9/1k, em-dash 2, **foreshadow 0**. Grammar 0. Rhythm 0. Show/tell: dialogue **20.2%** (band 20–30, at the floor), emo 0.0. Voice-wear strict: clean. 5a tic gate: clean; **and-chains 7 (cap 9), credential asides 4 (cap 4)**, Ch.5 gesture classes: head shake 1. Echo scan: the same 6 echoes ruled functional in cycle 1, and no new one. Shape: CLEAN. Metaphor: fig 3.1/1k, **median 16** (see Pacing: the exact median is 16.5, against 17.0 before the fixes). `* * *` = 4. My own counts: the roll-call proper (the bull to the runner) is **697 → 567 words**; section 2 is 2,364; "stopped" is 14 → 12; "in English" is 3.
+
+### The five questions
+**1. Did the roll-call trim fix the monument sag without costing #15, the empty bases or the painted temple? Yes, mostly.** Before the payoff the reader now meets the bull (story intact), the painted marble, the rival, one frieze sentence and a one-line boxer. Before, there were six stops; now there are three, and the sag is lifted. **#15 survives:**
+- **Gaps intact.** The clay discs "I could not think what else they might be for" (¶49), bought unexplained at ¶193. "I went by it now without knowing it" (¶133). The wall "too small to read walking". The bull's eyes of "white stuff". The trim also adds a gap: the Siphnian treasury is now "the next treasury" (¶75). She sees the blue without filing a label, which is less encyclopedic.
+- **Misreadings intact:** the goat "going up to its death" is alive at the altar (¶67 → ¶133), and Nero dies "in a ditch" (¶103).
+- **Boredom intact:** "somewhere in the boxer I had stopped listening" (¶79).
+- **Empty bases byte-intact (¶83–¶91),** apart from "from the saw" in ¶93.
+- **The painted temple (¶133–¶143) is byte-identical.**
+- **Costs, all small:**
+  - The rival's Siphnian silver was one of the guide's misreadings, and it is gone.
+  - Two suffered details are gone: the cold-water boy ("I had no obol") and the ox-cart that put her up on a terrace wall.
+  - The second row of empty bases is gone, which shrinks the looting's scale to the guide's "five hundred".
+  - "Somewhere in the boxer" now hangs off a 35-word speech, so the boredom is asserted more than suffered.
+- **Incidental gains:**
+  - The guide's "And here…" formula drops from 3 to 2, which is under the third-use line.
+  - The Athenian "walked round it twice" is cut. That removes the Devoted reader's credibility breaker (a conservator who circled it in May and could not recognize it).
+  - "Everyone beats somebody at Delphi" now sits on the boxer, where "beats" means both boxing and the coming rod. It is the guide's present-tense joke, not narrator prolepsis.
+
+**2. Does the Greek clause close the comprehension jump in one stroke? Yes.** The clause is: "It was a speech he had given ten thousand times, worn smooth, in a town Greek far nearer my books than the boy's had been on the mountain, and I followed every word." (¶59). It names both causes the review asked for, rehearsal ("worn smooth") and register ("town Greek… nearer my books"), against Ch.4's "vowels pinched". The rest of the chapter now forms a consistent gradient:
+- the press woman, rural and fast, of whom she gets only a part ("something with a no in it"; "I understood that one.");
+- the guide, who comes through in full;
+- the herald's "big slow voice, every word set down by itself";
+- the fountain, "most of it", plus a mishearing;
+- Kallia: "I did not understand her at once."
+
+Nothing after the clause contradicts it. Two small snags: the "had been on the mountain" ellipsis asks for a half-beat re-read, and "my books" quietly spends a credential token (see Q5).
+
+**3. Is the beating still fast and the basin scene still slow? Fast, yes, and faster. Slow, yes, with a loss of texture.**
+- **The beating (¶177)** now runs "He hit me on the hip. I went backward…" / "I stood. He came down after me…". It has more full stops, plain verbs and no asides, and "I ran." is intact. This is voice-dna §3b level 2, done better. Strength #20 was touched, but the edit serves what #20 protected.
+- **The basin (¶277–¶279)** still decelerates. The plan sentence is intact and long, and Kallia's foot-washing with her eyes shut runs slow. "The cold of it stopped my breath." now stands alone, which is enactive.
+- **What was lost** is the one cumulative, held sentence of immersion: going under, scrubbing, forearms, the welts burning. It is now three sentences, and the sensory rush is a little less total. This is also where the chapter's gear slipped (Pacing, F1).
+
+**4. Did Prose & Voice improve off its low edge? Yes. It is now a secure 8.5, not 9.0.** Cited gains:
+- (a) and-chains 17 → 7, so the narrator's default action rhythm is broken. The review's item 2 is fixed where it mattered (the herald's tablet, the lions, the flake, Kallia's foot, the sock).
+- (b) The #11 instance at the old ¶97 ("This was the first time I had stood where the taking happened…") is cut.
+- (c) The "scraped from a sherd from" clunk and the boxer's "twenty years" (which repeated ¶143) are gone.
+- (d) The laurel woman's "put the guide between herself and me" is gone. It repeated ¶41's frame inside the same chapter.
+- (e) "A word I had never seen written down" (¶165) is funnier than "in none of my grammars", and it still says book-learned.
+- (f) The beating is sharper.
+
+**Residue, all non-blocking:**
+- "the form for a man laboring for hire, **the only form of it I knew**" (¶21): a form/form doublet on protected #4 (F2).
+- "every word" twice in-chapter (¶59, ¶199), both as comprehension devices: WATCH (F3).
+- The copper-stain gloss (¶91, #11).
+- Body measures at 4.
+- The placement syntax ×4.
+
+One more recurrence class would no longer pull this back to 8.0. The margin cycle 1 lacked now exists.
+
+**5. Did the credential cuts cost characterization? No.**
+- **"Ugly" is still set up:** "I had looked at polychromy through a stereo microscope for most of my working life. For a museum open day I had once painted a plaster cast… and been proud of myself for liking him." (¶65), plus "twenty years in a library" (¶143). The anchor still betrays a love we watched her earn.
+- **The year is still dated through Josephus,** byte-identical: "I had read it in Josephus in a seminar in my second year, in a hot room on the third floor with a radiator nobody could turn off." (¶223).
+- **The cuts were the weakest tokens:**
+  - "in the lab" twice; "in my first year in the lab" at the scalpel scar, where the scar, the acetone shine and the pen callus already say it;
+  - "since graduate school".
+- **Count:** the gate counts 4, at the cap. Seminar and "I had read it" are one aside counted twice, so the real count is 3 plus the new "my books". The fix to the Greek clause spent the token the credential fix freed, which is a fair trade.
+- **Small loss:** at ¶21, "the only one the grammar had given me" carried the irony of a language that came out of a book. "The only form of it I knew" keeps the meaning and loses the irony.
+
+### NO-TICS scan (verbal, device, gesture, props; Ch.5 and against Ch.1–4)
+- **Verbal, cast: PASS.**
+  - Nobody leads with a catchphrase.
+  - The guide's "And here…" formula is now 2 (it was 3).
+  - "Whose is she?" / "Whose are you?" stay at the bible cap of 2 by design.
+  - Kallia does not repeat a line.
+- **Narrator recurrences: PASS.**
+  - Every new phrase is 0 in Ch.1–4 (grepped: town Greek, nearer my books, form of it, never seen written down, working life, all wrong, next treasury, from the saw, went numb, bit into, worn smooth, followed every word).
+  - "written down" occurs once in Ch.3 ¶115, in a different sense.
+  - "every word" is 1 in Ch.2 and 2 in Ch.5: a common collocation, so WATCH (F3).
+- **Devices: PASS.**
+  - Credentials sit at the cap of 4.
+  - The measuring reflex is at 4 (waist ¶87, knee and hand's breadth ¶149, arm ¶173), held at the cycle-1 ration.
+  - No bleed onto the cast: the guide still refuses the maker ("Nobody asks that.").
+- **Gesture classes (by hand): no class at 4+ as stall business, so no 7.5 cap.**
+  - Laugh: 2 events in 3 mentions (¶125, ¶131, ¶165), none with "until", a posture or an aftermath.
+  - Kneel/crouch: 2 to inspect, on her sanctioned axis (¶89, ¶149); 1 to wash (¶277).
+  - Flat hand: 1 (¶333).
+  - Stranger gaze at her body: 3 (¶37, ¶267, ¶299), down from 4.
+  - Halt beats ("stopped"): 12 (1.5/1k; Ch.1–4 run 1.35).
+  - Nod, sigh, swallow, breath and "a long moment": 0.
+- **Props (3+ handlings in 400 words): PASS.**
+  - The duffel on the steps (slid / strap / tore out / came down / by the handles) is the fight for the bag. It is action, as the author's own Saeren check ruled.
+  - Kallia's jar (lifted ¶331, "stood with the jar" ¶351, hip ¶363, other hip ¶383) is the labor test and the walk, not fidget. The gate's prop layer is silent.
+
+### NO FORESHADOWING (target 0): PASS, 0
+The gate reads 0, and I grepped by hand for would / later / afterward / years / nine / 79 / Pompeii / Vesuvius / Campania / mountain. Every "would" is a present intention, a counterfactual or reported speech. "the mountain" (¶9, ¶59) is Parnassus, backward. The year is still a present inference ("It was the autumn of the year seventy."), with no 79, no Pompeii, no Vesuvius and no nine years. Titus is named only as Jerusalem's conqueror.
+
+### Anti-AI re-scan (7.86k; commercial band)
+| # | Result | Count, density | Note |
+|---|---|---|---|
+| 1 | FOUND minor | 2 (0.25) | streaks/holes ¶91; alive/dead ¶143 (both peaks; keep) **−0.125** |
+| 10 | FOUND minor | 2 (0.25) | "so glad of it" ¶5; "delighted" ¶11 **−0.125** |
+| 11 | FOUND **minor** (was moderate) | 3 (0.38) | the copper-stain gloss ¶91; the shame paragraph ¶143 (trimmed in cycle 1); the Latin-sound gloss ¶221 (needed). The old ¶97 is cut. **−0.125** |
+| 13 | FOUND moderate | 4 (0.51) | waist, knee, hand's breadth, arm **−0.25** |
+| 14 | FOUND minor | 1 | ¶325 "The voice went on me there…" (protected outburst) **−0.125** |
+| 15 | FOUND minor | — | placement syntax ×4 in narration (¶49, ¶133 ×2, ¶137); the Nero-dates paragraph (used). The label is gone from the frieze. **−0.125** |
+| 2, 3, 9, 19, 20 | trace | — | not counted |
+| 4, 5, 6, 7, 8, 12, 16, 17, 18 | clear | — | |
+
+**6/20 found. Total −0.875 (cycle 1: −1.00).** Clean band, mid. The #11 hard check passes easily.
+
+### Genesis Score — author fixes
+| Dimension | Prior | Now | Evidence | Holds |
+|---|---|---|---|---|
+| Originality | 8.5 | **8.5 (holds)** | All five writer inventions are byte-intact: the speech "for the man who was not there" and the cupped palm (¶83–¶85); "They were his own letters." (¶113); the herald/clerk titulature decode (¶205–¶221); the hired-man verb form (¶21, re-worded); "they'll stop it out of my bread" (¶185). The four-oxen mishearing (¶263) is intact. | The walk-on template is systemic and unchanged. The Siphnian joke is gone (re-read note dropped). |
+| Theme | 8.5 | **8.5 (holds)** | The anchor-to-theme run is byte-identical: "I had been wrong about it for twenty years in a library. I had come the whole way back to see it alive, and I preferred it dead." (¶143). The braid is "Whose are you?" / "Mine." (¶353–¶357), then the bag packed for "the cave at the top of it by noon" (¶429). Cutting the old ¶97 removes the most engineered of the resonant details on the Way, so the section reads less as an echo chamber. | Not raised: the theme was never held by anything these fixes touched. |
+| Characters | 8.5 | **8.5 (holds)** | The credential cuts took the weakest tokens and kept the ones that do character work (¶65, ¶223; Q5). Kallia is on-card, and her foot under the overflow "with her eyes shut" survives the split (¶287). The guide is intact: the thorn brooch, walking backward, "Nobody asks that.", "He tells it all wrong, and he's from Amphissa." Cover-the-name: PASS. Chaos 4/4: the shaking ¶193, the paste ¶239, Pinsky ¶313 byte-identical, the optative "put away" ¶127. | ¶325 is still managed (#14). Walk-on template systemic. ¶21 loses the grammar irony (F2). |
+| **Prose & Voice** | 8.5 (low edge) | **8.5 (holds; off the edge)** | **Six cited gains (Q4 a–f).** The stopping sentences are intact: "**I had come the whole way back to see it alive, and I preferred it dead.**" / "**I had told Gloria the ninth of June.**" (¶227). Every underline is intact, including "They took the Thessalians off their horses…", the landlord look, "They were his own letters.", the optative put away, "The god's house had been touched up. Badly.", "a light under her stairs that burned nothing" and "two small businesses in the dark". A new small underline: "One of them said a word I had never seen written down, and the others laughed." The ugly sentence (the bread run-on, ¶31) is intact. Voice under pressure is sharper (¶177). | Not 9.0. The chapter has no Kalanithi-class pivot, and the residue (F2, F3, the #11 gloss, the placement syntax) is real but small. |
+| Pacing | 8.5 | **8.5 (holds)** | **Hold (b), the monument sag, is lifted.** The roll-call is down 19% and has three stops instead of six, and the fountain sag pays off with a joke (cycle 1). The beating is faster (¶177). The storeroom fade is untouched. Ledger: `scene-set` first sentence and `long-fade` last sentence are both byte-identical; 4 breaks; dialogue 20.2%; 7,855 vs 8,300. | **New: ledger gear is marginal.** The row says *high* (median 17–20), and splitting the and-chains moved the median from 17.0 to **16.5**, so the tool truncates it to 16, the top of *mid*. That is half a word, fixable with one join (F1). Holds (c) section 4 at 3,104 words unbroken and (d) the quiet sleep pull stand. Not raised. |
+| Emotion | 8.5 | **8.5 (holds)** | Anchor, surprise, the pilgrims' faces and Gloria are all byte-identical. The body rebel is intact (¶193 shaking). The beating hits harder at the faster rhythm. "Eggs. I can do eggs." is intact. | The year still lands as arithmetic (by design). The basin loses a little of its sensory rush (Q3). |
+| Immersion (Dim 7) | 9.0 | **9.0 (holds)** | Everything that is used or suffered survives: the olive; the press and gutter oil; the basin skipped, then "unwashed"; the spring wanted, then used, then "People drink that"; the Egyptian blue, then the beating; the lead under the coin's edge; "The rest of you can smell it cooking." #15 still passes (Q1), and the unlabeled frieze and the cut Athenian-treasury breaker are small gains. | Lost: the cold-water boy, the ox-cart, the second row of bases (Q1 costs). The purple-stripe warden is unchanged. The BIAS CHECK discount stands. |
+| **FLOOR** | 8.5 | **8.5** | | |
+| **AVERAGE** | 8.57 | **8.57** | (8.5 × 6 + 9.0) / 7 = 60.0 / 7 | |
+
+**Dropped:** none. **Neighbor cross-check:** Prose firmed. Pacing gained the sag fix but took the half-word gear slip, so it nets level. Immersion's small losses are absorbed by its small gains.
+
+### Strengths to PRESERVE: survival check (30 items)
+- **Byte-intact:** #1 (first sentence, the dog, Baltimore Avenue), #2, #3, #5, #7, #8, #11, #12 (the empty base ¶83–¶91), #13, #14, #15 (the coin and the optative), #16, #17 (the anchor), #19, #21, #22, #25, #26, #27, #29, #30 (last sentence), and #28 (Kallia), where Dr. Pinsky and "Whose are you?" / "Mine." are byte-identical.
+- **Touched, but the idea is intact or improved:**
+  - #6: the lion sentence is split.
+  - #9: "for most of my working life".
+  - #10: "the next treasury", with the blue line intact.
+  - #18: the flake sentence is split.
+  - #20: the beating is faster.
+  - #23: the herald's tablet is split.
+- **Casualties (both small; none costs a score):**
+  - **#4** (¶21): "the only one the grammar had given me" → "the only form of it I knew". It loses the book-Greek irony and gains a doublet. See F2.
+  - **#24** was protected byte-identical, and "in the lab" is cut from "the coins I had cleaned with a cocktail stick". Nothing is lost in sense, since her job is clear from context, but the byte-lock was broken. Leave it as is.
+
+**Verdict: the PRESERVE list survived.**
+
+### At finalize (non-blocking; word-neutral; re-run `check_chapter.sh 5` afterwards)
+- **F1 (ledger gear, Pacing):** rejoin one split at the basin (¶279). This also restores some of the held immersion: "**The cold of it stopped my breath, and I surfaced gasping and went under again, and scrubbed at my face and neck with both hands.**" (3 "and"s, not a chain). The join removes one sentence of 16 words or fewer, so the median returns to 17 (high gear). Alternative, if the basin must stay staccato: ¶203 "The boy put the tablet into the herald's hand, and he raised it at the full length of his arm…" (2 "and"s).
+- **F2 (#4):** ¶21 "the only form of it I knew" → "**the only one I knew**" (−2 words, which kills the doublet). If the irony is wanted back, use "**the only one the book had given me**". It is not counted as a credential, since the regex looks for "grammar".
+- **F3 (WATCH):** ¶59 "and I followed every word" → "**and I lost none of it**". This keeps ¶199's "every word set down by itself", which is the better use.
+- **Bookkeeping:** drop "Siphnian gold" from the CVI-Legacy re-read list. If ENTITY_STATE or the bible carries a walk-on entry for the cold-water boy, the laurel woman or the ox-cart, retire it. Mark the guide's "And here…" formula SPENT at 2.
+
+### Readers (deltas only)
+- **Devourer:** the monument stretch now reads as bull, painted marble, rival joke, payoff. One skim is gone. The beating reads faster. The remaining skim is section 4's length.
+- **Critic:** would underline "a word I had never seen written down". Notices the "form of it" doublet. Misses the cold-water boy's "I had no obol".
+- **Hostile:** the comprehension jump is answered in a clause, and the Athenian-treasury breaker is gone. Still asks about the purple stripe and the procurer's man (thread logged). Verdict: "Holds."
+- **Casual: 8.5 (holds, and nearer 9.0).** The barrage that kept it from 9 in cycle 1 is largely gone. What remains is not this chapter's to fix: 7.9k words, the longest in Part One, and a romance reader still waiting for Valens (review item 1). Would buy.
+- **Devoted:** loses the Siphnian silver joke. Gains a guide who is no longer saying "And here" three times.
+
+### CVI
+**CVI-Launch:**
+- Commercial Pacing **8.0** (was 7.5; the cycle-0 lever, the monument cut, is done) × .2 = 1.6
+- Tomorrow Test: 5 anchors → 10 × .2 = 2.0
+- Casual 8.5 × .2 = 1.7
+- Shareability 7.7 × .2 = 1.54
+- Concept 10 × .1 = 1.0
+- Human Closeness 5 × .1 = 0.5
+
+Total 8.34, **+0.5 strong anchor = 8.8**.
+
+**CVI-Legacy:** 6.6 (provisional, unchanged). Divergence: none.
+
+### Cross-reader matrix (author fixes)
+| Issue | Dev | Crit | Host | Cas | Devo | Severity |
+|---|---|---|---|---|---|---|
+| Monument roll-call | (fixed) | | | (fixed) | | RESOLVED |
+| Comprehension jump | | | (fixed) | | | RESOLVED |
+| Gear median 16.5 (ledger "high") | | ✓ | | | | INVESTIGATE (F1, at finalize) |
+| "form of it" doublet / "every word" ×2 | | ✓ | | | | INVESTIGATE (F2/F3) |
+| Section 4 length; no romance yet | ✓ | | | ✓ | | SHOULD FIX at book level (Ch.6–8 must move; not this chapter) |
+| Purple stripe / procurer's man | | | ✓ | | ✓ | INVESTIGATE (carried) |
+
+### VERDICT — author fixes
+**PASS.** All seven dimensions hold at their prior scores:
+
+| Dimension | Score |
+|---|---|
+| Originality | 8.5 |
+| Theme | 8.5 |
+| Characters | 8.5 |
+| Prose & Voice | 8.5 (now off the low edge) |
+| Pacing | 8.5 |
+| Emotion | 8.5 |
+| Immersion | 9.0 |
+
+Genesis Floor **8.5** | Average **8.57** | Casual **8.5** | CVI-Launch **8.8** (was 8.7) | CVI-Legacy 6.6 | foreshadowing **0** | NO-TICS: clean, with gestures and props uncapped | AI patterns 6/20 (−0.875) | mechanical suite all clean | and-chains 7/9 | credentials 4/4.
+
+**What the fixes gained:** the monument sag is lifted, the comprehension jump is closed in one clause, the and-chain rhythm is broken, the beating is faster, and Prose has margin.
+
+**What they cost:** two suffered details (the cold-water boy, the ox-cart), one misreading (the Siphnian silver), the basin's held sentence, #4's irony, and half a word of median gear.
+
+Apply F1–F3 at finalize. They need no re-evaluation, only `check_chapter.sh 5`.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in every score at or above 8.5, in Immersion 9.0 and in CVI-Launch 8.8 requires external validation from beta readers, editors or comp analysis. No dimension was raised. Casual was held at 8.5 even though cycle 0 predicted 9.0 once the monuments were cut, because the remaining drag (length, and no romance before Ch.6) is structural, and an independent human reader has already named it.

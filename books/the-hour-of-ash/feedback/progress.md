@@ -19,17 +19,20 @@ What was done:
   mode + Step D.6 shape audit, docs updated.
 
 ## Resume point
-**PAUSED AT REVIEW CHECKPOINT 1 — Ch.1–5 FINAL (2026-10-19).** `awaiting_author_review: true` in
-STATE.yaml. The author's review bundle is `feedback/review-ch1-5.md`. When the author says "continue",
-set the flag back to false and resume at **Ch.6 "Snow at the Cave Mouth"** (read its ledger row and
-section in outline.md). Hook/pull types used so far: Ch.1 CONTRAST / QUESTION-PLANT, Ch.2 VOICE /
-EMOTIONAL-GUT-PUNCH, Ch.3 SENSORY-IMMERSION / CLIFFHANGER, Ch.4 IN-MEDIAS-RES / REVELATION, Ch.5
-QUESTION / DECISION-POINT — repeat none. Ending signatures so far: quiet, long-fade, punch, dialogue,
-long-fade (long-fade is at 2 of 5 — do not use it again before Ch.8). WATCH: the at-risk list in
-character-bible.md (now three dated blocks); run `python3 tools/tic_report.py --echoes N` on every fresh
-draft; Kallia's hands are tasks, never handling beats; "in English" as a tag ≤2 per chapter.
+**LOOP RUNNING — resume at Ch.6 "Snow at the Cave Mouth" (2026-10-19).** Checkpoint 1 reviewed; the
+author said "Make the fixes then continue". The independent-read fixes are in (Ch.2 asides; Ch.3
+trimmed to 5,628; Ch.5 to 7,858 with the town-Greek clause) and Ch.3/Ch.5 re-evaluated PASS. Next
+checkpoint after Ch.10 (`feedback/review-ch6-10.md`). Hook/pull types used so far: Ch.1 CONTRAST /
+QUESTION-PLANT, Ch.2 VOICE / EMOTIONAL-GUT-PUNCH, Ch.3 SENSORY-IMMERSION / CLIFFHANGER, Ch.4
+IN-MEDIAS-RES / REVELATION, Ch.5 QUESTION / DECISION-POINT — repeat none. Ending signatures so far:
+quiet, long-fade, punch, dialogue, long-fade (no long-fade before Ch.8). New gates in `tic_report.py
+--gate`: and-chains ≤ max(9, words/900), credential asides ≤4, no prop handled 3+ in 400 words.
+**Keep Ch.6–8 moving** — Valens arrives in Ch.6, the book's first romance beat. WATCH: the at-risk
+list in character-bible.md; `--echoes N` on every fresh draft; Kallia's hands are tasks, never
+handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Chapter log
+- **Author fixes (checkpoint 1, 2026-10-19)** — Ch.2 asides 8→3; Ch.3 6,837→5,628 (chains 21→6, asides 4) re-eval PASS Floor 8.5 / Casual 9.0; Ch.5 8,184→7,858 (chains 7, asides 4, town-Greek clause) re-eval PASS Floor 8.5 / Casual 8.5.
 - **Ch.1 "The Reception"** — 6,546w · Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 9.0 · 2 polish cycles
   (Prose was the holdout: chain sentences and an inventory form that was a tic forming) · entity +
   continuity audit per chapter clean · full chain in STATE.yaml history. Re-opened later the same day

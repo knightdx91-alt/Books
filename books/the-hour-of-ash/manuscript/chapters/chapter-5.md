@@ -6,7 +6,7 @@ The morning before, a taxi had brought me up from Arachova and across this plain
 
 Where Arachova had been there was a village, lower and smaller, earth roofs stepping down the hill with smoke leaking through them, and the dogs came out to tell it I was there, and a man splitting wood stopped with his axe in the air until I was well by.
 
-Below the village the road dropped in loops along the side of a long valley, and the country changed at every turn of it. The scrub gave way to terraces of olives walled in dry stone, stepping down toward a river that was only a noise at the bottom of a gorge. Whole families were out in them, the men beating the boughs with long canes and the olives coming down onto spread cloths in a hard brief rattle, and the knocking carried along both sides of the valley at once. The hunger from the mountain had come down with me. Some olives had rolled into the road, and I took one out of the dust, wiped it on my jeans, and bit it.
+Below the village the road dropped in loops along the side of a long valley. The scrub gave way to terraces of olives walled in dry stone, stepping down toward a river that was only a noise at the bottom of a gorge. Whole families were out in them, the men beating the boughs with long canes and the olives coming down onto spread cloths in a hard brief rattle, and the knocking carried along both sides of the valley at once. The hunger from the mountain had come down with me. Some olives had rolled into the road, and I took one out of the dust, wiped it on my jeans, and bit it.
 
 It was like biting chalk soaked in aspirin, and my whole mouth drew back from it; my cheeks puckered and clung to my gums, and I spat, and went on spitting for most of the next bend while a girl on the terrace above watched me over the rim of her basket and then shouted down, delighted, "You salt them first!" You cured them in brine for weeks; I knew to the decimal what olive oil did to the fabric of a terracotta lamp, and the rest I had learned from the backs of bottles.
 
@@ -18,7 +18,7 @@ She saw me in the gate and kept skimming.
 
 "I am a foreigner and hungry. I can work."
 
-The verb came out in the form for a man laboring for hire, the only one the grammar had given me. She stopped skimming.
+The verb came out in the form for a man laboring for hire, the only one the book had given me. She stopped skimming.
 
 "Where's your man?"
 
@@ -30,7 +30,7 @@ I understood that one.
 
 So I carried olives for my lunch, in rush baskets that each weighed as much as a sack of wet laundry, and I tipped them one after another into the basin in front of the donkey's slow feet, and the oil found the thornbush scratch on my knuckles and stung. When the stack was gone she tore a round of bread in half, dipped the torn side in the gutter where the new oil ran out, and gave it to me dripping. The bread was gray and crunched and the oil was so bitter it made me cough and I ate it all. "If you're going up to the god, take money," she said as I left. "They charge you for breathing up there." She crossed the yard and kicked the sleeping boy, not hard, on the sole of his foot, and when he sat up she put the shell in his hand.
 
-Below the press the road met another climbing from the gorge, and after that I had company. An ox-cart loaded with oil jars in straw filled the road from wall to wall; I had to climb onto a terrace wall to let it by. A family overtook me, a man and his wife and a grown son, with a white kid on a rope that the son carried in his arms whenever it balked.
+Below the press the road met another climbing from the gorge, and after that I had company. A family overtook me, a man and his wife and a grown son, with a white kid on a rope that the son carried in his arms whenever it balked.
 
 "Is this the road to Delphi?" I asked the father, because he was nearest.
 
@@ -40,7 +40,7 @@ He answered with his eyes on my trousers. "Where else would it go? Up there's th
 
 "Mind your mouth," said his mother. "You don't know what she is." She put her husband between herself and me and kept him there until the road turned.
 
-The town began with a running track below the road, young men racing its length in the dust, stripped and oiled. Past it the cliffs closed in overhead, two sheer gray faces with a cleft between them, and out of the cleft came the water. In May it had been a dry niche behind a wire fence with a sign in four languages about falling stones. Now bronze lion heads stood out from a wall of dressed stone and poured water into a long basin, and pilgrims stooped at it to wet their hair while women waited with jars on their hips and a man sat at a little table with a ladle and a dish of coins. I wanted to put my whole head under one of those lions. Every face at the basin turned my way; I kept walking, up the last of the hill and into the town.
+The town began with a running track below the road, young men racing its length in the dust, stripped and oiled. Past it the cliffs closed in overhead, two sheer gray faces with a cleft between them, and out of the cleft came the water. In May it had been a dry niche behind a wire fence with a sign in four languages about falling stones. Now bronze lion heads stood out from a wall of dressed stone and poured water into a long basin. Pilgrims stooped at it to wet their hair while women waited with jars on their hips and a man sat at a little table with a ladle and a dish of coins. I wanted to put my whole head under one of those lions. Every face at the basin turned my way; I kept walking, up the last of the hill and into the town.
 
 * * *
 
@@ -54,29 +54,27 @@ He fell into step beside me talking, a lean, bandy-legged man in a brown cloak t
 
 He stopped in front of a bronze bull on a high base.
 
-"This is the bull of the Corcyraeans. You will ask me why a bull. On Corcyra there was a bull that went down to the shore every day by itself and stood bellowing at the sea, and the herdsman followed it down, and he found the tunny running in the bay so thick a boy could have walked out on their backs. And the Corcyraeans could not get one fish into their nets, not one, until they sent here and the god told them to give the bull to Poseidon. They gave it, and they filled their boats. And from a tenth of the fish they set up this bull to Apollo, and here it stands."
+"This is the bull of the Corcyraeans. You will ask me why a bull. On Corcyra there was a bull that went down to the shore every day by itself and stood bellowing at the sea, and the herdsman followed it down and found the tunny running in the bay so thick a boy could have walked out on their backs. They could not get one fish into their nets until the god here told them to give the bull to Poseidon. So they gave it, and from a tenth of the catch they set up this bull to Apollo."
 
-It was a speech he had given ten thousand times, worn smooth, and I followed every word. I would have paid him for that alone, if he had stood still once in his life to be paid.
-
-"And here, the Arcadians, nine of them, Apollo and Victory and their heroes, for a war they won against the Spartans. And across the road from them, look, the Spartans, for a war they won against the Athenians." He swept his arm from one side of the Way to the other. "Everyone beats somebody at Delphi, and then they come and put it up where the others have to walk past it."
+It was a speech he had given ten thousand times, worn smooth, in a town Greek far nearer my books than the boy's had been on the mountain, and I lost none of it. I would have paid him for that alone, if he had stood still once in his life to be paid.
 
 "Who made the bull?" The folds of its dewlap had been chased so fine that the tracer's marks showed.
 
 He stopped, put out. "Who made it? Nobody asks that. A man from Aegina, and they paid him." He carried on backward up the hill. "They want the fish, the people who come here, not the man from Aegina."
 
-The bull was polished bright, with gilded horns and eyes of white stuff with a dark stone for the pupil, and the Arcadians had the same wet brown-gold shine. The marble men were worse. Their skin had been tinted a warm brown and their lips red, their eyes painted in with black lashes drawn on one by one, and a girl on a column with a basket on her head had painted earrings and pink nipples showing through a painted dress. I had looked at polychromy through a stereo microscope since graduate school. For a museum open day I had once painted a plaster cast of a marble youth from the published pigment analysis, and been proud of myself for liking him.
+The bull was polished bright, with gilded horns and eyes of white stuff with a dark stone for the pupil. The marble men were worse. Their skin had been tinted a warm brown and their lips red, their eyes painted in with black lashes drawn on one by one, and a girl on a column with a basket on her head had painted earrings and pink nipples showing through a painted dress. I had looked at polychromy through a stereo microscope for most of my working life. For a museum open day I had once painted a plaster cast of a marble youth from the published pigment analysis, and been proud of myself for liking him.
 
-"Cold water!" a boy was calling, with a skin on his shoulder and a cup on a string. "Spring water, cold, an obol the cup!" I had no obol. Somewhere above, a goat was going up to its death, protesting, and a flute was playing it up.
+Somewhere above, a goat was going up to its death, protesting, and a flute was playing it up.
 
-"Don't listen to that one," said the guide, without turning his head. Across the Way a short man in a green cloak was talking to a family with his hand on the father's shoulder. "He tells the Siphnians wrong. The island's mine flooded because they cheated the god of his tenth, which is true, but he says it was silver. And he's from Amphissa."
+"Don't listen to that one," said the guide, without turning his head. Across the Way a short man in a green cloak was talking to a family with his hand on the father's shoulder. "He tells it all wrong, and he's from Amphissa."
 
 "I heard that," the man in green called over, without taking his hand off the father.
 
 "You were meant to," said my guide.
 
-The Siphnians' treasury stood above us with two stone girls holding up its porch, and along its top ran a frieze of gods fighting giants against a hard bright blue. A few grains of that blue, scraped from a sherd from Kourion, had once glittered under my lens like ground sugar, and here it was by the bucketful behind a giant having his head bitten off by a lion.
+Along the top of the next treasury ran a frieze of gods fighting giants against a hard bright blue. A few grains of that blue off a sherd from Kourion had once glittered under my lens like ground sugar, and here it was by the bucketful behind a giant having his head bitten off by a lion.
 
-"And here stood the boxer from Thasos," the guide said, "who threw every man in Greece for twenty years, and his statue killed a man afterward, which is another story and costs extra."
+"And here stood the boxer from Thasos," the guide said, "whose statue killed a man, which is another story and costs extra. Everyone beats somebody at Delphi, and then they come and put it up where the others have to walk past it."
 
 My feet hurt. The boots had been bought for mountains, and the paving had been worn glassy by so many soles that I climbed it with my toes clenched inside them, and somewhere in the boxer I had stopped listening to anything but them.
 
@@ -92,9 +90,7 @@ I dropped the bag in the road and knelt.
 
 The flake had come away clean, its face raw crystal, sparkling, and the rest of the block around it was old weathered limestone, pitted, with a rosette of lichen in one corner as broad as a coin. No dirt had got into the scar, and no lichen. Along the lip of the second socket ran chisel bites, short square cuts where the lead had been hacked out to free the bronze foot, still sharp enough to catch a fingertip. Below where the feet had been, faint green streaks ran down the front of the base, the stain that copper left in stone when rain had run over it for centuries, and the bronze that had fed them was gone. The streaks were the oldest thing on the block; the holes were the newest.
 
-There was another base past this one with two holes in it, and another beyond that with a single heel still in its socket, the rest of the foot gone above the instep and the cut bronze faced green-brown and fine-ridged where the saw had gone through. On the other side of the road a whole row of bases stood empty along the terrace wall, their inscriptions shouting victories at the passers-by.
-
-I had worked for a decade below street level with things taken centuries ago by men centuries dead. This was the first time I had stood where the taking happened while the marks were still sharp.
+There was another base past this one with two holes in it, and another beyond that with a single heel still in its socket, the rest of the foot gone above the instep and the cut bronze faced green-brown and fine-ridged from the saw.
 
 "The singer," the guide said above me.
 
@@ -108,7 +104,7 @@ He turned his whole attention on me. "The god took his time. He's dead now, isn'
 
 Nero had come to Greece for the games in sixty-six and stayed into sixty-seven. He had died in the June of sixty-eight, in a freedman's villa and not a ditch, with the freedman's hand helping the knife. It was at least that late, then. The lead in the socket had dulled to a skin of gray, but when I scored it with the edge of a coin from my pocket it was soft and bright underneath, and that meant two or three years of weather at the very most.
 
-I unzipped the end of the duffel for the Pentax and spent a frame on the base, close, with the sockets filling the viewfinder and the curved scar sharp in the side light. The shutter fired like a slammed drawer and the guide flinched. "What was that? What did it do?" Three people on the Way stopped to see what had made the noise, and an old woman with a laurel branch moved round to put the guide between herself and me.
+I unzipped the end of the duffel for the Pentax and spent a frame on the base, close, with the sockets filling the viewfinder and the curved scar sharp in the side light. The shutter fired like a slammed drawer and the guide flinched. "What was that? What did it do?"
 
 He held his hand out at the bend above.
 
@@ -134,7 +130,7 @@ I had the next sentence ready. It was a good sentence, with an optative in it. I
 
 He stopped laughing and gave me a look of real interest; then he tucked the coin inside the cloak and set off for the gate to meet the next stranger. I shouldered the duffel and kept climbing.
 
-Above the bend the Way doubled back and climbed past more treasuries crowded shoulder to shoulder with their doors shut. The Athenians' was one of them. In May it had stood white and alone on its terrace, the one on all the postcards, and I had walked round it twice; I went by it now without knowing it, and looking back from the ramp I still could not have said which it was. Above them ran a great wall of stones fitted together in curving shapes and written over in lines too small to read walking. At the top of the ramp beside it stood an altar of black stone edged with white, with smoke going up from it and a priest's assistant sluicing blood off its step from a bucket. The goat I had heard bleating its way uphill was tied to a ring at the foot of the step, alive, stripping the leaves off somebody's laurel branch; the blood on the step was some other animal's. Behind the altar stood the temple.
+Above the bend the Way doubled back and climbed past more treasuries crowded shoulder to shoulder with their doors shut. The Athenians' was one of them. In May it had stood white and alone on its terrace, the one on all the postcards; I went by it now without knowing it. Above them ran a great wall of stones fitted together in curving shapes and written over in lines too small to read walking. At the top of the ramp beside it stood an altar of black stone edged with white, with smoke going up from it and a priest's assistant sluicing blood off its step from a bucket. The goat I had heard bleating its way uphill was tied to a ring at the foot of the step, alive, stripping the leaves off somebody's laurel branch; the blood on the step was some other animal's. Behind the altar stood the temple.
 
 It had all its columns.
 
@@ -150,7 +146,7 @@ The people who built it had seen it like this and meant it like this, and they h
 
 So I went up to give it its due.
 
-The steps of the temple were a mason's steps and not a person's, each one as high as my knee, and I climbed them with a hand on each, like a child getting onto a bus. Between the columns it was suddenly cool, and the noise of the altar dropped behind me. Under my palm the stucco of the nearest column was fine and hard and very slightly gritty, marble dust in the lime, beautifully laid. Along the foot of the porch wall ran a low molding, painted with a key pattern in red and blue. I crouched to look at it, and the blue was the Egyptian blue again, coarse enough to feel under the ball of my thumb. A flake had lifted from it, and under the flake was another blue, older and paler and laid on finer, and the new blue had been slopped over the edge of the old border by a painter in a hurry who had missed a whole hand's breadth behind the column, where he thought no one would crouch. The god's house had been touched up. Badly. I had my thumbnail at the edge of the flake, and I was smiling.
+The steps of the temple were a mason's steps and not a person's, each one as high as my knee, and I climbed them with a hand on each, like a child getting onto a bus. Between the columns it was suddenly cool, and the noise of the altar dropped behind me. Under my palm the stucco of the nearest column was fine and hard and very slightly gritty, marble dust in the lime, beautifully laid. Along the foot of the porch wall ran a low molding, painted with a key pattern in red and blue. I crouched to look at it, and the blue was the Egyptian blue again, coarse enough to feel under the ball of my thumb. A flake had lifted from it, and under the flake was another blue, older and paler and laid on finer. The new blue had been slopped over the edge of the old border by a painter in a hurry who had missed a whole hand's breadth behind the column, where he thought no one would crouch. The god's house had been touched up. Badly. I had my thumbnail at the edge of the flake, and I was smiling.
 
 A hand took me by the collar of the fleece and hauled.
 
@@ -166,7 +162,7 @@ I came off my heels and round. The man holding me had a white tunic with a purpl
 
 "Get her down before the priest comes out."
 
-One of them said a word that was in none of my grammars, and the others laughed. Pilgrims had stopped on the steps to watch.
+One of them said a word I had never seen written down, and the others laughed. Pilgrims had stopped on the steps to watch.
 
 "Get your hands off me. I wasn't hurting it. Your molding's been retouched and it's been done badly, that's all, the blue's slopped right over the old border, I was only looking at the—"
 
@@ -178,7 +174,7 @@ The slave took the steps two at a time. He was barefoot and thickset, with a cro
 
 He hit me across the shoulders.
 
-I was down on one knee on the stone. The bag slid. I held the strap. He hit me again across the back, and the fleece took it, and then across the forearm I had put up, and that one I felt to the bone. The strap tore out of my hand. I was on my feet. "Down." He hit me on the hip and I went backward off the top step and down onto the next, and the next, sitting, my hands on the stone. The bag came down the steps after me and hit my legs. I took it by the handles. I stood, and he came down after me and swung and caught my wrist and the watch on it.
+I was down on one knee on the stone. The bag slid. I held the strap. He hit me again across the back, and the fleece took it, and then across the forearm I had put up, and that one I felt to the bone. The strap tore out of my hand. I was on my feet. "Down." He hit me on the hip. I went backward off the top step and down onto the next, and the next, sitting, my hands on the stone. The bag came down the steps after me and hit my legs. I took it by the handles. I stood. He came down after me and swung and caught my wrist and the watch on it.
 
 I ran.
 
@@ -204,7 +200,7 @@ His was a big slow voice, every word set down by itself and every ending given i
 
 "Titus Caesar, son of the Emperor, has taken Jerusalem of the Jews by storm. Their temple is burned and their city is thrown down to the ground, and the war in Judaea is ended by the favor of the gods."
 
-A man near the money-changer's table called out *Kalōs!* The boy put the tablet into the herald's hand, and he raised it at the full length of his arm and screwed his eyes at it, and brought it closer, and pushed it away again.
+A man near the money-changer's table called out *Kalōs!* The boy put the tablet into the herald's hand. He raised it at the full length of his arm and screwed his eyes at it, brought it closer, and pushed it away again.
 
 "Therefore," he read, "the archon Kleodamos, and the council and the people of the Delphians, have resolved that on the fourth day from now oxen shall be sacrificed to Pythian Apollo, for the safety and the victory of the Emperor Titus Caesar Ouespasianos—"
 
@@ -222,7 +218,7 @@ The herald climbed down.
 
 "The rest of you can smell it cooking," the man by the money-changer's table answered for him, and the back of the square told him what he could do with his nose.
 
-*Ouespasianos.* It took me the length of the whole repetition to get it. It was Greek trying to say a Latin name that began with a sound Greek did not have, and doing it the way the coins did, the coins I had cleaned in the lab with a cocktail stick, a thick-necked man with a nose like a doorknocker. *Vespasianus.* Vespasian.
+*Ouespasianos.* It took me the length of the whole repetition to get it. It was Greek trying to say a Latin name that began with a sound Greek did not have, and doing it the way the coins did, the coins I had cleaned with a cocktail stick, a thick-necked man with a nose like a doorknocker. *Vespasianus.* Vespasian.
 
 Titus had taken Jerusalem in the late summer of seventy. The temple had burned in August and the upper city had fallen in September; I had read it in Josephus in a seminar in my second year, in a hot room on the third floor with a radiator nobody could turn off. News like that came to Greece in weeks, by sea, and the sea was still open, and the olives were coming down in the valley behind me. It was the autumn of the year seventy.
 
@@ -242,7 +238,7 @@ She stayed where she was. "Those are a man's boots," she said. "My husband makes
 
 The herald handed the tablet back to the boy, said something short to the clerk in the doorway, who pretended not to hear, and stumped away along the colonnade with the boy trotting after him. The square came back up to its noise. My hands were lying in my lap; all through the proclamation I had been working the olive paste off them with my thumbs, one finger at a time, and they were clean, the creases still dark and the nails black, but the backs and the palms rubbed sore.
 
-The sun went off the square an hour after that. The stallholders put up their shutters, and the money-changer went off with his boy carrying the scales behind him. Two men at the fountain at the bottom of the square were still talking about the oxen. They were in no hurry, and I could follow most of it.
+The sun went off the square an hour after that, and the stallholders put up their shutters. Two men at the fountain at the bottom of the square were still talking about the oxen. They were in no hurry, and I could follow most of it.
 
 "Four oxen, he says. For the whole town? Who's going to get a mouthful off four? The council will have it all before it's cooked."
 
@@ -280,7 +276,7 @@ Under the cliffs the light was nearly gone. The pilgrims had gone in to their su
 
 I knelt on the lip of the basin and put my face in the water.
 
-The cold of it stopped my breath, and I surfaced gasping and went under again, and scrubbed at my face and neck with both hands, and pushed the sleeves of the fleece up and laid my forearms flat in the basin, and the cold bit into the welts and burned and went numb. I drank out of my cupped hands until my stomach hurt, and leaned on the lip with my sleeves dripping, and made a plan. In the morning I would go back up. The boy's track climbed from the plain, and the pen was by the firs, and the firs were below the cave, and if the cold had leaked from that rock at one-forty on a day in May it might come again on some other day, if I sat there long enough with my hand in the crack. I had the rest of the granola, and now I had water.
+The cold of it stopped my breath, and I surfaced gasping and went under again, and scrubbed at my face and neck with both hands. I pushed the sleeves of the fleece up and laid my forearms flat in the basin, where the cold bit into the welts, burned, and went numb. I drank out of my cupped hands until my stomach hurt, and leaned on the lip with my sleeves dripping, and made a plan. In the morning I would go back up. The boy's track climbed from the plain, and the pen was by the firs, and the firs were below the cave, and if the cold had leaked from that rock at one-forty on a day in May it might come again on some other day, if I sat there long enough with my hand in the crack. I had the rest of the granola, and now I had water.
 
 A woman appeared on the road with a jar on her head and a lamp in her hand.
 
@@ -288,7 +284,7 @@ She did not see me, but walked the length of the basin to the far end, where the
 
 "Boeotians," she said to the dark.
 
-She kicked off one sandal and put her foot under the overflow and stood on the other leg with her skirt held up, and let the water run over her foot, and changed feet, and stood quite still while it ran. Her face in the lamplight was broad and brown and lined across the forehead, a woman of fifty with gray hair dragged back under a dark kerchief, and her eyes were shut. When she opened them she saw me, kneeling on the lip of the god's spring in trousers, with my wet hair in my face.
+She kicked off one sandal and put her foot under the overflow and stood on the other leg with her skirt held up. She let the water run over her foot, then changed feet and stood quite still while it ran. Her face in the lamplight was broad and brown and lined across the forehead, a woman of fifty with gray hair dragged back under a dark kerchief, and her eyes were shut. When she opened them she saw me, kneeling on the lip of the god's spring in trousers, with my wet hair in my face.
 
 "Out of the basin," she said. "People drink that. Use the trough at the end."
 
@@ -308,7 +304,7 @@ I held them out. The flame was close enough that I could feel its little heat on
 
 "Turn them."
 
-I turned them palm up, and she bent over them. They were clean from the basin, and soft, and pink; there was a scar on the side of my left forefinger from a scalpel in my first year in the lab, and the scratch the thornbush had given me across the knuckles of the right, and the smooth tight shine that years of acetone had left on the pads of my fingers. The only hard place on either of them was a pen callus on the side of my middle finger.
+I turned them palm up, and she bent over them. They were clean from the basin, and soft, and pink. There was a scar on the side of my left forefinger from a scalpel, and the scratch the thornbush had given me across the knuckles of the right, and the smooth tight shine that years of acetone had left on the pads of my fingers. The only hard place on either of them was a pen callus on the side of my middle finger.
 
 "Open your mouth."
 
@@ -384,7 +380,7 @@ A short way above the spring the road turned off between houses into a lane so n
 
 "Wake her."
 
-He shut the door. My arms were on fire to the shoulder, and I shifted the jar to the other hip and nearly lost it and caught it on the wall, and she stood at the door waiting, perfectly patient, with her lamp. After a while the door opened again and a hand came out with a sieve in it, a round wooden frame with a mesh of fine horsehair. She went round the mesh with one finger before she said anything.
+He shut the door. My arms were on fire to the shoulder. I shifted the jar to the other hip and nearly lost it and caught it on the wall, and she stood at the door waiting, perfectly patient, with her lamp. After a while the door opened again and a hand came out with a sieve in it, a round wooden frame with a mesh of fine horsehair. She went round the mesh with one finger before she said anything.
 
 "There's a hole in it."
 
@@ -394,7 +390,7 @@ He shut the door. My arms were on fire to the shoulder, and I shifted the jar to
 
 The door shut.
 
-She walked on to the end of the lane, where there was a gate in a wall, and behind it a courtyard with a pomegranate tree in the middle and a staircase up the outside wall to a gallery, and from somewhere above a man was singing, not well, a song with endless verses about a girl from Corinth. There was a smell of lentils and smoke, and doors opened off the court on every side; behind two of them lamps were lit and voices were talking, and behind a third a man was already snoring.
+She walked on to the end of the lane, where there was a gate in a wall, and behind it a courtyard with a pomegranate tree in the middle and a staircase up the outside wall to a gallery, and from somewhere above a man was singing, not well, a song with endless verses about a girl from Corinth. There was a smell of lentils and smoke. Doors opened off the court on every side; behind two of them lamps were lit and voices were talking, and behind a third a man was already snoring.
 
 "Kallia!" A head leaned out over the gallery rail. "Is there any more of the lentils, or have those Thebans had it all?"
 
@@ -428,6 +424,6 @@ Kallia came back once, in the dark.
 
 "Blanket," she said from the doorway, and something heavy landed across my legs, and she was gone again; I had thanked her in neither language. It was goat hair, as coarse as a doormat, and it smelled of whoever had slept under it last.
 
-I unlaced my boots by feel and stood them against the jar. My right sock was soaked from the water I had slopped down my leg, and I worked it off and reached into the bag for a dry one, and my hand closed on the sock and the hard little oblong in its toe. I let it be and drew out the sweater instead, folded it for a pillow, and lay down. The welts on my arm had stiffened; when I lay on my back the fleece came unstuck from the place on my shoulder with a small tearing feeling, and I turned onto my side, facing the door. Upstairs the man was still singing; he had got the Corinthian girl as far as Sikyon. A voice from the gallery told him to shut up, and he sang the last line again, louder.
+I unlaced my boots by feel and stood them against the jar. My right sock was soaked from the water I had slopped down my leg. I worked it off and reached into the bag for a dry one, and my hand closed on the sock and the hard little oblong in its toe. I let it be and drew out the sweater instead, folded it for a pillow, and lay down. The welts on my arm had stiffened; when I lay on my back the fleece came unstuck from the place on my shoulder with a small tearing feeling, and I turned onto my side, facing the door. Upstairs the man was still singing; he had got the Corinthian girl as far as Sikyon. A voice from the gallery told him to shut up, and he sang the last line again, louder.
 
 The watch was loud in the dark an inch from my ear, and I lay and listened to it and worked out how early I would have to have the ashes out and the water in to be on the cart track by full light, with the plain to cross after that, and the long climb to the firs, and the cave at the top of it by noon. Somewhere among the jars a mouse had found its way into the barley, and I lay in Kallia's storeroom on Kallia's mat under the goat-hair blanket with my wrist under my cheek, and listened to the mouse and the watch going about their two small businesses in the dark, one of them in the sack and one of them close beside my head, until I slept.

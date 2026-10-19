@@ -70,7 +70,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | The Reception | Chronological | flat confession of a failure → `I-statement` | quiet image → `quiet` | 6,800 | 30–40% | present | 3 | mid |
 | 2 | Fenn's Notebook | Collage | document (a Fenn notebook entry) → `narrative` | document fragment → `long-fade` | 4,200 | 10–20% | present | 6 | mid |
-| 3 | Parnassus | Single-scene | long sensory spiral → `long-spiral` | action unfinished → `punch` | 6,800 | 5–15% | present | 0 | high |
+| 3 | Parnassus | Single-scene | long sensory spiral → `long-spiral` | action unfinished → `punch` | 5,600 (author trim 2026-10-19) | 5–15% | present | 0 | high |
 | 4 | The Goats Saw Me First | Fragmented | flat statement of fact → `short-punch` | spoken line → `dialogue` | 1,700 | 15–25% | **RECEDES** | 7 | low |
 | 5 | The Sanctuary | Chronological | scene-setting (time) → `scene-set` | long fade → `long-fade` | 8,300 | 20–30% | present | 4 | high |
 | 6 | Snow at the Cave Mouth | In medias res | mid-action → `I-statement` | spoken line → `dialogue` | 7,200 | 35–45% | present | 2 | mid |
@@ -180,7 +180,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Beat subversion:** *Genre beat:* the heroine deciphers a cryptic code to unlock the quest. *Subversion:* nothing is cryptic. Fenn wrote the coordinates plainly. The obstacle is her own decision, and she makes it while flossing.
 
 ## Chapter 3: Parnassus
-**Ledger:** Single-scene (internal shape: *walk → threshold*) · open: long sensory spiral → `long-spiral` · end: action unfinished → `punch` · 6,800 · dialogue 5–15% · theme present · 0 breaks · gear high
+**Ledger:** Single-scene (internal shape: *walk → threshold*) · open: long sensory spiral → `long-spiral` · end: action unfinished → `punch` · 5,600 (author trim 2026-10-19) · dialogue 5–15% · theme present · 0 breaks · gear high
 *(Greece, May 1998.)*
 
 **Premise:** Mara climbs from the Kalivia plateau to the Corycian Cave, follows Fenn's coordinates into its cold back recess, and walks out into the wrong season.
@@ -202,7 +202,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Device presence:** none.
 **Subtext layer:** —
 **Reading speed:** slow and sensory all the way up; one long held sentence at the threshold; then fast, short sentences outside.
-**Word count target:** 6,800
+**Word count target:** 5,600 (author trim 2026-10-19; was 6,800)
 **Writer warnings:** No portent before the cave ("something waited for me"). No voices, glow or special effects; the door is cold and silent, nothing more. No "I didn't know it then"; she doesn't. Avoid analytical simile at the crossing; prefer one characterizing comparison or none.
 **Beat subversion:** *Genre beat:* the portal opens in a blaze of light and terror. *Subversion:* it is cold, quiet and socially awkward. She notices the change only by the color of the light and a missing paint mark.
 
