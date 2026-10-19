@@ -91,8 +91,9 @@ def chap_num(f):
     return int(re.search(r'(\d+)', os.path.basename(f)).group(1))
 
 def load_text(f):
+    # HTML comments (writer/editor header notes) are not prose; never let them trip the gate.
     with open(f) as fh:
-        return fh.read()
+        return re.sub(r'<!--.*?-->', ' ', fh.read(), flags=re.S)
 
 def words_only(text):
     # strip markdown headers and telepathy asterisks; lowercase word stream
