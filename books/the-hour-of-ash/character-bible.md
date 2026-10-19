@@ -2216,66 +2216,139 @@ line each, so that walk-ons don't all sound like Mara.
     where [pron] was" (Ch.5; now "I kept my place."); "Hermes the Holder" / "hold her" (now "Hermes below", "I nail her under the
     lead"); the curse-to-notice "nailed" link (F3: the notice is "pegged to a pillar").
 
-- **At-risk after Ch.10 (Writer, 2026-10-19; Ch.10 "Kallia's Letter", one afternoon in the court, 0 breaks. Every quote below
-  is on the writer's page, checked by script; re-sync after dialogue-polish / disruptor / polish cycles):**
+- **At-risk after Ch.10 (Writer, 2026-10-19; Ch.10 "Kallia's Letter", one afternoon in the court, 0 breaks. SYNCED to the FINAL
+  page 2026-10-19, after dialogue-polish, hook-craft, the disruptor, continuity repair, polish cycle 1 and the PATH fix; every quote
+  below is on the page, checked by script. The evaluators' and the author's new items are in the next block):**
   - **The broom across the threshold: the anchor is SPENT on the page.** Ch.7 ×2 (the morning rule; "at its slant"), Ch.10 ×2 (she
     sweeps the already-swept boards in mid-afternoon, then "laid the broom over the threshold again, the head against one post and
     the handle against the other"; after the gate shuts, "Up at the last door the broom still lay over the threshold, from post to
-    post."). Spent wording: "at its slant", "head against one post", "from post to post", "over the threshold". Ch.16's sweep and
-    put-away broom (the farewell) must find a third wording and must not describe the broom's position again.
-  - **The shut door described** ("the oldest on the gallery, gray planks gone silver at the foot where the light reached, with a
-    wooden latch and a loop of cord dropped over the latch-peg"): SPENT. The room is now Ariston's by Kallia's own mouth and is
-    being let to the Elean; later chapters refer to it as the Elean's room or not at all. **The room's inside has NOT been shown.**
+    post."). Spent wording: "at its slant", "head against one post", "from post to post", "over the threshold", "nothing came over",
+    "lifted the broom off its boards". Ch.16's sweep and put-away broom (the farewell) must find a third wording and must not
+    describe the broom's position again.
+  - **The shut door described** ("The last door was the oldest on the gallery, gray planks gone silver at the foot where the light
+    reached, with a wooden latch and a loop of cord dropped over the latch-peg."): SPENT. The room is now Ariston's by Kallia's own
+    mouth and is being let to the Elean; later chapters refer to it as the Elean's room or not at all. **The room's inside has NOT
+    been shown**, and nobody has offered to open or air it (that exchange was cut as a sample-12 slot).
   - **Kallia's involuntary body reaction is the yawn** ("Kallia yawned. The yawn took her in the middle of the court, enormous. It
     stretched her face and shut her eyes, and when it let her go her eyes were running with it. A second came behind it, as big.");
     Mara misreads it as tiredness and reads faster. The yawn-as-shock is SPENT for everyone; the face/eyes channel is used. Hands
     stayed rested (no spilled, dropped or shaking thing as a reaction).
-  - **Reading aloud with the eye a line ahead of the voice** ("My eyes ran a line ahead of my voice, which was how reading aloud had
-    always gone"): SPENT. **The written-Greek-against-spoken-Greek contrast** (Ch.4, Ch.7, Ch.10: "In the lane my Greek arrived in
-    single words. Each one had to be chosen, set down and tested. The Greek on the papyrus had been chosen already, in Syria, and all
-    it wanted from me was breath.") is CLOSED at 3. "the best Greek I had spoken since October" is spent with it.
-  - **Mara's could-have-edited reflection** ("I could have left out the roof. I could have left out the father with no son of his
-    own, and read the wife as so much talk about rain. There was not a soul in that court or in that lane who could have told the
-    difference."): once; it is a two-plus-one shape, not a triad, and must not recur as a frame. **Reading a document silently after
-    reading it aloud** ("To myself it was a cheerful letter, from a man with a roof to sit on in the evenings."): once.
-  - **Mara's wrong comfort** ("He writes as one who is content there," answered by wool drawn and let run back): once. Kallia's
-    silence-with-wool is her varied reply here; the next varied reply is not wool.
+  - **How Mara reads aloud is never explained.** The eyes-a-line-ahead paragraph was cut by the disruptor and never reached the
+    final page; do not write it later either. **The written-Greek-against-spoken-Greek contrast** is at **2 on the page** (Ch.4,
+    Ch.7; the Ch.10 paragraph was cut) and stays CLOSED. **The narrator's speech ledger** (her own speech measured against elapsed
+    time: Ch.6, Ch.7, Ch.8; the Ch.10 instance cut in polish cycle 1): SPENT, and "since October / November" as her private clock
+    gets at most 1 more use in the book. The Ch.10 page carries the perfect reading as "Kallia corrected none of it. The Greek was
+    his, from beginning to end."; **"X corrected none of it" is used once.**
+  - **Mara's what-I-might-have-read reflection** is now one sentence: "Nobody else in that court or in that lane could read a word,
+    and I might as easily have made the roof into so much talk about rain and left out the father with no son of his own." Once; the
+    frame does not recur. **A second, silent reading of a document**: "I read it over again to myself, from the greeting down to the
+    date, and rolled it up." Once.
+  - **Mara's wrong comfort** ("He says the arm has knit," answered by "She drew a fresh pull of wool from the hank, and let it run
+    back."): once. Kallia's silence-with-wool is her varied reply here; the next varied reply is not wool.
   - **The neighbor-news answer** (Kallia answering a letter's greeting list with who is living, dead and married): once, CLOSED.
     "Tell him the baker's old mother is living." is said once and is never called back. **"the baker's mother" stays at 1
     book-wide (Ch.8)**: the Ch.10 page uses "his old mother" (the letter), "the old woman who slept between the baker and his wife"
     (narration) and "the baker's old mother" (Kallia), each once. Do not use any of the four again.
   - **Nikaso's sieve: CLOSED as a topic** (Ch.5 the hole, Ch.8 "a sieve of mine to mend", Ch.10 "a hole in his mother's sieve").
     Flour on the lips: once.
-  - **Kallia's questions about the wife** ("Is she Greek?" / "Can she weave?" / "Anybody keeps a house." / "A roof you sit on …
-    Where does the rain go?" / "Everywhere has rain." / "The man … Bought?"): the subtext questions are SPENT; no character asks a
-    proxy-for-happiness question in this shape again. **"It does not say."** is at 1 and "It says only a man." at 1: no third.
+  - **Kallia's questions about the wife** ("Is she Greek?" / "Can she weave?" / "Anybody keeps a house." / "A roof you sit on," …
+    "Where does the rain go?" / "They'll have enough." / "The man," … "Bought?"): the subtext questions are SPENT; no character asks
+    a proxy-for-happiness question in this shape again. **"It does not say."** is at 1 and "It says only a man." at 1: no third.
   - **Kallia says "Ariston" once** ("He can have Ariston's room, at the three obols."). The name is never in her mouth again. Mara
-    reads it once inside the letter's formula; the narration names him only as "Kallia's son" (×1). Hold "Ariston" in narration to
-    the minimum in later chapters.
+    reads it once inside the letter's formula; **the narration never names him** (the one "Kallia's son" was cut by the disruptor).
+    Hold "Ariston" in narration to the minimum in later chapters.
   - **The letter formula** ("Ariston to Kallia, his mother, greeting, and many of them. Before everything I pray for your health",
     "I pray for your health, mother, and that the gods keep you. Farewell.") is Ariston's alone; Fenn's English letters (Ch.26)
     use no formula, and no other Greek letter in the book reuses these openings.
   - **An obol set down for a reply** ("She felt in her belt for an obol and set it on the bottom stair, where I would have to pass
-    it. 'For the sheet.'"): an OPEN THREAD (Mara is to buy a sheet and write the one line). Kallia's kerchief-knot payment was NOT
-    used (it stays at Ch.6, Ch.7); her belt carried the letter and the obol.
-  - **A document described by its surface:** Ch.10 keeps it to the packet (thread, a thumb of gray clay, the tidemark) and one clause
-    on the hand ("small and level from top to foot"); no forensic paragraph on the making. The next documents (Ch.20, 26) may each
-    stand without one.
-  - **Similes spent in Ch.10:** "stiff as a dried leaf"; "the way a woman in a crowd checks her purse"; "the way I knew the year of
-    the Armada, as a date on a page with a fire in it". **Memory spent:** the crusader-castle postcard near Homs left in a library book
-    returned at Van Pelt (a 1998 object, no person; it breaks into the reading and ends on "My voice went on through the oxen without
-    me.", an act, no kicker).
-  - **The ugly sentence:** "It was the cracked one but it fit." (the plate over the soaking chickpeas). Chickpeas cleaned of grit
-    are Ch.10's chore; give the next chore-in-hand scene a different food.
-  - **Counts on the writer's page (2026-10-19):** hinge-family paragraph openers 0; "So" openers 0; "before I had [verb]" 0; "the one
-    / the only" claims 0 ("the one after" is a gate); negation pivots 0; "He meant…" 0; "as if / as though" 1 (Nikaso, "as if it
-    might say so again"); credential asides 0; and-chains 1; em-dashes 0; semicolons 4; bend / stoop / lean-over beats 0; kneel /
-    crouch 0; command echo 0 ("Water" → "I filled the dipper at the jar."; "Put a plate on those" → "I found a plate."; "Keep it out of
-    the smoke" → the cold end of the lean-to, by result); "said/told the [non-listener]" 1 ("She said it to the letter."); "[speech],"
-    he/she told X tags 0; gaze-arrival "then" 0; hearthstone shape 0; lying-awake coda 0; laughs 0; English 0; cloth smells 0; taste
-    reactions 0; Kallia sits 0; Kallia touches Mara 0; Kallia's "Then" retorts 1 ("Then drink in Elis."); Kallia hands Mara a thing
-    1 (the letter); Kallia exits 1 (the gate; the stair is a task). Spindle on the page ×5 (WATCH: spinning must not become
-    Kallia's signature stage business in Ch.11-16).
+    it." / "For the sheet."): an OPEN THREAD (Mara is to buy a sheet and write the one line). Kallia's kerchief-knot payment was
+    NOT used (it stays at Ch.6, Ch.7); her belt carried the letter and the obol.
+  - **A document described by its surface:** Ch.10's final page keeps it to a stain and a fastener at the gate ("One end of it had
+    stood in wet somewhere and dried with a brown tidemark across it. The thread round its middle was knotted under a thumb of gray
+    clay.") and two sentences at the opening ("The clay broke from the knot at the first push…"; "mostly creases"; "small and level
+    from top to foot"). The writer's version rebuilt Ch.9's curse tablet step for step (see the next block). The next documents
+    (Ch.20, 26) should each stand without a paragraph about their surface.
+  - **The reed blind** (Kallia's lean-to; "a winter's soot and a dead wasp"): a new household object (for the tracker), used once as
+    plain seasonal work. A blind let down near bad news reads as a mourning sign, so it is never used again at a moment of loss.
+  - **Similes and comparisons on the final page:** "the way I knew the year of the Armada, as a date on a page with a fire in it"
+    (kept; the chapter's one explanatory extension after the PATH) and Nikaso's look "as if it might say so again". Both spent.
+    (The writer's dried-leaf simile and the purse comparison were cut and are not on the page; the purse/pickpocket vehicle is
+    spent anyway, at Ch.8.) **Memory spent:** the crusader-castle postcard near Homs left in a library book returned at Van Pelt
+    (a 1998 object, no person; it breaks into the reading and ends on an act, "The oxen and the man to drive them went by while I
+    was at that desk.", no kicker).
+  - **The ugly sentence:** "The one on top was the cracked one but it fit." (the plate over the soaking chickpeas). Chickpeas cleaned
+    of grit are Ch.10's chore; give the next chore-in-hand scene a different food.
+  - **Counts on the final page (re-measured 2026-10-19 for this sync):** hinge-family paragraph openers 0; "So" openers 0; "before I
+    had [verb]" 0; "the one / the only" claims 0 ("the one after" is a gate; "The one on top" is a plate); negation pivots 0; "He
+    meant…" 0; "as if / as though" 1 (Nikaso); credential asides 0; and-chains 1; em-dashes 0; semicolons 3; "could have" 0;
+    explanatory extension (#11) 1 (the Armada); bend / stoop / lean-over beats 0; kneel / crouch 0; command echo 0 ("Water," → "I
+    filled the dipper at the jar."; "Put a plate on those" → "The one on top was the cracked one but it fit."; "Keep it out of the
+    smoke," → the niche, by result); "said/told the [non-listener]" 0 (sample-09's "said it to the" frame was cut: "She was
+    answering the letter"); gaze-arrival "then" 0; hearthstone shape 0; lying-awake coda 0; laughs 0; English 0; cloth smells 0;
+    taste reactions 0; Kallia sits 0; Kallia touches Mara 0; Kallia's "Then" retorts 1 ("Then drink in Elis."); "And…" dialogue
+    openers 1; Kallia's chore-replies 1; errands 0; name-asks 2; Kallia hands Mara a thing 1 (the letter); Kallia walks off
+    mid-exchange 1 (the yarn wound up, to the stair) and exits 1 (the gate, no gait or footwear); spindle on the page ×3, "wool" ×5
+    (WATCH: spinning must not become Kallia's signature stage business in Ch.11–16); "roof" ×5; "living" ×5; "cup" ×6. Dialogue
+    40% (raw 40.47%), 2,446 words by shape_check, `short-punch` → `quiet`.
+
+- **At-risk after Ch.10 FINAL (bookkeeping sync 2026-10-19, from `evaluations/chapter-10-eval.md` cycle 0 and cycle 1 (P1–P7,
+  N0–N4, Revision #1–#17, Cross-Book #1–#11, the cycle-1 PATH and bookkeeping lists), `evaluations/dialogue-chapter-10.md`,
+  `evaluations/hook-chapter-10.md`, `evaluations/disruption-chapter-10.md`, `evaluations/revision-chapter-10-continuity.md`,
+  `evaluations/revision-chapter-10-cycle1.md` and the author's `feedback/independent-review-ch6-10.md`. Most are set-piece
+  skeletons and narrator moves the n-gram gates do not see, so the Writer prompts for Ch.11 on must carry them by name):**
+  - **NEW NAMED RISK: whole set pieces rebuilt from the chapter just finished.** Ch.10's letter was built on Ch.9's curse tablet
+    beat for beat (a "It was a [sheet/strip] of [material]" sentence with a ruler from Mara's hand; the fold count; the fastener;
+    the water damage; the fastener "worked" out; the folds opened slowly with a material simile; the hand described by how its
+    lines run), and Kallia's look at the name reused Ch.9's reading-time measure for Valens at the notice. Both held the floor in
+    cycle 0. **Rule: before writing any object-handling or document scene (an object arriving, a document opened or read, a look at
+    a text, an exit), list the previous chapter's set pieces and their beat order, and stage the new one in a different order with
+    different beats.** The reading-time measure for a look (`the time it would have taken … read`, `while a slow man might read`) is
+    capped at 1 book-wide and is used (Ch.9).
+  - **Voice-bank sample-12 is the model for the no-pull chapters (Ch.10, 31, 34, 44), and Ch.10 has used it.** Its slots: the letter
+    refolded along its old creases and stowed; the room let to the man from Elis; an offer to air the room refused; the broom; an
+    offstage animal complaining; the legume chore finished. Ch.10's draft rebuilt most of these and the repairs re-nouned rather
+    than removed some (beans → chickpeas; the goat → the neighbor's blanket). **Ch.31, 34 and 44 must not rebuild its refold or its
+    ending:** no document refolded or stowed, no chore resumed or finished as the stop, no offstage complaint, no object put away,
+    no room let at the close, and no time-till-the-lamps marker as the last line. Compare the last three paragraphs' acts with
+    sample-12's and with Ch.10's before handing off.
+  - **"Could have" for a thing Mara might have mended or altered** (Ch.7 "I could have had it whole again in a week"; the Ch.10
+    draft's counterfactual pair, a sample-08 structural lift, recast in polish cycle 1): it now appears in **0** of Ch.10's
+    sentences. **Cap: 1 per chapter, book-wide**, and never as an anaphoric pair (`I could have … . I could have`, cap 0).
+  - **Explanatory extension (anti-AI #11): mind its density in short chapters.** The commercial cap is >0.8 per 1,000 words, so two
+    instances fail a chapter under 2,500 words. Ch.10 tripped it at 0.82/1k only because cycle 1 cut words around two keepers; the
+    PATH removed one (the letters rule), leaving the Armada sentence. **In a chapter under 3,000 words, allow 1; every editor cut
+    re-computes the density**, not just the count.
+  - **The Philadelphia memory insert** (author's independent read): a short standalone paragraph of 1990s memory, a precise
+    Philadelphia place, closing on a small loss of knowing. Ch.6 (Larchwood; Ray's snow tires), Ch.7 (Mrs. Dunphy), Ch.8 (the
+    Vermont brothers' tree lot), Ch.9 (the hardware store off Fortieth Street), Ch.10 (the Van Pelt postcard). **Cap: one every
+    other chapter** (Ch.10 has one, so **Ch.11 has none**; Ch.12 at most one), and **never end one on a lost name** ("Nobody in the
+    building ever learned his name", "its name had gone" are the two spent closes). A memory that breaks into a sentence, or a
+    sense with no person in it, is the alternative.
+  - **Kallia asking for a name** ("Which is his name?" / "His name again."): at 2. **No third**, in any wording, for the rest of
+    her chapters.
+  - **Kallia's chore-replies: capped at 1 per chapter** (the Ch.10 draft had 3; the one kept is "Put a plate on those, or the mice
+    will be in."). **Sending someone off on an errand instead of answering is the same device** and counts against the same cap
+    (the draft's errand was cut). Written into her card's syntax line.
+  - **Measuring a held silence by something moving: SPENT** (Ch.1 the car, Ch.5 the disc buyer, Ch.9 the oil cart; the Ch.10
+    drafts' turning spindle and moving tunic, both cut: the tunic now only dries, "A lodger's tunic was drying on the rail above
+    us."). **0 more anywhere.** A held silence is left bare, or ended by speech; nothing that moves, drips, steams, turns or casts a
+    shadow is put into it.
+  - **The narrator's speech ledger: SPENT** (above). **An object's weight or size standing in for the feeling at a section close:
+    SPENT** (Ch.1 the cassette, Ch.9 the rag; the Ch.10 draft's fatter packet was cut).
+  - **One comparison vehicle per book:** the pickpocket / purse / crowd-theft vehicle is spent at its first use (Ch.8); a vehicle
+    domain is not reused for a second comparison anywhere.
+  - **Exits by gait or footwear** (Ch.7 boots, Ch.7 the backs of her shoes, Ch.9 "at his ordinary pace" / "at a walk"; the Ch.10
+    shoes sentence was cut): cap 1 per 3 chapters.
+  - **One displaced-labor act per blow.** When a character answers bad news with work (Ch.10: the broom), a second such act goes
+    elsewhere in the chapter as plain work (the blind was moved for this).
+  - **Kallia's work-suspended tell** (Ch.7 the combs held apart, Ch.9 "Kallia's sand had gone quiet", Ch.10 the wool in her hand
+    and the pull run back): her **farewell in Ch.16 must not use stopped work or wool**.
+  - **"living" and "cup"** (Ch.10's designed in-chapter rhymes) are CLOSED after Ch.10. **The yawn** is SPENT.
+  - **Sample-09's "said it to the [object]"** frame: removed from Ch.10; the "said/told the [non-listener]" cap stays 1 per chapter
+    and must not use the sample's wording.
+  - **Walk-on "he said" relays** (the Elean): one carrier's habit in one scene, not every carrier's way of talking.
+  - **Repairs create second uses inside the chapter they repair** (Ch.10's continuity repair put "at the length of her arm" four
+    lines before a forearm ruler): every agent that adds a phrase greps it against the chapter it is repairing.
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
