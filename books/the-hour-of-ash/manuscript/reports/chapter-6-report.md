@@ -1,0 +1,49 @@
+# Writer Report: Chapter 6 — "Snow at the Cave Mouth"
+
+- **Word count:** 6,790 prose words by shape_check (wc -w 6,893 with title and comments), against a target of 7,200 and a permitted range of 6,500–7,600. Nothing is padded. The first draft came in at 4,900 words with 13% dialogue. The shortfall was fixed with new beats, not stretched scenes: the argument in the recess, Kallia asking about ships and letters, the goat-boy rumour reaching Valens, Mara's English monologue on the cliff ("Philadelphia"), the mules' Latin and the watch's spring explained on the plain, Valens's silver theory and the line about the widow's jar, the charcoal-burner's kiln, and the evidence speech.
+- **Ledger row:** In medias res (crisis → backfill → after).
+  - Opening sig `I-statement`. The first sentence starts "I had scraped…", runs 40 words, and the first paragraph has three sentences.
+  - Ending sig `dialogue`. The last paragraph is Valens's spoken line, three sentences long. It is a warning built on his misreading, a different kind of line from Ch.4's single naming word.
+  - Exactly 2 scene breaks. Dialogue 36.8% (band 35–45%). Median sentence 11 (bottom of the dispatched 11–16; same as Ch.1's mid-gear row). Strict shape audit is CLEAN.
+  - Theme present (the way back denied), carried by action, never stated.
+- **Gates (bash tools/check_chapter.sh 6):**
+  - Style: clean. Simile 1.5/1k, em-dashes 2 (both interrupted speech), one "as if", foreshadow 0.
+  - Grammar: clean. Rhythm: 0 flagged. Show/tell: no heavies.
+  - Voice-wear (strict): clean.
+  - Tic gate: clean. And-chains 5 (cap 9); credential asides 1 ("seminar"); object handling 0 in this chapter.
+  - Echo scan: **0** (123 on the first full draft, all varied).
+  - Shape: CLEAN.
+- **Emotional anchor:** hit, in the backfill. Valens's thumb covers the crown entirely, and he turns it the wrong way with great care, stopping to listen to the backward click "as if the click were what it was for". Mara lets him turn it twice more before she can speak, after one unprompted line about her father winding it at the counter while the percolator went (L272–276). The watch is never made a symbol in narration.
+- **Emotional surprise:** at the wall she hits the rock and the scream has no word in it (L504–508). Valens laughs, short and surprised, and says only "Good." There is no comfort. He gives her bread from inside his tunic, "exactly the temperature of a person" (L520). That is the line meant to stop the reader. Then he explains the laugh: "It was the first thing you did up here I understood." Then: "A thief doesn't fill the widow's jar before she goes."
+- **Beat subversion:** there is no rescue. He is a hired hauler who takes the fee the night before, holds the watch on his palm without letting go, refuses to sell it back, and erases it in the last line. The event is her failure and his laugh.
+- **Chaos moments:**
+  - Mara's failed emotional management: the plea to the rock, then the scream. The voice drops to level 1 (asides gone, plain verbs, one sense) and the asides come back after the laugh ("salted it with conviction") (L494–522).
+  - Irrelevant thought: Ray's snow tires (L354).
+  - Unprompted memories: the Larchwood neighbour and the cat litter (L92); the percolator (L274).
+  - All-or-nothing: the packed duffel carried into the cave, the vow of no Greek broken only for the mountain, chores done at midnight before leaving forever. Magical thinking: waiting for "twenty minutes short of two" because that is when the cold came in May (L32).
+  - Valens's mind-reading, wrong in mundane ways: the donkey man is "Somebody for you" (L384); hidden silver; the runaway from "a big house. Corinth, or Patrae", given as evidence in order (L668).
+- **Secondary character moments:**
+  - Kallia's own life: guarding the pomegranate against a mule, the spitting-wood grievance, and "Is the sea shut yet? … Letters." / "Nobody asked what you carry." (her son; unexplained, so Ch.10 rhymes with it). She lets Mara go with only "The shovel comes back." and "Shut the gate behind you."
+  - The charcoal burner (unnamed): talks to his kiln ("Easy, girl. Hold it in."), complains about the god's oxen, and turns out to be the goat-boy's cousin's family.
+  - A Theban on the gallery shouting for lentils.
+- **Ugly sentence:** "My nose ran and I used my sleeve and it ran again." (L334, the dark climb, a quiet moment).
+- **Impulse deviations (kept):**
+  - The goat-boy's nymph story reached Valens through the charcoal men. It gives him a reason to know where she came from, and it comes back at the kiln.
+  - Valens catches only "Philadelphia" out of her English monologue and places it in Asia. Her city is a Greek name in his world, and he still never learns her own name ("You haven't asked my name, either." / "No.").
+  - "Whoever knows where can be asked where" states his lie (be nobody) as practice, not as an aphorism.
+  - The temple painter who falls off every spring ("He's cheap") quietly pays off Mara's Ch.5 discovery of the sloppy retouching.
+  - The kiln scene gives the final warning a cause: the charcoal man will gossip, so men will come asking.
+- **Outline deviations:**
+  - The firewood delivery is the afternoon before the climb, and Valens takes the watch as payment that evening ("Paid now. Not up there. Now."), so in the cave he holds it and only lets her read the dial.
+  - The watch reads local time because Mara set it by the shortest shadow of Kallia's gatepost on her second day (one clause, L30). This avoids a continuity question from Ch.3, where it was hours off.
+  - Mara has spoken no Greek since the guide's mockery (the Ch.5 refusal). She breaks it only for Valens ("You go up on the mountain"). In front of others she still does not answer ("She doesn't talk"). The month of silence is left for Ch.7 to frame.
+  - The ascent uses the cliff stair above Delphi to the plain (towed by the gray's tail; sacking on the hooves), passes the Ch.4 pen, and arrives at the cave with snow driven under the arch. The inscription still has red in its strokes.
+  - Mara never tells him the door. That stays Ch.15. She tries once ("If I told you where I came from—") and he refuses it.
+  - The ash shovel is invented. It is Kallia's, Mara takes it to dig, and it comes back.
+- **Structural approach used:** In medias res: crisis (the recess, ten past one) → backfill (the lane, the deal, the night, the climb) → back to the wall (five to two) → after (bread, descent, kiln, evidence, the last line).
+- **Pull type:** REVERSAL / DRAMATIC IRONY. Resolved: the door is shut. Opened: (1) who does he think will come, and why is a muleteer so practised at erasing himself; (2) her father's watch is now kept by a man who has just told her it never existed.
+- **Weakest dimension (self-assessed) and how it was reinforced:** Momentum on the descent, which has two long dialogue stretches. Each one turns something: the watch refused, "A thief doesn't fill the widow's jar", the kiln lie "She's the widow Kallia's", the evidence speech. The descent ends on the reversal line rather than a fade.
+- **Flags for downstream:**
+  - The bread line ("exactly the temperature of a person") is the deliberate object-carried peak. It is a physical fact, with no romance signal in the narration around it.
+  - The median sentence length of 11 is at the bottom of the band. Raising it would mean "and"-merging short beats, which the author capped, so it was left.
+  - `character-bible.md` was updated: Valens's and Kallia's Ch.6 blocks, a Ch.6 walk-on note, an at-risk block and the change log. ENTITY_STATE.yaml was not touched.
