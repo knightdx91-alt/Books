@@ -145,6 +145,9 @@ GESTURE_WINDOW_MAX = 3
 # Bending to the work (added after Hour of Ash ch.9: a cast that bends over every task is a gesture tic too).
 GESTURE_CLASSES["bend / stoop over"] = (r"\b(?:bent|bending|bends|bend|stooped|stooping|stoops|stoop|leaned|leaning)\s+"
                                         r"(?:over|down|to|forward|close|low|closer|in)\b")
+# Kneeling / crouching / squatting (added 2026-10-19 at the author's ruling: "should definitely be limited.
+# Nothing repetitive that makes it seem like AI"). Counts every kneel, crouch and squat, deliberate or not.
+GESTURE_CLASSES["kneel / crouch / squat"] = r"\b(?:knelt|kneeled|kneeling|kneels|kneel|crouched|crouching|crouches|crouch|squatted|squatting|squats|squat)\b"
 
 # ---- PROP FIDGET layer: the same object handled again and again inside one scene ------------------
 # The Saeren lesson: a headmistress sets down her paper, takes off her spectacles, picks them up,
