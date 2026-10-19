@@ -229,6 +229,12 @@ PIVOT_BOOK_MAX = 3
 SO_OPENER_RX = re.compile(r"(?m)^(?:So|And so) (?:I|she|he|we|they|it)\b")
 BEFORE_DECIDED_RX = re.compile(r"\bbefore (?:I|she|he|we|they) (?:had )?(?:decided|thought|known|meant|chosen|realized|realised|noticed)\b", re.I)
 MOVE_CHAPTER_MAX = 1
+# The consequence hinge as a FAMILY: cap "So" alone and the habit moves to "Then… / After that… / Afterward…"
+# (it did, in Hour of Ash Ch.8: 0-3 per chapter, then 8). Paragraph openers from the family are capped at
+# max(HINGE_MIN_CAP, words / HINGE_WORDS_PER).
+HINGE_RX = re.compile(r"(?m)^(?:So|And so|Then|And then|After that|Afterward|Afterwards|Later|Next)\b[ ,]")
+HINGE_MIN_CAP = 3
+HINGE_WORDS_PER = 2500
 SO_STREAK_WATCH = 4
 
 def reflex_scan(files):
@@ -248,6 +254,10 @@ def reflex_scan(files):
         pivot_total += pivots
         so_open = len(SO_OPENER_RX.findall(t))
         before = len(BEFORE_DECIDED_RX.findall(nar))
+        hinges = len(HINGE_RX.findall(t))
+        hcap = max(HINGE_MIN_CAP, round(words / HINGE_WORDS_PER))
+        if hinges > hcap:
+            flags.append(f"hinge paragraph openers (So/Then/After that/Afterward…): {hinges} in chapter {ch} (cap {hcap}) — start on the thing itself")
         rows.append((ch, chains, cap, cred, pivots, so_open, before))
         if so_open > MOVE_CHAPTER_MAX:
             flags.append(f"'So I…' paragraph openers: {so_open} in chapter {ch} (cap {MOVE_CHAPTER_MAX}) — open on the action itself")

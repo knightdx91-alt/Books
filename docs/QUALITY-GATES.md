@@ -211,6 +211,8 @@ is deliberately narrow, so an ordinary negative sentence followed by a new one d
 Two **NARRATOR MOVES** are capped at 1 per chapter: a paragraph opening "So I…" (the narrator's consequence
 hinge) and "before I had decided/thought…" (the body outrunning the mind). A "So" opener in 4+ consecutive
 chapters prints a WATCH without failing, so the streak shows before it hardens.
+Because a capped habit moves rather than dies, the whole **HINGE FAMILY** of paragraph openers (So / Then /
+After that / Afterward / Later / Next) is also capped, at max(3, words ÷ 2,500) per chapter.
 
 A second layer, **PROP FIDGET**, follows a single object through a scene — including "it" and "them"
 back to the prop named last — and fails when it is fidgeted with (turned, set down, picked up, taken
