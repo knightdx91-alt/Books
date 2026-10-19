@@ -221,6 +221,14 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   pull); "You never had a watch"; "Forward. Till it stops, and not past."; "his hands were older than the rest of
   him"; the scar "in a ladder".
 
+- **Ch.7 as written (Writer, 2026-10-19; brief, the middle of her month of public silence):** comes to Kallia's gate with the mules for the
+  fifth coin. Mara, in her month of public silence and taught to look at men's feet, sees ONLY his boots (rawhide,
+  laced to the shin, one lace broken and knotted). Lines: "It burned." / "Oak doesn't spit." / to Mara: "She's got you
+  walking." / "You've stopped talking." / to Kallia's "She's simple": "No." Leaves without the coin. No hands, no face,
+  no romance signal; Mara wonders only whether he winds the watch before or after the mules, "and whether he
+  remembered which way". His boat lie to the burner has become Mara's legal story (Kallia adds Syracuse). Spent: the
+  boots-only sighting; "No." as his whole answer to a claim about her.
+
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
   scores. **He sees people last.** His worldview: his real life is the one he is going back to. He has
@@ -337,6 +345,29 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   That night, from the dark at the top of the outside stair as Mara leaves with the duffel and her ash shovel:
   "The shovel comes back." Mara thanks her for the blanket in English; Kallia: "Shut the gate behind you." Still
   never touches Mara, never asks her name, never speaks of herself.
+- **Ch.7 as written (Writer, 2026-10-19; winter AD 70-71):** takes the shovel back ("Then the god can put an edge back on
+  it.") and says nothing more about the mountain. Dresses Mara in the runaway girl's tunic, cord and himation ("She took
+  herself off when the grapes came in, in what she stood up in." / "Not to carry water in."). Lessons as tasks: walking
+  ("Shorter. From the knee." / "You see their feet." / "You've no ears. I answer."), SITS once to demonstrate (the only
+  time on the page; up before the stool stops rocking: "You sit like you paid for the bench."), eyes ("When a woman looks
+  at a man, she's asking him something … Out there, somebody answers her." / "In here you look at the pots."). At the
+  bath she washes standing; lies flatly for Mara ("They keep them like that where she's from." / "Over the sea." / "Pox.
+  When she was small." / "It took one on her."). Corrects Mara's Greek by saying the word while handing her the thing.
+  Her only questions about Mara's world are labor: "Where you come from, who carries the water?" / "And the wool?" /
+  "Then what do the women do all day?" / "Who pays for a pot that's broken?" / "There's no such country." / "Then why
+  aren't you in it?" To "Who sleeps in the room at the top of the stair?": "Nobody." / "Tighter, I said." The swept
+  door: every morning before her own threshold, the broom left lying across it, the rest of the house done "with the
+  other one"; she puts it back without a word when Mara borrows it. With Valens: withholds the fifth coin ("It spat."
+  / "Twice." / "keep the gray's teeth off my tree"); "She's simple." The broken jar: "Who?" / "Did he touch you?" /
+  "That jar came up from Kirrha on my own head, eleven summers ago…" and sweeps the pieces into the ash pail with her
+  foot. That night: the Syracuse plan ("You're my husband's brother's girl." / "From Syracuse." / "West, by water. Past
+  Corinth, past everywhere." / "If he asks you anything, you've a cold." / "The whole spring knows you came on a
+  boat."). At the council: "I do." / "Then who've you got for my house? You've had nobody else on that line for
+  years. Write me." She has NEVER asked Mara's name and has none to give the clerk; she hears it there. At home: "What
+  did he put?" / "What name did you give him?" / "Maira. The water." (said the Delphian way, nearer *Mera*: the first
+  time she uses a name for Mara). Last scene: "At midwinter the women climb Parnassus." / "Every other winter they go,
+  and this is the winter. You'll come. You've the boots for it." / "Dance. Drink. Freeze." / "Not as high as your
+  cave." Still never touches Mara; still never speaks of herself (the jar and the house only).
 
 #### THEANO — the Pythia; a farmer's widow off duty (glimpsed Ch.8 unnamed, shouting at crows; Ch.13)
 - **Attention / worldview:** her own body (her knees, the descent into the adyton), the priests' petty
@@ -791,6 +822,50 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   everything he said". (Removed in the sync: "like milk being poured off cream" and "Nobody learns Latin on this
   road", which are not on the page.)
 
+#### Ch.7 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+- **The baker's wife at the women's bath:** soft and heavy, a red clay lamp in her fist; in the warm room since before
+  light because "his mother has moved in on us for the winter, and that house was never built for two women who both
+  know best." Offers to singe Mara's legs with the lamp ("It doesn't hurt if you don't jump"); "She's let herself go
+  like a widow" (to Kallia's face, unremarked); finds the vaccination scar ("Somebody's marked her"); teases Kallia that
+  "Everything's over the sea with you" (Kallia once said her Thebans came by ship). Attention: bodies and household
+  feuds. No device; notices no workmanship.
+- **The girl with the mole** (bath): turns Mara's wrist to the window ("What's this white, then? Has she had a fetter
+  on?"), asks "Is she bought?", offers the burnt-horn powder ("Horn. Burnt and ground. Goat's is best."), smiling with a
+  full set of sound teeth (Mara's teeth chaos, NOT an introduction-by-teeth: she enters by the mole).
+- **The bath-keeper's wife** (takes Kallia's coin, looks at Mara over it; no line).
+- **The salt-seller** (market): broad, on an upturned measure behind a heap of gray salt with a wooden scoop. Mimics
+  nothing; DECLAIMS: "Antigone! Antigone's come down off the stage for a scoop of salt!"; gives more salt than the obol
+  buys and pushes the coin back ("Come again tomorrow and ask for pepper, Antigone. My sister's never seen a play.").
+  At the spring she stops the drover: "Leave Antigone alone." / "She's Kallia's." / "Kallia's, and Kallia has a tongue on
+  her and the council's ear, and you've got four donkeys drinking the god's water at the wrong end of his basin…"
+  Her grievance is the donkeys at the wrong end of the basin. "Antigone" is HER name for Mara: 3 uses in Ch.7, CAP
+  REACHED — if she returns she calls Mara something else or nothing.
+- **The sprat-seller** (next stall, never raises her head): "Tell her to bury her brother first, the salt will keep."
+- **The drover from the west** (Amphissa or beyond; donkeys; morning wine): "Here's the simple one." / "Kallia's simple
+  one. Is she simple all over, or only in the mouth?" / "Look at me, simple." / "She's nothing to you … She's nothing to
+  anybody. Ask round this spring." / "Kallia's what?" Takes her wrist; she drops the jar. He is NOT asking after Mara
+  (the Ch.7-8 rule holds): he is a man at a spring.
+- **The four men in the latrine** ("Thirty-two the jar at Kirrha … the Jews' war … what have the Jews got to do with
+  my—"). **The cheese-man** from the valley villages (no line). **The Thebans**: the bassoon voice on the gallery ("Put a
+  cushion under it, and another girl under the cushion!"); "Kallia, is she a goat, that she eats the hedge?" **The
+  father with three sons and a boundary wall** (council hall): "Some of us have a wall coming down, Sosandros." **The
+  clerk's boy** (carries the brick).
+- **Mention only:** "the girl" who ran off at the vintage (UNNAMED by design; her himation, quince hair oil, a dark
+  crimped hair in the fringe, a hurried darn); the young man in the good cloak past the running track (Ch.5's
+  procurer, by place only); the nurse at a pediatric clinic in West Philadelphia (the smallpox vaccination); a
+  friend's husband's gin and tonic on Rittenhouse Square; Mara's father driving a rented Fiat from Catania to Syracuse
+  when she was fourteen (papyrus fountain, ducks, gelato); the offprints from Nicosia printed "Aimilios Reyes", one
+  pinned to the corkboard by the telephone; Mrs. Dunphy (see her card; Ch.7 surfacing done).
+- **Spent in Ch.7 (do not reuse):** "a piece of luck lying in the road for whoever bent down first"; "the way a clerk at
+  a counter wanted a zip code"; "quince or something with ambitions to be quince"; "bagged into the shape of another
+  woman's arms"; "like a woman carved on a grave"; "You sit like you paid for the bench"; "In here you look at the pots";
+  "the price of oil stopped"; "a woman stripped of her clothes in that room was a document"; the cow's-pox aside;
+  "a different word with the same lentils in it"; "correct was an accent like any other"; Antigone / bury your brother;
+  "the lane gave way back"; "There's no such country." / "Then why aren't you in it?"; "the knot standing up like a
+  little fist"; "the boots took themselves off"; "I had heard the boat invented"; "a city tied onto it"; "a sea-nymph or
+  a star with four legs"; "the boundary wall came forward with its three sons"; "the least lasting surface in Delphi";
+  "light at both ends"; "nobody in there understood it"; "the hedge was better company than he was".
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -882,6 +957,42 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **DISTINCTNESS GUARANTEE:** a silent, mutating memory, against Emilio, a remembered voice. Each surfacing
   enters with a different sentence (never "I thought of Mrs. Dunphy" twice).
 - **Sample line:** none. She never speaks.
+
+#### SOSANDROS — clerk to the Delphian council; enters households on the tribute lists (Ch.5 unnamed, "the thin man in the doorway" who corrects the herald; named Ch.7)
+- **Attention / worldview:** correct forms. Titles in full, a city's proper name ("Syrakousai"), the right column for a Theban
+  ("they're on the Boeotian list"), who pays for the wax. His own comfort comes second, and only just: the cold
+  in his feet. He does not care who a person is as long as the line is complete.
+- **Vocabulary band:** official Delphian Greek; register-words (bought / born in the house / free, kin, "who
+  answers for her"), council business, festival lore ("the Pythian games").
+- **Syntax fingerprint:** **the form's questions, in the form's order**, clipped to a word or two ("Name." "Daughter
+  of?" "Kin?"); one dry put-down per encounter, delivered without looking up; corrections given as the bare
+  right word ("Syrakousai").
+- **Rhythm:** question, write, question; a single longer sentence only when he is pleased with himself (his
+  Syracusan at the games).
+- **Evasion — never says:** any question he would have to write the answer to twice. He does not ask how a name is
+  spelled; he writes MAIRA. He never asks a person anything about herself that the form does not.
+- **Physicality / silence:** thin; head down over the wax book; a hot brick wrapped in rag under his feet, fetched
+  back from the brazier by a boy; warms each wax leaf over the brazier before he writes. No fidget: the stylus
+  moves only to write.
+- **Verbal tic:** none — distinguished by syntax (the form's questions, in order) and attention (correct forms)
+- **Bleed guard:** he must not notice workmanship or materials (Mara reads the wax and the pale letters, not he);
+  must not take on Kallia's labor-reckoning (his costs are the council's: wax, fee). His correction move ("the
+  bare right word") is spent twice on the page (Ch.5 the titles, Ch.7 the city): **do not give him a third
+  correction in the same shape** if he returns; vary.
+- **DISTINCTNESS GUARANTEE:** the official who corrects the name of a city and misspells a woman without asking,
+  against the Ch.17 Corinth archive clerk, who is bored, eats figs and corrects nothing.
+- **Sample line:** "Bring me the father's name and the city, and spare me the rest; the wax is cold enough."
+- **Ch.7 as written (Writer, 2026-10-19):** at a table at the end of the council hall beside the square, a line of
+  householders before him, the tribute lists (the talk that the new emperor is taking back Nero's "freedom" is
+  at the spring; nobody knows when). Lines on the page: "Kallia. The lodging over the spring." / "Boy, the brick.
+  Who's in it?" / "Bought, born in the house, or free?" / "Kin?" / "Syrakousai," (correcting her) / "And what is a
+  girl from Syrakousai doing in Phocis at the year's end?" / "Name," (to Mara) / to the father with the wall:
+  "Your wall has been coming down through three councils. It will stay up for one widow." / "Sicilian … They all
+  talk like that over there. I heard a Syracusan at the Pythian games once who asked for a cup of water like a man
+  in a play." / "Daughter of?" / "A Roman." / "And who answers for her? A free woman wants someone to answer for
+  her." / "A woman can't answer for—" / "Two obols, and don't tell me the god pays for wax." / "Next." Writes
+  MAIRA (alpha, iota) without a question. The entry: *Maira, daughter of Aimilios, of Syrakousai; free; kinswoman
+  of Kallia, of her house and in her keeping.* Kallia calls him by name; he calls her by hers.
 
 ---
 
@@ -1022,6 +1133,22 @@ line each, so that walk-ons don't all sound like Mara.
     story told by a third party** (Valens, the charcoal burner): SPENT; the rumor is not retold again.
   - **The flashlight (Ch.6):** in the duffel, unused in the cave, kept from Valens's sight ("I had let him burn his
     pines rather than have him see it"). The Ch.5 rule stands: any use must reckon with being seen.
+- **At-risk after Ch.7 (Writer, 2026-10-19):**
+  - **A walk-on reading Mara's body for ownership marks** (the pale watch band as a fetter, the vaccination scar as a
+    brand, at the bath): used once, SPENT. The scar and the band may recur as objects only, in fresh words.
+  - **Mara mocked for her Greek in public** (Ch.5 the son and the guide; Ch.7 the salt-seller's "Antigone"): three
+    chapters' worth, CLOSED. Her accent may draw a remark, never another set-piece of mockery.
+  - **"Antigone"** as the salt-seller's name for Mara: 3 uses in Ch.7, CAP REACHED.
+  - **Kallia answering a question about the shut room** ("Nobody." / "Tighter, I said."): once. Ch.10 explains; nothing
+    before then.
+  - **The broom across the threshold**: Ch.7 shows it twice (the morning rule; the last morning). Ch.10 has the anchor;
+    word it fresh there and do not show it again in Ch.8-9.
+  - **Kallia's "you've no ears / I answer"**: the lesson is given once; do not have her repeat it as a rule.
+  - **"simple"** as the town's word for Mara: the drover says it three times in one speech, and Kallia says "She's
+    simple" once, to Valens. Retire the word for Mara after Ch.7.
+  - **Mara answering to "Mera/Maira"**: the name is now on the page; vary how others address her and never make the
+    misspelling a running joke.
+  - **Credential asides**: Ch.7 has 1 (grammar). Keep it low.
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
   used as a scene button.
@@ -1181,3 +1308,11 @@ finalizing the chapter. Never add a tic to fix it.
   practical-order deflection (SPENT until Ch.12), Mara's voice failure (retired Ch.7–9), "Men will come asking"
   (once), footing orders (watch), the "did not X; she Y" pivot, "He meant…" glosses (≤1/chapter), the English
   speech CLOSED at three chapters, and the chain's smaller items. Tic-bearer roster still NONE.
+- 2026-10-19 (Writer, Ch.7): added SOSANDROS (council clerk; the Ch.5 "thin man in the doorway", named here by Kallia) as a
+  minor named card: the form's questions in order, corrects a city's name and writes MAIRA without asking; tic: none.
+  Extended KALLIA (lessons as tasks, sits once, the labor questions about Mara's country, the swept door with "the other"
+  broom, the Syracuse plan, "Maira. The water.", the midwinter invitation), VALENS (boots only, "No."), and the Ch.7
+  walk-ons (baker's wife, girl with the mole, salt-seller, sprat-seller, drover, latrine men, Thebans, the father with
+  the wall). The runaway girl stays UNNAMED. At-risk list: the Ch.7 block added (body read for ownership marks SPENT;
+  public Greek-mockery CLOSED; "Antigone" cap reached; "simple" retired). No device collisions: nobody counts, lists or
+  prices; only Mara notices the wax, the weave and the darn. Tic-bearer roster still NONE.
