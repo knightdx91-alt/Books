@@ -1396,28 +1396,37 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   the sun here is a thing they would not believe."
 - **Status: MENTION-ONLY (by letter).** He never appears; his voice reaches the page only as the letter Mara reads aloud.
   Verbal tic: none — distinguished by vocabulary band (Greek letter formula) and evasion (no "home", no room, no return).
-- **Ch.10 as written (Writer, 2026-10-19; every quote is on the page):** the letter "had been folded down very small", "A thread
-  went round it twice, sealed at the knot with a thumb of gray clay", "a brown tidemark across it"; sent from Emesa "on the
-  twentieth of Hyperberetaios" (autumn AD 70), it "came over from Corinth on a coaster at the back end of the sailing, and then the
-  sailing stopped", hung all winter "on a nail behind his jars" at a Kirrha wine-seller's, and came up with the Elean pilgrim. The
-  hand inside "small and level from top to foot" (a scribe's or his own: the page does not say). **Formula:** "Ariston to Kallia,
-  his mother, greeting, and many of them. Before everything I pray for your health, and every day I make an offering for you to the
-  gods of this place, though you would not know their names." **News:** "with the cohort before Jerusalem from springtime until
-  the city was taken"; "the left arm, which a stone off the wall broke above the elbow. It has knit, but it will not straighten";
-  "the prefect has given me my discharge before my time, with the money that goes with it"; "Forgive me the two years." (Kallia:
-  "Two and a half … At the vintage."); "Nobody was going west, and after that there was the war. The year before it I took a wife
-  here: Domna, the daughter of Iamblichos, who sells horses to the cohort. She is a good wife to me. Her father has no son, and he
-  calls me his."; the child due "before the middle of the winter", "If it is a boy, he will be named for her father, as they do
-  here."; "In the evenings the whole house goes up on the roof … the mountains past it, which keep their snow until the summer.";
-  land "on the river half a day below Emesa … wheat land, with olives along the bank already, and water runs past the door in a
-  channel all summer. I have a yoke of oxen, and a man to drive them, since I cannot." **Greetings by name:** Nikaso and her
-  husband; Philista ("whose drum it was I put my foot through"); the baker and Sostrata, "and his old mother, if she is living";
-  Thrasyllos "who let me take his mules to the harbor"; "Glauke's girls at the spring, both of them". **Close:** "I pray for your
-  health, mother, and that the gods keep you. Farewell." Address on the back: "to Kallia, at Delphi, at the lodging above the
-  Castalian spring, from her son." **Nothing for the house, the room or a return.** No kin in Syracuse is mentioned (the register's
-  "Aimilios of Syracuse" stands untouched). Canon now fixed: wife Domna, daughter of Iamblichos (horse dealer to the cohort); a child
-  born by midwinter AD 70-71, sex unknown to Delphi; discharged early for the left arm; land below Emesa on the river (the Orontes,
-  unnamed on the page).
+- **Ch.10 as written (Writer, 2026-10-19. SYNCED to the FINAL page 2026-10-19, after dialogue-polish, hook-craft, the
+  disruptor, continuity repair, polish cycle 1 and the PATH fix; every quote is on the page, checked by script):** the letter
+  "had been folded down very small"; "One end of it had stood in wet somewhere and dried with a brown tidemark across it. The
+  thread round its middle was knotted under a thumb of gray clay." (polish cycle 1 cut the material sentence, the hand-ruler and
+  the fold count, which rebuilt Ch.9's curse tablet). Sent from Emesa "on the twentieth of Hyperberetaios" (autumn AD 70), it "came
+  over from Corinth on a coaster at the back end of the sailing, and then the sailing stopped", hung all winter "on a nail behind
+  his jars" at a Kirrha wine-seller's, and came up with the Elean pilgrim. Opened: "Unfolded, the papyrus was mostly creases and
+  needed both my hands to keep it flat. The hand inside was small and level from top to foot." (a scribe's or his own: the page
+  does not say). **Formula:** "Ariston to Kallia, his mother, greeting, and many of them. Before everything I pray for your health,
+  and every day I make an offering for you to the gods of this place, though you would not know their names." **News:** "Know that
+  I was with the cohort before Jerusalem from springtime until the city was taken. I have come out of it alive and whole, all but
+  the left arm, which a stone off the wall broke above the elbow. It has knit, but it will not straighten. On account of it the
+  prefect has given me my discharge before my time, and paid me out what I had saved at the standards." (savings at the
+  standards, not a bounty: continuity W-04); "Forgive me the two years." (Kallia: "Two and a half," … "At the vintage."); "Nobody
+  was going west, and after that there was the war. The year before it I took a wife here: Shalmath, the daughter of Iamblichos,
+  who sells horses to the cohort. She is a good wife to me, and keeps my house well. Her father has no son, and he calls me his.";
+  "She is with child. Her mother says it will come before the middle of the winter. If it is a boy, he will be named for her
+  father, as they do here."; "In the evenings the whole house goes up on the roof. From there you can see the river, and the
+  mountains past it, which keep their snow until the summer."; "With the money from the cohort and what came with her, I have
+  bought land on the river half a day below Emesa. It is wheat land, with olives along the bank already, and water runs past the
+  door in a channel all summer. I have a yoke of oxen, and a man to drive them, since I cannot." **Greetings by name:** "Greet for
+  me Nikaso and her husband. Tell Philista I have not forgotten whose drum it was I put my foot through. Greet the baker and
+  Sostrata, and his old mother, if she is living, and Thrasyllos who let me take his mules to the harbor, and Glauke's girls at
+  the spring, both of them." **Close:** "I pray for your health, mother, and that the gods keep you. Farewell. Written at Emesa, on
+  the twentieth of Hyperberetaios." Address on the back: "to Kallia, at Delphi, at the lodging above the Castalian spring, from her
+  son." **Nothing for the house, the room or a return** ("For the house there was no line, nor for anything under its roof.").
+  No kin in Syracuse is mentioned (the register's "Aimilios of Syracuse" stands untouched). The letter ends in the lean-to niche,
+  "in behind the cumin". Canon now fixed: wife **Shalmath** (not Domna), daughter of Iamblichos (horse dealer to the cohort); a
+  child born by midwinter AD 70-71, sex unknown to Delphi; discharged early for the left arm, paid out his savings at the
+  standards; land below Emesa on the river (the Orontes, unnamed on the page). The architect's sample wordings above ("very many
+  greetings", "Before all things") are calibration only and are not on the page.
 
 #### MARCUS — Plautia's son, b. autumn AD 64; aged 9 when glimpsed (Ch.22, spring 74)
 - **Attention / worldview:** what he has been told to do; his mother's face, which he is relearning.
@@ -1553,15 +1562,20 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   Kallia, who expects only to have to carry it.
 - **Sample line (calibration only; replaced 2026-10-19 because "lentils" as a joke is SPENT):** "You'll have it back by the
   feast, won't you? If it's late she'll say I sold it."
-- **Ch.10 as written (Writer, 2026-10-19; every quote is on the page):** comes in at Kallia's gate "at a run", "from three gates
-  down, with flour on her hands and her black hair half out of its pins". "Kallia! That boy from Elis is at the lions telling
-  everybody he brought you something written, from as far as Syria. Is it him? Is he living?" / her chaos on the page: "Nikaso put
-  both hands over her mouth, and when she took them away there was flour on her lips." / her axis, the worry answered herself: "He'll
-  be home for the god's day, won't he? And your sieve still at my house with the hole in it. Who'll he hear that from first? His
-  mother. And then it's me that put a hole in his mother's sieve." / "Me? He remembers me?" … "He used to drop snails in my water
-  jar." / "A child." … "And you out here spinning. I'd have been at the lions by now. I'd have told every woman with a jar." / "I'll
-  stand him two," and the news goes down the lane gate by gate: "Syria, and a wife, and a child." She takes the good news as good
-  news (the chapter's public face of it). The sieve is now CLOSED as her topic; "Maira" in her mouth: 0 in Ch.10.
+- **Ch.10 as written (Writer, 2026-10-19. SYNCED to the FINAL page 2026-10-19, after dialogue-polish, hook-craft, the
+  disruptor, continuity repair, polish cycle 1 and the PATH fix; every quote is on the page, checked by script):** "Somebody came
+  in at the gate at a run. It was Nikaso, from along the lane, with flour on her hands and her black hair half out of its pins."
+  (no gate count: polish cycle 1 cut "three gates down" to keep ENTITY CH10-5 consistent with Ch.8's "Midway along the lane").
+  "Kallia! That boy from Elis is at the lions telling everybody he brought you something written, from as far as Syria. Is it
+  him? Is he living?" / "The gods be thanked." and her chaos on the page: "Nikaso put both hands over her mouth, and when she took
+  them away there was flour on her lips." / her axis, the worry answered herself: "He'll be home for the god's day, won't he? And
+  your sieve still at my house with the hole in it. Who'll he hear that from first? His mother. And then it's me that put a hole
+  in his mother's sieve." / "Me? He remembers me?" … "He used to drop snails in my water jar." (she looks at the papyrus "as if it
+  might say so again", the chapter's one "as if") / one speech, no look between its halves (the disruptor cut the look): "A
+  child. And you out here spinning, with a grandson in Syria. I'd have been in the lane with it already, telling every woman with
+  a jar." (her joy runs ahead of the facts: she assumes a boy) / "I'll stand him two," and the news goes down the lane gate by
+  gate: "Syria, and a wife, and a child." She takes the good news as good news (the chapter's public face of it). The sieve is now
+  CLOSED as her topic; "Maira" in her mouth: 0 in Ch.10.
 
 #### SOSTRATA — the baker's wife (the Ch.7 bath walk-on, named in Ch.8)
 - **Attention / worldview:** bodies and household feuds, above all her husband's mother; she turns a grievance into a
