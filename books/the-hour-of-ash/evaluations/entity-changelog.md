@@ -964,3 +964,83 @@ Re-sync of ENTITY_STATE.yaml to chapter-7.md as it stands (last written 17:25:38
   - the timeline's "till the thaw" +p144
 - Audit trail: `meta.revalidation_needed` (chapter 7, RESOLVED), the header comment and `paragraph_rule`.
 - The YAML parses with `yaml.safe_load`.
+
+---
+
+## 2026-10-19: UPDATE (chapter 8, final text: post-writer, dialogue-polish, hook-craft, disruptor and continuity repair)
+
+**Trigger:** chapter loop step D.5 for chapter 8. Mid-run, the orchestrator reported the book-editor's continuity repair (`evaluations/revision-chapter-8-continuity.md`, from `evaluations/continuity/chapter-8-audit.md`). The draft update was then re-checked against the repaired file before it was written.
+**Inputs read:**
+- `manuscript/chapters/chapter-8.md` in its final state (last written 18:59): 241 prose paragraphs, no breaks, one shard, 7,691 words by shape_check. A paragraph diff against the pre-repair text shows no renumbering and text changed inside 29 paragraphs.
+- The existing `ENTITY_STATE.yaml` (`last_updated_chapter: 7`); outline.md Ch.8–9 (and Ch.11–13 for the Oracle thread); character-bible.md (Nikaso, Sostrata, Timo, Philista, Theano, the Ch.8 walk-on note, Kallia, Valens); the repair log; the audit (its priority table and suggested patches).
+
+**Meta:** `last_updated_chapter: 8`; `chapters_tracked: [1..8]`; `paragraph_rule` extended to Ch.8 (with a rough map and the repaired paragraphs); a new `revalidation_needed` row (chapter 8, RESOLVED in the same run). 921+ `ch-08:pYY` cites, all in p1..p241. Every quoted phrase on a new Ch.8 line was machine-checked against its cited paragraphs in the final file. The only misses left are deliberate: pre-repair labels, outline quotes, and the tracker's retired plan row. The YAML loads under a strict loader with no duplicate keys.
+
+### Replaced (plan → prose)
+- Mara's Ch.8 location log and arc waypoint.
+- Theano's `first_appearance` and Ch.8 location row.
+- Kallia's planned row "Mara means to consult the Oracle" (told_by:mara-reyes) is replaced by prose rows (CH8-1).
+- Timeline row 8: "a few days past the turn of the year by my private reckoning" (p7) settles the old note. Midwinter falls after 1 January AD 71.
+- `hand-at-threshold` Ch.8 occurrence. `thyiades-midwinter` PAID and **closed**.
+- The corycian-cave "nothing (Ch.8)" row and the Parnassus and Thyiades rows are confirmed.
+
+### Added
+- **Renamed:** `bakers-wife-bath` → **`sostrata`** (`former_slug` kept), because the page links them ("the woman who had offered to singe my legs at the bath", p46; named p48–p49). Index refs updated.
+- **New characters:**
+  - **`nikaso`**: the sieve neighbour's wife (p17–p18; the relationship key `sieve-neighbors-wife` is now `nikaso`). Her husband's sister's red sandals. She tells the frozen-cloaks story on the stair. She has a `gossip_risk` (she knows about the cave).
+  - **`timo`**, **`philista`**.
+  - **`woman-at-the-lions`**: the unnamed stranger in the goat-hair cloak.
+  - Walk-ons: `liknon-bearer`, `fawnskin-woman`, `stair-scouts`, `crying-mother-pen`.
+  - Mention only: `nikasos-sister-in-law`, `timos-husband`, `sostratas-husband`, `philistas-husband`, `vermont-tree-brothers`.
+- **Theano:** an identity known to the outline but not to Mara (`ch8_identity`). On the page she is an unnamed old woman at the last gate but one, throwing barley over the frozen ruts with "her eyes on the crows". Mara records no knowledge of her until Ch.13.
+- **Mara:**
+  - Physical: `worn_ch8` (the himation drawn over her hair; a bronze pin; a wet ivy ring; blanket rags over the boots), `carries_ch8` (split oak; a pine plus "another two pines"; NOT the flashlight; two brass coins), `marks_ch8`, `hunger_ch8` (the wine), `hair_ch8`.
+  - Traits (10): her Greek in public, uncontracted; the repairer's eye; the sandal saved; a fair test with no blow; partial comprehension of overlapping talk; belonging (the joke, "I was laughing too", the refrain); money; the Vermont tree-lot memory.
+  - 18 knowledge rows; `knowledge_absent_ch8`.
+  - New aliases: "the Syracusan" and "You at the lions".
+  - Relationships with the five women.
+  - The continuity commitment is checked: no English in Ch.8.
+- **Kallia:**
+  - `hair_ch8` (seen "only once before, plastered flat at the bath"); `clothing_ch8`; `household_ch8`.
+  - 10 traits, including "crouched … stayed crouched" (never sits) and "Did you find what you went for?".
+  - Knowledge (inferred: the cave; told: "No. It was shut."; prior: the Oracle's terms); `knowledge_absent_ch8`; possessions (the wineskin, split oak, ivy); location row and waypoint.
+- **Valens:** `seen_ch8` (from behind at the last roof, with the gray); a trait; a location row (whose building it is is not stated); `knowledge_absent_ch8`; a waypoint.
+- **Objects:**
+  - New: `liknon`, `thyiades-wineskin`, `nikasos-red-sandals` (chekhov_open, unplanned), `strangers-goat-hair-cloak` (the shared cloak).
+  - Updated: `borrowed-himation` (soaked, frozen, cracked; last mention p222), `flashlight` (left under the stair, p10), `taxi-drachma-coins` (both brass), `kallias-ash-shovel` (the scratches recalled), `kallias-sieve` (Nikaso still owes the mending), `maras-duffel`, `fathers-seiko-watch` and `kallias-broom` (both absent).
+- **Locations:** Ch.8 facts for kalivia-plateau (the dancing ground; the pen, now edge-set with the hurdle dragged aside; the huts "the width of the plain away"), corycian-cave (drift; the pale stone to the left; the slab; the scratches; "January cold and no more"; a distance row), parnassus, delphi (the upper-town street with frozen ruts and rime; the last roof; the lower town), castalian-spring, kallias-house, cliff-stair-above-delphi (the stair shut by a head-high drift), syracuse, kirrha, athens and philadelphia.
+- **Knowledge index:**
+  - New **`cave_visit_ch8`**: Mara; Kallia (inferred plus told); Nikaso (told); nobody else; Valens not shown.
+  - New **`oracle_access`**.
+  - Rows added to `mara_origin`, `maras_name` (Timo and Nikaso say "Maira"; the path is not shown) and `syracuse_cover` (now public as "the Syracusan"; no husband, "Not even a dead one").
+- **Threads:**
+  - New **`oracle-access`** (opened Ch.8, payoff Ch.13).
+  - Ch.8 notes on the-where, romance, valens-known, kallias-son ("not husbands and not sons"; "Who would I send in?"), mending-the-seam, nymph-rumor (not retold), syracuse-cover, maras-english-to-herself (held), maras-greek-refusal, kallias-fifth-coin and the four relics.
+- **World rules:** `ch8_observed` on the shut door, the winter limit, the door answering nothing, women and the Oracle, the winter closing of the Oracle, and the shut roads. Three new OBSERVED rules: no talk of men until the god is woken; the child woken in the winnowing basket; snow shutting the stair (and frozen cloaks).
+- **Organizations:** thyiades gets its name on the page, the order of the night, Philista and the Athenians, the night in the pen, and its named members.
+- **Timeline events:** 6 rows (the night; "the time before last"; the winter the spring froze; Timo's wedding; Sostrata's twenty years; the Vermont lot).
+
+### Contradictions
+- **CH8-1 (low, OPEN):** the outline says "she has decided to consult the Oracle (Kallia mentions it on the descent)". On the page Kallia raises it unasked, as a conditional, on the way back to the cliff head. Mara states no decision, and there is no descent on the page.
+- **CH8-2 (info, OPEN):** Theano. The plan has the god's barley, the sanctuary crows and a lie. The page has her own door, "That's not for you", and no lie. Her identity rests on the outline only.
+- **CH8-3 (info, OPEN):** in Ch.7 the cliff-top-to-cave ride took "the better part of a morning"; in Ch.8 the plain alone took "most of a morning".
+- **CH8-4 (info): RESOLVED by the repair.** "Stacked" walls and a vanished hurdle became edge-set walls with the hurdle dragged aside.
+- **CH8-5 (info, OPEN):** Nikaso's gate is "Two gates up from Kallia's", while the sieve door is "halfway along" the lane.
+- **CH8-6 (info, OPEN):** the bible's Ch.8 notes quote pre-polish and pre-repair text: "Hitch that up"; a silence where the page has "Who would I send in?"; "Was it shut?"; Theano's "Thieves"/"whose it is"; the knotted strap; Plutarch; Kallia sitting; "no stopping it"; "a bank at Fifteenth and Market"; and others. This waits on the bible sync (W-20).
+- **CH8-7 (info, OPEN, new from the repair):** "another two pines" but only one change of torch, called "the last of my pines".
+- **CH3-7: RESOLVED.** Closed on the guardian's recommendation, relayed by the orchestrator. The conflicting value was the tracker's own retired plan row.
+- **CH3-3: still open,** updated. Ch.8 is a fourth look at the site and it is still a pen, now edge-set. The audit recommends patching outline Ch.4 to "pen".
+- **All other open items** were re-checked with `recheck_ch8`; Ch.8 does not touch them. P5 gets a ch8_note.
+
+No knowledge_gap. Kallia's cave question has a path (ch-07 "your cave"), and after the repair she does not presume the cave opens. "The Syracusan" and "Maira" in the women's mouths are town talk, and the path is not shown. No needs_review.
+
+### For Ch.9–10
+- **The decision is not on the page (CH8-1).** Ch.9 must show Mara deciding to consult, or show it already made. Kallia was told no intent. What she has from Ch.8 is "If it's something you want out of that mountain …".
+- **What Mara knows about the Oracle:** no answers in winter; once the road is clear he answers "whoever's paid"; women can't go in, so a man goes in; "It costs. More than you've got. Ask a priest." The pelanos, the goat, the sponsor and the day are new in Ch.9. Kallia has nobody to send ("Who would I send in?").
+- **Money:** she has two brass 1998 coins and nothing else, and her worth in Phocis is "anybody's guess". The flashlight is still hidden at the bottom of the bag under the stair.
+- **Who knows about the cave visit:** Kallia ("In there"; "No. It was shut.") and Nikaso ("To see if it was open"). Nikaso's discretion is not shown. Valens did not see Mara.
+- **Public identity:** "the Syracusan", "Maira", no husband, "not even a dead one". Kallia's order for questions is "what I told the clerk, and not a word over".
+- **New neighbours:** Nikaso (two gates up; owes the sieve's mending; red sandals, one ruined) and the stranger at the lions (unnamed; the patched strap). Sostrata, Timo and Philista are named and carded. Kallia still never touches Mara and never sits.
+- **Valens:** last seen at the last roof with the gray. His danger (the notice) is untouched. Ch.9 has him reading it in the agora.
+- **Spent per the bible:** the threshold form, the shared laugh, the baker's song refrain, "She'll have my eyes", "You at the lions", and "the last house" (cap reached). Theano stays unrecognised until Ch.13.
+- **Ch.10:** the swept room is pre-planted only by "not sons" and "Who would I send in?". No son is named.
