@@ -222,6 +222,15 @@ PIVOT_RX = re.compile(r"\b(?:did not|didn't|was not|wasn't|were not|weren't|woul
 PIVOT_CHAPTER_MAX = 1
 PIVOT_BOOK_MAX = 3
 
+# NARRATOR MOVES the evaluator kept freezing by name (Hour of Ash, Ch.1-7): a paragraph that opens "So I…"
+# (the narrator's consequence hinge) and "before I had decided/thought…" (the body outrunning the mind).
+# Each is fine once; as a habit it is a voice tic. Cap 1 per chapter. A "So" opener in 4+ consecutive
+# chapters is printed as a WATCH (not a failure) so the streak is visible before it hardens.
+SO_OPENER_RX = re.compile(r"(?m)^(?:So|And so) (?:I|she|he|we|they|it)\b")
+BEFORE_DECIDED_RX = re.compile(r"\bbefore (?:I|she|he|we|they) (?:had )?(?:decided|thought|known|meant|chosen|realized|realised|noticed)\b", re.I)
+MOVE_CHAPTER_MAX = 1
+SO_STREAK_WATCH = 4
+
 def reflex_scan(files):
     rows, flags = [], []
     pivot_total = 0
@@ -237,7 +246,13 @@ def reflex_scan(files):
         cred = sum(len(rx.findall(nar)) for rx in creds)
         pivots = len(PIVOT_RX.findall(re.sub(r"\s+", " ", nar)))
         pivot_total += pivots
-        rows.append((ch, chains, cap, cred, pivots))
+        so_open = len(SO_OPENER_RX.findall(t))
+        before = len(BEFORE_DECIDED_RX.findall(nar))
+        rows.append((ch, chains, cap, cred, pivots, so_open, before))
+        if so_open > MOVE_CHAPTER_MAX:
+            flags.append(f"'So I…' paragraph openers: {so_open} in chapter {ch} (cap {MOVE_CHAPTER_MAX}) — open on the action itself")
+        if before > MOVE_CHAPTER_MAX:
+            flags.append(f"'before I had decided/thought': {before} in chapter {ch} (cap {MOVE_CHAPTER_MAX}) — a narrator move turning into a habit")
         if pivots > PIVOT_CHAPTER_MAX:
             flags.append(f"negation pivots: {pivots} in chapter {ch} (cap {PIVOT_CHAPTER_MAX}) — 'did not X; she Y'; say what happened")
         if chains > cap:
@@ -397,9 +412,14 @@ def main():
     gflags += prop_scan(allfiles)
     rrows, rflags = reflex_scan(allfiles)
     print("\nRHYTHM & VOICE REFLEXES (narration only):")
-    for ch, chains, cap, cred, pivots in rrows:
+    streak = best = 0
+    for ch, chains, cap, cred, pivots, so_open, before in rrows:
         print(f"  ch {ch:>3}: and-chains {chains:>3} (cap {cap})   credential asides {cred:>3}" + (f" (cap {CREDENTIAL_MAX})" if CREDENTIAL_PATTERNS else "")
-              + f"   negation pivots {pivots} (cap {PIVOT_CHAPTER_MAX})")
+              + f"   negation pivots {pivots} (cap {PIVOT_CHAPTER_MAX})   'So' openers {so_open}   'before I decided' {before}")
+        streak = streak + 1 if so_open else 0
+        best = max(best, streak)
+    if best >= SO_STREAK_WATCH:
+        print(f"  WATCH: a 'So …' paragraph opener in {best} consecutive chapters — give the next chapter none")
     gflags += rflags
     print("\nGESTURE BEATS — stage business by class (book-wide; a repeated gesture is a tic):")
     for name, total, per1k, wch, worst in grows[:16]:

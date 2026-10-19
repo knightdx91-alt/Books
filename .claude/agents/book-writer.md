@@ -251,6 +251,8 @@ entry:
 - **No negation pivots.** "The mule did not pull; she sat back" and "It was not a large laugh; it was…"
   define a thing by what it isn't, then correct it. Say what happened. The gate caps it at 1 per chapter
   and fails at 3 book-wide.
+- **Narrator moves wear out.** At most one paragraph per chapter opens "So I…", and at most one "before
+  I had decided/thought". If the last few chapters each had a "So" opener, give this one none.
 - **Props never do the acting.** No single object handled three times within 400 words (turned in the
   fingers, set down, picked up, taken off, put back). If a character needs a beat between lines, give
   them something new to do, or no beat.

@@ -208,6 +208,9 @@ It also counts **NEGATION PIVOTS**: a short negated clause hinged on a semicolon
 what happened instead ("the mule did not pull; she sat back"). That is define-by-negation in miniature,
 and it reads as a device quickly. The cap is 1 per chapter, and the gate fails at 3 book-wide. The pattern
 is deliberately narrow, so an ordinary negative sentence followed by a new one does not fire.
+Two **NARRATOR MOVES** are capped at 1 per chapter: a paragraph opening "So I…" (the narrator's consequence
+hinge) and "before I had decided/thought…" (the body outrunning the mind). A "So" opener in 4+ consecutive
+chapters prints a WATCH without failing, so the streak shows before it hardens.
 
 A second layer, **PROP FIDGET**, follows a single object through a scene — including "it" and "them"
 back to the prop named last — and fails when it is fidgeted with (turned, set down, picked up, taken
