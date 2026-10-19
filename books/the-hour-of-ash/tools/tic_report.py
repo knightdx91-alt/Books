@@ -395,6 +395,44 @@ def command_echo_scan(path):
                 hits.append((q[:50], " ".join(head)))
     return hits
 
+# PRONOUN-SWAPPED echoes: "She stayed where she was" (ch.5) -> "I stayed where I was" (ch.9) is the same move
+# with the pronouns changed. 5-6-word phrases are compared with subject/object/possessive pronouns folded
+# together, and must carry one content word of 5+ letters (idioms like "could not get" stay out).
+_PN_SUBJ = {"i", "she", "he", "we", "they"}
+_PN_OBJ = {"me", "him", "us", "them"}
+_PN_POSS = {"my", "his", "our", "their"}
+_PN_WEAK = {"said", "could", "would", "should", "there", "their", "where", "which", "about", "again", "never", "before", "after",
+            "bottom", "front", "behind", "under", "middle", "inside", "outside", "along", "across", "around", "between", "still", "other", "first"}
+
+def _pn_norm(w):
+    return "<S>" if w in _PN_SUBJ else ("<O>" if w in _PN_OBJ else ("<P>" if w in _PN_POSS else w))
+
+def _pn_grams(text):
+    toks = [_pn_norm(w.lower()) for w in re.findall(r"[A-Za-z'\u2019\-]+", text)]
+    out = set()
+    for n in range(5, 7):
+        for i in range(len(toks) - n + 1):
+            g = tuple(toks[i:i + n])
+            if not any(x.startswith("<") for x in g):
+                continue
+            if any(len(x) >= 5 and x not in STOP and x not in _PN_WEAK for x in g if not x.startswith("<")):
+                out.add(g)
+    return out
+
+def pronoun_echo_scan(files, n_target):
+    earlier, target = {}, set()
+    for f in files:
+        ch = int(re.search(r"(\d+)", Path(f).name).group(1))
+        g = _pn_grams(strip_comments(Path(f).read_text()))
+        if ch == n_target: target = g
+        elif ch < n_target:
+            for k in g: earlier.setdefault(k, set()).add(ch)
+    hits = sorted((" ".join(g), sorted(earlier[g])) for g in target if g in earlier)
+    kept = []
+    for j, chs in hits:
+        if not any(j in k or k in j for k, _ in kept): kept.append((j, chs))
+    return kept
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--file")
@@ -412,7 +450,10 @@ def main():
         if not hits: print("  none — no cross-chapter echoes.")
         for L,j,chs in hits[:60]:
             print(f"  \"{j}\"  (earlier in ch {','.join(map(str,chs))})")
-        print(f"RESULT: {len(hits)} echo(es)")
+        pn = pronoun_echo_scan(allfiles, a.echoes)
+        for j, chs in pn:
+            print(f"  \"{j}\"  (pronoun-swapped; earlier in ch {','.join(map(str, chs))})")
+        print(f"RESULT: {len(hits) + len(pn)} echo(es)")
         target_file = [f for f in allfiles if int(re.search(r"(\d+)", Path(f).name).group(1)) == a.echoes]
         cands = command_echo_scan(target_file[0]) if target_file else []
         print("COMMAND ECHO candidates (an order repeated back as compliance? judge each; a book allows ~3 total):")

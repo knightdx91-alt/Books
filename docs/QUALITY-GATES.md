@@ -200,6 +200,11 @@ excluded): **AND-CHAINS**, sentences with four or more "and"s, capped at max(9, 
 (one designed held sentence is a device; a dozen is the narrator's default rhythm — Hazel Academy ran 2–8
 early and drifted to 20–26 late), and **CREDENTIAL ASIDES**, the book-specific phrases by which a narrator
 files the world under her own expertise (`CREDENTIAL_PATTERNS` in the book's copy; capped at 4 per chapter).
+The echo scan also catches **PRONOUN-SWAPPED** echoes: 5–6-word phrases compared with I/she/he/we/they
+(and the object and possessive forms) folded together, so "She stayed where she was" in one chapter and "I
+stayed where I was" in a later one count as the same move. A match must carry a content word of 5+ letters
+that is not a speech verb or a spatial idiom ("at the bottom of" stays out).
+
 The echo scan also lists **COMMAND ECHO candidates**: a short quoted order whose verb returns at the head of
 the next narration paragraph ("Hold that corner." / "I held it…"), the narrator answering an order by repeating
 it as compliance. Defiance and plain narrative match too, so the list is judged by hand and never fails; a
