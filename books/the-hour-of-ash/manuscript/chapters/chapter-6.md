@@ -1,7 +1,7 @@
 # Chapter 6: Snow at the Cave Mouth
 
 <!-- SCENE BUDGET (Target 7,200): crisis in the recess 950 | BACKFILL: the lane, the weeks, the ashes 600 | Kallia and the wood 700 | the ask and the refusal 950 | the Seiko 850 | leaving before light 300 | the climb 1,250 | the wall, the scream, the bread 900 | the descent, the kiln, the evidence 1,200 -->
-<!-- Word count: 6,790 prose (shape_check) | Target: 7,200 (range 6,500-7,600) | Dialogue 36.8% | Anchor: Valens winding the watch backward, carefully, his thumb covering the crown -->
+<!-- Word count: 6,790 prose (shape_check; 6,769 after dialogue-polish) | Target: 7,200 (range 6,500-7,600) | Dialogue 36.8% (36.9% after dialogue-polish) | Anchor: Valens winding the watch backward, carefully, his thumb covering the crown -->
 
 I had scraped the floor of the crack down to bare rock as far in as my arm would reach, and now I knelt at the bend with Kallia's ash shovel, chopping at a crust of earth that had frozen into plates. Each plate came up with a skin of rime on its underside. Below it the dirt was black and gritty and packed hard, and cold under my palm.
 
@@ -37,31 +37,31 @@ In May the cold had come at twenty minutes short of two. It was nothing to go on
 
 "From Kallia's gate to the spring and back. With a full jar."
 
-"Your jar or hers?"
+"Most of a pine, then."
 
 I bent to the shovel again.
 
 "There's snow coming over the ridge," he said behind me. "I saw it from the mouth. We're off the stair before it comes, or we're up here till morning. There's nothing up here for the mules."
 
-"Then take the mules and go down. Leave me one of the pines. I'll come after you."
+"Take the mules and go down. Leave me one of the pines. I will come after you."
 
-"Down the cliff. By yourself, in the dark, in snow."
+"You came up that stair holding the gray's tail."
 
-"I won't need to come down."
+"I shall not need to come down."
 
 He was quiet so long that I heard the drip, far back in the hall, falling into its basin.
 
-"Nobody crosses the mountain in this," he said.
+"You won't get over the top in this," he said.
 
-"I told you yesterday. I'm not crossing anything."
+"I said so yesterday. I am not crossing anything."
 
-"Then you're coming down with me." The leather of the pouch drew shut on the watch. "I'm paid for the down as well as the up."
+"You're coming down with me. I'm paid for the down as well as the up."
 
-"Then give me until the long hand is at the eight. That's all I'm asking you. Stand there and hold the light and give me that much, and if nothing happens by then I'll come down with you, and I won't say a word between here and the widow's gate, and you can have the shovel as well."
+"Give me until the long hand stands at the eight. Only that. Stand there and hold the light and give me so much, and if nothing happens, I will come down with you, and I will not say one word between here and the widow's gate. And you may have the shovel also."
 
 "It's not your shovel."
 
-"It's the widow's. I'll take it back to her."
+"It is the widow's. She shall have it back."
 
 "You brought the bag in," he said. "Into a hole in a rock."
 
@@ -95,7 +95,7 @@ He brought the mules up singly. They were big, dark, dusty animals with the oak 
 
 It was the plain truth about her, and I laughed.
 
-He looked at me across her neck. The gray walked on.
+He looked across her neck at me, then down at the ice under her feet. The gray walked on.
 
 Kallia was in the gateway behind me.
 
@@ -183,7 +183,7 @@ He turned round from the mule then.
 
 "He spat out mine. I gave him something to eat and he spat it out on the path."
 
-"He tells that part." He looked at my jeans, and at my boots, which had carried me off the mountain in October and had not had a day off since. "So you walked over the mountain. In the autumn. By yourself."
+"He tells that part." He took in my boots, which had carried me off the mountain in October and had not had a day off since. "So you walked over the mountain. In the autumn. Alone."
 
 "From in there. Not over anything."
 
@@ -205,15 +205,15 @@ I had been looking at it for a month.
 
 "Before dark, if you're quick in there. Why tomorrow? It'll be there in the spring."
 
-"I won't."
+"I will not."
 
-He looked at me over the mule's back, and I could not tell what he made of that, and I did not explain it; I could not have in any language.
+Across the mule's back I could not tell what he made of that, and I did not explain it; I could not have in any language.
 
-"Then I'll go by myself," I said.
+"I will go up without you," I said.
 
-"Then you go off the stair where the ice starts. The widow carries her own water again. In the spring somebody goes up to bring down what's left of you."
+"You'll go off the stair where the ice starts. The widow carries her own water again. In the spring somebody goes up to bring down what's left of you."
 
-"That's my risk."
+"The danger is mine."
 
 "It's his. Whoever goes up in the spring."
 
@@ -225,9 +225,9 @@ I had two taxi coins left in my jeans, and I offered him the bigger. He pinched 
 
 "Who's that?"
 
-"A king. From further off than you'd believe."
+"A king. From farther away than you would believe."
 
-"Nobody up there takes that. Nobody down here either." He returned it, and then he looked me over, from the boots up, and stopped at my hands.
+"That buys nothing up there. Or down here." He returned the coin. Then he looked at my hands.
 
 They had been soft at the spring a month before. Now every knuckle had split from the cold water, and a blister was healing on each palm where the jar handles rode. They were still not a working woman's hands, and he saw it, and he saw that I knew he had.
 
@@ -235,9 +235,9 @@ They had been soft at the spring a month before. Now every knuckle had split fro
 
 "No."
 
-"You talk like a book. You've got Latin." He meant the gray mule and my laughing. "You've got that." He meant the coin. "Who's coming after you?"
+"You talk a schoolmaster's Greek. You've got Latin." He meant the gray mule and my laughing. "You've got that." He meant the coin. "Who's coming after you?"
 
-"Nobody is coming after me. Nobody in this country knows my name. The widow hasn't asked it."
+"No one is coming after me. In this whole country not one person knows my name. The widow has not asked it."
 
 "A husband."
 
@@ -251,9 +251,9 @@ The buckle was stiff with the cold. It took me two tries to work the tongue out 
 
 "You took it from him."
 
-"He doesn't need it."
+"He does not need it."
 
-He made no answer to that. He was looking the watch over the way he had looked over the lane, all of it, the back first: the steel case and its scratches, the little crown on the side, the band with the three links gone. Then he turned it face up. The thin seconds hand was going round. He watched it make one full circuit, and his face stayed as it was.
+He was looking the watch over the way he had looked over the lane, all of it, the back first: the steel case and its scratches, the little crown on the side, the band with the three links gone. Then he turned it face up. The thin seconds hand was going round. He watched it make one full circuit, and his face stayed as it was.
 
 "Something's going in it," he said.
 
@@ -263,11 +263,11 @@ He looked from the watch to the sky over the lane, where the pink had gone off t
 
 "Where's the shadow?"
 
-"It doesn't need one. It needs no sun and no water. It goes in the dark."
+"It does not need one. It needs no sun and no water. It goes in the dark."
 
 "By itself."
 
-"If it's wound. Every morning." I touched the crown with a fingertip. "Here."
+"If it is wound. Every morning." I pointed. "Here."
 
 He tried it. His thumb covered the crown entirely, and the rest of his hand closed round the case to keep it still, and with great care, slowly, he turned the crown the wrong way. It gave the small loose click it gave when you went backward. He stopped to listen to the click. Then he turned it again, with the same care, the same way, as if the click were what it was for.
 
@@ -279,7 +279,7 @@ I let him turn it twice more. Then I had my voice.
 
 He stopped and let me at it, the watch lying flat in his palm, and I turned the crown forward for him, three turns, until I felt it tighten.
 
-"That way. Until it won't go any more. Never past that."
+"That way. Until it will not go any more. Never past that."
 
 He did it himself. Forward, the click was finer and closer together, and the crown pushed back against his thumb when the spring was full, and he felt it and stopped.
 
@@ -289,9 +289,9 @@ He did it himself. Forward, the click was finer and closer together, and the cro
 
 "And if a man forgets?"
 
-"It stops. Then you wind it, and it goes again."
+"It stops. You wind it, and it goes again."
 
-He tried to put the band round his own wrist. It would not go halfway. He considered the space between buckle and holes for some time. Then the watch disappeared into the pouch at his belt and he drew the string.
+He tried to put the band round his own wrist. It would not go halfway. The watch disappeared into the pouch at his belt, and he drew the string.
 
 "Paid now," he said. "Not up there. Now."
 
@@ -299,17 +299,17 @@ He tried to put the band round his own wrist. It would not go halfway. He consid
 
 "Before light, if the sky stays clear. If it snows in the night, we don't go. I take you to the cave and I bring you down. Nowhere else."
 
-"And if I'm not ready to come down?"
+"And if I am not ready to come down?"
 
 "You'll be ready when the pine's gone. Can you sit a mule?"
 
-"I've never tried."
+"I have never tried."
 
-"You'll know tomorrow. Nobody goes over to Boeotia in snow. Not by any road."
+"You'll know tomorrow. The road over to Boeotia's under snow. All of it."
 
-"I'm not going over."
+"I am not going over."
 
-He went on down the string, tightening, and did not say whether he believed it.
+He was tying the last mule's lead into the tail of the one in front.
 
 That night I did not sleep much. I lay under Kallia's blanket in the storeroom with the duffel beside me, packed, which was no trouble, since it had never been unpacked. Some time after midnight I got up and did the morning. I cleared the ashes by touch and swept the hearth, made the trip to the lions twice in the dark, and topped up the big jar so that nobody would be short when the house woke. I folded the blanket in four on the mat, hoisted the duffel, and took up the little shovel from the pail.
 
@@ -325,7 +325,7 @@ Valens was waiting at the turn of the lane with two mules, the gray and a dun, w
 
 "Everything," he said. It was not a question. He lashed it onto the dun. "Does the widow know you're going?"
 
-"She knows the shovel is."
+"She knows the shovel is going."
 
 We went through the sleeping town and out past the high corner of the sanctuary wall, where the dogs knew him and kept quiet, and onto a path that went at the cliff in short zigzags, cut steps and worn rock and loose stone. It was too dark to see the drop. I heard it in the way the mules' breathing came back off the rock. At the first turn he put the gray's tail into my hand.
 
@@ -341,9 +341,9 @@ I talked. I had not meant to. The drop was on my left from the first turn to the
 
 I stopped talking. The gray stopped too and stood with her haunches against my knees.
 
-"There's a Philadelphia in Asia." He kept walking. "Past Sardis. A man I knew came from there."
+"There's a Philadelphia in Asia," he said. "Past Sardis. A man I knew came from there."
 
-"Further," I said.
+"Farther," I said.
 
 "Past Asia there's only Parthians."
 
@@ -361,7 +361,7 @@ Two turns up, the ice began. He halted, got sacking out of a fodder bag and boun
 
 Daylight arrived while we were on the last of the cliff, gray along the valley, and showed me the whole fall of the mountain below us, terraces and roofs and the sanctuary laid out down its slope like a model under glass, with the temple in the middle of it, very small. From up there the paint did not show. For the space of a breath it was nearly the gray one on the postcards; then the sun cleared the ridge and found the gilt on the roof.
 
-"They paint it again in the spring." Valens had stopped to let the mules blow. "The priests hang a man off the roof on a rope, with a pot of red."
+"They paint it again when the snow's gone." Valens had stopped to let the mules blow. "The priests hang a man off the roof on a rope, with a pot of red."
 
 "Who paints it?"
 
@@ -375,7 +375,7 @@ On a bend near the top he stopped and stood studying the path we had climbed. Fa
 
 "He's been on the path since the town," Valens said.
 
-"He's got a donkey."
+"He has a donkey."
 
 Valens watched him through two turns of the path, and then three. The mules shifted. I stood holding her tail with my fingers going dead, and the man below came up to a fork and turned off toward a thread of smoke on the slope, where somebody had a kiln going, and Valens went on up without a word about it.
 
@@ -383,7 +383,7 @@ Valens watched him through two turns of the path, and then three. The mules shif
 
 "Somebody for you."
 
-"I told you. There's nobody."
+"I told you. There is no one."
 
 "You told me."
 
@@ -409,7 +409,7 @@ I sat back. The gray found it.
 
 "They came from Corinth. They don't know any Greek."
 
-"Mules don't know any language."
+"Mules do not know any language."
 
 "These know Latin."
 
@@ -423,19 +423,23 @@ We went on a while with nothing but the creak of the packsaddle and the crust br
 
 It took me a little while to understand that he meant the watch. Then I tried to tell him, in a Greek that had no words for any of it.
 
-"Inside there's a strip of metal. Very thin. Rolled up on itself, round and round. When you turn the crown it rolls tighter. It wants to open again, the way a brooch pin wants to spring. There's a little wheel that goes back and forth, so, and lets it open by one tooth, and then the next, and no faster. Those teeth are what turn the hands."
+"Inside there is a strip of metal. Very thin. Rolled up on itself, round and round. When you turn the crown it rolls tighter."
+
+"And when it's tight?"
+
+"It wants to open again, the way a brooch pin wants to spring. There is a little wheel that goes back and forth, so, and lets it open by one tooth, and then the next, and no faster. Those teeth turn the hands."
 
 I did the wheel for him with my hand flat on the gray's neck, rocking it.
 
 "Who makes them?"
 
-"Men in a country you've never heard of. Thousands of them."
+"Men in a country you have never heard of. Thousands of them."
 
 "For hire?"
 
 "For sale. Anyone can buy one."
 
-"Anyone." He walked on, thinking about that. "And the little wheel. What stops it rocking?"
+"Anyone." He tried the crust ahead with his heel before he trusted it. "And the little wheel. What stops it rocking?"
 
 "The spring running down. Dirt. Cold. Being dropped."
 
@@ -461,7 +465,7 @@ He tied the mules in the lee of the rock, broke a corner off a crust from his ba
 
 "I pay him."
 
-"That isn't an answer."
+"That is not an answer."
 
 "It's what I do." He was already crouched in the mouth with his back to the wind. "How long will you be in there?"
 
@@ -473,7 +477,7 @@ I left that where it was.
 
 He made fire with a steel and a flint and a lump of dried bracket fungus, striking until a spark caught and he could blow it red. It was slow work.
 
-"Can't you go faster?"
+"Can you not go faster?"
 
 "No."
 
@@ -531,25 +535,25 @@ He finished what was in his mouth first.
 
 "It was the first thing you did up here I understood."
 
-"And before? What were you thinking I was doing with the shovel?"
+"And before? What did you think I was doing with the shovel?"
 
 "Digging up something you'd hidden."
 
 "Hidden what?"
 
-"Silver. Whatever you ran with. People who run put it somewhere they can find again, and come back for it when it's safe."
+"Silver. Whatever you ran with. People who run bury it, and come back for it later."
 
-"If I'd had silver, I'd have paid you in silver."
+"Had I any silver, you would have had silver."
 
 "You'd have kept the silver," he said, "and paid me in the watch."
 
-"I'm not a thief."
+"I am not a thief."
 
 "I didn't say thief." He brushed the crumbs off his knee into his palm and ate them. "I was at the turn of the lane before you came out to me. I heard you at the spring, twice, in the dark. A thief doesn't fill the widow's jar before she goes."
 
 I had no answer to that, in either language. When the bread was gone I could have eaten the same again, which after a month of Kallia's lentils was nothing new.
 
-"Eat the crumbs," he said. "It's the down that's hard."
+"Eat the crumbs," he said. "You'll want them on the stair."
 
 He lit the last pine from the stub of the old one and held it while I got into the duffel's strap. I left the shovel lying in the crack. He went back for it.
 
@@ -563,7 +567,7 @@ On the plain there was only snow and wind and the gray's ears ahead of me, the f
 
 "Cold. I was looking for cold. A wind, out of the rock."
 
-He walked on a little. "It's cold all over this mountain."
+The gray went a dozen steps before he answered. "It's cold all over this mountain."
 
 "I know that."
 
@@ -575,9 +579,9 @@ The gray dropped her head, blew, and shook the snow off her ears all over me.
 
 "Who were you meeting up there?" he said.
 
-"Nobody. It wasn't a who."
+"No one. It was not a who."
 
-He said nothing to that. We came in among the firs, where the wind couldn't reach, and the snow fell straight down between the trunks, very quiet.
+We came in among the firs, where the wind couldn't reach, and the snow fell straight down between the trunks, very quiet.
 
 "Where do you sleep?" he said.
 
@@ -595,17 +599,17 @@ He said nothing to that. We came in among the firs, where the wind couldn't reac
 
 "Lentils."
 
-"Then stay where you are. She'll keep you while you work."
+"Stay where you are. She'll keep you while you work."
 
 "Why did you bring me up," I said, "if you thought somebody was coming after me?"
 
 "The watch."
 
-"That's all?"
+"Only that?"
 
 "It's a good watch."
 
-"Then sell it back to me. In the spring, when I've found silver. Real silver."
+"Sell it back to me. When I have found silver. Real silver."
 
 "You paid it to go up. You went up."
 
@@ -617,11 +621,7 @@ I had said that. The gray picked her way down between the trunks with me on her 
 
 "Then wind it," I said. "Every morning."
 
-"Forward. Till it stops."
-
-"Till it stops. Not past."
-
-"Not past."
+"Forward. Till it stops, and not past."
 
 At the top of the cliff path there was a red glow off to the left, low in the snow, and a smell of smoke that was sour where woodsmoke would have been sweet. The man with the donkey had his kiln there, a long hump of earth and turf with smoke seeping from every seam, and he sat beside it on an upturned basket with a sack across his head and shoulders. The donkey stood in its lee with its eyes shut.
 
@@ -633,11 +633,11 @@ Valens would have gone by. I watched him decide it. But the gray had already tur
 
 They burned my fingers, and I ate them anyway. He talked fast, in the mountain Greek, and I lost half his words and none of Valens's answers.
 
-"Did you get any of the god's ox, mule-man? Four oxen for all Delphi, and the council had three eaten before the fire was lit."
+"Did you get any of the god's ox?" The rest ran on past me. I caught the number four in it, and the council, and a grievance about meat.
 
 "I was at Kirrha."
 
-"Then you got what we got." He peered up at me in the glow. "That's her. The nymph. My cousin's boy saw her step out of Pan's cave at the vintage."
+"So you ate what we ate. Smoke." He peered up at me in the glow. "That's her. The nymph. My cousin's boy saw her step out of Pan's cave at the vintage."
 
 "She's the widow Kallia's," Valens said. He had crouched at the other mule's forefeet to strip off the wet sacking and bind on fresh. "Down by the spring."
 
@@ -649,7 +649,7 @@ They burned my fingers, and I ate them anyway. He talked fast, in the mountain G
 
 "She came off a ship."
 
-The man considered me with his head on one side. "The boy says you ate his cheese and paid him in a cake made of hay."
+The next part he said slowly, and to me. "The boy says you ate his cheese and paid him in a cake made of hay."
 
 "It was oats," I said.
 
@@ -657,7 +657,7 @@ The man considered me with his head on one side. "The boy says you ate his chees
 
 "She hit Pan," said Valens.
 
-The man laughed, and the donkey opened its eyes and shut them again.
+The sack across the man's shoulders shook, and the donkey opened its eyes and shut them again.
 
 "Sleep here by her," he said. "You'll not get down in the dark."
 
@@ -665,19 +665,19 @@ The man laughed, and the donkey opened its eyes and shut them again.
 
 Below us the whole valley had sunk into gray, with a few lamps showing far down in it where the town was. Going down was worse than coming up. The mule did not pull; she sat back on her haunches and let herself down from step to step, and twice my boots went out from under me on the ice and her tail held me up. Valens went in front with the second mule, sideways to the slope, talking to both of them in Latin, low, about nothing I could hear.
 
-"He'll have you all over the town by the next market," he said, when the glow of the kiln was out of sight. He kept his back to me. "So I'll tell you what I'd tell them, if they asked me. You came down off the top in the autumn, by yourself, in trousers, so the road wouldn't take you for a woman. Your hands never worked. You talk like the stones in the sanctuary. You've got Latin. You had a thing on your wrist no smith in Achaea could make, and you won't give a name, yours or your people's. That's a big house. Corinth, or Patrae. Somebody there wants you back, a father or a husband, and whoever he is, he can pay men to ask. When they come up this road, they'll ask who took you up there."
+"He'll have you all over the town by the next market," he said, when the glow of the kiln was out of sight. He kept his back to me. "So I'll tell you what I'd tell them, if they asked me. You came down off the top in the autumn, by yourself, in trousers, so the road wouldn't take you for a woman. Your hands never worked. You read the letters on the rock without spelling them out. You've got Latin. You had a thing on your wrist no smith in Achaea could make, and you won't give a name, yours or your people's. That's a big house. Corinth, or Patrae. Somebody there wants you back, a father or a husband, and whoever he is, he can pay men to ask. When they come up this road, they'll ask who took you up there."
 
 It was the most he had said all day, and he had said it in order, like a man giving evidence, and most of it was true, and the whole of it was wrong.
 
-"That's a good story," I said. "It's a better story than mine. If I told you where I came from—"
+"It is a good story," I said. "It is a better story than mine. If I told you where I came from—"
 
 "Don't."
 
-"You'd think I was mad."
+"You would think me mad."
 
-"Don't tell me where. Whoever knows where can be asked where."
+"Don't tell me where. I don't want it in my head when they come."
 
-"You haven't asked my name, either."
+"You have not asked my name either."
 
 "No."
 
@@ -685,9 +685,7 @@ It was the most he had said all day, and he had said it in order, like a man giv
 
 "On the road."
 
-"Nobody learns Latin on this road."
-
-He had nothing to say to that, and I left it alone.
+"Latin is not learned on this road."
 
 The sanctuary dogs let us by. The lamps of the town were close now, yellow in the doorways, with smoke lying low over the roofs and the smell of somebody's supper in it. At the first houses he stopped the mules in the shadow of a wall and went round the dun, unlashing my bag.
 
