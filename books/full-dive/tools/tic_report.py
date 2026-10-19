@@ -398,15 +398,16 @@ def _pn_norm(w):
     return "<S>" if w in _PN_SUBJ else ("<O>" if w in _PN_OBJ else ("<P>" if w in _PN_POSS else w))
 
 def _pn_grams(text):
-    toks = [_pn_norm(w.lower()) for w in re.findall(r"[A-Za-z'\u2019\-]+", text)]
     out = set()
-    for n in range(5, 7):
-        for i in range(len(toks) - n + 1):
-            g = tuple(toks[i:i + n])
-            if not any(x.startswith("<") for x in g):
-                continue
-            if any(len(x) >= 5 and x not in STOP and x not in _PN_WEAK for x in g if not x.startswith("<")):
-                out.add(g)
+    for para in text.split("\n"):          # a phrase never spans a paragraph break
+        toks = [_pn_norm(w.lower()) for w in re.findall(r"[A-Za-z'\u2019\-]+", para)]
+        for n in range(5, 7):
+            for i in range(len(toks) - n + 1):
+                g = tuple(toks[i:i + n])
+                if not any(x.startswith("<") for x in g):
+                    continue
+                if any(len(x) >= 5 and x not in STOP and x not in _PN_WEAK for x in g if not x.startswith("<")):
+                    out.add(g)
     return out
 
 def pronoun_echo_scan(files, n_target):
