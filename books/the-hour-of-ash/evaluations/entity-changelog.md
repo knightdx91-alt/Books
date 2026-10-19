@@ -1044,3 +1044,7 @@ No knowledge_gap. Kallia's cave question has a path (ch-07 "your cave"), and aft
 - **Valens:** last seen at the last roof with the gray. His danger (the notice) is untouched. Ch.9 has him reading it in the agora.
 - **Spent per the bible:** the threshold form, the shared laugh, the baker's song refrain, "She'll have my eyes", "You at the lions", and "the last house" (cap reached). Theano stays unrecognised until Ch.13.
 - **Ch.10:** the swept room is pre-planted only by "not sons" and "Who would I send in?". No son is named.
+
+## 2026-10-19: UPDATE (re-sync of chapter 8 after polish cycle 1 and finalize fixes F1–F4)
+
+- Re-anchored every ch-08:pYY to the final page (241 paragraphs: new p41 = Nikaso's stair story; old p240, the lying-awake coda, cut; old p41–p239 → p42–p240). Removed the cut facts (lentil heckle, aniseed fennel, mule-morning, "two gates up", "another two pines", the wrist coda, the flashlight reason and "thirty or forty", the pale stone and the pool, among others) and added the new ones (the fennel smoke and the Prometheus aside; Nikaso's frozen-cloaks story told on the stair; rent by the month). **CH8-3 RESOLVED** (F1 cut the sentence; only ch-07:p195 remains), **CH8-5 RESOLVED** ("Midway along the lane", ch-08:p13 = ch-05:p181), **CH8-7 RESOLVED** (one spare, one change: ch-08:p75, p84). CH8-6 is still open, narrowed: the bible still quotes the pre-F3 "The rock gave the drums back" (l.1069) and the pre-F4 "froze so hard on the way" (l.1259). No new contradiction or knowledge_gap. chapter-9.md not read.

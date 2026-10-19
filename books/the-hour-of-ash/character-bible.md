@@ -1066,7 +1066,7 @@ below is on the page, checked by script.)*
   "Down on the plain Nikaso would be drinking my share."; "It's a cave," … "It's always open."; "There is no he."; "so
   small," … "that I lost him on the boat"; "I have made him bigger for the song"; "Knead it, knead it, the oven's gone
   cold!" (quoted twice; CAP REACHED, never sung again); "the smoke kept changing its mind"; "mostly for the sake of my
-  feet"; "my mouth made it Delphian"; "The rock gave the drums back"; "not one turn unsettled it"; "landed in my stomach
+  feet"; "my mouth made it Delphian"; "once from the drum and once off the rock"; "not one turn unsettled it"; "landed in my stomach
   like a coal"; "like a party through the wall of the next apartment"; "like a teacher at a classroom door after the
   bell"; "like a cook banging a pot to bring the household in"; "like flatbreads on a griddle"; "like water over a sill";
   "like sand thrown at a window"; "as warm as a laundromat in February"; "broke along the fold like a biscuit"; "it sat on
@@ -1256,7 +1256,7 @@ below is on the page, checked by script.)*
   know; she knows if I've so much as breathed on her loom." / "Over new sandals? What's the good of them, wrapped?" / "The
   god," … "And Philista, who leads us up, and she tells everyone at the lions." / **her stair story, told once (cycle 1
   plant; CLOSED):** "Snow caught the women up here once, when my mother was a girl," … "They sent men up in the morning to
-  fetch them, and the men's cloaks froze so hard on the way that they broke in two when anybody tried to unfold them." /
+  fetch them, and the men's cloaks froze so hard on the climb that they broke in two when anybody tried to unfold them." /
   "Is it true that in Syracuse the women go to the baths with the men?" / "She's never been anywhere. She's never been to
   Kirrha." / at the basket: "Him." … "That's his cradle. You'll see." / "It's bread as well," / "Kallia's dancing. Look at
   her." … "Drink." / "I kept it for you as long as I could," … "Then I couldn't." / "A little was left in the bottom, and
