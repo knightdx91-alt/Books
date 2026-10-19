@@ -1,7 +1,7 @@
 # Chapter 7: The Laws of Belonging
 
 <!-- SCENE BUDGET (Target 6,600): claim + shovel + the girl's clothes 800 | Kallia's lessons + latrine + the swept room 900 | the bath (band, lamp, scar, horn powder, lentisk) 800 | language claim + house Greek 350 | the salt market 500 | public silence + the carding evening + Valens in the lane 950 | the broken jar at the spring 600 | the tribute lists + Kallia's plan 450 | the council-hall table 1,000 | the step (relief) + Maira at home 450 | cost + Dunphy + the broom + midwinter 600 -->
-<!-- Word count: 6,410 counted by shape_check; wc -w 6,536 with comments | Target: 6,600 (range 6,000-7,200) | Dialogue 20.7% | Breaks 3 | Median sentence 17 | Anchor: the girl's borrowed himation, smelling of quince and someone else, pulled up over Mara's face on the council-hall step -->
+<!-- Word count: 6,366 counted by shape_check; wc -w 6,530 with comments | Target: 6,600 (range 6,000-7,200) | Dialogue 20.7% | Breaks 3 | Median sentence 17 | Anchor: the girl's borrowed himation, smelling of quince and someone else, pulled up over Mara's face on the council-hall step -->
 
 A woman in Phocis in the second year of Vespasian belonged to somebody, and the first thing the town did with a stranger was work out who. Nobody asked it unkindly, or not often; it was asked the way a clerk at a counter wanted a zip code, because the form had a box for it and nothing further could happen until the box was filled. The women at the spring looked past me to see who had sent me down for the water. Men who met me alone in a lane slowed their step, to learn whether anybody was coming along behind me, and went on at their own pace only when Kallia turned the corner with the bread. A woman with somebody behind her was a woman; a woman with nobody was a piece of luck lying in the road for whoever bent down first.
 
@@ -15,7 +15,7 @@ She took the handle in her fist and sighted down the blade to the spot where the
 
 "On the god's rock. At the cave."
 
-"Then the god can put an edge back on it." She stood it upright in the ash pail where it lived, and pointed at the pail.
+"Let the god put an edge back on it." She stood it upright in the ash pail where it lived, and pointed at the pail.
 
 That was all she said about the mountain, then or later. Two days after it she came to the storeroom door with a bundle over her arm and stood in the doorway, saying nothing, until I understood that I was to take off what I had on.
 
@@ -41,9 +41,9 @@ I took shorter steps. The toes of the boots showed at every one, two scuffed bro
 
 "I have been up a mountain."
 
-"So the whole town heard." She went the length of the court ahead of me with an empty jar balanced on her head and her eyes on the paving a few steps ahead of her feet, and the wool round her ankles hardly stirred. "Your eyes go there. On the ground in front of you. Not on the street, and not on the men in it."
+"So the town says." She went the length of the court ahead of me with an empty jar balanced on her head and her eyes on the paving a few steps ahead of her feet, and the wool round her ankles hardly stirred. "Your eyes go there. On the ground in front of you. Not on the street, and not on the men in it."
 
-"Then how am I to see where I am going?"
+"How am I to see where I am going?"
 
 "You see their feet."
 
@@ -67,7 +67,7 @@ The eyes were the hard part and the part that mattered, and she taught them in p
 
 "He was talking."
 
-"He was talking to me. When a woman looks at a man, she's asking him something." She handed me the pot to scour. "Out there, somebody answers her."
+"He was talking to me. Look at a man out there and you've asked him something." She handed me the pot to scour. "And somebody answers."
 
 That answer lived past the running track, where a young man in a good cloak had once offered to carry my bag for me, and it took in girls who had nobody.
 
@@ -91,9 +91,9 @@ That was a baker's wife with a soft heavy body and a red clay lamp in her fist. 
 
 I jumped.
 
-"Leave her," said Kallia, who was washing standing up, the only woman in the room on her feet. "They keep them like that where she's from."
+"Singe your own," said Kallia, who was washing standing up, the only woman in the room on her feet. "They keep them like that where she's from."
 
-"Where's that, then?"
+"And where's that, where they've no lamps?"
 
 "Over the sea."
 
@@ -141,11 +141,11 @@ I said it again.
 
 She threw up both arms, scoop and all, so that the salt went in a shower over her lap.
 
-"Antigone!" she shouted down the row. "Antigone's come down off the stage for a scoop of salt!"
+"Antigone!" she shouted down the row. "She's come down off the stage for a scoop of salt!"
 
 The woman at the next stall, who sold sprats out of a basket of wet leaves, never so much as raised her head from her fish. "Tell her to bury her brother first, the salt will keep."
 
-The whole row laughed. I nearly laughed too, because it was a far better joke than any I had ever made in Greek, and it was aimed with real skill at the one tragedy I had read through twice in the original; then I saw a man at the fountain laughing along with them, his eyes on me and not on the women, and the laugh went back where it came from. The salt-seller filled Kallia's basket with more salt than an obol would buy and pushed the coin back at me, still wiping her eyes. "Come again tomorrow and ask for pepper, Antigone. My sister's never seen a play."
+The whole row laughed. I nearly laughed too, because it was a far better joke than any I had ever made in Greek, and it was aimed with real skill at the one tragedy I had read through twice in the original; then I saw a man at the fountain laughing along with them, his eyes on me and not on the women, and the laugh went back where it came from. The salt-seller filled Kallia's basket with more salt than an obol would buy and pushed the coin back at me, still wiping her eyes. "Come again tomorrow and ask for pepper. My sister's never seen a play."
 
 I carried the salt home through the town, and I said nothing outside Kallia's gate after that, to anyone, for a month.
 
@@ -155,7 +155,7 @@ It was easy, the easiest thing I had done since the cave. At the spring I filled
 
 "Do you mind?"
 
-"Let them. Simple girls don't get asked anything." She handed me the carders. "Tighter than that. You're making a bird's nest."
+"Let them. Simple girls don't get asked anything. Tighter than that; you're making a bird's nest."
 
 I made it tighter. The lodgers had gone up, and the hearth was down to a red bed under the ash, and Kallia carded beyond it on her feet, with the basket of fleece propped on her hip.
 
@@ -163,17 +163,17 @@ I made it tighter. The lodgers had gone up, and the hearth was down to a red bed
 
 It was the first question she had ever asked me about the place, and it was about water.
 
-"Nobody carries it. It comes into the house through a pipe in the wall, and you turn a handle and it runs, cold, or hot if you turn the other handle."
+"No one carries it. It comes into the house through a pipe in the wall, and you turn a handle and it runs, cold, or hot if you turn the other handle."
 
 "Hot."
 
 "Hot enough to scald you, at any hour of the night."
 
-She carded for a while. "And the wool?"
+"And the wool?"
 
 "Bought. Spun and woven already, and made up into clothes, in a shop as long as this lane."
 
-"Then what do the women do all day?"
+"What do the women do all day?"
 
 "They go out to work, the same as the men. I mend old pots for my living, pots older than this house, that somebody has dug up."
 
@@ -195,7 +195,7 @@ There was no Greek for that, and no English either.
 
 "I want that basket done before the lamp goes."
 
-I bent over the wool. Some while after, I asked her who slept in the room at the top of the stair, and she said, "Nobody," and then, "Tighter, I said," and that was all I got out of her about it.
+I bent over the wool. Some while after, I asked her who slept in the room at the top of the stair, and she said, "It's swept," and then, "Tighter, I said," and that was all I got out of her about it.
 
 Indoors I talked all the more, with a month of words banked behind the gate. I talked at Kallia over the carding in the evenings. She let me, correcting the vowels my ear could catch and the grammar it couldn't, and twice she laughed, once at the Thebans and once at me.
 
@@ -207,11 +207,11 @@ Valens brought his mules to the gate in the middle of that month for the fifth c
 
 "Oak doesn't spit."
 
-"Twice. Once on my good hearthstone and once on a Theban." She kept her hand off the knot in her kerchief. "When it's done a month without spitting, you'll have your coin. And keep the gray's teeth off my tree while you wait."
+"Twice. Once on my good hearthstone and once on a Theban. When it's done a month without spitting, you'll have your coin. And keep the gray's teeth off my tree while you wait."
 
-The boots stood where they were a while. Then they turned a little, toward the gateway where I stood.
+The boots turned a little, toward the gateway where I stood.
 
-"She's got you walking," he said.
+"She's taught you to walk," he said.
 
 I kept my eyes on the knot in the broken lace.
 
@@ -225,11 +225,11 @@ I watched the heels go as far as the turn. My father's watch was in his belt pou
 
 Four days after that I broke Kallia's second-best jar at the spring. It was the end of the afternoon, when the women had mostly gone up with their water and the drovers brought their animals down to the trough at the bottom of the basin, and I had my jar under the third lion with my eyes on its mouth and the water drumming in it. A string of donkeys came in along the basin behind me, and their driver came with them, and he stopped at my elbow instead of at the trough.
 
-"Here's the simple one."
+"Here's the one that doesn't talk."
 
 I watched the water rise.
 
-"Kallia's simple one. Is she simple all over, or only in the mouth?" He had a voice from somewhere west, Amphissa or beyond it, and he smelled of donkey and of the morning's wine. "Look at me, simple."
+"Kallia's simple one. Is she simple all over, or only in the mouth?" He had a voice from somewhere west, Amphissa or beyond it, and he smelled of donkey and of the morning's wine. "Look at me."
 
 I looked at the jar. The water came up into its neck.
 
@@ -253,7 +253,7 @@ It was the salt-seller, descending the steps with her own jar up on her head and
 
 He went. The salt-seller drew her water at the next lion and never glanced my way again, and I picked the three pieces of Kallia's jar out of the wet and carried them home in a fold of the himation. It had broken cleanly, along the coils it was built from, and every edge was sharp and unworn; I could have had it whole again in a week with a pot of hide glue and some string, if anybody in Delphi had wanted a jar back that had been broken once.
 
-Kallia was at the hearth, and she looked at the pieces when I laid them on the hearthstone, and then at my wet feet, and then at my wrist.
+Kallia was at the hearth. When I laid the pieces on the hearthstone she looked past them, at my wrist.
 
 "Who?"
 
@@ -261,7 +261,7 @@ Kallia was at the hearth, and she looked at the pieces when I laid them on the h
 
 "Did he touch you?"
 
-"On my wrist."
+"Only my wrist."
 
 "That jar came up from Kirrha on my own head, eleven summers ago, and I've not had to buy one since." She swept the pieces off the hearthstone into the ash pail with the side of her foot. "Go back down and fetch the water in the old one. It leaks. Walk quick."
 
@@ -309,7 +309,7 @@ That brought his head up.
 
 The wax had gone hard in the cold; he held the leaf over the brazier until the black surface took on a shine, then set it flat and drew the stylus, and each letter surfaced pale in the dark wax, the color of the wood showing through. I had read upside down across a good many desks in my life, and I read this one.
 
-"And what is a girl from Syrakousai doing in Phocis at the year's end?"
+"Resident since when? On what business?"
 
 "Her people died. She came on the last boat, after the vintage."
 
@@ -343,7 +343,7 @@ Sosandros wrote that down as well, without comment. "And who answers for her? A 
 
 "A woman can't answer for—"
 
-"Then who've you got for my house? You've had nobody else on that line for years. Write me."
+"Who stands for my house, if I don't? You've had no other name on that line for years. Write me."
 
 There was a splinter of lentisk between my back teeth on the left, a long stiff fiber off that morning's stick, wedged between the molar with the old filling and its neighbor, and my tongue had found it, gone to it, and would not leave it alone. It was nothing. It was the size of nothing, and it took up my entire mouth. I worked at it while Sosandros and Kallia settled what I was; when the room came back to me he was writing, the men in the line behind us were laughing at something Kallia had said, and she was undoing her kerchief knot for the fee.
 
@@ -385,13 +385,13 @@ I carried the jar to the hearth under the lean-to.
 
 "Which women?"
 
-"The god's women. Dionysos's. Every woman in this town who's any good, and a few who aren't. Every other winter they go, and this is the winter. You'll come. You've the boots for it."
+"The god's women. Dionysos's. Every woman in this town who's any good, and a few who aren't. They go every other winter, and this is the winter. You'll come. You've the boots for it."
 
 "How high?"
 
 "Onto the plain. In the snow, at night, with torches, and a skin of wine for every three of you, and no man past the last house." She was already at the woodstack, pulling out splits for the morning. "Bind your feet in rags over the boots, and bring the girl's himation. It's the warmest thing in this house."
 
-"And what do the women do, up there?"
+"And what is it for?"
 
 "Dance. Drink. Freeze." She dropped the splits beside the hearthstone. "Not as high as your cave."
 
