@@ -1,17 +1,17 @@
 # Chapter 10: Kallia's Letter
 
 <!-- SCENE BUDGET (Target 2,800; range 2,500-3,100): the letter at the gate; the Elean turned away 550 | the hours it rode in her belt 200 | opened; the formula; the war and the arm 400 | the wife: "Is she Greek?" / "Can she weave?" 450 | the child, the roof, the land, Emesa 400 | the greetings by name; nothing for the house 350 | the name on the page; Nikaso; the reply she will not send 450 | the afternoon sweep; Ariston's room; out 250 | Mara alone in the kitchen, the afternoon going on 150 -->
-<!-- Word count: 2,747 (shape_check; style_check 2,755) | Target: 2,800 (range 2,500-3,100) | Dialogue 36% (show/tell 34.9%; band 30-40) | Breaks 0 | Median sentence 15 (gear mid) | And-chains 1 | Echoes 0 | Anchor: the broom, still lying across the empty room's threshold when Kallia goes out | Date: 2026-10-19 -->
+<!-- Word count: 2,713 after dialogue-polish (shape_check; style_check 2,721; writer 2,747) | Target: 2,800 (range 2,500-3,100) | Dialogue 36% (show/tell 34.2%; band 30-40) | Breaks 0 | Median sentence 15 (gear mid) | And-chains 1 | Echoes 0 | Anchor: the broom, still lying across the empty room's threshold when Kallia goes out | Date: 2026-10-19 -->
 
 The letter had been folded down very small. It came to the gate just after noon, held out between two fingers by a pilgrim from Elis, a young man with a peeling scalp who had been sick on the boat from Aigion and wanted it known. It was a strip of papyrus folded over and over on itself into a packet I could have closed my fist on. A thread went round it twice, sealed at the knot with a thumb of gray clay. One end had stood in wet somewhere and dried with a brown tidemark across it.
 
-"The wine-seller at Kirrha had it on a nail behind his jars," he said. "Since the autumn, he says. It came over from Corinth on a coaster at the back end of the sailing, and then the sailing stopped, and nobody he'd trust was bound for Delphi. He said whoever let rooms near the lions would stand me a cup for carrying it."
+"The wine-seller at Kirrha had it on a nail behind his jars," he said. "Since the autumn. It came over from Corinth on a coaster at the back end of the sailing, and then the sailing stopped, and nobody he'd trust was bound for Delphi. Whoever let rooms near the lions would stand me a cup for carrying it, he said."
 
 Kallia had it out of his fingers and held it shut in her hand.
 
 "Where from?"
 
-"Syria, he said. Is it bad? He said it might be bad, being so long."
+"Syria. He said it might be bad, a letter that sat so long."
 
 She heard that with the face she wore at the oil-seller's.
 
@@ -35,7 +35,7 @@ I filled the dipper at the jar. The Elean drank half and returned the dipper wit
 
 "The house is full."
 
-"Three, then, for anywhere with a roof on it. I've slept two nights on a deck with a Corinthian's goat." He looked past her at the gallery, which was hung with other people's cloaks. "Three obols."
+"Three, then, for anywhere with a roof on it. I was sick over the side from Aigion to Kirrha, and I've slept two nights on a deck with a Corinthian's goat." He looked past her at the gallery, which was hung with other people's cloaks. "Three obols."
 
 "There's the houses by the stadium."
 
@@ -51,9 +51,9 @@ The clay crumbled off the knot in one piece. I worked the thread loose with a th
 
 "Ariston to Kallia, his mother, greeting, and many of them. Before everything I pray for your health, and every day I make an offering for you to the gods of this place, though you would not know their names."
 
-Kallia pulled an arm's length of wool from the hank. "There's gods enough here," she said.
+"There's gods enough here," said Kallia.
 
-"I am well. Know that I was with the cohort before Jerusalem from springtime until the city was taken. I have come out of it alive, with the use of all of me but the left arm, which a stone off the wall broke above the elbow. It has knit, but it will not straighten. On account of it the prefect has given me my discharge before my time, with the money that goes with it."
+"I am well. Know that I was with the cohort before Jerusalem from springtime until the city was taken. I have come out of it alive and whole, all but the left arm, which a stone off the wall broke above the elbow. It has knit, but it will not straighten. On account of it the prefect has given me my discharge before my time, with the money that goes with it."
 
 "Which arm?"
 
@@ -69,7 +69,7 @@ In the lane my Greek arrived in single words. Each one had to be chosen, set dow
 
 "Two and a half," said Kallia. "At the vintage."
 
-"Nobody was going west, and after that there was the war. The year before it I took a wife here: Domna, the daughter of Iamblichos, who sells horses to the cohort. She is a good wife to me. Her father has no son, and he calls me his."
+"Nobody was going west, and after that there was the war. The year before it I took a wife here: Domna, the daughter of Iamblichos, who sells horses to the cohort. She is a good wife to me, and keeps my house well. Her father has no son, and he calls me his."
 
 It was the best Greek I had spoken since October, and it was his from beginning to end.
 
@@ -89,8 +89,6 @@ I ran my eye to the foot of the papyrus, looking for a loom.
 
 "Here it's for the father's father."
 
-"He says as they do there."
-
 Kallia yawned. The yawn took her in the middle of the court, enormous. It stretched her face and shut her eyes, and when it let her go her eyes were running with it. A second came behind it, as big. She had been on her feet since the dark, and the Elean had come at the worst of the day; I read the next part faster.
 
 "In the evenings the whole house goes up on the roof. From there you can see the river, and the mountains past it, which keep their snow until the summer. With the money from the cohort and what came with her, I have bought land on the river half a day below Emesa. It is wheat land, with olives along the bank already, and water runs past the door in a channel all summer. I have a yoke of oxen, and a man to drive them, since I cannot."
@@ -101,7 +99,7 @@ Emesa was Homs. There had been a postcard of a crusader castle somewhere near Ho
 
 "It runs off, I suppose. They have less of it there."
 
-"Everywhere has rain."
+"They'll have enough."
 
 "The man," Kallia said. "Bought?"
 
@@ -117,7 +115,7 @@ She wanted no answer to that, and I gave her none. The spindle hung at the end o
 
 "Greet for me Nikaso and her husband. Tell Philista I have not forgotten whose drum it was I put my foot through. Greet the baker and Sostrata, and his old mother, if she is living, and Thrasyllos who let me take his mules to the harbor, and Glauke's girls at the spring, both of them."
 
-"She's living," said Kallia. "Thrasyllos died when the olives were in, the year after. *Let me take*, he says. He took them, at ten years old, and told nobody, and Thrasyllos walked to Kirrha after him in his bare feet. Glauke's girls are married. The big one's in Amphissa with a potter, with a cast in her eye from his kiln."
+"She's living," said Kallia. "Thrasyllos died when the olives were in, the year after. *Let me take*, he says. He took them, at ten years old, and told nobody, and Thrasyllos walked to Kirrha after him in his bare feet. Glauke's girls are married. The big one's in Amphissa with a potter, treading his clay for him."
 
 She said it to the letter. I raised it for her.
 
@@ -125,7 +123,7 @@ She said it to the letter. I raised it for her.
 
 There was no more. I looked on the back to be sure. There, in the same small hand, was the address: to Kallia, at Delphi, at the lodging above the Castalian spring, from her son. He had found room for the old woman who slept between the baker and his wife. For the house there was no line, nor for anything under its roof. Kallia stood in the sun with the wool in her hand, and she had heard all of it as clearly as I had.
 
-"He writes as one who is content there," I said.
+"He says the arm has knit," I said.
 
 She drew a fresh pull of wool from the hank, and let it run back.
 
@@ -149,11 +147,11 @@ Somebody came in at the gate at a run. It was Nikaso, from three gates down, wit
 
 "Me? He remembers me?" She looked at the papyrus in my hands as if it might say so again. "He used to drop snails in my water jar."
 
-"He's married, in Syria. There'll be a child by now."
+"He's married, in Syria, and there's a child."
 
-"A child." Nikaso looked from Kallia to me and back. "And you out here spinning. I'd have been at the lions by now. I'd have told every woman with a jar."
+"A child." Nikaso looked from Kallia to me and back. "And you out here spinning, with a grandson in Syria. I'd have been in the lane with it already, telling every woman with a jar."
 
-"That Elean was promised a cup of wine for carrying it, and got water. Go and stand him one, if you want the lions."
+"That Elean was promised a cup of wine for carrying it, and got water."
 
 "I'll stand him two," Nikaso said. She was already calling to somebody outside as she passed the gate. We heard her at the next gate, and the one after, and fainter at the bottom: Syria, and a wife, and a child.
 
@@ -165,7 +163,7 @@ The chickpeas wanted soaking for the morning. I tipped the cleaned ones into the
 
 "Put a plate on those, or the mice will be in."
 
-I found a plate. It was the cracked one but it fit.
+The one on top was the cracked one but it fit.
 
 "I can write, as well as read. If you want to send him word, when the boats go east."
 
@@ -187,11 +185,11 @@ The papyrus still lay open in my lap. A draught from above caught its loose end 
 
 Her good himation hung on the peg by the storeroom. She drew it up to cover her head and her kerchief, and closed it under her chin.
 
-"That Elean will have been all round the stadium by now," she said, "and there's nothing there with a roof on it that isn't full to the tiles. He can have Ariston's room, at the three obols."
+"That Elean will have been all round the stadium by now," she said, "and the houses there are full to the tiles. He can have Ariston's room, at the three obols."
 
 "Shall I go up and open it?"
 
-"There's the lamps to fill before the gallery comes down."
+"He can lift a latch."
 
 The gate came to behind her and bounced once on its latch. Her shoes receded over the stones at the pace she used for the spring. Up at the last door the broom still lay over the threshold, from post to post.
 
