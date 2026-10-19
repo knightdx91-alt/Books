@@ -1,7 +1,7 @@
 # Chapter 7: The Laws of Belonging
 
 <!-- SCENE BUDGET (Target 6,600): claim + shovel + the girl's clothes 800 | Kallia's lessons + latrine + the swept room 900 | the bath (band, lamp, scar, horn powder, lentisk) 800 | language claim + house Greek 350 | the salt market 500 | public silence + the carding evening + Valens in the lane 950 | the broken jar at the spring 600 | the tribute lists + Kallia's plan 450 | the council-hall table 1,000 | the step (relief) + Maira at home 450 | cost + Dunphy + the broom + midwinter 600 -->
-<!-- Word count: 6,142 counted by shape_check; wc -w 6,306 with comments | Target: 6,600 (range 6,000-7,200) | Dialogue 21.6% | Breaks 3 | Median sentence 17 | Anchor: the girl's borrowed himation, smelling of quince and someone else, pulled up over Mara's face on the council-hall step -->
+<!-- Word count: 6,041 counted by shape_check; wc -w 6,213 with comments | Target: 6,600 (range 6,000-7,200) | Dialogue 21.3% | Continuity repair 2026-10-19: C-01, C-02, W-01-18, W-20 | Breaks 3 | Median sentence 17 | Anchor: the girl's borrowed himation, smelling of quince and someone else, pulled up over Mara's face on the council-hall step -->
 
 A woman in Phocis in the second year of Vespasian belonged to somebody, and the first thing the town did with a stranger was work out who. Nobody asked it unkindly, or not often; it was asked the way a clerk at a counter wanted a zip code, because the form had a box for it. The women at the spring looked past me to see who had sent me down for the water. Men who met me alone in a lane slowed their step, to learn whether anybody was coming along behind me, and went on at their own pace only when Kallia turned the corner with the bread. A woman with nobody behind her was a piece of luck lying in the road for whoever bent down first.
 
@@ -21,7 +21,7 @@ That was all she said about the mountain that morning. Two days after it she cam
 
 "All of it goes in the bag," she said. "The shirt with the buttons as well."
 
-The jeans went in first, folded, with the fleece over them and the shirt over the fleece. Under all three lay the flashlight, where it had lain since October without anybody in that house setting eyes on it. Out of the bundle came a tunic of undyed wool so long I could stand on the hem, a plaited cord to take it up at the waist, and a himation the color of wet sand, which Kallia shook out by two corners with a crack like a sail filling and dropped over my shoulders from behind.
+The jeans went in first, folded, with the fleece over them and the shirt over the fleece. Under all three lay the flashlight, where it had lain since October, unseen by a soul in that house. Out of the bundle came a tunic of undyed wool so long I could stand on the hem, a plaited cord to take it up at the waist, and a himation of wet-sand brown, which Kallia shook out by two corners with a crack like a sail filling and dropped over my shoulders from behind.
 
 It was heavy, and it was not new, and it smelled of somebody. Under the woodsmoke that was in everything Kallia owned there was lanolin, and under the lanolin there was a girl: sweat gone stale in the fold that had lain against an armpit, and some hair oil with a sweetness in it, quince or something with ambitions to be quince, soaked into the edge that went up over the head. A long hair, darker than mine and crimped from a braid, had caught in the fringe. The cloth was good, woven on an upright loom with the starting border still tight across its upper edge, and one corner had been darned in a browner wool by somebody in a hurry, with long slack passes that pulled the weave into a pucker. At the elbows it had bagged into the shape of another woman's arms.
 
@@ -51,7 +51,7 @@ I took shorter steps. The toes of the boots showed at every one, two scuffed bro
 
 "You've no ears. I answer." She lifted the jar off her head and handed it to me. "Now you."
 
-A jar on my head was still beyond me. A full one I could carry the length of the lane on one hip; an empty one stayed up for a few steps if nobody spoke to me, and then it slid and I caught it in both arms, while up on the gallery a Theban with a voice like a bassoon called down, "Put a cushion under it, and another girl under the cushion!"
+A jar on my head was still beyond me. A full one I could carry the length of the lane on one hip; an empty one stayed up for a few steps if the court stayed quiet, and then it slid and I caught it in both arms, while up on the gallery a Theban with a voice like a bassoon called down, "Put a cushion under it, and another girl under the cushion!"
 
 Sitting was worse, because sitting was the one thing Kallia never did in my sight. She hooked the low stool out from the hearth with her foot and lowered herself onto it, knees together, the himation drawn down over them, one hand laid on the other in her lap and her gaze on the embers; for one breath Kallia sat in her own court like a woman carved on a grave. She was up again before the stool had stopped rocking.
 
@@ -73,11 +73,11 @@ The eyes were the hard part and the part that mattered, and she taught them in p
 
 "In here you look at the pots."
 
-There were other lessons that nobody had to teach me, because the town did it for her. In my first week, still in trousers, I had gone looking for the public latrine and found it beside the market: a long room with a marble bench round three walls, holes cut along it at a sociable distance over a channel of running water, and a sponge on a stick standing in a bucket at the entrance. Four men were sitting in it at their ease, deep in the price of oil. "Thirty-two the jar at Kirrha, and he has the face to tell me that's because of the Jews' war, and I said to him, what have the Jews got to do with my—" The price of oil stopped. I was back in Kallia's lane before I had decided where I was going, with my whole face burning, and that night she showed me, without comment, a lidded pot kept beside the jars, and in the morning the dung heap at the lane's end where it went. The women of Delphi, so far as I could tell, had no bodily needs at all outside their own walls, and the men had a marble room to discuss it in.
+Some lessons the town taught for her. In my first week, still in trousers, I had gone looking for the public latrine and found it beside the market: a long room with a marble bench round three walls, holes cut along it at a sociable distance over a channel of running water, and a sponge on a stick standing in a bucket at the entrance. Four men were sitting in it at their ease, deep in the price of oil. "Thirty-two the jar at Kirrha, and he has the face to tell me that's because of the Jews' war, and I said to him, what have the Jews got to do with my—" The price of oil stopped. I was back in Kallia's lane before I had decided where I was going, with my whole face burning, and that night she showed me, without comment, a lidded pot kept beside the jars, and in the morning the dung heap at the lane's end where it went. Delphi's women, so far as I could tell, had no bodily needs at all outside their own walls, and the men had a marble room to discuss it in.
 
 The one door in that house I was not let near was at the end of the gallery, past the lodgers' rooms, where they never went. Every morning, before she did her own threshold or the court, Kallia swept that one, the boards outside a shut door, and when it was swept she left the broom lying across the doorway and did the rest of the house with the other one. Once, in my second week, I borrowed it off those boards to do the gallery. She came up, and with no word to me it was back across the same boards at the same slant, and she was on the stair again.
 
-The bath stood below the sanctuary near the running track, and the women had it from first light until the sun was over the cliffs; after that the men came down from their exercise and it was theirs. Kallia took me on a morning when the frost was still on the paving. She paid the bath-keeper's wife at the door, who took the coin and looked at me over it, and in the changing room she showed me a niche in the wall for my clothes and a pair of wooden clogs, because the floor of the hot room would take the skin off a bare sole.
+The bath stood below the sanctuary near the running track, and the women had it from first light until the sun was over the cliffs; after that the men came down from their exercise and it was theirs. Kallia took me on a morning when the frost was still on the paving. She paid the bath-keeper's wife at the door, who took the coin and eyed me over it, and in the changing room she showed me a niche in the wall for my clothes and a pair of wooden clogs, because the floor of the hot room would take the skin off a bare sole.
 
 It was full of women and steam and talk, and I had not been looked at so thoroughly since the day I came into the world. They looked the way Kallia had looked at the oak, for weight and for flaws, and they made no secret of it.
 
@@ -97,7 +97,7 @@ I jumped.
 
 "Everything's over the sea with you," said the baker's wife. "Last winter you told us your Thebans came by ship, and they walked here from four days up the road."
 
-They found the pale band on my wrist next, the white stripe where the watch had lived under its steel band since March, and a girl with a mole on her chin took my hand and turned it to the window to look. "What's this white, then? Has she had a fetter on?" It was the baker's wife who found the scar, high on my left arm, a round pitted mark about as broad as an obol and puckered in the middle, and she put her thumb on it.
+They found the pale band on my wrist next, the white stripe where the watch had lived under its steel band since March, and a girl with a mole on her chin took my hand and turned it toward the window to look. "What's this white, then? Has she had a fetter on?" It was the baker's wife who found the scar, high on my left arm, a round pitted mark, puckered in the middle, and she put her thumb on it.
 
 "Somebody's marked her."
 
@@ -117,11 +117,11 @@ On a shelf by the door of the warm room stood a dish of gray powder, and as the 
 
 "Horn. Burnt and ground. Goat's is best."
 
-It smelled of a farrier's yard, of singed hoof. I looked at the grit in it, which showed without my bending close, and I knew to the grain what a powder like that did to a glazed surface if you let anybody near the glaze with it, and the girl stood there smiling at me with every tooth in her head, and all of them sound. I said no, and when she held it out again I said it a second time. That afternoon I clambered down the hillside under the spring, where the lentisk grew in dark clumps among the rocks, and cut a straight twig the length of my hand. I chewed the end of it at the trough until the fibers came apart into a stiff little brush, which tasted of pine resin and of the gin and tonic a friend's husband had once made me in an apartment on Rittenhouse Square. The toothbrush, purple, with a rubber grip, joined the jeans in the duffel.
+It smelled of a farrier's yard, of singed hoof. I looked at the grit in it, which showed without my bending close; I had seen burnished slip scoured to a dull fog by less, and the girl stood there smiling at me with every tooth in her head, and all of them sound. I said no, and when she held it out again I said it a second time. That afternoon I clambered down the hillside under the spring, where the lentisk grew in dark clumps among the rocks, and cut a straight twig the length of my hand. I chewed the end of it at the trough until the fibers came apart into a stiff little brush, which tasted of pine resin and of the gin and tonic a friend's husband had once made me in an apartment on Rittenhouse Square. The toothbrush, purple, with a rubber grip, joined the jeans in the duffel.
 
 * * *
 
-The Greek I had brought with me was correct, and in Delphi that winter correct was an accent like any other, and a funnier one than most. I had been taught it as every American student was, in the vowels a Dutch scholar in the fifteen-hundreds had decided it ought to have and with every breathing breathed, and the Greek of Delphi had not waited for him. Where I said the ai of aisle, the town said something near the e in egg. My eta, long and careful, was halfway to an i, and up in the mountain villages it had got there.
+The Greek I had brought with me was correct, and in Delphi that winter correct was an accent like any other, and a funnier one than most. I had been taught it as every American student was, in the vowels a Dutch scholar in the fifteen-hundreds had decided it ought to have, and the Greek of Delphi had not waited for him. Where I said the ai of aisle, the town said something near the e in egg. My eta, long and careful, was halfway to an i, and up in the mountain villages it had got there.
 
 Indoors, since the morning of the shovel, I had been talking, and Kallia let me, the way she let the Thebans sing, and she corrected me the way she did everything else, by doing it. If I asked for the lentils and gave them their name from the book, every letter in its place, she said the word back to me as a different word with the same lentils in it.
 
@@ -129,7 +129,7 @@ Indoors, since the morning of the shovel, I had been talking, and Kallia let me,
 
 "Because it's what they're called." She was raking the embers. "Go and buy salt. The jar's nearly at the bottom, and the Thebans salt everything twice."
 
-So I went to the market with an obol in my fist, Kallia's basket on my arm and my gaze on the ground in front of me, past the colonnade and the stalls of clay women and white wool, to the salt-seller: a broad woman on an upturned measure behind a heap of gray salt with a wooden scoop in it. I asked her for an obol's worth in the Attic of the books, with the breathing on the front of the word and the pitch climbing wherever the accent stood, and I added please.
+So I went to the market with an obol in my fist, Kallia's basket on my arm and my gaze on the ground in front of me, past the colonnade and the stalls of clay women and white wool, to the salt-seller: a broad woman on an upturned measure behind a heap of gray salt with a wooden scoop in it. I asked her for an obol's worth in the Attic of the books, careful with every syllable, and I added please.
 
 She cupped a hand behind her ear and leaned across the salt toward me.
 
@@ -145,7 +145,7 @@ The woman at the next stall, who sold sprats out of a basket of wet leaves, neve
 
 The whole row laughed. I nearly laughed too, because it was a far better joke than any I had ever made in Greek, and it was aimed with real skill at the one tragedy I had read through twice in the original; then I saw a man at the fountain laughing along with them, his eyes on me and not on the women, and the laugh went back where it came from. The salt-seller filled Kallia's basket with more salt than an obol would buy and pushed the coin back at me, still wiping her eyes. "Come again tomorrow and ask for pepper. My sister's never seen a play."
 
-I carried the salt home through the town, and I said nothing outside Kallia's gate after that, to anyone, for a month.
+I carried the salt home through the town, and for a month after that, outside Kallia's gate, I said nothing to anyone if I could help it.
 
 It was easy, the easiest thing I had done since the cave. At the spring I filled my jar, and when a woman spoke to me about the cold I looked at her feet until she gave up. The baker's hatch took Kallia's tally stick and handed back loaves without my opening my mouth. In the lane I gave way to men without looking up, and the lane gave way back. A silent woman with her eyes on the ground and a jar on her hip was the most ordinary thing in Delphi, so ordinary the eye slid off her, and the town, which had been so curious, lost interest in me in about a week.
 
@@ -155,7 +155,7 @@ It was easy, the easiest thing I had done since the cave. At the spring I filled
 
 "Let them. Simple girls don't get asked anything. Tighter than that; you're making a bird's nest."
 
-I made it tighter. The lodgers had gone up, and the hearth was down to a red bed under the ash, and Kallia carded beyond it on her feet, with the basket of fleece propped on her hip.
+I made it tighter. The lodgers had gone up, and the hearth had burned low, and Kallia carded beyond it on her feet, with the basket of fleece propped on her hip.
 
 "Where you come from," she said, "who carries the water?"
 
@@ -173,7 +173,7 @@ It was the first question she had ever asked me about the place, and it was abou
 
 "What do the women do all day?"
 
-"They go out to work, the same as the men. I mend old pots for my living, pots older than this house, that somebody has dug up."
+"They go out to work, the same as the men. My work is pots older than this house, that somebody has dug up."
 
 "Who pays for a pot that's broken?"
 
@@ -187,13 +187,13 @@ She stopped carding and looked at me across the embers, with the two combs held 
 
 "Then why aren't you in it?"
 
-There was no Greek for that, and no English either.
+Hers was the one question I could not answer by doing something.
 
 "Do you not want to know where it is?" I said.
 
 "I want that basket done before the lamp goes."
 
-I bent over the wool. Some while after, I asked her who slept in the room at the top of the stair, and she said, "It's swept," and then, "Tighter, I said," and that was all I got out of her about it.
+I bent over the wool. Some while after, I asked her who slept in the shut room upstairs, and she said, "It's swept," and then, "Tighter, I said," and that was all I got out of her about it.
 
 Halfway through my silence Valens brought his mules to the gate for the fifth coin. I was going out for water, and I knew it was him by the mules before I knew it any other way. What I saw of him was his boots: rawhide, laced to the shin, one lace broken and knotted where it had broken, the knot standing up like a little fist.
 
@@ -203,7 +203,7 @@ Halfway through my silence Valens brought his mules to the gate for the fifth co
 
 "Oak doesn't spit."
 
-"Twice. Once on my good hearthstone and once on a Theban. When it's done a month without spitting, you'll have your coin. And keep the gray's teeth off my tree while you wait."
+"Twice. Once on my good hearthstone and once in the lentils. When it's done a month without spitting, you'll have your coin. And keep the gray's teeth off my tree while you wait."
 
 The boots turned a little, toward the gateway where I stood.
 
@@ -237,7 +237,7 @@ It hit the stone rim of the basin and broke in three. The water went over both o
 
 "Leave Antigone alone."
 
-It was the salt-seller, descending the steps with her own jar up on her head and one hand raised to steady it, as broad as a doorway.
+It was the salt-seller, descending the steps with her own jar up on her head and one hand raised to steady it.
 
 "She's nothing to you," the drover said. "She's nothing to anybody. Ask round this spring."
 
@@ -247,7 +247,7 @@ It was the salt-seller, descending the steps with her own jar up on her head and
 
 "Kallia's, and Kallia has a tongue on her and the council's ear, and you've got four donkeys drinking the god's water at the wrong end of his basin. Take them down to the trough where they belong, before somebody fetches a priest to them."
 
-He went. The salt-seller drew her water at the next lion and never glanced my way again, and I picked the three pieces of Kallia's jar out of the wet and carried them home in a fold of the himation. It had broken cleanly, along the coils it was built from, and every edge was sharp and unworn; I could have had it whole again in a week with a pot of hide glue and some string, if anybody in Delphi had wanted a jar back that had been broken once.
+He went. The salt-seller drew her water at the next lion and never glanced my way again, and I picked the three pieces of Kallia's jar out of the wet and carried them home in a fold of the himation. It had broken cleanly, along the coils it was built from, and every edge was sharp and unworn; I could have had it whole again in a week with a pot of hide glue and some string, if Delphi had any use for a jar that had been broken once.
 
 Kallia was at the hearth. When I laid the pieces on the hearthstone she looked past them, at my wrist.
 
@@ -259,11 +259,11 @@ Kallia was at the hearth. When I laid the pieces on the hearthstone she looked p
 
 "Only my wrist."
 
-"That jar came up from Kirrha on my own head, eleven summers ago, and I've not had to buy one since." She swept the pieces off the hearthstone into the ash pail with the side of her foot. "Go back down and fetch the water in the old one. It leaks. Walk quick."
+"That jar came up from Kirrha on my own head, eleven summers ago, and I've not had to buy one since. Go back down and fetch the water in the old one. It leaks." She swept the pieces off the hearthstone into the ash pail with her toe.
 
 * * *
 
-In Delphi a person was whatever the council's clerk had scratched into wax, and that winter the clerk was scratching in everybody. The talk at the spring was that the new emperor meant to take back the freedom Nero had given Greece, and freedom, it turned out, had meant chiefly that Greece paid no tribute; nobody at the spring knew when, but the council wanted every house in the city on tablets before the governor's men in Corinth thought to ask for it. Each household was to be entered, and everyone in it, and what manner of person each was.
+In Delphi a person was whatever the council's clerk had scratched into wax, and that winter the clerk was scratching in everybody. The talk at the spring was that the new emperor meant to take back the freedom Nero had given Greece, and freedom, it turned out, had meant chiefly that Greece paid no tribute; nobody at the spring knew when, but the council wanted every house in the city on tablets before Rome put a governor back in Corinth to ask for it. Each household was to be entered, and everyone in it, and what manner of person each was.
 
 Kallia told me what I was that same night, from the storeroom doorway, with no lamp.
 
@@ -275,7 +275,7 @@ Kallia told me what I was that same night, from the storeroom doorway, with no l
 
 I sat up on the mat.
 
-"West, by water. Past Corinth, past everywhere," she said, as though I might not know where it was. "Your people died, and you came on the last boat before the sea shut, after the vintage."
+"West, by water. Past Corinth, past everywhere," she said, as though I might not know where it was. "Your people died, and you came on one of the last boats before the sea shut, after the vintage."
 
 "What was he called? Your husband's brother."
 
@@ -285,7 +285,7 @@ I sat up on the mat.
 
 "The whole spring knows you came on a boat. Bank the hearth before you lie down. It went out on me twice this week."
 
-I had heard the boat invented. Valens had made it up at the kiln for a charcoal burner, crouched at a mule's feet; it had come down off Parnassus with the charcoal, gone the rounds of the spring, and reached Kallia's mouth with a city tied onto it, and now it was mine. I had been to Syracuse, as it happened, at fourteen, in a rented Fiat, with my father driving one-handed and pointing out of the window at quarries from Catania on. I remembered a fountain full of papyrus and ducks, and a gelato that tasted of nothing but cold. It did not seem the right moment to bring that up.
+I had heard the boat invented. Valens had made it up at the kiln for a charcoal burner, crouched at a mule's feet; it had come down off Parnassus with the charcoal, gone the rounds of the spring, and reached Kallia's mouth with a city tied onto it, and now it was mine. I knew Syracuse, as it happened, from his slides: a quarry deep enough to stand a church in, a fountain full of papyrus and ducks, and his voice in our dark kitchen telling me the gelato there tasted of nothing but cold. It did not seem the right moment to bring that up.
 
 The council met in a long hall beside the square, with benches round the walls and a brazier going in the middle, and householders stood in a line from the door to a table at the room's end: men in their good cloaks with their sons behind them, here and there a widow with her people, all waiting in the smoke. Just ahead of us stood a man with three sons and a quarrel over a boundary wall, which he rehearsed to the sons the length of the room. Behind the table sat the thin man I had last seen in a doorway correcting the herald on the emperor's titles. He had a hot brick wrapped in a rag under his feet and a stack of wax books at his elbow, and a boy beside him with no other work than to take the brick to the brazier when it cooled and bring it back.
 
@@ -307,11 +307,11 @@ That brought his head up.
 
 "Syrakousai," he said, correcting her, and opened a fresh page of the book.
 
-The wax had gone hard in the cold; he held the leaf over the brazier until the black surface took on a shine, then set it flat and drew the stylus, and each letter surfaced pale in the dark wax, the color of the wood showing through. I had read upside down across a good many desks in my life, and I read this one.
+The wax had gone hard in the cold; he held the leaf over the brazier until the black surface took on a shine, then set it flat and drew the stylus, and each letter surfaced pale in the dark wax where the bare wood showed through. I had read upside down across a good many desks in my life, and I read this one.
 
 "Resident since when? On what business?"
 
-"Her people died. She came on the last boat, after the vintage."
+"Her people died. She came on one of the last boats, after the vintage."
 
 "Name," he said, to me.
 
@@ -325,9 +325,9 @@ Kallia opened her mouth beside me and shut it again; I caught it at the edge of 
 
 It was the first word I had said outside her gate in nineteen days, and the vowel in it was as flat as Philadelphia.
 
-"Sicilian," Sosandros said, content with himself, as he might have been at a coin he had placed by its mint. "They all talk like that over there. I heard a Syracusan at the Pythian games once who asked for a cup of water like a man in a play."
+"Sicilian," Sosandros said, content with himself, as he might have been at a coin he had placed by its mint. "They all talk like that over there. I heard a Syracusan at the Pythian games once, and half the stand had to help him get a cup of water."
 
-He wrote it. He wrote an alpha after the mu and then an iota after the alpha, without a pause and without a question, as plainly as a man spelling a word he had seen all his life: MAIRA. It was an old name, as old as Homer, who had a Maira among the sea-nymphs who rose from the water to mourn with Achilles' mother, and somewhere else a second Maira, a dog, who found her master's body under a tree and was put into the sky for it. The clerk had made me a sea-nymph or a star with four legs, and had not asked which.
+He wrote it. He wrote an alpha after the mu and then an iota after the alpha, without a pause and without a question, as easily as a man spelling a name he had known all his life: MAIRA. It was an old name, as old as Homer, who had a Maira among the Nereids who rose from the water to mourn with Achilles' mother, and somewhere else a second Maira, a dog, who found her master's body under a tree and was put into the sky for it. The clerk had made me a Nereid or a star with four legs, and had not asked which.
 
 "Daughter of?"
 
@@ -353,7 +353,7 @@ I read the line as the stylus finished it.
 
 "Two obols," he said, "and don't tell me the god pays for wax." He shut the book on me, added it to the stack, and said, "Next," and the boundary wall came forward with its three sons.
 
-I managed the doorway and the step outside. The step was stone, worn into a dip in the middle by everybody who had ever left that room, and its cold came straight through the himation; I took it for a seat, with the square going by, pulled the borrowed wool up to my eyes, and laughed into it. I laughed without a sound, with my shoulders. I could not stop. The wool against my mouth smelled of quince and woodsmoke and of a girl who was somewhere else. I had spent fifteen years at a bench keeping things from being wiped smooth, and I had just been written into wax that the council would warm and scrape and write over for next year's list, the least lasting surface in Delphi; it was the only thing in that whole country that had ever said I was in it.
+I managed the doorway and the step outside. The step was stone, worn into a dip in the middle by everybody who had ever left that room, and its cold came straight through the himation; I took it for a seat, with the square going by, pulled the borrowed wool up to my eyes, and laughed into it without a sound, with my shoulders. The wool against my mouth smelled of quince and woodsmoke and of a girl who was somewhere else. For ten years I had sat at a bench keeping things from being wiped smooth, and I had just been written into wax that the council would warm and scrape and write over for next year's list, the least lasting surface in Delphi; it was the only thing in that whole country that had ever said I was in it.
 
 Kallia stood over me with the basket and waited. She did not tell me to get up. When I stood she started home, and I followed her, two steps behind and one to the side, watching the backs of her shoes.
 
@@ -365,7 +365,7 @@ In the court she asked it with the basket still on her arm.
 
 She listened to it with her hands still, which was rare.
 
-"What name did you give him?"
+"Say your name for me."
 
 "Maira," I said.
 
@@ -373,9 +373,9 @@ She said it after me the Delphian way, with the middle of it gone soft, so that 
 
 * * *
 
-What it cost to be somebody's was mostly small, and it went a little at a time, like the oil in a lamp. Before the month was out I turned my head for Mera at the water before I had thought about it. I gave up English even with myself in the storeroom at night, because nobody in there understood it, and when I tried one evening to say my whole address aloud in the dark, street and apartment number, I had to go back for the zip code. My eyes went to the ground of their own accord in the lane and kept there, and I knew the men of Delphi by their feet. I chewed my lentisk at the trough every morning in front of the Thebans. "Kallia, is she a goat, that she eats the hedge?" one of them asked, and Kallia told him the hedge was better company than he was. Supper was lentils and I ate it and it was all right. The girl's himation, which I slept under as well as wore, had stopped smelling of quince. It smelled of smoke and lanolin and, under them, of a woman I had to think about before I knew her.
+What it cost to be somebody's was mostly small, and it went a little at a time, like the oil in a lamp. Before the month was out I turned my head for Mera at the water before I had thought about it. I gave up English even with myself in the storeroom at night, because nobody in there understood it, and when I tried one evening to say my whole address aloud in the dark, street and apartment number, I had to go back for the zip code. My eyes went to the ground of their own accord in the lane and kept there, and I knew the men of Delphi by their feet. I chewed my lentisk at the trough every morning in front of the Thebans. "Kallia, is she a goat, that she eats the hedge?" one of them asked, and Kallia answered that the hedge was better company than he was. Supper was lentils and I ate it and it was all right. The girl's himation, which I slept under as well as wore, had stopped smelling of quince. It smelled of smoke and lanolin and, under them, of a woman I had to think about before I knew her.
 
-Mrs. Dunphy cried at her desk for a whole afternoon when I was in the fourth grade, in a green cardigan with the second button gone. She was a substitute, and she had been teaching us long division until just past lunch, and then she stopped in the middle of a remainder and sat down and put her hands flat on the blotter and cried without any noise at all, with her face uncovered, looking at the back wall. None of us went for the principal. We did the problems on the board, all of them, and then we did them again, and the room was full of the sound of thirty pencils, and at three o'clock the bell went and she wiped her face with the backs of her fingers and said we could go. I never found out why, and nobody else in that room did either, so far as I could tell.
+Mrs. Dunphy cried at her desk for a whole afternoon when I was in fourth grade, in a green cardigan short of its second button. She was a substitute, and she had been teaching us long division until just past lunch, and then she stopped in the middle of a remainder and sat down and put her hands flat on the blotter and cried without any noise at all, with her face uncovered, looking at the back wall. None of us went for the principal. We did the problems on the board, all of them, and then we did them again, and the room was full of the sound of thirty pencils, and at three o'clock the bell went and she wiped her face with the backs of her fingers and said we could go.
 
 On the last morning of the month, with the frost white on the court, I came back with the morning's water and found Kallia up on the gallery with the broom, doing the boards in front of the shut door. She swept them out to the edge and over, and the dust fell past my head in a little gray shower. Then the broom went across the doorway at its slant.
 
