@@ -63,7 +63,10 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   semicolons and "and," with one sideways clause that comes back; plain short declaratives when afraid.
   **Speech:** quick and qualified, often answering a question with a question. In early Greek (Ch.4–10)
   her lines are short, careful and wrong. In Latin (Part Two) she is competent and accented. In English
-  with Fenn she is fast, contracted and 1998.
+  with Fenn she is fast, contracted and 1998. **As written in Ch.6 (synced 2026-10-19):** her Greek carries no
+  contractions at all ("I shall not need to come down", "Had I any silver, you would have had silver", "Latin
+  is not learned on this road"), so contractions mark her English ("They're fine."; the cliff speech; the
+  plea to the rock). Her first Greek aloud in a month is to Valens in the lane.
 - **Rhythm:** set chapter by chapter by the ledger's gear. Fragments are a pressure signal, so she
   rarely uses them in calm narration.
 - **Evasion — never says:** the word *love* in her own narration until Part Two (first use no earlier
@@ -125,41 +128,98 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   about a feeling, against Mara, whose every other sentence qualifies, compares or asks.
 - **Sample line:** "He's lame in the off hind. Not your doing. Hold his head and keep talking to him; he
   likes your voice."
-- **Ch.6 as written (Writer, 2026-10-19; first live appearance, Delphi and Parnassus, November AD 70):**
-  **Physical anchor:** a scar the length of a finger across the back of his right hand, stitched in a hurry
-  with the stitches too far apart, healed "in a ladder" (Mara's eye, not his). Big; his thumb covers the
-  watch's crown entirely. **Entry behavior:** stops his string short of Kallia's gate and walks the iced lane
-  first, then asks Mara (whom he takes for the house's help) for "Ashes. For the ice." and throws them in low
-  fans where hooves land. Mara learns his name from Kallia ("Not in my court, Valens"). He never asks hers
-  ("No."), and of her English talk on the cliff he catches only "Philadelphia" ("There's a Philadelphia in Asia.
-  … Past Sardis. A man I knew came from there." / "Past Asia there's only Parthians."). **Mules:** unnamed (the
-  gray, the brown that ate Kallia's pomegranate last winter, a dun): "A name's for calling. They come when they
-  see the barley bag." Talks to them low in Latin (*Ambula, asini filia*): "They came from Corinth. They don't
-  know any Greek." **Attention on the page:** ice, ashes, sacking bound on the hooves on the cliff stair (twine
-  pulled tight with his teeth), the weather ("snow coming over the ridge"; "Snow by afternoon"), a man with a
-  donkey on the path below. **Mind-reading (wrong in mundane ways):** the donkey man is "Somebody for you" (a
-  charcoal burner); Mara is a runaway from "a big house. Corinth, or Patrae" whose father or husband "can pay men
-  to ask"; she was digging up hidden silver. His longest speech is that reading, given in order like evidence
-  ("I'll tell you what I'd tell them, if they asked me."). **The watch:** examines it back first, watches the
-  seconds hand make one circuit ("Something's going in it." / "Where's the shadow?"), winds it BACKWARD with great
-  care, stopping to listen to the click, until Mara says stop; then forward until the spring is full. Practical
-  questions only ("How long does it go?" / "And if a man forgets?" / "Who makes them?" / "For hire?" / "What stops
-  it rocking?" / "I won't drop it."). The band will not go halfway round his wrist; it lives in his belt pouch.
-  Takes it as payment the evening before ("Paid now. Not up there. Now."), shows her the dial on his palm without
-  letting go, refuses to sell it back ("You paid it to go up. You went up."), and repeats her rule as "Forward.
-  Till it stops." **Pan:** leaves a corner of crust on the ledge ("It's his house." / "I pay him." / "It's what I
+- **Ch.6 as written (Writer, 2026-10-19; first live appearance, Delphi and Parnassus, November AD 70. SYNCED to
+  the final page 2026-10-19, after dialogue-polish, disruptor, continuity repair and polish cycle 1. Every quote
+  below is on the page, except the cut wordings named as cut in the recast notes):**
+  **Body (the page's only body facts):** a scar the length of Mara's finger across the back of his **right**
+  hand; whoever closed it was in a hurry and set the stitches too far apart, and it healed "in a ladder, every
+  rung raised and white" (Mara's repairer's eye, not his). When he leans on the gray's shoulder, "she had to brace
+  a foot under his weight; his hands were older than the rest of him" (size and wear, read by Mara; no face, eyes,
+  teeth or beauty word anywhere in the chapter; his ~32 stays unstated). His thumb covers the watch's crown
+  entirely; the band will not go halfway round his wrist, so the watch lives in his belt pouch. Later chapters
+  give new body facts in fresh words; do not re-quote the ladder or the hands sentence.
+  **Entry behavior:** stops his string short of Kallia's gate and walks the iced lane alone, looking at the
+  ground; then to Mara, a woman in a gateway with a jar: "Ashes. For the ice. Before they come up." Throws them in
+  low, flat fans where a hoof will come down, and brings the mules up singly. Mara learns his name from Kallia
+  ("Not in my court, Valens"). He never asks hers ("No."). Sells Kallia split oak ("Split this month. It'll
+  burn." / "That was pine. This is oak." / "Five. It's oak."), answers her fast Phocian "a word at a time" and
+  gives one coin back; to her questions: "The last ship went out of Kirrha eight days ago." / "Oil. Wine from
+  Crete. A man with dogs to sell." / "I don't carry letters." Of Mara's crosswise woodstack: "Who showed you
+  that?" (whether a load stands: his axis, not workmanship).
+  **Syntax and register as written:** plain, contracted Greek, spoken "slowly and flatly, every ending in its
+  place"; Mara follows all of it (and loses the charcoal burner), against her uncontracted book Greek. Short level
+  declaratives in ones and twos, almost no subordination. Questions practical only: "Pan's cave. What's up
+  there?" / "With what?" / "How long is that?" / "How long does it go?" / "And if a man forgets?" / "And when it's
+  tight?" / "Who makes them?" / "For hire?" / "What stops it rocking?" His one *why* is of a plan ("Why tomorrow?
+  It'll be there in the spring."). He reckons time and risk in his own consumables: her "until the long hand is at
+  the eight" becomes "Most of a pine, then"; "Two more pines after this one"; "I'm paid for the down as well as
+  the up." **No comparison or simile in his speech:** dialogue-polish recast "like a book" as "You talk a
+  schoolmaster's Greek." and "like the stones in the sanctuary" as "You read the letters on the rock without
+  spelling them out."; the writer recast "longer" as "a morning and more". Bleed watch (eval #16): "The widow
+  carries her own water again." / "It's his. Whoever goes up in the spring." lean into Kallia's who-pays-the-labor
+  axis; from Ch.7 to Ch.12 he reckons in ground, bodies and animals, and Kallia in labor.
+  **Attention on the page:** ice and ashes; the stair ("The stair's ice from the second turn"); sacking bound on
+  the hooves with the twine pulled tight in his teeth (on the cliff, and fresh at the kiln); the ground under the
+  snow read by the lie of the walls and the tops of the thornbushes; the crust tried with his heel before he
+  trusts it; the buried ditch; the weather ("There's snow coming over the ridge"; "Snow by afternoon"); a man with
+  a donkey on the path below, watched through two turns and then three; her hands ("Those never carried a jar
+  till this month."); and what he hears in the dark (her two trips to the spring before they left). Footing
+  orders, each caused by terrain on the page: "Hold that. She'll pull." / "Step where she steps. Not where I
+  step." / "Sit back. Hold the saddle, not her mouth. Let her find it." / "Ditch." / "Keep to the wall. The edge
+  has gone along this bit." Of her English talk on the cliff he catches only "Philadelphia" ("There's a
+  Philadelphia in Asia. … Past Sardis. A man I knew came from there." / "Past Asia there's only Parthians.").
+  **Mind-reading (wrong in mundane ways):** the donkey man is "Somebody for you" (a charcoal burner); she was
+  digging for "Silver. Whatever you ran with."; and the long reading on the last descent, given with his back to
+  her: "He'll have you all over the town by the next market. … So here's what I make of you." In order: down off
+  the top in the autumn, by herself, in trousers; hands that never worked; the letters on the rock read without
+  spelling; "You've got Latin" (his second use; cap reached); a thing on her wrist "no smith in Achaea could
+  make"; no name, hers or her people's. "That's a big house. Corinth, or Patrae. Somebody there wants you back, a
+  father or a husband, and whoever he is, he's got the money to look. And there's one man in Delphi who'd take a
+  mule up Parnassus in the snow." The close is self-exposure, not prediction: the fear underneath is his own
+  traceability, and he says nothing about anyone coming. Mara: "Most of it was true, and the whole of it was
+  wrong."
+  **The watch:** taken as payment the evening before ("Paid now. Not up there. Now."). "He was a long while over
+  the back of it, and over the band where the three links had come out"; he watches the seconds hand make one
+  circuit with his face unchanged ("Something's going in it." / "Where's the shadow?" / "By itself."). Winds it
+  BACKWARD with great care, his thumb covering the crown, stopping to listen to the loose click "as if the click
+  were what it was for"; Mara lets him turn it twice more before she can say stop, gives it three turns forward,
+  and he finishes until the crown pushes back. "I won't drop it." In the cave he shows her the dial on his palm
+  without handing it over (twice) and closes his fingers over it at five to two. Refuses to sell it back ("The
+  watch." / "It's a good watch." / "You paid it to go up. You went up." / "You said he didn't need it."). Repeats
+  her rule once: "Forward. Till it stops, and not past." (There is no "Not past" exchange; dialogue-polish cut the
+  three-line antiphon.)
+  **The coin:** pinches her 50-drachma piece off her palm (brass, an old bearded head; Mara: "A poet.") and returns
+  it: "That buys nothing up there. Or down here."
+  **Mules:** unnamed (the gray, the brown that ate Kallia's pomegranate last winter, a dun): "A name's for calling.
+  They come when they see the barley bag." Talks to them low in Latin (*Ambula, asini filia*): "They came from
+  Corinth. They don't know any Greek." … "These know Latin."
+  **Pan and the cave:** leaves a corner of crust on the ledge ("It's his house." / "I pay him." / "It's what I
   do."); asks what the inscription says and answers "That's what the goat boys say it says" (he does not admit to
-  reading). **The laugh:** once, short and surprised, at her scream; then "Good." and the bread from inside his
-  tunic, warm; "It was the first thing you did up here I understood." Heard her fill the widow's jar in the dark
-  ("A thief doesn't fill the widow's jar before she goes."). **Evasions on the page:** where he's from ("North."),
-  where he learned Latin ("On the road."), anything about himself; "Don't tell me where. Whoever knows where can be
-  asked where." Lies smoothly for her to the charcoal burner ("She's the widow Kallia's. Down by the spring." /
-  "She came off a ship." / "She hit Pan."). Last line: "Men will come asking. You went up by yourself. You never
-  had a watch." **No comparison or simile in his speech** (checked: "longer" recast as "a morning and more").
+  reading). Makes fire slowly with steel, flint and bracket fungus ("No."). Holds each pine off to one side so
+  that his shadow falls away from her work; lights the next from the stub and grinds the stub out under his boot.
+  **The laugh and the bread:** once, at her scream: "short and surprised, and ran on briefly after, a laugh with
+  nobody at the end of it" (cycle 1 cut the sentence comparing it to the Sacred Way laugh). "Good." The bread from
+  the front of his tunic, broken across his knee, warm. "He finished what was in his mouth first." / "It was the
+  first thing you did up here I understood." / "A thief doesn't fill the widow's jar before she goes."
+  **Looking after her without saying so (the descent):** "Where do you sleep?" / "Dry?" / "Does she hit you?" /
+  "She feeds you." / "Stay where you are. She'll keep you while you work."
+  **Evasions on the page:** where he's from ("North."); where he learned Latin ("On the road."; Mara: "Latin is
+  not learned on this road."); her name (never asked); her story ("Don't.", then "Keep to the wall…", the refusal
+  done as footing). Would have walked past the kiln; the gray turned for the warmth. Lies smoothly for her there
+  ("She's the widow Kallia's. Down by the spring." / "Since the olives." / "She came off a ship." / "She hit
+  Pan.").
+  **Hands:** all his maintenance business in Ch.6 is mule tack (girths, a lead tied into a tail, sacking,
+  unlashing). Vary the object class from Ch.7 (audit N-16: a knife edge, a lamp wick, a sandal strap).
+  **Last line:** gives her the duffel, then the shovel: "Men will come asking. You went up by yourself. You never
+  had a watch." The threat is spoken once, here, as the pull.
   **Spent in Ch.6 (do not reuse):** the backward winding (every later winding is forward and worded fresh);
   "Something's going in it"; "Where's the shadow?"; "It's his house" / "I pay him"; "A name's for calling";
-  "These know Latin"; "He's cheap"; "Good." after the scream; "Whoever knows where can be asked where"; "You never
-  had a watch"; the evidence-in-order framing "if they asked me".
+  "These know Latin"; "He's cheap"; "Good." after the scream; "a laugh with nobody at the end of it"; "It was the
+  first thing you did up here I understood."; "Most of a pine, then"; "So here's what I make of you." and the
+  evidence-in-order reading; "one man in Delphi who'd take a mule up Parnassus in the snow"; "Keep to the wall.
+  The edge has gone along this bit."; "You've got Latin" (2, cap reached); "Men will come asking" (once, the
+  pull); "You never had a watch"; "Forward. Till it stops, and not past."; "his hands were older than the rest of
+  him"; the scar "in a ladder".
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -242,7 +302,8 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **Sample line:** "Water first. Cry after. The jar's by the door and the spring won't come to you."
 - **Ch.5 as written (Writer, 2026-10-19; first live appearance):** about fifty; broad brown face lined
   across the forehead; gray hair dragged back under a dark kerchief. Comes to the Castalian spring after
-  dark with a jar on her head and a clay lamp to fill the jar (the page gives no reason beyond the errand).
+  dark with a jar on her head and a lamp in her hand, to fill the jar (the page says only "a lamp", no
+  material; it gives no reason beyond the errand).
   Her lodging is a short walk above the spring, up the road and along a lane ("near" the spring, not
   beside the basin). **Her own life before
   she sees Mara:** fishes a pilgrims' limp garland out of the basin and flings it down the slope
@@ -267,7 +328,9 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   crooked out, to keep the gray mule out of her court ("She had that tree to the height of her head last winter");
   smells the cut end of a split ("Wet." / "It'll spit. The last lot spat a coal on a Theban's cloak, and I paid for
   the cloak." / "Then it'll spit oak."); haggles ("Four now, and the fifth when I've seen it burn without
-  spitting"); pays from a knot in her kerchief corner and ties it up again more slowly. Asks Valens whether the
+  spitting"); pays from a knot in her kerchief corner, then goes at him in Phocian too fast for Mara to follow
+  (he answers a word at a time) until he gives her one coin back, and ties the knot up again more slowly than she
+  untied it. (Synced to the final page 2026-10-19; every other quote in this block is on the page.) Asks Valens whether the
   sea is shut and whether anything came in from the east before the last ship left Kirrha, then "Letters." /
   "Nobody asked what you carry." (her son; unexplained on the page). Of Mara: "Don't wait for an answer. She
   doesn't talk." Orders: "You. Under the stair. Bark up." To a Theban on the gallery: "When the hearth comes."
@@ -692,27 +755,41 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   their horses; "Eggs. I can do eggs."; the hundred-drachma coin.
 
 #### Ch.6 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+*(Synced to the final page 2026-10-19, after dialogue-polish, disruptor, continuity repair and polish cycle 1.)*
 - **The charcoal burner** (top of the cliff path above Delphi, November AD 70): the man with the donkey Valens
   suspects on the way up; that evening he sits up with his kiln (a long hump of earth and turf, smoke seeping from
-  every seam) on an upturned basket with a sack across his head and shoulders. **His own life:** the kiln, nine days
-  burning, which he talks to as "she"/"girl" ("Easy, girl. Hold it in.") and stamps shut where flame shows; a
-  grievance about the god's oxen (four for all Delphi, "and the council had three eaten before the fire was lit").
-  Roasts chestnuts at the edge of the embers and pushes them to Mara with his foot. His cousin's boy is the Ch.4
-  goat-boy, whose story ("ate his cheese and paid him in a cake made of hay") he repeats; "It's all hay to a boy."
-  Fast mountain Greek: Mara loses half of it. Laughs once at "She hit Pan" (no bodily aftermath; the donkey opens
-  its eyes). No device; notices no materials.
+  every seam) on an upturned basket with a sack across his head and shoulders. Hails them once as "Mule-man!"
+  (one use only, so it is not an epithet): "Come and warm yourselves. She won't mind." **His own life:** the kiln,
+  nine days burning ("Nine days she's been at it, and now this."), which he talks to as "she"/"girl" ("Easy, girl.
+  Hold it in.") and stamps shut where flame shows; a grievance about the god's oxen that runs past Mara ("Did you
+  get any of the god's ox?" The rest ran on past me. I caught the number four in it, and the council, and a
+  grievance about meat.); to Valens's "I was at Kirrha": "So you ate what we ate. Smoke." Roasts chestnuts at the
+  edge of the embers and pushes them to Mara with his foot ("Eat. They're split already."). His cousin's boy is
+  the Ch.4 goat-boy, who saw her "step out of Pan's cave at the olive beating"; he says the next part slowly, to
+  her ("The boy says you ate his cheese and paid him in a cake made of hay."), which is why she can answer "It was
+  oats"; "It's all hay to a boy." Fast mountain Greek: "I lost words out of everything he said, and none of
+  Valens's answers." At "She hit Pan" the sack across his shoulders shakes (no laugh line, no bodily aftermath;
+  the donkey opens its eyes and shuts them again). "Sleep here by her. You'll not get down in the dark." No
+  device; notices no materials.
 - **A Theban on Kallia's gallery** ("Kallia! Are those lentils ever coming?").
 - **Mention only:** the temple painter the priests hang off the roof each spring "with a pot of red" (came off the
   corner at the last painting, broke his arm, back up in a month: "He's cheap"); "a man I knew" from Philadelphia in
   Asia (Valens); the goat-boy again, by report; Ray (snow tires on the Buick, Thanksgiving to Easter Monday); the
-  Larchwood neighbor in the January '94 ice storm (cat litter down the steps at six a.m.; moved out in March).
+  Larchwood neighbor in the January '94 ice storm (cat litter down the steps at six a.m.; moved out in March);
+  Gloria, unnamed as "a cousin", in Mara's cliff speech (the pearl in one ear and the gold hoop in the other
+  through a whole church service; the continuity repair replaced the freezer-door keys, which were a bible sample
+  line); Mara's father's watch, wound "every morning since March".
 - **Mules (no names by design):** the gray (the lead; Mara rides her and is towed up the cliff by her tail), the
   brown (ate Kallia's pomegranate last winter; not on the trip), a dun (carries the duffel).
 - **Spent in Ch.6 (do not reuse):** "the temperature of a person" (the bread); "salted it with conviction"; "like
-  a crossing guard who had lost her sign"; "like a glass dipped in sugar"; "like the glaze on a cheap plate"; "like
-  milk being poured off cream"; "Where I came in."; "From in there. Not over anything."; "Nobody learns Latin on
-  this road."; "A thief doesn't fill the widow's jar"; "Then it'll spit oak"; "The shovel comes back"; being towed
-  up the cliff by a mule's tail; "It was the plain truth about her" (the Latin mule).
+  a crossing guard who had lost her sign"; "like a glass dipped in sugar"; "like the paint on a fire escape" (the
+  layered ice; it replaced the cut "glaze on a cheap plate"); "Where I came in."; "From in there. Not over
+  anything."; "Latin is not learned on this road." (Mara's); "A thief doesn't fill the widow's jar"; "Then it'll
+  spit oak"; "The shovel comes back"; being towed up the cliff by a mule's tail; "It was the plain truth about
+  her" (the Latin mule); "I make the cracks in old pots disappear" (the cliff speech); "Most of it was true, and
+  the whole of it was wrong." (the one antithesis; keep it to one); "It's all hay to a boy"; "I lost words out of
+  everything he said". (Removed in the sync: "like milk being poured off cream" and "Nobody learns Latin on this
+  road", which are not on the page.)
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -905,13 +982,46 @@ line each, so that walk-ons don't all sound like Mara.
   wet stone"**, **"side by side"** shoes (each spent at its earlier use); the **flashlight**: used once on the
   page in Ch.5 (the sheepfold, a dog goes frantic at the beam) and deliberately kept hidden in Kallia's
   storeroom — any later use must reckon with being seen.
-- **At-risk after Ch.6 (Writer, 2026-10-19; closed or capped devices):** **Mara's long English speech to a
-  listener who cannot follow it** (Ch.5 to Kallia at the spring, Ch.6 to Valens on the cliff): CLOSED, no third;
-  **the watch wound backward** (the Ch.6 anchor): SPENT, every later winding is forward and in fresh words;
-  **the watch shown on Valens's open palm without being handed over** (twice in Ch.6): SPENT; **sacking bound on
-  mules' hooves** (twice in Ch.6): one more at most, worded fresh; **Valens's weather forecast as a line** (two in
-  Ch.6): vary the form; **"said to the rock"** is Ch.6's one "said to the [non-listener]"; **the goat-boy's
-  nymph story told by a third party** (Valens, the charcoal burner): SPENT, the rumor is not retold again.
+- **At-risk after Ch.6 (Writer, 2026-10-19; closed or capped devices; extended 2026-10-19 from the dialogue-polish,
+  disruption, continuity-repair and polish-cycle-1 logs and the Ch.6 eval):**
+  - **Mara's long English speech to a listener who cannot follow it** (Ch.4 the goat-boy, Ch.5 Kallia at the
+    spring, Ch.6 Valens on the cliff; Ch.5's content had repeated into Ch.6 until cycle 1): CLOSED, no fourth.
+    Enforce it verbatim in the Ch.7–10 writer prompts.
+  - **The watch wound backward** (the Ch.6 anchor): SPENT. Every later winding is forward and in fresh words.
+  - **The "first Greek I understood/followed" move** (Ch.5, cut to one use; Ch.6 "I followed all of it without
+    reaching"): SPENT book-wide.
+  - **Valens naming himself as the traceable one** ("one man in Delphi who'd take a mule up Parnassus in the
+    snow"): used once. It must not become his way of voicing fear. Later fear stays unspoken (his evasion) or goes
+    into his attention (ground, exits, who saw).
+  - **Valens answering closeness with a practical order** ("Eat the crumbs… You'll want them on the stair." /
+    "Stay where you are. She'll keep you while you work." / "Keep to the wall…"): SPENT until Ch.12. His next
+    deflections are silence, a practical question back, or work for his hands on a new object class (not tack).
+  - **Footing instructions (WATCH):** six in Ch.6, each worded differently and each caused by terrain on the page,
+    so not a tic yet. Give a footing order only where the ground on the page demands one, never as a reply to
+    feeling.
+  - **"Men will come asking"**: used once, as the Ch.6 pull. Never again, from anyone, in any come-and-ask wording
+    (the disruptor cut a five-fold refrain down to this one line).
+  - **Mara's voice failing as her body's reaction** (Ch.5 to Kallia; Ch.6 "Then I had my voice" at the winding and
+    "my voice would not stay level" when she lets the watch go): RETIRED for Ch.7–9. The next mapped body break is
+    Ch.20's weeping; any body rebel before then uses a different channel.
+  - **The "did not X; she/he Y" pivot**: SPENT. It was frozen by name after Ch.5, recurred twice in Ch.6 (both cut in
+    cycle 1), and has now appeared in three chapters. Zero tolerance.
+  - **"He meant [X]." narrator glosses**: at most 1 per chapter. Ch.6 keeps one ("He meant the gray mule and my
+    laughing."); the other three were cut. Let the line carry its own referent.
+  - **Also flagged by the Ch.6 chain:** "took in my [X]" SPENT; watching someone "decide" SPENT; the crack rendered
+    as "rock / air / cold" SPENT (Ch.3, Ch.6); "You've got Latin" 2 in Valens's mouth, SPENT; "crouched in the
+    mouth" 1; "[It/That] was English, and…" and "in (n)either language" SPENT; "talked/said to his/her back" SPENT
+    in every wording; plate and glaze comparisons SPENT (Ch.2, Ch.6), and sugar comparisons rest (Ch.5, Ch.6); "the
+    widow" for Kallia is now at 6 in Ch.6 (Valens 4, Mara's Greek 2). Mara knows the name, so she avoids the epithet
+    and Valens does not lean on it; sample-line content on the page: 0 (the freezer-door keys were removed);
+    Valens's "Nobody [rule]" opener and "Then you…" reply shape formed in the draft and were cut, so hold them at 0–1
+    per chapter.
+  - **The watch shown on Valens's open palm without being handed over** (twice in Ch.6): SPENT. **Sacking bound on
+    mules' hooves** (twice in Ch.6): one more at most, worded fresh. **Valens's weather forecast as a line** (two in
+    Ch.6): vary the form. **"said to the rock"** is Ch.6's one "said to the [non-listener]". **The goat-boy's nymph
+    story told by a third party** (Valens, the charcoal burner): SPENT; the rumor is not retold again.
+  - **The flashlight (Ch.6):** in the duffel, unused in the cave, kept from Valens's sight ("I had let him burn his
+    pines rather than have him see it"). The Ch.5 rule stands: any use must reckon with being seen.
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
   used as a scene button.
@@ -1052,3 +1162,22 @@ finalizing the chapter. Never add a tic to fix it.
   temple painter and the man from Philadelphia in Asia are mention-only. No device collisions: Valens never
   compares (one "longer" recast) and never notices workmanship (Mara reads his scar, not he hers); the charcoal
   burner counts nothing and notices no materials. At-risk list: the Ch.6 block added. Tic-bearer roster still NONE.
+- 2026-10-19 (bookkeeping sync, Ch.6 final page; no chapter text touched): synced the bible to chapter-6.md after
+  dialogue-polish, disruptor, continuity repair and polish cycle 1 (ENTITY_STATE CH6-6, audit N-04, eval #17).
+  VALENS's Ch.6 block was rewritten from the page. Removed: "can pay men to ask", "I'll tell you what I'd tell
+  them, if they asked me", "Don't tell me where. Whoever knows where can be asked where" (never published), and
+  the bare "Forward. Till it stops." Now: "So here's what I make of you." / "he's got the money to look" / "one man
+  in Delphi who'd take a mule up Parnassus in the snow" / "Don't." then "Keep to the wall…" / "Forward. Till it
+  stops, and not past." Added the body sentence (his weight on the gray, "his hands were older than the rest of
+  him"), the scar on the back of his right hand, his syntax (contracted plain Greek, consumable reckoning, the two
+  recast comparisons), attention (footing, ground, weather, hearing), the coin, the tack-only hands note and the
+  Kallia-axis bleed watch. His tic line is unchanged: none. Ch.6 walk-ons: the burner's oxen grievance is now
+  what Mara catches, "I lost words out of everything he said", the sack shaking instead of a laugh, "Mule-man!"
+  once, "at the olive beating". Spent list: "Nobody learns Latin on this road." → "Latin is not learned on this
+  road."; "glaze on a cheap plate" → "paint on a fire escape"; "milk being poured off cream" removed. Mention-only:
+  Gloria's earrings and "since March". KALLIA's Ch.6 block: the Phocian haggle and the coin given back. MARA's card:
+  her Greek uncontracted, her English contracted. CH5-2 fixed: Kallia's "clay lamp" → "a lamp" (ch-05 says only
+  "a lamp"). At-risk after Ch.6: added the "first Greek I understood" move, Valens's self-exposure as fear, his
+  practical-order deflection (SPENT until Ch.12), Mara's voice failure (retired Ch.7–9), "Men will come asking"
+  (once), footing orders (watch), the "did not X; she Y" pivot, "He meant…" glosses (≤1/chapter), the English
+  speech CLOSED at three chapters, and the chain's smaller items. Tic-bearer roster still NONE.

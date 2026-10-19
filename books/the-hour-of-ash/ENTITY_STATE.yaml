@@ -390,7 +390,9 @@ meta:
       recheck_ch5_cycle1: "2026-10-19, after Ch.5 polish cycle 1 and finalize fixes: the five original items now agree. character-bible.md quotes 'Who saw you come down here?' (l.216-217), the sieve lent 'a month' ago 'to strain her must' (l.222), the slave's 'Split end to end, and they'll stop it out of my bread' (l.624), 'Since the bronzes were carted off there's no buying' (l.632), and 'Whose is she?' as 'an unattributed voice among the three' (l.621). RESIDUAL (new): the bible's Kallia card says 'Mara answers her in English throughout, or by a head-shake … (\"Mine.\" is said in English)' (l.223-224), written against the cycle-1 text. The finalize fixes N3/N4 removed the tags: 'Mine.' (p175), 'Where are we going?' (p179) and 'Eggs. I can do eggs.' (p169; p170 'She took that for a no') now carry no language tag. The bible states more than the page. Also the bible's 'clay lamp' (the page says only 'a lamp', p137). Still open on the residual only (see CH5-6)."
       line_ch5_cycle1: "ch-05:p137; ch-05:p169; ch-05:p170; ch-05:p175; ch-05:p179"
       ch6_note: "2026-10-19 (Ch.6 run): NARROWED again. Ch.6 states 'I had spoken no Greek aloud since the guide on the Sacred Way. Kallia gave me orders my hands could understand without me, and I followed them, and whatever got away from me got away in English, and Kallia worked on through it.' (ch-06:p39). So the bible's 'Mara answers her in English throughout' and \"'Mine.' is said in English\" now agree with the page (see CH5-6, RESOLVED). Remaining residual: 'clay lamp' (bible) vs 'a lamp' (ch-05:p137). Still open on that one word only."
-      flag: "UNRESOLVED"
+      resolution: "2026-10-19 (orchestrator): character-bible.md synced to the final Ch.6 page (cut quotations replaced; Kallia Ch.5 lamp matches the page)."
+      flag: "RESOLVED"
+      resolved_date: "2026-10-19"
     - id: CH5-3
       chapter: 5
       severity: info
@@ -519,7 +521,9 @@ meta:
       line: "ch-06:p307; ch-06:p313; ch-06:p329; ch-06:p332; ch-06:p339"
       note: "the bible paraphrases text that is no longer on the page. Quote the prose if any of these is recalled. 'Whoever knows where can be asked where' is listed as spent but was never published. The writer's report (manuscript/reports/chapter-6-report.md) also says Mara breaks the Greek refusal 'only for Valens'; see CH6-7 for p322."
       recheck_continuity_repair: "2026-10-19: character-bible.md is unchanged since 14:31 and still carries every paraphrase above (l.143, l.161-l.162, l.699, l.713). The repair added more drift. The bible's Ch.6 Valens and walk-on notes do not record the clasp, 'since March', the old bearded 'poet' coin, the flashlight hidden in the duffel, 'this autumn' / 'at the olive beating' / 'Since the olives', 'In Delphi not one person knows my name. Kallia has not asked it.', 'Kallia went at him in Phocian too fast for me to follow, and he answered her a word at a time', or the cousin's odd earrings in place of the freezer keys. Its Ch.5 Kallia card (l.256) still has the girl who 'ran off at the vintage', which is ch-05 prose and correct. Still open (bible vs page)."
-      flag: "UNRESOLVED"
+      resolution: "2026-10-19 (orchestrator): character-bible.md synced to the final Ch.6 page (cut quotations replaced; Kallia Ch.5 lamp matches the page)."
+      flag: "RESOLVED"
+      resolved_date: "2026-10-19"
     - id: CH6-7
       chapter: 6
       severity: info
