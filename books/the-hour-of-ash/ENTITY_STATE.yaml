@@ -34,7 +34,7 @@
 # outline:ch-06 sources replaced where the prose confirms; departures logged as CH6-n in meta.contradictions. CH5-6 RESOLVED by ch-06:p39.
 # Re-synced the same day to the continuity repair (evaluations/revision-chapter-6-continuity.md; chapter-6.md last written 15:15:16):
 # still 342 paragraphs, numbering unchanged. CH6-1/2/3/4/8 RESOLVED by the page, CH6-7 by the outline patch; CH6-5 and CH6-6 still open.
-# UPDATE (chapter 7, final text: post-writer, dialogue-polish, hook-craft and book-disruptor) 2026-10-19. Ch.7 facts carry ch-07:pYY
+# UPDATE (chapter 7, final text: post-writer, dialogue-polish, hook-craft, book-disruptor and the continuity repair) 2026-10-19. Ch.7 facts carry ch-07:pYY
 # (p1..p194; three '* * *' breaks = four shards p1-p58, p59-p128, p129-p182, p183-p194; the two HTML comment lines are not counted).
 # outline:ch-07 sources replaced where the prose confirms; departures logged as CH7-n in meta.contradictions. council-clerk is renamed
 # sosandros, because the page identifies him (ch-07:p141). FOUND, and FIXED in the same run at the orchestrator's request: polish cycle 1
@@ -48,7 +48,7 @@ meta:
   version: "1.0"
   last_updated: "2026-10-19"
   last_updated_by: "entity-tracker"
-  mode: "UPDATE (chapter 7, final text after writer, dialogue-polish, hook-craft and book-disruptor, 2026-10-19)"
+  mode: "UPDATE (chapter 7, final text after writer, dialogue-polish, hook-craft, book-disruptor and the continuity repair, 2026-10-19; plus the Ch.6 re-anchor after its polish cycle 1)"
   source: "manuscript Ch.1-7 (Ch.1-3 as re-synced after their editor passes, 2026-10-18; Ch.4 as re-synced after its polish cycle 1, 2026-10-19; Ch.5 as re-synced after its polish cycle 1 and finalize fixes N1-N7, 2026-10-19; Ch.2, Ch.3 and Ch.5 re-synced after the author fixes, 2026-10-19; Ch.6 final text after writer, dialogue-polish, hook-craft and disruptor, 2026-10-19, re-synced to its polish cycle 1 in the Ch.7 run; Ch.7 final text after writer, dialogue-polish, hook-craft and disruptor, 2026-10-19) + outline (patched 2026-10-18) for Ch.8-44"
   last_updated_chapter: 7
   chapters_tracked: [1, 2, 3, 4, 5, 6, 7]
@@ -106,7 +106,7 @@ meta:
   source_convention:
     plan: "outline:ch-XX = planned in that chapter's outline entry; outline:macro = Macro-Structure/ledger block; foundation:§N = foundation section; STATE:ARCH-N = architect decision in STATE.yaml"
     manuscript: "ch-XX:pYY once written. UPDATE mode replaces outline:ch-XX with ch-XX:pYY as each chapter confirms (or contradicts) the plan."
-    paragraph_rule: "pYY = the YY-th prose paragraph of the chapter file, counting every non-empty line except the '# Chapter' heading and the '* * *' scene breaks (Ch.1 = p1..p193 and Ch.2 = p1..p69, both re-anchored 2026-10-18 to the files as they stand after the editor passes; Ch.3 = p1..p90, no scene breaks, 6,834 words, re-anchored 2026-10-18 after polish cycle 1; Ch.4 = p1..p83, seven '* * *' breaks (eight shards: p1-p2, p3-p12, p13-p35, p36-p42, p43-p58, p59-p62, p63-p73, p74-p83), 1,869 prose words; re-anchored 2026-10-19 after polish cycle 1: still 83 paragraphs and the same eight shards, so every ch-04:pYY keeps its number; now 1,803 prose words, wc -w 1,832; Ch.5 = p1..p212, four '* * *' breaks; re-anchored 2026-10-19 after polish cycle 1 and finalize fixes N1-N7 (still 212 paragraphs; five shards now p1-p21 descent, p22-p72 Sacred Way and temple, p73-p92 steps and rod, p93-p207 square, herald, spring, Kallia, p208-p212 storeroom; wc -w 8,173). Italic notebook/document lines count as paragraphs. Ch.6 = p1..p342 (added 2026-10-19): two '* * *' breaks, three shards p1-p35 (the recess, the present), p36-p243 (backfill: the lane, the deal, the night, the climb, into the cave), p244-p342 (the wall, the bread, the descent, the kiln, the first houses); the two HTML comment lines under the heading (scene budget; word count) are metadata, not prose, and are NOT counted; 6,634 prose words after the disruptor per the file's own comment. Ch.1 re-checked 193 and Ch.5 re-checked 210 for the Ch.6 cross-cites. Re-checked after the Ch.6 continuity repair (chapter-6.md last written 15:15:16): still p1..p342 with the same two breaks, so every ch-06:pYY keeps its number. The repair changed text inside p2, p7, p14, p34, p37, p67, p86, p108, p110, p116, p120, p159, p164, p165, p249, p254, p258, p272, p277, p278, p289, p308, p312, p315 and p318. Ch.7 = p1..p194 (added 2026-10-19): three '* * *' breaks give four shards. p1-p58 is the body (shovel, clothes, walking, sitting, eyes, the latrine, the swept door, the bath, the lentisk). p59-p128 is the tongue (house Greek, the salt market, the month of public silence, the carding evening, Valens at the gate, the broken jar). p129-p182 is the wax (the tribute lists, the Syracuse plan, the council hall, 'Maira. The water.'). p183-p194 is the cost, Mrs. Dunphy, the broom and midwinter. The two HTML comment lines under the heading are not counted. The file's own comment gives 6,142 prose words by shape_check (wc -w 6,306). The italic register line (p172) counts as a paragraph. Ch.6 RE-ANCHORED 2026-10-19 in the Ch.7 run: after its polish cycle 1, chapter-6.md has p1..p341 (old p101 and p102 merged into p101; old p103..p342 = p102..p341; the same two breaks, now after p35 and p242). Cycle 1 changed text inside current p2, p7, p12, p34, p38, p42, p44, p90, p101, p114, p132, p142, p164, p207, p244, p245, p253, p257, p276, p308, p309 and p327."
+    paragraph_rule: "pYY = the YY-th prose paragraph of the chapter file, counting every non-empty line except the '# Chapter' heading and the '* * *' scene breaks (Ch.1 = p1..p193 and Ch.2 = p1..p69, both re-anchored 2026-10-18 to the files as they stand after the editor passes; Ch.3 = p1..p90, no scene breaks, 6,834 words, re-anchored 2026-10-18 after polish cycle 1; Ch.4 = p1..p83, seven '* * *' breaks (eight shards: p1-p2, p3-p12, p13-p35, p36-p42, p43-p58, p59-p62, p63-p73, p74-p83), 1,869 prose words; re-anchored 2026-10-19 after polish cycle 1: still 83 paragraphs and the same eight shards, so every ch-04:pYY keeps its number; now 1,803 prose words, wc -w 1,832; Ch.5 = p1..p212, four '* * *' breaks; re-anchored 2026-10-19 after polish cycle 1 and finalize fixes N1-N7 (still 212 paragraphs; five shards now p1-p21 descent, p22-p72 Sacred Way and temple, p73-p92 steps and rod, p93-p207 square, herald, spring, Kallia, p208-p212 storeroom; wc -w 8,173). Italic notebook/document lines count as paragraphs. Ch.6 = p1..p342 (added 2026-10-19): two '* * *' breaks, three shards p1-p35 (the recess, the present), p36-p243 (backfill: the lane, the deal, the night, the climb, into the cave), p244-p342 (the wall, the bread, the descent, the kiln, the first houses); the two HTML comment lines under the heading (scene budget; word count) are metadata, not prose, and are NOT counted; 6,634 prose words after the disruptor per the file's own comment. Ch.1 re-checked 193 and Ch.5 re-checked 210 for the Ch.6 cross-cites. Re-checked after the Ch.6 continuity repair (chapter-6.md last written 15:15:16): still p1..p342 with the same two breaks, so every ch-06:pYY keeps its number. The repair changed text inside p2, p7, p14, p34, p37, p67, p86, p108, p110, p116, p120, p159, p164, p165, p249, p254, p258, p272, p277, p278, p289, p308, p312, p315 and p318. Ch.7 = p1..p194 (added 2026-10-19): three '* * *' breaks give four shards. p1-p58 is the body (shovel, clothes, walking, sitting, eyes, the latrine, the swept door, the bath, the lentisk). p59-p128 is the tongue (house Greek, the salt market, the month of public silence, the carding evening, Valens at the gate, the broken jar). p129-p182 is the wax (the tribute lists, the Syracuse plan, the council hall, 'Maira. The water.'). p183-p194 is the cost, Mrs. Dunphy, the broom and midwinter. The two HTML comment lines under the heading are not counted. The file's own comment gives 6,041 prose words by shape_check (wc -w 6,213) after the continuity repair (chapter-7.md last written 16:55:16); the repair changed text inside p10, p25, p36, p38, p48, p58, p59, p63, p71, p76, p85, p92, p95, p100, p117, p122, p128, p129, p135, p140, p151, p153, p160, p161, p174, p180, p183 and p184, and the numbering is unchanged at 194. The italic register line (p172) counts as a paragraph. Ch.6 RE-ANCHORED 2026-10-19 in the Ch.7 run: after its polish cycle 1, chapter-6.md has p1..p341 (old p101 and p102 merged into p101; old p103..p342 = p102..p341; the same two breaks, now after p35 and p242). Cycle 1 changed text inside current p2, p7, p12, p34, p38, p42, p44, p90, p101, p114, p132, p142, p164, p207, p244, p245, p253, p257, p276, p308, p309 and p327."
   status_convention: "Every fact below is PLANNED until its chapter is written. A written chapter that departs from a planned fact is a conflict, not an overwrite."
   method_extension: "knowledge.method adds `prior_knowledge` (known before the story's first scene, e.g. Mara's 1998 education) to the standard set told_by:slug | overheard | witnessed | discovered | inferred."
   conflicts_index:
@@ -587,52 +587,69 @@ meta:
       prose: "'He leaned on her shoulder, and she had to brace a foot under his weight.' (ch-06:p44). The clause about his hands is not on the page"
       line: "ch-06:p44"
       note: "found in the Ch.7 run while re-anchoring Ch.6. chapter-6.md (last written 15:45:34) was edited after the cycle report (15:39), and the clause went. The bible's body fact and spent-list entry quote text that is no longer published. Ch.7 adds no Valens body facts (boots only), so nothing downstream depends on it yet. Recorded, not judged."
-      flag: "UNRESOLVED"
+      resolution: "2026-10-19 (orchestrator): bible now quotes the page: 'It was an older hand than the rest of him.' (the scar paragraph)."
+      flag: "RESOLVED"
+      resolved_date: "2026-10-19"
     - id: CH7-1
       chapter: 7
       severity: low
       entity: "mara-reyes.traits (length of her working life)"
       plan: "Ch.3 prose: 'My lungs had spent ten years in a basement lab.' (ch-03:p2). Tracked as the trait 'has worked about ten years in the basement lab' and the derived timeline event 'c. 1988 … Mara begins work in the basement lab'"
-      prose: "'I had spent fifteen years at a bench keeping things from being wiped smooth' (ch-07:p174)"
+      prose: "[pre-repair text] 'I had spent fifteen years at a bench keeping things from being wiped smooth' (ch-07:p174)"
       line: "ch-03:p2; ch-07:p174"
       note: "Mara is 33 in 1998 (b. 1965). Ten years in the lab puts the start at about 23; fifteen years at a bench puts it at about 18. The two agree if 'a bench' includes student or apprentice bench work before the lab job, but the page does not say so. Recorded, not judged."
-      flag: "UNRESOLVED"
+      resolution: "2026-10-19, continuity repair (audit W-02; evaluations/revision-chapter-7-continuity.md): p174 now reads 'For ten years I had sat at a bench keeping things from being wiped smooth', which agrees with ch-03:p2 'ten years in a basement lab'. The prose field above quotes the pre-repair text"
+      flag: "RESOLVED"
+      resolved_from_conflict: true
+      resolved_date: "2026-10-19"
     - id: CH7-2
       chapter: 7
       severity: info
       entity: "locations.kallias-house (where the shut, swept room is)"
       plan: "ch-07:p37: 'The one door in that house I was not let near was at the end of the gallery, past the lodgers' rooms, where they never went.' ch-07:p185: Kallia is 'up on the gallery with the broom, doing the boards in front of the shut door', and speaks 'at the bottom' of the stair"
-      prose: "ch-07:p95: 'I asked her who slept in the room at the top of the stair'"
+      prose: "[pre-repair text] ch-07:p95: 'I asked her who slept in the room at the top of the stair'"
       line: "ch-07:p37; ch-07:p95; ch-07:p185"
       note: "one chapter gives two placements: the far end of the gallery, past the lodgers' rooms, and the top of the stair. Both hold only if the outside stair comes up at that end of the gallery. The page does not say where it comes up (Ch.5 gives only 'an outside staircase to a gallery', kallias-house household_ch5). Ch.10 (the letter) and Ch.16 (the broom put away) will place the room again. Recorded, not judged."
-      flag: "UNRESOLVED"
+      resolution: "2026-10-19, continuity repair (audit W-16): p95 now reads 'who slept in the shut room upstairs'. Only p37 places the room ('at the end of the gallery, past the lodgers' rooms'). The prose field above quotes the pre-repair text"
+      flag: "RESOLVED"
+      resolved_from_conflict: true
+      resolved_date: "2026-10-19"
     - id: CH7-3
       chapter: 7
       severity: low
       entity: "plot_threads.syracuse-cover (arrival) vs the arrival on the page"
       plan: "Ch.5: Mara reaches Delphi in the olive harvest and is seen all over the town on her first day (the Sacred Way, the temple steps, the square, the spring). Ch.6: at Kallia's 'Since the olives' (Valens, ch-06:p317); 'most of a month' at Kallia's before the climb (ch-06:p37); the last ship left Kirrha eight days before the climb (ch-06:p69)"
-      prose: "Kallia's cover: 'Your people died, and you came on the last boat before the sea shut, after the vintage' (ch-07:p135); to the clerk: 'She came on the last boat, after the vintage' (ch-07:p153); 'The whole spring knows you came on a boat' (ch-07:p139)"
+      prose: "[pre-repair text] Kallia's cover: 'Your people died, and you came on the last boat before the sea shut, after the vintage' (ch-07:p135); to the clerk: 'She came on the last boat, after the vintage' (ch-07:p153); 'The whole spring knows you came on a boat' (ch-07:p139)"
       line: "ch-06:p37; ch-06:p69; ch-06:p317; ch-07:p135; ch-07:p139; ch-07:p153"
       note: "by the page's own calendar Mara was in Delphi about three weeks before the season's last ship left Kirrha. If anyone counts, 'the last boat before the sea shut' does not fit what the town remembers of her. It fits if 'the last boat' means the last from the west, or if nobody counts. The written line (ch-07:p172) carries neither the boat nor the date, so the record itself is not contradicted. Recorded, not judged."
-      flag: "UNRESOLVED"
+      resolution: "2026-10-19, continuity repair (audit W-04): p135 'you came on one of the last boats before the sea shut, after the vintage'; p153 'She came on one of the last boats, after the vintage'. This fits an October arrival about three weeks before the last ship left Kirrha. The prose field above quotes the pre-repair text"
+      flag: "RESOLVED"
+      resolved_from_conflict: true
+      resolved_date: "2026-10-19"
     - id: CH7-4
       chapter: 7
       severity: info
       entity: "world_rules (Achaea's 'freedom') / locations.corinth"
       plan: "world rule: 'Nero granted Achaea freedom (late 67), removing the proconsul; there is no proconsul in 69; Vespasian revoked it, and in this book a proconsul governs from Corinth again by 71' (foundation:§9; foundation:§3). locations.corinth: 'no proconsul during Achaea's freedom'"
-      prose: "'The talk at the spring was that the new emperor meant to take back the freedom Nero had given Greece … nobody at the spring knew when, but the council wanted every house in the city on tablets before the governor's men in Corinth thought to ask for it.' (ch-07:p129)"
+      prose: "[pre-repair text] 'The talk at the spring was that the new emperor meant to take back the freedom Nero had given Greece … nobody at the spring knew when, but the council wanted every house in the city on tablets before the governor's men in Corinth thought to ask for it.' (ch-07:p129)"
       line: "ch-07:p129"
       note: "in winter AD 70-71 the page has the freedom still in force (not yet taken back) and also 'the governor's men in Corinth'. That fits the rule if 'governor' means the governor expected once the freedom is revoked, or an official who is not a proconsul. Read literally, it puts a governor in Corinth when there is supposed to be none. The tribute lists are spring talk, and hedged ('nobody … knew when'). Recorded, not judged."
-      flag: "UNRESOLVED"
+      resolution: "2026-10-19, continuity repair (audit W-15): p129 now reads 'before Rome put a governor back in Corinth to ask for it'. There is no governor while the freedom holds, which agrees with the world rule. The prose field above quotes the pre-repair text"
+      flag: "RESOLVED"
+      resolved_from_conflict: true
+      resolved_date: "2026-10-19"
     - id: CH7-5
       chapter: 7
       severity: info
       entity: "mara-reyes.traits (failed emotional management: the three-break count)"
       plan: "foundation §3 and outline checks#4 (C6 RESOLVED): three breaks, Ch.6 (plot-earned), Ch.20 and Ch.22 (unearned). The outline's Ch.7 chaos list names teeth, Mrs. Dunphy and all-or-nothing, and no break. character-bible: Mara's voice failure is RETIRED for Ch.7-9"
-      prose: "on the council-hall step: 'pulled the borrowed wool up to my eyes, and laughed into it. I laughed without a sound, with my shoulders. I could not stop.' (ch-07:p174). The writer's report (manuscript/reports/chapter-7-report.md) files it under 'Failed emotional management: the silent laugh on the step that she cannot stop … a different channel from voice failure'"
+      prose: "[pre-repair text] on the council-hall step: 'pulled the borrowed wool up to my eyes, and laughed into it. I laughed without a sound, with my shoulders. I could not stop.' (ch-07:p174). The writer's report (manuscript/reports/chapter-7-report.md) files it under 'Failed emotional management: the silent laugh on the step that she cannot stop … a different channel from voice failure'"
       line: "ch-07:p174"
       note: "if the step laugh counts as a break, the book has four, and Ch.22's planned 'laughing fit' becomes the second uncontrollable laugh. If it is the planned relief beat (outline Ch.7 emotional surprise: the registration 'lands as relief'), the count stays at three. The page uses no break vocabulary. Recorded, not judged."
-      flag: "UNRESOLVED"
+      resolution: "2026-10-19, continuity repair (audit W-06): p174 now reads 'laughed into it without a sound, with my shoulders'. 'I could not stop' is cut, so the beat is relief, not a loss of control, and the break count stays at three (Ch.6, 20, 22). The prose field above quotes the pre-repair text"
+      flag: "RESOLVED"
+      resolved_from_conflict: true
+      resolved_date: "2026-10-19"
     - id: CH7-6
       chapter: 7
       severity: info
@@ -641,7 +658,10 @@ meta:
       prose: "the page: 'Let the god put an edge back on it.' (p7); 'Look at a man out there and you've asked him something. And somebody answers.' (p33, one speech); 'What do the women do all day?' (p84); 'It's swept' (p95); 'Who stands for my house, if I don't? You've had no other name on that line for years. Write me.' (p169); 'They go every other winter, and this is the winter.' (p189); 'Dance. Drink. Freeze. Not as high as your cave.' (p193, one line); 'She's taught you to walk,' (p102); 'Resident since when? On what business?' (p152); 'She's come down off the stage for a scoop of salt!' (p68); 'Come again tomorrow and ask for pepper. My sister's never seen a play.' (p70); 'Antigone' twice (p68; p116); 'Here's the one that doesn't talk.' (p109); 'Look at me.' (p111); 'simple' twice from the drover (p111), once from Kallia to Valens (p105), and Kallia's 'they say you're simple' / 'Simple girls' (p73; p75). There is no 'document' sentence and no running-track young man, and the tic gate counts 0 credential asides"
       line: "ch-07:p7; ch-07:p33; ch-07:p68; ch-07:p70; ch-07:p73; ch-07:p75; ch-07:p84; ch-07:p95; ch-07:p102; ch-07:p105; ch-07:p109; ch-07:p111; ch-07:p116; ch-07:p152; ch-07:p169; ch-07:p189; ch-07:p193"
       note: "the bible paraphrases text that is no longer on the page. Dialogue-polish and the disruptor changed it, and both reports list the quotes they invalidated and say character-bible.md was NOT edited. The bible also lacks some page text: Mara's 'What was he called? Your husband's brother.' (p136, unanswered), Kallia's 'Singe your own,' (p44), the baker's wife's 'And where's that, where they've no lamps?' (p45), Mara's 'Only my wrist.' (p127) and 'And what is it for?' (p192), and the weed on the lion's lip (p110). Quote the prose if any of these is recalled."
-      flag: "UNRESOLVED"
+      recheck_after_repair: "2026-10-19: the continuity repair invalidated more bible text (the audit's W-19 sync is separate and not yet done): the Ch.7 mention-only list still has the Fiat trip to Syracuse (audit C-01; Mara knows Syracuse only from her father's slides, p140); the Sosandros block still quotes 'asked for a cup of water like a man in a play' (now 'and half the stand had to help him get a cup of water', p160); Kallia's 'What name did you give him?' is now 'Say your name for me.' (p180); the spent list's 'a sea-nymph or a star with four legs' is now 'a Nereid or a star with four legs' (p161); the himation is 'of wet-sand brown' (p10); the oak spat 'once in the lentils', not on a Theban (p100); 'I mend old pots for my living' is now 'My work is pots older than this house, that somebody has dug up' (p85); the drover's and the salt-seller's lines are as listed above. Still open until the bible is synced"
+      resolution: "2026-10-19 (orchestrator): character-bible.md synced to the final Ch.7 page (bible sync, 2026-10-19)."
+      flag: "RESOLVED"
+      resolved_date: "2026-10-19"
     - id: CH7-7
       chapter: 7
       severity: info
@@ -650,7 +670,9 @@ meta:
       prose: "the clerk is the council's clerk, Sosandros, at a table in the council hall (ch-07:p129; ch-07:p141; ch-07:p142). The word 'dependent' is not used ('kinswoman of Kallia, of her house and in her keeping', p172). The page never says whose the swept room is: 'The one door in that house I was not let near' (p37); Kallia: 'It's swept' (p95)"
       line: "ch-07:p37; ch-07:p95; ch-07:p129; ch-07:p141; ch-07:p172"
       note: "wording only: a council clerk instead of a magistrate's clerk, and the room left unattributed, as the beat's 'No explanation' requires. Ch.10 attributes the room. Recorded so that later chapters quote the page, not the outline."
-      flag: "UNRESOLVED"
+      resolution: "2026-10-19 (orchestrator): outline.md Ch.7 beat 2 now reads 'The council's clerk (Sosandros, as written)'; the swept room's owner stays unstated by design."
+      flag: "RESOLVED"
+      resolved_date: "2026-10-19"
     - id: CH7-8
       chapter: 7
       severity: info
@@ -659,7 +681,9 @@ meta:
       prose: "'at three o'clock the bell went and she wiped her face with the backs of her fingers and said we could go' (ch-07:p184)"
       line: "ch-07:p184"
       note: "reported (indirect) speech only; there is no quoted line. Whether 'said we could go' breaks 'she never speaks in the memory' is for the guardian to judge. Ch.24 and Ch.41 should keep her silent, or keep any speech indirect. Recorded, not judged."
-      flag: "UNRESOLVED"
+      resolution: "2026-10-19 (orchestrator): Dunphy card amended: no direct speech; one reported dismissal line per surfacing at most ('said we could go')."
+      flag: "RESOLVED"
+      resolved_date: "2026-10-19"
   post_patch_flags:   # P1-P5 RESOLVED 2026-10-18 by direct outline edits: Ch.20 opener=narrative (italic notice); Ch.7 'written down as somebody's kin'; Fenn: 34 yrs in the past, waited for THIS door since 62; Ch.43 original tables go through the door inside the notebook; the Corinth notice (autumn 70) reaches Delphi only in spring 71 (Ch.9).
     # Found while re-reading the PATCHED blueprint. Not resolved here (tracker rule 3). flag: UNRESOLVED.
     - { id: P1, where: "outline:ch-20", issue: "chapter header line says 'open: document (a wall graffito) → short-punch'; the ledger row, beat 1 and the opening strategy say an italic lost-property notice of 9–27 words → narrative (audit N-26 moved it to narrative)", flag: "UNRESOLVED" }
@@ -968,7 +992,7 @@ characters:
       - { chapter: 4, location: "corycian-cave (mouth) → parnassus → kalivia-plateau (the pen, above the plain)", scene: "AD 70 (plan), autumn, late afternoon into dusk. At the mouth: goats scattered below the lip; the boy round the corner of the arch; the dressed rock with ΝΥΜΦΑΙΣ / ΠΑΝΙ, where she writes ΔΕΛΦΟΙ in the dust; she sits on the duffel and eats → down the goat track behind the boy and his goats → past the firs to the pen (whole herringbone; the plain below in shadow, brown, huts and smoke, no road; more firs across the plain) → 'Halfway down' (the thorn) → 'At the foot of the slope', where he takes her by the sleeve and turns her toward 'the dark gap between the mountains' (Delphi); the cave black in the gray cliff above with one star over it", travel_noted: true, note: "Location named by the page: 'the arch', 'the lip', 'the pen', 'the plain', 'the firs', 'the foot of the slope'. The words Kalivia, Livadi and Parnassus are not used in Ch.4. Order cave → firs → pen now matches Ch.3 in reverse (CH4-5 RESOLVED 2026-10-19)", source: "ch-04:p2; ch-04:p3; ch-04:p28; ch-04:p37; ch-04:p59; ch-04:p60; ch-04:p61; ch-04:p62; ch-04:p68; ch-04:p74; ch-04:p80" }
       - { chapter: 5, location: "kalivia-plateau → arachova (the AD 70 village) → descent-road-to-delphi (olive terraces; the press) → delphi (gymnasium track; castalian-spring; market square; sacred-way; temple-of-apollo-delphi; market square; castalian-spring at dark) → kallias-house (storeroom)", scene: "(night of the arrival) an hour walking in the dark toward 'a road that was not there', then a wall found with the flashlight and the corner of a sheepfold below the slope; at first light 'back the way it had come', eastward, over stubble to the lip, a cart track, the village where Arachova had been; down the valley road in loops past the olive terraces; the press in a farmyard at an elbow of the road (carries olives for lunch); the road from the gorge joins; past the running track; the cleft and the spring (not stopping); up into the town → the gateway (the guide) → the Sacred Way: the Corcyraean bull, the next treasury (frieze; unnamed), the Thasian boxer's place, the empty Kroton base (frame), the bend (the coin), more treasuries (the Athenian one missed), the polygonal wall, the black altar → the temple terrace (the Wednesday spot) → the temple steps and porch (seized; beaten down the steps and the ramp) → the colonnade in the market square below the gate (the herald; the clay-figure seller; the procurer at dusk) → the Castalian spring at nearly dark (Kallia) → up the road, a lane, the sieve neighbor's door → Kallia's courtyard (hearth under a lean-to) → the storeroom under the stairs", travel_noted: true, note: "the outline's 'most of a day down the mountain' is the opening line (p1). Day two of AD 70 on the page: the night in the sheepfold divides Ch.4's evening from Ch.5's day", source: "ch-05:p1; ch-05:p2; ch-05:p3; ch-05:p4; ch-05:p6; ch-05:p16; ch-05:p21; ch-05:p22; ch-05:p26; ch-05:p36; ch-05:p39; ch-05:p53; ch-05:p65; ch-05:p69; ch-05:p72; ch-05:p88; ch-05:p91; ch-05:p133; ch-05:p134; ch-05:p176; ch-05:p181; ch-05:p193; ch-05:p201; ch-05:p205; ch-05:p206" }
       - { chapter: 6, location: "corycian-cave → (backfill) kallias-house → castalian-spring → delphi → cliff-stair-above-delphi → kalivia-plateau → corycian-cave → cliff-stair-above-delphi → delphi", scene: "OPENS in the present: on her knees at the bend of the crack at the back of the cave, digging with Kallia's ash shovel (p1-p35). BACKFILL: the afternoon before, in Kallia's gateway and lane (the ice, the ashes, unloading the split oak, the woodstack under the outside stair); alone in the lane with Valens at dusk (the ask and the watch). That night: the storeroom; after midnight the morning's chores and two trips to the lions in the dark; the court; the turn of the lane. Before light: through the sleeping town past the high corner of the sanctuary wall; up the cliff stair towed by the gray's tail; daylight on the last of the cliff; the snowy plain on the gray; the pen under the firs; the cave mouth; across the hall to the slab and the crack (p36-p242). THEN: the wall, the bread; out into falling snow; down through the firs, past the pen and across the plain ('Past the pen we crossed the plain, and I did not see the huts', p307); the charcoal kiln at the top of the cliff path at dusk; down the stair in the dark; stopped at the first houses of Delphi (p243-p341). Earlier (reported): on her fourth morning at Kallia's she reached the top of the town with the duffel and turned back (p38)", travel_noted: true, source: "ch-06:p1; ch-06:p36; ch-06:p38; ch-06:p59; ch-06:p77; ch-06:p152; ch-06:p160; ch-06:p162; ch-06:p176; ch-06:p190; ch-06:p219; ch-06:p221; ch-06:p237; ch-06:p238; ch-06:p274; ch-06:p276; ch-06:p286; ch-06:p307; ch-06:p327; ch-06:p339" }
-      - { chapter: 7, location: "delphi: kallias-house (court, storeroom, hearth) → delphi-latrine (her first week, recalled) → delphi-baths → the hillside below the castalian-spring (the lentisk) → delphi-market-square (the salt row) → castalian-spring (daily; the jar broken under the third lion) → delphi-council-hall → kallias-house", scene: "a winter at Kallia's, from the morning after the mountain to the last morning of the month of public silence: the shovel returned; the girl's clothes; lessons in walking, sitting and keeping her eyes down, in the court; the bath on a frosty morning; the salt market; a month of silence outside the gate; the carding evening; Valens at the gate; the drover at the spring; the Syracuse plan in the storeroom doorway; the registration at the council hall; the step; the court ('Maira. The water.'); the last morning (the broom; midwinter). No travel outside Delphi", travel_noted: false, source: "ch-07:p2; ch-07:p15; ch-07:p36; ch-07:p38; ch-07:p58; ch-07:p63; ch-07:p108; ch-07:p130; ch-07:p141; ch-07:p174; ch-07:p176; ch-07:p185" }
+      - { chapter: 7, location: "delphi: kallias-house (court, storeroom, hearth) → delphi-latrine (her first week, recalled) → delphi-baths → the hillside below the castalian-spring (the lentisk) → delphi-market-square (the salt row) → castalian-spring (daily; the jar broken under the third lion) → delphi-council-hall → kallias-house", scene: "a winter at Kallia's, from the morning after the mountain to the last morning of the month of public silence: the shovel returned; the girl's clothes; lessons in walking, sitting and keeping her eyes down, in the court; the bath on a frosty morning; the salt market; a month of silence outside the gate; the carding evening; Valens at the gate; the drover at the spring; the Syracuse plan in the storeroom doorway; the registration at the council hall; the step; the court ('Maira. The water.'); the last morning (the broom; midwinter). No travel outside Delphi", travel_noted: false, source: "ch-07:p2; ch-07:p15; ch-07:p36; ch-07:p38; ch-07:p58; ch-07:p63; ch-07:p108; ch-07:p130; ch-07:p141; ch-07:p174; ch-07:p176; ch-07:p182; ch-07:p185" }
       - { chapter: 8, location: "parnassus", scene: "Thyiades ascent by torchlight; Corycian Cave (shut); snowbound until dawn", travel_noted: true, source: "outline:ch-08" }
       - { chapter: 9, location: "delphi", scene: "sanctuary (bronze repair); polygonal wall; agora (sees Valens read the notice)", travel_noted: false, source: "outline:ch-09" }
       - { chapter: 10, location: "delphi", scene: "Kallia's kitchen", travel_noted: false, source: "outline:ch-10" }
@@ -1980,7 +2004,7 @@ characters:
     aliases: []
     importance: mentioned_only
     role: "substitute teacher in Mara's fourth-grade class; memory only, never connected to plot"
-    first_appearance: { chapter: 7, mode: "memory", source: "ch-07:p184", note: "CONFIRMED (was outline:ch-07). It enters with its own sentence: 'Mrs. Dunphy cried at her desk for a whole afternoon when I was in the fourth grade'" }
+    first_appearance: { chapter: 7, mode: "memory", source: "ch-07:p184", note: "CONFIRMED (was outline:ch-07). It enters with its own sentence: 'Mrs. Dunphy cried at her desk for a whole afternoon when I was in fourth grade'" }
     memory_ch7: { value: "a substitute in Mara's fourth-grade class, in a green cardigan 'short of its second button'. She had been teaching long division until just past lunch, stopped in the middle of a remainder, sat down, put her hands flat on the blotter and cried 'without any noise at all, with her face uncovered, looking at the back wall'. None of the children went for the principal. They did the problems on the board, all of them, twice ('the sound of thirty pencils'). At the three o'clock bell she wiped her face 'with the backs of her fingers' and said they could go. The page does not say why, and since the continuity repair (audit W-12) it no longer says that nobody ever learned. Her only speech is the reported 'said we could go' (CH7-8)", source: "ch-07:p184" }
     world_facts_1998_side: { value: "Mara's fourth grade (the school year c. 1974-75, derived from b. 1965; not stated); about thirty pupils; a blotter on the teacher's desk; a principal; the bell at three o'clock. Neither the school nor the city is named", source: "ch-07:p184" }
     mutations:
@@ -2378,10 +2402,10 @@ characters:
     voice_markers:
       ref: "character-bible.md#sosandros"
     relationships:
-      kallia: { type: "a householder on his list; they use each other's names ('Sosandros' / 'Kallia. The lodging over the spring.')", established: "ch-07:p142", current_status: "wrote her down as the woman in whose keeping Mara is" }
+      kallia: { type: "a householder on his list; they use each other's names ('Sosandros' / 'Kallia. The lodging over the spring.')", established: "ch-07:p142", current_status: "wrote her down as the woman in whose keeping Mara is", source: "ch-07:p142; ch-07:p143" }
       mara-reyes: { type: "registered her", established: "ch-07:p141", current_status: "she is on his list as Maira of Syrakousai" }
       clerks-boy: { type: "his boy (carries the brick)", established: "ch-07:p141" }
-      boundary-wall-father: { type: "a householder whose boundary dispute has run 'through three councils'", established: "ch-07:p155" }
+      boundary-wall-father: { type: "a householder whose boundary dispute has run 'through three councils'", established: "ch-07:p155", source: "ch-07:p155; ch-07:p156" }
     location_log:
       - { chapter: 5, location: "delphi-market-square", scene: "in a doorway on the square, correcting the herald", travel_noted: false, source: "ch-05:p100" }
       - { chapter: 7, location: "delphi-council-hall", scene: "the table at the end of the long hall beside the square; the tribute lists", travel_noted: false, source: "ch-07:p141" }
@@ -3067,6 +3091,7 @@ locations:
       - { fact: "a Wawa on Chestnut Street 'with a hoagie case lit up like an aquarium' (Mara's memory at the height of her hunger, Ch.4)", source: "ch-04:p42" }
       - { fact: "Ch.5 (Mara's references): a car alarm on Baltimore Avenue at three in the morning; the Mummers; Dr. Pinsky's dental office on Walnut Street (oldies station, paper bib on a beaded chain); the Rite Aid on Chestnut; 'I work in a museum in Philadelphia, in a basement'", source: "ch-05:p1; ch-05:p68; ch-05:p153; ch-05:p159" }
       - { fact: "Ch.6 (Mara's references): Larchwood, a building with a ground-floor apartment (the January '94 ice storm, cat litter on the front steps); 'I make the cracks in old pots disappear' (Ch.6 polish cycle 1; was 'I mend broken things in a basement for money'); her way home if the cave opened: 'call Gloria collect from Kennedy … and then the train home to Philadelphia, and my own kitchen'", source: "ch-06:p43; ch-06:p164" }
+      - { fact: "Ch.7 (Mara's references): a pediatric clinic in West Philadelphia (her smallpox vaccination); an apartment on Rittenhouse Square (a friend's husband's gin and tonic); a zip code at the end of her address; city water 'through a pipe in the wall', hot 'at any hour of the night'; her vowel 'as flat as Philadelphia'", source: "ch-07:p54; ch-07:p58; ch-07:p79; ch-07:p81; ch-07:p159; ch-07:p183" }
 
   university-museum:
     canonical_name: "the university museum (Philadelphia)"
@@ -3082,6 +3107,7 @@ locations:
       - { fact: "storerooms: the North African lamp was damaged there c.1935 and mended with shellac", source: "ch-02:p6" }
       - { fact: "the lab sink, with a kettle; above it, taped up and gone wavy from the steam, Mara's one-page procedure for interns on unprovenanced finds", source: "ch-03:p57" }
       - { fact: "the night men clean the museum corridors with a pine-oil cleaner", source: "ch-03:p15" }
+      - { fact: "Ch.7, Mara to Kallia: 'My work is pots older than this house, that somebody has dug up' … 'A city does. The whole city pays me, and I sit in a room under the ground with a lamp and make them whole again for it' (her simplification for Kallia; the lab is the museum's basement)", source: "ch-07:p85; ch-07:p87" }
     distances:
       - { to: "szabo-shop", value: "cab from Spruce Street over the river to Pine and Tenth; trolley back plus a walk down from Thirty-Third Street", source: "ch-01:p32; ch-01:p37; ch-01:p136" }
 
@@ -3120,6 +3146,7 @@ locations:
     aliases: []
     facts:
       - { fact: "home of the unnamed friend with Emilio's 1992 Kourion drawings; raining; 'the place by the walls'", source: "ch-01:p172; ch-01:p173" }
+      - { fact: "Emilio's offprints from Nicosia printed his name as 'Aimilios Reyes'", source: "ch-07:p163" }
 
   maras-apartment:
     canonical_name: "Mara's apartment (Philadelphia, 1998)"
@@ -3218,6 +3245,7 @@ locations:
       - { fact: "AD 70, Ch.6 (November by the plan; the month is not named on the page): 'Where the cliffs ended there was the plain, under snow, a hand deep where the wind had left it alone and up to the knee where it had drifted along the walls'. The huts Mara saw from above that first evening stand 'with their brush roofs weighed down and not one of them smoking'. The crust holds for a step, then breaks. Valens reads the ground 'by the lie of the walls and the tops of the thornbushes'. A buried ditch shows as 'a line of softer snow'. 'Nobody's up there now but the charcoal men, and they're coming down' (Valens)", source: "ch-06:p96; ch-06:p190; ch-06:p191; ch-06:p202" }
       - { fact: "AD 70, Ch.6: 'the pen under the firs' still stands, stones on edge and propped all round with snow along every slant; 'Somebody had tied the hurdle shut with a fresh withy since October' (CH3-3 ch6_note)", source: "ch-06:p219" }
       - { fact: "AD 70, Ch.6, the descent in falling snow: 'Below the mouth there was only snow and wind'; under the firs before she sees them; the light goes off the snow so slowly she cannot say when; among the firs 'the snow fell straight down between the trunks, very quiet'; then 'Past the pen we crossed the plain, and I did not see the huts' to the top of the cliff path. Order cave → firs → pen → plain → cliff top, as in Ch.3-4 (continuity repair W-09; the pre-revision text crossed the plain before the firs)", source: "ch-06:p276; ch-06:p277; ch-06:p286; ch-06:p307" }
+      - { fact: "Ch.7: 'the plain', under snow, is where the women go at midwinter ('Onto the plain. In the snow, at night, with torches'), below the firs and the cave", source: "ch-07:p191; ch-07:p194" }
 
   corycian-cave:
     canonical_name: "the Corycian Cave"
@@ -3251,11 +3279,13 @@ locations:
       - { fact: "1968 (Fenn): the slot is 'Way in past where the good light gives out, the rock comes down low on the left and there's a kind of slot you could get your arm into'. Cold air at its back for 'about a minute', then 'like somebody shut a door in another part of the house'; cold again one Tuesday morning; then nothing for weeks; on July 21 cold enough to see his breath, for 'a whole cigarette'", source: "ch-02:p19; ch-02:p20; ch-02:p69" }
       - { fact: "Fenn slept up there at least once (1968)", source: "ch-02:p21" }
       - { fact: "the scholion's name for it: 'the cave of the nymphs on Parnassus'", source: "ch-02:p1" }
+      - { fact: "Ch.7: Mara turned the shovel's edge 'On the god's rock. At the cave.'; from the court she pictures 'the dark arch and its painted letters' above the firs", source: "ch-07:p4; ch-07:p6; ch-07:p194" }
     distances:
       - { to: "delphi", value: "the goat-boy: 'Makran' (far); at the foot of the slope he turns her by the sleeve toward 'the dark gap between the mountains'. Ch.5: 'It was most of a day down the mountain' (from the foot of the slope, after a night in a sheepfold: the plain, the lip, the village, the valley road, Delphi by afternoon). Her return plan: the cart track by full light, the plain, the long climb to the firs, 'the cave at the top of it by noon'", source: "ch-04:p74; ch-04:p78; ch-05:p1; ch-05:p210" }
       - { to: "delphi-modern", value: "'four hours up and every one of them uphill' to the plateau and the cave (Fenn, 1968)", source: "ch-02:p17" }
       - { to: "delphi", value: "AD 70 by the cliff stair (Valens): 'In summer, a morning. In this, a morning and more'; down 'Before dark, if you're quick in there'. Ch.6 as walked: left Kallia's lane before light, daylight on the last of the cliff, the cave by about midday ('The light's off the mouth. Past the middle of the day' after digging a while), out after two, the first houses after dark", source: "ch-06:p10; ch-06:p98; ch-06:p100; ch-06:p157; ch-06:p176; ch-06:p339" }
       - { to: "kalivia-plateau", value: "from the end of the asphalt: under three hours with the duffel and rests (derived: taxi drop 'a little after nine'; inside the mouth by noon, when 'the light had come in white and flat'); the German, met above the pen: 'For me, forty minutes. For you, with the house, one hour'", source: "ch-03:p3; ch-03:p27; ch-03:p80" }
+      - { to: "cliff-stair-above-delphi (the cliff top)", value: "'the better part of a morning' on the gray mule in November (Mara, Ch.7)", source: "ch-07:p194" }
 
   parnassus:
     canonical_name: "Mount Parnassus"
@@ -3289,6 +3319,10 @@ locations:
       - { fact: "polygonal wall carries manumission records (sale to Apollo; paramone clauses)", source: "outline:ch-09; foundation:§9" }
       - { fact: "consultation on fixed (monthly) days in the warm season; the year's first on the seventh of Bysios; goat must shiver at cold water; women ask through a male representative", source: "foundation:§9; foundation:§3; outline:ch-13" }
       - { fact: "Theano's house (crows), where she names Pompeii to Mara off duty; Valens recounts the consultation at Kallia's lodging (not an inn)", source: "outline:ch-08; outline:ch-13; outline:ch-14" }
+      - { fact: "Ch.7 (winter AD 70-71): 'the first thing the town did with a stranger was work out who' she belonged to; the women at the spring look past a woman to see who sent her down; men in a lane slow to see whether anyone is coming behind her", source: "ch-07:p1" }
+      - { fact: "Ch.7: past the colonnade, the market with stalls of clay women and white wool and a salt row (salt-seller, sprat-seller), and a fountain; the public latrine beside the market; the bath below the sanctuary near the running track; the council hall beside the square; a baker's hatch that takes a tally stick", source: "ch-07:p36; ch-07:p38; ch-07:p63; ch-07:p70; ch-07:p72; ch-07:p141" }
+      - { fact: "Ch.7: the talk at the spring is that Vespasian means to take back Nero's freedom (tribute again); the council enters every household on wax tablets 'before Rome put a governor back in Corinth to ask for it'", source: "ch-07:p129" }
+      - { fact: "Ch.7: by the last morning of the month the cliffs above Kallia's roof are 'white to their rim'", source: "ch-07:p194" }
 
   castalian-spring:
     canonical_name: "the Castalian spring"
@@ -3301,6 +3335,7 @@ locations:
       - { fact: "an overflow at the far end runs out through a channel in the stone; people drink from the basin, and Kallia sends Mara to 'the trough at the end'; pilgrims leave garlands in the basin", source: "ch-05:p138; ch-05:p141" }
       - { fact: "neighbors in Kallia's lane fill their jars here ('Your wife and I fill our jars at the same spring')", source: "ch-05:p191" }
       - { fact: "Ch.6: Mara calls the spring 'the lions' ('I watched it at the lions while the second jar filled'; 'made the trip to the lions twice in the dark'); from it she watches the snow line come down Parnassus", source: "ch-06:p39; ch-06:p152" }
+      - { fact: "Ch.7: at the end of the afternoon drovers bring their animals to 'the trough at the bottom of the basin'; the women draw at the lions (Mara at 'the third lion', with green weed 'combed all one way by the water' on its lower lip); steps lead down to it. The salt-seller: donkeys 'drinking the god's water at the wrong end of his basin … before somebody fetches a priest to them'. The spring's talk: 'At the spring they say you're simple'; 'The whole spring knows you came on a boat'. Mara cuts lentisk on the hillside 'under the spring' and chews it at the trough", source: "ch-07:p58; ch-07:p73; ch-07:p108; ch-07:p110; ch-07:p117; ch-07:p121; ch-07:p139" }
     distances:
       - { to: "kallias-house", value: "Mara's round trip 'From Kallia's gate to the spring and back. With a full jar.' is her measure for half an hour (her answer for the long hand going from 'ten past one' to the eight). Derived: about thirty minutes with a full jar", source: "ch-06:p13; ch-06:p15; ch-06:p17" }
 
@@ -3345,6 +3380,7 @@ locations:
       - { fact: "a money-changer's table; stalls with shutters, put up when the sun goes off the square; a fountain at the bottom of the square", source: "ch-05:p98; ch-05:p117" }
       - { fact: "a door at the end of the colonnade from which the herald steps onto a block; a clerk in the doorway; the council house is the procession's starting point", source: "ch-05:p94; ch-05:p100; ch-05:p102" }
       - { fact: "the sun goes off it about an hour after the proclamation; at dusk it is a place where a woman alone is approached ('It gets cold in this square after dark')", source: "ch-05:p117; ch-05:p130" }
+      - { fact: "Ch.7: the salt market past the colonnade; a fountain, where a man laughs along with the row; the council hall beside the square", source: "ch-07:p63; ch-07:p70; ch-07:p141" }
 
   kallias-house:
     canonical_name: "Kallia's house (lodging)"
@@ -3359,6 +3395,8 @@ locations:
       - { fact: "Ch.6, the lane: from the gate to its turn, ice made from Mara's water slopped twice a day ('one coat on another, like the paint on a fire escape'); Valens ashes it. Mules are unloaded in the lane, not the court ('Not in my court')", source: "ch-06:p37; ch-06:p42; ch-06:p48; ch-06:p53" }
       - { fact: "Ch.6, the court and house: the pomegranate (eaten to head height by Valens's brown mule last winter); the gateway; the gate and its gatepost (Mara set the watch by its shortest shadow); a stack of split oak under the outside stair, ends crosswise, bark up; the ash pail by the hearth with the iron shovel upright in it; the big jar; the gallery (Thebans); the storeroom under the stairs ('Under Kallia's stairs. With her jars.')", source: "ch-06:p13; ch-06:p42; ch-06:p49; ch-06:p50; ch-06:p58; ch-06:p59; ch-06:p75; ch-06:p152; ch-06:p288" }
       - { fact: "Ch.6: the Thebans are still lodging a month on (a Theban's cloak beaten; a Theban's cloak burned by a spitting coal from the last wood; a Theban on the gallery wanting lentils)", source: "ch-06:p38; ch-06:p56; ch-06:p75" }
+      - { fact: "Ch.7: the court 'between the hearth and the gate'; the gallery with a balustrade (the Thebans watch from it) and the lodgers' rooms along it; one shut door 'at the end of the gallery, past the lodgers' rooms, where they never went', 'the shut room upstairs', swept every morning; the hearth 'under the lean-to'; a low stool; the store jar; the storeroom (Mara's mat) under the stair; a lidded pot by the jars; the dung heap at the lane's end; the woodstack", source: "ch-07:p15; ch-07:p25; ch-07:p26; ch-07:p36; ch-07:p37; ch-07:p95; ch-07:p130; ch-07:p187; ch-07:p191" }
+      - { fact: "Ch.7: Sosandros calls it 'The lodging over the spring'", source: "ch-07:p143" }
 
   descent-road-to-delphi:
     canonical_name: "the road down from Parnassus to Delphi (AD 70)"
@@ -3386,6 +3424,38 @@ locations:
       - { to: "corycian-cave", value: "'In summer, a morning. In this, a morning and more' (Valens), via the plain and the pen under the firs", source: "ch-06:p98; ch-06:p219" }
     note: "the page never names it. 'The stair' is Valens's word (p20, p22, p96, p273). Historically the Kaki Skala, but that name is NOT on the page"
 
+  # --- Ch.7 ---
+  delphi-baths:
+    canonical_name: "the bath (Delphi)"
+    aliases: ["the bath"]
+    facts:
+      - { fact: "'below the sanctuary near the running track'. The women have it 'from first light until the sun was over the cliffs'; then the men 'came down from their exercise and it was theirs'. The bath-keeper's wife takes the coin at the door. A changing room with niches for clothes and wooden clogs, 'because the floor of the hot room would take the skin off a bare sole'; a hot room and a warm room; on a shelf by the warm room's door, a dish of burnt-horn tooth powder; the women rinse and spit in the drain", source: "ch-07:p38; ch-07:p55" }
+
+  delphi-latrine:
+    canonical_name: "the public latrine (Delphi)"
+    aliases: []
+    facts:
+      - { fact: "beside the market: 'a long room with a marble bench round three walls, holes cut along it at a sociable distance over a channel of running water, and a sponge on a stick standing in a bucket at the entrance'. Men's ground", source: "ch-07:p36" }
+
+  delphi-council-hall:
+    canonical_name: "the council hall (Delphi)"
+    aliases: []
+    facts:
+      - { fact: "'a long hall beside the square, with benches round the walls and a brazier going in the middle'; householders queue from the door to the clerk's table at the far end; the tribute registration, winter AD 70-71; a stone step at the door 'worn into a dip in the middle by everybody who had ever left that room'", source: "ch-07:p141; ch-07:p174" }
+    note: "possibly the Ch.5 council house (the procession's start, organizations.delphi-council); the page does not say they are the same building"
+
+  syracuse:
+    canonical_name: "Syracuse"
+    aliases: ["Syrakousai"]
+    facts:
+      - { fact: "AD 70, the cover: Mara's city ('From Syracuse'). Kallia: 'West, by water. Past Corinth, past everywhere'; 'They talk strange over there'; 'Half Syracuse is Roman'. Sosandros: 'Syrakousai' (his correction, and the record); 'Sicilian … They all talk like that over there'", source: "ch-07:p133; ch-07:p135; ch-07:p137; ch-07:p150; ch-07:p160; ch-07:p165; ch-07:p172" }
+      - { fact: "1998 side: Mara knows it only 'from his slides' (Emilio's): 'a quarry deep enough to stand a church in, a fountain full of papyrus and ducks', and his account of a gelato that 'tasted of nothing but cold'. She has NOT been there; the draft's trip at fourteen was repaired before finalize (audit C-01; foundation §3 'never took her')", source: "ch-07:p140" }
+
+  amphissa:
+    canonical_name: "Amphissa"
+    aliases: []
+    facts:
+      - { fact: "west of Delphi; the drover's accent is 'from somewhere west, Amphissa or beyond it' (Mara's guess)", source: "ch-07:p111" }
   patrae:
     canonical_name: "Patrae"
     era: "AD 70"
@@ -3407,6 +3477,7 @@ locations:
     facts:
       - { fact: "pilgrims from Boeotia leave garlands in the Castalian spring ('Boeotians'); Kallia's Theban lodgers", source: "ch-05:p139; ch-05:p171" }
       - { fact: "Ch.6: 'The road over to Boeotia's under snow. All of it.' (Valens, assuming she means to cross the mountain: 'I am not going over.')", source: "ch-06:p149; ch-06:p150" }
+      - { fact: "Ch.7: Kallia's four Thebans are 'on the Boeotian list', not Delphi's; 'they walked here from four days up the road' (the baker's wife)", source: "ch-07:p47; ch-07:p144" }
 
   jerusalem:
     canonical_name: "Jerusalem"
@@ -3433,6 +3504,7 @@ locations:
       - { fact: "embarkation for the gulf crossing to Lechaion (autumn AD 71)", source: "outline:ch-16" }
       - { fact: "Ch.5: the press woman's husband has been 'Two days at Kirrha with the jars' (oil); Nero's five hundred bronzes went 'down to Kirrha in ox-carts and onto the ships'; the press woman's first word to Mara is 'Kirrha?'", source: "ch-05:p8; ch-05:p48" }
       - { fact: "Ch.6: 'The last ship went out of Kirrha eight days ago' (said the afternoon before the climb); before it, from the east, 'Oil. Wine from Crete. A man with dogs to sell.'; Valens was 'at Kirrha' at the time of the god's ox", source: "ch-06:p69; ch-06:p71; ch-06:p313" }
+      - { fact: "Ch.7: oil at 'Thirty-two the jar at Kirrha' (the latrine men, who blame 'the Jews' war'); Kallia carried her second-best jar up from Kirrha on her head 'eleven summers ago'", source: "ch-07:p36; ch-07:p128" }
 
   corinth:
     canonical_name: "Corinth"
@@ -3444,6 +3516,7 @@ locations:
       - { fact: "a colonnade where Celer meets Valens; scaffolding Celer won't walk under", source: "outline:ch-17" }
       - { fact: "autumn AD 70: 'Letters have come up from Corinth with the ship' to the Delphi council, bringing the news of Jerusalem (meta P5)", source: "ch-05:p95" }
       - { fact: "Ch.6: Valens's mules 'came from Corinth' (so, he says, they know only Latin); Valens guesses Mara ran from 'a big house. Corinth, or Patrae'", source: "ch-06:p200; ch-06:p328" }
+      - { fact: "Ch.7: the spring's guess is that the council must finish its lists 'before Rome put a governor back in Corinth to ask for it', so there is no governor yet (agrees with the world rule; CH7-4 RESOLVED). Kallia, of Syracuse: 'West, by water. Past Corinth, past everywhere'", source: "ch-07:p129; ch-07:p135" }
 
   isthmia:
     canonical_name: "Isthmia (the Isthmian Games)"
@@ -3605,8 +3678,8 @@ timeline:
   - { chapter: 4, time: "her first hour in the past: straight on from the Ch.3 exit (late afternoon, low sun) at the cave mouth → 'the low sun' on the foil wrapper → the plain below the pen 'in shadow' → the thorn flicked 'into the dusk' → at the foot of the slope, the cave 'black in the gray cliff with one star over it'", season: "autumn (plan). Page evidence: the plain 'brown from end to end', 'dead thyme', woodsmoke; the boy names the month 'Boathoos' (Delphic; character-bible ≈ Sept–Oct; not glossed on the page). Agrees with Ch.3's inferred 'October'", year: "AD 70 (plan) — NOT known to Mara: she gets archon 'Kleodamos', month 'Boathoos' and 'Késar … En Rómi', none of which dates it for her", note: "eight shards, in order, no time jump between them. No clock time: the Seiko is not mentioned. 'I came up from Delphi this morning' (to the boy, in English) matches the Ch.3 climb day. The outline rule 'Do not date the year here' is kept (Ch.5 gives the year)", source: "ch-04:p12; ch-04:p22; ch-04:p24; ch-04:p56; ch-04:p60; ch-04:p62; ch-04:p64; ch-04:p73; ch-04:p80; outline:ch-04" }
   - { chapter: 5, time: "the night after the arrival (an hour's walk in the dark, then a sheepfold, dew, a barking dog) → first light, east across the plain → the press at lunch → Delphi in the afternoon (on the temple terrace 'the light coming low') → the herald 'a little later' after the beating → the sun goes off the square an hour after → dusk (the procurer) → 'nearly dark' at the spring → night at Kallia's; she plans to be on the cart track 'by full light' the next morning", season: "autumn: the olive harvest (families beating olives onto cloths; the press working), the sea 'still open'. Mara's own word: 'the autumn of the year seventy'. CONFIRMS the plan", year: "AD 70 (known to Mara from this chapter; 'Nineteen ninety-eight, less seventy. One thousand nine hundred and twenty-eight years')", note: "five shards, in order; one night between Ch.4's dusk and Ch.5's day (Ch.5 is day 2 in AD 70). The herald's sacrifice is 'on the fourth day from now' (no month named). Plan Ch.6 is a November snow day, so the next-morning climb she plans (p210) either fails or is delayed off the page before Ch.6. Recorded, not judged. Mara's 1998 references: 'on Wednesday' (temple; ch-03 Wednesday), 'The morning before' (the taxi, subjective time)", source: "ch-05:p1; ch-05:p2; ch-05:p4; ch-05:p15; ch-05:p69; ch-05:p94; ch-05:p99; ch-05:p108; ch-05:p109; ch-05:p117; ch-05:p129; ch-05:p134; ch-05:p210; outline:ch-06" }
   - { chapter: 6, time: "two days, told out of order. PRESENT (shard 1, p1-p35): early afternoon of the climb day, in the cave ('The light's off the mouth. Past the middle of the day'; 'Ten past one, or near it' by the Seiko). BACKFILL (shard 2, p36-p242): 'The afternoon before' (the split oak in Kallia's lane; dusk, 'the pink had gone off the snow'); that night (little sleep; after midnight she 'did the morning'); before light (the town asleep; the cliff stair in the dark); 'Daylight arrived while we were on the last of the cliff', the sun clearing the ridge; the plain; the pen; the cave. AFTER (shard 3, p243-p341): 'Five to two' when she gives up; snow falling at the mouth; down through the firs and past the pen as the light fades ('so slowly that I could not have said when it was gone'); across the plain; dusk at the kiln at the top of the cliff path; after dark at the first houses (lamps in doorways, supper smoke)", season: "the edge of winter, snow season. Snow on the plain a hand deep, knee deep in drifts; ice on the cliff stair from the second turn; for a month the snow line has come 'a little lower on Parnassus every night', now down to the rim of the cliffs above the sanctuary; the sea shut (the last ship left Kirrha eight days before the delivery); the road over to Boeotia under snow. 'November' is the plan's word. The page never names the month, though it says the arrival was 'in October' (p90; p219). CONFIRMS the plan", year: "AD 70 (from Ch.5; not restated in Ch.6)", note: "ELAPSED: 'most of a month' since Ch.5's night at the spring ('Twice a day for most of a month', p37; 'a month', p95, p111, p164, p244, p271). About four weeks after the crossing; no day count. Other markers: the Seiko set 'on my second day at Kallia's' (p13); 'On the fourth morning' Mara turned back at the top of the town (p38); the kiln has burned 'Nine days' (p310); the god's ox (decreed in Ch.5 for the fourth day) is past (p312). WEATHER: the afternoon before, clear, the cliffs gray-blue and the snow pink at sunset; the climb only 'if the sky stays clear', so the night stayed clear; a gray dawn, then sun on the gilt roof; 'There's snow coming over the ridge' (seen from the mouth, early afternoon); 'a long bank of cloud … behind the ridge' at the pen ('Snow by afternoon'); snow begins while they are in the cave: 'big wet flakes, so thick that everything below the lip was gone'; wind below the mouth; snow falling straight down in the firs; still snowing at the kiln ('and now this'). No breaks within shard 3; one night between the backfill's afternoon and the climb", source: "ch-06:p10; ch-06:p12; ch-06:p13; ch-06:p20; ch-06:p36; ch-06:p37; ch-06:p38; ch-06:p39; ch-06:p69; ch-06:p77; ch-06:p90; ch-06:p145; ch-06:p149; ch-06:p152; ch-06:p160; ch-06:p176; ch-06:p190; ch-06:p220; ch-06:p247; ch-06:p274; ch-06:p276; ch-06:p286; ch-06:p310; ch-06:p312; ch-06:p327; ch-06:p339; outline:ch-06" }
-  - { chapter: 7, time: "one winter", season: "winter", year: "AD 70-71", note: "'the second year of Vespasian'", source: "outline:ch-07" }
-  - { chapter: 8, time: "one night to dawn", season: "midwinter", year: "AD 71", note: "", source: "outline:ch-08" }
+  - { chapter: 7, time: "one winter at Kallia's, in order: first light on the morning after the mountain (the shovel) → 'Two days after it' (the girl's clothes) → the lessons over several days, in 'the slack hour after the lodgers had had their bread' → the bath, 'on a morning when the frost was still on the paving' → the salt market (the start of the month of public silence) → 'Halfway through my silence' (Valens at the gate) → 'Four days after that', at 'the end of the afternoon' (the jar) → 'that same night' (the Syracuse plan) → 'Tomorrow' (the council; 'the first word I had said outside her gate in nineteen days') → 'Before the month was out' → 'the last morning of the month', frost white on the court (the midwinter invitation)", season: "winter (frost on the paving; the cliffs 'white to their rim' and the plain under snow; the sea shut; the Thebans held 'till the thaw')", year: "AD 70 (the climb was in November, so the chapter opens in late November AD 70); whether it runs past the turn of the year is not stated", note: "Mara dates it 'the second year of Vespasian' (p1). Her narration names the months: the flashlight has lain in the duffel 'since October' (p10); the hour has been 'lost to me since November' (p107). 'fed me lentils for two months' (p157) agrees with an October arrival. No watch: morning, the gatepost's noon shadow and the lamps (p107). Day count: Valens about day 15 of the silence, the jar about day 19, the council the next day, which fits 'nineteen days' (p159). At the chapter's end the midwinter rite is still to come", source: "ch-07:p1; ch-07:p2; ch-07:p8; ch-07:p10; ch-07:p15; ch-07:p38; ch-07:p71; ch-07:p96; ch-07:p107; ch-07:p108; ch-07:p130; ch-07:p131; ch-07:p157; ch-07:p159; ch-07:p183; ch-07:p185; ch-07:p194" }
+  - { chapter: 8, time: "one night to dawn", season: "midwinter", year: "AD 71", note: "Ch.7 sets it up: 'At midwinter the women climb Parnassus … They go every other winter, and this is the winter' (ch-07:p186; ch-07:p189). The page does not say whether midwinter falls before or after the turn of the year; the outline's AD 71 needs it to fall after (a note, not a conflict)", source: "outline:ch-08" }
   - { chapter: 9, time: "weeks", season: "late winter", year: "AD 71", note: "", source: "outline:ch-09" }
   - { chapter: 10, time: "one afternoon", season: "late winter", year: "AD 71", note: "", source: "outline:ch-10" }
   - { chapter: 11, time: "about a week+ (harness for a week)", season: "late winter", year: "AD 71", note: "", source: "outline:ch-11" }
@@ -3730,6 +3803,20 @@ timeline_events:
   - { date: "AD 70, the climb day (November by the plan)", event: "before light up the cliff stair; the cave by midday; the crack gives nothing from before 1:10 to 1:55 by the watch; she hits the slab and cries out; Valens laughs and gives her bread; down in falling snow; the charcoal burner's kiln at dusk; the first houses after dark. 'Men will come asking.'", source: "ch-06:p1; ch-06:p160; ch-06:p247; ch-06:p249; ch-06:p252; ch-06:p255; ch-06:p274; ch-06:p307; ch-06:p339; ch-06:p341" }
   - { date: "AD 69-70, 'last winter'", event: "Valens's brown mule eats Kallia's pomegranate to the height of her head; an earlier load of Valens's wood (pine) spits a coal onto a Theban's cloak, which Kallia pays for (when is not stated)", source: "ch-06:p50; ch-06:p51; ch-06:p56; ch-06:p57" }
   - { date: "'the last painting' (presumably spring AD 70; the year is not stated)", event: "the temple painter falls off the corner of the roof and breaks his arm; back up in a month (Valens)", source: "ch-06:p179" }
+  # --- Ch.7 ---
+  - { date: "late November AD 70, first light on the morning after the climb", event: "Mara returns Kallia's shovel, its edge turned 'On the god's rock', and from then on talks to her in Greek indoors", source: "ch-07:p2; ch-07:p6; ch-07:p60" }
+  - { date: "AD 70, two days after the climb", event: "Kallia dresses Mara in the runaway girl's tunic, cord and himation; the 1998 clothes go into the duffel", source: "ch-07:p8; ch-07:p10" }
+  - { date: "winter AD 70, a frosty morning", event: "the bath: the pale band, the vaccination scar, the horn tooth powder; that afternoon Mara cuts a lentisk stick", source: "ch-07:p38; ch-07:p48; ch-07:p58" }
+  - { date: "winter AD 70 (day 0 of the month of public silence)", event: "the salt market ('Antigone!'); for a month Mara says nothing outside Kallia's gate 'if I could help it'", source: "ch-07:p68; ch-07:p71" }
+  - { date: "winter AD 70, about day 15 of the silence", event: "Valens at the gate for the fifth coin: 'No.'", source: "ch-07:p96; ch-07:p106" }
+  - { date: "winter AD 70, about day 19, the end of the afternoon", event: "the drover at the spring; Kallia's second-best jar broken; that night Kallia plans the Syracuse cover", source: "ch-07:p108; ch-07:p115; ch-07:p130" }
+  - { date: "winter AD 70, the next day", event: "at the council hall Sosandros enters 'Maira, daughter of Aimilios, of Syrakousai; free; kinswoman of Kallia, of her house and in her keeping'; Mara's first word outside the gate 'in nineteen days'", source: "ch-07:p131; ch-07:p159; ch-07:p172" }
+  - { date: "winter AD 70, the last morning of the month of silence", event: "the broom across the shut door; Kallia: 'At midwinter the women climb Parnassus … this is the winter. You'll come.'", source: "ch-07:p185; ch-07:p186; ch-07:p189" }
+  - { date: "'last winter' (AD 69-70)", event: "Kallia tells the bath her Thebans came by ship (they walked, four days)", source: "ch-07:p47" }
+  - { date: "'eleven summers ago' (c. AD 59, derived)", event: "Kallia carries her second-best jar up from Kirrha on her head", source: "ch-07:p128" }
+  - { date: "the vintage, AD 70", event: "Kallia's girl leaves 'when the grapes came in, in what she stood up in'", source: "ch-05:p171; ch-07:p12" }
+  - { date: "Mara's infancy (late 1960s, derived)", event: "smallpox vaccination at a pediatric clinic in West Philadelphia (the scar high on her left arm)", source: "ch-07:p54" }
+  - { date: "c. 1974-75 (derived: Mara in fourth grade)", event: "Mrs. Dunphy, a substitute in a green cardigan, cries at her desk through a whole afternoon", source: "ch-07:p184" }
   - { date: "January 1994", event: "the ice storm: the ground-floor man on Larchwood pours cat litter down the front steps at six a.m.; he moves out in March (Mara's memory)", source: "ch-06:p43" }
   - { date: "Mara's childhood (from 1966, the Seiko's year)", event: "Emilio winds the Seiko at the kitchen counter 'on the few mornings he was there, while the percolator went' (Ch.6 polish cycle 1; was 'each morning of my childhood')", source: "ch-06:p132" }
   - { date: "February 1998", event: "Dr. Pinsky on Walnut Street tells Mara she brushes too hard; she buys a softer angled brush at the Rite Aid on Chestnut that afternoon", source: "ch-05:p153" }
@@ -3910,6 +3997,7 @@ objects:
       - { chapter: 4, holder: "mara-reyes (presumed: on her wrist from Ch.3)", detail: "NOT MENTIONED in Ch.4; no clock time given. The plan's 'worn Ch.4-5' is not shown, which is an omission and not a contradiction", source: "ch-04 (absent); ch-03:p81" }
       - { chapter: 5, holder: "mara-reyes", detail: "on her wrist. The rod 'caught my wrist and the watch on it' (no damage stated). To Kallia: 'My father's Seiko says it was ten minutes' (the 1:40 → 1:50 crossing). In the storeroom (the planned beat): 'The watch was loud in the dark an inch from my ear'; she sleeps with her wrist under her cheek, listening to 'the mouse and the watch going about their two small businesses in the dark', so it is running. No clock time is read and it is not wound on the page. Cut in polish cycle 1: the skinned wrist, 'The watch was going; I listened to it at my ear to be sure', 'its luminous paint was long dead and the hands were invisible'", source: "ch-05:p86; ch-05:p159; ch-05:p210" }
       - { chapter: 6, holder: "mara-reyes → valens", detail: "WRITTEN. Before the deal: on her wrist, set to local time 'on my second day at Kallia's by the shortest shadow of her gatepost' (she says she has wound it 'every morning since March', which agrees with Ch.1; CH6-1 RESOLVED). The evening before the climb, in the lane, to 'A father, then.', she springs the stiff clasp in two tries ('The clasp was stiff with the cold') and passes it to Valens across the gray's withers, 'still warm on the inside of the band' ('This was my father's.' / 'You took it from him.' / 'He does not need it.'). He examines the back and the band 'where the three links had come out', watches the seconds hand go round once ('Something's going in it.' / 'Where's the shadow?'), and winds it BACKWARD, slowly and with great care, his thumb covering the crown entirely, stopping to listen to the loose backward click, until she says 'Stop. The other way.' She turns it forward three turns until it tightens. He then winds it forward himself until the spring is full and stops. The band 'would not go halfway' round his wrist, so it goes into the drawstring pouch at his belt: 'Paid now … Not up there. Now.' In the cave he shows her the dial on his palm without handing it over, at 'Ten past one, or near it' and at 'Five to two', and his fingers close over it. He refuses to sell it back ('You paid it to go up. You went up.'), will wind it 'Forward. Till it stops, and not past.', and ends the chapter with 'You never had a watch.'", source: "ch-06:p118; ch-06:p12; ch-06:p13; ch-06:p119; ch-06:p120; ch-06:p121; ch-06:p122; ch-06:p123; ch-06:p124; ch-06:p127; ch-06:p131; ch-06:p133; ch-06:p134; ch-06:p135; ch-06:p137; ch-06:p142; ch-06:p143; ch-06:p164; ch-06:p247; ch-06:p248; ch-06:p301; ch-06:p306; ch-06:p341" }
+      - { chapter: 7, holder: "valens", detail: "NOT SEEN. Mara: 'My father's watch was in his belt pouch' (her belief from Ch.6); 'The hour had been lost to me since November; I had morning, noon by the shadow of Kallia's gatepost, and the day's end by the lamps'; she wonders 'whether he wound it before he saw to the mules or after, and whether he remembered which way'. Its trace is 'the white stripe where the watch had lived under its steel band since March', which the bath reads as a fetter mark", source: "ch-07:p48; ch-07:p107" }
       - { chapter: 11, holder: "valens", detail: "she does not get it back", source: "outline:ch-11" }
       - { chapter: 18, holder: "mara-reyes", detail: "returned on the quay as a wedding gift, wound; kept wound seventeen months; running, near enough the sun's noon that he must have set it by the shadow", source: "outline:ch-18" }
     windings:
@@ -3926,7 +4014,7 @@ objects:
     what_valens_was_told_ch6: { value: "it tells the hours without shadow, sun or water and goes in the dark; wind every morning, forward until it will not go, never past; it runs 'A day and a night. A little more'; if forgotten it stops, and goes again when wound; inside a thin rolled strip and a little rocking wheel let the spring open one tooth at a time; men in a far country make thousands, for sale; dirt, cold, dropping or a run-down spring stop the wheel. NOT shown how to set the hands", source: "ch-06:p125; ch-06:p128; ch-06:p130; ch-06:p136; ch-06:p139; ch-06:p141; ch-06:p208; ch-06:p210; ch-06:p213; ch-06:p215; ch-06:p217" }
     secrecy_ch6: { value: "Valens: 'Men will come asking. You went up by yourself. You never had a watch.' Kallia was not present for the deal (she had gone in to the hearth). The charcoal burner is not shown seeing it", source: "ch-06:p76; ch-06:p341" }
     paid: 43
-    last_mentioned_manuscript: "ch-06:p341"
+    last_mentioned_manuscript: "ch-07:p107"
     final_state: { chapter: 44, detail: "ticking on her wrist (kept, Ch.43)", source: "outline:ch-43; outline:ch-44" }
     last_mentioned: "outline:ch-44"
     resolution: { chapter: 43, description: "she keeps it; it does not go through", planned: true }
@@ -4149,24 +4237,39 @@ objects:
     resolution: { chapter: 10, description: "read aloud by Mara", planned: true }
 
   kallias-broom:
-    introduced: "outline:ch-07"
-    description: "laid across the threshold of Ariston's empty room each morning"
+    introduced: "ch-07:p37 (the threshold beat; a broom is first on the page in Ch.6, ch-06:p38)"
+    description: "laid across the threshold of the shut room off the gallery each morning (Ariston's room in the outline; the page does not say whose in Ch.7)"
     status: "chekhov_open"
     planted: 7
     beats:
+      - { chapter: 7, detail: "every morning, before her own threshold or the court, Kallia sweeps the boards outside one shut door, 'and when it was swept she left the broom lying across the doorway and did the rest of the house with the other one'. Mara borrows it once in her second week, and Kallia puts it 'back across the same boards at the same slant', with no word", source: "ch-07:p37" }
+      - { chapter: 7, detail: "the last morning of the month: Kallia sweeps the boards 'out to the edge and over' (the dust falls past Mara in the court) and lays the broom across the doorway 'at its slant'", source: "ch-07:p185" }
       - { chapter: 10, detail: "still across the threshold when Kallia goes out", source: "outline:ch-10" }
     ch6_note: { value: "a broom is first on the page in Ch.6, in Kallia's hand in the court on Mara's first morning ('Kallia was waiting for me in the court with the broom'). Not the threshold beat. Whether it is the same broom is not stated. The planted beat stays Ch.7", source: "ch-06:p38" }
     paid: 16
-    last_mentioned_manuscript: "ch-06:p38"
+    two_brooms: { value: "the threshold broom stays on those boards; 'the other one' does the house", source: "ch-07:p37" }
+    last_mentioned_manuscript: "ch-07:p185"
     last_mentioned: "outline:ch-16"
     resolution: { chapter: 16, description: "a sweep of the threshold and the broom put away", planned: true }
 
   borrowed-himation:
-    introduced: "outline:ch-07"
-    description: "a borrowed wool himation that smells of the woman who wore it before"
+    introduced: "ch-07:p10"
+    description: "the runaway girl's wool himation, 'of wet-sand brown', which smells of the woman who wore it before"
+    owner: "kallias-runaway-girl ('That was the girl's … She took herself off when the grapes came in, in what she stood up in'); in Kallia's keeping; Mara wears it"
+    physical: { value: "heavy, not new; good cloth, 'woven on an upright loom with the starting border still tight across its upper edge'; one corner darned 'in a browner wool by somebody in a hurry, with long slack passes that pulled the weave into a pucker'; the elbows 'bagged into the shape of another woman's arms'; a long dark hair, crimped from a braid, caught in the fringe", source: "ch-07:p10; ch-07:p11" }
+    smell: { value: "woodsmoke, then lanolin, then the girl: stale sweat in the armpit fold and a hair oil, 'quince or something with ambitions to be quince', in the edge that went over the head (p11). On the step, 'quince and woodsmoke and … a girl who was somewhere else' (p174). By the month's end it 'had stopped smelling of quince' and smells 'of smoke and lanolin and, under them, of a woman I had to think about before I knew her' (p183)", source: "ch-07:p11; ch-07:p174; ch-07:p183" }
+    with: "a tunic of undyed wool 'so long I could stand on the hem' and a plaited cord (also the girl's)"
     status: "chekhov_open"
     planted: 7
+    beats:
+      - { chapter: 7, detail: "Kallia shakes it out 'with a crack like a sail filling' and drops it over Mara's shoulders from behind", source: "ch-07:p10" }
+      - { chapter: 7, detail: "'Will she want it back?' / 'Not to carry water in.'", source: "ch-07:p13; ch-07:p14" }
+      - { chapter: 7, detail: "Mara stands in 'the girl's wet hem' at the spring and carries the broken jar home 'in a fold of the himation'", source: "ch-07:p115; ch-07:p122" }
+      - { chapter: 7, detail: "THE ANCHOR: on the council-hall step she pulls 'the borrowed wool up to my eyes' and laughs into it", source: "ch-07:p174" }
+      - { chapter: 7, detail: "she sleeps under it as well as wearing it", source: "ch-07:p183" }
+      - { chapter: 7, detail: "for midwinter: 'bring the girl's himation. It's the warmest thing in this house.'", source: "ch-07:p191" }
     paid: 16
+    last_mentioned_manuscript: "ch-07:p191"
     last_mentioned: "outline:ch-16"
     resolution: { chapter: 16, description: "Kallia gives it to Mara (no speech)", planned: true }
 
@@ -4264,14 +4367,63 @@ objects:
     last_mentioned: "outline:ch-20"
     resolution: null
 
+  # --- Ch.7 ---
+  delphi-tribute-list-entry:
+    introduced: "ch-07:p172"
+    description: "Mara's entry on the Delphian council's tribute list, written in wax by the clerk Sosandros"
+    text: "Maira, daughter of Aimilios, of Syrakousai; free; kinswoman of Kallia, of her house and in her keeping."
+    made: { where: "delphi-council-hall, at the clerk's table", when: "winter AD 70 (the day after the jar; day 19-20 of the month of public silence)", by: "sosandros", answered_for_by: "kallia ('I do.')", fee: "two obols, from Kallia's kerchief knot ('don't tell me the god pays for wax')", source: "ch-07:p141; ch-07:p159; ch-07:p167; ch-07:p170; ch-07:p173" }
+    occasion: { value: "every household and everyone in it, 'and what manner of person each was', is being entered on tablets because the talk is that Vespasian will take back Nero's freedom and Greece will pay tribute again, 'before Rome put a governor back in Corinth to ask for it'", source: "ch-07:p129" }
+    medium: { value: "a fresh page in a wax book, the leaf warmed over the brazier; each letter 'surfaced pale in the dark wax where the bare wood showed through'; then the book is shut and added to his stack. Mara's understanding: the council will 'warm and scrape and write over' it for next year's list, 'the least lasting surface in Delphi'", source: "ch-07:p150; ch-07:p151; ch-07:p173; ch-07:p174" }
+    questions_and_answers: { value: "'Who's in it?' (Kallia; four Thebans on the Boeotian list; 'her') / 'Bought, born in the house, or free?' 'Free.' / 'Kin?' 'My husband's brother's girl. From Syracuse.' 'Syrakousai' / 'Resident since when? On what business?' 'Her people died. She came on one of the last boats, after the vintage.' / 'Name' 'Mara' (written MAIRA) / 'Daughter of?' 'Aimilios.' 'A Roman.' 'Half Syracuse is Roman.' / 'And who answers for her?' 'I do.' … 'Write me.'", source: "ch-07:p143; ch-07:p144; ch-07:p146; ch-07:p147; ch-07:p148; ch-07:p149; ch-07:p150; ch-07:p152; ch-07:p153; ch-07:p154; ch-07:p158; ch-07:p161; ch-07:p162; ch-07:p163; ch-07:p164; ch-07:p165; ch-07:p166; ch-07:p167; ch-07:p169" }
+    not_in_the_line: "told but not written: the husband's-brother relation, the boat, the vintage and the dead parents. 'A Roman' is also not in the line, although 'Sosandros wrote that down as well' (what 'that' refers to is not clear)"
+    copies: "none given to Mara or Kallia on the page; Kallia cannot read it ('What did he put?')"
+    knowers: "sosandros (wrote it); mara-reyes (read it upside down); kallia (told by Mara); the clerk's boy and the line of householders were present (what they took in is not stated)"
+    depends_on_it: "outline: Ch.16 and Ch.18 (a free woman, never property)"
+    status: "chekhov_open"
+    last_mentioned: "ch-07:p178"
+    resolution: null
+
+  lentisk-stick:
+    introduced: "ch-07:p58"
+    description: "a lentisk (mastic) twig 'the length of my hand', chewed at one end into 'a stiff little brush'; Mara's toothbrush from Ch.7 (the plan's mastic-wood stick)"
+    physical: { value: "cut from 'the hillside under the spring, where the lentisk grew in dark clumps among the rocks'; it tastes 'of pine resin and of the gin and tonic'", source: "ch-07:p58" }
+    beats:
+      - { chapter: 7, detail: "at the council, a splinter of it is wedged between the molar with the old filling and its neighbor", source: "ch-07:p170" }
+      - { chapter: 7, detail: "chewed at the trough every morning in front of the Thebans: 'Kallia, is she a goat, that she eats the hedge?'; Kallia 'answered that the hedge was better company than he was'", source: "ch-07:p183" }
+    status: "background"
+    last_mentioned: "ch-07:p183"
+    resolution: null
+
+  burnt-horn-tooth-powder:
+    introduced: "ch-07:p55"
+    description: "gray powder of burnt, ground horn ('Goat's is best') in a dish on a shelf by the bath's warm-room door; the women scrub their teeth with a wet finger and spit in the drain"
+    physical: { value: "it smells 'of a farrier's yard, of singed hoof'; its grit 'showed without my bending close'; 'I had seen burnished slip scoured to a dull fog by less'", source: "ch-07:p55; ch-07:p58" }
+    status: "background"
+    note: "Mara refuses it twice (the planned teeth horror). The plan's urine mouthwash is not in Ch.7"
+    last_mentioned: "ch-07:p58"
+    resolution: null
+
+  kallias-second-best-jar:
+    introduced: "ch-07:p108"
+    description: "Kallia's second-best water jar, which 'came up from Kirrha on my own head, eleven summers ago'"
+    beats:
+      - { chapter: 7, detail: "dropped by Mara under the third lion when the drover takes her wrist; it hits the stone rim of the basin and breaks in three", source: "ch-07:p113; ch-07:p114; ch-07:p115" }
+      - { chapter: 7, detail: "'It had broken cleanly, along the coils it was built from, and every edge was sharp and unworn; I could have had it whole again in a week with a pot of hide glue and some string, if Delphi had any use for a jar that had been broken once.'", source: "ch-07:p122" }
+      - { chapter: 7, detail: "Kallia sends Mara back with 'the old one. It leaks.' and sweeps the pieces off the hearthstone into the ash pail 'with her toe'", source: "ch-07:p128" }
+    status: "destroyed"
+    note: "unplanned. At the end of the scene the pieces are in the ash pail; nobody keeps them"
+    last_mentioned: "ch-07:p128"
+    resolution: { chapter: 7, paragraph: 128, description: "broken; swept into the ash pail" }
   flashlight:
     introduced: "ch-02:p63"
     description: "1998 flashlight, bought 'because Fenn had wanted a better one'"
     status: "background"
     ch3_beat: { value: "a yellow oval in the cave showing a yard of rock at a time; on the knucklebone; switched off to save the batteries while she waits; switched on to read the watch; at the cold its beam 'shook on the rock'; between her teeth through the crack (her breath 'going out white into its beam'); taken out of her mouth back in the hall", source: "ch-03:p55; ch-03:p60; ch-03:p63; ch-03:p69; ch-03:p70; ch-03:p72; ch-03:p73; ch-03:p77" }
     ch5_beat: { value: "added in Ch.5 polish cycle 1 (audit W-19): at the foot of the slope in the dark, 'I found a wall with the flashlight, and a dog somewhere out on the plain went frantic at the beam until I put it out'; in Kallia's storeroom, 'The flashlight was somewhere in the bottom of the duffel, and it could stay there; Kallia was not going to come back and find a light under her stairs that burned nothing.' Battery state not stated", source: "ch-05:p1; ch-05:p206" }
-    last_mentioned_manuscript: "ch-06:p7"
+    last_mentioned_manuscript: "ch-07:p10"
     ch6_note: { value: "added in the continuity repair (W-10): 'My flashlight was in there, under everything, and I had let him burn his pines rather than have him see it.' It is in the duffel leaning on the slab, UNUSED and kept hidden from Valens. The cave is lit by his pine torches, each lit from the stub of the last. Valens does not know it exists. The bible's at-risk note stands: any later use must reckon with being seen", source: "ch-06:p4; ch-06:p7; ch-06:p157; ch-06:p273" }
+    ch7_note: { value: "in the duffel under the jeans, fleece and shirt, 'where it had lain since October, unseen by a soul in that house'. Unused in Ch.7. 'since October' agrees with Ch.6: it went up to the cave and back inside the duffel and was not taken out", source: "ch-07:p10" }
     last_mentioned: "outline:ch-15"
     resolution: null
 
@@ -4481,9 +4633,14 @@ objects:
     contents_ch6: { value: "the flashlight, 'under everything' (p7); nothing else is named. 'packed, which was no trouble, since it had never been unpacked' (a month in the storeroom). Valens weighs it on one hand: 'Everything'", source: "ch-06:p7; ch-06:p152; ch-06:p158" }
     ch6_use: { value: "beside her on the mat the night before; hoisted when she leaves before light; lashed onto the dun; in the cave it leans on the slab, 'zipped, the strap laid ready over it' ('You brought the bag in … Into a hole in a rock.' / 'I'm not carrying it up here twice.'); she stands it by the slab when she first puts her hand in the crack; she gets back into its strap for the descent; at the first houses Valens unlashes it from the dun and gives it to her", source: "ch-06:p7; ch-06:p31; ch-06:p33; ch-06:p152; ch-06:p158; ch-06:p238; ch-06:p273; ch-06:p339; ch-06:p340" }
     location_end_ch6: { value: "in Mara's hands at the first houses of Delphi after dark, with Kallia's shovel", source: "ch-06:p340" }
+    contents_ch7:
+      - { item: "the jeans (folded), the fleece over them, and 'The shirt with the buttons' over the fleece", source: "ch-07:p9; ch-07:p10" }
+      - { item: "the flashlight 'under all three', 'where it had lain since October, unseen by a soul in that house'", source: "ch-07:p10" }
+      - { item: "the toothbrush (purple, rubber grip)", source: "ch-07:p58" }
+    location_end_ch7: { value: "not stated after p58 (by implication the storeroom, since Kallia brings the bundle to the storeroom door)", source: "ch-07:p8; ch-07:p58" }
     status: "background"
     note: "the plan's 'her bag' (Ch.19, Ch.35, Ch.38) is presumably this duffel, but the page does not say so beyond Ch.3. Ch.5 confirms it came down the mountain with her"
-    last_mentioned: "ch-06:p340"
+    last_mentioned: "ch-07:p58"
     resolution: null
 
   taxi-drachma-coins:
@@ -4563,12 +4720,14 @@ objects:
       - { chapter: 6, detail: "used to chop the frozen earth at the bend of the crack down to bare rock ('It's not your shovel.' / 'It is the widow's. She shall have it back.'; offered to Valens as part of her bargain for time: 'And you may have the shovel also')", source: "ch-06:p1; ch-06:p28; ch-06:p29; ch-06:p30; ch-06:p34; ch-06:p243" }
       - { chapter: 6, detail: "Valens takes it for buried silver ('What did you think I was doing with the shovel?' / 'Digging up something you'd hidden.')", source: "ch-06:p263; ch-06:p264" }
       - { chapter: 6, detail: "Mara leaves it lying in the crack; Valens goes back for it; to the charcoal burner, 'The widow wants her shovel'; at the first houses he gives her the duffel, 'Then he gave me the shovel'", source: "ch-06:p273; ch-06:p326; ch-06:p340" }
-    holder: "mara-reyes (on loan from kallia), end of Ch.6"
-    status: "chekhov_open"
+    holder: "kallia (returned in Ch.7); at the end of Ch.6 Mara had it on loan"
+    beats_ch7:
+      - { chapter: 7, detail: "RETURNED at first light on the morning after the mountain, in Greek: 'Your shovel. I have turned the edge on it.' Kallia sights down the blade at the lip the god's rock rolled into the iron ('On what?' / 'On the god's rock. At the cave.' / 'Let the god put an edge back on it.') and stands it upright in the ash pail", source: "ch-07:p2; ch-07:p3; ch-07:p4; ch-07:p5; ch-07:p6; ch-07:p7" }
+    physical_ch7: { value: "the edge turned: the iron rolled over 'in a small lip' where it struck the rock", source: "ch-07:p4" }
+    status: "chekhov_closed"
     note: "unplanned (the writer's report: 'The ash shovel is invented. It is Kallia's, Mara takes it to dig, and it comes back'). A small promise: 'The shovel comes back' / 'She shall have it back'. Its return to Kallia is not yet on the page"
-    last_mentioned: "ch-06:p340"
-    resolution: null
-    resolution: null
+    last_mentioned: "ch-07:p7"
+    resolution: { chapter: 7, paragraph: 2, description: "Mara gives it back, edge turned; Kallia puts it in the ash pail ('The shovel comes back' kept)" }
 
   toothbrush-and-floss:
     introduced: "ch-02:p53"
@@ -4576,8 +4735,9 @@ objects:
     status: "background"
     beats:
       - { chapter: 2, detail: "she decides while flossing (floss wound round both middle fingers and still in her teeth); the floss is packed before the ticket or the passport", source: "ch-02:p50; ch-02:p51; ch-02:p53" }
-    last_mentioned: "ch-02:p63"
-    resolution: { chapter: 7, description: "replaced by a mastic-wood stick (plan)", planned: true }
+      - { chapter: 7, detail: "replaced by a lentisk stick: 'The toothbrush, purple, with a rubber grip, joined the jeans in the duffel.' The floss is not mentioned", source: "ch-07:p58" }
+    last_mentioned: "ch-07:p58"
+    resolution: { chapter: 7, paragraph: 58, description: "put away in the duffel and replaced by a lentisk (mastic) stick, the plan's 'mastic-wood stick'" }
 
   maras-passport:
     introduced: "ch-02:p53"
@@ -4700,7 +4860,12 @@ knowledge_index:
     - { who: "charcoal-burner-parnassus", what: "Ch.6: she is the nymph from Pan's cave (his cousin's boy's story), and Valens's false or partial cover: 'the widow Kallia's … Down by the spring', 'Since the olives', 'She came off a ship'", from_chapter: 6, method: "told_by:goat-boy (the story); inferred (that it is her); told_by:valens (the cover)", source: "ch-06:p314; ch-06:p315; ch-06:p317; ch-06:p319" }
     - { who: "kallia", what: "Ch.6: nothing new. 'She doesn't talk'; no Greek from Mara in a month; still has not asked her name", from_chapter: 6, method: "n/a", source: "ch-06:p39; ch-06:p61; ch-06:p115" }
     - { who: "the town of Delphi (risk)", what: "Valens expects the charcoal burner to spread the nymph-who-is-Kallia's story 'all over the town by the next market'", from_chapter: "after 6", method: "told_by:charcoal-burner-parnassus (expected, not on the page)", source: "ch-06:p328" }
-    - { who: "kallia", what: "knows only the 'Syracuse' cover", from_chapter: 7, method: "n/a", source: "outline:ch-07" }
+    - { who: "kallia", what: "Ch.7: INVENTED the Syracuse cover herself ('my husband's brother's girl. From Syracuse'; 'Your people died'; 'one of the last boats before the sea shut, after the vintage'). She hears Mara's own account (water by pipe, hot water, bought clothes, women at work, a city paying her to mend dug-up pots in a room under the ground) and rejects it: 'There's no such country.' / 'Then why aren't you in it?' She asks nothing about where it is. She knows Mara went to the cave ('At the cave'), and 'So the town says' of the mountain", from_chapter: 7, method: "told_by:mara-reyes (the account; the cave); overheard (the town)", source: "ch-07:p6; ch-07:p20; ch-07:p79-p94; ch-07:p131; ch-07:p135; ch-07:p149" }
+    - { who: "the spring / the town of Delphi", what: "Ch.7: she 'came on a boat' ('The whole spring knows'), from Valens's kiln lie by way of the charcoal; she has been up a mountain; she is Kallia's; she is simple, 'the one that doesn't talk'", from_chapter: 7, method: "told_by:charcoal-burner-parnassus (presumed; the route is Mara's inference, ch-07:p140)", source: "ch-07:p20; ch-07:p73; ch-07:p109; ch-07:p119; ch-07:p139; ch-07:p140" }
+    - { who: "bakers-wife-bath, girl-with-the-mole (and the bath)", what: "Ch.7: she is from 'over the sea', where 'they keep them like that' (Kallia); they read the pale band and the scar as a fetter and a brand; Kallia says 'Pox'", from_chapter: 7, method: "witnessed; told_by:kallia", source: "ch-07:p44; ch-07:p46; ch-07:p48; ch-07:p49; ch-07:p50; ch-07:p51" }
+    - { who: "salt-seller (and the salt row)", what: "Ch.7: she talks like a tragedy ('Antigone'); she is Kallia's", from_chapter: 7, method: "witnessed; inferred", source: "ch-07:p68; ch-07:p119" }
+    - { who: "sosandros", what: "Ch.7: the record (Maira, daughter of Aimilios, of Syrakousai; free; Kallia's kinswoman) and the cover as told; he believes her accent is Sicilian", from_chapter: 7, method: "told_by:kallia; told_by:mara-reyes; inferred (the accent)", source: "ch-07:p149; ch-07:p153; ch-07:p160; ch-07:p172" }
+    - { who: "valens", what: "Ch.7: nothing new about her origin; he knows she is not simple", from_chapter: 7, method: "witnessed", source: "ch-07:p106" }
     - { who: "valens", what: "told she is from nineteen centuries ahead, that a door brought her and the door home is in Pompeii; disbelieves", from_chapter: 15, method: "told_by:mara-reyes", revised: "2026-10-18", source: "outline:ch-15" }
     - { who: "valens", what: "believes it", from_chapter: 25, method: "overheard", source: "outline:ch-25" }
     - { who: "august-fenn", what: "from 1998", from_chapter: 25, method: "witnessed", source: "outline:ch-25" }
@@ -4711,6 +4876,7 @@ knowledge_index:
     - { who: "mara-reyes", what: "'the autumn of the year seventy' (Vespasian = Ouespasianos; the herald: Titus has taken Jerusalem; news by sea in weeks; olives coming down); 1998 less 70 = 1,928 years. Nothing about 79", from_chapter: 5, method: "inferred", note: "from the overheard proclamation plus prior knowledge (Josephus; Vespasian's coins). First step at the Kroton base: after June 68 (Nero's death) and within 2-3 years of the robbery", source: "ch-05:p51; ch-05:p97; ch-05:p107; ch-05:p108; ch-05:p109" }
     - { who: "people of Delphi (herald, clerk, council, square)", what: "reckon by archon (Kleodamos) and by the emperor and his son; the Jerusalem news is fresh, by letters from Corinth", from_chapter: 5, method: "prior_knowledge", source: "ch-05:p95; ch-05:p99; ch-05:p100" }
     - { who: "goat-boy", what: "lives in it; reckons by archon and month (Kleodamos; Boathoos), knows of a Kaisar in Rome", from_chapter: 4, method: "prior_knowledge", source: "ch-04:p22; ch-04:p24; ch-04:p64" }
+    - { who: "mara-reyes", what: "Ch.7: 'the second year of Vespasian'; her narration names October (the arrival) and November (the climb)", from_chapter: 7, method: "inferred", source: "ch-07:p1; ch-07:p10; ch-07:p107" }
   eruption_foreknowledge:
     - { who: "mara-reyes", what: "AD 79 (in scene from Ch.14); 24 Aug and Pliny's hours (stated Ch.36)", from_chapter: 0, method: "prior_knowledge", source: "outline:ch-14; outline:ch-36" }
     - { who: "valens", what: "the mountain, the day, the hours", from_chapter: 37, method: "told_by:mara-reyes", source: "outline:ch-37" }
@@ -4777,11 +4943,31 @@ knowledge_index:
     - { who: "kallia", what: "NOT known: the deal was made in the lane after she went in", from_chapter: null, method: null, source: "ch-06:p76" }
     - { who: "charcoal-burner-parnassus", what: "NOT shown (the watch is never out at the kiln)", from_chapter: null, method: null, source: "ch-06:p307-p326" }
     - { who: "anyone who asks", what: "COVER (Valens): 'You went up by yourself. You never had a watch.'", from_chapter: 6, method: "told_by:valens", source: "ch-06:p341" }
+    - { who: "mara-reyes", what: "Ch.7: still believes it is in his belt pouch; she has no time but morning, noon by the gatepost and the lamps; she wonders whether he winds it before or after the mules 'and whether he remembered which way'", from_chapter: 7, method: "inferred", source: "ch-07:p107" }
+    - { who: "bakers-wife-bath, girl-with-the-mole", what: "NOT the watch: they see only the pale band where it was, and take it for a fetter mark", from_chapter: 7, method: "witnessed", source: "ch-07:p48" }
   mountain_trip_ch6:
     # who knows that Mara went up to the Corycian cave with Valens in the snow
     - { who: "mara-reyes, valens", what: "the climb, the cave, the descent", from_chapter: 6, method: "witnessed", source: "ch-06:p160-p341" }
     - { who: "charcoal-burner-parnassus", what: "saw them on the path at dawn (from below) and hosted them at his kiln at dusk coming down; knows Mara hurt her hand ('She hit Pan')", from_chapter: 6, method: "witnessed; told_by:valens", source: "ch-06:p183; ch-06:p308; ch-06:p322; ch-06:p323" }
     - { who: "kallia", what: "knows Mara went out before light with the duffel and the shovel; where and with whom is not stated", from_chapter: 6, method: "witnessed", source: "ch-06:p153; ch-06:p154; ch-06:p159" }
+    - { who: "kallia", what: "Ch.7: told 'On the god's rock. At the cave.' (the shovel); hears from the town that Mara has been up a mountain ('So the town says.'). With whom is still not stated", from_chapter: 7, method: "told_by:mara-reyes; overheard", source: "ch-07:p6; ch-07:p20" }
+    - { who: "the town of Delphi", what: "Ch.7: says Mara went up a mountain (with whom is not stated)", from_chapter: 7, method: "told_by:charcoal-burner-parnassus (presumed)", source: "ch-07:p20" }
+  maras_name:
+    # who knows Mara's name, and in what form
+    - { who: "goat-boy", what: "'Mára'", from_chapter: 4, method: "told_by:mara-reyes", source: "ch-04:p35" }
+    - { who: "valens, charcoal-burner-parnassus", what: "NOT known: 'My name is Mara Reyes' was said in English in Valens's hearing and is not shown to register; he never asked ('No.')", from_chapter: null, method: null, source: "ch-06:p164; ch-06:p335" }
+    - { who: "sosandros", what: "'Mara', written MAIRA without asking", from_chapter: 7, method: "told_by:mara-reyes", source: "ch-07:p158; ch-07:p161" }
+    - { who: "kallia", what: "'Maira' (said 'nearer Mera'). She stood beside Mara when Mara said 'Mara' to the clerk, then asked 'Say your name for me.' at home", from_chapter: 7, method: "witnessed; told_by:mara-reyes", source: "ch-07:p158; ch-07:p180; ch-07:p181; ch-07:p182" }
+    - { who: "the clerk's boy, boundary-wall-father and the line", what: "present when she said it; what they took in is not stated", from_chapter: 7, method: "overheard (possible)", source: "ch-07:p155; ch-07:p157; ch-07:p158" }
+    - { who: "someone at the water", what: "calls 'Mera' before the month is out (who is not stated)", from_chapter: 7, method: "unknown", source: "ch-07:p183" }
+  syracuse_cover:
+    # who made up which part of Mara's public story, and who has it
+    - { who: "valens", what: "INVENTED the boat ('She came off a ship') and 'Since the olives', for the charcoal burner at the kiln (Ch.6)", from_chapter: 6, method: "n/a (author of the lie)", source: "ch-06:p317; ch-06:p319; ch-07:p140" }
+    - { who: "kallia", what: "INVENTED Syracuse, the husband's brother, 'Your people died', 'one of the last boats before the sea shut, after the vintage', the cold ('If he asks you anything, you've a cold') and 'Half Syracuse is Roman'; earlier, at the bath, 'Over the sea' and 'Pox'", from_chapter: 7, method: "n/a (author)", source: "ch-07:p44; ch-07:p46; ch-07:p51; ch-07:p131; ch-07:p133; ch-07:p135; ch-07:p137; ch-07:p165" }
+    - { who: "mara-reyes", what: "SUPPLIED her name ('Mara') and her father's in Greek ('Aimilios'). Kallia never names the husband's brother, so by the record he is 'Aimilios', a Roman name", from_chapter: 7, method: "n/a (author)", source: "ch-07:p136; ch-07:p137; ch-07:p158; ch-07:p163; ch-07:p164" }
+    - { who: "sosandros", what: "SUPPLIED the spelling MAIRA and 'Syrakousai'; inferred 'Sicilian' from the accent", from_chapter: 7, method: "inferred", source: "ch-07:p150; ch-07:p160; ch-07:p161" }
+    - { who: "the spring", what: "has the boat ('The whole spring knows you came on a boat'); whether Syracuse has reached the spring is not shown", from_chapter: 7, method: "overheard", source: "ch-07:p139" }
+    - { who: "valens", what: "NOT shown to know Syracuse or the registration (both come after his visit)", from_chapter: null, method: null, source: "ch-07:p96; ch-07:p130" }
 # =====================================================================
 # PLOT THREADS (each with its scheduled payoff)
 # =====================================================================
@@ -4851,6 +5037,7 @@ plot_threads:
   romance:
     description: "Mara and Valens"
     opened: { chapter: 6, source: "ch-06:p36", ch6_page: "the first two-hander (the lane; the climb; the cave; the descent). On the page: a hire and a fee, his laugh 'with nobody at the end of it', warm bread shared, 'It was the first thing you did up here I understood', 'A thief doesn't fill the widow's jar before she goes', the refused resale, neither name asked. The narration has no romance signals (outline warning kept; the disruptor cut the one 'romance-adjacent glance' per disruption-chapter-6.md)", ch6_source: "ch-06:p143; ch-06:p253; ch-06:p255; ch-06:p262; ch-06:p270; ch-06:p301; ch-06:p335" }
+    ch7_note: { value: "Ch.7 has no romance beat. Valens is seen as boots only; she does not answer him; 'No.' is his whole answer to Kallia's 'She's simple'. No romance signal in the narration", source: "ch-07:p96; ch-07:p106" }
     beats: [11, 15, 18, 23, 34]
     payoff_chapter: 43
     heat_scenes:
@@ -4874,6 +5061,7 @@ plot_threads:
   valens-known:
     description: "Valens from nobody to known under his own name"
     opened: { chapter: 6, source: "foundation:§3", ch6_page: "on the page he is known locally as Valens (Kallia), as 'Mule-man' (the charcoal burner) and to the sanctuary dogs, but he tells nothing of himself ('North.'; 'On the road.'). He practices being nobody for both of them: lies for her at the kiln and erases the trip and the watch ('You went up by yourself. You never had a watch.')", ch6_source: "ch-06:p48; ch-06:p160; ch-06:p205; ch-06:p308; ch-06:p315; ch-06:p337; ch-06:p341" }
+    ch7_note: { value: "Ch.7: at Kallia's gate Mara knows him 'by the mules before I knew it any other way'; he says one word for her, 'No.'", source: "ch-07:p96; ch-07:p106" }
     beats: [12, 13, 21]
     payoff_chapter: 22
     aftermath: 23
@@ -4887,7 +5075,7 @@ plot_threads:
 
   kallias-son:
     description: "Kallia's swept room and her son"
-    opened: { chapter: 7, source: "outline:ch-07" }
+    opened: { chapter: 7, source: "ch-07:p37", ch7_page: "WRITTEN, unexplained: 'The one door in that house I was not let near was at the end of the gallery, past the lodgers' rooms, where they never went'; swept every morning first, the broom left across the doorway (p37). To 'who slept in the shut room upstairs' Kallia says 'It's swept' (p95). The last morning: swept, broom across (p185). The page does not mention a son", ch7_source: "ch-07:p37; ch-07:p95; ch-07:p185" }
     ch6_preplant: { chapter: 6, detail: "unexplained on the page: Kallia asks Valens 'Is the sea shut yet?' and 'Did anything come in from the east before it went?', then 'Letters.'; he: 'I don't carry letters.' / she: 'Nobody asked what you carry.' The son is not named or mentioned. The plan's letter is from Emesa in Syria (east) and sits at Kirrha all winter (Ch.10)", source: "ch-06:p68; ch-06:p70; ch-06:p72; ch-06:p73; ch-06:p74; outline:ch-10" }
     payoff_chapter: 10
     coda: 16
@@ -4987,15 +5175,16 @@ plot_threads:
     ch4_note: { chapter: 4, detail: "related fact, not a planned beat: in AD 70 a pen stands whole where the pen had stood ('Past the firs a pen …'), every stone on edge, and 'The corner kept the same long slant as the rest'. The flat-coursed repair and the bedspring of Ch.3 do not exist yet", source: "ch-04:p61; ch-03:p14" }
     ch5_note: { chapter: 5, detail: "related fact, not a planned beat: the god's own house has been touched up badly. The new blue on the porch molding is 'slopped over the edge of the old border by a painter in a hurry', who missed a hand's breadth behind a column; Mara is smiling at it when she is seized. Also, the Kroton base keeps the marks of the taking ('The streaks were the oldest thing on the block; the holes were the newest')", source: "ch-05:p44; ch-05:p72" }
     ch6_note: { chapter: 6, detail: "related facts, not planned beats: Valens's scar, 'Whoever closed it had been in a hurry and set the stitches too far apart, and it had healed in a ladder, every rung raised and white' (a visible, hasty mend, read by Mara's eye); Mara's woodstack built 'two this way and two that, so that it would stand on its own and not lean on Kallia's wall, which had enough to hold up already'", source: "ch-06:p42; ch-06:p59" }
+    ch7_note: { chapter: 7, detail: "related facts, not planned beats: the himation's corner darned 'in a browner wool by somebody in a hurry' (p11); the broken jar, which she could mend in a week 'if Delphi had any use for a jar that had been broken once' (p122); 'For ten years I had sat at a bench keeping things from being wiped smooth', set against wax that the council will 'warm and scrape and write over' (p174)", source: "ch-07:p11; ch-07:p122; ch-07:p174" }
     beats: [1, 3, 9, 20]
     payoff_chapter: 43
     status: "planned_open"
     source: "foundation:§5; outline:ch-43"
 
-  relics-microcassette: { description: "her father's voice", opened: 1, opened_source: "ch-01:p188", ch5: "the planned touch, in its sock in the duffel in Kallia's storeroom, no comment (ch-05:p209; CH5-4 on the count). Next planned: Ch.19, Ch.35", payoff_chapter: 43, status: "open", source: "foundation:§4f; outline:ch-43" }
-  relics-film-roll: { description: "the 36-frame record", opened: 2, opened_source: "ch-02:p64 (loaded; 0 frames)", ch3: "Delphi stadium ('a little', count unstated) + 6 frames on the page (ch-03:p6-p49); counter not mentioned", ch5: "1 frame: the empty Kroton base (ch-05:p52; CH5-3). Plan count 9 shot / 27 left; page at least 8 / at most 28", payoff_chapter: 43, last_frame_chapter: 38, status: "open", source: "foundation:§4f; outline:ch-38; outline:ch-43" }
-  relics-watch: { description: "the watch-winding (the only countdown)", opened: 1, opened_source: "ch-01:p191", ch3: "wound on the Delphi balcony; running; reads 'ten to two' at the mouth under a low sun (ch-03:p4; ch-03:p81)", ch5: "struck by the rod (no damage stated); 'ten minutes' by it (to Kallia); ticking in the storeroom dark; not wound on the page (ch-05:p86; ch-05:p159; ch-05:p210)", ch6: "set to local time by the gatepost's noon shadow (her second day at Kallia's); paid to Valens as his fee; wound backward by him until stopped, then forward to full; in his belt pouch; 'Forward. Till it stops, and not past.'; 'You never had a watch.' Mara is without a watch from here (ch-06:p13; ch-06:p131; ch-06:p137; ch-06:p142; ch-06:p143; ch-06:p306; ch-06:p341)", payoff_chapter: 43, status: "open", source: "foundation:§4f" }
-  relics-knucklebone: { description: "the bone that went to 1998 and came back", opened: 3, opened_source: "ch-03:p58 ('I pocketed it')", ch4: "not mentioned in Ch.4 since polish cycle 1 (CH4-1 RESOLVED); the nymphs' ledge shows three offered knucklebones (ch-04:p28)", payoff_chapter: 44, status: "open", source: "foundation:§4f; outline:ch-44; ch-03:p55-p59" }
+  relics-microcassette: { description: "her father's voice", opened: 1, opened_source: "ch-01:p188", ch5: "the planned touch, in its sock in the duffel in Kallia's storeroom, no comment (ch-05:p209; CH5-4 on the count). Next planned: Ch.19, Ch.35", ch7: "not mentioned", payoff_chapter: 43, status: "open", source: "foundation:§4f; outline:ch-43" }
+  relics-film-roll: { description: "the 36-frame record", opened: 2, opened_source: "ch-02:p64 (loaded; 0 frames)", ch3: "Delphi stadium ('a little', count unstated) + 6 frames on the page (ch-03:p6-p49); counter not mentioned", ch5: "1 frame: the empty Kroton base (ch-05:p52; CH5-3). Plan count 9 shot / 27 left; page at least 8 / at most 28", ch7: "0 frames; the Pentax is not mentioned", payoff_chapter: 43, last_frame_chapter: 38, status: "open", source: "foundation:§4f; outline:ch-38; outline:ch-43" }
+  relics-watch: { description: "the watch-winding (the only countdown)", opened: 1, opened_source: "ch-01:p191", ch3: "wound on the Delphi balcony; running; reads 'ten to two' at the mouth under a low sun (ch-03:p4; ch-03:p81)", ch5: "struck by the rod (no damage stated); 'ten minutes' by it (to Kallia); ticking in the storeroom dark; not wound on the page (ch-05:p86; ch-05:p159; ch-05:p210)", ch6: "set to local time by the gatepost's noon shadow (her second day at Kallia's); paid to Valens as his fee; wound backward by him until stopped, then forward to full; in his belt pouch; 'Forward. Till it stops, and not past.'; 'You never had a watch.' Mara is without a watch from here (ch-06:p13; ch-06:p131; ch-06:p137; ch-06:p142; ch-06:p143; ch-06:p306; ch-06:p341)", ch7: "not seen; she believes it is in his belt pouch; the hour 'lost to me since November'; the pale band 'since March' (ch-07:p48; ch-07:p107)", payoff_chapter: 43, status: "open", source: "foundation:§4f" }
+  relics-knucklebone: { description: "the bone that went to 1998 and came back", opened: 3, opened_source: "ch-03:p58 ('I pocketed it')", ch4: "not mentioned in Ch.4 since polish cycle 1 (CH4-1 RESOLVED); the nymphs' ledge shows three offered knucklebones (ch-04:p28)", ch7: "not mentioned", payoff_chapter: 44, status: "open", source: "foundation:§4f; outline:ch-44; ch-03:p55-p59" }
 
   hand-at-threshold:
     description: "repeated situation: her hand at a door"
@@ -5065,7 +5254,10 @@ plot_threads:
     beats: [7]
     payoff_chapter: 7
     payoff_detail: "registered as Kallia's dependent kinswoman 'from Syracuse' (plan); the 'whose' question is SPENT at two uses in Ch.5 (character-bible at-risk list), so Ch.7 must word it differently"
-    status: "open"
+    ch7_payoff: { chapter: 7, detail: "PAID. The claim (p1: 'A woman in Phocis in the second year of Vespasian belonged to somebody'); the drover's 'She's nothing to anybody' and the salt-seller's 'She's Kallia's' / 'Kallia's what?' (p118-p121); then the register: 'Maira, daughter of Aimilios, of Syrakousai; free; kinswoman of Kallia, of her house and in her keeping' (p172). There is no 'whose' question on the page: the clerk asks 'Bought, born in the house, or free?' / 'Kin?' / 'who answers for her?' (p146; p148; p166). Mara: 'it was the only thing in that whole country that had ever said I was in it' (p174)", source: "ch-07:p1; ch-07:p118; ch-07:p119; ch-07:p120; ch-07:p121; ch-07:p146; ch-07:p148; ch-07:p166; ch-07:p172; ch-07:p174" }
+    status: "closed"
+    closed_date: "2026-10-19"
+    note_for_later: "the status rests on a wax entry in the council's book, rewritten every year (objects.delphi-tribute-list-entry). Ch.16 and Ch.18 depend on it"
     source: "outline:ch-05; outline:ch-07; character-bible.md (at-risk list)"
 
   return-to-the-cave:
@@ -5084,7 +5276,9 @@ plot_threads:
     ch6_beat: { chapter: 6, detail: "the month held: 'I had spoken no Greek aloud since the guide on the Sacred Way' (CH5-6 RESOLVED). Broken for Valens ('You go up on the mountain', with 'all its breathings in') and used with the charcoal burner ('It was oats'). It holds with Kallia ('She doesn't talk'; the blanket thanked for in English). See CH6-7 on outline Ch.7 beat 3", source: "ch-06:p39; ch-06:p61; ch-06:p78; ch-06:p79; ch-06:p155; ch-06:p321" }
     beats: [7]
     payoff_detail: "foundation: 'she won't speak it in front of Kallia for a month'"
-    status: "open"
+    ch7_beat: { chapter: 7, detail: "the patched sequence, on the page: indoors she talks Greek to Kallia 'since the morning of the shovel' (p60); after the salt market, 'for a month after that, outside Kallia's gate, I said nothing to anyone if I could help it' (p71); the town takes her for simple (p73; p109; p111); she breaks the silence once, at the council, on day nineteen ('Mara', p158; p159); 'the last morning of the month' (p185). Whether she speaks in public after the council is not stated", source: "ch-07:p60; ch-07:p71; ch-07:p73; ch-07:p158; ch-07:p159; ch-07:p185" }
+    status: "closed"
+    closed_date: "2026-10-19"
     source: "foundation:§3; outline:ch-05; outline:ch-07"
 
   nymph-rumor:
@@ -5093,10 +5287,37 @@ plot_threads:
     risk: { value: "'He'll have you all over the town by the next market' (Valens). The burner saw them on the mountain together, which cuts against Valens's line 'You went up by yourself'", source: "ch-06:p183; ch-06:p308; ch-06:p328; ch-06:p341" }
     constraint: "character-bible at-risk list: 'the goat-boy's nymph story told by a third party' is SPENT. The rumor is not retold again on the page (its effects may be shown)"
     constraint_source: "character-bible.md (At-risk after Ch.6)"
+    ch7_effects: { value: "its effects are shown and the story is not retold: 'So the town says' (the mountain, p20); 'The whole spring knows you came on a boat' (p139); Mara traces the boat to the kiln (p140). After the continuity repair the narration does not use the word 'nymph' at all; Homer's Maira is one of 'the Nereids' (p161)", source: "ch-07:p20; ch-07:p139; ch-07:p140; ch-07:p161" }
     payoff_chapter: null
     status: "open (unplanned)"
     source: "ch-06:p86; ch-06:p314-p328"
 
+  syracuse-cover:
+    description: "Mara's public identity in Greece: Kallia's husband's brother's girl, from Syracuse, come on one of the last boats"
+    opened: { chapter: 7, source: "ch-07:p131", detail: "Kallia's plan in the storeroom doorway (p131-p139) and the council entry (p149-p172)" }
+    parts: "Valens's boat (ch-06:p319) → the spring (ch-07:p139) → Kallia's Syracuse, the husband's brother, the dead parents, 'one of the last boats before the sea shut, after the vintage' (ch-07:p131-p135) → Mara's 'Aimilios' (ch-07:p163) → Sosandros's 'Syrakousai', MAIRA and 'Sicilian' (ch-07:p150; ch-07:p160; ch-07:p161)"
+    fit_with_ch6: "COMPATIBLE with Valens's 'She came off a ship' and 'Since the olives' (the vintage comes before the olives). The draft's 'the last boat' strained against an arrival about three weeks before the last ship left Kirrha. The continuity repair made it 'one of the last boats' (CH7-3, RESOLVED)"
+    weak_points: "Kallia never names the husband's brother ('What was he called?' goes unanswered, p136-p137), so by the record he is Aimilios, a Roman name ('A Roman.' / 'Half Syracuse is Roman.', p164-p165). Mara's 'Sicilian' Greek rests on 'nobody here has heard enough of it to say how strange' (p137). Mara knows Syracuse only from her father's slides (p140)"
+    payoff_chapter: null
+    status: "open (unplanned detail; the plan's 'from Syracuse' is planned)"
+    source: "ch-06:p319; ch-07:p131-p172; outline:ch-07"
+
+  kallias-fifth-coin:
+    description: "the fifth coin for Valens's split oak, owed when it burns without spitting"
+    opened: { chapter: 6, source: "ch-06:p66", detail: "'Four now, and the fifth when I've seen it burn without spitting'" }
+    ch7_beat: { chapter: 7, detail: "'It spat.' / 'Twice. Once on my good hearthstone and once in the lentils. When it's done a month without spitting, you'll have your coin.' He leaves without it", source: "ch-07:p96; ch-07:p98; ch-07:p100; ch-07:p106" }
+    constraint: "continuity audit W-13: the spitting-oak haggle is SPENT; the coin is paid or forgotten off the page, and never argued a third time"
+    payoff_chapter: null
+    status: "open (unplanned)"
+    source: "ch-06:p66; ch-07:p100; evaluations/continuity/chapter-7-audit.md W-13"
+
+  thyiades-midwinter:
+    description: "the women's midwinter climb for Dionysos"
+    opened: { chapter: 7, source: "ch-07:p186; ch-07:p189; ch-07:p191; ch-07:p193", detail: "'At midwinter the women climb Parnassus' / 'The god's women. Dionysos's. Every woman in this town who's any good, and a few who aren't. They go every other winter, and this is the winter. You'll come. You've the boots for it.' / 'Onto the plain. In the snow, at night, with torches, and a skin of wine for every three of you, and no man past the last house.' / 'Bind your feet in rags over the boots, and bring the girl's himation.' / 'Dance. Drink. Freeze. Not as high as your cave.'" }
+    mara_question: { value: "'How far was it, at night, on foot, from wherever the women danced to the cave?'", source: "ch-07:p194" }
+    payoff_chapter: 8
+    status: "planned_open"
+    source: "ch-07:p186-p194; outline:ch-08"
   kleodamos-archon:
     description: "the archon's name, heard twice (the goat-boy Ch.4; the herald's decree Ch.5)"
     opened: { chapter: 4, source: "ch-04:p22" }
@@ -5108,6 +5329,7 @@ plot_threads:
   mrs-dunphy:
     description: "unprompted, mutating memory"
     beats: [7, 24, 41]
+    beats_written: [{ chapter: 7, source: "ch-07:p184" }]
     payoff_chapter: null
     status: "no_payoff_by_design (never connected)"
     source: "foundation:§3"
@@ -5142,17 +5364,24 @@ world_rules:
   - { rule: "The mechanism is never explained (Outlander standard).", source: "foundation:§9" }
   - { rule: "Women did not enter to consult the Oracle; they asked through a male representative. The Pythia speaking to a woman privately, off duty, is not an oracular response (Ch.13).", revised: "2026-10-18", source: "foundation:§9; foundation:§11.4; STATE:ARCH-4 (revised)" }
   - { rule: "Oracle consulted on fixed (monthly) days in the warm months; year's first consultation on the seventh of Bysios; the goat must shiver at a sprinkling of cold water.", revised: "2026-10-18", source: "foundation:§9; foundation:§3" }
-  - { rule: "A foreign woman with no guardian is legally nobody; she must be registered as someone's.", source: "foundation:§3; outline:ch-07", ch5_observed: "Ch.5 (prose) shows the social side, not the law: strangers ask 'Where's your man?' and 'Whose is she?' / 'Whose are you?'; on the god's steps she is assumed to have 'run off from some house'; at dusk a man offers her 'a house … that takes in girls on their own' (ch-05:p11; ch-05:p76; ch-05:p77; ch-05:p130; ch-05:p173)", ch6_observed: "Ch.6: Valens's questions assume a woman alone is someone's runaway ('Who's coming after you?' / 'A husband.' / 'A father, then.'); trousers 'so the road wouldn't take you for a woman'; the charcoal burner: 'Since when has Kallia got anybody?'; the cover that makes her safe is 'She's the widow Kallia's' (ch-06:p114; ch-06:p116; ch-06:p118; ch-06:p315; ch-06:p316; ch-06:p328)" }
+  - { rule: "A foreign woman with no guardian is legally nobody; she must be registered as someone's.", source: "foundation:§3; outline:ch-07", ch5_observed: "Ch.5 (prose) shows the social side, not the law: strangers ask 'Where's your man?' and 'Whose is she?' / 'Whose are you?'; on the god's steps she is assumed to have 'run off from some house'; at dusk a man offers her 'a house … that takes in girls on their own' (ch-05:p11; ch-05:p76; ch-05:p77; ch-05:p130; ch-05:p173)", ch6_observed: "Ch.6: Valens's questions assume a woman alone is someone's runaway ('Who's coming after you?' / 'A husband.' / 'A father, then.'); trousers 'so the road wouldn't take you for a woman'; the charcoal burner: 'Since when has Kallia got anybody?'; the cover that makes her safe is 'She's the widow Kallia's' (ch-06:p114; ch-06:p116; ch-06:p118; ch-06:p315; ch-06:p316; ch-06:p328)", ch7_observed: "Ch.7 (prose) shows the law. The council's clerk enters every household on the tribute lists, with the form's questions: 'Bought, born in the house, or free?' / 'Kin?' / 'Resident since when? On what business?' / 'Name' / 'Daughter of?' / 'who answers for her? A free woman wants someone to answer for her.' A widow answers for her own house and for her kinswoman over 'A woman can't answer for—'. The entry costs two obols and is kept in wax (ch-07:p129; ch-07:p146; ch-07:p148; ch-07:p152; ch-07:p154; ch-07:p162; ch-07:p166; ch-07:p168; ch-07:p169; ch-07:p173)" }
   - { rule: "OBSERVED (Ch.5): at Delphi, touching the god's house 'unwashed' is grounds for removal by the temple's men and a slave with a rod; passers-by touch water from a basin at the gate to their foreheads; strangers are to keep clear of the altar at the decreed sacrifice, and the meat goes to citizens only", source: "ch-05:p23; ch-05:p75; ch-05:p78; ch-05:p84; ch-05:p102; ch-05:p103" }
   - { rule: "Roman marriage needs no priest: consent before witnesses.", source: "outline:ch-18" }
   - { rule: "A husband who divorces an adulterous wife may retain part of her dowry; recovery via the actio rei uxoriae, heard by a single iudex (no jury); the father keeps the children after divorce, and custody/access is not a remedy in a dowry suit.", revised: "2026-10-18", source: "foundation:§3; foundation:§9; outline:ch-22" }
   - { rule: "An auctoratus (free man sworn to a gladiator school for a term) cannot be bought out before his first fight. An informally freed slave (Junian Latin) is free enough to swear the oath.", revised: "2026-10-18", source: "outline:ch-28; foundation:§3" }
   - { rule: "An arena manumission unregistered before a magistrate can be contested as void (Celer's 'property' claim); the Corinth archive copy proves registration.", source: "foundation:§3" }
-  - { rule: "The sea is closed from about November to March (letters wait in harbor; Ariston's sat at Kirrha all winter).", source: "foundation:§9; outline:ch-10", ch5_observed: "Ch.5: 'News like that came to Greece in weeks, by sea, and the sea was still open' (autumn AD 70, Mara's reasoning); letters from Corinth arrive 'with the ship' (ch-05:p95; ch-05:p108)", ch6_observed: "Ch.6: shut. 'Is the sea shut yet?' / 'The last ship went out of Kirrha eight days ago.' Before it, from the east: oil, Cretan wine, a man with dogs. No letters carried by Valens. Overland too: 'The road over to Boeotia's under snow. All of it.' (ch-06:p68; ch-06:p69; ch-06:p71; ch-06:p73; ch-06:p149)" }
-  - { rule: "Political backdrop: Nero granted Achaea 'freedom' (late 67), removing the proconsul; there is no proconsul in 69; Vespasian revoked it, and in this book a proconsul governs from Corinth again by 71.", revised: "2026-10-18", source: "foundation:§9; foundation:§3" }
+  - { rule: "The sea is closed from about November to March (letters wait in harbor; Ariston's sat at Kirrha all winter).", source: "foundation:§9; outline:ch-10", ch5_observed: "Ch.5: 'News like that came to Greece in weeks, by sea, and the sea was still open' (autumn AD 70, Mara's reasoning); letters from Corinth arrive 'with the ship' (ch-05:p95; ch-05:p108)", ch6_observed: "Ch.6: shut. 'Is the sea shut yet?' / 'The last ship went out of Kirrha eight days ago.' Before it, from the east: oil, Cretan wine, a man with dogs. No letters carried by Valens. Overland too: 'The road over to Boeotia's under snow. All of it.' (ch-06:p68; ch-06:p69; ch-06:p71; ch-06:p73; ch-06:p149)", ch7_observed: "Ch.7: the cover 'one of the last boats before the sea shut, after the vintage'; four Thebans held 'till the thaw' (ch-07:p135; ch-07:p144)" }
+  - { rule: "Political backdrop: Nero granted Achaea 'freedom' (late 67), removing the proconsul; there is no proconsul in 69; Vespasian revoked it, and in this book a proconsul governs from Corinth again by 71.", revised: "2026-10-18", source: "foundation:§9; foundation:§3", ch7_observed: "Ch.7, winter AD 70-71: 'The talk at the spring was that the new emperor meant to take back the freedom Nero had given Greece, and freedom … had meant chiefly that Greece paid no tribute; nobody at the spring knew when'; the council registers every house 'before Rome put a governor back in Corinth to ask for it'. No governor yet, which agrees with this rule (ch-07:p129; CH7-4 RESOLVED)" }
   - { rule: "Roman equids went barefoot or in strapped hipposandals; no nailed horseshoes (Ch.24 hooves trimmed).", source: "outline:ch-24", ch6_observed: "Ch.6: no shoes on Valens's mules. On ice he binds sacking round each hoof with twine pulled tight with his teeth, and rebinds fresh at the kiln. On Kallia's iced lane he throws ashes where the hooves land (ch-06:p42; ch-06:p172; ch-06:p315)" }
   - { rule: "OBSERVED (Ch.6): offerings at the Corycian cave go on in AD 70. A muleteer leaves a corner of crust on the ledge under the inscription for Pan ('It's his house' / 'I pay him'). Ch.4 showed a lamp and three knucklebones there; by Ch.6 the ledge 'held only snow'", source: "ch-04:p28; ch-06:p221; ch-06:p225; ch-06:p226; ch-06:p228" }
   - { rule: "OBSERVED (Ch.6): the temple of Apollo is repainted each spring after the snow, by a man the priests hang off the roof on a rope 'with a pot of red'", source: "ch-06:p177; ch-06:p179" }
+  - { rule: "OBSERVED (Ch.7): a woman in Phocis belongs to somebody, and the town works out whose (the women at the spring look for who 'had sent me down for the water'; men slow in a lane to see who is behind her). Mara's claim: 'A woman with nobody behind her was a piece of luck lying in the road for whoever bent down first'", source: "ch-07:p1" }
+  - { rule: "OBSERVED (Ch.7): how a respectable woman moves in public: short steps; eyes on the ground a few steps ahead; men known by their feet; never looking at a man ('Look at a man out there and you've asked him something. And somebody answers.'); never answering men (her keeper answers); sitting knees together, the himation drawn down, hands folded", source: "ch-07:p18; ch-07:p20; ch-07:p22; ch-07:p24; ch-07:p26; ch-07:p33" }
+  - { rule: "OBSERVED (Ch.7): the public latrine is men's ground; women's bodily needs are met at home (a lidded pot, the dung heap at the lane's end)", source: "ch-07:p36" }
+  - { rule: "OBSERVED (Ch.7): the bath is shared by hours (women from first light until the sun clears the cliffs, men after their exercise); women singe their legs with lamps and clean their teeth with burnt horn powder ('Goat's is best')", source: "ch-07:p38; ch-07:p42; ch-07:p55; ch-07:p57" }
+  - { rule: "OBSERVED (Ch.7): at the Castalian spring the lions are for people and the trough at the bottom of the basin is for animals. Watering donkeys at the lions is 'drinking the god's water at the wrong end of his basin', a matter for a priest", source: "ch-07:p108; ch-07:p121" }
+  - { rule: "OBSERVED (Ch.7): the Dionysian women's rite on Parnassus is held 'every other winter', at midwinter, at night on the snowbound plain, with torches and wine and 'no man past the last house'", source: "ch-07:p186; ch-07:p189; ch-07:p191" }
+  - { rule: "OBSERVED (Ch.7): Delphian Greek in AD 70 is not the Erasmian Attic of Mara's books: the town says its ai 'near the e in egg' and its eta 'halfway to an i' (all the way to an i in the mountain villages). Book Attic sounds like the tragic stage", source: "ch-07:p59; ch-07:p68" }
   - { rule: "Eruption per Pliny: column ~1 p.m. 24 Aug; ~18 hours of pumice; roofs collapse; boats cannot land; surges reach Pompeii ~6:30-7:30 a.m. 25 Aug. The October theory is never raised.", source: "foundation:§9; STATE:ARCH-10" }
   - { rule: "Narrative law: the narrator's horizon is the moment narrated — no foreshadowing; Mara's historical knowledge of 79 is present-tense dread only.", source: "foundation:§6a; STATE:guardrails" }
 
@@ -5165,6 +5394,7 @@ organizations:
     aliases: ["the Delphian women of Dionysus"]
     facts:
       - { fact: "winter rites on Parnassus by torchlight (ivy, fawnskins, drums, wine); trapped by snow until dawn in Ch.8", source: "outline:ch-08; foundation:§9" }
+      - { fact: "Ch.7 (Kallia): 'The god's women. Dionysos's. Every woman in this town who's any good, and a few who aren't'. They go up 'every other winter, and this is the winter', at midwinter: 'Onto the plain. In the snow, at night, with torches, and a skin of wine for every three of you, and no man past the last house'. The page does not use the name Thyiades", source: "ch-07:p186; ch-07:p189; ch-07:p191" }
 
   delphic-sanctuary:
     canonical_name: "the sanctuary of Apollo at Delphi"
@@ -5174,6 +5404,7 @@ organizations:
       - { fact: "a temple slave beats Mara off the steps with a rod", source: "outline:ch-05; ch-05:p84; ch-05:p85; ch-05:p86", ch5_confirmed: "CONFIRMED: a man in a white tunic with a purple stripe and a staff, with two more men, hauls her off the porch; a barefoot slave with a peeled rod beats her down the steps and to the head of the ramp; the rod splits; 'Get her down before the priest comes out'" }
       - { fact: "Ch.5: a priest's assistant sluices blood off the black altar's step; a sacrificial goat is led up to a flute; the temple steps and porch are policed against the unwashed", source: "ch-05:p32; ch-05:p65; ch-05:p75; ch-05:p79" }
       - { fact: "Ch.6: the priests have the temple repainted every spring by the same cheap painter on a rope (Valens); the sanctuary wall's high corner marks the start of the cliff stair; 'the sanctuary dogs' know Valens", source: "ch-06:p160; ch-06:p177; ch-06:p179; ch-06:p339" }
+      - { fact: "Ch.7: the Castalian water is 'the god's water' and the basin 'his basin'; misusing it is a matter for a priest; the women's bath lies below the sanctuary", source: "ch-07:p38; ch-07:p121" }
 
   delphi-council:
     canonical_name: "the council and people of the Delphians"
@@ -5184,6 +5415,7 @@ organizations:
       - { fact: "Ch.6: after the sacrifice, the charcoal burner's grievance about 'the god's ox' names 'the number four' and 'the council' (Mara catches no more); he got 'Smoke'", source: "ch-06:p312; ch-06:p314" }
       - { fact: "the prophetes conducts the consultation; Theano is the Pythia; consultation days are monthly in the warm season", source: "outline:ch-13; foundation:§3" }
       - { fact: "a temple slave carries Theano's summons to Mara (Ch.13)", source: "outline:ch-13" }
+      - { fact: "Ch.7: its clerk is Sosandros; it meets in a long hall beside the square; in winter AD 70-71 it enters every household on the tribute lists in wax books, 'before Rome put a governor back in Corinth to ask for it'; the fee is two obols; one boundary dispute has run 'through three councils'; Kallia has 'the council's ear' (the salt-seller)", source: "ch-07:p121; ch-07:p129; ch-07:p141; ch-07:p156; ch-07:p173" }
 
   household-of-celer:
     canonical_name: "the household of Q. Arrius Celer"

@@ -134,7 +134,7 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   **Body (the page's only body facts):** a scar the length of Mara's finger across the back of his **right**
   hand; whoever closed it was in a hurry and set the stitches too far apart, and it healed "in a ladder, every
   rung raised and white" (Mara's repairer's eye, not his). When he leans on the gray's shoulder, "she had to brace
-  a foot under his weight; his hands were older than the rest of him" (size and wear, read by Mara; no face, eyes,
+  a foot under his weight" (size), and his scarred hand "was an older hand than the rest of him" (wear; both read by Mara; no face, eyes,
   teeth or beauty word anywhere in the chapter; his ~32 stays unstated). His thumb covers the watch's crown
   entirely; the band will not go halfway round his wrist, so the watch lives in his belt pouch. Later chapters
   give new body facts in fresh words; do not re-quote the ladder or the hands sentence.
@@ -981,15 +981,15 @@ the page.)*
 - **Attention / worldview (as remembered):** the desk in front of her; the long division she stopped
   teaching.
 - **Vocabulary band:** none; the memory has no dialogue.
-- **Syntax fingerprint:** **she never speaks in the memory.**
+- **Syntax fingerprint:** she never speaks in her own voice. The one reported line (Ch.7, "said we could go") is the dismissal, and that is all she is allowed.
 - **Rhythm:** silence; the class's pencils.
 - **Evasion:** why she cried. No one ever learned. **Never connected to the plot.**
 - **Physicality / silence:** crying without sound at her desk; a cardigan with a missing button, green in
   Ch.7 and brown in Ch.24; by Ch.41 Mara is unsure it was long division.
-- **Verbal tic:** none — distinguished by silence (the memory mutates; she never speaks)
+- **Verbal tic:** none — distinguished by silence (the memory mutates; no direct speech, ever)
 - **DISTINCTNESS GUARANTEE:** a silent, mutating memory, against Emilio, a remembered voice. Each surfacing
   enters with a different sentence (never "I thought of Mrs. Dunphy" twice).
-- **Sample line:** none. She never speaks.
+- **Sample line:** none. No direct speech; at most one reported line per surfacing.
 - **Ch.7 as written (synced to the final page 2026-10-19):** enters "Mrs. Dunphy cried at her desk for a whole
   afternoon when I was in fourth grade, in a green cardigan short of its second button." She stops in the middle of
   a remainder; the class does the problems twice; the paragraph ends on the bell, her wiping her face "with the backs

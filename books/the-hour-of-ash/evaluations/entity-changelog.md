@@ -776,3 +776,129 @@ No knowledge_gap. No needs_review.
 - **Season.** The sea and the Boeotia road are shut. The cliff stair is iced from the second turn; the plain is under snow.
 - **Mara's injuries.** The heel of one hand is skinned (which hand is not stated). Her knuckles are split and her palms blistered; she still cannot carry a jar on her head.
 - **The crack** gave nothing in cold weather, and Mara knows a hand test can't tell in winter. Ch.8's attempt is "nothing" with "no scream".
+
+---
+
+## 2026-10-19: UPDATE (chapter 7, final text: post-polish, post-hook, post-disruption, post-continuity-repair) + Ch.6 re-anchor
+
+**Trigger:** chapter loop step D.5 for chapter 7 (drift policy: every chapter). Two mid-run instructions from the orchestrator: (1) re-anchor the Ch.6 citations by content, since chapter-6.md has 341 paragraphs after its polish cycle 1; (2) wait for the Ch.7 continuity repair (`evaluations/revision-chapter-7-continuity.md`) and verify against the final text.
+**Inputs read:**
+- `manuscript/chapters/chapter-7.md` in its final state (last written 16:55:16; checked unchanged against a snapshot before each write): 194 prose paragraphs, 3 breaks, four shards (p1-p58, p59-p128, p129-p182, p183-p194), 6,041 words by shape_check.
+- The existing `ENTITY_STATE.yaml` (`last_updated_chapter: 6`); outline.md Ch.7-8 (plus Ch.9-18 for dependencies); character-bible.md (Kallia, Valens, Sosandros, Mrs. Dunphy, the Ch.7 walk-ons, the at-risk list).
+- The Ch.7 pass reports (dialogue, hook, disruption, writer); `evaluations/continuity/chapter-7-audit.md`; the continuity repair log; `evaluations/revision-chapter-6-cycle1.md`.
+**Meta:** `last_updated_chapter: 7`; `chapters_tracked: [1..7]`; `mode` and `source` updated; `paragraph_rule` extended to Ch.7 and notes the Ch.6 re-anchor; two new `revalidation_needed` rows (chapter 6, RESOLVED). 968 `ch-07:pYY` cites, all in range. Every quoted phrase was machine-checked against its cited paragraph: 0 misses. The YAML loads under a strict loader with no duplicate keys.
+
+### Ch.6 re-anchor (polish cycle 1 had edited chapter-6.md after the Ch.6 update)
+- **Map.** Built from a paragraph diff of the pre-cycle backup against the current file: old p1-p100 = new p1-p100; old p101 ('I will not.') + old p102 = new p101; old p103-p342 = new p102-p341. Shards are now p1-p35, p36-p242, p243-p341.
+- **Remapped:**
+  - 1,096 explicit `ch-06:pYY` cites across 252 lines, with their ranges;
+  - bare Ch.6 p-refs on Ch.6-only lines;
+  - 8 mixed lines, by hand. Line 467's bare refs are Ch.5 and were left alone.
+  - The content check found no mismatch introduced by the remap.
+- **Text updated to the cycle-1 page:**
+  - 'The rock was cold. Behind me the torch flame stood straight up.' (5 places).
+  - Emilio wound the Seiko 'on the few mornings he was there' (his trait, the timeline_events row, Mara's Ch.6 memory trait).
+  - 'I make the cracks in old pots disappear'.
+  - The plea now reads 'I've done the floors every day for a month, and everything anybody asked me'.
+  - 'my bleeding hand held away from it'.
+  - CH6-5 gets `prose_now`. It is narrowed but still open: the page now admits 'the long road round'.
+  - CH6-4 notes that the sentence is cut altogether.
+  - Valens's build gets 'she had to brace a foot under his weight'.
+- **Six older cite gaps filled:** Valens knowledge_absent_ch6 (+p334, +p279); theban-on-gallery (+p76); Kallia knowledge_absent_ch6 (+p315, +p319); boeotia (+p150); Seiko custody (+p118).
+- **Also fixed:** a duplicate `resolution: null` key in `kallias-ash-shovel`.
+
+### Replaced (plan → prose)
+- Mara's Ch.7 location log, arc waypoint, the aliases 'Maira' and 'Kallia's kinswoman from Syracuse', and the planned trait surfacings (teeth, all-or-nothing, Mrs. Dunphy, the Greek refusal).
+- Kallia's Ch.7 waypoint, the broom trait, and the possessions himation and broom.
+- `mrs-dunphy.first_appearance` and mutation; `kallias-broom.introduced`; `borrowed-himation` (the whole entry); `toothbrush-and-floss.resolution`; timeline row 7.
+- knowledge_index `mara_origin`: Kallia's row.
+- `kallias-son.opened`; `maras-legal-nonexistence` (PAID, closed); `maras-greek-refusal` (closed).
+
+### Added
+- **The legal record** (`objects.delphi-tribute-list-entry`; `mara-reyes.legal_status`):
+  - **The text:** *Maira, daughter of Aimilios, of Syrakousai; free; kinswoman of Kallia, of her house and in her keeping.*
+  - **Who and where:** made by Sosandros at the council hall beside the square, winter AD 70 (day 19-20 of the silence); Kallia answers 'I do.'; fee two obols.
+  - **The occasion:** spring talk that Vespasian will revoke the freedom, so the council is entering every house 'before Rome put a governor back in Corinth to ask for it'.
+  - **The medium:** wax, rewritten yearly; no copy issued.
+  - **Not in the line:** the husband's brother, the boat, the vintage and the dead parents were told to the clerk but not written.
+- **The Syracuse cover** (new thread `syracuse-cover`; new index `syracuse_cover`):
+  - Valens invented the boat and 'Since the olives' (Ch.6).
+  - Kallia invented Syracuse, the husband's brother, 'Your people died', 'one of the last boats … after the vintage', the cold, and 'Half Syracuse is Roman'.
+  - Mara supplied 'Mara' and 'Aimilios'.
+  - Sosandros supplied MAIRA, 'Syrakousai' and 'Sicilian'.
+  - The husband's brother is never named, so by the record he is Aimilios, 'A Roman'.
+  - Mara knows Syracuse only from her father's slides.
+- **Names** (new index `maras_name`): Kallia and Sosandros now know it. Kallia's first use is 'Maira. The water.' ('nearer Mera'). New aliases: Mera, Antigone, "Kallia's simple one / the one that doesn't talk". Kallia's knowledge_absent 'Mara's name' is CLOSED.
+- **Characters (15 new; `council-clerk` renamed `sosandros`):**
+  - **`sosandros`:** the page identifies the Ch.5 doorway clerk at ch-07:p141. Full card: the form's questions, MAIRA, 'Syrakousai', the brick.
+  - **Walk-ons:** `bakers-wife-bath`, `girl-with-the-mole`, `bath-keepers-wife`, `salt-seller`, `sprat-seller`, `drover-from-the-west`, `latrine-men`, `cheese-man`, `boundary-wall-father`, `clerks-boy`.
+  - **Needs review:** `fountain-man-laughing` and `theban-bassoon-voice`.
+  - **Mention only:** `kallias-runaway-girl` (owner of the himation), `west-philadelphia-nurse`, `rittenhouse-friends-husband`.
+- **Mara:**
+  - New fields: `worn_ch7`, `carries_ch7`, `marks_ch7` (the vaccination scar, the pale band, unsinged legs), `teeth_ch7`, `hunger_ch7`, `hair_ch7`.
+  - 10 Ch.7 traits; 20 knowledge rows; `knowledge_absent_ch7`.
+  - Relationships: Sosandros, the salt-seller, the drover, the girl.
+- **Kallia:**
+  - `carriage_ch7`; 10 traits; `household_ch7`; a Ch.7 location row.
+  - Possessions: the second-best jar, the old jar, the combs, the pot.
+  - 8 knowledge rows; `knowledge_absent_ch7`.
+  - Relationships: Sosandros, the salt-seller, the baker's wife, the late husband.
+- **Valens:** boots only (`clothing_ch7`); 3 traits; a location row; 3 knowledge rows; `knowledge_absent_ch7` (her name, the registration); a waypoint.
+- **Emilio:** the alias 'Aimilios' (the Nicosia offprints); Syracuse in his slides.
+- **Mrs. Dunphy:** `memory_ch7` and her 1998-side facts (fourth grade c. 1974-75, derived; the green cardigan 'short of its second button'; the blotter; thirty pencils; the three o'clock bell).
+- **Objects:**
+  - New: `delphi-tribute-list-entry`, `lentisk-stick`, `burnt-horn-tooth-powder`, `kallias-second-best-jar` (destroyed).
+  - `kallias-ash-shovel`: **chekhov_closed** (returned at p2-p7).
+  - `borrowed-himation`: the runaway girl's, 'of wet-sand brown'; its smell arc; the anchor at p174; bring it at midwinter.
+  - `kallias-broom`: the threshold beats p37 and p185; two brooms.
+  - Also updated: the duffel, the flashlight ('since October, unseen by a soul in that house'), the Seiko (Ch.7 custody; not seen) and the toothbrush.
+- **Locations:**
+  - New: `delphi-baths`, `delphi-latrine`, `delphi-council-hall`, `syracuse`, `amphissa`.
+  - Facts added to delphi, castalian-spring, delphi-market-square, kallias-house, kirrha, corinth, boeotia, philadelphia, nicosia, kalivia-plateau, corycian-cave (and a distance) and university-museum.
+- **Timeline:** row 7 (late November AD 70 → the end of the month of silence; the day count holds); a note on row 8; 13 timeline events.
+- **Threads:**
+  - New: `syracuse-cover`, `kallias-fifth-coin` (spitting-oak haggle SPENT, audit W-13), `thyiades-midwinter` (payoff Ch.8).
+  - Ch.7 notes on nymph-rumor (effects only; no 'nymph' word in the narration), mending-the-seam, mrs-dunphy, romance, valens-known and the four relics.
+- **World rules:**
+  - 7 new OBSERVED rules: belonging; how a woman passes; the latrine; the bath; the god's basin; the biennial rite; Delphian vs Erasmian Greek.
+  - ch7_observed notes on the guardian law, the freedom and the sea.
+- **Organizations:** Ch.7 facts for thyiades, delphi-council and delphic-sanctuary.
+
+### Contradictions
+- **CH7-1..CH7-5: found in the pre-repair text, RESOLVED by the continuity repair before finalize.** Each prose field is labelled `[pre-repair text]`.
+  - CH7-1: 'fifteen years at a bench' is now 'For ten years'.
+  - CH7-2: 'the room at the top of the stair' is now 'the shut room upstairs'.
+  - CH7-3: 'the last boat' is now 'one of the last boats'.
+  - CH7-4: 'the governor's men in Corinth' is now 'before Rome put a governor back in Corinth'.
+  - CH7-5: 'I could not stop' is cut, so the break count stays at three.
+- **CH7-6 (info): OPEN.** The bible's Ch.7 blocks quote pre-polish and pre-repair text: the Fiat trip; 'What name did you give him?'; 'like a man in a play'; 'sea-nymph'; 'color of wet sand'; 'on a Theban'; 'for my living'; the drover's and the salt-seller's lines; 'Antigone' ×3. It waits on the separate bible sync (audit W-19).
+- **CH7-7 (info): OPEN.** The outline's 'magistrate's clerk' vs the council's clerk; the page never says whose the swept room is (by design).
+- **CH7-8 (info): OPEN.** The bible says Mrs. Dunphy 'never speaks in the memory'; the page has the reported 'said we could go'.
+- **CH6-9 (info): OPEN.** The bible quotes 'his hands were older than the rest of him', which is not on the Ch.6 page (p44).
+- **P2: RESOLVED.** The outline now reads 'written down as somebody's kin', and the page agrees.
+- **Auto-resolution check on every open item.** Nothing else resolves. CH6-5 is narrowed by the Ch.6 cycle-1 text. Each open item has a `recheck_ch7` note.
+
+No knowledge_gap. Valens's 'You've stopped talking' has a path (her silence at the gate), and so does Kallia's 'So the town says' (the charcoal burner's gossip, ch-06:p328).
+
+### For Ch.8-10
+- **Ch.8:**
+  - **The rite as Kallia set it:** midwinter, every other winter ('this is the winter'), onto the snowbound plain at night, torches, 'a skin of wine for every three of you', 'no man past the last house'. Rags over the boots; the girl's himation. Kallia is going ('You'll come').
+  - **Mara's closing question is distance, not success.** She has no watch, so any cave attempt is untimed. The flashlight is in the duffel, and any use must reckon with being seen.
+  - **The year:** the page does not fix the year's turn. Outline AD 71 needs midwinter to fall after it.
+  - **Spent:** 'simple' is retired for Mara. The public mockery set-piece is closed, and 'Antigone' is capped. The broom must not be shown in Ch.8-9.
+  - **The husband teasing:** must fit the record (it names no husband; she told Valens 'I have no husband').
+- **Ch.9:**
+  - Valens has been seen in Ch.7 only as boots. The scar is on the back of his right hand.
+  - Her public silence is over: after the council the page does not say she stays silent, so she can bargain in Greek.
+  - Women need a male representative for the Oracle. The record names Kallia as her keeper, not a man (Ch.11's cousin).
+  - The notice comes with the spring traffic; Valens has not heard Syracuse or her name.
+- **Ch.10:**
+  - The swept room is 'the shut room upstairs' / 'at the end of the gallery, past the lodgers' rooms'. Kallia has never named the son or said whose the room is.
+  - Kallia cannot read ('What did he put?'). Mara reads wax upside down.
+  - Four Thebans are in the house 'till the thaw'.
+  - Kallia's line on the list has had 'no other name … for years', so her son is not on it.
+  - Her late husband's brother is 'Aimilios of Syracuse' by the record, and Ariston's letter must not contradict that.
+- **Ch.16/18:**
+  - The status rests on a wax entry in Delphi's council book, rewritten yearly, with no copy issued.
+  - She is 'free', and 'Maira, daughter of Aimilios, of Syrakousai' is her name on paper.
+  - The fifth coin is owed but SPENT as a scene.

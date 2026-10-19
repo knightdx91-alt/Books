@@ -301,7 +301,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Opening strategy:** a claim. A woman in Phocis in the second year of Vespasian belonged to someone (9–27 words, so `narrative`).
 **Key scenes/beats:**
 1. Claim → evidence: the bathhouse women's hours; the public latrine; Kallia's fierce lessons in how to walk, sit and not meet a man's eyes.
-2. **NON-NEGOTIABLE.** A magistrate's clerk enters Mara as Kallia's dependent kinswoman, a free woman under Kallia's guardianship (never property; Ch.16 and Ch.18 depend on it). The "Syracuse" accent excuse: Sicilian Greek would sound odd here too. She keeps her name; the clerk writes it as Maira, an old Greek name, and does not ask.
+2. **NON-NEGOTIABLE.** The council's clerk (Sosandros, as written) enters Mara as Kallia's dependent kinswoman, a free woman under Kallia's guardianship (never property; Ch.16 and Ch.18 depend on it). The "Syracuse" accent excuse: Sicilian Greek would sound odd here too. She keeps her name; the clerk writes it as Maira, an old Greek name, and does not ask.
 3. Language: her Erasmian pronunciation versus living Koine, the comedy and the shame. She already speaks Greek when she must (Valens, the charcoal burner, Ch.6) and has been silent only with Kallia; now, after the market laughs at her, she goes silent *in public* for a month and speaks only inside Kallia's house (all-or-nothing). (Patched 2026-10-19, continuity W-17: Ch.6 already shows her speaking.)
 4. Kallia's son's room: swept every morning, the broom laid across its threshold. No explanation.
 5. Personal turn: what belonging cost, and Mrs. Dunphy crying at her desk, uninvited and irrelevant.
