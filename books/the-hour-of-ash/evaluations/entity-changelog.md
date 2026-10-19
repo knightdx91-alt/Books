@@ -1048,3 +1048,90 @@ No knowledge_gap. Kallia's cave question has a path (ch-07 "your cave"), and aft
 ## 2026-10-19: UPDATE (re-sync of chapter 8 after polish cycle 1 and finalize fixes F1–F4)
 
 - Re-anchored every ch-08:pYY to the final page (241 paragraphs: new p41 = Nikaso's stair story; old p240, the lying-awake coda, cut; old p41–p239 → p42–p240). Removed the cut facts (lentil heckle, aniseed fennel, mule-morning, "two gates up", "another two pines", the wrist coda, the flashlight reason and "thirty or forty", the pale stone and the pool, among others) and added the new ones (the fennel smoke and the Prometheus aside; Nikaso's frozen-cloaks story told on the stair; rent by the month). **CH8-3 RESOLVED** (F1 cut the sentence; only ch-07:p195 remains), **CH8-5 RESOLVED** ("Midway along the lane", ch-08:p13 = ch-05:p181), **CH8-7 RESOLVED** (one spare, one change: ch-08:p75, p84). CH8-6 is still open, narrowed: the bible still quotes the pre-F3 "The rock gave the drums back" (l.1069) and the pre-F4 "froze so hard on the way" (l.1259). No new contradiction or knowledge_gap. chapter-9.md not read.
+
+## 2026-10-19: UPDATE (chapter 9, final text: post-writer, dialogue-polish, hook-craft, disruptor and continuity repair)
+
+**Trigger:** chapter loop step D.5 for chapter 9.
+**Inputs read:**
+- `manuscript/chapters/chapter-9.md` as last written at 20:48:59, after the continuity repair (`evaluations/revision-chapter-9-continuity.md`: C-01, W-01..W-10). It has 202 prose paragraphs and five breaks (after p23, p80, p127, p141 and p171); the numbering agrees with the audit. Mid-run, the orchestrator reported that polish cycle 1 had started on chapter-9.md. This update is against the pre-polish text, and the orchestrator will run a re-sync.
+- Also read: `ENTITY_STATE.yaml` (`last_updated_chapter: 8`); outline.md Ch.9–11 (plus Ch.12–13 for the notice and the goat); foundation §3 (Valens, the notice's legal basis); character-bible.md (Euthydikos, the Mara/Valens/Kallia Ch.9 blocks, the Ch.9 walk-on note, the at-risk list after Ch.9); `evaluations/continuity/chapter-9-audit.md` (priority table and suggested patches).
+
+**Meta:**
+- `last_updated_chapter: 9`; `chapters_tracked: [1..9]`.
+- `paragraph_rule` is extended to Ch.9 with a shard map.
+- There are 919 `ch-09:pYY` cites, all within p1..p202.
+- Every single-quoted fragment on a line that cites Ch.9 was machine-checked against the cited paragraphs. The only misses are deliberate: outline and audit quotations, earlier-chapter text on mixed lines, and spans the extractor ran together.
+- The YAML loads under a strict loader with no duplicate keys.
+
+### Replaced (plan → prose)
+- Mara: the Ch.9 location row; the three planned knowledge rows (the price of the god, the notice, "Valens is the man") are replaced by 17 prose rows.
+- Valens: the Ch.9 location row; the planned knowledge row; the planned `legal_status` row. His `Lupus` alias now has a page source.
+- Timeline row 9: the plan's "weeks" is replaced by "about four days, then the square".
+- Objects: `lupus-reward-notice`, `manumission-inscription` and `curse-tablet` are rewritten from the page, with verbatim texts.
+- Celer's `first_appearance` is confirmed at ch-09:p172, by proxy.
+- `knowledge_index.oracle_access`: the plan row is replaced by page rows.
+
+### Added
+- **New characters:**
+  - **`euthydikos`** (supporting; carded).
+  - `euthydikos-wife` ("the mistress").
+  - `euthydikos-door-slave`, `euthydikos-bee-man`, `delphi-smith`, `smiths-boy`.
+  - `letter-cutter`, `aphrodisia`, `culvert-boy`, `goat-man`, `men-at-the-board`.
+  - `women-at-the-lions-ch9` (**needs_review**: the page does not say whether any of them is the Ch.8 stranger or Nikaso).
+  - Mention only: `xenon-son-of-euangelos`, `damon-son-of-aristion`, `nikandros-priest`, `manumission-private-witnesses` (grouped), `glykera`, `kirrha-eel-seller`.
+- **New objects:**
+  - `euthydikos-incense-stand` (chekhov_open: the bowl's lead "When I send").
+  - `mistress-mirror` (chekhov_open).
+  - `maras-money-rag` (background).
+  - `goat-mans-she-goat` (chekhov_open, **needs_review**: it may or may not become the consultation goat).
+- **Updated objects:** `taxi-drachma-coins` (knotted into the rag; last mention p171); `fathers-seiko-watch` (not mentioned); `consultation-goat` (ch9_note).
+- **New locations:** `polygonal-wall`, `euthydikos-house`.
+- **Ch.9 facts added to locations:** delphi, delphi-sacred-way, temple-of-apollo-delphi, delphi-market-square (the board beside the herald's door; goat pens by the fountain; the trough), castalian-spring (the drovers' end and the culvert), kallias-house, corinth, boeotia (the oil carts from Thebes), kirrha, patrae, amphissa, syracuse, thrace, philadelphia (the hardware store off Fortieth Street).
+- **Mara:**
+  - New alias "Kallia's Syracusan".
+  - `worn_ch9` / `carries_ch9` / `marks_ch9` (a cut at the base of her thumb, hand not stated; the soot) / `hair_ch9`.
+  - 12 traits.
+  - Relationships with Euthydikos, the mistress, the cutter, the bee-man and the goat man.
+  - The money-rag possession.
+  - `knowledge_absent_ch9`; Ch.9 arc waypoint.
+  - CONTINUITY COMMITMENT: **HELD** (no English).
+- **Valens:**
+  - `seen_ch9`; `on_the_notice_ch9` ("about thirty" against foundation's ~32 in AD 70 is an estimate on a notice, not logged as a conflict).
+  - 5 traits; "reads but pretends he can't" is marked **UNCONFIRMED** on the page.
+  - The pitch pot; 3 knowledge rows; `knowledge_absent_ch9`; waypoint.
+- **Kallia:** 3 traits, 2 knowledge rows (who paid and how; the god's price after the fact), `knowledge_absent_ch9` (the notice is not shown reaching her), a location row and a waypoint.
+- **Kleodamos:** `ch9_mention` (the manumission's dating formula).
+- **Knowledge index:**
+  - New **`lupus_notice`**. Mara's Valens = Lupus is recorded as INFERRED, UNSTATED. The men at the board do not connect the notice to him. Kallia is not shown.
+  - Rows added to `syracuse_cover`, `maras_name` and `seiko_with_valens`.
+- **Threads:**
+  - New: `euthydikos-bowl`, `mistress-mirror`, `obol-owed-to-valens`, `goat-kept-warm`, `valens-literacy` (planned payoff Ch.11), `maras-living`.
+  - `celer-and-the-frame` is opened on the page.
+  - **`mending-the-seam` planned beat 9 WRITTEN.**
+  - Ch.9 notes on oracle-access, the-where (the door named), romance, valens-known, syracuse-cover, maras-english-to-herself, kallias-fifth-coin, nymph-rumor and the four relics.
+- **World rules:**
+  - Ch.9 observations on women and the Oracle, and on the consultation price and procedure (pelanos, the city's terms in the archive, the trembling goat, the sponsor).
+  - The sea/roads rule notes that the road from Boeotia reopened with the first carts.
+  - New OBSERVED rules: manumission by sale to Apollo with paramone; two priests and a dedication kept at home; runaway notices copied and posted; curse tablets.
+- **Organizations:** delphic-sanctuary (narrowed to one priest's private hire; treasury, archive); household-of-celer (the notice on the page); delphi-council ("the clerk", not identified with Sosandros).
+- **Timeline events:** 9 rows (Dadaphorios AD 70 notice; Poitropios sale; midwinter mirror; the first carts; the four days; the smith's lead c. AD 62; the grandfather's gift; Aphrodisia's savings; the hardware store). The autumn-70 plan row gets a ch9_note.
+
+### Contradictions
+- **CH8-1: RESOLVED** by the page, on the guardian's recommendation. The decision to consult is shown in Ch.9 (p3, p21, p23, p26, p56). Kallia hears the price only afterwards (p166) and never refers to a told intent.
+- **P5: RESOLVED** by the page. The notice was posted at Corinth "in the month Dadaphorios" (p172), after the sea shut, and it arrived "With the oil from Thebes. First carts since the snow" (p189). The repair cut "in the autumn" and "Boathoos".
+- **CH3-7:** a ch9_note records a NEW FACT, not a conflict. The narration names the door for the first time ("*Where is the door I came in by, now it is shut?*", p23).
+- **CH9-1 (info, OPEN):** the outline says "last autumn" and "the first spring traffic", and its premise has her learn of the runaway on the polygonal wall. The page says Dadaphorios, "First carts since the snow", and a board in the square. This is wording only.
+- **CH9-2 (low, OPEN):** outline Ch.11–12 has a goat from Kirrha. The page opens a Delphi goat kept warm "till then" (p180).
+- **CH9-3 (info, OPEN):** outline Ch.10's letter comes "with the first carter of the year", but Ch.9 has already spent "First carts since the snow".
+- **CH9-4 (info, OPEN):** the bible's Ch.9 blocks quote pre-repair text. Examples: "Thraitta"; "it will hold" / "How long will it hold?"; "with two fingers… she stood for it"; "Warm it first"; "with her shoulders to me"; "over his own father"; "Nobody ever lost a wall."; "Come back with a man."; "I'll pay a smith a smith's price…"; "He went and told them…"; "the one office in Phocis"; "stood proud"/"squeeze-out". This waits on the W-11 bible sync.
+- **All other open items** were re-checked with `recheck_ch9`; Ch.9 does not touch them. P1, P3 and P4 are unchanged.
+
+No knowledge_gap. Every reference on the page has a path: "I know about the man" (ch-08:p101); "Kallia's Syracusan" (town knowledge after ch-07:p172); Valens knows she reads (ch-06:p328).
+
+### For Ch.10–11
+- **Money:** Mara has "The smith's price" (named by the smith as "Three drachmas, and the clay found") plus the two 1998 coins, in a rag. Nothing is counted on the page. She owes Valens an obol and is still holding it. The goat costs "More than that", and the sponsor's present and the man are unpriced. Do not count coins aloud, and give the purse fresh words (bible).
+- **Valens:** he has stood at the notice and knows Mara saw him there. Whether he reads is still UNCONFIRMED; Ch.11 reveals it. Nobody in Delphi links him to "Lupus". The watch is still with him and was not mentioned in Ch.9. He still has not asked her name. Do not re-quote the notice's text (bible).
+- **Kallia:** she knows who paid and how, and the god's price as Mara summarized it. She is not shown knowing about the notice. Ch.10–11 should account for what she makes of it, or keep her from it (audit N-19). Ch.10's letter needs fresh arrival wording and a reason to have sat at Kirrha (CH9-3).
+- **Open threads:** the bowl ("When I send"); the mirror via the kitchen door; the obol; the warm Delphi goat versus the plan's Kirrha goat (CH9-2). Pay these off as texture or let them lapse, never as callback pointers.
+- **Spent per the bible:** the redo-the-seam sequence (Ch.2, Ch.9); the wiped hand; the price itemized; the shiver explained; the silent look at the notice; "He let the gray drink first."
+- **The door:** Mara now thinks of the crack as a door (p23). Still no "crossing" and no stated year.
