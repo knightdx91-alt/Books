@@ -543,6 +543,33 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   museum door guard in Delphi in a blue uniform (tore her ticket on Wednesday; Mara means to hand him the
   knucklebone); E. Wilkins of Bristol, 1861, a name cut in the cave wall (graffiti, not a character).
 
+#### Ch.4 unnamed walk-on and mention-only names (no card needed unless he returns or is named)
+- **The goat-boy** (Corycian slope, autumn AD 70; UNNAMED: Mara asks his name and he answers with
+  hers). About nine; brown coarse tunic belted with cord; bare feet gray with dust, soles hard as
+  saddle leather; a sling round his neck, pouch on his chest; hair knife-cropped; a crust under his
+  nose; a stick he keeps low; a black-handled leather bag (white cheese and a heel of barley bread
+  in a gray rag). **Attention:** goddess or trouble, then his goats, his thorn, and the shiny thing.
+  **Syntax:** rural Phocian Koine rendered in short transliterated bursts (*Ti? Pothen ílthes? Ek
+  tou antrou? Móni í? Mí gráfe. Ti dósis? Pheu. Phage. Kalon. Ide. Katō. Makran. Késar en Rómi*),
+  imperatives and questions, never a full sentence Mara can follow. Shifted vowels are spelled as
+  sound (eta/ei/oi → i, ai → e, upsilon → ü); Mara decodes those words only from gesture or context.
+  The word-doubling cadence is HIS alone (Mara's echoes were cut in cycle 1). **Evasion:** his own
+  name. **Physicality:** spits into the neck of his tunic against the uncanny (once); rubs out her
+  written ΔΕΛΦΟΙ with his foot; laughs in high hiccups when she takes *nümfi* for his name; spits out the granola bar; keeps the
+  foil wrapper down his tunic; digs a thorn out of his heel with another thorn while grumbling at a
+  goat called Kissa. Says *nymphē* three times (rendered "Nümfi" twice, "Nymphē" on the third, when
+  Mara hears it). **Verbal tic:** none — distinguished by attention (the uncanny vs. the practical
+  goatherd's day) and physicality. No device; he notices no materials or joins. **DISTINCTNESS
+  GUARANTEE:** the only speaker in the book whose words reach the page as sound Mara cannot parse,
+  against the 1998 goatherd (Ch.3), who speaks one word of modern Greek she understands at once.
+  Different century, different person. (If he is ever named, promote to a full card.)
+- **Mentioned by name only:** Kleodamos (on the page twice, ¶49 and ¶55: the boy's answer to "who is
+  archon": a Delphic eponymous archon, fictional, meaningless to Mara; NOT a year-dating clue; not the
+  pen's owner and not the boy's father); the month Boathoos (Delphic,
+  roughly Sept–Oct; Mara does not know the Delphic calendar's correlation); Kissa (a goat).
+- **Spent in Ch.4 (do not reuse):** "Khaire/Khére" farce; the Theophrastus superstitious-man
+  aside; "strangers and beggars are from Zeus" (Odyssey, quoted once); the Wawa hoagie case.
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -826,4 +853,9 @@ finalizing the chapter. Never add a tic to fix it.
   stones-for-his-daughter is his own life, not a counting habit, and he does not notice workmanship.
   Mara's Ch.3 memories of Emilio (the establishing-shot slide, the sherds in the *Cyprus Mail*, the
   cellar blackout and the Krimpet) each enter with a different sentence; no "My father used to say".
+  Tic-bearer roster still NONE.
+- 2026-10-19 (Writer, Ch.4): no new named characters. The goat-boy stays UNNAMED (walk-on note added
+  under "Ch.4 unnamed walk-on"); mention-only Kleodamos (archon), Boathoos (month), Kissa (goat). No
+  device collisions: the boy neither counts nor notices workmanship; Mara's conservator eye appears
+  only at the pen (the herringbone corner whole). "Ti?" held to one use so no spoken refrain forms.
   Tic-bearer roster still NONE.

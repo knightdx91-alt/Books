@@ -280,3 +280,102 @@ No knowledge_gap.
 - **CH3-7 (info): still open.** She kneels in and reads more autumn signs, but she still names no door, crossing or year.
 
 No new conflicts. No knowledge_gap. No needs_review.
+
+---
+
+## 2026-10-19: UPDATE (chapter 4, final text: post-polish, post-disruption)
+
+**Trigger:** loop step D.5 (drift policy: every chapter).
+**Inputs:** `manuscript/chapters/chapter-4.md` as it stands (83 paragraphs, 7 breaks = 8 shards, 1,869 prose words); outline.md Ch.4; character-bible.md (Ch.4 walk-on note); outline-audit.md N-23; Ch.3 for cross-checks.
+**Meta:** `last_updated_chapter: 4`; `chapters_tracked: [1, 2, 3, 4]`; `paragraph_rule` gives the Ch.4 shard ranges.
+
+### Entries added
+- **Characters:** `kleodamos` (mentioned only: the boy's archon, not a dating clue). The `goat-boy` card is rebuilt from the prose:
+  - "nine, perhaps": tunic, sling, bag, stick, crust, one ear, saddle-hard soles.
+  - Every transliterated word on the page; *nymphē* three times (Nümfi x2, Nymphē on the third).
+  - Physical traits: the spit, the rubbed-out ΔΕΛΦΟΙ, the laugh, the thorn.
+  - Seven knowledge rows. He is still unnamed. "Phocian" is the plan's label, because the page does not name the dialect.
+- **Mara:**
+  - Aliases *nymphē* (now sourced to the prose) and "Mára".
+  - `worn_ch4` (jeans, fleece), `carries_ch4` and `hunger_ch4`.
+  - Nine Ch.4 traits.
+  - A goat-boy relationship.
+  - Seven `learned_chapter: 4` knowledge rows: book Greek a liability; *nymphē*; autumn evidence and Boathoos; Kleodamos and "Késar … En Rhōmē"; what she sees (fresh inscription, unbroken pen, no road); "Delphous … Makran"; a belief row.
+  - `knowledge_absent_ch4`: the YEAR, which Kaisar, the boy's name, what *nymphē* means. Also a location-log row and an arc waypoint.
+- **Objects:**
+  - New `granola-foil-wrapper` (kept by the boy, down his tunic).
+  - `granola-bar`: one two-bar pouch eaten (he spits his out; she eats both). Count left NOT STATED.
+  - `corycian-knucklebone`: Ch.4 beat; left hand.
+  - `microcassette`: touch, "beside the sock".
+  - `maras-duffel`: sweater first named; not mentioned after p43.
+  - `walkers-map`: recalled.
+  - Pentax: no frames (`frames_shot_ch4: 0`; 28 remain, per the plan). Seiko: not mentioned.
+- **Locations:**
+  - Kalivia: AD 70 goat track, the pen whole, brush-roofed huts, grass where the road was, bare ridge.
+  - Corycian Cave: ΝΥΜΦΑΙΣ / ΠΑΝΙ fresh with red paint; lamp and three knucklebones on the ledge.
+  - Also Parnassus (descent), Delphi distance ("Makran"), Rome (a Kaisar), and Philadelphia (the Wawa).
+- **Timeline:** the Ch.4 row (first hour, late sun to dusk, autumn, year NOT known to Mara) and one event row. **Index:** new `the_year`; the goat-boy row in `mara_origin` is now sourced to the prose. **Threads/rules:** relics-knucklebone, mending-the-seam (`ch4_note`), and the dates rule (`ch4_observed`).
+
+### Contradictions
+- **CH3-3: still open.** Ch.4 reuses the Ch.3 pen, unbroken, and there is no hut by the path. The outline still says "refuge hut" (l.222) and "a stone hut" (l.213).
+- **CH3-7: still open.** Her questions presume antiquity, but the narration names no door, crossing or year.
+- **CH4-1 (info):** the knucklebone is touched in Ch.4. The plan leaves it absent for Ch.4–25.
+- **CH4-2 (info):** in Ch.4 a pouch holds "two bars, as there always were". Ch.3 counts single bars.
+- **CH4-3 (info):** the garment is "fleece" in Ch.4 but "jacket" in Ch.3.
+- **CH4-4 (info):** the inscription reads ΠΑΝΙ in AD 70 (Ch.4) but ΠΑΝ "very clear" in 1998 (Ch.3).
+- **CH4-5 (info):** on the way down there is no fir belt between the mouth and the pen (Ch.3 had firs above the pen). The "slab behind" the pen is new.
+
+The year stays unknown to Mara. No knowledge_gap. No needs_review.
+
+---
+
+## 2026-10-19: UPDATE (re-sync after the Ch.4 editor pass, polish cycle 1)
+
+**Trigger:** `evaluations/revision-chapter-4-cycle1.md` edited chapter 4 after its entity update.
+**Inputs re-read:** `manuscript/chapters/chapter-4.md` as it stands now (83 paragraphs, 7 breaks = 8 shards, 1,803 prose words / wc -w 1,832); the revision report; character-bible.md (Ch.4 walk-on block: Kleodamos clarified); chapter-3.md p14-p15 and p84 for cross-checks.
+**Meta:** `last_updated_chapter: 4` (unchanged); `chapters_tracked: [1, 2, 3, 4]`; `paragraph_rule` updated; new `revalidation_needed` entry for chapter 4 (RESOLVED).
+
+### Re-anchoring
+- All edits fall inside paragraphs. The paragraph count and shard ranges are unchanged (p1-p2, p3-p12, p13-p35, p36-p42, p43-p58, p59-p62, p63-p73, p74-p83), so every `ch-04:pYY` keeps its number. All 343 Ch.4 citations were checked by content, and each quoted phrase was checked against its cited paragraph.
+- Fixes: the goat-boy's cat-and-sofa trait was cited to p9; it is p3. The citations to p5 for the jeans and the duffel are dropped, because p5 now reads only "His eyes came to my face and stayed." Sources were completed where a quote's paragraph was missing (p9 "Khaire"; p75 "Delphous"; p79 "What is your name?"; p83 "Nymphē"). The file now has 354 Ch.4 citations.
+
+### Facts removed (no longer on the page)
+- **Knucklebone:** her left hand "shut on mine" (p28). Her bone is not mentioned anywhere in Ch.4. The ledge's three offered knucklebones stay. `last_mentioned_manuscript` → ch-03:p84.
+- **Mara's clothes and bag:** the boy's eyes going to her jeans and "over the duffel" (p5). Jeans are no longer in `worn_ch4`.
+- **The goat-boy:**
+  - He no longer wipes his nose on his wrist (p80).
+  - He no longer laughs "until he coughed, a hoarse little bark" (p34).
+  - He no longer gives the name "with enormous patience" (p22).
+- **Wording:**
+  - "black and brown and dirty white" goats (p2).
+  - "the color and hardness of a saddle" (p73).
+  - "the last of the sun" (p56).
+- **Descent:** "At the edge of the firs" and the stick pointed "downhill between the trunks" (p74).
+- **Mara's doubled lines:**
+  - "Out of the cave. I came out of the cave."
+  - "Alone. I am alone."
+  - "From the west. From beyond…"
+  - "Your name. What is your name?"
+
+### Facts added or corrected
+- **Descent order:** cave → "Past the firs a pen stood where the pen had stood that morning" (p61) → "more firs" across the plain, a different stand (p62) → halfway (p68) → "At the foot of the slope he stopped, took me by the sleeve, and turned me toward the dark gap" (p74). Updated in Mara's location log, the goat-boy's location log and relationship, kalivia-plateau, parnassus, corycian-cave, the delphi distance, the timeline row, the history event and the pen thread note.
+- **The goats:** "a few dozen, with burrs in their coats" (p2). Ch.4 gives no colours.
+- **The laugh:** "his mouth fell open… laughed in high hiccups, like a much smaller child" (p34).
+- **The sole of his foot:** "as hard as saddle leather" (p73).
+- **The low sun:** on the foil wrapper (p56).
+- **Recognition beat (p8):** his speech slides past her "all but the case endings. I knew those from my grammars, and I had only ever heard them in my own voice." Added as a new Mara knowledge row (discovered) and added to her Greek trait. "That one I heard whole" (p76).
+- **The last "Nymphē." is the boy's:** p82 ends "his voice came down on an eta". Recorded on the nymphē alias and the knowledge row.
+- **Kissa:** "And to Kissa, in the same breath, 'Sitta! Sitta, íkade.'" (p78). The page still does not say what Kissa is.
+- **The boy's words are now spelled as sound** (`words_on_page` rewritten): ílthes, Móni í?, thélis, Mí! Mí gráfe, Ti dósis, Káki, En Rómi, íkade. Every "En Rhōmē" in the file is now "En Rómi".
+- **Kleodamos:** the page gives only the archon's name. The boy frowns at "Archon" and gives the name (p21-p22, p25). The note carries the bible's clarification: not the pen's owner, not the boy's father, not a dating clue.
+
+### Contradictions
+- **CH4-1: RESOLVED.** The hand-on-bone sentence is cut, so the knucklebone is absent in Ch.4, as the plan has it.
+- **CH4-5: RESOLVED.** The firs now come before the pen on the way down, which matches ch-03:p15. The pen's "slab behind it" is still a new detail, but it is not part of the order question.
+- **CH3-3 (low): still open.** Ch.4 still has a pen and no hut; outline.md:213 and :222 still have the hut.
+- **CH3-7 (info): still open.** The new case-endings beat draws no conclusion. No door, crossing or year is named.
+- **CH4-2 (info): still open.** p43 still says "Two bars … as there always were".
+- **CH4-3 (info): still open.** p50 and p80 still say "fleece". The editor suggests "fleece jacket"; that is not decided here.
+- **CH4-4 (info): still open.** The ΠΑΝΙ / ΠΑΝ wording is unchanged.
+
+No new conflicts. No knowledge_gap. No needs_review.
