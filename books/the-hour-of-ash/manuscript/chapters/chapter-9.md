@@ -1,7 +1,7 @@
 # Chapter 9: The Polygonal Wall
 
 <!-- SCENE BUDGET (Target 6,400; range 5,800-7,000): Aphrodisia's stone and the letter-cutter 1,050 | the priest's court: the smith, the stand, the price of the god 1,550 | the mending, three times dug out; pitch from Valens 1,550 | the curse tablet at the trough 450 | the payment and the wiped hand; Kallia's basin 850 | the notice; the goat man; Valens at the board 1,000 -->
-<!-- Word count: 6,166 (shape_check; wc -w 6,294 incl. header; 6,114 after dialogue-polish) | Target: 6,400 (range 5,800-7,000) | Dialogue 26.9% (26.8% after dialogue-polish; band 25-35%) | Breaks 5 | Median sentence 15 (gear mid) | And-chains 3 | Echoes 0 | Anchor: a woman "sold to Apollo" for three minae, on condition she remain with her former owner until death; she paid the cutter extra to cut it deep and cannot read it | Date: 2026-10-19 -->
+<!-- Word count: 6,166 (shape_check; wc -w 6,294 incl. header; 6,114 after dialogue-polish) | Target: 6,400 (range 5,800-7,000) | Dialogue 26.9% (26.8% after dialogue-polish; 27.8% shape_check after disruptor, 5,892w; band 25-35%) | Breaks 5 | Median sentence 15 (gear mid) | And-chains 3 | Echoes 0 | Anchor: a woman "sold to Apollo" for three minae, on condition she remain with her former owner until death; she paid the cutter extra to cut it deep and cannot read it | Date: 2026-10-19 -->
 
 *In the archonship of Kleodamos, in the month Poitropios, Xenon son of Euangelos, a Delphian, sold to Apollo the Pythian a female body. Her name is Aphrodisia, she is home-born, and the price is three minae of silver, and he has the whole price. Aphrodisia has entrusted the sale to the god, on these terms: that she be free, and not to be laid hold of by anyone all her life, doing what she wishes and going to whom she wishes. But let Aphrodisia remain with Xenon as long as Xenon lives, doing what she is told, so far as she is able, without complaint. If she does not remain, or does not do what she is told, let Xenon have power to punish her as he wishes, by beating and by selling, and let the sale to the god be void. Guarantor according to the law: Damon son of Aristion. Witnesses: the priests Euthydikos and Nikandros; of private persons, Babylos, Eudoros, Philon son of Philon.*
 
@@ -15,7 +15,7 @@ He sat a few stones along, on a plank laid across two trestles. His legs hung do
 
 "Did you cut this?" I said.
 
-"All that end." He aimed the chisel down the wall. "Everything you can read without stooping. You read, then?"
+"All that end. Everything you can read without stooping. You read, then?"
 
 "Yes."
 
@@ -35,17 +35,17 @@ He sat a few stones along, on a plank laid across two trestles. His legs hung do
 
 "And then she went home with Xenon."
 
-"Where else would she go? It says." He set the chisel's edge to the next letter. "He's forty, and eats for two. She'll be free the day they carry him out past here to the tombs, if she's not under a stone of her own by then, and after that she can go where she likes."
+"Where else would she go? It says. He's forty, and eats for two. She'll be free the day they carry him out past here to the tombs, if she's not under a stone of her own by then, and after that she can go where she likes."
 
-"And if he sells her before then? To a man in Amphissa, who has never seen this wall?"
+"And if he sells her before then? To some man in Amphissa who has never—"
 
-"She brings the man up here and stands him in front of it, and he reads it, and his money's gone." He struck, and a flake sprang past my ear and ticked away down the steps behind me. "The wall's for that. A tablet gets lost, or a man says it did. I've never had to cut one of these twice. She paid me an obol over the price, from what was left in her pot, to cut hers deep. She can't read a letter of it. I read it out to her the day I finished, twice through, and she listened to the whole of it and went home." He tilted the mallet at the Way. "That's her."
+"She brings him up here and stands him in front of it, and he reads it, and his money's gone." He struck, and a flake sprang past my ear and ticked away down the steps behind me. "The wall's for that. A tablet gets lost, or a man says it did. I've never had to cut one of these twice. She paid me an obol over the price, from what was left in her pot, to cut hers deep. She can't read a letter of it. I read it out to her the day I finished, twice through, and she listened to the whole of it and went home." He tilted the mallet at the Way. "That's her."
 
 A young woman was passing along the Way with a basket of washing on her head and a hand up to steady it, in a tunic dyed a cheap blue that had faded in streaks. She went by under the wall, near enough to touch, with her gaze on the steps.
 
 "Which of the priests would tell a woman what the god costs?" I said.
 
-"Any of them would tell you, and add a bit." He tried the new stroke with his thumb. "Euthydikos. His name's at the foot of half this wall; he likes it in stone. He lives over the gymnasium lane, the house with a bay tree in a pot at the door. You'll hear him before you find it. He's got the smith in this morning over a lamp-stand."
+"Any of them would tell you, and add a bit. Euthydikos. His name's at the foot of half this wall; he likes it in stone. He lives over the gymnasium lane, the house with a bay tree in a pot at the door. You'll hear him before you find it. He's got the smith in this morning over a lamp-stand."
 
 I took the gymnasium lane, putting my question together. The god was supposed to answer in verse, and I had no verse to give him back. What I had was a mountain with a crack in it that had let me in and would not let me out, and no Greek for the middle of that story. *Where is the way back?* was too short; any god could answer it by pointing down the road to Kirrha. *Where is the door I came in by, now it is shut?* was nearer. I tried it in a murmur with the Delphian vowels, and again with the book's, and both times it sounded like somebody patting her pockets for a key. Whether I believed in Apollo was beside the point. He was the one office in Phocis that took questions about doors, and the cave had been shut to me twice.
 
@@ -93,7 +93,7 @@ The priest's hands emerged from his sleeves. They were red and swollen across ev
 
 "That it runs long before bronze does," I said. "And that the bronze at the break is full of holes. Look at it."
 
-Everyone had looked at it but the priest. The broken face of the shaft was gray and granular, pocked all over with little round cavities where gas had been caught in the metal as it cooled. That was why it had snapped there. The casting had been bad since the day it was poured, and new metal run against it would have had to fight its way into every hole, and it would have lost.
+Everyone had looked at it but the priest. The broken face of the shaft was gray and granular, pocked all over with little round cavities where gas had been caught in the metal as it cooled. The casting had been bad since the day it was poured, and new metal run against it would have had to fight its way into every hole, and it would have lost.
 
 "What would she do instead?" said the priest.
 
@@ -119,7 +119,7 @@ Euthydikos looked at me then. Until then his eyes had gone to the slave, or to t
 
 He sought the answer from the slave, and the slave had none for him, having no beans left to examine.
 
-"For a Syracusan?" The priest drew his hands deeper into the sleeves. "First the pelanos, into the god's treasury, before he'll hear you at all. What a Syracusan pays I'd have to send to the archive to learn, to find whether your city ever made terms with the god, and if it did, whether anybody in it remembers. Call it a stater."
+"For a Syracusan? First the pelanos, into the god's treasury, before he'll hear you at all. What a Syracusan pays I'd have to send to the archive to learn, to find whether your city ever made terms with the god, and if it did, whether anybody in it remembers. Call it a stater."
 
 "Call it two," the smith told his clay.
 
@@ -155,7 +155,7 @@ The boy gaped at me over the bellows. Above us somebody had stepped out onto the
 
 He kept silent while the smith began scraping his clay off the stump. It came away in one piece, with the print of the flutes on its inside.
 
-"Pay the smith for his clay," the priest said to the slave. He was at the house door before he turned. "In Syracuse, what do they do for chilblains?"
+"Pay the smith for his clay," the priest said to the slave, and then, from the house door, "In Syracuse, what do they do for chilblains?"
 
 "Wool on the hands," I said. "With a place for each finger."
 
@@ -167,13 +167,13 @@ The smith slapped the collar into his bucket and got his bellows under his arm. 
 
 * * *
 
-The rod came from the smith in the end, by way of the slave at the door and two of the priest's obols, and it was a hair too thick.
+The rod came from the smith in the end, by way of the slave at the door and two of the priest's obols.
 
 They gave me the corner of the colonnade nearest the rear gate, where the light was good until the middle of the afternoon, and an old slave to watch me, who kept the priest's bees in a row of clay hives along the back wall and cared for little besides. He sat on an overturned basket by the hives and talked to them in an undertone. Now and again he rose and laid his ear to the end of one.
 
 "There's a woman at the master's bronze," he told them, the first morning. "From Syracuse. Don't mind her."
 
-The shaft had been cast round a core of clay, and the core was still in it, burnt black and gone to grit. I raked it out of both halves with a bent nail the bee-man found me, a pinch at a go, and blew the grit off the break. With a twist of dry grass I swept both faces until the cavities were empty and the gray crystal of the metal caught the sun. Then the rod. The smith had sent his second-best file with it, I think in the hope that I would ruin it. I filed along the rod, gave it a quarter turn and filed again, and now and then I tried it in the mouth of the shaft, and for most of the day the rod refused. It was too fat, and I filed it, and it was still too fat.
+The shaft had been cast round a core of clay, and the core was still in it, burnt black and gone to grit. I raked it out of both halves with a bent nail the bee-man found me, a pinch at a go. With a twist of dry grass I swept both faces until the cavities were empty and the gray crystal of the metal caught the sun. Then the rod. The smith had sent his second-best file with it, I think in the hope that I would ruin it. I filed along the rod, gave it a quarter turn and filed again, and now and then I tried it in the mouth of the shaft, and the rod refused. It was too fat, and I filed it, and it was still too fat.
 
 There had been a hardware store off Fortieth Street that sold screws singly out of little wooden drawers, by weight, with a cat asleep on the counter scale, and its name had gone, and I filed through most of an afternoon hunting for it.
 
@@ -187,13 +187,11 @@ Late in the day the rod went in. It slid into the foot end of the shaft to half 
 
 He went and told them, with his mouth close to the clay, and in the morning he brought me a yellow cake of it wrapped in a fig leaf, and a sherd with lamp soot in it scraped off the kitchen wall.
 
-I broke off a piece of the wax and worked it between my palms until it gave, and it smelled of a red crayon left on a schoolroom radiator until it slumped and shone, and I kneaded the soot into it a pinch at a go until it was dark enough to pass for bronze in the shade. I warmed the blade of the bee-man's knife over the lamp and pressed the wax into the line round the whole shaft. With the blade I took off what stood proud, and I polished the fill with a pad of wool.
+I broke off a piece of the wax and worked it between my palms until it gave, and it smelled of a red crayon left on a schoolroom radiator until it slumped and shone, and I kneaded the soot into it until it was dark enough to pass for bronze in the shade. I warmed the blade of the bee-man's knife over the lamp, pressed the wax into the line round the whole shaft and polished it down with a pad of wool.
 
-It was a good fill; in the colonnade's shade it disappeared. I carried the stand into the open to see it as the priest would, in the sun, and with the low sun slanting over it the line came back as a thin gold thread, because the wax shone and the old bronze had stopped shining in the priest's grandfather's day.
+It was a good fill; in the colonnade's shade it disappeared. I carried the stand into the open to see it as the priest would, and with the low sun slanting over it the line came back as a thin gold thread, because the wax shone and the old bronze had stopped shining in the priest's grandfather's day.
 
-I dug it out with the point of the knife, every crumb, and cleaned the line with a splinter.
-
-On the second try I put in more soot and a pinch of earth from the bay tree's pot, and dulled the fill afterward with my thumb instead of the wool. In the sun the thread had gone. But the wax was soft, and by noon the sun on the paving was warm enough to make it softer, and close to, my own thumbprint showed in it, the whorls raised in the fill. To the left and right of the line ran a faint dark smear where the soot had rubbed off onto the old metal and was shining there instead.
+On the second try I put in more soot and a pinch of earth from the bay tree's pot, and dulled the fill afterward with my thumb instead of the wool. In the sun the thread had gone. But the wax was soft, and by noon the sun on the paving was warm enough to make it softer, and close to, my own thumbprint showed in it, the whorls raised in the fill.
 
 "Out it comes," the bee-man said. "He'll not know the difference. He couldn't find his own feet in that beard."
 
@@ -211,15 +209,15 @@ Early in the afternoon a woman descended the gallery stair into the court, and t
 
 She climbed back to the gallery, and the bee-man watched her to the top of the stair.
 
-I scraped the second fill out. Wax by itself was never going to be hard enough; it needed resin. The priest's household burned only oil, so there was no pine in the place to get any from.
+I scraped the second fill out. Wax by itself was never going to be hard enough; it wanted resin. The priest's lamps burned oil, and his kitchen burned oak.
 
 At the back gate a line of mules stood loaded with split wood, and the man unloading it into the priest's woodshed was Valens.
 
-The gray stood tied to the gatepost apart from the others with her load off. A little pot hung from the post by its handle, and he was working what was in it into a sore place on her withers where the saddle had galled her. He did it with two fingers, slowly, and she stood for it.
+The gray stood tied to the gatepost apart from the others with her load off. A little pot hung from the post by its handle, and he was working what was in it into a sore place on her withers where the saddle had galled her. Her ears were flat. When she swung her head round to bite him he put her nose away with his elbow and went on working.
 
 "Is that pitch?" I said, at the gate.
 
-"For her back." He kept his eyes on the sore. "The new saddle's rubbed her."
+"For her back. The new saddle's rubbed her."
 
 "Will you sell me some? A walnut's worth."
 
@@ -235,7 +233,7 @@ His eyes went past me then, into the court: to the stand on its sack in the sun,
 
 He wiped his fingers on the gray's mane, unhooked the pot and broke the cake of pitch in it with the haft of his knife, and gave me a piece. It was almost black, cold and brittle, with a mule hair in it.
 
-He had the pot back on its hook. "How long will it hold?"
+"How long will it hold?" he said.
 
 "With this in it? Years. If nobody knocks it over."
 
@@ -249,19 +247,19 @@ He had the pot back on its hook. "How long will it hold?"
 
 "He'll pay." He bent to her withers again.
 
-I melted the pitch into a lump of the wax in a sherd over the lamp, keeping the flame to the sherd and well clear of the bronze. When it ran I drew the shaft off the rod and poured a little of the hot mixture into the mouth of each half. I seated them again while it was soft, and took the squeeze-out off with the blade before it set. That held. Once it had cooled I could have lifted the stand by its bowl and swung it round my head.
+I melted the pitch into a lump of the wax in a sherd over the lamp. When it ran I drew the shaft off the rod, poured a little of the hot mixture into the mouth of each half and seated them again while it was soft. That held. Once it had cooled I could have lifted the stand by its bowl and swung it round my head.
 
-The third fill went in dark and hard and took the soot well, and when I rubbed it down it went as dull as the old metal beside it. In the shade it was gone and in the sun it was gone. I knelt and brought my eye down level with the shaft and sighted along it toward the sun, and the line was there. The bronze had a skin like an orange's, pitted with the small pits the years had put in it, and my fill was smooth. Across that grained skin the smooth band caught the light and made a ring.
+The third fill went in dark and hard and took the soot well, and when I rubbed it down it went as dull as the old metal beside it. In the shade it was gone and in the sun it was gone. I knelt and brought my eye down level with the shaft and sighted along it toward the sun, and the line was there. The bronze had a skin like an orange's, pitted with the small pits the years had put in it, and my fill was smooth.
 
-I rocked back on my heels and stayed so. Then I dug it out a third time, too fast, and the knife skidded off the hard fill and laid my thumb open at the base. I held the thumb clear of the bronze and let it bleed onto the paving until it stopped.
+I dug it out a third time, too fast, and the knife skidded off the hard fill and laid my thumb open at the base. I held the thumb clear of the bronze and let it bleed onto the paving until it stopped.
 
 "She's cut herself." The bee-man had his ear to a hive. "On his bronze. Don't tell him."
 
-The sun had left the court by the fourth fill. I pressed it in. Before it could harden I pricked over the whole of its face with the points of a bundle of bristles from the bee-man's brush, then rubbed soot into the pricks with a fingertip and wiped the surface clean, so that the soot stayed only in the holes. I had lost it myself. If I sighted along the shaft I thought there was something, and it might have been only the light going.
+The sun had left the court by the fourth fill. I pressed it in, and before it could harden I pricked the whole face of it with a bundle of bristles from the bee-man's brush, rubbed soot into the pricks with a fingertip and took the rest off with the wool. I had lost it myself. If I sighted along the shaft I thought there was something, and it might have been only the light going.
 
 "He'll look at it in the morning," the bee-man said from his basket. "When the sun's on the court. He said the sun."
 
-I wanted one more try at dawn, before Euthydikos came out. I wiped the knife on my hem and stood the stand up on its three feet on the paving, and it stayed, with the bowl level and the lid hanging still on its chain.
+I wanted one more try at dawn, before Euthydikos came out. I stood the stand up on its three feet on the paving, and it stayed, with the bowl level and the lid hanging still on its chain.
 
 * * *
 
@@ -271,13 +269,13 @@ The boy who found it was fishing in the mud at the drovers' end of the spring ba
 
 He scrambled out of the culvert with something gray and folded in his fist and ran with it to the women at the lions.
 
-"Put that where you found it," one of the women said, and kept her eyes on her own jar. "It's been given to the ones below, and they don't want it handed round."
+"Put that where you found it," one of the women said. "It's been given to the ones below, and they don't want it handed round."
 
 None of them would look at it, so in the end he brought it to me.
 
 "Is there money in it?"
 
-It was a sheet of lead about the size of my palm, folded twice over and pierced through every layer with a bronze nail. It had lain in the mud till the creases went white. I worked the nail out and opened the folds slowly, because lead that has lain in wet ground will tear like old cloth, and the writing surfaced through the white in scratched capitals, crowded, every line running uphill at its end.
+It was a sheet of lead about the size of my palm, folded twice over and pierced through every layer with a bronze nail. It had lain in the mud till the creases went white. I worked the nail out and opened the folds slowly, because lead that had lain in wet ground tore like old cloth, and the writing surfaced through the white in scratched capitals, crowded, every line running uphill at its end.
 
 "What's it say?"
 
@@ -323,7 +321,7 @@ My palm was black in every crease with soot and wax, and the coins lay on the bl
 
 "There's that smith's lead in the top that wants cutting out," he said, already on his way indoors. "When I send, come back and do the bowl."
 
-The bee-man folded the linen in four and put it in his belt. He walked me to the rear gate.
+The bee-man walked me to the rear gate.
 
 "The mistress says," he told me there, "when you come for the bowl, come round to the kitchen door."
 
@@ -339,9 +337,9 @@ Kallia was in the court at home, scouring the big pot with sand, and she looked 
 
 "Onto it. From above."
 
-She looked at the coins on the stone and at the hand they had come from, and gave no word at all. She filled the basin at the jar and stood it on the hearthstone beside the coins. A lump of the gray washing clay went down next to it.
+To that she gave no word at all. She filled the basin at the jar and stood it on the hearthstone beside the coins. A lump of the gray washing clay went down next to it.
 
-I washed. The water in the basin went black, and the black worked into the clay, and under my nails the soot would not shift.
+I washed. The water in the basin went black, and the black worked into the clay, and under my nails the soot would not shift. I kept at them with a corner of the clay after the water had stopped going any blacker.
 
 "He says a stater for the god," I said, with my hands in the water. "And a goat that shakes. And a Delphian to stand for me, who will want a present, and the man."
 
