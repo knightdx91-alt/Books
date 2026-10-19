@@ -1,11 +1,11 @@
 # Chapter 6: Snow at the Cave Mouth
 
 <!-- SCENE BUDGET (Target 7,200): crisis in the recess 950 | BACKFILL: the lane, the weeks, the ashes 600 | Kallia and the wood 700 | the ask and the refusal 950 | the Seiko 850 | leaving before light 300 | the climb 1,250 | the wall, the scream, the bread 900 | the descent, the kiln, the evidence 1,200 -->
-<!-- Word count: 6,790 prose (shape_check; 6,769 after dialogue-polish) | Target: 7,200 (range 6,500-7,600) | Dialogue 36.8% (36.9% after dialogue-polish; 6,634 words / 38% after disruptor) | Anchor: Valens winding the watch backward, carefully, his thumb covering the crown -->
+<!-- Word count: 6,790 prose (shape_check; 6,769 after dialogue-polish) | Target: 7,200 (range 6,500-7,600) | Dialogue 36.8% (36.9% after dialogue-polish; 6,634 words / 38% after disruptor; 6,680 / 37% after continuity repair 2026-10-19: C-01, W-01..W-16, W-18, W-19) | Anchor: Valens winding the watch backward, carefully, his thumb covering the crown -->
 
 I had scraped the floor of the crack down to bare rock as far in as my arm would reach, and now I knelt at the bend with Kallia's ash shovel, chopping at a crust of earth that had frozen into plates. Each plate came up with a skin of rime on its underside. Below it the dirt was black grit, packed hard.
 
-Everything in there was cold. In May this rock had let the cold out as one thread, dry, with an edge to it, while the walls around it stayed damp and slow. Now the whole mountain had turned to cold: the rock, the air, the iron of the shovel, which had taken the skin off the pad of my thumb some while ago. Nothing could have come through that crack that I would have known from the rest.
+Everything in there was cold. In May this rock had let out a cold of its own, and my skin had singled it out at once. Now the whole mountain had turned to cold: the rock, the air, the iron of the shovel, which had taken the skin off the pad of my thumb some while ago. Nothing could have come through that crack that I would have known from the rest.
 
 I dug anyway. The shovel was meant for ashes, with a blade the width of my palm, and every time it struck the rock underneath it gave a flat little note that ran off along the hall behind me and answered itself, late.
 
@@ -15,7 +15,7 @@ The torch spat. Its light jumped up the face of the slab and dropped again.
 
 "They're fine."
 
-That was English, and he let it pass. He was standing on the flowstone a little below me with his feet set across two of its ridges, holding the pine up and off to one side so that his own shadow fell away from where I was working. He had stood like that since we came in. When a torch burned down he lit the next from it and ground the stub out under his boot, and went on standing. Behind him my duffel leaned on the slab, zipped, the strap laid ready over it.
+He let it pass. He was standing on the flowstone a little below me with his feet set across two of its ridges, holding the pine up and off to one side so that his own shadow fell away from where I was working. He had stood like that since we came in. When a torch burned down he lit the next from it and ground the stub out under his boot, and went on standing. Behind him my duffel leaned on the slab, zipped, the strap laid ready over it. My flashlight was in there, under everything, and I had let him burn his pines rather than have him see it.
 
 I pressed my hand flat in the bottom of the bend. The tips of my fingers went white and then stopped hurting, which was worse. Nothing moved across them.
 
@@ -29,7 +29,7 @@ He found it in the pouch at his belt and did not give it to me. He let me see it
 
 Ten past one, or near it; I had set the hands on my second day at Kallia's by the shortest shadow of her gatepost.
 
-In May the cold had come at twenty minutes short of two. It was nothing to go on, and I had nothing else.
+In May the cold had come at twenty minutes short of two, by Athens time, which ran an hour and more ahead of this sun. It was nothing to go on, and I had nothing else.
 
 "Wait until the long hand is at the eight," I said.
 
@@ -69,7 +69,7 @@ He was quiet so long that I heard the drip, far back in the hall, falling into i
 
 "It goes back down on the other mule, with you on the gray. I'm not carrying it up here twice."
 
-The plate under the blade came away whole, broad as a dinner plate, and under it there was rock, the same gray rock, with a little water standing in a pit of it under a lid of ice. I broke the ice with a knuckle. Water. Only water, and cold, and my own breath going white over it in the torchlight.
+The plate under the blade came away whole, broad as my two hands, and under it there was rock, the same gray rock, with a little water standing in a pit of it under a lid of ice. I broke the ice with a knuckle. Water. Only water, and cold, and my own breath going white over it in the torchlight.
 
 "Two more pines after this one," Valens said. "Then down, whatever your hole's doing."
 
@@ -77,7 +77,7 @@ The plate under the blade came away whole, broad as a dinner plate, and under it
 
 The afternoon before, he had brought a string of mules up Kallia's lane, loaded to the ears with split oak, and stopped them short of the gate, and walked on by himself, looking at the ground.
 
-The ground was ice from the gate to the turn, and the ice was mine. Twice a day for most of a month I had carried water up the lane on my hip, because I still could not do it on my head, and every step slopped a little onto the stones; since the nights had turned, the slops had stopped drying and begun to freeze, one coat on another, like the glaze on a cheap plate.
+The ground was ice from the gate to the turn, and the ice was mine. Twice a day for most of a month I had carried water up the lane on my hip, because I still could not do it on my head, and every step slopped a little onto the stones; since the nights had turned, the slops had stopped drying and begun to freeze, one coat on another, like the paint on a fire escape.
 
 My plan at the spring had not lasted the first day. I had the hearth cleared and two jars in before light, as I had meant to, and Kallia was waiting for me in the court with the broom. After the court there were the floors; after the floors the pots the Thebans left, and a Theban who wanted his cloak beaten, and then it was dark. On the fourth morning I reached the top of the town with the duffel before it came to me that I had no idea of the way. I'd come into the town by the long road round, and between the plain and Delphi stood only cliff. I went back down and did the floors.
 
@@ -137,7 +137,7 @@ He handed me the next armful.
 
 "Four now, and the fifth when I've seen it burn without spitting."
 
-She paid him from a knot in the corner of her kerchief, and after that the two of them went at it in Phocian too fast for me to follow, until he gave her one coin back. I thought it was for the spitting. She tied the knot up again, more slowly than she had untied it.
+She paid him from a knot in the corner of her kerchief, and after that Kallia went at him in Phocian too fast for me to follow, and he answered her a word at a time, until he gave her one coin back. I thought it was for the spitting. She tied the knot up again, more slowly than she had untied it.
 
 "Is the sea shut yet?" she said.
 
@@ -175,7 +175,7 @@ His Greek was as foreign as mine. He spoke it slowly and flatly, every ending in
 
 He turned round from the mule then.
 
-"The charcoal men had a story at the vintage," he said. "A goat boy up there saw a nymph walk out of Pan's cave in trousers and eat his cheese."
+"The charcoal men had a story this autumn," he said. "A goat boy up there saw a nymph walk out of Pan's cave in trousers and eat his cheese."
 
 "He gave me the cheese."
 
@@ -219,11 +219,11 @@ I had been looking at it for a month.
 
 "With what?"
 
-I had two taxi coins left in my jeans, and I offered him the bigger. He pinched it up off my palm and tipped it to the last of the day: brass, and the profile of a young man with the wind in his hair.
+I had two taxi coins left in my jeans, and I offered him the bigger. He pinched it up off my palm and tipped it to the last of the day: brass, and the head of an old man with a beard.
 
 "Who's that?"
 
-"A king. From farther away than you would believe."
+"A poet. From farther away than you would believe."
 
 "That buys nothing up there. Or down here." He returned the coin. Then he looked at my hands.
 
@@ -235,7 +235,7 @@ They had been soft at the spring a month before. Now every knuckle had split fro
 
 "You talk a schoolmaster's Greek. You've got Latin." He meant the gray mule and my laughing. "You've got that." He meant the coin. "Who's coming after you?"
 
-"No one is coming after me. In this whole country not one person knows my name. The widow has not asked it."
+"No one is coming after me. In Delphi not one person knows my name. Kallia has not asked it."
 
 "A husband."
 
@@ -243,7 +243,7 @@ They had been soft at the spring a month before. Now every knuckle had split fro
 
 "A father, then."
 
-The buckle was stiff with the cold. It took me two tries to work the tongue out of the hole, and then I had it off my wrist, and I passed it to him across the gray mule's withers, still warm on the inside of the band.
+The clasp was stiff with the cold. It took me two tries to spring it, and then I had it off my wrist, and I passed it to him across the gray mule's withers, still warm on the inside of the band.
 
 "This was my father's."
 
@@ -321,7 +321,7 @@ I stood in the court with it. My Greek did not run to what I needed to say to he
 
 Valens was waiting at the turn of the lane with two mules, the gray and a dun, with nothing on their saddles but fodder sacks and a coil of rope and a bundle of pine splinters bound with withy. He took the duffel from me and weighed it on one hand.
 
-"Everything," he said, and lashed it onto the dun. "Does the widow know you're going?"
+"Everything," he said, and lashed it onto the dun. "Does Kallia know you're going?"
 
 "She knows the shovel is going."
 
@@ -331,9 +331,9 @@ We went through the sleeping town and out past the high corner of the sanctuary 
 
 I climbed the cliff above Delphi in the dark being towed by a mule, and the mule thought nothing of the arrangement, and by the third turn neither did I. My nose ran and I used my sleeve and it ran again.
 
-I talked. I had not meant to. The drop was on my left from the first turn to the last, and the tail was coarse and warm in my fist, and he could not understand one word, so I talked to his back, low.
+I talked. I had not meant to. The drop was on my left from the first turn to the last, and the tail was coarse and warm in my fist, and he could not understand one word, so I went on, low.
 
-"My name is Mara Reyes. I'm thirty-three. I mend broken things in a basement for money, and I'm good at it, which nobody here is ever going to find out. I have a cousin who keeps her husband's keys in the freezer door. I've got an apartment with a radiator that knocks all night in February, and the rent is due on the first, and I'm three months behind by now, I suppose, unless they've given it to somebody else. That watch in your pouch was my father's, and he came home when he said he would maybe twice in my whole life, and I've wound it every morning since January, which hasn't helped him or me. I have no idea what happens if it's shut. I've lain in the widow's storeroom every night for a month working it out, and the furthest I've got is the water. I'm getting better at the water. If that cave is open today I'll walk down to the hotel on the main street in Delphi and stand under a hot shower until it runs cold, and then the first bus out and the first plane to anywhere, and call Gloria collect from Kennedy and let her yell at me, and then the train home to Philadelphia, and my own kitchen, and never—"
+"My name is Mara Reyes. I'm thirty-three. I mend broken things in a basement for money, and I'm good at it, which nobody here is ever going to find out. I have a cousin who wore a pearl in one ear and a gold hoop in the other through a whole church service, and her husband thought she meant it. I've got an apartment with a radiator that knocks all night in February, and the rent is due on the first, and I'm behind by now, I suppose, unless they've given it to somebody else. That watch in your pouch was my father's, and he came home when he said he would maybe twice in my whole life, and I've wound it every morning since March, which hasn't helped him or me. I have no idea what happens if it's shut. I've lain awake on Kallia's floor every night for a month working it out, and the furthest I've got is the water. I'm getting better at the water. If that cave is open today I'll walk down to the hotel on the main street in Delphi and stand under a hot shower until it runs cold, and then the first bus out and the first plane to anywhere, and call Gloria collect from Kennedy and let her yell at me, and then the train home to Philadelphia, and my own kitchen, and never—"
 
 "Philadelphia," Valens said.
 
@@ -503,7 +503,7 @@ The rock was cold. The air did not move.
 
 He showed me. Five to two.
 
-I looked at it until his fingers closed over it. My fingers came free of the gap and I stood up. My knees had stopped feeling the rock some time before, and when I stood they gave a little and then held. I set my hand on the slab. Cold. I hit it. I hit it with the side of my fist and then with the heel of my hand, and the skin came off the heel, and I hit it again.
+I looked at it until his fingers closed over it. My fingers came free of the gap and I straightened as far as the roof let me. My knees had stopped feeling the rock some time before, and when I rose they gave a little and then held. I set my hand on the slab. Cold. I hit it. I hit it with the side of my fist and then with the heel of my hand, and the skin came off the heel, and I hit it again.
 
 The noise I made had no word in it.
 
@@ -513,7 +513,7 @@ After it, the drip, and the torch hissing.
 
 Valens laughed.
 
-It was short and surprised, and ran on briefly after, a laugh with nobody at the end of it. I had been laughed at on the Sacred Way, in front of the whole square, and I knew the difference even in the dark with my hand bleeding.
+It was short and surprised, and ran on briefly after, a laugh with nobody at the end of it. I had been laughed at on the Sacred Way, in front of half the Way, and I knew the difference even in the dark with my hand bleeding.
 
 "Good," he said.
 
@@ -521,7 +521,7 @@ He dug into the front of his tunic and came up with a round of flat bread, broke
 
 It was warm. He had carried it the whole climb inside his clothes, against his skin, and it was exactly the temperature of a person.
 
-I ate it. It was barley, mostly, coarse, and whoever made it had salted it with conviction, and the crust had a scorch across one side where it had sat too near somebody's coals. I ate it standing in the bottom of the crack with my bleeding hand held away from it, and he ate his half watching the torch.
+I ate it. It was barley, mostly, coarse, and whoever made it had salted it with conviction, and the crust had a scorch across one side where it had sat too near somebody's coals. I ate it crouched in the mouth of the crack with my bleeding hand held away from it, and he ate his half watching the torch.
 
 "Why did you laugh?" I said.
 
@@ -549,7 +549,7 @@ He finished what was in his mouth first.
 
 "I didn't say thief." He brushed the crumbs off his knee into his palm and ate them. "I was at the turn of the lane before you came out to me. I heard you at the spring, twice, in the dark. A thief doesn't fill the widow's jar before she goes."
 
-I had no answer to that, in either language. When the bread was gone I could have eaten the same again, which after a month of Kallia's lentils was nothing new.
+I had no answer to that. When the bread was gone I could have eaten the same again, which after a month of Kallia's lentils was nothing new.
 
 "Eat the crumbs," he said. "You'll want them on the stair."
 
@@ -559,9 +559,9 @@ At the mouth the snow had come. It was falling through the arch in the gray ligh
 
 The gray took me down into the white with Valens at her head.
 
-On the plain there was only snow and wind and the gray's ears ahead of me, the flakes settling between them. The huts were gone. We were under the firs before I saw them. The light went off the snow so slowly that I could not have said when it was gone.
+Below the mouth there was only snow and wind and the gray's ears ahead of me, the flakes settling between them. We were under the firs before I saw them. The light went off the snow so slowly that I could not have said when it was gone.
 
-"What were you digging for?" he said, somewhere on the plain.
+"What were you digging for?" he said, somewhere on the slope.
 
 "Cold. I was looking for cold. A wind, out of the rock."
 
@@ -583,7 +583,7 @@ We came in among the firs, where the wind couldn't reach, and the snow fell stra
 
 "Where do you sleep?" he said.
 
-"Under the widow's stairs. With her jars."
+"Under Kallia's stairs. With her jars."
 
 "Dry?"
 
@@ -621,7 +621,7 @@ I had said that. The gray picked her way down between the trunks with me on her 
 
 "Forward. Till it stops, and not past."
 
-At the top of the cliff path there was a red glow off to the left, low in the snow, and a smell of smoke that was sour where woodsmoke would have been sweet. The man with the donkey had his kiln there, a long hump of earth and turf with smoke seeping from every seam, and he sat beside it on an upturned basket with a sack across his head and shoulders. The donkey stood in its lee with its eyes shut.
+Past the pen we crossed the plain, and I did not see the huts. At the top of the cliff path there was a red glow off to the left, low in the snow, and a smell of smoke that was sour where woodsmoke would have been sweet. The man with the donkey had his kiln there, a long hump of earth and turf with smoke seeping from every seam, and he sat beside it on an upturned basket with a sack across his head and shoulders. The donkey stood in its lee with its eyes shut.
 
 "Mule-man!" he called. "Come and warm yourselves. She won't mind." He meant the kiln.
 
@@ -629,19 +629,19 @@ Valens would have gone by. I watched him decide it. But the gray had already tur
 
 "Nine days she's been at it," the man said, "and now this." A flake hissed where it landed on the turf. He got up and stamped a seam shut where a tongue of flame had shown in it. "Easy, girl. Hold it in." He raked a few chestnuts out of the edge of the embers with a stick and pushed them across the snow to me with his foot. "Eat. They're split already."
 
-They burned my fingers, and I ate them anyway. He talked fast, in the mountain Greek, and I lost half his words and none of Valens's answers.
+They burned my fingers, and I ate them anyway. He talked fast, in the mountain Greek, and I lost words out of everything he said, and none of Valens's answers.
 
 "Did you get any of the god's ox?" The rest ran on past me. I caught the number four in it, and the council, and a grievance about meat.
 
 "I was at Kirrha."
 
-"So you ate what we ate. Smoke." He peered up at me in the glow. "That's her. The nymph. My cousin's boy saw her step out of Pan's cave at the vintage."
+"So you ate what we ate. Smoke." He peered up at me in the glow. "That's her. The nymph. My cousin's boy saw her step out of Pan's cave at the olive beating."
 
 "She's the widow Kallia's," Valens said. He had crouched at the other mule's forefeet to strip off the wet sacking and bind on fresh. "Down by the spring."
 
 "Since when has Kallia got anybody?"
 
-"Since the vintage."
+"Since the olives."
 
 "In trousers?"
 
