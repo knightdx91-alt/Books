@@ -177,7 +177,7 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   as easily have made the roof into so much talk about rain and left out the father with no son of his own." Hands on the
   letter: "The clay broke from the knot at the first push, and the thread slid off over the end. Unfolded, the papyrus was mostly
   creases and needed both my hands to keep it flat."; she "showed her the opening word with a fingertip". At the close: "I read
-  it over again to myself, from the greeting down to the date, and rolled it up." (no refold, no size or weight) and "I put the
+  it all to myself, from the greeting down to the date, and rolled it up." (no refold, no size or weight) and "I put the
   letter in behind the cumin." No body break of her own (Kallia's yawn carries it). Ends on the afternoon going on: "Half the
   basket was still to clean, and I pulled it back onto my knees." … "The step was in shade. It was a good while yet till the
   lamps." No teeth, no credential asides, no laugh, "could have" 0, no parallel drawn between Ariston's choice and hers, in
@@ -1328,7 +1328,7 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   had climbed to the sanctuary to stare at the temple"; "Behind her the gallery was hung with other people's cloaks."; "A lodger's
   tunic was drying on the rail above us."; "A pair of wet sandals stood outside one of them with their soles to the sun."). The
   Thebans are not on the page (gone with the thaw, unstated).
-- **Mention only (from the letter and Kallia's answers):** **Shalmath** (Ariston's wife; the writer's "Domna" was replaced by
+- **Mention only (from the letter and Kallia's answers):** **Shalmath** (Ariston's wife; the writer's first name for her was replaced by
   continuity W-03 to remove a Julia Domna wink) and her mother ("Her mother says it will come before the middle of the winter");
   **Iamblichos** (Shalmath's father, "who sells horses to the cohort"; "Her father has no son, and he calls me his."; Kallia's "The
   horse-seller," … "His name again."); the prefect; the baker and Sostrata, "and his old mother, if she is living" ("She's
@@ -1565,7 +1565,7 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
 - **Ch.10 as written (Writer, 2026-10-19. SYNCED to the FINAL page 2026-10-19, after dialogue-polish, hook-craft, the
   disruptor, continuity repair, polish cycle 1 and the PATH fix; every quote is on the page, checked by script):** "Somebody came
   in at the gate at a run. It was Nikaso, from along the lane, with flour on her hands and her black hair half out of its pins."
-  (no gate count: polish cycle 1 cut "three gates down" to keep ENTITY CH10-5 consistent with Ch.8's "Midway along the lane").
+  (no gate count: polish cycle 1 cut the writer's gate count to keep ENTITY CH10-5 consistent with Ch.8's "Midway along the lane").
   "Kallia! That boy from Elis is at the lions telling everybody he brought you something written, from as far as Syria. Is it
   him? Is he living?" / "The gods be thanked." and her chaos on the page: "Nikaso put both hands over her mouth, and when she took
   them away there was flour on her lips." / her axis, the worry answered herself: "He'll be home for the god's day, won't he? And
@@ -2241,8 +2241,8 @@ line each, so that walk-ons don't all sound like Mara.
     his, from beginning to end."; **"X corrected none of it" is used once.**
   - **Mara's what-I-might-have-read reflection** is now one sentence: "Nobody else in that court or in that lane could read a word,
     and I might as easily have made the roof into so much talk about rain and left out the father with no son of his own." Once; the
-    frame does not recur. **A second, silent reading of a document**: "I read it over again to myself, from the greeting down to the
-    date, and rolled it up." Once.
+    frame does not recur. **A second, silent reading of a document**: "I read it all to myself, from the greeting down to the date,
+    and rolled it up." Once.
   - **Mara's wrong comfort** ("He says the arm has knit," answered by "She drew a fresh pull of wool from the hank, and let it run
     back."): once. Kallia's silence-with-wool is her varied reply here; the next varied reply is not wool.
   - **The neighbor-news answer** (Kallia answering a letter's greeting list with who is living, dead and married): once, CLOSED.
@@ -2255,7 +2255,7 @@ line each, so that walk-ons don't all sound like Mara.
     "Where does the rain go?" / "They'll have enough." / "The man," … "Bought?"): the subtext questions are SPENT; no character asks
     a proxy-for-happiness question in this shape again. **"It does not say."** is at 1 and "It says only a man." at 1: no third.
   - **Kallia says "Ariston" once** ("He can have Ariston's room, at the three obols."). The name is never in her mouth again. Mara
-    reads it once inside the letter's formula; **the narration never names him** (the one "Kallia's son" was cut by the disruptor).
+    reads it once inside the letter's formula; **the narration never names him** (its one epithet for him was cut by the disruptor).
     Hold "Ariston" in narration to the minimum in later chapters.
   - **The letter formula** ("Ariston to Kallia, his mother, greeting, and many of them. Before everything I pray for your health",
     "I pray for your health, mother, and that the gods keep you. Farewell.") is Ariston's alone; Fenn's English letters (Ch.26)
@@ -2668,3 +2668,30 @@ finalizing the chapter. Never add a tic to fix it.
   once), a Ch.10 NIKASO block (the news down the lane; the sieve CLOSED), a Ch.10 MARA block, the Ch.10 walk-on note (the Elean,
   the man from Patrai, mention-only Thrasyllos and Glauke's girls) and the **At-risk after Ch.10** block. No device collisions:
   nobody counts or lists; only Mara notices the packet's thread and clay. Tic-bearer roster still NONE.
+- 2026-10-19 (bookkeeping sync, Ch.10 FINAL page after dialogue-polish, hook-craft, the disruptor, continuity repair, polish cycle
+  1 and the PATH fix; no chapter text touched; git not run; resolves eval Revision #16 / audit W-09): every Ch.10 quotation in the
+  bible (MARA, KALLIA, ARISTON and NIKASO Ch.10 blocks, the Ch.10 walk-on note, the at-risk after Ch.10 block) was checked by
+  script against chapter-10.md, and each one no longer on the page was replaced or removed. Names: the wife is **Shalmath** (not
+  Domna); **Patrae** (not Patrai); Nikaso "from along the lane". ARISTON: "paid me out what I had saved at the standards";
+  "alive and whole, all but the left arm"; "and keeps my house well"; the packet and the opening re-quoted; the niche. KALLIA:
+  "Her face gave him nothing for that."; "pushed the letter down behind her belt"; "touched the place through her clothes"; the
+  reed blind (its new position, as seasonal work before the reading); "at the length of her arm"; "They'll have enough."; "treading
+  his clay for him"; "He's married, in Syria, and there's a child."; no errand; "The horse-seller," … "His name again."; "came no
+  nearer"; the sweep re-quoted; the himation; "and the houses there are full to the tiles … he waits in the court."; the "Shall I go
+  up" exchange and the lamps reply removed. MARA: the eyes-a-line-ahead paragraph and the speech ledger removed, "Kallia corrected
+  none of it. The Greek was his…" in their place; the letters rule now "Whatever was in a letter, I thought…" (the two-kinds rule
+  recast); "He says the arm has knit,"; "The oxen and the man to drive them went by…"; "in the summer just gone, and its temple";
+  the could-have pair now one sentence ("Nobody else … might as easily have…"); the silent re-read now "read it all to
+  myself, from the greeting down to the date, and rolled it up" (no fatter packet, no cheerful-letter line); the close re-quoted. Walk-ons: the Elean's relays, "I'm
+  here till the god opens his house", the seasickness line; the lodgers; the neighbor's blanket replacing the goat; Philista and the
+  ox-driver added to the mention-only list. At-risk after Ch.10 corrected: the written-vs-spoken contrast at 2 on the page; the
+  narration never names Ariston; similes on the page (dried leaf and purse cut); the ugly sentence; counts re-measured (semicolons 3,
+  "said to the [non-listener]" 0, spindle ×3, "could have" 0, #11 at 1). New block **At-risk after Ch.10 FINAL**: set pieces rebuilt
+  from the chapter just finished (NEW NAMED RISK: check the previous chapter's set pieces before any object-handling or document
+  scene); voice-bank sample-12 used up by Ch.10 (Ch.31, 34, 44 must not rebuild its refold or ending); "could have" for a mendable
+  thing capped 1 per chapter; explanatory extension (#11) density in short chapters; the Philadelphia memory insert capped at one
+  every other chapter and never ending on a lost name (author's independent read); Kallia's name-asks at 2, no third; Kallia's
+  chore-replies capped 1 per chapter with errands counted as the same device (also written into her card's syntax line); a held
+  silence measured by something moving SPENT; the speech ledger and the object-weight close SPENT; one comparison vehicle per book;
+  gait/footwear exits; one displaced-labor act per blow; Kallia's work-suspended tell kept out of Ch.16; "living", "cup" and the yawn
+  closed; sample-09's frame; walk-on relays; the repair-grep rule. Tic-bearer roster still NONE.
