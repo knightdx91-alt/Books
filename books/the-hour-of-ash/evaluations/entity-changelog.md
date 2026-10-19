@@ -555,3 +555,85 @@ No knowledge_gap. No needs_review (the rod slave is kept distinct from the Ch.13
 - **CH4-4 (info): still open.** Ch.5 does not touch the inscription.
 
 No new conflicts. No knowledge_gap. No needs_review.
+
+## 2026-10-19: UPDATE (re-sync after the author fixes to Ch.2, Ch.3 and Ch.5; Ch.1 celery beat)
+
+**Sources:** `evaluations/revision-chapter-2-author-fixes.md`, `revision-chapter-3-author-fixes.md`, `revision-chapter-5-author-fixes.md`, plus the Ch.3 evaluator's restorations and the Ch.5 wording fixes. All were read as the chapters stood on disk at 13:58. `meta.last_updated_chapter` stays 5.
+
+**Earlier run.** A first run of this job re-anchored the ch-03 and ch-05 citations mechanically (ENTITY_STATE.yaml, 13:51) and stopped before the content pass. This run checked that work against an independent paragraph diff. All 443 explicit re-anchors and all 59 bare/range re-anchors match. One bare ref it missed (`p211` → `p209`, Mara's sweater-pillow) is now fixed.
+
+### Re-anchoring
+- **Ch.1:** "He turned the celery in his fingers" is removed. No tracked fact cited it, and the numbering is unchanged (193 paragraphs).
+- **Ch.2:** 69 paragraphs, numbering unchanged. Text changed inside p22, p44, p45, p47 and p63.
+- **Ch.3:** 90 → 84 paragraphs. Old p29 and p30 (the cloud warning, "I'm staying up"), p44-p46 (the camera lesson) and p59 ("If it had come into my lab…") are deleted. The mapping is:
+  - old p1-p28 = new p1-p28;
+  - old p31-p43 = new p29-p41;
+  - old p47-p58 = new p42-p53;
+  - old p60-p90 = new p54-p84.
+- **Ch.5:** 212 → 210 paragraphs. Old p29 (the Arcadians/Spartans speech) and old p47 ("a decade below street level…") are deleted. The mapping is:
+  - old p1-p28 = new p1-p28;
+  - old p30-p46 = new p29-p45;
+  - old p48-p212 = new p46-p210.
+- No `pDEL` markers remain. The highest citations are ch-03:p84 and ch-05:p210.
+
+### Facts removed (no longer on the page)
+- **Ch.2:**
+  - the limestone book;
+  - "from/in the lab" for the fax, the window mat and the magnifier (the fax to Naples is now "that afternoon", sending place not stated);
+  - "my department".
+- **Ch.3, Delphi and the approach:**
+  - **Lodging and town:** the room over the worry-bead / Charioteer-copy shop, the Itea view, and "leaning on the rail".
+  - **The phone and the map:** the kiosk telephone, the phone card and "Ray having his fit"; the hotel bed, the map bought "the afternoon I arrived", the map's cardboard cover, "better than a mile", and Livadi (alias dropped).
+  - **The plateau:** the bell frame, the snowmelt sheets, the white van, and the road "from the Arachova side" (removed from arachova, kalivia-plateau and CH5-5).
+  - **The path:** the E4 signpost (the E4 now survives only in the German's speech), the white-bar blazes, and the silver-gray bark and needle floor.
+  - **The taxi:** its speed and the gravel spray.
+  - **The German:**
+    - the two o'clock cloud and "Be down before" (removed from the German, Parnassus and knowledge_index);
+    - "I'm staying up";
+    - the sleeping-bag assumption and "a box and a half of granola bars" (Ch.3 granola count now NOT STATED);
+    - the camera lesson (focusing ring, needle, "That's the lever");
+    - the goatherd greeting him.
+  - **"Every tray of his slides."**
+- **Ch.3, the cave:**
+  - **The mouth:** "as broad as a kitchen table", the fire ring, bottle and candle stub, and "torn at the elbow" / "beaded red".
+  - **The hall:** the stalactites and the "folds and draperies".
+  - **Memories and Fenn:** Florida and the crawlspace; Fenn's directions re-read in the cave and "by heart since March"; Fenn's "day after day" and his beans and goat; "the whole block"; "the bigger fool" (removed from fenn-cautionary-mirror, the watch and knowledge_index).
+  - **The graffiti catalogue:** the regiment, the Greek names, E. WILKINS 1861, the soot names, "for the order things had happened in", and "If it had come into my lab".
+  - **The French report:** two volumes, the April reading "slowly, in French", "caught once already", the plates (figurines, rings, lamps, coins, the bronze cicada), the dyed/drilled/lead-filled bones and "trays of dried beans". As a result, Mara's "reads French" trait, the university-library report row and the April 1998 timeline event are dropped.
+- **Ch.5, the Sacred Way:**
+  - the Arcadians and Spartans (speech and "brown-gold shine");
+  - the Siphnian name, the porch girls and the silver/flooded-mine joke (the frieze is now "the next treasury");
+  - the water boy (the entry is kept with `last_confirmed`, per merge rule 4, and its traits removed);
+  - the laurel woman (removed from strangers and the Pentax);
+  - the row of empty bases, and "a decade below street level … first time I had stood where the taking happened";
+  - the Athenian treasury "walked round it twice".
+- **Ch.5, elsewhere:**
+  - the ox-cart;
+  - "the country changed";
+  - the money-changer's exit;
+  - "since graduate school", "in my first year in the lab", the coins "in the lab", and "in none of my grammars".
+
+### Facts added or corrected
+- **The Greek clause (ch-05:p28)** is now the basis of Mara's comprehension in town. The speech is "worn smooth, in a town Greek far nearer my books than the boy's had been on the mountain, and I lost none of it". It is recorded as a new Mara knowledge row (contrast ch-04:p8), in the Greek trait, and in the guide's trait.
+- **Other Ch.5 wording:**
+  - "the only one the book had given me" (p10);
+  - "a word I had never seen written down" (p80);
+  - "for most of my working life" (p31);
+  - "Everyone beats somebody at Delphi…" is now on the boxer (p37);
+  - "He tells it all wrong" (p33);
+  - "fine-ridged from the saw" (p45).
+- **Ch.3 restorations:**
+  - the ski lifts on the far slope (p5), so `knowledge_absent_ch3` "the ski lifts" stands;
+  - "a roof that went up into darkness in the middle" (p51);
+  - Fenn's drawing "copied … from a photograph in some library book, I supposed" (p46);
+  - the knuckle scratch, now at the thornbush: "and the knuckles of my right hand with it" (p45). This re-sources the Ch.5 scratch callbacks (p15, p150) to ch-03:p45.
+
+### Contradictions
+- **CH3-8 (low): NEEDS-REPLANT, new.** ch-03:p67 still says "the book about limestone had said so", but ch-02:p22 no longer introduces the book.
+- **CH5-5: still RESOLVED.** Ch.3 has lost both route clauses, so ch-05:p2 is now the only statement of the route, and nothing contradicts it.
+- **CH4-3: re-checked, still open.** The sleeve is torn "on the thorns" (p45), and "at the elbow" is cut.
+- **CH3-2, CH3-3, CH3-7, CH4-2, CH4-4, CH5-2, CH5-3, CH5-4 and CH5-6:** re-checked, and none is changed by the cuts.
+
+**Outline dependencies.** I checked outline.md Ch.6-44. No later planned beat depends on any deleted fact.
+
+No new conflicts. No knowledge_gap.

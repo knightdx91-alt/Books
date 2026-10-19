@@ -132,7 +132,7 @@ At half past twelve I peed behind the big stalagmite and begged Pan's pardon in 
 
 I had not called Gloria. I had bought a postcard of the Charioteer instead, and it was in the bag now, unwritten.
 
-Fenn had sat here. He had spent most of a summer on this floor in the dark with his cigarettes and his notebook and his better flashlight, if he had ever got the better flashlight. Cave air moved with the pressure outside; the book about limestone had said so. The cold he had felt was the weather on the far side of the mountain, coming through the rock.
+Fenn had sat here. He had spent most of a summer on this floor in the dark with his cigarettes and his notebook and his better flashlight, if he had ever got the better flashlight. Cave air moved with the pressure outside; that much was in every book on caves. The cold he had felt was the weather on the far side of the mountain, coming through the rock.
 
 It came at twenty to two.
 
