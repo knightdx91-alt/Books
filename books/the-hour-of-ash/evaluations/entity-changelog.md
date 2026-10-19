@@ -637,3 +637,142 @@ No new conflicts. No knowledge_gap. No needs_review.
 **Outline dependencies.** I checked outline.md Ch.6-44. No later planned beat depends on any deleted fact.
 
 No new conflicts. No knowledge_gap.
+
+---
+
+## 2026-10-19: UPDATE (chapter 6, final text: post-polish, post-hook, post-disruption, post-continuity-repair)
+
+**Trigger:** chapter loop step D.5 for chapter 6 (drift policy: every chapter).
+**Inputs read:**
+- `manuscript/chapters/chapter-6.md`: 342 prose paragraphs, two breaks, so three shards (p1-p35, p36-p243, p244-p342). The two HTML comment lines are metadata and are not counted.
+- The existing `ENTITY_STATE.yaml` (`last_updated_chapter: 5`); outline.md Ch.6 and Ch.7; character-bible.md (Valens and Kallia cards, Ch.6 walk-ons, at-risk list); the writer's report.
+- Cross-checks against ch-01:p116, p141, p190, p191; ch-02:p16; ch-03:p51, p68; ch-04:p28; ch-05:p55-p64, p137, p169-p180, p210.
+
+**Re-sync during the run.** The continuity-guardian audit (`evaluations/continuity/chapter-6-audit.md`) read the live YAML and filed CH6-1..8 as W-01, W-02, W-03, W-17, W-18, W-19, N-04 and N-18. The book-editor then rewrote 25 paragraphs (`evaluations/revision-chapter-6-continuity.md`; chapter last written 15:15:16), and the outline's Ch.7 beat 3 was patched. Every Ch.6 fact was re-checked against the repaired file. The paragraph count and breaks did not change, so every ch-06:pYY keeps its number. 67 + 7 text corrections were applied. The resolved CH6 entries keep their pre-revision quotes, labelled `[pre-revision text]`.
+
+**Meta:** `last_updated_chapter: 6`; `chapters_tracked: [1..6]`; `paragraph_rule` now records Ch.6 = p1..p342 and the paragraphs the repair changed. 301 lines carry `ch-06:pYY`. Every cite is in range, and quoted phrases were machine-checked against the cited paragraphs.
+
+### Replaced (plan → prose)
+- **Valens:** first_appearance (p5 on the page; p36 in story order; name from Kallia, p48); the thumb on the crown (p132); the Ch.6 location log and arc waypoint; his relationship with Mara.
+- **Mara:** the Ch.6 location log; the planned row "the Corycian door she came by is shut", replaced by a null test with the page's words ("Cold that was only cold"; "The rock was cold. The air did not move.").
+- **Seiko:** the Ch.6 custody row.
+- **Other:** the timeline row for Ch.6; the Ch.6 occurrence of hand-at-threshold; the-where, romance and valens-known opened on the page; return-to-the-cave **CLOSED**.
+
+### Added
+- **Valens:**
+  - Physical: a scar the length of a finger across the back of his right hand, stitched too far apart and healed "in a ladder"; big hands (the watch band will not go halfway round his wrist); tunic, boots, a drawstring belt pouch, a bag. Age is not stated on the page.
+  - 15 Ch.6 traits:
+    - His Greek is flat and foreign; with Kallia he answers her fast Phocian "a word at a time".
+    - He speaks Latin to the mules.
+    - Footing: ashes on the ice, sacking on the hooves, "Step where she steps".
+    - Weather lines.
+    - Mind-reading that is wrong in ordinary ways: the donkey man "Somebody for you", hidden silver, "a big house. Corinth, or Patrae".
+    - The bargain kept to the letter.
+    - The watch handled with care: wound backward, then forward to full.
+    - He pays Pan a crust; he does not admit to reading.
+    - Evasions: "North.", "On the road.", "Don't.", and her name never asked.
+    - The laugh and the bread.
+    - The lies to the charcoal burner and "You never had a watch".
+    - No simile in his speech.
+  - Knowledge: 13 rows. `knowledge_absent_ch6`: her name, which he heard only inside her English speech; the door; how to *set* the watch.
+  - Possessions: the mules have no names (the gray, the brown, a dun; five at the delivery; from Corinth); the Seiko; his climbing gear.
+- **Mara:**
+  - `worn_ch6`, `carries_ch6` (now including the flashlight), `marks_ch6`, `hunger_ch6`; 13 Ch.6 traits.
+  - Knowledge: 19 rows. `knowledge_absent_ch6` (no watch from the evening before the climb). New alias "the nymph". A Ch.6 arc waypoint.
+- **Kallia:**
+  - 6 traits: the pomegranate, the wood haggle, the sea and the letters, orders, "The shovel comes back.", the broom.
+  - `household_ch6`; Valens and a Theban lodger as relationships; possessions (the ash shovel, the ash pail, the kerchief money).
+  - 3 knowledge rows; `knowledge_absent_ch6` (the watch deal, where Mara went).
+  - "The widow" is now on the page, as what others call her.
+- **New characters (5):**
+  - `charcoal-burner-parnassus`: minor; the goat-boy is "my cousin's boy"; full knowledge rows; a `gossip_risk` field.
+  - `theban-on-gallery`: kept distinct from `gallery-pilgrim`.
+  - Mentioned only: `delphi-temple-painter`, `man-from-philadelphia-in-asia`, `larchwood-neighbor`.
+- **Updated characters:**
+  - goat-boy: his story spread "this autumn"; the burner is his kin.
+  - Emilio: wound the Seiko at the kitchen counter while the percolator went; "came home when he said he would maybe twice".
+  - Ray: snow tires on the Buick.
+  - Gloria: the odd earrings, now in place of the freezer keys.
+- **New locations (4):** `cliff-stair-above-delphi` ("the stair"; ice from the second turn; the charcoal kiln at the top; the Kaki Skala name is not on the page), `patrae`, `philadelphia-in-asia`, `boeotia`.
+- **Updated locations:**
+  - corycian-cave: the November mouth, hall and crack; aliases "Korykian" and "Pan's cave"; the cliff-stair distance.
+  - kalivia-plateau: snow; the pen's fresh withy; the descent cave → firs → pen → plain → cliff top.
+  - parnassus: the snow line, the charcoal men, the cloud bank.
+  - delphi: the sanctuary wall's high corner, the dogs, the sacrifice now past, the market gossip.
+  - castalian-spring: "the lions"; a round trip with a full jar is about half an hour.
+  - temple-of-apollo-delphi: seen from the cliff; repainted each spring.
+  - kallias-house: the lane, the court, the gatepost, the woodstack.
+  - kirrha: the last ship eight days before.
+  - corinth; philadelphia (Larchwood, Kennedy); maras-apartment (the radiator; "behind" on the rent); delphi-modern (the hotel).
+- **Objects:**
+  - New `kallias-ash-shovel`: chekhov_open, unplanned. "The shovel comes back"; it is in Mara's hands at the end of the chapter, not yet returned.
+  - Seiko:
+    - Set to local time by the gatepost's noon shadow on her second day at Kallia's; wound "since March".
+    - The steel link band (three links out) has a clasp, not a buckle.
+    - Paid to Valens the evening before the climb; three Ch.6 windings (his backward one, hers, his forward to full).
+    - New fields `physical_ch6`, `time_setting_ch6`, `what_valens_was_told_ch6` and `secrecy_ch6`.
+  - taxi-drachma-coins: two remain. The bigger is "brass, and the head of an old man with a beard" ("A poet"); the denomination is not on the page (the editor's note says 50 dr, Homer). Its conflict field is removed after auto-resolve.
+  - flashlight: in the duffel "under everything", unused, hidden from Valens (p7).
+  - duffel: never unpacked; "Everything"; taken into the cave; in her hands at the end.
+  - goat-hair-blanket: folded and thanked for in English.
+  - kallias-broom: a broom on the page (p38); the threshold beat is still Ch.7.
+  - Pentax and film: 0 frames in Ch.6; 27 left by the plan count.
+  - microcassette: not mentioned.
+- **Knowledge index:**
+  - door_location: Valens hears fragments only, not the door.
+  - mara_origin: rows for the charcoal men, Valens (nothing true), the burner (the nymph plus Valens's cover), Kallia (nothing new) and the town (risk).
+  - New indexes `seiko_with_valens` and `mountain_trip_ch6`.
+- **Timeline:**
+  - The Ch.6 row: two days told out of order; about a month after the crossing ("most of a month"); the month is not named (plan: November); snow down to the cliff rim; the sea shut; the weather goes from clear to big wet flakes by about 2 p.m.
+  - 12 new timeline_events rows; the sacrifice row is now marked past.
+- **Plot threads:**
+  - New `nymph-rumor`: the burner is a witness against "You went up by yourself"; the bible says the rumor is not retold again.
+  - Ch.6 notes on kallias-son ("Letters."), celer-and-the-frame (nothing on the page), mending-the-seam (the laddered scar), maras-legal-nonexistence ("She's the widow Kallia's" is the first time she is called somebody's), maras-greek-refusal and relics-watch.
+- **World rules:**
+  - Shut-door implications, OBSERVED:
+    - One null afternoon (the door is not shown shut for good).
+    - The winter detection limit: the cold sign can't be told from the mountain's cold.
+    - No repeating clock hour.
+    - Nothing she does moves the door.
+    - A native standing by proves nothing.
+    - Time runs at the same rate on this side.
+    - The consequence: she must stay (Ch.7).
+  - Ch.6 observations added to existing rules: the sea is shut, plus the road over to Boeotia; no shoes on the mules (sacking on ice); a woman alone is read as a runaway.
+  - New observed rules: offerings to Pan at the cave; the yearly repainting of the temple.
+
+### Contradictions
+- **CH5-6: RESOLVED.** ch-06:p39 says "I had spoken no Greek aloud since the guide on the Sacred Way". This matches the audit's N-05.
+- **CH5-2: narrowed** to "clay lamp" (bible) vs "a lamp" (page). Still open.
+- **CH6-1 (low): RESOLVED.** "Since January" contradicted Ch.1, where the watch is first wound on 14 March. The page now says "since March".
+- **CH6-2 (low): RESOLVED.** The coin shown to Valens duplicated Ch.5's hundred-drachma piece. It is now "an old man with a beard" / "A poet".
+- **CH6-3 (info): RESOLVED.** "Three months behind" did not fit the time elapsed. The page now says only "behind".
+- **CH6-4 (info): RESOLVED.** "In front of the whole square" is now "in front of half the Way".
+- **CH6-5 (info): OPEN.** Ch.5's plan names the cart-track route, but p38 says "I had no idea of the way".
+- **CH6-6 (info): OPEN.**
+  - The bible's Ch.6 notes quote pre-disruption text: "pay men to ask", "if they asked me", "Whoever knows where can be asked where", "three eaten", "Nobody learns Latin on…" and the "milk … cream" simile.
+  - The bible (last written 14:31) also lacks every continuity-repair change: the clasp, March, the poet coin, the hidden flashlight, the olives, "In Delphi … Kallia has not asked it", the haggling "a word at a time", and the earrings.
+- **CH6-7 (info): RESOLVED** by the outline patch. Ch.7 beat 3 is now a month of *public* silence, with Mara speaking only inside Kallia's house.
+- **CH6-8 (info): RESOLVED.** The May hour is now given "by Athens time, which ran an hour and more ahead of this sun" (p14).
+- **Re-checked:**
+  - CH3-3: a pen under the firs again; no hut.
+  - CH3-7: "open" and "shut" are on the page, but there is still no "door".
+  - CH4-3: no upper garment is named in Ch.6.
+  - P5: Valens lives openly in Delphi, and the sea is shut, which fits a spring arrival for the notice.
+  - All others are unchanged.
+
+No knowledge_gap. No needs_review.
+
+### For Ch.7–9
+- **No watch.** Mara has no clock time from the evening before the climb; Ch.8's attempt is untimed. Valens has the Seiko, in his belt pouch, wound forward daily. He has not been shown how to *set* the hands, and the plan's Ch.18 "set near noon by the shadow" needs that.
+- **The cover story** is "You went up by yourself. You never had a watch." Mara must not mention the watch in public.
+- **A witness.** The charcoal burner saw them together and will spread "the nymph … the widow Kallia's … came off a ship … since the olives" "all over the town by the next market". Ch.7's "Syracuse" cover must be compatible with "came off a ship". The rumor itself is SPENT as a retelling.
+- **The shovel** is promised back to Kallia and is still in Mara's hands.
+- **The flashlight** is hidden in the duffel. Any use must reckon with being seen.
+- **The Greek silence** (patched outline): silent with Kallia until now; she speaks Greek to Valens and the charcoal burner. In Ch.7 she goes silent in public for a month and speaks inside the house.
+- **Valens's knowledge.** He knows her as a reader with Latin and soft hands, a runaway from a "big house" with no husband; "Philadelphia" is "past the Parthians". He does not know her name. He reads inscriptions without admitting it, which matters for Ch.9, where he reads the notice, and Ch.11, where it emerges that he can read.
+- **His scar** is on the back of his right hand, so the Ch.9 notice's "scarred" must fit it.
+- **Valens is known** in Delphi as "Valens" or "Mule-man", never "Lupus".
+- **Letters.** Kallia asked after "Letters" from the east before the sea shut. Ch.10's letter sitting at Kirrha all winter fits that.
+- **Season.** The sea and the Boeotia road are shut. The cliff stair is iced from the second turn; the plain is under snow.
+- **Mara's injuries.** The heel of one hand is skinned (which hand is not stated). Her knuckles are split and her palms blistered; she still cannot carry a jar on her head.
+- **The crack** gave nothing in cold weather, and Mara knows a hand test can't tell in winter. Ch.8's attempt is "nothing" with "no scream".
