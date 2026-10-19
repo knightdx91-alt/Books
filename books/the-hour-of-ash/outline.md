@@ -350,7 +350,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Ledger:** Collage (internal shape: *stones and errands*) · open: document (a Delphic manumission inscription) → `narrative` · end: short punch → `punch` · 6,400 · dialogue 25–35% · theme present · 5 breaks · gear mid
 *(Delphi, late winter, AD 71.)*
 
-**Premise:** To pay for the Oracle Mara starts mending bronze for the sanctuary's priests. Reading the inscriptions on the polygonal wall, she learns what freedom costs here and that a scarred Thracian is wanted as a runaway.
+**Premise:** To pay for the Oracle Mara starts mending bronze for the sanctuary's priests. Reading the inscriptions on the polygonal wall, she learns what freedom costs here; on the board in the square she learns that a scarred Thracian is wanted as a runaway.
 **Function in arc:** The Greece-first obstacle in money and male representation. The Celer threat is introduced. Her conservator skill becomes her living.
 **Emotional anchor:** a real-style manumission inscription: a woman "sold to Apollo" for three minae, on condition she remain with her former owner until death.
 **Emotional surprise:** her skill earns her money and contempt in the same breath. A priest pays her and wipes his hand.
@@ -359,7 +359,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 1. **(document, REVEAL)** The manumission text, with its *paramone* clause: freedom with strings attached.
 2. **NON-NEGOTIABLE.** She mends a priest's bronze incense stand (her craft, accurate: a cold join, wax, no welding) and gets coins.
 3. **NON-NEGOTIABLE.** The cost of a consultation: the *pelanos* fee, a goat, a Delphian sponsor, and a man to ask the question, because women do not go in.
-4. **(document, REVEAL)** A notice, newly posted in the agora with the first spring traffic, copied from one circulated in Corinth last autumn: reward for a runaway Thracian, scarred, "answering to Lupus," claimed as property of the household of Q. Arrius Celer. (Knowledge flow: the Corinth original went up in autumn 70; the Delphi copy arrives only now, which is why Valens could work openly through the winter of Ch.6–8 and reads it here as news.)
+4. **(document, REVEAL)** A notice, newly posted on the board in the square, come over the Boeotian road with the first carts since the snow, copied from one posted at Corinth in Dadaphorios (as written, 2026-10-19): reward for a runaway Thracian, scarred, "answering to Lupus," claimed as property of the household of Q. Arrius Celer. (Knowledge flow: the Corinth original went up in autumn 70; the Delphi copy arrives only now, which is why Valens could work openly through the winter of Ch.6–8 and reads it here as news.)
 5. **(document, texture)** A lead curse tablet against a rival's loom. It means nothing.
 6. **NON-NEGOTIABLE.** She sees Valens read the notice in the agora and walk away without hurrying. The chapter ends on a ≤7-word line, a single-sentence closing paragraph.
 **Progressive structure:**
@@ -384,7 +384,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Function in arc:** A secondary character's own life, fully onstage (Outline Check #9). A short, quiet punch between the money chapter and the Valens chapters.
 **Emotional anchor:** the broom, still lying across the empty room's threshold when Kallia goes out.
 **Emotional surprise:** the good news (he's alive) is the worst news Kallia could get.
-**Opening strategy:** an object. The letter, folded small and stained from the road (≤8 words). It was sent in the autumn and sat at Kirrha harbor all winter while the sea was closed; it comes up the hill with the first carter of the year.
+**Opening strategy:** an object. The letter, folded small and stained from the road (≤8 words). It was sent in the autumn and sat at Kirrha harbor all winter while the sea was closed; it comes up the hill once the harbor road opens. (Ch.9 has spent "first carts since the snow": word the arrival freshly.)
 **Key scenes/beats:**
 1. **NON-NEGOTIABLE.** Mara reads it aloud. Her reading is perfect, unlike her speech, so her gift becomes the instrument of the blow.
 2. Ariston writes from Emesa: a wife, a child coming, his discharge land in Syria. He sends greetings to the neighbors by name and not to the room.
@@ -421,7 +421,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Progressive structure:**
 - Builds on Ch.9: she saw him read the notice.
 - Adds: who he is, piece by piece, and Felix.
-- Opens toward Ch.12: they will need a goat from Kirrha.
+- Opens toward Ch.12: they will need a goat from Kirrha (the Delphi goat man's she-goat, Ch.9, costs more than her rag; Kirrha is cheaper).
 **Theme presence:** a man who keeps a life no one can take, letting someone in by inches.
 **Character chaos moments:** Valens's fig obsession (first appearance). His mind-reading (he is sure the cousin informed on him; the cousin just wanted money).
 **Subtext layer:** the fig argument is really about whether she is staying long enough to see a harvest.

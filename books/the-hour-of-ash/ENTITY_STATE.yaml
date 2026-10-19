@@ -864,7 +864,9 @@ meta:
       prose: "the notice is a painted board nailed to a pillar of the colonnade in the square, beside the herald's door, not on the wall (p173). It ends 'Copied from the notice posted at Corinth in the month Dadaphorios.' (p172). It came 'With the oil from Thebes. First carts since the snow' (p189), in late winter (the almond 'had come into flower in the last week', p129). The page gives no season for the posting at Corinth or for the flight: the continuity repair cut 'in the autumn' and changed 'Boathoos' to 'Dadaphorios' (W-01)"
       line: "ch-09:p129; ch-09:p172; ch-09:p173; ch-09:p189"
       note: "wording, not substance. Dadaphorios (≈ Nov/Dec, per the audit) can be read as late autumn, and it falls within a month of an autumn approach at Kirrha (foundation §3). 'First carts since the snow' in late winter stands where the outline has 'the first spring traffic'. The premise's 'Reading the inscriptions on the polygonal wall' covers the manumission only; beat 4 already puts the notice in the agora. No manuscript action implied. Later chapters should quote the page (Dadaphorios; the oil carts from Thebes; the board in the square), not the outline's 'last autumn'. Recorded, not judged"
-      flag: "UNRESOLVED"
+      resolution: "2026-10-19 (orchestrator): outline Ch.9 premise and beat 4 patched to the page: the board in the square, the first carts since the snow, posted at Corinth in Dadaphorios."
+      flag: "RESOLVED"
+      resolved_date: "2026-10-19"
     - id: CH9-2
       chapter: 9
       severity: low
@@ -873,7 +875,9 @@ meta:
       prose: "a goat man in the Delphi square, by the fountain, shows the shiver on a young she-goat with a handful of trough water ('Like a bride. Mine all do it; I keep them warm, so the water surprises them.'), prices her at 'More than that' (more than Mara's rag of coins), and says 'Send whoever's leading her up, with the rest of it. I'll keep her warm till then.' Mara neither takes nor refuses her. Kallia: 'Who takes the goat up?'"
       line: "ch-09:p168; ch-09:p175; ch-09:p176; ch-09:p178; ch-09:p180"
       note: "not yet a contradiction. The page opens a Delphi goat that the outline does not have, while the plan's goat comes from Kirrha. Ch.11-12 must either close this goat (for example by price: a warmed Delphi shaker is beyond her) or make her the consultation goat, which changes the Kirrha errand. Continuity audit N-15(b). Recorded, not judged"
-      flag: "UNRESOLVED"
+      resolution: "2026-10-19 (orchestrator): outline Ch.11 patched: the Delphi goat man's she-goat costs more than her rag, so Kirrha (cheaper) stays the plan."
+      flag: "RESOLVED"
+      resolved_date: "2026-10-19"
     - id: CH9-3
       chapter: 9
       severity: info
@@ -882,7 +886,9 @@ meta:
       prose: "Ch.9 has already spent a first arrival: 'With the oil from Thebes. First carts since the snow' (p189), on the road from Boeotia. On the Kirrha side, Valens's mules have worked through the winter (split wood to Kallia, ch-06:p50; to the priest's woodshed, ch-09:p103), though the page does not say where his wood comes from"
       line: "ch-06:p50; ch-06:p69; ch-09:p103; ch-09:p189"
       note: "a forward constraint, not a contradiction yet. Ch.10 has to word the letter's arrival freshly (no 'first carts' or 'first carter of the year' after p189) and give it a reason to have waited at Kirrha (the shut sea, ch-06:p69, rather than a shut road). Continuity audit N-15(a). Recorded, not judged"
-      flag: "UNRESOLVED"
+      resolution: "2026-10-19 (orchestrator): outline Ch.10 patched: the letter comes up once the harbor road opens; 'first carts/carter' marked spent for the Ch.10 writer."
+      flag: "RESOLVED"
+      resolved_date: "2026-10-19"
     - id: CH9-4
       chapter: 9
       severity: info
