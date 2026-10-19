@@ -301,3 +301,220 @@ Ch.10: 2,563w (target 2,800, −8.5%, inside 2,500–3,100; book 54,333 vs 57,80
 This is the book's best secondary-character chapter: a woman who answers the news that her son is alive, happy and gone by asking whether his wife can weave, yawning until her eyes run, sending word that the baker's mother is still living, and renting his room to the man she turned away at noon. What holds it, again, is the narrator's own habit, this time borrowed from the chapter before.
 
 **BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in every score at or above 8.5, in Emotion 9.0, in Casual 8.5 and in CVI-Launch 9.3 requires external validation (beta readers, editors, comp analysis). Prose is held at 8.0 to the standard that held Ch.1–9 in cycle 0. Several items here (P1's six-beat skeleton, P5's family of indifferent motions, P6's structural kinship with a voice-bank sample) are judgments about shape rather than strings, and a reader could fairly call them a strict bar; they are held because each reproduces a move the bible names as SPENT, a sample the rules say may not be reused, or a sentence from the immediately preceding chapter. P2 (the reading-time measure) and P4 (the comparison used twice) would hold the floor on their own. Casual 8.5 assumes a romance reader who is patient with a second chapter without the hero; a reader who misses the yawn could put it at 8.0, which would fail the gate, so the PATH's #13 (the blind moved, leaving the yawn and the broom unrivalled) matters for Casual as well as for Emotion. CVI-Launch 9.3 is a one-chapter formula and is not a book forecast.
+
+---
+
+## RE-EVALUATION — polish cycle 1 (2026-10-19)
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Text:** `manuscript/chapters/chapter-10.md` after book-editor cycle 1 (`evaluations/revision-chapter-10-cycle1.md`, 17 entries). **2,446 prose words** (shape_check), 2,457 by style_check, 2,624 by `wc -w` (incl. header). Target 2,800 (−12.6%). That is 54 words under the writer's 2,500 range floor. STATE has no per-chapter floor, so it is not a defect. Do not pad.
+**Read against:** the cycle-0 evaluation above (every P item, Revision row and Strength); the revision log; Ch.9 ¶278 and ¶408 (the two skeletons P1/P2 lifted); Ch.5, 7 and 8 for every changed sentence; all 13 voice-bank samples. Every changed sentence was 3/4/5-gram scanned against Ch.1–9 and the samples with a scratch script, then checked in-chapter by hand. Every replacement string I prescribe below was **applied to a scratch copy of the book folder and run through the real gate suite**, so none of them should trip a gate. Git was not run and the manuscript was not touched. **¶N = line number in the revised file.** The ¶46 split and the blind's move shift cycle-0 numbers: **+4 from cycle-0 ¶46 to ¶126** (the formula ¶56, Jerusalem ¶68, the yawn ¶94, the postcard ¶98, the address ¶126, "He says the arm has knit" ¶128, the wool ¶130), then **+2 from cycle-0 ¶130 on** (the tunic ¶132, the name ¶136, Nikaso ¶140–¶158, the counterfactual ¶160, the reply ¶162–¶188, the sweep ¶190, the close ¶194–¶200).
+**Measured here, not taken from the log:** `bash books/the-hour-of-ash/tools/check_chapter.sh 10` (run from /home/user/Books): **every gate is clean.**
+- Style: 2,457w, simile 0.4/1k, adverb 3.7/1k, em-dash 0, **foreshadow 0**.
+- Grammar 0. Rhythm 0 flagged. Show/tell: no flags (37.6%).
+- Voice-wear strict: clean.
+- 5a tic gate: clean. Ch.10: and-chains 1/9, credential asides 0, negation pivots 0, 'So' openers 0, no gesture class charged.
+- 5c echo scan: 0. Command echo: none.
+- Metaphor: fig 0.4/1k, 1 simile, median 15, 0% over 40 words.
+- Shape: CLEAN. Ch.10 is `short-punch` → `quiet`, 0 breaks, **dialogue 40% (raw 990/2,446 = 40.47%)**, median 15. Book: 54,216 words over 10 chapters.
+- **Band headroom correction:** the log says about 3 narration words of headroom. It is **1**. At 990 quoted words the meter rounds to 40 down to 2,445 words and to 41 at 2,444.
+
+### PATH items, verified one by one
+| PATH item | Now | Verdict |
+|---|---|---|
+| 1 Logic: ¶64 → ¶68 | "Jerusalem had fallen in the summer just gone, and its temple with it, burning." | **CLEARED.** The date has an antecedent, and the lowercase "temple" matches Ch.5. The Armada sentence is kept, as ruled. |
+| 2 P1 the curse-tablet skeleton (¶6, ¶54) | ¶6 "…wanted it known. One end had stood in wet somewhere and dried with a brown tidemark across it. The thread round its middle was knotted under a thumb of gray clay." ¶54 "The clay broke from the knot at the first push, and the thread slid off over the end. Unfolded, the papyrus was mostly creases and needed both my hands to keep it flat. The hand inside was small and level from top to foot." | **CLEARED.** Every identifying mark of Ch.9 ¶278 is gone: the "It was a [sheet/strip] of [material]" opener, the palm/fist/forearm rulers, "worked [x] out/loose", the slow fold-by-fold opening and the material simile. "in one piece" is 0. **What is left** (a stain, a fastener, an unfolding, the hand) is what any sealed travel-letter has. It is split across two places 48 lines apart, in a new order, and its only shared words are "creases" (×1 each) and "wet" (Ch.9 "lain in wet ground"; Ch.10 "stood in wet somewhere", in the tidemark sentence I preserved as Strength #1). The editor's Concern #2 is answered: it reads as its own beat. "both my hands to keep it flat" is the chapter's best new tactile fact. |
+| 3 P2 reading-time measure (¶134 → ¶136) | "She looked at it from where she stood, and came no nearer. From there, in that hand, it was any name in Phocis." | **CLEARED.** "the time it would have taken" and "seven letters" (#13) are 0. |
+| 4 P3 speech ledger (¶72 → ¶76) | "Kallia corrected none of it. The Greek was his, from beginning to end." | **CLEARED, and better than I forecast.** It lands four lines after "Two and a half," … "At the vintage.", so the reader has just watched her correct the letter. She corrected the length of his absence and none of his wife. Ch.7's correcting habit (¶126) is the re-read reward. "since October" is gone from the sentence about his words, which removes the nearest trace of the parallel. |
+| 5 P4 purse comparison (¶44) | "Once, going past the jar, she touched the place through her clothes." | **CLEARED.** The pickpocket/purse vehicle and the flat hand are 0. *Trace:* the passing-touch frame occurs once before, in Ch.5 ¶5 ("I touched the hub as I went by"). That is Mara, five chapters back, in different words. No change. |
+| 6 P5 held silences (¶112 → ¶116; ¶130 → ¶132) | ¶116 "She wanted no reply to that, and I made none." stands alone. ¶132 is unchanged: "…and every so often it moved." | **¶116 CLEARED.** The silence now belongs to the reader, and Kallia's work-suspended tell is down to two expressive uses (¶126, ¶130). **¶132 was kept by my own cycle-0 conditional**, so it is not charged to the editor or to the floor. It is ruled below (point 2). |
+| 7 P6 sample-08 pair (¶158 → ¶160) | "Nobody in that court or in that lane could read a word, and I might as easily have made the roof into so much talk about rain and left out the father with no son of his own." | **CLEARED.** The anaphora, the 2+1 shape and "could have told" are gone; "could have" in Ch.10 is 0. #3 is cleared with it. One logic snag is new (N3 below). |
+| 8 P7 the fatter packet (¶196 → ¶198) | "I read it once more to myself, from the greeting down to the date, and rolled it up." | **CLEARED.** No size, no weight, no refold, no lips. The closing run is now plain from the gate's bounce to the last line. |
+| 9 #8 shoes exit (¶194 → ¶196) | "The gate came to behind her and bounced once. Up at the last door the broom still lay over the threshold, from post to post." | **CLEARED.** The gait/footwear exit and the double with Nikaso's receding voice are gone. The anchor now follows the bounce directly, which is better. |
+| 10 #9 voice channel (¶94 → ¶98) | "The oxen went by while I was still at that desk." | **CLEARED off the voice channel** ("voice went on" is 0). **But my own string has two faults on the page** (N4 below). |
+| 11 #11 sample-09 (¶118 → ¶122) | "She was answering the letter, and I raised it for her." | **CLEARED.** "said it to the" is 0. |
+| 12 #13 the blind moved (→ ¶48) | The text is byte-identical, between "…and spun." and "I sat on the step…". | **CLEARED in function.** It now reads as the first warm afternoon's work, before anyone has read a word. The blow at ¶126–¶130 stands on stillness and the wool run back, and the broom is the chapter's only displaced-labor answer. Concern #3 is answered: it responds to nothing. **The move created N2** (below). |
+| 13 #10 body-ruler double | — | **CLEARED by #1** (the forearm is gone; "at the length of her arm" is kept). |
+| ENTITY CH10-5 (¶140) | "It was Nikaso, from along the lane, …" | **CLEARED.** It is consistent with Ch.8 ¶30 "Midway along the lane". The shared 3-gram is geography, not an echo. |
+
+**All seven law items P1–P7 are cleared** (P5 to the extent my conditional asked), along with the logic item, #8, #9, #11, #13 and the entity fix. Every cycle-0 string I quoted as a defect now greps 0 in Ch.10.
+
+### The editor's departures from my strings
+| ¶ | My string → editor's | Ruling |
+|---|---|---|
+| ¶198 (fix 7) | "…and folded it." → "…and rolled it up." | **ACCEPT; better.** "and folded it" was sample-12's refold, the exact slot P7 removed, and I missed that. Rolling an opened papyrus is a different act and carries no size. *Trace:* "rolled" ×2 in the chapter (¶48 the blind "hung rolled up"; ¶198). 150 lines apart and a different object. No change. |
+| ¶140 (CH10-5) | "from down the lane" → "from along the lane" | **ACCEPT.** Mine tripped voice-wear and the echo scan (Ch.7 ¶218 "down the lane with"). |
+| ¶136 | "it could have been any name in Phocis" → "it was any name in Phocis" | **ACCEPT; better.** The flat statement is Mara's knowledge of what Kallia sees, and it takes a "could have" out. "from where she stood … From there" re-anchors on purpose. Keep. |
+| ¶160 | "could have caught me if I had read the roof as…" → "could read a word, and I might as easily have made the roof into so much talk about rain…" | **ACCEPT; better.** "made the roof into so much talk about rain" now has an in-scene referent: Kallia did exactly that ("A roof you sit on," … "Where does the rain go?"). The Devoted reader gets it. The new premise clause needs one word (N3). |
+| ¶54 | "broke away from the knot whole … the thread loosened under my thumbnail … and covered both my palms" → "broke from the knot at the first push … slid off over the end … mostly creases and needed both my hands to keep it flat" | **ACCEPT, all of it.** Each of my strings had a trap he names (Ch.1's thumbnail, "into a long", "than it had looked"). "mostly creases", moved from my ¶6 string to the opening where the folds are, is better placed. |
+| ¶6 | my "The papyrus had been folded over and over on itself until it was mostly creases." → cut; stain before fastener; "round its middle" | **ACCEPT** the reorder; the first sentence already says "folded down very small". It created N1's antecedent blip (below), which costs two words to fix. |
+| ¶48 (the blind) | "after '…to work without a cloak.'" → two sentences later, after "…and spun." | **ACCEPT.** "She came back to her place." needs the place set up first, and "one-handed" needs the spindle in her hand. The cost is N2's doublet, a word-neutral fix to ¶46 that leaves the blind's text byte-identical. |
+
+Fifth cycle running: the editor caught my prescriptions tripping gates or samples, and four of his departures (¶198, ¶136, ¶160, ¶54) read better than my strings.
+
+### Ruling on the trade-off: the dialogue band against the spent tunic
+**The spent move matters more, and the band does not have to lose.**
+- **The band is a pacing-design target.** Its purpose (a talk-forward chapter, 30–40%) is met at 39.9% or at 40.5%. No reader can see the difference between the meter rounding to 40 and rounding to 41.
+- **The held silence measured by an indifferent motion is reader-visible.**
+  - The Critic named it in cycle 0, and the family was declared SPENT after Ch.9 (car, disc buyer, cart).
+  - With ¶116's spindle gone, the tunic is now the **only** beat between the wrong comfort ("He says the arm has knit,") and "Which is his name?". That is the chapter's most exposed silence, so it is where the move is most visible, not least.
+- **It is not charged to the floor.** The editor kept it on my written conditional ("if shape_check reads above 40, keep ¶130 whole"). Holding the floor on it now would move the goalposts.
+- **The narration to replace it.** Cut ", and every so often it moved" (−6). That leaves exactly what cycle 0 sanctioned as "a time marker, not a measure": "The chickpeas had gone warm in their basket. A lodger's tunic was drying on the rail above us."
+  - **Do not fill the slot with another clause.** Anything that moves, drips, steams or casts a shadow there is the same family again. A static detail about the tunic invites a reading as the absent son's clothes.
+  - **Put the six words where the text needs them:**
+    - ¶98 "The oxen **and the man to drive them** went by while I was at that desk." (+5 net). This fixes N4.
+    - ¶6 "One end **of it** had stood in wet…" (+2). This fixes N1.
+    - ¶160 "Nobody **else** in that court…" (+1). This fixes N3.
+  - With the ¶44 recast (−1) and the ¶46 recast (0), **the set nets +1: 990/2,447 = 40.46%. That is in band, with 2 words of headroom instead of today's 1.**
+  - The whole set was run through `check_chapter.sh` on a scratch copy: style, grammar, rhythm, show/tell, voice-wear strict, tic gate, echo scan 0 and shape CLEAN.
+  - **Do these together.** Any one of them alone moves the meter.
+
+### Did the cycle introduce anything?
+- **N0. Pattern #11 now crosses the commercial density cap.** This is a measurement consequence; the cycle added no instance.
+  - Cycle 0 found 2 instances at 0.78/1k (2,563w): ¶44 "Letters came in two kinds, I thought, and either kind got read at once: the bad to be done with, and the good to be had." and ¶68 "I knew it the way I knew the year of the Armada, as a date on a page with a fire in it."
+  - Both remain. The cycle cut 117 words, so the same 2 now sit at **0.82/1k (2/2.446k; 0.81 by style_check's 2,457)**. That is over the hard check's commercial line (">6 instances OR >0.8/1k → cap Prose at 7.5").
+  - Cycle 0 wrote "P1's fix and Revision #12 do not add any". That checked the numerator and not the denominator, and it is my error. The rule is labelled HARD and the evaluator "MUST catch it", and Ch.9 cycle 1 applied the gesture cap at its exact threshold. **I apply it: Prose is capped at 7.5, 8.5 on merit.**
+  - **The fix is one sentence (PATH 1).** It is ¶44, the sentence cycle 0 already counted three times (#1, #11, #16). The Armada sentence stays (an underline; kept by Revision #12).
+- **N1. The ¶6 antecedent (trace, made by the reorder).** "…a young man … who had been sick on the boat from Aigion and wanted it known. One end had stood in wet somewhere…". The nearest nouns are the boat and the young man, so "One end" reads for a beat as the boat's. Before the cycle, "It was a strip of papyrus…" sat in between. Fix: "One end of it" (+2), which is part of the band set.
+- **N2. "beside the lean-to, where the hearth was…" (¶46) → "She went to the front of the lean-to, where a reed blind hung…" (¶48)** (trace, made by the move). Two consecutive sentences, across a paragraph break, each "She [verb] … the lean-to, where …". The Critic hears it. Fix ¶46, not the preserved blind: "beside the lean-to **that held the hearth** and all the kitchen the house had" (word-neutral; "that held the" and "lean-to that" are 0 in Ch.1–9 and the samples).
+- **N3. ¶160 "Nobody in that court … could read a word"** (logic trace, made by the recast). The narrator, the one reader, is in that court. The old "not a soul … could have told the difference" implied "but me" more softly. Fix: "Nobody else" (+1; "Nobody else in" is 0).
+- **N4. ¶98 "The oxen went by while I was still at that desk."** (my cycle-0 string, two faults now visible on the page):
+  - (a) "still" ×2 in adjacent sentences ("with the castle still in it. … while I was still at that desk").
+  - (b) After a paragraph about a library, "The oxen went by" can be read for a beat as real oxen in a Delphi lane. The Hostile and the Casual reader both catch it.
+  - Fix: "The oxen **and the man to drive them** went by while I was at that desk." This makes them the letter's own oxen. The man who drives them because Ariston cannot is a dry, sad thing to have pass by unheard. It drops "still" and adds 5 narration words.
+  - **Do not use "while I was back at that desk"**: "I was back at" fails voice-wear strict against Ch.2 ¶15 "On Monday I was back at work" (tested). Do not use "while I stood at": it would be the chapter's seventh "stood".
+- **Echo/n-gram scan of every changed sentence against Ch.1–9 and the voice bank:** the only two hits are generic. "read it once" (Ch.9 ¶408's "might read it once", in pre-existing ¶198 text; a different sense) and "along the lane" (Ch.8 geography). 5c echo scan: 0.
+- **Pre-existing traces, not made by the cycle, no change:** "Once more she went over them" (¶190) / "I read it once more" (¶198); "had stood in wet" against Ch.9 ¶278 "had lain in wet ground" (the preserved tidemark sentence).
+- **Tics:** no verbal tic and no refrain. Kallia's "Then" retort 1; "living" ×5 and "cup" ×6 are unchanged and designed (both CLOSED after Ch.10). Name-asks 2 (closed).
+- **Gestures:** no class charged. Kallia's work-suspended tell is at 2 expressive uses, as cycle 0 asked.
+- **Spent moves:** none added. The single surviving SPENT item is the tunic clause, ruled above.
+- **Parallel law:** cleaner than cycle 0. "since October" is gone from the sentence about his words, and the postcard trace stands without a kicker.
+- **Strengths: none damaged.** Checked on the page, all intact:
+  - The first sentence and the last paragraph, byte-identical.
+  - The gate exchange.
+  - The Patrae man's bread.
+  - The formula.
+  - "Which arm?" / "He was never any use with the left,".
+  - "Two and a half," … "At the vintage."
+  - "looking for a loom".
+  - **The yawn, byte-identical.**
+  - "Here it's for the father's father."
+  - "Emesa was Homs." and the postcard.
+  - "Bought?" / "It's come, then, whichever it is."
+  - The neighbor-news answer, byte-identical.
+  - "For the house there was no line…"
+  - The wrong comfort and the wool run back.
+  - The blind's text, byte-identical.
+  - Nikaso, whole.
+  - The reply, ¶162–¶188, whole (the ugly sentence included).
+  - The sweep ("nothing came over").
+  - ¶192–¶194, byte-identical.
+  - The broom anchor.
+
+### Anti-AI re-scan (2.45k; commercial band)
+| # | Result | Count, density | Note |
+|---|---|---|---|
+| 1 | FOUND minor | 1 (0.41) | ¶44 "the bad to be done with, and the good to be had" (unchanged) **−0.125** |
+| 3 | **CLEAR** | 0 | the ¶158 2+1 anaphora is gone (cycle 0: −0.125) |
+| 7 | **CLEAR** | 0 | the "could have told the difference" cadence is gone |
+| 11 | **FOUND moderate; OVER THE CAP** | 2 (0.82) | ¶44 (colon unpack), ¶68 (Armada extension) **−0.25**; caps Prose 7.5 (N0) |
+| 13 | **CLEAR** | 0 | "seven letters" is cut (cycle 0: −0.125) |
+| 15 | trace | — | ¶6 is now two short facts; "mostly creases" is an impression, not an inventory (cycle 0: −0.125) |
+| 16 | FOUND minor | 1 (0.41) | ¶44 "Letters came in two kinds…" (unchanged) **−0.125** |
+| 17 | FOUND minor | — | the gate and reading Q&A, unchanged **−0.125** |
+| 18 | trace | — | blind and packet cleared; only "It was a good while yet till the lamps." is left (WATCH, unchanged; I rated it 8 for plainness in cycle 0) (cycle 0: −0.125) |
+| 2, 4, 5, 6, 8, 9, 10, 12, 14, 19, 20 | clear | — | "Kallia corrected none of it. The Greek was his…": the second sentence states whose words they are and does not unpack a comparison. Trace at most; not counted under #11. |
+
+**4/20 found (cycle 0: 8/20). Total −0.625 (cycle 0: −1.125).** CLEAN band (commercial 0–8). The over-correction flag does not fire. **#11 hard check: 2 at 0.82/1k, OVER the >0.8/1k cap → Prose capped at 7.5.** After PATH 1 the count is 1 at 0.41/1k (minor), and #1 and #16 clear with it: **2/20 (#11, #17), −0.25.**
+
+### Genesis Score — cycle 1
+| Dimension | Cycle 0 | Cycle 1 | Evidence | Holds |
+|---|---|---|---|---|
+| Originality | 8.5 | **8.5 (holds)** | All eight inventions are intact (the yawn, "Which arm?", the neighbor news, "father's father", the cup, "The house is full.", the horse-seller, the bread twice). | The beat subversion is the outline's. Not raised. |
+| Theme | 8.5 | **8.5 (holds)** | Hold (a), the weight gathering at the end, is two-thirds cleared: the blind is now plain seasonal work (¶48) and the fatter packet is gone (¶198). "Kallia corrected none of it." (¶76) adds a quiet theme beat: she corrects the time he was gone and nothing about the life he chose. | "a good while yet till the lamps" remains (WATCH). Clearing defects is not a 9.0 lever. Not raised. |
+| Characters | 8.5 | **8.5 (holds)** | The cycle-0 WATCH is answered: Kallia's work-suspended tell is at 2 expressive uses (¶126, ¶130). Her Ch.7 correcting habit now carries the perfect reading (¶76). Cover-the-name PASS. Mara chaos 4/4, three inhabited: the postcard still breaks into the reading, the ¶44 all-or-nothing rule and the misread yawn are intact, and the wrong comfort is unchanged. | Not raised. |
+| **Prose & Voice** | 8.0 | **7.5 (CAPPED; 8.5 on merit)** | **On merit +0.5 to 8.5.** P1–P7 are all cleared (table above: 7 cited changes, far past the three a +0.5 needs). Stopping sentences intact (¶94 the yawn, ¶194, ¶186). **New underlines:** "Kallia corrected none of it. The Greek was his, from beginning to end." (¶76); "From there, in that hand, it was any name in Phocis." (¶136); "Unfolded, the papyrus was mostly creases and needed both my hands to keep it flat." (¶54); "I might as easily have made the roof into so much talk about rain" (¶160). The ugly sentence is intact (¶168). Anti-AI −1.125 → −0.625. | **#11 hard check: 2 instances at 0.82/1k, over the commercial cap** (N0). The cap is mechanical, and the chapter's shrinkage tripped it, not any addition. It lifts on PATH 1. N1–N4 are traces and are not counted against merit. |
+| Pacing | 8.5 | **8.5 (holds)** | Hold (a) is cleared: the Jerusalem line has its antecedent (¶68). The plain stop's closing run is now plain from the gate's bounce on (¶196–¶200). Ledger ✓ on every field (`short-punch` → `quiet`, 0 breaks, 40%, median 15). Value shift −− for Kallia, intact. | The two narrator excursions inside the reading (¶68, ¶98) remain, as designed. Not raised. |
+| Emotion | 9.0 | **9.0 (holds)** | Both cycle-0 holds are cleared: the closing run no longer carries a weighted object (¶198), and the blind no longer pre-empts the broom (¶48). The broom now follows the gate's bounce directly (¶196). Anchor, the three-way surprise, ≥6 techniques and the yawn as body rebel are intact. | **Not raised to 9.5.** That needs the best-in-class tier, and the yawn's subtlety still loses some casual readers. Held at 9.0, with the cycle-0 BIAS note. |
+| Immersion (Dim 7) | 8.5 | **8.5 (holds)** | "needed both my hands to keep it flat" adds touch to a narrow sensory range. "its temple" is consistent with Ch.5. #15 is down to a trace. | The narrow sensory range is unchanged. Not raised. |
+| **FLOOR** | 8.0 | **7.5** (Prose, capped) | **8.5 on merit** | |
+| **AVERAGE** | 8.50 | **8.43** (59.0 / 7) | **8.57 on merit** (60.0 / 7) | |
+
+**Cross-check of neighbors:** no dimension rose more than 0.5 on merit. Theme, Pacing, Emotion and Immersion cleared holds without a raise. **The floor stayed on Prose and moved from content (P1–P7, cleared) to a density cap that the cuts themselves tripped.** The number is lower than cycle 0 and the chapter is better. Both are true, as in Ch.9 cycle 1.
+
+### Pacing check (one line for `feedback/progress.md`)
+Ch.10 (cycle 1): 2,446w (target 2,800, −12.6%; 54 under the writer's range floor; no per-chapter floor in STATE; book 54,216 vs 57,800 cumulative, −6.2%, ≈244.2k projected against the 245k target: flag, do not pad; 220k floor safe) · dialogue 40% (raw 40.47; 30–40 ✓; 1 word of headroom, 2 after the PATH) · 0 breaks ✓ · gear mid, median 15 ✓ · single scene between a collage and a chronological chapter ✓ · gate brisk / belt hours slow / reading held then quickened / Nikaso a burst / sweep slow ✓ · value shift −− ✓ · `short-punch` / `quiet` (9w) ✓ · **PLAIN STOP honored, and the closing run is now plain too** ✓ · hinge 0 ✓. **Verdict: OK.**
+
+### Readers (deltas only)
+- **Devourer:** no change in speed. The blind no longer reads as a signal, so the broom is the one thing they carry out. A beat of "what oxen?" at ¶98 (N4). Would not stop.
+- **Critic:** every cycle-0 disappointment is gone except one: "the tunic stirring to measure the silence, still". Will underline "Kallia corrected none of it." and "it was any name in Phocis." **New snags:** "the lean-to, where … the lean-to, where" in consecutive paragraphs (N2); "Letters came in two kinds" is still a coffee-mug line (N0 / PATH 1).
+- **Hostile:** the Jerusalem date holds and the letter's opening is its own. **New:** "'Nobody in that court could read a word': she's in the court, reading" (N3); "'One end' of the boat?" (N1). Verdict: "Logic holds; two loose pronouns."
+- **Casual (8.5, holds):** the blind and the packet were things they never consciously noticed. Removing them leaves the yawn, "Ariston's room" and the broom unrivalled, which makes the chapter's ending clearer to them. **Not raised:** the cycle-0 reasons are unchanged (the emotional center is a secondary character, the hero is absent for a second chapter, and the yawn is subtle). **Would buy; stays to the last line.**
+- **Devoted:** will add "Kallia corrected none of it" four lines after "Two and a half", and the roof she herself turned into rain talk.
+
+### CVI
+**CVI-Launch:** Commercial Pacing 8.0 × .2 (the two excursions in the reading remain) + Tomorrow 6 anchors → 10 × .2 + Casual 8.5 × .2 + Shareability 7.5 × .2 + Concept 10 × .1 + Human Closeness 10 × .1 = 8.8, **+0.5 strong anchor = 9.3** (unchanged). **CVI-Legacy:** 8.5 × .30 + 8.5 × .25 + 2 × .20 + 7 × .15 + 5 × .10 = **6.6** (provisional, unchanged). Divergence: none by rule (9.3 − 7.5 = 1.8; on merit 0.8).
+
+### Cross-reader matrix (cycle 1)
+| Issue | Dev | Crit | Host | Cas | Devo | Severity |
+|---|---|---|---|---|---|---|
+| N0 #11 at 0.82/1k (¶44, ¶68) | | ✓ | | | | **BLOCKING by the hard check** (PATH 1, one sentence) |
+| ¶132 tunic "every so often it moved" (SPENT family, 1 left) | | ✓ | | | ✓ | SHOULD FIX (ruling above; PATH 2, band-neutral set) |
+| N4 ¶98 "The oxen went by" (literal reading; "still" ×2) | ✓ | | ✓ | ✓ | | **IMPORTANT (3 of 4 core)**, my own string; PATH 2 |
+| N3 ¶160 "Nobody … could read a word" | | | ✓ | | ✓ | INVESTIGATE (PATH 2, +1 word) |
+| N1 ¶6 "One end" antecedent | | ✓ | ✓ | | | SHOULD FIX (PATH 2, +2 words) |
+| N2 ¶46/¶48 "the lean-to, where" ×2 | | ✓ | | | ✓ | SHOULD FIX (PATH 3, word-neutral) |
+| "Once more" (¶190) / "once more" (¶198) | | ✓ | | | | trace (optional F1) |
+| Hero absent a second chapter | ✓ | | | ✓ | | carried → the Ch.11 brief (unchanged) |
+
+### VERDICT — cycle 1
+**POLISH.** Genesis Floor **7.5** (Prose, capped by the #11 hard check; **8.5 on merit**) | Average **8.43** (**8.57 on merit**) | Casual **8.5** | CVI-Launch **9.3** | CVI-Legacy 6.6 (provisional) | pacing **OK** | mechanical suite all clean (run here; echo 0, shape CLEAN) | foreshadowing **0** | no-parallel rule held, cleaner than cycle 0 | **all seven narrator-law items P1–P7 cleared**, plus #8, #9, #11, #12, #13 and CH10-5 | AI patterns 4/20 (clean band), but #11 density 0.82/1k is over the cap. **Gate: Floor ≥ 8.5 ✗ (7.5) AND Casual ≥ 8.5 ✓ AND pacing OK ✓ AND gates clean ✓.** One sentence holds the gate. The cycle added nothing to it: the chapter got shorter around it.
+
+## PATH TO 8.5 (cycle 2; one floor-holding sentence plus a band-neutral set)
+**Prose 7.5 (capped) → 8.5 requires #11 at ≤0.8/1k, which means one of its two instances removed, and nothing else.** Items 2 and 3 clear this cycle's residue and my trade-off ruling. They do not hold the floor, but they share the band arithmetic with item 1, so do them in the same pass. **The whole set below was applied to a scratch copy of the book and passed `check_chapter.sh 10` and shape_check (dialogue 990/2,447 = 40.46%, 2 words of headroom).**
+1. **¶44 (floor-holding):** `Letters came in two kinds, I thought, and either kind got read at once: the bad to be done with, and the good to be had.` → `Whatever was in a letter, I thought, a person read it at once, standing at the door it came to, and the pots could wait.` (−1w).
+   - This removes #11's colon-unpack, #1's symmetric pair and #16's coffee-mug line in one stroke.
+   - It keeps Mara's all-or-nothing rule (the chaos marker), and the afternoon still disproves it: Kallia took this one at the gate and "returned to the pots". The repeat of "the pots" is the point. Leave it.
+   - Pre-checked 0 in Ch.1–9 and the samples: "Whatever was in", "a person read", "the door it came", "at once, standing".
+   - **Do not use** "before anything else" (Ch.8).
+   - Keep the Armada sentence (¶68): an underline, kept by Revision #12.
+2. **The band-neutral set (ruling on the trade-off; N1, N3, N4). Apply all four or none:**
+   - ¶132: `…on the rail above us, and every so often it moved.` → `…on the rail above us.` (−6). Add nothing in its place.
+   - ¶98: `The oxen went by while I was still at that desk.` → `The oxen and the man to drive them went by while I was at that desk.` (+5).
+     - **Do not use** "while I was back at" (fails voice-wear strict against Ch.2 ¶15, tested) or "while I stood at" (a seventh "stood").
+   - ¶6: `One end had stood in wet somewhere…` → `One end of it had stood in wet somewhere…` (+2). The rest of the tidemark sentence stays verbatim.
+   - ¶160: `Nobody in that court…` → `Nobody else in that court…` (+1).
+3. **¶46 (N2):** `She stood in it beside the lean-to, where the hearth was and all the kitchen the house had, and spun.` → `She stood in it beside the lean-to that held the hearth and all the kitchen the house had, and spun.` (0). The blind paragraph (¶48) stays byte-identical.
+4. Re-run `bash books/the-hour-of-ash/tools/check_chapter.sh 10` and `python3 tools/shape_check.py books/the-hour-of-ash`. Expect 2,447 words and dialogue 40%.
+   - The first sentence and the last paragraph must stay byte-identical (`short-punch` → `quiet`).
+   - Grep: `Letters came in two kinds` 0; `every so often` 0; `could have` 0; `lean-to, where` 0.
+
+**With 1–3 applied and nothing else changed, I expect Prose 8.5 (the cap lifts; merit as judged above), Floor 8.5, Average 8.57, Casual 8.5 held → PASS.** The cycle-2 re-evaluation needs only to confirm these seven lines, the gate run and the #11 count (1 at ≈0.41/1k). Everything else was verified above. Do not touch any strength listed under "Did the cycle introduce anything?".
+
+**Optional finalize fixes (not required for the gate):**
+- **F1 ¶198:** `I read it once more to myself` → `I read it over again to myself` (0w). This breaks the "Once more" (¶190, Kallia's re-sweep) / "once more" (¶198, Mara's re-read) pairing, which a careful reader could take as a pointed rhyme, and drops the Ch.9 "read it once" 3-gram. "read it over" is 0. **Re-check the meter after it.**
+- **No change:** "rolled" ×2 (¶48, ¶198); "from where she stood … From there" (¶136); the passing touch (¶44) against Ch.5 ¶5; "a good while yet till the lamps" (WATCH, as ruled in cycle 0).
+
+**Bookkeeping (orchestrator):** sync the character-bible Ch.10 blocks to the final page (cycle-0 Revision #16, still pending), plus this cycle's lines:
+- "Kallia corrected none of it."
+- "it was any name in Phocis"
+- "made the roof into so much talk about rain"
+- "rolled it up"
+- "from along the lane"
+- after the PATH: the ¶44 belief, the oxen and the man, "Nobody else"
+
+**At-risk entries for Ch.11 on:**
+- Held silence measured by an indifferent motion: SPENT, **0 more anywhere**. Ch.10's tunic is removed by the PATH; if the author keeps it, it is the last.
+- Speech ledger: SPENT.
+- Object weight or size at a close: SPENT.
+- "X corrected none of it": once.
+- Kallia's work-suspended tell: her farewell (Ch.16) must not use stopped work or wool (carried).
+
+**Pipeline (UPDATE RULE, root):**
+- (a) **The #11 hard check needs a word-count guard.** At 2.4k words, two instances cross 0.8/1k. A chapter can therefore fail by being cut, and a short chapter can never carry the two keepers a long one can. Either set a minimum instance count before the density cap applies (for example, density only from the 3rd instance in chapters under 3k), or keep the rule as written and have the editor's log report the #11 density after cuts. **Until the author rules, I apply it as written.**
+- (b) The editor's band-headroom figure should be computed, not estimated: the raw quoted/total ratio and the word count at which it rounds over. Here it was 1 word, not 3.
+- (c) Cycle-0 carry-over: the previous-chapter skeleton check, the simile-vehicle registry and the regexes in Revisions #2, #3, #5–#8 are still to be built (cycle-0 Revision #17).
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in every score at or above 8.5, in Emotion 9.0, in Casual 8.5 and in CVI-Launch 9.3 requires external validation from beta readers, editors or comp analysis.
+- **The 7.5 is a rule-bound cap, not a judgement that the prose got worse.** On merit Prose is 8.5: every item that held cycle 0 is gone.
+- A reader could fairly call the cap legalistic. Its trigger is 0.02/1k over the line, its cause is the chapter getting shorter, and one of the two instances (the Armada) is a keeper. It is held because the rule is labelled HARD, Ch.9 cycle 1 applied the gesture cap at its exact threshold, and the fix is one sentence that also clears #1 and #16. **If the author rules that #11 density applies only from a third instance in chapters under 3k words, the floor is 8.5 today and the chapter passes as it stands, tunic and all.** The band-neutral set would then be finalize work.
+- Casual 8.5 is unchanged and still rests on a reader catching the yawn. A reader who misses it could put Casual at 8.0, which would fail the gate. This cycle's moves (the blind and the packet out of the broom's way) make that less likely, not more.
+- CVI-Launch 9.3 is a one-chapter formula and is not a book forecast.
