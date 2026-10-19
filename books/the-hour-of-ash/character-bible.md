@@ -98,18 +98,26 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   *thoughts* are the narration itself and are not affected.) The commitment is her all-or-nothing distortion
   escalating inside one chapter (¶148 public silence → ¶378 private English); the beat of renouncing a register
   is SPENT after these two (see at-risk after Ch.7, cycle 1).
-- **Ch.8 as written (Writer, 2026-10-19; Parnassus, midwinter AD 71, a few days after the turn of the year):** the
-  commitment holds: she speaks no English at all, aloud or to herself, in the whole chapter (the cave included: she says
-  nothing to the rock). Her Greek stays uncontracted ("I talk," / "Not well." / "It is bread." / "Wet leather keeps whatever
-  shape it dries in." / "There is no he." / "It is very cold."). She leaves the flashlight in the bag under the stair
-  (forty torches would know a light that is not fire). At the crack: hand in flat to the wrist, cheek on the slab, no
-  scream, no blow ("This time I hit nothing, and there was nobody to laugh"), the hand warmed in her armpit; she finds the
-  pale scratches her shovel left in November. Her repairer's eye works on a fawnskin badly tawed, the stranger's strap
-  mended with paler leather and knotted twice, and a shrunk sandal she oils and bends flat (useful, not a credential).
-  Her joke, spoken (she cannot sing), finishes the husband verse: "And he was so small … that I lost him on the boat." /
-  "Smaller," / "I have made him bigger for the song." It is the first laugh she shares WITH others (Ch.7's step laugh was
-  silent and alone). Credential asides: detector 0; manual 2 (Euripides for the cry; Plutarch's frozen cloaks).
-  Unprompted memory: the Vermont brothers' Christmas-tree lot at Twenty-second and Pine and its oil drum (spent).
+- **Ch.8 as written (Writer, 2026-10-19; Parnassus, midwinter AD 71, a few days after the turn of the year. SYNCED to the
+  final page 2026-10-19, after dialogue-polish, disruptor, continuity repair and polish cycle 1; every quote below is on the
+  page, checked by script):** the commitment holds: she speaks no English at all, aloud or to herself, in the whole chapter
+  (the cave included: she says nothing to the rock). Her Greek stays uncontracted ("I talk," / "Not well." / "What has
+  stopped?" / "Why not wrap them over, as we have?" / "It is bread." / "Let me have it," / "Wet leather keeps whatever shape
+  it dries in," / "Longer than you will like." / "There is no he." / "It is very cold."). "I left the flashlight at the
+  bottom of my bag under the stair." (the page gives no reason; the reason is the reader's since Ch.5). At the crack she
+  "sent my hand in to the wrist", keeps her cheek on the slab, and "I left my hand in there until I had been fair to it";
+  no scream and no blow, only "There was nobody to laugh." (standing alone since cycle 1); she tucks the hand "inside the
+  himation, under my arm, where it ached as it warmed". She finds the pale scratches her shovel left in November, "after
+  the last of the earth was out". Her repairer's eye works on a fawnskin "tawed with the fat still on the belly", the
+  stranger's strap "patched over the instep with a square of paler leather, sewn on with a thong and set on askew", and a
+  shrunk sandal she works flat with Timo's hair oil (useful, not a credential). Her joke, spoken (she cannot sing),
+  finishes the husband verse: "And he was so small," … "that I lost him on the boat." / "Smaller," … "I have made him
+  bigger for the song." "I was laughing too." It is the first laugh a joke of hers starts, and the first she shares with a
+  group (Ch.4 ¶73 she laughed with the goat-boy "without knowing what at"; Ch.7's step laugh was silent and alone).
+  Knowledge asides by hand: 2 (Euripides for the cry; the Prometheus aside on the fennel pith). The frozen cloaks are no
+  longer hers: they are Nikaso's story on the stair (Plutarch, *De primo frigido* 953D, behind it, unnamed). Unprompted
+  memory: the Vermont brothers' Christmas-tree lot at Twenty-second and Pine and its oil drum (spent). Her pay "turned up
+  in a bank downtown every other Friday" (no intersection on the page).
 - **DISTINCTNESS GUARANTEE:** the only voice in the book that sees how a thing was made and where it was
   mended, against Valens, who sees where a thing or a man will move next.
 - **Sample line:** "Somebody's glued this before, look, there's an old line under the new one, and
@@ -254,11 +262,14 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   does not know her name. Spent: the boots-only sighting; "No." as his whole answer to a claim about her; the
   spitting-oak exchange (see at-risk after Ch.7: the fifth coin is settled off the page).
 
-- **Ch.8 as written (Writer, 2026-10-19; one glimpse only, no line):** at the corner of the last house, where the men
-  stop, holding the gray by her headstall with her face turned to the stable wall so the torches will not set her off,
-  his own back to the women like every other man; Mara knows him by the mule ("It was the gray, so it was Valens") and
-  sees only the gray's ears and his hand going up her neck. No face, no look, no romance signal. Spent: identifying him
-  by the gray.
+- **Ch.8 as written (Writer, 2026-10-19; one glimpse only, no line. SYNCED to the final page 2026-10-19):** at the
+  corner of "the last roof in Delphi" (a long low building with a stable at one end), where the men stop, holding the
+  gray by her headstall with her face turned in to the stable wall "so that the torches would not set her off"; "he had
+  his own back to us as well, like every man who had come that far" (the logic fix: the men in the street had been
+  watching). Mara knows him by the mule ("It was the gray, so it was Valens") and sees only "the mule's ears go back and
+  forward at the drums and his hand go up her neck". No face, no look, no romance signal. Spent: identifying him by the
+  gray. **Escalated by the Ch.8 eval (Cross-Book #4):** this is his second chapter as a glimpse; the Ch.9 writer prompt
+  should give him one spoken exchange with Mara (no romance signal in narration; the fifth coin is SPENT).
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -418,26 +429,46 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   it for?": "Dance. Drink. Freeze. Not as high as your cave." (one line; the beat that split it was cut). Still never
   touches Mara; still never speaks of herself (the jar and the house only).
 
-- **Ch.8 as written (Writer, 2026-10-19; the night on Parnassus):** opens mid-instruction while binding her own shoe in
-  blanket strips at the hearthstone: "And once we're above the last house you say nothing about men, not husbands and
-  not sons, whatever they've done to you this winter … Up there you talk about your feet, or the cold, or you hold your
-  tongue." ("not sons" is hers to say and she does not explain it). To "Why nothing about men?": "Because it's the
-  mountain." Tasks as answers ("Tear another; there's more blanket than there is evening." / "Hitch that up, or you'll
-  be on your face before the stair."). Moves the pin at Mara's shoulder "two fingers on the bronze and none on me" (still
-  never touches Mara). Her one "Then" retort: "Then you should have borrowed her boots." Her feud: Nikaso's sieve. Her
-  labor axis on the rite itself: "Somebody has to carry him, as somebody hauls the water." **Dances** with her kerchief off
-  and her gray hair down, "as she scoured a pot, all of her at once" (the rarity gloss is spent on this: her hair).
-  Knows where Mara went (the wet knees, the pitch): "In there." / "Was it shut?" (her one question about the cave). **The
-  Oracle (opens toward Ch.9):** "there's a god in the town who answers questions. He doesn't answer them in winter. Once
-  the road's clear of snow he sits down in his house and answers whoever's paid." / "Women can't go in to him. A man goes
-  in for you, with your question in his mouth, and brings you out the answer." / "Whoever you can get." / "It costs." /
-  "More than you've got. Ask a priest. He'll tell you more than it is." **Her varied reply (per the Ch.7 note):** to
-  "Have you asked him anything? The god?" she gives no answer at all (silence). In the pen she says nothing through the
-  farce, fishes a sandal out of the fire with a burning fennel stalk ("And who's going down that stair barefoot in the
-  morning? Who's to carry her?"), backs Mara ("Give it her, and hush. She'll do it if you hush."), gets no verse in the
-  song (a widow) and bends her face over her rags at Mara's joke. **Lies down** at the outer edge of the heap, wind at her
-  back: "Wake me when it's light. Those Thebans will have the pot scraped dry by now, and burnt the scrapings." Never
-  speaks of herself; no walk-off beyond one ("Then she went to help Philista get the women into a line.").
+- **Ch.8 as written (Writer, 2026-10-19; the night on Parnassus. SYNCED to the final page 2026-10-19, after
+  dialogue-polish, disruptor, continuity repair and polish cycle 1; every quote below is on the page, checked by
+  script):** opens mid-instruction, down on her heels at the hearthstone binding her own shoe in blanket strips, "her
+  hands did it while her eyes were on the pot": "And once we're above the last house you say nothing about men, not
+  husbands and not sons, whatever they've done to you this winter," … "Up there you talk about your feet, or the cold, or
+  you hold your tongue. Wind it harder than that, or it'll be round your ankle before you're halfway up the stair." ("not
+  sons" is hers to say and she does not explain it; the order-or-you'll-fall-before-a-place threat is this one, hers,
+  once.) To "Why nothing about men?": "Because it's the mountain. Tear another; there's more blanket than there is
+  evening." To "And if they ask me things?": "They'll ask you everything, every step up and every step down." / "You tell
+  them what I told the clerk, and not a word over." (Ch.7: Mara gave the clerk only her name; Kallia supplied the rest.)
+  To the Thebans' heckle: "The month's due on the day, wine or none," … "If the house burns down, you'll pay for the
+  house." (her money axis; the lentil reply is gone). To "Where on the plain do they dance?": "Where they danced the last
+  time." and then she moves the pin, "two fingers on the bronze and none on me" (no line with it: the draft's hitch-up order was cut;
+  still never touches Mara). In the lane: "Nikaso," … "you've a sieve of mine to mend before you borrow anything else in
+  this lane." / "When she likes." / "Do it at the top, where it's flat," … "I'll not lay you out on a stair." Her one
+  "Then" retort: "Then you should have borrowed her boots." **Carrying is hers:** she climbs with the wineskin slung
+  across her back on a cord ("Kallia carries it and I hold it", Nikaso), and her labor axis on the rite is "Somebody has
+  to carry him, as somebody hauls the water." (the eval flags it as a near-proverb, #16; her card strikes proverbs, so no
+  second such line). **Dances** with her kerchief off and her gray hair down to her shoulder blades ("I had seen it only
+  once before, plastered flat at the bath"), "stiff-elbowed, with her chin up, and she danced as she scoured a pot, all of
+  her at once, with no expression on her face" (the rarity gloss is spent on this: her hair; the second gloss, on the hold of her himation, was cut,
+  so rarity glosses are at 1). After the cave she looks at "the knees of the himation, which were black with wet" (the
+  knees only; the pitch is gone) and goes "to help Philista get the women into a line" (her one walk-off, no "Then" in
+  it). On the way: "Your knees are wet through," / "In there." / "Did you find what you went for?" (her one question
+  about the cave; Mara: "No. It was shut."). **The Oracle (opens toward Ch.9):** "there's a god in the town who answers
+  questions. He doesn't answer them in winter. Once the road's clear of snow he sits down in his house and answers
+  whoever's paid." / "Women can't go in to him. A man goes in for you, with your question in his mouth, and brings you out
+  the answer." / "Whoever you can get." / "It costs." / "More than you've got. Ask a priest. He'll tell you more than it
+  is." **Her varied reply (per the Ch.7 note):** to "Have you asked him anything? The god?" she answers with a question
+  back, "Who would I send in?", and no chore follows: "She walked on, and the wind took her flame flat and let it go
+  again." To Mara's question about the god in the basket: "He rides down on her head in the morning, and they put him
+  back in his house till the next time." **In the pen she crouches, never sits** ("Kallia crouched beside me with her shoes
+  off"; "She stayed crouched and let it go by her like weather"), her rags turned to the fire "like flatbreads on a
+  griddle"; says nothing through the farce, then fishes a sandal out of the fire with a burning fennel stalk, flicks it
+  clear and feeds the stalk to the fire ("And who's going down that stair barefoot in the morning? Who's to carry her?");
+  backs Mara ("Give it her, and hush," … "She'll do it if you hush."); "Kallia was no help" over the missing husband (she
+  "did not add one now"); Sostrata's eye goes past her without a verse, "which suited Kallia"; at Mara's joke she "bent
+  her face over her rags and did not raise it". **Lies down** at the outer edge of the heap, on her side, wind at her back,
+  dried rags under her cheek: "Wake me when it's light," … "Those Thebans will have the pot scraped dry by now, and burnt
+  the scrapings." Never speaks of herself.
 
 #### THEANO — the Pythia; a farmer's widow off duty (glimpsed Ch.8 unnamed, shouting at crows; Ch.13)
 - **Attention / worldview:** her own body (her knees, the descent into the adyton), the priests' petty
@@ -463,12 +494,13 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **Sample line:** "Once a month all summer that god has me down a hole on these knees, and those men won't
   spare me a stool. Well? Ask it. It's going to rain."
 
-- **Ch.8 as written (Writer, 2026-10-19; UNNAMED, unrecognised, texture only):** an old woman on a block of stone by her
-  door at the last gate but one, a basket of barley in her lap, throwing it over the snow a fistful at a time to the
-  crows and shouting at them for taking it: "Thieves … Black thieves, every one of you. That's not for you, and you know
-  very well whose it is." / "Go on, then. Take it. Choke on it." Her free hand stays on her knee; she gives the women not
-  a look, and none of them gives her one. Nobody names her or explains her. Ch.13 recognises her by situation only (the
-  crows); do not re-quote these lines there.
+- **Ch.8 as written (Writer, 2026-10-19; UNNAMED, unrecognised, texture only. SYNCED to the final page 2026-10-19 after
+  continuity W-05/W-15):** an old woman on a block of stone by her door at the last gate but one, a basket of barley in
+  her lap, throwing it "over the frozen ruts a fistful at a time" to the crows ("black on the white rime, walking about
+  with their shoulders up") and shouting at them for taking it: "Black thieves," … "every one of you. That's not for
+  you." / "Go on, then. Take it. Choke on it." "She kept her free hand on her knee the whole time, and her eyes on the
+  crows." (The draft's clause about whose barley it was and the no-look sentences were cut: no wink.) Nobody names her or explains her.
+  Ch.13 recognises her by situation only (the crows); do not re-quote these lines there.
 
 #### FELIX — Valens's mule-boy, bought off a Kirrha slaver c. AD 70 aged ~12 and freed with no papers; later sworn to Pompeii's gladiator school (Ch.11–40)
 - **Attention / worldview:** fame, fights, who is winning, who is watching. The arena is the most glorious
@@ -975,50 +1007,83 @@ finalize fixes. Every quote below is on the page, checked by script.)*
   giving up English in the storeroom.)
 
 #### Ch.8 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
-- **The stranger in the goat-hair cloak** (the woman Mara has never spoken to; UNNAMED by design): big, a black
-  shepherds' goat-hair cloak "round her like a tent"; her left sandal strap mended with a thong of paler leather and
-  knotted twice over the instep, the second knot tighter (Mara knows the feet, not the face: this is the woman who talked
-  to her about the cold at the spring every morning of her silent month). Keeps her sandals by her own feet; chews
-  something from a fold of her cloak with her eyes shut; "Not that one. … Mine are here." **Attention:** weather and
-  warmth, comfortably; she talks to strangers. In the heap: "You," / "You at the lions." / "Each morning I tell you about
-  the weather, and each morning you look at my feet." / "You're letting the cold in at this end." Takes Mara's **wrist**,
-  not hard (an unremarked inversion of the Ch.7 drover's grip at the same spring), and pulls her under the cloak: "Come
-  here, and bring your feet." / "It was worse the winter the spring froze. The lions had ice in their mouths a hand long.
-  We broke it with a hammer to get at the water." / "This? This is nothing. … We had a woman lose the end of her nose. …
-  Not that she ever used it much." Mara's whole answer: "It is very cold." If she is ever named, promote to a full card.
-- **The old woman with the winnowing basket** (the *liknon*): carries it on her head up the cliff without a hand to it;
-  "He's heavy this year." Tosses it like barley in a yard to wake the god. No other line.
-- **The tall woman in the fawnskin** (dappled side out, hooves knocking at her hip; badly tawed, splitting at the ribs).
+*(Synced to the final page 2026-10-19, after dialogue-polish, disruptor, continuity repair and polish cycle 1. Every quote
+below is on the page, checked by script.)*
+- **The stranger in the goat-hair cloak** (the woman Mara has never spoken to; UNNAMED by design): big, sitting with her
+  feet out and "a black goat-hair cloak round her like a tent, the shepherds' kind, with the snow lying unmelted on its
+  shoulders". "I would not have known her face." Her left sandal strap "had been patched over the instep with a square of
+  paler leather, sewn on with a thong and set on askew" (continuity W-14: no knot; Mara knows the feet, not the face: "I
+  had studied that patch at the spring every morning for weeks, while the woman who wore it stood beside me and talked
+  about the cold, and I had given her nothing but the top of my head"). Keeps her sandals by her own feet; chews something
+  she keeps in a fold of her cloak, slowly, with her eyes shut (the negation pivot before it was cut);
+  "Not that one." … "Mine are here." (without opening her eyes); "Even the big woman had opened her eyes" when the verse
+  stops. **Attention:** weather and warmth, comfortably; she talks to strangers. In the heap: "You," … "You at the
+  lions." / "Each morning I tell you about the weather, and each morning you look at my feet." / "You're letting the cold
+  in at this end." "She took my wrist and pulled" (the softening adverb was cut in cycle 1; still an unremarked inversion of the Ch.7
+  drover's grip at the same spring, and the narrator no longer points at it: the wrist coda was cut) and raises her cloak:
+  "Come here, and bring your feet." Under it: "her heat, a great store of it, and the coarse black hair of the cloak
+  against my face" (no smell, no breath at the neck since cycle 1). "It was worse the winter the spring froze," … "The
+  lions had ice in their mouths a hand long. We broke it with a hammer to get at the water." / "This? This is nothing.
+  You should have been up here the time before last. We had a woman lose the end of her nose." … "Not that she ever used
+  it much." She works her knees in behind Mara's; "Soon she went heavy against my back, and she was asleep." Mara's whole
+  answer: "It is very cold." If she is ever named, promote to a full card.
+- **The old woman with the winnowing basket** (the *liknon*): "a broad shallow scoop of woven reed with a cloth tied over
+  it", carried on her head up the cliff "without putting a hand to it"; kneels and lodges it on Philista's rock; unties
+  the cloth (a round loaf, a wrinkled apple, a twist of raw wool, a sprig of ivy); "She lifted it in both hands." / "He's
+  heavy this year." The toss is "the winnowing toss, a lift and a jerk to let the wind take the chaff" (cycle 1 cut the
+  summer-threshing gloss Mara could not have seen). No other line.
+- **The tall woman in the fawnskin** (dappled side out, its little black hooves knocking together at her hip; "tawed with
+  the fat still on the belly", stiff as card and "splitting where the ribs had been").
 - **The girl who brings the fire up from the pot**; **the woman at the front with fire in a pot**; **the two younger women
-  who go down the stair** ("The next bend's gone … there was none."); **the crying mother** ("My two are with his
-  mother. She'll have them in her bed with the dog.") and **her neighbor** ("Then they're warmer than you … glad of a
-  night off from you."); the women asking about the long way, a light, a brother bringing the men; **the women comparing
-  feet** in the pen ("I've three toes gone white." / "Mine are blue." / "You said a man … Up here." / "I said husband. A
-  husband isn't a man."); **a woman behind Nikaso, a stranger to Mara** (stops wringing her rag to look).
-- **Men on the street** (torches held out to see wives and daughters off); **a boy in the gutter** shouting his mother's
-  name; **a Theban** at a shutter ("Bring us back some of the god's wine, Kallia, and we'll forgive you the lentils.").
+  who go down the stair** ("The next bend's gone," … "there was none."; the other comes back "on her hands and knees");
+  **the crying mother** ("My two are with his mother. She'll have them in her bed with the dog.") and **her neighbor**
+  ("They'll be warmer than you," … "and glad of a night without your feet in their backs."); the women asking about the
+  long way ("Could we go down the long way? By the villages?" / "In this? You'd be under a drift by the second village,
+  and the shepherds' dogs would be the ones to find you."), a light ("Give me a light, someone. Mine's gone out." /
+  "Mine's going. Hold it close to mine, then, and don't breathe on it."), and a brother bringing the men ("My brother will
+  bring the men up the stair in the morning"); **the women comparing feet** in the pen ("Look at that. I've three toes
+  gone white." / "Mine are blue." / "Put them on Timo. She's warm; she's still burning from the wedding." / "You said a
+  man," … "Up here." / "I said husband. A husband isn't a man."); **a woman behind Nikaso, "nobody I knew"** (stops
+  wringing out her rag to look); **the farce voices** ("Who put a stone in the ring?" / "That's mine." / "Yours had a nail
+  in the heel. Feel it. That's no nail." / "Who's got the one with the strap through the toe?" / "You've two right feet on
+  you, girl. Look at them.": the chapter's one "girl" as address, unattributed).
+- **Men on the street** (some hold torches over the street to see their wives and daughters off); **a boy in the gutter**
+  shouting his mother's name until she cuffs him home; **a Theban** at a shutter ("Bring us back some of the god's wine,
+  Kallia, and we'll pay you the month early."; cycle 1 took the joke off lentils, and the Theban heckle is now CLOSED).
 - **Mention only:** Nikaso's husband (the man with the sieve, Ch.5; "He takes them off for the bed") and **his sister**
-  (owner of the red sandals; "She'll have my eyes"); Timo's husband (a potter's son from the lower town, married at the
-  vintage) and her mother (the child's sandal) and his mother; Sostrata's husband (the baker, twenty years) and his
-  mother (the dough); Philista's man ("went off to the Athenians"); the Athenian women (not come: "The roads are shut,
-  they say."); the god in the basket ("Your brother's gone away for the winter and left you the house"); Plutarch (Mara's
-  memory of the frozen cloaks); Euripides (the cry); the Vermont brothers at Twenty-second and Pine; a bank at Fifteenth
-  and Market.
+  (owner of the red sandals; "She'll have my eyes"; "She's never been to Kirrha."); **Nikaso's mother** (in her stair
+  story, "when my mother was a girl"); Timo's husband (a potter's son from the lower town, married at the vintage) and her
+  mother (the child's sandal) and his mother; Sostrata's husband (the baker, twenty years) and his mother (the dough);
+  Philista's man ("went off to the Athenians"); the Athenian women (not come: "The roads are shut, they say."); the god in
+  the basket ("Your brother's gone away for the winter and left you the house"); Euripides (the cry); Prometheus (the
+  fennel pith); the Vermont brothers at Twenty-second and Pine; "a bank downtown" (the disruptor removed the intersection).
+  Plutarch is no longer named or remembered on the page: the frozen cloaks are Nikaso's story.
 - **The baker's wife from the Ch.7 bath is named here: SOSTRATA** (card below). The Ch.7 walk-on note stands for her bath
   scene.
-- **Spent in Ch.8 (do not reuse):** "I left my hand in there until I had been fair to it."; "It's a cave … It's always
-  open."; "There is no he."; "so small … that I lost him on the boat"; "I have made him bigger for the song"; "Knead it,
-  knead it, the oven's gone cold!" (quoted twice; CAP REACHED, never sung again); "waking a god with a farmyard chore";
-  "like a party through the wall of the next apartment"; "like a licorice store on fire"; "as level as a tray in a good
-  restaurant"; "like a teacher at a classroom door after the bell"; "like a cook banging a pot to bring the household
-  in"; "like flatbreads on a griddle"; "like water over a sill"; "like sand thrown at a window"; "as warm as a kitchen
-  with the oven going"; "broke along the fold like a biscuit"; "it sat on her toes like a hat"; "a whole ring of the same
-  sandal"; "fifty-nine sandals and a stone" / "An Athenian's"; "Wake up, little one. Your brother's gone away for the
-  winter and left you the house."; "It's bread as well"; "She'll have my eyes" (Nikaso, CAP 2) / "Now I'll have one eye";
-  "You're smoking … It's not the same thing."; the cloak standing on its hem by itself; "A husband isn't a man."; "Any
-  woman who sleeps by herself tonight wakes up dead"; "He can't hear you from Delphi, girl. We can."; "Each morning I tell
-  you about the weather"; "the whole of what I had said to her in a month of mornings"; "the last roof in Delphi"; the
-  shovel scratches as "the only new thing in the cave"; the Christmas-tree oil drum.
+- **Spent in Ch.8 (do not reuse):** "I left my hand in there until I had been fair to it."; "There was nobody to laugh.";
+  "sent my hand in to the wrist"; "January cold and no more"; "changed it for my last pine"; "The rock had been unmarked
+  since it was rock"; "scored it like the bottom of a saucepan"; the shovel scratches as "the only new thing in the cave";
+  "Down on the plain Nikaso would be drinking my share."; "It's a cave," … "It's always open."; "There is no he."; "so
+  small," … "that I lost him on the boat"; "I have made him bigger for the song"; "Knead it, knead it, the oven's gone
+  cold!" (quoted twice; CAP REACHED, never sung again); "the smoke kept changing its mind"; "mostly for the sake of my
+  feet"; "my mouth made it Delphian"; "The rock gave the drums back"; "not one turn unsettled it"; "landed in my stomach
+  like a coal"; "like a party through the wall of the next apartment"; "like a teacher at a classroom door after the
+  bell"; "like a cook banging a pot to bring the household in"; "like flatbreads on a griddle"; "like water over a sill";
+  "like sand thrown at a window"; "as warm as a laundromat in February"; "broke along the fold like a biscuit"; "it sat on
+  her toes like a hat"; "a whole ring of the same sandal"; "fifty-nine sandals and a stone" / "An Athenian,"; "Wake up,
+  little one. Your brother's gone away for the winter and left you the house."; "It's bread as well"; "She'll have my
+  eyes" (Nikaso, CAP 2) / "Now I'll have one eye"; "You're smoking," … "It's not the same thing."; the cloak standing on
+  its hem by itself, "with nothing inside it"; "A husband isn't a man."; "Husbands," / "On my cliff, and the god not
+  woken."; "He comes to whoever's awake"; "Who would I send in?"; "I'll not lay you out on a stair."; "Some child's
+  hopping home barefoot for want of this."; "Any woman who sleeps by herself tonight wakes up dead"; "He can't hear you
+  from Delphi. We can."; "Each morning I tell you about the weather"; "the whole of what I had said to her in a month of
+  mornings"; "I had given her nothing but the top of my head"; "waited to be told where I went"; "Somebody's hand came
+  across in the dark"; "the last roof in Delphi"; the Christmas-tree oil drum; the fennel pith that smokes before it
+  flames, with the Prometheus aside (once); Nikaso's frozen-cloaks story on the stair (told once, CLOSED; the callback is
+  "I had taken Nikaso's story on the stair for nerves"). (Removed in this sync, because they are no longer on the page:
+  the farmyard-chore gloss on the basket, cut by the disruptor; the aniseed and licorice-store simile for the fennel, the
+  restaurant-tray simile for the basket, the oven-kitchen simile for the cloak (now the laundromat), the possessive form of Philista's Athenian
+  joke (now "An Athenian,") and Philista's "girl" in "He can't hear you from Delphi", all cut in cycle 1 or before.)
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -1165,56 +1230,111 @@ finalize fixes. Every quote below is on the page, checked by script.)*
   English, Kallia's "Syracuse" and his "Syrakousai" are the same word, so the correction has no visible object unless
   a later pass gives Kallia a Phocian form.
 
-#### NIKASO — Kallia's neighbor two gates up the lane; the wife of the man with the sieve (Ch.5 off-page, asleep; Ch.8)
+#### NIKASO — Kallia's neighbor midway along the lane; the wife of the man with the sieve (Ch.5 off-page, asleep; Ch.8)
 - **Attention / worldview:** borrowed things and the ruin coming to them, and who will be blamed (her husband's sister's
   red sandals; Kallia's sieve, returned with a hole). Everything will go wrong, and it will be her fault.
 - **Vocabulary band:** quick lane Greek, household and family nouns (sandals, sister, supper, eyes, toes).
 - **Syntax fingerprint:** a worry put as a question she answers herself, then a fatal punchline ("If it snows they'll
-  stop squeaking, and then I'm a dead woman." / "and then she has my toes and the sandals both").
-- **Rhythm:** fast run-ons, a pause for a breath she does not have, a short verdict.
-- **Evasion — never says:** that the sieve was her fault; any thanks (she studies the mended sandal and says "Now I'll
-  have one eye").
+  stop squeaking, and then I'm a dead woman." / "If it sours in the skin while she's at it, who gets the blame? Me." /
+  "and then she has my toes and the sandals both").
+- **Rhythm:** fast run-ons that jump subject without a beat (wine to sandals in one speech), a pause for a breath she does
+  not have, a short verdict.
+- **Evasion — never says:** that the sieve was her fault; any thanks (she puts the mended sandal on, "waited for it to
+  fail", and says "Now I'll have one eye").
 - **Physicality / silence:** small and quick, a mass of black hair, a nose once broken and mended a little to the left
-  (Mara's repairer's eye, not hers), skirts held clear in two fists; holds the wineskin and drinks Mara's share.
+  (Mara's repairer's eye, not hers), skirts held clear in two fists; holds the wineskin ("Kallia carries it and I hold
+  it") and drinks Mara's share.
 - **Verbal tic:** none — distinguished by attention (borrowed things and blame) and syntax (the worry she answers
   herself). "She'll have my eyes" is CAPPED at the two Ch.8 uses; never again.
 - **Bleed guard:** she never notices how a thing is made (Mara's) and never reckons who carries what (Kallia's); her
-  sandals are about blame, not leather. Her literalism ("It's a cave … It's always open.") is spent.
+  sandals are about blame, not leather (dialogue-polish cut a leather proverb and a maxim from her mouth; no proverbs or maxims in her mouth). Her literalism ("It's a cave," … "It's always open.") is spent.
+- **Ch.8 as written (SYNCED to the final page 2026-10-19; every quote below is on the page, checked by script):** comes out
+  "Midway along the lane" (continuity CH8-5: Ch.5 puts the sieve door halfway along the lane, Kallia's at its end).
+  "Kallia, it's not going to snow, is it? Tell me it's not. I've my husband's sister's sandals on." / "She's no boots. Who
+  has boots?" / "She'll have my eyes if they come back spoiled." / "Is she the Syracusan? Does she talk?" / "Who talks
+  well, up there? You'll be our third, then, for the wine" / "They've stopped," / "That's the wet getting in, and she'll
+  know; she knows if I've so much as breathed on her loom." / "Over new sandals? What's the good of them, wrapped?" / "The
+  god," … "And Philista, who leads us up, and she tells everyone at the lions." / **her stair story, told once (cycle 1
+  plant; CLOSED):** "Snow caught the women up here once, when my mother was a girl," … "They sent men up in the morning to
+  fetch them, and the men's cloaks froze so hard on the way that they broke in two when anybody tried to unfold them." /
+  "Is it true that in Syracuse the women go to the baths with the men?" / "She's never been anywhere. She's never been to
+  Kirrha." / at the basket: "Him." … "That's his cradle. You'll see." / "It's bread as well," / "Kallia's dancing. Look at
+  her." … "Drink." / "I kept it for you as long as I could," … "Then I couldn't." / "A little was left in the bottom, and
+  the skin was getting cold, and either way it was my fault." / "Who sends you up mountains, then?" / in the pen:
+  "Cooked, she can't prove anything. Wet, she'll smell them from the lane." / "Who taught you sandals?" / weeps over the
+  shrunk red sandal ("She'll have my eyes," … "Both of them. She'll have them out with a spoon.") / "What for? It's ruined.
+  Look at it." / "What are you doing to it?" / "How long?" / "Now I'll have one eye," / "Stand it by me," … "It's warmer
+  company than his sister, and it's got her shoulders." / "Mine would bring a cold one," … "and ask me where his supper
+  was." / "That's a lie," … "He takes them off for the bed." / in the heap: "Maira." … "Where did you go, before? When we
+  were dancing." / "On your own? At night?" … "What for?" / "It's a cave," … "It's always open." "Maira" in her mouth: 1.
 - **Chaos on the page (subjects, never phrases):** catastrophizing over the sandals; drinking the whole skin "as long as
   I could"; the sister-in-law who has "never been to Kirrha".
 - **DISTINCTNESS GUARANTEE:** the woman who expects every borrowed thing to be ruined and herself to be blamed, against
   Kallia, who expects only to have to carry it.
-- **Sample line (calibration only):** "It won't rain, will it? If it rains on the lentils she'll say I left the lid off."
+- **Sample line (calibration only; replaced 2026-10-19 because "lentils" as a joke is SPENT):** "You'll have it back by the
+  feast, won't you? If it's late she'll say I sold it."
 
 #### SOSTRATA — the baker's wife (the Ch.7 bath walk-on, named in Ch.8)
 - **Attention / worldview:** bodies and household feuds, above all her husband's mother; she turns a grievance into a
   joke and a joke into a song.
 - **Vocabulary band:** loud, earthy town Greek; bread, dough, ovens, beds, mothers-in-law; bawdy without one obscene word.
-- **Syntax fingerprint:** running commentary told to the whole room ("she said to anyone who would listen"); put-downs
-  with a name in them ("Your husband says plenty, Timo, for a man who's been married since the vintage").
+- **Syntax fingerprint:** running commentary told to the whole room ("she said to anyone who would listen", her one
+  group-address tag); put-downs with a name in them ("Your husband says plenty, Timo, for a man who's been married since
+  the vintage."; "Not a man in this town will climb that stair with a stone for your feet, Timo, not if the god himself
+  sent for him.").
 - **Rhythm:** a complaint, a put-down, a verse.
 - **Evasion — never says:** anything tender about the baker (twenty years) except by insult.
-- **Physicality / silence:** soft and heavy; in Ch.7 a red clay lamp in her fist, here her feet in Timo's lap; beats her
-  own knees with both fists laughing; stands her frozen cloak up on its hem.
+- **Physicality / silence:** soft and heavy; in Ch.7 a red clay lamp in her fist; in Ch.8 she hauls herself onto the cliff
+  edge on all fours, goes by the dance "at a heavy trot", has her feet in Timo's lap, beats her own knees with both fists
+  at the joke, and gets out of her frozen cloak and stands it on its hem in the snow.
 - **Verbal tic:** none — distinguished by attention (bodies, feuds) and register (bawdy song). The baker's song and its
   refrain are SPENT after Ch.8.
-- **Bleed guard:** must not take Nikaso's dread or Kallia's labor-reckoning; she never asks a practical question.
+- **Bleed guard:** must not take Nikaso's dread or Kallia's labor-reckoning; she never asks a practical question. No
+  maxims in her mouth (dialogue-polish cut a maxim about mothers-in-law from her whisper); her advice is her own grievance.
+- **Ch.8 as written (SYNCED to the final page 2026-10-19; every quote below is on the page, checked by script):** "I've
+  left his mother the dough," … "and if she lets it rise past the rim, I'll smell it from here. She'll do it to spite me.
+  She'll stand over it and watch it go." / "Tell him nothing; that's how mine's lasted twenty years." / after Philista's
+  rebuke, lower: "He comes to whoever's awake," / "Stamp," … "Harder. I've his mother under each foot, and look how warm I
+  am." / "You'll cook them," / "You're smoking," … "It's not the same thing." / "Some child's hopping home barefoot for
+  want of this." / "There," … "It can keep the wind off you while I thaw." / "The baker will be asleep on the flour sacks,"
+  … "with his mother's dough climbing out of its pan beside him, and the two of them snoring at each other." / "Not even a
+  dead one?" / "Well," … "she can have the loan of ours." / the song and its verses ("Just the one,"; "Philista's man went
+  off to the Athenians—"; "The Syracusan's man stayed home in Syracuse," … "and he—") / the whisper: "Give her the stone,
+  before he can, and say it was your idea. The baker's mother let me off a whole burnt batch for one, the first winter." /
+  "Go to sleep." Talks in her sleep, "a word of it about the dough".
 - **DISTINCTNESS GUARANTEE:** the woman who makes a song of her grievance, against Nikaso, who makes a dread of hers.
 - **Sample line (calibration only):** "Twenty years and he still salts my bread before he's tasted it."
 
-#### PHILISTA — leader of the Delphian Thyiades; carries the drum (Ch.8)
+#### PHILISTA — leader of the Delphian Thyiades; the drum on her hip (Ch.8)
 - **Attention / worldview:** the rite done properly, and the Athenian women who come every other winter and do it wrong.
   Her grudge is Athens.
 - **Vocabulary band:** commands to the whole company; the god's household ("Your brother's gone away for the winter and
   left you the house"), never theology.
-- **Syntax fingerprint:** a bark to the group, then a dry grudge or a threat about carrying ("If one comes up in the
-  morning, he can carry my drum down." / "and I'll not carry her").
+- **Syntax fingerprint:** a bark to the group, then a dry grudge or pride in the rite ("Husbands," … "On my cliff, and the
+  god not woken."; "Put it straight. I bring my women down crowned."; "Any woman who sleeps by herself tonight wakes up
+  dead, and I've never lost one yet.").
 - **Rhythm:** short orders; one grudging aside.
-- **Evasion — never says:** her own man except as a verdict ("He did. … They can keep him.").
+- **Evasion — never says:** her own man except as a verdict ("He did," … "And they can keep him.").
 - **Physicality / silence:** lean, old and upright, hood back, drum on her hip, strikes it once with the butt of her
-  palm; inspects each woman at the head of the cliff.
-- **Verbal tic:** none — distinguished by attention (the rite and the Athenians) and syntax (orders, then a grudge).
-- **Bleed guard:** not Sosandros's correct forms (his are clerical; hers are rivalry); not Kallia's labor axis.
+  palm; inspects each woman at the head of the cliff; beats the drum "flat and hard" to call the women in; goes round the
+  pen on her knees pushing them together.
+- **Verbal tic:** none — distinguished by attention (the rite and the Athenians) and syntax (orders, then a grudge or
+  pride). **WATCH: the doubled bark** (an order repeated inside one speech: the draft had "Louder… Louder!" and "Down!…
+  and down"; cycle 1 cut both). On the page now: only the ritual "Wake up, little one. … Wake up and have it!". Hold it to
+  **1 per chapter**, and never as her way of speaking.
+- **Bleed guard:** not Sosandros's correct forms (his are clerical; hers are rivalry); not Kallia's labor axis: no jokes
+  or threats about who carries what in her mouth (dialogue-polish moved "carry" to Kallia; her second clause is grudge or
+  pride, never carrying).
+- **Ch.8 as written (SYNCED to the final page 2026-10-19; every quote below is on the page, checked by script):** "No
+  Athenians," … "The roads are shut, they say. They say it whenever it suits them. For once he'll be woken properly, and
+  nobody from Athens standing at my elbow to tell me how it's done in Athens." / "Husbands," … "On my cliff, and the god
+  not woken." / "He's had a good autumn." / "Wake up, little one. Your brother's gone away for the winter and left you the
+  house. Wake up and have it!" / "He's been asleep three months," … "Louder!" / "Your ivy's slipped," … "Put it straight. I
+  bring my women down crowned." / "Torches lit, all of you, and down, before it shuts the stair." / "No man comes up here,"
+  … "Not tonight, nor any night." … "We stay. Back to the pen. Get under its wall, and bring every stick that will burn." /
+  "An Athenian," / "He's woken," … "He's had his dance and his wine, and he's gone back into his basket to sleep it off. The
+  rest of the night's ours. Say what you like." / "He did," … "And they can keep him." / "Close," … "All of you, with your
+  backs to the wall, and your cloaks over the lot." / "He can't hear you from Delphi. We can." (no "girl" since cycle 1).
 - **DISTINCTNESS GUARANTEE:** the only one who measures everything against Athens, against Sosandros, who measures it
   against the form.
 - **Sample line (calibration only):** "Two to a torch and keep your hems out of the fire; we're not Athenians."
@@ -1226,11 +1346,22 @@ finalize fixes. Every quote below is on the page, checked by script.)*
 - **Syntax fingerprint:** reportage of her husband in one breathless run, then a promise she believes ("He promised.").
   Keep her runs to a husband's doings, never system talk (Fenn's "and"-chains are English and about systems).
 - **Rhythm:** eager rush; a scream; a whisper.
-- **Evasion — never says:** that she is afraid of his mother, except in a whisper in the dark.
-- **Physicality / silence:** ivy crown down over one eyebrow; a little flask of hair oil warm in her bosom (given up
-  for the sandal); her hem smolders; two right sandals; throws a sandal that is somebody else's.
+- **Evasion — never says:** that she is afraid of his mother, except in a whisper in the dark ("And if his mother's in the
+  house when I get back?" / "And the second?").
+- **Physicality / silence:** ivy crown down over one eyebrow; a little flask of hair oil warm in her bosom (surrendered
+  silently for the sandal); her hem smolders; two sandals that both bend the same way; throws a sandal that is somebody
+  else's; lets Sostrata's feet stay in her lap.
 - **Verbal tic:** none — distinguished by attention (her husband) and syntax (breathless report, then a promise).
 - **Bleed guard:** she does not tease for sport (Sostrata does); she asks because she wants to know.
+- **Ch.8 as written (SYNCED to the final page 2026-10-19; every quote below is on the page, checked by script):**
+  "Sostrata, is it true he comes to the new brides first?" … "My husband says he does. He says I'm to tell him everything
+  after." / "Take your feet off me," … "Get them away. They're like fish." / "I'm burning!" / "It's off my mother," … "and
+  she'll want it back." / "How should I know? It was next to me." … "It's got a patch on the strap. Who has a patch on her
+  strap?" / "I'll go first," and the potter's son who "cried in the doorway", would "walk behind with his eyes shut", and
+  is "to wait at the top of the street when it's light, with a hot stone in a cloth for my feet. He promised." / "Mine
+  will." / "And yours, Maira? Did he mind you coming?" / "No husband?" … "At your age?" / "Was he?" … "Truly? That small?" /
+  "Again," … "From the oven. Give her a verse of her own." Says her husband's name under her breath in the dark until
+  Philista loses patience. "Maira" in her mouth: 1.
 - **DISTINCTNESS GUARANTEE:** the only one who still believes a man will climb the stair with a hot stone, against
   Sostrata, who has twenty years of proof he will not.
 - **Sample line (calibration only):** "He's carving me a bird for the shelf, he says, and he won't let me see it."
@@ -1487,32 +1618,111 @@ line each, so that walk-ons don't all sound like Mara.
     self-placing verb cut from ¶64 (now "stood square"); the ¶32 exit cut in cycle 1; the bare-nothing sentence cut from
     in front of "the size of nothing" (¶348); a second "that was all" (Ch.7 keeps ¶20 only). Kallia paying from her kerchief knot (Ch.6,
     Ch.7): rest until Ch.10. Mara's eyes-down business, the chapter's subject in Ch.7: CLOSED after Ch.7.
-- **At-risk after Ch.8 (Writer, 2026-10-19; the moves and shapes to keep out of Ch.9 and after):**
+- **At-risk after Ch.8 (Writer, 2026-10-19; the moves and shapes to keep out of Ch.9 and after. SYNCED to the final page
+  2026-10-19 after dialogue-polish, disruptor, continuity repair and polish cycle 1):**
   - **Role labels as names.** The tic gate counts any content-rich 3-gram 3+ times book-wide, so a walk-on referred to by
-    a repeated role phrase ("the drum woman", "the baker's wife", "said the bride", "the last house", "in the goat-hair
-    cloak") fails it. In Ch.8 the fix was to name the recurring women. When a walk-on recurs inside a chapter, name her
-    or vary the reference; tags like "said the [role]" rotate.
-  - **"the last house":** Ch.7 1 + Ch.8 1 (the opening line) = **2, CAP REACHED**. Later reference: "the top of the town",
-    "the last roof".
-  - **The hand at the threshold, Ch.8 form** (wrist-deep, cheek on the slab, pitch on the thumb, the hand warmed in the
-    armpit, "fair to it"): SPENT. Ch.19's palm on the painted plaster must find its own body and words. **Shovel scratches
-    as the only new mark:** spent.
-  - **Command echoed as compliance:** still SPENT book-wide (Ch.8 has none: "Stamp" now gets "My boots kept time with the
-    drum"; "Drink." gets "The second mouthful went down easier"). Keep it at 3.
+    a repeated role phrase (for example "the drum woman", "the baker's wife", "said the bride", "in the goat-hair cloak",
+    none of which is on the page) fails it. In Ch.8 the fix was to name the recurring women. When a walk-on recurs inside a
+    chapter, name her or vary the reference; tags like "said the [role]" rotate.
+  - **"the last house":** Ch.7 1 + Ch.8 1 (the opening line) = **2, CAP REACHED**. "the last roof" is at 1 (Ch.8, "the
+    last roof in Delphi", spent) and "the top of the town" at 1 (Ch.6): any later reference to the top of Delphi is
+    worded fresh.
+  - **The hand at the threshold, Ch.8 form** ("sent my hand in to the wrist", cheek on the slab, pitch on the thumb, the
+    hand tucked "under my arm, where it ached as it warmed", "fair to it"): SPENT. Ch.19's palm on the painted plaster must
+    find its own body and words. **Shovel scratches as the only new mark:** spent.
+  - **Command echoed as compliance:** still SPENT book-wide (Ch.8 has none: Sostrata's "Stamp," … "Harder." gets "My feet
+    went with the drum as well as they could"; "Drink." gets "The second mouthful went down easier"). Keep it at 3.
   - **"So I… / So she… / So we…" openers:** Ch.8 has 0 (a "So we went back" and a "So this was" were cut in drafting).
     The streak is broken; keep Ch.9 at 0 if possible.
-  - **"the one / the only":** Ch.8 narration 2 ("the only part of me that had been warm", "the only new thing in the
-    cave"); dialogue "the one with the strap" is not a claim.
-  - **Mara laughing WITH others** (the song): her first shared laugh; SPENT as a belonging device. The next mapped laugh is
-    Ch.22's fit; nothing like the pen before then.
+  - **"the one / the only":** Ch.8 narration **1** ("They were the only new thing in the cave."; the disruptor cut the
+    other); dialogue "the one with the strap through the toe" (×2) is not a claim.
+  - **Mara laughing with a group** (the song, "I was laughing too"): the first laugh a joke of hers starts and the first
+    she shares with a group (Ch.4 ¶73 she laughed with the goat-boy "without knowing what at", so this is not her first
+    shared laugh); SPENT as a belonging device. The next mapped laugh is Ch.22's fit; nothing like the pen before then.
   - **A walk-on addressing Mara by her place** ("You at the lions"): once. **"Maira" in walk-on mouths:** Timo 1, Nikaso 1.
   - **Narrator glosses on what a moment "was":** two subtext statements were cut in drafting ("I understood that this was
-    a test"; a cave-cold-against-heap-heat comparison). Ch.9 should let the inscription and the priest's wiped hand carry
-    their own meaning.
+    a test"; a cave-cold-against-heap-heat comparison), and the disruptor cut the paragraph explaining that Kallia had known
+    where Mara went. Ch.9 should let the inscription and the priest's wiped hand carry their own meaning.
   - **Echo-scan lesson:** the first draft carried 173 cross-chapter echoes, mostly ordinary walking-and-looking 3-grams
     ("I went up", "came out of the", "the far side of", "after a while I"). Draft movement verbs fresh from the start.
   - **Dialogue band:** the first draft sat at 13%; reported speech had to be turned into speech. Plan crowd scenes as
     exchanges, not summaries.
+  - **From dialogue-polish:** **group-address tags** ("said to the ring / the pen / the heap", "told the shutters"): cap 1
+    per chapter (Ch.8 keeps Sostrata's "to anyone who would listen"). **The "[order], or you'll [fall] before [place]"
+    threat:** 1 per chapter, Kallia's only (Ch.8's is in the first paragraph). **"carry" jokes and threats:** Kallia's
+    alone. **Kallia's question back** ("Who would I send in?"): SPENT as her non-task reply; Ch.9's should be silence or an
+    act.
+  - **From the Ch.8 eval (Revision #13):** **Nikaso's eyes** CLOSED ("She'll have my eyes" ×2 + "Now I'll have one eye").
+    **The "no husband" declaration** at 3 (Ch.5 "I have no man.", Ch.6 "I have no husband.", Ch.8 "There is no he."):
+    CLOSED, no fourth. **The Thebans' Corinth song** at 3 (Ch.5, Ch.6, Ch.8 ¶18): CLOSED. **"girl" as address:** 1 in Ch.8
+    (¶306, unattributed, "You've two right feet on you, girl."); Philista's was cut. Keep it rare. **Kallia's rarity
+    glosses:** Ch.8 at 1 (her hair), the cap.
+- **At-risk after Ch.8 polish cycle 1 (bookkeeping sync 2026-10-19, from `evaluations/chapter-8-eval.md` P1–P11, Revision
+  #1–#14 and Cross-Book #1–#8, and `evaluations/revision-chapter-8-cycle1.md`; most are moves or near-n-grams the exact
+  n-gram gates do not see, so the Writer prompt for Ch.9 must carry them by name):**
+  - **The hinge family of paragraph openers** ("So / And so / Then / And then / After that / Afterward / Afterwards / Later
+    / Next"): when "So…" was capped at 1, the habit moved to "Then… / After that… / Afterward…" (the Ch.8 draft had 7–8; Ch.5–7
+    had 0). **The gate now caps the whole family:** `tic_report.py` `HINGE_RX`, cap max(3, words / 2500) per chapter.
+    Ch.8's final page has **2** ("After that it was dancing.", ¶134; "Then everybody took off her shoes.", ¶252), the two
+    the evaluator kept. Aim for ≤2. Related, not yet a gate: "Everybody / Nobody / Somebody" paragraph openers, Ch.8 at 2
+    (¶112, ¶228); the proposed cap is 1. One-line hinge paragraphs as surrogate scene breaks: Ch.8 has 3, so keep them rare.
+  - **The cave in its Ch.3/Ch.6 words: SPENT.** A revisited place is re-entered in fresh words: grep the paragraph of its
+    last visit and reuse none of its descriptors. Spent cave descriptors: the great pale stone with its shoulder shining
+    (Ch.3 ¶103, Ch.6 ¶480, cut from Ch.8); "palm to/toward the dark/black" (Ch.3 ¶139, Ch.6 ¶482, cut from Ch.8); the
+    drip-and-torch silence (Ch.6 ¶52, ¶510; Ch.8 keeps one drip, "fell, and fell again", now spent); the torch relay with
+    the stub ground out (Ch.6 ¶18, ¶554; cut from Ch.8); "the big stalagmite" and "slumped" (Ch.3); the crack as
+    "rock / air / cold" (already SPENT). Ch.8's own cave words ("sent my hand in to the wrist", "January cold and no more",
+    "changed it for my last pine", "a black gap the height of the slab") are spent with them. Next at risk: Ch.19's painted
+    plaster and Ch.41–42's tomb.
+  - **The voice-bank Ch.15 cloak frame: RESERVED for Ch.15.** sample-10 (`voice-bank/samples/sample-10-heat-register.md`,
+    the first union) owns the covering with fiber-and-woodsmoke smell and breath at the neck ("the smell of sheep and
+    woodsmoke in the blanket", "his breath going ragged against my neck"). Ch.8's draft lifted it for the stranger's cloak
+    and cycle 1 cut it. **Do not use this frame (a covering's smell of fiber and smoke; breath against the neck) in any
+    chapter before Ch.15**, in any wording. Voice-bank samples leak by structure as well as by string; sample-03's "the
+    women of Delphi" and sample-12's dying fire as "a red line / red seam" are likewise reserved for their chapters.
+  - **Narrator call-out pointers to callbacks: SPENT.** The narrator naming an earlier scene to frame this one ("this time
+    I hit nothing", "as Kallia had said it would be", "I had been looked at by the women of Delphi at the bath and in the
+    salt row", "with my wrist still warm where the stranger had taken hold of it"): Ch.8's draft had four and cycle 1 cut all
+    four. The callbacks themselves are the book's strength; the pointing is the habit. Let the rhyme land unannounced (Ch.8
+    keeps "There was nobody to laugh." standing alone). Proposed cap ≤1 per chapter; treat it as 0.
+  - **The lying-awake night coda: SPENT.** Lying awake and listening in the dark at a chapter's end ran four chapters
+    (Ch.5 the mouse and the watch; Ch.6 "That night I did not sleep much"; Ch.7 the storeroom mat; the Ch.8 draft, "I lay
+    awake long after the others" and the listening paragraph, both cut in cycle 1). **No chapter-end listening-in-the-dark
+    until further notice**, in any wording. Ch.8 now runs from Philista's "We can." straight to the dawn.
+  - **Cloth smelling of another woman: SPENT** (Ch.5 ¶425 the blanket "smelled of whoever had slept under it last"; Ch.7
+    ¶26 "it smelled of somebody", ¶356 quince and woodsmoke, ¶378 the quince gone, the Ch.7 anchor; the Ch.8 draft's
+    "another woman's sleep", cut). No borrowed garment, blanket or cloak is given a
+    smell of its previous wearer again.
+  - **"Whoever [made] it had" frame: SPENT, at 3** (Ch.6 ¶90 "Whoever closed it had", ¶522 "whoever made it had"; the Ch.8
+    draft's "Whoever dressed it had", recast in cycle 1 as "It had been tawed with the fat still on the belly"). No fourth,
+    in any verb.
+  - **The taste-and-cough reaction: SPENT** (Ch.4 ¶119 the cheese, "my eyes ran"; Ch.5 ¶11 the olive; Ch.5 ¶31 "so bitter
+    it made me cough"; the Ch.8 draft's wine, "It made my eyes water … while I was still coughing", cut). A first taste is
+    given without a recoil: Ch.8 now has "it landed in my stomach like a coal".
+  - **The Theban heckle: SPENT** (Ch.5 ¶395, Ch.6 ¶156, Ch.7 ×2, Ch.8 ¶20). Ch.8's is now on rent ("we'll pay you the month
+    early" / "The month's due on the day, wine or none"), and it is the last: no Theban calls down from the gallery or a
+    shutter again. **"lentils" as a joke: SPENT** (Ch.8 has 0).
+  - **Philista's barked commands repeated: WATCH.** The doubled bark ("Louder… Louder!", "Down!… and down") was cut in cycle
+    1; only the ritual "Wake up … Wake up and have it!" remains. 1 per chapter, ever, if she returns. See her card.
+  - **The Prometheus aside: spent once** (Ch.8 ¶250: "Prometheus had stolen fire in one of these; I had always pictured it
+    blazing in his fist, and it must have smoked under his cloak."). The fennel's slow pith and Prometheus are not used
+    again; it is also one of Ch.8's two knowledge asides (with Euripides), so keep the count low.
+  - **Nikaso's frozen-cloaks story: told once, CLOSED** (the cycle-1 stair plant and its callback "I had taken Nikaso's
+    story on the stair for nerves"). The snowbound Thyiades of *De primo frigido* are not retold.
+  - **The flashlight's status: not mentioned again until it is used or seen** (a withheld-flashlight report ran Ch.5–8;
+    Ch.8 is down to "I left the flashlight at the bottom of my bag under the stair."). The Ch.5 rule stands: any use must
+    reckon with being seen.
+  - **Smaller items from P6–P11 (each SPENT):** Kallia's arms-out posture (Ch.6 "arms crooked out from her sides"; the Ch.8
+    draft's "arms stuck out stiff", now "stiff-elbowed"); "kept time with" for boots and drum (Ch.3 ×2); a tray of drinks as a
+    level ruler (Ch.1); shaken cloth as a sound (Ch.7 sail); "not hard," for a grip (Ch.5); the shepherds' dogs finding the
+    dead in the spring (Ch.6); the book-vs-mouth Greek contrast with a negation tail (Ch.4, Ch.7); the "was not X. She was
+    Y" negation pivot (the gate's `PIVOT_RX` sees only the semicolon form; check it by hand).
+  - **Valens as a glimpse:** two chapters running (Ch.7 boots; Ch.8 his back and a hand). Escalated by the eval: the Ch.9
+    writer prompt gives him one spoken exchange with Mara (see his Ch.8 block).
+  - **The emotional peak as a laugh:** Ch.2, 6, 7, 8 (four of eight). Ch.9 and Ch.10 peaks use another channel.
+  - **The unprompted memory's fixed frame** (a standalone paragraph opening on a time-habit phrase, a minor Philadelphia
+    figure, an odd habit, closing on an image: Ch.3, 5, 6, 7, 8 "Every December"): the frame is now the tell. Next: a memory
+    that breaks into a sentence, or a sense with no person in it.
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
@@ -1737,3 +1947,43 @@ finalizing the chapter. Never add a tic to fix it.
   Thyiades row in the planned-roles table, and the at-risk after Ch.8 block (role labels as names; "the last house" cap
   reached; the Ch.8 threshold form spent; Mara's shared laugh spent). No device collisions: nobody counts or lists; only
   Mara notices tawing, mending and leather. Tic-bearer roster still NONE.
+- 2026-10-19 (bookkeeping sync, Ch.8 FINAL page after dialogue-polish, disruptor, continuity repair and polish cycle 1; no
+  chapter text touched; git not run): every Ch.8 quotation in the bible (Mara, Valens, Kallia, Theano, the four new cards,
+  the stranger at the lions, the walk-on note, its spent list and the at-risk after Ch.8 block) was checked by script
+  against chapter-8.md, and each one no longer on the page was replaced or removed. KALLIA's Ch.8 block was rewritten from
+  the page: "Hitch that up…" removed (the pin is moved with no line); her varied reply is now the question back "Who would
+  I send in?", not silence; "Was it shut?" → "Did you find what you went for?" (Mara: "No. It was shut."); the knees only,
+  no pitch; the walk-off without "Then"; the lentil reply → "The month's due on the day, wine or none,"; new page lines
+  added ("They'll ask you everything…", "You tell them what I told the clerk, and not a word over.", "I'll not lay you out
+  on a stair.", the sieve line, "Wind it harder than that…"); she **crouches** in the pen and never sits; carrying is hers
+  (the wineskin, "Somebody has to carry him…"). MARA: "This time I hit nothing…" → "There was nobody to laugh."; the hand
+  "under my arm", not the armpit; the strap patched with paler leather and set on askew, not knotted; "sent my hand in to
+  the wrist"; the flashlight reason removed (not on the page); Plutarch's frozen cloaks → Nikaso's stair story; knowledge
+  asides Euripides and Prometheus; the shared-laugh claim corrected (Ch.4 ¶73 came first). VALENS: "the last roof in
+  Delphi", "like every man who had come that far", and the eval's Ch.9 escalation. THEANO: "Black thieves," … "every one
+  of you. That's not for you." and "her eyes on the crows" (the "whose it is" clause and the no-look sentences are cut).
+  NIKASO: "two gates up the lane" → "midway along the lane" (CH8-5); "studies the mended sandal" → "waited for it to fail";
+  a Ch.8 page block added (including her frozen-cloaks story, told once); her calibration sample moved off lentils.
+  SOSTRATA, TIMO: Ch.8 page blocks added. PHILISTA: carrying removed from her card (header "carries the drum" → "the drum
+  on her hip"; syntax now "a bark, then a grudge or pride in the rite"; "and I'll not carry her" → "and I've never lost
+  one yet"; "He did," … "And they can keep him."; bleed guard: no carry jokes, Kallia's axis), a WATCH on the doubled bark,
+  and a Ch.8 page block. Walk-on note: the stranger's patch, "She took my wrist and pulled", the cloak's heat without smell
+  or breath, "Soon she went heavy against my back"; the basket's winnowing toss; "They'll be warmer than you … glad of a
+  night without your feet in their backs."; the Theban's "pay you the month early"; "nobody I knew"; "a bank downtown";
+  Prometheus and Nikaso's mother added to the mentions, Plutarch removed. Spent list: removed "waking a god with a
+  farmyard chore", "like a licorice store on fire", "as level as a tray in a good restaurant", "as warm as a kitchen with
+  the oven going", "An Athenian's" and the "girl" in "He can't hear you from Delphi"; added the final page's phrases
+  ("There was nobody to laugh.", "as warm as a laundromat in February", "landed in my stomach like a coal", "Who would I
+  send in?", "Husbands," / "On my cliff, and the god not woken.", "waited to be told where I went", and others). Not in the
+  bible, so nothing to change here: "another two pines" and the aniseed fennel (ENTITY_STATE items for the
+  entity-tracker, per the cycle-1 report). At-risk after Ch.8 re-synced ("the one / the only" 2 → 1; command-echo example
+  now "My feet went with the drum…"; dialogue-polish's group-address, threat-shape, carry and question-back items; the
+  eval's Nikaso's eyes, "no husband" ×3, Corinth song ×3, "girl" as address). New block **At-risk after Ch.8 polish cycle
+  1**: the hinge family of paragraph openers (the gate now caps it: `HINGE_RX`, max(3, words/2500); Ch.8 at 2); the cave
+  in its Ch.3/Ch.6 words (SPENT, with the grep-the-last-visit rule); the voice-bank Ch.15 cloak frame (sample-10; RESERVED
+  for Ch.15, no earlier use); narrator call-out pointers to callbacks (SPENT); the lying-awake night coda (four chapters
+  running; SPENT, no chapter-end listening in the dark until further notice); cloth smelling of another woman (SPENT);
+  "Whoever [made] it had" (at 3, SPENT); the taste-and-cough reaction (SPENT); the Theban heckle and "lentils" as a joke
+  (SPENT); Philista's barked commands repeated (WATCH); the Prometheus aside (spent once); Nikaso's frozen-cloaks story
+  (CLOSED); the flashlight's status (unmentioned until used or seen); the P6–P11 second uses; Valens's glimpse
+  escalation; the peak-as-laugh and memory-frame cross-book patterns. Tic-bearer roster still NONE.
