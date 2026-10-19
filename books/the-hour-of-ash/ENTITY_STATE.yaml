@@ -34,6 +34,13 @@
 # outline:ch-06 sources replaced where the prose confirms; departures logged as CH6-n in meta.contradictions. CH5-6 RESOLVED by ch-06:p39.
 # Re-synced the same day to the continuity repair (evaluations/revision-chapter-6-continuity.md; chapter-6.md last written 15:15:16):
 # still 342 paragraphs, numbering unchanged. CH6-1/2/3/4/8 RESOLVED by the page, CH6-7 by the outline patch; CH6-5 and CH6-6 still open.
+# UPDATE (chapter 7, final text: post-writer, dialogue-polish, hook-craft and book-disruptor) 2026-10-19. Ch.7 facts carry ch-07:pYY
+# (p1..p194; three '* * *' breaks = four shards p1-p58, p59-p128, p129-p182, p183-p194; the two HTML comment lines are not counted).
+# outline:ch-07 sources replaced where the prose confirms; departures logged as CH7-n in meta.contradictions. council-clerk is renamed
+# sosandros, because the page identifies him (ch-07:p141). FOUND: polish cycle 1 edited chapter-6.md after the Ch.6 update: old p101 and
+# p102 are merged, so old p103..p342 = current p102..p341. NOT re-synced here (this run covers Ch.7 only). See meta.revalidation_needed
+# (chapter 6, OPEN). Every ch-06:pYY in this file, including the new Ch.7 cross-cites, still uses the pre-cycle-1 numbering, so one
+# re-anchor moves them all.
 # Facts, not interpretation. Contradictions are flagged with `conflict` (flag: UNRESOLVED), never resolved here;
 # a conflict is marked resolved only when the source documents themselves now carry one value.
 
@@ -41,10 +48,10 @@ meta:
   version: "1.0"
   last_updated: "2026-10-19"
   last_updated_by: "entity-tracker"
-  mode: "UPDATE (chapter 6, final text after writer, dialogue-polish, hook-craft, book-disruptor and the continuity repair, 2026-10-19)"
-  source: "manuscript Ch.1-6 (Ch.1-3 as re-synced after their editor passes, 2026-10-18; Ch.4 as re-synced after its polish cycle 1, 2026-10-19; Ch.5 as re-synced after its polish cycle 1 and finalize fixes N1-N7, 2026-10-19; Ch.2, Ch.3 and Ch.5 re-synced after the author fixes, 2026-10-19; Ch.6 final text after writer, dialogue-polish, hook-craft and disruptor, 2026-10-19) + outline (patched 2026-10-18) for Ch.7-44"
-  last_updated_chapter: 6
-  chapters_tracked: [1, 2, 3, 4, 5, 6]
+  mode: "UPDATE (chapter 7, final text after writer, dialogue-polish, hook-craft and book-disruptor, 2026-10-19)"
+  source: "manuscript Ch.1-7 (Ch.1-3 as re-synced after their editor passes, 2026-10-18; Ch.4 as re-synced after its polish cycle 1, 2026-10-19; Ch.5 as re-synced after its polish cycle 1 and finalize fixes N1-N7, 2026-10-19; Ch.2, Ch.3 and Ch.5 re-synced after the author fixes, 2026-10-19; Ch.6 final text after writer, dialogue-polish, hook-craft and disruptor, 2026-10-19, NOT yet re-synced to its polish cycle 1; Ch.7 final text after writer, dialogue-polish, hook-craft and disruptor, 2026-10-19) + outline (patched 2026-10-18) for Ch.8-44"
+  last_updated_chapter: 7
+  chapters_tracked: [1, 2, 3, 4, 5, 6, 7]
   revalidation_needed:
     - chapter: 1
       found: "2026-10-18 (Ch.2 run)"
@@ -82,6 +89,11 @@ meta:
       action: "DONE in this re-sync (2026-10-19). An earlier run of this job re-anchored the ch-03/ch-05 citations mechanically and then stopped. This run verified that work against an independent paragraph diff: all 443 explicit and 59 bare/range re-anchors match. It fixed one missed bare ref (p211 -> p209) and then did the content pass. Removed (cut from the page): Ch.2 the limestone book, 'from/in the lab' for the fax, mat and magnifier, 'my department'. Ch.3: the room over the worry-bead shop and the Itea view; the kiosk phone, phone card and 'Ray having his fit'; the hotel bed, kiosk afternoon, map cover and 'better than a mile'; Livadi; the bell frame, snowmelt, white van and 'from the Arachova side'; the E4 signpost and the white-bar blazes; silver-gray bark and needles; the taxi's speed and gravel spray; the German's two o'clock cloud, 'I'm staying up', the sleeping-bag assumption, 'a box and a half' and the camera lesson; the goatherd greeting the German; 'as broad as a kitchen table'; the fire ring, bottle and candle stub; 'at the elbow' and 'beaded red along its length'; stalactites and draperies; Florida and the crawlspace; Fenn's directions re-read in the cave; the graffiti catalogue (regiment, Greek names, WILKINS 1861, soot names, 'for the order things had happened in', 'If it had come into my lab'); the French report volumes, plates, the April reading in French, 'caught once already' and the dyed/drilled/lead bones; 'the whole block'; 'the bigger fool'; Fenn's beans and goat and 'day after day'; 'Every tray of his slides'. Ch.5: the Arcadians/Spartans speech; the Siphnian name, porch girls and silver joke; the water boy; the laurel woman; the ox-cart; the row of empty bases; 'I had worked for a decade below street level … first time …'; 'walked round it twice'; the money-changer's exit; 'since graduate school', 'in my first year in the lab', 'in the lab' (coins), 'in none of my grammars'. Added or corrected: the Greek clause; 'the only one the book had given me'; 'a word I had never seen written down'; 'for most of my working life'; 'Everyone beats somebody at Delphi' now on the boxer; 'He tells it all wrong'; 'the next treasury'; 'from the saw'; and the restored ski lifts, hall roof, library-book inference and knuckle scratch (p45). Mara's 'reads French' trait and the French-report row were dropped, because the page no longer shows how she knows. CH5-5 re-checked (still RESOLVED). CH3-8 opened as NEEDS-REPLANT. The knuckle scratch was cut and then restored by the Ch.3 evaluator at p45, so Ch.5's callbacks (p15, p150) still have their source and no replant item is needed."
       flag: "RESOLVED"
       resolved_date: "2026-10-19"
+    - chapter: 6
+      found: "2026-10-19 (Ch.7 run): chapter-6.md was last written 15:45:34, after the Ch.6 entity update (ENTITY_STATE.yaml 15:44:31). The edit is polish cycle 1 (evaluations/revision-chapter-6-cycle1.md, 15:39)"
+      issue: "the file now has 341 prose paragraphs, not 342. Fix #4 merged old p101 ('I will not.') and old p102 ('I will go up without you,' I said.) into one paragraph, now p101: 'I will not. I will go up without you.' Old p1..p100 keep their numbers, and old p103..p342 = current p102..p341. Checked: 'In Delphi not one person knows my name' p116 -> p115; 'The shovel comes back.' p155 -> p154; 'Since the olives.' p318 -> p317; 'She came off a ship.' p320 -> p319; 'Men will come asking' p342 -> p341. Text the cycle changed that this file still quotes: (#13) 'The rock was cold. The air did not move.' is now 'The rock was cold. Behind me the torch flame stood straight up.' (5 occurrences here). (#17) the Sacred Way sentence after 'a laugh with nobody at the end of it' is cut, so 'in front of half the Way' (CH6-4's resolution text) is no longer on the page. (#2) Emilio wound the Seiko 'on the few mornings he was there', not 'each morning of my childhood' (emilio-reyes trait; the timeline_events row). (#5) old p38 now reads 'I had no idea how to get up onto the plain. I'd come down by the long road round' (CH6-5). (#14) 'I mend broken things in a basement for money' is now 'I make the cracks in old pots disappear'. (#6) new: the gray mule 'had to brace a foot under his weight; his hands were older than the rest of him'. Also: (#1) 'We were under the firs before I saw them' cut; (#3) 'Behind him my duffel' -> 'At his feet my duffel'; (#7) 'The mule sat back on her haunches'; (#8) 'did not give it to me' cut; (#9) 'You've got that coin.'; (#10) 'He meant the kiln.' cut; (#11) 'he was asking about the watch'; (#12) 'down to the iron of the shovel'; (#15) the anaphora triad recast; (#16) 'bent under the low roof of the crack'; (#18) 'broad as my two hands' cut; (#19) 'He looked down at my boots', and 'I watched him decide it' cut"
+      action: "OPEN. Not done in this run, which covers Ch.7 only (UPDATE re-processes only the chapters it is given). Run UPDATE on chapter 6: re-anchor every ch-06:pYY with YY >= 103 by -1, retire p102, then apply the text changes above. Until then every ch-06:pYY in this file, including the Ch.7 cross-cites added in this run, uses the pre-cycle numbering, so the whole set can be moved in one step. character-bible.md is already synced to the cycle-1 page (its Valens card says 'SYNCED … after … polish cycle 1')"
+      flag: "OPEN"
   chapters_planned: 44
   canon_inputs:
     - "STATE.yaml (guardrails, resolved_author_decisions, decisions ARCH-1..18; ARCH-4 revised)"
@@ -93,7 +105,7 @@ meta:
   source_convention:
     plan: "outline:ch-XX = planned in that chapter's outline entry; outline:macro = Macro-Structure/ledger block; foundation:§N = foundation section; STATE:ARCH-N = architect decision in STATE.yaml"
     manuscript: "ch-XX:pYY once written. UPDATE mode replaces outline:ch-XX with ch-XX:pYY as each chapter confirms (or contradicts) the plan."
-    paragraph_rule: "pYY = the YY-th prose paragraph of the chapter file, counting every non-empty line except the '# Chapter' heading and the '* * *' scene breaks (Ch.1 = p1..p193 and Ch.2 = p1..p69, both re-anchored 2026-10-18 to the files as they stand after the editor passes; Ch.3 = p1..p90, no scene breaks, 6,834 words, re-anchored 2026-10-18 after polish cycle 1; Ch.4 = p1..p83, seven '* * *' breaks (eight shards: p1-p2, p3-p12, p13-p35, p36-p42, p43-p58, p59-p62, p63-p73, p74-p83), 1,869 prose words; re-anchored 2026-10-19 after polish cycle 1: still 83 paragraphs and the same eight shards, so every ch-04:pYY keeps its number; now 1,803 prose words, wc -w 1,832; Ch.5 = p1..p212, four '* * *' breaks; re-anchored 2026-10-19 after polish cycle 1 and finalize fixes N1-N7 (still 212 paragraphs; five shards now p1-p21 descent, p22-p72 Sacred Way and temple, p73-p92 steps and rod, p93-p207 square, herald, spring, Kallia, p208-p212 storeroom; wc -w 8,173). Italic notebook/document lines count as paragraphs. Ch.6 = p1..p342 (added 2026-10-19): two '* * *' breaks, three shards p1-p35 (the recess, the present), p36-p243 (backfill: the lane, the deal, the night, the climb, into the cave), p244-p342 (the wall, the bread, the descent, the kiln, the first houses); the two HTML comment lines under the heading (scene budget; word count) are metadata, not prose, and are NOT counted; 6,634 prose words after the disruptor per the file's own comment. Ch.1 re-checked 193 and Ch.5 re-checked 210 for the Ch.6 cross-cites. Re-checked after the Ch.6 continuity repair (chapter-6.md last written 15:15:16): still p1..p342 with the same two breaks, so every ch-06:pYY keeps its number. The repair changed text inside p2, p7, p14, p34, p37, p67, p86, p108, p110, p116, p120, p159, p164, p165, p249, p254, p258, p272, p277, p278, p289, p308, p312, p315 and p318."
+    paragraph_rule: "pYY = the YY-th prose paragraph of the chapter file, counting every non-empty line except the '# Chapter' heading and the '* * *' scene breaks (Ch.1 = p1..p193 and Ch.2 = p1..p69, both re-anchored 2026-10-18 to the files as they stand after the editor passes; Ch.3 = p1..p90, no scene breaks, 6,834 words, re-anchored 2026-10-18 after polish cycle 1; Ch.4 = p1..p83, seven '* * *' breaks (eight shards: p1-p2, p3-p12, p13-p35, p36-p42, p43-p58, p59-p62, p63-p73, p74-p83), 1,869 prose words; re-anchored 2026-10-19 after polish cycle 1: still 83 paragraphs and the same eight shards, so every ch-04:pYY keeps its number; now 1,803 prose words, wc -w 1,832; Ch.5 = p1..p212, four '* * *' breaks; re-anchored 2026-10-19 after polish cycle 1 and finalize fixes N1-N7 (still 212 paragraphs; five shards now p1-p21 descent, p22-p72 Sacred Way and temple, p73-p92 steps and rod, p93-p207 square, herald, spring, Kallia, p208-p212 storeroom; wc -w 8,173). Italic notebook/document lines count as paragraphs. Ch.6 = p1..p342 (added 2026-10-19): two '* * *' breaks, three shards p1-p35 (the recess, the present), p36-p243 (backfill: the lane, the deal, the night, the climb, into the cave), p244-p342 (the wall, the bread, the descent, the kiln, the first houses); the two HTML comment lines under the heading (scene budget; word count) are metadata, not prose, and are NOT counted; 6,634 prose words after the disruptor per the file's own comment. Ch.1 re-checked 193 and Ch.5 re-checked 210 for the Ch.6 cross-cites. Re-checked after the Ch.6 continuity repair (chapter-6.md last written 15:15:16): still p1..p342 with the same two breaks, so every ch-06:pYY keeps its number. The repair changed text inside p2, p7, p14, p34, p37, p67, p86, p108, p110, p116, p120, p159, p164, p165, p249, p254, p258, p272, p277, p278, p289, p308, p312, p315 and p318. Ch.7 = p1..p194 (added 2026-10-19): three '* * *' breaks give four shards. p1-p58 is the body (shovel, clothes, walking, sitting, eyes, the latrine, the swept door, the bath, the lentisk). p59-p128 is the tongue (house Greek, the salt market, the month of public silence, the carding evening, Valens at the gate, the broken jar). p129-p182 is the wax (the tribute lists, the Syracuse plan, the council hall, 'Maira. The water.'). p183-p194 is the cost, Mrs. Dunphy, the broom and midwinter. The two HTML comment lines under the heading are not counted. The file's own comment gives 6,142 prose words by shape_check (wc -w 6,306). The italic register line (p172) counts as a paragraph. NOTE: chapter-6.md now has 341 paragraphs after its polish cycle 1. The ch-06 numbers in this file are still the pre-cycle ones (see revalidation_needed, chapter 6)."
   status_convention: "Every fact below is PLANNED until its chapter is written. A written chapter that departs from a planned fact is a conflict, not an overwrite."
   method_extension: "knowledge.method adds `prior_knowledge` (known before the story's first scene, e.g. Mara's 1998 education) to the standard set told_by:slug | overheard | witnessed | discovered | inferred."
   conflicts_index:
@@ -120,7 +132,7 @@ meta:
     - { gap: "When Valens learns the tomb's location", status: CLOSED, resolution: "Ch.30: he follows her to the tomb after the tremor", source: "outline:ch-30; outline:ch-37" }
     - { gap: "Whether Fenn knows AD 79 is the eruption year", status: CLOSED, resolution: "yes, from school; he rebuilt his tables around it after 73 and says so plainly in Ch.25", source: "outline:ch-25; foundation:§3; STATE:ARCH-16" }
     - { gap: "Whether Felix knows about the door", status: CLOSED, resolution: "no; Ch.37 he is told only that Mara fears the mountain", source: "outline:ch-37" }
-    - { gap: "Mara's eye colour, hair and height", status: OPEN, resolution: "set on the page by Ch.1 (or first mention); by design", source: "outline-audit.md § Beyond the audit", ch1_update: "PARTIAL: Ch.1 sets only that her hair is worn up in a knot (long enough to knot; a pencil through it after the clip broke). Colour, eye colour and height remain unset on the page.", ch1_source: "ch-01:p146; ch-01:p147; ch-01:p150", ch2_update: "Ch.2 adds none of the three (the jeweler-scene 'my eyes going hot' is cut in polish cycle 1; only an old filling on the upper-left last molar, p50). Still PARTIAL.", ch3_update: "Ch.3 adds none of the three (only a blush into cheeks and the tops of her ears, p75; a scratch across the knuckles of her right hand, p45). Still PARTIAL.", ch4_update: "Ch.4 adds none of the three (only 'my fleece', ch-04:p50; ch-04:p80; the jeans line at p5 was cut in polish cycle 1). Still PARTIAL.", ch5_update: "Ch.5 adds none of the three. Hair: only 'my wet hair in my face' at the spring (ch-05:p140), colour not stated. Kallia's lamplight inspection gives hands and teeth only: a scalpel scar on the side of the left forefinger, the thornbush scratch across the right knuckles, acetone shine on the finger pads, a pen callus on the side of the middle finger, and an old silver filling in the upper left molars (ch-05:p150; ch-05:p154). Still PARTIAL.", ch6_update: "Ch.6 adds none of the three. Hair, eyes and height are not mentioned. The body facts are hands only: knuckles split from the cold water, a healing blister on each palm from the jar handles (p112), the skin off the pad of her thumb from the shovel's iron (p2), fingertips white with cold (p5; p8), the skin off the heel of her hand where she hits the slab, bleeding (p249; p254). Still PARTIAL." }
+    - { gap: "Mara's eye colour, hair and height", status: OPEN, resolution: "set on the page by Ch.1 (or first mention); by design", source: "outline-audit.md § Beyond the audit", ch1_update: "PARTIAL: Ch.1 sets only that her hair is worn up in a knot (long enough to knot; a pencil through it after the clip broke). Colour, eye colour and height remain unset on the page.", ch1_source: "ch-01:p146; ch-01:p147; ch-01:p150", ch2_update: "Ch.2 adds none of the three (the jeweler-scene 'my eyes going hot' is cut in polish cycle 1; only an old filling on the upper-left last molar, p50). Still PARTIAL.", ch3_update: "Ch.3 adds none of the three (only a blush into cheeks and the tops of her ears, p75; a scratch across the knuckles of her right hand, p45). Still PARTIAL.", ch4_update: "Ch.4 adds none of the three (only 'my fleece', ch-04:p50; ch-04:p80; the jeans line at p5 was cut in polish cycle 1). Still PARTIAL.", ch5_update: "Ch.5 adds none of the three. Hair: only 'my wet hair in my face' at the spring (ch-05:p140), colour not stated. Kallia's lamplight inspection gives hands and teeth only: a scalpel scar on the side of the left forefinger, the thornbush scratch across the right knuckles, acetone shine on the finger pads, a pen callus on the side of the middle finger, and an old silver filling in the upper left molars (ch-05:p150; ch-05:p154). Still PARTIAL.", ch6_update: "Ch.6 adds none of the three. Hair, eyes and height are not mentioned. The body facts are hands only: knuckles split from the cold water, a healing blister on each palm from the jar handles (p112), the skin off the pad of her thumb from the shovel's iron (p2), fingertips white with cold (p5; p8), the skin off the heel of her hand where she hits the slab, bleeding (p249; p254). Still PARTIAL.", ch7_update: "Ch.7 gives her hair colour only by comparison: the long hair caught in the girl's himation is 'darker than mine and crimped from a braid' (ch-07:p11), so Mara's hair is lighter than that girl's dark hair. The colour itself is not named. Eyes and height are not stated. Other body facts: the pale band where the watch was (p48), the smallpox vaccination scar high on her left arm (p48; p54), unsinged legs (p40-p44). Still PARTIAL." }
     - { gap: "How Celer learned (autumn AD 70) that Valens was in Phocis and approached as a witness, so that the reward notice went up 'within the month'", status: OPEN, resolution: null, source: "outline:ch-12; foundation:§3" }
     - { gap: "Whether Felix knows Mara's origin", status: OPEN, resolution: null, source: "outline (absent)" }
   contradictions:
@@ -147,6 +159,7 @@ meta:
       prose: "she looks 'over the top of a magnifier she had pushed up into her hair' (p52); the magnifier is not used again on the page (the cut gesture of taking it out and laying it on the ledger is gone). She has Mara hold one corner 'Not with the wet hand' and holds the other end herself (p68-p69)"
       line: "ch-01:p52 (manuscript line 107); ch-01:p68-p69 (lines 139-141)"
       note: "the bible's 'Ch.1 as written' addendum already records the magnifier; the original physicality line was not updated (re-checked 2026-10-18: character-bible.md#irene-szabo still says 'glasses she is not wearing' and 'weights a chart's corners'). Still open."
+      recheck_ch7: "2026-10-19 (Ch.7 run, auto-resolution check): both values still stand in the files cited; Ch.7 does not touch this. Still open."
       flag: "UNRESOLVED"
     - id: CH1-3
       chapter: 1
@@ -157,6 +170,7 @@ meta:
       line: "ch-01:p90 (manuscript line 183); ch-01:p99 (line 201)"
       note: "tracker's own earlier note was imprecise; the first_appearance note is re-stated from the prose. No manuscript action implied."
       ch2_note: "Ch.2 names him in full twice inside documents: 'August Fenn' (his own entry, ch-02:p1) and 'FENN, August J.' (consulate carbon, ch-02:p66)."
+      recheck_ch7: "2026-10-19 (Ch.7 run, auto-resolution check): both values still stand in the files cited; Ch.7 does not touch this. Still open."
       flag: "UNRESOLVED"
     - id: CH2-1
       chapter: 2
@@ -166,6 +180,7 @@ meta:
       prose: "'I might be in Greece.' (no 'first'). Halloran takes it as a holiday: 'Greece! … Sure, that's practically next door. Think about it.' Whether she might come to Campania after Greece is never raised."
       line: "ch-02:p41; ch-02:p42 (manuscript lines 89, 91)"
       note: "Halloran knows only 'might be in Greece', said on Sat 28 March, five weeks before she decides (Tue 5 May, p50). knowledge recorded from the prose. Re-checked 2026-10-18 after polish cycle 1: prose unchanged ('I might be in Greece.'; Halloran now 'pleased for me, as if I'd said Florida'); outline.md:163 still says 'first'. Still open."
+      recheck_ch7: "2026-10-19 (Ch.7 run, auto-resolution check): both values still stand in the files cited; Ch.7 does not touch this. Still open."
       flag: "UNRESOLVED"
     - id: CH2-2
       chapter: 2
@@ -187,6 +202,7 @@ meta:
       prose: "the carbon reads 'one man's overcoat, wool, gray, with contents of pockets, forwarded to next of kin, Miss Margaret Fenn'. The page does not say the notebook was in the coat, and there is no shepherd. Mara refolds the slip and states no conclusion (p67)."
       line: "ch-02:p65; ch-02:p66; ch-02:p67 (lines 141-145)"
       note: "the notebook-in-coat path (and the shepherd) still rests on outline:ch-27 and foundation:§3. The slip implies the path; the page does not state it. Re-checked 2026-10-18: carbon text unchanged (p66); outline.md:166 unchanged. Still open."
+      recheck_ch7: "2026-10-19 (Ch.7 run, auto-resolution check): both values still stand in the files cited; Ch.7 does not touch this. Still open."
       flag: "UNRESOLVED"
     - id: CH2-4
       chapter: 2
@@ -196,6 +212,7 @@ meta:
       prose: "it runs from the night of Sat 14 March (first reading, p3) to the night of Mon 18 May, the night before the Tuesday 19 May flight (p52, p68): about nine weeks and three days"
       line: "ch-02:p3; ch-02:p52; ch-02:p68"
       note: "re-checked 2026-10-18: span unchanged by polish cycle 1; outline.md:154 still 'Over eight weeks'. Still open."
+      recheck_ch7: "2026-10-19 (Ch.7 run, auto-resolution check): both values still stand in the files cited; Ch.7 does not touch this. Still open."
       flag: "UNRESOLVED"
     - id: CH2-5
       chapter: 2
@@ -206,6 +223,7 @@ meta:
       line: "ch-02:p2; ch-02:p24; ch-02:p42; ch-02:p59-p62"
       note: "the bible paraphrases loosely. Quote the prose if any of these is recalled later. Re-checked 2026-10-18: character-bible.md still says 'only beeps' (l.409), 'you'll practically be next door' (l.416), 'after BIBLIOTHECA' (l.174) and 'taps' (l.518). Still open."
       ch3_note: "also found in the Ch.3 run (2026-10-18): character-bible.md l.520-521 still gives the Sansom Street jeweler a 'telephone clamped to his shoulder the whole visit'; polish cycle 1 cut the telephone (the prose has the Daily News crossword and the show tune, ch-02:p14-p15)."
+      recheck_ch7: "2026-10-19 (Ch.7 run, auto-resolution check): both values still stand in the files cited; Ch.7 does not touch this. Still open."
       flag: "UNRESOLVED"
     - id: CH2-6
       chapter: 2
@@ -228,6 +246,7 @@ meta:
       line: "ch-03:p71 (manuscript line 155)"
       note: "in Ch.2 the Tuesday cold came weeks before the cigarette, and after the cigarette he planned to go in the next day (Monday). The Ch.3 sentence is Mara's compressed recollection; the tracker keeps the Ch.2 entries as the record of what the notebook says."
       recheck_ch3_cycle1: "2026-10-18, after polish cycle 1: sentence unchanged (now ch-03:p71, the paragraph re-anchored from p78). Still open."
+      recheck_ch7: "2026-10-19 (Ch.7 run, auto-resolution check): both values still stand in the files cited; Ch.7 does not touch this. Still open."
       flag: "UNRESOLVED"
     - id: CH3-2
       chapter: 3
@@ -238,6 +257,7 @@ meta:
       line: "ch-01:p78 (manuscript line 159); ch-03:p46 (manuscript line 103)"
       note: "same drawing, two size comparisons (littlest fingernail vs smaller than a lentil). The shape agrees in both."
       recheck_ch3_cycle1: "2026-10-18, after polish cycle 1: ch-03:p46 unchanged ('smaller than a lentil'); chapter-1.md line 159 unchanged ('the size of my littlest fingernail'). Still open."
+      recheck_ch7: "2026-10-19 (Ch.7 run, auto-resolution check): both values still stand in the files cited; Ch.7 does not touch this. Still open."
       flag: "UNRESOLVED"
     - id: CH3-3
       chapter: 3
@@ -253,6 +273,7 @@ meta:
       ch5_note: "2026-10-19 (Ch.5 run): Mara's plan recalls the site as a pen: 'the pen was by the firs, and the firs were below the cave' (ch-05:p136). She sleeps in 'what smelled like a sheepfold' at the foot of the slope (ch-05:p1); this is a different structure, below the pen. Still no hut. Still open (plan vs prose)."
       recheck_ch5_cycle1: "2026-10-19, after Ch.5 polish cycle 1 and finalize fixes: p136 unchanged ('the pen was by the firs, and the firs were below the cave'); p1 now finds the sheepfold wall 'with the flashlight'. Still no hut on the page. outline.md:213 ('a stone hut') and :222 ('The refuge hut is now a shepherd's stone pen') unchanged. Still open (plan vs prose)."
       ch6_note: "2026-10-19 (Ch.6 run): Ch.6 is a third look at the site, a pen again: 'By the pen under the firs I knew where I was. Its stones still stood upright on their edges, each propped on the next all round, with snow lying along the slant of every one. Somebody had tied the hurdle shut with a fresh withy since October.' (ch-06:p220). The only huts are the plain's, with brush roofs (ch-06:p191). Still no refuge hut. Still open (plan vs prose)."
+      recheck_ch7: "2026-10-19 (Ch.7 run, auto-resolution check): both values still stand in the files cited; Ch.7 does not touch this. Still open."
       flag: "UNRESOLVED"
     - id: CH3-4
       chapter: 3
@@ -305,6 +326,7 @@ meta:
       ch5_note: "2026-10-19 (Ch.5 run): the page now gives her the year and the span. She dates it to 'the autumn of the year seventy' and works out 'Nineteen ninety-eight, less seventy. One thousand nine hundred and twenty-eight years' (ch-05:p108; ch-05:p109). She tells Kallia, in English, 'I walked out of a cave yesterday. I was in it ten minutes' (ch-05:p159). Her plan is to sit at the crack again because 'if the cold had leaked from that rock at one-forty on a day in May it might come again on some other day' (ch-05:p136). The words 'door' and 'crossing' are still not used. The tracker row and the prose are closer now, but the page still never names a door. Left open for continuity-guardian."
       recheck_ch5_cycle1: "2026-10-19, after Ch.5 polish cycle 1 and finalize fixes: the year and span unchanged (ch-05:p108 'the autumn of the year seventy'; ch-05:p109 'One thousand nine hundred and twenty-eight years'); 'I walked out of a cave yesterday. I was in it ten minutes' unchanged (ch-05:p159); the crack plan unchanged (ch-05:p136). 'door' and 'crossing' still do not occur in Ch.5. Still open (tracker-plan vs prose; no manuscript action implied)."
       ch6_note: "2026-10-19 (Ch.6 run): the page now talks about the crack opening and shutting. To Valens: 'Where I came in' (p84), 'From in there. Not over anything.' (p91), 'Until it opens' (p232), 'Cold. I was looking for cold. A wind, out of the rock.' (p279), 'It was not a who.' (p286). In her English monologue: 'I have no idea what happens if it's shut … If that cave is open today I'll walk down to the hotel on the main street in Delphi' (p165). Neither 'door' nor 'crossing' is used about the cave in Ch.6. After the continuity repair the only 'door' token in Ch.6 is 'doorways' (p340); the 'freezer door' line is cut. Still open (tracker-plan vs prose; no manuscript action implied)."
+      recheck_ch7: "2026-10-19 (Ch.7 run): Ch.7 names no door, crossing or year for the cave either ('On the god's rock. At the cave.', p6; 'the dark arch and its painted letters', p194). Its only doors are Kallia's shut room (p37; p185). Still open."
       flag: "UNRESOLVED"
     - id: CH4-1
       chapter: 4
@@ -329,6 +351,7 @@ meta:
       recheck_ch4_cycle1: "2026-10-19: ch-04:p43 unchanged ('Two bars were inside, as there always were'). Still open."
       ch5_note: "2026-10-19 (Ch.5 run): Ch.5 keeps the pouch as the unit: 'I opened a pouch from the granola box with my teeth' (ch-05:p1); then 'I had the rest of the granola' (ch-05:p136). The number left is still not stated. Still open."
       recheck_ch5_cycle1: "2026-10-19, after Ch.5 polish cycle 1: the storeroom 'corners of the granola box' are cut (W-07); p1 'a pouch from the granola box' and p136 'the rest of the granola' stand. ch-03 single bars vs ch-04 two-bar pouch unchanged. Still open."
+      recheck_ch7: "2026-10-19 (Ch.7 run, auto-resolution check): both values still stand in the files cited; Ch.7 does not touch this. Still open."
       flag: "UNRESOLVED"
     - id: CH4-3
       chapter: 4
@@ -343,6 +366,7 @@ meta:
       recheck_ch5_cycle1: "2026-10-19, after Ch.5 polish cycle 1 and finalize fixes: still six 'fleece' (ch-05:p73; p86; p91; p136; p162; p209); p136 keeps 'pushed the sleeves of the fleece up' (only Kallia's sightline lost 'with my sleeves pushed up', p140); no 'jacket' in Ch.5. The sweater stays separate (p1; p209). Still open."
       recheck_author_fixes: "2026-10-19: Ch.3 still says 'jacket' (p7, p49, p52, p73). The sleeve is torn 'on the thorns' (p45), and 'at the elbow' is cut. Ch.5 is unchanged (six 'fleece'). Still open."
       ch6_note: "2026-10-19 (Ch.6 run): Ch.6 names no upper garment at all: no 'fleece', 'jacket' or 'sweater'. Only jeans (p108), boots (p90) and 'trousers' (the charcoal burner p319; Valens p329; 'in trousers' in the goat-boy's story p86) are on the page. Nothing added to either side. Still open."
+      recheck_ch7: "2026-10-19 (Ch.7 run): 'The jeans went in first, folded, with the fleece over them and the shirt over the fleece' (ch-07:p10). 'fleece' again, no 'jacket'. The shirt ('The shirt with the buttons', p9) is new. Still open."
       flag: "UNRESOLVED"
     - id: CH4-4
       chapter: 4
@@ -354,6 +378,7 @@ meta:
       note: "ΝΥΜΦ… → ΝΥΜΦΑΙΣ fits weathering. For the second word, Ch.3 calls 'ΠΑΝ' 'very clear', yet the AD 70 word has a final iota (ΠΑΝΙ) that the 1998 reading does not show. Not resolved here: the iota may have weathered away."
       recheck_ch4_cycle1: "2026-10-19: ch-04:p28 inscription unchanged; ch-03:p49 unchanged. Still open."
       recheck_ch5_cycle1: "2026-10-19: Ch.5 does not mention the inscription; ch-03:p49 and ch-04:p28 unchanged. Still open."
+      recheck_ch7: "2026-10-19 (Ch.7 run): Ch.7 does not quote the inscription ('the dark arch and its painted letters', p194). Still open."
       flag: "UNRESOLVED"
     - id: CH4-5
       chapter: 4
@@ -402,6 +427,7 @@ meta:
       line: "ch-05:p52"
       note: "this is the first antiquity frame, and it is on the page with its subject named (the empty Kroton base). The arithmetic still works: plan count 9 shot, 27 left including frame 36. Page count: at least 8 shot (6 on the page in Ch.3, at least 1 in Delphi, and this one), so at most 28 left. The counter is not mentioned. The departure is only that the plan put every unnamed antiquity frame off the page."
       recheck_ch5_cycle1: "2026-10-19, after Ch.5 polish cycle 1: the frame stands at p52 (wording 'for the Pentax' replaces 'and brought out the Pentax'); foundation §4f unchanged. Still open (plan vs page)."
+      recheck_ch7: "2026-10-19 (Ch.7 run): the Pentax and the film are not mentioned in Ch.7 (0 frames). Still open."
       flag: "UNRESOLVED"
     - id: CH5-4
       chapter: 5
@@ -412,6 +438,7 @@ meta:
       line: "ch-02:p63; ch-03:p63; ch-04:p43; ch-05:p209"
       note: "the planned Ch.5 touch is on the page as written. Counting from the Ch.2 packing, it is the 3rd contact with the sock on the page, not the 2nd (Ch.3 named the tape; Ch.4 named only 'the sock'). The next planned touches, Ch.19 and Ch.35, are unaffected."
       recheck_ch5_cycle1: "2026-10-19, after Ch.5 polish cycle 1: Ch.5 now has exactly one touch (p209, restaged; the route past the granola box and the Pentax and 'rolled tight' / 'small flat weight' are cut). The count question is about Ch.3 (ch-03:p63) and Ch.4 (ch-04:p43), both unchanged, so the 3rd-contact reading stands. Still open (plan schedule vs page)."
+      recheck_ch7: "2026-10-19 (Ch.7 run): the microcassette and its sock are not mentioned in Ch.7. Still open."
       flag: "UNRESOLVED"
     - id: CH5-5
       chapter: 5
@@ -511,6 +538,7 @@ meta:
       line: "ch-05:p210; ch-06:p38"
       note: "reconcilable: she knew the long road (most of a day down, ch-05) but not a way up the cliff above the town. Read literally, 'I had no idea of the way' sits against a plan that named the route. Recorded, not judged."
       recheck_continuity_repair: "2026-10-19: p38 unchanged after the continuity repair (the audit filed it as a note, N-18). Still open."
+      recheck_ch7: "2026-10-19 (Ch.7 run, auto-resolution check): Ch.6 polish cycle 1 (fix #5) rewrote p38 after the Ch.6 update. It now reads 'On the fourth morning I reached the top of the town with the duffel before it came to me that I had no idea how to get up onto the plain. I'd come down by the long road round, and between the plain and Delphi stood only cliff.' The page now admits the long road, and the remaining gap is only the climb above the town. NARROWED. The plan value (ch-05:p210) still stands, so this is left for continuity-guardian. Still open."
       flag: "UNRESOLVED"
     - id: CH6-6
       chapter: 6
@@ -548,10 +576,82 @@ meta:
       flag: "RESOLVED"
       resolved_from_conflict: true
       resolved_date: "2026-10-19"
+    - id: CH7-1
+      chapter: 7
+      severity: low
+      entity: "mara-reyes.traits (length of her working life)"
+      plan: "Ch.3 prose: 'My lungs had spent ten years in a basement lab.' (ch-03:p2). Tracked as the trait 'has worked about ten years in the basement lab' and the derived timeline event 'c. 1988 … Mara begins work in the basement lab'"
+      prose: "'I had spent fifteen years at a bench keeping things from being wiped smooth' (ch-07:p174)"
+      line: "ch-03:p2; ch-07:p174"
+      note: "Mara is 33 in 1998 (b. 1965). Ten years in the lab puts the start at about 23; fifteen years at a bench puts it at about 18. The two agree if 'a bench' includes student or apprentice bench work before the lab job, but the page does not say so. Recorded, not judged."
+      flag: "UNRESOLVED"
+    - id: CH7-2
+      chapter: 7
+      severity: info
+      entity: "locations.kallias-house (where the shut, swept room is)"
+      plan: "ch-07:p37: 'The one door in that house I was not let near was at the end of the gallery, past the lodgers' rooms, where they never went.' ch-07:p185: Kallia is 'up on the gallery with the broom, doing the boards in front of the shut door', and speaks 'at the bottom' of the stair"
+      prose: "ch-07:p95: 'I asked her who slept in the room at the top of the stair'"
+      line: "ch-07:p37; ch-07:p95; ch-07:p185"
+      note: "one chapter gives two placements: the far end of the gallery, past the lodgers' rooms, and the top of the stair. Both hold only if the outside stair comes up at that end of the gallery. The page does not say where it comes up (Ch.5 gives only 'an outside staircase to a gallery', kallias-house household_ch5). Ch.10 (the letter) and Ch.16 (the broom put away) will place the room again. Recorded, not judged."
+      flag: "UNRESOLVED"
+    - id: CH7-3
+      chapter: 7
+      severity: low
+      entity: "plot_threads.syracuse-cover (arrival) vs the arrival on the page"
+      plan: "Ch.5: Mara reaches Delphi in the olive harvest and is seen all over the town on her first day (the Sacred Way, the temple steps, the square, the spring). Ch.6: at Kallia's 'Since the olives' (Valens, ch-06:p318); 'most of a month' at Kallia's before the climb (ch-06:p37); the last ship left Kirrha eight days before the climb (ch-06:p69)"
+      prose: "Kallia's cover: 'Your people died, and you came on the last boat before the sea shut, after the vintage' (ch-07:p135); to the clerk: 'She came on the last boat, after the vintage' (ch-07:p153); 'The whole spring knows you came on a boat' (ch-07:p139)"
+      line: "ch-06:p37; ch-06:p69; ch-06:p318; ch-07:p135; ch-07:p139; ch-07:p153"
+      note: "by the page's own calendar Mara was in Delphi about three weeks before the season's last ship left Kirrha. If anyone counts, 'the last boat before the sea shut' does not fit what the town remembers of her. It fits if 'the last boat' means the last from the west, or if nobody counts. The written line (ch-07:p172) carries neither the boat nor the date, so the record itself is not contradicted. Recorded, not judged."
+      flag: "UNRESOLVED"
+    - id: CH7-4
+      chapter: 7
+      severity: info
+      entity: "world_rules (Achaea's 'freedom') / locations.corinth"
+      plan: "world rule: 'Nero granted Achaea freedom (late 67), removing the proconsul; there is no proconsul in 69; Vespasian revoked it, and in this book a proconsul governs from Corinth again by 71' (foundation:§9; foundation:§3). locations.corinth: 'no proconsul during Achaea's freedom'"
+      prose: "'The talk at the spring was that the new emperor meant to take back the freedom Nero had given Greece … nobody at the spring knew when, but the council wanted every house in the city on tablets before the governor's men in Corinth thought to ask for it.' (ch-07:p129)"
+      line: "ch-07:p129"
+      note: "in winter AD 70-71 the page has the freedom still in force (not yet taken back) and also 'the governor's men in Corinth'. That fits the rule if 'governor' means the governor expected once the freedom is revoked, or an official who is not a proconsul. Read literally, it puts a governor in Corinth when there is supposed to be none. The tribute lists are spring talk, and hedged ('nobody … knew when'). Recorded, not judged."
+      flag: "UNRESOLVED"
+    - id: CH7-5
+      chapter: 7
+      severity: info
+      entity: "mara-reyes.traits (failed emotional management: the three-break count)"
+      plan: "foundation §3 and outline checks#4 (C6 RESOLVED): three breaks, Ch.6 (plot-earned), Ch.20 and Ch.22 (unearned). The outline's Ch.7 chaos list names teeth, Mrs. Dunphy and all-or-nothing, and no break. character-bible: Mara's voice failure is RETIRED for Ch.7-9"
+      prose: "on the council-hall step: 'pulled the borrowed wool up to my eyes, and laughed into it. I laughed without a sound, with my shoulders. I could not stop.' (ch-07:p174). The writer's report (manuscript/reports/chapter-7-report.md) files it under 'Failed emotional management: the silent laugh on the step that she cannot stop … a different channel from voice failure'"
+      line: "ch-07:p174"
+      note: "if the step laugh counts as a break, the book has four, and Ch.22's planned 'laughing fit' becomes the second uncontrollable laugh. If it is the planned relief beat (outline Ch.7 emotional surprise: the registration 'lands as relief'), the count stays at three. The page uses no break vocabulary. Recorded, not judged."
+      flag: "UNRESOLVED"
+    - id: CH7-6
+      chapter: 7
+      severity: info
+      entity: "character-bible.md Ch.7 'as written' notes (Kallia, Valens, Sosandros, the Ch.7 walk-ons, the spent and at-risk lists)"
+      plan: "the bible was written against the writer's draft. Kallia: 'Then the god can put an edge back on it.'; 'When a woman looks at a man, she's asking him something … Out there, somebody answers her.'; 'Then what do the women do all day?'; to the shut room, 'Nobody.'; 'Then who've you got for my house? You've had nobody else on that line for years. Write me.'; 'Every other winter they go, and this is the winter.'; 'Dance. Drink. Freeze.' / 'Not as high as your cave.' as two lines. Valens: 'She's got you walking.' Sosandros: 'And what is a girl from Syrakousai doing in Phocis at the year's end?'. Salt-seller: 'Antigone's come down off the stage…', 'ask for pepper, Antigone', 3 uses of 'Antigone'. Drover: 'Here's the simple one.', 'Look at me, simple.', 'simple' three times. Spent list: 'a woman stripped of her clothes in that room was a document'. Mention list: 'the young man in the good cloak past the running track'. At-risk: 'Credential asides: Ch.7 has 1 (grammar)'"
+      prose: "the page: 'Let the god put an edge back on it.' (p7); 'Look at a man out there and you've asked him something. And somebody answers.' (p33, one speech); 'What do the women do all day?' (p84); 'It's swept' (p95); 'Who stands for my house, if I don't? You've had no other name on that line for years. Write me.' (p169); 'They go every other winter, and this is the winter.' (p189); 'Dance. Drink. Freeze. Not as high as your cave.' (p193, one line); 'She's taught you to walk,' (p102); 'Resident since when? On what business?' (p152); 'She's come down off the stage for a scoop of salt!' (p68); 'Come again tomorrow and ask for pepper. My sister's never seen a play.' (p70); 'Antigone' twice (p68; p116); 'Here's the one that doesn't talk.' (p109); 'Look at me.' (p111); 'simple' twice from the drover (p111), once from Kallia to Valens (p105), and Kallia's 'they say you're simple' / 'Simple girls' (p73; p75). There is no 'document' sentence and no running-track young man, and the tic gate counts 0 credential asides"
+      line: "ch-07:p7; ch-07:p33; ch-07:p68; ch-07:p70; ch-07:p73; ch-07:p75; ch-07:p84; ch-07:p95; ch-07:p102; ch-07:p105; ch-07:p109; ch-07:p111; ch-07:p116; ch-07:p152; ch-07:p169; ch-07:p189; ch-07:p193"
+      note: "the bible paraphrases text that is no longer on the page. Dialogue-polish and the disruptor changed it, and both reports list the quotes they invalidated and say character-bible.md was NOT edited. The bible also lacks some page text: Mara's 'What was he called? Your husband's brother.' (p136, unanswered), Kallia's 'Singe your own,' (p44), the baker's wife's 'And where's that, where they've no lamps?' (p45), Mara's 'Only my wrist.' (p127) and 'And what is it for?' (p192), and the weed on the lion's lip (p110). Quote the prose if any of these is recalled."
+      flag: "UNRESOLVED"
+    - id: CH7-7
+      chapter: 7
+      severity: info
+      entity: "outline Ch.7 beats 2 and 4 vs the page (wording)"
+      plan: "outline Ch.7 beat 2: 'A magistrate's clerk enters Mara as Kallia's dependent kinswoman'. Beat 4: 'Kallia's son's room: swept every morning, the broom laid across its threshold.'"
+      prose: "the clerk is the council's clerk, Sosandros, at a table in the council hall (ch-07:p129; ch-07:p141; ch-07:p142). The word 'dependent' is not used ('kinswoman of Kallia, of her house and in her keeping', p172). The page never says whose the swept room is: 'The one door in that house I was not let near' (p37); Kallia: 'It's swept' (p95)"
+      line: "ch-07:p37; ch-07:p95; ch-07:p129; ch-07:p141; ch-07:p172"
+      note: "wording only: a council clerk instead of a magistrate's clerk, and the room left unattributed, as the beat's 'No explanation' requires. Ch.10 attributes the room. Recorded so that later chapters quote the page, not the outline."
+      flag: "UNRESOLVED"
+    - id: CH7-8
+      chapter: 7
+      severity: info
+      entity: "mrs-dunphy (speech in the memory)"
+      plan: "character-bible.md#mrs-dunphy: 'Vocabulary band: none; the memory has no dialogue.' / 'Syntax fingerprint: she never speaks in the memory.' / 'Sample line: none. She never speaks.'"
+      prose: "'at three o'clock the bell went and she wiped her face with the backs of her fingers and said we could go' (ch-07:p184)"
+      line: "ch-07:p184"
+      note: "reported (indirect) speech only; there is no quoted line. Whether 'said we could go' breaks 'she never speaks in the memory' is for the guardian to judge. Ch.24 and Ch.41 should keep her silent, or keep any speech indirect. Recorded, not judged."
+      flag: "UNRESOLVED"
   post_patch_flags:   # P1-P5 RESOLVED 2026-10-18 by direct outline edits: Ch.20 opener=narrative (italic notice); Ch.7 'written down as somebody's kin'; Fenn: 34 yrs in the past, waited for THIS door since 62; Ch.43 original tables go through the door inside the notebook; the Corinth notice (autumn 70) reaches Delphi only in spring 71 (Ch.9).
     # Found while re-reading the PATCHED blueprint. Not resolved here (tracker rule 3). flag: UNRESOLVED.
     - { id: P1, where: "outline:ch-20", issue: "chapter header line says 'open: document (a wall graffito) → short-punch'; the ledger row, beat 1 and the opening strategy say an italic lost-property notice of 9–27 words → narrative (audit N-26 moved it to narrative)", flag: "UNRESOLVED" }
-    - { id: P2, where: "outline:ch-07", issue: "beat subversion still reads 'the heroine is grateful to be owned' (and the surprise calls the registration 'the worst humiliation'); beat 2, foundation §4 row 7 and ARCH-14 say dependent kinswoman, free, never property", flag: "UNRESOLVED" }
+    - { id: P2, where: "outline:ch-07", issue: "beat subversion still reads 'the heroine is grateful to be owned' (and the surprise calls the registration 'the worst humiliation'); beat 2, foundation §4 row 7 and ARCH-14 say dependent kinswoman, free, never property", flag: "RESOLVED", resolved_date: "2026-10-19", resolution: "outline.md Ch.7 beat subversion now reads 'the heroine is grateful to be written down as somebody's kin' (l.319), and the page agrees: 'free; kinswoman of Kallia' (ch-07:p172), with the relief on the step (ch-07:p174). Only P2 was re-checked in the Ch.7 run; P1 and P3-P5 still carry inline UNRESOLVED flags, although the block comment says they were resolved on 2026-10-18" }
     - { id: P3, where: "outline:ch-35 premise; outline:ch-25 shareable #4 = foundation §4b #4", issue: "Ch.35 'the door he has waited for since he landed' (AD 41) and shareable #4 'waiting thirty-four years for a door that opens the night Vesuvius erupts' vs Ch.25 / foundation §3 'he has waited for that door since 62' (he learned of it from the 62 tavern story)", flag: "UNRESOLVED" }
     - { id: P4, where: "outline:ch-38; outline:ch-43", issue: "Ch.38 packs 'the notebook and the tables'; Ch.43 sends the notebook (Fenn's key figures copied into its back pages, Ch.36), the tape, the film, the Zippo and the dime; the fate of Fenn's ORIGINAL tables (wax tablets / sheets given in Ch.35) is not stated", flag: "UNRESOLVED" }
     - { id: P5, where: "outline:ch-12 vs outline:ch-06, ch-09", issue: "the notice went up 'within the month' of autumn AD 70 (Ch.12 knowledge path), yet Valens works openly at Kallia's in November 70 (Ch.6) and Ch.9 (late winter 71) stages him reading it in the Delphi agora as a fresh sighting; reconcilable only if the notice reached Delphi months after Corinth (not stated)", ch5_note: "Ch.5 (prose) shows Corinth news reaching Delphi within weeks in autumn AD 70: 'Letters have come up from Corinth with the ship, and the council has received them' (ch-05:p95). Mara's own dating has the news reaching Greece 'in weeks, by sea, and the sea was still open' (ch-05:p108). No reward notice is in the Delphi square in Ch.5. This adds to the gap, because the post brings Corinth news fast while the notice takes months. Not resolved here.", ch6_note: "Ch.6 (prose): Valens works openly in Delphi under the name Valens (Kallia, 'Not in my court, Valens', ch-06:p48). The charcoal burner hails him as 'Mule-man!' (p309), and the sanctuary dogs know him (p161; p340). He sells Kallia split oak, as he did last winter (p50-p57). The sea is now shut: 'The last ship went out of Kirrha eight days ago' (p69). The road over to Boeotia is 'under snow. All of it.' (p150). This supports outline Ch.9's copy arriving 'with the first spring traffic'. His wariness on the page is aimed at HER pursuers ('Somebody for you', p188; 'Men will come asking', p342), and Celer is not named. Gap unchanged.", flag: "UNRESOLVED" }
