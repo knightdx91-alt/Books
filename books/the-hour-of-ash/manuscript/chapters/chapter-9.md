@@ -1,7 +1,7 @@
 # Chapter 9: The Polygonal Wall
 
 <!-- SCENE BUDGET (Target 6,400; range 5,800-7,000): Aphrodisia's stone and the letter-cutter 1,050 | the priest's court: the smith, the stand, the price of the god 1,550 | the mending, three times dug out; pitch from Valens 1,550 | the curse tablet at the trough 450 | the payment and the wiped hand; Kallia's basin 850 | the notice; the goat man; Valens at the board 1,000 -->
-<!-- Word count: 6,166 (shape_check; wc -w 6,294 incl. header; 6,114 after dialogue-polish) | Target: 6,400 (range 5,800-7,000) | Dialogue 26.9% (26.8% after dialogue-polish; 27.8% shape_check after disruptor, 5,892w; band 25-35%) | Breaks 5 | Median sentence 15 (gear mid) | And-chains 3 | Echoes 0 | Anchor: a woman "sold to Apollo" for three minae, on condition she remain with her former owner until death; she paid the cutter extra to cut it deep and cannot read it | Date: 2026-10-19 -->
+<!-- Word count: 6,166 (shape_check; wc -w 6,294 incl. header; 6,114 after dialogue-polish) | Target: 6,400 (range 5,800-7,000) | Dialogue 26.9% (26.8% after dialogue-polish; 27.8% shape_check after disruptor, 5,892w; 28% / 5,840w after continuity repair C-01, W-01..W-10; band 25-35%) | Breaks 5 | Median sentence 15 (gear mid) | And-chains 3 | Echoes 0 | Anchor: a woman "sold to Apollo" for three minae, on condition she remain with her former owner until death; she paid the cutter extra to cut it deep and cannot read it | Date: 2026-10-19 -->
 
 *In the archonship of Kleodamos, in the month Poitropios, Xenon son of Euangelos, a Delphian, sold to Apollo the Pythian a female body. Her name is Aphrodisia, she is home-born, and the price is three minae of silver, and he has the whole price. Aphrodisia has entrusted the sale to the god, on these terms: that she be free, and not to be laid hold of by anyone all her life, doing what she wishes and going to whom she wishes. But let Aphrodisia remain with Xenon as long as Xenon lives, doing what she is told, so far as she is able, without complaint. If she does not remain, or does not do what she is told, let Xenon have power to punish her as he wishes, by beating and by selling, and let the sale to the god be void. Guarantor according to the law: Damon son of Aristion. Witnesses: the priests Euthydikos and Nikandros; of private persons, Babylos, Eudoros, Philon son of Philon.*
 
@@ -23,7 +23,7 @@ He sat a few stones along, on a plank laid across two trestles. His legs hung do
 
 "Xenon son of Euangelos."
 
-"And son of Xenon, it ought to say, which is a whole word I've not been paid for." He blew into the cut he was making, and the dust went past my face in a little cloud. "They all do it. A man frees a girl and haggles with me over his own father."
+"And son of Xenon, it ought to say, which is a whole word I've not been paid for." He blew into the cut he was making, and the dust went past my face in a little cloud. "They all do it. A man frees a girl and haggles with me over his own grandfather."
 
 "Who is she?"
 
@@ -47,7 +47,7 @@ A young woman was passing along the Way with a basket of washing on her head and
 
 "Any of them would tell you, and add a bit. Euthydikos. His name's at the foot of half this wall; he likes it in stone. He lives over the gymnasium lane, the house with a bay tree in a pot at the door. You'll hear him before you find it. He's got the smith in this morning over a lamp-stand."
 
-I took the gymnasium lane, putting my question together. The god was supposed to answer in verse, and I had no verse to give him back. What I had was a mountain with a crack in it that had let me in and would not let me out, and no Greek for the middle of that story. *Where is the way back?* was too short; any god could answer it by pointing down the road to Kirrha. *Where is the door I came in by, now it is shut?* was nearer. I tried it in a murmur with the Delphian vowels, and again with the book's, and both times it sounded like somebody patting her pockets for a key. Whether I believed in Apollo was beside the point. He was the one office in Phocis that took questions about doors, and the cave had been shut to me twice.
+I took the gymnasium lane, putting my question together. The god was supposed to answer in verse, and I had no verse to give him back. What I had was a mountain with a crack in it that had let me in and would not let me out, and no Greek for the middle of that story. *Where is the way back?* was too short; any god could answer it by pointing down the road to Kirrha. *Where is the door I came in by, now it is shut?* was nearer. I tried it over in a murmur, and it sounded like somebody patting her pockets for a key. Whether I believed in Apollo was beside the point. He kept the one window in Phocis that took questions about doors, and the cave had been shut to me twice.
 
 * * *
 
@@ -101,11 +101,11 @@ Everyone had looked at it but the priest. The broken face of the shaft was gray 
 
 "Wax." The smith spat beside the sack. "On the god's bronze. It'll stand till the first warm day and then lie down in the incense."
 
-"The break is at the feet. The coals are in the bowl, at the top. The heat does not come down so far."
+"The rod takes the weight. The wax is only for the eye."
 
 "And when some slave knocks it over again?"
 
-"It will break again where it broke before," I said, "and in no new place, and the next mender will have nothing to undo but wax."
+"It will come apart along the same line," I said, "and in no new place, and the next mender will have nothing to undo but wax."
 
 Euthydikos looked at me then. Until then his eyes had gone to the slave, or to the smith, or to the air a little behind my shoulder, where a husband might have stood.
 
@@ -141,7 +141,7 @@ He spoke to the smith over my head. "Your price?"
 
 "And three more for the bowl, when it fell in your fire." He brought his gaze down to me, or near me. "A smith's price is for a smith's fire. I have wax from my own bees."
 
-"It is not a smith's work. That is why it will hold."
+"It is not a smith's work. That is why it will last."
 
 "Half."
 
@@ -185,7 +185,7 @@ Late in the day the rod went in. It slid into the foot end of the shaft to half 
 
 "Tell them it is for the god."
 
-He went and told them, with his mouth close to the clay, and in the morning he brought me a yellow cake of it wrapped in a fig leaf, and a sherd with lamp soot in it scraped off the kitchen wall.
+In the morning he brought me a yellow cake of it wrapped in a fig leaf, and a sherd with lamp soot in it scraped off the kitchen wall.
 
 I broke off a piece of the wax and worked it between my palms until it gave, and it smelled of a red crayon left on a schoolroom radiator until it slumped and shone, and I kneaded the soot into it until it was dark enough to pass for bronze in the shade. I warmed the blade of the bee-man's knife over the lamp, pressed the wax into the line round the whole shaft and polished it down with a pad of wool.
 
@@ -233,7 +233,7 @@ His eyes went past me then, into the court: to the stand on its sack in the sun,
 
 He wiped his fingers on the gray's mane, unhooked the pot and broke the cake of pitch in it with the haft of his knife, and gave me a piece. It was almost black, cold and brittle, with a mule hair in it.
 
-"How long will it hold?" he said.
+"How long will it stand?" he said.
 
 "With this in it? Years. If nobody knocks it over."
 
@@ -263,7 +263,7 @@ I wanted one more try at dawn, before Euthydikos came out. I stood the stand up 
 
 * * *
 
-*I bind Thraitta the weaver, and her loom, and the warp on her loom, and the weights that hang from the warp, and her two hands and her eyes. Let every thread she throws go slack and every thread she pulls snap, and let what comes off her loom come off crooked, and let nobody buy it. I give her down to Hermes the Holder and to Earth, and I hold her under the lead.*
+*I bind Glykera the weaver, and her loom, and the warp on her loom, and the weights that hang from the warp, and her two hands and her eyes. Let every thread she throws go slack and every thread she pulls snap, and let what comes off her loom come off crooked, and let nobody buy it. I give her down to Hermes the Holder and to Earth, and I hold her under the lead.*
 
 The boy who found it was fishing in the mud at the drovers' end of the spring basin, where the trough emptied into a culvert, with his arm in to the shoulder. I was at the lions with my jar. It was barely light, and the water bit where it ran over my wrist; the almond trees on the terraces below the road had come into flower in the last week, and the water was still in January.
 
@@ -283,13 +283,13 @@ It was a sheet of lead about the size of my palm, folded twice over and pierced 
 
 "Which weaver?"
 
-"Thraitta."
+"Glykera."
 
-"There's no Thraitta at the spring." He studied the lead, deeply cheated. "Is it worth anything?"
+"There's no Glykera at the spring." He studied the lead, deeply cheated. "Is it worth anything?"
 
 "It is lead. The smith will give you something for it."
 
-I closed it up along its old folds and handed it back to him, with the nail, and he ran off up the steps toward the town, past the women and their jars, holding it out in front of him.
+I closed it up and handed it back to him, with the nail, and he ran off up the steps toward the town, past the women and their jars, holding it out in front of him.
 
 * * *
 
@@ -327,7 +327,7 @@ The bee-man walked me to the rear gate.
 
 He went off to his hives.
 
-Kallia was in the court at home, scouring the big pot with sand, and she looked at my hand before she looked at my face. I opened it over the hearthstone and tipped the coins out on the stone.
+Kallia was in the court at home, scouring the big pot with sand. I opened my hand over the hearthstone and tipped the coins out on the stone.
 
 "Who paid?"
 
@@ -341,7 +341,7 @@ To that she gave no word at all. She filled the basin at the jar and stood it on
 
 I washed. The water in the basin went black, and the black worked into the clay, and under my nails the soot would not shift. I kept at them with a corner of the clay after the water had stopped going any blacker.
 
-"He says a stater for the god," I said, with my hands in the water. "And a goat that shakes. And a Delphian to stand for me, who will want a present, and the man."
+"He says a stater for the god," I said, with my hands in the water, "and a goat that shakes, and the rest."
 
 The sand hissed round the belly of the pot.
 
@@ -355,7 +355,7 @@ When my hands were as clean as they were going to get, I knotted the priest's co
 
 * * *
 
-*Runaway, in the autumn, from the household of Quintus Arrius Celer at Corinth: a Thracian, answering to the name Lupus, the property of that household. About thirty years old, tall, broad in the shoulder, with a scar on the back of the right hand from a wound badly stitched. He speaks Latin, and Greek like a foreigner. He has been in the arena; whoever takes him should take him with others. To whoever brings him back to the household at Corinth, five hundred drachmas. To whoever shows where he is kept, in a sanctuary or in the house of a man able to answer for him, three hundred. Copied from the notice posted at Corinth in the month Boathoos.*
+*Runaway from the household of Quintus Arrius Celer at Corinth: a Thracian, answering to the name Lupus, the property of that household. About thirty years old, tall, broad in the shoulder, with a scar on the back of the right hand from a wound badly stitched. He speaks Latin, and Greek like a foreigner. He has been in the arena; whoever takes him should take him with others. To whoever brings him back to the household at Corinth, five hundred drachmas. To whoever shows where he is kept, in a sanctuary or in the house of a man able to answer for him, three hundred. Copied from the notice posted at Corinth in the month Dadaphorios.*
 
 It was painted in red on a board whitened with gypsum, nailed to a pillar of the colonnade in the square, beside the door the herald used. The gypsum had gone on in a hurry, and the brush had dragged in it. The red had run a little at the foot of every upright, because it had been painted in the cold and the paint had not wanted to dry.
 
@@ -373,7 +373,7 @@ He looked at the rag in my fist, which was the shape of what was in it. "More th
 
 "For that you can have the shake and not the goat." He shook the rest of the water off his hand. "Send whoever's leading her up, with the rest of it. I'll keep her warm till then."
 
-The men at the board were why I went to read it. There were five or six of them, and they had the look of men who had been standing there since it went up and had settled among themselves what it said.
+The men at the board were why I went to read it. There were five or six of them, and they had the look of men who had been standing there since it went up and had settled among themselves what it said. They talked across one another, and what reached me came in pieces.
 
 "Five hundred drachmas."
 
