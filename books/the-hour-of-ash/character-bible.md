@@ -271,6 +271,37 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   notice's timing) and has his leave to tell Kallia: "Kallia, then. Nobody else." Body: "The skin was raised in a line across the front
   of my throat where the edge of the wool had dragged, and it stung."; her left sandal thong re-knotted "double". Credential asides 0;
   teeth 0; laughs 0; memories 0 (as briefed); "could have" 0 in her narration.
+- **Ch.13 as written (Writer, 2026-10-20; "The Seventh of Bysios", Parallel outside/inside, Delphi, the year's first consultation
+  day, spring AD 71. Writer's draft quotes; the orchestrator re-syncs to the FINAL page):** the commitment holds: no English anywhere.
+  **She asks again** (Ch.12's no-question shape is spent): her Greek stays uncontracted ("He did not say." / "If she does?" / "For the
+  shoulders," … "They take the ache down. You swallow them with water." / "Have you seen them?" / "And the boy?" / "A road." / "The tall
+  one. With the bruise on his face." / "He is carrying for me." / "I will come when I am sent for." / "It was heavy," / "Is it bad?" /
+  "Has one died?" / "How many ways out?" / "The stone," … "Rounded on top, about so high, carved over with a kind of net. It must be in
+  there." / "Where was the woman?" / "Try." / "Did the priest give you anything about when?" / "West of what? West of here? Everything
+  is west of here." / "Very far west. Farther than any of this." / "In fields," … "With fences round them, and the grass kept short, and
+  a stone with the name on it for each." / "There are no walls." / the tirade: "There is a mountain with vines on it beside every sea the
+  Romans have ever reached. It is not an address. It is a description of the empire." / "It is a riddle," … "A riddle is nothing." /
+  "Then I will see it shut." / "You cannot start it in the middle," / "Do not," … "It is in my head." / "Why his name?" … "At the table."
+  / "Yours?" / "Who is Theano?" / to Theano: "They ache," / "For the knees. They take the ache down, for half a day. Swallow them whole,
+  with water, and do not chew them." / "Why give them any?" / "He is careful where he stands," / "You sent for me," … "Why?" / "When?"
+  … "On which day is it open? The road." / "I can pay. There is silver." / "Was there a day in it? Was there one, and they cut it?" /
+  "Which city?"). **Kallia given the whole story** at the lions before light, in order, summarized in one paragraph (no re-telling of
+  the frame in Valens's words): "I left out his hands, which were his." The camera is "the thing of my father's that I carried inside my
+  chiton … a heavy thing from my bag" (no lens, no cap). **Praxias paid** "out of the rag and out of the coins from the ford" (no sum,
+  never itemized). **The ibuprofen:** offered to Valens at the altar ("After," … "I want my head, in there."), put back in the bottle,
+  given to Theano in the afternoon, never mentioned after. **Cognitive distortion (all-or-nothing, in action):** on the walk down she
+  decides from his silence that the god said there is no road ("By the lions I had it settled. I was almost calm."), then calls the
+  real answer nothing ("A riddle is nothing."). **Irrelevant thought:** the board of clay ears, all left ears off one damaged mold.
+  **Memories (both triggered, both returned to the scene):** one sentence, the airport gate where her father never stood before his row
+  was called and always turned to wave at the window (triggered by the rod calling the cities by turn); one longer, her father's
+  carousel slide of the Tarquinia tomb with the false door and a mourner each side, clicked on to Volterra mid-question, the projector
+  fan's hot dust (triggered by the god's painted door; it runs straight into her spoken tirade). Neither closes on a lost name.
+  **Imagined first hour home** (present-scene hope, not memory): the apartment heat off, the hall vent, the freezer, a fork. **Body
+  rebel, new channel (skin):** "The hair had stood up along both my arms under the wool, to the shoulder, and it would not lie down
+  again." (hands, voice and seat stay rested). **Her history knowledge:** Etna "looked out on the eastern sea"; Etruria; Pindar's iron
+  chair as "A poet … and the poet had been a Boeotian" (unnamed); the Homeric measure of the answer. She does NOT think of Vesuvius or
+  Campania before the word (the Bay of Naples appears once, in a list, unweighted). No reaction to "Pompeii" on the page (Ch.14).
+  Credential asides 0; teeth 0; laughs 0; English 0; "could have" 0.
 - **DISTINCTNESS GUARANTEE:** the only voice in the book that sees how a thing was made and where it was
   mended, against Valens, who sees where a thing or a man will move next.
 - **Sample line:** "Somebody's glued this before, look, there's an old line under the new one, and
@@ -625,6 +656,39 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   anyway."; the slept-across-her-door detail (said once; Ch.14's doorway is staged without pointing at it); a stone roped to balance a
   load.
 
+- **Ch.13 as written (Writer, 2026-10-20; draft quotes, re-sync to the FINAL page):** **Injuries three days on:** "The scrape on
+  his cheekbone had crusted brown." / the welt "had spread into a bruise that was purple at its heart and yellow toward the elbow, and
+  that hand's knuckles had scabbed over in a row." / shoulders held "all of a piece", turning "his whole body round, hips and all"
+  (the stick). In a laurel wreath "like something another man had put there for a bet". **Refuses the pills:** "After," … "I want my
+  head, in there." **Attention, not fear:** "Not yet." / "If you see the one you hit, send the boy to me in the line. Keep to this
+  wall." / "The boy does as he's told." (Felix then bolts after the bandaged boy). **The inside, as a bodyguard saw it:** the door and
+  the names ("Praxias son of Kleon, of Delphi, for the house of Kallia. He gave it out twice"); **mind-reading, wrong in a mundane way:**
+  the short-sighted Euthydikos "put his nose a hand from mine to make me out. He was slow about it, and he knew the face." (Mara: "He
+  puts his nose that close to everything,"); **the carrier's name: "I gave him Felix."** (CH11 open item: shown without a gloss; the
+  priest's wax reads "Maira, of Syracuse, of the house of Kallia, a kinswoman"); the porch writing (he pretends nothing; Mara answers
+  Felix; "Valens kept his eyes off me, and I kept mine off him."); smoke, laurel and barley on the hearth; "The floor slopes to the
+  back, not much, but a man with bad feet would feel it."; "One. The way in's the way out."; the bench, the rods, the praying Boeotian,
+  the iron chair; the stone: "Stone color," … "and it came to my waist." … "A man was posted beside it watching the bench from start to
+  finish, and I didn't care for him, so I watched him." … "He had a cough."; the screen; the voice described, never quoted ("a woman,
+  not loud"; the break; "Hoarse. Higher than I'd have put her." / "Tired."); **a word not Greek, twice, which he did not keep** ("I
+  didn't keep it. It wasn't in what he gave me." / "It's gone,"); the priest's raised flat hand, shown with his own scarred hand;
+  "Hers were fewer; that much was plain. He listened to all of hers, and after it he gave me his."; **the question he would not put:**
+  "I told him the goat was hers." and to Praxias in the porch "I told him it was hers." **The anchor:** stands unasked in the middle of
+  the court, feet set, weight even, hands open, and gives the answer once, word for word, "in a voice that was not his road voice";
+  asked for the mountain part alone, he cannot start in the middle ("A trainer at the school called the forms. Eight or ten cuts at a
+  breath … Get one wrong and you started again from the first. You don't go in at the fourth." / "I can't take it from the sea onward.
+  I'd have to start at the beginning."). **Two questions about her country:** "Is your country west?" / "Where do they put the dead,
+  there?" / "Inside the walls?" / "Where does the town stop, then?" (unanswered: "There was no answer to that in my Greek."). **To
+  Felix's Capua:** no word; he takes his bowl to the lean-to and sends Felix to water the string (Felix does not hear "the school").
+  "The boy wanted it written down somewhere." / "Mine's written." … "At Corinth." (CH12-8 NOT resolved: which name is written stays
+  open). **Kallia keeps him the night:** "You'll not go down that road tonight." / "The string, though." / "Your house is full to the
+  roof." / "There's floor," (Ch.14 shows him across the doorway). **Watches the street:** shoulders to the wall at the lane's corner;
+  "The house with the crows on it," … "Just under the top." No simile in his speech; bare "No." 0; narrated non-answers 0; walk-offs
+  1 ("At Kallia's." He had gone on down the Way.); no watch (none until Ch.18); no knot near his hands. **Spent in Ch.13:** the wreath
+  for a bet; nose-to-nose mind-reading; "I gave him Felix."; "Stone color"; the man with the cough; "The way in's the way out."; the
+  word he didn't keep; the raised flat hand; "the goat was hers"; standing to recite; the forms called by a trainer (said once; never
+  his pressure device); "Where does the town stop, then?"; "Mine's written."
+
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
   scores. **He sees people last.** His worldview: his real life is the one he is going back to. He has
@@ -895,6 +959,20 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   chore-replies 0; "Then" retorts 0; walk-offs 0; no wool, broom or spindle; no name-ask. Praxias on her: "Kallia never asks for
   herself." She has NOT been shown the notice or connected it to Valens (keep her from it). Her obol for the papyrus is still unspent.
 
+- **Ch.13 as written (Writer, 2026-10-20; draft quotes):** **Given the whole story** at the lions before light (she had only the
+  donkey man's robbery, and "kept it to herself"); sends a yawning Thessalian to the far trough "with four words"; **spits into the fold
+  of her dress at the breast** at the man's death (once; unexplained); at the notice, "Five hundred," very low; her one question is about
+  the worker in the story: "The girl that dressed the wife's hair," … "What became of her?" / "Sold on, or sent out to his farm." … "A girl
+  who's said that sort of thing in an atrium doesn't stay in the house after to do the hair." **Lets Valens into her court:** "Bring him to
+  the court after; the Thessalians will be up at the sanctuary till dark, and there's a pot of lentils wants eating." / "The floors will
+  keep," … "Be home ahead of the Thessalians, or you'll be on the stair all afternoon with their dinners." Puts him on the stool by the
+  woodstack and sets the bowl in his hands (no word about the court). From the lean-to: "Euthydikos," / "Somebody was paid to paint that
+  door." … "Somebody's sons paid him, and argued the price." (labor axis on the god's answer) / "The boats go west at the new moon." (the
+  subtext of a leaving, said as a fact) / **keeps Valens the night:** "You'll not go down that road tonight." … "The boy can sleep with the
+  string. He'd sooner. You'll sleep here." … "There's floor," / of Theano: "The god's woman," … "She'll have you carry her water up while
+  you're there. She does that." / "She'll not eat her," (to Valens). Never sits, never touches Mara, never speaks of herself;
+  chore-replies 0; "Then" retorts 0; name-asks 0; no broom, wool, spindle or stopped work.
+
 #### THEANO — the Pythia; a farmer's widow off duty (glimpsed Ch.8 unnamed, shouting at crows; Ch.13)
 - **Attention / worldview:** her own body (her knees, the descent into the adyton), the priests' petty
   politics, the crows. She treats the god like a difficult employer and the oracle like a job with bad
@@ -926,6 +1004,38 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   you." / "Go on, then. Take it. Choke on it." "She kept her free hand on her knee the whole time, and her eyes on the
   crows." (The draft's clause about whose barley it was and the no-look sentences were cut: no wink.) Nobody names her or explains her.
   Ch.13 recognises her by situation only (the crows); do not re-quote these lines there.
+- **Ch.13 as written (Writer, 2026-10-20; FIRST LIVE APPEARANCE AND NAMED. Draft quotes; re-sync to the FINAL page):** **Seen unrecognized
+  at dawn:** veiled to the eyes in white wool, a laurel sprig, led up the ramp by two priests "at the pace of her slowest foot", halting on
+  every temple step "while she brought her second foot up beside the first" (a walk-on: "That's her … She'll be going down now."). **Named
+  by the jug boy** ("Theano wants her.") and Kallia ("The god's woman," … "She'll have you carry her water up while you're there. She does
+  that." Theano does not). **Recognized by situation only (CH8-2):** the house next to the highest, a squared stone at the door "gone round
+  at the corners with being sat on", a dozen crows in a row on the ridge, a basket of parched barley flung "over the ruts", both hands on
+  her knees, her attention on the crows; no Ch.8 line re-quoted ("Robbers. The minute a woman sits down." / "Get off, you, you've had
+  yours."). **Body:** "a farmer's hands, square, the nails broken short, and a face the sun had burned brown and crumpled under the eyes";
+  bare feet "broad, cracked at the heels, feet that had walked behind a plow". **Her grievances (she talks freely about herself):** the
+  stool ("not a man of them will carry a stool down after me. They've stools; they've a stool for the square beard … They said they'd put
+  it to the council. The council! For a stool!"); her husband who "dragged this stone here for me before he died … with two oxen and a
+  lever and a deal of cursing"; "Fourteen years I've had that god, since my husband went" (Pythia after widowhood, over fifty at selection);
+  "When I started there were three of us to take turns … Now there's only me"; her sister's son keeps the ewes and the cheese money; the god
+  as an employer ("he wants you there before it's light, and he's never satisfied with the goat, and he takes the credit"). **Chaos (the
+  lie):** the basket has the god's laurel brand on its rim (Mara saw the same brand on the cake-trays at the altar); "That's my own barley
+  … Off my own field, below the stadium. I wouldn't give them a grain of his." Mara leaves the brand where it lies. Why the crows: "They were
+  up on that ridge the day my husband went out of this door feet first … and not a crow of them made a sound, which his sister never
+  managed. A thing that'll sit quiet at a burying can have my barley." **The ibuprofen (one beat):** "What's that?" / takes the two pills
+  "with two fingers", swallows them with a drink from her cup, no thanks, back to the crows; never mentioned again. **She heard the carrier
+  from below:** "shifting about over your head like a mule in a stall … Yours stood. I'd have said nobody was there, except the floor gave
+  when he stepped to it." **The priests' dressing of the answer:** "They made a mountain out of it … And a sea, and a painted tomb, and
+  something to tap your foot to … they take it and put shoes on it. He said it short and he said it plain." / of the non-Greek word: "Not
+  Greek, so not the god's, says the square beard. The smoke talking, or the woman down the hole. The god's been everywhere; he gets about
+  more than they do." **Never explains, never comforts:** why she sent: "Because my knees hurt … and I wanted to tell somebody who hadn't
+  heard it. Ask." **The WHEN withheld (canon):** "That's not mine to give you." … "Or it was never given me. Which of those it is, is mine
+  to know." / to silver: "Keep your silver. You'll want it for a boat." / "Not mine to give you," … "You've had your answer to that. Ask
+  the other." **The WHERE, first source (canon):** to "Which city?": "Pompeii." (the chapter's last word, delivered flat while she shifts her
+  weight with a hand on her knee). Her house: one swept room, a loom with a brown-and-white striped blanket half woven, a cat asleep in the
+  hearth ash ("Nothing in it was the god's."). **Spent in Ch.13:** the stool-and-council complaint as a set piece; the husband's stone; the
+  crows at the burying; hearing the carrier's feet; "put shoes on it"; "Ask the other."; the branded basket. If she returns, new
+  grievances, never these.
+
 
 #### FELIX — Valens's mule-boy, bought off a Kirrha slaver c. AD 70 aged ~12 and freed with no papers; later sworn to Pompeii's gladiator school (Ch.11–40)
 - **Attention / worldview:** fame, fights, who is winning, who is watching. The arena is the most glorious
@@ -1024,6 +1134,22 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   Are / Did ×2 / "Quick, though?"; "Was" 0; **"Is" ×3 = WATCH** (rotate in Ch.13); "nobody" 0; exits by line + tag + "and" 0; "already"
   0. Spent: the vomit-then-loot beat; the crust lie; the invented sword; "He believed me,"; Spicula (the name may recur only as an
   object fact in Ch.13, never as a joke).
+
+- **Ch.13 as written (Writer, 2026-10-20; draft quotes):** brought the goat from the yard (there "since sundown yesterday") before
+  light; bought her a white wool fillet "with an obol of his own"; "He had washed his face for the god and missed his neck." The
+  Elateian boxer: "Look at his ears." / "Would he show me his hands, do you think, if I asked him? After?" / later "He let me," … "that
+  knuckle killed the man. It's harder than wood." … "He said I'm too thin. He said come back when I've eaten." Watches the sacrifice
+  "in silence" (no sickness; the goat's name not used). **His name in the god's book:** "Me? In the god's book?" … "Where did he put
+  me, under her? Under Praxias? Was it wax he wrote it on, or the other, the—" (the chapter's second em-dash) / "What did it look
+  like?" / then sits, "slowly for him", asks nothing more, "His ears had gone red to the tips." **His mother, once, unplanned:** "My
+  mother could have told them that." / "He stopped, surprised at himself, and scowled at the pomegranate." (never explained; do not
+  build on it without a plan). **Disobeys** "The boy does as he's told": vaults the wall after a Phocian boy with a wine-stained head
+  bandage ("I took him for the one you hit," … "I'd have had him."). **Kept the camera secret:** "I never said about your father's
+  silver thing," … "A stone, I told him." / "Was it a stone?" On the walk down: "He goes like this when a mule dies," / "Not this
+  year." … "Not that he's told me." **Arena-mad, Capua:** "They've the schools at Capua in Italy, the big ones, a sailor at Kirrha says,
+  with the iron gate … If it's Italy, can I come?" (unanswered; sent to water the string; "went backward as far as the gate"). Still
+  knows nothing of the arena, Lupus or Corinth. Question openers: Would / Me? / Where / Under / Was ×2 / What / Didn't / What if /
+  can I; "Is" 0; "nobody" 0; line+tag+"and" exits 0; "already" 0.
 
 #### PLAUTIA — Celer's divorced wife; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
@@ -1792,6 +1918,37 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   hair"; Plautia's mother; "the Egyptian goddess" at Kenchreai; the fisherman; the Corinthian mule dealer; Plautia's brother and his
   freedman; "a bird was saying the same three notes" in the olives (texture).
 
+#### Ch.13 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+*(Writer, 2026-10-20; draft quotes, to be re-synced to the FINAL page.)*
+- **The jug boy** — ten or so, "in a white tunic too long for him"; runs for the second jar at the altar; brings Theano's summons and her
+  basket ("The Syracusan," … "The woman that asked about a road. Theano wants her." / "Now. She said now, before her knees set." / "Her by
+  herself," … "She said if the muleteer comes up after her she'll set the crows on him."); boasts of labor, not fame: "Forty-one jars,"
+  … "Your goat took a jug and a jar. Most take the one jug." … "The Thessalians' ram took two jars, and then it ran." / "He received it after
+  they caught it." Distinct from Felix by attention (jars, the god's errands), not questions.
+- **The altar priest** — "a thin man with his himation pinned high on one shoulder"; pours, then empties a full jar along the goat's back;
+  "told the terrace in a loud voice that the god was receiving, as if somebody might want to argue the point." (the chapter's one "as if").
+- **The prophetes** (Valens's report only) — stands sideways between the consultant and the screen, reads the question off the wax, holds a
+  flat hand up "to the screen" while she talks, then gives his own (longer, metrical) version; glosses it for "a Syracusan" as Etna; offers
+  Valens a question on his own account.
+- **Euthydikos** (offstage, named by Kallia) — the priest at the door table writing names; peers nose-close at Valens; asks "was it the
+  mender". **His bean-shelling slave** (Ch.9's, by situation) brings the bowl summons: "You're Kallia's," … "The mender." / "The bowl wants
+  doing when the god's finished for the year. The one with the lead in it. You're to come up when you're sent for." … "You'll be sent for."
+  (Ch.9 OPEN THREAD "When I send" now restated; Mara: "I will come when I am sent for.")
+- **The woman from Amphissa** — sent her husband in about a well, north or south of the house "where her husband's mother had planted her
+  fig" (the chapter's one in-law joke); "Roads are easy," … "He likes a road." / "Is he yours?" / "I said that about mine," … "and look where
+  it got me." / after "south": "North, then," … "I'll dig it at night, and tell him the god changed his mind." Her other neighbor: "North
+  … Always north. The south dries out."
+- **The Elateian boxer** (Ch.11's rumor, now seen) — ears "like two folded pancakes"; praying "very hard over a cake"; lets Felix feel his
+  knuckles; "too thin … come back when I've eaten" (reported). **The Boeotian in the temple** (Valens's report) — prays throughout; "ask a
+  ship" at "Syracuse"; tried to sit in the iron chair; "He said a chair was a chair."; his own answer: plant olives down a moved boundary
+  "and let the trees argue it". **The man with the cough** by the omphalos.
+- **The bandaged Phocian boy** — "a boy with his first beard", head bound in wine-stained linen; "I'm a Phocian,"; his friend: "Fell off his
+  donkey," … "Riding in from the plain. Drunk as a Boeotian, and singing."
+- **The Thessalian family** (three sons, a black ram that will not climb, later bolts from the altar); **the island fig-seller** "swearing
+  to each new face that they were Chian"; **an Achaean** snoring a yard from Mara's mat; **a yawning Thessalian** sent to the far trough.
+- **Mention only:** **Kleon** (Praxias's father); Pindar (unnamed, "A poet … a Boeotian", his iron chair); Tarquinia and Volterra (Mara's
+  father's slides); Capua's schools (Felix's sailor); Theano's late husband, his sister, her sister's son (the ewes and the cheese money).
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -2204,6 +2361,14 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   Corinthian" and "Mule-man"; never Lupus.
 - **Sample line (calibration only):** "Six to a stranger, four to you, and a cup at the plane tree after, which is money out of my
   own pocket."
+- **Ch.13 as written (Writer, 2026-10-20; draft quotes):** paid at the terrace wall from Mara's rag "out of the coins from the ford" (no
+  sum); "He weighed the silver in his palm and found it enough." Without the quail, "his left arm kept the crook of it anyway; now and then
+  his fingers went over nothing there, smoothing." Odds, not prices: "Even money she stands like a post," … "A frost-morning goat will take
+  a spring's worth on her head and think about her dinner." / "Next month. And you pay me again, little—" … "Syracusan." ("little cousin"
+  stays at 2: he stops himself). At the door he gives his name "twice, the second for the Thessalians' benefit": **"Praxias son of Kleon, of
+  Delphi, for the house of Kallia."** (his father **Kleon**, mention only). Waits in the porch for the answer "for the quail ring; there's men
+  there lay money on what the god tells strangers" and is refused it; leaves "at a trot toward the stadium and the quail ring".
+
 
 ---
 
@@ -3030,6 +3195,34 @@ line each, so that walk-ons don't all sound like Mara.
     non-answers 0; echoes 0.
   - **Tool:** "the kirrha road" added to the book's `tools/tic_report.py` WORLD_TERMS (the outline-fixed Ch.12 title echoed Ch.11's
     body). Proper noun only; it is not a motif.
+
+- **At-risk after Ch.13 (Writer, 2026-10-20; draft counts, re-measure on the FINAL page):**
+  - **The goat test staged once (drenched until she shakes; "It took a jar."): SPENT.** No later animal sacrifice or omen is rigged on the
+    page.
+  - **The god's answer is rendered ONCE** (Valens, standing). "where the dead go out" (allowlist 1 of 3 used); "painted on a dead man's
+    house" (at-risk max 1: USED); "mountain of vines" 1; "the western sea" 2 (the answer; Mara's "West of what?" does not repeat it);
+    "the road home" 1. Ch.19's recognition must find fresh words for the tomb and the door. **Never point at the match** between "Where is
+    my road home?" and the answer: not done here, keep it so.
+  - **"the seventh of Bysios": the title is use 2 of 3; the body never says it.** The opener's paraphrase ("The morning on which Apollo
+    would first answer anybody that year") is spent with the Ch.11 set.
+  - **Inside the temple as a bodyguard's report** (floor, exits, men, the stone as "Stone color", the cough, the iron chair): SPENT. Ch.22's
+    Basilica must not be reported as exits and floors in the same order.
+  - **Valens repeating something word for word / unable to start in the middle / the school's called forms:** once. Never a running
+    device; never his pressure sign.
+  - **The men-tell-men-first observation on the terrace:** once.
+  - **Mara's father's slides** (the carousel, the tablecloth screen, the projector fan): one longer memory used here; the next longer
+    memory waits at least a chapter and takes another shape (not an image projected, not a parent clicking on).
+  - **The airport-gate memory** (her father standing only when his row was called, waving at the window): once.
+  - **The imagined first hour home** (heat, vent, freezer, fork): once; the next hope-for-home passage finds other objects.
+  - **Clay votive ears / left ears off one mold:** once.
+  - **Theano's set** (stool, council, husband's stone, crows at the burying, "put shoes on it", feet heard from below): see her card.
+  - **Kallia:** "You'll not go down that road tonight." / "There's floor," — her decision; Ch.14 shows the floor, not the decision again.
+    Her spitting into her dress at a death: once. "Somebody's sons paid him, and argued the price.": once.
+  - **Felix's mother** is on the page once; do not explain or repeat without a plan.
+  - **Counts (draft):** hinge-family openers 0; "So" openers 0; "before I had [verb]" 0; negation pivots 0; "as if" 1; em-dashes 2 (both
+    speech cut-offs: Praxias, Felix); and-chains 6 (cap 9); credential asides 0; bend 0; kneel/crouch 0; swallow 3 (Mara's instruction
+    ×2, Theano ×1); object handling 5 (cap 8); bare "No." 0; Valens walk-offs 1; narrated non-answers 0; "said/told the [non-listener]"
+    1 (Theano "to the crows"); "Then…" speech openers 2; "And…" rejoinders 3; echoes 0; no watch; no lens cap; no teeth; no laughs.
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
