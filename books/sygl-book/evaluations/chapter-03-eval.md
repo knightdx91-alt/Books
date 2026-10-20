@@ -181,3 +181,65 @@ Chapter now 2,625w (was 2,818w). Applied fixes 1 to 11. Fix 12 (outline/foundati
 - **11:** one end-load line goes before the verbatim final line ("Any minute now, somebody was going to look over and notice he had two hands…").
 - **Extra:** cleared the kneel cluster (3 in 500w) and 6 cross-chapter echoes ("fires burned low", "beneath the eaves", "her apparent age", etc.).
 - **Gates:** style_check clean (simile 3.0/1k, em-dash 0); grammar_check clean; voice_wear_check clean; tic_report --gate clean (run on a scratch chapters/ layout). The `--echoes 3` check still lists 5 generic echoes ("he looked down" is source-restored).
+
+## Re-evaluation (round 2)
+**Evaluator:** book-evaluator | **Date:** 2026-10-20 | **Text:** revised `manuscript/chapter-03.md` (2,624w)
+**Terms:** faithful, lighter, warm, playful revise/expand of the author's script. Commercial fantasy, Self-Insertion primary. No darker themes, invented plot or embellishment are recommended below.
+
+### HEADLINE
+**CVI-Launch:** 8.7 | **CVI-Legacy:** 6.1 | **Genesis Floor:** 8.0 | **Genesis Average:** 8.4 | **Casual:** 8.5
+**Verdict:** **POLISH. The gate is not yet passed.** Prose holds the floor at 8.0. Every other dimension clears 8.5. All remaining causes are word-level fixes, quoted below.
+
+### Round-1 fixes verified
+| Fix | Status |
+|---|---|
+| 1 Invented matron anecdote | DONE. "But Bal had always had a high tolerance for pain, and this was something he could sit through." Canon is satisfied with no invented backstory. |
+| 2 "As she finished speaking" seam | DONE. It now follows her vow directly, matching source order. |
+| 3 #11 extensions | DONE. About 2 remain ("as he'd watched the others do… without ever thinking about it"; "a smaller twin of the one on his palm"), about 0.8/1K, at the cap and not over it. "soft red eyes" is restored verbatim. |
+| 4 Laugh class | DONE. 3 gestures plus a negated "didn't laugh". The Ch.2 echo is gone. |
+| 5 Register | DONE. TV, jackets, sweater, "a lot more like". **But see R1: the "None of that." collapse broke a sentence.** |
+| 6 Scar tissue | DONE. "The end of the stump tingled, then swelled". |
+| 7–10 | DONE. Rose, "Sunlight lay", "roof of Saint Andre's", and both summary closings are cut. |
+| 11 End-load | DONE. "Any minute now, somebody was going to look over and notice he had two hands…" It loads Ch.4 and leaves the final source line verbatim. |
+
+### Genesis Score
+| Dimension | Score | Evidence | Cap / note |
+|---|---|---|---|
+| Originality | 8.5 | The goddess-as-*familiar* inversion; the one-way door ("From the inside, it opens for anyone at all."); a goddess briefed by ravens ("the cook here burns the porridge every Tuesday"). | The commercial lane needs 1 fresh element and the chapter has 3, all source-native. Round 1's 8.0 included derivative imagery (the mulled wine reused from Ch.2, the fern/sped-up film), which is now cut. The rise rests on those cuts. Nothing was invented. |
+| Theme | 8.5 | "It smells of people. I'd forgotten how much I liked that." / "Show me everything." | The stated-emotion closings ("most peaceful… in years", "He found he believed her") are gone, so the theme is now carried by action alone. Texture is well above 30%. |
+| Characters | 8.5 | Amelia is open and playful: "Then I'd forgotten how much I liked cabbage."; "Where you go, I go. That's what it means, Master." (once, natural; allowed). Bal: "And then you run some more." | Chaos 3/4 (rug irrelevance; shaky laugh / "turning pink"; voice under pain "It hurt."). Gesture gate is clean: kneel 2, nod 2, bend 2 in Ch.3. No tics. |
+| Prose & Voice | **8.0** | Stopping sentence: "He understood now why they couldn't stop." Glow-brighter-when-shaded. | #11 cap lifted. **Held at 8.0** by: the broken "None of that." (R1), the triad density (#3, about 7 instances, 2.7/1K, strong), "In front of them… in front of the temple" + "stood there" ×2 (R3), and the source-dialogue drift (R2). |
+| Pacing | 8.5 | The walk is about 190w shorter. The end-load line turns the fixed source ending into a handoff. | The plane-exposition paragraph is the one remaining slow spot. It is source content and acceptable once R1 is fixed. |
+| Emotion | 8.5 | Anchor: flexing the hand / "Caro maestro… for a thousand years and more". Surprise: cabbage inside the sacred moment. Body rebel: "a shaky, unbelieving sound", "face go hot". | "It took him a second to recognize it as happiness" is gone. Her joy is shown through "bright and fizzing" and her line. |
+| Engagement (Self-Insertion) | 8.5 | The hand returns, the sygl glows, a goddess kneels and calls him "Master", hand in hand into the sun, plus anticipation ("notice he had two hands"). | |
+| **FLOOR / AVERAGE** | **8.0 / 8.4** | | Prose is the bottleneck. |
+
+### Source-fidelity check (dialogue)
+All beats are present and in source order. The binding words, "Time for that later…", "Through the front door, of course", "Come on, let's go outside", "I live here… as long as I can remember" and the final line are verbatim or near it. **Reworded away from the author:**
+- "Yeah, I can talk to certain creatures, bats, ravens and such, so I do know things." became "Yes," … "and so I know things". The source's casual "Yeah" is the author's playful register.
+- "The only reason I'm going to be able to go out now is because now I'm your familiar." became "I'll be able to go out now is because I'm your familiar."
+- Additions that the author's lines did not displace, and so are acceptable: "You leave the explaining to me", "Everyone. Some of the big boys even tried a crowbar" (Ch.1 canon), and the From-outside/inside gloss.
+
+### Anti-AI scan (2,624w): 11/20, Watch band (was 13)
+#1 ×1 (door symmetry); **#3 ×7 strong** ("through his chest, into his shoulders, down both arms"; heel/knuckles/fingers; "Bone and muscle and skin"; cars/phones/TV; "I know about…" ×3; crack/scuff/voices; "A warm afternoon, a blue sky, a bumblebee"); #6 ×1; #7 ×1 ("He suspected that he always would."); #8 ×2; #10 ×1 ("It was very distracting."); #11 ×2 (at cap); #12 ×1 (acceptable); #13 minor; #14 minor (canon); #17 minor. Clear: 2, 4, 5, 9, 15, 16, 18, 19, 20.
+
+### Mechanical gates (scratch `chapters/` layout, Ch.1–3)
+style_check clean (simile 3.0/1k, em-dash 0). voice_wear_check clean. **tic_report --gate FAIL on "the open roof" ×3, all in Ch.2**: a Ch.2 finding, not Ch.3. Ch.3's gesture classes are under cap.
+
+### Readers
+**Devourer:** no stop point now. The walk moves and the last beat pulls. **Critic:** underlines the palms-at-breakfast line; trips on "None of that." and the triad cadence in the regrowth. **Hostile:** "None of that." refers to nothing; "In front of them was a small courtyard in front of the temple." **Casual (8.5):** warm, funny, likes both leads; would keep reading and buy.
+
+### Remaining fixes (surgical, all source-safe)
+| # | Location | Now | Fix |
+|---|---|---|---|
+| R1 | Plane paragraph | "…them or their families. None of that. Amelia would probably feel…" | Delete "None of that." It is a revision artefact that collapses a list no longer there. |
+| R2 | Raven line; door speech | "Yes," … "and so I know things." / "I'll be able to go out now is because I'm your familiar." | Restore the author: "Yeah," … "so I do know things." / "The only reason I'm going to be able to go out now is because now I'm your familiar." |
+| R3 | Doorway | "She stood there in the doorway and didn't move." / "In front of them was a small courtyard in front of the temple" | "She stopped in the doorway." / "Before them was the courtyard in front of the temple". |
+| R4 | #3 triads | "through his chest, into his shoulders, down both arms"; "A warm afternoon, a blue sky, a bumblebee working…"; "the crack of a bat, the scuff of running feet on the dry grass, a dozen voices all shouting at once" | "through his chest and down both arms"; "A warm afternoon, and a bumblebee working…"; "the crack of a bat and a dozen voices all shouting at once". Keep Amelia's "I know about…" run, which is in her character. |
+| R5 | #7 | "He knew without looking where she was. He suspected that he always would." | End at "where she was." |
+| R6 | Ch.2 (not Ch.3) | "the open roof" ×3 | Vary two instances in Ch.2 to clear tic_report. |
+
+### PATH TO 8.5
+**Prose 8.0 → 8.5:** apply R1–R5. That removes the only broken sentence, restores the author's lines, brings #3 to about 4 (1.5/1K, moderate) and #7 to 0. The stopping sentence and the glow beat then stand without noise. No other dimension needs work. After R1–R5 the expected result is Floor 8.5, Average 8.5, and a PASS.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

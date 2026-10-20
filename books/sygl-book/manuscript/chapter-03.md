@@ -10,7 +10,7 @@ Amelia did not make a ceremony of it. She sat beside him on the stone bench, tur
 
 Bal looked at the cut, and at her, and thought about those ghost stories in the dormitory. He thought about the school too, and Fredrick waving goodbye through a car window, and the itch in his stump that had been trying to tell him something for sixteen years. He bent his head and drank.
 
-It did not taste like blood. It tasted like heat. It went down his throat hot and fierce, far too strong for him, and spread out from his stomach in a slow warm wave, through his chest, into his shoulders, down both arms. His fingers tingled. His left arm burned.
+It did not taste like blood. It tasted like heat. It went down his throat hot and fierce, far too strong for him, and spread out from his stomach in a slow warm wave, through his chest and down both arms. His fingers tingled. His left arm burned.
 
 The burning started at the elbow and ran down to the end of the stump, and there it gathered and grew. Bal sat back hard against the bench and gritted his teeth. It hurt. There was no point pretending otherwise; it hurt badly, a deep, pulling ache in the bones. But Bal had always had a high tolerance for pain, and this was something he could sit through. He breathed slowly in through his nose and out through his mouth, and kept his eyes on the stump, because he wanted to see.
 
@@ -62,7 +62,7 @@ As she finished speaking, Bal noticed that Amelia now had the blood sygl on her 
 
 The sygl in his palm flared.
 
-He felt it go, a pulse of warmth out of his hand and into her, and then an answering pulse back again, and then something in between the two of them that hadn't been there a breath before. A thread. A line of warmth running from the center of his chest to somewhere outside it. He knew without looking where she was. He suspected that he always would.
+He felt it go, a pulse of warmth out of his hand and into her, and then an answering pulse back again, and then something in between the two of them that hadn't been there a breath before. A thread. A line of warmth running from the center of his chest to somewhere outside it. He knew without looking where she was.
 
 All at once he felt drained, wrung out from his scalp to his heels. His arm was too heavy to hold up. He let his hand drop, and leaned forward, and rested his forehead against Amelia's.
 
@@ -78,7 +78,7 @@ She stood up and brushed off her knees where she had knelt on the stone. Bal lin
 
 Amelia took him by both hands, the old one and the new one, and hauled him to his feet. She kept hold of the new one and set off across the hall toward the doors, towing him along behind her, explaining as she went.
 
-"The door is only locked one way," she said. "From the outside, it won't open for anyone. From the inside, it opens for anyone at all. Even if we had not bonded, you would have been able to walk right on out whenever you liked." She glanced back at him over her shoulder. "Me, on the other hand? I'd still have been stuck in here. The only reason I'll be able to go out now is because I'm your familiar." She squeezed his fingers. "Where you go, I go. That's what it means, Master."
+"The door is only locked one way," she said. "From the outside, it won't open for anyone. From the inside, it opens for anyone at all. Even if we had not bonded, you would have been able to walk right on out whenever you liked." She glanced back at him over her shoulder. "Me, on the other hand? I'd still have been stuck in here. The only reason I'm going to be able to go out now is because now I'm your familiar." She squeezed his fingers. "Where you go, I go. That's what it means, Master."
 
 She said the word lightly, with a sidelong look to see how he would take it. Bal didn't know how to take it. He settled for turning pink, which seemed to satisfy her.
 
@@ -86,9 +86,9 @@ Bal stopped to grab his rug from the floor, and rolled it up, and tucked it unde
 
 They reached the doors. Up close they were huge, three times his height, and he couldn't see a handle or a latch anywhere. Amelia didn't need either. She laid both palms flat against the gold and pushed, and the wide golden doors swung open, smooth and silent on hinges that should have rusted solid long ago, and daylight came pouring in over the stone.
 
-She stood there in the doorway and didn't move.
+She stopped in the doorway.
 
-Bal came up beside her. In front of them was a small courtyard in front of the temple that he'd never properly noticed from his rooftop, paved in old flagstones with grass growing up between them, and a low wall at the far side gone green with moss, and beyond it the rough lawn and the garden and the back of Saint Andre's. Nothing special. A warm afternoon, a blue sky, a bumblebee working its way through the clover at the foot of the steps.
+Bal came up beside her. Before them was the courtyard in front of the temple that he'd never properly noticed from his rooftop, paved in old flagstones with grass growing up between them, and a low wall at the far side gone green with moss, and beyond it the rough lawn and the garden and the back of Saint Andre's. Nothing special. A warm afternoon, and a bumblebee working its way through the clover at the foot of the steps.
 
 Amelia stood there admiring all of it, her face tipped up to the sun.
 
@@ -118,15 +118,15 @@ It occurred to him, belatedly, to worry about the car.
 
 "Do you know anything about the modern world?" Bal asked. "Things have changed a fair bit. There are cars, and phones, and TV, and..." He tried to think how to explain the last few hundred years in one breath, and gave up.
 
-"Yes," Amelia said, amused. "I can talk to certain creatures. Bats, ravens and such." She lifted her chin toward the roof of Saint Andre's, where a big black raven sat on the gutter watching them with one bright eye. It ruffled its feathers at her and croaked. "They come and talk to me, and so I know things. I know about cars. I know about telephones. I know that the cook here burns the porridge every Tuesday."
+"Yeah," Amelia said, amused. "I can talk to certain creatures. Bats, ravens and such." She lifted her chin toward the roof of Saint Andre's, where a big black raven sat on the gutter watching them with one bright eye. It ruffled its feathers at her and croaked. "They come and talk to me, so I do know things. I know about cars. I know about telephones. I know that the cook here burns the porridge every Tuesday."
 
 Bal was relieved. He hadn't been sure whether she'd go into shock on meeting her first car. It was nice to know he wouldn't have to explain a television to a goddess.
 
-The schools themselves were on a different plane altogether, one without any of the modern technology, and only people who had attended a magykal school were allowed to live there, them or their families. None of that. Amelia would probably feel more at home there than he would. So, hopefully, they would be able to enroll soon. Amelia had said she would take care of that.
+The schools themselves were on a different plane altogether, one without any of the modern technology, and only people who had attended a magykal school were allowed to live there, them or their families. Amelia would probably feel more at home there than he would. So, hopefully, they would be able to enroll soon. Amelia had said she would take care of that.
 
 As they rounded the corner of the building, Bal heard kids playing in the front yard.
 
-It was a familiar sound: the crack of a bat, the scuff of running feet on the dry grass, a dozen voices all shouting at once. Apparently, while Bal had been inside the temple with Amelia, the other kids had started a softball game. They'd marked out the bases with an old bucket and a couple of jackets, as they always did, and someone's sweater was serving as home plate. One of the older girls was pitching. A small boy with no magic and a very large bat was swinging with all his might and missing every time, and nobody minded, and the whole field was cheering him on.
+It was a familiar sound: the crack of a bat and a dozen voices all shouting at once. Apparently, while Bal had been inside the temple with Amelia, the other kids had started a softball game. They'd marked out the bases with an old bucket and a couple of jackets, as they always did, and someone's sweater was serving as home plate. One of the older girls was pitching. A small boy with no magic and a very large bat was swinging with all his might and missing every time, and nobody minded, and the whole field was cheering him on.
 
 Bal stopped at the corner, Amelia's hand still in his, and took it all in.
 
