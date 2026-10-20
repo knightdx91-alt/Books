@@ -1498,7 +1498,7 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   - **Marcus (named by her in C3, asked by Mara):** "Marcus. For his father's father, who held the consulship two months in a bad
     year." / his father's ears, her mother's temper, the Muses before four, not the Graces ("because he said they were only girls");
     "Twice in three years I have had sight of him"; the painted leather ball, red and green, at the Saturnalia, taken in at the gate:
-    "Would a porter keep a child's ball?" At the Isthmia he will be "in the second row, in a new tunic, beside his father"; she chooses
+    "Would a porter keep a child's ball?" At the triumph games he will be "in the second row, in a new tunic, beside his father"; she chooses
     the record office over the benches ("I have done that.").
   - **The record office (C1, C4):** the colony's magistrates' books kept in the proconsul's office since the emperor took back Nero's
     gift; the clerks are the proconsul's freedmen; "my son's father has been kind to each of them all this winter"; the book "out with a
