@@ -689,7 +689,7 @@ Amelia's domain** to study later; home.
 **Opening:** the instant of arrival in the arena.
 **Anchor:** Akora turning to blood; Toma's palm.
 **Notes:** the source line "If he could make the first move 'Kona Niente,' Bal yelled convert a High Priest"
-(p.180–181) is a transcription garble; the intended sense is "If he could convert a High Priest then no one was
+(p.180–181) is a copy-paste slip (confirmed by the author 2026-10-20); the intended line is "If he could convert a High Priest then no one was
 safe if Bal chose to convert them." Keep the gods' alarm; it does not shadow the ending.
 **Hook:** the fire already blazing at home.
 **Target:** 4,000.
