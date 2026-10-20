@@ -430,20 +430,27 @@ def _cmd_forms(v):
     f.update(CMD_IRR.get(v,[])); return f
 CMD_STOP={"i","you","we","no","yes","oh","what","who","why","how","where","when","the","a","it","that","this","and","but","if","so","not","then","there","here","they","he","she","my","your","good","well","all","one","now","come"}
 def command_echo_scan(path):
+    # Looks for compliance in (a) the narration after the quote in the SAME paragraph and (b) the opening
+    # narration of the NEXT paragraph, up to its first quote (widened after Hour of Ash ch.16, where an order
+    # answered mid-paragraph — "Hold the dun's head up." / "I held the dun's head up." — slipped past).
     t=re.sub(r"<!--.*?-->","",Path(path).read_text(),flags=re.S)
     paras=[p.strip() for p in t.split("\n") if p.strip() and not p.startswith("#")]
+    qrx=re.compile(r"[“\"]([^”\"]+)[”\"]")
     hits=[]
-    for a,b in zip(paras,paras[1:]):
-        qs=re.findall(r"[“\"]([^”\"]+)[”\"]",a)
-        if not qs or re.search(r"[“\"]",b): continue
-        for q in qs:
+    for a,b in zip(paras,paras[1:]+[""]):
+        for m in qrx.finditer(a):
+            q=re.split(r"(?<=[.!?;])\s+", m.group(1).strip())[0]   # an order is the first sentence of a speech
             w=re.findall(r"[A-Za-z']+",q)
             if len(w)<1 or len(w)>8: continue
             v=w[0].lower()
-            if v in CMD_STOP or len(v)<3: continue
-            head=[x.lower() for x in re.findall(r"[A-Za-z']+",b)[:8]]
-            if _cmd_forms(v) & set(head):
-                hits.append((q[:50], " ".join(head)))
+            if v in CMD_STOP or len(v)<3 or v in {"was","is","are","did","does","have","has","were"}: continue
+            if len(w)==1 and w[0][0].isupper() and re.search(r"\b"+re.escape(w[0])+r"\b", a[m.end():]+" "+b): continue   # a name called, then the person acting
+            after=qrx.split(a[m.end():])[0]          # narration straight after this quote, before the next quote
+            nxt=qrx.split(b)[0] if b else ""          # the next paragraph's narration before any quote
+            for seg in (after, nxt):
+                head=[x.lower() for x in re.findall(r"[A-Za-z']+",seg)[:10]]
+                if head and _cmd_forms(v) & set(head):
+                    hits.append((q[:50], " ".join(head))); break
     return hits
 
 # PRONOUN-SWAPPED echoes: "She stayed where she was" (ch.5) -> "I stayed where I was" (ch.9) is the same move
