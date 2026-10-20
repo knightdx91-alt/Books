@@ -582,7 +582,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Emotional surprise:** the escape succeeds because a bureaucrat is bored, not because anyone was brave.
 **Opening strategy:** mid-action, in the record office: wax tablets, dust (≤8 words).
 **Key scenes/beats:**
-1. **NON-NEGOTIABLE.** The record office: the fig-eating clerk, Plautia's bribe, and Mara reading shelf-marks the way she reads museum accession numbers. The bronze-and-wax diptych.
+1. **NON-NEGOTIABLE.** The record office: the fig-eating clerk, Plautia's bribe, and Mara reading shelf-marks the way she reads museum accession numbers. The bronze-and-wax diptych. (Per Ch.12: the registration is not in dispute. The record proves the lanista freed him before witnesses and the emperor; Celer's claim is a bill of sale dated the month before the games.)
 2. Fragments of how they got in: Plautia's brother, the games emptying the city.
 3. **NON-NEGOTIABLE.** **Celer** in the colonnade: genial, reasonable, patient, a friend you never had. Face to face with Valens. No violence; a conversation with knives underneath.
 4. Into the games crowd: athletes, pine-crowns, sausage sellers.
@@ -734,7 +734,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Emotional surprise:** Mara's uncontrollable laughter when a man on the benches sneezes during the gravest testimony of Valens's life.
 **Opening strategy:** Rome in one long sensory sentence (more than 28 words): scaffolds, noise, the smell of the Tiber.
 **Key scenes/beats (alternating):**
-- **Court:** the Basilica Julia's tribunals, crowds, lawyers. Celer's advocate is smooth. Plautia veiled.
+- **Court:** the Basilica Julia's tribunals, crowds, lawyers. Celer's advocate is smooth. Plautia veiled. Celer's paper is the backdated bill of sale (the record of the freedom is not in dispute, per Ch.12); the suit defeats it on the lanista's books, the date, or Celer having hired Valens for wages after the games ("After the sword I needed work", Ch.12).
 - **NON-NEGOTIABLE.** Valens's testimony: plain, his name stated, the frame described. The sneeze. Mara's laughter. She is walked out.
 - **City:** Mara in the Forum she visited as a student in 1991, the stones she knew broken now whole. The **Flavian Amphitheatre rising in scaffolding**. She carries a gladiator's child to look at the arena being built, and doesn't think about it more than once.
 - **Court:** the verdict is money. Celer must return the dowry. Needing his praetorship more than his pride, he settles the rest privately: the price of quiet is that Plautia may see her son. (Custody is not a remedy in a dowry suit; the access is Celer's concession.) Celer genial in defeat. No violence, ever.
