@@ -1,7 +1,7 @@
 # Chapter 11: Valens's Yard
 
 <!-- SCENE BUDGET (Target 6,200; range 5,600-6,800): Praxias's price over the wall; the walk; the obol, the refusal, the watch read from the pouch; the breeching; the sharpened awl 2,000 | the week: the figs argument; the black comes in lame 1,500 | Praxias at the gate and Felix sent after him; the sherd; Felix's name and his price 1,500 | the shed: no paper; the near-kiss; the black standing on her bad foot; "the day he sits"; Kirrha 1,200 -->
-<!-- Word count: 6,038 (shape_check) | Revision: continuity (audit run 2) | Issues addressed: 15 (C-01; W-01, W-02, W-04..W-13) | Date: 2026-10-20 | Target: 6,200 (range 5,600-6,800) | Dialogue 37% (band 35-45) | Breaks 3 | Median sentence 14 (gear mid) | Bare "No." 3 | Echoes 0 | Gates clean | Anchor: Felix asleep against the black mule's belly, the mule standing square on her bad foot so as not to wake him -->
+<!-- Word count: 5,929 (shape_check) | Revision: polish cycle 1 | Issues addressed: 13 (eval P1-P8 + PATH item 9 second uses + ENTITY CH11-2, CH11-5) | Date: 2026-10-20 | Target: 6,200 (range 5,600-6,800) | Dialogue 37.7% (band 35-45) | Breaks 3 | Median sentence 14 (gear mid) | Bare "No." 3 | Echoes 0 | Gates clean | Anchor: Felix asleep against the black mule's belly, the mule standing square on her bad foot so as not to wake him -->
 
 On the other side of Praxias's wall, while he made up his mind what to charge me, a mule yard was already at work in the half dark: a shovel went along cobbles in long scrapes, buckets were being set down on stone, a boy was telling some animal at the top of his voice that it was the worst mule between Parnassus and the sea, and once, very low, a man spoke, and the boy answered him with three questions before he had finished. Praxias heard none of it. He sat on the bench outside his door with a quail in the crook of his arm and named me his price.
 
@@ -21,7 +21,7 @@ He was Kallia's cousin on her mother's side, a well-fed, slow-spoken, early-risi
 
 "By then you'll have sailed for Syracuse, little cousin, and I'll be here with my palm open." He said it without any malice at all.
 
-There were three drachmas in a knot at the corner of my himation, all that the priest had paid me, and everything the god wanted had to come out of them. If Praxias would not do it for three, nobody in Delphi would do it for three. Kallia had one cousin, and I had just spent him.
+There were three drachmas in the rag at my belt, all that the priest had paid me, and everything the god wanted had to come out of them. If Praxias would not do it for three, nobody in Delphi would do it for three. Kallia had one cousin, and I had just spent him.
 
 "There's the Corinthian," Praxias said, and tipped his head at the wall. "He'll carry anything for anybody. Wood, oil, a priest's mother-in-law. He'd put your question in a pannier and bring the answer back up with your change."
 
@@ -33,7 +33,7 @@ It was forty paces along his wall to the gate of the yard, and the boy got loude
 
 The gate stood open on a square of cobbles and trodden dung, with a long stable down one side, rubble below and timber above under a roof of reeds, and a shed at the end of it with its door propped on a stone. A trough ran along the wall under a spout. The water spilled over the lip and ran off down a gutter to the road; a yellow dog lay on the dry side of the gutter, watching it go. By the house door at the back a young fig grew in the bottom half of a big jar, sawn off at the shoulder and packed with earth. It had not a leaf on it.
 
-The boy had a shovel taller than he was. He was a thin one of twelve or so in a tunic made for somebody broader, belted up with a length of rope, and his hair stood up every way at once, with straw in it. He had me in his eye before I was well through, and came straight at me with the shovel.
+The boy had a shovel taller than he was. He was a thin one of twelve or so, with straw in his hair. He had me in his eye before I was well through, and came straight at me with the shovel.
 
 "Are you Kallia's? You're the one he took up to Pan's in the snow. Did you hit Pan? Which hand? Was there much blood?"
 
@@ -43,7 +43,7 @@ The boy went off with the shovel, still asking, as he went, which hand.
 
 Valens was sitting on the end of the trough with a knife on his knee and a whetstone in his fist, putting an edge on the blade in small circles. Now and then he spat on the stone; his cloak was thrown back off his shoulders, and the hair at the back of his neck was wet from the spout.
 
-I untied the knot first and held out the obol.
+I untied the rag first and held out the obol.
 
 "For the pitch," I said.
 
@@ -95,7 +95,7 @@ The shadow of the spout was on the trough's lip, and by it the morning was nowhe
 
 "It hasn't stopped." He pulled the pouch shut.
 
-Close to, his nose had once been broken, and had healed a shade crooked, and a white nick ran through one eyebrow, across the grain of the hair. He tried the knife's edge on the back of his forearm, and it took the hair off clean.
+Close to, a white nick ran through one eyebrow, across the grain of the hair. He tried the knife's edge on the back of his forearm, and it took the hair off clean.
 
 Behind him on the shed wall hung a breeching, the strap that went round under a mule's tail to keep the load from running forward on a descent. Its stitching had gone at the turn, the place the grit worked into most, and the break had been bound up with twine. Beside it on the same peg was a girth with two of its thongs cut half through by their own holes.
 
@@ -141,7 +141,7 @@ In the morning the awl lay on the bench beside the girth, and somebody had put a
 
 For a week I mended his harness.
 
-I had Kallia's water in before the sky was gray and was on the Kirrha road before the sun was on it, going down while the pilgrims came up. There were more of them every day, all of them early, on foot and on donkeys, a family from Boeotia with a grandmother in a basket chair slung between two poles. Most mornings Valens had a string out on the road already, to Kirrha for oil or salt fish and back up, and the yard was Felix's, which meant that it was loud. Felix did nothing at a walk. He climbed the rubble of the stable to the reeds to fetch down a sack and dropped back down it, though the door was beside him; he ate standing; he sang, and broke off singing to ask me something.
+I had Kallia's water in before the sky was gray and was on the Kirrha road before the sun was on it, going down while the pilgrims came up. There were more of them every day, all of them early, on foot and on donkeys, a family of Achaeans with a grandmother in a basket chair slung between two poles. Most mornings Valens had a string out on the road already, to Kirrha for oil or salt fish and back up, and the yard was Felix's, which meant that it was loud. Felix did nothing at a walk. He climbed the rubble of the stable to the reeds to fetch down a sack and dropped back down it, though the door was beside him; he ate standing; he sang, and broke off singing to ask me something.
 
 "Where'd you learn leather? Off your father? Had he mules? There was a sailor told me in Syracuse they eat octopus raw. Raw!"
 
@@ -199,7 +199,7 @@ I put the awl through the girth and drew the thread after it. By then, if there 
 
 "Then I'm right." Valens ate the rest of it.
 
-It rained a bit the next morning and then it stopped. While it rained the string stayed in, and Valens sat on an upturned bucket in the shed doorway with the mules' bells in his lap, a dozen of them, stuffing the throat of each one with a twist of wool.
+It rained a bit the next morning and then it stopped. While it rained the string stayed in, and Valens sat on an upturned bucket in the shed doorway with the mules' bells heaped in his lap, stuffing the throat of each one with a twist of wool.
 
 "Why stop them?" I said.
 
@@ -209,9 +209,9 @@ He did three bells without saying anything else. Then he said, "The thing in my 
 
 "Most people."
 
-"Women?"
+"Children?"
 
-"Women too. Children, once they are old enough to be late."
+"Once they are old enough to be late."
 
 "Late for what?"
 
@@ -225,13 +225,15 @@ He pushed the wool into a bell with his thumb and shook it, and it gave a dull c
 
 "Not everybody is awake at dawn."
 
-"Who isn't?"
+"I am."
 
 "The rich," I said. "And people who work all night, and sleep in the day."
 
 He watched the rain on the cobbles. "Who keeps the door, while they sleep?"
 
-"In my country—" I began, and he was on his feet, and the bells were in my lap, the lot of them, and he took the last of the rain on his back to the stable.
+"A lock does. In my country every door has its own."
+
+He was on his feet then, and the bells were in my lap, the lot of them, and he took the last of the rain on his back to the stable.
 
 After the girth came a headstall with a cheekpiece sewn on by somebody who had never seen one sewn, and a packsaddle pad whose straw had gone to powder; I emptied it on the dung heap and Felix stuffed it again, elbow-deep, from the barley straw in the loft, complaining throughout.
 
@@ -247,7 +249,7 @@ Valens had come into the shed for a pad off the trestle.
 
 "No."
 
-"You've never seen anything," Felix said, with great bitterness, and took himself off to fork out the stalls, and forked them so hard that the dog left the yard.
+"You've never seen anything," Felix said, and took himself off to fork out the stalls, and forked them so hard that the dog left the yard.
 
 Valens left for the string with the pad under his arm.
 
@@ -259,13 +261,13 @@ He laid his hand flat on her shoulder and ran it down the leg, slowly, to the fe
 
 "Do you want the twitch?" Felix was already halfway to the shed. "I'll get the twitch. I'll hold her ear; nobody holds an ear better than me. Or the rope on her hind leg?"
 
-Valens kept his eyes on the hoof, and Felix stopped short.
+Valens was watching the hoof, and Felix stopped short.
 
-Valens left the foot alone. He stood at the black's shoulder, a hand on her neck under the mane, and talked to her. It was Latin, and low, and so little of it reached me that it might have been the same few words over and over. It went on until Felix gave it up and perched on the trough. I had the headstall over my knees, and I put no stitch in it. At last the black shifted her weight off the sore foot of her own accord, to rest it, and as it left the cobbles his hand was under it, and he had it against his thigh, sole up, and she let him keep it.
+Valens left the foot alone. He stood at the black's shoulder, a hand on her neck under the mane, and talked to her. Very little of it reached me, and what did was the same few words over and over. It went on until Felix gave it up and perched on the trough. I had the headstall over my knees, and I put no stitch in it. At last the black shifted her weight off the sore foot of her own accord, to rest it, and as it left the cobbles his hand was under it, and he had it against his thigh, sole up, and she let him keep it.
 
 "Lamp," he said.
 
-Felix had it lit and there before the word was well out. Valens cleaned the sole with the point of his knife and searched it under the light, and found a black spot near the toe, a lentil's worth. He pared round it in slivers, and stopped whenever she shook, and went on when she stood. Once she brought her nose round to the back of his neck and blew there, and he let her. When the knife went in far enough a thread of gray matter welled from the sole, with a smell I could taste, and the mule held still on her three good legs and let it come.
+Felix had it there, lit. Valens cleaned the sole with the point of his knife and searched it under the light, and found a black spot near the toe, a lentil's worth. He pared round it in slivers, and stopped whenever she shook, and went on when she stood. Once she brought her nose round to the back of his neck and blew there, and he let her. When the knife went in far enough a thread of gray matter welled from the sole, with a smell I could taste, and the mule held still on her three good legs and let it come.
 
 "That's the bad in her, coming out?" Felix had the lamp up so close to the hoof that Valens put his wrist against it and moved it back. "All of it? She'll go to Kirrha tomorrow, won't she?"
 
@@ -273,7 +275,7 @@ Felix had it lit and there before the word was well out. Valens cleaned the sole
 
 "Bran," he said. "Hot."
 
-Felix brought it in a bucket with a sack. Valens packed the hot bran into the sack, stood the foot in it, and bound the sack round the fetlock with a strip of rag, and the black waited with her foot in it and her head low, and he stood at her head.
+Felix brought it in a bucket with a sack. Valens packed the hot bran into the sack, stood the foot in it, and bound the sack round the fetlock with a strip of rag, and the black waited with her foot in it and her head down, and he stood at her head.
 
 "Why not the twitch?" I said, when Felix had gone for more bran.
 
@@ -305,7 +307,7 @@ Praxias came down to the yard with his quail in his arm. He stood in the gateway
 
 "Four," he said. "For family, four, and the standing thrown in."
 
-Felix reached him before Praxias had the last word out.
+Felix left his bucket and went to him.
 
 "That's the one? From behind the stadium, that blinded the Amphissan's bird in one eye? The left, I heard. Did it fight again after, the Amphissan's?"
 
@@ -319,7 +321,7 @@ I told him no. Going out, he stopped at the trough.
 
 "Mule-man," he said. "That Syracusan of yours is a hard woman."
 
-Valens gave him no answer, and he went off uphill, telling the quail about it.
+He went off uphill, telling the quail about it.
 
 Valens was at the trough with the black's foot in a fresh bran sack.
 
@@ -337,7 +339,7 @@ Valens was at the trough with the black's foot in a fresh bran sack.
 
 "Felix."
 
-Before his name had finished, the boy was through the gate. Valens put the bran sack in the bucket, and walked to the back of the yard, where the wall gave onto the olive terraces and the goats had pulled a gap in it, and he looked at the gap for some time. Then he set two stones back into it that would not have kept out a hen.
+The boy was out of the gate and after him. Valens put the bran sack in the bucket, and walked to the back of the yard, where the wall gave onto the olive terraces and the goats had pulled a gap in it, and he looked at the gap for some time. Then he set two stones back into it that would not have kept out a hen.
 
 Felix was back before the shadow of the spout had left the trough, out of breath and full of it.
 
@@ -385,7 +387,7 @@ He answered neither. "Why not?" I said.
 
 "That is between me and the god."
 
-He let it be. At the edge of the town he took the priest's lane with his wood, without anything more, and I went on to Kallia's alone.
+At the edge of the town he took the priest's lane with his wood, without anything more, and I went on to Kallia's alone.
 
 In the morning the yard gate was shut and barred, and I had to call over it. Felix let me in and dropped the bar back into its sockets, and did not like it.
 
@@ -455,7 +457,7 @@ I kept quiet, and Felix brought his questions to me instead.
 
 * * *
 
-On the last evening of the week I finished the breastband, in the shed, by the lamp. Its felt lining had matted to the hardness of a hat brim and rubbed a bare place on the gray's chest that I had found and the gray had not forgiven me for finding. I had cut the old lining away and sewn in a new one of fleece, wool side in. Valens had come in with the black's halter, and he stayed, and found a knot in the end of a lead rope to work at.
+On the last evening of the week I finished the breastband, in the shed, by the lamp. Its felt lining had matted to the hardness of a hat brim and rubbed a bare place on the gray's chest that I had found and the gray had not forgiven me for finding. I had cut the old lining away and sewn in a new one of fleece, wool side in. Valens had come in with the black's halter, and he stayed, with a foot up on the bench, to put a new lace in his boot.
 
 "Is that the last of it?" he said.
 
@@ -481,35 +483,35 @@ On the last evening of the week I finished the breastband, in the shed, by the l
 
 "And if somebody takes him? If somebody says he is a runaway?"
 
-The knot slackened under his thumbs; he was a while silent, and I let the question stand.
+The lace stopped at his ankle; he was a while silent, and I let the question stand.
 
 "Paper gets taken off you," he said.
 
 "Who took yours?"
 
-He hung the rope up with the knot still in it.
+He ran the lace on up the shin and tucked the end in.
 
 I had the last two stitches to put in, where the breastband joined the saddle strap. I put one in and drew it up, and the second wanted pulling hard against something.
 
 "Hold this end," I said. "Hard."
 
-His fist closed on the end of the strap. I drew the last stitch through and pulled both threads tight against his grip and knotted them, and cut them off with his knife, which was lying on the bench, and lifted my head from the knot, and his face was a hand's width from mine.
+His fist closed on the end of the strap. I drew the last stitch through and pulled both threads tight against his grip and knotted them, and cut them off with his knife, which was lying on the bench, and lifted my head, and his face was there.
 
-The lamp was on its nail behind me; it lit him and left me in the dark. The nick in his eyebrow showed, and the healed break in his nose. Neither of us moved, and then we both did, his head coming down and my face lifting to meet it.
+The lamp was on its nail behind me; it lit him and left me in the dark. The nick in his eyebrow showed. He came nearer, and my face lifted to meet his.
 
 Short of it by the width of a finger, he stopped, and stepped back. The shed was small, and the one step put his shoulders in among the girths hanging on the wall behind him.
 
-I sat down. There was the packsaddle on its trestle behind me, and my knees put me onto it, with the cut ends of the thread still pinched in my hand. Everything in me that had been held up came down, and I was hungry. I wanted bread, and whatever Kallia had in the pot, and I wanted it now.
+I sat down. The packsaddle had been on its trestle at my back, and I was on it, with the cut ends of the thread still pinched in my hand. Everything in me that had been held up came down, and I was hungry. I wanted bread, and whatever Kallia had in the pot, and I wanted it now.
 
-He took the lamp down from its nail and looked at the wick, and pinched off the char with his fingers, and hung it back up. Neither of us said anything. He was out in the yard next, and out there, where he must have taken himself to be unwatched, he stretched, both arms straight up over his head, until something in his back went with a crack I heard from the packsaddle.
+He took the lamp down from its nail and looked at the wick, and pinched off the char with his fingers, and hung it back up. He was out in the yard next, and out there, where he must have taken himself to be unwatched, he stretched, both arms straight up over his head, until something in his back went with a crack I heard from the packsaddle.
 
 I went out after him.
 
 The yard was blue with dusk, and the string was in its row, eating. Felix was in the end stall with the black. He had sat down in the straw to do something, by the look of him, and the something had not got done: he was asleep, with his back to the stall's wall and his head fallen sideways against her belly, mouth ajar, and the sack he had been sent to change still in his fist. The black stood over him. All week she had swung her rump at him, and kicked his bucket over every evening, and stood on his foot whenever he gave her the chance. Now she was standing square on all four feet, the bad one as well, which she had not done since it went lame, because to take her weight off it she would have had to shift, and he was asleep against her.
 
-Valens stood and looked at the two of them. He went in beside the boy and eased the sack out of his fist without hurry, and the black let him, and he came out again without waking either of them.
+Valens stood and looked at the two of them. He went in beside the boy and eased the sack out of his hand without hurry, and the black let him, and he came out again without waking either of them.
 
-"He's been up since before it was light," he said, very low.
+"He's been up since before it was light," he said.
 
 "Will you wake him?"
 
@@ -531,7 +533,7 @@ Valens stood and looked at the two of them. He went in beside the boy and eased 
 
 "The priest will write your name down. You told me so yourself."
 
-He let that go by him. I waited for him to tell me why.
+I waited for him to tell me why.
 
 "Why?" I said.
 
@@ -543,7 +545,7 @@ He let that go by him. I waited for him to tell me why.
 
 "Mara."
 
-That got no answer. He had it, and he kept it.
+He had it, and he kept it.
 
 "Which one does the priest get?"
 
