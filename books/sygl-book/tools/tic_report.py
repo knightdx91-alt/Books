@@ -44,6 +44,8 @@ WORLD_TERMS = [
     "would not be able", "be able to enroll", "do with their own", "the only reason",
     "the other originators", "other originators were", "do you know the", "a few days ago",
     "do you know", "a few days",
+    # Canon fact (how long Amelia was imprisoned), not a refrain.
+    "three thousand years",
 ]
 # The narrator's professional reflex: the phrases by which THIS book's narrator files everything she
 # sees under her own expertise (a lab, a seminar, a trade). Book-specific; leave empty if none. The gate

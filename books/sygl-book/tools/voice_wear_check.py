@@ -53,6 +53,7 @@ SELF_REPEAT_ALLOW = [
     # chapters. Kept verbatim by author direction (2026-10-20); exempt here, NOT a licence for narration.
     "would not be able", "be able to enroll", "do with their own", "the only reason",
     "the other originators", "other originators were", "do you know the", "a few days ago",
+    "three thousand years",
 ]
 STRICT = "--lenient" not in sys.argv   # the no-tics law: strict by DEFAULT; --lenient only for a diagnostic read
 
