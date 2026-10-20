@@ -45,7 +45,7 @@ The stick went past my ear. It came down across Valens's shoulders. He went forw
 
 The ditch hid them. I heard them.
 
-A hand took the back of my himation and pulled. The wool came tight across my throat. I was pulled back against somebody. Wine. Sweat.
+My himation came tight across my throat from behind. I was pulled back against somebody. Wine. Sweat.
 
 "Be still, mistress. Be good."
 
@@ -91,7 +91,7 @@ Valens came past him to me.
 
 "No."
 
-He looked for blood on me regardless. Then he dropped into the ditch. I saw his back, and his arm working at something low down, and when he shifted his weight I saw the man's face past him, turned up the bank, toward me. It was still a pleasant face. When Valens climbed back up he had a purse on a cut thong, and the talker's knife. He had left the man everything else.
+He looked for blood on me regardless. Then he dropped into the ditch. I saw his back, and his arm working at something low down, and when he shifted his weight I saw the man's face past him, turned up the bank, toward me. It was still a pleasant face. When Valens climbed back up he had a purse on a cut thong. He had left the man everything else.
 
 "Get the string on to the ford," he said to Felix. "Water them. Keep the goat out of the stream."
 
@@ -149,7 +149,7 @@ It stopped by degrees.
 
 He let his forehead come to rest on my hair. He stayed there.
 
-When he lifted his head, I took my hands away. His stayed flat on the stone. He took them down himself. A graze full of grit ran along his cheekbone. I had missed it on the road, and he plainly knew nothing about it.
+When he lifted his head, I took my hands away. His stayed flat on the stone. He took them down himself. There was a graze along his cheekbone with grit in it. I had missed it on the road, and he plainly knew nothing about it.
 
 I had trodden on something at the edge of the pool, and the smell rose off it, green and sharp, from a clump of flat leaves crushed under my heel. "Onions," Valens said. "They hung them under the eaves. In strings, to dry."
 
@@ -157,9 +157,9 @@ He drew the stranger's knife from his belt and washed it in the falling water, r
 
 I climbed out and sat on a rock with my feet in the sun.
 
-The camera hung against the front of my himation. I looked it over. Somebody's hair was wound into the little crank on top, a few dark curls of it, and a smear lay on the top plate that had been wet and was not any longer. I worked the hair out with a thumbnail and wiped the smear away with the hem of my chiton. The ring at the front of the lens had taken the blow; it was pushed in at one point, and no filter would screw onto it now. The glass was whole. In the finder the plane trees stood upright and in focus.
+The camera hung against the front of my himation. I looked it over. Somebody's hair was wound into the little crank on top, a few dark curls of it, and a smear lay on the top plate that had been wet and was not any longer. I worked the hair out with a thumbnail and wiped the smear away with the hem of my chiton. The ring at the front of the lens had taken the blow and was pushed in at one point. In the finder the plane trees stood upright and in focus.
 
-I had carried it since the lodgers came. All week men had slept along Kallia's gallery in rows, Thessalians and Achaeans and a priest's cousin from Elateia, and my duffel lay below the stairs among their bundles, and I had heard strangers turn over in the dark a yard from it. The flashlight could take its chances. The camera was the thing in that bag a thief would take first, and the thing I could least explain to anybody who took it, so each morning it went under my chiton on its strap and rode there till night, knocking me whenever I hoisted water. Its cap was still in the oil by the ditch, where I meant it to stay; a black disc with letters no one at Kirrha would read as a word was a thing a sailor might have dropped off any boat.
+I had carried it since the lodgers came. All week men had slept along Kallia's gallery in rows, Thessalians and Achaeans and a priest's cousin from Elateia, and my duffel lay below the stairs among their bundles, and I had heard strangers turn over in the dark a yard from it. The camera was the thing in that bag a thief would take first, and the thing I could least explain to anybody who took it, so each morning it went under my chiton on its strap and rode there till night, knocking me whenever I hoisted water. Its cap was still in the oil by the ditch, where I meant it to stay.
 
 "Is it broken?" he said, still facing the rock.
 
@@ -265,7 +265,7 @@ Felix lowered the skin. "I could say I saw them run. Two of them, into the olive
 
 "Tell it anyway."
 
-He chose a stone from the bank, near a jar's weight, and roped it opposite the single one on the mule that had lost hers, so that she would carry level, and tried the knots. His hands were sure at it.
+Valens chose a stone from the bank, near a jar's weight, and roped it opposite the single one on the mule that had lost hers.
 
 At the stepping stones I gave him back his pouch. He put the purse in my hand.
 
