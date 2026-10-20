@@ -138,6 +138,11 @@ Your revisions must not INTRODUCE AI patterns. This is the #1 risk of LLM editin
   count its whole CLASS across the chapter afterwards, not just the line you touched. Swapping one
   "looked at" for "bent over" can push the bending class to its cap (Hour of Ash Ch.9 lost a cycle to
   exactly this). Run `tic_report.py --gate` and `--echoes N` after every pass, your own included.
+- **A continuity fix closes the gap with the fewest words and never explains.** When an audit asks you to
+  show that a character knows or chooses something (a dropped object left on purpose, how a villain
+  found someone), add the fact or the act, not a reason clause telling the reader why it matters. Hour of
+  Ash Ch.12 failed Prose on explanation density after a continuity repair added two "because"-shaped
+  sentences the scene already showed. Prefer a cut, or a line of dialogue, to a narrated rationale.
 
 ### 7. Style-Bearing Elements — Burden of Proof
 Before deleting or converting any passage, name what it IS doing. The following carry voice even when they resist efficiency — do NOT silently convert to standard prose:
