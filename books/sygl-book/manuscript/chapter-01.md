@@ -48,7 +48,7 @@ He'd gone through a fair number of ideas before settling on one. A rope charmed 
 
 A month ago he wouldn't have known where to begin. Then Fredrick left.
 
-Fredrick had been at Saint Andre's nearly as long as Bal had. He was a year older, tall and all elbows, with a terra sygl on his left palm and a habit of humming tunelessly whenever he read. The two of them had shared a bench at lessons, and a hiding spot behind the boiler, and more than a few nights of whispering across the dark of the dormitory about what they'd do when they were grown. At the start of the summer, the letter had come from the Sygldry School of Magykal Arts, and the whole orphanage had turned out on the front steps to see Fredrick off.
+Fredrick had been at Saint Andre's nearly as long as Bal had. He was a year older, tall and all elbows, with a terra sygl on his left palm and a habit of humming tunelessly whenever he read. The two of them had shared a bench at lessons, and a hiding spot behind the boiler, and more than a few nights of whispering across the dark of the dormitory about what they'd do when they were grown. At the start of the summer, the letter had come from one of the Sygldry schools of magykal arts, and the whole orphanage had turned out on the front steps to see Fredrick off.
 
 The night before he went, he'd come up to the dormitory with a stack of beginner spell books tied together with garden string and dropped them on the end of Bal's bed.
 
