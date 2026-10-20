@@ -21,17 +21,17 @@ It was July now, by my own count, which nobody else on the mountain kept.
 
 Below the edge of the grass the mountain fell away in long steps of rock and scrub to the plateau, which lay at the bottom of them as flat and pale as the lake bed it had once been. On its opposite edge, where it ended against a low brow of cliff, a patch of shade stayed where it was while the light moved; I had been inside it once since the consultation.
 
-Valens came up below the cliffs on the morning that followed, with two mules and a bundle of split pine, and we climbed with nothing said between us that was not about the path.
+Valens came up below the cliffs on the morning that followed, with two mules and a bundle of split pine, and we climbed.
 
 "Keep to the inside at the third turn," he said, at the second. "It's ice under the wet there." And at the top: "The snow's rotten in the hollows. Walk where it's gray."
 
-The plateau was still half under snow, gray and sunk in the hollows, with water running beneath it everywhere, so that the whole plateau ticked and trickled like a kitchen when the heat comes on in a cold house. At the cave, melt was coming off the lip of rock above the entrance in a broken, glittering sheet; we passed under it with our heads down and were through with our shoulders soaked.
+The plateau was still half under snow, gray and sunk in the hollows, with water running beneath it everywhere, and all of it ticked and trickled. At the cave, melt was coming off the lip of rock above the entrance in a broken, glittering sheet; we passed under it with our heads down and were through with our shoulders soaked.
 
 I had brought the flashlight, which all winter had lain in the deepest corner of my bag; that morning I had put it uppermost.
 
-The daylight went farther in than I had ever seen it go, with the snow at the mouth throwing it in. Valens followed with a pine he had not troubled to light, and far in, where the roof dropped and the floor climbed to meet it, the dim gave out, and I dug in the bag for the flashlight and slid the switch forward.
+The snow at the mouth threw the daylight in behind us. Valens followed with a pine he had not troubled to light, and farther in, the dim gave out, and I dug in the bag for the flashlight and slid the switch forward.
 
-The beam was yellower than it had been in May, and narrower, with a brown edge where the batteries had begun to tire. I shone it along the crack, whose far end had always been black to me. The beam reached past the bend and stopped a yard beyond, on a face of gray stone that closed the crack from wall to wall. The stone sweated, and along its foot lay a crust of something pale and soft-looking, like old bread; on its face, in a clot the size of two fists, hung a crowd of daddy longlegs, all threads and joints, which began in the light to come apart, unhurriedly, one leg at a time.
+The beam was yellower than it had been in May, and narrower, with a brown edge where the batteries had begun to tire. I shone it along the crack. The beam reached past the bend and stopped a yard beyond, on a face of gray stone that closed the crack from wall to wall. The stone sweated, and along its foot lay a crust of something pale and soft-looking, like old bread; on its face, in a clot the size of two fists, hung a crowd of daddy longlegs, all threads and joints, which began in the light to come apart, unhurriedly, one leg at a time.
 
 "That is the end of it," I said. "It goes no further."
 
@@ -41,9 +41,9 @@ The beam was yellower than it had been in May, and narrower, with a brown edge w
 
 That was the whole of the crack: a yard of it past the bend, a wall, the spiders, and behind the wall the mountain going on into itself as far as the mountain went.
 
-Valens's steps had halted when the beam showed; presently I heard them start again, and he arrived at my shoulder and watched what the beam was lying on, the wet stone and the long legs moving over it, while I held it there; the thing in my hand he left to me.
+Valens's steps had halted when the beam showed; presently I heard them start again, and he arrived at my shoulder and watched what the beam was lying on, the wet stone and the long legs moving over it, while I held it there, and he left the light to me.
 
-It was shut, as I had wished it, and I switched the light off, and we stood together in the dark, and I waited to see what I would feel about it. The melt had gone through my himation at the shoulders and lay cold down my spine. I began to shiver with it, slowly, from the middle outward, then hard enough that he heard my teeth.
+It was shut, as I had wished it, and I switched the light off, and we stood together in the dark, and I waited. The melt had gone through my himation at the shoulders and lay cold down my spine. I began to shiver with it, slowly, from the middle outward, then hard enough that he heard my teeth.
 
 "The lip's running hard," he said in the dark. "We want to be out under it before it's on us properly, and off the cliff while the sun's still on the turns, or they'll freeze under us."
 
@@ -125,7 +125,7 @@ The sun stood straight overhead, hot enough that the thyme smelled from where it
 
 "The light in the cave," he said, between strokes.
 
-The flashlight lay in the bag in the hut, uppermost, as it had ridden since spring. I went in for it, and on my return he finished the stroke he was on, rinsed the blade and wiped both hands dry on his tunic before he would accept it. It was gray plastic, ridged along the barrel for the grip, with a switch that slid under the thumb, and it weighed about what a hen's egg weighs. He held it a little off from his body, flat on his palm.
+The flashlight lay on top of everything in my bag in the hut, where it had ridden since spring. I went in for it, and on my return he finished the stroke he was on, rinsed the blade and wiped both hands dry on his tunic before he would accept it. It was gray plastic, ridged along the barrel for the grip, with a switch that slid under the thumb, and it weighed about as much as a hen's egg. He held it a little off from his body, flat on his palm.
 
 "Under your thumb," I said. "Push."
 
@@ -175,17 +175,17 @@ Half his face was shaved and half was not, and he turned the whole of it on me.
 
 "Not that part. That part goes on."
 
-He waited, and I, who had begun with a monk's mistake and could not see how to get from there to anywhere, did the sum aloud, and that was worse still.
+He waited, and I did the sum aloud.
 
 "From now," I said, "nineteen hundred years, and twenty-seven more. Twenty-six, and some months. I left in May. It is a month we have; it comes after April."
 
 "I know May."
 
-He still held the knife, with water running off the blade. A fly was walking on the rim of the bowl, and I watched the fly and told him the rest in one go, to have it out before he could stop me.
+He still held the knife, with water running off the blade. A fly was walking on the rim of the bowl, and I watched the fly and told him the rest in one go.
 
-"The cave on the plateau," I said. "It had a door in it. For one afternoon. Nobody could have seen it; it was a cold, coming from the crack where no cold should be. I crawled in there in May, in my year, with my bag on my front and that light in my teeth, and I crawled out of it into yours, into October, with snow on the way. Then it shut. It has stayed shut. You have seen it shut, in the spring. You saw the spiders."
+"The cave on the plateau," I said. "It had a door in it. For one afternoon. Nobody could have seen it; it was a cold, coming from the crack where no cold should be. I crawled in there in May, in my year, with my bag on my front and that light in my teeth, and I crawled out of it into yours, in the autumn, with snow on the way. Then it shut. It has stayed shut. You have seen it shut, in the spring. You saw the spiders."
 
-He was looking past me at the cave's dark mark across the plateau, down there in the heat, until I thought he had not understood one word, and then he was facing me.
+He was looking past me at the cave's dark mark across the plateau, down there in the heat, until I thought it had all gone by him.
 
 "Do they still have mules?"
 
@@ -215,7 +215,7 @@ He wet the knife and started on his left cheek.
 
 "The spring?"
 
-"It still runs. There is a fence round it now, and you may not drink."
+"It is dry. There is a fence round it now."
 
 He shaved along the line of his cheekbone, where a graze had healed into a pale seam no longer than a barley grain, and went round it. "Is the sea still salt?"
 
@@ -231,7 +231,7 @@ He finished, rinsed the knife and sheathed it at his back, then sat with his cle
 
 "The heavy one," he said. "Felix's silver."
 
-I wore it next to my skin still, though up here nobody would take it, and it had rubbed a raw patch on my breastbone that I had stopped noticing. I unslung it and gave him the camera by its body. He put the wrong end to his eye first and got nothing but his own lashes in the glass. "Not that way," I said, and he found the plateau with it, and the shadowed notch, and the cliff above it.
+I wore it next to my skin still, and it had rubbed a raw patch on my breastbone that I had stopped noticing. I unslung it and gave him the camera by its body. He put the wrong end to his eye first and got nothing but his own lashes in the glass. "Not that way," I said, and he found the plateau with it, and the shadowed notch, and the cliff above it.
 
 "It makes everything small," he said.
 
@@ -239,7 +239,7 @@ I wore it next to my skin still, though up here nobody would take it, and it had
 
 "Where?"
 
-"Inside it, in the dark, on a strip as long as your arm. Not a soul in this world can bring it out."
+"Inside it, in the dark, on a strip as long as you are tall. Not a soul in this world can bring it out."
 
 "The boy says it was your father's."
 
@@ -271,13 +271,13 @@ He tried it over. "Where's that?"
 
 "In Campania. On the bay below Neapolis, below a mountain they grow wine on. A day from Puteoli by the coast road, or less."
 
-"Neapolis I know of. Puteoli." He had a scuffed patch of earth before the woodstack, worn bare by his own boots, and he drew in it with the heel of one. "Here's the gulf, and here's the heel of Italy, and the coast goes round from it to Puteoli." He made a mark. "There?"
+"I've heard of Neapolis. Puteoli." He had a scuffed patch of earth before the woodstack, worn bare by his own boots, and he drew in it with the heel of one. "Here's the gulf, and here's the heel of Italy, and the coast goes round from it to Puteoli." He made a mark. "There?"
 
-"Further up. There."
+"Short of that. There."
 
 He moved the mark. "What sort of town?"
 
-"They elect two magistrates a year and paint the candidates' names on the house walls in letters a foot high, and the bakers vote for whoever likes bread. There is a forum with a temple at the top of it, and tombs along the roads out of every gate, and out among the tombs, somewhere, the door I want."
+"They elect their magistrates every year and paint the candidates' names on the house walls in letters a foot high, and the bakers vote for whoever likes bread. There is a forum with a temple at the top of it, and tombs along the roads out of every gate, and out among the tombs, somewhere, the door I want."
 
 The rest of what I knew stood behind the name: eight years on from this summer, and a few weeks over. I left it standing where it was; his question had been about the road.
 
@@ -285,7 +285,7 @@ The rest of what I knew stood behind the name: eight years on from this summer, 
 
 "Yes."
 
-"With the light, and the box with the eye in it."
+"With the light, and the box you look through."
 
 "Yes."
 
@@ -293,11 +293,11 @@ The rest of what I knew stood behind the name: eight years on from this summer, 
 
 "If it is open, by the cold, as I knew it at the crack. If it is shut I shall not know it from any other wall."
 
-He had heard all of it, the count, the cave, the door in the town, and put it away as Kallia put away a lodger's tale of a sister who married a magistrate; I had not thought he would be kind about it.
+He had heard all of it and put it away as Kallia put away a lodger's tale of a sister who married a magistrate.
 
 "My paper," he said, "is in Corinth. The book with my name in it."
 
-I hiccuped, out of nowhere, so that my shoulders jumped.
+I hiccuped, out of nowhere, and my shoulders jumped.
 
 "Hold your breath," he said. "I'll want that book in my hand before I set foot in Italy."
 
@@ -323,9 +323,9 @@ I hiccuped, out of nowhere, so that my shoulders jumped.
 
 I hiccuped again, with my cheeks full, and it burst out through my nose.
 
-"In that court I'll have the brother's men on the benches round me," he said. "Celer's chose a road for it." He picked the thyme from his teeth and looked at it. "When the grazing's done, in the autumn, we leave for Corinth. Before the rains. We winter there. The sea opens in the spring, and we sail. As man and wife."
+"In that court I'll have the brother's men on the benches round me," he said. "Celer's men chose a road for it." He took the thyme from his teeth and looked at it. "When the grazing's done, in the autumn, we leave for Corinth. Before the rains. We winter there. The sea opens in the spring, and we sail. As man and wife."
 
-The hiccup took me exactly on the last word of it, so that I seemed to answer him with it.
+The hiccup took me exactly on the last word of it.
 
 "As man and wife."
 
@@ -341,7 +341,7 @@ The hiccup took me exactly on the last word of it, so that I seemed to answer hi
 
 "I meant to winter in Delphi. Euthydikos has a bowl for me when the god closes for the year. It would have paid my crossing."
 
-"Delphi's put you on a boat. Leave yourself on it."
+"Delphi thinks you're on a boat. Let it."
 
 "His man will come down to the lane for me when it is ready."
 
@@ -363,9 +363,9 @@ I had it in my head already: Euthydikos's bean-sheller off his stool by the bay 
 
 "Because it is my own," I said. "There is a house with my father's things in it that nobody else will know what to do with, and my work, and my name on a door. Because there I know where everything is kept."
 
-"Then I'll wait outside it," he said.
+"I'll wait outside it," he said.
 
-My hiccups had gone, somewhere in the course of it.
+My hiccups were gone.
 
 * * *
 
@@ -437,7 +437,7 @@ I washed his shins at the water skin, with a rag and cold water, until they bled
 
 "Only a little," Felix said. "Not in front of everybody."
 
-Where he could see me looking he never flinched. When he took me to be looking elsewhere, he did, each time. Valens had the black's near fore up across his thigh by then and was paring at it, and he kept on paring.
+Where he could see me looking he never flinched. When he took me to be looking elsewhere, he did, each time. Valens was splitting pine at the woodstack by then, with his back to the pair of us.
 
 "Did you see?" Felix called to him. "I had it on its back foot."
 
@@ -449,7 +449,7 @@ At sundown Mnason brought the cheese over to our fire, as he had done every few 
 
 "It's good," Valens said, which was the most I had heard him say to Mnason in a week.
 
-It tasted of milk and salt, fresh and squeaking against the teeth. On Ninth Street, in the Italian Market, a man in a paper hat had once passed me ricotta across his counter on the back of a knife, still warm, and it had squeaked the same; the herdsman's was sharper, and had a hair in it. The cheese was good and Mnason said it was not and ate most of it.
+It tasted of milk and salt, fresh and squeaking against the teeth. On Ninth Street, in the Italian Market, a man in a paper hat had once passed me a knot of mozzarella across his counter on the back of a knife, still warm, and it had squeaked the same; the herdsman's was sharper, and had a hair in it. The cheese was good and Mnason said it was not and ate most of it.
 
 "Green fig'll strip your lips," he told Felix, through a mouthful. "My brother ate six once, at the vintage, for a bet."
 
@@ -473,7 +473,7 @@ Felix ate standing, with one shin held clear of the fire.
 
 "Fighters eat on their feet," he said, "so nobody catches them sitting."
 
-We had barley bread Valens had baked in the ashes that morning, black on the bottom, and a fistful of the wild greens Mnason picked along the rim and boiled with salt, which were bitter in a way that grew on you, and a little of the wine from the skin, which did not. The sun dropped past the western ridge, the firs went black against it, and the dark rose on the plateau like water in a basin filled from below, until only the summit at our backs still had light on it.
+We had barley bread Valens had baked in the ashes that morning, black on the bottom, and a fistful of the bitter greens Mnason picked along the rim and boiled with salt, which I had come round to, and a little of the wine from the skin, which I had not. The sun dropped past the western ridge, the firs went black against it, and the plateau filled with dark, until only the summit at our backs still had light on it.
 
 Mnason heaved himself up, put his knife away in his belt, and eyed Valens over the fire.
 
@@ -491,7 +491,7 @@ Felix lay down where he was, between the fire and the woodstack, with his cloak 
 
 "They walk alongside," Valens said, but by then Felix was asleep, openmouthed.
 
-The herdsman's dog barked once near the fold. "I'll have your hide for a pail," came Mnason's voice out of the dark, and it did not bark again. Valens laid a root of juniper on the embers and watched it catch.
+The herdsman's dog barked once near the fold. "I'll have your hide for a pail," came Mnason's voice out of the dark, and it did not bark again. Valens laid a root of juniper on the embers.
 
 "You do not believe a word of it," I said.
 
@@ -511,9 +511,9 @@ The herdsman's dog barked once near the fold. "I'll have your hide for a pail," 
 
 * * *
 
-While he walked the line in the dusk, as he did every night, trying the hobbles and standing a while where it ended, his face to the dark of the plateau, which was the way up to us for anybody coming, I took myself into the hut.
+While he walked the line in the dusk, as he did every night, trying the hobbles and standing a while where it ended, his face to the dark of the plateau, I took myself into the hut.
 
-It was dry stone shoulder-high, roofed with fir poles under brush and turves, and so low that I could stand upright only under the ridge pole. His rush baskets hung in a row from pegs, and the smell of whey was in the stones. At the back he had made a bed by driving four forked stakes into the earth floor and laying poles across the forks, with cut bracken heaped on the poles and three fleeces on the bracken; all summer it had held me, and I had never looked underneath it. Enough light came in at the doorway from the fire to see shapes by, and the shine of things.
+It was dry stone shoulder-high, roofed with fir poles under brush and turves, and so low that I could stand upright only under the ridge pole. Mnason's rush baskets hung in a row from pegs, and the smell of whey was in the stones. At the back he had made a bed by driving four forked stakes into the earth floor and laying poles across the forks, with cut bracken heaped on the poles and three fleeces on the bracken; all summer it had held me, and I had never looked underneath it. Enough light came in at the doorway from the fire to see shapes by, and the shine of things.
 
 When Valens passed the doorway once more I said his name, and he stopped outside it.
 
@@ -527,27 +527,25 @@ He ducked through the doorway with his head down and straightened a little too s
 
 "Mind the roof," I said, too late.
 
-"Mnason built it to fit Mnason," he said.
-
-I had meant to be graceful about the rest of it, and I got my belt off well enough. Then I took the chiton by its skirt and dragged it upward past my face, and somewhere at the top the cloth caught on itself and trapped my arms inside it. While I fought it my elbow went out sideways in the dark and found something that grunted.
+I had meant to be graceful about the rest of it, and I got my belt off well enough. Then I took the chiton by its skirt and dragged it upward past my face, and at the top the cloth caught on itself and trapped my arms inside it. While I fought it my elbow went out sideways in the dark and found something that grunted.
 
 "That was my eye."
 
-I fought free of the chiton with my hair in a tangle, and there, on its strap, against my breastbone, the Pentax hung as it had hung all afternoon.
+I fought free of the chiton with my hair in a tangle, and there, on its strap, between my breasts, the Pentax hung as it had hung all evening.
 
 "You wear it to bed."
 
 "I wear it to everything."
 
-He took the strap two-handed and drew it off me, slowly, keeping it clear of my hair, and hung it on the peg beside the cheese baskets with the lens turned to the wall. With the weight gone, the raw place on my breastbone stung in the cold, and he put his thumb on it. His tunic came off and landed by the cheese baskets, and he was very large in that small hut, and pale where the sun had not been at him. I took hold of his belt where he had dropped it and laid it away in the corner, so that his hands would find no work in it.
+He took the strap two-handed and drew it off me, slowly, keeping it clear of my hair, and hung it on the peg beside the cheese baskets with the lens turned to the wall. With the weight gone, the raw place on my breastbone stung in the cold, and he put his thumb on it. His tunic came off, and he was very large in that small hut, and pale where the sun had not been at him. I took hold of his belt where he had dropped it and laid it away in the corner, so that his hands would find no work in it.
 
-We got onto the bed by stages: I lay down first and drew him by the arm. He followed me down with his elbow hitting the wall, and he had not yet trusted the poles with his weight when the fork at the head of the bed, which had borne me since we came up, split along its grain with a dry crack.
+We got onto the bed by stages: I lay down first and drew him by the arm. He followed me down with his elbow hitting the wall, and he had not yet trusted the poles with his weight when the fork at the head of the bed split along its grain with a dry crack.
 
 The poles at that end rolled out of it, and the head of the bed went down, and my head with it. His palm was under my skull before the floor was, and the floor took the back of his hand instead; the bracken and the fleeces and the two of us went sliding down the slant the poles made and fetched up in a heap by the stones of the wall, with my feet still in the air on the good end and one of the fleeces across my face.
 
 He laughed.
 
-It started somewhere low in him and went on, helpless, and shook the poles under us so that more of the bed gave way, and that set us off harder. I laughed with my face against his ribs and could not stop, nor could he; every time one of us had nearly stopped, the other started again.
+It started low in him and went on, helpless, and shook the poles under us; more of the bed gave way, and that set us off harder. I laughed with my face against his ribs and could not stop, nor could he; every time one of us had nearly stopped, the other started again.
 
 "That's the fork," Valens said, when he could.
 
@@ -555,11 +553,11 @@ It started somewhere low in him and went on, helpless, and shook the poles under
 
 "I was watching the figs."
 
-A pole at the foot rolled off its fork on its own and hit the floor, and we were gone again. His teeth showed by the doorway's glow, square and even. I had flossed every night of my adult life and still paid a man in a white coat to scold me twice a year, and I lay in the wreck of the herdsman's bed and held them against him.
+A pole at the foot rolled off its fork on its own and hit the floor, and we were gone again. His teeth showed by the doorway's glow, square and even. I had flossed every night of my adult life and still paid to be scolded twice a year, and I lay in the wreck of the herdsman's bed and held them against him.
 
 His hand was still under my head; I drew it out and looked at it in what light there was. The skin had gone from two of the knuckles, and there was earth from the floor in the raw places, and a splinter of bracken stalk. I picked the bracken out with my teeth, then the grit, spitting it aside; I put my mouth to the place, and somewhere in that his laughing ran out.
 
-His breathing was loud in the hut, and the fleece had slid off my face. His knuckles stayed at my mouth, and he had gone quite still.
+His breathing was loud in the hut, and the fleece had slid off my face. His knuckles stayed at my mouth, and he was quite still.
 
 "Here?" he said.
 
@@ -567,7 +565,7 @@ His breathing was loud in the hut, and the fleece had slid off my face. His knuc
 
 For a while his hands were not careful. They came at me hard, on my back and in my hair, and his mouth with them; then they remembered themselves and were careful, which was worse, and better.
 
-He kissed me, and his mouth tasted of the herdsman's wine and of thyme. I pulled at him until his weight was on me properly, and what poles were left under the fleece shifted and creaked and took it. The night air at the doorway was cold on my arm, and he was hot from my shoulder to my feet, rough with hair across the chest, and his palm traveled down my side over my ribs and my hip, stopped there, and waited; I put my own hand over it and took it where I wanted it. He learned me after that as a man learned a road he meant to take again at night, feeling where it led and where it gave. His mouth went down my throat to my breast, and lingered. His beard was already growing back since noon, and it dragged on my skin.
+He kissed me, and his mouth tasted of the herdsman's wine and of thyme. I pulled at him until his weight was on me properly, and what poles were left under the fleece shifted and creaked and took it. The night air at the doorway was cold on my arm, and he was hot from my shoulder to my feet, rough with hair across the chest, and his palm traveled down my side over my ribs and my hip, stopped there, and waited; I put my own hand over it and took it where I wanted it. He learned me after that as a man learned a road he meant to take again at night, feeling where it led and where it gave. His mouth went down my throat to my breast, and lingered. His jaw had roughened again since noon, and it dragged on my skin.
 
 Nothing in that hut stood between me and a child but luck, and I had lost count of my month somewhere around October; it went through me, and I did nothing to stop it.
 
@@ -577,7 +575,7 @@ It was slow, and stayed slow, and the pole under my back rocked on its one good 
 
 I came with my heel hooked behind his knee and a fistful of the fleece, and he held still for me through it, as he could hold still for anything; then the stillness left him, the whole of it at once, and the care went with it. He drove into me hard, and I wanted it, and pulled him to me, and he made a sound into the fleece, long and broken, and all his weight came down onto me and stayed.
 
-The bed lay as it had fallen, the fork split, the poles off it, half the fleeces on the floor, and he lay in it with his arm across me and his face in my hair.
+The bed lay as it had fallen, the fork split, the poles off it, half the fleeces on the floor, and he lay in it with his arm across me and his cheek on my shoulder.
 
 "Was it the pole?" he said, some while later. "Under your back."
 
@@ -587,13 +585,13 @@ The bed lay as it had fallen, the fork split, the poles off it, half the fleeces
 
 The fire outside had sunk, and his heart was slowing under my palm.
 
-"In your country," he asked, with his mouth in my hair, "do they marry at the gangway?"
+"In your country," he asked, "do they marry at the gangway?"
 
 "At a table, mostly. In front of a clerk. Somebody writes it down. And here?"
 
 "Here you say it before witnesses, and then everybody eats. Corinth has clerks."
 
-His arm went heavy across me, and stayed heavy.
+His arm went heavy across me.
 
 Some time after that I eased out from beneath it by inches, found my himation by feel among the fleeces, and stepped barefoot onto the wet grass. The stars were down to the ridges all round, more of them than there was dark between, and the summit stood black against them with no light on it anywhere. The string slept on its feet in a row along the hillside, and the fire had gone to embers.
 
