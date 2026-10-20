@@ -631,7 +631,7 @@ re-read and confirmed (or corrected against the page) the moment the character e
   courtly.
 - Sample line: "I don't know how you managed to kill Heath with that shoddy sword work." (p.122; Ch.21)
 
-#### SEAN KIIN — Tempus Lead Mage (a fourth year) (Ch.13 described; Ch.20 on stage) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### SEAN KIIN — Tempus Lead Mage (a fourth year) (Ch.13 described; ON PAGE Ch.20 — confirmed by Writer)
 - Ch.13 note: described unnamed by Viridia ("Ours is a jerk": no loud talking, no kissing, a study time,
   five demerits = any chore). Bal does not yet know his name.
 - Attention / worldview: rank and ownership of "his" Tempus students; enforces rules (no loud talk, no
@@ -639,10 +639,12 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - Vocabulary band: a prefect's.
 - Syntax fingerprint: indignant echo-questions of Bal's words ("Not my concern? Who are you to tell me
   she's not my concern…"); "you filthy blood mage."
-- Evasion — never says: anything back once Bal threatens the duel; he swallows and turns away (source;
-  mind the look-away density cap — render once).
+- Evasion — never says: anything back once Bal threatens the duel. Ch.20 renders the source's swallow/nod/
+  look-away as "Sean's throat moved" + one short jerk of the chin, then he sits back down in the spilled tea
+  (no nod, swallow or look-away words spent).
 - Physicality / silence: grabs and yanks Viridia; dragged across a table by the blood whip, slides down
-  his own. (No invented craving for Raizen's notice — cut by author decision.)
+  his own. Ch.20 on page: fair hair cut short and neat, a prefect's straight back; goes blotchy (red
+  cheekbones, white mouth) when defied; ends dripping tea, jam on a sleeve. (No invented craving for Raizen's notice — cut by author decision.)
 - Verbal tic: none — distinguished by syntax (echo-questions) + worldview (ownership).
 - DISTINCTNESS GUARANTEE: the bully who repeats Bal's words back as outrage, against Porter, who
   interrogates with sarcasm.
