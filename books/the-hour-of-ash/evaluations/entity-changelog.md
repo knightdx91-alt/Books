@@ -1737,3 +1737,42 @@ Applied where the page supports them. Not applied:
 - **Valens's name** is not in the god's book; Felix's is.
 - **Euthydikos** will send for Mara for the bowl after the season, and she has put it off.
 - **Kallia:** "The boats go west at the new moon."
+
+## 2026-10-20: UPDATE (re-sync of chapter 13 after polish cycle 1 and finalize FZ1-FZ3)
+
+- **Input:** `git diff e6a8e26 HEAD -- manuscript/chapters/chapter-13.md` (commits 1db5f24 and 2e1cf91). chapter-13.md was last written 07:28:44 (md5 9c7aaccc…). It still has 245 paragraphs, with the breaks after p45, p96, p138 and p192. A paragraph diff shows nothing added, cut, split or merged, so **no ch-13:pYY is renumbered**. Text changed inside 26 paragraphs: p12, p17, p22, p24, p27, p30, p47, p78, p98, p112, p115, p119, p120, p129, p136, p143, p144, p149, p159, p170, p194, p202, p208, p210, p214 and p219.
+- **Method:** a word 4-gram diff (old page against new) and a check of every quoted segment on the Ch.13-only lines found each line carrying cut wording. 48 lines were corrected and 24 added. All new quotes were machine-checked against the final page.
+- **Removed as page facts** (cut from the page):
+  - the cake trays' reason clause ("so that nobody should take the god's cakes…");
+  - Praxias's "little—" and the stop-himself beat;
+  - "at a trot" and "without stopping" (Praxias), and "at a run" (the jug boy's exit);
+  - the jug boy's age and tunic ("ten or so", "too long for him");
+  - Praxias seeing "the crust on it and the bruise below it" (the bruise on Valens's face stays, at p104 and p171, but where on the face is no longer stated);
+  - the pills shaken out "under my himation" at Theano's;
+  - the scansion tail "left to hang off the end" / "would not fit inside the line";
+  - the Etna clause "a Syracusan who wanted a western sea would have to cross the whole island";
+  - Valens's manner comparison "the way you'd read anything out".
+- **Corrected to the page:**
+  - "into his hand" and "He glanced at what the road had done to Valens" (p24);
+  - "Next month. And then you pay again, Syracusan," he said, and liked the sound of that. (p27);
+  - "He did not touch the two small white things in my palm." (p30; added to Valens's pills trait);
+  - "in an ordinary voice" (p78);
+  - "admiring the sky" (p120);
+  - "with his wreath still on" (p129);
+  - "Not this year. Not that he's told me." (p136);
+  - "hung off the end of it like a suitcase roped onto the roof of a car that was already full" (p144);
+  - "and the god, in the priest's verse, had said west." (p149);
+  - "a plaster door" (p170);
+  - "The front of his white tunic was dark with spilled water" (p194);
+  - Valens's corner (p202);
+  - "held them up to her where she sat on her husband's stone" (p219);
+  - the Phocian's friend "with an arm round his neck" (p119).
+- **CH13-4 (RESOLVED by the page):** p12 now reads "the almonds on the terraces were all in full flower now", and "without my seeing it" is gone. That agrees with ch-09:p128 (file l.266, "had come into flower in the last week"). The page fixes no interval between the two chapters, so nothing is recorded about how long the bloom lasts. The timeline and Delphi rows that cited CH13-4 are updated.
+- **Ibuprofen:** stays `chekhov_closed`, and a `used_up` field (0 remaining) is added. `resolution.paragraph` is corrected from 223 to **222**: she swallows the pills at p222 (the eval's l.456), and p223 is "That's my own barley,". Theano's pills trait no longer says "'last' is not on the page" (stale since the repair; CH13-2 RESOLVED).
+- **Added:** `cake-stall-keeper`, a minor walk-on new on the final page (p22).
+- **CH13-1 (still UNRESOLVED):** a `recheck_final_page` note names the new target md5 and the polish-cycle strings the bible has not yet taken. The bible sync is running in parallel.
+- **CH13-8:** item (12) records the 26 reworded paragraphs. **CH13-11:** a `final_page` field records that the walk-off still goes uphill, so its resolution stands.
+- **CH13-13 left open**, as instructed (Theano's card, in the parallel bible sync).
+- **Eval ENTITY patches** (evaluations/chapter-13-eval.md, final section) are both applied: ibuprofen used up, and the almonds per CH13-4. No other ENTITY patch is named.
+- **Meta:** there is a Ch.13 row in `meta.revalidation_needed` (RESOLVED). `paragraph_rule`, `last_updated_by`, `mode`, `source` and the header comment are extended. `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+- **No new contradiction and no knowledge_gap.**
