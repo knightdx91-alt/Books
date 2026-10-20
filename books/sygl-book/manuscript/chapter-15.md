@@ -25,13 +25,13 @@ Nobody chatted. Nobody got the chance. Bal passed Viridia once in a corridor bet
 
 He was in his place and halfway through a plate of pot roast when Lora came in.
 
-She stopped inside the doors with her books in both arms. Her gaze went first to her own sygl's table, where her stretch of empty bench was waiting as usual, and then down the whole length of the hall to him.
+She paused in the doorway with her books in both arms. Her gaze went first to her own sygl's table, where her stretch of empty bench was waiting as usual, and then down the whole length of the hall to him.
 
 She came the long way, straight down the middle.
 
 The noise did not stop in one go. It died behind her as she passed each table, so that she walked at the front edge of a quiet that kept growing. The Terra boys stopped. The Tempus table stopped. When she reached the last table, a spoon went down on a plate two tables over, and it was loud. Even the teachers had stopped eating.
 
-Lora set her books on the bench. She sat down beside Viridia, opposite him, tore a corner from a page of her notes, wrote her order and laid it on her plate. The plate went off empty and returned with a bowl of soup and two rolls.
+Lora set her books on the bench. She slid in next to Viridia, facing him, tore a corner from a page of her notes, wrote her order and laid it on her plate. The plate went off empty and returned with a bowl of soup and two rolls.
 
 She buttered the first roll right out to the crust at every edge, while the whole hall watched her do it.
 
@@ -39,11 +39,11 @@ Viridia returned to her spaghetti. Bal ate his pot roast. Somewhere behind him s
 
 The three of them didn't look around. The easy feeling from yesterday evening had come to dinner with them, and they kept it close and ignored the rest.
 
-"So what was it you gave Amelia?" Lora asked, with the roll halfway to her mouth.
+"So what was it you gave Amelia?" Lora asked.
 
 Bal finished his milk and waited.
 
-It filled from the bottom, as it always did, white climbing the inside of the cup as if someone under the table were pouring. He had looked under the table, his first week. There was only the floor and his own shoes. He still didn't know how the cup decided it was full.
+It filled from the bottom, as it always did, white climbing the inside of the cup as if someone under the table were pouring. He had looked under the table, his first night. There was only the floor and his own shoes. He still didn't know how the cup decided it was full.
 
 "I gave her a Dawn card," he said. "A team card, with her name on the back. I think what hit her so hard, though, was that I put her down as Amelia Norheart."
 
@@ -53,7 +53,7 @@ Lora stopped with her mouth open on the roll. Then she bit and chewed and went o
 
 "Look what her family did to her," Viridia said. "They betrayed her. She honestly had nobody. Bal showed her that now she does." She stuck her fork into her spaghetti and wound it, and kept winding long after it was wound. "I would have felt the same way."
 
-She took the bite. When it was gone she said, "I'm happy to be friends with her. With all of you, really." She looked at the fork. "I just hope it stays this easy."
+She took the bite. When it was gone she said, "I'm happy to be friends with her. With all of you, really." "I just hope it stays this easy."
 
 "Stays easy how?" Bal asked.
 
@@ -73,9 +73,7 @@ Viridia winced. It was the question she had been hoping he would skip, and she m
 
 "It depends on whether it comes as a school rule," she said, "or just something all the Lead Mages try to do. If it's a school rule, they could expel us. If it's only the Lead Mages, it's demerits."
 
-At *expel*, Lora stopped eating. The butter knife stayed in her fist, upright on the tablecloth with its point to the ceiling, and Bal doubted she knew it was there.
-
-He looked at the teacher who was watching them. The man looked back.
+At *expel*, Lora's butter knife stayed in her fist, upright on the tablecloth with its point to the ceiling, and Bal doubted she knew it was there.
 
 So the school would make it a rule. Probably.
 
@@ -141,6 +139,6 @@ The blanket moved. Amelia came across the bed until she was against his side.
 
 She laid her head on his chest. Her hair was cool and heavy and smelled faintly of somewhere that was not the castle, wind, maybe, or pine. Bal unlaced his fingers and put one hand on her back.
 
-On the nightstand the card leaned on the lamp's brass foot. In the next room, down in his pack, the job paper was still folded in half where he had tucked it. The weekend was close. Saturday, then. Saturday they would go find Lora's flowers.
+On the nightstand the card leaned on the lamp's brass foot. In the next room, down in his pack, the job paper was still folded in half where he had tucked it. The weekend was a few days off. Saturday, then. Saturday they would go find Lora's flowers.
 
 He meant to figure how long a day's walk was, there and back, with the four of them. He was asleep before they reached the woods.

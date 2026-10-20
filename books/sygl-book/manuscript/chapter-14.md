@@ -63,7 +63,7 @@ Bal sat down beside Amelia.
 
 They gave him the same puzzled look, the pair of them, and said okay.
 
-Amelia drew a breath to speak. Bal raised two fingers off his knee, and she let the breath go and sank against the cushions. He laid his hand over hers instead and kept it there on the couch between them.
+Amelia drew a breath to speak. Bal raised two fingers off his knee, and she let the breath go. He laid his hand over hers instead and kept it there on the couch between them.
 
 "Amelia's family betrayed her," he said. "They thought she did something she didn't do. That's why she was locked away for close to three thousand years. When I bonded her as my familiar, it was a kind of loophole. It let her get out. I've offered to release her from the bond since, and she doesn't want me to."
 
@@ -91,7 +91,7 @@ The histories came out first, the four of them, and went in a stack on the new t
 
 "And you know what friends do?" he asked Lora.
 
-Lora had no idea where this was going, and her face said so.
+Lora had no idea where this was going.
 
 Bal grinned. "They give gifts?"
 
@@ -105,7 +105,7 @@ She opened the cover. She turned pages, quickly, then more slowly, then quickly 
 
 "Thank you," she said.
 
-She stayed like that, watching him above its brass corners, in case he had anything else in there.
+She watched him over its brass corners, in case he had anything else in there.
 
 Bal dug in his right pocket.
 
@@ -129,7 +129,7 @@ She tilted the ring to the fire, so the light ran around it, and went on admirin
 
 That left Amelia.
 
-She was sitting very straight at her own end of the cushions with her fingers laced in her lap, and Bal realized she was nervous. In all the time he had known her, he had not seen her nervous over anything.
+She was sitting very straight at her own end of the cushions, and Bal realized she was nervous. In all the time he had known her, he had not seen her nervous over anything.
 
 "Amelia. I'm sorry I didn't buy you anything."
 
@@ -140,8 +140,6 @@ Something went across her face, quick and sad, and was gone. He nearly missed it
 Now she only looked confused.
 
 From the other pocket he drew out the card. It was warm from his hand. He had worn the corner smooth on the road, without meaning to, and he gave it to her face up, so that what she saw first was the pale wood and *Sygls Best* in white across it.
-
-She looked from the card to him, more confused than before.
 
 "Turn it over," he said quietly.
 
@@ -155,9 +153,9 @@ She did not make much noise. She cried with the card held tight to her chest in 
 
 "You belong here," he whispered into her hair, by her ear. "With us."
 
-Across the hearth both girls were staring. Neither of them could have seen what was written on the card. Viridia's hand with the ring on it had stopped in the air halfway to her lap and stayed there. They knew enough.
+Across the hearth both girls were staring. Neither of them could have seen what was written on the card. Viridia's hand with the ring on it hung in the air halfway to her lap. They knew enough.
 
-Bal held Amelia while she cried, and rubbed her back, until the shaking eased and then stopped.
+Bal rubbed her back while she cried, until the shaking eased and then stopped.
 
 She drew back. Then she kissed him, very softly, on the mouth.
 

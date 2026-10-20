@@ -167,3 +167,64 @@ BIAS CHECK: This evaluation was produced by the same system that wrote the prose
 - **F2** tear: "Amelia had closed her eyes." Tear hangs on her lashes, brushed away with the side of his thumb.
 - **F3** Lora talks from the book she's partway through at school. **F4** L80 fixed. **F5** sister-king gone (floodplain / floods / earthquake); dead in the walls kept. **F6** note folded beside the card. **F7** couch-color line cut. **F8** all five applied ("so busy being right"; "had to go"; stain line recast; "now his own face went pink").
 - New phrasings varied until clean: style_check, grammar_check (ch.1–15) clean; voice_wear_check and tic_report --gate (ch.1–14 scratch copy) clean. Em-dashes 0; "the way" 0.
+
+## Re-evaluation (round 2)
+**Evaluator:** book-evaluator | **Date:** 2026-10-20 | **Text:** revised `manuscript/chapter-14.md` (2,490 words per style_check)
+
+### Gate tools (scratch copy Ch.1–14 at `/tmp/claude-0/-home-user/925d8686-989e-5134-a9ef-2d597d7cac42/scratchpad/re14/`)
+- `voice_wear_check.py`: **clean**. `tic_report.py --gate`: **clean** ("pleased with herself" gone; no auto-recurrence; Ch.14 has no entries in the classified gesture table).
+- `style_check.py`: clean (simile 2.0/1k, adverb 8.8/1k, em-dash 0). `grammar_check.py`: 0 errors.
+
+### Round-1 fixes verified
+F2 (tear restaged on the lashes, Ch.5 echo gone), F3 (book from school), F4 (L80 grammar), F5 (sister-king gone), F6 (note beside the card), F7 (couch-color line cut), F8 (all five): **all applied correctly**. Source fidelity L691–703: complete, in order, with the right speakers. Fade-to-black is clean, the register is American, there are no tics, and no plot is invented. "now his own face went pink" correctly pays off the girls going pink in Ch.13 L18/28.
+
+### Full hand count of gesture classes (word offsets are approximate)
+| Class | Instances (line, ~word) | Max in any 500 words | Status |
+|---|---|---|---|
+| Smile/grin | L96 (1365) | 1 | OK |
+| Laugh | L50 (835) | 1 | OK |
+| Blush/pink | L194 (2480) | 1 | OK |
+| Looking up / looking at / staring | L38 up (665); L120 stared (1575); L144 "looked from the card to him" (1830); L158 staring (1985); L172 looked down (2083) | **3 in 253 words** (L144, L158, L172) | **FAIL** |
+| Face-checking (reading an expression) | L38 "face jumped" (665); L94 "her face said so" (1355); L136 "went across her face" (1745); L140 "Now she only looked confused" (1770); L144 "more confused than before" (1830) | **4 in 475 words** (L94–L144) | **FAIL** |
+| Hand on hand / squeeze | L66 (1000); L76 (1185) | 2 | OK |
+| Sitting/sinking/settling | L60 "sat down" (924); L66 "sank against the cushions" (1000); L70 "had ended up on the edge of the new couch" (1065); L114 "dropped down" (1545); L132 "sitting very straight" (1720); L166 "settled in" (2057); L190 "sitting up" (2440) | **3 in ~150 words** (L60/66/70); L114 to L166 is 512 words, just clear | **FAIL**. Rewording the verb to "ended up on" does not remove the beat: the reader still sees three seat placements in a row |
+| Eyes closing/opening | L74 (1150); L112 instruction (1520); L152 (1915) | 2 | OK |
+| Chest/heart | L104 (1480); L154 (1945); L174 stain "over his heart" (2120) | 2 | OK |
+| Tilt/tip | L126 ring (1690); L152 tipped sideways (1925) | 2 | OK |
+| Embrace/hold (not in the brief's list; checked anyway) | L154 "put his arms around her and held on" (1960); L160 "Bal held Amelia while she cried" (2030); L184 hugged (2290) | 3 in 330 words | WATCH. L154/L160 restate the same hold |
+| Fingers-in-lap (not in the brief's list) | L80 Lora "fingers were knotted in her lap" (1220); L132 Amelia "fingers laced in her lap" (1720) | 2 | ECHO: the same nervous pose on two girls |
+| Word "stayed" | L70, L76, L108 (1076–1507); also L158, L180 | 3 in 430 words | Prose wear |
+
+### Genesis Score
+| Dimension | Score | Evidence | Cap |
+|---|---|---|---|
+| Originality | 8.5 | Card handed face up first; statue at the hearth (L150); "taken him for stabbed" (L174) | none |
+| Theme | 8.5 | Belonging carried by objects, never stated; salt/puddle/poultices as texture | none |
+| Characters | **7.5** (merit 8.5) | Cover-the-name passes; Lora "said it to her knees" (L84); Amelia's first nerves (L132); chaos 3/4, inhabited | **Gesture-class cap**: face-checking 4 in 475 words; looking 3 in 253; sit/sink 3 in 150 |
+| Prose & Voice | 8.5 | Stopping sentence L150 ("not her lashes and not her breath … *Amelia Norheart*"); L100 "before the rest of her had caught on"; ugly sentence L40 "Her knees were bare of it"; gates clean | none |
+| Pacing & Coherence | 8.5 | Logic holes closed (book, note, "had to go"); clear positive value shift; speed varies (road, arrival, still card beat, quick close) | none |
+| Emotion | 8.5 | Anchor: the card turned over, and the statue stillness. Surprise: sob → "stabbed" → "It was worth it". Body rebel: the tear, the shaking | none |
+| Engagement | 8.5 | Self-insertion plus empathy (Amelia's nerves, "I need friends too") | none |
+| **FLOOR** | **7.5** | | Characters |
+| **AVERAGE** | **8.4** | | Single-dimension bottleneck |
+
+**Anti-AI:** 5/20, all minor (#1 L184 collar/ear; #3 L18 roads/eaten/years and L150, which earns its place; #7 L158 "They knew enough."; #10 L132 from source; #11 0 left). Clean for the lane.
+**Readers:** Devourer: reads through, stops at bedtime by design. Critic: underlines L84, L100, L150, L166; notices "confused … more confused" and three seatings in a row. Hostile: no logic holes left; flags "Now she only looked confused" / "more confused than before" as a repetition. Casual: 8.5, would buy.
+**CVI-Launch:** 8.4 (unchanged). **CVI-Legacy:** 6.2.
+
+### Remaining fixes (complete list; none adds plot)
+| # | Location | Now | Direction |
+|---|---|---|---|
+| R1 | L144 | "She looked from the card to him, more confused than before." | **Cut the line.** L140 "Now she only looked confused" already carries the source's "still confused", one line earlier. This clears both the looking window and the face window |
+| R2 | L94 | "Lora had no idea where this was going, and her face said so." | → "Lora had no idea where this was going." (face class goes to 2: L136, L140) |
+| R3 | L66 | "she let the breath go and sank against the cushions." | → "she let the breath go." (Amelia is already seated. Sit class becomes L60, L70 within the window) |
+| R4 | L160 | "Bal held Amelia while she cried, and rubbed her back, until…" | → "Bal rubbed her back while she cried, until the shaking eased and then stopped." (L154 already holds her) |
+| R5 | L132 | "with her fingers laced in her lap" | Cut the clause: "She was sitting very straight at her own end of the cushions, and Bal realized she was nervous." (removes the echo of Lora's L80 pose) |
+| R6 | L108 | "She stayed like that, watching him above its brass corners" | → "She watched him over its brass corners, in case he had anything else in there." (third "stayed" in 430 words) |
+
+**Projected after R1–R6:** face-checking at 2, looking at 2, sit/sink at 2 per 500 words, embrace at 2. Characters → 8.5. **Floor 8.5, Average 8.5, Casual 8.5: PASS.** No third evaluation is needed: verify with a word-window recount and re-run `tic_report.py --gate`.
+
+### VERDICT (round 2)
+**POLISH: Floor 7.5 / Average 8.4.** The gate fails on Characters only, from three gesture classes that the tool does not classify. All round-1 logic, canon and prose faults are resolved.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

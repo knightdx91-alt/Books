@@ -66,7 +66,7 @@ None open (all resolved 2026-10-20; see `STATE.yaml` → `decisions`). New quest
 
 ## Status (update as you go)
 - 2026-10-20: blueprint rebuilt to source order (30 chapters, ≈91,856 words after the outline audit).
-- Ch.1–10 FINAL 2026-10-20 (30,918w): rewritten to the source; all gates clean; Genesis Floor 8.5 each.
-- **Next: Ch.11 "Break Their Toys"** (see project/outline.md). Open on the uniform details; don't restate Ch.10's last line.
+- Ch.1–15 FINAL 2026-10-20 (46,132w): rewritten to the source; all gates clean; Genesis Floor 8.5 each.
+- **Next: Ch.16 "Whitehaven Road"** (see project/outline.md): the bandit fight and the heart ring (paid off in Ch.21).
 - Gate tools voice_wear_check.py / tic_report.py read `manuscript/chapters/`; run them on a scratch copy laid out
   that way (the book uses flat `manuscript/chapter-NN.md`).
