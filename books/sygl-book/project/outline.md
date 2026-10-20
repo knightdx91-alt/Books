@@ -1,4 +1,4 @@
-# Sygl — Chapter Outline (30 chapters, ≈ 91,400 words)
+# Sygl — Chapter Outline (30 chapters, ≈ 91,800 words)
 
 **Revised 2026-10-20 to follow the author's original script** ("make it more like my original
 script. And it's supposed to be Sygl."). This outline replaces the 2026-07-13 24-chapter map.
@@ -413,7 +413,10 @@ school growing hostile ("staying with his own kind"); Zoran praising his rapier;
 **the flaming dagger** in crafting class (runes engraved into his own work; a weak version of the vendor's
 sword, and a real accomplishment); **the arrow-rune shirts finished** (author decision 2026-10-20: Bal buys the materials, charges each
 rune himself over several nights, and the girls wear them on later jobs; one or two lines, no beat where
-they are tested). Then the war: Thad's signals; **Raizen's statement** through his High Priest (Amelia went mad and
+they are tested); **the water-snake job, shown briefly** (author decision 2026-10-20; ~400 words, one of
+the last jobs of the six weeks, so the lake is "last week" by Ch.21): the lake they found, a massive water
+snake, and Viridia ending it with lightning shot from her hand, the only time the others see her storm power
+before the road to Londra. Then the war: Thad's signals; **Raizen's statement** through his High Priest (Amelia went mad and
 attacked them; now his followers are in danger); the army fights harder from fear; villagers beat and kill
 blood sygls who won't leave (reported to Bal, as the source has it); **Commander Fern** (short, stocky,
 long grey beard, grey eyes, authority): "There's not much we can do"; nowhere to put evacuees; "Could we do
@@ -430,7 +433,7 @@ to find out you'd have to win"; Bal at his notes while the girls do rune homewor
 **Opening:** the passage of weeks.
 **Anchor:** the flaming dagger; Fern's map under Bal's drumming fingers.
 **Hook:** "It's going to happen tomorrow."
-**Target:** 2,400.
+**Target:** 2,800 (incl. ~400 for the water-snake job).
 
 ## Chapter 19: The Rule
 **Source:** [pp.109–114] L780–795.
@@ -481,7 +484,7 @@ alive); "Talk about no pressure"; Amelia tries to cheer them and has no plan; "W
 
 ## Chapter 21: Strawberries
 **Source:** [pp.120–127] L813–834 (to the teleport to the temple).
-**Scenes:** the lake (they killed a water snake there last week, reported); Hopper won't swim; the girls
+**Scenes:** the lake (the water snake killed there last week, shown in Ch.18; a passing reference only); Hopper won't swim; the girls
 playing as if Amelia were human; her smile makes his heart hurt; dozing; Lora's face inches from his, the
 kiss on her forehead; Viridia's reaching hand; the strawberry patch; the snapped branch that saves his
 life; the roll through the briars; **Iro** (young, woodsman clothes, sharp blue eyes) and his talk; "I don't
@@ -542,7 +545,7 @@ Bal can do nothing); two more days of fleeing people, some bandaged; Raizen's wa
 the fifth day: Londra's wall and gate; the truncheon guard; Viridia's haughty noble act; the young guard's awe
 at her hair, which crackles when she's nervous; "After passing filthy blood mages on the roads I'll be glad to
 be among my own people"; directions to the Three Boars; "Exactly how rare is Viridia's gift?" (lightning into
-the lake at the water snake, reported by Lora); the Winespring Inn's stable boy: "We were told to expect you."
+the lake at the water snake; Lora recalls the Ch.18 scene the reader saw); the Winespring Inn's stable boy: "We were told to expect you."
 **Structure:** road episodic.
 **Opening:** Lora's etiquette lesson in the saddle.
 **Anchor:** the father spitting in the road.
@@ -704,8 +707,8 @@ bedroom (fade); **"the first day of the rest of their life together."** Unambigu
 ## TOTALS & CHECKS
 
 **Word total:** 3,800 + 4,200 + 3,200 + 3,000 + 3,500 + 2,800 + 3,200 + 2,400 + 3,000 + 2,400 + 3,800 + 1,500 +
-5,000 + 2,600 + 1,800 + 4,400 + 2,700 + 2,400 + 2,600 + 2,600 + 3,400 + 3,200 + 2,200 + 4,400 + 3,200 + 1,700 +
-4,200 + 2,900 + 4,000 + 1,300 = **91,400** (≥ 90,000; shortest 1,300 ≥ the 1,200 sanity floor).
+5,000 + 2,600 + 1,800 + 4,400 + 2,700 + 2,800 + 2,600 + 2,600 + 3,400 + 3,200 + 2,200 + 4,400 + 3,200 + 1,700 +
+4,200 + 2,900 + 4,000 + 1,300 = **91,800** (≥ 90,000; shortest 1,300 ≥ the 1,200 sanity floor).
 
 **Source coverage:** L1–1013 is covered end to end in order, with no span skipped or reordered.
 
