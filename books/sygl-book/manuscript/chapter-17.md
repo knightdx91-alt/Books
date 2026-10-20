@@ -1,7 +1,7 @@
 # Chapter Seventeen: Saegen Woods
 
 <!-- SCENE BUDGET (Target 2,700): the pass, the receipt, the river choice 330 | the descent, aurora felis lore, the potions 330 | the fish, Amelia on beasts 250 | six flowers, three kept, "lonely", "an alchemist is important" 380 | the quiet, the bear, Amelia 330 | over the river, the vials, the dress 370 | the pass, the stones, the juggling talk 520 | the walk back, the Dawn Hall, Soren 260 | stew, curfew, hugs, the slow walk 180 -->
-<!-- Word count: ~2,630 | Target: 2,700 (range 2,400-3,100) | Anchor: the stones dropping to the gravel before "I do not feel more strongly for one over the other" | Hook: the slow walk back, with six weeks about to pass -->
+<!-- Word count: ~2,480 | Revision: 1 (F1–F17) | Target: 2,700 (range 2,400-3,100) | Anchor: the stones dropping to the gravel before "I do not feel more strongly for one over the other" | Hook: the slow walk back, with six weeks about to pass -->
 
 The pass was full of gravel.
 
@@ -35,9 +35,9 @@ Lora had read the entry more than once. She didn't stop to think.
 
 "Pretty much. The flowers are rare, and what goes in with them isn't cheap either." Lora hesitated. "She offered to help me make two of the potions. As part of the payment."
 
-None of them needed the money for anything in particular, except the guild dues. They had agreed to it back in New Spring without much of a discussion, and Lora had gone pink and stayed pink for most of a street.
+None of them needed the money for anything in particular, except the guild dues. They had agreed to it back in New Spring without much of a discussion.
 
-She was already halfway into that shop in her head. It was all over her face. She had spent her own money last week on plants and supplies to stock the herb room off the dorm, and she had been out there every evening since, moving jars around. Now she was going to watch a real master work from start to finish.
+She was already halfway into that shop in her head. She had already bought plants and supplies to stock the herb room Bal had put in for her, and now she was going to watch a real master work from start to finish.
 
 ---
 
@@ -45,9 +45,7 @@ The river was quick and clear and not very deep. Brightly colored fish held agai
 
 They stopped first to fill the water skins. It made Bal's teeth ache and tasted faintly of stone. Viridia drank straight from her cupped hands, and Hopper waded in up to her ankles and drank more than all of them together. Then they turned upstream and followed the river in under the branches.
 
-Viridia kept squinting at the fish as they walked.
-
-"I'm surprised they're normal size," she said. "I figured, with the ley line, they'd be bigger."
+"I'm surprised they're normal size," Viridia said as they walked. "I figured, with the ley line, they'd be bigger."
 
 "It's over that way." Amelia pointed off to the west. "So the fish wouldn't have been touched by it. With beasts, and even with vampires, you can take some of another creature's magykal energy by consuming it. If a creature kept killing and eating its prey, it could get quite large indeed."
 
@@ -103,7 +101,7 @@ Amelia came straight to him. She got an arm around him and lifted, and carried h
 
 ---
 
-On the far bank the girls looked him over. Viridia tipped his chin up and inspected the knot coming up under his hair. Lora felt down his arms and asked how many fingers she was holding up, and accepted three, though he suspected it had been two. The bandages from yesterday had held. His back had something to say about the tree, but it had been complaining since the road, and none of it was anything he couldn't carry.
+On their own bank the girls went over him. Viridia tipped his chin up and found the knot coming up under his hair. Lora felt down his arms and asked how many fingers she was holding up, and accepted three, though he suspected it had been two. The bandages from yesterday had held. His back had something to say about the tree, but it had been complaining since the road, and none of it was anything he couldn't carry.
 
 Next they checked the vials.
 
@@ -117,7 +115,7 @@ Amelia was still angry at the bear. She kept sending glares over the water at th
 
 She turned. "Yes?"
 
-Her voice had lost its playfulness. She was still in the fight, he figured.
+Her voice had lost its playfulness. Her head was in the fight, he figured.
 
 "Um. I know the bear couldn't hurt you," he said. "But it did manage to hurt your clothes."
 
@@ -125,9 +123,9 @@ Amelia's face went blank. She did not understand.
 
 He waved a hand at his own chest.
 
-She checked her front, and spun her back on all of them in one motion. The bear had torn her dress open high on the bodice. Both girls had seen already. Bal had caught it on their faces while they were fussing over him. They had kept quiet about it, which Bal found interesting.
+She checked her front, and spun her back on all of them in one motion. The bear had torn her dress open high on the bodice. Both girls had seen it already, while they were fussing over him, and had kept quiet about it, which Bal found interesting.
 
-Amelia fixed her dress. Her hands worked fast at it, and when she had it held together she walked straight past him, heading out of the woods. Her cheeks were flaming red. On her white face it was very bright indeed.
+Amelia fixed her dress. Her hands worked fast at it, and when she had it held together she walked straight past him, heading out of the woods. Her cheeks were flaming red.
 
 Bal grinned. He couldn't help it.
 
@@ -137,11 +135,11 @@ They followed her out. She walked by herself, well ahead, and none of them tried
 
 At the pass, Bal left Lora and Viridia and lengthened his stride until he was walking beside Amelia.
 
-"Thanks for taking care of the bear," he said, as the walls rose around them. "I hate to think what would have happened if the girls had had to fight it."
+"Thanks for taking care of the bear," he said, as the walls rose around them. "I hate to think what would have happened if Viridia and Lora had had to fight it."
 
 "I honestly never heard it," Amelia told him. "I was listening to Lora when you got hit. He must have been very old to grow that big."
 
-Bal bent and scooped up some stones. They were good ones, flat and smooth, egg-sized.
+Bal bent and scooped up some stones. They were good ones, round and smooth, egg-sized.
 
 "At least it couldn't hurt you," he said lightly. "You looked pretty angry."
 
@@ -149,9 +147,9 @@ He tossed the first stone up, and the second after it, and then the third, and c
 
 "I think you'd have killed it again if you could," he said.
 
-"You have no idea." Amelia was watching the stones. "Seeing you hit that tree, I snapped. It had tried to run." She smiled, grimly. "But it didn't get far."
+"You have no idea. Seeing you hit that tree, I snapped. It had tried to run." She smiled, grimly. "But it didn't get far."
 
-They walked. The gravel crunched. The stones climbed and dropped into his palms, slap, slap, slap, and climbed again.
+They walked. The stones climbed and dropped into his palms, slap, slap, slap, and climbed again.
 
 Amelia watched him juggle for a stretch of the pass.
 
@@ -169,19 +167,19 @@ He walked on a little. Amelia waited.
 
 "I would also hope," he said, "that each one knows how much they matter to me. And that I do not feel more strongly for one over the other."
 
-Gravel crunched behind them, close. Bal checked behind him.
+Gravel crunched behind them, close.
 
-Lora and Viridia were nearer than he had thought, only a couple of paces off. He had believed they were much farther back. While he watched, Viridia said something to Lora, too low to hear, and the two of them slowed and let the distance open up again.
+When he turned, Lora and Viridia were nearer than he had thought, only a couple of paces off. Viridia said something to Lora, too low to hear, and the two of them slowed and let the distance open up again.
 
 Amelia said nothing. She walked with her arms folded, thinking about what he had told her, and he let her think.
 
-Bal ran through it again in his own head. He had put it about as plain as it would go, and there was no plainer way he knew of, so that would have to do. The stones were back in the pass somewhere among all the others. That was fine. There were always more stones. They left the pass and went on along the road, and a few miles went by in quiet. Behind them Lora and Viridia were talking in low voices, with Hopper trotting happily at their side.
+Bal ran through it again in his own head. They left the pass and went on along the road, and a few miles went by in quiet. Behind them Lora and Viridia were talking in low voices, with Hopper trotting happily at their side.
 
 ---
 
 They had decided to walk straight back instead of camping a second night. It was an uneventful walk. They came through Whitehaven in the late afternoon, and at its town limit Viridia touched Hopper's collar, and Hopper shrank back down to fit the streets.
 
-It was full dark when they reached New Spring. They went straight to the guild hall off the square to turn in the flowers.
+It was full dark when they reached New Spring. They went straight up the square to the guild hall to turn in the flowers.
 
 The windows were lit. A Dawn member could always come in at night, so the Hall was staffed around the clock, and anyone could get help at any hour. Soren was on duty, which was a relief. She had helped them on their first visit.
 
@@ -199,6 +197,4 @@ It was well after curfew when they reached the castle, and every hall was quiet.
 
 Curfew had no hold on a Lead Mage.
 
-Bal walked Amelia home to the Blood dorm, and he walked slowly. The castle was dark around them. She had stopped holding the torn place in her dress at last and was holding his hand instead. They did not talk.
-
-One job down, he thought. By next week they would need another.
+Bal walked Amelia home to the Blood dorm, and he walked slowly. The castle was dark around them. They did not talk.
