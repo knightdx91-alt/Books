@@ -78,7 +78,7 @@ forehead; foreheads resting together; the door locked only one way; the golden d
 courtyard, "It's been a long time"; hand in hand around the orphanage; his mother died giving birth;
 she knows the modern world through bats and ravens; the school plane has no technology; the
 softball game in the front yard.
-**Opening:** ritual, bridging from the cup.
+**Opening:** ritual, bridging from "Are you thirsty?" (she cuts her wrist; no cup in the source).
 **Anchor:** flexing the new hand; the binding words.
 **Hook / handoff:** source ends "They watched the game for a few minutes before Bal pulled Amelia
 inside." (L162). **Chapter 4 picks up exactly there.**
@@ -733,7 +733,7 @@ capture; the cave bond dramatized as flashback); Bal's enjoyment of killing Iro 
 conversions; Amelia-as-manipulator framing; the "faintly haunted" ending; invented backstories and quirks;
 every tic and catchphrase allowance (except Amelia's "Master," an author-ruled title).
 
-**Motifs (objects and situations only, never repeated lines):** blood given freely (the cup, the feeding, the
+**Motifs (objects and situations only, never repeated lines):** blood given freely (her wrist in the temple, the feeding, the
 offerings, the conversions, the chalice, the core); the wooden Dawn cards and the name Norheart; hands (the stump,
 the regrown hand, the palm sygls); runes (Winters' class, the flaming dagger, the arrow-rune shirts, the
 purification rune). A motif object may recur; its handling must not become a reflex.

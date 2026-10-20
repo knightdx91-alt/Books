@@ -206,7 +206,7 @@ spitting (23); the letter signed "A" (24); the rune under the cup (25); Lora's h
 thunderclap from a clear sky (27); the chalice (28); the elemental turning to blood (29); the closing line (30).
 
 ## 5. MOTIFS (objects and situations, never repeated lines)
-- **Blood given freely:** the cup in the temple, the feeding at the cottage, the offering bowls and Peter, the
+- **Blood given freely:** her wrist in the temple, the feeding at the cottage, the offering bowls and Peter, the
   conversions, the chalice, the last blood forced into Akora's core.
 - **The wooden Dawn cards / the name Norheart.**
 - **Hands:** the itching stump, the regrown hand, the palm sygls, the conversions palm to palm.
