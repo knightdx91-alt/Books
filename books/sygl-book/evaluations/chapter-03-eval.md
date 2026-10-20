@@ -165,3 +165,19 @@ All fixes are cuts, substitutions or source-verbatim restorations. **No new plot
 **POLISH.** Genesis Floor 7.5 (Prose, Characters and Pacing tied), Average 7.8, Casual 8.0. Above the genre hard floor, below the 8.5 gate. The chapter is source-faithful, with no plot or canon contradiction, and the author's tone is achieved. The shortfall is surface: simile extensions, the laughter class, one invented anecdote and a sagging walk. All of it is fixable by cutting and substituting as listed.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+## Revision applied (2026-10-20, book-editor)
+Chapter now 2,625w (was 2,818w). Applied fixes 1 to 11. Fix 12 (outline/foundation cup) and Fix 13 (tool layout) were left to the architect/root, because chapter-only edits were authorized.
+- **1:** the matron/fingers anecdote is replaced with "But Bal had always had a high tolerance for pain, and this was something he could sit through."
+- **2:** "As she finished speaking…" now comes directly after her vow. The flare/thread paragraph follows it.
+- **3:** cut the letter, mulled-wine (the Ch.2 echo), quarter-inch, fern/film, "lit in it", "voice in the next room" and kettle/happiness extensions. Restored the source's "soft red eyes".
+- **4:** laugh class cut from 7 to 4 (shaky laugh, "Amelia laughed.", "didn't laugh", giggled). Uses "which seemed to satisfy her", "Bal was relieved." and "Amelia clapped."
+- **5:** American register: TV, "an old bucket and a couple of jackets", "a lot more like", "a little over the top", "None of that."
+- **6:** removed the scar-tissue split.
+- **7:** cut the rose.
+- **8:** "Sunlight lay…"
+- **9:** "roof of Saint Andre's"
+- **10:** cut both summary closings. Also cut the "Not that it would matter much" transition and the future-knowledge clause.
+- **11:** one end-load line goes before the verbatim final line ("Any minute now, somebody was going to look over and notice he had two hands…").
+- **Extra:** cleared the kneel cluster (3 in 500w) and 6 cross-chapter echoes ("fires burned low", "beneath the eaves", "her apparent age", etc.).
+- **Gates:** style_check clean (simile 3.0/1k, em-dash 0); grammar_check clean; voice_wear_check clean; tic_report --gate clean (run on a scratch chapters/ layout). The `--echoes 3` check still lists 5 generic echoes ("he looked down" is source-restored).
