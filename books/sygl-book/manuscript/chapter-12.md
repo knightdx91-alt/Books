@@ -43,7 +43,7 @@ Bal got his oatmeal down before he answered.
 
 "Asking about me? Why?"
 
-Viridia gave him the kind of look usually saved for somebody who had walked into a door.
+Viridia looked at him like he'd lost his mind.
 
 "Bal, not only are you a High Priest, you've got your originator for a familiar. You can talk to her every day, any time you want. Nobody else has anything close to that. The most the rest of us get is once a year, when school starts." She pointed her knife at him. "They want to know what it's like."
 
@@ -51,9 +51,9 @@ Viridia gave him the kind of look usually saved for somebody who had walked into
 
 Viridia laughed at him.
 
-"Because Amelia's made it pretty obvious she favors you, and nobody wants to make her mad. And if they got too interested in you, other people might start treating them how my fellow Tempus students treat me." She returned to her steak. "You'll just have to give them time."
+"Because Amelia's made it pretty obvious she favors you, and nobody wants to piss her off. And if they got too interested in you, other people might start treating them how my fellow Tempus students treat me." She returned to her steak. "You'll just have to give them time."
 
-Everybody needed time today. It was hard to argue with her when she was right.
+It was hard to argue with her when she was right.
 
 Over at the Terra table a big boy had balanced a bread roll on top of his water cup and was trying to balance a second roll on top of the first. Two of his friends were holding their breath for him. The second roll went into a girl's soup, and the friends cheered anyway.
 
@@ -65,7 +65,7 @@ It went down wrong. She jerked the cup down so fast that half of it slopped over
 
 "She did *what*?" she managed, once the coughing let go of her. Her voice came out thin and wet.
 
-Her face held no anger at all, only nerves, and nerves were an answer all by themselves. Amelia hadn't been teasing him on that bed. She had been telling the truth.
+Her face showed nerves and nothing else. Amelia hadn't been teasing him on that bed. She had been telling the truth.
 
 Bal's face would not stay straight.
 
@@ -111,7 +111,7 @@ She kept her hand where it was, inside his, on the table between the oatmeal and
 
 ---
 
-The hall cleared a table at a time. Outside the high windows the orange drained from the sky, and the lamps along the walls came up on their own to make up for it. Benches scraped. Plates vanished in front of people as they stood. The Terra boys left in a crowd, one of them with a bread roll in each pocket. At some point Lora's bench emptied too, and Bal never saw Lora go. Viridia talked about nothing much, her spear partner's shins, the steak, and he answered her, and afterward not one word of it stayed with him.
+The hall cleared a table at a time. Outside the high windows the orange drained from the sky, and the lamps along the walls were lit. Benches scraped. Plates vanished in front of people as they stood. The Terra boys left in a crowd, one of them with a bread roll in each pocket. At some point Lora's bench emptied too, and Bal never saw Lora go. Viridia talked about nothing much, her spear partner's shins, the steak, and he answered her, and afterward not one word of it stayed with him.
 
 He walked back to the dorm with his right hand still warm. He could have taken the stairs three at a time. Maybe he did. He didn't remember them. He remembered lying down in the dark, and not much after that.
 
