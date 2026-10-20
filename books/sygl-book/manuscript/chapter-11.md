@@ -3,7 +3,7 @@
 <!-- SCENE BUDGET (Target 3,800): the uniform and "steal him" 600 | the hill, the armies, the ranking, "break their toys" 900 | Peter, the offerings, the hug 650 | High Priest's job, "only sixteen", the week 450 | the canyon temple and the ring 450 | Thad and Xavier, the stone 500 | the diary, "a little time", the way back 450 -->
 <!-- Word count: ~3,620 | Target: 3,800 (range 3,400-4,200) | Anchor: Peter's twelve years; "We play their game and break their toys." -->
 
-It was the same as Viridia's except for one thing. Where Viridia had Raizen's mark, the blood sygl sat on the front of Amelia's tight black sweater, red on black, the same mark Bal had on his own chest, and below the sweater was a short black skirt. Where every other girl in the school wore plain white socks, Amelia's were long and striped black and red, and they came up past her calves.
+It was the same as Viridia's, with differences. Where Viridia had Raizen's mark, the blood sygl sat on the back of Amelia's tight black sweater, red on black, the same mark Bal wore on his, and below the sweater was a short black skirt. Where every other girl in the school wore plain white socks, Amelia's were long and striped black and red, and they came up past her calves.
 
 She looked good in it. Bal could admit that much. He also could not seem to stop looking, and Amelia knew it. She hopped down off the stage, landed lightly, and her smile got wider with every step she took toward them.
 
@@ -67,7 +67,7 @@ Down in the valley a horn blew, flat and long, and every block stopped where it 
 
 Bal took them all in. Men with spears. Men with swords. Somebody's sons, somebody's fathers, standing in rows on a hillside so that an originator who never thought about them could feel he'd answered an insult. Only this morning he had met this in the library, in neat print. Battle after battle, and nobody in the books had ever asked the people in the rows.
 
-He would not stand aside and let that happen to anyone. He knew that already, the same as he knew his own name.
+He would not step aside while innocent people were killed for the originators' amusement. He knew that already, the same as he knew his own name.
 
 "So where does that leave us?" he asked.
 
@@ -147,7 +147,7 @@ Bal squinted at the sun. It had come a fair way down the sky while they talked.
 
 Bal shrugged. He didn't bother denying it.
 
-"Well, let's go, then," she said, and hooked her arm through his, and the hill went out.
+"Well, let's go, then," she said, and hooked her arm through his. Grass and wind and the whole army were gone between one breath and the next.
 
 ---
 
@@ -175,9 +175,9 @@ Amelia held up an empty hand. Then it was not empty anymore. There was a book in
 
 She clicked her fingers at him without looking up from the page. Something cold slid onto his middle finger. It was a slim white ring, and set into it was a single blood red ruby, round and dark, like an eye.
 
-"That ring is your proof that you're a High Priest," Amelia went on. "It also enables you to do various other things." She turned a page, smiling at it, and that was the only explanation he was going to get.
+"That ring is your proof that you're a High Priest," Amelia went on. "It also enables you to do various other things." She was grinning behind the book.
 
-Bal knew when a subject had closed. He left his kit lying on the coverlet, waved to her, and went next door.
+Bal caught her meaning. He left his kit lying on the coverlet, waved to her, and went next door.
 
 ---
 
