@@ -72,7 +72,7 @@ She let him. They sat like that for a few minutes, his forehead on hers, her coo
 
 "Through the front door, of course," she said, and giggled.
 
-She stood up and brushed off her knees where she had knelt on the stone. Bal lingered a moment longer, looking past her at the tall golden doors across the hall. From the inside they were even grander than from outside, gleaming softly in the firelight, their surfaces worked all over with the same carved foliage and wings as the band under the temple roof.
+She stood up and brushed off her knees where she had knelt on the stone. Bal lingered a moment longer, looking past her at the tall golden doors across the hall. From the inside they were even grander than from outside, gleaming softly in the sunlight, their surfaces worked all over with the same carved foliage and wings as the band under the temple roof.
 
 "But it's locked," Bal said, frowning at them. "Everyone's tried to open it. Everyone. Some of the big boys even tried a crowbar."
 
@@ -102,7 +102,7 @@ He took her hand instead, and smiled at her.
 
 Hand in hand, they crossed the threshold together and went down the worn steps into the sun, and headed around the side of the orphanage.
 
-The grass between the flagstones was warm and springy underfoot, and the air smelled of clover and hot brick and, faintly, of whatever the kitchen was burning for supper. Amelia stopped on the bottom step and breathed it in, a long slow breath, then another. Bal waited. Through the new thread in his chest he could feel something coming off her, bright and fizzing.
+The grass between the flagstones was warm and springy underfoot, and the air smelled of clover and hot brick and, faintly, of whatever the kitchen was burning for supper. Amelia had stopped on the bottom step and breathed it in, a long slow breath, then another. Bal waited. Through the new thread in his chest he could feel something coming off her, bright and fizzing.
 
 "It smells of people," she said. "I'd forgotten how much I liked that."
 

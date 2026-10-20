@@ -243,3 +243,57 @@ style_check clean (simile 3.0/1k, em-dash 0). voice_wear_check clean. **tic_repo
 **Prose 8.0 → 8.5:** apply R1–R5. That removes the only broken sentence, restores the author's lines, brings #3 to about 4 (1.5/1K, moderate) and #7 to 0. The stopping sentence and the glow beat then stand without noise. No other dimension needs work. After R1–R5 the expected result is Floor 8.5, Average 8.5, and a PASS.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+## Re-evaluation (round 3)
+**Evaluator:** book-evaluator | **Date:** 2026-10-20 | **Text:** `manuscript/chapter-03.md` (2,600w per wc on scratch copy; tic_report counts 2,594)
+**Terms:** the same as before. A faithful, lighter, warm, playful revise/expand of the author's script. American register, author's dialogue near-verbatim, no invented plot, characters, quirks or backstory, no tics, "Master" allowed.
+
+### HEADLINE
+**CVI-Launch:** 8.7 | **CVI-Legacy:** 6.1 | **Genesis Floor:** 8.5 | **Genesis Average:** 8.5 | **Casual:** 8.5
+**Engagement:** Self-Insertion (primary), Empathy, Fascination. **Divergence:** none.
+**Verdict:** **PASS.** Floor 8.5 and Casual 8.5. Prose rises from 8.0 to 8.5 (+0.5, inside the cycle limit). The rise rests on 5 cited fixes (R1–R5).
+
+### Round-2 fixes verified
+| Fix | Status |
+|---|---|
+| R1 "None of that." | DONE. The plane paragraph now runs "…them or their families. Amelia would probably feel more at home there…" with no broken sentence. |
+| R2 Author's dialogue | DONE. "Yeah," Amelia said, amused. "…so I do know things." and "The only reason I'm going to be able to go out now is because now I'm your familiar." are source-verbatim. "Bal was relieved." is verbatim. |
+| R3 Doorway | DONE. "She stopped in the doorway." / "Before them was the courtyard in front of the temple". |
+| R4 Triads | DONE. "through his chest and down both arms"; "A warm afternoon, and a bumblebee…"; "the crack of a bat and a dozen voices all shouting at once". |
+| R5 #7 closing | DONE. The line now ends at "He knew without looking where she was." |
+| R6 (Ch.2 "the open roof") | Resolved. tic_report no longer flags it. |
+
+### Genesis Score
+| Dimension | Score | Evidence | Note |
+|---|---|---|---|
+| Originality | 8.5 | Goddess-as-familiar; the one-way door; a goddess briefed by ravens ("the cook here burns the porridge every Tuesday") | Held. |
+| Theme | 8.5 | "It smells of people. I'd forgotten how much I liked that." / "Show me everything." | Held. Plenty of texture. |
+| Characters | 8.5 | "Then I'd forgotten how much I liked cabbage."; "Where you go, I go. That's what it means, Master." (once, allowed); "And then you run some more." | Chaos 3/4. Laugh class: 3 laughs plus "didn't laugh" (under cap). The gesture gate is clean (nod 2, kneel 2, bend 2 in Ch.3). No tics. |
+| Prose & Voice | **8.5** | Stopping sentence: "He had watched other children hold their palms out at breakfast for years. He understood now why they couldn't stop." Glow-brighter-when-shaded. Voice under pain: "It hurt. There was no point pretending otherwise". Source-native roughness: "should be way stronger". | No broken sentences. The register is American throughout. #11 is at 2, at the cap. #3 is down to about 4 (heel/knuckles/fingers; "Bone and muscle and skin"; cars/phones/TV; Amelia's in-character "I know…" run). |
+| Pacing | 8.5 | The walk reaches the yard quickly, and "Any minute now, somebody was going to look over and notice he had two hands" loads the verbatim last line. | Held. |
+| Emotion | 8.5 | Anchor: flexing the hand / "Caro maestro… for a thousand years and more". Surprise: cabbage. Body rebel: "a shaky, unbelieving sound", "face go hot". | Held. |
+| Engagement (Self-Insertion) | 8.5 | The hand, the sygl, the kneeling goddess, "Master", hand in hand into the sun. | Held. |
+| **FLOOR / AVERAGE** | **8.5 / 8.5** | | |
+
+**CVI-Launch:** Pacing 8 · Tomorrow 3 anchors → 9 · Casual 8.5 · Shareability quote/plot/emotional 2/3/2 → 5.5 · Pitch yes · Closeness yes → 8.2 + 0.5 (anchor) = **8.7**. **CVI-Legacy:** 2.55 + 2.13 + 0.4 + 0.6 + 0.4 = **6.1**.
+
+### Source fidelity (L112–162)
+Every beat is present, in source order. The binding words, "Time for that later…", "Through the front door, of course", the door speech, "It's been a long time", "Come on… let's go outside", "I live here…", "Yeah… so I do know things", "Bal was relieved", the plane rule, the softball game and the final line are verbatim or near it. Canon holds: the sygl is on the palm; high pain tolerance with no anecdote; the other orphans have no magic. Nothing is invented. Softball is source content used once, not a motif.
+
+### Anti-AI scan: 10/20, low Watch band (was 11). Almost all minor.
+#1 ×1 (door symmetry, source logic); #3 ×4 (1.5/1K, moderate); #6 ×1; #8 ×2; #10 ×1 ("It was very distracting", which glosses the source's "distracting Bal"); #11 ×2 (at cap); #12 ×1; #13, #14 and #17 minor. #7 is clear. Clear: 2, 4, 5, 7, 9, 15, 16, 18, 19, 20.
+
+### Mechanical gates (scratch `chapters/` layout, Ch.1–4)
+voice_wear_check: clean. tic_report --gate: **clean** (no auto-recurrence; every gesture class under cap). style_check: clean (em-dash 0). grammar_check: 0 errors.
+
+### Readers
+**Devourer:** no stop point. **Critic:** underlines the palms-at-breakfast line. The cadence is now unobtrusive. **Hostile:** two small nits only (below). **Casual (8.5):** warm and funny, likes both leads, would buy.
+
+### Optional polish (non-blocking; the gate is already passed)
+| # | Location | Now | Fix |
+|---|---|---|---|
+| P1 | Logic, steps | "…went down the worn steps into the sun, and headed around the side of the orphanage." followed by "Amelia stopped on the bottom step and breathed it in" | "Amelia had stopped on the bottom step and breathed it in". This keeps the source line and fixes the backtrack. |
+| P2 | Doors | "gleaming softly in the firelight" comes after "The braziers had sunk to embers. Sunlight lay on the paving" | "gleaming softly in the sunlight". "firelight" ×3 → ×2. |
+| P3 | Lexical | "warm/warmth" ×7, "stopped" ×5 (most in the walk) | Optionally vary one or two (e.g., "a line of warmth" → "a line"). Not a tic class. |
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
