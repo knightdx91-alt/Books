@@ -31,23 +31,23 @@ word_floor:
 
 phase:
   current: 2
-  status: "Architect REVISED 2026-10-20 to follow the author's original script: project/foundation.md, project/outline.md (30 chapters, source order, ≈91,400w) and project/STYLE_CONSTRAINTS.md rewritten. Chapters 1–3 (manuscript/chapter-01..03.md) were rewritten toward the source on 2026-10-20 (9,118w); mechanical gates clean; book-evaluator re-score pending (prior 8.5 passes no longer count). Next new chapter: Ch.4 'Mrs. Brown', which picks up the source right after 'They watched the game for a few minutes before Bal pulled Amelia inside.' (Sygl_Complete.txt L162/L164). See feedback/progress.md."
+  status: "Plan follows the author's original script (30 chapters, source order, ~91,800w). Ch.1–4 FINAL 2026-10-20 (11,809w; Genesis Floor 8.5 each; all gates clean). Next: Ch.5 'Verin's Cottage' (source L259–284), opening with Pierre waking Bal. See feedback/progress.md."
   history:
     - "2026-07-13: architect pass (24-chapter outline); Ch.1–3 drafted and gated."
     - "2026-10-20: author ruled the plan must follow the original script; plan rebuilt to 30 chapters in source order; Ch.1–3 sent back for rewrite."
 
 chapters:
   total_planned: 30
-  completed: []                  # Ch.1–3 drafted but under rewrite; none final under the new plan
-  in_rewrite: [1, 2, 3]
-  scores: {}
+  completed: [1, 2, 3, 4]
+  in_rewrite: []
+  scores: {1: 8.5, 2: 8.5, 3: 8.5, 4: 8.5}   # Genesis Floor, 2026-10-20
 
 genesis_score:
   current_floor: 0.0
   current_average: 0.0
 
 quality_gate:
-  chapters_passed: []            # earlier passes for Ch.1–3 voided by the 2026-10-20 re-plan
+  chapters_passed: [1, 2, 3, 4]            # earlier passes for Ch.1–3 voided by the 2026-10-20 re-plan
   chapters_escalated: []
 
 guardrails:
@@ -74,6 +74,7 @@ decisions:
   - "2026-10-20 (author): juggling talk stays in Bal-only POV. In the scene (Ch.17) Bal sees only the girls closer behind than he thought, then dropping back and talking quietly. When they choose to convert (Ch.19), one of them says \"We heard what you told Amelia in the pass\" (one line)."
   - "2026-10-20 (author): the p.180–181 line is a copy-paste slip; the intended line is \"If he could convert a High Priest then no one was safe if Bal chose to convert them.\" \"Kona Niente\" belongs only to the duel opening (Ch.29)."
   - "2026-10-20 (author): disregard the manga. sygl-manga/ is set aside and out of scope; it does not constrain the prose and is not kept in sync with it. Focus is the prose novel only."
+  - "2026-10-20 (author): Author's dialogue is the BASE, not sacred text (author, 2026-10-20: \"my dialogue might not be exactly right\"). Keep what each line says, who says it, and where it falls, plus the memorable lines (e.g. \"They have made me a myth?!\", \"Because it's magic\", the binding vows, \"No one threatens my girls\"). Freely fix grammar, stiff or awkward phrasing, and anything that doesn't sound natural spoken aloud. Do not change meaning, add information, or give a line to someone else."
   - "2026-10-20 (author): spelling is Sygl / sygl / sygls / sygl-less everywhere; never sigil or sygil."
   - "2026-10-20 (author): tone and meaning back to source. Bal's violence is justified (Iro hangs from the blood whip; no enjoyment, no self-fear, no guilt over the conversions); Amelia is not a manipulator (no 'trap of affection', no 'ownership disguised as approval', no 'safer feared than loved'); the ending is unambiguously happy ('the first day of the rest of their life together'); the premise is converting willing loved ones (and Toma by accident), not stealing other gods' followers."
   - "2026-10-20 (author): restored beats: Mr. Winters' runes class and the avoidance rune; the six-week time-skip and the flaming dagger; the arrow-rune shirts; the juggling talk ('I do not feel more strongly for one over the other'); 'I like you too'; Viridia's breakdown and Bal & Lora's 'we'll figure it out, together'; Amelia's 'I feel useless' walk; Raizen cheating by teleporting assassins (why Amelia wins her concession); Toma's army approaching; the blood elemental sent to Amelia's domain."

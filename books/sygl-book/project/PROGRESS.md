@@ -20,20 +20,15 @@ Everything strictly on `main`. No PRs.
 ## Status
 | Ch | Title | Target | State |
 |----|-------|--------|-------|
-| 1 | The Roof and the Flicker | 3,800 | rewritten to source 2026-10-20; gates clean; eval re-score pending |
-| 2 | The Queen in the Temple | 4,200 | rewritten to source 2026-10-20; gates clean; eval re-score pending |
-| 3 | A New Hand | 3,200 | rewritten to source 2026-10-20; gates clean; eval re-score pending |
-| 4–30 | see outline.md | — | TODO |
+| 1 | The Roof and the Flicker | 3,800 | FINAL 2026-10-20: 3,196w, Floor 8.5 |
+| 2 | The Queen in the Temple | 4,200 | FINAL 2026-10-20: 2,744w, Floor 8.5 |
+| 3 | A New Hand | 3,200 | FINAL 2026-10-20: 2,601w, Floor 8.5 |
+| 4 | Mrs. Brown | 3,000 | FINAL 2026-10-20: 3,268w, Floor 8.5 |
+| 5–30 | see outline.md | — | TODO |
 
-## RESUME HERE: Chapter 4 "Mrs. Brown" (target 3,000; source [pp.~11–16], L164–257)
-- Picks up right after "They watched the game for a few minutes before Bal pulled Amelia inside." (L162).
-- Two movements: office → Bal's room. The husband's late affinity was **Blood**; the factory fired him so it
-  wouldn't be "seen as a blood mage supporter"; he was shot coming home from work. Grief through restraint,
-  no invented habits for Mrs. Brown.
-- Include the full back half of the source span: packing (Fredrick was a friend), "overachiever", Amelia's
-  warning, why she was locked away (conversion secret, Raizen's follower tortured her high priest), inherited
-  gifts, normal food.
-- Don't state theme outright; dramatize.
+## RESUME HERE: Chapter 5 "Verin's Cottage" (source [pp.17–25], L259–284)
+- Pierre (an orphan who helps Mrs. Brown) wakes Bal at six; then the outline's Ch.5 beats in source order.
+- Author's dialogue is the base; polish into natural speech without changing meaning or speaker.
 
 ## Key files
 - Source of truth: `Sygl_Complete.txt`
