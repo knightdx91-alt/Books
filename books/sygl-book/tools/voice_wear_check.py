@@ -46,9 +46,13 @@ BOOK_WIDE_RETIRED = [
 # AUTHOR'S NO-TICS LAW (every book): tic budget = 0. Single-POV books: unmapped chapters default to
 # the narrator so the self-repetition detector always runs. Self-repeats are hard FAILS by default
 # (author's no-tics law); --lenient downgrades them to WARN for a diagnostic read (only the allowlisted object-motifs below are exempt, cap 3 book-wide).
-DEFAULT_POV = None   # set to the narrator's name for a single-POV book; multi-POV books use feedback/pov-map.txt
+DEFAULT_POV = "Bal"  # set to the narrator's name for a single-POV book; multi-POV books use feedback/pov-map.txt
 SELF_REPEAT_ALLOW = [
     # this book's few allowlisted OBJECT-motif phrases (mirror tools/style_check.py ALLOWLIST; cap 3)
+    # AUTHOR'S SOURCE DIALOGUE (Sygl_Complete.txt): ordinary phrases the author's own lines repeat across
+    # chapters. Kept verbatim by author direction (2026-10-20); exempt here, NOT a licence for narration.
+    "would not be able", "be able to enroll", "do with their own", "the only reason",
+    "the other originators", "other originators were", "do you know the", "a few days ago",
 ]
 STRICT = "--lenient" not in sys.argv   # the no-tics law: strict by DEFAULT; --lenient only for a diagnostic read
 
