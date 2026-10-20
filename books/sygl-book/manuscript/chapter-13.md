@@ -479,7 +479,7 @@ Bal got his mouth working again. "What's the job?"
 
 "There are some rare flowers growing about a day's walk from here. The local alchemist needs three of them." Lora turned the paper his way. *Aurora felis (3)*, it said at the top, in a cramped hand. "To get to them you have to go through some deep woods, and the alchemist is an older lady. She doesn't feel well enough to go out and get them herself. Soren says there might be wolves, and bears, and that sort of thing. But I told her we could handle it."
 
-She looked from one of them to the other, and all her fluency drained out of her at once.
+All her fluency drained out of her at once.
 
 "Is it okay?" she asked nervously. "What do you two say?"
 
@@ -499,7 +499,7 @@ Bal tucked the job into the backpack, in between Lora's present and Viridia's co
 
 "If you say so," he said. "But like Viridia said, we've got to be home before curfew. Is there anything else either of you wants to do before we head back?"
 
-The girls traded a glance.
+Neither of them did.
 
 "I think we're good," Viridia told him.
 

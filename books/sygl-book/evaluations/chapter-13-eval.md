@@ -254,3 +254,102 @@ BIAS CHECK: This evaluation was produced by the same system that wrote the prose
   - Em dashes: 0. "the way": 0.
   
   Net change: about 25 words. No plot, character or habit was added.
+
+---
+
+## Re-evaluation (round 2)
+**Evaluator:** book-evaluator | **Date:** 2026-10-20 | **Draft:** R2 (5,443 words by gate count; range 4,800–5,700)
+
+### HEADLINE
+**CVI-Launch:** 8.2 | **CVI-Legacy:** 6.2 | **Genesis Floor:** 7.5 | **Genesis Average:** 8.4
+**Engagement type:** Self-Insertion / Empathy / Fascination (unchanged).
+**VERDICT: POLISH.** F1–F7 all landed cleanly, and the two clusters from round 1 are gone. A full recount of the chapter, which round 1 did not do, found one more gesture cluster the gate cannot classify: **the consult-look**, where one character checks another's face for a reaction. It occurs **4 times in about 310 words** at the close. One of the four is invented. The fix is about 15 words (G1). With G1 applied the floor projects to 8.5 and Casual to 8.5.
+
+### Mechanical gates (scratch copy of Ch.1–13 at scratchpad/re13)
+- `voice_wear_check.py`: **clean** (strict). No retired phrases and no self-repetition.
+- `tic_report.py --gate`: **clean** (exit 0).
+  - Auto-recurrence: none.
+  - Ch.13 rhythm: and-chains 0, negation pivots 0.
+  - Ch.13 is not the worst chapter for any class the tool knows.
+
+### Gesture-class recount (hand count; word positions, comments stripped)
+
+**Classes that are clear:**
+- **Blush/pink/red** (243 and 350 are one continuing beat, then 1916, 4028): no 3-in-500 window. F1 confirmed.
+- **Look-up** (2292 ledger, 3089 Bal, 3345 stout woman): spread over 1,053 words. F2 confirmed. The "came up white" hits are not gestures.
+- **Laugh:** 3, all from the source and widely spaced.
+- **Grin/smirk:** 3, widely spaced.
+- **Smile:** about 7 gestures. None cluster: 5242/5248 is one exchange, and "when you smile" at 1887 is dialogue. Every smile is the author's beat. The gate does not count this class, so this is a WATCH item, not a cap.
+- **Head movement** (3627 snapped up, 3726 went down, 3741 jerked her head): the two Lora beats are one source oscillation, and the jerk belongs to the nod class. WATCH, no cap.
+
+**Class that trips the rule: consult-look (glance at someone, or check their face, for a reaction)**
+
+| Pos | Line | From source? |
+|---|---|---|
+| 4994 | "looked to Viridia for an explanation" | yes, "turns to Viridia" |
+| 5145 | "She looked from one of them to the other" | **invented** |
+| 5218 | "Bal checked with Viridia." | yes, "looks at Viridia" |
+| 5304 | "The girls traded a glance." | yes, "looked at each other then shook their heads" |
+
+That is **4 in 310 words, which caps Characters at 7.5.** It also repeats the construction "from one … to the other" from 3778 ("Soren's gaze went from one girl to the other").
+
+A secondary near-cluster in the Dawn Hall: 3734 "Bal glanced at Viridia", 3778 Soren's gaze, 3820 "Bal turned around". The turn is borderline, so this is WATCH only.
+
+### Source fidelity
+- Every source beat from L595–691 is still present, in order, with the right speaker. Nothing invented was added in revision.
+- **The three reworded author lines keep their meaning:**
+  - "I wouldn't mind going … as long as the two of you are with me." Keeps the author's sense (the source's "Not as long as" means "as long as"). The smile at both of them is restored.
+  - "You are who you are, and I accept that." Verbatim.
+  - "I would like to enroll as a team." Keeps the singular "I" and Bal acting alone. It is slightly more formal, which is acceptable at a counter.
+- The source's shrug before "I don't mind" is dropped. That is fine, since the shrug class is high book-wide.
+- The arithmetic checks out: four histories + alchemy + Lora's book = "six books and a collar".
+- "grey" (L296) is still the book-wide spelling. Settle it book-wide, not here.
+
+### Genesis Score
+
+| Dimension | Score | Evidence | Cap |
+|---|---|---|---|
+| Originality | 8.5 | L128 "only a sword with something written on it"; the fourth card turned face-down for "Amelia Norheart" | — |
+| Theme | 8.5 | Belonging, carried by action: "someone actually wanting to be around me"; "That's what friends are for". The grain conceit now appears once (F6) | — |
+| Characters | **7.5** (merit 8.5) | Cover-the-name passes. Lora's register switches from hedged to fluent. 3/4 chaos, inhabited (tongs, backward sweater, dropped jaw) | **Consult-look ×4 in 310 words (4994–5304)** |
+| Prose & Voice | 8.5 | Close-book line: "He did not know whether she had ever wanted a last name, or what she would do with his." #11 is down to 1 (L416) | — |
+| Pacing | 8.5 | Episodic and varied. The close now ends cleanly on the card. F7 gives Ch.14 its own opening | — |
+| Emotion | 8.5 | Anchor: "Amelia Norheart" sinking white into the grain. Surprise: "What if I wanted to kiss Amelia instead?" | — |
+| Engagement | 8.5 | Self-insertion plus Lora's "Every single one" | — |
+| **FLOOR / AVG** | **7.5 / 8.4** | | Characters |
+
+### Anti-AI Scan
+- **5/20 patterns, all minor.** Clean for the commercial lane.
+  - #3 rule of three: ×2.
+  - #8 parallelism: ×1, the closing "He did not know".
+  - #10 described emotion: ×2.
+  - #11 explanatory extension: ×1, at L416, down from 3.
+  - #12 negation opener: ×1.
+- Em dashes: 0.
+- Clean dialogue (#17): clear. "But how can you be..." breaks off, and the girls argue in furious whispers.
+
+### Four readers
+- **Devourer:** the read is unchanged. The close is now crisper.
+- **Critic:** the grain fix and the restored warmth (the smile, "I accept that") register. The Critic would feel the end-of-chapter round of everyone checking everyone's face.
+- **Hostile:** the attune-versus-written-name question is still INVESTIGATE, no edit needed. The Hostile would also flag "from one … to the other" ×2.
+- **Casual:** 8.5. Laughs at the boxers, stays for the aisle, would buy.
+
+Cross-reader: the consult-look cluster is flagged by Critic + Hostile, so it is **SHOULD FIX**. It is also gate-blocking through the rule cap.
+
+### Revision (G1, the only floor item)
+
+| Location | Type | Now | Why | Direction | Rule? |
+|---|---|---|---|---|---|
+| G1a, ~5145 | Character (gesture class) | "She looked from one of them to the other, and all her fluency drained out of her at once." | This beat is invented. It is the 2nd of 4 consult-looks in 310 words, and it repeats "from one … to the other" (3778) | "All her fluency drained out of her at once." | Yes: the consult-look is a gesture class. Ration it to source beats and keep no more than 2 in any 500 words |
+| G1b, ~5304 | Character (gesture class) | "The girls traded a glance." | 4th consult-look in the window | Use the source's other half: "Lora and Viridia both shook their heads." The head-shake class is at 0 in Ch.13 | No |
+
+After G1 the window holds 4994 and 5218: 2 beats, which is under the rule. Nothing else needs to change.
+
+### PATH TO 8.5
+- **Characters 7.5 → 8.5:** apply G1a and G1b, then recount 4900–5400. The uncapped evidence already supports 8.5.
+- All other dimensions hold at 8.5.
+
+### VERDICT
+**POLISH.** Floor 7.5 | Average 8.4 | Casual 8.5. Apply G1, about 15 words, for a PASS at Floor 8.5.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
