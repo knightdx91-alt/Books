@@ -85,7 +85,7 @@ Her hands had come out of her pockets partway through. She had not said so many 
 
 He caught Viridia's eye over Lora's head. Viridia's eyebrows went up and stayed up.
 
-"Would you have to do the requests on your own?" Bal asked.
+"Would you have to take the requests on your own?" Bal asked.
 
 "No. You can register with the local Dawn faction as a team. They give every member a wooden card with the team's name on it. Each time you turn in a job or a bounty, the number on your cards goes up."
 
@@ -173,7 +173,7 @@ Bal leaned in to see the rune. Every corner of it was where it ought to be.
 
 "That's a really thoughtful gift," he said.
 
-Viridia put the collar back in its bag, looking pleased with herself.
+Viridia put the collar back in its bag, very satisfied with the purchase.
 
 ---
 
