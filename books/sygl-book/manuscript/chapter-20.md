@@ -35,7 +35,7 @@ Bal was already moving. Nothing in him stopped to decide.
 
 His right palm lifted from the table, open, and the blood leapt from it.
 
-It welled out of the middle of the palm without a cut, as though it had been waiting just under the skin, and it did not fall. It ran out into the air in a long dark rope, as thick as two of his fingers and bright where the light from the high windows caught it. It cracked over the table between the plates. It struck Sean in the chest and knocked him off Viridia and back two staggering steps, and then it was gone, drawn back into Bal's hand, and nothing on the table had been touched except Viridia's torn breakfast order.
+The middle of the palm split open on its own, a clean line he never had to cut, and the blood poured from it and did not fall. It ran out into the air in a long dark rope, as thick as two of his fingers and bright where the light from the high windows caught it. It cracked over the table between the plates. It struck Sean in the chest and knocked him off Viridia and back two staggering steps, and then it was gone, drawn back into Bal's hand, and nothing on the table had been touched except Viridia's torn breakfast order.
 
 Viridia rubbed her arm once, hard.
 
@@ -69,7 +69,7 @@ Bal released him.
 
 He did it by flinging his right arm back behind him. The blood went with it, and Sean went with the blood. He sailed across the aisle and landed on his own table halfway along, on his back, and kept going. He slid down the length of it through the Tempus breakfasts. Toast went. A plate of sausages went. Somebody's teacup went flying off the table's end well ahead of him, and when he came to rest there was a clear lane through the center of the wood where the food had been, and he was lying in a puddle of tea with jam on one sleeve.
 
-The blood came home to Bal's palm and the skin there was smooth and dry again.
+The blood came home to Bal's palm, and the split there closed over behind it until the skin was smooth and dry again.
 
 He stood up. Lora and Viridia rose with him. He had not asked them to.
 

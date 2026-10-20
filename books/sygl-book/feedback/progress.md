@@ -13,7 +13,7 @@ supposed to be Sygl."). `project/foundation.md`, `project/outline.md` (now **30 
 - **RESUME HERE → Chapter 21 "Strawberries"** (outline Ch.21). Ch.20 ended on Amelia's "I can do that." before the
   teleport to the lake. Ch.21: the water snake killed there last week (shown in Ch.18); Iro; Bal connects the HEART RING
   (author decision); "No one threatens my girls." The whip leads Ch.20 AND Ch.21 back to back: render each use
-  differently and keep the author informed (spell-repetition watch). Open question: whip with or without a cut.
+  differently and keep the author informed (spell-repetition watch). Whip (author): the right palm splits open on its own, no knife, and closes when the blood returns.
 - Gesture clusters cost the most eval rounds in ch.13–15: no gesture class (smile/grin as one, laughs, blushes,
   looks, sitting/sinking, freezing/stopping, eyes, chest/heart, hand squeezes) 3+ times within 500 words.
 - Spell repetition watch (author): the blood whip is most of Bal's on-page magic from the source onward.
