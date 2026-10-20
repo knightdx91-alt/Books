@@ -1,44 +1,45 @@
 project:
   title: "Sygl"
   genre: "Fantasy (harem-romance elements)"
-  subgenre: "Progression / harem fantasy"
+  subgenre: "Progression / school / found-family fantasy"
   language: "English"
   word_count_target: 90000
   comp_titles: ["Cradle (Will Wight)", "He Who Fights with Monsters (Shirtaloon)", "A Court of Thorns and Roses (Sarah J. Maas)"]
   engagement_type: {primary: "self_insertion (55%)", secondary: "empathy (35%)", tertiary: "fascination (10%)"}
-  premise: "A sigil-less, one-handed orphan stumbles into the prison-temple of a forgotten goddess everyone calls a myth, regrows his hand on her blood and bonds her — the originator of the feared Blood sygl — as his own familiar; to keep the few people who finally choose him he must wield the one power that got her buried alive: stealing other gods' followers."
+  premise: "A sygl-less, one-handed orphan flies into the sealed temple behind his orphanage and finds Amelia, the originator of the feared Blood sygl, imprisoned for three thousand years by the other gods. He regrows his hand on her blood, bonds her as his familiar and walks her out into a school, a found family and a war. As her High Priest he can change a sygl only for someone who wants it: the girls he loves choose the Blood with him, and in the end he converts the enemy High Priest, Toma, by accident, winning Raizen's war and a home none of them had."
   created: "2026-07-13"
-  updated: "2026-07-13"
+  updated: "2026-10-20"
 
 # ADAPTED RUN — revise/expand an existing draft, NOT genesis-from-idea.
 adaptation:
   mode: "revise-existing-draft"
   canon_sources:
-    # Fill these in once source material is staged into research/:
-    original_draft:  "Sygl_Complete.txt"   # raw prose to revise/expand
-    # series_roadmap:  "research/series-roadmap.md"
-    # character_bible: "research/character-bible.md"
-    # chapter_roadmap: "research/chapter-roadmap.md"   # scene-by-scene plan (binding outline)
-    # master_checklist:"research/master-checklist.md"
-  chapter_1_locked: false        # set true if Ch.1 is a hand-finished voice benchmark
-  chapters_to_produce: []        # e.g. [2,3,...,N]
+    original_draft:    "Sygl_Complete.txt"            # source of truth, IN ITS ORDER (~49.7k words)
+    foundation:        "project/foundation.md"        # canon lock, premise, theme, character cards (no tics)
+    chapter_roadmap:   "project/outline.md"           # binding 30-chapter plan with [pp.] + source line ranges
+    style_constraints: "project/STYLE_CONSTRAINTS.md" # hard style/POV/tone rules
+    progress:          "feedback/progress.md"         # exact resume point
+  chapter_1_locked: false
+  chapters_to_produce: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30]
+  manuscript_path: "manuscript/chapter-NN.md"         # flat layout (not manuscript/chapters/)
 
 word_floor:
-  manuscript_min_words: 85000    # HARD FLOOR (book total) — the binding gate; adjust per book.
-  manuscript_target_words: 90000 # architect budgets Σ chapter targets ≥ this (see book-architect §0.5).
-  # NOTE: there is deliberately NO uniform per-chapter floor. Chapter lengths VARY WIDELY
-  # (~1,500–7,000w) by design — the book TOTAL is what's enforced, not each chapter. A
-  # per-chapter minimum would recreate the uniform ~5k/20-chapter "AI-neat" shape.
-  shortest_chapter_floor: 1200   # sanity floor for the SHORTEST allowed chapter (punch chapters ok; not a target)
+  manuscript_min_words: 85000    # HARD FLOOR (book total)
+  manuscript_target_words: 90000 # outline budgets ≈ 91,400
+  # Chapter lengths VARY (1,300–5,000 in the outline) by design; the book TOTAL is what's enforced.
+  shortest_chapter_floor: 1200
 
 phase:
-  current: 1
-  status: "architect DONE — foundation.md + outline.md live in project/; source is Sygl_Complete.txt (root); 3 chapters drafted (manuscript/chapter-01..03.md), superseded/ holds earlier drafts. Resume: normalize STATE.yaml from project/ blueprint, repoint canon_sources at project/, optionally migrate manuscript/chapter-0N.md → manuscript/chapters/, then continue drafting. See feedback/progress.md."
-  history: []
+  current: 2
+  status: "Architect REVISED 2026-10-20 to follow the author's original script: project/foundation.md, project/outline.md (30 chapters, source order, ≈91,400w) and project/STYLE_CONSTRAINTS.md rewritten. Chapters 1–3 (manuscript/chapter-01..03.md) were rewritten toward the source on 2026-10-20 (9,118w); mechanical gates clean; book-evaluator re-score pending (prior 8.5 passes no longer count). Next new chapter: Ch.4 'Mrs. Brown', which picks up the source right after 'They watched the game for a few minutes before Bal pulled Amelia inside.' (Sygl_Complete.txt L162/L164). See feedback/progress.md."
+  history:
+    - "2026-07-13: architect pass (24-chapter outline); Ch.1–3 drafted and gated."
+    - "2026-10-20: author ruled the plan must follow the original script; plan rebuilt to 30 chapters in source order; Ch.1–3 sent back for rewrite."
 
 chapters:
-  total_planned: 0
-  completed: []
+  total_planned: 30
+  completed: []                  # Ch.1–3 drafted but under rewrite; none final under the new plan
+  in_rewrite: [1, 2, 3]
   scores: {}
 
 genesis_score:
@@ -46,20 +47,39 @@ genesis_score:
   current_average: 0.0
 
 quality_gate:
-  chapters_passed: []
+  chapters_passed: []            # earlier passes for Ch.1–3 voided by the 2026-10-20 re-plan
   chapters_escalated: []
 
 guardrails:
   - "Genesis Floor >= 8.5 per chapter (book-evaluator); polish-loop via book-editor (max 5)."
-  - "Style gate: python3 tools/style_check.py must stay clean (simile <=4/1k, em-dash <=~10/1k, no NEW cross-chapter repeated phrase, tics under ceiling). Add this book's deliberate motifs to ALLOWLIST in tools/style_check.py."
-  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapters/chapter-*.md."
-  - "Revise/expand the original draft to the roadmap; do NOT invent from scratch. Match the locked Ch.1 voice if one exists."
-  - "REWRITE/EXPANSION of Sygl_Complete.txt (~49k → >=90k). Canon locked in project/foundation.md + STYLE_CONSTRAINTS.md (names, worldbuilding rules, war rules, conversion mechanic). Bal 'Norheart', Amelia (Vampire Goddess/familiar), Viridia, Lora; PAST tense; fade-to-black. Do NOT invent new plot or lose a canon beat. KEEP SEPARATE from the-fourfold-crown."
+  - "Style gate: python3 tools/style_check.py clean (simile <=4/1k, em-dash <=2/1k, no NEW cross-chapter repeated phrase); tic_report.py --gate and voice_wear_check.py clean."
+  - "Word floor >= manuscript_min_words; verify with: wc -w manuscript/chapter-*.md."
+  - "Follow Sygl_Complete.txt IN SOURCE ORDER; expand summary into scene; do NOT invent plot, friction, motives, quirks or backstory; do not change any scene's meaning or tone."
+  - "Spelling: Sygl / sygl / sygls / sygl-less everywhere (never sigil/sygil); mausoleum; Naisura."
+  - "Close third on Bal ONLY, PAST tense; events outside his view are reported as the source reports them. No dual narration in prose."
+  - "NO TICS (repo law 2026-10-18); sole exception: Amelia may call Bal 'Master' (author ruling 2026-10-20)."
+  - "Fade-to-black. Happy ending as the source has it. KEEP SEPARATE from the-fourfold-crown."
 
 open_author_decisions:
-  - "Migrate project/foundation.md + outline.md to book root (or keep in project/) so the pipeline finds the blueprint."
-  - "Add the required friction: give Bal a real flaw/failure and the girls a genuine choice (harem assembles too easily in the source)."
+  - "Heart ring (p.94–95): the source never explains it; Iro names the leader Heath and says the High Priest sent him. Leave it unexplained, or let Bal connect it aloud to Toma in Ch.21 (no new plot either way)?"
+  - "The older Tempus girl with a sparking sygl in the buggy ahead on arrival (p.25): is she Viridia (seen before they meet) or a stranger?"
+  - "Arrow-rune shirts (p.97): proposed at camp but never shown made or worn. Keep as a proposal plus rune craft during the six weeks, or show them finished (minor expansion)?"
+  - "The water-snake fight at the lake (p.120, p.138) is only reported. Keep reported, or show it briefly inside the six-week passage (Ch.18)?"
+  - "'Sygldry school of magykal arts' (p.1, where Fredrick went) vs The Heir's School: treat Sygldry as one of Aren's 'lesser schools'?"
+  - "'I will send Pierre for you in the morning' (p.~15): Pierre never appears (Mrs. Brown wakes Bal, Verin escorts). Drop the line, or make Pierre the one who wakes him?"
+  - "Juggling talk (p.103–104): the source says the girls overheard without Bal seeing. In Bal-only POV the plan shows only what he can observe; confirm, or let one of the girls mention later that they heard?"
+  - "Manga only: keep the Amelia-butts-into-narration device there? (Prose does not use it.)"
 
 decisions:
-  - "This book is a folder-per-book genesis project under book/genesis/<slug>/."
-revision_cycles: 0
+  - "This book is a folder-per-book project at books/sygl-book/; blueprint stays in project/."
+  - "2026-10-20 (author): the plan follows the original script. Source order restored: the day-two cluster (Raizen's army, 'break their toys', the hidden temple, Peter, Thad & Xavier, the High Priest ring, Amelia reading Viridia's diary, 'I like you too') comes BEFORE New Spring and the Card; Amelia's origin and the Viridia-conversion proposal come AFTER Viridia appears; Fern's war room, Raizen's persecution and the Londra priests come BEFORE the rule and conversion; war rules are revealed where the source reveals them; 'You'd be surprised' stays at the pizza scene; the refugee father who spits is used once, on the road to Londra."
+  - "2026-10-20 (author): spelling is Sygl / sygl / sygls / sygl-less everywhere; never sigil or sygil."
+  - "2026-10-20 (author): tone and meaning back to source. Bal's violence is justified (Iro hangs from the blood whip; no enjoyment, no self-fear, no guilt over the conversions); Amelia is not a manipulator (no 'trap of affection', no 'ownership disguised as approval', no 'safer feared than loved'); the ending is unambiguously happy ('the first day of the rest of their life together'); the premise is converting willing loved ones (and Toma by accident), not stealing other gods' followers."
+  - "2026-10-20 (author): restored beats: Mr. Winters' runes class and the avoidance rune; the six-week time-skip and the flaming dagger; the arrow-rune shirts; the juggling talk ('I do not feel more strongly for one over the other'); 'I like you too'; Viridia's breakdown and Bal & Lora's 'we'll figure it out, together'; Amelia's 'I feel useless' walk; Raizen cheating by teleporting assassins (why Amelia wins her concession); Toma's army approaching; the blood elemental sent to Amelia's domain."
+  - "2026-10-20 (author): canon fixes: Mrs. Brown's husband's late affinity was BLOOD (fired so the factory wouldn't be 'seen as a blood mage supporter'); sygls are on the palm; Bal has a high pain tolerance; other orphans have no magic (Bal is not the only one); Fredrick was a friend; page citations corrected (outline cites [pp.] plus source line ranges)."
+  - "2026-10-20 (author): POV is close third on Bal only. Removed the refugee-family POV-adjacent scene, any glimpse of the girls' capture, and the cave bond as flashback (it is reported by Viridia). The dual-narration device is not used in prose (manga-only if wanted)."
+  - "2026-10-20 (author): NO TICS applies. Removed all tic/catchphrase allowances and invented quirks/backstories (Bal's appendix habit, Lora reorganizing supplies, Mrs. Brown dusting, Aleric 'climbed from nothing', Xavier 'priest to stop fighting', Thad's death tally, Sean craving Raizen's notice, the heart ring tied to 'Raizen's reach', the recurring softball/juggling motifs). Characters are distinguished by worldview, syntax, evasion and physicality only."
+  - "2026-10-20 (author): 'Master' is NOT a tic. It is a legitimate title Amelia may call Bal because she is his familiar; allowed where the source uses it or the familiar relationship makes it natural. Explicit exception to the no-tics law; all other catchphrase/tic allowances still go."
+  - "2026-10-20 (author): FRICTION item resolved. Do not invent plot friction or a new Bal flaw. The girls' genuine choice is shown through the source's own beats: Viridia's diary and confession ('I like you too'), the juggling talk, and the willing conversions with their own stated reasons."
+  - "2026-10-20: plan rebalanced to 30 chapters (≈91,400 words, 1,300–5,000 each) in source order; Ch.1–3 to be rewritten toward source and re-gated."
+revision_cycles: 1

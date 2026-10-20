@@ -1,71 +1,69 @@
 # CLAUDE.md — Sygl
 
-Per-book playbook. A fresh Claude Code session should read this first, then continue.
-(This is a copy of the template; fill in the <…> placeholders for this book.)
+Per-book playbook. A fresh Claude Code session should read this first, then `STATE.yaml` and
+`feedback/progress.md`. The shared pipeline lives at the repo root (`.claude/`, `tools/`, `docs/`);
+never copy it in here. We work only on `main`.
 
 ## What this is
-A genesis project to revise/expand an existing draft into a finished book, using the
-adapted **Best Seller Studio** pipeline. We work only on `main`. Commit and push to `main`.
-
-Git identity (so commits show verified):
-```
-git config user.email noreply@anthropic.com
-git config user.name Claude
-```
-
-## Install the agents (fresh environment)
-```
-git clone https://github.com/felipelobomotta-blip/best-seller-studio /tmp/bss
-cp /tmp/bss/agents/*.md ~/.claude/agents/
-# Also install 4 skill-based roles as agents (add tools/model frontmatter):
-#   entity-tracker, continuity-guardian (skills/optional/*/SKILL.md)
-#   dialogue-polish, hook-craft        (skills/deprecated/*/SKILL.md)
-# Frontmatter to prepend to each:
-#   ---
-#   name: <name>
-#   description: <from SKILL.md>
-#   tools: Read, Write, Edit, Grep, Glob, Bash
-#   model: opus
-#   maxTurns: 40
-#   ---
-```
-Note: in some environments the Agent tool can't dispatch these named subagents. If so,
-run ONE general-purpose agent that performs each role itself by reading ~/.claude/agents/*.md.
+A revise/expand project: the author's original script `Sygl_Complete.txt` (~49.7k words) becomes a
+≈91k-word novel in 30 chapters, **following the script in its order**. Author direction (2026-10-20):
+"make it more like my original script. And it's supposed to be Sygl."
 
 ## Project layout
 ```
-book/genesis/<slug>/
-├── STATE.yaml                 # READ FIRST — project state, word/style gates, canon
-├── research/                  # staged source: original-draft.txt + roadmap/bible/etc.
-├── manuscript/chapters/       # chapter-1.md ... chapter-N.md (the book)
-├── evaluations/               # per-chapter eval reports + continuity audits
-├── feedback/progress.md       # exact resume point
-└── tools/style_check.py       # style gate (edit ALLOWLIST for this book's motifs)
+books/sygl-book/
+├── STATE.yaml                 # READ FIRST — state, decisions, open questions
+├── Sygl_Complete.txt          # SOURCE OF TRUTH (pp.16–50 and 71–186 carry [Page] markers)
+├── project/foundation.md      # canon lock, premise, theme, character cards (no tics)
+├── project/outline.md         # binding 30-chapter plan: [pp.] + source line ranges + targets
+├── project/STYLE_CONSTRAINTS.md
+├── manuscript/chapter-NN.md   # the book (flat layout)
+├── feedback/progress.md       # exact resume point (+ manga track notes)
+├── sygl-manga/                # separate manga adaptation track
+├── superseded/                # old drafts, not part of the book
+└── tools/                     # style_check.py, grammar_check.py, tic_report.py, voice_wear_check.py
 ```
 
 ## How to continue
-1. `cd book/genesis/<slug>` and read `STATE.yaml` and `feedback/progress.md`.
-2. `ls manuscript/chapters/` and `git log --oneline` to find the last finalized chapter.
-3. Produce the next chapter IN ORDER. Locate its material in `research/original-draft.txt`
-   and REVISE/EXPAND to the roadmap beats — do not invent from scratch. Match the locked
-   Ch.1 voice if one exists. Run each chapter through: write → dialogue-polish → hook-craft
-   → disruptor → evaluate → quality gate.
-4. Commit per chapter: `git add -A && git commit -m "genesis: finalize chapter N"`.
-
-## Quality gates (both must pass before a chapter is "done")
-- **Genesis Floor ≥ 8.5** (book-evaluator); below → book-editor polish loop (max 5).
-- **Style check** — `python3 tools/style_check.py` clean: simile ≤4/1k, em-dash ≤~10/1k,
-  no NEW cross-chapter repeated phrase (add deliberate motifs to ALLOWLIST), tics under ceiling.
-
-## Word floor
-Finished book ≥ `manuscript_min_words` (see STATE.yaml). Verify:
-`wc -w manuscript/chapters/chapter-*.md`. If short, expand the thinnest chapters.
+1. Read `STATE.yaml` and `feedback/progress.md`.
+2. Write the next chapter IN ORDER from its outline entry, working from the cited source lines.
+   Revise/expand the source; do not invent.
+3. Gate: book-evaluator ≥ 8.5, `python3 tools/style_check.py`, `tic_report.py --gate`,
+   `voice_wear_check.py`. Then commit to `main`.
 
 ## Canon guardrails (settled author decisions — never violate)
-- <fill in this book's settled spellings, names, world rules, locked chapters, etc.>
+- **Spelling: Sygl / sygl / sygls / sygl-less.** Never "sigil" or "sygil". Also mausoleum, Naisura (never
+  "Waisura"), Viridia Vizer, Balthazaar "Bal" Norheart, The Heir's School of Magykal Artes.
+- **Source order is plot order** (`project/outline.md`). The day-two cluster (Raizen's army, "break their
+  toys", Peter, the hidden temple, Thad & Xavier, the ring, the diary, "I like you too") precedes New Spring
+  and the Card; Amelia's origin and the convert-Viridia proposal follow Viridia's first appearance; Fern's war
+  room and the Londra priests precede the rule and conversion; war rules appear where the source reveals them.
+- **No invented plot, friction, motives, quirks or backstory.** The girls' choice is shown through the source's
+  own beats (the diary and "I like you too", the juggling talk, the willing conversions).
+- **Tone as the source:** Bal's violence against those who threaten his girls is justified (Iro hangs from the
+  blood whip); Amelia loves and protects her own and manipulates no one; the conversions are free choices; the
+  ending is unambiguously happy ("the first day of the rest of their life together").
+- **Premise:** Bal converts willing loved ones (and Toma by accident); not "stealing other gods' followers".
+- **Canon facts:** Mrs. Brown's husband's late affinity was **Blood** (fired so the factory wouldn't be "seen
+  as a blood mage supporter"); sygls are **on the palm**; Bal has a **high pain tolerance**; other orphans have
+  no magic at all; Fredrick was a **friend**; Amelia's familiar brand is on her forehead and can be hidden.
+- **POV:** close third on **Bal only**, PAST tense. What he doesn't witness is reported, as the source reports
+  it. No dual narration in prose (manga-only if wanted).
+- **NO TICS** (repo law 2026-10-18): distinguish characters by worldview, syntax, evasion, physicality.
+  **Explicit exception (author ruling 2026-10-20): Amelia may call Bal "Master"** — a legitimate title from a
+  familiar to her bonded mage — where the source uses it or the relationship makes it natural. All other
+  catchphrase/tic allowances are gone.
+- Fade-to-black. Keep separate from the-fourfold-crown.
 
 ## Open author decisions (ask, don't invent)
-- <fill in>
+See `STATE.yaml` → `open_author_decisions`: the unexplained heart ring; whether the Tempus girl in the arrival
+buggy is Viridia; whether the arrow-rune shirts are shown finished; whether the water-snake fight stays
+reported; "Sygldry school" vs the Heir's School; the stray "Pierre"; how the girls' overhearing of the juggling
+talk surfaces in Bal-only POV; whether the manga keeps the dual-narration device.
 
 ## Status (update as you go)
-- Scaffolded. Awaiting source material in `research/`, then architect pass.
+- 2026-10-20: blueprint rebuilt to source order (30 chapters, ≈91,400 words).
+- Ch.1–3 rewritten toward the source 2026-10-20 (9,118w); style/grammar/tic/voice-wear gates clean;
+  **book-evaluator re-score pending**.
+- **Next: Ch.4 "Mrs. Brown"**, picking up right after "They watched the game for a few minutes before Bal
+  pulled Amelia inside." (source L162).

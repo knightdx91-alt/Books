@@ -1,378 +1,734 @@
-# Sygl — Chapter Outline (24 chapters, ≥ 90,000 words)
+# Sygl — Chapter Outline (30 chapters, ≈ 91,400 words)
 
-Refines the baseline 24-chapter map. Every chapter cites its **source [Page] range**, the **scenes to dramatize** (converting summary to scene is where the 40k gain lives), the **emotional anchor**, a **beat subversion**, the **chapter hook / ending pull**, and a **word-count target** (totals ≈ 92,300). PAST tense, close-third on Bal, all STYLE_CONSTRAINTS binding. No new plot; no canon names lost.
+**Revised 2026-10-20 to follow the author's original script** ("make it more like my original
+script. And it's supposed to be Sygl."). This outline replaces the 2026-07-13 24-chapter map.
 
-**Structural-diversity ledger (no two consecutive chapters share internal structure):** 1 single-scene→escalation · 2 single-scene dialogue · 3 single-scene ritual · 4 essayistic-confession · 5 fragmented (feeding + flashback shards) · 6 set-piece collage · 7 chronological wonder · 8 single-scene meet · 9 comedic single-scene · 10 nested-flashback (Viridia's bond reported→dramatized) · 11 single-scene through-action · 12 episodic walk (vignette chain) · 13 single-scene gift · 14 essayistic+scene (Peter) · 15 extended battle set-piece · 16 single-scene decision · 17 parallel (refugee POV-adjacent / war-room) · 18 respite→ambush two-part · 19 road episodic · 20 procedural suspense (brewing) · 21 single-scene set-piece · 22 disaster in medias res · 23 single-scene intimacy/training montage-bridge · 24 extended duel set-piece + quiet coda.
+Binding rules for every chapter:
+- **Source order is the plot order.** Each chapter cites its source span as `[pp.]` plus the
+  line range in `Sygl_Complete.txt` (`L…`). The source prints `[Page N]` markers only for pp.16–50
+  and pp.71–186; pages 1–15 and 51–70 are unmarked, so those spans are given as `pp.~` estimates
+  (by word count) and the **line range is authoritative**.
+- **Expand, don't invent.** Dramatize what the source summarizes; add texture, sensory detail
+  and scene; do not add plot, friction, backstory or motives the source does not support.
+- **Close third on Bal only, PAST tense.** Anything Bal cannot see or hear arrives reported, as
+  the source reports it (the bloodwolf bond, Amelia's council with the gods, the girls'
+  captivity). Where the source itself slips into another head (the bandit fight, the toast),
+  render it through what Bal observes and what the character later says aloud.
+- **Tone is the source's.** Bal's violence against those who threaten his girls is justified;
+  Amelia is loving, teasing and lethal to enemies, never a manipulator of her own; the ending is
+  unambiguously happy.
+- **NO TICS** (repo law, 2026-10-18). Motifs are objects and situations, never repeated lines or
+  gestures. Exception (author ruling 2026-10-20): Amelia may call Bal **"Master"** — a legitimate
+  title from familiar to bonded mage — where the source uses it or the relationship makes it natural.
+- Spelling: **Sygl / sygl / sygls / sygl-less** everywhere; mausoleum; Naisura.
+
+Chapter lengths vary from 1,300 to 5,000 words by design (structural-variety rule); the
+structure of each chapter serves the source's order rather than a template.
+
+**Structure ledger (no two consecutive alike):** 1 single-scene escalation · 2 single-scene
+dialogue · 3 single-scene ritual · 4 two-movement (office → packing) · 5 journey into night ·
+6 ceremony set-piece · 7 exploration → meeting · 8 night conversation · 9 comic set-piece → quiet
+coda · 10 told tale over lunch → training ground · 11 chain of revelations across three places ·
+12 short dinner scene · 13 episodic walk · 14 quiet gift scene · 15 braided days (bridge) ·
+16 road → battle → camp → night walk · 17 errand → beast → walking talk · 18 time-skip → war room ·
+19 decision → ritual · 20 public confrontation → debrief · 21 respite → ambush → reported tale ·
+22 council and argument · 23 road episodic · 24 procedural clock · 25 near-real-time set-piece ·
+26 short night camp · 27 disaster → lone trek → battle · 28 sickroom → training bridge ·
+29 duel → tribunal · 30 short coda.
 
 ---
 
-## Chapter 1: The Roof and the Flicker
-**Function:** Establish Bal — marked, one-handed, sigil-less orphan; the phantom itch; the danger and longing that drive him onto the carpet. Open the book on a true Discovery hook.
-**Source:** [pp.1–3] (roof, stump, mausoleum, the flicker, the levitation spell).
-**Opening strategy:** Ordinary-made-strange → the failure (see foundation §8). First three sentences must seed: stump that itches, roof that flickered, a spell that could kill him.
-**Scenes to dramatize:** the orphanage world and Bal's outsider place in it (other kids' sygils, the off-limits roof, the dead boy who fell); the *phantom hand itch* tied to the mausoleum; assembling the plan (ladder rejected, magic chosen) from Fredrick's cast-off `Sygldry Year 2`; the carpet rising "a few inches, then stopping," then the flight across — played for real peril.
-**Key beats:** 1) Bal alone on the roof, the itch. 2) The remembered flicker that showed a temple/statue. 3) The reckless enchantment and flight; landing where there is no roof.
-**Progressive structure:** opens the whole book; ends *inside* the temple, on the threshold of Ch.2.
-**Theme presence:** present — belonging/being-marked introduced through the stump and the sygil-less exclusion.
-**Character chaos:** Bal's over-responsibility (pre-blames himself for the risk); first hint of the juggling/curiosity obsession.
-**Beat subversion (MANDATORY):** Genre beat = "chosen-one boy senses his destiny / power awakening." Subversion = he feels no destiny, only an *itch* and boredom; the inciting magic is a second-year levitation spell he half-botches (rises a few inches, then stops), and he flies in out of stubborn curiosity, not fate.
-**Emotional anchor / surprise:** the stump's itch; the carpet's hesitant rise. Surprise: near-death flight rendered with a child's delight, not dread.
-**Hook / ending pull:** a mischievous voice in his ear — "Because it's magic" — from a temple that should be empty.
-**Writer warnings:** do NOT open with competence; resist info-dumping the sygil system (parcel it). Fix every present-tense slip. Word count target: **3,800**.
+## PART ONE — THE TEMPLE AND THE ORPHANAGE
 
-## Chapter 2: The Queen in the Temple
-**Function:** Meet Amelia; the myth reveal; the bargain that frees her and remakes Bal.
-**Source:** [pp.3–6] (Amelia, "I thought you were a myth," the bats, the bargain).
-**Opening strategy:** in medias res — the disembodied voice, before we see her.
-**Scenes to dramatize:** the full first conversation as a *scene* with subtext (a lonely god testing a stranger); Bal's myth-status explanation that triggers the **exploding-into-bats** beat (play it, don't summarize); Amelia's pivot from outrage to the offer — "I will bond myself to you as your familiar"; "Are you thirsty?"
-**Key beats:** 1) Amelia appears, benches conjured. 2) "The originator of the blood sygl — I thought you were a myth." 3) The bond/blood offer.
-**Progressive structure:** builds on Ch.1's intrusion; opens toward the body-horror of Ch.3.
-**Theme presence:** central — both are people the world erased; the bargain is the first "chosen vs used" question (is this transaction or rescue?).
-**Character chaos:** Amelia's explode-into-bats failed-management; her mind-reading-the-worst (she half-expects he'll bolt or bargain).
-**Beat subversion:** Genre beat = "mysterious powerful mentor offers the hero power." Subversion = the mentor is *the one imprisoned*, the hero is her *exit*, and the power transfer is her need, not his reward; she's more vulnerable than he is.
-**Anchor / surprise:** the cloud of bats. Surprise: a goddess's fury reads as a teenager's wounded feelings.
-**Shareable moment:** "his own familiar is the goddess everyone calls a myth."
-**Hook / ending pull:** "Are you thirsty?" — the cup of a thousand-year-old vampire's blood.
-**Writer warnings:** keep Amelia's menace and play in the SAME register (her signature); avoid making the bargain feel frictionless — seed Bal's "uhm, within reason." Word count: **4,200**.
+## Chapter 1: The Roof and the Flicker  *(drafted; being rewritten toward source, pending re-gate)*
+**Source:** [pp.~1–4] L4–12.
+**Scenes:** the orphanage roof and the mausoleum behind it (the boy who fell; off-limits); Bal's
+stump that itches when he thinks of the mausoleum; no hand, so no sygl, though he can still do
+magic (other orphans can do none at all); the flicker that showed a temple and a statue; the plan
+(no ladder tall enough, so magic); `Sygldry Year 2` from Fredrick, a friend who left for school;
+*Levimotorcorpus* through the left wrist in hope of a sygl; the carpet rising a few inches, then
+the flight; no roof; landing on the temple's concrete.
+**Opening:** ordinary made strange (a forbidden roof, a stump that itches).
+**Anchor:** the carpet's hesitant rise; landing where there is no roof.
+**Hook:** the braziers, the statue, and "Because it's magic" whispered in his ear.
+**Target:** 3,800.
 
-## Chapter 3: A New Hand
-**Function:** Regrow the hand; the familiar binding; the weight (not the transaction) of the bond.
-**Source:** [pp.6–7] (drinking the blood, regrown hand + sygl, the binding incantations, walking out the front door).
-**Opening strategy:** single-scene ritual; bridge from Ch.2's cup.
-**Scenes to dramatize:** the **body-horror/wonder** of a hand growing back; the blood sygl glowing "with an inner light"; the familiar binding played as a charged, weighty rite (the kneeling, palm on forehead, "Caro familiare…/Caro maestro…"); the locked door that was "only locked one way"; stepping into the courtyard after ~3,000 years — Amelia briefly "like a young girl."
-**Key beats:** 1) Drinking; the hand. 2) The binding. 3) Out the front door; the softball game glimpsed in the yard (plant the unprompted-memory motif).
-**Progressive structure:** completes the bargain of Ch.2; opens toward needing to explain it all (Ch.4).
-**Theme presence:** present — the bond as chosen-ness; whose freedom is this?
-**Character chaos:** Bal's flat practical worry undercutting wonder ("I don't know how I'm going to explain this"); the softball-game memory seeded.
-**Beat subversion:** Genre beat = "power-up montage / triumphant new ability." Subversion = the regrowth is unsettling, intimate, and the first thing he feels is logistical dread about explaining it, not triumph.
-**Anchor / surprise:** flexing the new hand, the glowing sygl. Surprise: cosmic miracle met with mundane anxiety.
-**Hook / ending pull:** they walk out free — and now must face Mrs. Brown and the human world.
-**Writer warnings:** fade-to-black discipline applies to the blood-feeding intimacy throughout; build tension, cut the explicit. Don't let the binding read transactional — it must feel like a vow. Word count: **3,200**.
+## Chapter 2: The Queen in the Temple  *(drafted; being rewritten toward source, pending re-gate)*
+**Source:** [pp.~4–8] L14–110.
+**Scenes:** *Locos cantis*; the Greek-style temple open to a sun that should not be there; the voice;
+Amelia steps into the firelight (black dress, ruby teardrops, red eyes); the conjured benches;
+"Queen of the vampires" / "the originator of the blood sygl? I thought you were a myth!"; her
+outrage; "Did the thought of having a myth sygl disgust you so you had to cut off your hand?";
+the truth that he had a blood sygl; why blood sygls are feared, infants' hands removed, Dracula,
+the empty place at the yearly claiming; she explodes into bats; "No sygl. No school"; "Would you do
+anything to go?" / "Uhm, within reason"; the offer to bond as his familiar ("I will not ask anything
+of you that you are unwilling to give"); "Are you thirsty?"
+**Opening:** in medias res on the voice.
+**Anchor:** the cloud of bats.
+**Hook:** "Are you thirsty?"
+**Target:** 4,200.
+
+## Chapter 3: A New Hand  *(drafted; being rewritten toward source, pending re-gate)*
+**Source:** [pp.~8–10] L112–162.
+**Scenes:** drinking a thousand-year vampire goddess's blood; the left hand regrown, the blood-red
+sygl **on his palm** glowing; "I don't know how I'm going to explain this"; "Time for that later";
+the familiar binding (palm on her forehead, "Caro familiare… may I be worthy to hold a place in your
+heart" / "Caro maestro… may our blood sing together for a thousand years and more"); the sygl on her
+forehead; foreheads resting together; the door locked only one way; the golden doors, the
+courtyard, "It's been a long time"; hand in hand around the orphanage; his mother died giving birth;
+she knows the modern world through bats and ravens; the school plane has no technology; the
+softball game in the front yard.
+**Opening:** ritual, bridging from the cup.
+**Anchor:** flexing the new hand; the binding words.
+**Hook / handoff:** source ends "They watched the game for a few minutes before Bal pulled Amelia
+inside." (L162). **Chapter 4 picks up exactly there.**
+**Target:** 3,200.
 
 ## Chapter 4: Mrs. Brown
-**Function:** Anchor the theme in a human cost; the first adult to *choose* the feared boy; enrollment set in motion.
-**Source:** [pp.7–13] (Mrs. Brown's office, the hand/Amelia reveal, the blood-sygl politics, the dead-husband speech, packing, Fredrick's books, Amelia's first backstory shard).
-**Opening strategy:** the confession — Bal walking in to tell the one adult he trusts what he's done.
-**Scenes to dramatize:** Mrs. Brown's *behavior* carrying her grief (the bare desk, the single photo), her husband's death shown through how she tells it, not a paraphrased monologue; her "Well then." and "you don't do anything by half measures"; the school's blood-sygl rules made concrete; packing (the compass, pocketknife, rune kit, Fredrick's books) as characterization.
-**Key beats:** 1) The reveal to Sarah Brown. 2) ★ The husband's-death confession to a bare desk. 3) Enrollment mechanics (the claiming, originator acknowledgment) + Amelia hides the brand.
-**Progressive structure:** turns the private miracle of Ch.3 into a social problem; opens the journey of Ch.5.
-**Theme presence:** central — "I want to help Bal overcome this hatred"; followers as expendable; the world that amputates feared infants.
-**Character chaos:** Mrs. Brown's frozen-desk obsession; Bal's wrong-register *laugh* (failed management) when she says "half measures."
-**Beat subversion:** Genre beat = "wise authority figure delivers exposition / blessing." Subversion = the exposition is *grief* — her help is a private vendetta against the system that killed her husband, not benevolence; she laughs before she mourns.
-**Anchor / surprise:** ★ "he ended up getting shot coming home from work." Surprise: she laughs first.
-**Identity effect:** the feared boy is *chosen* by an adult who knows the cost.
-**Hook / ending pull:** Verin comes at dawn; the school plane awaits.
-**Writer warnings:** this is the source's strongest thematic texture — preserve its spirit, dramatize don't summarize. No "look on her face." Word count: **3,800**.
+**Source:** [pp.~11–16] L164–257.
+**Scenes, in source order:**
+1. The front hall (grey walls, echoing white tiles); Mrs. Brown introduced through Bal's view of her
+   (forties, grey skirt, white blouse, bun; strict, and the one adult he can go to when he has really
+   messed up); the five wooden chairs; "What are we doing?"; the orientation class in two weeks.
+2. The spare office, the one photograph of her dead husband; Bal summarizes hand and goddess; her
+   goldfish mouth; "Well then."; her laugh, "You just don't do anything by half measures, do you?";
+   the claiming rules (stand for blood sygls, originator acknowledges); "The only reason they have not
+   outlawed blood sygls from attending is that they want to be seen as fair"; Amelia: "they knew they
+   could not win in a straight up fight with me … time they see what a true blood mage can do";
+   supplies provided.
+3. Amelia's question, and **the husband's story as the source tells it**: a weak affinity that
+   surfaced in his thirties was **Blood**; the factory fired him so it would not be "seen as a blood
+   mage supporter"; he took what work he could; he was shot coming home one day; she has suspicions;
+   "So I want to help Bal overcome this hatred if I can." Bal clenches his new hand; Amelia covers it:
+   "Don't worry, they can't do it again." Bal trusts her.
+4. Instructions (pack; the school will be told he has a familiar, not who).
+5. Packing: the few things he wants (books, the birthday compass, pocketknife, the rune engraving kit
+   bought with kitchen wages); Fredrick's books kept because Fredrick was a friend; Amelia on his bed
+   with a first-year book ("Oh so you're an overachiever huh?"); "I like to read."
+6. Her warning that the other originators will not like him at school ("They can not interfere with
+   you directly but others can"); **why she was locked away**: blood mages can alter sygls (never
+   without the person wanting it); Raizen had a follower kidnap and torture one of her high priests;
+   a high priest had gone on a converting crusade without her knowledge; the others didn't believe
+   her; "To be fair, if I had known I would have been okay with it"; converts keep their inherited
+   gifts ("you'll find out at the ceremony"); off to find normal food.
+**Structure:** two movements, the office and Bal's room.
+**Opening:** the echo of their steps in the front hall after the bright yard.
+**Anchor:** the single photograph; "they can't do it again."
+**Notes:** Mrs. Brown has no invented habits. Her grief shows in where her eyes go and how briefly
+she tells it. Let her laugh land before the story.
+**Hook:** the inherited-gifts tease, and the morning departure.
+**Target:** 3,000.
 
 ## Chapter 5: Verin's Cottage
-**Function:** The portal/journey; first feeding as charged intimacy; Amelia's full backstory + her betrayal, delivered in scene/flashback shards (not one block).
-**Source:** [pp.17–25] (Verin, the portal, the dark forest, the cottage, uniforms, the feeding, the 3,000-year/imprisonment story, vampire origin).
-**Opening strategy:** chronological → fragmented (flashback shards inside the feeding).
-**Scenes to dramatize:** Verin's grandfatherly menace-free competence; the dark, silent forest ride (mood + the hand-hold); the cottage; **the first feeding** played as intimacy-over-small-talk (Bal narrating his school excitement while she drinks); Amelia's imprisonment told in fragments triggered by the night sky — the eight high priests, the gifted temple, Naisura's stone-crafter, the betrayal; her vampire origin (turned at sixteen, the killed farmer).
-**Key beats:** 1) Portal + forest ride. 2) The feeding. 3) Betrayal backstory in shards; "almost 3,000 years."
-**Progressive structure:** deepens Amelia from Ch.2's tease into a wound; opens toward the public reveal of Ch.6.
-**Theme presence:** central — trust as the thing that got her caged; "they chose their path."
-**Character chaos:** Amelia's single bloody tear (wrong-scale management); Peter-memory motif can first flicker here; Bal's irrelevant school-chatter during a wound.
-**Beat subversion:** Genre beat = "tragic-backstory infodump by firelight." Subversion = the backstory arrives *out of order, in sensory fragments*, interrupted by feeding and small talk, so the reader assembles it the way memory leaks — and the betrayal lands as her own admitted *stupidity* and misplaced trust, not pure villainy.
-**Anchor / surprise:** the bloody tear wiped away; small talk over the bite. Surprise: a feeding scene played as cozy domesticity.
-**Hook / ending pull:** tomorrow she reveals herself to the gods who buried her.
-**Writer warnings:** do NOT dump the backstory in one paragraph (the source's habit); shard it. Feeding stays fade-to-black-adjacent in intimacy. Word count: **4,000**.
+**Source:** [pp.17–25] L259–284 (to "eager for the new day").
+**Scenes:** six a.m., a blueberry muffin; Verin (faded, well-kept red robes, kind blue eyes, calls her
+"Sarah"); the hidden familiar brand ("Familiars can choose whether or not to show the brand");
+Mrs. Brown's hug; Amelia promising to keep him out of trouble with crossed fingers behind her back;
+the portal (twelve by eight) onto a buggy in a dark forest; the diverting enchantment around the
+school (originators excepted); the silent ten-mile ride; Bal takes her hand and she keeps it; the
+cottage, the burning fire pit, Thistle the horse; uniforms ("your sygl will appear on your clothes");
+**"Can I feed from you?"** and his easy yes ("Nah, just makes you more interesting"); her shy hug;
+her excitement about the school she helped build; "You."; Verin's briefing on the ceremony; washing
+bowls at the trough; the night sky; **"Almost 3000 years"**; the betrayal: Naisura's high priest, a
+stone crafter, built her a temple as a peace offering; immortals can be trapped only in their own
+places of power; eight high priests gave their lives; the single blood tear he wipes away; "They
+chose their path"; his offer to release her; "Who else can teach you blood magic?" (tongue out, once);
+the feeding at his wrist: his **unusually high pain tolerance**, the sucking sounds, Bal talking on
+about school and the labouring life he'd expected; the punctures closing under her tongue.
+**Structure:** journey into night, then a still bench.
+**Opening:** Mrs. Brown's knock at six.
+**Anchor:** small talk over a bite; the wiped tear.
+**Hook:** tomorrow the gods.
+**Target:** 3,500.
 
 ## Chapter 6: The Claiming
-**Function:** The set-piece the source skipped ("Bal stopped paying attention"); the public reveal; Amelia claims Bal as High Priest.
-**Source:** [pp.25–31] (the school's first sight, the courtyard, the four originators, Aren's speech, the empty throne, Amelia's reveal/clap, High Priest naming, the dorm corridor).
-**Opening strategy:** set-piece dread (collage: arrival, crowd, the gods).
-**Scenes to dramatize:** the castle/towers reveal; the crowd of ~50 students grouping by sygil; the originators arriving in a flash (Aren/Nera, Kenmei, Naisura, Raizen — fix any "Waisura"); the long claiming as *dread* (Bal and Amelia the last two standing); the **empty throne**; Amelia's disguise dropping, the **clap** that makes gods stumble; "Balthazaar Norheart I formally claim you… I also name you my High Priest"; the threat to the others; the descent to the dorm with the High-Priest-protection explanation.
-**Key beats:** 1) Arrival + the gods. 2) The exclusion ("you've come so far for nothing"). 3) ★ The reveal and the High Priest claim.
-**Progressive structure:** pays off Ch.5's promise; opens the dorm/plan of Ch.7.
-**Theme presence:** central — the gods' theater of "caring"; Bal newly inside the game he watched from outside.
-**Character chaos:** Bal drifting to the **softball game** memory mid-ceremony (unprompted-memory motif).
-**Beat subversion:** Genre beat = "hero publicly humiliated, then triumphantly revealed." Subversion = the triumph belongs to *Amelia*, not Bal; he's a spectator to his own elevation, and her power makes the gods *afraid*, turning a wish-fulfilment beat faintly ominous — Bal notices he likes being feared-by-association, and it unsettles him.
-**Anchor / surprise:** the empty throne; the clap. Surprise: Bal's mind wandering to childhood softball amid godly spectacle.
-**Hook / ending pull:** the dorm that grows rooms; "if you figure out secrets I'll reward you."
-**Writer warnings:** decelerate for the set-piece; do not compress the ceremony as the source did. Keep originator descriptions concrete, not authoritative info-dump. Word count: **4,200**.
+**Source:** [pp.25–31] L286–303 (to Bal accepting the High-Priest reasoning).
+**Scenes:** carriages joining the road; a buggy ahead with two boys and an older Tempus girl whose
+sweater-sygl sparks; the Heir's School of Magykal Artes (castle, five towers, wall, raised iron gate);
+the stage with blue-veined marble thrones and gold sygls; Verin's goodbye; the crowd sorting itself
+by sygl; "it keeps the thought that the originators care about you alive"; the gong; the flash;
+Aren (old man by day, Nera by night), Kenmei, Naisura, Raizen; the empty far-right throne; Aren's
+speech; the long claiming of about fifty; "You okay?" / "About three thousand years right?"; the last
+two standing; "Young man, come closer"; "you've come so far for nothing"; "But what if she did claim
+us?"; the clap that makes Aren stumble; the disguise only Bal could see through; "Balthazaar Norheart
+I formally claim you. I also name you my High Priest … Let the first one harm him at their peril";
+the originators may not return to their domains until the things that need saying are said; the
+students' stares; the corridor; "the angry vampire Goddess was a good look on you"; "There are other
+ways to get revenge"; the High Priest title as protection (originators may not interfere with a
+High Priest; she can back him all the way).
+**Structure:** ceremony set-piece, decelerated.
+**Opening:** the first carriages on the road.
+**Anchor:** the empty throne; the clap.
+**Hook:** "We'll talk more about it tonight."
+**Target:** 2,800.
 
 ## Chapter 7: The Blood Dorm
-**Function:** Dorm wonder; plant the war/revenge/conversion plan with real tension — Bal's first unease at being used.
-**Source:** [pp.31–34, 41–43] (dorm mechanics, the room-growing, the library shelves, the "you like secrets" reward, Amelia's history of becoming an originator, what she'll do while he's in class).
-**Opening strategy:** chronological wonder.
-**Scenes to dramatize:** the dorm exploration (the room-growing magic, the empty library that aches to be filled); Amelia's how-I-became-an-originator history given as a *quiet two-person scene*, including how she "wiped out half a battlefield" and why the gods fear/avoid her; **the seed of the plan** — revenge on her family, the curfew exemption, "make friends if you can"; Bal's private unease that he's a tool and *likes* it.
-**Key beats:** 1) Dorm wonder. 2) Amelia's origin + why she's feared. 3) Plant the revenge/conversion idea; Bal's unease.
-**Progressive structure:** turns the High-Priest reveal into a *mission*; opens toward meeting Viridia (Ch.8).
-**Theme presence:** present — used vs chosen; Bal interrogates his own gratitude.
-**Character chaos:** Bal juggling/over-responsibility; he reframes his unease as duty.
-**Beat subversion:** Genre beat = "cozy new-home / friendly-mentor bonding." Subversion = under the warmth, the chapter quietly arms a revenge plan and lets Bal notice he's becoming an instrument — the comfort is laced with the book's central doubt.
-**Anchor / surprise:** the dorm growing rooms; empty shelves. Surprise: Bal's first private flinch at his own complicity, expressed by juggling instead of confronting it.
-**Hook / ending pull:** Amelia vanishes to "deal with the family"; Bal goes to find dinner — and the school.
-**Writer warnings:** don't let the plan be stated as theme; make it *pressure*. Vary "firelight" usage — it is rationed. Word count: **3,000**.
+**Source:** [pp.31–38] L304–325 (to Amelia's "I like her too").
+**Scenes:** the pedestal that draws blood from **his palm** to draw the sygl; the sliding wall; the dorm
+with no set rooms; Lead Mage and High Priest are both him; "official stuff before I have to go and
+deal with the family" (four classes, curfew exemption, library on the second floor, make friends if
+you can, "you like secrets right? … I'll reward you"; call her by pushing magyk into the sygl); the
+bedroom twice his old room; thinking rooms into being (kitchen, library with empty shelves, dining
+room; kitchen and dining combined; made permanent); hunger; the courtyard grouped by sygl; **Viridia**
+("Hey you're that Blood guy right?"): pale blue crackling hair, the inheritance trait, "No one rolling
+out the red carpet for you yet?"; kids with an inheritance are the elite; the originators "are people
+just like us"; "I'm not like most people" (once, as the source has it); the dining hall's sygl
+tables; she sits at his; ordering on paper (pepperoni pizza; her burger); the forest familiar rule;
+"You've already got a familiar"; Amelia pops in, the choking; the brand under her bangs; "what could
+he have that you'd want?"; "Don't ruin the good impression"; **"You'd be surprised"** (kept here, at
+the pizza scene); "a beautiful vampire familiar" / "You think I'm beautiful?" / "I'd die to have skin
+like yours"; **"Okay you can keep her"**; hostile stares on the walk back; "I like her too."
+**Structure:** exploration, then a meeting.
+**Opening:** the prick of the pedestal on his palm.
+**Anchor:** rooms appearing on a thought; "you can keep her."
+**Hook:** "She'd do well in the Blood sygl."
+**Target:** 3,200.
 
-## Chapter 8: Viridia
-**Function:** Introduce Viridia with a voice sharply distinct from Lora; establish storm-inheritance visually; "you can keep her."
-**Source:** [pp.34–38] (dining hall, Viridia's meet, the pizza, the desk-summon preview, "you can keep her").
-**Opening strategy:** single-scene meet (the dining hall).
-**Scenes to dramatize:** the courtyard/dining-hall social map (sygil tables); Viridia's **crackling blue hair** and dry irreverence; the meal-ordering magic (texture); her needling Bal; Amelia popping in to scare her mid-bite; "I'd die to have skin like yours" → Amelia's "okay, you can keep her."
-**Key beats:** 1) Viridia approaches the outsider. 2) The familiar preview (Amelia pops in). 3) "You can keep her."
-**Progressive structure:** first of the trio; opens toward the bloodwolf bond (Ch.10) and the convert-Viridia plan.
-**Theme presence:** present — Viridia, like Bal, refuses the gods' game; kinship of the un-owned.
-**Character chaos:** Viridia's jewelry-window obsession can first surface (a stall on the way); her all-or-nothing freedom distortion.
-**Beat subversion:** Genre beat = "love-interest introduced with awe / instant chemistry to the hero." Subversion = Viridia is drawn to *Amelia* as much as Bal, deadpans through the goddess reveal, and the romantic frame is immediately a *trio*, not a dyad — and Amelia's "you can keep her" reframes attraction as Amelia's curation.
-**Anchor / surprise:** "you can keep her." Surprise: Amelia adopting Viridia faster than Bal does — ownership disguised as approval.
-**Hook / ending pull:** Amelia's later hint — "she'd do well in the Blood sygl. Too bad she's a Tempus."
-**Writer warnings:** **this is the voice-differentiation chapter.** Every Viridia line must fail-the-Lora-test (no hedging, all needle). Word count: **3,400**.
+## Chapter 8: Too Bad She's a Tempus
+**Source:** [pp.38–43] L325–340 (to "Bal then headed off to bed.").
+**Scenes:** the couch talk: "Too bad she's a Tempus." / "Yeah, too bad."; **the conversion proposal
+comes now, after Viridia has appeared**: imagine Raizen's face if his rarest inheritance came to the
+Blood; Bal checks she is sure ("I'll be doing the thing your family locked you away for"); "she's
+also really pretty … I was looking myself"; the mechanics (only the High Priest; cut both left palms,
+mingle, send his blood in until the sygl on the palm changes); she admits that was the other reason
+for the title; "I don't mind doing these things for you"; the class schedule (Familiar, Rune working,
+lunch, Warfare, Crafting); the evening of getting to know each other; **Amelia's origin**, told by
+her: turned at sixteen, left on a road; killing the farmer who found her in her first blood-hunger;
+the threshold to immortality by consuming magical energy; teleported to a stone temple among the
+others; Aren's explanation; followers' palms and the energy that sustains her; staying out of their
+wars until she wiped out half a battlefield; why they fear her (she will not play their game);
+"You're the first person I've told my full story to"; her plans to visit followers on the home
+plane; "Out of all the sygls I could have had, I'm glad I ended up with yours."
+**Structure:** one night conversation; her history as her own telling, not a flashback.
+**Opening:** her feet on the coffee table.
+**Anchor:** the fire and her face when he says he's glad.
+**Hook:** the bell at morning.
+**Target:** 2,400.
+
+## PART TWO — THE SCHOOL
 
 ## Chapter 9: The Familiar Class
-**Function:** Comedy + menace set-piece; the school turns hostile; Amelia summoned onto the desk.
-**Source:** [pp.43–48] (Mr. Porter, the bonding lesson, the desk-summon, Porter's terror, library research seeded).
-**Opening strategy:** comedic cold-open (Porter feeding cheese to his raven Huginn).
-**Scenes to dramatize:** Porter's lecture on familiars (the "balance" rule, the bonding rings, students who died in the forest); Bal's setup question; **Amelia cross-legged on the desk — "You called, Master?"**; Porter's pale terror played for comedy that flips to lethal threat ("Think your next words through very carefully"); Bal defusing by dropping the honorific; Porter excusing him; Bal heading to the library.
-**Key beats:** 1) Porter's class + the trap question. 2) The desk-summon and Porter's near-death. 3) Bal's de-escalation; library next.
-**Progressive structure:** builds the school's hostility from Ch.8; opens the research thread (Ch.10) and the convert-Viridia setup.
-**Theme presence:** present — the institution's contempt for blood mages, embodied.
-**Character chaos:** Bal's de-escalation reflex (he saves Porter from Amelia); Amelia's playful→cold pivot at full strength.
-**Beat subversion:** Genre beat = "arrogant teacher humiliates the special student." Subversion = Bal *out-powers* the humiliation instantly, then the real tension is whether he can stop Amelia from *killing* the teacher — the hero spends the scene protecting his bully.
-**Anchor / surprise:** "You called, Master?" + Porter sweating. Surprise: a comic beat one sentence from a death.
-**Shareable moment:** the desk-summon ("his familiar is a vampire goddess who calls him Master").
-**Hook / ending pull:** the library and Bal's quiet decision to research how to *help* Amelia's revenge.
-**Writer warnings:** keep the comedy and the menace in one breath (Amelia's signature). No "grins" as tags. Word count: **3,400**.
+**Source:** [pp.43–50] L341–362 (to "Bal was almost glad when it became time for lunch.").
+**Scenes:** breakfast with Viridia; same classes except runes; "I prefer handling my own problems";
+the classroom with its door to the forest; Mr. Porter feeding cheese to Huginn; the lecture (company,
+carrying load, messages, saved his life twice); no leaving the forest until bonded; balance; the
+silver bonding rings; "Students have died in there"; Bal's question; Porter's anger ("a rodent
+perhaps? or a toad?"); Bal's laugh; the summon: Amelia cross-legged on his desk, **"You called,
+Master?"**; Viridia doubled over; "Are you implying that I need permission from you?"; "Think your next
+words through very carefully"; Bal steps in without an honorific; "Okay master!"; the class sent out;
+Porter's excusal; the library (second floor, right, second door left); his plan to research how to
+help her revenge; the Naisura–Kenmei war and the command tent buried in stone; very little on Amelia;
+the gods treat followers as pieces on a board; Bal, who had looked up to the originators, feels sick;
+asks the librarian to set books aside; the detour for his rune kit; **Mr. Winters' rune class**
+(skinny, short; copying unknown runes from the chalkboard; praised for his **avoidance rune**,
+essential for night travel in unfriendly territory); Bal enjoys the runes.
+**Structure:** comic set-piece, then a quiet library-and-runes coda.
+**Opening:** Huginn and the cheese.
+**Anchor:** the goddess on the desk; Porter's face.
+**Hook:** lunch, and Viridia's familiar.
+**Target:** 3,000.
 
-## Chapter 10: The Bloodwolf
-**Function:** Viridia bonds Hopper via the mother-tie loophole (dramatize what the source reports second-hand); Bal's library research given stakes.
-**Source:** [pp.36–37 (Hopper, reported), 48–49 (library/originator law), 50 (the bloodwolf retold over lunch)].
-**Opening strategy:** nested flashback — Bal's library research framing, then Viridia's cave/bond *dramatized* (not retold over lunch).
-**Scenes to dramatize:** Bal in the library reading the Naisura-vs-Kenmei war (the command-tent entombment), realizing the gods treat followers as game pieces — his admiration curdling; **the bloodwolf bond played as scene** (Amelia leading Viridia to the mountain cave; Hopper; the terms — bloody meat + proximity to Amelia, who is the wolves' "mother"); the quiet cruelty Bal registers — Amelia has *tied Viridia to them* without Viridia knowing.
-**Key beats:** 1) Library: the gods as players; Bal's disillusion. 2) The cave bond. 3) Bal recognizing the tether.
-**Progressive structure:** arms the convert-Viridia plan; opens toward meeting Lora (Ch.11).
-**Theme presence:** central — tenderness as a leash; is choosing free if you don't see the strings?
-**Character chaos:** Amelia's "you'd be surprised" murmur (RE-READ plant) when Viridia asks what a mortal could offer a goddess; Hopper refuses to swim (mini chaos).
-**Beat subversion:** Genre beat = "hero/companion bonds a cool magical pet." Subversion = the bond is a *trap of affection* — engineered by Amelia to bind Viridia to the Blood — and the warmest scene in the chapter is the most calculating.
-**Anchor / surprise:** Hopper emerging from the cave. Surprise: the loving bond revealed as strategy.
-**Hook / ending pull:** Warfare class tomorrow — and a shy girl with a rapier.
-**Writer warnings:** convert the source's "Viridia grins and explains what happened" summary into a real scene. Differentiate Thad/Xavier when library law is discussed if they appear. Word count: **3,400**.
+## Chapter 10: Hopper and the Rapier
+**Source:** [pp.50–55] L362–392.
+**Scenes:** lunch (nuggets and fries for both); what the class is saying; "I do think Lady Amelia is
+the coolest though"; bloodwolves from a bestiary; **the bond as Viridia tells it** (reported, as the
+source does): Amelia appearing behind her, the walk, "show up the rest of the class," the ring, the
+mountain cave, the young wolf, Hopper's terms (bloody meat and the chance to be near Amelia); the
+bloodwolves are partly Amelia's creation and look on her as a mother; Bal's private, admiring note
+that Amelia has tied Viridia to them for now without Viridia realizing (impressed, warm, not sinister);
+the Tempus classmate's comment; Raizen pays no attention to his followers; "At least your originator
+talks to you … Unless someone disrespects you anyway"; "I think she's protective. It's sweet."
+Warfare: the training grounds; a young man like Naisura's son at sword forms; Zoran ("Take the one that
+speaks to you"); **Lora** at the rack (shy, brown hair, glasses sliding down, freckles, Kenmei sygl,
+brave enough to come near him); the great axe set back; her rapier exercise and Bal copying it (four
+and a half feet, light, quick); trained by her father who served in Kenmei's army; partners; guard and
+parry forms with Lora attacking slowly; she prefers books to people; the invitation to sit with them,
+"I'll think about it"; Viridia's spear and the Terra boy.
+**Structure:** a told tale over lunch, then the training ground.
+**Opening:** Viridia salting her nuggets.
+**Anchor:** the rapier finding his hand; "I'll think about it."
+**Hook:** Amelia waiting on the edge of the stage in a school uniform.
+**Target:** 2,400.
 
-## Chapter 11: Lora
-**Function:** Introduce Lora through how she *fights* and apologizes; the third of the trio; voice template made explicit.
-**Source:** [pp.50–52] (Warfare class, Zoran, weapon choosing, Lora Aegis, the rapier, her tournament backstory hinted).
-**Opening strategy:** single-scene through-action (the weapon racks → sparring).
-**Scenes to dramatize:** Zoran's "take the one that speaks to you"; Bal hefting the great axe (wrong), copying Lora's rapier (right); **Lora introduced via motion** — the prodigy who moves like the blade is part of her; her shy father-trained backstory surfacing through *how* she corrects Bal; the invitation to sit with them, which she defers ("I'll think about it").
-**Key beats:** 1) Weapon choosing. 2) Sparring; Bal copies Lora; her skill vs her shyness. 3) The deferred invitation.
-**Progressive structure:** completes the trio; opens toward the New Spring day (Ch.12).
-**Theme presence:** present — Lora's mockery-wound mirrors the book's outsiders; belonging she won't let herself want.
-**Character chaos:** Lora's hedging + craft-fluency contrast; her tournament memory souring praise; the catastrophizing "I need to study more."
-**Beat subversion:** Genre beat = "shy bookish girl needs rescuing / is non-combatant." Subversion = she is by far the *most lethal* of the trio and the calmest about killing, hidden behind apology and glasses sliding down her nose.
-**Anchor / surprise:** the rapier as extension of self; "I beat them. Every single one." Surprise: the deadliest character introduced through apology.
-**Hook / ending pull:** a free day tomorrow — the village, the Dawn faction, the team.
-**Writer warnings:** Lora must read as the inverse of Viridia (hedge vs needle). Don't overuse "tucks hair behind ear." Word count: **3,400**.
+## Chapter 11: Break Their Toys
+**Source:** [pp.~55–64] L394–539 (to "Lets get back.").
+**Scenes:** Amelia in uniform (short black skirt, black and red socks) and both of them staring;
+"I'm going to have to steal him for a while"; Viridia's skirt, Amelia watching him watch; teleport to a
+hill above **Raizen's army** at drill; she has found two armies (Raizen's, Naisura's, the latter still
+licking wounds from going after Nera); "He doesn't already know we're trying to steal Viridia?"; the
+ranking of their wars; the burden of dealing with her fell to Raizen; "They do not share"; Bal will
+not step aside while innocents die for the gods' amusement; **"We play their game and break their
+toys."**; the hidden temple and **Peter** (lone blood sygl in a Terra stone-working family, shunned at
+sixteen, twelve years laying every stone, the final dedication on her altar so he could live with her
+forever); offerings of blood carry recent memories to her; all of Peter's are still with her; Bal
+hugs her; she is grateful he treats her as a friend; his role (High Priests lead under the
+originators; she cannot interfere, so everything goes through Bal); "You do know I'm only sixteen
+right?" / "I expect them to listen to their High Priest. If they do not it will be handled." and Bal's
+note to resolve things before she kills anyone; a week of moving followers and supplies; teleport to
+the canyon temple (one pass, rooms for hundreds, two High Priest quarters); she has promoted two
+priests; the **High Priest ring** (white, ruby eye; "It also enables you to do various other things");
+**Thad Moren** (slight, black ponytail, pale, sharp nose) and **Xavier Giles** (broad, weapon scars on
+his hands, tan, clear blue eyes), surprised at his age; spread the truth that she did not abandon them;
+train to strike Raizen, who is already training; the hidden temple's surprise; the paired rune stone
+(light and pair). Back in the bedroom: Amelia reading **Viridia's diary** ("she does say some interesting
+things about you"); "Do you have a diary?" / "Maybe. You'll never find it though."; Bal resolving to
+find it; "You know you can eat with us right?" / "Just give me a little time."
+**Structure:** a chain of revelations across three places (hill, temple, bedroom).
+**Opening:** the uniform.
+**Anchor:** Peter's twelve years; "break their toys."
+**Hook:** dinner, and Viridia.
+**Target:** 3,800.
 
-## Chapter 12: New Spring (theme RECEDES)
-**Function:** The trio dynamic crystallizes; the Dawn faction; team "Sygls Best"; the diary tease. A breathing chapter of ordinary joy.
-**Source:** [pp.59–80] (the walk to New Spring, shops, the bookstore overheard backstories, the Dawn Hall, the cards, "Sygls Best," the aurora-felis job chosen).
-**Opening strategy:** episodic walk (vignette chain — the five-mile road, the market, the bookstore, the hall).
-**Scenes to dramatize:** the market day (enchanted-weapon vendor, food stalls, Viridia's jewelry-window obsession, Bal secretly buying Lora's alchemy book and Viridia's earth-ring); **the bookstore** where Bal overhears Lora's and Viridia's backstories (mockery; arranged marriage) — keep this, but make it a *scene* he's caught inside; the Dawn Hall, Soren, the team-vs-individual rules; "Sygls Best"; Bal quietly making a fourth card for "Amelia Norheart"; choosing the aurora-felis job; the curfew/Lead-Mage gag.
-**Key beats:** 1) The market + secret gifts. 2) Dawn enrollment + team name. 3) The fourth card made; the job chosen.
-**Progressive structure:** transforms three classmates into a *team*; opens directly into the gift payoff (Ch.13).
-**Theme presence:** **RECEDES** — let warmth, banter, and pleasure carry; theme returns harder next chapter.
-**Character chaos:** Viridia's jewelry windows; Lora's catastrophizing about joining; Bal's finish-the-appendix obsession at the bookstore.
-**Beat subversion:** Genre beat = "fun shopping/team-formation montage." Subversion = the lightest chapter quietly arms the book's biggest emotional payoff (the secret fourth card) and the war (the job that leads to first blood) — joy as fuse.
-**Anchor / surprise:** the engraved wooden cards; "Sygls Best." Surprise: pure ordinary happiness with no menace.
-**Shareable moment:** the secret fourth card with Amelia's chosen surname (sets up Ch.13).
-**Hook / ending pull:** they return to the dorm — and Bal has three gifts to give.
-**Writer warnings:** convert the overheard-backstory summary into a scene; do not let the whole chapter resonate thematically — leave texture. Word count: **4,000**.
+## Chapter 12: I Like You Too
+**Source:** [pp.~64–67] L541–593.
+**Scenes:** Lora alone at the Waves table, her shy smile; "That's someone else who needs a little
+time"; breakfast for dinner; Viridia offered again and Lora refused; sitting at the Blood table would
+make her a target; "The others haven't tried anything with you?" (snide comments; Tempus students not
+talking to her; others asking about Bal because of his access to his originator, and afraid to annoy
+Amelia); "I'm trying to get Amelia to start eating with us"; the diary warning; Viridia choking; "How do
+you know it was mine?"; "You are really cute when you blush"; **"And Viridia? I like you too."**; the
+dropped fork; "That was still mean"; "I'll find some way to make it up to you" / "You better," her hand
+still in his.
+**Structure:** one short dinner scene.
+**Opening:** Lora glancing up as he comes in.
+**Anchor:** the dropped fork.
+**Hook:** banging on the dorm wall at dawn.
+**Target:** 1,500.
 
-## Chapter 13: The Card
-**Function:** The book's emotional peak — Amelia's "Norheart" card and bloody tears. Preserve almost verbatim in spirit.
-**Source:** [pp.81–85] (the dorm gifts; Lora's alchemy book; Viridia's ring; Amelia's card; the tears; "you belong here, with us"; the kiss; the stained shirt).
-**Opening strategy:** quiet single-scene gift (deliberately low-key after the busy Ch.12).
-**Scenes to dramatize:** Bal revealing to the girls why Amelia was caged (so they treat her as human); the gifts in order — Lora's book (her unshed tears), Viridia's ring; **the card turned to read "Amelia Norheart,"** Amelia going still "like stone," then sobbing into him, the **bloody tears staining his shirt like a wound**; "You belong here, with us"; her kiss, "You are a good man"; "I'm sorry about your shirt."
-**Key beats:** 1) Bal's plea for the girls to see Amelia as a person. 2) The book + the ring. 3) ★ The card; the tears; belonging.
-**Progressive structure:** pays off the secret card from Ch.12; opens toward the war's shape (Ch.14).
-**Theme presence:** central — being chosen for yourself; "I don't want you here for what you can do."
-**Character chaos:** Lora's tears-at-kindness she can't speak through; Amelia's wrong-scale weeping (a wooden card undoes a goddess).
-**Beat subversion:** Genre beat = "hero gives girlfriends gifts; harem warms to him." Subversion = the gift that detonates is a *worthless wooden card with a surname* — the cheapest object means the most, and the immortal goddess, not the mortal girls, is the one shattered by it.
-**Anchor / surprise:** ★ "Amelia Norheart"; bloody tears on his shirt. Surprise: he *apologizes for not buying her a gift first* — the card is the gift.
-**Shareable moment:** the card and the bloody tears (the book's heart).
-**Identity effect:** *you belong here* — the reader is chosen, not used.
-**Hook / ending pull:** the easy night ends; the war and the school rule are closing in.
-**Writer warnings:** do not over-write this; the source's restraint is its power. Protect the anchor. Fade-to-black on the night's end. Word count: **3,200**.
+## Chapter 13: New Spring
+**Source:** [pp.~67–80] L595–691 (to leaving the Dawn Hall for the walk home).
+**Scenes:** the banging; Viridia and Lora in village clothes; Bal in his boxers; Amelia asleep in his bed;
+"It must get lonely in here"; teachers pulled by the originators, a free day; the note he leaves Amelia
+because he wants her to know he cares; the five-mile walk; Lora's **Dawn faction** (team cards, ranks,
+rare spellbooks), "I need to study more"; New Spring's square; the meat rolls he buys all three; the
+enchanted-weapon vendor and the flaming longsword (Bal thinks runes could do it); Viridia's stops at
+jewelry; the familiar shop; Lora "doesn't do well with other people"; "You really are beautiful when you
+smile"; Viridia's size-adjustment **collar** for Hopper; the **earth ring** bought in secret; the bookstore:
+four battle histories and the alchemy book slipped into his pack; **overhearing** Lora and Viridia from
+the next aisle (Viridia's planned life and marriage and the sygl that freed her; Lora's rapier, the
+tournament at thirteen, "War was a man's game," "I beat them. Every single one," two years of training
+by day and reading by night); the dropped book; "You don't have to be afraid of me. I promise I'm not
+like anyone else you've known."; the Dawn Hall, Soren and Kim; team rules; "I'd like to enroll as a team";
+"That's what friends are for"; **"Sygls Best"**; Bal's hand squeeze, "You did good"; the fourth card,
+**"Amelia Norheart,"** Soren's raised eyebrow; Lora's joy at her name; Viridia on curfew, the first-year
+Lead Mage of a one-mage sygl; the Tempus Lead Mage's no-kissing rule and five demerits; "I promise you can
+kiss anytime you want in my dorm. As long as it's me." / "What if I wanted to kiss Amelia instead?"; the
+aurora felis job (three flowers, deep woods, an older alchemist too unwell to go); "You're the leader."
+**Structure:** episodic walk, vignette to vignette.
+**Opening:** the wall shaking.
+**Anchor:** the engraved wooden cards.
+**Hook:** the card in his pocket.
+**Target:** 5,000.
 
-## Chapter 14: The Hidden Temple
-**Function:** Meet Thad & Xavier; the Blood army made real; Peter's tragic dedication; the shape of the coming war.
-**Source:** [pp.49 partial, 105–108 partial — relocate here for structure; primarily the hidden-temple intro and Peter's story (pp.~106), the priests Thad/Xavier (pp.~128), the war rules]. Drawn from the army/temple material around [pp.106–109, 127–129].
-**Opening strategy:** essayistic-on-Peter + scene (Bal touring the canyon temple).
-**Scenes to dramatize:** Amelia teleporting Bal to the massive canyon temple one man built; **Peter's story** — the shunned blood-born son of a Terra stone family, twelve years of solitary labor, his self-sacrifice on the altar so he could "live with her forever," his whole life still inside Amelia; meeting **Thad Moren** (anxious, tallying) and **Xavier Giles** (scarred, level) — differentiate them; the High-Priest ring; the war rules (no new priests once declared; war ends when priests/High Priest die; one concession to the victor); naming a few soldiers so the army isn't a function.
-**Key beats:** 1) The temple + Peter's life/death. 2) Meeting the priests; the ring. 3) The war's rules and stakes.
-**Progressive structure:** turns the abstract "revenge" into an army and a clock; opens toward first blood (Ch.15).
-**Theme presence:** central — Peter mirrors Amelia (exiled, devoted, immortalized in stone/blood); devotion vs being used.
-**Character chaos:** Amelia carrying *Peter's* memories (Peter-motif, RE-READ); Xavier sharpening a knife he never uses; Thad's compulsive death-tally.
-**Beat subversion:** Genre beat = "general rallies his loyal army." Subversion = the army's foundation is a *suicide of devotion* (Peter), and Bal — sixteen — is unnerved that grown soldiers will die for a goddess and be glad; the rally is shadowed by what loyalty to a god costs.
-**Anchor / surprise:** Peter's twelve-year labor and altar death. Surprise: Bal hugs Amelia for *Peter's* grief, not the war.
-**Hook / ending pull:** the first Dawn job — and the road where the war first touches them.
-**Writer warnings:** dramatize Peter; don't let the war rules become an info-dump (parcel through the priests). Lock "Naisura." Word count: **3,800**.
+## Chapter 14: The Card
+**Source:** [pp.80–84] L691–703.
+**Scenes:** the walk back, Bal listening to Lora on her ancient-civilization book and Viridia genuinely
+engaged; two hours to the dorm; a second couch has appeared; Amelia with the diary (it vanishes when she
+sees Viridia); her hug; Lora's energy gone at meeting a goddess; Bal tells them why Amelia was caged and
+asks them to treat her like anyone else; her single blood tear; "She needs friends. So do I."; "I need
+friends too"; "They give gifts?"; Lora's alchemy book and her unshed tears; Viridia's ring on her middle
+finger; "I'm sorry I didn't buy you anything" and the sad look he almost misses; **the card turned over**;
+she goes still as stone; sobbing against him; **"You belong here, with us."**; her kiss; "You are a good
+man"; "I'm sorry about your shirt," the bloody tears that look like a wound; "It was worth it"; the curfew
+bell; the girls' thanks; bed (fade).
+**Structure:** a quiet single scene.
+**Opening:** Lora's voice on the road.
+**Anchor:** "Amelia Norheart"; the stained shirt.
+**Hook:** the next morning she is gone for the day.
+**Target:** 2,600.
 
-## Chapter 15: The Aurora Felis Job
-**Function:** First real combat; the bandits and the bear; Amelia's restraint dramatized as internal war; first blood; plant the heart ring.
-**Source:** [pp.88–104] (the job, the bandit ambush, the fight, Hopper, the bear, Amelia's restraint, the heart ring, the torn-dress beat).
-**Opening strategy:** extended battle set-piece (decelerated, choreographed).
-**Scenes to dramatize:** the trek (New Spring → Whitehaven → mountain pass → Saegen Woods); the **bandit ambush** choreographed with real danger (seven men, two crossbows; the earth-ring shake; Bal's rapier mobility; Hopper taking the bowmen; Lora dispatching three alone; the leader scoring two real wounds on Bal); **Amelia's restraint** as agony — "I think that was the hardest thing I've ever done"; the **heart ring** found on the leader (planted, unexplained); collecting the flowers; the **bear** (Amelia kills it in fury), her torn-dress embarrassment.
-**Key beats:** 1) The ambush + fight. 2) Amelia held back while Bal bleeds. 3) The bear; the heart-ring mystery.
-**Progressive structure:** the team's first test; opens the war-cost and the Iro thread (Ch.18) via the heart ring + "who sent them."
-**Theme presence:** present — Amelia's helplessness as a god who can't protect by the rules; Bal's "I'd rather it be me."
-**Character chaos:** Amelia's near-snap over Bal's wound (failed management at small scale); Lora muttering corrections mid-fight; Bal's over-responsibility ("I can't believe I was the only one hurt," framed as success).
-**Beat subversion:** Genre beat = "heroic first victory / power fantasy fight." Subversion = the *goddess* is the one who suffers most (forced to watch, not act), the hero is the only one wounded, and the chapter's tension is Amelia's restraint, not the outcome.
-**Anchor / surprise:** ★(adjacent) Amelia holding herself back. Surprise: the bear fight resolves in *embarrassment* over a torn dress, not triumph.
-**Hook / ending pull:** the heart ring nags at Bal — bandits don't wear those. (RE-READ thread.)
-**Writer warnings:** choreograph the fight; vary verbs (no "shrugged/nodded" filler in action). Build deceleration. Fade-to-black/discretion on the near-nudity beat. Word count: **4,200**.
+## Chapter 15: Rumors
+**Source:** [pp.85–88] L706–715 (to "they both fell asleep").
+**Scenes:** Amelia's kiss and departure; a day of make-up work; Lora sits at the Blood table under the
+whole hall's eyes; the card explained ("Look what her family did to her"); Viridia's rumor of a rule
+against mingling outside class; expulsion if it's a school rule; "There is something we could do but
+I'd rather wait"; the alchemy and herb room he added for Lora; Bal reading Raizen's wars while Viridia
+does runes homework; Raizen is training again, toward Amelia's followers; Viridia goes quiet; later,
+Amelia: "that rule sounds like something Kenmei would suggest"; Bal hopes not to have to convert them yet
+and does not want to lose either of them; **"Just do what you have to do. We will deal with whatever
+happens. Together."**
+**Structure:** a short bridge braiding two evenings.
+**Opening:** her kiss before she disappears.
+**Anchor:** the whole hall watching Lora sit down.
+**Hook:** Saturday, and the job.
+**Target:** 1,800.
 
-## Chapter 16: The Rule
-**Function:** The socialization edict; the choice; the conversion of Lora and Viridia given full weight; war declared.
-**Source:** [pp.85–88, 109–115] (the brewing rule, the warning, the conversion explanation, the cut-and-mingle, "I can feel you now," the priest-promotions, war declared on Raizen).
-**Opening strategy:** single-scene decision (the dorm, the night the rule lands).
-**Scenes to dramatize:** the school's edict (no cross-sygil socializing; release Hopper) arriving as a real threat; Bal's reluctance — the conversion is irreversible, and he privately fears he's *using their fear of expulsion*; the girls' deliberation (Lora's family of Waves; Viridia's near-marriage); **the conversion** played with body-weight and dread (the dagger, the mingled blood, the palms going white then blooming the Blood sygl); "I can feel you now"; Amelia promoting the girls to priests and **declaring war on Raizen**.
-**Key beats:** 1) The rule + the choice. 2) The conversion. 3) War declared.
-**Progressive structure:** the irreversible turn; opens the war proper (Ch.17).
-**Theme presence:** central — chosen vs coerced; is this Bal protecting them or recruiting them? DON'T resolve his doubt.
-**Character chaos:** Viridia's all-or-nothing freedom distortion (reads the rule as the village cage); Lora's "my family will stay by me"; Bal's private guilt expressed as flatness.
-**Beat subversion:** Genre beat = "lovers nobly choose to join the hero's cause." Subversion = the choice is made partly under *coercion* (convert or be expelled/lose Hopper), and the narrative refuses to absolve Bal — the romantic conversion is shadowed by the book's worst suspicion about him.
-**Anchor / surprise:** palms blooming the Blood sygl; "I can feel you now." Surprise: the joy of the bond undercut by Bal's unspoken fear he coerced them.
-**Hook / ending pull:** Amelia leaves to declare war; tomorrow the school learns the girls changed sygils.
-**Writer warnings:** dramatize the conversion's weight (irreversible, frightening); don't gloss the coercion — it's the empathy engine. Fade-to-black on the night after. Word count: **3,800**.
+## PART THREE — SYGLS BEST
 
-## Chapter 17: War Footing
-**Function:** Show Raizen's persecution campaign ON THE PAGE (the source reports it); the moral cost; planning the strike on the priests. The school confrontation with Sean as the chapter's spark.
-**Source:** [pp.105–109, 115–120] (Sean's confrontation, the blood-whip, Bal's speech, war's reality, Raizen's persecution propaganda, Fern, the priests' Londra meeting, planning).
-**Opening strategy:** parallel structure — a refugee family scene (POV-adjacent, on the road / in a border town) intercut with the war-room.
-**Scenes to dramatize:** the **Sean Kiin** dining-hall confrontation (the blood-whip, the girls' reveal of their palms, Bal's speech inviting the disaffected, war announced) — and Bal's **first murderous rage** that frightens *him*; **NEW SCENE WORK**: dramatize Raizen's persecution — a refugee family driven out, blood sygls on children's hands, beatings — so the war's human cost is *seen*, not reported; the war-room with Fern (the army can't win head-to-head; the priests meet monthly at Londra's Three Boars; the plan to strike the priests then Toma).
-**Key beats:** 1) Sean confrontation + Bal's rage + the public speech. 2) The refugee persecution, dramatized. 3) War-room planning the Londra strike.
-**Progressive structure:** the war becomes human and the plan concrete; opens the lake respite (Ch.18) before the road.
-**Theme presence:** central — the gods' game has a body count; Bal's righteousness *tested* (he can do nothing for the refugees; he wants to kill Sean).
-**Character chaos:** Bal's rage-break (cold-precise voice mode — "I'll call you out and I will kill you"; he notices Amelia is "rubbing off on" him); Sean straightening uniforms; Thad/Xavier interiority beats.
-**Beat subversion:** Genre beat = "hero's rousing speech rallies the oppressed." Subversion = the speech works *and* Bal's accompanying rage scares him (he nearly kills a boy over an insult), so the triumphant-leader beat is undercut by the hero's dawning fear of his own cruelty; and the persecution he rails against, he is powerless to stop.
-**Anchor / surprise:** the refugee father spitting in the dirt; children's blood sygls. Surprise: the all-powerful-feeling hero is utterly impotent here, and the chapter sits in it.
-**Hook / ending pull:** before the dangerous road, one stolen day at the lake.
-**Writer warnings:** this chapter must ADD a real scene (persecution), not report it. Keep the rage in the cold-precise register; don't editorialize it. Word count: **4,000**.
+## Chapter 16: Whitehaven Road
+**Source:** [pp.88–98] L715–745.
+**Scenes:** the week of homework and anticipation; Amelia nervous to come until both girls say she's part
+of the team; borrowed weapons (Bal's rapier, Viridia's spear, Lora's own never-dulling rapier from her
+father); "I am my own weapon"; Ms. Summers told; twenty miles via Whitehaven and a mountain pass to the
+Saegen Woods on a ley line; meat pies at Whitehaven; Hopper unshrunk at the town limit, ranging ahead;
+Lora's sick raven left at the castle; Hopper's growl; seven bandits (one older, in a pitted chain shirt
+with dried blood), two crossbows; "Your weapons if you please"; the earth ring shakes the ground;
+**the fight as Bal lives it**: circling the leader, parry and stab; glimpses of Hopper on the
+crossbowmen, Viridia losing her spear to the axeman and Hopper saving her, Lora alone with three; Amelia
+standing with clasped hands holding herself back; the gash across his back when he stumbles, Lora's
+offered help distracting him into the cut on his left forearm; "Do not interfere"; the leader's threat
+toward the girls; the rapier through the knee; Hopper finishes him; Lora's salve and bandages; Amelia:
+"I think that was the hardest thing I've ever done"; "I'd much rather I got hurt than any of you"; the
+**heart ring** on the leader's hand (paired rings that beat with the other wearer's heart; too
+expensive for a bandit); the camp by a buried fire pit; firewood with Viridia (her account of the fight,
+Lora "a menace," Amelia nearly having a heart attack, Lora muttering about his mistakes); the shared
+bedroll set out for him and Amelia; bread, jerky and cheese; Bal proposes **shirts with arrow-repelling
+runes** (one charge per rune, materials to buy); Lora drilling him on his mistakes; **Amelia's walk:
+"I feel useless"**, afraid for the first time that someone would die; Bal: "sometimes we have to fight our
+own battles … I don't want you here because of what you can do for me, I want you here because I like
+you … you can always jump in if you see one of us about to get killed"; Hopper on guard; her hand in his.
+**Structure:** road, battle, camp, night walk.
+**Opening:** Lora's excitement through the week.
+**Anchor:** Amelia holding herself still while he bleeds.
+**Hook:** the pass at morning.
+**Target:** 4,400.
 
-## Chapter 18: The Lake (respite → ambush)
-**Function:** Respite (theme RECEDES) snapping into violence; the strawberry ambush; Iro; "no one threatens my girls"; Bal's frightening rage as a developed thread; Amelia's god-prank revenge (rule lifted).
-**Source:** [pp.120–127] (the swim, the strawberry patch, Iro's ambush, the execution, Amelia's trip to the gods, the rule lifted, "good luck").
-**Opening strategy:** two-part — lazy respite, then ambush in medias res.
-**Scenes to dramatize:** the lake swim/doze (warmth, the trio + Amelia finally at ease — pay off Amelia's "give me a little time"); Bal foraging strawberries; **the Iro fight** (the woodsman assassin sent by Toma via the priests — connect to the Ch.15 heart-ring/"who sent them" thread); Bal's growing dread when Iro threatens the girls; **the cold execution of a kneeling, talking prisoner — "No one threatens my girls"** — and Bal's recognition that he *enjoyed* it; Amelia's solo trip to the gods (she confronts Raizen, gets the school rule lifted; Aren's "good luck").
-**Key beats:** 1) The respite (RECEDES). 2) The ambush + Iro's execution + Bal's rage. 3) Amelia's revenge-prank; the rule lifted.
-**Progressive structure:** pays off the assassin thread; arms the Londra mission; opens the road (Ch.19).
-**Theme presence:** **RECEDES** in part one; **snaps to center** in part two (how far past kindness will he go?).
-**Character chaos:** Bal's rage thread peaking (he'd "happily killed each priest with his bare hands"); Amelia's gleeful cruelty; Viridia's hair-still tell if threatened.
-**Beat subversion:** Genre beat = "hero spares / interrogates the beaten enemy, takes the moral high ground." Subversion = Bal executes Iro *after* getting the information, calmly, and likes it — the genre's mercy beat is refused, and the hero is more frightened of himself than of the assassin.
-**Anchor / surprise:** ★ "No one threatens my girls," to a headless corpse; strawberries in his ruined shirt. Surprise: a sunlit lazy day detonates into murder the hero enjoys.
-**Hook / ending pull:** the road to Londra and the heart of enemy territory.
-**Writer warnings:** the tonal whiplash (respite→murder) is the point; execute the shift cleanly. Keep the execution in cold-precise voice. Word count: **3,800**.
+## Chapter 17: Saegen Woods
+**Source:** [pp.99–105] L748–766.
+**Scenes:** the gravel-strewn pass; the river five hundred feet in; aurora felis lore from Lora's book
+(blood red and yellow, every three years, seventy-two hours, two potions as part payment); bright normal
+fish, and Amelia on how creatures grow by consuming magical energy; six flowers, three kept; Ms. Summers
+is lonely; "an alchemist is important"; the quiet; the bear slams him into a tree; Amelia kills it by the
+neck, furious; carried over the river; the vials safe in the side pocket; her torn dress (fade the detail
+to her embarrassment and flaming cheeks); Bal walks beside her in the pass and juggles stones; "You
+looked pretty angry" / "It had tried to run, but it didn't get far"; **the juggling talk as the real
+conversation it is**: "So you like to juggle huh?", her eyes going to the girls; "It's not something I
+planned on doing and if the ones being juggled had a problem I hope they would tell me … I would also hope
+that each one knows that they mean a lot to me and **I do not feel more strongly for one over the
+other**."; Amelia thinks it over in silence (POV: the source says the girls overheard without Bal seeing;
+render only what Bal can observe, e.g., the girls nearer behind than he thought and quiet); the walk back
+to New Spring, the always-staffed Dawn Hall, Soren, the changed reward; stew in town; after curfew, the
+girls' hugs; walking slowly back with Amelia.
+**Structure:** errand, beast, walking talk.
+**Opening:** gravel in the pass.
+**Anchor:** the stones going up and down while he answers her.
+**Hook:** six weeks pass.
+**Target:** 2,700.
 
-## Chapter 19: Road to Londra
-**Function:** The disguise plan; refugees on the road dramatize the war's human cost before the heist; arrival at the enemy heart.
-**Source:** [pp.127–138] (planning the infiltration, Viridia-as-noble cover, the goodbye, the refugee encounters, the road, the Londra gate, the Winespring Inn approach).
-**Opening strategy:** road episodic (encounters strung along the journey).
-**Scenes to dramatize:** the infiltration plan (Viridia as noble lady with Raizen's visible favor; Lora coaching her; Bal as manservant); Amelia's reluctant goodbye (her "if they kill you, I'm going after Raizen"); **the refugee families on the road** — blood-sygl children, a father bound for Kysmer, bandaged survivors — so the war's cost lands before the caper; the Londra gate (Viridia's haughty noble act; the guards' awe at her hair; asking directions to the Three Boars); arrival at the Winespring Inn — *already expected* (the unsettling beat).
-**Key beats:** 1) The plan + goodbye. 2) The refugee road. 3) The gate; the unsettling "we were told to expect you."
-**Progressive structure:** moves the war into the enemy capital; opens the heist procedural (Ch.20).
-**Theme presence:** central — the body count of the gods' game seen up close, contrasted with Londra's oblivious safety.
-**Character chaos:** Viridia's Bran-memory when the young guard ogles her hair; Lora's noble-etiquette over-explaining; Bal's road-paranoia building.
-**Beat subversion:** Genre beat = "fun heist-prep / disguise montage entering the enemy city." Subversion = the road is lined with *the war's victims*, deflating the caper's glamour; and arriving to find they were *expected* turns infiltration into dread (the reader fears betrayal before learning it's only Amelia's letter).
-**Anchor / surprise:** the refugee father spitting; the heart ring's echo (war reaches everyone). Surprise: the human cost outweighs the heist excitement.
-**Hook / ending pull:** the innkeeper hands Viridia a sealed letter "we were instructed to give you."
-**Writer warnings:** dramatize the refugees (source reports them); don't let the disguise plan become an info-dump. Word count: **3,800**.
+## Chapter 18: Six Weeks
+**Source:** [pp.105–109] L767–780 (to "…making notes … while he was writing").
+**Scenes:** **the six-week time-skip** as a compressed passage of Bal's weeks: jobs taken to get away from a
+school growing hostile ("staying with his own kind"); Zoran praising his rapier; Lora training him harder;
+**the flaming dagger** in crafting class (runes engraved into his own work; a weak version of the vendor's
+sword, and a real accomplishment); the arrow-rune and other rune work continues (no new plot; keep it to
+craft). Then the war: Thad's signals; **Raizen's statement** through his High Priest (Amelia went mad and
+attacked them; now his followers are in danger); the army fights harder from fear; villagers beat and kill
+blood sygls who won't leave (reported to Bal, as the source has it); **Commander Fern** (short, stocky,
+long grey beard, grey eyes, authority): "There's not much we can do"; nowhere to put evacuees; "Could we do
+the same to them?" / **"We will not respond in kind."**; Bal has accepted people will die but won't stand by;
+Raizen's three priests and High Priest; the High Priest stays in Pashar; the priests meet monthly at an inn
+in **Londra**; the spies with no sygls posing as labourers; find how often they meet the High Priest;
+**Toma's file** (fifty-six, no family, concubines, moderately powerful, no inheritance); Aren will not step
+in; Raizen's hit-and-retreat squads, and how Naisura beat him by marching straight on; **the war rules,
+revealed here as the source reveals them** (Bal had asked Amelia: once war is declared no new High Priest;
+when an originator's priests and High Priest are dead the war is over; the victor may demand anything that
+does not physically harm the loser); her slow smile: "I know exactly what I shall demand," and "if you want
+to find out you'd have to win"; Bal at his notes while the girls do rune homework.
+**Structure:** time-skip, war room, remembered conversation, present evening.
+**Opening:** the passage of weeks.
+**Anchor:** the flaming dagger; Fern's map under Bal's drumming fingers.
+**Hook:** "It's going to happen tomorrow."
+**Target:** 2,400.
 
-## Chapter 20: The Winespring Inn
-**Function:** Amelia's letter; reconnaissance; Lora brews the nightstalker poison as suspense, not montage; first sight of Aleric.
-**Source:** [pp.139–151] (the letter signed "A," reconnaissance, the brewer James and the Ventish brandy, the nightstalker poison brewing, scouting the Three Boars, the early-arriving Aleric).
-**Opening strategy:** procedural suspense (the brewing as a ticking clock).
-**Scenes to dramatize:** **Amelia's letter** (signed only "A") — her terrifying love as a joke; Bal's recon with **James** the brewer (the Ventish brandy, the priests' habits — drunk day one, business day two); **Lora's poison brew** played as suspense (ingredients, the 20-hour cook, the dormant-24h/heart-stops mechanism, her getting roped into helping a stranger and coming back late — her craft-obsession chaos); scouting the Three Boars; **glimpsing Aleric** (scarred eye) arriving *early*, forcing them to ground.
-**Key beats:** 1) The letter; the plan refined. 2) The brandy + the poison brew. 3) Aleric early; lie low.
-**Progressive structure:** loads the trap; opens the set-piece (Ch.21).
-**Theme presence:** present — "play their game and break their toys" enacted; the cost of becoming people who poison strangers.
-**Character chaos:** Lora's disappear-into-craft obsession (late from helping the under-trained alchemist); Viridia's jewelry-window glance in the street; Amelia's last-word letter.
-**Beat subversion:** Genre beat = "competent heist team executes a clean plan." Subversion = the smartest enemy (Aleric) arrives *early* and unpredictably, breaking the plan before it starts, and the team spends the chapter hiding rather than acting — control is an illusion.
-**Anchor / surprise:** the cauldron clearing to "pure water"; the letter signed "A." Surprise: a death-poison brewed with the same loving care Lora gives a gift.
-**Hook / ending pull:** a letter arrives sealed with the Tempus sygl — the priests want to meet Viridia.
-**Writer warnings:** make the brewing suspenseful, not a montage. Keep Aleric's menace courteous. Word count: **3,600**.
+## Chapter 19: The Rule
+**Source:** [pp.109–114] L780–795.
+**Scenes:** Amelia, staring into the fire: the rule lands tomorrow; Porter told the gods that neither girl
+spends time with her own sygl and that Viridia has a bloodwolf; Raizen decided (Kenmei didn't care);
+Porter's suggestion: no socializing outside class or off grounds, and make Viridia release Hopper; "Can
+they do that?"; the weeks together have bound them; Bal weighs Lora's all-Waves family and Viridia's
+village; "There is a way to circumvent the rule. But it is not something to take lightly."; Amelia lets
+him handle it; the offer (only if they choose; irreversible; families; how blood sygls are treated; "I
+don't want you to be unhappy"); inheritance kept, maybe another gained; Viridia twisting the ring; Lora
+loses waves magic and doesn't mind; "I've got an in with the Blood Lead Mage"; **Lora: "I'm not sure how my
+father will feel, but I know he loves me. My family will stay by me. I'll do it."**; **Viridia: "I'll do it
+too, I can't have them trying to take Hopper from me … Especially miss book smart here."**; "last chance";
+the dagger; three left palms cut together; two thin streams of his blood; their palms forced white; his
+blood reaching their centres; the cuts closing; the blood sygls darkening; **"I can feel you now."**;
+"Thank you … I don't know what I would have done if I had lost you"; Amelia makes them priests and leaves
+to declare war on Raizen before the news breaks; "You know, I've only got one bedroom" / "Then lets go to
+bed." (fade).
+**Structure:** decision, then ritual.
+**Opening:** her voice breaking a long silence.
+**Anchor:** two palms blooming the blood sygl.
+**Notes:** the girls' choice is shown as the source shows it: their own reasons, their own words, Bal's
+repeated chances to say no. No coercion framing, no guilt.
+**Hook:** the dining hall.
+**Target:** 2,600.
 
-## Chapter 21: The Three Boars
-**Function:** The set-piece — the priests; Aleric forces the cup; the purification-rune save as a real reversal.
-**Source:** [pp.152–159] (the Tempus-sealed summons, the meeting, the three priests, Aleric forcing Viridia's cup, Bal's rune improvisation, the toast, the escape).
-**Opening strategy:** single-scene set-piece (the inn common room, near-real-time).
-**Scenes to dramatize:** the summons (Tempus seal — only a priest may use it); packing out of Winespring (they won't return); the meeting with **Aleric, Titus, Leon** (give Aleric one interiority beat — he climbed from nothing, believes the lie about Amelia); the brandy presented; **Aleric, suspicious, forcing Viridia to drink** despite no antidote; **Bal's improvisation** — spotting a cold-rune bottle behind the bar, carving a **purification rune** under the cup with a blood dagger so she drinks only water; Viridia toasting, believing she'll die; the strained hour; the escape past the gate.
-**Key beats:** 1) The meeting + the brandy. 2) ★ Aleric forces the cup; the rune save (invisible to Viridia). 3) The toast and exit.
-**Progressive structure:** the priests are dead-men-walking; opens the disaster (Ch.22).
-**Theme presence:** present — courage (Viridia willing to die) vs the cold arithmetic of killing strangers; the rune as "break their toys."
-**Character chaos:** Viridia's hair going *still* with terror (her tell); Bal's wrong-register near-laugh under lethal pressure; Lora white-faced (she knows there's no antidote).
-**Beat subversion:** Genre beat = "poison plot goes off cleanly / villain drinks unknowingly." Subversion = the villain *forces the hero's own ally to drink first*, and the save is a runework improvisation invisible to the victim, so the suspense is whether Bal can rescue Viridia from *their own poison*, not whether the priests die.
-**Anchor / surprise:** ★ the forced cup; the rune carved under it. Surprise: Viridia toasts thinking she's just killed herself.
-**Shareable moment:** the purification-rune save ("she toasts thinking she's poisoned herself; it's only water").
-**Hook / ending pull:** they ride out; in ~6 hours the priests die — and Bal's paranoid itch returns.
-**Writer warnings:** this is the source's best suspense — expand the rune save into a true reversal; don't rush it. Keep Aleric a real opponent. Word count: **4,000**.
+## Chapter 20: The Blood Whip
+**Source:** [pp.115–120] L798–813 (to the teleport to the lake).
+**Scenes:** new uniforms; the doors; Sean (Tempus Lead Mage) notices; "What's the meaning of what Sean?";
+Porter from the teachers' table; Sean grabs for Viridia; the **blood whip** from Bal's palm; "She's not your
+concern anymore"; "you filthy blood mage"; Porter announces the new rule; the whip around Sean's wrist,
+plates scattering; Sean thrown back to his table; "I am their Lead Mage now"; the girls show their palms;
+"are you going to punish Sean?"; **Bal's speech** (blood mages aren't crazy; Amelia was betrayed; the
+originators sacrificed their High Priests; "You see them once a year and beg them to notice you"; war
+declared this morning; "If anyone else is tired of feeling as if they don't belong … the Blood sygl will
+welcome you"); the duel warning: "If you bother either one of my girls again, I'll call you out and I will
+kill you"; Amelia rubbing off on him; his surprise at the surge of anger (as the source has it: noted once,
+"maybe he'd talk to Amelia about it later"; not developed into self-dread); Amelia in high spirits at the
+gods' faces ("He had just been hoping to find all of my priests"); two more priests to meet tonight;
+the girls tell her about the whip (only days of practice); the two-week break; Viridia's village is safe;
+Londra; **the war rules now explained to the girls** (no new priests; the war hinges on them staying
+alive); "Talk about no pressure"; Amelia tries to cheer them and has no plan; "Why don't we go for a swim?"
+**Structure:** public confrontation, then debrief.
+**Opening:** the doors swinging open on a turning room.
+**Anchor:** Sean sliding down his own table.
+**Hook:** the lake.
+**Target:** 2,600.
 
-## Chapter 22: The Storm Falls
-**Function:** BRIDGE THE JUMP — the lightning ambush and the kidnapping (a single paragraph in the source) becomes a full disaster; a glimpse of the girls' capture; Bal's collapse and numb waking.
-**Source:** [pp.159–167] (the road, Bal's paranoid dread, the thunderclap of the dying poison, the lightning ambush, Bal knocked out, waking alone, the trek to the Blood army, Jazen Grey and Barda, the battle at the temple, Bal's collapse).
-**Opening strategy:** disaster in medias res (the clear sky, the single thunderclap).
-**Scenes to dramatize:** the ride back; Viridia's recovery and Bran-backstory beat; **Bal's escalating paranoia** ("a bow pointed at my back"); the poison's death-hour marked by a thunderclap from Londra; the **lightning ambush** as a full disaster (bolts between the horses, the horses bolting, Viridia as a human lightning rod, a flung stone knocking Bal out); **a glimpse of the girls being taken** (brief, from the edge of Bal's fading vision or a hard-cut fragment); Bal waking **alone** to blacked craters and burnt horse — the numb, object-inventorying grief; the two-day trek; **Jazen Grey** lending **Barda**; arriving at the temple battle (Thad/Xavier deflecting lightning); Bal killing the storm mages; saved by an arrow; collapse.
-**Key beats:** 1) The dread + the ambush. 2) Waking alone; the girls gone; numb grief. 3) The trek + temple battle + collapse.
-**Progressive structure:** the failure the wish-fulfilment vessel cannot prevent; opens the duel arc (Ch.23).
-**Theme presence:** central — for all his power, he could not keep them; the limit of "I'll protect you myself."
-**Character chaos:** Bal's numb-flat break (he lays out a bedroll instead of weeping — voice mode 1); Viridia's hair-still terror in the strike.
-**Beat subversion:** Genre beat = "hero fights through the ambush and saves his companions." Subversion = he is knocked cold by a *random flung rock* (not a duel), wakes to find them simply *gone* with no tracks, and his great power is useless — the rescue fantasy fails completely, and the chapter's horror is absence, not action.
-**Anchor / surprise:** the clear sky, the single thunderclap; blacked craters; burnt horse. Surprise: he organizes supplies instead of grieving — numbness, not collapse.
-**Hook / ending pull:** waking at the temple to Toma's parlay letter — the girls are alive, and there's a duel.
-**Writer warnings:** this is the #1 bridge — convert ~1 paragraph into a full disaster scene; give the capture a glimpse. Keep grief in the numb-flat register. Word count: **4,000**.
+## Chapter 21: Strawberries
+**Source:** [pp.120–127] L813–834 (to the teleport to the temple).
+**Scenes:** the lake (they killed a water snake there last week, reported); Hopper won't swim; the girls
+playing as if Amelia were human; her smile makes his heart hurt; dozing; Lora's face inches from his, the
+kiss on her forehead; Viridia's reaching hand; the strawberry patch; the snapped branch that saves his
+life; the roll through the briars; **Iro** (young, woodsman clothes, sharp blue eyes) and his talk; "I don't
+know how you managed to kill **Heath**"; the slice down Bal's side; "fun with those pretty girls of yours
+after"; his blood runs cold; "my High Priest of course"; the cut on the legs he steps through; the punch with
+his left hand; the kicks; **the blood whip around Iro's neck, lifting him off the ground**; "It's Iro"; only
+him and Heath; a priest told them where Bal would be; Bal knows he is telling the truth; the whip closes;
+**"No one threatens my girls."** (justified, final, unremarked by guilt); the shredded shirt used to carry
+strawberries; Lora running to him; "Would you believe I fell on my rapier?"; his wounds; the healing potion
+for the thigh; "It's no use. He's already dead"; "we didn't even know we were going to come here"; Amelia
+vanishes; forty minutes; she returns pleased and laughs bloody tears; **her council with the gods, as she
+tells it**: Raizen's domain empty; the meeting place; Porter reporting the conversions; the old accusation;
+her full permission to Bal; her offer to fight Raizen if he won't follow the war rules; Aren learns **Raizen
+has been cheating by telling his assassins where Bal was and teleporting them near**; one concession: the
+school rule lifted; Bal will convert only those he cares about, never a crusade; Porter snapped home;
+Aren's "good luck"; would she fight Raizen? yes; the familiar loophole lets her help on certain things;
+fresh clothes; the temple.
+**Structure:** respite, ambush, reported tale.
+**Opening:** Hopper refusing the water.
+**Anchor:** strawberries in a ruined shirt.
+**Hook:** the temple abuzz.
+**Target:** 3,400.
 
-## Chapter 23: The Goddess's Blood
-**Function:** The blood-drinking power-up; Amelia's shared memories shown as controlled glimpses (not a stakes-resetting montage); two days of training; Bal accepts the duel.
-**Source:** [pp.170–175] (waking at the temple, Amelia, the parlay/duel terms, the blood-healing power, the chalice, the shared memories, the two-day training, readiness).
-**Opening strategy:** single-scene intimacy → a tight training-bridge (the only sanctioned compression — keep it controlled).
-**Scenes to dramatize:** Bal waking burned and broken; the parlay letter (Toma has the girls; a one-on-one Mages Duel; "bring your pet originator to teleport you"); Bal *refusing* to let Amelia simply fetch the girls (he won't cause more war) — a real cost; **the chalice of Amelia's blood** played as the book's most intimate, vulnerable act (the healing; the strengthening; "drinking this binds us stronger"); **Amelia's memories** passing like a film he must not speak of — controlled glimpses, NOT a montage that resets stakes (show 2–3 charged, private fragments; honor "do not speak of what you see"); the two days of rooftop training against a self-limited Amelia, testing new blood techniques.
-**Key beats:** 1) The duel terms; Bal's refusal of the easy out. 2) The chalice; the memories. 3) Training; readiness.
-**Progressive structure:** rebuilds Bal for the climax; opens the duel (Ch.24).
-**Theme presence:** central — blood given freely as communion (vs the coercive conversions); deepening the bond; whether love can also be a weapon without becoming control.
-**Character chaos:** Amelia's vulnerability (offering her memories); Bal's flat refusal to use her as a shortcut (over-responsibility, his arc).
-**Beat subversion:** Genre beat = "training-montage power-up before the final fight." Subversion = the power-up is an act of *intimacy and surrender*, not exertion — he gets stronger by being trusted with her past, and the chapter's emotional core is her vulnerability, not his gains.
-**Anchor / surprise:** the chalice; "not even a scar"; the forbidden memories. Surprise: the strongest he's ever been arrives through the softest, most exposed moment between them.
-**Hook / ending pull:** the coliseum; Toma; the girls in a rune-circle.
-**Writer warnings:** keep the memory-glimpses controlled and private — do NOT let them reset or explain away stakes; honor the no-speaking instruction. Word count: **3,600**.
+## PART FOUR — LONDRA
 
-## Chapter 24: Blood Elemental
-**Function:** The Toma duel choreographed; the accidental conversion paid off; Amelia's verdict (Raizen sealed 3,000 years in *her* temple); the quieter, earned harem epilogue and the designed residue.
-**Source:** [pp.175–186] (the coliseum, the duel terms, the storm elemental Akora, the fight, the elemental's conversion to blood, Toma converted, the gods' arrival, Aren's judgment, Amelia's demand, the epilogue).
-**Opening strategy:** extended duel set-piece (decelerated, choreographed) → quiet coda.
-**Scenes to dramatize:** the coliseum; the girls in the rune-circle (a lesser version of Amelia's old prison — note the echo); the duel terms (Bal's clever invocation of the rules so the girls live regardless); the fight — Bal's dirt-cloud opener, the blood vials; **Toma's life-bonded storm elemental Akora** (legal, not a familiar; give Toma one real grief beat for his poisoned priests); Bal overwhelmed, shredded by the glass-storm; reaching the **elemental's core** and forcing his last blood into it; **the elemental turning to swirling blood**; Toma's scream; **the blood sygl on Toma's palm — the accidental conversion**; the gods arriving (Raizen's fury, Aren's troubled judgment); Aren declaring **Amelia the victor**; Amelia's concession — **Raizen confined 3,000 years in the very temple that caged her**; the girls returned; the quiet dorm coda.
-**Key beats:** 1) The duel + Akora. 2) ★ The core converted → Toma converted (the twist). 3) Aren's verdict + Amelia's terrible-poetic revenge + the coda.
-**Progressive structure:** pays off every thread (conversion power, the war rules, the revenge, the found family); the book's close.
-**Theme presence:** central — he wins by a power he can't control and isn't sure he won't repeat; Amelia's "justice" is also a 3,000-year burial; the found family is real and shadowed.
-**Character chaos:** Bal juggling outside the arena (final obsession beat) / the softball-game memory in the coliseum (final unprompted-memory beat, paying off the RE-READ); Amelia's gleeful, cold verdict.
-**Beat subversion:** Genre beat = "hero wins the climactic duel through skill/willpower." Subversion = Bal wins by an *accident he doesn't understand* (converting the core, and with it the High Priest), so the victory is unsettling rather than triumphant; and the "happy ending" is laced with the dread that *no one is safe from him now* — the gods, and the reader, leave uneasy.
-**Anchor / surprise:** ★ the storm elemental turning to blood; Toma's bloody tears and Blood sygl; Raizen sealed in Amelia's old temple. Surprise: the win is an accident the hero can't be sure he won't repeat — comfort with a cold draft under it (the designed residue).
-**Shareable moment:** the accidental conversion of the High Priest via the life-bonded elemental.
-**Emotional residue:** see foundation §4c — happy that the lonely orphan and goddess found a home, yet unable to fully trust the power and the justice that bought it.
-**Hook / ending pull:** "the first day of the rest of their life together" — earned, quiet, and faintly haunted.
-**Writer warnings:** choreograph the duel (the source rushes it); make the conversion-twist legible without over-explaining; keep the epilogue *quieter and earned* — resist a triumphant bow. Fade-to-black on the final night. Word count: **4,200**.
+## Chapter 22: The Plan
+**Source:** [pp.127–135] L834–859 (to "trying to forget what tomorrow would bring").
+**Scenes:** soldiers readying for Raizen's border; **Eric**'s battalion to draw Raizen's troops so blood
+sygl civilians can be evacuated and offered refuge if they serve; Amelia stays in the bedroom so as not to
+appear to help; the meeting with Thad and Xavier (tired, unshaven): two scouting parties found and killed,
+high casualties, two or three of theirs for one of Raizen's; blood mages on the cliffs; they cannot win
+head-on; Xavier: strike the priests, then the High Priest; Aleric already travelling; the Three Boars Inn in
+a week; four or five days' hard ride; Bal weighs the spies against going himself; most violence is against
+known blood sygls; strangers would stand out; Viridia's inheritance as cover; the priests' reluctance and his
+refusal to send her without him; Lora's sparring win against Marcus and Viridia's walk among soldiers who
+expect to die and are glad of Lady Amelia (both **reported** by the girls on the way back); Xavier's
+briefing on Londra (between Pashar and the priests' stations; north-west; upper-class inn; back half reserved;
+ale delivered every other Wednesday; the innkeeper perhaps bribable; patrols); the plan (Viridia a noble lady
+going home to Pashar, Lora coaching her, Bal the manservant); "It's probably our best shot"; Amelia can't come;
+clothes, horses by noon; Amelia's blank stare and flat **No**; the argument ("you are my High Priest. If they
+kill you then there goes the war"); Lora's support; Bal's arms around her; **"If they kill you I'm going after
+Raizen. Damn their war. I will kill him."**; "That's my Warrior Goddess"; home to the dorm to play and laugh.
+**Structure:** council and argument.
+**Opening:** the temple's noise as they arrive.
+**Anchor:** the map under Xavier's finger.
+**Hook:** the road at noon.
+**Target:** 3,200.
+
+## Chapter 23: Road to Londra
+**Source:** [pp.135–139] L859–870 (to the stable boy's "We were told to expect you.").
+**Scenes:** Lora teaching Viridia how nobles talk ("Every one else is beneath you"); Bal realizing he is
+falling in love with Amelia, and his feelings for both girls growing; the plan to avoid towns; galloping and
+walking the horses; **the refugee family on the second day** (two children on the horses with blood sygls on
+their hands, parents walking; the father **spits on the ground** once, as the source has it, and names Kysmer;
+Bal can do nothing); two more days of fleeing people, some bandaged; Raizen's war reaching ordinary people;
+the fifth day: Londra's wall and gate; the truncheon guard; Viridia's haughty noble act; the young guard's awe
+at her hair, which crackles when she's nervous; "After passing filthy blood mages on the roads I'll be glad to
+be among my own people"; directions to the Three Boars; "Exactly how rare is Viridia's gift?" (lightning into
+the lake at the water snake, reported by Lora); the Winespring Inn's stable boy: "We were told to expect you."
+**Structure:** road episodic.
+**Opening:** Lora's etiquette lesson in the saddle.
+**Anchor:** the father spitting in the road.
+**Hook:** expected.
+**Target:** 2,200.
+
+## Chapter 24: The Winespring Inn
+**Source:** [pp.139–152] L870–909.
+**Scenes:** Mrs. Locklan (plump, apron, a letter that came with payment); the servants' room; **Amelia's
+letter** ("My loves … Be safe and come home to me," signed only "A"), shredded; "That girl loves having the
+last word" (said once); why Viridia asked about the Three Boars; "later"; Bal's worry about bringing them
+because her gift draws every eye; Lora: if they look at her they won't look at us; **James the brewer**
+(forties, rolled sleeves, tidy office; priests drunk the first day, business the second; the warehouse;
+Ventish brandy, the most potent and most expensive; delivered to the Winespring); stew and bread; "You could
+have bought brandy here"; Lora's "blood darts" idea and Bal's no (they must get out alive); **the
+nightstalker poison** (dormant twenty-four hours, then lethargy, then the heart stops six hours later); his
+kiss; asphodel and ginger; twenty hours to brew; **three hours late** from helping an untrained young
+alchemist brew night-sight and coming back with free herbs; she disappears into whatever she's doing; shooed
+out; Bal and Viridia walk to scout the Three Boars (what she wants after school, not sure; whether Amelia will
+challenge the others; her eyes flicking to a jeweller's window, once; poison the whole cask); the Three Boars
+(three stories, white shutters, ten windows a floor, two stable boys); Londra feels safe behind its walls;
+"All they hear is their priests saying how crazy we are"; Bal's private thoughts on his future with his girls
+and Amelia's certain vengeance; Viridia bolts: **Aleric**, scar through the right eye, early; Lora: Aleric is
+ambitious and smart, Titus and Leon follow orders; fifteen hours indoors; the cauldron clear as water; the
+cask stopper hammered home with a boot.
+**Structure:** a procedural clock (the twenty-hour brew).
+**Opening:** Mrs. Locklan hurrying from behind the counter.
+**Anchor:** the letter signed "A"; the clear cauldron.
+**Hook:** a knock and a Tempus seal.
+**Target:** 4,400.
+
+## Chapter 25: The Three Boars
+**Source:** [pp.153–159] L912–930 (to "the soon to be dead priests").
+**Scenes:** the envelope sealed with the Tempus sygl (only a priest may use it); "They know I am here … as
+someone with Raizen's inheritance gift"; luncheon; packing out for good; the eager stable boy and the silver;
+the quiet barman; three priests in azure; Titus impatient, Aleric's "We have all day," Leon curious about
+Ventish; Viridia's gracious refusal; **Aleric: "I insist." … "get her a cup."**; Viridia's fear and then her
+resolve (seen by Bal in her eyes); Lora white; no antidote; Bal walking slowly to the bar thinking; the
+**cold rune** etched on a bottle; *runes*; the **blood dagger** and the **purification rune** carved under the
+cup (any liquid to pure water); no chance to warn her; the toast to Raizen; Aleric's suspicion smoothing; an
+hour of talk, priests drunker every cup, Aleric's offer to write ahead to the High Priest; she leaves after
+the fourth cup; outside she sags against the door in tears ("I had to do it. It was worth it"); "You aren't
+poisoned"; "you mean all I drank was water?"; Lora: "It was a brave thing you did"; out through the gate at a
+walk, then a gallop.
+**Structure:** near-real-time set-piece in one room.
+**POV note:** the source gives Viridia's thoughts during the toast; render them through what Bal sees (her
+hands in her lap, her hair gone still) and what she says outside and in Ch.26.
+**Anchor:** the rune under the cup.
+**Hook:** the last cover before Amelia's territory.
+**Target:** 3,200.
+
+## Chapter 26: Together
+**Source:** [pp.159–161] L930–936.
+**Scenes:** off the road into the trees; no fire; bread and jerky; Viridia's silence; "Thank you Bal"; "I was so
+scared"; Lora holding her hand; "I never expected I would have to drink poison myself"; her hair lying still;
+"My only consolation was that you and Lora would get away"; **her breakdown** in Lora's arms; Bal breaking
+twigs, wanting the priests dead with his own hands for making her feel this (as the source states it) and
+knowing they'll be dead by six tomorrow; Toma rarely leaves Pashar; Viridia asleep; **Bal and Lora's night
+talk**: worse next time; he'd consider having Amelia keep them while he goes alone; "you aren't as smart as I
+thought"; "we are in this together"; "I don't know what to do"; her hand on his cheek: **"We'll figure it out,
+together."**
+**Structure:** a short night camp.
+**Opening:** soft ground, fallen leaves over their tracks.
+**Anchor:** Lora's hand on his cheek.
+**Hook:** an easy morning.
+**Target:** 1,700.
+
+## Chapter 27: Thunder from a Clear Sky
+**Source:** [pp.162–170] L939–962.
+**Scenes:** walking the horses; Viridia herself again; Bal asks about her village; **Bran** (promised at birth,
+the smirk, "he would have me eventually," six months from marriage); Bal's feeling of "a bow pointed at my
+back"; orphanage jokes; the feeling growing; the girls go quiet; at the poison's hour **a thunderclap from
+Londra under a cloudless sky**; Viridia feels it too; thunderbolts between the horses; thrown; Viridia
+trying to draw the bolts into herself, arms to the sky; a flung stone; dark. (Bal does not see the capture;
+nothing of it is shown.) Waking hours later; bitten tongue; blackened craters; burnt horse; calling until
+dusk; no tracks; Lora's bedroll from her dead horse; troubled sleep; morning and the blow of it again; they
+were taken; Pashar too far without a horse; south toward Amelia's territory; two days on foot; the evacuating
+village (black eyes, split lips, a broken arm, villagers cursing); he would kill anyone who stopped him;
+centurion **Jazen Grey**; **Barda**, the white warhorse; message for Fern; a night and a morning's ride; the
+battle before the temple; two storm mages on a raised platform; Thad and Xavier deflecting bolts with blood
+whips; Bal behind the Tempus party; blood dagger and whip; the dagger in one mage's eye; the second mage's
+**lightning whip**; spikes on his own; the bolt and the whip across his chest; on his back, unable to move;
+"I think I'll get a promotion after killing you"; his silent apology to his girls; the arrow in the mage's
+neck, the crossbow bolt; blood soldiers coming; dark.
+**Structure:** disaster in medias res, lone trek, battle.
+**Opening:** Viridia laughing on the road.
+**Anchor:** the clear sky and the single boom.
+**Hook:** waking in the High Priest's bed.
+**Target:** 4,200.
+
+## PART FIVE — THE DUEL
+
+## Chapter 28: The Chalice
+**Source:** [pp.170–175] L964–979 (to "Bal was finally ready to face Toma").
+**Scenes:** Amelia cross-legged beside him; water; two days out; he talked in his sleep; "Do you want me to find
+them and bring them home?" and his no (he won't make her break the rules and start more conflict); it hurts
+both of them; Thad and Xavier, filthy and sleepless: **Toma's army approaching from the north, two hours out**,
+and a parlay letter (Toma has Lora and Viridia; the army stays until all are dead unless Bal accepts a one-on-one
+Mages Duel; a blue cloth to signal; he may have "his pet originator" teleport him; two days); "Two days to
+figure out how to beat Toma"; his burned chest despite his **high pain tolerance**; "You can use me";
+**drinking blood heals**, and for her High Priest strengthens blood magyk and may open new abilities
+(another sygl's blood: unpredictable; regular priests get only the healing); "Of course Master"; the silver and
+gold chalice; she kneels as at the binding; "Drinking this will bind us together even stronger … Do not speak
+of what you see"; **her memories**, watched from outside like a film, private, and he understands why she shows
+them (keep them unspoken on the page); "Did you get what you needed?" / "Thank you"; not even a scar; two days
+of training on the temple roof against Amelia limiting herself, testing ideas from her memories; the bandolier
+of blood vials; no shirt, brown pants, barefoot; Amelia barefoot in the black dress he loves.
+**Structure:** sickroom scene, then a short training bridge.
+**Opening:** "Water."
+**Anchor:** the chalice.
+**Hook:** her hand, and the coliseum.
+**Target:** 2,900.
+
+## Chapter 29: Blood Elemental
+**Source:** [pp.175–184] L979–1006 (to the teleport home).
+**Scenes:** the coliseum like the Roman one; Toma in blue robes sewn with lightning; Lora and Viridia in a rune
+circle (they can't hear; their magic can't pass); "It's a lesser version of what they did to me"; Toma: "As I
+cared for my fellow priests, but at least yours are still alive" (his grief is real; give it its line); no
+interference, no familiars; Bal's use of the rules (killing the girls after his death would be an act of war,
+freeing Amelia; a surviving priest can ask her to intercede) so they live regardless; Amelia to the stands;
+first move: **"Kona Niente,"** a cloud of dirt, two blood vials thrown wide; **"Czak"**; "Is that it?"; with her
+blood he sees Toma gather his magic; the bolt; the storm elemental **Akora**, a life-bonded inheritance gift and
+so not a familiar; the sand wall turned to glass shards; dodging whips of electricity; down; "I'm sorry"
+mouthed to the girls; pulled into the maelstrom, glass shredding him; blood whips useless; **the core**; every
+last drop forced into it; the crack; the elemental drops him and turns to **swirling blood**; Toma screaming,
+rocking, **bloody tears**: "What have you done to me?"; Amelia, Raizen and Aren arrive; Raizen's fury ("This is
+why we locked Amelia away"); **the blood sygl on Toma's palm**: converting the life-bonded elemental converted its
+High Priest; the war is over; Aren's concern (converting the unwilling); Amelia's defense (instinct against the
+elemental; the life bond did it; "You can not penalize my High Priest for protecting himself"); Aren asks his
+intentions; **"I just want to live my life with my girls"**; Bal's compromise (Amelia will inform them first if
+he is ever asked to convert someone); Aren declares **Amelia the winner**; girls and Toma sent to the school;
+**the demand: Raizen confined three thousand years in the very temple she was locked in**, no contact, a
+warning to anyone who comes after her or hers; Aren's "Try not to start another war"; her bone-crushing hug,
+"I'm so proud of you!" / "At least one of us did. I'm still not sure how I won."; **the blood elemental sent to
+Amelia's domain** to study later; home.
+**Structure:** duel, then tribunal.
+**Opening:** the instant of arrival in the arena.
+**Anchor:** Akora turning to blood; Toma's palm.
+**Notes:** the source line "If he could make the first move 'Kona Niente,' Bal yelled convert a High Priest"
+(p.180–181) is a transcription garble; the intended sense is "If he could convert a High Priest then no one was
+safe if Bal chose to convert them." Keep the gods' alarm; it does not shadow the ending.
+**Hook:** the fire already blazing at home.
+**Target:** 4,000.
+
+## Chapter 30: The First Day
+**Source:** [pp.184–186] L1006–1013.
+**Scenes:** the red couch; Lora and Viridia's hug; "We're okay"; **their account of being taken and held, as they
+tell it** (reported); their belief that he would come; the four of them side by side before the fire; "What do
+we do now? … Will they really leave us alone now?"; "All we can do is live our life the best we can and stand
+together"; Lora: "We've still got school and the Dawn faction"; "It's sure been one hell of a break"; to the
+bedroom (fade); **"the first day of the rest of their life together."** Unambiguously happy.
+**Structure:** short coda.
+**Opening:** the four of them colliding in one hug.
+**Anchor:** the closing line.
+**Target:** 1,300.
 
 ---
 
-## TOTALS & QUALITY CHECKS
+## TOTALS & CHECKS
 
-**Word-count total:** 3,800 + 4,200 + 3,200 + 3,800 + 4,000 + 4,200 + 3,000 + 3,400 + 3,400 + 3,400 + 3,400 + 4,000 + 3,200 + 3,800 + 4,200 + 3,800 + 4,000 + 3,800 + 3,800 + 3,600 + 4,000 + 4,000 + 3,600 + 4,200 = **≈ 92,300 words** (≥ 90,000 satisfied; no chapter exceeds 2× the shortest: range 3,000–4,200).
+**Word total:** 3,800 + 4,200 + 3,200 + 3,000 + 3,500 + 2,800 + 3,200 + 2,400 + 3,000 + 2,400 + 3,800 + 1,500 +
+5,000 + 2,600 + 1,800 + 4,400 + 2,700 + 2,400 + 2,600 + 2,600 + 3,400 + 3,200 + 2,200 + 4,400 + 3,200 + 1,700 +
+4,200 + 2,900 + 4,000 + 1,300 = **91,400** (≥ 90,000; shortest 1,300 ≥ the 1,200 sanity floor).
 
-**Progressive (not parallel):** premises form a chain (discovery → bond → human cost → backstory → public claim → mission → trio assembly → emotional peak → war's shape → first blood → irreversible conversion → war's human cost → respite/murder → infiltration → trap → disaster → power-up → climax). Not reorderable.
+**Source coverage:** L1–1013 is covered end to end in order, with no span skipped or reordered.
 
-**No orphan chapters:** each cites a backward "builds on" and a forward "hook"; threads (heart ring 15→18, "you'd be surprised" 10→reread, softball memory 3/6→24, Peter 5/14→23/24, the card 12→13→24) connect across the book.
+**Moved back to source order (vs the 2026-07 outline):** Raizen's army / "break their toys" / Peter / hidden
+temple / Thad & Xavier / the ring / the diary / "I like you too" (now Ch.11–12, before New Spring and the Card);
+Amelia's origin and the Viridia-conversion proposal (Ch.8, after Viridia appears in Ch.7); "You'd be surprised"
+(Ch.7, pizza scene); Fern's war room, Raizen's persecution, the Londra priests and the war rules (Ch.18, before
+the rule and conversion in Ch.19); the refugee father who spits (Ch.23 only).
 
-**Emotional-anchor variety:** visual (bats, craters, swirling blood), auditory (thunderclap, the voice in the ear, softball bat), gestural (the held-back goddess, the wiped tear, juggling), verbal ("Amelia Norheart," "no one threatens my girls"), tactile (the regrown hand, the chalice). No three consecutive anchors share a sense.
+**Restored:** Mr. Winters and the avoidance rune (9); Bal & Viridia "I like you too" (12); "Together" (15); the
+arrow-rune shirts and the "I feel useless" walk (16); the juggling talk (17); the six weeks and the flaming dagger
+(18); Raizen cheating with teleported assassins as the reason for Amelia's concession (21); Viridia's breakdown
+and "We'll figure it out, together" (26); Toma's army approaching (28); the blood elemental sent to Amelia's
+domain (29).
 
-**Chaos distribution:** Bal's rage thread 17→18→24; Amelia's bats/tears 2/5/13; Viridia's hair-tell 8/21/22 and jewelry 12/20; Lora's craft-obsession/tears 11/13/20. Each major character ≥ 2–3 chaos moments, spread, not clustered.
+**Removed:** invented scenes outside Bal's view (the refugee-family POV-adjacent scene; any glimpse of the girls'
+capture; the cave bond dramatized as flashback); Bal's enjoyment of killing Iro and his guilt over the
+conversions; Amelia-as-manipulator framing; the "faintly haunted" ending; invented backstories and quirks;
+every tic and catchphrase allowance (except Amelia's "Master," an author-ruled title).
 
-**Opening diversity:** ordinary-strange (1), in-medias-res (2,22), ritual (3), confession (4), fragmented (5), set-piece (6), wonder (7), meet (8), comedy (9), nested-flashback (10), through-action (11), episodic (12,19), gift (13), essayistic (14,23), battle (15), decision (16), parallel (17), respite/ambush (18), procedural (20), set-piece (21,24). No two consecutive alike.
+**Motifs (objects and situations only, never repeated lines):** blood given freely (the cup, the feeding, the
+offerings, the conversions, the chalice, the core); the wooden Dawn cards and the name Norheart; hands (the stump,
+the regrown hand, the palm sygls); runes (Winters' class, the flaming dagger, the arrow-rune shirts, the
+purification rune). A motif object may recur; its handling must not become a reflex.
 
-**Breathing room:** theme RECEDES in Ch.12 and Ch.18 (part one).
-
-**Structural diversity:** see the ledger at top — no two consecutive chapters share internal structure.
-
-**Secondary-character scenes:** Ch.4 (Mrs. Brown's own grief), Ch.14 (Thad/Xavier interiority; Peter's life), Ch.17 (refugee family; Sean), Ch.20/21 (Aleric), Ch.24 (Toma's grief) — at least four chapters render a secondary character's own life through behavior.
-
-**Beat subversion:** every chapter names its genre-standard beat and a designed structural subversion (above). Originality engineered at outline level per the 8.5 rule.
-
-**Protected canon anchors (must survive):** Mrs. Brown's husband (4) · Amelia's "Norheart" card + bloody tears (13) · "you can keep her" (8) · "no one threatens my girls" (18) · Viridia's poison-cup courage + rune save (21) · the accidental High-Priest conversion + Amelia's revenge (24).
+**Protected canon anchors:** "they can't do it again" (4) · "you can keep her" (7) · "You called, Master?" (9) ·
+"break their toys" (11) · "I like you too" (12) · "Amelia Norheart" and the bloody tears (14) · "I do not feel more
+strongly for one over the other" (17) · "I can feel you now" (19) · "No one threatens my girls" (21) · the
+purification rune under the cup (25) · "We'll figure it out, together" (26) · the elemental turned to blood and
+Toma's palm (29) · "the first day of the rest of their life together" (30).

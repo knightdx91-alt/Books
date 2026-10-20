@@ -2,11 +2,30 @@
 Normalized 2026-07-13. Existing work retained: project/ (foundation.md, outline.md, STYLE_CONSTRAINTS.md,
 scores.md, baseline-evaluation.md, PROGRESS.md), manuscript/ (chapter-01..03.md), superseded/ drafts,
 Sygl_Complete.txt. NOTE: chapters are flat in manuscript/ (chapter-01.md), not manuscript/chapters/.
-## Resume point
-3 chapters drafted; **Chapter 1 finalized 2026-07-14** (de-glossed theme → clears 8.5 gate; "the way"
-tic trimmed 16→6; scorecard in project/scores.md). Next: same polish for Ch.2, then draft Ch.4 onward.
-Also pending: fill STATE.yaml from project/foundation.md + outline.md; point canon_sources at project/;
-decide whether to migrate manuscript/chapter-0N.md → manuscript/chapters/.
+## Resume point (updated 2026-10-20)
+**Plan rebuilt to follow the author's original script** ("make it more like my original script. And it's
+supposed to be Sygl."). `project/foundation.md`, `project/outline.md` (now **30 chapters, source order,
+≈91,400 words**) and `project/STYLE_CONSTRAINTS.md` were rewritten; STATE.yaml records every ruling as a
+2026-10-20 author decision.
+
+- **Ch.1–3** (`manuscript/chapter-01..03.md`): rewritten toward the source 2026-10-20 (9,118w; mechanical gates
+  clean); **book-evaluator re-score pending**. Their earlier 8.5 passes are void under the new plan.
+- **RESUME HERE → Chapter 4 "Mrs. Brown"** (target 3,000; outline Ch.4; source [pp.~11–16], L164–257).
+  It picks up the source **immediately after** "They watched the game for a few minutes before Bal pulled
+  Amelia inside." (`Sygl_Complete.txt` L162) — open in the front hall. Two movements: the office (the
+  reveal, "Well then.", "half measures", the claiming politics, the husband's story: his late affinity was
+  **Blood**, the factory fired him so as not to be "seen as a blood mage supporter", shot coming home;
+  "Don't worry, they can't do it again") → Bal's room (packing; Fredrick's books kept because Fredrick was
+  a friend; "overachiever"; Amelia's warning; why she was locked away; inherited gifts; food).
+- Then continue Ch.5 onward strictly in outline order.
+
+Standing rules for every chapter: Sygl spelling; close third on Bal only, past tense; nothing he can't see
+(report it as the source does); no invented plot/friction/backstory/quirks; NO TICS (sole exception:
+Amelia may call Bal "Master"); fade-to-black; keep the source's tone (justified violence, loving Amelia,
+happy ending).
+
+Still pending (housekeeping): decide whether to migrate `manuscript/chapter-0N.md` → `manuscript/chapters/`;
+open author questions are listed in STATE.yaml `open_author_decisions`.
 
 ## Manga adaptation (parallel track)
 See `sygl-manga/` for the illustrated version. Image generation works end-to-end via a personal RunPod
@@ -39,9 +58,7 @@ key used this session is live — ROTATE/DELETE it in RunPod when done (never co
 ### Manga consistency (open): plain FLUX drifts faces; using prompt-match + img2img from locked refs.
 If drift is bad across full chapter, train per-character LoRA (Option B). Deferred.
 
-### Dual-narration device (candidate — manga now, PROSE possibly)
-Bal narrates; **Amelia butts into the narration** (margin-banter: teasing/correcting/adding
-her 3,000 years of context). **Ch.1 is solo-Bal** (isolation theme + protects the reveal);
-Amelia's whisper "Because it's magic" is her first intrusion and launches the device, which
-runs from Ch.2 on. Currently locked for the MANGA (distinct caption-box style). OPEN: whether
-to retrofit this into the prose chapters — decide before drafting Ch.2 prose.
+### Dual-narration device — MANGA ONLY (decided 2026-10-20)
+Bal narrates; Amelia butts into the narration (margin banter in a distinct caption-box style), Ch.1 solo-Bal,
+from Ch.2 on. This stays **manga-only, if the author wants it there**. It is **not** used in the prose novel,
+which is close third on Bal only throughout.
