@@ -65,7 +65,7 @@ The clay broke from the knot at the first push, and the thread slid off over the
 
 "He was never any use with the left," Kallia said.
 
-Jerusalem had fallen in the summer just gone, and its temple with it, burning. I knew it the way I knew the year of the Armada, as a date on a page with a fire in it.
+Jerusalem had fallen in the summer just gone, and its temple with it, burning. I knew it the way I knew the Armada, as a date on a page with a fire in it.
 
 "Forgive me the two years."
 

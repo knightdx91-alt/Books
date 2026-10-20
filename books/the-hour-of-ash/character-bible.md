@@ -314,6 +314,45 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   She does NOT think of Vesuvius or Campania before the word: her list is "Or Sicily after all, or Massalia, or Spain."; the Bay of Naples
   and Campania: 0 (C-01). No reaction to "Pompeii." on the page (Ch.14). Credential asides 0; teeth 0; laughs 0; English 0; "could have" in
   her narration 0.
+- **Ch.14 as written (Writer, 2026-10-20; "What Pompeii Means", Fragmented, one night in shards, 9 breaks, Delphi, the night of the
+  consultation day, spring AD 71; quotes are the Writer's page, re-sync after the chain):** the commitment holds: no English anywhere,
+  aloud or alone (the word is said "once with no sound in it, toward the jars"). **She tells no one** what the word means: to Valens at the
+  corner "Her water carried." (true: Theano had her carry it); to Valens woken by the laugh, the Amphissa woman's well, retold ("She means to
+  dig it where he was told not to, in the dark, and let him think the god thought better of it."); to Kallia at the drain "She wanted
+  somebody to hear about her stool," (true). Kallia "had had every other piece of it from me, in its order" (the Ch.12 all-or-nothing rule
+  turned to its "nothing"; not pointed at). **Her knowledge of AD 79, as present thought (voice-dna §0.3):** "I knew the year." … "Seventy-nine,
+  late in the summer, in August."; the god's verse decoded (the vine mountain, "the sea to the west was the bay under it", the dead along the
+  roads outside the gates); the town from a plan (lopsided oval on old lava, the forum at the west end, one straight street east; Fiorelli's
+  numbers unnamed, "An Italian in the 1850s"; the House of the Faun, the House of the Tragic Poet; "What a single person in that town called a
+  single street was beyond me."); the tombs (the bench row beyond the Herculaneum gate, more on the Nuceria road; she cannot call up a painted
+  door); Pliny the Younger's two letters to Tacitus, unnamed ("one man set down in two letters to Tacitus nearly thirty years afterward",
+  translated "for a Latin examination"; "The mountain opened at midday." / "Roofs went in under them." / "In the morning came the thing the
+  letters had no good word for." / "He was a boy of nine now, somewhere in the north of Italy, at his lessons."). **No outcome of her own is
+  narrated;** intentions only ("I meant to go up as soon as it was light"). **The one memory (triggered by the storeroom plaster, returns to
+  it):** February 1988, "some of the casts had crossed the Atlantic" (no venue named); twenty-three, a head cold, a paper on Augustan
+  coinage; the man on his side "with his knees up", the rucked tunic, "One sandal had pressed its laces into his instep."; "a woman in a fur
+  hat told her husband she had thought they would be bigger."; the carbonized loaf "like a charcoal briquette somebody had tried to cut into
+  wedges"; the guard's hand bell; half a pretzel carried "in its paper as far as Trenton". Ends: "Kallia's plaster was cold. I took my
+  fingers from it." **The laugh (NON-NEGOTIABLE; new shape: aloud, the wrist, no wool, no sink):** triggered by Neapolis → Halloran's
+  offered room (paraphrased, never quoted: "a room with a window in it. So that somebody would see the place."; "I had said Greece,
+  perhaps.") → her father's summers ("Every year there was next year. Next year there was never room."; "His last permit had been for
+  Campania. I had signed it over to Halloran in April.") → "He had not troubled with a permit. He had picked the year." / "I laughed." / "I
+  put my wrist across my mouth and the laugh came round the sides of it anyway, in bits, high, with a squeak in the top of it that I had never
+  heard myself make. My eyes stayed dry. The muscles under my ribs hurt." It wakes Valens. **Hand at a threshold, unannounced:** "My hand
+  crossed the dark between us. It hung above his shoulder" … "I drew the hand in." **Body rebel (unmanaged):** the jar held under the spout
+  until it overflows "down my ribs", until a woman with a jug speaks. **The plan (NON-NEGOTIABLE, as reasoning, not a list):** the dead
+  stranger's silver plus Euthydikos's bowl (**the Ch.9/Ch.13 bowl thread is now ACCEPTED in intention**: "It could wait for the god to close
+  his doors for the winter, and I could wait with it"); a man ("A husband, a brother or an owner: somebody whose name went down first." /
+  "I left him out of the plan. He kept being in it."); **the moral wrinkle, faced once:** "Whoever took me to that town, the plan left him
+  there." and Felix ("It was Italy. The plan had no boy in it, and I kept it so."); the sea in spring ("The boats going west at this new moon
+  were for people who had both. Next spring, then."; Saint Paul's Alexandrian grain ship to Puteoli); Italy (the coast road, the tombs, "a door
+  that was only paint", "years ahead of the mountain"); "A year to get there. Seven, after that, to watch a door in."; the invisible-join
+  belief intact ("I could join a thing so the join never showed", for Ch.20 to break). **CH13-7 (the cave, "Tomorrow"):** she argues it both
+  ways and keeps it: "I wanted it shut." … "After that the one door left in the world would be the door the plan ended at, and I could stop
+  listening for the other." / "I meant to go up as soon as it was light and find out which." The chapter ends toward that errand (Valens
+  gone for the mules; she waits "at the bottom of the climb"). Credential asides 0 (gate); teeth 0 ("behind my teeth" is the word, not the
+  obsession); laughs 1 (hers); memories 1 (the casts; the father's summers are a habitual sentence inside the laugh trigger, Halloran one
+  clause); "could have" 1 ("could have drawn blindfold"); English 0.
 - **DISTINCTNESS GUARANTEE:** the only voice in the book that sees how a thing was made and where it was
   mended, against Valens, who sees where a thing or a man will move next.
 - **Sample line:** "Somebody's glued this before, look, there's an old line under the new one, and
@@ -708,6 +747,18 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   hers"; the refusal by the hands (did not touch); standing to recite; the forms called by a trainer (said once; never his pressure device);
   "Where does the town stop, then?"; "Mine's written."
 
+- **Ch.14 as written (Writer, 2026-10-20; mostly asleep; quotes are the Writer's page):** waits at the corner "leaning on the same wall";
+  "What did she want?" (to Mara's "Her water carried.", he "took in the crows' house above us, and my wet front"), walks "on the house side,
+  half a step behind". **Asleep across the storeroom door** on the blanket Kallia laid ("crosswise on the threshold"), in his cloak, facing
+  out, "the bruised arm uppermost", breathing "very quiet for so large a man". **Wakes at her laugh, armed before awake:** "The knife from
+  the road was out of his belt and lying back along his forearm, point to the elbow. He was facing the court and the gate and the black
+  beneath the gallery, not me." / "What?" (one word, spoken low) / "He weighed me a while longer." (his one deliberation beat) / "There's no
+  moon till the new one," … "She'll dig it crooked." (practical, weather and ground, unintended joke; no comparison) / pulls "the cloak up
+  over his ear". Mara's narration of what he would ask if told ("where it was and how far, and whether the road was good, and how the
+  ground lay round it") is his attention axis seen from outside. **Before light he has gone down for the mules**, leaving word with Kallia
+  (Ch.13's "You'll try the cave again" honored as an act; he goes up with her). Bare "No." 0; narrated non-answers 0; walk-offs 0 on the
+  page; no knot; no watch. **Spent in Ch.14:** the knife along the forearm on waking; "She'll dig it crooked."; the cloak over the ear.
+
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
   scores. **He sees people last.** His worldview: his real life is the one he is going back to. He has
@@ -994,6 +1045,18 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   you're there. She does that." / "She'll not eat her," (to Valens). Never sits, never touches Mara, never speaks of herself; chore-replies
   0; "Then" retorts 0; name-asks 0; no broom, wool, spindle or stopped work.
 
+- **Ch.14 as written (Writer, 2026-10-20; quotes are the Writer's page):** "Kallia asked me nothing." She gives Mara "an end of bread" and
+  "the scrapings of the pot in a bowl"; has laid Valens's blanket "crosswise on the threshold" herself (the floor shown, the decision not
+  repeated). **At the drain at midnight** with the sick Thessalian boy: hands Mara the lamp and goes for salt (labor, no order echoed);
+  "He ate the fat off the god's share. His own and his brothers'," / "What did Theano want with you?" (her one question; Mara gives her a
+  true fragment) / on the stool: "One of those priests could carry it down for her," … "It isn't their knees." (who carries: her axis).
+  **Her blanket over Valens's feet:** "She returned with her own blanket on her arm. It was brown, with a burn at a corner where a coal had
+  caught it. She dropped it over Valens's feet and went back in and shut her door." (an act, unexplained; touches the object, not the man).
+  **At dawn she has done Mara's work** (ashes out, hearth brushed, both jars full "sweating") and stands at the gate with the bar: "He's gone
+  down for the mules," … "You're to wait for him at the bottom of the climb. There's bread in the cloth." (she heard "Tomorrow" from the
+  lean-to in Ch.13; never said). Never sits; never touches Mara; no broom, no wool, no stopped work; chore-replies 0. **Spent in Ch.14:** the
+  salt-water nursing at the drain; the blanket dropped over a sleeper's feet; doing Mara's chores unasked.
+
 #### THEANO — the Pythia; a farmer's widow off duty (glimpsed Ch.8 unnamed, shouting at crows; Ch.13)
 - **Attention / worldview:** her own body (her knees, the descent into the adyton), the priests' petty
   politics, the crows. She treats the god like a difficult employer and the oracle like a job with bad
@@ -1070,6 +1133,12 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   stone; the crows at the burying (her one explanation); hearing the carrier's feet; "put shoes on it"; "Ask the other."; the branded
   basket. If she returns: new grievances, never these, and no further explanation.
 
+
+- **Ch.14 (no live lines; Writer, 2026-10-20):** after "Pompeii." she has "nothing more" and has Mara carry her water (Kallia's Ch.13
+  prediction, not pointed at): the jar "inside her door, beside the loom", the fountain "where the street turned below her house, a lion's
+  head in a wall with moss under its lip"; she is "indoors already" when it comes back, says nothing of it, and her cat sleeps on the
+  hearth. "Theano told it to get off, and it stayed, and she let it." (a crow; the barley already gone). Explains nothing. To Kallia her
+  summons is reported as the stool.
 
 #### FELIX — Valens's mule-boy, bought off a Kirrha slaver c. AD 70 aged ~12 and freed with no papers; later sworn to Pompeii's gladiator school (Ch.11–40)
 - **Attention / worldview:** fame, fights, who is winning, who is watching. The arena is the most glorious
@@ -1188,6 +1257,10 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   as far as the gate, and from the gate he ran.": a gait exit by hand, invisible to the gate). Still knows nothing of the arena, Lupus or
   Corinth. Question openers: Would / Me? / In / Where / Under / Was ×1 / What ×2 / That's all? / On / a tag ("was it?") / Didn't / What if /
   can I; "Is" 0; "nobody" 0; line+tag+"and" exits 0; "already" 0.
+
+- **Ch.14 (off-page, Writer, 2026-10-20):** with the string at the yard. His Ch.13 "If it's Italy, can I come?" is answered in Mara's plan
+  only: "Felix had asked that afternoon whether he could come, if it was Italy. It was Italy. The plan had no boy in it, and I kept it so."
+  (her intention; ARCH-9 untouched; no narrator reach.)
 
 #### PLAUTIA — Celer's divorced wife; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
@@ -2008,6 +2081,22 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   Tarquinia and Volterra (Mara's father's slides); Etna, Etruria, Massalia, Spain; Capua's schools (Felix's sailor at Kirrha); Theano's late
   husband and her sister's son (the ewes and the cheese money); Felix's mother (once). **Spicula** is not named in Ch.13 (0); the goat is
   "the goat" throughout.
+
+#### Ch.14 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+*(Writer, 2026-10-20; quotes are the Writer's page; re-sync after the chain.)*
+- **The woman with a jug** at Theano's fountain — "waited at my back till her patience gave, and told me the whole street was thirsty, not
+  only Syracuse." (reported speech; her own errand; notices no workmanship).
+- **The Thessalian father** (from Larisa; the Ch.13 family that "pushed the ram up the Way") — "a big man with a black beard"; sits on his
+  heels at the drain at midnight with "his youngest son's head on his thigh"; "It was the ram," … "From Larisa it never wanted to come. Every
+  mile, it told us." ("in a low voice, with great seriousness": his own grievance, irrational, nothing to do with Mara). **His youngest
+  son**, sick into the drain from the fat of the god's share ("His own and his brothers'"). **The sleep-talker** among the Thessalians: "a long
+  grievance with a girl's name in the middle of it"; says the name again after Valens lies down. **A Thessalian** who "stopped snoring" at
+  the laugh. The Thessalians roast "their share of the sacrifice wrapped in fig leaves" and argue "over whose fault the ram had been".
+- **Mention only:** Halloran (paraphrased, Ch.2's offer; never quoted); Mara's father (his summers, his last permit "for Campania"); Pliny
+  the Younger (unnamed: "one man" … "Their writer", "reading Livy, by his own account", "a boy of nine now"); Tacitus; Livy; Saint Paul (the
+  Alexandrian grain ship that wintered on Malta, to Puteoli); "An Italian in the 1850s" (Fiorelli, unnamed); the House of the Faun, the House
+  of the Tragic Poet; Neapolis; Larisa; Euthydikos and his bowl; the woman in a fur hat and her husband (1988, memory); the guard with the
+  hand bell; the pretzel man with the cart (Trenton line).
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -3311,6 +3400,54 @@ line each, so that walk-ons don't all sound like Mara.
     extensions (#11) 2 (0.27/1k); present-tense generalizations 0; paragraph-final negations 5 (0.67/1k); memories 1; echoes 0; no watch; no
     lens cap; no teeth; no laughs (Mara and Valens).
 
+- **At-risk after Ch.14 (Writer, 2026-10-20; "What Pompeii Means", Fragmented, 9 breaks, 3,106 words (shape_check), dialogue 5%, median 12,
+  `I-punch` → `long-fade`; counts from the Writer's page, re-measure after the chain):**
+  - **The laugh, shape used:** aloud, the wrist across the mouth, "came round the sides of it anyway, in bits, high, with a squeak in the top
+    of it", dry eyes, the muscles under the ribs, "ran on well after the funny part had gone out of it". With Ch.2 (bark, sink), Ch.7 (silent
+    into wool) and Ch.8 (group) all four laugh shapes are now SPENT for Mara; Ch.22's fit (the sneeze) must find a fifth (it is public,
+    and she must be walked out). **The laugh trigger** (Halloran's room → the father's summers → "He had picked the year."): once.
+  - **Halloran's Ch.2 offer** is now paraphrased once ("a room with a window in it", "I had said Greece, perhaps."); it is not recalled again.
+    **"Every year there was next year. Next year there was never room."**: Emilio's promise paraphrased; "next season, you come with me"
+    (at-risk 1) is still unspent verbatim.
+  - **AD 79 as present thought:** the Ch.14 set is SPENT in its words: "Seventy-nine, late in the summer, in August."; "The mountain opened
+    at midday." / "Roofs went in under them." / "In the morning came the thing the letters had no good word for."; Pliny the Younger reading
+    Livy and "a boy of nine now". **Ch.15–35 get the year once per chapter at most (voice-dna §0.3), in fresh words, and never these details
+    again;** the eruption's physical facts (stones, roofs, the morning) belong to Ch.39–42 and must not be pre-described again in narration.
+    No pine cloud, no pumice, no boats at Stabiae appear in Ch.14 (Ch.39/40/37 anchors kept clean).
+  - **The 1988 casts: SPENT** (the man on his side, the laces, the fur-hat woman's "bigger", the carbonized loaf as a briquette, the hand
+    bell, the pretzel to Trenton). Under voice-dna §0 E, Part Two narration never mentions casts; **the carbonized loaf is now the reader's**
+    (Part Two's living loaves scored into eight carry the irony with no pointer).
+  - **The town from a plan** (oval on lava, forum west, one straight street, the numbers, the diggers' house names, "beyond me"): once. Ch.19
+    meets the real town in fresh words and does not re-run the plan. **The tombs from memory** (the bench row at the Herculaneum gate, the
+    Nuceria road, no painted door recalled): once; Ch.19's search starts from "got only the benches" without saying so.
+  - **She tells no one, three ways, each SPENT:** a true fragment as cover ("Her water carried." to Valens; "She wanted somebody to hear about
+    her stool," to Kallia), and another woman's story as cover (the well, retold to Valens). No later concealment uses a substitute anecdote.
+    **Valens is told the city in Ch.15 (outline), not before; he does not yet know the name.**
+  - **The hand held over a sleeper's shoulder and drawn in:** once (a threshold touch, unannounced). **Stepping over a sleeper in a doorway:**
+    twice in Ch.14 (out and back); SPENT.
+  - **The plan's reasoning shapes:** "A husband, a brother or an owner: somebody whose name went down first."; "I left him out of the plan.
+    He kept being in it."; "Whoever took me to that town, the plan left him there."; "It was Italy."; Saint Paul's grain ship; "a door that
+    was only paint"; "A year to get there. Seven, after that, to watch a door in."; "It was a good plan." … "and it held." Each once. Ch.15's
+    bargain refers to the plan without restating it.
+  - **The bowl thread:** accepted in intention (Ch.14); Euthydikos's summons after the season is still to come on the page.
+  - **CH13-7:** carried as an errand. **Ch.15 must account for the cave visit in a clause or a short backfill** (she went up with Valens and
+    the mules; the crack shut; or as the page decides), never as a staged return in Ch.3/6/8 words (cave descriptors SPENT). Ch.14's own
+    cave words ("given me back my own arm, cold", "That door went home with no sea in the way, and no town.") are spent with them.
+  - **The old moon before dawn** ("a paring of it, too thin to give any light") and **Valens's "There's no moon till the new one"**: once each;
+    the new moon is now near (Kallia's boats).
+  - **The ending image** (the two cliffs "coming clear of the night", the path "scratched up the rock in its long turns and nobody on it
+    yet"): SPENT as a close; no later chapter ends on dawn on the Phaedriades.
+  - **One-off comparisons used:** "like a charcoal briquette somebody had tried to cut into wedges" (1998 domain: kitchen/backyard); the
+    simile count is 2 in the chapter.
+  - **Counts (Writer's page, by gate and by hand):** hinge-family openers 0; "So" openers 0; "before I had [verb]" 0; negation pivots 0;
+    and-chains 1 (cap 9); credential asides 0; "as if / as though" 0; em-dashes 0; semicolons 5; object handling 0; kneel / crouch 0 ("sat
+    on his heels" is not a crouch verb); bend 0; hand / chin on the knee 0; deliberation pause 1 by hand (Valens, "He weighed me a while
+    longer."; plus Mara "I lay and argued it both ways"); exit by gait 0; bare "No." 0; narrated non-answers 0; "said/told the
+    [non-listener]" 1 ("toward the jars"); call-out pointers 1 ("Kallia had had every other piece of it from me, in its order."); the lamp as
+    scrutiny 0; memories 1; laughs 1 (Mara); teeth (obsession) 0; English 0; echoes 0; foreshadowing 0.
+  - **Tool/text note:** the mandated opener "I knew the year." collided with Ch.10's "the way I knew the year of the Armada" in the strict
+    voice-wear gate; Ch.10 now reads "the way I knew the date of the Armada" (one word; nothing else in Ch.10 touched).
+
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
   used as a scene button.
@@ -3774,3 +3911,12 @@ finalizing the chapter. Never add a tic to fix it.
   new tic, catchphrase or signature gesture given to anyone. Not done here: the manuscript's l.4 word-count comment (still 7,508; the eval
   asks for 7,503), ENTITY_STATE CH13-13's status (entity-tracker: the card side is now amended), and foundation §3's "never explains"
   (architect). Tic-bearer roster still NONE.
+- 2026-10-20 (Writer, Ch.14 "What Pompeii Means"): no new NAMED characters. Added Ch.14 blocks to MARA (the year, the town from a plan,
+  Pliny's letters unnamed, the 1988 casts as the one memory, the laugh in a new shape, the hand over Valens's shoulder, the plan as reasoning
+  incl. what it does to the man and to Felix, CH13-7 kept as an errand), VALENS (the corner; asleep across the threshold; the knife on
+  waking; "She'll dig it crooked."; gone for the mules before light), KALLIA (the drain at midnight, the stool line, her blanket over his
+  feet, Mara's chores done, the dawn instruction), THEANO (no lines; the water carried) and FELIX (off-page, answered in the plan). New
+  walk-on block (the woman with a jug; the Thessalian father from Larisa and his sick youngest son; the sleep-talker). New block At-risk
+  after Ch.14. Ch.10 one-word change ("year" → "date" of the Armada) so the mandated Ch.14 opener clears the strict self-repeat gate. No
+  device collisions: no walk-on counts, lists, prices or notices workmanship; Valens never compares; Kallia answers with labor. Tic-bearer
+  roster still NONE.
