@@ -190,6 +190,7 @@ more," said once, as the source has it). **Physicality:** the rapier as an exten
 - **Huginn:** Mr. Porter's raven familiar.
 - **Tyler:** a boy in the front row of the familiar class; asks what Porter means about not leaving (source L347).
 - **Mr. Winters:** rune teacher; skinny, short; praises Bal's avoidance rune.
+- **Zoran:** warfare teacher; young, looks like he could be Naisura's son; practising sword forms before class; "Take the one that speaks to you."
 - **The librarian:** sets books aside for Bal; no other source detail (keep to function).
 - **Thad Moren:** slight, black ponytail, pale, sharp nose; reads the reports; worn out by the war.
   **Xavier Giles:** broad, weapon-scarred hands, tan, clear blue eyes; plans the strike on the priests.
