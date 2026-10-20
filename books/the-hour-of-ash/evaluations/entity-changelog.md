@@ -1420,3 +1420,137 @@ The auto-resolution pass found no open conflict that Ch.11 touches. No knowledge
 - CH11-3 and CH11-4 are re-anchored only.
 - `last_updated_chapter` stays 11. No new contradiction and no knowledge_gap. The YAML loads under a strict loader with no duplicate keys.
 - **For Ch.12 onward:** Valens's nose is no longer broken on the page, so do not bring a broken nose back without a cause. His face on the page is the eyebrow nick and the scar on his right hand.
+
+## 2026-10-20: UPDATE (chapter 12, "The Kirrha Road", final text: post-writer, dialogue-polish, hook-craft, disruptor and continuity repair C-01, W-01..W-23)
+
+**Trigger:** chapter loop step D.5 for chapter 12.
+
+**Inputs read:**
+- `manuscript/chapters/chapter-12.md`, twice.
+  - First in its post-disruptor state (184 paragraphs, breaks after p60 and p116; md5 c72f8bff…, last written 04:16:24; commit 7c5e2e0).
+  - Mid-run the continuity audit (`evaluations/continuity/chapter-12-audit.md`, commit ded5077, 1 CRIT / 23 WARN) and the book-editor's repair (commit b43a454, 04:43) landed. The repair edited the chapter, foundation §3 and outline Ch.17/Ch.22. The update was re-anchored to the repaired page (last written 04:42:39, md5 81e139f9…), which had stopped changing.
+  - The repaired page has **182 paragraphs**, with breaks after p59 and p114:
+    - old p1..p14 keep their numbers;
+    - old p15 ("I watched the stones in front of my feet.") is cut;
+    - old p16..p98 = new p15..p97;
+    - old p99 ("He was quiet for a while.") is cut;
+    - old p100..p184 = new p98..p182.
+- `ENTITY_STATE.yaml` (`last_updated_chapter: 11`).
+- outline.md Ch.11–15; foundation §3 (before and after the patch).
+- character-bible.md: the Ch.12 blocks, the walk-on note and At-risk after Ch.12.
+- `evaluations/disruption-chapter-12.md`; the continuity audit, including its SUGGESTED YAML PATCHES.
+- Ch.5–11 pages, for the money, the camera, the duffel, the notice, the mules and Praxias's price.
+
+**Meta:**
+- `last_updated_chapter: 12`; `chapters_tracked: [1..12]`.
+- `paragraph_rule` is extended to Ch.12, with a shard map and the repair's renumbering.
+- New block `meta.ch12_requested_checks`.
+- 1,000+ `ch-12:pYY` cites, all within p1..p182.
+- Every quoted fragment on a changed line was machine-checked. Each fragment is on the repaired page and inside a paragraph its line cites. The exceptions are deliberate: bible, plan and pre-repair quotes that are labelled as such.
+- The YAML loads under `yaml.safe_load` and under a strict loader with no duplicate keys.
+
+### Replaced (plan → prose)
+- **Timeline:** row 12. One day, the fourth of Bysios (derived from "It was three days to the seventh of Bysios.", p180), two days after Ch.11's last evening.
+- **Location rows:** the Ch.12 rows for Valens, Mara and Felix.
+- **Valens:** the Ch.12 waypoint.
+- **Mara:** the two planned knowledge rows, replaced by 19 prose rows.
+- **The freedman:** `plautias-brothers-freedman.first_appearance` (told, p101).
+- **Objects:**
+  - `fathers-pentax-k1000`: the Ch.12 beat.
+  - `lens-cap`: LOST.
+  - `consultation-goat`: the Ch.12 beat.
+  - `lupus-reward-notice`: resolution note.
+- **Knowledge index:** the planned rows in `dowry_suit_witness`, `lupus_notice` and `oracle_access`.
+- **Re-synced to the patched foundation/outline (old text kept as `was`):**
+  - `valens.legal_status[0]`;
+  - Celer's contested-manumission trait;
+  - the world rule on contested arena manumissions;
+  - `manumission-record.note`.
+
+  Each now reads: the freedom was registered, and Celer claims a prior sale.
+
+### Added
+- **Characters:**
+  - `the-talker` (dead);
+  - `big-man-with-the-stick` and `third-man-kirrha-road` (both alive and fled; both heard "Mara." and saw the camera);
+  - `graybeard-with-the-donkey`, `graybeards-women`, `graybeards-boy` and `graybeards-son`;
+  - `kirrha-headman`, `kirrha-sprat-woman`, `kirrha-oil-men` and `lamp-tray-man`;
+  - `gallery-lodgers-ch12` (**needs_review**: possible overlap with achaean-pilgrim-family and the Elateian boxer; not merged).
+- **Told-only figures:** `the-gaul`, `corinth-lanista`, `corinth-games-magistrate`, `plautias-mother`, `plautias-father`, `plautias-hairdresser`, `celers-second-false-witness`, `celers-steward`, `gulf-fisherman`, `corinthian-mule-dealer` and `spiculus`.
+- **Mara:** `worn/carries/marks/hunger/hair_ch12`, 13 Ch.12 traits, `knowledge_absent_ch12`, a waypoint, a sandals possession, and Ch.12 statuses on Valens, Kallia, Felix and Praxias. She asks no question in the whole chapter.
+- **Valens:** `seen/clothing/marks_ch12`; 14 Ch.12 traits, including the shaking at the fall and the telling; a legal_status row; 7 knowledge rows, including "He'll have told them where he found me." as his inference; `knowledge_absent_ch12`; possessions (the talker's knife, the purse, the seized tablet, the cloak); the `marcus` relationship; a Ch.12 note on the Lupus alias.
+- **Felix:** `marks_ch12`, 9 traits, 7 knowledge rows, `knowledge_absent_ch12` and a graybeard relationship.
+- **Kallia:** `household_ch12`, a location row and `knowledge_absent_ch12`.
+- **Plautia, Celer, Marcus, Plautia's brother:** first page mentions (told) and Ch.12 traits.
+- **Nero and Vespasian:** Ch.12 traits. **Kirrha goat dealer:** "the Aigion man", now on the page.
+- **Locations:**
+  - new: `kirrha-road` (the olive terraces above the bare plain, the ditch, the ford, the cleft and pool, the climb, the view), `kenchreai` and `celers-house`;
+  - Ch.12 facts on kirrha, corinth, lechaion, aigion, delphi, parnassus, kallias-house and valens-yard.
+- **Objects:**
+  - new: `talkers-knife` (chekhov_open), `dead-mans-purse` (lost in the stream), `olive-wood-stick`, `cracked-oil-jar` (heaved among the olives) and `valens-manumission-tablet` (seized, 69);
+  - Ch.12 rows on the Pentax, film-roll (0 frames), Seiko, money rag, reply-obol, taxi coins, question sherd, flashlight, duffel and borrowed himation.
+- **Knowledge index:**
+  - new: `valens_frame`, `kirrha_road_killing` and `maras_camera`;
+  - Ch.12 rows on seiko_with_valens, valens_reads and the_agreement.
+- **Threads:**
+  - new: `kirrha-road-killing` and `kallia-told`;
+  - Ch.12 notes on celer-and-the-frame, valens-papers, romance, valens-known, plautias-son, felix-arena, the relics (film, watch), seventh-of-bysios-phrase (USED 1 of 3), maras-english-to-herself (HELD), oracle-access, valens-literacy, maras-living and praxias-at-the-door.
+- **World rules (OBSERVED):**
+  - the wooden sword and the magistrate's book;
+  - the dowry share and the father keeping the boy;
+  - Celer's prior-sale claim;
+  - the freedom and "Robbers off every boat";
+  - "the god's road";
+  - the precinct's rod-slaves;
+  - the high grazing.
+- **Organizations:** Ch.12 facts on household-of-celer, corinth-record-office and delphic-sanctuary.
+
+### Resolved
+- **CH11-3 (low), the money gap: RESOLVED by the page.**
+  - The goat is paid by Mara from her rag ("the rag was thin after it", p118).
+  - The sprats are paid by Valens (p118).
+  - The dead man's denarii and Corinthian bronze cover "the cake, and Praxias's drachma, and leave plenty over" (p132); "Keep what he doesn't" (p134).
+  - Verified against ch-09 and ch-11: no figure clashes. The goat, the cake and Valens's part stay unpriced.
+- **Plan gap "How Celer learned …": CLOSED** on the audit's recommendation (W-11). As repaired, Valens infers it: "He'll have told them where he found me." (p101).
+- **The Ch.11 forward constraint "the Pentax was last in the duffel": SUPPLIED.** "I had carried it since the lodgers came … under my chiton on its strap" (p78).
+
+### Contradictions
+New and UNRESOLVED:
+- **CH12-1 (info):** the bible's Ch.12 blocks quote the writer's draft. They predate dialogue-polish, hook-craft, the disruptor and the repair, so lines like these are off the page:
+  - "The glass is whole.", "five drachmas", "That's how it gets told.";
+  - the Craneion, "A quay doesn't ask twice", "brought knives", "without looking in it";
+  - "People do, mostly.", "Her, and nobody else.";
+  - the boot lace, "mule-man", the propped jar;
+  - "Was it one blow?" and Felix's draft questions.
+
+  The bible sync is handed off.
+- **CH12-2 (low):** the archive record is "the magistrate's book" on the page (p87; p97), but outline Ch.17 still has "The bronze-and-wax diptych". The repair aligned the legal claim, not the record's form. **Ch.16–17 must take the book (or a leaf of it) or show where a diptych comes from.**
+- **CH12-3 (info):** "I carried on the Kirrha quay that winter … The mules came after" (p97) against Kallia's mule eating the pomegranate "last winter" (ch-06:p49). Compatible only if the mules came during that winter.
+- **CH12-4 (info):** "the first boats of the year" at the mole (p116), although boats were already crossing from Aigion (Ch.10, Ch.11).
+- **CH12-5 (info):** the outline's "Celer's men". The page never says who sent the three; their sender is Valens's inference only ("He wants me in a ditch."; "He'll have told them where he found me."). The bible's "came on the Lechaion boat" is not stated.
+- **CH12-7 (info):** Valens ("Is it broken?") and Felix ("Is it silver?" / "It was my father's") have seen the camera before outline Ch.15's showing.
+- **CH12-8 (info):** whether "Valens" is his own name, the book's name or a quay name is open ("They asked my name and I gave them Valens.", p97). This bears on Ch.17 and Ch.22.
+- **CH12-9 (info):** wording departures from outline Ch.12:
+  - the cap ends in the oil, not the dust;
+  - the shaking happens at a pool above the ford;
+  - the copy came "after the snow, with the oil carts";
+  - the chapter ends before the goat is home;
+  - the onions are not tied to Thrace;
+  - after his flight Valens carried on the Kirrha quay.
+
+New and RESOLVED in the same run:
+- **CH12-6 (info):** "Those three brought knives." against one knife and a stick. Found in the post-disruptor text; the repair made it "Those three brought none."
+- **CH12-10 (low):** foundation §3's "never registered before a magistrate" against the page's entered freedom and Celer's prior-sale claim (the audit's W-21). Not caught by this run before the patch, and logged for the trail. Settled when commit b43a454 patched foundation §3 and outline Ch.17/22.
+
+The auto-resolution pass found that no other open flag is touched (CH11-4 rechecked; unchanged). No knowledge_gap.
+
+### For Ch.13 onward
+- **The goat:** Spicula to Felix, "the god's" to Mara. She is to be brought to Valens's yard "the evening before" (p171). Where she spends the three nights is not stated (implied with Mara).
+- **Valens's marks at the consultation:** the graze, the welt on the left forearm, the split left knuckles and the shoulder bruises (audit I-15).
+- **Mara's rag** now holds the dead man's silver, never itemized.
+- **Kallia** is to be told "the whole of it" (p176; p177). Until then she has only the walkers' story.
+- **Felix** knows the cover story, but not Lupus, the frame or the notice.
+- **The two who ran** heard "Mara." and saw the camera.
+- **The lens cap** is gone and the filter ring is dented. voice-bank sample-13's "I put the cap back on the lens" is now impossible (audit I-14).
+- **The watch** has no touch until Ch.18 (audit I-13).
+- **The allowlisted phrase** "the seventh of Bysios" is at 1 of 3.
