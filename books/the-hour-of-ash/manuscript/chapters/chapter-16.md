@@ -4,6 +4,7 @@
 <!-- Word count: 7,472 (shape_check; style 7,478; wc -w 7,777 incl. header comments) | Writer draft 2026-10-20 | Target: 7,600 (range 7,100-8,100) | Dialogue 40% (band 40-50) | Breaks 6 | Median sentence 15 (gear mid) | Opens dialogue, closes question | Bare "No." Valens 1 | Kneel/crouch 0 | Hand-on-knee 0 | Deliberation pause 0 | Exit by gait 0 | Object handling 1 | Em-dash 1 | Semicolons 2.5/1k | Echoes 0 | Tic gate clean | Voice-wear clean | Foreshadow 0 | Anchor: Plautia giving away the bracelet Mara admired, then weeping over it behind a curtain; the small paired marks near its clasp -->
 <!-- Section budget actuals: C1 ~1,350 (budget 1,550) | D1 ~900 (950) | C2 ~1,350 (1,500) | D2 ~850 (850) | C3 ~1,500 incl. the unsummoned visit (1,150; the friendship turn moved here) | D3 ~1,150 incl. the porch arrival (1,100) | C4 ~1,350 (1,500) -->
 <!-- Dialogue-polish 2026-10-20: 7,835 words (shape_check; style 7,841) | Dialogue 42.8% (shape; show_tell 42.6) | Breaks 6 | Median 15 | Opens dialogue, closes question (first line and closing paragraph byte-identical) | Em-dash 2 | Bare "No." Valens 1, Mara 1 | Plautia "Then…" openers 5 → 2 | Command echoes 4 → 0 | as if/though 1 | Echoes 0 | Tic gate clean | Voice-wear clean | Foreshadow 0 | Notes: evaluations/dialogue-chapter-16.md -->
+<!-- Disruption 2026-10-20: 7,626 words (shape_check; style 7,632) | Dialogue 43.8% (shape 44) | Breaks 6 | Median 15 | first line + closing paragraph byte-identical (md5 checked) | Em-dash 3 | "plain" for Plautia's questions 3 -> 2 | sack handling 6 -> 3 | Plautia pre-question beats 3 -> 1 | body-part rulers 7 -> 4 | Tic gate clean | Voice-wear clean | Echoes 0 | Notes: evaluations/disruption-chapter-16.md -->
 
 
 "Have you seen his back?" Until then she had talked in Greek, a Greek so finely made that I lost it a clause at a time: the rain, and her brother's roof, which leaked over the north colonnade, and a regret that his household had made me no better welcome in all these weeks, in sentences that went on taking new parts into themselves long after I had found the verb and lost hold of its subject. The question was short and plain, and all of it reached me.
@@ -66,7 +67,7 @@ It was book Latin, laid down slowly, the verb held back for the end, and each cl
 
 "Our man is a freedman, and so is the clerk, and one freedman does not call another a liar at his patron's door," said Plautia. "The clerk was smiling. Our man came away."
 
-"Can your brother not go to the proconsul himself?"
+"Can your brother not—"
 
 "He can, and he has. The proconsul received him with every kindness, and asked after my health, and after my son's, and said that he would look into the matter of the copying as soon as the year's business allowed, and my brother came home and broke a cup."
 
@@ -81,8 +82,6 @@ It was book Latin, laid down slowly, the verb held back for the end, and each cl
 "To see what?"
 
 "What he had chosen," said Plautia, "when at last he chose anything."
-
-I had nothing to say to that in any language.
 
 "Everybody who climbs that stair wants something of mine," she said. "My brother's advocate wants my mother's silver for his fee, and says so in a very pretty way. The cook wants my old cloak for his daughter, and does not say so, and looks at it—"
 
@@ -154,7 +153,7 @@ I found the storeroom by the feel of its jamb. Inside, the mat was in its corner
 
 I wrote Kallia's line in Plautia's room four mornings after that first one, on a sheet of papyrus from a stall at the top of the Lechaion road, with ink the stallholder ground for me in a shell while I watched. I wrote it out twice because the first one blotted and the second one was not better.
 
-Plautia had sent down for me two more mornings running. Both times she talked Latin to me for an hour about very little, mostly the price of charcoal in a wet winter, and in the middle of it put one plain question to me, never the same one.
+Plautia had sent down for me two more mornings running. Both times she talked Latin to me for an hour about very little, mostly the price of charcoal in a wet winter, and in the middle of it asked me one thing straight out, never the same thing twice.
 
 "There is a man laying a floor in the dining room below us, whom this house pays by the day," she said on the first of those mornings, "and he has found out that a floor laid drunk takes twice as many days. Do you sleep, in a stable?"
 
@@ -186,7 +185,7 @@ She had returned to the charcoal after that. Today she watched me cut the reed.
 
 "He has written once," I said, "in more than two years."
 
-Plautia looked at the sheet a while. "When his letter came, did she weep?"
+"When his letter came, did she weep?"
 
 "She swept a floor."
 
@@ -202,11 +201,11 @@ Plautia looked at the sheet a while. "When his letter came, did she weep?"
 
 "Now."
 
-Plautia put her hands out to the coals. Her sleeve slid from her left wrist, and there was a band of gold round it, plain, the breadth of a fingertip, closed so that its closing was hidden from me. In the lab I had held bracelets by the trayful, in cotton gloves: a hinge at one edge and a pin at the other, the pin a wire run through the knuckles of the hinge from top to bottom, and the knuckles always showing, however good the work, because a hinge was a thing that could not be hidden. On this one I found neither. The gold went round her wrist like a ring round a finger.
+Plautia put her hands out to the coals. Her sleeve slid from her left wrist, and there was a band of gold round it, plain, the breadth of a fingertip, closed so that its closing was hidden from me. In the lab I had held bracelets by the trayful, in cotton gloves: a hinge at one edge and a pin at the other, the pin a wire run through the knuckles of the hinge from top to bottom, and the knuckles always showing, however good the work. On this one I found neither. The gold went round her wrist like a ring round a finger.
 
 "How is it closed?" I said. "I can find no hinge. I have never met a hinge that kept itself hidden."
 
-Plautia turned the band round her wrist with a fingertip until a line showed in the gold, a seam as fine as a hair; she opened it along the seam, and it lay in her palm, and she held the palm out to me.
+Plautia turned the band round her wrist until a line showed in the gold, a seam as fine as a hair; she opened it along the seam, and it lay in her palm, and she held the palm out to me.
 
 "No," I said. "Lady, I only—"
 
@@ -222,13 +221,13 @@ Myrrhine rose from her stool, came to the table, and eyed the bracelet without t
 
 "It is not for sale."
 
-"Everything she gives away is for sale again by morning." She meant no malice; it was a fact of the house, like the leaking colonnade. "I had her mother's cloak back off a fuller's wife at the Saturnalia, and her good shoes off a girl at the baths. Two drachmas."
+"Everything she gives away is for sale again by morning. I had her mother's cloak back off a fuller's wife at the Saturnalia, and her good shoes off a girl at the baths. Two drachmas."
 
 "Does she know you buy them back?"
 
 "She knows her shoes are on her feet." Myrrhine returned to her stool and her lupins, and split one with her thumbnail and ate it, and watched the curtain.
 
-I took the bracelet up. It was heavier than it looked, and soft, as the old gold always was; a fingernail would have marked it. Near the clasp, on the outer face, just where the band would have lain across the inside of her wrist, the gold carried a small crescent of dents, and the opposite edge another: two marks above, two below, set close, with a gap in the middle of each pair. Over the years they had worn smooth at their edges. At work I would have measured them and drawn them and written them up on a card, and I sat in that room in Corinth holding it and did none of it.
+I took the bracelet up. It was heavier than it looked, and soft, as the old gold always was; a fingernail would have marked it. Near the clasp, on the outer face, just where the band would have lain across the inside of her wrist, the gold carried a small crescent of dents, and the opposite edge another: two marks above, two below, set close, with a gap in the middle of each pair. Over the years they had worn smooth at their edges. At work I would have measured them and drawn them and written them up on a card.
 
 Someone had cut his teeth on it.
 
@@ -242,7 +241,7 @@ It was a small room with a bed in it, and a window high up with its shutter clos
 
 She looked at the gold in my hand, not at me.
 
-"He had two teeth at the bottom by midsummer," she said, "and two at the top by the vintage, and he would not take the breast unless that arm was across him, so that I wore it day and night for most of a year, and his mother told everyone who dined with us that I nursed my son like a fuller's wife. Which was true." Her hands stayed where they were. "Will you wear it?"
+"He had two teeth at the bottom by midsummer," she said, "and two at the top by the vintage, and he would not take the breast unless that arm was across him, so that I wore it day and night for most of a year, and his mother told everyone who dined with us that I nursed my son like a fuller's wife. Which was true. Will you wear it?"
 
 "Yes."
 
@@ -256,7 +255,7 @@ She put out one finger and touched the marks, and let it rest there.
 
 Kallia's lamp was still alight when I woke.
 
-From my mat I had it in the open doorway: a small flame on the sill of Kallia's window, blue at the root, standing in a court that was still more dark than gray. The himation lay folded on my bag inside the door, where my hand would find it before my feet found the floor. I opened it out across my lap.
+From my mat I had it in the open doorway: a small flame on the sill of Kallia's window, blue at the root, standing in a court that was still more dark than gray. The himation lay folded on my bag inside the door. I opened it out across my lap.
 
 All summer my pin had pierced the cloth at one spot on the left shoulder, and the weave there had parted round it into a hole I could have pushed a fingertip into, with a fringe of broken threads I had meant every week to mend. The hole was gone. Kallia had closed it into a round eye, working a gray thread about it in turns laid so close that no cloth showed between them, and had run a second thread through the weave all round, to keep the hole from going any further. The hem was turned where the scree and the thorn had frayed it, from one corner to the other, and stitched down. The stitches were small and even and all alike. Toward the second corner they grew a fraction longer, and then, for the last hand's breadth, small again.
 
@@ -268,13 +267,13 @@ On the gallery the old man coughed and shifted under his blanket.
 
 The light came the way it came every morning into that court, downward: first the ridge tiles of the gallery, then the coping opposite, then the highest leaves of the pomegranate, and the flame on the sill went from being the brightest thing in the court to being only one of the things in it. I lifted the camera out of my clothes by its strap.
 
-I opened the lens wide and turned the dial down to the slowest speed I could hold steady, and set my shoulder against the pomegranate's trunk. In the finder the window was a square of dark with a crack of light beside it where the shutter was ajar. On the sill below it stood the lamp: a round belly of brown clay, a nozzle black to the lip, the flame standing up off it, and above it a long tongue of soot climbing the plaster of the reveal to the lintel, broadening to a hand's width at the top, one night's burning laid over years of others.
+I opened the lens wide and turned the dial down to the slowest speed I could hold steady, and set my shoulder against the pomegranate's trunk. In the finder the window was a square of dark with a crack of light beside it where the shutter was ajar. On the sill below it stood the lamp: a round belly of brown clay, a nozzle black to the lip, the flame standing up off it, and above it a long tongue of soot climbing the plaster of the reveal to the lintel and broadening as it went, one night's burning laid over years of others.
 
 I held my breath and pressed the release.
 
 The shutter clacked, louder in that court than anything since the scorpion, the mirror clapping up and back behind the glass. Kallia was facing me from the jar with the dipper in her hand. She looked at the thing at my face, and then past it, at her lamp, with the look she gave a jar when a lodger had been standing too near it. The lamp was unchanged.
 
-She crossed to the sill, wet her fingertips at her mouth, and pinched the flame out. A wisp went up along the soot and was gone before it reached the lintel.
+She crossed to the sill, wet her fingertips at her mouth, pinched the flame out, and turned to her pot.
 
 * * *
 
@@ -290,13 +289,13 @@ Plautia had stopped on the step when he stopped. She waited there, with her hem 
 
 He was where he had been, by the house wall, the sack at his feet.
 
-She was gone round the turning. He watched the empty turning a while, then hefted the sack again and climbed the step, and saw me, and let the sack drop again. He came to the bench and looked at my face. Behind him the street might have been a wall.
+She was gone round the turning. He watched the empty turning a while, then carried the sack up the step, and saw me, and let it drop again. He came to the bench and looked at my face. Behind him the street might have been a wall.
 
 "Your feet are wet."
 
 "The dog is lying on the dry one."
 
-"Is that gold?" Felix had climbed the step behind him and dropped his own sack on top of Valens's. "On your arm. Is it real? Where'd you get it? If you bite it you can tell; if it's real your teeth go in. Give it here, I'll show you."
+"Is that gold?" Felix was on the step behind him, his own sack still on his shoulder. "On your arm. Is it real? Where'd you get it? If you bite it you can tell; if it's real your teeth go in. Give it here, I'll show you."
 
 "Someone has done that already," I said, and kept the arm in my lap.
 
@@ -316,7 +315,7 @@ He studied my face, and then the band, the band for longer.
 
 Valens turned to Felix. "Take the sacks round. Fill the dog's bowl; it's foul."
 
-Felix gripped a sack and did not lift it. "The man at the stable says there's fights at the amphitheater after the games. Proper ones, with a lanista from Patrae and a Gaul that's killed four. He says the Corinthians built it in a hollow so the noise goes up and the whole forum hears it." Felix glanced past the band to Valens. "Is it the one? Where you got the sword?"
+"The man at the stable says there's fights at the amphitheater after the games. Proper ones, with a lanista from Patrae and a Gaul that's killed four. He says the Corinthians built it in a hollow so the noise goes up and the whole forum hears it. Is it the one? Where you got the sword?"
 
 "There's only the one."
 
@@ -324,7 +323,7 @@ Felix gripped a sack and did not lift it. "The man at the stable says there's fi
 
 "The sacks," said Valens.
 
-Felix shouldered one sack and dragged the other, and the dog went with him for the bowl's sake.
+Felix made for the stables with one load up and the other dragging at his heels, and the dog followed for the bowl's sake.
 
 "Will you take him?" I said. "Only to the gate."
 
@@ -336,7 +335,7 @@ Felix shouldered one sack and dragged the other, and the dog went with him for t
 
 "Where have you been all morning? The barley is sold two doors down."
 
-"Near the forum." He sat next to me on the bench, which in that house he had not done before, his forearms laid along his thighs. "The proconsul's office is at the end of the long colonnade, across the forum from the old temple. Two doors. One onto the colonnade, with a porter on a stool and a slave asleep at his feet. One at the back, onto a lane, with a baker's oven built against it and a step down."
+"Near the forum." He sat next to me on the bench, his forearms laid along his thighs. "The proconsul's office is at the end of the long colonnade, across the forum from the old temple. Two doors. One onto the colonnade, with a porter on a stool and a slave asleep at his feet. One at the back, onto a lane, with a baker's oven built against it and a step down."
 
 "You went to see it."
 
@@ -354,7 +353,7 @@ He had the loaf inside his tunic, and he took it out and broke it, and handed me
 
 That afternoon I climbed Plautia's stair without being sent for.
 
-She was alone. Myrrhine was in the kitchen seeing to the lamps, and Plautia sat in the high-backed chair with her hands empty, doing no work, with the shutter open a hand's breadth on a pewter sky. Her own wrist was bare. She saw mine before she saw my face.
+She was alone. Myrrhine was in the kitchen seeing to the lamps, and Plautia sat in the high-backed chair doing no work, with the shutter open a little on a pewter sky. Her own wrist was bare. She saw mine before she saw my face.
 
 "I have come for nothing," I said.
 
@@ -392,7 +391,7 @@ Halfway across, the mules were sick, as far as mules could be.
 
 They had no way to bring it up. They stood with their legs braced wide against the roll and the sweat coming out dark on their necks and flanks, and groaned, all together, a long low sound like furniture being dragged across a floor upstairs. The dun hung her lip and let it hang. The black kept trying to lie down, folding at the knees and catching herself, and every time she started, Valens got a shoulder under her neck and talked her up again.
 
-Felix was sick into the sea with great industry and no breakfast.
+Felix, who could, was sick into the sea for the lot of them.
 
 "Why don't they spew?" He straightened from the rail, his face gone white as whey. "Wouldn't it help them? Does it hurt worse, if you can't? Is that why they're making that noise? Would a horse?" And he was at the rail again.
 
@@ -424,7 +423,7 @@ Down among the jars lay the black. She had folded at last and gone over onto her
 
 "Felix."
 
-Felix wriggled in behind her. Valens worked a sack in under her shoulder and told her in Latin, "Up, now, you old fool. Up," and on the second of them Felix had a grip on the tail and threw his weight back on it, and the black heaved. Her forelegs came under her first, and she sat up in the straw like a dog, trembling, with her hind end still down; then she got those under her too, and stood. Her ribs heaved. By then the light was a yellow smudge on her flank the breadth of three fingers, and I turned it off while it still had something left.
+Felix wriggled in behind her. Valens worked a sack in under her shoulder and told her in Latin, "Up, now, you old fool. Up," and on the second of them Felix had a grip on the tail and threw his weight back on it, and the black heaved. Her forelegs came under her first, and she sat up in the straw like a dog, trembling, with her hind end still down; then she got those under her too, and stood. Her ribs heaved. By then the light was only a yellow smudge on her flank, and I turned it off while it still had something left.
 
 "Does it go back on?" said Felix, in the dark.
 
@@ -442,7 +441,7 @@ Felix lay down again on his rope. Valens stayed by the black, and presently he s
 
 "I did." I heard him settle into the straw between the black and the jars, where she could not go over again without going over onto him.
 
-When the gray came, the coast was there, and the long low line of Lechaion's moles, and over all of it, rising from the flat land behind the town, the great rock of the citadel with the first sun on its top and a wall running along its crest, gone gold. Felix was at the rail with his hands wrapped round each other.
+When the gray came, the coast was there, and the long low line of Lechaion's moles, and over all of it, rising from the flat land behind the town, the great rock of the citadel with the first sun on its top and a wall running along its crest. Felix was at the rail with his hands wrapped round each other.
 
 "What's on the top of it?"
 
@@ -470,7 +469,7 @@ From Lechaion the road ran dead straight over the flat land to the city, between
 
 "My wife," said Valens.
 
-Never before in my hearing had he said it to a stranger, to a man with a stool and a tablet, who might have put it in writing and did not. The dog pushed its wet nose into my hand and kept up its snuffling. "Round by the lane for the stable, and there are rooms over it," the porter said, and was done with us. Beyond him, at the back of the court, a woman was climbing an outside stair, a maid behind her holding a cloak over her against the drizzle, and she kept her face to the stair.
+A wet nose pushed into my hand, the dog's. "Round by the lane for the stable, and there are rooms over it," the porter said, and was done with us. Beyond him, at the back of the court, a woman was climbing an outside stair, a maid behind her holding a cloak over her against the drizzle, and she kept her face to the stair.
 
 * * *
 
@@ -478,7 +477,7 @@ Never before in my hearing had he said it to a stranger, to a man with a stool a
 
 "Which clerk?" asked Valens.
 
-He stood just inside the door with his back to the wall by the jamb, which gave him the whole room and the stair behind him. He had not sat in that room. "There is a stool, Valens," she had told him at the door, and again when the wine was poured, and both times he had answered, "I'm well here."
+He stood just inside the door with his back to the wall by the jamb. He had not sat in that room. "There is a stool, Valens," she had told him at the door, and again when the wine was poured, and both times he had answered, "I'm well here."
 
 "Our freedman says it will be the young one, who drinks, or the gray-haired one, who does not, and that both of them are fond of money." She had a cup of hot wine in her hands and did not drink it. "I will go in myself, on the second morning, at the hour the boys run, when the office is emptiest. I will have a reason for being there that no clerk can refuse a woman of my family without writing his refusal down, and a purse that he will not wish to write down at all, and my woman with me to carry my writing case. My woman reads."
 
@@ -530,7 +529,7 @@ Valens said, "No."
 
 "I'll be at the back door."
 
-Their eyes met across the room. It was the first such look I had seen pass between them: the look of two people carrying a weight from either end, each waiting for the other to tire. Plautia let her end go.
+Plautia held his look, and he held hers, until she was the one who gave way.
 
 "We will speak of the door when my brother has spoken to the baker," she said.
 
@@ -547,8 +546,6 @@ Their eyes met across the room. It was the first such look I had seen pass betwe
 "His, and his colleague's."
 
 "A cord can be cut," I said, "and tied again. A seal is wax."
-
-Plautia regarded me over the coals.
 
 "Can you put a seal back so that nobody sees?"
 
