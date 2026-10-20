@@ -163,8 +163,8 @@ still when she is frightened; uses a spear; Hopper; the earth ring; glances at j
 **Evasion:** deflects sincerity with a joke until it is too big to deflect (the diary, the poison).
 **Physicality:** the hair. **Tic line:** none — distinguished by syntax and physicality. "I'm not like most
 people" is used once, where the source has it, never as a signature. The source gives a stuck-out tongue to
-both Amelia (p.24) and Viridia (p.35); two characters may not share a device, so it is used once only, for
-Amelia (Ch.5), and Viridia's moment is rendered another way (Ch.7).
+both Amelia (p.24) and Viridia (p.35); both are kept, once each, where the source has them (author decision
+2026-10-20). Neither becomes a recurring gesture.
 
 ### Lora Aegis
 **Source facts:** shy; brown hair, glasses that slide down her nose, freckles; Kenmei/Waves sygl; trained by

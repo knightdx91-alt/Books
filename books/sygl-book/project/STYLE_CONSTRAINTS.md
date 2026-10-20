@@ -23,8 +23,8 @@ Revised 2026-10-20 (author: "make it more like my original script. And it's supp
   form of address, not a refrain; do not build jokes around repeating it.
 - Source lines that occur once ("I'm not like most people," "I need to study more," "That girl loves having
   the last word") are used once, where the source has them, never as signatures.
-- No two characters share a device. The source gives a stuck-out tongue to both Amelia (p.24) and Viridia
-  (p.35); it is used once only, for Amelia (Ch.5), and Viridia's moment is rendered another way (Ch.7).
+- No two characters share a device. Exception (author decision 2026-10-20): the source gives a stuck-out
+  tongue to both Amelia (p.24, Ch.5) and Viridia (p.35, Ch.7); both are kept, once each. Neither recurs.
 - Gestures that recur in the source (Amelia's finger-snap, Viridia's crackling hair) are rendered with variety
   and only where the source has them, never as a signature. Bal flexing the new hand is spent in Ch.3.
 - Stage business rationed: `nods/nodded`, `shrugs/shrugged`, `shakes his head`, `grins` as a tag; hair
@@ -38,7 +38,7 @@ Revised 2026-10-20 (author: "make it more like my original script. And it's supp
   across chapters.
 - A metaphor used once is spent for the whole book (e.g. "firelight reflecting off her eyes", spent in Ch.2).
 - An image or gesture used as one chapter's Opening/Anchor/Hook is not reused as another's (the outline's
-  ledger tracks them; single-use: the softball game, the juggled stones, the tongue-out, the map under a finger).
+  ledger tracks them; single-use: the softball game, the juggled stones, the tongue-out (once per character), the map under a finger).
 
 ## 3b. "the way [x]" SIMILE CAP
 - At most 2 per chapter, staggered (0–1 in alternate chapters). Prefer plain syntax.
