@@ -244,3 +244,17 @@ if [ "$REMOTE" = "1" ] && { [ -n "${GEMINI_API_KEY:-}" ] || [ -f "$HOME/.gemini_
       || echo "warn: Gemini CLI install failed; /gemini-second-opinion unavailable." >&2
   fi
 fi
+
+# ---------------------------------------------------------------------------
+# 7) Character bibles. Every book keeps a character-bible.md; list any that lack one so the
+#    session creates it before drafting (require-character-bible.sh blocks chapter writes
+#    until it exists). Switch: REQUIRE_CHARACTER_BIBLE in .claude/pipeline.conf.
+# ---------------------------------------------------------------------------
+if [ "${REQUIRE_CHARACTER_BIBLE:-on}" = "on" ] && [ -x "$REPO/tools/ensure-character-bible.sh" ]; then
+  NO_BIBLE="$(bash "$REPO/tools/ensure-character-bible.sh" --list 2>/dev/null || true)"
+  if [ -n "$NO_BIBLE" ]; then
+    echo "📖 Books with no character-bible.md (create one before writing chapters there:"
+    echo "   bash tools/ensure-character-bible.sh <book>, then populate it — docs/CHARACTER-BIBLE.md):"
+    printf '%s\n' "$NO_BIBLE" | sed 's/^/     - /'
+  fi
+fi
