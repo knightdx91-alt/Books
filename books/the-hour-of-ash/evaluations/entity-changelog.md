@@ -2138,3 +2138,53 @@ Rechecked with a note and left open: CH5-3 (no frame shot), CH6-5, CH12-2 ("that
 - **The flashlight's batteries** are tiring, and there are none to buy.
 - **The Pentax** has no cap; Valens has handled it.
 - **No pregnancy** before the Ch.20 reveal (CH15-6).
+
+### Re-anchored mid-run to the repaired page (commit dc4563d)
+The continuity audit (`evaluations/continuity/chapter-15-audit.md`, commit 497e1ee, 0 CRIT / 12 WARN) and the repair (commit dc4563d, W-01..W-11 + I-04, 11:32) landed while this update was being drafted.
+
+**The page now used:** chapter-15.md as last written 11:31:45 (md5 5ea1f666105ad27ff7370150bf7b6c30; 7,719 words by shape_check).
+- Still 295 paragraphs with the same three breaks, so no ch-15:pYY moves.
+- Text changed inside p7, p10, p56, p98, p107, p110, p114, p123, p138, p204, p251, p266, p274, p275, p276 and p281.
+- Every Ch.15 quote was re-checked by script against this page. What remains off the page is labelled as post-disruptor, outline or other-chapter text.
+- A `meta.revalidation_needed` row for Ch.15 is added (RESOLVED).
+
+**Corrected to the page:**
+- **Who waited:** "Valens came up below the cliffs" (p10). This replaces "had been waiting" in CH13-7, the timeline event, Valens's location row and the checks.
+- **Valens's razor:** "his knife" (p56). objects.talkers-knife therefore gets **no** Ch.15 beat (`note_ch15` only; `last_mentioned` back to ch-14:p32), and the kirrha-road-killing note is fixed.
+- **The emperor:** "Nobody, on my side of the world." (p98).
+- **The graze:** "a graze had healed" (p107); "from the road" is cut.
+- **Home:** "My landlord, by now. And somebody at my work will have rung my telephone, and got my own voice on a tape" (p110). This is fixed in Valens's knowledge, philadelphia and maras-stated-return.
+- **The camera:** "as I had in Kallia's crowded house" is cut (p114), and "the dent in the rim," no longer has "where the man's head had been" (p123).
+- **The name:** "The rest of what I knew stood behind the name:" (p138).
+- **The Elateian:** the stance is cut from the juniper fight (p204). The Felix trait and the felix-arena seed are fixed, and the elateian-boxer note now records the cut.
+- **The belief exchange:** "'Then I'll believe it,' he said." (p251).
+- **The belt:** "laid it away in the corner" (p266).
+- **The teeth:** "square and even" and "I had flossed every night of my adult life and still paid a man in a white coat to scold me twice a year … and held them against him." (p274). This is fixed in Valens's teeth and Mara's trait, and adds Mara's `teeth_ch15`.
+- **The stillness:** "he had gone quite still." (p276).
+- **The contraception line:** "I had lost count of my month somewhere around October" (p281). This is fixed in Mara's `fertility_ch15`, CH15-6 and conception-and-lucius.
+- **New on the page:** "Before light I was at Valens's yard, and I kept to his loft for some weeks" (p7). It is added to the timeline note and event, Mara's location row and relationships, a valens-yard note, and the CH15-7 trail.
+
+**Outline Ch.16 patched (W-12):**
+- The Delphi farewell is "kept quiet": "Delphi has believed since spring that Mara sailed (Ch.15)". Mara goes to Kallia's door after dark and is gone at first light.
+- The himation is given "outright (Mara has worn it all summer and folds it to hand back; Kallia makes it hers)".
+- The lamp frame is "in the first morning light, before she goes".
+
+This is recorded on CH15-7 and on the borrowed-himation note.
+
+**Flags after the re-anchor:**
+- **RESOLVED by the repair:** CH15-2 ("came up") and CH15-5 ("lost count of my month").
+- **RESOLVED by the outline patch:** CH15-7. Forward: the Ch.16 page must keep the farewell covert.
+- **Still UNRESOLVED:** CH15-1 (low; the spring "still runs", p106 unchanged), CH15-3 (info), CH15-4 (info), CH15-6 (low, forward constraint), CH15-8 (info), CH15-9 (info) and CH15-10 (info).
+- **Resolved this run in all:** CH12-7, CH13-7, CH14-4, CH15-2, CH15-5 and CH15-7.
+- Open contradictions now total 34 (30 before this run, +7 net).
+- **No CRITICAL. No knowledge_gap.**
+
+**The audit's other items:**
+- I-03: the back wall is recorded on corycian-cave.
+- I-15: CH15-6.
+- I-16/I-17: Mnason's position. No knowledge row is given, so he is not stated to have heard.
+- I-20: Valens expects the suit heard at Corinth, while canon hears it in Rome in spring 74. This is noted here for Ch.16/21 and not flagged, because it is his expectation.
+- I-21: they live as man and wife all winter, before the Ch.18 quay wedding.
+- I-22: CH12-2.
+
+Polish items I-06..I-11 are not tracked facts.
