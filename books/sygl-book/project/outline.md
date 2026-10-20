@@ -200,9 +200,9 @@ bedroom twice his old room; thinking rooms into being (kitchen, library with emp
 room; kitchen and dining combined; made permanent); hunger; the courtyard grouped by sygl; **Viridia**
 ("Hey you're that Blood guy right?"): Bal recognises her as the girl from the buggy (one line); pale blue crackling hair, the inheritance trait, "No one rolling
 out the red carpet for you yet?"; kids with an inheritance are the elite; the originators "are people
-just like us"; "I'm not like most people" (once, as the source has it; the source's stuck-out tongue
-that follows is NOT used here, because the tongue-out is spent on Amelia in Ch.5 and two characters may
-not share a device; give Viridia's answer to the hair joke another form); the dining hall's sygl
+just like us"; "I'm not like most people" (once, as the source has it); Viridia sticks her tongue out at him in answer to
+the hair joke (once, as the source has it; author decision 2026-10-20: Amelia's in Ch.5 and Viridia's here
+are each a single source beat by a different character, not a shared device); the dining hall's sygl
 tables; she sits at his; ordering on paper (pepperoni pizza; her burger); the forest familiar rule;
 "You've already got a familiar"; Amelia pops in, the choking; the brand under her bangs; "what could
 he have that you'd want?"; "Don't ruin the good impression"; **"You'd be surprised"** (kept here, at
@@ -256,7 +256,7 @@ asks the librarian to set books aside; the detour for his rune kit; **Mr. Winter
 (skinny, short; copying unknown runes from the chalkboard; praised for his **avoidance rune**,
 essential for night travel in unfriendly territory); Bal enjoys the runes.
 **Structure:** comic set-piece, then a quiet library-and-runes coda.
-**Opening:** Huginn and the cheese.
+**Opening:** breakfast with Viridia (source order; Huginn and the cheese is the first image in the classroom).
 **Anchor:** the goddess on the desk; Porter's face.
 **Hook:** lunch, and Viridia's familiar.
 **Target:** 3,400 (raised from 3,000; class, library and runes are three full movements).
@@ -278,7 +278,7 @@ and a half feet, light, quick); trained by her father who served in Kenmei's arm
 parry forms with Lora attacking slowly; she prefers books to people; the invitation to sit with them,
 "I'll think about it"; Viridia's spear and the Terra boy.
 **Structure:** a told tale over lunch, then the training ground.
-**Opening:** Viridia salting her nuggets.
+**Opening:** Viridia ordering lunch (source order).
 **Anchor:** the rapier finding his hand; "I'll think about it."
 **Hook:** Amelia waiting on the edge of the stage in a school uniform.
 **Target:** 2,400.
@@ -782,15 +782,14 @@ told Amelia in the pass" (19).
 capture; the cave bond dramatized as flashback); Bal's enjoyment of killing Iro and his guilt over the
 conversions; Amelia-as-manipulator framing; the "faintly haunted" ending; invented backstories and quirks;
 every tic and catchphrase allowance (except Amelia's "Master," an author-ruled title); the temple cup (Amelia
-cuts her wrist, 3); the "Kona Niente" copy-paste slip at p.180–181 (29); Viridia's stuck-out tongue (7, so the
-tongue-out is not shared with Amelia's in 5); reused Opening/Anchor/Hook images (the map, 22; the juggled
+cuts her wrist, 3); the "Kona Niente" copy-paste slip at p.180–181 (29); reused Opening/Anchor/Hook images (the map, 22; the juggled
 stones in motion, 17; firelight in her eyes, 8).
 
 **Motifs (objects and situations only, never repeated lines or gestures):** blood given freely (her wrist in the
 temple, the feeding, the offerings, the conversions, the chalice, the core); the wooden Dawn cards and the name
 Norheart; hands (the stump, the regrown hand, the palm sygls); runes (Winters' class, the flaming dagger, the
 arrow-rune shirts, the purification rune). A motif object may recur; its handling must not become a reflex.
-Single-use images: the softball game (3), the juggled stones (17), the tongue-out (5), the flexed new hand (3),
+Single-use images: the softball game (3), the juggled stones (17), the tongue-out (once each: Amelia 5, Viridia 7, as the source has them), the flexed new hand (3),
 firelight in her eyes (2).
 
 **Protected canon anchors** (memorable lines: keep the line; polish only as the dialogue rule allows):

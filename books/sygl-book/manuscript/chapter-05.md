@@ -38,7 +38,7 @@ Verin looked across the desk. "Sarah, I'll go ahead and set the portal up outsid
 
 Bal blinked. In sixteen years it had not occurred to him that Mrs. Brown had a first name.
 
-Mrs. Brown nodded.
+Mrs. Brown thanked him.
 
 "Good." Verin faced Bal again. "I'll be waiting out front. Please don't take too long saying your goodbyes." He strode out past them, closing the door softly behind him.
 
@@ -252,7 +252,7 @@ At the word, Amelia's eyes brightened in the dark. She took his left hand, the o
 
 "Are you sure?" she asked.
 
-Bal nodded.
+"I'm sure."
 
 Slowly, Amelia bit into his wrist.
 

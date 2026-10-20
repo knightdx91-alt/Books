@@ -25,11 +25,15 @@ Everything strictly on `main`. No PRs.
 | 3 | A New Hand | 2,592 | FINAL 2026-10-20: 2,592w, Floor 8.5 |
 | 4 | Mrs. Brown | 3,238 | FINAL 2026-10-20: 3,238w, Floor 8.5 |
 | 5 | Verin's Cottage | 3,500 | FINAL 2026-10-20: 3,672w, Floor 8.5 |
-| 6–30 | see outline.md | — | TODO |
+| 6 | The Claiming | 2,800 | FINAL 2026-10-20: 3,081w, Floor 8.5 |
+| 7 | The Blood Dorm | 3,600 | FINAL 2026-10-20: 3,650w, Floor 8.5 |
+| 8 | Too Bad She's a Tempus | 2,400 | FINAL 2026-10-20: 2,344w, Floor 8.5 |
+| 9 | The Familiar Class | 3,400 | FINAL 2026-10-20: 3,538w, Floor 8.5 |
+| 10 | Hopper and the Rapier | 2,400 | FINAL 2026-10-20: 2,879w, Floor 8.5 |
+| 11–30 | see outline.md | — | TODO |
 
-## RESUME HERE: Chapter 6 "The Claiming" (source [pp.25–31], L286–304)
-- Opens on the road with the buggy ahead: the older Tempus girl whose sygl sparks is Viridia (author decision);
-  she is not named here. Then the Heir's School, the stage, the claiming, Amelia's reveal.
+## RESUME HERE: Chapter 11 "Break Their Toys"
+- Open on Amelia's uniform details; don't restate Ch.10's last line. Follow outline Ch.11 in source order.
 - Author's dialogue is the base; polish into natural speech without changing meaning or speaker.
 
 ## Key files

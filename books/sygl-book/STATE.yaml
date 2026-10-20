@@ -31,23 +31,23 @@ word_floor:
 
 phase:
   current: 2
-  status: "Plan follows the author's original script (30 chapters, source order, ~91,856w after the 2026-10-20 outline audit). Ch.1–5 FINAL 2026-10-20 (15,428w; Genesis Floor 8.5 each; all gates clean). Next: Ch.6 'The Claiming' (see project/outline.md). See feedback/progress.md."
+  status: "Plan follows the author's original script (30 chapters, source order, ~91,856w after the 2026-10-20 outline audit). Ch.1–10 FINAL 2026-10-20 (30,918w; Genesis Floor 8.5 each; all gates clean). Next: Ch.11 'Break Their Toys' (see project/outline.md); open on the uniform details without restating that she wore a school uniform (Ch.10's last line). See feedback/progress.md."
   history:
     - "2026-07-13: architect pass (24-chapter outline); Ch.1–3 drafted and gated."
     - "2026-10-20: author ruled the plan must follow the original script; plan rebuilt to 30 chapters in source order; Ch.1–3 sent back for rewrite."
 
 chapters:
   total_planned: 30
-  completed: [1, 2, 3, 4, 5]
+  completed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   in_rewrite: []
-  scores: {1: 8.5, 2: 8.5, 3: 8.5, 4: 8.5, 5: 8.5}   # Genesis Floor, 2026-10-20
+  scores: {1: 8.5, 2: 8.5, 3: 8.5, 4: 8.5, 5: 8.5, 6: 8.5, 7: 8.5, 8: 8.5, 9: 8.5, 10: 8.5}   # Genesis Floor, 2026-10-20
 
 genesis_score:
   current_floor: 0.0
   current_average: 0.0
 
 quality_gate:
-  chapters_passed: [1, 2, 3, 4, 5]            # earlier passes for Ch.1–3 voided by the 2026-10-20 re-plan
+  chapters_passed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]            # earlier passes for Ch.1–3 voided by the 2026-10-20 re-plan
   chapters_escalated: []
 
 guardrails:
@@ -76,6 +76,7 @@ decisions:
   - "2026-10-20 (author): disregard the manga. sygl-manga/ is set aside and out of scope; it does not constrain the prose and is not kept in sync with it. Focus is the prose novel only."
   - "2026-10-20 (author): Author's dialogue is the BASE, not sacred text (author, 2026-10-20: \"my dialogue might not be exactly right\"). Keep what each line says, who says it, and where it falls, plus the memorable lines (e.g. \"They have made me a myth?!\", \"Because it's magic\", the binding vows, \"No one threatens my girls\"). Freely fix grammar, stiff or awkward phrasing, and anything that doesn't sound natural spoken aloud. Do not change meaning, add information, or give a line to someone else."
   - "2026-10-20 (author): keep Fredrick's short goodbye scene in Ch.1 (an addition beyond the source: he leaves for a lesser Sygldry school and gives Bal the books). Fredrick stays warm, a friend."
+  - "2026-10-20 (author): keep both stuck-out tongues from the source, once each: Amelia (Ch.5) and Viridia (Ch.7, answering the hair joke). Single source beats by two characters, not a shared device; neither recurs."
   - "2026-10-20 (author): spelling is Sygl / sygl / sygls / sygl-less everywhere; never sigil or sygil."
   - "2026-10-20 (author): tone and meaning back to source. Bal's violence is justified (Iro hangs from the blood whip; no enjoyment, no self-fear, no guilt over the conversions); Amelia is not a manipulator (no 'trap of affection', no 'ownership disguised as approval', no 'safer feared than loved'); the ending is unambiguously happy ('the first day of the rest of their life together'); the premise is converting willing loved ones (and Toma by accident), not stealing other gods' followers."
   - "2026-10-20 (author): restored beats: Mr. Winters' runes class and the avoidance rune; the six-week time-skip and the flaming dagger; the arrow-rune shirts; the juggling talk ('I do not feel more strongly for one over the other'); 'I like you too'; Viridia's breakdown and Bal & Lora's 'we'll figure it out, together'; Amelia's 'I feel useless' walk; Raizen cheating by teleporting assassins (why Amelia wins her concession); Toma's army approaching; the blood elemental sent to Amelia's domain."

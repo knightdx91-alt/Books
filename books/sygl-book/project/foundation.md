@@ -163,8 +163,8 @@ still when she is frightened; uses a spear; Hopper; the earth ring; glances at j
 **Evasion:** deflects sincerity with a joke until it is too big to deflect (the diary, the poison).
 **Physicality:** the hair. **Tic line:** none — distinguished by syntax and physicality. "I'm not like most
 people" is used once, where the source has it, never as a signature. The source gives a stuck-out tongue to
-both Amelia (p.24) and Viridia (p.35); two characters may not share a device, so it is used once only, for
-Amelia (Ch.5), and Viridia's moment is rendered another way (Ch.7).
+both Amelia (p.24) and Viridia (p.35); both are kept, once each, where the source has them (author decision
+2026-10-20). Neither becomes a recurring gesture.
 
 ### Lora Aegis
 **Source facts:** shy; brown hair, glasses that slide down her nose, freckles; Kenmei/Waves sygl; trained by
@@ -187,6 +187,11 @@ more," said once, as the source has it). **Physicality:** the rapier as an exten
   anything by half measures, do you?").
 - **Verin:** older, faded well-kept red robes, kind blue eyes, grandfatherly.
 - **Mr. Porter:** fifties, balding, tweed, glasses; hostile to blood mages; suggests the rule.
+- **Huginn:** Mr. Porter's raven familiar.
+- **Tyler:** a boy in the front row of the familiar class; asks what Porter means about not leaving (source L347).
+- **Mr. Winters:** rune teacher; skinny, short; praises Bal's avoidance rune.
+- **Zoran:** warfare teacher; young, looks like he could be Naisura's son; practising sword forms before class; "Take the one that speaks to you."
+- **The librarian:** sets books aside for Bal; no other source detail (keep to function).
 - **Thad Moren:** slight, black ponytail, pale, sharp nose; reads the reports; worn out by the war.
   **Xavier Giles:** broad, weapon-scarred hands, tan, clear blue eyes; plans the strike on the priests.
   Differentiate them by what they notice (Thad the cost, Xavier the route), not by habits.

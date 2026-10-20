@@ -78,7 +78,7 @@ She dropped the pen on the desk and leaned toward them, her wooden chair creakin
 
 "They're not going to be happy you're there," she warned them, looking from one to the other. "Either of you. The only reason they haven't outlawed blood sygls from attending is that they want to be seen as fair." Her mouth went thin. "That's probably why they locked her away, now that I think about it. It made it seem as though she'd simply abandoned her followers."
 
-Amelia nodded at that.
+"Mostly," Amelia said.
 
 "It was that," she said, "and the fact they knew they couldn't win in a straight-up fight with me."
 
@@ -86,7 +86,7 @@ She said it without any heat at all, the same as she might have mentioned the we
 
 "But I think it's time they see what a true blood mage can do," she said, smiling.
 
-Bal nodded.
+Bal liked the sound of that.
 
 "Can you get me enrolled, then?" he asked Mrs. Brown. "I know I'll have to leave soon to get there in time. Plus I'll need the school supplies."
 
@@ -114,7 +114,7 @@ She stopped there. Outside the window, the game went on.
 
 That was the whole of it. It had taken her less than a minute to tell. Bal stood there and looked at the man in the frame, a stranger with a narrow face and his collar done up to the top button, smiling at whoever had held the camera, and thought that it must have taken her a great deal longer than a minute to learn to tell it that short.
 
-Then she looked away from the picture and back at them, and she was Mrs. Brown again, grey skirt and white blouse and the bun, the woman whose office this was.
+Then she turned from the picture back to them, and she was Mrs. Brown again, grey skirt and white blouse and the bun, the woman whose office this was.
 
 "So I want to help Bal overcome this hatred, if I can," she said to Amelia. "His sygl showed the day he was born, so I know his affinity must be strong. Otherwise they wouldn't have removed his hand that soon."
 
@@ -134,7 +134,7 @@ Bal looked into her eyes. They were very red and very steady, and none of the te
 
 With that dismissal, Bal collected the rug off the chair in the hall and headed up to his room, and Amelia followed him.
 
-The dormitory was on the second floor, a long room with the beds in two rows and a narrow locker at the foot of each. With everyone outside it was empty, and it smelled of clean sheets and somebody's forgotten oranges. Bal's bed was the third from the window on the left.
+The dormitory was upstairs, a long room with the beds in two rows and a narrow locker at the foot of each. With everyone outside it was empty, and it smelled of clean sheets and somebody's forgotten oranges. Bal's bed was the third from the window on the left.
 
 The first thing he did was unroll his rug and lay it back on the floorboards beside the bed, where it had always been. He straightened the corner with his foot. It looked like it had never gone anywhere.
 
