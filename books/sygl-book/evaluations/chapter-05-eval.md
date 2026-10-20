@@ -151,3 +151,52 @@ BIAS CHECK: This evaluation was produced by the same system that wrote the prose
 - R8: "Pierre was another of the orphans"; "with his arms halfway up"; "given up on school".
 - Pattern #11: 0 counted extensions (≤0.8/1K). Em-dashes 0. "the way [x]" simile 0. Similes 2.2/1k. 3,672 words (wc).
 - Gates: style_check clean, grammar_check clean (0 errors), voice_wear_check clean (strict), tic_report --gate clean.
+
+## Re-evaluation (round 2)
+**Evaluator:** book-evaluator | **Date:** 2026-10-20 | **File:** 3,672 words (wc)
+
+**Gates** (scratch `re5/manuscript/chapters/chapter-1..5.md`): `voice_wear_check.py` reports **clean** (strict) and `tic_report.py --gate` reports **clean**. Only one gesture is classified in ch.5 ("lips pressed" ×1). "Master" does not appear. The tongue-out happens once (L244).
+
+**Verification of R1–R8:** all eight were applied as written.
+- L238: the two quotations are merged into one speech.
+- L232: "Bal saw that it was blood."
+- L31: the robes are shown through detail only.
+- The L89 paragraph is gone. L184 has the source beat back: "Bal glanced sideways at Amelia and grinned."
+- L212: the author's line "A long three thousand years." is restored. The editor trimmed the first half to "Almost three thousand." to satisfy the gate. Speaker and meaning are unchanged, and the author's repetition still lands.
+- L260: "He listened to it for a bit. Then he started talking."
+- L15: the rug look-back is gone.
+- L5, L61, L262: the logic fixes are in.
+
+**Pattern #11:** 0 counted extensions. L162 ("so he filed it away") and L164 come from the source text and are not counted.
+
+**Source fidelity:** every beat from L259–284 is present and in order. No plot, character, habit or backstory has been invented. The register is American and the tone is warm and playful.
+
+**New defect, introduced by the R4 cut. It is mechanical, not prose:**
+- **L87–88:** `"The only exceptions are the originators themselves," Verin said. "The enchantment doesn't touch them."` is followed immediately by `---` with no blank line between them.
+- In Markdown, that makes L87 a **setext H2 heading**, so Verin's line would build as a chapter heading in the EPUB and the print interior.
+- **Fix:** insert one blank line between L87 and L88.
+
+| Dimension | R1 | R2 | Note |
+|---|---|---|---|
+| Originality | 8.5 | 8.5 | unchanged |
+| Theme | 8.5 | 8.5 | unchanged |
+| Characters | 8.5 | 8.5 | the laugh beat now appears once, as in the source; no tics |
+| Prose & Voice | 7.5 | **8.5** | the #11 cap is lifted. Stopping sentence: "He didn't wipe his thumb on anything." (L236). Rough sentence: L98. |
+| Pacing | 8.5 | 8.5 | the portal section's ending is now flatter, but the forest-quiet cut carries it |
+| Emotion | 8.5 | 8.5 | the anchor is intact (L232–236) |
+| Engagement | 8.5 | 8.5 | unchanged |
+| **FLOOR / AVG** | 7.5 / 8.4 | **8.5 / 8.5** | |
+
+**Anti-AI scan:** 4 patterns, all minor (#3 ×2, #6 ×1, #14 ×1, #17 watch). That is clean for commercial fiction.
+
+**Four readers:**
+- **Devourer:** no stopping point.
+- **Critic:** the over-explanation is gone.
+- **Hostile:** no logic holes remain. The only issue is the L87 heading render.
+- **Casual:** 8.5. Cozy, and would buy.
+
+**CVI-Launch** 8.2 / **CVI-Legacy** 5.9 (unchanged).
+
+**VERDICT: PASS** (Floor 8.5, Casual 8.5). The L87/L88 blank line must be inserted before any build. It is a one-character fix and does not need re-scoring.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

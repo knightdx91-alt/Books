@@ -85,6 +85,7 @@ Verin climbed up into the driver's seat with a small grunt and gathered the rein
 "Doesn't that work on anyone?"
 
 "The only exceptions are the originators themselves," Verin said. "The enchantment doesn't touch them."
+
 ---
 
 The forest was deathly quiet.
