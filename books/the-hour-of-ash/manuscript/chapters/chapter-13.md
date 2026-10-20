@@ -1,7 +1,7 @@
 # Chapter 13: The Seventh of Bysios
 
 <!-- SCENE BUDGET (Target 8,000; range 7,500-8,500): A1 the spring before light, Kallia given the whole of it; the terrace; the Pythia led up; Praxias paid; the pills refused; the goat drenched until she shakes 2,250 | B1 Kallia's court, afternoon: the names at the door, Felix in the god's book, the porch, the inside as a bodyguard saw it, Pindar's chair, the voice described, the word he did not keep, the question he would not put 1,800 | A2 the terrace, the long wait among the women, the first hour home imagined, the bowl, the ears, Felix and the bandaged head, Valens out and silent, the answer decided wrong 1,700 | B2 the answer said once, standing; the priest's Syracuse; the dead inside the town; Capua; which mountain; the middle he cannot start from; "There's floor" 1,650 | B3/A3 the jug boy at the gate; the street; Theano, knees and crows and the stool; the pills; the hour refused; the town 1,850 -->
-<!-- Word count: 7,872 (shape_check; post dialogue-polish) | Target: 8,000 (range 7,500-8,500) | Dialogue 36.4% (band 35-45) | Breaks 4 | Median sentence 14 (gear mid) | Bare "No." 1 (Valens) | Echoes 0 | Gates clean | Anchor: Valens on his feet in Kallia's court giving back the god's answer whole, and unable to take it up again from the middle -->
+<!-- Word count: 7,862 (shape_check; post hook-craft) | Target: 8,000 (range 7,500-8,500) | Dialogue 36.4% (band 35-45) | Breaks 4 | Median sentence 14 (gear mid) | Bare "No." 1 (Valens) | Echoes 0 | Gates clean | Anchor: Valens on his feet in Kallia's court giving back the god's answer whole, and unable to take it up again from the middle -->
 
 The morning on which Apollo would first answer anybody that year came in under a frost so hard that Kallia's jars rang on the paving at the spring, and the water from the lion-head spouts smoked in the dark.
 
@@ -509,4 +509,4 @@ I had one question left.
 
 "Which city?"
 
-Theano put a hand down on her knee to shift her weight on the stone, and grunted with it. "Pompeii."
+Theano shifted on the stone, and grunted with it. "Pompeii."
