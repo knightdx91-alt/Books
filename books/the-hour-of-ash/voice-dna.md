@@ -452,6 +452,8 @@ comparison at most per scene (sample-10 uses one). No closing aphorism about lov
 | ★ | `voice-bank/samples/sample-07-breaking-the-door.md` | **Maximum pressure:** shards, one sense at a time, plain verbs, no list. The low-gear and climax target. |
 | ★ | `voice-bank/samples/sample-13-dread-in-scene.md` | **The NO-FORESHADOWING engine:** historical knowledge as a present thought, the lovely mountain, the declined photograph. Re-read it before any chapter in which the mountain appears. |
 
+> **sample-13 (the Ch.19 register):** NB after Ch.12: the Pentax has no lens cap (left at Kirrha) and a dented filter ring; the sample's 'I put the cap back on the lens' cannot happen on the page.
+
 Supporting calibrations: sample-05 and sample-06 (pressure levels 2 and 3), sample-08 (Valens against
 Mara), sample-09 (Fenn's 1968 English), sample-10 (heat), sample-11 (the visible seam *shown*), sample-12
 (the no-pull stop). **No sentence, image or line from any sample may be reused in the manuscript.**

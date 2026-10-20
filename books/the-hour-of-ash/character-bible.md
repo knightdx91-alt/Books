@@ -232,36 +232,45 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   teeth 0; laughs 0; English 0; could-have 0. WATCH: "Who…?" is her most-used question opener in Ch.11 (Who read it out / Who sewed
   it last / Who is to say / Who took yours / Who told you); give her other forms in Ch.12.
 - **Ch.12 as written (Writer, 2026-10-20; "The Kirrha Road", In medias res, the road up from Kirrha, early spring AD 71, three days
-  before the god's day. Quotes are from the writer's final draft, checked by script; re-sync after the downstream passes):** the
-  commitment holds: no English anywhere. **She asks NO question in the whole chapter** (the subtext law: she answers his telling by not
-  asking; every "?" on the page belongs to someone else). Her Greek stays uncontracted ("Somebody will come by," / "They will think it
-  was robbers." / "The glass is whole." / "I read it twice," / "My question wanted carrying." / "Praxias wanted five drachmas." / "It is
-  only the wool," / "It was my father's," / "It is more than the god wants," / "She is full," / "I was watching something else." / "You
-  need not take it in," … "There are other days. Next month would do as well." / "They will be there. Those two, or others." / "I am not
-  telling Kallia a story. She gets the whole of it from me, or nothing."). **Pressure level 2 in the fight (the rehearsal):** asides die;
-  plain verbs; "Wine. Sweat."; untagged "Mara." / "From the ditch."; *Rudiarius* unglossed; sense narrowed to sound ("The ditch hid them. I
-  heard them.") and then to sight for the cap. **The camera swung in panic:** "The strap was round my neck under my clothes. My hand was
-  on it. I dragged at it, and the camera came clear of my clothes, and I twisted round in his grip and swung it at his head." / "It hit him
-  above the ear. I felt it in my wrist." **The anchor:** "The cap was off. It went rolling along the road on its rim, small and black,
-  wobbling and righting itself over the ruts with the white letters on its face going under and coming up again, … until it met the edge
-  of the oil and tipped over in it, face up." She leaves it: "I went past where the cap lay in the oil, face up, its letters dark with it,
-  and kept going." **Wrong reaction (hands neat by themselves, a new act):** "I wound the strap round the camera. I wound until there was
-  no strap left" / "My hands kept hold of it." **The steadying (the emotional surprise, his not hers):** "I took his wrists, one in each
-  hand, and pressed them flat to the stone beside the fall" / "Under my right palm his old scar was a raised line, and I could feel in it
-  the marks where each stitch had gone in." (her mender's eye at the peak; the Ch.6 ladder NOT re-quoted) / "and I did not speak." / "It
-  stopped by degrees." **Asides return in order:** materials first (the camera: hair "wound into the little crank on top", the filter ring
-  "pushed in at one point, and no filter would ever screw onto it again", "The glass was whole."; the cloak "good wool, fulled hard, and
-  somebody had darned the hem with a green thread that matched nothing else on it"; "Cold water. Hot would have set it."), then the
-  Calf-Bearer ("if the Calf-Bearer had been twelve and in a temper"), then Orestes ("Apollo had been taking money from men with blood on
-  them since Orestes, and had never been known to send any back."). **Why the Pentax is with her:** the lodgers in rows along Kallia's
-  gallery; "The flashlight could take its chances. The camera was the thing in that bag a thief would take first, and the thing I could
-  least explain to anybody who took it". **Money (CH11-3 CLOSED):** she paid the goat herself ("and the rag was thin after it"); the dead
-  man's silver "would buy the cake, and Praxias's drachma, and leave plenty over"; tipped into the rag; the empty purse let go in the
-  stream. Her rag now holds the priest's remainder, Kallia's papyrus obol, the two 1998 coins and a dead man's denarii (the last never
-  named as a sum). **Knowledge:** she knows the whole frame now (rudis, oath, Celer, the dowry share, the tablet, the record office, the
-  freedman, the notice's timing) and has his leave to tell Kallia "the whole of it". Body: a raised line across the front of her throat
-  where the himation dragged; her left sandal thong re-knotted "double". Credential asides 0; teeth 0; laughs 0; memories 0 (as briefed);
-  "could have" 0 in her narration.
+  before the god's day. SYNCED to the FINAL page 2026-10-20 (polish cycle 1 + F1–F2; continuity W-22): every quote below is on the
+  page, checked by script):** the commitment holds: no English anywhere. **She asks NO question in the whole chapter** (the subtext
+  law: she answers his telling by not asking; every "?" on the page belongs to someone else). Her Greek stays uncontracted ("Somebody
+  will come by," / "They will think it was robbers." / "Only the rim is bent." / "I read it twice," / "My question wanted carrying." /
+  "Praxias wanted half a drachma over three." / "It is only the wool," / "It was my father's," / "It is more than the god wants," /
+  "She is full," / "She is the god's," / "I heard it." / "I was watching something else." / "You need not take it in," … "There are
+  other days. Next month would do as well." / "They will be there. Those two, or others." / "Kallia will hear at the spring tomorrow
+  that a man is dead below the ford," / "I am not telling Kallia a story. She gets the whole of it from me, or nothing."). **Pressure
+  level 2 in the fight (the rehearsal):** asides die; plain verbs; "Wine. Sweat."; untagged "Mara." / "From the ditch."; *Rudiarius*
+  unglossed; sense narrowed to sound ("The ditch hid them. I heard them.") and then to sight for the cap. **The grab (no hand named;
+  she feels the wool, not the man):** "My himation came tight across my throat from behind. I was pulled back against somebody." **The
+  camera swung in panic:** "The strap was round my neck under my clothes. My hand was on it. I dragged at it, and the camera came clear
+  of my clothes, and I twisted round in his grip and swung it at his head." / "It caught him above the ear. I felt it in my wrist."
+  **The anchor:** "The cap was off. It went rolling along the road on its rim, small and black, wobbling and righting itself over the
+  ruts with the white letters on its face going under and coming up again, … until it met the edge of the oil and tipped over in it,
+  face up." She leaves it: "I went past where the cap lay in the oil, its letters dark with it, and kept going." **Wrong reaction (the
+  strap wound neat, a new act):** "I wound the strap round the camera. I wound until there was no strap left" / "The camera was still
+  in my arms." **The steadying (the emotional surprise, his not hers):** "I took his wrists, one in each hand, and pressed them flat to
+  the stone beside the fall" / "Under my right palm his old scar was a raised line, and I could feel in it the marks where each stitch
+  had gone in." (her mender's eye at the peak; the Ch.6 ladder NOT re-quoted) / "and I did not speak." / "It stopped by degrees."
+  **Asides return in order:** materials first (the camera: hair "wound into the little crank on top"; "The ring at the front of the
+  lens had taken the blow and was pushed in at one point. In the finder the plane trees stood upright and in focus."; the cloak: "It
+  was good wool, fulled hard, darned at the hem with green thread."; "Cold water. Hot would have set it."), then the Calf-Bearer ("if
+  the Calf-Bearer had been twelve and in a temper"), then Orestes ("Apollo had been taking money from men with blood on them since
+  Orestes, and had never been known to send any back."). **Why the Pentax is with her:** the lodgers in rows along Kallia's gallery;
+  "The camera was the thing in that bag a thief would take first, and the thing I could least explain to anybody who took it"; then
+  "Its cap was still in the oil by the ditch, where I meant it to stay." (her choice, left unexplained; the flashlight is not
+  mentioned). **The Pentax after Ch.12:** no lens cap (LOST at the ditch on the Kirrha road); the front ring of the lens pushed in at
+  one point (dented; the page does not say whether a filter would fit, and nobody tests it); the finder in focus; it rides outside her
+  clothes once ("where I had forgotten it") and then "went back inside my clothes". Any later scene with the camera has an uncapped
+  lens and never mentions a cap (see voice-dna §6, the sample-13 note). **Money (CH11-3 CLOSED):** she paid the goat herself ("and the
+  rag was thin after it"); of the dead man's silver: "What the goat had left in my rag would not have bought the god his cake. This
+  would, with plenty over." Praxias's fee is NOT named on the page; it comes out of the "plenty over", implied. She tipped the silver
+  into the rag ("with the little that was mine"), and the empty purse was let go in the stream. Her rag now holds the priest's
+  remainder, Kallia's papyrus obol, the two 1998 coins and a dead man's denarii (never named as a sum, never itemized again).
+  **Knowledge:** she knows the whole frame now (rudis, oath, Celer, the dowry share, the tablet, the record office, the freedman, the
+  notice's timing) and has his leave to tell Kallia: "Kallia, then. Nobody else." Body: "The skin was raised in a line across the front
+  of my throat where the edge of the wool had dragged, and it stung."; her left sandal thong re-knotted "double". Credential asides 0;
+  teeth 0; laughs 0; memories 0 (as briefed); "could have" 0 in her narration.
 - **DISTINCTNESS GUARANTEE:** the only voice in the book that sees how a thing was made and where it was
   mended, against Valens, who sees where a thing or a man will move next.
 - **Sample line:** "Somebody's glued this before, look, there's an old line under the new one, and
@@ -536,49 +545,85 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   stretch-crack as relief; the near-kiss staging; the barred gate, the olive path and "The road's dusty."; "What name does the priest
   write?" as the answer to why; "Who keeps the door, while they sleep?"; "I am."; "He came nearer"; the new boot lace.
 
-- **Ch.12 as written (Writer, 2026-10-20; "The Kirrha Road". Quotes from the writer's final draft, checked by script; re-sync after the
-  downstream passes):** **The fight, fast and unglamorous, mostly unseen:** "I saw Valens's hand shut on the wrist above it."; the stick
-  across his shoulders; he and the talker go "off the edge of the road together, into the ditch below the terrace"; "Something struck
-  stone down there, twice."; "Valens climbed out with the stick coming down at him. It landed on his forearm, and he kept coming, and the
-  big man dropped it and ran."; "There was a knife in his hand, and it was not his own." **His first use of her name is a warning, untagged,
-  from the ditch: "Mara."** (never a callback; do not stage a second "first time"). **Practical after:** "Are you cut?"; cuts the dead
-  man's purse ("He had left the man everything else."); "This is the god's road." … "Let the god's people find him." / "That's what it
-  was. A traveler with his purse cut." (he authors the finders' story); reads the walkers far below and moves the string ("Now,"); props the
-  cracked jar in the angle of the wall; later re-ropes a load "so that she would carry level" ("His hands were sure at it."). **Falls apart
-  at the fall (the emotional surprise):** "They were shaking." / "It started in his shoulders and ran out along his arms" / "the thumb kept
-  slipping off the nail" / "He was breathing through his mouth." / he turns his shoulder to hide the hands; she holds them; "He let his
-  forehead come to rest on my hair. He stayed there." / "His stayed flat on the stone. He took them down himself." A grit-filled graze on
-  the cheekbone he does not know he has; a welt on the left forearm; split knuckles. **Onion memory (first surfacing), triggered:** Mara
-  crushes a wild onion at the pool: "Onions," … "They hung them under the eaves. In strings, to dry." Never explained. **Trust acts:** puts
-  his pouch (the watch going inside) into her hands before he washes, takes it back "without looking in it". **The camera:** looks at it
-  once in the road; at the stream asks only "Is it broken?" (a working thing, his axis). **The telling (his longest speech so far; a
-  witness's chronology, no grievance):** "They gave me the wooden sword at Corinth," / "The Gaul was older than me, and slow on his left
-  side. The emperor didn't know that. He stayed in his chair, too. That's how it gets told." / the lanista's copy "on a tablet" kept "in a
-  box" / "I swore to her in his atrium, in front of his household gods." / "When he was away I slept across her door. Nobody laid a hand on
-  her in two years. I was a good bodyguard. That was the use of me." / Celer's debts, "a house on the Craneion he couldn't pay for" / "He
-  was sorry about it. He said so, more than once, with her standing there. She didn't look at me." / "One was the girl who did her hair,
-  and she cried all through it. They'd been shown where to stand." / "Put a wife away for that, and you keep a share of what she brought.
-  Her father had given plenty with her." / "by the fishpond, where the house could watch" / the steward took the tablet / Celer's story:
-  bought "from the lanista the month before the games" / "The magistrate's book is still in the record office at Corinth, with my name in
-  it. Nobody's going to walk in there and say it aloud for me." / "I was over his garden wall the same night. A fisherman took me across the
-  gulf for my belt buckle." / "They asked my name and I said Valens. A quay doesn't ask twice." / the mules "off a Corinthian dealer" /
-  "Her brother took her home," … "Celer kept the boy." **Knowledge path (one passage):** "Last autumn a freedman of her brother's found me at
-  the harbor," … "I said I wouldn't. Inside the month that notice went up in Corinth. You saw the month on it." / "I saw it too. A copy
-  came up here after the snow, with the oil carts." / "Whoever wants five hundred brings a rope. Those three brought knives. He doesn't
-  want me back. He wants me in a ditch." He gives NO reason for refusing the freedman (evasion: fear). **With Felix:** "It was off," (agreeing
-  the crust lie) / the cover story "we came on a man in the ditch below the ford, and the road had been at him before us." / "You came on a
-  man in a ditch." / "Tell it anyway." / to "He believed me": "People do, mostly." / to "Was it one blow?": "No." (his ONE bare "No." in Ch.12;
-  the Ch.11 lie answered truly). **Plans, stated, no request:** "Three days," / "Inside the precinct there's a slave every few paces with a
-  rod. A knife in there would have a hundred men on it. They'll want me on a road, not in a crowd." / "Bring the goat to me at the yard the
-  evening before." / "When the god's day is done, the mules are for the high grazing," … "Above the cave. Up there you see a man coming a
-  whole morning off. I'll stay up the summer." (he does not ask her to come) / Kallia: "The whole of it, then," … "Her, and nobody else."
-  **Delphi's name for him:** "mule-man" (pilgrims, the graybeard); the stranger's "Lupus" and "*Rudiarius*". **Page counts:** no simile in
-  his speech; bare "No." 1; bare "Felix." 0; walk-offs after a line 1 ("Then he left me for the ford."); narrated non-answers 0;
-  stopped-work tell 0; knot near his hands 0 (his boot lace "had come undone … He left it there."). **Spent in Ch.12:** the shaking hands
-  held still at the fall; forehead on her hair; the pouch handed over to hold; "Is it broken?"; the purse cut to stage a robbery; "Let the
-  god's people find him."; "That's how it gets told."; "That was the use of me." (the at-risk single use); "Whoever wants five hundred brings
-  a rope."; "He wants me in a ditch."; "There's thorn all along this road,"; "People do, mostly."; "Tell it anyway."; the slept-across-her-door
-  detail (said once; Ch.14's doorway is staged without pointing at it).
+- **Ch.12 as written (Writer, 2026-10-20; "The Kirrha Road". SYNCED to the FINAL page 2026-10-20 (polish cycle 1 + F1–F2; continuity
+  W-21, W-22): every quote below is on the page, checked by script):** **The fight, fast and unglamorous, mostly unseen:** before it,
+  to the stranger, "You want somebody else." and to Mara, "Go on up to the boy,"; "The hand stayed at Valens's side."; "I saw Valens's
+  hand shut on the wrist above it."; the stick "came down across Valens's shoulders"; he and the talker "pitched off the edge of the
+  road together, into the ditch below the terrace"; "Something struck stone down there, twice."; "Valens climbed out with the stick
+  coming down at him. It landed on his forearm, and he kept coming, and the big man dropped it and ran."; "There was a knife in his
+  hand, and it was not his own." **His first use of her name is a warning, untagged, from the ditch: "Mara."** (never a callback; do
+  not stage a second "first time"). **Practical after:** "Are you cut?" / "He looked for blood on me regardless."; he cuts the dead
+  man's purse ("When Valens climbed back up he had a purse on a cut thong. He had left the man everything else."); "Get the string on
+  to the ford," (to Felix); "This is the god's road." … "Let the god's people find him." / "That's what it was. A traveler with his
+  purse cut." (he authors the finders' story); the cracked jar: he cut the ropes "and the jar came off into his arms, and he heaved it
+  over the terrace edge, down among the olives", then "picked a sliver of pot out of the hair there and threw it after the man"; he
+  reads the walkers far below and moves the string ("Now,"); at the ford, "Valens chose a stone from the bank, near a jar's weight, and
+  roped it opposite the single one on the mule that had lost hers." (no knot, no hands read as a mood).
+- **Voice under pressure (first shown on the page, Ch.12):** his speech does not change register under pressure. In the fight he says
+  one word, "Mara.", untagged, from the ditch. Straight after it his lines are as short and practical as on any working day ("Are you
+  cut?" / "Get the string on to the ford," / "Now,"). The pressure goes into his body instead, and only once the work is done, at the
+  fall: "They were shaking." / "It started in his shoulders and ran out along his arms, and the water jumped off his fingers with it."
+  / "the thumb kept slipping off the nail" / "He gave that up and held his hands still under the water, and they would not be still." /
+  "He was breathing through his mouth." He turns his shoulder to hide the hands, "and I saw them anyway". **Mara steadies him (the
+  emotional surprise: his, not hers):** she takes his wrists and presses them flat to the stone under the fall, and does not speak; "It
+  stopped by degrees." / "He let his forehead come to rest on my hair. He stayed there." / "His stayed flat on the stone. He took them
+  down himself." He says nothing during it and nothing about it afterward. His next line is about the camera ("Is it broken?"), and the
+  one after that begins the telling, in the same flat witness's Greek as his road talk. Under pressure he gets plainer, never louder
+  and never figurative. **The shaking is a one-time body rebel, SPENT as an event:** no later chapter gives him trembling hands as his
+  pressure sign (that would be a signature gesture; Ch.23's "he is the one comforted" finds another body and sense). **Injuries carried
+  into Ch.13 (three days on; do not show him unmarked):** "There was a graze along his cheekbone with grit in it." (he "plainly knew
+  nothing about it"); "Across the left one a welt stood up where the stick had caught it, red and raised, and the knuckles of that hand
+  were split."; the stick across the shoulders.
+- **Ch.12, the rest of the page:** **Onion memory (first surfacing), triggered:** Mara treads on a clump of flat leaves at the pool
+  ("they smelled green and sharp under my heel"): "Onions," … "They hung them under the eaves. In strings, to dry." Never explained.
+  **Trust acts:** "He untied the pouch from his belt and put it into my hands. Through the leather the watch was going."; returned at
+  the ford: "At the stepping stones I gave him back his pouch. He put the purse in my hand." (no look inside, no line). He washes the
+  stranger's knife after the closeness ("running his thumb along the groove to clear it"). **The camera:** at the stream he asks only
+  "Is it broken?" (a working thing, his axis). **The telling (his longest speech so far; a witness's chronology, no grievance):** "They
+  gave me the wooden sword at Corinth," / "He had the year right, the one on the road." / "The Gaul was older than me, and slow on his
+  left side. Nobody on the benches knew that. The emperor never got out of his chair." / "The lanista had a copy made for me on a
+  tablet. I kept it in a box." / "After the sword I needed work. Celer was legate then, on the proconsul's staff." / "I swore to her in
+  his atrium, in front of his household gods." / "When he was away I slept across her door. Nobody laid a hand on her in two years. I
+  was a good bodyguard. That was the use of me." / "He'd bought a house he couldn't pay for, out where the cypresses are." / "He was
+  sorry about it. He said so, more than once, with her standing there. She didn't look at me." / "One was the girl who did her hair,
+  and she cried all through it. They'd been shown where to stand." / "Put a wife away for that, and you keep a share of what she
+  brought. Her father had given plenty with her." / "by the fishpond, where the house could watch" / "his steward went through my box
+  and took the tablet" / "The magistrate's book is still in the record office at Corinth, with my name in it." / "I was over his garden
+  wall the same night. A fisherman took me across the gulf for my belt buckle." / "They asked my name and I gave them Valens." / the
+  mules "off a Corinthian dealer who couldn't feed them till spring" / "Her brother took her home," … "Celer kept the boy."
+- **The legal claim as the page now has it (continuity W-21; the prose wins over foundation §3):** the freedom WAS registered: "I put
+  the Gaul down, and he sent the sword out to me across the sand, and a magistrate wrote my name in his book." The registration is not
+  in dispute. Celer's claim is a prior sale: "His story was that he'd bought me from the lanista the month before the games, so the
+  lanista had no right to free me, and the magistrate had written down a mistake. So I was his." In plot terms Celer's case rests on a
+  backdated bill of sale. The words "bill of sale" and "backdated" are NOT on the page; Valens says only "His story was". **Consequence
+  for Ch.15, 17 and 22:** the Corinth record proves the lanista freed him before witnesses and the emperor, but on its own it no longer
+  refutes Celer. The Rome suit has to defeat the sale itself: the lanista's books, the date, or the fact that Celer hired him for wages
+  after the games ("After the sword I needed work. Celer" … "wanted a man to walk behind his wife"). Valens never argues the law; he
+  gives the chronology and stops. (Foundation §3's "never registered before a magistrate" and the Ch.17/Ch.22 outline beats still carry
+  the old claim: flagged for the architect/orchestrator, not patched in this file.)
+- **Ch.12, knowledge path, Felix, plans:** **Knowledge path (one passage):** "Last autumn a freedman of her brother's found me at the
+  harbor," … "The brother's gone to law for her dowry. He wanted me to come and stand up and tell the court it was a lie. I said I
+  wouldn't. He'll have told them where he found me. Inside the month that notice went up in Corinth. You saw the month on it." / "I saw
+  it too." (it stands alone) / "Five hundred for me walking," … "Whoever wants five hundred brings a rope. Those three brought none. He
+  doesn't want me back. He wants me in a ditch." He gives NO reason for refusing the freedman (evasion: fear). How Celer knew the
+  harbor is Valens's own inference ("He'll have told them where he found me."). **With Felix:** the crust lie is Felix's own ("It was
+  that crust," … "It was off."); Valens answers "Don't give the goat any more of it," and gives the cover story ("If anybody in the
+  town asks, we came on a man in the ditch below the ford, and the road had been at him before us.") / "You came on a man in a ditch."
+  / "Tell it anyway." / to "He believed me": "He'd settled on robbers back on the road," / to "Did he go down straight off?": "No."
+  (his ONE bare "No." in Ch.12; the Ch.11 lie answered truly, without "one blow"). **With the graybeard:** "There's thorn all along
+  this road," **Plans, stated, no request:** "Three days," / "A knife in the precinct would have a hundred men on it. They'll want me
+  on a road, not in a crowd." / "The goat comes to the yard the evening before." / "When it's over, the mules are for the high
+  grazing," … "Above the cave. Up there you see a man coming a whole morning off. I'll stay up the summer." (he does not ask her to
+  come) / Kallia: "She hears what the donkey man heard." … "Kallia, then. Nobody else." **Names for him on the page:** the stranger's
+  "Lupus" and "*Rudiarius*". Nobody calls him "mule-man" in Ch.12 (the word is in Ch.6 and Ch.11 only); the graybeard says "You've been
+  in the thorns." **Page counts (FINAL):** no simile in his speech; bare "No." 1; bare "Felix." 0; walk-offs after a line 2 ("Now," and
+  the slap on the hindmost mule; "He was first down the goat path to the ford."); narrated non-answers 0; stopped-work tell 0; a knot
+  near his hands 0; boot lace 0 (cut, continuity W-05). **Spent in Ch.12:** the shaking hands held still at the fall; forehead on her
+  hair; the pouch handed over to hold; "Is it broken?"; the purse cut to stage a robbery; "Let the god's people find him."; "The
+  emperor never got out of his chair."; "That was the use of me." (the at-risk single use); "Whoever wants five hundred brings a
+  rope."; "He wants me in a ditch."; "There's thorn all along this road,"; "He'd settled on robbers back on the road,"; "Tell it
+  anyway."; the slept-across-her-door detail (said once; Ch.14's doorway is staged without pointing at it); a stone roped to balance a
+  load.
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -958,22 +1003,27 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   a tag and "and" ("He doesn't keep things for people," said Felix, and was gone. / "What wall?" he said, and went out with his
   sherd to show the dog.): 2 after F3, AT CAP; Ch.12 at most 1. The yard dog as his foil: 3 beats; rest it.
 
-- **Ch.12 as written (Writer, 2026-10-20; fewer lines than Ch.11, as briefed. Quotes from the writer's final draft):** leads the goat on
-  barley ("held his fist out behind him as he walked"); misses the fight, comes running back "with his fist open and nothing in it";
-  **sees the dead man and is sick** ("He was sick against it, neatly, propped on one arm against the stones.") and then asks "Who gets his
-  knife?" (unanswered by Valens, whose eyes are on Mara). Saw the man Mara hit run into the olives and stacks questions at the camera:
-  "What's that? Is it silver? Was it you broke that one's head? I saw him go off through the olives, holding it. Was it with that?" (gets
-  "It was my father's,"). Lies about being sick: "It was that crust," … "It was off." Invents a hero's version: "I could say I saw them
-  run. … and the tall one had a sword, and I hit him on the back of the head and he dropped it." … "I could have the sword." / "That's
-  nothing to tell." **Lies to the graybeard, well:** "We came on him," … "His purse was cut. We came on him and came on up, because of the
-  oil." ("His chin was up"); "He believed me," … "He sounded surprised." Carries the goat on his shoulders when she lies down ("her
-  forelegs in one fist and her hind legs in the other"); **names her Spicula** ("After the murmillo. The one the emperor gave a house
-  to." / "The god won't mind what she's called."); "She's doing it on purpose," … "Is she? Is she ill? Are goats sick when they see a dead
-  man?"; asks Mara "Did you see him do it?" / "Was it quick?" and Valens "Was it one blow?" (answered "No."). **Knows now:** Valens killed a
-  man (not the arena, not Lupus: he was ahead with the goat when the name was said); that Mara hit one; that she has a heavy foreign thing
-  that was her father's; the cover story. **Counts:** question openers rotated (What/Is/Was/Did/Who; no "Can I"); "nobody" 0; exits by line +
-  tag + "and" 0; "already" 0. Spent: the vomit-then-loot beat; the crust lie; the invented sword; "He believed me"; Spicula (the name may
-  recur only as an object fact in Ch.13, never as a joke).
+- **Ch.12 as written (Writer, 2026-10-20; fewer lines than Ch.11, as briefed. SYNCED to the FINAL page 2026-10-20 (polish cycle 1 +
+  F1–F2; continuity W-22): every quote below is on the page, checked by script):** chose the goat at Kirrha ("This one," … "She's got a
+  temper. The god likes a temper."); leads her on barley ("held his fist out behind him as he walked"); misses the fight and comes
+  running back "with his fist open and nothing in it"; **sees the dead man and is sick** ("He was sick against it, neatly, propped on
+  one arm against the stones."), then asks "Who gets his knife?" (unanswered: "Valens came past him to me."). Saw the man Mara hit run
+  into the olives and stacks questions at the camera: "What's that? Is it silver? I saw one of them go off through the olives holding
+  on to his head. You hit him with it?" (gets "It was my father's,"). Lies about being sick: "It was that crust," … "It was off."
+  Invents a hero's version, telling Mara's blow as his own: "I could say I saw them run. Two of them, into the olives, and I chased
+  them with a stone, and the tall one had a sword, and I hit him over the head and he dropped it." … "I could have the sword." /
+  "That's nothing to tell." **Lies to the graybeard, well:** "We came on him," … "His purse was cut. We came on him and came on up,
+  because of the oil." ("His chin was up"); "He believed me," … "He sounded surprised." Carries the goat on his shoulders when she lies
+  down ("her forelegs in one fist and her hind legs in the other"); **names her Spicula** ("After the murmillo. The one the emperor
+  gave a house to." / "The god won't mind what she's called."); "She's doing it on purpose," … "Is she? Is she ill? Are goats sick when
+  they see a dead man?"; asks Mara "Did you see him do it?" / "Quick, though?" and Valens "Did he go down straight off?" (answered
+  "No."). The narrator notes his silence once ("he asked nothing whatever, which in my hearing he had never managed before"): one dry
+  aside, never a running joke. **Knows now:** Valens killed a man (not the arena, not Lupus: he was ahead with the goat when the names
+  were said, and at the ford during the telling); that Mara hit one; that she has a heavy foreign thing that was her father's, which he
+  took for silver (a gossip risk for Ch.15); the cover story. **Counts (FINAL):** question openers What / Is ×3 / "You hit…?" / Who /
+  Are / Did ×2 / "Quick, though?"; "Was" 0; **"Is" ×3 = WATCH** (rotate in Ch.13); "nobody" 0; exits by line + tag + "and" 0; "already"
+  0. Spent: the vomit-then-loot beat; the crust lie; the invented sword; "He believed me,"; Spicula (the name may recur only as an
+  object fact in Ch.13, never as a joke).
 
 #### PLAUTIA — Celer's divorced wife; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
@@ -997,6 +1047,12 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **Sample line:** "My former husband, who keeps my son in a house on the Craneion with a nurse I have
   never been permitted to meet, has asked the court to consider his reputation; do you think the boy
   still knows my face?"
+- **Ch.12 (mention only, in Valens's telling; her first naming on the page):** "He wanted a man to walk behind his wife, one that
+  people would know from the sand and stand back from. Plautia." Her walks: "To the baths. To her mother's house. Out to Kenchreai, to
+  the Egyptian goddess, on her days." At the frame: "She didn't look at me." After: "Her brother took her home," … "Celer kept the
+  boy." Her brother "gone to law for her dowry", and his freedman found Valens at the Kirrha harbor. She does not speak and is not
+  described; keep her voice and her body for Ch.16. Her sample line's "a house on the Craneion" stays calibration only (continuity
+  W-06); Ch.16 must not use it.
 
 #### QUINTUS ARRIUS CELER — legate on the proconsul's staff at Corinth until Nero's grant of freedom (late 67), out of office at the frame (69), back on the restored proconsul's staff by 71–72; the defendant in Rome (Ch.12 by proxy, Ch.17, Ch.22)
 - **Attention / worldview:** standing, reputations, who is watching, which way a room leans. Everyone is
@@ -1016,11 +1072,20 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   plural, against Plautia, who addresses everyone in the second person and in earnest.
 - **Sample line:** "Sit, please, both of you; nobody here is in any hurry, and I'd much rather we were
   all friends again by the time the wine comes."
-- **Ch.12 by proxy (Writer, 2026-10-20; in Valens's account and in the men he sent):** the man who frames by apology: "He was sorry about it.
-  He said so, more than once, with her standing there." Debts and "a house on the Craneion he couldn't pay for"; the dowry share; his
-  story that he bought Valens "from the lanista the month before the games". His men: a friendly Corinthian who had seen Lupus fight and
-  knew him "by his hand", a big man with an olive stick, a third who held Mara ("Be still, mistress. Be good."). They came on the Lechaion
-  boat, brought knives and no rope. Celer himself never appears and is never quoted; keep his on-page voice for Ch.17.
+- **Ch.12 by proxy (Writer, 2026-10-20; in Valens's account and in the men he sent. SYNCED to the FINAL page 2026-10-20: every quote
+  below is on the page, checked by script):** the man who frames by apology: "He was sorry about it. He said so, more than once, with
+  her standing there." "Celer was legate then, on the proconsul's staff."; after the freedom "He'd stayed on at Corinth with nothing to
+  be legate of. He had debts. He'd bought a house he couldn't pay for, out where the cypresses are."; the dowry share ("Put a wife away
+  for that, and you keep a share of what she brought."); his steward took the tablet; "Celer kept the boy." **His legal claim (W-21;
+  see the VALENS card):** not that the freedom went unregistered, but a prior sale: "His story was that he'd bought me from the lanista
+  the month before the games, so the lanista had no right to free me, and the magistrate had written down a mistake." In plot terms, a
+  backdated bill of sale (not page words). **His men:** a friendly man who was on the benches at Corinth ("I had two drachmas on the
+  Gaul.") and knew Lupus by his hand ("you'll know him by his hand"); a big man with "a stick of olive wood"; a third who held Mara
+  ("Be still, mistress. Be good."). On the page they carry one knife (the talker's) and one stick, and the third man uses his hands;
+  Valens's point is the missing rope: "Those three brought none." **Inference, not page fact:** that they came on the Lechaion boat.
+  The page has only "I told them about it the whole crossing." and, at Kirrha that morning, "A boat from Lechaion had come in on the
+  morning wind". Two of them got away, and both heard Valens call "Mara." (Ch.17 may use it, or not). Celer himself never appears and
+  is never quoted; keep his on-page voice for Ch.17.
 
 #### POMPONIA GRATA — thermopolium keeper on the Via dell'Abbondanza; the family's landlady and neighbor (Ch.19–40)
 - **Attention / worldview:** trade, appetite, gossip, her son's election, money that isn't there. Every
@@ -1684,28 +1749,48 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   Valens's mouth; stays).
 
 #### Ch.12 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
-*(Writer, 2026-10-20. Quotes from the writer's final draft.)*
-- **The talker (dead)** — short, sunburned, "a good brown cloak", "a pleasant, creased face"; Corinthian; claims he saw Lupus beat a Gaul in
-  the emperor's year, "I had two drachmas on the Gaul." … "I've forgiven you."; knew him "by his hand"; "*Rudiarius*"; "And good day to
-  you, lady,"; dies in the ditch; new sandals "with the thong tied in a bow across the foot". His face stays "a pleasant face". Never named.
-- **The big man** — olive-wood stick; watches the back of Valens's right hand; hits Valens across the shoulders; runs into the olives.
-- **The third man** — behind them; wine and sweat; "Be still, mistress. Be good."; laughs "low, at nothing"; hit above the ear with the
-  Pentax; runs "holding his head together in his two hands". (Both survivors are free to report to Corinth; not winked at.)
-- **The Aigion dealer** (Ch.11's "man at Kirrha") — goats in "a pen of hurdles at the root of the mole", crossed the gulf by boat; names his
-  price to Valens; Mara pays. Does not speak on the page.
-- **The sprat woman at the mole** — fries sprats, sells them "in twists of fig leaf"; Valens pays for three.
-- **The oil men** — bring his jars along the mole and argue about the straw.
-- **The graybeard's party** — a gray-bearded man with a donkey, two women with baskets, a boy: "There's a dead one below," / "It's been like
-  this since the freedom. Robbers off every boat." / "You've been in the thorns, mule-man." / "My son's run back to Kirrha for the headman
-  and a cart," … "Somebody ought to sit with him till they come, and it won't be me." The younger woman talks of the dead man's sandals,
-  "how new they were, what a shame". The son, the headman and **the cart** (the chapter's last image) are off-page.
-- **A man with a tray of lamps on his head** — "whether he would reach Kirrha by nightfall." / "If you don't stop,"
-- **Spicula** — the consultation goat: a brown she-goat with a white blaze, from the Aigion pen, chosen by Felix because she butted him
-  ("She's got a temper. The god likes a temper."); eats all the barley in the road during the fight; lies down at the foot of the climb;
-  carried up on Felix's shoulders, asleep, "her jaw kept moving". Named by Felix after **Spiculus** (Nero's murmillo, mention only).
-- **Mention only:** the emperor (Nero, unnamed) and the Gaul; the lanista; the magistrate; Celer's steward; "the girl who did her hair";
-  Plautia's mother; "the Egyptian goddess" at Kenchreai; the fisherman; the Corinthian mule dealer; Plautia's brother and his freedman; the
-  Calf-Bearer (Mara's comparison); Orestes (Mara's aside).
+*(Writer, 2026-10-20. SYNCED to the FINAL page 2026-10-20 (polish cycle 1 + F1–F2; continuity W-22): every quote below is on the page, checked by script.)*
+- **The talker (dead)** — "He was short and sunburned, and the dust of the plain was on the hem of his cloak. He had a pleasant,
+  creased face"; "He kept pace beside us with his hands behind his back." (the knife hand hidden); was on the benches at Corinth, "I
+  had two drachmas on the Gaul." … "I've forgiven you."; "you'll know him by his hand"; "*Rudiarius*"; "And good day to you, lady,";
+  dies in the ditch; a new sandal "with the thong tied in a bow across the foot". "It was still a pleasant face." Never named.
+- **The big man** — introduced as "One of the other two"; "He was big, and he carried a stick of olive wood, and he had no eyes for me.
+  He was watching the back of Valens's right hand."; "My brother's a butcher," … "He's got two like that."; the stick across Valens's
+  shoulders; runs up the bank into the olives.
+- **The third man** — behind them ("His sandals on the stones."); "laughed, low, at nothing"; wine and sweat; "Be still, mistress. Be
+  good."; "It caught him above the ear." (the Pentax); "He walked into the wall, and slid down it."; runs "holding his head together in
+  his two hands". (Both survivors are free to report to Corinth; not winked at.)
+- **The Aigion dealer** (Ch.11's "man at Kirrha") — "The Aigion man kept his goats in a pen of hurdles at the root of the mole"; the
+  goats "had crossed the gulf in one and were not yet sure of the ground"; "The Aigion dealer told Valens his price."; Mara pays. Does
+  not speak on the page.
+- **The sprat woman at the mole** — "sprats a woman was frying at the mole and selling in twists of fig leaf"; Valens paid her for all
+  three.
+- **The oil men** — brought his jars along the mole "and argued with him about the straw".
+- **The lodgers at Kallia's** (mention only, the reason the camera rides under her clothes) — "Thessalians and Achaeans and a priest's
+  cousin from Elateia", sleeping "along Kallia's gallery in rows".
+- **The graybeard's party** — "a gray-bearded man leading the donkey, two women behind with baskets on their heads, and a boy":
+  "There's a dead one below," … "Somebody's had his purse." / "It's been like this since the freedom. Robbers off every boat." /
+  "You've been in the thorns." / "My son's run back to Kirrha for the headman and a cart," … "Somebody ought to sit with him till they
+  come, and it won't be me." The younger woman talks of the sandals on him, "how new they were, what a shame"; the boy goes last,
+  "looking back at the goat". The son, the headman and **the cart** (the chapter's last image) are off-page.
+- **Traders on the climb** — "Traders came down from the town against us, going to sleep at Kirrha for the boats"; "each of them said
+  good evening and got good evening back."
+- **A man with a tray of lamps on his head** — asked "whether he would reach Kirrha by nightfall." / Valens: "If you don't stop,"
+- **Spicula** (NAMED in Ch.12; the consultation goat; an animal, so a walk-on entry like the black and the yard dog, not a four-axis
+  card) — "a brown she-goat with a white blaze", from the Aigion pen, "the one that had put her head into his stomach", chosen by Felix
+  for it ("She's got a temper. The god likes a temper."); eats "every grain" of the barley in the road during the fight; "She stood at
+  the foot of the climb with her head low." and lay down; carried up on Felix's shoulders; asleep at the close, "and her jaw kept
+  moving". Named by Felix after Nero's murmillo ("After the murmillo. The one the emperor gave a house to."); **Spiculus himself is NOT
+  named on the page.** Mara: "She is the god's," / Felix: "The god won't mind what she's called." Kept at the yard: "The goat comes to
+  the yard the evening before." Her butting, her temper and the moving jaw are each used once; Ch.13 gives her name only as an object
+  fact (no joke, no repeated goat business).
+- **Named in Ch.12, mention only (no card):** **Plautia** (first named here; see her card); **Orestes** (Mara's aside: "Apollo had been
+  taking money from men with blood on them since Orestes"); **the Calf-Bearer** (Mara's comparison, "in the museum on the Acropolis");
+  **Vespasian** (on the denarii: "some so new that Vespasian's heavy face had hardly been rubbed"). Places and dates first named here:
+  Kenchreai, Lechaion, the month Bysios ("It was three days to the seventh of Bysios.").
+- **Mention only, unnamed:** the emperor (Nero) and the Gaul; the lanista; the magistrate; Celer's steward; "the girl who did her
+  hair"; Plautia's mother; "the Egyptian goddess" at Kenchreai; the fisherman; the Corinthian mule dealer; Plautia's brother and his
+  freedman; "a bird was saying the same three notes" in the olives (texture).
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -2872,44 +2957,79 @@ line each, so that walk-ons don't all sound like Mara.
   - **Carried to the Ch.12 brief:** the money gap settled on the page as an act (ENTITY CH11-3); Valens ≤3 walk-offs, ≤1 bare "No.",
     ≤1 bare "Felix."; Felix fewer lines than in Ch.11. **Carried to Ch.13:** whose name the priest writes, shown without a gloss.
 
-- **At-risk after Ch.12 (Writer, 2026-10-20; "The Kirrha Road", In medias res, 2 breaks, dialogue 26%, median 10; the writer's final draft.
-  Re-sync after the downstream passes):**
+- **At-risk after Ch.12 (SYNCED to the FINAL page 2026-10-20, from `evaluations/chapter-12-eval.md` cycle 0 (the bookkeeping list) and
+  the cycle-1 re-evaluation (F1–F2, W-22), and `evaluations/continuity/chapter-12-audit.md` (C-01, W-01…W-23, I-01…I-23). FINAL page,
+  polish cycle 1 + F1–F2: 4,710 words (shape_check), dialogue 28%, median 10, 2 breaks, `dialogue` → `punch`.):**
   - **The fight staging: SPENT.** The friendly stranger who knows the arena name; the knife from under the cloak; the stick across the
-    shoulders; two men into a ditch, the death heard not seen ("and then nobody was"); the hostage grab by the cloak and "Be still"; the
-    camera swung on its strap; the cap rolling into spilled oil. Ch.17's Celer (no violence) and Ch.39–42 must not rebuild any of it, and no
-    later fight is heard from a ditch.
-  - **The anchor sentence (a small object rolling a long way on its rim): SPENT** — no later object rolls, wobbles or keeps "righting itself" as a
-    held beat. The cap is LOST, left in the oil by the body (ENTITY: lens-cap resolved Ch.12). Any later lens is uncapped; do not mention a cap.
-  - **Hands held still at the fall: SPENT** (wrists pressed flat to wet stone, the shaking going "into my arms", the scar felt under the
-    palm with its stitch marks). Ch.23's "he is the one comforted" must find other bodies and senses; no wrists, no water, no scar-under-palm.
+    shoulders; two men into a ditch, the death heard not seen ("and then nobody was"); the hostage grab from behind, the himation at
+    the throat, no hand named, and "Be still"; the camera swung on its strap; the cap rolling into spilled oil. Ch.17's Celer (no
+    violence) and Ch.39–42 must not rebuild any of it, and no later fight is heard from a ditch. **The grab frame (a woman seized from
+    behind by her garment at the start of violence: Ch.5, Ch.12): CLOSED.** A later seizure opens in a fresh frame.
+  - **The anchor sentence (a small object rolling a long way on its rim): SPENT.** No later object rolls, wobbles or keeps "righting
+    itself" as a held beat.
+  - **The Pentax:** the cap is LOST, left in the oil by the ditch (ENTITY: lens-cap resolved Ch.12), and **never mentioned again**; any
+    later lens is uncapped. The front ring of the lens is dented ("pushed in at one point"). **The camera check (hair and smear, ring,
+    finder) is done once and never re-done.** Voice-bank sample-13 (the Ch.19 register) has "I put the cap back on the lens": that act
+    cannot happen on the page (voice-dna §6 note; the Ch.19 writer prompt must say so).
+  - **Hands held still at the fall: SPENT** (wrists pressed flat to wet stone, the shaking going "into my arms", the scar felt under
+    the palm with its stitch marks). Ch.23's "he is the one comforted" must find other bodies and senses; no wrists, no water, no
+    scar-under-palm. **Valens's shaking hands: a one-time body rebel, never his pressure signature.**
   - **Forehead resting on her hair: once.** **The pouch handed to her to hold, returned unopened: once.**
-  - **Valens's first use of "Mara": DONE** (untagged, from the ditch, as a warning). His next uses are ordinary; never staged as a reveal.
-  - **The telling: SPENT as a set piece.** Do not re-tell the frame in Valens's voice before Ch.22's testimony, and Ch.22 must not reuse
-    these wordings: "That was the use of me." (at-risk max 1, USED), "That's how it gets told.", "They'd been shown where to stand.", "the girl
-    who did her hair", "by the fishpond", "for my belt buckle", "A quay doesn't ask twice.", "He wants me in a ditch.", "Whoever wants five
-    hundred brings a rope.", "I slept across her door". The knowledge path is DONE; Ch.15's bargain refers to it without re-explaining.
-  - **The onion memory, first surfacing (two sentences, a crushed wild onion at a pool): DONE.** Ch.22, 23, 32, 41 surface it as a subject in
-    fresh words, never "under the eaves" or "in strings" again, never triggered by a crushed plant again.
-  - **Mara asking no question as the subtext of belief: SPENT as a device.** It is this chapter's shape; later chapters let her ask again.
-  - **Robbery staging (the cut purse; "Let the god's people find him."; "A traveler with his purse cut.") and the cover story ("we came on
-    a man in the ditch"; "Tell it anyway."; "He believed me." / "People do, mostly."): SPENT.**
+  - **Valens's first use of "Mara": DONE** (untagged, from the ditch, as a warning). His next uses are ordinary; never staged as a
+    reveal.
+  - **The telling: SPENT as a set piece.** Do not re-tell the frame in Valens's voice before Ch.22's testimony, and Ch.22 must not
+    reuse these wordings: "That was the use of me." (at-risk max 1, USED), "The emperor never got out of his chair.", "They'd been
+    shown where to stand.", "the girl who did her hair", "by the fishpond", "for my belt buckle", "I gave them Valens", "He wants me in
+    a ditch.", "Whoever wants five hundred brings a rope.", "I slept across her door", "out where the cypresses are". The knowledge
+    path is DONE ("He'll have told them where he found me." closes the ENTITY knowledge gap as Valens's inference); Ch.15's bargain
+    refers to it without re-explaining. **The legal claim on the page is a prior sale, not an unregistered freedom** (W-21; see the
+    VALENS card): Ch.15/17/22 build on that.
+  - **The onion memory, first surfacing (two sentences, a crushed plant at a pool): DONE.** Ch.22, 23, 32, 41 surface it as a subject
+    in fresh words, never "under the eaves" or "in strings" again. **The onion trigger (a crushed plant underfoot): SPENT**, for this
+    memory and any other.
+  - **Mara asking no question as the subtext of belief: SPENT as a device.** It is this chapter's shape; later chapters let her ask
+    again.
+  - **Robbery staging (the cut purse; "Let the god's people find him."; "A traveler with his purse cut.") and the cover story ("we came
+    on a man in the ditch"; "Tell it anyway."; "He believed me," / "He'd settled on robbers back on the road,"): SPENT.**
   - **Dead man's money to the god / Orestes aside: SPENT.** No second Orestes or purification joke.
   - **The Calf-Bearer comparison: SPENT** (museum-statue comparisons as a domain: rest it for several chapters).
-  - **A boy sick at a death: SPENT** (Felix). **Felix naming an animal after a fighter (Spicula): once.** **"Was it one blow?" / "No.":
-    DONE** — the Ch.11 irony is closed; nobody revisits it.
+  - **A boy sick at a death: SPENT** (Felix). **Felix naming an animal after a fighter (Spicula): once.** **"Did he go down straight
+    off?" / "No.": DONE.** The Ch.11 irony is closed without "one blow" (that phrase stays at 2, both Ch.11); nobody revisits it.
   - **Asides returning in a staged order after pressure (materials → comparison → aside): used once**; the next recovery from pressure
     (Ch.17, 24) finds its own order.
   - **The final image of a stopped cart seen from above: SPENT** as an ending; "cart" as a closing noun rests for the book's remainder.
-  - **Valens's practical high-grazing plan (Ch.15 setup):** said once ("I'll stay up the summer."); Ch.13–15 do not repeat it as a line.
-  - **Money:** the gap is CLOSED (ENTITY CH11-3): goat paid by Mara at Kirrha; sprats by Valens; cake and Praxias's drachma from the dead
-    man's denarii; "plenty over". The rag's contents are never itemized again. **"three drachmas"** is not on the Ch.12 page.
-  - **Counts on the draft page:** hinge-family openers 0; "So" openers 0; "before I had [verb]" 0; "the one / the only" claims 0; negation
-    pivots 0; "He meant…" 0; "could have" 1 (Felix's speech); "as if / as though" 1; credential asides 0; and-chains 5; em-dashes 0;
-    semicolons in prose 2; command echo 0; bend / stoop 0; kneel / crouch / squat 0; object handling 3 (cap 4); look away/down 1; jaw 1 (the
-    goat's); "a (long) moment" 0; held silence measured by movement 0; lying-awake coda 0; memories (Mara) 0; laughs 0 (the third man's low
-    laugh is texture, not an event); English 0; bare "No." 3 (Valens 1, Mara 2); narrated non-answers 0; echoes 0.
-  - **Tool:** "the kirrha road" added to the book's `tools/tic_report.py` WORLD_TERMS (the outline-fixed Ch.12 title echoed Ch.11's body).
-    Proper noun only; it is not a motif.
+  - **Valens's practical high-grazing plan (Ch.15 setup):** said once ("I'll stay up the summer."); Ch.13–15 do not repeat it as a
+    line.
+  - **Money:** the gap is CLOSED (ENTITY CH11-3): goat paid by Mara at Kirrha; sprats by Valens; the dead man's denarii cover the cake
+    "with plenty over". **Praxias's fee is not named on the page;** it comes out of that "plenty over", implied. If Ch.13 pays Praxias
+    at the door, the money is the dead man's silver, never itemized. The rag's contents are never itemized again. **"three drachmas"**
+    is not on the Ch.12 page. (ENTITY CH11-3 still quotes the cut "Praxias's drachma" string: entity-tracker's to fix.)
+  - **Comparison vehicles:** "the way [the] men…" (local men's public dealings as the vehicle: Ch.11, the Ch.12 draft ×2) **CLOSED**;
+    ¶8's horse-bettor ("the way a man looked at a horse he had once had money on") is its last use. A vehicle domain is used once.
+  - **"the god's day" CLOSED** as a phrase (Nikaso's Ch.10 words; Valens's Ch.11 paraphrases are SPENT); Ch.13's opener uses neither it
+    nor the Ch.11 paraphrases. "When it's over," is Ch.12's.
+  - **Narrator constructions:** anadiplosis ("the pool. The pool was…") **≤1 per chapter** (Ch.12: 1, "The foot was turned out.").
+    **Paragraph-final negations: WATCH** (Ch.12 ≈2.5/1k; Ch.13 ≤1.5/1k). **The doubled-verb pick-up** ("I saw … I saw", "past …, past
+    …", "I wound … I wound", "He turned … He turned them again", "I held on … I held on") is the level-2 rhythm and is spent here;
+    Ch.13 (calm, mid gear) ≤2.
+  - **A knot near Valens's hands: 0** (restated; any additive repair greps `knot` within reach of Valens). **The boot lace: 0** in
+    Ch.12; not at the frame again.
+  - **Voice-bank sample-05 (the Ch.12 register) is now barred from the page, by string and by frame:** "It hit him" and the frame "hit
+    him on the … of the head" (narration AND speech: CLOSED); "the side of the head"; "the second man"; "My hands did that by
+    themselves"; "against the wheel"; "the goat's rope in my hand"; "The lens cap came off"; "rolled away through the dust"; "I picked
+    up the lens cap" / "put it back on"; "his hands were shaking and mine were not"; "I held them until they stopped"; and the
+    structure "two run, then the dead one's stillness as a non-motion" (W-07). Two sample-05 3-grams stand in Ch.12 by ruling ("I held
+    on." at the fall; "by its strap" for the camera) and do not recur in a fight or a steadying beat. Every chapter is scanned against
+    its own register sample at 3-grams, speech included.
+  - **Counts on the FINAL page (re-measured):** hinge-family openers 0; "So" openers 0; "before I had [verb]" 0; "the only" claims 0;
+    negation pivots 0 (gate); "He meant…" 0; "could have" 1 (Felix's speech); "as if / as though" 1; credential asides 0; and-chains 5;
+    em-dashes 0; semicolons in prose 2; command echo 0; kneel / crouch / squat 0; bend / stoop 0 ("bent" only as the camera rim); "a
+    (long) moment" 0; jaw 1 (the goat's); "face up" 1 (the anchor sentence only); sentence-initial "Nobody" in narration 1 ("Nobody
+    came at me."; the others are speech); memories (Mara) 0; laughs: Mara and Valens 0, walk-ons 2 (the talker; the third man's low
+    laugh; menace, not texture to loosen a scene); English 0; **bare "No." 2 (Valens 1, Mara 1)**; Valens's walk-offs 2; narrated
+    non-answers 0; echoes 0.
+  - **Tool:** "the kirrha road" added to the book's `tools/tic_report.py` WORLD_TERMS (the outline-fixed Ch.12 title echoed Ch.11's
+    body). Proper noun only; it is not a motif.
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
@@ -3322,3 +3442,26 @@ finalizing the chapter. Never add a tic to fix it.
   proxy). Ch.12 walk-on note (the three men, the Aigion dealer, the sprat woman, the graybeard's party, the lamp seller, Spicula the goat).
   At-risk after Ch.12 block added. No device collisions: no walk-on counts, prices or notices workmanship; Valens never compares; Mara's
   materials eye stays hers. Tic-bearer roster still NONE.
+- 2026-10-20 (bookkeeping, W-22: bible re-synced to the FINAL Ch.12 page, polish cycle 1 + F1–F2): MARA, VALENS, FELIX and CELER Ch.12
+  blocks, the Ch.12 walk-on block and At-risk after Ch.12 rewritten from the page; every quote kept is verbatim on the page (checked by
+  script). Cut strings removed or replaced: "That's how it gets told." → "The emperor never got out of his chair."; "a house on the
+  Craneion" → "out where the cypresses are" (Plautia's sample line keeps it, calibration only); "Those three brought knives." → "Those
+  three brought none."; "People do, mostly." → "He'd settled on robbers back on the road,"; "mule-man" dropped from Ch.12 (Ch.6 and
+  Ch.11 only; the graybeard's "You've been in the thorns."); Praxias's drachma no longer named (the "plenty over" covers it, implied);
+  also "A quay doesn't ask twice." → "I gave them Valens", "Was it one blow?" / "Was it quick?" → "Did he go down straight off?" /
+  "Quick, though?", "The whole of it, then," / "Her, and nobody else." → "Kallia, then. Nobody else.", the jar propped → heaved over
+  the terrace edge, the knot and "His hands were sure at it." → the stone roped to balance, the boot lace out, "The glass is whole." →
+  "Only the rim is bent.", "Praxias wanted five drachmas." → "half a drachma over three", the green-thread darn, filter ring,
+  flashlight and sailor clauses re-quoted or dropped, the grab re-quoted ("My himation came tight across my throat from behind."), "It
+  hit him" → "It caught him", Felix's camera questions and invented story (F2 "over the head"). VALENS: new "Voice under pressure"
+  entry (speech unchanged in register; the shaking at the fall while Mara steadies him, a one-time body rebel); new "legal claim" entry
+  (the freedom registered; Celer's prior-sale story = a backdated bill of sale in plot terms, not page words; foundation §3 and the
+  Ch.17/22 outline beats flagged, not patched); injuries for Ch.13. PLAUTIA: Ch.12 mention-only line (first naming on the page).
+  Walk-ons: the talker's dust-hemmed cloak and hands behind his back, "One of the other two", "It caught him", the lodgers, the
+  traders, Spicula expanded (named; Spiculus not named on the page), Orestes / the Calf-Bearer / Vespasian / Kenchreai / Lechaion /
+  Bysios as first-named mentions. At-risk after Ch.12: grab frame CLOSED; the Pentax (no cap, dented ring, check done once; sample-13
+  note added to voice-dna §6); onion trigger SPENT; "the way [the] men" vehicle and "the god's day" CLOSED; anadiplosis ≤1/ch;
+  paragraph-final negations WATCH; doubled-verb pick-up spent (Ch.13 ≤2); knot near Valens 0; the voice-bank sample-05 strings and
+  frames barred; counts re-measured on the final page. No new tic, catchphrase or signature gesture given to anyone. Not done here:
+  ENTITY_STATE's lines that quote cut strings (entity-tracker), foundation §3 / outline Ch.17, Ch.22 (architect/orchestrator).
+  Tic-bearer roster still NONE.
