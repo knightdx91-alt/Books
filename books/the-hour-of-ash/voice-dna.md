@@ -430,7 +430,7 @@ law.** Once the mountain opens, the body's language is hands, carrying, and a wa
 | Who leads | mutual; she pulls him down | she does; she is the steady one | both; they talk throughout |
 | Mara's body | ordinary; the cold of the high pasture | **six months pregnant, handled frankly and tenderly**; positions adapted, her humor about her body, his care | at ease, sun and salt |
 | Gear | high (long, slow, specific) | low (rain, short, close) | high (long, warm) |
-| Period material | the olive-wood rope bed that gives way, sheep-smelling blanket | the rough inn blanket, rain on roof tiles, fleas | inn shutters, salt, the sea's noise |
+| Period material | the forked-stake bed of poles, bracken and three fleeces that gives way | the rough inn blanket, rain on roof tiles, fleas | inn shutters, salt, the sea's noise |
 | After | Felix snoring outside; a quiet image | a long fade into rain and the fleas | breakfast; the chapter just stops |
 
 ### Anti-patterns specific to heat

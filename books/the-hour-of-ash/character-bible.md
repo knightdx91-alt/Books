@@ -84,7 +84,14 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **Bleed guard:** her dry asides and her eye for materials must never migrate into anyone else's
   dialogue. Avoid "the conservator in me" as a recurring phrase (at-risk list).
 - **Chaos on the page (subjects, never phrases):** **teeth** (full surfacings Ch.7, 20, 31; glancing
-  only in Ch.2 floss, Ch.5 Kallia inspects hers, Ch.15 Valens's, Ch.24 the midwife's; the Ch.24
+  only in Ch.2 floss, Ch.5 Kallia inspects hers, Ch.15 Valens's, Ch.24 the midwife's. **Ch.15: DONE, glancing** (SYNCED 2026-10-20 to the
+  FINAL page): Valens's teeth seen ("His teeth showed by the doorway's glow, square and even."), held against him by her own record ("I
+  had flossed every night of my adult life and still paid to be scolded twice a year"), in "the wreck of the herdsman's bed"; the dentist
+  is unnamed and has no costume. **Teeth fact:** "every night" sits inside foundation's twice a day, and no later page states another
+  frequency. The floss itself last appears in Ch.5 (the old filling "that frayed the floss"); from Ch.7 she cleans her teeth with a
+  lentisk stick, so no later page shows her using 1998 floss in antiquity unless it accounts for it (how much is left, where it is
+  kept). "every night of my adult life" is the habit of her 1998 life; it does not claim she has flossed this year. The Ch.24
+  midwife is still the book's only introduction-by-teeth; the Ch.24
   midwife is the book's only introduction-by-teeth, and the rule stays at most one in any four chapters).
   **All-or-nothing** (Ch.1, 5, 7, 9, 20, 29, 33; the ending must read as accepting a seam, not as this
   distortion). **Mrs. Dunphy** (Ch.7 green cardigan; Ch.24 brown; Ch.41 unsure it was long division).
@@ -374,6 +381,28 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   him at the bottom of the climb."). Credential asides 0 (gate); teeth 0 ("behind my teeth" is the word, not the obsession); laughs 1
   (hers); memories 1 (the casts; the father's summers are a habitual run inside the laugh trigger, Halloran one sentence); "could have" 1
   ("could have drawn blindfold"); English 0.
+- **Ch.15 as written (Writer, 2026-10-20; "Summer Pasture", Chronological day-in-full, the high pasture above the Corycian Cave, July AD
+  71. SYNCED 2026-10-20: FINAL page, polish cycle 1 + the CH15-1 spring line + Z1–Z6; every quote below is on the page, checked by
+  script):** the commitment holds: **no English to herself** anywhere, aloud or alone; to the ewes she talks Greek ("My ewes heard about
+  whatever came into my head, in Greek"). Her Greek stays uncontracted ("That is the end of it," / "It goes no further." / "He is sixty
+  if he is a day," / "That is not what I asked." / "Because it is my own," / "That is not believing."). **The cave (CH13-7), in
+  backfill:** she brought the flashlight "uppermost"; "It was shut, as I had wished it, and I switched the light off, and we stood
+  together in the dark, and I waited."; the shiver, "slowly, from the middle outward, then hard enough that he heard my teeth." **Chaos,
+  4 of 4, inhabited:** the snowplow described to a ewe ("It is a wagon with a blade on its nose and no animal pulling"); the battery
+  rabbit ("the pink rabbit on the packet, the one in sunglasses"); all-or-nothing, twice ("One print on that glass," … "and I might as
+  well never look through it again."; "Inside that one look I decided it was pitch or nothing"); the teeth (see the chaos line above).
+  **Failed management, a new channel: the hiccups** (three through the bargain; the second "burst out through my nose"; the third "took
+  me exactly on the last word of it", with no gloss; the section closes "My hiccups were gone."). **The truth told badly:** "Where I
+  live, they count the years from the birth of a man in Judaea"; "nineteen hundred and ninety-eight"; the monk's arithmetic; "He waited,
+  and I did the sum aloud." / "nineteen hundred years, and twenty-seven more. Twenty-six, and some months."; "I watched the fly and told
+  him the rest in one go." **AD 79 as present thought, once:** "eight years on from this summer, and a few weeks over. I left it
+  standing where it was; his question had been about the road." She hides the camera's lens from his thumb ("I had his wrist turned
+  aside before it got there"). **Memories: two clauses, both triggered and returned:** the pink plastic razor "out of a bag of ten" (her
+  last morning in Philadelphia) and the Italian Market (the mozzarella; see the walk-on block). **The contraception thought, once
+  (voice-dna §5; risk only, no resolution):** "Nothing in that hut stood between me and a child but luck, and I had lost count of my
+  month somewhere around October; it went through me, and I did nothing to stop it." **Laughs:** "I laughed, not much" at the roof, and
+  the one shared fit on the broken bed. **Her consent is an act:** "I put my own hand over it and took it where I wanted it." Credential
+  asides 0 (gate); English 0; teeth surfacing 1 (glancing).
 - **DISTINCTNESS GUARANTEE:** the only voice in the book that sees how a thing was made and where it was
   mended, against Valens, who sees where a thing or a man will move next.
 - **Sample line:** "Somebody's glued this before, look, there's an old line under the new one, and
@@ -785,6 +814,51 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   Bare "No." 0; narrated non-answers 0; walk-offs 0 on the page; no knot; no watch. **Spent in Ch.14:** the knife along the forearm on
   waking; the knife held through a question and put back after the answer ("He left the knife where it was."); "The moon's down by
   midnight,"; "She'll dig it crooked."; the cloak over the ear.
+- **Ch.15 as written (Writer, 2026-10-20; the high pasture, July AD 71; his longest talking day before Ch.34. SYNCED 2026-10-20: FINAL
+  page, polish cycle 1 + the CH15-1 spring line + Z1–Z6; every quote below is on the page, checked by script):**
+  - **Lines (each once):**
+    - the dawn and the fig: "Cool. She'll do the troughs."; to Mnason, "Cut your own." / "The gorge, then." / "It would."; "He'll be
+      over those stones some night." (his mind-reading, aimed at Mnason); to Felix, "Eat one and find out.";
+    - noon: "The light in the cave,"; "It's not warm,"; "When it's used up?"; "Don't burn it, then,"; "You'd no salt on you."; "Titus
+      has just burned it."; "I know May."; then "Do they still have mules?" and the practical questions that follow it ("Who leads
+      them?"; "Who's emperor?"; "So the legions went home."; "The roads. Does anybody mend them?"; "Where's the god gone?"; "The
+      spring?"; "Is the sea still salt?"; "Who's looking for you, there?"; "That's true, then.");
+    - the camera and the town: "The heavy one," … "Felix's silver."; "It makes everything small,"; "He'll be wanting it, then.";
+      "It was made somewhere."; "The god gave you a mountain and a tomb."; "I've heard of Neapolis. Puteoli."; the dust map ("Here's
+      the gulf, and here's the heel of Italy"); "With the light, and the box you look through."; "How will you know the door, among
+      all those tombs?";
+    - the bargain: "My paper," … "is in Corinth. The book with my name in it."; "Hold your breath,"; "I'll want that book in my hand
+      before I set foot in Italy."; "So's the brother. Her brother."; "The freedman told me which house."; "That was last autumn.";
+      "Half Corinth sat on those benches. They've not all died."; "She'll be in it."; "In that court I'll have the brother's men on the
+      benches round me," / "Celer's men chose a road for it."; "As man and wife."; "That's for the shipmaster, at the gangway."; "He
+      asks it before he asks the fare,"; "Delphi thinks you're on a boat. Let it."; "Kallia will tell him you sailed."; "There's the
+      silver from the ford."; "mules hardened on a mountain"; "He comes."; "Why?" (of her plan to go home); **"I'll wait outside it,"**;
+    - the afternoon and supper: "Italy's long,"; "Nobody'd give me anything for the black."; "I saw the juniper,"; "It's good,";
+      "He's called me that since our first night."; "He never asked."; "They walk alongside,"; at the fire, "I believe that cave had a
+      light in it with no flame. I was there to see it." / "The rest is yours." / "It'll get you on a boat." / "Then I'll believe it,";
+    - the hut: "The boy,"; "You wear it to bed."; "That's the fork,"; "I was watching the figs."; "Here?"; "Was it the pole?"; "He can
+      have the end that's standing."; "do they marry at the gangway?"; "Here you say it before witnesses, and then everybody eats.
+      Corinth has clerks."
+  - **His disbelief, by act:** "He had heard all of it and put it away as Kallia put away a lodger's tale of a sister who married a
+    magistrate." He believes only the flameless light.
+  - **His hands, a different object each time:** the black's near fore (once, at dawn); the figs, touched "with a fingertip"; the
+    knife, shaving "by feel, with no glass"; the flashlight, held "flat on his palm"; the camera ("the wrong end to his eye first");
+    a thread of thyme; his boot heel in the dust; splitting pine "round the side of the hut" (out of sight, so Felix's flinch goes
+    unwatched); a root of juniper laid on the embers; the Pentax strap, "two-handed", hung "with the lens turned to the wall". **He
+    walks the string's line at dusk "as he did every night"** (one habitual; see the WATCH in the at-risk block).
+  - **In the hut:** the head on the roof poles, "He told the roof something in Latin"; "His palm was under my skull before the floor
+    was"; the skinned knuckles; "His knuckles stayed at my mouth, and he was quite still."; "he held still for me through it, as he
+    could hold still for anything; then the stillness left him, the whole of it at once"; "His jaw had roughened again since noon";
+    "his cheek on my shoulder"; "His arm went heavy."
+  - **Rules kept:** no comparison in his speech; "Why?" only of a plan, never of a feeling; one general-truth saying ("Here you say it
+    before witnesses, and then everybody eats."); bare "No." 0; narrated non-answers 0; **"Then…" speech openers 1** ("Then I'll
+    believe it,"); "So…" openers 2 ("So the legions went home.", "So's the brother."). **A fronted object in speech is Mnason's, not
+    his** (his "Neapolis" line was recast to "I've heard of Neapolis.").
+  - **Spent in Ch.15:** "Then I'll [verb] it" (1 used; the other became "I'll wait outside it,"); **the black's near fore is rested as
+    his business** (Ch.11 paring, Ch.15 lift); "the box you look through" (his name for the camera, once); "Felix's silver" and "The
+    heavy one" (once each); "You'd no salt on you."; "So the legions went home."; "He asks it before he asks the fare"; "When it's used
+    up?"; "He never asked."; shaving by feel; the half-shaved face turned on her ("Half his face was shaved and half was not, and he
+    turned the whole of it on me.").
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -1088,6 +1162,15 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   lane." (she heard the cave errand from the lean-to in Ch.13; never said). Never sits; never touches Mara; no broom, no wool, no stopped
   work; chore-replies 0. **Kallia hands Mara a thing: 2 in Ch.14** (the bread, the lamp): WATCH, ≤1 in Ch.15–16. **Spent in Ch.14:** the
   salt-water nursing at the drain; the blanket dropped over a sleeper's feet; doing Mara's chores unasked.
+- **Ch.15 (backfill only, Writer, 2026-10-20. SYNCED 2026-10-20: FINAL page, polish cycle 1 + the CH15-1 spring line + Z1–Z6; quotes
+  checked by script):** at the lion spouts, to the bandaged Corinthian and the lane, "from under a brimming jar, with half the lane
+  listening": "Gone," … "Gone to Kirrha at the turn of the month and onto a boat for home, the god go with her. She ate more than she
+  carried, that one, and broke two of my jars." **This is a cover told to the lane:** the jars are not a fact (ENTITY CH15-9), and she
+  will tell Euthydikos's man the same ("Kallia will tell him you sailed."). That night she packs the bag in the storeroom, "folding each
+  thing smaller than I would have folded it", and has one line, on the labor axis: "On the mountain you'll milk for your bread, or carry
+  for it,". **Kallia hands Mara an object: 0 in Ch.15** (she packs the bag; nothing is put in Mara's hand), so the WATCH (≤1 in Ch.15–16)
+  still has its one use for Ch.16. Mara's picture of her at the pot telling the bean-sheller "the Syracusan had sailed" is imagined, not
+  a scene. **The Ch.16 farewell must be covert** (Delphi believes Mara sailed; continuity W-12).
 
 #### THEANO — the Pythia; a farmer's widow off duty (glimpsed Ch.8 unnamed, shouting at crows; Ch.13)
 - **Attention / worldview:** her own body (her knees, the descent into the adyton), the priests' petty
@@ -1296,6 +1379,27 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   string at the yard. His Ch.13 "If it's Italy, can I come?" is answered in Mara's plan only: "Felix had asked that afternoon whether he
   could come, if it was Italy. It was Italy. The plan had no boy in it, and I kept it so." (her intention; ARCH-9 untouched; no narrator
   reach.)
+
+- **Ch.15 as written (Writer, 2026-10-20. SYNCED 2026-10-20: FINAL page, polish cycle 1 + the CH15-1 spring line + Z1–Z6; every quote
+  below is on the page, checked by script):** sleeps out "every night from choice" by the woodstack. **Lines:** the green figs, "When
+  are they ripe?" / "What's in them now? If I had one now, what would it do to me?" / "Does it? Did it yours? Would it take a mule's?";
+  to the black, "Pick that foot up for me and they'd race you at the Isthmus,"; told of Corinth and the ship, "Ship where? Italy? Is it
+  Italy after all?" / "Capua's in Italy."; the Corinth speech ("The real one? On the neck, with a sea each side?"; the ships dragged
+  across "on rollers, with the masts still in them"; "Who'll have the string while we're there?"; then a stretch too fast for Mara's
+  Greek, "some business of a boatman's cousin and a wager"); "An arena, at Corinth, a proper one, in stone?"; "Once or twice! I'd have
+  seen every one."; "Not the black."; to Mara, "You'll know it, then. You'd have passed through it, from Syracuse." / "There isn't another
+  way."; the boys' race at the Isthmus ("A whole race of nothing but boys."; the dun beaten "three times since the full moon" / "She was
+  carrying,"); the juniper fight with Mnason's drainer for a shield, "Felix! Felix of Kirrha!" (a ring name he gives himself; ENTITY
+  CH15-3); "It slipped," / "The ground."; "It's nothing,"; at the water skin, "Would you cry, if it was me?" / "Only a little," … "Not in
+  front of everybody."; "Did you see? … I had it on its back foot."; at supper "Six! Was he sick? Did his lips come off?" / "Do you know
+  Corinth?" … "When were you there last?"; "Fighters eat on their feet," … "so nobody catches them sitting."; "I'm not tired," and the rollers
+  questions as he falls asleep. **Facts:** he has NOT seen the flashlight on the page; he told Valens the camera was her father's ("The
+  boy says it was your father's.", undated; ENTITY CH15-10); both shins skinned; **he flinches only when unwatched** ("Where he could see
+  me looking he never flinched. When he took me to be looking elsewhere, he did, each time."). He knows Corinth, the winter and the ship
+  to Italy; nothing of the arena past, Lupus, the truth or Pompeii. Sentence-initial "Is" 1 ("Is it Italy after all?"), "Was" 1 ("Was
+  he sick?"). **SPENT:** the juniper fight and the drainer shield; the bitten green fig and the swollen
+  lips ("his lips had swollen fat and shining in the ember light" / "with one bite taken out of it", the chapter's close);
+  "Fighters eat on their feet"; the boys' race told as hearsay (the Corinthian boy and his father who cried).
 
 #### PLAUTIA — Celer's divorced wife; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
@@ -2139,20 +2243,31 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   vendor on the page; the Trenton line).
 
 #### Ch.15 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
-*(Writer, 2026-10-20; the Writer's page, before dialogue-polish / disruptor / continuity; re-sync after the chain.)*
-- **The bandaged Corinthian at the spring** (backfill only, the month after the consultation): "with a rag tied round his head under his
-  hat and a Corinthian's way with his vowels", asking "which house kept the tall foreigner with something heavy and bright inside her
-  clothes" (the page does not say he is the man Mara hit; the reader may). No line of his own on the page.
-- **Mnason's dog**: barks once near the fold "and was cursed for it". Texture only.
+*(Writer, 2026-10-20. SYNCED 2026-10-20: FINAL page, polish cycle 1 + the CH15-1 spring line + Z1–Z6; quotes checked by script.)*
+- **The bandaged Corinthian at the spring** (backfill only, the month after the consultation): sat "most of a morning on the step at the
+  lion spouts", "with a rag tied round his head under his hat and a Corinthian's way with his vowels". **One line, in direct speech:**
+  "Which house keeps the tall foreigner, the one with something heavy and bright inside her clothes?" The page does not say he is the
+  man Mara hit; the reader may. The sender is still inferred (ENTITY CH12-5).
+- **Mnason's dog**: barks once near the fold, and Mnason answers out of the dark: "I'll have your hide for a pail," … "and it did not
+  bark again." Texture only.
+- **Kallia's neighbors at the spring** (backfill): they argue over their legs "over the jars". A grandmother: "Hot pitch, and off it
+  comes in one pull," … "and you're smooth for the whole summer"; "another held out for a lamp flame". (The phrase the bible reserves
+  for voice-bank sample-03 is not used.)
 - **Mnason's son and the son's wife** (mention only): the son keeps a house "at the foot of the gorge"; the wife "can count every
   mouthful into me" and "is from Amphissa" (the chapter's one in-law joke). **Mnason's brother** (mention only): "ate six once, at the
-  vintage, for a bet" and "won the bet". **Mnason's mother** (mention only): turned her milk with fig.
-- **Mention only:** "One of the boatmen" (Felix's source for the ship-road across the Isthmus); "A shipmaster off the grain run" (Valens's
-  source for the self-opening temple door at Alexandria, Hero unnamed); the teacher in Judaea and "a monk" who "did the arithmetic"
-  (Dionysius Exiguus, unnamed); Titus ("Titus has just burned it"); "a man in a paper hat" at the Italian Market on Ninth Street (memory,
-  one clause: ricotta on the back of a knife); the pink rabbit in sunglasses on the battery packet (1990s object, one clause);
-  "the Corinthian boy" who won the boys' race (Felix's hearsay) and his father who cried; Euthydikos's bean-sheller (imagined at the lane
-  gate in winter); Kallia (backfill: her answer at the spring, "Gone," and the bag packed in the storeroom).
+  vintage, for a bet" / "He won the bet,". **Mnason's mother** (mention only): turned her milk with fig.
+- **The man at the Italian Market** (1998 memory, one clause, triggered by the cheese and returned to it): "a man in a paper hat had
+  once passed me a knot of mozzarella across his counter on the back of a knife, still warm, and it had squeaked the same". The
+  Italian Market as a memory source: once.
+- **Mention only:** "One of the boatmen" (Felix's source for the ships "on rollers") and "some business of a boatman's cousin and a
+  wager" (Felix, too fast for Mara's Greek); "A shipmaster off the grain run" (Valens's source for the self-opening temple door at
+  Alexandria; Hero unnamed); "a teacher in Judaea", "The governor there" and "a monk" who "did the arithmetic" (Dionysius Exiguus
+  unnamed); Titus ("Titus has just burned it."); "a few kings left, who cut ribbons on bridges"; the "Men in hats" who lead the canyon
+  mules; Mara's landlord and "somebody at my work" (1998); the pink rabbit in sunglasses on the battery packet; "the Corinthian boy"
+  who won the boys' race and his father who "cried in front of everybody" (Felix's hearsay, "A man said"); Celer and "Celer's men";
+  the brother at Corinth (his porter, his dog, "his cook"; his sister, unnamed on this page); the freedman ("The freedman told me which
+  house."); Euthydikos and his bean-sheller (imagined at the lane gate some winter morning); Theano (named in Valens's question);
+  Kallia (backfill; see her card).
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -2587,10 +2702,24 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
 - **Vocabulary band:** plain mountain Phocian; farm nouns (fig, kid, pail, gap, shearing, gorge). No town words.
 - **Syntax fingerprint:** a complaint that runs on and lands on a grievance ("and you'll know whose doing that was"); a fronted object
   when he is moved ("Fig, she turned it with, every day she lived"); short orders over the gap ("Talk to her," / "Not her.").
+  **Rule (Ch.15 eval C4): a fronted object in speech belongs to Mnason alone.** No other speaker fronts an object (Valens's
+  "Neapolis" line was recast to "I've heard of Neapolis."), and Mnason uses it only when moved, about his mother: one per appearance
+  at most. Narrated fronted objects are a separate count, CLOSED at 2 (see the at-risk block after Ch.15).
 - **Rhythm:** talks to the pot, the ewes and Mara in the same voice except when it is about his mother.
 - **Evasion — never says:** anything that asks who Mara and Valens are. He assumes ("your man") and tells, never asks.
-- **Physicality / silence:** a goatskin cap with the ears still on it; sits at the fold's gap on a slab of rock; "sixty if he was a day".
-  (The knife wiped on the thigh is used ONCE on the Ch.15 page, at the pot; do not repeat it as his business.)
+- **Physicality / silence:** a goatskin cap with the ears still on it; sits at the fold's gap on a slab of rock and milks each ewe
+  from behind. His age is Mara's estimate, spoken to Valens, not a narrated fact: "He is sixty if he is a day," … "and I have seen him
+  walk into his own fold in the dark, looking for the gap." (The knife wiped on the thigh is used ONCE on the Ch.15 page, at the pot;
+  do not repeat it as his business. The cap over his face for the noon sleep is once too.)
+- **His huts and his bed (property facts, Ch.15):** he lives in **his own hut** by the fold, with the great pot outside it ("the
+  great pot outside his own hut"; the kid's stomach is kept in there). The **second hut**, lent to Valens for the grazing, is his
+  too, and so is everything in it: "Mnason's rush baskets hung in a row from pegs, and the smell of whey was in the stones."; **he
+  made the bed** ("At the back he had made a bed by driving four forked stakes into the earth floor and laying poles across the
+  forks, with cut bracken heaped on the poles and three fleeces on the bracken"); Mara slept in it all summer ("all summer it had held
+  me, and I had never looked underneath it"). The hut is "dry stone shoulder-high, roofed with fir poles under brush and turves".
+  The woodstack is his as well ("our woodstack, which in fairness was his"). **The bed is broken in Ch.15** (the fork at the head
+  "split along its grain"; left "as it had fallen") and he has not seen it yet: "The herdsman will want his bed." / "He can have the
+  end that's standing." Any later Mnason scene (none is planned) meets a broken bed, not a mended one.
 - **Verbal tic:** none — distinguished by worldview (ewes, cheese, his mother's way) and syntax (the complaint that lands on a grievance)
 - **Bleed guard:** must not notice materials or joins (Mara's axis) or read ground and exits (Valens's). No "Then…" retorts (Kallia's,
   capped). No proverb.
@@ -2598,15 +2727,33 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   uses the kid's stomach he had all along, and grieves over the taste; the grudge ewe; the son's wife from Amphissa.
 - **DISTINCTNESS GUARANTEE:** the only voice that measures everything against a dead mother's kitchen, against Kallia, who measures it in
   labor, and Theano, who measures it in her own knees.
-- **Ch.15 as written (Writer, 2026-10-20; the Writer's page):** lines: "Talk to her," … "Talk, and she lets down. Sing, if there's nothing in
-  your head. It makes no odds what." / "Not her." … "She kicked me at the shearing. You have her." / "That boy of yours sleeps like the dead,"
-  … "Nobody listens to me up here but ewes." / "Wants turning." / "A twig," … "My mother turned her milk with fig, and hers did." / "There's
-  no fig nearer than the gorge…" / "One twig." … "You'd not miss it." / "My mother never did it so. Fig, she turned it with, every day she
-  lived, and it set as sweet as a girl. This'll taste of kid…" / "When you've beaten that," … "you can fight my cheese." / "Tastes of kid,"
-  … "You can taste it." / "Green fig'll strip your lips," … "My brother ate six once, at the vintage, for a bet." / "He won the bet," / "Once.
-  It was full of Corinthians." / "To my son's, at the foot of the gorge…" … "My son's wife is from Amphissa." / "Your man's shaved," (and,
-  per Valens, "He's called me that since our first night."). Valens's mind-reading (chaos) is aimed at him: "He'll be over those stones some
-  night." Spent: the fig-twig standoff; "Your man's shaved,"; the cheese "Tastes of kid"; the brother's six figs; "full of Corinthians".
+- **Ch.15 as written (Writer, 2026-10-20. SYNCED 2026-10-20: FINAL page, polish cycle 1 + the CH15-1 spring line + Z1–Z6; every quote
+  below is on the page, checked by script):**
+  - **Lines (each once):**
+    - at the fold: "Talk to her," … "Talk, and she lets down. Sing, if there's nothing in your head. It makes no odds what, so it isn't
+      sad. Sad, she holds it back." / "Not her." … "She kicked me at the shearing. You have her.";
+    - at the pot: "That boy of yours sleeps through anything," … "A wolf could walk off with him, and your man would be up at those
+      mules with his back to it. I've said so. Nobody listens to me up here but ewes." / "Wants turning.";
+    - the fig twig: "A twig," … "Off the end, there, where it'll grow again. My mother turned her milk with fig, and hers did." /
+      "There's no fig nearer than the gorge, and that's half a morning down and the whole of one back up." / "One twig." … "You'd not
+      miss it."; then the rennet, in "a voice I had not heard him use to the ewes": "My mother never did it so. Fig, she turned it
+      with, every day she lived, and it set as sweet as a girl. This'll taste of kid. You'll put it in your mouth and taste the kid in
+      it, and you'll know whose doing that was.";
+    - the juniper fight: "When you've beaten that," … "you can fight my cheese." / "That was a good drainer till you had it,";
+    - supper: "Kid," he said, chewing. "Right through it." / "Green fig'll strip your lips," … "My brother ate six once, at the
+      vintage, for a bet." / "He won the bet," / "Once. It was full of Corinthians." / "To my son's, at the foot of the gorge, where his
+      wife can count every mouthful into me. Six months of her, and then the snow goes and I come up here to the ewes, who don't count."
+      / "My son's wife is from Amphissa." / "Your man's shaved," (Valens: "He's called me that since our first night.");
+    - the dog, out of the dark: "I'll have your hide for a pail,".
+  - **Acts:** fetches the dried kid's stomach "on a string" (he had rennet all along); measures the twig "a finger's length, with his
+    thumbnail"; brings the cheese over at sundown "in its rush basket, with the whey still weeping out of the weave onto his wrist";
+    cuts it into four "with the knife he had meant for the fig"; "The cheese was good and Mnason said it was not and ate most of it."
+    (the chapter's ugly sentence); "He licked his thumb."; leaves "to his ewes on that, and the answering was left to Valens."
+  - **Valens's mind-reading (chaos) is aimed at him:** "He'll be over those stones some night." Mara answers it with his age and the
+    gap (see Physicality). He knows nothing of the truth, the door or Pompeii, and never asks.
+  - **Spent:** the fig-twig standoff; the rennet speech ("Fig, she turned it with" is the chapter's one spoken fronted object);
+    "Your man's shaved,"; "Kid," … "Right through it."; the brother's six figs; "full of Corinthians"; "That was a good drainer till
+    you had it,"; "I'll have your hide for a pail,"; "sleeps through anything"; the ewes "who don't count".
 - **Sample line:** "That one's never stood still for a stranger, and she won't start for you." (Calibration only.)
 
 ## UNNAMED SPEAKING ROLES PLANNED IN THE OUTLINE
@@ -3584,47 +3731,131 @@ line each, so that walk-ons don't all sound like Mara.
     touched). The full line, Ch.10 l.68: "I knew it the way I knew the Armada, as a date on a page with a fire in it." It no longer collides
     with Ch.14's opener "I knew the year."
 
-- **At-risk after Ch.15 (Writer, 2026-10-20; "Summer Pasture", Chronological day-in-full, 3 breaks; the Writer's page before the chain;
-  re-sync after dialogue-polish, disruptor, continuity and the evaluator):**
-  - **The cave, CH13-7, in fresh words (now SPENT as a set):** the melt "in a broken, glittering sheet" off the lip; the flashlight's beam
-    "yellower than it had been in May … with a brown edge where the batteries had begun to tire"; the crack's back wall "a yard beyond" the
-    bend; "a crust of something pale and soft-looking, like old bread"; the clot of daddy longlegs "all threads and joints" coming apart "one
-    leg at a time"; "the mountain going on into itself as far as the mountain went"; "Was it ever further?" / "Once."; Valens watching what
-    the beam lay on and leaving "the thing in my hand" to her. **What the crack did: it showed its back wall. It stays shut; no later
-    chapter reopens the Corycian question.**
-  - **The flashlight: SEEN by Valens (cave, then noon) and shown working;** batteries tiring. The cupped palm lit red along the fingers'
-    edges "with the dark of the bones down their middles" is SPENT. "Then don't burn it" is his. Felix has NOT seen it on the page.
-  - **The truth told (knowledge flow):** Valens now knows: nineteen hundred and twenty-seven years ahead, counted from "a teacher in
-    Judaea"; Philadelphia "Further than Asia"; the cave was a door for one afternoon; the camera "keeps what it shows"; the door home is in
-    Pompeii, a tomb with "a door that is only a picture of a door"; she means to go "in by it". He does NOT know what happens to Pompeii.
-    He disbelieves ("I believe that cave had a light in it with no flame. I was there to see it." / "The rest is yours." / "Then I'll believe
-    it," if he sees it open). Felix and Mnason know none of it.
-  - **"Do they still have mules?": SPENT (1 of 1).** Never called back, never paraphrased as a question about any other animal or trade.
-    His follow-ups are spent with it: "Who leads them?" / "Men in hats."; the emperor, the legions, the roads, the god's house fallen, the
-    fenced spring, the salt sea "Dirtier, and with fewer fish in it", "Who's looking for you, there?" / "That's true, then."
-  - **The count told badly (the monk's arithmetic, "I know May"):** once. **Half-shaved face turned on her:** once. **Shaving by feel:** once.
-  - **The bargain (CH14-4 resolved on the page):** Corinth "in the autumn" before the rains; the brother's house (porter, dog); Valens to
-    stand in the brother's court for Plautia; the archive; "Half Corinth sat on those benches. They've not all died."; winter there; sail in
-    spring "As man and wife"; "No shipmaster takes on a woman alone. He'll take a wife."; "At the gangway."; "My wife. The porter will ask…";
-    the bowl let go ("Delphi's put you on a boat. Leave yourself on it." / "The priest's bowl could keep its lead"); Felix in ("He comes.");
-    "Then I'll wait outside it," Ch.16 refers to the bargain in action, never restates it.
-  - **Mara's body rebel, new channel: hiccups** (three, through the bargain, the last landing on "wife"). SPENT as a channel.
-  - **The leg-hair seep beat** (the pink razor, pitch or nothing): once.
-  - **Heat 1, SPENT staging:** the head knock on the roof poles and "It's lower than me"; the chiton caught over her arms and the elbow in
-    his eye ("That was my eye."); the Pentax worn to bed ("I wear it to everything."), lifted off and hung lens to the wall; the belt thrown
-    in the corner "so that his hands would find no work in it"; the fork splitting and the head of the bed dropping; his palm under her
-    skull and the floor taking his knuckles; the shared helpless laugh ("That's the fork," / "I was watching the figs."); his teeth "like a
-    row of new tiles" (Ch.15's glancing teeth surfacing, DONE); the grit picked from his knuckles with her teeth as the laugh's end; "Here?"
-    / "Here."; hands not careful, then careful; "as a man learns a road he means to take again at night" (the scene's one comparison);
-    the one contraception thought; "the care went with it"; the bed left as it fell. Ch.23 and Ch.34 find other orders, other bodies,
-    other senses (no collapsing furniture, no teeth, no knuckles, no road comparison).
-  - **The close (SPENT):** Felix asleep with swollen lips and a green fig with one bite gone. The fig dare ("Eat one and find out.") is paid.
-  - **Counts (Writer's page):** 7,914 words (shape_check), dialogue 30.3%, median 16, 3 breaks, `long-spiral` → `quiet`; em-dashes 0;
-    and-chains 7 (cap 9); "as if / as though" 1; negation pivots 0; hinge openers 0; "So" openers 0; "before I had" 0; bare "No." 0
-    (Valens 0); kneel / crouch 0; hand-on-knee 0; bend 0; deliberation pause 0 by gate; exit by gait 0; nod 1 (the fig "nodding at each
-    step"); command echo 0; echoes 0; laughs: Mara with Valens (one shared fit, new shape) plus "I laughed, not much" at the roof;
-    memories: two clauses (the Italian Market ricotta, the pink razor), no stand-alone memory; AD 79 as present thought: once ("eight
-    years on from this summer, and a few weeks over"); English 0; teeth 1 (Valens's).
+- **At-risk after Ch.15 (Writer, 2026-10-20; "Summer Pasture", Chronological day-in-full, 3 breaks. SYNCED 2026-10-20: FINAL page, polish
+  cycle 1 + the CH15-1 spring line + Z1–Z6: **7,479 words** (shape_check), dialogue 34.5% (shape 35), median 16, `long-spiral` →
+  `quiet`; from `evaluations/chapter-15-eval.md` "Re-evaluation after cycle 1" A–I, the bible notes of `evaluations/dialogue-chapter-15.md`,
+  `evaluations/disruption-chapter-15.md`, `evaluations/hook-chapter-15.md` and `evaluations/continuity/chapter-15-audit.md`; every quote
+  below is on the final page, checked by script):**
+  - **The cave, CH13-7, in fresh words (SPENT as a set):** the climb "on the morning that followed", "with two mules and a bundle of
+    split pine" ("Keep to the inside at the third turn," / "It's ice under the wet there." / "The snow's rotten in the hollows. Walk
+    where it's gray."); the melt "in a broken, glittering sheet"; "The snow at the mouth threw the daylight in behind us." (a fresh entry
+    order: Ch.3's sequence into the crack and its black beyond the bend are not used); the beam "yellower than it had been in May, and
+    narrower, with a brown edge where the batteries had begun to tire"; the back wall "a yard beyond" the bend; "a crust of something
+    pale and soft-looking, like old bread"; the daddy longlegs, "all threads and joints", coming apart "one leg at a time"; "the
+    mountain going on into itself as far as the mountain went"; "Did it ever go on?" / "Once."; "he arrived at my shoulder and watched
+    what the beam was lying on" … "and he left the light to me."; she came out "in the autumn" (no month named). **What the crack did:
+    it showed its back wall. It stays shut; no later chapter reopens the Corycian question.** **A revisited place: its sequence and
+    geometry are spent, not only its words.** Next at risk: Ch.19's tomb road and Ch.41–42's tomb.
+  - **The flashlight:** SEEN by Valens (cave, then noon) and shown working; Felix has NOT seen it on the page. "it weighed about as much
+    as a hen's egg" and "The flashlight lay on top of everything in my bag in the hut, where it had ridden since spring." once each.
+    The cupped palm "with the dark of the bones down their middles" is SPENT. "Don't burn it, then," is his. "It's not warm," / "It
+    never is." **Valens's first verdict on a 1998 object as a short clause** (Ch.6 "Something's going
+    in it", Ch.15 "It's not warm,"; with voice-bank sample-08 that makes three): WATCH, a fourth is a pattern (continuity I-26).
+  - **The truth told (knowledge flow):** Valens now knows "the year I left was nineteen hundred and ninety-eight", "nineteen hundred
+    years, and twenty-seven more. Twenty-six, and some months.", counted "From a teacher in Judaea"; Philadelphia "Further than Asia";
+    the cave "had a door in it. For one afternoon."; the camera "keeps what it shows"; the town, "Pompeii", "In Campania. On the bay
+    below Neapolis, below a mountain they grow wine on. A day from Puteoli by the coast road, or less." and on his dust map "Short of
+    that. There."; its life ("They elect their magistrates every year and paint the candidates' names on the house walls"); "tombs along
+    the roads out of every gate, and out among the tombs, somewhere, the door I want"; how she would know it ("If it is open, by the
+    cold, as I knew it at the crack. If it is shut I shall not know it from any other wall."); his own summary ("The god gave you a
+    mountain and a tomb."; "With the light, and the box you look through."; "How will you know the door, among all those tombs?"); she
+    will "go in by it". The Writer's description of the door as a picture is not on the page. **He does NOT know what happens to
+    Pompeii** (AD 79 is a withheld present thought). He disbelieves all but the light (VALENS Ch.15). Felix, Kallia and Mnason know
+    none of it. **Ch.19's "a fine mountain for vines"** (at-risk 1) must not read as Valens quoting back "a mountain they grow wine on"
+    or the god's verse (continuity I-34).
+  - **"Do they still have mules?": 1 of 1, SPENT.** Never called back, quoted or paraphrased, and never re-run as a question about any
+    other animal or trade. Its follow-ups are spent with it: "Who leads them?" / "Men in hats."; "Who's emperor?"; "So the legions went
+    home."; the roads; "Where's the god gone?"; **the spring: "The spring?" / "It is dry. There is a fence round it now."** (agrees with
+    Ch.5 l.43, "a dry niche behind a wire fence"; ENTITY CH15-1 resolved on the page); "Is the sea still salt?" / "Dirtier, and with
+    fewer fish in it."; "Who's looking for you, there?" / "That's true, then."
+  - **The count told badly** (the monk's arithmetic; "I know May."): once. **The half-shaved face turned on her:** once. **Shaving by
+    feel:** once.
+  - **The bargain (CH14-4 resolved on the page):** "My paper," … "is in Corinth. The book with my name in it."; the brother's house ("a
+    porter on the door and a dog in the porch"); Valens to stand in the brother's court for his sister; the archive; "Half Corinth sat
+    on those benches. They've not all died."; "In that court I'll have the brother's men on the benches round me," / "Celer's men chose
+    a road for it."; Corinth "in the autumn", "Before the rains."; winter there; "The sea opens in the spring, and we sail. As man and
+    wife."; "That's for the shipmaster, at the gangway." / "Is that all it is? Something to say to the shipmaster?" / "He asks it
+    before he asks the fare,"; "My wife. The porter will ask, and the brother, and his cook, and that's what they'll all be told."; the
+    bowl let go ("Delphi thinks you're on a boat. Let it." / "The priest's bowl could keep its lead; it had kept it this far."); "There's
+    the silver from the ford."; "mules hardened on a mountain"; the bean-sheller at the lane gate; Felix in ("He comes."); "Because there
+    I know where everything is kept." / "I'll wait outside it,". Ch.16 refers to the bargain in action and never restates it.
+  - **Mara's body rebel, new channel: the hiccups** (three through the bargain; the last lands "exactly on the last word of it", with no
+    gloss). The section closes "My hiccups were gone." (once). SPENT as a channel.
+  - **The leg-hair seep beat** (the pink razor, the grandmother's pitch, "pitch or nothing", the wash in snowmelt): once.
+  - **Heat 1, SPENT staging.** Ch.23 and Ch.34 find other orders, other bodies, other senses: no collapsing furniture, no eye injury,
+    no pole-and-fork, no belt-as-work, no teeth, no knuckles, no road comparison.
+    - The roof: the head on the poles, "He told the roof something in Latin", "picking a needle out of his eye", "I laughed, not much",
+      "Mind the roof," I said, too late. (The Writer's line about the hut fitting its maker was cut and is not on the page.)
+    - The chiton caught over her arms and the elbow in his eye ("That was my eye."). **His eye hurt twice** (the needle, the elbow):
+      SPENT.
+    - The Pentax "on its strap, between my breasts", hung "as it had hung all evening" ("You wear it to bed." / "I wear it to
+      everything."); drawn off "two-handed" and hung "with the lens turned to the wall"; "he put his thumb on it" (the raw place).
+    - The belt: "laid it away in the corner, so that his hands would find no work in it".
+    - The fork splitting "along its grain with a dry crack"; "His palm was under my skull before the floor was, and the floor took the
+      back of his hand instead"; the shared helpless laugh ("That's the fork," / "You have had the whole summer to look at that fork."
+      / "I was watching the figs.").
+    - The teeth: "His teeth showed by the doorway's glow, square and even. I had flossed every night of my adult life and still paid
+      to be scolded twice a year, and I lay in the wreck of the herdsman's bed and held them against him." (Ch.15's glancing teeth
+      surfacing, DONE; see the MARA chaos line.)
+    - The bracken and grit picked from his knuckles with her teeth; "somewhere in that his laughing ran out"; "His knuckles stayed at
+      my mouth, and he was quite still."; "Here?" / "Here."
+    - Hands "not careful", then careful, "which was worse, and better"; "on my back and in my hair".
+    - "as a man learned a road he meant to take again at night, feeling where it led and where it gave" (the scene's one comparison,
+      in the past tense).
+    - "His jaw had roughened again since noon"; the one contraception thought; "he had not yet trusted the poles with his weight";
+      "the catch that came into his breath each time the pole rocked, and came into mine"; "I came with my heel hooked behind his knee";
+      "then the stillness left him, the whole of it at once, and the care went with it"; "It was slow, and stayed slow"; "all his weight
+      came down onto me and stayed"; "his cheek on my shoulder"; "His arm went heavy."; the bed left "as it had fallen".
+  - **The summit across one day** (dawn, "The summit took the sun first and held it, gold"; sundown, "until only the summit at our backs
+    still had light on it"; night, "the summit stood black against them with no light on it anywhere"): SPENT as a day frame.
+  - **The close (SPENT in these words):** Felix asleep, "his lips had swollen fat and shining in the ember light", and in his open hand a
+    green fig "with one bite taken out of it". The fig dare ("Eat one and find out.") is paid.
+  - **AUTHOR-END-1 cascade (the approved ending; STATE.yaml resolved_author_decisions, 2026-10-20). Ch.41–43 must NOT quote Ch.15
+    back.** Ch.41's tomb night, Ch.42's door that works only for her, and Ch.43's tape, film and notebook sent through while she stays
+    are situations rendered in fresh words. Several Ch.15 lines sit under them as reader-only irony, and that irony holds only while no
+    page points at it. None of the following may be quoted, near-quoted, or echoed as a paraphrase in Ch.41–43 (or anywhere after
+    Ch.15), by the narrator or by any speaker, and no narration may recall that he said them:
+    - "I'll wait outside it,";
+    - the camera that "keeps what it shows" / "Inside it, in the dark, on a strip as long as you are tall. Not a soul in this world can
+      bring it out.";
+    - "Suppose you see it open? The door." / "Then I'll believe it,";
+    - and, by the same rule, the door lines of this noon: "How will you know the door, among all those tombs?"; "If it is open, by the
+      cold, as I knew it at the crack."; "When I find the door," … "I shall go in by it."; "Because there I know where everything is
+      kept."
+  - **New spent / at-risk entries from this cycle:**
+    - **"I'll wait outside it": 1 of 1, SPENT,** like the mule line: never called back, quoted or paraphrased (see AUTHOR-END-1 above).
+    - **Narrated fronted objects: 2, CLOSED, zero tolerance** (the third was cut, P1). **Spoken fronted objects belong to Mnason alone**
+      (MNASON card).
+    - **"had gone (quiet|still)": CLOSED** (the third was cut, H2).
+    - **"in my hair" for Valens's head or mouth: SPENT** (Ch.12's forehead plus Ch.15's "on my back and in my hair", once). Ch.23 and
+      Ch.34 find another place.
+    - **"and stayed": 2 in Ch.15, CLOSED for the book.**
+    - **Narration "somewhere": cap 2 per chapter** (Ch.15: 2). **Narration "so that": WATCH > 4** (Ch.15: 3).
+    - **WATCH: the habitual "as he [did / had done / was his habit] every [interval]" clause, ≤2 per chapter.** Ch.15 has 2 after Z3:
+      "as was his habit every few days at midday" (the shave) and "as he did every night" (the line at dusk). It is the day-in-full's
+      natural reflex, and it formed three in one chapter; the third was cut. "since our first" is Valens's alone now ("since our first
+      night").
+    - "the box you look through": 1 (Valens's name for the camera). "Felix's silver" / "The heavy one": 1 each.
+    - "paid to be scolded twice a year": 1. **The Italian Market as a memory source: 1.**
+    - "the pair of us": 1; "woodstack": 7 (one object, one name); "breastbone": 2; narration "at a time": 1 (the cave's "one leg at a
+      time"); "the whole of": 4, WATCH.
+    - **SPENT in these words** (dialogue-polish, disruptor): "You'd no salt on you."; "So the legions went home."; "When it's used
+      up?"; "You never told him otherwise," / "He never asked."; the snowplow told to a ewe; "Fighters eat on their feet"; "the catch
+      that came into his breath"; "trusted the poles with his weight"; "where it lived" (the camera at the neck of her chiton); "the
+      answering was left to Valens"; "until they bled clean"; "I had never looked underneath it".
+    - **Speech openers:** Valens's "Then…" 1 in Ch.15 (cap 2 per speaker). Mara owns the chapter's "And…" rejoinders, 4 ("And she will
+      be in the house," / "And the money?" / "And Felix?" / "And the rest?"): WATCH, ≤4 per chapter with one owner.
+  - **Counts (FINAL page):**
+    - Length and shape: 7,479 words (shape_check), 7,490 (style), 7,807 (`wc -w`); dialogue 34.5% (shape 35); median 16; 3 breaks;
+      `long-spiral` → `quiet`.
+    - Reflex counts: em-dashes 0; and-chains 7 (cap 9); "as if / as though" 1 ("He said it as though that told me the rest"); negation
+      pivots 0; hinge openers 0; "So" openers in narration 0; "before I had" 0; credential asides 0.
+    - Density: narration "somewhere" 2; "so that" 3; paragraph-final negations 8 (1.07/1k); #11 0 firm; simile 0.3/1k; metaphor 1.2
+      fig/1k; anti-AI 8/20 (clean band).
+    - Gestures and speech habits: gesture classes clean (gate); bare "No." 0; narrated non-answers 0; command echo 0; echoes 0;
+      foreshadowing 0.
+    - Other: memories, two clauses (the Italian Market mozzarella, the pink razor), no stand-alone memory; AD 79 once; English 0;
+      teeth 1 (a glancing surfacing: his teeth, her record); laughs 2 (the roof, and the one shared fit).
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
@@ -3635,7 +3866,10 @@ line each, so that walk-ons don't all sound like Mara.
 |---|---|---|
 | "next season, you come with me" | 1 | Emilio's promise; paraphrase elsewhere |
 | "the conservator in me" | 1 | the narrator's self-label; it would become a refrain |
-| "do they still have mules" | 1 | Ch.15; never called back |
+| "do they still have mules" | 1 | Ch.15 (1 of 1, SPENT); never called back, quoted or paraphrased |
+| "I'll wait outside it" | 1 | Ch.15 (1 of 1, SPENT); never called back; AUTHOR-END-1: not quoted back in Ch.41–43 |
+| "keeps what it shows" / "Not a soul in this world can bring it out" | 1 each | Ch.15, the camera; AUTHOR-END-1: Ch.43's film is rendered in fresh words |
+| "Suppose you see it open" / "Then I'll believe it" | 1 each | Ch.15; AUTHOR-END-1: Ch.42's door is rendered in fresh words |
 | "fine mountain for vines" | 1 | Ch.19; never called back |
 | "Jesus H. Christ" | 1 | Ch.25 |
 | "late summer, seventy-nine" | 2 | Ch.25; later references paraphrase the date |
@@ -4128,3 +4362,32 @@ finalizing the chapter. Never add a tic to fix it.
   spring, Mnason's dog and kin, mention-only sources) and an "At-risk after Ch.15 (Writer)" block (the cave in fresh words and what the
   crack did; the flashlight seen; the knowledge flow of the truth; the mule question SPENT; the bargain; hiccups; Heat 1 staging spent).
   Tic-bearer roster still NONE.
+- 2026-10-20 (bookkeeping, Ch.15 re-sync to the FINAL page, polish cycle 1 + the CH15-1 spring line + Z1–Z6; from
+  `evaluations/chapter-15-eval.md` "Re-evaluation after cycle 1" groups A–I, and the bible notes of `evaluations/dialogue-chapter-15.md`,
+  `evaluations/disruption-chapter-15.md`, `evaluations/hook-chapter-15.md` and `evaluations/continuity/chapter-15-audit.md`, I-12/I-24 to
+  I-28/I-34/I-35/I-40). **MNASON:** the Writer's-page Ch.15 block is rewritten to the final page (the fold rule now ends "Sad, she holds
+  it back."; "sleeps through anything"; "Kid," … "Right through it."; the drainer and the dog lines; the "Six months of her" speech); his
+  age is now Mara's spoken estimate ("He is sixty if he is a day,"), not a narrated fact; a new **property** entry (his own hut and pot;
+  the second hut, its rush baskets, the forked-stake bed he made, the woodstack; the bed broken in Ch.15 and not yet seen by him); a new
+  syntax **rule: a fronted object in speech belongs to Mnason alone** (Valens's recast to "I've heard of Neapolis."). **MARA:** the teeth
+  line records Ch.15 as DONE, glancing, with the floss fact (every night sits inside foundation's twice a day; the floss last appears in
+  Ch.5 and the lentisk stick from Ch.7, so no later page shows 1998 floss in use without accounting for it; the eval's "unmentioned since
+  Ch.2" corrected to Ch.5 l.315), and a new **Ch.15 block**. New **Ch.15 blocks** for **VALENS** (lines by scene, hands each a
+  different object, rules kept, spent), **KALLIA** (backfill: the cover told to the lane, the bag, one labor line; hands Mara an object
+  0, so the WATCH keeps its one use for Ch.16) and **FELIX** (lines, facts, the unwatched flinch, spent). The **Ch.15 walk-on block** is
+  rewritten (the Corinthian has one direct-speech line; the dog's curse is Mnason's quoted line; the spring grandmother added; the
+  Italian Market memory is mozzarella, not ricotta; mention-only list extended). **At-risk after Ch.15** is rewritten to the final page:
+  every Writer's-page string the passes changed or cut is gone from it (the cave question, the flashlight retort, the roof line, the
+  shipmaster lines, the door as a picture, the present-tense road, the tile teeth, the thrown belt, the afternoon Pentax), with final
+  counts, the spring line ("The spring?" / "It is dry. There is a fence round it now."), the summit day frame, the close, and the new
+  entries: "I'll wait outside it" 1 of 1 SPENT; "Do they still have mules?" 1 of 1 SPENT, never a callback; the habitual "as he [did]
+  every …" clause WATCH ≤2 per chapter; narrated fronted objects and "had gone (quiet|still)" CLOSED; "in my hair" SPENT; "and stayed"
+  CLOSED; "somewhere"/"so that" caps; the spent strings from dialogue-polish and the disruptor; and the **AUTHOR-END-1 cascade** (no
+  Ch.15 door, camera or waiting line is quoted back in Ch.41–43). The at-risk table gains rows for "I'll wait outside it", the camera
+  lines and the door lines. **voice-dna.md §5** (the three heat scenes table, Ch.15 period material): "the olive-wood rope bed that gives
+  way, sheep-smelling blanket" → "the forked-stake bed of poles, bracken and three fleeces that gives way" (the eval's wording said "fir
+  poles", but the page makes only the roof fir, so "fir" is left out). Every quote in the edited blocks was checked against
+  chapter-15.md by script (the Ch.5 and Ch.6 quotes against those chapters). For the orchestrator, not done here (ENTITY_STATE): CH15-1
+  → RESOLVED; the teeth anchor and trait still quote the cut white-coat wording; `recheck_ch15` still has the old strip length.
+  Not touched: the manuscript, STATE.yaml, ENTITY_STATE.yaml. No new named character; no tic, catchphrase or signature gesture given to
+  anyone. Tic-bearer roster still NONE.
