@@ -555,7 +555,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Opening strategy:** mid-dialogue. Plautia's first blunt question to Mara.
 **Key scenes/beats (alternating):**
 - **Corinth:** Plautia in her brother's house. Exquisite Latin, sudden bluntness. Celer kept her son Marcus (seven this winter). The archive copy of Valens's manumission sits in the provincial record office, newly back under the restored proconsul, on whose staff Celer now serves again.
-- **Delphi, autumn:** Kallia's farewell. **NON-NEGOTIABLE:** Kallia gives Mara the borrowed himation from Ch.7. No speech. A sweep of the threshold and the broom put away. **Film (named frame):** Mara photographs Kallia's lamp on the sill in morning light. Kallia does not know what the camera does and does not ask.
+- **Delphi, autumn:** Kallia's farewell, kept quiet: Delphi has believed since spring that Mara sailed (Ch.15). The string comes down off the mountain for Corinth; Mara goes back to Kallia's door after dark and is gone at first light. **NON-NEGOTIABLE:** Kallia gives Mara the borrowed himation from Ch.7 outright (Mara has worn it all summer and folds it to hand back; Kallia makes it hers). No speech. A sweep of the threshold and the broom put away. **Film (named frame):** Mara photographs Kallia's lamp on the sill in the first morning light, before she goes. Kallia does not know what the camera does and does not ask.
 - **Corinth:** the bracelet. Mara's jealousy (were they lovers?) and the answer she gets from watching, not asking.
 - **Delphi/the gulf:** the crossing from Kirrha to Lechaion, with mules seasick.
 - **NON-NEGOTIABLE (Corinth):** the plan for Isthmia, when the officials will be at the games.
