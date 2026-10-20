@@ -214,3 +214,34 @@ Projected after fixes: Originality 8.5, Theme 8.5, Characters 8.5, Prose 8.5, Pa
 **POLISH.** Genesis Floor 7.5, Average 8.1. Apply F1–F17 (cuts and swaps only, no plot), then re-gate. The book-level `tic_report.py --gate` FAIL ("his right hand", Ch.1/12/16) belongs to the parallel Ch.16 revision, not to Ch.17.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+## Revision applied (2026-10-20, book-editor, r1)
+- **F1–F17 applied as quoted:**
+  - F1: the herb-room line now reads "the herb room Bal had put in for her", which matches Ch.15, where Bal makes the door. The jar-moving habit and "all over her face" are gone.
+  - F2: the pink clause is cut.
+  - F3: the squint is cut.
+  - F4/F13: "On their own bank… went over him… found the knot".
+  - F5: merged into one sentence.
+  - F6: the second sentence is cut.
+  - F7: the watch beat is cut.
+  - F8: the restatement is cut.
+  - F9: the stones reprise is cut.
+  - F10/F11: the hand-hold and "By next week" are cut. The chapter ends on "They did not talk." during the slow walk to the Blood dorm.
+  - F15: "round".
+  - F16: the crunch is cut.
+  - F17: "Her head was in the fight".
+- **Three gate-forced variants.** As quoted, F8, F12 and F14 tripped the book-wide repeat gates:
+  - F8: "over his shoulder" appears in Ch.5, Ch.7 and Ch.17. Now reads "When he turned, Lora and Viridia were nearer…". Turn class: L116, L126, L172, which spans more than 500 words.
+  - F12: "the Dawn Hall" (3x with Ch.13) and "at the top of the square" (repeats Ch.13 L294). Now reads "went straight up the square to the guild hall", so the location is still correct.
+  - F14: "Lora and Viridia had" repeats Ch.13. Now reads "if Viridia and Lora had had to fight it", which still names both, per the source.
+- **Juggling talk is intact:**
+  - The stones fall before he answers.
+  - "I do not feel more strongly for one over the other" is verbatim.
+  - The girls are seen only nearer behind him, then dropping back and talking low.
+- **Re-count:**
+  - No gesture class appears 3+ times in 500 words. The script flags look and hold clusters, but these are non-gesture uses ("looked shorter", "treetops looked", "fish held", "bandages had held").
+  - Em dashes 0, "the way" 0, similes 1 (0.4/1k). Prose is now about 2,480 words.
+- **Gates:**
+  - `style_check.py --dir manuscript`: clean.
+  - `grammar_check.py --dir manuscript`: clean.
+  - Scratch copy of Ch.1–17 (`scratchpad/ed17`): `voice_wear_check.py` clean (strict). `tic_report.py --gate` clean. The "his right hand" repeat no longer fires.
