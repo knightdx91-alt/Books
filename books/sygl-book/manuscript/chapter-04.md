@@ -48,7 +48,7 @@ Her eyes went to his left arm first. Everyone's did, and all his life they had a
 
 Hoping to forestall a lot of questions he wouldn't have any answers to, Bal quickly summarized what had happened.
 
-"I saw the roof of the mausoleum flicker the other day," he said, "and I could see inside, and it isn't a mausoleum, it's a temple. So I enchanted my rug and flew over. And the roof isn't really there, so I went right through it, and she was inside." He tipped his head at Amelia. "This is Amelia. She's where blood sygls come from. Their originator. The rest of them locked her in there. It turns out I was born with her sygl, that's why my hand was taken off, and she gave me some of her blood and it grew back. And then we bonded. She's my familiar now. So she could get out."
+"I saw the roof of the mausoleum flicker the other day," he said, "and I could see inside, and it isn't a mausoleum, it's a temple. So I enchanted my rug and flew over. And the roof isn't really there, so I went right through it, and she was inside." He tipped his head at Amelia. "This is Amelia. She's where blood sygls come from. Their originator. The rest of them locked her in there. It turns out I was born with her sygl. That's why they took my hand off. And she gave me some of her blood and it grew back. And then we bonded, so she could get out. She's my familiar now."
 
 He shut his mouth.
 
@@ -68,19 +68,19 @@ It was a real laugh, sudden and helpless. Bal had heard her laugh before, at Chr
 
 Bal grinned.
 
-"I can honestly say this was not how I pictured my day going." Then the grin slipped a little. He held out his new hand and showed her the palm, and the sygl glowing red in the center of it. "Is this going to be a problem, though? You know how the schools are about blood sygls."
+"I can honestly say this isn't how I pictured my day going." Then the grin slipped a little. He held out his new hand and showed her the palm, and the sygl glowing red in the center of it. "Is this going to be a problem, though? You know how the schools are about blood sygls."
 
 Mrs. Brown studied the sygl. Then she picked up her pen again and tapped it on the desk, thinking.
 
-"I know what you mean," she said slowly, "but they really don't have a choice, do they? I mean, not if she shows up." She pointed the pen at Amelia. "Once they call roll for any blood sygls, you'll stand. Then they'll ask for your originator to acknowledge you. Which is Amelia here." The pen tapped the desk once more. "If she did not, you would not be able to enroll in the school. But she will. So you can."
+"I know what you mean," she said slowly, "but they really don't have a choice, do they? I mean, not if she shows up." She pointed the pen at Amelia. "Once they call roll for any blood sygls, you'll stand. Then they'll ask for your originator to acknowledge you. Which is Amelia here." The pen tapped the desk once more. "If she didn't, you couldn't enroll. But she will. So you can."
 
 She dropped the pen on the desk and leaned toward them, her wooden chair creaking with the motion.
 
-"They are not going to be happy you're there," she warned them, looking from one to the other. "Either of you. The only reason they have not outlawed blood sygls from attending is that they want to be seen as fair." Her mouth went thin. "That's probably why they locked her away, now that I think about it. It made it seem as though she had simply abandoned her followers."
+"They're not going to be happy you're there," she warned them, looking from one to the other. "Either of you. The only reason they haven't outlawed blood sygls from attending is that they want to be seen as fair." Her mouth went thin. "That's probably why they locked her away, now that I think about it. It made it seem as though she'd simply abandoned her followers."
 
 Amelia nodded at that.
 
-"It was that," she said, "and the fact they knew they could not win in a straight-up fight with me."
+"It was that," she said, "and the fact they knew they couldn't win in a straight-up fight with me."
 
 She said it without any heat at all, the same as she might have mentioned the weather. Then she tucked her hair behind an ear and looked over at Balthazaar, and her face changed.
 
@@ -92,7 +92,7 @@ Bal nodded.
 
 Mrs. Brown waved that off.
 
-"Supplies are provided by the school for first years," she said. "You'll only need to take whatever personal belongings you want. They have their own uniforms and everything."
+"The school provides supplies for first years," she said. "You'll only need to bring whatever personal belongings you want. They have their own uniforms and everything."
 
 One problem fewer, then.
 
@@ -100,7 +100,7 @@ One problem fewer, then.
 
 Mrs. Brown sat back and gestured for her to go on.
 
-"Why are you willing to help a blood mage," Amelia asked, "when most want to kill them, or at the least don't want to be involved with them?"
+"Why are you willing to help a blood mage," Amelia asked, "when most people want them dead, or at the least want nothing to do with them?"
 
 Mrs. Brown sighed. Her eyes drifted to the picture on her desk.
 
@@ -116,7 +116,7 @@ That was the whole of it. It had taken her less than a minute to tell. Bal stood
 
 Then she looked away from the picture and back at them, and she was Mrs. Brown again, grey skirt and white blouse and the bun, the woman whose office this was.
 
-"So I want to help Bal overcome this hatred, if I can," she said to Amelia. "With his sygl being visible the day he was born, I know his affinity must be strong. Otherwise they wouldn't have removed his hand that soon."
+"So I want to help Bal overcome this hatred, if I can," she said to Amelia. "His sygl showed the day he was born, so I know his affinity must be strong. Otherwise they wouldn't have removed his hand that soon."
 
 Bal's new hand closed into a fist at his side. He didn't tell it to. The fingers simply curled in on their own, hard enough that the nails bit into the sygl, and stayed there.
 
@@ -128,7 +128,7 @@ Bal looked into her eyes. They were very red and very steady, and none of the te
 
 "So what do I need to do?" he asked Mrs. Brown. The words came out rougher than he meant them to, and he cleared his throat.
 
-"Nothing, except pack the few belongings you wish to take with you," Mrs. Brown said. "I need to reach out to the school, so you'll probably leave here in the morning." She looked at them both, and at their joined hands, and her eyebrows went up a fraction. "The fact that you have a familiar, not to mention that it's your own originator, will cause a stir as well. Most students don't get a familiar until it's introduced in their classes. I'll let the school know you have one, but I'll leave the details out." She glanced down at her letter, which in that office meant you were finished. "For now, it's best you run along and pack. I will send Pierre for you in the morning."
+"Nothing, except pack the few things you want to take with you," Mrs. Brown said. "I need to reach out to the school, so you'll probably leave here in the morning." She looked at them both, and at their joined hands, and her eyebrows went up a fraction. "The fact that you have a familiar, not to mention that it's your own originator, will cause a stir as well. Most students don't get a familiar until familiars come up in their classes. I'll let the school know you have one, but I'll leave the details out." She glanced down at her letter, which in that office meant you were finished. "For now, it's best you run along and pack. I'll send Pierre for you in the morning."
 
 ---
 
@@ -154,11 +154,11 @@ Behind him the bedsprings creaked. When he turned around, Amelia had swiped one 
 
 The books themselves were old. Their covers were soft at the corners, and one had a ring on the front from a mug of cocoa. The school was going to provide him with new ones. Bal packed these anyway. Fredrick, the boy who had given them to him, had been a friend, and he didn't want to leave them behind.
 
-"You know," Amelia commented, turning a page, "most of the stuff they teach first years doesn't seem that difficult."
+"You know," Amelia commented, turning a page, "most of the stuff they teach first years doesn't seem that hard."
 
 Bal rolled his eyes.
 
-"That's because it's for first years." He took *Sygldry Year 2* from the pile and held it up so she could see the cover. "The spell I used on the carpet isn't taught until the second year."
+"That's because it's for first years." He took *Sygldry Year 2* from the pile and held it up so she could see the cover. "They don't teach the spell I used on the carpet until second year."
 
 Amelia peered at him over the top of the book. Only her eyes showed above it, red and laughing.
 
@@ -166,11 +166,11 @@ Amelia peered at him over the top of the book. Only her eyes showed above it, re
 
 It felt a little odd, being teased like this by the originator of an entire sygl. But she was lying on his bed with her feet on his blanket, making fun of his reading, and Bal had to admit she seemed more like a regular girl than anything out of the stories. A regular girl who could make benches out of thin air. But still.
 
-"I like to read," Bal said, and shrugged. He packed *Sygldry Year 2* with the others. "Just think, if I hadn't seen that flicker, or found that spell, I would never have found you."
+"I like to read," Bal said, and shrugged. He packed *Sygldry Year 2* with the others. "Just think, if I hadn't seen that flicker, or come across that spell, I'd never have found you."
 
 Amelia lowered the book. For a little while she didn't say anything. Then she closed it, suddenly serious, set it aside on the blanket, and sat up.
 
-"I should warn you," she said. "The others are not going to like you being at the school. It's not just the students and the teachers. I'm talking about the other originators." She drew her knees up under the black dress. "They cannot interfere with you directly. But others can."
+"I should warn you," she said. "The others aren't going to like you being at the school. It's not just the students and the teachers. I'm talking about the other originators." She drew her knees up under the black dress. "They can't interfere with you directly. But other people can."
 
 Bal buckled the pack shut and came to sit beside her on the edge of the bed. The springs dipped and tipped them a little closer together.
 
@@ -178,19 +178,19 @@ Bal buckled the pack shut and came to sit beside her on the edge of the bed. The
 
 Amelia didn't answer straight away.
 
-"Do you know the reason blood mages are so dangerous?" she countered.
+"Do you know why blood mages are so dangerous?" she countered.
 
 Bal thought about all the stories told in the dark in this very room, and how little was in any of them once you took out the screaming.
 
 "Not really," he admitted. "I know that some of their magic has to do with their own blood. But other than that, no."
 
-"I'm not really surprised that's all you know." Amelia studied her hands in her lap. "You see, blood mages are so dangerous because we can alter people's sygls."
+"I'm not surprised that's all you know." Amelia studied her hands in her lap. "Blood mages are dangerous because we can alter people's sygls."
 
 Bal opened his mouth.
 
-"Not without them wanting it," she went on quickly. "Never that. But it can be done. The other originators were shocked when this came out. Honestly, it was a closely guarded secret at one point. But Raizen, the storm originator, got one of his followers to kidnap a high priest of mine." Her voice stayed even, but her fingers had tightened on each other. "The other originators had grown concerned that some of their followers were disappearing from their sight. So Raizen's high priest captured one of mine, and tortured him, to find out what was going on."
+"Not without them wanting it," she went on quickly. "Never that. But it can be done. The other originators were shocked when it came out. It used to be a closely guarded secret, honestly. Then Raizen, the storm originator, got one of his followers to kidnap a high priest of mine." Her voice stayed even, but her fingers had tightened on each other. "The others had started to worry because some of their followers were disappearing from their sight. So Raizen's high priest captured one of mine and tortured him to find out what was going on."
 
-"Truthfully, I was more concerned with other things at the time," Amelia said. "I didn't realize that one of my high priests had gone on a converting crusade. The others didn't believe that I'd had nothing to do with it." She lifted one shoulder. "To be fair, if I had known, I would have been okay with it. The only reason converting bothers the others is that when someone converts, they don't lose the inherited gifts from their old sygl."
+"Truthfully, I had other things on my mind at the time," Amelia said. "I didn't realize that one of my high priests had gone on a converting crusade. The others wouldn't believe I had nothing to do with it." She lifted one shoulder. "To be fair, if I'd known, I'd have been fine with it. The only reason converting bothers the others is that when someone converts, they keep the inherited gifts from their old sygl."
 
 A dozen questions jostled up at once, and he went with the one that had snagged.
 
@@ -208,7 +208,7 @@ Bal's eyes widened. He was suddenly very aware of the side of his neck.
 
 Amelia rolled hers.
 
-"*Normal* food. I can survive off it, but I do need blood to really thrive." She swung her legs off the bed and stood, caught both his hands, and hauled. "Come on, Master. I've heard a great deal about this cook of yours. It's time I tasted the evidence."
+"*Normal* food. I can survive off it, but I do need blood to really thrive." She swung her legs off the bed and stood, caught both his hands, and hauled. "Come on, Master. I've heard all about this cook of yours. It's time I tasted the evidence."
 
 Bal let himself be pulled up off the bed. "You'll be sorry."
 
