@@ -54,7 +54,7 @@ books/sygl-book/
   familiar to her bonded mage — where the source uses it or the relationship makes it natural. All other
   catchphrase/tic allowances are gone.
 - **Dialogue:** Author's dialogue is the BASE, not sacred text (author, 2026-10-20: "my dialogue might not be exactly right"). Keep what each line says, who says it, and where it falls, plus the memorable lines (e.g. "They have made me a myth?!", "Because it's magic", the binding vows, "No one threatens my girls"). Freely fix grammar, stiff or awkward phrasing, and anything that doesn't sound natural spoken aloud. Do not change meaning, add information, or give a line to someone else.
-- **Master** stays rare (source uses only). **Blood whip from the RIGHT palm.** No two characters share a
+- **Master** stays rare (source uses only). **Blood whip from the RIGHT palm, which splits open on its own (no knife) and closes when the blood returns.** No two characters share a
   gesture (hand/sleeve pull = Viridia; hair behind the ear = Lora). Fix the source's small slips silently.
 - **Spell repetition watch:** the source has few blood spells (the whip above all). Never invent spells;
   when one spell starts carrying too much of the action, FLAG it to the author to discuss. Ledger:
@@ -62,11 +62,11 @@ books/sygl-book/
 - Fade-to-black. Keep separate from the-fourfold-crown.
 
 ## Open author decisions (ask, don't invent)
-See `STATE.yaml` → `open_author_decisions` (currently: whether the blood whip needs a cut).
+None open. New questions go in `STATE.yaml` → `open_author_decisions`.
 
 ## Status (update as you go)
 - 2026-10-20: blueprint rebuilt to source order (30 chapters, ≈91,856 words after the outline audit).
 - Ch.1–20 FINAL 2026-10-20 (61,446w): rewritten to the source; all gates clean; Genesis Floor 8.5 each.
-- **Next: Ch.21 "Strawberries"** (see project/outline.md): the lake, Iro, the heart-ring payoff. Open question on the whip (cut or no cut) in STATE.yaml.
+- **Next: Ch.21 "Strawberries"** (see project/outline.md): the lake, Iro, the heart-ring payoff.
 - Gate tools voice_wear_check.py / tic_report.py read `manuscript/chapters/`; run them on a scratch copy laid out
   that way (the book uses flat `manuscript/chapter-NN.md`).
