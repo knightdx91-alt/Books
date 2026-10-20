@@ -1,149 +1,171 @@
 # Chapter Two: The Queen in the Temple
 
-<!-- Word count: 4048 | Revision: 1 | Issues addressed: 3 | Date: 2026-06-20 -->
+For a few heartbeats nothing answered him.
 
-"Because it's magic" came again, closer, as if the voice had circled behind him while he stood gaping at the empty room, and this time it laughed at the end of itself, low and pleased, the way a person laughs who has been saving up a joke for a very long time.
+Out of the darkness at the back of the temple, behind the last of the pillars where the firelight gave up, a pale girl stepped forward into the light.
 
-Bal turned. He turned the other way. He put his back to the nearest pillar so that whatever it was could only come at him from the front, which was the kind of thing he did without deciding to, the same way he had counted rungs on ladders he was never going to climb.
+She came unhurried, her footsteps making no sound at all on the stone, and stopped a few paces short of the nearer brazier where the glow could find her. Bal guessed she was a few years older than he was. She cocked her head and studied him with frank, open interest, much as you might study a cat that had turned up on your doorstep in the rain.
 
-"I can't see you," he said.
+"Hello yourself," she said, with a curious look on her face. "Mind telling me how you got in?"
 
-"I know," said the voice. "It's marvelous, isn't it. Three thousand years and the trick still lands."
+The girl was wearing a long black dress that fell to the floor and moved around her ankles as she walked. Teardrop rubies hung from her ears, and every time she moved her head they caught the firelight and threw it back in small red sparks. Her hair was midnight black, straight and glossy, and reached to the middle of her back. Her skin was pale as candle wax against all that black. She wasn't skinny, but she wasn't fat either; she had what Bal considered exactly the right amount of curves, and the dress made no secret of them.
 
-He kept his back against the pillar. He had read enough cast-off spellbooks to know that a voice with no body could be a dozen things, most of them indifferent to him, some of them not, and he made the same flat inventory he'd made on the roof: the carpet slumped dead behind him, no use; two braziers, fire in them, which was a thing you could throw; the open square overhead that he had no way to reach again. He counted the exits and there were none. He had flown into a sealed box on purpose and the box had been kind enough to point that out to him in a pleasant whisper.
+He had a whole speech somewhere in his head. He was certain of it. He'd planned what he'd say if someone caught him, back on the roof that morning, and it had been a good speech, reasonable and apologetic and only a little bit untrue. None of it would come out.
 
-A bench stood beside him that had not been there before. Plain grey stone, smooth on top, two of them in fact, set facing each other across a yard of swept floor, as though the temple had quietly arranged a place to sit while his back was turned. A girl was perched on the farther one with her ankles crossed and her hands folded in her lap, and she was watching him with the frank, delighted attention of someone at a play.
+At a loss for words, which was a first for Bal, he numbly pointed at the ceiling.
 
-She was pale. Pale past the pallor of someone kept out of the sun, pale like the underside of a thing, and she wore a black dress that drank the brazier light instead of throwing it back. She looked a few years older than him, sixteen or seventeen stretched into something that didn't move right when you tried to count it. Her eyes were red. Not the angry red of crying or the brown-red of an old scab. Red the way a held-up glass of wine is red, with the fire moving inside it.
+The girl followed his finger up to the open roof and the patch of blue sky beyond it. Then she looked back down at him, and at the rug lying in a heap on the floor behind him, and arched a perfectly trimmed eyebrow.
+
+"You flew in?"
+
+He managed a jerky nod.
+
+"Huh." She sounded delighted. "No one's tried that one. They've tried the doors, oh, they've tried the doors. Kicking, prying, chanting, and one boy who tried to talk them open by being very polite to them. I rather liked him. But nobody's come in through the top." She clasped her hands behind her back and rocked on her heels. "What gave you the idea?"
+
+That, at least, he could answer. His tongue came unstuck enough to explain about Saint Andre's and the carvings and the apple, and the afternoon a few days ago when the roof of this building had flickered and he'd caught that one glimpse of the inside. The pillars, the fire, the statue. He told her about the ladder that was too short and the gap that was too wide, and *Sygldry Year 2*, and the sock that had hit the dormitory ceiling. She listened to all of it with her head on one side, and when he got to the sock she laughed out loud.
+
+"I honestly thought I was seeing things," Bal finished. Now that he had started talking, the questions crowded up behind his teeth. "Who are you? How did *you* get in?"
+
+The girl laughed again and gave a careless little wave of her hand.
+
+The air between them shivered. Stone grated softly on stone, and in a matter of seconds two stone benches stood on the floor between them, facing one another, as solid as if they had been carved there a hundred years ago. They were plain grey, smooth-topped, with lion's feet at the corners. A thin film of dust lay on them. They might have been sitting there all along, waiting for him to notice.
 
 "Have a seat," she said, "and I'll explain."
 
-He didn't, at first. His legs had gone interesting and far away. Then it occurred to him that a person who'd flown a wash-basin rug through a sealed roof had given up the right to be choosy about what he sat near, and he crossed to the empty bench and lowered himself onto it. The stone was warm. Of course it was warm. Everything in here behaved like the inside of a house someone lived in.
+Bal stared at the benches. He had spent the last year of his life struggling to float tin cups. He'd spent three evenings coaxing one rug off the floorboards. She had pulled two pieces of furniture out of the air with a flick of her wrist, without a word, without even a pause for breath, as easily as he might scratch his nose. He'd never seen a display of magyk like it, not from the teachers who came to the orphanage, not from anyone.
 
-"My name is Amelia," she said. "And this is my temple."
+He walked slowly to the nearer bench and sat down on the edge of it. The stone was cool and entirely real. The pale girl swept her skirt aside and took the other bench, settling in with the ease of someone in her own favorite chair.
 
-"A temple." He looked at the columns, the open square of sky that couldn't be there, the long low block of pale stone near the turned-away statue. The statue, he understood now, looking from it to her and back, was meant to be her, and was nothing like her, the way the painting of a person in a hall is nothing like the person who comes down the stairs. "A temple for what?"
+"My name is Amelia," she said, "and this is my temple."
 
-She frowned. It was a small frown, almost hurt, the kind a child makes when a game they were sure everyone knew turns out to be theirs alone. "You've never heard of me. The Queen of the vampires."
+It was only polite to answer that. "I'm Balthazaar," he said. "Bal, mostly. To my friends."
 
-His mouth came open before his brain caught up to it.
+"Balthazaar." She tried the name out slowly, tasting it, and looked pleased with the result. "That's a proper name. Somebody had sense."
 
-"Wait." He put his good hand flat on the warm stone to be sure of something solid. "You mean the originator. Of the blood sygl." The words felt enormous and a little absurd in his mouth. "I thought you were a myth."
+Bal looked around. He took in the two rows of pillars, the two braziers, the shaft of sunlight falling through the roof that wasn't there, and the dark statue with its face in shadow. Then he looked back at Amelia, sitting across from him with her hands folded in her lap and the rubies glinting at her ears.
 
-He watched her hear it.
+"So," Bal asked, still confused, "a temple for what?"
 
-He would think about her face for a long time afterward, the way it stopped, the way the delight went out of it like a candle pinched between two fingers. Her mouth opened the way his had, but not in wonder.
+Amelia frowned. It was the first time he'd seen her look anything other than amused, and it put a little crease between those perfect eyebrows.
 
-"A myth." Very quiet. "They have made me a *myth*."
+"You've never heard of me?" she said. "The Queen of the vampires?"
 
-"I didn't." He was up off the bench and stepping back before he'd told his feet to, one hand raised, the boy's old reflex for when an adult's voice dropped into that register. "I only meant that's what people say. I didn't make it up. I only..."
+Bal's mouth dropped open.
 
-She breathed in. He saw her see him backing away, and saw her decide to mind it, the effort of the decision plain on her, a person dragging a heavy thing uphill by hand.
+He knew the words. Everybody knew the words. Vampires were a story you told younger children in the dormitory after lights out, a flashlight lit beneath your chin. The Queen of the vampires was the one you saved for last, because she was the oldest and the worst, and also because she was the one that was supposed to be true once, ages and ages ago.
 
-"I'm sorry." She smoothed the front of her dress though it didn't need smoothing. "I wasn't expecting that. I suppose I should have." Her gaze dropped to his left wrist, to the soft white knot of it, and her head tipped. "What happened to your sygl? Did the idea of carrying a myth's mark disgust you so badly you cut your own hand off?"
+"Wait, wait," Bal stuttered. "You mean the originator of the blood sygl?" His voice came out embarrassingly high. "I thought you were a myth!"
 
-He stopped backing away.
+Now it was Amelia's mouth that dropped open, and this time it was in outrage.
 
-"What do you mean," he said.
+"A *myth*?" She came up off the bench. "They have made me a *myth*?"
 
-She laughed. The sound went up into the dark between the pillars and came back thinner, and there was nothing cruel in it, which somehow made it worse. "Oh, the fates are having a wonderful afternoon. You lose your hand for showing my sygl, and then you fly in through the roof of my tomb. Do you know what the odds of that are? I don't either. I stopped being able to do that kind of sum a long time ago."
+Her voice rang off the pillars and came back doubled. The fires in both braziers leapt up, tall and crackling, and threw her shadow huge over the paving and halfway up the far wall. Something in the air around her went tight and cold, and every hair on Bal's arms stood on end.
 
-The floor felt a long way down. Bal made himself walk back to the bench and sit on it because standing had become a decision he didn't want to keep making.
+Bal scrambled to his feet and began backing away slowly, one careful step at a time, keeping his eyes on her and his hand out in front of him for all the good it would do.
 
-"You're saying I had a blood sygl," he said. "There." He didn't look at the wrist. He'd looked at it enough for one lifetime.
+Amelia saw this. He watched her see it. She shut her eyes, pressed her lips together, and took a long breath through her nose, then another, and the tight cold feeling eased out of the air. The braziers sank back to their low, steady glow. When she opened her eyes again, she looked far more like a girl in a black dress and a good deal less like a storm about to break.
 
-"You did." She said it gently, the way Mrs. Brown said true things. "A good strong one, too. I can still feel the shape of where it was, like a chair somebody just got up from."
+"I'm sorry," she said. "I wasn't expecting that. Although I suppose I should have known." She sat back down on her bench, smoothing her skirt, and gave him a small, rueful smile. "Please. Sit. I won't bite. Not without asking."
 
-And the whole crooked story of his life turned over once in his chest and showed him its other side. He had asked Mrs. Brown about the wrist exactly once and she'd gone still and said it was done before he came to her and shut the door of it behind her, and he had believed, the way you believe the weather, that some accident had taken it. A fall. A fever. The dull bad luck that got into everything no one watched. But blood sygls were the ones the doctors took. He knew that the way every child knew it, a horror story told sideways: that sometimes a baby came out with the wrong mark already on it, the feared mark, the one people swore turned a person cruel, and that a careful surgeon with a steady hand would see to the hand before the child was old enough to hold a memory of being whole. He had always heard that and thought, distantly, the way you think it about a war in another country, *how terrible, those poor children.* It had never once occurred to him to count himself among them. There'd been no hand to mourn. You don't grieve a country you were never told you came from.
+Bal didn't sit. He didn't run, either. He held his ground, halfway between his bench and the rug, and tried to decide which would be the more sensible choice.
 
-He found he was rubbing the stump with his thumb. He made himself stop.
+Amelia didn't seem to mind. She was looking at his arm.
 
-"They take the hand," he said, "because they think the blood sygl makes you go bad."
+"What happened to your sygl?" she asked, pointing at the stump of his arm. "Did the thought of having a myth's sygl disgust you so much you had to cut off your hand?"
 
-"They think a great many things." Her voice had cooled, not at him. "Most of them they think because someone with a use for their thinking arranged it. Tell me." She leaned forward, elbows on her knees, and the brazier light slid down the side of her face. "Why does the whole world believe I'm a story for frightening children?"
+At the mention of his hand, Bal stopped.
 
-So he told her.
+He looked down at his stump, then back at her. The itch was there again, under the skin, sharper than he'd ever felt it.
 
-He told it badly, in the wrong order, the way you tell a person their own house has burned down. He told her that no one had seen the blood originator in living memory, that the seat reserved for her at the great school's yearly claiming had stood empty so long the cloth on it had been quietly removed; that for a stretch people had decided she must be a man called Dracula and that when Dracula was hunted down and killed and proved to be only a very old and very strong vampire, the world had simply closed the file and agreed, with the comfortable certainty of people agreeing about something that cost them nothing, that there had never been a blood originator at all. That the sygl that surfaced on the hands of unlucky infants was treated as an illness rather than an inheritance, because an illness has no parent, and a parent might come looking.
+"What do you mean?"
 
-He watched her get smaller as he spoke. Not in size. In something else. By the time he reached the empty seat with its cloth taken away she was sitting very straight and very still, her red eyes fixed on a point past his shoulder, and he wished, helpless and far too late, that he had lied.
+Amelia laughed. It was a high, clear laugh, and it echoed off the stone walls of the temple and came back to them from every side.
 
-She was quiet a long time after he stopped. The braziers ticked. Somewhere up in the dark a thing he chose to believe was a draft moved through the pillars and the flames bent and came back.
+"My, how the fates are working," she said, shaking her head in wonder. "You lose your hand for showing my sygl, and then you end up stumbling across my temple anyway. Flying into it, no less."
 
-"Dracula," she said at last, flat, tasting the name. "They decided I was Dracula. I knew him. He was loud and he was vain and he kept a castle to be looked at and he could not have done the simplest thing I do without resting for a week afterward. And when your hunters put him in the ground they closed the book on me with him, because it was easier than the other thing the book might have said, which is that the real one is somewhere none of you can see, and unhappy." She laughed once, short, no music in it. "He'd have been so pleased. He always did want to be me when he grew up. He never grew up."
+Bal stumbled back to his seat. He didn't decide to; his legs simply took him there, and he sat down hard on the cool stone.
 
-"Three thousand years," she said, "give or take. That's how long I waited in here for someone to come and let me out. And while I waited..."
+"You mean," he said quietly, "I had a blood sygl?"
 
-She came apart.
+Amelia inclined her head.
 
-There was no sound to it, which was the part that stayed with him. He had braced for a scream. What happened instead was that the pale girl on the bench burst outward all at once into a churning cloud of black, hundreds of small ragged shapes that boiled up toward the open square of false sky and wheeled there in a knot of wings, wheeling and wheeling with no order he could find, a whole storm of them where a person had been sitting a breath before. The wind off them stirred the brazier flames flat. One of them clipped past his ear with a sound like a snapped page. He sat absolutely still on his warm stone bench, the way you sit still in deep water, and watched a goddess come undone over a room she could not leave, and the thought that arrived in him, unbidden and immediate and entirely wrong for the scale of what he was looking at, was: *she's having a tantrum.* Not a goddess's wrath. Not the fury of something older than the orphanage and the school and the whole crooked world that had buried her. A girl who'd been left out, finding out exactly how thoroughly, and not being able to hold her face together over it.
+"A good strong connection too," she said. "I can feel it from here. I could feel it the moment you dropped through my roof. It's still in there, you know. Cutting off the hand doesn't cut out the blood."
 
-The bats folded back down into her between one heartbeat and the next, and she was sitting as before, ankles crossed, hands in her lap, except that her chest moved with breathing she didn't need.
+At her words, Balthazaar heard the truth.
 
-"Sorry," she said, tight. "That gets away from me."
+He couldn't have explained how. It was not a sound, exactly, more a kind of settling, a click deep down in his chest as something that had been crooked all his life slid into its proper place. The blockage in his wrist. The itch. The magic that always ran smoothly to the elbow and then stuck. It had never been a missing hand that stopped it. It had been a missing sygl, a door someone had bricked up while he was too small to know there was a door there at all.
 
-"It's all right," Bal said, which was an idiotic thing to say and he heard it being idiotic and could not find anything better, so he said the next true thing instead. "I'd have done worse."
+He knew what blood sygls were. Everybody did, much as everybody knew the things nobody discussed at the dinner table.
 
-It was true. He thought of the long dormitory at night, the breathing of boys who'd be claimed and carted off while he stayed, and of the number of times he'd lain in it doing arithmetic he'd promised himself he wouldn't, months into a future that narrowed to a point. He'd never burst into a cloud of anything. He'd have liked to. He'd settled instead for lighting candles he wasn't allowed to light and lifting teacups across the kitchen when no one was looking, small pointless magics that proved nothing to anyone, because they were the only argument he had against a verdict that had been entered before he could speak. A person who'd been told what they were for three thousand years and a person who'd been told what they were for sixteen were not, he thought, the same size of thing. But they were the same shape.
+Blood sygls, while not strictly outlawed, were frowned upon. Badly. Often, if an infant was born showing one, the doctors would remove the baby's hand before the mark could settle in, because people believed the blood sygl could drive you mad. That was what the stories said, anyway. Blood magic got into your head. Blood magic made you crazy, made you hungry, made you dangerous to the people around you. Bal had always privately thought that a lot of that talk was there to get people riled up against anyone who carried the mark, but that was only him. Nobody else he knew had ever been bothered enough to wonder.
 
-She looked at him then, properly, for the first time as something other than a curiosity that had blown in through her ceiling. He couldn't read what was in it. He thought it might be surprise, and then he thought it might be the careful blankness of a person deciding not to want anything, because wanting was how you got handled.
+What made it worse was that no one was sure the blood originator even still existed. She had not been seen for years. More than years. Some people had thought for a long time that the originator was Dracula, but after he had been killed, that proved he wasn't. Other originators were real enough. Once a year, every one of them appeared at the Sygldry School to claim their blood, the new students born under their mark. There was a place set aside for the blood originator at that gathering, the same as for the others. Year after year, she had never shown up.
 
-"They locked me up in here," she said, low, "and then they told everyone I was never real. That's tidy of them. You can't unlock a door for a person who doesn't exist." She tilted her head at him. "Why aren't you in a school? You've got the magic. I could feel it the second you came through, pushing up through that wrist like a plant under a flagstone. Even with no help from me you're not nothing."
+People had stopped expecting her. And after long enough, they'd stopped believing in her at all.
 
-He held up the stump. It said what he'd have said.
+Bal looked up. Amelia was watching him, waiting, her pale hands still in her lap.
 
-"No sygl," he said. "No school takes you without one. That's the whole gate. The mark is the ticket and I haven't got a hand to put one on."
+He took a breath and explained it to her, all of it. The doctors and the hands. The rumors about madness. Dracula, and how everyone had felt rather foolish about that afterward. The yearly gathering at the school, and the place that was kept for her, and how she had never come to claim it, not once in all the years anyone could remember, until the place became a kind of joke, and the joke became a fairy tale, and the fairy tale became a myth. He tried to say it gently. There wasn't a gentle way to say most of it.
 
-Her eyes narrowed. The fire moved in them. And then her whole face changed direction, the hurt sliding off it and something quicker coming up underneath, and he understood with a small clear chime of warning that he was being looked at now the way a player looks at a piece that has this moment become useful.
+Once he was done, Amelia exploded.
 
-"If you had one," she said. "Would you go?"
+He meant it literally. One moment she was sitting on the bench across from him, very still and very pale, and the next there was no girl on the bench at all. There was a whirling, shrieking cloud of bats, hundreds of them, their wings beating the air into a gale. They boiled up toward the open roof and wheeled around the pillars and streamed between the braziers so that the fires guttered and flared. Bal threw his arm over his head and ducked. Leathery wings brushed his hair. Tiny claws snagged his sleeve and let go. The noise filled the whole temple, a high furious chittering that set his teeth on edge.
 
-"Yes." It came out of him without any of the caution he'd have liked to dress it in. "I've wanted it my whole life. There's nothing I've wanted more."
+It went on for about a minute. Then the bats poured back together over the bench, and folded in on themselves, and Amelia was sitting there again in her long black dress, not a hair out of place.
 
-She rose. She did it the way water rises, no push-off, no gathering of limbs, only standing where she had been sitting, and she came toward him across the swept stone without hurry and without taking those red eyes off his face. Some animal floor of him wanted very much to back away again. He made himself hold the bench.
+Bal lowered his arm cautiously. A single tiny black wisp drifted down past his nose and vanished before it reached the floor. He looked at the place where it had been, and then at her.
 
-"Would you do anything to go?" she asked. Soft. Each word set down separately, like coins on a counter.
+"Does that happen often?" he asked.
 
-Somewhere a long way off and many years ago there was the crack of a flat stick on a rag ball, and the running of feet on bald dirt, and a boy at the edge of a field that wasn't his, watching a game he was never going to be called into. It went through him and was gone, leaving nothing behind, the way such things did.
+"Only when I'm cross," Amelia said through her teeth. "I haven't been this cross in a long while."
 
-Bal swallowed.
+She was still fuming. Bal could see it in the set of her jaw and in how her fingers had knotted in the black fabric of her skirt. When she spoke, she spoke mostly to herself, in a low, furious mutter.
 
-He thought about the word *anything*. He thought about how it had been said, slow, the eyes never moving, and about the eight high priests it had supposedly cost to put her in here, a number he didn't yet know but already felt the weight of in how careful she'd gone. He thought that the worst thing he could do, sitting in a sealed tomb across from the oldest hungry thing he'd ever met, was hand over a blank promise and hope she filled it in kindly. Mrs. Brown said you should never agree to a price before you'd seen the bill. She said it about market men, but it traveled.
+"They lock me up in here and then act like I don't exist." She drew a slow breath and let it out again. Then she turned that red gaze back on him, and some of the anger went out of it. "Why haven't you gone to school? You've got the magic for it. I can feel it on you. Even without my magic, you're still powerful in your own right."
 
-"Uhm." He looked at his hands, the whole one and the half. "Within reason."
+Bal held up his stump.
 
-For a beat she only stared at him.
+"No sygl," he said simply. "No school will let you in unless you have a sygl."
 
-Then she laughed, and this laugh was different from the others, surprised out of her, and she dropped onto the bench beside him with a thump that was wholly a girl's and not at all a goddess's, close enough that he could feel the cold coming off her like the cold off a cellar door.
+Amelia narrowed her eyes at him. The firelight caught them as she did, and now Bal saw clearly what color they were. They were red. Not brown with a reddish tinge, not a trick of the braziers, but red through and through, the deep, rich red of fresh blood, a match for the rubies at her ears.
 
-"*Within reason*," she repeated, savoring it. "Three thousand years and I get the cautious one. The careful boy who reads the small print at the bottom of a miracle." She shook her head, and there was real warmth in it now, threaded through with something he couldn't name and didn't like the edge of. "Do you know how many people would have said yes? Anything. They'd have said it before I finished asking. And then they'd have spent the walk home working out what they could get out of me." She turned her head and her face was very near his. "You'd be surprised what a person will trade for a thing they want. I've watched it for a long time. It's almost the only thing I've watched."
+She grinned, and it changed her whole face.
 
-"I do want it," he said. "The school. I'm not pretending I don't."
+"If you had a sygl," she asked, "would you go?"
 
-"I know." Quietly. "That's why I trust the *within reason* more than I'd have trusted a yes." She looked away from him, at the turned-away statue of herself, and her hands knotted once in her lap and let go. "I'm going to tell you what I want, and then you'll decide, and I'll mind whichever way you decide. I'm out of practice at minding things. Bear with me."
+Bal answered immediately. He didn't even need to think about it.
 
-He waited. He'd learned, on the roof and off it, that the most useful thing he owned was the ability to wait without filling the silence, and he gave it to her now.
+"Of course. I've always wanted to."
 
-"You're going to go to this school," she said. "And I'm going to bond myself to you. As your familiar." She said the word plainly, with none of the theater of *Queen of the vampires*, and that plainness was how he knew it cost her. "When a familiar bonds to a master, it bonds to walk at his side, in his world, through his doors. That's the loophole. They built this box to hold an originator. They never thought to build one that could hold a sixteen-year-old's pet." Her mouth curved. "Bond to you, and I walk out behind you, and there is not one stone of this place that can say a word about it. You'd be giving me the only thing I've wanted for three thousand years. A way through the door."
+"Would you do anything to go?" Amelia asked slowly.
 
-"And what do you get out of me," Bal said, because it was the question, and because not asking it would have been the kind of thing she was waiting to catch him doing.
+She rose from her bench as she said it and walked toward him, one unhurried step after another, her dress whispering on the flagstones. She never took her eyes from his. Bal found that he couldn't look away either. The rubies swung gently at her ears. She was close enough now that he could smell her, a faint scent of cold stone and something sweeter underneath it, roses maybe, or wine.
 
-Something passed over her face, gone too fast to hold. "Out in the world," she said, "there's a school full of children being taught that I'm a fairy story and that your kind go mad. There's a god or two who'd be very interested to learn the box failed. I get to walk back into a world that filed me under *never happened* and put my hand up and say *here, actually.* I get to make a great many people very uncomfortable." The grin came back. "And I get a place to stand that isn't this. You'd be amazed how much that's worth. I wouldn't ask you for anything you weren't willing to give. I've had enough of people taking things I didn't offer. I'm not going to be one."
+Bal swallowed nervously.
 
-She said it lightly. He heard the thing underneath it the way you hear a foot on a stair below the floor you're standing on, and he didn't reach for it, because some things you let a person keep until they hand them to you.
+"Uhm," he said. "Within reason."
 
-He turned it over instead, the way he turned everything over, in order. A goddess in a box. A boy with no hand and no door and a future he refused to count the months of. A bargain where the powerful one was the one who needed the favor, which was so backward from every story he knew that he kept poking it to see if it would bite. She wanted out. He wanted in. The whole thing balanced on the strangeness that the two of them, for entirely different reasons, wanted to walk through the same wall in the same direction.
+Amelia laughed, delighted, and the spell of the moment broke. She dropped down onto the bench beside him, close enough that her shoulder brushed his, and swung her feet beneath the hem of her dress like a girl half her apparent age.
 
-There was a piece of it he didn't like, and because he was the sort of boy who finished the dull appendix before he let himself read the spell, he made himself look at the piece he didn't like before he let himself want the rest. She had said *familiar.* He'd read the word in Fredrick's books, in the dry middle chapters nobody assigned, and he knew that a familiar bond was supposed to run the other way around: a mage, a small useful creature, a leash dressed up as a friendship. Bonding a goddess older than the road he'd been left on as a thing he could call to heel had the wrongness of a child leading a horse by a thread. He said as much, because saying the wrong-feeling thing out loud was how he'd always tested whether it was wrong.
+"Within reason," she repeated. "Good. I like a boy with sense." She turned toward him on the bench, her knee against his, and her voice went serious. "Then hear me, Balthazaar. You shall go to this school. I will bond myself to you as your familiar. Doing so will free me from this place."
 
-"That's not how it works," she said, before he'd finished. "Or it is, and we'll both pretend it isn't, and the pretending will be its own little gift. You'll call, I'll come, the world will see a boy with a pet on a string and feel safe about it." Her smile had teeth in it that weren't a threat, quite. "Let them. People who feel safe about you don't watch you closely. I learned that the slow way." She studied him. "You're worried about who's holding the leash. That's the right thing to be worried about. Most people aren't. Keep it."
+Bal blinked. "Your familiar?"
 
-"All right," he said. He surprised himself with how quietly it came out, given the size of what he was agreeing to. He'd expected the moment of saying yes to feel like the moment on the roof when the carpet went over the edge, the stomach lifting clear out of the body. It didn't. It felt like reaching the last rung of a ladder he'd counted a hundred times and finding it held. "Within reason. I'll do it."
+"Your familiar," she said firmly. "That way you and I can show the rest of the world that the Blood Bond is alive and well." Her eyes glinted. "Let them call me a myth with me standing in the middle of their courtyard. I should like to see them try."
 
-"Within reason," she agreed, grave as a vow, and only the smallest light moving behind it. "I'll hold you to the reason and not a thread past it. That's a promise, which I notice you didn't ask for. You should learn to ask for those. People are forever handing them out and meaning to keep them and then the keeping turns out to cost something and the promise quietly leaves by the back door." She studied her own pale hands. "I made one once. To my own family. That's a story for a night with more wine in it."
+Then her voice softened, and she laid one cool hand on his knee.
 
-"How am I supposed to get your sygl back?" he asked. "If I'm going to wear your mark to school, I need the hand to put it on. And I haven't got one." He held the stump up again, plain about it, because dressing a hard thing up only made it heavier. "Unless you've got a spell I haven't read."
+"I will not ask anything of you that you are unwilling to give," she said. "You have my word on that."
 
-Amelia smiled. It was a slow smile and it did not reach her eyes the way the laughing had, because this was the part she'd been walking him toward the whole time, and they both felt the floor tilt gently under it.
+Bal looked at her hand, and then at her face, and then down at the stump.
+
+It all sounded wonderful. It sounded so wonderful that he didn't quite trust it. Going to the Sygldry School, as Fredrick had, climbing into a car with a trunk and waving goodbye to everyone on the steps. Learning magic from people who knew what they were doing instead of from a cracked secondhand book by torchlight. All of it was sitting there in front of him, close enough to touch, and there was still one rather large problem standing in the way.
+
+Still nervous, Bal held up the stump between them.
+
+"How am I going to get your sygl back?" he asked. "I'd need a hand to put it on."
+
+Amelia smiled. It was a slow smile, and a warm one, and it showed the very tips of two sharp white teeth.
 
 "Are you thirsty?" she asked.

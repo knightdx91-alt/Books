@@ -36,6 +36,9 @@ MOTIFS = [
 # motifs and NOT tics — exempt from the recurrence gate. Keep to nouns the story cannot avoid.
 WORLD_TERMS = [
     # e.g. "the citadel", "the high council" — nouns the story cannot avoid; NOT motifs, NOT tics.
+    "the sygldry school", "the blood sygl", "blood bond", "saint andre's", "high priest",
+    # Author ruling 2026-10-20: "Master" is Amelia's title for Bal as his familiar, not a tic.
+    "master",
 ]
 # The narrator's professional reflex: the phrases by which THIS book's narrator files everything she
 # sees under her own expertise (a lab, a seminar, a trade). Book-specific; leave empty if none. The gate
