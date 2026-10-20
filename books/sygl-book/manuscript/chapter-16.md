@@ -67,7 +67,7 @@ New Spring was on the road out, and Bal had them stop. The job had come through 
 
 Ms. Summers was a small, stooped woman wrapped in two shawls. She heard who they were and why they had come, and she got slowly up off her stool.
 
-"I normally hire a team to see me through those woods," she said. "I'm not up to it this year." She looked at the four of them, and at the wolf on her step, and seemed to decide that they would do. "Mind the river. That's where they grow."
+"I normally hire a team to see me through those woods," she said. "I'm not up to it this year." She looked at the four of them, and at the wolf on her step, and decided that they would do. "Mind the river. That's where they grow."
 
 Lora asked how the flowers ought to be cut, and how long they would keep once they were. Ms. Summers' face lit up. She answered at length, and Lora wrote it all down on the back of an old receipt against the doorframe, every word, and buttoned it away in her breast pocket.
 
@@ -115,7 +115,7 @@ They had longswords. They had axes. Two carried crossbows, and both crossbows we
 
 He pointed his sword at the dirt by his boots. He wanted them thrown down there.
 
-Bal eyed the crossbows. Two bolts would cross that ground far faster than any of them could. Charging was pointless. He let his eyes drop, as if he were working out how to toss the rapier and still keep a little pride, and the sun flashed off something silver on Viridia's left hand.
+The crossbows were the problem. Two bolts would cross that ground far faster than any of them could. Charging was pointless. He let his eyes drop, as if he were working out how to toss the rapier and still keep a little pride, and the sun flashed off something silver on Viridia's left hand.
 
 The ring.
 
@@ -125,7 +125,7 @@ He shifted his weight toward her and kept his voice low.
 
 Viridia didn't answer. Her lids drooped. She was already reaching for whatever it was inside the band that she had to reach for.
 
-Bal hoped none of the seven was a Terra mage. This was Kenmei's domain, strictly speaking, so it was possible. There was no way to tell. All seven had weapons in their hands, and a hand holding a weapon did not show you its palm.
+Bal hoped none of the seven was Terra. This was Kenmei's domain, strictly speaking, so it was possible. There was no way to tell. All seven had weapons in their hands, and a hand holding a weapon did not show you its palm.
 
 He moved his free hand behind his leg, where it was in her view, and opened it.
 
@@ -175,7 +175,7 @@ Bal stepped back, out of reach, and dragged his good wrist across his eyes. It c
 
 The girls were all in a line on the road behind him.
 
-Lora had her rapier lowered and her left hand pressed to her stomach. Viridia had her spear back and was holding it in both fists, much too tight. Next to Lora stood Amelia, with her hands clasped together in front of her as if somebody had asked her to wait there and she was waiting. She had come one step off the road toward him and no farther, and her two hands were holding each other back.
+Lora had her rapier lowered and her left hand pressed to her stomach. Viridia had her spear back and was up on her toes. Next to Lora stood Amelia. She had come one step off the road toward him and no farther, and her two hands were holding each other back.
 
 Bal took in all three for the length of one breath.
 
@@ -203,7 +203,7 @@ Lora let him come right up to her. Then she put both hands on his chest and push
 
 Her pack was already open. She had salve in a little clay pot, and bandages, and she went around behind him to see to his back first.
 
-Amelia was standing off from the rest of them, watching him.
+Amelia was standing off from the rest of them.
 
 Bal moved over on the log to make room. She came and took the space, very straight-backed.
 
@@ -227,9 +227,9 @@ The salve smelled of crushed mint and something underneath it that he couldn't p
 
 "I'd much rather I got hurt than any of you," he said. "Great job on not getting hurt."
 
-Hopper came down from the trees and lay down beside the log. She smelled of wolf and hard work. Bal rested his good hand lightly on top of her head, between her ears.
+Hopper came down from the trees to the log. She smelled of wolf and hard work. Bal rested his good hand lightly on top of her head, between her ears.
 
-"Thanks," he told her. "That was good work."
+"Thanks," he told her. "You did good."
 
 Once he was bandaged up, they went through the bandits for anything worth taking. Bal wiped the rapier clean on a dead man's sleeve and slid it back into its scabbard. Viridia kept her spear in her hand.
 
@@ -257,7 +257,7 @@ Amelia's place beside him was empty, with no noise at all. She was back before B
 
 "There's a fire pit," she said. "Buried, so it's been used. I think travelers stop here a lot."
 
-Bal left his pack with his bedroll by the pit and went to look for firewood. He went bare-backed in the bandages, because his shirt was still a rag, and the evening air found its way in under every strip.
+Bal left his pack with his bedroll by the pit and went to look for firewood. He went bare-backed in the bandages, because his shirt was a rag, and the evening air found its way in under every strip.
 
 Viridia saw where he was headed and came along.
 
@@ -349,14 +349,12 @@ The other two had already crawled into their bedrolls when they got back to the 
 
 Amelia pushed her bedroll over until it lay against Bal's, while he put more wood on the fire.
 
-Before he lay down he went to where Hopper sat at the edge of the light, watching the forest.
+Before he lay down he went to Hopper at the edge of the light.
 
 "You going to be our guard?" he asked.
 
-Hopper chuffed at him, once, and went on watching the trees.
+Hopper chuffed at him, once.
 
-That seemed to settle it. Bal went back and slid into his bedroll. Amelia's hand found his under the blankets, cool as the night was.
+That settled it. Bal went back and slid into his bedroll. Amelia's hand found his under the blankets, cool as the night was.
 
 Beyond the trees the mountains stood up black against the stars, and in the black there was a notch where the road went through. They would be in it an hour after first light. The woods were beyond it.
-
-He fell asleep holding on to her.

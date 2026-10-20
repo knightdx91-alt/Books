@@ -205,3 +205,75 @@ BIAS CHECK: This evaluation was produced by the same system that wrote the prose
 - Recount: no gesture class 3+ in any 500 words; em dashes 0; "the way [x]" 0; similes under 4/1k.
 - Gates: style_check clean; grammar_check 0 errors; voice_wear_check clean (strict); tic_report --gate clean (scratch copy Ch.1–16 at /tmp/claude-0/-home-user/925d8686-989e-5134-a9ef-2d597d7cac42/scratchpad/ed16/).
 - Not done here: Magic-ledger row for Viridia's earth-shaking ring in project/foundation.md (outside this edit's file scope).
+
+## Re-evaluation (round 2)
+**Evaluator:** book-evaluator | **Date:** 2026-10-20 | **Text:** revised `manuscript/chapter-16.md` (4,733 words of prose)
+
+### HEADLINE
+**CVI-Launch:** 9.1 | **CVI-Legacy:** 6.3 | **Genesis Floor:** 7.5 | **Genesis Average:** 8.3 | **Casual:** 8.5
+**VERDICT: POLISH (gate not met).** F1–F13 all landed: the librarian, no ring motive, no ring coda, no Ch.14 stillness, no perch or foot-swing, a single blush, "locked away", the POV fixed, the handhold restatement gone. The ledger row for the earth ring now exists in foundation.md (L290). On merit the chapter is 8.5. But the hand count still finds **five gesture windows at 3 or more in 500 words**. One of them was created by the F8 replacement. Characters therefore stays capped at 7.5. Separately, the chapter now ends on a third bedtime close in a row (Ch.14, Ch.15, Ch.16), with the outline hook (the pass) buried one paragraph from the end. Every fix below is a cut or a swap and adds no plot. With R1–R9 applied the chapter projects to Floor 8.5 / Casual 8.5, a PASS.
+
+### Gate tools (scratch: `/tmp/claude-0/-home-user/925d8686-989e-5134-a9ef-2d597d7cac42/scratchpad/re16/`)
+- voice_wear_check.py: clean (strict). tic_report.py --gate: clean (Ch.16: and-chains 2, negation pivots 0, no auto-recurrence). style_check: clean. grammar_check: 0 errors. Em dashes 0. "the way" 1.
+- The gate does not classify look, sit/settle or hand-hold. Those are counted by hand below.
+
+### Full gesture hand count (word offsets; window = any 500 words)
+| Class | Instances | Max/500w | Verdict |
+|---|---|---|---|
+| Smile/grin | @2693 "If a wolf could grin" (source) | 1 | clean |
+| Laugh | @3037 laughed; @3511 chuckled; @3670 She laughed (all source) | 2 | clean |
+| Blush | @473 "Lora went pink" ("cheeks red from the cold" is weather) | 1 | clean |
+| **Look (A)** | @1561 "silent, watching them"; @1664 "Bal eyed the crossbows"; @1686 "He let his eyes drop" | **3 in 125w** | **OVER: R1** |
+| Look | @2319 "He looked toward her voice" (source); @2526 "Bal took in all three" | 2 | ok |
+| **Look (B)** | @2526 "Bal took in all three"; @2865 "watching him"; @2958 "Lora glanced up" | **3 in 432w** | **OVER: R2** |
+| Look (Hopper) | @4635 "watching the forest"; @4654 "went on watching the trees" | 2 in 20w | an echo; fixed by R5 |
+| Sit/settle (week, road) | @130 sat them down; @1261 Hopper sat | 2 | ok |
+| **Sit/settle (the log)** | @2808 "pushed him down onto a fallen tree"/"Sit"; @~2880 "She came and took the space"; @3075 "Hopper … lay down beside the log" | **3 in 270w** | **OVER: R4** |
+| Sit (camp) | @3940 Lora sat straight up; @4111 Amelia sat across the fire | 2 | ok |
+| **Settle (bedtime)** | @~4590 "crawled into their bedrolls"; @4621 "Before he lay down"; @4628 "Hopper sat"; @4665 "slid into his bedroll" | **4 in 80w** | **OVER: R5** |
+| Freeze/stop | @381 "Lora stopped with her pencil in the air"; @3582 "She stopped"; @4448 "He stopped her there" | 1 | clean |
+| Eyes open/close | @1758 "Her lids drooped"; @4292 "her eyes shut, and opened again" (source) | 1 | clean |
+| Chest/heart touch | @2808 "both hands on his chest" (the other "heart" hits are the ring and "heart attack", nouns) | 1 | clean |
+| **Hand clasp/hold** | @2468 "holding it in both fists, much too tight"; @2483 "hands clasped together"; @2519 "her two hands were holding each other back"; @2942 "Bal reached over for her hand. Hers held on." | **4 in 475w** | **OVER: R3** (the F8 line restates the clasp) |
+| Hand hold (walk/bed) | @4143 held out his hand / took it; @4169 kept hold; @4671 hand found his; @4724 holding on | 2 | ok (source) |
+| Head tilt / nod / shrug | 0 | 0 | clean |
+
+### Source fidelity (L715–745)
+Every beat is present and in order, the same as round 1. The F2/F3 cuts leave the ring as the source has it: right hand, "the only real thing of note", and "bugging him and he didn't know why" (L268). Two remaining deviations: Bal's "you did good" to Hopper became "That was good work" (R6, dialogue rule), and "Terra sygl" became "Terra mage", which loses the palm logic in the next sentence (R8). Nothing invented and no new motive. POV stays clean on Bal.
+
+### Genesis Score
+| Dimension | Score | Evidence | Cap |
+|---|---|---|---|
+| Originality | 8.5 | "Whether it needed bigger nuts." "Well. I see where I rank." Viridia's report carries the source's other-POV lines. | |
+| Theme | 8.5 | "Do not interfere" / "I have to be able to protect myself" / "I feel useless", with no narrator statement | |
+| Characters | **7.5** | on merit 8.5 (Lora "Sit… And don't talk"; Amelia's restraint; Hopper choosing Amelia) | five gesture windows over (table) |
+| Prose & Voice | 8.5 | "It was cold first. Then it was very hot." "She had come one step off the road toward him and no farther, and her two hands were holding each other back." "Viridia was a lump with blue hair coming out of one end." #11: 3 (0.63/1k), under the cap. | |
+| Pacing | 8.0 | Speed variation excellent; Verin and the coda fixed | third consecutive bedtime ending (Ch.14 "climbed in beside", Ch.15 "He was asleep before…", Ch.16 "He fell asleep holding on to her."); outline hook "the pass at morning" not last: R7 |
+| Emotion | 8.5 | anchor: the hands holding each other back; "I feel useless"; Bal laughs when the pain goes | |
+| Engagement | 8.5 | hero takes the boss alone; goddess who cannot help | |
+| **FLOOR / AVG** | **7.5 / 8.3** | | |
+
+CVI-Launch: unchanged at 9.1. CVI-Legacy: 6.3. Anti-AI: 6 patterns, all minor (#1, #3, #8, #11, #14 canon, plus narration "seemed" ×4 as a filter-word drift). Clean band.
+
+### Reader reports (delta)
+- **Devourer:** fast. They notice the ending fizzles into sleep again.
+- **Critic:** underlines the hands line. Notices the "clasped… holding each other back" doubling, "hard work / good work" in back-to-back sentences, and the "still … still … still" run at the firewood.
+- **Hostile:** "Terra mage". Why a mage, when the next sentence is about palms?
+- **Casual:** keeps reading (8.5). No vibes problem.
+
+### Remaining fixes (ALL; surgical; no plot)
+| # | Location | Now | Revision |
+|---|---|---|---|
+| R1 | L118 | "Bal eyed the crossbows. Two bolts would cross…" | → "The crossbows were the problem. Two bolts would cross…" |
+| R2 | L206 | "Amelia was standing off from the rest of them, watching him." | → "Amelia was standing off from the rest of them." |
+| R3 | L176–178 | "Viridia had her spear back and was holding it in both fists, much too tight. Next to Lora stood Amelia, with her hands clasped together in front of her as if somebody had asked her to wait there and she was waiting." | → "Viridia had her spear back and was up on her toes. Next to Lora stood Amelia." (keep "She had come one step off the road… holding each other back." This also removes one #11 instance.) |
+| R4 | L230 | "Hopper came down from the trees and lay down beside the log." | → "Hopper came down from the trees to the log." |
+| R5 | L352–358 | "Before he lay down he went to where Hopper sat at the edge of the light, watching the forest." / "Hopper chuffed at him, once, and went on watching the trees." / "That seemed to settle it." | → "Before turning in he went to Hopper at the edge of the light, where she was watching the forest." / "Hopper chuffed at him, once." / "That settled it." |
+| R6 | L232 | "Thanks," he told her. "That was good work." | → "Thanks," he told her. "You did good." (author's line; also kills the "hard work"/"good work" echo) |
+| R7 | L358–362 | ends "…Amelia's hand found his under the blankets, cool as the night was." / mountains paragraph / "He fell asleep holding on to her." | → "…cool as the night was, and he held on to it." Then end on the mountains paragraph ("…They would be in it an hour after first light. The woods were beyond it."). Cut "He fell asleep holding on to her." |
+| R8 | L126 | "Bal hoped none of the seven was a Terra mage." | → "Bal hoped none of the seven had a terra sygl." (source; sets up the palm sentence) |
+| R9 | L264, L70 | "because his shirt was still a rag" (3 "still" in 213w with L268, L278) / "and seemed to decide that they would do" | → "because his shirt was a rag" / "and decided that they would do" |
+
+**PATH TO 8.5:** Characters 7.5 → 8.5 = R1–R5 (clears every gesture window; recount after). Pacing 8.0 → 8.5 = R7 (the hook goes last and the bedtime-ending run breaks). R6, R8 and R9 are fidelity and polish. With all nine: Floor 8.5, Average 8.5, Casual 8.5 → **PASS**.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
