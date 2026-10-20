@@ -1554,3 +1554,48 @@ The auto-resolution pass found that no other open flag is touched (CH11-4 rechec
 - **The lens cap** is gone and the filter ring is dented. voice-bank sample-13's "I put the cap back on the lens" is now impossible (audit I-14).
 - **The watch** has no touch until Ch.18 (audit I-13).
 - **The allowlisted phrase** "the seventh of Bysios" is at 1 of 3.
+
+## 2026-10-20: UPDATE (re-sync of chapter 12 after polish cycle 1 and finalize F1/F2)
+
+- **Input:** `git diff 4e9d889 HEAD -- manuscript/chapters/chapter-12.md` (commits 601fd5c, 2b91fa6). chapter-12.md was last written 05:17:56 (md5 38895374…). It still has 182 paragraphs, with the breaks after p59 and p114. A paragraph diff shows nothing added, cut, split or merged, so **no ch-12:pYY is renumbered**. Text changed inside p2, p11, p22, p27, p28, p45, p55, p57-p59, p62, p65, p67, p73, p74, p77, p78, p84, p90, p96, p103, p112, p126, p130, p132, p148, p160, p171 and p172.
+- **Method:** a word 3-gram and 4-gram diff (old page against new page) found every ENTITY line that carried cut wording. 65 lines were corrected. All 35 new quotes were machine-checked against the paragraphs they cite.
+- **Removed as page facts** (cut from the page):
+  - "The glass was whole." and "no filter would screw onto it now";
+  - "The flashlight could take its chances.";
+  - the cap's reason clause ("a black disc … off any boat");
+  - "A copy came up here after the snow, with the oil carts.";
+  - the rod-slaves line ("Inside the precinct there's a slave every few paces with a rod.");
+  - "Praxias's drachma";
+  - "and the talker's knife" at p45;
+  - "so that she would carry level" and "His hands were sure at it.";
+  - "the way a man asks a price";
+  - "When the god's day is done,".
+- **Corrected to the page:**
+  - "It caught him above the ear.";
+  - "My himation came tight across my throat from behind.";
+  - "The camera was still in my arms.";
+  - the graze ("with grit in it");
+  - the pool ("a clear pool over pale gravel");
+  - the cloak ("darned at the hem with green thread");
+  - "and it stung.";
+  - "The cold had my feet again.";
+  - "I saw it too.";
+  - "A knife in the precinct would have a hundred men on it.";
+  - "The goat comes to the yard the evening before.";
+  - "When it's over,";
+  - Felix's "I hit him over the head" (F2).
+- **The talker's knife:** now acquired at p35 only ("There was a knife in his hand, and it was not his own."). `the-talker` keeps its slug, but its canonical_name now says the page never uses "the talker". The narration has "The man", "the man with the knife", "the dead man's" and "the stranger's knife".
+- **Lens cap:** the clause now ends "where I meant it to stay" (p78), and no reason is given. "face up" survives only at p30.
+- **Glass:** the page no longer says the glass is unbroken. What it does say: "The ring at the front of the lens had taken the blow and was pushed in at one point. In the finder the plane trees stood upright and in focus." (p77) and "Only the rim is bent." (p80). `fathers-pentax-k1000.physical_ch12` records that whether the glass is whole is not stated.
+- **CH11-3 (RESOLVED, mirrored):** the purse now covers the cake "with plenty over" ("This would, with plenty over.", p132). Praxias's drachma is no longer named, so how he is paid is implied, not stated. No figure clashes, so the resolution stands.
+- **CH12-1 (UNRESOLVED, widened):** the bible, still last written 03:57, also quotes these cut lines:
+  - l.244, l.247, l.249, l.253-254, l.257;
+  - l.259 and l.2904;
+  - l.547, l.566-567, l.571-573, l.967.
+
+  The eval named three stale strings ("Was it one blow" / "People do, mostly" / "gets told"). They sit on the two CH12-1 lines (`plan`, `note`), and those lines record the bible, not the page. They are kept, because the bible still carries them, and are now explicitly labelled bible-only. One correction: "He had his robbers…" was on the post-disruptor page and was cut by the repair, so it is not a wording "the page never used".
+- **CH12-9 (UNRESOLVED, narrowed):** Ch.12 no longer says how the copy reached Delphi. Ch.9's carts stand alone (ch-09:p186), and that departure from the outline is gone.
+- **Meta:** `meta.revalidation_needed` has a Ch.12 row (RESOLVED). `paragraph_rule`, `last_updated_by`, `mode`, `source` and the header comment are extended. `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+- **No new contradiction and no knowledge_gap.** For Ch.13 onward:
+  - do not rely on "the glass was whole", a filter, the flashlight's Ch.12 position, the rod-slaves or "the god's day" as Ch.12 page facts;
+  - the page does not itemize the dead man's silver.
