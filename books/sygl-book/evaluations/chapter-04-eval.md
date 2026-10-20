@@ -227,3 +227,26 @@ The man in the frame with his collar buttoned to the top, and "They can't do it 
 **PASS.** Floor 8.5, Average 8.5, Casual 8.5. Two optional dialogue smoothings are listed above (non-blocking).
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+## Re-check after dialogue polish
+**Evaluator:** book-evaluator | **Date:** 2026-10-20 | Scope: the 26 ch.4 line changes in `evaluations/dialogue-polish-ch01-04.md`, checked against source (Sygl_Complete.txt L164–257).
+
+### Fidelity (meaning / speaker / placement)
+All 26 changes keep meaning, speaker and position. None adds information.
+- **Mrs. Brown** (#3, 4, 5, 6, 8, 10, 11, 12, 13): contractions and active voice ("The school provides supplies for first years", "His sygl showed the day he was born") make her brisker without losing the strictness. The warmth stays in the narration around the frame. Canon holds: "It was blood." (L109) and "I'll send Pierre for you in the morning." (L131).
+- **Amelia** (#7, 9, 14–25 hers, 26): more confident and spoken. "when most people want them dead" is a fair restatement of "want to kill them". "they keep the inherited gifts" keeps the meaning of "don't lose", and the consent line is untouched. #26 ("I've heard all about this cook of yours") polishes a writer addition, not source.
+- **Bal** (#1, 2, 15, 16): he sounds like a plain 16-year-old. In #1 the summary is now split into short spoken sentences. "come across that spell" removes the found/found echo.
+- **Protected lines intact:** "Well then.", "half measures", "They can't do it again.", "overachiever, huh?"
+
+### Register / tics
+American throughout ("crazy" and "angry" replace "mad" and "cross" in ch.2; nothing British left in ch.4). `voice_wear_check.py` is clean (strict). `tic_report.py --gate` is clean: no auto-recurrence, ch.4 gesture classes at 2 or fewer, negation pivots 0.
+
+### Findings (non-blocking)
+- #12, L131: "until familiars come up in their classes" puts familiar/familiars in one sentence. Optional fix: "until they cover them in class."
+- #26, L211: "heard all about" checks out. Her ravens told her the cook burns the porridge (ch.3 L121). No change needed.
+
+### Score
+No dimension moves down. The prior suggested smoothings (a) and (b) are now applied in substance, which helps the Prose and Characters scores.
+**Floor 8.5 | Average 8.5 | Casual 8.5 → PASS (held).**
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

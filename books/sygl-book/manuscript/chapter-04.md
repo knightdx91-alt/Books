@@ -128,7 +128,7 @@ Bal looked into her eyes. They were very red and very steady, and none of the te
 
 "So what do I need to do?" he asked Mrs. Brown. The words came out rougher than he meant them to, and he cleared his throat.
 
-"Nothing, except pack the few things you want to take with you," Mrs. Brown said. "I need to reach out to the school, so you'll probably leave here in the morning." She looked at them both, and at their joined hands, and her eyebrows went up a fraction. "The fact that you have a familiar, not to mention that it's your own originator, will cause a stir as well. Most students don't get a familiar until familiars come up in their classes. I'll let the school know you have one, but I'll leave the details out." She glanced down at her letter, which in that office meant you were finished. "For now, it's best you run along and pack. I'll send Pierre for you in the morning."
+"Nothing, except pack the few things you want to take with you," Mrs. Brown said. "I need to reach out to the school, so you'll probably leave here in the morning." She looked at them both, and at their joined hands, and her eyebrows went up a fraction. "The fact that you have a familiar, not to mention that it's your own originator, will cause a stir as well. Most students don't get a familiar until they cover them in class. I'll let the school know you have one, but I'll leave the details out." She glanced down at her letter, which in that office meant you were finished. "For now, it's best you run along and pack. I'll send Pierre for you in the morning."
 
 ---
 
