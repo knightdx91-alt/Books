@@ -175,6 +175,8 @@ more," said once, as the source has it). **Physicality:** the rapier as an exten
 **Tic line:** none — distinguished by worldview and syntax.
 
 ### Secondary characters (source facts only; no invented habits)
+- **Pierre:** another orphan at Saint Andre's who sometimes helps Mrs. Brown; wakes Bal on the morning he
+  leaves (author decision 2026-10-20). A walk-on; nothing beyond what the source supports.
 - **Mrs. Sarah Brown:** forties, grey skirt, white blouse, bun; strict, and the adult Bal goes to; one photo
   on a bare desk. Her husband's late affinity was **Blood**; the factory fired him so as not to be "seen as a
   blood mage supporter"; he was shot coming home from work; she has suspicions. Dry humour ("You just don't do
