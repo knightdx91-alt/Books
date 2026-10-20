@@ -170,7 +170,7 @@ Amelia thought it over.
 
 The people she meant were somewhere back on his own side of the world. Grown-ups with red marks in their palms, keeping their left hands in their pockets at work. Some of them would have been told she was a myth their whole lives. Tomorrow somebody was going to open a door and find her standing there.
 
-"Speaking of classes, though," Amelia said, unfolding herself from the couch, "you need to get some sleep, Master. A loud bell will wake you when it's time to get up."
+"Speaking of classes, though," Amelia said, unfolding herself from the couch, "you need to get some sleep. A loud bell will wake you when it's time to get up."
 
 "How loud?"
 

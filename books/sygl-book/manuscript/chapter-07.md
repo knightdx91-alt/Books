@@ -268,7 +268,7 @@ Amelia's mouth twitched first. Then she put her head back and laughed, loud enou
 
 She swallowed the last bite of her pizza and slid out from the bench.
 
-"I'll be in the dorm when you're done hanging out, Master, and we can go over the stuff we didn't get to earlier. Have fun, you two!"
+"I'll be in the dorm when you're done hanging out, and we can go over the stuff we didn't get to earlier. Have fun, you two!"
 
 There was a soft pop, and Amelia's place on the bench was empty.
 

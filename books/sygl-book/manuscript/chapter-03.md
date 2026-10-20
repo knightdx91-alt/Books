@@ -78,7 +78,7 @@ She stood up and brushed off her knees where she had knelt on the stone. Bal lin
 
 Amelia took him by both hands, the old one and the new one, and hauled him to his feet. She kept hold of the new one and set off across the hall toward the doors, towing him along behind her, explaining as she went.
 
-"The door is only locked one way," she said. "From the outside, it won't open for anyone. From the inside, it opens for anyone at all. Even if we hadn't bonded, you could have walked right on out whenever you liked." She glanced back at him over her shoulder. "Me, on the other hand? I'd still have been stuck in here. The only reason I get to go out now is because I'm your familiar." She squeezed his fingers. "Where you go, I go. That's what it means, Master."
+"The door is only locked one way," she said. "From the outside, it won't open for anyone. From the inside, it opens for anyone at all. Even if we hadn't bonded, you could have walked right on out whenever you liked." She glanced back at him over her shoulder. "Me, on the other hand? I'd still have been stuck in here. The only reason I get to go out now is because I'm your familiar." She squeezed his fingers. "Where you go, I go. That's what it means."
 
 She said the word lightly, with a sidelong look to see how he would take it. Bal didn't know how to take it. He settled for turning pink, which seemed to satisfy her.
 
@@ -108,7 +108,7 @@ The grass between the flagstones was warm and springy underfoot, and the air sme
 
 "Mostly it smells of cabbage," Bal said. "The beds are right there."
 
-"Then I'd forgotten how much I liked cabbage." She tugged his hand. "Show me everything."
+"Then I'd forgotten how much I liked cabbage." She was already walking. "Show me everything."
 
 Amelia walked slowly, looking at everything. She ran her free hand along the rough brick of the orphanage as they passed it. She stopped dead to watch a car go by out on the main road, far off at the end of the lane, and followed it with her eyes until it was gone.
 

@@ -54,10 +54,8 @@ Distinguish characters on **four axes** first:
 1. **"Master."** Amelia may call Bal "Master." It is a familiar's title for her bonded mage, a form of
    address and **not a tic**. Use it **sparingly**: where the source uses it ("You called, Master?" and
    "Okay, master!" in Ch.9; "Of course, Master" at the chalice in Ch.28) or where the familiar
-   relationship makes it natural. Never build a joke on repeating it. **Status after Ch.10:** Amelia has
-   said it in Ch.3, 4, 7, 8 and 9 (three times in Ch.9's source scene), so it is already at the edge of
-   reading as a refrain. Going forward: the Ch.28 source use, plus at most a rare natural one, never in
-   consecutive chapters, never twice in a scene outside the source. Nobody else uses it as address
+   relationship makes it natural. Never build a joke on repeating it. **Status (author ruling 2026-10-20):** source uses only — Ch.9's three, Viridia's Ch.10 line about it, and the
+   Ch.28 "Of course, Master." The invented uses in Ch.3, 4, 7 and 8 were removed. Nobody else uses it as address
    (classmates quoting it with scorn, as in Ch.10, is reported speech, not usage).
 2. **The stuck-out tongue happens once each, as the source has them, never again:** Amelia (Ch.5, the
    bench: "Who else is going to teach you blood magic?") and Viridia (Ch.7, answering the hair joke).
@@ -81,10 +79,10 @@ Distinguish characters on **four axes** first:
 - **Spent comic/staging beats:** Viridia choking on food (Ch.7 pizza) — her Ch.12 cough on her drink
   must be staged differently; "Amelia laughed, delighted, and" (cross-chapter repeat, removed); Lora's
   stammered "L-Lora" (Ch.10, once).
-- **Shared-device collisions already on the page (do not extend):** *towing Bal by the hand or sleeve*
-  (Amelia Ch.3 and Ch.4; Viridia Ch.7, both source-rooted) — spent for both; *hair tucked behind an ear*
-  (Amelia, Ch.4) — when Lora's source beat arrives (Ch.13, p.67), render her nerves another way or let
-  that be the gesture's last use; *finger-snap* (Amelia, often in the source; Aren once, p.126 and
+- **Shared gestures resolved (author ruling 2026-10-20: no two characters share a gesture):** *pulling Bal
+  along by the hand or sleeve* belongs to **Viridia** (Ch.7, source); Amelia's Ch.3–4 versions were varied.
+  *Hair tucked behind an ear* belongs to **Lora** (her source beat, Ch.13); Amelia's Ch.4 use was removed.
+  *finger-snap* (Amelia, often in the source; Aren once, p.126 and
   p.182–183) — vary the rendering every time (pop, a blink, the cushion puffing back up) so no snap
   becomes a signature.
 - **"my girls" / "his girls"** — at risk. Bal's spoken "my girls" belongs to its source lines only (the
@@ -240,7 +238,7 @@ Distinguish characters on **four axes** first:
 - **Physicality / silence:** the rapier as an extension of her (sets her feet and starts an exercise
   without a word, Ch.10); glasses sliding as she works; going white when frightened for someone (Ch.25,
   source); a hand on someone's cheek or hand to steady them (Viridia, Ch.26; Bal, Ch.26 — source).
-  Stammer "L-Lora": spent (Ch.10). Hair behind the ear: see the collision note above.
+  Stammer "L-Lora": spent (Ch.10). Hair behind the ear: hers (her source beat, Ch.13); no one else uses it.
 - **Verbal tic:** none — distinguished by worldview (craft) + the hedged-to-fluent register switch.
 - **DISTINCTNESS GUARANTEE:** the only voice that hedges with people and turns exact and bossy the
   moment the subject is a blade, a potion or a plan, against Viridia, who is blunt everywhere and never
@@ -787,9 +785,9 @@ narrator-bleed risk: Bal's domestic irrelevant thoughts and plain jokes stay wit
 
 ## Source discrepancies noted while seeding (resolved by canon; Writer follows the resolution)
 
-- Blood whip "from the palm of his right hand" (p.115): canon puts the sygl on the **left** palm; blood
-  magic can be worked with either hand (Ch.27 has dagger left, whip right). Render the Ch.20 whip without
-  contradicting the left-palm sygl.
+- Blood whip "from the palm of his right hand" (p.115): **author ruling 2026-10-20 — keep the RIGHT palm.**
+  Blood magic need not come from the sygl hand (the sygl is on the regrown left palm); Ch.27 has dagger left,
+  whip right.
 - Hopper is "his" once (p.92); she is female everywhere else.
 - Thad: black hair (p.~62) but "brown stubble" (p.129). Keep black; render the stubble without colour.
 - "Aleric … motioning for Aleric to refill" (p.157): Leon pours.

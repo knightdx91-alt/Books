@@ -54,6 +54,11 @@ books/sygl-book/
   familiar to her bonded mage — where the source uses it or the relationship makes it natural. All other
   catchphrase/tic allowances are gone.
 - **Dialogue:** Author's dialogue is the BASE, not sacred text (author, 2026-10-20: "my dialogue might not be exactly right"). Keep what each line says, who says it, and where it falls, plus the memorable lines (e.g. "They have made me a myth?!", "Because it's magic", the binding vows, "No one threatens my girls"). Freely fix grammar, stiff or awkward phrasing, and anything that doesn't sound natural spoken aloud. Do not change meaning, add information, or give a line to someone else.
+- **Master** stays rare (source uses only). **Blood whip from the RIGHT palm.** No two characters share a
+  gesture (hand/sleeve pull = Viridia; hair behind the ear = Lora). Fix the source's small slips silently.
+- **Spell repetition watch:** the source has few blood spells (the whip above all). Never invent spells;
+  when one spell starts carrying too much of the action, FLAG it to the author to discuss. Ledger:
+  `project/foundation.md` → Magic ledger.
 - Fade-to-black. Keep separate from the-fourfold-crown.
 
 ## Open author decisions (ask, don't invent)
