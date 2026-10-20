@@ -14,7 +14,7 @@ That was what everyone called it, though nobody could say for certain what it wa
 
 Balthazaar idly rubbed the stump of his left wrist as he looked across at the mausoleum roof.
 
-It itched. For some reason the stump always itched when he thought about getting inside that building, which was odd enough that he'd stopped mentioning it to anyone. The skin at the end of his arm was pale and long healed, and most days he forgot about it entirely. Then he'd catch sight of those carvings and start wondering, and the itch would start up again.
+It itched. For some reason the stump always itched when he thought about getting inside that building, which was odd enough that he'd stopped mentioning it to anyone. The skin at the end of his arm was pale and long healed, and most days he forgot about it entirely. Then he'd catch sight of those carvings and start wondering, and the itch would come back.
 
 Balthazaar, or Bal to his friends, could not remember ever having a left hand. He had come to Saint Andre's as a baby, and the stump had come with him. Growing up, he'd watched the other children get their sygls. A sygl appeared in the palm sometime in childhood, often overnight, and whoever woke up with one spent the next week holding it out for everyone to admire. Green spirals, blue ripples. Kids compared them at breakfast and argued over whose glowed brightest after dark. Bal had watched all of it, and even when he was small he'd understood that he would never have one of his own. A sygl came up in the left palm, and he didn't have a left palm.
 
@@ -48,7 +48,7 @@ He'd gone through a fair number of ideas before settling on one. A rope charmed 
 
 A month ago he wouldn't have had the spell. Then Fredrick left.
 
-Fredrick had been at Saint Andre's nearly as long as Bal had. He was a year older, tall and all elbows, with a terra sygl on his left palm. The two of them had shared a bench at lessons, and a hiding spot behind the boiler, and more than a few nights of whispering across the dark of the dormitory about what they'd do when they were grown. At the start of the summer, the letter had come from one of the Sygldry schools of magykal arts, and the whole orphanage had turned out on the front steps to see Fredrick off.
+Fredrick had been at Saint Andre's nearly as long as Bal had. He was a year older, tall and all elbows, with a terra sygl on his left palm. The two of them had shared a bench at lessons,, and more than a few nights of whispering across the dark of the dormitory about what they'd do when they were grown. At the start of the summer, the letter had come from one of the Sygldry schools of magykal arts, and the whole orphanage had turned out on the front steps to see Fredrick off.
 
 The night before he went, he'd come up to the dormitory with a stack of beginner spell books tied together with garden string and dropped them on the end of Bal's bed.
 
@@ -114,7 +114,7 @@ Bal got to his feet.
 
 "Locos cantis," he murmured as he stepped off the carpet.
 
-The spell let go. The now inert rug dropped the last inch to the floor and lay there, an ordinary bedside rug again, looking small and shabby against all that pale stone. He'd have to remember to take it back with him. The matrons would notice it was gone eventually.
+The spell let go. The now inert rug dropped the last inch to the floor and lay there, an ordinary bedside rug again, looking small and shabby against all that bare floor. He'd have to remember to take it back with him. The matrons would notice it was gone eventually.
 
 He turned slowly on the spot, taking it all in.
 

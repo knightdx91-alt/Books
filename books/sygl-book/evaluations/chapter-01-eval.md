@@ -167,3 +167,53 @@ BIAS CHECK: This evaluation was produced by the same system that wrote the prose
 - Repetition thinned (warm 7→2, steady 5→2, smooth 5→0, slate 9→4); triplets broken at sygl colors, book list, braziers' light; "A knot. A cork in a bottle." cut; floor "flagstones/paving" removed; And-openers cut.
 - American register: torch→flashlight, trousers→pants.
 - Gates: style, grammar, voice_wear, tic_report --gate all clean (scratch layout). 3,206 words; em-dashes 0; "the way" 1.
+
+## Re-evaluation (round 2)
+**Evaluator:** book-evaluator | **Date:** 2026-10-20
+**Text:** revised `manuscript/chapter-01.md` (3,204 words). Source span L4–L14. Same lens: commercial fantasy, faithful revise/expand, light/warm/playful, American register.
+
+### HEADLINE
+**CVI-Launch:** 8.2 | **CVI-Legacy:** 6.2 | **Genesis Floor:** 8.5 | **Genesis Average:** 8.5 | **Casual:** 8.5
+**Verdict: PASS** (Floor 8.5, Casual 8.5). Marginal on Prose; see the non-blocking polish list.
+
+### Mechanical gates (rerun by evaluator)
+- `style_check.py --dir manuscript`: clean (Ch.1 simile 0.6/1k, adverb 9.7/1k, em dash 0).
+- `grammar_check.py`: 0 errors.
+- `tic_report.py --gate` (scratch layout, Ch.1–3): **clean**. Ch.1 gestures: look away/down 2, swallow 1, breath 1; all under cap 4. Auto-recurrence none; negation pivots 0.
+- `voice_wear_check.py` (scratch): clean (warn only: chapters not in pov-map.txt).
+- Repetition: warm 2, slate 4, steady 2, nobody 4, smooth 0, "the way" 1. Sentence-initial "And" 0. "sigil" 0.
+
+### Round-1 fixes verified
+All applied as specified: source hook in sentences 2–3 ("off limits… a boy fell from it… and died"); rolled rug on page 1; architecture/door catalogue trimmed; left-palm logic; "because… arm" clause cut; "barely used" gone ("old but a good lot"); humming quirk cut; "handed more" cut; "missed him already" → "The garden string was still on the end of his bed."; stock breath line → "Bal breathed out."; L109 recovery minute and "legs were shaky" cut; flagstones/paving gone; flashlight/pants.
+
+### Genesis Score
+| Dimension | R1 | R2 | Evidence |
+|---|---|---|---|
+| Originality | 8.0 | 8.5 | Commercial profile: execution-level originality on a familiar frame is the standard. The bedside rug (not a magic carpet) now present from page 1 and paid off in "held up by a bedside rug and a second-year spell" (now the paragraph's last line); stump-as-channel hope; roof solid outside, absent inside. R1's cap reasons (orphan frame, Latinate spells) are source canon and genre features, so they no longer hold the score. |
+| Theme | 8.0 | 8.5 | Virtue label cut; theme now carried by action and object: "find his own way of doing things" (source) → "It was silly, and he knew it was silly. It was still something to hope for." Texture plentiful (pigeons, laundry leak, cabbages, tin cups). |
+| Characters | 8.0 | 8.5 | Invented quirk gone. Chaos now partly inhabited, not reported: the brown apple; "he did not look down, and then he did look down… and decided that had been a mistake"; "wished he'd brought a better plan than two cheese sandwiches". Fredrick has his own moment ("I could. I'm not going to."). Commercial chaos 3/4. Cover-the-name passes for the two speakers. No tics. |
+| Prose & Voice | 8.0 | 8.5 | Cliché removed; repetition clusters thinned. Underlines: "become the second story the staff told about the roof"; "Bal had sat there with the apple halfway to his mouth until it went brown."; "He was inside it, high in the air above a stone floor, held up by a bedside rug and a second-year spell." Voice shifts under pressure (flight polysyndeton → "He got hold of himself. Lower, he told the carpet. Slowly."). Plain, warm, American. Marginal: triplet rhythm is still the densest pattern (see scan). |
+| Pacing | 7.5 | 8.5 | The first stakes signal arrives in about 60 words (the dead boy), with the rug in view by about 120. The "something that could kill him" line arrives near word 650, down from about 1,100. The flashback is source-shaped and short. The end hook ("Hello?") is unchanged and strong. |
+| Emotion | 8.0 | 8.5 | The farewell is now carried by an object (the garden string). Anchors: the rug hanging "a few inches before it stopped and hung there"; sinking through a roof that isn't there. Body rebel: "he laughed, a short surprised sound". Surprise: gallows humor at the moment of danger. |
+| Dim 7 Discovery | 7.5 | 8.5 | Bookstore browse: BUY (away from everyone / no one comes up / a boy died here: three questions in three sentences, all source). Amazon page: BUY. BookTok: SHAREABLE. |
+
+### Anti-AI scan (commercial: clean 0–8, watch 9–11)
+Present: #1 minor (nobody to stop him / nobody to see him fall); **#3 strong (~5; 1.6/1k)**: "kept well back…, watched…, and figured" (L5), "a bench…, a hiding spot…, and… nights" (Fredrick para), "checked the sky…, the lawn…, the attic hatch" (L75), "borrowed…, carried…, explained" (L43), the flicker fragments (earned); #8 minor ("had sounded clever until" ×2, deliberate comic); #10 minor ("less comforting than he'd hoped"); #13 minor (page eighty-one; exactly one; a hundred times); #14 minor (one beat only now); #17 minor (Fredrick exchange); #19 source shape; #20 minor (heart L69, stomach L97). **9 present: low WATCH**, and all but #3 are now minor (R1: 11). Down from WATCH-heavy.
+
+### Source fidelity
+Every source beat L4–L14 is present in source order, apart from one sanctioned move (the off-limits/dead-boy sentence moved above "fairly flat", as R1 asked). The dialogue and spell words are verbatim, and the chapter ends on "Hello?". The Fredrick texture (bench, boiler, terra sygl) is harmless detail with no new plot, motive or quirk. Tone is light. POV: Bal only, past tense. Spelling: sygl, mausoleum.
+
+### Four readers
+Devourer: hooked by the third sentence, no skim zone, flies through from the rug onward. Critic: underlines the apple, "second story", "bedside rug and a second-year spell"; notices the triplet habit. Hostile: the floor is "solid concrete" but also "pale stone" ×2; "start wondering… start up again" (itch paragraph). Casual (8.5): likes Bal on page 1, wants the voice explained, buys.
+
+### Tomorrow Test
+The rug hanging a few inches off the slates, then sinking through a roof that isn't there; "Because it's magic." Type: BOTH. ANCHOR EXISTS.
+
+### Non-blocking polish (optional, quoted)
+1. Itch paragraph: "start wondering, and the itch would start up again" → "start wondering, and the itch would come back."
+2. Break one comic triplet. Fredrick paragraph: "shared a bench at lessons, and a hiding spot behind the boiler, and more than a few nights of whispering" → "shared a bench at lessons and more than a few nights of whispering".
+3. Floor material: "against all that pale stone" → "against all that bare floor" (keeps source "solid concrete" uncontested).
+4. American spelling: "grey" ×2 → "gray" (source uses "grey"; author's call).
+5. Housekeeping: outline Ch.1 header "L4–12" → "L4–14"; add chapters 1–3 to pov-map.txt.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

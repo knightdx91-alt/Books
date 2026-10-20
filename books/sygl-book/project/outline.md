@@ -41,7 +41,7 @@ coda · 10 told tale over lunch → training ground · 11 chain of revelations a
 ## PART ONE — THE TEMPLE AND THE ORPHANAGE
 
 ## Chapter 1: The Roof and the Flicker  *(drafted; being rewritten toward source, pending re-gate)*
-**Source:** [pp.~1–4] L4–12.
+**Source:** [pp.~1–4] L4–14.
 **Scenes:** the orphanage roof and the mausoleum behind it (the boy who fell; off-limits); Bal's
 stump that itches when he thinks of the mausoleum; no hand, so no sygl, though he can still do
 magic (other orphans can do none at all); the flicker that showed a temple and a statue; the plan
