@@ -1,13 +1,11 @@
 # Chapter 13: The Seventh of Bysios
 
 <!-- SCENE BUDGET (Target 8,000; range 7,500-8,500): A1 the spring before light, Kallia given the whole of it; the terrace; the Pythia led up; Praxias paid; the pills refused; the goat drenched until she shakes 2,250 | B1 Kallia's court, afternoon: the names at the door, Felix in the god's book, the porch, the inside as a bodyguard saw it, Pindar's chair, the voice described, the word he did not keep, the question he would not put 1,800 | A2 the terrace, the long wait among the women, the first hour home imagined, the bowl, the ears, Felix and the bandaged head, Valens out and silent, the answer decided wrong 1,700 | B2 the answer said once, standing; the priest's Syracuse; the dead inside the town; Capua; which mountain; the middle he cannot start from; "There's floor" 1,650 | B3/A3 the jug boy at the gate; the street; Theano, knees and crows and the stool; the pills; the hour refused; the town 1,850 -->
-<!-- Word count: 7,587 (shape_check; post disruptor) | Target: 8,000 (range 7,500-8,500) | Dialogue 37.8% (band 35-45) | Breaks 4 | Median sentence 14 (gear mid) | Hand/chin-on-knee 2 | Bare "No." 1 (Valens) | Echoes 0 | Gates clean | Anchor: Valens on his feet in Kallia's court giving back the god's answer whole, and unable to take it up again from the middle -->
+<!-- Word count: 7,541 (shape_check; post continuity repair, audit C-01 + W-01..W-20, 2026-10-20) | Target: 8,000 (range 7,500-8,500) | Dialogue 37.9% (band 35-45) | Breaks 4 | Median sentence 14 (gear mid) | Hand/chin-on-knee 2 | Bare "No." 1 (Valens) | Echoes 0 | Gates clean | Anchor: Valens on his feet in Kallia's court giving back the god's answer whole, and unable to take it up again from the middle -->
 
-The morning on which Apollo would first answer anybody that year came in under a frost so hard that Kallia's jars rang on the paving at the spring, and the water from the lion-head spouts smoked in the dark.
+The morning on which Apollo would first answer anybody that year came in under a frost so hard that Kallia's jars rang on the paving at the spring, and the water from the lion-head spouts smoked in the dark. The priests were higher up, at the rock basin, and they were more noise than shape: water slapped onto bare skin, a man praying through his teeth, and another man telling him the god had heard enough and to get his tunic on before he froze in it, while a torch went along above them and stopped. Down at the lions it was Kallia and me, and the cold, and the long noise of the water.
 
-The priests were higher up, at the rock basin, and they were more noise than shape: water slapped onto bare skin, a man praying through his teeth, and another man telling him the god had heard enough and to get his tunic on before he froze in it, while a torch went along above them and stopped. Down at the lions it was Kallia and me, and the cold, and the long noise of the water.
-
-I had not had her to myself in three days. Since the road the house had been full to the eaves. Thessalians slept in the court in their cloaks with their feet to the ashes, an Achaean snored a yard from my mat, and every hour of daylight had somebody in it who wanted bread, or hot water, or the way to the stadium. The donkey man's story had reached Kallia the morning following, through this spout: a stranger robbed and dead under the terraces, and Valens's string come on him with the oil. She had heard it out, and kept it to herself, and gone on with the pots.
+I had not had her to myself in three days. All that week the house had been full to the eaves. Thessalians slept in the court in their cloaks with their feet to the ashes, an Achaean snored a yard from my mat, and every hour of daylight had somebody in it who wanted bread, or hot water, or the way to the stadium. The donkey man's story had reached Kallia the morning following, through this spout: a stranger robbed and dead under the terraces, and Valens's string come on him with the oil. She had heard it out, and kept it to herself, and gone on with the pots.
 
 I held the first jar to the spout, and while it filled I told her the rest.
 
@@ -23,7 +21,7 @@ Kallia filled her own jar at the lion beside mine while I talked. Halfway throug
 
 I got my own jar up and went after her. The lane was still black, and the frost on every wall-top had caught what little gray there was in the sky, so that we walked home between two white lines.
 
-"The floors will keep," she said, at our own gate. "Go up once it's day. Be home ahead of the Thessalians, or you'll be on the stair all afternoon with their dinners."
+"The floors will keep," she said, at our own gate. "Go up once it's day. Be home ahead of the Thessalians, or you'll be on the stair half the night with their dinners."
 
 By the time the sun was on the cliffs the Sacred Way was solid with men.
 
@@ -47,11 +45,11 @@ The Elateian wore his laurel on top of ears like two folded pancakes, and was pr
 
 "After," I said.
 
-The cakes were sold at a stall below the altar, honey and meal, each pressed flat and stamped, on trays with a laurel leaf burned into the wood of the rim so that nobody should take the god's cakes for anybody else's. Valens stood below the altar steps with Praxias and a cake. He had a wreath on too, and the leaves sat on his cropped head like something another man had put there for a bet. The scrape on his cheekbone had crusted brown. On his left forearm, where the olive stick had landed, the welt had spread into a bruise that was purple at its heart and yellow toward the elbow, and that hand's knuckles had scabbed over, all four. He held his shoulders carefully, all of a piece, and when he wanted to see behind him he brought his whole body round, hips and all.
+The cakes were sold at a stall below the altar, honey and meal, each pressed flat and stamped, on trays with a laurel leaf burned into the wood of the rim so that nobody should take the god's cakes for anybody else's. Valens stood below the altar steps with Praxias and a cake. He had a wreath on too, and the leaves sat on his cropped head like something another man had put there while he slept. The scrape on his cheekbone had crusted brown. On his left forearm, where the olive stick had landed, the welt had spread into a bruise that was purple at its heart and yellow toward the elbow, and that hand's knuckles had scabbed over, all four. He held his shoulders carefully, all of a piece, and when he wanted to see behind him he brought his whole body round, hips and all.
 
 Praxias had left his quail at home, but his left arm kept the crook of it anyway; now and then his fingers went over nothing there, smoothing.
 
-I paid him first, at the wall, out of the rag and out of the coins from the ford, into his palm. He weighed the silver in his palm and found it enough. He glanced on at Valens's face, the crust on it and the bruise below it, and back at the coins, which were plainly the only part of the morning that concerned him.
+I paid him first, at the wall, out of the rag, in coins from the ford, into his palm. He weighed the silver in his palm and found it enough. He glanced on at Valens's face, the crust on it and the bruise below it, and back at the coins, which were plainly the only part of the morning that concerned him.
 
 "Even money she stands like a post," he told me, of the goat. "They do, in a frost. A frost-morning goat will take a spring's worth on her head and think about her dinner."
 
@@ -59,7 +57,7 @@ I paid him first, at the wall, out of the rag and out of the coins from the ford
 
 "Next month. And you pay me again, little—" He stopped himself, and liked himself for it. "Syracusan."
 
-I had the bottle in my belt. Before Valens could follow him up the steps I tipped two of the pills into my palm where my himation hid them, and offered them low between us, where nobody else could see what they were.
+I had the Advil in my belt, down to its last two. Before Valens could follow him up the steps I tipped both into my palm where my himation hid them, and offered them low between us, where nobody else could see what they were.
 
 "For the shoulders," I said. "Take them with water, and inside an hour you could turn your head without your hips."
 
@@ -99,7 +97,7 @@ Valens went with Praxias into the line of wreathed men at the foot of the temple
 
 He told it in Kallia's court, well on in the afternoon, with a bowl of her lentils going cold on his knee.
 
-For once the court was empty, the lodgers all still up at the sanctuary, waiting their turns or arguing over what they had been given, and the house had gone quiet the way a house does that has been loud for a week, with the lodgers' blankets hung airing on the gallery in the sun. Kallia had put him on the stool by the woodstack with the wall at his back and set the bowl in his hands, and returned to the lean-to, from which she could hear every word.
+For once the court was empty, the lodgers all still up at the sanctuary, eating their sacrifices or arguing over what they had been given, and the house had gone quiet the way a house does that has been loud for a week, with the lodgers' blankets hung airing on the gallery in the sun. Kallia had put him on the stool by the woodstack with the wall at his back and set the bowl in his hands, and returned to the lean-to, from which she could hear every word.
 
 Felix had the bottom step of the stair, and I had the hearthstone.
 
@@ -185,7 +183,7 @@ I would have given a year of my life for ten minutes in that room with a lamp, a
 
 "Surely the priest heard it."
 
-"He had his hand up as long as she talked." Valens lifted his scarred hand, flat, the palm out toward the woodstack, about level with his ear, and held it so. On the terrace that morning he had kept it covered except to take hold of the horns. "Like that, to the screen. When she finished he put it down and turned to me and said it."
+"He had his hand up as long as she talked." Valens lifted his scarred hand, flat, the palm out toward the woodstack, about level with his ear, and held it so. "Like that, to the screen. When she finished he put it down and turned to me and said it."
 
 "In her words."
 
@@ -209,7 +207,7 @@ The women talked about their questions, having no other use for them until the m
 
 "North," her other neighbor said. "Always north. The south dries out."
 
-"He'll put it so the god says south," the Amphissan said. "To spite me. You'll see." She turned to me. "And yours? What's yours about?"
+"He'll put it so the god says south," she said. "To spite me. You'll see." She turned to me. "And yours? What's yours about?"
 
 "A road."
 
@@ -225,7 +223,7 @@ She found him and gave him some thought. "Is he yours?"
 
 My feet were cold and the wall was cold and I stayed on it. I let myself have it then, for the length of the line. A road: a cleft behind the mountain, a cave I had missed, a day in the summer when the shut rock would breathe. I would go through it the way I had gone in, crawling, in the dark, and come out into cold air off the plateau with a road below it that had a white line painted down its middle, and there would be the bus, and a phone in the café at Delphi that took a card. In my apartment the heat would be off, and I would turn it on and stand over the vent in the hall in my socks until it ran warm, and eat whatever was in the freezer, standing, with a fork.
 
-Toward midday the slave who shelled beans on the stool by Euthydikos's bay tree passed along the line of us, looking up into each woman's face in turn, and stopped below mine.
+Toward midday the slave who shelled beans on the stool by Euthydikos's bay tree came along below the wall, looking up into each woman's face in turn, and stopped below mine.
 
 "You're Kallia's," he said. "The mender."
 
@@ -235,9 +233,9 @@ Toward midday the slave who shelled beans on the stool by Euthydikos's bay tree 
 
 "The lead has held it this long," I said. "Another year will do it no harm."
 
-He went on to wherever his errand took him next. It was a summer's work, if I wanted it, cutting the smith's lead out of that bowl without marking the bronze, and I wanted none of it. By summer, if the god had any decency, I would be gone.
+He went on to wherever his errand took him next. It was a season's work, if I wanted it, cutting the smith's lead out of that bowl without marking the bronze, and I wanted none of it. Before the bowl's turn came I meant to be gone.
 
-Below where we stood a man had a board of clay ears on a trestle, for anybody who wanted the god to hear him better: little pink ears with a hole at the top for hanging, all of them from a single mold. They were all left ears. I checked the board twice over to be sure, and there was not a right ear on it, and each had the same chip out of the lobe where the mold was damaged, and I was asking myself whether he had lost the right-hand mold or never owned one, or whether there was some reason a god should only care to be spoken to on the left, when Felix vaulted the wall beside me at a run.
+Below where we stood a man had a board of clay ears on a trestle, for anybody who wanted the god to hear him better: little pink ears with a hole at the top for hanging, all of them from a single mold. They were all left ears. I checked the board twice over to be sure, and there was not a right ear on it, and somebody had given each one a dab of red paint inside, and I was asking myself whether he had lost the right-hand mold or never owned one, or whether there was some reason a god should only care to be spoken to on the left, when Felix vaulted the wall beside me at a run.
 
 He went straight between the women and down the bank and into the crowd at the foot of the ramp. I saw what he had seen a breath after he did: a man standing among the Phocians with a strip of linen wound about his head, covering an ear, and a dark stain on the linen.
 
@@ -253,7 +251,7 @@ When I reached them Felix had hold of the man's cloak. He was a head taller than
 
 "Blood goes brown when it dries," I said.
 
-"I never said about your father's silver thing," he said. "To anybody. The Elateian asked me yesterday at the gymnasium what you'd hit the man with. He'd heard about the man at the ford. A stone, I told him." He was quiet for three steps. "It wasn't a stone, was it?"
+"I never said about your father's silver thing," he said. "To anybody. The Elateian asked me yesterday at the gymnasium what the man was hit with. He'd heard about the man at the ford. A stone, I told him." He was quiet for three steps. "It wasn't a stone, was it?"
 
 "It was heavy," I said.
 
@@ -261,11 +259,11 @@ Felix vanished again before long, and returned with his right hand held stiff be
 
 "He let me," he said. "The Elateian. Feel. No, feel there, on the knuckles; that's from Thebes, that knuckle killed the man. It's harder than wood." He held it away from his side until we had our places on the terrace again. "He said I'm too thin. He said come back when I've eaten."
 
-The Amphissan's husband came out and walked straight past her to the men he had climbed with. He told them first, all three; they laughed and clapped him on the back, and afterward he came over to the wall and told her it was to be south. She heard him out.
+My neighbor's husband came out and walked straight past her to the men he had climbed with. He told them first, all three; they laughed and clapped him on the back, and afterward he came over to the wall and told her it was to be south. She heard him out.
 
 "North, then," she said to me, when he had rejoined his friends. "I'll dig it at night, and tell him the god changed his mind."
 
-Valens came out past noon, alone. Praxias had gone on down the Way at a trot toward the stadium and the quail ring, without stopping. Valens came under the terrace with his wreath in his hand. At the wall he went along the women's faces, and the men's behind them, and came to a stand before me.
+Valens came out past noon, alone. Praxias had gone off up past the theater at a trot toward the stadium and the quail ring, without stopping. Valens came under the terrace with his wreath in his hand. At the wall he searched the women's faces, and the men's behind them, and came to a stand before me.
 
 "Well?" I said.
 
@@ -281,7 +279,7 @@ Valens came out past noon, alone. Praxias had gone on down the Way at a trot tow
 
 "Not this year." He thought about it. "Not that he's told me."
 
-Valens was silent the length of the Way, past the treasuries and the bronze bull and the stalls at the gate, and the farther we went in silence, the surer I was of what it was. If the god had given me a road, a breath on the terrace would have held it. A road could be said in front of anybody. What wanted a roof and a wall round it was the other answer: that there was no road; that the hole I had come in by was the only one and it was shut; that I was a Syracusan now, and the god had looked at the registrar's tablet and agreed with it.
+Valens was silent the length of the Way, past the treasuries and the bronze bull and the stalls at the gate, and the farther we went in silence, the surer I was of what it was. If the god had given me a road, a breath on the terrace would have held it. A road could be said in front of anybody. What wanted a roof and a wall round it was the other answer: that there was no road; the hole I had come in by was the only one and it was shut; that I was a Syracusan now, and the god had looked at the registrar's tablet and agreed with it.
 
 By the lions I had it settled. I was almost calm.
 
@@ -307,7 +305,7 @@ It scanned. Most of it went in the measure of Homer, the long line, and the last
 
 "After, he said she was a Syracusan, wasn't she, it was on the wax, so it was plain enough. Her own mountain, he said. The one that burns behind her city, with the vines up its sides. He said that was a fine answer for a Syracusan and I was to tell her so. I'm telling you."
 
-The priest had read Syracuse off his own wax and found my mountain for me, the one that smoked behind my invented home, and the god had very kindly agreed with the clerk and with Kallia and with the whole of the lie. Except that Etna looked out on the eastern sea. A ship out of Syracuse that wanted it on its western side would have had to sail clean round Sicily. The priest held a lamp to things in full sun, and I did not suppose he had ever looked at a map.
+The priest had read Syracuse off his own wax and found my mountain for me, the one that smoked behind my invented home, and the god had very kindly agreed with the clerk and Kallia and the whole of the lie. Except that Etna stood above the eastern sea, the one Syracuse looked out on; a Syracusan who wanted a western sea would have to cross the whole island to find one. The priest held a lamp to things in full sun, and I did not suppose he had ever looked at a map.
 
 "Did the priest give you anything about when?" I said. "A month, a year. Anything."
 
@@ -341,7 +339,7 @@ Felix looked from him to me and back, and went. He went backward as far as the g
 
 Kallia scraped at the pot. "The boats go west at the new moon."
 
-I had seen a tomb's painted door once, or a photograph of one, thrown six feet wide on the dining-room wall at home on a winter night when my father had his carousel out and the good tablecloth pinned across the dish cupboard for a screen: the rear wall of a chamber at Tarquinia, cut into the soft rock under a hill, with a false door on the plaster in dark red, shut, and a mourner at each side of it, palm to his forehead. He had clicked the carousel round to Volterra while my question about what lay behind it was half out, and the fan in the projector had gone on breathing out its smell of hot dust in the dark room. "Every road out of every town in Italy has tombs along it," I said. "That is where they bury, outside the gate, beside the road out, so that anyone going anywhere goes past the dead. A painted door on a tomb. In Etruria they painted whole rooms under the hills, and doors on the back walls of the rooms, and Etruria is by a western sea, with vines on its hills." I heard myself and kept on. "Or Sicily after all, or the Bay of Naples, or Spain. There is a mountain with vines on it beside every sea the Romans have ever reached. It is not an address. It is a description of the empire."
+I had seen a tomb's painted door once, or a photograph of one, thrown six feet wide in our kitchen one September night, when my father had his carousel out and a bedsheet tacked across the china for a screen: the rear wall of a chamber at Tarquinia, cut into the soft rock under a hill, with a false door on the plaster in dark red, shut, and a mourner at each side of it, palm to his forehead. He had clicked the carousel round to Volterra while my question about what lay behind it was half out, and the fan in the projector had gone on breathing out its smell of hot dust in the dark room. "Every road out of every town in Italy has tombs along it," I said. "That is where they bury, outside the gate, beside the road out, so that anyone going anywhere goes past the dead. Tombs with their doors painted on. In Etruria they painted whole rooms under the hills, and doors on the back walls of the rooms, and Etruria is by a western sea, with vines on its hills." I heard myself and kept on. "Or Sicily after all, or Massalia, or Spain. There is a mountain with vines on it beside every sea the Romans have ever reached. It is not an address. It is a description of the empire."
 
 "It's what he said."
 
@@ -365,7 +363,7 @@ The court was quiet.
 
 "Only the mountain part," I said. "Say just that piece again, from its beginning."
 
-He began, and broke off. He began over at the very first word, and came forward through it at the same pace, with the same stops in the same places, as far as the sea; there he stopped himself, and his hand lifted an inch from his knee, the way you would check a man walking beside you.
+He began, and broke off. He began over at the very first word, and came forward through it at the same pace, every stop in its old place, as far as the sea; there he stopped himself, and his hand lifted an inch from his knee, the way you would check a man walking beside you.
 
 "You cannot start it in the middle," I said.
 
@@ -373,7 +371,7 @@ He began, and broke off. He began over at the very first word, and came forward 
 
 "Do not," I told him. "It is in my head."
 
-It was. I had it word for word, first to last, in his voice and in the priest's measure, and it was as much use to me as a bowl of cold lentils.
+It was. I had it word for word, first to last, in his voice and in the priest's measure, and it was as much use to me as a bus ticket with the town torn off.
 
 "Why his name?" I said. "At the table."
 
@@ -431,7 +429,7 @@ It was the house next to the highest. I knew it before the boy stopped. A square
 
 She was on the stone, old, in a dark himation that had been good once, with a farmer's hands, square, the nails broken short, and a face the sun had burned brown and crumpled under the eyes. Under the hem her feet were bare on the stone, broad, cracked at the heels, feet that had walked behind a plow.
 
-"Give it here," she said to the boy, and he gave her the basket and was off downhill at a run, glad to. She took the cloth off, and it was barley, the parched kind. A laurel leaf was burned into the rim of the basket, small and brown: the brand that had been on the cake-trays at the altar that morning.
+"Give it here," she said to the boy, and he gave her the basket and was off downhill at a run, glad to. She took the cloth off, and it was barley, the parched kind. A laurel leaf was burned into the rim of the basket, small and brown.
 
 She flung a fistful over the ruts, and the crows dropped from the ridge in a black slither.
 
@@ -461,7 +459,7 @@ She looked at them, and took them off my palm with two fingers. A cup stood at t
 
 "Why give them any?"
 
-"Because they come." She shook the last husks off her fingers. "They were up on that ridge the day my husband went out of this door feet first, the whole row of them, and not a crow of them made a sound, which his sister never managed. A thing that'll sit quiet at a burying can have my barley."
+"Because they come." She shook the last husks off her fingers. "They were up on that ridge the day my husband went out of this door feet first, the whole row of them, and not a crow of them made a sound, which the mourners never managed. A thing that'll sit quiet at a burying can have my barley."
 
 The brand on the basket was by her foot. I left it there.
 
