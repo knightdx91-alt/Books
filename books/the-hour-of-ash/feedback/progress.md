@@ -19,7 +19,7 @@ What was done:
   mode + Step D.6 shape audit, docs updated.
 
 ## Resume point
-**LOOP RUNNING — resume at Ch.11 "Valens's Yard" (2026-10-20).** Checkpoint 2 reviewed; author decisions CP2-1..4 in STATE.yaml. Ch.11 briefs: a FULL two-hander with Valens, away from the gray mule as his frame, and the plot moves; NO stand-alone memory (any memory triggered by the scene, inside it); NO bending beats (0.28/1k vs 0.30); kneel/crouch now gated (12 in the book, keep it low); no "So" opener; hook not SENSORY (Ch.10); Ch.11 begins on its own after the Ch.10 plain stop. Next checkpoint after Ch.15.
+**LOOP RUNNING — resume at Ch.12 "The Kirrha Road" (2026-10-20). Ch.11 FINAL.** Ch.12 briefs: close the MONEY GAP on the page (CH11-3: under 3 drachmas vs cake ~2 + Praxias 1 + goat >1.5) without another counted haggle; the Pentax must be shown taken from the duffel if used (last seen Ch.5); hook must NOT be IN MEDIAS RES (Ch.11) — type the "Lupus?" opener as QUESTION; pull must NOT be OMINOUS PROMISE (Ch.11); Valens bare "No." ≤1; no narrated non-answers; no bends; kneel/crouch ≤1; no stand-alone memory; no "So" opener. Next checkpoint after Ch.15.
 author said "Make the fixes then continue". The independent-read fixes are in (Ch.2 asides; Ch.3
 trimmed to 5,628; Ch.5 to 7,858 with the town-Greek clause) and Ch.3/Ch.5 re-evaluated PASS. Next
 checkpoint after Ch.10 (`feedback/review-ch6-10.md`). Hook/pull types used so far: Ch.1 CONTRAST /
@@ -32,6 +32,7 @@ list in character-bible.md; `--echoes N` on every fresh draft; Kallia's hands ar
 handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Chapter log
+- **Ch.11 "Valens's Yard"** — 5,910w · Floor 8.5 / Avg 8.64 / Casual 9.0 / CVI-L 9.5 / Emotion 9.0 · 1 polish cycle + a continuity repair (1 CRIT / 14 WARN) · the full two-hander; the near-kiss; he agrees to carry her question · full chain in STATE.yaml history.
 - **Ch.10 "Kallia's Letter"** — 2,446w · Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 9.3 / Emotion 9.0 · 2 polish cycles + a continuity repair (1 CRIT / 9 WARN) · the letter; "Ariston's room, at the three obols"; plain stop · full chain in STATE.yaml history.
 - **Ch.9 "The Polygonal Wall"** — 5,763w · Floor 8.5 / Avg 8.64 / Casual 9.0 / CVI-L 9.1 / Emotion 9.0 · 2 polish cycles (Prose: narrator moves; then a bending cluster the first cycle made) + a continuity repair (1 CRIT / 11 WARN) · the notice; Valens reads it in silence · full chain in STATE.yaml history.
 - **Ch.8 "The Thyiades"** — ~7,470w · Floor 8.5 / Avg 8.64 / Casual 9.0 / CVI-L 9.8 / Emotion 9.0 · 1 polish cycle (Prose: eleven narrator recurrences) + a continuity repair (20 WARN) · the rite, the shut cave, the heap · full chain in STATE.yaml history.
@@ -56,6 +57,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
   13 audit warnings all fixed · full chain in STATE.yaml history.
 
 ## Pacing log
+- Ch.11 (FINAL): PASS — 5,910w (target 6,200) · dialogue 38% (35–45 ✓) · 3 breaks · gear mid (median 14) · unhurried working rhythm; reveals land unevenly; the plot moves (carrier, sponsor, goat, question).
 - Ch.10 (FINAL): PASS — 2,446w (target 2,800; no per-chapter floor) · dialogue 40% (30–40 ✓) · 0 breaks · gear mid (median 15) · slow, held, one room; the plain stop is plain.
 - Ch.9 (FINAL): PASS — 5,763w (target 6,400; no per-chapter floor; do not pad) · dialogue 28% (25–35 ✓) · 5 breaks · gear mid (median 15) · documents brisk, mending slow, the square sudden, as planned.
 - Ch.8 (FINAL): PASS — ~7,470w (target 8,200; no per-chapter floor; book projects ~246k vs 245k target, so no padding) · dialogue 28% (25–35 ✓) · 0 breaks · gear mid (median 15) · rite fast, cave slow, heap very slow as planned · forward pull (the Oracle's price) at ~60% by design.
@@ -69,6 +71,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Shape audits
 (every chapter: `python3 tools/shape_check.py books/the-hour-of-ash` from the repo root)
+- after Ch.11 (--strict): CLEAN. Ch.11 `long-spiral` / `dialogue`; 3 breaks; dialogue 38%; median 14.
 - after Ch.10 (--strict): CLEAN. Ch.10 `short-punch` / `quiet`; 0 breaks; dialogue 40%; median 15. Ten chapters: lengths 1,821–7,843, dialogue 6–40%, no signature used more than three times.
 - after Ch.9 (--strict): CLEAN. Ch.9 `narrative` / `punch`; 5 breaks; dialogue 28%; median 15.
 - after Ch.8 (--strict): CLEAN. Ch.8 `dialogue` / `quiet`; 0 breaks; dialogue 28%; median 15.

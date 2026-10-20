@@ -1375,3 +1375,48 @@ The auto-resolution pass found no open conflict that Ch.11 touches. No knowledge
 - **Kallia** knows only that Mara works the yard unpaid.
 - **The watch:** Valens has never set it. The plan's Ch.18 return, "set near noon by the shadow", needs him to learn to set it.
 - **Spent:** Valens's bare "No." is capped at one a chapter from Ch.12 (audit C-01). Also spent: the notice's text (do not paraphrase it) and a road-watching beat before the ambush.
+
+## 2026-10-20: UPDATE (re-sync of chapter 11 after polish cycle 1 and finalize F1/F3/F4)
+
+- Re-anchored every ch-11:pYY to the final page (chapter-11.md last written 03:12:29, md5 bef094c6…; 278 paragraphs, breaks after p67, p148 and p224). Cycle 1 split old p114: new p114 is Mara's full answer, "A lock does. In my country every door has its own.", and new p115 is "He was on his feet then, and the bells were in my lap …". So old p1..p113 keep their numbers and old p115..p277 = new p116..p278. That covers 1,156 explicit cites (732 at or after old p114) and 152 bare Ch.11 refs (91 shifted). The 11 lines citing old p114 were assigned by content to p114 and/or p115.
+- **Removed** the cut facts and quotes:
+  - Valens's broken nose ("healed a shade crooked", and "the healed break in his nose" at the near-kiss), taken out of valens.physical.distinguishing and out of Mara's knowledge row.
+  - Felix's tunic and rope belt (the clothing_ch11 row is deleted) and "stood up every way at once".
+  - "a knot at the corner of my himation" and "untied the knot".
+  - "a family from Boeotia".
+  - "a dozen" bells.
+  - "Women?" / "Women too.", "Who isn't?" and the cut-off "In my country—".
+  - "with great bitterness".
+  - "kept his eyes on the hoof", and the black's talk as "Latin, and low" (the language is no longer stated).
+  - "lit and there before the word was well out", "Felix reached him before Praxias had the last word out." and "Before his name had finished".
+  - The narrated non-answers: "Valens gave him no answer", "He let it be.", "He let that go by him.", "That got no answer." and "I let the question stand".
+  - The lead-rope knot hung up "with the knot still in it".
+  - "his head coming down", "my knees put me onto it", "very low" and "had not broken so much as".
+- **Added** from the new page:
+  - "three drachmas in the rag at my belt" (p10) and "I untied the rag first" (p21).
+  - "a thin one of twelve or so, with straw in his hair" (p16).
+  - "a family of Achaeans" (p69). The character boeotian-pilgrim-family is renamed achaean-pilgrim-family.
+  - bells "heaped in his lap" (p98).
+  - "Children?" / "Once they are old enough to be late." (p103; p104).
+  - "I am." (p111).
+  - the lock line (p114). Valens now knows that "every door has its own" lock in her country.
+  - the boot lace: "with a foot up on the bench, to put a new lace in his boot" (p225) and "He ran the lace on up the shin and tucked the end in." (p241). This is the new valens.physical.clothing_ch11. Whether it replaces the knotted lace of ch-07:p96 is not stated.
+  - "He was a while silent." (p238, F1).
+  - Felix's "You've never seen anything." untagged (p123, F3).
+  - "the old thread had been sawn through" (p55, F4).
+  - "He came nearer, and my face lifted to meet his." (p245) and "The packsaddle had been on its trestle at my back, and I was on it" (p247).
+- **CH11-2 RESOLVED** by the page. The money is in the rag again, which agrees with Ch.9. The 1998 coins are still not mentioned and are not said to have left the rag.
+- **CH11-5 RESOLVED** by the page. The family is Achaean, from across the gulf, which agrees with the Aigion boats (p273).
+- **CH11-1 rechecked and widened.** character-bible.md was last written at 01:45, before the polish, and still quotes these cut lines:
+  - "healed a shade crooked" and "the healed break in his nose" (l.395-396)
+  - "a knot in a lead rope" and "with the knot still in it" (l.405; l.421)
+  - "Who isn't?" and "In my country—" (l.191; l.429; l.2602)
+  - "He let that go by him." (l.441; l.2586)
+  - "my knees put me onto it" (l.206)
+  - the tunic and rope belt (l.778)
+  - "with great bitterness" (l.787)
+  - "a family from Boeotia" (l.1502)
+  - "very low" at the agreement (l.439)
+- CH11-3 and CH11-4 are re-anchored only.
+- `last_updated_chapter` stays 11. No new contradiction and no knowledge_gap. The YAML loads under a strict loader with no duplicate keys.
+- **For Ch.12 onward:** Valens's nose is no longer broken on the page, so do not bring a broken nose back without a cause. His face on the page is the eyebrow nick and the scar on his right hand.
