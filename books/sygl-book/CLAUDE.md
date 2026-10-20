@@ -56,7 +56,7 @@ books/sygl-book/
 - Fade-to-black. Keep separate from the-fourfold-crown.
 
 ## Open author decisions (ask, don't invent)
-See `STATE.yaml` → `open_author_decisions`: "Sygldry school" vs the Heir's School; the stray "Pierre"; how the girls' overhearing of the juggling
+See `STATE.yaml` → `open_author_decisions`: the stray "Pierre"; how the girls' overhearing of the juggling
 talk surfaces in Bal-only POV; whether the manga keeps the dual-narration device.
 
 ## Status (update as you go)

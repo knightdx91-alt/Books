@@ -100,7 +100,7 @@ He knew what blood sygls were. Everybody did, much as everybody knew the things 
 
 Blood sygls, while not strictly outlawed, were frowned upon. Badly. Often, if an infant was born showing one, the doctors would remove the baby's hand before the mark could settle in, because people believed the blood sygl could drive you mad. That was what the stories said, anyway. Blood magic got into your head. Blood magic made you crazy, made you hungry, made you dangerous to the people around you. Bal had always privately thought that a lot of that talk was there to get people riled up against anyone who carried the mark, but that was only him. Nobody else he knew had ever been bothered enough to wonder.
 
-What made it worse was that no one was sure the blood originator even still existed. She had not been seen for years. More than years. Some people had thought for a long time that the originator was Dracula, but after he had been killed, that proved he wasn't. Other originators were real enough. Once a year, every one of them appeared at the Sygldry School to claim their blood, the new students born under their mark. There was a place set aside for the blood originator at that gathering, the same as for the others. Year after year, she had never shown up.
+What made it worse was that no one was sure the blood originator even still existed. She had not been seen for years. More than years. Some people had thought for a long time that the originator was Dracula, but after he had been killed, that proved he wasn't. Other originators were real enough. Once a year, every one of them appeared at the Heir's School, the first and grandest of the Sygldry schools, to claim their blood, the new students born under their mark. There was a place set aside for the blood originator at that gathering, the same as for the others. Year after year, she had never shown up.
 
 People had stopped expecting her. And after long enough, they'd stopped believing in her at all.
 
@@ -160,7 +160,7 @@ Then her voice softened, and she laid one cool hand on his knee.
 
 Bal looked at her hand, and then at her face, and then down at the stump.
 
-It all sounded wonderful. It sounded so wonderful that he didn't quite trust it. Going to the Sygldry School, as Fredrick had, climbing into a car with a trunk and waving goodbye to everyone on the steps. Learning magic from people who knew what they were doing instead of from a cracked secondhand book by torchlight. All of it was sitting there in front of him, close enough to touch, and there was still one rather large problem standing in the way.
+It all sounded wonderful. It sounded so wonderful that he didn't quite trust it. Going to a Sygldry school, as Fredrick had, climbing into a car with a trunk and waving goodbye to everyone on the steps. Learning magic from people who knew what they were doing instead of from a cracked secondhand book by torchlight. All of it was sitting there in front of him, close enough to touch, and there was still one rather large problem standing in the way.
 
 Still nervous, Bal held up the stump between them.
 

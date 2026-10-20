@@ -21,7 +21,9 @@ foundation wherever they differ.
 
 **Spelling:** **Sygl / sygl / sygls**, and "sygl-less" for Bal before the hand. Never "sigil" or
 "sygil." Also: mausoleum (not "mausaelium"), **Naisura** (never "Waisura"), surprised, imagine.
-The book's school is **The Heir's School of Magykal Artes**; the spellbook is **`Sygldry Year 2`**.
+The book's school is **The Heir's School of Magykal Artes**; the spellbook is **`Sygldry Year 2`**. **Sygldry** is the general
+name for the study of sygls and the magykal schools that teach it; the Heir's School is the first and grandest,
+the rest are the "lesser schools" (Fredrick went to one). The yearly claiming happens at the Heir's School.
 
 **Names:** Balthazaar "Bal" Norheart; Amelia (Vampire Goddess, originator of the Blood sygl, Bal's
 familiar; "Amelia Norheart" on her Dawn card); Viridia Vizer (Tempus, storm inheritance, converted to
