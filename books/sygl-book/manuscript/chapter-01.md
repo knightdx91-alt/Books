@@ -52,11 +52,11 @@ Fredrick had been at Saint Andre's nearly as long as Bal had. He was a year olde
 
 The night before he went, he'd come up to the dormitory with a stack of beginner spell books tied together with garden string and dropped them on the end of Bal's bed.
 
-"I won't need these where I'm going," he'd said. "They'll give me new ones. You have them."
+"I won't need these where I'm going," he'd said. "They'll give me new ones. You take them."
 
 Bal had looked at the stack, then up at him. "Fred, you could sell these."
 
-"I could. I'm not going to." Fredrick had sat down on the end of the bed, making the springs complain. "You're better at this than half the kids who'll be in my year, and you know it. Somebody ought to be reading them who'll use them properly."
+"I could. I'm not going to." Fredrick had sat down on the end of the bed, making the springs complain. "You're better at this than half the kids who'll be in my year, and you know it. They should go to somebody who'll use them properly."
 
 Since Bal did not have a sygl, he would not be able to attend the school. No school would take you without one, no matter how much magic you could push through a stump. Self-study was the only option he had, and Fredrick knew it as well as he did. Neither of them had said so. Fredrick had ruffled his hair, told him not to blow up the laundry, and left in the morning with his trunk and a wave through the rear window of the car. It was the kindest thing anyone had done for Bal in years. The garden string was still on the end of his bed.
 

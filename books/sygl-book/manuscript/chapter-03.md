@@ -38,7 +38,7 @@ Amelia stood up and stretched, rising onto her toes with her arms high over her 
 
 Amelia laughed.
 
-"Time for that later," she said, and dropped her arms, and the dress fell back to her ankles. She wasn't in the least bothered. If anything, she was enjoying it. "Now. As to your hand, I'll take care of that, as well as your school. You leave the explaining to me." She tilted her head toward the golden doors at the front of the temple. "For now, we've one last thing to do, and then you can take us out of here."
+"Time for that later," she said, and dropped her arms, and the dress fell back to her ankles. She wasn't in the least bothered. If anything, she was enjoying it. "Now. As for your hand, I'll take care of that, and your school too. You leave the explaining to me." She tilted her head toward the golden doors at the front of the temple. "For now, we've got one last thing to do, and then you can take us out of here."
 
 She came and stood in front of him. Then, without any fuss at all, she knelt on the stone floor between his knees, gathering her skirt beneath her, and looked up at him.
 
@@ -78,7 +78,7 @@ She stood up and brushed off her knees where she had knelt on the stone. Bal lin
 
 Amelia took him by both hands, the old one and the new one, and hauled him to his feet. She kept hold of the new one and set off across the hall toward the doors, towing him along behind her, explaining as she went.
 
-"The door is only locked one way," she said. "From the outside, it won't open for anyone. From the inside, it opens for anyone at all. Even if we had not bonded, you would have been able to walk right on out whenever you liked." She glanced back at him over her shoulder. "Me, on the other hand? I'd still have been stuck in here. The only reason I'm going to be able to go out now is because now I'm your familiar." She squeezed his fingers. "Where you go, I go. That's what it means, Master."
+"The door is only locked one way," she said. "From the outside, it won't open for anyone. From the inside, it opens for anyone at all. Even if we hadn't bonded, you could have walked right on out whenever you liked." She glanced back at him over her shoulder. "Me, on the other hand? I'd still have been stuck in here. The only reason I get to go out now is because I'm your familiar." She squeezed his fingers. "Where you go, I go. That's what it means, Master."
 
 She said the word lightly, with a sidelong look to see how he would take it. Bal didn't know how to take it. He settled for turning pink, which seemed to satisfy her.
 
@@ -112,11 +112,11 @@ The grass between the flagstones was warm and springy underfoot, and the air sme
 
 Amelia walked slowly, looking at everything. She ran her free hand along the rough brick of the orphanage as they passed it. She stopped dead to watch a car go by out on the main road, far off at the end of the lane, and followed it with her eyes until it was gone.
 
-"I live here," Bal said, nodding up at the building. "My mom died giving birth to me, so I was placed here. It's been my home for as long as I can remember." He considered for a second. "It's not a bad place. The food's terrible, but it's not a bad place."
+"I live here," Bal said, nodding up at the building. "My mom died giving birth to me, so they put me here. It's been my home for as long as I can remember." He considered for a second. "It's not a bad place. The food's terrible, but it's not a bad place."
 
 It occurred to him, belatedly, to worry about the car.
 
-"Do you know anything about the modern world?" Bal asked. "Things have changed a fair bit. There are cars, and phones, and TV, and..." He tried to think how to explain the last few hundred years in one breath, and gave up.
+"Do you know anything about the modern world?" Bal asked. "Things have changed a lot. There are cars, and phones, and TV, and..." He tried to think how to explain the last few hundred years in one breath, and gave up.
 
 "Yeah," Amelia said, amused. "I can talk to certain creatures. Bats, ravens and such." She lifted her chin toward the roof of Saint Andre's, where a big black raven sat on the gutter watching them with one bright eye. It ruffled its feathers at her and croaked. "They come and talk to me, so I do know things. I know about cars. I know about telephones. I know that the cook here burns the porridge every Tuesday."
 

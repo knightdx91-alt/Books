@@ -20,21 +20,21 @@ The girl followed his finger up to the open roof and the patch of blue sky beyon
 
 He managed a jerky nod.
 
-"Huh." She sounded delighted. "No one's tried that one. They've tried the doors, oh, they've tried the doors. Kicking, prying, chanting, and one boy who tried to talk them open by being very polite to them. I rather liked him. But nobody's come in through the top." She clasped her hands behind her back and rocked on her heels. "What gave you the idea?"
+"Huh." She sounded delighted. "No one's tried that one. Oh, they've tried the doors. Kicking, prying, chanting. One boy stood out there and asked them nicely to open. I liked him. But nobody's ever come in through the top." She clasped her hands behind her back and rocked on her heels. "What gave you the idea?"
 
 That, at least, he could answer, once his tongue came unstuck.
 
 "I live at Saint Andre's," he said. "The orphanage, over the wall. I was up on the roof the other day looking at the carvings, and this whole building flickered. Only for a second. I saw the pillars and the fires and the statue, and then it was plain stone again."
 
-"Did it." She glanced upward, eyebrows raised. "How careless of it."
+"Really?" She glanced upward, eyebrows raised. "How careless of it."
 
 "Our ladder's too short to get up here. And the gap's too wide to jump." He was talking faster now and couldn't seem to stop. "So I found a spell in *Sygldry Year 2* for carrying things, and I practiced on a sock first."
 
-"And how did the sock get on?"
+"And how did the sock do?"
 
 "It hit the dormitory ceiling. Somebody had to fetch it down."
 
-"Poor sock," the girl said gravely. She looked at the rug in its heap on the floor. "I see you moved up in the world."
+"Poor sock," the girl said gravely. She looked at the rug in its heap on the floor. "I see you've moved up in the world."
 
 "I honestly thought I was seeing things," Bal finished. Now that he had started talking, the questions crowded up behind his teeth. "Who are you? How did *you* get in?"
 
@@ -50,9 +50,9 @@ He walked slowly to the nearer bench and sat down on the edge of it. The stone w
 
 "My name is Amelia," she said, "and this is my temple."
 
-It was only polite to answer that. "I'm Balthazaar," he said. "Bal, mostly. To my friends."
+It was only polite to answer that. "I'm Balthazaar," he said. "Bal, to my friends."
 
-"Balthazaar." She tried the name out slowly, tasting it, and looked pleased with the result. "That's a proper name. Somebody had sense."
+"Balthazaar." She tried the name out slowly, tasting it, and looked pleased with the result. "Now that's a real name. Somebody chose well."
 
 Bal looked around. He took in the two rows of pillars, the two braziers, the shaft of sunlight falling through the roof that wasn't there, and the dark statue with its face in shadow. Then he looked back at Amelia, sitting across from him with her hands folded in her lap and the rubies glinting at her ears.
 
@@ -78,7 +78,7 @@ Bal scrambled to his feet and began backing away slowly, one careful step at a t
 
 Amelia saw this. He watched her see it. She shut her eyes, pressed her lips together, and took a long breath through her nose, then another, and the tight cold feeling eased out of the air. The braziers sank back to their low, steady glow. When she opened her eyes again, she was a pale girl in a black dress and nothing more.
 
-"I'm sorry," she said. "I wasn't expecting that. Although I suppose I should have known." She sat back down on her bench, smoothing her skirt, and gave him a small, rueful smile. "Please. Sit. I won't bite. Not without asking."
+"I'm sorry," she said. "I wasn't expecting that. Although I guess I should have known." She sat back down on her bench, smoothing her skirt, and gave him a small, rueful smile. "Please. Sit. I won't bite. Not without asking."
 
 Bal stayed where he was, halfway between his bench and the rug, unable to decide whether sitting or running was the more sensible choice.
 
@@ -94,7 +94,7 @@ He looked down at his stump, then back at her. The itch was there again, under t
 
 Amelia laughed. It was a high, clear laugh, and it echoed off the stone walls of the temple and came back to them from every side.
 
-"My, how the fates are working," she said, shaking her head in wonder. "You lose your hand for showing my sygl, and then you end up stumbling across my temple anyway. Flying into it, no less."
+"My, how the fates work," she said, shaking her head in wonder. "You lose your hand for showing my sygl, and you still end up stumbling into my temple. Flying into it, no less."
 
 Bal stumbled back to his seat. He didn't decide to; his legs simply took him there, and he sat down hard on the cool stone.
 
@@ -102,7 +102,7 @@ Bal stumbled back to his seat. He didn't decide to; his legs simply took him the
 
 Amelia inclined her head.
 
-"A good strong connection too," she said. "I can feel it from here. I could feel it the moment you dropped through my roof. It's still in there, you know. Cutting off the hand doesn't cut out the blood."
+"A good, strong connection, too," she said. "I can feel it from here. I felt it the moment you dropped through my roof. It's still in there, you know. Cutting off the hand doesn't cut out the blood."
 
 At her words, Balthazaar heard the truth.
 
@@ -120,9 +120,9 @@ He rubbed the stump against his knee. "Well. If a baby's born showing a blood sy
 
 "Usually?" Amelia asked.
 
-"Mostly. I don't think anybody asks the baby. People think it drives you mad. That's what the stories say, anyway. Blood magic gets into your head, and you go crazy, and you start going after people."
+"Mostly. I don't think anybody asks the baby. People think it makes you crazy. That's what the stories say, anyway. Blood magic gets into your head, and you lose it, and you start going after people."
 
-"Mad," Amelia said. She spread her hands, inviting him to look. "Do I look mad to you?"
+"Crazy," Amelia said. She spread her hands, inviting him to look. "Do I look crazy to you?"
 
 Bal looked. Rubies, black dress, one eyebrow up.
 
@@ -130,17 +130,17 @@ Bal looked. Rubies, black dress, one eyebrow up.
 
 That got the corner of her mouth to twitch. "Go on."
 
-"I always thought a lot of it was there to get people riled up against anyone with the mark. But that's only me. Nobody else I know ever wondered about it." He hesitated. "The other part is that nobody's seen you. Not for years. Longer than years. For a long time, people thought the blood originator was Dracula."
+"I always figured a lot of it was there to get people riled up against anyone with the mark. But that's me. Nobody else I know ever wondered about it." He hesitated. "The other part is that nobody's seen you. Not for years. Longer than years. For a long time, people thought the blood originator was Dracula."
 
 "Dracula," Amelia repeated. Her voice had gone flat.
 
-"But then somebody killed him. So that proved he wasn't." Bal shifted on the bench. "Everyone felt pretty stupid about that afterward."
+"But then somebody killed him. Which kind of proved he wasn't." Bal shifted on the bench. "Everyone felt pretty stupid about that afterward."
 
 Amelia said nothing. Behind her, the nearer brazier sank low and then flared up again, though there wasn't a breath of wind. Her hands had stopped moving in her lap.
 
 There was one more piece, and Bal wished there weren't. He made himself say it anyway.
 
-"Once a year," he said, "all the originators come to the Heir's School. That's the first school, the grandest. They come to claim their blood, the new students born under their mark. There's a place set aside for you there, the same as for the others. You've never come. Not once, as long as anyone can remember. After enough years of an empty chair, people decided the chair was all there was."
+"Once a year," he said, "all the originators come to the Heir's School. It's the first school, the big one. They come to claim their blood, the new students born under their mark. There's a place set aside for you there, the same as for the others. You've never come. Not once, as long as anyone can remember. After enough years of an empty chair, people figured nobody would ever fill it."
 
 Once he was done, Amelia exploded.
 
@@ -152,7 +152,7 @@ Bal lowered his arm cautiously. A single tiny black wisp drifted down past his n
 
 "Does that happen often?" he asked.
 
-"Only when I'm cross," Amelia said through her teeth. "I haven't been this cross in a long while."
+"Only when I'm angry," Amelia said through her teeth. "I haven't been this angry in a long while."
 
 She was still fuming. Bal could see it in the set of her jaw and in how her fingers had knotted in the black fabric of her skirt. When she spoke, she spoke mostly to herself, in a low, furious mutter.
 
@@ -186,7 +186,7 @@ Amelia laughed and sat down beside him, and the spell of the moment broke. Her s
 
 Bal blinked. "Your familiar?"
 
-"Your familiar," she said firmly. "That way you and I can show the rest of the world that the Blood Bond is alive and well." Her eyes glinted. "Let them call me a myth with me standing in the middle of their courtyard. I should like to see them try."
+"Your familiar," she said firmly. "That way you and I can show the rest of the world that the Blood Bond is alive and well." Her eyes glinted. "Let them call me a myth with me standing in the middle of their courtyard. I'd like to see them try."
 
 Then her voice softened, and she laid one cool hand on his knee.
 
