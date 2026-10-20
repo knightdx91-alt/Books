@@ -1776,3 +1776,157 @@ Applied where the page supports them. Not applied:
 - **Eval ENTITY patches** (evaluations/chapter-13-eval.md, final section) are both applied: ibuprofen used up, and the almonds per CH13-4. No other ENTITY patch is named.
 - **Meta:** there is a Ch.13 row in `meta.revalidation_needed` (RESOLVED). `paragraph_rule`, `last_updated_by`, `mode`, `source` and the header comment are extended. `yaml.safe_load` and a strict no-duplicate-key loader both pass.
 - **No new contradiction and no knowledge_gap.**
+
+## 2026-10-20: UPDATE (chapter 14, "What Pompeii Means", final text: post-writer, dialogue-polish, hook-craft, disruptor and continuity repair C-01 + W-01..W-13)
+
+**Trigger:** chapter loop step D.5 for chapter 14 (the orchestrator asked for the post-disruptor page; the continuity audit and repair landed mid-run, so the update is anchored to the repaired page).
+
+**Inputs read:**
+- `manuscript/chapters/chapter-14.md`, twice.
+  - First in its post-disruptor state (66 paragraphs; breaks after p8, p13, p17, p21, p27, p38, p51, p58 and p62; md5 777e198…, 08:15:53; commit c2a6d8d).
+  - Mid-run the continuity audit (`evaluations/continuity/chapter-14-audit.md`, commit ab8d2cf, 1 CRIT / 13 WARN) and the repair (commit d77c3b7, 08:41) landed. The update was re-anchored to the repaired page (last written 08:41:29, md5 1430f5dc9c64eb73518bab54061ec82f), which matches HEAD and had stopped changing.
+  - The repaired page has **64 paragraphs**, with breaks after p8, p13, p17, p20, p25, p36, p49, p56 and p60 (ten shards):
+    - old p1..p19 keep their numbers;
+    - old p20 + p21 = new p20;
+    - old p22..p25 = new p21..p24;
+    - old p26 ("I laughed.") is cut; old p27 = new p25;
+    - old p28..p66 = new p26..p64.
+  - Text changed inside new p7, p8, p13, p15, p16, p18, p20, p24, p25, p26, p30, p33, p37, p45, p54, p61 and p64.
+- `ENTITY_STATE.yaml` (`last_updated_chapter: 13`).
+- outline.md Ch.14–15 (and the repair's patch to Ch.14 beat 1); voice-dna §0.3; character-bible.md (the Ch.14 blocks, the walk-on note, At-risk after Ch.14).
+- The continuity audit, including its SUGGESTED YAML PATCHES.
+- `git diff 2e1cf91..HEAD` for chapter-10.md (commit 8332ff3) and chapter-13.md (commit 7ca9352); Ch.2, 6, 7, 8 and 13 pages for Halloran, the cliff path, the household pot, the cave hand and the well.
+
+**Meta:**
+- `last_updated_chapter: 14`; `chapters_tracked: [1..14]`.
+- `paragraph_rule` is extended to Ch.14, with the shard map and the repair's renumbering.
+- New block `meta.ch14_requested_checks` (14 checks).
+- 527 `ch-14:pYY` cites, all within p1..p64.
+- Every quoted fragment on a new or changed line was machine-checked against the repaired page. A second check confirmed that each Ch.14 quote sits in a paragraph its line cites. The exceptions are deliberate: plan, bible, audit, commit-message and post-disruptor quotes, each labelled as such.
+- The YAML loads under `yaml.safe_load` and under a strict loader with no duplicate keys.
+
+### Re-checked outside Ch.14
+- **Ch.10 (commit 8332ff3).** p32 now reads "I knew it the way I knew the Armada, as a date on a page with a fire in it." There are still 98 paragraphs. The two lines that quoted "the year of the Armada" (Mara's "knows history as a date" trait; the Emesa/Jerusalem knowledge row) now quote the page. A `revalidation_needed` row records the edit (RESOLVED).
+- **Ch.13 (commit 7ca9352).** Only the header comment changed (the md5 is now bf846713…), so no ch-13:pYY and no quote is affected. A `revalidation_needed` row is added (RESOLVED).
+
+### Replaced (plan → prose)
+- **Timeline:** row 14. One night, the seventh into the eighth of Bysios AD 71, continuous with ch-13:p245:
+  - "It was the year seventy-one … the spring was only started" and "eight years and a little over" (p19);
+  - the half moon is "down by midnight" (p33; p61);
+  - "the next new moon" is still to come (p54).
+- **timeline_events:**
+  - the planned "1988 … graduate student" row is now **April 1979**: at fourteen, with her mother (p15; p16);
+  - the planned eighth-of-Bysios row is replaced by the night and by first light (the mules; "the bottom of the climb");
+  - new rows: the 1850s numbering, Saint Paul's crossing (c. AD 60–61) and the letters to Tacitus (c. AD 106–107).
+- **Location rows:** Mara (Theano's door → the fountain → the corner → Kallia's woodpile, storeroom, drain, gate) and Valens (the corner → across the threshold → gone for the mules).
+- **Knowledge:** Mara's planned AD 79 row now cites the page. It is in scene, and neither "Pompeii" nor "Vesuvius" is in the prose. `eruption_foreknowledge` is split into the Ch.14 page row and the still-planned Ch.36 row (the 24th and the hours).
+- **Waypoints:** Mara's Ch.14 row.
+- **Kallia's planned trait** ("puts Valens on the floor") is confirmed on the page; her reasons are not stated.
+- **`plot_threads.maras-secret`** is opened on the page (p30; p36).
+
+### Added
+- **Characters:**
+  - new: `woman-with-the-jug` ("not only Syracuse"), `thessalian-father-from-larisa`, `thessalian-youngest-son` and `thessalian-sleep-talker`;
+  - told only: `pliny-the-younger` (unnamed on the page), `tacitus`, `livy`, `saint-paul`, `fiorelli` (unnamed: "An Italian in the 1850s"), `fur-hat-woman-1979`, `casts-gallery-guard-1979` and `pretzel-seller-1979`.
+- **Mara:**
+  - the "Syracuse" alias;
+  - an age note: fourteen in April 1979 with b. 1965 puts her birthday between January and April;
+  - `worn/carries/marks/hunger/hair_ch14`;
+  - 13 traits: the instant dawning, the overflowing jar, the bounded map knowledge, the plaster, the 1979 memory, the laugh, true-story covers, the withheld hand, the word kept, the plan, the bowl taken back, all-or-nothing about the cave, and three short lines of Greek;
+  - 17 knowledge rows and `knowledge_absent_ch14`;
+  - Ch.14 statuses on nine relationships, plus two new relationships;
+  - the money rag.
+- **Valens:**
+  - `seen/marks/clothing_ch14`: the bruised left arm uppermost; his cloak; "The knife from the road";
+  - 5 traits and 4 knowledge rows, including the well cover and "The moon's down by midnight,";
+  - `knowledge_absent_ch14`: the word, why she laughed, 79, and the plan he is in and left out of;
+  - "his blanket", two relationship statuses and a waypoint.
+- **Kallia:**
+  - 5 traits and `household_ch14`;
+  - a location row;
+  - possessions: her own blanket, the cup and salt, the gate bar, a note on the lidded pot, and a note on the lamp;
+  - 4 knowledge rows: "every other piece of the day … over supper"; the stool cover; the boy's fat; the mules;
+  - `knowledge_absent_ch14`, 4 relationship notes and a waypoint.
+- **Theano:** a `ch14_update` on the water trait ("She had me carry her water instead."), 2 traits, a location row and `knowledge_absent_ch14`.
+- **Felix:** an off-page location row and `knowledge_absent_ch14` (the plan has "no boy in it").
+- **Others:** Ch.14 notes on Euthydikos (the bowl in her plan), Halloran (agrees with ch-02), Emilio ("never a spare bed"), Mara's mother (the 1979 casts), the Thessalian family (SETTLED as Kallia's lodgers; from Larisa), the gallery lodgers and the Amphissan woman (her well retold).
+- **Locations:**
+  - new: `larisa`, `malta`, `herculaneum` and `casts-exhibition-1979`;
+  - Ch.14 facts on pompeii (the plan, the tombs, garum; never named), vesuvius, neapolis, naples, puteoli, kirrha, corinth, kallias-house (the storeroom plaster, the court, the drain, the morning), theanos-house (the jars; the lion's-head fountain), delphi, cliff-stair-above-delphi ("short turns"), nuceria-road and philadelphia.
+- **Objects:**
+  - new: `kallias-own-blanket` ("brown, with a burn at a corner"; "folded in four");
+  - `talkers-knife` (a beat; `last_mentioned` p32);
+  - `maras-money-rag` (short of a crossing; `last_mentioned` p51);
+  - `goat-hair-blanket` (a note: "my blanket", not named).
+- **Knowledge index:**
+  - new: `maras_plan` (Mara only; NOT Valens, Felix, Kallia or Euthydikos; the bargain is planned for Ch.15);
+  - Ch.14 rows on `door_location` (Valens, Kallia and the house still NOT), `door_when`, `the_year`, `eruption_foreknowledge` and `syracuse_cover`.
+- **Threads:** Ch.14 notes on the-where, the-when, romance, valens-known, felix-arena, euthydikos-bowl (now passage money; forward against outline Ch.16's autumn departure), maras-living, return-to-the-cave, the-non-greek-word, maras-english-to-herself (HELD), halloran-campania, syracuse-cover, theano-phrase (not used; 1 of 3), seventh-of-bysios-phrase (2 of 3), kirrha-road-killing and maras-stated-return.
+- **World rules:**
+  - two OBSERVED (Ch.14) rules: a woman travels on a man's name; the grain ships come in to Puteoli with the spring;
+  - `ch14_observed` added to the sea-season, eruption, Ch.7 household-pot and narrative-law rules.
+
+### Contradictions
+New and UNRESOLVED:
+- **CH14-1 (info):** the bible's Ch.14 blocks (written 08:01) quote the Writer's draft. Off the page, among others:
+  - "Her water carried", "He had not troubled with a permit. He had picked the year", "What did she want?";
+  - the 1988 casts, "I laughed", "in its order", "at this new moon";
+  - "There's no moon till the new one", "long turns", "fig leaves";
+  - the change line's account of the Ch.10 edit ("year" → "date"), which is not the page.
+
+  The bible sync is handed off.
+- **CH14-4 (info):** outline Ch.14 departures, none against a NON-NEGOTIABLE:
+  - Kallia's reasons for the floor are not on the page;
+  - the well cover, rather than withholding only the meaning;
+  - the bowl as passage money, reversing ch-13:p114;
+  - AD 79's month and the course of the day in present thought (the 24th and the hours stay with Ch.36);
+  - Halloran's invitation recalled and turned;
+  - "Pompeii" in the title only.
+- **CH14-5 (info):** Mara gives Kallia a cover ("She wanted somebody to hear about her stool,") against the mutable: false trait "will not lie to Kallia" (ch-12:p176). It is true in its letter. Left for continuity-guardian.
+
+New and RESOLVED in the same run (the post-disruptor page, settled by the repair):
+- **CH14-2 (medium here; the audit's C-01 graded it CRITICAL): the moon.**
+  - The post-disruptor page had "There's no moon till the new one", an old crescent before dawn and "this new moon". That sky fits days 24–28 of a lunar month, not the seventh.
+  - Now: "The moon's down by midnight," (p33); the half moon "had dropped behind the western hills" (p61); "at the next new moon" (p54).
+  - **No CRITICAL stands on the final page.**
+- **CH14-3 (low; audit W-02):** "He had carried it out of the temple himself" could be read as the word. Now: "He had carried the god's half of it out of the temple himself" (p30).
+- **CH14-6 (low; audit W-01, not caught here):** the February 1988 casts at twenty-three are now April 1979, at fourteen, with her mother (p15; p16). The outline beat 1 and voice-dna §0.3 are patched to match.
+- **CH14-7 (low; W-05):** "the latrine" is now "the pot by the water jars" (p37), which agrees with ch-07:p36.
+- **CH14-8 (low; W-06):** "long turns" is now "short turns" (p64), which agrees with ch-06:p159's "short zigzags".
+- **CH14-9 (low; W-03/W-04):** "from a gladiator, word for word … He had picked the year." is now "with a gladiator standing for me at the screen … He had picked the town." (p24).
+
+Updated:
+- **CH13-7 (cave "Tomorrow"):** KEPT and set for the morning of the eighth. Mara decides to see it shut; Valens has "gone down for the mules"; Kallia sends her to "the bottom of the climb" with bread (p57–p64). Severity is raised from info to low because the errand is now in motion. Forward constraint: **Ch.15 (summer, the high pasture) must account for the climb and for what the crack did**, on the page or reported, before Mara tells Valens the door home is in Pompeii.
+- **CH13-8:** item (10), Valens on Kallia's floor, is carried out on the page.
+
+Rechecked with a note and left open:
+- CH2-1 ("I had said Greece, perhaps." has no "first");
+- CH6-5 (the cliff path is in view);
+- CH12-4 (the season "opened with the spring").
+
+Nothing else is touched.
+
+### The audit's suggested patches
+Applied as the repaired page supports them:
+- CH13-7;
+- the moon, recorded after the fix only;
+- the casts (April 1979, venue unnamed on the page);
+- Mara's knowledge;
+- the Pompeii-name knowers, as `door_location` rows plus `maras_plan`;
+- euthydikos-bowl;
+- the-non-greek-word kept open;
+- Kallia's blanket;
+- the walk-ons;
+- the fountain and the jars at theanos-house.
+
+The at-risk registry note is the bible's, so it is not applied here.
+
+### For Ch.15 onward
+- **The cave climb** of the eighth is set and not shown (CH13-7).
+- **Valens** does not know the city. Outline Ch.15 gives it to him, with the truth.
+- **The plan** needs a man and leaves Valens out ("He kept being in it."). The Ch.15 bargain supplies him.
+- **The bowl** after the season sits against outline Ch.16's autumn departure for Corinth.
+- **The moon** counts from the seventh: half on the seventh, full about the fourteenth or fifteenth, new about three weeks on.
+- **Felix** is out of the plan, and his Italy question is unanswered to him.
+- **AD 79** in present thought is spent for Ch.14. The 24th and the hours remain for Ch.36–37.
+- **Kallia** has the whole day except Theano's word, plus the stool cover.
