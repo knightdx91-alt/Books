@@ -582,7 +582,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Emotional surprise:** the escape succeeds because a bureaucrat is bored, not because anyone was brave.
 **Opening strategy:** mid-action, in the record office: wax tablets, dust (≤8 words).
 **Key scenes/beats:**
-1. **NON-NEGOTIABLE.** The record office: the fig-eating clerk, Plautia's bribe, and Mara reading shelf-marks the way she reads museum accession numbers. The bronze-and-wax diptych. (Per Ch.12: the registration is not in dispute. The record proves the lanista freed him before witnesses and the emperor; Celer's claim is a bill of sale dated the month before the games.)
+1. **NON-NEGOTIABLE.** The record office: the fig-eating clerk, Plautia's bribe, and Mara reading shelf-marks the way she reads museum accession numbers. The two-board leaf, cut from the magistrate's cord-bound book (per Ch.16). (Per Ch.12: the registration is not in dispute. The record proves the lanista freed him before witnesses and the emperor; Celer's claim is a bill of sale dated the month before the games.)
 2. Fragments of how they got in: Plautia's brother, the games emptying the city.
 3. **NON-NEGOTIABLE.** **Celer** in the colonnade: genial, reasonable, patient, a friend you never had. Face to face with Valens. No violence; a conversation with knives underneath.
 4. Into the games crowd: athletes, pine-crowns, sausage sellers.
