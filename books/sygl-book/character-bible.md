@@ -244,6 +244,10 @@ Distinguish characters on **four axes** first:
   moment the subject is a blade, a potion or a plan, against Viridia, who is blunt everywhere and never
   explains a technique.
 - **Sample line:** "I like books better than people … Books don't mind if you don't say anything." (Ch.10)
+- **Ch.13 confirmation:** reads as carded. Hedged with people ("Oh. Um."; "Is it okay?"), fluent the
+  moment the subject is the Dawn faction or her rapier (the overheard tournament story, told steadily).
+  Hair behind the ear: her source beat, **used once in Ch.13 (spent)**. Glasses-pushing is not used in
+  Ch.13 (already in Ch.10 and Ch.12; rest it). Village clothes: brown trousers, patched brown jacket.
 
 #### RAIZEN — originator of the Tempus sygl; principal antagonist
 - **Source facts:** looks middle-aged; plain orange monk's clothing; sits with his hands together on
@@ -551,27 +555,33 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - DISTINCTNESS GUARANTEE: the one fighter who nearly beats Lora, known only through her excitement.
 - Sample line: none (reported only).
 
-#### SOREN — Dawn Hall clerk, New Spring (Ch.13, 17) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### SOREN — Dawn Hall clerk, New Spring (Ch.13, 17) *(on page Ch.13 — confirmed)*
 - Attention / worldview: guild procedure — membership, team rules, dues, ledgers, the right job.
 - Vocabulary band: courteous professional.
 - Syntax fingerprint: polite procedural explanations; a reasonable counter-question ("why would you not
   join first if that's what you wanted?").
 - Evasion — never says: her guess about "Amelia Norheart"; she raises an eyebrow and says nothing.
-- Physicality / silence: guild uniform; writes names in white flowing script that engraves into the
-  wood; staffs the always-open hall.
+- Physicality / silence: guild uniform (Ch.13: a grey jacket with a sunrise stitched on the breast, worn by
+  both clerks); writes in an even, flowing hand with a pencil-like tool, the letters coming up white and
+  sinking into the wood; takes her time looking people over (her gaze moves between Lora and Viridia
+  before she answers Bal); the raised eyebrow is spent ONCE, on "Amelia Norheart" (Ch.13). Staffs the
+  always-open hall.
 - Verbal tic: none — distinguished by evasion (the eyebrow and silence).
 - DISTINCTNESS GUARANTEE: the stranger who notices the borrowed surname and keeps it to herself,
   against Mrs. Locklan, who tells everyone everything.
 - Sample line: "Welcome to the Dawn Hall. My name is Soren and this is Kim. What can we do for you
   today?" (p.75; Ch.13)
 
-#### KIM — Soren's colleague at the Dawn Hall (Ch.13) *(not yet on page — seeded from source; Writer confirms on first appearance)*
-- All four axes: source silent — keep to function (introduced by Soren; never speaks).
+#### KIM — Soren's colleague at the Dawn Hall (Ch.13) *(on page Ch.13 — confirmed)*
+- All four axes: source silent — keep to function (introduced by Soren; never speaks). On the page she
+  lifts a hand in greeting once and goes on sorting a box of papers (Ch.13); nothing more.
 - Verbal tic: none — distinguished by function.
 - DISTINCTNESS GUARANTEE: present, named, silent.
 - Sample line: none.
 
 #### MS. SUMMERS — New Spring's alchemist; Lora's mentor (Ch.13, 16–17; mentioned 24) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+- Ch.13 note: referred to only as "the local alchemist, an older lady" who doesn't feel well enough to go;
+  NOT named in Ch.13 (the source names her later). Name her where the source first does.
 - Attention / worldview: the craft and its economy — only enough ingredients for three, "no point in
   being greedy"; lonely; eyes light up at Lora's questions; trades two potions as part payment.
 - Vocabulary band / Syntax: speaks mainly through Lora's reports; her praise is rare ("glowing praise
@@ -614,6 +624,8 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - Sample line: "I don't know how you managed to kill Heath with that shoddy sword work." (p.122; Ch.21)
 
 #### SEAN KIIN — Tempus Lead Mage (a fourth year) (Ch.13 described; Ch.20 on stage) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+- Ch.13 note: described unnamed by Viridia ("Ours is a jerk": no loud talking, no kissing, a study time,
+  five demerits = any chore). Bal does not yet know his name.
 - Attention / worldview: rank and ownership of "his" Tempus students; enforces rules (no loud talk, no
   kissing, study time; five demerits = any chore he wants).
 - Vocabulary band: a prefect's.
