@@ -8,19 +8,19 @@ After the bright yard, the front hall of the orphanage was dim and cool, and it 
 
 "Good for the staff," Bal said. "You can't sneak anywhere."
 
-Thankfully, most of the other kids were outside. The hall held nothing but a cardigan somebody had dropped at the foot of the stairs, and the smell of floor polish. That suited Bal fine. He had to go and see Mrs. Brown, and he would rather not have half the orphanage trailing behind him asking about his hand.
+Thankfully, most of the other kids were outside. That suited Bal fine. He had to go and see Mrs. Brown, and he would rather not have half the orphanage trailing behind him asking about his hand.
 
 Mrs. Brown was one of the women who helped run the orphanage. She was in her forties, and ever since Bal was small she had worn a light grey skirt and a white blouse, with her greying hair tucked up into a bun. Some kids didn't like her. If she caught you doing something you weren't supposed to, you got a severe punishment, and she was very good at catching people. Bal had never held that against her. As he saw it, if what you were doing was worth getting caught for, why get upset when you were? He had weeded his share of cabbages on the strength of that idea, and he still thought it was sound.
 
 But Balthazaar had always known something else about Mrs. Brown, too. If he ever truly needed someone to talk to, or if he had really messed up, he could go to her.
 
-This was one of those times he really needed to talk to her. He hadn't decided yet whether it was also one of the times he'd really messed up.
+This was one of those times he really needed to talk to her. He hadn't decided yet whether it was also the other kind.
 
-Her office was at the end of the downstairs hallway, past the bulletin board with its curling chore lists. Five wooden chairs stood in a row beside her door, and Bal had sat in each of them at some point. He knocked twice on the door, took the chair nearest to it, and motioned for Amelia to do the same.
+Her office was at the end of the downstairs hallway, past the bulletin board with its curling chore lists. Five wooden chairs stood in a row beside her door. He knocked twice on the door, propped the rolled rug against the end chair, took the one nearest the door, and motioned for Amelia to do the same.
 
-"What are we doing?" Amelia asked, plopping down beside him.
+"What are we doing?" Amelia asked, plopping into the next chair.
 
-She looked up and down the hallway with open interest. Three thousand years in a temple, Bal supposed, and even chore lists were something to look at.
+She looked up and down the hallway with open interest. Even the chore lists got a look.
 
 "I need to talk to someone about my hand," he said. He held it up for her to see. "Well. That, and me going to school. There's a new orientation class in two weeks. We had three boys and two girls leave a few days ago."
 
@@ -86,7 +86,7 @@ She said it without any heat at all, the same as she might have mentioned the we
 
 "But I think it's time they see what a true blood mage can do," she said, smiling.
 
-Bal found he was smiling back.
+Bal nodded.
 
 "Can you get me enrolled, then?" he asked Mrs. Brown. "I know I'll have to leave soon to get there in time. Plus I'll need the school supplies."
 
@@ -114,7 +114,7 @@ She stopped there. Outside the window, the game went on.
 
 That was the whole of it. It had taken her less than a minute to tell. Bal stood there and looked at the man in the frame, a stranger with a narrow face and his collar done up to the top button, smiling at whoever had held the camera, and thought that it must have taken her a great deal longer than a minute to learn to tell it that short.
 
-Then she looked away from the picture and back at them, and she was Mrs. Brown again, grey skirt and white blouse and the bun, the woman who had made him weed all those cabbages.
+Then she looked away from the picture and back at them, and she was Mrs. Brown again, grey skirt and white blouse and the bun, the woman whose office this was.
 
 "So I want to help Bal overcome this hatred, if I can," she said to Amelia. "With his sygl being visible the day he was born, I know his affinity must be strong. Otherwise they wouldn't have removed his hand that soon."
 
@@ -124,7 +124,7 @@ Amelia saw. She reached over and covered his fist with her own hand. Her palm wa
 
 "Don't worry," she told him softly. "They can't do it again."
 
-Bal looked into her eyes. They were very red and very steady, and none of the teasing was in them now. He believed her. It was as simple as that. Under her hand his fingers came open one at a time, and she didn't let go.
+Bal looked into her eyes. They were very red and very steady, and none of the teasing was in them now. He believed her. Under her hand his fingers came open one at a time, and she didn't let go.
 
 "So what do I need to do?" he asked Mrs. Brown. The words came out rougher than he meant them to, and he cleared his throat.
 
@@ -132,7 +132,7 @@ Bal looked into her eyes. They were very red and very steady, and none of the te
 
 ---
 
-With that dismissal, Bal headed up to his room, and Amelia followed him.
+With that dismissal, Bal collected the rug off the chair in the hall and headed up to his room, and Amelia followed him.
 
 The dormitory was on the second floor, a long room with the beds in two rows and a narrow locker at the foot of each. With everyone outside it was empty, and it smelled of clean sheets and somebody's forgotten oranges. Bal's bed was the third from the window on the left.
 
@@ -144,11 +144,11 @@ Amelia came and stood beside it.
 
 "It belongs to the orphanage," Bal said. "Somebody else can have it next."
 
-As the majority of his belongings were not things of sentimental value, it did not take Bal long to pack. He hauled his backpack out from under the bed, tipped out the crumbs of the cheese sandwiches, and knelt in front of his locker. Most of it he left where it was: shirts with the cuffs gone, comics everyone had read, a jar of marbles. A school would not need his marbles.
+As the majority of his belongings were not things of sentimental value, it did not take Bal long to pack. He slid his backpack off and emptied it onto the blanket. Out came the flashlight, the water bottle, *Sygldry Year 2*, and both cheese sandwiches squashed flat in their napkin, which he had forgotten all about. Then he knelt in front of his locker. Most of it he left where it was: shirts with the cuffs gone, comics everyone had read, a jar of marbles. A school would not need his marbles.
 
 What he really wanted to take didn't amount to much. A few books. The compass he'd been given for his birthday, brass and dented, with a needle that still swung true. A pocketknife. It was a good pocketknife and he liked it. And, wrapped in a dish towel at the very back of the locker, his rune engraving kit.
 
-It was a flat wooden case with a brass catch, and inside, each in its own slot, lay a set of fine steel gravers, a magnifying lens, and a sheet of practice copper scored all over with his first attempts. He'd bought it with his earnings from working in the kitchen. It had cost him most of a year of peeling potatoes and scrubbing pans after supper, and he did not regret a single pan of it. He wrapped it back up and fitted it into the bottom of the pack where nothing could knock against it.
+It was a flat wooden case with a brass catch and his first scratchy attempts still inside. He'd bought it with his earnings from working in the kitchen. It had cost him most of a year of peeling potatoes and scrubbing pans after supper, and he did not regret a single pan of it. He wrapped it back up and fitted it into the bottom of the pack where nothing could knock against it.
 
 Behind him the bedsprings creaked. When he turned around, Amelia had swiped one of his spell books off the top of the pile and was lying back on his bed with her ankles crossed and her hair spread across his pillow, reading.
 
@@ -190,11 +190,9 @@ Bal opened his mouth.
 
 "Not without them wanting it," she went on quickly. "Never that. But it can be done. The other originators were shocked when this came out. Honestly, it was a closely guarded secret at one point. But Raizen, the storm originator, got one of his followers to kidnap a high priest of mine." Her voice stayed even, but her fingers had tightened on each other. "The other originators had grown concerned that some of their followers were disappearing from their sight. So Raizen's high priest captured one of mine, and tortured him, to find out what was going on."
 
-Somewhere below the window, the softball game broke into a fresh round of cheering. Neither of them looked.
-
 "Truthfully, I was more concerned with other things at the time," Amelia said. "I didn't realize that one of my high priests had gone on a converting crusade. The others didn't believe that I'd had nothing to do with it." She lifted one shoulder. "To be fair, if I had known, I would have been okay with it. The only reason anyone converting would be a problem for the others is that once someone converts, they do not lose their inherited gifts from the old sygl."
 
-Bal turned that over. A person could change sygls and lose nothing. No wonder that frightened anyone who counted on their followers staying put. A dozen questions jostled up at once, and he went with the one that had snagged.
+A dozen questions jostled up at once, and he went with the one that had snagged.
 
 "Inherited gifts?" he asked, curious.
 

@@ -131,3 +131,11 @@ CVI-Legacy (default weights) = 0.3(8.0)+0.25(8.5)+0.2(1)+0.15(4)+0.1(4) = **5.7*
 **POLISH.** Genesis Floor 7.5, Average 8.2, Casual 8/10. Gates are clean. Source fidelity is complete and in order, and canon is correct (Blood, the palm, Pierre, Fredrick a friend). The floor is a mechanical Pattern #11 cap that two cuts remove.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+## Revision applied (2026-10-20, book-editor)
+Surgical pass, no new plot; source dialogue untouched. 3,359 → ~3,270 words.
+- **Continuity:** Bal props the rolled rug against the end chair outside the office (L19), collects it on the way upstairs (L135), and slides the backpack off and empties it on the blanket (flashlight, water bottle, *Sygldry Year 2*, both cheese sandwiches "which he had forgotten all about"). "Under the bed" is gone.
+- **Pattern #11:** cut "It was as simple as that." (L127) and "A person could change sygls… staying put." (L197). L23 trimmed to "Even the chore lists got a look." Explanatory extensions: 0 left (0.0/1K).
+- **Pacing:** cut the cardigan/floor-polish sentence and "Bal had sat in each of them"; cut the fourth softball cutaway (L193); cut the rune-kit slot inventory to one clause (the year of pans is kept).
+- **Prose:** L117 → "the woman whose office this was" (the cabbages stay at L13 only); L17 narration "really" → "whether it was also the other kind" (the source sentence before it is kept verbatim); L89 → "Bal nodded." (source beat); L21 → "plopping into the next chair."
+- **Gates:** style_check clean (simile 2.1/1k, em-dash 0), grammar 0, voice_wear clean (strict), tic_report --gate clean, --echoes 4 → 0. "the way [x]" simile: 0.
