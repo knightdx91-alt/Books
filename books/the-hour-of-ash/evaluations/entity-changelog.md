@@ -1983,3 +1983,158 @@ The at-risk registry note is the bible's, so it is not applied here.
   - `paragraph_rule`, `last_updated_by`, `mode`, `source` and the header comment extended.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass.
 - **No new contradiction and no knowledge_gap.**
+
+## 2026-10-20: UPDATE (chapter 15, "Summer Pasture", final text: post-writer, dialogue-polish, hook-craft and disruptor)
+
+**Trigger:** chapter loop step D.5 for chapter 15 (the orchestrator asked for the post-disruptor page).
+
+**Inputs read:**
+- `manuscript/chapters/chapter-15.md`, last written 11:03:44 (md5 33239f8741caa28f43f4353c336bf59e; commit b03816a, the disruptor pass; 7,787 words by shape_check). It is unchanged against HEAD.
+  - **295 paragraphs.** Breaks come after p54, p181 and p251, giving four shards: S1 p1–p54 dawn (with both backfills), S2 p55–p181 noon, S3 p182–p251 afternoon to dusk, S4 p252–p295 night.
+- `ENTITY_STATE.yaml` (`last_updated_chapter: 14`).
+- outline.md Ch.15–16; voice-dna.md (the one contraception thought); character-bible.md (the MNASON card and the Ch.15 notes, read only).
+- Ch.3, 5, 6, 7, 11, 12, 13 and 14 pages for the crack, the Castalian spring, Philadelphia on the cliff, the singed legs, Felix's origin, the camera and the foot of the climb.
+
+**Meta:**
+- `last_updated_chapter: 15`; `chapters_tracked: [1..15]`.
+- `paragraph_rule` is extended to Ch.15.
+- New block `meta.ch15_requested_checks` (13 checks).
+- 1,035 `ch-15:pYY` cites, all within p1..p295.
+- Every new quoted segment was machine-checked against the page, including that it sits in a paragraph its line cites. The exceptions are deliberate: quotes from other chapters, the outline, foundation and the bible, each labelled.
+- The YAML loads under `yaml.safe_load` and under a strict loader with no duplicate keys.
+- Counts: characters 210 → 220; locations 72 → 74; objects 97 → 100; timeline_events 170 → 173; character knowledge rows 526 → 563; knowledge_index rows 283 → 308; plot threads 55 → 56; world rules 78 → 82.
+
+### Replaced (plan → prose)
+- **Timeline row 15:** one day in July AD 71 by Mara's count ("It was July now, by my own count", p8).
+  - About four months since Ch.14: "since then, four months, not a word about the light" (p23).
+  - The grazing began about May ("In two months I had learned", p25).
+  - The two backfills sit inside the dawn shard.
+- **timeline_events:** the planned "summer AD 71" row is replaced by four rows:
+  - the Corinthian at the lion spouts and Kallia's boat story, in the month after the consultation;
+  - the string going up, about May;
+  - the July day;
+  - Mara's last shave, May 1998.
+
+  The Ch.14 eighth-of-Bysios row gets a `ch15_page`.
+- **Location rows** for Mara and Valens, now `summer-pasture`, with the backfill.
+- **Waypoints** for Mara.
+- **Valens's teeth** ("not one was missing … like a row of new tiles", p274).
+- **Valens's three planned knowledge rows** (the nineteen centuries; the cave door and Pompeii; the bargain) are replaced by fourteen page rows. The bargain is now **his** (told_by:valens / his own), not told_by:mara-reyes (CH15-8).
+- **knowledge_index:**
+  - `door_location` (Valens);
+  - `mara_origin` (Valens);
+  - `maras_plan` (superseded by the bargain).
+- **Threads:** `valens-papers.opened` and `valens-belief.opened`.
+- **Objects:**
+  - the Pentax's Ch.15 beat;
+  - `manumission-record`'s Ch.15 beat;
+  - the flashlight's `last_mentioned`.
+- **Locations:** the parnassus "high summer pasture" fact.
+- **Organizations:** `household-of-celer`'s "still hunting Valens in summer". This is NOT on the page as Celer's men.
+
+### Added
+- **Characters:**
+  - **mnason**, the herdsman, about sixty by Mara's estimate. Entry covers:
+    - the goatskin cap; milking from behind; the fig-twig quarrel; the rennet; the cheese; "your man";
+    - where he winters;
+    - his hut, the hut he built that they use, the woodstack, his dog.
+  - mention-only: `mnasons-mother`, `mnasons-brother`, `mnasons-son`, `mnasons-sons-wife` (from Amphissa);
+  - **bandaged-corinthian** (`needs_review`: he could be `third-man-kirrha-road`; the page does not say so);
+  - told only: `judaean-teacher`, `calendar-monk`, `alexandrian-door-builder`, `italian-market-cheese-man`.
+- **Mara:**
+  - `worn/carries/marks/legs/hunger/hair/height/fertility_ch15`. Height is hearsay only: "the tall foreigner" (p5);
+  - 15 traits;
+  - 14 knowledge rows and `knowledge_absent_ch15`;
+  - Ch.15 statuses for Valens, Kallia and Felix;
+  - a new relationship with Mnason.
+- **Valens:**
+  - `seen/marks/clothing_ch15`: the cheekbone seam; two knuckles skinned by the falling bed;
+  - 11 traits, including shaving with the ditch knife, "Do they still have mules?", the bargain, "Then I'll wait outside it", and the nightly watch on the plateau;
+  - the fig trait confirmed;
+  - `knowledge_absent_ch15`: the fate of the town, the tomb, the WHEN, and belief;
+  - a waypoint, and relationships with Mnason and Felix.
+- **Kallia:** 2 traits (the public lie; the packed bag), a backfill location row, 2 knowledge rows, `knowledge_absent_ch15` and a waypoint.
+- **Felix:**
+  - `marks_ch15` (skinned shins; swollen lips);
+  - 8 traits (the juniper fight; "Felix of Kirrha!"; "Fighters eat on their feet"; the fig);
+  - 6 knowledge rows and `knowledge_absent_ch15`;
+  - a location row and a relationship with Mnason.
+- **Notes on others:** `lucius` (canon note), `third-man-kirrha-road`, `euthydikos`, `euthydikos-door-slave`, `plautias-brother`, `plautias-brothers-freedman`, `plautia`, `quintus-arrius-celer`, `theano`, `emilio-reyes`, `elateian-boxer`, `titus`.
+- **Locations:**
+  - new: **summer-pasture** (the fold, the huts, the woodstack, the seep, the junipers, the troughs, the watch point; distances) and **alexandria** (told);
+  - Ch.15 facts on corycian-cave (the wall a yard past the bend), kalivia-plateau, cliff-stair-above-delphi, castalian-spring (two facts), delphi-modern, delphi, corinth, isthmia, pompeii, puteoli, neapolis, philadelphia, philadelphia-in-asia, amphissa, kirrha, capua, jerusalem and syracuse.
+- **Objects:**
+  - new: `mnasons-drainer` (damaged), `mnasons-hut-bed` (destroyed: the fork split), `carters-hood`;
+  - updated:
+    - **flashlight:** first use since Ch.5 and first seen by anyone in this world; first physical description; batteries tiring;
+    - **fathers-pentax-k1000:** shown to Valens; worn to bed; no cap; the dented rim;
+    - lens-cap; potted-fig-tree (moved, the first move; green figs; Felix's bite); talkers-knife (his razor); maras-money-rag; borrowed-himation ("my himation", which one not named); maras-duffel ("my bag").
+- **Knowledge index:**
+  - new `cave_visit_ch15`;
+  - Ch.15 rows on door_location (Felix and Kallia NOT; Mnason not stated), door_when (Valens NOT), the_year, eruption_foreknowledge (held back, p138), syracuse_cover (Kallia's sailing story; the lane; Valens told "Kallia made Syracuse"), maras_camera and maras_plan.
+- **Threads:**
+  - new **conception-and-lucius**;
+  - Ch.15 notes on the-where, the-door-and-the-choice, celer-and-the-frame, romance (HEAT 1; lovers from p284, recorded as a state), valens-known, felix-arena, maras-secret, maras-stated-return, return-to-the-cave, maras-english-to-herself (HELD), syracuse-cover, maras-living, kirrha-road-killing, theano-phrase (not used; 1 of 3) and seventh-of-bysios-phrase (0; 2 of 3);
+  - **euthydikos-bowl CLOSED** (lapsed).
+- **World rules:**
+  - 4 OBSERVED (Ch.15) rules: man and wife at the gangway; the pasture's dairy; the Isthmus diolkos and the boys' race; the sword before a full arena;
+  - `ch15_observed` on the door rule ("by the cold") and on the narrative law.
+- **plan_gaps:** `ch15_update` on Mara's height (now hearsay) and on whether Felix knows her origin (still OPEN).
+
+### Contradictions
+RESOLVED in this run:
+- **CH13-7 (low), resolved by the page.** The eighth-of-Bysios climb is reported in backfill: Valens below the cliffs with two mules; the plateau half under snow; the flashlight; "a face of gray stone that closed the crack from wall to wall" a yard past the bend, with the daddy longlegs; "It was shut, as I had wished it" (p10–p23). It comes before the Pompeii telling, as the forward constraint asked.
+- **CH14-4 (info), resolved on the orchestrator's instruction.** The bowl plan gives way to Valens's bargain:
+  - Corinth in autumn for "The book with my name in it";
+  - the brother pays his witness's road, plus the ford silver and the mules;
+  - a spring sailing "As man and wife";
+  - Felix comes;
+  - "The priest's bowl could keep its lead" (p146–p176).
+
+  The other items are a closed record of Ch.14's departures from its outline.
+- **CH12-7 (info), resolved by the page.** The camera is shown and explained to Valens: "It keeps what it shows" (p113–p125).
+
+New and UNRESOLVED:
+- **CH15-1 (low):** the Castalian spring in May 1998. Ch.5 has "a dry niche behind a wire fence" (ch-05:p21); Ch.15 has "It still runs. There is a fence round it now" (p106).
+- **CH15-2 (info):** Kallia sends Mara to wait for Valens at the bottom of the climb (ch-14:p61), but Ch.15 has "Valens had been waiting below the cliffs" (p10). Compatible.
+- **CH15-3 (info):** "Felix! Felix of Kirrha!" (p204) is a ring name; his origin is Side (ch-11:p220).
+- **CH15-4 (info):** "In Asia." / "Further than Asia" (p79–p80) re-runs the Ch.6 exchange, where she had already said "Farther" (ch-06:p167).
+- **CH15-5 (info):** "by my own count" (p8) sits beside "I had not counted a day since October" (p281). In context the second is her cycle.
+- **CH15-6 (low, forward constraint):** lovers from July AD 71 with nothing against a child "but luck" (p281). Canon has Lucius conceived about autumn AD 73 (born summer 74), which leaves about 26 months with no pregnancy on the page. The voice-dna contraception thought is SPENT.
+- **CH15-7 (low, forward constraint):** Delphi believes she sailed from Kirrha "at the turn of the month" (p6; p169; p171). Outline Ch.16 has her back at Kallia's house in autumn and crossing from Kirrha.
+- **CH15-8 (info):** departures from the outline for Ch.15:
+  - the bargain is his;
+  - there are no Celer's men in the summer;
+  - there is no word of madness;
+  - Mnason is named;
+  - the cave backfill is added;
+  - the bowl is let go.
+
+  None of these is against a NON-NEGOTIABLE.
+- **CH15-9 (info):** Kallia's cover says "broke two of my jars" (p6). Only one broken jar is on any page (ch-07:p115).
+- **CH15-10 (info):** "The boy says it was your father's." (p119). The telling is undated, against Felix's "To anybody" (ch-13:p123).
+
+Rechecked with a note and left open: CH5-3 (no frame shot), CH6-5, CH12-2 ("that book in my hand"), CH12-4, CH12-5 ("Celer's chose a road for it"), CH12-8.
+
+**No CRITICAL. No knowledge_gap.**
+
+### Knowledge flow (the orchestrator's question)
+- **Valens now knows:**
+  - the count to 1998, nineteen centuries ahead;
+  - the cave door;
+  - Pompeii, in Campania below the wine mountain, with the door "out among the tombs, somewhere";
+  - that she means to go home by it.
+- **Valens does NOT know:** the town's fate (p138), the tomb, or the WHEN.
+- **Belief:** he believes only the light ("I was there to see it."). "Then I'll believe it" if he sees the door open.
+- **Felix** was at the troughs through the telling (p55; p185) and asleep for the belief exchange. He has Corinth, the winter, a ship and Italy, and none of "man and wife" or Pompeii.
+- **Mnason** was in the hollow at noon "with his cap over his face" (p55). Whether he heard is not stated, so no knowledge row is given (the bible says he knows none of it).
+- **Kallia** is in Delphi.
+
+### For Ch.16 onward
+- **Delphi believes Mara sailed** (CH15-7). Euthydikos's man is to be told "you sailed".
+- **Corinth** "When the grazing's done, in the autumn … Before the rains": the brother's house (a porter, a dog, a cook), with Mara as "My wife"; the string sold down at the Isthmus; Felix with them.
+- **The record** is still "the book" (CH12-2).
+- **Mara's stated condition:** "I shall go home." / "Then I'll wait outside it."
+- **The flashlight's batteries** are tiring, and there are none to buy.
+- **The Pentax** has no cap; Valens has handled it.
+- **No pregnancy** before the Ch.20 reveal (CH15-6).
