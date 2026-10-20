@@ -60,8 +60,8 @@ books/sygl-book/
 None open (all resolved 2026-10-20; see `STATE.yaml` → `decisions`). New questions go in `open_author_decisions`.
 
 ## Status (update as you go)
-- 2026-10-20: blueprint rebuilt to source order (30 chapters, ≈91,400 words).
-- Ch.1–3 rewritten toward the source 2026-10-20 (9,118w); style/grammar/tic/voice-wear gates clean;
-  **book-evaluator re-score pending**.
-- **Next: Ch.4 "Mrs. Brown"**, picking up right after "They watched the game for a few minutes before Bal
-  pulled Amelia inside." (source L162).
+- 2026-10-20: blueprint rebuilt to source order (30 chapters, ≈91,800 words).
+- Ch.1–4 FINAL 2026-10-20 (11,809w): rewritten to the source; all gates clean; Genesis Floor 8.5 each.
+- **Next: Ch.5 "Verin's Cottage"** (source L259–284), opening with Pierre waking Bal.
+- Gate tools voice_wear_check.py / tic_report.py read `manuscript/chapters/`; run them on a scratch copy laid out
+  that way (the book uses flat `manuscript/chapter-NN.md`).

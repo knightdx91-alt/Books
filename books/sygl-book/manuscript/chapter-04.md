@@ -128,7 +128,7 @@ Bal looked into her eyes. They were very red and very steady, and none of the te
 
 "So what do I need to do?" he asked Mrs. Brown. The words came out rougher than he meant them to, and he cleared his throat.
 
-"Nothing, except pack the few belongings you wish to take with you," Mrs. Brown said. "I need to reach out to the school, so you'll probably leave here in the morning." She looked at them both, and at their joined hands, and her eyebrows went up a fraction. "The fact that you have a familiar, not to mention that it's your own originator, will cause a stir as well. Most students don't get a familiar until they're introduced in your classes. I'll let the school know you have one, but I'll leave the details out." She glanced down at her letter, which in that office meant you were finished. "For now, it's best you run along and pack. I will send Pierre for you in the morning."
+"Nothing, except pack the few belongings you wish to take with you," Mrs. Brown said. "I need to reach out to the school, so you'll probably leave here in the morning." She looked at them both, and at their joined hands, and her eyebrows went up a fraction. "The fact that you have a familiar, not to mention that it's your own originator, will cause a stir as well. Most students don't get a familiar until it's introduced in their classes. I'll let the school know you have one, but I'll leave the details out." She glanced down at her letter, which in that office meant you were finished. "For now, it's best you run along and pack. I will send Pierre for you in the morning."
 
 ---
 
@@ -190,7 +190,7 @@ Bal opened his mouth.
 
 "Not without them wanting it," she went on quickly. "Never that. But it can be done. The other originators were shocked when this came out. Honestly, it was a closely guarded secret at one point. But Raizen, the storm originator, got one of his followers to kidnap a high priest of mine." Her voice stayed even, but her fingers had tightened on each other. "The other originators had grown concerned that some of their followers were disappearing from their sight. So Raizen's high priest captured one of mine, and tortured him, to find out what was going on."
 
-"Truthfully, I was more concerned with other things at the time," Amelia said. "I didn't realize that one of my high priests had gone on a converting crusade. The others didn't believe that I'd had nothing to do with it." She lifted one shoulder. "To be fair, if I had known, I would have been okay with it. The only reason anyone converting would be a problem for the others is that once someone converts, they do not lose their inherited gifts from the old sygl."
+"Truthfully, I was more concerned with other things at the time," Amelia said. "I didn't realize that one of my high priests had gone on a converting crusade. The others didn't believe that I'd had nothing to do with it." She lifted one shoulder. "To be fair, if I had known, I would have been okay with it. The only reason converting bothers the others is that when someone converts, they don't lose the inherited gifts from their old sygl."
 
 A dozen questions jostled up at once, and he went with the one that had snagged.
 

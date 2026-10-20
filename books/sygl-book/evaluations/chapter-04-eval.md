@@ -139,3 +139,91 @@ Surgical pass, no new plot; source dialogue untouched. 3,359 → ~3,270 words.
 - **Pacing:** cut the cardigan/floor-polish sentence and "Bal had sat in each of them"; cut the fourth softball cutaway (L193); cut the rune-kit slot inventory to one clause (the year of pans is kept).
 - **Prose:** L117 → "the woman whose office this was" (the cabbages stay at L13 only); L17 narration "really" → "whether it was also the other kind" (the source sentence before it is kept verbatim); L89 → "Bal nodded." (source beat); L21 → "plopping into the next chair."
 - **Gates:** style_check clean (simile 2.1/1k, em-dash 0), grammar 0, voice_wear clean (strict), tic_report --gate clean, --echoes 4 → 0. "the way [x]" simile: 0.
+
+## Re-evaluation (round 2)
+**Evaluator:** book-evaluator | **Date:** 2026-10-20 | **File:** revised `manuscript/chapter-04.md` (3,274 words; target 3,200)
+Judged on the author's terms: a faithful, lighter, warm and playful revise/expand; Amelia open and protective; the source dialogue as the base (meaning, speaker and beat kept, smoothing allowed, per the author update); American register; no invented plot, characters, habits or backstory; no tics.
+
+### HEADLINE
+**CVI-Launch:** 8.2 | **CVI-Legacy:** 5.9 | **Genesis Floor:** 8.5 | **Genesis Average:** 8.5
+**Engagement:** Self-Insertion (primary), Empathy, Fascination. **Divergence:** none.
+**Verdict:** **PASS** (Floor 8.5, Casual 8.5).
+
+### Mechanical gates (scratch layout, chapters 1–4)
+- `voice_wear_check.py`: clean (strict).
+- `tic_report.py --gate`: clean. No auto-recurrence. Chapter 4 gesture classes are all at or under 2 (object handling 2, shrug 1, sigh 1, eyes 1). No 3-in-500.
+- `--echoes 4`: 0.
+- `style_check.py`: clean. Em-dashes 0. "the way [x]" similes 0.
+
+### Round-1 fixes verified
+- **Continuity.** The rug is propped against the end chair and collected afterwards. The backpack is slid off and emptied: flashlight, water bottle, *Sygldry Year 2*, and the sandwiches "which he had forgotten all about". All of this matches ch.1 L91 and ch.3 L85.
+- **Pattern #11.** The L127 and L197 cuts are made, and L23 now reads "Even the chore lists got a look." One soft instance remains: "the same as she might have mentioned the weather" (0.3/1K). The cap is lifted.
+- **Pacing.** The cardigan sentence, the chair history, the fourth softball cutaway and the rune-kit inventory are all cut. About 450 words now pass before the office door, and the "Good acoustics" stamp gives page one its playfulness.
+- **Prose and echoes.** The second cabbages reference, the doubled "really", the "smiling back" echo and the "down beside him" echo are all resolved.
+
+### Source fidelity
+All six outline beats are present and in order. The canon fix "It was blood." is right. Pierre is mentioned only. Fredrick is a friend. The sygl is on the palm and the brand is on her forehead. No invented plot or characters. The added banter ("You'll be sorry." / "I doubt it.") and the rug left for the next child are warm expansion that matches the author's direction.
+
+**Dialogue (revised for the author update of 2026-10-20).** The source dialogue is now the BASE, not verbatim text. Each line must keep its meaning, its speaker and its place in the scene, and the memorable lines must survive. Grammar fixes and smoothing are welcome.
+
+Under that rule the writer's in-quote additions are acceptable. They clarify the original lines and change neither meaning nor beat:
+- "But she will. So you can."
+- "Either of you."
+- "now that I think about it"
+- "Never that." This one stays consistent with the consent canon.
+
+They are **not** findings. "It was blood." stays, because it is the canon ruling.
+
+**Optional smoothing of stiff lines.** Keep the meaning, speaker and beat of each:
+- (a) Mrs. Brown, "Most students don't get a familiar until they're introduced in your classes." Suggested: "Most students don't get a familiar until it's introduced in their classes."
+- (b) Amelia, "The only reason anyone converting would be a problem for the others is that once someone converts, they do not lose their inherited gifts from the old sygl." Suggested: "The only reason converting bothers the others is that when someone converts, they don't lose the inherited gifts from their old sygl."
+
+Neither change blocks the pass.
+
+**Minor, optional.** Pattern #10 "Bal was worried enough for both of them". The doubled sentences "Thankfully, most of the other kids were outside. That suited Bal fine."
+
+### Genesis Score
+| Dimension | Score | Evidence | Notes |
+|---|---|---|---|
+| Originality | 8.5 | The consent rule lands in Amelia's voice and Bal's bare "Inherited gifts?" carries the beat. Inverted actor: the strict matron is the ally, with her own reason for it. The rug is left "for somebody else". | +0.5. The L197 cut moved the reveal into dialogue. |
+| Theme | 8.5 | "Wanted for who you are" is acted out (the frame, the fist, "They can't do it again.") and never stated. Texture is above 30% (oranges, the cocoa ring, the foul dispute). | Held |
+| Characters | 8.5 | Mrs. Brown's frame moment, then "she was Mrs. Brown again". Her eyebrows go up "a fraction" at the joined hands. Amelia is open and protective, then playful ("Come on, Master." used once, naturally). Chaos 4/4. | No tics. Gesture gate clean. |
+| Prose & Voice | 8.5 | Stopping sentence: "must have taken her a great deal longer than a minute to learn to tell it that short". Also "once you took out the screaming" and "which in that office meant you were finished". Rough sentence: "But still." Voice under pressure: L121–129. | Cap lifted. Three #11 cuts plus two echo fixes justify +1.0. |
+| Pacing | 8.5 | Faster entry. The cutaway timer is gone. The skim zones are trimmed. The value shift is intact, and it ends on the backpack "waiting for the morning". | +0.5 |
+| Emotion | 8.5 | Anchor lands: the photograph and "They can't do it again." Surprises: her laugh, and the neck joke after the torture story. Body rebel: "He didn't tell it to." | Held |
+| Engagement (Self-Insertion) | 8.5 | Goddess on his bed teasing his reading, hauling him up by both hands. An adult on his side. | Held |
+| **FLOOR / AVG** | **8.5 / 8.5** | | |
+
+### CVI
+Inputs:
+- Commercial Pacing 8
+- Tomorrow 3+ anchors (IMAGE: the collar buttoned to the top, the fist opening; QUOTE: "half measures" / "They can't do it again.") → 9
+- Casual 8.5
+- Shareability 3/2/3 → 5.7
+- Pitch yes
+- Closeness yes
+
+CVI-Launch = **8.2**. CVI-Legacy = **5.9**.
+
+### Anti-AI Scan
+4 of 20 patterns found, all minor:
+- #3: 1 (a callback)
+- #10: 1
+- #11: 1 (0.3/1K)
+- #14: 1 ("cleared his throat", earned)
+
+#20 is now clear (three cutaways). **CLEAN** for commercial.
+
+### Four readers
+- **Devourer:** "Good acoustics" hooks them now. Hooked from "She froze." No stall.
+- **Critic:** Underlines L115, L131 and L183. The "it was simple" explanations are gone.
+- **Hostile:** The props are accounted for. Nothing logical to challenge. Two source lines read stiffly; optional smoothing is listed above.
+- **Casual (8.5):** "Aw, Mrs. Brown." The first page is no longer a hallway. Would buy.
+
+### Tomorrow Test
+The man in the frame with his collar buttoned to the top, and "They can't do it again." BOTH image and quote. ANCHOR EXISTS.
+
+### VERDICT
+**PASS.** Floor 8.5, Average 8.5, Casual 8.5. Two optional dialogue smoothings are listed above (non-blocking).
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

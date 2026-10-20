@@ -8,24 +8,14 @@ supposed to be Sygl."). `project/foundation.md`, `project/outline.md` (now **30 
 ≈91,400 words**) and `project/STYLE_CONSTRAINTS.md` were rewritten; STATE.yaml records every ruling as a
 2026-10-20 author decision.
 
-- **Ch.1–3** (`manuscript/chapter-01..03.md`): rewritten toward the source 2026-10-20 (9,118w; mechanical gates
-  clean); **book-evaluator re-score pending**. Their earlier 8.5 passes are void under the new plan.
-- **RESUME HERE → Chapter 4 "Mrs. Brown"** (target 3,000; outline Ch.4; source [pp.~11–16], L164–257).
-  It picks up the source **immediately after** "They watched the game for a few minutes before Bal pulled
-  Amelia inside." (`Sygl_Complete.txt` L162) — open in the front hall. Two movements: the office (the
-  reveal, "Well then.", "half measures", the claiming politics, the husband's story: his late affinity was
-  **Blood**, the factory fired him so as not to be "seen as a blood mage supporter", shot coming home;
-  "Don't worry, they can't do it again") → Bal's room (packing; Fredrick's books kept because Fredrick was
-  a friend; "overachiever"; Amelia's warning; why she was locked away; inherited gifts; food).
-- Then continue Ch.5 onward strictly in outline order.
-
-Standing rules for every chapter: Sygl spelling; close third on Bal only, past tense; nothing he can't see
-(report it as the source does); no invented plot/friction/backstory/quirks; NO TICS (sole exception:
-Amelia may call Bal "Master"); fade-to-black; keep the source's tone (justified violence, loving Amelia,
-happy ending).
-
-Still pending (housekeeping): decide whether to migrate `manuscript/chapter-0N.md` → `manuscript/chapters/`;
-open author questions are listed in STATE.yaml `open_author_decisions`.
+- **Ch.1–4 FINAL** (`manuscript/chapter-01..04.md`, 11,809w): rewritten to the source 2026-10-20, all four
+  mechanical gates clean, book-evaluator Genesis Floor 8.5 each (reports in `evaluations/`).
+- **RESUME HERE → Chapter 5 "Verin's Cottage"** (outline Ch.5; source [pp.17–25], L259–284). Opens with
+  **Pierre waking Bal** at six (author decision), then the muffin, Verin, the portal and the buggy to the cottage.
+- Dialogue rule (2026-10-20): the author's lines are the base; polish grammar/stiffness into natural speech,
+  keep meaning, speaker, placement and the memorable lines.
+- Gate tools `voice_wear_check.py` / `tic_report.py` read `manuscript/chapters/`; this book is flat, so run them
+  on a scratch copy laid out as `manuscript/chapters/chapter-N.md` (see CLAUDE.md).
 
 ## Manga adaptation — SET ASIDE (author, 2026-10-20: "disregard the manga")
 Out of scope; not kept in sync with the prose. Notes below are historical only.
