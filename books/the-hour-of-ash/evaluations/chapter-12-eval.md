@@ -410,3 +410,41 @@ This is the chapter the romance has been building toward since the snow. A stran
 - Several P5 items are judgments about frames rather than strings (the vehicle domain, the creases, the darn). Each is held because the bible names its source as SPENT or closed.
 - Pacing 9.0 is the book's first; a reader who weights the −12% length or the ford backfill would put it at 8.5, which still passes.
 - CVI-Launch 9.7 is a one-chapter formula, not a book forecast.
+
+---
+
+## Polish cycle 1 applied (book-editor, 2026-10-20)
+
+**Applied as written (the page matched every quoted string):**
+- L1 (¶94), then P3 (¶268, with "Valens" named; the knot and "His hands were sure at it." are out).
+- P1 (¶160, ¶162) and P2 (¶48).
+- P4a–d, P5a/b/c/f/g/h (¶8 and ¶328), P6 (¶26, ¶58, ¶60, ¶120), P7a–d.
+- R1, R2, R3 (the full cut: "He was washing his forearms."), R4.
+
+**Optional items:**
+- **O1 applied** ("The goat comes to the yard the evening before.", −1 word).
+- **O3 applied** (", at her pace" cut).
+- **O2 skipped:** it adds words.
+- **O4 skipped:** it is a like-for-like swap, not a cut.
+
+No sentence was added anywhere.
+
+**Measured after:**
+- Words: 4,711 (shape_check), 4,722 (style_check), 4,907 (`wc -w` incl. header).
+- Dialogue 27.8%; median 10; 2 breaks; `dialogue` → `punch`.
+- First and last lines byte-identical.
+- `check_chapter.sh 12`: all clean. Style, grammar 0, rhythm 0, show/tell no flags, voice-wear strict, tic gate, echo 0, command echo none, metaphor, shape CLEAN.
+- `shape_check --strict`: CLEAN.
+
+**Hand checks:**
+- #11 down to 2: "Hot would have set it." and the camera-under-chiton clause.
+- Anadiplosis 1 (¶82, kept).
+- Valens's bare "No." 1 (¶332); Mara's 1.
+- Kneel/bend 0 ("bend" only as the road's).
+- `knot` near Valens 0.
+- Foreshadow 0.
+
+**Watch for re-eval:**
+- The recast "It caught him above the ear" (¶58) and the existing "where the stick had caught it" (¶174) put two blow-landing "caught"s in the chapter about 1,700 words apart. This is under any cap, but it is a verb now doubled.
+- "Another of them" (¶26) sits about 100 words after the stranger's "not another hand" (¶18), in a different sense.
+- Bible blocks are not re-synced (bookkeeping is the orchestrator's; W-22 is still pending).
