@@ -19,7 +19,7 @@ What was done:
   mode + Step D.6 shape audit, docs updated.
 
 ## Resume point
-**PAUSED AT REVIEW CHECKPOINT 2 — Ch.1–10 FINAL (2026-10-19).** `awaiting_author_review: true`. The author's bundle is `feedback/review-ch6-10.md` (four decisions at the bottom) with the independent read in `feedback/independent-review-ch6-10.md`. On "continue", clear the flag and resume at **Ch.11 "Valens's Yard"**. Ch.11 briefs: a full two-hander with Valens away from the gray mule; NO bending beats (class at 0.28/1k vs 0.30); NO Philadelphia memory insert (cap: one every other chapter); no "So" opener; the hook must not be SENSORY (Ch.10). Checkpoint 1 reviewed; the
+**LOOP RUNNING — resume at Ch.11 "Valens's Yard" (2026-10-20).** Checkpoint 2 reviewed; author decisions CP2-1..4 in STATE.yaml. Ch.11 briefs: a FULL two-hander with Valens, away from the gray mule as his frame, and the plot moves; NO stand-alone memory (any memory triggered by the scene, inside it); NO bending beats (0.28/1k vs 0.30); kneel/crouch now gated (12 in the book, keep it low); no "So" opener; hook not SENSORY (Ch.10); Ch.11 begins on its own after the Ch.10 plain stop. Next checkpoint after Ch.15.
 author said "Make the fixes then continue". The independent-read fixes are in (Ch.2 asides; Ch.3
 trimmed to 5,628; Ch.5 to 7,858 with the town-Greek clause) and Ch.3/Ch.5 re-evaluated PASS. Next
 checkpoint after Ch.10 (`feedback/review-ch6-10.md`). Hook/pull types used so far: Ch.1 CONTRAST /
