@@ -2188,3 +2188,69 @@ This is recorded on CH15-7 and on the borrowed-himation note.
 - I-22: CH12-2.
 
 Polish items I-06..I-11 are not tracked facts.
+
+## 2026-10-20: UPDATE (re-sync of chapter 15 to the FINAL page after polish cycle 1, the CH15-1 spring line and finalize Z1-Z6)
+
+- **Input:** `git diff dc4563d HEAD -- manuscript/chapters/chapter-15.md`. dc4563d is the page the Ch.15 UPDATE (5d6d8c7) was anchored to. The diff covers commit b917d7a (polish cycle 1: 45 tested eval swaps, plus the CH15-1 spring line) and commit e358758 (finalize Z1-Z6). chapter-15.md was last written 12:09:00 (md5 66916b39…, 7,479 words by shape_check). No other chapter changed after 5d6d8c7, so the cross-chapter cites hold.
+- **Renumbered:** the page goes from 295 paragraphs to 294.
+  - Finalize C7 cut old p260 ("Mnason built it to fit Mnason," he said.).
+  - Map: old p1..p259 keep their numbers; old p261..p295 = p260..p294.
+  - The breaks are still after p54, p181 and p251. S4 is now p252-p294.
+  - 88 explicit ch-15:pYY and 19 bare refs on Ch.15 lines were remapped (including `objects.mnasons-hut-bed.resolution.paragraph` 268 → 267).
+  - The Ch.15 run log, and the fields labelled as an earlier page (CH15-5's post-disruptor and repaired-page quotes, the CH15-1 dc4563d quote), keep their earlier numbers.
+- **Method:**
+  - Every quoted segment on a Ch.15 line was checked against the final page by script, using 4-gram runs that exist on the old page and not the new one.
+  - The first pass had a tokenizer bug that hid changes at the edges of quotes. After the fix it found two more stale quotes (Valens's papers row and the ford-silver note, both "Celer's chose"), and both are corrected.
+  - Every on-page quote was also checked against the paragraph its line cites: 0 new mismatches. The 4 pre-existing short-word coincidences are unchanged.
+- **The eval's three ENTITY items (chapter-15-eval.md, cycle 1, §I), all applied:**
+  1. **CH15-1 RESOLVED.** The page now says "It is dry. There is a fence round it now." (p106), which agrees with ch-05:p21 ("a dry niche behind a wire fence"; chapter-5.md l.43). Only one value is left in the text, so Ch.5's value stands. The CH15-1 entry gets `final_page`, `resolution`, `resolved_from_conflict` and `resolved_date`. The spring rows on castalian-spring, delphi-modern, Valens's knowledge and the knowledge_index say "dry and fenced".
+  2. **teeth:** `mara-reyes.physical.teeth_ch15` and the teeth trait now quote "still paid to be scolded twice a year" (p273). The white coat is gone.
+  3. **film:** the camera recheck now quotes "a strip as long as you are tall" (p118), and so do Valens's knowledge row and the pentax beat.
+- **The fact slips fixed on the page, now carried here:**
+  - **ricotta:** the Italian Market memory is "a knot of mozzarella" (p222), in Mara's trait and her 1998 knowledge.
+  - **"Further up":** the dust map now has Valens draw the coast from the heel of Italy round to Puteoli, and Mara says "Short of that. There." (p134; p135). This is recorded on pompeii, Valens's knowledge and the Neapolis/Puteoli rows. "Neapolis I know of." is now "I've heard of Neapolis." The YAML never held the old "Further up", so nothing contradicts.
+  - **Pompeii's magistrates:** "They elect their magistrates every year" (p137). "two magistrates a year" is gone.
+  - **the film strip length:** as item 3.
+  - **the hut and bed are Mnason's:** p253 now reads "Mnason's rush baskets hung in a row from pegs … At the back he had made a bed". On the earlier page "His" and "he" could be read as Valens, and finalize then cut "Mnason built it to fit Mnason". This is recorded on mnason.possessions, summer-pasture, objects.mnasons-hut-bed (note and description) and the Ch.15 check. The hut is still distinct from Mnason's "own hut" (p30; p40).
+- **Other quotes corrected to the page:**
+  - "Delphi thinks you're on a boat. Let it." (p169), in 9 rows;
+  - "I'll wait outside it," (p180), in 8 rows;
+  - "Celer's men chose a road for it." (p160), in 6 rows. Valens now names Celer's men for the Ch.12 road. CH12-5 is unchanged, because the attribution is still his own reading;
+  - "in the autumn, with snow on the way" (p90). Valens is no longer told "October";
+  - "and he left the light to me" (p20) and "and I waited." (p21);
+  - "on top of everything in my bag in the hut, where it had ridden since spring" and "as much as a hen's egg" (p61);
+  - "the box you look through" (p141);
+  - "My hiccups were gone." (p181); the hiccup now takes her "exactly on the last word of it";
+  - "His jaw had roughened again since noon" (p279);
+  - "he was quite still" (p275);
+  - "His tunic came off," (p265);
+  - "his cheek on my shoulder" (p284), so Mara's hair rows now cite "on my back and in my hair" (p278);
+  - "the bitter greens … which I had come round to" and the wine "which I had not" (p234);
+  - "The snow at the mouth threw the daylight in behind us" and "farther in, the dim gave out" (p14).
+- **Removed (cut from the page):**
+  - "and you may not drink";
+  - "though up here nobody would take it";
+  - "a monk's mistake" and "and that was worse still" (the trait now quotes p83's monk and "I did the sum aloud.");
+  - "to have it out before he could stop me";
+  - "which had borne me since we came up";
+  - "as he had done every few days since our first week" (how often Mnason brings the cheese is no longer stated);
+  - "which was the way up to us for anybody coming". Valens's dusk walk is now only "his face to the dark of the plateau", and the trait, the summer-pasture and kalivia-plateau rows and household-of-celer no longer call it a watch point;
+  - Valens paring the black's hoof at evening. His Ch.15 location row now has him "splitting pine round the side of the hut" (p216);
+  - his face and mouth "in my hair" (old p285; p290).
+- **Rechecked against the final page (all still UNRESOLVED, info):**
+  - CH15-3: p204 is unchanged ("Felix! Felix of Kirrha!").
+  - CH15-4: p77-p79 are unchanged. p80 changed only "The flashlight lay in my lap." → "I had the flashlight in my lap.", and "Further than Asia" stands.
+  - CH15-9: p6 is unchanged ("two of my jars").
+  - CH15-10: p119 is unchanged, and the telling is still undated.
+  - Each gets a `recheck_final_page` field.
+- **Also rechecked:**
+  - CH15-5 stays RESOLVED (the sentence is unchanged, now p280).
+  - CH15-6 stays open (low, forward; the thought is p280, the union p281-p283).
+  - CH15-8 gets a final-page note: "Celer's men"; the cut dusk gloss; the p145 cuts; the hut and bed now plainly Mnason's; the teeth at p273.
+- **Contradictions:** none was overwritten. Open contradictions go from 34 to 33 (CH15-1 closed). No new contradiction. No knowledge_gap.
+- **Not done here (outside this tracker's file, per instruction):** the eval's bible syncs A-H and the voice-dna §5 cell ("olive-wood rope bed" → the forked-stake bed). character-bible.md and STATE.yaml were not touched.
+- **Meta:**
+  - a second Ch.15 row in `meta.revalidation_needed` (RESOLVED);
+  - a new `ch15_requested_checks` entry;
+  - `paragraph_rule`, `last_updated_by`, `mode`, `source` and the header comment extended.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass.

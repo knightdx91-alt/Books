@@ -51,7 +51,7 @@ signature used more than four times in fifteen. Hooks and pulls never repeat bac
 
 ## Open items in ENTITY_STATE
 
-34 open, all low or info; none blocks writing. The ones that matter next:
+33 open, all low or info; none blocks writing. The ones that matter next:
 - **CH15-6 — the pregnancy gap** (decision 3 below).
 - **CH12-2** — the page calls Valens's record "the magistrate's book"; outline Ch.17 still says a bronze-and-wax
   diptych. Ch.16–17 must settle one.

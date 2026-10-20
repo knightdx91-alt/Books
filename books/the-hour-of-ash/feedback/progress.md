@@ -19,7 +19,7 @@ What was done:
   mode + Step D.6 shape audit, docs updated.
 
 ## Resume point
-**LOOP RUNNING — resume at Ch.15 "Summer Pasture" (2026-10-20). Ch.14 FINAL.** Ch.15 briefs: ledger row = Chronological day-in-full on the high pasture, `long-spiral` open (dawn in one long sentence), quiet-image close, 7,800w (land it full), dialogue 30–40%, 3 breaks, gear HIGH; HEAT 1 (explicit, earned, character-driven, no purple, no clinical terms, no metaphor-stacking, no temperature report); NON-NEGOTIABLE the truth told badly and "Do they still have mules?" (once, never a refrain), she does NOT tell him Pompeii's fate; hook must NOT be VOICE and pull must NOT be DECISION POINT (Ch.14); CH13-7: Ch.14 ended on her going up to the cave at first light "with Valens and the mules if he would come" — Ch.15 must give that visit real weight (a backfilled scene or a substantial passage in fresh words; a throwaway "it was shut" is a bait-and-switch); CH14-4: her Ch.14 plan to take Euthydikos's bowl job after the season must give way on the page to the bargain (Corinth for his papers in autumn, sail in spring as man and wife); the camera has no lens cap and a dented filter ring; Valens and Felix have seen it (Ch.12); check the flashlight's last state in ENTITY; the ibuprofen is gone; no "kept … eyes on" look, no "had gone quiet", no lying-awake coda, no shard kickers; no bends, kneel/crouch ≤1, hand-on-knee ≤1, deliberation pauses minimal, no gait exit; Valens bare "No." ≤1, no narrated non-answers, no comparisons in his speech. This is the LAST chapter before CHECKPOINT 3 (review-ch11-15.md). Ch.19 writer brief: the Pentax has no lens cap and a dented filter ring.
+**CHECKPOINT 3 — AWAITING AUTHOR REVIEW (2026-10-20). Ch.15 FINAL.** Read `feedback/review-ch11-15.md` (4 decisions). On "continue": set awaiting_author_review false, record the answers as AUTHOR-CP3-n, resume at Ch.16 "Plautia". Ch.16 briefs (carry): outline Ch.16 is RESTAGED — Delphi believes she sailed in spring, so the farewell is a quiet return to Kallia's door after dark, the himation given outright, the lamp photographed at first light; hook must NOT be SENSORY IMMERSION and pull must NOT be EMOTIONAL GUT PUNCH (Ch.15; GUT PUNCH is the most-used pull at 4); CH12-2 (the record: "the magistrate's book" on the page vs the outline's diptych) and CH12-8 (whether "Valens" is his own name) must be settled by Ch.17; no Ch.15 door/camera/waiting line may be quoted back (AUTHOR-END-1 cascade); "Do they still have mules?" is spent; the Pentax has no lens cap and a dented filter ring (Ch.19 brief); no watch until Ch.18; the flashlight batteries are running down.
 author said "Make the fixes then continue". The independent-read fixes are in (Ch.2 asides; Ch.3
 trimmed to 5,628; Ch.5 to 7,858 with the town-Greek clause) and Ch.3/Ch.5 re-evaluated PASS. Next
 checkpoint after Ch.10 (`feedback/review-ch6-10.md`). Hook/pull types used so far: Ch.1 CONTRAST /
@@ -32,6 +32,7 @@ list in character-bible.md; `--echoes N` on every fresh draft; Kallia's hands ar
 handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Chapter log
+- **Ch.15 "Summer Pasture"** — 7,479w · Floor 8.5 / Avg 8.86 / Casual 9.0 / CVI-L 9.8 / Emotion 9.0 · 1 polish cycle (Prose: the cave in Ch.3's words, spent frames, Valens's register) + a continuity repair (0 CRIT / 12 WARN) · the truth, the mules, the bargain, the hut · full chain in STATE.yaml history.
 - **Ch.14 "What Pompeii Means"** — 3,003w · Floor 8.5 / Avg 8.86 / Casual 9.0 / CVI-L 8.9 / Emotion 9.0 · 1 polish cycle (Prose: explanation, spent frames, shard kickers) + a continuity repair (1 CRIT moon / 13 WARN) · the night she knows; the laugh; the plan · full chain in STATE.yaml history.
 - **Ch.13 "The Seventh of Bysios"** — 7,503w · Floor 8.5 / Avg 8.79 / Casual 9.0 / CVI-L 9.8 / Emotion 9.0 · 1 polish cycle (Characters: pause beats; Prose: explanation clauses) + a continuity repair (1 CRIT / 20 WARN) · the consultation; Valens recites the answer; Theano says "Pompeii." · full chain in STATE.yaml history.
 - **Ch.12 "The Kirrha Road"** — 4,711w · Floor 8.5 / Avg 8.71 / Casual 9.0 / CVI-L 9.7 / Emotion 9.0 · 1 polish cycle (Prose: explanation density + reused frames) + a continuity repair (1 CRIT / 23 WARN) · the ambush; Valens kills a man; he shakes, she holds steady · full chain in STATE.yaml history.
@@ -60,6 +61,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
   13 audit warnings all fixed · full chain in STATE.yaml history.
 
 ## Pacing log
+- Ch.15 (FINAL): PASS — 7,479w (target 7,800) · dialogue 34.5% (30–40 ✓) · 3 breaks · gear high (median 16) · a long talky day after the short night; ~600w of backfill at dawn earns its place.
 - Ch.14 (FINAL): PASS — 3,003w (target 3,400; no padding) · dialogue 5% (0–10 ✓) · 9 breaks · gear low (median 12) · a short private pressure chapter between the long consultation and the long pasture day.
 - Ch.13 (FINAL): PASS — 7,503w (target 8,000) · dialogue 38% (35–45 ✓) · 4 breaks · gear mid (median 14) · Parallel structure: terrace wait against the court telling; the recitation is the peak, "Pompeii." lands flat.
 - Ch.12 (FINAL): PASS — 4,711w (target 5,600; no per-chapter floor, not padded) · dialogue 28% (25–35 ✓) · 2 breaks · gear low (median 10) · fast fight, slow stream, the telling flat and unhurried; first crisis lands after the Ch.11 two-hander.
@@ -77,6 +79,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Shape audits
 (every chapter: `python3 tools/shape_check.py books/the-hour-of-ash` from the repo root)
+- after Ch.15 (--strict): CLEAN. Ch.15 `long-spiral` / `quiet`; 3 breaks; dialogue 35%; median 16. Fifteen chapters: lengths 1,821–7,833, dialogue 5–40%, no signature more than four times.
 - after Ch.14 (--strict): CLEAN. Ch.14 `I-punch` / `long-fade`; 9 breaks; dialogue 5%; median 12.
 - after Ch.13 (--strict): CLEAN. Ch.13 `scene-set` / `dialogue`; 4 breaks; dialogue 38%; median 14.
 - after Ch.12 (--strict): CLEAN. Ch.12 `dialogue` / `punch`; 2 breaks; dialogue 28%; median 10.
