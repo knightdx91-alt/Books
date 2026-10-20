@@ -1250,3 +1250,128 @@ No knowledge_gap. Kallia's "You read the clerk's wax" has a path (ch-07:p177). N
 ## 2026-10-19: UPDATE (re-sync of chapter 10 after polish cycle 1, the cycle-2 PATH set and the finalize line)
 
 - Re-anchored every ch-10:pYY to the final page (chapter-10.md last written 23:23:18, FINAL; 98 paragraphs, no breaks). Cycle 1 split old p21 after "…and spun." and moved the reed blind (old p62, text unchanged) to p22, before the reading, so old p1..p20 keep their numbers, old p22..p61 = new p24..p63, old p62 = new p22 and old p63..p97 = new p64..p98 (714 explicit cites, 54 bare refs; the 16 cites to old p21 assigned by content to p21 and/or p23). Removed the cut facts and quotes: the letter's material and size ("a strip of papyrus folded over and over … closed my fist on", the thread "twice" round it, "a strip the length of my forearm"), "crumbled off the knot in one piece", the thumbnail, "the best Greek I had spoken since October", the purse, the hanging spindle, "I could have left out the roof … could have told the difference", "Letters came in two kinds", "for the time it would have taken her to read it" and "It was seven letters", "She said it to the letter.", "that summer, and the Temple with it", "My voice went on through the oxen without me.", "from three gates down", "without moving my lips", the "fatter packet" refold, the shoes "at the pace she used for the spring", the tunic's "every so often it moved", the lean-to "where the hearth was". Added the new page: "One end of it", "The thread round its middle was knotted under a thumb of gray clay.", "The clay broke from the knot at the first push … mostly creases", "touched the place through her clothes", "Whatever was in a letter, I thought …", "the lean-to that held the hearth", the blind at the start of the spinning, "in the summer just gone, and its temple with it", "Kallia corrected none of it. The Greek was his, from beginning to end.", "The oxen and the man to drive them went by while I was at that desk.", "She was answering the letter", "and came no nearer … any name in Phocis", "from along the lane", "Nobody else … might as easily have made the roof into so much talk about rain", "The gate came to behind her and bounced once.", and "I read it all to myself, from the greeting down to the date, and rolled it up." (the final line, not the PATH's "over again"). **CH10-5 RESOLVED** by the page ("from along the lane" agrees with Ch.5 "halfway along" and Ch.8 "Midway along the lane"; no gate count). **CH10-7** re-checked: the bible, rewritten at 23:24:32, clears every listed quote but still quotes "I read it over again to myself" (l.180; l.2244), so it stays UNRESOLVED, narrowed to that line. CH10-1/2/3/4/6 re-anchored only. `last_updated_chapter` stays 10. No new contradiction and no knowledge_gap. The YAML loads under a strict loader with no duplicate keys. chapter-11.md was not read.
+
+## 2026-10-20: UPDATE (chapter 11, final text: post-writer, dialogue-polish, hook-craft, disruptor and continuity repair C-01, W-01, W-02, W-04..W-13)
+
+**Trigger:** chapter loop step D.5 for chapter 11.
+
+**Inputs read:**
+- `manuscript/chapters/chapter-11.md`, twice.
+  - First in its post-disruptor state (284 prose paragraphs; md5 462637ff…, last written 02:08:00).
+  - Mid-run the orchestrator reported the book-editor's continuity repair (`evaluations/revision-chapter-11-continuity.md`, from `evaluations/continuity/chapter-11-audit.md`). The update was finished, then re-anchored to the repaired page once the file had been unchanged for four minutes (last written 02:32:45; md5 1a9dc825…).
+  - The repaired page has **277 paragraphs**, with breaks after p67, p147 and p223:
+    - old p1..p127 keep their numbers;
+    - old p128 ("No.") and p129 merge into new p128;
+    - old p135 (the notice paraphrase) is deleted;
+    - old p186..p190 become p184..p185;
+    - old p225 (Mara's "No.") is deleted, and old p224 + p226 merge into p219;
+    - old p227..p284 = p220..p277.
+- `ENTITY_STATE.yaml` (`last_updated_chapter: 10`).
+- outline.md Ch.11–13.
+- character-bible.md: the Mara, Valens, Kallia, Felix and Praxias cards and their Ch.11 blocks, the Ch.11 walk-on note, and At-risk after Ch.11.
+- `manuscript/reports/chapter-11-report.md`. It numbers by file LINE and quotes the pre-polish draft, so it was used only as a list of claims to check.
+- `evaluations/disruption-chapter-11.md`, the continuity audit, and the repair log.
+
+**Meta:**
+- `last_updated_chapter: 11`; `chapters_tracked: [1..11]`.
+- `paragraph_rule` is extended to Ch.11, with a shard map and the repair's renumbering.
+- New block `meta.ch11_requested_checks`.
+- 1,158 `ch-11:pYY` cites, all within p1..p277.
+- Every quoted fragment on a line this run added or changed was machine-checked against the repaired page. The only misses are deliberate: bible, report and plan quotes, and cut text labelled as cut.
+- The YAML loads under a strict loader with no duplicate keys. One duplicate this run would have created (Mara's `relationships.felix`) was merged into the planned row.
+
+### Renamed
+- `kallias-cousin` → **`praxias`** (`former_slug` kept). The page names him.
+
+### Replaced (plan → prose)
+- **Valens:**
+  - The Ch.11 location row.
+  - "reads but pretends he can't" is CONFIRMED on the page.
+  - The figs, mind-reading and animal traits now cite the page.
+  - The `felix` relationship (the Cilician, the Kirrha quay, freed by word, no paper).
+  - The potted fig possession.
+- **Mara:** the Ch.11 location row. The planned knowledge row is replaced by 22 prose rows.
+- **Felix:** the block is rewritten from the page: first appearance, age "twelve or so", hair (after repair W-09), origin Side, traits, relationships, status, knowledge, and `knowledge_absent_ch11`. The plan rows are kept.
+- **Timeline:** row 11 now covers about eight days. The disruptor removed the ordinal day stamps, so only the order is fixed.
+- **Objects:**
+  - `fathers-seiko-watch` Ch.11 custody: in his pouch, fast, wound daily, never set, not returned.
+  - `potted-fig-tree`: introduced at ch-11:p15.
+  - `consultation-goat`: the Kirrha seller and Felix with the barley.
+- **Locations:** `valens-yard`, in full. There are no horses on the page.
+
+### Added
+- **Characters:**
+  - `the-cilician`;
+  - `kirrha-quay-eel-seller` (**needs_review**: possibly `kirrha-eel-seller`; not merged);
+  - `the-amphissan`;
+  - `plane-tree-wine-seller` (kept distinct from the Kirrha wine-seller);
+  - `kirrha-goat-dealer`;
+  - `boxers-before-the-god-sits`;
+  - `boeotian-pilgrim-family`.
+- **Other character notes:**
+  - Sostrata's husband gets a quail note (**needs_review**: it assumes "the baker" is him).
+  - The goat man gets a Ch.11 note.
+  - Kallia: 2 traits, `household_ch11`, a location row, 2 knowledge rows, `knowledge_absent_ch11`, a waypoint, the `praxias` relationship and the reply obol's Ch.11 status.
+  - Valens: the nose and the eyebrow nick, `seen_ch11`, 16 Ch.11 traits, a legal-status row ("Paper gets taken off you"), 9 knowledge rows (her name, "Mara"; the first wording of her question), `knowledge_absent_ch11` and a waypoint.
+- **Locations:**
+  - new: `praxias-house` and `side`;
+  - Ch.11 facts on kirrha, aigion, delphi, castalian-spring, the temple, the market square, euthydikos-house and kallias-house.
+- **Objects:**
+  - `maras-question-sherd` (chekhov_open; pays off in Ch.13);
+  - `felix-name-sherd`, `mended-breeching`, `sharpened-awl` and `muffled-mule-bells`;
+  - `fig-jars-wager` (chekhov_open);
+  - Ch.11 rows on the notice, the money (a `container` **conflict** sub-field), `reply-obol` (now in Mara's knot, unspent), `goat-mans-she-goat` (needs_review closed; not bought), `taxi-drachma-coins` and `borrowed-himation`.
+- **Knowledge index:**
+  - new: `valens_reads`, `maras_question`, `felix_freedom` and `the_agreement`;
+  - Ch.11 rows on seiko_with_valens, mountain_trip_ch6, maras_name, syracuse_cover, oracle_access, lupus_notice and ariston_letter.
+- **Threads:**
+  - **PAID:** valens-literacy and obol-owed-to-valens;
+  - **CLOSED:** goat-kept-warm (not bought);
+  - **new:** `felix-no-paper` and `praxias-at-the-door`;
+  - Ch.11 notes on romance, oracle-access, ariston-reply, felix-arena (seeded early), syracuse-cover, valens-papers (seeded), maras-english-to-herself (HELD), nymph-rumor, the four relics, seventh-of-bysios-phrase (0 used), the-where, valens-known, maras-living and kallias-fifth-coin.
+- **World rules (OBSERVED):**
+  - the order of the god's first day;
+  - the Delphian at the door and the man who carries the question;
+  - a freeing by word, with no paper.
+- **Organization:** a Ch.11 fact on `delphic-sanctuary`.
+
+### Contradictions (all new, all UNRESOLVED)
+- **CH11-1 (info):** the bible's Ch.11 blocks and the writer's report quote draft lines that are not on the page:
+  - from the dialogue-polish cuts: "At the end of summer I shall not be here", "It saves arguing", "Come then.", "In the day.", "Those want doing.", "Felix says you cannot read.", Felix's draft question bursts and "a gravel track";
+  - the disruptor's cut simile;
+  - every change the continuity repair made.
+  
+  The bible sync is handed off (audit W-14).
+- **CH11-2 (info):** Mara's money is in "a rag" in Ch.9 and in "a knot at the corner of my himation" in Ch.11. The 1998 coins are not mentioned. A conflict sub-field sits on `maras-money-rag.container`.
+- **CH11-3 (low; audit W-03, flagged at the orchestrator's request):** the money gap.
+  - Costs: the cake is about 2 drachmas (Ch.9) and Praxias 1. The Kirrha goat is half a Delphi price that was above 3.
+  - Total: about 4½ drachmas or more, against less than 3.
+  - **Ch.12 must close it on the page.** Praxias's "three … if the priest's in a good temper" also sits against the smith's "Call it two".
+- **CH11-4 (info):** Valens's Ch.6 cover ("You went up by yourself. You never had a watch.") is breached inside the yard.
+  - Felix knows "the one he took up to Pan's in the snow". The path is not shown; town talk or Valens would explain it, so this is not a knowledge_gap.
+  - Mara tells Felix the watch is hers.
+- **CH11-5 (info):** a Boeotian pilgrim family comes up the Kirrha (gulf) road. The Boeotian road is a separate road.
+
+Requested checks:
+- The god's-day runway: **NO CONFLICT.** Ch.11 day 1 to Kirrha is about 10 days; with Ch.12's "three days off", the god's day is about 13 days or more after Ch.10.
+- Paraphrase only. "Bysios" is not used.
+- No reason is given for the agreement.
+- The obol is PAID.
+- The watch is still with Valens.
+- Kallia is still not shown the notice.
+
+The auto-resolution pass found no open conflict that Ch.11 touches. No knowledge_gap.
+
+### For Ch.12–13
+- **Kirrha, "the day after tomorrow, at daybreak",** with the oil string.
+  - Mara brings her drachmas and wears "something you can walk back up in behind a goat".
+  - The goat seller at Kirrha "lets you pick your own out of the pen".
+  - Felix leads the goat with barley. He was asleep when the plan was made.
+- **Money:** less than 3 drachmas, with Kallia's unspent papyrus obol knotted in. Close the gap on the page in Ch.12 (CH11-3 / W-03). Per the audit, the purchase must not be another counted-down haggle.
+- **The Pentax** (needed in Ch.12) was last on the page in the duffel in Kallia's storeroom (ch-05:p208). It is not mentioned in Ch.11.
+- **Valens** has read the first wording of her question, the one with "door", and has her name, "Mara", which he has not said aloud. The question he carries is "Where is my road home?". The priest is to get "The clerk's" name, Maira. Do not point at the road/door match against the god's answer.
+- **Praxias at the door for a drachma** is not in outline Ch.13 (`praxias-at-the-door`).
+- **Felix** believes Valens cannot read. He knows of the Pan's-cave trip and that the watch is Mara's. He has no word of the notice.
+- **Kallia** knows only that Mara works the yard unpaid.
+- **The watch:** Valens has never set it. The plan's Ch.18 return, "set near noon by the shadow", needs him to learn to set it.
+- **Spent:** Valens's bare "No." is capped at one a chapter from Ch.12 (audit C-01). Also spent: the notice's text (do not paraphrase it) and a road-watching beat before the ambush.
