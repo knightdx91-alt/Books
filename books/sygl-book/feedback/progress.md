@@ -8,11 +8,12 @@ supposed to be Sygl."). `project/foundation.md`, `project/outline.md` (now **30 
 ≈91,856 words** after the 2026-10-20 outline audit) and `project/STYLE_CONSTRAINTS.md` were rewritten; STATE.yaml records every ruling as a
 2026-10-20 author decision.
 
-- **Ch.1–15 FINAL** (`manuscript/chapter-01..15.md`, 46,132w): written/rewritten to the source 2026-10-20, all
+- **Ch.1–20 FINAL** (`manuscript/chapter-01..20.md`, 61,446w): written/rewritten to the source 2026-10-20, all
   four mechanical gates clean, book-evaluator Genesis Floor 8.5 each (reports in `evaluations/`).
-- **RESUME HERE → Chapter 16 "Whitehaven Road"** (outline Ch.16). Ch.15 ended with Saturday and the job ahead
-  (job paper in Bal's pack; the card on the nightstand). The bandit fight introduces the heart ring (Ch.21 payoff);
-  Amelia's "I feel useless" walk; Bal proposes the arrow-rune shirts (finished in Ch.18).
+- **RESUME HERE → Chapter 21 "Strawberries"** (outline Ch.21). Ch.20 ended on Amelia's "I can do that." before the
+  teleport to the lake. Ch.21: the water snake killed there last week (shown in Ch.18); Iro; Bal connects the HEART RING
+  (author decision); "No one threatens my girls." The whip leads Ch.20 AND Ch.21 back to back: render each use
+  differently and keep the author informed (spell-repetition watch). Open question: whip with or without a cut.
 - Gesture clusters cost the most eval rounds in ch.13–15: no gesture class (smile/grin as one, laughs, blushes,
   looks, sitting/sinking, freezing/stopping, eyes, chest/heart, hand squeezes) 3+ times within 500 words.
 - Spell repetition watch (author): the blood whip is most of Bal's on-page magic from the source onward.

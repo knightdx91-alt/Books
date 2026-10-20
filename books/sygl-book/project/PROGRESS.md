@@ -35,10 +35,15 @@ Everything strictly on `main`. No PRs.
 | 13 | New Spring | 5,300 | FINAL 2026-10-20: 5,557w, Floor 8.5 |
 | 14 | The Card | 2,600 | FINAL 2026-10-20: 2,556w, Floor 8.5 |
 | 15 | Rumors | 1,800 | FINAL 2026-10-20: 1,948w, Floor 8.5 |
-| 16–30 | see outline.md | — | TODO |
+| 16 | Whitehaven Road | 4,800 | FINAL 2026-10-20: 4,786w, Floor 8.5 |
+| 17 | Saegen Woods | 2,700 | FINAL 2026-10-20: 2,616w, Floor 8.5 |
+| 18 | Six Weeks | 2,800 | FINAL 2026-10-20: 2,718w, Floor 8.5 |
+| 19 | The Rule | 2,600 | FINAL 2026-10-20: 2,465w, Floor 8.5 |
+| 20 | The Blood Whip | 2,600 | FINAL 2026-10-20: 2,729w, Floor 8.5 |
+| 21–30 | see outline.md | — | TODO |
 
-## RESUME HERE: Chapter 16 "Whitehaven Road"
-- The first job: bandits, the heart ring (paid off Ch.21), "I feel useless", arrow-rune shirts proposed.
+## RESUME HERE: Chapter 21 "Strawberries"
+- The lake, Iro, the heart-ring payoff, "No one threatens my girls." Vary the whip's uses (Ch.20 just used it).
 - Author's dialogue is the base; polish into natural speech without changing meaning or speaker.
 
 ## Key files

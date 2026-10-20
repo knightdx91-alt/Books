@@ -62,11 +62,11 @@ books/sygl-book/
 - Fade-to-black. Keep separate from the-fourfold-crown.
 
 ## Open author decisions (ask, don't invent)
-None open (all resolved 2026-10-20; see `STATE.yaml` → `decisions`). New questions go in `open_author_decisions`.
+See `STATE.yaml` → `open_author_decisions` (currently: whether the blood whip needs a cut).
 
 ## Status (update as you go)
 - 2026-10-20: blueprint rebuilt to source order (30 chapters, ≈91,856 words after the outline audit).
-- Ch.1–15 FINAL 2026-10-20 (46,132w): rewritten to the source; all gates clean; Genesis Floor 8.5 each.
-- **Next: Ch.16 "Whitehaven Road"** (see project/outline.md): the bandit fight and the heart ring (paid off in Ch.21).
+- Ch.1–20 FINAL 2026-10-20 (61,446w): rewritten to the source; all gates clean; Genesis Floor 8.5 each.
+- **Next: Ch.21 "Strawberries"** (see project/outline.md): the lake, Iro, the heart-ring payoff. Open question on the whip (cut or no cut) in STATE.yaml.
 - Gate tools voice_wear_check.py / tic_report.py read `manuscript/chapters/`; run them on a scratch copy laid out
   that way (the book uses flat `manuscript/chapter-NN.md`).

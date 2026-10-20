@@ -1,7 +1,7 @@
 # Chapter Twenty: The Blood Whip
 
 <!-- SCENE BUDGET (Target 2,600): the uniforms, the doors 300 | Sean, Porter, the first grab, the whip 420 | "filthy blood mage", the rule, the wrist, the throw 470 | "their Lead Mage now", the palms, punish 230 | the speech 470 | the duel warning, out of the hall 230 | the walk, the anger 140 | Amelia, the gods' faces, tonight, the break 260 | the whip told, the village, Londra, the rules 380 | "no pressure", no plan, the swim 200 -->
-<!-- Word count: ~2,720 prose | Target: 2,600 (range 2,300-3,000) | Anchor: Sean sliding down his own table | Hook: the lake ("Why don't we go for a swim?") -->
+<!-- Word count: ~2,640 prose | Revision: 1 (F1-F18) | Target: 2,600 (range 2,300-3,000) | Anchor: Sean sliding down his own table | Hook: the lake ("Why don't we go for a swim?") -->
 
 The new sweaters were black, and each carried the blood sygl between the shoulder blades in dark red, where Kenmei's wave and Raizen's lightning had been the day before.
 
@@ -11,17 +11,17 @@ They walked to breakfast with one of them on each side of him. The corridors wer
 
 He pushed both doors open and held them so the girls could go in first.
 
-The noise of the hall faltered. Heads came around, a few at first and then whole benches of them, because the doors had opened late and no one was left to come through them but Bal. Then the heads stayed around. They had seen Lora's back, and Viridia's.
+The noise of the hall faltered. Heads came around, a few at first and then whole benches of them. Then the heads stayed around. They had seen Lora's back, and Viridia's.
 
-The Tempus students ate at the table beside Bal's own, the last in the hall, and the three of them had to pass every bench of it to reach their places. A girl near the end of it stopped with a spoon of porridge halfway up and stared at the sygl sliding past her. She dropped the spoon and drove her elbow into the ribs of the boy beside her.
+The Tempus students ate at the table beside Bal's own, the last in the hall, and the three of them had to pass every bench of it to reach their places. A girl near the end of it stopped with a spoon of oatmeal halfway up and stared at the sygl sliding past her. She dropped the spoon and drove her elbow into the ribs of the boy beside her.
 
 He was older than the three of them, a fourth year, with fair hair cut short and neat and a prefect's straight back. He was halfway into his eggs. He turned on the bench, annoyed, and found what she was pointing at.
 
 "Viridia," he called. "What's the meaning of this?"
 
-Viridia slid into her usual seat across from Bal and pulled a slip toward her. She had a pencil already. She began to write her breakfast order.
+Viridia slid into her usual seat across from Bal and pulled a slip toward her. She began to write her breakfast order.
 
-"What's the meaning of what, Sean?" she asked, and kept her pencil going.
+"What's the meaning of what, Sean?" she asked, still writing.
 
 So that was the jerk. Bal had wondered.
 
@@ -33,11 +33,11 @@ Sean did not answer him. He was up and into the aisle, and before Bal could get 
 
 Bal was already moving. Nothing in him stopped to decide.
 
-His right palm lifted from the table, open, and the blood poured from it.
+His right palm lifted from the table, open, and the blood leapt from it.
 
 It welled out of the middle of the palm without a cut, as though it had been waiting just under the skin, and it did not fall. It ran out into the air in a long dark rope, as thick as two of his fingers and bright where the light from the high windows caught it. It cracked over the table between the plates. It struck Sean in the chest and knocked him off Viridia and back two staggering steps, and then it was gone, drawn back into Bal's hand, and nothing on the table had been touched except Viridia's torn breakfast order.
 
-Viridia rubbed her arm once, hard. The pencil was still in her other hand.
+Viridia rubbed her arm once, hard.
 
 "I'd go sit back down if I were you, Sean." Bal kept his voice level. "She's not your concern anymore."
 
@@ -57,17 +57,17 @@ Sean lunged for her again.
 
 He never reached her. The blood was out of Bal's palm faster than Sean could close his hand, and this time it did not strike. It wrapped. It went twice around Sean's wrist and cinched there, and Bal pulled.
 
-Sean came over the table on his stomach. Plates went skating off both sides of it. A jug of milk tipped and emptied into Lora's lap, and she did not even flinch. A bowl of oatmeal cartwheeled onto the bench and a fork clattered to the flagstones somewhere behind Bal, and Sean fetched up with his face a foot from Bal's own, hauling against the blood with all his weight and getting nowhere.
+Sean came over the table on his stomach. Plates went skating off both sides of it. A pitcher of milk tipped and emptied into Lora's lap, and she did not even flinch. A bowl of oatmeal cartwheeled onto the bench and a fork clattered to the flagstones somewhere behind Bal, and Sean fetched up with his face a foot from Bal's own, hauling against the blood with all his weight and getting nowhere.
 
 "What part of 'she's no longer your concern' didn't you understand?" Bal asked him quietly.
 
-He held Sean's eyes while he said it. Sean was trying to work his wrist free. The blood was wet and warm and slick under his fingers, and he could not get a grip on it.
+Sean was trying to work his wrist free. The blood was wet and warm and slick under his fingers, and he could not get a grip on it.
 
-"Now look here, Mr. Norheart." Porter wasn't enjoying himself anymore. The color had climbed his neck above his collar. "He is her Lead Mage. You have no right to interfere. Release him at once."
+"Now look here, Mr. Norheart." Porter wasn't enjoying himself anymore. "He is her Lead Mage. You have no right to interfere. Release him at once."
 
 Bal released him.
 
-He did it by flinging his right arm back behind him. The blood went with it, and Sean went with the blood. He sailed backward over the aisle and landed on his own table halfway along, on his back, and kept going. He slid down the length of it through the Tempus breakfasts. Toast went. A plate of sausages went. Somebody's teacup went flying off the table's end well ahead of him, and when he came to rest there was a clear lane through the center of the wood where the food had been, and he was lying in a puddle of tea with jam on one sleeve.
+He did it by flinging his right arm back behind him. The blood went with it, and Sean went with the blood. He sailed across the aisle and landed on his own table halfway along, on his back, and kept going. He slid down the length of it through the Tempus breakfasts. Toast went. A plate of sausages went. Somebody's teacup went flying off the table's end well ahead of him, and when he came to rest there was a clear lane through the center of the wood where the food had been, and he was lying in a puddle of tea with jam on one sleeve.
 
 The blood came home to Bal's palm and the skin there was smooth and dry again.
 
@@ -91,13 +91,13 @@ Mr. Porter found no answer at all.
 
 ---
 
-He had not meant to go on. But the hall had gone quiet again to hear what came next, all of it, the Terra tables and the Waves tables and the teachers with their forks halted, and he found he had more.
+He had not meant to go on. But the hall had gone quiet again to hear what came next, all of it, the Terra and Waves tables and the teachers with their forks halted, and he found he had more.
 
 "I know you've heard a lot of bad things about blood mages," he said. "So let me set the story straight, here and now. Blood mages aren't any crazier than anybody else in this hall. That's a lie, and people like Mr. Porter here keep spreading it so you'll keep hating us."
 
 Mr. Porter's napkin had been crushed into a ball in his fist.
 
-"Lady Amelia didn't abandon her followers. She was betrayed by her own family. They shut her away for something they believed she'd done, and she hadn't. That was all it took. Instead of getting to the bottom of it, the originators, all of them, sacrificed the lives of their High Priests to trap her." He let them hear that. "That's the kind of originators you have. You mean nothing to them. At least Lady Amelia is here. We can speak to her. Where's Raizen? Where's Terra, even? You see them one day a year and beg them to notice you." He swung round on Mr. Porter. "And yet you wonder why anyone would want to change sygls."
+"Lady Amelia didn't abandon her followers. She was betrayed by her own family. They shut her away for something they believed she'd done, and she hadn't. That was all it took. Instead of getting to the bottom of it, the originators, all of them, sacrificed the lives of their High Priests to trap her." He let them hear that. "That's the kind of originators you have. You mean nothing to them. At least Lady Amelia is here. We can speak to her. Where's Raizen? Where's Terra, even? You see them one day a year and beg them to notice you." He swung around on Mr. Porter. "And yet you wonder why anyone would want to change sygls."
 
 "The originators won't stand for this," Mr. Porter spat.
 
@@ -127,15 +127,15 @@ Oh well.
 
 Sean's throat moved. He gave one short jerk of his chin that might have meant yes and might only have meant please stop talking to me, and then he went and dropped onto his bench in the tea.
 
-Bal tipped his head toward the doors. The girls fell in beside him. Nobody on any bench said a word to them as they left.
+Bal started for the doors, and the girls fell in beside him. Nobody on any bench said a word to them as they left.
 
 ---
 
-Once the doors closed behind them, the girls talked nonstop. Viridia did Sean sliding down the table with her flat hand, five times at least, with sound effects, and each time Lora laughed harder while she tried to wring the milk from her skirt.
+Once the doors closed behind them, the girls talked nonstop. Viridia did Sean sliding down the table with her flat hand, five times at least, with sound effects, while Lora tried to wring the milk from her skirt and kept having to stop.
 
 Bal walked between them and only half heard.
 
-He had never had much of a temper as a kid. But when Sean had grabbed Viridia, Bal had wanted to kill him. Not hurt him. Kill him. It would not have taken much, either. A dart of blood in the eye would have done it before Sean got a proper grip.
+He had never had much of a temper as a kid. But when Sean had grabbed Viridia, Bal had wanted to kill him. Not hurt him. Kill him. It would not have taken much, either. A dart of blood in the eye would have done it before Sean had her out of the chair.
 
 That surge of anger had surprised him.
 
@@ -145,31 +145,31 @@ Maybe he'd talk to Amelia about it later.
 
 Amelia was waiting for them in the dorm, and she was in very high spirits. She had been to the originators in the night, and she had enjoyed their faces enormously when she made her declaration.
 
-"He tried to act as though he hadn't seen it coming." She sat on the arm of the couch, swinging one foot. "As if I couldn't tell. He was hoping to find all of my priests first, before he had to declare war on me." That made her laugh out loud.
+"Raizen tried to act as though he hadn't seen it coming." She sat on the arm of the couch, swinging one foot. "As if I couldn't tell. He was hoping to find all of my priests first, before he had to declare war on me." That made her laugh out loud.
 
 Then she turned to Lora and Viridia.
 
 "I've got two more priests besides you. Come with us tonight and you'll meet them."
 
-Bal was supposed to meet Xavier tonight anyway, to go over strategies for taking out Raizen's priests. Amelia waved them all to the couches. When they were settled she asked whether he'd had any more ideas.
+Bal was supposed to meet Xavier tonight anyway, to go over strategies for taking out Raizen's priests. Amelia waved them all to the couch and asked whether he'd had any more ideas.
 
-"Yeah. Some of it depends on what they've found out for me, though." He stretched his legs out. "Tomorrow the two-week break starts. Hopefully we can get some things done."
+"Yeah. Some of it depends on what they've found out for me, though." "Tomorrow the two-week break starts. Hopefully we can get some things done."
 
 "How did this morning go? I wasn't expecting you back so soon."
 
 The girls told her. They told her all of it, together and over each other, how Bal had stopped Sean with a blood whip and how he had stood up before everyone and as good as invited anybody who wanted to leave their sygl to come over to theirs. There had been some interested faces at the tables. Whether anyone would actually take him up on it, nobody could say.
 
-Amelia heard them out, propped on one fist, and when they were done she was plainly impressed with him.
+Amelia heard them out, and when they were done she was plainly impressed with him.
 
 "After only a few days of practice," she said.
 
-The whip was a common weapon among blood mages. It still took concentration and willpower to use well, and he had been at it less than a week. Bal meant to start Lora and Viridia on it soon.
+The whip was a common weapon among blood mages. It still took concentration and willpower to use well. Bal meant to start Lora and Viridia on it soon.
 
 After that the talk went to the war. Amelia and Bal laid out for the girls some of what Raizen had been doing in his villages, and the girls listened without interrupting, which was not like either of them.
 
 "It's honestly a good thing hardly anyone in your village gets a sygl," Bal said to Viridia. "He ought to leave your village alone."
 
-Viridia did not answer that. Her fingers had gone deep into Hopper's fur.
+Viridia did not answer that.
 
 "Any idea where Londra is?" he asked.
 
@@ -185,9 +185,9 @@ The girls both looked to Amelia.
 
 "You mean the war hinges on us staying alive?" Lora said. "Not the army. Us?"
 
-Amelia only held her gaze and let that be the answer.
+Amelia let the silence answer her.
 
-Lora let her head drop onto the couch cushions behind her and stared up at the ceiling beams.
+Lora was quiet for a second.
 
 "Talk about no pressure."
 
@@ -201,7 +201,7 @@ Bal admired her for it. "What were you thinking of?"
 
 Amelia's bright face wavered.
 
-"Oh," she said. "Um." "I thought you might have an idea or something."
+"Oh," she said. "Um. I thought you might have an idea or something."
 
 He laughed and slung an arm over her shoulders and pulled her into his side, and she let herself be pulled.
 
@@ -211,7 +211,7 @@ Outside the window the sky was clear down to the hills, the first truly hot day 
 
 "Why don't we go for a swim?" he asked his girls.
 
-They traded glances around the couch, and nobody had a better idea. The girls were up and through the bedroom door after their towels and their swimming things while he was still getting up himself.
+Nobody had a better idea. The girls were up and through the bedroom door after their towels and their swimming things while he was still getting up himself.
 
 "Can you take us to that lake we found last week?" Bal asked.
 
