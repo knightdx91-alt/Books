@@ -141,7 +141,7 @@ engagement_type:
 - **Role:** the first and only early source of WHERE. She names Pompeii and withholds the hour.
 - **Her OWN problem:** her knees. The descent into the adyton hurts her every consultation day, and she is negotiating with the priests for a stool.
 - **One irrational behavior:** she feeds the sanctuary crows from the god's own barley, shouts at them for taking it (Ch.8), and lies about it. She goes down into the adyton on the monthly consultation days of the warm season.
-- **Voice:** plain mountain-Phocian Greek, not oracular verse. Off duty she sounds like a farmer's widow, which she is. She never comforts and never explains.
+- **Voice:** plain mountain-Phocian Greek, not oracular verse. Off duty she sounds like a farmer's widow, which she is. She never comforts, and never explains the god, the answer or the hour; the one thing she will account for is why she feeds the crows (Ch.13).
 
 #### FELIX — Valens's mule-boy, later an apprentice gladiator (Ch.11–40)
 - **Role:** the family's first member. Valens bought him off a slaver at Kirrha (about 12 in AD 70) and freed him informally. Informal freedom leaves him a Junian Latin: free enough to swear the gladiator's oath as an *auctoratus* in Ch.28, and the lanista does not ask. He follows them to Italy and is Lucius's idol.

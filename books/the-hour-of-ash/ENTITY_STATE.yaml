@@ -1281,7 +1281,8 @@ meta:
       line: "ch-13:p10; ch-13:p22; ch-13:p24; ch-13:p29; ch-13:p34; ch-13:p66; ch-13:p99; ch-13:p113; ch-13:p123; ch-13:p140; ch-13:p149; ch-13:p166; ch-13:p175; ch-13:p200; ch-13:p214; ch-13:p221; ch-13:p225; ch-13:p229; ch-13:p240; ch-13:p245"
       note: "checked by script: every quoted string in the bible's Ch.13 blocks against chapter-13.md as last written 06:51:47, after the repair (md5 1585521…). The continuity audit's W-21 asks for the same re-sync. evaluations/disruption-chapter-13.md lists its cuts (the knee beats, the airport memory, 'Valens kept his eyes off me…', 'not his road voice', 'in a row'). No line of this file gives the bible strings as page text. The bible sync is handed off. Recorded, not judged"
       recheck_final_page: "2026-10-20 (Ch.13 re-sync after polish cycle 1 and finalize FZ1-FZ3): the page the bible must match is now chapter-13.md as last written 07:28:44 (md5 9c7aaccc208d6fdb6ee8af0a1ed0025f, commit 2e1cf91). Every page string in `prose` above still stands on it. The polish cycle adds new page wording the bible has not yet taken (the eval's re-sync list, evaluations/chapter-13-eval.md, final section): 'Next month. And then you pay again, Syracusan,' he said, and liked the sound of that. (p27); 'into his hand' (p24); 'with his wreath still on' (p129); the jug boy's tunic 'dark with spilled water', no age (p194); 'admiring the sky' (p120); 'a plaster door' (p170); 'toes splayed' (p143). The bible sync runs in parallel. Still open"
-      flag: "UNRESOLVED"
+      resolution: "bible Ch.13 blocks synced to the final page (2026-10-20); quotes script-checked"
+      flag: "RESOLVED"
     - id: CH13-2
       chapter: 13
       severity: low
@@ -1411,7 +1412,8 @@ meta:
       prose: "'Why give them any?' / 'Because they come.' … 'They were up on that ridge the day my husband went out of this door feet first, the whole row of them, and not a crow of them made a sound, which the mourners never managed. A thing that'll sit quiet at a burying can have my barley.' (p224; p225)"
       line: "ch-13:p224; ch-13:p225"
       note: "she explains herself once, about the crows, and explains nothing about the god or the hour. The continuity audit (W-13) recommends amending her card ('explains herself once, about the crows'); the repair kept the passage, with 'the mourners' for 'his sister'. Open until the card or the page changes. Recorded, not judged"
-      flag: "UNRESOLVED"
+      resolution: "card amended in the Ch.13 bible sync and foundation Theano voice line amended (2026-10-20): one explanation allowed, about the crows only; never the god, the answer or the hour"
+      flag: "RESOLVED"
   ch10_requested_checks:
     # Checks the orchestrator asked for in the Ch.10 run. Results only; nothing is resolved here.
     - check: "Kallia's age against Ariston's service and discharge"

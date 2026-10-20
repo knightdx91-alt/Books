@@ -19,7 +19,7 @@ What was done:
   mode + Step D.6 shape audit, docs updated.
 
 ## Resume point
-**LOOP RUNNING — resume at Ch.13 "The Seventh of Bysios" (2026-10-20). Ch.12 FINAL.** Ch.13 briefs: ledger row = Parallel, scene-set (date) open, spoken-line close, 8,000w target (land it FULL — book margin over 245k is ~1%), dialogue 35–45%, 4 breaks, gear mid; hook must NOT be QUESTION (Ch.12), pull must NOT be EMOTIONAL GUT PUNCH (Ch.12); Valens's Ch.12 injuries still show three days on; the goat comes to the yard the evening before; Kallia is owed the whole story (she has only the robbery version); Praxias, if paid, from the dead man's silver, never itemized; Valens and Felix have seen the camera; the lens cap is never mentioned again; no watch until Ch.18; Theano recognised by situation (CH8-2); doubled-verb rhythm ≤2, anadiplosis ≤1; no "without looking", no bends, kneel/crouch ≤1, Valens bare "No." ≤1, no narrated non-answers, no stand-alone memory, no "So" opener. Ch.19 writer brief: the Pentax has no lens cap and a dented filter ring (voice-bank sample-13 note). Next checkpoint after Ch.15.
+**LOOP RUNNING — resume at Ch.14 "What Pompeii Means" (2026-10-20). Ch.13 FINAL.** Ch.14 briefs: ledger row = Fragmented (one night in shards), `I-punch` open ("I knew the year."), long-fade close, 3,400w, dialogue 0–10%, 9 breaks, gear low; CRITICAL no-foreshadowing chapter — her knowledge of AD 79 yes, her own outcome never; the casts are a 1988 memory; the laugh and the plan are NON-NEGOTIABLE; Valens asleep on the floor across her doorway (Kallia's "There's floor", Ch.13); she tells no one; hook must NOT be SENSORY IMMERSION and pull must NOT be REVELATION (Ch.13); CH13-7: at the end of Ch.13 she said she would go to see the cave shut "Tomorrow" — Ch.14 or Ch.15 must account for it (go, or let it go, on the page; never drop it silently); deliberation pauses ≤ chapter cap and not Valens's; no gait exit; "at a run" closed; no anaphora triads; no closing aphorism; no lizard/suitcase reuse; no bends, kneel/crouch ≤1, hand-on-knee ≤1, Valens bare "No." ≤1, no narrated non-answers, no "So" opener, no "without looking". Ch.19 writer brief: the Pentax has no lens cap and a dented filter ring. Next checkpoint after Ch.15.
 author said "Make the fixes then continue". The independent-read fixes are in (Ch.2 asides; Ch.3
 trimmed to 5,628; Ch.5 to 7,858 with the town-Greek clause) and Ch.3/Ch.5 re-evaluated PASS. Next
 checkpoint after Ch.10 (`feedback/review-ch6-10.md`). Hook/pull types used so far: Ch.1 CONTRAST /
@@ -32,6 +32,7 @@ list in character-bible.md; `--echoes N` on every fresh draft; Kallia's hands ar
 handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Chapter log
+- **Ch.13 "The Seventh of Bysios"** — 7,503w · Floor 8.5 / Avg 8.79 / Casual 9.0 / CVI-L 9.8 / Emotion 9.0 · 1 polish cycle (Characters: pause beats; Prose: explanation clauses) + a continuity repair (1 CRIT / 20 WARN) · the consultation; Valens recites the answer; Theano says "Pompeii." · full chain in STATE.yaml history.
 - **Ch.12 "The Kirrha Road"** — 4,711w · Floor 8.5 / Avg 8.71 / Casual 9.0 / CVI-L 9.7 / Emotion 9.0 · 1 polish cycle (Prose: explanation density + reused frames) + a continuity repair (1 CRIT / 23 WARN) · the ambush; Valens kills a man; he shakes, she holds steady · full chain in STATE.yaml history.
 - **Ch.11 "Valens's Yard"** — 5,910w · Floor 8.5 / Avg 8.64 / Casual 9.0 / CVI-L 9.5 / Emotion 9.0 · 1 polish cycle + a continuity repair (1 CRIT / 14 WARN) · the full two-hander; the near-kiss; he agrees to carry her question · full chain in STATE.yaml history.
 - **Ch.10 "Kallia's Letter"** — 2,446w · Floor 8.5 / Avg 8.57 / Casual 8.5 / CVI-L 9.3 / Emotion 9.0 · 2 polish cycles + a continuity repair (1 CRIT / 9 WARN) · the letter; "Ariston's room, at the three obols"; plain stop · full chain in STATE.yaml history.
@@ -58,6 +59,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
   13 audit warnings all fixed · full chain in STATE.yaml history.
 
 ## Pacing log
+- Ch.13 (FINAL): PASS — 7,503w (target 8,000) · dialogue 38% (35–45 ✓) · 4 breaks · gear mid (median 14) · Parallel structure: terrace wait against the court telling; the recitation is the peak, "Pompeii." lands flat.
 - Ch.12 (FINAL): PASS — 4,711w (target 5,600; no per-chapter floor, not padded) · dialogue 28% (25–35 ✓) · 2 breaks · gear low (median 10) · fast fight, slow stream, the telling flat and unhurried; first crisis lands after the Ch.11 two-hander.
 - Ch.11 (FINAL): PASS — 5,910w (target 6,200) · dialogue 38% (35–45 ✓) · 3 breaks · gear mid (median 14) · unhurried working rhythm; reveals land unevenly; the plot moves (carrier, sponsor, goat, question).
 - Ch.10 (FINAL): PASS — 2,446w (target 2,800; no per-chapter floor) · dialogue 40% (30–40 ✓) · 0 breaks · gear mid (median 15) · slow, held, one room; the plain stop is plain.
@@ -73,6 +75,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Shape audits
 (every chapter: `python3 tools/shape_check.py books/the-hour-of-ash` from the repo root)
+- after Ch.13 (--strict): CLEAN. Ch.13 `scene-set` / `dialogue`; 4 breaks; dialogue 38%; median 14.
 - after Ch.12 (--strict): CLEAN. Ch.12 `dialogue` / `punch`; 2 breaks; dialogue 28%; median 10.
 - after Ch.11 (--strict): CLEAN. Ch.11 `long-spiral` / `dialogue`; 3 breaks; dialogue 38%; median 14.
 - after Ch.10 (--strict): CLEAN. Ch.10 `short-punch` / `quiet`; 0 breaks; dialogue 40%; median 15. Ten chapters: lengths 1,821–7,843, dialogue 6–40%, no signature used more than three times.
