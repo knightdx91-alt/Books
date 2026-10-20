@@ -160,6 +160,9 @@ GESTURE_CLASSES["bend / stoop over"] = (r"\b(?:bent|bending|bends|bend|stooped|s
 # Kneeling / crouching / squatting (added 2026-10-19 at the author's ruling: "should definitely be limited.
 # Nothing repetitive that makes it seem like AI"). Counts every kneel, crouch and squat, deliberate or not.
 GESTURE_CLASSES["kneel / crouch / squat"] = r"\b(?:knelt|kneeled|kneeling|kneels|kneel|crouched|crouching|crouches|crouch|squatted|squatting|squats|squat)\b"
+# Hands / chin on the knee (added after Hour of Ash ch.13: a seated speaker whose hand rests on, lifts from
+# and returns to his knee between every line is stage business doing the acting — 12 in one chapter).
+GESTURE_CLASSES["hand / chin on the knee"] = r"\b(?:on|from|off|to)\s+(?:her|his|my|their|one|a)\s+knees?\b"
 
 # ---- PROP FIDGET layer: the same object handled again and again inside one scene ------------------
 # The Saeren lesson: a headmistress sets down her paper, takes off her spectacles, picks them up,
