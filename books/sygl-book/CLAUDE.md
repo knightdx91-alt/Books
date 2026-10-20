@@ -56,8 +56,7 @@ books/sygl-book/
 - Fade-to-black. Keep separate from the-fourfold-crown.
 
 ## Open author decisions (ask, don't invent)
-See `STATE.yaml` → `open_author_decisions`: whether the Tempus girl in the arrival
-buggy is Viridia; whether the arrow-rune shirts are shown finished; whether the water-snake fight stays
+See `STATE.yaml` → `open_author_decisions`: whether the arrow-rune shirts are shown finished; whether the water-snake fight stays
 reported; "Sygldry school" vs the Heir's School; the stray "Pierre"; how the girls' overhearing of the juggling
 talk surfaces in Bal-only POV; whether the manga keeps the dual-narration device.
 

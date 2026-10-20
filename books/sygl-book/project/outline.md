@@ -144,7 +144,8 @@ about school and the labouring life he'd expected; the punctures closing under h
 ## Chapter 6: The Claiming
 **Source:** [pp.25–31] L286–303 (to Bal accepting the High-Priest reasoning).
 **Scenes:** carriages joining the road; a buggy ahead with two boys and an older Tempus girl whose
-sweater-sygl sparks; the Heir's School of Magykal Artes (castle, five towers, wall, raised iron gate);
+sweater-sygl sparks (**she is Viridia**, author decision 2026-10-20; the boys are
+other students sharing the ride, not siblings; she is not named here); the Heir's School of Magykal Artes (castle, five towers, wall, raised iron gate);
 the stage with blue-veined marble thrones and gold sygls; Verin's goodbye; the crowd sorting itself
 by sygl; "it keeps the thought that the originators care about you alive"; the gong; the flash;
 Aren (old man by day, Nera by night), Kenmei, Naisura, Raizen; the empty far-right throne; Aren's
@@ -170,7 +171,7 @@ deal with the family" (four classes, curfew exemption, library on the second flo
 you can, "you like secrets right? … I'll reward you"; call her by pushing magyk into the sygl); the
 bedroom twice his old room; thinking rooms into being (kitchen, library with empty shelves, dining
 room; kitchen and dining combined; made permanent); hunger; the courtyard grouped by sygl; **Viridia**
-("Hey you're that Blood guy right?"): pale blue crackling hair, the inheritance trait, "No one rolling
+("Hey you're that Blood guy right?"): Bal recognises her as the girl from the buggy (one line); pale blue crackling hair, the inheritance trait, "No one rolling
 out the red carpet for you yet?"; kids with an inheritance are the elite; the originators "are people
 just like us"; "I'm not like most people" (once, as the source has it); the dining hall's sygl
 tables; she sits at his; ordering on paper (pepperoni pizza; her burger); the forest familiar rule;
