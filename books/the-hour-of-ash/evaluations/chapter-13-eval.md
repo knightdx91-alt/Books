@@ -511,3 +511,46 @@ Every reader has been waiting for this chapter since the map, and it delivers. T
 - **The #11 count is a judgment.** Six instances are firm. Two (l.52 Praxias's gloss; l.90 "The god could be helped along.") are clauses a lenient reader would call wit, and with those uncounted the chapter sits exactly at the cap (6, 0.80/1k). I counted all eight by the standard that counted Ch.10's Armada and Ch.12's "Hot would have set it." The PATH clears it either way.
 - **The deliberation-pause class is my classification, not the gate's.** I used the gate's own number: cap = max(4, words/1000) = 8, and reaching it fails. A reader who left out "Felix stood with that" and "He was quiet for three steps" would count 7, one under the cap. In that case Characters would rest on its merit (8.5) and Prose alone would hold the floor.
 - Originality 9.0, Pacing / Emotion / Immersion 9.0, Casual 9.0 and CVI-Launch 9.8 are one-chapter judgments by the system that wrote the book.
+
+---
+
+## Polish cycle 1 applied (book-editor, 2026-10-20)
+
+**Applied from the fix table, as written (24 strings):** C1, C2, C3, C4; P7; F1, F2, F4, F5, F6; P1, P3, P4, P5, P6a, P6b, P6c, P8a, P8b; R1, R2, R3, R4 (both halves).
+- **P6c:** the "with his wreath still on" swap also drops "at a trot" (that is how the table's 0-word delta works out, and it takes the gait exit off).
+
+**Applied with one word changed:**
+- **F3:** "with its toes spread" became "with its toes **splayed**". Ch.8 l.252 already has the women's feet "with their toes spread" at the fire, so the table's string would have repeated a frame across chapters. "splayed" is used once in the book.
+
+**Optional items:**
+- **O2 applied, reworded:** "until a draught **from** the gorge found it" (0 words). The table's "a draught up from the gorge" made "up from the" 3× book-wide (Ch.1, Ch.8, Ch.13), which fails the tic gate.
+- **O1 not applied:** cutting "to the shoulder" leaves "under the wool, and", a 4-gram echo with Ch.7.
+
+**ENTITY CH13-4 (almonds):** Ch.9 l.266 has Mara see them come into flower, so the line no longer says she missed it. "the almonds had flowered on the terraces, white, every tree together, without my seeing it," → "the almonds on the terraces were all in full flower now, white, every tree together," (15 words → 15). I tried two other wordings first and rejected both: "to the gorge" doubled "gorge" with l.38, and "down the slope" made the phrase 3× book-wide (Ch.4, Ch.5).
+
+**Not used:** nothing from "Do not use".
+
+**Measured after (shape_check / check_chapter.sh 13):**
+
+| Measure | Result |
+|---|---|
+| Words | 7,508 (shape_check), 7,527 (style_check) |
+| Dialogue | 38.0% |
+| Median sentence | 14 |
+| Breaks / signatures | 4 / `scene-set` → `dialogue` |
+| First line and final beat | byte-identical |
+| Mechanical gates | **ALL clean**: style (simile 2.1/1k, em-dash 1, foreshadow 0), grammar 0, rhythm 0, show/tell no flags, voice-wear strict clean, tic gate clean (and-chains 5/9), echo 0, command echo none, metaphor fig 2.7/1k, shape CLEAN (`--strict` too) |
+
+**Gesture classes in Ch.13 (the gate's regex):**
+- deliberation pause **3** ("stood with that", "He thought.", "took him a while"), cap 7–8. Valens has 2. The evaluator's hand count, which also takes in "gave him some thought" and "He was quiet for three steps", is 5.
+- exit by gait **1** (the altar boy "went at a run", the keeper).
+- hand / chin on the knee 2; kneel / crouch 0; bend / stoop 0.
+
+**Other checks:**
+- Valens's bare "No." 1.
+- #11 by the evaluator's list: 2 remain, both kept on purpose.
+- No new rationale clauses.
+- Bible, STATE.yaml and ENTITY_STATE.yaml untouched. The bible's at-risk line for "a lizard … toes spread" should read "toes splayed" when the orchestrator re-syncs it.
+- Pre-polish backup: `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/ch13-pre-polish1.md` (sha256 e88b4969…).
+
+**Next:** run F again (re-evaluation).
