@@ -46,6 +46,8 @@ WORLD_TERMS = [
     "do you know", "a few days",
     # Canon fact (how long Amelia was imprisoned), not a refrain.
     "three thousand years",
+    # The cast's names in pairs recur by necessity; names are not tics.
+    "lora and viridia", "viridia and lora", "amelia and viridia", "lora and amelia",
 ]
 # The narrator's professional reflex: the phrases by which THIS book's narrator files everything she
 # sees under her own expertise (a lab, a seminar, a trade). Book-specific; leave empty if none. The gate

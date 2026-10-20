@@ -30,10 +30,15 @@ Everything strictly on `main`. No PRs.
 | 8 | Too Bad She's a Tempus | 2,400 | FINAL 2026-10-20: 2,344w, Floor 8.5 |
 | 9 | The Familiar Class | 3,400 | FINAL 2026-10-20: 3,538w, Floor 8.5 |
 | 10 | Hopper and the Rapier | 2,400 | FINAL 2026-10-20: 2,879w, Floor 8.5 |
-| 11–30 | see outline.md | — | TODO |
+| 11 | Break Their Toys | 3,800 | FINAL 2026-10-20: 3,709w, Floor 8.5 |
+| 12 | I Like You Too | 1,500 | FINAL 2026-10-20: 1,455w, Floor 8.5 |
+| 13 | New Spring | 5,300 | FINAL 2026-10-20: 5,557w, Floor 8.5 |
+| 14 | The Card | 2,600 | FINAL 2026-10-20: 2,556w, Floor 8.5 |
+| 15 | Rumors | 1,800 | FINAL 2026-10-20: 1,948w, Floor 8.5 |
+| 16–30 | see outline.md | — | TODO |
 
-## RESUME HERE: Chapter 11 "Break Their Toys"
-- Open on Amelia's uniform details; don't restate Ch.10's last line. Follow outline Ch.11 in source order.
+## RESUME HERE: Chapter 16 "Whitehaven Road"
+- The first job: bandits, the heart ring (paid off Ch.21), "I feel useless", arrow-rune shirts proposed.
 - Author's dialogue is the base; polish into natural speech without changing meaning or speaker.
 
 ## Key files

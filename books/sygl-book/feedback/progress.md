@@ -8,10 +8,13 @@ supposed to be Sygl."). `project/foundation.md`, `project/outline.md` (now **30 
 ≈91,856 words** after the 2026-10-20 outline audit) and `project/STYLE_CONSTRAINTS.md` were rewritten; STATE.yaml records every ruling as a
 2026-10-20 author decision.
 
-- **Ch.1–10 FINAL** (`manuscript/chapter-01..10.md`, 30,918w): written/rewritten to the source 2026-10-20, all
+- **Ch.1–15 FINAL** (`manuscript/chapter-01..15.md`, 46,132w): written/rewritten to the source 2026-10-20, all
   four mechanical gates clean, book-evaluator Genesis Floor 8.5 each (reports in `evaluations/`).
-- **RESUME HERE → Chapter 11 "Break Their Toys"** (outline Ch.11). Ch.10 ended on Amelia on the stage's edge in a
-  school uniform: open on the uniform details without restating that line.
+- **RESUME HERE → Chapter 16 "Whitehaven Road"** (outline Ch.16). Ch.15 ended with Saturday and the job ahead
+  (job paper in Bal's pack; the card on the nightstand). The bandit fight introduces the heart ring (Ch.21 payoff);
+  Amelia's "I feel useless" walk; Bal proposes the arrow-rune shirts (finished in Ch.18).
+- Gesture clusters cost the most eval rounds in ch.13–15: no gesture class (smile/grin as one, laughs, blushes,
+  looks, sitting/sinking, freezing/stopping, eyes, chest/heart, hand squeezes) 3+ times within 500 words.
 - Spell repetition watch (author): the blood whip is most of Bal's on-page magic from the source onward.
   Don't invent spells; if a chapter or run of chapters leans on one spell, flag it to the author and
   update the magic ledger in project/foundation.md.
