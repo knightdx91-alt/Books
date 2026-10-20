@@ -27,6 +27,7 @@ Revised 2026-10-20 (author: "make it more like my original script. And it's supp
   tucked behind an ear; anything picked up and set down. Vary or cut.
 - Filter words: `just`, `seemed`, `really`, `slightly`, `suddenly`, `began to`/`started to`, `visibly`.
 - Dialogue tags: `said`/`asked`, PAST tense.
+- Author's dialogue is the BASE, not sacred text (author, 2026-10-20: "my dialogue might not be exactly right"). Keep what each line says, who says it, and where it falls, plus the memorable lines (e.g. "They have made me a myth?!", "Because it's magic", the binding vows, "No one threatens my girls"). Freely fix grammar, stiff or awkward phrasing, and anything that doesn't sound natural spoken aloud. Do not change meaning, add information, or give a line to someone else.
 
 ## 3. NO REPEATED PHRASES OR METAPHORS
 - No phrase ("for a moment", "look on his/her face", "be able to") recurs as a crutch. Track 3- and 4-grams
