@@ -88,7 +88,7 @@ Amelia didn't seem to mind. She was looking at his arm.
 
 At the mention of his hand, Bal stopped.
 
-He looked down at his stump, then back at her. The itch was there again, under the skin, sharper than he'd ever felt it.
+He glanced at his stump, then back at her. The itch was there again, under the skin, sharper than he'd ever felt it.
 
 "What do you mean?"
 
