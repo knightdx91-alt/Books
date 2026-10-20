@@ -2138,6 +2138,22 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   1979, memory); the cast of the man on his side and **the dog cast** (memory); the guard with the hand bell; "a pretzel from a cart" (no
   vendor on the page; the Trenton line).
 
+#### Ch.15 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+*(Writer, 2026-10-20; the Writer's page, before dialogue-polish / disruptor / continuity; re-sync after the chain.)*
+- **The bandaged Corinthian at the spring** (backfill only, the month after the consultation): "with a rag tied round his head under his
+  hat and a Corinthian's way with his vowels", asking "which house kept the tall foreigner with something heavy and bright inside her
+  clothes" (the page does not say he is the man Mara hit; the reader may). No line of his own on the page.
+- **Mnason's dog**: barks once near the fold "and was cursed for it". Texture only.
+- **Mnason's son and the son's wife** (mention only): the son keeps a house "at the foot of the gorge"; the wife "can count every
+  mouthful into me" and "is from Amphissa" (the chapter's one in-law joke). **Mnason's brother** (mention only): "ate six once, at the
+  vintage, for a bet" and "won the bet". **Mnason's mother** (mention only): turned her milk with fig.
+- **Mention only:** "One of the boatmen" (Felix's source for the ship-road across the Isthmus); "A shipmaster off the grain run" (Valens's
+  source for the self-opening temple door at Alexandria, Hero unnamed); the teacher in Judaea and "a monk" who "did the arithmetic"
+  (Dionysius Exiguus, unnamed); Titus ("Titus has just burned it"); "a man in a paper hat" at the Italian Market on Ninth Street (memory,
+  one clause: ricotta on the back of a knife); the pink rabbit in sunglasses on the battery packet (1990s object, one clause);
+  "the Corinthian boy" who won the boys' race (Felix's hearsay) and his father who cried; Euthydikos's bean-sheller (imagined at the lane
+  gate in winter); Kallia (backfill: her answer at the spring, "Gone," and the bag packed in the storeroom).
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -2564,6 +2580,34 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
 
 
 ---
+
+#### MNASON — herdsman on the high pasture above the Corycian Cave; summers his ewes in a hollow there; lets Valens the spare hut for the grazing (Ch.15)
+- **Attention / worldview:** his ewes, his cheese, and how his dead mother did things. The mountain is the one place nobody counts
+  what he eats. He keeps grudges against animals by name of deed (the torn-eared ewe "kicked me at the shearing").
+- **Vocabulary band:** plain mountain Phocian; farm nouns (fig, kid, pail, gap, shearing, gorge). No town words.
+- **Syntax fingerprint:** a complaint that runs on and lands on a grievance ("and you'll know whose doing that was"); a fronted object
+  when he is moved ("Fig, she turned it with, every day she lived"); short orders over the gap ("Talk to her," / "Not her.").
+- **Rhythm:** talks to the pot, the ewes and Mara in the same voice except when it is about his mother.
+- **Evasion — never says:** anything that asks who Mara and Valens are. He assumes ("your man") and tells, never asks.
+- **Physicality / silence:** a goatskin cap with the ears still on it; sits at the fold's gap on a slab of rock; "sixty if he was a day".
+  (The knife wiped on the thigh is used ONCE on the Ch.15 page, at the pot; do not repeat it as his business.)
+- **Verbal tic:** none — distinguished by worldview (ewes, cheese, his mother's way) and syntax (the complaint that lands on a grievance)
+- **Bleed guard:** must not notice materials or joins (Mara's axis) or read ground and exits (Valens's). No "Then…" retorts (Kallia's,
+  capped). No proverb.
+- **Chaos on the page (subjects, never phrases):** wants one twig off Valens's potted fig to turn his milk as his mother did, is refused,
+  uses the kid's stomach he had all along, and grieves over the taste; the grudge ewe; the son's wife from Amphissa.
+- **DISTINCTNESS GUARANTEE:** the only voice that measures everything against a dead mother's kitchen, against Kallia, who measures it in
+  labor, and Theano, who measures it in her own knees.
+- **Ch.15 as written (Writer, 2026-10-20; the Writer's page):** lines: "Talk to her," … "Talk, and she lets down. Sing, if there's nothing in
+  your head. It makes no odds what." / "Not her." … "She kicked me at the shearing. You have her." / "That boy of yours sleeps like the dead,"
+  … "Nobody listens to me up here but ewes." / "Wants turning." / "A twig," … "My mother turned her milk with fig, and hers did." / "There's
+  no fig nearer than the gorge…" / "One twig." … "You'd not miss it." / "My mother never did it so. Fig, she turned it with, every day she
+  lived, and it set as sweet as a girl. This'll taste of kid…" / "When you've beaten that," … "you can fight my cheese." / "Tastes of kid,"
+  … "You can taste it." / "Green fig'll strip your lips," … "My brother ate six once, at the vintage, for a bet." / "He won the bet," / "Once.
+  It was full of Corinthians." / "To my son's, at the foot of the gorge…" … "My son's wife is from Amphissa." / "Your man's shaved," (and,
+  per Valens, "He's called me that since our first night."). Valens's mind-reading (chaos) is aimed at him: "He'll be over those stones some
+  night." Spent: the fig-twig standoff; "Your man's shaved,"; the cheese "Tastes of kid"; the brother's six figs; "full of Corinthians".
+- **Sample line:** "That one's never stood still for a stranger, and she won't start for you." (Calibration only.)
 
 ## UNNAMED SPEAKING ROLES PLANNED IN THE OUTLINE
 Give each one its own attention, and **promote it to a full card the moment the page names it.** One
@@ -3540,6 +3584,48 @@ line each, so that walk-ons don't all sound like Mara.
     touched). The full line, Ch.10 l.68: "I knew it the way I knew the Armada, as a date on a page with a fire in it." It no longer collides
     with Ch.14's opener "I knew the year."
 
+- **At-risk after Ch.15 (Writer, 2026-10-20; "Summer Pasture", Chronological day-in-full, 3 breaks; the Writer's page before the chain;
+  re-sync after dialogue-polish, disruptor, continuity and the evaluator):**
+  - **The cave, CH13-7, in fresh words (now SPENT as a set):** the melt "in a broken, glittering sheet" off the lip; the flashlight's beam
+    "yellower than it had been in May … with a brown edge where the batteries had begun to tire"; the crack's back wall "a yard beyond" the
+    bend; "a crust of something pale and soft-looking, like old bread"; the clot of daddy longlegs "all threads and joints" coming apart "one
+    leg at a time"; "the mountain going on into itself as far as the mountain went"; "Was it ever further?" / "Once."; Valens watching what
+    the beam lay on and leaving "the thing in my hand" to her. **What the crack did: it showed its back wall. It stays shut; no later
+    chapter reopens the Corycian question.**
+  - **The flashlight: SEEN by Valens (cave, then noon) and shown working;** batteries tiring. The cupped palm lit red along the fingers'
+    edges "with the dark of the bones down their middles" is SPENT. "Then don't burn it" is his. Felix has NOT seen it on the page.
+  - **The truth told (knowledge flow):** Valens now knows: nineteen hundred and twenty-seven years ahead, counted from "a teacher in
+    Judaea"; Philadelphia "Further than Asia"; the cave was a door for one afternoon; the camera "keeps what it shows"; the door home is in
+    Pompeii, a tomb with "a door that is only a picture of a door"; she means to go "in by it". He does NOT know what happens to Pompeii.
+    He disbelieves ("I believe that cave had a light in it with no flame. I was there to see it." / "The rest is yours." / "Then I'll believe
+    it," if he sees it open). Felix and Mnason know none of it.
+  - **"Do they still have mules?": SPENT (1 of 1).** Never called back, never paraphrased as a question about any other animal or trade.
+    His follow-ups are spent with it: "Who leads them?" / "Men in hats."; the emperor, the legions, the roads, the god's house fallen, the
+    fenced spring, the salt sea "Dirtier, and with fewer fish in it", "Who's looking for you, there?" / "That's true, then."
+  - **The count told badly (the monk's arithmetic, "I know May"):** once. **Half-shaved face turned on her:** once. **Shaving by feel:** once.
+  - **The bargain (CH14-4 resolved on the page):** Corinth "in the autumn" before the rains; the brother's house (porter, dog); Valens to
+    stand in the brother's court for Plautia; the archive; "Half Corinth sat on those benches. They've not all died."; winter there; sail in
+    spring "As man and wife"; "No shipmaster takes on a woman alone. He'll take a wife."; "At the gangway."; "My wife. The porter will ask…";
+    the bowl let go ("Delphi's put you on a boat. Leave yourself on it." / "The priest's bowl could keep its lead"); Felix in ("He comes.");
+    "Then I'll wait outside it," Ch.16 refers to the bargain in action, never restates it.
+  - **Mara's body rebel, new channel: hiccups** (three, through the bargain, the last landing on "wife"). SPENT as a channel.
+  - **The leg-hair seep beat** (the pink razor, pitch or nothing): once.
+  - **Heat 1, SPENT staging:** the head knock on the roof poles and "It's lower than me"; the chiton caught over her arms and the elbow in
+    his eye ("That was my eye."); the Pentax worn to bed ("I wear it to everything."), lifted off and hung lens to the wall; the belt thrown
+    in the corner "so that his hands would find no work in it"; the fork splitting and the head of the bed dropping; his palm under her
+    skull and the floor taking his knuckles; the shared helpless laugh ("That's the fork," / "I was watching the figs."); his teeth "like a
+    row of new tiles" (Ch.15's glancing teeth surfacing, DONE); the grit picked from his knuckles with her teeth as the laugh's end; "Here?"
+    / "Here."; hands not careful, then careful; "as a man learns a road he means to take again at night" (the scene's one comparison);
+    the one contraception thought; "the care went with it"; the bed left as it fell. Ch.23 and Ch.34 find other orders, other bodies,
+    other senses (no collapsing furniture, no teeth, no knuckles, no road comparison).
+  - **The close (SPENT):** Felix asleep with swollen lips and a green fig with one bite gone. The fig dare ("Eat one and find out.") is paid.
+  - **Counts (Writer's page):** 7,914 words (shape_check), dialogue 30.3%, median 16, 3 breaks, `long-spiral` → `quiet`; em-dashes 0;
+    and-chains 7 (cap 9); "as if / as though" 1; negation pivots 0; hinge openers 0; "So" openers 0; "before I had" 0; bare "No." 0
+    (Valens 0); kneel / crouch 0; hand-on-knee 0; bend 0; deliberation pause 0 by gate; exit by gait 0; nod 1 (the fig "nodding at each
+    step"); command echo 0; echoes 0; laughs: Mara with Valens (one shared fit, new shape) plus "I laughed, not much" at the roof;
+    memories: two clauses (the Italian Market ricotta, the pink razor), no stand-alone memory; AD 79 as present thought: once ("eight
+    years on from this summer, and a few weeks over"); English 0; teeth 1 (Valens's).
+
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
   used as a scene button.
@@ -4036,3 +4122,9 @@ finalizing the chapter. Never add a tic to fix it.
   Kallia was told over supper), so the entity-tracker should re-anchor the flag to the final page when it closes it. Not touched: the
   manuscript, STATE.yaml, ENTITY_STATE.yaml. No new named character; no tic, catchphrase or signature gesture given to anyone. Tic-bearer
   roster still NONE.
+- 2026-10-20 (Writer, Ch.15 "Summer Pasture"): NEW NAMED CHARACTER **MNASON** (the herdsman whose hut and ewes the summer runs on; named
+  because the draft called him "the herdsman" 26 times, past the role-label limit). Card added under MINOR NAMED CHARACTERS (no tic;
+  distinguished by worldview: his ewes, his cheese, his dead mother's way). Added a Ch.15 walk-on note (the bandaged Corinthian at the
+  spring, Mnason's dog and kin, mention-only sources) and an "At-risk after Ch.15 (Writer)" block (the cave in fresh words and what the
+  crack did; the flashlight seen; the knowledge flow of the truth; the mule question SPENT; the bargain; hiccups; Heat 1 staging spent).
+  Tic-bearer roster still NONE.
