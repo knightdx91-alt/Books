@@ -1,13 +1,13 @@
 # Chapter 11: Valens's Yard
 
 <!-- SCENE BUDGET (Target 6,200; range 5,600-6,800): Praxias's price over the wall; the walk; the obol, the refusal, the watch read from the pouch; the breeching; the sharpened awl 2,000 | the week: the figs argument; the black comes in lame 1,500 | Praxias at the gate and Felix sent after him; the sherd; Felix's name and his price 1,500 | the shed: no paper; the near-kiss; the black standing on her bad foot; "the day he sits"; Kirrha 1,200 -->
-<!-- Word count: 6,083 (shape_check; wc -w ~6260 incl. header) | Target: 6,200 (range 5,600-6,800) | Dialogue 37.0% after disruptor (band 35-45; -235 narration words, speech words unchanged at 2,253) | Breaks 3 | Median sentence 14 (gear mid) | Echoes 0 | Gates clean (style, grammar, rhythm, show/tell, voice-wear strict, tic gate, strict shape) | Anchor: Felix asleep against the black mule's belly, the mule standing square on her bad foot so as not to wake him -->
+<!-- Word count: 6,038 (shape_check) | Revision: continuity (audit run 2) | Issues addressed: 15 (C-01; W-01, W-02, W-04..W-13) | Date: 2026-10-20 | Target: 6,200 (range 5,600-6,800) | Dialogue 37% (band 35-45) | Breaks 3 | Median sentence 14 (gear mid) | Bare "No." 3 | Echoes 0 | Gates clean | Anchor: Felix asleep against the black mule's belly, the mule standing square on her bad foot so as not to wake him -->
 
 On the other side of Praxias's wall, while he made up his mind what to charge me, a mule yard was already at work in the half dark: a shovel went along cobbles in long scrapes, buckets were being set down on stone, a boy was telling some animal at the top of his voice that it was the worst mule between Parnassus and the sea, and once, very low, a man spoke, and the boy answered him with three questions before he had finished. Praxias heard none of it. He sat on the bench outside his door with a quail in the crook of his arm and named me his price.
 
 "Five drachmas," he said. "That's for family. A stranger I'd charge eight, and he'd pay it, because who else has he got?"
 
-He was Kallia's cousin on her mother's side, a soft, heavy, early-rising man who kept his beard clipped to a fringe, and Kallia had sent me to him on the Kirrha road before the lamps were out, because after first light he would be at his olives and not to be found. The quail was a fighting bird; it sat with its feet folded under it and its eyes nearly closed, and he smoothed the feathers of its back with a fingertip, from the neck down, all the while he talked. Somebody in Phocis had bred that bird for courage, and it had the expression of a toll collector at the end of a shift.
+He was Kallia's cousin on her mother's side, a well-fed, slow-spoken, early-rising man who kept his beard clipped to a fringe, and Kallia had sent me to him on the Kirrha road before the lamps were out, because after first light he would be at his olives and not to be found. The quail was a fighting bird; it sat with its feet folded under it and its eyes nearly closed, and he smoothed the feathers of its back with a fingertip, from the neck down, all the while he talked. Somebody in Phocis had bred that bird for courage, and it had the expression of a toll collector at the end of a shift.
 
 "I have three," I said.
 
@@ -33,7 +33,7 @@ It was forty paces along his wall to the gate of the yard, and the boy got loude
 
 The gate stood open on a square of cobbles and trodden dung, with a long stable down one side, rubble below and timber above under a roof of reeds, and a shed at the end of it with its door propped on a stone. A trough ran along the wall under a spout. The water spilled over the lip and ran off down a gutter to the road; a yellow dog lay on the dry side of the gutter, watching it go. By the house door at the back a young fig grew in the bottom half of a big jar, sawn off at the shoulder and packed with earth. It had not a leaf on it.
 
-The boy had a shovel taller than he was. He was a thin one of twelve or so in a tunic made for somebody broader, belted up with a length of rope, and he had cut his own hair, with a knife, without a mirror. He had me in his eye before I was well through, and came straight at me with the shovel.
+The boy had a shovel taller than he was. He was a thin one of twelve or so in a tunic made for somebody broader, belted up with a length of rope, and his hair stood up every way at once, with straw in it. He had me in his eye before I was well through, and came straight at me with the shovel.
 
 "Are you Kallia's? You're the one he took up to Pan's in the snow. Did you hit Pan? Which hand? Was there much blood?"
 
@@ -43,15 +43,15 @@ The boy went off with the shovel, still asking, as he went, which hand.
 
 Valens was sitting on the end of the trough with a knife on his knee and a whetstone in his fist, putting an edge on the blade in small circles. Now and then he spat on the stone; his cloak was thrown back off his shoulders, and the hair at the back of his neck was wet from the spout.
 
-I untied the knot first and put the obol on the stone of the trough beside him.
+I untied the knot first and held out the obol.
 
 "For the pitch," I said.
 
-He picked it off the stone and tucked it into his cheek, the way the men did in the market when their hands were full.
+He took it and tucked it into his cheek, the way the men did in the market when their hands were full.
 
 "I need somebody," I said, "to carry my question in to the god."
 
-"No."
+He kept the stone going.
 
 "You have not heard what I would pay."
 
@@ -81,7 +81,7 @@ From the stable came the boy's voice, telling the black she could drink or die o
 
 "Then sell me back the watch," I said.
 
-"No."
+"With the god's money?"
 
 "Have you let it stop?"
 
@@ -89,7 +89,7 @@ He loosened the drawstring of his belt pouch with a finger, looked into it, and 
 
 "The short one's past the nine," he said. "The long one's at the two."
 
-The shadow of the spout was on the trough's lip, and by it the morning was nowhere near so far along. Since the snow he had kept it going, every day, and he had not put a finger to the hands.
+The shadow of the spout was on the trough's lip, and by it the morning was nowhere near so far along. Since the mountain he had kept it going, every day, and he had not put a finger to the hands.
 
 "It is fast," I said.
 
@@ -141,11 +141,11 @@ In the morning the awl lay on the bench beside the girth, and somebody had put a
 
 For a week I mended his harness.
 
-I had Kallia's water in before the sky was gray and was on the Kirrha road by full light, going down while the pilgrims came up. There were more of them every day, all of them early, on foot and on donkeys, a family from Boeotia with a grandmother in a basket chair slung between two poles. Most mornings Valens had a string out on the road already, to Kirrha for oil or salt fish and back up, and the yard was Felix's, which meant that it was loud. Felix did nothing at a walk. He climbed the rubble of the stable to the reeds to fetch down a sack and dropped back down it, though the door was beside him; he ate standing; he sang, and broke off singing to ask me something.
+I had Kallia's water in before the sky was gray and was on the Kirrha road before the sun was on it, going down while the pilgrims came up. There were more of them every day, all of them early, on foot and on donkeys, a family from Boeotia with a grandmother in a basket chair slung between two poles. Most mornings Valens had a string out on the road already, to Kirrha for oil or salt fish and back up, and the yard was Felix's, which meant that it was loud. Felix did nothing at a walk. He climbed the rubble of the stable to the reeds to fetch down a sack and dropped back down it, though the door was beside him; he ate standing; he sang, and broke off singing to ask me something.
 
 "Where'd you learn leather? Off your father? Had he mules? There was a sailor told me in Syracuse they eat octopus raw. Raw!"
 
-"Cooked," I said, to the octopus, but he was already on the roof.
+"Cooked," I said, but he was already on the roof.
 
 One day the string came back before noon with nothing on it but empty jars, and Valens took the shed step to eat. He had bread and a string of dried figs, threaded on a rush through their stalks with their necks all lying one way. He broke one off and passed it to me without looking round.
 
@@ -241,7 +241,7 @@ Valens was taking the string to Kirrha without Felix one morning, and Felix took
 
 Valens had come into the shed for a pad off the trestle.
 
-"No."
+"The yard's yours till I'm back."
 
 "It costs you nothing. I'll walk there and back, I'll be here before the string is. I'd go a round with the Thessalian myself, if they'd let me in the ring. Have you ever seen a man killed with one blow?"
 
@@ -259,9 +259,7 @@ He laid his hand flat on her shoulder and ran it down the leg, slowly, to the fe
 
 "Do you want the twitch?" Felix was already halfway to the shed. "I'll get the twitch. I'll hold her ear; nobody holds an ear better than me. Or the rope on her hind leg?"
 
-"No."
-
-Felix stopped short.
+Valens kept his eyes on the hoof, and Felix stopped short.
 
 Valens left the foot alone. He stood at the black's shoulder, a hand on her neck under the mane, and talked to her. It was Latin, and low, and so little of it reached me that it might have been the same few words over and over. It went on until Felix gave it up and perched on the trough. I had the headstall over my knees, and I put no stitch in it. At last the black shifted her weight off the sore foot of her own accord, to rest it, and as it left the cobbles his hand was under it, and he had it against his thigh, sole up, and she let him keep it.
 
@@ -272,8 +270,6 @@ Felix had it lit and there before the word was well out. Valens cleaned the sole
 "That's the bad in her, coming out?" Felix had the lamp up so close to the hoof that Valens put his wrist against it and moved it back. "All of it? She'll go to Kirrha tomorrow, won't she?"
 
 "Not tomorrow."
-
-The board in the square had advised whoever went to fetch him to bring friends.
 
 "Bran," he said. "Hot."
 
@@ -301,7 +297,7 @@ The ladle made its circuit of the pot. "There's women in this lane twenty years 
 
 By morning a fresh sack was on the foot, and Felix was waiting in the gateway.
 
-"He was up all night with her. Three times he was up to change it, and I never heard a thing. Why won't he let me? I know poultices. Did he say anything to you about me doing it?"
+"He was up all night with her. There's three sacks gone, and I never heard him once. Why won't he let me? I know poultices. Did he say anything to you about me doing it?"
 
 * * *
 
@@ -345,7 +341,7 @@ Before his name had finished, the boy was through the gate. Valens put the bran 
 
 Felix was back before the shadow of the spout had left the trough, out of breath and full of it.
 
-"He went to the wine-seller under the plane tree, and he had a cup, and he told the wine-seller the Syracusan was tighter than a priest's purse, and then he went to the ring back of the stadium, and he put two obols on the Amphissan's new bird against the baker's, and the baker's won, and he called the baker a thief, and the baker said—"
+"He went to the wine-seller under the plane tree, and he had a cup, and he told the wine-seller the Syracusan had haggled him down to nothing, and then he went to the ring back of the stadium, and he put two obols on the Amphissan's new bird against the baker's, and the baker's won, and he called the baker a thief, and the baker said—"
 
 "Did he go up to the square?"
 
@@ -377,15 +373,9 @@ That evening he had two mules of split wood to take up to the priest's back gate
 
 "Whatever's in it."
 
-"You have been in yourself, surely."
+"You have been in yourself, surely. Or sent a question in by somebody else."
 
-"No."
-
-"Not even a question, sent in by somebody else?"
-
-"No."
-
-"Why not?"
+He answered neither. "Why not?" I said.
 
 "I don't want anything he's got."
 
@@ -417,7 +407,7 @@ Felix spent the afternoon climbing the gate to look over it, and calling down wh
 
 I had been writing my question on a sherd. In the evenings under Kallia's stair I scratched it into a piece of broken jar with a nail, and at noon in the shed I had it out of my belt and turned the words round, and scraped half of them off with the edge of the awl, and scratched them in again. Kallia's obol for the papyrus was knotted in with the remains of the priest's money; I had never gone up to the priest's house to buy the sheet, and her son's line was still unwritten, and every evening I scratched at my own instead. *The door that let me in is shut. Where is another?* It was the best I had, and that noon I left it on the bench, face up, while I took the mended girth across the yard.
 
-Valens was in the shed on my return. The sherd was as I had left it.
+Valens was in the shed on my return, and the sherd was as I had left it.
 
 "Take out the door," he said.
 
@@ -453,15 +443,11 @@ Valens came as far as the shed door with the bran bucket.
 
 I kept quiet, and Felix brought his questions to me instead.
 
-"He can't. Nobody in this yard can but you. Which bit's me? Where does it start? That one, with its arms on its hips, that's the F. Will it wash off, if it rains?" He tipped it toward the door. "Nobody at Kirrha's got his name written down. The Cilician called me Boy from Side to Kirrha. Has he told you about the Cilician?"
-
-"No."
-
-"He bought me off him on the quay at Kirrha. He paid more for me than he paid for the black, and she's four years old and sound, or she was. The Cilician laughed and said nobody had ever paid him so much for a boy with a cough. You'd think he hit the Cilician. He never. He just looked at him, and the Cilician gave him a drachma back. You've seen how he looks at people." He returned the sherd to me, and took it back again to look. "The name's his. Felix. It's lucky, in Latin. He talks to the mules in Latin, did you know that?"
+"He can't. Nobody in this yard can but you. Is that one me, with its arms on its hips? Will it wash off, if it rains?" He tipped it toward the door. "Nobody at Kirrha's got his name written down. The Cilician called me Boy from Side to Kirrha. Has he told you about the Cilician? He bought me off him on the quay at Kirrha. He paid more for me than he paid for the black, and she's four years old and sound, or she was. The Cilician laughed and said nobody had ever paid him so much for a boy with a cough. You'd think he hit the Cilician. He never. He just looked at him, and the Cilician gave him a drachma back. You've seen how he looks at people." He returned the sherd to me, and took it back again to look. "The name's his. Felix. It's lucky, in Latin. He talks to the mules in Latin, did you know that?"
 
 "I knew that."
 
-"He said I could go wherever I liked, and I said where, and he said wherever I liked, and I came here." He put the sherd face up on the bench with great care, his name to the light. "Can I keep it? The dog's never seen a name."
+"He said I could go wherever I liked, and I said where, and he said wherever I liked, and I came here." He laid the sherd face up on the bench, his name to the light. "Can I keep it? The dog's never seen a name."
 
 "Did he take you to the priests," I said, "and have it cut on the wall?"
 
@@ -469,7 +455,7 @@ I kept quiet, and Felix brought his questions to me instead.
 
 * * *
 
-On the last evening of the week I finished the breastband, in the shed, by the lamp. Its felt lining had matted to the hardness of a hat brim and rubbed a bare place on the gray's chest that I had found and the gray had not forgiven me for finding. I had cut the old lining away and sewn in a new one of fleece, wool side in. Valens had come in with the black's halter, and he stayed, and found the knot in the end of a lead rope to work at, which I had watched him tie that morning.
+On the last evening of the week I finished the breastband, in the shed, by the lamp. Its felt lining had matted to the hardness of a hat brim and rubbed a bare place on the gray's chest that I had found and the gray had not forgiven me for finding. I had cut the old lining away and sewn in a new one of fleece, wool side in. Valens had come in with the black's halter, and he stayed, and found a knot in the end of a lead rope to work at.
 
 "Is that the last of it?" he said.
 
@@ -495,7 +481,7 @@ On the last evening of the week I finished the breastband, in the shed, by the l
 
 "And if somebody takes him? If somebody says he is a runaway?"
 
-The knot came loose in his fingers. He was a while silent, and I let the question stand.
+The knot slackened under his thumbs; he was a while silent, and I let the question stand.
 
 "Paper gets taken off you," he said.
 
@@ -515,7 +501,7 @@ Short of it by the width of a finger, he stopped, and stepped back. The shed was
 
 I sat down. There was the packsaddle on its trestle behind me, and my knees put me onto it, with the cut ends of the thread still pinched in my hand. Everything in me that had been held up came down, and I was hungry. I wanted bread, and whatever Kallia had in the pot, and I wanted it now.
 
-He took the lamp down from its nail and looked at the wick, and pinched off the char with his fingers, and hung it back up. Neither of us said anything. He was out in the yard next, and out there, where he must have taken himself to be unwatched, he stretched, both arms straight up over his head, until something in his back went with a crack I heard from the bench.
+He took the lamp down from its nail and looked at the wick, and pinched off the char with his fingers, and hung it back up. Neither of us said anything. He was out in the yard next, and out there, where he must have taken himself to be unwatched, he stretched, both arms straight up over his head, until something in his back went with a crack I heard from the packsaddle.
 
 I went out after him.
 
@@ -527,7 +513,7 @@ Valens stood and looked at the two of them. He went in beside the boy and eased 
 
 "Will you wake him?"
 
-"No."
+"He'll wake when he's cold."
 
 "Who's your Delphian?" he said.
 
@@ -567,12 +553,12 @@ That got no answer. He had it, and he kept it.
 
 "The goat-seller in the square wants more for his she-goat than I have."
 
-"He'd want more than you have if you had twice as much. At Kirrha there's a man brings them over from Aigion on the boats, at half his price, and none of his have ever been near a fire."
+"He prices for pilgrims. At Kirrha there's a man brings them over from Aigion on the boats, at half his price, and he lets you pick your own out of the pen."
 
 "How does a goat get from Kirrha up to Delphi?"
 
 "On its feet. Felix goes in front with a fist of barley, and it follows the barley."
 
-He went to the gate to look at the road, as he did every night before he put the bar across. The dog got up off its side of the gutter and went with him.
+He went to bar the gate, and the dog got up off its side of the gutter and went with him.
 
 "We take the string to Kirrha for oil the day after tomorrow, at daybreak," he said. "Bring your drachmas, and wear something you can walk back up in behind a goat."
