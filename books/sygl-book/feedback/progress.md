@@ -8,11 +8,13 @@ supposed to be Sygl."). `project/foundation.md`, `project/outline.md` (now **30 
 ≈91,856 words** after the 2026-10-20 outline audit) and `project/STYLE_CONSTRAINTS.md` were rewritten; STATE.yaml records every ruling as a
 2026-10-20 author decision.
 
-- **Ch.1–6 FINAL** (`manuscript/chapter-01..06.md`, 18,509w): written/rewritten to the source 2026-10-20, all
+- **Ch.1–10 FINAL** (`manuscript/chapter-01..10.md`, 30,918w): written/rewritten to the source 2026-10-20, all
   four mechanical gates clean, book-evaluator Genesis Floor 8.5 each (reports in `evaluations/`).
-- **RESUME HERE → Chapter 7 "The Blood Dorm"** (outline Ch.7). Open after Ch.6's "We'll talk more about it
-  tonight" (don't repeat it). Viridia introduces herself and Bal recognises her as the girl from the buggy (one line);
-  she sticks her tongue out once, answering the hair joke (author decision).
+- **RESUME HERE → Chapter 11 "Break Their Toys"** (outline Ch.11). Ch.10 ended on Amelia on the stage's edge in a
+  school uniform: open on the uniform details without restating that line.
+- Writer brief habits that saved eval rounds (ch.7–10): no narration explaining what's shown; no reflexive triplets;
+  ≤4 laughs; no reused images; track props; no nods / looked away-down (book-wide gesture density gate is live
+  past 20k words); blank lines around `---`.
 - Dialogue rule (2026-10-20): the author's lines are the base; polish grammar/stiffness into natural speech,
   keep meaning, speaker, placement and the memorable lines.
 - Gate tools `voice_wear_check.py` / `tic_report.py` read `manuscript/chapters/`; this book is flat, so run them

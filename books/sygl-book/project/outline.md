@@ -278,7 +278,7 @@ and a half feet, light, quick); trained by her father who served in Kenmei's arm
 parry forms with Lora attacking slowly; she prefers books to people; the invitation to sit with them,
 "I'll think about it"; Viridia's spear and the Terra boy.
 **Structure:** a told tale over lunch, then the training ground.
-**Opening:** Viridia salting her nuggets.
+**Opening:** Viridia ordering lunch (source order).
 **Anchor:** the rapier finding his hand; "I'll think about it."
 **Hook:** Amelia waiting on the edge of the stage in a school uniform.
 **Target:** 2,400.

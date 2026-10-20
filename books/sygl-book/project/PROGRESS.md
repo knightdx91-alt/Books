@@ -26,11 +26,14 @@ Everything strictly on `main`. No PRs.
 | 4 | Mrs. Brown | 3,238 | FINAL 2026-10-20: 3,238w, Floor 8.5 |
 | 5 | Verin's Cottage | 3,500 | FINAL 2026-10-20: 3,672w, Floor 8.5 |
 | 6 | The Claiming | 2,800 | FINAL 2026-10-20: 3,081w, Floor 8.5 |
-| 7–30 | see outline.md | — | TODO |
+| 7 | The Blood Dorm | 3,600 | FINAL 2026-10-20: 3,650w, Floor 8.5 |
+| 8 | Too Bad She's a Tempus | 2,400 | FINAL 2026-10-20: 2,344w, Floor 8.5 |
+| 9 | The Familiar Class | 3,400 | FINAL 2026-10-20: 3,538w, Floor 8.5 |
+| 10 | Hopper and the Rapier | 2,400 | FINAL 2026-10-20: 2,879w, Floor 8.5 |
+| 11–30 | see outline.md | — | TODO |
 
-## RESUME HERE: Chapter 7 "The Blood Dorm"
-- Open after Ch.6's "We'll talk more about it tonight" (don't repeat it). Viridia introduces herself; Bal
-  recognises her from the buggy. Her stuck-out tongue once, answering the hair joke.
+## RESUME HERE: Chapter 11 "Break Their Toys"
+- Open on Amelia's uniform details; don't restate Ch.10's last line. Follow outline Ch.11 in source order.
 - Author's dialogue is the base; polish into natural speech without changing meaning or speaker.
 
 ## Key files

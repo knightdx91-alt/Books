@@ -49,7 +49,7 @@ Viridia pushed the shaker back to the middle of the table and dropped her voice.
 
 Bal thought about Mr. Porter's face going from purple to nothing at all, and decided that was fair.
 
-"She said that was fair too," Viridia said. "And then she asked me again. Would I like to show everyone else up." She pointed the nugget at him. "By then I was curious where it was going. So I said yes, I would. She told me to give her my ring and follow her."
+"She said that was fair too," Viridia said. "And then she asked me again. Would I like to show everyone else up." "By then I was curious where it was going. So I said yes, I would. She told me to give her my ring and follow her."
 
 "Where to?"
 
@@ -61,7 +61,7 @@ Bal thought about Mr. Porter's face going from purple to nothing at all, and dec
 
 Bal forgot all about the nugget in his hand.
 
-"It's not full grown," Viridia said. "Look at the paws, though. She's going to be huge. Her paws are already bigger than my hands." She held one up, fingers spread, to show him the size of the comparison. "She sat down a ways off from me. Lady Amelia came over on her own, and she said, 'The bloodwolf's name is Hopper. She'll agree to a bond with you. All she requires is bloody meat to eat, and the possibility of being around me.'"
+"It's not full grown," Viridia said. "Look at the paws, though. She's going to be huge. Her paws are already bigger than my hands." She held one up, fingers spread. "She sat down a ways off from me. Lady Amelia came over on her own, and she said, 'The bloodwolf's name is Hopper. She'll agree to a bond with you. All she requires is bloody meat to eat, and the possibility of being around me.'"
 
 "Hopper," Bal said.
 
@@ -77,7 +77,7 @@ Amelia wanted him to convert Viridia. She had said so last night, by the fire. N
 
 He was impressed. A whole morning of errands, and somewhere in the middle of them Amelia had gone up a mountain and found Viridia the best present in the forest. It happened to come with a reason to keep visiting.
 
-He hoped Viridia wouldn't mind, when she worked it out. He had a feeling she wouldn't.
+He had a feeling Viridia wouldn't mind, when she worked it out.
 
 "You should have seen them," Viridia said, "when I walked out of the trees with her behind me. The whole class went dead quiet. One of the other Tempus kids said Raizen wasn't going to like it. Me having a bloodwolf for a familiar."
 
@@ -95,7 +95,7 @@ Bal shrugged, a little sheepishly. "I think she's protective. It's sweet."
 
 ---
 
-Their next class was Warfare. Bal collected his kit, and they left the hall, turned right, and went out through the big front doors into the afternoon. From there they walked around the outside of the castle to the back, where the training grounds were.
+Their next class was Warfare. They left the hall, turned right, and went out through the big front doors into the afternoon. From there they walked around the outside of the castle to the back, where the training grounds were.
 
 The grounds were wide and flat, with six training areas marked out on them in packed sand, each one roped off from the next. Racks of weapons stood along the edges of every one. Swords, mostly, and spears and axes, and a few things nobody had ever taught Bal the names of. The sun had been on the sand all morning, and the heat came up off it through the soles of his shoes.
 
@@ -171,7 +171,7 @@ Again.
 
 Again.
 
-His forearm started to burn after the first fifteen minutes. Bal kept the point up anyway, and after a while it shook, and he kept it up shaking. Lora did not speed up and did not slow down. Each time she came in, she came in the same, until his blade knew where to meet hers before he had finished thinking about it.
+Fifteen minutes in, his forearm was burning. Bal kept the point up anyway, and after a while it shook, and he kept it up shaking. Lora did not speed up and did not slow down. Each time she came in, she came in the same, until his blade knew where to meet hers before he had finished thinking about it.
 
 They didn't talk much. There wasn't much room for it. Between rounds, while Zoran was busy with someone else, Bal learned a little. Lora was usually quiet. She mostly kept to herself.
 
