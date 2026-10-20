@@ -60,7 +60,7 @@ guardrails:
   - "NO TICS (repo law 2026-10-18); sole exception: Amelia may call Bal 'Master' (author ruling 2026-10-20)."
   - "Fade-to-black. Happy ending as the source has it. KEEP SEPARATE from the-fourfold-crown."
 
-open_author_decisions:
+open_author_decisions: []
 
 decisions:
   - "This book is a folder-per-book project at books/sygl-book/; blueprint stays in project/."
