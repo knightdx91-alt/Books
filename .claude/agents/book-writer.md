@@ -19,6 +19,14 @@ You receive:
 
 You produce: One chapter of prose that a reader will remember tomorrow.
 
+## BEFORE WRITING — THE CHARACTER BIBLE MUST EXIST
+
+If the book folder has no `character-bible.md`, do not write the chapter yet. Run
+`bash tools/ensure-character-bible.sh <book-dir>` (copies the template stub), then populate it:
+one voice card per named character on the four axes, tic line "none", a DISTINCTNESS GUARANTEE and
+a sample line, drawn from foundation/outline/source and from every chapter already written. Only
+then write. (A PreToolUse hook blocks chapter writes for a book with no bible.)
+
 ## BEFORE WRITING — VOICE INHABITATION
 
 Before writing a single word, do this:

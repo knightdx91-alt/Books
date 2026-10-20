@@ -52,6 +52,7 @@ model reads that file every session. Contradicting yourself between `CLAUDE.md` 
 | `PIPELINE_MODEL` | model id, or empty | Default model for sub-agent dispatches |
 | `PIPELINE_MAXTURNS` | integer (default 120) | Sub-agent turn budget |
 | `INSTALL_GLOBAL_AGENTS` | `auto` (default) / `off` | Whether the hook deploys agents to `~/.claude/agents` |
+| `REQUIRE_CHARACTER_BIBLE` | `on` (default) / `off` | Block chapter writes for a book with no `character-bible.md` (see `docs/CHARACTER-BIBLE.md`) |
 
 **`AGENT_SOURCE=repo` keeps your fork self-contained** — the agents come from this repo's
 own `.claude/agents/`, which carry every improvement made under the UPDATE RULE. Setting it
@@ -73,6 +74,11 @@ mid-revision and the chapter looks finished when it isn't.
    account-wide agents directory were left alone — the repo's own `.claude/agents/` is
    still loaded for this project either way.
 3. Verifies both agent locations and reports anything missing.
+4. Lists any book folder with no `character-bible.md` (when `REQUIRE_CHARACTER_BIBLE=on`).
+
+A second PreToolUse hook, `require-character-bible.sh`, runs on Write/Edit/MultiEdit: it blocks
+writing a manuscript chapter for a book that has no `character-bible.md`, with the command to
+create one (`bash tools/ensure-character-bible.sh <book-dir>`). Everything else passes through.
 
 In a **remote (web)** session it additionally installs the build toolchain (`reportlab`,
 `pillow`, Ghostscript, `language-tool-python` — the ~250MB LanguageTool engine downloads

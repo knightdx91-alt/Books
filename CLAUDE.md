@@ -87,6 +87,10 @@ the web environment).
    evasion and physicality only, and the per-chapter gates (`voice_wear_check.py`,
    `tic_report.py --gate`) fail on a phrase that recurs. See
    [docs/CHARACTER-BIBLE.md](docs/CHARACTER-BIBLE.md).
+   **Every book gets one, enforced:** if a book folder has no `character-bible.md`, create it
+   before touching chapters — `bash tools/ensure-character-bible.sh <book-dir>`, then populate
+   it from the blueprint/source and any chapters already written. A PreToolUse hook blocks
+   chapter writes until it exists; SessionStart lists books still missing one.
 
 ## Finished books — `completed-books/`
 

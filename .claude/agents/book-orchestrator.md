@@ -146,6 +146,13 @@ PROJECT INITIALIZATION below.
 chapter. Continue from the next unwritten chapter, or from the phase after the last one
 completed.
 
+**Character bible gate (every run mode).** If the book folder has no `character-bible.md`, create
+it BEFORE any chapter is written or revised: `bash tools/ensure-character-bible.sh <book-dir>`
+copies the template stub, then dispatch book-architect to populate it — one voice card per named
+character, seeded from foundation/outline/source and from every chapter already written (an
+in-progress book's cards must match how the cast actually reads on the page). A PreToolUse hook
+(`require-character-bible.sh`) blocks chapter writes until the file exists.
+
 ### Resume table — which phase to start from
 
 | If this is missing | Start at |

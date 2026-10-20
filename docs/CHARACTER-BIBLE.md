@@ -39,6 +39,19 @@ the Characters dimension at 7.5 no matter how good the chapter otherwise is.
 **The dialogue-polish pass writes from it**, running the cover-the-name test against the
 cards.
 
+**No bible, no chapters — enforced.** Every book folder must have a `character-bible.md`
+before a chapter is written or revised, whatever the run mode (genesis, revise/expand, or a
+book started before this rule). A PreToolUse hook, `.claude/hooks/require-character-bible.sh`,
+blocks any Write/Edit to `books/**/manuscript/chapter-*.md` or `manuscript/chapters/*.md` when
+the book folder (the one holding `STATE.yaml`) has no bible, and says how to fix it. The
+SessionStart hook lists every book that lacks one, and `tools/doctor.sh` warns.
+
+To create one: `bash tools/ensure-character-bible.sh <book-dir>` copies the template stub
+(`--list` shows every book still missing one). Then populate it: from the blueprint for a
+new book, or by following *Retrofitting* below for a book with chapters already written.
+The book-orchestrator and book-writer agents do both steps themselves when they find it
+missing. Switch: `REQUIRE_CHARACTER_BIBLE` in `.claude/pipeline.conf` (default `on`).
+
 ## How distinctness actually works: the four axes
 
 Distinctness is **not** "give everyone a verbal tic." A cast where everybody has a

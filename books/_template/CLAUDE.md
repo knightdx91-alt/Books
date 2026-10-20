@@ -51,7 +51,9 @@ If this book is part of a series, it sits under `books/<series-slug>/<book-slug>
 answers to the series bible — see `docs/SERIES.md`.
 
 ## How to continue
-1. `cd books/<slug>` and read `STATE.yaml` and `feedback/progress.md`.
+1. `cd books/<slug>` and read `STATE.yaml` and `feedback/progress.md`. If there is no
+   `character-bible.md`, create and populate it first (from the repo root:
+   `bash tools/ensure-character-bible.sh books/<slug>`) — chapter writes are blocked until it exists.
 2. `ls manuscript/chapters/` and `git log --oneline` to find the last finalized chapter.
 3. Produce the next chapter IN ORDER. On a revise run, locate its material in `research/`
    and REVISE/EXPAND to the roadmap beats — do not invent from scratch. Match the locked
