@@ -2254,3 +2254,151 @@ Polish items I-06..I-11 are not tracked facts.
   - a new `ch15_requested_checks` entry;
   - `paragraph_rule`, `last_updated_by`, `mode`, `source` and the header comment extended.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+
+## 2026-10-20: UPDATE (chapter 16, "Plautia": drafted on the post-disruptor page, anchored to the REPAIRED page)
+
+**Trigger:** chapter loop step D.5 for chapter 16. The run was drafted against the post-disruptor page (commit 78422e7, md5 839827b3…). The continuity audit (commit e634300; 3 CRIT / 14 WARN) and its repair (commit cf65bc0) landed while the run was in progress, so on the coordinator's instruction the update is anchored to the repaired page.
+
+**Inputs read:**
+- `manuscript/chapters/chapter-16.md`, as committed in cf65bc0 (md5 f82f457f9acaa97896e762783fec438e).
+  - 283 paragraphs, with breaks after p46, p70, p120, p131, p184 and p227: C1 p1–p46, D1 p47–p70, C2 p71–p120, D2 p121–p131, C3 p132–p184, D3 p185–p227, C4 p228–p283.
+  - The repair changed text inside 30 paragraphs and did not renumber any.
+- `ENTITY_STATE.yaml` (`last_updated_chapter: 15`); outline.md Ch.16–17 (beat 1 of Ch.17 is now patched); foundation.md §3, §9, §10.
+- character-bible.md Ch.16 blocks (read only); `evaluations/continuity/chapter-16-audit.md`, including its SUGGESTED YAML PATCHES.
+- Ch.5, 7, 10, 12 and 15 pages, for the name, the Ariston letter, the sword and the bargain.
+- Nothing else changed after the Ch.15 re-sync (git diff c6da60b..HEAD), so every earlier cite holds.
+
+**Meta:**
+- `last_updated_chapter: 16`; `chapters_tracked: [1..16]`.
+- `paragraph_rule` now covers Ch.16.
+- A Ch.16 row is added to `meta.revalidation_needed` (the mid-run repair; RESOLVED).
+- New block `meta.ch16_requested_checks`: 17 checks, including the re-anchor.
+- 451 `ch-16:pYY` cites. Every quoted Ch.16 fragment was checked by script against the repaired page. Quotes from the plan, the bible and earlier pages are labelled as such.
+- Counts:
+  - characters 220 → 242
+  - locations 74 → 78
+  - objects 100 → 106
+  - organizations 17 → 18
+  - timeline_events 173 → 187
+  - plot threads 56 → 57
+  - world rules 82 → 89
+  - knowledge_index keys 35 → 38
+
+### Replaced (plan → prose)
+- **Timeline row 16:**
+  - Delphi strand, autumn AD 71: the last fair day of the grazing; first light the next morning; the crossing "a day after Kallia's lamp".
+  - Corinth strand, winter AD 71–72: after the Saturnalia; "the winter is half gone"; C4 about three months after the arrival.
+- **timeline_events:** the planned "autumn AD 71: farewell to Kallia" row is replaced by 15 page rows. These include Marcus's teeth (AD 65), the manumission at the emperor's games, and the suit "two years from this spring".
+- **Location rows** for Mara and Valens; new rows for Kallia, Felix, Plautia, Marcus and Myrrhine.
+- **Waypoints:** Plautia's and Kallia's waypoints are replaced; Mara and Valens get new ones.
+- **Mara's two planned knowledge rows** (never lovers "from watching"; Celer kept Marcus, the record office) are replaced by 16 page rows.
+- **Kallia:** `last_appearance` now cites the page (p67; p131).
+- **Plautia:** `first_appearance` is p1.
+- **Plautia's brother:** `first_appearance` is set to null. He is not on stage in Ch.16.
+- **Objects:**
+  - **plautias-bracelet:** the planned stub is rewritten from the page.
+  - **borrowed-himation** and **kallias-broom:** both now `chekhov_closed` (see Objects below).
+  - **fathers-pentax-k1000:** the named-frame beat.
+  - **manumission-record:** the Ch.16 beat, and a description in the page's form. The old description is kept as `description_was`.
+
+### Added
+- **Characters:**
+  - new: **myrrhine** (full entry);
+  - the brother's household: `plautias-brothers-cook`, `-porter`, `-advocate`;
+  - officials: `proconsul-of-achaea`, `proconsuls-wife`;
+  - record office: `record-office-clerk-young` and `record-office-clerk-gray` (both `needs_review`: either may be `archive-clerk-corinth`), `record-office-porter`, `record-office-baker`;
+  - Celer's side: `celers-father` (consul "two months in a bad year"), `celers-mother`, `celers-porter`;
+  - mention-only and walk-ons: `sicyon-suitor`, `dining-room-floor-layer`, `lechaion-road-papyrus-seller`, `gulf-coaster-master`, `coaster-steering-boy`, `corinth-stable-man`, `patrae-lanista`, `gaul-who-has-killed-four`, `kallias-old-lodger-ch16`.
+- **Characters updated:**
+  - **plautia:** about thirty; the left earlobe; her hair and skin; 11 traits; 12 knowledge rows; relationships.
+  - **marcus:** named on the page; "seven at the vintage" CONFIRMS foundation (born autumn AD 64); ears, temper, the Muses; teeth.
+  - **valens:** the alias "Gaius Iulius Valens"; 10 traits; 10 knowledge rows; `knowledge_absent_ch16`.
+  - **mara-reyes:** 9 traits; a legal-status row ("My wife" in Corinth).
+  - **felix:** 8 traits; 5 knowledge rows.
+  - **kallia:** 5 traits; 4 knowledge rows; `household_ch16`.
+  - Notes on the brother, the freedman, Plautia's mother and father, Celer, the steward, the lanista, the games magistrate, the Gaul, Nero, Vespasian, Ariston, Mnason and his son's wife, Nikaso and Ray.
+- **Locations:**
+  - new: `plautias-brothers-house`, `gulf-of-corinth`, `sicyon`, `nemea`;
+  - Ch.16 facts on corinth (the forum, the colonnade, the amphitheater, the citadel), lechaion, kirrha, isthmia, kenchreai ("the other harbor"), celers-house, patrae, rome, syracuse, syria, delphi, kallias-house, valens-yard, summer-pasture and philadelphia.
+- **Objects:**
+  - new:
+    - `kallias-lamp` (closed: the named frame);
+    - `plautias-mothers-silver` (the purse);
+    - `plautias-dowry-instrument`;
+    - `plautias-writing-case`;
+    - `marcus-saturnalia-ball`;
+    - `kallias-letter-to-ariston` (written, not sent).
+  - updated:
+    - **plautias-bracelet:** Mara's, worn on her left wrist; "Someone had cut his teeth on it." Status `background` → `chekhov_open`.
+    - **borrowed-himation:** CLOSED. Mara's outright, mended overnight: the pin hole is worked into an eye and the hem is bound.
+    - **kallias-broom:** CLOSED. Hung on its nail.
+    - **film-roll:** `frames_shot_ch16: 1`. Running count: plan 10 shot / 26 left; page at least 9 shot / at most 27 left. No frame on any page Ch.6–15.
+    - **fathers-pentax-k1000:** the lamp frame.
+    - **flashlight:** nearly dead ("Not much. Some."); Felix sees it for the first time.
+    - **reply-obol:** still unspent. Which coin bought the sheet is not stated.
+    - **potted-fig-tree:** on the boat.
+- **Organizations:**
+  - new: `household-of-plautias-brother`;
+  - updated: **corinth-record-office** (the proconsul's office; two doors; "out with a copyist"; the book; one clerk on the door at the festival) and **household-of-celer**.
+- **knowledge_index:**
+  - new: **valens_and_plautia**, **isthmia_plan**, **valens_name**;
+  - Ch.16 rows on dowry_suit_witness, maras_camera, syracuse_cover and maras_name.
+- **Threads:**
+  - new: **plautias-question** (the closing question, unanswered by design);
+  - **kallias-son:** the coda is PAID;
+  - **ariston-reply:** written, not sent;
+  - **plautias-son:** opened on the page;
+  - notes on valens-papers, romance, valens-known, celer-and-the-frame, felix-arena, mending-the-seam and conception-and-lucius.
+- **World rules:** 7 OBSERVED (Ch.16) rules:
+  - custody after divorce;
+  - the colony's books in the proconsul's office;
+  - the book of boards and its sealed cord;
+  - freedman naming;
+  - the dowry instrument;
+  - the suit before a judge in Rome;
+  - mules cannot vomit, and the gulf wind drops at sunset.
+
+### Contradictions
+The IDs follow the audit's suggested CH16-1..CH16-4.
+
+RESOLVED in this run:
+- **CH12-2, by the page.** The magistrate's year is a book of boards, bound by a cord through holes at the back edge, knotted, and sealed by him and his colleague. Valens's leaf is two boards "near the front" that "go into a writing case like any other pair" (p259–p267).
+- **CH12-8, by the page.** "Gaius Iulius Valens, freedman of Gaius"; the nomen is "The lanista's … I had it with the sword."; "Lupus" is the benches' name (p252; p267–p272).
+- **CH16-2 (low), by the repair.** "a whole winter without my name" against Ch.7. The page now reads "She had me most of an autumn before she wanted my name." (p91).
+- **CH16-3 (info), by the repair.** The boat day count. The page now reads "a day after Kallia's lamp" (p185).
+- **CH16-4 (low), by the repair.** Felix and the sword, previously a knowledge_gap. The stable man's "and that you got your sword there" (p151) gives the path. The knowledge_gap is withdrawn and replaced by a knowledge row, `told_by:corinth-stable-man`.
+- **CH16-6 (medium), by the outline patch.** The "bronze-and-wax diptych" of outline Ch.17 now reads "The two-board leaf, cut from the magistrate's cord-bound book".
+
+New and UNRESOLVED:
+- **CH16-1 (CRITICAL), pending the author's decision.** The Isthmia are set in spring AD 72 by foundation §9–§10, outline Ch.17 and the page ("At the Isthmia," p228). The audit's C-01 says AD 72 is not an Isthmian year: the games fell in spring AD 71 and AD 73. The repair held this for the author, and it is not resolved here.
+- **CH16-5 (info):** the bible's Ch.16 blocks quote the writer's draft. The bible sync is handed off.
+- **CH16-7 (info):** "He serves in Syria." (p81) against Ariston's discharge (ch-10:p28).
+- **CH16-8 (info, forward):** the Corinth household takes Mara as Valens's wife ("My wife," p226; "three months", p268) before the Lechaion wedding of spring 72.
+- **CH16-9 (info):** the fig has now moved twice on the page; Pompeii would be a third move, against foundation's "moves it twice".
+- **CH16-10 (info):** the outline's Ch.16 beats against the page. None goes against a NON-NEGOTIABLE. Outline Ch.17's fig-eating clerk must be one of the two candidates the page names, or a third.
+
+Rechecked with a note and left open: CH5-3 (the frame count), CH12-5 (no sender named), CH15-3, CH15-6 (no pregnancy). CH15-7, already resolved, gets a `ch16_page`: the farewell is covert on the page.
+
+Open contradictions: 33 → 37.
+- Opened: 10 (CH16-1..CH16-10).
+- Resolved: 6 (CH12-2, CH12-8, CH16-2, CH16-3, CH16-4, CH16-6).
+
+**One CRITICAL is open: CH16-1, the Isthmia year.** No knowledge_gap remains.
+
+### Knowledge flow: Valens and Plautia
+- Recorded in `knowledge_index.valens_and_plautia`.
+- **Valens and Plautia:** know (prior knowledge).
+- **Mara:**
+  - Valens told her in Ch.12. She doubted it all autumn (p6).
+  - Ch.16 answers it by watching, not asking. At the porch Plautia waits until Valens has looked the street over and moved, passes him on his left, and turns at the corner "to find him"; then he looks at Mara's face (p136–p138).
+  - Plautia also says: "I walked in front of him for two years and never heard it." (p179).
+- Nobody says "never lovers" in words.
+- **Celer** framed it. **The brother** holds the charge a lie.
+- **Felix, Kallia, Myrrhine and the household:** nothing on the page.
+
+### Not done here (per instruction)
+- The bible sync for CH16-5.
+- The author's decision on CH16-1.
+- The manuscript, character-bible.md and STATE.yaml were not touched.
+
+**Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass.
