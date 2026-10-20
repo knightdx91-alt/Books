@@ -251,10 +251,37 @@ MOVE_CHAPTER_MAX = 1
 HINGE_RX = re.compile(r"(?m)^(?:So|And so|Then|And then|After that|Afterward|Afterwards|Later|Next)\b[ ,]")
 HINGE_MIN_CAP = 3
 HINGE_WORDS_PER = 2500
+# SHORT REPLY refrain: the same one- or two-word spoken line ("No.", "Yes.", "Go on.") 5+ times in one chapter
+# is a verbal tic the n-gram layers cannot see (Hour of Ash ch.11: "No." x11). Names called out are exempt.
+SHORT_REPLY_MAX = 4
+_SR_QUOTE = re.compile(r"[\u201c\"]([^\u201d\"\n]*)(?:[\u201d\"]|$)")
+
+def _book_names(texts):
+    """Words that appear capitalised mid-sentence 3+ times across the book: names, not replies."""
+    c = {}
+    for t in texts:
+        for m in re.finditer(r"(?<=[a-z,;] )([A-Z][a-z]+)", t):
+            c[m.group(1).lower()] = c.get(m.group(1).lower(), 0) + 1
+    return {w for w, n in c.items() if n >= 3}
+
+def short_reply_counts(text, names):
+    counts = {}
+    for para in text.split("\n"):
+        for q in _SR_QUOTE.findall(para):
+            w = [x.lower() for x in re.findall(r"[A-Za-z']+", q)]
+            if 1 <= len(w) <= 2 and not all(x in names for x in w):
+                k = " ".join(w); counts[k] = counts.get(k, 0) + 1
+    return counts
 SO_STREAK_WATCH = 4
 
 def reflex_scan(files):
     rows, flags = [], []
+    _names = _book_names([strip_comments(Path(f).read_text()) for f in files])
+    for f in files:
+        _ch = Path(f).stem.split("-")[-1]
+        for k, n in short_reply_counts(strip_comments(Path(f).read_text()), _names).items():
+            if n > SHORT_REPLY_MAX:
+                flags.append(f"short spoken reply \"{k}\" {n}x in chapter {_ch} (cap {SHORT_REPLY_MAX}) — a one-word refrain is a tic; vary, act, or let silence answer")
     pivot_total = 0
     creds = [re.compile(p, re.I) for p in CREDENTIAL_PATTERNS]
     for f in files:

@@ -222,6 +222,10 @@ is deliberately narrow, so an ordinary negative sentence followed by a new one d
 Two **NARRATOR MOVES** are capped at 1 per chapter: a paragraph opening "So I…" (the narrator's consequence
 hinge) and "before I had decided/thought…" (the body outrunning the mind). A "So" opener in 4+ consecutive
 chapters prints a WATCH without failing, so the streak shows before it hardens.
+A **SHORT REPLY** refrain fails too: the same one- or two-word spoken line ("No.", "Yes.", "Go on.") more than
+4 times in a chapter, names called out excepted. The phrase layers start at three words, so a one-word reply
+could repeat unseen (Hour of Ash Ch.11 had "No." eleven times).
+
 Because a capped habit moves rather than dies, the whole **HINGE FAMILY** of paragraph openers (So / Then /
 After that / Afterward / Later / Next) is also capped, at max(3, words ÷ 2,500) per chapter.
 
