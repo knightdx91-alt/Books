@@ -296,3 +296,213 @@ Ch.11: 6,038w (target 6,200, −2.6%, inside 5,600–6,800; book 60,039 vs 64,00
 This is the chapter the book has been waiting for since the snow: a man who refuses her, lets her work, sharpens her awl in the night, argues about figs as if she will be there at midwinter, hides that he can read and lets her see him hide it, nearly kisses her and stops, and then agrees to the one thing he had every reason to refuse, without saying why. What holds it, again, is the narrator's habit, and this time the habit reached the scene that mattered most.
 
 **BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in every score at or above 8.5, in Emotion and Immersion 9.0, in Casual 9.0 and in CVI-Launch 9.5 requires external validation (beta readers, editors, comp analysis). Prose is held at 8.0 to the standard that held Ch.1–10 in cycle 0. Several items here are judgments about shape rather than strings and a reader could fairly call them a strict bar: P2 (a family of narrated silences), P5(c) (knees and hunger seven chapters after Ch.4), P6(b) (the catechism skeleton). They are held because each reproduces a move the bible names as SPENT or struck, a reserved sample, or a line already spoken. P1 (one construction four times in one chapter), P3 (the same nose on two characters) and P5(a) (the struck knot device at its old trigger) would hold the floor on their own. Casual 9.0 assumes a romance reader who has waited ten chapters for this man; a reader who never minded his absence might put it at 8.5, which still passes. CVI-Launch 9.5 is a one-chapter formula and is not a book forecast.
+
+---
+
+## RE-EVALUATION — polish cycle 1 (2026-10-20)
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Text:** `manuscript/chapters/chapter-11.md` after book-editor cycle 1 (`evaluations/revision-chapter-11-cycle1.md`: PATH items 1–9 plus ENTITY CH11-2 and CH11-5). **5,929 prose words** (shape_check), 5,946 by style_check, 6,107 by `wc -w` (incl. header). Target 6,200 (−4.4%), inside 5,600–6,800. Do not pad.
+**Read against:** the cycle-0 evaluation above (every P item, Revision row and Strength); the revision log; Ch.6 ¶470, Ch.7 ¶198 and ¶212 (the broken lace and its knot), Ch.8, Ch.9 ¶250 and ¶326; STATE guardrails incl. AUTHOR-CP2-1…4; voice-dna; character-bible.md (Valens and Felix cards and Ch.6–11 blocks, NO TICS incl. the struck devices, the at-risk blocks after Ch.10 and Ch.11, `research/prior-run-2026-07/character-bible.md` l.24/l.264 for the knot device); all 13 voice-bank samples. Every changed sentence was 3/4/5-gram scanned (raw and pronoun/possessive-normalized) against Ch.1–10 and the samples with a scratch script, then checked inside Ch.11 by hand. **Every replacement I offer below was applied to a scratch copy of the book folder and run through the real gate suite and shape_check.** I did not touch the manuscript and did not run git. **¶N = line number in the revised file.** Cycle-0 numbers hold through ¶234; the split of the old ¶234 into two paragraphs moves everything after it **+2** (Felix's "Felix had it there, lit." ¶270, Praxias ¶306–¶324, the gap ¶342, the walk up ¶356–¶390, the sherd ¶410–¶456, the shed ¶460–¶506, the anchor ¶510, the agreement ¶514–¶566).
+**Measured here, not taken from the log:** `bash books/the-hour-of-ash/tools/check_chapter.sh 11` (run from /home/user/Books): **every gate is clean.**
+- Style: 5,946w, simile 1.3/1k, adverb 2.0/1k, em-dash 1, **foreshadow 0**.
+- Grammar 0. Rhythm 0 flagged. Show/tell: no flags (dialogue 37.7%).
+- Voice-wear strict: clean.
+- 5a tic gate: clean. Ch.11: and-chains 3/9, credential asides 0, negation pivots 0, 'So' openers 0, no gesture class charged (bend 0, kneel/crouch 0, object handling 0, nod 0).
+- 5c echo scan: 0. Command echo: none.
+- Metaphor: fig 1.5/1k, 8 similes, 1 as-as, median 14, 5.4% over 40 words.
+- Shape: CLEAN. Ch.11 = `long-spiral` → `dialogue`, 3 breaks, dialogue 38%, median 14. Book: 59,930 words over 11 chapters against 64,000 cumulative (−6.4%).
+
+### PATH items, verified one by one
+| PATH item | Now | Verdict |
+|---|---|---|
+| 1 P3 the nose (¶98, ¶500) | ¶98 "Close to, a white nick ran through one eyebrow, across the grain of the hair." ¶500 "The nick in his eyebrow showed." | **CLEARED.** "nose" greps 1 in the chapter (the mule's, ¶270). Nikaso's body fact is hers alone. The eyebrow is re-mentioned once at the near-kiss in fresh words, as the bible asks. |
+| 2 P4 Felix's introduction (¶36) | "He was a thin one of twelve or so, with straw in his hair." | **CLEARED.** Tunic, belt, rope and the age-hedge-clothes-belt-hair skeleton are 0. The shovel "taller than he was" and "came straight at me" carry him. |
+| 3 P5 the near-kiss parts (¶460–¶506) | the lace for the knot (¶460, ¶486, ¶492); "and his face was there." (¶498); "He came nearer, and my face lifted to meet his." (¶500); "I sat down. The packsaddle had been on its trestle at my back, and I was on it…" (¶504); "Neither of us said anything." cut (¶506) | **CLEARED as strings:** knot near his hands 0 ("knotted them" ¶498 is Mara's thread, her act, in the protected sequence); "Neither of us" 0; "knees" 1 (the headstall "over my knees", ¶266, not the seat); "hand's width" 0; one ruler left ("Short of it by the width of a finger"). **Every beat in its order**: the strap, the knife, the lamp behind her, the step back into the girths, the seat, the hunger (byte-identical), the wick, the stretch and the crack. **One clause is ruled below (point 4): "The lace stopped at his ankle", which is my own string.** |
+| 4 P1 Felix's speed (¶270, ¶310, ¶342) | "Felix had it there, lit." / "Felix left his bucket and went to him." / "The boy was out of the gate and after him." | **CLEARED.** The "before [X] had finished / the word was out" construction is 1 in the chapter: ¶6, the protected first sentence. *WATCH (not new):* "already" carries Felix's speed twice (¶148 "he was already on the roof", ¶262 "Felix was already halfway to the shed"), two different shapes, at the cap I would set. |
+| 5 P2 the non-answers (¶324, ¶390, ¶536, ¶548) | ¶324 "He went off uphill, telling the quail about it."; "He let it be." cut; "He let that go by him." cut; "That got no answer." cut | **CLEARED.** "let it be / let that go by / no answer / got no answer" are 0. Narrated non-answer glosses: 1 ("He answered neither.", ¶380), under the ≤2 rule. No refusal was turned back into a bare "No." (3, unchanged: Valens 2, Mara 1). Where the refusals went is checked under point 3 below. |
+| 6 P6 the world-question exchange (¶212–¶236) | "Children?" / "Once they are old enough to be late." … "I am." … "A lock does. In my country every door has its own." / "He was on his feet then…" | **CLEARED.** "Women?" 0 (Ch.8's one-word line is Mara's alone). Ch.7's all-questions catechism is broken twice (the asker makes a claim about himself; she answers past it). Her origin is no longer cut at a dash: she finishes the sentence and he leaves on it. Em-dashes 2 → 1 (Felix's cut-off report). |
+| 7 P7 the low Latin (¶266, ¶514; ¶278) | "Very little of it reached me, and what did was the same few words over and over." / '"He's been up since before it was light," he said.' / "her head down" | **CLEARED.** "Latin" is 2 in the chapter, both in Felix's mouth and Mara's reply (¶448–¶450), which is where the eval wanted it. "low" is 1, the protected first sentence. "it might have been" 0. |
+| 8 P8 (¶252) | '"You've never seen anything," Felix said, and took himself off…' | **CLEARED.** "with great" 0. See point 3 for what the cut left behind (a trace). |
+| 9 second uses (¶202, ¶264, ¶512) | "heaped in his lap"; "Valens was watching the hoof"; "out of his hand" | **CLEARED.** "a dozen" 0; "kept his eyes" 0; "fist" no longer doubled across ¶510/¶512. |
+| CH11-2 the money container (¶24, ¶46) | "three drachmas in the rag at my belt"; "I untied the rag first" | **CLEARED.** Agrees with the bible ("Mara's purse is 'a rag'") and with ¶410's "knotted in with the remains of the priest's money". |
+| CH11-5 the Kirrha-road pilgrims (¶144) | "a family of Achaeans with a grandmother in a basket chair" | **CLEARED.** Achaeans off the gulf boats walking up from Kirrha agree with ¶558's Aigion goat boats and Ch.10's "boat from Aigion". *Trace (Devoted):* Ch.6 ¶662 has Valens use "Achaea" for the Roman province ("no smith in Achaea could make"), which includes Delphi; here "Achaeans" is the region. Both senses are period-correct (Pausanias's *Achaia* is the region). No change. |
+| Signatures | first sentence and last line | **Byte-identical.** `long-spiral` → `dialogue` confirmed by shape_check. |
+
+**All eight law items P1–P8 are cleared**, with the second uses and both entity fixes. Every cycle-0 defect string greps 0 in Ch.11 (I ran the list: "before the word", "had the last word", "Before his name", "let it be", "let that go by", "gave him no answer", "got no answer", "belted", "tunic", "a knot in the end", "knot slackened", "knot still", "hand's width", "Neither of us", "Women", "In my country—", "with great", "a dozen", "kept his eyes", "out of his fist", "knot at the corner", "it might have been", "and I sat", "sat down on the").
+
+### The editor's departures from my strings
+| ¶ | My string → editor's | Ruling |
+|---|---|---|
+| ¶500 (1e) | "His head came down, and my face lifted to meet it." → "He came nearer, and my face lifted to meet his." | **ACCEPT.** Mine made "came down and" 3× book-wide against the protected "…had been held up came down, and I was hungry". "He came nearer" is plainer than a head coming down, but it keeps the motion his and the lift hers, and "my face lifted" is the body acting before the will, which is the near-kiss's whole register. "came nearer", "face lifted", "lifted to meet" are 0 in Ch.1–10 and the samples. |
+| ¶504 (1f) | "The packsaddle was on its trestle behind me, with…" → "The packsaddle had been on its trestle at my back, and I was on it, with…" | **ACCEPT; better.** The pluperfect enacts it: the seat had been there all along, and she finds herself on it. That is the knees' job done without knees. *Trace:* "had been" in two adjacent sentences ("had been on its trestle" / "that had been held up"), the second protected. No change: the first is doing the work. |
+| ¶342 (2c) | "The boy was off up the road after him." → "The boy was out of the gate and after him." | **ACCEPT.** Mine made "up the road" 3× book-wide. "him" resolves to Praxias (the last man named in Mara's "Perhaps his olives are uphill.") and Felix's report confirms it. |
+| ¶234–¶236 (6c) | '"A lock does," I said. "In my country…' → untagged, no dash, "He was on his feet then," as its own paragraph | **ACCEPT.** Mine failed voice-wear ("I said in my"). The untagged line is unambiguous (she is the one answering), and the paragraph break gives his exit its own beat. *WATCH (Theme):* "door" is now in two consecutive lines (¶232 "Who keeps the door", ¶234 "every door has its own"), 176 lines before *The door that let me in is shut.* (¶410). A re-reader may hear the rhyme; it is faint and in plain modern fact. No change. |
+| ¶266 (7c) | "her head low" → "her head down" | **ACCEPT.** "her head hanging" would have repeated the near-kiss's "the girths hanging". *Trace:* Ch.6 ¶408 "He had the gray's head down" (Valens, a mule, a different act). No change. |
+| ¶460, ¶492 (1a, 1c) | "sat on the end of the bench" → "with a foot up on the bench"; "He tied the lace off at the ankle." → "He ran the lace on up the shin and tucked the end in." | **ACCEPT; better.** "tied" would have put a knot back in his hands, which my string missed. "laced to the shin" is Ch.7 ¶198's boot, so the continuity is exact. |
+
+Sixth cycle running in this book: the editor caught my prescriptions tripping gates or traps, and two of his departures (¶504, ¶492) read better than my strings.
+
+### The four things the editor flagged
+**1. "Short of it" — the referent now. READS CLEANLY.**
+- The sequence is "He came nearer, and my face lifted to meet his. / Short of it by the width of a finger, he stopped, and stepped back."
+- "it" has no noun antecedent, and it never did: in cycle 0 it was "my face lifting to meet it [his head]. Short of it…", which strictly made him stop short of his own head. Now "his" stands for his face, and "it" is heard as the meeting. A reader takes "Short of it" as "short of the kiss" on the first pass, and the paragraph break after "his" helps, because it isolates the stop.
+- The Hostile reader has nothing to catch, and nobody reads it as his own face. No change.
+
+**2. "I am." — invented beyond my prescription. ACCEPT; it is the best new line of the cycle.**
+- **On his card:** a flat fact about himself in two words, no comparison, short level syntax. It is true to the page: he keeps the watch "every day", works a string out "before the sun was on" the road, and later says of Felix "He's been up since before it was light." It is a worldview line (who is awake, who keeps watch) and not a feeling.
+- **What it does to the exchange:** it breaks the asker-only catechism (P6b), and Mara's "The rich," I said. "And people who work all night…" now talks past him. That is cross-talk (#17 offset), and the implication is dry (she has just listed the people he is not). "Who keeps the door, while they sleep?" still lands, because "they" is her rich and her night workers.
+- **Checks:** '"I am."' is 0 as a line in Ch.1–10 (Ch.8 ¶148 "look how warm I am" is mid-speech); it adds no one-word-line second use; Valens's short lines in the chapter ("Yes.", "No." ×2, "Paid.", "Felix." ×2, "I am.") are each a different job.
+
+**3. Felix's slower bucket line. ACCEPT.**
+- "Felix left his bucket and went to him." loses one comic beat of speed, and that is the point: his speed is now carried by what he does and says ("Felix did nothing at a walk.", the roof, the stacked questions), not by a construction told four times.
+- What follows it is his fastest speech in the scene ("That's the one? From behind the stadium…"), so the reader gets the speed in his mouth.
+- *Trace:* "his bucket" ×2 (¶310, ¶510), 200 lines apart, a yard boy's normal prop. "bucket" ×9 in the chapter is the yard's texture; the gate's prop-fidget rule is not near (no prop 3+ times in 400 words). No change.
+
+**4. The lace: is it the struck knot device in new clothes? NOT as an object or an act. ONE CLAUSE keeps the device's function, and that clause is mine.**
+- **What is different:**
+  - The object is footwear (a new class for his hands) and carries no knot: it is "run on up the shin" and "tucked", never tied.
+  - The chore has a cause on the page that predates the topic: the broken, knotted lace Mara stared at in Ch.7 (¶198, ¶212). He starts it before Felix's freedom comes up. The knot device started *because* feeling threatened.
+  - His answer to "Who took yours?" is to finish the job. That is refusal by work, which the bible licenses ("His next refusals to explain use silence or work").
+  - And the re-read reward is real and unpointed: the man whose broken lace was knotted in Ch.7 replaces it the evening he nearly kisses her. Nobody says so.
+- **What is the same:** "**The lace stopped at his ankle**; he was a while silent, and I let the question stand." (¶486). That clause makes his hands react to the question at exactly the struck device's trigger (talk of his freedom). The struck card reads "hands work a knot when feeling threatens". This version has the hands stopping when feeling threatens, which is the same barometer reversed. It also does two other things:
+  - It makes Valens the **third character with a work-suspended tell**: Kallia (Ch.7, 9, 10; capped, and barred from her Ch.16 farewell), Mara in this chapter ("I put no stitch in it", ¶266, cycle-0 WATCH), and now him. The Critic will hear it as "his hands stilled", a stock beat.
+  - It is the one place left in the chapter where a held silence is introduced by something the hands do, against the bible's "a held silence is left bare, or ended by speech".
+- **Ruling:** I prescribed that clause verbatim in cycle 0 (Revision #5a), and the editor executed it. As in Ch.10 cycle 1 (N4, my oxen string), a fault in my own string is named and fixed, not charged to the floor. It is one clause, it is not the struck string, and the gate never sees it. **Fix at finalize (F1, tested):** ¶486 → "**He was a while silent.**" The silence is bare. It also removes "I let the question stand", which is the nearest relative left in the book of the SPENT "let [it] go by / be / pass" frame (Ch.1, 5, 6, 8). That frame is mine to have missed: the cycle-0 regex had no "stand". With it gone, Mara's narrated waiting in the last scene drops from three to two ("I kept quiet" ¶446, a secret kept; "I waited for him to tell me why." ¶536).
+
+### Did the cycle introduce anything? (echo, tic, spent move, sideways repeats)
+- **Mechanical:** echo scan 0, command echo none, voice-wear strict clean, tic gate clean, no gesture class charged.
+- **Hand n-gram scan of all 30 changed sentences against Ch.1–10 and the samples.**
+  - Zero hits: "with a foot up", "a new lace", "lace stopped", "ran the lace", "up the shin", "tucked the end", "came nearer", "face lifted", "lifted to meet", "had been on its trestle", "at my back, and I", "had it there", "left his bucket", "out of the gate and", "a thin one of", "straw in his hair", "telling the quail", "Children?", "I am.", "A lock does", "every door has", "has its own", "on his feet then", "Very little of it", "what did was", "heaped in his lap", "watching the hoof", "the rag at my belt", "untied the rag", "family of Achaeans".
+  - Hits, all generic or pre-existing:
+    - "over and over" (Ch.3; sample-06 "Iuno Lucina … over and over in a low voice"; sample-09). It was already in the cycle-0 sentence, and the cycle's removal of "low" took it *further* from sample-06. Trace.
+    - "out of D hand" (Ch.5 "The strap tore out of my hand"; sample-12 "took the letter out of my hands"). The frame was there with "fist" in cycle 0, and my swap kept it. Trace.
+    - "P went off" (Ch.9 ¶326 "He went off to his hives."). The clause was in the cycle-0 text. Trace.
+    - "D head down" (Ch.4, 6, 7). Generic posture. Trace.
+    - "lifted D head" (Ch.8). Pre-existing.
+- **Where the refusals went (the editor rule: no repeat moved sideways).** Checked on the page, refusal by refusal:
+  - ¶324: the narrated non-answer is gone and nothing replaces it. Praxias simply leaves. **Best outcome.**
+  - ¶390: "He let it be." is gone; "without anything more" (pre-existing, cycle-0 kept) carries it alone. One gloss in a long sentence. Fine.
+  - ¶536: "He let that go by him." is gone; "I waited for him to tell me why." stands alone, as prescribed, and "Why?" I said. follows. It is Mara's act, not a gloss of his.
+  - ¶548: "That got no answer." is gone; "He had it, and he kept it." stands alone (Strength). **Sample-10's "a non-answer, then its meaning" structure is now 0.**
+  - **Result:** Valens-side narrated non-answers 5 → 1 ("He answered neither."). The refusals went into silence and work, not into a new family. **One sideways drift, already ruled:** the lace stop (point 4), which carried the hands-as-barometer function across from the knot. F1 closes it.
+- **One frame made purer by the P8 cut (WATCH, pre-existing):**
+  - Felix leaves a scene by the same sentence three times: '"He doesn't keep things for people," said Felix, and was gone.' (¶122); '"You've never seen anything," Felix said, and took himself off…' (¶252); '"What wall?" he said, and went out with his sherd…' (¶456). That is a line, then a tag, then "and" plus an exit.
+  - The frame was in cycle 0. ¶252 had ", with great bitterness," inside it, and cutting the adverbial left the skeleton bare.
+  - The count is at my own proposed cap (≤3 walk-offs after a line per character per chapter), not over it. It is not a device on the scale of P1: three exits, and each exit has a different destination and purpose.
+  - **Optional F3 (tested):** "**"You've never seen anything." Felix took himself off to fork out the stalls**…". The action beat attributes the line, and the tag-and-exit skeleton drops to 2.
+- **Pre-existing traces my cycle-0 PATH or Strengths kept (not charged):**
+  - ¶88 "and left the watch where it was" against Ch.6 ¶470 "I left that where it was." (Mara, figurative). It was in Strength #2. The obvious cut ("…with a finger and looked into it.") **fails the echo scan** ("and looked into", Ch.1, tested). Leave it.
+  - ¶498 "and lifted my head, and his face was there." (my cycle-0 string) against Ch.9 ¶250 "…sighted along it toward the sun, and the line was there." Same "[act], and [the X] was there." close, two chapters apart, different senses (a sundial line, a face). Leave it: the near-kiss sentence is the better of the two, and the alternatives I tried ("he was close", "he was near") are weaker and crowd "He came nearer".
+- **Spent moves added:** none. Memories 0 (AUTHOR-CP2-2 ✓). Kneel/crouch 0 (AUTHOR-CP2-3 ✓). Ch.10's line untouched (AUTHOR-CP2-4 ✓). Bends 0. "He came nearer" is not a lean. Foreshadow 0; no pre-announcing of Ch.12.
+- **Strengths: none damaged.** Checked on the page:
+  - The first sentence and the last line, byte-identical.
+  - The haggle and the toll collector; "Kallia had one cousin, and I had just spent him."
+  - The obol in the cheek; the watch read from the pouch; "It hasn't stopped."
+  - The load test; **the awl** (¶138), byte-identical.
+  - **The figs** (¶150–¶200), byte-identical.
+  - The ugly sentence; muffled bells and their reason; "Lessons. Work. Each other."; "Who keeps the door, while they sleep?"
+  - The boxing irony.
+  - The hoof and "She'd remember it." / "She is a mule." / "That's why."
+  - **Kallia**, byte-identical.
+  - The mind-reading and its after-effects.
+  - The walk up; the barred gate and "The road's dusty."
+  - The sherd reveal lines; ΦΗΛΙΞ; "The dog's never seen a name."; "What wall?"
+  - "Who took yours?"
+  - The near-kiss beat order; the hunger, byte-identical; the stretch and the crack.
+  - **The anchor** (¶510), byte-identical.
+  - The agreement; "Mara."; "He had it, and he kept it."
+
+### Anti-AI re-scan (5.93k; commercial band)
+| # | Result | Count, density | Note |
+|---|---|---|---|
+| 1 | FOUND minor | 2 (0.34) | "I never asked for it mended." / "I have not asked to be paid."; "You dry them your way, and I'll dry mine" (unchanged) **−0.125** |
+| 3 | FOUND moderate | 4 (0.67) | ¶10 "a well-fed, slow-spoken, early-rising man"; ¶26 "Wood, oil, a priest's mother-in-law."; ¶218 "Lessons. Work. Each other."; ¶428 "It was shorter, and it said less, and…" (unchanged) **−0.25** |
+| 10 | FOUND moderate | 3 (0.51) | ¶240 "Felix took it hard…"; ¶314 "who liked him at once"; ¶392 "and did not like it". "with great bitterness" is gone; on a re-read I no longer count "full of it" (¶344: full of news, not a feeling). **−0.25** (0.51 sits on the moderate line) |
+| 11 | FOUND moderate | 4 (0.67) | ¶114, ¶406, ¶428, ¶510 (unchanged); under the commercial cap (>6 or >0.8/1k) **−0.25** |
+| 12 | FOUND minor | 1 (0.17) | ¶114 "had not broken so much as been sawn through" **−0.125** |
+| 13 | FOUND minor | — | "a dozen" gone; "forty paces", "three questions", "He did three bells…", "two stones", "a lentil's worth" remain **−0.125** |
+| 15 | FOUND minor | — | ¶34 inventory (unchanged) **−0.125** |
+| 16 | FOUND minor | 1 (0.17) | ¶356 "which sounded much like crying in anything else" (an underline; kept) **−0.125** |
+| 17 | FOUND moderate | — | The trough refusal's twelve strict turns are unchanged; "I am." / "The rich," (cross-talk) adds one offset to the existing ones **−0.25** |
+| 2, 4, 5, 6, 7, 8, 9, 14, 18, 19, 20 | clear / trace | — | em-dashes 1; "And" openers in narration 0; #7 trace (Kallia's line, kept) |
+
+**9/20 found, −1.625: unchanged from cycle 0.** The band is still WATCH, at its bottom (commercial 9–11). **Correction to my cycle-0 forecast** ("9/20 → 8/20, clean"): that forecast counted instances removed, but a pattern clears only when its last instance goes. P6 removed no #3 instance, P8 took #10 from 5 to 3 or 4, and Revision #9 eased #13 without clearing it. The over-correction flag does not fire. **#11 hard check: 4 at 0.67/1k, under the commercial cap.** No cap applies. **Optional F4 (tested)** clears #12, the only single-instance pattern, and puts the scan at 8/20 (clean band): ¶114 "the old thread **had been sawn through**, a little at every downhill step…" (−5). It costs a little of Mara's conservator's correction (the "not broken so much as" diagnosis), which is why it is optional.
+
+### Genesis Score — cycle 1
+| Dimension | Cycle 0 | Cycle 1 | Evidence | Holds |
+|---|---|---|---|---|
+| Originality | 8.5 | **8.5 (holds)** | The borrowed frames are gone: Nikaso's nose (¶98), the goat-boy's introduction (¶36), Ch.7's catechism ("I am." ¶228) and the reserved near-kiss parts (¶500–¶506). Every cycle-0 invention is intact (the awl, the watch never set, the load test, the reading caught as an edit, the muffled bells, "She is a mule.", ΦΗΛΙΞ, relief as appetite, Praxias as a one-drachma sponsor). New: the lace, which replaces Ch.7's knotted one without comment. | **Not raised.** The cycle-0 hold reason is cleared, but the ≥9.0 challenge still fails on one beat: the hoof scene is *Outlander*'s horse-gentling beat in other clothes, and it is the chapter's longest set piece. As I wrote in cycle 0, I would not award 9.0 on this chapter alone. |
+| Theme | 8.5 | **8.5 (holds)** | "A man who keeps a life no one can take, letting someone in by inches" is carried as before. Texture is intact (quail, octopus, the Elateian boxer, the baker's wine-fed bird, the Achaean grandmother). | WATCH: "door" ×2 in consecutive lines (¶232, ¶234). Faint, not an echo chamber; #18 not charged. |
+| Characters | 8.5 | **8.5 (holds)** | Valens's face is his own (the nick only). "I am." (¶228) is his syntax and worldview in two words. Felix is distinct with no narrator device on him: his speed now lives in his acts and his mouth. Cover-the-name PASS for all five speakers. Bare "No." 3 (Valens 2). Mara chaos 3/4 (memory absent by design), two inhabited. | **WATCH (no cap):** (a) Valens's walk-offs 5, unchanged (Ch.12 ≤3). (b) Bare "Felix." ×2, unchanged. (c) **Work-suspended tells: 2 in the chapter** (Mara ¶266, Valens ¶486). Valens's is my cycle-0 string; F1 removes it and leaves 1. (d) Felix's tag-and-exit ×3 (F3 optional). Not raised. |
+| **Prose & Voice** | 8.0 | **8.5 (+0.5)** | **All eight law items P1–P8 are cleared** (tables above: 20+ cited changes, far past the three a +0.5 needs). The stopping sentences are intact: the awl (¶138), "Kallia had one cousin, and I had just spent him." (¶24), "Everything in me that had been held up came down, and I was hungry." (¶504), "He said I could go wherever I liked…" (¶452). **New underlines:** "The packsaddle had been on its trestle at my back, and I was on it" (¶504: the body acting before she knows, with no knees); "Felix had it there, lit." (¶270); "I am." / "The rich," I said. (¶228–¶230); "He ran the lace on up the shin and tucked the end in." (¶492: the non-answer as finished work). The ugly sentence is intact (¶202). Voice under strain at the near-kiss is now built only from this chapter's parts. #11 0.67/1k, under the cap. | **Not higher:** anti-AI is still 9/20 (−1.625, watch-band bottom), and one clause of my own (¶486) is a stock "hands stilled" beat (F1). Neither holds the floor: the scan is not a cap below 12/20, and the clause is a trace by the Ch.10 cycle-1 standard for my own strings. |
+| Pacing | 8.5 | **8.5 (holds)** | Ledger ✓ on every field (`long-spiral` → `dialogue`, 3 breaks, 38%, median 14, 5,929w in range). The bells exchange is two lines shorter in effect (P6). The value shift is intact. | Holds as cycle 0: the practical close pulls at about 7, and Felix's 165-word speech (¶448) is still the Devourer's one skim. Not raised. |
+| Emotion | 9.0 | **9.0 (holds)** | The cycle-0 hold "P5's parts make the near-kiss slightly second-hand on a re-read" is **cleared**: the near-kiss uses nothing reserved or struck, and "my face lifted to meet his" puts the body rebel in her face before her legs. The anchor, the surprise (both relieved, unexplained) and ≥6 techniques are intact. | **Not raised to 9.5.** That needs the best-in-class tier, and the hoof is still the genre-familiar beat. |
+| Immersion (Dim 7) | 9.0 | **9.0 (holds)** | The rag (¶24, ¶46) and the Achaeans (¶144) remove two continuity snags. Ch.7's laced-to-the-shin boot is honored (¶492). The yard's craft is unchanged. | #15 minor (¶34). Not raised. |
+| **FLOOR** | 8.0 | **8.5** | | |
+| **AVERAGE** | 8.57 | **8.64** | (8.5 × 5 + 9.0 × 2) / 7 = 60.5 / 7 | |
+
+**Cross-check of neighbors:** one dimension rose, by exactly +0.5, on 20+ cited changes. Nothing fell. Characters held despite the new WATCH (c), because its source is one clause and F1 removes it. Emotion and Originality cleared their cycle-0 holds without a raise.
+
+### Pacing check (one line for `feedback/progress.md`)
+Ch.11 (cycle 1): 5,929w (target 6,200, −4.4%, inside 5,600–6,800; book 59,930 vs 64,000 cumulative, −6.4%: flag, do not pad; 220k floor safe even if every later chapter ran 6.4% short, ≈229k) · dialogue 38% (35–45 ✓) · 3 breaks ✓ · gear mid, median 14 ✓ · chronological between a single-scene and an in-medias-res ✓ · haggle brisk / week in summary / hoof slow / report a gallop / near-kiss slow / agreement quick ✓ · value shift + for Mara, complicated for the pair ✓ · `long-spiral` / `dialogue` (practical, pull ≈7, honest under the no-foreshadowing law) ✓ · the plot moves ✓ · hinge 0 ✓. **Verdict: OK.**
+
+### Readers (deltas only)
+- **Devourer:** no change in speed. "Felix left his bucket" costs a fraction of a grin, and "I am." buys one back. Would not stop.
+- **Critic:** every cycle-0 disappointment is gone (the four speed beats, the let-it-go-bys, the nose, the goat-boy's tunic, the knot and "neither of us", "Women?", the low Latin, "with great bitterness"). Will underline "I am." and the packsaddle sentence. **New snags, small:** "The lace stopped at his ankle — his hands went still, the oldest move there is" (F1); "Felix exits on a tag and an *and* three times" (F3). Traces only: "had been … had been" (¶504).
+- **Hostile:** the money is still open (the Ch.12 brief, unchanged), and so is whose name the priest writes (Ch.13, unchanged). New logic: none. "Achaeans" against Ch.6's "Achaea" is answered by period usage. Verdict: "Logic holds; one open sum, one open name."
+- **Casual (9.0, holds):** they never noticed the nose or the knot. What they notice now is that the near-kiss is quicker and cleaner ("he came nearer", she is suddenly sitting, she is starving), which helps. Still not 9.5: the ending is an errand, and the week-in-summary is the slow patch. **Would buy after 3 pages; stays to the end; turns the page for the road.**
+- **Devoted:** will post that he finally replaced the lace that was knotted in Ch.7, the night he nearly kisses her, and that nobody mentions it. Will catch the Felix exit frame, if anything.
+
+### CVI
+**CVI-Launch:** Commercial Pacing 8.5 × .2 + Tomorrow 6 anchors → 10 × .2 + Casual 9.0 × .2 + Shareability 7.73 × .2 + Concept 10 × .1 + Human Closeness 10 × .1 = 9.05, **+0.5 strong anchor = 9.5** (unchanged). **CVI-Legacy:** 8.5 × .30 + 8.5 × .25 + 2 × .20 + 7 × .15 + 5 × .10 = **6.6** (provisional, unchanged; the lace adds a re-read reward but does not move the input). Divergence: none by rule (9.5 − 8.5 = 1.0).
+
+### Cross-reader matrix (cycle 1)
+| Issue | Dev | Crit | Host | Cas | Devo | Severity |
+|---|---|---|---|---|---|---|
+| ¶486 "The lace stopped at his ankle" (hands-stilled tell at the struck device's trigger; work-suspended tell on a third character; my cycle-0 string) | | ✓ | | | ✓ | SHOULD FIX → **finalize F1** (not gate-holding) |
+| Felix's tag-and-exit ×3 (¶122, ¶252, ¶456) | | ✓ | | | ✓ | SHOULD FIX → optional F3 (at the cap, not over) |
+| #12 single instance; scan 9/20 at the watch-band bottom | | ✓ | | | | INVESTIGATE → optional F4 |
+| "had been … had been" (¶504) | | ✓ | | | | trace, no change |
+| "left the watch where it was" (¶88) / "his face was there" (¶498) | | | | | ✓ | trace, no change (the tested alternatives fail or are weaker) |
+| Money gap; whose name the priest writes | | | ✓ | ✓ | | carried → Ch.12 / Ch.13 briefs (unchanged) |
+
+### VERDICT — cycle 1
+**PASS.** Genesis Floor **8.5** | Average **8.64** | Casual **9.0** | CVI-Launch **9.5** | CVI-Legacy 6.6 (provisional) | pacing **OK** | mechanical suite all clean (run here: echo 0, tic gate clean, voice-wear strict clean, shape CLEAN) | foreshadowing **0** | AUTHOR-CP2-1 full two-hander ✓ | CP2-2 memories 0 ✓ | CP2-3 kneel/crouch 0 ✓ | CP2-4 n/a ✓ | **all eight narrator-law items P1–P8 cleared**, plus the second uses and CH11-2 / CH11-5 | narrated non-answers 5 → 1, and the refusals went into silence and work, not a new family | the near-kiss built only from this chapter's parts | AI patterns 9/20 (watch-band bottom; #11 under the cap). **Gate: Floor ≥ 8.5 ✓ AND Casual ≥ 8.5 ✓ AND pacing OK ✓ AND gates clean ✓.**
+
+### Finalize fixes (optional; not required for the gate; tested together)
+All four were applied together to a scratch copy of the book folder. `check_chapter.sh 11` came back clean on every gate (echo 0, voice-wear strict, tic gate), and shape_check gave CLEAN, 5,910 words, dialogue 38%, median 14, `long-spiral` → `dialogue`. **F1 is the one I recommend.** It corrects my own cycle-0 string.
+- **F1 (recommended), ¶486:** `The lace stopped at his ankle; he was a while silent, and I let the question stand.` → `He was a while silent.` (−12). The silence is left bare (bible rule), the hands-stilled beat leaves Valens, and the last "let [X] [verb]" non-response sibling in the chapter goes with it. ¶492 "He ran the lace on up the shin…" still reads as continuing the job. "a while silent" is 0 elsewhere.
+- **F3 (optional), ¶252:** `"You've never seen anything," Felix said, and took himself off to fork out the stalls,` → `"You've never seen anything." Felix took himself off to fork out the stalls,` (−2). Felix's tag-and-exit skeleton drops 3 → 2.
+- **F4 (optional), ¶114:** `the old thread had not broken so much as been sawn through,` → `the old thread had been sawn through,` (−5). Clears #12 and puts the scan at 8/20 (clean band). The cost is Mara's diagnostic correction.
+- **Do not attempt** a fix of ¶88's "where it was": "…with a finger and looked into it." fails the echo scan ("and looked into", Ch.1; tested).
+- *(F2 is folded into F1: the "let the question stand" cut is in the F1 string.)*
+
+**Bookkeeping (orchestrator):**
+- **Sync every Ch.11 block in character-bible.md to the final page.** This is cycle-0 Revision #16, still pending, and now urgent: the Valens Ch.11 block and "At-risk after Ch.11" still quote the nose, "a knot in a lead rope", "with the knot still in it", "Women?", "Who isn't?", "In the day.", "Those want doing.", "his head coming down and my face lifting to meet it", "her knees putting her down", "He let that go by him." and "very low".
+- **Replace them with:**
+  - the lace ("with a foot up on the bench, to put a new lace in his boot"; "He ran the lace on up the shin and tucked the end in.");
+  - "He came nearer, and my face lifted to meet his.";
+  - "The packsaddle had been on its trestle at my back, and I was on it";
+  - "Children?" / "Once they are old enough to be late."; "I am."; "A lock does. In my country every door has its own.";
+  - "Felix had it there, lit."; "Felix left his bucket and went to him."; "The boy was out of the gate and after him.";
+  - "a thin one of twelve or so, with straw in his hair"; "a white nick ran through one eyebrow".
+
+**At-risk entries for Ch.12 on:**
+- **Work-suspended tell:** cast-wide WATCH. Kallia barred in Ch.16, Mara used (¶266), Valens 0 after F1. Any further instance for anyone is a defect.
+- **"let [X] [go by / be / pass / stand]"** as a non-response: SPENT book-wide (extend the cycle-0 regex with "stand").
+- **The boot lace:** replaced, DONE; never pointed at.
+- **"I am."** as Valens's whole line: once.
+- **"He came nearer":** once.
+- **"[act], and [the X] was there."** (Ch.6 ×2, Ch.9, Ch.11): SPENT.
+- **Felix's exits on a tag and an "and":** at cap; Ch.12 ≤1.
+- **Felix's "already [somewhere]":** 2, at cap.
+- **Carried from cycle 0:** Valens ≤3 walk-offs, ≤1 bare "No.", ≤1 bare "Felix." in Ch.12; the money gap settled on the page as an act.
+
+**Pipeline (UPDATE RULE, root):**
+- (a) **A recast that removes a device checks whether the replacement keeps the device's *function* at the device's trigger**, not only its string. The knot went and the hands-at-the-question stayed.
+- (b) **Anti-AI forecasts count patterns, not instances:** a pattern clears only when its last instance goes. My cycle-0 "8/20" was an instance count.
+- (c) The cycle-0 Revision #17 items (the struck-device list in `tic_report.py`, possessive normalization in the pronoun-swap echo layer, a one-word-line registry, a "before [X] had finished" counter, and introduction/sample-09/10 skeleton checks) are still to be built.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in every score at or above 8.5, in Emotion and Immersion 9.0, in Casual 9.0 and in CVI-Launch 9.5 requires external validation from beta readers, editors or comp analysis.
+- **The +0.5 on Prose rests on clearing eight named items, not on a new judgement of the chapter's ceiling.** Its weakest support is the anti-AI scan, which is unchanged at 9/20, at the bottom of the commercial watch band, where Ch.1–10 finished in the clean band. A stricter reader could hold Prose at 8.0 on the scan alone. I do not: the scan is a deduction table, not a cap below 12/20; the #11 hard check is under its line; and a banter-led two-hander raises #1 and #17 by nature. F4 brings it into the clean band if the author wants the margin.
+- **F1 is a fault in my own cycle-0 string,** and I have not charged it to the floor, as with Ch.10's oxen. A reader who weights the "hands stilled" beat as heavily as the struck knot could call the floor 8.0 until F1 is applied. Applying F1 at finalize removes the question.
+- CVI-Launch 9.5 is a one-chapter formula and is not a book forecast.

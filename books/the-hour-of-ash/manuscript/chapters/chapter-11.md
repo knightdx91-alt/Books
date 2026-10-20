@@ -111,7 +111,7 @@ He glanced back at it. "It's been breaking all winter."
 
 He sheathed the knife at his back and crossed to the stable.
 
-The shed held a bench under a window hole, a packsaddle on a trestle, and a shelf with a pot of pitch on it and a coil of flax thread. An awl with a horn handle lay among the dust on the shelf. Its point had been blunted on something harder than leather, and I worked with it as it was. The breeching was oxhide, oak-tanned and gone stiff along the edges, and the old thread had not broken so much as been sawn through, a little at every downhill step, by the grit in the stitch holes. I picked the old thread out with the awl, pitched new thread on the pot's rim, and sewed the turn through twice, with a needle at each end of the thread, so that every hole was filled from both sides.
+The shed held a bench under a window hole, a packsaddle on a trestle, and a shelf with a pot of pitch on it and a coil of flax thread. An awl with a horn handle lay among the dust on the shelf. Its point had been blunted on something harder than leather, and I worked with it as it was. The breeching was oxhide, oak-tanned and gone stiff along the edges, and the old thread had been sawn through, a little at every downhill step, by the grit in the stitch holes. I picked the old thread out with the awl, pitched new thread on the pot's rim, and sewed the turn through twice, with a needle at each end of the thread, so that every hole was filled from both sides.
 
 Felix fetched me bread at noon and stood first on one foot and then on the other while I ate it.
 
@@ -249,7 +249,7 @@ Valens had come into the shed for a pad off the trestle.
 
 "No."
 
-"You've never seen anything," Felix said, and took himself off to fork out the stalls, and forked them so hard that the dog left the yard.
+"You've never seen anything." Felix took himself off to fork out the stalls, and forked them so hard that the dog left the yard.
 
 Valens left for the string with the pad under his arm.
 
@@ -483,7 +483,7 @@ On the last evening of the week I finished the breastband, in the shed, by the l
 
 "And if somebody takes him? If somebody says he is a runaway?"
 
-The lace stopped at his ankle; he was a while silent, and I let the question stand.
+He was a while silent.
 
 "Paper gets taken off you," he said.
 
