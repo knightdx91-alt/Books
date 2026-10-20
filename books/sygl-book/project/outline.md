@@ -101,7 +101,8 @@ inside." (L162). **Chapter 4 picks up exactly there.**
    mage supporter"; he took what work he could; he was shot coming home one day; she has suspicions;
    "So I want to help Bal overcome this hatred if I can." Bal clenches his new hand; Amelia covers it:
    "Don't worry, they can't do it again." Bal trusts her.
-4. Instructions (pack; the school will be told he has a familiar, not who).
+4. Instructions (pack; the school will be told he has a familiar, not who; "I will send Pierre for you in
+   the morning").
 5. Packing: the few things he wants (books, the birthday compass, pocketknife, the rune engraving kit
    bought with kitchen wages); Fredrick's books kept because Fredrick was a friend; Amelia on his bed
    with a first-year book ("Oh so you're an overachiever huh?"); "I like to read."
@@ -121,7 +122,9 @@ she tells it. Let her laugh land before the story.
 
 ## Chapter 5: Verin's Cottage
 **Source:** [pp.17–25] L259–284 (to "eager for the new day").
-**Scenes:** six a.m., a blueberry muffin; Verin (faded, well-kept red robes, kind blue eyes, calls her
+**Scenes:** six a.m., **Pierre wakes Bal** (author decision 2026-10-20: Pierre is another orphan who sometimes
+helps Mrs. Brown; he replaces Mrs. Brown in the source's wake-up line and passes on her instructions: grab his
+things, a bite in the kitchen, then her office); a blueberry muffin; Verin (faded, well-kept red robes, kind blue eyes, calls her
 "Sarah"); the hidden familiar brand ("Familiars can choose whether or not to show the brand");
 Mrs. Brown's hug; Amelia promising to keep him out of trouble with crossed fingers behind her back;
 the portal (twelve by eight) onto a buggy in a dark forest; the diverting enchantment around the
