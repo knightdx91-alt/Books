@@ -2,7 +2,7 @@
 
 Pierre knocked on Bal's bed frame at six o'clock.
 
-The dormitory windows had gone from black to a thin, watery grey, and all down both rows the other boys were lumps under their blankets. Pierre stood at the foot of the bed in pajama bottoms and a sweater, his hair flattened on one side. Pierre was older than Bal, and some mornings he helped Mrs. Brown before the rest of the building woke up.
+The dormitory windows had gone from black to a thin, watery grey, and all down both rows the other boys were lumps under their blankets. Pierre stood at the foot of the bed in pajama bottoms and a sweater, his hair flattened on one side. Pierre was another of the orphans, and some mornings he helped Mrs. Brown before the rest of the building woke up.
 
 "Get up," Pierre whispered. "Mrs. Brown wants you." He yawned hugely in the middle of it and had to start over. "She says grab your things, then stop by the kitchen for a bite to eat, then go to her office. In that order."
 
@@ -12,7 +12,7 @@ The dormitory windows had gone from black to a thin, watery grey, and all down b
 
 Bal stayed put a little longer, flexing his fingers against the blanket. They were all still there. He got up.
 
-He dressed without a sound, which was a skill you picked up in a room full of sleeping boys, and shouldered the pack he had buckled yesterday. At the door he glanced back. The rug lay square beside the third bed on the left.
+He dressed without a sound and shouldered the pack he had buckled yesterday.
 
 ---
 
@@ -28,7 +28,7 @@ The muffin was a little stale and he ate all of it anyway. He was stuffing the l
 
 Mrs. Brown sat behind her desk. She was not alone.
 
-Sitting in one of the chairs in front of it was an older man in well-worn mage's robes. They were red, or they had been once. The color had faded to something nearer brick, but the cloth was clean and pressed and the buttons all matched. Somebody looked after those robes. Seeing them come in, the man rose and offered his hand.
+Sitting in one of the chairs in front of it was an older man in well-worn mage's robes. They were red, or they had been once. The color had faded to something nearer brick, but the cloth was clean and pressed and the buttons all matched. Seeing them come in, the man rose and offered his hand.
 
 "Hello there," he said. "You must be Balthazaar and Amelia. My name is Verin, and I'll be escorting you to the Heir's School."
 
@@ -58,7 +58,7 @@ Amelia laughed at him.
 
 "Besides," said Mrs. Brown, standing up and coming around the desk, "Verin knows not to ask too many questions. He's been at this for years."
 
-She stopped in front of Bal. For a second he thought she was going to straighten his collar. Instead she put her arms around him and gave him a quick, hard hug. She smelled of soap and starch and, very faintly, of ink. Bal stood there with his other arm halfway up, too surprised to finish the job, and then she had stepped back.
+She stopped in front of Bal. For a second he thought she was going to straighten his collar. Instead she put her arms around him and gave him a quick, hard hug. She smelled of soap and starch and, very faintly, of ink. Bal stood there with his arms halfway up, too surprised to finish the job, and then she had stepped back.
 
 "You," she told Amelia, "keep him out of trouble."
 
@@ -85,9 +85,6 @@ Verin climbed up into the driver's seat with a small grunt and gathered the rein
 "Doesn't that work on anyone?"
 
 "The only exceptions are the originators themselves," Verin said. "The enchantment doesn't touch them."
-
-Bal felt Amelia go very still beside him. He didn't look at her. He suspected that if he did, he would laugh.
-
 ---
 
 The forest was deathly quiet.
@@ -180,11 +177,11 @@ Verin came in shortly after, smelling of horse and woodsmoke, and found them bot
 
 "I'll drop you off at the school gates," he said, "so you can walk in with the other students. In the inner courtyard there'll be a raised stage. All the first years assemble in front of it. Once everyone's gathered, the originators will start to arrive on the stage."
 
-He blew on a spoonful of stew. Bal kept his eyes off Amelia.
+He blew on a spoonful of stew.
 
 "As each student is claimed," Verin went on, "you'll walk around the stage and form a line behind your originator. Once everyone's been claimed, each originator leads their students to their dorms." He pointed his spoon at them in turn. "This may well be the only time you ever see them in person. So if you've any questions for them, that's when you ask."
 
-Bal glanced sideways at Amelia. She had her lips pressed tightly together and was staring very hard into her stew, and her shoulders were shaking.
+Bal glanced sideways at Amelia and grinned. She had her lips pressed tightly together and was staring very hard into her stew, and her shoulders were shaking.
 
 Verin didn't notice. He was chasing a piece of carrot around his bowl.
 
@@ -212,7 +209,7 @@ Bal shook the water off the last bowl.
 
 "How long were you in that place?" he asked.
 
-"Almost three thousand years." She was still looking up. "Every one of them long."
+"Almost three thousand." She was still looking up. "A long three thousand years."
 
 There was a wooden bench against the side of the cottage, under the lit window. Bal set the bowls on the edge of the trough to dry and motioned to it, and they both sat down.
 
@@ -232,13 +229,13 @@ An owl called once, somewhere far off in the trees. Neither of them looked towar
 
 "What I didn't know," Amelia said, "was that they had their other high priests hidden outside. Every one of them gave their lives to shut me in. It took the lives of eight high priests to imprison me for all that time."
 
-She didn't open her eyes. A single tear slid out from under her lashes and ran slowly down her pale cheek, and in the window's light Bal saw that it was red. It was blood.
+She didn't open her eyes. A single tear slid out from under her lashes and ran slowly down her pale cheek, and in the window's light Bal saw that it was blood.
 
 He wiped it away with his thumb.
 
 It left a faint smear on her cheek, and a smaller one on his thumb. He didn't wipe his thumb on anything.
 
-"They chose their path," Bal said. "Now you're free." "I can release you from the bond, if you want. I know being bonded to a mage who hasn't had a single day of training probably isn't what you expected."
+"They chose their path," Bal said. "Now you're free. I can release you from the bond, if you want. I know being bonded to a mage who hasn't had a single day of training probably isn't what you expected."
 
 Amelia turned her head against the wall and looked at him. She was smiling.
 
@@ -260,9 +257,9 @@ Slowly, Amelia bit into his wrist.
 
 Bal barely felt it. His pain tolerance had always been unusually high, and her fangs going in were a quick, sharp pressure, there and then gone. After that he felt only the cool of her hands holding his arm steady, and her hair brushing his knuckles, and the small, steady sound of her drinking.
 
-It was a strange thing to sit and listen to, so he started talking instead.
+He listened to it for a bit. Then he started talking.
 
-He told her how excited he was to be headed for school at all. Without a left hand his whole life, he had more or less given up on it. He'd figured he would end up a regular laborer somewhere, lugging things and fixing things, until he could teach himself enough magic to be useful some other way. He kept talking, and Amelia kept drinking, her eyes half closed, until at last she lifted her head.
+He told her how excited he was to be headed for school at all. Without a left hand his whole life, he had more or less given up on school. He'd figured he would end up a regular laborer somewhere, lugging things and fixing things, until he could teach himself enough magic to be useful some other way. He kept talking, and Amelia kept drinking, her eyes half closed, until at last she lifted her head.
 
 She licked the two small puncture marks on his wrist, once.
 

@@ -139,3 +139,15 @@ CVI-Legacy (default weights) = 0.3(8.5)+0.25(8.5)+0.2(1)+0.15(4)+0.1(4) = **5.9*
 **POLISH** (Floor 7.5; Casual 8.5). One editor pass of the eight surgical edits above should clear the gate at 8.5. No new plot or characters, and no change of tone.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+## Revision applied (2026-10-20, book-editor)
+- R1 L241: merged the back-to-back quotes into one speech.
+- R2: "Bal saw that it was blood."
+- R3: cut "Somebody looked after those robes."
+- R4: cut the L89 still/laugh paragraph and "Bal kept his eyes off Amelia."; restored "Bal glanced sideways at Amelia and grinned."
+- R5: restored the author line "A long three thousand years." To clear the tic gate's spoken-refrain count (the phrase appears 3x across ch.4–5), the first half is trimmed to "Almost three thousand." Meaning and speaker are unchanged.
+- R6: "He listened to it for a bit. Then he started talking." ("for a little while" was a ch.4 self-repeat.)
+- R7: cut the rug look-back and the "skill you picked up" aside.
+- R8: "Pierre was another of the orphans"; "with his arms halfway up"; "given up on school".
+- Pattern #11: 0 counted extensions (≤0.8/1K). Em-dashes 0. "the way [x]" simile 0. Similes 2.2/1k. 3,672 words (wc).
+- Gates: style_check clean, grammar_check clean (0 errors), voice_wear_check clean (strict), tic_report --gate clean.
