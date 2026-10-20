@@ -573,6 +573,8 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - Sample line: "Welcome to the Dawn Hall. My name is Soren and this is Kim. What can we do for you
   today?" (p.75; Ch.13)
 
+- **Ch.17 as written:** on duty at night in the always-staffed hall; takes the three vials, hears Lora's change to the reward, says "Thank you for letting me know," notes it in the ledger in her even hand and recounts minus the guild dues. No eyebrow (spent Ch.13).
+
 #### KIM — Soren's colleague at the Dawn Hall (Ch.13) *(on page Ch.13 — confirmed)*
 - All four axes: source silent — keep to function (introduced by Soren; never speaks). On the page she
   lifts a hand in greeting once and goes on sorting a box of papers (Ch.13); nothing more.
@@ -594,6 +596,8 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - DISTINCTNESS GUARANTEE: the expert whose approval is scarce, against Lora, who gives hers freely to a
   book. (Source spells her Ms./Mrs. interchangeably; use **Ms. Summers**, as foundation does.)
 - Sample line: "I normally hire a team to see me through those woods." (Ch.16)
+
+- **Ch.17 as written:** off-page; known through Lora's receipt and report (only ingredients for three, "no use being greedy"; her face lit up at Lora's questions; "She's lonely, I think"). Two potions as part payment, told to Soren.
 
 #### HEATH — bandit leader on the Whitehaven road; wears a heart ring (Ch.16; named by Iro, Ch.21) *(on page Ch.16, UNNAMED — confirmed)*
 - **Ch.16 as written:** called only "the older man", "the leader", "the big man", "the grey-haired man" in narration; never named. Lines: "Your weapons, if you please" and the taunt ("I'll have some fun with them, once I'm done with you"). Rapier through the right knee; Hopper finishes him (off-page detail, "The screaming stopped"). **The heart ring (red gold) is LEFT ON HIS HAND** — Bal decides it is not his to take; Lora explains paired rings; the ring "bugs" Bal and is the chapter's closing thought. Ch.21 can pay it off with no prop to account for.
