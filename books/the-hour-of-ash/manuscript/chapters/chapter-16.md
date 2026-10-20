@@ -172,7 +172,7 @@ She had returned to the charcoal after that. Today she watched me cut the reed.
 
 "Nobody in this house writes a letter except to ask for something, or to refuse what somebody else has asked," she said. "Whom is it for?"
 
-"A woman in Delphi, to her son. He serves in Syria."
+"A woman in Delphi, to her son. He lives in Syria now."
 
 "Is it money she wants of him?"
 
