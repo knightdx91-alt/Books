@@ -23,7 +23,7 @@ Ahead of us the string went on between the terrace walls, six mules with their j
 
 "Go on up to the boy," Valens said to me.
 
-Another of them had come round on my side. He was big, and he carried a stick of olive wood, and he had no eyes for me. He was watching the back of Valens's right hand.
+One of the other two had come round on my side. He was big, and he carried a stick of olive wood, and he had no eyes for me. He was watching the back of Valens's right hand.
 
 "My brother's a butcher," he said. "He's got two like that."
 
@@ -257,7 +257,7 @@ Valens had left the string for the bank. Felix had the water skin off the last s
 
 "Don't give the goat any more of it," Valens said. "If anybody in the town asks, we came on a man in the ditch below the ford, and the road had been at him before us."
 
-Felix lowered the skin. "I could say I saw them run. Two of them, into the olives, and I chased them with a stone, and the tall one had a sword, and I hit him on the back of the head and he dropped it." His voice was coming back. "I could have the sword."
+Felix lowered the skin. "I could say I saw them run. Two of them, into the olives, and I chased them with a stone, and the tall one had a sword, and I hit him over the head and he dropped it." His voice was coming back. "I could have the sword."
 
 "You came on a man in a ditch."
 

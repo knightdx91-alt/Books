@@ -448,3 +448,229 @@ No sentence was added anywhere.
 - The recast "It caught him above the ear" (¶58) and the existing "where the stick had caught it" (¶174) put two blow-landing "caught"s in the chapter about 1,700 words apart. This is under any cap, but it is a verb now doubled.
 - "Another of them" (¶26) sits about 100 words after the stranger's "not another hand" (¶18), in a different sense.
 - Bible blocks are not re-synced (bookkeeping is the orchestrator's; W-22 is still pending).
+
+---
+
+## Re-evaluation after cycle 1 (book-evaluator, independent; did not write or revise this prose) | 2026-10-20
+
+**Text evaluated:** `manuscript/chapters/chapter-12.md` at commit `601fd5c` (polish cycle 1). **4,711 prose words** (shape_check), 4,722 (style_check), 4,907 (`wc -w`, incl. header).
+**Read for this pass:** book CLAUDE.md; STATE.yaml guardrails, resolved decisions, AUTHOR-CP2-1…4; voice-dna §1 (pressure map, level 2 at Ch.12), §3b, §4; character-bible.md (the Mara / Valens / Felix / Celer Ch.12 blocks, the Ch.12 walk-on block, "At-risk after Ch.11 FINAL", "At-risk after Ch.12", the at-risk table); outline Ledger row 12 and `## Chapter 12`; sample-05 by 3- and 4-gram; the cycle-0 evaluation above and the editor's cycle-1 log.
+*(¶N = line number in the current `chapter-12.md`.)*
+
+**Measured here (not from the editor's log):**
+- `bash tools/check_chapter.sh 12`: **all clean.** Style: simile 1.1/1k, adverb 1.1/1k, em-dash 0, foreshadow 0. Grammar 0; rhythm 0; show/tell no flags (dialogue 27.8%); voice-wear strict clean; tic gate clean (and-chains 5/9, credential asides 0, negation pivots 0, "So" 0); echo 0; command echo none; metaphor fig 1.9/1k, median 10.
+- `shape_check --strict`: **CLEAN.** Ch.12 = `dialogue` → `punch`, 2 breaks, dialogue 28%, median 10. Book 64,622 words over 12 chapters.
+- **Diff audit** (`git diff --word-diff b43a454 601fd5c`): every change is one of the PATH strings (L1, P1–P7, R1–R4, O1, O3), and there is nothing else. No sentence was added. The first and last lines are byte-identical.
+- **New-n-gram audit:** I took every 3-, 4- and 5-gram that is on the new page but was not on the pre-polish page (108 / 153 / 190 with at least one content word), raw and pronoun-normalized, and checked each against Ch.1–11, all 13 samples and the rest of Ch.12. 4- and 5-grams: **0 hits.** 3-grams: 4 hits, all ordinary strings used in other senses ("grit in it", which is Ch.7's slip; "with her head"; "comes to the"; "it the camera", across a sentence break). Not charged.
+- A full-chapter 3/4-gram scan against sample-05 (this chapter's register sample): see F2.
+- A bible-against-page script for the W-22 list (below).
+
+### The editor's two flagged items
+1. **The doubled "caught"** (¶58 "It caught him above the ear."; ¶174 "where the stick had caught it"). **RULING: not a defect. No change.**
+   - These are two different blows: the camera on the third man, and the stick on Valens's forearm. They are about 1,700 words apart and have different subjects and objects.
+   - "caught" is in seven other chapters in other senses (the cereal box, the floss, the film leader, *pothen*, the jar, the hair, the cavities…). No 3-gram around either Ch.12 use repeats. The gates are clean.
+   - **Do not recast ¶174.** The obvious replacements are already spent on the same blow in this chapter: "It landed on his forearm" (¶72) and "came down" (¶44, ¶72).
+   - "caught" at ¶58 is also better than "hit" for a panic swing: it says the blow landed, not that it was aimed.
+2. **"Another of them"** (¶26), about 90 words after the stranger's "There's not another hand like it in Achaea." (¶18).
+   - **RULING: the word chime is not a defect.** One is speech and one is narration, and the senses differ.
+   - **The recast did create an antecedent slip, which the editor's note does not name.** The nearest plural nouns before ¶26 are "six mules with their jars of oil" (¶22). So "Another of them had come round on my side" first reads as a mule, until "He was big" sorts it out. The old "The second man" was unambiguous.
+   - → **F1** (tested): "**One of the other two** had come round on my side." (+2 words). It points back to "two others at his heels" (¶8) and "These two" (¶18), and it removes the "another" chime as well. "other two" is 0 in Ch.1–12 and in the samples.
+
+### Did cycle 1 introduce anything new?
+- **Added explanation: none.** No sentence or clause was added. #11 went from 4 to 2 (0.42/1k).
+- **A repeat moved sideways: none across chapters.** There is one in-chapter construction pair, which I rule a **trace**:
+  - P4a's "There was a graze along his cheekbone with grit in it." (¶152) comes about 250 words after "There was blood over the backs of them" (¶136).
+  - "There was" carries no content word. Ch.12's existential openers (4, 0.83/1k) are inside the book's band (0–1.64/1k).
+  - Every alternative I tried builds a different in-chapter pair: "ran … along" (¶140 "ran out along his arms"), a locative opener ("Across the left one a welt", ¶174), or "had [X] in it" (¶84 "his face had no color in it"). Leave it.
+- **Echo of earlier chapters: none.** The echo gate is 0, voice-wear strict is clean, and my scan is 0.
+- **Cuts that removed load-bearing material: none blocking.**
+  - (a) ¶140 now opens "It started in his shoulders" straight after "They were shaking." Here "it" means the shaking, which is idiomatic, and the line reads straight on.
+  - (b) After the ¶212 cut, the knowledge path rests on "You saw the month on it." / "Yes." / "I saw it too." The outline's "a copy reached Delphi" is now implicit, since Ch.9 shows him reading it. The beat is met.
+  - (c) ¶162: with the sailor clause gone, "where I meant it to stay" is her choice and goes unexplained. The Hostile accepts it (at ¶114 she cannot make herself look toward the ditch).
+  - (d) ¶272: Praxias's drachma is no longer named. The money still closes ("more than the god wants"; "with plenty over"), but ENTITY CH11-3 and the bible quote the cut string. This is bookkeeping (W-22 below).
+- **One cycle-0 miss, not a cycle-1 introduction → F2.**
+  - Felix's invented story, "and I hit him on the back of the head and he dropped it" (¶260), shares the frame "hit him on the … of the head" with sample-05's "It hit him on the side of the head."
+  - Cycle 0 fixed the narration's "It hit him" (P6) and missed this one in speech. No reader can see the samples, so this is a law item (sample lines 0) at finalize level, not a floor-holder.
+  - F2 (tested): "and I hit him **over the head** and he dropped it." Keep "hit him": Felix telling Mara's blow as his own (¶250 "You hit him with it?") is the theme on the page.
+  - Two other sample-05 3-grams stay, ruled as in cycle 0: "I held on." (¶146; Strength #4, generic) and "by its strap" (¶62; the camera's own strap).
+
+### Genesis Score (cycle 1)
+| Dimension | Cycle 0 | Cycle 1 | Evidence | Holds |
+|---|---|---|---|---|
+| Originality | 8.5 | **8.5 (holds)** | The borrowed frames are out: the grab is now "My himation came tight across my throat from behind." (¶48); the darn is "darned at the hem with green thread" (¶186); the creases are gone (¶136); the P6 sample strings are out (¶26, ¶58, ¶60). All ten inventions are intact: the gambler (¶16), the butcher brother (¶28), the cap (¶64), "Who gets his knife?" (¶86), the two emperors (¶16/¶180), the bill of sale (¶200), the cover story (¶260–¶266), the silver to the god (¶272–¶278), Spicula (¶312), the bow on the sandal (¶82). | The *Outlander* spine (the frame told while she tends him) is unchanged, and F2 remains. Cycle 0 said 9.0 would become arguable once the frames were out. It is arguable; I do not award it on this chapter alone. |
+| Theme | 8.5 | **8.5 (holds)** | No cut touched the many-versions structure. "That's nothing to tell." / "Tell it anyway." (¶264–¶266), "He'd settled on robbers back on the road," (¶300) and "I am not telling Kallia a story." (¶360) are unchanged. Texture is intact (the bird ¶66, the sprats ¶244, the lamp seller ¶336, the goat's jaw ¶366). | "story" is still one word from the surface. |
+| Characters | 8.5 | **8.5 (holds)** | **Cycle-0 WATCH (a) is cleared:** "Valens chose a stone from the bank, near a jar's weight, and roped it opposite the single one on the mule that had lost hers." (¶268). There is no knot and no hands-as-barometer; a knot within reach of Valens: 0. The four knots on the page are Mara's (sandal ¶246, rag ¶278/¶294/¶354). **(b) is cleared:** the "He" is now named. Cover-the-name PASS. Valens's bare "No." 1 (¶332); walk-offs 2 (¶112, ¶234; cap 3). Mara's chaos 2–3/4, inhabited. | Felix's "Is…?" ×3 ("Is it silver?", "Is she?", "Is she ill?") and the hand-offs ×4 are WATCH, unchanged. No new character evidence: the cycle removed defects. Not raised. |
+| **Prose & Voice** | 7.5 (capped; **8.0 on merit**) | **8.5 (+0.5 on merit; cap lifted)** | **Every blocking item is cleared:** L1, P1–P7 (19 cited string changes), plus R1–R4. **#11 is 2 at 0.42/1k** ("Hot would have set it." ¶170; the thief clause ¶162), under the 0.8 cap. **The stopping sentences are byte-identical:** ¶68 "and then nobody was", ¶64 the cap, ¶94, ¶144, ¶74. The ugly sentence (¶116) is intact. **Voice under pressure, level 2, is tighter:** the grab has no hand in it now (she feels the wool, not the man), and "He let go. He walked into the wall, and slid down it." (¶60) is plainer than the hands-to-head clause it replaced. **New underlines from the cuts:** "fell in a rope into a clear pool over pale gravel." (¶130); "This would, with plenty over." (¶272); "The cold had my feet again." (¶198). | F1 (antecedent, ¶26) and F2 (sample frame in speech, ¶260) are finalize items, and both are tested. #8's doubled verbs are WATCH (scan). Anti-AI 9/20, −1.75 (watch band, at its bottom). |
+| Pacing | 9.0 | **9.0 (holds)** | Ledger ✓ on every hard field. The cuts sped up the knowledge path (¶212) and the climb plan (¶350–¶352). The value shift (+ → − → ±) and the pull at the cart are unchanged. | Length is 4,711, −15.9% against target and below the scene budget's own 5,000 (there is no per-chapter floor; do not pad). The ford backfill (¶240–¶244) is still the slow patch. |
+| Emotion | 9.0 | **9.0 (holds)** | The anchor, the surprise and the body rebel are byte-intact. The ¶120 and ¶140 cuts let "They were shaking." run straight into the body ("It started in his shoulders…"). | The steadying is still the stock comfort beat. Not 9.5. |
+| Immersion (Dim 7) | 9.0 | **9.0 (holds)** | Still present: the mole and the soft pitch, the sprats in fig leaf, Vespasian's denarii, the dowry share, Isis at Kenchreai, the bare sacred plain, Spiculus, the K1000 crank and the bent ring. | The cuts lost a little period texture (the precinct's rod-slaves, the oil carts). #15 is minor. "Corinthian bronze" (O2, skipped) is a trace. |
+| **FLOOR** | 7.5 | **8.5** | Originality / Theme / Characters / Prose | |
+| **AVERAGE** | 8.57 | **8.71** | (8.5 × 4 + 9.0 × 3) / 7 = 61.0 / 7 | |
+
+**How I applied the per-cycle rule.**
+- On the displayed number, Prose rose +1.0 (7.5 → 8.5). On merit it rose +0.5 (8.0 → 8.5). The cycle-0 table recorded both: "CAPPED at 7.5 … Without the cap it holds at 8.0".
+- I apply the +0.5 limit to the merit score. The Ch.10 cycle-1 evaluation did the same: it scored Prose "7.5 (CAPPED; 8.5 on merit)" against cycle 0's 8.0, and that was then confirmed at 8.5.
+- The reason: the 7.5 was a mechanical density ceiling, not a craft judgment, and lifting a ceiling is not an improvement. The +0.5 rests on 19 cited changes plus R1–R4, far past the three a +0.5 needs.
+- **If the orchestrator or the author reads the rule against the displayed 7.5 instead,** Prose is 8.0 this cycle, the Floor is 8.0, and the verdict is POLISH. Nothing would be left to fix except F1–F2, so the next cycle would only be a confirmation.
+- No other dimension moved.
+
+**Cross-check of neighbors:** one dimension rose, by +0.5 on merit. Nothing fell. Immersion lost two period details to P5b/P5c and holds. Characters' two cycle-0 WATCH items cleared without a raise.
+
+### Anti-AI scan (cycle 1; 4.71k words; commercial band)
+| # | Result | Count / density | Note |
+|---|---|---|---|
+| 1 | **Clear** (cycle 0 −0.125) | 0 | R2 and R3 cut both instances. "said good evening and got good evening back" characterizes. |
+| 3 | FOUND moderate | 3 (0.64) | ¶96's three orders; ¶162's lodgers; ¶280's walkers' party. ¶272 was cut; ¶188's broken triad is not counted. **−0.25** |
+| 8 | FOUND **strong** | 6 (1.27) | Anadiplosis ×1 (¶82, kept), plus five doubled pick-ups: ¶40 "I saw … I saw", ¶64 "past …, past …", ¶76 "I wound … I wound", ¶136 "He turned … He turned them again", ¶146 "I held on … I held on". Cycle 0 listed four of the six and called the load minor. I count all six and apply the density rule. **−0.50.** WATCH below. |
+| 10 | FOUND minor | 2 (0.42) | "His voice was coming back." (¶260); "He sounded surprised." (¶298). **−0.125** |
+| 11 | FOUND minor; **hard check PASS** | 2 (0.42) | ¶170 "Hot would have set it."; ¶162 the thief clause. **−0.125** (cycle 0: over the cap) |
+| 12 | FOUND minor | 2 (0.42), speech only | ¶224 "He doesn't want me back. He wants me in a ditch."; ¶350 "on a road, not in a crowd". Narration 0 (P4d cut). **−0.125** |
+| 13 | FOUND minor | — | "six mules", "five years", "a hundred men", "half a drachma over three". Natural. **−0.125** |
+| 15 | FOUND minor | — | The telling is complete and certain. The offsets stand. **−0.125** |
+| 16 | FOUND minor | 1 (0.21) | The Orestes line (¶278), kept. **−0.125** |
+| 17 | FOUND moderate | — | The knowledge-path alternation (¶208–¶222) is unchanged. **−0.25** |
+| 2, 4, 5, 6, 9, 14, 18, 19 | Clear | — | |
+| 7, 20 | Trace | — | Orestes is mid-paragraph; the cold is snow water. |
+
+**9/20 found. Total −1.75. Band: WATCH (commercial 9–11), at its bottom.** Cycle 0 was 10/20 at −1.625: one fewer pattern, and a slightly larger deduction only because I count #8 more strictly. **#11 hard check: PASS.**
+
+### The book's own laws (re-checked on the cycle-1 page)
+- **NO FORESHADOWING: 0.** The gate agrees, and so does a hand read of families A–E. "When it's over," is a plan for after the consultation.
+- **Memory (AUTHOR-CP2-2): PASS.** The onion memory is two sentences, triggered by the crushed leaves, and it returns to the knife. Mara's memories: 0. **Kneel / crouch (CP2-3): 0.** Gesture gate: clean.
+- **Valens's bare "No.": 1** (¶332); Mara's 1. **A knot near Valens: 0.**
+- **The cycle-0 SPENT-by-name breaches are all gone:** "full of grit", the flashlight, the price list, the "was not X." pivot, "the god's day", the rod, the oil carts, the darner verdict, the creases, and both market-men comparisons.
+- **Anadiplosis: 1** (≤1 ✓). **Paragraph-final negations:** about 12 (2.5/1k), one down from cycle 0. **WATCH holds for Ch.13** (≤1.5/1k).
+- **Doubled-verb pick-up (#8): new WATCH.** It is the level-2 rhythm voice-dna prescribes ("I put the lamp down. I picked it up again."), and here it is earned. It must not become the voice's general rhythm. Ch.13 (calm, mid gear) should have ≤2.
+- **Ledger row:** approach ✓, open ✓, end ✓, breaks ✓, dialogue ✓, theme ✓, gear ✓. Beat subversion ✓.
+
+### Reader reports (cycle 1; deltas only)
+- **Devourer:** the knowledge path (¶212) and the climb plan (¶350–¶352) move faster. The ford backfill is still the one place they skim. Would not stop.
+- **Critic:** every cycle-0 disappointment is gone. New underlines: "a clear pool over pale gravel"; "This would, with plenty over."; "He let go. He walked into the wall, and slid down it." **New snag:** "*Another of them*: of the mules?" (F1). Would not notice the two "caught"s or the two "There was" openers.
+- **Hostile:** L1 and the ¶268 "He" are resolved. **New:** the ¶26 antecedent (F1). Accepts the cap left in the oil as her choice; "Where did Valens see the notice?" is answered by Ch.9. Verdict: "One loose pronoun. No hole."
+- **Casual (9.0, holds):** the cuts are invisible to them, except that the camera paragraph at the stream is shorter, so they skim less of it. The frictions are unchanged (the legal paragraph, *Rudiarius*, the ford flashback). **Would buy after three pages, stays to the end, and turns the page at the cart.** Not raised, because the frictions have not changed.
+- **Devoted:** the cycle-0 catches are gone (Ch.5's grab, "full of grit", the rod, the market men, "the god's day"). Will still catch "Corinthian bronze" as an alloy name (O2). Cannot see F2, because the samples are not public.
+
+| Issue | Devourer | Critic | Hostile | Casual | Devoted | Severity |
+|---|---|---|---|---|---|---|
+| F1 ¶26 "Another of them" (antecedent = the mules) | | ✓ | ✓ | | | SHOULD FIX → **finalize** (tested) |
+| F2 ¶260 sample-05 frame in Felix's speech | | | | | | **law item** (sample lines 0) → **finalize** (tested) |
+| Ford backfill ¶240–¶244 | ✓ | | | ✓ | | no change (the ledger's ford beat) |
+| Length −15.9% | ✓ | | | | | no padding; Ch.13 at 8,000 should land full |
+| #8 doubled verbs; paragraph-final negations | | ✓ | | | | WATCH for Ch.13 |
+| "caught" ×2; "There was" ×2 | | | | | | not charged (rulings above) |
+
+### Tomorrow Test, Shareability, CVI
+- **Tomorrow Test: unchanged, ANCHOR EXISTS (BOTH).** IMAGE: the cap rolling on its rim into the oil; his hands shaking under the fall and hers holding them; the bow on the dead man's sandal; the goat asleep on Felix's shoulders, still chewing; the cart. QUOTE: "and then nobody was"; "That was the use of me."; "Who gets his knife?".
+- **Shareability:** unchanged ("she hits a hired killer with her dead father's camera").
+- **CVI-Launch: 9.2 + 0.5 = 9.7** (unchanged; no anchor or commercial input moved). **CVI-Legacy: 6.6** (provisional). Divergence 9.7 − 8.5 = 1.2: none by rule.
+
+### Pacing check (one line for `feedback/progress.md`)
+Ch.12 FINAL: 4,711w (target 5,600, −15.9%, below the scene budget's own 5,000; no per-chapter floor, do not pad; book 64,622 vs 69,600 cumulative, −7.2%; ≈240k if Ch.13–44 land on target vs 245k, 220k floor safe; Ch.13's 8,000 should land full) · dialogue 27.8% (25–35 ✓) · 2 breaks ✓ · gear **low**, median 10 ✓ · in medias res between Ch.11 Chronological and Ch.13 Parallel ✓ · fight fast / road plain / stream slow / telling flat and broken by work / ford brisk / climb measured ✓ · emotional slot: the book's first crucible (shock → tenderness → disclosure → dread) ✓ · value shift −/± ✓ · `dialogue` / `punch` (7 words, concrete, pull 8) ✓ · hinge 0 ✓ · peak not a laugh ✓. **Verdict: OK.**
+
+### VERDICT (cycle 1)
+**PASS. Gate MET:** Floor ≥ 8.5 ✓ AND Casual ≥ 8.5 ✓ AND pacing OK ✓ AND gates clean ✓. This rests on the merit reading of the per-cycle rule (stated above).
+
+| Measure | Result |
+|---|---|
+| Genesis Floor | **8.5** (Originality, Theme, Characters, Prose) |
+| Average | **8.71** |
+| Casual | **9.0** |
+| Pacing | **OK** |
+| CVI-Launch / CVI-Legacy | 9.7 / 6.6 (provisional) |
+| Anti-AI | 9/20, −1.75 (watch band, at its bottom); **#11 0.42/1k, PASS** |
+| Mechanical suite | all clean (run here); echo 0; shape `--strict` CLEAN |
+| Foreshadowing / tics | 0 / 0 (verbal and gesture) |
+
+**Apply before the finalize commit (no re-evaluation needed).** F1 and F2 were applied together to a scratch copy of the book: `check_chapter.sh 12` all clean, echo 0, `shape_check --strict` CLEAN, 4,710 words, dialogue 28%, median 10, first and last lines byte-identical.
+
+| # | Location | Problem type | What happens now | Why it fails | Revision direction | Project rule? |
+|---|---|---|---|---|---|---|
+| F1 | ¶26 | Logic / Style | "Another of them had come round on my side." | The nearest plural is "six mules with their jars" (¶22), so "them" first reads as a mule. The cycle-1 recast of "The second man" created it. | → "**One of the other two** had come round on my side." (+2) | Yes: "a recast that replaces a noun phrase with a pronoun checks the pronoun's nearest antecedent" |
+| F2 | ¶260 | Style (sample-05 frame) | "and I hit him on the back of the head and he dropped it." | Sample-05: "It hit him on the side of the head." The shared frame is "hit him on the … of the head". Cycle 0 caught the narration's version (P6) and missed the one in speech. | → "and I hit him **over the head** and he dropped it." (−2) | Yes: "the own-register-sample 3-gram scan (pipeline item b) covers quoted speech as well as narration" |
+
+**Do not:** recast ¶174's "caught"; touch ¶152's "There was a graze"; or move the first line, the last line, the cap sentence or the fall's beat order. O2 ("Corinthian bronze") stays optional. O4 was rightly skipped.
+
+### W-22: re-sync the bible's Ch.12 blocks to the final page (after F1–F2)
+Checked by script and then by hand: each line below is a bible quote or claim that is **not on the final page**, followed by what the page now says.
+
+**MARA, "Ch.12 as written" (line ~234):**
+- In her Greek list: "The glass is whole." → "**Only the rim is bent.**"; "Praxias wanted five drachmas." → "**Praxias wanted half a drachma over three.**"
+- "It hit him above the ear." → "**It caught him above the ear.**"
+- The grab: add "**My himation came tight across my throat from behind.** I was pulled back against somebody." (no hand is named).
+- The cap left behind: drop ", face up," → "I went past where the cap lay in the oil, its letters dark with it, and kept going." (The anchor sentence at ¶64 still ends "face up"; keep that one.)
+- Wrong reaction: drop "My hands kept hold of it." The page has "The camera was still in my arms."
+- Asides return:
+  - the filter-ring quote → "**The ring at the front of the lens had taken the blow and was pushed in at one point. In the finder the plane trees stood upright and in focus.**" ("The glass was whole." is cut.)
+  - the cloak → "**It was good wool, fulled hard, darned at the hem with green thread.**"
+- Why the Pentax: drop "The flashlight could take its chances." Add "**Its cap was still in the oil by the ditch, where I meant it to stay.**" (The sailor clause is cut.)
+- Money: "would buy the cake, and Praxias's drachma, and leave plenty over" → "**This would, with plenty over.**" Praxias's drachma is no longer named on the page.
+
+**VALENS, "Ch.12 as written" (line ~539):**
+- "props the cracked jar in the angle of the wall" → he cuts the ropes and "**heaved it over the terrace edge, down among the olives**", then picks "a sliver of pot" out of the mule's hair "and threw it after the man".
+- "re-ropes a load 'so that she would carry level' ('His hands were sure at it.')" → "**Valens chose a stone from the bank, near a jar's weight, and roped it opposite the single one on the mule that had lost hers.**" (no knot, no hands).
+- The pouch "takes it back 'without looking in it'" → "**At the stepping stones I gave him back his pouch. He put the purse in my hand.**"
+- "The Gaul … The emperor didn't know that. He stayed in his chair, too. That's how it gets told." → "**The Gaul was older than me, and slow on his left side. Nobody on the benches knew that. The emperor never got out of his chair.**"
+- "a house on the Craneion he couldn't pay for" → "**He'd bought a house he couldn't pay for, out where the cypresses are.**"
+- Drop "Nobody's going to walk in there and say it aloud for me." The page ends that sentence at "with my name in it."
+- "They asked my name and I said Valens. A quay doesn't ask twice." → "**They asked my name and I gave them Valens.**"
+- The knowledge path: add "**He'll have told them where he found me.**" Then "I saw it too." stands alone (the oil-carts sentence is cut).
+- "Those three brought knives." → "**Those three brought none.**"
+- "It was off," (Valens agreeing to the crust lie) → the lie is Felix's own ("It was that crust," … "It was off."). Valens answers "**Don't give the goat any more of it,**".
+- To "He believed me": "People do, mostly." → "**He'd settled on robbers back on the road,**"
+- To "Was it one blow?": "No." → to "**Did he go down straight off?**": "No."
+- Plans:
+  - the rod sentence → "**A knife in the precinct would have a hundred men on it.** They'll want me on a road, not in a crowd."
+  - "Bring the goat to me at the yard the evening before." → "**The goat comes to the yard the evening before.**"
+  - "When the god's day is done," → "**When it's over,**"
+  - "The whole of it, then," … "Her, and nobody else." → "**Kallia, then. Nobody else.**"
+- "Delphi's name for him: 'mule-man' (pilgrims, the graybeard)": **not on the Ch.12 page** (it is in Ch.6 and Ch.11 only). The graybeard says "You've been in the thorns."
+- Page counts:
+  - walk-offs after a line 1 ("Then he left me for the ford.") → **2** (¶112 "Now," and the slap; ¶234 "He was first down the goat path to the ford.");
+  - "knot near his hands 0" stands, but **delete the boot-lace quote** ("had come undone … He left it there."), which is not on the page.
+- "Spent in Ch.12": replace "That's how it gets told." with "The emperor never got out of his chair.", and "People do, mostly." with "He'd settled on robbers back on the road,".
+
+**FELIX, "Ch.12 as written" (line ~961):**
+- The camera questions → "**What's that? Is it silver? I saw one of them go off through the olives holding on to his head. You hit him with it?**"
+- "Was it quick?" → "**Quick, though?**"; "Was it one blow?" → "**Did he go down straight off?**"
+- The invented story (after F2) → "…the tall one had a sword, and I hit him over the head and he dropped it."
+- Counts: question openers What / Is ×3 / "You hit…?" / Who / Are / Did ×2 / "Quick, though?"; **"Was" 0; "Is" ×3 = WATCH.**
+
+**CELER, "Ch.12 by proxy" (line ~1019):**
+- "a house on the Craneion he couldn't pay for" → "a house he couldn't pay for, out where the cypresses are".
+- "brought knives and no rope" → the page shows the talker's knife and the big man's stick, and "Those three brought none" (rope).
+- "They came on the Lechaion boat" is an inference from Mara's backfill (¶244). The page never says so; mark it as an inference.
+
+**Ch.12 walk-ons (line ~1686):**
+- The talker: "a good brown cloak" → "**the dust of the plain was on the hem of his cloak**".
+- The big man: introduced as "**One of the other two**" (after F1).
+- The third man: "hit above the ear" → "**caught … above the ear**".
+- The graybeard: "You've been in the thorns, mule-man." → "**You've been in the thorns.**"
+
+**"At-risk after Ch.12" (line ~2875):**
+- Header: "dialogue 26%, median 10; the writer's final draft. Re-sync after the downstream passes" → "**FINAL page, polish cycle 1 + F1–F2: 4,710 words (shape_check), dialogue 28%, median 10.**"
+- Fight staging: "the hostage grab by the cloak" → "the hostage grab from behind, the himation at the throat, no hand named". Add **the grab frame CLOSED (Ch.5, Ch.12).**
+- "'Was it one blow?' / 'No.': DONE" → "**'Did he go down straight off?' / 'No.': DONE.**"
+- Ch.22's do-not-reuse list:
+  - "That's how it gets told." → "**The emperor never got out of his chair.**"
+  - "A quay doesn't ask twice." → "**I gave them Valens**".
+  - The rest are on the page and stand.
+- Cover story: "'He believed me.' / 'People do, mostly.'" → "'He believed me.' / '**He'd settled on robbers back on the road,**'".
+- Money: the page names only the cake and "**with plenty over**". Praxias's fee comes from that "plenty over", implied. Mirror this in ENTITY CH11-3, which quotes the cut "Praxias's drachma" string, and in the Ch.13 brief: if Praxias is paid at the door, the money is the dead man's silver, never itemized.
+- Counts line: bare "No." 3 (Valens 1, Mara 2) → **2 (Valens 1, Mara 1)**; Valens walk-offs **2**. Semicolons in prose 2, "as if / as though" 1 and and-chains 5 all stand.
+- **Add** (from cycle 0's bookkeeping list, still pending):
+  - anadiplosis ≤1 per chapter (Ch.12: 1);
+  - paragraph-final negations WATCH (Ch.12 ≈2.5/1k; Ch.13 ≤1.5);
+  - the "the way [the] men…" vehicle CLOSED (¶8's horse-bettor is its last use);
+  - "the god's day" CLOSED (Ch.13's opener uses neither it nor the Ch.11 paraphrases);
+  - the camera check (hair and smear, ring, finder) is done once, never re-done;
+  - the cap is LOST and never mentioned again;
+  - a knot near Valens's hands 0.
+- **Add** (this pass): the doubled-verb pick-up (¶40, ¶64, ¶76, ¶136, ¶146) is the level-2 rhythm, spent here; Ch.13 ≤2. Sample-05's "hit him on the … of the head" frame is CLOSED for speech as well.
+- **ENTITY_STATE:** two lines still quote cut strings ("Was it one blow" / "People do, mostly" / "gets told"). Hand them to entity-tracker UPDATE with the W-22 sync.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+- **The PASS rests on applying the +0.5 limit to the merit score** (8.0 → 8.5), as Ch.10 did. Read against cycle 0's displayed 7.5, Prose would be 8.0 and the verdict POLISH.
+- Prose 8.5 assumes F1 and F2 are applied. Both are tested and small.
+- I counted #8 more strictly than cycle 0 did. A reader who treats the level-2 doubling as pure register would put the scan at −1.375; either way it stays in the watch band.
+- Pacing 9.0 at −15.9% length is a judgment that the chapter's beats are complete. A reader who weights length would put Pacing at 8.5, which still passes.
+- CVI-Launch 9.7 is a one-chapter formula, not a book forecast.
