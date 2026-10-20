@@ -8,10 +8,11 @@ supposed to be Sygl."). `project/foundation.md`, `project/outline.md` (now **30 
 ≈91,856 words** after the 2026-10-20 outline audit) and `project/STYLE_CONSTRAINTS.md` were rewritten; STATE.yaml records every ruling as a
 2026-10-20 author decision.
 
-- **Ch.1–5 FINAL** (`manuscript/chapter-01..05.md`, 15,428w): written/rewritten to the source 2026-10-20, all
+- **Ch.1–6 FINAL** (`manuscript/chapter-01..06.md`, 18,509w): written/rewritten to the source 2026-10-20, all
   four mechanical gates clean, book-evaluator Genesis Floor 8.5 each (reports in `evaluations/`).
-- **RESUME HERE → Chapter 6 "The Claiming"** (outline Ch.6). Viridia is the sparking Tempus girl in the buggy
-  ahead on arrival (author decision); she is not named there.
+- **RESUME HERE → Chapter 7 "The Blood Dorm"** (outline Ch.7). Open after Ch.6's "We'll talk more about it
+  tonight" (don't repeat it). Viridia introduces herself and Bal recognises her as the girl from the buggy (one line);
+  she sticks her tongue out once, answering the hair joke (author decision).
 - Dialogue rule (2026-10-20): the author's lines are the base; polish grammar/stiffness into natural speech,
   keep meaning, speaker, placement and the memorable lines.
 - Gate tools `voice_wear_check.py` / `tic_report.py` read `manuscript/chapters/`; this book is flat, so run them

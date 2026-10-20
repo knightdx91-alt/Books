@@ -25,11 +25,12 @@ Everything strictly on `main`. No PRs.
 | 3 | A New Hand | 2,592 | FINAL 2026-10-20: 2,592w, Floor 8.5 |
 | 4 | Mrs. Brown | 3,238 | FINAL 2026-10-20: 3,238w, Floor 8.5 |
 | 5 | Verin's Cottage | 3,500 | FINAL 2026-10-20: 3,672w, Floor 8.5 |
-| 6–30 | see outline.md | — | TODO |
+| 6 | The Claiming | 2,800 | FINAL 2026-10-20: 3,081w, Floor 8.5 |
+| 7–30 | see outline.md | — | TODO |
 
-## RESUME HERE: Chapter 6 "The Claiming" (source [pp.25–31], L286–304)
-- Opens on the road with the buggy ahead: the older Tempus girl whose sygl sparks is Viridia (author decision);
-  she is not named here. Then the Heir's School, the stage, the claiming, Amelia's reveal.
+## RESUME HERE: Chapter 7 "The Blood Dorm"
+- Open after Ch.6's "We'll talk more about it tonight" (don't repeat it). Viridia introduces herself; Bal
+  recognises her from the buggy. Her stuck-out tongue once, answering the hair joke.
 - Author's dialogue is the base; polish into natural speech without changing meaning or speaker.
 
 ## Key files

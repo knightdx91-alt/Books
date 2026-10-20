@@ -34,9 +34,9 @@ The courtyard inside was huge, paved in pale flagstones and walled in on every s
 
 On the stage stood five thrones in a row.
 
-They were carved of marble, white and veined all through with lines of blue, so that from here they looked cool to the touch even in the sun. Each throne had a sygl engraved in gold across the front of it. The gold gleamed. Bal's eyes went along the row, one sygl after another, until they reached the last throne in the row.
+They were carved of marble, white and veined all through with lines of blue, so that from here they looked cool to the touch even in the sun. Each throne had a sygl engraved in gold across the front of it. The gold gleamed. Bal's eyes went along the row, one sygl after another, until they reached the last one.
 
-The sygl on that one was the shape he had been staring at in his own hand since yesterday.
+The sygl on that one was the shape he had been staring at in his own hand for two days.
 
 His left hand closed. He opened it again.
 
@@ -54,7 +54,7 @@ The two of them hovered at the back of the crowd.
 
 Up close the noise broke apart into conversations. Everyone already knew which sygl they would be claimed under, and they had started grouping up by it without being told. Near Bal a boy was complaining to nobody in particular that his trunk had come off in the wrong carriage. A girl beside him wasn't listening. She was standing on her toes to see the stage.
 
-No one came to stand by them. Nobody needed to. There was no group for them to join.
+No one came to stand by them. There was no group for them to join.
 
 Bal leaned toward Amelia.
 
@@ -216,7 +216,7 @@ Amelia shrugged.
 
 "As mad and hurt as I was when it first happened," she said, "the anger has died down since then." She glanced at a portrait as they went by and then away again. "There are other ways to get revenge."
 
-Bal waited, but she left it there. He could tell she wasn't going to. So he tried something else.
+Bal waited, but she left it there. So he tried something else.
 
 "And the High Priest thing?"
 
@@ -228,7 +228,7 @@ Amelia winced.
 
 "Any of the originators can mess with any follower," Amelia said, "even a regular priest, up to a point. But they are not allowed to interfere with a High Priest. If they do, the offended party can challenge the originator who did it." She cut her eyes toward him. "They do not want that. I would be only too happy to go toe to toe with any one of them, and they know it. This way, if they try anything, I can back you up all the way. Not only as far as a familiar is allowed to."
 
-Bal turned that over as they walked. He pictured Aren catching himself on the arm of his throne. Then he nodded. Her reasoning made sense.
+Bal turned that over as they walked. He pictured Aren catching himself on the arm of his throne. Then he nodded.
 
 "Anything special I need to know?" he asked. "About the whole High Priest thing?"
 

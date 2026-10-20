@@ -61,7 +61,7 @@ None open (all resolved 2026-10-20; see `STATE.yaml` → `decisions`). New quest
 
 ## Status (update as you go)
 - 2026-10-20: blueprint rebuilt to source order (30 chapters, ≈91,856 words after the outline audit).
-- Ch.1–5 FINAL 2026-10-20 (15,428w): rewritten to the source; all gates clean; Genesis Floor 8.5 each.
-- **Next: Ch.6 "The Claiming"** (see project/outline.md).
+- Ch.1–6 FINAL 2026-10-20 (18,509w): rewritten to the source; all gates clean; Genesis Floor 8.5 each.
+- **Next: Ch.7 "The Blood Dorm"** (see project/outline.md). Viridia introduces herself; Bal recognises her from the buggy.
 - Gate tools voice_wear_check.py / tic_report.py read `manuscript/chapters/`; run them on a scratch copy laid out
   that way (the book uses flat `manuscript/chapter-NN.md`).
