@@ -161,3 +161,9 @@ CVI-Legacy = 8.5×.30 + 8.5×.25 + 3×.20 + 4×.15 + 3×.10 = **6.2**.
 **POLISH.** Genesis Floor 7.5 (Characters, gesture-class cap); Average 8.2; Casual 8.5. Apply F1–F8 and the chapter projects to **PASS at Floor 8.5**.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+## Revision applied (2026-10-20, book-editor)
+- **F1** gestures: L60 "sat down beside"; L70 "had ended up on the edge"; L108 "She stayed like that"; L124 cut; L128 "She tilted"; L160 clause and L182 alchemy-book line cut. Further sit/settle cuts: Amelia's "sat as if", "sat up straighter", "sat holding the card", "She sat up" (→ "She drew back"), "histories sat". Viridia's "shut her eyes"/"opened her eyes" and Amelia's "looked from Lora to Bal" removed (eyes/look windows). Recount: no class at 3+ in any 500-word window.
+- **F2** tear: "Amelia had closed her eyes." Tear hangs on her lashes, brushed away with the side of his thumb.
+- **F3** Lora talks from the book she's partway through at school. **F4** L80 fixed. **F5** sister-king gone (floodplain / floods / earthquake); dead in the walls kept. **F6** note folded beside the card. **F7** couch-color line cut. **F8** all five applied ("so busy being right"; "had to go"; stain line recast; "now his own face went pink").
+- New phrasings varied until clean: style_check, grammar_check (ch.1–15) clean; voice_wear_check and tic_report --gate (ch.1–14 scratch copy) clean. Em-dashes 0; "the way" 0.
