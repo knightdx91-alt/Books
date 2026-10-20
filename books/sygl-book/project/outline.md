@@ -411,8 +411,9 @@ girls' hugs; walking slowly back with Amelia.
 **Scenes:** **the six-week time-skip** as a compressed passage of Bal's weeks: jobs taken to get away from a
 school growing hostile ("staying with his own kind"); Zoran praising his rapier; Lora training him harder;
 **the flaming dagger** in crafting class (runes engraved into his own work; a weak version of the vendor's
-sword, and a real accomplishment); the arrow-rune and other rune work continues (no new plot; keep it to
-craft). Then the war: Thad's signals; **Raizen's statement** through his High Priest (Amelia went mad and
+sword, and a real accomplishment); **the arrow-rune shirts finished** (author decision 2026-10-20: Bal buys the materials, charges each
+rune himself over several nights, and the girls wear them on later jobs; one or two lines, no beat where
+they are tested). Then the war: Thad's signals; **Raizen's statement** through his High Priest (Amelia went mad and
 attacked them; now his followers are in danger); the army fights harder from fear; villagers beat and kill
 blood sygls who won't leave (reported to Bal, as the source has it); **Commander Fern** (short, stocky,
 long grey beard, grey eyes, authority): "There's not much we can do"; nowhere to put evacuees; "Could we do
