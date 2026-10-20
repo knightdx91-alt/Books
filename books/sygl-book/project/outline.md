@@ -256,7 +256,7 @@ asks the librarian to set books aside; the detour for his rune kit; **Mr. Winter
 (skinny, short; copying unknown runes from the chalkboard; praised for his **avoidance rune**,
 essential for night travel in unfriendly territory); Bal enjoys the runes.
 **Structure:** comic set-piece, then a quiet library-and-runes coda.
-**Opening:** Huginn and the cheese.
+**Opening:** breakfast with Viridia (source order; Huginn and the cheese is the first image in the classroom).
 **Anchor:** the goddess on the desk; Porter's face.
 **Hook:** lunch, and Viridia's familiar.
 **Target:** 3,400 (raised from 3,000; class, library and runes are three full movements).

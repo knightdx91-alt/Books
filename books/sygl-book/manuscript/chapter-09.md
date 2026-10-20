@@ -3,7 +3,7 @@
 <!-- SCENE BUDGET (Target 3,400): breakfast 400 | the walk + classroom + Huginn 550 | lecture and rings 600 | question, summon, confrontation 950 | class sent out + excusal 300 | library 500 | kit detour + Winters + lunch hook 350 -->
 <!-- Word count: ~3,470 | Target: 3,400 | Anchor: "You called, Master?" on the desk; Porter the color of chalk -->
 
-Breakfast was eggs, bacon, toast and a bowl of oatmeal, and Bal had to borrow the paper to order it.
+Breakfast was eggs, bacon, toast and a bowl of oatmeal, and Bal had to borrow paper to order it.
 
 Any paper would do now, but he had come down to breakfast without any. Viridia watched him pat both his pockets, then tore a page out of the back of a notebook and slid it over.
 
@@ -15,7 +15,7 @@ He wrote small, tore the unused half off and handed it back, and laid his half o
 
 He had it in his back pocket. She unfolded it, laid it beside a sheet of her own, and ran her eyes down both. Once or twice somebody at the Tempus table leaned out to see who Viridia was eating with, and leaned back in.
 
-"Familiar class," Viridia read. "Same. Warfare, same. Crafting, same." She tapped the second line of his. "Rune working, different. I've got it this afternoon."
+"Familiar class," Viridia read. "Same. Warfare, same. Crafting, same." She tapped the second line of his. "Rune working, different."
 
 "So all of them but one."
 
@@ -75,7 +75,7 @@ Mr. Porter shook his head.
 
 From the noise the class made, nobody thought that was much better. Mr. Porter did not give them time to say so. He went straight on into how a bond was made.
 
-The incantation Bal already knew, and Mr. Porter spent hardly any time on it. Most of the lecture was about the half the household enchantments book had covered in two lines: what you offered the creature, and how to be sure it was enough for the bond to be balanced.
+The incantation Bal already knew, and Mr. Porter spent hardly any time on it. Most of the lecture was about the part the household enchantments book had covered in two lines: what you offered the creature, and how to be sure it was enough for the bond to be balanced.
 
 "There must be balance," he warned, and looked along the rows to make sure they had all heard it. "I cannot stress that enough."
 
@@ -201,7 +201,7 @@ Bal stood. The silver ring was still in the groove of his desk, where Amelia's k
 
 ---
 
-The library was upstairs on floor two, as Amelia had said. Straight up the main stairs, a right at the top, and then the second door on the left.
+Amelia's directions to the library were good ones. Straight up the main stairs, a right at the top, and then the second door on the left.
 
 Partly he was curious what books a school this old kept. But he also had a plan. Last night, on the couch, Amelia had talked about still wanting revenge on the others for what they had done to her, and somewhere between that and the bell he had made up his mind to look into ways he could help. Something besides converting followers.
 
@@ -216,8 +216,6 @@ Bal read for the next hour at a table under a window.
 Most of it was about wars. The longest account was of a war between Naisura and Kenmei. It went on for chapters, battle after battle, and in the end Naisura won it with one stroke. One of his high priests caught Kenmei's command tent in stone, sealed it in whole, and sank it underground. After that Kenmei's army fell apart, and the rest of it was wiped out soon after.
 
 Bal read that part twice.
-
-Somewhere under a field, if the book was right, a tent was still standing in the dark with the earth packed in around it, and whoever had been inside it when the stone closed.
 
 He thought of a temple behind an orphanage that nobody could get into, built by another of Naisura's high priests. He turned the page.
 
