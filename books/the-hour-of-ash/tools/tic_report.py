@@ -163,6 +163,11 @@ GESTURE_CLASSES["kneel / crouch / squat"] = r"\b(?:knelt|kneeled|kneeling|kneels
 # Hands / chin on the knee (added after Hour of Ash ch.13: a seated speaker whose hand rests on, lifts from
 # and returns to his knee between every line is stage business doing the acting — 12 in one chapter).
 GESTURE_CLASSES["hand / chin on the knee"] = r"\b(?:on|from|off|to)\s+(?:her|his|my|their|one|a)\s+knees?\b"
+# Deliberation pauses and exits by gait (added after Hour of Ash ch.13: once knees were gated the same
+# chapter grew 9 "He considered…" beats and three "at a run" exits — business moves to unmodelled classes).
+GESTURE_CLASSES["deliberation pause"] = (r"\b(?:considered\s+(?:it|that|this|me|him|her|them|the)\b|gave\s+(?:it|that|this)\s+some\s+thought|"
+                                       r"thought\s+about\s+(?:it|that|this)\b|took\s+(?:him|her|them)\s+a\s+while|stood\s+with\s+that|(?:He|She)\s+thought\.)")
+GESTURE_CLASSES["exit by gait"] = r"\b(?:at\s+a\s+(?:run|trot|lope|jog)|was\s+off\s+(?:downhill|uphill|down|up)\s+at)\b"
 
 # ---- PROP FIDGET layer: the same object handled again and again inside one scene ------------------
 # The Saeren lesson: a headmistress sets down her paper, takes off her spectacles, picks them up,
