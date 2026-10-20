@@ -1,7 +1,7 @@
 # Chapter 12: The Kirrha Road
 
 <!-- SCENE BUDGET (Target 5,600; range 5,000-6,200): the stranger and the fight 1,000 | the road after: the ditch, Felix, the purse, the jar, the walkers below, leaving him 950 | the fall: his hands, the pouch, the onions 650 | the camera, why it was with me 400 | the telling while washing, and the knowledge path 1,350 | the ford: Kirrha that morning, the sandal, Felix's story, the dead man's silver, the money closed 850 | the climb: Felix carries the goat; the god's day; Kallia; the look back 700 -->
-<!-- Word count: 5,108 (shape_check; wc -w 5,247 incl. headers) | Target: 5,600 (range 5,000-6,200) | Dialogue 26% (band 25-35) | Breaks 2 | Median sentence 10 (gear low) | Bare "No." 3 (Valens 1, Mara 2) | Echoes 0 | Gates clean | Anchor: Mara swinging her father's camera at a man's head, and the plastic lens cap rolling away along the road on its rim into the oil -->
+<!-- Word count: 5,083 (shape_check; wc -w 5,262 incl. headers) | Revision: dialogue-polish | Target: 5,600 (range 5,000-6,200) | Dialogue 26.2% (band 25-35) | Breaks 2 | Median sentence 10 (gear low) | Bare "No." 2 (Valens 1, Mara 1) | Echoes 0 | Gates clean | Anchor: Mara swinging her father's camera at a man's head, and the plastic lens cap rolling away along the road on its rim into the oil -->
 
 "Lupus? By the Twins, it is. Lupus, walking behind mules."
 
@@ -11,7 +11,7 @@ The man had been gaining on us since the bend, two others at his heels, and now 
 
 "Do I? Show me your right hand, then."
 
-Valens kept it where it was, at his side, and walked.
+The hand stayed at Valens's side.
 
 "Corinth. The year the emperor came over to sing. You had a Gaul on his back in the sand in front of the whole colony, and the emperor rose in his box to see it finished. I was on the benches. I had two drachmas on the Gaul." He laughed. "I've forgiven you."
 
@@ -21,9 +21,11 @@ My own hand was inside my himation, on the camera strap.
 
 Ahead of us the string went on between the terrace walls, six mules with their jars of oil packed in straw. At the front of it Felix held his fist out behind him as he walked, and the goat came after the fist with her neck stretched for the barley in it.
 
-"Catch up the boy," Valens said to me.
+"Go on up to the boy," Valens said to me.
 
 The second man had come round on my side. He was big, and he carried a stick of olive wood, and he had no eyes for me. He was watching the back of Valens's right hand.
+
+"My brother's a butcher," he said. "He's got two like that."
 
 I heard the third one behind us. His sandals on the stones.
 
@@ -31,7 +33,7 @@ I heard the third one behind us. His sandals on the stones.
 
 I watched the stones in front of my feet.
 
-"*Rudiarius*," the first man said, warmly, and took Valens by the arm.
+"*Rudiarius*." The first man took Valens by the arm.
 
 Valens stopped.
 
@@ -85,7 +87,7 @@ Felix went to the wall. He was sick against it, neatly, propped on one arm again
 
 "Who gets his knife?" he said.
 
-Valens's eyes were on me, not on him.
+Valens came past him to me.
 
 "Are you cut?"
 
@@ -101,7 +103,7 @@ Valens went to the mule with the cracked jar. Oil still ran from the straw. I we
 
 "Somebody will come by," I said.
 
-"This is the god's road." He was looking up the slope where the two had gone. "Let the god's people find him."
+"This is the god's road." He was looking up the slope into the olives. "Let the god's people find him."
 
 "They will think it was robbers."
 
@@ -167,7 +169,7 @@ Valens had seen it in the road. He had looked at it once.
 
 "Is it broken?" he said, still facing the rock.
 
-"The glass is whole."
+"Only the rim is bent."
 
 He stripped his cloak off. One side of it was stiff and dark. He held it out to me behind him.
 
@@ -177,11 +179,15 @@ I took it into the pool and pushed it under where the water fell, and worked the
 
 He was washing his forearms in the spout, the left with the right and then the right with the left. Across the left one a welt stood up where the stick had caught it, red and raised, and the knuckles of that hand were split.
 
-"The year he was going on about. The emperor wanted the Greeks to see a proper fight, so they gave him one. I'd been in that sand five years by then. When there was somebody to impress, they put me up. The Gaul was older than me, and slow on his left side. The emperor didn't know that. He stayed in his chair, too. That's how it gets told. I put the Gaul down, and the emperor sent the sword down to me, and a magistrate wrote my name in his book. The lanista had a copy made for me on a tablet. I kept it in a box."
+"He had the year right, the one on the road. The emperor wanted the Greeks to see a proper fight, so they gave him one. I'd been in that sand five years by then. When there was somebody to impress, they put me up."
 
-He did the backs of his hands. Down at the ford Felix was telling the mules something, and the goat was answering him.
+He did the backs of his hands.
 
-"A freedman wants work. Celer was legate then, on the proconsul's staff. He wanted a man to walk behind his wife, one that people would know from the sand and stand back from. I swore to her in his atrium, in front of his household gods."
+"The Gaul was older than me, and slow on his left side. Nobody on the benches knew that. The emperor never got out of his chair. I put the Gaul down, and he sent the sword out to me across the sand, and a magistrate wrote my name in his book. The lanista had a copy made for me on a tablet. I kept it in a box."
+
+Down at the ford Felix was telling the mules something, and the goat was answering him.
+
+"After the sword I needed work. Celer was legate then, on the proconsul's staff. He wanted a man to walk behind his wife, one that people would know from the sand and stand back from. Plautia. I swore to her in his atrium, in front of his household gods."
 
 The water off the cloak went pink and then went clear. It was good wool, fulled hard, and somebody had darned the hem with a green thread that matched nothing else on it. I worked another handful of gravel into it.
 
@@ -189,17 +195,19 @@ The water off the cloak went pink and then went clear. It was good wool, fulled 
 
 He sat on the lip of the pool with his boots in it. One of his laces had come undone, and the end of it trailed in the water. He left it there.
 
-"Then the emperor gave the Greeks their freedom, and Celer's post went with it. He stayed on at Corinth with nothing to be legate of. He had debts. He'd bought a house on the Craneion he couldn't pay for. The year of all the emperors, in the summer, he had me called to the atrium at night and said I'd been in her bed. He was sorry about it. He said so, more than once, with her standing there. She didn't look at me. Two of his house slaves said they'd seen it. One was the girl who did her hair, and she cried all through it. They'd been shown where to stand."
+"By then the emperor had given the Greeks their freedom, and Celer's post had gone with it. He'd stayed on at Corinth with nothing to be legate of. He had debts. He'd bought a house on the Craneion he couldn't pay for. The year of all the emperors, in the summer, he had me called to the atrium at night and said I'd been in her bed. He was sorry about it. He said so, more than once, with her standing there. She didn't look at me. Two of his house slaves said they'd seen it. One was the girl who did her hair, and she cried all through it. They'd been shown where to stand."
 
-I kept my hands in the cloak.
+My hands stayed in the cloak.
 
 "Put a wife away for that, and you keep a share of what she brought. Her father had given plenty with her."
 
-He looked at the water.
-
 I held the cloak down in the fall, and the water went through it.
 
-"They flogged me in his courtyard, by the fishpond, where the house could watch. While they were at it, his steward went through my box and took the tablet. After that Celer said the sword was nothing. His story was that he'd bought me from the lanista the month before the games, so the lanista had no right to free me, and the magistrate had written down a mistake. So I was his. A slave who'd been in his wife's bed. The magistrate's book is still in the record office at Corinth, with my name in it. Nobody's going to walk in there and say it aloud for me." He moved one foot in the water. "I was over his garden wall the same night. A fisherman took me across the gulf for my belt buckle. I carried on the Kirrha quay that winter. They asked my name and I said Valens. A quay doesn't ask twice. The mules came after, off a Corinthian dealer who wanted rid of them before the winter ate them."
+"They flogged me in his courtyard, by the fishpond, where the house could watch. While they were at it, his steward went through my box and took the tablet."
+
+The cold had my feet again, up to the ankle bones.
+
+"After that Celer said the sword was nothing. His story was that he'd bought me from the lanista the month before the games, so the lanista had no right to free me, and the magistrate had written down a mistake. So I was his. A slave who'd been in his wife's bed. The magistrate's book is still in the record office at Corinth, with my name in it." He moved one foot in the water. "I was over his garden wall the same night. A fisherman took me across the gulf for my belt buckle. I carried on the Kirrha quay that winter. They asked my name and I said Valens. A quay doesn't ask twice. The mules came after, off a Corinthian dealer who couldn't feed them till spring."
 
 He was quiet for a while.
 
@@ -225,8 +233,6 @@ He was watching me do it.
 
 "Praxias wanted five drachmas."
 
-For a while he only looked.
-
 "Five hundred for me walking," he said. "Whoever wants five hundred brings a rope. Those three brought knives. He doesn't want me back. He wants me in a ditch."
 
 He reached for his cloak. It was still wet through. He put it on anyway. Then it was my neck he was looking at.
@@ -237,7 +243,7 @@ I felt for it. The skin was raised in a line across the front of my throat where
 
 "It is only the wool," I said.
 
-He looked at it a little longer. Then he left me for the ford.
+He was first down the goat path to the ford.
 
 * * *
 
@@ -253,7 +259,7 @@ I sat on the stones at the edge of the ford and washed the oil off my foot, and 
 
 Felix had seen the camera. It hung outside my clothes now, against the front of the himation, where I had forgotten it.
 
-"What's that? Is it silver? Was it you broke that one's head? I saw him go off through the olives, holding it. Was it with that?"
+"What's that? Is it silver? I saw one of them go off through the olives holding on to his head. You hit him with it?"
 
 "It was my father's," I said, and it went back inside my clothes.
 
@@ -261,7 +267,7 @@ Valens came to the bank and gave Felix the water skin off the last saddle. Felix
 
 "It was that crust," he said. "It was off."
 
-"It was off," Valens said. "If anybody in the town asks, we came on a man in the ditch below the ford, and the road had been at him before us."
+"Don't give the goat any more of it," Valens said. "If anybody in the town asks, we came on a man in the ditch below the ford, and the road had been at him before us."
 
 Felix lowered the skin. "I could say I saw them run. Two of them, into the olives, and I chased them with a stone, and the tall one had a sword, and I hit him on the back of the head and he dropped it." His voice was coming back. "I could have the sword."
 
@@ -279,7 +285,7 @@ I opened the purse. There was silver in it, Roman denarii, some so new that Vesp
 
 "It is more than the god wants," I said.
 
-Valens was checking girths. "Keep what he doesn't," he said, and kept on at them.
+Valens was down the string, checking girths. "Keep what he doesn't," he said.
 
 I untied my rag and tipped the dead man's silver in with the little that was mine, and knotted it again. Apollo had been taking money from men with blood on them since Orestes, and had never been known to send any back. I let the empty purse go in the stream. It sank among the stones, and the current took the thong out straight behind it.
 
@@ -303,7 +309,7 @@ The younger of the women had set her basket down and was telling the other about
 
 "He believed me," Felix said, when they were round the bend above. He sounded surprised.
 
-Valens had his eyes on the bend where they had gone. "People do, mostly."
+"He had his robbers before you opened your mouth," Valens said.
 
 The goat would not go.
 
@@ -325,9 +331,9 @@ The goat was heavy and he carried it. With her across his neck and his fists ful
 
 "Did you see him do it?"
 
-"No."
+"I heard it."
 
-"Was it quick?"
+"Quick, though?"
 
 "I was watching something else."
 
@@ -337,7 +343,7 @@ His look said I had cheated him. He took the goat on up to where the string had 
 
 "No."
 
-Felix shifted the goat higher on his shoulders and went on in front.
+Felix went on in front with the goat.
 
 The road rose off the plain in bends, stony, between walls. Overhead the two great cliffs over Delphi had the sun full on them and had gone tawny. Pilgrims came down from the town against us, going to sleep at Kirrha for the boats, and others were coming up behind, and each of them said good evening to the mule-man and got good evening back. A man with a tray of lamps on his head asked whether he would reach Kirrha by nightfall.
 
@@ -359,13 +365,13 @@ We walked on. "When the god's day is done, the mules are for the high grazing," 
 
 The sherd with my question on it was in my belt, against the knot of the rag. Its edge found me as I walked.
 
-"Kallia will hear it at the spring by morning," I said, "about somebody dead by the road below the ford."
+"Kallia will hear at the spring tomorrow that a man is dead below the ford," I said.
 
-"Then she hears we came by after."
+"She hears what the donkey man heard."
 
 "I am not telling Kallia a story. She gets the whole of it from me, or nothing."
 
-"The whole of it, then," he said. "Her, and nobody else."
+"Kallia, then. Nobody else."
 
 It was three days to the seventh of Bysios.
 
