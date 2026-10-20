@@ -1,7 +1,7 @@
 # Chapter 14: What Pompeii Means
 
 <!-- SCENE BUDGET (Target 3,400; range 3,000-3,800; Fragmented, one night in shards, 9 breaks / 10 shards, gear low): S1 the year, whole, on the doorstep; Theano's water; the fountain; the corner; supper 650 | S2 the storeroom, Valens across the door; the town known from above 400 | S3 the plaster under her hand; February 1988, the casts 300 | S4 what the letters say; eight years and a little over 330 | S5 Naples, Halloran's room, the laugh 370 | S6 Valens wakes; the well; the hand over his shoulder; the word kept 420 | S7 the court at midnight: the ram's boy, Kallia's salt water, the stool, the blanket 470 | S8 the plan: money, a man, the sea in spring, Italy; what it does to the man 600 | S9 "Tomorrow": the cave still wanted 250 | S10 the old moon, sleep, the empty doorway, the cliffs coming clear 280 -->
-<!-- Word count: 3,106 (shape_check; wc -w 3,397 incl. header comments) | Revision: Writer draft 2026-10-20 | Target: 3,400 (range 3,000-3,800; landed in range, not padded) | Dialogue 5% (band 0-10) | Breaks 9 | Median sentence 12 (gear low) | Opens I-punch, closes long-fade | Bare "No." 0 | Deliberation pause 1 (Valens) | Kneel/crouch 0 | Hand-on-knee 0 | Exit by gait 0 | Echoes 0 | Foreshadow 0 | Gates clean | Anchor: the word kept behind her teeth, a yard from the man who carried it out of the temple, while she tells him about a woman's well -->
+<!-- Word count: 3,106 (shape_check; wc -w 3,397 incl. header comments) | Revision: Writer draft 2026-10-20; dialogue polish 2026-10-20 (3 lines + 1 tag; shape_check 3,106, dialogue 5%) | Target: 3,400 (range 3,000-3,800; landed in range, not padded) | Dialogue 5% (band 0-10) | Breaks 9 | Median sentence 12 (gear low) | Opens I-punch, closes long-fade | Bare "No." 0 | Deliberation pause 1 (Valens) | Kneel/crouch 0 | Hand-on-knee 0 | Exit by gait 0 | Echoes 0 | Foreshadow 0 | Gates clean | Anchor: the word kept behind her teeth, a yard from the man who carried it out of the temple, while she tells him about a woman's well -->
 
 I knew the year. It came to me on Theano's doorstep, before her mouth had quite closed on the word, and it came whole. Seventy-nine, late in the summer, in August. Behind it the god's verse lay down flat and pointed one way. The mountain with the vines on it was that mountain, and the sea to the west was the bay under it. The dead of that town left it by its gates, like any town's, and lay along the roads outside. A crow walked over my foot looking for barley that was gone. Theano told it to get off, and it stayed, and she let it.
 
@@ -11,9 +11,9 @@ Inside her door, beside the loom, her jar stood empty. The fountain was where th
 
 Valens was still on the corner, leaning on the same wall. He pushed himself upright when he saw me.
 
-"What did she want?"
+"She kept you."
 
-"Her water carried."
+"Theano's jar was empty."
 
 He took in the crows' house above us, and my wet front, and came along beside me on the house side, half a step behind. From the turn above Kallia's lane the sanctuary showed beneath, the god's roof with the sun going off it. I wanted to throw something at it, and I had nothing in my hands.
 
@@ -73,7 +73,7 @@ Valens was up on one elbow. I had not heard him move.
 
 The knife from the road was out of his belt and lying back along his forearm, point to the elbow. He was facing the court and the gate and the black beneath the gallery, not me. He spoke under the sound of the Thessalians' breathing.
 
-"What?"
+"Was that you?"
 
 His head came round then, and he found where I lay.
 
@@ -101,7 +101,7 @@ The court was cold and smelled of the god's mutton. Overhead the stars were thic
 
 The boy drank the salt water and was sick with it again. Kallia filled the cup again.
 
-"It was the ram," the father told me, in a low voice, with great seriousness. "From Larisa it never wanted to come. Every mile, it told us."
+"It was the ram," the father told me across the boy's back. "From Larisa it never wanted to come. Every mile, it told us."
 
 "He ate the fat off the god's share. His own and his brothers'," Kallia said.
 
