@@ -104,7 +104,7 @@ He took the stone steps down, and the wall slid aside to let him out. He retrace
 
 The corridor let out into a large courtyard in the middle of the school. Students filled it, sitting around in groups on benches and the edges of planters, talking. It didn't take long to work out how they were sitting. Most of them were with others of their own sygl, Waves with Waves, Terra with Terra. A few of the braver ones had drifted over to chat with somebody from another group.
 
-Bal glanced down at his sweater. The blood sygl had come up on the front of it at some point during the claiming, dark red on the dark wool, exactly where Verin had said it would. He hadn't even noticed.
+Bal pulled his sweater around to look at the back. The blood sygl had come up there at some point during the claiming, dark red on the dark wool, just where Verin had promised. He hadn't even noticed.
 
 Some of the students had noticed. A few heads turned as he stepped out of the corridor. A few conversations stopped and started up again more quietly.
 
@@ -268,7 +268,7 @@ Amelia's mouth twitched first. Then she put her head back and laughed, loud enou
 
 She swallowed the last bite of her pizza and slid out from the bench.
 
-"I'll be in the dorm when you're done hanging out, Master, and we can go over the stuff we didn't get to earlier. Have fun, you two!"
+"I'll be in the dorm when you're done hanging out, and we can go over the stuff we didn't get to earlier. Have fun, you two!"
 
 There was a soft pop, and Amelia's place on the bench was empty.
 

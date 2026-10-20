@@ -267,3 +267,25 @@ not needle.
 ## 8. OPENING STRATEGY
 Ordinary made strange: a boy on a forbidden roof with an itching stump, watching a stone building whose roof
 flickered, about to try something that could kill him. Subsequent chapter openings vary (see outline).
+
+## Magic ledger — spells and how often they're used (author: flag repetition, don't invent)
+
+The source has a small set of spells. Writers use what the source uses, where it uses it; evaluators and
+the orchestrator FLAG to the author when one spell is carrying too much of the action (author decision
+2026-10-20), so it can be discussed rather than patched with invented magic. Update the counts as
+chapters are finalized.
+
+| Spell / effect | Who | Source uses | Used in chapters |
+| --- | --- | --- | --- |
+| "Levimotorcorpus" (levitation) / "Locos cantis" (end it) | Bal | ~1 each | 1 |
+| Blood whip (from the RIGHT palm; can be made razor-sharp, spiked, used to grab, lift, throw) | Bal | ~20 mentions | — |
+| Blood dagger | Bal | ~2 | — |
+| Conversion (palm to palm, his blood sent in) | Bal (High Priest) | conversions + Toma | — |
+| Familiar bond / summon (push magyk into the sygl) | Bal / Amelia | several | 3, 7, 9 |
+| Blood vials thrown in a duel; the chalice of Amelia's blood | Bal | climax | — |
+| Blood soldiers / blood army; the blood elemental | Amelia / Bal | climax | — |
+| Teleport, bats, talking to bats and ravens | Amelia | many | 2, 3, 6, 7, 9 |
+| Runes: avoidance, flaming dagger, arrow-repelling, purification | Bal | runes thread | 9 |
+| "Kona Niente" (dirt cloud) / "Czak" (Toma's counter) | Bal / Toma | 1 each | — |
+| Lightning, storms | Viridia, Raizen's mages, Toma | many | — |
+

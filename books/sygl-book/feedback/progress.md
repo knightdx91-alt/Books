@@ -12,6 +12,9 @@ supposed to be Sygl."). `project/foundation.md`, `project/outline.md` (now **30 
   four mechanical gates clean, book-evaluator Genesis Floor 8.5 each (reports in `evaluations/`).
 - **RESUME HERE → Chapter 11 "Break Their Toys"** (outline Ch.11). Ch.10 ended on Amelia on the stage's edge in a
   school uniform: open on the uniform details without restating that line.
+- Spell repetition watch (author): the blood whip is most of Bal's on-page magic from the source onward.
+  Don't invent spells; if a chapter or run of chapters leans on one spell, flag it to the author and
+  update the magic ledger in project/foundation.md.
 - Writer brief habits that saved eval rounds (ch.7–10): no narration explaining what's shown; no reflexive triplets;
   ≤4 laughs; no reused images; track props; no nods / looked away-down (book-wide gesture density gate is live
   past 20k words); blank lines around `---`.

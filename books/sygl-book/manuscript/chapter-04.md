@@ -82,7 +82,7 @@ She dropped the pen on the desk and leaned toward them, her wooden chair creakin
 
 "It was that," she said, "and the fact they knew they couldn't win in a straight-up fight with me."
 
-She said it without any heat at all, the same as she might have mentioned the weather. Then she tucked her hair behind an ear and looked over at Balthazaar, and her face changed.
+She said it without any heat at all, the same as she might have mentioned the weather. Then she looked over at Balthazaar, and her face changed.
 
 "But I think it's time they see what a true blood mage can do," she said, smiling.
 
@@ -208,7 +208,7 @@ Bal's eyes widened. He was suddenly very aware of the side of his neck.
 
 Amelia rolled hers.
 
-"*Normal* food. I can survive off it, but I do need blood to really thrive." She swung her legs off the bed and stood, caught both his hands, and hauled. "Come on, Master. I've heard all about this cook of yours. It's time I tasted the evidence."
+"*Normal* food. I can survive off it, but I do need blood to really thrive." She swung her legs off the bed and stood, and was at the door before he had moved. "Come on. I've heard all about this cook of yours. It's time I tasted the evidence."
 
 Bal let himself be pulled up off the bed. "You'll be sorry."
 
