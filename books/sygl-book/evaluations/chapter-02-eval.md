@@ -233,3 +233,46 @@ Cross-reader: R2-1 flagged by Hostile only, so INVESTIGATE. It is still a canon/
 **PASS: Genesis Floor 8.5, Average 8.5, Casual 9.0, Source Fidelity PASS, all gates clean, conditional on R2-1 (one word).** R2-2 to R2-4 are optional polish and do not affect the verdict.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+## Re-check after dialogue polish
+**Evaluator:** book-evaluator | **Date:** 2026-10-20 | **File:** manuscript/chapter-02.md (2,730 words) | **Scope:** the 17 Ch.2 line changes in `evaluations/dialogue-polish-ch01-04.md`, checked against the source (Sygl_Complete.txt L26–110, from Amelia stepping out of the darkness through "Are you thirsty?") and against the author's dialogue rule (STATE.yaml decisions, 2026-10-20).
+
+### Gates (rerun in /tmp/claude-0/-home-user/925d8686-989e-5134-a9ef-2d597d7cac42/scratchpad/rc2/, Ch.1–4)
+- `voice_wear_check.py`: **clean** (strict). No retired phrases, no device over cap.
+- `tic_report.py --gate`: **clean.** Auto-recurrence: none. Ch.2 has 1 negation pivot (cap 1) and 0 and-chains. No gesture class at cap; Ch.2's worst class is 1x.
+- The round-2 fixes are confirmed in the text: R2-1 ("Poor sock," the girl said), R2-2, R2-3 ("Then she grinned.") and R2-4 ("one big problem").
+
+### Line-by-line (meaning / speaker / placement / register)
+| # | Verdict | Note |
+|---|---|---|
+| 1 doors | OK | Tighter. "asked them nicely to open" is natural and keeps the joke. |
+| 2 "Really?" | OK | |
+| 3 sock "do" | OK | Sets up "Poor sock" better than "get on" did. |
+| 4, 5, 9, 13, 17 | OK | These are contractions and plain-speech fixes. Meaning is unchanged. |
+| 6 "Now that's a real name." | Minor | "Real" can read as *real name vs. nickname*, since he has just said "Bal, to my friends". The meaning drifts. **Fix:** "Now that's a name. Somebody chose well." |
+| 7 "I guess" | OK | This now matches the source word for word. |
+| 8 fates | OK, with a small echo | "stumbling into my temple. Flying into it" repeats "into". The stumble/fly contrast still lands, and the source has "stumbling across". Optional fix: "you still end up stumbling across my temple. Flying into it, no less." |
+| 10, 11 crazy | OK | Closer to the source ("could make you go crazy"). Amelia repeating his word back to him is pointed, not a tic. |
+| 12 "But that's me." | **Reads worse** | Dropping "just" turns a hedge ("that's just my opinion") into a statement about himself ("that's who I am"). The source has "that was just him". **Fix:** "But that's just me." |
+| 14 "the big one" | OK | This is plain 16-year-old speech. |
+| 15 empty chair | **Meaning lost** | The old line, "people decided the chair was all there was", meant people concluded *nobody exists* to sit in it. That is the myth, and it is the source's point ("no one was sure the blood originator even still existed"), and it is what sets off the bats. "People figured nobody would ever fill it" only says she won't show up, which is a weaker trigger. It also repeats "figured" from Bal's line 10 lines earlier (L133). **Fix:** "After enough years of an empty chair, people decided there was nobody to fill it." |
+| 16 "angry" | OK | "Cross" was British. The beat and the surprise still land. |
+
+Speaker and placement are unchanged for all 17 lines. Every protected line is intact ("They have made me a *myth*?", "Have a seat, and I'll explain", "Uhm. Within reason", "You shall go to this school", "the Blood Bond is alive and well", "Are you thirsty?"). Register is American throughout. Amelia stays playful and teasing, and Bal stays plain-spoken.
+
+### Score
+| Dimension | R2 | Re-check | Note |
+|---|---|---|---|
+| Originality | 8.5 | 8.5 | |
+| Theme | 8.5 | 8.5* | The empty-chair line was the R2 Theme evidence. #15 weakens its link to the myth. *The score holds once the #15 fix is applied. |
+| Characters | 8.5 | 8.5 | The polish improves cover-the-name for Bal ("Which kind of proved he wasn't", "you lose it"). No tics. |
+| Prose & Voice | 8.5 | 8.5 | Dialogue now reads aloud more naturally. Stopping sentences untouched. |
+| Pacing | 8.5 | 8.5 | |
+| Emotion | 8.5 | 8.5 | "Only when I'm angry" still carries the emotional surprise. |
+| Source Fidelity | 8.5 | 8.5* | *Holds with the #15 fix. Without it, the line drifts from the source's "no one was sure she still existed". |
+| **FLOOR / AVG** | 8.5 / 8.5 | **8.5 / 8.5** | Casual 9.0 (unchanged) |
+
+### VERDICT (re-check)
+**PASS, conditional on the #15 fix** (one line, required, Meaning). Fixes #12 ("But that's just me.") and #6 ("Now that's a name.") are recommended. The "into/into" echo in #8 is optional. None of these need another evaluation.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

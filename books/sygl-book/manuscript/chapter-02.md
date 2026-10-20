@@ -52,7 +52,7 @@ He walked slowly to the nearer bench and sat down on the edge of it. The stone w
 
 It was only polite to answer that. "I'm Balthazaar," he said. "Bal, to my friends."
 
-"Balthazaar." She tried the name out slowly, tasting it, and looked pleased with the result. "Now that's a real name. Somebody chose well."
+"Balthazaar." She tried the name out slowly, tasting it, and looked pleased with the result. "Now that's a name. Somebody chose well."
 
 Bal looked around. He took in the two rows of pillars, the two braziers, the shaft of sunlight falling through the roof that wasn't there, and the dark statue with its face in shadow. Then he looked back at Amelia, sitting across from him with her hands folded in her lap and the rubies glinting at her ears.
 
@@ -130,7 +130,7 @@ Bal looked. Rubies, black dress, one eyebrow up.
 
 That got the corner of her mouth to twitch. "Go on."
 
-"I always figured a lot of it was there to get people riled up against anyone with the mark. But that's me. Nobody else I know ever wondered about it." He hesitated. "The other part is that nobody's seen you. Not for years. Longer than years. For a long time, people thought the blood originator was Dracula."
+"I always figured a lot of it was there to get people riled up against anyone with the mark. But that's just me. Nobody else I know ever wondered about it." He hesitated. "The other part is that nobody's seen you. Not for years. Longer than years. For a long time, people thought the blood originator was Dracula."
 
 "Dracula," Amelia repeated. Her voice had gone flat.
 
@@ -140,7 +140,7 @@ Amelia said nothing. Behind her, the nearer brazier sank low and then flared up 
 
 There was one more piece, and Bal wished there weren't. He made himself say it anyway.
 
-"Once a year," he said, "all the originators come to the Heir's School. It's the first school, the big one. They come to claim their blood, the new students born under their mark. There's a place set aside for you there, the same as for the others. You've never come. Not once, as long as anyone can remember. After enough years of an empty chair, people figured nobody would ever fill it."
+"Once a year," he said, "all the originators come to the Heir's School. It's the first school, the big one. They come to claim their blood, the new students born under their mark. There's a place set aside for you there, the same as for the others. You've never come. Not once, as long as anyone can remember. After enough years of an empty chair, people stopped believing anyone would ever fill it."
 
 Once he was done, Amelia exploded.
 
