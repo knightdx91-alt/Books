@@ -6,7 +6,7 @@ It stood at the end of the corridor of paintings, a squat column of grey stone a
 
 "Put your left hand on it," she said.
 
-Bal put his palm flat over the carving. There was a sharp little prick in the middle of his hand, like a pin left in a new shirt, and before he could pull back the stone was already drinking. His blood ran out along the grooves of the carving, filling them line by line until the whole sygl stood out red on the grey, the same shape as the one under his hand. It held there, red on grey. Then it sank into the stone and was gone, and the top of the pedestal was dry and grey again.
+Bal put his palm flat over the carving. There was a sharp little prick in the middle of his hand, like a pin left in a new shirt, and before he could pull back the stone was already drinking. His blood ran out along the grooves of the carving, filling them line by line until the whole sygl stood out red on the grey, the same shape as the one under his hand. Then it sank into the stone and was gone, and the top of the pedestal was dry and grey again.
 
 Beside them, a section of the wall slid aside with a low grinding sound. Behind it a short flight of stone steps climbed up into warm light.
 
@@ -36,7 +36,7 @@ She lay there a little longer with her eyes on the ceiling. Then she sighed and 
 
 Bal ran it back in his head. The little door behind the stage, the narrow corridor, the stairs going down, the paintings. "Yes."
 
-"Good. I may not always be with you, so you need to know your way around." Another finger. "You've only got four classes as a first year. I'll get you the list once I'm through dealing with them. There's a curfew, but as Lead Mage you're exempt from it." She tipped her head toward the ceiling. "The library's one floor up, because I'm sure you're going to go hunting for it."
+"Good. I may not always be with you, so you need to know your way around." Another finger. "You've only got four classes as a first year. I'll get you the list once I'm through dealing with them. There's a curfew, but as Lead Mage you're exempt from it." "The library's on the second floor, because I'm sure you're going to go hunting for it."
 
 "I was going to ask."
 
@@ -98,13 +98,13 @@ His stomach growled.
 
 ---
 
-He could have cooked. There was a whole chest of meat in the kitchen. But Bal's cooking had never gone past toast, and somewhere in this castle there was a dining hall, and he was curious to find it.
+He could have cooked. There was a whole chest of meat in the kitchen. But somewhere in this castle there was a dining hall, and he was curious to find it.
 
 He took the stone steps down, and the wall slid aside to let him out. He retraced his way past the paintings, up the narrow stairs, and along the corridor, and when he got near the main part of the school he began to hear people talking and laughing.
 
 The corridor let out into a large courtyard in the middle of the school. Students filled it, sitting around in groups on benches and the edges of planters, talking. It didn't take long to work out how they were sitting. Most of them were with others of their own sygl, Waves with Waves, Terra with Terra. A few of the braver ones had drifted over to chat with somebody from another group.
 
-Bal glanced at his own front. The blood sygl had come up on the front of it at some point during the claiming, dark red on the dark wool, exactly where Verin had said it would. He hadn't even noticed.
+Bal glanced down at his sweater. The blood sygl had come up on the front of it at some point during the claiming, dark red on the dark wool, exactly where Verin had said it would. He hadn't even noticed.
 
 Some of the students had noticed. A few heads turned as he stepped out of the corridor. A few conversations stopped and started up again more quietly.
 
@@ -224,7 +224,7 @@ In answer, Amelia lifted her black bangs off her forehead with two fingers.
 
 The brand was there, a small blood sygl matching the one in Bal's hand, glowing a soft red against her pale skin. Viridia stared at it.
 
-"But how is that even possible?"
+"But how is that possible?"
 
 Amelia let her bangs fall. She helped herself to a slice of Bal's pizza, and explained between bites.
 
@@ -286,7 +286,7 @@ They stayed and talked a while longer, until the hall had mostly emptied around 
 
 "I should get back to my dorm," she said. She waved goodbye from the end of the table and headed off down the hall, and out through the tall doors.
 
-Bal stayed at the empty table a while. Then he headed back to his dorm.
+Bal sat on at the empty table. Then he headed back to his dorm.
 
 There were still students milling around in the courtyard, and more of them in the corridors, standing in their groups. Bal walked through them with his hands in his pockets. A boy in a Terra sweater looked at the sygl on his chest and then up at his face, and kept on looking. Farther on, an older boy with his arms folded watched him the whole length of the corridor, flat and unfriendly.
 

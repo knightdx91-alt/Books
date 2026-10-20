@@ -134,7 +134,7 @@ Bal looked into her eyes. They were very red and very steady, and none of the te
 
 With that dismissal, Bal collected the rug off the chair in the hall and headed up to his room, and Amelia followed him.
 
-The dormitory was on the second floor, a long room with the beds in two rows and a narrow locker at the foot of each. With everyone outside it was empty, and it smelled of clean sheets and somebody's forgotten oranges. Bal's bed was the third from the window on the left.
+The dormitory was upstairs, a long room with the beds in two rows and a narrow locker at the foot of each. With everyone outside it was empty, and it smelled of clean sheets and somebody's forgotten oranges. Bal's bed was the third from the window on the left.
 
 The first thing he did was unroll his rug and lay it back on the floorboards beside the bed, where it had always been. He straightened the corner with his foot. It looked like it had never gone anywhere.
 
