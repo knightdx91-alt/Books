@@ -34,12 +34,12 @@ prose.**
    old, healed stump — not a fresh wound, not bandaged). He does everything one-handed
    with his RIGHT. The left stump is shown constantly (juggling, casting, the itch).
 2. **NO SYGL / NO MARK ANYWHERE.** He is completely unmarked. Do NOT draw any glowing
-   palm sigil, Blood mark, or magic symbol on him. He is the *sigil-less* boy — that
+   palm sygl, Blood mark, or magic symbol on him. He is the *sygl-less* boy — that
    absence is the whole point of the chapter.
 
 **When magic happens it comes from the STUMP**, not a hand and not a mark: he pushes
 the levitation spell *through the blockage in his left wrist*. Visualize as a faint
-strain/glow at the stump, not a drawn sigil.
+strain/glow at the stump, not a drawn sygl.
 
 **3. HE IS THE *ONLY* UNMARKED ONE.** Not one of a few — the *single* exception in an
 orphanage of ~40 children. Everyone else wakes with a sygl; he never did. This absolute
@@ -63,7 +63,7 @@ a sygl. From the roof he was the only boy at all."*
   **open palm**, palm turned to camera — NOT the back of the hand.
 
 **Design carries forward:** "Regrown-hand Bal" (Ch.3+) is a SEPARATE design with a
-left hand AND the Blood sigil on the left PALM. Keep the two reference sheets separate
+left hand AND the Blood sygl on the left PALM. Keep the two reference sheets separate
 so panels never mix them up. (The existing `panel-bal-flux.png` and `bal-manga.png` are
 BOTH regrown-Bal — wrong for Ch.1; keep as future reference only.)
 
@@ -130,9 +130,9 @@ Captions = Bal's interior voice (box). Keep them terse.
 - **3.3** — [Flashback] A cart on the lane, a stranger, Posy leaving. // CAP: *By spring
   a steward came. The mark tells the world what you're good for, and the world comes and
   collects.*
-- **3.4** — [Present, close on stump] Bal's stump, no mark. // CAP: *Every child in this
-  house woke with a mark. Every one. I got a soft white knot. The world read it and moved
-  on to a child it could use.*
+- **3.4** — [Present, close on stump] Bal's stump, no mark. // CAP: *Most of the kids
+  here woke up with a mark sooner or later. I got a soft white knot. Still, I could do
+  magic without one. Some of the others couldn't do any at all.*
 
 ### PAGE 4 — The flicker (the inciting mystery)
 - **4.1** — [Flashback, days ago] Bal on the roof tracing carved figures on the
@@ -247,7 +247,7 @@ Captions = Bal's interior voice (box). Keep them terse.
 ## GENERATION NOTES (for RunPod / FLUX)
 
 - **Consistency FIRST.** Before generating pages, lock **Pre-Regrowth Bal** (stump, no
-  sigil) as a reference sheet: face, hair, clothes, and the stump. Fix a seed + a prompt
+  sygl) as a reference sheet: face, hair, clothes, and the stump. Fix a seed + a prompt
   block we reuse. Add to EVERY prompt: `no left hand, left arm ends at wrist, stump` and
   to the NEGATIVE: `left hand, five fingers on left arm, glowing sigil, palm mark,
   signature, border, watermark, text`.

@@ -44,7 +44,7 @@ Legend: **▭** wide panel · **▯** tall panel · **◫** inset · **⬛** spl
 1 ◫ Flashback tint: a child's upturned palm, GREEN coil burning in (Terra). [spot green]
 2 ▭ Supper bench: Posy turns her palm over, green light, kids lean; Bal down the bench. [spot green]
 3 ◫ Cart on the lane, a stranger, Posy leaving.
-4 ◫ Present: Bal's stump, no mark. CAP: *Every child here woke with a mark. Every one.*
+4 ◫ Present: Bal's stump, no mark. CAP: *Most kids here woke with a mark. I got a stump, and I worked harder.*
 5 ▯ Bal watching the closed mausoleum. Beat.
 
 ### p.4 — The flicker (4) — the mystery
