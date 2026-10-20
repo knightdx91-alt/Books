@@ -186,29 +186,51 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   basket was still to clean, and I pulled it back onto my knees." … "The step was in shade. It was a good while yet till the
   lamps." No teeth, no credential asides, no laugh, "could have" 0, no parallel drawn between Ariston's choice and hers, in
   narration or anywhere.
-- **Ch.11 as written (Writer, 2026-10-20; "Valens's Yard", the Kirrha road below Delphi, late winter AD 71, about eight days;
-  every quote below is on the draft page, checked by script; the polish chain re-syncs):** the commitment holds: no English
-  anywhere ("In my country—" is Greek, cut off by Valens rising). Her Greek stays uncontracted ("I have three," / "Kallia said you
-  would stand for her house." / "Two now," … "and two more after the harvest." / "I need somebody," … "to carry my question in to
-  the god." / "They will be looking at the god. Not at the man with the goat." / "There is the board in the square, too." / "Then
-  sell me back the watch," / "It is fast," / "That will break on the first steep road," / "I have not asked to be paid." / "I know.
-  I have had my feet on it all day." / "These have been too long in the sun," / "In my country they split them and press them flat,
-  in rounds, with a leaf on top." / "At the end of summer I shall not be here," / "Children, once they are old enough to be late." /
-  "It is mine," … "He is keeping it for me." / "I have less than three now, Praxias," / "That is between me and the god." / "You read
-  it." / "Felix says you cannot read." / "Who is to say he is free, then?" / "Who took yours?" / "Hold this end," … "Hard." / "The
-  clerk wrote Maira." / "Mara."). **She pays Valens's obol** first, before she asks anything (the Ch.9 debt is CLOSED). **Her name
-  is given:** "Mara." (Valens has not said it aloud); the priest gets "The clerk's." **Craft as hands at work, no report form:** the
-  breeching's turn re-sewn "with a needle at each end of the thread, so that every hole was filled from both sides" in thread
-  pitched on Valens's pot; a girth; a headstall; a packsaddle pad emptied and restuffed; the breastband's matted felt cut away and
-  relined "with fleece, wool side in". **Cognitive distortion in action (all-or-nothing):** "If Praxias would not do it for three,
-  nobody in Delphi would do it for three. Kallia had one cousin, and I had just spent him." It sends her along the wall to the yard.
-  **Relief at the refused kiss (the chapter's emotional surprise), through legs and appetite (hands and voice both rested):** "I sat
-  down. … my knees put me onto it … Everything in me that had been held up went down at once, the way a body went down at the end of
-  a long walk once the shoes were off, and I was hungry. I wanted bread, and whatever Kallia had in the pot, and I wanted it now."
-  **Her question rewritten** on the back of the sherd from *The door that let me in is shut. Where is another?* to *Where is my road
-  home?* after Valens's "Ask for a road." **She keeps his secret** in front of Felix ("I kept quiet"). Memories: none (present
-  thought only: "standing in a kitchen in Philadelphia with a tap in it"). Kallia's obol for the papyrus is still unspent and knotted
-  in "with the remains of the priest's money". Credential asides 0; teeth 0; laughs 0; English 0; "could have" 0.
+- **Ch.11 as written (Writer, 2026-10-20; "Valens's Yard", the Kirrha road below Delphi, late winter AD 71, about a week. SYNCED
+  to the FINAL page 2026-10-20, after dialogue-polish, hook-craft, the disruptor, continuity repair, polish cycle 1 and finalize
+  lines F1, F3, F4; every quote below is on the page, checked by script):** the commitment holds: no English anywhere. Her Greek
+  stays uncontracted ("I have three," / "Kallia said you would stand for her house." / "Two now," … "and two more after the
+  harvest." / "I need somebody," … "to carry my question in to the god." / "You have not heard what I would pay." / "They will be
+  looking at the god. Not at the man with the goat." / "There is the board in the square, too." / "Then sell me back the watch," /
+  "Have you let it stop?" / "It is fast," / "That will break on the first steep road," / "I have not asked to be paid." / "It
+  lasted you to the olives." / "I know. I have had my feet on it all day." / "It is mine," … "He is keeping it for me." / "These
+  have been too long in the sun," / "A fig ought to give when you press it." / "In my country they split them and press them flat,
+  in rounds, with a leaf on top." / "What has turning them to do with wasps?" / "Somebody else would have to open mine," (the
+  leaving never said; dialogue-polish cut the draft's spoken version) / "Once they are old enough to be late." / "For whatever they
+  are going to. Lessons. Work. Each other." / "So that two people can be in the same place at the same time, and neither of them
+  stands there waiting." / "The rich," … "And people who work all night, and sleep in the day." / "A lock does. In my country every
+  door has its own." / "She is a mule." / to Kallia: "Mine. I will carry it." / "No." (her one bare "No.") / "I have less than three
+  now, Praxias," … "And the god's share comes out of that first." / "You had your back to him the whole time he was in the gate." /
+  "Perhaps his olives are uphill." / "Where would you stand, in all that?" / "You have been in yourself, surely. Or sent a question
+  in by somebody else." / "Suppose he has nothing for me." / "That is between me and the god." / "You read it." / "You said you heard
+  the board read out." / "Did he take you to the priests," … "and have it cut on the wall?" (one qualified question; the stacked pair
+  was Felix's shape) / "Before whom?" / "There is no paper." / "Who is to say he is free, then?" / "And if somebody takes him?" /
+  "Who took yours?" / "Hold this end," … "Hard." / "Nobody. I cannot meet Praxias's price." / "At the door. Inside, though?" / "The
+  priest will write your name down. You told me so yourself." / "The clerk wrote Maira." / "Mara." / "How does a goat get from Kirrha
+  up to Delphi?"). **Her origin is no longer cut at a dash:** she finishes "In my country every door has its own." and he leaves on
+  it. **She pays Valens's obol** first, before she asks anything ("I untied the rag first and held out the obol." / "For the pitch,";
+  the Ch.9 debt is CLOSED). Her money is "three drachmas in the rag at my belt, all that the priest had paid me" (ENTITY CH11-2
+  fixed: the rag, not a himation knot). **Her name is given:** "Mara." (Valens has not said it aloud); the priest gets "The
+  clerk's." **Craft as hands at work, no report form:** the breeching's old thread "had been sawn through, a little at every downhill
+  step, by the grit in the stitch holes" (F4 cut the "not broken so much as" correction), and the turn is re-sewn "with a needle at
+  each end of the thread, so that every hole was filled from both sides", in thread pitched on Valens's pot with the blunt awl "as it
+  was"; a girth; a headstall "sewn on by somebody who had never seen one sewn" (the absent-workman verdict, 1); a packsaddle pad
+  emptied and restuffed by Felix; the breastband's matted felt cut away and "a new one of fleece, wool side in". **Cognitive
+  distortion in action (all-or-nothing):** "If Praxias would not do it for three, nobody in Delphi would do it for three. Kallia had
+  one cousin, and I had just spent him." It sends her along the wall to the yard. **Irrelevant thought (present scene, mid-pricing):**
+  the quail "had the expression of a toll collector at the end of a shift". **Failed management (stopped work):** "I had the headstall
+  over my knees, and I put no stitch in it." (the cast's ONE work-suspended tell in Ch.11 after F1; see at-risk). **The near-kiss
+  from her side:** "and lifted my head, and his face was there." / "The lamp was on its nail behind me; it lit him and left me in the
+  dark." / "He came nearer, and my face lifted to meet his." **Relief at the refused kiss (the emotional surprise), through the seat
+  and appetite, no knees, no simile (hands and voice rested):** "I sat down. The packsaddle had been on its trestle at my back, and I
+  was on it, with the cut ends of the thread still pinched in my hand. Everything in me that had been held up came down, and I was
+  hungry. I wanted bread, and whatever Kallia had in the pot, and I wanted it now." **Her question rewritten** on the back of the
+  sherd from *The door that let me in is shut. Where is another?* to *Where is my road home?* after Valens's "Ask for a road." **She
+  keeps his secret** in front of Felix ("I kept quiet, and Felix brought his questions to me instead."). Waiting, bare: "I waited for
+  him to tell me why." / "Why?" I said. Memories: none (present thought only: "standing in a kitchen in Philadelphia with a tap in
+  it"). Kallia's obol for the papyrus is still unspent and "knotted in with the remains of the priest's money". Credential asides 0;
+  teeth 0; laughs 0; English 0; could-have 0. WATCH: "Who…?" is her most-used question opener in Ch.11 (Who read it out / Who sewed
+  it last / Who is to say / Who took yours / Who told you); give her other forms in Ch.12.
 - **DISTINCTNESS GUARANTEE:** the only voice in the book that sees how a thing was made and where it was
   mended, against Valens, who sees where a thing or a man will move next.
 - **Sample line:** "Somebody's glued this before, look, there's an old line under the new one, and
@@ -386,69 +408,102 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   "How long…?" stays at 3 book-wide (all Ch.6). Spent: the pitch exchange; "He'll pay."; "Somebody will."; the silent look at
   the board; letting the gray drink first; the bite elbowed away.
 
-- **Ch.11 as written (Writer, 2026-10-20; the full two-hander of AUTHOR-CP2-1, scene after scene; every quote below is on the draft
-  page, checked by script; the polish chain re-syncs):** **Entrance not through the mules:** a voice in the half dark over
-  Praxias's wall ("once, very low, a man spoke, and the boy answered him with three questions"); then "'Felix,' said a man by the
-  trough. 'The black's water.'"; then "sitting on the end of the trough with a knife on his knee and a whetstone in his fist, putting
-  an edge on the blade in small circles. Now and then he spat on the stone". The obol goes into his cheek, "the way the men did in the
-  market when their hands were full". **New body facts (fresh words next time; do not re-quote):** "his nose had once been broken,
-  and had healed a shade crooked, and a white nick ran through one eyebrow, across the grain of the hair"; he tries the knife on his
-  forearm hair. The near-kiss uses them once more ("The nick in his eyebrow showed, and the healed break in his nose"). **The refusal,
-  as crowd-reading, not fear:** "No." / "On the god's first day the whole sanctuary's full. Every man in Phocis with a question, all of
-  them watching each other. A priest writes down the name of whoever goes in." / "In a line a man looks at the back of the man in
-  front of him. All morning. He's got nothing else to look at." / "There's no back on the god's first day. There's a crowd, and a slave
-  of the god's with a rod, sorting it." The board, with the pretence that he cannot read: "I heard it read out." / "Whoever stood by
-  it. There's always one." **The watch (kept, wound, never set):** "No." to selling it back; he reads it from the open pouch without
-  taking it out: "The short one's past the nine," … "The long one's at the two." It is fast by the spout's shadow; "It hasn't
-  stopped." He pulled the pouch shut. (Felix: "Each day before he's had his bread he does something to it, with his back to me".)
-  **Hands on new object classes, never tack as a frame:** whetstone and knife; the obol; the load test (his whole weight from the
-  mended breeching over a stable beam); the mules' bells stuffed with wool; the lame black's hoof; a knot in a lead rope; the lamp
-  wick ("pinched off the char with his fingers"); two stones set back in the goats' gap. **The four reveals, in the outline's order:**
-  (1) **figs**, his chaos trait's first surfacing: "They're Caunian. They're meant to be like that." / "A fig that gives has gone to the
-  wasps." / "You pick when the skin splits by itself. A day in the shade first, on the tree's own leaves. After that the sun, whole, on
-  a rush, turned every morning, and in at nightfall, ahead of the dew." / "Where's that?" / "They don't, in Syracuse." / "Split, the
-  dust gets in," … "come the spring you've a jar of mold." / "Pressed, they're a cake. If I want a cake I'll buy a cake." / "Not if
-  they're turned." / "A wasp likes a thing that keeps still." / "Chian are for men who've never had a Caunian." / the potted cutting:
-  "From a cutting. In a pot, it goes where I go." / "When the summer's done, if it's any good. Come then. Dry them your way, and I'll
-  dry mine, and we'll open the two jars at midwinter and see." / to "At the end of summer I shall not be here": "Then I'm right."
-  (2) **the lame black:** "Again," / "Near fore," / "No." to the twitch; waits "a hand on her neck under the mane", talking Latin,
-  until she lifts the sore foot herself; pares the gravel track "in slivers"; "Lamp," / "Not tomorrow." / "Bran," … "Hot." / "She'd
-  remember it." / "That's why."; up three times in the night (Felix). (3) **he reads** (the reveal; the page had never confirmed it):
-  "Take out the door," … "The priests will ask what door. Whose door, and where it is, and what you were doing going in by it, and
-  they'll write that down too." … "Ask for a road. A road they'll answer." / "It was on the bench." / "I did hear it." / "Felix can't
-  either. It saves arguing."; then, to Felix's "Read me," in front of Mara: "How would I know what it says?" (4) **Felix:** "Yes." /
-  "The Cilician. Somebody selling eels." / "No." (no paper) / "He can say it." / "Paper gets taken off you," / to "Who took yours?"
-  he hangs the rope up "with the knot still in it". **Mind-reading (chaos; wrong in a mundane way):** of Praxias, "He looked at the
-  string. He looked at the house twice." / "He turned uphill. Not to his own door." / "Felix." (the boy sent after him); he looks at the
-  goats' gap "for some time" and sets two stones in it "that would not have kept out a hen". Felix's report (wine-seller, quail ring,
-  two obols lost) disproves it, and he still says "He's got a wall on my yard."; next morning the gate is barred by day ("Leave it
-  barred,") and he takes the string out late by the olive path, then lies: "The road's dusty." At the agreement he has absorbed the
-  truth without owning the error: "Praxias lost two obols on the Amphissan's bird. He'll stand at the door for a drachma, if his name's
-  said out loud." / "Felix." **His one question about her world:** "The thing in my pouch. Has everybody got one, in your country?" /
-  "Women?" / "Late for what?" / "Why does anybody need the hour that close? The day's got a middle. Everybody knows where it is." /
-  "They could meet at dawn." / "Who isn't?" / "In the day." When she begins "In my country—" he is on his feet with the bells in her
-  lap: "Those want doing." (her story refused by work, not by "Don't."). Muffled bells: "I'd sooner hear them than have them hear
-  me." **The walk up (worldview):** "Everybody comes." / "The priests go down to the spring to wash, in the dark. After the goat, the
-  doors. Delphians in first, and the rest as the priests like." / "Paid." / "Thessalians at the front. They push. Boeotians at the
-  back, drunk by noon. Men off the islands selling figs nobody ought to buy. And men with nothing to sell, watching the line." /
-  "Whatever's in it." / "No." (never been in) / "No." (never sent a question) / "I don't want anything he's got." / "You've lost a
-  goat." / "What are you asking him?" **With Felix:** "No." twice to the boxing; never thanks, never praises. **The near-kiss
-  (NON-NEGOTIABLE, done):** his fist holds the strap; "his head coming down and my face lifting to meet it"; "Short of it by the width
-  of a finger, he stopped, and stepped back"; no line, no order; he trims the wick, then in the yard "where he must have taken himself
-  to be unwatched, he stretched, both arms straight up over his head, until something in his back went with a crack" (his relief,
-  unexplained). **The agreement (NON-NEGOTIABLE, done), no reason given:** "He's been up since before it was light," … very low. /
-  "No." (he will not wake the boy) / "Who's your Delphian?" / "I'll take it in. The day he first sits this year. His birthday, the
-  priests say." / "He let that go by him." (the priest who writes names) / to "Why?": "What name does the priest write?" / "And you?" /
-  "Which one does the priest get?" / "The goat," / "He'd want more than you have if you had twice as much. At Kirrha there's a man
-  brings them over from Aigion on the boats, at half his price, and none of his have ever been near a fire." / "On its feet. Felix
-  goes in front with a fist of barley, and it follows the barley." / last line: "We take the string to Kirrha for oil the day after
-  tomorrow, at daybreak," … "Bring your drachmas, and wear something you can walk back up in behind a goat." **The watch is NOT
-  returned.** Delphi's name for him on the page: "Mule-man" (Praxias), "the Corinthian" (Praxias); never Lupus. No simile in his
+- **Ch.11 as written (Writer, 2026-10-20; the full two-hander of AUTHOR-CP2-1, scene after scene. SYNCED to the FINAL page
+  2026-10-20, after dialogue-polish, hook-craft, the disruptor, continuity repair, polish cycle 1 and finalize lines F1, F3, F4;
+  every quote below is on the page, checked by script):** **Entrance not through the mules:** a voice in the half dark over Praxias's
+  wall ("once, very low, a man spoke, and the boy answered him with three questions before he had finished"; the chapter's one
+  "low", in the protected first sentence); then "Felix," … "The black's water." from "a man by the trough"; then "sitting on the end of
+  the trough with a knife on his knee and a whetstone in his fist, putting an edge on the blade in small circles. Now and then he spat
+  on the stone; his cloak was thrown back off his shoulders, and the hair at the back of his neck was wet from the spout." Mara holds
+  out the obol: "He took it and tucked it into his cheek, the way the men did in the market when their hands were full." ("The obol
+  made a small lump in his cheek when he talked.") **New body fact (fresh words next time; do not re-quote):** "Close to, a white
+  nick ran through one eyebrow, across the grain of the hair."; he tries the knife on his forearm "and it took the hair off clean". At
+  the near-kiss: "The nick in his eyebrow showed." **The broken nose is CUT** (polish cycle 1: it was Nikaso's Ch.8 introduction;
+  CLOSED for every later face). **The refusal, as crowd-reading, not fear, with no bare "No.":** to her ask, "He kept the stone
+  going." / "Three drachmas." … "Praxias has a voice for selling. Half Delphi will have heard him." / "He doesn't have to. On the
+  god's first day the whole sanctuary's full. Every man in Phocis with a question, all of them watching each other. A priest writes
+  down the name of whoever goes in." / "In a line a man looks at the back of the man in front of him. All morning. He's got nothing
+  else to look at." / "There's no back on the god's first day. There's a crowd, and a slave of the god's with a rod, sorting it." The
+  board, with the pretence that he cannot read: "I heard it read out." / "Whoever stood by it. There's always one." / "He started on
+  the blade's other face." **The watch (kept, wound, never set):** to "Then sell me back the watch,": "With the god's money?"; to "Have
+  you let it stop?": "He loosened the drawstring of his belt pouch with a finger, looked into it, and left the watch where it was." /
+  "The short one's past the nine," … "The long one's at the two." It is fast by the spout's shadow; "Since the mountain he had kept it
+  going, every day, and he had not put a finger to the hands." / "It hasn't stopped." He pulled the pouch shut. (Felix: "Each day
+  before he's had his bread he does something to it, with his back to me".) **The breeching:** "It's been breaking all winter." / "I
+  never asked for it mended." / "He sheathed the knife at his back and crossed to the stable."; the load test, "over the beam it went,
+  and with an end in each fist he hung his whole weight from it, his feet off the cobbles. The beam creaked, and the strap held." /
+  "I did. At Kirrha, by a fire." / he hangs it "on its peg himself" / "There's a heap more under that bench." **The awl (no
+  subject):** "In the morning the awl lay on the bench beside the girth, and somebody had put a point on it that would have gone
+  through a sole." **Hands on new object classes, never tack as a frame:** whetstone and knife; the obol; the load test; the mules'
+  bells stuffed with wool; the lame black's hoof; the bran sack; **a boot lace** ("he stayed, with a foot up on the bench, to put a
+  new lace in his boot" / "He ran the lace on up the shin and tucked the end in."; Ch.7's broken, knotted lace replaced, never
+  pointed at; the struck KNOT is gone, and F1 cut the clause that stopped the lace at the freedom question); the lamp wick ("pinched
+  off the char with his fingers"); two stones set back in the goats' gap; the sack eased "out of his hand without hurry". **The four
+  reveals, in the outline's order:** (1) **figs**, his chaos trait's first surfacing: "They're Caunian. They're meant to be like
+  that." / "A fig that gives has gone to the wasps." / "You pick when the skin splits by itself. A day in the shade first, on the
+  tree's own leaves. After that the sun, whole, on a rush, turned every morning, and in at nightfall, ahead of the dew." / "Where's
+  that?" / "They don't, in Syracuse." / "Split, the dust gets in," … "come the spring you've a jar of mold." / "Pressed, they're a
+  cake. If I want a cake I'll buy a cake." / "Not if they're turned." / "A wasp likes a thing that keeps still." / "Chian are for men
+  who've never had a Caunian." / "That one's Caunian." (pointing "with the half fig at the tree in its jar") / "From a cutting. In a
+  pot, it goes where I go." / **the wager:** "When the summer's done, if it's any good. You dry them your way, and I'll dry mine, and
+  we'll open the two jars at midwinter and see." (her being there assumed; no "Come then", which read as a request that she stay)
+  / to "Somebody else would have to open mine,": "Then I'm right." (2) **the lame black:** "Again," / "Near fore,"; he "laid his hand
+  flat on her shoulder and ran it down the leg, slowly, to the fetlock"; to the twitch, no line: "Valens was watching the hoof, and
+  Felix stopped short."; he waits at her shoulder, "a hand on her neck under the mane", and talks to her ("Very little of it reached
+  me, and what did was the same few words over and over."; no "Latin", no "low") until she takes the foot off the cobbles "of her own
+  accord"; finds "a black spot near the toe, a lentil's worth" and pares round it "in slivers"; "Once she brought her nose round to
+  the back of his neck and blew there, and he let her."; "Lamp," / "Not tomorrow." /
+  "Bran," … "Hot." / "She'd remember it." / "That's why."; up all night (Felix: "There's three sacks gone, and I never heard him
+  once."). (3) **he reads** (the reveal; the page had never confirmed it), played in action: "Take out the door," / "The priests will
+  ask what door. Whose door, and where it is, and what you were doing going in by it, and they'll write that down too." / "His eyes
+  stayed off the sherd." / "Ask for a road. A road they'll answer." / "It was on the bench." / "I did hear it." Then, to Felix's "Read
+  me," in front of Mara: "How would I know what it says?" Felix's own belief carries the rest ("He can't. Nobody in this yard can but
+  you."). (4) **Felix:** "Yes." / "The Cilician. Somebody selling eels." / "No." (no paper) / "He can say it." / "He was a while
+  silent." (F1: the silence bare) / "Paper gets taken off you," / to "Who took yours?": "He ran the lace on up the shin and tucked the
+  end in." Also "Is that the last of it?" / "That's the heap gone, then." **Mind-reading (chaos; wrong in a mundane way):** "What did
+  he want?" / "He looked at the string. He looked at the house twice." / to Mara's "You had your back to him the whole time he was in
+  the gate.": "He turned uphill. Not to his own door." / "Felix." (the boy sent after him); he looks at the goats' gap "for some time"
+  and "set two stones back into it that would not have kept out a hen". Felix's report (wine-seller, quail ring, two obols lost)
+  disproves it, and he answers "Did he go up to the square?" and then "He's got a wall on my yard."; next morning the gate is barred
+  by day ("Leave it barred,") and he takes the string out "an hour late that morning, by the back way over the goats' gap and the
+  olive terraces", then lies: "The road's dusty." At the agreement he has absorbed the truth without owning the error: "Praxias lost
+  two obols on the Amphissan's bird. He'll stand at the door for a drachma, if his name's said out loud." / "Felix." **His one
+  question about her world:** "The thing in my pouch. Has everybody got one, in your country?" / "Children?" / "Late for what?" /
+  "Why does anybody need the hour that close? The day's got a middle. Everybody knows where it is." / "They could meet at dawn." / "I
+  am." (a flat fact about himself; once) / "Who keeps the door, while they sleep?" To "A lock does. In my country every door has its
+  own." he says nothing: "He was on his feet then, and the bells were in my lap, the lot of them, and he took the last of the rain on
+  his back to the stable." (her story refused by leaving, not by "Don't." and not by an order). Muffled bells, "heaped in his lap":
+  "Road's full of strangers on their way to the god. I'd sooner hear them than have them hear me." **With Felix:** "The yard's yours
+  till I'm back."; to "Have you ever seen a man killed with one blow?": "No." (the ex-murmillo's lie; the dramatic irony); never
+  thanks, never praises. **The walk up (worldview):** "Everybody comes." / "The priests go down to the spring to wash, in the dark.
+  After the goat, the doors. Delphians in first, and the rest as the priests like." / "Paid." / to "Where would you stand, in all
+  that?": "Thessalians at the front. They push. Boeotians at the back, drunk by noon. Men off the islands selling figs nobody ought to
+  buy. And men with nothing to sell, watching the line." / "Whatever's in it." / "He answered neither." (the chapter's one narrated
+  non-answer) / "I don't want anything he's got." / "You've lost a goat." … "What are you asking him?" / "At the edge of the town he
+  took the priest's lane with his wood, without anything more". **The near-kiss (NON-NEGOTIABLE, done):** "His fist closed on the end
+  of the strap."; "and lifted my head, and his face was there."; the lamp behind her lights him; "He came nearer, and my face lifted
+  to meet his."; "Short of it by the width of a finger, he stopped, and stepped back. The shed was small, and the one step put his
+  shoulders in among the girths hanging on the wall behind him."; no line, no order; he trims the wick, then in the yard "where he
+  must have taken himself to be unwatched, he stretched, both arms straight up over his head, until something in his back went with a
+  crack I heard from the packsaddle" (his relief, unexplained). **The agreement (NON-NEGOTIABLE, done), no reason given:** "Valens
+  stood and looked at the two of them." / "He's been up since before it was light," (no "very low") / "He'll wake when he's cold." /
+  "Who's your Delphian?" / "I'll take it in. The day he first sits this year. His birthday, the priests say." / to "The priest will
+  write your name down. You told me so yourself." nothing, and "I waited for him to tell me why." / to "Why?": "What name does the
+  priest write?" / "And you?" / "He had it, and he kept it." / "Which one does the priest get?" / "The goat," / "He prices for
+  pilgrims. At Kirrha there's a man brings them over from Aigion on the boats, at half his price, and he lets you pick your own out of
+  the pen." / "On its feet. Felix goes in front with a fist of barley, and it follows the barley." / "He went to bar the gate, and the
+  dog got up off its side of the gutter and went with him." / last line: "We take the string to Kirrha for oil the day after tomorrow,
+  at daybreak," … "Bring your drachmas, and wear something you can walk back up in behind a goat." **The watch is NOT returned.**
+  Delphi's name for him on the page: "Mule-man" (Praxias), "the Corinthian" (Praxias); never Lupus. **Page counts:** no simile in his
   speech; no footing order; no come-and-ask line; he never names himself as the traceable one; "How long…?" 0; "What for?" 0; no
-  practical order as a reply to closeness. **Spent in Ch.11:** the hours read from the open pouch; the obol in the cheek; the load
-  test over a beam; muffled bells and their reason; refusing the twitch and "She'd remember it."; "Then I'm right."; "It saves
-  arguing."; "Paper gets taken off you"; "I don't want anything he's got."; "You've lost a goat."; the stretch-crack as relief; the
-  near-kiss staging; the barred gate, the olive path and "The road's dusty."; "What name does the priest write?" as the answer to why.
+  practical order as a reply to closeness; bare "No." 2 (the one-blow question; no paper), down from 11 in the draft; bare "Felix." 2;
+  "I am." 1; narrated non-answers 1 ("He answered neither."); work-suspended tell 0 (F1); walk-off exits after a line 5 (the stable
+  after the breeching, the bells, the trough after the sherd, the bran to the black, the yard after the near-kiss) plus 3 logistic
+  (the gate at dusk, the string, the bar at the close). **Spent in Ch.11:** the hours read from the open pouch; the obol in the cheek;
+  the load test over a beam; muffled bells and their reason; the twitch refused and "She'd remember it."; the fig wager and "Then I'm
+  right."; "In a pot, it goes where I go."; "Paper gets taken off you"; "I don't want anything he's got."; "You've lost a goat."; the
+  stretch-crack as relief; the near-kiss staging; the barred gate, the olive path and "The road's dusty."; "What name does the priest
+  write?" as the answer to why; "Who keeps the door, while they sleep?"; "I am."; "He came nearer"; the new boot lace.
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -710,14 +765,15 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   errands 0; name-asks 2; work-suspended tell 2 expressive uses (the wool in her hand; the pull run back) plus the functional
   "Presently she let it hang."; "living" ×3 in her mouth (×5 in the chapter) and "cup" ×6, both CLOSED after Ch.10.
 
-- **Ch.11 as written (Writer, 2026-10-20; offstage but for one evening at the hearth; every quote below is on the draft page,
-  checked by script):** she sends Mara to Praxias on the Kirrha road "before the lamps were out" (off the page). After the lame-mule
-  night: "She stood over the pot with the ladle, and gave me only the side of her face as I came past her." / "That yard's on your
-  himation," … "Whose water washes it?" (her labor axis, as a question back; not a chore-reply) / "Is he paying you?" / "The ladle
-  made its circuit of the pot." / "There's women in this lane twenty years married who'd not do that much for a man for nothing."
-  Never sits, never touches Mara, never speaks of herself; chore-replies 0; "Then" retorts 0; walk-offs 0; no wool, broom or spindle;
-  no name-ask. Praxias on her: "Kallia never asks for herself." She has NOT been shown the notice or connected it to Valens (keep her
-  from it). Her obol for the papyrus is still unspent.
+- **Ch.11 as written (Writer, 2026-10-20; offstage but for one evening at the hearth. SYNCED to the FINAL page 2026-10-20: her
+  scene is byte-identical through every pass; every quote below is on the page, checked by script):** she sends Mara to Praxias on
+  the Kirrha road "before the lamps were out" (off the page). After the lame-mule night: "She stood over the pot with the ladle, and
+  gave me only the side of her face as I came past her." / "That yard's on your himation," … "Whose water washes it?" (her labor
+  axis, as a question back; not a chore-reply; Mara: "Mine. I will carry it.") / "Is he paying you?" (Mara: "No.") / "The ladle made
+  its circuit of the pot." / "There's women in this lane twenty years married who'd not do that much for a man for nothing." (the
+  chapter's one spoken romance signal, given to her, not the narration). Never sits, never touches Mara, never speaks of herself;
+  chore-replies 0; "Then" retorts 0; walk-offs 0; no wool, broom or spindle; no name-ask. Praxias on her: "Kallia never asks for
+  herself." She has NOT been shown the notice or connected it to Valens (keep her from it). Her obol for the papyrus is still unspent.
 
 #### THEANO — the Pythia; a farmer's widow off duty (glimpsed Ch.8 unnamed, shouting at crows; Ch.13)
 - **Attention / worldview:** her own body (her knees, the descent into the adyton), the priests' petty
@@ -772,45 +828,60 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **Sample line:** "Did you see the net? Did you see how he turned it? Is it true you fought at Corinth
   with two cracked fingers and won anyway? Why do I have to hear that from a lanista?"
 
-- **Ch.11 as written (Writer, 2026-10-20; first live appearance; every quote below is on the draft page, checked by script; the
-  polish chain re-syncs):** **Entry (all four marks):** a voice first ("a boy was telling some animal at the top of his voice that it
-  was the worst mule between Parnassus and the sea"); the physical anchor: "a shovel taller than he was … a thin one of twelve or so
-  in a tunic made for somebody broader, belted up with a length of rope, and he had cut his own hair, with a knife, without a mirror";
-  behavior: "came straight at me with the shovel"; tension: he wants Valens's approval and will not say so ("Why won't he let me? I
-  know poultices. Did he say anything to you about me doing it?"). **Stacked questions, openers rotated:** "Are you Kallia's? Is it you
-  he took up to Pan's in the snow? Did you hit Pan? Which hand was it? Did it bleed much?" / "What's he got in his pouch that ticks?
-  Yours, is it? … Does it live? Does it want feeding? Why can't I hold it?" / "He doesn't keep things for people," / "Where'd you learn
-  leather? Was it your father? Did he have mules? Is it true in Syracuse they eat octopus? Raw?" / "Chian are bigger," / "I never had a
-  Caunian till this winter," / **his own problem, seeded (arena-mad):** "There's boxing at the gymnasium before the god sits. A
-  Thessalian, and a man from Elateia who killed somebody at Thebes, they say, with his fists, with one blow. Everybody's going. Kallia's
-  lodgers are going. Can I go? If the string's back by noon can I go?" / "Why not? What's it cost you? … Have you ever seen a man
-  killed with one blow? Have you seen a Thessalian box?" / "You've never seen anything," (with great bitterness; forks the stalls "so
-  hard that the dog left the yard") / at the hoof: "Do you want the twitch? … I'll get the twitch. Shall I hold her ear for you? Shall
-  I get the rope on her hind leg?" / "Is that the bad in her? … Is it all out? Will she go to Kirrha tomorrow?" / to Praxias's quail
-  (the fights axis): "That's the one? From behind the stadium? The one that took out the eye of the Amphissan's bird? Was it the left
-  eye? Did it fight again after, the Amphissan's?" / the report (speed; the chapter's one cut-off): "He went to the wine-seller under
-  the plane tree … and the baker said—" / "Why would he go to the square? There's no quails in the square." … "Is it true the baker's
-  bird was fed on wine? Can you make a bird brave with wine? Would it work on a mule?" / the barred gate: "Who's coming? The Amphissan?
-  About his bird? Why's it barred in the day, when we've never barred it in the day? Is it you?" / "The Amphissan, though?" / from the
-  top of the gate: "Nobody. A cart of oil. Some Thessalians, lost. Nobody. Can I come down? Is it still nobody you want?" / his name:
-  "Is that writing? Is it a curse? Who's it on? Can you write me? Can you write me big?" / "Valens! She's written me! Come and see what
-  I look like!" / "Read me," … "Go on. What do I say?" / "Which bit's me? Which bit's the start? That one, with the arms on its hips?
-  Is that the F? Will it stay on, if it rains?" / "Nobody at Kirrha's got his name written down. The Cilician called me Boy from Side
-  to Kirrha. Has he told you about the Cilician?" **His story, boasted by him (Valens tells none of it):** "He bought me off him on the
-  quay at Kirrha. He paid more for me than he paid for the black, and she's four years old and sound, or she was. The Cilician laughed
-  and said nobody had ever paid him so much for a boy with a cough. Did he hit the Cilician? He never. He just looked at him, and the
-  Cilician gave him a drachma back." / "The name's his. Felix. Do you know what it is in Latin? It's lucky." / "He said I could go
-  wherever I liked, and I said where, and he said wherever I liked, and I came here." / "Can I keep it? Can I show the dog?" / to "Is it
-  cut on the wall? … Did he take you to the god?": "What wall?" No paper, no god, no wall. His name, ΦΗΛΙΞ, is scratched in capitals
-  on a sherd he keeps. **Speed:** "Felix did nothing at a walk"; climbs the stable rubble to the reeds and drops back down it "though
-  the door was beside him"; eats standing; "Before his name had finished, the boy was through the gate." **The anchor:** asleep in the
-  end stall, back to the stall wall, "his head fallen sideways against her belly, mouth ajar, and the sack he had been sent to change
-  still in his fist"; the black, who had "kicked his bucket over every evening", stands "square on all four feet, the bad one as well
-  … because to take her weight off it she would have had to shift, and he was asleep against her." **Knows:** believes Valens cannot read (Mara: "Felix says you cannot read."); has no word of the notice, the arena or Lupus (Ch.21's lanista is where he hears of Corinth); of the watch only "It is mine
-  … He is keeping it for me." **Not used, keep it so:** the palm-branch scratch (Ch.21, 28, one more if earned); a boast formula used
-  twice; "thank you" to Valens; any catchphrase. **WATCH for Ch.12+:** his question openers on this page: "Is it…?" ~9, "Can I…?" 4,
-  "Did…?" 4, "Is that…?" 3, "Is it true…?" 2, "Do you know…?" 2. Rotate them, and give him fewer lines in Ch.12 (he brings the goat
-  home) rather than another burst of the same shape. The yard dog as his foil: 3 beats; rest it.
+- **Ch.11 as written (Writer, 2026-10-20; first live appearance. SYNCED to the FINAL page 2026-10-20, after dialogue-polish (every
+  burst re-cut for opener variety), hook-craft, the disruptor, continuity repair, polish cycle 1 and finalize line F3; every quote
+  below is on the page, checked by script):** **Entry (all four marks):** a voice first ("a boy was telling some animal at the top of
+  his voice that it was the worst mule between Parnassus and the sea"); the physical anchor: "The boy had a shovel taller than he
+  was. He was a thin one of twelve or so, with straw in his hair." (polish cycle 1 cut the tunic-belt-hair skeleton, the Ch.4
+  goat-boy's introduction re-nouned; the knife-cut hair was cut earlier); behavior: "He had me in his eye before I was well through,
+  and came straight at me with the shovel."; tension: he wants Valens's approval and will not say so ("Why won't he let me? I know
+  poultices. Did he say anything to you about me doing it?"). **Stacked questions, openers rotated (highest two-word frame 2):** "Are
+  you Kallia's? You're the one he took up to Pan's in the snow. Did you hit Pan? Which hand? Was there much blood?" (and off "still
+  asking, as he went, which hand") / "What's he got in his pouch that ticks? Yours, is it? Each day before he's had his bread he does
+  something to it, with his back to me, and if I ask he sends me for water. Does it live? He won't let me near it, and I held a
+  fowler's hawk down at the harbor, bare-armed, and it never put a claw in me." / "He doesn't keep things for people," / "Where'd you
+  learn leather? Off your father? Had he mules? There was a sailor told me in Syracuse they eat octopus raw. Raw!" / "Chian are
+  bigger," / "I never had a Caunian till this winter," / **his own problem, seeded (arena-mad):** "There's boxing at the gymnasium
+  before the god sits. A Thessalian, and a man from Elateia who killed somebody at Thebes, they say, with his fists, with one blow.
+  Everybody's going. Kallia's lodgers are going. Can I go? I'll have the stalls done before noon." / "It costs you nothing. I'll walk
+  there and back, I'll be here before the string is. I'd go a round with the Thessalian myself, if they'd let me in the ring. Have you
+  ever seen a man killed with one blow?" / "You've never seen anything." (F3: no tag, no "with great bitterness"; "Felix took himself
+  off to fork out the stalls, and forked them so hard that the dog left the yard.") / at the hoof: "Do you want the twitch?" … "I'll
+  get the twitch. I'll hold her ear; nobody holds an ear better than me. Or the rope on her hind leg?" / "That's the bad in her,
+  coming out?" … "All of it? She'll go to Kirrha tomorrow, won't she?" / the poultice morning: "He was up all night with her. There's
+  three sacks gone, and I never heard him once." / to Praxias's quail (the fights axis): "That's the one? From behind the stadium,
+  that blinded the Amphissan's bird in one eye? The left, I heard. Did it fight again after, the Amphissan's?" / the report (speed;
+  the chapter's one cut-off and its one em-dash): "He went to the wine-seller under the plane tree … and the baker said—" / "The
+  square? There's no quails in the square." … "The baker feeds his bird on wine, everybody says so. Wine, to make it brave. Would it
+  work on a mule?" / the barred gate: "Who's coming? The Amphissan, about his bird? We've never had it barred in the day, not since I
+  came. Is it you?" / "The Amphissan, though?" / from the top of the gate: "Nobody. A cart of oil. Some Thessalians, lost. Nobody. I
+  can see clear to the bend from up here, and past it if I stand." / his name: "What's that, writing? A curse? Who's it on? Can you
+  write me? Big?" / "Valens! She's written me! Come and see what I look like!" / "Read me," … "Go on, then. Say me out loud." / "He
+  can't. Nobody in this yard can but you. Is that one me, with its arms on its hips? Will it wash off, if it rains?" / "Nobody at
+  Kirrha's got his name written down. The Cilician called me Boy from Side to Kirrha. Has he told you about the Cilician?" **His
+  story, boasted by him (Valens tells none of it):** "He bought me off him on the quay at Kirrha. He paid more for me than he paid for
+  the black, and she's four years old and sound, or she was. The Cilician laughed and said nobody had ever paid him so much for a boy
+  with a cough. You'd think he hit the Cilician. He never. He just looked at him, and the Cilician gave him a drachma back. You've
+  seen how he looks at people." / "The name's his. Felix. It's lucky, in Latin. He talks to the mules in Latin, did you know that?" /
+  "He said I could go wherever I liked, and I said where, and he said wherever I liked, and I came here." / "Can I keep it? The dog's
+  never seen a name." / to Mara's "Did he take you to the priests," … "and have it cut on the wall?": "What wall?" No paper, no god,
+  no wall. His name, ΦΗΛΙΞ, is scratched in capitals on a sherd he keeps. **Four boasts, four shapes (no boast formula):** the
+  hawk; the ring; the ear; the bend. **Speed, in his acts and his mouth only:** "Felix did nothing at a walk."; climbs the stable
+  rubble to the reeds and drops back down it "though the door was beside him"; eats standing; "he was already on the roof"; "Felix
+  was already halfway to the shed"; "Felix had it there, lit."; "Felix left his bucket and went to him."; "The boy was out of the gate
+  and after him." (polish cycle 1 removed the three "before [X] had finished" beats; the construction survives once, in the protected
+  first sentence). **The anchor:** asleep in the end stall, "with his back to the stall's wall and his head fallen sideways against
+  her belly, mouth ajar, and the sack he had been sent to change still in his fist"; the black, who had "kicked his bucket over every
+  evening", is "standing square on all four feet, the bad one as well, which she had not done since it went lame, because to take her
+  weight off it she would have had to shift, and he was asleep against her." **Knows:** believes Valens cannot read ("He can't. Nobody
+  in this yard can but you."); knows the trip up to Pan's and that the watch is Mara's (Mara: "It is mine," … "He is keeping it for
+  me."; ENTITY CH11-4); has no word of the notice, the arena or Lupus (Ch.21's lanista is where he hears of Corinth). **Not used, keep
+  it so:** the palm-branch scratch (Ch.21, 28, one more if earned); a boast formula used twice; "thank you" to Valens; any
+  catchphrase. **WATCH for Ch.12+ (final-page counts):** question openers are rotated (highest two-word frame 2: "Can I…?" 2, "Did
+  you/he/it" one each, "Is it you?" 1, "Have you ever…" 1); keep rotating, and give him fewer lines in Ch.12 (he brings the goat home)
+  rather than another burst. "already [somewhere]" for his speed: 2, AT CAP. "nobody" in his speech: 6 (WATCH). Exits on a line plus
+  a tag and "and" ("He doesn't keep things for people," said Felix, and was gone. / "What wall?" he said, and went out with his
+  sherd to show the dog.): 2 after F3, AT CAP; Ch.12 at most 1. The yard dog as his foil: 3 beats; rest it.
 
 #### PLAUTIA — Celer's divorced wife; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
@@ -1484,28 +1555,36 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   2026-10-19); Homs, the Orontes and the Lebanon are present map-knowledge, not a memory.
 
 #### Ch.11 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
-*(Writer, 2026-10-20. Every quote below is on the draft page.)*
+*(Writer, 2026-10-20. SYNCED to the FINAL page 2026-10-20; every quote below is on the page, checked by script.)*
 - **The yard dog** — yellow; "lay on the dry side of the gutter, watching it go"; leaves the yard when Felix forks the stalls; goes
   with Valens to bar the gate at the close. Texture; Felix's foil three times; rest it.
 - **The black** (a young jenny of the string; mules stay unnamed on the page) — "four years old and sound, or she was" (Felix); comes
-  back lame on the near fore, a gravel track pared out and poulticed with hot bran; "She'd remember it."; kicks Felix's bucket over
-  every evening and stands on his foot; the anchor. **The gray** appears once, not as Valens's frame: the matted breastband had
-  "rubbed a bare place on the gray's chest that I had found and the gray had not forgiven me for finding."
+  back lame on the near fore, "nodding at every other step"; an abscess ("a black spot near the toe, a lentil's worth"; "a thread of
+  gray matter welled from the sole, with a smell I could taste") pared out "in slivers" and poulticed with hot bran (not a "gravel
+  track": that was the draft); "She'd remember it."; "All week she had swung her rump at him, and kicked his bucket over every
+  evening, and stood on his foot whenever he gave her the chance."; the anchor. **The gray** appears once, not as Valens's frame: the
+  matted breastband had "rubbed a bare place on the gray's chest that I had found and the gray had not forgiven me for finding."
+- **Praxias's quail** — a fighting bird "bred … for courage" in Phocis, "the expression of a toll collector at the end of a shift";
+  blinded "the Amphissan's bird in one eye" (Felix). Texture.
 - **The Cilician** (the slaver who brought Felix "from Side to Kirrha" and sold him on the quay; "gave him a drachma back") and
   **somebody selling eels** (the only witness to Felix's freeing). Whether that is the Ch.9 board's sixty-year-old Thracian eel-seller
   is not said and must not be winked at.
-- **The Amphissan** (his bird lost an eye to Praxias's quail; his "new bird" loses to the baker's), **the baker** (his bird "fed on
-  wine", per Felix), **the wine-seller under the plane tree** (hears Praxias call the Syracusan "tighter than a priest's purse") — all
-  in Felix's report.
+- **The Amphissan** (his bird lost an eye to Praxias's quail; his "new bird" loses to the baker's), **the baker** (Felix: "The baker
+  feeds his bird on wine, everybody says so."; Praxias "called the baker a thief"), **the wine-seller under the plane tree** (Praxias
+  "told the wine-seller the Syracusan had haggled him down to nothing") — all in Felix's report.
 - **The boxers "before the god sits"** (Felix's rumor): "A Thessalian, and a man from Elateia who killed somebody at Thebes, they
   say".
-- **Pilgrims on the Kirrha road:** "a family from Boeotia with a grandmother in a basket chair slung between two poles"; those without
-  a roof camped on the terraces ("a child was crying in Thessalian, which sounded much like crying in anything else"); "Some
-  Thessalians, lost" (Felix from the gate).
-- **The goat-seller in the square** (Ch.9's goat man, by situation, not re-described) and **the man at Kirrha** who "brings them over
-  from Aigion on the boats, at half his price" (Ch.12's goat source; name him and card him if he speaks).
+- **Mention only, in Felix's boasts and gossip:** a fowler with a hawk "down at the harbor"; "a
+  sailor" who told him "in Syracuse they eat octopus raw".
+- **Pilgrims on the Kirrha road:** "a family of Achaeans with a grandmother in a basket chair slung between two poles" (polish cycle
+  1, ENTITY CH11-5: Achaeans off the gulf boats, not Boeotians); those without a roof camped on the terraces ("a child was crying in
+  Thessalian, which sounded much like crying in anything else"); "Some Thessalians, lost" (Felix from the gate).
+- **The goat-seller in the square** (Ch.9's goat man, by situation, not re-described: "wants more for his she-goat than I have";
+  Valens: "He prices for pilgrims.") and **the man at Kirrha** who "brings them over from Aigion on the boats, at half his price, and
+  he lets you pick your own out of the pen" (Ch.12's goat source; name him and card him if he speaks).
 - Mention only: "a slave of the god's with a rod" sorting the crowd at the door; the priests who "go down to the spring to wash, in
-  the dark"; Men "off the islands selling figs nobody ought to buy".
+  the dark"; "Men off the islands selling figs nobody ought to buy"; "Boeotians at the back, drunk by noon" (the sanctuary crowd, in
+  Valens's mouth; stays).
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -1894,7 +1973,7 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   and the standing thrown in." / "Three and a half, then. I'm robbing my own children.").
 - **Rhythm:** easy, unhurried sales talk, never loud ("He was not shouting." / "He doesn't have to.").
 - **Evasion — never says:** anything about the notice or a Thracian; that he needs the money (the quail ring says it for him).
-- **Physicality / silence:** "a soft, heavy, early-rising man who kept his beard clipped to a fringe"; the quail in the crook of his
+- **Physicality / silence:** "a well-fed, slow-spoken, early-rising man who kept his beard clipped to a fringe" (continuity W-13; the draft's "soft, heavy" was Ch.7's); the quail in the crook of his
   arm, "its eyes nearly closed", its back smoothed "with a fingertip, from the neck down, all the while he talked"; stands in a
   gateway "until he had priced the place". Leaves "telling the quail about it".
 - **Verbal tic:** none — distinguished by attention (prices and odds) and syntax (the price first, then the favor it supposedly is)
@@ -1907,7 +1986,7 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   twice." / "He turned uphill. Not to his own door."); he went to the wine-seller and the quails. Harmless; money only.
 - **DISTINCTNESS GUARANTEE:** the only speaker who names his price before anyone asks and then lowers it himself, against
   Euthydikos, who makes everybody else name theirs.
-- **Ch.11 as written (every quote below is on the draft page, checked by script):** "Three is a goat. Or it's the god's cake, if
+- **Ch.11 as written (SYNCED to the FINAL page 2026-10-20; every quote below is on the page, checked by script):** "Three is a goat. Or it's the god's cake, if
   the priest's in a good temper. It isn't a man on his feet in the god's own house with all Phocis behind him, saying a Syracusan
   girl's question out loud." / "They laugh at any man that carries for a woman. I'd be hearing it at the ring till the vintage." /
   "For Kallia I'd do it for nothing. Kallia never asks for herself." / "You're the one asking." (with "real kindness, as if he were
@@ -2558,53 +2637,119 @@ line each, so that walk-ons don't all sound like Mara.
     lines before a forearm ruler): every agent that adds a phrase greps it against the chapter it is repairing.
 
 - **At-risk after Ch.11 (Writer, 2026-10-20; "Valens's Yard", Chronological "slow reveal of a person", 3 breaks, the full
-  two-hander of AUTHOR-CP2-1. Counts measured on the draft page by script; the dialogue-polish → disruptor → continuity → evaluator
-  chain re-syncs this block):**
-  - **The near-kiss as staged: SPENT** (the lamp behind her lighting him; "his head coming down and my face lifting to meet it";
-    "Short of it by the width of a finger"; the step back into hanging girths; her knees putting her down; relief as hunger; his
-    stretch and the crack in his back). Ch.15's first union and any later near-miss find another order, other bodies, other senses.
-    **Relief as appetite: SPENT. Legs as the body-rebel channel: used**; rest legs (and hands, and voice) until Ch.20's weeping.
+  two-hander of AUTHOR-CP2-1. SYNCED to the FINAL page 2026-10-20 (counts re-measured on the final page; quotes checked by script).
+  The evaluators' new items are in the FINAL block below):**
+  - **The near-kiss as staged: SPENT** (the lamp behind her lighting him; "and his face was there"; "He came nearer, and my face
+    lifted to meet his."; "Short of it by the width of a finger"; the step back into hanging girths; the packsaddle "at my back, and I
+    was on it"; relief as hunger; the wick; his stretch and the crack in his back). Ch.15's first union and any later near-miss find
+    another order, other bodies, other senses. **Relief as appetite: SPENT. The seat as the body-rebel channel: used**; rest it (and
+    hands, and voice) until Ch.20's weeping.
   - **The anchor image: SPENT.** A hurt animal holding still on its bad foot so as not to wake a sleeper is told once. No animal is
     given a protective stillness as an emotional beat again; Felix asleep against a mule is not re-staged (he can sleep anywhere
     else, shown some other way, if at all).
   - **The watch read from the open pouch** ("The short one's past the nine," … "The long one's at the two."), **the watch fast
     against a shadow**, and **"Each day before he's had his bread he does something to it"**: SPENT. Next touch is Ch.18 (returned
-    running); before then one clause at most.
-  - **Once each, SPENT:** the obol in the cheek; the load test of mended tack over a beam; muffled bells and "I'd sooner hear them
-    than have them hear me."; refusing the twitch / "She'd remember it." / "That's why."; the barred gate by day, the olive path and
-    "The road's dusty."; "He's got a wall on my yard."; "Then I'm right."; "It saves arguing."; "I don't want anything he's got.";
-    "You've lost a goat."; "He doesn't keep things for people,"; "It is mine," … "He is keeping it for me."
-  - **No pre-announcing Ch.12.** The mind-reading's after-effect (gate, olive path) is done; Ch.12's men arrive on the road with no
-    further watching beat, look-out, ship or rumor in between (NO FORESHADOWING; his alertness in Ch.12 starts fresh, as attention).
-  - **Valens reads: the reveal is DONE** ("Take out the door," / "It was on the bench." / "Felix can't either. It saves arguing."),
-    with Mara keeping his secret in front of Felix. No second "he reads after all" beat; from Ch.12 his literacy is a plain fact
-    between them. **Correcting someone's written words as a reveal: SPENT.** (Ch.13: he carries *Where is my road home?* in; the
-    god's answer begins "the road home…": do NOT point at the match, in narration or in anyone's mouth.)
-  - **The paper theme is on the page** ("He can say it." / "Paper gets taken off you," / "Who took yours?" left unanswered). Ch.12's
-    telling at the stream supplies the seized manumission record in Valens's own plain chronology; "Paper gets taken off you" is
-    never repeated or paraphrased as a maxim.
-  - **A practical question as the answer to "Why?"** ("What name does the priest write?") and **"He let that go by him."**: once
-    each. His next refusals to explain use silence or work.
-  - **The fig argument: first surfacing DONE** (Caunian vs Chian; whole on a rush vs split and pressed; the wasp line; "Then I'm
-    right."). Ch.20 and Ch.34 surface figs in other shapes: no drying argument, no Caunian/Chian, no "I'm right". **"In a pot, it goes
-    where I go."**: said once.
+    running); before then one clause at most. ENTITY CH11-4: Felix now knows the watch is Mara's.
+  - **Once each, SPENT:** the obol in the cheek; the load test of mended tack over a beam; the awl sharpened overnight with no
+    subject; muffled bells and "I'd sooner hear them than have them hear me."; refusing the twitch / "She'd remember it." / "That's
+    why."; the barred gate by day, the olive path and "The road's dusty."; "He's got a wall on my yard."; "Then I'm right."; "Somebody
+    else would have to open mine,"; "I don't want anything he's got."; "You've lost a goat."; "He doesn't keep things for people,";
+    "It is mine," … "He is keeping it for me."; "You had your back to him"; "With the god's money?"; "It hasn't stopped."; "I am.";
+    Felix's hawk, ring, ear and bend boasts.
+  - **No pre-announcing Ch.12.** The mind-reading's after-effect (gate, olive path) is done; the notice paraphrase and the nightly
+    road-watching beat were cut by continuity (W-06, W-07). Ch.12's men arrive on the road with no further watching beat, look-out,
+    ship or rumor in between (NO FORESHADOWING; his alertness in Ch.12 starts fresh, as attention).
+  - **Valens reads: the reveal is DONE** ("Take out the door," / "It was on the bench." / "I did hear it." and the lie to Felix, "How
+    would I know what it says?"), with Mara keeping his secret in front of Felix ("I kept quiet"). No second "he reads after all"
+    beat; from Ch.12 his literacy is a plain fact between them. **Correcting someone's written words as a reveal: SPENT.** (Ch.13: he
+    carries *Where is my road home?* in; the god's answer begins with the road home: do NOT point at the match, in narration or in
+    anyone's mouth.)
+  - **The paper theme is on the page** ("He can say it." / "Paper gets taken off you," / "Who took yours?" answered by the lace run
+    up the shin). Ch.12's telling at the stream supplies the seized manumission record in Valens's own plain chronology; "Paper gets
+    taken off you" is never repeated or paraphrased as a maxim.
+  - **A practical question as the answer to "Why?"** ("What name does the priest write?"): once. His next refusals to explain use
+    silence or work, never a narrated non-answer (see FINAL).
+  - **The fig argument: first surfacing DONE** (Caunian vs Chian; whole on a rush vs split and pressed; the wasp line; the midwinter
+    wager; "Then I'm right."). Ch.20 and Ch.34 surface figs in other shapes: no drying argument, no Caunian/Chian, no wager, no "I'm
+    right". **"In a pot, it goes where I go."**: said once.
   - **The day's paraphrases are spent:** "the god's first day" (×2, Valens), "the god's birthday" (Mara), "His birthday, the priests
     say.", "The day he first sits this year.", "before the god sits" (Felix). Ch.12's bridge spends the allowlisted phrase once; Ch.13's
-    opener needs a fresh paraphrase ("The first consultation day of the year…", per the outline), worded unlike all of these.
+    opener needs a fresh paraphrase (the outline's "first consultation day of the year" idea), worded unlike all of these.
   - **Mara's name:** given to Valens once ("Mara."); he has not said it. His first use of it is its own beat, never a callback.
-    "The clerk wrote Maira." / "Which one does the priest get?" / "The clerk's." — the priest's record is Maira.
+    "The clerk wrote Maira." / "Which one does the priest get?" / "The clerk's." — the priest's record is Maira. Whose name the priest
+    writes for the carrier stays open (eval Hostile; audit N-18): Ch.13 shows it without a gloss.
   - **Money:** "three drachmas" is spent as a figure (Ch.9's smith's price; Ch.11 Praxias, Valens, Mara). She now has "less than
-    three" (the obol paid to Valens) with Kallia's papyrus obol knotted in. Ch.12 names her money some other way.
-  - **Praxias:** "little cousin" 2 (cap reached); "for family" 2. **Felix's openers:** see his card (WATCH). **The yard dog**: rest.
-  - **Hard-gate counts on the draft page (script):** hinge-family paragraph openers 0; "So" openers 0; "before I had [verb]" 0;
-    "the one / the only" claims 0 (Felix's "The one that took out the eye" and "the one step" are not claims); negation pivots 0; "He
-    meant…" 0; "could have" 0; "as if / as though" 1 (Praxias); credential asides 0; and-chains 3; em-dashes 2 (Felix's cut-off
-    report; "In my country—"); semicolons 10; command echo 0; bend / stoop / lean beats 0; kneel / crouch / squat 0; object handling 0;
-    prop fidget 0; gaze-arrival "then/now" 0; a held silence measured by something moving 0; memories 0 (none at all, stand-alone or
-    otherwise); lying-awake coda 0; laughs on the page 0 (one reported: the Cilician); English 0; cloth smells 0; Kallia sits 0;
-    Kallia touches Mara 0; Kallia chore-replies 0; absent-workman verdicts 1 (the headstall "sewn on by somebody who had never seen one
-    sewn"). Echoes 0 (pronoun-swapped included). Dialogue 35.5%; 6,288 words by shape_check; `long-spiral` → `dialogue`; median
-    sentence 13; breaks 3.
+    three" (the obol paid to Valens) in "the rag at my belt", with Kallia's papyrus obol knotted in. **ENTITY CH11-3, the money gap:**
+    cake ~2, Praxias 1, a Kirrha goat at half a Delphi price above three: the sum does not close against "less than three". Ch.12 MUST
+    settle it on the page as an act (a named Kirrha price, or Valens paying the difference without a line); Ch.12 names her money some
+    other way than "three drachmas".
+  - **Praxias:** "little cousin" 2 (cap reached); "for family" 2 (cap reached). **The yard dog**: rest.
+  - **Hard-gate counts on the FINAL page (script and the eval's re-run; 5,910 words by shape_check, `long-spiral` → `dialogue`,
+    dialogue 38%, median sentence 14, breaks 3):** hinge-family paragraph openers 0; "So" openers 0; "before I had [verb]" 0; "the
+    one / the only" claims 0; negation pivots 0; "He meant…" 0; could-have 0; "as if / as though" 1 (Praxias); credential asides 0;
+    and-chains 3; em-dashes 1 (Felix's cut-off report); command echo 0; bend / stoop / lean beats 0; kneel / crouch / squat 0; object
+    handling 0; prop fidget 0; gaze-arrival "then/now" 0; a held silence measured by something moving 0; memories 0; lying-awake coda
+    0; laughs on the page 0 (one reported: the Cilician); English 0; cloth smells 0; Kallia sits 0; Kallia touches Mara 0; Kallia
+    chore-replies 0; absent-workman verdicts 1 (the headstall); bare "No." 3 (Valens 2, Mara 1); narrated non-answers 1; "low" 1
+    (protected first sentence); "Latin" 2 (both in Felix's speech); echoes 0; anti-AI 8/20 after F4 (the eval's tested forecast;
+    9/20 in cycle 1).
+
+- **At-risk after Ch.11 FINAL (bookkeeping sync 2026-10-20, from `evaluations/chapter-11-eval.md` cycle 0 (P1–P8, Revision #1–#17,
+  Cross-Book #1–#11) and the cycle-1 re-evaluation (the editor's departures, the four flagged points, the at-risk entries for Ch.12
+  on, the pipeline notes), `evaluations/dialogue-chapter-11.md`, `evaluations/hook-chapter-11.md`,
+  `evaluations/disruption-chapter-11.md`, `evaluations/revision-chapter-11-continuity.md`, `evaluations/revision-chapter-11-cycle1.md`
+  and ENTITY_STATE CH11-1…5. Most are narrator moves, skeletons and one-word lines the n-gram gates do not see, so the Writer prompts
+  for Ch.12 on must carry them by name):**
+  - **Valens's bare "No.": capped at 1 per chapter from Ch.12** (the draft had 11; continuity C-01 cut it to 3 in the chapter, Valens
+    2). The tic gate fails any 1–2-word spoken line used more than 4 times in a chapter, for anyone. **Bare "Felix." as Valens's whole
+    line: 2 in Ch.11; ≤1 in Ch.12.** "I am." as his whole line: once.
+  - **Narrated non-answers: SPENT as a family.** "He gave no answer" / "That got no answer" / "which was an answer" and the "let [it /
+    that / the X] [go by / be / pass / stand]" frame (Ch.1 Szabo, Ch.5 Mara, Ch.6 Valens, Ch.8 Kallia, the Ch.11 draft ×2, and "I let
+    the question stand", cut at F1). Ch.11 has **1** left ("He answered neither."). Cap ≤1 per chapter; a refusal goes into bare
+    silence or work, never a gloss. **A repair that removes a refrain checks where the refusals went** (C-01 turned eleven "No."s into
+    five narrated silences: the repeat moved sideways).
+  - **"Hands stopped" / work-suspended tells: cast-wide WATCH.** Kallia's (Ch.7, 9, 10) is capped and barred from her Ch.16
+    farewell; Mara has used hers in Ch.11 ("I put no stitch in it"). **Valens is not to become the third character with a
+    stopped-work tell** (F1 cut "The lace stopped at his ankle": the struck knot device's function, hands as a barometer at the
+    freedom question, reversed). Any further instance for anyone is a defect. A held silence is left bare.
+  - **The struck knot device, restated:** a knot within reach of Valens's hands when feeling threatens is a defect (the prior run's
+    struck card; sample-10's "knotted lead rope"). **The boot lace: replaced, DONE**; Ch.7's broken lace is never pointed at. **A
+    recast that removes a device checks that the replacement does not keep the device's function at the device's trigger.**
+  - **Felix's exits by the same sentence shape** (line + tag + "and" + exit: "said Felix, and was gone." / "he said, and went out"):
+    **at cap**, 2 after F3; Ch.12 ≤1. **Felix's speed rendered by beating someone's speech** ("before [X] had finished", "before the
+    word was out"): **SPENT** after the first sentence of Ch.11. Felix's "already [somewhere]": 2, at cap.
+  - **Valens's walk-off exits after a line:** 5 in Ch.11 (plus 3 logistic). Not Kallia's capped walk-off in new clothes: **≤3 in
+    Ch.12.** Scene units closing on a dry capper: 6 of 13 in Ch.11, 4 of them with an exit (WATCH); Ch.12's scenes end on an act or a sense.
+  - **Used once, each SPENT:** the near-kiss staging; the anchor (the mule standing on her bad foot so the boy can sleep); the fig
+    wager (midwinter jars, "Somebody else would have to open mine", "Then I'm right."); the god's-day paraphrases (above); the reading
+    reveal (the sherd edit, "It was on the bench." / "I did hear it.", the lie to Felix); **the "Who keeps the door, while they
+    sleep?" / "A lock does. In my country every door has its own." exchange**; "He came nearer"; "[act], and [the X] was there."
+    (Ch.6 ×2, Ch.9, Ch.11: SPENT).
+  - **The voice-bank Ch.15 sample (sample-10) stays RESERVED for Ch.15.** Ch.11's near-kiss borrowed from it once (the knotted lead
+    rope, the paired "Neither of us…", the non-answer that is an answer) and that was fixed in polish cycle 1; **no further
+    borrowing.** Samples 09 (Ch.25: "my knees went, and I sat down") and 10 are compared **by structure** before any intimacy or
+    collapse beat. Knees putting Mara down before hunger (Ch.4) is spent.
+  - **Body facts and introductions do not travel between characters:** the broken-and-mended nose is Nikaso's (Ch.8), CLOSED for
+    every other face; the age-hedge / tunic / belt / hair skeleton is the Ch.4 goat-boy's. **Every new introduction is compared with
+    every earlier one of its kind** (boys, women at a gate, men at work).
+  - **One-word lines are checked across chapters:** "Women?" is Mara's Ch.8 line (Valens's became "Children?"). Keep a registry; a
+    one-word line used in a second chapter is a defect.
+  - **Mara's origin begun and cut off at a dash: SPENT** (Ch.6 ×2, the Ch.11 draft). The refusal of her story stays a theme; its
+    staging changes every time (Ch.11: she finishes the sentence and he leaves on it).
+  - **Valens's voice volume:** not tagged twice in a chapter; "in Latin, low" to a mule SPENT (Ch.6 ×2). Ch.11 has one "very low"
+    (the protected first sentence). **"with great [noun]" as a tag: SPENT book-wide** (Ch.3, Ch.6; the Ch.11 draft's "with great
+    care" and "with great bitterness" cut).
+  - **"door"** is Ch.11's weighted noun (the bells exchange two lines running; the sherd; "at the door"). WATCH: no "door" rhyme in
+    Ch.12–13 narration; the god's answer is never pointed at.
+  - **Felix's "nobody"** in speech: 6 in Ch.11 (WATCH). **Mara's "Who…?" question opener:** WATCH (five in Ch.11).
+  - **Anti-AI forecasts count patterns, not instances:** a pattern clears only when its last instance goes. The Ch.11 scan was
+    9/20 at the watch-band bottom after cycle 1; F4 cleared #12 (8/20). #3 (rule of three) and #10 (named emotion in a tag) are the
+    habits to watch.
+  - **Repairs create second uses and undo earlier cuts:** C-01's "kept his eyes on the hoof" echoed Ch.7 (possessive swap); its
+    headroom beat "He kept the stone going." restored a whetstone beat the disruptor had cut. Every agent that adds a phrase greps it
+    against the book and reads the previous agent's cut list.
+  - **Carried to the Ch.12 brief:** the money gap settled on the page as an act (ENTITY CH11-3); Valens ≤3 walk-offs, ≤1 bare "No.",
+    ≤1 bare "Felix."; Felix fewer lines than in Ch.11. **Carried to Ch.13:** whose name the priest writes, shown without a gloss.
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
@@ -2969,3 +3114,45 @@ finalizing the chapter. Never add a tic to fix it.
   openers on WATCH). Ch.11 blocks added for Mara, Valens (the full two-hander: figs, the lame black, the reading reveal, Felix, the
   refused kiss, the agreement with no reason) and Kallia; a Ch.11 walk-on note; an at-risk block. Unnamed-role table: Kallia's cousin
   promoted. Tic-bearer roster still NONE.
+- 2026-10-20 (bookkeeping sync, Ch.11 FINAL page after dialogue-polish, hook-craft, the disruptor, continuity repair, polish cycle
+  1 and finalize lines F1, F3, F4; no chapter text touched; git not run; covers eval Revision #16 / audit W-14 and the bible side of
+  ENTITY_STATE CH11-1): every Ch.11 quotation in the bible (MARA, VALENS, KALLIA, FELIX and PRAXIAS Ch.11 blocks, the Praxias card,
+  the Ch.11 walk-on note, the at-risk after Ch.11 block) was checked by script against chapter-11.md, and each one no longer on the
+  page was replaced or removed. MARA: "At the end of summer I shall not be here" → "Somebody else would have to open mine,"; "Felix
+  says you cannot read." removed; "Women too. Children…" → "Once they are old enough to be late."; "In my country—" → "A lock does.
+  In my country every door has its own." (no dash); the relief simile and "my knees put me onto it" → "The packsaddle had been on
+  its trestle at my back, and I was on it" + "Everything in me that had been held up came down, and I was hungry."; the rag at her
+  belt (CH11-2); the "not broken so much as" diagnosis gone (F4); new page lines added ("Have you let it stop?", "You had your back to
+  him…", "Perhaps his olives are uphill.", "Where would you stand, in all that?", the merged "You have been in yourself, surely. Or
+  sent a question in…", "The priest will write your name down…", "Nobody. I cannot meet Praxias's price.", "Did he take you to the
+  priests," … "and have it cut on the wall?"). VALENS: the broken nose CUT (body fact now the eyebrow nick only); the obol "held out"
+  and "He took it"; "No." to the ask → "He kept the stone going."; "No." to selling the watch → "With the god's money?"; "Since the
+  mountain"; the knot in a lead rope → the boot lace ("with a foot up on the bench, to put a new lace in his boot" / "He ran the lace
+  on up the shin and tucked the end in."; F1 cut "The lace stopped at his ankle" and the lace no longer stops anywhere); "with the
+  knot still in it" removed; "Come then." removed from the fig wager; "Women?" → "Children?"; "Who isn't?" → "I am."; "In the day." →
+  "Who keeps the door, while they sleep?"; "Those want doing." removed (he leaves in silence); the twitch "No." → "Valens was watching
+  the hoof"; "No." ×2 to the boxing → "The yard's yours till I'm back." and the one "No." to the one-blow question; the low Latin →
+  "Very little of it reached me…"; the gravel track → the lentil-sized black spot; "Felix can't either. It saves arguing." removed
+  (the reveal plays as "I did hear it." and the lie to Felix); "No." ×2 on the walk up → "He answered neither."; "his head coming down
+  and my face lifting to meet it" → "He came nearer, and my face lifted to meet his."; "very low" and "No." at the anchor → "He'll
+  wake when he's cold."; "He let that go by him." removed; the goat line → "He prices for pilgrims. … and he lets you pick your own
+  out of the pen."; the close → "He went to bar the gate…". Page counts and the spent list rewritten from the page. FELIX: every
+  question burst re-quoted from the page; intro → "a thin one of twelve or so, with straw in his hair"; "with great bitterness" gone
+  (F3: no tag); the three speed-beats-speech lines → "Felix had it there, lit." / "Felix left his bucket and went to him." / "The boy
+  was out of the gate and after him."; Knows line now rests on "He can't. Nobody in this yard can but you."; WATCH counts replaced
+  (frame max 2; "already" 2; "nobody" 6; tag-and-exit 2). KALLIA: header only (her scene is unchanged; Mara's replies added).
+  PRAXIAS: "a well-fed, slow-spoken, early-rising man" (W-13). Walk-ons: the abscess, not a gravel track; "a family of Achaeans"
+  (CH11-5); "feeds his bird on wine"; "had haggled him down to nothing"; the fowler and the sailor added as mention-only; Praxias's
+  quail added; the goat man's "He prices for pilgrims." At-risk after Ch.11 re-synced (near-kiss staging, reading reveal, "I did hear
+  it.", the paper answered by the lace, counts on the final page: 5,910 words, dialogue 38%, median 14, em-dash 1, bare "No." 3,
+  non-answers 1). New block **At-risk after Ch.11 FINAL**: Valens's bare "No." ≤1/chapter from Ch.12 and the gate's 1–2-word-line
+  limit (>4 in a chapter fails); bare "Felix." ≤1 and "I am." once; narrated non-answers SPENT as a family ("no answer", "let it go by
+  / be / pass / stand"; Ch.11 has 1); the repair-moves-the-refusal rule; work-suspended tells cast-wide WATCH, Valens never the third;
+  the struck knot restated and the device-function rule; Felix's tag-and-exit at cap, speed-beats-speech SPENT, "already" at cap;
+  Valens's walk-offs ≤3 in Ch.12; used once: the near-kiss staging, the anchor, the fig wager, the god's-day paraphrases, the reading
+  reveal, the "Who keeps the door?" / "A lock does" exchange, "He came nearer", "[act], and [the X] was there."; sample-10 RESERVED for
+  Ch.15 with no further borrowing, samples 09/10 compared by structure; body facts and introductions do not travel (Nikaso's nose
+  CLOSED); one-word-line registry ("Women?"); the origin-at-a-dash SPENT; voice volume and "with great [noun]" SPENT; "door" WATCH;
+  anti-AI counts patterns not instances; repairs read the previous cut list; the money gap (CH11-3) to the Ch.12 brief and the priest's
+  name to Ch.13. Not done here: ENTITY_STATE's CH11-1 flag status (and the writer's report) belong to the entity-tracker /
+  orchestrator. Tic-bearer roster still NONE.
