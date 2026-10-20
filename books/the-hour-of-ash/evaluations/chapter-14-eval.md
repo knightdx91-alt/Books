@@ -398,3 +398,293 @@ The chapter does what the outline asked and the genre usually spends a confidant
 - **The #11 count is a judgment.** Two instances are firm by any standard (the purpose tails, F1 and F2). F3's colon gloss and L1's repair gloss are counted by the standard that counted Ch.13's "where a man could see the whole climb". With only F1 and F2 the chapter sits at 0.66/1k, under the cap, and Prose would rest on its merit (8.0), still below the gate because of the law items. The PATH clears both readings.
 - **The six shard kickers are my classification.** A reader who calls S2 ("got only the benches") a plain result counts five. The PATH brings either count to half or less.
 - Originality, Theme, Pacing, Emotion and Immersion at 9.0, Casual 9.0 and CVI-Launch 8.9 are one-chapter judgments by the system that wrote the book.
+
+---
+---
+
+# Re-evaluation after cycle 1
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Date:** 2026-10-20
+**Text evaluated:** `manuscript/chapters/chapter-14.md` at commit `d6b2bd9` (sha256 `f0e28770…`), the 23 swaps applied. **3,007 words** (shape_check), 3,013 (style_check).
+**Read against:** the book's CLAUDE.md gates; STATE.yaml guardrails and AUTHOR-CP2-1…4; voice-dna §0, §1, §3b, §4, §6; the bible's MARA / VALENS / KALLIA / THEANO / FELIX Ch.14 blocks, the Ch.14 walk-on block, and "At-risk after Ch.13" and "After Ch.14"; outline `## Chapter 14` and Ledger row 14; Ch.2 (the Halloran call), Ch.5, Ch.7, Ch.12 and Ch.13 wherever a swap string touched them; all 13 voice-bank samples.
+**Method:** I checked the diff `85d390f..d6b2bd9` word by word. I ran the real `check_chapter.sh 14` and `shape_check --strict` on the committed page. I ran 3-gram and 4-gram scans of every swap string against Ch.1–13 and the samples. I grepped each swap's frame by hand (possessive and pronoun swaps included), and checked every quote in the bible's Ch.14 blocks against the page by script. The finalize fixes were applied together to a scratch copy, swapped into the manuscript path, run through `check_chapter.sh 14` and `shape_check --strict` from /home/user/Books, and the original was restored after every run (sha256 `f0e28770…` verified). **I did not edit the manuscript.**
+
+## The 23 swaps: applied as tested?
+**Yes, all 23, byte for byte, and nothing else in the prose changed.** The only stale line is the l.4 header comment, which still says "Word count: 3,022" and lists no polish cycle (see FZ-H).
+
+The committed page is **clean on every gate**:
+- style: simile 0.7/1k, em-dash 0, foreshadow 0;
+- grammar 0; rhythm 0; show/tell: no flags (dialogue 4.8%);
+- voice-wear: strict clean;
+- tic gate: clean (and-chains 1/9, credential asides 0, negation pivots 0);
+- echo 0; command echo: none;
+- metaphor 0.7/1k, median 12;
+- shape: `14 3007 9 5 12 I-punch long-fade`, strict CLEAN.
+
+## Did the swaps introduce anything new?
+Gates cannot see frames, triads or sample strings shorter than five words, so I checked those by hand. Five of the 23 swaps brought in something new. The fresh read also found two older problems the cycle left in place.
+
+| Swap | What it introduced | Finding | Fix |
+|---|---|---|---|
+| **F3** l.120 "A husband, or a brother, **or failing those** an owner." | **A triad, and a stacked one.** It is three items joined by "or … or". It follows directly on "A ship's master at Kirrha would want the same, **and** a landlord in Italy, **and** any magistrate." That makes two polysyndetic triads in a row, "and … and" mirrored by "or … or". It is not an anaphora triad: there is no shared opener, and its third item is varied. Stacked, though, it reads as a list device, which the original asyndetic "A husband, a brother or an owner" did not. Patterns #3 and #8. | **YES, new** | FZ1 |
+| **C2** l.72 "He **kept his eyes on** the gate while he asked it." | **A spent frame moved sideways.** C2 removed the SPENT gaze-arrival and replaced it with the gaze-*holding* frame "kept [poss] eyes on the [X]". That frame is already on the page in Ch.7 l.212 ("I kept my eyes on the knot"), Ch.8 l.58 (Theano, "her eyes on the crows"), Ch.13 l.14 (Kallia, "kept her eyes on the water") and, for Valens, Ch.12 l.244 ("his eyes on the pen"). The bible's after-Ch.11 block records this exact repair failure ("C-01's 'kept his eyes on the hoof' echoed Ch.7 (possessive swap)"), and it was cut then. This would be the fifth use, the second chapter running. It also tells "the gate" twice: l.68 already has him "facing the court and the gate". | **YES, new (law)** | FZ2 |
+| **R22** l.28 "I had **the whole** town from above" | **A repeated word.** "Whole" now appears twice in one paragraph ("cut **the whole** place into regions", three sentences on), and four times in the first 600 words, with l.6 "came whole" and l.10 "the whole street". | **YES, new** (small) | FZ3 |
+| **L2** l.10 "with **a smaller one** turned upside down on its mouth" | **A sample string.** "with a smaller one" is a 4-gram from **sample-13** ("a broken gray cone with a smaller one inside it"), the Vesuvius sample itself. Bar: "any phrase in a sample line: 0" (eval 1 cut sample-12's 3-gram "across the threshold" on the same rule). | **YES, new** (sample) | FZ4 |
+| **P11** l.116 "I made the plan **in the middle of the night**." | **A sample string, older than the swap.** The 6-gram is verbatim in **sample-06** ("Someone shoeing a mule in the middle of the night"). The draft already had it ("In the middle of the night I made the plan."); P11 only moved it. The echo scan reads samples at 5+ words and missed it. | pre-existing, **sample** | FZ7 |
+| **R23** l.124 Paul's ship | R23 kept the tail "…brought him in to Puteoli **with the spring**", and the paragraph's first sentence closes on "…opened **with the spring**". That puts the same three words at the end of two sentences five sentences apart. The paragraph's first sentence is also eval 1's last #1 symmetry. | pre-existing double | FZ6 |
+| (fresh read) l.124 "The boats going west at the next new moon were for people who had **both**." | **A logic seam (the Hostile's).** "Both" points back about ten sentences, to silver and a man. The nearest pair is "the autumn … the spring", which makes no sense as an antecedent. | pre-existing, Logic | FZ5 |
+
+**Checked and kept** (each grepped by frame as well as string):
+- **C3** "He slept almost at once." (l.82). "Slept" is now 3 for Valens (l.26 posture, l.82, l.92). l.82 is her belief and l.92 "he slept on, or let me think he did" is her doubt. That is a pair, not the breathing double moved sideways.
+- **P9** "On his blanket" (l.66). "Blanket" runs 5, but these are three different blankets (his, Kallia's, hers) and no phrase repeats. Kallia's burned one, folded in four, is the payoff. WATCH only.
+- **F2** "for the season" (l.54). This is Halloran's own Ch.2 3-gram ("director for the season"), used in a recall of that same call. It is commonplace and needs no pointer, so it is kept. "My father's bed" agrees with Ch.2 l.87 "In Emilio's place".
+- **P10** "He came home lean and dark". Ch.6 l.332 has "he came home" in her speech about his lateness. That is a topic, not a frame, and the September marker is gone ✓.
+- **L2** "big jar" twice in l.10, and "big jar stood" against Ch.5 l.409. Kept: the Hostile's jar fix needs one stable name. "On its mouth" in Ch.7 l.222 is the lion's mouth, a different referent.
+- **F1** "like sherds in a tray". A characterizing simile from the lab domain: not #11, and the gate counts 0 credential asides. Similes run 2 (0.7/1k).
+- **P1** "It was thin in places and never floated smooth." A condition, not a verdict on an absent workman ✓.
+- **C1** "He gave the crows' house above us one look." No item-by-item look, and "took in" is gone ✓.
+- **C4** "within reach of my hand" answers l.84's drawn-back hand. It is not announced, and appears once ✓.
+- **P8 / P6** "the name" and "Its sea": "the word" is down to 2, the triad is broken, and both are clean against the corpus ✓.
+- **L1 / L3**: the supper seam and the gate-bar seam are both closed ✓.
+
+## The CH13-7 handling: is the cave errand still set up for the morning? YES, and more clearly than before.
+- **Raised:** S9 opens "That left the cave." (P2). The Ch.13 pointer is gone, but the cave is plainly the other door ("If it had, there was no need of Italy at all. That door went home with no sea in the way, and no town.").
+- **Wanted:** "Before I crossed a sea away from that cave I wanted to stand in it in daylight, with my fingers on the crack, and feel nothing come through." (P3, a threshold touch in fresh words).
+- **Scheduled:** "I meant to go up as soon as it was light, with Valens and the mules if he would come, and alone if he would rather sleep." (P4). This now names who and what, so S10's "He's gone down for the mules," … "You're to wait for him at the bottom of the climb." answers it directly. Before the swap the reader had to infer that link.
+- **Pointed at, without words:** the last image is "the path to the plateau scratched up the rock in its short turns and nobody on it yet". The plateau is where the cave is (Ch.3, Ch.6).
+- Ch.15 still owes the clause that accounts for the visit (bible at-risk; outline).
+
+## Finalize fixes (tested together; all gates clean; ≥3,000 ✓)
+| # | Location | Exact string now | Replace with | Δw | Why |
+|---|---|---|---|---|---|
+| **FZ1** | l.120 | `A husband, or a brother, or failing those an owner.` | `A husband or a brother; failing those, an owner.` | −1 | Unstacks the triads: two items and a dry rider. The aside survives. |
+| **FZ2** | l.72 | `He kept his eyes on the gate while he asked it.` | `He left the knife where it was.` | −4 | Drops the gaze frame and the second "gate". The knife stays through the question, and l.78 "The knife went back into his belt." now pays it off. |
+| **FZ3** | l.28 | `had cut the whole place into regions` | `had cut the place into regions` | −1 | One "whole" per paragraph. |
+| **FZ4** | l.10 | `with a smaller one turned upside down on its mouth` | `with a small one turned upside down on its mouth` | 0 | sample-13 4-gram. |
+| **FZ5** | l.124 | `were for people who had both.` | `were for people who had the fare and a man.` | +4 | Gives "both" a referent. |
+| **FZ6** | l.124 | `closed with the autumn and opened with the spring.` | `closed with the autumn and opened again in spring.` | 0 | Ends the "with the spring" double and the #1 mirror. Paul's tail stays. |
+| **FZ7** | l.116 | `I made the plan in the middle of the night.` | `I made the plan while my feet warmed.` | −1 | sample-06 6-gram. The time comes from the body, straight after "until the cold was in my soles". It still rhymes with "I knew the year." |
+| **FZ-H** | l.4 (comment) | `Word count: 3,022 (shape_check)` | `Word count: 3,003 (shape_check)`, and add to the Revision list: `; polish cycle 1 2026-10-20 (23 eval swaps); finalize FZ1–FZ7 2026-10-20` | — | Bookkeeping only. Gates ignore comments. |
+
+**Tested result** (all seven prose strings applied together; sha256 of the tested copy `80e6f4c5…`):
+- **Words:** shape_check **3,003**; style_check 3,009; metaphor 3,004.
+- **Ledger fields:** 9 breaks, dialogue 5%, median 12, `I-punch` → `long-fade`, all unchanged. First sentence and last paragraph byte-identical.
+- **`check_chapter.sh 14`:** style clean (simile 0.7/1k, em-dash 0, foreshadow 0), grammar 0, rhythm 0, show/tell no flags, voice-wear strict clean, **tic gate clean**, **echo 0**.
+- **`shape_check --strict`:** CLEAN.
+- **Command echo:** one candidate printed, "Was that you?" → "he left the knife where it was". It is a false positive: a question, not an order, and nothing is repeated back.
+
+Script: `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/ch14-finalize.py <in> <out>`. It asserts one match per string. That path is session-scratch; the table strings above are exact.
+
+**Do not use** (each failed on my first try):
+- `He asked it with the knife still out.`: the echo scan caught it as pronoun-swapped from Ch.7 l.360 ("she asked it with the basket still on her arm").
+- `I made the plan when the court had gone quiet.`: tic gate FAIL ("had gone quiet" would be 3 book-wide, after Ch.9 and Ch.13).
+- `…brought him in to Puteoli.` (cutting Paul's tail): fine on the gates, but it took shape_check to exactly 3,000 with FZ7. FZ6 does the same job at 0 words.
+- `The knife stayed where it was…`: three paragraphs in ten lines would open "The knife" (l.68, l.72, l.78), a paragraph-opener triad.
+
+---
+
+## HEADLINE (cycle 1, with FZ1–FZ7)
+**CVI-Launch:** 8.9 | **CVI-Legacy:** 6.9 | **Genesis Floor:** **8.5** | **Genesis Average:** **8.86** | **Casual:** **9.0** | **Pacing:** OK
+**Engagement:** Empathy 55 / Fascination 30 / Self-insertion 15 (unchanged). **Divergence:** none (8.9 − 8.5 = 0.4).
+
+## Genesis Score
+Per-cycle rule: a dimension may rise at most 0.5 above the first eval. A capped dimension is measured from its on-merit score, as in Ch.10, 12 and 13.
+
+| Dimension | Eval 1 | Cycle 1 | Evidence | Cap / hold |
+|---|---|---|---|---|
+| Originality | 9.0 | **9.0** | Every invention eval 1 cited is intact: the jar held past full, "beyond me", the casts and the pretzel, "a boy of nine now", the dog on the tomb road, Halloran outranked, "fish sauce", "He kept being in it." | Not 9.5: the laugh's source is Halloran again, and the casts come with a parent one chapter after the slides (both unchanged). |
+| Theme | 9.0 | **9.0** | Carried by acts. "I drew the hand in." is now answered inside the plan by "asleep within reach of my hand" (C4), so the cost reaches the plan without a word pointing at it. Texture stays: the girl's name in the sleep-talker's grievance, the god's mutton, the burned blanket. | Not 9.5: "It was more time than I had been given for anything in my life." still edges toward stating the cost. |
+| Characters | 8.5 | **8.5** | Mara: chaos 4/4, inhabited (the jar; "This summer would do"; the casts triggered by the plaster and returned to it; the laugh that "came round the sides anyway"). Valens: the knife before he is awake, "She'll dig it crooked.", and gone for the mules unasked. Kallia: "It isn't their knees.", the burned blanket, folded in four. Cover-the-name PASS. C1, C3 and C4 left Valens's stage business clean. | **No cap after FZ2.** Left as committed, C2's "kept his eyes on" would make the gaze-holding frame recur chapter on chapter (Ch.13 Kallia, Ch.14 Valens), which falls under the gesture-class rule. Gate classes clean; deliberation pause 0 for Valens ("He weighed me a while longer." is gone). Not 9.0: the low-dialogue design gives the cast one exchange each. |
+| **Prose & Voice** | 7.5 capped (merit 8.0) | **8.5** | **#11: 0 firm** (was 4 at 1.32/1k), with three borderline clauses kept (≤0.99/1k even if all are counted). Every SPENT frame eval 1 listed is off the page: "Whoever plastered it", "took in … my wet front", "came round then", the "Tomorrow" pointer, "see it shut", the cat reorder, "across the threshold", the September father. Shard kickers 6 → 4 of 9; the soft triad and the adjacent time openers are fixed. **Stopping sentence:** "He was a boy of nine now, somewhere in the north of Italy, at his lessons." **Underlines:** eval 1's set, plus "It was thin in places and never floated smooth.", "like sherds in a tray" (her trade in a clause, unannounced) and "asleep within reach of my hand with a price on him in Corinth". **Ugly sentence** kept: "The jar was heavy and I got it up there and she said nothing of it at all." **Voice under pressure:** shown as before. | **+0.5 on merit (8.0 → 8.5), the per-cycle maximum, earned by 23 cited swaps.** The score is for the page **with FZ1–FZ7**. As committed, FZ2 (a SPENT-family frame moved sideways, the failure the bible already names) and FZ1 (stacked triads) hold Prose at **8.0**. FZ1–FZ7 are therefore **mandatory at finalize**, as F1–F3 were for Ch.13. Anti-AI 7/20 (clean band). |
+| Pacing | 9.0 | **9.0** | Ledger met on every hard field at 3,003w. P4 + S10 make the pull concrete (the cave → "He's gone down for the mules"). FZ5 removes the one stumble in the plan shard. | Not 9.5: the tombs and Saint Paul paragraphs are still the slow spots. |
+| Emotion | 9.0 | **9.0** | Anchor: "It had been there all evening, the word, behind my teeth" → the well → "To everybody under that roof it was a town in Italy where they made fish sauce." Surprise: the laugh's squeak, eyes dry. Body rebel: jar, laugh, fingers back on the plaster. At least 5 techniques. | Not 9.5: fifth laugh-as-peak in the book (mandated; the shape is new). |
+| Immersion | 9.0 | **9.0** | R23 now has the Acts sequence right: wrecked on Malta, then another Alexandrian that wintered there. "Never floated smooth" is a plasterer's word. The lion fountain, the rag ring, the cabbage leaves, salt water at the drain. | #15 minor (Paul, the season). |
+| **FLOOR** | 7.5 | **8.5** | | |
+| **AVERAGE** | 8.71 | **8.86** | (9.0 + 9.0 + 8.5 + 8.5 + 9.0 + 9.0 + 9.0) / 7 = 62.0 / 7 | |
+
+## Anti-AI scan (final page, with FZ1–FZ7; 3.0k; commercial band)
+| # | Pattern | Result | Density | Note | Weight |
+|---|---|---|---|---|---|
+| 1 | Forced symmetry | **Clear** | | FZ6 breaks the season mirror. "I left him out of the plan. He kept being in it." is designed. | |
+| 3 | Rule of three | Found, moderate | 2 (0.67) | The ship's master / landlord / magistrate; the oil jars / sack / smell. FZ1 takes out the stacked third. | −0.25 |
+| 6 | "And" opener | Found, minor | 1 | "And the god of Greece…" | −0.125 |
+| 8 | Parallelism | Found, moderate | 2 | "It was there. It had been there"; the anadiplosis "if it was Italy. It was Italy." (at its cap of 1). | −0.25 |
+| 9 | Smooth transitions | Found, minor | 1 | A weak time ladder ("Some hours on," … "Long before the gray,") and "That left the cave." | −0.125 |
+| 13 | Precision flex | Found, minor | | Arithmetic is the chapter's subject; "folded in four", "most of an hour". | −0.125 |
+| 15 | Authoritative description | Found, minor | | Paul and the sailing season. | −0.125 |
+| 16 | Philosophical aside | Found, minor | 1 | "Men went where the work was." (her rationalization, "I told myself"). | −0.125 |
+| 2, 4, 5, 7, 10, 11, 12, 14, 17, 18, 19, 20 | | **Clear** | | #11 has 0 firm instances. | |
+
+**7/20, −1.125, clean band** (the committed page is 8/20, −1.375: #1, plus #3 at 1.0/1k and #8 at 3 with the stacked triads).
+
+## The book's own laws (final page)
+- **No foreshadowing: 0** (gate and hand). Every forward line is an intention or a plan ("I meant to go up as soon as it was light, …"). AD 79 appears only as Ch.14 present thought; the mountain is never personified.
+- **Memory (CP2-2): PASS.** The casts are triggered by the plaster and return to it. The Halloran/father run is triggered by her chain of thought and returned by the laugh.
+- **Explanation density: PASS.** 0 firm.
+- **Paragraph-final negations: 4** (1.33/1k ≤ 1.5).
+- **Tics, verbal: 0.** "The word" as stand-in: 2, CLOSED.
+- **Tics, gestures:** gate classes clean. The gaze-holding frame is 0 after FZ2. Kallia hands Mara an object twice: WATCH.
+- **Fragmented reflexes:** no anaphora triad. Shard closers on a turned line: 4/9. S9's "and alone if he would rather sleep" is plain logistics with a dry tail, and S10 answers it. Shard openers: no two on the same word.
+- **Reuse:** 0 after FZ1–FZ7 (see the swap audit).
+- **Retired reflexes:** none.
+- **Ledger:** every field ✓. **Outline beats 1–5** ✓; non-negotiables (the laugh, the plan) ✓.
+
+## Reader reports (cycle 1)
+- **Devourer:** reads it in one go. The plan shard no longer snags on "both" (FZ5), and "with Valens and the mules" makes the last page's "He's gone down for the mules" click. Still slows at the tombs and at Paul. **Does not stop.**
+- **Critic:** underlines eval 1's set plus "never floated smooth", "like sherds in a tray" and "within reach of my hand". On the committed page they would mark "He kept his eyes on the gate" (the book's eye-holding habit, once more) and the two triads in a row. After FZ the only residual complaint is the familiar laugh channel.
+- **Hostile:**
+  - The jars, the bar, the supper seam and Paul's ship are all closed.
+  - **New:** "people who had both", both what? (FZ5).
+  - Checked: "my father's bed" agrees with Ch.2's "In Emilio's place". "He slept almost at once" then "or let me think he did" is belief then doubt, not a contradiction. "I held the jar" reads as the small one.
+  - Verdict: "no hole".
+- **Casual (9.0):** none of the swaps is visible to this reader, so the hook, the jar, the laugh, the knife, "fish sauce" and "a boy of nine now" all stand. FZ5 removes the one sentence they would have read twice. **Buys after 3 pages; stays.** Not 9.5: very little talk, and three history passages.
+- **Devoted:** will post the Acts detail (the wreck, then the second Alexandrian), Fiorelli, and the 1979 dog cast against the dog on the tomb road. Would have caught the eye-holding frame and the sample-13 string. Neither survives FZ.
+
+| Issue | Dev | Crit | Host | Cas | Devoted | Severity |
+|---|---|---|---|---|---|---|
+| FZ2 eye-holding frame moved sideways | | ✓ | | | ✓ | SHOULD FIX, **blocking** (law) |
+| FZ1 stacked triads | ✓ | ✓ | | | | SHOULD FIX, **blocking** (reflex named in the brief) |
+| FZ5 "both" | ✓ | | ✓ | ✓ | | IMPORTANT, fix (logic) |
+| FZ4 / FZ7 sample strings | | ✓ | | | ✓ | SHOULD FIX, fix (bar = 0) |
+| FZ3 / FZ6 in-paragraph doubles | | ✓ | | | | INVESTIGATE, fix (0–1 words each) |
+
+## Tomorrow Test / Shareability
+Unchanged: **ANCHOR EXISTS** (BOTH types). The image: the word kept behind her teeth a yard from the man who carried it out, the well story told instead, the hand drawn in, and "a town in Italy where they made fish sauce". The quote: "He was a boy of nine now". No swap touched an anchor. Shareability as eval 1.
+
+## CVI
+- **CVI-Launch: 8.9**, unchanged (8 / 10 / 9 / 7.73 / 10 / 5 → 8.45 + 0.5 anchor). Running Ch.11–14: 9.5 / 9.7 / 9.8 / 8.9.
+- **CVI-Legacy: 6.9** (provisional), unchanged. One re-read reward is added: "within reach of my hand" against the drawn-back hand.
+
+## Pacing check (one line for `feedback/progress.md`)
+Ch.14 FINAL (1 cycle + FZ1–FZ7) · Fragmented *one night in shards* between Ch.13 Parallel and Ch.15 Chronological ✓ · **3,003w** (target 3,400, −12%, in range 3,000–3,800; not padded) · dialogue 5% (0–10 ✓) · 9 breaks ✓ · gear low, median 12 ✓ · `I-punch` → `long-fade` ✓ · value shift + / − / − / + ✓ · the pull is soft by design and concrete (the cave errand → the mules) · book 75,124 vs 81,000 cumulative (−7.3%; ≈242k projected, 220k floor safe). **Verdict: OK.**
+
+## VERDICT
+**PASS: Floor 8.5 / Average 8.86 / Casual 9.0 / Pacing OK / gates clean, with FZ1–FZ7 applied at finalize** (tested together; 3,003 words). Without FZ2 and FZ1, the page as committed holds Prose at 8.0 and the gate is not met.
+
+| Measure | Result |
+|---|---|
+| Genesis Floor | **8.5** (Prose & Voice 8.5 and Characters 8.5) |
+| Average | **8.86** |
+| Casual | **9.0** |
+| Pacing | **OK** |
+| CVI-Launch / CVI-Legacy | 8.9 / 6.9 |
+| Mechanical suite (with FZ) | all clean; echo 0; tic gate clean; voice-wear strict clean; shape strict CLEAN |
+| Foreshadowing | 0 |
+| #11 | 0 firm |
+| AI patterns | 7/20 (clean band) |
+| CH13-7 | set up for the morning ✓ (clearer than before) |
+
+## Character-bible re-syncs for Ch.14 (orchestrator; apply after FZ1–FZ7, against the FINAL page)
+Every Ch.14 block still quotes the Writer's draft. Mark each block **"SYNCED 2026-10-20: FINAL page, polish cycle 1 + FZ1–FZ7"** and make these changes. Quotes on the right are verbatim from the finalized page. Line numbers are the bible's current ones.
+
+**MARA, "Ch.14 as written" (l.317–355)**
+1. Header: replace "quotes are the Writer's page, re-sync after the chain" with the SYNCED tag.
+2. "to Valens at the corner "Her water carried."" → to his "She kept you." she says "Theano's jar was empty." (true).
+3. Delete "Kallia "had had every other piece of it from me, in its order" (the Ch.12 all-or-nothing rule turned to its "nothing"; not pointed at)". The page has "Kallia asked me nothing." at supper, and her one question at midnight pays it off (L1).
+4. The verse decoded: "the sea to the west was the bay under it" → "Its sea to the west was the bay under it." Add: the year arrives "before her mouth had quite closed on the name".
+5. "What a single person in that town called a single street was beyond me." → "What anybody in that town called a single street was beyond me."
+6. The town from a plan: add "I had the whole town from above, the way a plan in a book had shown it to me." Change Fiorelli to "An Italian in the 1850s had cut the place into regions and blocks and doors and numbered every one, like sherds in a tray."
+7. Pliny: "one man set down in two letters to Tacitus nearly thirty years afterward" → "The day was in two letters, as much of it as one man set down for Tacitus nearly thirty years afterward." Add "Stones fell on the far shore all that afternoon and all night." (W-07).
+8. **The casts, 1979, with the dog:** replace "February 1988 … twenty-three, a head cold, a paper on Augustan coinage" and the briquette with:
+   - "In April of 1979 some of the casts had crossed the Atlantic. My mother took me up on the train to see them on a Saturday. I was fourteen, with a head cold and a book report due on the Monday."
+   - "in a long, dim gallery on platforms behind a rope"
+   - "His tunic had rucked at the hip, and the folds of it stood out in the plaster."
+   - "Further along, a dog lay twisted on its back with its legs in the air and its collar still on."
+   - "We stayed until a guard came through ringing a hand bell. In the station my mother bought me a pretzel from a cart."
+   
+   **The carbonized loaf: 0 on the page** (delete the briquette). Ends: "Kallia's plaster was cold. I took my fingers from it, and some while later they were back on the patch by the jamb." The plaster: "It was thin in places and never floated smooth."
+9. **The laugh trigger:**
+   - "a room with a window in it. So that somebody would see the place." → "He had offered me my father's bed in the house the survey rented, a room with a window in it, for the season."
+   - "Every year there was next year. Next year there was never room." → "My father went to the past every summer of my childhood. He came home lean and dark, with his boots in a grocery bag and his head still full of somebody else's century. Every year it was going to be next year, and then next year there was never a spare bed."
+   - "He had not troubled with a permit. He had picked the year." / "I laughed." → "And the god of Greece had heard my question out, with a gladiator standing for me at the screen, and found me a place in Campania after all. He had outranked Halloran. **He had picked the town.**"
+10. **The laugh:** replace "I put my wrist across my mouth and the laugh came round the sides of it anyway…" with "The laugh was loud, the loudest I had made in that house in all my months there. It went straight out past Valens and over the court. A Thessalian stopped snoring. I put my wrist across my mouth and it came round the sides anyway, in bits, high, with a squeak in the top of it that I had never heard myself make. My eyes stayed dry. The muscles under my ribs hurt. It stopped some while after the funny part had gone out of it."
+11. Body rebel: add "I kept on holding it."
+12. **The plan:**
+    - "A husband, a brother or an owner: somebody whose name went down first." → "A husband or a brother; failing those, an owner."
+    - Add "The one man I had was asleep within reach of my hand with a price on him in Corinth."
+    - "The boats going west at this new moon were for people who had both. Next spring, then." → "The sailing season closed with the autumn and opened again in spring. The boats going west at the next new moon were for people who had the fare and a man. Next spring, then."
+    - "Saint Paul's Alexandrian grain ship to Puteoli" → "His grain ship went aground on Malta, and another Alexandrian that had wintered there brought him in to Puteoli with the spring."
+    - Add "I made the plan while my feet warmed." (the S8 opener) and "It was a good plan. I said it over once more, bowl to door." (no "and it held").
+13. **CH13-7:**
+    - Add the opener "That left the cave." (the "'Tomorrow,' I had said" pointer is cut).
+    - Add "…I wanted to stand in it in daylight, with my fingers on the crack, and feel nothing come through."
+    - "I meant to go up as soon as it was light and find out which." → "I meant to go up as soon as it was light, with Valens and the mules if he would come, and alone if he would rather sleep."
+
+**VALENS, "Ch.14 as written" (l.750–760)**
+14. Header: SYNCED tag.
+15. ""What did she want?" (to Mara's "Her water carried.", he "took in the crows' house above us, and my wet front")" → ""She kept you." (Mara: "Theano's jar was empty."); "He gave the crows' house above us one look.""
+16. The knife paragraph: drop ", not me". Add "On his blanket Valens was up on one elbow. He had moved in silence." and "He spoke under the sound of the Thessalians' breathing."
+17. ""What?" (one word, spoken low)" → "Was that you?"
+18. Delete "He weighed me a while longer." (his one deliberation beat). Put "He left the knife where it was." (FZ2) in its place, then "The knife went back into his belt." **Deliberation pause for Valens: 0.**
+19. **Moon:** "There's no moon till the new one," … "She'll dig it crooked." → ""The moon's down by midnight," he said. "She'll dig it crooked.""
+20. Add "He slept almost at once." Asleep "across the door of the storeroom" stays.
+21. Spent in Ch.14, add: the knife held through a question and put back after the answer ("He left the knife where it was."); "The moon's down by midnight,".
+
+**KALLIA, "Ch.14 as written" (l.1048–1058)**
+22. "She returned with her own blanket on her arm." → "She went into her room and was back with her own blanket on her arm."
+23. Add "The boy drank the salt water and was sick with it again. Kallia filled the cup again." and "Kallia emptied the cup into the drain and took back the lamp."
+24. "stands at the gate with the bar" → "Kallia stood at the gate, ready to lift the bar." … "She took the bar down and let me into the lane." (L3).
+25. Add "Kallia's blanket lay on the threshold, folded in four." Add the note that her midnight "What did Theano want with you?" now pays off "Kallia asked me nothing." with no gloss.
+
+**THEANO, "Ch.14" (l.1137–1141)**
+26. ""inside her door, beside the loom"" → "Inside her door, beside the loom, her big jar stood empty, with a small one turned upside down on its mouth."
+27. "her cat sleeps on the hearth" → "I tipped it into her big jar; the cat opened one eye at me."
+
+**FELIX, "Ch.14" (l.1261–1263):** verbatim; tag only.
+
+**Ch.14 walk-ons (l.2085–2099)**
+28. Header: replace "re-sync after the chain" with the SYNCED tag.
+29. "wrapped in fig leaves" → "wrapped in cabbage leaves" (W-13).
+30. Delete ""in a low voice, with great seriousness"". It is not on the page, and "with great [noun]" is SPENT. The page has ""It was the ram," the father told me across the boy's back."
+31. Mention-only:
+    - Saint Paul → "(his grain ship aground on Malta; another Alexandrian that had wintered there brought him in to Puteoli)".
+    - "the woman in a fur hat and her husband (1988, memory)" → "(April 1979, memory)".
+    - "the pretzel man with the cart" → "a pretzel from a cart" (no man on the page).
+    - Add "**Mara's mother** (memory only: took her on the train to the casts on a Saturday, 1979; bought the pretzel)", and "the dog cast".
+
+**At-risk after Ch.14 (l.3403–3449)**
+32. Header: "3,106 words (shape_check) … counts from the Writer's page, re-measure after the chain" → "**3,003 words** (shape_check), dialogue 5%, median 12, `I-punch` → `long-fade`" plus the SYNCED tag.
+33. **The laugh:** replace "came round the sides of it anyway…" and "ran on well after the funny part had gone out of it" with the page's wording (item 10). The trigger "He had picked the year." → "He had outranked Halloran. He had picked the town." Add **Halloran: CLOSED as a laugh trigger (Ch.2, Ch.14).**
+34. **Halloran's offer:** add "my father's bed … for the season" (once; "for the season" is Halloran's own Ch.2 3-gram, so do not use it again). "Every year there was next year…" → the page's sentence (item 9). "next season, you come with me" is still unspent ✓.
+35. **AD 79 set:** add "Stones fell on the far shore all that afternoon and all night." to the SPENT words.
+36. **"The 1988 casts: SPENT …"** → "**The April 1979 casts** (at fourteen, a head cold, a book report due; her mother; the train; a Saturday): SPENT. That covers the man on his side, the rucked tunic, the laces in the instep, the fur-hat woman's "bigger", the dog on its back "with its collar still on", the guard's hand bell, and the pretzel to Trenton." Then:
+    - The loaf line → "the carbonized loaf: 0 in Ch.14; it stays the reader's."
+    - Add: "the dog cast and "nothing going past it but a dog": a rhyme her own mind makes, once."
+    - Add: "a parent showing the child antiquity: Ch.13 (father), Ch.14 (mother); the next memory has no parent in it. The father's September return: CLOSED as a memory frame (Ch.3, Ch.13). **No longer memory in Ch.15 or Ch.16.**"
+37. **Town from a plan:** add "I had the whole town from above" and "like sherds in a tray" (once each).
+38. **She tells no one:** "Her water carried." → "Theano's jar was empty." The substitute anecdote is SPENT.
+39. **Plan shapes:**
+    - "A husband, a brother or an owner: somebody whose name went down first." → "A husband or a brother; failing those, an owner."
+    - ""It was a good plan." … "and it held."" → ""It was a good plan. I said it over once more, bowl to door.""
+    - Add once each: "asleep within reach of my hand", "the fare and a man", "opened again in spring", "I made the plan while my feet warmed.", and Paul's ship in the page's words.
+40. **CH13-7:** Ch.14's own cave words add "That left the cave." and "with my fingers on the crack, and feel nothing come through". The errand line is item 13's.
+41. **The moon:** replace the whole bullet ("The old moon before dawn ("a paring of it, too thin to give any light") and Valens's "There's no moon till the new one"") with:
+    - "**The half moon** ("Long before the gray, the half moon had dropped behind the western hills, and the court was black to the walls.") and **Valens's "The moon's down by midnight,"**: once each (continuity C-01: the moon phase for the 7th)."
+    - "**"the next new moon"** (the boats): once."
+42. **Ending image:** "in its long turns" → "**in its short turns**". The full sentence: "…with the path to the plateau scratched up the rock in its short turns and nobody on it yet".
+43. **One-off comparisons:** delete the briquette. The comparisons are now "than the cat on Theano's hearth" and "like sherds in a tray"; **simile count 2 (0.7/1k)**.
+44. **Counts (FINAL page):**
+    - Reflex counts: hinge openers 0; "So" 0; "before I had" 0; negation pivots 0; and-chains 1 (cap 9); credential asides 0; "as if" 0; em-dashes 0; semicolons 5.
+    - Gestures: object handling 0 (gate); kneel/crouch 0; bend 0; hand/chin on the knee 0; **deliberation pause 0 by gate, 1 by hand (Mara, "I lay and argued it both ways"; Valens 0)**; exit by gait 0.
+    - Speech habits: bare "No." 0; narrated non-answers 0; "said/told the [non-listener]" 1 ("toward the jars"); **call-out pointers 0** (both cut, L1 and P2).
+    - Other: the lamp as scrutiny 0; memories 1; laughs 1; teeth 0; English 0; echoes 0; foreshadowing 0.
+    - Density: **#11 0 firm** (3 borderline); paragraph-final negations 4 (1.33/1k); shard closers on a turned line 4/9.
+    - Doubles kept on purpose: "the word" 2, CLOSED; "blanket" 5 (three blankets), WATCH.
+45. **Tool/text note (the Armada):** "Ch.10 now reads "the way I knew the date of the Armada" (one word…)" → "Ch.10 now reads "**the way I knew the Armada**" (commit 8332ff3 cut "the year of"; nothing else in Ch.10 touched)."
+46. **New at-risk entries from this cycle:**
+    - **The gaze-holding frame "kept [poss] eyes on the [X]": CLOSED** (Ch.7, Ch.8, Ch.13; Valens's "his eyes on the pen", Ch.12). Ch.14 has 0 after FZ2.
+    - **"asked it with the [X] still [Y]"**: SPENT (Ch.7).
+    - **"had gone quiet"**: 2 book-wide (Ch.9, Ch.13), CLOSED.
+    - Kallia handing Mara an object: 2 in Ch.14, WATCH (≤1 in Ch.15–16).
+    - "Whoever … had" (the absent-workman frame): still SPENT, zero tolerance ("Whoever took me to that town" is not that frame).
+    - Stepping over a sleeper: SPENT.
+
+**Ch.10 Armada lines elsewhere in the bible**
+47. l.179 (MARA Ch.10 block) and l.3077 (at-risk after Ch.10): "the way I knew the year of the Armada, as a date on a page with a fire in it" → "**the way I knew the Armada, as a date on a page with a fire in it**". The page is Ch.10 l.68.
+48. CHANGE LOG l.3920: the Writer entry says ("year" → "date" of the Armada). Leave the historical entry as written, and log the correction in the new change-log entry for this sync: "the Ch.10 change was "the year of the Armada" → "the Armada" (8332ff3), not "date"; l.179, l.3077 and l.3448 corrected".
+
+**Also (not the bible):** update the chapter's l.4 header comment (FZ-H). The entity-tracker should re-anchor ENTITY_STATE's Ch.14 quotes to the final page: the jars, the bar, the moon lines, "picked the town", "short turns". STATE.yaml / progress get the pacing line above.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+- Prose 8.5 is the per-cycle ceiling on an 8.0 merit score. It depends on FZ1–FZ7 being applied exactly; FZ2 carries most of the weight.
+- The FZ2 finding is a frame judgment. A reader who treats "kept [poss] eyes on" as plain English would score the committed page 8.5 already. The bible's own after-Ch.11 entry is why I do not.
+- FZ4 and FZ7 apply the sample-string bar to a 4-gram and a 6-gram idiom, on the precedent eval 1 set with sample-12's 3-gram.
