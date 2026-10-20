@@ -31,23 +31,23 @@ word_floor:
 
 phase:
   current: 2
-  status: "Plan follows the author's original script (30 chapters, source order, ~91,856w after the 2026-10-20 outline audit). Ch.1–15 FINAL 2026-10-20 (46,132w; Genesis Floor 8.5 each; all gates clean). Next: Ch.16 'Whitehaven Road' (see project/outline.md); the bandit fight and the heart ring (paid off in Ch.21). See feedback/progress.md."
+  status: "Plan follows the author's original script (30 chapters, source order, ~91,856w after the 2026-10-20 outline audit). Ch.1–20 FINAL 2026-10-20 (61,446w; Genesis Floor 8.5 each; all gates clean). Next: Ch.21 'Strawberries' (see project/outline.md); the lake, Iro, and the heart-ring payoff. OPEN QUESTION to author: does the blood whip need a cut first (Ch.20 has it come 'without a cut')? See feedback/progress.md."
   history:
     - "2026-07-13: architect pass (24-chapter outline); Ch.1–3 drafted and gated."
     - "2026-10-20: author ruled the plan must follow the original script; plan rebuilt to 30 chapters in source order; Ch.1–3 sent back for rewrite."
 
 chapters:
   total_planned: 30
-  completed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+  completed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
   in_rewrite: []
-  scores: {1: 8.5, 2: 8.5, 3: 8.5, 4: 8.5, 5: 8.5, 6: 8.5, 7: 8.5, 8: 8.5, 9: 8.5, 10: 8.5, 11: 8.5, 12: 8.5, 13: 8.5, 14: 8.5, 15: 8.5}   # Genesis Floor, 2026-10-20
+  scores: {1: 8.5, 2: 8.5, 3: 8.5, 4: 8.5, 5: 8.5, 6: 8.5, 7: 8.5, 8: 8.5, 9: 8.5, 10: 8.5, 11: 8.5, 12: 8.5, 13: 8.5, 14: 8.5, 15: 8.5, 16: 8.5, 17: 8.5, 18: 8.5, 19: 8.5, 20: 8.5}   # Genesis Floor, 2026-10-20
 
 genesis_score:
   current_floor: 0.0
   current_average: 0.0
 
 quality_gate:
-  chapters_passed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]            # earlier passes for Ch.1–3 voided by the 2026-10-20 re-plan
+  chapters_passed: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]            # earlier passes for Ch.1–3 voided by the 2026-10-20 re-plan
   chapters_escalated: []
 
 guardrails:
@@ -60,7 +60,8 @@ guardrails:
   - "NO TICS (repo law 2026-10-18); sole exception: Amelia may call Bal 'Master' (author ruling 2026-10-20)."
   - "Fade-to-black. Happy ending as the source has it. KEEP SEPARATE from the-fourfold-crown."
 
-open_author_decisions: []
+open_author_decisions:
+  - "Blood whip: does it come from Bal's right palm without a cut (as Ch.20 now has it; the source doesn't say), or does he cut his palm first?"
 
 decisions:
   - "This book is a folder-per-book project at books/sygl-book/; blueprint stays in project/."

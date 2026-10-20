@@ -278,7 +278,8 @@ chapters are finalized.
 | Spell / effect | Who | Source uses | Used in chapters |
 | --- | --- | --- | --- |
 | "Levimotorcorpus" (levitation) / "Locos cantis" (end it) | Bal | ~1 each | 1 |
-| Blood whip (from the RIGHT palm; can be made razor-sharp, spiked, used to grab, lift, throw) | Bal | ~20 mentions | — |
+| Blood whip (from the RIGHT palm; can be made razor-sharp, spiked, used to grab, lift, throw) | Bal | ~20 mentions | 20 (first: strike, wrist-wrap, fling) |
+| "Dart of blood in the eye" (Bal only imagines it; never cast) | Bal | 1 (hypothetical) | 20 |
 | Blood dagger | Bal | ~2 | — |
 | Conversion (palm to palm, his blood sent in) | Bal (High Priest) | conversions + Toma | — |
 | Familiar bond / summon (push magyk into the sygl) | Bal / Amelia | several | 3, 7, 9 |

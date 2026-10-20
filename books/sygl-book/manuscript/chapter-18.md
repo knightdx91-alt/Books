@@ -1,11 +1,11 @@
 # Chapter Eighteen: Six Weeks
 
 <!-- SCENE BUDGET (Target 2,800): the weeks, the castle, Zoran, Lora 520 | the flaming dagger 430 | the shirts 90 | the water snake 420 | Thad's signals, Raizen's statement, the villages 330 | Fern's war room 720 | the rules, remembered 260 | the evening 200 -->
-<!-- Word count: ~2,740 | Target: 2,800 (range 2,500-3,200) | Anchor: the flaming dagger; Fern's map under Bal's drumming fingers | Hook: Amelia silent at the fire, about to speak -->
+<!-- Word count: ~2,630 | Revision: 1 (F1-F10, F12, F13; 2026-10-20) | Target: 2,800 (range 2,500-3,200) | Anchor: the flaming dagger; Fern's map under Bal's drumming fingers | Hook: Amelia silent at the fire, about to speak -->
 
 Over the next six weeks they took a job almost every Saturday, and some weeks they found a reason to take one on Sunday too.
 
-The money hardly mattered. They needed the road. The castle had gone sour on them by degrees, and by the second week Bal could feel it before he was through the doors at breakfast. Conversations stalled when he came near and started up again behind him. A younger student he had never spoken to stepped off the stairs to let him by, as if Bal might be catching. Twice in the corridor near the library, someone said something just loud enough to carry and just low enough to deny. Both times it was the same advice. He ought to stay with his own kind.
+The money hardly mattered. They needed the road. The castle had gone sour on them by degrees, and by the second week Bal could feel it before he was through the doors at breakfast. Conversations stalled when he came near and started up again behind him. A younger student he had never spoken to stepped off the stairs to let him by, as if Bal might be catching. Twice in the corridor near the library, someone said something loud enough to carry and low enough to deny. Both times it was the same advice. He ought to stay with his own kind.
 
 His own kind, as far as the castle went, was Bal. There was a dorm full of it.
 
@@ -19,13 +19,13 @@ In Warfare, Zoran stopped behind him one afternoon while Bal was working through
 
 He moved along the line. Bal was left with his rapier pointed at nothing until Lora coughed at him from across the sand.
 
-It was Lora who did most of the work, though. Ever since the road to Whitehaven she had taken his training as her own personal job. She wanted him able to protect himself, and she wanted it even harder than he did. Three mornings a week she was waiting at the practice yard before breakfast with her own rapier and her hair already pinned up. She drilled him on footwork until he could do it along a single crack in the flagstones without stepping off. She drilled him on keeping his point up until he dreamed about it. When he finally got through a whole exchange with her without a touch landing on him, she told him it had been adequate, and then went red with pleasure and stayed that way until breakfast, as if the win were hers.
+It was Lora who did most of the work, though. Ever since the road to Whitehaven she had taken his training as her own personal job. She wanted him able to protect himself, and she wanted it even harder than he did. Three mornings a week she was waiting at the practice yard before breakfast with her own rapier and her hair already pinned up. She drilled him on footwork until he could do it along a single crack in the flagstones without stepping off. She drilled him on keeping his point up until he dreamed about it. When he finally got through a whole exchange with her without a touch landing on him, she told him it had been adequate, and was pleased with herself all through breakfast.
 
 ---
 
 The thing he was proudest of happened in Crafting.
 
-For weeks he had been working runes into whatever he made in there. He carved them into the handles of wooden spoons. He engraved them on hinges, on a brass box with a stiff lid, on a set of buttons that never did anything at all. Most of it failed. Some of it worked for an hour and then quit. He kept at it anyway, because he could not stop thinking about the vendor in the New Spring square, up on his crate with a longsword held high, and the fire running up the steel.
+For weeks he had been working runes into whatever he made in there. He carved them into the handles of wooden spoons. He engraved them on hinges, on a brass box with a stiff lid, on a set of buttons that never did anything at all. Most of it failed. Some of it worked for an hour and then quit. He kept at it anyway, because he could not stop thinking about the vendor in the New Spring square, up on his crate with a longsword raised, and the fire running up the steel.
 
 He forged the dagger himself. It took most of two classes to get the edge right and nearly all of a third to engrave it. The runes ran along the flat of the blade in a single line, small, close, and as precise as he could make them. He went over every stroke twice.
 
@@ -39,7 +39,7 @@ It was a weak version of the vendor's sword. The vendor would have been embarras
 
 Bal kept the warm dagger across his knees until the bell rang, and he would not have traded it for that sword or for any other blade on the red cloth.
 
-That evening he lit it for the others in the dorm, over the hearth to be safe. The flame climbed its finger's height and died. Lora asked to see the runes and read them off the blade rune by rune, under her breath, checking each against her notes. Viridia asked if it would light a pipe. Amelia held it by the guard and turned it to the firelight, and said it was lovely work, and Bal believed her, because in all the months since the mausoleum she had not praised a single thing to be kind.
+That evening he lit it for the others in the dorm, over the hearth to be safe. The flame climbed its finger's height and died. Lora asked to see the runes and read them off the blade rune by rune, under her breath, checking each against her notes. Amelia held it by the guard and turned it to the firelight, and said it was lovely work, and Bal believed her.
 
 ---
 
@@ -51,7 +51,7 @@ The lake was near the end of the six weeks.
 
 They found it coming home from a job, in a fold of the hills where none of them had thought to look. It was long and narrow and very still, with reeds along one shore and a slope of pale rock along the other. The water was so clear that the bottom showed, dropping away from the rocks into blue, and then into nothing.
 
-They stopped to drink and top up the skins. Hopper went out until the water reached her chest.
+They stopped to drink and fill the skins. Hopper went out until the water reached her chest.
 
 The water behind her rose.
 
@@ -67,13 +67,13 @@ The lightning left her palm with a crack that hit Bal in the teeth. It struck th
 
 The snake sank, silent. Some time later it floated up again, slowly, belly first, and stayed up.
 
-Viridia lowered her hand. Her hair was standing out around her head, blue and crackling at the ends, and she hadn't noticed.
+Viridia lowered her hand.
 
 "Well. I won't be filling my water skin here."
 
 Amelia, who had not moved from the bank, applauded.
 
-Until that day Bal hadn't seen Viridia use her own power. Lora hadn't either. She kept a good arm's length from Viridia until they were home.
+Until that day Bal hadn't seen Viridia use her own power.
 
 ---
 
@@ -91,7 +91,7 @@ Amelia could not get involved. So Bal went to the commander of the army.
 
 ---
 
-The commander's name was Fern. He was short and stocky, with a long grey beard and grey eyes that missed very little, and he carried himself in a way that made his room feel like his before you were properly through the door. A long table filled the middle of it. A desk in one corner was buried in paper, and a lamp had been left burning there in the middle of the day. On the table lay a map of Raizen's territory, weighted at the corners with stones.
+The commander's name was Fern. He was short and stocky, with a long grey beard and intelligent grey eyes, and he carried himself in a way that made his room feel like his before you were properly through the door. A long table filled the middle of it. A desk in one corner was buried in paper, and a lamp had been left burning there in the middle of the day. On the table lay a map of Raizen's territory, weighted at the corners with stones.
 
 "There's not much we can do," Fern said. "It's in Raizen's territory. We could send the army in, but it would be pointless."
 
@@ -109,7 +109,7 @@ The death toll was growing every day. Bal had made his peace with the fact that 
 
 "We will not respond in kind."
 
-Fern lifted his grey eyes to Bal and left the idea where it lay.
+Fern met Bal's eyes and left the idea where it lay.
 
 "Do we know where any of their priests are?" Bal asked.
 
@@ -149,19 +149,17 @@ Bal stood over the little marks that were Raizen's squads until Fern said his na
 
 He had asked Amelia once how they would even know if they had won. Short of killing Raizen's whole army, he had meant.
 
-She had been lying across the foot of his bed, propped on her elbows. She explained it as though it were a game she had watched other people play for ages.
+She had been at the foot of his bed, propped on her elbows. She explained it as though it were a game she had seen other people play for ages.
 
 Once war was formally declared, neither originator could make another High Priest. Once an originator's priests and High Priest were dead, the war was over. Technically, anyway. The victor could go on killing the other's army if they wanted. It did not matter, at that point.
 
-Nobody had formally declared anything yet. Bal had noticed that, lying there, and kept it to himself.
-
-The part about the army had stayed with him longer. The war could be over and men could still be killed in it, simply because the winner felt like going on. He had known straight away that he would never be that kind of winner, and he had not needed to say so to her either.
+The part about the army had stayed with him longer. The war could be over and men could still be killed in it, simply because the winner felt like going on. He had known straight away that he would never be that kind of winner.
 
 And once the war was finished, the victor could demand something from the originator who had lost.
 
 "Have you decided what you'd demand?" Bal had asked. "If we won?"
 
-Amelia had lifted her chin and smiled at him. The smile came slowly, and it took its time crossing her face.
+Amelia had smiled at him. The smile came slowly.
 
 "Oh, yes. They are bound to give me what I ask, so long as it does not physically harm them." She had paused there. "And I know exactly what I shall demand."
 
@@ -169,8 +167,8 @@ He had spent most of an hour at it. He had tried asking straight out, and guessi
 
 ---
 
-Now, with Fern's orders given, Bal sat in his dorm with a pad of paper on his knee, making notes on what he might do about Raizen's High Priest. Most of them he crossed out. Toma had no gift of his own, which ought to make him easier, and kept making him harder, because Bal still had no idea why Raizen had chosen him. The priests met in Londra once a month. Pashar was far from Londra. He wrote that down twice without meaning to, and crossed one out. The history book he had been using for ideas lay open beside him on the cushion.
+Now, with Fern's orders given, Bal was in his dorm with a pad of paper on his knee, making notes on what he might do about Raizen's High Priest. Most of them he crossed out. Toma had no gift of his own, which ought to make him easier, and kept making him harder, because Bal still had no idea why Raizen had chosen him. The priests met in Londra once a month. Pashar was far from Londra. He wrote that down twice without meaning to, and crossed one out. The history book he had been using for ideas was open beside him on the cushion.
 
 The girls were curled up on the plush couches with their rune homework, comfortable as cats. Now and then Lora leaned over to check one of Viridia's lines, and Viridia let her. Hopper, shrunk to fit the room, lay across both their feet and twitched in a dream.
 
-Amelia sat on the hearthrug with her feet folded under her skirt. She hadn't spoken since dinner. She was staring into the fire as if there were something in it she was reading, and Bal, who had been glancing up at her between notes, saw her lips part.
+Amelia was on the rug by the hearth with her feet folded under her skirt. She hadn't spoken since dinner. She was staring into the fire as if there were something in it she was reading, and Bal, who had been glancing up at her between notes, saw her lips part.
