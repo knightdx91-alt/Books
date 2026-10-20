@@ -35,7 +35,7 @@ They all started in at once. Bal put up a hand and stopped, and waved for them t
 
 "Yeah. It's pretty big," Bal said. He caught her eye. "It'd be nice to have other people around."
 
-Viridia found something on the mantel that needed her full attention, and Bal grinned at the side of her face.
+Viridia found something on the mantel that needed her full attention.
 
 "So what's all this?" he asked, and pointed at their clothes.
 

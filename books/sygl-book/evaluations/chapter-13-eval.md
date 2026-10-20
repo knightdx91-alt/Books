@@ -353,3 +353,62 @@ After G1 the window holds 4994 and 5218: 2 beats, which is under the rule. Nothi
 **POLISH.** Floor 7.5 | Average 8.4 | Casual 8.5. Apply G1, about 15 words, for a PASS at Floor 8.5.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Re-evaluation (round 3)
+**Evaluator:** book-evaluator | **Date:** 2026-10-20 | **Draft:** R3 (5,432 words by gate count; range 4,800–5,700)
+
+### HEADLINE
+**CVI-Launch:** 8.2 | **CVI-Legacy:** 6.2 | **Genesis Floor:** 7.5 | **Genesis Average:** 8.4
+**VERDICT: POLISH.** G1 landed. The consult-look window at the close now holds 2 beats (4995 "looked to Viridia for an explanation", 5209 "Bal checked with Viridia"). "Neither of them did." reads naturally and keeps the source's meaning. That fixes the round-2 item.
+
+The full hand count this round asked for found one more cluster that rounds 1 and 2 missed. Those rounds split "grin" from "smile". A grin is a smile, so they belong to one gesture class:
+- 446: "Bal grinned at the side of her face." (L38)
+- 577: "He smiled at her." (L50)
+- 645: "He smiled at both of them." (L56)
+
+That is **3 Bal smile beats in 200 words**, which trips the 3-in-500 rule and caps Characters at 7.5. All three are from the source. The L56 smile has to stay, because F3 restored it. The L50 smile has to stay, because it pays off the hair-tuck. The grin at L38 is the one that can go.
+
+### Mechanical gates (scratch copy of Ch.1–13 at scratchpad/re13c)
+- `voice_wear_check.py`: **clean** (strict).
+- `tic_report.py --gate`: **clean** (exit 0).
+  - Auto-recurrence: none.
+  - Ch.13 rhythm: all 0.
+  - Ch.13 is not the worst chapter for any gesture class the tool knows.
+
+### Hand count (word positions, comments stripped)
+- **Consult-look:**
+  - Close: 4995 and 5209. Clear.
+  - "Lora saw his face" (5193) is perception from the source ("Seeing his look"). It is not a gesture, so it is not counted.
+  - Dawn Hall: 3735, 3779, 4264. At most 2 in any 500 words. Clear.
+  - Opening: 424, 599, 1076, 1142. The 599→1142 span is 543 words. Clear, but only just.
+- **Blush:** L18/28 (one beat), L160, L360. Clear.
+- **Look-up:** 2293, 3090, 3345. Clear.
+- **Laugh:** 3, spread out. Clear.
+- **Head movement** (3628, 3727, 3745): stays on WATCH, as in round 2. Lora's up and down is one source oscillation, and the jerk belongs to the nod class, which the gate passes.
+- **Smile/grin:** **446/577/645 trips the rule.** Every other smile is clear: 1867 with the 1947 smirk is 2 beats; 2945/3088 is 2; 4164 stands alone; 5234/5240 is one exchange.
+
+### Genesis Score
+| Dimension | Score | Note |
+|---|---|---|
+| Originality | 8.5 | unchanged |
+| Theme | 8.5 | unchanged |
+| Characters | **7.5** (merit 8.5) | **Cap: smile class ×3 in 200 words (L38/L50/L56)** |
+| Prose & Voice | 8.5 | unchanged; L510 close-book line |
+| Pacing | 8.5 | unchanged |
+| Emotion | 8.5 | unchanged; "Amelia Norheart" anchor |
+| Engagement | 8.5 | unchanged |
+| **FLOOR / AVG** | **7.5 / 8.4** | Casual 8.5 |
+
+### Revision (H1, the only floor item)
+| Location | Type | Now | Why | Direction | Rule? |
+|---|---|---|---|---|---|
+| H1, L38 | Character (gesture class) | "Viridia found something on the mantel that needed her full attention, and Bal grinned at the side of her face." | This is the 1st of 3 Bal smile beats in 200 words. The other two (L50, L56) are load-bearing | End the sentence early: "Viridia found something on the mantel that needed her full attention." The look-away carries the tease on its own | Yes: grin, smile and smirk count as one class when hand-counting |
+
+After H1 the smile class holds 577/645: 2 beats, which is under the rule. No other change is needed. With H1 applied the chapter projects to **PASS at Floor 8.5, Average 8.5, Casual 8.5**.
+
+### VERDICT
+**POLISH.** Floor 7.5 | Average 8.4 | Casual 8.5. Apply H1 (cut 9 words) to pass.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
