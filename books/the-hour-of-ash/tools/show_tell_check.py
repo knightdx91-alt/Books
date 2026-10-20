@@ -135,7 +135,7 @@ def main():
     print(f"{'chapter':12} {'wds':>5} {'dlg%':>5} {'filter':>7} {'abstr':>6} {'emo':>5}  flags")
     worst = []
     for f in files:
-        m = analyze(open(f).read())
+        m = analyze(re.sub(r"<!--.*?-->", "", open(f).read(), flags=re.S))   # header comments are not prose
         h = heavies(m)
         flag = ",".join(h) if h else "-"
         if m['dialogue'] < TH['dialogue']:
