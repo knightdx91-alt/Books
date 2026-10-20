@@ -1,7 +1,7 @@
 # Chapter Sixteen: Whitehaven Road
 
 <!-- SCENE BUDGET (Target 4,800): the week, Lora, the library, Amelia nervous, Zoran 700 | Saturday: Hopper, the rapiers, "I am my own weapon", Ms. Summers 650 | Whitehaven, meat pies, the town limit 450 | the growl, seven men, "if you please", the ring 450 | the fight 950 | the fallen tree, the salve, the heart ring 600 | firewood with Viridia 450 | camp, the shirts, Lora's drill 300 | the walk 500 | Hopper, the hand, the pass 150 -->
-<!-- Word count: ~4,810 | Target: 4,800 (range 4,400-5,200) | Anchor: Amelia holding herself still while he bleeds | Hook: the pass at morning -->
+<!-- Word count: ~4,730 | Revision: 1 (F1-F13, 2026-10-20) | Target: 4,800 (range 4,400-5,200) | Anchor: Amelia holding herself still while he bleeds | Hook: the pass at morning -->
 
 On Monday Lora asked whether anyone thought it would rain on Saturday.
 
@@ -11,13 +11,13 @@ She had also decided that nothing on earth was going to keep them inside the cas
 
 Bal spent two of those evenings in the library first.
 
-The library had very little on the Saegen Woods. Verin found him a book on ley lines, and in the back of it, a single paragraph. A ley line ran straight through the woods. Some of the animals there had been absorbing the magykal energy for generations, and they had grown bigger than they ought to be, and meaner. How much bigger, the paragraph didn't say.
+The library had very little on the Saegen Woods. The librarian found him a book on ley lines, and in the back of it, a single paragraph. A ley line ran straight through the woods. Some of the animals there had been absorbing the magykal energy for generations, and they had grown bigger than they ought to be, and meaner. How much bigger, the paragraph didn't say.
 
-Bal sat with it a while. He wondered what a squirrel would turn into, if it lived its whole life on top of a ley line. Whether it still buried nuts. Whether it needed bigger nuts. Then he copied the paragraph into the back of his rune notes anyway, so that he would have it with him.
+Bal read it twice. He wondered what a squirrel would turn into, if it lived its whole life on top of a ley line. Whether it still buried nuts. Whether it needed bigger nuts. Then he copied the paragraph into the back of his rune notes anyway, so that he would have it with him.
 
 It was Amelia who surprised him.
 
-On Thursday night she perched on the end of the old red couch while the girls finished their runes, and when Lora started in on what time they ought to leave, Amelia said, very lightly, that maybe it would be simpler if she stayed behind this time.
+On Thursday night she was on the end of the old red couch while the girls finished their runes, and when Lora started in on what time they ought to leave, Amelia said, very lightly, that maybe it would be simpler if she stayed behind this time.
 
 Lora stopped with her pencil in the air.
 
@@ -27,13 +27,13 @@ Lora stopped with her pencil in the air.
 
 Viridia put down her book. "You've got a card," she said. "With the team on it and everything. We want you to come."
 
-"You're part of the team," Lora said, and then went pink and added, "If you want to be."
+"You're part of the team," Lora said, and then added, quickly, "If you want to be."
 
-Amelia looked from one of them to the other. Her foot had stopped swinging. Then something in her face gave way, and she told them she would love to, so warmly that Lora went pinker still.
+Amelia looked from one of them to the other. Then something in her face gave way, and she told them she would love to, so warmly that Lora went pink.
 
 On Friday, after Warfare, Bal hung back while the line broke up and went to ask Zoran whether the three of them could borrow some of the school's weapons for a trip off the grounds.
 
-Zoran studied him until Bal began composing a second, better way of asking.
+Zoran said nothing for so long that Bal began composing a second, better way of asking.
 
 "Bring them back clean," Zoran said.
 
@@ -45,7 +45,7 @@ Saturday came up cold and clear. Lora's sky had been right.
 
 They met at the castle gate at first light. Viridia crossed the frosty courtyard with Hopper trotting at her knee.
 
-Bal knew Hopper only from Viridia's stories. He had not met her. With the collar on, she was the size of a big farm dog. Her fur was silver, and across her back and shoulders it ran blood red, as though someone had laid a shawl over her. Her paws were too large for the rest of her. She came past Bal without a glance and made for Amelia, and leaned her whole shoulder against Amelia's skirt, and stayed there.
+Bal knew Hopper only from Viridia's stories. With the collar on, she was the size of a big farm dog. Her fur was silver, and across her back and shoulders it ran blood red, as though someone had laid a shawl over her. Her paws were too large for the rest of her. She came past Bal without a glance and made for Amelia, and leaned her whole shoulder against Amelia's skirt, and stayed there.
 
 "Well," Viridia said. "I see where I rank."
 
@@ -53,11 +53,11 @@ Lora arrived last, at a run, and Bal saw she had a rapier at her hip that had ne
 
 "That's yours," he said.
 
-"My father had it made for me. After the tournament." Lora drew it a few inches to show him the blade. "It's enchanted. It never needs sharpening." She slid it home, and for once she didn't mind everybody looking at her.
+"My father had it made for me. After the tournament." Lora drew it a few inches to show him the blade. "It's enchanted. It never needs sharpening." She slid it home, and for once she didn't mind the attention.
 
 Bal tried Amelia. "We could still get you something. Zoran wouldn't mind."
 
-Amelia was scratching Hopper behind the ears. The offer honestly surprised her.
+Amelia was scratching Hopper behind the ears. The offer seemed to surprise her.
 
 "I am my own weapon," she said. "Besides, I don't plan on fighting unless something really bad happens. Each of you needs to feel comfortable defending yourselves."
 
@@ -67,7 +67,7 @@ New Spring was on the road out, and Bal had them stop. The job had come through 
 
 Ms. Summers was a small, stooped woman wrapped in two shawls. She heard who they were and why they had come, and she got slowly up off her stool.
 
-"I normally hire a team to see me through those woods," she said. "I'm not up to it this year." She looked at the four of them, and at the wolf sitting on her step, and seemed to decide that they would do. "Mind the river. That's where they grow."
+"I normally hire a team to see me through those woods," she said. "I'm not up to it this year." She looked at the four of them, and at the wolf on her step, and seemed to decide that they would do. "Mind the river. That's where they grow."
 
 Lora asked how the flowers ought to be cut, and how long they would keep once they were. Ms. Summers' face lit up. She answered at length, and Lora wrote it all down on the back of an old receipt against the doorframe, every word, and buttoned it away in her breast pocket.
 
@@ -149,7 +149,7 @@ Somewhere to the left a great axe was whistling. Bal circled and caught it at th
 
 Bal circled. Parry. Stab. Parry.
 
-Lora was over beyond the leader's shoulder now, on Bal's next turn. Three men had her surrounded. Then two did. Then one, and Bal could not keep watching, because that sword was coming again.
+Lora was over beyond the leader's shoulder now, on Bal's next turn. Three men had her surrounded. Then two did. Then one, and then that sword was coming again.
 
 Something turned under Bal's heel. A stone, a rut. He stumbled.
 
@@ -175,7 +175,7 @@ Bal stepped back, out of reach, and dragged his good wrist across his eyes. It c
 
 The girls were all in a line on the road behind him.
 
-Lora had her rapier lowered and her left hand pressed to her stomach. Viridia had her spear back and was holding it in both fists, much too tight. Next to Lora stood Amelia, with her hands clasped together in front of her as if somebody had asked her to wait there and she was waiting. She was not moving at all. Not her hands. Not her skirt. A gust ran along the road and past her and did not find one thing on her to stir.
+Lora had her rapier lowered and her left hand pressed to her stomach. Viridia had her spear back and was holding it in both fists, much too tight. Next to Lora stood Amelia, with her hands clasped together in front of her as if somebody had asked her to wait there and she was waiting. She had come one step off the road toward him and no farther, and her two hands were holding each other back.
 
 Bal took in all three for the length of one breath.
 
@@ -205,15 +205,15 @@ Her pack was already open. She had salve in a little clay pot, and bandages, and
 
 Amelia was standing off from the rest of them, watching him.
 
-Bal moved over on the log to make room. She came, and sat, very straight.
+Bal moved over on the log to make room. She came and took the space, very straight-backed.
 
 "What's wrong?" he asked her.
 
-Amelia watched Lora's hands working on his arm. She watched for some time before she answered.
+Lora's hands went on working at his arm. It was some time before Amelia answered.
 
 "I think that was the hardest thing I've ever done," she said. "I wanted to hurt that man for daring to hurt you."
 
-She had spent nearly three thousand years locked in the dark.
+She had spent close to three thousand years locked away.
 
 Bal reached over for her hand. Hers held on.
 
@@ -223,11 +223,11 @@ Lora glanced up from where she knelt. Then she returned to his arm.
 
 "I have to be able to protect myself," Bal said. "It was hard for me too, knowing any of you could get hurt. And I'm proud of you. All of you. You took care of yourselves."
 
-He glanced at his arm. The salve smelled of crushed mint and something underneath it that he couldn't place. Wherever Lora had put it, the pain had eased off and gone somewhere far away, and Bal laughed, because it was gone and he had not expected it to go.
+The salve smelled of crushed mint and something underneath it that he couldn't place. Wherever Lora had put it, the pain had eased off and gone somewhere far away, and Bal laughed, because it was gone and he had not expected it to go.
 
 "I'd much rather I got hurt than any of you," he said. "Great job on not getting hurt."
 
-Hopper came down from the trees and sat beside the log. She smelled of wolf and hard work. Bal rested his good hand lightly on top of her head, between her ears.
+Hopper came down from the trees and lay down beside the log. She smelled of wolf and hard work. Bal rested his good hand lightly on top of her head, between her ears.
 
 "Thanks," he told her. "That was good work."
 
@@ -235,7 +235,7 @@ Once he was bandaged up, they went through the bandits for anything worth taking
 
 They found very little. A few coins. The crossbows, which none of them knew how to use.
 
-Their leader wore a ring on the hand that had held the sword. It was a heart, in red gold, small and well made.
+On their leader's right hand was a ring. It was a heart, in red gold, small and well made.
 
 "That's a heart ring," Lora said, behind Bal. "They come in pairs. Two people each wear one, and each ring beats in time with the other person's heart. If yours ever stops, it means the other one is dead." She paused. "Or that they took it off."
 
@@ -245,7 +245,7 @@ Their leader wore a ring on the hand that had held the sword. It was a heart, in
 
 You didn't expect to see one on a bandit. Not even the leader.
 
-Bal studied the ring. Then he let it stay on the dead man's hand. It was not his to take.
+Bal left it on the dead man's hand.
 
 They talked about it as they walked on, looking for somewhere to camp. They wanted to cross the pass and come into the woods by morning light.
 
@@ -271,7 +271,7 @@ The cut on his arm gave a burn under the bandage, as if it had heard.
 
 "I can't believe nobody else got hurt but me." Bal chuckled. "Don't get me wrong, I'm glad none of you did. I'm only surprised it wasn't worse."
 
-"Lora's a menace with that rapier of hers." Viridia laid a branch across his arms with some force. "I thought I was doing okay. Until Hopper had to save me anyway. Then I turn around to see how everybody else is doing, and Lora's already taken care of three of them by herself." She stopped to stare at nothing, still not quite believing it. "And Amelia. She looked about ready to have a heart attack, watching you fight that big man. Can a vampire have a heart attack?"
+"Lora's a menace with that rapier of hers." Viridia laid a branch across his arms with some force. "I thought I was doing okay. Until Hopper had to save me anyway. Then I turn around to see how everybody else is doing, and Lora's already taken care of three of them by herself." She stopped, still not quite believing it. "And Amelia. She looked about ready to have a heart attack, watching you fight that big man. Can a vampire have a heart attack?"
 
 Bal had no idea.
 
@@ -289,7 +289,7 @@ Somebody had laid out all the bedrolls around where the fire would be. They lay 
 
 Bal guessed which two those were. Nobody owned up to doing it, and he let it be.
 
-Viridia stood her spear against a tree, and Bal got the fire going. Lora had a needle in her pack, of course, and he sewed the hole in his shirt shut by firelight with stitches so big that Viridia winced at them, and pulled it back on over the bandages. Dinner was the bread, the jerky and the cheese from New Spring that morning. Hopper got the end of the jerky.
+Viridia stood her spear against a tree, and Bal got the fire going. Lora had a needle in her pack, and he sewed the hole in his shirt shut by firelight with stitches so big that Viridia winced at them, and pulled it back on over the bandages. Dinner was the bread, the jerky and the cheese from New Spring that morning. Hopper got the end of the jerky.
 
 The talk around the fire was all the fight, and how to do better next time.
 
@@ -321,7 +321,7 @@ At that time of night the only sounds were the insects and their own feet in the
 
 "What's on your mind?" Bal asked, once they were well away from camp.
 
-Amelia took her time answering. Bal waited. He did not mind waiting. It was a good night for it, cold and very quiet, and her hand was in his.
+Amelia took her time answering. Bal waited. He did not mind waiting. It was a good night for it, cold and very quiet.
 
 "I feel useless." Her voice was flat and quiet. "I finally have people I think of as friends, and I can't help them. I was afraid someone would die. I can't remember ever being afraid of that before. When he cut your back," she said, and her eyes shut, and opened again, "it took every bit of will I have not to run over there and tear that man in half."
 
@@ -357,6 +357,6 @@ Hopper chuffed at him, once, and went on watching the trees.
 
 That seemed to settle it. Bal went back and slid into his bedroll. Amelia's hand found his under the blankets, cool as the night was.
 
-Beyond the trees the mountains stood up black against the stars, and in the black there was a notch where the road went through. They would be in it an hour after first light. The woods were beyond it. He thought of the ring, two miles back, on a hand that had gone still. And of the other one, somewhere, on somebody's finger, that had stopped beating.
+Beyond the trees the mountains stood up black against the stars, and in the black there was a notch where the road went through. They would be in it an hour after first light. The woods were beyond it.
 
 He fell asleep holding on to her.
