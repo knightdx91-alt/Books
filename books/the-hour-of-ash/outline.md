@@ -500,7 +500,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Emotional surprise:** she laughs, alone, at the cosmic bad taste of it.
 **Opening strategy:** "I knew the year." (≤8 words, starting with "I.")
 **Key scenes/beats (fragments):**
-1. What she knows: the city's plan, the forum, a 1988 exhibition of the plaster casts she saw as a graduate student. This is a **past-facing memory of 1998-era knowledge**, not her own future.
+1. What she knows: the city's plan, the forum, the 1979 exhibition of the plaster casts, seen at fourteen. This is a **past-facing memory of 1998-era knowledge**, not her own future.
 2. Eight years. The door could open on any day in them.
 3. **NON-NEGOTIABLE.** The laugh.
 4. Valens asleep on the floor of Kallia's lodging across Mara's doorway. Kallia put him there herself: the lodging is crammed with consultation-day pilgrims, Celer's men were on the road three days ago, and a guardian uses the guard she has. She does not tell him what Pompeii means.
@@ -513,7 +513,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Character chaos moments:** none forced. This is a pressure chapter.
 **Reading speed:** very short fragments, white space, low sentence gear.
 **Word count target:** 3,400
-**Writer warnings:** **CRITICAL no-foreshadowing chapter.** Mara may think about AD 79 and the city's fate (her knowledge), but she must not narrate *her own* outcome or any future of hers ("I would be there when…" is banned). The casts are a memory of 1988, described as what she saw then. No anaphora triads in the fragments. No closing aphorism about fate; the ledger asks for a long fade, the night thinning.
+**Writer warnings:** **CRITICAL no-foreshadowing chapter.** Mara may think about AD 79 and the city's fate (her knowledge), but she must not narrate *her own* outcome or any future of hers ("I would be there when…" is banned). The casts are a memory of 1979, described as what she saw then. No anaphora triads in the fragments. No closing aphorism about fate; the ledger asks for a long fade, the night thinning.
 **Beat subversion:** *Genre beat:* the prophecy's meaning dawns in a dramatic revelation scene with a confidant. *Subversion:* the dawning is instant, total and private. The drama is that she cannot tell anyone, and the response is a laugh.
 
 ## Chapter 15: Summer Pasture

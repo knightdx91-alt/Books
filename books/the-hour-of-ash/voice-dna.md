@@ -36,7 +36,7 @@ consequences, which the Writer applies sentence by sentence:
 
 1. **She cannot reach forward, because there is nowhere forward to reach from.**
 2. **Past-facing reflection is free.** Everything before the narrated moment belongs to her: 1998, her
-   father, Mrs. Dunphy, last winter in Delphi, the 1988 exhibition of the plaster casts, the Forum she
+   father, Mrs. Dunphy, last winter in Delphi, the 1979 exhibition of the plaster casts, seen at fourteen, the Forum she
    walked as a student in 1991. She may remember, compare and judge backward.
 3. **Her historical knowledge is in-scene feeling, not foreshadowing** (rules below).
 4. **No narrating present.** Present tense appears only inside dialogue and documents. General
@@ -95,7 +95,7 @@ the years since." Anything the gate misses, the Evaluator and the Continuity Gua
    - **Ch.1–12:** she has no reason to think of Pompeii. In Ch.5 she dates the year (AD 70, Vespasian)
      and does **not** jump to 79.
    - **Ch.13:** only the word. Theano says "Pompeii." The horror arrives in Ch.14.
-   - **Ch.14:** the night she knows. The 1988 casts are a memory of what she saw then, told as memory.
+   - **Ch.14:** the night she knows. The 1979 exhibition of the plaster casts, seen at fourteen, is a memory of what she saw then, told as memory.
    - **Ch.15–35:** the year may surface as a present thought **at most once per chapter** ("Seventy-nine,
      I thought."), worded differently each time. **Never in Ch.34.** Never as narration of her own fate.
    - **Ch.36 on:** she reckons openly. The date (24 August, from Pliny's letters as she remembers them)

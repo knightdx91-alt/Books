@@ -1,7 +1,7 @@
 # Chapter 14: What Pompeii Means
 
-<!-- SCENE BUDGET (Target 3,400; range 3,000-3,800; Fragmented, one night in shards, 9 breaks / 10 shards, gear low): S1 the year, whole, on the doorstep; Theano's water; the fountain; the corner; supper 650 | S2 the storeroom, Valens across the door; the town known from above 400 | S3 the plaster under her hand; February 1988, the casts 300 | S4 what the letters say; eight years and a little over 330 | S5 Naples, Halloran's room, the laugh 370 | S6 Valens wakes; the well; the hand over his shoulder; the word kept 420 | S7 the court at midnight: the ram's boy, Kallia's salt water, the stool, the blanket 470 | S8 the plan: money, a man, the sea in spring, Italy; what it does to the man 600 | S9 "Tomorrow": the cave still wanted 250 | S10 the old moon, sleep, the empty doorway, the cliffs coming clear 280 -->
-<!-- Word count: 3,043 (shape_check; wc -w 3,377 incl. header comments) | Revision: Writer draft 2026-10-20; dialogue polish 2026-10-20 (3 lines + 1 tag; shape_check 3,106, dialogue 5%); hook-craft 2026-10-20 (no edits); disruption 2026-10-20 (subtractive: explanation clauses, two negation pivots, the lamp image, the 'what I had' inventory frame, one deliberation pause; one failed-management beat at the plaster; shape_check 3,043) | Target: 3,400 (range 3,000-3,800; in range, not padded) | Dialogue 5% (band 0-10) | Breaks 9 | Median sentence 12 (gear low) | Opens I-punch, closes long-fade | Bare "No." 0 | Deliberation pause 0 | Kneel/crouch 0 | Hand-on-knee 0 | Exit by gait 0 | Echoes 0 | Foreshadow 0 | Gates clean | Anchor: the word kept behind her teeth, a yard from the man who carried it out of the temple, while she tells him about a woman's well -->
+<!-- SCENE BUDGET (Target 3,400; range 3,000-3,800; Fragmented, one night in shards, 9 breaks / 10 shards, gear low): S1 the year, whole, on the doorstep; Theano's water; the fountain; the corner; supper 650 | S2 the storeroom, Valens across the door; the town known from above 400 | S3 the plaster under her hand; April 1979, the casts 300 | S4 what the letters say; eight years and a little over 330 | S5 Naples, Halloran's room, the laugh 370 | S6 Valens wakes; the well; the hand over his shoulder; the word kept 420 | S7 the court at midnight: the ram's boy, Kallia's salt water, the stool, the blanket 470 | S8 the plan: money, a man, the sea in spring, Italy; what it does to the man 600 | S9 "Tomorrow": the cave still wanted 250 | S10 the half moon gone down, sleep, the empty doorway, the cliffs coming clear 280 -->
+<!-- Word count: 3,022 (shape_check) | Revision: Writer draft 2026-10-20; dialogue polish 2026-10-20 (3 lines + 1 tag; shape_check 3,106, dialogue 5%); hook-craft 2026-10-20 (no edits); disruption 2026-10-20 (subtractive: explanation clauses, two negation pivots, the lamp image, the 'what I had' inventory frame, one deliberation pause; one failed-management beat at the plaster; shape_check 3,043); continuity repair 2026-10-20 (evaluations/continuity/chapter-14-audit.md C-01 + W-01 to W-13: moon on the 7th, casts April 1979 at fourteen, shape_check 3,022) | Target: 3,400 (range 3,000-3,800; in range, not padded) | Dialogue 5% (band 0-10) | Breaks 9 | Median sentence 12 (gear low) | Opens I-punch, closes long-fade | Bare "No." 0 | Deliberation pause 0 | Kneel/crouch 0 | Hand-on-knee 0 | Exit by gait 0 | Echoes 0 | Foreshadow 0 | Gates clean | Anchor: the word kept behind her teeth, a yard from the man who carried it out of the temple, while she tells him about a woman's well -->
 
 I knew the year. It came to me on Theano's doorstep, before her mouth had quite closed on the word, and it came whole. Seventy-nine, late in the summer, in August. Behind it the god's verse lay down flat and pointed one way. The mountain with the vines on it was that mountain. The sea to the west was the bay under it. The dead of that town left it by its gates, like any town's, and lay along the roads outside. A crow walked over my foot looking for barley that was gone. Theano told it to get off, and it stayed, and she let it.
 
@@ -15,9 +15,9 @@ On the corner Valens was still leaning on the same wall. He pushed himself uprig
 
 "Theano's jar was empty."
 
-He took in the crows' house above us, and my wet front. He came along on the house side, half a step behind. From the turn above Kallia's lane the sanctuary showed beneath, the god's roof with the sun going off it. I wanted to throw something at it, and I had nothing in my hands.
+He took in the crows' house above us, and my wet front. He came along on the house side, half a step behind. From the turn above Kallia's lane the sanctuary showed beneath, the god's roof with the sun going off it. I wanted to throw something at it, and my hands were empty.
 
-At Kallia's the Thessalians had come home with their share of the sacrifice wrapped in fig leaves. They were roasting it in the court and arguing over whose fault the ram had been. Kallia asked me nothing. She put an end of bread in my hand and the scrapings of the pot in a bowl, and I ate on the end of the woodpile while the Thessalians argued. It all went down. I finished the bowl and wiped it round with the bread.
+At Kallia's the Thessalians had come home with their share of the sacrifice wrapped in cabbage leaves. They were roasting it in the court and arguing over whose fault the ram had been. Kallia asked me nothing. She put an end of bread in my hand and the scrapings of the pot in a bowl, and I ate on the end of the woodpile while the Thessalians argued. It all went down. I finished the bowl and wiped it round with the bread.
 
 * * *
 
@@ -29,27 +29,25 @@ I had the town. I had it from above, the way a plan in a book had shown it to me
 
 What anybody in that town called a single street was beyond me.
 
-There were the tombs. A famous row stood beyond the gate toward Herculaneum, with stone benches round to sit on; every postcard showed it. More lay along the road toward Nuceria, and odd ones elsewhere. I tried for most of an hour to call up a painted door on any of them, and got only the benches.
+There were the tombs. A famous row stood beyond the gate toward Herculaneum, with stone benches round to sit on; every postcard showed it. More lay along the road toward Nuceria, and odd ones elsewhere. I tried for most of an hour to call up a doorway done in paint on any of them, and got only the benches.
 
 * * *
 
 Behind my mat the wall was mud brick under a skin of lime plaster. Whoever plastered it had not troubled to finish it smooth. In the dark my fingertips found the ridges the trowel had left, and a stalk of straw standing out of the surface, and a patch beside the jamb where it had come loose and been pressed back with something softer.
 
-In February of 1988 some of the casts had crossed the Atlantic. I took the train up to see them on a Saturday. I was twenty-three and still a student, with a head cold and a paper on Augustan coinage due on the Monday. They had been laid out in a long, dim gallery on platforms behind a rope. A man lay on his side with his knees up. His tunic had rucked at the hip, and the folds of it stood out in the plaster. One sandal had pressed its laces into his instep. Near me a woman in a fur hat told her husband she had thought they would be bigger. On the wall in a case was a loaf of bread, black, scored into eight on top, like a charcoal briquette somebody had tried to cut into wedges.
+In April of 1979 some of the casts had crossed the Atlantic. My mother took me up on the train to see them on a Saturday. I was fourteen, with a head cold and a book report due on the Monday. They had been laid out in a long, dim gallery on platforms behind a rope. A man lay on his side with his knees up. His tunic had rucked at the hip, and the folds of it stood out in the plaster. One sandal had pressed its laces into his instep. Near me a woman in a fur hat told her husband she had thought they would be bigger. Further along, a dog lay twisted on its back with its legs in the air and its collar still on.
 
-I stayed until a guard came through ringing a hand bell. On the train home I bought a pretzel from the man with the cart and ate half of it and carried the other half in its paper as far as Trenton.
+We stayed until a guard came through ringing a hand bell. In the station my mother bought me a pretzel from a cart. I ate half of it and carried the other half in its paper as far as Trenton.
 
 Kallia's plaster was cold. I took my fingers from it, and some while later they were back on the patch by the jamb.
 
 * * *
 
-The day was in two letters, as much of it as one man set down for Tacitus nearly thirty years afterward. I had put both into English once, for a Latin examination, with a dictionary at my elbow. The mountain opened at midday. Stones fell on the town all that afternoon and all night. Roofs went in under them. In the morning came the thing the letters had no good word for. Their writer had been seventeen that summer, across the bay, reading Livy, by his own account, and making notes. He was a boy of nine now, somewhere in the north of Italy, at his lessons.
+The day was in two letters, as much of it as one man set down for Tacitus nearly thirty years afterward. I had put both into English once, for a Latin examination, with a dictionary at my elbow. The mountain opened at midday. Stones fell on the far shore all that afternoon and all night. Roofs went in under them. In the morning came the thing the letters had no good word for. Their writer had been seventeen that summer, across the bay, reading Livy, by his own account, and making notes. He was a boy of nine now, somewhere in the north of Italy, at his lessons.
 
 It was the year seventy-one, by a count nobody here used, and the spring was only started. From here to that August was eight years and a little over.
 
-The god had not said when. Theano would not say whether he had. The cave had opened for me on one afternoon in May, at one minute of it, and not since. A door that opened when it pleased could open on any day in eight years. This summer would do. For all anybody could tell me, it stood open tonight, on a road of tombs in the dark, with nothing going past it but a dog.
-
-I lay with my face to the roof beams and kept hold of that.
+I lay with my face to the roof beams. The god had not said when. Theano would not say whether he had. The cave had opened for me on one afternoon in May, at one minute of it, and not since. A door that opened when it pleased could open on any day in eight years. This summer would do. For all anybody could tell me, it stood open tonight, on a road of tombs in the dark, with nothing going past it but a dog.
 
 * * *
 
@@ -59,15 +57,13 @@ I had said Greece, perhaps.
 
 My father went to the past every summer of my childhood. He came home in September brown to the elbows, with his boots in a grocery bag and his head still full of somebody else's century. Every year it was going to be next year, and then next year there was never a spare bed. His last permit had been for Campania. I had signed it over to Halloran in April.
 
-And the god of Greece had heard my question out, from a gladiator, word for word, and found me a place in Campania after all. He had outranked Halloran. He had picked the year.
+And the god of Greece had heard my question out, with a gladiator standing for me at the screen, and found me a place in Campania after all. He had outranked Halloran. He had picked the town.
 
-I laughed.
-
-The sound was loud, the loudest I had made in that house in all my months there. It went straight out past Valens and over the court. A Thessalian stopped snoring. I put my wrist across my mouth and the laugh came round the sides of it anyway, in bits, high, with a squeak in the top of it that I had never heard myself make. My eyes stayed dry. The muscles under my ribs hurt. It ran on well after the funny part had gone out of it, and then it stopped.
+The laugh was loud, the loudest I had made in that house in all my months there. It went straight out past Valens and over the court. A Thessalian stopped snoring. I put my wrist across my mouth and it came round the sides anyway, in bits, high, with a squeak in the top of it that I had never heard myself make. My eyes stayed dry. The muscles under my ribs hurt. It stopped some while after the funny part had gone out of it.
 
 * * *
 
-Across the threshold Valens was up on one elbow. I had not heard him move.
+Across the threshold Valens was up on one elbow. He had moved in silence.
 
 The knife from the road was out of his belt and lying back along his forearm, point to the elbow. He was facing the court and the gate and the black beneath the gallery. He spoke under the sound of the Thessalians' breathing.
 
@@ -75,13 +71,13 @@ The knife from the road was out of his belt and lying back along his forearm, po
 
 His head came round then, and he found where I lay.
 
-It was there. It had been there all evening, the word, behind my teeth, with everything that came after it. He had carried it out of the temple himself, and risen under Kallia's gallery and said it all to me without a syllable out of place, and he had no more idea what it was than the cat on Theano's hearth.
+It was there. It had been there all evening, the word, behind my teeth, with everything that came after it. He had carried the god's half of it out of the temple himself, and risen under Kallia's gallery and said it all to me without a syllable out of place, and he had no more idea what it was than the cat on Theano's hearth.
 
 "A woman on the terrace this morning," I said. "Her husband went in to ask the god where to dig a well. The god said south. She means to dig it where he was told not to, in the dark, and let him think the god thought better of it."
 
 The knife went back into his belt.
 
-"There's no moon till the new one," he said. "She'll dig it crooked."
+"The moon's down by midnight," he said. "She'll dig it crooked."
 
 He lay down again, facing out, and pulled the cloak up over his ear. His breathing evened. One of the Thessalians said the girl's name again and was quiet.
 
@@ -91,7 +87,7 @@ I said the word once with no sound in it, toward the jars. To everybody under th
 
 * * *
 
-Some hours on, I needed the latrine.
+Some hours on, I needed the pot by the water jars.
 
 There was no way out of the storeroom but over Valens. I gathered the chiton up in one hand and went across him in a single long step, and he slept on, or let me think he did.
 
@@ -107,7 +103,7 @@ The boy had nothing left in him at last, and the father carried him back to the 
 
 "What did Theano want with you?"
 
-Kallia had had every other piece of it from me, in its order.
+Kallia had had every other piece of the day from me over supper.
 
 "She wanted somebody to hear about her stool," I said.
 
@@ -127,7 +123,7 @@ Silver was the easy part. In Delphi I had needed a man to stand at a door for me
 
 Whoever took me to that town, the plan left him there. Felix had asked that afternoon whether he could come, if it was Italy. It was Italy. The plan had no boy in it, and I kept it so. Eight years was plenty of time, I told myself. Men went where the work was. A muleteer went wherever mules were wanted, and that was everywhere.
 
-The sailing season closed with the autumn and opened with the spring. The boats going west at this new moon were for people who had both. Next spring, then. Saint Paul had made the crossing ten or eleven years before, in chains. His grain ship was an Alexandrian; it wintered on Malta and came in to Puteoli with the spring. If the grain ships would carry a prisoner, they might carry a woman with a man's name in front of hers. From Puteoli it was the coast road round the bay to a town I had never stood in and could have drawn blindfold. Out through one of its gates to the tombs and along them, looking for a door that was only paint, and through it on whatever day it chose, years ahead of the mountain.
+The sailing season closed with the autumn and opened with the spring. The boats going west at the next new moon were for people who had both. Next spring, then. Saint Paul had made the crossing ten or eleven years before, in chains. His grain ship was an Alexandrian; it wintered on Malta and came in to Puteoli with the spring. If the grain ships would carry a prisoner, they might carry a woman with a man's name in front of hers. From Puteoli it was the coast road round the bay to a town I had never stood in and could have drawn blindfold. Out through one of its gates to the tombs and along them, looking for a door that was only paint, and through it on whatever day it chose, years ahead of the mountain.
 
 A year to get there. Seven, after that, to watch a door in. It was more time than I had been given for anything in my life. A town that size had lamps that broke and bronze that cracked. I could join a thing so the join never showed, and a mender who could do that would eat while she watched.
 
@@ -145,10 +141,10 @@ Either the cave was shut, or it was open. I meant to go up as soon as it was lig
 
 * * *
 
-Before the gray, the old moon rose above the mountain's eastern shoulder, a paring of it, too thin to give any light. I watched it over the court wall until the sky round it began to pale, and somewhere after that I slept.
+Long before the gray, the half moon had dropped behind the western hills, and the court was black to the walls. I watched Parnassus's eastern shoulder until the sky there began to pale, and somewhere after that I slept.
 
 I woke to an empty doorway. Kallia's blanket lay on the threshold, folded in four. The fire was lit under the pot. The ashes had been carried out and the hearth brushed, which was my work, and the two water jars stood full beside the wood, sweating. Kallia stood at the gate with the bar in her hands.
 
 "He's gone down for the mules," she said. "You're to wait for him at the bottom of the climb. There's bread in the cloth."
 
-She took the bar down and let me into the lane. Above the end of it the two cliffs were coming clear of the night, gray at their feet first and then, very slowly, a paler gray along the rim, with the path to the plateau scratched up the rock in its long turns and nobody on it yet.
+She took the bar down and let me into the lane. Above the end of it the two cliffs were coming clear of the night, gray at their feet first and then, very slowly, a paler gray along the rim, with the path to the plateau scratched up the rock in its short turns and nobody on it yet.
