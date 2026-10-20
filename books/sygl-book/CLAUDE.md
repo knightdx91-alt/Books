@@ -19,7 +19,7 @@ books/sygl-book/
 ├── project/STYLE_CONSTRAINTS.md
 ├── manuscript/chapter-NN.md   # the book (flat layout)
 ├── feedback/progress.md       # exact resume point (+ manga track notes)
-├── sygl-manga/                # separate manga adaptation track
+├── sygl-manga/                # SET ASIDE by the author (2026-10-20); out of scope, ignore
 ├── superseded/                # old drafts, not part of the book
 └── tools/                     # style_check.py, grammar_check.py, tic_report.py, voice_wear_check.py
 ```
@@ -48,7 +48,7 @@ books/sygl-book/
   as a blood mage supporter"); sygls are **on the palm**; Bal has a **high pain tolerance**; other orphans have
   no magic at all; Fredrick was a **friend**; Amelia's familiar brand is on her forehead and can be hidden.
 - **POV:** close third on **Bal only**, PAST tense. What he doesn't witness is reported, as the source reports
-  it. No dual narration in prose (manga-only if wanted).
+  it. No dual narration.
 - **NO TICS** (repo law 2026-10-18): distinguish characters by worldview, syntax, evasion, physicality.
   **Explicit exception (author ruling 2026-10-20): Amelia may call Bal "Master"** — a legitimate title from a
   familiar to her bonded mage — where the source uses it or the relationship makes it natural. All other
@@ -56,7 +56,7 @@ books/sygl-book/
 - Fade-to-black. Keep separate from the-fourfold-crown.
 
 ## Open author decisions (ask, don't invent)
-See `STATE.yaml` → `open_author_decisions`: whether the manga keeps the dual-narration device.
+None open (all resolved 2026-10-20; see `STATE.yaml` → `decisions`). New questions go in `open_author_decisions`.
 
 ## Status (update as you go)
 - 2026-10-20: blueprint rebuilt to source order (30 chapters, ≈91,400 words).

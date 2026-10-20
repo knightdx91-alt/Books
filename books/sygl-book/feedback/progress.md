@@ -27,7 +27,10 @@ happy ending).
 Still pending (housekeeping): decide whether to migrate `manuscript/chapter-0N.md` → `manuscript/chapters/`;
 open author questions are listed in STATE.yaml `open_author_decisions`.
 
-## Manga adaptation (parallel track)
+## Manga adaptation — SET ASIDE (author, 2026-10-20: "disregard the manga")
+Out of scope; not kept in sync with the prose. Notes below are historical only.
+
+### (historical) Manga adaptation (parallel track)
 See `sygl-manga/` for the illustrated version. Image generation works end-to-end via a personal RunPod
 serverless endpoint (ComfyUI **5.8.5** + FLUX; the 5.8.6 build crash-loops — see sygl-manga/README.md).
 First working Bal panel: sygl-manga/panel-bal-flux.png.
