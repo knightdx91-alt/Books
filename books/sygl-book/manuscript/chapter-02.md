@@ -22,17 +22,29 @@ He managed a jerky nod.
 
 "Huh." She sounded delighted. "No one's tried that one. They've tried the doors, oh, they've tried the doors. Kicking, prying, chanting, and one boy who tried to talk them open by being very polite to them. I rather liked him. But nobody's come in through the top." She clasped her hands behind her back and rocked on her heels. "What gave you the idea?"
 
-That, at least, he could answer. His tongue came unstuck enough to explain about Saint Andre's and the carvings and the apple, and the afternoon a few days ago when the roof of this building had flickered and he'd caught that one glimpse of the inside. The pillars, the fire, the statue. He told her about the ladder that was too short and the gap that was too wide, and *Sygldry Year 2*, and the sock that had hit the dormitory ceiling. She listened to all of it with her head on one side, and when he got to the sock she laughed out loud.
+That, at least, he could answer, once his tongue came unstuck.
+
+"I live at Saint Andre's," he said. "The orphanage, over the wall. I was up on the roof the other day looking at the carvings, and this whole building flickered. Only for a second. I saw the pillars and the fires and the statue, and then it was plain stone again."
+
+"Did it." She glanced upward, eyebrows raised. "How careless of it."
+
+"Our ladder's too short to get up here. And the gap's too wide to jump." He was talking faster now and couldn't seem to stop. "So I found a spell in *Sygldry Year 2* for carrying things, and I practiced on a sock first."
+
+"And how did the sock get on?"
+
+"It hit the dormitory ceiling. Somebody had to fetch it down."
+
+"Poor sock," Amelia said gravely. She looked at the rug in its heap on the floor. "I see you moved up in the world."
 
 "I honestly thought I was seeing things," Bal finished. Now that he had started talking, the questions crowded up behind his teeth. "Who are you? How did *you* get in?"
 
-The girl laughed again and gave a careless little wave of her hand.
+The girl laughed and waved a hand.
 
-The air between them shivered. Stone grated softly on stone, and in a matter of seconds two stone benches stood on the floor between them, facing one another, as solid as if they had been carved there a hundred years ago. They were plain grey, smooth-topped, with lion's feet at the corners. A thin film of dust lay on them. They might have been sitting there all along, waiting for him to notice.
+The air between them shivered. Stone grated softly on stone, and in a matter of seconds two stone benches stood on the floor between them, facing one another, as solid as if they had been carved there a hundred years ago. They were plain grey, smooth-topped, with lion's feet at the corners. A thin film of dust lay on them.
 
 "Have a seat," she said, "and I'll explain."
 
-Bal stared at the benches. He had spent the last year of his life struggling to float tin cups. He'd spent three evenings coaxing one rug off the floorboards. She had pulled two pieces of furniture out of the air with a flick of her wrist, without a word, without even a pause for breath, as easily as he might scratch his nose. He'd never seen a display of magyk like it, not from the teachers who came to the orphanage, not from anyone.
+Bal stared at the benches. He had spent a whole spring getting tin cups to float, and three nights coaxing one rug off the floorboards. She had pulled two pieces of furniture out of the air with a flick of her wrist, without a word. He'd never seen a display of magyk like it, not from the teachers who came to the orphanage, not from anyone.
 
 He walked slowly to the nearer bench and sat down on the edge of it. The stone was cool and entirely real. The pale girl swept her skirt aside and took the other bench, settling in with the ease of someone in her own favorite chair.
 
@@ -52,7 +64,7 @@ Amelia frowned. It was the first time he'd seen her look anything other than amu
 
 Bal's mouth dropped open.
 
-He knew the words. Everybody knew the words. Vampires were a story you told younger children in the dormitory after lights out, a flashlight lit beneath your chin. The Queen of the vampires was the one you saved for last, because she was the oldest and the worst, and also because she was the one that was supposed to be true once, ages and ages ago.
+He knew the words. Everybody knew the words. Vampires were a story you told younger children in the dormitory after lights out, a flashlight held under your chin. The Queen of the vampires was the one you saved for last, because she was the worst, and because she was supposed to have been real once, ages ago.
 
 "Wait, wait," Bal stuttered. "You mean the originator of the blood sygl?" His voice came out embarrassingly high. "I thought you were a myth!"
 
@@ -64,11 +76,11 @@ Her voice rang off the pillars and came back doubled. The fires in both braziers
 
 Bal scrambled to his feet and began backing away slowly, one careful step at a time, keeping his eyes on her and his hand out in front of him for all the good it would do.
 
-Amelia saw this. He watched her see it. She shut her eyes, pressed her lips together, and took a long breath through her nose, then another, and the tight cold feeling eased out of the air. The braziers sank back to their low, steady glow. When she opened her eyes again, she looked far more like a girl in a black dress and a good deal less like a storm about to break.
+Amelia saw this. He watched her see it. She shut her eyes, pressed her lips together, and took a long breath through her nose, then another, and the tight cold feeling eased out of the air. The braziers sank back to their low, steady glow. When she opened her eyes again, she was a pale girl in a black dress and nothing more.
 
 "I'm sorry," she said. "I wasn't expecting that. Although I suppose I should have known." She sat back down on her bench, smoothing her skirt, and gave him a small, rueful smile. "Please. Sit. I won't bite. Not without asking."
 
-Bal didn't sit. He didn't run, either. He held his ground, halfway between his bench and the rug, and tried to decide which would be the more sensible choice.
+Bal stayed where he was, halfway between his bench and the rug, unable to decide whether sitting or running was the more sensible choice.
 
 Amelia didn't seem to mind. She was looking at his arm.
 
@@ -94,19 +106,41 @@ Amelia inclined her head.
 
 At her words, Balthazaar heard the truth.
 
-He couldn't have explained how. It was not a sound, exactly, more a kind of settling, a click deep down in his chest as something that had been crooked all his life slid into its proper place. The blockage in his wrist. The itch. The magic that always ran smoothly to the elbow and then stuck. It had never been a missing hand that stopped it. It had been a missing sygl, a door someone had bricked up while he was too small to know there was a door there at all.
+He couldn't have explained how. It was a settling more than a sound, a click deep down in his chest, as something that had been crooked all his life slid into its proper place. The blockage in his wrist. The itch. Someone had bricked up a door in him while he was too small to know there was a door there at all.
 
-He knew what blood sygls were. Everybody did, much as everybody knew the things nobody discussed at the dinner table.
-
-Blood sygls, while not strictly outlawed, were frowned upon. Badly. Often, if an infant was born showing one, the doctors would remove the baby's hand before the mark could settle in, because people believed the blood sygl could drive you mad. That was what the stories said, anyway. Blood magic got into your head. Blood magic made you crazy, made you hungry, made you dangerous to the people around you. Bal had always privately thought that a lot of that talk was there to get people riled up against anyone who carried the mark, but that was only him. Nobody else he knew had ever been bothered enough to wonder.
-
-What made it worse was that no one was sure the blood originator even still existed. She had not been seen for years. More than years. Some people had thought for a long time that the originator was Dracula, but after he had been killed, that proved he wasn't. Other originators were real enough. Once a year, every one of them appeared at the Heir's School, the first and grandest of the Sygldry schools, to claim their blood, the new students born under their mark. There was a place set aside for the blood originator at that gathering, the same as for the others. Year after year, she had never shown up.
-
-People had stopped expecting her. And after long enough, they'd stopped believing in her at all.
+He knew what blood sygls were. Everybody did. Blood sygls, while not strictly outlawed, were frowned upon. Badly.
 
 Bal looked up. Amelia was watching him, waiting, her pale hands still in her lap.
 
-He took a breath and explained it to her, all of it. The doctors and the hands. The rumors about madness. Dracula, and how everyone had felt rather foolish about that afterward. The yearly gathering at the school, and the place that was kept for her, and how she had never come to claim it, not once in all the years anyone could remember, until the place became a kind of joke, and the joke became a fairy tale, and the fairy tale became a myth. He tried to say it gently. There wasn't a gentle way to say most of it.
+"You don't know what they say about it?" he asked. "Out there?"
+
+"I've been in here," Amelia said. "Tell me."
+
+He rubbed the stump against his knee. "Well. If a baby's born showing a blood sygl, the doctors usually take the hand. Before the mark can settle in."
+
+"Usually?" Amelia asked.
+
+"Mostly. I don't think anybody asks the baby. People think it drives you mad. That's what the stories say, anyway. Blood magic gets into your head, and you go crazy, and you start going after people."
+
+"Mad," Amelia said. She spread her hands, inviting him to look. "Do I look mad to you?"
+
+Bal looked. Rubies, black dress, one eyebrow up.
+
+"Not right now," he said honestly.
+
+That got the corner of her mouth to twitch. "Go on."
+
+"I always thought a lot of it was there to get people riled up against anyone with the mark. But that's only me. Nobody else I know ever wondered about it." He hesitated. "The other part is that nobody's seen you. Not for years. Longer than years. For a long time, people thought the blood originator was Dracula."
+
+"Dracula," Amelia repeated. Her voice had gone flat.
+
+"But then somebody killed him. So that proved he wasn't." Bal shifted on the bench. "Everyone felt pretty stupid about that afterward."
+
+Amelia said nothing. Behind her, the nearer brazier sank low and then flared up again, though there wasn't a breath of wind. Her hands had stopped moving in her lap.
+
+There was one more piece, and Bal wished there weren't. He made himself say it anyway.
+
+"Once a year," he said, "all the originators come to the Heir's School. That's the first school, the grandest. They come to claim their blood, the new students born under their mark. There's a place set aside for you there, the same as for the others. You've never come. Not once, as long as anyone can remember. After enough years of an empty chair, people decided the chair was all there was."
 
 Once he was done, Amelia exploded.
 
@@ -122,13 +156,13 @@ Bal lowered his arm cautiously. A single tiny black wisp drifted down past his n
 
 She was still fuming. Bal could see it in the set of her jaw and in how her fingers had knotted in the black fabric of her skirt. When she spoke, she spoke mostly to herself, in a low, furious mutter.
 
-"They lock me up in here and then act like I don't exist." She drew a slow breath and let it out again. Then she turned that red gaze back on him, and some of the anger went out of it. "Why haven't you gone to school? You've got the magic for it. I can feel it on you. Even without my magic, you're still powerful in your own right."
+"They lock me up in here and then act like I don't exist." She drew a slow breath and let it out again. Then she turned back to him, and some of the anger left her. "Why haven't you gone to school? You've got the magic for it. I can feel it on you. Even without my magic, you're still powerful in your own right."
 
 Bal held up his stump.
 
 "No sygl," he said simply. "No school will let you in unless you have a sygl."
 
-Amelia narrowed her eyes at him. The firelight caught them as she did, and now Bal saw clearly what color they were. They were red. Not brown with a reddish tinge, not a trick of the braziers, but red through and through, the deep, rich red of fresh blood, a match for the rubies at her ears.
+Amelia narrowed her eyes at him. The firelight caught them as she did, and now Bal saw clearly what color they were. Red, the same red as the rubies at her ears.
 
 She grinned, and it changed her whole face.
 
@@ -146,7 +180,7 @@ Bal swallowed nervously.
 
 "Uhm," he said. "Within reason."
 
-Amelia laughed, delighted, and the spell of the moment broke. She dropped down onto the bench beside him, close enough that her shoulder brushed his, and swung her feet beneath the hem of her dress like a girl half her apparent age.
+Amelia laughed and sat down beside him, and the spell of the moment broke. Her shoulder brushed his, and she swung her feet beneath the hem of her dress like a girl half her apparent age.
 
 "Within reason," she repeated. "Good. I like a boy with sense." She turned toward him on the bench, her knee against his, and her voice went serious. "Then hear me, Balthazaar. You shall go to this school. I will bond myself to you as your familiar. Doing so will free me from this place."
 
@@ -160,7 +194,7 @@ Then her voice softened, and she laid one cool hand on his knee.
 
 Bal looked at her hand, and then at her face, and then down at the stump.
 
-It all sounded wonderful. It sounded so wonderful that he didn't quite trust it. Going to a Sygldry school, as Fredrick had, climbing into a car with a trunk and waving goodbye to everyone on the steps. Learning magic from people who knew what they were doing instead of from a cracked secondhand book by torchlight. All of it was sitting there in front of him, close enough to touch, and there was still one rather large problem standing in the way.
+It all sounded so wonderful that he didn't quite trust it. Going to a Sygldry school, as Fredrick had, climbing into a car with a trunk and waving goodbye to everyone on the steps. Learning magic from people who knew what they were doing instead of from a cracked secondhand book by flashlight. All of it was sitting there in front of him, close enough to touch, and there was still one rather large problem standing in the way.
 
 Still nervous, Bal held up the stump between them.
 

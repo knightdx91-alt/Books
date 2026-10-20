@@ -157,3 +157,11 @@ Structural first (#1, #2), then Character (#3), then Continuity (#8, #9), then P
 The chapter is faithful, warm and commercially sound. All of the work above is cutting and dramatizing material the source already contains.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+## Revision applied (2026-10-20, surgical editor)
+- #1: The sygl-history block (old L99–109) is now an on-page dialogue. Bal says the source facts aloud: doctors take the hand, the madness rumors, Dracula, then the empty place at the Heir's School last. Amelia's interjections go from teasing ("Do I look mad to you?") to flat ("Dracula") to silent while a brazier dips. No new lore. The joke→fairy tale→myth chain, the "mug line" closing and the offstage summary are cut.
+- #2: The flicker/ladder/sock explanation is now dialogue. Amelia answers the sock with a dry line ("Poor sock") instead of a laugh.
+- #3: Laughs cut to 3, all from the source. "laughed, delighted" is gone (source: "laughed and sat down beside him").
+- #4–#7, #10, #11: explanatory extensions and "Not X but Y" constructions trimmed at the benches' dust, the click, the red eyes ("Red, the same red as the rubies at her ears") and "storm about to break". The doubled "sounded wonderful" is merged into one sentence.
+- Continuity: "oldest" cut (Amelia is the newest originator per source L334). American register is kept: "flashlight" in both places (the old "by torchlight" is now "by flashlight"). Ch.1 still says "a torch" in the backpack and needs the same change. Tin cups now read as "a whole spring", matching Ch.1. The "red gaze" line that came before the eye reveal is removed.
+- Gates (with Ch.1–4): style_check clean, grammar 0, voice_wear clean, tic_report --gate clean. Em-dashes 0, "the way" 1, simile 2.2/1k. The word count is 2,757 (−82). Dramatizing the history replaced the double-telling, so the chapter did not grow.
