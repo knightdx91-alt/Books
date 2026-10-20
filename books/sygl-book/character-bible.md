@@ -528,7 +528,8 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - Sample line: "We must try to send in a force to eliminate the priests, then take out the High Priest.
   That is our only chance." (p.129; Ch.22)
 
-#### COMMANDER FERN — commander of the Blood army (Ch.18, 22; mentioned 27) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### COMMANDER FERN — commander of the Blood army (Ch.18, 22; mentioned 27) *(on page Ch.18 — confirmed)*
+- **Ch.18 as written:** his room in the hidden temple (long table, the map of Raizen's territory weighted with stones, a paper-buried desk, a lamp burning at midday); blunt assessments; "Could we do that to them? See how they like it?" (source line, polished); faintly surprised to be asked how he knows ("Spies, of course"); frowns into his beard once; thumbs through the stack licking his thumb (once — not a recurring gesture); reads Toma's file aloud. Bal's fingers drum on the table's dark wood (the single-use map image, spent).
 - Attention / worldview: what force and intelligence can do (spies with no sygls posing as labourers;
   Toma's file); ready to answer in kind until Bal forbids it.
 - Vocabulary band: a commander's blunt plain speech.
@@ -733,7 +734,7 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - DISTINCTNESS GUARANTEE: the race horse of the book, against Thistle's plod.
 - Sample line: none.
 
-#### HIGH PRIEST TOMA — Raizen's High Priest (Ch.18 file; Ch.28 letter; Ch.29 duel) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### HIGH PRIEST TOMA — Raizen's High Priest (Ch.18 file; Ch.28 letter; Ch.29 duel) *(not yet on page — Ch.18: named only in Fern's file and Raizen's statement "through his High Priest"; card stands until Ch.28/29)*
 - Attention / worldview: the rules of the duel and the grief of a man whose priests were killed; real
   care for his fellow priests (give it its line); cruelty promised in return; takes the girls as leverage
   and keeps them unharmed.
