@@ -1930,3 +1930,56 @@ The at-risk registry note is the bible's, so it is not applied here.
 - **Felix** is out of the plan, and his Italy question is unanswered to him.
 - **AD 79** in present thought is spent for Ch.14. The 24th and the hours remain for Ch.36–37.
 - **Kallia** has the whole day except Theano's word, plus the stool cover.
+
+## 2026-10-20: UPDATE (re-sync of chapter 14 after polish cycle 1 and finalize FZ1-FZ7)
+
+- **Input:** `git diff c09a50c HEAD -- manuscript/chapters/chapter-14.md` (commits d6b2bd9, the 23 swaps, and 6ff55fc, FZ1-FZ7). chapter-14.md was last written 09:17:55 (md5 7942cfa0…, 3,003 words by shape_check).
+- **Renumbered:** the page goes from 64 paragraphs to 62.
+  - Polish L1 cut old p45 ("Kallia had had every other piece of the day from me over supper.").
+  - P2 merged old p57 (the pointer that quoted Ch.13's "Tomorrow") into old p58, which now opens "That left the cave."
+  - Map: old p1..p44 keep their numbers; old p46..p56 = p45..p55; old p57 + p58 = p56; old p59..p64 = p57..p62.
+  - The breaks now come after p8, p13, p17, p20, p25, p36, p48, p55 and p58.
+  - 528 explicit ch-14:pYY were remapped, plus 77 bare refs on Ch.14-only lines. Bare refs in the earlier Ch.14 run log keep their old numbers.
+- **Method:** every quoted segment on a ch-14 line, and every line of the CH14-n entries and `ch14_requested_checks`, was checked against the final page by script. What is still flagged is either another chapter's quote, a bible string, or a cut line quoted on purpose and labelled.
+- **Corrected to the page:**
+  - the jars: "her big jar stood empty, with a small one turned upside down on its mouth" (p3), in theanos-house, Mara's carries and the objects check. The jar Mara carries is presumably the small one (not stated);
+  - "the cat opened one eye at me." (p3);
+  - "closed on the name" and "Its sea to the west" (p1);
+  - Fiorelli's "like sherds in a tray" (p11);
+  - the plaster, "thin in places and never floated smooth" (p14);
+  - "my father's bed … for the season" (p21), which agrees with Ch.2's "In Emilio's place" (ch-02:p40);
+  - "He came home lean and dark" (p23);
+  - "On his blanket Valens was up on one elbow." (p26);
+  - "He left the knife where it was." (p29), added to Valens's trait, the talkers-knife rows and the check;
+  - "He slept almost at once." (p34);
+  - "I made the plan while my feet warmed." (p49), with no clock marker in the timeline;
+  - "A husband or a brother; failing those, an owner." and "asleep within reach of my hand" (p51);
+  - "opened again in spring", "the fare and a man", and Saint Paul's ship "went aground on Malta, and another Alexandrian that had wintered there brought him in to Puteoli" (p53), in Mara's knowledge, saint-paul, malta, puteoli, kirrha, the timeline event, the world rules and the CH12-4 recheck;
+  - "bowl to door." with no "and it held" (p55);
+  - "That left the cave." (p56), "with my fingers on the crack, and feel nothing come through" (p57) and "with Valens and the mules if he would come, and alone if he would rather sleep" (p58), in CH13-7, the cave thread and Mara's traits;
+  - "Kallia stood at the gate, ready to lift the bar." (p60), in Kallia's trait, household and location rows.
+- **Removed (cut from the page):**
+  - "my wet front";
+  - "Either the cave was shut, or it was open." (Mara's all-or-nothing trait is now "wants the cave proved shut by touch");
+  - "find out which";
+  - "see it shut with my own eyes";
+  - "In the middle of the night";
+  - "somebody whose name went down first".
+- **Unchanged and only re-anchored:** the moon lines (p33; p53; p59), "picked the town" (p24) and "short turns" (p62). These are the eval's ENTITY note, and every item in it is applied.
+- **Kallia's knowledge (the deleted "every other piece of the day" sentence):**
+  - One row depended on it: "'every other piece of the day' from Mara 'over supper'". It rested only on that sentence, so it is **WITHDRAWN**. The withdrawal is noted in her `knowledge_absent_ch14` ("not on the page since polish cycle 1"), in CH14-5 and in the forward constraint.
+  - Her other Ch.14 rows stand: the stool cover (p45), the ram boy (p42) and the mules (p61).
+  - The Ch.14 entry's "For Ch.15 onward" line, "Kallia has the whole day except Theano's word", is superseded. She has the stool cover. Theano's summons is hers from Ch.13 (ch-13:p197).
+- **CH14-1 RESOLVED:**
+  - At the first check (09:19) the bible was still as written at 08:01.
+  - The parallel sync then landed (commit e1a2ea6). Its seven Ch.14 blocks are tagged SYNCED, and all 214 of their quotes were checked by script. None is a Ch.14 quote that is off the page.
+  - Every bible string CH14-1 listed is gone from the current blocks, and the Armada account is corrected. The `recheck_final_page` and `resolution` fields hold the trail. CH14-6's trailer is updated (the bible now says 1979 too).
+- **CH14-5 (still UNRESOLVED):** the cover stands. With the supper line cut, the stool is the only account of the day Mara gives Kallia. This is still for continuity-guardian.
+- **CH14-2 and CH14-4:** each gets a `final_page` note. Their resolution and departures stand.
+- **CH13-7 (still UNRESOLVED, low):** re-quoted. The errand now names Valens and the mules, so Kallia's dawn line answers it.
+- **Meta:**
+  - a Ch.14 row in `meta.revalidation_needed` (RESOLVED);
+  - a new `ch14_requested_checks` entry;
+  - `paragraph_rule`, `last_updated_by`, `mode`, `source` and the header comment extended.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+- **No new contradiction and no knowledge_gap.**
