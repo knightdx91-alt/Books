@@ -56,8 +56,7 @@ books/sygl-book/
 - Fade-to-black. Keep separate from the-fourfold-crown.
 
 ## Open author decisions (ask, don't invent)
-See `STATE.yaml` → `open_author_decisions`: how the girls' overhearing of the juggling
-talk surfaces in Bal-only POV; whether the manga keeps the dual-narration device.
+See `STATE.yaml` → `open_author_decisions`: whether the manga keeps the dual-narration device.
 
 ## Status (update as you go)
 - 2026-10-20: blueprint rebuilt to source order (30 chapters, ≈91,400 words).

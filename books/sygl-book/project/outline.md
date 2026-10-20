@@ -399,8 +399,8 @@ looked pretty angry" / "It had tried to run, but it didn't get far"; **the juggl
 conversation it is**: "So you like to juggle huh?", her eyes going to the girls; "It's not something I
 planned on doing and if the ones being juggled had a problem I hope they would tell me … I would also hope
 that each one knows that they mean a lot to me and **I do not feel more strongly for one over the
-other**."; Amelia thinks it over in silence (POV: the source says the girls overheard without Bal seeing;
-render only what Bal can observe, e.g., the girls nearer behind than he thought and quiet); the walk back
+other**."; Amelia thinks it over in silence (POV, author decision 2026-10-20: render only what Bal can observe: the girls nearer behind than he
+thought, then dropping back and talking quietly; the reader infers they heard; confirmed in Ch.19); the walk back
 to New Spring, the always-staffed Dawn Hall, Soren, the changed reward; stew in town; after curfew, the
 girls' hugs; walking slowly back with Amelia.
 **Structure:** errand, beast, walking talk.
@@ -447,7 +447,8 @@ they do that?"; the weeks together have bound them; Bal weighs Lora's all-Waves 
 village; "There is a way to circumvent the rule. But it is not something to take lightly."; Amelia lets
 him handle it; the offer (only if they choose; irreversible; families; how blood sygls are treated; "I
 don't want you to be unhappy"); inheritance kept, maybe another gained; Viridia twisting the ring; Lora
-loses waves magic and doesn't mind; "I've got an in with the Blood Lead Mage"; **Lora: "I'm not sure how my
+loses waves magic and doesn't mind; "I've got an in with the Blood Lead Mage"; **one of the girls: "We heard what you told Amelia in the
+pass"** (author decision 2026-10-20; confirms the juggling talk was overheard and is part of why they choose; one line); **Lora: "I'm not sure how my
 father will feel, but I know he loves me. My family will stay by me. I'll do it."**; **Viridia: "I'll do it
 too, I can't have them trying to take Hopper from me … Especially miss book smart here."**; "last chance";
 the dagger; three left palms cut together; two thin streams of his blood; their palms forced white; his
