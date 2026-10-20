@@ -111,7 +111,7 @@ Strategy: **dramatize the summary, bridge the time-jumps, and give the antagonis
 | 10 | 3,400 | The cave/bloodwolf bond dramatized (currently reported second-hand, p.36–37); Bal's research given stakes. |
 | 11 | 3,400 | Warfare class; Lora's backstory shown through how she fights, not the bookshop overheard-summary. |
 | 12 | 4,000 | New Spring fully walked; Dawn faction; banter establishes the trio dynamic. |
-| 13 | 3,200 | The gift scene — preserve almost verbatim; this is the emotional peak. Deepen Lora's and Viridia's reactions. |
+| 13 | 3,200 | The gift scene — keep every beat and its memorable lines (dialogue is the BASE: polish allowed, meaning/speaker/placement kept, per the 2026-10-20 ruling); this is the emotional peak. Deepen Lora's and Viridia's reactions. |
 | 14 | 3,800 | The hidden temple, Peter's tragic dedication shown, the army made real (named soldiers). |
 | 15 | 4,200 | The job: bandit fight choreographed with real danger; the bear; Amelia's restraint dramatized as internal war. |
 | 16 | 3,800 | The conversion of Lora & Viridia given full weight (consequence, fear, family cost); war declared. |
@@ -133,7 +133,7 @@ Strategy: **dramatize the summary, bridge the time-jumps, and give the antagonis
 
 1. **The premise hooks.** Sigil-less one-handed orphan + the imprisoned goddess as his *own familiar* + a hand regrown by drinking her blood + a forbidden "conversion" power that lets him poach other gods' followers. This is a strong Self-Insertion engine. The accidental conversion of a High Priest as the climax payoff is genuinely clever — keep it.
 2. **Voice warmth and forward pull.** Even in raw summary, the narration is friendly and never stalls; the back third (Londra heist → kidnapping → duel) reads fast. Preserve the readability while fixing tense and tics.
-3. **Character dynamics / the found-family core.** The trio + goddess chemistry is the heart. Specific beats to keep almost verbatim: **the Dawn card with "Amelia Norheart" and her bloody tears** (p.84, the book's true anchor); **"you can keep her"** (p.37); the diary tease (p.78); **"no one threatens my girls"** (p.124); Viridia's poison-cup courage (p.155–158).
+3. **Character dynamics / the found-family core.** The trio + goddess chemistry is the heart. Specific beats to keep (beat and memorable line intact; dialogue polish allowed per the 2026-10-20 ruling): **the Dawn card with "Amelia Norheart" and her bloody tears** (p.84, the book's true anchor); **"you can keep her"** (p.37); the diary tease (p.78); **"no one threatens my girls"** (p.124); Viridia's poison-cup courage (p.155–158).
 4. **Amelia as a character.** Mischievous, possessive, lonely-after-3,000-years, casually lethal ("We play their game and break their toys"). Her blood-tears motif and her final cruel-poetic revenge (exiling Raizen into *her* old temple for 3,000 years) are the most distinctive material in the book.
 5. **Lora's specificity.** Her alchemy/rapier monomania and social anxiety make her the one character who already passes the cover-the-name test — use her as the voice template for differentiating Viridia.
 6. **Clean em-dash discipline (0 in source).** Maintain this through the rewrite.

@@ -21,8 +21,12 @@ Revised 2026-10-20 (author: "make it more like my original script. And it's supp
 - **Single exception (author ruling 2026-10-20):** Amelia may call Bal **"Master"**, a legitimate title from
   a familiar to her bonded mage, where the source uses it or the relationship makes it natural. It is a
   form of address, not a refrain; do not build jokes around repeating it.
-- Source lines that occur once ("I'm not like most people," the stuck-out tongue, "I need to study more,"
-  "That girl loves having the last word") are used once, where the source has them, never as signatures.
+- Source lines that occur once ("I'm not like most people," "I need to study more," "That girl loves having
+  the last word") are used once, where the source has them, never as signatures.
+- No two characters share a device. The source gives a stuck-out tongue to both Amelia (p.24) and Viridia
+  (p.35); it is used once only, for Amelia (Ch.5), and Viridia's moment is rendered another way (Ch.7).
+- Gestures that recur in the source (Amelia's finger-snap, Viridia's crackling hair) are rendered with variety
+  and only where the source has them, never as a signature. Bal flexing the new hand is spent in Ch.3.
 - Stage business rationed: `nods/nodded`, `shrugs/shrugged`, `shakes his head`, `grins` as a tag; hair
   tucked behind an ear; anything picked up and set down. Vary or cut.
 - Filter words: `just`, `seemed`, `really`, `slightly`, `suddenly`, `began to`/`started to`, `visibly`.
@@ -32,7 +36,9 @@ Revised 2026-10-20 (author: "make it more like my original script. And it's supp
 ## 3. NO REPEATED PHRASES OR METAPHORS
 - No phrase ("for a moment", "look on his/her face", "be able to") recurs as a crutch. Track 3- and 4-grams
   across chapters.
-- A metaphor used once is spent for the whole book (e.g. "firelight reflecting off her eyes").
+- A metaphor used once is spent for the whole book (e.g. "firelight reflecting off her eyes", spent in Ch.2).
+- An image or gesture used as one chapter's Opening/Anchor/Hook is not reused as another's (the outline's
+  ledger tracks them; single-use: the softball game, the juggled stones, the tongue-out, the map under a finger).
 
 ## 3b. "the way [x]" SIMILE CAP
 - At most 2 per chapter, staggered (0–1 in alternate chapters). Prefer plain syntax.
@@ -54,8 +60,8 @@ Revised 2026-10-20 (author: "make it more like my original script. And it's supp
   "unsettling" residue the source does not have.
 
 ## 6. LENGTH
-- Whole novel **≥ 90,000 words** (outline totals ≈ 91,400 over 30 chapters, 1,300–5,000 each). Expansion
-  must add scene and substance, not padding or new plot.
+- Whole novel **≥ 90,000 words** (outline total ≈ 91,856 over 30 chapters: Ch.1–4 as written, 11,756; Ch.5–30
+  targets 1,300–5,300 each, shortest ≥ 1,200). Expansion must add scene and substance, not padding or new plot.
 
 ## 7. CANON
 - Source of truth is `Sygl_Complete.txt`, **in its order**. Preserve every beat, name and world rule;

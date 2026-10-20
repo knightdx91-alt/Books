@@ -1,13 +1,22 @@
-# Sygl — Chapter Outline (30 chapters, ≈ 91,800 words)
+# Sygl — Chapter Outline (30 chapters, ≈ 91,900 words)
 
 **Revised 2026-10-20 to follow the author's original script** ("make it more like my original
 script. And it's supposed to be Sygl."). This outline replaces the 2026-07-13 24-chapter map.
+Audited 2026-10-20 (see `evaluations/outline-audit-2026-10-20.md`): Ch.1–4 entries now record what
+was written and approved; source ranges re-verified; later targets rebalanced for the Ch.1–4 shortfall.
 
 Binding rules for every chapter:
 - **Source order is the plot order.** Each chapter cites its source span as `[pp.]` plus the
-  line range in `Sygl_Complete.txt` (`L…`). The source prints `[Page N]` markers only for pp.16–50
-  and pp.71–186; pages 1–15 and 51–70 are unmarked, so those spans are given as `pp.~` estimates
-  (by word count) and the **line range is authoritative**.
+  line range in `Sygl_Complete.txt` (`L…`). A `[Page N]` marker line opens page N. The source prints
+  markers only for pp.16–50 and pp.71–186; pages 1–15 and 51–70 are unmarked, so those spans are given
+  as `pp.~` estimates (by length) and the **line range is authoritative**. Ranges tile L4–1013 in order
+  with no gaps; the source's lines are often a whole page long, so where a chapter break falls inside a
+  line, both chapters cite that line and the quoted cut-point ("to …" / "from …") marks the split.
+- **Dialogue: the author's lines are the BASE, not sacred text** (author, 2026-10-20). Keep what each
+  line says, who says it and where it falls, plus the memorable lines ("They have made me a myth?!",
+  "Because it's magic", the binding vows, "No one threatens my girls"); freely fix grammar, stiffness and
+  anything that doesn't sound natural aloud. Quoted lines in this outline mark the beat, not a required
+  wording.
 - **Expand, don't invent.** Dramatize what the source summarizes; add texture, sensory detail
   and scene; do not add plot, friction, backstory or motives the source does not support.
 - **Close third on Bal only, PAST tense.** Anything Bal cannot see or hear arrives reported, as
@@ -18,19 +27,23 @@ Binding rules for every chapter:
   Amelia is loving, teasing and lethal to enemies, never a manipulator of her own; the ending is
   unambiguously happy.
 - **NO TICS** (repo law, 2026-10-18). Motifs are objects and situations, never repeated lines or
-  gestures. Exception (author ruling 2026-10-20): Amelia may call Bal **"Master"** — a legitimate
-  title from familiar to bonded mage — where the source uses it or the relationship makes it natural.
+  gestures. No image or gesture used in one chapter's Opening/Anchor/Hook is reused in another's, and
+  no two characters share a device. Exception (author ruling 2026-10-20): Amelia may call Bal
+  **"Master"** — a legitimate title from familiar to bonded mage — where the source uses it or the
+  relationship makes it natural.
 - Spelling: **Sygl / sygl / sygls / sygl-less** everywhere; mausoleum; Naisura.
+- The manga (`sygl-manga/`) is set aside by the author and constrains nothing here.
 
-Chapter lengths vary from 1,300 to 5,000 words by design (structural-variety rule); the
+Chapter lengths vary from 1,300 to 5,300 words by design (structural-variety rule); the
 structure of each chapter serves the source's order rather than a template.
 
-**Structure ledger (no two consecutive alike):** 1 single-scene escalation · 2 single-scene
-dialogue · 3 single-scene ritual · 4 two-movement (office → packing) · 5 journey into night ·
-6 ceremony set-piece · 7 exploration → meeting · 8 night conversation · 9 comic set-piece → quiet
-coda · 10 told tale over lunch → training ground · 11 chain of revelations across three places ·
-12 short dinner scene · 13 episodic walk · 14 quiet gift scene · 15 braided days (bridge) ·
-16 road → battle → camp → night walk · 17 errand → beast → walking talk · 18 time-skip → war room ·
+**Structure ledger (no two consecutive alike):** 1 single scene with a remembered goodbye ·
+2 single-scene dialogue · 3 ritual → walk out into the yard · 4 two-movement (office → packing) ·
+5 journey into night · 6 ceremony set-piece · 7 exploration → meeting · 8 night conversation ·
+9 comic set-piece → quiet coda · 10 told tale over lunch → training ground · 11 chain of revelations
+across three places · 12 short dinner scene · 13 episodic walk · 14 quiet gift scene · 15 braided
+days (bridge) · 16 road → battle → camp → night walk · 17 errand → beast → walking talk ·
+18 time-skip (incl. the water-snake job) → war room ·
 19 decision → ritual · 20 public confrontation → debrief · 21 respite → ambush → reported tale ·
 22 council and argument · 23 road episodic · 24 procedural clock · 25 near-real-time set-piece ·
 26 short night camp · 27 disaster → lone trek → battle · 28 sickroom → training bridge ·
@@ -40,52 +53,59 @@ coda · 10 told tale over lunch → training ground · 11 chain of revelations a
 
 ## PART ONE — THE TEMPLE AND THE ORPHANAGE
 
-## Chapter 1: The Roof and the Flicker  *(drafted; being rewritten toward source, pending re-gate)*
-**Source:** [pp.~1–4] L4–14.
-**Scenes:** the orphanage roof and the mausoleum behind it (the boy who fell; off-limits); Bal's
-stump that itches when he thinks of the mausoleum; no hand, so no sygl, though he can still do
-magic (other orphans can do none at all); the flicker that showed a temple and a statue; the plan
-(no ladder tall enough, so magic); `Sygldry Year 2` from Fredrick, a friend who left for school;
-*Levimotorcorpus* through the left wrist in hope of a sygl; the carpet rising a few inches, then
-the flight; no roof; landing on the temple's concrete.
+## Chapter 1: The Roof and the Flicker  *(FINAL 2026-10-20 · written 3,195 words vs 3,800 planned · Genesis Floor 8.5)*
+**Source:** [pp.~1–4] L4–20 (to "Hello?").
+**Scenes (as written):** the orphanage roof and the mausoleum behind it (the boy who fell; off-limits);
+Bal's stump that itches when he thinks of getting in; no hand, so no sygl (sygls appear on the palm),
+though he can still do magic, only weaker (other orphans can do none at all); the flicker that showed a
+temple and a statue; the plan (no ladder tall enough, so magic); **Fredrick's goodbye** (author-approved
+addition, 2026-10-20: a friend who left for one of the lesser Sygldry schools and left Bal his beginner
+spell books, among them `Sygldry Year 2`); *Levimotorcorpus* through the left wrist in hope of a sygl;
+the carpet rising a few inches, then the flight; no roof; landing on the temple's concrete; the braziers
+and the statue; *Locos cantis*; the Greek-style temple open to a sun that should not be there; "Because
+it's magic" whispered in his ear; "Hello?"
 **Opening:** ordinary made strange (a forbidden roof, a stump that itches).
 **Anchor:** the carpet's hesitant rise; landing where there is no roof.
-**Hook:** the braziers, the statue, and "Because it's magic" whispered in his ear.
-**Target:** 3,800.
+**Hook:** "Hello?" into a temple that seems empty.
+**Target:** 3,800 planned → **3,195 written**.
 
-## Chapter 2: The Queen in the Temple  *(drafted; being rewritten toward source, pending re-gate)*
-**Source:** [pp.~4–8] L14–110.
-**Scenes:** *Locos cantis*; the Greek-style temple open to a sun that should not be there; the voice;
-Amelia steps into the firelight (black dress, ruby teardrops, red eyes); the conjured benches;
-"Queen of the vampires" / "the originator of the blood sygl? I thought you were a myth!"; her
-outrage; "Did the thought of having a myth sygl disgust you so you had to cut off your hand?";
-the truth that he had a blood sygl; why blood sygls are feared, infants' hands removed, Dracula,
-the empty place at the yearly claiming; she explodes into bats; "No sygl. No school"; "Would you do
-anything to go?" / "Uhm, within reason"; the offer to bond as his familiar ("I will not ask anything
-of you that you are unwilling to give"); "Are you thirsty?"
-**Opening:** in medias res on the voice.
+## Chapter 2: The Queen in the Temple  *(FINAL 2026-10-20 · written 2,731 words vs 4,200 planned · Genesis Floor 8.5)*
+**Source:** [pp.~4–7] L22–110.
+**Scenes (as written):** Amelia steps out of the dark into the firelight (black dress, ruby teardrops,
+red eyes); "Hello yourself … Mind telling me how you got in?"; "You flew in?" and the flicker explained;
+the conjured benches; "Queen of the vampires" / "the originator of the blood sygl? I thought you were a
+myth!"; her outrage, "They have made me a myth?!"; Bal backing away and her calming herself; "Did the
+thought of having a myth sygl disgust you so you had to cut off your hand?"; the truth that he had a
+blood sygl ("A good strong connection too"); why blood sygls are feared, infants' hands removed,
+Dracula, the empty place at the yearly claiming at the Heir's School; she explodes into bats; "No sygl.
+No school"; "Would you do anything to go?" / "Uhm, within reason"; the offer to bond as his familiar ("I
+will not ask anything of you that you are unwilling to give"); "How am I going to get your sygl back?";
+"Are you thirsty?"
+**Opening:** the silence after his "Hello?", then the girl stepping out of the dark.
 **Anchor:** the cloud of bats.
 **Hook:** "Are you thirsty?"
-**Target:** 4,200.
+**Target:** 4,200 planned → **2,731 written**.
 
-## Chapter 3: A New Hand  *(drafted; being rewritten toward source, pending re-gate)*
-**Source:** [pp.~8–10] L112–162.
-**Scenes:** drinking a thousand-year vampire goddess's blood; the left hand regrown, the blood-red
-sygl **on his palm** glowing; "I don't know how I'm going to explain this"; "Time for that later";
+## Chapter 3: A New Hand  *(FINAL 2026-10-20 · written 2,592 words vs 3,200 planned · Genesis Floor 8.5)*
+**Source:** [pp.~7–10] L112–162.
+**Scenes (as written):** drinking the blood of a vampire goddess thousands of years old (she cuts her
+own wrist; there is no cup); the regrowth, borne on his high pain tolerance; the left hand regrown, the
+blood-red sygl **on his palm** glowing; "I don't know how I'm going to explain this"; "Time for that later";
 the familiar binding (palm on her forehead, "Caro familiare… may I be worthy to hold a place in your
 heart" / "Caro maestro… may our blood sing together for a thousand years and more"); the sygl on her
 forehead; foreheads resting together; the door locked only one way; the golden doors, the
 courtyard, "It's been a long time"; hand in hand around the orphanage; his mother died giving birth;
 she knows the modern world through bats and ravens; the school plane has no technology; the
-softball game in the front yard.
+softball game in the front yard (its only appearance in the book).
 **Opening:** ritual, bridging from "Are you thirsty?" (she cuts her wrist; no cup in the source).
-**Anchor:** flexing the new hand; the binding words.
+**Anchor:** flexing the new hand; the binding words. (The flexed hand is spent here; later chapters do
+not reuse it as a gesture.)
 **Hook / handoff:** source ends "They watched the game for a few minutes before Bal pulled Amelia
 inside." (L162). **Chapter 4 picks up exactly there.**
-**Target:** 3,200.
+**Target:** 3,200 planned → **2,592 written**.
 
-## Chapter 4: Mrs. Brown
-**Source:** [pp.~11–16] L164–257.
+## Chapter 4: Mrs. Brown  *(FINAL 2026-10-20 · written 3,238 words vs 3,000 planned · Genesis Floor 8.5)*
+**Source:** [pp.~10–16] L164–257 (to "in search of sustenance").
 **Scenes, in source order:**
 1. The front hall (grey walls, echoing white tiles); Mrs. Brown introduced through Bal's view of her
    (forties, grey skirt, white blouse, bun; strict, and the one adult he can go to when he has really
@@ -113,12 +133,15 @@ inside." (L162). **Chapter 4 picks up exactly there.**
    her; "To be fair, if I had known I would have been okay with it"; converts keep their inherited
    gifts ("you'll find out at the ceremony"); off to find normal food.
 **Structure:** two movements, the office and Bal's room.
-**Opening:** the echo of their steps in the front hall after the bright yard.
+**Opening (as written):** the front door closing on the yard's noise; the echoing white tiles of the
+front hall.
 **Anchor:** the single photograph; "they can't do it again."
 **Notes:** Mrs. Brown has no invented habits. Her grief shows in where her eyes go and how briefly
-she tells it. Let her laugh land before the story.
-**Hook:** the inherited-gifts tease, and the morning departure.
-**Target:** 3,000.
+she tells it. Her laugh lands before the story.
+**Hook (as written):** the inherited-gifts tease; off for normal food; the packed backpack waiting for
+the morning.
+**Target:** 3,000 planned → **3,238 written**. Ch.1–4 total **11,756** (wc -w) against 14,200 planned;
+the 2,444-word shortfall is spread across Ch.7, 9, 13, 16, 22 and 24 (see Totals).
 
 ## Chapter 5: Verin's Cottage
 **Source:** [pp.17–25] L259–284 (to "eager for the new day").
@@ -145,7 +168,7 @@ about school and the labouring life he'd expected; the punctures closing under h
 **Target:** 3,500.
 
 ## Chapter 6: The Claiming
-**Source:** [pp.25–31] L286–303 (to Bal accepting the High-Priest reasoning).
+**Source:** [pp.25–31] L286–304 (to "Bal nods accepting her reasoning.").
 **Scenes:** carriages joining the road; a buggy ahead with two boys and an older Tempus girl whose
 sweater-sygl sparks (**she is Viridia**, author decision 2026-10-20; the boys are
 other students sharing the ride, not siblings; she is not named here); the Heir's School of Magykal Artes (castle, five towers, wall, raised iron gate);
@@ -167,7 +190,8 @@ High Priest; she can back him all the way).
 **Target:** 2,800.
 
 ## Chapter 7: The Blood Dorm
-**Source:** [pp.31–38] L304–325 (to Amelia's "I like her too").
+**Source:** [pp.31–38] L304–325 (from "Anything special I need to know…" to the hostile stares on the
+walk back).
 **Scenes:** the pedestal that draws blood from **his palm** to draw the sygl; the sliding wall; the dorm
 with no set rooms; Lead Mage and High Priest are both him; "official stuff before I have to go and
 deal with the family" (four classes, curfew exemption, library on the second floor, make friends if
@@ -176,21 +200,25 @@ bedroom twice his old room; thinking rooms into being (kitchen, library with emp
 room; kitchen and dining combined; made permanent); hunger; the courtyard grouped by sygl; **Viridia**
 ("Hey you're that Blood guy right?"): Bal recognises her as the girl from the buggy (one line); pale blue crackling hair, the inheritance trait, "No one rolling
 out the red carpet for you yet?"; kids with an inheritance are the elite; the originators "are people
-just like us"; "I'm not like most people" (once, as the source has it); the dining hall's sygl
+just like us"; "I'm not like most people" (once, as the source has it; the source's stuck-out tongue
+that follows is NOT used here, because the tongue-out is spent on Amelia in Ch.5 and two characters may
+not share a device; give Viridia's answer to the hair joke another form); the dining hall's sygl
 tables; she sits at his; ordering on paper (pepperoni pizza; her burger); the forest familiar rule;
 "You've already got a familiar"; Amelia pops in, the choking; the brand under her bangs; "what could
 he have that you'd want?"; "Don't ruin the good impression"; **"You'd be surprised"** (kept here, at
 the pizza scene); "a beautiful vampire familiar" / "You think I'm beautiful?" / "I'd die to have skin
-like yours"; **"Okay you can keep her"**; hostile stares on the walk back; "I like her too."
+like yours"; **"Okay you can keep her"**; "What did she mean by you can keep me?" / "Honestly? I have
+no idea."; hostile stares on the walk back.
 **Structure:** exploration, then a meeting.
 **Opening:** the prick of the pedestal on his palm.
 **Anchor:** rooms appearing on a thought; "you can keep her."
-**Hook:** "She'd do well in the Blood sygl."
-**Target:** 3,200.
+**Hook:** the walk back under hostile stares, toward the dorm door.
+**Target:** 3,600 (raised from 3,200; one of the fullest school-day spans).
 
 ## Chapter 8: Too Bad She's a Tempus
-**Source:** [pp.38–43] L325–340 (to "Bal then headed off to bed.").
-**Scenes:** the couch talk: "Too bad she's a Tempus." / "Yeah, too bad."; **the conversion proposal
+**Source:** [pp.38–43] L325–340 (from the sliding dorm door to "Bal then headed off to bed.").
+**Scenes:** Amelia on the couch, feet on the coffee table; "How's your first day?"; "I like her too.
+She'd do well in the Blood sygl."; the couch talk: "Too bad she's a Tempus." / "Yeah, too bad."; **the conversion proposal
 comes now, after Viridia has appeared**: imagine Raizen's face if his rarest inheritance came to the
 Blood; Bal checks she is sure ("I'll be doing the thing your family locked you away for"); "she's
 also really pretty … I was looking myself"; the mechanics (only the High Priest; cut both left palms,
@@ -205,7 +233,8 @@ wars until she wiped out half a battlefield; why they fear her (she will not pla
 plane; "Out of all the sygls I could have had, I'm glad I ended up with yours."
 **Structure:** one night conversation; her history as her own telling, not a flashback.
 **Opening:** her feet on the coffee table.
-**Anchor:** the fire and her face when he says he's glad.
+**Anchor:** his hand taking hers: "glad I ended up with yours." (The source's "firelight reflecting
+off her eyes" is spent in Ch.2; do not reuse it.)
 **Hook:** the bell at morning.
 **Target:** 2,400.
 
@@ -230,10 +259,10 @@ essential for night travel in unfriendly territory); Bal enjoys the runes.
 **Opening:** Huginn and the cheese.
 **Anchor:** the goddess on the desk; Porter's face.
 **Hook:** lunch, and Viridia's familiar.
-**Target:** 3,000.
+**Target:** 3,400 (raised from 3,000; class, library and runes are three full movements).
 
 ## Chapter 10: Hopper and the Rapier
-**Source:** [pp.50–55] L362–392.
+**Source:** [pp.50–~55] L362–392 (from "Bal hurried to the Dining hall").
 **Scenes:** lunch (nuggets and fries for both); what the class is saying; "I do think Lady Amelia is
 the coolest though"; bloodwolves from a bestiary; **the bond as Viridia tells it** (reported, as the
 source does): Amelia appearing behind her, the walk, "show up the rest of the class," the ring, the
@@ -289,7 +318,7 @@ find it; "You know you can eat with us right?" / "Just give me a little time."
 time"; breakfast for dinner; Viridia offered again and Lora refused; sitting at the Blood table would
 make her a target; "The others haven't tried anything with you?" (snide comments; Tempus students not
 talking to her; others asking about Bal because of his access to his originator, and afraid to annoy
-Amelia); "I'm trying to get Amelia to start eating with us"; the diary warning; Viridia choking; "How do
+Amelia); "I'm trying to get Amelia to start eating with us"; the diary warning; Viridia coughing on her drink (stage it differently from the Ch.7 pizza choke); "How do
 you know it was mine?"; "You are really cute when you blush"; **"And Viridia? I like you too."**; the
 dropped fork; "That was still mean"; "I'll find some way to make it up to you" / "You better," her hand
 still in his.
@@ -322,10 +351,10 @@ aurora felis job (three flowers, deep woods, an older alchemist too unwell to go
 **Opening:** the wall shaking.
 **Anchor:** the engraved wooden cards.
 **Hook:** the card in his pocket.
-**Target:** 5,000.
+**Target:** 5,300 (raised from 5,000; the largest single source span, ~3,900 words).
 
 ## Chapter 14: The Card
-**Source:** [pp.80–84] L691–703.
+**Source:** [pp.80–84] L691–703 (from "Bal was quiet for most of the walk").
 **Scenes:** the walk back, Bal listening to Lora on her ancient-civilization book and Viridia genuinely
 engaged; two hours to the dorm; a second couch has appeared; Amelia with the diary (it vanishes when she
 sees Viridia); her hug; Lora's energy gone at meeting a goddess; Bal tells them why Amelia was caged and
@@ -360,7 +389,7 @@ happens. Together."**
 ## PART THREE — SYGLS BEST
 
 ## Chapter 16: Whitehaven Road
-**Source:** [pp.88–98] L715–745.
+**Source:** [pp.88–98] L715–745 (from "The weekend came fast").
 **Scenes:** the week of homework and anticipation; Amelia nervous to come until both girls say she's part
 of the team; borrowed weapons (Bal's rapier, Viridia's spear, Lora's own never-dulling rapier from her
 father); "I am my own weapon"; Ms. Summers told; twenty miles via Whitehaven and a mountain pass to the
@@ -385,7 +414,7 @@ you … you can always jump in if you see one of us about to get killed"; Hopper
 **Opening:** Lora's excitement through the week.
 **Anchor:** Amelia holding herself still while he bleeds.
 **Hook:** the pass at morning.
-**Target:** 4,400.
+**Target:** 4,800 (raised from 4,400; road, fight, camp and walk are each full scenes in the source).
 
 ## Chapter 17: Saegen Woods
 **Source:** [pp.99–105] L748–766.
@@ -394,9 +423,10 @@ you … you can always jump in if you see one of us about to get killed"; Hopper
 fish, and Amelia on how creatures grow by consuming magical energy; six flowers, three kept; Ms. Summers
 is lonely; "an alchemist is important"; the quiet; the bear slams him into a tree; Amelia kills it by the
 neck, furious; carried over the river; the vials safe in the side pocket; her torn dress (fade the detail
-to her embarrassment and flaming cheeks); Bal walks beside her in the pass and juggles stones; "You
-looked pretty angry" / "It had tried to run, but it didn't get far"; **the juggling talk as the real
-conversation it is**: "So you like to juggle huh?", her eyes going to the girls; "It's not something I
+to her embarrassment and flaming cheeks); Bal walks beside her in the pass and juggles stones (a skill
+from when he was younger; this is its only appearance in the book); "You looked pretty angry" / "It had
+tried to run, but it didn't get far"; **the juggling talk as the real conversation it is**: "So you like
+to juggle huh?", her eyes going to the girls; he lets the stones fall before he answers: "It's not something I
 planned on doing and if the ones being juggled had a problem I hope they would tell me … I would also hope
 that each one knows that they mean a lot to me and **I do not feel more strongly for one over the
 other**."; Amelia thinks it over in silence (POV, author decision 2026-10-20: render only what Bal can observe: the girls nearer behind than he
@@ -405,7 +435,8 @@ to New Spring, the always-staffed Dawn Hall, Soren, the changed reward; stew in 
 girls' hugs; walking slowly back with Amelia.
 **Structure:** errand, beast, walking talk.
 **Opening:** gravel in the pass.
-**Anchor:** the stones going up and down while he answers her.
+**Anchor:** "I do not feel more strongly for one over the other," said after the stones drop to the
+gravel (the source has him stop juggling before he answers).
 **Hook:** six weeks pass.
 **Target:** 2,700.
 
@@ -418,8 +449,8 @@ sword, and a real accomplishment); **the arrow-rune shirts finished** (author de
 rune himself over several nights, and the girls wear them on later jobs; one or two lines, no beat where
 they are tested); **the water-snake job, shown briefly** (author decision 2026-10-20; ~400 words, one of
 the last jobs of the six weeks, so the lake is "last week" by Ch.21): the lake they found, a massive water
-snake, and Viridia ending it with lightning shot from her hand, the only time the others see her storm power
-before the road to Londra. Then the war: Thad's signals; **Raizen's statement** through his High Priest (Amelia went mad and
+snake, and Viridia ending it with lightning shot from her hand (Lora calls it, in Ch.23, the only time she
+has seen Viridia use her power). Then the war: Thad's signals; **Raizen's statement** through his High Priest (Amelia went mad and
 attacked them; now his followers are in danger); the army fights harder from fear; villagers beat and kill
 blood sygls who won't leave (reported to Bal, as the source has it); **Commander Fern** (short, stocky,
 long grey beard, grey eyes, authority): "There's not much we can do"; nowhere to put evacuees; "Could we do
@@ -432,14 +463,15 @@ revealed here as the source reveals them** (Bal had asked Amelia: once war is de
 when an originator's priests and High Priest are dead the war is over; the victor may demand anything that
 does not physically harm the loser); her slow smile: "I know exactly what I shall demand," and "if you want
 to find out you'd have to win"; Bal at his notes while the girls do rune homework.
-**Structure:** time-skip, war room, remembered conversation, present evening.
+**Structure:** time-skip (closing on the water-snake job), war room, remembered conversation, present
+evening.
 **Opening:** the passage of weeks.
 **Anchor:** the flaming dagger; Fern's map under Bal's drumming fingers.
 **Hook:** "It's going to happen tomorrow."
 **Target:** 2,800 (incl. ~400 for the water-snake job).
 
 ## Chapter 19: The Rule
-**Source:** [pp.109–114] L780–795.
+**Source:** [pp.109–114] L780–795 (from Amelia's "It's going to happen tomorrow.").
 **Scenes:** Amelia, staring into the fire: the rule lands tomorrow; Porter told the gods that neither girl
 spends time with her own sygl and that Viridia has a bloodwolf; Raizen decided (Kenmei didn't care);
 Porter's suggestion: no socializing outside class or off grounds, and make Viridia release Hopper; "Can
@@ -477,7 +509,7 @@ welcome you"); the duel warning: "If you bother either one of my girls again, I'
 kill you"; Amelia rubbing off on him; his surprise at the surge of anger (as the source has it: noted once,
 "maybe he'd talk to Amelia about it later"; not developed into self-dread); Amelia in high spirits at the
 gods' faces ("He had just been hoping to find all of my priests"); two more priests to meet tonight;
-the girls tell her about the whip (only days of practice); the two-week break; Viridia's village is safe;
+the girls tell her about the whip (only days of practice); the two-week break; Viridia's village should be left alone (so few there get a sygl);
 Londra; **the war rules now explained to the girls** (no new priests; the war hinges on them staying
 alive); "Talk about no pressure"; Amelia tries to cheer them and has no plan; "Why don't we go for a swim?"
 **Structure:** public confrontation, then debrief.
@@ -487,7 +519,7 @@ alive); "Talk about no pressure"; Amelia tries to cheer them and has no plan; "W
 **Target:** 2,600.
 
 ## Chapter 21: Strawberries
-**Source:** [pp.120–127] L813–834 (to the teleport to the temple).
+**Source:** [pp.120–127] L813–834 (from the arrival at the lake, to the teleport to the temple).
 **Scenes:** the lake (the water snake killed there last week, shown in Ch.18; a passing reference only); Hopper won't swim; the girls
 playing as if Amelia were human; her smile makes his heart hurt; dozing; Lora's face inches from his, the
 kiss on her forehead; Viridia's reaching hand; the strawberry patch; the snapped branch that saves his
@@ -517,7 +549,7 @@ fresh clothes; the temple.
 ## PART FOUR — LONDRA
 
 ## Chapter 22: The Plan
-**Source:** [pp.127–135] L834–859 (to "trying to forget what tomorrow would bring").
+**Source:** [pp.127–135] L835–859 (to "trying to forget what tomorrow would bring").
 **Scenes:** soldiers readying for Raizen's border; **Eric**'s battalion to draw Raizen's troops so blood
 sygl civilians can be evacuated and offered refuge if they serve; Amelia stays in the bedroom so as not to
 appear to help; the meeting with Thad and Xavier (tired, unshaven): two scouting parties found and killed,
@@ -535,12 +567,14 @@ kill you then there goes the war"); Lora's support; Bal's arms around her; **"If
 Raizen. Damn their war. I will kill him."**; "That's my Warrior Goddess"; home to the dorm to play and laugh.
 **Structure:** council and argument.
 **Opening:** the temple's noise as they arrive.
-**Anchor:** the map under Xavier's finger.
+**Anchor:** Amelia's blank stare and flat "No," and "Damn their war." (Not the map: a map under a
+finger is spent on Fern in Ch.18.)
 **Hook:** the road at noon.
-**Target:** 3,200.
+**Target:** 3,700 (raised from 3,200; two councils and an argument, ~2,350 source words).
 
 ## Chapter 23: Road to Londra
-**Source:** [pp.135–139] L859–870 (to the stable boy's "We were told to expect you.").
+**Source:** [pp.135–139] L859–871 (from "The following day Amelia bid them goodbye" to the stable boy's
+"We were told to expect you.").
 **Scenes:** Lora teaching Viridia how nobles talk ("Every one else is beneath you"); Bal realizing he is
 falling in love with Amelia, and his feelings for both girls growing; the plan to avoid towns; galloping and
 walking the horses; **the refugee family on the second day** (two children on the horses with blood sygls on
@@ -557,7 +591,7 @@ the lake at the water snake; Lora recalls the Ch.18 scene the reader saw); the W
 **Target:** 2,200.
 
 ## Chapter 24: The Winespring Inn
-**Source:** [pp.139–152] L870–909.
+**Source:** [pp.139–152] L871–909 (from "The mention of someone expecting them").
 **Scenes:** Mrs. Locklan (plump, apron, a letter that came with payment); the servants' room; **Amelia's
 letter** ("My loves … Be safe and come home to me," signed only "A"), shredded; "That girl loves having the
 last word" (said once); why Viridia asked about the Three Boars; "later"; Bal's worry about bringing them
@@ -579,7 +613,7 @@ cask stopper hammered home with a boot.
 **Opening:** Mrs. Locklan hurrying from behind the counter.
 **Anchor:** the letter signed "A"; the clear cauldron.
 **Hook:** a knock and a Tempus seal.
-**Target:** 4,400.
+**Target:** 4,900 (raised from 4,400; ~3,800 source words, the least-expanded span in the plan).
 
 ## Chapter 25: The Three Boars
 **Source:** [pp.153–159] L912–930 (to "the soon to be dead priests").
@@ -596,13 +630,15 @@ poisoned"; "you mean all I drank was water?"; Lora: "It was a brave thing you di
 walk, then a gallop.
 **Structure:** near-real-time set-piece in one room.
 **POV note:** the source gives Viridia's thoughts during the toast; render them through what Bal sees (her
-hands in her lap, her hair gone still) and what she says outside and in Ch.26.
+hands in her lap, as the source has it) and what she says outside and in Ch.26. Her hair lying still is
+the source's Ch.26 beat; don't spend it here.
+**Opening:** the envelope with nothing on its face, sealed in Tempus wax.
 **Anchor:** the rune under the cup.
 **Hook:** the last cover before Amelia's territory.
 **Target:** 3,200.
 
 ## Chapter 26: Together
-**Source:** [pp.159–161] L930–936.
+**Source:** [pp.159–161] L930–936 (from "It wasn't until well after nightfall").
 **Scenes:** off the road into the trees; no fire; bread and jerky; Viridia's silence; "Thank you Bal"; "I was so
 scared"; Lora holding her hand; "I never expected I would have to drink poison myself"; her hair lying still;
 "My only consolation was that you and Lora would get away"; **her breakdown** in Lora's arms; Bal breaking
@@ -643,13 +679,14 @@ neck, the crossbow bolt; blood soldiers coming; dark.
 ## PART FIVE — THE DUEL
 
 ## Chapter 28: The Chalice
-**Source:** [pp.170–175] L964–979 (to "Bal was finally ready to face Toma").
+**Source:** [pp.170–175] L964–979 (to Amelia taking his hand, just before the coliseum).
 **Scenes:** Amelia cross-legged beside him; water; two days out; he talked in his sleep; "Do you want me to find
 them and bring them home?" and his no (he won't make her break the rules and start more conflict); it hurts
 both of them; Thad and Xavier, filthy and sleepless: **Toma's army approaching from the north, two hours out**,
 and a parlay letter (Toma has Lora and Viridia; the army stays until all are dead unless Bal accepts a one-on-one
 Mages Duel; a blue cloth to signal; he may have "his pet originator" teleport him; two days); "Two days to
-figure out how to beat Toma"; his burned chest despite his **high pain tolerance**; "You can use me";
+figure out how to beat Toma"; his burned chest despite his **high pain tolerance** (stated plainly, without echoing the Ch.3/Ch.5
+wording); "You can use me";
 **drinking blood heals**, and for her High Priest strengthens blood magyk and may open new abilities
 (another sygl's blood: unpredictable; regular priests get only the healing); "Of course Master"; the silver and
 gold chalice; she kneels as at the binding; "Drinking this will bind us together even stronger … Do not speak
@@ -664,7 +701,7 @@ of blood vials; no shirt, brown pants, barefoot; Amelia barefoot in the black dr
 **Target:** 2,900.
 
 ## Chapter 29: Blood Elemental
-**Source:** [pp.175–184] L979–1006 (to the teleport home).
+**Source:** [pp.175–184] L979–1006 (from "In an instant they were in a grand coliseum" to the teleport home).
 **Scenes:** the coliseum like the Roman one; Toma in blue robes sewn with lightning; Lora and Viridia in a rune
 circle (they can't hear; their magic can't pass); "It's a lesser version of what they did to me"; Toma: "As I
 cared for my fellow priests, but at least yours are still alive" (his grief is real; give it its line); no
@@ -695,7 +732,7 @@ safe if Bal chose to convert them." Keep the gods' alarm; it does not shadow the
 **Target:** 4,000.
 
 ## Chapter 30: The First Day
-**Source:** [pp.184–186] L1006–1013.
+**Source:** [pp.184–186] L1007–1013 (from "The fire was already blazing").
 **Scenes:** the red couch; Lora and Viridia's hug; "We're okay"; **their account of being taken and held, as they
 tell it** (reported); their belief that he would come; the four of them side by side before the fire; "What do
 we do now? … Will they really leave us alone now?"; "All we can do is live our life the best we can and stand
@@ -710,11 +747,19 @@ bedroom (fade); **"the first day of the rest of their life together."** Unambigu
 
 ## TOTALS & CHECKS
 
-**Word total:** 3,800 + 4,200 + 3,200 + 3,000 + 3,500 + 2,800 + 3,200 + 2,400 + 3,000 + 2,400 + 3,800 + 1,500 +
-5,000 + 2,600 + 1,800 + 4,400 + 2,700 + 2,800 + 2,600 + 2,600 + 3,400 + 3,200 + 2,200 + 4,400 + 3,200 + 1,700 +
-4,200 + 2,900 + 4,000 + 1,300 = **91,800** (≥ 90,000; shortest 1,300 ≥ the 1,200 sanity floor).
+**Word total (2026-10-20 audit):** Ch.1–4 as written 3,195 + 2,731 + 2,592 + 3,238 = **11,756** (wc -w; 14,200
+planned, so 2,444 short). Ch.5–30 targets: 3,500 + 2,800 + 3,600 + 2,400 + 3,400 + 2,400 + 3,800 + 1,500 + 5,300 +
+2,600 + 1,800 + 4,800 + 2,700 + 2,800 + 2,600 + 2,600 + 3,400 + 3,700 + 2,200 + 4,900 + 3,200 + 1,700 + 4,200 +
+2,900 + 4,000 + 1,300 = **80,100**. Book total **91,856** (≥ 90,000 target, ≥ 85,000 floor; shortest 1,300 ≥ the
+1,200 sanity floor; longest 5,300).
+**Rebalance:** the shortfall (+2,500) went to the spans with the most source to dramatize relative to their
+budget, not to thin chapters: Ch.7 +400, Ch.9 +400, Ch.13 +300, Ch.16 +400, Ch.22 +500, Ch.24 +500. Ch.5 keeps
+its 3,500 target (entry not touched while it is being drafted).
 
-**Source coverage:** L1–1013 is covered end to end in order, with no span skipped or reordered.
+**Source coverage:** L4–1013 (L1–2 are the title, L1015 "The End") is covered end to end in order, with no span
+skipped or reordered. Shared boundary lines (break inside one long source line): L304 (6/7), L325 (7/8), L362
+(9/10), L691 (13/14), L715 (15/16), L780 (18/19), L813 (20/21), L859 (22/23), L871 (23/24), L930 (25/26), L979
+(28/29); each is named by its quoted cut-point in both entries.
 
 **Moved back to source order (vs the 2026-07 outline):** Raizen's army / "break their toys" / Peter / hidden
 temple / Thad & Xavier / the ring / the diary / "I like you too" (now Ch.11–12, before New Spring and the Card);
@@ -723,23 +768,35 @@ Amelia's origin and the Viridia-conversion proposal (Ch.8, after Viridia appears
 the rule and conversion in Ch.19); the refugee father who spits (Ch.23 only).
 
 **Restored:** Mr. Winters and the avoidance rune (9); Bal & Viridia "I like you too" (12); "Together" (15); the
-arrow-rune shirts and the "I feel useless" walk (16); the juggling talk (17); the six weeks and the flaming dagger
-(18); Raizen cheating with teleported assassins as the reason for Amelia's concession (21); Viridia's breakdown
-and "We'll figure it out, together" (26); Toma's army approaching (28); the blood elemental sent to Amelia's
-domain (29).
+arrow-rune shirts proposed and the "I feel useless" walk (16); the juggling talk (17), confirmed by "We heard what
+you told Amelia in the pass" (19); the six weeks, the flaming dagger, the finished arrow-rune shirts and the
+water-snake job (18); Raizen cheating with teleported assassins as the reason for Amelia's concession, and the
+heart-ring payoff (21); Viridia's breakdown and "We'll figure it out, together" (26); Toma's army approaching
+(28); the blood elemental sent to Amelia's domain (29).
+
+**Author-approved additions beyond the source:** Fredrick's goodbye (1); Pierre waking Bal (5); Bal recognising
+Viridia from the buggy (7); the water-snake job shown (18); the heart-ring realization (21); "We heard what you
+told Amelia in the pass" (19).
 
 **Removed:** invented scenes outside Bal's view (the refugee-family POV-adjacent scene; any glimpse of the girls'
 capture; the cave bond dramatized as flashback); Bal's enjoyment of killing Iro and his guilt over the
 conversions; Amelia-as-manipulator framing; the "faintly haunted" ending; invented backstories and quirks;
-every tic and catchphrase allowance (except Amelia's "Master," an author-ruled title).
+every tic and catchphrase allowance (except Amelia's "Master," an author-ruled title); the temple cup (Amelia
+cuts her wrist, 3); the "Kona Niente" copy-paste slip at p.180–181 (29); Viridia's stuck-out tongue (7, so the
+tongue-out is not shared with Amelia's in 5); reused Opening/Anchor/Hook images (the map, 22; the juggled
+stones in motion, 17; firelight in her eyes, 8).
 
-**Motifs (objects and situations only, never repeated lines):** blood given freely (her wrist in the temple, the feeding, the
-offerings, the conversions, the chalice, the core); the wooden Dawn cards and the name Norheart; hands (the stump,
-the regrown hand, the palm sygls); runes (Winters' class, the flaming dagger, the arrow-rune shirts, the
-purification rune). A motif object may recur; its handling must not become a reflex.
+**Motifs (objects and situations only, never repeated lines or gestures):** blood given freely (her wrist in the
+temple, the feeding, the offerings, the conversions, the chalice, the core); the wooden Dawn cards and the name
+Norheart; hands (the stump, the regrown hand, the palm sygls); runes (Winters' class, the flaming dagger, the
+arrow-rune shirts, the purification rune). A motif object may recur; its handling must not become a reflex.
+Single-use images: the softball game (3), the juggled stones (17), the tongue-out (5), the flexed new hand (3),
+firelight in her eyes (2).
 
-**Protected canon anchors:** "they can't do it again" (4) · "you can keep her" (7) · "You called, Master?" (9) ·
-"break their toys" (11) · "I like you too" (12) · "Amelia Norheart" and the bloody tears (14) · "I do not feel more
-strongly for one over the other" (17) · "I can feel you now" (19) · "No one threatens my girls" (21) · the
-purification rune under the cup (25) · "We'll figure it out, together" (26) · the elemental turned to blood and
-Toma's palm (29) · "the first day of the rest of their life together" (30).
+**Protected canon anchors** (memorable lines: keep the line; polish only as the dialogue rule allows):
+"Because it's magic" (1) · "They have made me a myth?!" (2) · the binding vows (3) · "they can't do it again" (4) ·
+"you can keep her" (7) · "You called, Master?" (9) · "break their toys" (11) · "I like you too" (12) · "Amelia
+Norheart" and the bloody tears (14) · "I do not feel more strongly for one over the other" (17) · "I can feel you
+now" (19) · "No one threatens my girls" (21) · the purification rune under the cup (25) · "We'll figure it out,
+together" (26) · the elemental turned to blood and Toma's palm (29) · "the first day of the rest of their life
+together" (30).

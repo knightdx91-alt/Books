@@ -28,7 +28,9 @@ the rest are the "lesser schools" (Fredrick went to one). The yearly claiming ha
 **Names:** Balthazaar "Bal" Norheart; Amelia (Vampire Goddess, originator of the Blood sygl, Bal's
 familiar; "Amelia Norheart" on her Dawn card); Viridia Vizer (Tempus, storm inheritance, converted to
 Blood); Lora Aegis (Waves, rapier, alchemy, converted to Blood); Mrs. Sarah Brown (orphanage); Verin
-(escort mage; horse Thistle); Fredrick (a **friend** who left for school and gave Bal his spellbooks);
+(escort mage; horse Thistle); Fredrick (a **friend** who left for one of the lesser Sygldry schools and gave Bal
+his spellbooks; his goodbye in Ch.1 is an author-approved addition); Pierre (an orphan who sometimes helps
+Mrs. Brown);
 originators **Aren/Nera** (Duality), **Kenmei** (Waves), **Naisura** (Terra), **Raizen** (Tempus);
 Mr. Porter (familiars; raven Huginn), Mr. Winters (runes), Zoran (warfare); Tyler (a student);
 priests **Thad Moren** and **Xavier Giles**; Commander **Fern**; **Eric** (battalion lead); **Marcus**
@@ -57,10 +59,10 @@ do no magic at all; Bal could always do some, just weaker without a sygl.
   their inherited gifts.
 - Originators may not interfere with another's High Priest. As Bal's **familiar**, Amelia can help him on
   certain things without it counting as originator interference.
-- **War rules** (revealed when the source reveals them, Ch.18 and Ch.20): once war is declared no new
-  priests or High Priest; the war ends when one side's priests and High Priest are dead; once war is
-  declared originators may not help their followers; the victor may demand anything that does not
-  physically harm the loser.
+- **War rules** (revealed when the source reveals them: Ch.18 to Bal, Ch.20 to the girls, Ch.21 the
+  no-help rule): once war is declared no new priests or High Priest; the war ends when one side's priests
+  and High Priest are dead; once war is declared originators may not help their followers; the victor may
+  demand anything that does not physically harm the loser (Ch.29: "barring his life").
 - Drinking blood heals Amelia's High Priest and strengthens his blood magyk (regular priests: healing
   only); drinking hers shares her memories.
 - A life-bonded elemental from an inheritance gift is not a familiar, so it is legal in a duel. Converting
@@ -118,7 +120,7 @@ a refrain.
 hand removed; could still do some magic; taught himself from Fredrick's books; curious, likes secrets and
 reading ("I like to read"); worked in the kitchen to buy a rune engraving kit; skilled with runes from the
 start; prefers handling his own problems; warm and frank with the girls; protective ("I'd much rather I got
-hurt than any of you"); keeps trying to settle things before Amelia kills anyone; refuses to answer Raizen's
+hurt than any of you"); resolves to settle what he can before Amelia kills anyone (a mental note, once); refuses to answer Raizen's
 persecution in kind; high pain tolerance; juggles stones once (p.103), learned when younger.
 **Want:** to attend the school; then to keep Amelia, Lora and Viridia safe and win the war.
 **Arc (as the source runs it):** from the boy nobody claimed to the High Priest who belongs and protects his
@@ -144,7 +146,8 @@ is justice: Raizen in her old temple for three thousand years.
 **Worldview:** reads people and secrets; treats the gods' wars as games she refuses to play. **Syntax:** teasing,
 quick, can drop into calm, complete-sentence menace toward enemies ("Think your next words through very
 carefully"). **Evasion:** won't ask directly to be included. **Physicality:** sudden appearances and
-departures with a snap; sitting cross-legged; bloody tears.
+departures (the source often has her snap her fingers; vary how they are rendered so the snap never becomes a
+signature gesture); sitting cross-legged; bloody tears.
 **Form of address:** may call Bal "Master" (author ruling above).
 **Not:** a manipulator of Bal or the girls. The Hopper bond is a kindness Bal admires as clever; nothing she
 does to her own is a trap.
@@ -158,9 +161,10 @@ politics; brave to the point of drinking what she believes is poison; her hair c
 still when she is frightened; uses a spear; Hopper; the earth ring; glances at jewellery in shop windows.
 **Worldview:** reads status games and refuses them. **Syntax:** blunt, dry, teasing; provocations as questions.
 **Evasion:** deflects sincerity with a joke until it is too big to deflect (the diary, the poison).
-**Physicality:** the hair. **Tic line:** none — distinguished by syntax and physicality. Source lines such as
-"I'm not like most people" and the stuck-out tongue are used once, where the source has them, never as a
-signature.
+**Physicality:** the hair. **Tic line:** none — distinguished by syntax and physicality. "I'm not like most
+people" is used once, where the source has it, never as a signature. The source gives a stuck-out tongue to
+both Amelia (p.24) and Viridia (p.35); two characters may not share a device, so it is used once only, for
+Amelia (Ch.5), and Viridia's moment is rendered another way (Ch.7).
 
 ### Lora Aegis
 **Source facts:** shy; brown hair, glasses that slide down her nose, freckles; Kenmei/Waves sygl; trained by
@@ -195,13 +199,14 @@ more," said once, as the source has it). **Physicality:** the rapier as an exten
 
 ---
 
-## 4. EMOTIONAL ANCHORS (one concrete image per chapter; see outline)
-The bats (2); the new hand and the binding words (3); the photograph and "they can't do it again" (4); small
-talk over a bite and the wiped tear (5); the empty throne and the clap (6); "you can keep her" (7); "glad I
+## 4. EMOTIONAL ANCHORS (one concrete image per chapter, none reused; see outline)
+The carpet's hesitant rise and the missing roof (1); the bats (2); the new hand and the binding words (3); the photograph and "they can't do it again" (4); small
+talk over a bite and the wiped tear (5); the empty throne and the clap (6); "you can keep her" (7); his hand taking hers, "glad I
 ended up with yours" (8); "You called, Master?" (9); the rapier finding his hand (10); Peter's twelve years
 (11); the dropped fork (12); the wooden cards (13); "Amelia Norheart" and the stained shirt (14); the hall
-watching Lora sit (15); Amelia holding herself still (16); the juggled stones (17); the flaming dagger (18);
-two palms blooming (19); Sean down the table (20); strawberries in a ruined shirt (21); the map (22); the father
+watching Lora sit (15); Amelia holding herself still (16); "I do not feel more strongly for one over the other," the stones
+let fall (17); the flaming dagger (18);
+two palms blooming (19); Sean down the table (20); strawberries in a ruined shirt (21); Amelia's flat "No" and "Damn their war" (22); the father
 spitting (23); the letter signed "A" (24); the rune under the cup (25); Lora's hand on his cheek (26); a
 thunderclap from a clear sky (27); the chalice (28); the elemental turning to blood (29); the closing line (30).
 
@@ -232,6 +237,11 @@ bright sixteen-year-old; humour frequent and affectionate; emotion through behav
 fights; slow down for set-pieces (the claiming, the card, the lake, the toast, the duel). Under grief (waking
 alone, Ch.27) the prose goes short and plain; under threat to his girls it goes quiet and exact. These are
 registers, not tics.
+**Dialogue:** the author's lines are the BASE, not sacred text (author, 2026-10-20: "my dialogue might not be
+exactly right"). Keep what each line says, who says it and where it falls, plus the memorable lines ("They have
+made me a myth?!", "Because it's magic", the binding vows, "No one threatens my girls"); freely fix grammar,
+stiff or awkward phrasing, and anything that doesn't sound natural spoken aloud. Do not change meaning, add
+information, or give a line to someone else.
 **No dual narration in prose.** The "Amelia butts into the narration" device is **manga-only** if the author
 wants it there; the novel is Bal's close third throughout.
 **Anti-patterns:** see STYLE_CONSTRAINTS (em-dash cap, filter words, stage-business tags, repeated phrases,
@@ -242,8 +252,8 @@ wants it there; the novel is Bal's close third throughout.
 | Character | Worldview / attention | Syntax | Evasion | Physicality |
 |-----------|----------------------|--------|---------|-------------|
 | Bal | mechanisms, secrets, how to help | short, plain, joking under pressure | his own pain | the new hand; quiet when threatened |
-| Amelia | people's secrets; the gods' games | teasing, then calm menace | asking to be included | snaps, sudden arrivals, bloody tears |
-| Viridia | status games she refuses | blunt, dry, needling questions | sincerity until it's too big | hair crackles / lies still |
+| Amelia | people's secrets; the gods' games | teasing, then calm menace | asking to be included | sudden arrivals (no signature snap), bloody tears |
+| Viridia | status games she refuses | blunt, dry, needling questions | sincerity until it's too big | hair crackles / lies still, where the source has it |
 | Lora | craft, preparation, history | hedged with people, exact on her subjects | wanting things she isn't "ready" for | the rapier; glasses |
 
 Test: a line that could belong to either girl is wrong. Viridia needles and does not hedge; Lora hedges and does

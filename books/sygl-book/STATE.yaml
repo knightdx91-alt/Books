@@ -25,29 +25,29 @@ adaptation:
 
 word_floor:
   manuscript_min_words: 85000    # HARD FLOOR (book total)
-  manuscript_target_words: 90000 # outline budgets ≈ 91,400
+  manuscript_target_words: 90000 # outline budgets ≈ 91,856
   # Chapter lengths VARY (1,300–5,000 in the outline) by design; the book TOTAL is what's enforced.
   shortest_chapter_floor: 1200
 
 phase:
   current: 2
-  status: "Plan follows the author's original script (30 chapters, source order, ~91,800w). Ch.1–4 FINAL 2026-10-20 (11,809w; Genesis Floor 8.5 each; all gates clean). Next: Ch.5 'Verin's Cottage' (source L259–284), opening with Pierre waking Bal. See feedback/progress.md."
+  status: "Plan follows the author's original script (30 chapters, source order, ~91,856w after the 2026-10-20 outline audit). Ch.1–5 FINAL 2026-10-20 (15,428w; Genesis Floor 8.5 each; all gates clean). Next: Ch.6 'The Claiming' (see project/outline.md). See feedback/progress.md."
   history:
     - "2026-07-13: architect pass (24-chapter outline); Ch.1–3 drafted and gated."
     - "2026-10-20: author ruled the plan must follow the original script; plan rebuilt to 30 chapters in source order; Ch.1–3 sent back for rewrite."
 
 chapters:
   total_planned: 30
-  completed: [1, 2, 3, 4]
+  completed: [1, 2, 3, 4, 5]
   in_rewrite: []
-  scores: {1: 8.5, 2: 8.5, 3: 8.5, 4: 8.5}   # Genesis Floor, 2026-10-20
+  scores: {1: 8.5, 2: 8.5, 3: 8.5, 4: 8.5, 5: 8.5}   # Genesis Floor, 2026-10-20
 
 genesis_score:
   current_floor: 0.0
   current_average: 0.0
 
 quality_gate:
-  chapters_passed: [1, 2, 3, 4]            # earlier passes for Ch.1–3 voided by the 2026-10-20 re-plan
+  chapters_passed: [1, 2, 3, 4, 5]            # earlier passes for Ch.1–3 voided by the 2026-10-20 re-plan
   chapters_escalated: []
 
 guardrails:

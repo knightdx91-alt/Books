@@ -6,7 +6,7 @@ Everything strictly on `main`. No PRs.
 
 ## 2026-10-20 re-plan (author ruling)
 "Make it more like my original script. And it's supposed to be Sygl." The blueprint was rebuilt:
-`project/outline.md` is now **30 chapters in source order (≈91,400 words)**, `project/foundation.md` and
+`project/outline.md` is now **30 chapters in source order (≈91,856 words after the 2026-10-20 audit)**, `project/foundation.md` and
 `project/STYLE_CONSTRAINTS.md` were rewritten, and every ruling is recorded in `STATE.yaml` → `decisions`.
 
 ## Hard constraints (full list in STYLE_CONSTRAINTS.md)
@@ -20,14 +20,16 @@ Everything strictly on `main`. No PRs.
 ## Status
 | Ch | Title | Target | State |
 |----|-------|--------|-------|
-| 1 | The Roof and the Flicker | 3,800 | FINAL 2026-10-20: 3,196w, Floor 8.5 |
-| 2 | The Queen in the Temple | 4,200 | FINAL 2026-10-20: 2,744w, Floor 8.5 |
-| 3 | A New Hand | 3,200 | FINAL 2026-10-20: 2,601w, Floor 8.5 |
-| 4 | Mrs. Brown | 3,000 | FINAL 2026-10-20: 3,268w, Floor 8.5 |
-| 5–30 | see outline.md | — | TODO |
+| 1 | The Roof and the Flicker | 3,195 | FINAL 2026-10-20: 3,195w, Floor 8.5 |
+| 2 | The Queen in the Temple | 2,731 | FINAL 2026-10-20: 2,731w, Floor 8.5 |
+| 3 | A New Hand | 2,592 | FINAL 2026-10-20: 2,592w, Floor 8.5 |
+| 4 | Mrs. Brown | 3,238 | FINAL 2026-10-20: 3,238w, Floor 8.5 |
+| 5 | Verin's Cottage | 3,500 | FINAL 2026-10-20: 3,672w, Floor 8.5 |
+| 6–30 | see outline.md | — | TODO |
 
-## RESUME HERE: Chapter 5 "Verin's Cottage" (source [pp.17–25], L259–284)
-- Pierre (an orphan who helps Mrs. Brown) wakes Bal at six; then the outline's Ch.5 beats in source order.
+## RESUME HERE: Chapter 6 "The Claiming" (source [pp.25–31], L286–304)
+- Opens on the road with the buggy ahead: the older Tempus girl whose sygl sparks is Viridia (author decision);
+  she is not named here. Then the Heir's School, the stage, the claiming, Amelia's reveal.
 - Author's dialogue is the base; polish into natural speech without changing meaning or speaker.
 
 ## Key files
