@@ -388,6 +388,23 @@ def echo_scan(files, n_target, allow):
         for k in grams(strip_comments(vb.read_text())):
             if len(k) >= 5: earlier.setdefault(k,set()).add("voice-bank")   # 5+ words: the samples share the book's nouns
     if target is None: return []
+    # Stop-word-bounded lifts from the samples ("held it up to the doorway": only 2 content words, so
+    # content_rich() drops it): for the voice-bank ONLY, a 6-8-word run with 2+ content words, one of
+    # them 6+ letters, counts too (added after Hour of Ash ch.15).
+    def loose(text):
+        toks=[w.lower() for w in re.findall(r"[A-Za-z'’\-]+", text)]
+        out=set()
+        for n in range(6,9):
+            for i in range(len(toks)-n+1):
+                g=tuple(toks[i:i+n]); c=[w for w in g if w not in STOP]
+                if len(c)>=2 and any(len(w)>=6 for w in c): out.add(g)
+        return out
+    vb_loose=set()
+    for vb in sorted((BOOK_DIR / "voice-bank").glob("**/sample-*.md")):
+        vb_loose |= loose(strip_comments(vb.read_text()))
+    tfile=next((f for f in files if int(re.search(r"(\d+)",Path(f).name).group(1))==n_target), None)
+    for g in loose(strip_comments(Path(tfile).read_text())) & vb_loose:
+        target.setdefault(g,1); earlier.setdefault(g,set()).add("voice-bank")
     hits=[]
     for g in target:
         if g in earlier:
