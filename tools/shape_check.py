@@ -45,6 +45,7 @@ CHAPTER_RE = re.compile(r"chapter-(\d+)\.md$")
 BREAK_RE = re.compile(r"^\s*(\*\s*\*\s*\*|\* \* \*|---+|⁂|#{1,3}\s)\s*$|^\s*#{1,3}\s+\S")
 HEADING_RE = re.compile(r"^\s*#{1,6}\s")
 QUOTE_RE = re.compile(r"[“\"]([^”\"]{1,600})[”\"]")
+PARA_QUOTE_RE = re.compile(r"[“\"]([^”\"\n]*)(?:[”\"]|$)")
 SENT_SPLIT = re.compile(r"(?<=[.!?…])\s+(?=[\"“'(A-Z0-9])")
 WORD_RE = re.compile(r"[A-Za-z’'\-]+")
 TIME_OPENERS = re.compile(
@@ -145,7 +146,9 @@ def analyse(path: Path):
     # count ### scene headings as breaks too, but not the chapter title
     sub_heads = sum(1 for ln in text.splitlines() if re.match(r"^\s*#{2,3}\s", ln))
     breaks += sub_heads
-    quoted = sum(wc(m) for m in QUOTE_RE.findall(body))
+    # Per paragraph, never across one: a speech left open at a paragraph's end (multi-paragraph speech)
+    # counts to the end of that paragraph, and must not pair with the next paragraph's opening quote.
+    quoted = sum(wc(m) for para in body.split("\n") for m in PARA_QUOTE_RE.findall(para))
     dlg = (quoted / words) if words else 0.0
     sents = sentences(body)
     slens = [wc(s) for s in sents] or [0]

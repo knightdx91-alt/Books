@@ -224,7 +224,7 @@ AND_CHAIN_MIN_CAP = 9
 AND_CHAIN_WORDS_PER = 900
 
 def _narration(text):
-    text = re.sub(r"[\u201c\"][^\u201d\"]*[\u201d\"]", " ", text)         # quoted speech
+    text = re.sub(r"[\u201c\"][^\u201d\"\n]*(?:[\u201d\"]|$)", " ", text, flags=re.M)   # quoted speech, never across a paragraph
     text = re.sub(r"(?m)^\*[^*\n].*\*\s*$", " ", text)                       # whole italic paragraphs (documents)
     text = re.sub(r"(?m)^#.*$", " ", text)
     return text
