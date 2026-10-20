@@ -32,7 +32,7 @@ It was blood red. It looked a little like a drop of water and a little like a fl
 
 He had watched other children hold their palms out at breakfast for years. He understood now why they couldn't stop.
 
-"I don't know how I'm going to explain this," Bal confessed, still staring at it. "Something like this doesn't happen every day."
+"I don't know how I'll ever explain this," Bal confessed, still staring at it. "Something like this doesn't happen every day."
 
 Amelia stood up and stretched, rising onto her toes with her arms high over her head and her back arched, the black silk pulling up as she did until it was riding high on her legs. It was very distracting. Bal tried hard not to look, and failed, and was caught at it.
 

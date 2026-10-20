@@ -479,7 +479,8 @@ re-read and confirmed (or corrected against the page) the moment the character e
 
 ### Still to come (source order)
 
-#### PETER — Amelia's follower who built the hidden temple; dead about a thousand years (Ch.11, told by Amelia) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### PETER — Amelia's follower who built the hidden temple; dead about a thousand years (Ch.11, told by Amelia) *(on page Ch.11 — reported only, confirmed)*
+- **Ch.11 as written:** exists only in Amelia's telling on the hill (Terra stoneworking family, sixteen, shunned, the mountains, twelve years, the altar, all his memories still with her) and in the temple itself, which Bal sees from the High Priest's window and judges by it. No flashback, no lines, nothing added.
 - Attention / worldview: known only through Amelia's telling and his memories: the lone blood sygl in a
   Terra stone-working family, shunned at sixteen; twelve years laying every stone; glad to make
   something that would endure.
@@ -492,7 +493,8 @@ re-read and confirmed (or corrected against the page) the moment the character e
   talks.
 - Sample line: none (reported only). Never dramatize him as a flashback.
 
-#### THAD MOREN — one of Amelia's two first priests; the cost-counter of the war (Ch.11, 18, 22, 27–28) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### THAD MOREN — one of Amelia's two first priests; the cost-counter of the war (Ch.11, 18, 22, 27–28) *(on page Ch.11 — confirmed)*
+- **Ch.11 as written:** introduces himself first; carries the practical speech (the paired rune stone: "If we have to reach you, we'll signal you with that…"); tosses Bal the stone. When Bal tells them Amelia did not abandon them, his hands go flat on the table (once; not a recurring gesture). Speaks plainly, no flourish. Physical description as the source.
 - Attention / worldview: the cost — casualties, exhaustion, what the army can't hold (reads the reports).
 - Vocabulary band: soldier-priest's plain speech.
 - Syntax fingerprint: blunt summaries ("We've got a war is what we've got."); reads figures off a paper
@@ -506,7 +508,8 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - DISTINCTNESS GUARANTEE: the priest who reports the damage, against Xavier, who proposes the route.
 - Sample line: "We've got a war is what we've got." (p.128; Ch.22)
 
-#### XAVIER GILES — Amelia's other first priest; the planner (Ch.11, 20, 22, 28) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### XAVIER GILES — Amelia's other first priest; the planner (Ch.11, 20, 22, 28) *(on page Ch.11 — confirmed)*
+- **Ch.11 as written:** the quieter of the two here; agrees with Thad that Lady Amelia's choice is good enough. His clear blue eyes go over Bal once and "did not miss much" (the source's "intelligence"). At the story of Amelia's imprisonment he says nothing and his eyes fix on a bare patch of wall (once; not a recurring gesture). Physical description as the source (big in the shoulders, tan, blade scars on the backs of his hands).
 - Attention / worldview: the route and the target — strike the priests, then the High Priest; Londra's
   layout, deliveries, patrols, bribable innkeepers.
 - Vocabulary band: intelligence-briefing English.
