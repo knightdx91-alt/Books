@@ -486,7 +486,9 @@ life; the roll through the briars; **Iro** (young, woodsman clothes, sharp blue 
 know how you managed to kill **Heath**"; the slice down Bal's side; "fun with those pretty girls of yours
 after"; his blood runs cold; "my High Priest of course"; the cut on the legs he steps through; the punch with
 his left hand; the kicks; **the blood whip around Iro's neck, lifting him off the ground**; "It's Iro"; only
-him and Heath; a priest told them where Bal would be; Bal knows he is telling the truth; the whip closes;
+him and Heath; a priest told them where Bal would be; after Heath died "they decided to wait"; "I don't know
+how they knew" → **Bal connects the heart ring** (author decision 2026-10-20): someone wore its pair and felt
+Heath's heart stop, which is how they knew; one or two lines of Bal's thought, no new plot; Bal knows he is telling the truth; the whip closes;
 **"No one threatens my girls."** (justified, final, unremarked by guilt); the shredded shirt used to carry
 strawberries; Lora running to him; "Would you believe I fell on my rapier?"; his wounds; the healing potion
 for the thigh; "It's no use. He's already dead"; "we didn't even know we were going to come here"; Amelia

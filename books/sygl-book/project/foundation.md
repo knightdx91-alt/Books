@@ -215,8 +215,9 @@ Firelight is texture only; the "firelight in her eyes" image is spent after one 
 2. "You'd be surprised" (Ch.7, the pizza scene) — what a mortal can give a goddess.
 3. Winters praising Bal's precise runes (Ch.9) and the flaming dagger (Ch.18) → the purification rune (Ch.25).
 4. The temple behind the orphanage (Ch.1–3) → Raizen confined in it (Ch.29).
-5. The heart ring on Heath (Ch.16) and Iro's "how you managed to kill Heath" (Ch.21): the source links the
-   bandits to Toma but never explains the ring. Left as the source leaves it (see open decisions).
+5. The heart ring on Heath (Ch.16) and Iro's "how you managed to kill Heath" (Ch.21): paid off in Ch.21
+   (author decision 2026-10-20): when Iro says "I don't know how they knew," Bal realizes the ring's pair
+   was worn by someone on the High Priest's side, who felt Heath's heart stop. One or two lines; no new plot.
 
 ---
 
