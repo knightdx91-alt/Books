@@ -156,7 +156,7 @@ Bal lowered his arm cautiously. A single tiny black wisp drifted down past his n
 
 She was still fuming. Bal could see it in the set of her jaw and in how her fingers had knotted in the black fabric of her skirt. When she spoke, she spoke mostly to herself, in a low, furious mutter.
 
-"They lock me up in here and then act like I don't exist." She drew a slow breath and let it out again. Then she turned back to him, and some of the anger left her. "Why haven't you gone to school? You've got the magic for it. I can feel it on you. Even without my magic, you're still powerful in your own right."
+"They lock me up in here and then act like I don't exist." She drew a slow breath and let it out again. Then she turned back to him, and some of the anger left her. "Why haven't you gone to school? You've got the magic for it. I can sense it on you. Even without my magic, you're still powerful in your own right."
 
 Bal held up his stump.
 

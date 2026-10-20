@@ -60,7 +60,7 @@ Bal shook his head. Nothing he could say to that would come out right, so he lef
 
 She drew his hand over and turned it palm up on her knee. The sygl glowed in the middle of it, faint and red. With the tip of one fingernail she drew a line across the heel of his palm, light as a feather, without breaking the skin.
 
-"You cut your left hand here," she said. "Then you cut theirs, and you put the two together and mingle the blood. Then you have to send your blood into them. Push it in." She pressed her thumb into the middle of his palm. "It takes a while. But once their body gets used to your blood, the sygl on their palm will change. After that they're officially one of my followers."
+"You cut your left hand here," she said. "Then you cut theirs, and you put the two together and mingle the blood. Then you have to send your blood into them. Push it in." She pressed her thumb into the middle of his palm. "It takes a bit. But once their body gets used to your blood, the sygl on their palm will change. After that they're officially one of my followers."
 
 His hand lay in hers. It sounded simpler than writing out a pizza order.
 

@@ -207,7 +207,7 @@ Distinguish characters on **four axes** first:
   scared", Ch.26). Does not talk about her own gift (Lora: "It's not something she really talks about").
 - **Physicality / silence:** the hair: crackles when she is nervous, lies still when she is frightened
   or drained (Ch.26), back to popping when she recovers (Ch.27) — only where the source places it, and
-  rendered differently each time. Twists the ring on her finger while deciding (Ch.19, source, once).
+  rendered differently each time. Twists the ring on her finger while deciding (Ch.19, source, once — SPENT). Elbowing Lora: used at the conversion (Ch.19, source); the bookstore one was not used, so it is now spent.
   Elbows Lora lightly when teasing her (source, twice: bookstore and conversion) — vary or let one go.
   Tongue-out and towing Bal by the sleeve: spent (Ch.7). Choking on food: spent (Ch.7).
 - **Verbal tic:** none — distinguished by syntax (needling questions, no hedges) + physicality (the hair).
