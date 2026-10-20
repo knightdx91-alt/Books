@@ -554,3 +554,278 @@ Every reader has been waiting for this chapter since the map, and it delivers. T
 - Pre-polish backup: `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/ch13-pre-polish1.md` (sha256 e88b4969…).
 
 **Next:** run F again (re-evaluation).
+
+---
+
+## Re-evaluation after cycle 1 (book-evaluator, independent, 2026-10-20)
+
+**Text evaluated:** `manuscript/chapters/chapter-13.md` at `1db5f24` (sha256 `8bd99a00…`), polish cycle 1. That is 7,508 words (shape_check), 7,527 (style_check), dialogue 38.0%, median 14, 4 breaks, `scene-set` → `dialogue`.
+
+**Read against:**
+- the book CLAUDE.md hard gates;
+- STATE.yaml guardrails and AUTHOR-CP2-1…4;
+- voice-dna §0, §1, §3b, §4 and §6;
+- the character-bible cards for Valens, Theano, Kallia, Felix and Praxias, the Ch.13 walk-on block, "At-risk after Ch.12" and "At-risk after Ch.13", and the at-risk table;
+- outline Ledger row 13 and `## Chapter 13`;
+- the cycle-0 evaluation above.
+
+**Diffed** word by word against `a94ddd5`. The diff is exactly the logged set: C1–C4, P7, F1–F6, P1, P3–P8, R1–R4, O2 and CH13-4. Nothing else moved, and the first line and "Pompeii." are byte-identical.
+
+**Measured:**
+- `bash books/the-hour-of-ash/tools/check_chapter.sh 13` (from /home/user/Books) is **all clean**:
+  - style: simile 2.1/1k, em-dash 1, foreshadow 0;
+  - grammar 0, rhythm 0, show/tell no flags;
+  - voice-wear strict clean; tic gate clean (and-chains 5/9);
+  - echo 0, command echo none, metaphor 2.7/1k.
+- `shape_check --strict`: CLEAN.
+- Gesture classes, by the gate, which now models deliberation pause and exit by gait: object handling 3, deliberation pause 3, hand / chin on the knee 2, swallow 2, jaw 1, exit by gait 1. No class is near the cap of 7.
+
+### Cycle 1 verified, change by change (no added explanation, no sideways repeat, no echo)
+| Item | Now on the page | Verdict |
+|---|---|---|
+| C1 l.64 | "He did not touch the two small white things in my palm." | ✓ The refusal is now in his hands. "did not touch" appears 0× elsewhere in the book. It adds one paragraph-final negation in narration: 5 now, 0.67/1k, still under the ≤1.5/1k WATCH. |
+| C2 l.232 | "He had a look at me, and at the women round me" | ✓ One pause became a look. Look beats in the chapter number about 5, from five different people, with no cluster; the gate's look class is 0. Not a repeat moved sideways. |
+| C3, C4 | cut / merged | ✓ |
+| P7 l.400 | "The front of his white tunic was dark with spilled water" | ✓ The age-plus-tunic skeleton is gone. The wet front fits the boy who carried the water. |
+| F1 l.48 | "and the stall-keeper sucking his fingers between sales" | ✓ Texture (bodily realism). 0 hits in Ch.1–12 and the samples. |
+| F2 l.204 | "…since first light began on the corners of their cakes" | ✓ The present-tense maxim is gone. "first light" is a stock phrase, already in Ch.5, 7 and 11, but carries no frame. |
+| **F3 l.296** | "**I looked where he had been looking,** and the wall was bare but for a lizard, flat in the sun with its toes **splayed**." | **✗ (my own cycle-0 string).** The beat itself works: the mediated sentence is gone and the body rebel is now inhabited. But "X looked where Y was looking, and [the plain thing]" rebuilds **Ch.4 ¶131 "He looked where I was looking and saw grass."**, a content beat the Ch.4 eval singled out. The echo gate cannot see a frame. **→ FZ1.** **The "splayed" deviation is verified sound:** Ch.8 l.252 has "with their toes spread", and "splayed" is used once in the book. |
+| F4 l.298 | "like a suitcase roped onto the roof of a car that was already full" | ✓ A characterizing comparison from 1998, in a new vehicle domain (car). It does not unpack itself. "roped" appears elsewhere only as the verb for a load. |
+| F5 l.308 | "…the one Syracuse looked out on, and the god, in the priest's verse, had said west." | ✓ The argument clause is gone. |
+| F6, P1, P3, P4, P5, P6a–c, R1–R4 | as tabled | ✓ All applied, with no new frame:<br>- Valens now has 0 comparisons in speech;<br>- the command echo is gone (Theano's "Sit down" now gets "She waited until I was on her doorstep");<br>- the hidden-palm offer is staged once;<br>- "at a run" is at 1 in the chapter;<br>- there is 1 gait exit.<br>**Note:** P6c leaves "with his wreath still on. / … with his wreath in his hand" in adjacent sentences (l.266). That is a designed contrast, so I count it under #1 (minor) and make no fix. |
+| P8a l.58 | "Next month. And you pay me again, Syracusan," he said, and liked the sound of that. | ✓ The callback is gone ("little cousin" stays at 2, both in Ch.11). **But** the line still carries **"and you pay me", a 4-gram from sample-08** ("and you pay me this, and I keep it"; voice-dna §6: no sample line reused). This was there before cycle 1, and my cycle-0 sample scan missed it. **→ FZ3.** |
+| P8b l.350 | "a plaster door" | ✓ The page now has one "painted door" (l.342). This spends the bible's "plaster door" variant, so Ch.19 needs another. |
+| **O2 l.38** | "until a **draught** from the gorge found it" | **The deviation's reasoning is verified:** "the wind off" was sample-01's frame, and "up from the" would have reached 3× book-wide. **But the word fails twice.** "draught" is UK spelling; voice-dna §1 requires US English, and for moving air US English uses "draft". It is the book's only use. It is also the word in sample-03's goat-scene simile ("like a draught under a door"), and sample-03 is this chapter's own scene. **→ FZ2.** |
+| CH13-4 l.28 | "the almonds on the terraces were all in full flower now" | ✓ Consistent with Ch.9 l.266. "in full flower" appears 0× elsewhere. |
+
+**#11 recounted by hand: 2 (0.27/1k).** Both are the ones kept on purpose: l.52 "which were plainly the only part of the morning that concerned him", and l.90 "The god could be helped along." **Cycle 1 added no explanatory clause.**
+- **#16:** present-tense generalizations in narration are 0. A regex scan of the unquoted narration found no present-tense verb outside conditionals.
+- **Counts:**
+  - "the only" claims 2;
+  - "as if" 1;
+  - em-dash 1 (Felix's cut-off);
+  - Valens's bare "No." 1;
+  - Valens walk-offs 1;
+  - memories 1 (the slides, triggered, back into speech);
+  - airport memory 0;
+  - Bay of Naples 0;
+  - kneel / crouch 0.
+- **Not an echo:** "Stay among the women." (l.72) and "I stayed on it" (l.224). They are 150 lines apart, with a different object, so this is not compliance.
+- **INVESTIGATE, no change:** the lamp as a vehicle for scrutiny appears three times (l.110, l.158, l.308). The l.308 jab reads as a deliberate return to l.110's short-sighted priest. Ch.14 should not reach for a lamp-to-see image.
+
+### Finalize fixes (FZ1–FZ3), tested together
+All three were applied together to a scratch copy, which was swapped into the manuscript path and run through `bash books/the-hour-of-ash/tools/check_chapter.sh 13` and `python3 tools/shape_check.py books/the-hour-of-ash --strict` from /home/user/Books. The original was then restored, sha256 `8bd99a00…` verified, so the manuscript is untouched. The tested file is `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/ch13-finalize-test3.md` (sha256 `82d36d52…`).
+
+| # | Location | Now | → Replace with | Δ words |
+|---|---|---|---|---|
+| FZ1 | l.296 | "I looked where he had been looking, and the wall was bare but for a lizard, flat in the sun with its toes splayed." | "**Over the woodstack the wall was bare but for a lizard, flat in the sun with its toes splayed.**" | −4 |
+| FZ2 | l.38 | "until a draught from the gorge found it" | "until a **draft** from the gorge found it" | 0 |
+| FZ3 | l.58 | "Next month. And you pay me again, Syracusan," | "Next month. **And then you pay again,** Syracusan," | 0 |
+
+**FZ1 keeps what F3 was for.** The reader already knows Valens "fixed on the wall above the woodstack" (l.290), so Mara's eye goes there unannounced and finds a lizard. The irrelevance stays inhabited and the Ch.4 frame is gone.
+
+**Tested result:**
+- **7,503 words** (shape_check; ≥ 7,500 ✓), 7,522 (style_check);
+- dialogue 38%; median **14** (gear mid ✓); 4 breaks; `scene-set` → `dialogue`;
+- every gate clean: style (simile 2.1/1k, em-dash 1, foreshadow 0), grammar 0, rhythm 0, show/tell no flags, voice-wear strict clean, tic gate clean, echo 0, command echo none, metaphor 2.7/1k;
+- shape CLEAN (`--strict`);
+- 0 sample 3-grams in the three new strings.
+
+**Do not use:**
+- "**The wall he had said it to**…" (FZ1, first try): "said it to" is sample-09's image ("He said it to the window"), a man saying his words to a thing.
+- "**And I'm paid twice**" (FZ3, first try): it made the sentence 13 words, and that dropped the shape median to 13, below the mid gear.
+- "**twice over**": already at l.238.
+
+Update the word-count comment on l.4 to 7,503.
+
+### Genesis Score, cycle 1
+Per-cycle rule: at most +0.5 per dimension against the cycle-0 evaluation. A capped dimension is measured from its on-merit score, as for Ch.10 and Ch.12.
+
+| Dimension | Cycle 0 | On merit (c0) | Limit | **Cycle 1** | Evidence |
+|---|---|---|---|---|---|
+| Originality | 9.0 | 9.0 | 9.5 | **9.0** | Unchanged. The subversion and the inventions are all still on the page: the drench, the bodyguard's inside, Pindar's chair, the word not kept, the left ears, the well-woman, Theano. Two new fresh touches (the lizard, the suitcase) don't move the dimension. |
+| Theme | 8.5 | 8.5 | 9.0 | **8.5** | F5 removed one argument. Still held by "the god had very kindly agreed with the clerk and Kallia and the whole of the lie" (l.308) and "It is not an address. It is a description of the empire." (l.342, in speech). |
+| Characters | **7.5** (cap) | 8.5 | 9.0 | **8.5** | **The cap is lifted.**<br>- Deliberation pause: gate 3, by hand 5 (Felix 2, Valens 2, the Amphissa woman 1), well under the cap of 7.<br>- **Valens's card held fully:** 0 comparisons in speech ("in an ordinary voice", l.162). His refusal is now his hands ("He did not touch…", l.64).<br>- The boy skeleton is gone.<br>- Cover-the-name PASS; Mara's chaos 4/4.<br>**Not 9.0:** cycle 1 only removed things, so no new character evidence entered. |
+| Prose & Voice | **7.5** (cap) | 8.0 | 8.5 | **8.5** | **The #11 cap is lifted (8 → 2, 0.27/1k).** More than 25 cited improvements:<br>- present-tense maxims 2 → 0;<br>- the Ch.7 frame cut;<br>- the fourth command echo gone;<br>- Valens's comparison gone;<br>- gait exits 3 → 1;<br>- "little—" gone;<br>- "a painted door" gone;<br>- R1–R4 doubles cleared.<br>**The body rebel is now inhabited:** "it would not lie down again." runs straight into the lizard, and "It scanned." turns to analysis unannounced. **Stopping sentences:** "Yours stood. I'd have said nobody was there, except the floor gave when he stepped to it." (l.466) and "It took a jar." (l.90). **Ugly sentence:** "That took him a while, or whether to answer it did." (l.378). **Held at the per-cycle limit, and conditional on FZ1–FZ3 at finalize** (one frame echo, one spelling, one sample 4-gram; the same precedent as Ch.11's finalize F1/F3/F4). |
+| Pacing | 9.0 | 9.0 | 9.5 | **9.0** | The ledger row is still hit on every hard field: 7,508 → 7,503, dialogue 38%, median 14, 4 breaks, Parallel. **Not 9.5:** the spring recap and A2's wait are unchanged, by design. |
+| Emotion | 9.0 | 9.0 | 9.5 | **9.0** | The anchor and the surprises are intact. The body rebel is now unexplained (hair, then a lizard), which is the right direction. **Not 9.5:** by law Mara gives "Pompeii." no reaction. |
+| Immersion | 9.0 | 9.0 | 9.5 | **9.0** | Unchanged. FZ2 fixes the one spelling. |
+| **FLOOR** | 7.5 | | | **8.5** | Characters and Prose & Voice |
+| **AVERAGE** | 8.50 | | | **8.79** | (9.0 + 8.5 + 8.5 + 8.5 + 9.0 + 9.0 + 9.0) / 7 = 61.5 / 7 |
+
+### Anti-AI scan (fresh count, 7.5k, commercial band)
+**9/20, total −1.5. Band: WATCH (low edge).**
+
+**Found:**
+- **#1 minor** (2): "the goat was hers" / "it was hers" (designed); "with his wreath" ×2 at l.266.
+- **#3 moderate** (6, 0.80/1k): l.8, l.68, l.92, l.204, l.282, and l.420's three doorways (counted now).
+- **#8 minor:** two doubled-verb pick-ups.
+- **#10 moderate** (4): "delighted", "comforted on my account", "surprised at himself", "glad to".
+- **#11 minor** (2, 0.27/1k).
+- **#12 minor:** speech only.
+- **#13 minor.**
+- **#15 minor:** the sunrise and the altar.
+- **#17 moderate:** B1's Q&A.
+
+**Cleared since cycle 0:** #16 (0).
+
+**#11 hard check: PASS** (2 ≤ 6 and 0.27 ≤ 0.8).
+
+### Readers
+- **Devourer:** unchanged. The terrace wait is a beat quicker ("began on the corners of their cakes" is a small laugh), and the last page is still read at a sprint.
+- **Critic:** the cycle-0 disappointments are gone (the maxim, the Ch.7 sentence, the Etna argument, "He considered" ×3, Valens comparing, "little—"). **New underline:** "flat in the sun with its toes splayed" at the peak. **New catch:** the Ch.4 "looked where … looking" frame, which FZ1 removes.
+- **Hostile:** no new holes. A lizard basking on a sunny wall on a frosty spring afternoon at Delphi is accurate (wall lizards bask on warm stone in late winter). The Campania blind spot is by law and owned by Ch.14.
+- **Casual: 9.0** (holds). The first page is still quieter than Ch.12's. Then the goat, "Stone color", the recital and Theano carry them, and the last word lands like a dropped plate. They would tell a friend.
+- **Devoted:** catches the same re-read rewards. The sample-08 4-gram and the Ch.4 frame are the kind of thing this reader catches; FZ1 and FZ3 remove both.
+
+**Tomorrow Test: ANCHOR EXISTS** (BOTH). The image is Valens standing in the court, hands open, reciting, then "You don't go in at the fourth." The quote is "Pompeii." CVI-Launch 9.8 is unchanged and CVI-Legacy stays 6.8 (provisional).
+
+### Pacing check (one line for `feedback/progress.md`)
+Ch.13 FINAL, 1 cycle:
+- Parallel *outside / inside* between Ch.12 In medias res and Ch.14 Fragmented ✓.
+- **7,503w after FZ1–FZ3** (target 8,000, −6.2%, inside 7,500–8,500).
+- Dialogue 38% (35–45 ✓); 4 breaks ✓; gear mid, median 14 ✓; `scene-set` / `dialogue`.
+- Emotional slot ✓: ritual suspense → misread calm → a road → "Pompeii." at ~28% of the plan.
+- Value shift −/+/−/+; pull 10.
+- Slow patches: the spring recap and A2's middle, both load-bearing.
+
+**Verdict: OK.**
+
+### VERDICT: **PASS**
+| Measure | Result |
+|---|---|
+| Genesis Floor | **8.5** ✓ |
+| Average | **8.79** |
+| Casual | **9.0** ✓ |
+| Pacing | **OK** ✓ |
+| Mechanical gates | all clean ✓ (and clean again with FZ1–FZ3) |
+| CVI-Launch / CVI-Legacy | 9.8 / 6.8 |
+| Foreshadowing / Vesuvius / reaction to "Pompeii." | 0 / 0 / none ✓ |
+
+**Finalize:**
+1. Apply FZ1–FZ3 as written, then re-run E.
+2. Update the l.4 comment.
+3. Make the bible re-syncs below.
+
+No further evaluation cycle is needed.
+
+### Character-bible Ch.13 re-syncs (exact list for the orchestrator; quotes checked by script against the FZ-applied page)
+**THEANO card (l.976–l.998):**
+1. **Evasion line** (l.988): "anything comforting; any explanation; any hint of the hour" → "**anything comforting; any explanation of the god, the answer or the hour (she explains herself once, about the crows, Ch.13: "Because they come." … "A thing that'll sit quiet at a burying can have my barley."); any hint of the hour**".
+2. **Verbal tic line** (l.992): "evasion (no comfort, no explanation)" → "evasion (no comfort; no explanation of the god or the hour)".
+
+**THEANO "Ch.13 as written" block (l.1007–l.1037).** Change "draft quotes; re-sync" to "**SYNCED to the FINAL page**", and make these replacements:
+
+| Bible text now | Final page |
+|---|---|
+| "both hands on her knees, her attention on the crows" | "She pressed her knees with the heels of her hands." |
+| "which his sister never managed" | "**which the mourners never managed**" |
+| "They made a mountain out of it" | "**They put a mountain in it**" |
+| "Keep your silver. You'll want it for a boat." | "**Keep your silver. Whatever's paid on this hill goes to the priests, and I get the steps.**" |
+| "Not mine to give you," … "You've had your answer to that. Ask the other." | "**You've had your answer to that,**" said Theano, watching the crows. "**Ask the other.**" |
+| the last word "delivered flat while she shifts her weight with a hand on her knee" | "**Theano shifted on the stone, and grunted with it. "Pompeii."**" |
+
+Also:
+- **The pills:** Mara "held them up to her where she sat on her husband's stone".
+
+**VALENS "Ch.13 as written" block (l.659–l.690).** Change to "SYNCED to the FINAL page" and make these replacements:
+
+| Bible text now | Final page |
+|---|---|
+| "knuckles had scabbed over in a row" | "**that hand's knuckles had scabbed over, all four**" |
+| wreath "like something another man had put there for a bet" | "**like something another man had put there while he slept**" |
+| "Keep to this wall." | "**Stay among the women.**" |
+| "Valens kept his eyes off me, and I kept mine off him." | (cut; the porch writing is answered by Mara to Felix, with no gaze beat) |
+| "One. The way in's the way out." | "**There's one door. I looked for another.**" |
+| "in a voice that was not his road voice" | "**in a voice that was new to me**" |
+| "Where does the town stop, then?" (unanswered: "There was no answer to that in my Greek.") | it is answered: "**Where a board by the road says it does,**" I said. |
+
+Add:
+- the pills refused by the hands: "**He did not touch the two small white things in my palm.**";
+- "He reads the question off the wax, at the screen, **in an ordinary voice**";
+- the anchor's eyeline: "fixed on the wall above the woodstack".
+
+The Spent list:
+- replace "the wreath for a bet" and "The way in's the way out." with "the wreath as if put there while he slept" and "There's one door. I looked for another.";
+- add "the refusal by the hands (did not touch)".
+
+**MARA "Ch.13 as written" block (l.274–l.304).** Change to SYNCED and make these replacements:
+
+| Bible text now | Final page |
+|---|---|
+| "They take the ache down. You swallow them with water." | "**For the shoulders,** … **Take them with water, and inside an hour you could turn your head without your hips.**" |
+| "I will come when I am sent for." | "**The lead has held it this long,** … **Another year will do it no harm.**" (and "Before the bowl's turn came I meant to be gone.") |
+| "How many ways out?" | cut |
+| "Then I will see it shut." | "**Tomorrow.**" / "**I want to see it shut for myself.**" |
+| to Theano: "They ache," | cut |
+| "out of the rag and out of the coins from the ford" | "out of the rag, in coins from the ford, into his hand" |
+| Etna "looked out on the eastern sea" | "**Etna stood above the eastern sea, the one Syracuse looked out on, and the god, in the priest's verse, had said west.**" |
+| "Memories (both …)" with the airport-gate sentence | **one memory only** (the slides); the airport gate is **not on the page** |
+| "the Bay of Naples appears once, in a list" | "**the list is 'Sicily after all, or Massalia, or Spain'; the Bay of Naples and Campania: 0**" (C-01) |
+
+Add to the body rebel:
+- "it would not lie down again. **Over the woodstack the wall was bare but for a lizard, flat in the sun with its toes splayed.**" (an inhabited irrelevance at the peak, unexplained);
+- "It scanned." follows unannounced.
+
+**KALLIA "Ch.13 as written" block (l.962–l.974):**
+- "on the stair all afternoon with their dinners" → "**on the stair half the night with their dinners**".
+
+**FELIX "Ch.13 as written" block (l.1138–l.1152):**
+- "Was it a stone?" → "**It wasn't a stone, was it?**";
+- "Look at his ears." → "with the ears, look at his ears";
+- the vault: "Felix vaulted the wall beside me." (no "at a run");
+- after the Phocian: "admiring the sky";
+- on the walk down: "Not this year. Not that he's told me." (one speech, no pause beat).
+
+**PRAXIAS "Ch.13 as written" block (l.2364–l.2370):**
+- payment → "out of the rag, in coins from the ford, into his hand. He weighed the silver in his palm and found it enough. He glanced at what the road had done to Valens, and back at the coins";
+- "Next month. And you pay me again, little—" … "Syracusan." → "**Next month. And then you pay again, Syracusan," he said, and liked the sound of that.**";
+- **"little cousin" stays at 2 (Ch.11 only); Ch.13 has 0, and there is no stop-himself beat**;
+- the exit "at a trot toward the stadium and the quail ring" → "**gone off up past the theater toward the stadium and the quail ring with his wreath still on**" (no gait).
+
+**Ch.13 walk-on block (l.1921–l.1950).** Change to SYNCED and make these changes:
+- **The jug boy:** "ten or so, 'in a white tunic too long for him'" → "**The front of his white tunic was dark with spilled water**" (no age given). "She said if the muleteer comes up after her she'll set the crows on him." → it is half-caught by Mara: "I caught "no men" in it, and "muleteer", and something about the crows." His exit is "was off downhill, glad to." (no gait).
+- **Euthydikos's slave:** "He had a look at me, and at the women round me". The Ch.9 OPEN THREAD is now **deflected, not accepted**: Mara says "The lead has held it this long … Another year will do it no harm." and means to be gone first. The thread stays open.
+- **The Amphissa woman:** "where her husband's mother had planted her fig" → "**South is where his mother planted her fig.**"
+- **The bandaged boy's friend:** "said the friend beside him, delighted, **with an arm round his neck.**"
+- **Add the stall-keeper:** "the stall-keeper sucking his fingers between sales" (below the altar).
+- **Mention only:** remove "his sister" (Theano's husband's); keep "her sister's son".
+
+**At-risk after Ch.13 (l.3199–l.3225).** Change "draft counts" to "**FINAL page, polish cycle 1 + FZ1–FZ3**".
+
+Correct these entries:
+- **Airport-gate memory:** "once" → "**0 (not on the page)**".
+- **"Mara's father's slides":** stays (one longer memory). The next waits at least one chapter and takes another shape.
+- **The painted door:** l.342 has 1 "painted door"; "**a plaster door**" (l.350) **spends the table's variant**. Ch.19 uses "the false door" or "the dead man's door", or fresh words. Amend the at-risk table row "the painted door" to read "vary: the false door, the dead man's door (the plaster door USED Ch.13)".
+
+Replace the counts with the final-page counts:
+- hinge-family 0; "So" openers 0; "before I had" 0; negation pivots 0;
+- "the only" claims 2; "as if" 1; em-dashes **1** (Felix);
+- and-chains 5 (cap 9); credential asides 0;
+- object handling 3; **deliberation pause 3 by gate / 5 by hand (Valens 2)**; hand / chin on the knee 2; swallow 2; jaw 1; **exit by gait 1** (the altar boy); kneel / crouch 0; bend 0;
+- **bare "No." 1** (Valens, l.312); Valens walk-offs 1; narrated non-answers 0;
+- "said/told the [non-listener]" 1 ("said Theano, to the crows");
+- **#11 2 (0.27/1k)**; present-tense generalizations 0; **paragraph-final negations 5 (0.67/1k)**;
+- memories 1; echoes 0; no watch; no lens cap; no teeth; no laughs (Mara and Valens).
+
+Add these entries (from the cycle-0 bookkeeping list, updated):
+- **deliberation-pause class:** Ch.13 at 5 by hand; **≤3 per chapter from Ch.14, Valens ≤1**;
+- **exits by gait:** the altar boy's "went at a run" is the Ch.13–15 allowance; Felix's "from the gate he ran" is gate-invisible but counts by hand, so **no gait exit in Ch.14**;
+- **"at a run": 2 book-wide (Ch.10, Ch.13), CLOSED**;
+- **Kallia's spit into her dress:** 2 with Ch.4's goat-boy, CLOSED;
+- **the "in that country … said … in it" frame** (Ch.7): CLOSED;
+- **the gaze-follow frame "looked where [X] was looking" + the plain thing** (Ch.4 ¶131): **CLOSED**, kept out of Ch.13 by FZ1;
+- **present-tense "the way a X does/moves" in narration: 0**;
+- **the hidden-palm offer:** once (l.60); the item-by-item gaze over a body stays CLOSED;
+- **"a lizard … toes splayed": once** (not "toes spread", which is Ch.8's women at the fire); **"a suitcase roped onto the roof of a car": once** (the car domain is used);
+- **"with his wreath still on / in his hand":** a designed contrast, once;
+- **the lamp-as-scrutiny vehicle:** 3 in Ch.13 (l.110, l.158, l.308), rested for Ch.14+;
+- **"Stone color", "Small.", "I gave him Felix.":** already in the Valens and Felix Spent lists.
+
+**ENTITY:** the ibuprofen is used up in Ch.13 (Theano, l.456). The almonds are "in full flower now" (CH13-4, consistent with Ch.9 l.266).
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+- Two of the three finalize items are errors in **my own cycle-0 work**:
+  - FZ1 fixes a string I prescribed;
+  - FZ3 fixes a sample 4-gram my cycle-0 scan missed.
+- The +0.5 limit, not the page, is what holds Prose at 8.5. That is the right reason to stop there for one cycle.

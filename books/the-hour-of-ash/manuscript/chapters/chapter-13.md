@@ -35,7 +35,7 @@ While the terrace was still in shadow two priests brought a woman up the ramp be
 
 The doors took the three of them in.
 
-The light crept down the cliff face while I waited, a gold edge sliding toward us over the gray. It found the temple roof first, then the gilt shields along the front, shield by shield, so that they lit in a row like windows down a street at dusk; last of all it reached the columns and the altar, where a priest was already feeding the fire with split pine, and the first smoke went straight up in the still air until a draught from the gorge found it and laid it over toward the theater.
+The light crept down the cliff face while I waited, a gold edge sliding toward us over the gray. It found the temple roof first, then the gilt shields along the front, shield by shield, so that they lit in a row like windows down a street at dusk; last of all it reached the columns and the altar, where a priest was already feeding the fire with split pine, and the first smoke went straight up in the still air until a draft from the gorge found it and laid it over toward the theater.
 
 Felix pushed out of the press at the ramp with the goat on her rope. She had been at the yard since sundown yesterday, as Valens had said she would be, and Felix had walked her up while it was dark behind a handful of barley; now she had a fillet of white wool tied between her horns, which he had bought for her at the foot of the Way with an obol of his own. He had washed his face for the god and missed his neck.
 
@@ -55,7 +55,7 @@ I paid him first, at the wall, out of the rag, in coins from the ford, into his 
 
 "If she does?"
 
-"Next month. And you pay me again, Syracusan," he said, and liked the sound of that.
+"Next month. And then you pay again, Syracusan," he said, and liked the sound of that.
 
 I had the Advil in my belt, down to its last two. Before Valens could follow him up the steps I tipped both into my palm where my himation hid them, and offered them low between us, where nobody else could see what they were.
 
@@ -293,7 +293,7 @@ He had not been asked to stand. Out in the center of the court, beyond the shade
 
 He stood on a little longer, listening for more, and when there was none he sat again.
 
-The hair had stood up along both my arms under the wool, to the shoulder, and it would not lie down again. I looked where he had been looking, and the wall was bare but for a lizard, flat in the sun with its toes splayed.
+The hair had stood up along both my arms under the wool, to the shoulder, and it would not lie down again. Over the woodstack the wall was bare but for a lizard, flat in the sun with its toes splayed.
 
 It scanned. Most of it went in the measure of Homer, the long line, and the last part hung off the end of it like a suitcase roped onto the roof of a car that was already full. The priest was in it as plainly as the god.
 
