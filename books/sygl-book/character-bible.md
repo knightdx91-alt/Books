@@ -467,7 +467,8 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - Sample line: "Take your time choosing a weapon. Pick each one up. Imagine using it. Take the one that
   speaks to you." (Ch.10)
 
-#### HOPPER — the bloodwolf; Viridia's familiar (named on page by report, Ch.10; first seen Ch.13/16)
+#### HOPPER — the bloodwolf; Viridia's familiar (named on page by report, Ch.10; first seen in person Ch.16)
+- **Ch.16 as written:** first meeting; dog-sized in the collar, she walks past Bal to lean on Amelia; unshrunk at the Whitehaven town limit; growl, bolt off her side, saves Viridia from the axeman, finishes the leader at Bal's offer; chuffs as night guard. "If a wolf could grin" used once (spent).
 - Attention / worldview: bloody meat and being near Amelia (her terms for the bond); danger ahead.
   Bloodwolves are partly Amelia's creation (plains wolves given her blood) and look on her as a mother.
 - Vocabulary band / Syntax: none; growls, a chuff in answer (Ch.16, source).
@@ -579,7 +580,8 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - DISTINCTNESS GUARANTEE: present, named, silent.
 - Sample line: none.
 
-#### MS. SUMMERS — New Spring's alchemist; Lora's mentor (Ch.13, 16–17; mentioned 24) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### MS. SUMMERS — New Spring's alchemist; Lora's mentor (Ch.13, 16–17; mentioned 24) *(on page Ch.16 — confirmed)*
+- **Ch.16 as written:** first named and seen at her shop off the New Spring square (grey dried bundles in the window); small, stooped, two shawls; gets up slowly off her stool. Speaks twice: "I normally hire a team to see me through those woods. I'm not up to it this year." and "Mind the river. That's where they grow." Her face lights up at Lora's questions about cutting and keeping the flowers, and she answers at length; Lora writes it on the back of an old receipt (the paper she reads from in Ch.17). Nothing else added.
 - Ch.13 note: referred to only as "the local alchemist, an older lady" who doesn't feel well enough to go;
   NOT named in Ch.13 (the source names her later). Name her where the source first does.
 - Attention / worldview: the craft and its economy — only enough ingredients for three, "no point in
@@ -591,9 +593,10 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - Verbal tic: none — distinguished by worldview (thrift and craft).
 - DISTINCTNESS GUARANTEE: the expert whose approval is scarce, against Lora, who gives hers freely to a
   book. (Source spells her Ms./Mrs. interchangeably; use **Ms. Summers**, as foundation does.)
-- Sample line: none direct (reported through Lora).
+- Sample line: "I normally hire a team to see me through those woods." (Ch.16)
 
-#### HEATH — bandit leader on the Whitehaven road; wears a heart ring (Ch.16; named by Iro, Ch.21) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### HEATH — bandit leader on the Whitehaven road; wears a heart ring (Ch.16; named by Iro, Ch.21) *(on page Ch.16, UNNAMED — confirmed)*
+- **Ch.16 as written:** called only "the older man", "the leader", "the big man", "the grey-haired man" in narration; never named. Lines: "Your weapons, if you please" and the taunt ("I'll have some fun with them, once I'm done with you"). Rapier through the right knee; Hopper finishes him (off-page detail, "The screaming stopped"). **The heart ring (red gold) is LEFT ON HIS HAND** — Bal decides it is not his to take; Lora explains paired rings; the ring "bugs" Bal and is the chapter's closing thought. Ch.21 can pay it off with no prop to account for.
 - Attention / worldview: robbery as business, then cruelty aimed at what Bal protects; "past his prime"
   per Iro. Sent by Raizen's side to kill Bal.
 - Vocabulary band: rough, mock-polite.
