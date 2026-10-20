@@ -187,6 +187,10 @@ more," said once, as the source has it). **Physicality:** the rapier as an exten
   anything by half measures, do you?").
 - **Verin:** older, faded well-kept red robes, kind blue eyes, grandfatherly.
 - **Mr. Porter:** fifties, balding, tweed, glasses; hostile to blood mages; suggests the rule.
+- **Huginn:** Mr. Porter's raven familiar.
+- **Tyler:** a boy in the front row of the familiar class; asks what Porter means about not leaving (source L347).
+- **Mr. Winters:** rune teacher; skinny, short; praises Bal's avoidance rune.
+- **The librarian:** sets books aside for Bal; no other source detail (keep to function).
 - **Thad Moren:** slight, black ponytail, pale, sharp nose; reads the reports; worn out by the war.
   **Xavier Giles:** broad, weapon-scarred hands, tan, clear blue eyes; plans the strike on the priests.
   Differentiate them by what they notice (Thad the cost, Xavier the route), not by habits.
