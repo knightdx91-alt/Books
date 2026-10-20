@@ -24,7 +24,7 @@ It was nothing she said. It was how she held on to the last word, past where it 
 
 Bal opened his eyes and looked at her.
 
-Amelia was looking right back. She had her eyebrows up and her lips pressed together, and she was plainly waiting for something. Bal waited too. Nothing arrived. In the fire a pocket of sap hissed and spat.
+Amelia was looking right back. She had her eyebrows up and her lips pressed together, and she was waiting for something. Bal waited too. Nothing arrived. In the fire a pocket of sap hissed and spat.
 
 Amelia sighed, took her feet off the table and straightened.
 
@@ -56,7 +56,7 @@ Bal shook his head. Nothing he could say to that would come out right, so he lef
 
 "How exactly am I supposed to do that?"
 
-"As a High Priest, you can," Amelia said. "You alone. Nobody else can convert someone's sygl."
+"As a High Priest, you can," Amelia said. "You alone. Only a High Priest can convert someone's sygl."
 
 She drew his hand over and turned it palm up on her knee. The sygl glowed in the middle of it, faint and red. With the tip of one fingernail she drew a line across the heel of his palm, light as a feather, without breaking the skin.
 
@@ -65,8 +65,6 @@ She drew his hand over and turned it palm up on her knee. The sygl glowed in the
 His hand lay in hers. It sounded simpler than writing out a pizza order.
 
 On the edge of his bed at Saint Andre's, she had told him it could never be done to someone who didn't want it. So it would be up to Viridia. Hers to choose.
-
-Amelia let go of his hand.
 
 "That was another reason I made you High Priest," she admitted. "It wasn't only to keep you safe."
 
@@ -87,9 +85,10 @@ Bal pictured Viridia over the pizza at lunch, her pale blue eyes going bright wh
 After that, Amelia gave him his class schedule.
 
 She had brought it back with her, a single sheet of heavy paper folded in thirds, and she watched him read it. Familiar class came first thing in the morning, then Rune working, then lunch. After lunch he had a class called Warfare, and after that one called Crafting.
+
 The runes didn't worry him. His engraving kit was lying at the bottom of the chest in the bedroom, and he knew more about runes already than about almost anything else. The other two were only names. He read it again and it said the same thing. Warfare could mean anything from swords to maps. Crafting could mean anything at all.
 
-He opened his mouth to ask her, and closed it again. He wanted to walk in tomorrow and find out for himself. Finding out was the best part of anything.
+He opened his mouth to ask her, and closed it again. He wanted to walk in tomorrow and find out for himself.
 
 He folded the schedule back into thirds and left it on the table where her feet had been.
 
@@ -128,8 +127,6 @@ And she laughed, short and surprised, as if the word had tripped her on its way 
 "So how do you go from a regular vampire," Bal asked, "to a Vampire Goddess?"
 
 "Magical energy. A lot of it." Amelia spread the fingers of one hand. "It takes an enormous amount to cross the threshold between mortal and Immortal. There's no set amount. You just have to keep consuming it until it happens. I had a leg up, because I could absorb the magic from the people I fed on."
-
-On the inside of Bal's left wrist, where she had bitten him outside Verin's cottage, the skin gave a small itch. He decided it was his imagination.
 
 "I was the newest originator," Amelia went on. "When it finally happened, I was every bit as surprised as the others were. The moment I crossed over, I was somewhere else. A stone temple, with all of them standing in it, staring at me." Her mouth twisted. "I didn't have a clue where I was, and I asked. Aren's the oldest, so he was the one who explained it. What had happened to me, and what I was now."
 
@@ -185,8 +182,8 @@ Bal got up too. Before she could step away, he caught her hand. It was cool. He 
 
 Amelia's red eyes went very bright. She opened her mouth, and for once nothing came out of it. Her fingers tightened on his, hard enough that he felt her nails. Then she let go.
 
-Bal collected the schedule on his way past and headed off to bed.
+Bal headed off to bed.
 
-The bedroom was dark except for the line of firelight under the door. He kicked off his shoes and climbed in under the black blanket with the dark rose on it, and it took him a while to find the middle of the mattress. He left the folded schedule on the chest at the foot of it where he would see it when he woke.
+The bedroom was dark except for the line of firelight under the door. He kicked off his shoes and climbed in under the black blanket with the dark rose on it, and it took him a while to find the middle of the mattress.
 
 He lay awake for a while. Somewhere above him, in one of the towers or down some corridor he hadn't found yet, there was a bell, and it was waiting for morning.
