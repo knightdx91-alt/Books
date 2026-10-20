@@ -53,7 +53,7 @@ He smiled at her. Her hand came down from her ear.
 
 Bal glanced toward his room. One originator, at least, had not pulled anybody anywhere this morning. When he left her she had been asleep with her mouth a little open.
 
-"I'm happy to go," he said, "if you two are. Let me go get changed."
+"I wouldn't mind going," he said, "as long as the two of you are with me." He smiled at both of them. "Let me go get changed."
 
 Viridia looked pointedly at the uniform he had barely finished putting on. He went anyway.
 
@@ -151,7 +151,7 @@ Lora gave him a sideways look over her glasses.
 
 "So it doesn't bother you? That I'm shy?"
 
-"Not at all," Bal said. "You are who you are. I'm fine with that."
+"Not at all," Bal said. "You are who you are, and I accept that."
 
 Lora smiled. It was a real one, slow and wide, and it went up into her freckles.
 
@@ -159,7 +159,7 @@ Lora smiled. It was a real one, slow and wide, and it went up into her freckles.
 
 Lora spun around and put her face into the corner where the post met the wall, and kept it hidden there. The tops of her ears had gone red.
 
-Viridia had come out of the shop in time to hear it. She stood on the step with a cloth bag in her hand and smirked at Bal hard enough to warm his ears.
+Viridia had come out of the shop in time to hear it. She stood on the step with a cloth bag in her hand and smirked at Bal.
 
 He shrugged. "I only tell the truth," he said. "What'd you buy?"
 
@@ -173,7 +173,7 @@ Bal leaned in to see the rune. Every corner of it was where it ought to be.
 
 "That's a really thoughtful gift," he said.
 
-Viridia went a little pink and put the collar back in its bag.
+Viridia put the collar back in its bag, looking pleased with herself.
 
 ---
 
@@ -249,7 +249,7 @@ Bal backed up.
 
 He went quietly back down the aisle and around its end. When he judged he was far enough off, he let the top history slide off the stack.
 
-It hit the floorboards flat, with a bang that made the stout woman look up from her tea.
+It hit the floorboards flat, with a bang that rattled the stout woman's teacup in its saucer.
 
 Lora's head came around the end of the spellbook shelf. She saw him crouched there reaching for the book, and smiled.
 
@@ -281,7 +281,7 @@ Viridia gave her a light elbow.
 
 "Come on," she whispered, loud enough for the whole shop. "It makes him feel useful."
 
-Lora laughed. It was a bright, sudden sound, and it bounced off the shelves and made the stout woman look up a second time. She held out the book.
+Lora laughed. It was a bright, sudden sound, and it bounced off the shelves and made the stout woman look up. She held out the book.
 
 Bal took it. As he did, he looked her in the eye.
 
@@ -321,7 +321,7 @@ At the word *team*, Lora's head went down again, and stayed down.
 
 Bal glanced at Viridia. She set her jaw and jerked her head at the counter. *Go.*
 
-"We'd like to enroll as a team." Bal stepped up to the counter.
+"I would like to enroll as a team." Bal stepped up to the counter.
 
 Lora started to speak. Viridia put a hand on her arm and shushed her.
 
@@ -389,7 +389,7 @@ Soren was waiting with the cards.
 
 "We have," Bal said. "The consensus is Sygls Best."
 
-Soren took up what Bal took for an ordinary pencil and wrote *Sygls Best* on the face of the first card, in an even, flowing hand. Where the point passed, the letters came up white and sank into the wood, clean and bright, as though the words had always been inside the grain and the pencil had only found them. She did the second card, and the third.
+Soren took up what Bal took for an ordinary pencil and wrote *Sygls Best* on the face of the first card, in an even, flowing hand. Where the point passed, the letters came up white and sank into the wood, clean and bright. She did the second card, and the third.
 
 Bal glanced back. The girls had taken one of the tables and were sitting with their heads close, talking quietly.
 
@@ -505,6 +505,6 @@ The girls traded a glance.
 
 They went out past Kim and her box of papers, into the square. The afternoon had gone gold while they were inside, and the man with the meat rolls was scraping his empty griddle.
 
-The road home was the same five miles it had been that morning, and the pack was heavier now, with six books and a collar in it. Lora had already started talking about her new book before they reached the edge of town.
+The road home was the same five miles it had been that morning, and the pack was heavier now, with six books and a collar in it.
 
-Bal walked a little behind the two of them and let her talk. His hand had found its way into his left pocket. It closed on the corner of the card, and the whole way out of New Spring the letters were there under his thumb, set so smooth in the grain they might never have been cut at all. He did not know what she would say. He did not know whether she had ever wanted a last name, or what she would do with his.
+Bal walked a little behind the two of them. His hand had found its way into his left pocket. It closed on the corner of the card, and the whole way out of New Spring the letters were there under his thumb, smooth in the grain. He did not know what she would say. He did not know whether she had ever wanted a last name, or what she would do with his.
