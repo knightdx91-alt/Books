@@ -139,7 +139,7 @@ chose their path"; his offer to release her; "Who else can teach you blood magic
 the feeding at his wrist: his **unusually high pain tolerance**, the sucking sounds, Bal talking on
 about school and the labouring life he'd expected; the punctures closing under her tongue.
 **Structure:** journey into night, then a still bench.
-**Opening:** Mrs. Brown's knock at six.
+**Opening:** Pierre's knock at six.
 **Anchor:** small talk over a bite; the wiped tear.
 **Hook:** tomorrow the gods.
 **Target:** 3,500.
