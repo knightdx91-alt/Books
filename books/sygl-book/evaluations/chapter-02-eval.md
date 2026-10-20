@@ -165,3 +165,71 @@ BIAS CHECK: This evaluation was produced by the same system that wrote the prose
 - #4–#7, #10, #11: explanatory extensions and "Not X but Y" constructions trimmed at the benches' dust, the click, the red eyes ("Red, the same red as the rubies at her ears") and "storm about to break". The doubled "sounded wonderful" is merged into one sentence.
 - Continuity: "oldest" cut (Amelia is the newest originator per source L334). American register is kept: "flashlight" in both places (the old "by torchlight" is now "by flashlight"). Ch.1 still says "a torch" in the backpack and needs the same change. Tin cups now read as "a whole spring", matching Ch.1. The "red gaze" line that came before the eye reveal is removed.
 - Gates (with Ch.1–4): style_check clean, grammar 0, voice_wear clean, tic_report --gate clean. Em-dashes 0, "the way" 1, simile 2.2/1k. The word count is 2,757 (−82). Dramatizing the history replaced the double-telling, so the chapter did not grow.
+
+## Re-evaluation (round 2)
+**Evaluator:** book-evaluator | **Date:** 2026-10-20 | **File:** manuscript/chapter-02.md (2,757 words; dialogue 830 words = 30%, up from 17%)
+**Lens:** unchanged from round 1. This is a faithful revise/expand: light, warm, playful; Amelia open, confident and flirtatious, never manipulative; American register; no tics. Line numbers below refer to the revised file.
+
+### HEADLINE
+**CVI-Launch:** 8.9 (8.4 + 0.5 anchor) | **CVI-Legacy:** 6.2 | **Genesis Floor:** 8.5 | **Genesis Average:** 8.5 | **Casual Reader:** 9.0
+**Verdict:** **PASS, conditional on one one-word Logic fix (R2-1 below).** The fix is mechanical and does not need another evaluation.
+
+### Gates (rerun by evaluator in the scratch layout /tmp/claude-0/-home-user/925d8686-989e-5134-a9ef-2d597d7cac42/scratchpad/re2/manuscript/chapters/, Ch.1–4)
+- `tic_report.py --gate`: **clean.** Ch.2 has 1 negation pivot (cap 1), 0 and-chains, and no gesture class at cap. Book-wide auto-recurrence: none.
+- `voice_wear_check.py`: **clean** (strict).
+- `style_check.py`: **clean.** Em dashes 0; "the way" 1; Ch.2 has no gated repeat. The old informational repeat "Amelia laughed, delighted, and" is gone.
+- Round 1 could not verify the gates. They are now verified.
+
+### Genesis Score
+
+| Dimension | R1 | R2 | Evidence | Cap check |
+|---|---|---|---|---|
+| Originality | 8.5 | 8.5 | The goddess offers to be the boy's *familiar* (L191). "Poor sock … I see you moved up in the world." (L37) is fresh, in-register comedy built on a source beat. | — |
+| Theme | 8.0 | 8.5 | The empty place at the claiming is now spoken by Bal, to her, as the last item: "There's a place set aside for you there… After enough years of an empty chair, people decided the chair was all there was." (L133). The narration no longer draws the parallel with his own unclaimed state. The source answer "Even without my magic, you're still powerful in your own right" (L155) stays in place. | — |
+| Characters | 7.5 | 8.5 | The laugh cap is lifted: 3 laughs (L41, L95, L183), all from the source. Cover-the-name passes over a run of more than 8 lines: "Mad … Do I look mad to you?" / "Not right now," (L119–123); "I don't think anybody asks the baby." (L115) is Bal's dry honesty. Amelia's control fails on the page and is inhabited: "Dracula," with her voice gone flat, then the brazier dipping and her hands stopping (L127–131). Chaos 3/4. | Gate: no class at cap. Watch the smile family (L81 rueful smile, L167 grinned, L203 smiled, plus L123 mouth twitch). It is under the gate's cap; do not add more. |
+| Prose & Voice | 7.5 | 8.5 | #11 is now 2 in 2.76k (0.73/1K, under the 0.8 commercial cap). #12 is 1, the source's own "wasn't skinny / wasn't fat". Stopping sentences: "Cutting off the hand doesn't cut out the blood." (L101); "Someone had bricked up a door in him while he was too small to know there was a door there at all." (L105). Rough sentence present: "Bal looked. Rubies, black dress, one eyebrow up." (L121). | — |
+| Pacing | 8.0 | 8.5 | The double-telling is gone, and the trigger for the bats happens on stage. Speed varies from a slow, quiet build (L127–133) to the bat burst. "Are you thirsty?" is the hook. Length is −34% against the 4,200 target but inside the outline's 1,300–5,000 band, with every source beat covered. Watch the book-level word floor elsewhere. | — |
+| Emotion | 8.0 | 8.5 | The outrage builds through objects and actions only (the brazier sinks and flares "though there wasn't a breath of wind", her hands stop), so the bats land as the peak. Emotional surprise: "Does that happen often?" / "Only when I'm cross" (L145–147). Body rebel: "his legs simply took him there" (L99). | — |
+| Source Fidelity | 8.5 | 8.5 | Every beat from L14–110 is present and in order. Dialogue is near-verbatim. The familiar offer is verbatim, plus "You have my word on that." No priests, Naisura or other lore come early. Heir's School wording matches the ruling. "Flashlight" is now consistent with Ch.1 L91. Held at 8.5 by R2-1. | — |
+| **FLOOR / AVG** | 7.5 / 8.0 | **8.5 / 8.5** | | |
+
+**Trajectory check:** +1.0 on Characters and Prose. That needs 3+ cited improvements: laughs 4→3 (all source), #11 5→2, the on-stage dramatization of the history, and the gates verified clean. Rule satisfied.
+
+### CVI-Launch
+Commercial Pacing 8.5 · Tomorrow 3 anchors → 9 · Casual 9.0 · Shareability 3/3/2 → 5.7 · Pitch yes (10) · Closeness yes (10) = 8.4, + 0.5 anchor = **8.9**.
+CVI-Legacy: 8.5×.30 + 8.5×.25 + 3×.20 + 4×.15 + 3×.10 = **6.2** (chapter level).
+
+### Anti-AI Scan (2,757 words)
+- #1 Clear: the myth chain is cut.
+- #3 Minor, 2: "her hand, and then at her face, and then down at the stump" (L195); "Kicking, prying, chanting" (character voice).
+- #5 Minor, 1: "She grinned, and it changed her whole face." (L167), a stock phrase.
+- #7 Clear.
+- #8 Minor, 1: "not from the teachers…, not from anyone" (L45).
+- #10 and #14: source-mandated only (confused, nervously, fuming, calming herself).
+- #11 Minor, 2: L105 "as something that had been crooked all his life slid into its proper place"; L171 "Bal answered immediately. He didn't even need to think about it." (the second sentence explains the first).
+- #12: 1, source line.
+- #17 Clear: interruptions and false starts appear ("Usually?", "Mostly.").
+- #18 Clear.
+- All other patterns Clear.
+- **Total: 5 patterns, all minor. Commercial clean band.**
+
+### Reader Reports
+- **Devourer:** no drag left. The history now reads as a conversation that escalates into the bats. Turns the page at "Are you thirsty?"
+- **Critic:** underlines L101 and L105. Small notes on the stock phrase at L167 and the doubled sentence at L171.
+- **Hostile:** **"Poor sock," Amelia said gravely (L37).** Bal does not learn her name until L51 ("My name is Amelia"). Everywhere else before that point the narration calls her "the girl". This breaks Bal-only knowledge rights. Also minor: narration's "one rather large problem" (L197) leans British against the American-register ruling. Amelia's own "cross" and "rather" are her voice and acceptable.
+- **Casual:** 9.0. "Poor sock" and "Do I look mad to you?" make her irresistible, and the bats are the thing they'd tell a friend about.
+
+Cross-reader: R2-1 flagged by Hostile only, so INVESTIGATE. It is still a canon/POV guardrail violation and must be fixed regardless.
+
+### Remaining fixes (surgical)
+| # | Location | Type | Now | Fix |
+|---|---|---|---|---|
+| R2-1 (required) | L37 | Logic / POV | "Poor sock," Amelia said gravely. | "Poor sock," the girl said gravely. |
+| R2-2 (optional) | L171 | Style #11 | "Bal answered immediately. He didn't even need to think about it." | "Bal answered immediately." |
+| R2-3 (optional) | L167 | Style #5 | "She grinned, and it changed her whole face." | "Then she grinned." (source: "Suddenly she grins") |
+| R2-4 (optional) | L197 | Register | "there was still one rather large problem standing in the way." | "there was still one big problem standing in the way." |
+
+### VERDICT (round 2)
+**PASS: Genesis Floor 8.5, Average 8.5, Casual 9.0, Source Fidelity PASS, all gates clean, conditional on R2-1 (one word).** R2-2 to R2-4 are optional polish and do not affect the verdict.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

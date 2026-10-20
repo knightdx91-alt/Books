@@ -34,7 +34,7 @@ That, at least, he could answer, once his tongue came unstuck.
 
 "It hit the dormitory ceiling. Somebody had to fetch it down."
 
-"Poor sock," Amelia said gravely. She looked at the rug in its heap on the floor. "I see you moved up in the world."
+"Poor sock," the girl said gravely. She looked at the rug in its heap on the floor. "I see you moved up in the world."
 
 "I honestly thought I was seeing things," Bal finished. Now that he had started talking, the questions crowded up behind his teeth. "Who are you? How did *you* get in?"
 
@@ -164,11 +164,11 @@ Bal held up his stump.
 
 Amelia narrowed her eyes at him. The firelight caught them as she did, and now Bal saw clearly what color they were. Red, the same red as the rubies at her ears.
 
-She grinned, and it changed her whole face.
+Then she grinned.
 
 "If you had a sygl," she asked, "would you go?"
 
-Bal answered immediately. He didn't even need to think about it.
+Bal answered immediately.
 
 "Of course. I've always wanted to."
 
@@ -194,7 +194,7 @@ Then her voice softened, and she laid one cool hand on his knee.
 
 Bal looked at her hand, and then at her face, and then down at the stump.
 
-It all sounded so wonderful that he didn't quite trust it. Going to a Sygldry school, as Fredrick had, climbing into a car with a trunk and waving goodbye to everyone on the steps. Learning magic from people who knew what they were doing instead of from a cracked secondhand book by flashlight. All of it was sitting there in front of him, close enough to touch, and there was still one rather large problem standing in the way.
+It all sounded so wonderful that he didn't quite trust it. Going to a Sygldry school, as Fredrick had, climbing into a car with a trunk and waving goodbye to everyone on the steps. Learning magic from people who knew what they were doing instead of from a cracked secondhand book by flashlight. All of it was sitting there in front of him, close enough to touch, and there was still one big problem standing in the way.
 
 Still nervous, Bal held up the stump between them.
 
