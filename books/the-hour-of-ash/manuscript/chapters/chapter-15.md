@@ -1,7 +1,7 @@
 # Chapter 15: Summer Pasture
 
 <!-- SCENE BUDGET (Target 7,800; range 7,300-8,300; Chronological day-in-full, dawn to night on the high pasture, 3 breaks / 4 sections, gear high): S1 dawn on the pasture; the string; how we came up (the bandaged Corinthian at the spring, Kallia's boat story, up by night behind the fig) 900 | S1 the cave on the morning after the consultation, by the beam: the crack shows its back wall (CH13-7) 750 | S1 milking at the herdsman's fold; the fig twig refused; the green figs 650 | S2 noon: Valens shaving; the light asked for; the truth told badly (the count, the Galilean, the cave); the mule question; the emperor, the god, the sea; the camera; Pompeii as a place 1,600 | S2 the bargain, brisk, with hiccups: the boat, the record at Corinth, the brother's suit, man and wife; the bowl let go; the boy; the door 900 | S3 afternoon: the seep; Felix told Corinth; his questions; the juniper fight; supper with the herdsman; "You do not believe a word of it" 1,050 | S4 the hut: elbows, the camera, the bed down, his hand under her head, the laugh and its stopping; explicit; after 1,600 | S4 the bed left as it lay; out into the cold; Felix and the fig 350 -->
-<!-- Word count: 7,719 (shape_check; after continuity repair W-01–W-11 + I-04, 2026-10-20) | Target: 7,800 (range 7,300-8,300) | Dialogue 33.6% (band 30-40) | Breaks 3 | Median sentence 16 (shape_check and metaphor_check) | Opens long-spiral, closes quiet | Bare "No." 0 | Kneel/crouch 0 | Hand-on-knee 0 | Em-dash 0 | Echoes 0 | Gates clean | Anchor: his question about mules, asked of a woman who has just told him she comes from nineteen centuries ahead, by a half-shaved man with a knife in his fist -->
+<!-- Word count: 7,479 (shape_check; after polish cycle 1 = evaluator swaps L1–H9 + the CH15-1 spring line + finalize Z1–Z5, 2026-10-20) | Target: 7,800 (range 7,300-8,300) | Dialogue 34.5% (band 30-40) | Breaks 3 | Median sentence 16 (shape_check and metaphor_check) | Opens long-spiral, closes quiet | Bare "No." 0 | Kneel/crouch 0 | Hand-on-knee 0 | Em-dash 0 | Echoes 0 | Gates clean | Anchor: his question about mules, asked of a woman who has just told him she comes from nineteen centuries ahead, by a half-shaved man with a knife in his fist -->
 
 Bells came ahead of the light, the herdsman's ewes moving about the hollow's farther end in the dark and cropping as they went, so that their bells sounded in no order at all, one, then three together, then a long space of nothing; behind the bells came the cold, which on that flank of Parnassus rose from the turf at the end of every night however hot the day before had been; and behind the cold came the thyme, crushed under my own feet as I picked my way past last night's fire to the edge of the grass, where the dew had soaked the straps of my sandals by the tenth step and grayed every stem as far down the hill as the eye went. The summit took the sun first and held it, gold, while everything under it was still blue.
 
@@ -163,7 +163,7 @@ He found the switch again with his thumb and slid it back, and the red left his 
 
 "In Asia."
 
-"Further than Asia. Further than anywhere you have heard of, and that is the smaller part of it." The flashlight lay in my lap. "Where I live, they count the years from the birth of a man in Judaea, and by their count the year I left was nineteen hundred and ninety-eight."
+"Further than Asia. Further than anywhere you have heard of, and that is the smaller part of it." I had the flashlight in my lap. "Where I live, they count the years from the birth of a man in Judaea, and by their count the year I left was nineteen hundred and ninety-eight."
 
 Half his face was shaved and half was not, and he turned the whole of it on me.
 
@@ -437,13 +437,13 @@ I washed his shins at the water skin, with a rag and cold water, until they bled
 
 "Only a little," Felix said. "Not in front of everybody."
 
-Where he could see me looking he never flinched. When he took me to be looking elsewhere, he did, each time. Valens was splitting pine at the woodstack by then, with his back to the pair of us.
+Where he could see me looking he never flinched. When he took me to be looking elsewhere, he did, each time. Valens was splitting pine round the side of the hut by then.
 
 "Did you see?" Felix called to him. "I had it on its back foot."
 
 "I saw the juniper," Valens said.
 
-At sundown Mnason brought the cheese over to our fire, as he had done every few days since our first week, in its rush basket, with the whey still weeping out of the weave onto his wrist. He set it on the stone by the fire, sat down on our woodstack, which in fairness was his, and cut the cheese into four with the knife he had meant for the fig.
+At sundown Mnason brought the cheese over to our fire, in its rush basket, with the whey still weeping out of the weave onto his wrist. He set it on the stone by the fire, sat down on our woodstack, which in fairness was his, and cut the cheese into four with the knife he had meant for the fig.
 
 "Kid," he said, chewing. "Right through it."
 
@@ -473,7 +473,7 @@ Felix ate standing, with one shin held clear of the fire.
 
 "Fighters eat on their feet," he said, "so nobody catches them sitting."
 
-We had barley bread Valens had baked in the ashes that morning, black on the bottom, and a fistful of the bitter greens Mnason picked along the rim and boiled with salt, which I had come round to, and a little of the wine from the skin, which I had not. The sun dropped past the western ridge, the firs went black against it, and the plateau filled with dark, until only the summit at our backs still had light on it.
+We had barley bread Valens had baked in the ashes that morning, black on the bottom, and a fistful of the bitter greens Mnason picked along the rim and boiled with salt, which I had come round to, and a little of the wine from the skin, which I had not. The sun dropped past the western ridge, and the plateau filled with dark until only the summit at our backs still had light on it.
 
 Mnason heaved himself up, put his knife away in his belt, and eyed Valens over the fire.
 
@@ -591,7 +591,7 @@ The fire outside had sunk, and his heart was slowing under my palm.
 
 "Here you say it before witnesses, and then everybody eats. Corinth has clerks."
 
-His arm went heavy across me.
+His arm went heavy.
 
 Some time after that I eased out from beneath it by inches, found my himation by feel among the fleeces, and stepped barefoot onto the wet grass. The stars were down to the ridges all round, more of them than there was dark between, and the summit stood black against them with no light on it anywhere. The string slept on its feet in a row along the hillside, and the fire had gone to embers.
 

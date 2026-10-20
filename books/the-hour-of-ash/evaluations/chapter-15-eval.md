@@ -594,3 +594,378 @@ The chapter does what fourteen chapters were built for. She tells him the truth 
 - **The #11 count is a judgment.** Five are firm by the standard that counted Ch.14's purpose tails. Seven more are borderline. Counting all twelve would put the chapter at 1.55/1k, over the cap, and cap Prose at 7.5. I do not count them: several are the dry aside the voice is built on (l.450, l.378). F1–F6 clear the firm five and the most rationale-like of the rest either way.
 - **Characters 8.5 → 9.0 is my forecast, not a score.** It assumes C1–C7 land as written. A re-evaluator may hold 8.5 on Valens's talk volume in this chapter (the most he has spoken anywhere before Ch.34).
 - Originality, Theme, Emotion and Immersion at 9.0, Casual 9.0 and CVI-Launch 9.8 are one-chapter judgments by the system that wrote the book.
+
+---
+---
+
+## Re-evaluation after cycle 1
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Date:** 2026-10-20
+**Text evaluated:** `manuscript/chapters/chapter-15.md` as it stands after polish cycle 1, sha256 `57900b5c…`. **7,502 words** (shape_check), 7,513 (style_check), 7,820 (`wc -w`). *(l.N below = line number in this page.)*
+
+**Read against:**
+- the book's CLAUDE.md hard gates;
+- STATE.yaml guardrails and resolved_author_decisions, including the new **AUTHOR-END-1** (Ch.41 tomb night; Ch.42 the door works only for her; Ch.43 the tape, film and notebook sent through, and she stays; Ch.44 the dawn walk and surge in ≤3 sentences; no coda);
+- voice-dna §0, §1, §3b, §4, §5;
+- character-bible.md: the MARA (teeth line), VALENS and MNASON cards, the Ch.15 walk-on block, and the at-risk / spent blocks after Ch.12, 13, 14 and 15;
+- outline `## Chapter 15` and Ledger row 15;
+- ENTITY_STATE `CH15-1` … `CH15-10`;
+- the cycle-0 evaluation above.
+
+### What I verified before scoring
+1. **All 45 swaps are on the page exactly as tested.** I re-ran `ch15-eval-fixes.py` on the cycle-0 original (sha256 `451abfbb…`): "applied 45". The result differs from the current page in **one line only**, the CH15-1 spring line (l.218).
+2. **The spring line** (`"The spring?"` / `"It is dry. There is a fence round it now."`):
+   - It agrees with Ch.5 l.43 ("In May it had been a dry niche behind a wire fence"), so **ENTITY CH15-1 can be closed RESOLVED.**
+   - No 4-gram echo with Ch.5.
+   - Present tense is legal here (speech).
+   - It reads in Mara's uncontracted Greek.
+3. **The gates on the current page:** `bash books/the-hour-of-ash/tools/check_chapter.sh 15` is clean on every gate:
+   - style: simile 0.3/1k, em-dash 0, foreshadow 0;
+   - grammar 0; rhythm 0;
+   - show/tell no flags, dialogue 34.4%;
+   - voice-wear strict clean;
+   - tic gate clean (and-chains 7/9, credential asides 0, negation pivots 0, "So" 0, gesture classes under cap);
+   - echo 0; command echo none;
+   - metaphor 1.2 fig/1k, median 16.
+   - `shape_check --strict`: `15 7502 3 34 16 long-spiral quiet`, CLEAN.
+4. **The protected lines are byte-identical** to cycle 0: the first sentence (l.6), "Do they still have mules?" (l.190, 1 of 1) and the last paragraph.
+
+### Did the swaps introduce anything new?
+| Check | Result |
+|---|---|
+| **No added explanation** | **PASS.** None of the 45 adds a reason, motive or gloss. 14 are pure cuts, and F1–F6 removed the five firm #11s. The new clauses are acts or facts: "and he left the light to me" (P1), "and I waited." (P12), "My hiccups were gone." (P14), "His jaw had roughened again since noon" (H9). **#11 now: 0 firm.** The borderline dry asides stay where cycle 0 kept them (l.124, l.282, l.378, l.450, l.468, l.540, l.568), and none of them is new. |
+| **No repeat moved sideways** | **TWO, both small, both fixed in Z1–Z2.** (a) **C6:** the hoof moved to the woodstack, and "with his back to the pair of us" (l.440) now repeats Mnason's "with his back to it" (l.66) and "earth rained on the pair of us" (l.526). It also brings "woodstack" to 8 in the chapter. → **Z1.** (b) **P8:** cutting the basin simile left a clean three-clause sunset ("The sun dropped …, the firs went black against it, and the plateau filled with dark", l.476), and its "black against" doubles the close's "the summit stood black against them" (l.596). → **Z2.** Every other recast was checked against its neighbours. H2's "he was quite still" now pre-loads the scene's designed stillness run ("held still … hold still … the stillness left him", l.576), which is the outline's beat, so it is kept. |
+| **No echo of earlier chapters** | **PASS.** Gate echo 0. My own scan covered every 3- and 4-gram the swaps created, against Ch.1–14 and all 13 samples. It found only stop-word grams ("his back to the" Ch.6/11; "as much as a" Ch.5; "come round to" Ch.9; "had come round" Ch.12), common English and no frames. The finalize wording deliberately avoids two traps: "facing" (Valens facing X is Ch.13 l.166 / Ch.14 l.68's) and "dropped behind the western" (Ch.14 l.140's half moon). |
+| **No new triad** | **One sharpened (P8), cleared by Z2.** F3 removed one ("the count, the cave, the door in the town"). No other swap creates a tricolon. |
+| **The heat scene's craft still holds** | **PASS.** It stays explicit, plain and adult ("I had him in my hand"; "I drew him into me, slowly, all of him"; "He drove into me hard, and I wanted it"). No banned euphemism, no clinical term, em-dash 0. **One comparison** (the road, now in narrative past: "as a man learned a road he meant to take again at night"). The comedy runs in order before the tenderness: the roof, the chiton, "That was my eye.", the fork, the palm, the laugh, the figs, the teeth, the knuckles. Consent is in action ("I put my own hand over it and took it where I wanted it"). The voice still behaves as §5 asks: asides quiet after "Here?", the senses widening (l.574), his stillness breaking (l.576). The doubles are gone: "in my hair" 3 → 1; "and stayed" 3 → 2; "breastbone" 3 → 2; "somewhere" in the hut 4 → 1 (the outline's "the laughter stops"); the dentist's white coat is gone. The cut of "Mnason built it to fit Mnason" (C7) loses nothing: "Mind the roof," I said, too late. carries the beat. **Residue:** "His arm went heavy across me." (l.594) repeats "his arm across me" (l.578) → **Z4**. |
+| **AUTHOR-END-1** | **Nothing here reaches toward the approved ending.** Several lines sit under it as reader-only irony: the camera "keeps what it shows … in the dark … Not a soul in this world can bring it out"; "I'll wait outside it"; "Suppose you see it open?" / "Then I'll believe it". The narrator points at none of them (family E clean). Cascade below: none may be called back verbatim in Ch.41–43. |
+
+**Pre-existing doubles the cycle-0 evaluation missed** (found on this read; cheap, in Z3–Z5):
+- "every few days" twice, in the same habitual frame: "as was his habit every few days at midday" (l.118) and "as he had done every few days since our first week" (l.446). With "as he did every night" (l.514), that is three habitual "as he [did] every …" clauses, a narrator shape forming. l.446's "since our first week" also doubles Valens's spent line "since our first night" (l.484). → **Z3.**
+- "The flashlight lay" as a sentence opener twice in 40 lines (l.128, l.166) → **Z5**.
+- The page's own header comment (l.4) still reports the cycle-0 counts (7,719 words, 33.6%) → **Z6**.
+
+**Kept, by judgment:**
+- His eye hurt twice in four paragraphs (the roof needle, l.526; "That was my eye.", l.532). It is a running gag that escalates, and the second line is funnier for the first.
+- "light on it" at sundown (l.476) and at night (l.596). This is the summit across the day (dawn gold, last light, then none), and a designed situation.
+- "magistrate(s)" at l.280 and l.296 (different speakers' worlds; cycle-0 text).
+- "stayed" ×3 in the union. The knuckles' "stayed" is a different sense from "stayed slow" and "came down … and stayed".
+
+---
+
+### Genesis Score (fresh; per-cycle limit +0.5 against cycle 0)
+
+| Dimension | Cycle 0 | **Cycle 1** | Evidence | Holds / caps |
+|---|---|---|---|---|
+| Originality | 9.0 | **9.0** | Unchanged inventions: the half-shaved face turned whole on her (l.168); the red-lit fingers (l.132); the harvestmen "one leg at a time" (l.34); the hiccup on the last word (l.328); the fig twig and the kid's stomach (l.84–90); "The crowd was ewes." (l.416); "His palm was under my skull before the floor was" (l.544); the teeth held against him (l.556); Felix's swollen lips and the bitten fig. | **≥9.0 challenge** (vs *Outlander*'s first-night chapter): yes. Not 9.5, for the same reasons as cycle 0. |
+| Theme | 9.0 | **9.0** | Told by acts: "Do they still have mules?" (l.190); "I'll wait outside it," (l.366); "It'll get you on a boat." (l.506). "Because there I know where everything is kept." (l.364). Texture that means nothing: the snowplow to a ewe; "My son's wife is from Amphissa."; the brother's six figs. | No echo chamber. Not 9.5: "Because it is my own" states her side once in speech. |
+| Characters | 8.5 | **9.0** (+0.5) | **Seven cited changes** clear the cycle-0 hold. Valens's register is literal now: "Delphi thinks you're on a boat. Let it." (l.344) and "the box you look through" (l.288). Mnason's fronted object is his alone again: "I've heard of Neapolis." (l.274), so "Fig, she turned it with" (l.90) is the only one. The "Then I'll ___ it" pair is broken ("I'll wait outside it," l.366, against "Then I'll believe it," l.510). His hands find a new object, and the turned back is a courtesy to Felix's unwatched flinch: "Valens was splitting pine … by then" (l.440), then "I saw the juniper," (l.444). "Celer's men chose a road for it." (l.326) is now a whole sentence. Mara's chaos is 4/4 inhabited. Felix ("Would you cry, if it was me?"), Mnason (the rennet, "Kid," … "Right through it.") and Kallia (the lie to the lane) each have their own moment. Cover-the-name PASS for all five speakers. | **No cap.** Verbal tics 0; gesture classes under cap. The black's near fore is his business once (l.8). Valens asks "Why?" only of a plan (l.362), never of a feeling. **Not 9.5:** this is Valens's longest talking day before Ch.34. It is earned by the questions, but it spends some of the spareness §3 builds him on. |
+| **Prose & Voice** | 8.0 | **8.5** (+0.5) | **The law cluster that held cycle 0 is gone (45 cited changes):** narrated fronted objects 0 (P1); the gaze-arrival "then" 0 (P2); present tense in narration 0 (P3, P4); the cave no longer in Ch.3's order or words, and "into October" gone (P5–P7); the silence filled by a fire, cut (P9); "had gone … still", cut (H2); sample strings 0 (P1, P8, C7); "somewhere" in narration 2, "so that" 3; #11 0 firm; paragraph-final negations 8 (1.07/1k). **Stopping sentences intact:** "his fingers lit red along their edges, all of them, with the dark of the bones down their middles" (l.132); "His palm was under my skull before the floor was, and the floor took the back of his hand instead" (l.544). **Underlines intact:** "his own lashes in the glass"; "It keeps what it shows."; "her tail switching at his face and his face not caring"; "with the lens turned to the wall"; "so that his hands would find no work in it"; "which was worse, and better". **New underline:** "I had flossed every night of my adult life and still paid to be scolded twice a year" (l.556). **Ugly sentence:** "The cheese was good and Mnason said it was not and ate most of it." **Voice in heat:** §5 behaviour unchanged. | **Merit 8.5, no cap.** The residue (Z1–Z5) is five in-chapter doubles of the kind Ch.13 and Ch.14 shipped at 8.5 and finalized after. It holds nothing. **Not 9.0:** the +0.5 limit, and the noon run is still eight orderly turns (#17 minor). |
+| Pacing | 8.5 | **8.5** | Ledger hit on every hard field: Chronological day-in-full ✓; `long-spiral` → `quiet` ✓; 3 breaks ✓; dialogue 34% (30–40) ✓; 7,502 against 7,800 (range 7,300–8,300) ✓; median 16 (the high gear's floor; narration alone runs about 20) ✓. Value shift: − → ± → + → +. | **Held.** The dawn section still runs about 600 words of backfill (l.14–50: the runner, Kallia, the loft, the cave) before the milking resumes. The cuts took about 40 words out of it, not the shape. It is load-bearing (the flashlight's first sighting, paid at noon), so it stays. |
+| Emotion | 9.0 | **9.0** | Anchor lands (l.190, the knife still wet at l.184). Surprise: the hiccup on "wife"; the union as a fit of laughter. Body rebel: the shiver "hard enough that he heard my teeth"; the hiccups; the shared laugh; "I came with my heel hooked behind his knee"; his stillness leaving him "the whole of it at once". Five or more techniques. | Not 9.5: the peak is a laugh again (Mara's laugh-as-peak: Ch.2, 6, 7, 8, 14, 15). |
+| Immersion (Dim 7) | 9.0 | **9.0** | Period: transhumance, milking from behind at the hurdle gap, fig sap against kid's rennet, the forked-stake bed, pitch against lamp flame, Hero's door, the diolkos, the Isthmian boys' race. 1998: the Energizer rabbit, the answering-machine tape, the Grand Canyon mules, the dry fenced spring, Dionysius's four years. | **Secured, not lifted.** All four cycle-0 slips are fixed: Pompeii "Short of that" on the dust map; mozzarella squeaks; "their magistrates every year"; the strip "as long as you are tall". The spring agrees with Ch.5. **Remaining nits (no change):** a two-cell flashlight "about as much as a hen's egg" is light, but "about" covers it; "every night of my adult life" (see the bible sync). |
+| **FLOOR** | 8.0 | **8.5** | Prose & Voice and Pacing | |
+| **AVERAGE** | 8.71 | **8.86** | (9.0 + 9.0 + 9.0 + 8.5 + 8.5 + 9.0 + 9.0) / 7 = 62.0 / 7 | |
+
+**Casual Reader: 9.0** (held). **Pacing: OK.** **CVI-Launch: 9.8** (held: 8 × .2 + 10 × .2 + 9 × .2 + 9.47 × .2 + 10 × .1 + 10 × .1 = 9.29, plus 0.5 for a strong anchor). **CVI-Legacy: 7.1** (provisional, held).
+
+### Anti-AI scan (20 patterns; 7.50k words; commercial band)
+| # | Result | Count / density | Note |
+|---|---|---|---|
+| 1 Forced symmetry | moderate | 5 (0.67) | l.440 "Where he could see me looking … When he took me to be looking elsewhere"; l.566 "worse, and better"; l.476 "which I had come round to … which I had not"; l.186; l.568 "where it led and where it gave". **−0.25** |
+| 3 Rule of three | moderate | 7 (0.93) → 6 after Z2 | l.340, l.364, l.476 (food), l.234, l.578, l.8, l.476 (sunset; Z2). **−0.25** |
+| 8 Parallelism | minor | 2 | The l.6 spiral (designed); "As man and wife." ×2 (designed). **−0.125** |
+| 9 Smooth transitions | minor | | The day-in-full time ladder. **−0.125** |
+| 10 Described emotion | minor | 1 | l.570 "it went through me": the sanctioned contraception thought, kept. **−0.125** |
+| 13 Precision flex | minor | | The AD count is the subject; "three times since the full moon". **−0.125** |
+| 15 Authoritative description | minor | | The hut's construction (l.516). Offset: "I had never looked underneath it". **−0.125** |
+| 17 Clean dialogue | minor | | The noon Q&A (outline-mandated, interleaved with the shave). **−0.125** |
+| 2, 4, 5, 6, 7, 11, 12, 14, 16, 18, 19, 20 | Clear | | #11: 0 firm. #16: the generic "you" is gone (P10). |
+
+**8 / 20, −1.25. Band: CLEAN** (commercial 0–8). Cycle 0 was 10/20 (watch).
+- The cycle-0 forecast was 7/20. The difference is #10: I still count the one sanctioned contraception line as a minor instance, though it is kept on purpose.
+- **#11 hard check: PASS** (0 firm).
+- The over-correction flag does not fire (8, not 0).
+
+### Character chaos (Mara)
+- Irrelevant thought ✓ (the snowplow, the rabbit, the teeth, the leg hair).
+- Distortion ✓ ("One print on that glass …"; "pitch or nothing").
+- Triggered memory ✓ (two clauses: the mozzarella, the razor; each returns to the scene).
+- Failed management ✓ (the shiver, the hiccups, the laugh).
+- Heat voice ✓.
+- **4/4, inhabited.** Secondary characters each have their own moment. No cap.
+
+### The book's own laws, re-checked on this page
+- **Foreshadowing: 0.** AD 79 appears once, as a present thought (l.282). Family E is clean. AUTHOR-END-1 is not leaned on.
+- **NO TICS:**
+  - verbal 0;
+  - gesture gate clean;
+  - narrated fronted objects 0 (CLOSED at 2);
+  - "had gone (quiet|still)" 0;
+  - "Then I'll" in Valens's mouth 1;
+  - narration "somewhere" 2 (l.558 kept as the outline's beat, l.570);
+  - narration "so that" 3 (l.6, l.526, l.540).
+- **Present tense in narration: 0.** Reuse of Ch.3's cave: none. Sample strings: 0.
+- **Memory (CP2-2) ✓.** "Do they still have mules?" once ✓. Truth told badly, without Pompeii's fate ✓. HEAT 1 ✓ on craft. Bargain ✓.
+
+### Reader reports (cycle 1)
+- **The Devourer.** The morning still opens on a backfill ladder, about 600 words before the milking. After that the chapter does not let go: the spiders, the flashlight, the mules, the hiccup bargain, "I'll wait outside it", the juniper, the bed. P11's "and we climbed." and F1's "He waited, and I did the sum aloud." each read faster than what they replaced. *Would stop?* No. *Pacing verdict:* OK.
+- **The Critic.** Every cycle-0 disappointment is gone: the fronted object, the gaze "then", Ch.3's cave, "somewhere", "in my hair", the explained joke. They underline "paid to be scolded twice a year", "the box you look through" (a man naming a thing by its use) and "Delphi thinks you're on a boat. Let it." They catch the five Z doubles at most as a pencil tick each: "his back to", the sunset triad, "every few days", "arm across me", "The flashlight lay".
+- **The Hostile.** The hut, the map, the cheese, the magistrates, the strip, the Pentax and the spring all now hold. **What is left:**
+  - Floss "every night of my adult life", nine months into antiquity, with the floss unmentioned since Ch.2. "Adult life" can include this year only loosely. Bible note; no change.
+  - A two-AA flashlight "about as much as a hen's egg". It is light, but hedged.
+  - The forward constraints (CH15-6 conception span to autumn 73; the Rome venue, I-20; Delphi believing she sailed). All are cascades, none a hole here.
+  *Verdict:* "No hole."
+- **The Casual Reader: 9.0.** They are hooked on the pasture and the bandaged stranger asking for "the tall foreigner". They laugh out loud at the mule question and go quiet at "I'll wait outside it". The bed is the chapter they tell a friend about. **Frictions:** the how-we-got-here page and a little of the monk's arithmetic. **Not 9.5** for that front-loaded page. They would buy after 3 pages, and they stay.
+- **The Devoted Reader.** Will post about:
+  - moonmilk and the harvestmen;
+  - fig latex against rennet;
+  - Hero's door;
+  - the diolkos "with the masts still in them";
+  - Dionysius's four years;
+  - the camera "in the dark";
+  - "How will you know the door, among all those tombs?"
+  Once AUTHOR-END-1's Ch.43 is on the page, "Not a soul in this world can bring it out" becomes this chapter's best re-read line. That raises the value of keeping it unpointed now. They will catch nothing new.
+
+**Cross-reader matrix (cycle 1):**
+| Issue | Devourer | Critic | Hostile | Casual | Devoted | Severity |
+|---|---|---|---|---|---|---|
+| Z1–Z5 in-chapter doubles | | ✓ | | | | INVESTIGATE → finalize (cheap) |
+| Front-loaded backfill (l.14–50) | ✓ | | | ✓ | | SHOULD FIX → **no change** (load-bearing; as cycle 0) |
+| Floss "every night of my adult life" | | | ✓ | | ✓ | INVESTIGATE → bible note, no page change |
+
+### The Tomorrow Test
+**Unchanged, and strong:** the half-shaved man with the wet knife asking "**Do they still have mules?**", then the bed's head dropping onto his palm and the two of them laughing until they stop.
+- **Anchor type:** BOTH.
+  - IMAGE: the red-lit fingers; the palm under the skull; the lens to the wall; the bitten fig.
+  - QUOTE: "Do they still have mules?"; "I'll wait outside it,"; "The crowd was ewes."; "I was watching the figs."
+- **ANCHOR EXISTS** (+0.5 CVI).
+
+### Pacing check (one line for `feedback/progress.md`)
+Ch.15 (cycle 1 + finalize) · Chronological *day-in-full* ✓.
+- **Length:** 7,479w after Z (7,502 before; target 7,800, −4%; ≥7,300 ✓).
+- **Dialogue:** 34.5% / shape 35 (30–40 ✓). **Breaks:** 3 ✓. **Gear:** median 16 ✓.
+- **Neighbours:** a long, talking, high-gear day after Ch.14's short, low-gear night (3,003w, 5%) ✓. **Signatures:** `long-spiral` → `quiet` ✓. **Value shift ✓.**
+- **Book:** 82,603 against 88,800 cumulative target (−7.0%). Planned total is 259,100; at the running rate that projects to about 241k, above the 220k floor and a little under the 245k target: WATCH.
+- **Verdict: OK.**
+
+---
+
+### Finalize fixes (Z1–Z6): tested together
+All six were applied together to a scratch copy, swapped into the manuscript path, and run through the real `bash books/the-hour-of-ash/tools/check_chapter.sh 15` and `python3 tools/shape_check.py books/the-hour-of-ash --strict` from /home/user/Books. The cycle-1 page was restored after every run and its checksum verified (sha256 `57900b5c…`). **I did not edit the manuscript.**
+
+| # | Location | Problem | Now | Swap (exact) |
+|---|---|---|---|---|
+| Z1 | l.440 | Repeat moved sideways (C6) | "Valens was splitting pine at the woodstack by then, with his back to the pair of us." | → "Valens was splitting pine **round the side of the hut** by then." ("his back to" ×2 → 1; "the pair of us" ×2 → 1; "woodstack" 8 → 7; he is out of sight, so Felix is unwatched and "I saw the juniper," still lands.) |
+| Z2 | l.476 | Triad sharpened by P8; "black against" ×2 | "The sun dropped past the western ridge, the firs went black against it, and the plateau filled with dark, until only the summit" | → "The sun dropped past the western ridge, and the plateau filled with dark until only the summit" |
+| Z3 | l.446 | "every few days" ×2; a third habitual "as he [did] every …"; "since our first" ×2 | "brought the cheese over to our fire, as he had done every few days since our first week, in its rush basket," | → "brought the cheese over to our fire, in its rush basket," |
+| Z4 | l.594 | "arm … across me" ×2 (l.578) | "His arm went heavy across me." | → "His arm went heavy." |
+| Z5 | l.166 | "The flashlight lay" opener ×2 (l.128) | "The flashlight lay in my lap." | → "I had the flashlight in my lap." |
+| Z6 | l.4 (HTML comment) | Stale counts | "Word count: 7,719 (shape_check; after continuity repair W-01–W-11 + I-04, 2026-10-20) … Dialogue 33.6%" | → "Word count: 7,479 (shape_check; after polish cycle 1 = evaluator swaps L1–H9 + the CH15-1 spring line + finalize Z1–Z5, 2026-10-20) … Dialogue 34.5%" |
+
+**Tested result** (fixed copy sha256 `e1ec55e6…`):
+
+| Measure | Result |
+|---|---|
+| Words (shape / style / show-tell / `wc -w`) | **7,479** / 7,490 / 7,493 / 7,807 (≥7,300 ✓) |
+| Median | **16** ✓ |
+| Dialogue | 34.5% (shape 35) ✓ |
+| Breaks / signatures | 3 / `long-spiral` → `quiet` |
+| Gates | style clean (simile 0.3/1k, em-dash 0, foreshadow 0); grammar 0; rhythm 0; show/tell no flags; voice-wear strict clean; tic gate clean (and-chains 7/9); **echo 0**; command echo none; metaphor 1.2/1k |
+| `shape_check --strict` | CLEAN |
+| Protected lines | the first sentence, the mule line and the last paragraph are byte-identical |
+
+**Do not use** (each trips a frame or an echo):
+- "facing the other way" (Valens facing X: Ch.13 l.166, Ch.14 l.26, l.68);
+- "dropped behind the western ridge" (Ch.14 l.140, "dropped behind the western hills");
+- "kept his eyes on the wood" (the CLOSED gaze-holding frame);
+- "never once looked" (a retired phrase).
+
+**Apply** (from /home/user/Books; the script asserts one match per swap and writes nothing on a miss):
+```
+python3 /tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/re15/ch15-finalize.py \
+  books/the-hour-of-ash/manuscript/chapters/chapter-15.md \
+  books/the-hour-of-ash/manuscript/chapters/chapter-15.md 7,479 34.5
+```
+The test harness is `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/re15/ch15-final-swaprun.sh`. It restores the cycle-1 page (`re15/ch15-cycle1.md`), not the cycle-0 original.
+
+**Scores with Z1–Z6:** unchanged (Floor 8.5 / Average 8.86). They are cheap, and recommended before commit. The gate does not depend on them.
+
+---
+
+### Character-bible Ch.15 re-syncs (the gate passes, so all of these apply)
+Each item is either old text → the final page (with Z applied) or a new entry. Every quote below was checked by script against the tested final copy.
+
+**A. "At-risk after Ch.15" block** (rename it "SYNCED 2026-10-20: FINAL page, polish cycle 1 + the CH15-1 spring line + Z1–Z6").
+
+*The cave:*
+- "Was it ever further?" / "Once." → "**Did it ever go on?**" / "**Once.**"
+- "Valens watching what the beam lay on and leaving 'the thing in my hand' to her" → "he arrived at my shoulder and watched what the beam was lying on … **and he left the light to me.**"
+- Add: the cave entry is in fresh order, "The snow at the mouth threw the daylight in behind us." Ch.3's floor-climbs / roof-drops sequence and "black" beyond the bend are not used. "in the autumn" replaces "into October". **SPENT as a set.**
+
+*The flashlight:*
+- "Then don't burn it" → "**Don't burn it, then,**"
+- Add: "it weighed about as much as a hen's egg"; "The flashlight lay on top of everything in my bag in the hut, where it had ridden since spring." Each once.
+
+*Knowledge flow:*
+- "nineteen hundred and twenty-seven years ahead" → told as "the year I left was nineteen hundred and ninety-eight", then "**nineteen hundred years, and twenty-seven more. Twenty-six, and some months.**"
+- "the door home is in Pompeii, a tomb with 'a door that is only a picture of a door'" → **not on the page.** He is told:
+  - the town ("Pompeii"): "In Campania. On the bay below Neapolis, below a mountain they grow wine on. A day from Puteoli by the coast road, or less."; his dust map, "Short of that. There.";
+  - the town's life: "They elect their magistrates every year and paint the candidates' names on the house walls …"; "tombs along the roads out of every gate, and out among the tombs, somewhere, the door I want";
+  - how she would know it: "If it is open, by the cold … If it is shut I shall not know it from any other wall.";
+  - his own summary: "The god gave you a mountain and a tomb."; "With the light, and the box you look through."; "How will you know the door, among all those tombs?"
+
+*Spent with the mule line:*
+- "the fenced spring" → "**The spring?**" / "**It is dry. There is a fence round it now.**"
+
+*The bargain:*
+- "No shipmaster takes on a woman alone. He'll take a wife." and "At the gangway." → **not on the page.** The page has "**That's for the shipmaster, at the gangway.**" / "Is that all it is? Something to say to the shipmaster?" / "**He asks it before he asks the fare,**".
+- "Delphi's put you on a boat. Leave yourself on it." → "**Delphi thinks you're on a boat. Let it.**"
+- "Then I'll wait outside it," → "**I'll wait outside it,**"
+- Add: "In that court I'll have the brother's men on the benches round me," / "**Celer's men chose a road for it.**"; "There's the silver from the ford."; "mules hardened on a mountain"; the bean-sheller image; "The priest's bowl could keep its lead; it had kept it this far."
+
+*Hiccups:*
+- The last now lands "exactly on the last word of it" with **no gloss** (F4).
+- The section closes "**My hiccups were gone.**" (once).
+
+*Heat 1 staging:*
+- "the head knock on the roof poles and 'It's lower than me'" → the knock, "**He told the roof something in Latin**", "picking a needle out of his eye", "I laughed, not much", "**Mind the roof,**" I said, too late. "Mnason built it to fit Mnason" was cut (C7), never on the final page.
+- "the belt thrown in the corner" → "**laid it away in the corner**, so that his hands would find no work in it".
+- The Pentax: "on its strap, **between my breasts**", "as it had hung all **evening**"; "he put his thumb on it" (the raw place).
+- "his teeth 'like a row of new tiles'" → "**His teeth showed by the doorway's glow, square and even. I had flossed every night of my adult life and still paid to be scolded twice a year, and I lay in the wreck of the herdsman's bed and held them against him.**"
+- "as a man learns a road he means to take again at night" → "**as a man learned a road he meant to take again at night, feeling where it led and where it gave**" (the scene's one comparison).
+- Add:
+  - "His knuckles stayed at my mouth, and he was quite still.";
+  - "His jaw had roughened again since noon";
+  - "his cheek on my shoulder";
+  - "His arm went heavy." (Z4);
+  - "It was slow, and stayed slow"; "all his weight came down onto me and stayed" ("and stayed" 2, CLOSED for the book).
+- The "Ch.23 and Ch.34 find other orders" line stands, plus: no eye injury, no pole-and-fork, no belt-as-work.
+
+*Counts:*
+- 7,914 / 30.3% (Writer's page) → **7,479 words (shape_check), dialogue 34.5% (shape 35), median 16, 3 breaks, `long-spiral` → `quiet`**.
+- Em-dash 0; and-chains 7/9; "as if / as though" 1 ("He said it as though that told me the rest").
+- Narration "somewhere" 2; "so that" 3; paragraph-final negations 8; #11 0 firm; simile 0.3/1k.
+- Gesture classes clean.
+- Memories: two clauses (**the Italian Market mozzarella**, the pink razor).
+- AD 79 once; English 0.
+- Teeth: 1 glancing surfacing (his teeth, her record); "woodstack" 7.
+
+**B. Ch.15 walk-on block:**
+- The bandaged Corinthian "No line of his own on the page" → he has **one line**, in direct speech: "**Which house keeps the tall foreigner, the one with something heavy and bright inside her clothes?**" ("with a rag tied round his head under his hat and a Corinthian's way with his vowels").
+- Mnason's dog "and was cursed for it" → "**I'll have your hide for a pail,**" came Mnason's voice out of the dark, and it did not bark again.
+- The Italian Market man: "ricotta on the back of a knife" → "**a knot of mozzarella across his counter on the back of a knife, still warm**" (it "squeaked the same").
+- Add (mention only):
+  - Kallia's neighbors at the spring, one of them a grandmother ("Hot pitch, and off it comes in one pull … and you're smooth for the whole summer"; another "held out for a lamp flame");
+  - "some business of a boatman's cousin and a wager" (Felix);
+  - Mara's landlord and "somebody at my work" (1998);
+  - Plautia's brother's freedman, "The freedman told me which house."
+
+**C. MNASON card** ("Ch.15 as written" → "SYNCED to the FINAL page"):
+- "sixty if he was a day" (Physicality) → the line is **Mara's**: "**He is sixty if he is a day,**" (l.98).
+- "That boy of yours sleeps like the dead," … → "**That boy of yours sleeps through anything,**" … "A wolf could walk off with him, and your man would be up at those mules with his back to it. I've said so. Nobody listens to me up here but ewes."
+- "Tastes of kid," … "You can taste it." (lines and Spent) → "**Kid,**" he said, chewing. "**Right through it.**"
+- Add lines:
+  - "It makes no odds what, so it isn't sad. Sad, she holds it back.";
+  - "When you've beaten that, … you can fight my cheese." (already there);
+  - "**That was a good drainer till you had it,**";
+  - "**I'll have your hide for a pail,**";
+  - "Six months of her, and then the snow goes and I come up here to the ewes, who don't count."
+- Add facts:
+  - the spare hut is his property: "Mnason's rush baskets hung in a row from pegs"; he built the bed of four forked stakes, poles, bracken and three fleeces; "The herdsman will want his bed.";
+  - he brings the cheese at sundown and "said it was not and ate most of it".
+- Add a rule (C4): **a fronted object in speech belongs to Mnason alone** ("Fig, she turned it with"). Valens's "Neapolis I know of" became "I've heard of Neapolis."
+- Spent: the fig-twig standoff; "Your man's shaved,"; "Kid … Right through it."; the brother's six figs; "full of Corinthians"; the drainer; "your hide for a pail".
+
+**D. MARA card, the teeth line (l.87)**, "glancing only in … Ch.15 Valens's" → "Ch.15: **Valens's teeth seen ('square and even'), held against him by her own record ('I had flossed every night of my adult life and still paid to be scolded twice a year'), in the wreck of the bed: DONE, glancing; the dentist is unnamed (no 'man in a white coat')**." Two notes:
+- "every night" is consistent with foundation's "twice a day" as a subset. No later page states another frequency.
+- The floss itself has been unmentioned since Ch.2 (the lentisk stick from Ch.7), so no later page shows her flossing with 1998 floss in antiquity without accounting for it.
+
+Also add a **MARA Ch.15 block**:
+- the chaos items (the snowplow to a ewe, the rabbit, pitch or nothing, the teeth);
+- the hiccups as a body-rebel channel (SPENT);
+- the truth told badly;
+- "It was shut, as I had wished it";
+- "I waited." and the shiver "hard enough that he heard my teeth";
+- the contraception thought, once: "I had lost count of my month somewhere around October";
+- no English to herself (Continuity Commitment kept).
+
+**E. VALENS card: add a Ch.15 block:**
+- **Lines:** "Cool. She'll do the troughs."; "Cut your own." / "The gorge, then." / "It would."; "He'll be over those stones some night."; "Eat one and find out."; "The light in the cave,"; "Don't burn it, then,"; "You'd no salt on you."; the practical questions (l.190–228); "The heavy one," … "Felix's silver."; "It makes everything small,"; "It was made somewhere."; the dust map; "I've heard of Neapolis."; the bargain lines (as A); "I'll wait outside it,"; "Italy's long,"; "Nobody'd give me anything for the black."; "I saw the juniper,"; "He never asked."; "The rest is yours." / "It'll get you on a boat." / "Then I'll believe it,"; "The boy,"; "That's the fork,"; "I was watching the figs."; "Here?"; "Was it the pole?"; "He can have the end that's standing."; "Here you say it before witnesses, and then everybody eats. Corinth has clerks."
+- **Hands, each a different object:** the black's near fore (once, l.8), the figs, the knife, the flashlight, the camera, the thyme, the boot heel in the dust, splitting pine (out of sight), a juniper root, the Pentax strap.
+- **Rules kept:** no comparison in his speech; "Why?" only of a plan.
+- **Spent:** "Then I'll [verb] it", 1 used; **the black's near fore is rested as his business** (Ch.11 paring, Ch.15 lift).
+
+**F. FELIX card: add a Ch.15 block:**
+- **Lines:** "When are they ripe?" / "What's in them now? …" / "Does it? Did it yours? Would it take a mule's?"; "Pick that foot up for me and they'd race you at the Isthmus"; "Ship where? Italy? Is it Italy after all?"; "Capua's in Italy."; the Corinth speech (the diolkos "with the masts still in them"); "Once or twice! I'd have seen every one."; "Not the black."; "There isn't another way."; the boys' race; "She was carrying,"; "Felix! Felix of Kirrha!" (ENTITY CH15-3, a ring name); "It slipped," / "The ground."; "It's nothing,"; "Would you cry, if it was me?" / "Only a little," … "Not in front of everybody."; "Did you see? … I had it on its back foot."; "Six! Was he sick? Did his lips come off?"; "Fighters eat on their feet, so nobody catches them sitting."; "I'm not tired"; the rollers questions.
+- **Facts:** he has NOT seen the flashlight; he told Valens the camera was her father's (undated; CH15-10); he flinches only when unwatched.
+- **SPENT:** the juniper fight; the bitten green fig and the swollen lips.
+
+**G. KALLIA card: add a Ch.15 (backfill) block:**
+- "Gone," … "Gone to Kirrha at the turn of the month and onto a boat for home, the god go with her. She ate more than she carried, that one, and broke two of my jars." (a cover told to the lane; the jars are not fact, CH15-9);
+- "On the mountain you'll milk for your bread, or carry for it,";
+- packing the bag "folding each thing smaller than I would have folded it".
+- Kallia hands Mara an object: **0** (the WATCH holds for Ch.16).
+
+**H. New spent / at-risk entries (add to the block):**
+- Narrated fronted objects: **2, CLOSED, zero tolerance** (the third was cut, P1).
+- "had gone (quiet|still)": **CLOSED** (the third was cut, H2).
+- "in my hair" for Valens's head or mouth: **SPENT** (Ch.12's forehead plus Ch.15's "on my back and in my hair", once). Ch.23 and Ch.34 find another place.
+- Narration "somewhere": **cap 2 per chapter**. Narration "so that": **WATCH > 4**.
+- **The habitual "as he [did / had done / was his habit] every [interval]" clause: 2 in Ch.15 after Z3 (l.118, l.514). WATCH: ≤2 per chapter.** It is the day-in-full's natural reflex, and it formed three in one chapter.
+- **A revisited place:** its sequence and geometry are spent, not only its words (Ch.3's cave). Next at risk: Ch.19's tomb road and Ch.41–42's tomb.
+- **"I'll wait outside it": 1 of 1, SPENT**, never called back, like the mule line. **Cascade (AUTHOR-END-1):** Ch.41–43's door, film and waiting stay situations rendered in fresh words. These must not be quoted back:
+  - "I'll wait outside it";
+  - "keeps what it shows" / "Not a soul in this world can bring it out";
+  - "Suppose you see it open?"
+- "the box you look through": Valens's name for the camera, once. "Felix's silver" / "The heavy one": once each.
+- **The summit across one day** (dawn gold; last light at sundown; "black against them with no light on it anywhere"): SPENT as a day frame.
+- His eye hurt twice (the roof needle, the elbow); "That was my eye.": SPENT.
+- "paid to be scolded twice a year": once. The Italian Market as a memory source: once.
+- "the pair of us": 1; "woodstack": 7 (one object, one name).
+
+**I. Related syncs outside the bible** (flagged for the orchestrator):
+- **ENTITY_STATE:**
+  - `CH15-1` → RESOLVED by "It is dry. There is a fence round it now." (agrees with ch-05 l.43);
+  - `mara-reyes.teeth_ch15` and the trait at about l.2283 still quote "paid a man in a white coat to scold me", so re-anchor them to "paid to be scolded";
+  - `recheck_ch15` (about l.1317) still has "a strip as long as your arm".
+- **voice-dna §5:** the Ch.15 period-material cell, "olive-wood rope bed", → "the forked-stake bed of fir poles, bracken and three fleeces".
+- **Cascades still open from cycle 0:**
+  - I-20: the suit's venue moves to Rome;
+  - I-21: Ch.18's quay wedding needs its own reason;
+  - CH15-6: lovers from July 71 against conception about autumn 73;
+  - I-34: Ch.19's vines line.
+
+---
+
+### VERDICT (cycle 1)
+**PASS.**
+
+| Measure | Result |
+|---|---|
+| Genesis Floor | **8.5** (Prose & Voice 8.5, Pacing 8.5) |
+| Average | **8.86** |
+| Casual | **9.0** |
+| Pacing | **OK** |
+| Mechanical suite | all clean (echo 0; tic gate clean; voice-wear strict clean; shape CLEAN), as the page stands and with Z1–Z6 |
+| CVI-Launch | **9.8** |
+| CVI-Legacy | 7.1 (provisional) |
+| Anti-AI | 8/20, −1.25 (**clean band**; cycle 0 was 10/20, watch) |
+| Foreshadowing | 0 |
+| Tics | verbal 0; gate clean; SPENT / CLOSED frames 0 |
+| Swaps | 45/45 as tested; no explanation added; two sideways repeats and one sharpened triad, cleared by Z1–Z2 |
+| Heat | holds on craft |
+
+**Scores:** Originality 9.0 · Theme 9.0 · Characters 9.0 (+0.5) · Prose & Voice 8.5 (+0.5) · Pacing 8.5 · Emotion 9.0 · Immersion 9.0. These match the cycle-0 forecast exactly. No dimension moved more than +0.5.
+
+**Next:**
+1. Apply Z1–Z6 (one command, tested).
+2. Do the bible syncs A–H and the ENTITY / voice-dna items in I.
+3. Update STATE.yaml (Ch.15 FINAL 8.5 / 8.86 / Casual 9.0 / CVI-L 9.8, 1 cycle) and add the pacing line to progress.md.
+4. Commit and push.
+
+**Ch.15 is the third review checkpoint:** write `feedback/review-ch11-15.md`, set `awaiting_author_review: true`, delete LOOP-LOCK and stop.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+- **Prose 8.5 rests on one judgment:** the cycle-0 hold was the law cluster, not the sentences, and that cluster is now gone. A reader who weighs the five Z doubles more heavily would still pass the chapter only after Z.
+- **Characters 9.0 is a +0.5 on seven cited register changes.** A stricter reader could hold 8.5 on Valens's talk volume this day (the cycle-0 caveat, unchanged).
+- Casual 9.0 and CVI-Launch 9.8 are one-chapter judgments by the system that wrote the book.
