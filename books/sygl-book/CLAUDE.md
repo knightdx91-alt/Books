@@ -60,8 +60,8 @@ books/sygl-book/
 None open (all resolved 2026-10-20; see `STATE.yaml` → `decisions`). New questions go in `open_author_decisions`.
 
 ## Status (update as you go)
-- 2026-10-20: blueprint rebuilt to source order (30 chapters, ≈91,800 words).
-- Ch.1–4 FINAL 2026-10-20 (11,809w): rewritten to the source; all gates clean; Genesis Floor 8.5 each.
-- **Next: Ch.5 "Verin's Cottage"** (source L259–284), opening with Pierre waking Bal.
+- 2026-10-20: blueprint rebuilt to source order (30 chapters, ≈91,856 words after the outline audit).
+- Ch.1–5 FINAL 2026-10-20 (15,428w): rewritten to the source; all gates clean; Genesis Floor 8.5 each.
+- **Next: Ch.6 "The Claiming"** (see project/outline.md).
 - Gate tools voice_wear_check.py / tic_report.py read `manuscript/chapters/`; run them on a scratch copy laid out
   that way (the book uses flat `manuscript/chapter-NN.md`).

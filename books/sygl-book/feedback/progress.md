@@ -5,13 +5,13 @@ Sygl_Complete.txt. NOTE: chapters are flat in manuscript/ (chapter-01.md), not m
 ## Resume point (updated 2026-10-20)
 **Plan rebuilt to follow the author's original script** ("make it more like my original script. And it's
 supposed to be Sygl."). `project/foundation.md`, `project/outline.md` (now **30 chapters, source order,
-≈91,400 words**) and `project/STYLE_CONSTRAINTS.md` were rewritten; STATE.yaml records every ruling as a
+≈91,856 words** after the 2026-10-20 outline audit) and `project/STYLE_CONSTRAINTS.md` were rewritten; STATE.yaml records every ruling as a
 2026-10-20 author decision.
 
-- **Ch.1–4 FINAL** (`manuscript/chapter-01..04.md`, 11,809w): rewritten to the source 2026-10-20, all four
-  mechanical gates clean, book-evaluator Genesis Floor 8.5 each (reports in `evaluations/`).
-- **RESUME HERE → Chapter 5 "Verin's Cottage"** (outline Ch.5; source [pp.17–25], L259–284). Opens with
-  **Pierre waking Bal** at six (author decision), then the muffin, Verin, the portal and the buggy to the cottage.
+- **Ch.1–5 FINAL** (`manuscript/chapter-01..05.md`, 15,428w): written/rewritten to the source 2026-10-20, all
+  four mechanical gates clean, book-evaluator Genesis Floor 8.5 each (reports in `evaluations/`).
+- **RESUME HERE → Chapter 6 "The Claiming"** (outline Ch.6). Viridia is the sparking Tempus girl in the buggy
+  ahead on arrival (author decision); she is not named there.
 - Dialogue rule (2026-10-20): the author's lines are the base; polish grammar/stiffness into natural speech,
   keep meaning, speaker, placement and the memorable lines.
 - Gate tools `voice_wear_check.py` / `tic_report.py` read `manuscript/chapters/`; this book is flat, so run them
