@@ -1,7 +1,7 @@
 # Chapter 8: The Thyiades
 
 <!-- SCENE BUDGET (Target 8,200; range 7,500-8,800): the court, the rags, the rule about men 850 | the lane, Nikaso, the crows, the last house 900 | the ascent by torchlight 1,200 | the plain, waking the child, the dance 1,250 | away to the cave; the hand in the crack 1,250 | snow; the stair shut; Kallia on the god who answers 850 | the pen: the wet-sandals farce, the frozen cloak 1,000 | the song about husbands 650 | the stranger's cloak, the heap, first light 600 -->
-<!-- Word count: 7,476 (shape_check; wc -w 7,635 incl. header) | Revision: 1 (polish cycle 1; PATH TO 8.5 P1-P11 + fennel + CH8-3/5/7 + Nikaso's stair story) | Target: 8,200 (range 7,500-8,800) | Dialogue 28% (band 25-35%) | Breaks 0 | Median sentence 15 (gear mid) | And-chains 2 | Anchor: women asleep in a heap in the snow, steam rising off them | Date: 2026-10-19 -->
+<!-- Word count: 7,476 (shape_check; wc -w 7,635 incl. header) | Revision: 1 (polish cycle 1; PATH TO 8.5 P1-P11 + fennel + CH8-3/5/7 + Nikaso's stair story) | Target: 8,200 (range 7,500-8,800) | Dialogue 28% (band 25-35%) | Breaks 0 | Median sentence 15 (gear mid) | And-chains 2 | Anchor: women asleep in a heap in the snow, steam rising off them | Date: 2026-10-19 | Memory-insert trim 2026-10-19 (AUTHOR-CP2-2: tree lot cut): 7,376 words / dialogue 28.6% shape_check -->
 
 "And once we're above the last house you say nothing about men, not husbands and not sons, whatever they've done to you this winter," Kallia said. "Up there you talk about your feet, or the cold, or you hold your tongue. Wind it harder than that, or it'll be round your ankle before you're halfway up the stair."
 
@@ -144,8 +144,6 @@ Nikaso worked the thong loose from the neck of the skin, drank from the leg, and
 "Kallia's dancing. Look at her. If it sours in the skin while she's at it, who gets the blame? Me. Drink."
 
 The second mouthful went down easier than the first, and after it I joined the ring, mostly for the sake of my feet.
-
-Every December two brothers from Vermont sold Christmas trees from the corner lot at Twenty-second and Pine and slept in a camper parked beside them, and they burned their offcuts all night in an oil drum with holes punched round the bottom. Coming home from the bus I used to stop beside it for a minute with my hands out to the drum, among strangers, in the smell of burning fir.
 
 "Stamp," Sostrata told me, going by at a heavy trot. "Harder. I've his mother under each foot, and look how warm I am."
 

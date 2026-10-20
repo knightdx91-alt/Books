@@ -1,7 +1,7 @@
 # Chapter 10: Kallia's Letter
 
 <!-- SCENE BUDGET (Target 2,800; range 2,500-3,100): the letter at the gate; the Elean turned away 550 | the hours it rode in her belt 200 | opened; the formula; the war and the arm 400 | the wife: "Is she Greek?" / "Can she weave?" 450 | the child, the roof, the land, Emesa 400 | the greetings by name; nothing for the house 350 | the name on the page; Nikaso; the reply she will not send 450 | the afternoon sweep; Ariston's room; out 250 | Mara alone in the kitchen, the afternoon going on 150 -->
-<!-- Word count: 2,446 (shape_check) | FINAL 2026-10-19 after continuity repair, polish cycle 1 and the PATH fix | Target: 2,800 (range 2,500-3,100; no per-chapter floor) | Dialogue 40.47% (990/2,446; band 30-40) | Breaks 0 | Median sentence 15 (gear mid) | Echoes 0 | Anchor: the broom, still lying across the empty room's threshold when Kallia goes out -->
+<!-- Word count: 2,446 (shape_check) | FINAL 2026-10-19 after continuity repair, polish cycle 1 and the PATH fix | Target: 2,800 (range 2,500-3,100; no per-chapter floor) | Dialogue 40.47% (990/2,446; band 30-40) | Breaks 0 | Median sentence 15 (gear mid) | Echoes 0 | Anchor: the broom, still lying across the empty room's threshold when Kallia goes out | Memory-insert trim 2026-10-19 (AUTHOR-CP2-2: Van Pelt bookmark cut, Homs kept as an in-scene fact): 2,448 words / dialogue 40.44% (990/2,448) -->
 
 The letter had been folded down very small. It came to the gate just after noon, held out between two fingers by a pilgrim from Elis, a young man with a peeling scalp who had been sick on the boat from Aigion and wanted it known. One end of it had stood in wet somewhere and dried with a brown tidemark across it. The thread round its middle was knotted under a thumb of gray clay.
 
@@ -95,7 +95,7 @@ Kallia yawned. The yawn took her in the middle of the court, enormous. It stretc
 
 "In the evenings the whole house goes up on the roof. From there you can see the river, and the mountains past it, which keep their snow until the summer. With the money from the cohort and what came with her, I have bought land on the river half a day below Emesa. It is wheat land, with olives along the bank already, and water runs past the door in a channel all summer. I have a yoke of oxen, and a man to drive them, since I cannot."
 
-Emesa was Homs. There had been a postcard of a crusader castle somewhere near Homs, a great tawny thing on a hill. I had used it as a bookmark in a library book on another subject entirely and returned the book across the desk at Van Pelt with the castle still in it. The oxen and the man to drive them went by while I was at that desk.
+Emesa was Homs, on the Orontes, and the mountains with snow on them would be the Lebanon. I had river and range laid out as they lay on the map, with the road running west from the town through a gap in the hills to the sea, and the oxen and the man to drive them went by while I was still on that road. Kallia had not left the roof.
 
 "A roof you sit on," Kallia said. "Where does the rain go?"
 

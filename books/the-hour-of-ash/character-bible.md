@@ -116,8 +116,9 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   group (Ch.4 ¶73 she laughed with the goat-boy "without knowing what at"; Ch.7's step laugh was silent and alone).
   Knowledge asides by hand: 2 (Euripides for the cry; the Prometheus aside on the fennel pith). The frozen cloaks are no
   longer hers: they are Nikaso's story on the stair (Plutarch, *De primo frigido* 953D, behind it, unnamed). Unprompted
-  memory: the Vermont brothers' Christmas-tree lot at Twenty-second and Pine and its oil drum (spent). Her pay "turned up
-  in a bank downtown every other Friday" (no intersection on the page).
+  memory: the Vermont brothers' Christmas-tree lot paragraph was CUT (AUTHOR-CP2-2, 2026-10-19; a stand-alone detour).
+  The chapter's one 1998 memory is now her pay, which "turned up in a bank downtown every other Friday" (no intersection on
+  the page), inside the walk-back paragraph.
 - **Ch.9 as written (Writer, 2026-10-19; Delphi, late winter AD 71. SYNCED to the final page 2026-10-19, after
   dialogue-polish, disruptor, continuity repair, polish cycle 1 and the bending fix with finalize lines F1–F4; every quote below
   is on the page, checked by script):** the commitment holds: no English anywhere, aloud or alone. **The decision to consult is
@@ -148,8 +149,10 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   Perhaps it was the soot." / "Thank you," … "and bent my head to him as well." **Body rebel (the book's first of its kind):** in
   Kallia's basin "the cut in my thumb came open in the water and put a thread of red into the black. I cleaned round it. It went
   on coloring the basin for a while, fainter each time my hands went in, and then the water stayed black." Memory/noise: the red
-  crayon on a schoolroom radiator (a smell inside a sentence, no person); the hardware store off Fortieth Street with a cat on the
-  counter scale, its name gone. Money: the priest's coins knotted "into a rag with the two brass ones from 1998, the poet and the
+  crayon on a schoolroom radiator (a smell inside a sentence, no person); the hardware store off Fortieth Street, FOLDED
+  (AUTHOR-CP2-2, 2026-10-19) into the rod sentence as one clause that comes straight back to the smith: "A hardware store off
+  Fortieth Street sold pins like it singly out of little wooden drawers, with a cat asleep on the counter scale; the smith had
+  sent his second-best file with this one…" (no lost name any more). Money: the priest's coins knotted "into a rag with the two brass ones from 1998, the poet and the
   other"; she owes Valens an obol and is holding it ("I had his obol in the rag. I kept my place."). At the notice (pressure
   level 1): asides die; "I read it through again. The rag had gone damp in my fist." / "I was looking at him. I looked at his
   face." Knowledge asides by credential: 0. Teeth: none.
@@ -167,11 +170,12 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   going east would take it for a cup. As the Elean did."). **Cognitive distortion in action:** an all-or-nothing rule about
   letters that the afternoon disproves ("Whatever was in a letter, I thought, a person read it at once, standing at the door it
   came to, and the pots could wait."; Kallia has just "returned to the pots") and the misread yawn ("She had been on her feet
-  since the dark, and the Elean had come at the worst of the day; I read the next part faster."). **Irrelevant thought /
-  memory:** "Emesa was Homs." and the crusader-castle postcard, "a great tawny thing on a hill", used as a bookmark and "returned
-  the book across the desk at Van Pelt with the castle still in it"; it breaks into the reading and ends on the letter's own
-  words passing unheard: "The oxen and the man to drive them went by while I was at that desk." (moved off the retired voice
-  channel in polish cycle 1). Present-scene history (not foreshadowing): "Jerusalem had fallen in the summer just gone, and its
+  since the dark, and the Elean had come at the worst of the day; I read the next part faster."). **Irrelevant thought
+  (present-scene, no memory):** the Van Pelt bookmark postcard was CUT (AUTHOR-CP2-2, 2026-10-19). Homs stays as a fact she
+  places on the map while she reads, and the letter's words pass unheard: "Emesa was Homs, on the Orontes, and the mountains
+  with snow on them would be the Lebanon. I had river and range laid out as they lay on the map, with the road running west
+  from the town through a gap in the hills to the sea, and the oxen and the man to drive them went by while I was still on
+  that road. Kallia had not left the roof." Present-scene history (not foreshadowing): "Jerusalem had fallen in the summer just gone, and its
   temple with it, burning. I knew it the way I knew the year of the Armada, as a date on a page with a fire in it." After
   Nikaso, one sentence (no anaphora, no "could have"): "Nobody else in that court or in that lane could read a word, and I might
   as easily have made the roof into so much talk about rain and left out the father with no son of his own." Hands on the
@@ -1066,8 +1070,8 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **A Theban on Kallia's gallery** ("Kallia! Are those lentils ever coming?").
 - **Mention only:** the temple painter the priests hang off the roof each spring "with a pot of red" (came off the
   corner at the last painting, broke his arm, back up in a month: "He's cheap"); "a man I knew" from Philadelphia in
-  Asia (Valens); the goat-boy again, by report; Ray (snow tires on the Buick, Thanksgiving to Easter Monday); the
-  Larchwood neighbor in the January '94 ice storm (cat litter down the steps at six a.m.; moved out in March);
+  Asia (Valens); the goat-boy again, by report; (Ray's snow tires and the Larchwood neighbor in the January '94 ice
+  storm were CUT from Ch.6, AUTHOR-CP2-2, 2026-10-19; neither is on the page);
   Gloria, unnamed as "a cousin", in Mara's cliff speech (the pearl in one ear and the gold hoop in the other
   through a whole church service; the continuity repair replaced the freezer-door keys, which were a bible sample
   line); Mara's father's watch, wound "every morning since March".
@@ -1205,7 +1209,8 @@ below is on the page, checked by script.)*
   mother (the child's sandal) and his mother; Sostrata's husband (the baker, twenty years) and his mother (the dough);
   Philista's man ("went off to the Athenians"); the Athenian women (not come: "The roads are shut, they say."); the god in
   the basket ("Your brother's gone away for the winter and left you the house"); Euripides (the cry); Prometheus (the
-  fennel pith); the Vermont brothers at Twenty-second and Pine; "a bank downtown" (the disruptor removed the intersection).
+  fennel pith); "a bank downtown" (the disruptor removed the intersection). (The Vermont brothers at Twenty-second
+  and Pine were CUT, AUTHOR-CP2-2, 2026-10-19.)
   Plutarch is no longer named or remembered on the page: the frozen cloaks are Nikaso's story.
 - **The baker's wife from the Ch.7 bath is named here: SOSTRATA** (card below). The Ch.7 walk-on note stands for her bath
   scene.
@@ -1227,7 +1232,7 @@ below is on the page, checked by script.)*
   hopping home barefoot for want of this."; "Any woman who sleeps by herself tonight wakes up dead"; "He can't hear you
   from Delphi. We can."; "Each morning I tell you about the weather"; "the whole of what I had said to her in a month of
   mornings"; "I had given her nothing but the top of my head"; "waited to be told where I went"; "Somebody's hand came
-  across in the dark"; "the last roof in Delphi"; the Christmas-tree oil drum; the fennel pith that smokes before it
+  across in the dark"; "the last roof in Delphi"; the Christmas-tree oil drum (now off the page, CUT 2026-10-19, but still spent); the fennel pith that smokes before it
   flames, with the Prometheus aside (once); Nikaso's frozen-cloaks story on the stair (told once, CLOSED; the callback is
   "I had taken Nikaso's story on the stair for nerves"). (Removed in this sync, because they are no longer on the page:
   the farmyard-chore gloss on the basket, cut by the disruptor; the aniseed and licorice-store simile for the fennel, the
@@ -1339,8 +1344,8 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   Amphissa with a potter, treading his clay for him."); Nikaso's husband; the Kirrha wine-seller; the Corinthian with the goat on
   the deck; the ox-driver ("a man to drive them, since I cannot"; "It says only a man."). Heard, in the lane at the close: "a
   woman was shaking her blanket over the neighbor's wall, and the neighbor was telling her where else she might shake it." (this
-  replaced the goat-driving complaint, a sample-12 slot). Mara's 1998 side: the crusader-castle postcard near Homs and the Van
-  Pelt library desk.
+  replaced the goat-driving complaint, a sample-12 slot). Mara's 1998 side: none since the Van Pelt postcard was CUT (AUTHOR-CP2-2,
+  2026-10-19); Homs, the Orontes and the Lebanon are present map-knowledge, not a memory.
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -1908,7 +1913,7 @@ line each, so that walk-ons don't all sound like Mara.
   - **Mara's job statement** (Ch.3 "I fix pots. In a museum."; Ch.5 "…for a living"; Ch.6 the cliff speech; Ch.7 "My work is
     pots older than this house, that somebody has dug up."): 4 uses, SPENT until the plot needs it. When it does, the
     statement is new information, not a paraphrase of these four.
-  - **A memory paragraph closing on "nobody ever knew"** (Ch.6 Larchwood "Nobody in the building ever learned his name.";
+  - **A memory paragraph closing on "nobody ever knew"** (Ch.6 Larchwood "Nobody in the building ever learned his name.", since CUT from the page, 2026-10-19;
     Ch.7's Dunphy close was cut, W-12, and now ends on the bell and "said we could go"): SPENT. A memory insert ends on an
     action or an object.
   - **A section ending on Kallia ordering water** (Ch.7 keeps one, "Maira. The water."; the broken-jar section was
@@ -2129,8 +2134,8 @@ line each, so that walk-ons don't all sound like Mara.
     interruption); semicolons 15 in prose; command echoed as compliance 0 ("Lower." is answered by "The finger slid down the
     flute", and the bees' wax arrives by result); bend-to-the-work beats 2 (¶248 Valens, ¶296 the priest; ¶320's bow is a bow);
     "the bee-man" 14; lying-awake coda 0; English 0; cloth smells 0; taste reactions 0; laughs 0. The unprompted memory broke
-    into a sentence (the crayon smell) and one standalone paragraph opened on a place with no person in it (the hardware store),
-    closing on an act.
+    into a sentence (the crayon smell), and the hardware store, once a standalone paragraph, is now one clause inside the rod
+    sentence (AUTHOR-CP2-2 fold, 2026-10-19).
 
 - **At-risk after Ch.9 polish cycle 1 and the bending fix (bookkeeping sync 2026-10-19, from `evaluations/chapter-9-eval.md`
   cycle 0 and cycle 1 (P1–P11, N1, Revision #1–#20, Cross-Book #1–#11, the cycle-1 bookkeeping list),
@@ -2274,9 +2279,10 @@ line each, so that walk-ons don't all sound like Mara.
   - **Similes and comparisons on the final page:** "the way I knew the year of the Armada, as a date on a page with a fire in it"
     (kept; the chapter's one explanatory extension after the PATH) and Nikaso's look "as if it might say so again". Both spent.
     (The writer's dried-leaf simile and the purse comparison were cut and are not on the page; the purse/pickpocket vehicle is
-    spent anyway, at Ch.8.) **Memory spent:** the crusader-castle postcard near Homs left in a library book returned at Van Pelt
-    (a 1998 object, no person; it breaks into the reading and ends on an act, "The oxen and the man to drive them went by while I
-    was at that desk.", no kicker).
+    spent anyway, at Ch.8.) **Memory spent and CUT (AUTHOR-CP2-2, 2026-10-19):** the crusader-castle postcard near Homs left in a
+    library book returned at Van Pelt is off the page; do not rebuild it. Its slot is now present map-knowledge (Homs, the
+    Orontes, the Lebanon, "the road running west from the town through a gap in the hills to the sea"), and the
+    letter-passing-unheard beat survives as "went by while I was still on that road." Both are spent.
   - **The ugly sentence:** "The one on top was the cracked one but it fit." (the plate over the soaking chickpeas). Chickpeas cleaned
     of grit are Ch.10's chore; give the next chore-in-hand scene a different food.
   - **Counts on the final page (re-measured 2026-10-19 for this sync):** hinge-family paragraph openers 0; "So" openers 0; "before I
@@ -2324,7 +2330,12 @@ line each, so that walk-ons don't all sound like Mara.
     Vermont brothers' tree lot), Ch.9 (the hardware store off Fortieth Street), Ch.10 (the Van Pelt postcard). **Cap: one every
     other chapter** (Ch.10 has one, so **Ch.11 has none**; Ch.12 at most one), and **never end one on a lost name** ("Nobody in the
     building ever learned his name", "its name had gone" are the two spent closes). A memory that breaks into a sentence, or a
-    sense with no person in it, is the alternative.
+    sense with no person in it, is the alternative. **RESOLVED by author ruling AUTHOR-CP2-2 (2026-10-19):** Larchwood, Ray's
+    snow tires, the tree lot and the Van Pelt postcard are CUT; the hardware store is folded into one clause of the Ch.9 rod
+    sentence; Homs stays in Ch.10 as a fact, not a memory. Kept 1998 memories, Ch.6–10: the father's watch-winding and the cliff
+    speech (Ch.6), Mrs. Dunphy, the zip code and the offprints (Ch.7), the bank downtown (Ch.8), the crayon smell and the
+    hardware clause (Ch.9). Going forward: no stand-alone memory paragraph; every memory triggered by the scene and returned to
+    it at once; at most one longer memory every other chapter; never the same shape twice running; never a lost-name close.
   - **Kallia asking for a name** ("Which is his name?" / "His name again."): at 2. **No third**, in any wording, for the rest of
     her chapters.
   - **Kallia's chore-replies: capped at 1 per chapter** (the Ch.10 draft had 3; the one kept is "Put a plate on those, or the mice
@@ -2703,3 +2714,9 @@ finalizing the chapter. Never add a tic to fix it.
   Valens keeps one crouch (the hooves on the ice, Ch.6), and his "crouched in the mouth" is gone. Going forward: at
   most 2 such beats in any chapter, no posture named while a character only talks or watches, and no renamed
   posture ("on her heels", "dropped to one knee", "got down") to dodge the count. Tic-bearer roster still NONE.
+- 2026-10-19 (author ruling AUTHOR-CP2-2, Philadelphia memory inserts: "Wouldn't those memories break immersion? Vary
+  them as well as trimming the ones already there"): of the five stand-alone drop-ins, four were CUT (Ch.6 Larchwood,
+  Ch.6 Ray's snow tires, Ch.8 the Vermont brothers' tree lot, Ch.10 the Van Pelt bookmark postcard). One was FOLDED (Ch.9: the hardware store
+  off Fortieth Street is now one clause of the rod sentence and ends on the cat, not a lost name). Ch.10 keeps "Emesa was Homs"
+  as present map-knowledge, at the same length, so the chapter stays inside its 30–40% dialogue band. The log is in
+  evaluations/revision-memory-inserts-2026-10-19.md. Cards and at-risk entries synced. Tic-bearer roster still NONE.

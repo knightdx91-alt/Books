@@ -1,7 +1,7 @@
 # Chapter 6: Snow at the Cave Mouth
 
 <!-- SCENE BUDGET (Target 7,200): crisis in the recess 950 | BACKFILL: the lane, the weeks, the ashes 600 | Kallia and the wood 700 | the ask and the refusal 950 | the Seiko 850 | leaving before light 300 | the climb 1,250 | the wall, the scream, the bread 900 | the descent, the kiln, the evidence 1,200 -->
-<!-- Word count: 6,790 prose (shape_check; 6,769 after dialogue-polish) | Target: 7,200 (range 6,500-7,600) | Dialogue 36.8% (36.9% after dialogue-polish; 6,634 words / 38% after disruptor; 6,680 / 37% after continuity repair 2026-10-19: C-01, W-01..W-16, W-18, W-19; 6,643 / 38% after polish cycle 1 2026-10-19: eval PATH items 1-10 + Valens body sentence + route fix) | Revision: polish cycle 1 | Issues addressed: 19 | Anchor: Valens winding the watch backward, carefully, his thumb covering the crown -->
+<!-- Word count: 6,790 prose (shape_check; 6,769 after dialogue-polish) | Target: 7,200 (range 6,500-7,600) | Dialogue 36.8% (36.9% after dialogue-polish; 6,634 words / 38% after disruptor; 6,680 / 37% after continuity repair 2026-10-19: C-01, W-01..W-16, W-18, W-19; 6,643 / 38% after polish cycle 1 2026-10-19: eval PATH items 1-10 + Valens body sentence + route fix) | Revision: polish cycle 1 | Issues addressed: 19 | Anchor: Valens winding the watch backward, carefully, his thumb covering the crown | Memory-insert trim 2026-10-19 (AUTHOR-CP2-2: Larchwood + snow tires cut): 6,544 words / dialogue 37.3% shape_check (34.2% paragraph-aware; see evaluations/revision-memory-inserts-2026-10-19.md) -->
 
 I had scraped the floor of the crack down to bare rock as far in as my arm would reach, and now I knelt at the bend with Kallia's ash shovel, chopping at a crust of earth that had frozen into plates. Each plate came up with a skin of rime on its underside. Below it the dirt was black grit, packed hard.
 
@@ -88,8 +88,6 @@ He walked back to his mules. I was in the gateway with the empty jar on my hip.
 "Ashes," he said. "For the ice. Before they come up."
 
 A woman in a gateway with a jar was whoever you asked for ashes, so I went and got them. The pail stood by the hearth where I left it every morning, half full, with Kallia's little iron shovel upright in it. He took the pail from me at the gate and went up the lane throwing the ashes in low, flat fans, so that they fell where a hoof would come down and nowhere else. A scar the length of my finger ran over the back of his right hand. Whoever closed it had been in a hurry and set the stitches too far apart, and it had healed in a ladder, every rung raised and white. It was an older hand than the rest of him.
-
-In the ice storm of January '94 the man in the ground-floor apartment on Larchwood had appeared at six in the morning in his bathrobe and poured a whole bag of cat litter down the front steps. In March he moved out. Nobody in the building ever learned his name.
 
 He brought the mules up singly. They were big, dark, dusty animals with the oak lashed onto wooden packsaddles, and each one stopped at the edge of the ice, put a forefoot on the ashes, and considered. The last was a gray who would not consider anything. He leaned on her shoulder, and she had to brace a foot under his weight. He spoke into her ear, low and level, in Latin. *Ambula, asini filia.* Walk on, daughter of a donkey.
 
@@ -347,7 +345,7 @@ I stopped talking. The gray stopped too and stood with her haunches against my k
 
 He clicked his tongue at the gray, and we went on up.
 
-Two turns up, the ice began. He halted, got sacking out of a fodder bag and bound each of the mules' hooves in it, crouched in the path with the hoof between his knees, pulling the twine tight with his teeth. Ray put the snow tires on the Buick every Thanksgiving weekend whether it had snowed or not, and took them off on Easter Monday whether it had stopped or not, and drove on them all winter on the theory that the tires knew something.
+Two turns up, the ice began. He halted, got sacking out of a fodder bag and bound each of the mules' hooves in it, crouched in the path with the hoof between his knees, pulling the twine tight with his teeth.
 
 "Step where she steps," Valens said. "Not where I step."
 
