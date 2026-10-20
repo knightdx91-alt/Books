@@ -3,6 +3,7 @@
 <!-- SCENE BUDGET (Target 7,600; range 7,100-8,100; Parallel, Corinth winter AD 71-72 intercut with Delphi and the gulf in autumn; 6 breaks / 7 sections; gear mid; dialogue 40-50%): C1 Plautia's room, the first blunt question, Greek into Latin, the cakes, the hooks, Marcus at seven, the record office shut and "copied", "what do you want" 1,550 | D1 the string comes down; the afternoon above the stadium; the lane; Kallia and the scorpion; bread, the boat, the obol; the himation folded and taken 950 | C2 the line written for Kallia's son; "She swept a floor"; the bracelet admired, given; weeping through the curtain; Myrrhine's drachma; the marks; "On the left" 1,500 | D2 first light: the lamp on the sill; the himation worked overnight; the threshold swept, the broom hung up; the frame; the flame pinched out (no speech) 850 | C3 the porch: Plautia waits on the step for Valens to look at the street; Felix and the bite; "She does that."; the amphitheater; the office's two doors; the baker's change 1,150 | D3 the gulf: the mules sick and unable to be sick; Felix at the rail; Ray's wristbands; the black down in the night, the failing light; the citadel at dawn 1,100 | C4 the plan for the Isthmia; Myrrhine's case; the dowry at the door; Marcus at the boys' race; the back door argued; the book of boards and its cord (CH12-2); the name on the leaf (CH12-8); Rome; Valens called down; the question 1,500 -->
 <!-- Word count: 7,472 (shape_check; style 7,478; wc -w 7,777 incl. header comments) | Writer draft 2026-10-20 | Target: 7,600 (range 7,100-8,100) | Dialogue 40% (band 40-50) | Breaks 6 | Median sentence 15 (gear mid) | Opens dialogue, closes question | Bare "No." Valens 1 | Kneel/crouch 0 | Hand-on-knee 0 | Deliberation pause 0 | Exit by gait 0 | Object handling 1 | Em-dash 1 | Semicolons 2.5/1k | Echoes 0 | Tic gate clean | Voice-wear clean | Foreshadow 0 | Anchor: Plautia giving away the bracelet Mara admired, then weeping over it behind a curtain; the small paired marks near its clasp -->
 <!-- Section budget actuals: C1 ~1,350 (budget 1,550) | D1 ~900 (950) | C2 ~1,350 (1,500) | D2 ~850 (850) | C3 ~1,500 incl. the unsummoned visit (1,150; the friendship turn moved here) | D3 ~1,150 incl. the porch arrival (1,100) | C4 ~1,350 (1,500) -->
+<!-- Dialogue-polish 2026-10-20: 7,835 words (shape_check; style 7,841) | Dialogue 42.8% (shape; show_tell 42.6) | Breaks 6 | Median 15 | Opens dialogue, closes question (first line and closing paragraph byte-identical) | Em-dash 2 | Bare "No." Valens 1, Mara 1 | Plautia "Then…" openers 5 → 2 | Command echoes 4 → 0 | as if/though 1 | Echoes 0 | Tic gate clean | Voice-wear clean | Foreshadow 0 | Notes: evaluations/dialogue-chapter-16.md -->
 
 
 "Have you seen his back?" Until then she had talked in Greek, a Greek so finely made that I lost it a clause at a time: the rain, and her brother's roof, which leaked over the north colonnade, and a regret that his household had made me no better welcome in all these weeks, in sentences that went on taking new parts into themselves long after I had found the verb and lost hold of its subject. The question was short and plain, and all of it reached me.
@@ -15,11 +16,11 @@ I had had my palms on the ridges of it most nights since July. The heat went up 
 
 She sat by the brazier in a chair with a high curved back, her hands folded one into the other, and nothing of her moved but her eyes. She had fewer years on her than the woman I had made up for myself in the dark: thirty, or a little under, her hair dressed close to the head and pinned there, her face kept from the sun all its life. Her left earlobe had been torn through once, by an earring dragged or worn too heavy, and had grown back in two soft points with a notch between them. She wore no earrings. The room held a chest, her chair, an empty loom under the window, no web on its beam, and the stool where her maid Myrrhine sat shelling lupins into her skirt; and all round the walls, at the height a woman could reach, bronze hooks with nothing hanging from them.
 
-I had lived under her brother's roof since the first of the autumn rains, and until that morning I had seen her three times, each time from behind: crossing the court under a cloak that Myrrhine held up to keep the rain off her, going out at the porch, climbing to these rooms. In the first week a dish of honey cakes had been sent down to the rooms over the stable for the wife of Valens, and I had given it to Felix, who ate every cake and asked when the next dish was due. If Valens had lain with her, then all of his telling by the stream had been a story, and he could tell me whatever he liked. If he had not, no woman alive sent honey cakes to a muleteer's wife. Every night, lying beside him, I went round it and came out where I had gone in.
+I had lived under her brother's roof since the first of the autumn rains, and until that morning I had seen her three times, each time from behind: crossing the court under a cloak that Myrrhine held up to keep the rain off her, going out at the porch, climbing to these rooms. In the first week a dish of honey cakes had been sent down to the rooms over the stable for the wife of Valens, and I had given it to Felix, who ate every cake and asked, "When's the next? Is it every week? Does she know it's me eating them?" If Valens had lain with her, then all of his telling by the stream had been a story, and he could tell me whatever he liked. If he had not, no woman alive sent honey cakes to a muleteer's wife. Every night, lying beside him, I went round it and came out where I had gone in.
 
 "Have you?" I said.
 
-She answered in Greek again, and at length, and I lost her at the second bend of it, somewhere between a lawyer's fee and a difficulty about witnesses, and found her only at the name of a month.
+"Anything I have seen is a matter for the court," she said, still in Greek, and went on from there at length, and I lost her at the second bend of it, somewhere between a lawyer's fee and a difficulty about witnesses, and found her only at the name of a month.
 
 "Lady," I said, "my Greek is from Phocis, and there is not much of it. When it runs, I lose it."
 
@@ -45,21 +46,29 @@ It was book Latin, laid down slowly, the verb held back for the end, and each cl
 
 "All of them, the cook tells me, and then the honey off the dish with his thumb." She did not smile, quite. "I have wished to see you since you came. I did not send for you, because I supposed you would find some reason to climb my stair and look at me before the winter was out, as anybody would, and you have found none; and now the winter is half gone, and my brother is at Patrae for ten days about the suit, and my patience has run out before my pride. You have been looking at the hooks."
 
-"Yes."
+"Something has hung from all of them. The bronze is worn bright at the bend."
 
 "My son was seven at the vintage." It came in the same voice as the rest. "He is in his father's house, where the law says he must be. Twice in three years I have had sight of him: once at the theater, from the women's benches at the top, and once in the street, being taken to the baths, before anybody thought to turn him down another one. At the Saturnalia I sent him a ball of painted leather, red and green, wrapped in a cloth, and the porter at that house took it in at the gate." Outside the shutter the rain poured off the eaves in a rope. "Would a porter keep a child's ball?"
 
 "A porter would be asked where he got it."
 
-"So I tell myself." She looked at the brazier. "Your husband wants a leaf out of a book in the proconsul's record office. My brother wants the same leaf, for the suit, and I believe the man I was married to has thought of it as well. He is back among the proconsul's people this year, now that Corinth has a proconsul again to be among. Since the emperor took back from this province what Nero had given it, the colony's magistrates have had their books kept in that office beside the governor's own; the men who keep them are the proconsul's freedmen, and my son's father has been kind to each of them all this winter. My brother's freedman asked at the door before the Saturnalia and was told the office was shut for the holiday. He asked after it and was told that the book he wanted was out with a copyist."
+"So I tell myself." She looked at the brazier. "Your husband wants a leaf out of a book in the proconsul's record office. This house wants the same leaf, for the suit, and I believe the man I was married to has thought of it as well."
+
+"The governor's?" I said. "Not the colony's own?"
+
+"Since the emperor took back from this province what Nero had given it, the colony's magistrates have had their books kept in that office beside the governor's own; the men who keep them are the proconsul's freedmen. My son's father is among the proconsul's people again this year, now that Corinth has a proconsul to be among, and he has been kind to those freedmen all winter."
+
+"Kind."
+
+"His steward lends them money and forgets to ask for it back, and he greets each of them by name in the forum, which a freedman values more. My brother's freedman asked at the door before the Saturnalia and was told the office was shut for the holiday. He asked after it and was told that the book he wanted was out with a copyist."
 
 "Copied by whom?"
 
-"He is a freedman," said Plautia. "The clerk was smiling, and he went away."
+"Our man is a freedman, and so is the clerk, and one freedman does not call another a liar at his patron's door," said Plautia. "The clerk was smiling. Our man came away."
 
 "Can your brother not go to the proconsul himself?"
 
-"He can, and he has. The proconsul received him with great kindness, and asked after my health, and after my son's, and said that he would look into the matter of the copying as soon as the year's business allowed, and my brother came home and broke a cup."
+"He can, and he has. The proconsul received him with every kindness, and asked after my health, and after my son's, and said that he would look into the matter of the copying as soon as the year's business allowed, and my brother came home and broke a cup."
 
 "And the proconsul?"
 
@@ -75,7 +84,11 @@ It was book Latin, laid down slowly, the verb held back for the end, and each cl
 
 I had nothing to say to that in any language.
 
-"Everybody who climbs that stair wants something of mine," she said. "My brother's advocate wants my mother's silver for his fee, and says so in a very pretty way. The cook wants my old cloak for his daughter, and does not say so, and looks at it. My brother wants me married again by the summer to a man in Sicyon with a vineyard and a cough. And you?"
+"Everybody who climbs that stair wants something of mine," she said. "My brother's advocate wants my mother's silver for his fee, and says so in a very pretty way. The cook wants my old cloak for his daughter, and does not say so, and looks at it—"
+
+"He looks at it every time the chest is open," said Myrrhine, in Greek, to her lupins. She had caught the cloak and the cook, and no more.
+
+"As for my brother," said Plautia, "he would have me married again by the summer to a man in Sicyon with a vineyard and a cough. And you?"
 
 "The leaf," I said. "For him."
 
@@ -83,7 +96,7 @@ I had nothing to say to that in any language.
 
 "I have known you a morning. There is nothing of yours I want."
 
-"Then you are the first," said Plautia. "You are lying."
+"That would make you the first," said Plautia. "You are lying."
 
 Myrrhine got to her feet with her skirt full of skins and shook them onto the coals, and the room filled with the smell of their burning.
 
@@ -141,35 +154,35 @@ I found the storeroom by the feel of its jamb. Inside, the mat was in its corner
 
 I wrote Kallia's line in Plautia's room four mornings after that first one, on a sheet of papyrus from a stall at the top of the Lechaion road, with ink the stallholder ground for me in a shell while I watched. I wrote it out twice because the first one blotted and the second one was not better.
 
-Plautia had sent down for me two more mornings running. Both times she talked Latin to me for an hour about very little: the price of charcoal in a wet winter, the proconsul's wife's cough, a mosaic man her brother had hired who laid his little stones drunk. In between she put one plain question to me each time, never the same one.
+Plautia had sent down for me two more mornings running. Both times she talked Latin to me for an hour about very little, mostly the price of charcoal in a wet winter, and in the middle of it put one plain question to me, never the same one.
 
-"Do you sleep, in a stable?"
+"There is a man laying a floor in the dining room below us, whom this house pays by the day," she said on the first of those mornings, "and he has found out that a floor laid drunk takes twice as many days. Do you sleep, in a stable?"
 
 "Better than in a lodging house. Mules do not talk in their sleep."
 
-"Were you afraid of him, at the beginning?"
+"The proconsul's wife has coughed since the Kalends, and every lady in Corinth has sent her a remedy, and she has thanked each of them in her own hand and taken none," she said on the second. "Were you afraid of him, at the beginning?"
 
 "Of his size. For about an hour."
 
-"And after the hour?"
+"When the hour was out?"
 
 "After the hour he was rude to me about a woodstack."
 
 She had returned to the charcoal after that. Today she watched me cut the reed.
 
-"Who is it to?"
+"Nobody in this house writes a letter except to ask for something, or to refuse what somebody else has asked," she said. "Whom is it for?"
 
 "A woman in Delphi, to her son. He serves in Syria."
 
-"What is in it?"
+"Is it money she wants of him?"
 
-"The news of her lane."
+"She wants nothing of him. It is the news of her lane."
 
 "Nothing of herself."
 
-"Nothing."
+"Not a word."
 
-"Does he write to her?"
+"A son in Syria has the whole of Syria to look at, and a lane in Delphi must be very small from there. Does he write to her?"
 
 "He has written once," I said, "in more than two years."
 
@@ -211,9 +224,9 @@ Myrrhine rose from her stool, came to the table, and eyed the bracelet without t
 
 "Everything she gives away is for sale again by morning." She meant no malice; it was a fact of the house, like the leaking colonnade. "I had her mother's cloak back off a fuller's wife at the Saturnalia, and her good shoes off a girl at the baths. Two drachmas."
 
-"No."
+"Does she know you buy them back?"
 
-She returned to her stool and her lupins, and split one with her thumbnail and ate it, and watched the curtain.
+"She knows her shoes are on her feet." Myrrhine returned to her stool and her lupins, and split one with her thumbnail and ate it, and watched the curtain.
 
 I took the bracelet up. It was heavier than it looked, and soft, as the old gold always was; a fingernail would have marked it. Near the clasp, on the outer face, just where the band would have lain across the inside of her wrist, the gold carried a small crescent of dents, and the opposite edge another: two marks above, two below, set close, with a gap in the middle of each pair. Over the years they had worn smooth at their edges. At work I would have measured them and drawn them and written them up on a card, and I sat in that room in Corinth holding it and did none of it.
 
@@ -311,7 +324,7 @@ Felix gripped a sack and did not lift it. "The man at the stable says there's fi
 
 "The sacks," said Valens.
 
-Felix took one sack and dragged the other, and the dog went with him for the bowl's sake.
+Felix shouldered one sack and dragged the other, and the dog went with him for the bowl's sake.
 
 "Will you take him?" I said. "Only to the gate."
 
@@ -353,7 +366,7 @@ I took Myrrhine's stool. The lupin skins were still in a heap under it, and I mo
 
 "Marcus. For his father's father, who held the consulship two months in a bad year." She looked at the gray gap of sky. "He has his father's ears, which stand out, and my mother's temper, which does not, and before he was four he could say the Muses, all nine, in order, and could not be got to say the Graces at all, because he said they were only girls."
 
-"Our stable boy is the same."
+"Ours can tell you every man who ever won a fight in Corinth, and none of the Muses."
 
 "Your boy has a mule's manners and two good hands. I watched him at the well." She was quiet for a little. "Does he laugh? Your husband."
 
@@ -365,7 +378,7 @@ I took Myrrhine's stool. The lupin skins were still in a heap under it, and I mo
 
 Plautia sat quite still. Then a sound broke from her, short, surprised; she glanced at her own lap as though she had dropped it there, and it broke from her again, and that time she let it.
 
-"And the herdsman?" she said at last.
+"The herdsman?" she said at last.
 
 "He is at his son's for the winter. He will find out in the spring."
 
@@ -389,7 +402,7 @@ Felix was sick into the sea with great industry and no breakfast.
 
 "Hold the dun's head up. If she goes down on this she'll not get up till Lechaion."
 
-I held the dun's head up. She gave the whole hot weight of it to me, groaning into my himation, and her ears flattened and lifted with every roll. The drugstore at Twentieth and Walnut had sold bands for seasickness, elastic, with a plastic bead sewn in to press on the inside of the wrist; Gloria's Ray swore by them, and had been sick in a pair from Lewes into Cape May. The dun groaned again. I rubbed the flat place between her eyes with my knuckles, and the master watched me do it over his mastic and went aft to tell the boy at the steering oar something about foreigners.
+I cupped the dun's jaw, and she gave the whole hot weight of her head to me, groaning into my himation, and her ears flattened and lifted with every roll. The drugstore at Twentieth and Walnut had sold bands for seasickness, elastic, with a plastic bead sewn in to press on the inside of the wrist; Gloria's Ray swore by them, and had been sick in a pair from Lewes into Cape May. The dun groaned again. I rubbed the flat place between her eyes with my knuckles, and the master watched me do it over his mastic and went aft to tell the boy at the steering oar something about foreigners.
 
 "If a mule dies on my deck," the master called forward to Valens, "you pay for the deck to be scrubbed, and the jars it falls against, and the god for the trouble."
 
@@ -411,7 +424,7 @@ Down among the jars lay the black. She had folded at last and gone over onto her
 
 "Felix."
 
-He went round her quarters. Valens worked a sack in under her shoulder, and spoke to her in Latin, and when he said, Felix took the tail and threw himself back on it, and the black heaved. Her forelegs came under her first, and she sat up in the straw like a dog, trembling, with her hind end still down; then she got those under her too, and stood. Her ribs heaved. By then the light was a yellow smudge on her flank the breadth of three fingers, and I turned it off while it still had something left.
+Felix wriggled in behind her. Valens worked a sack in under her shoulder and told her in Latin, "Up, now, you old fool. Up," and on the second of them Felix had a grip on the tail and threw his weight back on it, and the black heaved. Her forelegs came under her first, and she sat up in the straw like a dog, trembling, with her hind end still down; then she got those under her too, and stood. Her ribs heaved. By then the light was a yellow smudge on her flank the breadth of three fingers, and I turned it off while it still had something left.
 
 "Does it go back on?" said Felix, in the dark.
 
@@ -449,13 +462,15 @@ Felix stared that way for some time.
 
 From Lechaion the road ran dead straight over the flat land to the city, between market gardens and the grave plots of Corinthians, the citadel never nearer however far we walked, and we reached the gate past noon, the string strung out behind us and Felix asleep on the dun. Plautia's brother kept a porter on a stool in his porch and a dog on a chain, which rose and announced us to everyone in the lane.
 
-The porter asked who we were. Valens gave his name, and the name of the freedman who had come to Kirrha for him.
+"What name shall I take in to the master?" said the porter.
+
+"Valens. He sent his freedman to Kirrha for me."
 
 "And her?"
 
 "My wife," said Valens.
 
-Never before in my hearing had he said it to a stranger, to a man with a stool and a tablet, who might have put it in writing and did not. The dog pushed its wet nose into my hand and kept up its snuffling while the porter settled that we were no concern of his. Beyond him, at the back of the court, a woman was climbing an outside stair, a maid behind her holding a cloak over her against the drizzle, and she kept her face to the stair.
+Never before in my hearing had he said it to a stranger, to a man with a stool and a tablet, who might have put it in writing and did not. The dog pushed its wet nose into my hand and kept up its snuffling. "Round by the lane for the stable, and there are rooms over it," the porter said, and was done with us. Beyond him, at the back of the court, a woman was climbing an outside stair, a maid behind her holding a cloak over her against the drizzle, and she kept her face to the stair.
 
 * * *
 
@@ -463,9 +478,9 @@ Never before in my hearing had he said it to a stranger, to a man with a stool a
 
 "Which clerk?" asked Valens.
 
-He stood just inside the door with his back to the wall by the jamb, which gave him the whole room and the stair behind him. He had not sat in that room. Twice she had asked him to sit, and twice he had said that he would stand.
+He stood just inside the door with his back to the wall by the jamb, which gave him the whole room and the stair behind him. He had not sat in that room. "There is a stool, Valens," she had told him at the door, and again when the wine was poured, and both times he had answered, "I'm well here."
 
-"My brother's freedman says it will be the young one, who drinks, or the gray-haired one, who does not, and that both of them are fond of money." She had a cup of hot wine in her hands and did not drink it. "I will go in myself, on the second morning, at the hour the boys run, when the office is emptiest. I will have a reason for being there that no clerk can refuse a woman of my family without writing his refusal down, and a purse that he will not wish to write down at all, and my woman with me to carry my writing case. My woman reads."
+"Our freedman says it will be the young one, who drinks, or the gray-haired one, who does not, and that both of them are fond of money." She had a cup of hot wine in her hands and did not drink it. "I will go in myself, on the second morning, at the hour the boys run, when the office is emptiest. I will have a reason for being there that no clerk can refuse a woman of my family without writing his refusal down, and a purse that he will not wish to write down at all, and my woman with me to carry my writing case. My woman reads."
 
 "I carry your case," said Myrrhine, from the chest by the wall, in Greek. She had followed that much.
 
@@ -473,11 +488,17 @@ He stood just inside the door with his back to the wall by the jamb, which gave 
 
 "She doesn't know where the flask goes. She doesn't know which side you get down from a litter. She'll stand on your hem."
 
-"Then you will show her where the flask goes, and which side, and she will stand off my hem." Myrrhine split a lupin with great force and said nothing more.
+"You will show her where the flask goes, and which side, and she will stand off my hem."
+
+Myrrhine split her next lupin so hard that half of it landed in the coals.
 
 "What reason will you give the porter?" I said.
 
 "My dowry. The instrument of it was entered in the colony's books when I was married, with my father's seal on it, and those books went into that office with all the others. I have the right to read it, and to have it read to me, and to have a copy made with the advocate standing by. A clerk who tells a daughter of my father that she may not see her own dowry will have to say why, in writing, to a proconsul who once dined at my father's table."
+
+"What goes in the purse?"
+
+"My mother's silver, which the advocate wanted for his fee and may go on wanting," said Plautia. "What would you give?"
 
 "And while he is fetching it?"
 
@@ -533,7 +554,7 @@ Plautia regarded me over the coals.
 
 "Not so that nobody sees," I said. "So that it slips past a drinker, in a doorway's light, with somebody talking at him. A sober clerk who is looking would find it."
 
-"Then we will hope for the young one." She turned to Valens. "You have no use for the book. You want two of its boards. The leaf with your name on it is near the front, because the emperor's games were early in that year, and it is two boards that close on each other with the writing inside; once the cord is cut they come away together and go into a writing case like any other pair. It will say Gaius Iulius Valens, freedman of Gaius, set free by his master before the magistrate of the games and before the emperor, with the witnesses' names under it, and the day."
+"We must hope for the young one." She turned to Valens. "You have no use for the book. You want two of its boards. The leaf with your name on it is near the front, because the emperor's games were early in that year, and it is two boards that close on each other with the writing inside; once the cord is cut they come away together and go into a writing case like any other pair. It will say Gaius Iulius Valens, freedman of Gaius, set free by his master before the magistrate of the games and before the emperor, with the witnesses' names under it, and the day."
 
 I had been married to a man in that house for three months, by the porter's account and the cook's, and I had had one name for him.
 
@@ -541,11 +562,15 @@ I had been married to a man in that house for three months, by the porter's acco
 
 "The lanista's," said Valens. "I had it with the sword."
 
-"I heard you give all of it in that atrium," Plautia said, "your hand on the household altar, the day you were sworn to me. You said the Gaius as though somebody might take it back."
+"I heard you give all of it in that atrium," Plautia said, "your hand on the household altar, the day you were sworn to me. You said the Gaius quickly, in case somebody should take it back."
 
 "It was new," said Valens.
 
-"When is the suit heard?" I said.
+"Were you there that day?" I said. "At the games."
+
+"Where the wives sit," said Plautia. "From up there a man on the sand has a shield and a crest, and no face."
+
+"When is the suit heard?"
 
 "In Rome, before a judge the praetor gives us, on a day the praetor finds for it. The advocate says two years from this spring. My brother says one. The praetor has said nothing."
 
