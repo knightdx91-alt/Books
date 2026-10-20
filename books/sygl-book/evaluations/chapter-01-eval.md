@@ -158,3 +158,12 @@ Net word effect: about -250 to -300 words, taking the chapter to ~3,200. That is
 **POLISH.** Genesis Floor 7.5 / Average 7.9; Casual 7.5. Above any hard floor, below the 8.5 gate. Every fix above is a trim, reorder or rewording of existing source-faithful material.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+## Revision applied (book-editor, 2026-10-20)
+- Opening restored to source order: roof, off-limits, the boy who died in sentences 2–3; the rolled bedside rug now sits beside Bal on page 1. Slate/pigeon paragraph trimmed; walls/windows/staircase triplet, van/visitors and door catalogue (keyhole, charms) cut.
+- Logic: "A sygl came up in the left palm, and he didn't have a left palm"; weak-magic "because… arm" clause cut; "barely used" cut (books now "old but a good lot"); "A month ago he wouldn't have had the spell."
+- Fredrick's humming quirk cut; "handed more than they had" cut; "missed him already" replaced by the garden string still on the bed.
+- "breath he hadn't known he was holding" → "Bal breathed out."; recovery minute (L109) and "legs were shaky" cut.
+- Repetition thinned (warm 7→2, steady 5→2, smooth 5→0, slate 9→4); triplets broken at sygl colors, book list, braziers' light; "A knot. A cork in a bottle." cut; floor "flagstones/paving" removed; And-openers cut.
+- American register: torch→flashlight, trousers→pants.
+- Gates: style, grammar, voice_wear, tic_report --gate all clean (scratch layout). 3,206 words; em-dashes 0; "the way" 1.
