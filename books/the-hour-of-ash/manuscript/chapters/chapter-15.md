@@ -1,7 +1,7 @@
 # Chapter 15: Summer Pasture
 
 <!-- SCENE BUDGET (Target 7,800; range 7,300-8,300; Chronological day-in-full, dawn to night on the high pasture, 3 breaks / 4 sections, gear high): S1 dawn on the pasture; the string; how we came up (the bandaged Corinthian at the spring, Kallia's boat story, up by night behind the fig) 900 | S1 the cave on the morning after the consultation, by the beam: the crack shows its back wall (CH13-7) 750 | S1 milking at the herdsman's fold; the fig twig refused; the green figs 650 | S2 noon: Valens shaving; the light asked for; the truth told badly (the count, the Galilean, the cave); the mule question; the emperor, the god, the sea; the camera; Pompeii as a place 1,600 | S2 the bargain, brisk, with hiccups: the boat, the record at Corinth, the brother's suit, man and wife; the bowl let go; the boy; the door 900 | S3 afternoon: the seep; Felix told Corinth; his questions; the juniper fight; supper with the herdsman; "You do not believe a word of it" 1,050 | S4 the hut: elbows, the camera, the bed down, his hand under her head, the laugh and its stopping; explicit; after 1,600 | S4 the bed left as it lay; out into the cold; Felix and the fig 350 -->
-<!-- Word count: 7,914 (shape_check) | Target: 7,800 (range 7,300-8,300) | Dialogue 30.3% (band 30-40) | Breaks 3 | Median sentence 16 (shape_check; 17 by metaphor_check) | Opens long-spiral, closes quiet | Bare "No." 0 | Kneel/crouch 0 | Hand-on-knee 0 | Em-dash 0 | Echoes 0 | Gates clean | Anchor: his question about mules, asked of a woman who has just told him she comes from nineteen centuries ahead, by a half-shaved man with a knife in his fist -->
+<!-- Word count: 8,059 (shape_check; after dialogue-polish) | Target: 7,800 (range 7,300-8,300) | Dialogue 32.2% (band 30-40) | Breaks 3 | Median sentence 17 (shape_check and metaphor_check) | Opens long-spiral, closes quiet | Bare "No." 0 | Kneel/crouch 0 | Hand-on-knee 0 | Em-dash 0 | Echoes 0 | Gates clean | Anchor: his question about mules, asked of a woman who has just told him she comes from nineteen centuries ahead, by a half-shaved man with a knife in his fist -->
 
 Bells came ahead of the light, the herdsman's ewes moving about the hollow's farther end in the dark and cropping as they went, so that their bells sounded in no order at all, one, then three together, then a long space of nothing; behind the bells came the cold, which on that flank of Parnassus rose from the turf at the end of every night however hot the day before had been; and behind the cold came the thyme, crushed under my own feet as I picked my way past last night's fire to the edge of the grass, where the dew had soaked the straps of my sandals by the tenth step and grayed every stem as far down the hill as the eye went. The summit took the sun first and held it, gold, while everything under it was still blue.
 
@@ -11,11 +11,11 @@ The light worked down the long screes a stride at a time, finding the firs on th
 
 "Cool. She'll do the troughs." He let the foot go and went on.
 
-We had been up on the grazing since the snow left the high ground. In the month after the consultation a stranger had sat most of a morning on the step at the lion spouts in Delphi, with a rag tied round his head under his hat and a Corinthian's way with his vowels, asking the women at the jars which house kept the tall foreigner with something heavy and bright inside her clothes. Kallia had answered him herself from under a brimming jar, with half the lane listening.
+We had been up on the grazing since the snow left the high ground. In the month after the consultation a stranger had sat most of a morning on the step at the lion spouts in Delphi, with a rag tied round his head under his hat and a Corinthian's way with his vowels, asking the women at the jars, "Which house keeps the tall foreigner, the one with something heavy and bright inside her clothes?" Kallia had answered him herself from under a brimming jar, with half the lane listening.
 
 "Gone," she had said. "Gone to Kirrha at the turn of the month and onto a boat for home, the god go with her. She ate more than she carried, that one, and broke two of my jars."
 
-That night Kallia packed my bag for me in the storeroom, folding each thing smaller than I would have folded it. Before light I was at Valens's yard, and on the evening the mules started up for the summer pasture I followed them in a carter's hood, walking behind the dun, which carried Valens's fig in its sawn-off jar, roped upright between two water skins and nodding at each step.
+That night Kallia packed my bag for me in the storeroom, folding each thing smaller than I would have folded it. "On the mountain you'll milk for your bread, or carry for it," she said. Before light I was at Valens's yard, and on the evening the mules started up for the summer pasture I followed them in a carter's hood, walking behind the dun, which carried Valens's fig in its sawn-off jar, roped upright between two water skins and nodding at each step.
 
 It was July now, by my own count, which nobody else on the mountain kept.
 
@@ -35,7 +35,7 @@ The beam was yellower than it had been in May, and narrower, with a brown edge w
 
 "That is the end of it," I said. "It goes no further."
 
-"Was it ever further?"
+"Did it ever go on?"
 
 "Once."
 
@@ -45,7 +45,7 @@ Valens's steps had halted when the beam showed; presently I heard them start aga
 
 It was shut, as I had wished it, and I switched the light off, and we stood together in the dark, and I waited to see what I would feel about it. The melt had gone through my himation at the shoulders and lay cold down my spine. I began to shiver with it, slowly, from the middle outward, then hard enough that he heard my teeth.
 
-"The water's coming off that lip faster than it was," he said in the dark. "We want to be out under it before it's on us properly, and off the cliff while the sun's still on the turns, or they'll freeze under us."
+"The lip's running hard," he said in the dark. "We want to be out under it before it's on us properly, and off the cliff while the sun's still on the turns, or they'll freeze under us."
 
 On the way down he spoke of the path, and in Delphi of the mules; since then, four months, not a word about the light.
 
@@ -53,17 +53,17 @@ Below me now the shade under the cliff was going, and the plateau was gold from 
 
 The fold was a ring of thorn hurdles on the floor of the hollow, with one gap in it the width of a ewe. He sat at the gap on a slab of rock, in a goatskin cap with the ears still on it, and as the ewes came through he caught each by a hind leg and milked her from behind into a pail between his feet, her tail switching at his face and his face not caring; I had the stone opposite. In two months I had learned to do it badly and then less badly, to take the kicks on my forearm rather than in the pail, and to talk.
 
-"Talk to her," Mnason had said over the gap on my first day there, and on every morning after. "Talk, and she lets down. Sing, if there's nothing in your head. It makes no odds what."
+"Talk to her," Mnason had said over the gap on my first day there, and on every morning after. "Talk, and she lets down. Sing, if there's nothing in your head. It makes no odds what, so it isn't sad. Sad, she holds it back."
 
 My ewes heard about whatever came into my head, in Greek, and took it no worse than his. The milk rang on the bottom of the pail and then hissed into the froth, and the steam stood up off it in the chill.
 
 "Not her." A ewe with a torn ear had come through on his side of the gap. "She kicked me at the shearing. You have her."
 
-She kicked me too, once, on the forearm, and then let down for me as sweetly as any of them while I described a snowplow to her.
+She kicked me too, once, on the forearm, and then let down for me as sweetly as any of them while I described a snowplow to her. "It is a wagon with a blade on its nose and no animal pulling, and in my city it goes up the streets all night pushing the snow into walls, so that in the morning every man has to dig out his own wagon."
 
 When the last ewe had gone through, he poured both pails into the great pot outside his own hut and peered into it for some time with his cap pushed back.
 
-"That boy of yours sleeps like the dead," he said. "A wolf could walk off with him, and your man would be up at those mules with his back to it. I've said so. Nobody listens to me up here but ewes." He wiped his knife on his thigh. "Wants turning."
+"That boy of yours sleeps through anything," he said. "A wolf could walk off with him, and your man would be up at those mules with his back to it. I've said so. Nobody listens to me up here but ewes." He wiped his knife on his thigh. "Wants turning."
 
 He crossed the hollow toward our hut, where Valens's fig stood in its jar on the sunny side of the wall, inside a ring of stones built round it against the mules. Valens was there before him, with the string left to itself behind him.
 
@@ -73,7 +73,7 @@ He crossed the hollow toward our hut, where Valens's fig stood in its jar on the
 
 "There's no fig nearer than the gorge, and that's half a morning down and the whole of one back up."
 
-"Then it's the gorge."
+"The gorge, then."
 
 "One twig." He measured it for him, a finger's length, with his thumbnail. "You'd not miss it."
 
@@ -81,7 +81,11 @@ He crossed the hollow toward our hut, where Valens's fig stood in its jar on the
 
 The jar was between them. The tree was two hands taller than it had been in the yard below Delphi. It had put out leaves as broad as a man's spread fingers, and under the leaves a dozen figs the size of olives, green and hard and furred.
 
-Mnason went to his own hut and fetched out a dried kid's stomach on a string. He cut a piece of it into the milk and hung over the pot, and told me about it in a voice I had not heard him use to the ewes.
+Mnason went to his own hut and fetched out a dried kid's stomach on a string.
+
+"You had rennet in there from the start," I said.
+
+He cut a piece of it into the milk and hung over the pot, and told me about it in a voice I had not heard him use to the ewes.
 
 "My mother never did it so. Fig, she turned it with, every day she lived, and it set as sweet as a girl. This'll taste of kid. You'll put it in your mouth and taste the kid in it, and you'll know whose doing that was."
 
@@ -91,7 +95,9 @@ Mnason went to his own hut and fetched out a dried kid's stomach on a string. He
 
 "He'll be over those stones some night."
 
-Mnason was sixty if he was a day, and could not, to my knowledge, cross the hollow in the dark without walking into his own fold. Valens touched the figs in turn with a fingertip, lifting the leaves to come at them. Felix had drifted across from the woodstack with his cloak still round him and stood watching that, instead of going for the water skins.
+"He is sixty if he is a day," I said, "and I have seen him walk into his own fold in the dark, looking for the gap."
+
+Valens touched the figs in turn with a fingertip, lifting the leaves to come at them. Felix had drifted across from the woodstack with his cloak still round him and stood watching that, instead of going for the water skins.
 
 "When are they ripe?"
 
@@ -113,7 +119,7 @@ Valens was shaving, as was his habit every few days at midday, sitting on the wo
 
 "He'll walk the next one off as well." Valens kept the knife going.
 
-"He goes down a scree as a goat would, if a goat were in a hurry and wore sandals," I said.
+"He goes down a scree as a goat would, if a goat were late for something and wore sandals," I said.
 
 The sun stood straight overhead, hot enough that the thyme smelled from where it grew, with nobody treading on it.
 
@@ -125,13 +131,17 @@ The flashlight lay in the bag in the hut, uppermost, as it had ridden since spri
 
 It lit, and in the noon sun it made nothing anyone could see; then he cupped his other palm over the front of it, and his fingers lit red along their edges, all of them, with the dark of the bones down their middles. The batteries were the kind with the pink rabbit on the packet, the one in sunglasses who went drumming through other people's commercials and would not stop. He lifted the palm and laid it on again, and the red came and went in his hand.
 
-"No fire," he said.
+"It's not warm," he said.
 
-"None."
+"It never is."
 
 "What's in it, then?"
 
 "Two tubes, with something shut up in them that makes the light out of itself, bit by bit, till there is none left."
+
+"When it's used up?"
+
+"At home you buy two more, in any shop, for less than a loaf. Here there are none to buy."
 
 He found the switch again with his thumb and slid it back, and the red left his fingers.
 
@@ -139,13 +149,13 @@ He found the switch again with his thumb and slid it back, and the red left his 
 
 "For the dark. For finding the keyhole when you come home late, and the fuse box when the lights go out."
 
-"Then don't burn it," he said, and returned it to me.
+"Don't burn it, then," he said, and returned it to me.
 
 In all the weeks of the grazing I had told it to myself a dozen ways, walking behind the string or sitting at the gap in the fold with my head full of sheep, and none of the ways began where I began now.
 
 "I never came off any ship," I said.
 
-"Nobody thought you had."
+"You'd no salt on you."
 
 "Or out of Syracuse. Kallia made Syracuse."
 
@@ -195,19 +205,19 @@ He wet the knife and started on his left cheek.
 
 "Nobody. No emperors anywhere. There are a few kings left, who cut ribbons on bridges and wave from carriages."
 
-"Who's got the legions?"
+"So the legions went home."
 
-"No legions either. Armies. Every country keeps its own."
+"There are no legions. Armies. Every country keeps its own."
 
-"Who mends the roads?"
+"The roads. Does anybody mend them?"
 
 "Everybody pays a little to the town, and the town pays men to mend them, and they are never finished."
 
-"Somebody's paid, then. And the god? Does he still sit, here?"
+"Somebody's paid, then. Where's the god gone?"
 
 "His house fell in, centuries before I was born. An earthquake had some of it, and men wanting stone for their own walls had the rest. People come from everywhere to walk about in what is left of it, and they pay to."
 
-"Who keeps the spring?"
+"The spring?"
 
 "It still runs. There is a fence round it now, and you may not drink."
 
@@ -221,19 +231,19 @@ He shaved along the line of his cheekbone, where the graze from the road had hea
 
 "That's true, then."
 
-He finished. He rinsed the knife, dried it on his tunic and sheathed it at his back, then sat with his clean face turned up into the heat, giving nothing away.
+He finished, rinsed the knife, dried it on his tunic and sheathed it at his back, then sat with his clean face turned up into the heat, giving nothing away.
 
-"And the heavy one?" he asked. "What the boy calls silver."
+"The heavy one," he said. "Felix's silver."
 
-I wore it next to my skin still, out of habit. Up here no one would take it, but I had gone on wearing it as I had in Kallia's crowded house, and it had rubbed a raw patch on my breastbone that I had stopped noticing. I unslung it and gave him the camera by its body. He put the wrong end to his eye first and got nothing but his own lashes in the glass; then he turned it round and found the plateau, and the shadowed notch, and the cliff above it.
+I wore it next to my skin still, out of habit. Up here no one would take it, but I had gone on wearing it as I had in Kallia's crowded house, and it had rubbed a raw patch on my breastbone that I had stopped noticing. I unslung it and gave him the camera by its body. He put the wrong end to his eye first and got nothing but his own lashes in the glass. "Not that way," I said, and he found the plateau with it, and the shadowed notch, and the cliff above it.
 
-"It shows less than my eye does," he said.
+"It makes everything small," he said.
 
 "It keeps what it shows."
 
 "Where?"
 
-"Inside it, in the dark, on a strip as long as your arm. Nobody in this world can bring it out."
+"Inside it, in the dark, on a strip as long as your arm. Not a soul in this world can bring it out."
 
 "The boy says it was your father's."
 
@@ -243,13 +253,17 @@ I wore it next to my skin still, out of habit. Up here no one would take it, but
 
 "He will not," I said.
 
-His thumb went toward the glass, toward the dent in the rim where the man's head had been, and I had his wrist turned aside before it got there. One print on that glass and I might as well never look through it again. He handed the camera back and said nothing about my hand, and I slung it on again.
+His thumb went toward the glass, toward the dent in the rim where the man's head had been, and I had his wrist turned aside before it got there.
 
-"At Alexandria there's a fellow," he said, "builds a temple door that opens by itself when the priest lights the fire on the altar. A shipmaster off the grain run saw it. Birds that sing with water in them. A wheel the steam turns."
+"One print on that glass," I said, "and I might as well never look through it again."
+
+He handed the camera back, and I slung it on again.
+
+"At Alexandria there's a fellow," he said, "builds a temple door that opens by itself when the priest lights the fire on the altar. A shipmaster off the grain run saw it open, with no man behind it."
 
 "This was not made in Alexandria."
 
-"It was made somewhere." He picked a thread of thyme off the woodstack and put it in his mouth. "And the way back. The god gave you a mountain and a tomb. And Theano? What was hers?"
+"It was made somewhere." He picked a thread of thyme off the woodstack and put it in his mouth. "The way back, then. The god gave you a mountain and a tomb. And Theano? What was hers?"
 
 "The town."
 
@@ -261,17 +275,17 @@ He tried it over. "Where's that?"
 
 "In Campania. On the bay below Neapolis, below a mountain they grow wine on. A day from Puteoli by the coast road, or less."
 
-"Neapolis I know of. Puteoli." He had a scuffed patch of earth before the woodstack, worn bare by his own boots, and he drew in it with the heel of one: the gulf, the heel of Italy, a great sweep round it, a mark. "There?"
+"Neapolis I know of. Puteoli." He had a scuffed patch of earth before the woodstack, worn bare by his own boots, and he drew in it with the heel of one. "Here's the gulf, and here's the heel of Italy, and the coast goes round from it to Puteoli." He made a mark. "There?"
 
 "Further up. There."
 
-He moved the mark. "What's in it? Who has it?"
+He moved the mark. "What sort of town?"
 
-"Two magistrates a year, elected; they paint the candidates' names on the house walls in letters a foot high, and the bakers vote for whoever likes bread. Fullers, bakers, a forum with a temple at one end, and the rooms inside painted a deep red, with birds and fruit on it. Tombs along the roads out of every gate. Somewhere among them, a door that is only a picture of a door."
+"They elect two magistrates a year and paint the candidates' names on the house walls in letters a foot high, and the bakers vote for whoever likes bread. There is a forum with a temple at the top of it, and tombs along the roads out of every gate, and out among the tombs, somewhere, the door I want."
 
 The rest of what I knew stood behind the name, where it had stood since Theano's step: eight years on from this summer, and a few weeks over. I left it standing where it was; his question had been about the road.
 
-"And you go in at this door," he said, "and come out in your year, counted from the Judaean."
+"You go in at this door," he said, "and come out in your year, counted from the Judaean."
 
 "Yes."
 
@@ -285,15 +299,11 @@ The rest of what I knew stood behind the name, where it had stood since Theano's
 
 He sucked the thyme stalk. Up on the summit a pair of choughs were playing in the wind over the rock, falling and catching themselves and calling. He had heard all of it, the count, the cave, the door in the town, and kept none of it as true; he had put it away as Kallia put away a lodger's tale of a sister who married a magistrate. I had told it as badly as a thing could be told, and might as well have held my tongue. I had not thought he would be kind about it.
 
-"To get on a ship you need a man," he said.
-
-"Yes."
-
-"And somebody to stand in front of you when you land. In Italy a woman belonging to nobody is anybody's."
+"My paper," he said, "is in Corinth. The book with my name in it."
 
 I hiccuped, out of nowhere, so that my shoulders jumped.
 
-"Hold your breath," he said. "In Italy a man with no paper belongs to whoever says so. My paper's at Corinth. The book with my name in it."
+"Hold your breath," he said. "I'll want that book in my hand before I set foot in Italy."
 
 "Celer is at Corinth."
 
@@ -303,9 +313,9 @@ I hiccuped, out of nowhere, so that my shoulders jumped.
 
 "That was last autumn."
 
-"And if the record is not there? If Celer has had it taken out of the book?"
+"If the record is not there? If Celer has had it taken out of the book?"
 
-"Then there's the men who saw me get the sword. Half Corinth sat on those benches. They've not all died."
+"There's the men who saw me get the sword. Half Corinth sat on those benches. They've not all died."
 
 "And she will be in the house," I said. "His sister."
 
@@ -315,21 +325,21 @@ I hiccuped, out of nowhere, so that my shoulders jumped.
 
 "She'll be in it."
 
-I hiccuped again, through the breath I was holding.
+I hiccuped again, with my cheeks full, and it burst out through my nose.
 
-"A court's full of people. Nobody brings a knife into a crowd that size," he said. "On a road there's three men." He picked the thyme from his teeth and looked at it. "When the grazing's done, in the autumn, we leave for Corinth. Before the rains. We winter there. The sea opens in the spring, and we sail. As man and wife."
+"In that court I'll have the brother's men on the benches round me," he said. "Celer's chose a road for it." He picked the thyme from his teeth and looked at it. "When the grazing's done, in the autumn, we leave for Corinth. Before the rains. We winter there. The sea opens in the spring, and we sail. As man and wife."
 
 The hiccup took me exactly on the last word of it, so that I seemed to answer him with it.
 
-"As man and wife," I said.
+"As man and wife."
 
-"No shipmaster takes on a woman alone. He'll take a wife."
+"That's for the shipmaster, at the gangway."
 
 "Is that all it is? Something to say to the shipmaster?"
 
-"It's what he'll ask," Valens said. "At the gangway."
+"He asks it before he asks the fare," Valens said.
 
-"And in Corinth? All winter, in the brother's house? What am I there?"
+"In Corinth, then? All winter, in the brother's house? What am I there?"
 
 "My wife. The porter will ask, and the brother, and his cook, and that's what they'll all be told."
 
@@ -337,11 +347,15 @@ The hiccup took me exactly on the last word of it, so that I seemed to answer hi
 
 "Delphi's put you on a boat. Leave yourself on it."
 
+"His man will come down to the lane for me when it is ready."
+
+"Kallia will tell him you sailed."
+
 "And the money?"
 
 "The brother pays his witness's road. There's the silver from the ford. And the string comes down with us. What's not wanted I'll sell at the Isthmus, where they'll pay for mules hardened on a mountain."
 
-I had it in my head already: Euthydikos's bean-sheller off his stool by the bay tree, down at the lane gate some winter morning to say the bowl was ready for me, and Kallia at the pot telling him the Syracusan had sailed. The priest's bowl could keep its lead; it had kept it this far.
+I had it in my head already: Euthydikos's bean-sheller off his stool by the bay tree, down at the lane gate some winter morning, and Kallia at the pot telling him the Syracusan had sailed. The priest's bowl could keep its lead; it had kept it this far.
 
 "And Felix?" I said.
 
@@ -355,7 +369,7 @@ I had kept the boy out of my plan for four months; he went into it now in two wo
 
 It was a plain question about a plan, and I had no plain answer to give it.
 
-"Because it is my own," I said. "There is a house with my father's things in it that nobody else will know what to do with, and my work, and my name on a door. Because I was not meant to be here at all."
+"Because it is my own," I said. "There is a house with my father's things in it that nobody else will know what to do with, and my work, and my name on a door. Because there I know where everything is kept."
 
 He studied me, and none of what he thought reached his face.
 
@@ -367,13 +381,13 @@ My hiccups had gone, somewhere in the course of it, and I had not noticed them g
 
 In the worst of the afternoon heat I took the skins up to the seep above the hut, where a thread of water ran from the rock into a basin somebody had cut for it before Mnason was born. I filled them, and then sat on the basin's lip with my skirt pulled up and looked at my legs.
 
-I had not shaved them since my last morning in Philadelphia, with a pink plastic razor out of a bag of ten, and in the nine months since, the hair had come in along my shins dark and soft and longer than they had been since I was twelve. The women of Delphi did something about theirs: Kallia's neighbors singed it off with a lamp flame or tore it out with hot pitch, and compared the two at the spring, and I had listened with my jar and done nothing. I turned my shin to the sun and studied it as I would a bronze left too long in its crate after a dig. Inside that one look I decided it was pitch or nothing, and that I would not stand in a herdsman's hollow tearing out my legs with hot tar for a muleteer, and that was the end of it.
+I had not shaved them since my last morning in Philadelphia, with a pink plastic razor out of a bag of ten, and in the nine months since, the hair had come in along my shins dark and soft and longer than they had been since I was twelve. Kallia's neighbors argued over theirs at the spring, over the jars. "Hot pitch, and off it comes in one pull," a grandmother had said, "and you're smooth for the whole summer," and another held out for a lamp flame. I had listened with my jar and done nothing. I turned my shin to the sun and studied it as I would a bronze left too long in its crate after a dig. Inside that one look I decided it was pitch or nothing, and that I would not stand in a herdsman's hollow tearing out my legs with hot tar for a muleteer, and that was the end of it.
 
 I washed instead, the whole of me, standing in the basin with my chiton spread on the rock, in snowmelt so cold it emptied my chest, and the sun had me dry before I was dressed again.
 
 The string returned up the hollow in the long gold of the afternoon with Felix at the head of it, talking to the black, who walked with her ears laid back so as not to hear him. He had found a stick of juniper on the way and peeled it while he walked, and its white showed from far down the hollow.
 
-Valens met him at the hobbling line, and told him while they took the halters off.
+"Pick that foot up for me and they'd race you at the Isthmus," he was saying when the string reached the hobbling line. Valens met him there, and told him while they took the halters off.
 
 "When the grazing's done the string goes down to Corinth, and we winter there. Come spring, there's a ship. You're with us."
 
@@ -385,7 +399,7 @@ Valens met him at the hobbling line, and told him while they took the halters of
 
 "So's a lot," Valens said.
 
-"Corinth, though!" Felix let the black's rope go, and the black wandered away to roll. "The real one? On the neck, with a sea each side? One of the boatmen told me they drag the ships across from one sea to the other on a stone road, whole, on rollers, with the masts still in them. Will we see that? Who'll have the string while we're there? And is there an arena at Corinth, a proper one, in stone? Have you seen the fights in it?"
+"Corinth, though!" Felix let the black's rope go, and the black wandered away to roll. "The real one? On the neck, with a sea each side? One of the boatmen told me they drag the ships across from one sea to the other on a stone road, whole, on rollers, with the masts still in them. Will we see that? Who'll have the string while we're there?" More came after it, faster than my Greek would go, some business of a boatman's cousin and a wager, and I caught up with him at the arena. "An arena, at Corinth, a proper one, in stone? Have you seen the fights in it?"
 
 "Once or twice."
 
@@ -399,7 +413,7 @@ Valens met him at the hobbling line, and told him while they took the halters of
 
 Felix looked at her, rolling with her four hooves at the sky, the lame one kicking as high as the sound ones. He seemed to find that satisfactory, and swung round on me.
 
-"Have you been? You'd have passed through it, from Syracuse. Everybody from Syracuse comes through Corinth, or round by the cape, and nobody goes by the cape if he can pay for the road. Which way did you come?"
+"You'll know it, then. You'd have passed through it, from Syracuse. Everybody from Syracuse comes through Corinth, or round by the cape, and nobody goes by the cape if he can pay for the road. Which way did you come?"
 
 "Another way."
 
@@ -419,9 +433,13 @@ The juniper won. Felix lunged too far on a patch of loose scree, his front foot 
 
 "The juniper did?"
 
-"The ground." He offered the drainer back to its owner, who took it and looked at its broken rim, then at Felix, and found nothing to say to either. "It's nothing."
+"The ground." He offered the drainer back to its owner, who took it and looked at its broken rim, then at Felix.
 
-I washed his shins at the water skin, with a rag and cold water, and picked the grit out with a thorn, one piece at a time.
+"That was a good drainer till you had it," Mnason said.
+
+"It's nothing," said Felix.
+
+I washed his shins at the water skin, with a rag and cold water, and picked the grit out with a thorn.
 
 "In the boys' race they run up the stadium and down it again," he told me, unasked, staring at the sky. "A man said the Corinthian boy won it last time by a head, and they gave him the pine, and his father cried in front of everybody. I'd not cry. Would you cry, if it was me?"
 
@@ -437,7 +455,7 @@ He did not flinch once where he could see me looking. When he took me to be look
 
 At sundown Mnason brought the cheese over to our fire, as he had done every few days since our first week, in its rush basket, with the whey still weeping out of the weave onto his wrist. He set it on the stone by the fire, sat down on our woodstack, which in fairness was his, and cut the cheese into four with the knife he had meant for the fig.
 
-"Tastes of kid," he said. "You can taste it."
+"Kid," he said, chewing. "Right through it."
 
 "It's good," Valens said, which was the most I had heard him say to Mnason in a week.
 
@@ -449,17 +467,23 @@ It tasted of milk and salt, fresh and squeaking against the teeth. On Ninth Stre
 
 "He won the bet," said Mnason.
 
-"Have you been to Corinth?" Felix said. "Ever? When?"
+"Do you know Corinth?" Felix said. "When were you there last?"
 
 "Once. It was full of Corinthians."
 
-"And in the winter?" I asked him. "When the snow comes, where do you go?"
+"Where do you go in the winter," I asked him, "when the snow comes up here?"
 
 "To my son's, at the foot of the gorge, where his wife can count every mouthful into me. Six months of her, and then the snow goes and I come up here to the ewes, who don't count." He licked his thumb. "My son's wife is from Amphissa."
 
 He said it as though that told me the rest, and perhaps it did.
 
-Felix ate standing, with one shin held clear of the fire because it hurt and he would not say so. We had barley bread Valens had baked in the ashes that morning, black on the bottom, and a fistful of the wild greens Mnason picked along the rim and boiled with salt, which were bitter in a way that grew on you, and a little of the wine from the skin, which did not. The sun dropped past the western ridge, the firs went black against it, and the dark rose on the plateau like water in a basin filled from below, until only the summit at our backs still had light on it.
+Felix ate standing, with one shin held clear of the fire.
+
+"Sit down to it," I said.
+
+"Fighters eat on their feet," he said, "so nobody catches them sitting."
+
+We had barley bread Valens had baked in the ashes that morning, black on the bottom, and a fistful of the wild greens Mnason picked along the rim and boiled with salt, which were bitter in a way that grew on you, and a little of the wine from the skin, which did not. The sun dropped past the western ridge, the firs went black against it, and the dark rose on the plateau like water in a basin filled from below, until only the summit at our backs still had light on it.
 
 Mnason heaved himself up, put his knife away in his belt, and eyed Valens over the fire, and then me.
 
@@ -469,13 +493,15 @@ He was away to his ewes before I had to answer it.
 
 "He's called me that since our first night." Valens had his face to the fire.
 
-Felix lay down where he was, between the fire and the woodstack, with his cloak pulled over him and his skinned shins sticking out of the bottom of it toward the warmth, saying that he was not tired.
+"You never told him otherwise," I said.
 
-"The ships on the rollers," he said. "Do the sailors stay on them, going over the land? Do they row?"
+"He never asked."
 
-The sailors walked alongside, Valens said. By then Felix was asleep, openmouthed.
+Felix lay down where he was, between the fire and the woodstack, with his cloak pulled over him and his skinned shins sticking out of the bottom of it toward the warmth. "I'm not tired," he said. "The ships on the rollers. Do the sailors stay on them, going over the land? Do they row?"
 
-The herdsman's dog barked once near the fold and was cursed for it. Valens laid a root of juniper on the embers and watched it catch.
+"They walk alongside," Valens said, but by then Felix was asleep, openmouthed.
+
+The herdsman's dog barked once near the fold. "I'll have your hide for a pail," came Mnason's voice out of the dark, and it did not bark again. Valens laid a root of juniper on the embers and watched it catch.
 
 "You do not believe a word of it," I said.
 
@@ -489,7 +515,7 @@ The herdsman's dog barked once near the fold and was cursed for it. Valens laid 
 
 "It'll get you on a boat."
 
-"And if you see it open? The door."
+"Suppose you see it open? The door."
 
 "Then I'll believe it," he said, and rose, and went to the string.
 
@@ -511,7 +537,7 @@ He ducked through the doorway with his head down and straightened a little too s
 
 "Mind the roof," I said, too late.
 
-"It's lower than me," he said.
+"Mnason built it to fit Mnason," he said.
 
 I had meant to be graceful about the rest of it, and I got my belt off well enough. Then I took the chiton by its skirt and dragged it upward past my face, and somewhere at the top the cloth caught on itself and trapped my arms inside it. While I fought it my elbow went out sideways in the dark and found something that grunted.
 
