@@ -1599,3 +1599,141 @@ The auto-resolution pass found that no other open flag is touched (CH11-4 rechec
 - **No new contradiction and no knowledge_gap.** For Ch.13 onward:
   - do not rely on "the glass was whole", a filter, the flashlight's Ch.12 position, the rod-slaves or "the god's day" as Ch.12 page facts;
   - the page does not itemize the dead man's silver.
+
+## 2026-10-20: UPDATE (chapter 13, "The Seventh of Bysios", final text: post-writer, dialogue-polish, hook-craft, disruptor and continuity repair C-01, W-01..W-20)
+
+**Trigger:** chapter loop step D.5 for chapter 13.
+
+**Inputs read:**
+- `manuscript/chapters/chapter-13.md`, twice.
+  - First in its post-disruptor state (246 paragraphs, breaks after p46, p97, p139 and p193; md5 c460aab…, last written 06:27:43; commit 323175f).
+  - Mid-run the continuity audit (`evaluations/continuity/chapter-13-audit.md`, commit 25d23b9, 1 CRIT / 20 WARN) and the book-editor's repair (commit a94ddd5, 06:52) landed. The update was re-anchored to the repaired page (last written 06:51:47, md5 1585521856c90a53e3c9164b659a8fa8), which matches HEAD and had stopped changing.
+  - The repaired page has **245 paragraphs**, with breaks after p45, p96, p138 and p192 (five shards: A1 p1-p45, B1 p46-p96, A2 p97-p138, B2 p139-p192, B3/A3 p193-p245):
+    - old p1 and old p2 are merged into new p1 (W-20);
+    - old p3..p246 = new p2..p245.
+  - Text changed inside new p2, p10, p22, p24, p28, p47, p90, p101, p109, p114, p115, p123, p127, p129, p137, p149, p166, p178, p182, p210 and p225.
+- `ENTITY_STATE.yaml` (`last_updated_chapter: 12`).
+- outline.md Ch.12–15; foundation §3 (Theano, Felix); character-bible.md (the Ch.13 blocks, THEANO, PRAXIAS, the Ch.13 walk-on note, At-risk after Ch.13).
+- `evaluations/disruption-chapter-13.md`; the continuity audit, including its SUGGESTED YAML PATCHES.
+- Ch.1, 7, 8, 9, 10, 11 and 12 pages, for the slide shows, the registration, Theano's Ch.8 glimpse, the almonds, "In four months", the agreement and the three days.
+
+**Meta:**
+- `last_updated_chapter: 13`; `chapters_tracked: [1..13]`.
+- `paragraph_rule` is extended to Ch.13, with the shard map and the repair's renumbering.
+- New block `meta.ch13_requested_checks` (14 checks).
+- 1,237 `ch-13:pYY` cites, all within p1..p245.
+- Every quoted fragment on a new or changed line was machine-checked against the repaired page and the paragraphs its line cites. The exceptions are deliberate: plan, bible, audit and pre-repair quotes, each labelled as such.
+- The YAML loads under `yaml.safe_load` and under a strict loader with no duplicate keys.
+
+### Replaced (plan → prose)
+- **Timeline:** row 13. One day, the seventh of Bysios AD 71 (the title; the prose never names it), three days after Ch.12's fourth ("I had not had her to myself in three days.", p2). The fifth and sixth are dated from the page (the donkey man's story; the boxing; the goat to the yard at sundown). Against the arrival: about four and a half months or more (Boathoos to Bysios; ch-10:p20 "In four months" plus at least thirteen days). No clash.
+- **timeline_events:** the planned "seventh of Bysios … the consultation" row; new rows for Theano's widowhood (c. AD 57), the fifth, the sixth, the seventh and the promised eighth.
+- **Location rows:** the Ch.13 rows for Mara, Valens and Theano (two rows: the ramp and the adyton; her doorstep).
+- **Knowledge:** the planned Ch.13 rows for Mara (the answer, Pompeii, the WHEN), Valens (the answer) and Theano (Pompeii, the hour), replaced by page rows.
+- **Waypoints:** Mara's and Valens's Ch.13 rows.
+- **Theano:** `first_appearance` (the Ch.8 glimpse, then the first live appearance and her name), the planned ibuprofen trait.
+- **Objects:** `ibuprofen` (used up: "I had the Advil in my belt, down to its last two.", p28; the last two to Theano, p222), `consultation-goat` (CLOSED: she shakes under a jar, p42), `maras-question-sherd` (CLOSED: answered; the sherd is not on the page).
+- **Knowledge index:** the planned rows in `door_location`, `door_when` and `oracle_access`.
+- **The rename:** `temple-slave-delphi` → `jug-boy` (the page's summoner, "the jug boy", p193; p194). `former_slug` is kept.
+
+### Added
+- **Characters:**
+  - `kleon` (mention only; "Praxias son of Kleon, of Delphi", p49);
+  - `elateian-boxer` (split out of `boxers-before-the-god-sits`; **needs_review**: possibly the "priest's cousin from Elateia" of `gallery-lodgers-ch12`);
+  - `altar-priest-ch13`, `prophetes-ch13` (**needs_review**: possibly Euthydikos, CH13-6), `pythias-escort-priests`, `women-at-the-terrace-wall`, `rod-men-ch13`;
+  - `boeotian-on-the-bench`, `man-with-the-cough`, `amphissan-woman-at-the-wall`, `amphissan-womans-husband` (**needs_review**: possibly `the-amphissan`, the Ch.11 quail-fighter; not merged);
+  - `bandaged-phocian-boy`, `clay-ear-seller`, `thessalian-family-with-ram`, `island-fig-seller`;
+  - told only: `theanos-husband`, `theanos-sisters-son`, `former-pythias`, `felixs-mother`, `kirrha-sailor-capua`, `valens-school-trainer`, `pindar` (unnamed on the page).
+- **Theano:** two physical rows (veiled at dawn; off duty), `voice_from_below`, seven Ch.13 traits, page confirmations on four plan traits, seven knowledge rows, `knowledge_absent_ch13` and a first `relationships` block.
+- **Mara:** `worn/carries/marks/hair_ch13`, 12 Ch.13 traits, 20 knowledge rows, `knowledge_absent_ch13`, Ch.13 statuses on six relationships, two new relationships, possessions (Advil, money, Pentax).
+- **Valens:** `marks_ch13` (three days on: the crusted scrape with a bruise below it; the left-forearm bruise purple to yellow; the knuckles "scabbed over, all four"; the shoulders "all of a piece"; agrees with Ch.12), `clothing_ch13`, 13 traits, 9 knowledge rows, `knowledge_absent_ch13`, four relationship statuses and three new relationships, and `ch13_setup` on the Ch.14 floor row.
+- **Felix:** `marks_ch13`, 9 traits, 9 knowledge rows, `knowledge_absent_ch13`, 3 new relationships and a location row.
+- **Kallia:** 6 traits, `household_ch13`, a location row, 7 knowledge rows, `knowledge_absent_ch13`, 2 new relationships and a waypoint.
+- **Praxias:** his father (Kleon), 5 traits, a location row, knowledge and `knowledge_absent_ch13`; `planned` is marked PAID.
+- **Euthydikos:** 3 offstage traits (the registrar; Theano's "square beard", inferred; the bowl summons), knowledge, a location row and a `valens` relationship. **His door slave:** the Ch.13 errand.
+- **Emilio:** the Tarquinia slide memory (kitchen, September, a bedsheet over the china; agrees with ch-01:p11).
+- **Locations:**
+  - new: `theanos-house`, `mount-etna`, `tarquinia`, `capua`, `elateia`;
+  - Ch.13 facts on temple-of-apollo-delphi (the terrace, the Chian altar, the porch maxims, the inside as Valens saw it, Theano's seven steps), delphi-sacred-way, castalian-spring, kallias-house, delphi, euthydikos-house, syracuse, pompeii (first named on the page), maras-apartment, valens-yard, corycian-cave and delphi-modern.
+- **Objects:**
+  - new: `consultation-record` (the god's book: Maira of Syracuse; Praxias son of Kleon; the carrier entered as Felix; Valens's own name kept out) and `theanos-barley-basket` (the god's laurel brand);
+  - Ch.13 rows on the Pentax, the money rag, the dead man's purse, the Lupus notice, the incense stand, the slide carousel and the painted false door.
+- **Knowledge index:**
+  - new: `the_answer`, `consultation_record` and `theano_identity`;
+  - Ch.13 rows on `door_location`, `door_when`, `oracle_access`, `maras_question`, `kirrha_road_killing`, `maras_camera`, `valens_frame`, `lupus_notice`, `syracuse_cover`, `mara_origin`, `maras_name` and `the_agreement`.
+- **Threads:**
+  - new: `the-non-greek-word` (a word in the Pythia's voice, given twice, not Greek, left out by the priest; the page never says it was "Pompeii");
+  - PAID/CLOSED: `the-where` (secondary payoff Ch.19 still planned), `oracle-access`, `praxias-at-the-door` and `kallia-told`;
+  - Ch.13 notes on the-when, theano-phrase (1 of 3), seventh-of-bysios-phrase (title, 2 of 3; the prose never says it), euthydikos-bowl, felix-no-paper, kirrha-road-killing, return-to-the-cave, syracuse-cover, valens-known, felix-arena, romance, maras-english-to-herself (HELD), valens-literacy, maras-living and maras-stated-return.
+- **World rules (OBSERVED, Ch.13):** eight:
+  - the day's order, and bought precedence;
+  - wreaths, branded cakes and votive ears;
+  - the goat test in practice;
+  - registration;
+  - the procedure inside;
+  - the answer made verse, with the non-Greek word left out;
+  - the Pythia's life and her stool;
+  - betting on the god's answers, and men telling men first.
+
+  `ch13_observed` is added to the two plan rules (women ask through a man; monthly days and the shiver).
+- **Organizations:** Ch.13 facts on delphic-sanctuary and delphi-council.
+
+### Resolved
+- **CH8-2 (info), Theano's Ch.8 glimpse: RESOLVED by the page.**
+  - She is named ("Theano wants her.", p195; "The god's woman," p197).
+  - She is recognised by her house, as planned: "the house next to the highest", the squared stone, the crows (p208).
+  - The god's barley and the lie are shown by the brand, not stated. The basket's laurel leaf (p210) matches the cake-trays (p22). Against it: "That's my own barley," (p223) and "The brand on the basket was by her foot. I left it there." (p226).
+  - One wording difference remains and is not a conflict: the crows sit on her own roof-ridge, not the sanctuary's.
+
+New and RESOLVED in the same run (the post-disruptor page, settled by the repair):
+- **CH13-2 (low):** the post-disruptor page never said the pills were the last. Now it does: "down to its last two" (W-18).
+- **CH13-5 (medium):** the Elateian asked Felix "what you'd hit the man with", a blow by Mara he could not know. This run logged it as a knowledge_gap. The page now reads "what the man was hit with" (W-06), so the cover holds and **no knowledge_gap remains**.
+- **CH13-9 (CRITICAL; found by the audit, C-01, not by this tracker):** "Or Sicily after all, or the Bay of Naples, or Spain." named Campania a page before "Pompeii.". This run's first draft had recorded the bay as a neutral detail and did not flag it. Now: "Or Sicily after all, or Massalia, or Spain." (p166). **No CRITICAL stands on the final page.**
+- **CH13-10 (low; audit W-07):** the slide show was in a dining room, in winter, on a tablecloth. It is now the kitchen, September and a bedsheet, as in ch-01:p11.
+- **CH13-11 (low; audit W-02):** Praxias went "down the Way" to the uphill stadium. Now he goes "off up past the theater" (p129).
+- **CH13-12 (low; audit W-03):** "Since the road the house had been full" contradicted Ch.12's "All week". Now: "All that week the house had been full to the eaves." (p2).
+
+### Contradictions
+New and UNRESOLVED:
+- **CH13-1 (info):** the bible's Ch.13 blocks quote the writer's draft and the pre-repair page. Off the page, among others:
+  - "I will come when I am sent for.", "How many ways out?", "Then I will see it shut.";
+  - "Keep to this wall", "for a bet", "They made a mountain out of it", "Keep your silver. You'll want it for a boat.", "Was it a stone?";
+  - the muleteer-and-crows line, the airport memory, "the Bay of Naples", "out of the coins from the ford", "which his sister never managed", "the tablecloth screen".
+
+  The bible sync is handed off (the audit's W-21).
+- **CH13-3 (info):** outline Ch.13's "A temple slave summons her" is, on the page, the jug boy, not said to be a slave, at Kallia's gate.
+- **CH13-4 (low):** "the almonds had flowered … without my seeing it" (p12) sits against ch-09:p128, where Mara saw them come into flower a month or more before.
+- **CH13-6 (info):** whether Euthydikos, the registrar at the door, is also the priest at the screen who glossed the answer. Valens describes two stations. Mara's narration ties the glossing priest to Euthydikos's wax and lamp (p149). The audit reads them as one man; not merged here.
+- **CH13-7 (info):** a cave try is promised for "Tomorrow" (p172-p175). Outline Ch.14 (the same night) and Ch.15 (summer) have no slot for it.
+- **CH13-8 (info):** outline wording departures, none against a NON-NEGOTIABLE:
+  - the goat is drenched with a jar;
+  - "prophetes" is never said;
+  - the priest's Etna gloss and the non-Greek word are new;
+  - the carrier's name in the god's book is Felix's;
+  - the pills are offered to Valens first;
+  - the summoner (see CH13-3);
+  - Valens's night on Kallia's floor is set up here.
+- **CH13-13 (info):** Theano explains her crows (p224; p225) against foundation §3 / her card "never explains". The audit (W-13) recommends a card amendment; the repair kept the passage.
+
+Rechecked with a note: CH6-5, CH10-6, CH11-4, CH12-2, CH12-4, CH12-5, CH12-7 (widened in knowledge: Kallia told of "a heavy thing from my bag", Felix's "silver thing" kept from the Elateian), CH12-8 (Valens kept his name out of the god's book) and CH12-9 (NARROWED: the goat's arrival at the yard "since sundown yesterday" is now on the page). Nothing else is touched.
+
+### The audit's suggested patches
+Applied where the page supports them. Not applied:
+- "the non-Greek word given twice = 'Pompeii'": the page never says so (`plot_threads.the-non-greek-word`);
+- Euthydikos as the priest at the screen: not stated (CH13-6);
+- Theano's cat as a character: it is recorded as a fact of `theanos-house`.
+
+### For Ch.14 onward
+- **Mara** has the god's answer word for word, the priest's Etna gloss and Theano's one word, "Pompeii.". Her reaction is not on the page. Her list of candidates skips Campania ("Or Sicily after all, or Massalia, or Spain.", p166); the audit's I-29 leaves the blind spot to Ch.14.
+- **The hour** is withheld: Theano will not say whether it was never given or not hers to give.
+- **The non-Greek word** is unidentified on the page.
+- **Who knows what:**
+  - the answer: Valens, Mara, Kallia (from the lean-to) and Felix (on the stair);
+  - "Pompeii.": Mara and Theano only;
+  - Praxias was refused the answer.
+- **Valens** is to sleep on Kallia's floor ("There's floor," p192; his acceptance is not stated). Felix sleeps "with the string". Valens's injuries are three days old.
+- **Kallia** knows the killing, the frame and the notice ("Five hundred,"). She does not know his hands or what the "heavy thing" is.
+- **The Advil** is used up.
+- **Valens's name** is not in the god's book; Felix's is.
+- **Euthydikos** will send for Mara for the bowl after the season, and she has put it off.
+- **Kallia:** "The boats go west at the new moon."
