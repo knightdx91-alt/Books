@@ -33,7 +33,9 @@ MOTIFS = [
     r"filed (?:it|that|the)", r"the way she (?:read|always)",
 ]
 
-def strip_comments(t): return re.sub(r"<!--.*?-->", "", t, flags=re.S)
+def strip_comments(t):
+    # HTML header comments and markdown headings (chapter titles) are not prose
+    return re.sub(r"(?m)^#{1,6} .*$", "", re.sub(r"<!--.*?-->", "", t, flags=re.S))
 
 def analyze(path):
     raw = strip_comments(Path(path).read_text())
