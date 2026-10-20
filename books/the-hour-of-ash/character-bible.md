@@ -859,6 +859,33 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
     heavy one" (once each); "You'd no salt on you."; "So the legions went home."; "He asks it before he asks the fare"; "When it's used
     up?"; "He never asked."; shaving by feel; the half-shaved face turned on her ("Half his face was shaved and half was not, and he
     turned the whole of it on me.").
+- **Ch.16 as written (Writer, 2026-10-20; Corinth winter AD 71–72 and the autumn crossing; writer's draft, before dialogue-polish):**
+  - **CH12-8 SETTLED on the page: "Valens" is his own name.** Plautia, who heard him sworn as her bodyguard, has always called him
+    Valens ("You cannot have the book, Valens."); the benches knew him as **Lupus** ("tell each other they have seen Lupus"). The leaf
+    in the magistrate's book reads "Gaius Iulius Valens, freedman of Gaius"; the nomen is the lanista's: "The lanista's," … "I had it
+    with the sword." / "It was new," (to Plautia's "You said the Gaius as though somebody might take it back."). He gave the Kirrha quay
+    his real name (Ch.12). Ch.22's "his own name" is Gaius Iulius Valens.
+  - **The watching (Mara's jealousy answered without a question):** at the porch he drops the sack, searches the street both ways,
+    stands aside against the house wall "a little to the right of the step, facing the turning"; Plautia waits on the step until he has
+    looked and moved, passes him on his left, and at the turning moves her head "to find him". He then looks at Mara's face ("Behind him
+    the street might have been a wall."). In C4 he stands inside the door with his back to the wall by the jamb and will not sit
+    ("Twice she had asked him to sit, and twice he had said that he would stand.").
+  - **Lines (each once):** "Your feet are wet." / "She gave you that." / "She does that. Give it to her woman tomorrow, early, and say
+    nothing to her about it. She'll be sorry by dark." / "Wear it, then," / "There's only the one." (the amphitheater) / "The sacks," /
+    "He'd want in." / "He'd stay in." / "Near the forum." and the record office's two doors (porter on a stool; the back lane with a
+    baker's oven) / "I went for barley." / the baker's change ("gave me back too much" / "I bought another loaf with it.") / on the
+    boat "They can't," … "It stays in them." / "Hold the dun's head up. If she goes down on this she'll not get up till Lechaion." /
+    "She won't die." / "The light." / "Get round her quarters," … "Don't push. Take the tail when I say, and pull her toward you." /
+    "Felix." / "Go to sleep," / "How much is left in it?" / "Don't spend it on mules." / "I did." / "It's a long climb," … "for a boy
+    who's been sick all day." / "East of the harbor," … "Along there." / to the porter "My wife," / in C4 "Which clerk?" / "You'll be
+    known," / "I'll be by the baker's oven." / "The baker gives too much back." / **bare "No." 1** (Valens said, "No.") / "I'll be at the
+    back door." / "The book," / "I said I'd stand up," … "I'll stand up."
+  - **Rules kept:** no comparison in his speech; bare "No." 1; narrated non-answers 0; walk-offs 1 (down to the dun); no watch; no knot;
+    no fig opinions (the fig rides the boat roped to the mast in its jar, texture only). His hands, a different object each time: the
+    barley sack, the bread broken, a shoulder under the black's neck, the halter rope, a sack worked under her shoulder.
+  - **Spent in Ch.16:** "She does that."; "She'll be sorry by dark."; the baker who gives too much change (twice: the porch and C4 —
+    CLOSED); "He'd want in." / "He'd stay in."; "Don't spend it on mules."; lying in the straw between the black and the jars; "It was
+    new,"; "I had it with the sword."; the street searched before a woman steps down (a guard's habit: once, never re-staged).
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -1171,6 +1198,32 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   for it,". **Kallia hands Mara an object: 0 in Ch.15** (she packs the bag; nothing is put in Mara's hand), so the WATCH (≤1 in Ch.15–16)
   still has its one use for Ch.16. Mara's picture of her at the pot telling the bean-sheller "the Syracusan had sailed" is imagined, not
   a scene. **The Ch.16 farewell must be covert** (Delphi believes Mara sailed; continuity W-12).
+- **Ch.16 as written (Writer, 2026-10-20; the night return and first light, autumn AD 71; writer's draft, before dialogue-polish):**
+  - **Her own life first:** at the gate after dark, "holding the lamp low, a sandal in her other fist, studying the stone of the
+    step"; a scorpion on the step: "She brought the sandal down on it, twice, and kicked the remains into the lane." / "There's its
+    brother in the woodstack somewhere," (not about Mara).
+  - **Lines (D1 only; D2 has NO speech, as the outline orders):** "Did he bring them all down?" / "The boy's going?" / "When's the
+    boat?" / "He fed you, up there?" / "Burnt underneath, the bread." / "His mother never showed him a griddle," … "or he never
+    looked." / "Pay him when he's aboard," … "Not before." (the Ariston reply: Mara will write it at Corinth with Kallia's obol).
+    Chore-replies 0; "Then" retorts 0; name-asks 0; walk-offs 0; never sits; never touches Mara; never speaks of herself.
+  - **The himation given outright (NON-NEGOTIABLE, no speech):** Mara folds it "lengthwise and then across, the darned corner inside"
+    and gives it "past the lamp"; Kallia "took it from me by its folds, as she would have taken a pile of a lodger's bedding, and
+    carried it into her own room, and the lamp with it"; her shutter's light stays on. By first light it lies folded on Mara's bag,
+    **worked overnight**: the pin hole on the left shoulder "closed … into a round eye" with a gray thread, a second thread run round
+    it; the frayed hem turned and stitched "from one corner to the other"; "Toward the second corner they grew a fraction longer, and
+    then, for the last hand's breadth, small again." She makes it Mara's by labor, unexplained. (Kallia hands Mara an object: 0 — the
+    cloth is laid on the bag. The WATCH ≤1 for Ch.15–16 was not needed.)
+  - **The sweep and the broom (NON-NEGOTIABLE, third wording; the broom's position is not described):** she sweeps "the storeroom
+    step where I had just come over it: quick strokes, outward"; "Two strokes more along the sill, jamb to jamb."; "She took the broom
+    back to the lean-to and hung it from its nail beside the fire, and went to the jar for water, and did not go near the stair."
+  - **The named frame (NON-NEGOTIABLE):** her lamp on her window sill, burning since the night, "a round belly of brown clay, a nozzle
+    black to the lip", the soot "climbing the plaster of the reveal to the lintel … one night's burning laid over years of others".
+    She watches Mara shoot it, "with the dipper in her hand", and does not ask: "She looked at the thing at my face, and then past it,
+    at her lamp, with the look she gave a jar when a lodger had been standing too near it." Then "wet her fingertips at her mouth, and
+    pinched the flame out."
+  - **Spent in Ch.16 (her last chapter):** the scorpion; the griddle line; "Pay him when he's aboard"; the overnight mending; the step
+    swept outward after a leaver; the broom hung on its nail; the lamp pinched out with wet fingertips. No wool, no stopped work, no
+    spindle, no "had gone quiet", no water order closing a section.
 
 #### THEANO — the Pythia; a farmer's widow off duty (glimpsed Ch.8 unnamed, shouting at crows; Ch.13)
 - **Attention / worldview:** her own body (her knees, the descent into the adyton), the priests' petty
@@ -1429,6 +1482,53 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   boy." Her brother "gone to law for her dowry", and his freedman found Valens at the Kirrha harbor. She does not speak and is not
   described; keep her voice and her body for Ch.16. Her sample line's "a house on the Craneion" stays calibration only (continuity
   W-06); Ch.16 must not use it.
+- **Ch.16 as written (Writer, 2026-10-20; first live appearance, Corinth, winter AD 71–72; writer's draft, before dialogue-polish):**
+  - **Entry (four parts):** physical anchor, the **left earlobe torn through once and grown back "in two soft points with a notch
+    between them"**, no earrings; stillness ("nothing of her moved but her eyes"); her room bare but for a chest, her chair, an empty
+    loom "no web on its beam", and "bronze hooks with nothing hanging from them" (the giving-away, shown before it is acted, never
+    explained); thirty or a little under, "her face kept from the sun all its life". Named tension: wants her son; shows composure.
+  - **Opening (ledger: mid-dialogue, her first blunt question):** "Have you seen his back?" / Mara: "Yes." / "Good," — then evades Mara's
+    "Have you?" by talking long Greek Mara cannot follow. **Language:** Greek first; she switches to **Latin** when Mara says "When it
+    runs, I lose it."; Mara follows her slow, periodic book Latin entire ("each clause was mine before the next arrived"). One accent
+    remark only: "Not as anybody speaks it in Syracuse." / "My brother spent a year there as a boy, with an uncle who salted tunny,"
+    … "Speak Greek in front of him."
+  - **Celer never named; never "my former husband" as a refrain:** she says "my former husband" ONCE ("Dined that evening with my
+    former husband."), and otherwise "his father's house", "the man I was married to", "my son's father", "the boy's father", "that
+    man", "his mother" (Celer's mother), "that house", "that atrium". Keep the periphrasis varied; "my former husband" is at 1 book-wide.
+  - **Marcus (named by her in C3, asked by Mara):** "Marcus. For his father's father, who held the consulship two months in a bad
+    year." / his father's ears, her mother's temper, the Muses before four, not the Graces ("because he said they were only girls");
+    "Twice in three years I have had sight of him"; the painted leather ball, red and green, at the Saturnalia, taken in at the gate:
+    "Would a porter keep a child's ball?" At the Isthmia he will be "in the second row, in a new tunic, beside his father"; she chooses
+    the record office over the benches ("I have done that.").
+  - **The record office (C1, C4):** the colony's magistrates' books kept in the proconsul's office since the emperor took back Nero's
+    gift; the clerks are the proconsul's freedmen; "my son's father has been kind to each of them all this winter"; the book "out with a
+    copyist"; the proconsul "Dined that evening with my former husband."; her reason at the door is **her own dowry instrument**,
+    entered in the colony's books "with my father's seal on it"; "my woman looks along his shelves".
+  - **CH12-2 SETTLED on the page (in her mouth):** the magistrate's book is "boards, not a roll", "the book of the magistrate who sat
+    at those games, the whole of his year's business", bound by "A cord. Through holes at the back edge, and knotted, and the knot
+    sealed." / "His, and his colleague's." The leaf is "two boards that close on each other with the writing inside; once the cord is
+    cut they come away together" (= the outline's diptych, a leaf of the book). Ch.17 may call it a diptych or two boards; it is never
+    a separate document.
+  - **The bracelet (anchor):** a plain gold band "the breadth of a fingertip", hinge and clasp invisible; Mara admires the closing;
+    Plautia opens it "along a seam as fine as a hair" and holds it out; "You admired it." / "You will forgive me. The smoke has got into
+    my eyes."; weeps behind the red curtain ("a sound held in, then loosed"); the marks near the clasp are her son's first teeth ("He
+    had two teeth at the bottom by midsummer," … "and two at the top by the vintage, and he would not take the breast unless that arm
+    was across him"; she nursed him herself, "like a fuller's wife. Which was true."). Then "Will you wear it?" / "On the left. It was
+    made for the left." and one finger on the marks.
+  - **Friendship (C3):** "Come up tomorrow," … "Come up when you like. Myrrhine will complain, and you will not listen to her."; her
+    one laugh, at the bed that fell in ("a sound broke from her, short, surprised"); "I walked in front of him for two years and never
+    heard it." (his laugh).
+  - **Other blunt questions (one per visit, never repeated):** "Do you sleep, in a stable?" / "Were you afraid of him, at the
+    beginning?" / "And after the hour?" / "When his letter came, did she weep?" / "What is she to you?" / "Can you?" / "Can you put a
+    seal back so that nobody sees?" / "Does he laugh? Your husband." / the closing question (narration): "when he had his leaf, and his
+    ship, and me, what was there left in Rome that would bring him to stand up before a court and tell it the truth about her?"
+  - **Rules kept:** no contractions; never names the night; never says Celer; no rival-trope or seduction; her want-and-admire attention
+    ("Everybody who climbs that stair wants something of mine" … "And you?" / "Then you are the first," … "You are lying.").
+  - **Spent in Ch.16:** "Have you seen his back?" / "Good,"; the tomb simile for Syracusan Latin; the hooks; the earlobe (a body fact:
+    may recur as an object of sight, never re-described); the ball; "What he had chosen," … "when at last he chose anything."; the
+    Sicyon match with "a vineyard and a cough"; the broken cup; "You will think me very badly governed,"; "like a fuller's wife"; the
+    Muses and the Graces; "laughing a breath behind the governor"; "a man carrying a door"; the small bow "a woman of her kind gave a
+    porter who offered to carry what she meant to carry herself". Ch.22 finds other shapes for her.
 
 #### QUINTUS ARRIUS CELER — legate on the proconsul's staff at Corinth until Nero's grant of freedom (late 67), out of office at the frame (69), back on the restored proconsul's staff by 71–72; the defendant in Rome (Ch.12 by proxy, Ch.17, Ch.22)
 - **Attention / worldview:** standing, reputations, who is watching, which way a room leans. Everyone is
@@ -2269,6 +2369,30 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
   house."); Euthydikos and his bean-sheller (imagined at the lane gate some winter morning); Theano (named in Valens's question);
   Kallia (backfill; see her card).
 
+#### Ch.16 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+*(Writer, 2026-10-20; writer's draft, before dialogue-polish.)*
+- **The porter at Plautia's brother's house** (Corinth): "a porter on a stool in his porch and a dog on a chain"; one line, "And her?"
+  (Valens: "My wife,"); "a man with a stool and a tablet, who might have put it in writing and did not". Mentioned again in C4 ("by the
+  porter's account and the cook's").
+- **The brother's dog**: announces them to the lane; pushes its wet nose into Mara's hand; later lies with "its chin across my foot" on
+  the porch bench; follows Felix "for the bowl's sake"; barks once at the end. Texture; not a device (one appearance per section at most).
+- **The cook** (mention only): "the cook tells me" (Felix and the honey dish); wants Plautia's old cloak "for his daughter"; "Our cook
+  has a cousin in that kitchen"; chases the dun out of his cabbages "with a ladle".
+- **The boat's master** (the gulf): chews mastic and spits it into the sea; tells the steering boy "something about foreigners"; one
+  line: "If a mule dies on my deck," … "you pay for the deck to be scrubbed, and the jars it falls against, and the god for the
+  trouble." **The boy at the steering oar**: mention only.
+- **The papyrus seller** at the top of the Lechaion road: grinds Mara's ink "in a shell". **The baker** by the record office's back door
+  (Valens's account): "asked was I from the games at Nemea" / "said I had the look, and gave me back too much".
+- **The old man with the cough** on Kallia's gallery (autumn lodger): coughs "with long gaps between"; "coughed and shifted under his
+  blanket" at dawn.
+- **Mention only:** Plautia's brother (at Patrae ten days "about the suit"; home again in C4; never on the page); his advocate ("wants my
+  mother's silver for his fee"); his freedman (asked at the office door twice); the proconsul ("received him with great kindness" and
+  dined with Celer) and the proconsul's wife ("cough"); the young clerk "who drinks" and "the gray-haired one, who does not"; "a man in
+  Sicyon with a vineyard and a cough"; the mosaic man "who laid his little stones drunk"; a fuller's wife and a girl at the baths (Myrrhine's
+  buy-backs); Marcus's grandfather the consul; the man at the stable (Felix's source: "a lanista from Patrae and a Gaul that's killed
+  four"); Mnason and his son's wife (gone down the gorge); Nikaso's door; Gloria's Ray and the drugstore at Twentieth and Walnut (1998,
+  one sentence, triggered by Felix's seasickness; no parent in it).
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -2755,6 +2879,33 @@ polish cycle 1 and the PATH fix; every quote below is on the page, checked by sc
     "Your man's shaved,"; "Kid," … "Right through it."; the brother's six figs; "full of Corinthians"; "That was a good drainer till
     you had it,"; "I'll have your hide for a pail,"; "sleeps through anything"; the ewes "who don't count".
 - **Sample line:** "That one's never stood still for a stranger, and she won't start for you." (Calibration only.)
+
+#### MYRRHINE — Plautia's maid, from her father's house; Greek-speaking; follows Latin when it is slow (Ch.16; may return Ch.17)
+- **Attention / worldview:** the household's things and what they fetch: she knows where every one of Plautia's given-away possessions
+  went and what it costs to buy it back. Loyal by thrift, not by sentiment.
+- **Vocabulary band:** Corinthian household Greek; prices, cloaks, shoes, flasks, litters, hems. Follows Latin only "that much".
+- **Syntax fingerprint:** a price, then the reason it is a fair one ("I'll give you a drachma for it, which is a good price for a thing you
+  never paid for."); objections as a string of small practical failings ("She doesn't know where the flask goes. She doesn't know which
+  side you get down from a litter. She'll stand on your hem.").
+- **Rhythm:** silent at her lupins until something of her mistress's is at stake, then quick.
+- **Evasion — never says:** why her mistress gives things away, or why she weeps; she states the habit as "a fact of the house" and goes
+  back to the lupins.
+- **Physicality / silence:** shells lupins into her skirt and throws the skins on the brazier; splits one "with great force" when
+  overruled; carries the towels and oil flask to the baths and holds a cloak over Plautia in the rain. (Lupins are her food, once per
+  scene at most; never a fidget.)
+- **Verbal tic:** none — distinguished by worldview (what things fetch, and buying them back) and evasion (never explains her mistress)
+- **Bleed guard:** must not notice how a thing is made (Mara's) or read labor's cost the way Kallia does (who carries it); hers is the
+  resale price. No "Then…" retorts. No proverb.
+- **Chaos on the page (subjects, never phrases):** buys back what Plautia gives away: "I had her mother's cloak back off a fuller's wife
+  at the Saturnalia, and her good shoes off a girl at the baths. Two drachmas."; jealous of Mara taking her place with the writing case.
+- **DISTINCTNESS GUARANTEE:** the only voice in the book that prices a gift for buying back, against Kallia, who prices it in labor, and
+  Grata (Part Two), who prices everything for sale.
+- **Ch.16 as written (Writer, 2026-10-20):** lines "A drachma," … "I'll give you a drachma for it, which is a good price for a thing you
+  never paid for." / "Everything she gives away is for sale again by morning." / the cloak and shoes / "Two drachmas." / "I carry your
+  case," / "She doesn't know where the flask goes. She doesn't know which side you get down from a litter. She'll stand on your hem."
+  **Spent:** the buy-back offer; the flask-and-litter objection.
+- **Sample line:** "That brooch went to the lamp-seller's wife at the last market day, and I'll have it back by the Kalends for less than she
+  paid in compliments." (Calibration only.)
 
 ## UNNAMED SPEAKING ROLES PLANNED IN THE OUTLINE
 Give each one its own attention, and **promote it to a full card the moment the page names it.** One
@@ -3857,6 +4008,45 @@ line each, so that walk-ons don't all sound like Mara.
     - Other: memories, two clauses (the Italian Market mozzarella, the pink razor), no stand-alone memory; AD 79 once; English 0;
       teeth 1 (a glancing surfacing: his teeth, her record); laughs 2 (the roof, and the one shared fit).
 
+- **At-risk after Ch.16 (Writer, 2026-10-20; "Plautia", Parallel, 6 breaks; writer's draft, before dialogue-polish; counts from the
+  gates on the draft):**
+  - **Mara's jealousy answered by watching (SPENT as a set):** the porch (the street searched, the woman waiting on the step, passing
+    him on his left, the head turned at the turning "to find him", then his look at Mara's face, "Behind him the street might have
+    been a wall."). Never re-staged; Ch.17 and Ch.22 show Valens and Plautia some other way.
+  - **The bracelet (anchor, SPENT in these words):** the invisible hinge; "a seam as fine as a hair"; "You admired it."; "The smoke has
+    got into my eyes."; the red curtain; "a sound held in, then loosed"; Myrrhine's buy-back; the paired marks near the clasp; "Someone
+    had cut his teeth on it."; "On the left. It was made for the left."; one finger on the marks. **Tooth marks are not a teeth
+    surfacing** for Mara's chaos (she assesses nobody's teeth); the teeth schedule is untouched (next: Ch.20). Felix's bite-test ("If
+    you bite it you can tell") / "Someone has done that already,": once.
+  - **Kallia's farewell (SPENT; her last chapter):** see her card. No later chapter recalls the farewell in narration; the lamp frame is
+    on the roll and is never described again before Ch.43, and then in fresh words.
+  - **The camera:** frame shot at first light ("I opened the lens wide and turned the dial down to the slowest speed I could hold steady,
+    and set my shoulder against the pomegranate's trunk"; "The shutter clacked … the mirror clapping up and back behind the glass").
+    Uncapped lens, dented rim not mentioned. Counter not mentioned. The bracing-against-a-trunk and the clack: once.
+  - **The flashlight:** seen now by **Felix** (on the boat: "Where's the flame? Why doesn't it smoke? Is it hers? Can I hold it?" /
+    "What's it burning?" / "Does it go back on?") and possibly the master (not shown). Batteries: "a poor brown light, browner than in
+    the cave, and it shrank as I held it"; turned off "while it still had something left"; Valens: "How much is left in it?" / "Not much.
+    Some." / "Don't spend it on mules." The light is near its end: its next use (if any) is brief and may fail.
+  - **The mules sick at sea:** the paradox told once ("sick, as far as mules could be" / "They had no way to bring it up."); groaning "like
+    furniture being dragged across a floor upstairs" (the furniture vehicle: once); the black down and got up ("she sat up in the straw
+    like a dog"). Ch.18's gangplank mule must not be seasick and must not go down.
+  - **Spent shapes and lines:** the Greek lost "a clause at a time"; "lost hold of its subject"; "each ending sounded to its last letter"
+    (Mara's spoken Latin: described once); "came out where I had gone in"; Mara's all-or-nothing on the cakes ("If Valens had lain with
+    her…"/"If he had not…"): once; "She swept a floor."; "She went a whole winter without my name."; "Whether I could carry water." /
+    "Now."; "Mules do not talk in their sleep."; "rude to me about a woodstack"; the dog that "belonged to the porch"; "Your feet are
+    wet." / "The dog is lying on the dry one."; the scorpion; the dog that "stretched across" the precinct gate, "its duty done";
+    Nikaso's door's "blade of light"; "the citadel never nearer however far we walked"; "I'd sooner not look at it"; "a pewter sky"; "his
+    face gone white as whey"; "a long climb … for a boy who's been sick all day"; Gloria's Ray and the wristbands.
+  - **"the [color] of [thing]": still CLOSED at 2.** The draft wrote two ("the color of whey", "the color of pewter"); both recast before
+    handoff. **"without looking" in any sense: 0** ("without looking like a man carrying a door" recast).
+  - **"my former husband": 1 book-wide** (Plautia, C1). Her periphrases rotate; none may reach 3 book-wide (the tic gate caught "my
+    former husband" at 10 in the first draft). **"my brother's advocate": 1** ("the advocate" thereafter).
+  - **Counts on the draft:** 7,472 words (shape_check); dialogue 40%; median 15; 6 breaks; `dialogue` → `question`; em-dashes 1
+    (Mara's cut-off "Lady, I only—"); semicolons 2.5/1k; and-chains 7 (cap 9); credential asides 1 ("In the lab I had held bracelets by
+    the trayful"); negation pivots 0; hinge openers 0; "So" openers 0; "before I had" 0; object handling 1; kneel/crouch 0; hand-on-knee 0;
+    deliberation pause 0; exit by gait 0; bend 0; bare "No." Valens 1 (Mara 2); narrated non-answers 0; "as if / as though" 3; "the way" 1;
+    memories 1 (one sentence, Ray); AD 79 0; English spoken 0; laughs: Plautia 1, Mara 0; echoes 0; tic gate clean; voice-wear clean.
+
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
   used as a scene button.
@@ -4391,3 +4581,8 @@ finalizing the chapter. Never add a tic to fix it.
   → RESOLVED; the teeth anchor and trait still quote the cut white-coat wording; `recheck_ch15` still has the old strip length.
   Not touched: the manuscript, STATE.yaml, ENTITY_STATE.yaml. No new named character; no tic, catchphrase or signature gesture given to
   anyone. Tic-bearer roster still NONE.
+- 2026-10-20 (Writer, Ch.16 "Plautia", draft): added **MYRRHINE** (Plautia's maid; new named speaker) with a full card; Ch.16 blocks for
+  PLAUTIA (first live appearance; CH12-2 settled in her mouth: the magistrate's book is boards on a sealed cord and the leaf is two of
+  them), VALENS (CH12-8 settled: "Valens" is his own name; the leaf reads Gaius Iulius Valens, freedman of Gaius) and KALLIA (the
+  farewell, no speech); a Ch.16 walk-on note (the porter, the dog, the cook, the boat's master); an At-risk after Ch.16 block. No tic,
+  catchphrase or signature gesture given to anyone. Tic-bearer roster still NONE.
