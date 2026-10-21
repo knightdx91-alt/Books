@@ -1,8 +1,5 @@
 # Chapter Eleven: Break Their Toys
 
-<!-- SCENE BUDGET (Target 3,800): the uniform and "steal him" 600 | the hill, the armies, the ranking, "break their toys" 900 | Peter, the offerings, the hug 650 | High Priest's job, "only sixteen", the week 450 | the canyon temple and the ring 450 | Thad and Xavier, the stone 500 | the diary, "a little time", the way back 450 -->
-<!-- Word count: ~3,620 | Target: 3,800 (range 3,400-4,200) | Anchor: Peter's twelve years; "We play their game and break their toys." -->
-
 It was the same as Viridia's, with differences. Where Viridia had Raizen's mark, the blood sygl sat on the back of Amelia's tight black sweater, red on black, the same mark Bal wore on his, and below the sweater was a short black skirt. Where every other girl in the school wore plain white socks, Amelia's were long and striped black and red, and they came up past her calves.
 
 She looked good in it. Bal could admit that much. He also could not seem to stop looking, and Amelia knew it. She hopped down off the stage, landed lightly, and her smile got wider with every step she took toward them.
@@ -15,7 +12,7 @@ Bal glanced sideways. Viridia was having a hard time of her own. She kept fixing
 
 Amelia's smile faded a little at a time.
 
-"That's partly why I'm here, unfortunately," she said. She turned to Viridia. "I'm sorry, but I'm going to have to steal him for a while."
+"That's partly why I'm here, unfortunately," she said. She faced Viridia. "I'm sorry, but I'm going to have to steal him for a while."
 
 Viridia flapped a hand at her. "It's fine. Do you want me to tell our teacher?"
 
@@ -39,7 +36,7 @@ Wind hit him first. It was cold and smelled of cut grass, and it came straight u
 
 They stood on top of a hill. Below them, filling the valley from one side to the other, was an army.
 
-So many soldiers in one place was a thing Bal had no practice at. Tents ran off in rows to the far tree line, grey canvas going pale with distance, and between the rows were cookfires and wagons and horse lines and narrow lanes trodden down to dirt. Flags stood up all through the main camp on tall poles, and each carried the same jagged yellow mark, snapping in the wind. It was Raizen's. Tempus.
+So many soldiers in one place was a thing Bal had no practice at. Tents ran off in rows to the far tree line, gray canvas going pale with distance, and between the rows were cookfires and wagons and horse lines and narrow lanes trodden down to dirt. Flags stood up all through the main camp on tall poles, and each carried the same jagged yellow mark, snapping in the wind. It was Raizen's. Tempus.
 
 Somebody had sewn all those flags. Hundreds. Bal wondered if they had a person whose whole job it was.
 
@@ -155,7 +152,7 @@ From the way Amelia had talked, Bal had expected something modest. One man had b
 
 The window in front of him said otherwise.
 
-They had come down in a bedchamber, and the bedchamber had a tall arched window, and through it the temple fell away beneath him in tiers of pale cut stone. It filled the floor of a canyon. On three sides the mountains went straight up, bare and grey and streaked with snow at the top, and the only way in was a single narrow pass on the fourth side. Even a small army could hold that pass. Bal understood at once why Amelia had made this place her base.
+They had come down in a bedchamber, and the bedchamber had a tall arched window, and through it the temple fell away beneath him in tiers of pale cut stone. It filled the floor of a canyon. On three sides the mountains went straight up, bare and gray and streaked with snow at the top, and the only way in was a single narrow pass on the fourth side. Even a small army could hold that pass. Bal understood at once why Amelia had made this place her base.
 
 There were windows everywhere he looked, rows of them, set into wing after wing. The rooms could have held several hundred people without filling up. The priests' quarters alone were large, and two whole sets belonged to High Priests, and he was standing in one of them.
 

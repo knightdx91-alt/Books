@@ -1,11 +1,8 @@
 # Chapter Sixteen: Whitehaven Road
 
-<!-- SCENE BUDGET (Target 4,800): the week, Lora, the library, Amelia nervous, Zoran 700 | Saturday: Hopper, the rapiers, "I am my own weapon", Ms. Summers 650 | Whitehaven, meat pies, the town limit 450 | the growl, seven men, "if you please", the ring 450 | the fight 950 | the fallen tree, the salve, the heart ring 600 | firewood with Viridia 450 | camp, the shirts, Lora's drill 300 | the walk 500 | Hopper, the hand, the pass 150 -->
-<!-- Word count: ~4,730 | Revision: 1 (F1-F13, 2026-10-20) | Target: 4,800 (range 4,400-5,200) | Anchor: Amelia holding herself still while he bleeds | Hook: the pass at morning -->
+The next day Lora asked whether anyone thought it would rain on Saturday.
 
-On Monday Lora asked whether anyone thought it would rain on Saturday.
-
-Nobody did, particularly. On Tuesday she asked again, in case something had changed, and Viridia told her it would only rain if she kept asking. By Wednesday she had given up on the two of them and was going out onto the front steps before breakfast to check the sky for herself. She came back in with her glasses fogged and her cheeks red from the cold, and reported that it looked fine.
+Nobody did, particularly. The day after, she asked again, in case something had changed, and Viridia told her it would only rain if she kept asking. By midweek she had given up on the two of them and was going out onto the front steps before breakfast to check the sky for herself. She came back in with her glasses fogged and her cheeks pink from the wind, and reported that it looked fine.
 
 She had also decided that nothing on earth was going to keep them inside the castle that weekend, least of all homework. Every evening she marched the three of them up to the Blood common room straight after dinner and sat them down at the low table until every page was done. She did her own twice as fast as either of them and then read the questions over their shoulders. When Viridia complained, Lora pointed out that a teacher could keep a student in on Saturday for unfinished work, and that she had read the rule herself. Viridia stopped complaining and finished her history.
 
@@ -13,7 +10,7 @@ Bal spent two of those evenings in the library first.
 
 The library had very little on the Saegen Woods. The librarian found him a book on ley lines, and in the back of it, a single paragraph. A ley line ran straight through the woods. Some of the animals there had been absorbing the magykal energy for generations, and they had grown bigger than they ought to be, and meaner. How much bigger, the paragraph didn't say.
 
-Bal read it twice. He wondered what a squirrel would turn into, if it lived its whole life on top of a ley line. Whether it still buried nuts. Whether it needed bigger nuts. Then he copied the paragraph into the back of his rune notes anyway, so that he would have it with him.
+Bal read it twice. Then he copied the paragraph into the back of his rune notes, so that he would have it with him.
 
 It was Amelia who surprised him.
 
@@ -41,9 +38,9 @@ Bal went to the last rack and took down the rapier he had trained with since his
 
 ---
 
-Saturday came up cold and clear. Lora's sky had been right.
+Saturday came up cool and clear. Lora's sky had been right.
 
-They met at the castle gate at first light. Viridia crossed the frosty courtyard with Hopper trotting at her knee.
+They met at the castle gate at first light. Viridia crossed the dewy courtyard with Hopper trotting at her knee.
 
 Bal knew Hopper only from Viridia's stories. With the collar on, she was the size of a big farm dog. Her fur was silver, and across her back and shoulders it ran blood red, as though someone had laid a shawl over her. Her paws were too large for the rest of her. She came past Bal without a glance and made for Amelia, and leaned her whole shoulder against Amelia's skirt, and stayed there.
 
@@ -63,7 +60,7 @@ Amelia was scratching Hopper behind the ears. The offer seemed to surprise her.
 
 Bal thought that over and could not find anything wrong with it.
 
-New Spring was on the road out, and Bal had them stop. The job had come through Soren's counter, but the flowers were for the alchemist, and he wanted her to know they were on their way. Her shop was down a lane off the square, with bundles of something grey and dry hanging in the window, and the smell of it reached them before the door did.
+New Spring was on the road out, and Bal had them stop. The job had come through Soren's counter, but the flowers were for the alchemist, and he wanted her to know they were on their way. Her shop was down a lane off the square, with bundles of something gray and dry hanging in the window, and the smell of it reached them before the door did.
 
 Ms. Summers was a small, stooped woman wrapped in two shawls. She heard who they were and why they had come, and she got slowly up off her stool.
 
@@ -91,7 +88,7 @@ The pies were hot and the crust was the flaky kind that ended up on everybody's 
 
 At the town limit, past the last house, Viridia put her hand on Hopper's collar.
 
-Hopper grew. She grew as if she were unfolding from inside herself, legs lengthening, chest deepening, until her shoulders were above Viridia's waist and her head was level with Bal's chest. She shook herself all over, and her red fur lifted and lay flat.
+Hopper grew. She grew as if she were unfolding from inside herself, legs lengthening, chest deepening, until her shoulders were above Viridia's waist and her head was level with Bal's ribs. She shook herself all over, and her red fur lifted and lay flat.
 
 "I'm glad you thought to buy that collar," Bal said. "I'm not sure how the people back there would have taken a full-sized bloodwolf walking down the street."
 
@@ -107,7 +104,7 @@ She had turned to face the woods. She was down low on her front legs, and the gr
 
 Everyone had their weapon out before they had finished standing.
 
-Seven men stood at the edge of the forest, silent, watching them. Six were in their twenties or thirties. The seventh was much older, with grey hair cropped short and a big, heavy body. The six wore leather armor that was decent enough. The older man wore a shirt of steel mesh that had seen better days. It was pitted in places, and there was dried blood on the rings.
+Seven men stood at the edge of the forest, silent, watching them. Six were in their twenties or thirties. The seventh was much older, with gray hair cropped short and a big, heavy body. The six wore leather armor that was decent enough. The older man wore a shirt of steel mesh that had seen better days. It was pitted in places, and there was dried blood on the rings.
 
 They had longswords. They had axes. Two carried crossbows, and both crossbows were already up and pointed.
 
@@ -141,11 +138,11 @@ He ran at the leader, because he had done the talking, and because he was the bi
 
 The leader brought his longsword around to meet Bal, and after that he was all Bal saw.
 
-A rapier was not a hacking blade. Lora had told him that the first week, and Zoran had told him after her. You kept moving. You took the small hits when they were there to take and you never stood still long enough for somebody to land a big one. Bal had been practicing nothing else for weeks.
+A rapier was not a hacking blade. Lora had told him that the first week, and Zoran had told him after her. You kept moving. You took the small hits when they were there to take and you never stood still long enough for somebody to land a big one. Bal had been practicing nothing else since his first class.
 
 He kept moving. He parried and stabbed and circled. The big man was slow, but whenever his sword met Bal's, it went up Bal's arm and into his teeth, and he did not tire. Bal put the point into his shoulder and felt it skid on the mail. He put it into the meat of his upper arm and felt that one go in. The big man grunted and came on.
 
-Somewhere to the left a great axe was whistling. Bal circled and caught it at the edge of his sight. A young bandit with an axe was swinging it in wide wild arcs at Viridia, and Viridia was darting in and out between swings and stabbing him, and each time she drew blood he roared and swung harder. Bal circled. The axe came round flat and caught her spear and tore it clean out of her hands. The spear went spinning end over end. Then grey and red hit the axeman from the side, and Hopper had him, and he did not get up.
+Somewhere to the left a great axe was whistling. Bal circled and caught it at the edge of his sight. A young bandit with an axe was swinging it in wide wild arcs at Viridia, and Viridia was darting in and out between swings and stabbing him, and each time she drew blood he roared and swung harder. Bal circled. The axe came round flat and caught her spear and tore it clean out of her hands. The spear went spinning end over end. Then gray and red hit the axeman from the side, and Hopper had him, and he did not get up.
 
 Bal circled. Parry. Stab. Parry.
 
@@ -155,13 +152,13 @@ Something turned under Bal's heel. A stone, a rut. He stumbled.
 
 He felt the sword coming before he saw it. He threw himself sideways and twisted, and the blade, which had been meant for his spine, opened his back from one shoulder blade to the other instead. It was cold first. Then it was very hot.
 
-He had always been able to take a lot of hurt. He took this, and got his feet back under him.
+He got his feet back under him.
 
 "Bal!" That was Lora, off to his right. "Should I take him?"
 
 He looked toward her voice.
 
-The grey-haired man's sword opened his left forearm from the wrist halfway to the elbow.
+The gray-haired man's sword opened his left forearm from the wrist halfway to the elbow.
 
 "Do not interfere," Bal said through his teeth.
 
@@ -317,11 +314,11 @@ When Lora was done with him, he went around the fire and held out his hand to Am
 
 He kept hold of her hand into the forest.
 
-At that time of night the only sounds were the insects and their own feet in the fallen autumn leaves. The fire dropped behind them to a smudge of orange between the trunks.
+At that time of night the only sounds were the insects and their own feet in the fallen leaves. The fire dropped behind them to a smudge of orange between the trunks.
 
 "What's on your mind?" Bal asked, once they were well away from camp.
 
-Amelia took her time answering. Bal waited. He did not mind waiting. It was a good night for it, cold and very quiet.
+Amelia took her time answering. Bal waited. He did not mind waiting. It was a good night for it, still and very quiet.
 
 "I feel useless." Her voice was flat and quiet. "I finally have people I think of as friends, and I can't help them. I was afraid someone would die. I can't remember ever being afraid of that before. When he cut your back," she said, and her eyes shut, and opened again, "it took every bit of will I have not to run over there and tear that man in half."
 

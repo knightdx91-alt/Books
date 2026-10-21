@@ -1,8 +1,5 @@
 # Chapter Eighteen: Six Weeks
 
-<!-- SCENE BUDGET (Target 2,800): the weeks, the castle, Zoran, Lora 520 | the flaming dagger 430 | the shirts 90 | the water snake 420 | Thad's signals, Raizen's statement, the villages 330 | Fern's war room 720 | the rules, remembered 260 | the evening 200 -->
-<!-- Word count: ~2,630 | Revision: 1 (F1-F10, F12, F13; 2026-10-20) | Target: 2,800 (range 2,500-3,200) | Anchor: the flaming dagger; Fern's map under Bal's drumming fingers | Hook: Amelia silent at the fire, about to speak -->
-
 Over the next six weeks they took a job almost every Saturday, and some weeks they found a reason to take one on Sunday too.
 
 The money hardly mattered. They needed the road. The castle had gone sour on them by degrees, and by the second week Bal could feel it before he was through the doors at breakfast. Conversations stalled when he came near and started up again behind him. A younger student he had never spoken to stepped off the stairs to let him by, as if Bal might be catching. Twice in the corridor near the library, someone said something loud enough to carry and low enough to deny. Both times it was the same advice. He ought to stay with his own kind.
@@ -91,7 +88,7 @@ Amelia could not get involved. So Bal went to the commander of the army.
 
 ---
 
-The commander's name was Fern. He was short and stocky, with a long grey beard and intelligent grey eyes, and he carried himself in a way that made his room feel like his before you were properly through the door. A long table filled the middle of it. A desk in one corner was buried in paper, and a lamp had been left burning there in the middle of the day. On the table lay a map of Raizen's territory, weighted at the corners with stones.
+The commander's name was Fern. He was short and stocky, with a long gray beard and intelligent gray eyes, and he carried himself in a way that made his room feel like his before you were properly through the door. A long table filled the middle of it. A desk in one corner was buried in paper, and a lamp had been left burning there in the middle of the day. On the table lay a map of Raizen's territory, weighted at the corners with stones.
 
 "There's not much we can do," Fern said. "It's in Raizen's territory. We could send the army in, but it would be pointless."
 

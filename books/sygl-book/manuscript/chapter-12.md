@@ -1,8 +1,5 @@
 # Chapter Twelve: I Like You Too
 
-<!-- SCENE BUDGET (Target 1,500): Lora at the Waves table 220 | the order, Viridia's report, "a target" 300 | snide comments and who asks about him 380 | Amelia at dinner, the diary, the cough 260 | the blush, "I like you too", the fork, "You better" 330 | the walk back, the dawn 90 -->
-<!-- Word count: ~1,410 | Target: 1,500 (range 1,300-1,900) | Anchor: the dropped fork under the bench -->
-
 Lora was the first to see him come in.
 
 She sat about halfway along the Waves table with a good length of empty bench to her left and her right. The rest of her table had bunched up at the window end, all talking over one another, and the gap between them and Lora was wide enough for three more people. When Bal came in, her head came up. She found him through the crowd and smiled, quick and shy, a smile that was gone nearly as soon as it started. Then she pushed her glasses back up her nose and returned to her food.
@@ -100,8 +97,6 @@ Bal took the hand that had dropped the fork.
 Viridia wiped her eyes with her other hand.
 
 "That was still mean."
-
-Bal grinned.
 
 "I'll find some way to make it up to you," he promised.
 

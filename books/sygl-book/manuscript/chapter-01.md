@@ -4,7 +4,7 @@ The roof of the Saint Andre's orphanage was the one place Balthazaar could go wh
 
 It had never stopped Balthazaar. The staff brought the story out whenever someone was caught loitering near the attic hatch, and most of the children took it to heart. He had heard it as many times as anyone. He kept well back from the edges, he watched where he put his feet, and he figured an afternoon of quiet was worth a scolding if he ever got caught.
 
-It was fairly flat up there, laid with grey slate tiles in rows so even that some long-dead roofer must have measured every one. By early afternoon the tiles were warm through the seat of his pants, and the rug from beside his bed sat rolled up next to him. From up here the noise of the building fell away. There was only the wind, and a pair of pigeons squabbling on the north chimney.
+It was fairly flat up there, laid with gray slate tiles in rows so even that some long-dead roofer must have measured every one. By early afternoon the tiles were warm through the seat of his pants, and the rug from beside his bed sat rolled up next to him. From up here the noise of the building fell away. There was only the wind, and a pair of pigeons squabbling on the north chimney.
 
 The orphanage itself was quite old. It had been built sometime in the 1700s, but it was in decent shape for a building that age, three stories of weathered brick with a roof that only leaked over the laundry. A long gravel lane ran out toward the road, and no one ever seemed to come down it.
 
@@ -32,7 +32,7 @@ It had started a few days earlier.
 
 He'd come up after lunch with half an apple in his pocket, meaning to take a closer look at the carvings around the top of the mausoleum. From up there you could see them far better than from the lawn, and he'd been working his way around them a section at a time for weeks. They were mostly vines and leaves, with shapes tucked among them that might have been birds or might have been bats, and here and there a symbol he couldn't match to anything in any book he owned. He'd been squinting at one of those, chewing, trying to decide whether it was a cup or a crescent moon, when the mausoleum roof flickered.
 
-There was no better word for it. One second the slate was there, solid and grey and mossy at the edges. The next it was gone, the way a picture drops out on a bad television signal, and for the space of a heartbeat Bal could see straight down inside. A floor of pale stone. A row of tall pillars. The orange glow of a fire. At the far end, a large statue standing in the center of the room.
+There was no better word for it. One second the slate was there, solid and gray and mossy at the edges. The next it was gone, the way a picture drops out on a bad television signal, and for the space of a heartbeat Bal could see straight down inside. A floor of pale stone. A row of tall pillars. The orange glow of a fire. At the far end, a large statue standing in the center of the room.
 
 A blink later the roof was back, plain and solid, and nothing had happened at all.
 
@@ -48,7 +48,7 @@ He'd gone through a fair number of ideas before settling on one. A rope charmed 
 
 A month ago he wouldn't have had the spell. Then Fredrick left.
 
-Fredrick had been at Saint Andre's nearly as long as Bal had. He was a year older, tall and all elbows, with a terra sygl on his left palm. The two of them had shared a bench at lessons and more than a few nights of whispering across the dark of the dormitory about what they'd do when they were grown. At the start of the summer, the letter had come from one of the Sygldry schools of magykal arts, and the whole orphanage had turned out on the front steps to see Fredrick off.
+Fredrick had been at Saint Andre's nearly as long as Bal had. He was a year older, tall and all elbows, with a terra sygl on his left palm. The two of them had shared a bench at lessons and more than a few nights of whispering across the dark of the dormitory about what they'd do when they were grown. Earlier in the year, the letter had come from one of the Sygldry schools of magykal arts, and the whole orphanage had turned out on the front steps to see Fredrick off.
 
 The night before he went, he'd come up to the dormitory with a stack of beginner spell books tied together with garden string and dropped them on the end of Bal's bed.
 

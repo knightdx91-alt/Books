@@ -1,8 +1,5 @@
 # Chapter Twenty-Seven: Thunder from a Clear Sky
 
-<!-- SCENE BUDGET (Target 4,200): the walk, Viridia herself 300 | Bran 500 | the heat, the bow at his back, the jokes 350 | the feeling, the quiet, the hour, the boom, the clear sky 400 | the bolts, thrown, Viridia's arms, the stone 300 | waking, the craters, calling, dusk, the bedroll 500 | morning, taken, Pashar, south 250 | two days, the village 300 | Jazen Grey, Barda 450 | the ride 150 | the battle, Thad and Xavier, the trees 350 | the platform, dagger, the second mage, spikes 450 | down; the promotion; the apology; the arrow; dark 400 -->
-<!-- Word count: ~4097 prose | Revision: 1 (F1–F16) 2026-10-21 | Target: 4,200 (range 3,800-4,600) | Anchor: the clear sky and the single boom | Hook: blood soldiers coming; dark (the High Priest's bed ahead) -->
-
 Viridia was laughing before the horses were even saddled.
 
 Lora had pulled a leaf out of Viridia's hair, a big brown one that had ridden in there all night, and waved it at her. The noise Viridia made sent something flapping out of the branches overhead and away, complaining. It was a good sound to wake up to. Bal stayed on his bedroll longer than he needed to and listened.
@@ -177,7 +174,7 @@ It took him two days on foot.
 
 He walked through two long hot days. He drank from a ditch, and once from a horse trough at the edge of a field whose owner never appeared. At night he slept a few hours on Lora's bedroll beside the road, and woke before light, and walked again. By the second afternoon he was not thinking much at all. His feet went on without him.
 
-Some of the way he talked to the girls in his head. He told Lora he was coming. He told Viridia not to give anybody any lip until he got there, which was a waste of breath, because she would anyway, and he hoped she did. Once, crossing a dry creek bed, he caught himself wondering what Mrs. Brown would say about the state of his boots, the soles worn so thin he could feel every pebble through them. It nearly made him smile, and then it didn't.
+Some of the way he talked to the girls in his head. He told Lora he was coming. He told Viridia not to give anybody any lip until he got there, which was a waste of breath, because she would anyway, and he hoped she did.
 
 Whenever he stopped, it found him again, and he stopped as little as he could.
 
@@ -257,7 +254,7 @@ He went as quietly as he could, crouched, from trunk to trunk. He kept waiting f
 
 The trees thinned. Bal left them still crouched, and found himself a few yards from a raised wooden platform, as high as a tall man's shoulder, with the two storm mages standing on top of it.
 
-Where a platform could have come from, out here, he couldn't guess. It was not the thing to fret over now. The two men on top of it were trying to kill his soldiers.
+The two men on top of it were trying to kill his soldiers.
 
 He watched the field in front of them one more breath. Then he called the blood.
 
@@ -281,11 +278,11 @@ Nothing like it had ever come at Bal before. He kept his distance.
 
 "You're too late," the mage said. "I've already sent word to my commander. Every man we've got will be here soon."
 
-He flicked the whip.
+He flicked the lash.
 
 It went past Bal's ear tearing the air, and the air behind it stank of ozone, sharp, the smell after a storm.
 
-Bal told his own whip what he wanted, and it did as it was told. Its edge thinned until it would cut. All along its length, heavy spikes pushed up through the blood and hardened there, as red and as sharp as the dagger had been.
+Bal told his own lash what he wanted, and it did as it was told. Its edge thinned until it would cut. All along its length, heavy spikes pushed up through the blood and hardened there, as red and as sharp as the dagger had been.
 
 He swung it.
 
@@ -303,7 +300,7 @@ For a while, everything was white and empty.
 
 The smell came next. Burnt skin. His own. He could not tell yet whether it hurt. His body had gone somewhere else and not told him where.
 
-The blood of his whip came crawling back to him over the dirt, and slid home.
+His blood came crawling back to him over the dirt, and slid home.
 
 Up on the platform, the storm mage laughed. Then he jumped down, and Bal heard his boots land, and then walk. Unhurried. They came around and stopped by his head.
 
@@ -311,7 +308,7 @@ He had to move. He had to. His arms lay where they had fallen. His legs might ha
 
 "I think I'll get a promotion after killing you," the mage said, in an easy, friendly sort of voice, as if they were waiting together for a coach. The lightning whip swung lazily to and fro above Bal's face, humming. "It's too bad I have to end it now. I can't chance you getting away."
 
-He raised the whip high. Up there against the sky it changed, the white of it going to a deep blue, with an orange core burning through, like the inside of a flame.
+He raised it high. Up there against the sky it changed, the white of it going to a deep blue, with an orange core burning through, like the inside of a flame.
 
 His wrist flicked.
 

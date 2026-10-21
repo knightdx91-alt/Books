@@ -8,14 +8,10 @@ supposed to be Sygl."). `project/foundation.md`, `project/outline.md` (now **30 
 ≈91,856 words** after the 2026-10-20 outline audit) and `project/STYLE_CONSTRAINTS.md` were rewritten; STATE.yaml records every ruling as a
 2026-10-20 author decision.
 
-- **Ch.1–20 FINAL** (`manuscript/chapter-01..20.md`, 61,446w): written/rewritten to the source 2026-10-20, all
-  four mechanical gates clean, book-evaluator Genesis Floor 8.5 each (reports in `evaluations/`).
-- **RESUME HERE → Chapter 21 "Strawberries"** (outline Ch.21). Ch.20 ended on Amelia's "I can do that." before the
-  teleport to the lake. Ch.21: the water snake killed there last week (shown in Ch.18); Iro; Bal connects the HEART RING
-  (author decision); "No one threatens my girls." The whip leads Ch.20 AND Ch.21 back to back: render each use
-  differently and keep the author informed (spell-repetition watch). Whip (author): the right palm splits open on its own, no knife, and closes when the blood returns.
-- Gesture clusters cost the most eval rounds in ch.13–15: no gesture class (smile/grin as one, laughs, blushes,
-  looks, sitting/sinking, freezing/stopping, eyes, chest/heart, hand squeezes) 3+ times within 500 words.
+- **FULL DRAFT COMPLETE 2026-10-21** (`manuscript/chapter-01..30.md`, 92,812w). Every chapter has been through the
+  evaluator/editor loop and all mechanical gates are clean book-wide. Closing line is PROVISIONAL.
+- **RESUME HERE →** the author's read-through. Optional next steps: full-manuscript evaluation
+  (book-evaluator on the whole), continuity-guardian audit, then book-packager (delivery files).
 - Spell repetition watch (author): the blood whip is most of Bal's on-page magic from the source onward.
   Don't invent spells; if a chapter or run of chapters leans on one spell, flag it to the author and
   update the magic ledger in project/foundation.md.

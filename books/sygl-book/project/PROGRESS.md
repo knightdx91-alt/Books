@@ -40,11 +40,19 @@ Everything strictly on `main`. No PRs.
 | 18 | Six Weeks | 2,800 | FINAL 2026-10-20: 2,718w, Floor 8.5 |
 | 19 | The Rule | 2,600 | FINAL 2026-10-20: 2,465w, Floor 8.5 |
 | 20 | The Blood Whip | 2,600 | FINAL 2026-10-20: 2,729w, Floor 8.5 |
-| 21–30 | see outline.md | — | TODO |
+| 21 | Strawberries | — | FINAL 2026-10-21: 3,379w, Floor 8.5 |
+| 22 | The Plan | — | FINAL 2026-10-21: 3,576w, Floor 8.5 |
+| 23 | Road to Londra | — | FINAL 2026-10-21: 2,187w, Floor 8.5 |
+| 24 | The Winespring Inn | — | FINAL 2026-10-21: 4,905w, Floor 8.5 |
+| 25 | The Three Boars | — | FINAL 2026-10-21: 3,208w, Floor 8.5 |
+| 26 | Together | — | FINAL 2026-10-21: 1,723w, Floor 8.5 |
+| 27 | Thunder from a Clear Sky | — | FINAL 2026-10-21: 4,246w, Floor 8.5 |
+| 28 | The Chalice | — | FINAL 2026-10-21: 2,790w, Floor 8.5 |
+| 29 | Blood Elemental | — | FINAL 2026-10-21: 3,760w, Floor 8.5 |
+| 30 | The First Day | — | FINAL 2026-10-21: 1,596w, Floor 8.5 |
 
-## RESUME HERE: Chapter 21 "Strawberries"
-- The lake, Iro, the heart-ring payoff, "No one threatens my girls." Vary the whip's uses (Ch.20 just used it).
-- Author's dialogue is the base; polish into natural speech without changing meaning or speaker.
+## RESUME HERE: full draft complete
+- Author read-through; closing line provisional. Then optional full-manuscript eval, continuity audit, packaging.
 
 ## Key files
 - Source of truth: `Sygl_Complete.txt`

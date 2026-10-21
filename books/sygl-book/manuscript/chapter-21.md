@@ -1,8 +1,5 @@
 # Chapter Twenty-One: Strawberries
 
-<!-- SCENE BUDGET (Target 3,400): Hopper, the swim, the girls, the doze 560 | waking, Lora, Viridia's hand, the woods, the patch 430 | the branch, Iro, the talk, the cuts, "pretty girls" 650 | the legs, the punch, the kicks, the whip, "It's Iro", the ring, the close 560 | the shirt, Lora, the wounds, the potion, "already dead", Amelia goes 470 | forty minutes, the laugh, the council as she tells it 560 | the questions, the loophole, clothes, the temple 170 -->
-<!-- Word count: ~3,270 | Revision: 1 (F1-F15 applied, 2026-10-21) | Target: 3,400 (range 3,100-3,800) | Anchor: strawberries in a ruined shirt | Hook: the temple abuzz -->
-
 Hopper would not go in.
 
 Bal tried her from the shallows first. He waded into the lake up to his knees and slapped the water and called her, and she considered him from the warm rock at the edge. Then she considered the lake, from the near rocks all down its length to the far reeds, and lay down where she was and laid her muzzle across her paws.
@@ -41,9 +38,7 @@ Amelia was curled up against his left side, neat and small, her back to the sun.
 
 He bit down on the noise that wanted out of him and got clear of them without waking anybody.
 
-The sun had crossed most of the sky. Hours, he guessed. His stomach agreed. The last time they were here, the day of the snake, he had seen a patch of strawberries on the edge of the woods, red under the leaves, and nobody had had time to stop.
-
-Did strawberries even grow wild this late? Would they all be eaten by birds? Would Amelia eat one, if he brought her one? He couldn't remember her eating fruit. He couldn't remember her refusing any, either.
+The sun had crossed most of the sky. Hours, he guessed. The last time they were here, the day of the snake, he had seen a patch of strawberries on the edge of the woods, red under the leaves, and nobody had had time to stop.
 
 He pulled on his shirt and pants. He caught Hopper's eye and pointed at the girls, and Hopper thumped her tail against the rock. He climbed the slope to the woods still buckling on his rapier.
 
@@ -77,7 +72,7 @@ They traded blows. The stranger was quick and loose and he never stopped talking
 
 "Oh, that's got to hurt." He was grinning. "Why don't I see if I can even it up for you?"
 
-It did not hurt yet. Hurt had never bothered Bal much. It would come later. He planted his boots.
+It did not hurt yet. It would come later. He planted his boots.
 
 They fought in earnest now. The thorns were at Bal's back and the light kept going in and out of his eyes. Steel rang and rang. Bal took cuts he only knew about from the sting, and gave none, and gave none, and then the woodsman overreached on a lunge and Bal was inside it. He opened the man's forearm. On the way back out he opened his ribs.
 
@@ -123,7 +118,7 @@ Iro had stopped fighting it. All the chatter had drained from him, and his face 
 
 How they had known Heath was dead, at least, Bal could guess. A red-gold heart on Heath's right hand, back on the Whitehaven road. Somebody on Raizen's side had been wearing its pair, and had felt it stop.
 
-Sweat was running down Iro's face into his collar. He had nothing left to hide behind. Bal saw it and knew he was telling the truth.
+Sweat was running down Iro's face into his collar. He had nothing left to hide behind. Bal knew he was telling the truth.
 
 "Okay then."
 
@@ -153,7 +148,7 @@ She was up and running. Her long brown hair flew out behind her.
 
 Viridia and Amelia came up behind her.
 
-Viridia took the knotted shirt from him and set it on the ground, so they could all see him properly. There was the long cut down his left side that was still oozing. There was a scatter of smaller ones over his chest and stomach he had not even felt go in. Viridia walked around him and found the one across his back, from his right shoulder to his left hip, and muttered something under her breath that Lora did not scold her for. There was the thigh. His pant leg was black with it to the knee. That was the one that was going to hurt most, now it had started hurting. The blade had gone through into the muscle.
+Viridia took the knotted shirt from him and set it on the ground, so they could all see him properly. There was the long cut down his left side that was still oozing. There was a scatter of smaller ones over his ribs and stomach he had not even felt go in. Viridia walked around him and found the one across his back, from his right shoulder to his left hip, and muttered something under her breath that Lora did not scold her for. There was the thigh. His pant leg was black with it to the knee. That was the one that was going to hurt most, now it had started hurting. The blade had gone through into the muscle.
 
 Amelia got him down onto the grass.
 
@@ -169,7 +164,7 @@ He told them. He had wanted to surprise them with strawberries, and he had nearl
 
 "I just don't get how they knew we were here," he finished. "Heck, we didn't even know we were coming here."
 
-Amelia studied him for a full minute. Then she was gone, and the grass under her feet was springing back up.
+Amelia studied him for a full minute. Then she was gone.
 
 Nobody said anything.
 

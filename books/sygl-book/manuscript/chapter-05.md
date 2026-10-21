@@ -2,7 +2,7 @@
 
 Pierre knocked on Bal's bed frame at six o'clock.
 
-The dormitory windows had gone from black to a thin, watery grey, and all down both rows the other boys were lumps under their blankets. Pierre stood at the foot of the bed in pajama bottoms and a sweater, his hair flattened on one side. Pierre was another of the orphans, and some mornings he helped Mrs. Brown before the rest of the building woke up.
+The dormitory windows had gone from black to a thin, watery gray, and all down both rows the other boys were lumps under their blankets. Pierre stood at the foot of the bed in pajama bottoms and a sweater, his hair flattened on one side. Pierre was another of the orphans, and some mornings he helped Mrs. Brown before the rest of the building woke up.
 
 "Get up," Pierre whispered. "Mrs. Brown wants you." He yawned hugely in the middle of it and had to start over. "She says grab your things, then stop by the kitchen for a bite to eat, then go to her office. In that order."
 
@@ -10,13 +10,13 @@ The dormitory windows had gone from black to a thin, watery grey, and all down b
 
 "She said that part too." Pierre squinted at Bal's left arm, lying on top of the blanket. Word of the hand had gone through the whole building by supper. He looked at it as though it might have gone back to normal overnight, then shuffled off down the aisle. "Kitchen, then office," he said over his shoulder. "Don't make me come back up."
 
-Bal stayed put a little longer, flexing his fingers against the blanket. They were all still there. He got up.
+Bal stayed put a little longer with his left hand on the blanket. It was still there. He got up.
 
 He dressed without a sound and shouldered the pack he had buckled yesterday.
 
 ---
 
-Somebody had left a plate of blueberry muffins on the counter under a dish towel. Amelia was already sitting on the counter next to them, swinging her heels against the cupboard doors, eating one in small, thoughtful bites.
+Somebody had left a plate of blueberry muffins on the counter under a dish towel. Amelia was already sitting on the counter next to them, eating one in small, thoughtful bites.
 
 "These are much better than supper was," she said.
 
@@ -96,13 +96,11 @@ Going to this school had been all Bal had ever dreamed about. Granted, he had ne
 
 He turned his new hand over in his lap and looked at the faint red glow at its center. He was going to be the one who found out.
 
-Did they have kitchens, at the school? Real ones, with a cook who didn't burn things? There must be somebody who did the potatoes.
-
 Bal glanced over at Amelia. She was gazing out at the dark trees, but he didn't think she was seeing them. There was a small line between her eyebrows. He figured she was thinking about tomorrow, and about the other four, and what they would do when they saw her.
 
 He reached for her hand.
 
-Amelia started and looked at him. Bal squeezed her fingers lightly and gave her a small smile.
+Amelia started. Bal squeezed her fingers lightly and gave her a small smile.
 
 She smiled back. Then she turned to look out at the forest again, and she didn't take her hand back.
 
@@ -118,7 +116,7 @@ Verin drew the buggy up beside it and climbed down, stiffly, and motioned for th
 
 He began unhooking the horse from the buggy. Freed, it shook itself from nose to tail, walked over to a wooden trough by the corner of the cottage and started to drink.
 
-"Normally I'd try to push on to the school," Verin said, "but with how late it's gotten, we'd all better rest and head out in the morning. I've got both your school uniforms inside. You'll need to change into them before we leave tomorrow." He gestured at Bal's chest, where a sygl would have been on a student's sweater. "Once you're officially claimed, your sygl will appear on your clothes, so don't worry about it not being there before. There's stew in the pot inside. Make yourselves comfortable while I see to old Thistle here."
+"Normally I'd try to push on to the school," Verin said, "but with how late it's gotten, we'd all better rest and head out in the morning. I've got both your school uniforms inside. You'll need to change into them before we leave tomorrow." He gestured at his own back, where a student's sygl would sit. "Once you're officially claimed, your sygl will appear on your clothes, so don't worry about it not being there before. There's stew in the pot inside. Make yourselves comfortable while I see to old Thistle here."
 
 He went off toward the trough. Thistle lifted a dripping muzzle and blew at him affectionately.
 
@@ -158,13 +156,13 @@ Bal shrugged.
 
 Amelia grinned back at him, shyly, a little crookedly, and then she leaned in and gave him a quick hug. It was over almost before his arms caught up. He hugged her back anyway, a beat late, and then she had already let him go and was sitting back on her own bedroll pulling at the string on her parcel and saying nothing about it.
 
-Soon she was talking. She talked while she unwrapped a dark sweater with a blank place on the front and measured it against herself to check the length. She told him how the originators had come up with the idea for the schools, and why they had wanted more than one: so that magic would have room to grow.
+Soon she was talking. She talked while she unwrapped a dark sweater with a blank place between the shoulders and measured it against herself to check the length. She told him how the originators had come up with the idea for the schools, and why they had wanted more than one: so that magic would have room to grow.
 
 It was information Bal would never have gotten anywhere else, so he filed it away. Most of his attention, though, was on her.
 
 Ten minutes ago she had been biting her lip by the door. Now her eyes were shining and the words were tumbling out of her, all because she was going to show him a school she had helped build. Bal had never had a girlfriend at the orphanage. He'd kissed a few girls, but nothing more serious than that. Watching Amelia now, he thought this was what he wanted in a girl. Well, maybe not the vampire part; he hadn't expected that. But definitely all the rest.
 
-Amelia broke off halfway through a sentence about the library and looked at him.
+Amelia broke off halfway through a sentence about the library.
 
 "What?" she asked. "What are you looking at?"
 
@@ -182,7 +180,7 @@ He blew on a spoonful of stew.
 
 "As each student is claimed," Verin went on, "you'll walk around the stage and form a line behind your originator. Once everyone's been claimed, each originator leads their students to their dorms." He pointed his spoon at them in turn. "This may well be the only time you ever see them in person. So if you've any questions for them, that's when you ask."
 
-Bal glanced sideways at Amelia and grinned. She had her lips pressed tightly together and was staring very hard into her stew, and her shoulders were shaking.
+Bal glanced sideways at Amelia. She had her lips pressed tightly together and was staring very hard into her stew, and her shoulders were shaking.
 
 Verin didn't notice. He was chasing a piece of carrot around his bowl.
 
@@ -248,7 +246,7 @@ Bal laughed so loudly that Thistle lifted his head again to see what the fuss wa
 
 "Okay," he said. "Well, if you're my familiar, then it's my job to look after you. How do you want to feed?"
 
-At the word, Amelia's eyes brightened in the dark. She took his left hand, the one her blood had grown, in both of hers and drew it up toward her mouth. Then she stopped, his wrist an inch from her lips, and looked at him over it.
+At the word, Amelia's eyes brightened in the dark. She took his left hand, the one her blood had grown, in both of hers and drew it up toward her mouth. Then she stopped, his wrist an inch from her lips, and met his eyes over it.
 
 "Are you sure?" she asked.
 
@@ -256,7 +254,7 @@ At the word, Amelia's eyes brightened in the dark. She took his left hand, the o
 
 Slowly, Amelia bit into his wrist.
 
-Bal barely felt it. His pain tolerance had always been unusually high, and her fangs going in were a quick, sharp pressure, there and then gone. After that he felt only the cool of her hands holding his arm steady, and her hair brushing his knuckles, and the small, steady sound of her drinking.
+Bal barely felt it. Her fangs going in were a quick, sharp pressure, there and then gone. After that he felt only the cool of her hands holding his arm steady, and her hair brushing his knuckles, and the small, steady sound of her drinking.
 
 He listened to it for a bit. Then he started talking.
 
@@ -275,5 +273,3 @@ Seeing his face, Amelia laughed.
 He stood up from the bench and offered her his hand. Amelia took it. Her fingers were warmer than they had been in the buggy, almost as warm as his own.
 
 Behind them the bowls dripped on the edge of the trough, and out in the dark Thistle tore up another mouthful of grass. Tomorrow there would be gates, and a courtyard, and a stage, and four gods standing on it who expected her place to be empty again.
-
-Bal and Amelia went inside to bed, eager for the new day.

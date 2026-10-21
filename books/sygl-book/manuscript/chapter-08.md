@@ -110,7 +110,7 @@ When he ran out, he asked about her.
 
 "He was a farmer. I killed him."
 
-She said it plainly, the same as she had said sixteen. Then she watched him to see what he would do with it.
+She said it plainly, the same as she had said sixteen. Then she waited to see what he would do with it.
 
 "I was delirious," she said. "I needed blood, and he was there, and I didn't know what I'd done until afterward."
 
@@ -181,9 +181,3 @@ Bal got up too. Before she could step away, he caught her hand. It was cool. He 
 "Out of all the sygls I could have had," he said, "I'm glad I ended up with yours."
 
 Amelia's red eyes went very bright. She opened her mouth, and for once nothing came out of it. Her fingers tightened on his, hard enough that he felt her nails. Then she let go.
-
-Bal headed off to bed.
-
-The bedroom was dark except for the line of firelight under the door. He kicked off his shoes and climbed in under the black blanket with the dark rose on it, and it took him a while to find the middle of the mattress.
-
-He lay awake for a while. Somewhere above him, in one of the towers or down some corridor he hadn't found yet, there was a bell, and it was waiting for morning.

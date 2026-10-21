@@ -10,7 +10,7 @@ Verin slowed Thistle to a walk and fell in behind a buggy with three passengers 
 
 She had the Tempus sygl on the back of her sweater.
 
-Bal checked his own front, which was still blank, exactly as Verin had promised it would be. He looked at the girl's back again. The sygl there was sharp and angular, and whenever the sun broke through the branches and landed on it, the thing crackled. Tiny threads of light jumped across the wool and vanished. Bal watched it happen three or four times and couldn't work out whether the sweater was doing it or the girl was.
+Bal twisted to check his own back, which was still blank, exactly as Verin had promised it would be. The girl's sygl was sharp and angular, and whenever the sun broke through the branches and landed on it, the thing crackled. Tiny threads of light jumped across the wool and vanished. Bal caught it three or four times and couldn't work out whether the sweater was doing it or the girl was.
 
 Since they were all in the same buggy, he figured the three of them were probably siblings.
 
@@ -37,8 +37,6 @@ On the stage stood five thrones in a row.
 They were carved of marble, white and veined all through with lines of blue, so that from here they looked cool to the touch even in the sun. Each throne had a sygl engraved in gold across the front of it. The gold gleamed. Bal's eyes went along the row, one sygl after another, until they reached the last one.
 
 The sygl on that one was the shape he had been staring at in his own hand for two days.
-
-His left hand closed. He opened it again.
 
 Verin pulled the buggy to the side, clear of the carriages still unloading, and they climbed down.
 
@@ -84,11 +82,11 @@ On the far left sat Aren, the originator of the Duality sygl. Since it was dayti
 
 Next to Aren sat Kenmei, the Waves originator, a tall, stately woman in flowing blue robes with her brown hair falling over her shoulders.
 
-Naisura was next, the Terra originator. He had the look of a man in his thirties, and he was bare-chested, with a pair of white drawstring pants and no shirt at all. He looked like he had stopped by on his way back from the gym. Bal wondered whether a god could catch cold, and decided it was probably not a thing he should ask.
+Naisura was next, the Terra originator. He had the look of a man in his thirties, and he was bare-chested, with a pair of white drawstring pants and no shirt at all. He looked like he had stopped by on his way back from the gym.
 
-Last in the row sat Raizen, the originator of the Tempus sygl. He looked middle-aged, in plain orange monk's clothing, his hands resting together on his knees.
+Last in the row was Raizen, the originator of the Tempus sygl. He looked middle-aged, in plain orange monk's clothing, his hands resting together on his knees.
 
-The fifth throne sat empty. Nobody up there looked at it. They'd had centuries of practice.
+The fifth throne was empty. Nobody up there looked at it. They'd had centuries of practice.
 
 The courtyard was entirely silent. Aren rose from his seat and walked to the edge of the stage, and when he spoke his voice carried easily to the back of the crowd without his having to raise it.
 
@@ -170,7 +168,7 @@ She looked exactly the same to him. Black hair, pale skin, the ruby earrings, th
 
 That made sense, Bal thought. A lot of sense. He faced the stage again.
 
-Amelia sprang lightly up onto the edge of it. The originators watched her the whole way, warily, none of them moving. She paid them no attention. She walked along behind Aren and Kenmei and Naisura and Raizen, past each of their thrones in turn, to the end of the row, where she turned and took her seat.
+Amelia sprang lightly up onto the edge of it. The originators followed her with their eyes the whole way, warily, none of them moving. She paid them no attention. She walked along behind Aren and Kenmei and Naisura and Raizen, past each of their thrones in turn, to the end of the row, where she turned and took her seat.
 
 She settled into it as if she had last sat there yesterday.
 
@@ -184,7 +182,7 @@ Nobody on the stage said anything.
 
 "There are things that need to be said," Amelia told them. "But they will wait. You will not return to your domains until they are said." She paused. "Will you?"
 
-The other originators shook their heads, all four of them, and quickly. Bal watched them do it. Up until then, he hadn't understood how anybody could be afraid of her. Now he was starting to.
+The other originators shook their heads, all four of them, and quickly. Bal saw them do it. Up until then, he hadn't understood how anybody could be afraid of her. Now he was starting to.
 
 The coldness left her face. She turned to Bal and motioned with two fingers for him to go on around to the back.
 

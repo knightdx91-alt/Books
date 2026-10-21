@@ -1,8 +1,5 @@
 # Chapter Twenty-Four: The Winespring Inn
 
-<!-- SCENE BUDGET (Target 4,900): Mrs. Locklan, the worry, the stairs, the sparking hair 650 | the servants' room, the letter, shredded 400 | the Three Boars question, "Later", the gift, Lora's turn 550 | James: the docks, the office, the warehouse, the brandy 900 | stew, Ventish, blood darts 350 | the nightstalker poison, the kiss, twenty hours 400 | three hours late, the alchemist, shooed out 550 | the walk, the jeweler's window, the cask, the Three Boars, "how crazy we are", sweet rolls and Bal's thoughts 800 | Aleric, the alley, Lora on the three priests, the nightshade 400 | fifteen hours, the clear cauldron, the boot, bed, the knock 500 -->
-<!-- Word count: ~4,740 prose | Revision: 1 (F1-F17, 2026-10-21) | Target: 4,900 (range 4,500-5,300) | Anchor: the letter signed "A"; the clear cauldron | Hook: a knock and a Tempus seal -->
-
 The innkeeper hurried out from behind her counter at nearly a trot, drying her hands on her apron as she came.
 
 She was a plump woman with a smile that started well before she reached them. Behind her the shutters stood open along the whole long wall, letting whatever breeze Londra had to offer wander between the tables. Six or seven people were drinking in the cool. One old man had his boots off under his table and was not ashamed of it.
@@ -13,11 +10,11 @@ He stood a step behind his lady with the bags and kept his face as empty as he c
 
 "Welcome to the Winespring Inn, my lady," the innkeeper said. "We had your letter just this morning, and your rooms are all made up. And I was told to give you this when you arrived."
 
-She drew a plain white envelope from her apron pocket. Viridia took it as if envelopes were brought to her on every landing in the country, and passed it back to Lora without a glance.
+She drew a plain white envelope from her apron pocket. Viridia took it as if envelopes were brought to her on every landing in the country, and passed it straight back to Lora.
 
 "I'm Mrs. Locklan. Come up, come up. You'll want out of those riding things. Your room has a servants' room off it, so your people will be right there whenever you want them."
 
-She went ahead of them up the stairs, still talking. The stairs were broad and dark with polish, and they creaked on every other step, as though the house had opinions about guests. On the landing Viridia stopped, and Mrs. Locklan stopped too, a step above her.
+She went ahead of them up the stairs, still talking. The stairs were broad and dark with polish, and they creaked on every other step. On the landing Viridia stopped, and Mrs. Locklan stopped too, a step above her.
 
 "Mrs. Locklan. The letter you got this morning. How were you told you'd recognize me?"
 
@@ -167,7 +164,7 @@ When he got back upstairs Lora had her alchemy chest open on the floor, standing
 
 "Seeing if I've got everything for the nightstalker poison." She held a vial to the window, squinted at the label, added it to the ring. "It was in that alchemy book you bought me. I remember reading it and not paying much attention, because I couldn't think when I'd ever want to poison anybody. But this is perfect." Another vial came out. "It stays dormant for twenty-four hours. Nothing. Then you get lethargic and it gets hard to breathe, and your heart stops about six hours after that. They'll all be on their way home by then, and we'll be well on our way too."
 
-Bal reached down, took her by both hands, hauled her to her feet, and kissed her.
+Bal reached down, brought her up from her knees, and kissed her.
 
 "You're amazing," he said, when he let her go.
 
@@ -177,7 +174,7 @@ Lora's glasses had gone crooked. She did not fix them.
 
 She knelt among the vials again and read the labels a second time, frowning. "Everything except asphodel leaves and ginger root, it looks like. But I can get those here. They go into a lot of ordinary potions, so nobody'll think twice if I ask. It'll take about twenty hours to brew. I need to go get them now."
 
-She packed everything into the chest, hugged Bal, hugged Viridia, and promised to hurry.
+She packed everything away, hugged Bal, hugged Viridia, and promised to hurry.
 
 ---
 
@@ -225,7 +222,7 @@ Now it was Bal's turn not to know.
 
 "If she makes a big enough statement fighting Raizen, she probably won't have to. If we win, she can demand pretty much anything she wants from him." He thought of Amelia's face when they had talked about it, and the smile she'd had at the end. "And from that smile, she's got something good in mind."
 
-"I take it we're slipping it into their drinks?"
+"I take it we're slipping it into their drinks?" Bal asked.
 
 "That's the plan."
 
@@ -261,7 +258,7 @@ A pair of guards came by on their rounds, walking slow, heading up the street to
 
 They didn't say much after that. The streets thickened toward the center of town, where vendors were calling out their wares. A stall at a corner was selling sweet rolls, glazed and still warm, and Bal bought two. They stood off to the side of the crowd and ate them without talking.
 
-He had not only asked her about after school to learn her plans. He'd hoped hers might give him some idea of his own. He was never leaving any of them. Past that, he had nothing. His whole life had come off its track the day he enrolled. Once this war was decided, he would either be dead, or he would need to decide what the rest of his life was for, and on a corner in Londra with sugar on his fingers, he honestly couldn't tell which looked likelier.
+He had not only asked her about after school to learn her plans. He'd hoped hers might give him some idea of his own. He was never leaving any of them. Past that, he had nothing. His whole life had come off its track the day he enrolled. Once this war was decided, he would either be dead, or he would need to decide what the rest of his life was for, and on a corner in Londra with sugar on his fingers, he couldn't tell which looked likelier.
 
 He had told Viridia the truth, though. He didn't think Amelia would go after the other originators. She would make her statement whether she won or lost. If he and the girls died out here, Bal fully believed she would kill Raizen for it, and nobody alive could talk her out of it. The letter in the grate had said as much. It was a poor sort of comfort. But at least the others would leave her alone after that.
 
@@ -273,7 +270,7 @@ Carts. Shoppers. A dog. Nobody hurrying after them.
 
 He got the roll down and faced her. Viridia was leaning on the alley wall with both hands spread on the bricks behind her.
 
-"Sorry. We had to run. That was one of them. A priest. I recognized him from what Thad told us. He's got a long scar right through his right eye. He wasn't wearing his azure robes, but it was him."
+"Sorry. We had to run. That was one of them. A priest. I recognized him from what Xavier told us. He's got a long scar right through his right eye. He wasn't wearing his azure robes, but it was him."
 
 Bal swore, quietly. "I thought they weren't supposed to be here yet. Why's he early?"
 
@@ -329,7 +326,7 @@ The three of them stood around it.
 
 It was a small cask. Pale maple, a date on the lid, a fat new dent beside the stopper where the boot heel had gone in. They were pinning their lives on it.
 
-Nothing else remained to be done. They went to bed.
+Nothing else remained to be done.
 
 ---
 

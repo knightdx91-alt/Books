@@ -42,7 +42,7 @@ books/sygl-book/
   own beats (the diary and "I like you too", the juggling talk, the willing conversions).
 - **Tone as the source:** Bal's violence against those who threaten his girls is justified (Iro hangs from the
   blood whip); Amelia loves and protects her own and manipulates no one; the conversions are free choices; the
-  ending is unambiguously happy ("the first day of the rest of their life together").
+  ending is unambiguously happy (closing line, provisional: "For the first time in his life, Bal was exactly where he belonged.").
 - **Premise:** Bal converts willing loved ones (and Toma by accident); not "stealing other gods' followers".
 - **Canon facts:** Mrs. Brown's husband's late affinity was **Blood** (fired so the factory wouldn't be "seen
   as a blood mage supporter"); sygls are **on the palm**; Bal has a **high pain tolerance**; other orphans have
@@ -67,7 +67,7 @@ None open. New questions go in `STATE.yaml` → `open_author_decisions`.
 
 ## Status (update as you go)
 - 2026-10-20: blueprint rebuilt to source order (30 chapters, ≈91,856 words after the outline audit).
-- Ch.1–20 FINAL 2026-10-20 (61,446w): rewritten to the source; all gates clean; Genesis Floor 8.5 each.
-- **Next: Ch.21 "Strawberries"** (see project/outline.md): the lake, Iro, the heart-ring payoff.
+- 2026-10-21: FULL DRAFT COMPLETE — Ch.1–30 (92,812w); every chapter through the eval/edit loop; all gates clean book-wide.
+- **Next:** author read-through. Closing line is provisional. Optional: full-manuscript evaluation and continuity audit, then packaging.
 - Gate tools voice_wear_check.py / tic_report.py read `manuscript/chapters/`; run them on a scratch copy laid out
   that way (the book uses flat `manuscript/chapter-NN.md`).

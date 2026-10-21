@@ -1,15 +1,12 @@
 # Chapter Seventeen: Saegen Woods
 
-<!-- SCENE BUDGET (Target 2,700): the pass, the receipt, the river choice 330 | the descent, aurora felis lore, the potions 330 | the fish, Amelia on beasts 250 | six flowers, three kept, "lonely", "an alchemist is important" 380 | the quiet, the bear, Amelia 330 | over the river, the vials, the dress 370 | the pass, the stones, the juggling talk 520 | the walk back, the Dawn Hall, Soren 260 | stew, curfew, hugs, the slow walk 180 -->
-<!-- Word count: ~2,480 | Revision: 1 (F1–F17) | Target: 2,700 (range 2,400-3,100) | Anchor: the stones dropping to the gravel before "I do not feel more strongly for one over the other" | Hook: the slow walk back, with six weeks about to pass -->
-
 The pass was full of gravel.
 
-They reached it about an hour after they broke camp. High grey stone rose on both sides, and over the years it had shed itself onto the floor of the gap, loose rubble with sharp pieces mixed through it that had sheared off the cliffs clean and kept their edges. They had to pick their way. Viridia used the butt of her spear as a walking stick. Hopper ranged ahead and trotted back to them, over and over, and did not put a paw wrong from one end to the other.
+They reached it about an hour after they broke camp. High gray stone rose on both sides, and over the years it had shed itself onto the floor of the gap, loose rubble with sharp pieces mixed through it that had sheared off the cliffs clean and kept their edges. They had to pick their way. Viridia used the butt of her spear as a walking stick. Hopper ranged ahead and trotted back to them, over and over, and did not put a paw wrong from one end to the other.
 
 It was not a long pass, half a mile or so. The gravel crunched and slid under their boots until the walls fell back, and they stood at the crest of a hill. A worn path ran down it to the woods below.
 
-The woods were very green, even this late in the year, and very thick. From where they stood, the treetops looked solid enough to walk on.
+The woods were very green and very thick. From where they stood, the treetops looked solid enough to walk on.
 
 Bal checked the map.
 
@@ -49,7 +46,7 @@ They stopped first to fill the water skins. It made Bal's teeth ache and tasted 
 
 "It's over that way." Amelia pointed off to the west. "So the fish wouldn't have been touched by it. With beasts, and even with vampires, you can take some of another creature's magykal energy by consuming it. If a creature kept killing and eating its prey, it could get quite large indeed."
 
-Somewhere out there in the west, then, something had eaten something that had eaten something, for generations. Bal wondered if anybody had ever tried fishing that part of the river, and what they had pulled up.
+Somewhere out there in the west, then, something had eaten something that had eaten something, for generations.
 
 "Fortunately," Amelia added, "there's nothing in these woods that can't be killed. The closest thing would be Hopper here, with that pelt of hers."
 
@@ -101,7 +98,7 @@ Amelia came straight to him. She got an arm around him and lifted, and carried h
 
 ---
 
-On their own bank the girls went over him. Viridia tipped his chin up and found the knot coming up under his hair. Lora felt down his arms and asked how many fingers she was holding up, and accepted three, though he suspected it had been two. The bandages from yesterday had held. His back had something to say about the tree, but it had been complaining since the road, and none of it was anything he couldn't carry.
+On their own bank the girls went over him. Viridia tipped his chin up and found the knot coming up under his hair. Lora felt down his arms and asked how many fingers she was holding up, and accepted three, though he suspected it had been two. The bandages from yesterday had held. His back had something to say about the tree, but it had been complaining since the road.
 
 Next they checked the vials.
 
@@ -126,8 +123,6 @@ He waved a hand at his own chest.
 She checked her front, and spun her back on all of them in one motion. The bear had torn her dress open high on the bodice. Both girls had seen it already, while they were fussing over him, and had kept quiet about it, which Bal found interesting.
 
 Amelia fixed her dress. Her hands worked fast at it, and when she had it held together she walked straight past him, heading out of the woods. Her cheeks were flaming red.
-
-Bal grinned. He couldn't help it.
 
 They followed her out. She walked by herself, well ahead, and none of them tried to catch up. They gave her time to get herself together.
 

@@ -1,8 +1,5 @@
 # Chapter Nineteen: The Rule
 
-<!-- SCENE BUDGET (Target 2,600): "tomorrow", Porter, Raizen, Kenmei 520 | Hopper, "Can they do that?", the bond 300 | the families, "circumvent", Amelia at the fire, the offer 560 | the questions, the ring, Lora's waves, the Lead Mage 360 | "We heard", Lora, Viridia, last chance 360 | the dagger, the cuts, the streams, the palms 470 | the familiar's line, thanks, priests, Amelia goes 330 | one bedroom 100 -->
-<!-- Word count: ~2,350 prose | Target: 2,600 (range 2,300-3,000) | Revision: 1 (F1-F13, 2026-10-20) | Anchor: two white palms coming up dark with the blood sygl | Hook: breakfast and Mr. Porter, past the fade -->
-
 "It's going to happen tomorrow."
 
 Bal's pencil skidded off the end of a word. He had been half listening to the fire for so long that a voice coming out of it startled him.
@@ -25,7 +22,7 @@ Kenmei was Lora's originator. Bal waited for it to hurt her.
 
 Lora considered the news about Kenmei for perhaps a second, and found nothing in it worth keeping, and dropped it.
 
-That surprised him more than anything Amelia had said yet.
+That surprised him more than anything Amelia had told him yet.
 
 "So Raizen asked Mr. Porter if he had any suggestions," Amelia said, "and he did. Ban all students from socializing with other students, except in class, or when they're off the grounds." She paused. "He also said they should make you release Hopper."
 
@@ -41,7 +38,7 @@ Hopper was asleep across both girls' feet, collar-small, and she went on sleepin
 
 The rumors had reached Bal weeks ago. He had hoped they would stay rumors.
 
-Neither girl spoke. Lora's pencil had dropped to the page and dragged a long grey line straight through a rune she had spent ten minutes on. Viridia's hand had found Hopper's back and rested there, flat, in the thick red fur.
+Neither girl spoke. Lora's pencil had dropped to the page and dragged a long gray line straight through a rune she had spent ten minutes on. Viridia's hand had found Hopper's back and rested there, flat, in the thick red fur.
 
 Tomorrow they could be told to choose: stop coming around Bal, or be expelled. And Viridia would have to send Hopper away besides.
 
@@ -133,9 +130,7 @@ He told them to come and sit on the tabletop in front of him, and went to fetch 
 
 The bedroom was dark and smelled of his own clean laundry. He found the dagger by feel, next to the lamp, and waited a minute in the dark with it.
 
-He had never done this before. Amelia had taught him, months ago, with her fingernail drawing a line across his palm. He went over it again, step by step, from the cut to the end.
-
-If any of it dripped on that table, who would get it out of the wood? Did the dorm clean up blood by itself, the way it put rooms where you wanted them, or would it be him on his knees with a rag and cold water?
+He had never done this before. Amelia had taught him, weeks ago, with her fingernail drawing a line across his palm. He went over it again, step by step, from the cut to the end.
 
 He went back out.
 

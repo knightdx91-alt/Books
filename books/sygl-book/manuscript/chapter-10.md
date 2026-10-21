@@ -1,8 +1,5 @@
 # Chapter Ten: Hopper and the Rapier
 
-<!-- SCENE BUDGET (Target 2,400; span allows up to 3,000): lunch and the class talk 500 | the bestiary and Viridia's telling 950 | Bal's note, the Tempus comment, "protective" 350 | the walk and Zoran 350 | the rack, Lora, the rapier 550 | partners and forms, "I'll think about it" 400 | the stage 100 -->
-<!-- Word count: ~2,830 | Target: 2,400 (span-driven, under 3,000 cap) | Anchor: the rapier finding his hand; "I'll think about it." -->
-
 Bal hurried down to lunch with the rune kit tucked against his ribs, and he spotted Viridia before he was properly through the doors.
 
 She had their table to herself and was writing on a scrap of paper. She finished, laid the paper on her plate, and the plate went away and returned loaded. Chicken nuggets, a heap of them, and a pile of french fries, with a paper cup of ketchup tucked in at the edge.
@@ -49,7 +46,7 @@ Viridia pushed the shaker back to the middle of the table and dropped her voice.
 
 Bal thought about Mr. Porter's face going from purple to nothing at all, and decided that was fair.
 
-"She said that was fair too," Viridia said. "And then she asked me again. Would I like to show everyone else up." "By then I was curious where it was going. So I said yes, I would. She told me to give her my ring and follow her."
+"She said that was fair too," Viridia said. "And then she asked me again. Would I like to show everyone else up. By then I was curious where it was going. So I said yes, I would. She told me to give her my ring and follow her."
 
 "Where to?"
 
@@ -127,13 +124,13 @@ The axe was massive. He got it free of its pegs and tested the weight of it at a
 
 "L-Lora," the girl said. "Lora Aegis."
 
-She had gone straight past the axes without looking at them. She took a rapier from its pegs, stepped out onto the sand, set her feet, and started an exercise with it.
+She had gone straight past the axes. She took a rapier from its pegs, stepped out onto the sand, set her feet, and started an exercise with it.
 
 It was brief and plain. Point out, a step forward, the blade turning over, a step back. Then the same again, mirrored. She did it without hurrying and without stopping, her glasses slipping a little further down with each lunge, and they did not trouble her.
 
 Bal watched her go through it twice. He liked how she moved. Then he took the next rapier along and copied her.
 
-The rapier was four and a half feet long, made of good steel, with a guard that curled around the back of his hand. It was much lighter than it looked. He set his feet where hers were and pushed the point out when she did. He drew it back when she did. While he copied her he imagined himself using it, as Zoran had said, and that came easily. The blade went where he sent it the moment he sent it there. By the third time through, the left hand Amelia had given him had quit gripping the hilt and started holding it, and nobody could have told him when that happened.
+The rapier was four and a half feet long, made of good steel, with a guard that curled around the back of his hand. It was much lighter than it looked. He set his feet where hers were and pushed the point out when she did. He drew it back when she did. While he copied her he imagined himself using it, as Zoran had said, and that came easily. The blade went where he sent it the moment he sent it there. By the third time through, his hand had quit gripping the hilt and started holding it, and nobody could have told him when that happened.
 
 He liked it a lot.
 
@@ -201,6 +198,6 @@ Bal let her tell him all of it while they walked. They walked around the castle 
 
 Amelia was there, waiting for them.
 
-She sat on the stage's edge with her palms flat on the stone, kicking her legs back and forth over the drop. The long dress was gone.
+She sat on the stage's edge with her palms flat on the stone. The long dress was gone.
 
 She was wearing a school uniform.
