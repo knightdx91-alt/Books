@@ -268,7 +268,7 @@ Bal watched, astonished, as the holes drew shut on their own. Within a breath th
 
 Seeing his face, Amelia laughed.
 
-"It wouldn't have looked good," she said, "to show up on the first day of school with two holes in your wrist."
+"It wouldn't have looked good," she said, "to show up for school with two holes in your wrist."
 
 "No," Bal agreed. "I guess it wouldn't."
 

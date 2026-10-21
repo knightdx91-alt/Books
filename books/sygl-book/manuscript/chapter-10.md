@@ -31,7 +31,7 @@ Viridia reached for the salt shaker and salted her remaining nuggets. She was ge
 
 Bal had to think. He had read about them once, in a bestiary, long enough ago that he needed a minute to find the page again.
 
-It returned to him a piece at a time. Bloodwolves were rare. They had very few pups, and their pelts were tough enough to turn the edge of a longsword, so anyone who had seen one at all had something to brag about for the rest of their life. Bonding one was something else altogether. Their fur was a light silver, with blood red laid across the top of it, along the back and over the shoulders. They were also quite a bit larger than an ordinary wolf.
+It returned to him a piece at a time. Bloodwolves were rare. They had very few pups, and their pelts were tough enough to turn the edge of a longsword, so anyone who had seen one at all had something to brag about for years. Bonding one was something else altogether. Their fur was a light silver, with blood red laid across the top of it, along the back and over the shoulders. They were also quite a bit larger than an ordinary wolf.
 
 "Yeah," he said slowly. "Are you saying you saw one?"
 
