@@ -19,7 +19,7 @@ What was done:
   mode + Step D.6 shape audit, docs updated.
 
 ## Resume point
-**LOOP RUNNING — resume at Ch.17 "Games on the Isthmus" (2026-10-21). Ch.16 FINAL.** Ch.17 briefs: ledger row = In medias res (theft first, how-we-got-here in pieces), `short-punch` open (≤8 words, the record office), action-unfinished close (ledger `quiet`, mid-run for Lechaion), 7,400w, dialogue 30–40%, 3 breaks, gear LOW; AUTHOR-CP3-5: the festival is the one-off games on the Isthmus for Titus's Judaean triumph — NEVER "the Isthmia"/"Isthmian Games"; the record is a two-board leaf of the magistrate's cord-bound book, the name on it "Gaius Iulius Valens, freedman of Gaius" (CH12-2/CH12-8 settled in Ch.16); the office has two doors (colonnade; the back by the baker's oven); the fig-eating clerk must be one of the two clerks Ch.16 names, or a third; Plautia placed Celer out at the games (Ch.16), so his appearance in the colonnade needs a page reason; Celer gets no villain monologue, no violence; hook must NOT be QUESTION and pull must NOT be QUESTION PLANT (Ch.16); Plautia: no sentence pattern twice running, ≤1 pause beat per scene, no looks at the coals; Myrrhine: no prices, no lupins; Felix: no "Is it" opener at all; the bracelet is on Mara's left wrist; no watch until Ch.18; no bends, kneel/crouch ≤1, hand-on-knee ≤1, deliberation pauses minimal, no gait exit; Valens bare "No." ≤1, no narrated non-answers, no comparisons. Next checkpoint after Ch.20.
+**LOOP RUNNING — resume at Ch.18 "Lechaion" (2026-10-21). Ch.17 FINAL.** Ch.18 briefs: ledger row = Single-scene, under an hour on a SUNLIT quay the same early afternoon as Ch.17's run (bags already with Felix, who has had the mules on the quay since before sunrise), `I-statement` open (>8 words, an in-moment fact of arriving out of the run; not a summary, not a re-run), ≤7-word single-sentence close (`punch`), 2,800w, dialogue 30–40%, 0 breaks, gear mid; the Ch.17 sail is NOT waved away in a throwaway line — the first beats show whose it is and its pressure carries into the captain's condition; NON-NEGOTIABLE: consent before witnesses, ten words, Felix cries, the sailor wants to get on; the watch given back wound (kept wound since Nov 70), no speech, she notices it runs near the sun's noon; a mule refuses the gangplank; CH16-8: the Corinth household already took her as "My wife" — let the quay wedding make true what was a cover, without explaining it; the watch goes on her LEFT wrist beside the bracelet, or the bracelet moves — decide on the page; the knife returns at Puteoli, not here; hook must NOT be IN MEDIAS RES (5 uses) and pull must NOT be CLIFFHANGER (Ch.17); no vows, no narrator significance, no aphorism; body-rebel channels per the bible's Ch.17 resting/available line; no bends, kneel/crouch ≤1, hand-on-knee ≤1, deliberation pauses minimal, no gait exit; Valens bare "No." ≤1, no narrated non-answers, no comparisons. Next checkpoint after Ch.20.
 author said "Make the fixes then continue". The independent-read fixes are in (Ch.2 asides; Ch.3
 trimmed to 5,628; Ch.5 to 7,858 with the town-Greek clause) and Ch.3/Ch.5 re-evaluated PASS. Next
 checkpoint after Ch.10 (`feedback/review-ch6-10.md`). Hook/pull types used so far: Ch.1 CONTRAST /
@@ -32,6 +32,7 @@ list in character-bible.md; `--echoes N` on every fresh draft; Kallia's hands ar
 handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Chapter log
+- **Ch.17 "Games on the Isthmus"** — 6,909w · Floor 8.5 / Avg 8.86 / Casual 9.0 / CVI-L 9.7 · 1 polish cycle (Prose: lifts and rebuilt set pieces) + a continuity repair (1 CRIT / 10 WARN) · the theft by boredom; Celer at the scaffold's shadow; the run · full chain in STATE.yaml history.
 - **Ch.16 "Plautia"** — 7,175w · Floor 8.5 / Avg 8.86 / Casual 9.0 / CVI-L 9.7 · 1 polish cycle (Prose: earlier delivery frame rebuilt, borrowed whole lines, retired pause-fillers) + a continuity repair (3 CRIT / 14 WARN; the Isthmia year → CP3-5) · Plautia, the bracelet, Kallia's quiet farewell, the plan · full chain in STATE.yaml history.
 - **Ch.15 "Summer Pasture"** — 7,479w · Floor 8.5 / Avg 8.86 / Casual 9.0 / CVI-L 9.8 / Emotion 9.0 · 1 polish cycle (Prose: the cave in Ch.3's words, spent frames, Valens's register) + a continuity repair (0 CRIT / 12 WARN) · the truth, the mules, the bargain, the hut · full chain in STATE.yaml history.
 - **Ch.14 "What Pompeii Means"** — 3,003w · Floor 8.5 / Avg 8.86 / Casual 9.0 / CVI-L 8.9 / Emotion 9.0 · 1 polish cycle (Prose: explanation, spent frames, shard kickers) + a continuity repair (1 CRIT moon / 13 WARN) · the night she knows; the laugh; the plan · full chain in STATE.yaml history.
@@ -62,6 +63,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
   13 audit warnings all fixed · full chain in STATE.yaml history.
 
 ## Pacing log
+- Ch.17 (FINAL): PASS — 6,909w (target 7,400) · dialogue 33% (30–40 ✓) · 3 breaks · gear low (median 12) · fast and fragmented with one slow beat at the scaffold; the gear steps down across Ch.15–17 as planned.
 - Ch.16 (FINAL): PASS — 7,175w (target 7,600) · dialogue 46% (40–50 ✓) · 6 breaks · gear mid (median 14) · Corinth quick and talky against Delphi slow and silent; the parallel never rhymes mechanically.
 - Ch.15 (FINAL): PASS — 7,479w (target 7,800) · dialogue 34.5% (30–40 ✓) · 3 breaks · gear high (median 16) · a long talky day after the short night; ~600w of backfill at dawn earns its place.
 - Ch.14 (FINAL): PASS — 3,003w (target 3,400; no padding) · dialogue 5% (0–10 ✓) · 9 breaks · gear low (median 12) · a short private pressure chapter between the long consultation and the long pasture day.
@@ -81,6 +83,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Shape audits
 (every chapter: `python3 tools/shape_check.py books/the-hour-of-ash` from the repo root)
+- after Ch.17 (--strict): CLEAN. Ch.17 `short-punch` / `quiet`; 3 breaks; dialogue 33%; median 12.
 - after Ch.16 (--strict): CLEAN. Ch.16 `dialogue` / `question`; 6 breaks; dialogue 46%; median 14.
 - after Ch.15 (--strict): CLEAN. Ch.15 `long-spiral` / `quiet`; 3 breaks; dialogue 35%; median 16. Fifteen chapters: lengths 1,821–7,833, dialogue 5–40%, no signature more than four times.
 - after Ch.14 (--strict): CLEAN. Ch.14 `I-punch` / `long-fade`; 9 breaks; dialogue 5%; median 12.
