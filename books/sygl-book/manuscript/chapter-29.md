@@ -44,7 +44,7 @@ Toma's mouth soured.
 
 "Agreed," he said, short and quick.
 
-Toma hadn't expected Bal to know the rules. Bal had Amelia to thank for it. Deep in the second night on her roof, both of them sweating, she had made him sit and walked him through each rule till he had them by heart. But she had stood at his shoulder through that whole exchange with her mouth shut, because she had to. She could teach him the rules. She could not argue them for him. That part had been his, and Toma had taken it. So whatever happened now, both girls would live. For Bal, that was enough.
+Toma hadn't expected Bal to know the rules. Bal had Amelia to thank for it. Deep in the second night on her roof, both of them sweating, she had made him sit and walked him through each rule till he had them by heart. But she had stood at his shoulder through that whole exchange with her mouth shut, because she had to. She could teach him the rules. She could not argue them for him. The argument itself he had made alone, and Toma had conceded it. So whatever happened now, both girls would live. For Bal, that was enough.
 
 With the terms agreed, Toma crossed to one end of the arena, and Bal walked toward the other. Amelia came with him partway.
 

@@ -200,7 +200,7 @@ He never had to rest. Amelia's blood kept him going, through the days and throug
 
 He had ideas to try. New ones. Some of them came from things he had seen in her memories, and the best person in the world to try them on was Amelia herself, because nothing he did could hurt her. He tried them, and they failed, and he tried them again, and she told him exactly how badly each one had gone. She made none of it sound better than it was. He'd have hated it if she had. Sometime in the first night, one idea nearly worked. She called across the roof for him to do it again, and it fell apart on him, and they kept at it till it held.
 
-Once, with the sun straight overhead, his whip got through her guard. She might have let it. The edge opened her forearm a hand's length above the wrist, and for one breath his blood lay in the cut with hers.
+Once, with the sun straight overhead, his whip got through her guard. The edge opened her forearm a hand's length above the wrist, and for one breath his blood lay in the cut with hers.
 
 It pulled.
 

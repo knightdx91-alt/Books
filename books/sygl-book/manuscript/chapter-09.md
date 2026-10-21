@@ -10,7 +10,7 @@ He wrote small, tore the unused half off and handed it back, and laid his half o
 
 "Let me see your schedule," she said.
 
-He'd picked it up on his way out. She unfolded it, laid it beside a sheet of her own, and ran her eyes down both. Once or twice somebody at the Tempus table leaned out to see who Viridia was eating with, and leaned back in. The second time, Bal caught a scrap of what they were saying over there. The clap, and what Raizen's face had done at it. A boy with his collar turned up said a god didn't get made to jump in front of the whole school and then forget it, and nobody at his end of the bench told him he was wrong.
+He'd picked it up on his way out. She unfolded it, laid it beside a sheet of her own, and ran her eyes down both. Twice somebody at the Tempus table leaned out to see who Viridia was eating with, and leaned back in. The second time, Bal caught a scrap of what they were saying over there. The clap, and what Raizen's face had done at it. A boy with his collar turned up said a god didn't get made to jump in front of the whole school and then forget it, and nobody at his end of the bench told him he was wrong.
 
 "Familiar class," Viridia read. "Same. Warfare, same. Crafting, same." She tapped the second line of his. "Rune working, different."
 

@@ -244,7 +244,7 @@ Viridia managed a wet little laugh by way of thanks. Then she gathered her reins
 
 She dug her heels in. Her horse jumped forward into the street, and people scattered out of her way, a man with a barrow, two women with baskets. Bal rode in silence behind her, keeping up, and watched her bounce in the saddle the length of North Street. Lora had taught her plenty about being a lady in five days. Riding like one had not been among them.
 
-Near the gate they eased back to a walk. Bal hunched in the saddle and studied his horse's ears. The same two guards were on duty, or two just like them. They let the three of them through without stopping them. Apparently they cared much more about who came into Londra than about who left it.
+Near the gate they eased back to a walk. Bal rode straight and looked at nothing, bored. The same two guards were on duty, or two just like them. They let the three of them through without stopping them. Apparently they cared much more about who came into Londra than about who left it.
 
 Then the gate was behind them, and the road ran out ahead into the long yellow country they had ridden in through.
 

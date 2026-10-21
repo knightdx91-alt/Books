@@ -10,7 +10,7 @@ Amelia stayed out on the road while they rode off. When Bal twisted around in th
 
 They had been riding an hour, three abreast where the road allowed it. Viridia sat in the middle in the clothes the priests had found for her, a gray riding dress with a high collar and more buttons than any one person needed. She had unfastened two of them before the canyon had dropped behind them. Under all those buttons she had on the green shirt, with every one of his runes in it charged. Lora had hers on under her maid's dress. He hadn't had to ask either of them.
 
-"Everyone," she said. "The guards."
+"Everyone," Viridia said. "The guards."
 
 "The guards. The innkeeper. The man who sells you a ribbon. Us. Especially us. A lady doesn't thank her servants and she doesn't explain herself to them. She doesn't look at them at all unless she wants something."
 

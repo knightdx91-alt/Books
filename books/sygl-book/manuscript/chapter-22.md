@@ -196,7 +196,7 @@ Lora pushed the map away an inch.
 
 "Then I'm a lady too, and ladies get introduced. The first priest who sits down with us asks whose daughter I am and where my father's land is, and I don't have an answer that lasts past the soup. Make me her maid. Nobody asks a maid anything. A maid can go out alone to the shops and the market, and nobody bothers to remember her face."
 
-Bal had pictured the three of them riding in as near enough equals. It was plain now how fast that would come apart at a supper table.
+Bal had pictured Lora riding in at Viridia's side as near enough her equal. It was plain now how fast that would come apart at a supper table.
 
 "Maid it is," he told her.
 

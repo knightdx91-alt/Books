@@ -36,7 +36,7 @@ Wind hit him first. It was cold and smelled of cut grass, and it came straight u
 
 They stood on top of a hill. Below them, filling the valley from one side to the other, was an army.
 
-Never in his life had Bal seen so many soldiers in one place. Tents ran off in rows to the far tree line, gray canvas going pale with distance, and between the rows were cookfires and wagons and horse lines and narrow lanes trodden down to dirt. Flags stood up all through the main camp on tall poles, and each carried the same jagged yellow mark, snapping in the wind. It was Raizen's. Tempus. Not an hour ago that mark had gone up the castle steps on the back of Viridia's sweater. Here it flew over every tent in the valley.
+Never in his life had Bal seen so many soldiers in one place. Tents ran off in rows to the far tree line, gray canvas going pale with distance, and between the rows were cookfires and wagons and horse lines and narrow lanes trodden down to dirt. Flags stood up all through the main camp on tall poles, and each carried the same jagged yellow mark, snapping in the wind. It was Raizen's. Tempus. Only minutes ago that mark had gone up the castle steps on the back of Viridia's sweater. Here it flew over every tent in the valley.
 
 Somebody had sewn all those flags. Hundreds. Bal wondered if they had a person whose whole job it was.
 
