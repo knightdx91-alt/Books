@@ -2587,3 +2587,64 @@ Open contradictions: 33 → 37.
   - No cite is above p270 outside the labelled requested-checks block.
 - **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 269 characters, 81 locations, 114 objects, 129 contradiction rows.
+
+## 2026-10-21: UPDATE (chapter 18, "Lechaion", post-disruptor page)
+
+- **Page read:** chapter-18.md at a77ccc3 (the disruptor pass, after the writer d3cb979 and dialogue-polish 055d735), md5 ec8653732184a38e829b64cd6ec1821b. It has 77 paragraphs, one scene and no `* * *` breaks. The title and the four HTML comment lines are not counted, so file line 8 = p1 and file line L = p((L-6)/2). `paragraph_rule` now includes Ch.18.
+- **meta:** `last_updated_chapter: 18`; 18 added to `chapters_tracked`; `last_updated_by`, `mode` and `source` updated; new `meta.ch18_requested_checks`.
+- **The marriage (WRITTEN):**
+  - The master's terms: "no priest and no cake, only the two of you saying so with two others to hear it" (p27).
+  - The ten words: "Will you be my wife, Mara?" / "Yes." / "Will you?" / "Yes," (p33-p35).
+  - The witnesses are the tar-handed sailor at the plank's head and Felix (p27; p36; p60). Pacuvius: "I heard." (p37). His daughter watches (p45).
+  - Place and time: the Lechaion quay, early afternoon of the Ch.17 day, spring AD 72.
+  - Updated: `mara-reyes.legal_status`, both characters' relationships and arc_waypoints, `plot_threads.romance.ch18_beat`, `maras-legal-nonexistence.ch18_note`, and the new `knowledge_index.lechaion_wedding`.
+- **CH16-8 RESOLVED.** The household's freedman booked them at sunrise as "a muleteer and a wife and a boy" (p12) and had "Gone back up for the men's race" (p8; p20). Nobody from the Corinth household is on the quay. The Corinth "My wife" is now true, and no one who held it saw a first wedding.
+- **The watch (WRITTEN):**
+  - Valens takes it from his pouch and lays it in Mara's hand without a word (p47). It is warm, with flour in the links and on the crystal by the nick at the two (p48).
+  - It is running and the spring is "wound tight to its end" (p48). It reads "twenty to one", with the post's shadow a little past noon (p49).
+  - Mara tries it on her LEFT wrist against Plautia's gold, then holds out her RIGHT arm. Valens closes the clasp with his nail (p51; p52). "The watch sat on the wrong wrist and ticked." (p53)
+  - The bracelet stays on the LEFT, which meets the audit's I-29 forward item (`plautias-bracelet.ch18_result`).
+  - Custody: valens → mara-reyes. The outline's custody row is kept as `plan_was`.
+  - New `windings` row: found wound, winder not shown. The page never says he kept it wound for the span. New fields: `time_setting_ch18`, `wrist_ch18`, `physical_ch18` and `witnesses_ch18` (nobody is shown seeing the return).
+  - `knowledge_index.seiko_with_valens` gets the return row.
+- **Pacuvius (NEW):** `ship-captain-lechaion` is renamed `pacuvius`, with `former_slug` kept and the gulf-coaster-master note updated.
+  - Physical and speech: a leather cap; tunic hitched through his belt; harbor Latin; left foot bare after a lost sandal ("if any of you sees a sandal floating past the mole, it's mine", p46; how he lost it is not on the page).
+  - His daughter, "married at the Kalends to a man at Puteoli she's never set eyes on", is going to her husband's mother (p17). "By proxy" is noted as a reading, not page wording.
+  - The Ostia story (p17).
+  - Also new: pacuvius-daughter (the girl in the blue hood), the told-only husband and mother, tar-handed-sailor, goose-ship-crew, towboat-rowers-lechaion, lechaion-fish-seller.
+  - New location `ostia` (told). Facts added to lechaion (`ch18_facts`) and puteoli.
+- **The goose ship:**
+  - Description from the page: the goose carved from the sternpost, flaking white paint, red beak; the plank; the brailed sail with lead rings; the towboat.
+  - Destination Puteoli (p17; p30). The page names no cargo, so none is recorded.
+  - Status `chekhov_closed`: they are aboard and the plank is in (p77). The sailing itself is not shown.
+  - New `objects.italy-marble-ship` (background): "Not out of this harbor before the Ides, and that one's carrying marble, and she won't take a mule." (p22)
+- **Aboard:**
+  - All four mules: the dun refuses the plank and is blindfolded with Felix's tunic; "The other two" follow; Valens brings the black back (p54-p70).
+  - The fig, carried up between Valens and Mara (p73-p76). CH16-9 gets `recheck_ch18` and stays open.
+  - Felix, in his loincloth, "bare-shouldered and crowned" (p68; p71).
+  - The pine crown is given to Felix (p41) and closed. New background objects: `felixs-tunic-blindfold` and `pacuvius-lost-sandal`.
+- **Unchanged:**
+  - The pen-knife is not on the page and Myrrhine is not on the quay. It stays for Puteoli (`ch18_note` on the object and on `the-knife-comes-home`).
+  - Nobody knows who won the boys' race (Felix p42; Mara p43; the sailor's bet on "the small Sicyonian", p44). New `knowledge_index.boys_race_winner`.
+- **Timeline:**
+  - Row 18 now comes from the page. The old patched-outline value is kept as `plan_was_patched` beside the earlier `plan_was`.
+  - Placed after the Kalends (if that was this month) and before the Ides; the month is not named.
+  - The watch span is derived, about 16-18 months; the page states none.
+  - Four new timeline_events rows.
+- **Knowledge flow:**
+  - New Ch.18 rows for Mara, Valens and Felix (incl. his pre-18 BELIEF that she was not married), Pacuvius, the sailor and the daughter, plus the freedman's told trait.
+  - New `knowledge_absent_ch18` for Mara, Valens and Felix.
+  - New rows on `maras_name` and `valens_name`.
+  - No knowledge_gap.
+- **World rules (Ch.18):** marriage by consent before two witnesses (Pacuvius's account); the nuts, torches and cake; a master answering for his passengers' standing, with Delphi's rolls carrying no weight in Italy; the brailed sail and towboat. The Ch.17 "every day" row gets a `ch18_note`.
+- **Contradictions:**
+  - **CH18-1 (low, UNRESOLVED).** The watch is near sun time with no setting shown. In Ch.11 it ran fast with the hands untouched, and Valens was never shown how to set it. The page also never says he kept it wound for the whole span.
+  - **CH18-2 (info).** Celer's "Ships leave Lechaion every day" against one Italy ship before the Ides. Compatible.
+  - **CH18-3 (info).** Felix holds that she is unmarried after the Corinth winter, and asks "Did you get it?" with no shown path to the errand. Compatible; not logged as a knowledge_gap because "it" is never named.
+  - **CH18-4 (info).** Outline Ch.18 vs the page: none against a NON-NEGOTIABLE. The page never calls the watch a "wedding gift" or says "seventeen months".
+  - **Resolved:** CH16-8.
+  - **CRITICAL:** none.
+  - **Open count:** 37 → 40.
+- **Checks:** every single-quoted fragment on a ch-18 line was checked against the page by script. Two misquotes were fixed ("'Father,' … 'was mine like that?'" and "I'd money on the small Sicyonian"). The remaining misses are other chapters' quotes on mixed lines, plus the labelled reading "By proxy". No cite is above p77.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 275 characters, 82 locations, 117 objects, 133 contradiction rows.
