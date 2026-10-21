@@ -4,6 +4,7 @@
 <!-- Word count: 7,194 (shape_check; style 7,206) | Writer draft 2026-10-21 | Target: 7,400 (range 6,900-7,900) | Dialogue 31% (band 30-40; S1 22 / S2 35 / S3 42 / S4 30) | Breaks 3 | Median sentence 11 (gear low) | Opens short-punch (8w, record office), closes quiet (13w, mid-run) | Bare "No." Valens 1 | Kneel/crouch 0 | Hand-on-knee 0 | Bend 0 | Deliberation pause 0 gate | Gait exit 0 | Object handling 3 | Em-dash 0 | And-chains 4 | Negation pivots 0 | Hinge/So openers 0 | Echoes 0 | Spoken-line echoes 0 | Tic gate clean | Voice-wear clean | Foreshadow 0 | Anchor: the gray clerk, Onesimus, digging figs out of a pressed fig cake with his stylus (then his thumb) through the whole of a theft -->
 <!-- Dialogue-polish 2026-10-21: 7,190 words (shape_check; style 7,202) | Dialogue 31.8% (shape; show_tell 31.7; S1 25.0 / S2 35.3 / S3 41.5 / S4 29.3) | Breaks 3 | Median 11 | first paragraph + closing paragraph byte-identical (md5 checked) | Em-dash 0 | Bare "No." Valens 1 (kept, to "Will they wait?") | as if/as though 3 -> 1 | adverb tags 2 -> 0 | let-that non-answer frames 2 -> 0 | Celer smile beats 3 -> 1, "Lupus" 3 -> 2, tag-question+vocative 3 -> 2 | clerk "lady" 6 -> 3 | "who won" 5 -> 2 | Plautia "low" tags 2 -> 1 | said-to-[non-listener] 2 -> 1 | echoes 0 | spoken-line echoes 0 | check_chapter.sh 17 clean | shape --strict CLEAN -->
 <!-- Disruptor 2026-10-21: 6,923 words (shape_check; style 6,935; show_tell 6,939) | Dialogue 33% (shape; show_tell 33.0) | Breaks 3 | Median 11 | narration cut only, speech untouched except two merged Valens quotes (wedged beats removed) | first line, closing paragraph, the 3 breaks, the bare "No.", the scaffold slow beat byte-identical (md5 checked) | l.339 "short and level" cut | trainer "delighted" cut (dog's kept) | storeroom memory folded into the scene, aphorism cut | countdown + twelfth/eleventh cut; the last hole missed twice | pointers 3 -> 0 | Valens wedge beats 3 -> 0 | baker turns 3 -> 0 | "had gone loose", "without turning her head", "seeming to decide" cut | and-chains 3 | as if/though 1 | echoes 0 | check_chapter.sh 17 clean | shape --strict CLEAN -->
+<!-- Continuity repair 2026-10-21 (audit run 2: C-01, W-01 to W-07, W-09): 6,935 words (shape_check; style 6,947; show_tell 6,951) | Dialogue 33% (shape; show_tell 33.0) | Breaks 3 | Median 11 | first line, the 3 breaks, the bare "No.", the scaffold slow beat byte-identical (md5 checked); closing paragraph byte-identical after its first sentence (W-07: the dog replaced by the washing on the garden wall) | l.34 porch bench (not the audit's "in the shade of the porch": a third "in the shade" in the chapter) | W-03 "from the ladies' benches" ("from the top" tripped the tic gate) | W-09 "Her woman can come to Puteoli for it." | Isthmia 0 | echoes 0 | check_chapter.sh 17 clean | shape --strict CLEAN -->
 
 The boards left their dust on my fingers. Fine and gray, faintly greasy, the dust of old wax in a shut room; under it the wood of the tag had been worn smooth by thumbs. The books lay flat in their pigeonholes, five and six to a hole. Each was a stack of boards bound along one side by a cord, and from every cord a wooden tag hung on a loop.
 
@@ -31,7 +32,7 @@ A fig cake sat on the table by his elbow, the kind the farm women pressed in a m
 
 He found another fig. Plautia faced him across the table, on the bench, with her veil drawn forward and her hands in her lap, and then her hands were out of her lap and there was a bundle in a napkin on the table between them. It clinked faintly on the wood. The clerk raised one corner of the napkin with his stylus. Silver, a ladle and two spoons, the spoon handles ending in swans' heads. He let the corner fall back.
 
-Her mother's. She had told me so at the brother's door in the dark, while the bearers were lifting her, in the voice she might have used to tell me the spoons were cold. The bearers had carried her through a city that had emptied itself for the games and barred its doors behind it: shutters down along every street, a fuller's vats standing full and untrodden, and at the forum's edge the fountain pouring into its basins with no one there to fill a jar.
+Her mother's. She had told me so at the brother's door, by the porch bench, while the bearers were lifting her, in the voice she might have used to tell me the spoons were cold. The bearers had carried her through a city that had emptied itself for the games and barred its doors behind it: shutters down along every street, a fuller's vats standing full and untrodden, and at the forum's edge the fountain pouring into its basins with no one there to fill a jar.
 
 The clerk wrapped the napkin round them twice and put it under the fig cake. He rose, taking the cake.
 
@@ -55,7 +56,7 @@ The ladder said what he thought of that.
 
 I went on reading tags.
 
-They ran left to right, and shelf by shelf downward, in years, and inside each year in the order of the numerals. "*P. VETT. L. CANIN.*," Plautia had said through the litter's curtain that morning. "Vettius and Caninius, the year Nero came. Of that year you want the first book, which is the magistrate's own, with his games in it and everything else he signed; the second and the rest are nothing to us." I found the year two holes down from where my hand was. *VETT. CANIN. II.* Then *III.* Then *IIII.* No first.
+They ran left to right, and shelf by shelf downward, in years, and inside each year in the order of the numerals. "*P. VETT. L. CANIN.*," Plautia had said through the litter's curtain that morning. "Vettius and Caninius, the year Nero was here. Of that year you want the first book, which is the magistrate's own, with his games in it and everything else he signed; the second and the rest are nothing to us." I found the year two holes down from where my hand was. *VETT. CANIN. II.* Then *III.* Then *IIII.* No first.
 
 In its place lay a book with another pair of names on the tag, a year I had already passed. In the storerooms under the museum the accession numbers ran along the shelves in their sequence, year and lot and piece, and the one out of its place was always louder than anything written on it.
 
@@ -337,7 +338,7 @@ The man with the seam had found me. He touched two fingers to the place above hi
 
 "He will be hoarse already. Since he could stand he has shouted before anyone gave him leave; tonight, when his nurse brings him honey in warm water that she has made too hot, he will not drink it."
 
-"His nurse knows her business," said Celer. "I'm never in the nursery. Sit with us tomorrow, why don't you? Right at the governor's back, where everybody can see how well we all get on. He'd like that."
+"His nurse knows her business," said Celer. "I'm never in the nursery. Come out tomorrow, why don't you? Look down on us from the ladies' benches, where everybody can see how well we all get on. He'd like that."
 
 "Will you let me speak to him?"
 
@@ -361,7 +362,7 @@ Celer turned back to Valens. He came a step nearer, and another, to the very end
 
 "You hired me," said Valens.
 
-"Did I?" said Celer. "Well. We'll let the lawyers argue that. We could make all of this very easy. Ships leave Lechaion every day now the sea's open. If a man crossed to Italy and settled, and grew old in the sun with a vineyard and somebody to write his letters for him, I can't see why anybody in Achaea would ever need to say his name again. My steward put up some notices, last year. Stewards will. Notices come down."
+"Did I?" said Celer. "Well. We'll let the lawyers argue that. We could make all of this very easy. Ships leave Lechaion every day now the sea's open. If a man crossed to Italy and settled, and grew old in the sun with a vineyard and somebody to write his letters for him, I can't see why anybody in Achaea would ever need to say his name again. My steward put up some notices, the autumn before last. Stewards will. Notices come down."
 
 Valens stood with his floured hands hanging at his sides. Under the flour on his tunic, where the leaf rode, the cloth sat flat and square if you knew to look for it. I knew. Celer was looking at his face.
 
@@ -427,7 +428,7 @@ Plautia stood where she was until the litter had left the forum by its farthest 
 
 "You were by yourself."
 
-"I have been by myself in front of that man since I was sixteen, Valens, and I have generally managed to stand up. And you told him Rome. To his face, in the forum, with his men behind him."
+"I have been by myself in front of that man since I was nineteen, Valens, and I have generally managed to stand up. And you told him Rome. To his face, in the forum, with his men behind him."
 
 "That was where he was standing."
 
@@ -447,13 +448,13 @@ Plautia moved the pens aside with a fingertip and drew the knife out in its fish
 
 "Did you stand on my hem?"
 
-"Twice. In the street, in the dark."
+"Twice. In the street, by the fuller's."
 
 "Good," she said, "she will be content," and the bearers rose together, and she climbed into the litter from the right, and her curtain stayed down.
 
 I pushed the knife into my belt. "Should I have refused it?"
 
-"Her woman will be on the quay before us. Walk."
+"Her woman can come to Puteoli for it. Walk."
 
 We left the colonnade for the sun.
 
@@ -489,15 +490,15 @@ Boys worked the crowd with pine. They had armfuls of it, cut that morning, the g
 
 "He has," I said, and the boy dived into the crowd after somebody richer.
 
-By the following column a man had a tray of new silver slung from a strap and was shouting it. "Judaea taken! The emperor's new money, from Rome, for the triumph! See her weep!" On every coin on the tray a woman sat in the dust beneath a palm with her head in her hand, and a soldier stood over her, and the edges of the coins were still sharp from the die. A sailor paid for one and stowed it in his belt.
+By the following column a man had a tray of new silver hung from a strap and was shouting it. "Judaea taken! The emperor's new money, from Rome, for the triumph! See her weep!" On every coin on the tray a woman sat in the dust beneath a palm with her head in her hand, and a soldier stood over her, and the edges of the coins were still sharp from the die. A sailor paid for one and stowed it in his belt.
 
-A sausage-man had set up his brazier against a column at the turn of the steps. The coils on his grill spat and smoked, filling the colonnade with the smell of fat and cumin. He banged his tongs on the grill. "Lucanian, all of them! Not for the athletes, the athletes aren't let have them, their trainers say so! Everybody else!"
+A sausage-man had set up his brazier against a column at the turn of the steps. The coils on his grill spat and smoked, and his smoke, thick with cumin, rolled along under the colonnade roof. He banged his tongs on the grill. "Lucanian, all of them! Not for the athletes, the athletes aren't let have them, their trainers say so! Everybody else!"
 
 We pushed down against all of it. Shoulders knocked mine. A hat brim caught my cheek. Valens went first and the crowd opened in front of him, and shut behind me before I was through.
 
 The trainer saw Valens coming and stopped dead, so that the nearest of his boxers walked into him.
 
-"Murmillo," he said, in the Greek of Alexandria, to Valens's chest. "You come down a stair like one. Whose school?"
+"Murmillo," he said, in a Greek that was not Corinth's, to Valens's chest. "You come down a stair like one. Whose school?"
 
 "I lead mules." Valens went by him.
 
@@ -557,4 +558,4 @@ I ran in a borrowed dress with the hem bunched in my fist and the camera on its 
 
 "No."
 
-A dog burst from a garden gate and ran with us for a stretch, delighted, and dropped off. The wind blew harder into our faces, and the gardens went by on both sides, beans and cabbages and a man with a hoe who straightened to watch us pass. The smudge at the end of the road was masts now, each one separate, and hulls under them, and the long arm of the mole. At the harbor, beyond the last of the gardens, a sail was going up.
+Somebody's washing was spread along a garden wall to dry, and Valens's shoulder swept a tunic off it into the road. The wind blew harder into our faces, and the gardens went by on both sides, beans and cabbages and a man with a hoe who straightened to watch us pass. The smudge at the end of the road was masts now, each one separate, and hulls under them, and the long arm of the mole. At the harbor, beyond the last of the gardens, a sail was going up.
