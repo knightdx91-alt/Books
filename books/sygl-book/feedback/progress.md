@@ -61,3 +61,9 @@ If drift is bad across full chapter, train per-character LoRA (Option B). Deferr
 Bal narrates; Amelia butts into the narration (margin banter in a distinct caption-box style), Ch.1 solo-Bal,
 from Ch.2 on. This stays **manga-only, if the author wants it there**. It is **not** used in the prose novel,
 which is close third on Bal only throughout.
+
+### Outside reads (2026-10-21) — RESUME HERE for the novel
+- Grok: agent-style assessment; only line-edit items taken (done). Story unchanged.
+- Muse (Meta): full chapter-by-chapter notes saved at feedback/muse-reading-notes-2026-10-21.txt;
+  triage at evaluations/muse-triage-2026-10-21.md. NOTHING APPLIED YET — author is waiting on a
+  ChatGPT analysis, then will decide. Pending list is in STATE.yaml -> open_author_decisions.
