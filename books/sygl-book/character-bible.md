@@ -600,7 +600,8 @@ re-read and confirmed (or corrected against the page) the moment the character e
 
 - **Ch.17 as written:** off-page; known through Lora's receipt and report (only ingredients for three, "no use being greedy"; her face lit up at Lora's questions; "She's lonely, I think"). Two potions as part payment, told to Soren.
 
-#### HEATH — bandit leader on the Whitehaven road; wears a heart ring (Ch.16; named by Iro, Ch.21) *(on page Ch.16, UNNAMED — confirmed)*
+#### HEATH — bandit leader on the Whitehaven road; wears a heart ring (Ch.16; named by Iro, Ch.21) *(on page Ch.16, UNNAMED — confirmed; NAMED Ch.21 by Iro — confirmed)*
+- **Ch.21 as written:** named only in Iro's mouth ("How you ever managed to kill Heath…", "Heath was past his prime"). Payoff: when Iro says "No idea how they knew," Bal thinks of the red-gold heart on Heath's right hand: someone on Raizen's side wore its pair and felt it stop (two lines; no new plot).
 - **Ch.16 as written:** called only "the older man", "the leader", "the big man", "the grey-haired man" in narration; never named. Lines: "Your weapons, if you please" and the taunt ("I'll have some fun with them, once I'm done with you"). Rapier through the right knee; Hopper finishes him (off-page detail, "The screaming stopped"). **The heart ring (red gold) is LEFT ON HIS HAND** — Bal decides it is not his to take; Lora explains paired rings; the ring "bugs" Bal and is the chapter's closing thought. Ch.21 can pay it off with no prop to account for.
 - Attention / worldview: robbery as business, then cruelty aimed at what Bal protects; "past his prime"
   per Iro. Sent by Raizen's side to kill Bal.
@@ -616,7 +617,8 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - Sample line: "Want to kill me yourself, huh? Don't blame you. Not with those pretty girls watching."
   (p.93; Ch.16)
 
-#### IRO — assassin at the lake (Ch.21) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### IRO — assassin at the lake (Ch.21) *(ON PAGE Ch.21 — confirmed by Writer)*
+- **Ch.21 as written:** unnamed in narration ("his attacker", "the stranger", "the woodsman") until he gives his name on the whip. Greens and browns, short brown hair, sharp blue eyes, twirls his sword right-handed. Lines: "Almost had you there"; "How you ever managed to kill Heath with sword work that shoddy, I can't imagine"; "Oh, that's got to hurt"; "I think I'll enjoy myself afterward. Those pretty girls of yours"; "Why, my High Priest, of course"; "It's Iro. It's Iro." Hung from the blood whip, the chatter drains and his face turns young and scared; truthful blurting. Killed cleanly ("without its head"), no gore, no guilt. Does not recur.
 - Attention / worldview: the kill as sport; scores Bal's swordwork; brags about orders from "my High
   Priest of course."
 - Vocabulary band: young, cocky, conversational.
