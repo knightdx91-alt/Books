@@ -4,15 +4,15 @@ Pierre knocked on Bal's bed frame at six o'clock.
 
 The dormitory windows had gone from black to a thin, watery gray, and all down both rows the other boys were lumps under their blankets. Pierre stood at the foot of the bed in pajama bottoms and a sweater, his hair flattened on one side. He was another of the orphans, and some mornings he helped Mrs. Brown before the rest of the building woke up.
 
-"Get up," Pierre whispered. "Mrs. Brown wants you." He yawned hugely in the middle of it and had to start over. "She says grab your things, then stop by the kitchen for a bite to eat, then go to her office. In that order."
+"Get up," Pierre whispered. "Mrs. Brown wants you." He yawned hugely halfway through the message and had to start over. "She says grab your things, then stop by the kitchen for a bite to eat, then go to her office. In that order."
 
 "In that order?"
 
-"She said that part too." Pierre squinted at Bal's left arm, lying on top of the blanket. Word of the hand had gone through the whole building by supper. He looked at it as though it might have gone back to normal overnight, then shuffled off down the aisle. "Kitchen, then office," he said over his shoulder. "Don't make me come back up."
+"She said that part too." Pierre squinted at Bal's left arm, lying on top of the blanket. Word of the hand had gone through the whole building by supper. He looked at it as though it might have vanished overnight, then shuffled off down the aisle. "Kitchen, then office," he said over his shoulder. "Don't make me come back up."
 
 Bal stayed put a little longer with his left hand on the blanket. It was still there. He got up.
 
-He dressed without a sound and shouldered the pack he had buckled yesterday.
+He dressed without a sound and shouldered the pack he had buckled yesterday. Nobody else was awake yet to say goodbye to.
 
 ---
 
@@ -32,7 +32,7 @@ Sitting in one of the chairs in front of it was an older man in well-worn mage's
 
 "Hello there," he said. "You must be Balthazaar and Amelia. My name is Verin, and I'll be escorting you to the Heir's School."
 
-Bal swallowed the muffin in a hurry and shook. Verin had an easy smile and kind blue eyes set in a nest of wrinkles. He looked less like a mage than somebody's grandfather. He didn't stare at Bal's left hand, or at Amelia, though the brand on her forehead was showing plainly under her bangs.
+Bal swallowed the muffin in a hurry and shook. Verin had an easy smile and kind blue eyes set in a nest of wrinkles. He looked less like a mage than somebody's grandfather. He didn't stare at Bal's left hand, or at Amelia, though the brand on her forehead glowed plainly through her bangs.
 
 Verin looked across the desk. "Sarah, I'll go ahead and set the portal up outside. The rest of the children are in their rooms?"
 
@@ -116,7 +116,7 @@ Verin drew the buggy up beside it and climbed down, stiffly, and motioned for th
 
 He began unhooking the horse from the buggy. Freed, it shook itself from nose to tail, walked over to a wooden trough by the corner of the cottage and started to drink.
 
-"Normally I'd try to push on to the school," Verin said, "but with how late it's gotten, we'd all better rest and head out in the morning. I've got both your school uniforms inside. You'll need to change into them before we leave tomorrow." He gestured at his own back, where a student's sygl would sit. "Once you're officially claimed, your sygl will appear on your clothes, so don't worry about it not being there before. There's stew in the pot inside. Make yourselves comfortable while I see to old Thistle here."
+"Normally I'd try to push on to the school," Verin said, "but with how late it's gotten, we'd all better rest and head out in the morning. I've got both your school uniforms inside. You'll need to change into them before we leave tomorrow." He gestured at his own back, where a student's sygl would sit. "Once you're officially claimed, your sygl will appear on your clothes. Don't worry that it isn't there yet. There's stew in the pot inside. Make yourselves comfortable while I see to old Thistle here."
 
 He went off toward the trough. Thistle lifted a dripping muzzle and blew at him affectionately.
 
@@ -140,7 +140,7 @@ Amelia crossed the room and knelt on the bedroll in front of him.
 
 Bal waited. In the hearth a log shifted and settled.
 
-"Can I feed from you?" she asked softly. "I haven't had human blood in a very long time, and I need it to be at my full strength. I'm worried I won't be able to stop the others if they try something tomorrow without it."
+"Can I feed from you?" she asked softly. "I haven't had human blood in a very long time, and I need it to reach my full strength. Without it, I'm worried I won't be able to stop the others if they try something tomorrow."
 
 Bal sat back on his heels.
 
@@ -154,7 +154,7 @@ Bal shrugged.
 
 "Nah," he said, and grinned at her. "Just makes you more interesting."
 
-Amelia grinned back at him, shyly, a little crookedly, and then she leaned in and gave him a quick hug. It was over almost before his arms caught up. He hugged her back anyway, a beat late, and then she had already let him go and was sitting back on her own bedroll pulling at the string on her parcel and saying nothing about it.
+Amelia grinned back at him, shyly, a little crookedly, and then she leaned in and gave him a quick hug. It was over almost before his arms caught up. He hugged her back anyway, a beat late. By then she had let him go and was sitting back on her own bedroll, pulling at the string on her parcel and saying nothing about the hug.
 
 Soon she was talking. She talked while she unwrapped a dark sweater with a blank place between the shoulders and measured it against herself to check the length. She told him how the originators had come up with the idea for the schools, and why they had wanted more than one: so that magic would have room to grow.
 

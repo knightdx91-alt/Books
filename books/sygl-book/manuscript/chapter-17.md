@@ -30,11 +30,11 @@ Lora had read the entry more than once. She didn't stop to think.
 
 "So anything made with them costs a fortune," Viridia said.
 
-"Pretty much. The flowers are rare, and what goes in with them isn't cheap either." Lora hesitated. "She offered to help me make two of the potions. As part of the payment."
+"Pretty much. What goes in with them isn't cheap either." Lora hesitated. "She offered to help me make two of the potions. As part of the payment."
 
 None of them needed the money for anything in particular, except the guild dues. They had agreed to it back in New Spring without much of a discussion.
 
-She was already halfway into that shop in her head. She had bought plants and supplies to stock the herb room Bal had put in for her, and now she was going to watch a real master work from start to finish.
+She was already halfway into Ms. Summers' shop in her head. She had bought plants and supplies to stock the herb room Bal had put in for her, and now she was going to watch a real master work from start to finish.
 
 ---
 
@@ -64,7 +64,7 @@ Six meant Lora could keep three for herself, once the other three went to Ms. Su
 
 Lora tucked the receipt into her pocket and got down on her heels in front of the flowers with her knife. She cut each stem low, carefully, and eased each flower into its own glass vial. The vials had ridden from the castle in her pack, wrapped in cloth.
 
-"She only has the ingredients to make three. So it was no use being greedy." Lora pushed the cork into the last vial and stood up. "One potion is worth what she'd make in a month selling the others. I think the only reason she offered us two is that I'm interested in alchemy. Her face lit up when I started asking her questions."
+"She only has the ingredients to make three. So it was no use being greedy." Lora pushed the cork into the last vial and stood up. "One potion is worth what she'd make in a month selling her other potions. I think the only reason she offered us two is that I'm interested in alchemy. Her face lit up when I started asking her questions."
 
 She held the vials, all six, in the crook of her arm.
 
@@ -88,7 +88,7 @@ For a while the world was green and full of bells.
 
 He got one knee under him. Then the other foot. The tree helped. Across the water somebody was shouting his name, Lora, he thought, and the ground kept tipping to throw him down again, and his hand went hunting for his rapier and could not lay hands on the hilt.
 
-He was not really hurt. The thing that had hit him was.
+He was not badly hurt. The thing that had hit him was.
 
 When his eyes would focus again, it was over, and he had to put it together from what was in front of him. Amelia had gone after it the moment he was hit. Its claws had done nothing to her. It had tried to run, and she had not allowed it. Now she had both arms locked around its massive neck, and she was squeezing, and it was not moving anymore. Above its head her face was white and set with fury. She looked as if she would have liked to kill it a second time.
 
@@ -120,7 +120,7 @@ Amelia's face went blank.
 
 He waved a hand at his own chest.
 
-She checked her front, and spun her back on all of them in one motion. The bear had torn her dress open high on the bodice. Both girls had seen it already, while they were fussing over him, and had kept quiet about it, which Bal found interesting.
+She checked her front, and spun her back to all of them in one motion. The bear had torn her dress open high on the bodice. Both girls had seen it already, while they were fussing over him, and had kept quiet about it, which Bal found interesting.
 
 Amelia fixed her dress. Her hands worked fast at it, and when she had it held together she walked straight past him, heading out of the woods. Her cheeks were flaming red.
 
@@ -138,7 +138,7 @@ Bal bent and scooped up some stones. They were good ones, round and smooth, egg-
 
 "At least it couldn't hurt you," he said lightly. "You looked pretty angry."
 
-He tossed the first stone up, and the second after it, and then the third, and caught them coming down, and threw them again. He had learned it as a boy. His hands had not forgotten how. The stones rose and fell in a little wheel in front of his face.
+He tossed the first stone up, and the second after it, and then the third, and caught them coming down, and threw them again. He had learned it as a boy, with one hand. Two made it easy. The stones rose and fell in a little wheel in front of his face.
 
 "I think you'd have killed it again if you could," he said.
 
@@ -172,7 +172,7 @@ Bal ran through it again in his own head. They left the pass and went on along t
 
 ---
 
-They had decided to walk straight back instead of camping a second night. It was an uneventful walk. They came through Whitehaven in the late afternoon, and at its town limit Viridia touched Hopper's collar, and Hopper shrank back down to fit the streets.
+They had decided to walk straight back instead of camping a second night. It was an uneventful walk, though his head ached most of the way. They came through Whitehaven in the late afternoon, and at its town limit Viridia touched Hopper's collar, and Hopper shrank back down to fit the streets.
 
 It was full dark when they reached New Spring. They went straight up the square to the guild hall to turn in the flowers.
 

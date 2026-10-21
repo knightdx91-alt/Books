@@ -2,7 +2,7 @@
 
 The front door thumped shut behind them, and the shouting from the softball game went thin and far away.
 
-After the bright yard, the front hall of the orphanage was dim and cool, and it took Bal's eyes a second to catch up. The walls were a dull gray that somebody, years back, must have thought looked respectable, and the floor was laid with white tiles that always seemed to echo as you walked on them. Bal's shoes clacked on them now. Amelia stopped in the middle of the floor, stamped once on purpose, and listened to the sound come back to her off the walls with her head cocked.
+After the bright yard, the front hall of the orphanage was dim and cool, and it took Bal's eyes a second to catch up. The walls were a dull gray that somebody, years back, must have thought looked respectable, and the floor was laid with white tiles that always seemed to echo underfoot. Bal's shoes clacked on them now. Amelia stopped in the middle of the floor, stamped once on purpose, and listened to the sound come back to her off the walls with her head cocked.
 
 "Good acoustics," she said.
 
@@ -36,7 +36,7 @@ Bal stood, wiped his palm on his pants, and led Amelia inside.
 
 ---
 
-The inside of Mrs. Brown's office showed little in the way of personality. It never had. There were two gray filing cabinets against one wall and a heavy wooden desk in front of the window, and that was nearly all. The only thing in the room that belonged to Mrs. Brown herself was a single picture frame on the corner of her desk, turned toward her chair, showing her husband. He was dead. Bal had known that for years without knowing anything else about it. Otherwise the office was as spartan and bare as a waiting room.
+The inside of Mrs. Brown's office showed little in the way of personality. It never had. There were two gray filing cabinets against one wall and a heavy wooden desk in front of the window, and that was nearly all. The only thing in the room that belonged to Mrs. Brown herself was a single picture frame on the corner of her desk, turned toward her chair, showing her husband. He was dead. Bal had known that for years without knowing anything else about it.
 
 Mrs. Brown was writing something. She did not look up when they came in, and Bal knew better than to interrupt, so they waited just inside the closed door. Her pen scratched steadily across the page. Through the window behind her came a faint crack of the bat, then a cheer.
 
@@ -44,7 +44,7 @@ At last Mrs. Brown finished her line, put down her pen, and raised her head.
 
 She froze.
 
-Her eyes went to his left arm first. Everyone's did, and all his life they had always found the same thing there. Today they found a hand. Then they went to Amelia, to the red eyes and the small blood-red sygl glowing on her forehead, and back to the hand.
+Her eyes went to his left arm first. Everyone's did. All his life they had found the same thing there. Today they found a hand. Then they went to Amelia, to the red eyes and the small blood-red sygl glowing on her forehead, and back to the hand.
 
 Hoping to forestall a lot of questions he wouldn't have any answers to, Bal quickly summarized what had happened.
 
@@ -72,11 +72,11 @@ Bal grinned.
 
 Mrs. Brown studied the sygl. Then she picked up her pen again and tapped it on the desk, thinking.
 
-"I know what you mean," she said slowly, "but they really don't have a choice, do they? I mean, not if she shows up." She pointed the pen at Amelia. "Once they call roll for any blood sygls, you'll stand. Then they'll ask for your originator to acknowledge you. Which is Amelia here." The pen tapped the desk once more. "If she didn't, you couldn't enroll. But she will. So you can."
+"I know what you mean," she said slowly, "but they really don't have a choice, do they? I mean, not if she shows up." She pointed the pen at Amelia. "Once they call for the blood sygls, you'll stand. Then they'll ask for your originator to acknowledge you. Which is Amelia here." The pen tapped the desk once more. "If she didn't, you couldn't enroll. But she will. So you can."
 
 She dropped the pen on the desk and leaned toward them, her wooden chair creaking with the motion.
 
-"They're not going to be happy you're there," she warned them. "Either of you. The only reason they haven't outlawed blood sygls from attending is that they want to be seen as fair." Her mouth went thin. "That's probably why they locked her away, now that I think about it. It made it seem as though she'd simply abandoned her followers."
+"They're not going to be happy you're there," she warned them. "Either of you. The only reason they haven't barred blood sygls from attending is that they want to be seen as fair." Her mouth went thin. "That's probably why the originators locked her away, now that I think about it. It made it seem as though she'd simply abandoned her followers."
 
 "Mostly," Amelia said. "That, and the fact they knew they couldn't win in a straight-up fight with me."
 
@@ -126,7 +126,7 @@ Bal looked into her eyes. They were steady, and none of the teasing was in them 
 
 "So what do I need to do?" he asked Mrs. Brown. The words came out rougher than he meant them to, and he cleared his throat.
 
-"Nothing, except pack the few things you want to take with you," Mrs. Brown said. "I need to reach out to the school, so you'll probably leave here in the morning." She looked at them both, and at their joined hands, and her eyebrows went up a fraction. "The fact that you have a familiar, not to mention that it's your own originator, will cause a stir as well. Most students don't get a familiar until they cover them in class. I'll let the school know you have one, but I'll leave the details out." She glanced down at her letter, which in that office meant you were finished. "For now, it's best you run along and pack. I'll send Pierre for you in the morning."
+"Nothing, except pack the few things you want to take with you," Mrs. Brown said. "I need to reach out to the school, so you'll probably leave here in the morning." She looked at them both, and at their joined hands, and her eyebrows went up a fraction. "The fact that you have a familiar, not to mention that it's your own originator, will cause a stir as well. Most students don't get a familiar until they cover them in class. I'll let the school know you have one, but I'll leave the details out." She glanced down at her letter, which in that office meant the talk was over. "For now, it's best you run along and pack. I'll send Pierre for you in the morning."
 
 ---
 
@@ -142,7 +142,7 @@ Amelia came and stood beside it.
 
 "It belongs to the orphanage," Bal said. "Somebody else can have it next."
 
-As the majority of his belongings were not things of sentimental value, it did not take Bal long to pack. He slid his backpack off and emptied it onto the blanket. Out came the flashlight, the water bottle, *Sygldry Year 2*, and both cheese sandwiches squashed flat in their napkin, which he had forgotten all about. Then he knelt in front of his locker. Most of it he left where it was: shirts with the cuffs gone, comics everyone had read, a jar of marbles. A school would not need his marbles.
+Most of his belongings meant nothing much to him, so it did not take Bal long to pack. He slid his backpack off and emptied it onto the blanket. Out came the flashlight, the water bottle, *Sygldry Year 2*, and both cheese sandwiches squashed flat in their napkin, which he had forgotten all about. Then he knelt in front of his locker. Most of it he left where it was: shirts with the cuffs gone, comics everyone had read, a jar of marbles. A school would not need his marbles.
 
 What he really wanted to take didn't amount to much. A few books. The compass he'd been given for his birthday, brass and dented, with a needle that still swung true. A pocketknife. It was a good pocketknife and he liked it. And, wrapped in a dish towel at the very back of the locker, his rune engraving kit.
 
@@ -150,7 +150,7 @@ It was a flat wooden case with a brass catch and his first scratchy attempts sti
 
 Behind him the bedsprings creaked. When he turned around, Amelia had swiped one of his spell books off the top of the pile and was lying back on his bed with her ankles crossed and her hair spread across his pillow, reading.
 
-The books themselves were old. Their covers were soft at the corners, and one had a ring on the front from a mug of cocoa. The school was going to provide him with new ones. Bal packed these anyway. Fredrick, the boy who had given them to him, had been a friend, and he didn't want to leave them behind.
+The books themselves were old. Their covers were soft at the corners, and one had a ring on the front from a mug of cocoa. The school was going to provide him with new ones. Bal packed these anyway. Fredrick, the boy who had given them to him, was a friend, and he didn't want to leave them behind.
 
 "You know," Amelia commented, turning a page, "most of the stuff they teach first years doesn't seem that hard."
 
@@ -186,7 +186,7 @@ Bal thought about all the stories told in the dark in this very room, and how li
 
 Bal opened his mouth.
 
-"Not without them wanting it," she went on quickly. "Never that. But it can be done. The other originators were shocked when it came out. It used to be a closely guarded secret, honestly. Then Raizen, the storm originator, got one of his followers to kidnap a high priest of mine." Her voice stayed even, but her fingers had tightened on each other. "The others had started to worry because some of their followers were disappearing from their sight. So Raizen's high priest captured one of mine and tortured him to find out what was going on."
+"Not without them wanting it," she went on quickly. "Never that. But it can be done. The other originators were shocked when it came out. It used to be a closely guarded secret, honestly. Then Raizen, the storm originator, had his own high priest kidnap a high priest of mine." Her voice stayed even, but her fingers had tightened on each other. "The others had started to worry because some of their followers were disappearing from their sight. So Raizen's high priest captured one of mine and tortured him to find out what was going on."
 
 "Truthfully, I had other things on my mind at the time," Amelia said. "I didn't realize that one of my high priests had gone on a converting crusade. The others wouldn't believe I had nothing to do with it." She lifted one shoulder. "To be fair, if I'd known, I'd have been fine with it. The only reason converting bothers the others is that when someone converts, they keep the inherited gifts from their old sygl."
 

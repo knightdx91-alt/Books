@@ -12,7 +12,7 @@ Amelia hadn't stirred from the hearth.
 
 On the couch, two heads lifted from the rune homework at once. Viridia's book slid an inch down her lap before she caught it.
 
-"I heard Mr. Porter talking to Mr. Winters about it earlier," Amelia said. "Quite excitedly. Apparently, when the originators called the teachers in this morning, he told them that neither Lora nor Viridia spends any time with her own sygl anymore." She turned her head at last, enough to find Viridia. "Plus you have a bloodwolf familiar. That's what did it, I think. Raizen wouldn't want anyone who carries his rarest inheritance gift walking around with something so clearly connected to me."
+"I heard Mr. Porter talking to Mr. Winters about it earlier," Amelia said. "Quite excitedly. Apparently, when the originators called the teachers in this morning, Mr. Porter told them that neither Lora nor Viridia spends any time with her own sygl anymore." She turned her head at last, enough to find Viridia. "Plus you have a bloodwolf familiar. That's what did it, I think. Raizen wouldn't want anyone who carries his rarest inheritance gift walking around with something so clearly connected to me."
 
 Viridia said nothing.
 
@@ -24,11 +24,11 @@ Lora considered the news about Kenmei for perhaps a second, and found nothing in
 
 That surprised him more than anything Amelia had told him yet.
 
-"So Raizen asked Mr. Porter if he had any suggestions," Amelia said, "and he did. Ban all students from socializing with other students, except in class, or when they're off the grounds." She paused. "He also said they should make you release Hopper."
+"So Raizen asked Mr. Porter if he had any suggestions," Amelia said, "and he did. Ban students from socializing with other sygls, except in class, or when they're off the grounds." She paused. "He also said they should make you release Hopper."
 
 That last was to Viridia.
 
-Hopper was asleep across both girls' feet, collar-small, and she went on sleeping.
+Hopper was asleep across both girls' feet, shrunk small by her collar, and she went on sleeping.
 
 "Can they do that?" Viridia's voice climbed as she said it.
 
@@ -44,7 +44,7 @@ Tomorrow they could be told to choose: stop coming around Bal, or be expelled. A
 
 Six weeks had done something to the four of them. Saturdays on the road, the bear, the snake, the stew at midnight on the square. Bal couldn't have named the day it happened, but somewhere in there none of them could have stood to lose the others.
 
-He reached over and closed the history book. It had been full of ideas about Toma, and Toma could wait. He squared it with the table's edge, though nobody had asked him to, and swung around on the cushion toward the girls.
+He reached over and closed the history book. It had given him a few ideas about Toma, and Toma could wait. He squared it with the table's edge, though nobody had asked him to, and swung around on the cushion toward the girls.
 
 He had known for weeks what he would say, if it came to this. How Viridia would react, he still couldn't guess.
 
@@ -70,11 +70,11 @@ Lora and Viridia looked to each other, then back at him.
 
 "Would I lose my inheritance?" Viridia asked.
 
-"No. You wouldn't." He hesitated, then gave her the rest of it, since it was true. "Actually, it's possible to gain another inheritance gift."
+"No. You wouldn't." He hesitated, then gave her the rest of it. "Actually, it's possible to gain another inheritance gift."
 
 They were both quiet, weighing it. It scared him a little how badly he wanted to hurry them. He said the hard parts instead.
 
-"Look, you need to think carefully about this. There's no way to reverse it. And you have to think about your families too. You both know how a lot of blood sygls get treated." He was in the villages in his head, in Thad's narrow room with the bad news. He pulled himself back out of it. "I care about both of you, and I would absolutely hate to lose you. But I don't want either of you to be unhappy."
+"Look, you need to think carefully about this. There's no way to reverse it. And you have to think about your families too. You both know how a lot of blood sygls get treated." His mind went to the villages, to Thad's narrow room and the bad news. He pulled himself back out of it. "I care about both of you, and I would absolutely hate to lose you. But I don't want either of you to be unhappy."
 
 ---
 
@@ -89,8 +89,6 @@ Lora waved that away.
 "I've hardly ever had a reason to call on that side of my magyk. So that isn't important." Then, more carefully: "The teachers can't retaliate, can they? If we do this?"
 
 "Nope. I mean, what else could they do? You won't be in their sygl anymore. And if a Lead Mage tries anything, I've got an in with the Blood Lead Mage."
-
-He was extremely pleased with that one.
 
 Viridia let out a pained sigh. Lora laughed, a short helpless burst she tried to catch in her sleeve and couldn't.
 
@@ -142,9 +140,9 @@ They did. Lora's Waves sygl, Viridia's Tempus sygl, in the middle of each palm. 
 
 He meant to change one thing from her instructions. He would do them both at once.
 
-He cut his own left palm first, and deep. It stung and then mostly stopped stinging. Blood welled up and pooled in the cup of his hand, dark against the sygl.
+He cut his own left palm first, and deep. It stung, then mostly stopped. Blood welled up and pooled in the cup of his hand, dark against the sygl.
 
-He offered the dagger hilt first. His hand was not quite steady, and both girls saw. Nobody mentioned it.
+He offered the dagger hilt first. His hand was not quite steady, and he saw both girls notice. Nobody mentioned it.
 
 Viridia took it, and drew it across her palm without a sound, and passed it on. Lora cut herself with a neat, quick stroke. Then she wiped the blade on her pant leg and laid it aside, out of everybody's way.
 
@@ -152,15 +150,15 @@ Three left palms, open, bleeding.
 
 Bal reached for his blood.
 
-It rose from his palm when he called it, and he split it into two thin streams, red threads in the firelight, and sent them over to the girls' waiting palms. Where his blood touched theirs, theirs gave way. It retreated into the cuts. It went back so far that in a breath both palms were bare, no blood and no sygl. Their hands were clear and white from the heel to the fingers. The only red on them was his, sinking into the cuts.
+It rose from his palm when he called it, and he split it into two thin streams, red threads in the firelight, and sent them over to the girls' waiting palms. Where his blood touched theirs, theirs gave way. Their blood retreated into the cuts. It went back so far that in a breath both palms were bare, no blood and no sygl. Their hands were clear and white from the heel to the fingers. The only red on them was his, sinking into the cuts.
 
 He pushed it deeper.
 
-The cut in his palm was nothing. The pushing was the work. It had to be steady and it had to be gentle, both at once, in two people at the same time, and those two people were Lora and Viridia. Sweat ran down behind his ear. He did not wipe it. He did not dare take his mind off either thread for long enough to lift a hand.
+The cut in his palm was nothing. The pushing was the work. It had to be steady and it had to be gentle, in two people at the same time, and those two people were Lora and Viridia. Sweat ran down behind his ear. He did not wipe it. He did not dare take his mind off either thread for long enough to lift a hand.
 
 It went in. Through it, he knew how far there still was to go. He followed it down until something in each of them pushed back, warm and dense and theirs, the place where their magyk lived.
 
-Bal grunted and leaned on it, and his blood rolled over theirs and took it.
+Bal grunted and leaned on it, and his blood rolled over theirs and took hold.
 
 The cuts closed. They shut together, both of them, and pinched off his blood in midair. The two red threads fell back into his hand.
 
@@ -198,7 +196,7 @@ Hopper padded over from the table and claimed the spot where Amelia had been wit
 
 The room was much quieter.
 
-In the morning, Bal thought, Mr. Porter would carry his new rule into the hall at breakfast, and he would bring it to their table, and he would find out it was too late. Bal discovered he was looking forward to breakfast.
+In the morning, Bal thought, Mr. Porter would carry his new rule into the hall at breakfast, bring it to their table, and learn it was too late. Bal discovered he was looking forward to breakfast.
 
 "You know," he said, "I've only got one bedroom."
 

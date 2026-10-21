@@ -10,19 +10,19 @@ Verin slowed Thistle to a walk and fell in behind a buggy with three passengers 
 
 She had the Tempus sygl on the back of her sweater.
 
-Bal twisted to check his own back, which was still blank, exactly as Verin had promised it would be. The girl's sygl was sharp and angular, and whenever the sun broke through the branches and landed on it, the thing crackled. Tiny threads of light jumped across the wool and vanished. Bal caught it three or four times and couldn't work out whether the sweater was doing it or the girl was.
+Bal twisted to check his own back. What little showed of it was still blank, exactly as Verin had promised it would be. The girl's sygl was sharp and angular, and whenever the sun broke through the branches and landed on it, the thing crackled. Tiny threads of light jumped across the wool and vanished. Bal caught it three or four times and couldn't work out whether the sweater was doing it or the girl was.
 
 Since they were all in the same buggy, he figured the three of them were siblings.
 
 Amelia had her chin propped on her fist and was watching the sparks too.
 
-It wasn't long until he caught his first view of the school.
+It wasn't long before he caught his first view of the school.
 
 At the top of a long rise the trees fell away, and there it was across a wide green valley, the school where every Heir began. It was the oldest of all the schools the originators had made, though no one knew exactly when it was built. From a distance it could have been a castle out of a picture book, an enormous ornate pile of pale stone. Five stone towers stood around it, one for each of the originators, but the main building in the middle was so massive it made the towers look slender.
 
 Five. Bal worked out what that meant and stole a look at Amelia.
 
-Her eyes were on the towers too. Which one was hers, she kept to herself.
+Her eyes were on the towers too. Which one was hers, she didn't say.
 
 As they came down into the valley, the school kept growing. A great castle wall ran right around it, high and thick, with the tops of the towers standing up behind it. The road ran straight to a gate of black iron, and the gate was up. Bal craned his neck as Verin drove them underneath. The bottom of the gate was a row of iron points, each one longer than his arm, hanging over the road.
 
@@ -44,7 +44,7 @@ Verin pulled the buggy to the side, clear of the carriages still unloading, and 
 
 "Thank you," Bal said. "For the stew, and everything."
 
-Verin gave him that grandfather's smile again. "Good luck to the both of you."
+Verin gave him that easy smile again. "Good luck to the both of you."
 
 They waved to him as he turned the buggy around. Thistle took the turn without any hurry, and the buggy went back out under the iron points and was lost among the other carriages. Verin was going home, to his cottage and his fire pit and his one chair. He had no idea who had slept on his floor.
 
@@ -126,7 +126,7 @@ Raizen read on. The last few students went up.
 
 Raizen stopped reading and took his seat.
 
-He and Amelia were the only two people left standing in front of the stage.
+Bal and Amelia were the only two people left standing in front of the stage.
 
 A pigeon was walking on the flagstones, and Bal could hear its feet. Back where all the lines stood, a whisper started up, and then another, as the students there noticed that Raizen had finished and the two of them were still standing there.
 
@@ -158,7 +158,7 @@ She looked at Aren. Then she looked past him at the others, Kenmei, Naisura, Rai
 
 She clapped her hands, once.
 
-It wasn't loud. Half the students at the back probably never heard it. But Aren stumbled backward as if the stage had tipped under him, and caught himself on the arm of his own throne. Kenmei's hands had locked onto the arms of hers. Naisura sat bolt upright. Raizen's hands came apart. The same shock was on every one of their faces.
+It wasn't loud. Half the students at the back probably never heard it. But Aren stumbled backward as if the stage had tipped under him, and caught himself on the arm of his own throne. Kenmei's hands had locked onto the arms of hers. Naisura sat bolt upright. Raizen's hands came apart.
 
 Bal turned his head.
 
@@ -166,7 +166,7 @@ She looked exactly the same to him. Black hair, pale skin, the ruby earrings, th
 
 "I disguised myself," Amelia muttered to him out of the side of her mouth. "You could see me as I was. No one else could."
 
-That made sense, Bal thought. A lot of sense. He faced the stage again.
+That made sense, Bal thought. He faced the stage again.
 
 Amelia sprang lightly up onto the edge of it. The originators followed her with their eyes the whole way, warily, none of them moving. She paid them no attention. She walked along behind Aren and Kenmei and Naisura and Raizen, past each of their thrones in turn, to the end of the row, where she turned and took her seat.
 
@@ -190,7 +190,7 @@ The coldness left her face. She turned to Bal and motioned with two fingers for 
 
 He went up the side steps and around the back of the thrones, and there they all were.
 
-Every student in the school's first year was standing back there in four lines, with the space behind the fifth throne left bare. All of them were staring at him. Some looked confused. Some looked awed. A few, here and there, looked downright excited. A boy near the front of the Terra line had his mouth open, and nobody had told him.
+Every first-year in the school was standing back there in four lines, with the space behind the fifth throne left bare. All of them were staring at him. Some looked confused. Some looked awed. A few, here and there, looked downright excited. A boy near the front of the Terra line had his mouth open, and nobody had told him.
 
 Bal went and stood behind Amelia's throne by himself. It was the shortest line in the courtyard by a wide margin.
 

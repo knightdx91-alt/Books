@@ -31,7 +31,7 @@ word_floor:
 
 phase:
   current: 2
-  status: "BOOK PASSES 2026-10-21: all 30 chapters to the author's script in source order (90,082w), NA (new adult; romantic leads 18+). Full-manuscript evaluation 5 (evaluations/eval-full-manuscript-5.md, after the NA age-up) scores Floor 8.5 / Avg 8.5 / Casual 8.5; its age-audit fixes A1-A3 and NA fixes N1-N5 applied; all mechanical gates clean. Closing line is PROVISIONAL (author: 'a for now'). Next: author read-through, then packaging (front matter to state all characters are 18+)."
+  status: "BOOK PASSES 2026-10-21: all 30 chapters to the author's script in source order (90,009w), NA (new adult; romantic leads 18+). Full-manuscript evaluation 5 (evaluations/eval-full-manuscript-5.md, after the NA age-up) scores Floor 8.5 / Avg 8.5 / Casual 8.5; its age-audit fixes A1-A3 and NA fixes N1-N5 applied; all mechanical gates clean. Closing line is PROVISIONAL (author: 'a for now'). Next: author read-through, then packaging (front matter to state all characters are 18+)."
   history:
     - "2026-07-13: architect pass (24-chapter outline); Ch.1–3 drafted and gated."
     - "2026-10-20: author ruled the plan must follow the original script; plan rebuilt to 30 chapters in source order; Ch.1–3 sent back for rewrite."
@@ -60,9 +60,7 @@ guardrails:
   - "NO TICS (repo law 2026-10-18); sole exception: Amelia may call Bal 'Master' (author ruling 2026-10-20)."
   - "Fade-to-black. Happy ending as the source has it. KEEP SEPARATE from the-fourfold-crown."
 
-open_author_decisions:
-  - "2026-10-21 PENDING (author: hold until the ChatGPT analysis is in, then decide together): Muse reading-notes triage, evaluations/muse-triage-2026-10-21.md. (1) Apply the 12 surgical fixes B1-B12 (gate-clean on a scratch copy): Ch.1 age + surname line; Ch.1 concrete->stone; Ch.4 kidnapper = Raizen's high priest; Ch.12 breakfast at dinnertime; Ch.14 two hours after leaving New Spring; Ch.15 lowest of the four; Ch.18 war rule adds new priests; Ch.18 lake in the last week; Ch.18 Aurora felis potions brewed in time; Ch.21 'The name meant nothing'; Ch.24/25 remove the cask dent. (2) Optional one-liners: Ch.20 'Blood magic had no need of the sygl hand.'; Ch.22 Xavier's directions to the Winespring; Hopper stays at the dorm when they leave for Londra. (3) Recommended to leave: conversion pacing, climax by accident, Ch.27 mysteries, ring's 'other things', Bal pushing back on Amelia (conflicts with ruling)."
-  - "2026-10-21 PENDING (same hold): Muse sentence-level close reading triaged (664 flags) — 219 more apply-ready edits on top of B1-B12 (231 total), tested together: all gates clean, but the book would land at 89,841 words (159 under 90k), so an offset is needed. Full list and options: evaluations/PENDING-FIXES.md; apply with evaluations/fixsets/apply_all.py."
+open_author_decisions: []
 
 decisions:
   - "This book is a folder-per-book project at books/sygl-book/; blueprint stays in project/."
@@ -95,6 +93,7 @@ decisions:
   - "2026-10-21 (author): Winespring Inn set up in Ch.22 (option A): Xavier's briefing adds that Lady Amelia wrote ahead for rooms there, which the innkeeper's \"We had your letter\" (Ch.24) pays off."
   - "2026-10-21 (author): Toma's fate closed in Ch.30 (option A): Aren took him to the Heir's School, where the healers will look after him until he is well."
   - "2026-10-21 (author): SUPERSEDED the same day — the book is NA (new adult), not YA, because it is a harem story. Bal and Amelia (turned at) are aged up from the source's sixteen to EIGHTEEN; Viridia is a little older; every romantic lead is 18+. Romance stays fade-to-black; \"Master\" stays rare. Peter (shunned at sixteen) is not a romantic lead and keeps his source age. Grok's outside assessment: only its line-edit items taken, story unchanged."
+  - "2026-10-21 (author): outside reads from Muse (chapter notes + sentence-level close reading) and ChatGPT (29-installment close reading + editorial assessment) triaged; story-level asks that conflict with rulings declined. Author decided 7 items one by one (evaluations/PENDING-FIXES.md). 261 edits APPLIED (evaluations/fixsets/apply_all.py): book 90,009 words, all gates clean."
   - "2026-10-20 (author): spelling is Sygl / sygl / sygls / sygl-less everywhere; never sigil or sygil."
   - "2026-10-20 (author): tone and meaning back to source. Bal's violence is justified (Iro hangs from the blood whip; no enjoyment, no self-fear, no guilt over the conversions); Amelia is not a manipulator (no 'trap of affection', no 'ownership disguised as approval', no 'safer feared than loved'); the ending is unambiguously happy ('the first day of the rest of their life together'); the premise is converting willing loved ones (and Toma by accident), not stealing other gods' followers."
   - "2026-10-20 (author): restored beats: Mr. Winters' runes class and the avoidance rune; the six-week time-skip and the flaming dagger; the arrow-rune shirts; the juggling talk ('I do not feel more strongly for one over the other'); 'I like you too'; Viridia's breakdown and Bal & Lora's 'we'll figure it out, together'; Amelia's 'I feel useless' walk; Raizen cheating by teleporting assassins (why Amelia wins her concession); Toma's army approaching; the blood elemental sent to Amelia's domain."

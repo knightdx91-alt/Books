@@ -8,7 +8,7 @@ They walked to breakfast with one of them on each side of him. The corridors wer
 
 He pushed both doors open and held them so the girls could go in first.
 
-The noise of the hall faltered. Heads came around, a few at first and then whole benches of them. Then the heads stayed around. They had seen Lora's back, and Viridia's.
+The noise of the hall faltered. Heads came around, a few at first and then whole benches of them. Then the heads stayed turned. They had seen Lora's back, and Viridia's.
 
 The Tempus students ate at the table beside Bal's own, the last in the hall, and the three of them had to pass every bench of it to reach their places. A girl near the end of it stopped with a spoon of oatmeal halfway up and stared at the sygl sliding past her. She dropped the spoon and drove her elbow into the ribs of the boy beside her.
 
@@ -32,7 +32,7 @@ Bal was already moving. Nothing in him stopped to decide.
 
 His right palm lifted from the table, open, and the blood leapt from it.
 
-The middle of the palm split open on its own, a clean line he never had to cut, and the blood poured from it and did not fall. It ran out into the air in a long dark rope, as thick as two of his fingers and bright where the light from the high windows caught it. It cracked over the table between the plates. It struck Sean in the chest and knocked him off Viridia and back two staggering steps, and then it was gone, drawn back into Bal's hand, and nothing on the table had been touched except Viridia's torn breakfast order.
+The middle of the palm split open on its own, a clean line he never had to cut. Blood magic had no need of the sygl hand. The blood poured from it and did not fall. It ran out into the air in a long dark rope, as thick as two of his fingers and bright where the light from the high windows caught it. It cracked over the table between the plates. It struck Sean in the chest and knocked him off Viridia and back two staggering steps, and then it was gone, drawn back into Bal's hand, and nothing on the table had been touched except Viridia's torn breakfast order.
 
 Viridia rubbed her arm once, hard.
 
@@ -80,7 +80,7 @@ Bal glanced back at the girls. "Girls?"
 
 They lifted their left hands, one and then the other, and turned the palms out to the room. The blood sygl was on each of them, dark as his own. Viridia held hers up and turned in a slow half-circle so the tables behind her got a look too. Lora held hers still, pink to the ears, and her arm did not waver.
 
-"I assure you, it's very possible," Bal said. "Now, are you going to punish Sean for interfering with another sygl's member, Mr. Porter?"
+"I assure you, it's very possible," Bal said. "Now, are you going to punish Sean for interfering with a member of another sygl, Mr. Porter?"
 
 Mr. Porter found no answer at all.
 
@@ -88,9 +88,9 @@ Mr. Porter found no answer at all.
 
 ---
 
-He had not meant to go on. But the hall had gone quiet again to hear what came next, all of it, the Terra and Waves tables and the teachers with their forks halted, and he found he had more.
+He had not meant to go on. But the hall had gone quiet again to hear what came next, the Terra and Waves tables and the teachers with their forks halted, and he found he had more.
 
-"I know you've heard a lot of bad things about blood mages," he said. "So let me set the story straight, here and now. Blood mages aren't any crazier than anybody else in this hall. That's a lie, and people like Mr. Porter here keep spreading it so you'll keep hating us."
+"I know you've heard a lot of bad things about blood mages," he said. "So let me set the story straight, here and now. Blood mages aren't any crazier than anybody else in this hall. The stories saying so are lies, and people like Mr. Porter here keep spreading them so you'll keep hating us."
 
 Mr. Porter's napkin had been crushed into a ball in his fist.
 
@@ -128,7 +128,7 @@ Bal started for the doors, and the girls fell in beside him. Nobody on any bench
 
 ---
 
-Once the doors closed behind them, the girls talked nonstop. Viridia did Sean sliding down the table with her flat hand, five times at least, with sound effects, while Lora tried to wring the milk from her skirt and kept having to stop.
+Once the doors closed behind them, the girls talked nonstop. Viridia did Sean sliding down the table with her flat hand, five times at least, with sound effects, while Lora tried to wring the milk from her skirt and kept having to stop to laugh.
 
 Bal walked between them and only half heard.
 
@@ -142,7 +142,7 @@ Maybe he'd ask Amelia about this new temper later.
 
 Amelia was waiting for them in the dorm, humming to herself. She had been to the originators in the night, and she had enjoyed their faces enormously when she made her declaration.
 
-"Raizen tried to act as though he hadn't seen it coming." She sat on the arm of the couch. "As if I couldn't tell. He was hoping to find all of my priests first, before he had to declare war on me." That made her laugh out loud.
+"Raizen tried to act as though he hadn't seen it coming." She sat on the arm of the couch. "As if I couldn't tell. He was hoping to find all of my priests first, before I could declare war on him." That made her laugh out loud.
 
 Then she turned to Lora and Viridia.
 
@@ -164,7 +164,7 @@ The whip was a common weapon among blood mages. It still took concentration and 
 
 After that the talk went to the war. Amelia and Bal laid out for the girls some of what Raizen had been doing in his villages, and the girls listened without interrupting, which was not like either of them.
 
-"It's honestly a good thing hardly anyone in your village gets a sygl," Bal said to Viridia. "He ought to leave your village alone."
+"It's honestly a good thing hardly anyone in your village gets a sygl," Bal said to Viridia. "He'll probably leave your village alone."
 
 Viridia did not answer that.
 

@@ -20,7 +20,7 @@ It had taken a while for the girls to treat Amelia like any other girl. They had
 
 Her hair was plastered flat to her head and her face was wide open, and her smile made his heart hurt.
 
-Three thousand years, and this was what she looked like underneath them. It was a sight to see.
+Three thousand years, and this was what she looked like underneath them.
 
 The sun was hot on the rock. The girls' voices carried across the lake and back, and somewhere among them he stopped hearing the words.
 
@@ -66,7 +66,7 @@ He came in fast. He slashed to the right and then up. Bal let the sword slide al
 
 "You'll have to do better than that," he said. "How you ever managed to kill Heath with sword work that shoddy, I can't imagine."
 
-Heath meant nothing to Bal.
+The name meant nothing to Bal.
 
 They traded blows. The stranger was quick and loose and he never stopped talking. On the fourth or fifth exchange his blade went past Bal's guard and opened a long slice down Bal's left side, and the shirt there went dark and began to cling.
 
@@ -92,9 +92,9 @@ Lora, with the dent on her nose. Viridia's hand open on the rock.
 
 He darted in again. He feinted right and swept low, and the blade bit deep into Bal's right thigh.
 
-Bal felt it. He let it happen. He gave one step back, only one, and swung his left fist into the man's face as hard as he had ever hit anything.
+Bal felt it. He gave one step back, only one, and swung his left fist into the man's face as hard as he had ever hit anything.
 
-The man had not been expecting that. His head rocked back and Bal kicked the sword free and hit him again. The man went scrambling after his weapon on hands and knees through the weeds, and Bal kicked him in the side, hard, and sent him into the tree behind him. He hit it with a sound like a dropped sack and slid to its foot.
+The man had not been expecting that. His head rocked back and Bal kicked the sword free and hit him again. The man went scrambling after his weapon on hands and knees through the weeds, and Bal kicked him in the side, hard, and sent him into the nearest tree. He hit it with a sound like a dropped sack and slid to its foot.
 
 The world got very quiet.
 
@@ -118,7 +118,7 @@ Iro had stopped fighting it. All the chatter had drained from him, and his face 
 
 How they had known Heath was dead, at least, Bal could guess. A red-gold heart on Heath's right hand, back on the Whitehaven road. Somebody on Raizen's side had been wearing its pair, and had felt it stop.
 
-Sweat was running down Iro's face into his collar. He had nothing left to hide behind. Bal knew he was telling the truth.
+Sweat was running down Iro's face into his collar. He had nothing left to hide behind. Bal believed him.
 
 "Okay then."
 
@@ -148,7 +148,7 @@ She was up and running. Her long brown hair flew out behind her.
 
 Viridia and Amelia came up behind her.
 
-Viridia took the knotted shirt from him and set it on the ground, so they could all see him properly. There was the long cut down his left side that was still oozing. There was a scatter of smaller ones over his ribs and stomach he had not even felt go in. Viridia walked around him and found the one across his back, from his right shoulder to his left hip, and muttered something under her breath that Lora did not scold her for. There was the thigh. His pant leg was black with it to the knee. That was the one that was going to hurt most, now it had started hurting. The blade had gone through into the muscle.
+Viridia took the knotted shirt from him and set it on the ground, so they could all see him properly. There was the long cut down his left side that was still oozing. There was a scatter of smaller ones over his ribs and stomach he had not even felt land. Viridia walked around him and found the one across his back, from his right shoulder to his left hip, and muttered something under her breath that Lora did not scold her for. There was the thigh. His pant leg was black with it to the knee. That was the one that would hurt most, now that it had started. The blade had gone deep into the muscle.
 
 Amelia got him down onto the grass.
 
@@ -206,7 +206,7 @@ She had gone to Raizen's domain first, she told them, because she had been certa
 
 Viridia had stopped chewing.
 
-"The others had no idea what I was talking about. Raizen did. It was all over his face." Amelia was enjoying this. "So Aren asked me to explain. I did. Aren turned around and asked Raizen if it was true. And Raizen didn't deny it."
+"The others had no idea what I was talking about. Raizen did. It was all over his face. So Aren asked me to explain. I did. Aren turned around and asked Raizen if it was true. And Raizen didn't deny it."
 
 She paused for the space of one strawberry.
 

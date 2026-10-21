@@ -52,7 +52,7 @@ Lora arrived last, at a run, and Bal saw she had a rapier at her hip that had ne
 
 "My father had it made for me. After the tournament." Lora drew it a few inches to show him the blade. "It's enchanted. It never needs sharpening." She slid it home, and for once she didn't mind the attention.
 
-Bal tried Amelia. "We could still get you something. Zoran wouldn't mind."
+Bal faced Amelia. "We could still get you something. Zoran wouldn't mind."
 
 Amelia was scratching Hopper behind the ears. The offer caught her off guard.
 
@@ -66,7 +66,7 @@ Ms. Summers was a small, stooped woman wrapped in two shawls. She heard who they
 
 "I normally hire a team to see me through those woods," she said. "I'm not up to it this year." She looked at the four of them, and at the wolf on her step, and decided that they would do. "Mind the river. That's where they grow."
 
-Lora asked how the flowers ought to be cut, and how long they would keep once they were. Ms. Summers' face lit up. She answered at length, and Lora wrote it all down on the back of an old receipt against the doorframe, every word, and buttoned it away in her breast pocket.
+Lora asked how the flowers ought to be cut, and how long they would keep once cut. Ms. Summers' face lit up. She answered at length, and Lora wrote it all down on the back of an old receipt against the doorframe, every word, and buttoned it away in her breast pocket.
 
 Leaving the square, they bought food for the night, and Hopper took a great interest in the jerky. It all went into Bal's pack.
 
@@ -92,7 +92,7 @@ Hopper grew. She grew as if she were unfolding from inside herself, legs lengthe
 
 "I'm glad you thought to buy that collar," Bal said. "I'm not sure how the people back there would have taken a full-sized bloodwolf walking down the street."
 
-Clear of the castle, Hopper left the road at once and ranged ahead of them, out to the edge of the trees and back again, nose down and then up, checking everything for them. Lora said her raven would have liked this. It was sick, though, and she had left it at the castle rather than risk it getting hurt.
+Clear of the town, Hopper left the road at once and ranged ahead of them, out to the edge of the trees and back again, nose down and then up, checking everything for them. Lora said her raven would have liked this. It was sick, though, and she had left it at the castle rather than risk it getting hurt.
 
 ---
 
@@ -102,7 +102,7 @@ Bal was getting the water skin out when Hopper growled.
 
 She had turned to face the woods. She was down low on her front legs, and the growl came up from somewhere deep in her chest and kept coming, and all the hair along her back stood up in stiff tufts like a porcupine's quills.
 
-Everyone had their weapon out before they had finished standing.
+Every weapon was out before they had finished standing.
 
 Seven men stood at the edge of the forest, silent, watching them. Six were in their twenties or thirties. The seventh was much older, with gray hair cropped short and a big, heavy body. The six wore leather armor that was decent enough. The older man wore a shirt of steel mesh that had seen better days. It was pitted in places, and there was dried blood on the rings.
 
@@ -120,7 +120,7 @@ He shifted his weight toward her and kept his voice low.
 
 "Can you use the ring to shake the ground under them? It should give us a chance to get to them before they can shoot."
 
-Viridia didn't answer. Her lids drooped. She was already reaching for whatever it was inside the band that she had to reach for.
+Viridia didn't answer. Her lids drooped. She was already reaching for whatever lay inside the band.
 
 Bal hoped none of the seven was Terra. This was Kenmei's domain, strictly speaking, so it was possible. There was no way to tell. All seven had weapons in their hands, and a hand holding a weapon did not show you its palm.
 
@@ -142,7 +142,7 @@ A rapier was not a hacking blade. Lora had told him that the first week, and Zor
 
 He kept moving. He parried and stabbed and circled. The big man was slow, but whenever his sword met Bal's, it went up Bal's arm and into his teeth, and he did not tire. Bal put the point into his shoulder and felt it skid on the mail. He put it into the meat of his upper arm and felt that one go in. The big man grunted and came on.
 
-Somewhere to the left a great axe was whistling. Bal circled and caught it at the edge of his sight. A young bandit with an axe was swinging it in wide wild arcs at Viridia, and Viridia was darting in and out between swings and stabbing him, and each time she drew blood he roared and swung harder. Bal circled. The axe came round flat and caught her spear and tore it clean out of her hands. The spear went spinning end over end. Then gray and red hit the axeman from the side, and Hopper had him, and he did not get up.
+Somewhere to the left a great axe was whistling. Bal circled and caught it at the edge of his sight. A young bandit with an axe was swinging it in wide wild arcs at Viridia, and Viridia was darting in and out between swings and stabbing him, and each time she drew blood he roared and swung harder. The axe came round flat and caught her spear and tore it clean out of her hands. The spear went spinning end over end. Then gray and red hit the axeman from the side, and Hopper had him, and he did not get up.
 
 Bal circled. Parry. Stab. Parry.
 
@@ -168,15 +168,15 @@ The man showed his teeth. There were not many of them, and those he had were bro
 
 "Want to kill me yourself, huh?" He lunged low, trying for Bal's legs, and Bal skipped back. "Don't blame you. Not with those pretty girls watching. I'll have some fun with them, once I'm done with you."
 
-Bal stepped back, out of reach, and dragged his good wrist across his eyes. It came away wet, sweat and something else.
+Bal stepped back, out of reach, and dragged his sword wrist across his eyes. It came away wet, sweat and something else.
 
 The girls were all in a line on the road behind him.
 
-Lora had her rapier lowered and her left hand pressed to her stomach. Viridia had her spear back and was up on her toes. Next to Lora stood Amelia. She had come one step off the road toward him and no farther, and her two hands were holding each other back.
+Lora had her rapier lowered and her eyes on the fight. Viridia had her spear back and was up on her toes. Next to Lora stood Amelia. She had come one step off the road toward him and no farther, and her two hands were holding each other back.
 
 Bal took in all three for the length of one breath.
 
-Then he stepped forward with his rapier high, jabbed at the bandit's face, and slashed. The bandit parried. They traded blows, high and low, across the bucked-up dirt, for what seemed an hour and was probably a minute, and then Bal dropped straight down onto his knees and put the point of his rapier through the old man's right knee and out the back of it.
+Then he stepped forward with his rapier high, jabbed at the bandit's face, and slashed. The bandit parried. They traded blows, high and low, across the bucked-up dirt, for what seemed an hour and was probably a minute, and then Bal dropped straight down onto his knees and put the point of his rapier through the old man's unprotected right knee and out the back of it.
 
 The man howled. His leg folded and he fell, still swinging, the longsword whipping round in a wild flat circle. He tried to rise and his knee would not have it. He settled for swinging, round and round, to keep Bal off.
 
@@ -230,7 +230,7 @@ Hopper came down from the trees to the log. She smelled of wolf and hard work. B
 
 Once he was bandaged up, they went through the bandits for anything worth taking. Bal wiped the rapier clean on a dead man's sleeve and slid it back into its scabbard. Viridia kept her spear in her hand.
 
-They found very little. A few coins. The crossbows, which none of them knew how to use.
+They found very little. A few coins. The crossbows, which none of them knew how to use, so they left them.
 
 On their leader's right hand was a ring. It was a heart, in red gold, small and well made.
 
@@ -298,7 +298,7 @@ Lora sat straight up.
 
 Viridia announced that she would wear anything, as long as it wasn't brown.
 
-Lora finished her cheese. Then she brushed off her hands and planted herself over Bal until he understood that she meant him.
+Lora finished her cheese. Then she brushed off her hands and stood over Bal until he understood that she meant him.
 
 "Up," she said. "You stumbled because your back foot was too far behind you. Here. Look." She put him in his stance and kicked his heel in an inch. "And you keep dropping your point after a lunge. Every time. He saw it by the third one. Again."
 

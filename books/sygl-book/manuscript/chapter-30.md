@@ -64,7 +64,7 @@ He wanted to ask whether Viridia had given anybody lip. He'd ask later. He had a
 
 "We knew you'd come," Lora said, once there was no more to tell. She said it simply, as a fact she had checked.
 
-Not for one minute had they doubted it. Down in the dirt below the platform, with the storm mage's whip humming over his face, he had told them he was sorry. He had asked them to forgive him. And all that while, somewhere Bal couldn't even picture, these two had been sure of him, surer than he'd been of himself on any single mile of that road.
+Down in the dirt below the platform, with the storm mage's whip humming over his face, he had told them he was sorry. He had asked them to forgive him. And all that while, somewhere Bal couldn't even picture, these two had been sure of him, surer than he'd been of himself on any single mile of that road.
 
 There was no answer to that in him. He stood there in his torn pants and couldn't get over them.
 

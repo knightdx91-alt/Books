@@ -18,7 +18,7 @@ From his pillow he could make out a few lines in a narrow, slanting hand and a l
 
 "They know I'm here. Not as one of Amelia's. As someone with Raizen's inheritance gift. They'd like to meet me."
 
-The cask sat on the table opposite the bed, untouched since last night, with the fresh boot-heel dent in it. Viridia's attention went to it and did not leave.
+The cask sat on the table opposite the bed, untouched since last night. Viridia's attention went to it and did not leave.
 
 "Well. It's just as well I bought them a gift."
 
@@ -108,7 +108,7 @@ Viridia's face did not change. Her hands did. They had been resting on the table
 
 A table away, Lora had heard every word. Her cup was halfway to her mouth. She had gone white to the lips.
 
-There was no antidote. Lora had read them that part of the book too. No one had found a cure for nightstalker poison.
+There was no antidote. Lora had read them that part of the book too.
 
 Viridia lifted her eyes to Bal. Whatever had been in them a moment ago was gone, and what was there now was something set and hard, and he understood it. She had already decided. If drinking with them was what it took to kill these priests, she would drink, and she would die of it a day from now along with them.
 
@@ -124,7 +124,7 @@ He reached the bar. The long-faced man set down his glass.
 
 "A small cup," Bal said. "For my lady."
 
-The man went through a door at the back. Bal waited at the bar and let the shelves go by in front of him without taking in any of it. Rows of glass bottles, green and brown and clear. A clock somewhere ticking. His mind kept running in circles, out the door, back to the table, out again, and finding nothing at either end.
+The man went through a door at the back. Bal waited at the bar and looked along the shelves without taking in any of it. Rows of glass bottles, green and brown and clear. A clock somewhere ticking. His mind kept running in circles, out the door, back to the table, out again, and finding nothing at either end.
 
 One of the bottles had a mark on it.
 
@@ -144,7 +144,7 @@ His other palm, the right, split open by itself. A thread of blood slid from the
 
 He carved fast. The purification rune was one he had copied off Mr. Winters' chalkboard that first week, stroke by stroke, and his hand had not forgotten the order of them. The blood blade cut the wood as easily as soap, and the shavings curled away and dropped to the floorboards at his feet.
 
-There might not be a cure for nightstalker poison. But a purification rune turned any liquid into pure water. Any liquid. Whatever went into this cup would be water before it ever reached her mouth, if he had cut it right.
+There might not be a cure for nightstalker poison. But a purification rune turned any liquid into pure water. Whatever went into this cup would be water before it ever reached her mouth, if he had cut it right.
 
 The blade sank back into his palm, and the cut sealed. He hurried back to the table.
 
@@ -158,13 +158,13 @@ Bal set the cup in front of her and hoped to catch her eye. She had her face tur
 
 So that was all. Bal stepped back to the wall, a few paces behind her chair, where a manservant could be called if he was wanted and ignored if he was not.
 
-As the youngest, Leon got the job of opening the cask. He worked at the stopper two-fisted until it gave with a pop that went bouncing around the empty room. Then he put his nose right down to the hole and breathed in so long and so deep that Titus snorted at him.
+As the youngest, Leon got the job of opening the cask. He worked at the stopper two-fisted until it gave with a pop that went bouncing around the quiet room. Then he put his nose right down to the hole and breathed in so long and so deep that Titus snorted at him.
 
 "Now that," Leon said, coming up pink, "smells divine."
 
 He poured Viridia's first. Then Aleric's, then Titus's, and his own last, filling each to the brim with great care and spilling a little anyway.
 
-The brandy went into Viridia's cup, dark gold, right up to the rim. It stayed dark gold. If the rune worked, it would work down there where nobody could see, in the moment before she drank. If it didn't, then he had cut some stroke wrong, crouched behind a bar with a blade made of his own blood, and he would not find out until tomorrow, when it no longer mattered what he found out.
+The brandy went into Viridia's cup, dark gold, right up to the rim. It stayed dark gold. If the rune worked, it would work down there where nobody could see, in the moment before she drank. If it didn't, then he had cut some stroke wrong, crouched behind a bar with a blade made of his own blood, and he would not find out until tomorrow, when finding out would do nobody any good.
 
 Aleric lifted his cup. "To Raizen."
 
@@ -194,7 +194,7 @@ Leon kept the cups full. Titus got louder with every one, and redder, until he w
 
 Viridia's cup stayed where she had set it, empty. No one offered to fill it again. She asked about Pashar and listened to the answers chin high, a lady being gracious to her inferiors, and only Bal, from behind, could see how straight she held her back.
 
-Lora, off at her own table, sipped her water. Her cup never got any emptier.
+Lora, off at her own table, wet her lips with her water. Her cup never got any emptier.
 
 After their fourth cup, Viridia told them she ought to be going.
 
@@ -210,9 +210,9 @@ The door swung shut behind them. Viridia sagged back against it.
 
 Her face crumpled. Tears ran straight down it, and her knees gave, and Bal caught her by the arms before she hit the step.
 
-"I had to do it." She was shaking so hard it rattled into his own teeth. "I had to. It was worth it."
+"I had to do it." She was shaking so hard it went through his hands. "I had to. It was worth it."
 
-"Viridia." It was too fast, and he could not slow it. "You're okay. You aren't poisoned."
+"Viridia." The words came too fast, and he could not slow them. "You're okay. You aren't poisoned."
 
 She stared at him.
 
@@ -222,7 +222,7 @@ Bal got her moving toward the stable. Lora hurried along at their heels.
 
 "I put a purification rune on the bottom of your cup," he said. "I doubt that's what it's meant for. But it should have done the job."
 
-Viridia stopped walking. She was going back over it, he could tell: her runes class, the cup in front of her, the first mouthful, whatever she had tasted and thought nothing of. Then it reached her face.
+Viridia stopped walking. She was going back over it, he could tell: her runes class, the cup in front of her, the first mouthful, how watery it had tasted. Then he saw it reach her face.
 
 "You mean all I drank was water?"
 

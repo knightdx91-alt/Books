@@ -6,7 +6,7 @@ He croaked it. His tongue was glued in place, and the word had to tear itself lo
 
 He was lying in the High Priest's bed. He knew it first by the curtains, deep red with gold worked through them, tied back on their posts, and then by the soft weight of a quilt that was too good for anybody who had come in off a battlefield. Amelia sat cross-legged on the covers beside him, near enough for her knee to touch his arm. Her face was pinched with worry. It cleared the instant he spoke.
 
-She was up and gone from the covers before he got the word out twice. A pitcher stood on the little bedside table, and she filled a cup from it, slopping some on the wood, and was back beside him on her knees with the cup at his mouth before the slop had finished spreading. Her other palm cradled his skull to keep it off the pillow. Bal drank. The water was warm from sitting and he drank it all anyway, and some ran down his chin into the pillow.
+She was up and gone from the covers before he got the word out twice. A pitcher stood on the little bedside table, and she filled a cup from it, slopping some on the wood, and was back beside him on her knees with the cup at his mouth before the spill had finished spreading. Her other palm cradled his skull to keep it off the pillow. Bal drank. The water was warm from sitting and he drank it all anyway, and some ran down his chin into the pillow.
 
 He let his head go back down and shut his eyes.
 
@@ -16,7 +16,7 @@ He let his head go back down and shut his eyes.
 
 Two days.
 
-Two more days of Lora and Viridia in the hands of people who wanted him dead. Two more days of them waking up somewhere strange to him, and going to sleep there. He lay and let that settle on him, and it got no easier with lying there.
+Two more days of Lora and Viridia in the hands of people who wanted him dead. Two more days of them waking up somewhere strange to him, and going to sleep there. He lay and let that settle on him. Lying there made it no easier.
 
 "How much do you know?" He forced his head around on the pillow to face her.
 
@@ -62,7 +62,7 @@ They came in together and halted by the bedpost. Neither man looked to have slep
 
 The two of them seemed to be deciding between them who was going to say it. Xavier left it to him. Thad sighed and laced his fingers together in front of his robe.
 
-"High Priest Toma's army is approaching from the north," he said. "They'll be here in about two hours. We've also had a messenger from the High Priest. Under a flag of parley."
+"High Priest Toma's army is approaching from the north," he said. "They'll be here in about two hours. We've also had a messenger from Toma. Under a flag of parley."
 
 From inside his robe he drew a roll of parchment.
 
@@ -126,7 +126,7 @@ Bal mulled that.
 
 "What happens if I drink the blood of somebody with a different sygl?"
 
-"That's too unpredictable to tell." She held up a finger. "And this only works for my High Priest. That's you. Not for regular blood sygls. A regular priest gets the healing, though."
+"That's too unpredictable to tell." She held up a finger. "And this only works for my High Priest. That's you. Not for regular blood sygls. A regular priest gets the healing, though. Nothing else."
 
 Bal smiled at her.
 
@@ -166,7 +166,7 @@ Memories. They came at him in a flood, too fast, too many, each crowding the las
 
 He watched.
 
-They were private. That much was plain right away, and he understood then why she had warned him not to speak of them. Nobody should. It touched him deeply that she would let him see them at all.
+They were private. That much was plain right away, and he understood then why she had warned him not to speak of them. It touched him deeply that she would let him see them at all.
 
 Then, as they went on flashing past, he began to understand something more. He began to see why she was letting him.
 
@@ -180,7 +180,7 @@ Bal returned the chalice to the table. Then he reached down and drew her up into
 
 "Thank you," he whispered against her ear.
 
-He felt her sigh against him, all of it, held, it seemed, since she had left the room.
+He felt her sigh against him, held, it seemed, since she had left the room.
 
 He released her and stood.
 
@@ -196,7 +196,7 @@ Over the two days that followed, he trained almost without stopping.
 
 He never had to rest. Amelia's blood kept him going, through the days and through both nights, and he did not miss sleep. They fought it out on her temple roof, high above the canyon, under the sun and later under the stars, on flat stone gone warm in the day and cold at night. Amelia held herself back as far as she could, so that he could practice against her.
 
-He had ideas to try. New ones. Some of them came from things he had seen in her memories, and the best person in the world to try them on was Amelia herself, because nothing he did could hurt her. He tried them, and they failed, and he tried them again, and she told him exactly how badly each one had gone. She made none of it sound better than it was. He'd have hated it if she had. Sometime in the first night one idea nearly worked, and she called across the roof for him to do it again, and it fell apart on him, and they kept at it till it held. On the second evening the stone up there was scuffed in long pale streaks where his bare heels had skidded.
+He had ideas to try. New ones. Some of them came from things he had seen in her memories, and the best person in the world to try them on was Amelia herself, because nothing he did could hurt her. He tried them, and they failed, and he tried them again, and she told him exactly how badly each one had gone. She made none of it sound better than it was. He'd have hated it if she had. Sometime in the first night, one idea nearly worked. She called across the roof for him to do it again, and it fell apart on him, and they kept at it till it held. On the second evening the stone up there was scuffed in long pale streaks where his bare heels had skidded.
 
 Then the morning of the duel came, and he was ready to face Toma.
 

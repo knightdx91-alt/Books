@@ -22,7 +22,7 @@ She gave that a second to settle.
 
 "I agree," Bal said. "What makes you say that?"
 
-Viridia reached for the salt shaker and salted her remaining nuggets. She was generous about it. When she was done she went back over the ones at the bottom of the pile that she had missed, until the whole pile glittered.
+Viridia reached for the salt shaker and salted her remaining nuggets. She was generous about it. When she was done she stirred the pile with a fry and salted the ones she had missed, until the whole pile glittered.
 
 "You know what a bloodwolf is, right?"
 
@@ -70,7 +70,7 @@ Bal forgot all about the nugget in his hand.
 
 Bal leaned away from his plate.
 
-Amelia wanted him to convert Viridia. She had said so last night, by the fire. Now Viridia had a familiar who would want to be near Amelia while the bond lasted, and Amelia would be wherever Bal was. Which meant Viridia would be too, for the time being, and she had walked back through those trees without the faintest idea of it.
+Amelia wanted him to convert Viridia. She had said so last night, by the fire. Now Viridia had a familiar who would want to be near Amelia while the bond lasted, and Amelia was mostly wherever Bal was. Which meant Viridia would be too, for the time being, and she had walked back through those trees without the faintest idea of it.
 
 Bal had to hand it to her. A whole morning of errands, and somewhere in the middle of them Amelia had gone up a mountain and found Viridia the best present in the forest. It happened to come with a reason to keep visiting.
 
@@ -104,7 +104,7 @@ The young man finished his form, lowered his sword, and came to stand in front o
 
 "In this class," he said, "you will learn to protect yourselves. My name is Zoran."
 
-He didn't waste anything after that. He swept his free hand around at the racks.
+He didn't waste a word after that. He swept his free hand around at the racks.
 
 "Take your time choosing a weapon. Pick each one up. Imagine using it. Take the one that speaks to you. Once you have one, come back to this line, and I'll pair you off to begin practicing. Then I'll take each of you through some exercises to get used to your new weapons."
 
@@ -116,7 +116,7 @@ They took the last rack in the row, because nobody else was headed for it. Bal l
 
 A minute later a girl joined them there, a few pegs down.
 
-She was shy-looking, with brown hair pulled back in a tail, and glasses that kept sliding down her nose no matter how many times she pushed them back up. She had freckles across the bridge of her nose, under the glasses. Bal noticed, idly, that the sygl on her sweater was Kenmei's. Nobody else in the class had come within a weapon's length of him. By now there had to be stories going around the castle about him, and whatever the stories were, she had heard them and come anyway.
+She was shy-looking, with brown hair pulled back in a tail, and glasses that kept sliding down her nose no matter how many times she pushed them back up. She had freckles across the bridge of her nose, under the glasses. Bal noticed, idly, that the sygl on her sweater was Kenmei's. Nobody else in the class had come within a weapon's length of him. By now there had to be stories going around the castle about him, and whatever the stories were, she must have heard them and come anyway.
 
 "I'm Bal," he told her, reaching for a great axe while he talked. "This is Viridia."
 
@@ -136,7 +136,7 @@ He could have kept at it all afternoon.
 
 At the end of her exercise, Lora noticed him. She studied his feet, which were where hers had been. Then his point, which was nearly there too.
 
-"I, um. I've had practice," she said. "My father trained me. He was with Kenmei's army, when he was younger."
+"I, um. I've had practice," she said. "My father trained me. He was with Kenmei's army when he was younger."
 
 "That's amazing," Bal said, and meant it. "Would you mind partnering with me?"
 
@@ -148,7 +148,7 @@ Viridia, meanwhile, had pulled a spear off the next rack over and was holding it
 
 "No, it doesn't bother me," Lora said quickly. "I'm just glad to have someone to practice with."
 
-Bal was about to ask why on earth anyone wouldn't have practiced with her. Zoran got there first, sorting the line into pairs as fast as he could point. He took one look at Lora's grip and one look at Bal's, and put them together. Viridia went off to the neighboring sand with a Terra boy.
+Bal was about to ask why on earth nobody had wanted to practice with her. Zoran got there first, sorting the line into pairs as fast as he could point. He took one look at Lora's grip and one look at Bal's, and put them together. Viridia went off to the neighboring sand with a Terra boy.
 
 "You," Zoran said to Bal. "Guard and parry. You'll learn the forms." He turned to Lora. "You've used a rapier before."
 
@@ -160,7 +160,7 @@ Zoran showed Bal the guards. There were only a few, high and low and out to the 
 
 Slowly, as she'd been told. The point came toward his chest. Bal moved his blade across and met it, and steel slid on steel, and her point went past him to the left.
 
-Again. High. He was late. She stopped her point a hand's width from his collar and waited until he had it, then drew back.
+Again. High. He was late. She stopped her point a hand's width from his collar and waited until he had the parry, then drew back.
 
 Again. Low. He had that one.
 
@@ -170,7 +170,7 @@ Again.
 
 Fifteen minutes in, his forearm was burning. Bal kept the point up anyway, and after a while it shook, and he kept it up shaking. Lora did not speed up and did not slow down. Each time she came in, she came in the same, until his blade knew where to meet hers before he had finished thinking about it.
 
-They didn't talk much. There wasn't much room for it. Between rounds, while Zoran was busy with someone else, Bal learned a little. Lora was usually quiet, and mostly kept to herself.
+They didn't talk much. There wasn't much room for it. Between rounds, while Zoran was busy with someone else, Bal learned a little about her. Lora was usually quiet, and mostly kept to herself.
 
 "I like books better than people," she said, during one of the breaks, and then went red. "Mostly. Not you. I mean, I don't know you. I mean..." She stopped and started over. "Books don't mind if you don't say anything."
 

@@ -16,7 +16,9 @@ In Warfare, Zoran stopped behind him one afternoon while Bal was working through
 
 He moved along the line. Bal was left with his rapier pointed at nothing until Lora coughed at him from across the sand.
 
-It was Lora who did most of the work, though. Ever since the road to Whitehaven she had taken his training as her own personal job. She wanted him able to protect himself, and she wanted it even harder than he did. Three mornings a week she was waiting at the practice yard before breakfast with her own rapier and her hair already pinned up. She drilled him on footwork until he could do it along a single crack in the flagstones without stepping off. She drilled him on keeping his point up until he dreamed about it. When he finally got through a whole exchange with her without a touch landing on him, she told him it had been adequate, and was pleased with herself all through breakfast.
+It was Lora who did most of the work, though. The cuts from the road to Whitehaven had healed to thin pink lines, and ever since then she had taken his training as her own personal job. She wanted him able to protect himself, and she wanted it even harder than he did. Three mornings a week she was waiting at the practice yard before breakfast with her own rapier and her hair already pinned up. She drilled him on footwork until he could do it along a single crack in the flagstones without stepping off. She drilled him on keeping his point up until he dreamed about it. When he finally got through a whole exchange with her without a touch landing on him, she told him it had been adequate, and was pleased with herself all through breakfast.
+
+Her three Aurora felis flowers had not gone to waste, either. Ms. Summers kept her word and helped her brew the two potions before the seventy-two hours ran out.
 
 ---
 
@@ -44,7 +46,7 @@ The arrow shirts took him longer. He bought the materials in New Spring and work
 
 ---
 
-The lake was near the end of the six weeks.
+The lake was in the last week of the six.
 
 They found it coming home from a job, in a fold of the hills where none of them had thought to look. It was long and narrow and very still, with reeds along one shore and a slope of pale rock along the other. The water was so clear that the bottom showed, dropping away from the rocks into blue, and then into nothing.
 
@@ -80,7 +82,7 @@ The stone Thad had given him lived in Bal's pocket, and over those weeks it glow
 
 Raizen had found his strategy. He had released a statement through his High Priest, in his own territory. It said that Raizen and the others had shut Amelia away because she had started to go mad, and had attacked them, and they had been left with no choice. It went on. Since Raizen had been the one to suggest it, it said, now that she was free, it would be his followers who were in danger.
 
-That one statement did a lot of work. Raizen's army had always been going to follow orders. Now it was afraid of a mad vampire coming after it, and it trained harder for being afraid. And the villages, which had never liked anyone who bore the blood sygl, had stopped at not liking. Blood sygls who would not leave their villages were being beaten. Some had been killed.
+That one statement did a lot of work. Raizen's army had always been going to follow orders. Now it was afraid of a mad vampire coming after it, and it trained harder for being afraid. And the villages, which had never liked anyone who bore the blood sygl, had gone past not liking. Blood sygls who would not leave their villages were being beaten. Some had been killed.
 
 Thad told him all of it plainly, standing in the same narrow room each time with the same dark circles under his eyes, a little deeper at every visit. Then he waited. He wanted orders, and to hear how they could help.
 
@@ -116,7 +118,7 @@ Bal's eyes came off the map. "How did you find that out?"
 
 "Spies, of course." Fern sounded faintly surprised to be asked. "We've got a team with no sygls. They pose as laborers. A man with nothing on his palm can walk into any town he likes, and nobody gives him a second look."
 
-Fern's people had learned the priests met monthly to share news and gossip, and to drink, Bal suspected.
+Fern's people had learned the priests met monthly to share news and gossip. And to drink, Bal suspected.
 
 "Are your men still in Raizen's territory?"
 
@@ -148,7 +150,7 @@ He had asked Amelia once how they would even know if they had won. Short of kill
 
 She had been at the foot of his bed, propped on her elbows. She explained it as though it were a game she had seen other people play for ages.
 
-Once war was formally declared, neither originator could make another High Priest. Once an originator's priests and High Priest were dead, the war was over. Technically, anyway. The victor could go on killing the other's army if they wanted. It did not matter, at that point.
+Once war was formally declared, neither originator could make another High Priest, nor any new priests. Once an originator's priests and High Priest were dead, the war was over. Technically, anyway. The victor could go on killing the other's army if they wanted. It did not matter, at that point.
 
 The part about the army had stayed with him longer. The war could be over and men could still be killed in it, simply because the winner felt like going on. He had known straight away that he would never be that kind of winner.
 
@@ -156,7 +158,7 @@ And once the war was finished, the victor could demand something from the origin
 
 "Have you decided what you'd demand?" Bal had asked. "If we won?"
 
-Amelia had smiled at him. The smile came slowly.
+Amelia had smiled at him, slowly.
 
 "Oh, yes. They are bound to give me what I ask, so long as it does not physically harm them." She had paused there. "And I know exactly what I shall demand."
 

@@ -16,13 +16,13 @@ She was talking from the book she was partway through back at school, not the ne
 
 Bal would have bet his four new histories that Viridia couldn't have told an aqueduct from a well. She asked anyway. She asked who had dug the wells, and whether the dead in the walls had minded the damp, and once she stopped dead in the road to argue that anybody who built a city on a floodplain deserved what they got. Lora argued back. Nobody was being polite.
 
-Bal remembered the boys in Lora's town, the tournament, the comments after. Somebody had looked at this girl and decided she was a thing to laugh at. Now she was walking backward in the road ahead of him to keep Viridia's face in view while she explained about the floods, and he decided that whoever they were, they were not getting another turn.
+Bal remembered what Lora had said about the boys in her town, the tournament, the comments after. Somebody had looked at this girl and decided she was a thing to laugh at. Now she was walking backward in the road ahead of him to keep Viridia's face in view while she explained about the floods, and he decided that whoever they were, they were not getting another turn at her.
 
 Lora had reached the part with the earthquake. Viridia asked which came first, the earthquake or the floods, and Lora said that was the right question, and Viridia was so busy being right that she walked into a puddle.
 
 The last mile was uphill. Bal's feet hurt and the meat rolls were miles behind him and nobody said much on that stretch. Near the top Lora remembered one more thing about the earthquake, and they were off again, clear to the castle gate and in under it and up the stairs.
 
-It was nearly two hours before they came down the long gallery to the gray pedestal where it ended.
+It was nearly two hours after leaving New Spring that they came down the long gallery to the gray pedestal where it ended.
 
 "Watch this," Bal said.
 
@@ -30,15 +30,15 @@ He set his palm on the carving. The little prick came, and the stone drank, and 
 
 The room upstairs had changed while they were out. There were two couches around the fireplace now, the old red one and a second one facing it, a darker red, with a second low table in front of it.
 
-Amelia had the old couch to herself, a book open on her knees. It was a small book, bound in blue, with a name inked neatly on the cover, and Bal had last seen it the day before, held over her face on the High Priest's bed.
+Amelia had the old couch to herself, a book open on her knees. It was a small book, bound in blue, with Viridia's name inked neatly on the cover, and Bal had last seen it the day before, held over her face on the High Priest's bed.
 
-She looked up at the sound of the wall. Her gaze slid past Bal to Viridia, and her face jumped.
+She looked up at the sound of the wall. Her gaze slid past Bal to Viridia, and she jumped.
 
 The book was gone. Her knees were bare of it, and her hands were empty, and she was off the couch and across the rug and had her arms around Bal's neck before he had got the strap of his pack off one shoulder. She smelled of the fire. She hugged him hard and let him go and went straight back to her place.
 
 "Well, you've all been gone all day," she said. "Did you have fun?"
 
-Bal decided the diary was a conversation for later, with fewer of its authors in the room.
+Bal decided the diary was a conversation for later, with its author out of the room.
 
 Behind him the girls had not moved off the top step. Lora was half behind Viridia. Viridia got hold of her by the wrist and towed her in off the step.
 
@@ -54,7 +54,7 @@ All the talk from the road was gone out of her. She stood on the rug with her ha
 
 ---
 
-Bal sat down beside Amelia.
+Bal dropped the pack on the rug and sat beside Amelia.
 
 "Look," he said, to both the girls. "I'm about to tell you something. But it has to stay between us for now. Okay?"
 
@@ -82,9 +82,9 @@ She said it to her knees, so softly it nearly went into the fire.
 
 ---
 
-Bal eased the pack off onto the rug and opened it.
+Bal pulled the pack to him and opened it.
 
-The histories came out first, the four of them, and went in a stack on the new table. He fished out Viridia's cloth bag and passed it up to her where she stood, and found Lora's brown book with the broken column on it and put it in Lora's lap. The folded job paper could stay put. That left one thing in the bottom of the bag, and he let it wait.
+The histories came out first, the four of them, and went in a stack on the new table. He fished out Viridia's cloth bag and passed it up to her where she stood, and found Lora's brown book with the broken column on it and put it in Lora's lap. The folded job paper could stay put. That left one gift in the bottom of the bag, and he let it wait.
 
 "And you know what friends do?" he asked Lora.
 
@@ -98,7 +98,7 @@ Lora's hands came up for it before the rest of her had caught on. It was heavy e
 
 "But when did you..." she began, and stopped, because her own book was right there underneath it and this was not her book.
 
-She opened the cover. She turned pages, quickly, then more slowly, then quickly again, checking it was alchemy to the last page. Her eyes had gone bright behind her glasses. Nothing spilled. Then she closed it and hugged it flat against her chest with both arms.
+She opened the cover. She turned pages, quickly, then more slowly, then quickly again, checking it was alchemy to the last page. Her eyes had gone bright with unshed tears behind her glasses. Then she closed it and hugged it flat against her chest with both arms.
 
 "Thank you," she said.
 
@@ -116,7 +116,7 @@ The ring went onto her middle finger.
 
 Viridia stared down at the plain bright band on her hand, speechless.
 
-"I know it doesn't look like much," Bal said quickly. It did not. It could have been any bit of silver bought for a few coins. "But it should be plenty powerful." The card propped beside it in the window, he explained, had promised it could move the earth, briefly, and warned that it cost a lot to recharge. "So you'll want to save it. For when it counts."
+"I know it doesn't look like much," Bal said quickly. It did not. It could have been any bit of silver bought for a few coins. "But it should be plenty powerful." The jeweler's card propped beside it in the window, he explained, had promised it could shift and shape the ground for a short while, and warned that it needed a costly recharge after each use. "So you'll want to save it. For when it counts."
 
 "It's perfect," she said. "Thank you."
 
@@ -136,7 +136,7 @@ Something went across her face, quick and sad, and was gone. He nearly missed it
 
 Now she only looked confused.
 
-From the other pocket he drew out the card. It was warm from his hand. He had worn the corner smooth on the road, without meaning to, and he gave it to her face up, so that what she saw first was the pale wood and *Sygls Best* in white across it.
+From the other pocket he drew out the card. It was warm from his hand. He had rubbed at the corner on the walk home, without meaning to, and he gave it to her face up, so that what she saw first was the pale wood and *Sygls Best* in white across it.
 
 "Turn it over," he said quietly.
 
@@ -166,7 +166,7 @@ She settled in again beside him, and then scooted closer, until there was no cou
 
 Bal looked down.
 
-It was the Saint Andre's shirt, the one washed so thin the elbows let daylight through. All down the front of it, where her face had been, it was soaked through dark red, a great wet patch of it over his heart. Anyone who came in now would have taken him for stabbed.
+It was the Saint Andre's shirt, the one washed so thin the elbows let daylight through. All down the front of it, where her face had been, it was soaked through dark red, a great wet patch of it over his heart. Anyone who came in now would have thought him stabbed.
 
 "It was worth it," Bal said.
 

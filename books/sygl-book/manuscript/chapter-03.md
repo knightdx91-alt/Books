@@ -12,11 +12,11 @@ Bal looked at the cut, and at her, and thought about those ghost stories in the 
 
 It did not taste like blood. It tasted like heat. It went down his throat hot and fierce, far too strong for him, and spread out from his stomach in a slow warm wave, through his chest and down both arms. His fingers tingled. His left arm burned.
 
-Amelia drew her arm away. When Bal next checked, the cut had closed over, and the pale skin was as smooth as if nothing had ever touched it.
+Amelia drew her arm away. The cut had already closed over, and the pale skin was as smooth as if nothing had ever touched it.
 
 The burning started at the elbow and ran down to the end of the stump, and there it gathered and grew. Bal sat back hard against the bench and gritted his teeth. It hurt. There was no point pretending otherwise; it hurt badly, a deep, pulling ache in the bones. But Bal had always had a high tolerance for pain, and this was something he could sit through. He breathed slowly in through his nose and out through his mouth, and kept his eyes on the stump, because he wanted to see.
 
-The end of the stump tingled, then swelled, and something pale pushed outward: the heel of a palm first, then the knuckles, then five fingers unfurling one after another. Bone and muscle and skin, all of it rising together, filling out, finishing itself. The ache peaked, held for a long, grinding moment, and then all at once began to drain away, leaving behind a deep, tired warmth.
+The end of the stump tingled, then swelled, and something pale pushed outward: the heel of a palm first, then the knuckles, then five fingers unfurling one after another. Bone and muscle and skin, all of it rising together, filling out, finishing itself. The ache peaked, held for a long, grinding moment, and then drained away all at once, leaving behind a deep, tired warmth.
 
 Amelia had stayed quiet through all of it. Now she leaned in to look, and gave a satisfied little hum.
 
@@ -26,7 +26,7 @@ She was right about that. On top of the hand itself, his blood magic, once he le
 
 Bal sat there flexing his new left hand.
 
-He made a fist. He opened it. He touched his thumb to each fingertip in turn, as he'd watched the others do with their own hands a thousand times without ever thinking about it. Everything worked. Everything was there. The skin was a shade paler than the rest of him, fresh and unmarked by sun or work, and the fingers were long and a little clumsy, not yet sure what was expected of them. He pressed his palm flat against the cool stone of the bench and felt the grit of it. He laughed, a shaky, unbelieving sound, and pressed it there again.
+He made a fist. He opened it. He touched his thumb to each fingertip in turn, the way the others did with their own hands a thousand times a day, never thinking about it. Everything worked. Everything was there. The skin was a shade paler than the rest of him, fresh and unmarked by sun or work, and the fingers were long and a little clumsy, not yet sure what was expected of them. He pressed his palm flat against the cool stone of the bench and felt the grit of it. He laughed, a shaky, unbelieving sound, and pressed it there again.
 
 He turned the hand over, and there in the center of his palm was the sygl.
 
@@ -70,13 +70,13 @@ He felt it go, a pulse of warmth out of his hand and into her, and then an answe
 
 All at once he felt drained, wrung out from his scalp to his heels. His arm was too heavy to hold up. He let his hand drop, and leaned forward, and rested his forehead against Amelia's.
 
-She let him. They sat like that for a few minutes, his forehead on hers, her cool hands resting on his knees, neither of them saying anything. The braziers had sunk to embers. Sunlight lay on the paving beside them. Bal could hear his own breathing, slowing gradually, and the quiet tick of cooling metal, and nothing else at all.
+She let him. They stayed like that for a few minutes, his forehead on hers, her cool hands resting on his knees, neither of them saying anything. The braziers had sunk to embers. Sunlight lay on the paving beside them. Bal could hear his own breathing, slowing gradually, and the quiet tick of cooling metal, and nothing else at all.
 
 "How do we get out of here?" Bal asked eventually, opening his eyes. Amelia's were already open, and very close, and looking straight at him.
 
 "Through the front door, of course," she said, and giggled.
 
-She stood up and brushed off her knees where she had knelt on the stone. Bal lingered a moment longer, looking past her at the tall golden doors across the hall. From the inside they were even grander than from outside, gleaming softly in the sunlight, their surfaces worked all over with the same carved foliage and wings as the band under the temple roof.
+She stood up and brushed off her knees where she had knelt on the stone. Behind her the sunlight had crept onto the statue, and the face it lit was hers. Bal lingered a moment longer, looking past her at the tall golden doors across the hall. From the inside they were even grander than from outside, gleaming softly in the sunlight, their surfaces worked all over with the same carved foliage and wings as the band under the temple roof.
 
 "But it's locked," Bal said, frowning at them. "Everyone's tried to open it. Everyone. Some of the big boys even tried a crowbar."
 
@@ -98,7 +98,7 @@ Amelia stood there admiring all of it, her face tipped up to the sun. She follow
 
 "It's been a long time," she said softly.
 
-For once, she looked no older than Bal. She looked like someone who had been cooped up for so long that she could hardly believe she was finally allowed to go outside. Bal didn't know what to say to that. He wasn't sure anything needed saying.
+For once, she seemed no older than Bal. She looked like someone who had been cooped up for so long that she could hardly believe she was finally allowed to go outside. Bal didn't know what to say to that. He wasn't sure anything needed saying.
 
 He took her hand instead, and smiled at her.
 

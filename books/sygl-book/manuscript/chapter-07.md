@@ -60,7 +60,7 @@ He spent the next few hours exploring his dormitory.
 
 There was not much of it, at first. The fireplace, the couch, the chair, the coffee table. One of the two doors across the room opened on a bathroom, white tile and a deep tub on clawed feet, and he closed that one again. The other opened on a bedroom, and he froze on the threshold.
 
-It was easily twice the size of the one he'd had at the orphanage. That one had been his along with twenty other boys. This room had a four-poster bed with a canopy, and the bed was so big it looked as though five people could have slept in it without anybody kicking anybody. Across it lay a soft blanket, black, with a single rose embroidered on it in red so dark it was nearly black itself. A chest stood across the end of it, every bit as large as the bed called for.
+It was easily twice the size of the one he'd had at the orphanage. That one had been his along with twenty other boys. This room had a four-poster bed with a canopy, and the bed was so big it looked as though five people could have slept in it without anybody kicking anybody. Across it lay a soft blanket, black, with a single rose embroidered on it in red so dark it was nearly black itself. A chest stood across the end of it, as wide as the bed.
 
 Bal fetched his pack from the main room and lifted the lid of the chest. It was empty and smelled of cedar. He lowered the pack in, and it sat at the bottom looking very small, the whole of what he owned with room to spare all around it. He let the lid down.
 
@@ -78,13 +78,13 @@ It was a kitchen. There was a wood-burning stove against one wall with a stack o
 
 The second door was the library.
 
-It was smaller than the common room, with tall bookshelves lining the walls and five chairs drawn up in front of another fireplace. The fire was laid but not lit. The shelves were bare from top to bottom. Bal ran his hand along the nearest. Not even dust.
+It was smaller than the room with the couch, with tall bookshelves lining the walls and five chairs drawn up in front of another fireplace. The fire was laid but not lit. The shelves were bare from top to bottom. Bal ran his hand along the nearest. Not even dust.
 
 His shoulders dropped. Then he looked again at the five chairs, and the empty hearth, and the long bare shelves, and pictured them full. It would be a good room to read in, once he had something to put on them. Fredrick's books would fill about a foot of one shelf. That was a start.
 
 The third door was the dining room. A large mahogany table took up most of it, dark and glossy enough that the ceiling showed in it, with polished wooden chairs set all around. Bal walked the length of the table and back. Passing the salt would take a long arm.
 
-Standing between the two rooms, he had a thought. Why walk your dinner across a hallway? He pictured the kitchen and the dining room as one room, the stove and the long table together.
+Standing between the two rooms, he had a thought. Why walk your dinner from one door to the next? He pictured the kitchen and the dining room as one room, the stove and the long table together.
 
 The wall between them went soft at the edges and was simply not there anymore. Now there was one large room, warm from the stove at one end, with the mahogany table at the other.
 
@@ -114,7 +114,7 @@ The voice came from behind him. Bal turned quickly.
 
 A girl stood there with her hands in her pockets. She was a little taller than he was. Her hair was pale blue, a cold, bright blue like the sky at the edge of a storm, and her eyes were the same color exactly. She wore a small smile.
 
-It was the Tempus girl who had ridden ahead of them on the road that morning. So it had been her doing the crackling, after all, and not the sweater. The two boys must only have shared her ride.
+It was the Tempus girl who had ridden ahead of them on the road that morning. So the crackling had been her hair, after all, and not the sweater. The two boys must only have shared her ride.
 
 While his eyes were on her hair, it did it again. Down near her shoulder a strand stirred on its own, and then the whole of it bristled, and a faint snapping ran through it like someone shaking out a wool blanket in winter. Then it lay flat.
 
@@ -182,7 +182,7 @@ He raised an eyebrow at her.
 
 "Okay, then." She planted her elbows on the table.
 
-On each silver plate lay a piece of paper. Bal read his. It was instructions for ordering a meal. Write what you want on the back, it said, then lay the paper on your plate. After today any piece of paper would do.
+On each silver plate lay a piece of paper. Bal read his. It gave instructions for ordering a meal. Write what you want on the back, it said, then lay the paper on your plate. After today any piece of paper would do.
 
 Who washed the plates, if they went away on their own? Was there a room somewhere in the castle full of dirty plates, piling up? Somebody had to do it. Somebody always did.
 
@@ -288,7 +288,7 @@ They stayed and talked a while longer, until the hall had mostly emptied around 
 
 Bal sat on at the empty table. Then he headed back to his dorm.
 
-There were still students milling around in the courtyard, and more of them in the corridors, standing in their groups. Bal walked through them with his hands in his pockets. A boy in a Terra sweater looked at the sygl on his back as he passed and then turned to study his face, and kept on looking. Farther on, an older boy with his arms folded tracked him the whole length of the corridor, flat and unfriendly.
+There were still students milling around in the courtyard, and more of them in the corridors, standing in their groups. Bal walked through them with his hands in his pockets. A boy in a Terra sweater looked at the sygl on his back as he passed, then turned and kept studying his face. Farther on, an older boy with his arms folded tracked him the whole length of the corridor with a flat, unfriendly stare.
 
 No one said anything. No one bothered him.
 

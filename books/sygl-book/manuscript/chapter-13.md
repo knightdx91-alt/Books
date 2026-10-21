@@ -12,7 +12,7 @@ The pounding came again. It was not a polite sort of knock. Somebody had made a 
 
 Viridia stood in the corridor with her fist still up. Lora was behind her, half a step back.
 
-They were not in uniform. Viridia had on a blue skirt that had been let down at the hem at least once, and a laced vest over a white blouse. Lora wore brown trousers and a brown jacket with patches at both elbows, and her hair was loose for once, down past her shoulders. Neither said a thing. They stared at him, the pair of them, and their faces were going a slow and steady pink.
+They were not in uniform. Viridia had on a blue skirt that had been let down at the hem at least once, and a laced vest over a white blouse. Lora wore brown trousers and a jacket with patches at both elbows, and her hair was loose for once, down past her shoulders. Neither said a thing. They stared at him, the pair of them, and their faces were going a slow and steady pink.
 
 Bal followed their eyes down.
 
@@ -26,7 +26,7 @@ They were standing at the hearth, still pink.
 
 "Sorry," Bal said. "About how I answered the door. I wasn't really awake yet."
 
-They all started in at once. Bal put up a hand and stopped, and waved for them to go first.
+They all started in at once. Bal stopped, put up a hand, and waved for them to go first.
 
 "Pretty sure nobody's allowed in other people's dorms," Viridia said, turning slowly to take in the room. "It must get lonely in here. With it only being you."
 
@@ -40,7 +40,7 @@ Viridia found something on the mantel that needed her full attention.
 
 "Well, the thing is," Lora said, "all the teachers got pulled by the originators today."
 
-She tucked her hair behind her ear, and then her hand stayed up by her ear, as if it was not sure where else to go. He guessed she was not used to being one of a group of anything.
+She tucked her hair behind her ear, and then her hand stayed up by her ear, as if it was not sure where else to go. He guessed she was not used to being part of a group.
 
 "Apparently it happens sometimes," she went on. "When it does, they give us a free day. Viridia asked me at breakfast whether I wanted to walk down to the village with her, and I said yes." Her eyes flicked to Bal, there and gone, asking whether that was all right.
 
@@ -74,7 +74,7 @@ They were not the only ones on the road. Students in their own clothes were stru
 
 "What about you?"
 
-Lora jumped. She had been walking on his other side, silent, for most of a mile, and her face said she had planned to go on that way the whole five.
+Lora jumped. She had been walking on his other side, silent, for most of a mile, and her face said she had planned to go on that way the whole five miles.
 
 "Oh. Um." She pushed her hands into her jacket pockets. "I'm hoping to look at the job and bounty boards. There's a faction I've been reading about. It's more of a guild, really. It only takes you once you've finished a certain number of requests. It's a good way to make money, but that isn't really the point." She was speeding up. "The point is, the guild has spellbooks you can't find anywhere else. Some of them you're not even allowed to see until you reach a certain rank. Can you imagine?"
 
@@ -86,7 +86,7 @@ He caught Viridia's eye over Lora's head. Viridia's eyebrows went up and stayed 
 
 "No. You can register with the local Dawn faction as a team. They give every member a wooden card with the team's name on it. Each time you turn in a job or a bounty, the number on your cards goes up."
 
-Bal's eyes went to Viridia again. She mouthed *yes* at him and did not bother to make it subtle.
+Bal looked over at Viridia. She mouthed *yes* at him and did not bother to make it subtle.
 
 "Okay," Bal said. "We'll stop by there, so you can join if you want."
 
@@ -130,7 +130,7 @@ The flame climbed the blade once more. A sword that made fire was only a sword w
 
 They wandered.
 
-Viridia stopped at nearly every window with anything bright in it. At one she lingered over a silver pin shaped like a leaf, and then left it. Lora walked beside Bal with her hands back in her pockets.
+Viridia stopped at nearly every window with anything bright in it. At one she lingered over a silver pin shaped like a leaf, and then left it. Lora walked beside Bal.
 
 Partway around the square Viridia halted at a shop with a painted sign of a cat curled up inside a bird cage.
 
@@ -154,7 +154,7 @@ Lora smiled. It was a real one, slow and wide, and it went up into her freckles.
 
 "You really are beautiful when you smile," Bal told her.
 
-Lora spun around and put her face into the corner where the post met the wall, and kept it hidden there. The tops of her ears had gone red.
+Lora spun around and put her face into the corner where the post met the wall, and kept it hidden there.
 
 Viridia had come out of the shop in time to hear it. She stood on the step with a cloth bag in her hand and smirked at Bal.
 
@@ -224,11 +224,11 @@ A book shut with a snap, and slid back into its place on the shelf.
 
 Bal shifted his grip on the histories and held his breath.
 
-"My father and our weapons master both think I'm a prodigy with a rapier. When I've got one in my hand, it's honestly an extension of who I am." Her voice was steadier than it ever was when she talked to people. "Most girls wanted to play with dolls, or dress up. I loved my books and my rapier. Our town held tournaments now and then, to show off everybody's martial skills. Once I was old enough, my father begged me to enter. Girls weren't forbidden to. It was more of an oversight than anything. No girl had ever tried."
+"My father and our weapons master both think I'm a prodigy with a rapier. When I've got one in my hand, it's honestly an extension of who I am." Her voice was steadier than it ever was in company. "Most girls wanted to play with dolls, or dress up. I loved my books and my rapier. Our town held tournaments now and then, to show off everybody's martial skills. Once I was old enough, my father begged me to enter. Girls weren't forbidden to. It was more of an oversight than anything. No girl had ever tried."
 
 "So you did."
 
-"So I did. Not a single other boy had ever seen me train. Neither had their fathers. They'd only heard about me secondhand. That was part of why they mocked me. They couldn't believe a girl could be that good. Especially a girl of thirteen." The page-turning had stopped on both sides. "War was a man's game, they kept telling me."
+"So I did. Not a single other boy had ever seen me train. Neither had their fathers. They'd only heard about me secondhand. That was part of why they mocked me. They couldn't believe a girl could be that good. Especially a girl of thirteen." Neither girl was turning pages now. "War was a man's game, they kept telling me."
 
 "So what happened?" Viridia asked.
 
@@ -282,7 +282,7 @@ Lora laughed. It was a bright, sudden sound, and it bounced off the shelves and 
 
 Bal took it. As he did, he looked her in the eye.
 
-"You don't have to be afraid of me," he said. "I promise. I'm nothing like anyone else you've known."
+"You don't have to be afraid of me," he said. "I promise. I'm not like anyone else you've known."
 
 Then he pushed the door open, and the bell dinged, and he held it until the girls were through before he followed.
 
@@ -290,13 +290,13 @@ Then he pushed the door open, and the bell dinged, and he held it until the girl
 
 The Dawn Hall had its name in gold letters on a large and very ornate sign over a three-story wooden building at the top of the square. A deep covered porch kept the rain off anyone waiting. Inside were tables, where people sat talking over mugs and maps, and a long counter down the whole right-hand side.
 
-Two women stood behind the counter in matching gray jackets with a sunrise stitched on the breast. Bal guessed it was a uniform.
+Two women stood behind the counter in matching gray jackets with a sunrise stitched on the breast.
 
 "Welcome to the Dawn Hall," said the woman on the right as they came up. "My name is Soren, and this is Kim. What can we do for you today?"
 
 Kim lifted a hand to them and went on sorting a box of papers.
 
-Lora stepped forward before Bal could.
+Lora stepped forward before Bal could speak.
 
 "Do you have any jobs posted?"
 
@@ -316,17 +316,17 @@ Lora's head snapped up.
 
 At the word *team*, Lora's head went down again, and stayed down.
 
-Bal glanced at Viridia. She set her jaw and jerked her head at the counter. *Go.*
+Bal glanced at Viridia. She jerked her head at the counter. *Go.*
 
 "I would like to enroll as a team." Bal stepped up to the counter.
 
 Lora started to speak. Viridia put a hand on her arm and shushed her.
 
-Soren's gaze went from one girl to the other and back, and stayed a second longer than it needed to. Then she gave Bal her attention.
+Soren's gaze went from one girl to the other and back. Then she gave Bal her attention.
 
 "Very well," she said. "I take it these two will be the members of your party?"
 
-Bal turned around. Lora and Viridia had their heads together and were arguing in furious whispers. Lora kept making small exasperated noises through her nose.
+Bal turned around. Lora and Viridia had their heads together and were arguing in furious whispers. Lora kept huffing through her nose.
 
 "Yep," Bal said to Soren. "They are."
 
@@ -354,7 +354,7 @@ Bal stayed with Lora.
 
 "It really is okay," he told her. "I think it'll be fun. Besides, it gives me an excuse to hang out with both of you more."
 
-Lora blushed to the roots of her hair. Bal tried Viridia instead.
+Lora blushed. Bal tried Viridia instead.
 
 "She wants a name for our team. I figured that was something we should decide together."
 
@@ -364,13 +364,13 @@ Lora saw she was not going to change either of their minds, and gave in.
 
 "I like 'The Heirs,'" she said. "But that seems kind of boring. I only thought of it because we're all different sygls."
 
-"It's not bad, though." Viridia tapped her chin. "What about..." She stopped, and the tapping stopped. "Sygls Best."
+"It's not bad, though." Viridia tapped her chin. "What about..." She stopped mid-tap. "Sygls Best."
 
 Lora and Bal both stared.
 
 "I mean, if we're going to do this, we might as well aim for the top."
 
-Lora's face changed. "I like it," she said, and meant it.
+Lora grinned. "I like it," she said, and meant it.
 
 "Bal?" Viridia prompted.
 
@@ -418,7 +418,7 @@ Bal slid the card into the left-hand pocket of his trousers, away from the ring,
 
 He did his own card first, to show them how it worked. Viridia pushed her magyk into hers and it warmed in her palm, and her name came up white on the back, in the same flowing hand.
 
-Lora's took a second longer. When *Lora Aegis* showed white on the back, she glowed.
+Lora's took a second longer. When *Lora Aegis* showed white on the back, she beamed.
 
 "I can't believe it," she said. "I've wanted this for *so* long."
 
@@ -442,7 +442,7 @@ Viridia laughed out loud.
 
 "Actually," Bal said, "I don't have one. I'm Lead Mage of the Blood sygl."
 
-"But how can you be..." Viridia started, and stopped, and he watched her get there. "Of course. You're Lead Mage because you're literally the *only* mage."
+"But how can you be..." Viridia started, and stopped. "Of course. You're Lead Mage because you're literally the *only* mage."
 
 She put her forehead down on the table.
 
@@ -458,7 +458,7 @@ Bal raised his right palm, solemn as an oath.
 
 "I promise you can kiss anytime you want in my dorm," he told her. Then, with a smirk, he added, "As long as it's me."
 
-Viridia's chin came up. Something mischievous got into her face and made itself at home.
+Something mischievous got into Viridia's face.
 
 "What if I wanted to kiss Amelia instead?"
 
@@ -480,7 +480,7 @@ All her fluency drained out of her at once.
 
 "Is it okay?" she asked. "What do you two say?"
 
-"You picked a good one. I'm glad we can help her out."
+"You picked a good one. I'm glad we can help her out," Bal said.
 
 Lora folded the paper in half and handed it to him.
 

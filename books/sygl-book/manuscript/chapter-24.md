@@ -4,7 +4,7 @@ The innkeeper hurried out from behind her counter at nearly a trot, drying her h
 
 She was a plump woman with a smile that started well before she reached them. Behind her the shutters stood open along the whole long wall, letting whatever breeze Londra had to offer wander between the tables. Six or seven people were drinking in the cool. One old man had his boots off under his table and was not ashamed of it.
 
-The stable boy's words had followed Bal in from the yard. That would be Amelia's letter, as Xavier had said, and it still sat badly with him that an inn in Raizen's own country had been told to look out for them. But too many people had already seen Viridia: two guards, half a street, a man whose pipe had gone out. If they turned around now and rode back through the gate, somebody would ask why, and he had no answer ready.
+The stable boy's words had followed Bal in from the yard. That would be Amelia's letter, as Xavier had said, and it still sat badly with him that an inn in Raizen's own country had been told to expect them. But too many people had already seen Viridia: two guards, half a street, a man whose pipe had gone out. If they turned around now and rode back through the gate, somebody would ask why, and he had no answer ready.
 
 He stood a step behind his lady with the bags and kept his face as empty as he could get it.
 
@@ -144,7 +144,7 @@ The stew had real meat in it, a lot of it, and carrots and onions and some kind 
 
 "Not Ventish brandy, I couldn't." He tore off more bread. "Good thing Amelia paid for the rooms. That cask put a big dent in the purse. It'll be worth it, though. With that, we ought to get in front of them. I just have no idea what we do once we're there."
 
-"Well, at least that part's figured out," Lora said. "We could always use our blood darts. Kill them right there."
+"Well, at least that part's figured out," Lora said. "We could just use our blood darts. Kill them right there."
 
 "No," Bal said. "We want to walk out of there alive, remember? Kill them like that and we're fighting our way out across half the city. I know you're good with that rapier. Viridia and I aren't."
 
@@ -184,13 +184,13 @@ The first hour went by without anyone mentioning it. In the second, Bal cleaned 
 
 It might have worked better if Viridia had not gotten up twice to check the window herself.
 
-Close to the end of the third hour, the door swung inward and Lora came in backward, pushing it with her back because her arms were stacked to the chin with paper packages. Bal reached her before it finished opening. He took the pile off her and laid it on the bed, carefully, in case any of it broke.
+Close to the end of the third hour, the door swung inward and Lora came in backward, pushing it with her back because her arms were stacked to the chin with paper packages. Bal reached her before the door finished opening. He took the pile off her and laid it on the bed, carefully, in case any of it broke.
 
 "Thanks." Lora poured herself a cup of water from the pitcher and drank it straight down. "Sorry I'm late. Sorry. The alchemist wanted help brewing a night-sight potion, and I sort of got roped in. He took the shop over when his father passed, I think, and he's had less training than I have. At least I've had Ms. Summers to help me. That guy's got no one. He's been getting by on his father's notes, but there's nothing underneath them. He didn't even know what half the herbs in his own shop were for. Once we were done he gave me a bunch of herbs for free, so I restocked some of the ones I'd run out of. You never know what you'll need. And I got the asphodel and the ginger root."
 
-Viridia might have guessed, and so might Bal. Sword work, books, alchemy, it made no difference what it was. Once Lora got into something, she went in deep and forgot to surface.
+Viridia might have guessed as much, and so might Bal. Sword work, books, alchemy, it made no difference what it was. Once Lora got into something, she went in deep and forgot to surface.
 
-Lora was already unwrapping, sorting each herb into its own jar or twist of paper. Bal offered to help. So did Viridia. Lora told them to enjoy the city instead, since she couldn't leave the cauldron until the brew was well under way. They hung back and offered again.
+Lora was already unwrapping, sorting each herb into its own jar or twist of paper. Bal offered to help. So did Viridia. Lora told them to enjoy the city instead, since she couldn't leave the cauldron once the brew was under way. They hung back and offered again.
 
 "Does either of you know a single thing about alchemy?" Lora said. "No. You don't. You'll just be in my way."
 
@@ -228,7 +228,7 @@ A couple had stopped dead in the middle of the walk in front of a shop, and Viri
 
 "Yeah. That would probably work better." She considered it. "Less risk of getting caught slipping something into a cup."
 
-Her hair still drew notice, but less than it had at noon. Word had gotten around, maybe. They were getting used to her.
+Her hair still drew notice, but less than it had at the gate. Word had gotten around, maybe. They were getting used to her.
 
 ---
 
@@ -252,7 +252,7 @@ A pair of guards came by on their rounds, walking slow, heading up the street to
 
 They didn't say much after that. The streets thickened toward the center of town, where vendors were calling out their wares. A stall at a corner was selling sweet rolls, glazed and still warm, and Bal bought two. They stood off to the side of the crowd and ate them without talking.
 
-He had not only asked her about after school to learn her plans. He'd hoped hers might give him some idea of his own. He was never leaving any of them. Past that, he had nothing. His whole life had come off its track the day he enrolled. Once this war was decided, he would either be dead, or he would need to decide what the rest of his life was for, and on a corner in Londra with sugar on his fingers, he couldn't tell which looked likelier.
+He hadn't asked her about after school only to learn her plans. He'd hoped hers might give him some idea of his own. He was never leaving any of them. Past that, he had nothing. His whole life had come off its track the day he enrolled. Once this war was decided, he would either be dead, or he would need to decide what the rest of his life was for, and on a corner in Londra with sugar on his fingers, he couldn't tell which looked likelier.
 
 He had told Viridia the truth, though. He didn't think Amelia would go after the other originators. She would make her statement whether she won or lost. If he and the girls died out here, Bal fully believed she would kill Raizen for it, and nobody alive could talk her out of it. The letter in the grate had said as much. It was a poor sort of comfort. But at least the others would leave her alone after that.
 
@@ -310,7 +310,7 @@ Viridia was half lying on the bed with her shoulders propped on the headboard. "
 
 The cask had arrived from the brewer's that morning on a boy's shoulder. Bal carried it to the cauldron and started on the stopper. It fought him. He got a better grip and twisted, and it came free with a pop so loud that everybody jumped.
 
-Lora transferred the poison with her wooden spoon. It took ages. The spoon was not large, and she would not spill a drop, and Bal held the cask steady while the clear stuff went in until she was scraping the bottom of the cauldron.
+Bal emptied a mugful of the brandy into the washbasin first. Lora transferred the poison with her wooden spoon. It took ages. The spoon was not large, and she would not spill a drop, and Bal held the cask steady while the clear stuff went in until she was scraping the bottom of the cauldron.
 
 Getting the stopper back in was worse. It went in partway and stuck, though Bal threw his whole weight on it. In the end he pulled his boot off and used the heel as a hammer. Five hard blows drove the stopper home, and they must have carried down to every table below.
 
@@ -318,7 +318,7 @@ He set the cask on the table, which Lora had cleared of her bottles and jars.
 
 The three of them stood around it.
 
-It was a small cask. Pale maple, a date on the lid, a fat new dent beside the stopper where the boot heel had gone in. They were pinning their lives on it.
+It was a small cask. Pale maple, a date on the lid, the stopper driven back flush with the wood. They were pinning their lives on it.
 
 Nothing else remained to be done.
 

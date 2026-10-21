@@ -1,7 +1,6 @@
-# Sygl — pending fixes from outside reads (NOT APPLIED)
+# Sygl — fixes from outside reads (APPLIED 2026-10-21)
 
-Status 2026-10-21: held by the author until the ChatGPT close reading ("Installment" files) is in.
-Nothing below has touched the manuscript.
+Status: ALL APPLIED 2026-10-21 after the author decided items 1-7 below (261 edits, 90,009 words, gates clean).
 
 ## Sources
 | Read | File | Triage |

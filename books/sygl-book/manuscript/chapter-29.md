@@ -16,7 +16,7 @@ Toma held up a hand, and Bal halted.
 
 "They are fine," Toma said. "They have not been harmed."
 
-Bal searched the girls over, every inch of them in view. Viridia was hammering on nothing and shouting. The cords stood out in her neck with it. Not a sound of it reached him. Lora was beside her, both palms on the air at the circle's edge, and her lips were moving, slow and careful, shaping each word for him. Where the circle ended, the light bent a little, with a faint blue shimmer to it.
+Bal searched the girls over, every inch of them in view. Viridia was hammering on nothing and shouting. The cords stood out in her neck with the shouting. Not a sound of it reached him. Lora was beside her, both palms on the air at the circle's edge, and her lips were moving, slow and careful, shaping each word for him. Where the circle ended, the light bent a little, with a faint blue shimmer to it.
 
 "They cannot hear you," Toma said. "And their magyk will not affect anything outside the circle."
 
@@ -38,7 +38,7 @@ Toma drew himself up, and the priest returned to cover the man.
 
 "I assure you," he said, "if I win, I will take great pleasure in taking their lives. Now. As mage duels go, among high priests, there can be no interference. No familiars may be called. This fight will decide the fate of the war."
 
-"If we're having this fight to decide the war," Bal said, "then killing Lora and Viridia after I'm dead would be an act of war. With no priests left to act as intermediary, Amelia would be free to do whatever she wants." He did not give Toma room to answer. "And even if you left one of them alive, the survivor could ask their originator to intercede on their behalf."
+"If we're having this fight to decide the war," Bal said, "then killing Lora and Viridia after I'm dead would be an act of war. With no priests left to act as intermediary, Amelia would be free to do whatever she wanted." He did not give Toma room to answer. "And even if you left one of them alive, the survivor could ask their originator to intercede on their behalf."
 
 Toma's mouth soured.
 
@@ -50,7 +50,7 @@ With the terms agreed, Toma crossed to one end of the arena, and Bal walked towa
 
 "Good luck," she said, with a quick smile.
 
-She jumped. She bounded to the stands in a single leap, her long skirt flaring out around her, and landed on a bench six rows up, soundlessly. She tucked her bare feet beneath her skirt, ready for the show.
+She bounded to the stands in a single leap, her long skirt flaring out around her, and landed on a bench six rows up, soundlessly. She tucked her bare feet beneath her skirt, ready for the show.
 
 Bal walked on by himself.
 
@@ -100,7 +100,7 @@ It stood where the bolt had struck, taller than three men, a crackling mass of w
 
 This was no mere elemental.
 
-*No inheritance gift,* Fern had read out of the file.
+*No inheritance gift,* Fern had read out of the file. The file had been wrong.
 
 Toma was enjoying this, and made no secret of it.
 
@@ -150,7 +150,7 @@ His strength was going, draining out of him in red. The blood was everywhere aro
 
 He called it back. All of it.
 
-He pulled it home to him out of the storm, every drop that had leaked out of every cut, and he wrapped it around the core, and he pressed. He pushed it in. He forced it into the creature with all the strength he had, every last drop. When there was none left in him, he called on the two vials he had thrown at the start, and their blood rose from the sand and crossed the arena to him, and he forced that in too.
+He pulled it home to him out of the storm, every drop that had leaked out of every cut, and he wrapped it around the core, and he pressed. He pushed it in. He forced it into the creature with all the strength he had, every drop he could spare. When he could spare no more, he called on the two vials he had thrown at the start, and their blood rose from the sand and crossed the arena to him, and he forced that in too.
 
 It lasted past all counting.
 
@@ -162,7 +162,7 @@ He fell. He struck the sand on his side and stayed down, and somewhere far away 
 
 Something landed on the sand before him, softly.
 
-Slowly, he lifted his eyes. Where Akora had been, a shape stood over him, as tall as before and turning as it had turned, though no light was left in it. No lightning anywhere. It was blood. A great slow column of swirling blood, deep red, folding endlessly on itself without a drop spilling onto the sand, and it waited before him, as if summoned.
+Slowly, he lifted his eyes. Where Akora had been, a shape stood over him, as tall as before, still turning, though no light was left in it. No lightning anywhere. It was blood. A great slow column of swirling blood, deep red, folding endlessly on itself without a drop spilling onto the sand, and it waited before him, as if summoned.
 
 A blood elemental. Bal had no other name for it.
 
@@ -222,7 +222,7 @@ Bal found the circle again. Both girls were still inside it, pressed against the
 
 "So you do not plan to use your newfound ability?"
 
-"Not if I don't have to. If somebody comes asking me to, I can compromise. I'll have Amelia let you know before I do it. That's as far as I'll go."
+"Not if I don't have to. If somebody comes asking me to convert them, I can compromise. I'll have Amelia let you know before I do it. That's as far as I'll go."
 
 Amelia agreed at once, and Aren accepted it.
 
@@ -244,7 +244,7 @@ Bal lunged forward. Amelia stopped him.
 
 He let her hold him back.
 
-Aren frowned at him from under white brows. He was not used to mortals forgetting themselves in his presence.
+Aren frowned at him from under white brows. From his face, he was not used to mortals forgetting themselves in his presence.
 
 "Now then." Aren smoothed his beard and turned to Amelia. "As the victor, it is your right to demand anything of the defeated, barring his life. Have you made your decision?"
 
@@ -266,7 +266,7 @@ His fingers snapped again, and Raizen's protest went with him before it was a wo
 
 Aren lifted his face to the sky.
 
-"You know the others will not like this," Aren said, "but I assume that's one reason you did it. I dare say it is not something they will forget. At least they will think twice about engaging you again." His beard stirred. "I must return."
+"You know the others will not like this," Aren said, "but I assume that's one reason you did it. I dare say it is not something they will forget. At least they will think twice about engaging you again. I must return."
 
 To Bal he sounded mild and old and very tired.
 

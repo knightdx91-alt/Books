@@ -34,7 +34,7 @@ Xavier stepped out of the priests' door to check on the noise on the landing, wh
 
 "These are Amelia's newest priests," Bal said. "This is Lora Aegis. Viridia Vizer."
 
-Both priests stared at Viridia's hair. It was hard to miss, that pale blue. Nobody in Raizen's lands would ever mistake it.
+Both priests stared at Viridia's hair. It was hard to miss, that pale blue. Nobody in Raizen's lands would ever mistake what it meant.
 
 Viridia showed her left palm before anybody could ask.
 
@@ -66,7 +66,7 @@ Up close, both of them looked worn through. Thad's eyes had sunk back in his fac
 
 He read from the top sheet in front of him.
 
-"Raizen's sent out scouting parties. Big ones. Two of them found us. We managed to kill them both before anyone could get word back, but this week's been hard on everybody. We've put trained blood mages up on the cliffs, a full cohort, in case they get any clever ideas. Casualties were high after both attacks. We can hold out here a while. But the plain truth is they've got more of everything than we do, and their men are better trained. Ours won't embarrass themselves. They just don't have the experience Raizen's have. We're doing what we can. We can't do it forever."
+"Raizen's sent out scouting parties. Big ones. Two of them found us. We managed to wipe out both before anyone could get word back, but this week's been hard on everybody. We've put trained blood mages up on the cliffs, a full cohort, in case they get any clever ideas. Casualties were high after both attacks. We can hold out here a while. But the plain truth is they've got more of everything than we do, and their men are better trained. Ours won't embarrass themselves. They just don't have the experience Raizen's have. We're doing what we can. We can't do it forever."
 
 Bal drew the papers over and read them himself.
 
@@ -78,13 +78,13 @@ Thad was right. The blood sygl army did not have the men to go on fighting Raize
 
 Xavier answered him. He had been waiting to.
 
-"We have to send in a force to eliminate the priests. Then the High Priest. That is our only chance. Our spies have learned that Aleric, one of Raizen's regular priests, has already started for Londra. The three of them meet in a week's time, at the Three Boars Inn."
+"We have to send in a force to eliminate the priests. Then the High Priest. That is our only chance. Our spies have learned that Aleric, one of Raizen's regular priests, has already started for Londra. He and the others meet in a week's time, at the Three Boars Inn."
 
 There was a map under the reports. Bal pulled it out and drew it to him, and found the canyon, and then the town.
 
 "How long would a team need, to reach it?"
 
-Xavier came around behind his chair and leaned over him to show him the spies' route. It went well out of its way to keep clear of the towns.
+Xavier came around behind Bal's chair and leaned over him to show him the spies' route. It went well out of its way to keep clear of the towns.
 
 "Riding hard, four days. Five at the outside."
 
@@ -118,9 +118,11 @@ Viridia still had her inheritance. The conversion had not touched it. That hair 
 
 The word *they* did not get past either priest.
 
-Neither of them liked it. Thad said so outright. Xavier said it more carefully and at greater length, and the gist was the same: their High Priest had no business walking into Raizen's territory, and if Bal fell, who was left to finish this?
+"No," Thad said.
 
-Bal heard them out. Iro had found them that afternoon at a lake nobody had planned to visit. Bal would not sit four days' ride away while Raizen's next man found Viridia. She went with him or she didn't go, he told them, and that was the end of it.
+Xavier took longer about it. "You are our High Priest. Raizen's territory is no place for you, and you know it. If you go in and don't come out again, who is left to finish this?"
+
+"And if I stay here," Bal said, "who keeps Viridia alive? Iro found us this afternoon at a lake nobody had planned to visit. Raizen's next man won't need a plan either." He was not going to sit four days' ride away and wait to hear how it went. "She goes with me or she doesn't go at all. That's the end of it."
 
 Thad was going to argue anyway, and thought better of it.
 
@@ -132,7 +134,7 @@ He was already pulling papers toward him. Thad went to a chest in the corner for
 
 His thigh complained on every step. Lora's potion had closed the cut, and the muscle under it had decided not to forgive him yet.
 
-He found Lora climbing from the lower yard with her hair falling down and the fight still in her face. Viridia was not far behind, with Hopper ranging ahead of her through the soldiers' legs. Nobody tried to stop her now.
+He found Lora climbing from the lower yard with her hair falling down and the fight still in her face. Viridia was not far behind, with Hopper ranging ahead of her through the press of soldiers. Nobody tried to stop her now.
 
 Lora started talking the moment she spotted him and kept it up for most of the climb.
 
@@ -162,7 +164,7 @@ He had a single sheet in front of him now, written front and back. He read from 
 
 "The inn gets a delivery of ale every other Wednesday," Xavier went on. "This coming one falls on the day the priests should arrive. That might be something you can use. The innkeeper might be open to a bribe. Our people couldn't tell either way. The guard in Londra is about what you'd expect for a city that size. They step up the patrols while the priests are visiting. Aleric is the one you'll know on sight. He has an old scar that runs down over the right eye."
 
-"Rooms are waiting for you at the Winespring Inn," he added. "Lady Amelia wrote ahead to arrange them."
+"Rooms will be waiting for you at the Winespring Inn," he added. "Lady Amelia will write ahead to arrange them. It's on North Street, just past the turning for the Three Boars."
 
 He put the paper down.
 
@@ -172,7 +174,7 @@ The girls had none, and neither did Bal.
 
 He laid out the plan.
 
-People were not going to look closely at whoever was traveling with someone so obviously Tempus. So Viridia was to be a young noble lady, going home to Pashar because the war had made the borderlands too dangerous for her. Lora had been around nobility. She could coach Viridia on the road. And Bal would be the lowly manservant who saw to the horses and kept them all safe.
+Viridia was to be a young noble lady, going home to Pashar because the war had made the borderlands too dangerous for her. Lora had been around nobility. She could coach Viridia on the road. And Bal would be the lowly manservant who saw to the horses and kept them all safe.
 
 "Listen. This is dangerous," he said. "If either of you doesn't want to risk it, I understand. Nobody's going to think less of you."
 
@@ -238,7 +240,7 @@ Amelia's glance flicked to the girls on the bed, who were following every word. 
 
 He knew it. Iro's blade had opened his thigh to the muscle.
 
-"Which is another reason it has to be me. They won't expect me anywhere near his territory. Much less heading for the heart of it." He reached for help. "Tell her, Lora. Isn't it a good plan?"
+"Which is another reason it has to be me. They won't expect me anywhere near his territory. Much less heading for the heart of it." He looked to Lora for help. "Tell her, Lora. Isn't it a good plan?"
 
 Lora took a second to choose her words.
 

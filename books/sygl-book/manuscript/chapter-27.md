@@ -10,7 +10,7 @@ Bal was satisfied. "Nobody's after us. No reason I can see to rush. We can take 
 
 The black blew through its nose as if it agreed.
 
-They walked south through the yellow grass, and the morning came up warm and then warmer, and Viridia talked. She was telling Lora about her village, story after story, about people from home. Lora asked after each of them, and Viridia answered with her hands going as much as the reins allowed.
+They rode at a walk south through the yellow grass, and the morning came up warm and then warmer, and Viridia talked. She was telling Lora about her village, story after story, about people from home. Lora asked after each of them, and Viridia answered with her hands going as much as the reins allowed.
 
 Last night she had cried herself out in Lora's arms, and then she had slept. This morning she was herself again, or near enough that Bal saw no difference from where he rode.
 
@@ -42,7 +42,7 @@ She laughed, the same as this morning.
 
 ---
 
-Bal smiled at her, at the pleasure all over her. The Three Boars was behind her, then. Her hair was popping again, tiny blue snaps along the ends of it every time the breeze lifted them, and he had missed the sound more than he'd realized.
+Bal smiled at her. Her hair was popping again, tiny blue snaps along the ends of it every time the breeze lifted them, and he had missed the sound more than he'd realized. The Three Boars was behind her, then.
 
 It was a hot day. By late morning the sweat was running into his eyes, and he mopped his forehead with a rag from his pocket.
 
@@ -60,7 +60,7 @@ The feeling did not go anywhere.
 
 If anything it grew. It sat between his shoulder blades through the noon heat and into the long afternoon, and the more he ignored it, the heavier it got. When the sun began to drop, he gave up on jokes. His head kept going around: behind them, the sky, the grass to the right, the grass to the left, behind them again.
 
-Somewhere along the way the girls had stopped talking. Bal missed the moment. They did not feel what he felt, plainly. They rode with their hands tighter on the reins anyway, because the feeling was his and they trusted him.
+Somewhere along the way the girls had stopped talking. Bal missed the moment. They did not seem to feel what he felt. They rode with their hands tighter on the reins anyway, because the feeling was his and they trusted him.
 
 The shadows of the three horses stretched out long and thin on the road beside them. It would be close to six. Back in Londra, three priests who had drunk Ventish brandy at lunch yesterday would be dying about now, if Lora's book was right.
 
@@ -82,7 +82,7 @@ Lora said, "Feel what?"
 
 "I can't explain it." Viridia's voice had dropped. "It feels like we're in danger."
 
-Bal's attention was still back toward Londra, and he could not pull it loose.
+Bal's mind was still back toward Londra, and he could not pull it loose.
 
 "Are we in danger?" Lora asked him.
 
@@ -138,7 +138,7 @@ He went on calling until the sun was down and his voice was gone again, and the 
 
 He could not search in the dark. He knew that. Stopping was harder.
 
-The horse that had been hit was Lora's. It lay on its side at the edge of the farthest crater, and he forced himself over to it. Her bedroll was still tied behind the saddle. He worked the straps loose breathing through his mouth, and pulled the roll free, and carried it upwind until the air was clean enough to breathe. He spread it out and stretched out on top of it.
+The horse that had been hit was Lora's. Neither of the others was anywhere in sight. It lay on its side at the edge of the farthest crater, and he forced himself over to it. Her bedroll was still tied behind the saddle. He worked the straps loose, breathing through his mouth, and pulled the roll free, and carried it upwind until the air was clean enough to breathe. He spread it out and stretched out on top of it.
 
 Sleep was slow coming. Every time his eyes shut, something was waiting behind them. Lora somewhere dark. Viridia with her hands tied. People who wanted them dead, with the two of them right there in reach. He turned over, and turned back, and the bedroll carried a faint smell of Lora's alchemy chest, sharp and green.
 
@@ -172,11 +172,11 @@ Bal rolled up the bedroll, tied it with its own strap, and turned south, toward 
 
 It took him two days on foot.
 
-The road was white with dust both days. He drank from a ditch, and once from a horse trough at the edge of a field whose owner never appeared. At night he slept a few hours on Lora's bedroll beside the road, and woke before light, and walked again. By the second afternoon he was not thinking much at all. His feet went on without him.
+The road was white with dust both days. He drank from a ditch, and once from a horse trough at the edge of a field whose owner never appeared. He had nothing to eat, and gave no thought to finding any. At night he slept a few hours on Lora's bedroll beside the road, and woke before light, and walked again. By the second afternoon he was not thinking much at all. His feet went on without him.
 
 Some of the way he talked to the girls in his head. He told Lora he was coming. He told Viridia not to give anybody any lip until he got there, which was a waste of breath, because she would anyway, and he hoped she did.
 
-Whenever he stopped, it found him again, and he stopped as little as he could.
+Whenever he stopped, their absence found him again, and he stopped as little as he could.
 
 The village he came to at the end of the second day was small, a crossroads with a well and maybe twenty houses, and there was a party of Blood soldiers in the square.
 
@@ -248,7 +248,7 @@ They could not catch all of them. Every time one got through, it slammed down am
 
 Bal's road had brought him in behind the Tempus party. From the hilltop the two mages were plain to see, their backs to him, bolt after bolt leaving their hands, steady and unhurried.
 
-He slid down off Barda and left him to graze. Then he took to the trees on foot.
+He slid down off Barda, blown and head-down, and left him to graze. Then he took to the trees on foot.
 
 He went as quietly as he could, crouched, from trunk to trunk. He kept waiting for a sentry. There wasn't one. With the temple in front of them, every man they had was down on the field.
 
@@ -298,13 +298,13 @@ It threw him. He sailed off the platform after the first mage, and hit the groun
 
 For a while, everything was white and empty.
 
-The smell came next. Burnt skin. His own. He could not tell yet whether it hurt. His body had gone somewhere else and not told him where.
+The smell came next. Burnt skin. His own. He could not tell yet whether it hurt. His body had gone somewhere else.
 
 His blood came crawling back to him over the dirt, and slid home.
 
 Up on the platform, the storm mage laughed. Then he jumped down, and Bal heard his boots land, and then walk. Unhurried. They came around and stopped by his head.
 
-He had to move. He had to. His arms lay where they had fallen. His legs might have belonged to somebody else.
+He had to move. He had to. His arms lay where they had fallen. His legs would not answer.
 
 "I think I'll get a promotion after killing you," the mage said, in an easy, friendly sort of voice, as if they were waiting together for a coach. The lightning whip swung lazily to and fro above Bal's face, humming. "It's too bad I have to end it now. I can't chance you getting away."
 

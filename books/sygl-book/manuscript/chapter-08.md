@@ -58,7 +58,7 @@ Bal shook his head. Nothing he could say to that would come out right, so he lef
 
 "As a High Priest, you can," Amelia said. "You alone. Only a High Priest can convert someone's sygl."
 
-She drew his hand over and turned it palm up on her knee. The sygl glowed in the middle of it, faint and red. With the tip of one fingernail she drew a line across the heel of his palm, light as a feather, without breaking the skin.
+She drew his hand over and turned it palm up on her knee. The sygl glowed in the middle of it, faint and red. With the tip of one fingernail she drew a line across the heel of his palm without breaking the skin.
 
 "You cut your left hand here," she said. "Then you cut theirs, and you put the two together and mingle the blood. Then you have to send your blood into them. Push it in." She pressed her thumb into the middle of his palm. "It takes a bit. But once their body gets used to your blood, the sygl on their palm will change. After that they're officially one of my followers."
 
@@ -104,7 +104,7 @@ When he ran out, he asked about her.
 
 "Who did it?"
 
-"I never found out. Whoever it was bit me and left me lying in the middle of a road, and a stranger found me there." She watched the fire. "Back then everybody knew vampires existed, but there weren't many of us. Even fewer than there are now."
+"I never found out. Whoever it was bit me and left me lying in the middle of a road, and a stranger found me there." She watched the fire. "Back then everybody knew vampires existed, but there weren't many of us. Even fewer then than there are now."
 
 "The stranger," Bal said. "What happened to him?"
 
@@ -168,7 +168,7 @@ Amelia thought it over.
 
 "Well, after your familiar class, I'll probably head out and see some of my other followers. On your home plane. Let them know I'm back." She smoothed a crease out of her skirt. "Most of them won't ever be able to apply to this school. But I'd like them to know I'm here, at least. I'm not like the other originators. I do try to keep in touch with my followers when I can." She left the skirt alone. "Other than that, I've got a few other errands to run."
 
-The people she meant were somewhere back on his own side of the world. Grown men and women with red marks in their palms, keeping their left hands in their pockets at work. Some of them would have been told she was a myth their whole lives. Tomorrow somebody was going to open a door and find her standing there.
+The people she meant were somewhere back on his home plane. Grown men and women with red marks in their palms, keeping their left hands in their pockets at work. Some of them would have been told she was a myth their whole lives. Tomorrow somebody was going to open a door and find her standing there.
 
 "Speaking of classes, though," Amelia said, unfolding herself from the couch, "you need to get some sleep. A loud bell will wake you when it's time to get up."
 

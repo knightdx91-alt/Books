@@ -44,7 +44,7 @@ That, at least, he could answer, once his tongue came unstuck.
 
 The girl laughed and waved a hand.
 
-The air between them shivered. Stone grated softly on stone, and in a matter of seconds two stone benches stood on the floor between them, facing one another, as solid as if they had been carved there a hundred years ago. They were plain gray, smooth-topped, with lion's feet at the corners. A thin film of dust lay on them. Bal crouched, curious in spite of himself, and touched one of the stone feet. Every claw had been carved separately, down to the tiny curved tips.
+The air between them shivered. Stone grated softly on stone, and in a matter of seconds two stone benches stood on the floor between them, facing one another, as solid as if they had been carved there a hundred years ago. They were plain gray, smooth-topped, with lion's feet at the corners. Bal crouched, curious in spite of himself, and touched one of the stone feet. Every claw had been carved separately, down to the tiny curved tips.
 
 "Have a seat," she said, "and I'll explain."
 
@@ -64,7 +64,7 @@ Then he looked back at Amelia, sitting across from him with her hands folded in 
 
 "So," Bal asked, "a temple for what?"
 
-Amelia frowned. Every look she'd given him so far had been amused. This one put a little crease between those perfect eyebrows.
+Amelia frowned. Every look she'd given him so far had been amused. This one put a little crease between her brows.
 
 "You've never heard of me?" she said. "The Queen of the vampires?"
 
@@ -164,7 +164,7 @@ Bal lowered his arm cautiously. The hall smelled warm and musty, like the orphan
 
 "Only when I'm angry," Amelia said through her teeth. "I haven't been this angry in a long while."
 
-Her jaw was still set hard, and her fingers had knotted so tightly in the black fabric of her skirt that the knuckles showed. When she spoke, she spoke mostly to herself, in a low, furious mutter.
+Her jaw was still set hard, and her fingers had knotted so tightly in the black fabric of her skirt that the knuckles were white. When she spoke, she spoke mostly to herself, in a low, furious mutter.
 
 "They lock me up in here and then act like I don't exist." She drew a slow breath and let it out again. Then she turned back to him, and some of the anger left her. "Why haven't you gone to school? You've got the magic for it. I can sense it on you. Even without my magic, you're still powerful in your own right."
 
@@ -172,7 +172,7 @@ Bal held up his stump.
 
 "No sygl," he said simply. "No school will let you in unless you have a sygl."
 
-He'd said it to himself so many times that the words had worn flat, like directions to the bathroom. No use sounding sorry about a door that was shut.
+He'd said it to himself so many times that the words had worn flat, like a grace said before supper. No use sounding sorry about a door that was shut.
 
 Amelia narrowed her eyes. The firelight caught them as she did, and now Bal saw clearly what color they were. Red, the same red as the rubies at her ears.
 
@@ -196,7 +196,7 @@ Bal swallowed hard.
 
 "Uhm," he said. "Within reason."
 
-Amelia laughed and sat down beside him, and the spell of the moment broke. Her shoulder brushed his. She gave off no warmth at all, though she was right up against him and he should have felt some. She swung her feet beneath the hem of her dress like a girl let out of lessons early.
+Amelia laughed and sat down beside him, and the moment broke. Her shoulder brushed his. She gave off no warmth at all, though she was right up against him and he should have felt some. She swung her feet beneath the hem of her dress.
 
 "Within reason," she repeated. "Good. I like a boy with sense." She turned toward him on the bench, her knee against his, and her voice went serious. "Then hear me, Balthazaar. You shall go to this school. I will bond myself to you as your familiar. Doing so will free me from this place."
 

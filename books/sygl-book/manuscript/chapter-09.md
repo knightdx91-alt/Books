@@ -10,7 +10,7 @@ He wrote small, tore the unused half off and handed it back, and laid his half o
 
 "Let me see your schedule," she said.
 
-He had it in his back pocket. She unfolded it, laid it beside a sheet of her own, and ran her eyes down both. Once or twice somebody at the Tempus table leaned out to see who Viridia was eating with, and leaned back in.
+He'd picked it up on his way out. She unfolded it, laid it beside a sheet of her own, and ran her eyes down both. Once or twice somebody at the Tempus table leaned out to see who Viridia was eating with, and leaned back in.
 
 "Familiar class," Viridia read. "Same. Warfare, same. Crafting, same." She tapped the second line of his. "Rune working, different."
 
@@ -18,7 +18,7 @@ He had it in his back pocket. She unfolded it, laid it beside a sheet of her own
 
 "All of them but one." She handed the schedule back. "Lucky you."
 
-The oatmeal was thick and hot, with brown sugar melting in a crust on the top. The eggs were good and the bacon was better and he ate both and then he ate her last piece of toast when she pushed it at him. At Saint Andre's, breakfast had been something you got through.
+The oatmeal was thick and hot, with brown sugar melted into a crust on top. The eggs were good and the bacon was better and he ate both and then he ate her last piece of toast when she pushed it at him. At Saint Andre's, breakfast had been something you got through.
 
 When the plates were empty, they went to class together.
 
@@ -34,7 +34,7 @@ The familiar class was at the back of the school. They followed a long hallway p
 
 She let it be, and the hallway went on.
 
-The classroom was the last door on the far right. Inside, on the far wall, was a second door, a heavy wooden one with an iron latch, and that one led outside. Some of them were bound to bring something large out of the forest, and it made sense to call it out there instead of explaining doorways to it.
+The classroom was the last door on the far right. Inside, on the far wall, was a second door, a heavy wooden one with an iron latch, and that one led outside. Some of them, Bal supposed, were bound to bring something large out of the forest, and it made sense to call it out there instead of explaining doorways to it.
 
 The room itself wasn't much. Twenty desks and chairs stood in four rows of five in front of a chalkboard. Down the left-hand wall were two tall windows, and through them was the forest, close and green and dark under the trees. Someone had written MR. PORTER on the chalkboard in large, careful capitals.
 
@@ -42,9 +42,9 @@ They were two of the first students in, and they took two desks together in the 
 
 Mr. Porter was already at his own desk at the front. He was feeding cheese to a raven.
 
-It was a big bird, bigger than any raven Bal had seen sitting on a gutter, and it stood on the corner of the desk with its feathers sleeked down and its head tilted, watching the teacher's fingers. Mr. Porter broke a yellow cube off a block wrapped in wax paper. The raven took it from him, neatly, and lifted its beak to the ceiling to get it down. Then it tilted its head again and waited for the next one.
+It was a big bird, bigger than any raven Bal had seen sitting on a gutter, and it stood on the corner of the desk with its feathers sleeked down and its head tilted, watching the teacher's fingers. Mr. Porter broke a yellow cube off a block wrapped in wax paper. The raven took it from him, neatly, and lifted its beak to the ceiling to swallow it. Then it tilted its head again and waited for the next one.
 
-The others came in by ones and twos. Nearly all of them looked at Bal as they came past, at the blood sygl on his sweater and then at his face. A few went around by the windows so they would not have to walk by his desk.
+The others came in by ones and twos. Nearly all of them looked at Bal as they came past, at the blood sygl on his sweater and then at his face. A few gave his corner a wide berth so they would not have to walk by his desk.
 
 When the last chair was filled, Mr. Porter wiped his fingers on a handkerchief, folded the wax paper over the rest of the cheese, and stood.
 
@@ -78,7 +78,7 @@ When he was satisfied, he waved his hand.
 
 A soft chime came from every desk at once. On each one, a silver ring had appeared.
 
-Bal's was lying in the groove at the top of the desk where a pencil was supposed to go. It was plain silver, a little heavy for its size, and resting in his palm it gave off a faint, slow pulse, like the warmth that stays in a stone after the sun has gone off it. Around the room people were turning their rings in the light and talking at once.
+Bal's was lying in the groove at the top of the desk where a pencil was supposed to go. It was plain silver, a little heavy for its size, and resting in his palm it gave off a faint, slow pulse, warm as a stone after the sun has gone off it. Around the room people were turning their rings in the light and talking at once.
 
 Mr. Porter cleared his throat. The talking stopped.
 
@@ -94,7 +94,7 @@ Mr. Porter's eyes narrowed behind the glasses.
 
 "What are we supposed to do if we already have a familiar?" Bal asked.
 
-He paid no attention at all to what the teacher's face was doing. Out of the corner of his eye was Viridia, with her chin on her folded hands, waiting, enjoying herself enormously.
+He didn't check what the teacher's face was doing. Out of the corner of his eye was Viridia, with her chin on her folded hands, waiting, enjoying herself enormously.
 
 Mr. Porter went red. It started above his collar and climbed.
 
@@ -154,7 +154,7 @@ She strolled toward him up the aisle between the desks, in no hurry at all. The 
 
 "Think your next words through," Amelia said, "very carefully."
 
-Mr. Porter's mouth opened and stayed open, empty. It was a good choice.
+Mr. Porter's mouth opened and stayed open, wordless. It was a good choice.
 
 Bal decided he had better step in before someone got hurt. By someone, he meant Mr. Porter. By hurt, he meant killed.
 
@@ -180,7 +180,7 @@ They filed out past him. Viridia stopped by Bal's chair on her way.
 
 Mr. Porter said something under his breath to Huginn. The raven dropped off the desk, flapped twice, and skimmed low over the students' heads after the class to keep an eye on them. Mr. Porter shut the door.
 
-With only the two of them left, the room was quiet enough to hear the clock. Mr. Porter stayed by the door a while before he turned around.
+With only the two of them left, the room went very quiet. Mr. Porter stayed by the door a while before he turned around.
 
 "Ah," he said. "Um. Seeing as you already have a familiar, I could excuse you from this class, if you wish, Mr. Norheart." His hand went to the knot of his tie. "You are welcome to stay, of course," he added quickly.
 
@@ -198,13 +198,13 @@ Bal stood. The silver ring was still in the groove of his desk, where Amelia's k
 
 The library was upstairs, as promised: straight up the main stairs, a right at the top, and then the second door on the left.
 
-Partly he was curious what books a school this old kept. But he also had a plan. Last night, on the couch, Amelia had talked about still wanting revenge on the others for what they had done to her, and somewhere between that and the bell he had made up his mind to look into ways he could help. Something besides converting followers.
+Partly he was curious what books a school this old kept. But he also had a plan. Last night, on the couch, Amelia had talked about still wanting revenge on the others for what they had done to her. Somewhere between that and the bell he had made up his mind to look into ways he could help. Something besides converting followers.
 
 He could have asked her. She would have told him anything he wanted to know. He wanted to do the reading himself first, and come to her with an idea or two of his own.
 
 The library held thousands of books. The shelves went up two stories to a narrow iron gallery, with ladders on rails to reach it, and the whole room smelled of paper and warm dust. Bal stopped inside the door and turned a slow circle.
 
-There was a librarian at a desk near the front, a woman with a pencil behind each ear. Thankfully she was the helpful sort. He told her what he was after: the originators, and what laws governed how they dealt with their own followers, and with each other's. She went off into the stacks without a word and returned with an armful.
+There was a librarian at a desk near the front, a woman with a pencil behind each ear. Thankfully she was the helpful sort. He told her what he was after: the originators, and what laws governed how they dealt with their own followers, and with each other's followers. She went off into the stacks without a word and returned with an armful.
 
 Bal read for the next hour at a table under a window.
 
@@ -244,8 +244,8 @@ Mr. Winters came down the rows while they worked. At Bal's desk he stopped and b
 
 "That's precise," he said, and tapped the avoidance rune with one finger. "Very good. That's an essential one to know if you're ever traveling at night in unfriendly territory."
 
-He moved on. Bal studied the rune a while longer, the hook of it and the clean line through the middle, and then he copied the next one.
+He moved on. Bal studied the rune a while longer, the hook of it and the clean line through the middle, and then he copied the next one: a squat purification rune, for turning whatever liquid it touched into plain water.
 
 He was almost glad when the bell went for lunch.
 
-Almost, because he had liked every minute of the runes. He closed the kit, fastened the catch, and carried it out with him, and all down the hallways to the dining hall he wondered whether Viridia would be at lunch, or whether she was still somewhere out in that forest, holding up a silver ring and waiting for something to come.
+Almost, because he had liked every minute of the runes. He closed the kit, fastened the catch, and carried it out with him, and all down the hallways to the dining hall he wondered whether Viridia would be at lunch, or whether she was still somewhere out in that forest, holding up a silver ring and waiting for something to come. He remembered Mr. Porter's warning about the forest, and walked faster.

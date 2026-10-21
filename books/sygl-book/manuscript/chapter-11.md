@@ -1,6 +1,6 @@
 # Chapter Eleven: Break Their Toys
 
-It was the same as Viridia's, with differences. Where Viridia had Raizen's mark, the blood sygl sat on the back of Amelia's tight black sweater, red on black, the same mark Bal wore on his, and below the sweater was a short black skirt. Where every other girl in the school wore plain white socks, Amelia's were long and striped black and red, and they came up past her calves.
+Her uniform was the same as Viridia's, with differences. Where Viridia had Raizen's mark, the blood sygl sat on the back of Amelia's tight black sweater, red on black, the same mark Bal wore on his. Below the sweater was a short black skirt. Where every other girl in the school wore plain white socks, Amelia's were long and striped black and red, and they came up past her calves.
 
 She looked good in it. Bal could admit that much. He also could not keep from looking, and Amelia knew it. She hopped down off the stage, landed lightly, and her smile got wider with every step she took toward them.
 
@@ -36,7 +36,7 @@ Wind hit him first. It was cold and smelled of cut grass, and it came straight u
 
 They stood on top of a hill. Below them, filling the valley from one side to the other, was an army.
 
-So many soldiers in one place was a thing Bal had no practice at. Tents ran off in rows to the far tree line, gray canvas going pale with distance, and between the rows were cookfires and wagons and horse lines and narrow lanes trodden down to dirt. Flags stood up all through the main camp on tall poles, and each carried the same jagged yellow mark, snapping in the wind. It was Raizen's. Tempus.
+Never in his life had Bal seen so many soldiers in one place. Tents ran off in rows to the far tree line, gray canvas going pale with distance, and between the rows were cookfires and wagons and horse lines and narrow lanes trodden down to dirt. Flags stood up all through the main camp on tall poles, and each carried the same jagged yellow mark, snapping in the wind. It was Raizen's. Tempus.
 
 Somebody had sewn all those flags. Hundreds. Bal wondered if they had a person whose whole job it was.
 
@@ -62,9 +62,9 @@ Bal worked it through.
 
 Down in the valley a horn blew, flat and long, and every block stopped where it stood.
 
-Bal took them all in. Men with spears. Men with swords. Somebody's sons, somebody's fathers, standing in rows on a hillside so that an originator who never thought about them could feel he'd answered an insult. Only this morning he had met this in the library, in neat print. Battle after battle, and nobody in the books had ever asked the people in the rows.
+Bal took them all in. Men with spears. Men with swords. Somebody's sons, somebody's fathers, standing in rows on a hillside so that an originator who never thought about them could feel he'd answered an insult. Only this morning he had met armies like this one in the library, in neat print. Battle after battle, and nobody in the books had ever asked the people in the rows.
 
-He would not step aside while innocent people were killed for the originators' amusement. He knew that already, the same as he knew his own name.
+He would not step aside while innocent people were killed for the originators' amusement. He knew that already.
 
 "So where does that leave us?" he asked.
 
@@ -82,7 +82,7 @@ She said the name gently, as if it might break.
 
 "He was the only blood sygl ever born into his family. All the rest of them had always gotten Terra's sygl, every generation, and they were stoneworkers, so it helped them enormously. Peter was sixteen when his sygl came, and he'd already learned the whole family business. And then his palm came up red." Amelia's arms tightened across her sweater. "They shunned him for it. So he went wandering up into the mountains. A few days later he found the perfect spot for a temple. He wasn't a Terra, and his family had thrown him out, so he built a temple to me instead. Every stone in it was laid by his own hand."
 
-Sixteen, and cast off for the very mark on Bal's own palm. It seemed to sit up and want attention.
+Sixteen, and cast off for the very mark on Bal's own palm. The likeness seemed to sit up and want attention.
 
 "How can you know all that?" he asked. "You were locked away."
 
@@ -94,7 +94,7 @@ The wind pushed her hair across her face, and she let it stay.
 
 "It took Peter twelve years to finish his temple," she said. "As a final dedication, he killed himself on my altar. He let his lifeblood run out so he could live with me forever." She was quiet for a breath. "All of his memories are still with me. From his first day to his last. What his family did to him hurt him very badly. And he was glad, at the end. Glad he'd been able to make something that would last long after he was gone."
 
-Twelve years. Bal could not think of anything he had kept at for twelve years. He had been six, twelve years ago.
+Twelve years. Bal could not think of anything he had kept at for twelve years.
 
 He thought of a boy alone in the mountains, sixteen, with a red palm, setting one stone on top of another for a god who would never come to see it. And then the god herself, standing on a cold hill, carrying the whole of him around inside her, birth to death, with nobody to tell.
 
@@ -154,11 +154,11 @@ The window in front of him said otherwise.
 
 They had come down in a bedchamber, and the bedchamber had a tall arched window, and through it the temple fell away beneath him in tiers of pale cut stone. It filled the floor of a canyon. On three sides the mountains went straight up, bare and gray and streaked with snow at the top, and the only way in was a single narrow pass on the fourth side. Even a small army could hold that pass. Bal understood at once why Amelia had made this place her base.
 
-There were windows everywhere he looked, rows of them, set into wing after wing. The rooms could have held several hundred people without filling up. The priests' quarters alone were large, and two whole sets belonged to High Priests, and he was standing in one of them.
+There were windows everywhere he looked, rows of them, set into wing after wing. The rooms could have held several hundred people without filling up. The priests' quarters alone were large, and two whole sets of rooms belonged to High Priests, and he was standing in one of them.
 
 Far down in the lowest courtyard, small figures were crossing back and forth with crates on their shoulders. Somebody was hanging washing from a line strung between two pillars. A handful of the followers Amelia had already brought, making a start on living here.
 
-Twelve years. Looking out at it, Bal believed them all.
+Twelve years. Looking out at it, he could believe all twelve.
 
 "I promoted two of my followers to priest yesterday," Amelia said behind him, "to help you. They're next door. I'll let you meet them, and then they'll go and talk to the commander."
 
@@ -198,7 +198,7 @@ He told them why they were here. He told them more than he would tell the comman
 
 Thad's hands had gone flat on the table. Xavier said nothing. His eyes had fixed on a bare patch of wall and did not come off it.
 
-Bal went on. The goal was to get everyone trained so they could go after Raizen, soon, because Raizen was already training his own army to do the same to them.
+Bal went on. The goal was to get everyone trained so they could go after Raizen, soon, because Raizen was already training his own army to come after them.
 
 "The only thing helping us," Bal said, "is that this temple is hidden. We've got surprise on our side. Raizen won't expect us to have started gathering an army already."
 

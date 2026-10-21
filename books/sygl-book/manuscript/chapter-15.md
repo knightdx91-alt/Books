@@ -14,7 +14,7 @@ The card hadn't moved.
 
 Every teacher in the castle had come to one conclusion overnight. Yesterday had been a free day, and today was going to pay for it.
 
-Mr. Porter set the class an essay on the duties of a familiar before he had sat down, and watched Bal the whole time they wrote it. Mr. Winters filled his chalkboard, wiped it, and filled it again. In Warfare the instructor ran them through forms in the sand until nobody had any breath left to spend on talking, and Lora, three places down the line, watched him with the point of her rapier dead level from the first form to the last. Even in Crafting the only sounds were files on metal and somebody's stool creaking.
+Mr. Porter set the class an essay on the duties of a familiar before he had sat down, and watched Bal the whole time they wrote it. Mr. Winters filled his chalkboard, wiped it, and filled it again. In Warfare the instructor ran them through forms in the sand until nobody had any breath left to spend on talking. Lora, three places down the line, watched Bal with the point of her rapier dead level from the first form to the last. Even in Crafting the only sounds were files on metal and somebody's stool creaking.
 
 Nobody chatted. Nobody got the chance. Bal passed Viridia once in a corridor between classes, and she pulled a face at him over an armload of books, and that was all either of them said to the other until dinner.
 
@@ -66,13 +66,13 @@ Bal looked past her. Over at Lora's old table a boy found his food again the mom
 
 "What could they do to you if you refused?"
 
-Viridia winced. It was the question she had been hoping he would skip, and she made him wait for the answer.
+Viridia winced. It was plainly the question she had been hoping he would skip, and she made him wait for the answer.
 
 "It depends on whether it comes as a school rule," she said, "or just something all the Lead Mages try to do. If it's a school rule, they could expel us. If it's only the Lead Mages, it's demerits."
 
 At *expel*, Lora's butter knife stayed in her fist, upright on the tablecloth with its point to the ceiling, and Bal doubted she knew it was there.
 
-So the school would make it a rule. Probably.
+Going by the teachers' faces, the school would make it a rule.
 
 Bal drew in a long breath and eased it out. If the teachers did this, he could think of one way to stay around the two of them, and it was not the kind of thing you said over soup.
 
@@ -88,9 +88,9 @@ After dinner the three of them walked to the Blood dorm together, past every ope
 
 The new door was in the wall beside the library. Bal had put it there that morning, between waking up and finding his socks. He had stood barefoot at the hearth and pictured Lora with the green book, reading the poultice chapter aloud until somebody stopped her, and then he had pictured where she would actually do it. A long bench scrubbed pale. A stone sink with a pump. Beams overhead with herbs hung upside down to dry. A window, so whatever she boiled had somewhere to go.
 
-Lora opened the door and smelled dried mint and did not come out again.
+Lora opened the door and smelled dried mint and did not come out again for hours.
 
-Bal and Viridia kept to the couches. Viridia spread her runes homework over the low table and chewed her pencil over it. Bal took the old couch with the history of Raizen's wars.
+Bal and Viridia kept to the couches. Viridia spread her runes homework over the low table and chewed her pencil over it. Bal took the old couch and the history of Raizen's wars.
 
 From the herb room came the squeal of the pump. Much later Lora's voice said "No, no, no, no" to something that hissed.
 
@@ -106,7 +106,7 @@ Viridia was quiet.
 
 Bal turned the page.
 
-Any other night he would have waited until the girls had gone home to open this book at all. Raizen was Viridia's originator. But if he ever did have to offer to convert them, he wanted Viridia to understand exactly what they were up against first. He left the book open in his lap and explained it as he saw it. None of the originators were happy that Amelia was free. They had decided Raizen ranked lowest of them, so dealing with her was his job. They knew perfectly well they could not trap her again as they had before. This was all they had left, short of actually fighting her, and none of them wanted that.
+Any other night he would have waited until the girls had gone home to open this book at all. Raizen was Viridia's originator. But if he ever did have to offer to convert them, he wanted Viridia to understand exactly what they were up against first. He left the book open in his lap and explained it as he saw it. None of the originators were happy that Amelia was free. They had decided Raizen ranked lowest of the four, so dealing with her was his job. They knew perfectly well they could not trap her again as they had before. Going after her followers was all they had left, short of actually fighting her, and none of them wanted that.
 
 Viridia listened to all of it. She didn't argue. She didn't ask anything else either. Her pencil lay across her finished runes and did not move again, and when Lora came out smelling of scorched ginger to report that the second recipe had worked, it was Bal who had to ask her how.
 

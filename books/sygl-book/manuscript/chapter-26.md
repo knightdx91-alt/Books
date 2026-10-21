@@ -2,7 +2,7 @@
 
 It was well after nightfall when they finally pulled up.
 
-They had galloped until the horses could not, and walked them until they could again, and the road had faded from yellow to almost nothing under a thin slice of moon. They had passed one farmhouse with a light in the window, miles back, and beyond it, grass and more grass and the wind moving through it. The black was blowing hard. Twice it stumbled on ruts too dark to see. When a clump of trees rose out of the dark beside the road, Bal turned off toward it, and Lora and Viridia followed without asking why.
+They had galloped until the horses could not, and walked them until they could again, and the road had faded from yellow to almost nothing under a thin slice of moon. They had passed one farmhouse with a light in the window, miles back, and beyond it, grass and more grass and the wind moving through it. Bal's black was blowing hard. Twice it stumbled on ruts too dark to see. When a clump of trees rose out of the dark beside the road, Bal turned off toward it, and Lora and Viridia followed without asking why.
 
 The ground in among the trunks was soft. The hooves sank into it with hardly a sound, and fallen leaves lay over everything so thick that they covered the tracks almost as fast as the horses made them. Bal led them in until the road was gone behind them. From what he remembered of the ride in, this was the last real cover they would have until Amelia's territory. After this it was open grass clear to her border.
 
@@ -12,7 +12,7 @@ He swung down. His legs had quit belonging to him an hour or two back, and he st
 
 "No," Lora said. "No, you're right."
 
-Viridia was down off her horse first. She had nothing to add.
+Viridia was down off her horse first.
 
 The girls saw to the saddlebags. Bal walked back out to where the trunks thinned and stood a while, watching the road. It ran off pale in both directions until the night swallowed it. Nothing moved on it. No hoofbeats, no lantern, nobody shouting. The priests would be sleeping off the brandy by now, most likely, and Leon would never finish his goat story. He returned to the horses.
 
@@ -32,7 +32,7 @@ Viridia lifted her head.
 
 She said it straight at him and held his gaze while she said it. He didn't make a joke. He let her say it, and he let it stand.
 
-She took a deep breath. It left her slow and uneven.
+She took a deep breath. It left her slowly and unevenly.
 
 "When Aleric told me to drink," she said, "I was so scared."
 
@@ -56,7 +56,7 @@ Her fingers tightened on Lora's, and her mouth tried for a smile and gave up hal
 
 Lora gathered her in.
 
-That was what did it. The day was done, and whatever had been holding Viridia up through the priests' table and the city gate and all those miles of grass gave way. She cried. Big, ragged, gulping sobs that shook the two of them together. Over by the trunks one of the horses lifted its head at the sound, decided it was none of its business, and dropped its nose to the grass again. Some of it was fear. More of it was relief. Bal heard that in it too. She was alive, and it had only now reached her.
+That was what did it. The day was done, and whatever had been holding Viridia up through the priests' table and the city gate and all those miles of grass gave way. She cried. Big, ragged, gulping sobs that shook the two of them together. Over by the trunks one of the horses lifted its head at the sound, decided it was none of its business, and dropped its nose to the grass again. She was alive, and it had only now reached her.
 
 Lora murmured close to her ear, a steady murmur Bal couldn't catch a word of.
 
@@ -88,7 +88,7 @@ Lora laughed, one short breath of it, held down for Viridia's sake.
 
 "And you think Amelia would let you go off alone? If you do, you aren't as smart as I thought."
 
-Bal grumbled something at the leaves. He didn't mean much by it, and she knew he didn't.
+Bal grumbled something at the leaves. He didn't mean much by it, and she seemed to know he didn't.
 
 "Even so," he said. "Doesn't mean I like it."
 
@@ -100,7 +100,7 @@ Bal didn't try to hide what was on his face. Nobody was awake to see it but Lora
 
 "I'm out of ideas," he whispered.
 
-The words hung there in the dark and nothing answered them. Even the horses had gone still. Viridia snored on, a small, steady sound in all that quiet.
+The words hung there in the dark. Even the horses had gone still. Viridia snored on, a small, steady sound in all that quiet.
 
 Lora leaned across the gap between their bedrolls and laid her hand along his cheek. Her palm was cool from the night air and smelled faintly of reins.
 
@@ -110,6 +110,6 @@ Bal closed his eyes, and while her hand stayed there he did not think about Toma
 
 "We should try and sleep," he said.
 
-Lora pulled her blanket up. On his own bedroll, with the leaves crackling under him, Bal listened to the two of them breathing, one soft snore and one not. Through a gap overhead a handful of stars showed. Nobody had followed them down the road all night. Somewhere out toward it an owl started up, gave it three tries, and quit.
+Lora pulled her blanket up. On his own bedroll, with the leaves crackling under him, Bal listened to the two of them breathing, one soft snore and one not. Through a gap overhead a handful of stars showed. Nobody seemed to have followed them down the road. Somewhere out toward it an owl started up, gave it three tries, and quit.
 
 In the morning they could take their time.

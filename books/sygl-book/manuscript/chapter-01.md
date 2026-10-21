@@ -6,7 +6,7 @@ It had never stopped Balthazaar. The staff brought the story out whenever someon
 
 It was fairly flat up there, laid with gray slate tiles in rows so even that some long-dead roofer must have measured every one. By early afternoon the tiles were warm through the seat of his pants, and the rug from beside his bed sat rolled up next to him. From up here the noise of the building fell away. There was only the wind, and a pair of pigeons squabbling on the north chimney.
 
-The orphanage itself was old. It had been built sometime in the 1700s, but it was in decent shape for a building that age, three stories of weathered brick with a roof that only leaked over the laundry. A long gravel lane ran out toward the road, and no one ever seemed to come down it.
+The orphanage itself was old. It had been built sometime in the 1700s, but it was in decent shape for a building that age. It was three stories of weathered brick with a roof that only leaked over the laundry. A long gravel lane ran out toward the road, and no one ever seemed to come down it.
 
 Behind the orphanage, past the vegetable beds and a stretch of rough lawn gone to clover, stood the mausoleum.
 
@@ -16,7 +16,7 @@ Balthazaar idly rubbed the stump of his left wrist as he looked across at the ma
 
 It itched. For some reason the stump always itched when he thought about getting inside that building, which was odd enough that he'd stopped mentioning it to anyone. The skin at the end of his arm was pale and long healed, and most days he forgot about it entirely. Then he'd catch sight of those carvings and start wondering, and the itch would come back.
 
-Balthazaar, or Bal to his friends, could not remember ever having a left hand. He had come to Saint Andre's as a baby, and the stump had come with him. Growing up, he'd watched the other children get their sygls. A sygl appeared in the palm sometime in childhood, often overnight, and whoever woke up with one spent the next week holding it out for everyone to admire. Green spirals, blue ripples. Kids compared them at breakfast and argued over whose glowed brightest after dark. Bal had watched all of it, and even when he was small he'd understood that he would never have one of his own. A sygl came up in the left palm, and he didn't have a left palm.
+Balthazaar Norheart, or Bal to his friends, was eighteen and could not remember ever having a left hand. He had come to Saint Andre's as a baby, and the stump had come with him. Growing up, he'd watched the other children get their sygls. A sygl appeared in the palm sometime in childhood, often overnight, and whoever woke up with one spent the next week holding it out for everyone to admire. Green spirals, blue ripples. Kids compared them at breakfast and argued over whose glowed brightest after dark. Bal had watched all of it, and even when he was small he'd understood that he would never have one of his own. A sygl came up in the left palm, and he didn't have a left palm.
 
 That didn't mean he couldn't do magic. He could. It was not as strong as it would have been with a sygl, but it was there, and it was his. It only meant he had to work harder than everyone else. So at least he had that. There were others in the building who could do no magic at all, not so much as a spark, and they got on with their lives the same as anybody.
 
@@ -38,13 +38,13 @@ A blink later the roof was back, plain and solid, and nothing had happened at al
 
 Bal had sat there with the apple halfway to his mouth until it went brown.
 
-He'd come back up every day since. The roof hadn't flickered again, though he'd watched it until his eyes watered, but he knew what he'd seen. That was a temple. There was a temple inside that building, with fires burning in it, and not one person in the building behind him had the faintest idea.
+He'd come back up every day since. The roof hadn't flickered again, though he'd watched it until his eyes watered. But he knew what he'd seen. Pillars, fire, a statue. That was a temple. There was a temple inside that building, with fires burning in it, and not one person in the building behind him had the faintest idea.
 
 Getting into it was the problem. The doors were out; generations of children with crowbars had proven that. Which left the roof. He'd thought about a ladder first, but the orphanage owned exactly one, it lived in the garden shed, and it barely reached the kitchen gutters. A ladder tall enough to reach the top of the mausoleum would have to be borrowed from somewhere, and carried down the lane, and explained. Jumping across was out too. He had measured the gap with his eyes about a hundred times, and every time the answer came out the same, which was that he would land among the cabbages in several pieces and become the second story the staff told about the roof.
 
 So that left magic.
 
-He'd gone through a fair number of ideas before settling on one. A rope charmed to hold itself straight across the gap had sounded clever until he pictured inching along it. Making himself lighter had sounded clever until he read the part about how hard it was to stop. In the end the safest idea he could come up with was to enchant a small carpet to levitate and carry him over. A carpet had edges you could hold. A carpet could be sat on. If something went wrong partway across, at least he would have something to grab.
+He'd gone through a fair number of ideas before settling on one. A rope charmed to hold itself straight across the gap had sounded clever until he pictured inching along it. Making himself lighter had sounded clever until he read the part about how hard it was to steer. In the end the safest idea he could come up with was to enchant a small carpet to levitate and carry him over. A carpet had edges you could hold. A carpet could be sat on. If something went wrong partway across, at least he would have something to grab.
 
 A month ago he wouldn't have had the spell. Then Fredrick left.
 
@@ -58,7 +58,7 @@ Bal had looked at the stack, then up at him. "Fred, you could sell these."
 
 "I could. I'm not going to." Fredrick had sat down on the end of the bed, making the springs complain. "You're better at this than half the kids who'll be in my year, and you know it. They should go to somebody who'll use them properly."
 
-Since Bal did not have a sygl, he would not be able to attend the school. No school would take you without one, no matter how much magic you could push through a stump. Self-study was the only option he had, and Fredrick knew it as well as he did. Neither of them had said so. Fredrick had ruffled his hair, told him not to blow up the laundry, and left in the morning with his trunk and a wave through the rear window of the car. It was the kindest thing anyone had done for Bal in years. The garden string was still on the end of his bed.
+Since Bal did not have a sygl, he would not be able to attend the school. No school would take him without one, no matter how much magic he could push through a stump. Self-study was the only option he had, and Fredrick knew it as well as he did. Neither of them had said so. Fredrick had ruffled his hair, told him not to blow up the laundry, and left in the morning with his trunk and a wave through the rear window of the car. It was the kindest thing anyone had done for Bal in years. The garden string was still on the end of his bed.
 
 The books were old but a good lot. There was a primer on charms with half its pages dog-eared and a battered guide to simple wards. At the bottom of the stack, its spine cracked white from use, was a book called *Sygldry Year 2*.
 
@@ -66,11 +66,11 @@ That was where he'd found the spell he needed.
 
 It sat on page eighty-one, in a chapter on moving inanimate objects, between a charm for sliding a heavy trunk upstairs and one for sweeping a floor without touching the broom. *Levimotorcorpus*. Lifting and carrying, the book said, for objects of moderate size, to be practiced first on small items and only by students who had mastered the first-year levitation charms. Bal had mastered the first-year levitation charms in the spring, alone, in the boiler room, with a stack of tin cups. He'd decided that counted.
 
-He had practiced for three nights straight. First on a sock, which shot up and smacked against the dormitory ceiling and had to be fetched down with a broom handle. Then on a pillow, which behaved. Then on a book, which wobbled, and on a chair, which wobbled worse, and finally on the rug from beside his own bed, a small square of patterned wool that had been there longer than he had. On the third night it had lifted a hand's width off the floorboards and hung there, steady as a table, until he let it down. He'd lain awake afterward staring at the ceiling, his heart thudding in his ears.
+He had practiced for three nights straight. First on a sock, which shot up and smacked against the dormitory ceiling and had to be fetched down with a broom handle. Then on a pillow, which behaved. Then on a book, which wobbled, and on a chair, which wobbled worse, and finally on the rug from beside his own bed, a small square of patterned wool that had been there longer than he had. On the third night it had lifted a hand's width off the floorboards and hung there, steady as a table, until he let it down. He'd lain awake afterward staring at the ceiling, the end of his stump still tingling.
 
 ---
 
-Now Bal was standing on the roof, the rug spread flat in front of him, about to attempt something crazy.
+Now Bal was standing on the roof, the rug spread flat in front of him, about to attempt something crazy. The rug had never carried anything heavier than itself.
 
 He checked the gap one more time. Then he checked the sky, which was clear, and the lawn below, which was empty, and the attic hatch behind him, which was shut. There was nobody to stop him. That also meant there was nobody to see him fall, which was less comforting than he'd hoped.
 
@@ -84,7 +84,7 @@ He leaned.
 
 He could have used his right hand. It would have been easier; magic left his good hand with far less fuss, even without a sygl to guide it. But he had always hoped that if he worked his magic through the stump often enough and hard enough, a sygl might one day appear there, stump or no stump. It was silly, and he knew it was silly. It was still something to hope for.
 
-The blockage gave. Power flowed out of the end of his arm and down into the wool, and as he finished saying the words, the gold and sky blue carpet rose gently into the air, bearing him upward a few inches before it stopped and hung there, as steady as it had been on the dormitory floor.
+The blockage gave. Power flowed out of the end of his arm and down into the wool, and the gold and sky blue carpet rose gently into the air, bearing him upward a few inches before it stopped and hung there, as steady as it had been on the dormitory floor.
 
 Bal breathed out. Then he laughed, a short surprised sound that the wind carried off over the gutters.
 
@@ -96,17 +96,17 @@ It moved.
 
 The trip was brief, because the floating carpet went much faster than Bal had expected. One second he was hovering over the orphanage roof, and the next the edge of the slates was sliding away beneath him and there was nothing under the carpet at all except a long drop to the vegetable beds. The wind snatched at his hair and flattened his shirt against his chest. His stomach stayed somewhere behind him on the slates. He clamped his hand on the carpet's edge so tightly his knuckles ached, and he did not look down, and then he did look down, and saw the rows of cabbages and beans laid out far below him as neat as a map, and decided that had been a mistake.
 
-The carved band of the mausoleum came up to meet him. Vines and leaves and bats, close enough now to see the chisel marks. He leaned back without thinking and the carpet slowed obligingly, and he coasted in over the peak of the roof, aiming for the flat stretch beside it where he meant to land.
+The carved band of the mausoleum came up to meet him. Vines and leaves and bats, close enough now to see the chisel marks. He leaned back without thinking and the carpet slowed obligingly, and he coasted in over the peak of the roof, aiming for the slates just below it where he meant to land.
 
 What Bal didn't expect was that when he tried to land on the roof, he would find there was no roof.
 
-The carpet sank toward the tiles and passed through them as though they were mist. There was a cool tingle over his skin, gone in an instant, and the daylight changed color around him, and he was no longer above the mausoleum at all. He was inside it, high in the air above a stone floor, held up by a bedside rug and a second-year spell.
+The carpet sank toward the tiles and passed through them as though they were mist. There was a cool tingle over his skin, gone in an instant, and the daylight turned amber around him, and he was no longer above the mausoleum at all. He was inside it, high in the air above a stone floor, held up by a bedside rug and a second-year spell.
 
 For a few wild seconds he couldn't think of anything to do except hold on.
 
-Then his wits came back. Lower, he told the carpet. Slowly. It obeyed. He kept giving the same command, lower and lower, and the rug drifted down past the tops of tall pillars, past their fluted columns, down and down until, with a soft bump that rattled his teeth, it landed on the solid concrete floor of the temple.
+Then his wits came back. Lower, he told the carpet. Slowly. It obeyed. He kept giving the same command, lower and lower, and the rug drifted down past the carved tops of tall pillars, past their fluted shafts, down and down until, with a soft bump that rattled his teeth, it landed on the solid stone floor of the temple.
 
-The inside of what he had always thought was a mausoleum was lit by two huge braziers, one on either side of the hall, standing taller than a man on legs of black iron. Their fires burned low and gave off a soft, warm light that pooled gold in the hollows of the stone. There was no smoke anywhere, and no smell of burning wood, only a dry smell of something spiced. The air was still, with the hush of a place where nobody had raised their voice in ages.
+The inside of what he had always thought was a mausoleum was lit by two huge braziers, one on either side of the hall, standing taller than a man on legs of black iron. Their fires burned low and gave off a soft, warm light that pooled gold in the hollows of the stone. There was no smoke anywhere, and no smell of burning wood, only a dry smell of cloves and old resin. The air was still, with the hush of a place where nobody had raised their voice in ages.
 
 At the far end of the hall stood the statue he had glimpsed days before. It was larger than he'd realized, a tall robed figure carved from dark stone, set back where the firelight did not quite reach. He couldn't make out its face from here.
 

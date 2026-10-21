@@ -2,6 +2,8 @@
 
 Amelia saw them off at noon. Fern's grooms had the horses waiting at the canyon gate, saddled and loaded, and she hugged Lora first and then Viridia and said something to each of them too low for Bal to catch. Then it was his turn. She held on to him longer than she had held either of them, and when she let go her fingers stayed on his collar a moment more, and straightened it, though it had been straight.
 
+Hopper stayed behind with her. A bloodwolf at Viridia's heel would have given the whole disguise away at the first gate.
+
 She stayed out on the road while they rode off. When Bal twisted around in the saddle at the bend, she was still there.
 
 "Everyone else is beneath you," Lora said. "Start there. It's how most nobles feel, so it's how you have to feel. Everyone."
@@ -116,7 +118,7 @@ Viridia started forward, then pulled up short. Something else had occurred to he
 
 "Could you give me directions to the Three Boars Inn? I usually stay at the Winespring when I'm here, but I hear their wine is exceptional. I should like to try it."
 
-"Of course," the big guard said again, quick and eager now. "Head up to North Street, then take the third street on your right. You'll see their sign hanging off the building."
+"Certainly, my lady," the big guard said, quick and eager now. "Head up to North Street, then take the third street on your right. You'll see their sign hanging off the building."
 
 Viridia thanked him, the once Lora had allowed her, and slapped the reins on her horse's neck.
 

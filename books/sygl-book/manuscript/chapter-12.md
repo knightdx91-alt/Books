@@ -10,7 +10,7 @@ Bal smiled back. She didn't see it.
 
 He crossed to the last table, his own, as empty as ever except for one place across from his, where Viridia was working a knife through a steak.
 
-He'd brought paper this time, a folded sheet in his pocket. He wrote out eggs, toast, bacon and oatmeal, the same breakfast he'd had that morning, and dropped the sheet onto the silver. It went, and returned full and steaming.
+He'd brought paper this time, a folded sheet in his pocket. He wrote out eggs, toast, bacon and oatmeal, breakfast at dinnertime, and dropped the sheet onto the silver. The silver went, and returned full and steaming.
 
 Viridia eyed it. Then the window, where the sky had gone orange, then his plate again. She let it go.
 
@@ -26,7 +26,7 @@ Viridia let him get started on his eggs first. Then she jerked her chin at Lora'
 
 "She's really shy," Bal said. "She'll need a while to open up, that's all."
 
-And there was the table itself. Nobody ever sat at it but Bal and one Tempus girl choosing to sit with him, and the whole school could see it from every bench in the hall. Anyone who sat down here would be choosing a side. It would make her a target.
+And there was the table itself. Nobody sat at it but Bal and one Tempus girl choosing to sit with him, and the whole hall could see it. Anyone who sat down here would be choosing a side. It would make her a target.
 
 Bal stopped with a forkful of eggs in the air.
 
@@ -34,7 +34,7 @@ Bal stopped with a forkful of eggs in the air.
 
 Viridia shrugged.
 
-"Not really. A lot of snide comments, so far. Nothing physical." She put a bite in her mouth and talked around it. "Some of the Tempus kids won't talk to me anymore." Her mouth curled up at one side and stayed that way. "It's funny they think I care. Some people have been coming up and asking about you, though. Some from other sygls, even."
+"Not really. A lot of snide comments, so far. Nothing physical." She put a bite in her mouth and talked around it. "Some of the Tempus kids won't talk to me anymore." Her mouth curled up at one side. "It's funny they think I care. Some people have been coming up and asking about you, though. Some from other sygls, even."
 
 Bal got his oatmeal down before he answered.
 
@@ -54,7 +54,7 @@ It was hard to argue with her when she was right.
 
 Over at the Terra table a big boy had balanced a bread roll on top of his water cup and was trying to balance a second roll on top of the first. Two of his friends were holding their breath for him. The second roll went into a girl's soup, and the friends cheered anyway.
 
-"I'm trying to get Amelia to start eating with us," Bal said. "It'd be good for her. And if people saw her in here having dinner with everybody else, it might take some of the mystery away. Oh, and so you're not caught off guard. Amelia may or may not have read your diary this afternoon."
+"I'm trying to get Amelia to start eating with us," Bal said. "It'd be good for her. And if people saw her in here having dinner, it might take some of the mystery away. Oh, and so you're not caught off guard. Amelia may or may not have read your diary this afternoon."
 
 Viridia had her cup up, in the middle of a long drink.
 
