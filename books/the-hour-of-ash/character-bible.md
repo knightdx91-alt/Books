@@ -432,6 +432,30 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   three months, by the porter's account and the cook's, and I had had one name for him." **The camera:** "I brought out the Pentax."
   (the camera-out-of-the-bag frame of sample-13 stays unspent for Ch.19); the lamp frame (see the at-risk block). Credential asides 1
   (gate: "In the lab I had held bracelets by the trayful"); laughs 0; AD 79 0; English 0; no reach forward.
+- **Ch.17 as written (Writer, 2026-10-21; "Games on the Isthmus", In medias res, Corinth, the one-off games for Titus's triumph,
+  spring AD 72; the theft first, how-we-got-here in pieces):** Plautia's woman with the writing case, in Myrrhine's dress. **ONE
+  recognition moment** (the outline's accession numbers, one paragraph, triggered by the shelves): "In the basement of the museum, in
+  the storerooms, a shelf told you more by its order than by any one label: a run of accession numbers going by in their sequence, year
+  and lot and piece, and then a number out of its place, louder than anything written on it. A thing that was lost was nearly always
+  only put back wrong." She finds the first book of Vettius and Caninius's year swapped into an earlier year's slot ("Nobody had taken it
+  anywhere. A copyist would have had a long walk."); reads "*C. IVLIVS. VALENS.*"; cuts the cord below the boards with the pen-knife
+  from Plautia's case, "as far from the seals as it ran"; the leaf (the fifth and sixth boards) into the case "among Plautia's letters";
+  rethreads and ties a reef knot that shows. **Chaos, inhabited:** all-or-nothing on the knot ("There was no half of that. It was done
+  well or it was a botch, and it was a botch."); **body rebel, new channel: her bladder** ("My hands were steady. My bladder was another
+  matter."), paid off at the latrine on the Lechaion road (the chapter's ugly sentence: "I finished, and it was slow, and then it was
+  over."); level 1 under Celer (no asides; one stiff line, "I write for the lady." / "My Latin was stiff, and too quick."); **hands
+  shaking at a threshold** (the arch), put "into the folds of Myrrhine's dress"; level 2 in the run (plain verbs; "My breath went short,
+  then raw."). **Lines:** "It is here. In the wrong year." / "Somebody who wanted it lost and knew where to find it again." / "Open it,"
+  … "The wax will stand it. Do not touch the writing." / "A knot, where there should be none. Anybody who turns it over will see it." /
+  "Whenever somebody wants to look." / "He saw it," … "He saw your hands. He will walk out there with his bread and tell him." / "How
+  can you know that?" / "Valens," … "He knows your face." / "There is a knife in the bottom of it," … "under everything. It is a good
+  knife. It cut the cord." / "Myrrhine said it was your grandfather's." / "I will write." / "Twice. In the street, in the dark." / "He
+  has," (to the pine boy) / "I have to make water." / "Off." (the javelin) / "Now? You bought it now?" / "I hope he lost," / "His hand,"
+  … "At the edge of the shade. You saw it?" / "Felix will be on the quay with the mules," … "telling the master how to load them." /
+  "Will they wait?". **Objects:** keeps Plautia's grandfather's pen-knife (bone handle, fish-skin sheath) in her belt; the camera "on its
+  strap under the cloth" in the run; the bracelet "the gold on my wrist" / "the band at my wrist" (left; side not named on this page);
+  no watch, no flashlight, no microcassette, no money on the page. Credential asides 0 (gate); memories: the storeroom sentence only (no
+  person in it; the backfill pieces are this morning's, not memories); teeth 0; laughs 0; English 0; AD 79 0; no reach forward.
 - **DISTINCTNESS GUARANTEE:** the only voice in the book that sees how a thing was made and where it was
   mended, against Valens, who sees where a thing or a man will move next.
 - **Sample line:** "Somebody's glued this before, look, there's an old line under the new one, and
@@ -932,6 +956,33 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
     "I'm well here."; "Up, now, you old fool. Up,"; "Valens. He sent his freedman to Kirrha for me."; settling "into the straw between
     the black and the jars"; "It was new,"; "I had it with the sword."; the street looked over before a woman steps down (a guard's
     habit: once, never re-staged); "My wife," to a gatekeeper (Ch.15 planned the word, Ch.16 says it; never a third time).
+
+- **Ch.17 as written (Writer, 2026-10-21; the theft, the colonnade, the run):** **His post, settled on the page:** by the baker's oven
+  at the record office's back door, "with a baker's peel in his hands and his forearms white with flour, which was the only disguise
+  anybody had been able to think of for him, and it fooled nobody who had ever seen a baker." **He reads the leaf himself** (Mara knows
+  he reads; Felix does not): "His mouth moved on the first word, and then it stopped moving, and he read the rest of it with his lips
+  shut. He read all of it. He read the witnesses." / "Nine," / "Three of them are dead." **Mind-reading, inverted (outline chaos):** he
+  holds the shut leaf "chest-high, in plain view of the clerk", watches the clerk's hands, and trusts him: "It's mine." / "He'll eat his
+  bread." / "Look at him." … "He came out for bread with that man in the colonnade waiting on him. That's a man who's had enough of the
+  day." He is right (the clerk says nothing in the colonnade). The leaf goes "inside it, flat, against his chest", under the belt. **He
+  breaks the plan** to stand at Plautia's back: "She's got her face to him, with hired men round her and nobody at her shoulder. I walked
+  at her back for two summers and two winters." / "He can look at it, and leave her be." (to "He knows your face."). **Face to face with
+  Celer:** "Legate," / "You hired me," / "And the paper in Rome," / "Her brother's paying my road," … "To Rome." (Plautia's Ch.16 question
+  answered in action, in front of her). After: "You were by yourself." / "That was where he was standing." / "Puteoli. After that, I
+  can't say." **S4:** "What was it she gave you?" / "Her woman will be on the quay before us." / "Walk." / "He's at the Isthmus till
+  dark. Then he goes home and eats. Then he wants his book." / "By then we're a day out to sea, wind willing." / the three dead witnesses:
+  "The doctor at the school. He sewed me up for six years. An oil-seller who had the stall by the gate. A trainer who had me from a boy."
+  … "The other six are strangers to me." / "Keep walking. Don't look at him." / "Let him watch it. It's the only road." / to the
+  Alexandrian trainer's "Murmillo," … "Whose school?": "I lead mules." / the pine crown: "For Felix," … "He missed the boys." / "He'll ask
+  who won." … "We'll not know. He can have this." / "I saw where his feet stopped." / "That's the breeze," / "He'll be asking him who
+  won." / **bare "No." 1** ("Will they wait?" / "No."). Also "The ship's the one with the goose carved on her stern. Felix knows it. It
+  goes out on the afternoon breeze, whoever's on it." **Rules kept:** no comparison in his speech; narrated non-answers 0; "Then…"
+  speech openers 0; walk-offs 1 ("Valens went by him."); no fig opinion (the clerk's figs are not his subject); no watch; no knot near
+  his hands. His hands: the peel, wiped on his thigh, the leaf by its edges, the belt, the pine crown, one hand spread on his chest in
+  the run. **Spent in Ch.17:** the floured-baker cover; reading his name with his lips shut after the first word; "Three of them are
+  dead."; "It's mine."; "He'll eat his bread."; "That's a man who's had enough of the day."; "two summers and two winters"; "Her
+  brother's paying my road"; "That was where he was standing."; "I lead mules."; the three dead witnesses (named once; never listed
+  again); "I saw where his feet stopped."; the pine crown bought mid-escape.
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -1529,6 +1580,14 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   show you."; "Can you feel it there when you lift your arm?"; the amphitheater hearsay; "Will you show me where you stood?"; sick at
   the rail; "Why don't they spew?"; "Every bit?"; the flashlight stack; "I'd sooner not look at it".
 
+- **Ch.17 (off-page, one fragment; Writer, 2026-10-21):** before sunrise he takes the mules down to Lechaion with the household's
+  freedman ("the dun on the front rope, the black, and the two others nobody had wanted at any price, with my bag and his own across the
+  dun's withers, and the fig in its jar"), protesting at the gate: "It's the boys' day," … "the boys, and I'm to sit on a quay with mules?
+  Who'll tell me who won? Do they cry it out at Lechaion when somebody wins?" (no "Is it" opener; openers It's / Who'll / Do), answered
+  "Ask a sailor," and "Felix had trudged off putting his questions to the black instead." Valens buys him a pine crown on the Lechaion
+  road ("He missed the boys."). He is on the quay with the string when Ch.18 opens; he knows the ship ("the one with the goose carved on
+  her stern"). He has still not heard who won the boys' race.
+
 #### PLAUTIA — Celer's divorced wife; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
   Marcus, b. autumn AD 64: seven in Ch.16, nine in Ch.22; kept by his father under Roman law). She has learned that everything can be taken, so
@@ -1636,6 +1695,48 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
     offered to carry what she meant to carry herself". With her, in the narration: "It was book Latin, slow, with the verb held back for
     the end". Ch.22 finds other shapes for her.
 
+- **Ch.17 as written (Writer, 2026-10-21; the record office, the colonnade, the forum; every quote below is on the page):**
+  - **The bribe:** "a bundle in a napkin" — "Silver, a ladle and two spoons, the spoon handles ending in swans' heads." (her mother's;
+    told to Mara at the brother's door "in the voice she might have used to tell me the spoons were cold"); the clerk puts it under his
+    fig cake. Later, to him: "The spoons were my mother's," / "Tell her the swans are Sicyonian work, and she is not to let them go for
+    less than that." (no figure; pricing stays Myrrhine's).
+  - **At the table:** "Are they in this office?" / "Then you will go up the ladder. I will sit here in the light until you are down
+    again." / "I will mind your door." / "It will hardly tax me." / "The year my father gave me in marriage. Before the great fire at
+    Rome. …" / "A year before the fire," / "Bring all three." / "I was married in the autumn." / "The seal is my father's," … "I know it
+    from here. Read it to me." / "I can read. I wish to hear it. Every line, and the witnesses after, slowly, so that my woman can write
+    down what I tell her to." / "Again. The advocate has it otherwise," / covering the slip: "My woman has dropped her pen. She is
+    clumsy," … "I was warned. You were at the lion's paws." / "Whose hand is it written in?" / "Is that seal my father's," … "or his
+    freedman's?" / "By what?" / to Celer's boy: "Tell the legate," … "that the lady Plautia is reading her father's seal, and will come
+    out when she has read it." / to Mara, low: "He has chosen the same morning we chose," … "and for the same reason. He will not walk
+    under a ladder. Nor a builder's frame. He once walked the whole forum round, in the rain, sooner than pass under a painter's plank."
+    / "I entered by the front," … "I will leave by it. Carry my case out to the lane, and wait there for the litter." **Her father is
+    Sextus** ("*Plautia, daughter of Sextus*"), married in the autumn of the year before the fire (AD 63). The dowry list read aloud:
+    "*A slave girl, Syrian, named Doris, aged eleven*", "*Earrings, two pairs, gold, with drop pearls*" (unpointed against her torn
+    earlobe; never connected on the page), "*One bronze lampstand on three feet, a lion's paws*".
+  - **The roof at dawn (a backfill piece):** she watches the procession go out to the eastern gate and points once: Celer on a gray,
+    laughing, and Marcus on a pony at his stirrup; "Is that the boy?" / "That is his tunic. I did not choose it."; "Plautia had stood
+    until the street had emptied."
+  - **In the colonnade:** "I found his seal," … "It is the one mark in all that book that is his. Did he eat, this morning, before you
+    left him?" / "He will be hoarse already. He shouts before anybody has told him he may, and he has done so since he could stand, and
+    tonight his nurse will give him honey in warm water, too hot, and he will not drink it." / "Will you let me speak to him?" / "Let her
+    go on asking." (to "my mother asks after you"). "Under the veil, Plautia's chin came up a finger's breadth." (her one beat there).
+  - **The farewell:** veil back, "her face under it was perfectly dry and very white"; "When the praetor names our day, a letter will
+    come from this house," … "Where will the letter find you?" / "Puteoli, then, and after that the gods." / "You came out under the
+    poles." / "I have been by myself in front of that man since I was sixteen, Valens, and I have generally managed to stand up. And you
+    told him Rome. To his face, in the forum, with his men behind him." / **the giving, without the weeping:** Mara praises the knife
+    and Plautia gives it ("It belongs with whoever knows what it is for.") / "Myrrhine will find you," … "She finds everything. You will
+    write to me from Italy, in Latin, so that my brother cannot read it over my shoulder; his Latin is worse than yours, and he will not
+    ask for help with it. Will you?" / "Did you stand on my hem?" / "Good," … "she will be content,"; she gets into the litter "from the
+    right, the side Myrrhine had shown me, and her curtain stayed down."
+  - **Rules kept:** no contractions; Celer never named by her ("He has chosen…", "that man"); never the night; "Then…" speech openers 1;
+    pause beats ≤1 per scene (S4: she waits until his litter has gone); no coals; no skeleton twice running. "Isthmia" 0.
+  - **Spent in Ch.17:** the swan spoons; "the voice she might have used to tell me the spoons were cold"; "It will hardly tax me.";
+    "I was married in the autumn."; "My woman has dropped her pen."; "He has chosen the same morning we chose"; the painter's plank;
+    "That is his tunic. I did not choose it."; "the one mark in all that book that is his"; the honey "too hot"; "Let her go on asking.";
+    "Sicyonian work"; "Puteoli, then, and after that the gods."; "since I was sixteen"; "It belongs with whoever knows what it is for.";
+    the letter in Latin her brother cannot read; "Did you stand on my hem?". **Ch.22 finds other shapes for her**, and does not recall
+    the colonnade in narration.
+
 #### QUINTUS ARRIUS CELER — legate on the proconsul's staff at Corinth until Nero's grant of freedom (late 67), out of office at the frame (69), back on the restored proconsul's staff by 71–72; the defendant in Rome (Ch.12 by proxy, Ch.17, Ch.22)
 - **Attention / worldview:** standing, reputations, who is watching, which way a room leans. Everyone is
   a friend he has not yet needed. Settled by dowry law, never by violence.
@@ -1668,6 +1769,65 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   The page has only "I told them about it the whole crossing." and, at Kirrha that morning, "A boat from Lechaion had come in on the
   morning wind". Two of them got away, and both heard Valens call "Mara." (Ch.17 may use it, or not). Celer himself never appears and
   is never quoted; keep his on-page voice for Ch.17.
+
+- **Ch.17 as written (Writer, 2026-10-21; FIRST LIVE APPEARANCE, the colonnade of the proconsul's office; every quote below is on
+  the page):**
+  - **Entry (four parts):** first seen from the brother's roof at dawn, unnamed, "A man in a white toga, very new, on a gray, with his
+    head turned to the man beside him and laughing"; close to, "the toga, brilliantly new, with the dust of the Isthmus road along the
+    bottom of it in a brown band a hand deep. Close to, he was older than his laughing had been, and very carefully shaved, and his ears
+    jutted from his head like the handles of a cup." (physical anchor: the ears, Marcus's, never pointed at); behavior: he will not come
+    under the scaffold; interiority: "He glanced at the sun's height over the temple roofs." (the governor's elbow, his seat); tension:
+    wants the witness gone quietly, shows an old friend. "His voice was pleasant and unhurried, the voice of a man telling a story to
+    listeners who had begged for it."
+  - **Why he is there (motivated on the page):** he rode back from the Isthmus during the boys' race to have "Vettius's first book
+    brought out to him, for the copyist" (his boy's message), and is "to be back at the governor's side before the men's race". The clerk
+    had hidden the book in the wrong year's slot; "He has a copyist who'll keep it under his bed till everybody's forgotten it. He's paid
+    the copyist a year ahead." Plautia: "He has chosen the same morning we chose," … "and for the same reason." He takes the book away
+    already cut, unopened, and pats it.
+  - **The irrational behavior, shown:** "I don't go under those." He stands in the sun past the scaffold's end; "until the toes of his
+    good shoes were on the edge of the shadow the poles threw on the paving, and stopped there"; his hand goes out "to take a fellow by
+    the elbow" and hangs "a long arm's length short of Valens's arm" until "he looked at his hand there, in the bar of shade, as though
+    somebody else had put it out, and drew it in." (the chapter's slow beat); leaving, "His men carried him round instead, through the
+    white sun of the forum, round the scaffold's end and in again under the roof beyond it". Named once by Plautia (the ladder, the
+    builder's frame, the painter's plank).
+  - **Lines:** "There," … "I told the lady Plautia. I said, he'll be about somewhere close, he always was, and here you are." / "Lupus.
+    Free air's put flesh on you." / "Oh, not that. We were never that, were we, you and I? Come out where I can see you properly." /
+    "No? You'll forgive me not coming in. I don't go under those." / "The lady's come to read her own dowry," … "We'd have done that,
+    wouldn't we, Onesimus?" / "I hope you found it all in order," … "Your father's people were always so correct." / "Like a wolf." …
+    "Bread and honey, and most of my bread besides. He's with my steward at the rail, in the new tunic …" / "His nurse knows her
+    business," … "I'm never in the nursery. Come out tomorrow and sit with us, why don't you? Right at the governor's back, where
+    everybody can see how well we all get on. He'd like that." / "Of course," … "Afterward. When all this has been tidied away." / "And
+    this will be Mara." / "So I hear. In a Latin they must teach very carefully at Syracuse." / "My man tells me you carry something
+    heavy under your dress, too, that shines. I'd like to see it one day. And she's given you the gold off her arm." / "She would. She
+    always gave away what was given her. Didn't you, Plautia? One loved her for it." / "You were the best money I ever laid out, Lupus,"
+    … "Two years at her back, and never a scratch on the lady." / "Did I?" … "Well. We'll let the lawyers argue that. We could make all of
+    this very easy, you and I. Ships leave Lechaion every day now the sea's open. If a man crossed to Italy and settled, and grew old in
+    the sun with a vineyard and somebody to write his letters for him, I can't see why anybody in Achaea would ever need to say his name
+    again. My steward put up some notices, last year. Stewards will. Notices come down." / "Papers." … "There's a bill of sale with the
+    lanista's mark on it, and there's a line in a magistrate's book, and one says one thing and one says the other, and a judge goes to
+    sleep after his lunch and wakes up and chooses." … "Papers are no more than that. You know that well enough. You never needed them on
+    your mountain." / "Then we'll see each other in Rome," … "All of us. I'm told it's very fine in the spring." / "And if I'm not at the
+    governor's elbow before the men run, he'll think I've died, and give my seat to somebody he likes better. Onesimus." / "Shut up your
+    door and go out and see your boy. Go on. Nobody's going to rob the proconsul this morning." / "Then go and hear who won it. You'll
+    want my ring on something, for the book?" / "Splendid man." / "Come and see me after the games, Lupus. Come to the house, at the
+    second hour, any morning. Bring Mara." / "We'll all dine. Plautia, my mother asks after you."
+  - **Rules kept:** never says *wife* (0; "the lady Plautia", "the lady", "somebody to write his letters for him"); never raises his
+    voice; no direct threat (every knife is a pleasantry: the name, the shining thing, the bracelet, "the best money", Marcus as bait,
+    "tidied away", "We'll all dine"); contractions and the warm "we"; no villain monologue (his longest speech is the offer, five short
+    sentences after the conditional); no violence; the hand on an arm is attempted and never lands. "Lupus" in his mouth 3 (the arena
+    name, his alone in this chapter).
+  - **His men:** the man Mara hit on the Kirrha road, "a seam of new skin above his left ear, pink and puckered, where nobody had
+    stitched it" (Ch.15's bandaged Corinthian at the lion spouts, inferred, not stated): "Mistress," pleasantly, two fingers to the seam;
+    later sits on the rim of the fountain basin by the Lechaion road arch "with his feet in the water", lifts a hand, watches which road;
+    "One was a stranger."; a slave with a sunshade who loses it; the boy runner with the book "hugged to his chest in both arms, spine
+    outward". **Knows now:** Mara's name; that she carries something heavy that shines; that Valens will go to Rome on the brother's
+    money; that Plautia read her dowry that morning. **Does NOT yet know** the leaf is gone (he has not opened the book on the page).
+  - **Spent in Ch.17:** "Free air's put flesh on you."; "I don't go under those."; "And this will be Mara."; "One loved her for it.";
+    "the best money I ever laid out"; "We'll let the lawyers argue that."; "Notices come down."; "a judge goes to sleep after his lunch";
+    "When all this has been tidied away."; "I'm told it's very fine in the spring."; "Splendid man."; "We'll all dine."; "my mother asks
+    after you"; "I'm never in the nursery."; the hand stopped at the shade line; carried round the scaffold; patting the book. **Ch.22**
+    gives him new pleasantries and stages the superstition, if at all, once and differently (no scaffold, no shade line, no litter
+    round).
 
 #### POMPONIA GRATA — thermopolium keeper on the Via dell'Abbondanza; the family's landlady and neighbor (Ch.19–40)
 - **Attention / worldview:** trade, appetite, gossip, her son's election, money that isn't there. Every
@@ -2524,6 +2684,38 @@ quotes checked by script.)*
   - Gloria's Ray and the drugstore at Twentieth and Walnut (1998; one clause-run, triggered by the seasick dun's head in her arms and
     returned at once, "The dun groaned again."; no parent in it).
 
+#### Ch.17 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+*(Writer, 2026-10-21.)*
+- **The baker** at the record office's back door (Ch.16's "gives too much back"): raking, "singing a song of endless verses and no
+  tune"; a new leather apron "that week", greets the house porter by name; "Two round ones each day since the Saturnalia," … "and the
+  coin held up just so, and not one word to me about rain or sun. You're to stand there till noon, the brother said." Takes the peel back
+  "without stopping his song". Never sees the leaf named.
+- **Celer's boy runner:** "panting, the road's dust gray on his shins"; "From the legate Arrius Celer," … "He's outside, and he'll not
+  come in under the poles. He wants Vettius's first book brought out to him, for the copyist." / "He's to be back at the governor's
+  side before the men's race." / "Lady."; carries the book. **The sunshade slave:** "had let it slip", then "lost it altogether and had
+  to run after it". **The stranger** among Celer's men: one clause. **The man with the seam:** see the CELER Ch.17 block.
+- **Plautia's four bearers:** "hired men off the Kenchreai road" (Valens), "sitting on the step in a row", "left off their talk".
+- **The Lechaion road crowd** (off the morning's ship): "Italians in traveling hats, a family with a goat, a priest with a box on a
+  slave's head"; six or seven athletes "young, enormous, oiled for the road", strigils and flasks on rings, "The biggest had ears like
+  knots of dough"; **the Alexandrian trainer** ("a little bald man who climbed the steps backward ahead of them"): "Murmillo," … "You
+  come down a stair like one. Whose school?" / "Mules!" … "He leads mules, he says. Did you hear him? Mules!" (once); **the pine boys**:
+  "The god's pine! The winners' pine! Wear what the winners wear!" / "Crown, mistress? For your man? Put it on him and they'll think he
+  won something!"; **the coin seller** (Judaea Capta, the woman under the palm, "the edges of the coins were still sharp from the die"):
+  "Judaea taken! The emperor's new money, from Rome, for the triumph! See her weep!"; **the sailor** who buys one; **the sausage-man**:
+  "Lucanian, all of them! Not for the athletes, the athletes aren't let have them, their trainers say so! Everybody else!"; **the fat man
+  in a festival wreath** in the latrine: "Mistress. Would you say a man throws farther with the wreath on him, or off?" / "You see,".
+- **The forum:** "a woman asleep against the base of an emperor with her basket in her lap"; statues and pigeons; the arch "with a bronze
+  chariot on top of it and the horses' gilding gone green along their bellies"; the fountain basin beside it. **The road:** a cart; "A
+  dog burst from a garden gate and ran with us for a stretch, delighted, and dropped off."; "a man with a hoe who straightened to watch
+  us pass". **The emptied city** (backfill): shutters down, "a fuller's vats standing full and untrodden", a dog asleep on the paving.
+- **Mention only:** Vettius and Caninius (the duoviri of the year Nero came; tags "*P. VETT. L. CANIN.*", the books *I*–*IIII*);
+  Sextus (Plautia's father); Doris (the Syrian slave girl in the dowry, aged eleven); "a Gnaeus somebody" and Plautia's mother and her
+  mother's brother (the dowry witnesses); the copyist; Onesimus's daughter, her husband (who "thinks he'll run at Olympia") and his
+  grandson, twelve; Onesimus's wife (the spoons "on a cloth in the market by the Kalends"); Plautia's nurse (left-handed); Celer's
+  steward (with Marcus at the rail); Celer's mother ("asks after you"); the proconsul and the governor's chair; the three dead witnesses
+  (the school's doctor, an oil-seller by the gate, a trainer); the household's freedman (takes Felix and the mules to Lechaion); the
+  ship "with the goose carved on her stern".
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -3026,6 +3218,42 @@ quotes checked by script.)*
     you had it,"; "I'll have your hide for a pail,"; "sleeps through anything"; the ewes "who don't count".
 - **Sample line:** "That one's never stood still for a stranger, and she won't start for you." (Calibration only.)
 
+#### ONESIMUS — the gray-haired clerk who sits the proconsul's record office door through the games, Corinth; a freedman of the proconsul (Ch.17)
+- **Attention / worldview:** his own day: the door he is stuck minding, his food, his daughter's boy running in the boys' race while
+  he cannot watch. Paperwork is labor, and labor is to be avoided. He takes Celer's money and Plautia's silver with the same face.
+- **Vocabulary band:** plain office Greek and Latin; "Lady," as a whole reply; documents read aloud flat, between mouthfuls.
+- **Syntax fingerprint:** short, level statements, often said to the fig cake; answers with the least that will do ("A clerk's.");
+  his longest speeches are grievances about his own family.
+- **Rhythm:** slow; a fig between clauses.
+- **Evasion — never says:** what he was paid to hide, or by whom; what he saw at the back door.
+- **Physicality / silence:** digs figs out of a pressed fig cake "with the blunt end of his stylus" (then, the stylus locked inside, "with
+  his thumb"); a cobweb across his hair from the ladder, all morning; "old sandals, one strap mended in a different leather"; buys "Two of
+  the round ones" at the baker's oven every morning with the coin held up. The figs are eating, never a fidget: no handling beats.
+- **Verbal tic:** none — distinguished by attention (his own grievances) and physicality (eating through everything)
+- **Bleed guard:** never Mara's eye for materials; never Myrrhine's prices (the dowry figure is read off the board, unquoted); never
+  Celer's warmth; never Kallia's labor-cost.
+- **Chaos on the page:** wants his grandson to LOSE ("I'd have liked to see him lose." / "His father thinks he'll run at Olympia. He's
+  told the whole lane. If the boy loses today there'll be peace in my daughter's house till the grapes are in.").
+- **DISTINCTNESS GUARANTEE:** the only man in the book who saves anybody out of sheer unwillingness to write it down.
+- **Ch.17 as written (Writer, 2026-10-21; every quote on the page):** he is **the gray-haired clerk of Ch.16** (ENTITY
+  record-office-clerk-gray; CH16-10 resolved by the page; the young drinker does not appear). Lines: "When the governor came back," …
+  "the colony's old books were carted over here, and nobody's sorted them since." / "They're in this office." … "The old years are at
+  the back, lady. Up the ladder." / "There's no one but me in today to mind the door." / "The boys race out on the Isthmus this
+  morning, lady. There's not a soul left in Corinth to come through it." / "The year?" / "Lady." / "Which year did you say?" / "There's
+  three books of it." / "It'll be the middle one. Dowries are the middle of a year. Everybody marries in the spring." / "Then the last."
+  / "You read, lady." / the dowry read aloud ("*Plautia, daughter of Sextus*" … "*Done at Corinth*") / "Your father's." / "His
+  freedman's had a chip out of the rim." / "Now?" / "The lane door, lady," … "is by the oven, if you'd sooner not be kept. He'll keep
+  you till noon." / at the back door: "That's out of the emperor's year," / "Two of the round ones." / "He's not opened it," … "He'll
+  not open it. He has a copyist who'll keep it under his bed till everybody's forgotten it. He's paid the copyist a year ahead." /
+  "You'd want to be gone before somebody decides to remember it." / "I'd not know about that." / "My grandson runs with the boys today.
+  My daughter's boy. Twelve. He'll have run by now." / in the colonnade: "Lady didn't ask," / "Legate." / "He'll have run." / "Not today,
+  legate." (no receipt, no seal, no writing) / "If anybody asks me tonight," … "the book left here for the copyist, and I was at the
+  Isthmus by noon. You were never in." / "My wife will have them on a cloth in the market by the Kalends." / "If you hear who won the
+  boys, send me word." / "Gods hear you." He hid the book in the wrong year's slot (his hand finds it "at the first try"), told the
+  brother's freedman it was "out with a copyist" (Ch.16), and hands it to Celer unopened. He leaves "under the columns, by the eastern
+  road", the office locked. **Spent:** all of the above; he does not return unless the plot needs Corinth.
+- **Sample line:** "If it isn't in the book, lady, it was never in the book, and I'm not writing that it wasn't." (Calibration only.)
+
 #### MYRRHINE — Plautia's maid, from her father's house; Greek-speaking; follows Latin when it is slow (Ch.16; may return Ch.17)
 - **Attention / worldview:** the household's things and what they fetch: she knows where every one of Plautia's given-away possessions
   went and what it costs to buy it back. Loyal by thrift, not by sentiment.
@@ -3059,6 +3287,13 @@ quotes checked by script.)*
   the flask goes, and which side, and she will stand off my hem."). **Spent:** the buy-back offer; the flask-and-litter objection; "She
   knows her shoes are on her feet."; "He looks at it every time the chest is open,". **Ch.17 rule:** no price figure in her mouth, and
   no lupins.
+- **Ch.17 (backfill pieces only; Writer, 2026-10-21):** before dawn she "pressed" a beaker of water on Mara; packed the writing case
+  "three times over in the lamplight, … each time tighter"; "marched me to and fro behind an empty chair to cure me of her mistress's
+  hem": "Further back. Further. She gets down on the right, always, from a child; her nurse was left-handed, and nobody has ever told her
+  otherwise." / "The knife is her grandfather's," / "Everything in this case comes home tonight. If it goes to anybody else, I shall know
+  whose house." Mara wears her dress. Plautia gives the knife away anyway ("Myrrhine will find you," … "She finds everything."); Valens:
+  "Her woman will be on the quay before us." (a dry line; Ch.18 is not bound to bring her). **Rules kept:** no price, no lupins.
+  **Spent:** the hem drill; the left-handed nurse; "I shall know whose house".
 - **Sample line:** "That brooch went to the lamp-seller's wife at the last market day, and I'll have it back by the Kalends for less than she
   paid in compliments." (Calibration only.)
 
@@ -3076,7 +3311,7 @@ line each, so that walk-ons don't all sound like Mara.
 | Priest who hires Mara (9) | WRITTEN (Ch.9) and named: EUTHYDIKOS (card above); the wiped hand is spent. His household (slave at the door, smith, bee-man, the mistress) is in the Ch.9 walk-on note |
 | Kallia's cousin (11) | WRITTEN (Ch.11) and named: PRAXIAS (card above); prices and the quail ring |
 | Celer's man on the road (12) | false friendliness; one greeting, then nothing |
-| Archive clerk (17) | boredom and figs; monosyllables; does not look up |
+| Archive clerk (17) | WRITTEN (Ch.17) and named: ONESIMUS (card above), the gray-haired clerk of Ch.16; the fig cake and the stylus |
 | Ship's captain at Lechaion (18) | respectability and the tide; flat rules |
 | Sailor witness (18) | getting aboard; impatient |
 | Puteoli harbor clerk (19) | short-sighted bureaucrat; squints at seals; not hostile |
@@ -4253,6 +4488,42 @@ line each, so that walk-ons don't all sound like Mara.
       light"; "a square of dark, its shutter ajar"; "it put us on the floor"; "started for the stables"; "among my letters"; "a
       rope-maker's wife".
 
+- **At-risk after Ch.17 (Writer, 2026-10-21; "Games on the Isthmus", In medias res, 3 breaks; the moves and shapes to keep out of
+  Ch.18 and after):**
+  - **The theft (SPENT as a set):** the tags and the swapped book ("A thing that was lost was nearly always only put back wrong."); the
+    cut "as far from the seals as it ran"; the cord worked up and rethreaded "hole by hole"; the reef knot that shows; the leaf "among
+    Plautia's letters"; the slip covered ("My woman has dropped her pen."). No later document is taken from a bound book, and the knot
+    is never described again (Ch.22 may say only that the leaf was produced).
+  - **The museum-storeroom recognition: once.** No storeroom or accession-number comparison for several chapters; Ch.20's shop uses
+    the mender's attention, not the registrar's.
+  - **The fig cake dug with a stylus (then a thumb): the clerk's alone, SPENT.** No later walk-on eats through a scene as his
+    signature. The anchor is closed.
+  - **Valens reading his own name, lips shut after the first word: once.** Ch.22's "his own name" is spoken, in fresh words, and does
+    not recall the lane.
+  - **Celer's scaffold superstition: shown once (the shade line, the hand drawn in, carried round) and named once (Plautia's painter's
+    plank).** If Ch.22 uses it, once, a different object, no shade line, no litter round.
+  - **Celer's pleasantries** (see his Ch.17 block): every one SPENT; "Lupus" in his mouth 3 this chapter.
+  - **Plautia gives without weeping** (the knife): once. Her next giving (Ch.22), if any, is staged a third way.
+  - **The bladder / latrine body rebel: SPENT.** **Hands shaking at a threshold (the arch): used;** the next threshold body-break is in
+    another channel.
+  - **The run for the ship: the chapter's close.** Ch.18 opens on the quay (an I-statement), never on the run, and does not re-narrate
+    it. The ship: "the one with the goose carved on her stern", "It goes out on the afternoon breeze, whoever's on it." So **Ch.18's
+    quay hour is the same afternoon** (the outline's example opener, "awake since the second watch", no longer fits; any I-statement in
+    the moment will do).
+  - **The pine crown for Felix:** an object Valens carries to the quay; Ch.18 may hand it over with no speech, or not at all; never
+    explained. **Who won the boys' race: unknown to everyone; nobody finds out on the page** (leave it).
+  - **The Judaea Capta coin:** once; no more coin images soon. **Lucanian sausages, the god's pine, the Alexandrian trainer:** once each.
+  - **The bearers as Celer's hired men** ("off a cliff for him, if he paid"): once.
+  - **Spoken shapes spent:** "It's mine."; "He'll eat his bread."; "Gods hear you."; "I lead mules."; "Whose school?"; "Will they
+    wait?" / "No."; "I hope he lost,"; "I write for the lady."
+  - **Counts (writer draft):** 7,194 words (shape_check), 7,206 (style); dialogue 31% (show_tell 30.9); median 11; 3 breaks;
+    `short-punch` → `quiet`. Em-dashes 0; semicolons 10 (1.4/1k); and-chains 4; negation pivots 0; hinge / "So" openers 0; "before I had"
+    0; "without looking" 0; credential asides 0; "as if / as though" 3; "the way" 1; sentence-initial "Nobody" in narration 1;
+    "said/told the [non-listener]" 1 ("said the clerk to nobody"). Gestures: object handling 3, swallow 1, jaw 1, turn away/back 2,
+    kneel/crouch 0, bend 0, hand-on-knee 0, deliberation pause 0 (gate; one "sat a while" by hand), gait exit 0. Bare "No." 1 (Valens).
+    Felix "Is it" 0. Plautia "Then…" openers 1; Valens "Then…" openers 0. Echoes 0; spoken-line echoes 0; command echo 0 (judged);
+    `check_chapter.sh 17` all clean; `shape_check --strict` CLEAN.
+
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
   used as a scene button.
@@ -4829,3 +5100,10 @@ finalizing the chapter. Never add a tic to fix it.
   sword; the suit is "two years from this spring"; Valens's post at the games is unresolved). Not touched: the manuscript,
   STATE.yaml, ENTITY_STATE.yaml. No new named character; no tic, catchphrase or signature gesture given to anyone. Tic-bearer roster
   still NONE.
+- **2026-10-21 (Writer, Ch.17 "Games on the Isthmus"):** NEW card ONESIMUS (the gray-haired record-office clerk of Ch.16, named; the
+  fig cake; wants his grandson to lose). CELER's first live block (entry, the page reason for his presence, the scaffold shown and named,
+  every pleasantry, his men). Ch.17 blocks for MARA, VALENS (his post at the oven settled; reads the leaf; trusts the clerk; "To Rome."),
+  FELIX (one backfill piece), PLAUTIA (the silver, the dowry read aloud, her father Sextus, the roof at dawn, the colonnade, the knife
+  given without weeping), MYRRHINE (backfill: the hem drill, the knife, "I shall know whose house"). A Ch.17 walk-on block and an
+  At-risk after Ch.17 block. The outline's "Archive clerk (17)" row marked WRITTEN. No tic, catchphrase or signature gesture given to
+  anyone; tic-bearer roster still NONE.
