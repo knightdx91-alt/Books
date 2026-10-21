@@ -33,6 +33,8 @@ handling beats; "in English" as a tag ≤2 per chapter.
 
 **OPEN FOR CHECKPOINT 4 (author):** the children's citizenship. Ch.18's quay marriage is a citizen freedman (Valens) + a woman registered as a peregrine (Mara, "of Syracuse", Kallia's kinswoman) = matrimonium iniustum: valid, but children take the mother's status, so Lucius and Aelia would NOT be Roman citizens by birth. Twist: Syracuse was a Roman colonia (Augustus), so a "Syracusan" could claim citizenship. No chapter before Ch.22–24 depends on it; until the author rules, no chapter calls the children citizens.
 
+**RULING (orchestrator, 2026-10-21, on the Ch.19 audit's question): "seam".** The outline's Ch.20 mending beat ("learns to let a seam show") and voice-bank sample-11 use "seam" for a visible repair; that is canon and stays. What is reserved for the ending (Ch.42–43) is "seam" used of the DOOR, the tomb or the cold — never describe the door, the tomb or its cold with "seam", "niche", "painted plaster" or "hand flat" before Ch.42.
+
 ## Chapter log
 - **Ch.18 "Lechaion"** — 2,523w · Floor 8.5 / Avg 8.93 / Casual 9.0 / CVI-L 10.0 · 1 polish cycle (Prose: a reserved sample frame, present-tense similes) + a continuity repair (0 CRIT / 14 WARN) · the quay wedding in ten words; the watch handed back · full chain in STATE.yaml history.
 - **Ch.17 "Games on the Isthmus"** — 6,909w · Floor 8.5 / Avg 8.86 / Casual 9.0 / CVI-L 9.7 · 1 polish cycle (Prose: lifts and rebuilt set pieces) + a continuity repair (1 CRIT / 10 WARN) · the theft by boredom; Celer at the scaffold's shadow; the run · full chain in STATE.yaml history.
