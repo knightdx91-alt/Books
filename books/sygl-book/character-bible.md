@@ -543,16 +543,22 @@ re-read and confirmed (or corrected against the page) the moment the character e
   in kind."
 - Sample line: "Could we do the same to them? See how they respond to it." (p.107; Ch.18)
 
-#### ERIC — younger officer given the battalion at Raizen's border (Ch.22) *(not yet on page — seeded from source; Writer confirms on first appearance)*
-- All four axes: source silent — keep to function (named once; leads the distraction so blood-sygl
-  civilians can be evacuated).
+#### ERIC — younger officer given the battalion at Raizen's border (Ch.22) *(ON PAGE Ch.22 — confirmed by Writer: seen only, no lines)*
+- **Ch.22 as written:** pointed out by Thad from the balustrade; reads the battalion's names off a list in
+  the lowest courtyard in one carrying voice, eyes on the paper, turns the page without missing a name.
+  "Young for the job. Not much past twenty." Leads the distraction so blood-sygl civilians can be evacuated
+  (refuge offered to those who will serve or help in camp). No speech, no invented history.
+- All four axes: source silent — keep to function.
 - Verbal tic: none — distinguished by function.
-- DISTINCTNESS GUARANTEE: a name on Fern's order, not a speaking role unless the source gives one.
+- DISTINCTNESS GUARANTEE: a name on Fern's order and a voice reading a list, not a speaking role unless the
+  source gives one.
 - Sample line: none.
 
-#### MARCUS — the Blood army's weapons master (Ch.22, reported) *(not yet on page — seeded from source; Writer confirms on first appearance)*
-- Attention / worldview: makes Lora work for her win (reported by Lora). Other axes: source silent —
-  keep to function. Reported only; Bal does not witness the spar.
+#### MARCUS — the Blood army's weapons master (Ch.22, reported) *(Ch.22 — confirmed by Writer: REPORTED only, never on page)*
+- **Ch.22 as written:** known only through Lora on the climb back: he asks her to go a round, she thinks he
+  is being polite, he isn't; makes her work for every touch; she wins on a feint he bit on and "knew it the
+  second he did". Bal does not witness the spar. No physical description, no lines of his own.
+- Attention / worldview: makes Lora work for her win. Other axes: source silent — keep to function.
 - Verbal tic: none — distinguished by function.
 - DISTINCTNESS GUARANTEE: the one fighter who nearly beats Lora, known only through her excitement.
 - Sample line: none (reported only).
