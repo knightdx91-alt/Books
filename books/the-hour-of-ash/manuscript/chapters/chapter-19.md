@@ -10,7 +10,7 @@
 
 By the twelfth morning of my marriage Pacuvius's goose ship was coming round the last cape into the bay, and I had slept all eleven nights before it on her deck, between my husband and a mule. The mules stood amidships inside a square of hurdles lashed to ring-bolts, the four of them in a row with their heads over the topmost rail and their ears laid back at the sea. Valens slept along the outside of the hurdles with his shoulders to them, and I slept along Valens. Felix slept wherever a sailor had last moved him on from, which by the third night was the coil of the anchor cable up in the bows; Pacuvius's girl slept under an awning at the stern with her father across its opening on a folded sail. Nobody aboard that ship had a door to shut on anybody.
 
-We had cleared Lechaion before evening and gone west down the gulf for two days, Achaea on one hand, the mountains of Phocis on the other, until the shores pinched in at the narrows; Felix hung over the rail there. "I could spit on the pair of them from here, Achaea to the left and the Locrians to the right, and never shift my feet. Which shall I do first?" Beyond the narrows the islands stood off in the haze. Beyond the islands came two days with no land anywhere, when the master went to the stern each evening with a cup, poured some of it on the water, and prayed in a voice he never used on us. Italy, on the sixth morning, was a low brown line in the west that Felix refused to believe was a country. We went down its coast and round the toe of it, and the Straits took the best part of a day; the crew told Felix about the whirlpool on the Sicilian side, each man improving on the version before his, until he went and sat with the mules. The master's girl, Pacuvia, was sick for every mile of the Straits and well again by Rhegium. Every evening after that she sat under her awning and practiced the greeting she meant to give her husband's mother, "Mother of my husband, my father greets your house, and I enter it gladly," in a whisper at first and then aloud, until the steersman could say it with her.
+We had cleared Lechaion before evening and gone west down the gulf for two days, Achaea on one hand, the mountains of Phocis on the other, until the shores pinched in at the narrows; Felix hung over the rail there. "I could spit on the pair of them from here, Achaea to the left and the Locrians to the right, and never shift my feet. Which shall I do first?" Beyond the narrows the islands stood off in the haze. Beyond the islands came two days with no land anywhere, when the master went to the stern each evening with a cup, poured some of it on the water, and prayed in a voice he never used on us. Italy, on the sixth morning, was a low brown line in the west that Felix refused to believe was a country. We went down its coast and round the toe of it, and the Straits took the best part of a day; the crew told Felix about the whirlpool on the Sicilian side, each man improving on the version before his, until he went and sat with the mules. The master's girl, Pacuvia, was sick for every mile of the Straits and well again by daylight. Every evening after that she sat under her awning and practiced the greeting she meant to give her husband's mother, "Mother of my husband, my father greets your house, and I enter it gladly," in a whisper at first and then aloud, until the steersman could say it with her.
 
 On the eighth night, off some coast none of us could see, Valens put out a hand in the dark and closed it round my ankle, and did not let go till morning, as if the ship might take it into her head to drop me overboard. That was the nearest we came, in eleven days, to being married in private.
 
@@ -40,7 +40,7 @@ I agreed with him, and I was glad he had said it, and I studied the farms on its
 
 The black had her teeth in the hurdle lashing again, and he left me to see to it.
 
-Alone at the rail, I drew the Pentax up by its strap from under my dress, where it had hung since Lechaion, and the pushed-in place on the lens's front ring flashed as it cleared the cloth. I put it to my eye, and in the finder the mountain was small enough to cover with a thumb, very green, with the edge of the sail clipping the sky on the left and a gull flying through it once. I turned the ring until the farms came sharp, and my forefinger found the shutter button and rested there.
+Left to myself, I drew the Pentax up by its strap from under my dress, where it had hung since Lechaion, and the pushed-in place on the lens's front ring flashed as it cleared the cloth. I put it to my eye, and in the finder the mountain was small enough to cover with a thumb, very green, with the edge of the sail clipping the sky on the left and a gull flying through it once. I turned the ring until the farms came sharp, and my forefinger found the shutter button and rested there.
 
 Seventy-nine. It came unasked, two figures with nothing round them, while the mountain stood small and green in the glass.
 
@@ -58,15 +58,15 @@ Felix took his foot off the rail.
 
 * * *
 
-Puteoli's mole marched seaward on arches. It was a road carried on piers, a long row of them, with the swell running in under each arch and out beyond it, and along its top went a paving with columns set at intervals and a statue on every column, men in togas streaked white by gulls. The piers were concrete, poured somehow under water and faced with brick, and the sea had eaten the brick off the lowest courses so that the gray core showed through, packed full of pebbles, with a fringe of green weed along each pier that lifted and lay down again with every swell. The crew got out the long sweeps and walked us in along it to a berth near the shore end, between grain ships from Alexandria that were broader than anything at Lechaion and carried a little three-cornered sail high on the mast above the yard.
+Puteoli's mole marched seaward on arches. It was a road carried on piers, a long row of them, with the swell running in under each arch and out beyond it, and along its top went a paving with columns set at intervals and a statue on every column, men in togas streaked white by gulls. The piers were concrete, poured somehow under water and faced with brick, and the sea had eaten the brick off the lowest courses and bared the gray core, packed full of pebbles, with a fringe of green weed along each pier that lifted and lay down again with every swell. The crew got out the long sweeps and walked us in along it to a berth near the shore end, between grain ships from Alexandria that were broader than anything at Lechaion and carried a little three-cornered sail high on the mast above the yard.
 
-The quay was crowded from the water's edge to the warehouse doors. Porters went to and fro on the planks of the Alexandrians with sacks on their shoulders and their heads down, and grain dust from the sacks settled in their hair. A man was selling something fried in oil out of a pan on a brazier, and a priest in white linen with his head shaved was arguing with him about it in a Greek I understood and then in a language I did not. A dog slept at the foot of a plank, and the porters stepped round it.
+The quay was crowded from the water's edge to the warehouse doors. Porters went to and fro on the planks of the Alexandrians with sacks on their shoulders and their heads down, and grain dust from the sacks settled in their hair. A man was selling something fried in oil out of a pan on a brazier, and a priest in white linen with his head shaved was arguing with him about it, in Greek at first and then louder. A dog slept at the foot of a plank, and the porters stepped round it.
 
-Pacuvia went down our plank first, in her good blue with the brooch at her shoulder, and her father behind her for once instead of at the rail. The mother-in-law was waiting at the foot, a small woman in brown, with one slave holding a parasol above her and another holding nothing, and she read the brooch before she read the face. The girl said her greeting, the whole of it, in her careful Latin, with her fingers laced in front of her, and the old lady heard her out to the end and answered her in Greek, quick Greek, the Greek of the quays, of which I caught perhaps half: that the house was up at the highest part of the town, that there was fish, that the girl was thinner than she had been told. Then her eyes went past the girl to us, and the question she put came slowly enough for me to have all of it.
+Pacuvia went down our plank first, with the brooch at her throat, and her father behind her for once instead of at the rail. The mother-in-law was waiting at the foot, a small woman in brown, with one slave holding a parasol above her and another holding nothing, and she read the brooch before she read the face. The girl said her greeting, the whole of it, in her careful Latin, with her fingers laced in front of her, and the old lady heard her out to the end and answered her in Greek, quick Greek, the Greek of the quays, of which I caught perhaps half: that the house was up at the highest part of the town, that there was fish, that the girl was thinner than she had been told. The question she put next was about us, and it came slowly enough for me to have all of it.
 
-"And those on your father's deck, who are they?"
+"Those on your father's deck, who are they?"
 
-"Married people," the girl told her, in a Greek that was suddenly as good as anybody's. "Corinthians. They had mules."
+"Married people," the girl told her, and her Greek was suddenly as good as anybody's. "Corinthians. They had mules."
 
 She looked at us once, and at Valens for longer, and turned to the porters about the girl's chest.
 
@@ -90,7 +90,7 @@ The clerk made another note, and the slave behind him moved the case of styluses
 
 The stylus stopped. "Freedman of whom?"
 
-Valens reached under his tunic for the leaf and opened its two boards on the table. The clerk took it up two-handed, raised it to his nose, and read it there, slowly, every line, the witnesses and all, while the porters went by behind us with their sacks and the swell slapped under the mole. Then he shut it and left it lying, came out from behind his table, and stood in front of Valens to peer up into his face from nearer than I had ever seen one man look at another in a street.
+Valens reached under his tunic for the leaf and opened its two boards on the table. The clerk lifted it to his nose and read it there, slowly, one board and then the other. He left it lying open, came out from behind his table, and stood in front of Valens to peer up into his face from nearer than I had ever seen one man look at another in a street.
 
 Valens let him, and stood as still as the column beside the table, gazing over the clerk's head at the water.
 
@@ -146,9 +146,9 @@ The road to Neapolis went into a hill. A ridge ran down to the sea between Puteo
 
 "You can carry your mule," the torch boy said, and Valens paid two of them and sent them on ahead.
 
-It was the first tunnel I had been in since the Broad Street subway, and it was worse. The dust lay ankle deep and rose with each step into the torchlight, so that the boys in front walked in two balls of brown fog, and the dust was up my nose and in the creases of my eyelids before we had gone fifty paces. The carts bound for Puteoli announced themselves from far off, their wheels and their drivers' voices booming along the rock, and then loomed out of the fog almost against us, with their lamps swinging and the oxen's breath on the air. The mules kept their ears flat in there and gave no trouble. Far ahead a small gray patch hung in the dark that I was slow to believe was the end. When the sun found us again beyond the hill, mules and people were one color. Felix spat brown at the verge. "That's half of Italy I've eaten already, and the rest of it's up my nose. Are there more hills like that before Pompeii?"
+The dust lay ankle deep and rose with each step into the torchlight, so that the boys in front walked in two balls of brown fog, and the dust was up my nose and in the creases of my eyelids before we had gone fifty paces. The carts bound for Puteoli announced themselves from far off, their wheels and their drivers' voices booming along the rock, and then loomed out of the fog almost against us, with their lamps swinging and the oxen's breath on the air. The mules kept their ears flat in there and gave no trouble. Far ahead a small gray patch hung in the dark that I was slow to believe was the end. When the sun found us again beyond the hill, mules and people were one color. Felix spat brown at the verge. "That's half of Italy I've eaten already, and the rest of it's up my nose. Are there more hills like that before Pompeii?"
 
-Neapolis spoke Greek, and I heard it before we were through the gate: a woman on a balcony scolding a child in Greek with its vowels drawn out longer than they were drawn in Phocis, "Come in off that roof, come in now, or your father hears where you were yesterday," and I understood every word, and stayed in the street for the rest of it. There were Greek letters cut over the doors and Greek names on the shop boards, and in a colonnade by the market old men in Greek cloaks sat arguing about something with enormous pleasure.
+Neapolis spoke Greek, and I heard it before we were through the gate: a woman on a balcony scolding a child in Greek with its vowels drawn out longer than they were drawn in Phocis, "Come in off that roof, come in now, or your father hears where you were yesterday," and I stood under her balcony for the rest of it. There were Greek letters cut over the doors and Greek names on the shop boards, and in a colonnade by the market old men in Greek cloaks sat arguing about something with enormous pleasure.
 
 "In a city this big," Felix asked one of them, "where's the fighting? Who's your best man? I'd put him down for you."
 
@@ -168,7 +168,7 @@ Through a slot where a tile had slipped against its neighbor, three stars showed
 
 "At the street corners. There are fountains every few houses. The water comes in under the paving, in pipes of lead."
 
-"And carting? Who wants it?"
+"Carting? Who wants it?"
 
 "Everybody. They are still building."
 
@@ -188,7 +188,7 @@ In the morning the carters were gone before us, and Felix was in the yard with t
 
 "We've a mule with a loose shoe," Valens said. "Hold her."
 
-It was the black's off fore, in the iron sole they laced over a hoof for stony roads, and its straps had worked slack overnight. Valens had the hoof clamped up on his leg and the lacing threaded through its rings before Felix had a hand on her halter; he drew it tight, tried it with his thumb, and set the foot down, and the black stamped it twice on the stones of the yard to learn if she liked it, and decided against.
+It was the black's off fore, in the iron sole they laced over a hoof for stony roads, and its straps had worked slack overnight. Valens had the hoof clamped up on his leg and the lacing threaded through its rings; he drew it tight, tried it with his thumb, and set the foot down, and the black stamped it twice on the stones of the yard to learn if she liked it, and decided against.
 
 All that second day the road kept to the shore between the sea and the mountain. On the sea side there were villas in a string, built out on the rocks with their porticoes over the water, and below them fishponds hewn in the rock and fed by the tide; at one a slave stood in a little boat in the middle of the pond scattering something, and the water round his boat thrashed. On the land side the vines were trained up elms planted in lines across the fields, the vines' arms tied into the trees with withies and slung across in swags from one tree to the next, so that every field was a long colonnade of green. The Romans called that marrying the vine to the elm. Twelve days into my own, I was in no position to laugh at anybody.
 
@@ -206,7 +206,7 @@ We came to Pompeii from the shore road, up a long slope between tombs. I walked 
 
 Past the gate the street ran downhill between high curbs, paved with big gray blocks of lava jointed in no pattern at all and worn into two deep ruts by wheels, and at the first corner three tall stones stood across it in a line, spaced so that a cart's wheels would go between them and a person's feet over them. The mules had never met anything of the kind, so Valens himself walked the dun through between the stones, talking to her, with his other hand on the stone she was eyeing, and the others followed her because she had gone.
 
-All of that town was being mended; half the houses on that first street had something wrong with their fronts and somebody seeing to it. One was held up by props, big timbers slanted out from its wall into the roadway and wedged against the curb, so that the mules had to be led round them close under its eaves. On another a mason up a ladder was pointing the joints of a brick patch the size of a bed, singing to himself, and the song dropped down the ladder in pieces whenever his head came round. Where two streets crossed, a temple was getting new columns, fresh drums of pale yellowish stone stacked on old gray ones that had been left standing to the height of a man, and the next drum rose on a rope by small jerks while two boys trod a great wheel at the crane's foot and shouted to each other inside it. The black nosed into a trench where the paving had been lifted for a new lead pipe, and Felix dragged her out of it by the halter.
+All of that town was being mended; half the houses on that first street had something wrong with their fronts and somebody seeing to it. One was held up by props, big timbers slanted out from its wall into the roadway and wedged against the curb, and the mules had to be led round them close under its eaves. On another a mason up a ladder was pointing the joints of a brick patch the size of a bed, singing to himself, and the song dropped down the ladder in pieces whenever his head came round. Where two streets crossed, a temple was getting new columns, fresh drums of pale yellowish stone stacked on old gray ones that had been left standing to the height of a man, and the next drum rose on a rope by small jerks while two boys trod a great wheel at the crane's foot and shouted to each other inside it. The black nosed into a trench where the paving had been lifted for a new lead pipe, and Felix dragged her out of it by the halter.
 
 At the next corner, on a house wall painted red to above the doorframe, a crack had been filled and painted over, eaves to curb, and the red they had painted it with had dried pinker than the wall. It made a stripe a hand wide down the house's front. People were walking past it, and two doors down a woman was leaning on it, talking to a girl with a basket. My thumbnail was in the edge of the stripe, feeling where the new plaster had been laid over the old with nothing to key it to. A join showed or it did not. This one showed to everybody who came down that street, and the plasterer should have been made to stand in front of it from dawn to dark and hear what they said. Valens called my name from the corner, and I took my thumbnail out of the house.
 
@@ -242,7 +242,7 @@ The wine was hot, and the pepper in it shot up the back of my nose.
 
 Valens paid her the first month from the purse at his belt, and the money vanished into her clothes, and she touched him on the arm as she went by him to the door next to hers. He looked at the place on his sleeve where her hand had been.
 
-The cobbler's shop had a wide opening on the street with a row of grooved stones along the sill to take the boards of its shutters, and the boards stood stacked inside along one wall. The floor was beaten earth with scraps of leather trodden into it, and in a corner lay a wooden last, too broken to be worth taking, with a cobweb strung from it to the plaster. Behind the shop lay two rooms with a door between them. The back one had a bed frame whose cord had rotted through near one leg, a window set high up onto a light-well, and a stair of wooden treads climbing the outside of the house at the back to the roof.
+The cobbler's shop had a wide opening on the street with a row of grooved stones along the sill to take the boards of its shutters, and the boards stood stacked inside along one wall. The floor was beaten earth, and in a corner lay a wooden last, too broken to be worth taking, with a cobweb strung from it to the plaster. Behind the shop lay two rooms with a door between them. The back one had a bed frame whose cord had rotted through near one leg, a window set high up onto a light-well, and a stair of wooden treads climbing the outside of the house at the back to the roof.
 
 Valens had the fig on the roof before he had looked at the bed. Felix took the mules off to the inn Grata had named, to be robbed less, and Grata sent her directions after him the length of three houses. "Left at the fountain with the bull's head on it, and straight on down till you've the gate in front of you, the yard's on your right, and if he stables that black of yours next to anything he values he'll be sorry, she's had a go at my awning already."
 
@@ -262,7 +262,7 @@ When the boy had gone, and the light in the window had turned yellow, Valens too
 
 "Go when the road's full," he said, "and keep to it going and coming."
 
-The door between the rooms was planks on leather hinges, with a bar to drop across it on the inside. He rose and shut it, set the bar in its brackets and lifted it clear, and closed it once more, slowly, to see how it hung on its leather.
+The door between the rooms was planks on leather hinges, with a bar to drop across it on the inside. He rose and shut it, set the bar in its brackets and lifted it clear, opened it, and closed it once more, slowly, to see how it hung on its leather.
 
 "It sticks at the sill," he said.
 
@@ -284,7 +284,7 @@ I had kept the fuller and his wife out of all that, and lost the baker entirely.
 
 "There's work in you as well as him, you've hands that are for something, I heard about you at that wall yesterday with your nail in it, half that street saw you. Put a board up at that shop and they'll be at your sill by market day with their broken things in a cloth, there's not a kitchen on this street that didn't have its shelf come down, and half of them are eating off the pieces yet." She drank. "That was my cousin did that wall. He's a bad plasterer and he's family, so it stays."
 
-On the wall of her own house, beside her counter, there was a patch of new whitewash the size of a door. It was still dark with wet at its edges, and through the white the shapes of red letters showed faintly, as they would until the second coat. It had appeared since we came, and Grata saw me looking.
+On the wall of her own house, beside her counter, there was a broad patch of new whitewash. It was still dark with wet at its edges, and through the white the shapes of red letters showed faintly, as they would until the second coat. It had appeared since we came, and Grata saw me looking.
 
 "Don't lean on that," she said. "It's wet. My son's at the baths. A lad who means to stand for aedile one day has to be seen at the baths by the right people with nothing on, and the right people are always at the baths, and when any of them works, the gods know."
 
@@ -326,7 +326,7 @@ Felix went over to the parapet in case the amphitheater showed from there. "Roof
 
 He tried the noseband against his own hand for size, and pared more off it.
 
-"And the third?"
+"The third?"
 
 "The Nuceria Gate. Tomorrow."
 
@@ -342,21 +342,21 @@ On the next afternoon it was the Nuceria Gate.
 
 Inside the passage a woman had a basket of roses on the step beside her, made up into garlands and loose, and she held one up at me as I came by. "For your people, lady. The road's half full of roses already. You'll not want to go out bare." I passed her empty-handed. "Greeks," she called after me, and more that the echo of the passage took.
 
-The road outside ran beneath the town wall instead of striking off across the country, east and west, so that the town rose above it to the north and the fields dropped away southward, and the tombs stood all along both its edges, close as houses in a street, the country behind them and their faces to the road. This was where the dead go out, and they had followed the road out in their hundreds and settled in. Families sat eating on the benches built along the tomb fronts for anybody passing. Behind a low wall a plot was crowded with little stones cut in the shape of a head on a pair of shoulders, faceless, some with a knot of hair carved at the back; the roses on an altar beside it were browning at the edges in the sun. In the shade of a tall tomb with a marble woman seated on top of it a man was asleep with his jaw dropped and a fly walking on his cheek, and a candidate's name had been put up in red letters on the tomb's side, the same as on any wall in the town. Farther on, a boy came driving geese along the crown of the road with a long stick, and the geese passed me with their necks out.
+The road outside ran beneath the town wall instead of striking off across the country, east and west, with the town above it to the north and the fields dropping away southward, and the tombs stood all along both its edges, close as houses in a street, the country behind them and their faces to the road. This was where the dead go out, and they had followed the road out in their hundreds and settled in. Families sat eating on the benches built along the tomb fronts for anybody passing. Behind a low wall a plot was crowded with little stones cut in the shape of a head on a pair of shoulders, faceless, some with a knot of hair carved at the back; the roses on an altar beside it were browning at the edges in the sun. In the shade of a tall tomb with a marble woman seated on top of it a man was asleep with his jaw dropped and a fly walking on his cheek, and a candidate's name had been put up in red letters on the tomb's side, the same as on any wall in the town. Farther on, a boy came driving geese along the crown of the road with a long stick, and the geese passed me with their necks out.
 
 It was on the town side of the road, between a big tomb and a little walled plot. I knew it from twenty paces off, with not a letter of it read.
 
-It was a small square house of rubble, plastered white, with a low gable over its front and no higher at the ridge than Valens's head, and its front looked over the road into the afternoon sun. On that front, from the ground nearly to the gable, a door had been painted, at the size of a real one as near as the little house allowed, and painted to look like wood: two leaves, each in three panels, done in a yellowish brown, with the grain drawn on in darker strokes of a fine brush, and nail heads set down the edges as black dots with a fleck of white on each to make them shine. Each leaf had a ring for a handle, and under each ring the painter had put its shadow, falling the opposite way from every real shadow on that road. Above the door, set in the gable, there was a slip of marble with an inscription on it. It said that Aulus Numisius Eros, freedman of Aulus, had made this for himself while he lived, and that he had lived fifty-one years.
+It was a small square house of rubble, plastered white, with a low gable over its front and no higher at the ridge than Valens's head, and its front looked over the road into the afternoon sun. On that front, from the ground nearly to the gable, a door had been painted, as near full size as the little house allowed, and painted to look like wood: two leaves, each in three panels, done in a yellowish brown, with the grain drawn on in darker strokes of a fine brush, and nail heads set down the edges as black dots with a fleck of white on each to make them shine. Each leaf had a ring for a handle, and under each ring the painter had put its shadow, falling the opposite way from every real shadow on that road. Above the door, set in the gable, there was a slip of marble with an inscription on it. It said that Aulus Numisius Eros, freedman of Aulus, had made this for himself while he lived, and that he had lived fifty-one years.
 
-I stood in the road in front of it while a cart went by behind me with an axle that wanted grease.
+Behind me an ungreased axle squealed, and I moved off the road for the cart.
 
-I put the backs of my fingers to the white plaster next to the door. It was warm, as warm as the hood of a parked car on a June afternoon, with the whole day's sun in it. I moved them leftward onto the painted wood, the lower panel of the right-hand leaf, and it was cool.
+I put the backs of my fingers to the white plaster next to the door. It was warm, with the whole day's sun in it. I moved them leftward onto the painted wood, the lower panel of the right-hand leaf, and it was cool.
 
-It was faintly cool, cool as a glass of water left standing an hour by a kitchen sink; on that warm road, with the afternoon sun square on it, it had no business to be cool at all. I moved back onto the white, and it was warm. Onto the painted jamb, done to look like stone: warm. Onto the leaf again: cool. Paint and white lay on a single coat of plaster, and where the brush had crossed from one to the other it had not even lifted. I knocked on the leaf with a knuckle, low and then high, as I had sounded many a plaster panel at home for a hollow behind it, and then on the white beside it. They gave back the same dull note, with rubble behind both. I spread my fingers and gave it the whole of my palm.
+It was faintly cool, cool as a glass of water left standing an hour by a kitchen sink. I moved back onto the white, and it was warm. Onto the painted jamb, done to look like stone: warm. Onto the leaf again: cool. Paint and white lay on a single coat of plaster, and where the brush had crossed from one to the other it had not even lifted. I knocked on the leaf with a knuckle, low and then high, as I had sounded many a plaster panel at home for a hollow behind it, and then on the white beside it. They gave back the same dull note, with rubble behind both. I spread my fingers and gave it the whole of my palm.
 
 The air in front of it was the road's air, and the road's noise went on round me as before. Two tombs along, the family on the bench were passing a jug and laughing at some joke of the grandmother's; the geese were still shouting somewhere beyond the next tombs, and a mule was being cursed at the gate. The plaster against my palm was smooth and a little gritty and only just cool, and it stayed a picture of a door.
 
-A small boy of that family was at my elbow. He had rose petals stuck to the bottoms of his feet. He considered my hand on the door.
+A small boy of that family was at my elbow. He had rose petals stuck to the bottoms of his feet.
 
 "Is this one yours?" he said.
 
@@ -366,11 +366,11 @@ A small boy of that family was at my elbow. He had rose petals stuck to the bott
 
 "Leave the lady be," his mother called across. "She's praying."
 
-"What for?" the boy said.
+"Who to?" asked the boy.
 
 "Come here and carry this."
 
-The boy returned to his eels. I did not move, nor did my hand, while the family finished their jug and collected their baskets and their cloths and went past me in at the gate, the boy last, walking on the outsides of his feet to keep the petals on. The shadows of the tombs reached the road's far side. Whenever I touched the white plaster next to the door it was still giving back the sun's warmth, and the door stayed cool.
+The boy returned to his eels. The family soon had their baskets and their cloths together and went past me in at the gate, the boy last, walking on the outsides of his feet to keep the petals on. Whenever I tried the white plaster next to the door it was still giving back the sun's warmth, and the door stayed cool.
 
 When my hand left it, the coolness stayed in my palm for some distance, and was gone by the gate. The rose woman was still on her step.
 
@@ -384,6 +384,6 @@ My bag lay open on the floor, dropped there the first night, and the toe of the 
 
 Grata had her lamps lit along the counter, and as I came to the sill she took one look at my hem.
 
-"You've been out among the dead," she said, "you've the red off the Nuceria road all up your hem, it's the reddest dust in Campania and it never comes out, and you've slept through your supper and most of mine. Your man's been back since the lamps were lit. He's on the roof with his tree and the boy, and the boy's telling the street about some dead fighter whose stone he's found out past the amphitheater, and your man's sitting there letting him. There's patience. Mine would have thrown a pot at him by now. Sit there. Eat that."
+"You've been out among the dead," she said, "you've the red off the Nuceria road all up your hem, it's the reddest dust in Campania and it never comes out, and you've slept through your supper and most of mine. Your man's been back since the lamps were lit. He's on the roof with his tree and the boy, and the boy's telling the street about some dead fighter whose stone he's found out past the amphitheater, and your man's sitting there letting him. There's patience. Mine would have thrown a pot at him by now. Sit there. I kept you a bowl."
 
 I took the bench at the front of her counter with the bowl she gave me, and emptied it, and did not know what had been in it, and it was good. Everywhere in the street the shops were putting their shutters up for the night, each board let into the groove of its sill with a knock of wood on stone, and the knocking came toward us from the crossing one shopfront after another, passed the cobbler's, where our boards still leaned against the inside wall because nobody had thought to put them up, passed Grata's lamps, and carried on toward the gate, while behind it the street filled with people going home to eat, and the noise of them came up after the knocking and filled the street between its walls and rose into the open windows over the shops, voices and feet and a girl on a balcony overhead singing the same two lines of a song to a baby, and then the same two lines, louder than the baby.
