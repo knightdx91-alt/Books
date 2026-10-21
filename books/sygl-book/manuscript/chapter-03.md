@@ -98,7 +98,7 @@ Amelia stood there admiring all of it, her face tipped up to the sun. She follow
 
 "It's been a long time," she said softly.
 
-For once, she looked no older than Bal. She looked like a young girl who had been cooped up for so long that she could hardly believe she was finally allowed to go outside. Bal didn't know what to say to that. He wasn't sure anything needed saying.
+For once, she looked no older than Bal. She looked like someone who had been cooped up for so long that she could hardly believe she was finally allowed to go outside. Bal didn't know what to say to that. He wasn't sure anything needed saying.
 
 He took her hand instead, and smiled at her.
 

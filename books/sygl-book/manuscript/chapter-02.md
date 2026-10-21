@@ -6,7 +6,7 @@ His own voice bounced off the pillars and returned thinner than he'd meant it. O
 
 Out of the darkness at the back of the temple, behind the last of the pillars where the firelight gave up, a pale girl stepped forward into the light.
 
-She came unhurried, her footsteps making no sound at all on the stone, and stopped a few paces short of the nearer brazier where the glow could find her. Bal guessed she was a few years older than he was. She cocked her head and studied him with frank, open interest, much as you might study a cat that had turned up on your doorstep in the rain.
+She came unhurried, her footsteps making no sound at all on the stone, and stopped a few paces short of the nearer brazier where the glow could find her. Bal guessed she was about his own age, though she carried herself like someone far older. She cocked her head and studied him with frank, open interest, much as you might study a cat that had turned up on your doorstep in the rain.
 
 "Hello yourself," she said. "Mind telling me how you got in?"
 
@@ -196,7 +196,7 @@ Bal swallowed hard.
 
 "Uhm," he said. "Within reason."
 
-Amelia laughed and sat down beside him, and the spell of the moment broke. Her shoulder brushed his. She gave off no warmth at all, though she was right up against him and he should have felt some. She swung her feet beneath the hem of her dress like a girl half her apparent age.
+Amelia laughed and sat down beside him, and the spell of the moment broke. Her shoulder brushed his. She gave off no warmth at all, though she was right up against him and he should have felt some. She swung her feet beneath the hem of her dress like a girl let out of lessons early.
 
 "Within reason," she repeated. "Good. I like a boy with sense." She turned toward him on the bench, her knee against his, and her voice went serious. "Then hear me, Balthazaar. You shall go to this school. I will bond myself to you as your familiar. Doing so will free me from this place."
 

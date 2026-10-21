@@ -150,7 +150,7 @@ Distinguish characters on **four axes** first:
 - **Sample line:** "Nah. Just makes you more interesting." (Ch.5, on being fed from)
 
 #### AMELIA — the Vampire Goddess; originator of the Blood sygl; Bal's familiar ("Amelia Norheart" on her Dawn card)
-- **Source facts:** looks a few years older than Bal; pale, black hair to mid-back, red eyes, long black
+- **Source facts:** looks about Bal's age (turned at eighteen), carries herself far older; pale, black hair to mid-back, red eyes, long black
   dress, ruby teardrop earrings; familiar brand on her forehead, shown or hidden at will; turned at
   eighteen (source: sixteen; aged up for NA), left on a road, killed the farmer who found her while blood-mad; became the newest originator
   by consuming magical energy; once wiped out half a battlefield; feared because she won't play the
@@ -221,7 +221,7 @@ Distinguish characters on **four axes** first:
 - **Source facts:** shy; brown hair (long), glasses that slide down her nose, freckles; Kenmei/Waves sygl
   (loses waves magic on conversion and doesn't mind); trained by her father (once in Kenmei's army) and
   her town's weapons master; beat every boy in her town's tournament at thirteen and was mocked for it;
-  two years of training by day and reading by night; her father had her rapier enchanted never to need
+  five years of training by day (tournament win at thirteen; now 18+) and reading by night; her father had her rapier enchanted never to need
   sharpening; wants to join the Dawn faction; alchemist (the alchemy book, Ms. Summers, the nightstalker
   poison); loses herself in whatever she is doing (the three hours with the young alchemist, Ch.24);
   dispatched three bandits alone (Ch.16); coaches Viridia on noble manners; has a raven familiar (sick,
