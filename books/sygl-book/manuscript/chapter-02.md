@@ -58,7 +58,7 @@ Bal looked around. He took in the two rows of pillars, the two braziers, the sha
 
 "So," Bal asked, still confused, "a temple for what?"
 
-Amelia frowned. It was the first time he'd seen her look anything other than amused, and it put a little crease between those perfect eyebrows.
+Amelia frowned. Every look she'd given him so far had been amused. This one put a little crease between those perfect eyebrows.
 
 "You've never heard of me?" she said. "The Queen of the vampires?"
 
