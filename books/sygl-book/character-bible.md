@@ -502,6 +502,7 @@ re-read and confirmed (or corrected against the page) the moment the character e
 #### THAD MOREN — one of Amelia's two first priests; the cost-counter of the war (Ch.11, 18, 22, 27–28) *(on page Ch.11 — confirmed)*
 - **Ch.11 as written:** introduces himself first; carries the practical speech (the paired rune stone: "If we have to reach you, we'll signal you with that…"); tosses Bal the stone. When Bal tells them Amelia did not abandon them, his hands go flat on the table (once; not a recurring gesture). Speaks plainly, no flourish. Physical description as the source.
 - **Ch.27 as written:** seen only, from the hilltop, with Xavier at his shoulder behind the Blood lines, each deflecting the storm mages' bolts with a great blood whip (source). No lines.
+- **Ch.28 as written:** filthy, sleepless, ponytail half loose; delivers the army news and the parley letter (source); laces his fingers in front of his robe (once); his stomach growls in the hush and he ignores it (his own moment, once).
 - Attention / worldview: the cost — casualties, exhaustion, what the army can't hold (reads the reports).
 - Vocabulary band: soldier-priest's plain speech.
 - Syntax fingerprint: blunt summaries ("We've got a war is what we've got."); reads figures off a paper
@@ -755,7 +756,7 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - DISTINCTNESS GUARANTEE: the race horse of the book, against Thistle's plod.
 - Sample line: none.
 
-#### HIGH PRIEST TOMA — Raizen's High Priest (Ch.18 file; Ch.28 letter; Ch.29 duel) *(not yet on page — Ch.18: named only in Fern's file and Raizen's statement "through his High Priest"; card stands until Ch.28/29)*
+#### HIGH PRIEST TOMA — Raizen's High Priest (Ch.18 file; Ch.28 letter; Ch.29 duel) *(Ch.28: letter only, a neat upright sure hand, "pet originator" in the postscript; not yet on page — Ch.18: named only in Fern's file and Raizen's statement "through his High Priest"; card stands until Ch.28/29)*
 - Attention / worldview: the rules of the duel and the grief of a man whose priests were killed; real
   care for his fellow priests (give it its line); cruelty promised in return; takes the girls as leverage
   and keeps them unharmed.
