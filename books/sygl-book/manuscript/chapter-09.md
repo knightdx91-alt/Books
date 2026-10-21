@@ -132,7 +132,7 @@ Amelia's head came round toward him, slowly. By the time it had finished coming 
 
 "Are you implying," she asked softly, "that I need permission from you to go anywhere I wish?"
 
-Mr. Porter began to sweat. From the back row Bal saw it shining at his hairline. His hands came up, both of them, and waved in front of him.
+Mr. Porter was sweating now. From the back row Bal could see it shining at his hairline. His hands came up, both of them, and waved in front of him.
 
 "No, no," he said. "No. I was only curious what led you to grace us with your presence, that's all."
 
@@ -222,7 +222,7 @@ Bal had always looked up to the originators.
 
 Some people were born with magyk, he knew that, and not all of them got sygls. He had grown up thinking the ones who did were chosen. That each of those marks was a piece of an originator, given on purpose, by someone who wanted the world to be better and had picked that person to help. He had wanted one so badly. He had sat on a roof and pushed magic through a stump for years on the hope of it.
 
-Now here it was in their own histories, in plain print, and it matched what Amelia had said at the cottage about eight high priests outside a temple. It made him feel sick.
+Now here it was in their own histories, in plain print, and it matched what Amelia had said at the cottage about eight high priests outside a temple. The oatmeal sat heavy in his stomach.
 
 He shut the book.
 

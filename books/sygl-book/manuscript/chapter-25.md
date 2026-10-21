@@ -104,7 +104,7 @@ He drained what was in his cup. Then, to Bal at the table's end:
 
 ---
 
-Viridia's face did not change. Her hands did. They had been resting on the table, and now they went still and pale on the wood, the knuckles standing out. She was afraid. It was all over her, as plain as the scar on Aleric's face.
+Viridia's face did not change. Her hands did. They had been resting on the table, and now they went still and pale on the wood, the knuckles standing out. The pulse was going in her throat, as plain as the scar on Aleric's face.
 
 A table away, Lora had heard every word. Her cup was halfway to her mouth. She had gone white to the lips.
 
@@ -116,7 +116,7 @@ She let her lashes fall once, slowly, the signal a lady gives her servant, and t
 
 Bal went for the cup.
 
-He went slowly. He kept it slow on purpose, one boot and then the other across the long damp floor, because every step bought him time to think. He could attack them. Turn around right now and go for them with everything he had. He could probably take one of them before they cut him down. One. And then Lora and Viridia would still die, here or in the street outside, and it would all have been for nothing.
+He kept it slow on purpose, one boot and then the other across the long damp floor, because every step bought him time to think. He could attack them. Turn around right now and go for them with everything he had. He could probably take one of them before they cut him down. One. And then Lora and Viridia would still die, here or in the street outside, and it would all have been for nothing.
 
 No. Something. Something here.
 
@@ -128,7 +128,7 @@ The man went through a door at the back. Bal waited at the bar and let the shelv
 
 One of the bottles had a mark on it.
 
-It was a tall clear bottle second from the top, nearly at the end of its shelf, and something had been cut into the glass on its side, fine white lines cut in a careful pattern. Bal leaned across the bar to see it better.
+It was a tall clear bottle second from the top, nearly at the end of its shelf, and something had been cut into the glass on its side, fine white lines in a careful pattern. Bal leaned across the bar to see it better.
 
 "It's a cold rune." The barman was back, with a cup in his hand. The cup clicked onto the counter between them, and now there was something like warmth in his voice. "I bought it off a fellow last week. Keeps anything you put in it cold. Any liquid at all."
 
@@ -194,7 +194,7 @@ Leon kept the cups full. Titus got louder with every one, and redder, until he w
 
 Viridia's cup stayed where she had set it, empty. No one offered to fill it again. She asked about Pashar and listened to the answers chin high, a lady being gracious to her inferiors, and only Bal, from behind, could see how straight she held her back.
 
-Lora, off at her own table, sipped her water. Her cup never seemed to get any emptier.
+Lora, off at her own table, sipped her water. Her cup never got any emptier.
 
 After their fourth cup, Viridia told them she ought to be going.
 

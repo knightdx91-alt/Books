@@ -134,13 +134,13 @@ Bal walked between them and only half heard.
 
 He had never had much of a temper as a kid. But when Sean had grabbed Viridia, Bal had wanted to kill him. Not hurt him. Kill him. It would not have taken much, either. A dart of blood in the eye would have done it before Sean had her out of the chair.
 
-That surge of anger had surprised him.
+The skin of his palm still prickled where it had split.
 
 Maybe he'd talk to Amelia about it later.
 
 ---
 
-Amelia was waiting for them in the dorm, and she was in very high spirits. She had been to the originators in the night, and she had enjoyed their faces enormously when she made her declaration.
+Amelia was waiting for them in the dorm, humming to herself. She had been to the originators in the night, and she had enjoyed their faces enormously when she made her declaration.
 
 "Raizen tried to act as though he hadn't seen it coming." She sat on the arm of the couch. "As if I couldn't tell. He was hoping to find all of my priests first, before he had to declare war on me." That made her laugh out loud.
 
@@ -156,7 +156,7 @@ Bal was supposed to meet Xavier tonight anyway, to go over strategies for taking
 
 The girls told her. They told her all of it, together and over each other, how Bal had stopped Sean with a blood whip and how he had stood up before everyone and as good as invited anybody who wanted to leave their sygl to come over to theirs. There had been some interested faces at the tables. Whether anyone would actually take him up on it, nobody could say.
 
-Amelia heard them out, and when they were done she was plainly impressed with him.
+Amelia heard them out, and when they were done she gave Bal a long look.
 
 "After only a few days of practice," she said.
 
@@ -206,7 +206,7 @@ He laughed and slung an arm over her shoulders and pulled her into his side, and
 
 Outside the window the sky was clear down to the hills, the first truly hot day in a while. Somewhere past those hills lay a long, narrow lake with no snake in it anymore.
 
-"Why don't we go for a swim?" he asked his girls.
+"Why don't we go for a swim?" he asked.
 
 Nobody had a better idea. The girls were up and through the bedroom door after their towels and their swimming things while he was still getting up himself.
 

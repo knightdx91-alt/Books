@@ -30,7 +30,7 @@ He set his palm on the carving. The little prick came, and the stone drank, and 
 
 The room upstairs had changed while they were out. There were two couches around the fireplace now, the old red one and a second one facing it, a darker red, with a second low table in front of it.
 
-Amelia had the old couch to herself, a book open on her knees. It was a small book, bound in blue, with a name inked neatly on the cover, and Bal had seen it once before, the day before, while she lay on the High Priest's bed reading it.
+Amelia had the old couch to herself, a book open on her knees. It was a small book, bound in blue, with a name inked neatly on the cover, and Bal had last seen it the day before, held over her face on the High Priest's bed.
 
 She looked up at the sound of the wall. Her gaze slid past Bal to Viridia, and her face jumped.
 
@@ -88,7 +88,7 @@ The histories came out first, the four of them, and went in a stack on the new t
 
 "And you know what friends do?" he asked Lora.
 
-Lora had no idea where this was going.
+Lora waited.
 
 Bal grinned. "They give gifts?"
 
@@ -116,7 +116,7 @@ The ring went onto her middle finger.
 
 Viridia stared down at the plain bright band on her hand, speechless.
 
-"I know it doesn't look like much," Bal said quickly. It did not. It could have been any bit of silver bought for a few coins. "But going by the card in the shop, it should be plenty powerful." He explained it to her: the earth, moving and shaping it, for a short while; and after every use it needed recharging, which cost a lot of magykal energy. "So you'll want to save it. For when it counts."
+"I know it doesn't look like much," Bal said quickly. It did not. It could have been any bit of silver bought for a few coins. "But going by the card in the shop, it should be plenty powerful." The card in the shop, he explained, had promised it could move the earth, briefly, and warned that it cost a lot to recharge. "So you'll want to save it. For when it counts."
 
 "It's perfect," she said. "Thank you."
 
@@ -126,7 +126,7 @@ She tilted the ring to the fire, so the light ran around it, and went on admirin
 
 That left Amelia.
 
-She was sitting very straight at her own end of the cushions, and Bal realized she was nervous. In all the time he had known her, he had not seen her nervous over anything.
+She was sitting very straight at her own end of the cushions, her hands clasped hard on her knees. In all the time he had known her, Bal had not seen her nervous over anything.
 
 "Amelia. I'm sorry I didn't buy you anything."
 

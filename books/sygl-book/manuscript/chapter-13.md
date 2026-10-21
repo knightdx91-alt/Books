@@ -40,7 +40,7 @@ Viridia found something on the mantel that needed her full attention.
 
 "Well, the thing is," Lora said, "all the teachers got pulled by the originators today."
 
-She tucked her hair behind her ear, and then her hand stayed up by her ear, as if it was not sure where else to go. Bal could tell she was nervous. He guessed she was not used to being one of a group of anything.
+She tucked her hair behind her ear, and then her hand stayed up by her ear, as if it was not sure where else to go. He guessed she was not used to being one of a group of anything.
 
 "Apparently it happens sometimes," she went on. "When it does, they give us a free day. Viridia asked me at breakfast whether I wanted to walk down to the village with her, and I said yes." Her eyes flicked to Bal, there and gone, asking whether that was all right.
 
@@ -170,7 +170,7 @@ Bal leaned in to see the rune. Every corner of it was where it ought to be.
 
 "That's a really thoughtful gift," he said.
 
-Viridia put the collar back in its bag, very satisfied with the purchase.
+Viridia tucked the collar away in its bag and swung the bag on its string.
 
 ---
 
@@ -346,7 +346,7 @@ Viridia groaned at the rafters.
 
 "That's what friends are for," she said, and raised a finger before Lora could start again. "You *are* our friend, right?"
 
-"Yes," Lora said, in a very small voice. She still looked scared.
+"Yes," Lora said to the floor, in a very small voice.
 
 "Then we're doing this." She swung toward Bal. "What did she say?"
 
@@ -478,7 +478,7 @@ Bal got his mouth working again. "What's the job?"
 
 All her fluency drained out of her at once.
 
-"Is it okay?" she asked nervously. "What do you two say?"
+"Is it okay?" she asked. "What do you two say?"
 
 "You picked a good one. I'm glad we can help her out."
 

@@ -82,7 +82,7 @@ Raizen had found his strategy. He had released a statement through his High Prie
 
 That one statement did a lot of work. Raizen's army had always been going to follow orders. Now it was afraid of a mad vampire coming after it, and it trained harder for being afraid. And the villages, which had never liked anyone who bore the blood sygl, had stopped at not liking. Blood sygls who would not leave their villages were being beaten. Some had been killed.
 
-Thad told him all of it plainly, standing in the same narrow room each time with the same dark circles under his eyes, a little deeper at every visit. Then he waited. He clearly wanted orders. He wanted to hear how they could help.
+Thad told him all of it plainly, standing in the same narrow room each time with the same dark circles under his eyes, a little deeper at every visit. Then he waited. He wanted orders, and to hear how they could help.
 
 Amelia could not get involved. So Bal went to the commander of the army.
 
@@ -92,9 +92,9 @@ The commander's name was Fern. He was short and stocky, with a long gray beard a
 
 "There's not much we can do," Fern said. "It's in Raizen's territory. We could send the army in, but it would be pointless."
 
-He said it bluntly and did not dress it up.
+He did not dress it up.
 
-Bal stood over the map. The wood around its edges was very dark and very old, and his fingers began to drum on it while he read. The map showed where each of Raizen's troops was posted. Amelia had found them all. It had no mark on it anywhere for a village.
+Bal stood over the map. The wood around its edges was very dark and very old, and his fingers drummed on it while he read. The map showed where each of Raizen's troops was posted. Amelia had found them all. It had no mark on it anywhere for a village.
 
 "The problem is," Bal said, "even if we could evacuate them, we don't have anywhere to put them."
 
@@ -112,7 +112,7 @@ Fern met Bal's eyes and left the idea where it lay.
 
 "We do. Raizen has only three regular priests, and one High Priest. The High Priest hardly ever leaves his palace in Pashar." Fern set a thick finger on Pashar, then moved it. "The others travel. But the regular priests get together once a month, at an inn in Londra."
 
-Bal was startled. "How did you find that out?"
+Bal's eyes came off the map. "How did you find that out?"
 
 "Spies, of course." Fern sounded faintly surprised to be asked. "We've got a team with no sygls. They pose as laborers. A man with nothing on his palm can walk into any town he likes, and nobody gives him a second look."
 

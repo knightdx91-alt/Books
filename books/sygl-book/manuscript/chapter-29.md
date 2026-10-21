@@ -44,7 +44,7 @@ Toma's mouth soured.
 
 "Agreed," he said, short and quick.
 
-Toma hadn't expected Bal to know the rules. That was plain. Bal had Amelia to thank for it. Deep in the second night on her roof, both of them sweating, she had made him sit and walked him through each rule till he had them by heart. So whatever happened now, both girls would live. For Bal, that was enough.
+Toma hadn't expected Bal to know the rules. Bal had Amelia to thank for it. Deep in the second night on her roof, both of them sweating, she had made him sit and walked him through each rule till he had them by heart. So whatever happened now, both girls would live. For Bal, that was enough.
 
 With the terms agreed, Toma crossed to one end of the arena, and Bal walked toward the other. Amelia came with him partway.
 
@@ -106,7 +106,7 @@ Toma was enjoying this, and made no secret of it.
 
 "I see you are beginning to understand the gravity of your situation," he said. "The rules clearly state no familiars. But my inheritance gift is calling a life-bonded elemental, so it is not, technically, a familiar. Which is enough to satisfy the rules." His smile went ugly at the edges. "Now. It's time for Akora to attack."
 
-The being of pure electrical energy surged forward.
+The elemental surged forward.
 
 Bal scrambled backward and yelled a quick incantation, and a short wall of sand rose from the arena floor between them. He only needed time. A little distance.
 
@@ -150,9 +150,9 @@ His strength was going, draining out of him in red. The blood was everywhere aro
 
 He called it back. All of it.
 
-He pulled it home to him out of the storm, every drop that had leaked out of every cut, and he wrapped it around the core, and he pressed. He pushed it in. He forced it into the magical creature with all the strength left in him, every last drop. When there was none left in him, he called on the two vials he had thrown at the start, and their blood rose from the sand and crossed the arena to him, and he forced that in too.
+He pulled it home to him out of the storm, every drop that had leaked out of every cut, and he wrapped it around the core, and he pressed. He pushed it in. He forced it into the creature with all the strength he had, every last drop. When there was none left in him, he called on the two vials he had thrown at the start, and their blood rose from the sand and crossed the arena to him, and he forced that in too.
 
-It went on for an eternity.
+It lasted past all counting.
 
 A crack split the arena, a huge sound, bouncing off every tier of stone at once. The elemental shuddered all through.
 
@@ -188,7 +188,7 @@ Bal was at a loss. What *had* he done? He checked behind himself. The blood crea
 
 Amelia flashed into being beside him, her bare feet on the sand at his elbow, and a heartbeat behind her came Raizen, with Aren after him.
 
-Raizen was furious. He was shaking with it, his orange monk's clothing trembling on him, and he flung out an arm and leveled a finger straight at Bal.
+Raizen was furious. He flung out an arm, the orange sleeve of his monk's clothing swinging, and leveled a finger straight at Bal.
 
 "Do you see?" he demanded of Aren. "This is exactly why we locked Amelia away! Her followers are too dangerous!"
 
@@ -200,7 +200,7 @@ Then Bal understood in a rush why the originators had come. On Toma's palm was a
 
 When Bal converted Akora, he had converted the High Priest as well. Elemental and priest were life-bonded. Whatever entered the one entered the other.
 
-Bal's mind reeled. It reached Aren and Raizen too. It was there in their faces, the same thought in both. If he could convert a High Priest, then no one was safe if Bal chose to convert them.
+The idea knocked the air out of Bal. It reached Aren and Raizen too. It was there in their faces, the same thought in both. If he could convert a High Priest, then no one was safe if Bal chose to convert them.
 
 Amelia wasn't troubled in the least. On the contrary, she was enjoying herself enormously. And why not? Technically, the war was over. Raizen did not have a High Priest anymore.
 
@@ -278,7 +278,7 @@ He was gone, and bare sand lay where his sandals had been.
 
 Bal remained in the sun, the swirling thing turning at his back, and the tension left him by degrees. His shoulders first. Then his hands.
 
-Amelia was shining. She was so happy it was coming off her in waves, and seeing it, Bal knew. It was over. It was really over.
+Amelia was shining, up on her bare toes in the sand, and seeing it, Bal knew. It was over. It was really over.
 
 She rushed him. She caught him up in a hug that crushed his bones together, and each of the thousand cuts on him should have screamed at that, and none of them bothered him. He buried his face in her hair and breathed her in.
 

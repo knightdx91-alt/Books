@@ -72,7 +72,7 @@ Bal leaned away from his plate.
 
 Amelia wanted him to convert Viridia. She had said so last night, by the fire. Now Viridia had a familiar who would want to be near Amelia while the bond lasted, and Amelia would be wherever Bal was. Which meant Viridia would be too, for the time being, and she had walked back through those trees without the faintest idea of it.
 
-He was impressed. A whole morning of errands, and somewhere in the middle of them Amelia had gone up a mountain and found Viridia the best present in the forest. It happened to come with a reason to keep visiting.
+Bal had to hand it to her. A whole morning of errands, and somewhere in the middle of them Amelia had gone up a mountain and found Viridia the best present in the forest. It happened to come with a reason to keep visiting.
 
 He had a feeling Viridia wouldn't mind, when she worked it out.
 
@@ -132,7 +132,7 @@ Bal watched her go through it twice. He liked how she moved. Then he took the ne
 
 The rapier was four and a half feet long, made of good steel, with a guard that curled around the back of his hand. It was much lighter than it looked. He set his feet where hers were and pushed the point out when she did. He drew it back when she did. While he copied her he imagined himself using it, as Zoran had said, and that came easily. The blade went where he sent it the moment he sent it there. By the third time through, his hand had quit gripping the hilt and started holding it, and nobody could have told him when that happened.
 
-He liked it a lot.
+He could have kept at it all afternoon.
 
 At the end of her exercise, Lora noticed him. She studied his feet, which were where hers had been. Then his point, which was nearly there too.
 
@@ -146,7 +146,7 @@ Viridia, meanwhile, had pulled a spear off the next rack over and was holding it
 
 "If you're not put off by all the rumors about my originator," Bal added, as the three of them started back toward the line in front of Zoran.
 
-"No, it doesn't bother me," Lora said, very quickly. "I'm just glad to have someone to practice with."
+"No, it doesn't bother me," Lora said quickly. "I'm just glad to have someone to practice with."
 
 Bal was about to ask why on earth anyone wouldn't have practiced with her. Zoran got there first, sorting the line into pairs as fast as he could point. He took one look at Lora's grip and one look at Bal's, and put them together. Viridia went off to the neighboring sand with a Terra boy.
 
@@ -170,7 +170,7 @@ Again.
 
 Fifteen minutes in, his forearm was burning. Bal kept the point up anyway, and after a while it shook, and he kept it up shaking. Lora did not speed up and did not slow down. Each time she came in, she came in the same, until his blade knew where to meet hers before he had finished thinking about it.
 
-They didn't talk much. There wasn't much room for it. Between rounds, while Zoran was busy with someone else, Bal learned a little. Lora was usually quiet. She mostly kept to herself.
+They didn't talk much. There wasn't much room for it. Between rounds, while Zoran was busy with someone else, Bal learned a little. Lora was usually quiet, and mostly kept to herself.
 
 "I like books better than people," she said, during one of the breaks, and then went red. "Mostly. Not you. I mean, I don't know you. I mean..." She stopped and started over. "Books don't mind if you don't say anything."
 
@@ -194,7 +194,7 @@ Viridia came up beside him, swinging her arms. The spear was back on its rack. S
 
 "That Terra boy," she said, "kept trying to knock my spear out of my hands. The whole time. He's built like a door. I hit him in the shins twice." She considered. "Three times. He said the third shouldn't count."
 
-Bal let her tell him all of it while they walked. They walked around the castle wall, headed for their last class of the day, and stepped out into the courtyard by the stage.
+Bal let her tell him all of it while they followed the castle wall around toward their last class of the day, and they stepped out into the courtyard by the stage.
 
 Amelia was there, waiting for them.
 

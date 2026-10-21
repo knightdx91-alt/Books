@@ -20,9 +20,9 @@ It had taken a while for the girls to treat Amelia like any other girl. They had
 
 Her hair was plastered flat to her head and her face was wide open, and her smile made his heart hurt.
 
-She had finally felt comfortable enough to be herself. Three thousand years, and this was what she looked like underneath them. It was a sight to see.
+Three thousand years, and this was what she looked like underneath them. It was a sight to see.
 
-The sun was very hot. The girls' voices carried across the lake and back, and somewhere among them he stopped hearing the words.
+The sun was hot on the rock. The girls' voices carried across the lake and back, and somewhere among them he stopped hearing the words.
 
 ---
 
@@ -32,7 +32,7 @@ It was soft, a small catch at the top of every breath. He opened his eyes and Lo
 
 He closed the inch and kissed her forehead, lightly. She smiled for a second in her sleep and then forgot to.
 
-Bal lifted his head to see where the others had gone.
+Bal got an elbow under him to see where the others had gone.
 
 Amelia was curled up against his left side, neat and small, her back to the sun. Viridia was stretched out above his head the long way, flat on her stomach, one arm flung out. Her right hand rested palm-up on the rock exactly where his head had been, reaching for it.
 
@@ -192,7 +192,7 @@ She popped a strawberry into her mouth.
 
 "And?"
 
-Amelia started to laugh. She laughed until she was bent over her knees with it, until bloody tears ran down both her cheeks and she had to wipe them off with the backs of her hands.
+Amelia laughed. She laughed until she was bent over her knees with it, until bloody tears ran down both her cheeks and she had to wipe them off with the backs of her hands.
 
 "I wish you could have seen it," she said.
 

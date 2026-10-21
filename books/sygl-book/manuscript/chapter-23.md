@@ -34,7 +34,7 @@ The goodbye at the gate was still with him. It had gone straight through him. Si
 
 Then there were these two. Lora was demonstrating how to hold a cup, with her pinky out, on a cup that wasn't there. Viridia was copying her badly on purpose. What he felt for them grew every day too. He was amazed at his luck, constantly. One beautiful woman who wanted to be with him would have been plenty for an orphan from Saint Andre's. He had found three.
 
-He only hoped he could keep them safe. The plan was dangerous, and he had no illusions about everything going off perfectly. He had just not seen any other way. And he was not about to trust their safety to anyone else.
+He only hoped he could keep them safe. The plan was dangerous, and he had no illusions about everything going off perfectly. He had not seen any other way. And he was not about to trust their safety to anyone else.
 
 ---
 
@@ -56,7 +56,7 @@ Flies were bad on that stretch. The girl was swatting at them, and then the boy,
 
 Bal's own left hand had been born with that mark on it. Somebody had taken the hand off for it.
 
-He could guess the rest. They'd been driven from their village for being blood mages.
+He could guess the rest.
 
 "Any news from up ahead?" Bal asked. "What are things like?"
 
@@ -86,7 +86,7 @@ They reached Londra on the fifth day.
 
 It sat behind a high stone wall, with a stone gate set in the middle of it. A guard stood at either side of the gate, waving people through. There was a short line of carts and walkers, and the dust they raised hung in the heat.
 
-Lora and Bal dropped back together and let Viridia take the lead. Bal rounded his shoulders and tried to take up less of the road. He hoped it was a sufficiently servant look. He had seen plenty of servants. He had never paid attention to how they stood.
+Lora and Bal dropped back together and let Viridia take the lead. Bal rounded his shoulders and tried to take up less of the road. He hoped he looked enough like a servant. He had seen plenty of servants. He had never paid attention to how they stood.
 
 The guard on the left put out an arm to stop them. He was a big man, bigger around the middle than in the arms, but he held a heavy black truncheon in one hand, and from his grip on it he had used it before.
 

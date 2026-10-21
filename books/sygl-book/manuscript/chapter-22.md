@@ -140,7 +140,7 @@ Lora started talking the moment she spotted him and kept it up for most of the c
 
 "He went for it because you sold it," Bal said.
 
-"Maybe a little." She was trying not to be pleased and failing. When he asked what the feint had been, she showed him on the stairs with her empty hand and nearly caught a soldier coming down in the ribs.
+"Maybe a little." She was trying not to look pleased, and the corners of her mouth kept giving her away. When he asked what the feint had been, she showed him on the stairs with her empty hand and nearly caught a soldier coming down in the ribs.
 
 Viridia had spent her time walking around among the soldiers.
 
@@ -172,7 +172,7 @@ The girls had none, and neither did Bal.
 
 He laid out the plan.
 
-People were not going to look closely at whoever was traveling with someone so obviously Tempus. Viridia's hair and eyes marked her as one of Raizen's favored, as far as anybody in those lands would be concerned. So she would be a young noble lady, going home to Pashar because the war had made the borderlands too dangerous for her. Lora had been around nobility. She could coach Viridia on the road. And Bal would be the lowly manservant who saw to the horses and kept them all safe.
+People were not going to look closely at whoever was traveling with someone so obviously Tempus. So Viridia was to be a young noble lady, going home to Pashar because the war had made the borderlands too dangerous for her. Lora had been around nobility. She could coach Viridia on the road. And Bal would be the lowly manservant who saw to the horses and kept them all safe.
 
 "Listen. This is dangerous," he said. "If either of you doesn't want to risk it, I understand. Nobody's going to think less of you."
 
@@ -234,7 +234,7 @@ Bal sighed.
 
 Amelia's glance flicked to the girls on the bed, who were following every word. She turned at the washstand and paced back.
 
-"No," she admitted. She did not sound happy about it. "I don't expect you to do that. But you're my High Priest. Kill you, and there goes the war. They're hunting for you even now."
+"No," she admitted. "I don't expect you to do that. But you're my High Priest. Kill you, and there goes the war. They're hunting for you even now."
 
 He knew it. Iro's blade had opened his thigh to the muscle.
 
@@ -244,7 +244,7 @@ Lora took a second to choose her words.
 
 "I know you'd hate to admit it, but he's right," she said. "Nobody does a thing like this. Nobody would think of it. And with Viridia along, we should be able to get into Londra without too much trouble. The hardest part will be getting out again once the priests are dead. Unless we get extremely lucky and manage it without a huge fight. But all in all, it's our best shot."
 
-No answer came from Amelia. She was by the bedpost now, and she looked from Lora to Viridia and then at Bal, and back again, trying to keep all three of them in sight at once. She was not angry anymore. She was afraid, and not only for him.
+No answer came from Amelia. She was by the bedpost now, and she looked from Lora to Viridia and then at Bal, and back again, trying to keep all three of them in sight at once. She had stopped pacing. She was afraid, and not only for him.
 
 She would not stop them. She knew it, and so did he.
 
