@@ -7,6 +7,7 @@ from PIL import Image
 
 AUTHOR = "SØREN STROMBERG"
 TAGLINE = "They locked her away for three thousand years."
+TAGLINE2 = "Now she’s free."
 OUTNAME = "front-cover-sygl.png"          # 1600 x 2560 (5:8, ebook + print front panel)
 HERE = os.path.dirname(os.path.abspath(__file__))
 FONT_DIR = "/mnt/skills/examples/canvas-design/canvas-fonts"
@@ -25,12 +26,14 @@ html = f'''<!doctype html><html><head><meta charset="utf-8"><style>
 html,body{{width:{W}px;height:{H}px;background:#070405;}}
 .cover{{position:relative;width:{W}px;height:{H}px;overflow:hidden;
   background:url(data:image/png;base64,{art}) center top/cover no-repeat;}}
-.top{{position:absolute;left:0;right:0;top:0;height:420px;
+.top{{position:absolute;left:0;right:0;top:0;height:520px;
   background:linear-gradient(180deg,rgba(7,4,5,.85) 0%,rgba(7,4,5,.45) 55%,rgba(7,4,5,0) 100%);}}
 .scrim{{position:absolute;left:0;right:0;bottom:0;height:1150px;
   background:linear-gradient(180deg,rgba(7,4,5,0) 0%,rgba(7,4,5,.45) 30%,rgba(7,4,5,.82) 58%,rgba(7,4,5,.94) 100%);}}
 .tag{{position:absolute;left:0;right:0;top:120px;text-align:center;font-family:'PlexI';font-size:50px;
   color:#e8d3b4;letter-spacing:.01em;filter:drop-shadow(0 3px 12px rgba(0,0,0,.95));}}
+
+.tag2{{margin-top:14px;font-family:'PlexI';font-size:58px;color:#e0473f;}}
 .titleblock{{position:absolute;left:0;right:0;top:1690px;text-align:center;}}
 .main{{font-family:'Young';font-size:330px;line-height:1;letter-spacing:.14em;text-indent:.14em;text-transform:uppercase;
   background:linear-gradient(180deg,#fff3d6 0%,#f0cf86 34%,#d39a45 58%,#b8312a 92%,#8e1418 120%);
@@ -48,7 +51,7 @@ html,body{{width:{W}px;height:{H}px;background:#070405;}}
 </style></head><body>
 <div class="cover">
   <div class="top"></div><div class="scrim"></div>
-  <div class="tag">{TAGLINE}</div>
+  <div class="tag">{TAGLINE}<div class="tag2">{TAGLINE2}</div></div>
   <div class="titleblock">
     <div class="main">Sygl</div>
     <div class="divider"><span class="ln"></span><span class="dot"></span><span class="ln r"></span></div>
