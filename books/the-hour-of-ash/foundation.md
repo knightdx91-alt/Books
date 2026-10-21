@@ -47,7 +47,7 @@ engagement_type:
   secondary: fascination (30%)    # the doors, Fenn, the Oracle, real Flavian Greece/Campania (Dimension 7)
   tertiary:  self-insertion (15%) # "what would I do in 70 AD?" + the romance fantasy, handled without wish-fulfilment cheapness
 ```
-**Tension to manage:** empathy wants slow intimacy, while fascination wants period set-pieces and mystery. The resolution is that every set-piece (Thyiades, Oracle, Isthmia, Basilica, Cumae, arena, Vinalia) is staged as a *relationship* scene in an extraordinary place, never as a tour. Self-insertion stays honest: Mara's modern knowledge is mostly useless (no germ theory she can act on, no penicillin she can make), and that is the point.
+**Tension to manage:** empathy wants slow intimacy, while fascination wants period set-pieces and mystery. The resolution is that every set-piece (Thyiades, Oracle, the Isthmus games, Basilica, Cumae, arena, Vinalia) is staged as a *relationship* scene in an extraordinary place, never as a tour. Self-insertion stays honest: Mara's modern knowledge is mostly useless (no germ theory she can act on, no penicillin she can make), and that is the point.
 
 ---
 
@@ -364,7 +364,7 @@ Ch.1 opens on Mara walking out of her father's memorial reception forty minutes 
 
 ## 10. KEY FACTS / TIMELINE (canon for the entity tracker)
 - **1998:** Emilio Reyes dies in January, aged 68. The memorial and the purchase are in March (Ch.1). Mara crosses in May (Ch.3).
-- **AD 70 autumn:** lands. **71:** Oracle at the seventh of Bysios; summer pasture and first union; autumn to Corinth. **72 spring:** Isthmia, papers, married at Lechaion, sails, arrives Puteoli → Pompeii.
+- **AD 70 autumn:** lands. **71:** Oracle at the seventh of Bysios; summer pasture and first union; autumn to Corinth. **72 spring:** games on the Isthmus for Titus's Judaean triumph (a one-off festival; the regular Isthmia fell in spring 71 and 73), papers, married at Lechaion, sails, arrives Puteoli → Pompeii.
 - **73:** the summons; Rome trial in **spring 74** (Ch.22), with Mara about six months pregnant. → **Lucius is born in summer 74** *(this shifts canon's "b. ~year 3" by a few months: Lucius is ~5 at the eruption)*. **Early spring 75:** Fenn found (Ch.25), before Mara is pregnant again. **Winter 75–76:** Aelia born, off-page. **76:** Cumae, Felix's fight, Saturnalia. **77:** tremor, elections (March), fever (summer), the case for the future (autumn). **78:** Surrentum (summer); Fenn dies in winter 78–79. **79:** Vespasian dies (June); the arithmetic; the boat; the Vinalia (19 Aug); eruption 24–25 Aug.
 - **Ages at the eruption:** Mara 42 (body-age; 33 + 9), Valens ~41, Lucius 5, Aelia 3½, Felix ~21. **Marcus** (Plautia's son) b. autumn AD 64: 7 in winter 71–72, 9 in spring 74.
 - **Counts the Writer will print:** AD 72 is **ten years** after the AD 62 quake (Ch.19–20); the frame (69) to the trial (spring 74) is **five years** (Ch.23); Fenn's years since landing (AD 41) are 34 in Ch.25 (AD 75), 35 in Ch.27 (AD 76) and 37–38 in Ch.35 (winter 78–79).

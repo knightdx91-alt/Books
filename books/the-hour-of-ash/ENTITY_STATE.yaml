@@ -1796,7 +1796,8 @@ meta:
       forward_constraint: "Ch.17's title, dateline, premise and beat 4, the Ch.18-19 spring AD 72 dates, timeline row 17, locations.isthmia and the bible's Plautia block hang on the decision"
       source_audit: "evaluations/continuity/chapter-16-audit.md C-01 (its suggested tracker severity: high)"
       repair_note: "the continuity repair (commit cf65bc0) held C-01 for the author's decision: 'At the Isthmia,' (p228) is unchanged on the repaired page, as are foundation §9-§10 and outline Ch.17's dateline. Still UNRESOLVED, pending the author"
-      flag: "UNRESOLVED"
+      resolution: "AUTHOR-CP3-5 (2026-10-20): option B. A one-off festival on the Isthmus in spring 72 for Titus's Judaean triumph; Ch.16 p228 now reads 'At the games for Titus's triumph,'; outline Ch.17 retitled 'Games on the Isthmus' with its dateline corrected; foundation §9/§10 patched. Timeline unchanged."
+      flag: "RESOLVED"
     - id: CH16-2
       chapter: 16
       severity: low

@@ -84,7 +84,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 | 14 | What Pompeii Means | Fragmented | flat statement (I) → `I-punch` | long fade → `long-fade` | 3,400 | 0–10% | present | 9 | low |
 | 15 | Summer Pasture | Chronological | long sensory spiral → `long-spiral` | quiet image → `quiet` | 7,800 | 30–40% | present | 3 | high |
 | 16 | Plautia | Parallel | mid-dialogue → `dialogue` | question → `question` | 7,600 | 40–50% | present | 6 | mid |
-| 17 | Isthmia | In medias res | mid-action → `short-punch` | action unfinished → `quiet` | 7,400 | 30–40% | present | 3 | low |
+| 17 | Games on the Isthmus | In medias res | mid-action → `short-punch` | action unfinished → `quiet` | 7,400 | 30–40% | present | 3 | low |
 | 18 | Lechaion | Single-scene | flat statement of fact (I) → `I-statement` | short punch → `punch` | 2,800 | 30–40% | present | 0 | mid |
 | 19 | Puteoli | Chronological | scene-setting (place/time) → `scene-set` | long fade → `long-fade` | 8,400 | 20–30% | present | 4 | high |
 | 20 | The Mender's Shop | Collage | document (a painted lost-property notice, 9–27 words) → `narrative` | spoken line → `dialogue` | 8,200 | 30–40% | present | 6 | mid |
@@ -558,7 +558,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 - **Delphi, autumn:** Kallia's farewell, kept quiet: Delphi has believed since spring that Mara sailed (Ch.15). The string comes down off the mountain for Corinth; Mara goes back to Kallia's door after dark and is gone at first light. **NON-NEGOTIABLE:** Kallia gives Mara the borrowed himation from Ch.7 outright (Mara has worn it all summer and folds it to hand back; Kallia makes it hers). No speech. A sweep of the threshold and the broom put away. **Film (named frame):** Mara photographs Kallia's lamp on the sill in the first morning light, before she goes. Kallia does not know what the camera does and does not ask.
 - **Corinth:** the bracelet. Mara's jealousy (were they lovers?) and the answer she gets from watching, not asking.
 - **Delphi/the gulf:** the crossing from Kirrha to Lechaion, with mules seasick.
-- **NON-NEGOTIABLE (Corinth):** the plan for Isthmia, when the officials will be at the games.
+- **NON-NEGOTIABLE (Corinth):** the plan for the triumph games on the Isthmus, when the officials will be at the games.
 **Progressive structure:**
 - Builds on Ch.15: the bargain in motion.
 - Adds: Plautia's own loss (a mother separated from a child) and the Kallia goodbye.
@@ -572,11 +572,11 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Writer warnings:** Don't make Plautia a rival-trope or a femme fatale. Don't let Kallia's goodbye become a speech or a proverb. The closing question is a real one, unanswered, and not rhetorical.
 **Beat subversion:** *Genre beat:* the hero's ex arrives to make trouble. *Subversion:* she was never his lover, she needs help rather than him, and the two women end up allies.
 
-## Chapter 17: Isthmia
+## Chapter 17: Games on the Isthmus
 **Ledger:** In medias res (internal shape: *theft first, how-we-got-here in pieces*) · open: mid-action → `short-punch` · end: action unfinished → `quiet` · 7,400 · dialogue 30–40% · theme present · 3 breaks · gear low
-*(Corinth, the Isthmian Games, spring, AD 72.)*
+*(Corinth, during the one-off games on the Isthmus for Titus's Judaean triumph, spring, AD 72. Not the regular Isthmia, which fell in 71 and 73; AUTHOR-CP3-5.)*
 
-**Premise:** During the Isthmian Games, Mara uses an archivist's instincts to find Valens's manumission record. Then Celer finds them.
+**Premise:** During the games on the Isthmus for Titus's triumph, Mara uses an archivist's instincts to find Valens's manumission record. Then Celer finds them.
 **Function in arc:** The Part One action climax, and Celer in person. Valens gets his papers.
 **Emotional anchor:** the bored archive clerk who will not stop eating figs during a theft.
 **Emotional surprise:** the escape succeeds because a bureaucrat is bored, not because anyone was brave.
