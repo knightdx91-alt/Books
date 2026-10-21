@@ -2796,3 +2796,54 @@ Open contradictions: 33 → 37.
 - **meta:** header note, `last_updated_by`, `mode`, `source`, `paragraph_rule` (Ch.19 re-sync), `revalidation_needed` (chapter 19, RESOLVED), and the `ch19_requested_checks` rows corrected (each marked RE-SYNC), plus a re-sync row.
 - **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 282 characters, 90 locations, 121 objects, 20 organizations, 62 plot threads, 106 world rules, 198 timeline_events, 142 contradiction rows (49 open).
+
+## 2026-10-21: UPDATE (chapter 20, "The Mender's Shop", post-disruptor page)
+
+- **Page read:** chapter-20.md at e52b0d7 (writer f00ad5c, dialogue-polish 3718350, hook-craft notes 7ed9a4a with no edits, book-disruptor e52b0d7), md5 8486fa155aca3c78fbed98ee90ac7bc1.
+- **Numbering:** 286 paragraphs, six `* * *` breaks after p45, p84, p129, p180, p223 and p249 (seven sections). The title, the dateline heading and the four HTML comment lines are not counted, so file line 10 = p1. The italic documents count as paragraphs. The section offsets are in `meta.source_convention.paragraph_rule`.
+- **meta:** `last_updated_chapter: 20`; `chapters_tracked` now includes 20; header note, `last_updated_by`, `mode` and `source` updated; new `ch20_requested_checks` (13 rows).
+- **Planned rows replaced by the page** (each keeps `plan_was`): Mara's and Valens's Ch.20 location rows; Mara's `pregnancy_1` and her Ch.20 arc waypoint; Grata's pregnancy knowledge row; the tremor-notes item, the fenn-notebook Ch.20 beat and the tremor-notes object (introduced is now ch-20:p131); timeline row 20.
+- **Characters updated:**
+  - **Mara:** traits (mending hands, boards, seams closed or left, the bowl, teeth), `teeth_ch20`, `weeps_ch20`, 13 knowledge rows, `knowledge_absent_ch20`, and the items bone-toothpick and fountain-pebble.
+  - **Valens:** traits. He hides his reading from Felix again (p16; p206-p208). He writes, for the first time on the page (p119). The fig. The stone and the lamp. Also 6 knowledge rows, `knowledge_absent_ch20`, a `knowledge_gap` (CH20-6) and a Ch.20 waypoint.
+  - **Felix:** `seen_ch20`, traits, a status row, a location row (he sleeps in the shop), 6 knowledge rows and `knowledge_absent_ch20`.
+  - **Grata:** `seen_ch20`, traits (she has writing read to her), relationships (sister, cousin with a needs_review on the fig-selling cousin, the husband's cousin, son, Mara, Valens), 6 knowledge rows, `knowledge_absent_ch20`, a location row and a status row.
+  - **Others:** secundus (`ch20_mention`) and dr-pinsky (a trait).
+- **New:**
+  - **Characters (25):** zosimus, hermes-stoker, gaius-iulius-polybius, infantio, polybius-whitewasher, lantern-boy, lost-pot-cook, coppersmith-next-street, leek-woman-and-husband, stewpot-woman, rubble-carter-bowl, rattle-girl-and-mother, forum-quarrymen, bone-turner, fullers-wife-pompeii (needs_review), fuller-pompeii, fountain-line-women, fountain-toddler, toddlers-father-dyer, board-reading-carter, fish-sauce-carter (needs_review), lime-carter-to-puteoli, carting-foreman (needs_review), successus-the-weaver, iris-innkeepers-slave.
+  - **Locations (7):** bull-fountain, red-house-at-the-corner, cookshop-above-the-fountain, pompeii-forum, crossing-baths, fullery-at-the-corner, sarno-gate. Facts added to cobblers-shop, gratas-thermopolium, pompeii-amphitheater, pompeii, stabiae, lechaion, puteoli-wine-shop and nuceria.
+  - **Objects (19):**
+    - chekhov_closed: lost-pot-notice, cooks-bronze-pot, stewpot-with-lead-dogs, red-gloss-bowl (the bowl given away), clay-pig-rattle, blue-scent-bottle, zosimus-fortis-lamp (the anchor), gratas-fish-sauce-jar.
+    - chekhov_open: valens-letter-to-plautia.
+    - background: menders-board, bone-turners-money-box, bone-toothpick, gratas-wine-board, fullers-aeneid-graffito, felixs-hare-bowl, polybius-election-notice, fountain-pier-graffiti, fountain-pebble, jug-graffito.
+  - **Existing objects updated:** film-roll, fathers-pentax-k1000, potted-fig-tree, fenn-notebook, tremor-notes, plautias-bracelet, plautias-grandfathers-pen-knife, lentisk-stick, back-room-barred-door, gratas-whitewash-patch (not on the page, untouched), muleteers-election-panel, fathers-seiko-watch.
+  - **knowledge_index:** new rows pregnancy_lucius and tremor_notes_known. Rows added to door_location, valens_reads, maras_camera and eruption_foreknowledge.
+  - **Plot threads (2):** repair-trade and kalends-walks (payoff Ch.30, planned). Notes added to conception-and-lucius (the reveal is paid), plautias-letter, puteoli-letter-board and the-knife-comes-home.
+  - **timeline_events:** 9 rows, plus a note on "AD 72 onward".
+- **Film count:** the named frame (Valens asleep under the fig) is shot (p99-p100). By the plan count, 11 are shot and 25 are left. By the page count, at least 10 are shot and at most 26 are left.
+- **Knowledge flow:**
+  - Grata infers the pregnancy and says it aloud (p286). Mara is told by her. The fish-sauce carter overhears (p284). Valens and Felix do NOT know.
+  - Only Mara knows of the tremor note ("nobody woke").
+  - Valens is told about the Kalends (p126), but his "your gate" has no path on the page (CH20-6).
+  - Felix still believes Valens cannot read.
+- **Contradictions:**
+  - **RESOLVED (2):**
+    - **CH19-2:** the trade runs from the cobbler's shop. The notice goes over the crack on the red house, not Grata's wall.
+    - **CH15-6:** the forward constraint is met. The pregnancy is revealed in autumn AD 73, the birth is due "with the heat", and there is no second contraception thought.
+  - **NARROWED:** CH19-7. Valens's letter to Plautia goes out in summer AD 72 by a carter to the Puteoli board.
+  - **Rechecked, still open:** CH16-9 (the fig: no change of home) and CH18-5 (the children's citizenship is still OPEN for the author at checkpoint 4; nothing on the page touches status).
+  - **NEW (6):**
+    - **CH20-1 (info):** outline beats against the page: the shop, the bowl, the column drums and tiles, the notice's wall, the stoker's reason. No NON-NEGOTIABLE is broken.
+    - **CH20-2 (low):** "Two years and more" with the lentisk stick (p140), against a stick cut in winter AD 70 (ch-07:p58). The span is about 22-23 months.
+    - **CH20-3 (low):** "the tree's first figs" and "These would never ripen" (p98; p110), against the Ch.15 dozen figs ripe at "End of the summer."
+    - **CH20-4 (info):** where Felix sleeps. He has a blanket in the shop (p16), but "off to the stable" (p119).
+    - **CH20-5 (info):** the wine-woman puts outgoing letters aboard (p122), against "Somebody comes for it" for incoming letters (ch-19:p61). Compatible.
+    - **CH20-6 (low, knowledge_gap):** Valens's "Do you still walk out to your gate?" (p125). There is no page path to him knowing she found the gate. An off-page telling is possible.
+  - **CRITICAL:** none.
+  - **Open count:** 48 → 52.
+- **Checks:**
+  - Every quoted Ch.20 fragment on the added lines was checked by script against the page. None is off the page; one wording slip, "will put it aboard", was corrected before writing this entry.
+  - Each fragment was also checked against the paragraphs its line cites. Missing cites were added; the only remaining mismatches are first_appearance notes that cite their naming paragraph inline.
+  - No cite is above p286.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 307 characters, 97 locations, 140 objects, 20 organizations, 64 plot threads, 106 world rules, 207 timeline_events, 148 contradiction rows (52 open).
