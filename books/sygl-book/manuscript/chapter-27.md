@@ -1,11 +1,11 @@
 # Chapter Twenty-Seven: Thunder from a Clear Sky
 
 <!-- SCENE BUDGET (Target 4,200): the walk, Viridia herself 300 | Bran 500 | the heat, the bow at his back, the jokes 350 | the feeling, the quiet, the hour, the boom, the clear sky 400 | the bolts, thrown, Viridia's arms, the stone 300 | waking, the craters, calling, dusk, the bedroll 500 | morning, taken, Pashar, south 250 | two days, the village 300 | Jazen Grey, Barda 450 | the ride 150 | the battle, Thad and Xavier, the trees 350 | the platform, dagger, the second mage, spikes 450 | down; the promotion; the apology; the arrow; dark 400 -->
-<!-- Word count: ~4,230 prose | Target: 4,200 (range 3,800-4,600) | Anchor: the clear sky and the single boom | Hook: blood soldiers coming; dark (the High Priest's bed ahead) -->
+<!-- Word count: ~4097 prose | Revision: 1 (F1–F16) 2026-10-21 | Target: 4,200 (range 3,800-4,600) | Anchor: the clear sky and the single boom | Hook: blood soldiers coming; dark (the High Priest's bed ahead) -->
 
 Viridia was laughing before the horses were even saddled.
 
-Lora had pulled a leaf out of her hair, a big brown one that had ridden in there all night, and waved it at her. The noise Viridia made sent something flapping out of the branches overhead and away, complaining. It was a good sound to wake up to. Bal stayed on his bedroll longer than he needed to and listened.
+Lora had pulled a leaf out of Viridia's hair, a big brown one that had ridden in there all night, and waved it at her. The noise Viridia made sent something flapping out of the branches overhead and away, complaining. It was a good sound to wake up to. Bal stayed on his bedroll longer than he needed to and listened.
 
 They led the horses out to where the trees ended and stood there a while, studying the road in both directions. It lay empty. No dust hung over it anywhere, no riders, no cart.
 
@@ -15,7 +15,7 @@ The black blew through its nose as if it agreed.
 
 They walked south through the yellow grass, and the morning came up warm and then warmer, and Viridia talked. She was telling Lora about her village, story after story, about people from home. Lora asked after each of them, and Viridia answered with her hands going as much as the reins allowed.
 
-Last night she had cried herself to sleep in Lora's arms. This morning she was herself again, or near enough that Bal saw no difference from where he rode.
+Last night she had cried herself out in Lora's arms, and then she had slept. This morning she was herself again, or near enough that Bal saw no difference from where he rode.
 
 He was thinking about the bookshop in New Spring. About standing in the stacks with an armful of books he had not been reading, while Viridia told Lora, past the shelf, that her whole life had been planned out the day she was born. Who she'd marry, even. He had never asked her about it. It had not been his to ask, when he'd only heard it by accident.
 
@@ -35,27 +35,27 @@ Bal chewed on that for a stretch of road. He knew the rule already, that anyone 
 
 "Are sygls really that rare in your village?"
 
-Viridia reached back into her saddlebag and dug out her water bottle. She took a long drink before she answered, and the sun winked off the neck of it.
+Viridia took a long drink from her water bottle before she answered, and the sun winked off the neck of it.
 
-"Yeah." She pushed the stopper home. "Not sure why, though. Since the village lets anyone with a sygl leave, it basically gave me a new life."
+"Yeah. Not sure why, though. Since the village lets anyone with a sygl leave, it basically gave me a new life."
 
-She stowed the bottle. Then she laughed, the same as this morning.
+She laughed, the same as this morning.
 
-"That fool Bran tried to get his father to make me stay. Another six months and we'd have been married. And his father wouldn't do it." She grinned up at the sky, enjoying it. "Bran was not happy."
+"That fool Bran tried to get his father to make me stay. Another six months and we'd have been married. And his father wouldn't do it." She told it to the sky, enjoying it. "Bran was not happy."
 
 ---
 
 Bal smiled at her, at the pleasure all over her. The Three Boars was behind her, then. Her hair was popping again, tiny blue snaps along the ends of it every time the breeze lifted them, and he had missed the sound more than he'd realized.
 
-It was a hot day. By late morning the sweat was running into his eyes, and he dug a rag out of his pocket and mopped his forehead with it and stuffed it away again damp.
+It was a hot day. By late morning the sweat was running into his eyes, and he mopped his forehead with a rag from his pocket.
 
-He kept checking behind them, without ever quite deciding to. He would twist in the saddle and study their back trail. It was always empty.
+He kept checking behind them, without ever quite deciding to. Behind them the road was always empty.
 
 After the fourth or fifth time, Lora nudged her horse in beside the black.
 
 "Did you hear something?"
 
-"No." He faced front again, with an effort. "It's only, for some reason I've got this funny feeling. Like somebody's got a bow pointed at my back." He laughed at himself. "It's probably me being paranoid."
+"No. It's only, for some reason I've got this funny feeling. Like somebody's got a bow pointed at my back." He laughed at himself. "It's probably me being paranoid."
 
 To take their minds off it, and his, he started telling them jokes. They were the ones he'd learned at Saint Andre's, mostly from the older boys, and they were mostly terrible. Lora groaned at the worst one so hard she nearly dropped her reins. Viridia made him tell another one twice because she had not believed it the first go-round, that anybody would end a joke there.
 
@@ -63,19 +63,17 @@ The feeling did not go anywhere.
 
 If anything it grew. It sat between his shoulder blades through the noon heat and into the long afternoon, and the more he ignored it, the heavier it got. When the sun began to drop, he gave up on jokes. His head kept going around: behind them, the sky, the grass to the right, the grass to the left, behind them again.
 
-Somewhere along the way the girls had stopped talking. Bal missed the moment. They did not feel what he felt, plainly. They rode with their hands tighter on the reins anyway, and kept their eyes moving where his went, because the feeling was his and they trusted him.
+Somewhere along the way the girls had stopped talking. Bal missed the moment. They did not feel what he felt, plainly. They rode with their hands tighter on the reins anyway, because the feeling was his and they trusted him.
 
-The shadows of the three horses stretched out long and thin on the road beside them. It would be close to six. Back in Londra, three priests who had drunk Ventish brandy at lunch yesterday would be getting tired about now, and finding it hard to breathe.
+The shadows of the three horses stretched out long and thin on the road beside them. It would be close to six. Back in Londra, three priests who had drunk Ventish brandy at lunch yesterday would be dying about now, if Lora's book was right.
 
 The boom came from behind them.
 
 It rolled down on them out of the north, out of Londra, and went over them and on across the grass, and all three saddles creaked at once as they twisted in their seats.
 
-It had sounded like thunder. One single tremendous clap of it, the kind that comes straight down on top of a house in a summer storm and rattles the dishes.
+It had sounded like thunder. One single tremendous clap of it, the kind that came straight down on a house in a summer storm.
 
-Bal searched the sky.
-
-It was clear from one edge to the other, a hot, high, faded blue, without one cloud in it anywhere to have made that sound.
+Overhead the sky was clear from one edge to the other, a hot, high, faded blue, without one cloud in it anywhere to have made that sound.
 
 Viridia had gone pale under her tan.
 
@@ -83,13 +81,13 @@ Viridia had gone pale under her tan.
 
 "Yeah." She was still facing north. "Yeah, I can."
 
-Lora's head went from Viridia to Bal and back. "Feel what?"
+Lora said, "Feel what?"
 
 "I can't explain it." Viridia's voice had dropped. "It feels like we're in danger."
 
-Lora turned to Bal. He was still staring back toward Londra, and he could not make himself stop.
+Bal's attention was still back toward Londra, and he could not pull it loose.
 
-"Are we in danger?"
+"Are we in danger?" Lora asked him.
 
 "Yes."
 
@@ -143,7 +141,7 @@ He went on calling until the sun was down and his voice was gone again, and the 
 
 He could not search in the dark. He knew that. Stopping was harder.
 
-The horse that had been hit was Lora's. It lay on its side at the edge of the farthest crater, and he forced himself over to it. Her bedroll was still tied behind the saddle. He worked the straps loose with his face turned from the smell, and pulled the roll free, and carried it upwind until the air was clean enough to breathe. He spread it out and stretched out on top of it.
+The horse that had been hit was Lora's. It lay on its side at the edge of the farthest crater, and he forced himself over to it. Her bedroll was still tied behind the saddle. He worked the straps loose breathing through his mouth, and pulled the roll free, and carried it upwind until the air was clean enough to breathe. He spread it out and stretched out on top of it.
 
 Sleep was slow coming. Every time his eyes shut, something was waiting behind them. Lora somewhere dark. Viridia with her hands tied. People who wanted them dead, with the two of them right there in reach. He turned over, and turned back, and the bedroll carried a faint smell of Lora's alchemy chest, sharp and green.
 
@@ -179,7 +177,7 @@ It took him two days on foot.
 
 He walked through two long hot days. He drank from a ditch, and once from a horse trough at the edge of a field whose owner never appeared. At night he slept a few hours on Lora's bedroll beside the road, and woke before light, and walked again. By the second afternoon he was not thinking much at all. His feet went on without him.
 
-Some of the way he talked to the girls in his head. He told Lora he was coming. He told Viridia not to give anybody any lip until he got there, which was a waste of breath, because she would anyway, and he hoped she did. Once, crossing a dry creek bed, he caught himself wondering what Mrs. Brown would say about the state of his boots, the soles worn so thin he could feel every pebble through them. She would have made him take them off at the door. His mouth twitched at that, and then it didn't.
+Some of the way he talked to the girls in his head. He told Lora he was coming. He told Viridia not to give anybody any lip until he got there, which was a waste of breath, because she would anyway, and he hoped she did. Once, crossing a dry creek bed, he caught himself wondering what Mrs. Brown would say about the state of his boots, the soles worn so thin he could feel every pebble through them. It nearly made him smile, and then it didn't.
 
 Whenever he stopped, it found him again, and he stopped as little as he could.
 
@@ -197,7 +195,7 @@ Nobody tried.
 
 Bal knew one of the soldiers. He had seen him at the temple: a centurion, Jazen Grey.
 
-Jazen heard boots behind him, spun, and stared. Then he was coming across the square, fast, and keeping his voice down.
+Jazen heard boots behind him and spun. Then he was coming across the square, fast, and keeping his voice down.
 
 "High Priest." He looked Bal over, the dust and the dried blood in his hair and Lora's bedroll clutched to his side. "What brings you out here? We all thought you were off in Londra."
 
@@ -207,7 +205,7 @@ Whatever Jazen saw in his face settled it.
 
 "Of course. Take mine." He said it without a breath between. "If you ride hard, you can be at the temple by noon tomorrow."
 
-He jerked his chin at the blood sygls and their cart. Another soldier was leading horses over to them.
+Over by the blood sygls and their cart, another soldier was leading horses up.
 
 "We'll get there some time tomorrow night," Jazen said. "When you see Commander Fern, would you let him know we've had no trouble? And that we'll be with him shortly."
 
@@ -215,7 +213,7 @@ He jerked his chin at the blood sygls and their cart. Another soldier was leadin
 
 Jazen called to one of his men, who jogged off and returned leading a horse.
 
-It was the biggest horse Bal had ever stood next to. A warhorse, deep through the chest and heavy in the legs, with a head on him the size of a small barrel. He was white all over. Not gray, not dappled. White as new snow, and in the late sun his coat shone.
+It was the biggest horse Bal had ever stood next to. A warhorse, deep through the chest and heavy in the legs, with a head on him the size of a small barrel. He was white all over, and in the late sun his coat shone.
 
 Jazen ran a hand down the great neck and gave it a fond, heavy pat.
 
@@ -247,7 +245,7 @@ Below him, in the open ground in front of the canyon where the temple hid, a sma
 
 Lightning cracked across the field.
 
-At the rear of the Tempus party, two mages were hurling bolts into the blood soldiers without a pause between them. Far behind Amelia's lines stood two figures in scarlet robes, and even from here he knew them. Thad, with Xavier at his shoulder. Each had a great whip of blood going, long as a barn, and they were working furiously, catching the bolts in midflight and slapping them aside into the dirt.
+At the rear of the Tempus party, two mages were hurling bolts into the blood soldiers without a pause between them. Far behind Amelia's lines stood two figures in scarlet robes, and even from here he knew them. Thad, with Xavier at his shoulder. Each had a great whip of blood going, and they were working furiously, catching the bolts in midflight and slapping them aside into the dirt.
 
 They could not catch all of them. Every time one got through, it slammed down among the soldiers and men and horses went flying.
 
@@ -269,11 +267,11 @@ He jumped onto the platform.
 
 Both men spun around. The nearer of the two already had his hand out to throw. Bal drove the dagger at his face and put it into his eye, the right one.
 
-The man screamed. He had jerked back at the very last instant, and the blade had gone in only a finger's depth. He clutched at his face, and Bal planted a boot in his middle and kicked him clean off the platform. He landed somewhere below with a thud and went on screaming.
+The man screamed. He had jerked back at the very last instant, and the blade had gone in only a finger's depth. He clutched at his face, and Bal planted a boot in his middle and kicked him clean off the platform. He landed somewhere below with a thud.
 
-Bal released the dagger. It ran home, and the left palm closed behind it.
+Bal released the dagger.
 
-He turned to the other one.
+That left the other one.
 
 The second storm mage was young. Not much past Bal's age, with hair so light a blond it was nearly white. He did not run. He smiled at Bal, a grim little smile with no fun in it.
 
@@ -305,7 +303,7 @@ For a while, everything was white and empty.
 
 The smell came next. Burnt skin. His own. He could not tell yet whether it hurt. His body had gone somewhere else and not told him where.
 
-The blood of his whip came crawling back to him over the dirt, and slid home, and the palm closed over it. He had not told it to.
+The blood of his whip came crawling back to him over the dirt, and slid home.
 
 Up on the platform, the storm mage laughed. Then he jumped down, and Bal heard his boots land, and then walk. Unhurried. They came around and stopped by his head.
 
@@ -335,4 +333,4 @@ He dropped. He fell sideways into the grass and lay still.
 
 Bal rolled his head on the grass. It was all of him that would move. Across the field, blood soldiers were coming, running toward him, a lot of them, shouting something he could not make out.
 
-His eyes fell shut, and the dark took him.
+The dark took him.
