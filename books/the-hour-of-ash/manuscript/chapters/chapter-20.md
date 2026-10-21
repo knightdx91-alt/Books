@@ -6,10 +6,11 @@
 <!-- Word count: 8,027 (shape_check; style 8,053; show_tell 8,056) | Writer draft 2026-10-21 | Target: 8,200 (range 7,700-8,700) | Dialogue 31% shape / 30.5% show_tell (band 30-40) | Breaks 6 | Median sentence 16 (gear mid) | Opens narrative (the italic lost-pot notice, 23-word first sentence; hook VOICE), closes dialogue (Grata: "It's a child you've got."; pull REVELATION) | Em-dash 0 | as if 0 | Semicolons 17 | And-chains 2 | Negation pivots 0 | Hinge/So openers 0 | said-to-[non-listener] 0 | Kneel/crouch 0 | Hand-on-knee 0 | Bend 0 | Gait exit 0 | Valens bare "No." 0 | Grata questions 0 | Echoes 0 | Spoken-line echoes 0 | Command echoes 0 | Tic gate clean | Voice-wear clean | Foreshadow 0 | Anchor: the stoker's lamp, its join left standing and blacked with soot so his thumb can find it on a dark stair -->
 <!-- Dialogue-polish 2026-10-21: 8,404 words (shape_check; style 8,430; show_tell 8,433) | Dialogue 34% shape / 33.3% show_tell (was 31 / 30.6) | Median 16 | Breaks 6 | 14 narrated speeches turned into lines + 9 short in-scene replies; speech "Then..." openers 10 -> 1, "And..." 7 -> 3; command echoes cut (the painter's "Hold it" / "hold that light"; "Leave me the crack" -> "I trimmed it"); comprehension: one tinkers' word ("dogs"), asked and pointed out, not fast speech | Valens bare "No." 0, orders to Felix 0, comparisons 0 | Grata questions 0 | Echoes 0 | Tic gate clean | Voice-wear clean -->
 <!-- Disruptor 2026-10-21: 8,142 words (shape_check; style 8,168; show_tell 8,171) | Dialogue 34.4% show_tell (shape 34) | Median 16 shape / 15 metaphor | 6 breaks | 38 paragraphs touched, all subtractive or swaps; no spoken line cut | hook fix "Grata clapped the lid on." | theme pointer "Nobody at home had ever paid me..." CUT; narration restating the request CUT; stewpot and lamp condition reports cut to hands; Felix's "it'll stand when he's dead" (preservation wink) recast | gesture clusters cut: held-to-the-light 5->2, watching-me 4->2, object-to-body hugs 5->1, Valens falls asleep 3->1, thumbs outside the anchor 3->1, "a while" pauses 3->0 outside the fountain, X-by-X 5->2, lid handling 4->2, ear-shake 2->1 | race frames 4->1 | opening notice, closing speech, breaks, tremor note, Zosimus's request, fountain and pebble, frame, Polybius notice and the I on the crack byte-identical | check_chapter.sh 20 ALL clean, echoes 0 -->
+<!-- Continuity repair 2026-10-21 (evaluations/continuity/chapter-20-audit.md): C-01 C-02 C-03(A) W-01..W-14 + ENTITY CH20-2 | 8,053 words (shape_check) | Dialogue 34.2% show_tell (shape 34) | Median 16 shape / 15 metaphor | 6 breaks | notice recast single-reward, no paint-and-support line; Felix off the ladder; lamp scene de-lifted; Zosimus collects at dawn; follow-on variations to keep echoes 0 | closing speech, breaks, tremor note, Zosimus's request, bowl beat, Polybius notice and the I on the crack byte-identical | check_chapter.sh 20 ALL clean -->
 
-*A bronze pot has walked off from this shop, the big one, with the handle I had riveted on new at the Saturnalia. Sixty-five sesterces if anybody brings it back, and twenty more for the thief, if he comes with it.*
+*A bronze pot has walked off from this shop, the big one, with the handle I had riveted on new at the Saturnalia. Whoever brings it back gets sixty-five sesterces. The thief knows who he is, and so do I.*
 
-Somebody had lettered it in red on the pier of a cookshop above the bull's-head fountain. Under it, in charcoal and a smaller hand, another somebody had added that the thief was enjoying his soup. I had passed it every day for half a month with our water jar riding my hip before I stopped to read it. While I read, a woman with a basket of leeks halted beside me and read it aloud for the old husband on her arm.
+It was up on the pier of a cookshop above the bull's-head fountain. Under it, in charcoal and a smaller hand, a reader had added that the thief was enjoying his soup. I had passed it every day for half a month with our water jar riding my hip before I stopped to read it. While I read, a woman with a basket of leeks halted beside me and read it aloud for the old husband on her arm.
 
 "Sixty-five," he said. "For a pot. He could have two new ones and a lid."
 
@@ -29,7 +30,7 @@ The pier beside our shop opening had been limewashed in the cobbler's time; the 
 
 *Broken things mended here. Bronze, clay, glass.*
 
-Felix came in from the string at dusk, lime-white to the eyebrows, and faced it with his fists on his hips.
+Felix came in from the string at dusk, with lime in his eyebrows, and faced it with his fists on his hips.
 
 "What's written? Which bit's the fish? Did you put me in it anywhere? Who's going to read it, anyway, when half this street can't tell an A from a fishhook?"
 
@@ -37,7 +38,7 @@ Felix came in from the string at dusk, lime-white to the eyebrows, and faced it 
 
 "That wants shouting." He dug lime out of one eyebrow with a fingernail. "Market day, I'll stand out on the curb and give it them. There's no voice on the Stabian road to touch mine. The contractor puts me at the head of the string so the carts coming up know to pull over."
 
-Valens read it that night by lamplight on his way in from the mules, when Felix had already gone in to his blanket among the cobbler's leather.
+Valens read it that night by lamplight on his way in from the mules, when Felix had already gone in to his blanket in the shop.
 
 "Glass," he said. "Who breaks glass, in this street?"
 
@@ -65,13 +66,13 @@ She set a fingernail on each clamp in turn. "These. Lead. They've not shifted si
 
 "I can close it so that you will never find the crack again."
 
-"I'd only break it in the same spot, looking for it." She folded her arms over the apron. "Make it hold. I cook in it."
+"I'd only break it in the same spot, looking for it." She folded her arms over the apron. "Make it tight. My oil lives in it."
 
 I warmed the pot through beside Grata's coals till the clay was hot in my palms. Then I ran resin into the new crack from inside, coaxing it deep into the break with the tip of a heated nail, and pared it flush while still soft. When it had cooled, my own eye could barely find the line. She paid me in bronze and carried the pot off under her arm.
 
 The cook arrived on the last day of that month with his pot on his shoulder. It was a big round-bellied thing of bronze gone brown, and under its lip two rivet holes stood empty where the handle had been.
 
-"Found it in the ditch outside the Sarno Gate," he said, "handle gone and a frog in it. Nobody gets the sixty-five. I walked there myself because a fellow wanting the twenty told me where, and the thief wasn't with it, so the man gets nothing either. I want a handle on it."
+"Found it in the ditch outside the Sarno Gate," he said, "handle gone and a frog in it. Nobody gets the sixty-five. A fellow told me where, wanting it, and I went and fetched it home myself, so he gets nothing. I want a handle on it."
 
 "I cannot rivet bronze. The coppersmith in the next street could."
 
@@ -81,9 +82,9 @@ The cook arrived on the last day of that month with his pot on his shoulder. It 
 
 "Ask him where he was the night it went."
 
-I carried it round to the coppersmith that afternoon, a big soft-spoken man with burns all up his forearms. He knew the pot before it was on his bench.
+I carried it round to the coppersmith that afternoon, a big soft-spoken man with burns all up his forearms. He knew the pot on sight.
 
-"Riveted that handle on myself," he said. "Two winters back. Good rivets."
+"Riveted that handle on myself," he said. "This winter gone. Good rivets."
 
 "He would like a new handle, and the same rivets."
 
@@ -205,11 +206,11 @@ Felix had left his shovel to stand by the quarrymen.
 
 By the hot hour Valens was home; by mid-afternoon he was asleep on the roof.
 
-I climbed up with the water jug and found him under the fig. The tiles were too hot for a bare foot. Under us the town lay shut behind its shutters, with nothing in the lanes but a dog going from one shade to the next. The fig had grown since the ship; its leaves were wider now than my spread hand. He had stretched himself along under the parapet with his head and chest in its shade and the rest of him in the full glare, his bare soles gray with the forum. The shadow of a leaf lay over his open lips and stirred when the leaf stirred. By his hip on the tiles lay a small heap of the tree's first figs, hard little green things he had pinched off that morning before the mules went out.
+I climbed up with the water jug and found him under the fig. The tiles were too hot for a bare foot. Under us the town lay shut behind its shutters, with nothing in the lanes but a dog going from one shade to the next. The fig had grown since the ship; its leaves were wider now than my spread hand. He had stretched himself along under the parapet with his head and chest in its shade and the rest of him in the full glare, his bare soles gray with the forum. The shadow of a leaf lay over his open lips and stirred when the leaf stirred. By his hip on the tiles lay a small heap of the summer's figs, hard little green things he had pinched off that morning before the mules went out.
 
 I went below for the Pentax and climbed back with it.
 
-He slept on. In the finder I had the jar on the left and his gray soles on the right, and the leaves above his face; the heat rising from the tiles made all of it waver, so I held still for it to settle and it never did. I took it, and wound on, and he slept through both.
+He slept on. Through the lens I had the jar on the left and his gray soles on the right, and the leaves above his face; the heat rising from the tiles made all of it waver, so I held still for it to settle and it never did. I took it, and wound on, and he slept through both.
 
 He woke when the shade had slid off his face, and found me sitting up by the parapet with the camera in my lap.
 
@@ -229,7 +230,7 @@ Supper was beans again and they were cold and we ate them standing at the pot. F
 
 "Pulling them off, are you? Are they bad? Grata's cousin sells figs at the gate a copper the double handful, and his are no bigger. Will you pull the next lot too?"
 
-"These would never ripen." Valens edged the jar west along the parapet by its rim, into the sun's last edge. "A young tree carries them all summer and drops them in the autumn, and has none left at the end. Without them she makes wood."
+"These would never ripen." Valens edged the jar west along the parapet by its rim, into the sun's last edge. "Last year she carried them all summer and dropped every one in the autumn. Without them she makes wood."
 
 "What's she for?"
 
@@ -239,15 +240,15 @@ Grata was hollering at the parapet from her counter.
 
 "Your tree's dropping its leaves in my wine, I've had three out of the jars today, and I'll charge him for them by the leaf, you tell him."
 
-Valens glanced over at the fig, which had not dropped a leaf all summer.
+Valens glanced over at the fig, which had not dropped a leaf since it budded.
 
-"Tell her it hasn't," he said.
+"It hasn't," he said.
 
 "He says it has not," I called over.
 
 "It's the wind does it, and I'll charge the wind."
 
-Once Felix was off to the stable, Valens brought a tablet out of his pouch and wrote in it with the lamp by his elbow, slowly, the stylus held low. He closed the leaves and tied them shut.
+Once Felix was off to see to the dun and the black, Valens brought a tablet out of his pouch and wrote in it with the lamp by his elbow, slowly, the stylus held low. He closed the leaves and tied them shut.
 
 "For Plautia," he said. "Where we are."
 
@@ -281,17 +282,17 @@ A bone-turner who lived one street over brought me his money box in the week the
 
 He was a small man with shavings of bone in the hair of his arms. Through all our talk his cap stayed cupped under the pieces, for fear one of them should fall again.
 
-"I can make it hold coins," I said. "Whether it fills is your affair."
+"I can make it keep coins," I said. "Whether it fills is your affair."
 
 "Twice," he repeated. "Once for my wife's mother's funeral. Once for a horse that died."
 
-I joined it for him next day and left the slot as it was. When he came for it he put one eye to the slot and peered in at the nothing inside, and seemed pleased with it.
+I joined it for him next day and left the slot as it was. When he came for it he ran a fingertip round the slot and was satisfied.
 
 "I've no money. That's the trouble with mending a money box." He grinned at me. "But I've this." He felt in his belt and produced a finger-long rod of bone, polished, with a point to it, and carved at its other end into a round spoon smaller than half a pea. "Teeth this end. Ears the other. Don't mix them."
 
 The point went straight into my mouth.
 
-Two years and more I had cleaned my teeth with a frayed stick of lentisk and my own tongue. Every night I fell asleep running that tongue over the places behind, where the stick never got, and they were waiting for my tongue at dawn. The bone went into every place there was. It found the gap at the two molars that had held a filling since sixth grade, and slid along behind the bottom front teeth, where Dr. Pinsky's hooked pick had scraped every spring and fall. I stood in the shop doorway with my back to the street and worked my way round my whole mouth, tooth by tooth, while the carts went by behind me.
+Two years, near enough, I had cleaned my teeth with a chewed twig of lentisk and my own tongue. Every night I fell asleep running that tongue over the places behind, where the stick never got, and they were waiting for my tongue at dawn. The bone went into every place there was. It found the gap at the two molars that had held a filling since sixth grade, and slid along behind the bottom front teeth, where Dr. Pinsky's hooked pick had scraped every spring and fall. I stood in the shop doorway with my back to the street and worked my way round my whole mouth, tooth by tooth, while the carts went by behind me.
 
 Felix found me at it when he came in for the string's waterskins.
 
@@ -313,7 +314,7 @@ Grata caught me at it from her counter the following morning.
 
 "It is not a vow."
 
-"It is now. I've told her so. You'll do me a board too, while you're at the soot. You've the hand for it, everybody's seen, and the painters want wine by the letter and more for the ladder. Put that Grata says. Put that a copper buys you a drink here, and two buys you better, and four buys you Falernian, and put Falernian big, because it is, near enough, it comes from that side of the bay."
+"It is now. I've told her so. You'll do me a board too, while you're at the soot. You've the hand for it, everybody's seen, and the painters want wine by the letter and more for the ladder. Put that Grata says. Put that a copper buys you a drink here, and two buys you better, and four buys you Falernian, and put Falernian big, because it is, or next door to it, it comes from that side of the bay."
 
 I lettered it for her that afternoon on the pier at the end of her counter, standing on her upturned water bucket.
 
@@ -377,11 +378,11 @@ That night the rain found a cracked tile over the bed and came through onto Vale
 
 *Gaius Iulius Polybius for aedile, all of you. He brings good bread.*
 
-It appeared on the red house at the corner in a single night at the end of the winter, when every house front was breaking out in candidates. Felix had me out of bed for it.
+It appeared on the red house past the temple crossing in a single night at the end of the winter, when every house front was breaking out in candidates. Felix had me out of bed for it.
 
-"They're painting the corner," he whispered at the door to our room, so loudly Grata could have heard. "Three of them, with a ladder and a light. Come and tell me what it says. Grata reckons it's Polybius paying for every wall from here to the gate."
+"They're painting the red house," he whispered at the door to our room, so loudly Grata could have heard. "Three of them, with a ladder and a light. Come and tell me what it says. Grata reckons it's Polybius paying for every wall from here to the gate."
 
-I followed him out with my cloak over my sleeping tunic. A boy waited at a ladder's foot against the red house, holding a lamp up on a pole. On the ladder a man with a pail of lime and a broad brush was laying a panel of fresh white over the house, from the eaves down to the height of a tall man's chin. He took the cousin's pink stripe in two strokes of the brush. It went under the white; in the lamplight the whole wall looked paler for it, like a face just shaved of its beard.
+I followed him out with my cloak over my sleeping tunic. A boy waited at a ladder's foot, holding a lamp up on a pole. On the ladder a man with a pail of lime and a broad brush was laying a panel of fresh white over the house, from the eaves down to the height of a tall man's chin. He took the cousin's pink stripe in two strokes of the brush. It went under the white; in the lamplight the whole wall looked paler for it, like a face just shaved of its beard.
 
 On the curb a thin fellow with red to the wrists sat with his pots in a row, eating bread and waiting for the lime to dry enough for lettering.
 
@@ -389,9 +390,7 @@ On the curb a thin fellow with red to the wrists sat with his pots in a row, eat
 
 "Polybius," said the painter, chewing. "Enough. No."
 
-"Your boy's letting the light swing. Give me the ladder. I hold the dun every day of the year, and she weighs more than this whole house."
-
-"Hold it, then." The painter dried his fingers on his tunic and climbed, while the whitewasher came off. "You, lantern, hold that light still or I'll paint *you* on the wall."
+He dried his fingers on his tunic and climbed, while the whitewasher came off. "You, lantern, hold that light still or I'll paint *you* on the wall."
 
 "Four more walls before the cock," the whitewasher grumbled, wringing his brush out on the stones. "Four, and my wife thinks I'm at the bakery kneading, and Polybius pays at the month's end, and last month he paid us in loaves."
 
@@ -399,17 +398,17 @@ On the curb a thin fellow with red to the wrists sat with his pots in a row, eat
 
 "Chalk," said the whitewasher. "Ask anybody."
 
-Felix had both fists round the ladder's legs and his weight on his heels. The lantern boy's light sagged by degrees until he was told about it, and then it rose. The painter worked downward, filling his brush from a pot hooked on the rung beside him. I stayed in the road in my cloak till my soles were numb, reading it out to Felix as the words arrived.
+Felix sat among the painter's pots and tipped his face up to the ladder. The lantern boy's light sagged by degrees until he was told about it, and then it rose. The painter worked downward, filling his brush from a pot hooked on the rung beside him. I stayed in the road in my cloak till my soles were numb, reading it out to Felix as the words arrived.
 
 "His bread comes last," I told him, when the painter got down to it. "It says it is good."
 
-"All that red, and a ladder, and three of them out of their beds, and me holding it for them half the night. For bread."
+"All that red, and a ladder, and three of them out of their beds, and me out of mine half the night. For bread."
 
 With the last letter on, the painter climbed off and wiped his brush and scratched something small on the lime under the panel with the point of a nail, for the light to show him.
 
 "What's he putting?" Felix asked me. "Is he putting the fighter? He said he wouldn't. He's putting it, isn't he, he's putting a fighter after all."
 
-"Come and read it in the morning," the painter said, and took the ladder off Felix, and the three of them carried their pots and their light off to the next wall.
+"Come and read it in the morning," the painter said, and shouldered the ladder, and the three of them carried their pots and their light off to the next wall.
 
 At daybreak I found this under the panel, small and scratched rather than painted:
 
@@ -427,7 +426,7 @@ Valens came by us with the string on his way to the yard, and Felix caught at hi
 
 "Can you read the new one? You can't, can you, only she can, in this house."
 
-Valens studied the panel with the dun's halter in his fist, down to the last red letter, and then looked at Felix.
+Valens studied the panel with the dun's halter in his fist, down to the last red letter.
 
 "It's red," he said, and led the dun on.
 
@@ -485,7 +484,7 @@ One morning in the summer I was there with our jar, in the line of women and sla
 
 "Fill and get on," the woman with the red jar told her, "and leave the talk to them that's got dowries."
 
-A child crawled round the trough's corner through the overflow. He was a year old or not much over, naked but for a crescent of leather hung on a cord at his throat, and wet to the chest. He grabbed the worn place in the rim and pulled himself up on it and stood, rocking. In his fist he had a pebble. He looked at it, and at me, and held it up.
+A child crawled round the trough's corner through the overflow. He was a year old or not much over, naked but for a crescent of leather hung on a cord at his throat, and wet to the chest. He grabbed the worn place in the rim and pulled himself up on it and stood, rocking. In his fist, raised to me, he had a pebble.
 
 I put out my hand. He laid the pebble in my palm, small and black and round, wet, and cold from the trough's bottom. Then he kept two of his fingers on it, after it was in my palm, until he was sure it would stay.
 
@@ -493,7 +492,7 @@ I was crying.
 
 The jar was on my hip and the stone was in my hand. The crying heaved up through me. My mouth was open. I could not shut it. Water from the jar's lip ran down my side and my leg and into my sandal, and I could not right the jar, because my hands were full. The next woman in line reached round me and pushed her jar in under the bull's mouth.
 
-His father came after him round the trough, a man with his arms blue to the elbow from somebody's vats.
+His father came after him round the trough, a man whose hands were stained blue from somebody's vats.
 
 "I never touched her," he told the line. "You saw. I never came near her." He hoisted the boy onto his hip. "He gives them to everybody, lady. He gave one to a mule this morning. It's only a pebble, that's all he does, he gives pebbles."
 
@@ -527,13 +526,13 @@ It turned up scratched into the lime under my black letters in the month they pi
 
 The stoker from the baths at the crossing came in that same month, black to the elbows and smelling of the olive stones they burned under the floors. He had a lamp in three pieces in a fold of his tunic, and he laid them out on my plank with one black finger, as carefully as a gambler laying out dice.
 
-"Dropped it on the furnace stair," he said. "Third step up. It's always the third. The stone's gone hollow in the middle, and it's dark down there as a cow's belly."
+"The furnace stair did it," he said. "Third step up. It's always the third. The stone's gone hollow in the middle, and it's dark down there as a cow's belly."
 
 It was a plain round lamp with FORTIS stamped in tall capitals on its foot. It had broken across the shoulder in a crooked line, and a wedge of the rim had broken loose beside it.
 
-"A new one would cost you less than I will ask," I said.
+"The potters' row," I said, "sells this lamp by the basket."
 
-"I could buy forty." He jerked his head toward the baths. "There's a shelf of them down there, all off the one mold, all with that same name on their bottoms, and whichever of the boys gets down there first in the morning takes the nearest. Hermes takes mine. He swears he doesn't. This one's mine. I've had it since before the earthquake."
+"I could buy forty." He jerked his head toward the baths. "There's a shelf of them down there, all off the one mold, all with that same name on their bottoms, and whichever of the boys gets down there first in the morning takes the nearest. Hermes takes mine. He swears he doesn't. This one's mine. I've had it three summers."
 
 "I could put it together so the break would not show."
 
@@ -543,7 +542,7 @@ It was a plain round lamp with FORTIS stamped in tall capitals on its foot. It h
 
 "Zosimus. Of the crossing baths. Down at the furnace, not up with the bathers." He was gone again, telling a man with a handcart that he'd have Hermes's ear for him yet.
 
-The lamp's nozzle was black inside with years of his flame; round the filling hole the clay was dark and glossy from his thumb, pressed there each dawn of those years to tip the oil in. The broken edges were the only clean clay on it. They were pale and dry and sharp, and they smelled of nothing. When I brought the two big pieces together they met at once, the break so new that nothing had yet got into it.
+Round the filling hole the clay was dark and glossy from his thumb, pressed there each dawn for years to tip the oil in. The broken edges were the only clean clay on it. They were pale and dry and sharp, and they smelled of nothing. When I brought the two big pieces together they met at once, the break so new that nothing had yet got into it.
 
 I warmed the pieces and the resin, drew the bead along the broken shoulder with the cane and brought the faces home, and the brown welt swelled from the break. Then I let it stand. Along the shoulder I trimmed it to a thread's thickness proud of the clay. I warmed the knife and stroked the top of the welt smooth so it would not catch his skin. The wedge from the rim went in after. When all of it had set I took a pinch of Grata's brazier soot and rubbed it into the join with my fingertip, until the break ran black across the pale clay from the oil hole to the rim and on across the wedge.
 
@@ -559,7 +558,7 @@ Valens got in from the mules at dusk, while the lamp was still on my plank with 
 
 He left the lamp standing and went to wash.
 
-Zosimus came for it two evenings later, on his way down to light the furnaces. It was already dim in the shop. He cradled the lamp in his palm and shut his eyes, and his thumb travelled the shoulder and stopped on the welt. It went back over it, and stopped again.
+Zosimus came for it two mornings later, on his way down to light the furnaces. It was still dim in the shop. He cradled the lamp in his palm and shut his eyes, and his thumb travelled the shoulder and stopped on the welt. It went back over it, and stopped again.
 
 "That's it," he said, with his eyes still shut.
 
