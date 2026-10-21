@@ -2,11 +2,15 @@
 
 For a few heartbeats nothing answered him.
 
+His own voice bounced off the pillars and returned thinner than he'd meant it. One of the braziers popped and threw up a spark. High in the shadows above the pillars, something rustled once and was quiet again.
+
 Out of the darkness at the back of the temple, behind the last of the pillars where the firelight gave up, a pale girl stepped forward into the light.
 
 She came unhurried, her footsteps making no sound at all on the stone, and stopped a few paces short of the nearer brazier where the glow could find her. Bal guessed she was a few years older than he was. She cocked her head and studied him with frank, open interest, much as you might study a cat that had turned up on your doorstep in the rain.
 
 "Hello yourself," she said, with a curious look on her face. "Mind telling me how you got in?"
+
+It was a low voice with a laugh tucked away somewhere inside it. Whether it was the same one that had spoken right beside his ear a minute ago, Bal couldn't tell, and he wasn't about to ask.
 
 The girl was wearing a long black dress that fell to the floor and moved around her ankles as she walked. Teardrop rubies hung from her ears, and every time she moved her head they caught the firelight and threw it back in small red sparks. Her hair was midnight black, straight and glossy, and reached to the middle of her back. Her skin was pale as candle wax against all that black. She wasn't skinny, but she wasn't fat either; she had what Bal considered exactly the right amount of curves, and the dress made no secret of them.
 
@@ -40,7 +44,7 @@ That, at least, he could answer, once his tongue came unstuck.
 
 The girl laughed and waved a hand.
 
-The air between them shivered. Stone grated softly on stone, and in a matter of seconds two stone benches stood on the floor between them, facing one another, as solid as if they had been carved there a hundred years ago. They were plain gray, smooth-topped, with lion's feet at the corners. A thin film of dust lay on them.
+The air between them shivered. Stone grated softly on stone, and in a matter of seconds two stone benches stood on the floor between them, facing one another, as solid as if they had been carved there a hundred years ago. They were plain gray, smooth-topped, with lion's feet at the corners. A thin film of dust lay on them. Bal crouched, curious in spite of himself, and touched one of the stone feet. Every claw had been carved separately, down to the tiny curved tips.
 
 "Have a seat," she said, "and I'll explain."
 
@@ -54,7 +58,9 @@ It was only polite to answer that. "I'm Balthazaar," he said. "Bal, to my friend
 
 "Balthazaar." She tried the name out slowly, tasting it, and looked pleased with the result. "Now that's a name. Somebody chose well."
 
-Bal took in the two rows of pillars, the two braziers, the shaft of sunlight falling through the roof that wasn't there, and the dark statue with its face in shadow. Then he looked back at Amelia, sitting across from him with her hands folded in her lap and the rubies glinting at her ears.
+Bal took in the two rows of pillars, the two braziers, the shaft of sunlight falling through the roof that wasn't there, and the dark statue with its face in shadow. Now that he was sitting still, he noticed things he'd missed on the way down. The braziers burned low and steady and gave off no smoke at all, and he couldn't see any wood in them. The floor didn't have a speck of dirt on it anywhere, though nobody in living memory had been able to get through those doors. Bal wondered, briefly, who did the sweeping.
+
+Then he looked back at Amelia, sitting across from him with her hands folded in her lap and the rubies glinting at her ears.
 
 "So," Bal asked, still confused, "a temple for what?"
 
@@ -80,7 +86,9 @@ Amelia saw this. He watched her see it. She shut her eyes, pressed her lips toge
 
 "I'm sorry," she said. "I wasn't expecting that. Although I guess I should have known." She sat back down on her bench, smoothing her skirt, and gave him a small, rueful smile. "Please. Sit. I won't bite. Not without asking."
 
-Bal stayed where he was, halfway between his bench and the rug, unable to decide whether sitting or running was the more sensible choice.
+Bal wasn't sure that was the comfort she seemed to think it was.
+
+Bal stayed where he was, halfway between his bench and the rug, unable to decide whether sitting or running was the more sensible choice. The rug was nearer. It had got him in, but he wasn't at all sure it could get him back out through a roof that let the sun come down.
 
 Amelia didn't seem to mind. Her attention was on his arm.
 
@@ -134,6 +142,8 @@ That got the corner of her mouth to twitch. "Go on."
 
 "Dracula," Amelia repeated. Her voice had gone flat.
 
+There was a picture of him in one of Bal's history books, a long-faced man in a high collar glaring out of an old engraving. Next to Amelia he looked like somebody's bad-tempered uncle.
+
 "But then somebody killed him. Which kind of proved he wasn't." Bal shifted on the bench. "Everyone felt pretty stupid about that afterward."
 
 Amelia said nothing. Behind her, the nearer brazier sank low and then flared up again, though there wasn't a breath of wind. Her hands had stopped moving in her lap.
@@ -148,7 +158,7 @@ He meant it literally. One moment she was sitting on the bench across from him, 
 
 It went on for about a minute. Then the bats poured back together over the bench, and folded in on themselves, and Amelia was sitting there again in her long black dress, not a hair out of place.
 
-Bal lowered his arm cautiously. A single tiny black wisp drifted down past his nose and vanished before it reached the floor. He looked at the place where it had been, and then at her.
+Bal lowered his arm cautiously. The hall smelled warm and musty, like the orphanage attic in August, and both fires were still swaying. A single tiny black wisp drifted down past his nose and vanished before it reached the floor. He looked at the place where it had been, and then at her.
 
 "Does that happen often?" he asked.
 
@@ -162,6 +172,8 @@ Bal held up his stump.
 
 "No sygl," he said simply. "No school will let you in unless you have a sygl."
 
+He'd said it to himself so many times that the words had worn flat, like directions to the bathroom. No use sounding sorry about a door that was shut.
+
 Amelia narrowed her eyes. The firelight caught them as she did, and now Bal saw clearly what color they were. Red, the same red as the rubies at her ears.
 
 Then she grinned.
@@ -172,21 +184,29 @@ Bal answered immediately.
 
 "Of course. I've always wanted to."
 
+It needed no thought at all. He'd been answering that question in his head for years, lying awake in the dormitory with *Sygldry Year 2* under his pillow.
+
 "Would you do anything to go?" Amelia asked slowly.
 
 She rose from her bench as she said it and walked toward him, one unhurried step after another, her dress whispering on the flagstones. She never took her eyes from his. Bal found that he couldn't look away either. The rubies swung gently at her ears. She was close enough now that he could smell her, a faint scent of cold stone and something sweeter underneath it, roses maybe, or wine.
+
+Enough stories got told after lights out for Bal to know that this was the question that came right before the bad part. Nobody in those stories ever asked what *anything* meant until it was far too late.
 
 Bal swallowed nervously.
 
 "Uhm," he said. "Within reason."
 
-Amelia laughed and sat down beside him, and the spell of the moment broke. Her shoulder brushed his, and she swung her feet beneath the hem of her dress like a girl half her apparent age.
+Amelia laughed and sat down beside him, and the spell of the moment broke. Her shoulder brushed his. She gave off no warmth at all, though she was right up against him and he should have felt some. She swung her feet beneath the hem of her dress like a girl half her apparent age.
 
 "Within reason," she repeated. "Good. I like a boy with sense." She turned toward him on the bench, her knee against his, and her voice went serious. "Then hear me, Balthazaar. You shall go to this school. I will bond myself to you as your familiar. Doing so will free me from this place."
 
 Bal blinked. "Your familiar?"
 
+The familiars in his books were cats and owls, mostly, and one very patient toad. Not one had been a goddess, and not one had done the asking.
+
 "Your familiar," she said firmly. "That way you and I can show the rest of the world that the Blood Bond is alive and well." Her eyes glinted. "Let them call me a myth with me standing in the middle of their courtyard. I'd like to see them try."
+
+Bal pictured it: Amelia walking into the yearly claiming and sitting down in the place they'd kept empty for her all this time, while the other originators watched. He wanted a seat for that.
 
 Then her voice softened, and she laid one cool hand on his knee.
 
