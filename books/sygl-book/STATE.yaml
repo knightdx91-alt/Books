@@ -62,6 +62,7 @@ guardrails:
 
 open_author_decisions:
   - "2026-10-21 PENDING (author: hold until the ChatGPT analysis is in, then decide together): Muse reading-notes triage, evaluations/muse-triage-2026-10-21.md. (1) Apply the 12 surgical fixes B1-B12 (gate-clean on a scratch copy): Ch.1 age + surname line; Ch.1 concrete->stone; Ch.4 kidnapper = Raizen's high priest; Ch.12 breakfast at dinnertime; Ch.14 two hours after leaving New Spring; Ch.15 lowest of the four; Ch.18 war rule adds new priests; Ch.18 lake in the last week; Ch.18 Aurora felis potions brewed in time; Ch.21 'The name meant nothing'; Ch.24/25 remove the cask dent. (2) Optional one-liners: Ch.20 'Blood magic had no need of the sygl hand.'; Ch.22 Xavier's directions to the Winespring; Hopper stays at the dorm when they leave for Londra. (3) Recommended to leave: conversion pacing, climax by accident, Ch.27 mysteries, ring's 'other things', Bal pushing back on Amelia (conflicts with ruling)."
+  - "2026-10-21 PENDING (same hold): Muse sentence-level close reading triaged (664 flags) — 219 more apply-ready edits on top of B1-B12 (231 total), tested together: all gates clean, but the book would land at 89,841 words (159 under 90k), so an offset is needed. Full list and options: evaluations/PENDING-FIXES.md; apply with evaluations/fixsets/apply_all.py."
 
 decisions:
   - "This book is a folder-per-book project at books/sygl-book/; blueprint stays in project/."
