@@ -169,3 +169,11 @@ The river simile (L146). "another country" (L168). The creek under ice (L186). T
 **POLISH.** Floor 7.5, average 8.2, Casual 8.5. All mechanical gates are clean. It fails only on the hand count plus three logic/continuity/fidelity slips. Projected PASS after F1–F24. The blood-vial payoff is not scored (pending the author).
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+## Revision applied (2026-10-21, book-editor)
+- **F1–F24 + Opt applied** as quoted: Viridia "choke" sentence cut; "Amelia flashed into being beside him…" (now opens the section, replacing "Amelia was beside him." to avoid the doubled "beside him"); "her long skirt flaring out around her"; map clause, "had opinions", "patient," bandolier check, Lora's pressed hands, Toma's third pause, "forgot to breathe", "alight" cut; all look/stand/turn/breath/hand/brows swaps made; "a few more tries"; "shredding him".
+- **Gate-driven equivalents** (quoted swaps tripped book-wide repeat gates): "both palms on the air" (not "flat against"); "The girls were together at the edge of it"; "To Bal he sounded mild and old and very tired."; "caught his hand" (not "took"); "Amelia agreed at once, plainly wanting nothing else, and Aren accepted it."; the "proud of you" line untagged; "Toma lowered his hands from his face."
+- **Unlisted clusters also cleared:** L22 hands ("Viridia was hammering on nothing"; "Lora was beside her", stood ×3 in 70w); L22–44 looks ("Bal met his gaze and held it" cut; next line tagged "Bal said"); tribunal looks ("Bal saw his palm then" → "Then Bal understood…"; "He saw the rage drain" → "The rage drained…").
+- **Author decision (vials):** at the core, after "every last drop": "When there was none left in him, he called on the two vials he had thrown at the start, and their blood rose from the sand and crossed the arena to him, and he forced that in too." Logged in STATE.yaml decisions.
+- **Re-count:** no gesture class 3+ in 500w (gestscan clean; turns 2363/2982/3122 = 759w; snaps unchanged). Em dashes 0; "the way" 0; similes ~1.1/1k. ~3,620 words (in range, low end).
+- **Gates:** style_check clean; grammar_check 0 errors; voice_wear_check clean; tic_report --gate clean (scratch copy Ch.1–30).

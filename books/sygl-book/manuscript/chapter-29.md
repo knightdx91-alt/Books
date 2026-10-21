@@ -1,7 +1,7 @@
 # Chapter Twenty-Nine: Blood Elemental
 
 <!-- SCENE BUDGET (Target 4,000): arrival, the coliseum, Toma, the circle, "a lesser version" 550 | Toma's grief, the duel rules, Bal's rule, Amelia to the stands 650 | first move, Kona Niente, the vials, Czak, "Is that it?", the gathering, the bolt 500 | Akora, the inheritance gift, the sand wall and glass, the whips, down, "I'm sorry" 600 | the maelstrom, the core, every last drop, the crack, the blood elemental 550 | Toma rocking, the tears, the gods, the palm, the realization 450 | Aren and Amelia, intentions, the compromise, the winner, the girls sent 500 | the demand, "another war", the hug, the elemental sent home, home 400 -->
-<!-- Word count: ~3,770 prose | Target: 4,000 (range 3,600-4,400) | Anchor: Akora turning to blood; Toma's palm | Hook: home, the fire already going -->
+<!-- Word count: ~3,620 prose | Target: 4,000 (range 3,600-4,400) | Anchor: Akora turning to blood; Toma's palm | Hook: home, the fire already going -->
 
 The roof vanished from under his feet, and sand was there instead.
 
@@ -19,7 +19,7 @@ Toma held up a hand, and Bal halted.
 
 "They are fine," Toma said. "They have not been harmed."
 
-Bal searched the girls over, every inch of them in view. Viridia had both fists up against nothing and was shouting. The cords stood out in her neck with it. Not a sound of it reached him. Lora stood beside her, both palms pressed to the air at the circle's edge, and her lips were moving, slow and careful, shaping each word for him. Where the circle ended, the light bent a little, with a faint blue shimmer to it.
+Bal searched the girls over, every inch of them in view. Viridia was hammering on nothing and shouting. The cords stood out in her neck with it. Not a sound of it reached him. Lora was beside her, both palms on the air at the circle's edge, and her lips were moving, slow and careful, shaping each word for him. Where the circle ended, the light bent a little, with a faint blue shimmer to it.
 
 "They cannot hear you," Toma said. "And their magyk will not affect anything outside the circle."
 
@@ -35,17 +35,15 @@ He let that stand. His voice, when it came again, had dropped, and some of the p
 
 "As I cared for my fellow priests." He stopped. "But at least yours are still alive."
 
-Bal had braced for a speech and gotten something else. Three of Raizen's priests had taken their seats at a lunch in Londra, and a day later none of them rose again, and this man had known them. Maybe for years. Bal felt no regret over those three. They would have watched Viridia choke and called it a celebration. But the grief in Toma's voice was real, and Bal didn't pretend to himself otherwise.
+Bal had braced for a speech and gotten something else. Three of Raizen's priests had taken their seats at a lunch in Londra, and a day later none of them rose again, and this man had known them. Maybe for years. Bal felt no regret over those three. But the grief in Toma's voice was real, and Bal didn't pretend to himself otherwise.
 
 Toma drew himself up, and the priest returned to cover the man.
 
 "I assure you," he said, "if I win, I will take great pleasure in taking their lives. Now. As mage duels go, among high priests, there can be no interference. No familiars may be called. This fight will decide the fate of the war."
 
-Bal met his gaze and held it.
+"If we're having this fight to decide the war," Bal said, "then killing Lora and Viridia after I'm dead would be an act of war. With no priests left to act as intermediary, Amelia would be free to do whatever she wants." He did not give Toma room to answer. "And even if you left one of them alive, the survivor could ask their originator to intercede on their behalf."
 
-"If we're having this fight to decide the war," he said, "then killing Lora and Viridia after I'm dead would be an act of war. With no priests left to act as intermediary, Amelia would be free to do whatever she wants." He did not give Toma room to answer. "And even if you left one of them alive, the survivor could ask their originator to intercede on their behalf."
-
-Toma's mouth soured. For a breath he kept silent.
+Toma's mouth soured.
 
 "Agreed," he said, short and quick, plainly disliking the taste of it.
 
@@ -55,7 +53,7 @@ With the terms agreed, Toma crossed to one end of the arena, and Bal walked towa
 
 "Good luck," she said, with a quick smile.
 
-She jumped. She bounded to the stands in a single leap, her dress flaring out around her knees, and landed on a bench six rows up, soundlessly. She tucked her bare feet beneath her skirt, ready for the show.
+She jumped. She bounded to the stands in a single leap, her long skirt flaring out around her, and landed on a bench six rows up, soundlessly. She tucked her bare feet beneath her skirt, ready for the show.
 
 Bal walked on by himself.
 
@@ -63,9 +61,7 @@ The sand got hotter toward his end of the arena, where the sun had been lying on
 
 He stopped and faced around.
 
-From here Toma was small, a blue mark at the other end with the sun glinting off his sleeves. The circle was off to Bal's left, between him and Toma and a little off the line, and he could just make out Viridia's hair, standing out from her head in a pale blue cloud. Lora had both hands pressed together in front of her mouth.
-
-Bal ran his fingers down the bandolier once. Every vial was where he had put it.
+From here Toma was small, a blue mark at the other end with the sun glinting off his sleeves. The circle was off to Bal's left, between him and Toma and a little off the line, and he could just make out Viridia's hair, standing out from her head in a pale blue cloud.
 
 Amelia stayed where she was, high in the stands.
 
@@ -107,7 +103,7 @@ It stood where the bolt had struck, taller than three men, a crackling mass of w
 
 This was no mere elemental.
 
-*No inheritance gift,* Fern had read out of the file, with his map spread out under his hands.
+*No inheritance gift,* Fern had read out of the file.
 
 Toma was enjoying this, and made no secret of it.
 
@@ -131,9 +127,9 @@ He crashed to the ground.
 
 He was still scrabbling for his knees when the hulking storm elemental loomed over him.
 
-Bal stared up into it, and he knew. He was about to die.
+Bal lay under it, and he knew. He was about to die.
 
-He found the circle. The girls were pressed up together at the edge of it, and they had the same fear on both their faces.
+He found the circle. The girls were together at the edge of it, and they had the same fear on both their faces.
 
 He mouthed it so they could see. *I'm sorry.*
 
@@ -147,7 +143,7 @@ There was blood on his back. The glass had seen to that. He called it, and it li
 
 Then he was inside.
 
-The maelstrom closed over him. He was in the heart of the elemental's twisting body, borne around and around in a roar of light, and the glass was in there with him. All the shards from the wall had been caught up in the spin, thousands of them, and they whirled with him and through him and past him and back. Each one cut. They cut his arms and his legs and his back and his face, and they kept on cutting, shredding the skin off him a strip at a time. Bal's body had taken burns and blows before and hardly flinched. There was no taking this. Bal could only be in it.
+The maelstrom closed over him. He was in the heart of the elemental's twisting body, borne around and around in a roar of light, and the glass was in there with him. All the shards from the wall had been caught up in the spin, thousands of them, and they whirled with him and through him and past him and back. Each one cut. They cut his arms and his legs and his back and his face, and they kept on cutting, shredding him. Bal's body had taken burns and blows before and hardly flinched. There was no taking this. Bal could only be in it.
 
 And through it, with Amelia's blood in his eyes, he saw the core.
 
@@ -157,7 +153,7 @@ His strength was going, draining out of him in red. The blood was everywhere aro
 
 He called it back. All of it.
 
-He pulled it home to him out of the storm, every drop that had leaked out of every cut, and he wrapped it around the core, and he pressed. He pushed it in. He forced it into the magical creature with all the strength left in him, every last drop, and then he looked for more and forced that in too.
+He pulled it home to him out of the storm, every drop that had leaked out of every cut, and he wrapped it around the core, and he pressed. He pushed it in. He forced it into the magical creature with all the strength left in him, every last drop. When there was none left in him, he called on the two vials he had thrown at the start, and their blood rose from the sand and crossed the arena to him, and he forced that in too.
 
 It went on for an eternity.
 
@@ -169,7 +165,7 @@ He fell. He struck the sand on his side and stayed down, and somewhere far away 
 
 Something landed on the sand before him, softly.
 
-Slowly, he raised his head. Where Akora had been, a shape stood over him, as tall as before and turning as it had turned, though no light was left in it. No lightning anywhere. It was blood. A great slow column of swirling blood, deep red, folding endlessly on itself without a drop spilling onto the sand, and it waited before him, patient, as if summoned.
+Slowly, he raised his head. Where Akora had been, a shape stood over him, as tall as before and turning as it had turned, though no light was left in it. No lightning anywhere. It was blood. A great slow column of swirling blood, deep red, folding endlessly on itself without a drop spilling onto the sand, and it waited before him, as if summoned.
 
 A blood elemental. Bal had no other name for it.
 
@@ -179,7 +175,7 @@ Bal blinked up at it. He didn't understand any of it.
 
 The scream finally got through to him. It was Toma.
 
-Bal rolled onto his side and tried to stand, and his arms folded under him. He tried again. On the third try he got as far as his knees, and on the fourth he stood, swaying, with the arena tipping under him.
+Bal rolled onto his side and tried to stand, and his arms folded under him. He tried again. After a few more tries he got as far as his knees, and then, swaying, he was up, with the arena tipping under him.
 
 Toma was down on the sand, rocking, his head clutched in his hands.
 
@@ -189,23 +185,21 @@ By then, Toma's screams had worn down into crying, little whimpering sounds of p
 
 "What have you done to me?" Toma moaned.
 
-Bal stood above him, at a loss. What *had* he done? He checked behind himself. The blood creature hung there, turning. He faced Toma again, and Toma rocked.
+Bal was at a loss. What *had* he done? He checked behind himself. The blood creature hung there, turning. He faced Toma again, and Toma rocked.
 
 ---
 
-Amelia was beside him.
-
-No sound came, and no flash. The sand at his elbow was bare, and then her bare feet were on it, and a heartbeat behind her came Raizen, with Aren after him.
+Amelia flashed into being beside him, her bare feet on the sand at his elbow, and a heartbeat behind her came Raizen, with Aren after him.
 
 Raizen was furious. He was shaking with it, his orange monk's clothing trembling on him, and he flung out an arm and leveled a finger straight at Bal.
 
 "Do you see?" he demanded of Aren. "This is exactly why we locked Amelia away! Her followers are too dangerous!"
 
-Aren stood with his long white beard stirring in the breeze and studied Toma's huddled shape, and his old face was deeply troubled.
+Aren's long white beard stirred in the breeze, and Toma's huddled shape put a deep trouble in his old face.
 
-Toma took his hands away from his face.
+Toma lowered his hands from his face.
 
-Bal saw his palm then, and understood in a rush why the originators had come. On Toma's palm was a sygl, and it was the Blood.
+Then Bal understood in a rush why the originators had come. On Toma's palm was a sygl, and it was the Blood.
 
 When Bal converted Akora, he had converted the High Priest as well. Elemental and priest were life-bonded. Whatever entered the one entered the other.
 
@@ -213,29 +207,27 @@ Bal's mind reeled. It reached Aren and Raizen too. It was there in their faces, 
 
 Amelia wasn't troubled in the least. On the contrary, she was enjoying herself enormously. And why not? Technically, the war was over. Raizen did not have a High Priest anymore.
 
-"Raizen has a point," Aren said at last, raising his head to find Amelia. "Your last High Priest converting people was the source of our conflict. Now this one appears able to convert the unwilling. Can you not understand why we would find that troubling?"
-
-Amelia considered Bal for a moment before she gave Aren her answer.
+"Raizen has a point," Aren said at last. "Your last High Priest converting people was the source of our conflict. Now this one appears able to convert the unwilling. Can you not understand why we would find that troubling?"
 
 "I understand why it would trouble you, yes. And yet you want me to play your games, and then you get upset when they don't go your way. Bal never meant to convert Raizen's High Priest. He acted on instinct, against Toma's elemental. It was only because Toma and his elemental shared a life bond that he converted the High Priest along with it. You cannot penalize my High Priest for protecting himself."
 
-The gods could argue without him. He was having enough trouble staying upright. The breeze off the rim found every cut on him and stung it fresh, and blood ran down the backs of his legs in slow threads and dripped off his heels into the sand, where it sank and left little dark coins. His knees had opinions. Behind him the swirling thing kept up its low wet rushing, patient as a cart horse. Bal caught himself wondering, of all things, whether it needed feeding, and what on earth it would eat.
+The gods could argue without him. He was having enough trouble staying upright. The breeze off the rim found every cut on him and stung it fresh, and blood ran down the backs of his legs in slow threads and dripped off his heels into the sand, where it sank and left little dark coins. Behind him the swirling thing kept up its low wet rushing, patient as a cart horse. Bal caught himself wondering, of all things, whether it needed feeding, and what on earth it would eat.
 
 A fly had found Toma. It walked across the old man's knuckles, and Toma, who had stopped rocking, made no move to brush it off.
 
-Aren weighed her words. Then he turned to Bal.
+Aren weighed her words. Then he put his question to Bal.
 
 "Now that you are aware of your ability, what are your intentions?" Aren asked.
 
 Bal found the circle again. Both girls were still inside it, pressed against the shimmering blue barrier, as close to him as it would let them come.
 
-"I just want to live my life with my girls," he said, and brought his gaze back to Aren. "I'll protect them with everything I have. If that means removing a piece from your armies, then I will. But it isn't something I'm setting out to do."
+"I just want to live my life with my girls," he said. "I'll protect them with everything I have. If that means removing a piece from your armies, then I will. But it isn't something I'm setting out to do."
 
 "So you do not plan to use your newfound ability?"
 
 "Not if I don't have to. If somebody comes asking me to, I can compromise. I'll have Amelia let you know before I do it. That's as far as I'll go."
 
-Aren sought Amelia's agreement. She gave it with one lift of her hand, palm up, as if to say she had never wanted anything else. Aren breathed out through his beard. It would do.
+Amelia agreed at once, plainly wanting nothing else, and Aren accepted it.
 
 "That's it?" Raizen burst out. "She just gets away with taking my High Priest?"
 
@@ -249,7 +241,7 @@ Aren's fingers cracked together, one dry click.
 
 The girls vanished, and the circle was empty sand. Toma was gone with them.
 
-Bal lunged forward. Amelia's grip closed on his arm.
+Bal lunged forward. Amelia stopped him.
 
 "He only sent them home to the school," she whispered. "They're okay."
 
@@ -263,13 +255,13 @@ Amelia's mouth curved, slowly.
 
 "Oh, yes," she said.
 
-Raizen heard what was in her voice. So did Bal, the cruel excitement just under the words. He saw the rage drain from Raizen's face and fear come in to take its place.
+Raizen heard what was in her voice. So did Bal, the cruel excitement just under the words. The rage drained from Raizen's face, and fear came in to take its place.
 
 "You will confine yourself in the same temple I was locked away in," Amelia said. "There you will remain, for three thousand years, with no contact with the outside world. You will serve as a warning to anyone else who desires to come after me or mine."
 
 She said the last part straight at Aren.
 
-The two of them held each other's eyes. It lasted until Bal forgot to breathe.
+The two of them held each other's eyes.
 
 "Very well," Aren said.
 
@@ -279,7 +271,7 @@ Aren lifted his face to the sky.
 
 "You know the others will not like this," Aren said, "but I assume that's one reason you did it. I dare say it is not something they will forget. At least they will think twice about engaging you again." His beard stirred. "I must return."
 
-His gaze came around to Bal, mild and old and very tired.
+To Bal he sounded mild and old and very tired.
 
 "Try not to start another war," he said.
 
@@ -295,7 +287,7 @@ She rushed him. She caught him up in a hug that crushed his bones together, and 
 
 At last she stepped back.
 
-"I'm so proud of you!" Her face was alight. "I knew you could do it."
+"I'm so proud of you! I knew you could do it."
 
 "At least somebody did," Bal said. "I'm still not sure how I won."
 
@@ -309,10 +301,10 @@ Amelia circled the column of swirling blood, slowly, studying it. It turned for 
 
 She snapped her fingers at it, a bright, decided little crack, and the blood elemental was gone.
 
-Bal's brows rose in a question.
+Bal didn't have to ask.
 
 "I sent it to my domain," she said. "I'll study it when I get the chance."
 
-Then she stepped forward and laced her fingers through his, and the coliseum went away around them, all the empty seats and the hot sand and the scuffed place where Toma had knelt.
+Then she stepped forward and caught his hand, and the coliseum went away around them, all the empty seats and the hot sand and the scuffed place where Toma had knelt.
 
 The warmth reached his bare skin first, and the smell of woodsmoke, ahead of any sight at all. Somebody at home already had the fire roaring.
