@@ -68,6 +68,7 @@ None open. New questions go in `STATE.yaml` → `open_author_decisions`.
 ## Status (update as you go)
 - 2026-10-20: blueprint rebuilt to source order (30 chapters, ≈91,856 words after the outline audit).
 - 2026-10-21: FULL DRAFT COMPLETE — Ch.1–30 (92,812w); every chapter through the eval/edit loop; all gates clean book-wide.
-- **Next:** author read-through. Closing line is provisional. Optional: full-manuscript evaluation and continuity audit, then packaging.
+- 2026-10-21: full-manuscript evaluation + continuity audit, fix passes, expansion to 90,362w; eval 3 PASSES (Floor 8.5 / Avg 8.5 / Casual 8.5).
+- **Next:** author read-through. Closing line is provisional. Then packaging.
 - Gate tools voice_wear_check.py / tic_report.py read `manuscript/chapters/`; run them on a scratch copy laid out
   that way (the book uses flat `manuscript/chapter-NN.md`).

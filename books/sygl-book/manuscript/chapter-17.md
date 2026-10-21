@@ -192,4 +192,4 @@ It was well after curfew when they reached the castle, and every hall was quiet.
 
 Curfew had no hold on a Lead Mage.
 
-Bal walked Amelia home to the Blood dorm, and he walked slowly. The castle was dark around them. They did not talk. Back in the pass the girls had been closer behind him than he'd thought, and how much of it they had heard was anybody's guess.
+Bal walked Amelia home to the Blood dorm, and he walked slowly. The castle was dark around them. They did not talk. Back in the pass the girls had been closer behind him than he'd thought, and he had no way of knowing how much of it they had heard.
