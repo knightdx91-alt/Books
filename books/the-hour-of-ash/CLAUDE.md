@@ -85,7 +85,9 @@ manuscript, a session MUST:
    another session is mid-chapter: do nothing, say so in one line, and end the turn.
    Older than 2 hours = a dead session; take over.
 2. Write your own LOOP-LOCK (same format) and commit + push it before dispatching the writer.
-3. Refresh `updated=` (commit + push) every time a chapter is finalized.
+3. Refresh `updated=` (commit + push) after EVERY step of the chain (writer, each pass, each audit, each
+   evaluation, finalize), not only at finalize: one chapter's chain now runs longer than the 2-hour expiry,
+   and on 2026-10-21 a scheduled session took over a live lock mid-chapter because of exactly that.
 4. When the loop stops for any reason (book complete, blocked, author said stop), delete the
    lock, commit + push, and disable the scheduled task (`update_trigger enabled=false`) if the
    stop is final.
