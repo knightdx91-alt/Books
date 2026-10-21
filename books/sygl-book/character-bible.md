@@ -693,7 +693,7 @@ re-read and confirmed (or corrected against the page) the moment the character e
   her husband; takes Bal's bowl from him when he offers to wash it; delivers the Tempus-sealed letter (the
   knock, chapter end). Spent: the apron-drying, the palms-under-chin.
 
-#### ALERIC — Raizen's priest; the clever, ambitious one (Ch.24–25) *(Ch.24: glimpsed by Viridia only and REPORTED (scar through the right eye, no azure robes, early); Bal does not see him. First on page with Bal: Ch.25)*
+#### ALERIC — Raizen's priest; the clever, ambitious one (Ch.24–25) *(Ch.24: glimpsed by Viridia only and REPORTED (scar through the right eye, no azure robes, early); Bal does not see him. ON PAGE Ch.25 — confirmed by Writer: long white scar brow-to-cheek, the right eye under it clouded, the good eye narrows; courtesy to command; suspicion smooths after the toast)*
 - Attention / worldview: suspicion and advantage — who refuses a drink, who his High Priest will want to
   meet; most unpredictable of the three; comes early.
 - Vocabulary band: courtly priest-speak ("Let us celebrate Raizen's glory").
@@ -706,7 +706,7 @@ re-read and confirmed (or corrected against the page) the moment the character e
   Leon's curiosity.
 - Sample line: "I insist." (p.155; Ch.25)
 
-#### TITUS — Raizen's priest (Ch.25) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### TITUS — Raizen's priest (Ch.25) *(ON PAGE Ch.25 — confirmed by Writer: stout, red neck over the collar, drums the table, waves Bal off; gets louder and redder per cup)*
 - Attention / worldview: follows orders; impatient.
 - Syntax fingerprint: short impatient summons ("Come now. We've been waiting for you.").
 - Vocabulary band / Evasion: source silent — keep to function.
@@ -715,7 +715,7 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - DISTINCTNESS GUARANTEE: the priest who hurries, against Aleric's "We have all day."
 - Sample line: "Come now. We've been waiting for you." (p.155; Ch.25)
 
-#### LEON — Raizen's priest, the youngest (Ch.25) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### LEON — Raizen's priest, the youngest (Ch.25) *(ON PAGE Ch.25 — confirmed by Writer: youngest by ten years, soft hands, wispy beard; opens the cask and pours (source slip fixed); a goat story he cannot finish)*
 - Attention / worldview: curiosity about the Ventish brandy; does the pouring as the youngest.
 - Syntax fingerprint: eager, appreciative remarks ("Now that smells divine.").
 - Vocabulary band / Evasion: source silent — keep to function.
