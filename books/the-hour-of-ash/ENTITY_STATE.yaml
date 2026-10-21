@@ -2220,7 +2220,8 @@ meta:
       prose: "final page (md5 41dedf4d…): 'I heard about you at that wall yesterday with your nail in it, half that street saw you.' (p134); 'well again by daylight' (p2); 'Seven or eight. Three have tombs worth the walk.' / 'The third?' (p154; p156); the daughter named, 'The master's girl, Pacuvia,' (p2; p4; p27)"
       line: "ch-19:p2; ch-19:p4; ch-19:p27; ch-19:p134; ch-19:p154; ch-19:p156; character-bible.md"
       note: "documented lag, not a contradiction on the page: audit W-15 and the eval's 'Character-bible Ch.19 re-syncs (exact list)' hand the sync to the orchestrator, and per CLAUDE.md step 5 Pacuvia, now named and speaking in Ch.18-19, needs a card. This file quotes the page. It resolves when the bible's Ch.19 blocks carry the final-page text. Recorded, not judged"
-      flag: "UNRESOLVED"
+      resolution: "bible Ch.19 blocks synced to the final page (commit 3f938ff), incl. a new Pacuvia card"
+      flag: "RESOLVED"
   ch10_requested_checks:
     # Checks the orchestrator asked for in the Ch.10 run. Results only; nothing is resolved here.
     - check: "Kallia's age against Ariston's service and discharge"
