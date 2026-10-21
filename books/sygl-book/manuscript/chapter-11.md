@@ -94,7 +94,7 @@ The wind pushed her hair across her face, and she let it stay.
 
 "It took Peter twelve years to finish his temple," she said. "As a final dedication, he killed himself on my altar. He let his lifeblood run out so he could live with me forever." She was quiet for a breath. "All of his memories are still with me. From his first day to his last. What his family did to him hurt him very badly. And he was glad, at the end. Glad he'd been able to make something that would last long after he was gone."
 
-Twelve years. Bal could not think of anything he had kept at for twelve years. He had been four, twelve years ago.
+Twelve years. Bal could not think of anything he had kept at for twelve years. He had been six, twelve years ago.
 
 He thought of a boy alone in the mountains, sixteen, with a red palm, setting one stone on top of another for a god who would never come to see it. And then the god herself, standing on a cold hill, carrying the whole of him around inside her, birth to death, with nobody to tell.
 
@@ -118,7 +118,7 @@ The Blood army had to be trained, and someone had to think up tricks to help it 
 
 Bal let that sink in.
 
-"You do know I'm only sixteen, right?" he said. "Do you really think grown men are going to listen to a sixteen-year-old about war?"
+"You do know I'm only eighteen, right?" he said. "Do you really think grown men are going to listen to an eighteen-year-old about war?"
 
 Amelia's eyes went hard.
 

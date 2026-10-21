@@ -225,7 +225,7 @@ also really pretty … I was looking myself"; the mechanics (only the High Pries
 mingle, send his blood in until the sygl on the palm changes); she admits that was the other reason
 for the title; "I don't mind doing these things for you"; the class schedule (Familiar, Rune working,
 lunch, Warfare, Crafting); the evening of getting to know each other; **Amelia's origin**, told by
-her: turned at sixteen, left on a road; killing the farmer who found her in her first blood-hunger;
+her: turned at eighteen (aged up for NA), left on a road; killing the farmer who found her in her first blood-hunger;
 the threshold to immortality by consuming magical energy; teleported to a stone temple among the
 others; Aren's explanation; followers' palms and the energy that sustains her; staying out of their
 wars until she wiped out half a battlefield; why they fear her (she will not play their game);
@@ -295,7 +295,7 @@ toys."**; the hidden temple and **Peter** (lone blood sygl in a Terra stone-work
 sixteen, twelve years laying every stone, the final dedication on her altar so he could live with her
 forever); offerings of blood carry recent memories to her; all of Peter's are still with her; Bal
 hugs her; she is grateful he treats her as a friend; his role (High Priests lead under the
-originators; she cannot interfere, so everything goes through Bal); "You do know I'm only sixteen
+originators; she cannot interfere, so everything goes through Bal); "You do know I'm only eighteen
 right?" / "I expect them to listen to their High Priest. If they do not it will be handled." and Bal's
 note to resolve things before she kills anyone; a week of moving followers and supplies; teleport to
 the canyon temple (one pass, rooms for hundreds, two High Priest quarters); she has promoted two

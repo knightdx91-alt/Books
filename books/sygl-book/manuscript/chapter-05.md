@@ -36,7 +36,7 @@ Bal swallowed the muffin in a hurry and shook. Verin had an easy smile and kind 
 
 Verin looked across the desk. "Sarah, I'll go ahead and set the portal up outside. The rest of the children are in their rooms?"
 
-Bal blinked. In sixteen years it had not occurred to him that Mrs. Brown had a first name.
+Bal blinked. In eighteen years it had not occurred to him that Mrs. Brown had a first name.
 
 Mrs. Brown thanked him.
 

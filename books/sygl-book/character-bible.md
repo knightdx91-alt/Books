@@ -113,7 +113,7 @@ Distinguish characters on **four axes** first:
 ## PRINCIPALS
 
 #### BALTHAZAAR "BAL" NORHEART — POV (close third, past tense); Amelia's High Priest; Blood Lead Mage; leader of Sygls Best
-- **Source facts:** sixteen; mother died giving birth; raised at Saint Andre's; born with a blood sygl,
+- **Source facts:** eighteen (aged up from the source's sixteen, author ruling 2026-10-21, NA); mother died giving birth; raised at Saint Andre's; born with a blood sygl,
   hand removed in infancy; could always do some magic, weaker without a sygl; taught himself from
   Fredrick's books (`Sygldry Year 2`); bought a rune engraving kit with kitchen wages; skilled and
   precise with runes from the start; **high pain tolerance** (stated plainly, never as a refrain);
@@ -128,7 +128,7 @@ Distinguish characters on **four axes** first:
   can I do to help?" He reads the gods' histories and comes away seeing followers as pieces on a board
   (Ch.9). His irrelevant thoughts are domestic and concrete (the brown apple, the sock on the ceiling,
   the porridge); they are HIS and must not bleed onto other characters.
-- **Vocabulary band:** a bright, plain-spoken American sixteen-year-old raised in an institution;
+- **Vocabulary band:** a bright, plain-spoken American eighteen-year-old raised in an institution;
   book-learned terms for magic and runes, kitchen-and-dormitory words for everything else. No ornament.
 - **Syntax fingerprint:** short, plain, friendly statements and direct practical questions ("What can I
   do to help?", "How exactly am I supposed to do that?"). Jokes under pressure, usually at his own
@@ -152,7 +152,7 @@ Distinguish characters on **four axes** first:
 #### AMELIA — the Vampire Goddess; originator of the Blood sygl; Bal's familiar ("Amelia Norheart" on her Dawn card)
 - **Source facts:** looks a few years older than Bal; pale, black hair to mid-back, red eyes, long black
   dress, ruby teardrop earrings; familiar brand on her forehead, shown or hidden at will; turned at
-  sixteen, left on a road, killed the farmer who found her while blood-mad; became the newest originator
+  eighteen (source: sixteen; aged up for NA), left on a road, killed the farmer who found her while blood-mad; became the newest originator
   by consuming magical energy; once wiped out half a battlefield; feared because she won't play the
   others' games; trusted them, betrayed, imprisoned almost 3,000 years by eight high priests' deaths;
   carries Peter's memories through his offerings; explodes into bats when furious (once, Ch.2 — spent);

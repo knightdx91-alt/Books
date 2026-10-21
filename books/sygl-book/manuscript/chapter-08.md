@@ -100,7 +100,7 @@ When he ran out, he asked about her.
 
 "How old were you?" he said. "When you got turned."
 
-"Sixteen." Amelia rested her cheek on her knees and looked at him sideways. "Same as you."
+"Eighteen." Amelia rested her cheek on her knees and looked at him sideways. "Same as you."
 
 "Who did it?"
 
@@ -110,11 +110,11 @@ When he ran out, he asked about her.
 
 "He was a farmer. I killed him."
 
-She said it plainly, the same as she had said sixteen. Then she waited to see what he would do with it.
+She said it plainly, the same as she had said eighteen. Then she waited to see what he would do with it.
 
 "I was delirious," she said. "I needed blood, and he was there, and I didn't know what I'd done until afterward."
 
-Bal let that sit. Sixteen, alone on a road, not knowing what she was. Then he asked the question that was actually in front of him.
+Bal let that sit. Eighteen, alone on a road, not knowing what she was. Then he asked the question that was actually in front of him.
 
 "Is it still like that? The hunger?"
 
@@ -136,7 +136,7 @@ And she laughed, short and surprised, as if the word had tripped her on its way 
 
 Her finger rested on the sygl.
 
-For sixteen years there had been no palm there at all. Only a stump that itched whenever he looked at her roof.
+For eighteen years there had been no palm there at all. Only a stump that itched whenever he looked at her roof.
 
 He didn't say any of that. Amelia took her hand back.
 
