@@ -328,6 +328,6 @@ A bolt from a crossbow went through the side of his head.
 
 He dropped. He fell sideways into the grass and lay still.
 
-His head rolled sideways. It was all of him that would move. Across the field, blood soldiers were coming, running toward him, a lot of them, shouting something he could not make out.
+Bal managed to roll his head toward the canyon. It was all of him that would move. Across the field, blood soldiers were coming, running toward him, a lot of them, shouting something he could not make out.
 
 The dark took him.
