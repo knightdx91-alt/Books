@@ -2402,3 +2402,80 @@ Open contradictions: 33 → 37.
 - The manuscript, character-bible.md and STATE.yaml were not touched.
 
 **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+
+## 2026-10-21: UPDATE (re-sync of chapter 16 to the FINAL page after the CH16-7 line, AUTHOR-CP3-5, polish cycle 1 and finalize F1-F8)
+
+- **Input:** `git diff 53b1092 HEAD -- manuscript/chapters/chapter-16.md`. 53b1092 is the Ch.16 UPDATE, which was anchored to the cf65bc0 page. Four commits come after it:
+  - 6c5a31f: the CH16-7 line, "He lives in Syria now.";
+  - f53fc80: AUTHOR-CP3-5, "At the games for Titus's triumph,". The same commit already marked CH16-1 RESOLVED in this file;
+  - 7d0cdb8: polish cycle 1, 51 tested eval swaps;
+  - 8f4d343: finalize F1-F8.
+  - The final page has md5 ed7509889b1c617596f2f0413112058e. No other chapter changed.
+- **Renumbered:** the page goes from 283 paragraphs to 281.
+  - Old p38 and old p39 are merged into new p38 ("…when at last he chose anything. Everybody who climbs that stair…").
+  - Old p126 is cut ("On the gallery the old man coughed and shifted under his blanket.").
+  - Map: old p1..p37 keep their numbers; old p40..p125 = new p39..p124; old p127..p283 = new p125..p281.
+  - Breaks are now after p45, p69, p119, p129, p182 and p225, so the sections are C1 p1-p45, D1 p46-p69, C2 p70-p119, D2 p120-p129, C3 p130-p182, D3 p183-p225 and C4 p226-p281.
+  - About 1,037 explicit ch-16:pYY refs and about 275 bare refs on Ch.16 lines were remapped. That includes the Ch.16 contradiction fields, `knowledge_absent_ch16` and the `ch16_requested_checks` rows.
+  - The three refs to old p126 were removed with the fact they carried.
+  - These keep cf65bc0 numbers: the header comments, the `revalidation_needed` history, the cf65bc0 re-anchor row, and the fields labelled as the cf65bc0 page (CH16-1's pre-CP3-5 `prose` and `repair_note`, the CH16-7 old quote, and the proconsul's wife's "old p75").
+- **Method:**
+  - Every quoted segment in the file was checked by script for text that is on the cf65bc0 page but not on the final page. 85 lines were flagged. After false hits from other chapters were set aside (Ch.10's "For the sheet", Ch.13's "She does that.", Ch.14's "his blanket"), every Ch.16 hit was corrected or labelled as cut.
+  - Every on-page quote was then checked against the paragraph its line cites: 0 new mismatches. The 8 pre-existing hits are unchanged (Ch.15 run-log lines, and quotes whose second cite holds the text).
+- **CH16-7 RESOLVED by the page.**
+  - "A woman in Delphi, to her son. He lives in Syria now." (p80) agrees with the discharge and the land below Emesa (ch-10:p28; ch-10:p35; ch-10:p46). The entry gets `resolution`, `resolved_from_conflict` and `resolved_date`.
+  - Polish cycle 1 also changed "in more than two years" to "in more than three years" (p86). Counted with Kallia's "Two and a half" (ch-10:p34, read to late winter AD 71), the silence is about three and a quarter years by winter 71-72, so the new figure also agrees. This is recorded in the note, not ruled on.
+  - Updated: ariston.ch16_note, the Syria row, and the kallias-son coda.
+- **CH16-1 confirmed RESOLVED (AUTHOR-CP3-5).**
+  - p226 reads "At the games for Titus's triumph,". Neither "Isthmia" nor "Isthmian" occurs in chapter-16.md. A `recheck_final_page` and a `resolved_date` were added.
+  - Every row that called the AD 72 festival "the Isthmia" now names it as the games for Titus's triumph. That covers Plautia, Celer, Marcus, the proconsul, Mara's waypoint and relationship, Felix's and Mara's knowledge_absent, Myrrhine's knowledge, the purse, the writing case, the manumission record, corinth-record-office, plot_threads, timeline_events, Mara's Ch.17 location row and CH16-8's foundation §10 quote.
+  - `knowledge_index.isthmia_plan` is renamed `triumph_games_plan`, and the three rows that pointed to it are updated.
+  - `locations.isthmia` gets a new canonical_name and aliases (the regular Isthmia of 71 and 73; the one-off games of 72). Its AD 72 fact now follows foundation §10 and outline Ch.17 as patched. The slug is kept so that existing references still resolve.
+  - Timeline row 17 follows the patched outline dateline.
+  - "Isthmia" survives only in these places: the regular games of AD 71 (Ch.15's boys' race "last time", as AUTHOR-CP3-5 rules), CH16-1's own pre-decision record, and the header and run-log history.
+- **New contradiction, CH16-11 (low, UNRESOLVED).** foundation §9 (l.358) still reads "the **Isthmian Games** fell in spring 72." CH16-1's resolution says "foundation §9/§10 patched", but f53fc80 touched only §10 and the set-piece list at l.50. Logged, not overwritten; foundation.md was not touched.
+- **The eval's ENTITY items (chapter-16-eval.md, cascade list and bookkeeping):**
+  - **The flashlight:** Felix has now seen it (`seen_by_ch16`, his knowledge row). Its batteries are near the end. `batteries_ch16` and Valens's knowledge now quote "How much is left in it?" / "Not much." / "Don't spend it on mules." (p208-p210). "Some." is cut. F1 cut Felix's "What's that?" and "What is it?", so his questions open on "Where's the flame?".
+  - **The suit:** "two years from this spring" (p274), unchanged and confirmed.
+  - **Valens's post at the games** (the baker's oven, the back door or the horse fair) is still unsettled (p247-p255). Ch.17 decides it.
+  - **Forward:** `plautias-bracelet.ch18_forward` records audit I-29: the Seiko and the bracelet will both be on the left wrist when the watch comes back in Ch.18.
+- **Quotes corrected to the page:**
+  - "slow, with the verb held back for the end"; "Mine came out stiff.";
+  - "A sound broke from Plautia";
+  - "with her hands folded, and her face was wet";
+  - "a rope-maker's wife" (was fuller's), in 5 rows;
+  - "or the gray-haired one, and that both of them are fond of money";
+  - "go into my writing case among my letters", in 5 rows;
+  - "half of it shot under the chest";
+  - "She's done it before.", in 3 rows;
+  - "Shut your eyes,";
+  - "Can you feel it there when you lift your arm?";
+  - "He laughed then." (F6 cut "He could not stop");
+  - "an unlit coast", in 4 rows;
+  - "the line of Lechaion's moles" and the citadel "with a wall running along its crest" (F7; "the first sun on its top" is cut);
+  - "Two strokes more along the sill." and "She hung the broom back on its nail beside the fire, and went to the jar for water." (F2);
+  - "The sheet was to come from Euthydikos's people";
+  - "a hole, with a fringe of broken threads";
+  - the finder's "a square of dark, its shutter ajar";
+  - "The court grew light";
+  - "had burned yellow." (the evening cold is cut);
+  - the escape is now "when he rides in from the Isthmus after the boys' race" (p246). "On the day after the boys' race" is gone. This fits outline Ch.17's run for Lechaion, so it is not a contradiction.
+- **Cut from the page, so marked rather than deleted (merge rule 4):**
+  - **characters.proconsuls-wife:** her only line ("has coughed since the Kalends …") is cut. She gets `page_status` and `last_confirmed: ch-16 (cf65bc0 page, old p75)`. Mara's knowledge row is kept with `page_status`, and the Corinth people fact and the timeline's "Kalends" note drop it.
+  - **record-office-clerk-gray:** "who does not" (drink) is cut, so his drinking is no longer stated.
+  - **kallias-old-lodger-ch16:** his dawn cough on the gallery is cut, leaving him "Overhead" (p52). The lodger's cloak on the rail and the ridge-tile dawn sequence are cut from kallias-house.
+  - **Valens:** "with his back to the wall by the jamb" is cut. He stands "just inside the door" (p228).
+  - **Myrrhine:** "She had followed that much." is cut. So is the p6 sighting of her holding a cloak over Plautia; the arrival's maid (p225) is not named.
+  - **Kallia:** "and did not go near the stair" is cut.
+  - **The porch:** the porter's stool and the fuller's boy's steaming vat are cut.
+  - **Plautia:** the narrator's "never the same thing twice" and "She gave his name its weight …" are cut, and both traits are reworded to what the page still shows.
+- **Contradictions:** none was overwritten.
+  - Open contradictions: 37 at 53b1092 → 36. CH16-1 was closed by f53fc80, CH16-7 is closed here, and CH16-11 is opened here.
+  - No knowledge_gap.
+- **Not done here (per instruction):** the manuscript, character-bible.md, STATE.yaml and foundation.md were not touched. The eval's bible syncs (items 1-39) and the CH16-5 bible sync stay with the orchestrator.
+- **Meta:**
+  - a second Ch.16 row in `meta.revalidation_needed` (RESOLVED);
+  - a new `ch16_requested_checks` row for this re-sync;
+  - Ch.16 part of `paragraph_rule` rewritten;
+  - `last_updated` (2026-10-21), `last_updated_by`, `mode`, `source` and the header comment extended.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass.
