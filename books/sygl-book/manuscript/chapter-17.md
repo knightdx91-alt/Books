@@ -172,7 +172,7 @@ Bal ran through it again in his own head. They left the pass and went on along t
 
 ---
 
-They had decided to walk straight back instead of camping a second night. It was an uneventful walk, though his head ached most of the way. They came through Whitehaven in the late afternoon, and at its town limit Viridia touched Hopper's collar, and Hopper shrank back down to fit the streets.
+They had decided to walk straight back instead of camping a second night. It was an uneventful walk, though his head ached most of the way. Twice before Whitehaven he felt in his pocket for Thad's stone. It was cool and dark each time. Somewhere out there Raizen's men were drilling for a war, and all the stone could tell him was that nobody had sent for him yet. They came through Whitehaven in the late afternoon, and at its town limit Viridia touched Hopper's collar, and Hopper shrank back down to fit the streets.
 
 It was full dark when they reached New Spring. They went straight up the square to the guild hall to turn in the flowers.
 

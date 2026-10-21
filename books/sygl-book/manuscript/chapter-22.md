@@ -188,6 +188,18 @@ She slid her eyes sideways at him. He kept quiet.
 
 "Yeah," she said. "Didn't figure you would. So that leaves us doing it ourselves. And Amelia can't come. The others would see it as interfering, so she'll have to stay behind."
 
+Lora pushed the map away an inch.
+
+"And then there's me. What am I, in all this? To Viridia, I mean."
+
+"Her companion," Bal said. "A friend from home. Somebody she'd travel with."
+
+"Then I'm a lady too, and ladies get introduced. The first priest who sits down with us asks whose daughter I am and where my father's land is, and I don't have an answer that lasts past the soup. Make me her maid. Nobody asks a maid anything. A maid can go out alone to the shops and the market, and nobody bothers to remember her face."
+
+Bal had pictured the three of them riding in as near enough equals. It was plain now how fast that would come apart at a supper table.
+
+"Maid it is," he told her.
+
 Viridia tipped her chair onto its back legs and stretched her long tan arms up over her head until her shoulders popped.
 
 "You know Amelia'll hate this," she said. "If we get caught, there'd be nothing she could do. Well." She brought her arms down. "Nothing she *should* do. Honestly, when it comes to Bal, I think she'd take on every originator in one go."

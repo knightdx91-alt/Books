@@ -44,7 +44,7 @@ Toma's mouth soured.
 
 "Agreed," he said, short and quick.
 
-Toma hadn't expected Bal to know the rules. Bal had Amelia to thank for it. Deep in the second night on her roof, both of them sweating, she had made him sit and walked him through each rule till he had them by heart. So whatever happened now, both girls would live. For Bal, that was enough.
+Toma hadn't expected Bal to know the rules. Bal had Amelia to thank for it. Deep in the second night on her roof, both of them sweating, she had made him sit and walked him through each rule till he had them by heart. But she had stood at his shoulder through that whole exchange with her mouth shut, because she had to. She could teach him the rules. She could not argue them for him. That part had been his, and Toma had taken it. So whatever happened now, both girls would live. For Bal, that was enough.
 
 With the terms agreed, Toma crossed to one end of the arena, and Bal walked toward the other. Amelia came with him partway.
 
@@ -150,7 +150,13 @@ His strength was going, draining out of him in red. The blood was everywhere aro
 
 He called it back. All of it.
 
-He pulled it home to him out of the storm, every drop that had leaked out of every cut, and he wrapped it around the core, and he pressed. He pushed it in. He forced it into the creature with all the strength he had, every drop he could spare. When he could spare no more, he called on the two vials he had thrown at the start, and their blood rose from the sand and crossed the arena to him, and he forced that in too.
+He pulled it home to him out of the storm, every drop that had leaked out of every cut, and he wrapped it around the core, and he pressed.
+
+The core pulled at it.
+
+He knew that pull. He had felt it on Amelia's roof, in the cut on her arm, and he had torn his blood free of it without knowing what it was. He understood it no better here, and he was past saving anything. He let it pull, and he went with it.
+
+He pushed it in. He forced it into the creature with all the strength he had, every drop he could spare. When he could spare no more, he called on the two vials he had thrown at the start, and their blood rose from the sand and crossed the arena to him, and he forced that in too.
 
 It lasted past all counting.
 

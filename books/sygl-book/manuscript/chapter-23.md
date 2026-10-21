@@ -8,7 +8,7 @@ Amelia stayed out on the road while they rode off. When Bal twisted around in th
 
 "Everyone else is beneath you," Lora said. "Start there. It's how most nobles feel, so it's how you have to feel. Everyone."
 
-They had been riding an hour, three abreast where the road allowed it. Viridia sat in the middle in the clothes the priests had found for her, a gray riding dress with a high collar and more buttons than any one person needed. She had unfastened two of them before the canyon had dropped behind them.
+They had been riding an hour, three abreast where the road allowed it. Viridia sat in the middle in the clothes the priests had found for her, a gray riding dress with a high collar and more buttons than any one person needed. She had unfastened two of them before the canyon had dropped behind them. Under all those buttons she had on the green shirt, with every one of his runes in it charged. Lora had hers on under her maid's dress. He hadn't had to ask either of them.
 
 "Everyone," she said. "The guards."
 
@@ -44,7 +44,15 @@ The plan was to stay clear of every town until Londra. Most of the fighting was 
 
 When he judged that Lora had had long enough, Bal told them to quicken the pace, and he kicked his own horse into a gallop.
 
-They held it until the horses had had enough. Then they slowed to a walk to let them blow, and then they galloped again. The country rolled past in long yellow stretches of grass, with a farm far off now and then and a line of trees along a stream. It was hot and the cheese went soft. At night they made no fire.
+They held it until the horses had had enough. Then they slowed to a walk to let them blow, and then they galloped again. The country rolled past in long yellow stretches of grass, with a farm far off now and then and a line of trees along a stream. It was hot and the cheese went soft.
+
+The first night, Bal had an armful of deadwood together before Viridia saw what he was doing.
+
+"Put that down," she said. "Out here? Anybody could see that smoke from a day off. Back home we always knew when the tinker was coming, because he cooked his supper every night on the road in. Half the village would be waiting for him at the well." She tore off a piece of biscuit. "He thought we were just friendly."
+
+Bal turned to look. The grass ran flat and yellow to the edge of the sky all around them, and a single farm showed from miles away. He let the wood fall where he stood.
+
+After that they made no fire at all.
 
 ---
 
@@ -89,6 +97,10 @@ They reached Londra on the fifth day.
 It sat behind a high stone wall, with a stone gate set in the middle of it. A guard stood at either side of the gate, waving people through. There was a short line of carts and walkers, and the dust they raised hung in the heat.
 
 Lora and Bal dropped back together and let Viridia take the lead. Bal rounded his shoulders and tried to take up less of the road. He hoped he looked enough like a servant. He had seen plenty of servants. He had never paid attention to how they stood.
+
+Lora had. "Sit up," she said, low, without turning her head. "You look like you stole that horse and you're sorry about it. A servant from a good house rides straight and looks at nothing. He isn't ashamed. He's bored."
+
+Bal straightened in the saddle. He picked out a stone in the wall above the guards' heads and gave it his whole attention, and did his best to be bored by it.
 
 The guard on the left put out an arm to stop them. He was a big man, bigger around the middle than in the arms, but he held a heavy black truncheon in one hand, and from his grip on it he had used it before.
 

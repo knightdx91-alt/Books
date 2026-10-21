@@ -250,4 +250,12 @@ Then the gate was behind them, and the road ran out ahead into the long yellow c
 
 They kept to a walk until the walls had dropped behind a rise.
 
+Lora let her horse drift back beside the black.
+
+"I spent that whole hour at my table going through the book in my head," she said, low. "Every page. Hunting for an antidote I already knew wasn't in it." She was watching Viridia's back up ahead. "The cup never crossed my mind."
+
+She left it at that. From Lora, that said plenty.
+
+Anything he said back would have sounded like bragging. He rode beside her and kept it to himself, and it stayed warm in him for miles.
+
 Then Viridia turned in the saddle, and Bal heeled the black, and the girls' horses surged after his into a gallop. The horses stretched out. The road went pounding away under them, mile after mile of open grass with precious little cover between here and Amelia's border, and every stride put more ground between the three of them and the soon-to-be-dead priests of the Three Boars.

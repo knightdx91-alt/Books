@@ -82,6 +82,8 @@ Bal checked the sun, and then his map.
 
 "At least four more hours," he said. "Maybe five." He paid for his own pie.
 
+The pie man took the coins off Bal's left palm by their edges, careful as somebody lifting a coal off a hearth, and wiped his fingers down his apron afterward. Nobody else at the stall saw it. Bal decided not to mention it with Amelia standing right there.
+
 He had offered, back at the first stall, to pay for all of them. Nobody would let him. Lora had said "No" before he got to the end of the sentence, and Viridia had said it was bad enough he carried everything.
 
 The pies were hot and the crust was the flaky kind that ended up on everybody's shirt. Hopper sat at Amelia's feet and caught the flakes. They walked the length of Whitehaven while they ate, looking in the shop windows, and then set out again.

@@ -238,6 +238,12 @@ The Three Boars was big. Three stories of gray stone, with a neat stable built o
 
 "That's a lot of rooms." Viridia had stopped on the opposite side of the street, as though she were only waiting for a cart to pass. "The inn in my village had six. And that wasn't counting the one the innkeeper and his wife slept in."
 
+Bal had half a mind to cross over and stroll down the side of the place, past the stable, to see the back half the priests would take.
+
+"Don't," Viridia said, still facing the street. "A lady's manservant doesn't wander off to poke around somebody else's stable while she stands in the road. Somebody would ask him his business. Then they'd ask me." She tipped her chin at the traffic. "We're waiting for a cart. Watch for the cart."
+
+Bal watched for the cart.
+
 The front doors stood wide open. Laughter rolled out of them now and then, the loud afternoon kind. Two stable boys in rough clothes were lounging against the stable wall in the heat. One of them spotted Viridia. He drove his elbow into his friend's ribs and pointed straight at her, with no shame at all.
 
 Viridia gave them the smallest wave, a lady's wave, two fingers raised and lowered. Then she turned for home.

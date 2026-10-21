@@ -40,6 +40,8 @@ He saw what it cost her to hear that. Her thumb stopped moving on his knuckles. 
 
 The quiet went on, and he let it.
 
+Amelia could have had them home before supper. She could have managed it in less time than it had taken him to drink the water. He had told her no, and if she asked again tomorrow he would tell her no again, and every part of him that was not busy with the war wanted the word back. He turned his face to the curtains so she would not have to watch him want it.
+
 ---
 
 Someone knocked on the door, hard.
@@ -196,7 +198,21 @@ Over the two days that followed, he trained almost without stopping.
 
 He never had to rest. Amelia's blood kept him going, through the days and through both nights, and he did not miss sleep. They fought it out on her temple roof, high above the canyon, under the sun and later under the stars, on flat stone gone warm in the day and cold at night. Amelia held herself back as far as she could, so that he could practice against her.
 
-He had ideas to try. New ones. Some of them came from things he had seen in her memories, and the best person in the world to try them on was Amelia herself, because nothing he did could hurt her. He tried them, and they failed, and he tried them again, and she told him exactly how badly each one had gone. She made none of it sound better than it was. He'd have hated it if she had. Sometime in the first night, one idea nearly worked. She called across the roof for him to do it again, and it fell apart on him, and they kept at it till it held. On the second evening the stone up there was scuffed in long pale streaks where his bare heels had skidded.
+He had ideas to try. New ones. Some of them came from things he had seen in her memories, and the best person in the world to try them on was Amelia herself, because nothing he did could hurt her. He tried them, and they failed, and he tried them again, and she told him exactly how badly each one had gone. She made none of it sound better than it was. He'd have hated it if she had. Sometime in the first night, one idea nearly worked. She called across the roof for him to do it again, and it fell apart on him, and they kept at it till it held.
+
+Once, with the sun straight overhead, his whip got through her guard. She might have let it. The edge opened her forearm a hand's length above the wrist, and for one breath his blood lay in the cut with hers.
+
+It pulled.
+
+His blood leaned into hers. It wanted in. Every inch of the whip wanted to close around what it touched and keep it, and the wanting ran back up the lash to his hand before he had decided a thing.
+
+He tore the whip loose and called it home. His palm shut on it.
+
+Amelia's arm had closed already. She shook it out and told him she had seen that swing coming a mile off.
+
+He didn't ask her about the rest. He couldn't have shaped the question yet. He went at her again, and for what was left of that day he kept the edge of the whip off her skin.
+
+On the second evening the stone up there was scuffed in long pale streaks where his bare heels had skidded.
 
 Then the morning of the duel came, and he was ready to face Toma.
 

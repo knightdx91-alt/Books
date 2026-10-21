@@ -20,7 +20,7 @@ Bal remembered what Lora had said about the boys in her town, the tournament, th
 
 Lora had reached the part with the earthquake. Viridia asked which came first, the earthquake or the floods, and Lora said that was the right question, and Viridia was so busy being right that she walked into a puddle.
 
-The last mile was uphill. Bal's feet hurt and the meat rolls were miles behind him and nobody said much on that stretch. Near the top Lora remembered one more thing about the earthquake, and they were off again, clear to the castle gate and in under it and up the stairs.
+The last mile was uphill. Bal's feet hurt and the meat rolls were miles behind him and nobody said much on that stretch. On the climb his mind wandered off to yesterday's hill without asking him, to the cold wind and the gray tents and the soldiers wheeling in their blocks below. It would not sit beside grandmothers in the plaster and a girl who had walked into a puddle for being right. The two refused to belong to the same week, and they were in it anyway. Near the top Lora remembered one more thing about the earthquake, and they were off again, clear to the castle gate and in under it and up the stairs.
 
 It was nearly two hours after leaving New Spring that they came down the long gallery to the gray pedestal where it ended.
 

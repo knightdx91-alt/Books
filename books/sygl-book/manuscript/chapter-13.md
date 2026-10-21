@@ -192,7 +192,7 @@ He went to find the history section.
 
 Lora and Viridia drifted off together toward the back, talking low. Bal took his time. After fifteen minutes he had four books, big ones, one each on the battles of Aren's, Kenmei's, Naisura's and Raizen's armies. On his way to the counter he passed a shelf of alchemy, and a book on it nearly as thick as it was wide, bound in green cloth with brass corners. He thought of Lora, and took it down.
 
-At the counter he paid for all five. The alchemy book went straight into his backpack before anyone saw. He carried the four histories stacked in his arms and went to find the girls.
+At the counter he paid for all five. The stout woman turned Raizen's history over to find the price and told her ledger that he was the third person this month to want that one. For years before that, nobody had asked. Bal answered that it was for school, which was nearly true, and she wrote it down. The alchemy book went straight into his backpack before anyone saw. He carried the four histories stacked in his arms and went to find the girls.
 
 ---
 

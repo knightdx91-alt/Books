@@ -138,6 +138,8 @@ At the end of her exercise, Lora noticed him. She studied his feet, which were w
 
 "I, um. I've had practice," she said. "My father trained me. He was with Kenmei's army when he was younger."
 
+Bal had read about that army that same morning, in a book by the library window: a command tent sealed in stone and sunk, and everybody left outside it finished soon after. He didn't ask her which war her father had marched in, or how many of the men beside him had come home again. You didn't ask that of someone whose name you had learned a minute ago.
+
 "That's amazing," Bal said, and meant it. "Would you mind partnering with me?"
 
 Lora blinked at him.

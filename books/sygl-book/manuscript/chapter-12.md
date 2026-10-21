@@ -14,7 +14,7 @@ He'd brought paper this time, a folded sheet in his pocket. He wrote out eggs, t
 
 Viridia eyed it. Then the window, where the sky had gone orange, then his plate again. She let it go.
 
-The bench on his side was empty from end to end. Yesterday Amelia had appeared from nowhere in the place at his elbow and eaten off his plate. Tonight she was back in the dorm, or off in the mountains moving people into a canyon, and the place at his elbow stayed a plain stretch of wood.
+The bench on his side was empty from end to end. Yesterday Amelia had appeared from nowhere in the place at his elbow and eaten off his plate. Tonight she was back in the dorm, or off in the mountains moving people into a canyon, and the place at his elbow stayed a plain stretch of wood. Whoever she was moving tonight had his own mark on their palms and a crate or two of what they owned, and had left home because Amelia had a feeling about Raizen and did not mean to wait and learn whether she was right.
 
 Viridia let him get started on his eggs first. Then she jerked her chin at Lora's table.
 

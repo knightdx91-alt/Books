@@ -14,7 +14,7 @@ The card hadn't moved.
 
 Every teacher in the castle had come to one conclusion overnight. Yesterday had been a free day, and today was going to pay for it.
 
-Mr. Porter set the class an essay on the duties of a familiar before he had sat down, and watched Bal the whole time they wrote it. Mr. Winters filled his chalkboard, wiped it, and filled it again. In Warfare the instructor ran them through forms in the sand until nobody had any breath left to spend on talking. Lora, three places down the line, watched Bal with the point of her rapier dead level from the first form to the last. Even in Crafting the only sounds were files on metal and somebody's stool creaking.
+Mr. Porter set the class an essay on the duties of a familiar before he had sat down, and watched Bal the whole time they wrote it. At the bell he bent and said something low to Huginn, and the raven left by the open top of the window without its cheese and flew off over the forest, steady and straight, until Bal lost it against the trees. Mr. Winters filled his chalkboard, wiped it, and filled it again. In Warfare the instructor ran them through forms in the sand until nobody had any breath left to spend on talking. Lora, three places down the line, watched Bal with the point of her rapier dead level from the first form to the last. Even in Crafting the only sounds were files on metal and somebody's stool creaking.
 
 Nobody chatted. Nobody got the chance. Bal passed Viridia once in a corridor between classes, and she pulled a face at him over an armload of books, and that was all either of them said to the other until dinner.
 

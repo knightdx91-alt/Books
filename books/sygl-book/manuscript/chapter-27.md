@@ -62,7 +62,7 @@ If anything it grew. It sat between his shoulder blades through the noon heat an
 
 Somewhere along the way the girls had stopped talking. Bal missed the moment. They did not seem to feel what he felt. They rode with their hands tighter on the reins anyway, because the feeling was his and they trusted him.
 
-The shadows of the three horses stretched out long and thin on the road beside them. It would be close to six. Back in Londra, three priests who had drunk Ventish brandy at lunch yesterday would be dying about now, if Lora's book was right.
+The shadows of the three horses stretched out long and thin on the road beside them. It would be close to six. Back in Londra, three priests who had drunk Ventish brandy at lunch yesterday would be dying about now, if Lora's book was right. The plan had been his. He had found it over a map at Xavier's table, while Amelia sat next door with a book so that no one could accuse her of helping. Lora had brewed the poison and Viridia had bet her life on a cup of brandy, and he had walked them both deep into Raizen's country to do it.
 
 The boom came from behind them.
 
