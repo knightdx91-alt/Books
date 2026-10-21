@@ -2338,7 +2338,8 @@ meta:
       line: "ch-20:p30; ch-20:p39; ch-20:p185; ch-20:p192; ch-20:p238; ch-20:p254; ch-20:p276; character-bible.md"
       note: "documented lag, not a contradiction on the page: the audit's I-09 and C-03/W-02/W-05/W-07/W-11 cascades and the eval's 'Character-bible Ch.20 re-sync (orchestrator; apply with the finalize set)' hand the sync to the orchestrator. This file quotes the page. It resolves when the bible's Ch.20 blocks carry the final-page text. Recorded, not judged"
       working_tree_note: "at this run's read (2026-10-21 09:28 UTC) the working tree held an UNCOMMITTED bible sync by another pass (git diff: +499/-110), which already carries the final page, e.g. '\"This winter gone. Good rivets.\" (W-04; CUT: \"Two winters back.\")' (l.3343), '\"Make it tight. My oil lives in it.\"' with 'Make it hold. I cook in it.' under CUT (l.3350-l.3352), F10's painter (l.3389), 'No payment beat (C4c). CUT: \"Dropped it on the furnace stair,\"' (l.4163) and the fig day's 'CUT: \"Today,\" …' (l.1237). Not resolved here because the committed bible still carries the draft; this row resolves when that sync is committed"
-      flag: "UNRESOLVED"
+      resolution: "the Ch.20 bible sync was committed (a076655); the bible now quotes the final page"
+      flag: "RESOLVED"
   ch10_requested_checks:
     # Checks the orchestrator asked for in the Ch.10 run. Results only; nothing is resolved here.
     - check: "Kallia's age against Ariston's service and discharge"
