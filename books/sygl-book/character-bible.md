@@ -501,6 +501,7 @@ re-read and confirmed (or corrected against the page) the moment the character e
 
 #### THAD MOREN — one of Amelia's two first priests; the cost-counter of the war (Ch.11, 18, 22, 27–28) *(on page Ch.11 — confirmed)*
 - **Ch.11 as written:** introduces himself first; carries the practical speech (the paired rune stone: "If we have to reach you, we'll signal you with that…"); tosses Bal the stone. When Bal tells them Amelia did not abandon them, his hands go flat on the table (once; not a recurring gesture). Speaks plainly, no flourish. Physical description as the source.
+- **Ch.27 as written:** seen only, from the hilltop, with Xavier at his shoulder behind the Blood lines, each deflecting the storm mages' bolts with a great blood whip (source). No lines.
 - Attention / worldview: the cost — casualties, exhaustion, what the army can't hold (reads the reports).
 - Vocabulary band: soldier-priest's plain speech.
 - Syntax fingerprint: blunt summaries ("We've got a war is what we've got."); reads figures off a paper
@@ -725,7 +726,8 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - DISTINCTNESS GUARANTEE: the priest who wants to taste it, against Titus, who wants it over with.
 - Sample line: "Now that smells divine." (p.157; Ch.25)
 
-#### BRAN — the headman's son Viridia was promised to (Ch.27, reported only) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### BRAN — the headman's son Viridia was promised to (Ch.27, reported only) *(Ch.27 — confirmed by Writer: REPORTED only, through Viridia on the road; never on page, no lines of his own)*
+- **Ch.27 as written:** promised to her the day she was born (he was two); smirked every time she said she didn't like him; "he would have me eventually"; tried to get his father to make her stay (six months from the wedding); his father refused; "Bran was not happy."
 - Attention / worldview: entitlement — "he would have me eventually."
 - Vocabulary band / Syntax: never speaks on the page; quoted only by Viridia.
 - Evasion: source silent — keep to function.
@@ -734,7 +736,8 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - DISTINCTNESS GUARANTEE: the boy who claimed her without asking, against Bal, who asks every time.
 - Sample line: none (reported only).
 
-#### JAZEN GREY — centurion of the Blood army (Ch.27) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### JAZEN GREY — centurion of the Blood army (Ch.27) *(ON PAGE Ch.27 — confirmed by Writer)*
+- **Ch.27 as written:** guarding the evacuation of blood sygls from a border crossroads village; Bal knows him by sight from the temple. Hears boots, spins, stares; crosses the square fast with his voice kept down; "High Priest"; gives his own horse at once, no breath between; jerks his chin at the evacuees and their cart; asks Bal to tell Commander Fern they've had no trouble; runs a hand down Barda's neck and gives it a fond, heavy pat (his gesture only; Bal does not pat Barda); "Ol' Barda's never failed me yet" (source line, polished); returns Bal's raised hand. No physical description beyond the role (source silent).
 - Attention / worldview: duty and the mission at hand; gives his own horse without a second thought.
 - Vocabulary band: soldier's plain, respectful ("High Priest").
 - Syntax fingerprint: quiet, practical, a message to carry; affectionate about his horse.
@@ -745,7 +748,7 @@ re-read and confirmed (or corrected against the page) the moment the character e
   briefings.
 - Sample line: "Ol' Barda hasn't let me down yet. He'll get you there safely and quickly." (p.167; Ch.27)
 
-#### BARDA — Jazen Grey's warhorse (Ch.27) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### BARDA — Jazen Grey's warhorse (Ch.27) *(ON PAGE Ch.27 — confirmed by Writer: the biggest horse Bal has stood next to; deep-chested, heavy-legged, head the size of a small barrel; white as new snow, coat shining; stands steady under Bal's weight; gallop/trot all night; keeps running south while Bal dozes; left to graze on the hill above the battle)*
 - Physicality: large white warhorse, powerful legs, big head; gallop and trot through the night.
   Other axes: none (non-speaking).
 - Verbal tic: none — distinguished by function.

@@ -278,9 +278,9 @@ chapters are finalized.
 | Spell / effect | Who | Source uses | Used in chapters |
 | --- | --- | --- | --- |
 | "Levimotorcorpus" (levitation) / "Locos cantis" (end it) | Bal | ~1 each | 1 |
-| Blood whip (from the RIGHT palm, which splits open on its own, no knife, and closes after; can be made razor-sharp, spiked, used to grab, lift, throw) | Bal | ~20 mentions | 20 (first: strike, wrist-wrap, fling), 21 (neck, lift, close) |
+| Blood whip (from the RIGHT palm, which splits open on its own, no knife, and closes after; can be made razor-sharp, spiked, used to grab, lift, throw) | Bal | ~20 mentions | 20 (first: strike, wrist-wrap, fling), 21 (neck, lift, close), 27 (spiked, edged, in battle; Thad/Xavier's whips seen) |
 | "Dart of blood in the eye" (Bal only imagines it; never cast) | Bal | 1 (hypothetical) | 20 |
-| Blood dagger (either hand, whichever is free; the palm opens on its own and closes after) | Bal | ~2 | 25 (right, carving the rune) |
+| Blood dagger (either hand, whichever is free; the palm opens on its own and closes after) | Bal | ~2 | 25 (right, carving the rune), 27 (left, in battle) |
 | Conversion (palm to palm, his blood sent in) | Bal (High Priest) | conversions + Toma | — |
 | Familiar bond / summon (push magyk into the sygl) | Bal / Amelia | several | 3, 7, 9 |
 | Blood vials thrown in a duel; the chalice of Amelia's blood | Bal | climax | — |
