@@ -60,3 +60,9 @@ tic_report --gate and voice_wear_check (strict) all clean. **Word count after: 8
 4. Ch.3 statue: **A** — after "She stood up and brushed off her knees where she had knelt on the stone." add " Behind her the sunlight had crept onto the statue, and the face it lit was hers." (+16)
 5. Ch.12 "That honestly is all she told me": **A** — leave (author's line; Bal's kind fib).
 6. Ch.20 right palm: **A** — after "a clean line he never had to cut," make it "...a clean line he never had to cut. Blood magic had no need of the sygl hand." (+8)
+7. Word-count additions: **all 5** — Ch.5 farewell line; Ch.18 healed cuts; Ch.22 Xavier's directions ("It's on North Street, just past the turning for the Three Boars."); Ch.23 Hopper stays behind with Amelia; Ch.22 Bal's pitch and the priests' objection as dialogue.
+
+All decisions are in `fixsets/author-decisions.py` (applied last by `apply_all.py`). Pending 14.112 is superseded by D2.
+"I'm not like" (author's script line in Ch.7, Ch.8 and Ch.13) is allowlisted in tools/tic_report.py.
+Held back three Ch.2-3 trims (CB12, CB21, CB23) to stay above 90k.
+**Full set tested together: 261 edits, 0 misses, all four gates clean, 90,009 words.** Ready to apply.

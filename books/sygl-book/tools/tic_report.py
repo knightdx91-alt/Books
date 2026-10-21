@@ -35,6 +35,7 @@ MOTIFS = [
 # World terms / proper names that legitimately recur (place names, titles, institutions). NOT
 # motifs and NOT tics — exempt from the recurrence gate. Keep to nouns the story cannot avoid.
 WORLD_TERMS = [
+    "i'm not like",  # author's script dialogue in three places (Ch.7 Viridia, Ch.8 Amelia, Ch.13 Bal; author ruling 2026-10-21)
     # e.g. "the citadel", "the high council" — nouns the story cannot avoid; NOT motifs, NOT tics.
     "the sygldry school", "the blood sygl", "blood bond", "saint andre's", "high priest",
     # Author ruling 2026-10-20: "Master" is Amelia's title for Bal as his familiar, not a tic.

@@ -50,7 +50,7 @@ EDITS = [
 ("14.096a",14,"Bal sat down beside Amelia.","Bal dropped the pack on the rug and sat beside Amelia."),
 ("14.096b",14,"Bal eased the pack off onto the rug and opened it.","Bal pulled the pack to him and opened it."),
 ("14.100",14,"That left one thing in the bottom of the bag","That left one gift in the bottom of the bag"),
-("14.112",14,"Nothing spilled.","No tears spilled."),
+# ("14.112",14,"Nothing spilled.","No tears spilled."),  # superseded by author decision D2
 ("14.129",14,"had promised it could move the earth, briefly, and warned that it cost a lot to recharge.","had promised it could shift and shape the ground for a short while, and warned that it needed a costly recharge after each use."),
 ("14.145",14,"He had worn the corner smooth on the road, without meaning to,","He had rubbed at the corner on the walk home, without meaning to,"),
 ("14.175",14,"would have taken him for stabbed.","would have thought him stabbed."),
