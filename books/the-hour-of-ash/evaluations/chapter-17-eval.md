@@ -697,3 +697,369 @@ What holds it below the gate is small and countable. The chapter keeps reaching 
 - **R6 re-verbs the chapter's stopping sentence.** I judge the image ("as though somebody else had put it out") to be the stopping power, and Ch.14's verbs ("hung", "drew … in") to be the reuse. A reader who prizes "and drew it in" as the cadence would hold R6 as optional; then Prose rests on the other 27 R-items.
 - **The restores (X1–X4, R5b, about 110 words) are new narration written by the evaluator** to keep the word count equal, as the brief asks. Each passed every gate and my scans. They are offered as work orders: the editor may substitute their own, provided the count still nets to zero.
 - **Characters 8.5 → 9.0 and Prose 8.0 → 8.5 are forecasts, not scores.** Originality, Theme, Emotion and Immersion at 9.0, Casual 9.0 and CVI-Launch 9.7 are one-chapter judgments by the system that wrote the book.
+
+---
+---
+
+# Re-evaluation after cycle 1
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Date:** 2026-10-21
+**Text evaluated:** `manuscript/chapters/chapter-17.md` after polish cycle 1, sha256 `e0b21e0d…`, md5 `95c1e145…`. That is byte-identical to the fixed copy tested in cycle 0, so **all 56 swaps landed exactly as tested.** 6,935 words (shape_check), 6,947 (style), 6,951 (show_tell).
+**Read against:** the book's CLAUDE.md; STATE.yaml guardrails, AUTHOR-CP3-3 / CP3-5 / END-1; voice-dna §0–§8; character-bible.md at-risk blocks after Ch.14, 15, 16 and 17 in full (earlier blocks grepped by frame for every new string), plus the CELER, ONESIMUS, MYRRHINE, PLAUTIA, VALENS, MARA and FELIX Ch.17 blocks and the Ch.17 walk-on note; outline `## Chapter 17` and Ledger row 17; the cycle-0 evaluation above.
+*(l.N = line in the current cycle-1 page.)*
+
+## Measured
+- `bash books/the-hour-of-ash/tools/check_chapter.sh 17`: **all clean.** style (simile 1.2/1k, em-dash 0, foreshadow 0); grammar 0; rhythm 0; show/tell no flags (dialogue 32.8%); voice-wear strict clean; tic gate clean (and-chains 2/9, credential 0, pivots 0, "So" 0; gesture classes all under cap); echo 0; command echo none; spoken-line echoes none; metaphor 1.3 fig/1k, median 12.
+- `tic_report.py --echoes 17`: none / none / none.
+- `shape_check --strict`: `17 6935 3 33 12 short-punch quiet`, CLEAN.
+- **Before and after scans.** I ran my own 4–7-gram scan against Ch.1–16 and all voice-bank samples (stop-word-bounded strings included), the content 3-gram scan, the ≤5-word spoken-line scan and the in-chapter repeat scan, on the cycle-0 page and on this page, and diffed the results:
+  - **gone:** 22 cross-chapter hits, among them sample-09's "said it to the", Ch.7's "round three walls", Ch.12's "the dust of the", Ch.15's "it was slow and", Ch.16's "with a vineyard and" and "had gone in to", and Ch.14's "a line in a";
+  - **new:** three cross-chapter 4-grams ("the sun and the", incidental; "to the end of (the)", see V2) and **one new in-chapter double** ("walked in under", from X1).
+
+## Did the swaps introduce anything new? (the brief's five checks)
+Each item was found by reading the page and grepping the frame across Ch.1–16. The gates cannot see any of them.
+
+| # | Check | Finding | Where | Fix |
+|---|---|---|---|---|
+| V1 | **No added explanation** | **Two.** L3 added a causal tail: "its horses green along their bellies **where the gilding had long since worn away**" (l.465). That is a firm #11 (5 firm, 0.72/1k; still under the commercial cap) and also Ch.9's "had long since". R3 added a gloss that explains the joke: "Felix had trudged off after the dun **with his questions unanswered**" (l.277). "Ask a sailor" already makes the point. | l.465, l.277 | F8, F5 |
+| V2 | **No repeat moved sideways** | **Five.** (a) X1's "she had walked in under it" (l.35) doubles l.303's "He had walked in under the planks". (b) C1 put "took the leaf" twice in adjacent sentences (l.203: Mara, then Valens). (c) R25's "the full sun of the forum" (l.389) trades the in-chapter "white" for a phrase Ch.5 ("in the full sun") and Ch.13 ("in full sun") already used. (d) R27a's "the two **he** had failed to sell" (l.277) makes **Felix** the seller, but the seller is Valens (Ch.15 l.352, "What's not wanted I'll sell at the Isthmus"; Ch.16 l.120, "He sold two"). (e) X3's "under the ribs" sits two sentences after "hammering my ribs" (l.547). **Judged, not changed:** R19's "to the end of the witnesses" against Ch.2's "every leaf to the end of the book". "to the end of the" is plain English already in four chapters, and the sentence is an anchor. | l.35, 203, 389, 277, 547 | F1, F3, F7, F4, F11 |
+| V3 | **No echo of an earlier chapter** (incl. whole spoken lines) | `--echoes 17`: none; spoken-line echoes none; ≤5-word spoken scan: stock words only. **Two by frame.** (a) X2's "**The young one's** table" (l.15) brings back the Ch.16 plan's words ("it will be the young one, who drinks"; "We must hope for the young one"). That is a third book-wide use, a plan-to-execution echo under cycle 0's own R11 rule, and with the wine ring it points back. (b) **Already there before the polish, and missed in cycle 0:** "None of them **so much as glanced** at me" (l.511) repeats Ch.7's bystander frame ("never so much as raised her head", Ch.7 l.144), inside the very latrine scene that R4 separated from Ch.7. | l.15, l.511 | F2, F12 |
+| V4 | **No new triad** | **One relocated:** R5b moved "the city walls **and** the long road **and** the trees" into the forum walk (l.465). **One left standing:** R22 trimmed the sausage-man's words, but his cry is still three exclamations ("Lucanian…! …say so! Everybody else!", l.487), straight after the coin-seller's three (l.485). That is two exclamation triads back to back, against cycle 0's own hawker WATCH. | l.465, l.487 | F6, F13 |
+| V5 | **The ~110 restored words read as Mara's and lift nothing** | **Voice: yes, all of them.** X2's wine ring dried into the wood is her eye. X4's paving "hot underfoot, even through my sandals" is her body. In the latrine, Fortuna "with her rudder and her horn of plenty" and the talk ringing "off the plaster" are her eye for painted and made things. X3 stays at level 2: plain verbs, a stitch, the crown "half bald" and fingers "sticky", and the carter's joke reported from outside her head, not an aside. **Lifts: X2 (V3a) and X1 (V2a). One logic slip:** X3's "**The road back to the city gate was empty.**" (l.547) comes right after "We overtook the cart" and "The carter called after us", so the road behind them is not empty. **One muddled referent:** R28's "Between my shoulders and all down my back … the skin prickled **from there** to the first broad step" (l.477). "from there" reads as the shoulders, not the arch. | l.15, 35, 477, 547 | F2, F1, F10, F9 |
+
+**Every cycle-0 target confirmed cleared on the page:**
+- the voice-bank lifts (sample-01 tray, sample-09 ×2, sample-12 animal): 0;
+- Ch.7's latrine inventory, Ch.12's introduction and Ch.14's hand: gone;
+- the Ch.15/16 frames: 0;
+- SPENT devices and resting channels: 0. The seat and the hands are not used as body rebels: "I lowered myself onto the step" is a plain act;
+- Valens's wipe: gone;
+- "at her back": 1, Celer's own;
+- walk-on word-doubling: 0;
+- "Lady." is the clerk's alone; "Mistress," is the seamed man's alone;
+- "Onesimus" in narration after he is named: 5, and "the clerk" 22, all before he is named;
+- L1, L2 and L4 hold. L1's question is now asked twice, at l.105 (unanswered: "You read, lady.") and at l.155, as Plautia's stall. That reads as escalation, not contradiction.
+- **Strict anadiplosis: 1** (wax → wax). The paving sentence is loose: its repeat does not open on the previous clause's last word.
+
+## Finalize fixes: F1–F13 (+F14 header), tested together
+The script is `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/ch17-finalize-fixes.py`.
+- It **refuses any input that is not the cycle-1 page** (md5 `95c1e145…`), asserts exactly one match per string, and aborts without writing on a miss.
+- The harness is `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/ch17-finalize-swaprun.sh`. It swaps the fixed copy into the manuscript path, runs the gates from /home/user/Books, and **always restores the cycle-1 page**. Restored and verified after every run: sha256 `e0b21e0d…`, md5 `95c1e145…`. **I did not edit the manuscript.**
+
+Apply from /home/user/Books:
+```
+python3 /tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/ch17-finalize-fixes.py \
+  books/the-hour-of-ash/manuscript/chapters/chapter-17.md \
+  books/the-hour-of-ash/manuscript/chapters/chapter-17.md
+```
+Expected result: sha256 `53c34a5b…`, md5 `f3015976…`.
+
+| # | Location | Now | → Exact replacement | Why |
+|---|---|---|---|---|
+| F1 | l.35 (X1) | `and she had walked in under it.` | `and she had stepped under it to the door.` | V2a. The in-chapter double; Plautia and Valens both still go under, and Celer will not. "had gone straight" tripped the echo gate (Ch.3), so it is not used. |
+| F2 | l.15 (X2) | `The young one's table, across the room, stood bare,` | `The second table, across the room, stood bare,` | V3a. The plan's words; the wine ring stays unpointed. |
+| F3 | l.203 (C1) | `He took the leaf by its edges, a hand to each,` | `He took it by its edges, a hand to each,` | V2b ("took it from me" is Ch.16's, so it is not used). |
+| F4 | l.277 (R27a) | `and the two he had failed to sell,` | `and the two that had found no buyer,` | V2d. Continuity: Valens is the seller. |
+| F5 | l.277 (R3) | `and Felix had trudged off after the dun with his questions unanswered.` | `and Felix had trudged off after the dun.` | V1. The joke explained ("still asking" is Ch.11's, so it is not used). |
+| F6 | l.465 (R5b) | `Past the city walls and the long road and the trees, not a sound reached us` | `Past the city walls and the long road, not a sound reached us` | V4. The triad. |
+| F7 | l.389 (R25) | `through the full sun of the forum,` | `through the glare of the forum,` | V2c. Ch.5 / Ch.13. |
+| F8 | l.465 (L3) | `with a bronze chariot on top of it, its horses green along their bellies where the gilding had long since worn away.` | `with a gilded bronze chariot on top of it, its horses green along their bellies.` | V1. #11 back to 4 firm (0.58/1k). The fact is still right: gilded bronze greens where the gilt has gone, and the reader infers it. |
+| F9 | l.477 (R28) | `Between my shoulders and all down my back, under Myrrhine's dress, the skin prickled from there to the first broad step, and then the street took us.` | `The skin between my shoulders prickled under Myrrhine's dress until the first broad step, and then the street took us.` | V5. The muddled "from there". "as far as" was tried and added an as…as comparator (metaphor asas 0 → 1), so it is not used. |
+| F10 | l.547 (X3) | `The road back to the city gate was empty.` | `Behind the cart the road to the city gate was empty.` | V5. Logic: the overtaken cart is on that road. |
+| F11 | l.547 (X3) | `A stitch caught me under the ribs, and I ran through it.` | `A stitch came, and I ran through it.` | V2e ("in the side" is Ch.2/5's, so it is not used). |
+| F12 | l.511 | `None of them so much as glanced at me.` | `None of them gave me a glance.` | V3b. Ch.7's frame, in Ch.7's set piece ("without a glance" would break the CLOSED without-looking construction). |
+| F13 | l.487 | `The athletes aren't let have them, their trainers say so! Everybody else!` | `The athletes aren't let have them, their trainers say so. Everybody else!` | V4. No exclamation triad back to back; the joke is kept. |
+| F14 | header | lines 4–7 describe pre-polish pages | adds one comment line recording the cycle-1 + finalize state and counts | Bookkeeping (cycle 0 asked for it; not done). |
+
+**What the tested run produced** (all 14 applied together; finalize copy sha256 `53c34a5b…`, md5 `f3015976…`):
+
+| Measure | Cycle-1 page | Finalize copy |
+|---|---|---|
+| Words (shape / style / show_tell / `wc -w`) | 6,935 / 6,947 / 6,951 / 7,654 | **6,909 / 6,921 / 6,925 / 7,682** (≥ 6,900 ✓; inside the 6,900–7,900 range) |
+| Dialogue (show_tell / shape) | 32.8% / 33 | **33.0% / 33** (30–40 ✓) |
+| Median (shape / metaphor) | 12 / 12 | **12 / 12** (low gear ✓) |
+| Breaks / signatures | 3 / `short-punch` → `quiet` | unchanged |
+| First sentence / closing paragraph / bare "No." | | **byte-identical** to the cycle-1 page and to the cycle-0 original (checked by script) |
+| `check_chapter.sh 17` | all clean | **all clean** (simile 1.2/1k, em-dash 0, foreshadow 0; grammar 0; rhythm 0; voice-wear strict clean; tic gate clean; **echo 0**; command echo none; spoken-line echoes none; metaphor 1.3/1k, asas 0) |
+| `shape_check --strict` | CLEAN | **CLEAN** (`17 6909 3 33 12 short-punch quiet`) |
+| My cross-chapter scan against the cycle-1 page | | **0 new hits** |
+| My in-chapter repeat scan | "walked in under" ×2, "took the leaf" ×2 | **both gone**; nothing new |
+| #11 firm | 5 (0.72/1k) | **4 (0.58/1k)** |
+| Paragraph-final negations (narration) | 7 (1.01/1k) | 7 (1.01/1k) |
+| Indefinites in narration | 15 | 15 (WATCH) |
+| Body-part rulers | 4 ("finger thick", "finger's breadth", "arm's length", "by a head") | 4 (at the WATCH cap; cycle 0's "3" missed "by a head") |
+
+**Do not use** (each tripped a gate or a scan on my first try): "had gone straight" (echo, Ch.3); "as far as the first broad step" (asas comparator); "took it from me" (Ch.16); "still asking" (Ch.11); "in the side" (Ch.2, 5); "down through the" (Ch.3); "without a glance" (CLOSED without-looking construction).
+
+---
+
+## Genesis Score (re-evaluation; on the cycle-1 page, with F1–F13 the required finalize)
+
+| Dimension | Cycle 0 | **Cycle 1** | Evidence | Holds / caps |
+|---|---|---|---|---|
+| Originality | 9.0 | **9.0** | Unchanged and untouched: the dowry read through figs over the sawing; "My woman has dropped her pen. She is clumsy"; the clerk as the hider ("His hand found the wrong year's hole at the first try", l.175); the shade line; "lighter by two boards" (l.389). | Not 9.5: the noise-cover and look-out mechanics are still genre-standard. The latrine is now a *kind* of place revisited, not Ch.7's room (R4). |
+| Theme | 9.0 | **9.0** | "That's out of the emperor's year." / "It's mine." (l.239–241); "Papers are no more than that." (l.365); "You were never in." (l.395); "an entry in a magistrate's book" (R15) still carries the paper-against-paper question. | "It belongs with whoever knows what it is for" still leans toward a maxim. |
+| Characters | 8.5 | **9.0** (+0.5) | **C1–C12 on the page:** Valens's hands without the SPENT wipe ("a hand to each, and his thumbs left flour on the wood of the frame", l.203); literal speech ("They'll take his money too, if he offers it.", l.231); his own read of a man ("He'll talk at her till she agrees to something.", l.285); no porch protocol ("stood a pace from her, between her and the forum", l.303); Onesimus named in narration ("Onesimus took another bite of his bread.", l.367); one grievance speech (l.253); the superstition anecdote not pre-describing the shade line ("sent a new litter back to its maker", l.173); "watched the litter out of the forum" (l.413). Mara chaos 4/4, inhabited (bladder, the botched knot, the storeroom sentence, the mended strap). Cover-the-name PASS for all five speakers. | No cap. Gate gesture classes clean. F4 is required (the pronoun makes Felix the seller). Not 9.5: S2 still leans on "the clerk" ×7 in fifteen lines before his name is known; that is functional, and pronouns would collide with Valens. |
+| **Prose & Voice** | 8.0 | **8.5** (+0.5) | **The law cluster that held it is cleared on the page (56 cited changes):** the voice-bank lifts, the three rebuilt set pieces and introductions, nine Ch.15/16 carry-overs, the SPENT devices and resting channels, the anaphora and anadiplosis. **Stopping sentence intact** (l.353): "and he looked at his hand there, in the bar of shade, as though somebody else had put it out, and hid it in his toga." The new verb "hid" adds a beat of shame without explaining it. **Underlines all kept:** "Close to, he was older than his laughing had been" (l.307); "The ladder said what he thought of that." (l.55); "His head had not moved." (l.137); "like a bench somebody had left in his way" (l.393); "My name, in his mouth." (l.345). **Ugly sentences:** "It was done well or it was a botch, and it was a botch." (l.149); "I finished, and it took an age, and then it was over." (l.517). **Voice under pressure:** level 1 at Celer ("I write for the lady."); level 2 in the run, now longer and plainer ("A stitch came, and I ran through it." after F11). | **No cap.** #11 is 5 firm (0.72/1k) on this page and 4 after F8, under the commercial cap. **Held at 8.5, not higher, because cycle 1 brought in a small cluster of its own (V1–V5: 9 items, plus 2 old ones found now).** None reaches a cap, and F1–F13 clears every one, tested. **F1–F13 are required before commit**, as Ch.16's F1–F8 were. |
+| Pacing | 8.5 | **8.5** | Ledger row hit on every field (In medias res; `short-punch` 7 words → `quiet` 13 words; 3 breaks; dialogue 33%; 6,909 words against 7,400 (−6.6%, in range); median 12, low gear). R5's cut lets "To Rome." run straight into "Celer smiled at him."; R23 and R24 trim the clocks; X3 lengthens the unfinished run. **Value shift:** hidden (−) → leaf (+) → seen (−) → trusted (+) → named (−) → he leaves blind (+) → watched (−) → running, a sail going up (−). | Not 9.0: S1's procedural run (tags, boards, cord, l.59–91, 125–147) is unchanged, and S4 still parades three vendors before the run. |
+| Emotion | 9.0 | **9.0** | The anchor lands: "With the same stylus he dug out a fig and ate it, and began." (l.111) through to "He dug a fig out of the cake with his thumb" (l.403). The surprise holds: the escape turns on boredom ("Not today, legate.", "You were never in."). **Body rebels:** the bladder (l.83 → l.517), and the skin prickling between the shoulders at the arch (a fresh channel, R28/F9). Grief by inventory: the honey "too hot" (l.333). The quiet gut punch: "Three of them are dead." (l.215). | Not 9.5: the parting with Plautia stays implicit ("her curtain stayed down"). R1 trades the collapse for a plain act ("I lowered myself onto the step"), and the moment after the clerk sees them is now quieter in the body. That is right under the rest schedule, but it is a small loss. |
+| Immersion (Dim 7) | 9.0 | **9.0** | L3/F8: "a gilded bronze chariot …, its horses green along their bellies" (fact corrected); Fortuna "with her rudder and her horn of plenty" over the latrine door (attested); "a folding table of new silver"; Judaea Capta "still sharp from the die"; R7 fixes the gray/brown dust. | Held: the S1 wax-book mechanics remain encyclopedic (#15 minor). |
+| **FLOOR** | 8.0 | **8.5** | Prose & Voice, Pacing | |
+| **AVERAGE** | 8.71 | **8.86** | (9.0 + 9.0 + 9.0 + 8.5 + 8.5 + 9.0 + 9.0) / 7 = 62.0 / 7 | |
+
+**Per-cycle rule:** no dimension moves more than +0.5. Prose and Characters each move exactly +0.5, on 56 cited changes; the other five are unchanged. Cross-check: Emotion did not fall after R1/R28 changed two body beats; the bladder and the new prickle carry the body-rebel test.
+
+**Casual Reader: 9.0** (unchanged). **CVI-Launch (CVI-L): 9.7** (unchanged; no anchor touched). **CVI-Legacy: 6.9** (provisional; unchanged).
+
+## Anti-AI Scan (20 patterns; cycle-1 page → after F1–F13; commercial band)
+| # | Pattern | Result | Count / density | Notes |
+|---|---|---|---|---|
+| 1 | Forced symmetry | FOUND moderate | 4 (0.58) | bladder (designed); face/case; "He's not opened it … He'll not open it."; forgotten / remember. "nobody had mended / nobody kept" is gone (R27b). **−0.25** |
+| 2 | Empty poetic vocabulary | Clear | 0 | |
+| 3 | Automatic rule of three | FOUND moderate | 7 → 5 (1.01 → 0.72) | Left after F6/F13: the emptied city (l.35), "small and pale and naked", "young, enormous, oiled", the coin-seller's cry, "salt and weed and pitch". Characterful, not counted: the crowd list; the dowry; the three dead witnesses. **−0.25** (cycle 0 forecast minor; the sausage triad and the relocated walls/road/trees kept it moderate until F6/F13). |
+| 4 | Em dashes | Clear | 0 | |
+| 5 | Empty metaphors | Clear | 0 | |
+| 6 | Dramatic "And" openings | Clear | narration 0 | Speech rejoinders 4 ("And the book?", "And the paper in Rome,", "And this will be Mara.", "And then?"), at the WATCH. |
+| 7 | Pseudo-philosophical closings | Clear | | Sections end on acts. |
+| 8 | Excessive parallelism | FOUND minor | 3 (0.43) | "Then he goes home and eats. Then he wants his book."; the digging (designed); the vendor paragraph openings. **−0.125** |
+| 9 | Overly smooth transitions | FOUND minor | | The backfill sutures, by design. **−0.125** |
+| 10 | Described emotions | Clear | 0 | |
+| 11 | Explanatory extension | FOUND moderate, under the cap | 5 → **4 firm** (0.72 → 0.58) | F8 removes the gilding tail. The keepers: "the only disguise … fooled nobody who had ever seen a baker"; the shade-line extension; "That meant nothing; the steps were all people."; the strips "so the two faces would not touch". **−0.25. Cap: PASS.** |
+| 12 | Binary negation opener | Clear | 0 | |
+| 13 | Precision flex | Clear (edge) | rulers 4 | At the WATCH cap of 4. |
+| 14 | Emotional control demonstration | Clear | | Control fails, and it is funny. |
+| 15 | Authoritative description | FOUND minor | | The wax-book mechanics; the scaffold lashings. The latrine inventory is gone. **−0.125** |
+| 16 | Philosophical asides | FOUND minor | 2–3 (speech) | **−0.125** |
+| 17 | Clean dialogue | FOUND minor | | The S4 walk Q&A. **−0.125** |
+| 18 | Thematic echo chamber | Clear | | New texture that means nothing: the wine ring, Fortuna, the carter, the half-bald crown. |
+| 19 | Graduated reveal | Clear | | In medias res. |
+| 20 | Emotional temperature report | Clear | | Body beats land on peaks, not at intervals. |
+
+**8/20 found (#1, #3, #8, #9, #11, #15, #16, #17). Total −1.375. Band: clean** (commercial 0–8), at its edge. Cycle 0 was 9/20 at −1.625 (watch). **#11 hard check: PASS.**
+
+## The book's own laws (re-checked on the page)
+- **NO FORESHADOWING: PASS** (gate 0; by reading 0). The new narration (X1–X4, R5b, R28) is all in the scene.
+- **AUTHOR-CP3-5: PASS.** "Isthmia" 0, "Isthmian" 0.
+- **AUTHOR-CP3-3: PASS.**
+- **AUTHOR-END-1: PASS.** No Ch.15 door, camera or "wait outside" line.
+- **No tics:** catchphrases 0; gate gesture classes clean; said-to-[non-listener] 1 ("His answer went to the cake.", the card's own fingerprint, at the cap); walk-on doubling 0; anadiplosis 1 (strict).
+- **Memory triggered by the scene: PASS.** The storeroom sentence is still the only 1998 memory.
+- **Outline non-negotiables: all still on the page.**
+- **Celer distinct from Plautia: PASS.**
+
+## Character chaos (Mara)
+Irrelevant thought (the mended strap, l.243) ✓ · cognitive distortion (the botch, l.149) ✓ · triggered memory (the storeroom, l.61) ✓ · failed emotional management (the bladder; the prickle at the arch) ✓ · voice under pressure, levels 1–2 ✓. **4/4, inhabited.** Every secondary character still has an independent moment, and Onesimus's grievance now runs as one speech, as his card says.
+
+## The Tomorrow Test
+**Unchanged, and untouched by the cycle.** The bored clerk digs figs out of a pressed cake with his stylus while he reads the dowry aloud, and behind him the cord parts and "His head had not moved." Then the villain's hand stops at the edge of a scaffold's shadow, and "the book went with him, lighter by two boards".
+- **Type:** BOTH.
+- **Verdict:** ANCHOR EXISTS (strong; +0.5 CVI).
+
+## Reader reports (cycle 1)
+- **Devourer:** S4 moves faster. The held-silence paragraph is gone, the hawkers are shorter, and the run is longer and still unfinished. They still slow at S1's tags and boards. **Would they stop?** No.
+- **Critic:**
+  - **Underlines all kept;** the shade line now ends on "hid it in his toga".
+  - Cycle 0's six disappointments are gone (the latrine, the knees, the donkey, Ch.14's hand, "Somebody had taken pains", "two summers").
+  - **New:** "where the gilding had long since worn away" reads as a museum label (F8); "with his questions unanswered" explains the joke (F5).
+- **Hostile:**
+  1. "We overtook the cart … the road back to the city gate was empty?" → F10.
+  2. "Felix failed to sell them? Valens was the seller." → F4.
+  3. "Plautia asks about the seal twice." She is stalling, and the clerk ignored the first; accepted.
+  Cycle 0's L1–L4 are cleared.
+- **Casual: 9.0.** The latrine is still the laugh (Fortuna over the door, then the fat man's javelin question). The run gains a carter shouting "which of us was winning" on race day and a crown going bald in Valens's fist. Frictions are unchanged (the years, the boards). They would buy after 3 pages, and they stay. Not 9.5, for the same reasons as before.
+- **Devoted:** will now catch "the young one" from Ch.16's plan (F2) and Ch.7's "so much as" (F12), and nothing else.
+
+## Cross-Reader Matrix (cycle 1)
+| Issue | Devourer | Critic | Hostile | Casual | Devoted | Severity |
+|---|---|---|---|---|---|---|
+| F10 road "empty" behind the cart; F4 Felix as seller | | | ✓ | | ✓ | SHOULD FIX (cheap, tested) |
+| F5, F8 added explanation | | ✓ | | | ✓ | SHOULD FIX |
+| F1, F2, F3, F7, F11, F12 doubles and echoes | | ✓ | | | ✓ | SHOULD FIX |
+| F6, F13 triads | | ✓ | | | | INVESTIGATE → fix (tested) |
+| S1 procedure | ✓ | | | ✓ (friction) | | carried; not blocking (the theft's tension lives there) |
+
+## Pacing check (one line for `feedback/progress.md`)
+**Ch.17 (cycle 1 + F1–F13):**
+- In medias res (theft first, how-we-got-here in pieces) between Ch.16's Parallel and Ch.18's Single-scene ✓.
+- **Length:** 6,909 words (target 7,400, −6.6%, inside 6,900–7,900; not padded).
+- Dialogue 33% (30–40 ✓); 3 breaks ✓; median 12 (low ✓); `short-punch` → `quiet` (mid-run, a sail going up) ✓.
+- **Neighbours:** gear steps high (15) → mid (16) → low (17) ✓; dialogue 35 → 46 → 33 ✓; lengths 7.5k → 7.2k → 6.9k, then Ch.18 at 2,800.
+- **Emotional slot:** comedy under legal threat, after the heat and two-women chapters ✓.
+- **Book:** 96,687 words against 103,800 cumulative (−6.9%). Projected about 242k against the 220k floor ✓; watch the 245k target, never pad.
+
+**Verdict: OK.**
+
+## Trajectory
+Cycle 0: Floor 8.0 / Avg 8.71 → cycle 1: **Floor 8.5 / Avg 8.86 / Casual 9.0**. This matches cycle 0's forecast and Ch.14–16's finals (8.86). For the second chapter running (Ch.16 F1–F8, Ch.17 F1–F13), **a cycle's swaps and restores brought in a small cluster of their own.**
+- **Restores** produced a plan echo, an in-chapter double, a logic slip and a muddled referent.
+- **One-for-one swaps** reached for a phrase an earlier chapter already owns ("the full sun") or dropped a needed noun for a pronoun with the wrong antecedent ("he had failed to sell").
+- **Pipeline note** (UPDATE RULE candidate, root `book-evaluator` / `book-editor`): **an evaluator's restore line is held to the same frame scan as the writer's.** Grep the previous chapter's plan and every at-risk block before offering it, and re-read every pronoun a swap leaves behind against the sentence's subject.
+
+---
+
+## VERDICT (cycle 1)
+**PASS. Gate MET (Floor 8.5 ≥ 8.5; Casual 9.0 ≥ 8.5; pacing OK; gates clean).**
+**F1–F13 (+F14 header) must be applied before finalize.** They were tested together, all gates are clean, words are 6,909 (≥ 6,900), and the anchors are byte-identical.
+
+| Measure | Result |
+|---|---|
+| Scores | Originality **9.0** · Theme **9.0** · Characters **9.0** · Prose & Voice **8.5** · Pacing **8.5** · Emotion **9.0** · Immersion **9.0** |
+| Genesis Floor / Average | **8.5 / 8.86** |
+| Casual | **9.0** |
+| CVI-Launch / CVI-Legacy | **9.7** / 6.9 (provisional) |
+| AI patterns | 8/20, −1.375 (clean band) |
+| Mechanical suite | all clean on the cycle-1 page and on the finalize copy |
+| Foreshadowing / CP3-3 / CP3-5 / END-1 | 0 / ✓ / ✓ / ✓ |
+
+---
+
+## Character-bible Ch.17 re-syncs (exact; against the FINALIZE copy, md5 `f3015976…`)
+Every Ch.17 block in the bible quotes the Writer's draft. Strings changed by dialogue-polish, the disruptor, the continuity repair, polish cycle 1 or F1–F13 are listed below. A script checked every quoted fragment of ≥2 words in each block against the finalize copy. Fragments that are legitimately not page text (Ch.16 quotes, outline text, count labels, the sample line) are excluded. *(Bible line numbers as of this evaluation.)*
+
+### MARA, "Ch.17 as written" (l.435–455)
+- Storeroom: replace the whole quote ("In the basement of the museum … only put back wrong.") with "In the storerooms under the museum the accession numbers ran along the shelves in their sequence, year and lot and piece, and the one out of its place was always louder than anything written on it." The aphorism "A thing that was lost was nearly always only put back wrong." is **not on the page**.
+- "among Plautia's letters" → "between two of Plautia's letters".
+- "I finished, and it was slow, and then it was over." → "I finished, and it took an age, and then it was over."
+- "My Latin was stiff, and too quick." → **delete** (cut; level 1 is "I write for the lady." alone).
+- "**hands shaking at a threshold** (the arch), put 'into the folds of Myrrhine's dress'" → "**skin prickling at a threshold** (the arch): 'The skin between my shoulders prickled under Myrrhine's dress until the first broad step, and then the street took us.'" Hands NOT used (resting until Ch.20).
+- Add to the lines and acts: "I lowered myself onto the step with the case in my lap." (a plain act; the seat is not a body rebel here).
+- "He saw it," … "He saw your hands. He will walk out there with his bread and tell him." → "He saw it," … "Your hands, and what was in them. He will walk out there with his bread and tell him."
+- "Whenever somebody wants to look." → one speech: "Whenever somebody wants to look. He is in the colonnade. Celer. The clerk has taken the book out to him. With the knot in it. Plautia has gone out to him by the front."
+- "Twice. In the street, in the dark." → "Twice. In the street, by the fuller's."
+- Add: "Should I have refused it?" (the knife).
+- Level 2, the run: add "A stitch came, and I ran through it."; "Behind the cart the road to the city gate was empty."; "By the first gardens Felix's crown was half bald, and Valens's fingers were sticky with it."
+- Add (X4): "the paving was hot underfoot, even through my sandals."
+
+### VALENS, "Ch.17 as written" (l.960–984)
+- "…with his lips shut. He read all of it. He read the witnesses." → "…and he read the rest of it with his lips shut, to the end of the witnesses."
+- "He breaks the plan to stand at Plautia's back" → "He breaks the plan to stand by her". Narration: "He had walked in under the planks and stood a pace from her, between her and the forum."
+- "…nobody at her shoulder. I walked at her back for two summers and two winters." → "…nobody at her shoulder. He'll talk at her till she agrees to something."
+- Add: "Her bearers are hired men off the Kenchreai road. They'll take his money too, if he offers it."
+- "What was it she gave you?" → **delete** (not on the page).
+- "Her woman will be on the quay before us." → "Her woman can come to Puteoli for it. Walk."
+- "He'll be asking him who won." → "Asking him how."
+- His hands: "the peel, wiped on his thigh, the leaf by its edges" → "the peel, the leaf by its edges ('He took it by its edges, a hand to each, and his thumbs left flour on the wood of the frame.')". No wipe.
+- Exit verb: "He left for the colonnade with the flour still on his arms".
+- Spent list: "two summers and two winters" → **delete**; add "He'll talk at her till she agrees to something."; "They'll take his money too, if he offers it."
+
+### FELIX, "Ch.17 (off-page, one fragment)" (l.1583–1587)
+- "and the two others nobody had wanted at any price" → "and the two that had found no buyer".
+- "Felix had trudged off putting his questions to the black instead." → "Felix had trudged off after the dun." (said-to device not used for him).
+
+### PLAUTIA, "Ch.17 as written" (l.1698–1738)
+- "I will mind your door." → **delete** (not on the page).
+- "The seal is my father's," … "I know it from here. Read it to me." → "Is that wax my father's?" … "I cannot tell it from here. Read it to me."
+- "I can read. I wish to hear it. Every line, and the witnesses after, slowly…" → "I can read. I wish to hear it read, every line and the witnesses after, slowly, so that my woman can write down what I tell her to."
+- "Is that seal my father's," … "or his freedman's?" / "By what?" → "My father kept two seals, cut by the same engraver, his own and his freedman's," … "Which is that?"
+- The superstition: "…He will not walk under a ladder. Nor a builder's frame. He once walked the whole forum round, in the rain, sooner than pass under a painter's plank." → "…He will not walk under a ladder, nor a builder's frame; he once sent a new litter back to its maker because a ladder had leaned against it in the yard."
+- Add (X1/F1): "At the office door they had set her down beside a builders' scaffold, and she had stepped under it to the door."
+- "Plautia had stood until the street had emptied." → **delete** (not on the page).
+- The honey: → "He will be hoarse already. Since he could stand he has shouted before anyone gave him leave; tonight, when his nurse brings him honey in warm water that she has made too hot, he will not drink it."
+- "her face under it was perfectly dry and very white" → "her face under it was very white, and dry."
+- "a letter will come from this house," → "a letter will come from my brother's house,".
+- "since I was sixteen" → "since I was nineteen" (in the quote and in the Spent list).
+- "from the right, the side Myrrhine had shown me, and her curtain stayed down." → "she climbed into the litter from the right, and her curtain stayed down."
+- Pause beat "(S4: she waits until his litter has gone)" → "Plautia watched the litter out of the forum by its farthest corner."
+- Spent list: "the painter's plank" → "the litter sent back to its maker".
+
+### CELER, "Ch.17 as written" (l.1773–1830)
+- Roof: "A man in a white toga, very new, on a gray, with his head turned…" → "A man in a white toga on a gray, with his head turned to the man beside him and laughing."
+- Entry: "the toga, brilliantly new, with the dust of the Isthmus road along the bottom of it in a brown band a hand deep." → "The toga was brilliantly new, and the Isthmus road had powdered it down one side." The rest of the entry is unchanged.
+- The irrational behavior:
+  - "hangs 'a long arm's length short…'" → "'it waited there in the sun, a long arm's length short of Valens's arm'";
+  - "…as though somebody else had put it out, and drew it in." → "…as though somebody else had put it out, and hid it in his toga.";
+  - "through the white sun of the forum" → "through the glare of the forum";
+  - add "under six paces of good planking";
+  - "Named once by Plautia (the ladder, the builder's frame, the painter's plank)" → "(the ladder, the builder's frame, the litter sent back to its maker)".
+- Lines:
+  - "Come out tomorrow and sit with us, why don't you? Right at the governor's back, where everybody can see…" → "Come out tomorrow, why don't you? Look down on us from the ladies' benches, where everybody can see how well we all get on. He'd like that.";
+  - "She would. She always gave away what was given her. Didn't you, Plautia? One loved her for it." → "She would. She always gave away what was given her; I used to tell her so. One loved her for it.";
+  - the offer → "Did I?" … "Well. We'll let the lawyers argue that. We could make all of this very easy. Ships leave Lechaion every day now the sea's open. If a man crossed to Italy and settled, and grew old in the sun on a farm of his own, with somebody to write his letters for him, I can't see why anybody in Achaea would ever need to say his name again. My steward put up some notices, the autumn before last. Stewards will. Notices come down." (no "you and I"; no vineyard; no "last year");
+  - "and there's a line in a magistrate's book" → "and there's an entry in a magistrate's book";
+  - "Then go and hear who won it. You'll want my ring on something, for the book?" → "Go and see him crowned. You'll want my ring on something, for the book?";
+  - "Come and see me after the games, Lupus. Come to the house, at the second hour, any morning. Bring Mara." → "Come and see me after the games. The house, at the second hour, any morning. Bring Mara."
+- Rules kept: "'Lupus' in his mouth 3" → **2** ("Lupus. Free air's put flesh on you."; "You were the best money I ever laid out, Lupus,"). "never says *wife*": the "somebody to write his letters for him" example stands.
+- Spent list: add "hid it in his toga"; "a farm of his own"; "the autumn before last"; "Look down on us from the ladies' benches"; "Go and see him crowned."; "an entry in a magistrate's book".
+
+### ONESIMUS card (l.3221–3255)
+- Syntax fingerprint: "often said to the fig cake" → "said to the fig cake once on the page ('His answer went to the cake.')".
+- "The old years are at the back, lady. Up the ladder." → "They're in this office." … "The old years went up the ladder."
+- "The boys race out on the Isthmus this morning, lady. There's not a soul…" → "The boys race out on the Isthmus this morning. There's not a soul left in Corinth to come through it." (no "lady")
+- "Then the last." → "That'll be the last."
+- "Your father's." / "His freedman's had a chip out of the rim." → "Your father's. The freedman's had a chip out of the rim."
+- "The lane door, lady," → "The lane door," … (no "lady"). **"lady" in his mouth on the final page:** "You read, lady." only, plus the whole-line "Lady." and "Lady didn't ask,".
+- The lane: "I'd have liked to see him lose." and "His father thinks…" are **one speech** (no "Lose?" between).
+- In the colonnade: "He'll have run." → "It'll be over."
+- "If you hear who won the boys, send me word." → "If you hear how the boys came in, send me word."
+- Ch.16 cross-reference: "the young drinker does not appear" → "the young drinker does not appear; his table does ('The second table, across the room, stood bare, its stool pushed in and a wine ring dried on the wood.')".
+- Add: **named in narration from the colonnade on** ("Onesimus said, his mouth full of bread"; "Onesimus took another bite of his bread."; "Onesimus finished his bread, fetched his cake from inside, locked the door with a key on a thong, and tried it."); "the clerk" is used only before Celer names him.
+- Physicality: "old sandals, one strap mended in a different leather" → page wording "The clerk's sandals were old, one strap mended in a different leather".
+
+### MYRRHINE, "Ch.17" (l.3290–3296)
+- "Further back. Further. She gets down on the right…" → "You're on it again. You'll have her over in the street. Further back. She gets down on the right, always, from a child; her nurse was left-handed, and nobody has ever told her otherwise."
+- "Her woman will be on the quay before us." → "Her woman can come to Puteoli for it." (Valens). Mara keeps the knife in her belt.
+
+### Ch.17 walk-on note (l.2687–2717)
+- Boy runner: "Lady." → **delete** ("The boy stared at her veil. The doorway was empty again.").
+- Bearers: "left off their talk" → **delete** (R5). Add Valens's "They'll take his money too, if he offers it."
+- Athletes: "The biggest had ears like knots of dough" → **delete** (not on the page).
+- "the Alexandrian trainer" → "the trainer ('in a Greek that was not Corinth's'; origin not named on the page)".
+- Trainer: "He leads mules, he says. Did you hear him? Mules!" → "He leads mules, he says. Did you hear him?"
+- Pine boys: "The god's pine! The winners' pine! Wear what the winners wear!" → "The god's pine! Wear what the winners wear!"
+- Coin seller: "a tray of new silver hung from a strap" → "a man stood behind a folding table of new silver, shouting it".
+- Sausage-man: → "Lucanian, all of them! The athletes aren't let have them, their trainers say so. Everybody else!"
+- Fat man: "Mistress. Would you say…" → "Would you say a man throws farther with the wreath on him, or off?"
+- The latrine (new): "Fortuna was painted over the door, with her rudder and her horn of plenty. It was dim inside after the street, and cool, and the talk in it rang off the plaster"; "on the long seat, already, a fat man in a festival wreath sat elbow to elbow with two of the athletes, discussing the javelin. None of them gave me a glance."
+- The arch: "with a bronze chariot on top of it and the horses' gilding gone green along their bellies" → "with a gilded bronze chariot on top of it, its horses green along their bellies".
+- The road: the dog ("A dog burst from a garden gate … delighted, and dropped off.") → **delete**. Replace it with "Somebody's washing was spread along a garden wall to dry, and Valens's shoulder swept a tunic off it into the road." Add "The carter called after us, wanting to know which of us was winning."
+- The emptied city: "a dog asleep on the paving" → **delete**. Replace it with "at the forum's edge the fountain pouring into its basins with no one there to fill a jar".
+- Add the forum line: "Past the city walls and the long road, not a sound reached us of the boys running."
+
+### At-risk after Ch.17 (l.4491–4525): rewrite to the final page
+- The theft set:
+  - "A thing that was lost was nearly always only put back wrong." → **delete** (not on the page);
+  - "hole by hole" → "hole after hole";
+  - "among Plautia's letters" → "between two of Plautia's letters".
+- Celer's superstition: "(the shade line, the hand drawn in, carried round) and named once (Plautia's painter's plank)" → "(the shade line, the hand hid in his toga, carried round) and named once (Plautia's litter sent back to its maker)". Plautia walking in under the scaffold is planted once (X1).
+- "'Lupus' in his mouth 3 this chapter" → **2**.
+- "**Hands shaking at a threshold (the arch): used**" → "**Skin prickling between the shoulders at a threshold (the arch): used**; hands NOT used (still resting until Ch.20)".
+- "The bearers as Celer's hired men ('off a cliff for him, if he paid'): once" → "('They'll take his money too, if he offers it.'): once".
+- "Lucanian sausages, the god's pine, the Alexandrian trainer" → "…the trainer".
+- **Counts:** replace the writer-draft line with the FINAL page.
+  - Length and shape: **6,909 words** (shape_check), 6,921 (style), 6,925 (show_tell), 7,682 (`wc -w`); dialogue 33.0% (shape 33); median 12; 3 breaks; `short-punch` → `quiet`.
+  - Punctuation and reflexes: em-dashes 0; semicolons 14 (2.0/1k); and-chains 2 (cap 9); negation pivots 0; hinge / "So" openers 0; "before I had" 0; without-looking 0; credential asides 0; "as if / as though" 1 (the shade line).
+  - Speech habits: said/told-the-[non-listener] 1 ("His answer went to the cake."); "the clerk" 22 (all before he is named), "Onesimus" 5; bare "No." 1 (Valens).
+  - Gestures: gate classes clean.
+  - Density: #11 4 firm (0.58/1k); paragraph-final negations 7 (1.01/1k); indefinites in narration 15 (WATCH); body-part rulers 4 (cap); anadiplosis 1.
+  - Other: anti-AI 8/20 (−1.375); echoes 0; spoken-line echoes 0; foreshadowing 0.
+
+### New SPENT / CLOSED / WATCH entries (add to the at-risk after Ch.17 block)
+- **Valens wiping or drying his hands before taking an object: CLOSED at 2** (Ch.9, Ch.15).
+- **sample-09's collapse ("knees went/gave … sat / under me"): RESERVED for Ch.25, any wording.** sample-12's "complaining about" for an animal: SPENT. sample-01's slung or hung tray: SPENT.
+- **The public latrine: SPENT as a set piece** (Ch.7, Ch.17); no third. **Fortuna painted over a door:** once.
+- **"[neg] so much as [look-verb]" (a bystander's non-reaction): CLOSED at 1** (Ch.7 "never so much as raised her head"; Ch.17 0 after F12).
+- **A hand held out toward a person and withdrawn: SPENT** (Ch.14, Ch.17).
+- **"perfectly [adj]" for a face: CLOSED at 1** (Ch.16). **"[S]omebody had [verb]…" inference sentences:** ≤1 per chapter, never the skeleton of the previous chapter's anchor.
+- **"at her back": CLOSED** for the Valens–Plautia protocol (Ch.17 page: Celer's "Two years at her back" only). Ch.22 stages them some other way. **A line's skeleton is never reversed into another character's mouth a chapter later.**
+- **"the young one" (the drinking clerk): CLOSED at 2** (Ch.16). **A chapter that executes the previous chapter's plan greps the plan's sentences** (and so does an evaluator's restore).
+- **"the full sun": CLOSED at 2** (Ch.5, Ch.13). **"had long since": 1** (Ch.9).
+- **A stranger reading Valens as a fighter: WATCH at 3** (Ch.12, Ch.16 reported, Ch.17); none before Ch.21's trainer.
+- **Walk-on hawker cries:** no exclamation triad back to back.
+- **"Mistress," as the seamed man's word:** used; never his line again.
+- **Body-rebel channels: resting / available** (put this one line at the top of the block): seat and hands **resting until Ch.20**; the bladder SPENT; skin prickling between the shoulders, used; a stitch in a run, used; hiccups SPENT (Ch.15); knees SPENT (Ch.4), with sample-09's frame reserved.
+- **Plautia's seal question asked twice as a stall:** SPENT.
+- **Narrator "[noun] nobody had [verb]ed": WATCH ≤2 per chapter** (Ch.17: 1, "where nobody had stitched it").
+- **"folding table(s)": 2** (Ch.1, Ch.17), WATCH.
+- **Spent in these words** (cycle 1 + finalize): "His answer went to the cake."; "The second table, across the room, stood bare, its stool pushed in and a wine ring dried on the wood."; "she had stepped under it to the door"; "his thumbs left flour on the wood of the frame"; "the two that had found no buyer"; "I lowered myself onto the step"; "a gilded bronze chariot"; "the glare of the forum"; "six paces of good planking"; "the paving was hot underfoot, even through my sandals"; "The carter called after us, wanting to know which of us was winning."; "Behind the cart the road to the city gate was empty."; "half bald"; "sticky with it"; "A stitch came, and I ran through it."; "None of them gave me a glance."; "It was dim inside after the street, and cool"; "rang off the plaster".
+
+### Entity / handoff cascades (orchestrator)
+- **Ch.18 opens on the quay the same afternoon.** The ship "with the goose carved on her stern" goes "on the afternoon breeze".
+- Valens carries Felix's pine crown, now "half bald" and resin-sticky. Ch.18 may hand it over with no re-description.
+- The leaf is under Valens's belt. Celer holds the cut book, unopened.
+- Mara has Plautia's grandfather's pen-knife in her belt. "Her woman can come to Puteoli for it."
+- The arch's chariot is gilded bronze, green along the horses' bellies.
+- Nobody knows who won the boys' race.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+- **Prose 8.5 is scored on the cycle-1 page with F1–F13 as a required finalize, not an optional one.** Two of them are logic or continuity fixes (F10 the cart, F4 the seller), and two remove added explanation (F5, F8). A stricter reader would hold Prose at 8.0 until they land. I do not, because none trips a cap, they total 11 small strings against the 56 the cycle cleared, and the book's practice has been to finalize micro-fixes after a PASS (Ch.13 F1–F3, Ch.16 F1–F8). **Do not commit the chapter without them.**
+- **F1–F13 are themselves new words by the evaluator.** Each passed every gate, my cross-chapter and in-chapter scans (0 new hits), and a frame grep of Ch.1–16 and the voice bank. Seven earlier candidates were rejected by that grep (listed under "Do not use").
+- **Characters 9.0** rests on the card law now holding. F4 is required; without it the page credits Felix with Valens's failed sale.
+- Originality, Theme, Emotion and Immersion at 9.0, Casual 9.0 and CVI-Launch 9.7 are carried from cycle 0 unchanged, and the cycle touched none of their evidence.

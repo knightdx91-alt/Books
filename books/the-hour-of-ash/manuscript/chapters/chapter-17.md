@@ -5,6 +5,7 @@
 <!-- Dialogue-polish 2026-10-21: 7,190 words (shape_check; style 7,202) | Dialogue 31.8% (shape; show_tell 31.7; S1 25.0 / S2 35.3 / S3 41.5 / S4 29.3) | Breaks 3 | Median 11 | first paragraph + closing paragraph byte-identical (md5 checked) | Em-dash 0 | Bare "No." Valens 1 (kept, to "Will they wait?") | as if/as though 3 -> 1 | adverb tags 2 -> 0 | let-that non-answer frames 2 -> 0 | Celer smile beats 3 -> 1, "Lupus" 3 -> 2, tag-question+vocative 3 -> 2 | clerk "lady" 6 -> 3 | "who won" 5 -> 2 | Plautia "low" tags 2 -> 1 | said-to-[non-listener] 2 -> 1 | echoes 0 | spoken-line echoes 0 | check_chapter.sh 17 clean | shape --strict CLEAN -->
 <!-- Disruptor 2026-10-21: 6,923 words (shape_check; style 6,935; show_tell 6,939) | Dialogue 33% (shape; show_tell 33.0) | Breaks 3 | Median 11 | narration cut only, speech untouched except two merged Valens quotes (wedged beats removed) | first line, closing paragraph, the 3 breaks, the bare "No.", the scaffold slow beat byte-identical (md5 checked) | l.339 "short and level" cut | trainer "delighted" cut (dog's kept) | storeroom memory folded into the scene, aphorism cut | countdown + twelfth/eleventh cut; the last hole missed twice | pointers 3 -> 0 | Valens wedge beats 3 -> 0 | baker turns 3 -> 0 | "had gone loose", "without turning her head", "seeming to decide" cut | and-chains 3 | as if/though 1 | echoes 0 | check_chapter.sh 17 clean | shape --strict CLEAN -->
 <!-- Continuity repair 2026-10-21 (audit run 2: C-01, W-01 to W-07, W-09): 6,935 words (shape_check; style 6,947; show_tell 6,951) | Dialogue 33% (shape; show_tell 33.0) | Breaks 3 | Median 11 | first line, the 3 breaks, the bare "No.", the scaffold slow beat byte-identical (md5 checked); closing paragraph byte-identical after its first sentence (W-07: the dog replaced by the washing on the garden wall) | l.34 porch bench (not the audit's "in the shade of the porch": a third "in the shade" in the chapter) | W-03 "from the ladies' benches" ("from the top" tripped the tic gate) | W-09 "Her woman can come to Puteoli for it." | Isthmia 0 | echoes 0 | check_chapter.sh 17 clean | shape --strict CLEAN -->
+<!-- Polish cycle 1 (evaluator's 56 tested swaps) + finalize F1-F13 2026-10-21: 6,909 words (shape_check; style 6,921; show_tell 6,925) | Dialogue 33% (show_tell 33.0) | Breaks 3 | Median 12 | first line, closing paragraph, bare "No." byte-identical | echoes 0 | spoken-line echoes 0 | check_chapter.sh 17 clean | shape --strict CLEAN -->
 
 The boards left their dust on my fingers. Fine and gray, faintly greasy, the dust of old wax in a shut room; under it the wood of the tag had been worn smooth by thumbs. The books lay flat in their pigeonholes, five and six to a hole. Each was a stack of boards bound along one side by a cord, and from every cord a wooden tag hung on a loop.
 
@@ -12,7 +13,7 @@ Each tag carried two names cut short, and a numeral. In a colony two names made 
 
 Behind me the clerk was eating figs.
 
-A fig cake sat on the table by his elbow, the kind the farm women pressed in a mold and sold in the market by weight: a brown brick with the shapes of the fruit still raised on its face. He dug them out singly with the blunt end of his stylus. When we arrived he was digging, and while Plautia gave him her name and her father's he was digging still. The gray one, then. We had wanted the other. The young one's table, across the room, stood bare, its stool pushed in and a wine ring dried on the wood.
+A fig cake sat on the table by his elbow, the kind the farm women pressed in a mold and sold in the market by weight: a brown brick with the shapes of the fruit still raised on its face. He dug them out singly with the blunt end of his stylus. When we arrived he was digging, and while Plautia gave him her name and her father's he was digging still. The gray one, then. We had wanted the other. The second table, across the room, stood bare, its stool pushed in and a wine ring dried on the wood.
 
 "When the governor came back," he said, "the colony's old books were carted over here, and nobody's sorted them since."
 
@@ -32,7 +33,7 @@ A fig cake sat on the table by his elbow, the kind the farm women pressed in a m
 
 He found another fig. Plautia faced him across the table, on the bench, with her veil drawn forward and her hands in her lap, and then her hands were out of her lap and there was a bundle in a napkin on the table between them. It clinked faintly on the wood. The clerk raised one corner of the napkin with his stylus. Silver, a ladle and two spoons, the spoon handles ending in swans' heads. He let the corner fall back.
 
-Her mother's. She had told me so at the brother's door, by the porch bench, while the bearers were lifting her, in the voice she might have used to tell me the spoons were cold. The bearers had carried her through a city that had emptied itself for the games and barred its doors behind it: shutters down along every street, a fuller's vats standing full and untrodden, and at the forum's edge the fountain pouring into its basins with no one there to fill a jar. At the office door they had set her down beside a builders' scaffold, and she had walked in under it.
+Her mother's. She had told me so at the brother's door, by the porch bench, while the bearers were lifting her, in the voice she might have used to tell me the spoons were cold. The bearers had carried her through a city that had emptied itself for the games and barred its doors behind it: shutters down along every street, a fuller's vats standing full and untrodden, and at the forum's edge the fountain pouring into its basins with no one there to fill a jar. At the office door they had set her down beside a builders' scaffold, and she had stepped under it to the door.
 
 The clerk wrapped the napkin round them twice and put it under the fig cake. He rose, taking the cake.
 
@@ -200,7 +201,7 @@ Valens read my face before he read the case.
 
 "Here," I said.
 
-I opened the case on the step and took the leaf from among the pens. He took the leaf by its edges, a hand to each, and his thumbs left flour on the wood of the frame.
+I opened the case on the step and took the leaf from among the pens. He took it by its edges, a hand to each, and his thumbs left flour on the wood of the frame.
 
 "Open it," I said. "The wax will stand it. Do not touch the writing."
 
@@ -274,7 +275,7 @@ The baker had taken up his song where he had left it.
 
 "Get down to Felix," Valens told me.
 
-Felix had taken the mules down to Lechaion before sunrise with the household's freedman: the dun on the front rope, the black, and the two he had failed to sell, with my bag and his own across the dun's withers, and the fig in its jar. He had gone protesting. "It's the boys' day," he had called at the gate, "the boys, and I'm to sit on a quay with mules? Who'll tell me who won? Do they cry it out at Lechaion when somebody wins?" and the answer was "Ask a sailor," and Felix had trudged off after the dun with his questions unanswered.
+Felix had taken the mules down to Lechaion before sunrise with the household's freedman: the dun on the front rope, the black, and the two that had found no buyer, with my bag and his own across the dun's withers, and the fig in its jar. He had gone protesting. "It's the boys' day," he had called at the gate, "the boys, and I'm to sit on a quay with mules? Who'll tell me who won? Do they cry it out at Lechaion when somebody wins?" and the answer was "Ask a sailor," and Felix had trudged off after the dun.
 
 "Where are you going?" I said.
 
@@ -386,7 +387,7 @@ Celer smiled at him.
 
 Plautia said, "Let her go on asking."
 
-The bearers lifted. The shortest way from where he sat to the street he wanted lay straight down the colonnade, in the shade, under six paces of good planking. His men carried him round instead, through the full sun of the forum, round the scaffold's end and in again under the roof beyond it, the boy jogging beside them; and the book went with him, lighter by two boards, while behind the curtains he talked to somebody about the heat.
+The bearers lifted. The shortest way from where he sat to the street he wanted lay straight down the colonnade, in the shade, under six paces of good planking. His men carried him round instead, through the glare of the forum, round the scaffold's end and in again under the roof beyond it, the boy jogging beside them; and the book went with him, lighter by two boards, while behind the curtains he talked to somebody about the heat.
 
 Celer's seamed man went last. Where the colonnade turned, he looked round once.
 
@@ -462,7 +463,7 @@ We left the colonnade for the sun, and the paving was hot underfoot, even throug
 
 "The doctor at the school. He sewed me up for six years. An oil-seller who had the stall by the gate. A trainer who had me from a boy. The other six are strangers to me."
 
-The forum was a long white floor with nobody on it but statues and pigeons, and a woman asleep against the base of an emperor with her basket in her lap. Past the city walls and the long road and the trees, not a sound reached us of the boys running. At the forum's north side the ground fell away to the harbor road, and at the head of it stood the arch, with a bronze chariot on top of it, its horses green along their bellies where the gilding had long since worn away.
+The forum was a long white floor with nobody on it but statues and pigeons, and a woman asleep against the base of an emperor with her basket in her lap. Past the city walls and the long road, not a sound reached us of the boys running. At the forum's north side the ground fell away to the harbor road, and at the head of it stood the arch, with a gilded bronze chariot on top of it, its horses green along their bellies.
 
 Celer's man, the one with the ear, sat on the rim of the fountain basin next to the arch, in the shade, with his feet in the water.
 
@@ -474,7 +475,7 @@ He saw us and lifted one hand, friendly, as a neighbor might from his own doorst
 
 "Let him watch it. It's the only road."
 
-We passed beneath the arch, and him, so near I heard the water move round his ankles. Between my shoulders and all down my back, under Myrrhine's dress, the skin prickled from there to the first broad step, and then the street took us.
+We passed beneath the arch, and him, so near I heard the water move round his ankles. The skin between my shoulders prickled under Myrrhine's dress until the first broad step, and then the street took us.
 
 The road to Lechaion fell from the city in long steps, broad as a room, with colonnades along both sides and shops behind the columns, and up those steps from the harbor poured the whole of the morning's ship. They came in a crowd, everybody talking: Italians in traveling hats, a family with a goat, a priest with a box on a slave's head, and in the middle of them, taller than everyone round them by a head, six or seven athletes in a knot round their trainer. They were young, enormous, oiled for the road, with their strigils and flasks hanging off rings at their belts and clinking as they climbed. The trainer was a little bald man who climbed the steps backward ahead of them, talking, and missed no footing that I saw.
 
@@ -484,7 +485,7 @@ Boys worked the crowd with pine. They had armfuls of it, cut that morning, the g
 
 By the following column a man stood behind a folding table of new silver, shouting it. "Judaea taken! The emperor's new money, from Rome, for the triumph! See her weep!" On every coin on the table a woman sat in the dust beneath a palm with her head in her hand, and a soldier stood over her, and the edges of the coins were still sharp from the die. A sailor paid for one and stowed it in his belt.
 
-A sausage-man had set up his brazier against a column at the turn of the steps. The coils on his grill spat and smoked, and his smoke, thick with cumin, rolled along under the colonnade roof. He banged his tongs on the grill. "Lucanian, all of them! The athletes aren't let have them, their trainers say so! Everybody else!"
+A sausage-man had set up his brazier against a column at the turn of the steps. The coils on his grill spat and smoked, and his smoke, thick with cumin, rolled along under the colonnade roof. He banged his tongs on the grill. "Lucanian, all of them! The athletes aren't let have them, their trainers say so. Everybody else!"
 
 We pushed down against all of it. Shoulders knocked mine. A hat brim caught my cheek. Valens went first and the crowd opened in front of him, and shut behind me before I was through.
 
@@ -508,7 +509,7 @@ He stared.
 
 "I have had to since the ladder. There is a latrine." I pointed. "Behind those shops. There was a sign."
 
-There was. Fortuna was painted over the door, with her rudder and her horn of plenty. It was dim inside after the street, and cool, and the talk in it rang off the plaster: on the long seat, already, a fat man in a festival wreath sat elbow to elbow with two of the athletes, discussing the javelin. None of them so much as glanced at me. I took the nearest place and tried to think of nothing, and the fat man went on explaining the javelin to the athletes. He broke off and called along to me.
+There was. Fortuna was painted over the door, with her rudder and her horn of plenty. It was dim inside after the street, and cool, and the talk in it rang off the plaster: on the long seat, already, a fat man in a festival wreath sat elbow to elbow with two of the athletes, discussing the javelin. None of them gave me a glance. I took the nearest place and tried to think of nothing, and the fat man went on explaining the javelin to the athletes. He broke off and called along to me.
 
 "Would you say a man throws farther with the wreath on him, or off?"
 
@@ -544,7 +545,7 @@ Valens raised his face to it.
 
 We ran.
 
-I ran in a borrowed dress with the hem bunched in my fist and the camera on its strap under the cloth hammering my ribs. My sandals slapped. We overtook the cart. Valens ran beside me, not in front, one hand spread on his chest over the leaf under his tunic and the pine crown in the other, shedding needles on the road. My breath went short, then raw. A stitch caught me under the ribs, and I ran through it. The carter called after us, wanting to know which of us was winning. The road back to the city gate was empty. By the first gardens Felix's crown was half bald, and Valens's fingers were sticky with it.
+I ran in a borrowed dress with the hem bunched in my fist and the camera on its strap under the cloth hammering my ribs. My sandals slapped. We overtook the cart. Valens ran beside me, not in front, one hand spread on his chest over the leaf under his tunic and the pine crown in the other, shedding needles on the road. My breath went short, then raw. A stitch came, and I ran through it. The carter called after us, wanting to know which of us was winning. Behind the cart the road to the city gate was empty. By the first gardens Felix's crown was half bald, and Valens's fingers were sticky with it.
 
 "Will they wait?" I said.
 
