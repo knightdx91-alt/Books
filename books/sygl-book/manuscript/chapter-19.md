@@ -42,7 +42,7 @@ Neither girl spoke. Lora's pencil had dropped to the page and dragged a long gra
 
 Tomorrow they could be told to choose: stop coming around Bal, or be expelled. And Viridia would have to send Hopper away besides.
 
-Six weeks had done something to the four of them. Saturdays on the road, the bear, the snake, the stew at midnight on the square. Bal couldn't have named the day it happened, but somewhere in there nobody in this room had been willing to lose anybody else in it.
+Six weeks had done something to the four of them. Saturdays on the road, the bear, the snake, the stew at midnight on the square. Bal couldn't have named the day it happened, but somewhere in there none of them could have stood to lose the others.
 
 He reached over and closed the history book. It had been full of ideas about Toma, and Toma could wait. He squared it with the table's edge, though nobody had asked him to, and swung around on the cushion toward the girls.
 
@@ -74,7 +74,7 @@ Lora and Viridia looked to each other, then back at him.
 
 They were both quiet, weighing it. It scared him a little how badly he wanted to hurry them. He said the hard parts instead.
 
-"Look, you need to think carefully about this. There's no way to reverse it. And you have to think about your families too. You both know how a lot of blood sygls get treated." He was in the villages in his head, in Thad's narrow room with the bad news. He pulled himself back out of it. "This isn't something to do lightly. I care about both of you, and I would absolutely hate to lose you. But I don't want either of you to be unhappy."
+"Look, you need to think carefully about this. There's no way to reverse it. And you have to think about your families too. You both know how a lot of blood sygls get treated." He was in the villages in his head, in Thad's narrow room with the bad news. He pulled himself back out of it. "I care about both of you, and I would absolutely hate to lose you. But I don't want either of you to be unhappy."
 
 ---
 
@@ -142,7 +142,7 @@ They did. Lora's Waves sygl, Viridia's Tempus sygl, in the middle of each palm. 
 
 He meant to change one thing from her instructions. He would do them both at once.
 
-He cut his own left palm first, and deep. It stung and then mostly stopped stinging. Blood welled up and began to pool in the cup of his hand, dark against the sygl.
+He cut his own left palm first, and deep. It stung and then mostly stopped stinging. Blood welled up and pooled in the cup of his hand, dark against the sygl.
 
 He offered the dagger hilt first. His hand was not quite steady, and both girls saw. Nobody mentioned it.
 
@@ -156,7 +156,7 @@ It rose from his palm when he called it, and he split it into two thin streams, 
 
 He pushed it deeper.
 
-The cut in his palm was nothing. He hardly noticed it. The pushing was the work. It had to be steady and it had to be gentle, both at once, in two people at the same time, and those two people were Lora and Viridia. Sweat ran down behind his ear. He did not wipe it. He did not dare take his mind off either thread for long enough to lift a hand.
+The cut in his palm was nothing. The pushing was the work. It had to be steady and it had to be gentle, both at once, in two people at the same time, and those two people were Lora and Viridia. Sweat ran down behind his ear. He did not wipe it. He did not dare take his mind off either thread for long enough to lift a hand.
 
 It went in. Through it, he knew how far there still was to go. He followed it down until something in each of them pushed back, warm and dense and theirs, the place where their magyk lived.
 

@@ -42,13 +42,13 @@ Amelia stood up and stretched, rising onto her toes with her arms high over her 
 
 Amelia laughed.
 
-"Time for that later," she said, and dropped her arms, and the dress fell back to her ankles. She wasn't in the least bothered. If anything, she was enjoying it. "Now. As for your hand, I'll take care of that, and your school too. You leave the explaining to me." She tilted her head toward the golden doors at the front of the temple. "For now, we've got one last thing to do, and then you can take us out of here."
+"Time for that later," she said, and dropped her arms, and the dress fell back to her ankles. She didn't so much as blush. "Now. As for your hand, I'll take care of that, and your school too. You leave the explaining to me." She tilted her head toward the golden doors at the front of the temple. "For now, we've got one last thing to do, and then you can take us out of here."
 
 She came and stood in front of him. Then, without any fuss at all, she knelt on the stone floor between his knees, gathering her skirt beneath her, and looked up at him.
 
 "Do you know the words for the familiar binding?" she asked.
 
-Bal's heart began beating faster as he looked down into those soft red eyes.
+Bal's heart beat faster as he looked down into her eyes.
 
 He did know the words. They were in the back of the household enchantments book, in a short chapter on familiars that he'd read so often he could have recited it in his sleep. He'd never expected to use them. Nobody made a familiar bond in a boiler room. He nodded.
 
@@ -88,13 +88,13 @@ She said the word lightly, with a sidelong look to see how he would take it. Bal
 
 Bal stopped to grab his rug from the floor, and rolled it up, and tucked it under his arm. It was his own bedside rug, and it had just flown him over a wall. Somebody would miss it sooner or later.
 
-They reached the doors. Up close they were huge, three times his height, and the carving was finer than it had looked from across the wall: every leaf had its veins and every feather its barbs. He couldn't see a handle or a latch anywhere. Amelia didn't need either. She laid both palms flat against the gold and pushed, and the wide golden doors swung open, smooth and silent on hinges that should have rusted solid long ago, and daylight came pouring in over the stone.
+They reached the doors. Up close they were huge, three times his height, and the carving was finer than it had looked from across the wall: every leaf had its veins and every feather its barbs. He couldn't see a handle or a latch anywhere. Amelia didn't need either. She laid both palms flat against the gold and pushed, and the doors swung open, smooth and silent on hinges that should have rusted solid long ago, and daylight came pouring in over the stone.
 
 She stopped in the doorway.
 
 Bal came up beside her. Before them was the courtyard in front of the temple that he'd never properly noticed from his rooftop, paved in old flagstones with grass growing up between them, and a low wall at the far side gone green with moss, and beyond it the rough lawn and the garden and the back of Saint Andre's. Nothing special. Somewhere around the side of the building a door banged, and a dog barked twice and went quiet. A warm afternoon, and a bumblebee working its way through the clover at the foot of the steps.
 
-Amelia stood there admiring all of it, her face tipped up to the sun. She followed the bumblebee from one clover head to the next, fascinated. For all Bal knew, she hadn't seen one in ages.
+Amelia stood there admiring all of it, her face tipped up to the sun. She followed the bumblebee from one clover head to the next. For all Bal knew, she hadn't seen one in ages.
 
 "It's been a long time," she said softly.
 
@@ -116,7 +116,7 @@ The grass between the flagstones was warm and springy underfoot, and the air sme
 
 "Then I'd forgotten how much I liked cabbage." She was already walking. "Show me everything."
 
-Amelia walked slowly, taking everything in. She ran her free hand along the rough brick of the orphanage as they passed it. She stopped dead to watch a car go by out on the main road, far off at the end of the lane, and followed it with her eyes until it was gone. "Loud," she said, sounding pleased about it. "And it smells." She stayed facing the road anyway.
+Amelia was in no hurry. She ran her free hand along the rough brick of the orphanage as they passed it. She stopped dead to watch a car go by out on the main road, far off at the end of the lane, and followed it with her eyes until it was gone. "Loud," she said, sounding pleased about it. "And it smells." She stayed facing the road anyway.
 
 "I live here," Bal said, nodding up at the building. "My mom died giving birth to me, so they put me here. It's been my home for as long as I can remember." He considered for a second. "It's not a bad place. The food's terrible, but it's not a bad place."
 
@@ -128,17 +128,17 @@ It occurred to him, belatedly, to worry about the car.
 
 "Yeah," Amelia said, amused. "I can talk to certain creatures. Bats, ravens and such." She lifted her chin toward the roof of Saint Andre's, where a big black raven sat on the gutter watching them with one bright eye. It ruffled its feathers at her and croaked. Amelia made a soft clicking sound back at it, and the raven bobbed its head and hopped farther along the gutter. "They come and talk to me, so I do know things. I know about cars. I know about telephones. I know that the cook here burns the porridge every Tuesday."
 
-"She does," Bal said, impressed despite himself. "Every single Tuesday."
+"She does," Bal said, staring at her. "Every single Tuesday."
 
-Bal was relieved. He hadn't been sure whether she'd go into shock on meeting her first car. It was nice to know he wouldn't have to explain a television to a goddess.
+Bal breathed a little easier. He hadn't been sure whether she'd go into shock on meeting her first car. It was nice to know he wouldn't have to explain a television to a goddess.
 
-The schools themselves were on a different plane altogether, one without any of the modern technology, and only people who had attended a magykal school were allowed to live there, them or their families. No cars, no phones, no television. Bal couldn't picture Fredrick getting through a whole term without a radio. Amelia would probably feel more at home there than he would. So, hopefully, they would be able to enroll soon. Amelia had said she would take care of that.
+The schools themselves were on a different plane altogether, one without any of the modern technology, and only people who had attended a magykal school were allowed to live there, them or their families. No cars, no phones, no television. Bal couldn't picture Fredrick getting through a whole term without a radio. Amelia would probably feel more at home there than he would. With luck, they could enroll soon. Amelia had said she would take care of that.
 
 As they rounded the corner of the building, Bal heard kids playing in the front yard.
 
 It was a familiar sound: the crack of a bat and a dozen voices all shouting at once. Apparently, while Bal had been inside the temple with Amelia, the other kids had started a softball game. They'd marked out the bases with an old bucket and a couple of jackets, as they always did, and someone's sweater, already grass-stained, was serving as home plate. The ball was an old one, gone gray and soft from years of being hit, and it never flew far. A little girl perched on the fence by first base, keeping score with a stick in the dirt, getting most of it wrong and arguing with anyone who said so. One of the older girls was pitching. A small boy with no magic and a very large bat was swinging with all his might and missing every time, and nobody minded, and the whole field was cheering him on.
 
-Bal stopped at the corner, Amelia's hand still in his, and took it all in.
+Bal stopped at the corner, Amelia's hand still in his, and watched the game.
 
 Amelia leaned against his shoulder. "What are they playing?"
 

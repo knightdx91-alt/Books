@@ -46,7 +46,7 @@ Bal smiled at her, at the pleasure all over her. The Three Boars was behind her,
 
 It was a hot day. By late morning the sweat was running into his eyes, and he mopped his forehead with a rag from his pocket.
 
-He kept checking behind them, without ever quite deciding to. Behind them the road was always empty.
+He kept checking behind them, without ever quite deciding to. The road was always empty.
 
 After the fourth or fifth time, Lora nudged her horse in beside the black.
 
@@ -152,7 +152,7 @@ He shaded his eyes and sat, slowly.
 
 Lora's bedroll. Lora's horse, dark against the grass. The black craters. Nobody else.
 
-It hit him all over again, as hard as it had at dusk. It was like being punched in the stomach by somebody he hadn't seen coming. He stayed like that with his hand still raised to the sun and waited for it to let him breathe.
+It hit him all over again, as hard as it had at dusk, low in the stomach. He stayed like that with his hand still raised to the sun and waited for it to let him breathe.
 
 He rose and searched again. He ranged out farther than yesterday, in wide loops through the grass, east of the road and west of it, hoping for something. Anything. He found nothing.
 
@@ -172,7 +172,7 @@ Bal rolled up the bedroll, tied it with its own strap, and turned south, toward 
 
 It took him two days on foot.
 
-He walked through two long hot days. He drank from a ditch, and once from a horse trough at the edge of a field whose owner never appeared. At night he slept a few hours on Lora's bedroll beside the road, and woke before light, and walked again. By the second afternoon he was not thinking much at all. His feet went on without him.
+The road was white with dust both days. He drank from a ditch, and once from a horse trough at the edge of a field whose owner never appeared. At night he slept a few hours on Lora's bedroll beside the road, and woke before light, and walked again. By the second afternoon he was not thinking much at all. His feet went on without him.
 
 Some of the way he talked to the girls in his head. He told Lora he was coming. He told Viridia not to give anybody any lip until he got there, which was a waste of breath, because she would anyway, and he hoped she did.
 
@@ -290,7 +290,7 @@ It met the lightning in the air between them with a crack and a hiss. They swung
 
 The mage found one first.
 
-The mage's off hand came up, and a bolt leaped out of it at Bal's face. Bal twisted aside and the bolt went by so close it lifted his hair. He was still off balance when the lightning whip came down across his chest.
+His off hand came up, and a bolt leaped out of it at Bal's face. Bal twisted aside and the bolt went by so close it lifted his hair. He was still off balance when the lightning whip came down across his chest.
 
 It threw him. He sailed off the platform after the first mage, and hit the ground flat on his back.
 
@@ -328,6 +328,6 @@ A bolt from a crossbow went through the side of his head.
 
 He dropped. He fell sideways into the grass and lay still.
 
-Bal rolled his head on the grass. It was all of him that would move. Across the field, blood soldiers were coming, running toward him, a lot of them, shouting something he could not make out.
+His head rolled sideways. It was all of him that would move. Across the field, blood soldiers were coming, running toward him, a lot of them, shouting something he could not make out.
 
 The dark took him.

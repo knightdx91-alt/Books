@@ -38,7 +38,7 @@ She took a deep breath. It left her slow and uneven.
 
 She said it to the bread in her lap, as if it were something she ought to apologize for.
 
-Lora got up and crossed the leaves and settled on Viridia's bedroll, right beside her, so their shoulders touched. She kept quiet too. She took Viridia's free hand in hers and waited for the rest.
+Lora got up and crossed the leaves and settled on Viridia's bedroll, right beside her, so their shoulders touched. She took Viridia's free hand in hers and waited for the rest.
 
 "All the fights we've been in," Viridia went on. "I always knew somebody could get hurt. Really hurt. Maybe even killed. I knew that going in." Her voice wobbled and steadied. "But I never expected I'd have to drink poison myself to kill an enemy."
 

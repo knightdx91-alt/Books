@@ -2,7 +2,7 @@
 
 It was the same as Viridia's, with differences. Where Viridia had Raizen's mark, the blood sygl sat on the back of Amelia's tight black sweater, red on black, the same mark Bal wore on his, and below the sweater was a short black skirt. Where every other girl in the school wore plain white socks, Amelia's were long and striped black and red, and they came up past her calves.
 
-She looked good in it. Bal could admit that much. He also could not seem to stop looking, and Amelia knew it. She hopped down off the stage, landed lightly, and her smile got wider with every step she took toward them.
+She looked good in it. Bal could admit that much. He also could not keep from looking, and Amelia knew it. She hopped down off the stage, landed lightly, and her smile got wider with every step she took toward them.
 
 "So how have your classes been?" she asked.
 
@@ -86,9 +86,9 @@ Sixteen. The red mark on Bal's palm seemed to sit up and want attention.
 
 "How can you know all that?" he asked. "You were locked away."
 
-Something sad came into Amelia's face.
+The corners of Amelia's mouth turned down.
 
-"I suppose you should hear it anyway," she said. "The normal offering in one of my temples is blood. I'm a vampire, you know, so it makes sense. Every temple of mine has a stone bowl and a sharpened stone knife. A follower cuts themselves and lets a little blood drip into the bowl as an offering. Then the priest seals the cut and tries to help them with whatever's wrong. And whenever someone makes an offering, I take in some of their recent memories, for a short time."
+"I suppose you should hear it anyway," she said. "The normal offering in one of my temples is blood. Every temple of mine has a stone bowl and a sharpened stone knife. A follower cuts themselves and lets a little blood drip into the bowl as an offering. Then the priest seals the cut and tries to help them with whatever's wrong. And whenever someone makes an offering, I take in some of their recent memories, for a short time."
 
 The wind pushed her hair across her face, and she let it stay.
 
@@ -104,7 +104,7 @@ Amelia went stiff in his arms. He held on anyway. After a moment her arms came u
 
 When they stepped apart, she would not quite meet his eyes, and she was smiling.
 
-Her followers were afraid of her. The other originators couldn't be bothered with her. Bal just liked her, and from how long she had held on he understood that it was worth something to her.
+Her followers were afraid of her. The other originators couldn't be bothered with her. Bal liked her, and from how long she had held on he understood that it was worth something to her.
 
 "What can I do to help?" he asked.
 
@@ -246,7 +246,7 @@ He thought a little more.
 
 "Do you have a diary?"
 
-Amelia went pink. She rolled onto her other side, so that all that was left for him was black hair and one striped sock.
+Amelia went pink. She rolled onto her other side, so that he had nothing of her to look at but the back of her head.
 
 "Maybe," she said to the bed curtains. "You'll never find it, though."
 

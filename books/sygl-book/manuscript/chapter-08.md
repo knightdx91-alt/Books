@@ -2,7 +2,7 @@
 
 The wall opened, and at the top of the stone steps Amelia had her feet up on the coffee table.
 
-She was slouched so far down on the red couch that her shoulders were nearly level with the cushions, her ankles crossed on the polished wood and the hem of her black dress fallen back around her shins. She looked as though she had been there all afternoon and meant to stay until spring. When she heard the stone grinding shut behind him, she rolled her head along the back of the couch to find him, and smiled, and waved.
+She was slouched so far down on the red couch that her shoulders were nearly level with the cushions, her ankles crossed on the polished wood and her dress fallen back around her shins. She looked as though she had been there all afternoon and meant to stay until spring. When she heard the stone grinding shut behind him, she rolled her head along the back of the couch to find him, and smiled, and waved.
 
 Bal went over and dropped down beside her. Somebody had built the fire up while he was out. It was throwing heat across the floor and putting a shine on the leather of the empty chair.
 
@@ -70,7 +70,7 @@ On the edge of his bed at Saint Andre's, she had told him it could never be done
 
 Bal chuckled.
 
-"It's fine. I figured there might be other reasons." The new hand lay open on his knee where she had left it. "Look. You've given me what I've wanted my whole life. Plus more excitement than I could ever have imagined. I don't mind doing these things for you."
+"It's fine. I figured there might be other reasons." His hand was still open on her knee, where she had left it. "Look. You've given me what I've wanted my whole life. Plus more excitement than I could ever have imagined. I don't mind doing these things for you."
 
 Amelia lit up. It went across her whole face at once, and she pulled both knees up under her dress and hugged them.
 

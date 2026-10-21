@@ -6,7 +6,7 @@ It had never stopped Balthazaar. The staff brought the story out whenever someon
 
 It was fairly flat up there, laid with gray slate tiles in rows so even that some long-dead roofer must have measured every one. By early afternoon the tiles were warm through the seat of his pants, and the rug from beside his bed sat rolled up next to him. From up here the noise of the building fell away. There was only the wind, and a pair of pigeons squabbling on the north chimney.
 
-The orphanage itself was quite old. It had been built sometime in the 1700s, but it was in decent shape for a building that age, three stories of weathered brick with a roof that only leaked over the laundry. A long gravel lane ran out toward the road, and no one ever seemed to come down it.
+The orphanage itself was old. It had been built sometime in the 1700s, but it was in decent shape for a building that age, three stories of weathered brick with a roof that only leaked over the laundry. A long gravel lane ran out toward the road, and no one ever seemed to come down it.
 
 Behind the orphanage, past the vegetable beds and a stretch of rough lawn gone to clover, stood the mausoleum.
 
@@ -66,7 +66,7 @@ That was where he'd found the spell he needed.
 
 It sat on page eighty-one, in a chapter on moving inanimate objects, between a charm for sliding a heavy trunk upstairs and one for sweeping a floor without touching the broom. *Levimotorcorpus*. Lifting and carrying, the book said, for objects of moderate size, to be practiced first on small items and only by students who had mastered the first-year levitation charms. Bal had mastered the first-year levitation charms in the spring, alone, in the boiler room, with a stack of tin cups. He'd decided that counted.
 
-He had practiced for three nights straight. First on a sock, which shot up and smacked against the dormitory ceiling and had to be fetched down with a broom handle. Then on a pillow, which behaved. Then on a book, which wobbled, and on a chair, which wobbled worse, and finally on the rug from beside his own bed, a small square of patterned wool that had been there longer than he had. On the third night it had lifted a hand's width off the floorboards and hung there, steady as a table, until he let it down. He'd lain awake afterward staring at the ceiling, his heart thumping so hard it thudded in his ears.
+He had practiced for three nights straight. First on a sock, which shot up and smacked against the dormitory ceiling and had to be fetched down with a broom handle. Then on a pillow, which behaved. Then on a book, which wobbled, and on a chair, which wobbled worse, and finally on the rug from beside his own bed, a small square of patterned wool that had been there longer than he had. On the third night it had lifted a hand's width off the floorboards and hung there, steady as a table, until he let it down. He'd lain awake afterward staring at the ceiling, his heart thudding in his ears.
 
 ---
 
@@ -104,9 +104,9 @@ The carpet sank toward the tiles and passed through them as though they were mis
 
 For a few wild seconds he couldn't think of anything to do except hold on.
 
-He got hold of himself. Lower, he told the carpet. Slowly. It obeyed. He kept giving the same command, lower and lower, and the rug drifted down past the tops of tall pillars, past their fluted columns, down and down until, with a soft bump that rattled his teeth, it landed on the solid concrete floor of the temple.
+Then his wits came back. Lower, he told the carpet. Slowly. It obeyed. He kept giving the same command, lower and lower, and the rug drifted down past the tops of tall pillars, past their fluted columns, down and down until, with a soft bump that rattled his teeth, it landed on the solid concrete floor of the temple.
 
-The inside of what he had always thought was a mausoleum was lit by two very large braziers, one on either side of the hall, standing taller than a man on legs of black iron. Their fires burned low and gave off a soft, warm light that pooled gold in the hollows of the stone. There was no smoke anywhere, and no smell of burning wood, only a dry smell of something spiced. The air was still, with the hush of a place where nobody had raised their voice in ages.
+The inside of what he had always thought was a mausoleum was lit by two huge braziers, one on either side of the hall, standing taller than a man on legs of black iron. Their fires burned low and gave off a soft, warm light that pooled gold in the hollows of the stone. There was no smoke anywhere, and no smell of burning wood, only a dry smell of something spiced. The air was still, with the hush of a place where nobody had raised their voice in ages.
 
 At the far end of the hall stood the statue he had glimpsed days before. It was larger than he'd realized, a tall robed figure carved from dark stone, set back where the firelight did not quite reach. He couldn't make out its face from here.
 
@@ -114,7 +114,7 @@ Bal got to his feet.
 
 "Locos cantis," he murmured as he stepped off the carpet.
 
-The spell let go. The now inert rug dropped the last inch to the floor and lay there, an ordinary bedside rug again, looking small and shabby against all that bare floor. He'd have to remember to take it back with him. The matrons would notice it was gone eventually.
+The spell let go. The carpet dropped the last inch to the floor and lay there, an ordinary bedside rug again, looking small and shabby against all that bare floor. He'd have to remember to take it back with him. The matrons would notice it was gone eventually.
 
 He turned slowly on the spot, taking it all in.
 

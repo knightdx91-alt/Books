@@ -74,7 +74,7 @@ At *expel*, Lora's butter knife stayed in her fist, upright on the tablecloth wi
 
 So the school would make it a rule. Probably.
 
-Bal drew in a long breath and eased it out. If the teachers did this, there was just one way he could still be around the two of them, and it was not the kind of thing you said over soup.
+Bal drew in a long breath and eased it out. If the teachers did this, he could think of one way to stay around the two of them, and it was not the kind of thing you said over soup.
 
 "There's something we could do," he told them. "But I'd rather wait to tell you what it is until we need it."
 

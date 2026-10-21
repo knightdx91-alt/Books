@@ -8,7 +8,7 @@ Out of the darkness at the back of the temple, behind the last of the pillars wh
 
 She came unhurried, her footsteps making no sound at all on the stone, and stopped a few paces short of the nearer brazier where the glow could find her. Bal guessed she was a few years older than he was. She cocked her head and studied him with frank, open interest, much as you might study a cat that had turned up on your doorstep in the rain.
 
-"Hello yourself," she said, with a curious look on her face. "Mind telling me how you got in?"
+"Hello yourself," she said. "Mind telling me how you got in?"
 
 It was a low voice with a laugh tucked away somewhere inside it. Whether it was the same one that had spoken right beside his ear a minute ago, Bal couldn't tell, and he wasn't about to ask.
 
@@ -60,9 +60,9 @@ It was only polite to answer that. "I'm Balthazaar," he said. "Bal, to my friend
 
 Bal took in the two rows of pillars, the two braziers, the shaft of sunlight falling through the roof that wasn't there, and the dark statue with its face in shadow. Now that he was sitting still, he noticed things he'd missed on the way down. The braziers burned low and steady and gave off no smoke at all, and he couldn't see any wood in them. The floor didn't have a speck of dirt on it anywhere, though nobody in living memory had been able to get through those doors. Bal wondered, briefly, who did the sweeping.
 
-Then he looked back at Amelia, sitting across from him with her hands folded in her lap and the rubies glinting at her ears.
+Then he looked back at Amelia, sitting across from him with her hands folded in her lap.
 
-"So," Bal asked, still confused, "a temple for what?"
+"So," Bal asked, "a temple for what?"
 
 Amelia frowned. Every look she'd given him so far had been amused. This one put a little crease between those perfect eyebrows.
 
@@ -88,7 +88,7 @@ Amelia saw this. He watched her see it. She shut her eyes, pressed her lips toge
 
 Bal wasn't sure that was the comfort she seemed to think it was.
 
-Bal stayed where he was, halfway between his bench and the rug, unable to decide whether sitting or running was the more sensible choice. The rug was nearer. It had got him in, but he wasn't at all sure it could get him back out through a roof that let the sun come down.
+He stayed where he was, halfway between his bench and the rug, unable to decide whether sitting or running was the more sensible choice. The rug was nearer. It had got him in, but he wasn't at all sure it could get him back out through a roof that let the sun come down.
 
 Amelia didn't seem to mind. Her attention was on his arm.
 
@@ -104,7 +104,7 @@ Amelia laughed. It was a high, clear laugh, and it echoed off the stone walls of
 
 "My, how the fates work," she said, shaking her head in wonder. "You lose your hand for showing my sygl, and you still end up stumbling into my temple. Flying into it, no less."
 
-Bal stumbled back to his seat. He didn't decide to; his legs simply took him there, and he sat down hard on the cool stone.
+Bal made it back to his seat. He didn't decide to; his legs simply took him there, and he sat down hard on the cool stone.
 
 "You mean," he said quietly, "I had a blood sygl?"
 
@@ -156,7 +156,7 @@ Once he was done, Amelia exploded.
 
 He meant it literally. One moment she was sitting on the bench across from him, very still and very pale, and the next there was no girl on the bench at all. There was a whirling, shrieking cloud of bats, hundreds of them, their wings beating the air into a gale. They boiled up toward the open roof and wheeled around the pillars and streamed between the braziers so that the fires guttered and flared. Bal threw his arm over his head and ducked. Leathery wings brushed his hair. Tiny claws snagged his sleeve and let go. The noise filled the whole temple, a high furious chittering that set his teeth on edge.
 
-It went on for about a minute. Then the bats poured back together over the bench, and folded in on themselves, and Amelia was sitting there again in her long black dress, not a hair out of place.
+It went on for about a minute. Then the bats poured back together over the bench, and folded in on themselves, and Amelia was sitting there again, not a hair out of place.
 
 Bal lowered his arm cautiously. The hall smelled warm and musty, like the orphanage attic in August, and both fires were still swaying. A single tiny black wisp drifted down past his nose and vanished before it reached the floor. He looked at the place where it had been, and then at her.
 
@@ -164,7 +164,7 @@ Bal lowered his arm cautiously. The hall smelled warm and musty, like the orphan
 
 "Only when I'm angry," Amelia said through her teeth. "I haven't been this angry in a long while."
 
-She was still fuming. Bal could see it in the set of her jaw and in how her fingers had knotted in the black fabric of her skirt. When she spoke, she spoke mostly to herself, in a low, furious mutter.
+Her jaw was still set hard, and her fingers had knotted so tightly in the black fabric of her skirt that the knuckles showed. When she spoke, she spoke mostly to herself, in a low, furious mutter.
 
 "They lock me up in here and then act like I don't exist." She drew a slow breath and let it out again. Then she turned back to him, and some of the anger left her. "Why haven't you gone to school? You've got the magic for it. I can sense it on you. Even without my magic, you're still powerful in your own right."
 
@@ -192,7 +192,7 @@ She rose from her bench as she said it and walked toward him, one unhurried step
 
 Enough stories got told after lights out for Bal to know that this was the question that came right before the bad part. Nobody in those stories ever asked what *anything* meant until it was far too late.
 
-Bal swallowed nervously.
+Bal swallowed hard.
 
 "Uhm," he said. "Within reason."
 
@@ -216,7 +216,7 @@ Bal looked at her hand, and then at her face, and then down at the stump.
 
 It all sounded so wonderful that he didn't quite trust it. Going to a Sygldry school, as Fredrick had, climbing into a car with a trunk and waving goodbye to everyone on the steps. Learning magic from people who knew what they were doing instead of from a cracked secondhand book by flashlight. All of it was sitting there in front of him, close enough to touch, and there was still one big problem standing in the way.
 
-Still nervous, Bal held up the stump between them.
+Bal held up the stump between them.
 
 "How am I going to get your sygl back?" he asked. "I'd need a hand to put it on."
 

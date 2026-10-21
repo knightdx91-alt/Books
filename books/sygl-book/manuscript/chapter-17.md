@@ -34,7 +34,7 @@ Lora had read the entry more than once. She didn't stop to think.
 
 None of them needed the money for anything in particular, except the guild dues. They had agreed to it back in New Spring without much of a discussion.
 
-She was already halfway into that shop in her head. She had already bought plants and supplies to stock the herb room Bal had put in for her, and now she was going to watch a real master work from start to finish.
+She was already halfway into that shop in her head. She had bought plants and supplies to stock the herb room Bal had put in for her, and now she was going to watch a real master work from start to finish.
 
 ---
 
@@ -62,7 +62,7 @@ Six meant Lora could keep three for herself, once the other three went to Ms. Su
 
 "Why didn't Ms. Summers tell us to bring back all of them?" Amelia asked.
 
-Lora tucked the receipt into her pocket and got down on her heels in front of the flowers with her knife. She cut each stem carefully low and eased each flower into its own glass vial. The vials had ridden from the castle in her pack, wrapped in cloth.
+Lora tucked the receipt into her pocket and got down on her heels in front of the flowers with her knife. She cut each stem low, carefully, and eased each flower into its own glass vial. The vials had ridden from the castle in her pack, wrapped in cloth.
 
 "She only has the ingredients to make three. So it was no use being greedy." Lora pushed the cork into the last vial and stood up. "One potion is worth what she'd make in a month selling the others. I think the only reason she offered us two is that I'm interested in alchemy. Her face lit up when I started asking her questions."
 
@@ -86,7 +86,7 @@ He went off his feet and clear over the water. The water went by underneath him.
 
 For a while the world was green and full of bells.
 
-He got one knee under him. Then the other foot. The tree helped. Across the water somebody was shouting his name, Lora, he thought, and the ground kept tipping to throw him down again, and his hand went hunting for his rapier and could not seem to find the hilt.
+He got one knee under him. Then the other foot. The tree helped. Across the water somebody was shouting his name, Lora, he thought, and the ground kept tipping to throw him down again, and his hand went hunting for his rapier and could not lay hands on the hilt.
 
 He was not really hurt. The thing that had hit him was.
 
@@ -106,7 +106,7 @@ They were fine, all six. Lora had put them in the side pocket of his pack. If sh
 
 "Side pocket," Lora said, a little faintly, and pressed her fingers to her mouth.
 
-Amelia was still angry at the bear. She kept sending glares over the water at the body in the grass.
+Amelia kept sending glares over the water at the body in the grass.
 
 "Uh. Amelia," Bal said.
 
@@ -116,7 +116,7 @@ Her voice had lost its playfulness. Her head was in the fight, he figured.
 
 "Um. I know the bear couldn't hurt you," he said. "But it did manage to hurt your clothes."
 
-Amelia's face went blank. She did not understand.
+Amelia's face went blank.
 
 He waved a hand at his own chest.
 
@@ -124,7 +124,7 @@ She checked her front, and spun her back on all of them in one motion. The bear 
 
 Amelia fixed her dress. Her hands worked fast at it, and when she had it held together she walked straight past him, heading out of the woods. Her cheeks were flaming red.
 
-They followed her out. She walked by herself, well ahead, and none of them tried to catch up. They gave her time to get herself together.
+They followed her out. She walked by herself, well ahead, and none of them tried to catch up.
 
 ---
 
@@ -176,7 +176,7 @@ They had decided to walk straight back instead of camping a second night. It was
 
 It was full dark when they reached New Spring. They went straight up the square to the guild hall to turn in the flowers.
 
-The windows were lit. A Dawn member could always come in at night, so the Hall was staffed around the clock, and anyone could get help at any hour. Soren was on duty, which was a relief. She had helped them on their first visit.
+The windows were lit. Dawn members came and went at all hours, so the Hall never closed. Soren was on duty, which was a relief. She had helped them on their first visit.
 
 Lora unbuckled the side pocket of Bal's pack, and three of the vials went onto the counter in a row. Soren drew them over to her side and began counting out the reward.
 

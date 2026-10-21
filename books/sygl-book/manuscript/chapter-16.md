@@ -54,7 +54,7 @@ Lora arrived last, at a run, and Bal saw she had a rapier at her hip that had ne
 
 Bal tried Amelia. "We could still get you something. Zoran wouldn't mind."
 
-Amelia was scratching Hopper behind the ears. The offer seemed to surprise her.
+Amelia was scratching Hopper behind the ears. The offer caught her off guard.
 
 "I am my own weapon," she said. "Besides, I don't plan on fighting unless something really bad happens. Each of you needs to feel comfortable defending yourselves."
 
@@ -92,7 +92,7 @@ Hopper grew. She grew as if she were unfolding from inside herself, legs lengthe
 
 "I'm glad you thought to buy that collar," Bal said. "I'm not sure how the people back there would have taken a full-sized bloodwolf walking down the street."
 
-Hopper was plainly glad to be clear of the castle. She left the road at once and ranged ahead of them, out to the edge of the trees and back again, nose down and then up, checking everything for them. Lora said her raven would have liked this. It was sick, though, and she had left it at the castle rather than risk it getting hurt.
+Clear of the castle, Hopper left the road at once and ranged ahead of them, out to the edge of the trees and back again, nose down and then up, checking everything for them. Lora said her raven would have liked this. It was sick, though, and she had left it at the castle rather than risk it getting hurt.
 
 ---
 
@@ -138,7 +138,7 @@ He ran at the leader, because he had done the talking, and because he was the bi
 
 The leader brought his longsword around to meet Bal, and after that he was all Bal saw.
 
-A rapier was not a hacking blade. Lora had told him that the first week, and Zoran had told him after her. You kept moving. You took the small hits when they were there to take and you never stood still long enough for somebody to land a big one. Bal had been practicing nothing else since his first class.
+A rapier was not a hacking blade. Lora had told him that the first week, and Zoran had told him after her. You kept moving. You took the small hits when they were there to take and you never stood still long enough for somebody to land a big one. Bal had practiced nothing else in Warfare.
 
 He kept moving. He parried and stabbed and circled. The big man was slow, but whenever his sword met Bal's, it went up Bal's arm and into his teeth, and he did not tire. Bal put the point into his shoulder and felt it skid on the mail. He put it into the meat of his upper arm and felt that one go in. The big man grunted and came on.
 
@@ -250,7 +250,7 @@ They talked about it as they walked on, looking for somewhere to camp. They want
 
 About two miles on, a trail turned off the road into the woods.
 
-Amelia's place beside him was empty, with no noise at all. She was back before Bal had got his pack off his shoulders, brushing a leaf off her shoulder.
+Amelia's place beside him was empty, with no noise at all. She was back before Bal had got his pack off his shoulders, picking a leaf out of her hair.
 
 "There's a fire pit," she said. "Buried, so it's been used. I think travelers stop here a lot."
 
@@ -274,7 +274,7 @@ Bal had no idea.
 
 "Anyway, all she said was 'I do not like this.' And then, 'He is already hurt.' Before I'd even seen it." Viridia pulled a dead branch off a stump. "She hates that she can't protect you. Lora had it easier, I think. I heard her muttering about all the mistakes you were making." She laughed. "Nonstop."
 
-While it was happening, the fight had felt endless, all that dodging and all those careful strikes. It had probably been over in three or four minutes. Bal was reasonably sure he could have handled one of the younger men without much trouble. But he would be damned if he let any of the girls take on the big one and get hurt doing it. He would much rather be hurt himself.
+While it was happening, the fight had felt endless, all that dodging and all those careful strikes. It had probably been over in three or four minutes. Bal was reasonably sure he could have handled one of the younger men without much trouble. But he would be damned if he let any of the girls take on the big one and get hurt doing it.
 
 They had been lucky, too. If Hopper had not gone for the crossbows first, it could have gone a lot worse.
 
@@ -318,7 +318,7 @@ At that time of night the only sounds were the insects and their own feet in the
 
 "What's on your mind?" Bal asked, once they were well away from camp.
 
-Amelia took her time answering. Bal waited. He did not mind waiting. It was a good night for it, still and very quiet.
+Amelia took her time answering. Bal waited. He did not mind waiting. It was a good night for it, still and windless.
 
 "I feel useless." Her voice was flat and quiet. "I finally have people I think of as friends, and I can't help them. I was afraid someone would die. I can't remember ever being afraid of that before. When he cut your back," she said, and her eyes shut, and opened again, "it took every bit of will I have not to run over there and tear that man in half."
 
@@ -334,7 +334,7 @@ He stopped her there, among the black trunks, and turned her to face him.
 
 "Our group means a lot to me. You mean a lot to me. I don't need you here for what you can do for me. I want you here because I like you."
 
-She was quiet.
+She held still.
 
 "Besides," he said, "you can always jump in if you see one of us about to get killed. Say a crossbow bolt had hit somebody. You've just got to believe we'll do everything we can to stay alive."
 

@@ -8,15 +8,15 @@ After the bright yard, the front hall of the orphanage was dim and cool, and it 
 
 "Good for the staff," Bal said. "You can't sneak anywhere."
 
-Thankfully, most of the other kids were outside. That suited Bal fine. He had to go and see Mrs. Brown, and he would rather not have half the orphanage trailing behind him asking about his hand.
+Most of the other kids were outside, which suited Bal fine. He had to go and see Mrs. Brown, and he would rather not have half the orphanage trailing behind him asking about his hand.
 
 Mrs. Brown was one of the women who helped run the orphanage. She was in her forties, and ever since Bal was small she had worn a light gray skirt and a white blouse, with her graying hair tucked up into a bun. Some kids didn't like her. If she caught you doing something you weren't supposed to, you got a severe punishment, and she was very good at catching people. Bal had never held that against her. As he saw it, if what you were doing was worth getting caught for, why get upset when you were? He had weeded his share of cabbages on the strength of that idea, and he still thought it was sound.
 
 But Balthazaar had always known something else about Mrs. Brown, too. If he ever truly needed someone to talk to, or if he had really messed up, he could go to her.
 
-This was one of those times he really needed to talk to her. He hadn't decided yet whether it was also the other kind.
+This was one of those times he needed to talk to her. He hadn't decided yet whether it was also the other kind.
 
-Her office was at the end of the downstairs hallway, past the bulletin board with its curling chore lists. Five wooden chairs stood in a row beside her door. He knocked twice on the door, propped the rolled rug against the end chair, took the one nearest the door, and motioned for Amelia to do the same.
+Her office was at the end of the downstairs hallway, past the bulletin board with its curling chore lists. Five wooden chairs stood in a row beside her door. He knocked twice, propped the rolled rug against the end chair, took the one nearest the door, and motioned for Amelia to do the same.
 
 "What are we doing?" Amelia asked, plopping into the next chair.
 
@@ -32,7 +32,7 @@ Amelia did not seem worried in the slightest. Bal was worried enough for both of
 
 "Come in," a voice yelled from behind the door.
 
-Bal stood, wiped his palm on his pants, and motioned for Amelia to follow him inside.
+Bal stood, wiped his palm on his pants, and led Amelia inside.
 
 ---
 
@@ -122,7 +122,7 @@ Amelia saw. She reached over and covered his fist with her own hand. Her palm wa
 
 "Don't worry," she told him softly. "They can't do it again."
 
-Bal looked into her eyes. They were very red and very steady, and none of the teasing was in them now. He believed her. Under her hand his fingers came open one at a time, and she didn't let go.
+Bal looked into her eyes. They were steady, and none of the teasing was in them now. He believed her. Under her hand his fingers came open one at a time, and she didn't let go.
 
 "So what do I need to do?" he asked Mrs. Brown. The words came out rougher than he meant them to, and he cleared his throat.
 
@@ -166,9 +166,9 @@ It felt a little odd, being teased like this by the originator of an entire sygl
 
 "I like to read," Bal said, and shrugged. He packed *Sygldry Year 2* with the others. "Just think, if I hadn't seen that flicker, or come across that spell, I'd never have found you."
 
-Amelia lowered the book. For a little while she didn't say anything. Then she closed it, suddenly serious, set it aside on the blanket, and sat up.
+Amelia lowered the book. For a little while she didn't say anything. Then she closed it, serious now, set it aside on the blanket, and sat up.
 
-"I should warn you," she said. "The others aren't going to like you being at the school. It's not just the students and the teachers. I'm talking about the other originators." She drew her knees up under the black dress. "They can't interfere with you directly. But other people can."
+"I should warn you," she said. "The others aren't going to like you being at the school. It's not just the students and the teachers. I'm talking about the other originators." She drew her knees up. "They can't interfere with you directly. But other people can."
 
 Bal buckled the pack shut and came to sit beside her on the edge of the bed. The springs dipped and tipped them a little closer together.
 
@@ -192,7 +192,7 @@ Bal opened his mouth.
 
 A dozen questions jostled up at once, and he went with the one that had snagged.
 
-"Inherited gifts?" he asked, curious.
+"Inherited gifts?" he repeated.
 
 Amelia grinned at him. The seriousness went out of her face as fast as it had come.
 
@@ -202,7 +202,7 @@ Amelia grinned at him. The seriousness went out of her face as fast as it had co
 
 "Now," Amelia said over him, "I'm hungry. Let's go get something to eat."
 
-Bal's eyes widened. He was suddenly very aware of the side of his neck.
+Bal's eyes widened. He was all too aware of the side of his neck.
 
 Amelia rolled hers.
 

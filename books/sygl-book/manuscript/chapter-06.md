@@ -12,7 +12,7 @@ She had the Tempus sygl on the back of her sweater.
 
 Bal twisted to check his own back, which was still blank, exactly as Verin had promised it would be. The girl's sygl was sharp and angular, and whenever the sun broke through the branches and landed on it, the thing crackled. Tiny threads of light jumped across the wool and vanished. Bal caught it three or four times and couldn't work out whether the sweater was doing it or the girl was.
 
-Since they were all in the same buggy, he figured the three of them were probably siblings.
+Since they were all in the same buggy, he figured the three of them were siblings.
 
 Amelia had her chin propped on her fist and was watching the sparks too.
 
@@ -140,9 +140,9 @@ Aren turned to the others.
 
 "Are they yours?" he asked them.
 
-One by one, each of them shook their heads.
+One by one, each of them said no.
 
-Aren faced them again with a sad look on his face.
+Aren faced them again with a sad smile.
 
 "I'm sorry, young ones," he said. "If yours is the blood sygl, then I'm afraid you've come so far for nothing. As you can see." He gestured toward the empty throne, and the gold sygl on its front shone back at him. "Lady Amelia has not come to claim you. And unless you have an originator as your patron, you may not attend this school."
 
@@ -208,7 +208,7 @@ Amelia's laugh went bouncing down the stairwell ahead of them.
 
 At the bottom of the stairs they came out into another corridor, wider than the first, and this one was lined with paintings. Old ones, mostly, in heavy frames, landscapes and portraits of strangers in clothes nobody had worn for centuries. A woman in one of them was holding a fish. He made a note to come back and find out why.
 
-"Why didn't you?" Bal asked. He was curious. "Wreak havoc, I mean."
+"Why didn't you?" Bal asked. "Wreak havoc, I mean."
 
 Amelia shrugged.
 

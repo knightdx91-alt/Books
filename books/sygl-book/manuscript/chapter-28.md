@@ -24,7 +24,7 @@ Amelia hesitated.
 
 "Some," she said. "You've been talking in your sleep."
 
-Whatever he'd said in his sleep, he decided to leave it there. He told her the rest, all of it, from the leaf in Viridia's hair to the bolt out of a clear sky, the craters, the empty grass, Jazen and Barda, the mage with the whip made of lightning. His voice gave out twice and she waited both times. Partway through, his hand ended up between both of hers. When he finished, she was very quiet, studying their hands on top of the quilt.
+Whatever he'd said in his sleep, he decided to leave it there. He told her the rest, all of it, from the leaf in Viridia's hair to the bolt out of a clear sky, the craters, the empty grass, Jazen and Barda, the mage with the whip made of lightning. His voice gave out twice and she waited both times. Partway through, his hand ended up between both of hers. When he finished, she sat studying their hands on top of the quilt.
 
 "Should I find them," she said, "and bring them home?"
 
@@ -36,7 +36,7 @@ He would have to deal with this himself. Somehow.
 
 "No," he said. "I'll figure something out."
 
-He saw what it cost her to hear that. Her face showed it plainly. And she could see what it cost him to say it; he was sure of that too. She did not argue. She let his answer stand.
+He saw what it cost her to hear that. Her thumb stopped moving on his knuckles. She could see what it cost him to say it, too. She did not argue. She let his answer stand.
 
 The quiet went on, and he let it.
 
@@ -48,7 +48,7 @@ Bal jumped, and everything from his neck to his navel objected.
 
 "Come in!"
 
-The door opened slowly, a crack and then wider, and Xavier put his head around it. He looked worried. He seemed to be in two minds whether to come in or stay out.
+The door opened slowly, a crack and then wider, and Xavier put his head around it. He looked worried. He kept hold of the door, as if he might yet back out.
 
 "What is it, Xavier?"
 
@@ -106,7 +106,7 @@ Amelia appealed to the ceiling for patience.
 
 "You've been researching blood powers," she said. "Even ones nobody else has ever known about. But there's one not even you have figured out." She considered that. "To be fair, nobody else ever did either. But still."
 
-Bal lowered himself onto the bed again, carefully, and faced her. He was very curious now.
+Bal lowered himself onto the bed again, carefully, and faced her. For now, the pain in his chest could wait.
 
 "What is it?"
 
@@ -200,9 +200,9 @@ He had ideas to try. New ones. Some of them came from things he had seen in her 
 
 Then the morning of the duel came, and he was ready to face Toma.
 
-He was not fooling himself. There was still a good chance he would die today. He knew that. But there was no other road open to him, and at least now he had a fighting chance, which he'd lacked entirely in that bed.
+He was not fooling himself. There was still a good chance he would die today. But there was no other road open to him, and at least now he had a fighting chance, which he'd lacked entirely in that bed.
 
-The bandolier crossed his chest from shoulder to hip. In each of its little loops sat a small glass vial filled with his own blood, and each was stoppered tight. He pressed each stopper in turn with his thumb, end to end. All secure.
+The bandolier crossed his chest from shoulder to hip. In each of its little loops sat a small glass vial filled with his own blood, stoppered tight. He pressed the stoppers in turn with his thumb, end to end. All secure.
 
 "Ready," he told Amelia.
 

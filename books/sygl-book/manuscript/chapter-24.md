@@ -90,7 +90,7 @@ Xavier's people had said the Three Boars took a fresh cask of ale every second W
 
 Bal knocked at the street door, waited the polite length of time, and let himself in.
 
-A man came from an office at the back to meet him. He was somewhere in his forties and built like he still lifted his own barrels, with his sleeves rolled to the elbow. His brown hair had started going thin on top. His eyes were sharp. Bal's servant's coat and dusty boots plainly said this might be an order.
+A man came from an office at the back to meet him. He was somewhere in his forties and built like he still lifted his own barrels, with his sleeves rolled to the elbow. His brown hair had started going thin on top. His eyes were sharp. They went over Bal's servant's coat and dusty boots and found a customer.
 
 "Hello. My name's James. How can I help you?"
 
@@ -140,7 +140,7 @@ The girls had stayed in their room. They'd had lunch sent up instead, and there 
 
 The room had only one chair. Bal got it. Viridia handed him a bowl and half the loaf, and he ate.
 
-The stew had real meat in it, a lot of it, and carrots and onions and some kind of bean, all in a broth thick enough to hold the spoon up. At Saint Andre's, meat in a stew had been more of a rumor than an ingredient. Bal went slowly and savored every spoonful.
+The stew had real meat in it, a lot of it, and carrots and onions and some kind of bean, all in a broth thick enough to hold the spoon up. At Saint Andre's, meat in a stew had been more of a rumor than an ingredient. Bal made every spoonful last.
 
 "How did it go?" Lora asked.
 
@@ -198,7 +198,7 @@ Viridia might have guessed, and so might Bal. Sword work, books, alchemy, it mad
 
 Lora was already unwrapping, sorting each herb into its own jar or twist of paper. Bal offered to help. So did Viridia. Lora told them to enjoy the city instead, since she couldn't leave the cauldron until the brew was well under way. They hung back and offered again.
 
-"Does either of you know a single thing about alchemy?" Lora said, exasperated. "No. You don't. You'll just be in my way."
+"Does either of you know a single thing about alchemy?" Lora said. "No. You don't. You'll just be in my way."
 
 She herded them out with both hands, told them to have fun, and closed the door on them.
 
@@ -306,7 +306,7 @@ At about five in the afternoon, Lora stretched. Her back went off in a long row 
 
 She dipped her spoon into the cauldron and lifted it, and let what was in it run slowly back off the edge in a thin string.
 
-It was clear as water. Bal could find nothing in it at all. Twenty hours of dark powders and green stalks had gone into that pot, and what was left looked like you could wash your face in it.
+It was clear as water. Twenty hours of dark powders and green stalks had gone into that pot, and what was left looked like you could wash your face in it.
 
 "See how clear it is?" Lora said. "Not a hint of anything I put in."
 

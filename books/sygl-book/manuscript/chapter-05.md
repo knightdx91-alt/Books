@@ -2,7 +2,7 @@
 
 Pierre knocked on Bal's bed frame at six o'clock.
 
-The dormitory windows had gone from black to a thin, watery gray, and all down both rows the other boys were lumps under their blankets. Pierre stood at the foot of the bed in pajama bottoms and a sweater, his hair flattened on one side. Pierre was another of the orphans, and some mornings he helped Mrs. Brown before the rest of the building woke up.
+The dormitory windows had gone from black to a thin, watery gray, and all down both rows the other boys were lumps under their blankets. Pierre stood at the foot of the bed in pajama bottoms and a sweater, his hair flattened on one side. He was another of the orphans, and some mornings he helped Mrs. Brown before the rest of the building woke up.
 
 "Get up," Pierre whispered. "Mrs. Brown wants you." He yawned hugely in the middle of it and had to start over. "She says grab your things, then stop by the kitchen for a bite to eat, then go to her office. In that order."
 
@@ -42,7 +42,7 @@ Mrs. Brown thanked him.
 
 "Good." Verin faced Bal again. "I'll be waiting out front. Please don't take too long saying your goodbyes." He strode out past them, closing the door softly behind him.
 
-Bal faced Mrs. Brown.
+Bal swung back to Mrs. Brown.
 
 "I didn't think to ask yesterday," he said, "but how am I supposed to explain Amelia until everyone knows who she is? A familiar brand isn't something most people would expect to see on a person, is it?"
 
@@ -70,7 +70,7 @@ She had both hands tucked out of sight at the small of her back. As they turned 
 
 The portal took up the whole main walkway in the front courtyard.
 
-It was twelve feet wide, if Bal had to guess, and eight feet tall, a flat upright oval of air with a faint shimmer around its rim. The gravel lane showed around its edges, quite ordinary in the early light. Through the middle of it was somewhere else entirely.
+It was twelve feet wide, if Bal had to guess, and eight feet tall, a flat upright oval of air with a faint shimmer around its rim. The gravel lane showed around its edges, ordinary in the early light. Through the middle of it was somewhere else entirely.
 
 On the far side a horse and buggy stood waiting on a dirt track in a dark forest. The trees over there were huge and close together, their trunks black, and the light between them was dim and blue, late-evening light, though on this side the sun was barely up. A lantern hung from a curved metal arm on the front of the buggy, already lit, its soft yellow light falling across the horse's back.
 
@@ -184,7 +184,7 @@ Bal glanced sideways at Amelia. She had her lips pressed tightly together and wa
 
 Verin didn't notice. He was chasing a piece of carrot around his bowl.
 
-"You'll get your schedule from the Lead Mage in your dorm," he said, "but all first years take the same classes. It's only the times that are different. They mix all the different sygls together in the classes so you can get to know other mages. It's meant to help you make friends with people from the other sygls. They know that once you leave school, a lot of people tend to stick with their own." He scraped up the last of the stew and set his empty bowl on the table. "That's about it. Anything else, you'll have to figure out on your own."
+"You'll get your schedule from the Lead Mage in your dorm," he said, "but all first years take the same classes. It's only the times that are different. They mix all the sygls together in the classes so you can get to know other mages and make friends. They know that once you leave school, a lot of people tend to stick with their own." He scraped up the last of the stew and set his empty bowl on the table. "That's about it. Anything else, you'll have to figure out on your own."
 
 He yawned, and stretched until his shoulders cracked.
 
@@ -196,7 +196,7 @@ He threw a couple more logs onto the fire, pulled off his boots, and crawled int
 
 Bal collected Amelia's bowl along with his own, picked Verin's off the table and went outside to wash them in the horse trough. Amelia came after him.
 
-The fire in the yard had burned down to a red glow. Thistle was grazing at the edge of the clearing, and only raised his head a little when they came out of the house before going back to his supper. Bal dipped the first bowl into the trough. The water was cold enough to make his fingers ache.
+The fire in the yard had burned down to a red glow. Thistle was grazing at the edge of the clearing. He spared them a glance as they came out of the house, then returned to his supper. Bal dipped the first bowl into the trough. The water was cold enough to make his fingers ache.
 
 While he rinsed the bowls, Amelia stood in the middle of the yard with her head tipped all the way back, staring straight up.
 
@@ -228,7 +228,7 @@ An owl called once, somewhere far off in the trees. Neither of them looked towar
 
 "What I didn't know," Amelia said, "was that they had their other high priests hidden outside. Every one of them gave their lives to shut me in. It took the lives of eight high priests to imprison me for all that time."
 
-She didn't open her eyes. A single tear slid out from under her lashes and ran slowly down her pale cheek, and in the window's light Bal saw that it was blood.
+She didn't open her eyes. A single tear slid out from under her lashes and ran slowly down her cheek, and in the window's light Bal saw that it was blood.
 
 He wiped it away with his thumb.
 
@@ -254,7 +254,7 @@ At the word, Amelia's eyes brightened in the dark. She took his left hand, the o
 
 Slowly, Amelia bit into his wrist.
 
-Bal barely felt it. Her fangs going in were a quick, sharp pressure, there and then gone. After that he felt only the cool of her hands holding his arm steady, and her hair brushing his knuckles, and the small, steady sound of her drinking.
+Bal barely felt it. Her fangs going in were a quick, sharp pressure, there and then gone. After that he felt only the cool of her hands holding his arm steady, and her hair brushing his knuckles, and the small, quiet sound of her drinking.
 
 He listened to it for a bit. Then he started talking.
 

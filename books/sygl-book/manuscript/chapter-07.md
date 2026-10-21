@@ -66,7 +66,7 @@ Bal fetched his pack from the main room and lifted the lid of the chest. It was 
 
 He pressed a hand into the blanket. It was as soft as it looked.
 
-Then he went out and closed the bedroom door behind him, satisfied.
+Then he went out and closed the bedroom door behind him.
 
 A dorm with no set rooms. Bal planted himself in the center of the main room and thought about what that meant. If a room appeared when you needed it, then what did he need? A library, obviously. That was the first thing. And if he was going to live here, a kitchen. And somewhere to eat whatever got cooked in it.
 
@@ -80,7 +80,7 @@ The second door was the library.
 
 It was smaller than the common room, with tall bookshelves lining the walls and five chairs drawn up in front of another fireplace. The fire was laid but not lit. The shelves were bare from top to bottom. Bal ran his hand along the nearest. Not even dust.
 
-He was a little disappointed. Then he looked again at the five chairs, and the empty hearth, and the long bare shelves, and pictured them full. It would be a good room to read in, once he had something to put on them. Fredrick's books would fill about a foot of one shelf. That was a start.
+His shoulders dropped. Then he looked again at the five chairs, and the empty hearth, and the long bare shelves, and pictured them full. It would be a good room to read in, once he had something to put on them. Fredrick's books would fill about a foot of one shelf. That was a start.
 
 The third door was the dining room. A large mahogany table took up most of it, dark and glossy enough that the ceiling showed in it, with polished wooden chairs set all around. Bal walked the length of the table and back. Passing the salt would take a long arm.
 
@@ -100,9 +100,9 @@ His stomach growled.
 
 He could have cooked. There was a whole chest of meat in the kitchen. But somewhere in this castle there was a dining hall, and he was curious to find it.
 
-He took the stone steps down, and the wall slid aside to let him out. He retraced his way past the paintings, up the narrow stairs, and along the corridor, and when he got near the main part of the school he began to hear people talking and laughing.
+He took the stone steps down, and the wall slid aside to let him out. He retraced his way past the paintings, up the narrow stairs, and along the corridor, and when he got near the main part of the school he heard people talking and laughing.
 
-The corridor let out into a large courtyard in the middle of the school. Students filled it, sitting around in groups on benches and the edges of planters, talking. It didn't take long to work out how they were sitting. Most of them were with others of their own sygl, Waves with Waves, Terra with Terra. A few of the braver ones had drifted over to chat with somebody from another group.
+The corridor let out into a large courtyard in the middle of the school. Students filled it, sitting around in groups on benches and the edges of planters. It didn't take long to work out how they were sitting. Most of them were with others of their own sygl, Waves with Waves, Terra with Terra. A few of the braver ones had drifted over to chat with somebody from another group.
 
 Bal pulled his sweater around to look at the back. The blood sygl had come up there at some point during the claiming, dark red on the dark wool. Verin had said it would. He hadn't even noticed.
 
@@ -112,7 +112,7 @@ Some of the students had noticed. A few heads turned as he stepped out of the co
 
 The voice came from behind him. Bal turned quickly.
 
-A girl stood there with her hands in her pockets. She was a little taller than he was. Her hair was pale blue, a cold, bright blue like the sky at the edge of a storm, and her eyes were the same color exactly. She had a small smile on her face.
+A girl stood there with her hands in her pockets. She was a little taller than he was. Her hair was pale blue, a cold, bright blue like the sky at the edge of a storm, and her eyes were the same color exactly. She wore a small smile.
 
 It was the Tempus girl who had ridden ahead of them on the road that morning. So it had been her doing the crackling, after all, and not the sweater. The two boys must only have shared her ride.
 
@@ -192,7 +192,7 @@ He laid it on his plate. The plate vanished. In its place was a big silver dish,
 
 Bal reached for a slice. Across the table Viridia already had a burger in both hands and was taking a large bite out of it.
 
-They sat in silence for a while, both of them busy with their food. The pizza was very good. It was so much better than anything the orphanage cook had ever made that Bal ate the first slice too fast and burned the roof of his mouth, and then ate a second one, and a third.
+They sat in silence for a while, both of them busy with their food. The pizza was good. It was so much better than anything the orphanage cook had ever made that Bal ate the first slice too fast and burned the roof of his mouth, and then ate a second one, and a third.
 
 "You nervous about your classes?" he asked, once he'd finished the third.
 
@@ -220,7 +220,7 @@ She coughed, and coughed harder, one hand flat on the wood. Bal half rose to go 
 
 "Wait," she croaked. "What? I don't understand. Lady Amelia, you're his familiar? What does that even mean?"
 
-In answer, Amelia lifted her black bangs off her forehead with two fingers.
+In answer, Amelia lifted her bangs off her forehead with two fingers.
 
 The brand was there, a small blood sygl matching the one in Bal's hand, glowing a soft red against her pale skin. Viridia stared at it.
 
@@ -284,7 +284,7 @@ Bal shrugged.
 
 They stayed and talked a while longer, until the hall had mostly emptied around them and the silver dish held only crusts. Then Viridia climbed off the bench and stood.
 
-"I should get back to my dorm," she said. She waved goodbye from the end of the table and headed off down the hall, and out through the tall doors.
+"I should get back to my dorm," she said. She waved goodbye from the end of the table and went off down the hall and out through the tall doors.
 
 Bal sat on at the empty table. Then he headed back to his dorm.
 
