@@ -40,7 +40,7 @@ I agreed with him, and I was glad he had said it, and I studied the farms on its
 
 The black had her teeth in the hurdle lashing again, and he left me to see to it.
 
-Left to myself, I drew the Pentax up by its strap from under my dress, where it had hung since Lechaion, and the pushed-in place on the lens's front ring flashed as it cleared the cloth. I put it to my eye, and in the finder the mountain was small enough to cover with a thumb, very green, with the edge of the sail clipping the sky on the left and a gull flying through it once. I turned the ring until the farms came sharp, and my forefinger found the shutter button and rested there.
+I drew the Pentax up by its strap from under my dress, where it had hung since Lechaion, and the pushed-in place on the lens's front ring flashed as it cleared the cloth. I put it to my eye, and in the finder the mountain was small enough to cover with a thumb, very green, with the edge of the sail clipping the sky on the left and a gull flying through it once. I turned the ring until the farms came sharp, and my forefinger found the shutter button and rested there.
 
 Seventy-nine. It came unasked, two figures with nothing round them, while the mountain stood small and green in the glass.
 
@@ -60,9 +60,9 @@ Felix took his foot off the rail.
 
 Puteoli's mole marched seaward on arches. It was a road carried on piers, a long row of them, with the swell running in under each arch and out beyond it, and along its top went a paving with columns set at intervals and a statue on every column, men in togas streaked white by gulls. The piers were concrete, poured somehow under water and faced with brick, and the sea had eaten the brick off the lowest courses and bared the gray core, packed full of pebbles, with a fringe of green weed along each pier that lifted and lay down again with every swell. The crew got out the long sweeps and walked us in along it to a berth near the shore end, between grain ships from Alexandria that were broader than anything at Lechaion and carried a little three-cornered sail high on the mast above the yard.
 
-The quay was crowded from the water's edge to the warehouse doors. Porters went to and fro on the planks of the Alexandrians with sacks on their shoulders and their heads down, and grain dust from the sacks settled in their hair. A man was selling something fried in oil out of a pan on a brazier, and a priest in white linen with his head shaved was arguing with him about it, in Greek at first and then louder. A dog slept at the foot of a plank, and the porters stepped round it.
+The quay was crowded from the water's edge to the warehouse doors. Porters went to and fro on the planks of the Alexandrians with sacks on their shoulders and their heads down, and grain dust from the sacks settled in their hair. A man was selling something fried in oil out of a pan on a brazier, and a priest in white linen with his head shaved was arguing with him about it. A dog slept at the foot of a plank, and the porters stepped round it.
 
-Pacuvia went down our plank first, with the brooch at her throat, and her father behind her for once instead of at the rail. The mother-in-law was waiting at the foot, a small woman in brown, with one slave holding a parasol above her and another holding nothing, and she read the brooch before she read the face. The girl said her greeting, the whole of it, in her careful Latin, with her fingers laced in front of her, and the old lady heard her out to the end and answered her in Greek, quick Greek, the Greek of the quays, of which I caught perhaps half: that the house was up at the highest part of the town, that there was fish, that the girl was thinner than she had been told. The question she put next was about us, and it came slowly enough for me to have all of it.
+Pacuvia went down our plank first, with the brooch at her throat, and her father behind her for once instead of at the rail. The mother-in-law was waiting at the foot, a small woman in brown, with one slave holding a parasol above her and another holding nothing, and she read the brooch before she read the face. The girl said her greeting, the whole of it, in her careful Latin, with her fingers laced in front of her, and the old lady heard her out to the end and answered her in Greek, quick Greek, the Greek of the quays, of which I caught perhaps half: that the house was up at the highest part of the town, that there was fish, and the girl thinner than she had been told. The question she put next was about us.
 
 "Those on your father's deck, who are they?"
 
@@ -284,7 +284,7 @@ I had kept the fuller and his wife out of all that, and lost the baker entirely.
 
 "There's work in you as well as him, you've hands that are for something, I heard about you at that wall yesterday with your nail in it, half that street saw you. Put a board up at that shop and they'll be at your sill by market day with their broken things in a cloth, there's not a kitchen on this street that didn't have its shelf come down, and half of them are eating off the pieces yet." She drank. "That was my cousin did that wall. He's a bad plasterer and he's family, so it stays."
 
-On the wall of her own house, beside her counter, there was a broad patch of new whitewash. It was still dark with wet at its edges, and through the white the shapes of red letters showed faintly, as they would until the second coat. It had appeared since we came, and Grata saw me looking.
+On the wall of her own house, beside her counter, there was new whitewash. It was still dark with wet at its edges, and through the white the shapes of red letters showed faintly, as they would until the second coat. It had appeared since we came, and Grata saw me looking.
 
 "Don't lean on that," she said. "It's wet. My son's at the baths. A lad who means to stand for aedile one day has to be seen at the baths by the right people with nothing on, and the right people are always at the baths, and when any of them works, the gods know."
 
@@ -370,7 +370,7 @@ A small boy of that family was at my elbow. He had rose petals stuck to the bott
 
 "Come here and carry this."
 
-The boy returned to his eels. The family soon had their baskets and their cloths together and went past me in at the gate, the boy last, walking on the outsides of his feet to keep the petals on. Whenever I tried the white plaster next to the door it was still giving back the sun's warmth, and the door stayed cool.
+The boy returned to his eels. The family soon had their baskets and their cloths together and went past me in at the gate, the boy last, walking on the outsides of his feet to keep the petals on. Whenever I tried the white plaster next to the door it was still giving back the sun's warmth; the door was cool.
 
 When my hand left it, the coolness stayed in my palm for some distance, and was gone by the gate. The rose woman was still on her step.
 

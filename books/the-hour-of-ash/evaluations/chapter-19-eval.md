@@ -678,3 +678,336 @@ None of them is pointed at.
 - The orchestrator applies the script and runs the confirmation re-evaluation.
 
 **BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis). In particular, the Casual 8.5 and the Pacing 8.5 for a long panoramic arrival are the scores most likely to differ for a human reader. An *Outlander* reader may rate the road stretch higher than I do, and a romance-first reader lower.
+
+---
+
+# Re-evaluation after cycle 1
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Date:** 2026-10-21
+**Page evaluated:** `manuscript/chapters/chapter-19.md`, md5 `db9b0e7b…`, sha256 `9af5c485…`. This is byte-identical to the tested `ch19-fixed.md`. A word-level diff against the cycle-0 page (md5 `b0500c45…`) shows all 27 swaps, and nothing else changed.
+
+**Read against:**
+- the book's CLAUDE.md;
+- STATE.yaml `guardrails` and `resolved_author_decisions`, including **AUTHOR-END-1**, CP3-3, CP3-4 and CP3-5;
+- `feedback/progress.md`, including the Ch.19 brief and the **"seam" ruling**;
+- voice-dna §0–§8;
+- the character-bible:
+  - every at-risk and spent block through "after Ch.19";
+  - the GRATA, PACUVIUS, MARA, VALENS and FELIX Ch.19 blocks;
+  - the Ch.19 walk-ons;
+  - the planned-roles table;
+- outline `## Chapter 19` and Ledger row 19;
+- the cycle-0 evaluation above.
+
+**Measured on the cycle-1 page** (run from /home/user/Books):
+- `check_chapter.sh 19` is **all clean**:
+  - style: 8,300 words, simile 1.1/1k, em-dash 0, foreshadow 0;
+  - grammar 0; rhythm 0;
+  - show/tell: dialogue 24.6%, no flags;
+  - voice-wear strict: clean;
+  - tic gate: clean (and-chains 6/9, every gesture class under cap);
+  - echo 0; metaphor 1.6 fig/1k, median 18;
+  - shape CLEAN.
+- `tic_report.py --echoes 19`: **none / none / none**.
+- `shape_check --strict`: `19 8279 4 25 18 scene-set long-fade`, CLEAN.
+
+## Did the 27 swaps introduce anything new?
+**Method:**
+- Every 3–7-gram touching a changed word was checked against Ch.1–18, all 13 voice-bank samples and the rest of Ch.19. Stop-word-bounded strings were included.
+- An anaphora scan covered the whole chapter.
+- I read every swap in its paragraph.
+- I grepped the law items.
+
+**Clean on the asked-for checks, with five exceptions:**
+
+| Check | Result |
+|---|---|
+| Added explanation | **None added.** R6 and R5 removed the door's gloss. R15's rewrite **kept** the old explanation clause ("and it came slowly enough for me to have all of it"), and with it a 3rd comprehension report. The cycle-0 eval counted 2 after the PATH; the page holds 3. → **F3** |
+| A repeat moved sideways | **Two were created:**<br>• **D3** "Left to myself" put "left" ×4 into ~150 words around the stopping sentence "My finger left the button." (l.41 "he left me", l.43 "Left to myself" and "on the left", l.47). → **F1**<br>• **R13** "in Greek at first and then louder" (l.63) rebuilt l.13's "in a whisper at first and then aloud" fifty lines earlier, louder for aloud. → **F2**<br>**Two were adjacent:**<br>• **R8**'s "broad" is the chapter's 4th, and Grata herself is "broad" at l.229. → **F4**<br>• **R2** rewrote l.373 and kept "the door stayed cool". That leaves "stayed" ×3 in ~150 words, and the other two are protected lines ("it stayed a picture of a door."; "the coolness stayed in my palm"). → **F5** |
+| Echo of an earlier chapter, including whole spoken lines | **None.** The gate shows none / none / none. By hand: "Who to?", "I kept you a bowl.", "Freedman of whom?" and "The third?" occur nowhere in Ch.1–18 or the samples. The remaining 3-gram hits ("it was warm", "I put the", "all of it") are grammar. Ch.6's "It was warm." is the watch, not a threshold. |
+| New triad | **No new one.** The anaphora scan found one the cycle-0 eval missed (#3 should have read FOUND, minor): l.65 "that the house was up…, that there was fish, that the girl was thinner…", a narration triad and a retired reflex. → **F3** (third clause varied). Mara's "He read… He read… He has…" (l.117) is argument in speech and is kept. |
+| Anything loading the door toward the ending | **Nothing:**<br>• END-1 reserved words "seam" / "niche" / "painted plaster" / "hand flat" = 0 / 0 / 0 / 0;<br>• R9's "as near full size as the little house allowed" says what "at the size of a real one" said, and no more;<br>• R1 and R2 take motion out of the hold, they do not add it;<br>• "seam" ruling respected. |
+
+**Judged and kept (no change):**
+- **R1 "Behind me an ungreased axle squealed, and I moved off the road for the cart."**
+  - The cart interrupts the hold, and Mara answers it with an act. It does not measure the hold.
+  - The rule ("nothing that moves… is put into it") is met.
+  - **Carts at a threshold are CLOSED at 2** (Ch.9, Ch.19).
+- **l.357 "the road's noise went on round me as before"** (the family's jug, the geese, the mule).
+  - This is the touch's negative result: the air is the road's air, and nothing hushes. It is not a duration measure. Kept as at cycle 0.
+- **R2's family exit "went past me in at the gate, the boy last…".**
+  - The exit is the boy's petal walk, an event in its own right. No stillness verb remains.
+- **The race frame "before [X] had":** 3 in narration (l.107, l.149, l.247), not 2.
+  - The cycle-0 eval counted l.191 (cut by C4) and missed l.149.
+  - l.149 ("before we had gone fifty paces") is a distance idiom, not the competence race.
+  - l.107 (the master's brusque exit) and l.247 (the fig before the bed) are character.
+  - WATCH: 0–1 in Ch.20.
+- **"And…" rejoinders:** 3 openers across 2 owners (clerk ×2, wine-woman ×1), not one owner as cycle 0 said. They are within ≤4, and the bible's "one speaker should own it" is a *should*. WATCH.
+- **"wedged against the curb, and the mules…" (R11) next to "eaves to curb, and the red…" (l.211).** A stop-word frame; no reader hears it.
+- **The clerk's object-to-the-eye beat ×4 in one scene** (list, leaf, his own tablet, a sailor's tablet). One walk-on bears it, as the bible's cap allows, and the repetition is the evidence Mara argues from. It is CLOSED for Ch.20.
+
+## Finalize fixes (F1–F5), tested together
+Each fix is a cut or a near-even swap, and each OLD string occurs exactly once.
+
+| # | Location | Now (cycle-1 page) | → Finalized | Why |
+|---|---|---|---|---|
+| F1 | l.43 | "Left to myself, I drew the Pentax up by its strap" | "I drew the Pentax up by its strap" | "left" ×4 round "My finger left the button." The previous sentence ("he left me to see to it") already leaves her alone. The anchor sentences are byte-identical. |
+| F2 | l.63 | "was arguing with him about it, in Greek at first and then louder." | "was arguing with him about it." | It rebuilt l.13's "[X] at first and then [Y]". The priest-and-fried-food texture stays. |
+| F3 | l.65 | "that there was fish, that the girl was thinner than she had been told. The question she put next was about us, and it came slowly enough for me to have all of it." | "that there was fish, and the girl thinner than she had been told. The question she put next was about us." | It breaks the narration's one anaphora triad (third clause varied, per voice-dna §4). It also cuts the 3rd comprehension report and its explanation clause: comprehension 3 → 2; narration "slowly" 4 → 3. |
+| F4 | l.287 | "there was a broad patch of new whitewash." | "there was new whitewash." | "broad" 4 → 3, and Grata is "broad" at l.229. "a patch of" stays out (Ch.15 ×2). |
+| F5 | l.373 | "still giving back the sun's warmth, and the door stayed cool." | "still giving back the sun's warmth; the door was cool." | "stayed" 3 → 2 near the anchor. "it stayed a picture of a door." and "the coolness stayed in my palm" keep their verb. |
+
+**Reuse checks on every replacement string:**
+- Ch.1–18 and samples: "I drew the Pentax", "arguing with him about it", "was about us", "and the girl thinner", "there was new whitewash", "the door was cool" and "warmth; the" occur in none of them.
+- My n-gram pass on the five seams finds only grammar 3-grams ("the door was", Ch.1 "The door was locked", Ch.11; "I drew the", Ch.9/11/14; "and the girl").
+- No in-chapter double was created.
+
+**Script:** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/re19/ch19-finalize.py` (`python3 ch19-finalize.py <in.md> <out.md>`).
+- Input: the cycle-1 page (md5 `db9b0e7b…`).
+- Output: `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/re19/ch19-final.md`, md5 `41dedf4d0160019238d30feef12fb042`, sha256 `a6f5e2bc…`.
+
+**Test results:** the copy was swapped into the manuscript path and run from /home/user/Books.
+- `check_chapter.sh 19`: **all clean.**
+  - style: 8,272 words, simile 1.1/1k, em-dash 0, foreshadow 0;
+  - grammar 0; rhythm 0;
+  - show/tell: 8,273 words, dialogue **24.7%**, no flags;
+  - voice-wear strict: clean;
+  - tic gate: clean (and-chains 6/9);
+  - echo 0; metaphor 1.6 fig/1k, median 18;
+  - shape CLEAN.
+- `tic_report.py --gate`: clean (exit 0).
+- `--echoes 19`: none / none / none.
+- `shape_check --strict`: `19 8251 4 25 18 scene-set long-fade`, CLEAN.
+- **Words: 8,251** (shape_check), which is ≥ 7,900 ✓.
+- **Restored:** the manuscript checksum was re-verified after the run (md5 `db9b0e7b…`, sha256 `9af5c485…`). **I did not edit the manuscript.**
+
+**Post-finalize counts:**
+- "so that" 4; "the size of a" 1;
+- comprehension reports 2 (the half-caught mother-in-law; the baker);
+- "considered" 0; "What for?" 0; "two-handed" 0; "and stayed" 0;
+- moving-thing holds 0; gaze-arrival 0;
+- **#11:** 3 firm (0.36/1k: l.11, l.73, l.207);
+- paragraph-final negations 5 (0.61/1k);
+- present-tense generalisation 1 (allowlisted);
+- "as if" 1 in narration (Grata's "as though" is speech);
+- semicolons 18 (2.2/1k); "door" 22;
+- "seventy-nine" 1; "where the dead go out" 1 (allowlist 2 of 3);
+- the END-1 words 0; citizenship lines 0.
+
+## Genesis Score (cycle 1, scored on the page with F1–F5)
+Per-cycle rule: no dimension moves more than +0.5 from cycle 0.
+
+| Dimension | Cycle 0 | Cycle 1 | Evidence | Holds / caps |
+|---|---|---|---|---|
+| Originality | 9.0 | **9.0** | Unchanged and untouched by any swap: the one hump against the pizzeria's two; "Fine mountain for vines," / "Very fine,"; the painted shadows "falling the opposite way from every real shadow on that road"; the short-sighted clerk; "He was my grandfather. He sold eels." | Not 9.5: the arrival-travelogue spine is a genre standard. |
+| Theme | 9.0 | **9.0** | "a room with a door" after a ship where "Nobody … had a door to shut on anybody"; "Ten years," … "They're slow."; "I have some," … "but not here." Texture: the carter's cheese, the geese, the fried-food quarrel (which keeps its priest after F2). | "door" ×22 (2.7/1k): the designed motif, #18 minor. |
+| Characters | 8.5 | **8.5** | C1–C4 are cleared on the page: "Sit there. I kept you a bowl." (Grata tells, never asks, and l.389's "the bowl she gave me" pays it); "considered" 0; "Who to?" asked the boy (a child's literalism, fresh); the competence race at the hipposandal cut. Mara 4/4 inhabited; Valens's mind-reading refuted by "black wax on the end of his nose"; Pacuvia's brooch "twice more to be sure". Cover-the-name PASS. | **Held at 8.5, not 9.0:**<br>• Felix ends 12 of 15 speeches on a question (his card, near a metronome);<br>• Valens deflects him with an order twice ("Hold her.", "Eat your beans.");<br>• the clerk's nose-reading ×4 in one scene.<br>These are designed, but a cast at 9.0 would not need the WATCH list. No tic cap: catchphrases 0, gate gesture classes clean. |
+| **Prose & Voice** | 8.0 | **8.5** (+0.5) | **The law cluster is gone, cited:**<br>• the three moving-thing holds (R1–R3);<br>• Ch.17's leaf skeleton → "one board and then the other";<br>• the car and subway domains;<br>• "no business to be cool at all";<br>• "and stayed"; the gaze-arrival; "so that" 7 → 4; comprehension 5 → 2 (with F3).<br>**The door paragraph now trusts the hand:** "It was warm, with the whole day's sun in it." / "cool as a glass of water left standing an hour by a kitchen sink." **Stopping sentences intact:** "Seventy-nine. It came unasked, two figures with nothing round them…" / "My finger left the button." (now the paragraph's only "left", F1); "and it stayed a picture of a door." (now its only near "stayed", F5). **Ugly sentence:** "Felix slept wherever a sailor had last moved him on from". **Voice under pressure:** the asides die at the finder and at the tomb, then the voice fails into sleep. | **Not 9.0:**<br>• the road stretch carries some tour-guide edge (l.207 stones, l.229 counter);<br>• the chapter's best sentences are the cycle-0 sentences, and nothing new rises to Kalanithi level.<br>8.5 rests on F1–F5. Without them the page carries a new sideways repeat at its own stopping sentence and a retired-reflex triad. |
+| Pacing | 8.5 | **8.5** | Ledger row hit on every field: Chronological; `scene-set` (CONTRAST) → `long-fade`; 4 breaks; dialogue 24.7% (20–30); 8,251 against 8,400 (range 7,900–8,900); median 18 (high). Quick harbor, panoramic road, very slow tomb. Value shift: landed (+) → marked? (−) → papers work (+) → housed (+) → the door found and shut (±). | Not 9.0: the road stretch, about 2,400 words with no live question, is unchanged (structural; see cycle-0 PATH note). **Pacing OK.** |
+| Emotion | 9.0 | **9.0** | Anchor: the mountain "small enough to cover with a thumb", the finger off the button. Surprise: "Very fine," / "I was glad he had said it". Body rebel: sleep in one sandal. The door beat is now cleaner: no car, no gloss; the hand finds the cool and the reader weighs it. | Not 9.5: a light romance heart-load for a long chapter (by design after Ch.18). |
+| Immersion (Dim 7) | 9.0 | **9.0** | L1 is fixed ("well again by daylight": no Rhegium inversion). Puteoli's mole, the Crypta's dust and torch boys, the hipposandal, vines married to elms, the Herculaneum Gate's three arches, the Nuceria road's columellae. | Tour-guide edges (l.207, l.229) hold it at 9.0. |
+| **FLOOR** | 8.0 | **8.5** | | |
+| **AVERAGE** | 8.71 | **8.79** | (9.0 + 9.0 + 8.5 + 8.5 + 8.5 + 9.0 + 9.0) / 7 = 61.5 / 7 | |
+
+**Casual Reader: 8.5** (unchanged). The polish is invisible to this reader, as it should be. They still buy on the camera beat ("she can't take the picture") and come back for Grata and the cool door. The mid-chapter road still reads as travel, and the romance is a warmth, not a pull. No vibes problem.
+
+**CVI-Launch 8.85** (8.35 + 0.5 strong anchor), unchanged: every anchor is byte-identical, and F1 removes only the opener before "I drew the Pentax". **CVI-Legacy 7.2**, unchanged.
+
+## Anti-AI scan (cycle 1 + F1–F5; 8.25k words; commercial band 0–8 clean)
+| # | Result | Note |
+|---|---|---|
+| 1 Forced symmetry | FOUND minor | Mostly gone with the car simile. What remains is the search pair (l.203, l.297 door negations) and the designed warm/cool to-and-fro. −0.125 |
+| 2 Empty poetic vocabulary | Clear | |
+| 3 Rule of three | Clear after F3 | The l.65 "that… that… that" triad was FOUND at cycle 0 and cycle 1 and was missed in the cycle-0 table. It is broken by F3. |
+| 4 Em dash | Clear | 0 |
+| 5 Empty metaphor | Clear | |
+| 6 Dramatic "And" | Clear | Narration 0; speech rejoinders 3. |
+| 7 Pseudo-philosophical close | Clear | The close is shutters and a girl singing to a baby. |
+| 8 Parallelism | FOUND minor | Mara's "He read… He read…" (speech); Grata's dice; the close's "same two lines" (designed). −0.125 |
+| 9 Smooth transitions | Clear | |
+| 10 Described emotion | FOUND minor | "I was glad he had said it" (the outline's lie); "He was outraged for them."; "with enormous pleasure". −0.125 |
+| 11 Explanatory extension | FOUND minor | 3 firm, 0.36/1k (cap 0.8): PASS. −0.125 |
+| 12 Binary negation opener | Clear | Pivots 0. |
+| 13 Precision flex | FOUND minor | Twelfth morning, eleven nights, "part of a fourth", fifty-one years. −0.125 |
+| 14 Emotional control demo | Clear (edge) | Control fails into sleep. |
+| 15 Authoritative description | FOUND minor | Stepping stones (l.207), the counter (l.229). −0.125 |
+| 16 Philosophical aside | FOUND minor | "A join showed or it did not." (the distortion, once). −0.125 |
+| 17 Clean dialogue | Clear | The carter under his cloak; Felix answering nobody; Grata's floods. |
+| 18 Thematic echo chamber | FOUND minor | "door" ×22. −0.125 |
+| 19 Graduated reveal | Clear | Chronological walk, long fade. |
+| 20 Temperature report | Clear | |
+
+**8/20, −1.0: clean band.** Correction for the record: at cycle 0 and cycle 1, #3 should have read FOUND (9/20, watch band). F3 returns it to 8/20.
+
+## Readers (cycle 1)
+- **The Devourer.** No change in where they slow: the road after Puteoli. The door paragraph now reads faster: one sentence of warmth, one of cool, then the test. Finishes satisfied on the door found.
+- **The Critic.** The underline set is intact, and what they minded at cycle 0 is gone: the parked car, "no business", the cart behind her. On the cycle-1 page they would have caught "Left to myself" against "My finger left the button." F1 removes it. Nothing new to mind.
+- **The Hostile.**
+  - Rhegium is fixed.
+  - The door is now opened before it is "closed … once more".
+  - The brooch is at her throat, where a hood pins.
+  - "Well again by daylight" after a day in the Straits reads as "by next morning": acceptable.
+  - "twelfth morning" / "eleven nights" is still the author's call (INVESTIGATE, unchanged).
+  - F3 leaves the mother-in-law's question quoted whole after Mara caught "perhaps half" of her quick Greek. It is a short, slower question put to the girl, and no reader stops on it.
+- **The Casual Reader.** 8.5; see above.
+- **The Devoted Reader.** The Ch.17 leaf skeleton, the Greek frame and "What for?" are gone. The re-read details survive untouched: the one hump, "Ten years. They're slow.", "Is this one yours?", the backs of her fingers, then her palm.
+
+**Cross-reader:** no CRITICAL; no VIBES PROBLEM. The road-stretch sag (Devourer and Casual) is structural and accepted, as at cycle 0.
+
+## The Tomorrow Test
+Unchanged and strong. IMAGE: Vesuvius in the finder, small enough to cover with a thumb, and the finger leaving the button; the painted door cool in a warm white wall, its painted shadows falling the wrong way; a boy with rose petals on his soles. QUOTE: "Seventy-nine."; "Fine mountain for vines." / "Very fine." **ANCHOR EXISTS** → +0.5 CVI-L.
+
+## Pacing check (one line for `feedback/progress.md`)
+**Ch.19 (FINAL after F1–F5): PASS.**
+- 8,251 words (target 8,400; range 7,900–8,900; not padded);
+- dialogue 24.7% (20–30 ✓); 4 breaks ✓; gear high (median 18) ✓;
+- `scene-set` → `long-fade` (Ch.17 `short-punch`/`quiet`, Ch.18 `I-statement`/`punch`: no run of three);
+- a long panoramic arrival after the short hinge (6.9k → 2.5k → 8.3k);
+- quick harbor, panoramic road, very slow tomb;
+- the road sag is accepted as the ledger's walk.
+
+**Verdict: OK.**
+
+## VERDICT
+**PASS** on the page with **F1–F5 applied** (tested together; the script above). The orchestrator applies the finalize script, confirms md5 `41dedf4d…`, then finalizes.
+
+| Measure | Result |
+|---|---|
+| Scores | Originality 9.0 · Theme 9.0 · Characters 8.5 · **Prose 8.5** · Pacing 8.5 · Emotion 9.0 · Immersion 9.0 |
+| **Genesis Floor** | **8.5** |
+| **Average** | **8.79** |
+| **Casual** | **8.5** |
+| Pacing | **OK** |
+| CVI-Launch / CVI-Legacy | 8.85 / 7.2 |
+| Mechanical suite (with F1–F5) | all clean; echoes / command echoes / spoken-line echoes none / none / none; shape CLEAN |
+| Foreshadowing / END-1 reserved words / "seam" ruling | 0 / 0 / respected |
+| Anti-AI | 8/20, −1.0 (clean) |
+
+**Gate (Floor ≥ 8.5 AND Casual ≥ 8.5 AND pacing OK): MET.**
+
+## Character-bible Ch.19 re-syncs (exact list; the bible's Ch.19 blocks still quote the writer's draft)
+Every quote below was checked by script against the finalized page (`ch19-final.md`, md5 `41dedf4d…`). Label each synced block: *"SYNCED to the FINAL page 2026-10-21 (md5 `41dedf4d…`): dialogue-polish, hook-craft, disruptor, continuity repair W-01…W-14, polish cycle 1 (L1–L2, C1–C4, R1–R15, D1–D6), finalize F1–F5; quotes checked by script."*
+
+**1. MARA, Ch.19 block (l.511):**
+- Remove "None at all." and "Many people's, I should think. A farm each." from the uncontracted-Latin examples. The frost/ownership exchange was cut by dialogue-polish and is never on the page.
+- The lie: "I agreed with all of it" → **"I agreed with him, and I was glad he had said it"**.
+- Materials list: the lead pipe "soldered down its length" → **cut**. The page has only "a trench where the paving had been lifted for a new lead pipe".
+- Add: **comprehension reports 2**, "of which I caught perhaps half" and "I had kept the fuller and his wife out of all that, and lost the baker entirely." Neapolis is followed by act, not claim ("and I stood under her balcony for the rest of it"). "I understood every word" and "slowly enough for me to have all of it" are cut.
+- Add: the camera is drawn with no opener ("I drew the Pentax up by its strap"); "Alone at the rail" and "Left to myself" are both off the page.
+
+**2. VALENS, Ch.19 block (l.1092):**
+- Cut from Lines: "It lies right to the sun. With the sea under it, that slope'll see no frost to speak of." / "Whose is it?" / "That's the way to own a mountain. A man can walk round his own piece of it in a morning and see to it himself." (dialogue-polish). Also "He looked hard." (cut).
+- "And carting? Who wants it?" → **"Carting? Who wants it?"**
+- "It's cheaper," … "You dig, and the earth makes the seats." → **"They dug the bowl and banked the earth from it round the sides for the seats," … "That saved them stone."**
+- "And the other?" → **"The third?"** (answering "Seven or eight. Three have tombs worth the walk.").
+- Hands: "the bar dropped and lifted" → **"shut it, set the bar in its brackets and lifted it clear, opened it, and closed it once more, slowly, to see how it hung on its leather"**.
+- "the noseband cut from the cobbler's leather" → **"out of the one long strip the nephew had missed"**.
+- The hipposandal is laced with no race ("before Felix had a hand on her halter" cut).
+- Add: orders to Felix as deflection ×2 ("Hold her.", "Eat your beans."): WATCH, ≤1 in Ch.20.
+
+**3. FELIX, Ch.19 block (l.1748):**
+- "could have spat on either" → **"I could spit on the pair of them from here, Achaea to the left and the Locrians to the right, and never shift my feet. Which shall I do first?"**
+- "Is that the emperor's? Who's rowing it? How many are under there?" → **"What ship's that, the emperor's? Who's rowing it? How many are under there?"**. The opener note "one 'Is that'" → **"Is it" / "Is that" openers 0**.
+- Torch boys: "What if it goes out? Can I carry one?" → **"Do you live in there?" … "Give me one. I've the steadiest hand on this road."**
+- "he had eaten half of Italy already" (narration) → spoken: **"That's half of Italy I've eaten already, and the rest of it's up my nose. Are there more hills like that before Pompeii?"** (after "Felix spat brown at the verge"). In the Spent list, "eaten half of Italy" → "half of Italy I've eaten".
+- Add Neapolis: **"In a city this big, where's the fighting? Who's your best man? I'd put him down for you."**
+- Cheese men's news: "Ten years! And all that while they had to go by it empty? …" → **"…And the Senate at Rome stopped their games for ten years over it." He was outraged for them. "And all that while they had to go by it empty. They're back now, every spring, the cheese men said. Will it be this spring? Have we missed it?"**
+- Amphitheater: "Did you know it would be sunk? Have you seen one sunk before? Why would you sink one?" → **"Did you know it would be sunk? You could drop a house in it and never see the roof."**
+- Add: **"Roofs, and somebody's washing, and your fig in the way of the rest of it,"**.
+- Add WATCH: question endings 12 of 15 speeches; Ch.20 gives him two speeches that end on a boast or a fact.
+
+**4. POMPONIA GRATA card, Ch.19 block (l.2055).** Change the header to SYNCED.
+- Counter: "reached the street's edge in two arms of masonry set at a right angle, faced with offcuts…" → **"Her counter ran out to the street's edge, faced with offcuts of colored marble, green and yellow and a purple shot through with white, pieced together wherever a piece would fit"**.
+- "ten years we've been at it, ten years since the earth went" → **"it's been carts and dust since the earth went, and the forum still looks like a builder's yard. Drink that before it cools."**
+- "I saw you at that wall yesterday with your nail in it, half the street saw you." → **"I heard about you at that wall yesterday with your nail in it, half that street saw you."**
+- "Sit there. Eat that." → **"Sit there. I kept you a bowl."** (C1).
+- "touched him on the arm too as she went by him" → **"touched him on the arm as she went by him to the door next to hers"**.
+- Touch: "her hand on Mara's sleeve" → **"She caught a pinch of my sleeve and talked on holding it, her fingers warm from the pot."**
+- Whitewash: "a patch of new whitewash the size of a door" → **"there was new whitewash. It was still dark with wet at its edges"** (R8 + F4). In the Spent list, "the whitewash patch described" now quotes this.
+- Add: **"Rooms, I said, and I've got them."**
+- Add rule: **card rhythm examples ("Eat this. Hold that.") and Ch.1's "Eat that," = 0 on the page.**
+
+**5. Pacuvia named** (walk-on note l.3003, at-risk after Ch.18 l.5079, PACUVIUS card l.3674):
+- The daughter is **named in narration**: "The master's girl, Pacuvia," (l.13), "Pacuvia found me" (l.17), "Pacuvia went down our plank first, with the brooch at her throat," (l.65). She is labelled "Pacuvius's girl" once (l.11) and "the girl" thereafter.
+- Supersede at-risk after Ch.18's "the master's daughter: unnamed; labelled once".
+- She is named and speaks in Ch.18 and Ch.19. Per CLAUDE.md step 5 she needs a **MINOR NAMED CHARACTERS card**, with:
+  - attention: the mother-in-law's verdict;
+  - syntax: practical worry run-ons ("and if it won't hold I'll have to fasten myself up with a thorn");
+  - evasion: that the brooch was ever broken;
+  - physicality: pins, unpins, pins "twice more to be sure";
+  - verbal tic: none.
+- The PACUVIUS card's evasion (he never says her name) holds: only the narration names her.
+- Walk-on quotes:
+  - "well again by Rhegium" → **"well again by daylight"**;
+  - "in a Greek that was suddenly as good as anybody's" → **"and her Greek was suddenly as good as anybody's"**;
+  - her quay dress → **"with the brooch at her throat"** ("her good blue" now at l.17 only).
+
+**6. Ch.19 walk-ons (l.3003):**
+- **The mother-in-law:**
+  - Her question to "who had slept on the deck" → **"Those on your father's deck, who are they?"**
+  - Her report → **"of which I caught perhaps half: that the house was up at the highest part of the town, that there was fish, and the girl thinner than she had been told. The question she put next was about us."** The gaze-arrival "Then her eyes went past the girl to us" is cut.
+- **The harbor clerk:**
+  - "Whose freedman?" → **"Freedman of whom?"**
+  - The leaf read "two-handed" → **"The clerk lifted it to his nose and read it there, slowly, one board and then the other. He left it lying open,"**.
+  - Record his object-to-the-eye beat as **4 instances in one scene** (list, leaf, his tablet, a sailor's tablet): CLOSED for Ch.20.
+- **Puteoli texture:**
+  - The Alexandrians' topsail "which no other ship in the harbor flew" → **"carried a little three-cornered sail high on the mast above the yard"**.
+  - The priest → **"was arguing with him about it."** (no language detail; R13 + F2).
+  - The mole → **"the sea had eaten the brick off the lowest courses and bared the gray core, packed full of pebbles"**.
+- **Pompeii walk-ons:** "the man raking water into the lime pit" → **cut**. Add "The black nosed into a trench where the paving had been lifted for a new lead pipe, and Felix dragged her out of it by the halter."
+- **The eel family:**
+  - "What for?" → **"Who to?" asked the boy.**
+  - The boy's "He considered my hand on the door." → **cut** (C2).
+  - The exit → **"The family soon had their baskets and their cloths together and went past me in at the gate, the boy last, walking on the outsides of his feet to keep the petals on."**
+- **The cobbler's shop:** "The floor was beaten earth with scraps of leather trodden into it" → **"The floor was beaten earth,"**. The leather crescents stay at l.275.
+
+**7. At-risk after Ch.19 (l.5084).** Change the header to SYNCED; then:
+- "Fine mountain for vines" entry: delete the frost/ownership exchange (never on the page; the cut-detail rule bars restoring it). The lie → "I agreed with him, and I was glad he had said it".
+- Seventy-nine → **"Seventy-nine. It came unasked, two figures with nothing round them, while the mountain stood small and green in the glass."**
+- The tomb set:
+  - "at the size of a real one" → **"as near full size as the little house allowed"**;
+  - white plaster warm "as the hood of a parked car on a June afternoon" → **"It was warm, with the whole day's sun in it."**;
+  - add the cut: "it had no business to be cool at all";
+  - add **"Whenever I tried the white plaster next to the door it was still giving back the sun's warmth; the door was cool."**;
+  - add the cart beat **"Behind me an ungreased axle squealed, and I moved off the road for the cart."**
+- "where the dead go out": "…as the god had put it in Valens's mouth" → **"This was where the dead go out, and they had followed the road out in their hundreds and settled in."**
+- The search:
+  - "Eight, in all. Only two have tombs worth the walk." / "And the other?" → **"How many gates are there?" / "Seven or eight. Three have tombs worth the walk." / "The third?" / "The Nuceria Gate. Tomorrow."**
+- The distortion set: delete "Anybody in the street could see exactly where that house had split." (cut). The page has **"This one showed to everybody who came down that street, and the plasterer should have been made to stand in front of it from dawn to dark and hear what they said."**
+- Mind-reading: delete "He looked hard."; add **"He did that to no other man on the mole. He'll know me again."**
+- Texture: delete the Broad Street subway comparison, the lime pit and "the lead pipe soldered down its length".
+- Spoken shapes spent:
+  - delete "None at all.", "Whose is it?", "That's the way to own a mountain.", "He looked hard.", "It's cheaper," … "You dig…" and "Is that the emperor's?…";
+  - add "What ship's that, the emperor's? Who's rowing it? How many are under there?", "Carting? Who wants it?", "How many gates are there?", "Seven or eight. Three have tombs worth the walk.", "The third?", "They dug the bowl…" / "That saved them stone.", "Freedman of whom?", "Those on your father's deck, who are they?", "Married people," … "Corinthians. They had mules.", "Who to?", "Rooms, I said, and I've got them.", "Sit there. I kept you a bowl.", "I could spit on the pair of them from here…", "Light you through, mistress? A copper, and you'll see your own feet.", "You can carry your mule,".
+- **Counts → FINAL page:**
+  - **Length and shape:** 8,251 words (shape_check), 8,272 (style), 8,273 (show_tell), 8,999 (`wc -w`); dialogue 24.7% (shape 25); median 18; 4 breaks; `scene-set` → `long-fade`.
+  - **Punctuation and figures:** em-dash 0; ellipsis 0; semicolons 18 (2.2/1k); "as if" 1 in narration (the ankle) + 1 "as though" in Grata's speech; similes 9 by metaphor_check (1.1/1k style).
+  - **Reflexes:** and-chains 6; negation pivots 0; hinge / So openers 0; the race frame "before [X] had" 3 (l.107, l.149, l.247); "without" 2; sentence-initial "Nobody" 1; said/told-the-[non-listener] 0.
+  - **Gestures:** kneel/crouch 0; hand-on-knee 0; bends 0; gait exits 0; deliberation pauses **0** ("He lay quiet a while" cut).
+  - **Speech:** bare "No." Valens 0 (Mara 1); narrated non-answers 0; command echoes 0; "And…" rejoinders 3 (clerk 2, wine-woman 1).
+  - **Narrator moves:** walk-on object to the eye 1 bearer / 4 instances; thumbnail probe 1; "Somebody had [verb]" 1; credential asides 0; comprehension reports 2; "so that" 4; "the size of a" 1; "considered" 0.
+  - **Memories:** the pizzeria clause; the plaster panels "at home" clause (both triggered).
+  - **Other:** teeth 0; laughs Valens 1; English 0; AD 79 1; "door" 22; #11 3 firm (0.36/1k); paragraph-final negations 5 (0.61/1k); anti-AI 8/20; foreshadowing 0; echoes 0.
+- **New SPENT / CLOSED / WATCH entries:**
+  - **held moments measured by anything moving** (traffic, people leaving, shadows): 0, restated; **carts at a threshold:** CLOSED at 2 (Ch.9, Ch.19);
+  - **car comparison domain:** CLOSED (Ch.2, Ch.5, Ch.13); **subway domain:** used (Ch.3);
+  - **"It was the first [X] I had [V]":** CLOSED (Ch.7 ×2);
+  - **comprehension reports:** ≤2 per chapter, never "understood every word" (Ch.19 at 2);
+  - **gaze-arrival "Then [poss] eyes went/came…":** SPENT, restated;
+  - **"considered" as a beat:** WATCH (7 book-wide), 0 in Ch.20;
+  - **"What for?":** CLOSED; **"two-handed":** CLOSED at 2 (Ch.11, Ch.15);
+  - **narration "so that":** WATCH >4; **"the size of a" as a ruler:** ≤1 per chapter;
+  - **"And…" rejoinders:** ≤4, one owner preferred (Ch.19: two owners, 3);
+  - **card rhythm examples and Ch.1's "Eat that,":** 0;
+  - **Valens's orders to Felix as deflection:** WATCH (2), ≤1 in Ch.20; **"Out where the dead are"** in Valens's mouth: once;
+  - **the backs-of-fingers test, the knuckle tap, "the whole of my palm", "it stayed a picture of a door":** SPENT. Ch.30, 36 and 41–42 stage the threshold another way, and Ch.42's refusal is never "a picture";
+  - **the warm-as / cool-as pairing at a threshold:** SPENT;
+  - **"[X] at first and then [Y]":** 1 per chapter (Ch.19 keeps l.13's whisper-then-aloud);
+  - **"[body part] left [object]" as a release beat:** SPENT at 2 ("My finger left the button."; "When my hand left it"), 0 in Ch.20;
+  - **"stayed" near an anchor sentence:** ≤2;
+  - **reported-speech "that…, that…, that…":** a triad like any other: break the third;
+  - **the race frame "before [X] had":** 0–1 in Ch.20;
+  - **a walk-on's object-to-the-eye beat:** Ch.19's bearer is the clerk, and Ch.20 has none;
+  - **Felix's question endings:** WATCH (12 of 15);
+  - **the master's daughter:** named (Pacuvia), done unless she returns.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis). The Prose 8.5 depends on F1–F5. The Casual 8.5 and the Pacing 8.5 for a long panoramic arrival are the scores most likely to differ for a human reader.
