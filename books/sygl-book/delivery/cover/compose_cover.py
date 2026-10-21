@@ -30,6 +30,9 @@ html,body{{width:{W}px;height:{H}px;background:#070405;}}
   background:linear-gradient(180deg,rgba(7,4,5,.85) 0%,rgba(7,4,5,.45) 55%,rgba(7,4,5,0) 100%);}}
 .scrim{{position:absolute;left:0;right:0;bottom:0;height:1150px;
   background:linear-gradient(180deg,rgba(7,4,5,0) 0%,rgba(7,4,5,.45) 30%,rgba(7,4,5,.82) 58%,rgba(7,4,5,.94) 100%);}}
+.glow{{position:absolute;left:0;right:0;bottom:0;height:1100px;
+  background:radial-gradient(ellipse 70% 55% at 50% 72%,rgba(170,52,24,.30) 0%,rgba(120,30,18,.16) 45%,rgba(0,0,0,0) 100%),
+  radial-gradient(ellipse 120% 30% at 50% 100%,rgba(150,90,40,.18) 0%,rgba(0,0,0,0) 100%);}}
 .tag{{position:absolute;left:0;right:0;top:120px;text-align:center;font-family:'PlexI';font-size:50px;
   color:#e8d3b4;letter-spacing:.01em;filter:drop-shadow(0 3px 12px rgba(0,0,0,.95));}}
 
@@ -50,7 +53,7 @@ html,body{{width:{W}px;height:{H}px;background:#070405;}}
   filter:drop-shadow(0 3px 14px rgba(0,0,0,.95));}}
 </style></head><body>
 <div class="cover">
-  <div class="top"></div><div class="scrim"></div>
+  <div class="top"></div><div class="scrim"></div><div class="glow"></div>
   <div class="tag">{TAGLINE}<div class="tag2">{TAGLINE2}</div></div>
   <div class="titleblock">
     <div class="main">Sygl</div>
