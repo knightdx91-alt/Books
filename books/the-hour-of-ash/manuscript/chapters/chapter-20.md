@@ -4,6 +4,7 @@
 
 <!-- SCENE BUDGET (Target 8,200; range 7,700-8,700; Collage, a year told in wall-writing and repairs; 6 breaks / 7 sections; gear mid; dialogue 30-40%): S1 spring 72, the lost-pot notice, the leek woman, Grata on paint, the board lettered, Felix to shout it, Valens reads it, the cookpot with its mother's lead clamps, the cook's pot comes home, the coppersmith 1,550 | S2 early summer, Felix and the stair, the bowl mended by lamplight with the foreman's story, the step at the rim, the bowl onto a rubble cart, the carter keeps it, Felix tells Valens 1,200 | S3 high summer, the forum and the sledges, Felix's sledge, the fig asleep-frame, Valens wakes, supper and the pinched figs, the letter for Plautia, the gate on the Kalends 1,450 | S4 autumn 72 to winter, the vintage, the night shake in two sentences and the notebook, the bone-turner's money box, the toothpick, Grata's vow and her wine board, the fuller's wife's blue bottle, Felix's hare bowl, the rains and the wrapped fig 1,450 | S5 end of winter 73, the bread man's notice over the cousin's stripe, the night painters, Infantio's line, the I on the crack, Valens and "It's red", Grata on Polybius, the weaver's quarrel and the wall joke 1,350 | S6 summer 73, the fountain line's talk, the toddler and the wet pebble, the dyer, Grata's cup, Valens and the stone 950 | S7 autumn 73, the jug graffito, Zosimus and the lamp left findable, Valens's thumb on it, the late figs, Grata's fish and her line 1,450 -->
 <!-- Word count: 8,027 (shape_check; style 8,053; show_tell 8,056) | Writer draft 2026-10-21 | Target: 8,200 (range 7,700-8,700) | Dialogue 31% shape / 30.5% show_tell (band 30-40) | Breaks 6 | Median sentence 16 (gear mid) | Opens narrative (the italic lost-pot notice, 23-word first sentence; hook VOICE), closes dialogue (Grata: "It's a child you've got."; pull REVELATION) | Em-dash 0 | as if 0 | Semicolons 17 | And-chains 2 | Negation pivots 0 | Hinge/So openers 0 | said-to-[non-listener] 0 | Kneel/crouch 0 | Hand-on-knee 0 | Bend 0 | Gait exit 0 | Valens bare "No." 0 | Grata questions 0 | Echoes 0 | Spoken-line echoes 0 | Command echoes 0 | Tic gate clean | Voice-wear clean | Foreshadow 0 | Anchor: the stoker's lamp, its join left standing and blacked with soot so his thumb can find it on a dark stair -->
+<!-- Dialogue-polish 2026-10-21: 8,404 words (shape_check; style 8,430; show_tell 8,433) | Dialogue 34% shape / 33.3% show_tell (was 31 / 30.6) | Median 16 | Breaks 6 | 14 narrated speeches turned into lines + 9 short in-scene replies; speech "Then..." openers 10 -> 1, "And..." 7 -> 3; command echoes cut (the painter's "Hold it" / "hold that light"; "Leave me the crack" -> "I trimmed it"); comprehension: one tinkers' word ("dogs"), asked and pointed out, not fast speech | Valens bare "No." 0, orders to Felix 0, comparisons 0 | Grata questions 0 | Echoes 0 | Tic gate clean | Voice-wear clean -->
 
 *A bronze pot has walked off from this shop, the big one, with the handle I had riveted on new at the Saturnalia. Sixty-five sesterces if anybody brings it back, and twenty more for the thief, if he comes with it.*
 
@@ -13,13 +14,13 @@ Somebody had lettered it in red on the pier of a cookshop above the bull's-head 
 
 "Two new, and not a handle between them worth the name." She hitched the leeks round to her other side. "Riveted, he says. He paid good money for that handle."
 
-"Then he should have chained it to the wall."
+"He should have chained it to the wall."
 
 "He should have chained you." She steered him off downhill, and over the leeks, without my asking, she called back to me. "It was his father's pot, that, and it lived through the earthquake with a dent in its side, and he'll tell you the dent's the shape of Nuceria if you stand still for it."
 
 The cook was in his doorway in a stained apron, digging at a splinter in his thumb with a pin. He stared after me, in case the jar was his pot.
 
-At home I asked Grata where in that street a person bought paint.
+At home I put it to Grata. "Where does one buy paint, in this quarter?"
 
 "Nobody buys paint here, they're robbed for it," Grata said. Her forearms were on the counter; the steam off her pot went up past her face. "Them that paint the candidates live behind the theaters, and they'll sell you a cup of red at the price of a jar of wine, and you'll hand it over, you've the face of a payer. Soot's free. There's soot on my brazier every night of the year, and the glue-boiler three doors down will give you size for an egg, and soot in size is black, and black reads best on lime. You're putting up a board. I told you so the week you came, and here's the spring half gone." She caught my upper arm and squeezed it, as a wife at market would squeeze a hen to feel for the meat on it. "Spell it right. There's people on this street can read."
 
@@ -31,9 +32,9 @@ Felix came in from the string at dusk, lime-white to the eyebrows, and faced it 
 
 "What's written? Which bit's the fish? Did you put me in it anywhere? Who's going to read it, anyway, when half this street can't tell an A from a fishhook?"
 
-I read it to him.
+"There is no fish, and you are not in it," I said, and read it to him.
 
-"Then they'll want it shouted." He dug lime out of one eyebrow with a fingernail. "Market day, I'll stand out on the curb and give it them. There's no voice on the Stabian road to touch mine. The contractor puts me at the head of the string so the carts coming up know to pull over."
+"That wants shouting." He dug lime out of one eyebrow with a fingernail. "Market day, I'll stand out on the curb and give it them. There's no voice on the Stabian road to touch mine. The contractor puts me at the head of the string so the carts coming up know to pull over."
 
 Valens read it that night by lamplight on his way in from the mules, when Felix had already gone in to his blanket among the cobbler's leather.
 
@@ -43,15 +44,27 @@ Valens read it that night by lamplight on his way in from the mules, when Felix 
 
 He went over it again, the lamp lifted to the pier. "Grata will want her name on it somewhere."
 
-Felix did shout it on market day, from the curb, until Grata stepped out and said he was driving off her custom. By noon a woman was at my plank out of the glare, with a stewpot wrapped in her apron.
+Felix did shout it on market day, from the curb, with his hands round his mouth.
+
+"Cracked your pot? Dropped your lamp? Bring it to the dead cobbler's, next door to Grata's, and she'll have it whole for you by next market! Nobody on this road mends like her!"
+
+Grata let him go round three times before she came out.
+
+"Take that voice off to the forum, you've emptied my bench twice since the shutters were off, and there goes the third man with my cup in his fist and not a copper paid for it. Shout at the fullers."
+
+By noon a woman was at my plank out of the glare, with a stewpot wrapped in her apron.
 
 It was coarse gray ware, black with old fires up its outside as far as the shoulder; it was cracked from the lip halfway down its belly. Lower on the belly ran an older crack, and across it sat two clamps of lead gone white and powdery at their edges. Two holes had been drilled for each clamp, flanking that old break, and the lead run through, beaten flat inside and out; under my fingers the clamps stood proud of the clay like scabs.
 
-"That's my mother's," the woman said. "She had a tinker do that the winter I was born. Do it the same."
+"That's my mother's," the woman said. "She had a tinker put his dogs in it the winter I was born. Do it the same."
+
+"Which are the dogs?" The word belonged to tinkers.
+
+She set a fingernail on each clamp in turn. "These. Lead. They've not shifted since."
 
 "I can close it so that you will never find the crack again."
 
-"Then I'd only break it in the same spot looking." She folded her arms over the apron. "Make it hold. I cook in it."
+"I'd only break it in the same spot, looking for it." She folded her arms over the apron. "Make it hold. I cook in it."
 
 I warmed the pot through beside Grata's coals till the clay was hot in my palms. Then I ran resin into the new crack from inside, coaxing it deep into the break with the tip of a heated nail, and pared it flush while still soft. When it had cooled, my own eye could find the line only from very close, with the light behind. She paid me in bronze and carried the pot off under her arm without a glance for the crack.
 
@@ -77,7 +90,9 @@ I carried it round to the coppersmith that afternoon, a big soft-spoken man with
 
 "It looks like nothing."
 
-"It looks like nothing," the coppersmith agreed, pleased. He had it fitted with a new handle inside four days, and charged the cook somewhat over his first price.
+"It looks like nothing," the coppersmith agreed, pleased. He had it fitted with a new handle inside four days. The cook stopped at my plank with it on his way home.
+
+"A handle you could lift a mule by, and he's charged me more than he first asked, like I was the one took the pot. Never again. Next time it walks, it can stay walked."
 
 Valens, meanwhile, had pegged a second plank along the shop wall, for the things that waited their turn.
 
@@ -95,7 +110,7 @@ The other pieces lay among the beans at the stair's foot, and I fished those out
 
 "I will mend this one."
 
-"Then what do we eat out of tonight?"
+"What do we eat out of tonight?"
 
 "We have the pot."
 
@@ -149,9 +164,11 @@ Past noon a girl of six or so came in, towing her mother by the hand, with a cla
 
 "He likes the hot room," said the girl.
 
-I fed the pellets back in through the crack with the tip of the knife, and closed the flank over them with a bead of resin, and pinched it shut until it cooled, with the girl standing so close her nose was nearly on my plank. Once it was hard she put the pig to her ear and shook him, and he talked, and she left shaking him at every step. Her mother paid me in a hard little cheese.
+I fed the pellets back in through the crack with the tip of the knife, and closed the flank over them with a bead of resin, and pinched it shut until it cooled, with the girl standing so close her nose was nearly on my plank. Once it was hard she put the pig to her ear and shook him, and he talked.
 
-When Valens got home in the dusk Felix met him at the sill with the news.
+"He's better," she told her mother, and left shaking him at every step. Her mother paid me in a hard little cheese.
+
+When Valens got home in the dusk Felix met him at the sill.
 
 "She mended it all night and it was whole, I saw it, you could hardly tell where, and this morning she gave it away to the tile carter, a gray old fellow, and he took it off to his wife. Why would she give it away? Was there a fault in it? Can a mended thing go bad in a night?"
 
@@ -171,17 +188,17 @@ He pulled the rag down to eat. Under it was the one part of his face the dust ha
 
 "Grata's olives."
 
-"Then it's yesterday's bread."
+"That's yesterday's bread."
 
 "Grata says it is today's."
 
 "Grata would." He ate it standing, while the sledges went on behind him, and gave the end of it to the dun.
 
-Felix had left his shovel to stand by the quarrymen and give them advice.
+Felix had left his shovel to stand by the quarrymen.
 
 "You're swinging it too high, the pair of you, you're wasting half your arm on the air. Give it here and I'll have that drum in bits before the bread's eaten."
 
-The older quarryman handed him the sledge and stood back. Felix got it up level with his collarbone, and it took him round in half a circle and struck the stones a hand's breadth from his own foot. The drum never felt it.
+"Show us," said the older quarryman, and handed him the sledge and stood back. Felix got it up level with his collarbone, and it took him round in half a circle and struck the stones a hand's breadth from his own foot. The drum never felt it.
 
 "It's an old drum," said Felix, handing back the sledge. "It's gone rotten in the middle. A blind man could tell that."
 
@@ -213,7 +230,7 @@ Supper was beans again and they were cold and we ate them standing at the pot. F
 
 "These would never ripen." Valens edged the jar west along the parapet by its rim, into the sun's last edge. "A young tree carries them all summer and drops them in the autumn, and has none left at the end. Without them she makes wood."
 
-"Then what's she for?"
+"What's she for?"
 
 "Next year."
 
@@ -227,7 +244,7 @@ Valens glanced over at the fig, which had not dropped a leaf all summer.
 
 "He says it has not," I called over.
 
-"Then it's the wind that puts them in, and I'll charge the wind."
+"It's the wind does it, and I'll charge the wind."
 
 Once Felix was off to the stable, Valens brought a tablet out of his pouch and wrote in it with the lamp by his elbow, slowly, the stylus held low. He closed the leaves and tied them, and pressed his thumb into the wax over the knot.
 
@@ -263,6 +280,8 @@ A bone-turner who lived one street over brought me his money box in the week the
 
 He was a small man with shavings of bone in the hair of his arms. Through all our talk he kept his cap held beneath the pieces, for fear one of them should fall again.
 
+"I can make it hold coins," I said. "Whether it fills is your affair."
+
 "Twice," he repeated. "Once for my wife's mother's funeral. Once for a horse that died."
 
 I joined it for him next day and left the slot as it was. When he came for it he held it to his ear and shook it, empty, and seemed pleased by the noise.
@@ -293,13 +312,19 @@ Grata watched me at it over her counter the following morning.
 
 "It is not a vow."
 
-"It is now. I've told her so." She leaned her forearms on the marble and gazed past me at my pier with its black letters. "And you'll do me a board, while you're at the soot. You've the hand for it, everybody's seen, and the painters want wine by the letter and more for the ladder. Put that Grata says. Put that a copper buys you a drink here, and two buys you better, and four buys you Falernian, and put Falernian big, because it is, near enough, it comes from that side of the bay."
+"It is now. I've told her so." She leaned her forearms on the marble and gazed past me at my pier with its black letters. "You'll do me a board too, while you're at the soot. You've the hand for it, everybody's seen, and the painters want wine by the letter and more for the ladder. Put that Grata says. Put that a copper buys you a drink here, and two buys you better, and four buys you Falernian, and put Falernian big, because it is, near enough, it comes from that side of the bay."
 
 I lettered it for her that afternoon on the pier at the end of her counter, standing on her upturned water bucket.
 
 *Grata says: a copper here and you drink. Give two and you'll drink better. Four, and it's Falernian.*
 
-She had a carter read it back to her before she would pay me for the soot, which was her own, and then she paid me in wine.
+She had a carter read it back to her before she would pay me.
+
+"Four, and it's Falernian," the carter finished, and squinted along her jar mouths. "Which of these is that, then?"
+
+"The one you'll pay four for. The price tells you which."
+
+She paid me for the soot, which was her own, in wine.
 
 On the doorpost of the fullery at the corner, among the scratched tallies of who owed for what, a better hand than most had put one line.
 
@@ -315,17 +340,25 @@ The fuller's wife at the corner came in the week after with a scent bottle of bl
 
 "Come close, then. And not a word to Grata, or she'll be telling it at every counter by noon."
 
-The glass would not have stood the heat, so I mended it cold, with the resin thinned until it ran like oil; the bottle's own blue did half my work. I tried each piece against the light at the opening. I laid the chips into their places with a wetted fingertip, singly, and when I had done none of it could be seen unless the sun came in sideways and found a line. She came for it while Grata was at the baths, and paid me, and wrapped it up again in the same wool.
+The glass would not have stood the heat, so I mended it cold, with the resin thinned until it ran like oil; the bottle's own blue did half my work. I tried each piece against the light at the opening. I laid the chips into their places with a wetted fingertip, singly, and when I had done none of it could be seen unless the sun came in sideways and found a line. She came for it while Grata was at the baths, and stood in the opening holding it to the daylight, looking for the break and not finding it.
 
-A month later at the fountain she announced to the line that her husband had never found the break, and Grata was in the line.
+"There's his mother's bottle," she said, "that nobody ever threw at anybody." She paid me, and wrapped it up again in the same wool.
 
-Felix bought us a bowl at last at the vintage fair, with his own coppers, a brown one with a hare painted chasing itself round the inside, and dared anybody in the house to break it.
+A month later she was ahead of me at the fountain, telling the line.
 
-"Nobody touches it but me," he said. "I carry it up and I carry it down. I've never dropped a thing in my life I meant to hold."
+"Twice he's had it from the shelf to look at, and back it goes. Yesterday he brought me home a comb, and couldn't say what for."
 
-The turner's box came to me once more before the year turned cold, in four pieces again, and he paid that time in dice.
+Grata was in the line.
 
-When the rains set in there was no carting on the bad days, and Valens spent them in the shop with me out of the weather, mending the string's tack on my plank beside me. Water ran down our street round its stepping stones. Customers came in dripping and stood about after their business was done, to be out of the rain. Felix came in, and left, and came in, too wet to be any use and too restless to stay dry.
+Felix bought us a bowl at last at the vintage fair, with his own coppers, a brown one with a hare painted chasing itself round the inside.
+
+"Break that, anybody, and see what you get." He kept it pressed to his ribs. "Nobody touches it but me. I carry it up and I carry it down. I've never dropped a thing in my life I meant to hold."
+
+The turner's box came to me once more before the year turned cold, in four pieces again.
+
+"Full again in under a month," the turner said. "Don't tell my wife it was full." He paid that time in dice.
+
+When the rains set in there was no carting on the bad days, and Valens spent them in the shop with me out of the weather, mending the string's tack on my plank beside me. Water ran down our street round its stepping stones. Customers came in dripping and stood about after their business was done. One fellow had fetched his lamp at noon. "I'll wait till it eases," he told us, and at dusk he was still in the opening. Felix came in, and left, and came in, too wet to be any use and too restless to stay dry.
 
 "The fig," I said, one afternoon of that. "Up there in this."
 
@@ -357,7 +390,7 @@ On the curb a thin fellow with red to the wrists sat with his pots in a row, eat
 
 "Your boy's letting the light swing. Give me the ladder. I hold the dun every day of the year, and she weighs more than this whole house."
 
-"Hold it, then." The painter dried his fingers on his tunic and climbed, while the whitewasher came off. "And you, lantern, hold that light still or I'll paint *you* on the wall."
+"Hold it, then." The painter dried his fingers on his tunic and climbed, while the whitewasher came off. "You, lantern, hold that light still or I'll paint *you* on the wall."
 
 "Four more walls before the cock," the whitewasher grumbled, wringing his brush out on the stones. "Four, and my wife thinks I'm at the bakery kneading, and Polybius pays at the month's end, and last month he paid us in loaves."
 
@@ -365,7 +398,11 @@ On the curb a thin fellow with red to the wrists sat with his pots in a row, eat
 
 "Chalk," said the whitewasher. "Ask anybody."
 
-Felix held the ladder. The lantern boy held the light up, and let it droop, and was told about it, and raised it again. The painter worked downward, letter by letter, filling his brush from a pot hooked on the rung beside him. I stayed in the road in my cloak till my soles were numb, reading it out to Felix piece by piece as the words arrived.
+Felix had both fists round the ladder's legs and his weight on his heels. The lantern boy's light sagged by degrees until he was told about it, and then it rose. The painter worked downward, letter by letter, filling his brush from a pot hooked on the rung beside him. I stayed in the road in my cloak till my soles were numb, reading it out to Felix piece by piece as the words arrived.
+
+"His bread comes last," I told him, when the painter got down to it. "It says it is good."
+
+"All that red, and a ladder, and three of them out of their beds, and me holding it for them half the night. For bread."
 
 With the last letter on, the painter climbed off and wiped his brush and scratched something small on the lime under the panel with the point of a nail, for the light to show him.
 
@@ -383,7 +420,7 @@ By daylight the panel glared white and its letters glared red. Where the cousin'
 
 I showed him.
 
-"Then Polybius is standing on it," Felix said, delighted. "Right on top of it, the whole height of him, and he doesn't know."
+"Polybius is standing on it," Felix said, delighted. "Right on top of it, the whole height of him, and he doesn't know."
 
 Valens came by us with the string on his way to the yard, and Felix caught at his arm.
 
@@ -397,7 +434,9 @@ Grata had the panel read to her by her son on his way to bathe, before her shutt
 
 "Polybius," she told me. "His loaves are half chalk, and his grandfather swept out somebody's kitchen in Rome, and he'll get it, they always get it who paint first and pay the painters' wine. He'll have every wall from this corner to the basilica by the Ides, and the plasterers will be at their wits' end." She put her hand on my forearm and gave it a little push, the way she moved customers along her counter. "Go on with the boy, he's waiting on you, he's been on that curb since the cock."
 
-Felix led me on from there to the fountain, to read him the pier at its back, which was scratched over as high as an arm could stretch and was not, he said, for candidates.
+From there Felix took me to the fountain, to read him the pier at its back, which was scratched over as high as an arm could stretch.
+
+"No candidates on this pier. It's people wrote all this."
 
 *Successus the weaver loves the innkeeper's slave girl, Iris, and she does not care for him at all.*
 
@@ -419,7 +458,7 @@ Highest of all on the pier, older than everything round it, its letters gone sof
 
 "It means everybody."
 
-"Then it's wrong." Felix slapped the pier with his open hand. "It's been standing since before any of us was born, Grata told me, and it'll stand when he's dead, whoever he was."
+"That's wrong." Felix slapped the pier with his open hand. "It's been standing since before any of us was born, Grata told me, and it'll stand when he's dead, whoever he was."
 
 * * *
 
@@ -431,7 +470,7 @@ One morning in the summer I was there with our jar, in the line of women and sla
 
 "Forty-two, he says. He's been forty for three years."
 
-"And the dowry in figs."
+"With the dowry in figs."
 
 "In fig trees. That's different. You can't eat a tree."
 
@@ -441,7 +480,9 @@ One morning in the summer I was there with our jar, in the line of women and sla
 
 "Another man of forty-two."
 
-"You can sell anything, if you've a face for it," said a slave girl at the spout, and the woman with the red jar told her to fill and get on and leave the talk to them that had dowries.
+"You can sell anything, if you've a face for it," said a slave girl at the spout.
+
+"Fill and get on," the woman with the red jar told her, "and leave the talk to them that's got dowries."
 
 A child crawled round the trough's corner through the overflow. He was a year old or not much over, naked but for a crescent of leather hung on a cord at his throat, and wet to the chest. He grabbed the worn place in the rim and pulled himself up on it and stood, rocking. In his fist he had a pebble. He looked at it, and at me, and held it up.
 
@@ -479,7 +520,7 @@ He waited, in case more came. When none did he held out his hand, and I put the 
 
 It turned up scratched into the lime under my black letters in the month they picked the olives, small and slanting, overnight. Felix had me read it to him daily for a week.
 
-"The one about you," he would say, at the pier, with the waterskins, and stand mouthing it after me.
+"Read me the one about you," he would say at the pier, with the waterskins slung on him, and stand mouthing it after me.
 
 "Who wrote it? The jug woman? I'll find her out." He spat on his thumb and rubbed at a smut on the lime beside it. "There's a name scratched on every wall in this town but mine."
 
@@ -497,13 +538,15 @@ It was a plain clay lamp, round, with a channel running from the hole you filled
 
 "And then how do I know it from the other thirty-nine?" He scratched in his beard with a black finger. "Leave me the crack. Leave it where the boys can see it's spoken for. It's dark on that stair, and I'll want to find it with my thumb."
 
-He gave his name for the tag, Zosimus, of the baths, and was gone again, telling a man with a handcart that he'd have Hermes's ear for him yet.
+"What name goes on the tag?"
+
+"Zosimus. Of the crossing baths. Down at the furnace, not up with the bathers." He was gone again, telling a man with a handcart that he'd have Hermes's ear for him yet.
 
 Nobody at home had ever paid me to leave a join where it could be found.
 
 The lamp had been used hard. Its nozzle was black inside with years of his flame; round the filling hole the clay was dark and glossy from his thumb, pressed there each dawn of those years to tip the oil in. The broken edges were the only clean clay on it. They were pale and dry and sharp, and they smelled of nothing. When I brought the two big pieces together they met at once, the break so new that nothing had yet got into it.
 
-I warmed the pieces and the resin as I always did. I drew the bead along the broken shoulder with the cane and brought the faces home, and the brown welt swelled from the break. Then I let it stand. Along that shoulder, where any man feeling his way down a stair in the dark would have his thumb, I left it a thread's thickness proud of the clay. I warmed the knife and stroked the top of the welt smooth so it would not catch his skin. The wedge from the rim went in after. When all of it had set I took a pinch of Grata's brazier soot and rubbed it into the join with my fingertip, until the break ran black across the pale clay from the oil hole to the rim and on across the wedge.
+I warmed the pieces and the resin as I always did. I drew the bead along the broken shoulder with the cane and brought the faces home, and the brown welt swelled from the break. Then I let it stand. Along that shoulder, where any man feeling his way down a stair in the dark would have his thumb, I trimmed it to a thread's thickness proud of the clay. I warmed the knife and stroked the top of the welt smooth so it would not catch his skin. The wedge from the rim went in after. When all of it had set I took a pinch of Grata's brazier soot and rubbed it into the join with my fingertip, until the break ran black across the pale clay from the oil hole to the rim and on across the wedge.
 
 Valens got in from the mules at dusk, while the lamp was still on my plank with the soot fresh in its line. He halted before it. He set his thumb on the black line at its start and ran it along the welt to the rim, slowly, and back.
 
@@ -535,7 +578,9 @@ Valens knew the day. Each morning he climbed up and took one in his fingers and 
 
 I ate all three. They were warm from the roof, and I wanted nothing else that whole day.
 
-Grata had opened a new jar of fish sauce that month. It stood at her counter's brazier end with a ladle on its lip, and every morning when she lifted its lid the smell rolled over the paving, salt and rot and something under both. I had taken to going round the long block to the fountain so as not to pass it. The jar had turned, I decided. All that week Grata lifted the lid and watched me take our jar off the roundabout way, and never spoke of it to me, and talked to whoever was at her counter about oil, or about the fuller's blue scent bottle, which she had known of from the hour it broke.
+Grata had opened a new jar of fish sauce that month. It stood at her counter's brazier end with a ladle on its lip, and every morning when she lifted its lid the smell rolled over the paving, salt and rot and something under both. I had taken to going round the long block to the fountain so as not to pass it. The jar had turned, I decided. All that week Grata lifted the lid and watched me take our jar off the roundabout way, and never spoke of it to me. To whoever was at her counter she talked about oil, or about the scent bottle at the fullery.
+
+"Blue glass, his mother's, and he's looking at that shelf yet and can't think why, and she reckons I had it from her at the fountain. I had it the hour it broke. The street heard it go, every door of it."
 
 When the week was out I sat one evening on the bench before her counter, over a cup of her hot wine I had not drunk, and she lifted the lid to ladle some for a carter, and my hand went over my mouth.
 

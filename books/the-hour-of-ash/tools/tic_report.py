@@ -283,6 +283,10 @@ def short_reply_counts(text, names):
                 k = " ".join(w); counts[k] = counts.get(k, 0) + 1
     return counts
 SO_STREAK_WATCH = 4
+# SPOKEN "Then…" OPENERS: the consequence hinge moved into speech — ten characters' lines opening "Then…" in
+# one chapter (Hour of Ash ch.20 draft) reads as one voice. Fails above SPOKEN_THEN_MAX per chapter.
+SPOKEN_THEN_RX = re.compile(r"[\u201c\"]Then\b")
+SPOKEN_THEN_MAX = 4
 # PRESENT-TENSE GENERALISATION in past-tense narration: "the way cords hold up a blind", "as a far younger
 # boy cries", "after somebody has gone off it" — the narrator stepping out of her moment into a timeless
 # present inside a comparison (Hour of Ash ch.13, 15, 18 each lost a polish cycle to these). Cap 1 per chapter.
@@ -316,6 +320,9 @@ def reflex_scan(files):
         so_open = len(SO_OPENER_RX.findall(t))
         before = len(BEFORE_DECIDED_RX.findall(nar))
         hinges = len(HINGE_RX.findall(t))
+        sthen = len(SPOKEN_THEN_RX.findall(t))
+        if sthen > SPOKEN_THEN_MAX:
+            flags.append(f"spoken 'Then…' openers: {sthen} in chapter {ch} (cap {SPOKEN_THEN_MAX}) — the narrator's hinge has moved into every mouth; vary or cut")
         pts = [m.group(0) for m in PRESENT_SIMILE_RX.finditer(re.sub(r"\s+", " ", nar))]
         if len(pts) > PRESENT_SIMILE_MAX:
             flags.append(f"present-tense generalisation in narration: {len(pts)} in chapter {ch} (cap {PRESENT_SIMILE_MAX}): " + "; ".join(repr(x) for x in pts[:4]) + " — keep the comparison in her past")
