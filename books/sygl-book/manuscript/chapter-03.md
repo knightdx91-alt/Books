@@ -8,7 +8,7 @@ Amelia did not make a ceremony of it. She sat beside him on the stone bench, tur
 
 "Not too much," she said. "A few swallows. It's strong."
 
-Bal looked at the cut, and at her, and thought about those ghost stories in the dormitory. He thought about the school too, and Fredrick waving goodbye through a car window, and the itch in his stump that had been trying to tell him something for sixteen years. He bent his head and drank.
+Bal looked at the cut, and at her, and thought about those ghost stories in the dormitory. He thought about the school too, and Fredrick waving goodbye through a car window, and the itch in his stump that had been trying to tell him something for eighteen years. He bent his head and drank.
 
 It did not taste like blood. It tasted like heat. It went down his throat hot and fierce, far too strong for him, and spread out from his stomach in a slow warm wave, through his chest and down both arms. His fingers tingled. His left arm burned.
 

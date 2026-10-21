@@ -60,7 +60,7 @@ books/sygl-book/
 - **Spell repetition watch:** the source has few blood spells (the whip above all). Never invent spells;
   when one spell starts carrying too much of the action, FLAG it to the author to discuss. Ledger:
   `project/foundation.md` → Magic ledger.
-- **Market: YA (upper YA), author ruling 2026-10-21.** Characters about sixteen, romance fade-to-black, nothing suggestive; the closing bedroom scene is plainly cozy.
+- **Market: NA (new adult) harem / academy fantasy, author ruling 2026-10-21 (replaces a same-day YA ruling).** Bal is EIGHTEEN; Amelia was turned at eighteen; every romantic lead is 18+ (the source's \"sixteen\" was aged up). Romance stays fade-to-black.
 - Fade-to-black. Keep separate from the-fourfold-crown.
 
 ## Open author decisions (ask, don't invent)

@@ -44,7 +44,7 @@ New Spring, Whitehaven, Saegen Woods, Kysmer, Londra, Pashar, Cartesia, the Vent
 Boars Inn; the Winespring Inn; the Dawn faction; aurora felis; nightstalker poison.
 
 **Physical canon:** sygls appear **on the palm** (Bal's on his left palm after the regrowth; Amelia's
-familiar brand on her forehead, which she can show or hide). Bal is sixteen and has an **unusually high
+familiar brand on her forehead, which she can show or hide). Bal is eighteen (aged up for NA, 2026-10-21) and has an **unusually high
 pain tolerance**. Bal is **not** the only orphan without magic: there are others at Saint Andre's who can
 do no magic at all; Bal could always do some, just weaker without a sygl.
 
@@ -116,7 +116,7 @@ for Bal where the source uses it or the familiar relationship makes it natural. 
 a refrain.
 
 ### Balthazaar "Bal" Norheart
-**Source facts:** sixteen; mother died giving birth; raised at Saint Andre's; born with a blood sygl and the
+**Source facts:** eighteen (source says sixteen; aged up for NA); mother died giving birth; raised at Saint Andre's; born with a blood sygl and the
 hand removed; could still do some magic; taught himself from Fredrick's books; curious, likes secrets and
 reading ("I like to read"); worked in the kitchen to buy a rune engraving kit; skilled with runes from the
 start; prefers handling his own problems; warm and frank with the girls; protective ("I'd much rather I got
@@ -134,7 +134,7 @@ Iro). The source notes once that the surge of anger at Sean surprised him; it is
 
 ### Amelia
 **Source facts:** looks a few years older than Bal; pale, black hair to mid-back, red eyes, black dress, ruby
-teardrop earrings; turned at sixteen, killed the farmer who found her while blood-mad; became the newest
+teardrop earrings; turned at eighteen (source: sixteen; aged up for NA), killed the farmer who found her while blood-mad; became the newest
 originator by consuming magical energy; once wiped out half a battlefield; feared because she won't play the
 others' games; trusted them, was betrayed and imprisoned ~3,000 years; carries Peter's memories through his
 offerings; explodes into bats when furious (once, ch.2); weeps blood; reads Viridia's diary and may keep her
@@ -238,7 +238,7 @@ Firelight is texture only; the "firelight in her eyes" image is spent after one 
 ## 7. VOICE
 
 **Narration:** close third on **Bal only**, PAST tense. Plain, warm, curious, conversational; vocabulary of a
-bright sixteen-year-old; humour frequent and affectionate; emotion through behaviour and speech. Accelerate in
+bright eighteen-year-old; humour frequent and affectionate; emotion through behaviour and speech. Accelerate in
 fights; slow down for set-pieces (the claiming, the card, the lake, the toast, the duel). Under grief (waking
 alone, Ch.27) the prose goes short and plain; under threat to his girls it goes quiet and exact. These are
 registers, not tics.
