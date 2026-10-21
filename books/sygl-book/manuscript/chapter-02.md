@@ -18,7 +18,7 @@ He had a whole speech somewhere in his head. He was certain of it. He'd planned 
 
 At a loss for words, which was a first for Bal, he numbly pointed at the ceiling.
 
-The girl followed his finger up to the open roof and the patch of blue sky beyond it. Then her gaze came back down to him, and to the rug lying in a heap on the floor behind him, and arched a perfectly trimmed eyebrow.
+The girl followed his finger up to the open roof and the patch of blue sky beyond it. Then her gaze came back down to him, and to the rug lying in a heap on the floor behind him, and she arched a perfectly trimmed eyebrow.
 
 "You flew in?"
 

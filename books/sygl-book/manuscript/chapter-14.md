@@ -116,7 +116,7 @@ The ring went onto her middle finger.
 
 Viridia stared down at the plain bright band on her hand, speechless.
 
-"I know it doesn't look like much," Bal said quickly. It did not. It could have been any bit of silver bought for a few coins. "But going by the card in the shop, it should be plenty powerful." The card in the shop, he explained, had promised it could move the earth, briefly, and warned that it cost a lot to recharge. "So you'll want to save it. For when it counts."
+"I know it doesn't look like much," Bal said quickly. It did not. It could have been any bit of silver bought for a few coins. "But it should be plenty powerful." The card propped beside it in the window, he explained, had promised it could move the earth, briefly, and warned that it cost a lot to recharge. "So you'll want to save it. For when it counts."
 
 "It's perfect," she said. "Thank you."
 
@@ -126,7 +126,7 @@ She tilted the ring to the fire, so the light ran around it, and went on admirin
 
 That left Amelia.
 
-She was sitting very straight at her own end of the cushions, her hands clasped hard on her knees. In all the time he had known her, Bal had not seen her nervous over anything.
+She was sitting very straight at her own end of the cushions, her hands clasped hard on her knees. Bal had seen her nervous only once before, in the doorway at Verin's cottage, working up to a question she was afraid to ask.
 
 "Amelia. I'm sorry I didn't buy you anything."
 

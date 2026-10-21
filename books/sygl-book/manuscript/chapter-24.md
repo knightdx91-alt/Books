@@ -54,13 +54,7 @@ Viridia stood and turned her back to Lora, who started on the long row of button
 
 "I wanted to see if anybody would say something about the priests." Viridia worked her arms out of the sleeves. "They'll be here in two days. I thought maybe the guards would try to warn people off staying there."
 
-The gray dress slid to the floor and she kicked free of it. Bal had meant to keep to the window. He didn't. She had a fine dusting of road on her shoulders where the collar had ended, and nowhere else, and the rest of her was long and tan. She shook out a clean shift and caught him at it past the hem.
-
-She smiled, slow.
-
-"Later," she said, and plainly meant it.
-
-She got herself into the shift and a plain skirt. Then she combed her fingers back through her hair, from the scalp right out to the ends, and little threads of blue went skittering off the strands ahead of her fingers and popped out in the air.
+Bal turned to the window before the dress came down, and stayed turned, and studied the stable yard below as if he would be tested on it later. Cloth rustled behind him. When she said he could look, she was in a clean shift and a plain skirt, and she was grinning at him for having found the yard so interesting. Then she combed her fingers back through her hair, from the scalp right out to the ends, and little threads of blue went skittering off the strands ahead of her fingers and popped out in the air.
 
 It brought back what had been nagging at him since the gate.
 

@@ -136,7 +136,7 @@ He had never had much of a temper as a kid. But when Sean had grabbed Viridia, B
 
 The skin of his palm still prickled where it had split.
 
-Maybe he'd talk to Amelia about it later.
+Maybe he'd ask Amelia about this new temper later.
 
 ---
 
