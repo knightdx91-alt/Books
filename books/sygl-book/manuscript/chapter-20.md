@@ -1,8 +1,5 @@
 # Chapter Twenty: The Blood Whip
 
-<!-- SCENE BUDGET (Target 2,600): the uniforms, the doors 300 | Sean, Porter, the first grab, the whip 420 | "filthy blood mage", the rule, the wrist, the throw 470 | "their Lead Mage now", the palms, punish 230 | the speech 470 | the duel warning, out of the hall 230 | the walk, the anger 140 | Amelia, the gods' faces, tonight, the break 260 | the whip told, the village, Londra, the rules 380 | "no pressure", no plan, the swim 200 -->
-<!-- Word count: ~2,640 prose | Revision: 1 (F1-F18) | Target: 2,600 (range 2,300-3,000) | Anchor: Sean sliding down his own table | Hook: the lake ("Why don't we go for a swim?") -->
-
 The new sweaters were black, and each carried the blood sygl between the shoulder blades in dark red, where Kenmei's wave and Raizen's lightning had been the day before.
 
 Lora had buttoned the collar of her blouse to the throat under hers and then undone the top button again. Viridia had looked at herself in the bedroom mirror from the front and then twisted around to see the back, twice, and said nothing about it either time. Bal had not said anything either. He had been too busy trying not to grin like an idiot at the pair of them.
@@ -97,7 +94,7 @@ He had not meant to go on. But the hall had gone quiet again to hear what came n
 
 Mr. Porter's napkin had been crushed into a ball in his fist.
 
-"Lady Amelia didn't abandon her followers. She was betrayed by her own family. They shut her away for something they believed she'd done, and she hadn't. That was all it took. Instead of getting to the bottom of it, the originators, all of them, sacrificed the lives of their High Priests to trap her." He let them hear that. "That's the kind of originators you have. You mean nothing to them. At least Lady Amelia is here. We can speak to her. Where's Raizen? Where's Terra, even? You see them one day a year and beg them to notice you." He swung around on Mr. Porter. "And yet you wonder why anyone would want to change sygls."
+"Lady Amelia didn't abandon her followers. She was betrayed by her own family. They shut her away for something they believed she'd done, and she hadn't. That was all it took. Instead of getting to the bottom of it, the originators, all of them, sacrificed the lives of their High Priests to trap her." He let them hear that. "That's the kind of originators you have. You mean nothing to them. At least Lady Amelia is here. We can speak to her. Where's Raizen? Where's Naisura, even? You see them one day a year and beg them to notice you." He swung around on Mr. Porter. "And yet you wonder why anyone would want to change sygls."
 
 "The originators won't stand for this," Mr. Porter spat.
 
@@ -145,7 +142,7 @@ Maybe he'd talk to Amelia about it later.
 
 Amelia was waiting for them in the dorm, and she was in very high spirits. She had been to the originators in the night, and she had enjoyed their faces enormously when she made her declaration.
 
-"Raizen tried to act as though he hadn't seen it coming." She sat on the arm of the couch, swinging one foot. "As if I couldn't tell. He was hoping to find all of my priests first, before he had to declare war on me." That made her laugh out loud.
+"Raizen tried to act as though he hadn't seen it coming." She sat on the arm of the couch. "As if I couldn't tell. He was hoping to find all of my priests first, before he had to declare war on me." That made her laugh out loud.
 
 Then she turned to Lora and Viridia.
 
@@ -153,7 +150,7 @@ Then she turned to Lora and Viridia.
 
 Bal was supposed to meet Xavier tonight anyway, to go over strategies for taking out Raizen's priests. Amelia waved them all to the couch and asked whether he'd had any more ideas.
 
-"Yeah. Some of it depends on what they've found out for me, though." "Tomorrow the two-week break starts. Hopefully we can get some things done."
+"Yeah. Some of it depends on what they've found out for me, though. Tomorrow the two-week break starts. Hopefully we can get some things done."
 
 "How did this morning go? I wasn't expecting you back so soon."
 

@@ -1,8 +1,5 @@
 # Chapter Twenty-Six: Together
 
-<!-- SCENE BUDGET (Target 1,700): off the road, soft ground, the leaves, last cover 300 | no fire, bread and jerky, the silence, waiting 300 | "Thank you, Bal", "so scared", Lora's hand, the poison, the still hair, the consolation 450 | the breakdown, the twigs, the priests, six tomorrow, Toma 300 | Viridia asleep, the night talk, "together", sleep 400 -->
-<!-- Word count: ~1,630 prose | Revision: 1 (F1-F12, 2026-10-21) | Target: 1,700 (range 1,500-2,000) | Anchor: Lora's hand on his cheek | Hook: an easy morning ahead -->
-
 It was well after nightfall when they finally pulled up.
 
 They had galloped until the horses could not, and walked them until they could again, and the road had faded from yellow to almost nothing under a thin slice of moon. They had passed one farmhouse with a light in the window, miles back, and beyond it, grass and more grass and the wind moving through it. The black was blowing hard. Twice it stumbled on ruts too dark to see. When a clump of trees rose out of the dark beside the road, Bal turned off toward it, and Lora and Viridia followed without asking why.
@@ -29,8 +26,6 @@ Viridia had a piece of bread in one hand that she wasn't eating. Even by starlig
 
 He chewed his bread and waited. She would talk when she was ready.
 
-Back at the Winespring, Mrs. Locklan would have sent supper up by now, to an empty room and two made beds. She'd have been so proud of that supper.
-
 Viridia lifted her head.
 
 "Thank you, Bal."
@@ -49,11 +44,11 @@ Lora got up and crossed the leaves and settled on Viridia's bedroll, right besid
 
 Her hair lay still.
 
-Bal had not noticed until then. In all the months since the day they'd met, he could not remember it ever being quiet for long. It snapped when her nerves were up, it fizzed when she laughed, and on the long dry days on the road it drifted about her collar all by itself, like it had somewhere to be. He had stopped seeing it, the same as a person stops hearing a clock.
+Bal had not noticed until then. In all the weeks since the day they'd met, he could not remember it ever being quiet for long. It snapped when her nerves were up, it fizzed when she laughed, and on the long dry days on the road it drifted about her collar all by itself, like it had somewhere to be. He had stopped seeing it, the same as a person stops hearing a clock.
 
 Tonight it lay down flat on her shoulders and did not stir. Nothing ran along it. Nothing popped. In the dark it could have been anybody's hair.
 
-"Still," Viridia said. "Those priests couldn't go free. I had to." "My only consolation was that you and Lora would get away."
+"Still," Viridia said. "Those priests couldn't go free. I had to. My only consolation was that you and Lora would get away."
 
 Her fingers tightened on Lora's, and her mouth tried for a smile and gave up halfway.
 

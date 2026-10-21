@@ -1,15 +1,12 @@
 # Chapter Fifteen: Rumors
 
-<!-- SCENE BUDGET (Target 1,800): the kiss and the empty side of the bed 200 | the make-up day 220 | Lora crosses the hall 330 | the card explained 260 | the rumor, expulsion, "I'd rather wait" 330 | the herb room, Raizen's wars, Viridia quiet 300 | Amelia, Kenmei, "Together", Saturday 300 -->
-<!-- Word count: ~1,900 | Target: 1,800 (range 1,500-2,100) | Anchor: the whole hall watching Lora butter a roll | Hook: Saturday, and the job -->
-
 "I'll be gone all day," Amelia said.
 
-The room was still grey. She sat on his side of the bed, dressed already, with a hand resting on the blanket over his chest. Behind her the card was still propped by the lamp on the nightstand, where she had stood it last night, the name turned toward her pillow.
+The room was still gray. She sat on his side of the bed, dressed already, with a hand resting on the blanket over his chest. Behind her the card was still propped by the lamp on the nightstand, where she had stood it last night, the name turned toward her pillow.
 
 "Let me know if you need anything," she said.
 
-She bent and kissed him on the mouth, without any hurry about it, and he kept his eyes shut afterward to make it last. When he opened them the hand was gone off the blanket. The mattress on his side came back up under him, slowly, as a cushion does when someone stands. Nobody had stood. Her side of the bed was smooth.
+She bent and kissed him on the mouth, without any hurry about it, and he left his eyes shut afterward to make it last. When he opened them the hand was gone off the blanket. Her side of the bed was smooth.
 
 The card hadn't moved.
 
@@ -53,7 +50,7 @@ Lora stopped with her mouth open on the roll. Then she bit and chewed and went o
 
 "Look what her family did to her," Viridia said. "They betrayed her. She honestly had nobody. Bal showed her that now she does." She stuck her fork into her spaghetti and wound it, and kept winding long after it was wound. "I would have felt the same way."
 
-She took the bite. When it was gone she said, "I'm happy to be friends with her. With all of you, really." "I just hope it stays this easy."
+She took the bite. When it was gone she said, "I'm happy to be friends with her. With all of you, really. I just hope it stays this easy."
 
 "Stays easy how?" Bal asked.
 
@@ -77,7 +74,7 @@ At *expel*, Lora's butter knife stayed in her fist, upright on the tablecloth wi
 
 So the school would make it a rule. Probably.
 
-Bal drew in a long breath and eased it out. If the teachers did this, there was honestly only one way he could still be around the two of them, and it was not the kind of thing you said over soup.
+Bal drew in a long breath and eased it out. If the teachers did this, there was just one way he could still be around the two of them, and it was not the kind of thing you said over soup.
 
 "There's something we could do," he told them. "But I'd rather wait to tell you what it is until we need it."
 
@@ -113,7 +110,7 @@ Any other night he would have waited until the girls had gone home to open this 
 
 Viridia listened to all of it. She didn't argue. She didn't ask anything else either. Her pencil lay across her finished runes and did not move again, and when Lora came out smelling of scorched ginger to report that the second recipe had worked, it was Bal who had to ask her how.
 
-Amelia came back a little before curfew. One minute the arm of the far couch was empty, and the next she was perched on it, swinging one foot, asking Lora what had burned.
+Amelia came back a little before curfew. One minute the arm of the far couch was empty, and the next she was perched on it, asking Lora what had burned.
 
 ---
 
@@ -140,5 +137,3 @@ The blanket moved. Amelia came across the bed until she was against his side.
 She laid her head on his chest. Her hair was cool and heavy and smelled faintly of somewhere that was not the castle, wind, maybe, or pine. Bal unlaced his fingers and put one hand on her back.
 
 On the nightstand the card leaned on the lamp's brass foot. In the next room, down in his pack, the job paper was still folded in half where he had tucked it. The weekend was a few days off. Saturday, then. Saturday they would go find Lora's flowers.
-
-He meant to figure how long a day's walk was, there and back, with the four of them. He was asleep before they reached the woods.

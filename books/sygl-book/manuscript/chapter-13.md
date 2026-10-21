@@ -1,13 +1,10 @@
 # Chapter Thirteen: New Spring
 
-<!-- SCENE BUDGET (Target 5,300): the wall, the boxers, "lonely in here" 650 | the free day, the note 450 | the road and the Dawn faction 500 | the square, the rolls, the flaming sword 450 | the jewelry, the familiar shop, Lora, the collar 550 | the earth ring, the bookstore 400 | the next aisle 650 | the dropped book, the door 400 | the Dawn Hall and the team rules 450 | Sygls Best, the cards, Amelia Norheart 550 | curfew and kissing 400 | the job, "You're the leader", the road home 350 -->
-<!-- Word count: ~5,480 | Target: 5,300 (range 4,800-5,700) | Anchor: the white script sinking into the wooden cards; "Amelia Norheart" | Hook: the card in his pocket -->
-
 The whole wall shook with it. In the next room the fire irons chattered in their stand, and grit pattered down on the canopy.
 
 Bal sat up with his heart going.
 
-Amelia did not. She was curled on her side next to him with her black hair spread over two pillows and one hand tucked under her cheek. When she had come in, he could not say. The embroidered rose was bunched up under her chin.
+Amelia hadn't moved. She was curled on her side next to him with her black hair spread over two pillows and one hand tucked under her cheek. When she had come in, he could not say. The embroidered rose was bunched up under her chin.
 
 The pounding came again. It was not a polite sort of knock. Somebody had made a fist and meant it.
 
@@ -53,7 +50,7 @@ He smiled at her. Her hand came down from her ear.
 
 Bal glanced toward his room. One originator, at least, had not pulled anybody anywhere this morning. When he left her she had been asleep with her mouth a little open.
 
-"I wouldn't mind going," he said, "as long as the two of you are with me." He smiled at both of them. "Let me go get changed."
+"I wouldn't mind going," he said, "as long as the two of you are with me. Let me go get changed."
 
 Viridia looked pointedly at the uniform he had barely finished putting on. He went anyway.
 
@@ -97,7 +94,7 @@ Bal's eyes went to Viridia again. She mouthed *yes* at him and did not bother to
 
 Bal laughed. "It's fine. We'll stop by anyway."
 
-The road was long and then it kept on being long. A farmer's cart passed them with a dog asleep on a load of turnips. When the first roofs showed through the trees ahead, the sun was high, and Bal's stomach had started to put in its opinion about lunch.
+The road was long and then it kept on being long. A farmer's cart passed them with a dog asleep on a load of turnips. When the first roofs showed through the trees ahead, the sun was high, and Bal was hungry again.
 
 ---
 
@@ -115,7 +112,7 @@ Lora looked at the roll, and then at him, and could not find the hole in that. S
 
 Viridia had no such scruples. She had already eaten a third of hers and was walking on.
 
-The roll was the best thing Bal had eaten in his life, or at least that morning. The meat inside was peppery and too hot, and juice ran to his wrist. He wondered how the man kept from burning his fingers off, and whether anyone had ever told him about tongs, and whether he would listen.
+The roll was the best thing Bal had eaten in his life, or at least that morning. The meat inside was peppery and too hot, and juice ran to his wrist.
 
 In the far corner of the square a crowd had gathered, and the crowd was going *ooh*.
 
@@ -125,7 +122,7 @@ A vendor stood on an upturned crate behind a table of weapons laid out on a red 
 
 Bal edged up to the table and found the price tag tied to the nearest hilt. He read it and winced.
 
-He watched the flame climb the blade once more. A sword that made fire was only a sword with something written on it. He was fairly sure he knew how to write. It would take some experimenting.
+The flame climbed the blade once more. A sword that made fire was only a sword with something written on it. He was fairly sure he knew how to write. It would take some experimenting.
 
 "Bal," Viridia said. "Come on."
 
@@ -259,7 +256,7 @@ Bal looked up and gave her his most sheepish face.
 
 "It's okay," Lora said. "We were only talking. Find everything you needed?"
 
-"Yep." Bal got up with the stack. "Also, there's a surprise for you at the dorm."
+"Yep." Bal stood with the stack. "Also, there's a surprise for you at the dorm."
 
 Lora's eyes went over his four books, spine by spine. None of them was the surprise. Bal was very glad, right then, that the green book was sitting in the bottom of his backpack.
 
@@ -293,7 +290,7 @@ Then he pushed the door open, and the bell dinged, and he held it until the girl
 
 The Dawn Hall had its name in gold letters on a large and very ornate sign over a three-story wooden building at the top of the square. A deep covered porch kept the rain off anyone waiting. Inside were tables, where people sat talking over mugs and maps, and a long counter down the whole right-hand side.
 
-Two women stood behind the counter in matching grey jackets with a sunrise stitched on the breast. Bal guessed it was a uniform.
+Two women stood behind the counter in matching gray jackets with a sunrise stitched on the breast. Bal guessed it was a uniform.
 
 "Welcome to the Dawn Hall," said the woman on the right as they came up. "My name is Soren, and this is Kim. What can we do for you today?"
 
@@ -377,7 +374,7 @@ Lora's face changed. "I like it," she said, and meant it.
 
 "Bal?" Viridia prompted.
 
-"I think we've got our new team name." He smiled at her.
+"I think we've got our new team name."
 
 On his way past her to the counter he reached out and gave Viridia's hand a quick squeeze.
 
@@ -465,9 +462,9 @@ Viridia's chin came up. Something mischievous got into her face and made itself 
 
 "What if I wanted to kiss Amelia instead?"
 
-Bal had no answer. His mouth fell open.
+Bal had no answer.
 
-Lora saved him, bounding over with a sheet of paper. She saw Bal's mouth and looked to Viridia for an explanation.
+Lora saved him, bounding over with a sheet of paper. She saw Bal's face and looked to Viridia for an explanation.
 
 "Later." Viridia pointed at the paper.
 

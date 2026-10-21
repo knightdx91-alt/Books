@@ -1,11 +1,8 @@
 # Chapter Thirty: The First Day
 
-<!-- SCENE BUDGET (Target 1,300): the couch, the four in one hug 300 | "We're okay", their account, their belief 400 | talked out, the couch, the fire, "What do we do now?" 300 | "stand together", Lora, "one hell of a break" 200 | to the bedroom, the closing line 150 -->
-<!-- Word count: ~1,510 prose | Revision: 2 (girls' account in dialogue; closing line per author) | Date: 2026-10-21 | Target: 1,300 (range 1,200-1,600) | Anchor: the closing line -->
-
 They landed on the rug in front of the big red couch, so close that Bal's shins knocked the cushions.
 
-The girls had been sitting there, waiting. They were up before he had his balance. Viridia vaulted the table instead of going around it. Lora went around like a sensible person and arrived at the same instant anyway, and the two of them hit him and Amelia together. The four of them went into one tangle of arms. An elbow found his ribs. Somebody's knee knocked his. Lora's glasses got mashed crooked into his collarbone, and she left them there.
+The girls had been sitting there, waiting. They were up before he had his balance. Viridia vaulted the table instead of going around it. Lora went around like a sensible person and arrived at the same instant anyway, and the two of them hit him and Amelia together. The four of them went into one tangle of arms. An elbow found his ribs. Somebody's knee knocked his. Lora's glasses got mashed into his collarbone.
 
 Bal hung on to all of them. Here were the people he cared about most in the world, as much of them as two arms would reach, and he wasn't letting go for anything. His cuts stung under the squeeze, and he let them. Amelia's arm was around his back and Lora's was around his waist, and Viridia had one fist knotted in the strap of his bandolier, as though he might be teleported off again if she loosened her grip.
 
@@ -19,7 +16,7 @@ He kept looking anyway.
 
 They told him everything. At first they both talked at once and got tangled up, until Lora gave in and handed Viridia the beginning.
 
-"It was that sky," Viridia said. "Not one cloud in it. And then that crack, like somebody slapped the whole world." A loose thread hung off her cuff, and she wound it round her finger. "I knew that sound. Half my childhood was under it. Nobody else can make it thunder in fair weather."
+"It was that sky," Viridia said. "Not one cloud in it. And then that crack, like somebody slapped the whole world." A loose thread hung off her cuff, and she wound it around her finger. "Only a storm mage can make it thunder in fair weather."
 
 "The horses ran," Lora said. "Except mine."
 
@@ -27,13 +24,11 @@ They told him everything. At first they both talked at once and got tangled up, 
 
 He remembered her like that, arms up, hair streaming. For days it had been the last of her he had.
 
-"Then that rock caught you in the head," Viridia said. "You went down and you didn't get up." "That was the worst part."
+"Then that rock caught you in the head," Viridia said. "You went down and you didn't get up. That was the worst part."
 
 "You were face down in the dirt," Lora said. "I tried to see whether you were breathing. I was too far away to tell."
 
-"And then we were off our feet. Carried off, with you lying there." Viridia snapped the thread off. "I couldn't even get my head round far enough to keep you in sight."
-
-Bal found his hands had closed into fists. He opened them again.
+"And then we were off our feet. Carried off, with you lying there." Viridia snapped the thread off. "I couldn't even get my head around far enough to keep you in sight."
 
 Lora took over for the days after.
 
@@ -71,7 +66,7 @@ He wanted to ask whether Viridia had given anybody lip. He'd ask later. He had a
 
 Not for one minute had they doubted it. Down in the dirt below the platform, with the storm mage's whip humming over his face, he had told them he was sorry. He had asked them to forgive him. And all that while, somewhere Bal couldn't even picture, these two had been sure of him, surer than he'd been of himself on any single mile of that road.
 
-There was no answer to that in him. He stood there in his torn trousers and couldn't get over them.
+There was no answer to that in him. He stood there in his torn pants and couldn't get over them.
 
 Amelia had stepped aside to let them have him. Now she rejoined them, and the talk turned to the fight. Viridia demanded it blow by blow, and then told them what she'd been shouting at the time. Some of it Amelia asked her to repeat, slower. Lora asked about the elemental. Bal admitted the elemental was a mystery to him, and Amelia confessed it was one to her too, which nobody had expected to hear from her.
 
@@ -115,8 +110,8 @@ Bal laughed. He touched Lora's shoulder lightly and smiled at her.
 
 Bal brought Lora up with him, and then Viridia, who came up grumbling, and then Amelia, who needed no help whatsoever and took his hand anyway. He waved them after him and led them off to the bedroom.
 
-The lamp was low. Somebody had turned the covers back already. Who, he couldn't say, and it hardly mattered. Viridia fought a knotted bootlace and lost, and swore at it, and Lora had it undone before Viridia was finished swearing. Amelia took down her hair. Viridia staked out the wall side and dared anyone to argue, and nobody did.
+The lamp was low. Somebody had turned the covers back already. Viridia fought a knotted bootlace and lost, and swore at it, and Lora had it undone before Viridia was finished swearing. Amelia took down her hair. Viridia staked out the wall side and dared anyone to argue, and nobody did.
 
-Bal lingered at the doorframe and gazed at those three beautiful women. The fire ticked behind him out by the couch. Nobody was hunting anybody. Nobody had to be anywhere in the morning but here.
+Bal lingered at the doorframe and gazed at those three beautiful women. The fire ticked behind him out by the couch. Nobody was hunting anybody.
 
 For the first time in his life, Bal was exactly where he belonged.

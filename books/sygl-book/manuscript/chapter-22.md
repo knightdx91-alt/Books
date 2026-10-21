@@ -1,8 +1,5 @@
 # Chapter Twenty-Two: The Plan
 
-<!-- SCENE BUDGET (Target 3,700): the noise, the battalion, Eric, refuge 450 | the girls meet the priests, Lora and Viridia go, Amelia to the bedroom 300 | the council: Thad's report, two-or-three-for-one 500 | Xavier: the priests, Aleric, the Three Boars, the ride 300 | Bal weighs it; Thad on palms; the inheritance; the priests give in 500 | the walk back: Marcus, the soldiers (reported) 450 | Xavier's Londra briefing 380 | the plan, Lora's "best shot", Viridia, the orders 520 | Amelia: "No", the argument, Lora, "Damn their war" 600 | home to the dorm 100 -->
-<!-- Word count: ~3,430 prose | Revision: 1 (2026-10-21, eval F1-F16) | Target: 3,700 (range 3,300-4,100) | Anchor: Amelia's blank stare and flat "No"; "Damn their war." | Hook: noon and the road; trying to forget what tomorrow would bring -->
-
 Boots, mostly. That was what filled the place once Bal's ears caught up with where they were. Hundreds of pairs on stone, down in the courtyards and on every flight of the long stairs, everybody bound somewhere in a hurry. Over the boots there was shouting, and over the shouting there was a steady clatter of metal being packed into spaces too small for it.
 
 A soldier came past with a bundle of spears on each shoulder and had to turn sideways to fit through the arch. Two more trotted after him with a cooking pot slung on a pole between them. It swung and clanged against the doorframe, and the one in front swore at the one behind for it.
@@ -81,7 +78,7 @@ Thad was right. The blood sygl army did not have the men to go on fighting Raize
 
 Xavier answered him. He had been waiting to.
 
-"We have to send in a force to eliminate the priests. Then the High Priest. That is our only chance. Our spies have learned that Aleric, one of Raizen's regular priests, has already started for Londra. The three of them meet in a week's time, at the Three Boars Inn."
+"We have to send in a force to eliminate the priests. Then the High Priest. That is our only chance. Our spies have learned that Aleric, one of Raizen's regular priests, has already started for Londra. He's easy to know. He has an old scar that runs down over the right eye. The three of them meet in a week's time, at the Three Boars Inn."
 
 There was a map under the reports. Bal pulled it out and drew it to him, and found the canyon, and then the town.
 
@@ -171,11 +168,9 @@ He put the paper down.
 
 The girls had none, and neither did Bal.
 
-Every other Wednesday. Who carried in the barrels at a place like that, Bal wondered, and did the drayman get a mug for his trouble? He put it away and laid out the plan.
+He laid out the plan.
 
 People were not going to look closely at whoever was traveling with someone so obviously Tempus. Viridia's hair and eyes marked her as one of Raizen's favored, as far as anybody in those lands would be concerned. So she would be a young noble lady, going home to Pashar because the war had made the borderlands too dangerous for her. Lora had been around nobility. She could coach Viridia on the road. And Bal would be the lowly manservant who saw to the horses and kept them all safe.
-
-He would have to ask Lora whether a manservant brushed the horses down himself at an inn like that, or left it to a stable boy.
 
 "Listen. This is dangerous," he said. "If either of you doesn't want to risk it, I understand. Nobody's going to think less of you."
 
@@ -263,4 +258,4 @@ He offered an arm. Lora and Viridia scrambled over and threw themselves around A
 
 The dorm was dark and exactly where they had left it. Viridia shrank Hopper with her collar, and Hopper took the hearth rug. They lit the fire. Later there were cards, and Amelia lost at them loudly. She sat closer to Bal than she needed to all evening, her shoulder against his, and nobody remarked on it.
 
-Noon and the road were hours off yet. They played and laughed, trying to forget what tomorrow would bring.
+Noon and the road were hours off yet.

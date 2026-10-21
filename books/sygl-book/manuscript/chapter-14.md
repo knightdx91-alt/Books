@@ -1,8 +1,5 @@
 # Chapter Fourteen: The Card
 
-<!-- SCENE BUDGET (Target 2,600): the road, Lora's book 450 | the pedestal, the second couch, the diary, the hug 450 | introductions, Lora's nerves 250 | why Amelia was caged, the tear, "So do I" 400 | "I need friends too", the pack, the alchemy book 350 | the ring 250 | the card 350 | the kiss, the shirt 200 | curfew, the girls go, bed 250 -->
-<!-- Word count: ~2,510 (revised 2026-10-20) | Target: 2,600 (range 2,300-3,000) | Anchor: "Amelia Norheart" between her fingers; the stained shirt | Hook: bed, with the morning ahead -->
-
 "They put the dead in the walls," Lora was saying. "Not in a graveyard. In the walls of their own houses. So your grandmother was always right there behind the plaster while you ate your supper."
 
 "That's horrible," Viridia said.
@@ -21,19 +18,19 @@ Bal would have bet his four new histories that Viridia couldn't have told an aqu
 
 Bal remembered the boys in Lora's town, the tournament, the comments after. Somebody had looked at this girl and decided she was a thing to laugh at. Now she was walking backward in the road ahead of him to keep Viridia's face in view while she explained about the floods, and he decided that whoever they were, they were not getting another turn.
 
-Somewhere around the third mile he started to wonder whether the castle kitchen ever ran out of salt, and who had to walk all this way down to fetch more if it did. Somebody's boy, probably. Somebody with a cart and a bad back. Lora had reached the part with the earthquake. Viridia asked which came first, the earthquake or the floods, and Lora said that was the right question, and Viridia was so busy being right that she walked into a puddle.
+Lora had reached the part with the earthquake. Viridia asked which came first, the earthquake or the floods, and Lora said that was the right question, and Viridia was so busy being right that she walked into a puddle.
 
 The last mile was uphill. Bal's feet hurt and he was hungry again and nobody said much on that stretch. Near the top Lora remembered one more thing about the earthquake, and they were off again, clear to the castle gate and in under it and up the stairs.
 
-It was nearly two hours before they came down the long gallery to the grey pedestal where it ended.
+It was nearly two hours before they came down the long gallery to the gray pedestal where it ended.
 
 "Watch this," Bal said.
 
 He set his palm on the carving. The little prick came, and the stone drank, and his blood threaded through the grooves till every line of the carving ran red, then sank out of sight. Lora bent so close to watch it that her glasses nearly touched the stone. Viridia wrinkled her nose at the whole business, and then the wall ground aside, and she went up the steps first anyway.
 
-The room upstairs had changed while they were out. There were two couches around the fireplace now, the old red one and a second one facing it, a darker red, with a second low table in front of it. Bal stood at the top of the steps and wondered where the dorm got its couches. Out of nowhere was the obvious answer.
+The room upstairs had changed while they were out. There were two couches around the fireplace now, the old red one and a second one facing it, a darker red, with a second low table in front of it.
 
-Amelia had the old couch to herself, a book open on her knees. It was a small book, bound in blue, with a name inked neatly on the cover, and Bal had seen it once before, the day before, while she lay on his bed reading it.
+Amelia had the old couch to herself, a book open on her knees. It was a small book, bound in blue, with a name inked neatly on the cover, and Bal had seen it once before, the day before, while she lay on the High Priest's bed reading it.
 
 She looked up at the sound of the wall. Her gaze slid past Bal to Viridia, and her face jumped.
 

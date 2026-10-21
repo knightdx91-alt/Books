@@ -1,8 +1,5 @@
 # Chapter Twenty-Three: Road to Londra
 
-<!-- SCENE BUDGET (Target 2,200): goodbye + Lora's lesson 450 | Bal and the three of them 280 | no towns; gallop and walk 180 | the refugee family 420 | two more days 200 | Londra gate, the guards, Viridia's act 520 | the streets, "how rare", the snake 260 | the Winespring stable boy 120 -->
-<!-- Word count: ~2,090 prose | Revision: 1 | Target: 2,200 (range 2,000-2,600) | Anchor: the father spitting in the road | Hook: "We were told to expect you." -->
-
 Amelia saw them off at noon. Fern's grooms had the horses waiting at the canyon gate, saddled and loaded, and she hugged Lora first and then Viridia and said something to each of them too low for Bal to catch. Then it was his turn. She held on to him longer than she had held either of them, and when she let go her fingers stayed on his collar a moment more, and straightened it, though it had been straight.
 
 She stayed out on the road while they rode off. When Bal twisted around in the saddle at the bend, she was still there.
@@ -13,7 +10,7 @@ They had been riding an hour, three abreast where the road allowed it. Viridia s
 
 "Everyone," she said. "The guards."
 
-"The guards. The innkeeper. The man who sells you a ribbon." "Us. Especially us. A lady doesn't thank her servants and she doesn't explain herself to them. She doesn't look at them at all unless she wants something."
+"The guards. The innkeeper. The man who sells you a ribbon. Us. Especially us. A lady doesn't thank her servants and she doesn't explain herself to them. She doesn't look at them at all unless she wants something."
 
 "Not looking at Bal? I'm a natural."
 
@@ -94,8 +91,6 @@ Lora and Bal dropped back together and let Viridia take the lead. Bal rounded hi
 The guard on the left put out an arm to stop them. He was a big man, bigger around the middle than in the arms, but he held a heavy black truncheon in one hand, and from his grip on it he had used it before.
 
 "What's your business in Londra?" he said. It was a nasal voice, pitched high for a man that size.
-
-Bal wondered whether the man had a cold, or whether he had always sounded like that and his mother had simply gotten used to it.
 
 Viridia gave him the kind of look Lora had been drilling into her for five days.
 

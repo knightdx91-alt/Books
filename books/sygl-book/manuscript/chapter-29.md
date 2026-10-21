@@ -1,8 +1,5 @@
 # Chapter Twenty-Nine: Blood Elemental
 
-<!-- SCENE BUDGET (Target 4,000): arrival, the coliseum, Toma, the circle, "a lesser version" 550 | Toma's grief, the duel rules, Bal's rule, Amelia to the stands 650 | first move, Kona Niente, the vials, Czak, "Is that it?", the gathering, the bolt 500 | Akora, the inheritance gift, the sand wall and glass, the whips, down, "I'm sorry" 600 | the maelstrom, the core, every last drop, the crack, the blood elemental 550 | Toma rocking, the tears, the gods, the palm, the realization 450 | Aren and Amelia, intentions, the compromise, the winner, the girls sent 500 | the demand, "another war", the hug, the elemental sent home, home 400 -->
-<!-- Word count: ~3,620 prose | Target: 4,000 (range 3,600-4,400) | Anchor: Akora turning to blood; Toma's palm | Hook: home, the fire already going -->
-
 The roof vanished from under his feet, and sand was there instead.
 
 It was hot on top and cool a finger's depth down, coarse as salt, and Bal's toes sank into it. Light poured over everything. All around him, tier on tier, stone benches climbed from the sand in rows, hundreds of rows, up to a ring of high arches where the sky began. It was a coliseum, as grand as the old Roman one had ever been, and every seat in it was empty. A breeze spilled down the bowl from the rim and stirred the sand around his ankles.
@@ -45,7 +42,7 @@ Toma drew himself up, and the priest returned to cover the man.
 
 Toma's mouth soured.
 
-"Agreed," he said, short and quick, plainly disliking the taste of it.
+"Agreed," he said, short and quick.
 
 Toma hadn't expected Bal to know the rules. That was plain. Bal had Amelia to thank for it. Deep in the second night on her roof, both of them sweating, she had made him sit and walked him through each rule till he had them by heart. So whatever happened now, both girls would live. For Bal, that was enough.
 
@@ -57,7 +54,7 @@ She jumped. She bounded to the stands in a single leap, her long skirt flaring o
 
 Bal walked on by himself.
 
-The sand got hotter toward his end of the arena, where the sun had been lying on it longest, and each grain worked in between his toes. Under the stands at this end there was a low dark archway with an iron gate across it, rusted shut, and it breathed out a smell of old stone and something animal, long gone. He wondered who had swept the arena for them. Somebody must have. There were no footprints on it anywhere but his own and Toma's.
+The sand got hotter toward his end of the arena, where the sun had been lying on it longest, and each grain worked in between his toes. Under the stands at this end there was a low dark archway with an iron gate across it, rusted shut, and it breathed out a smell of old stone and something animal, long gone.
 
 He stopped and faced around.
 
@@ -143,7 +140,7 @@ There was blood on his back. The glass had seen to that. He called it, and it li
 
 Then he was inside.
 
-The maelstrom closed over him. He was in the heart of the elemental's twisting body, borne around and around in a roar of light, and the glass was in there with him. All the shards from the wall had been caught up in the spin, thousands of them, and they whirled with him and through him and past him and back. Each one cut. They cut his arms and his legs and his back and his face, and they kept on cutting, shredding him. Bal's body had taken burns and blows before and hardly flinched. There was no taking this. Bal could only be in it.
+The maelstrom closed over him. He was in the heart of the elemental's twisting body, borne around and around in a roar of light, and the glass was in there with him. All the shards from the wall had been caught up in the spin, thousands of them, and they whirled with him and through him and past him and back. Each one cut. They cut his arms and his legs and his back and his face, and they kept on cutting, shredding him. There was no taking this. Bal could only be in it.
 
 And through it, with Amelia's blood in his eyes, he saw the core.
 
@@ -165,7 +162,7 @@ He fell. He struck the sand on his side and stayed down, and somewhere far away 
 
 Something landed on the sand before him, softly.
 
-Slowly, he raised his head. Where Akora had been, a shape stood over him, as tall as before and turning as it had turned, though no light was left in it. No lightning anywhere. It was blood. A great slow column of swirling blood, deep red, folding endlessly on itself without a drop spilling onto the sand, and it waited before him, as if summoned.
+Slowly, he lifted his eyes. Where Akora had been, a shape stood over him, as tall as before and turning as it had turned, though no light was left in it. No lightning anywhere. It was blood. A great slow column of swirling blood, deep red, folding endlessly on itself without a drop spilling onto the sand, and it waited before him, as if summoned.
 
 A blood elemental. Bal had no other name for it.
 
@@ -211,7 +208,7 @@ Amelia wasn't troubled in the least. On the contrary, she was enjoying herself e
 
 "I understand why it would trouble you, yes. And yet you want me to play your games, and then you get upset when they don't go your way. Bal never meant to convert Raizen's High Priest. He acted on instinct, against Toma's elemental. It was only because Toma and his elemental shared a life bond that he converted the High Priest along with it. You cannot penalize my High Priest for protecting himself."
 
-The gods could argue without him. He was having enough trouble staying upright. The breeze off the rim found every cut on him and stung it fresh, and blood ran down the backs of his legs in slow threads and dripped off his heels into the sand, where it sank and left little dark coins. Behind him the swirling thing kept up its low wet rushing, patient as a cart horse. Bal caught himself wondering, of all things, whether it needed feeding, and what on earth it would eat.
+The gods could argue without him. He was having enough trouble staying upright. The breeze off the rim found every cut on him and stung it fresh, and blood ran down the backs of his legs in slow threads and dripped off his heels into the sand, where it sank and left little dark coins. Behind him the swirling thing kept up its low wet rushing, patient as a cart horse.
 
 A fly had found Toma. It walked across the old man's knuckles, and Toma, who had stopped rocking, made no move to brush it off.
 
@@ -227,7 +224,7 @@ Bal found the circle again. Both girls were still inside it, pressed against the
 
 "Not if I don't have to. If somebody comes asking me to, I can compromise. I'll have Amelia let you know before I do it. That's as far as I'll go."
 
-Amelia agreed at once, plainly wanting nothing else, and Aren accepted it.
+Amelia agreed at once, and Aren accepted it.
 
 "That's it?" Raizen burst out. "She just gets away with taking my High Priest?"
 
@@ -245,9 +242,9 @@ Bal lunged forward. Amelia stopped him.
 
 "He only sent them home to the school," she whispered. "They're okay."
 
-Bal's fist clenched. He made it open again. He let her hold him back.
+He let her hold him back.
 
-Aren frowned at him from under white brows. He was plainly not used to mortals forgetting themselves in his presence.
+Aren frowned at him from under white brows. He was not used to mortals forgetting themselves in his presence.
 
 "Now then." Aren smoothed his beard and turned to Amelia. "As the victor, it is your right to demand anything of the defeated, barring his life. Have you made your decision?"
 

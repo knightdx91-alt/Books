@@ -1,8 +1,5 @@
 # Chapter Nine: The Familiar Class
 
-<!-- SCENE BUDGET (Target 3,400): breakfast 400 | the walk + classroom + Huginn 550 | lecture and rings 600 | question, summon, confrontation 950 | class sent out + excusal 300 | library 500 | kit detour + Winters + lunch hook 350 -->
-<!-- Word count: ~3,470 | Target: 3,400 | Anchor: "You called, Master?" on the desk; Porter the color of chalk -->
-
 Breakfast was eggs, bacon, toast and a bowl of oatmeal, and Bal had to borrow paper to order it.
 
 Any paper would do now, but he had come down to breakfast without any. Viridia watched him pat both his pockets, then tore a page out of the back of a notebook and slid it over.
@@ -45,19 +42,17 @@ They were two of the first students in, and they took two desks together in the 
 
 Mr. Porter was already at his own desk at the front. He was feeding cheese to a raven.
 
-It was a big bird, bigger than any raven Bal had seen sitting on a gutter, and it stood on the corner of the desk with its feathers sleeked down and its head tilted, watching the teacher's fingers. Mr. Porter broke a yellow cube off a block wrapped in wax paper. The raven took it from him, neatly, and tipped its beak to the ceiling to get it down. Then it tilted its head again and waited for the next one.
-
-Did ravens even like cheese? Or had this one never been offered anything better? No bird at the orphanage had ever turned down bread.
+It was a big bird, bigger than any raven Bal had seen sitting on a gutter, and it stood on the corner of the desk with its feathers sleeked down and its head tilted, watching the teacher's fingers. Mr. Porter broke a yellow cube off a block wrapped in wax paper. The raven took it from him, neatly, and lifted its beak to the ceiling to get it down. Then it tilted its head again and waited for the next one.
 
 The others came in by ones and twos. Nearly all of them looked at Bal as they came past, at the blood sygl on his sweater and then at his face. A few went around by the windows so they would not have to walk by his desk.
 
 When the last chair was filled, Mr. Porter wiped his fingers on a handkerchief, folded the wax paper over the rest of the cheese, and stood.
 
-He was a man in his fifties, with grey hair that had gone thin across the top and a brown tweed jacket buttoned over his stomach. His glasses caught the light from the windows whenever he turned his head, and while they did, you could not see his eyes at all. He walked to the front of the chalkboard and looked out at them.
+He was a man in his fifties, with gray hair that had gone thin across the top and a brown tweed jacket buttoned over his stomach. His glasses caught the light from the windows whenever he turned his head, and while they did, you could not see his eyes at all. He walked to the front of the chalkboard and looked out at them.
 
 "Why do you need a familiar?" Mr. Porter asked.
 
-Nobody answered. Twenty students looked around at one another in case somebody else had brought the answer.
+Nobody answered. Twenty students turned to one another in case somebody else had brought the answer.
 
 "A familiar has many uses," he told them, since nobody had. "Not the least of which is companionship, which should not be discounted by any means. A familiar can help to carry the magical load of a difficult spell. It can carry messages. One could even save your life." He lifted a hand toward the corner of his desk. "Take Huginn here."
 
@@ -201,7 +196,7 @@ Bal stood. The silver ring was still in the groove of his desk, where Amelia's k
 
 ---
 
-Amelia's directions to the library were good ones. Straight up the main stairs, a right at the top, and then the second door on the left.
+The library was upstairs, as promised: straight up the main stairs, a right at the top, and then the second door on the left.
 
 Partly he was curious what books a school this old kept. But he also had a plan. Last night, on the couch, Amelia had talked about still wanting revenge on the others for what they had done to her, and somewhere between that and the bell he had made up his mind to look into ways he could help. Something besides converting followers.
 
@@ -227,7 +222,7 @@ Bal had always looked up to the originators.
 
 Some people were born with magyk, he knew that, and not all of them got sygls. He had grown up thinking the ones who did were chosen. That each of those marks was a piece of an originator, given on purpose, by someone who wanted the world to be better and had picked that person to help. He had wanted one so badly. He had sat on a roof and pushed magic through a stump for years on the hope of it.
 
-Now here it was in their own histories, in plain print, and it matched what Amelia had told him at the cottage about eight high priests outside a temple. It made him feel sick.
+Now here it was in their own histories, in plain print, and it matched what Amelia had said at the cottage about eight high priests outside a temple. It made him feel sick.
 
 He shut the book.
 
@@ -247,7 +242,7 @@ He spent that first class copying runes off the chalkboard. The ones he knew fro
 
 Mr. Winters came down the rows while they worked. At Bal's desk he stopped and bent over the paper.
 
-"That's precise," he said, and tapped the avoidance rune with one finger. "Very good. That's an essential one to know if you're ever travelling at night in unfriendly territory."
+"That's precise," he said, and tapped the avoidance rune with one finger. "Very good. That's an essential one to know if you're ever traveling at night in unfriendly territory."
 
 He moved on. Bal studied the rune a while longer, the hook of it and the clean line through the middle, and then he copied the next one.
 

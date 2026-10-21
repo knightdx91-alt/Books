@@ -1,8 +1,5 @@
 # Chapter Twenty-Five: The Three Boars
 
-<!-- SCENE BUDGET (Target 3,200): the seal, the letter, the gift, Lora 450 | packing out, the ride, closed doors 300 | the stable boy, the silver 250 | the quiet barman, three priests, Titus/Aleric/Leon, the cask 450 | the refusal, "I insist", fear and resolve, Lora white 350 | the slow walk, the cold rune, the blood dagger, the purification rune 550 | no chance to warn her, Leon pours, the toast, Pashar, the letter offer 450 | the hour, the fourth cup 250 | outside: the door, "worth it", water 350 | Lora's line, the gate, the gallop 300 -->
-<!-- Word count: ~3,070 prose | Revision: 1 (F1-F14 applied, 2026-10-21) | Target: 3,200 (range 2,900-3,500) | Anchor: the rune under the cup | Hook: the gallop; open country to Amelia's territory and three priests behind -->
-
 Lora left it sealed. She crossed to the bed and sent it spinning onto the blankets over Viridia's knees.
 
 Viridia had not moved since the knock. She was propped against the headboard with her legs under the covers and her hair squashed flat where the pillow had been. Bal climbed back in beside her. His side of the sheet was still warm.
@@ -91,7 +88,7 @@ The third had to be Leon. He was the youngest of them by ten years at least, wit
 
 "Certainly." Viridia smiled at him. "It's a small token, to show how much we appreciate what the priesthood does for us. Even now, with this dreadful war going on."
 
-Aleric inclined his head to her, and the scar showed whiter than ever in the window light. Bal wondered where a man got a scar like that. Priests didn't fight, as a rule. They had people for it.
+Aleric inclined his head to her, and the scar showed whiter than ever in the window light.
 
 "We do appreciate it, my lady," Aleric said. "Come. Share a drink with us. Let us celebrate Raizen's glory."
 
@@ -229,7 +226,7 @@ Viridia stopped walking. She was going back over it, he could tell: her runes cl
 
 "You mean all I drank was water?"
 
-Bal grinned at her. He couldn't help that either. She was coming back.
+She was coming back.
 
 "Sorry I couldn't warn you. Getting the rune on the cup at all was hard enough, before I brought it over."
 

@@ -2,7 +2,7 @@
 
 The front door thumped shut behind them, and the shouting from the softball game went thin and far away.
 
-After the bright yard, the front hall of the orphanage was dim and cool, and it took Bal's eyes a second to catch up. The walls were a dull grey that somebody, years back, must have thought looked respectable, and the floor was laid with white tiles that always seemed to echo as you walked on them. Bal's shoes clacked on them now. Amelia stopped in the middle of the floor, stamped once on purpose, and listened to the sound come back to her off the walls with her head cocked.
+After the bright yard, the front hall of the orphanage was dim and cool, and it took Bal's eyes a second to catch up. The walls were a dull gray that somebody, years back, must have thought looked respectable, and the floor was laid with white tiles that always seemed to echo as you walked on them. Bal's shoes clacked on them now. Amelia stopped in the middle of the floor, stamped once on purpose, and listened to the sound come back to her off the walls with her head cocked.
 
 "Good acoustics," she said.
 
@@ -10,7 +10,7 @@ After the bright yard, the front hall of the orphanage was dim and cool, and it 
 
 Thankfully, most of the other kids were outside. That suited Bal fine. He had to go and see Mrs. Brown, and he would rather not have half the orphanage trailing behind him asking about his hand.
 
-Mrs. Brown was one of the women who helped run the orphanage. She was in her forties, and ever since Bal was small she had worn a light grey skirt and a white blouse, with her greying hair tucked up into a bun. Some kids didn't like her. If she caught you doing something you weren't supposed to, you got a severe punishment, and she was very good at catching people. Bal had never held that against her. As he saw it, if what you were doing was worth getting caught for, why get upset when you were? He had weeded his share of cabbages on the strength of that idea, and he still thought it was sound.
+Mrs. Brown was one of the women who helped run the orphanage. She was in her forties, and ever since Bal was small she had worn a light gray skirt and a white blouse, with her graying hair tucked up into a bun. Some kids didn't like her. If she caught you doing something you weren't supposed to, you got a severe punishment, and she was very good at catching people. Bal had never held that against her. As he saw it, if what you were doing was worth getting caught for, why get upset when you were? He had weeded his share of cabbages on the strength of that idea, and he still thought it was sound.
 
 But Balthazaar had always known something else about Mrs. Brown, too. If he ever truly needed someone to talk to, or if he had really messed up, he could go to her.
 
@@ -22,13 +22,13 @@ Her office was at the end of the downstairs hallway, past the bulletin board wit
 
 She looked up and down the hallway with open interest. Even the chore lists got a look.
 
-"I need to talk to someone about my hand," he said. He held it up for her to see. "Well. That, and me going to school. There's a new orientation class in two weeks. We had three boys and two girls leave a few days ago."
+"I need to talk to someone about my hand," he said. He held it up for her to see. "Well. That, and me going to school. There's a new orientation class any day now. We had three boys and two girls leave a few days ago."
 
 "And you think there's room for one more?"
 
 "I think," Bal said, "that's what we're here to ask."
 
-Amelia swung her feet under the chair. She did not seem worried in the slightest. Bal was worried enough for both of them.
+Amelia did not seem worried in the slightest. Bal was worried enough for both of them.
 
 "Come in," a voice yelled from behind the door.
 
@@ -36,7 +36,7 @@ Bal stood, wiped his palm on his pants, and motioned for Amelia to follow him in
 
 ---
 
-The inside of Mrs. Brown's office showed little in the way of personality. It never had. There were two grey filing cabinets against one wall and a heavy wooden desk in front of the window, and that was nearly all. The only thing in the room that belonged to Mrs. Brown herself was a single picture frame on the corner of her desk, turned toward her chair, showing her husband. He was dead. Bal had known that for years without knowing anything else about it. Otherwise the office was as spartan and bare as a waiting room.
+The inside of Mrs. Brown's office showed little in the way of personality. It never had. There were two gray filing cabinets against one wall and a heavy wooden desk in front of the window, and that was nearly all. The only thing in the room that belonged to Mrs. Brown herself was a single picture frame on the corner of her desk, turned toward her chair, showing her husband. He was dead. Bal had known that for years without knowing anything else about it. Otherwise the office was as spartan and bare as a waiting room.
 
 Mrs. Brown was writing something. She did not look up when they came in, and Bal knew better than to interrupt, so they waited just inside the closed door. Her pen scratched steadily across the page. Through the window behind her came a faint crack of the bat, then a cheer.
 
@@ -76,11 +76,9 @@ Mrs. Brown studied the sygl. Then she picked up her pen again and tapped it on t
 
 She dropped the pen on the desk and leaned toward them, her wooden chair creaking with the motion.
 
-"They're not going to be happy you're there," she warned them, looking from one to the other. "Either of you. The only reason they haven't outlawed blood sygls from attending is that they want to be seen as fair." Her mouth went thin. "That's probably why they locked her away, now that I think about it. It made it seem as though she'd simply abandoned her followers."
+"They're not going to be happy you're there," she warned them. "Either of you. The only reason they haven't outlawed blood sygls from attending is that they want to be seen as fair." Her mouth went thin. "That's probably why they locked her away, now that I think about it. It made it seem as though she'd simply abandoned her followers."
 
-"Mostly," Amelia said.
-
-"It was that," she said, "and the fact they knew they couldn't win in a straight-up fight with me."
+"Mostly," Amelia said. "That, and the fact they knew they couldn't win in a straight-up fight with me."
 
 She said it without any heat at all, the same as she might have mentioned the weather. Then she looked over at Balthazaar, and her face changed.
 
@@ -114,7 +112,7 @@ She stopped there. Outside the window, the game went on.
 
 That was the whole of it. It had taken her less than a minute to tell. Bal stood there and looked at the man in the frame, a stranger with a narrow face and his collar done up to the top button, smiling at whoever had held the camera, and thought that it must have taken her a great deal longer than a minute to learn to tell it that short.
 
-Then she turned from the picture back to them, and she was Mrs. Brown again, grey skirt and white blouse and the bun, the woman whose office this was.
+Then she turned from the picture back to them, and she was Mrs. Brown again, gray skirt and white blouse and the bun, the woman whose office this was.
 
 "So I want to help Bal overcome this hatred, if I can," she said to Amelia. "His sygl showed the day he was born, so I know his affinity must be strong. Otherwise they wouldn't have removed his hand that soon."
 
@@ -210,8 +208,8 @@ Amelia rolled hers.
 
 "*Normal* food. I can survive off it, but I do need blood to really thrive." She swung her legs off the bed and stood, and was at the door before he had moved. "Come on. I've heard all about this cook of yours. It's time I tasted the evidence."
 
-Bal let himself be pulled up off the bed. "You'll be sorry."
+Bal got up off the bed. "You'll be sorry."
 
-"I've been locked in a temple for three thousand years," Amelia said. "I doubt it."
+"I've been locked in a temple longer than you'd believe," Amelia said. "I doubt it."
 
-She towed him toward the door in search of sustenance. Bal looked back once from the doorway. His rug lay straight on the floorboards beside the bed, and at the foot of it sat his backpack, buckled and full and leaning against the locker, waiting for the morning.
+She went out ahead of him in search of sustenance. Bal looked back once from the doorway. His rug lay straight on the floorboards beside the bed, and at the foot of it sat his backpack, buckled and full and leaning against the locker, waiting for the morning.

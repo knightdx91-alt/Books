@@ -30,7 +30,7 @@ He turned the hand over, and there in the center of his palm was the sygl.
 
 It was blood red. It looked a little like a drop of water and a little like a flame, curled round on itself, with fine lines branching away from it toward his fingers. It glowed with a soft inner light, faint but unmistakable, brightening a little under his gaze and dimming when he looked away. He tilted his palm toward the braziers. It glowed. He shaded it with his other hand. It glowed brighter.
 
-He had watched other children hold their palms out at breakfast for years. He understood now why they couldn't stop.
+He had seen other children hold their palms out at breakfast for years. He understood now why they couldn't stop.
 
 "I don't know how I'll ever explain this," Bal confessed, still staring at it. "Something like this doesn't happen every day."
 
@@ -76,9 +76,9 @@ She stood up and brushed off her knees where she had knelt on the stone. Bal lin
 
 "But it's locked," Bal said, frowning at them. "Everyone's tried to open it. Everyone. Some of the big boys even tried a crowbar."
 
-Amelia took him by both hands, the old one and the new one, and hauled him to his feet. She kept hold of the new one and set off across the hall toward the doors, towing him along behind her, explaining as she went.
+Amelia waited while he stood, then set off across the hall toward the doors, explaining as she went.
 
-"The door is only locked one way," she said. "From the outside, it won't open for anyone. From the inside, it opens for anyone at all. Even if we hadn't bonded, you could have walked right on out whenever you liked." She glanced back at him over her shoulder. "Me, on the other hand? I'd still have been stuck in here. The only reason I get to go out now is because I'm your familiar." She squeezed his fingers. "Where you go, I go. That's what it means."
+"The door is only locked one way," she said. "From the outside, it won't open for anyone. From the inside, it opens for anyone at all. Even if we hadn't bonded, you could have walked right on out whenever you liked." She glanced back at him over her shoulder. "Me, on the other hand? I'd still have been stuck in here. The only reason I get to go out now is because I'm your familiar. Where you go, I go. That's what it means."
 
 She said the word lightly, with a sidelong look to see how he would take it. Bal didn't know how to take it. He settled for turning pink, which seemed to satisfy her.
 
@@ -100,9 +100,9 @@ He took her hand instead, and smiled at her.
 
 "Come on," he said. "Let's go outside."
 
-Hand in hand, they crossed the threshold together and went down the worn steps into the sun, and headed around the side of the orphanage.
+Hand in hand, they crossed the threshold together and went down the worn steps into the sun.
 
-The grass between the flagstones was warm and springy underfoot, and the air smelled of clover and hot brick and, faintly, of whatever the kitchen was burning for supper. Amelia had stopped on the bottom step and breathed it in, a long slow breath, then another. Bal waited. Through the new thread in his chest he could feel something coming off her, bright and fizzing.
+The grass between the flagstones was warm and springy underfoot, and the air smelled of clover and hot brick and, faintly, of whatever the kitchen was burning for supper. Amelia stopped on the bottom step and breathed it in, a long slow breath, then another. Bal waited. Through the new thread in his chest he could feel something coming off her, bright and fizzing.
 
 "It smells of people," she said. "I'd forgotten how much I liked that."
 
@@ -110,7 +110,7 @@ The grass between the flagstones was warm and springy underfoot, and the air sme
 
 "Then I'd forgotten how much I liked cabbage." She was already walking. "Show me everything."
 
-Amelia walked slowly, looking at everything. She ran her free hand along the rough brick of the orphanage as they passed it. She stopped dead to watch a car go by out on the main road, far off at the end of the lane, and followed it with her eyes until it was gone.
+Amelia walked slowly, taking everything in. She ran her free hand along the rough brick of the orphanage as they passed it. She stopped dead to watch a car go by out on the main road, far off at the end of the lane, and followed it with her eyes until it was gone.
 
 "I live here," Bal said, nodding up at the building. "My mom died giving birth to me, so they put me here. It's been my home for as long as I can remember." He considered for a second. "It's not a bad place. The food's terrible, but it's not a bad place."
 
@@ -140,6 +140,6 @@ Amelia leaned against his shoulder. "What are they playing?"
 
 She considered this with great seriousness. On the field, the small boy finally caught the ball with the end of his bat and sent it trickling about four feet, and took off for first base with his elbows going, while the entire field screamed at him to keep going. Amelia clapped.
 
-Bal flexed his new fingers around hers and watched the boy reach first base. Any minute now, somebody was going to look over and notice he had two hands, and he was going to have to say something about it.
+Bal flexed his new fingers around hers as the boy reached first base. Any minute now, somebody was going to look over and notice he had two hands, and he was going to have to say something about it.
 
-They watched the game for a few minutes before Bal pulled Amelia inside.
+They watched the game for a few minutes before Bal took Amelia inside.

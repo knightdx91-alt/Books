@@ -2,11 +2,11 @@
 
 The pedestal bit him.
 
-It stood at the end of the corridor of paintings, a squat column of grey stone about as high as his waist, with the blood sygl carved deep into its flat top. Amelia stopped in front of it.
+It stood at the end of the corridor of paintings, a squat column of gray stone about as high as his waist, with the blood sygl carved deep into its flat top. Amelia stopped in front of it.
 
 "Put your left hand on it," she said.
 
-Bal put his palm flat over the carving. There was a sharp little prick in the middle of his hand, like a pin left in a new shirt, and before he could pull back the stone was already drinking. His blood ran out along the grooves of the carving, filling them line by line until the whole sygl stood out red on the grey, the same shape as the one under his hand. Then it sank into the stone and was gone, and the top of the pedestal was dry and grey again.
+Bal put his palm flat over the carving. There was a sharp little prick in the middle of his hand, like a pin left in a new shirt, and before he could pull back the stone was already drinking. His blood ran out along the grooves of the carving, filling them line by line until the whole sygl stood out red on the gray, the same shape as the one under his hand. Then it soaked into the stone and was gone, and the top of the pedestal was dry and gray again.
 
 Beside them, a section of the wall slid aside with a low grinding sound. Behind it a short flight of stone steps climbed up into warm light.
 
@@ -30,13 +30,13 @@ Bal let his pack slide off his shoulder by the end of the couch and sat beside h
 
 "Oh, yes," Amelia said. "Especially once word gets out that I'm back."
 
-She lay there a little longer with her eyes on the ceiling. Then she sighed and sat up, pulling her legs under her.
+She lay there a little longer with her eyes on the ceiling. Then she sighed and straightened, pulling her legs under her.
 
 "Okay. Official stuff, before I have to go and deal with the family." She held up one finger. "Do you remember how you got down here?"
 
 Bal ran it back in his head. The little door behind the stage, the narrow corridor, the stairs going down, the paintings. "Yes."
 
-"Good. I may not always be with you, so you need to know your way around." Another finger. "You've only got four classes as a first year. I'll get you the list once I'm through dealing with them. There's a curfew, but as Lead Mage you're exempt from it." "The library's on the second floor, because I'm sure you're going to go hunting for it."
+"Good. I may not always be with you, so you need to know your way around." Another finger. "You've only got four classes as a first year. I'll get you the list once I'm through dealing with them. There's a curfew, but as Lead Mage you're exempt from it. The library's on the second floor, because I'm sure you're going to go hunting for it."
 
 "I was going to ask."
 
@@ -52,7 +52,7 @@ Bal couldn't help smiling back. A whole castle full of secrets, and someone to b
 
 She hugged him, quick and cool around the neck, and before he had properly hugged her back she straightened, snapped her fingers and was gone. The cushion beside him slowly puffed back up.
 
-The fire popped. Bal sat in the quiet for a while.
+The fire popped. Bal stayed in the quiet for a while.
 
 ---
 
@@ -90,7 +90,7 @@ The wall between them went soft at the edges and was simply not there anymore. N
 
 Bal laughed out loud, alone, in his own kitchen.
 
-He returned to the fire, stood in front of it and looked at the doors in turn. The bedroom. The bathroom. The library. The big new kitchen. He thought, as plainly as he could, *stay*.
+He returned to the fire, stood in front of it and took in the doors in turn. The bedroom. The bathroom. The library. The big new kitchen. He thought, as plainly as he could, *stay*.
 
 He couldn't have said what changed. Nothing moved. But when he looked at the new doors afterward they had a settled look, the look of doors that were going to be there tomorrow.
 
@@ -104,9 +104,9 @@ He took the stone steps down, and the wall slid aside to let him out. He retrace
 
 The corridor let out into a large courtyard in the middle of the school. Students filled it, sitting around in groups on benches and the edges of planters, talking. It didn't take long to work out how they were sitting. Most of them were with others of their own sygl, Waves with Waves, Terra with Terra. A few of the braver ones had drifted over to chat with somebody from another group.
 
-Bal pulled his sweater around to look at the back. The blood sygl had come up there at some point during the claiming, dark red on the dark wool, just where Verin had promised. He hadn't even noticed.
+Bal pulled his sweater around to look at the back. The blood sygl had come up there at some point during the claiming, dark red on the dark wool. Verin had said it would. He hadn't even noticed.
 
-Some of the students had noticed. A few heads turned as he stepped out of the corridor. A few conversations stopped and started up again more quietly.
+Some of the students had noticed. A few heads turned as he stepped out of the corridor. A few conversations stopped, then picked up again more quietly.
 
 "Hey, you're that Blood guy, right?"
 
@@ -114,9 +114,9 @@ The voice came from behind him. Bal turned quickly.
 
 A girl stood there with her hands in her pockets. She was a little taller than he was. Her hair was pale blue, a cold, bright blue like the sky at the edge of a storm, and her eyes were the same color exactly. She had a small smile on her face.
 
-It was the Tempus girl who had ridden ahead of them on the road that morning. So it had been her doing the crackling, after all, and not the sweater.
+It was the Tempus girl who had ridden ahead of them on the road that morning. So it had been her doing the crackling, after all, and not the sweater. The two boys must only have shared her ride.
 
-While he was looking at her hair, it did it again. Down near her shoulder a strand stirred on its own, and then the whole of it bristled, and a faint snapping ran through it like someone shaking out a wool blanket in winter. Then it lay flat.
+While his eyes were on her hair, it did it again. Down near her shoulder a strand stirred on its own, and then the whole of it bristled, and a faint snapping ran through it like someone shaking out a wool blanket in winter. Then it lay flat.
 
 The girl rolled her eyes.
 
@@ -140,7 +140,7 @@ Bal shook it. Her grip was quick and firm.
 
 "Yeah, that makes sense." Viridia glanced around at the groups herself. "Honestly, though, once people get over the shock, they'll probably start coming up to you. Just remember not everybody's going to be friendly. You've got a lot of years of hate and stuff to get past."
 
-"Yeah, I know," Bal said. "Thanks for the warning, though." He looked at her more closely. "Aren't you afraid of what they'll think, you talking to me?"
+"Yeah, I know," Bal said. "Thanks for the warning, though." He gave her a closer look. "Aren't you afraid of what they'll think, you talking to me?"
 
 Viridia snorted.
 
@@ -180,7 +180,7 @@ He raised an eyebrow at her.
 
 "Not particularly," Bal said.
 
-"Okay, then." She settled in and planted her elbows on the table.
+"Okay, then." She planted her elbows on the table.
 
 On each silver plate lay a piece of paper. Bal read his. It was instructions for ordering a meal. Write what you want on the back, it said, then lay the paper on your plate. After today any piece of paper would do.
 
@@ -188,7 +188,7 @@ Who washed the plates, if they went away on their own? Was there a room somewher
 
 There was a pencil beside the plate. On the back Bal wrote, in large letters, *LARGE PEPPERONI PIZZA*.
 
-He laid it on his plate. The plate vanished. In its place sat a big silver dish, and on the dish a whole pepperoni pizza, steaming, the cheese still bubbling at the edges.
+He laid it on his plate. The plate vanished. In its place was a big silver dish, and on the dish a whole pepperoni pizza, steaming, the cheese still bubbling at the edges.
 
 Bal reached for a slice. Across the table Viridia already had a burger in both hands and was taking a large bite out of it.
 
@@ -234,7 +234,7 @@ Amelia let her bangs fall. She helped herself to a slice of Bal's pizza, and exp
 
 Amelia stopped chewing.
 
-She left the slice on the dish, and when she looked at Viridia her red eyes were perfectly level.
+She left the slice on the dish, and when she turned to Viridia her red eyes were perfectly level.
 
 "Don't ruin the good impression I've gotten of you so far," Amelia said. "Insulting him is the one thing that's liable to set me off."
 
@@ -260,7 +260,7 @@ Amelia's head came up.
 
 "Of course," Viridia said, perfectly straight-faced. "I'd die to have skin like yours."
 
-Amelia only looked at her. Viridia looked back and didn't blink. A Waves boy at the next table over had stopped with his fork in the air and was watching them, and nobody at the Blood table paid him any attention.
+Amelia only studied her. Viridia looked back and didn't blink. A Waves boy at the next table over had stopped with his fork in the air and had his eyes on them, and nobody at the Blood table paid him any attention.
 
 Amelia's mouth twitched first. Then she put her head back and laughed, loud enough that half the hall turned around.
 
@@ -272,7 +272,7 @@ She swallowed the last bite of her pizza and slid out from the bench.
 
 There was a soft pop, and Amelia's place on the bench was empty.
 
-Bal and Viridia looked at one another across the pizza.
+Bal and Viridia traded a look across the pizza.
 
 "What did she mean," Viridia asked, "you can keep me?"
 
@@ -288,7 +288,7 @@ They stayed and talked a while longer, until the hall had mostly emptied around 
 
 Bal sat on at the empty table. Then he headed back to his dorm.
 
-There were still students milling around in the courtyard, and more of them in the corridors, standing in their groups. Bal walked through them with his hands in his pockets. A boy in a Terra sweater looked at the sygl on his chest and then up at his face, and kept on looking. Farther on, an older boy with his arms folded watched him the whole length of the corridor, flat and unfriendly.
+There were still students milling around in the courtyard, and more of them in the corridors, standing in their groups. Bal walked through them with his hands in his pockets. A boy in a Terra sweater looked at the sygl on his back as he passed and then turned to study his face, and kept on looking. Farther on, an older boy with his arms folded tracked him the whole length of the corridor, flat and unfriendly.
 
 No one said anything. No one bothered him.
 

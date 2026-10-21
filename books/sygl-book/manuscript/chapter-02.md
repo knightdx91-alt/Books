@@ -14,7 +14,7 @@ He had a whole speech somewhere in his head. He was certain of it. He'd planned 
 
 At a loss for words, which was a first for Bal, he numbly pointed at the ceiling.
 
-The girl followed his finger up to the open roof and the patch of blue sky beyond it. Then she looked back down at him, and at the rug lying in a heap on the floor behind him, and arched a perfectly trimmed eyebrow.
+The girl followed his finger up to the open roof and the patch of blue sky beyond it. Then her gaze came back down to him, and to the rug lying in a heap on the floor behind him, and arched a perfectly trimmed eyebrow.
 
 "You flew in?"
 
@@ -34,13 +34,13 @@ That, at least, he could answer, once his tongue came unstuck.
 
 "It hit the dormitory ceiling. Somebody had to fetch it down."
 
-"Poor sock," the girl said gravely. She looked at the rug in its heap on the floor. "I see you've moved up in the world."
+"Poor sock," the girl said gravely. She considered the rug in its heap on the floor. "I see you've moved up in the world."
 
 "I honestly thought I was seeing things," Bal finished. Now that he had started talking, the questions crowded up behind his teeth. "Who are you? How did *you* get in?"
 
 The girl laughed and waved a hand.
 
-The air between them shivered. Stone grated softly on stone, and in a matter of seconds two stone benches stood on the floor between them, facing one another, as solid as if they had been carved there a hundred years ago. They were plain grey, smooth-topped, with lion's feet at the corners. A thin film of dust lay on them.
+The air between them shivered. Stone grated softly on stone, and in a matter of seconds two stone benches stood on the floor between them, facing one another, as solid as if they had been carved there a hundred years ago. They were plain gray, smooth-topped, with lion's feet at the corners. A thin film of dust lay on them.
 
 "Have a seat," she said, "and I'll explain."
 
@@ -54,7 +54,7 @@ It was only polite to answer that. "I'm Balthazaar," he said. "Bal, to my friend
 
 "Balthazaar." She tried the name out slowly, tasting it, and looked pleased with the result. "Now that's a name. Somebody chose well."
 
-Bal looked around. He took in the two rows of pillars, the two braziers, the shaft of sunlight falling through the roof that wasn't there, and the dark statue with its face in shadow. Then he looked back at Amelia, sitting across from him with her hands folded in her lap and the rubies glinting at her ears.
+Bal took in the two rows of pillars, the two braziers, the shaft of sunlight falling through the roof that wasn't there, and the dark statue with its face in shadow. Then he looked back at Amelia, sitting across from him with her hands folded in her lap and the rubies glinting at her ears.
 
 "So," Bal asked, still confused, "a temple for what?"
 
@@ -82,7 +82,7 @@ Amelia saw this. He watched her see it. She shut her eyes, pressed her lips toge
 
 Bal stayed where he was, halfway between his bench and the rug, unable to decide whether sitting or running was the more sensible choice.
 
-Amelia didn't seem to mind. She was looking at his arm.
+Amelia didn't seem to mind. Her attention was on his arm.
 
 "What happened to your sygl?" she asked, pointing at the stump of his arm. "Did the thought of having a myth's sygl disgust you so much you had to cut off your hand?"
 
@@ -110,7 +110,7 @@ He couldn't have explained how. It was a settling more than a sound, a click dee
 
 He knew what blood sygls were. Everybody did. Blood sygls, while not strictly outlawed, were frowned upon. Badly.
 
-Bal looked up. Amelia was watching him, waiting, her pale hands still in her lap.
+Bal met Amelia's eyes. She was watching him, waiting, her pale hands still in her lap.
 
 "You don't know what they say about it?" he asked. "Out there?"
 
@@ -162,7 +162,7 @@ Bal held up his stump.
 
 "No sygl," he said simply. "No school will let you in unless you have a sygl."
 
-Amelia narrowed her eyes at him. The firelight caught them as she did, and now Bal saw clearly what color they were. Red, the same red as the rubies at her ears.
+Amelia narrowed her eyes. The firelight caught them as she did, and now Bal saw clearly what color they were. Red, the same red as the rubies at her ears.
 
 Then she grinned.
 

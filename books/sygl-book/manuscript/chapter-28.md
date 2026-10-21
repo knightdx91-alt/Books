@@ -1,8 +1,5 @@
 # Chapter Twenty-Eight: The Chalice
 
-<!-- SCENE BUDGET (Target 2,900): waking, water, two days, the sleep-talk, the offer and the no 650 | the knock, Thad and Xavier, the army, the parlay letter 600 | two days; standing; "You can use me"; what blood does; "Of course, Master" 650 | the chalice, the kneeling, the memories, "Thank you", no scar 600 | two days on the roof, the vials, barefoot, her hand 400 -->
-<!-- Word count: ~2,690 prose | Revision: 1 (F1–F14 applied, 2026-10-21) | Target: 2,900 (range 2,600-3,300) | Anchor: the chalice | Hook: her hand, and the coliseum -->
-
 "Water."
 
 He croaked it. His tongue was glued in place, and the word had to tear itself loose.
@@ -73,7 +70,7 @@ From inside his robe he drew a roll of parchment.
 
 Bal accepted it. The parchment was worn fuzzy along its edges; somebody had rolled and unrolled it more than once on its way up to him. He was afraid he knew already what it said. He unrolled it slowly anyway.
 
-The hand was neat and upright and very sure of itself, and Bal found himself thinking that a man who wrote like that probably made his bed with square corners. Then he read it.
+The hand was neat and upright and very sure of itself. Then he read it.
 
 The High Priest Toma had Lora and Viridia. His army would sit on their doorstep until every last soul in the temple was dead, unless Bal agreed to a Mages Duel. One on one. If he accepted, the girls would come to no harm. To accept, he was to hang a large blue cloth from a pole and wave it once the army had arrived. Then, at the very bottom, in the same tidy hand, came a postscript. He could even have his *pet originator* teleport him, if he liked, so that they could settle the matter quickly. He was to meet the High Priest in two days' time.
 
@@ -91,7 +88,7 @@ Amelia smoothed the hair back off his forehead and stayed close, and neither of 
 
 He pushed himself upright.
 
-Bal could stand more pain than most people. This he could not take quietly. The burn across his front pulled tight, and the breath left him in a hiss. He swung his legs out and got his feet on the floor and stood.
+This he could not take quietly. The burn across his front pulled tight, and the breath left him in a hiss. He swung his legs out and got his feet on the floor and stood.
 
 The room tipped. His knees went loose.
 
@@ -155,7 +152,7 @@ She carried a chalice before her, wide and plain, with a silver foot and a cup o
 
 Then she knelt on the floor in front of him.
 
-She did it just as she had done in the temple behind Saint Andre's, on the day of the binding. Bal remembered that afternoon in a rush, the braziers and the stone under her knees. It had only been months. It felt longer.
+She did it just as she had done in the temple behind Saint Andre's, on the day of the binding. Bal remembered that afternoon in a rush, the braziers and the stone under her knees. It had been barely two months. It felt longer.
 
 "Drinking this will bind us together even more strongly," Amelia said. Her eyes held his. "Do not speak of what you see when you drink. At least, not now."
 
@@ -189,7 +186,7 @@ He felt her sigh against him, all of it, held, it seemed, since she had left the
 
 He released her and stood.
 
-He was healed. He knew it before he checked. Nothing pulled. The floor held still. He breathed to the bottom of his lungs, and nothing in him objected. Across his chest, where the whip of lightning had laid him open, the skin had closed over smooth. There was no scar. Not even a mark.
+He was healed. He knew it before he checked. Nothing pulled. The floor held still. He breathed to the bottom of his lungs. Across his chest, where the whip of lightning had laid him open, the skin had closed over smooth. There was no scar. Not even a mark.
 
 Bal grinned.
 
@@ -201,7 +198,7 @@ Over the two days that followed, he trained almost without stopping.
 
 He never had to rest. Amelia's blood kept him going, through the days and through both nights, and he did not miss sleep. They fought it out on her temple roof, high above the canyon, under the sun and later under the stars, on flat stone gone warm in the day and cold at night. Amelia held herself back as far as she could, so that he could practice against her.
 
-He had ideas to try. New ones. Some of them came from things he had seen in her memories, and the best person in the world to try them on was Amelia herself, because nothing he did could hurt her. He tried them, and they failed, and he tried them again, and she told him exactly how badly each one had gone. She made none of it sound better than it was. He'd have hated it if she had. Sometime in the first night one idea nearly worked, and she called across the roof for him to do it again, and it fell apart on him, and they kept at it till it held. On the second evening the stone up there was scuffed in long pale streaks where his bare heels had skidded. Once, between bouts, he sprawled on the warm stone with a hawk turning circles over the canyon above him, and followed it far too long, wondering whether it ever got dizzy. Amelia prodded his ribs with her toe until he rolled to his feet.
+He had ideas to try. New ones. Some of them came from things he had seen in her memories, and the best person in the world to try them on was Amelia herself, because nothing he did could hurt her. He tried them, and they failed, and he tried them again, and she told him exactly how badly each one had gone. She made none of it sound better than it was. He'd have hated it if she had. Sometime in the first night one idea nearly worked, and she called across the roof for him to do it again, and it fell apart on him, and they kept at it till it held. On the second evening the stone up there was scuffed in long pale streaks where his bare heels had skidded.
 
 Then the morning of the duel came, and he was ready to face Toma.
 
