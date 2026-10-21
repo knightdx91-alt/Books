@@ -2694,3 +2694,62 @@ Open contradictions: 33 → 37.
   - Every quote added in this re-sync was checked against the final page. The only misses are labelled was/prose_was text, other chapters' quotes on mixed lines, and plan/eval quotes.
 - **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 275 characters, 82 locations, 117 objects, 134 contradiction rows (41 open).
+
+## 2026-10-21: UPDATE (chapter 19, "Puteoli", post-disruptor page)
+
+- **Page read:** chapter-19.md at c98aaa0 (writer cb3d2fa, dialogue-polish 8d4e2f7, book-disruptor c98aaa0), md5 c4793a91f3dd935af6a501bd1ada2571.
+- **Numbering:** 186 paragraphs, four `* * *` breaks after p24, p63, p95 and p127. The title, the book's first dateline heading (`#### *Puteoli · spring, AD 72*`, a heading, not counted) and the four HTML comment lines are not counted, so file line 10 = p1. The section offsets are in `meta.source_convention.paragraph_rule`.
+- **Planned rows replaced by the page** (each keeps `plan_was`): Mara's and Valens's Ch.19 location rows; Mara's door knowledge row; Valens's "papers accepted at Puteoli"; both relationship rows with Grata; timeline row 19; locations puteoli, vesuvius, pompeii (the tomb roads, the distance, Grata's street), nuceria-gate-tomb, neapolis, misenum; the microcassette touch, the Pentax beat, the manumission-record beat; `knowledge_index.door_location`; `hand-at-threshold`.
+- **Grata:** her whole entry is rebuilt from the page. It covers her description (p107), her flood, the arm-touching, and "You're Greek, you've the walk". It also covers the rooms (the dead cobbler's shop next door with two rooms behind, 24 sesterces), her husband at dice, her son at the baths, her cousin's bad wall and the whitewash patch. The plan's traits are kept, with `ch19_confirmed` / `ch19_page` notes.
+- **gratas-husband:** first appearance moved from the planned Ch.24 to Ch.19. Grata tells of him, and the man in the sleeping tunic is him by reading only.
+- **secundus:** first mention moved to Ch.19 (unnamed).
+- **The clerk:** the clerk entry is rebuilt from the page. The short sight is shown and never named.
+- **Pacuvius, his daughter and the mother-in-law:** all three get Ch.19 rows. The mother-in-law is now on the page, so her importance goes from mentioned_only to minor.
+- **New:**
+  - **Characters (7):** puteoli-wine-woman, neapolis-innkeeper, nola-carters, nuceria-gate-rose-woman, eel-sellers-family, aulus-numisius-eros (from the inscription), marcus-satrius-proculus (from the panel).
+  - **Locations (8):** puteoli-wine-shop, neapolis-tunnel, neapolis-shore-inn, herculaneum-gate-road (the gate is unnamed on the page), stabian-gate, gratas-thermopolium, cobblers-shop, pompeii-amphitheater.
+  - **Objects (4):**
+    - pacuvius-daughters-brooch: chekhov_closed, mended with the pen-knife.
+    - gratas-whitewash-patch: chekhov_open, planted.
+    - back-room-barred-door: chekhov_open; "It sticks at the sill,".
+    - muleteers-election-panel: background.
+  - **Organizations (2):** misenum-fleet, pompeii-muleteers.
+  - **Plot thread (1):** puteoli-letter-board, for Ch.21-22.
+  - **World rules:** 9.
+  - **timeline_events:** 6 rows (the crossing, DAY 1-4 and the carters' games ban).
+- **Payoffs written:**
+  - **the-where:** the secondary payoff is paid. The door is found at the tomb of Aulus Numisius Eros outside the Nuceria Gate (p165-p178). It is recorded as the home door's location.
+  - **valens-papers:** paid (p41-p47). The manumission-record stays `chekhov_open` for Ch.22.
+  - **theano-phrase:** "where the dead go out" is used (p164), use 2 of 3.
+  - **The camera:** no frame (p19).
+  - **"Seventy-nine.":** used once (p18).
+  - **The mountain:** never named.
+  - **The fig:** on the roof (p116).
+  - **The pen-knife:** still with Mara (p6; p57).
+- **Knowledge flow:**
+  - Only Mara knows the door.
+  - Valens: a door_location NOT row. He knows she is walking the tomb roads and has a Ch.15 path to their purpose, but he is not told she found it.
+  - NOT rows also for Felix, Grata, the eel-seller's family and the rose-seller.
+  - New `knowledge_absent_ch19` for Mara, Valens, Felix and Grata.
+  - Rows added to valens_name, lechaion_wedding, felix_freedom, the_year, eruption_foreknowledge and maras_camera.
+  - No knowledge_gap.
+- **Contradictions:**
+  - **CH19-1 (info):** outline Ch.19 against the page. The page has one mole, no Sarno, and a different search order: the tomb road into the town on arrival, the Stabian Gate on DAY 3. It never uses the word "dormant". None of this is against a NON-NEGOTIABLE.
+  - **CH19-2 (low, forward constraint for Ch.20):**
+    - The plan has the repair shop in "Grata's front room" and the old crack in Grata's wall.
+    - On the page the shop is the cobbler's next door, and the crack is on another house, done by her cousin.
+  - **CH19-3 (info):** Grata's husband (planned Ch.24) and Secundus (planned mention Ch.20) both appear earlier, unnamed.
+  - **CH19-4 (info):** the marriage day count. "The twelfth morning" comes after "eleven nights", and "Twelve days" is said the next afternoon. Compatible if the wedding day counts as day one.
+  - **CH19-5 (info):** the road takes about a day and a half, against Ch.15's "A day … or less" and the plan's "two days". Compatible.
+  - **CH19-6 (info):** the knife thread. Myrrhine is not at Puteoli and no word is left for her.
+  - **CH19-7 (info, forward constraint for Ch.21-22):** the Puteoli letter board against the plan's summons brought to Grata's counter.
+  - **Rechecks:** CH16-9 (the fig's moves; still open) and CH18-2 ("no ship but ours yet in from Lechaion"; still info).
+  - **Resolved:** none.
+  - **CRITICAL:** none.
+  - **Open count:** 41 → 48.
+- **Checks:**
+  - Every quoted Ch.19 fragment added in this run was checked by script against the page before writing; 422 fragments, 0 off the page.
+  - Each fragment was then checked against the paragraphs its line cites. The only misses were object descriptions whose source sits on a sibling line.
+  - No cite is above p186.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 282 characters, 90 locations, 121 objects, 20 organizations, 62 plot threads, 106 world rules, 198 timeline_events, 141 contradiction rows (48 open).

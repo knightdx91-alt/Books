@@ -267,6 +267,16 @@
 # 'Valens was minding the dun.', 'by Pollux', the priests clause, 'Twice over' and Felix's 'Did you get it?' cut, the net-mender in
 # place of the hammer, 'It's the nuts,'. CH18-1 and CH18-3 NARROWED (CH18-3 part 2 auto-resolved by the cut). NEW: CH18-5 (info,
 # forward constraint): the marriage is matrimonium iniustum, so the children's citizenship is OPEN for the author at checkpoint 4.
+# UPDATE (chapter 19, 'Puteoli', post-disruptor page: writer cb3d2fa, dialogue-polish 8d4e2f7, book-disruptor c98aaa0; md5
+# c4793a91f3dd935af6a501bd1ada2571) 2026-10-21. Ch.19 facts carry ch-19:pYY (p1..p186; breaks after p24, p63, p95 and p127; the title,
+# the first dateline heading and the four HTML comment lines are not counted, so file line 10 = p1). outline:ch-19 sources replaced where
+# the page confirms (plan_was kept). Grata on the page for the first time; the clerk; the letter board; the door FOUND (the tomb of Aulus
+# Numisius Eros, Nuceria Gate, faintly cool, told to nobody). NEW characters puteoli-wine-woman, neapolis-innkeeper, nola-carters,
+# nuceria-gate-rose-woman, eel-sellers-family, aulus-numisius-eros, marcus-satrius-proculus; locations puteoli-wine-shop, neapolis-tunnel,
+# neapolis-shore-inn, herculaneum-gate-road, stabian-gate, gratas-thermopolium, cobblers-shop, pompeii-amphitheater; objects
+# pacuvius-daughters-brooch, gratas-whitewash-patch, back-room-barred-door, muleteers-election-panel; organizations misenum-fleet,
+# pompeii-muleteers; plot thread puteoli-letter-board. NEW: CH19-1..CH19-7 (CH19-2 low: the shop next door vs the Ch.20 plan; the rest
+# info). Nothing resolved. No CRITICAL. Nothing overwritten.
 # Facts, not interpretation. Contradictions are flagged with `conflict` (flag: UNRESOLVED), never resolved here;
 # a conflict is marked resolved only when the source documents themselves now carry one value.
 
