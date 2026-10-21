@@ -453,6 +453,28 @@ def command_echo_scan(path):
                     hits.append((q[:50], " ".join(head))); break
     return hits
 
+# SPOKEN-LINE echoes: a whole short spoken sentence (3-6 words) said again, verbatim, in a later chapter —
+# "She does that." moved from one character's mouth to another's. Every word is a stop word, so the n-gram
+# echo scan cannot see it (added after Hour of Ash ch.16). Candidates, hand-judged: "I don't know." is fine.
+def _spoken_sents(path):
+    t=re.sub(r"<!--.*?-->","",Path(path).read_text(),flags=re.S)
+    t="\n".join(l for l in t.split("\n") if not l.startswith("#"))
+    out=set()
+    for q in re.findall(r"[\u201c\"]([^\u201d\"]+)[\u201d\"]",t):
+        for x in re.split(r"(?<=[.?!])\s+",q.strip()):
+            x=re.sub(r"[^a-z' ]","",x.lower()).strip()
+            if 3<=len(x.split())<=6: out.add(x)
+    return out
+def spoken_line_scan(files, n_target):
+    tgt=[f for f in files if int(re.search(r"(\d+)",Path(f).name).group(1))==n_target]
+    if not tgt: return []
+    mine=_spoken_sents(tgt[0]); hits=[]
+    for f in files:
+        ch=int(re.search(r"(\d+)",Path(f).name).group(1))
+        if ch<n_target:
+            for x in sorted(mine & _spoken_sents(f)): hits.append((x,ch))
+    return hits
+
 # PRONOUN-SWAPPED echoes: "She stayed where she was" (ch.5) -> "I stayed where I was" (ch.9) is the same move
 # with the pronouns changed. 5-6-word phrases are compared with subject/object/possessive pronouns folded
 # together, and must carry one content word of 5+ letters (idioms like "could not get" stay out).
@@ -519,6 +541,11 @@ def main():
         for q, head in cands:
             print(f"  \"{q}\"  ->  {head}")
         if not cands: print("  none.")
+        sp = spoken_line_scan(allfiles, a.echoes)
+        print("SPOKEN-LINE echoes (a whole short line said again in a later chapter? judge each; vary a borrowed one):")
+        for x, ch in sp:
+            print(f"  \"{x}\"  (spoken in ch {ch})")
+        if not sp: print("  none.")
         sys.exit(0)
     if a.file and not Path(a.file).exists() and (BOOK_DIR / a.file).exists():
         a.file = str(BOOK_DIR / a.file)
