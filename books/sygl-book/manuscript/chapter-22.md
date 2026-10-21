@@ -1,7 +1,7 @@
 # Chapter Twenty-Two: The Plan
 
 <!-- SCENE BUDGET (Target 3,700): the noise, the battalion, Eric, refuge 450 | the girls meet the priests, Lora and Viridia go, Amelia to the bedroom 300 | the council: Thad's report, two-or-three-for-one 500 | Xavier: the priests, Aleric, the Three Boars, the ride 300 | Bal weighs it; Thad on palms; the inheritance; the priests give in 500 | the walk back: Marcus, the soldiers (reported) 450 | Xavier's Londra briefing 380 | the plan, Lora's "best shot", Viridia, the orders 520 | Amelia: "No", the argument, Lora, "Damn their war" 600 | home to the dorm 100 -->
-<!-- Word count: ~3,550 prose | Target: 3,700 (range 3,300-4,100) | Anchor: Amelia's blank stare and flat "No"; "Damn their war." | Hook: noon and the road; trying to forget what tomorrow would bring -->
+<!-- Word count: ~3,430 prose | Revision: 1 (2026-10-21, eval F1-F16) | Target: 3,700 (range 3,300-4,100) | Anchor: Amelia's blank stare and flat "No"; "Damn their war." | Hook: noon and the road; trying to forget what tomorrow would bring -->
 
 Boots, mostly. That was what filled the place once Bal's ears caught up with where they were. Hundreds of pairs on stone, down in the courtyards and on every flight of the long stairs, everybody bound somewhere in a hurry. Over the boots there was shouting, and over the shouting there was a steady clatter of metal being packed into spaces too small for it.
 
@@ -27,13 +27,13 @@ The man reading names off a list was young for the job. Not much past twenty, if
 
 "As many as we can. Anyone who's willing to join the army, or help out around the camp, gets offered a place here."
 
-Thad's stone had glowed often enough these past weeks with news from those towns, none of it good. A few weeks ago, standing over Fern's map, Bal had said they had nowhere to put anyone. Somebody had found somewhere. Bal liked that.
+Thad's stone had glowed often enough these past weeks with news from those towns, none of it good. Standing over Fern's map, Bal had said they had nowhere to put anyone. Somebody had found somewhere. Bal liked that.
 
 Below them, Eric reached the end of his page, flipped it, and kept going without missing a name.
 
 ---
 
-Xavier stepped out of his own door to check on the noise on the landing, which was how both priests met Lora and Viridia together.
+Xavier stepped out of the priests' door to check on the noise on the landing, which was how both priests met Lora and Viridia together.
 
 "These are Amelia's newest priests," Bal said. "This is Lora Aegis. Viridia Vizer."
 
@@ -53,7 +53,7 @@ Amelia had kept to the doorway of the High Priest's bedroom.
 
 "You don't mind?"
 
-"I'll find something to read. Go and have your war."
+"I'll find something to read. Go have your war."
 
 The door closed behind her.
 
@@ -67,13 +67,9 @@ Up close, both of them looked worn through. Thad's eyes had sunk back in his fac
 
 "We've got a war is what we've got," Thad said.
 
-He squared the papers in front of him and read from the top sheet.
+He read from the top sheet in front of him.
 
-"Raizen's sent out scouting parties. Big ones. Two of them found us. We managed to kill them both before anyone could get word back, but this week's been hard on everybody." He turned a page. "We've put trained blood mages up on the cliffs, a full cohort, in case they get any clever ideas. Casualties were high after both attacks."
-
-He set the paper down.
-
-"We can hold out here a while. But the plain truth is they've got more of everything than we do, and their men are better trained. Ours won't embarrass themselves. They just haven't got the experience Raizen's have. We're doing what we can. We can't do it forever."
+"Raizen's sent out scouting parties. Big ones. Two of them found us. We managed to kill them both before anyone could get word back, but this week's been hard on everybody. We've put trained blood mages up on the cliffs, a full cohort, in case they get any clever ideas. Casualties were high after both attacks. We can hold out here a while. But the plain truth is they've got more of everything than we do, and their men are better trained. Ours won't embarrass themselves. They just don't have the experience Raizen's have. We're doing what we can. We can't do it forever."
 
 Bal drew the papers over and read them himself.
 
@@ -97,8 +93,6 @@ Xavier came around behind his chair and leaned over him to show him the spies' r
 
 ---
 
-Bal pushed the map aside.
-
 The spies were the obvious answer. Fern's people already knew the roads, and nobody looked twice at a man with an empty palm. But if they tried and failed, the army would lose its only eyes inside Raizen's camp, and they would have to fight the rest of the war blind. If they succeeded, though, it would hurt Raizen badly. Possibly enough to end it.
 
 He went around the problem one way and then the other. He was looking for any answer besides the one that had been sitting at the back of his mind since Xavier said *Londra*. There wasn't one.
@@ -115,7 +109,7 @@ Thad scratched at the stubble along his jaw. He had not had time to shave in day
 
 "The problem is that whoever you send would be strangers there. Strangers get looked at."
 
-Bal pictured Viridia's pale blue hair out on the landing, and both priests staring at it.
+Bal thought of Viridia's pale blue hair out on the landing.
 
 "With how people there feel about blood sygls these days," he said, "traveling in the company of an actual Tempus would help with that. Wouldn't it?"
 
@@ -131,17 +125,17 @@ Neither of them liked it. Thad said so outright. Xavier said it more carefully a
 
 Bal heard them out. Iro had found them that afternoon at a lake nobody had planned to visit. Bal would not sit four days' ride away while Raizen's next man found Viridia. She went with him or she didn't go, he told them, and that was the end of it.
 
-Thad started to argue anyway, and thought better of it.
+Thad was going to argue anyway, and thought better of it.
 
 "Then we'd better give you everything we've got," Xavier said.
 
-He was already pulling papers toward him. Thad went to a chest in the corner for more. Between them they started to sort out everything the spies had sent back on Londra and Pashar, and Bal left them to it and went downstairs to find the girls.
+He was already pulling papers toward him. Thad went to a chest in the corner for more. Between them they sorted out everything the spies had sent back on Londra and Pashar, and Bal left them to it and went downstairs to find the girls.
 
 ---
 
 His thigh complained on every step. Lora's potion had closed the cut, and the muscle under it had decided not to forgive him yet.
 
-He found Lora climbing from the lower yard with her hair falling down and her cheeks red. Viridia was not far behind, with Hopper ranging ahead of her through the soldiers' legs. Nobody tried to stop her now.
+He found Lora climbing from the lower yard with her hair falling down and the fight still in her face. Viridia was not far behind, with Hopper ranging ahead of her through the soldiers' legs. Nobody tried to stop her now.
 
 Lora started talking the moment she spotted him and kept it up for most of the climb.
 
@@ -153,7 +147,7 @@ Lora started talking the moment she spotted him and kept it up for most of the c
 
 Viridia had spent her time walking around among the soldiers.
 
-"They wouldn't talk to me at first," she said. "You can see why." She flicked a hand at her own head. "One look and they think Raizen's sent me. So I showed them my palm. And then Hopper came over and lay down by my feet, and after that they couldn't shut up."
+"They wouldn't talk to me at first," she said. "You can see why. One look and they think Raizen's sent me. So I showed them my palm. And then Hopper came over and lay down by my feet, and after that they couldn't shut up."
 
 Her voice changed when she got to the rest of it.
 
@@ -163,27 +157,25 @@ Bal let them talk. He put in a word now and then, but mostly he listened and cli
 
 ---
 
-Thad and Xavier both got up when the girls came in and bowed to them, slightly, from the waist. Lora went pink. Xavier waved them all to the table.
+Thad and Xavier both got up when the girls came in and bowed to them, slightly, from the waist. Lora went pink. Xavier made room for them at the table.
 
 He had a single sheet in front of him now, written front and back. He read from it.
 
-"Londra is a medium-sized city. It sits almost directly south of Pashar. Our spies think that's one reason the priests picked it. It's about central to each of their stations." He ran down to the next line. "The Three Boars is in the northwest of the city. It mostly caters to the upper class. When the priests come into town, they take the whole back half of the inn to do their business."
+"Londra is a medium-sized city. It sits almost directly south of Pashar. Our spies think that's one reason the priests picked it. It's about central to each of their stations. The Three Boars is in the northwest of the city. It mostly caters to the upper class. When the priests come into town, they take the whole back half of the inn to do their business."
 
-Lora had her pencil out. Bal had not seen where it came from.
-
-"The inn gets a delivery of ale every other Wednesday," Xavier went on. "This coming one falls on the day the priests should arrive. That might be something you can use. The innkeeper might be open to a bribe. Our people couldn't tell either way." He turned the sheet over. "The guard in Londra is about what you'd expect for a city that size. They step up the patrols while the priests are visiting."
+"The inn gets a delivery of ale every other Wednesday," Xavier went on. "This coming one falls on the day the priests should arrive. That might be something you can use. The innkeeper might be open to a bribe. Our people couldn't tell either way. The guard in Londra is about what you'd expect for a city that size. They step up the patrols while the priests are visiting."
 
 He put the paper down.
 
 "Any questions?"
 
-Lora was still writing. Viridia had nothing yet. Neither did Bal.
+The girls had none, and neither did Bal.
 
 Every other Wednesday. Who carried in the barrels at a place like that, Bal wondered, and did the drayman get a mug for his trouble? He put it away and laid out the plan.
 
 People were not going to look closely at whoever was traveling with someone so obviously Tempus. Viridia's hair and eyes marked her as one of Raizen's favored, as far as anybody in those lands would be concerned. So she would be a young noble lady, going home to Pashar because the war had made the borderlands too dangerous for her. Lora had been around nobility. She could coach Viridia on the road. And Bal would be the lowly manservant who saw to the horses and kept them all safe.
 
-Did a manservant brush the horses down himself at an inn like that, or did a stable boy do it? He would have to ask Lora.
+He would have to ask Lora whether a manservant brushed the horses down himself at an inn like that, or left it to a stable boy.
 
 "Listen. This is dangerous," he said. "If either of you doesn't want to risk it, I understand. Nobody's going to think less of you."
 
@@ -195,11 +187,7 @@ Lora had pulled the map over in front of her while he talked. She was studying t
 
 She slid her eyes sideways at him. He kept quiet.
 
-"Yeah," she said. "Didn't figure you would."
-
-Her attention returned to the map.
-
-"So that leaves us doing it ourselves. And Amelia can't come. The others would see it as interfering, so she'll have to stay behind."
+"Yeah," she said. "Didn't figure you would. So that leaves us doing it ourselves. And Amelia can't come. The others would see it as interfering, so she'll have to stay behind."
 
 Viridia tipped her chair onto its back legs and stretched her long tan arms up over her head until her shoulders popped.
 
@@ -207,7 +195,7 @@ Viridia tipped her chair onto its back legs and stretched her long tan arms up o
 
 Bal laughed.
 
-"I don't think she'd mind," he said. "She's only waiting for them to give her a reason. You're right, though. She won't be happy. But I think she'll understand. This is the best chance we've got of ending the war quickly. If we miss them at the inn, we'll have to spend time hunting them down separately, and we haven't got that kind of time."
+"I don't think she'd mind," he said. "She's only waiting for them to give her a reason. You're right, though. She won't be happy. But I think she'll understand. This is the best chance we've got of ending the war quickly. If we miss them at the inn, we'll have to spend time hunting them down separately, and we don't have that kind of time."
 
 Bal pushed his chair back and rose.
 
@@ -219,9 +207,9 @@ Then he went next door to tell Amelia that he was about to put himself within Ra
 
 ---
 
-The girls trailed after him, guessing. Viridia bet on shouting. Lora bet Amelia would simply forbid it. They were still arguing about it at the door.
+The girls trailed after him, guessing. Viridia bet on shouting. Lora bet Amelia would simply forbid it. Nobody had won yet when he went in.
 
-Amelia was lying across the bed with the book on her chest. He laid it all out for her, from the beginning: Aleric, the inn, the noble lady and her maid and her manservant, the horses at noon.
+Bal laid it all out for Amelia, from the beginning: Aleric, the inn, the noble lady and her maid and her manservant, the horses at noon.
 
 Amelia heard him to the end in silence.
 
@@ -231,15 +219,15 @@ Her face went perfectly blank. He had known her furious, and he had watched her 
 
 That was all. The one word, flat as a table.
 
-Behind him, perched on the bed's edge, Lora and Viridia burst out giggling. Whatever Bal's face was doing, they were enjoying it very much.
+Behind him, Lora and Viridia burst out giggling. Whatever Bal's face was doing, they were enjoying it very much.
 
 He tried to explain why it had to be him.
 
 "If we don't catch them at the inn, we lose weeks. Maybe months. And every week this goes on, more of those men downstairs..."
 
-"I heard you," Amelia said. "All of it. No."
+"I heard you," Amelia said. "All of it."
 
-She was not having any of it. She was up and pacing, from the window to the washstand and back, with her skirt snapping around her ankles at every turn.
+Amelia was up and pacing, from the window to the washstand and back, with her skirt snapping around her ankles at every turn.
 
 "Then get someone else to do it," she said. "The plan will work just as well whether you're there or not."
 
@@ -247,11 +235,11 @@ Bal sighed.
 
 "Would you want me to send Lora and Viridia with somebody else? Because you know I won't."
 
-Amelia's glance flicked to the girls on the bed, sitting shoulder to shoulder, following the argument. She turned at the washstand and paced back.
+Amelia's glance flicked to the girls on the bed, who were following every word. She turned at the washstand and paced back.
 
-"No," she admitted. She did not sound happy about it. "I don't expect you to do that. But you're my High Priest. Kill you, and there goes the war." She stopped walking. "They're hunting for you even now."
+"No," she admitted. She did not sound happy about it. "I don't expect you to do that. But you're my High Priest. Kill you, and there goes the war. They're hunting for you even now."
 
-He knew it. A sword had been in his leg that afternoon.
+He knew it. Iro's blade had opened his thigh to the muscle.
 
 "Which is another reason it has to be me. They won't expect me anywhere near his territory. Much less heading for the heart of it." He reached for help. "Tell her, Lora. Isn't it a good plan?"
 
@@ -259,7 +247,7 @@ Lora took a second to choose her words.
 
 "I know you'd hate to admit it, but he's right," she said. "Nobody does a thing like this. Nobody would think of it. And with Viridia along, we should be able to get into Londra without too much trouble. The hardest part will be getting out again once the priests are dead. Unless we get extremely lucky and manage it without a huge fight. But all in all, it's our best shot."
 
-No answer came from Amelia. She had halted by the bedpost, arms folded tight, and she looked from Lora to Viridia and then at Bal, and back again, trying to keep all three of them in sight at once. She was not angry anymore. That much was plain. She was afraid, and not only for him.
+No answer came from Amelia. She was by the bedpost now, and she looked from Lora to Viridia and then at Bal, and back again, trying to keep all three of them in sight at once. She was not angry anymore. She was afraid, and not only for him.
 
 She would not stop them. She knew it, and so did he.
 
@@ -273,6 +261,6 @@ Bal chuckled into her hair.
 
 He offered an arm. Lora and Viridia scrambled over and threw themselves around Amelia, one on each side, and the temple and all its boots went out like a lamp.
 
-The dorm was warm and dark and exactly where they had left it. Viridia shrank Hopper with her collar, and Hopper took the hearth rug. Lora unwound his bandages, inspected everything under them, and wound them back on tighter than before. Later there were cards, and Amelia lost at them loudly. She sat closer to Bal than she needed to all evening, her shoulder against his, and nobody remarked on it.
+The dorm was dark and exactly where they had left it. Viridia shrank Hopper with her collar, and Hopper took the hearth rug. They lit the fire. Later there were cards, and Amelia lost at them loudly. She sat closer to Bal than she needed to all evening, her shoulder against his, and nobody remarked on it.
 
-Noon and the road were hours off yet. They lit the fire and played and laughed, trying to forget what tomorrow would bring.
+Noon and the road were hours off yet. They played and laughed, trying to forget what tomorrow would bring.
