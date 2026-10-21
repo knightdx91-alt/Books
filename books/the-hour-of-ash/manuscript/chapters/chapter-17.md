@@ -507,9 +507,9 @@ He was back beside me at once, searching the crowd above us. "Him?"
 
 He stared.
 
-"I have had to since the ladder. There is a latrine." I pointed. "Behind those shops. There was a sign."
+"I have had to since the ladder." I pointed. "There. The cookshop."
 
-There was. Fortuna was painted over the door, with her rudder and her horn of plenty. It was dim inside after the street, and cool, and the talk in it rang off the plaster: on the long seat, already, a fat man in a festival wreath sat elbow to elbow with two of the athletes, discussing the javelin. None of them gave me a glance. I took the nearest place and tried to think of nothing, and the fat man went on explaining the javelin to the athletes. He broke off and called along to me.
+Its counter stood open to the street behind the sausage-man, and the woman at it took my obol before I had said what for and jerked her head at a curtain. Past it was a yard no wider than her counter, with a vine on the wall and, under the vine, a pot with a board across it. On the street side a fat man in a festival wreath was explaining the javelin to two of the athletes over a bowl of chickpeas. I took the board and tried to think of nothing. The fat man broke off and called through the curtain to me.
 
 "Would you say a man throws farther with the wreath on him, or off?"
 
@@ -517,7 +517,7 @@ There was. Fortuna was painted over the door, with her rudder and her horn of pl
 
 "You see," he told the athletes, and went on. I finished, and it took an age, and then it was over.
 
-Valens was at the door with a crown of pine in his fist.
+Valens was at the counter with a crown of pine in his fist.
 
 "For Felix," he said. "He missed the boys."
 
