@@ -33,7 +33,7 @@ That last was to Viridia.
 
 Hopper was asleep across both girls' feet, collar-small, and she went on sleeping.
 
-"Can they do that?" Viridia's voice went high on the last word.
+"Can they do that?" Viridia's voice climbed as she said it.
 
 "As long as your originator doesn't care, yes, they can," Amelia said. "Raizen gave him permission. So that will be something they'll talk to you about tomorrow."
 
