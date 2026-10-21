@@ -278,14 +278,14 @@ chapters are finalized.
 | Spell / effect | Who | Source uses | Used in chapters |
 | --- | --- | --- | --- |
 | "Levimotorcorpus" (levitation) / "Locos cantis" (end it) | Bal | ~1 each | 1 |
-| Blood whip (from the RIGHT palm, which splits open on its own, no knife, and closes after; can be made razor-sharp, spiked, used to grab, lift, throw) | Bal | ~20 mentions | 20 (first: strike, wrist-wrap, fling) |
+| Blood whip (from the RIGHT palm, which splits open on its own, no knife, and closes after; can be made razor-sharp, spiked, used to grab, lift, throw) | Bal | ~20 mentions | 20 (first: strike, wrist-wrap, fling), 21 (neck, lift, close) |
 | "Dart of blood in the eye" (Bal only imagines it; never cast) | Bal | 1 (hypothetical) | 20 |
 | Blood dagger | Bal | ~2 | — |
 | Conversion (palm to palm, his blood sent in) | Bal (High Priest) | conversions + Toma | — |
 | Familiar bond / summon (push magyk into the sygl) | Bal / Amelia | several | 3, 7, 9 |
 | Blood vials thrown in a duel; the chalice of Amelia's blood | Bal | climax | — |
 | Blood soldiers / blood army; the blood elemental | Amelia / Bal | climax | — |
-| Teleport, bats, talking to bats and ravens | Amelia | many | 2, 3, 6, 7, 9, 11, 16 (most-used effect so far) |
+| Teleport, bats, talking to bats and ravens | Amelia | many | 2, 3, 6, 7, 9, 11, 16, 21 (most-used effect so far) |
 | Runes: avoidance, flaming dagger, arrow-repelling, purification | Bal | runes thread | 9 |
 | "Kona Niente" (dirt cloud) / "Czak" (Toma's counter) | Bal / Toma | 1 each | — |
 | Earth ring (shakes the ground; bought in New Spring) | Viridia | bandit fight | 16 |

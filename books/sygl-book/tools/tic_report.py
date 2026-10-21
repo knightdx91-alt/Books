@@ -48,6 +48,8 @@ WORLD_TERMS = [
     "three thousand years",
     # The cast's names in pairs recur by necessity; names are not tics.
     "lora and viridia", "viridia and lora", "amelia and viridia", "lora and amelia",
+    # Place names (inns, halls, towns) recur by necessity.
+    "the three boars", "the winespring inn", "the dawn hall", "new spring", "the heir's school", "saegen woods",
 ]
 # The narrator's professional reflex: the phrases by which THIS book's narrator files everything she
 # sees under her own expertise (a lab, a seminar, a trade). Book-specific; leave empty if none. The gate
