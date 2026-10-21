@@ -260,7 +260,7 @@ All summer my pin had pierced the cloth at one spot on the left shoulder, and th
 
 I put the pin through the eye, and it slid home without catching.
 
-I took my bag and left the storeroom. The top of the court was gray and the bottom still dark, and Kallia was in the lean-to, her back to the court, raking last night's embers forward under the pot. She came out carrying the broom. I stood aside on the paving, and she swept the storeroom step where I had just come over it: quick strokes, outward, the grit off my sandals skittering away past my feet. Two strokes more along the sill. She carried the broom back to the lean-to and hung it from its nail beside the fire, and went to the jar for water.
+I took my bag and left the storeroom. The top of the court was gray and the bottom still dark, and Kallia was in the lean-to, her back to the court, raking last night's embers forward under the pot. She came out carrying the broom. I stood aside on the paving, and she swept the storeroom step where I had just come over it: quick strokes, outward, the grit off my sandals skittering away past my feet. Two strokes more along the sill. She hung the broom back on its nail beside the fire, and went to the jar for water.
 
 The court grew light, and the flame on the sill went from being the brightest thing there to being only one of the things in it. I brought out the Pentax.
 
@@ -370,7 +370,7 @@ I took Myrrhine's stool.
 
 "I walked in front of him for two years and never heard it."
 
-"In the summer a bed fell in under us," I said, "in a herdsman's hut on the mountain. It was the herdsman's own bed, and it broke under us, and we went to the floor with the fleeces on top of us. He laughed then. He could not stop."
+"In the summer a bed fell in under us," I said, "in a herdsman's hut on the mountain. It was the herdsman's own bed, and it put us on the floor with the fleeces on top of us. He laughed then."
 
 A sound broke from Plautia, short, surprised; she glanced at her own lap as though she had dropped it there, and it broke from her again, and that time she let it.
 
@@ -404,15 +404,15 @@ I cupped the dun's jaw, and she gave the whole hot weight of her head to me, gro
 
 "She won't die."
 
-The wind went down with the sun, as it did on that water, and we lay all night off a dark coast, rolling on a long swell with the sail brailed up and the jars knocking. In the small hours I woke on the deck to a scraping and a grunt, and a hoof striking wood, and Valens's voice in the dark, low.
+The wind went down with the sun, as it did on that water, and we lay all night off an unlit coast, rolling on a long swell with the sail brailed up and the jars knocking. In the small hours I woke on the deck to a scraping and a grunt, and a hoof striking wood, and Valens's voice in the dark, low.
 
 "The light."
 
 I felt in the bag for it and thumbed it on.
 
-Down among the jars lay the black. She had folded at last and gone over onto her side, her legs against the rail, and they would not come under her. In the light her eye rolled white, and Valens was in the straw at her head with her halter rope round his fist. It was a poor brown light, browner than in the cave, and it shrank as I held it on them.
+Down among the jars lay the black. She had folded at last and gone over onto her side, her legs against the rail, and they would not come under her. In the light her eye showed white, and Valens was in the straw at her head with her halter rope round his fist. It was a poor brown light, browner than in the cave, and it shrank as I held it on them.
 
-"What's that?" Felix had raised himself on an elbow on the coil of rope he slept on. "What is it? Where's the flame? Why doesn't it smoke? Is it hers? Can I hold it?"
+Felix had raised himself on an elbow on the coil of rope he slept on. "Where's the flame? Why doesn't it smoke? Is it hers? Can I hold it?"
 
 "Get round her quarters," Valens said. "Don't push. Take the tail when I say, and pull her toward you."
 
@@ -426,7 +426,7 @@ Felix wriggled in behind her. Valens worked a sack in under her shoulder and tol
 
 "Shut your eyes," said Valens.
 
-Valens stayed by the black, and presently he spoke across her.
+Presently, from beside the black, he spoke across her.
 
 "How much is left in it?"
 
@@ -438,7 +438,7 @@ Valens stayed by the black, and presently he spoke across her.
 
 "I did." I heard him settle into the straw between the black and the jars, where she could not go over again without going over onto him.
 
-When the gray came, the coast was there, and the line of Lechaion's moles, and over all of it, rising from the flat land behind the town, the great rock of the citadel with a wall running along its crest. Felix was at the rail with his hands wrapped round each other.
+When the gray came, the coast was there, and the line of Lechaion's moles, and over all of it, rising behind the town, the great rock of the citadel with a wall running along its crest. Felix was at the rail with his hands wrapped round each other.
 
 "What's on the top of it?"
 
@@ -452,7 +452,7 @@ When the gray came, the coast was there, and the line of Lechaion's moles, and o
 
 "East of the harbor," said Valens. "Along there."
 
-Felix stared that way for some time.
+Felix stared that way.
 
 "I'd sooner not look at it," he said, and sat on the deck with his back to the rail.
 

@@ -349,7 +349,7 @@ This dispatch writes only `voice-dna.md` and `character-bible.md`.
   in `style_check.py` were updated to the planned uses in §4 below.
 - `tools/tic_report.py` WORLD_TERMS: add the proper place-names the story cannot avoid, because the
   tic gate scans 3-grams: **"nuceria gate", "corycian cave", "castalian spring", "sacred way",
-  "polygonal wall", "via dell'abbondanza", "basilica julia", "flavian amphitheatre", "isthmian games",
+  "polygonal wall", "via dell'abbondanza", "basilica julia", "flavian amphitheatre",
   "temple of isis", "herculaneum gate", "sarno mouth"**. Proper nouns only. Object phrases ("father's
   watch," "painted door") are **not** world terms; they get varied.
 - `STATE.yaml` `character_bible:` should be updated to `created: true`, with the entry count and
