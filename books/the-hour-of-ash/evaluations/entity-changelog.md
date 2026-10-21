@@ -2753,3 +2753,46 @@ Open contradictions: 33 → 37.
   - No cite is above p186.
 - **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 282 characters, 90 locations, 121 objects, 20 organizations, 62 plot threads, 106 world rules, 198 timeline_events, 141 contradiction rows (48 open).
+
+## 2026-10-21: RE-SYNC (chapter 19, "Puteoli", FINAL page)
+
+- **Page read:** chapter-19.md at 9c5f9e8, md5 41dedf4d0160019238d30feef12fb042. Since the UPDATE (7c56d74, on the c98aaa0 page), three passes landed: the continuity repair (926f515, audit W-01..W-14; W-15 deferred to the bible), polish cycle 1 (1344b91, 27 swaps) and finalize F1-F5 (9c5f9e8). The diff was taken from 7c56d74 to HEAD.
+- **Numbering:** still 186 paragraphs, with breaks after p24, p63, p95 and p127. Nothing was merged or split, so **no ch-19:pYY is renumbered**. A fifth HTML comment line moved the file lines down by one: file line 11 = p1, and the per-section formulas are in `paragraph_rule`. The audit cites the c98aaa0 file; the eval's re-evaluation and finalize sections cite the final file (its l.43 = p17). Text changed inside 44 paragraphs (listed in `revalidation_needed`).
+- **Method:** every YAML line was scanned by script for wording that was on the c98aaa0 page but is not on the final page (quoted fragments, plus 4-, 3- and 2-gram scans). Every hit was corrected or kept only as labelled superseded text (`c98aaa0:` / `was` / `prose_was` / `method_was` / `description_was`). Every quote added in this run was checked against the final page.
+- **The orchestrator's known changes, as they stand on the page:**
+  - **Pacuvia is named:** "The master's girl, Pacuvia," (p2), "Pacuvia found me" (p4), "Pacuvia went down our plank first" (p27). `characters.pacuvius-daughter` is **renamed `pacuvia`**, keeping `former_slug`, new aliases and a `named_ch19` row. All 8 slug references were moved (relationships, a told_by method, three knowledge_index rows). The slugs `pacuvius-daughters-brooch` and `pacuvius-daughters-husband-and-his-mother` are kept.
+  - **"by mid-afternoon"** (p63), was "by noon" (W-02). Corrected in timeline row 19, `locations.pompeii` distances (now "an afternoon and a day") and CH19-5.
+  - **"the Locrians to the right"** (p2), was "Phocis" (W-03). The UPDATE had not recorded Felix's line, so it is now a new `locations.gulf-of-corinth` fact. The narration still has "the mountains of Phocis on the other" for the gulf itself.
+  - **Three gates:** "Seven or eight. Three have tombs worth the walk." / "The third?" / "The Nuceria Gate. Tomorrow." (p154-p157), was "Only two" / "And the other?" (W-04). Corrected in `locations.pompeii`.
+  - **Grata heard, did not see:** "I heard about you at that wall yesterday … half that street saw you" (p134), W-05. Her knowledge row's method changed from `witnessed` to unnamed street gossip; `method_was` is kept.
+  - **The bar leans beside the door:** "lay looking at the bar leaning beside it" (p128), W-06. Corrected in `objects.back-room-barred-door`. Also "lifted it clear, opened it, and closed it once more" (p125, eval L2).
+  - **The fig jar is at Felix's feet:** "The fig was on the stones at Felix's feet, jar and all." (p36), W-07. Corrected in CH16-9 recheck_ch19, Felix's location row and the fig's beats_ch19.
+  - **The noseband** is cut "out of the one long strip the nephew had missed" (p145), W-08. Corrected in Valens's trait.
+  - **Grata's line:** "it's been carts and dust since the earth went" (p108), W-10/W-11. She now gives no count; only Mara's "ten years ago" (p82, echoed by Valens, p83) carries C8. Corrected in timeline row 19, `locations.pompeii` and the checks.
+  - **Pacuvia's recovery:** the page reads "sick for every mile of the Straits and well again by daylight" (p2, eval L1). **Rhegium is no longer on the page in any form.** The route now reads in order: gulf, narrows, islands, open sea, Italy on the sixth morning, round the toe, the Straits, then well again by daylight. "the Straits; Rhegium" was removed from timeline row 19, timeline_events and the crossing check. (The brief's "well again after Rhegium" does not match the page; this file follows the page.)
+- **Also corrected to the page:**
+  - **Mara:** the comprehension trait now shows 2 reports: "of which I caught perhaps half" (p27) and the baker lost (p131). Cut: "lost my hold…", "slowly enough for me to have all of it" and "I understood every word". At Neapolis she "stood under her balcony for the rest of it".
+  - **Mara and the camera:** she draws it with no opener (both "Alone at the rail," and "Left to myself," are cut). "Seventy-nine. It came unasked," (W-09).
+  - **The door:** "It was warm, with the whole day's sun in it." The car simile, "no business to be cool", the tomb shadows and "the door stayed cool" are cut; it is now "the door was cool." (p168; p169; p178).
+  - **Grata:** "She caught a pinch of my sleeve and talked on holding it" (W-14) and "touched him on the arm" (no "too"). The description of her Latin is cut (W-01). "Sit there. I kept you a bowl." The whitewash is now "new whitewash", with no size given (`description_was` kept).
+  - **The mother-in-law:** "Those on your father's deck, who are they?". Pacuvia wears "the brooch at her throat" (the brooch's resolution is corrected); "her good blue" now appears at dawn (p4) only.
+  - **The clerk:** reads the leaf "one board and then the other". This is corrected in 6 places: the clerk, Valens, the leaf, the-papers payoff, the checks and knowledge_index.
+  - **Puteoli:** the priest is arguing "about it", with no languages. The fleet passes on still water ("with no wind to help her" is cut).
+  - **Felix:** W-13 turns two runs of questions into boasts ("Give me one. I've the steadiest hand on this road."; "I'd put him down for you.") and one into a statement ("You could drop a house in it and never see the roof.").
+- **Audit patches** (chapter-19-audit.md SUGGESTED YAML PATCHES):
+  - Applied:
+    - timeline day mapping: marriage days 12-15 = landing DAY 1-4, with W-02;
+    - `door_location`: the knuckle tap ("the same dull note, with rubble behind both");
+    - `microcassette.location_end_ch19`;
+    - CH18-5 `recheck_ch19`: Pacuvius's oath, "Valens. Gaius Iulius." in the wax, "You're Greek"; it settles nothing.
+  - Already present, so not duplicated:
+    - the new locations, under the UPDATE's slugs: puteoli / puteoli-wine-shop, neapolis-tunnel (the audit's crypta-neapolitana), neapolis-shore-inn, gratas-thermopolium, cobblers-shop, stabian-gate (the inn is a fact there), nuceria-gate-tomb;
+    - the pen-knife; the leaf; the camera's no-frame row; Grata's first-appearance rows.
+- **Eval handoff cascades:** all were present except the unhung shutter boards. "our boards still leaned against the inside wall because nobody had thought to put them up" (p186) is added to `locations.cobblers-shop`.
+- **Contradictions:**
+  - **CH19-8 NEW (low):** the bible's Ch.19 blocks quote the writer's draft (W-15; the eval's re-sync list). Examples: l.2073 "I saw you at that wall", l.3006 "well again by Rhegium", l.5121 "Only two have tombs". The daughter is unnamed there and needs a card. It resolves when the bible is synced.
+  - **CH19-5 rechecked** (mid-afternoon; still info). CH16-9 and CH18-5 were rechecked and stay open. CH19-1, -2, -3, -4, -6 and -7: their quotes are unchanged on the final page, and they stay open.
+  - **Resolved:** none. **CRITICAL:** none. **Open count:** 48 → 49.
+- **meta:** header note, `last_updated_by`, `mode`, `source`, `paragraph_rule` (Ch.19 re-sync), `revalidation_needed` (chapter 19, RESOLVED), and the `ch19_requested_checks` rows corrected (each marked RE-SYNC), plus a re-sync row.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 282 characters, 90 locations, 121 objects, 20 organizations, 62 plot threads, 106 world rules, 198 timeline_events, 142 contradiction rows (49 open).
