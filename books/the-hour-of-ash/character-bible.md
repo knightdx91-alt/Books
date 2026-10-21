@@ -471,6 +471,43 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   sentence; the botch; the bladder; "I lowered myself onto the step"; "the paving was hot underfoot, even through my sandals"; "A
   stitch came, and I ran through it."; "Behind the cart the road to the city gate was empty."; "half bald"; "sticky with it"; "Are they
   known to you?"; "Should I have refused it?"; "I write for the lady."
+- **Ch.18 as written (Writer, 2026-10-21; "Lechaion", Single-scene, under an hour on the quay, the same early afternoon as Ch.17's run.
+  Block added at the finalize sync: SYNCED to the FINAL page 2026-10-21 (md5 `dbd5ac50…`): dialogue-polish, disruptor, continuity repair
+  W-01…W-13, polish cycle 1 (C1–C4, R1–R13, D1–D4), finalize F1–F3; every quote below is on the page, checked by script):** **Opens on
+  an I-statement in the moment, not on the run:** "I reached the quay from the garden road with the taste of blood in my mouth from
+  running". **Lines (five; uncontracted in both tongues, continuity W-08):** "I am a free woman," … "I am registered at Delphi, as a
+  kinswoman of the house of—" (cut off by the master; the chapter's one em-dash) / **"Yes. Will you?"** (her four of the ten words, no
+  beat between them) / "We are all of us watching the yard," (to Felix crying) / "We were the only two people leaving," (dry, to Felix's
+  questions about the race) / "Ask her," (the tunic). **Two speeds:** she follows the master's plain sentences, Valens, and Felix's
+  Greek, and loses the master's fastest stretch: "The rest of it outran me." (the speech outrunning her: once). **Body (voice under
+  pressure, level 1):** the taste of blood; "My hem was still hitched up in my hand."; "The run was in my legs and my ears were full of
+  my own blood."; "I found breath enough for Latin, barely." (breath, not a description of her Latin, which stays CLOSED). The voice
+  breaking on the Yes is cut (continuity W-07: voice failing is a retired channel; the next mapped body break is Ch.20's weeping).
+  Weather on her body in the opening paragraph: "a wind straight in off the water flattened my dress against my legs" (after Ch.17's
+  breeze on her neck; Ch.19 gets none). **Hands act and never rebel** (resting until Ch.20): she wipes the crystal, gives the crown its
+  turns, catches Felix's crown, carries the jar. Seat resting. **Memory (one sentence, triggered and returned):** the daughter's
+  cucumber → "My mother had cut that end off every cucumber she ever bought and rubbed the two cut faces together at the sink until a
+  white froth came up between them, and rinsed it off under the tap, and then she had eaten the end herself, standing, with salt." The
+  next paragraph is the proposal. **The watch (the anchor; nothing said by either of them):** "The case was warm from him." / "There was
+  flour packed in the links of the band and a bloom of it on the crystal over the small nick by the two, and I wiped it clean with my
+  thumb." / "Beneath, the finest of the three hands swept on, small and steady, the only thing moving on that quay that nobody was
+  shouting at." / "I put my nail to the crown to give it its turns, and it took two and stood hard." / "The hands were at twenty to one,
+  and beside my foot the mooring post laid a short shadow on the stone, tipped a little east." She never says or thinks that he set it
+  or kept it wound. **The wrist:** "I opened the clasp and put the steel about my left wrist, and it came down against Plautia's gold."
+  / "Gold that soft took a scratch from anything, and it had a child's teeth in it already." (the distortion: her eye goes to protecting
+  the bracelet at the moment she gets her father's watch back; the teeth are Marcus's marks, not a pregnancy thought, CP3-3) / "I took
+  the watch off again and held my right arm out to Valens instead." **The watch is on her RIGHT wrist; Plautia's bracelet stays on her
+  LEFT.** The ugly sentence: "The watch sat on the wrong wrist and ticked." **Acts:** "I caught it before it reached the slot of water
+  by the hull." / "I put the crown back on him." / "The fig was all that was left on the quay, in its jar by the ring, and me." / "the
+  little tree shook all its leaves between us" / up the plank "with the plank bouncing under the weight of us both and the jar kept
+  level." **Chaos, 3 of 4, inhabited:** the irrelevant thought and the triggered memory in one (the cucumber, at her own wedding, no
+  gloss); the distortion (the bracelet); failed management not on her (it goes to Felix's crying, and her Latin fails instead). The pine
+  needles she saw in his forearm hair at the proposal are cut (F1). **Objects:** the watch (right wrist), Plautia's bracelet (left
+  wrist); the pen-knife is not on this page. Credential asides 0 (gate); teeth surfacing 0 (the child's teeth are the bracelet's marks);
+  laughs 0; English 0; AD 79 0; no reach forward. **Spent in Ch.18:** "Yes. Will you?"; "I found breath enough for Latin, barely."; "The
+  rest of it outran me."; "We are all of us watching the yard,"; "We were the only two people leaving,"; "Ask her,"; the cucumber
+  memory; the watch stretch (warm, floury, wiped, the seconds hand, two turns, twenty to one by a post's shadow); the left-wrist trial;
+  "The watch sat on the wrong wrist and ticked."; "I put the crown back on him."; the fig "and me".
 - **DISTINCTNESS GUARANTEE:** the only voice in the book that sees how a thing was made and where it was
   mended, against Valens, who sees where a thing or a man will move next.
 - **Sample line:** "Somebody's glued this before, look, there's an old line under the new one, and
@@ -1008,21 +1045,34 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   lead mules."; the three dead witnesses (named once; never listed again); "I saw where his feet stopped."; the pine crown bought
   mid-escape; "Asking him how."
 
-- **Ch.18 as written (Writer, 2026-10-21; the Lechaion quay, the same early afternoon; first draft):** arrives with "the pine crown
-  mashed in his grip", gets his wind "in long hauls through the nose" with a hand flat on the ship's side. **Lines:** "Where's the
-  freedman?" / "Valens." … "A freedman from the city paid you." (he does not name Plautia's house to a stranger) / "I'll pay the fare
-  again," … "Twice over." / "You were told wife," / "Is there another ship for Italy?" / "Nobody's coming after her." / **the
-  consent, six words: "Will you be my wife, Mara?"**; to her "Will you?": **"Yes,"** (a bare Yes; bare "No." 0 this chapter) /
-  "Keep off her heels," (too late) / "The boy's," (who pays for the sprats; his one dry line) / "Cover her eyes, Felix. Her eyes." /
-  "Tread on the cleats," … "It gives in the middle." (footing, on the plank with the fig jar). **Never says "My wife" to the master**
-  (the gatekeeper line is CLOSED after Ch.16). **The watch:** "By then Valens had the thong of his pouch undone. He took out the watch
-  and laid it in my hand." No word about it. It is wound full and set near the sun (twenty to one by a shadow "shorter than my
-  sandal"); the page never says he set it or kept it wound. He closes the clasp on her RIGHT wrist ("his thumb was too broad for the
-  catch, so he found its lip with the edge of his nail and pressed"); "His fingers smelled of bread". "He was watching the dun." while
-  she reads it. Gives Felix the crown with no speech ("Valens held out the crown."). Catches the black. **Rules kept:** no comparison
-  in his speech; narrated non-answers 0; no walk-off; no fig opinion (the fig is carried, not discussed). **Spent in Ch.18:** the
-  wedding consent and the bare "Yes,"; the watch handed back (the next winding, Ch.24, is shown in fresh words and is not a handing);
-  closing the clasp for her; "Tread on the cleats"; "The boy's,"; the floury watch.
+- **Ch.18 as written (Writer, 2026-10-21; the Lechaion quay, the same early afternoon. SYNCED to the FINAL page 2026-10-21 (md5
+  `dbd5ac50…`): dialogue-polish, disruptor, continuity repair W-01…W-13, polish cycle 1 (C1–C4, R1–R13, D1–D4), finalize F1–F3; every
+  quote below is on the page, checked by script):** arrives with "the pine crown mashed in his grip", puts "his free hand flat against
+  the ship's side" and gets "his wind back in long hauls through the nose" (his one breath beat; the draft's second breath, mid-line, is
+  cut). **Lines:** "Where's the freedman?" / "Valens. A freedman from the city paid you." (one line, one breath; he does not name
+  Plautia's house to a stranger) / "I'll pay the fare again," (the offer stands alone; its doubling tail is cut, continuity W-13) / "You
+  were told wife," / "Is there another ship for Italy?" / "Nobody's coming after her." (his one nobody; the master's "Then she's
+  nobody's, which is worse." turns it). **The proposal, staged bare:** "Valens faced me with flour dried white in the hair of his
+  forearms and the crown hanging from his hand." (no look, no comparison, nothing on his arms but the flour: F1). **The consent, six
+  words: "Will you be my wife, Mara?"**; to her "Yes. Will you?": **"Yes," said Valens** (a bare Yes; bare-No answers 0 this chapter).
+  **The warning, then the turn:** "Keep off her heels," Valens called, and the sailor turned to answer him. (the kick's cause is on the
+  page, uncommented) / "The boy's," (who pays for the sprats; his one dry line) / "Valens had gone after the black." (F2) before "Cover
+  her eyes, Felix. Her eyes." / "Tread on the cleats," … "It gives in the middle." (footing, on the plank with the fig jar). **He never
+  names Mara as his wife to the master** (the gatekeeper line is CLOSED after Ch.16); the master talks past Mara to him ("He spoke to
+  Valens."; "To Valens he said"). **The watch:** "By then Valens had the thong of his pouch undone. He took out the watch and laid it in
+  my hand." No word about it. It is warm from him, floury, running, wound (the crown "took two and stood hard") and near the sun: "The
+  hands were at twenty to one, and beside my foot the mooring post laid a short shadow on the stone, tipped a little east." The page
+  never says he set it or kept it wound; the Ch.11 fast-reading recall is cut and stays cut. While she reads it: "Valens was minding the
+  dun." (C2: upkeep of his animal, not a look-away). He closes the clasp on her RIGHT wrist: "He closed the clasp for me, and his thumb
+  was too broad for the catch, so he found its lip with the edge of his nail and pressed. His fingers smelled of bread, and once the
+  catch was home he released my wrist." (the catch has no sound). Gives Felix the crown with no speech ("Valens held out the crown.").
+  Fetches the black: "Valens brought the black back with a sprat scale stuck to her nose and her flanks dark with sweat". Comes back for
+  the fig: "Valens was on the plank again, coming for it, and took the jar's rim on his side". **Rules kept:** no comparison in his
+  speech; narrated non-answers 0; no walk-off; no fig opinion (the fig is carried, not discussed); the short narration line
+  Valens-was-minding once (the black is "had gone after", F2). **Spent in Ch.18:** the wedding consent and the bare "Yes,"; the proposal
+  with the crown in his hand; the watch handed back (the next winding, Ch.24, is shown in fresh words and is not a handing); closing the
+  clasp for her; "Tread on the cleats"; "The boy's,"; "I'll pay the fare again,"; the floury watch; the warning, then the turn;
+  **minding (or looking away from) an object hand-off: CLOSED at 2 (Ch.13, Ch.18).**
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -1630,21 +1680,33 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   missed the boys."), "half bald" by the first gardens. He is on the quay with the string when Ch.18 opens; he knows the ship ("the one
   with the goose carved on her stern"). He has still not heard who won the boys' race.
 
-- **Ch.18 (Writer, 2026-10-21; the Lechaion quay; first draft):** on the end of the gangplank "astride, with his heels hooked under
-  the wood and a fist clamped on each edge", holding it down while three sailors haul. **Stacked questions:** "He won't take us! …
-  Where've you been? Did you get it? Why are your arms white?" / "Gone back up for the men's race. … Are you along? Only you two?
-  Where's the lady with the litter?" / his truth to the sailors and his grievance: "I said she wasn't married." … "Nobody ever told me
-  she was. Who married her? When was it? Wouldn't I have been there?" / "I asked them all," … "Nobody's going over but him." / "Here?"
-  … "On the stones? Who's to carry the torches, then? Who throws the nuts? You can't be married with nobody throwing nuts at you; they
-  threw them at a bride at Kirrha till she hid behind her mother." **Cries at the wedding** ("crying open-mouthed, as a far younger boy
-  cries, out loud and without stopping"): "It's the sun," … "I've been sat in it since sunup. Don't look at me. Nobody look." Takes the
-  crown and "cried underneath it": "From the boys? Were you there when they came in? Which one had it?" (unanswered: "Nobody passed us
-  with the news,"). To the dun: "Up, you. You went on a boat before. You went on the boat at Kirrha and you hated it and you never died
-  of it. Who ever died of a plank?" / "Mine? With what?" … "With a crown that's got no leaves on it?" Strips his tunic to blindfold the
-  dun and leads her up "by the knotted sleeves", in his loincloth "with every rib showing"; Mara puts the crown back on him. From the
-  rail, "bare-shouldered and crowned": "Do I get my tunic back," … "or is she wearing it to Italy?" **No palm scratched** (reserved for
-  Ch.21, 28). **Spent in Ch.18:** sitting on the plank; the nuts and torches; crying at the wedding; "It's the sun"; the tunic
-  blindfold; "Who ever died of a plank?"; the crown worn crying. Who won the boys' race stays unknown.
+- **Ch.18 (Writer, 2026-10-21; the Lechaion quay. SYNCED to the FINAL page 2026-10-21 (md5 `dbd5ac50…`): dialogue-polish, disruptor,
+  continuity repair W-01…W-13, polish cycle 1 (C1–C4, R1–R13, D1–D4), finalize F1–F3; every quote below is on the page, checked by
+  script):** on the end of the gangplank "astride, with his heels hooked under the wood and a fist clamped on each edge", holding it
+  down while "Three sailors on the deck" haul at the upper end. **Stacked questions** (Is-it and Is-that openers 0): "He won't take us!
+  He's had them pulling at this since the shadow was over by that post, and I told him you'd come, I told him you'd come running and
+  you'd tell him yourself, and he says it's not the fare and it's not the mules. Where've you been? Why are your arms white?" (he asks
+  after nothing he was never told: the errand question is cut, continuity W-01) / "Gone back up for the men's race. He paid, and he said
+  you'd be along, and he went. Are you along? Only you two? Where's the lady with the litter?" / his truth to the sailors and his
+  grievance: "I said she wasn't married." … "That's all I said. They asked was she, and she isn't, or if she is, it's news to me. Who
+  married her? When was it? Wouldn't I have been there?" / "I asked them all," … "All morning, each of them along the mole, while you
+  were up there. Not one of them's going over but him." / "Here?" … "On the stones? With no torches? Who throws the nuts? You can't be
+  married without nuts; they threw them at a bride at Kirrha till she hid behind her mother." **Cries at the wedding** ("crying
+  open-mouthed, like a boy half his age, out loud and without stopping"; "he scrubbed at them with the heel of his hand and they came
+  faster"): **"It's the nuts," … "There should have been nuts. Don't look at me."** (C1: the excuse is his own grievance from the nuts
+  line, with no irritant; Mara answers "We are all of us watching the yard,"). Takes the crown and "cried underneath it" (no look at it,
+  no re-description): "From the boys? Were you there when they came in? Which one had it?" (unanswered; Mara: "We were the only two
+  people leaving,"). Brings the dun to the plank "with the crown sliding sideways and his face still wet": "Best plank in Lechaion,
+  that." (untagged, C3; his boast). To the dun: "On, you," … "You went on a boat before. You went on the boat at Kirrha and you hated it
+  and you never died of it. Who ever died of a plank?" (not Valens's Ch.16 mule command: continuity W-11) / "He hauled. She leaned." /
+  "Mine? With what?" … "With a crown that's got no leaves on it?" (said "still hauling"; the last word on the crown's bareness). "Felix
+  peeled off his tunic." (F3); the crown comes off with it and Mara catches it; he "threw the tunic over the dun's face and knotted its
+  sleeves beneath her head", stands "in his loincloth with every rib showing", and leads her up "by the knotted sleeves"; Mara puts the
+  crown back on him. From the rail, "bare-shouldered and crowned": "Do I get my tunic back," … "or is she wearing it to Italy?" **No
+  palm scratched** (reserved for Ch.21, 28). **Spent in Ch.18:** sitting on the plank; the nuts and torches (nuts thrown at a bride:
+  SPENT as a topic); crying at the wedding; "It's the nuts," / "There should have been nuts."; "Best plank in Lechaion, that."; "like a
+  boy half his age" (once); the tunic blindfold; "Who ever died of a plank?"; the crown worn crying. Who won the boys' race stays
+  unknown.
 
 #### PLAUTIA — Celer's divorced wife; b. c. AD 44, married to Celer in the autumn of AD 63 at nineteen; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
@@ -2817,23 +2879,33 @@ quotes checked by script.)*
   a trainer); the household's freedman (takes Felix and the mules to Lechaion); the ship "with the goose carved on her stern".
 
 #### Ch.18 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
-*(Writer, 2026-10-21; first draft. Every quote below is on the page.)*
-- **The plank sailor (the witness):** "a gray man with tar to the elbows", "his forearms folded on the rail to hear it"; "Is that all of
-  it?" … "Is that them married? Then get your mules up, by Castor, the yard's nearly there. Pacuvius, they're done."; his own day: a
-  bet on the boys' race, "I'd money on the small Sicyonian," (told to the harbor; nobody learns who won); goes down the plank with a
-  rope's end, is kicked over by the dun into a coil of cable: "I stood witness for you," … "I stood up and witnessed for you, and
-  that's your mule." Spent: all of it. If he returns on the crossing (Ch.19), something else.
-- **The master's daughter:** "a girl in a blue hood", eating a cucumber from the end at the rail amidships; married at the Kalends to a
-  man at Puteoli she has never seen, going to his mother's house; one line: "Father," … "was mine like that?" (answered "Yours had a
-  cake,"); "the girl considered that and dropped the bitter end over the rail into the harbor." Unnamed. No second wedding question
-  from anyone.
-- **The deck and the water:** three sailors hauling the plank; four men round the mast hoisting the yard (one laughs); six rowers in
-  a tow boat off the bow, eating, then standing to cheer the kicked sailor; somebody on the mole lifting the stern rope off its post.
-  **The quay:** a barrel-hoop hammerer across the basin ("two blows and a rest"); a fish-seller whose sprats the black scatters ("Who's
-  paying for those?" … "Whose is the black?"; he throws a sprat and hits a dog).
-- **Mention only:** the household's freedman (paid the master at sunrise, "away to the races"); the daughter's husband and his mother at
-  Puteoli; the runaway wife the master once carried and her husband's brothers at Ostia; the marble ship sailing at the Ides; a bride at
-  Kirrha pelted with nuts (Felix); Mara's mother and the cucumber end at the sink (memory, two sentences).
+*(Writer, 2026-10-21. SYNCED to the FINAL page 2026-10-21 (md5 `dbd5ac50…`): dialogue-polish, disruptor, continuity repair W-01…W-13, polish cycle 1 (C1–C4, R1–R13, D1–D4), finalize F1–F3. Every quote below is on the page, checked by script.)*
+- **The plank sailor (the witness):** "a gray man stained with tar" (R7), later "the tar-handed sailor" and "the sailor at the head of
+  the plank"; "his forearms folded on the rail to hear it". To the mast hand who laughs: "Haul now, and laugh at Puteoli," (and "that
+  put an end to it"). The witnessing: "Is that all of it?" … "Is that them married? Then get your mules up, by Pollux, the yard's nearly
+  there. Pacuvius, they're done." (by Pollux, the men's oath: continuity W-04). His own day: a bet on the boys' race, "I'd money on the
+  small Sicyonian," (told to the harbor; nobody learns who won). At the dun: "Hold her head, boy, and I'll warm her up behind," and "he
+  edged past Felix with a rope's end"; he turns to answer Valens's warning, is kicked "over backward across a coil of cable and landed
+  seated in it": "I stood witness for you," the sailor said. "I stood up and witnessed for you, and that's your mule." Spent: all of it.
+  His two stacked questions sit close to Felix's syntax: once. If he returns on the crossing (Ch.19), something else.
+- **The master's daughter:** "a girl in a blue hood was eating a cucumber from the end, and watching us over it" at the rail amidships;
+  later "had eaten through to the last of her cucumber, the bitter knob at the stalk"; married at the Kalends to a man at Puteoli she
+  has never seen, going to his mother's house. Labelled once (D2): "The master's daughter had taken the cucumber out of her mouth." One
+  line, as "she called along the deck": "Father," … "was mine like that?" (answered "Yours had a cake,"); "the girl considered that and
+  dropped the bitter end over the rail into the harbor." Unnamed. No second wedding question from anyone.
+- **The deck and the water:** "Three sailors on the deck" hauling at the plank; "The men round the mast" hoisting the yard (no count on
+  the page; "One of the men at the mast laughed."), then "making it fast to a pin"; "a rowing boat" off the bow with "a slack line
+  running from its stern to the ship, and the rowers were eating"; they get to their feet and cheer the kicked sailor ("Give him
+  another!" one of them shouted.); the boat does not rock. "On the mole somebody was lifting the stern rope off its post." **The quay:**
+  across the basin "a man sat in a beached boat mending a net and whistling, as if the afternoon were his to spend" (R1; the chapter's
+  one "as if"; no hammer on this page); a fish-seller whose baskets the black's rope goes through ("sprats skated over the stone in a
+  bright spill"): "Who's paying for those?" … "That black's yours, is she?" (no whose-question; Valens: "The boy's,"); "the fish-seller
+  threw one after her" (no dog).
+- **Mention only:** the household's freedman (paid the master at sunrise, then "away to the races"; Felix: "Gone back up for the men's
+  race."); "the lady with the litter" (Felix, of Plautia); the daughter's husband and his mother at Puteoli; "the magistrate's people at
+  Puteoli"; the runaway wife the master once carried and her husband's brothers at Ostia; the marble ship sailing at the Ides; "a bride
+  at Kirrha" pelted with nuts (Felix); "the small Sicyonian" (the sailor's runner); Mara's mother and the cucumber end at the sink
+  (memory, one sentence, now ending "and rinsed it off under the tap", R12).
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -3438,8 +3510,9 @@ quotes checked by script.)*
   mother-in-law at Puteoli and the magistrate's people on the Puteoli quay; the fare is beside the point ("It isn't the fare.").
   Weather and the yard are his clock. He once carried a runaway wife and had her husband's brothers aboard at Ostia with cudgels, in
   front of his six-year-old girl, and he will not have it again.
-- **Vocabulary band:** quick, hard harbor Latin "with the ends of the words knocked off" (Mara's one description of it; never again);
-  ship and trade nouns (plank, yard, mole, fare, marble, the Ides); no oaths on the page.
+- **Vocabulary band:** "quick and hard, a harbor Latin stuffed with sailors' Greek, and he stayed at the rail to use it on us" (R10;
+  Mara's one description of it; never again); ship and trade nouns (plank, yard, mole, fare, marble, the Kalends, the Ides); no oaths on
+  the page (the oath is the plank sailor's).
 - **Syntax fingerprint:** delivers his conditions as long practical run-ons that stack the consequences ("and I'm taking her … and his
   mother will have …"), then a short flat verdict ("Then she's nobody's, which is worse."). He answers an argument by restating the
   terms. He states the law of marriage as a shipmaster states a harbor rule: no priest, no cake, two others to hear it.
@@ -3447,28 +3520,37 @@ quotes checked by script.)*
 - **Evasion — never says:** that he would be sorry to leave them on the quay; anything warm to Valens or Mara; his daughter's name.
 - **Physicality / silence:** one sandal; the other foot bare and very white, held clear of the boards and later set down "with care";
   the lost sandal is his own bad day (he asks the quay to watch the water for it). Stands at the stern rail under the goose's neck and
-  never comes down the plank. "spread his hands" once.
+  never comes down the plank. "spread his hands" once; "squinted past the mole"; "scowled up at the yard"; reads Valens "with no
+  great liking for the flour on him"; answers Mara by talking to Valens ("He spoke to Valens."; "To Valens he said").
 - **Verbal tic:** none — distinguished by attention (respectability at the far port) and syntax (consequence run-ons, then a verdict)
 - **Bleed guard:** never Mara's materials eye; never Valens's footing talk; never Celer's warmth; no counting or tallying device (his
   booking is said once as a booking, then varied: "a muleteer and a wife and a boy" / "A husband with his wife and their lad" / "A
   muleteer, then, with a wife and a boy").
 - **Chaos on the page:** the lost sandal ("And if any of you sees a sandal floating past the mole, it's mine."). Spent; never again.
 - **DISTINCTNESS GUARANTEE:** the only man in the book who marries two people to satisfy a woman neither of them will ever meet.
-- **Ch.18 as written (Writer, 2026-10-21):** named once, by the plank sailor ("Pacuvius, they're done."); "the master" in narration.
-  **Lines:** "You'll be the muleteer," / "He paid me at sunrise, for a muleteer and a wife and a boy, and their mules, and a young fig
-  with its roots in a jar." / "I have the boy, and I have the mules and the tree. Your boy's been sitting on my plank since the third
-  hour, telling my men about a mountain. When they asked him, to pass the morning, how long his master had been married, he told them
-  you aren't." / "Every man on my deck heard him." / "It isn't the fare." / the daughter-and-mother-in-law speech (the Ostia brothers
-  with cudgels) / "Wife is what I was told, with a purse to go with it, and then he was away to the races before I'd weighed what was
-  in it. Your boy told me otherwise for nothing." / "Not out of this harbor before the Ides, and that one's carrying marble, and she
-  won't take a mule." / "Then Delphi can have you back." / "Nobody's carrying anybody's wife onto my ship, nor anybody's woman
-  either." / "Then she's nobody's, which is worse." / "Marry her, then, if you mean to, and be quick. My man at the plank can stand for
-  it, and your boy. It wants no priest and no cake, only the two of you saying so with two others to hear it, the way it was done
-  before there were priests to ask, and I don't care to be told how they manage it in Corinth. You have till the yard's at the top." /
-  "Nobody's throwing anything at my ship." / "I heard." / to his daughter: "Yours had a cake," / "A muleteer, then, with a wife and a
-  boy. As I was told at sunrise, and nobody on my ship has lied to anybody. Get them aboard." / the sandal / "That's the yard!" …
-  "Muleteer! That's my yard at the top! On my ship or off my plank, the lot of you, I'm not particular which!" **Spent:** all of the
-  above; the yard as a deadline; the no-priest-no-cake rule (stated once in the book).
+- **Ch.18 as written (Writer, 2026-10-21. SYNCED to the FINAL page 2026-10-21 (md5 `dbd5ac50…`): dialogue-polish, disruptor, continuity
+  repair W-01…W-13, polish cycle 1 (C1–C4, R1–R13, D1–D4), finalize F1–F3; every quote below is on the page, checked by script):** named
+  once, by the plank sailor ("Pacuvius, they're done."); "the master" in narration. **Lines:** "You'll be the muleteer," / "He paid me
+  at sunrise, for a muleteer and a wife and a boy, and their mules, and a young fig with its roots in a jar." / "I have the boy, and I
+  have the mules and the tree. Your boy's been on that plank since the third hour, telling the crew about a mountain. When they asked
+  him, to pass the morning, how long his master had been married, he told them you aren't." (not sample-09's frame: continuity W-10) /
+  "Every man on my deck heard him." / "It isn't the fare." / the daughter-and-mother-in-law speech ("My girl's aboard. She was married
+  at the Kalends to a man at Puteoli she's never set eyes on"; "A husband with his wife and their lad, she'll swallow."), whose fastest
+  stretch outruns Mara ("if somebody's..." / "The rest of it outran me."), then the Ostia brothers: "I carried a man's wife once. Her
+  husband's brothers came aboard at Ostia with cudgels, and mine was six, and she saw it." / "Wife is what I was told, with a purse to
+  go with it, and then he was away to the races before I'd weighed what was in it. Your boy told me otherwise for nothing." / "Not out
+  of this harbor before the Ides, and that one's carrying marble, and she won't take a mule." / to Mara's registration, past her: "They
+  don't keep Delphi's rolls at Puteoli." He spoke to Valens. "I'll put no man's wife aboard, nor any man's woman either." / "Then she's
+  nobody's, which is worse." / "Marry her, then, if you mean to, and be quick. That one at the plank can stand for it, and the boy. It
+  wants no priest and no cake, only the two of you saying so with two others to hear it, and I don't care to be told how they manage it
+  in Corinth. You have till the yard's at the top." (no history of the rite: continuity W-05 cut his folk-history clause) / "Throw a nut
+  at this ship and you'll swim after her." / "I heard." / to his daughter: "Yours had a cake," / "A muleteer, then, with a wife and a
+  boy. As I was told at sunrise, and nobody on my ship has lied to anybody. Get them aboard." / the sandal: "He set the bare foot down
+  on the boards with care." … "And if any of you sees a sandal floating past the mole, it's mine." / "The yard's up!" the master
+  shouted. "Muleteer! Aboard or off the plank, the lot of you, and I'm not particular which!" **Possessives:** dialogue-polish cut his
+  my-plus-ship-noun run from 12 to 3 (my deck, My girl, my ship), with "mine was six" and the sandal's "it's mine" besides. **Spent:**
+  all of the above; the yard as a deadline; the no-priest-no-cake rule (stated once in the book); "They don't keep Delphi's rolls at
+  Puteoli."; "I'll put no man's wife aboard, nor any man's woman either."; "Throw a nut at this ship and you'll swim after her."
 - **Sample line:** "Rope's for the ship, the bucket's for the ship, and if your boy is sick he's sick over the side, not on my
   marble." (Calibration only.)
 
@@ -3488,7 +3570,7 @@ line each, so that walk-ons don't all sound like Mara.
 | Celer's man on the road (12) | false friendliness; one greeting, then nothing |
 | Archive clerk (17) | WRITTEN (Ch.17) and named: ONESIMUS (card above), the gray-haired clerk of Ch.16; the fig cake and the stylus |
 | Ship's captain at Lechaion (18) | WRITTEN (Ch.18) and named: PACUVIUS (card above); respectability at Puteoli, the yard as his clock, the lost sandal |
-| Sailor witness (18) | WRITTEN (Ch.18), unnamed: the gray plank sailor with tar to the elbows; see the Ch.18 walk-on note |
+| Sailor witness (18) | WRITTEN (Ch.18), unnamed: the gray plank sailor, stained with tar; see the Ch.18 walk-on note |
 | Puteoli harbor clerk (19) | short-sighted bureaucrat; squints at seals; not hostile |
 | Old trainer and the editor of games (21) | the trainer: memory of Lupus's fights; the editor: money and spectacle |
 | Celer's advocate (22) | smooth forensic Latin; never raises his voice |
@@ -4749,43 +4831,89 @@ line each, so that walk-ons don't all sound like Mara.
       "A stitch came, and I ran through it."; "None of them gave me a glance."; "It was dim inside after the street, and cool"; "rang
       off the plaster".
 
-- **At-risk after Ch.18 (Writer, 2026-10-21; "Lechaion", Single-scene, 0 breaks; first draft, before dialogue-polish/disruptor/
-  evaluator; pattern entries are patterns, not page text):**
-  - **The wedding (SPENT as a set):** consent before two witnesses on a quay, ten words ("Will you be my wife, Mara?" / "Yes." / "Will
-    you?" / "Yes,"); the master's rule (no priest, no cake, two others to hear it) stated once in the book; the yard as the deadline;
-    Felix crying at it; the sailor wanting the mules up; the daughter's "was mine like that?" / "Yours had a cake,". No later chapter
-    re-narrates or recalls the wedding in narration; if anyone refers to it, in fresh words and in passing.
+- **At-risk after Ch.18 (Writer, 2026-10-21; "Lechaion", Single-scene, 0 breaks; the moves and shapes to keep out of Ch.19 and after.
+  SYNCED to the FINAL page 2026-10-21 (md5 `dbd5ac50…`): dialogue-polish, disruptor, continuity repair W-01…W-13, polish cycle 1 (C1–C4,
+  R1–R13, D1–D4), finalize F1–F3; quotes checked by script; pattern entries are written as patterns and are not page text):**
+  - **The wedding (SPENT as a set):** consent before two witnesses on a quay, ten words: "Will you be my wife, Mara?" / "Yes. Will you?"
+    / "Yes," said Valens. The master's rule (no priest, no cake, two others to hear it) stated once in the book, with no history of the
+    rite; the yard as the deadline; Felix crying at it; the sailor wanting the mules up; the daughter's "was mine like that?" / "Yours
+    had a cake,". No later chapter re-narrates or recalls the wedding in narration; if anyone refers to it, in fresh words and in
+    passing.
   - **CH16-8 handled on the page:** the master's booking "a muleteer and a wife and a boy" (from the household's freedman) and, after
     the consent, "A muleteer, then, with a wife and a boy. As I was told at sunrise, and nobody on my ship has lied to anybody." No
     narration explains that the cover is now true.
-  - **The watch:** handed back with no speech; flour in the links and on the crystal ("over the small nick by the two"; Ch.1's
-    "nick at two o'clock" stays Ch.1's); the crown "stood hard against my nail; the spring was wound tight to its end."; "Beneath, the
-    finest of the three hands swept on, small and steady, the only thing on that quay that moved without being shouted at."; twenty to
-    one by a mooring-post shadow "shorter than my sandal, tipped a little east"; the Ch.11 fast reading recalled once ("ten past nine
-    … while the spout's shadow still slanted long over the trough"). **Never explained** that he set it or kept it wound, now or later.
-    **It is on her RIGHT wrist** (the steel against Plautia's soft gold on the left: "Gold that soft took a scratch from anything, and
-    it had a child's teeth in it already."); Valens closed the clasp. "The watch sat on the wrong wrist and ticked." (once). Ch.24's
-    winding is on the right wrist, in fresh words. "wound the watch" / "my father's watch": 0 this chapter.
-  - **The goose stern:** carved from the sternpost, "one unbroken curve", "the head eyed the water", white paint flaking, red beak.
-    Described once; Ch.19 calls it the goose or the ship, no re-description. **The sail:** brailed through "rows of small lead rings"
-    like "cords hold up a blind" (the blind simile: once). The tow boat, the stern rope off its post.
-  - **The mule at the plank (SPENT):** the dun refuses (forefoot on, the plank springs "like a diving board after somebody has gone off
-    it", she leans back until the rope is "a bar"); the kick into the cable coil; the black loose through the sprats; the tunic
-    blindfold; the others follow the dun's tail. No later loading scene repeats any of it. The black "with a sprat scale stuck to her
-    nose": once.
-  - **Mara's body:** the taste of blood from running (used); ears "full of my own blood" (used); the voice breaking on "Yes" ("it broke
-    in the middle with the run still in it": used). Hands still resting (no tremor; she catches the crown, wipes the crystal, carries
-    the jar). Seat resting. **Memory:** Mara's mother and the cucumber end at the sink, two sentences, triggered by the daughter's
-    cucumber, mid-scene; the next memory is a different shape and source.
+  - **The watch:** handed back with no speech ("He took out the watch and laid it in my hand."); "The case was warm from him." (not the
+    Ch.15 heat phrase: continuity W-12); flour in the links and on the crystal "over the small nick by the two" (Ch.1's nick stays
+    Ch.1's wording); "Beneath, the finest of the three hands swept on, small and steady, the only thing moving on that quay that nobody
+    was shouting at."; the crown: "it took two and stood hard"; "The hands were at twenty to one, and beside my foot the mooring post
+    laid a short shadow on the stone, tipped a little east." **The Ch.11 fast-reading recall is CUT (disruptor) and is never restored or
+    paraphrased.** **Never explained** that he set it or kept it wound, now or later (END-1). **It is on her RIGHT wrist; Plautia's gold
+    bracelet stays on her LEFT:** "I opened the clasp and put the steel about my left wrist, and it came down against Plautia's gold.
+    Gold that soft took a scratch from anything, and it had a child's teeth in it already." Valens closed the clasp, by nail and smell,
+    with no sound of the catch. "The watch sat on the wrong wrist and ticked." (once). Ch.24's winding is on the right wrist, in fresh
+    words. The two at-risk-table watch phrases: 0 this chapter.
+  - **The goose stern:** carved from the sternpost, "the whole neck one unbroken curve", "the head eyed the water", the white paint
+    "lifting off the feathers in flakes", "its beak was red". Described once; Ch.19 calls it the goose or the ship, no re-description.
+    **The sail:** brailed through "rows of small lead rings" and held "like a blind on its cords". "a rowing boat" off the bow on "a
+    slack line"; the stern rope off its post.
+  - **The mule at the plank (SPENT):** the dun refuses (one forefoot on; the plank springs "like a diving board after a jump"; she leans
+    away "until the rope between her and Felix was a bar"); the warning, then the turn; the kick into the cable coil; the black loose
+    through the sprats; the tunic blindfold ("the dun stood still in the dark he had made her, with her ears turning."); the other two
+    follow "the dun's tail in front of their noses". No later loading scene repeats any of it. The black "with a sprat scale stuck to
+    her nose": once.
+  - **Figures:** similes 5 by metaphor_check (2.0/1k), among them "like a blind on its cords", "like a diving board after a jump", "like
+    a boy half his age"; "as if" 1, the net-mender ("as if the afternoon were his to spend"). Vehicles spent: the blind, the diving
+    board.
+  - **Mara's body:** the taste of blood from running (used); "my ears were full of my own blood" (used); "I found breath enough for
+    Latin, barely." (used); the voice breaking on the Yes: CUT (continuity W-07; voice failing stays retired, the next mapped body break
+    is Ch.20's weeping); her recovered-breath line before "Will you?" is cut (disruptor). Hands still resting (no tremor: she wipes,
+    winds, catches, carries). Seat resting. **Memory:** the cucumber end at the sink, one sentence, triggered by the daughter's
+    cucumber, mid-scene, ending "and rinsed it off under the tap"; the next memory is a different shape and source.
   - **Spoken shapes spent:** "It isn't the fare."; "Then she's nobody's, which is worse."; "Nobody's coming after her."; "You were told
-    wife,"; "Is there another ship for Italy?"; "Yours had a cake,"; "Was mine like that?"; "Is that them married?"; "I stood witness
-    for you,"; "Who ever died of a plank?"; "Ask her,"; "We're all of us watching the yard,"; "Nobody passed us with the news,";
-    "Tread on the cleats,"; "Keep off her heels,".
-  - **Counts (writer's draft):** 2,764 words (shape_check), 2,771 (style); dialogue 31.7% (show_tell; shape 32); median 15 (mid);
-    0 breaks; `I-statement` -> `punch` ("They drew the plank in after us."). Em-dashes 0; "as if" 1 (the barrel hoop); similes 3;
-    and-chains 4 (cap 9); credential asides 0; negation pivots 0; hinge / "So" openers 0; "before I had" 0; without-looking 0; bare
-    "No." 0; kneel/crouch 0; hand-on-knee 0; bends 0; exit by gait 0; deliberation pauses 0; echoes 0; spoken-line echoes 0; tic gate
-    clean; voice-wear clean; foreshadowing 0; "Isthmia" 0.
+    wife,"; "Is there another ship for Italy?"; "I'll pay the fare again,"; "Yours had a cake,"; "was mine like that?"; "Is that them
+    married?"; "I stood witness for you,"; "Who ever died of a plank?"; "Ask her,"; "We are all of us watching the yard,"; "We were the
+    only two people leaving,"; "Tread on the cleats,"; "Keep off her heels," (with the sailor's turn); "It's the nuts," / "There should
+    have been nuts."; "Best plank in Lechaion, that."; "Throw a nut at this ship and you'll swim after her."; "They don't keep Delphi's
+    rolls at Puteoli."; "I'll put no man's wife aboard, nor any man's woman either."; "Haul now, and laugh at Puteoli,"; "Hold her head,
+    boy, and I'll warm her up behind,"; "Give him another!"; "That black's yours, is she?".
+  - **Counts (FINAL page):**
+    - Length and shape: **2,523 words** (shape_check), 2,531 (style), 2,527 (show_tell), 3,080 (`wc -w`); dialogue 34.3% (shape 34);
+      median 15 (mid); 0 breaks; `I-statement` → `punch` ("They drew the plank in after us.").
+    - Punctuation and reflexes: em-dash 1 (Mara cut off); ellipsis 1 (the master); semicolons 5 (2.0/1k); "as if" 1; similes 5 (2.0/1k);
+      and-chains 2 (cap 9); credential asides 0; negation pivots 0; hinge / So openers 0; before-I-had 0; without-looking 0;
+      kneel/crouch 0; hand-on-knee 0; bends 0; exit by gait 0; deliberation pauses 0.
+    - Speech habits: bare-No answers 0; said/told-the-[non-listener] 1 ("the sailor told the harbor"); non-said tags "called" ×2 and
+      "shouted" ×4 (volume only); nobody in speech 3 (Valens 1, the master 2; dialogue-polish cut it from 10); Felix's Is-it / Is-that
+      openers 0.
+    - Density: #11 explanatory extension 1 firm (0.40/1k, "Gold that soft…"); paragraph-final negations 1; "without" 3; indefinites in
+      narration 2.
+    - Other: gate gesture classes clean; echoes / command echoes / spoken-line echoes none / none / none; foreshadowing 0; the Isthmian
+      name 0; anti-AI 7/20 (−0.875, clean band); `check_chapter.sh 18` all clean; `shape_check --strict` CLEAN.
+  - **New SPENT / CLOSED / WATCH entries** (Ch.18 cycle 0, cycle 1 and finalize):
+    - **tears excused by an outside irritant:** CLOSED at 1 (Ch.16); Felix's tears are excused by his own grievance, once;
+    - **the said-too-late tag:** CLOSED at 1 (Ch.15);
+    - **Valens looking away from, or minding an animal during, an object hand-off:** CLOSED at 2 (Ch.13, Ch.18);
+    - **a road as the vehicle for Valens's attention to Mara:** SPENT (Ch.15); **a clasp or catch on her wrist rendered by its sound:**
+      SPENT (Ch.16);
+    - **narrating-present similes:** 0; **in-a-hurry in narration:** 0; **sample-06's counted hammer** (two/three/four blows and a pause
+      or rest): RESERVED for Ch.24, in any count;
+    - **the opening paragraph never reuses the previous chapter's last two paragraphs;**
+    - **the watch:** no and-ticked one-liner again; Ch.44's watch on her wrist never recalls the wrong wrist;
+    - **said/told-the-[non-listener]:** 5th book-wide, so Ch.19 gets none;
+    - **a crown or garland's shed needles or leaves, described on anyone:** SPENT (Ch.17's half-bald crown; the disruptor's cut; F1).
+      Felix's "a crown that's got no leaves on it" is the last word on it;
+    - **a cut detail is grepped before any later swap restores it, on any noun:** the disruptor's cut list joins the evaluator's reuse
+      check;
+    - **[Name] was [V]ing the [animal] as a short narration line:** ≤1 per chapter;
+    - **haul in a non-rope sense** (breath, clothing): ≤1 per chapter (Ch.18 keeps "long hauls through the nose");
+    - **like a [person] half [poss] age:** once; **nuts thrown at a bride:** SPENT as a topic (Felix twice, the master once);
+    - **a narrator's as-if-the-time-were-his-to-spend indifference at an opening:** once;
+    - **weather acting on Mara's body in an opening paragraph:** Ch.19 gets none (after Ch.17's breeze on her neck and Ch.18's on her
+      dress);
+    - **the master's daughter:** unnamed; labelled once;
+    - **nobody in speech:** never a chapter's refrain (Ch.18: 3, after polish cut 10); **a speech that outruns Mara:** used once here,
+      in fresh words after Ch.11 and Ch.16; the next takes another mechanism;
+    - **arrival breath beats:** one each (Valens's long hauls; Mara's breath for Latin); the extra two were cut.
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
@@ -5399,3 +5527,24 @@ finalizing the chapter. Never add a tic to fix it.
   roster still NONE.
 
 - 2026-10-21 (author request, Ch.17): the Lechaion-road latrine is replaced by a cookshop yard (an obol to the woman at the counter, a pot with a board across it under a vine; the javelin question comes through the curtain; Valens waits "at the counter"). RULE for every later chapter: Roman public latrines are men's ground; Mara uses a pot (home, inn, a keeper's yard for a coin) or, on the road, cover outdoors. Never a public latrine bench among men.
+
+- **2026-10-21 (bookkeeping, Ch.18 re-sync to the FINAL page, md5 `dbd5ac50…`, after dialogue-polish, disruptor, continuity repair
+  W-01…W-13, polish cycle 1 (C1–C4, R1–R13, D1–D4) and finalize F1–F3; source: the re-sync list in the re-evaluation section of
+  evaluations/chapter-18-eval.md, plus the bible notes in dialogue-chapter-18.md, disruption-chapter-18.md and
+  continuity/chapter-18-audit.md W-14):** **VALENS** Ch.18 block rewritten ("I'll pay the fare again," alone; the warning with the
+  sailor's turn; the short shadow; "Valens was minding the dun."; the clasp by nail and smell, no sound; the proposal staging after F1;
+  "Valens had gone after the black."; the sprat-scale return; minding at a hand-off CLOSED at 2). **FELIX** Ch.18 block rewritten (the
+  errand question cut; "news to me"; "Not one of them's"; "With no torches?"; "like a boy half his age"; "It's the nuts," / "There
+  should have been nuts."; "Best plank in Lechaion, that."; "On, you,"; "Felix peeled off his tunic."; the crown no longer stared at).
+  **MARA:** new Ch.18 block (five lines; body; the cucumber memory; the watch stretch; the watch on her RIGHT wrist and Plautia's
+  bracelet on her LEFT; the acts; chaos 3/4; counts). **PACUVIUS** card: vocabulary band now carries Mara's one description of his Latin
+  as the page has it; beats added; Ch.18 lines re-cut to the page (telling the crew; Delphi's rolls; no man's wife; no priests clause;
+  the nut threat; "The yard's up!"). **Ch.18 walk-on note** rewritten (the sailor stained with tar, by Pollux, his two new lines and his
+  turn; no count of the mast crew; a rowing boat, "Give him another!"; the net-mender in place of the hammer; "That black's yours, is
+  she?"; no dog; the daughter labelled once). **Roles table** sailor row. **At-risk after Ch.18** rewritten to the final page (the ten
+  words as "Will you be my wife, Mara?" / "Yes. Will you?" / "Yes,"; the watch quotes; the Ch.11 recall marked CUT; the similes; the cut
+  voice break; the spoken spent list; the final counts; 21 SPENT / CLOSED / WATCH entries). Every quote in the edited blocks was checked
+  against the final chapter-18.md by script; pattern labels are written without quotation marks. Not touched: the manuscript,
+  STATE.yaml, ENTITY_STATE.yaml (the stale header comments of chapter-18.md, lines 4–7, still describe earlier pages, including the old
+  split of the ten words, and are the editor's, not this pass's). No new named character; no tic, catchphrase or signature gesture given
+  to anyone; tic-bearer roster still NONE.
