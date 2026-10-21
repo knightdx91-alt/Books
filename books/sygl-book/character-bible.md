@@ -207,7 +207,8 @@ Distinguish characters on **four axes** first:
   scared", Ch.26). Does not talk about her own gift (Lora: "It's not something she really talks about").
 - **Physicality / silence:** the hair: crackles when she is nervous, lies still when she is frightened
   or drained (Ch.26), back to popping when she recovers (Ch.27) — only where the source places it, and
-  rendered differently each time. Twists the ring on her finger while deciding (Ch.19, source, once — SPENT). Elbowing Lora: used at the conversion (Ch.19, source); the bookstore one was not used, so it is now spent.
+  rendered differently each time. **First on the page Ch.23** (Londra gate: the ends lift off her shoulders,
+  thin threads of blue light run along it and snap out); later uses must find other wording. Twists the ring on her finger while deciding (Ch.19, source, once — SPENT). Elbowing Lora: used at the conversion (Ch.19, source); the bookstore one was not used, so it is now spent.
   Elbows Lora lightly when teasing her (source, twice: bookstore and conversion) — vary or let one go.
   Tongue-out and towing Bal by the sleeve: spent (Ch.7). Choking on food: spent (Ch.7).
 - **Verbal tic:** none — distinguished by syntax (needling questions, no hedges) + physicality (the hair).
@@ -658,7 +659,7 @@ re-read and confirmed (or corrected against the page) the moment the character e
   interrogates with sarcasm.
 - Sample line: "She's a Tempus and she'll not be wearing anything to do with your sygl." (p.115; Ch.20)
 
-#### JAMES — the brewer, Londra (Ch.24) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### JAMES — the brewer, Londra (Ch.24) *(ON PAGE Ch.24 — confirmed by Writer)*
 - Attention / worldview: the trade — vintages, dates burned into lids, what the priests drink, what a
   customer can pay.
 - Vocabulary band: merchant's frank, proud of stock.
@@ -671,8 +672,11 @@ re-read and confirmed (or corrected against the page) the moment the character e
   hospitality.
 - Sample line: "It depends on how much coin you have, and how much your lady would like to impress
   them." (p.143; Ch.24)
+- **Ch.24 as written:** comes from his office to meet Bal; desk with everything square to the edge, pens in a
+  row; one belly laugh; slaps an ale lid fondly; the Ventish casks bought off a trader vessel "out of the
+  Ventish region"; "If you want the best, it isn't cheap." Haggles; the cask is delivered next morning.
 
-#### MRS. LOCKLAN — innkeeper, the Winespring Inn (Ch.24–25) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### MRS. LOCKLAN — innkeeper, the Winespring Inn (Ch.24–25) *(ON PAGE Ch.24 — confirmed by Writer)*
 - Attention / worldview: guests, payment, and the thrill of a high-born lady with Raizen's favour under
   her roof.
 - Vocabulary band: cheerful, chatty innkeeper.
@@ -684,8 +688,12 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - Verbal tic: none — distinguished by syntax (over-telling).
 - DISTINCTNESS GUARANTEE: the stranger who tells everything, against the Three Boars' quiet barman.
 - Sample line: "Why, by the sparking hair of course." (p.140; Ch.24)
+- **Ch.24 as written:** hurries out from behind the counter drying her hands on her apron; the envelope from
+  her apron pocket; "nobody plays a joke that expensive"; palms pressed together under her chin over telling
+  her husband; takes Bal's bowl from him when he offers to wash it; delivers the Tempus-sealed letter (the
+  knock, chapter end). Spent: the apron-drying, the palms-under-chin.
 
-#### ALERIC — Raizen's priest; the clever, ambitious one (Ch.24–25) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### ALERIC — Raizen's priest; the clever, ambitious one (Ch.24–25) *(Ch.24: glimpsed by Viridia only and REPORTED (scar through the right eye, no azure robes, early); Bal does not see him. First on page with Bal: Ch.25)*
 - Attention / worldview: suspicion and advantage — who refuses a drink, who his High Priest will want to
   meet; most unpredictable of the three; comes early.
 - Vocabulary band: courtly priest-speak ("Let us celebrate Raizen's glory").
