@@ -508,6 +508,21 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   rest of it outran me."; "We are all of us watching the yard,"; "We were the only two people leaving,"; "Ask her,"; the cucumber
   memory; the watch stretch (warm, floury, wiped, the seconds hand, two turns, twenty to one by a post's shadow); the left-wrist trial;
   "The watch sat on the wrong wrist and ticked."; "I put the crown back on him."; the fig "and me".
+- **Ch.19 as written (Writer, 2026-10-21; "Puteoli", Chronological walk, the crossing to the tomb road, spring AD 72; writer draft):**
+  **No English** anywhere, aloud or alone. **Latin speech uncontracted** ("Very fine," / "None at all." / "Many people's, I should
+  think. A farm each." / "He has your name. It is in his wax now." / "Are there rooms to be had?" / "Then I shall walk out by myself,"
+  / "In the afternoon they will be awake." / "I have some," … "but not here."). **Attention (materials and joins):** the bow brooch's
+  sprung coil closed with the pen-knife; the mole's poured piers with the brick eaten off; the lead pipe "soldered down its length";
+  Grata's marble offcuts; the slipped roof tile she would reset; the pitch-lined wine jar; the hipposandal's lacing; the tomb's paint
+  and white "on a single coat of plaster", tested by touch and by knuckle. **Chaos, 4 of 4, inhabited:** the irrelevant thought (the
+  tile and the lead to fix it; the painter's ring-shadows falling the wrong way); the distortion, all-or-nothing, on the pink-striped
+  wall ("A join showed or it did not."); the triggered memory as a clause with no person in it (the pizzeria wall on Passyunk Avenue,
+  set off by hunting the mountain); **failed management through the body, a new channel: sleep** (one sandal off and one on). Hands
+  steady throughout. **Evasions kept:** no "love" in narration yet (Part Two allows it; not spent here); the father unmentioned. **AD 79
+  once** ("Seventy-nine. It came unasked…"). **The lie:** "I agreed with all of it". **The camera:** raised, focused, not fired. **The
+  pen-knife:** in her belt; used on the brooch; she looks for Myrrhine on the Puteoli quay ("with her lady's knife in my belt and no
+  ship but ours yet in from Lechaion"): the return stays open. **Watch:** not on the page (right wrist; no contradiction). **Teeth:**
+  0. **Laughs:** 0.
 - **DISTINCTNESS GUARANTEE:** the only voice in the book that sees how a thing was made and where it was
   mended, against Valens, who sees where a thing or a man will move next.
 - **Sample line:** "Somebody's glued this before, look, there's an old line under the new one, and
@@ -1073,6 +1088,28 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   with the crown in his hand; the watch handed back (the next winding, Ch.24, is shown in fresh words and is not a handing); closing the
   clasp for her; "Tread on the cleats"; "The boy's,"; "I'll pay the fare again,"; the floury watch; the warning, then the turn;
   **minding (or looking away from) an object hand-off: CLOSED at 2 (Ch.13, Ch.18).**
+
+- **Ch.19 as written (Writer, 2026-10-21; Puteoli to Pompeii; writer draft):** **Lines (no comparison in his speech; bare "No." 0;
+  narrated non-answers 0):** "Fine mountain for vines," / "It lies right to the sun. With the sea under it, that slope'll see no frost
+  to speak of." / "Whose is it?" / "That's the way to own a mountain. A man can walk round his own piece of it in a morning and see to it
+  himself." (his worldview: a small life no one can take) / to the clerk: "They work," … "They're mine." / "It's a fig," / "Valens. Gaius
+  Iulius." / the leaf produced from under his tunic and opened on the table (no seal; the papers work) / **mind-reading, wrong in a
+  mundane way:** "He knew me," / "He walked round his table to look at my face." / "He looked hard." and one glance back at the
+  awning / at the letter board: "A lady's brother." / "Pompeii," … "I'll send to you." / in the loft: "This town of yours." … "Where do
+  the beasts drink?" / "And carting? Who wants it?" / "Building what?" / "Ten years," … "They're slow." / "We've a mule with a loose
+  shoe," … "Hold her." / "Thirty pairs," … "In a town this size." / low, at the crossing: "The muleteers have a man, then." (he read the
+  panel himself; Felix still believes he cannot read) / "Which gate is nearest?" / "Tomorrow I'm out at that gate after carting, with
+  the string." / "There'll be men sleeping in those tombs." / "Go when the road's full," … "and keep to it going and coming." / "It
+  sticks at the sill," / "It's cheaper," … "You dig, and the earth makes the seats." / "There were," / "How many gates are there?" /
+  "And the other?" / "Some do," / "Out where the dead are. Eat your beans." **Hands, a different object each time:** a hand round her
+  ankle on the eighth night ("did not let go till morning"); the hurdle lashing; the leaf; the hipposandal laced on the black's off
+  fore; the dun walked through the stepping stones "with his other hand on the stone she was eyeing"; the fig carried to the roof
+  before he looks at the bed; the bar dropped and lifted; the noseband cut from the cobbler's leather. **Stillness:** "as still as the
+  column beside the table" under the clerk's stare. **Laugh:** once, "under his breath", at the carter. **Grata touched his sleeve; he
+  looked at the place** (planted; no line). **No fig opinion** (he walks round the inn's fig once). **Knows:** the door is somewhere in
+  the tombs (Ch.15); not yet told she found it. **Work:** carting rubble for a contractor at the Stabian Gate, paid by the load, from
+  day three. **The leaf:** under his tunic, belt over it. **The letter:** left word at the Puteoli board.
+- **Spent in Ch.19:** every line above; the ankle in the dark; "as still as the column"; the noseband; "It sticks at the sill,".
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -1708,6 +1745,25 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   boy half his age" (once); the tunic blindfold; "Who ever died of a plank?"; the crown worn crying. Who won the boys' race stays
   unknown.
 
+- **Ch.19 (Writer, 2026-10-21; writer draft):** on the crossing he hangs over the rail at the narrows ("could have spat on either"),
+  refuses to believe Italy is a country, and is told the whirlpool by the crew "each man improving on the version before his"; sleeps
+  on the anchor cable. **Stacked questions, openers rotated (no "Is it"; one "Is that"):** "Is that the emperor's? Who's rowing it? How
+  many are under there?" … "Will they take a free man, if he goes and asks?" / Pacuvius: "Go and ask." / "I wasn't going to," (his
+  evasion: never admits fear) / to the clerk: "I'm free," … "He freed me himself, at Kirrha, in front of the slaver and the whole quay.
+  Shall I show you? There's nothing to show, he only said so. Isn't that enough here? It was enough at Kirrha." (informal freedom, no
+  papers: the clerk waves him through) / "He's wax on his nose like a pig's been at a candle," … "See it? Does he eat it?" / to the torch
+  boys: "Do you live in there?" … "What if it goes out? Can I carry one?" / after the tunnel, "he had eaten half of Italy already" / in
+  Neapolis asks where they fight and gets footraces and poets / the cheese men's news (the school, the amphitheater, the riot, the ban):
+  "Ten years! And all that while they had to go by it empty? … Will it be this spring? Have we missed it?" / **cannot read, and bluffs:**
+  reads the muleteers' election panel aloud as "Thirty pairs of fighters, at the Ides, and beasts, and the awnings up for the sun the
+  whole day. See? There. They're giving games." and stays "mouthing at the shapes of it" / the amphitheater: "They've sunk it in the
+  earth," … "Did you know it would be sunk? Have you seen one sunk before? Why would you sink one?" / "Can I go in, when the loads are
+  done? Nobody was in it today. Will there be games at the Ides?" / "Find anything at your gate?" … "Fighting ones?" / "What's
+  tomorrow? … Are there fighters buried out there? Do they put their fights on the stones?" / "Where?"; on day four, per Grata, "telling
+  the street about some dead fighter whose stone he's found out past the amphitheater". Takes the mules to the Stabian inn; carts
+  with Valens from day three. **No palm scratched** (reserved for Ch.21, 28). **Spent in Ch.19:** the thirty pairs; "I wasn't going
+  to,"; "eaten half of Italy"; the pig and the candle; "Shall I show you?"; the sunk amphitheater questions.
+
 #### PLAUTIA — Celer's divorced wife; b. c. AD 44, married to Celer in the autumn of AD 63 at nineteen; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
   Marcus, b. autumn AD 64: seven in Ch.16, nine in Ch.22; kept by his father under Roman law). She has learned that everything can be taken, so
@@ -1996,6 +2052,43 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   Kallia, who says almost nothing, and Felix, who only asks.
 - **Sample line:** "That pot isn't worth the glue and you know it and you'll mend it anyway, that's your
   trouble, you'd mend a cracked egg if somebody cried over it. Here. Hold this, it's hot."
+- **Ch.19 as written (Writer, 2026-10-21; first live appearance, Pompeii, spring AD 72; writer draft, not yet synced to a final
+  page):** **Entry (all four marks):** a voice first, a complaint that is also a sale ("You'll take those beasts off my front or
+  you'll buy something … they're standing in my custom, and you'll not find a better hot wine this side of the forum, there's pepper
+  in it, so you may as well buy it as stand there."); **physical anchor:** "perhaps forty, broad, quick, with her sleeves pinned up
+  above the elbow and a scald scar on one forearm"; her counter "reached the street's edge in two arms of masonry set at a right
+  angle, faced with offcuts of colored marble, green and yellow and a purple shot through with white", jar mouths sunk in it, "a
+  ladle hung on the lip of each", a pot on a brazier (no lentils: sample-11's counter is not rebuilt); **behavior:** she fills the
+  cups "and kept talking"; **tension:** the whitewash patch (below), never explained. **She tells, never asks** (0 personal questions
+  on the page): the flood ("You've come off a ship and then a road, it's on you plain, the both of them … it takes a day for every day
+  you were on the water, my husband's brother says, and he should know, he's never been off one. Rooms is what you want … And work for
+  him … ten years we've been at it, ten years since the earth went, and the forum still looks like a builder's yard. Drink that before
+  it cools."); the rent ("Twenty-four sesterces the month and the first month now, and the water's at the corner, and you'll not wash
+  anything in my jars."); Mara told about herself ("You're Greek, you've the walk, and you've not been married long, you stand too
+  near him for that. It wears off." / Mara: "Twelve days," / "Well, then."); her name, self-given ("Pomponia Grata. Everybody says
+  Grata, and anybody who says otherwise is after something."); the husband as a joke ("If you hear dice, that's him, and if you hear
+  shouting after the dice, that's me."); the street, day three ("The fuller at the corner beats his wife on market days and she beats
+  him back on feast days, so it comes out even." / the baker's oven that "draws badly" / the propped house of "a man in Nuceria" / "the
+  woman at the fountain with the blue jar"); Mara's work, told not asked ("There's work in you as well as him, you've hands that are
+  for something, I saw you at that wall yesterday with your nail in it, half the street saw you."); the plasterer is her cousin ("He's
+  a bad plasterer and he's family, so it stays."); her son, unnamed ("My son's at the baths. A lad who means to stand for aedile one
+  day has to be seen at the baths by the right people with nothing on"); to her husband in the opening, "There's bread at the baker's,"
+  … "Where the oven draws badly."; at dusk, day four ("You've been out among the dead … you've the red off the Nuceria road all up your
+  hem, it's the reddest dust in Campania and it never comes out" … "Your man's been back since the lamps were lit … There's patience.
+  Mine would have thrown a pot at him by now. Sit there. Eat that."). **Touch:** her hand on Mara's sleeve "warm from the pot" through
+  the rent speech; she "touched him on the arm too as she went by him", and Valens "looked at the place on his sleeve where her hand
+  had been" (a PLANT for his mind-reading in Ch.21: no line about it yet, from anyone). **Her own chaos (the irrational behavior,
+  planted, never explained):** "a patch of new whitewash the size of a door" on her own wall, "still dark with wet at its edges", red
+  letters showing through "as they would until the second coat"; "It had appeared since we came"; her only comment: "Don't lean on
+  that," … "It's wet." (Ch.31 owns the explanation.) **Teeth: 0** (Ch.31). **No fancying of Valens stated.** **Property, as on the
+  page:** the cobbler's shop next door to her counter (the cobbler "died owing me the winter"; "his nephew walked in from Nola and took
+  the leather and left me the smell"): a shop on the street with grooved sill stones and its shutter boards, two rooms behind, a door
+  between them (planks on leather hinges, a bar inside; "It sticks at the sill," Valens), a bed frame "whose cord had rotted through
+  near one leg", a high window onto a light-well, an outside stair to the roof (the fig is up there). Stabling: "an inn at the Sarno
+  Gate will stable them and rob you, and one at the Stabian will stable them and rob you less" (Felix takes the mules to the second).
+  **Spent in Ch.19:** every line above; "it takes a day for every day you were on the water"; "It wears off."; "anybody who says
+  otherwise is after something"; the dice joke; "so it comes out even"; "he's family, so it stays"; "the reddest dust in Campania";
+  "Mine would have thrown a pot"; the whitewash patch described (Ch.20/31 find fresh words); "Rooms is what you want".
 
 ---
 
@@ -2907,6 +3000,79 @@ quotes checked by script.)*
   at Kirrha" pelted with nuts (Felix); "the small Sicyonian" (the sailor's runner); Mara's mother and the cucumber end at the sink
   (memory, one sentence, now ending "and rinsed it off under the tap", R12).
 
+#### Ch.19 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+*(Writer, 2026-10-21; writer draft, not yet synced to a final page.)*
+- **Pacuvius's girl (the master's daughter), on the crossing and the quay:** "Pacuvius's girl" in narration (no second "master's
+  daughter" label). Sick "for every mile of the Straits and well again by Rhegium"; practices her greeting for her husband's mother
+  every evening "in a whisper at first and then aloud, until the steersman could say it with her". The sprung bow brooch (bronze, pin
+  cast with the bow, the coil closed with the point of Plautia's grandfather's pen-knife): "It won't hold," … "She'll look at my
+  brooch before she looks at my face, my father says she looks at everybody's brooch, and if it won't hold I'll have to fasten myself
+  up with a thorn." / "My mother had one that did that," … "She stopped it with wax." / "Don't tell my father it was broken," (her own
+  chaos: pins, unpins, pins "twice more to be sure"). On the quay she says the greeting whole in careful Latin and is answered in
+  quick quay Greek; to "who had slept on the deck": "Married people," … "Corinthians. They had mules." (in "a Greek that was suddenly
+  as good as anybody's"). Spent: the brooch, the greeting, the reply in Greek.
+- **The mother-in-law at Puteoli:** "a small woman in brown, with one slave holding a parasol above her and another holding nothing";
+  "she read the brooch before she read the face"; quick quay Greek (the house "up at the highest part of the town", fish, the girl
+  "thinner than she had been told"); looks at Valens "for longer"; "turned to the porters about the girl's chest". Unnamed.
+- **The Puteoli harbor clerk (the outline's role; UNNAMED, functional):** under an awning "Where the mole met the land", a table with
+  tablets, a slave with a case of styluses; "long in the neck, with his hair combed forward, and there was a smudge of black on the tip
+  of his nose"; reads everything with "the wax all but touched the end of his nose" (the master's list; the leaf, "two-handed"; his
+  own tablet). **The walk-on-holds-an-object-to-the-eye beat: his, once (Ch.19's one).** Lines: "Beasts for sale?" / "And that?"
+  (the fig) / "Your name." / "Whose freedman?" / "Corinth," … "Nero's year." … "That was a lucky year for some. And the woman?" / "And
+  the lad?" / "Plenty," (waves them on). He leaves his table to peer into Valens's face from close: short sight, not recognition;
+  Valens reads it as being marked (the chaos, below). **Not hostile; the papers work.** If he recurs, he gets a name and a fresh
+  physical mark; the nose smudge is spent.
+- **Pacuvius at Puteoli:** stands at the clerk's shoulder telling him his cargo "quicker than he could read"; vouches: "His," …
+  "Married at Lechaion, on the stones, in front of my crew, and I'll swear to it here or anywhere you like."; the fleet out of
+  Misenum ("they'll sit him on a bench under the deck where he never sees the sky, and he can row the admiral round this bay till his
+  beard comes in gray. Go and ask."); the letter board ("every master on this run leaves his letters on that board, and not one of us
+  carries a letter a step past it, me least of all. That's the last I'll say to you."); "He was back up his own plank before anyone
+  had thanked him." Evening libation on the open sea ("poured some of it on the water, and prayed in a voice he never used on us").
+  The sandal is not mentioned. **Spent: Pacuvius, done; he does not recur unless the letter thread needs a master, and then in new
+  words.**
+- **The wine-woman at the mole's foot (Puteoli):** keeps the ships' letter board ("tied up in thread and tagged with the names of
+  whoever had still to fetch them"): "Who'll it be from?" / "And where do I send when it comes? I don't send, mind. Somebody comes for
+  it, or it stays on the board till it's eaten." Valens: "A lady's brother." / "Pompeii," … "I'll send to you." **OPEN THREAD:** the
+  brother's letter (Ch.17's "When the praetor names our day") will lie on this board; somebody from Pompeii must fetch it (Ch.21–22).
+- **Puteoli texture (once each):** the porters on the Alexandrians' planks; a man frying something in oil, argued with by "a priest in
+  white linen with his head shaved"; a dog asleep at a plank's foot; the Alexandrian grain ships' little topsail "which no other ship
+  in the harbor flew"; the mole's concrete piers with the brick eaten off the lowest courses.
+- **The torch boys at the tunnel (the road through the hill to Neapolis):** "Light you through, mistress? A copper, and you'll see your
+  own feet." / to Felix's questions: "You can carry your mule," the torch boy said. Two hired.
+- **The old man in Neapolis:** "Footraces," … "and the lyre, and poets. Every four years, for the emperor." (the Neapolitan games;
+  Felix "left him with his face screwed up tight").
+- **The innkeeper near Neapolis (east of the city, by a little river in reeds):** "a ring of keys at her belt": "Mats upstairs, two
+  coppers a head. The beasts are four the lot, and the boy sleeps with them or pays for a mat like anybody. Money first. The last lot
+  left in the night and owed me." A fig grows in her yard (Valens walks round it once; no fig opinion).
+- **The two carters from Nola (the loft):** cheese for Puteoli, "smelling of it"; one, "muffled by his cloak": "Some of us … have
+  cheese to sell on the Puteoli quay by sunup, and a wife there who can tell from the cheese what time I sold it." Their news, through
+  Felix: the school for fighters, the amphitheater, the Nucerian riot ("They fought it out on the benches. Stones and knives.") and the
+  Senate's ten-year ban (AD 59; the reader's history, unglossed). Felix buys a hard cheese from them.
+- **Road walk-ons:** the slave feeding the fishpond from a little boat; the woman on a high threshing floor who "took up her flail
+  again"; the farm-gate wine (pitch-lined jar); the salt-pan rakers "in loincloths".
+- **Pompeii walk-ons, day of arrival:** the mason on a ladder pointing a brick patch, "singing to himself" (the song "dropped down the
+  ladder in pieces"); two boys walking the crane's wheel at a temple getting new columns; the man raking water into the lime pit; the
+  woman leaning on the pink-striped wall and the girl with a basket. **Mention only:** "Marcus Satrius Proculus", candidate for aedile
+  on a white panel ("the muleteers asked you to make … aedile, and that he was a man worthy of it"); Grata's cousin the bad plasterer;
+  Grata's husband's brother ("never been off" a ship); the cobbler (dead, owed Grata the winter) and his nephew from Nola; the fuller
+  and his wife; the baker over the way; the man in Nuceria who owns the propped house; the woman at the fountain with the blue jar;
+  the contractor at the Stabian Gate who pays by the load.
+- **Grata's husband (the outline's Ch.24/31 role; first glimpse, unnamed):** "In the opening of her own shop next door a man in a
+  sleeping tunic had appeared, scratching his chest and regarding the street with no love for it." / "Is there bread?" (Grata: "There's
+  bread at the baker's," … "Where the oven draws badly."). The dice are hers to joke about, not his to show. Next: Ch.24, in fresh
+  words.
+- **The Nuceria road (day four):** the rose woman inside the gate passage ("For your people, lady. The road's half full of roses
+  already. You'll not want to go out bare." / "Out bare and back bare," … "They'll think you've no dead at all." / Mara: "I have some,"
+  … "but not here."); the families eating on the tomb benches; the faceless head-and-shoulder stones in a walled plot, some with a knot
+  of hair for women; a tall tomb with a marble woman seated on top, a man asleep in its shade "with his jaw dropped and a fly walking on
+  his cheek"; a candidate's name in red on a tomb; the goose boy ("the geese passed me with their necks out"). **The eel-seller's
+  family:** the grandmother's joke; the jug; the mother ("Leave the lady be," … "She's praying." / "Come here and carry this."); **the
+  boy** with rose petals on the bottoms of his feet: "Is this one yours?" / "Ours is that one." … "He was my grandfather. He sold
+  eels." / "What for?"; he walks "on the outsides of his feet to keep the petals on". Spent: all of it.
+- **The tomb's owner (inscription only):** **Aulus Numisius Eros, freedman of Aulus**, "had made this for himself while he lived, and
+  … had lived fifty-one years" (a slip of marble set in the gable). Mention only; never characterized. Do not invent a family or a
+  story for him; his name may appear again only as the plaque, in fresh words.
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -3571,12 +3737,12 @@ line each, so that walk-ons don't all sound like Mara.
 | Archive clerk (17) | WRITTEN (Ch.17) and named: ONESIMUS (card above), the gray-haired clerk of Ch.16; the fig cake and the stylus |
 | Ship's captain at Lechaion (18) | WRITTEN (Ch.18) and named: PACUVIUS (card above); respectability at Puteoli, the yard as his clock, the lost sandal |
 | Sailor witness (18) | WRITTEN (Ch.18), unnamed: the gray plank sailor, stained with tar; see the Ch.18 walk-on note |
-| Puteoli harbor clerk (19) | short-sighted bureaucrat; squints at seals; not hostile |
+| Puteoli harbor clerk (19) | WRITTEN (Ch.19), unnamed: reads with the wax at his nose (the leaf has no seal); a black smudge on his nose; not hostile; see the Ch.19 walk-on note |
 | Old trainer and the editor of games (21) | the trainer: memory of Lupus's fights; the editor: money and spectacle |
 | Celer's advocate (22) | smooth forensic Latin; never raises his voice |
 | Inn landlady on the Appian Way (23) | the bill and the fleas she denies |
 | Midwife (24) | brisk, Oscan asides, goddess names; crossed front teeth (Mara's fixation, not her voice) |
-| Grata's husband (24, 31) | dice and rumor; mentions the Chaldean "talking gibberish" |
+| Grata's husband (24, 31) | dice and rumor; mentions the Chaldean "talking gibberish". Glimpsed Ch.19 (sleeping tunic, "Is there bread?"); see the Ch.19 walk-on note |
 | Lanista (28) | contracts and investment; reasonable, mostly honest |
 | Boat-owner at the Sarno (37) | weather and price; Valens wrongly suspects him |
 | Stranger with the figs in the tomb (41) | his landlord; ordinary grievance as the only way to talk about tomorrow |
@@ -4914,6 +5080,88 @@ line each, so that walk-ons don't all sound like Mara.
     - **nobody in speech:** never a chapter's refrain (Ch.18: 3, after polish cut 10); **a speech that outruns Mara:** used once here,
       in fresh words after Ch.11 and Ch.16; the next takes another mechanism;
     - **arrival breath beats:** one each (Valens's long hauls; Mara's breath for Latin); the extra two were cut.
+
+- **At-risk after Ch.19 (Writer, 2026-10-21; "Puteoli", Chronological walk, 4 breaks, the first chapter of PART TWO; writer draft, not
+  yet synced to a final page; quotes are from the writer's page):**
+  - **The mountain from the deck (SPENT as a set):** found "where it had to stand, between Neapolis and a town I could not yet see";
+    the wrong hills first (a ridge behind the cape; a hump beyond Neapolis); the pizzeria outline ("painted on the wall over the ovens
+    of every pizzeria on Passyunk Avenue, two humps with a fishing village at their feet, and the mountain had only the one"); the
+    slope a man "might have walked … all morning without noticing he was climbing"; vines in rows, farms with tiled roofs, "a belt of
+    darker woods", "the top, broad and rounded and bare, with pale stone showing through the scrub"; "From that close it was simply
+    farmland, tipped up on end." **Later mountain sightings (Ch.20 on) use none of these descriptors and no pizzeria or postcard
+    comparison.** The mountain is never named on the page (no "Vesuvius" yet, no "Vesuvius Gate").
+  - **"Fine mountain for vines": 1 of 1, SPENT** (said by Valens at the rail; answered "Very fine," and the frost/ownership exchange:
+    "It lies right to the sun." / "Whose is it?" / "Many people's, I should think. A farm each." / "That's the way to own a mountain. A
+    man can walk round his own piece of it in a morning and see to it himself."). Never called back or paraphrased. The lie is told in
+    narration once ("I agreed with all of it, and I was glad he had said it").
+  - **The camera raised and lowered (SPENT):** drawn "up by its strap from under my dress"; "the pushed-in place on the lens's front
+    ring flashed"; "small enough to cover with a thumb"; "a gull flying through it once"; the finger on the shutter button, then "My
+    finger left the button."; "fed it back under my dress". No frame fired; no counter, no cap. Ch.20's named frame (Valens asleep
+    under the fig) is staged in another order with other words, and sample-13's bag frame stays unused.
+  - **Seventy-nine: 1 (Ch.19's one), SPENT in these words:** "It came unasked and sat in my head, two figures with nothing round them,
+    while the mountain stood small and green in the glass." The next chapter's present thought (if any) has no figures-in-the-head
+    image.
+  - **"went on being green": 1, SPENT** (the mountain, across the water). No other object "goes on being" anything.
+  - **The tomb (CH19 anchor for the re-read: the first hand at this threshold), SPENT in these words; Ch.30, 36 and 41–42 must find
+    other words and another order:** "a small square house of rubble, plastered white, with a low gable"; "no higher at the ridge than
+    Valens's head"; its front "looked over the road into the afternoon sun"; the door "at the size of a real one", "painted to look like
+    wood: two leaves, each in three panels, done in a yellowish brown, with the grain drawn on in darker strokes of a fine brush", nail
+    heads "as black dots with a fleck of white on each", "a ring for a handle" with its painted shadow "falling the opposite way from
+    every real shadow on that road"; the marble slip in the gable (Aulus Numisius Eros); the test with **the backs of the fingers**
+    (white plaster warm "as the hood of a parked car on a June afternoon"; the leaf "faintly cool, cool as a glass of water left
+    standing an hour by a kitchen sink"); the to-and-fro (white warm / painted jamb warm / leaf cool); "Paint and white lay on a single
+    coat of plaster"; **the knuckle tap** ("low and then high … They gave back the same dull note, with rubble behind both"); "the whole
+    of my palm"; "it stayed a picture of a door"; "the coolness stayed in my palm for some distance, and was gone by the gate". **No
+    seam, no niche, no "painted plaster", no "hand flat" was used: those words stay free for the ending (AUTHOR-END-1).** The tap test
+    is used once in the book.
+  - **"where the dead go out": allowlist use 2 of 3** ("This was where the dead go out, as the god had put it in Valens's mouth").
+    Ch.44's optional third must not be load-bearing.
+  - **The search (SPENT as a beat):** the Herculaneum road in one sentence (benches with lion's feet, altars on stepped bases, real
+    marble doors shut fast, "on none of them anything painted in the shape of a door"); the Stabian road in one sentence (two bench
+    tombs, a marker or two, "none of them had a door, painted or otherwise"); "Eight, in all. Only two have tombs worth the walk." /
+    "And the other?" / "The Nuceria Gate. Tomorrow." No later chapter re-runs a gate-by-gate search.
+  - **The microcassette touch (Ch.19's, per foundation §4f), SPENT in this staging:** the bag "open on the floor, dropped there the
+    first night", "the toe of the old wool sock stuck out"; "I touched it with a fingertip. Inside the wool were the cassette's hard
+    edge and the two small hubs in its face, and I turned one of them through the knit, a quarter of the way round, and it turned."
+    **Ch.35's touch must be staged a fourth way** (not the toe out of the bag, not a hub turned, not a rummage, not a flat weight).
+  - **Body rebel, new channel: sleep** ("I meant to sit on the bed only while I got my sandals off. I woke with one of them off and
+    the other on"). SPENT as a channel. Hands and seat still rested (no tremor at the tomb; the hands test, tap and rest). Voice still
+    retired; Ch.20's weeping at the fountain is the next mapped break.
+  - **The distortion (all-or-nothing) on a visible repair, SPENT as a set:** the pink stripe on the red wall ("dried pinker than the
+    wall"; "a stripe a hand wide down the house's front"; "Anybody in the street could see exactly where that house had split."); the
+    thumbnail in its edge ("nothing to key it to"); "A join showed or it did not."; "the plasterer should have been made to stand in
+    front of it from dawn to dark"; Grata's cousin did it. **Ch.20 must not restate the rule** ("a join showed or it did not") and must
+    stage the lamp's visible seam as the customer's wish, in fresh words; the thumbnail probe is Ch.19's one.
+  - **Valens's mind-reading (the clerk), SPENT:** "He knew me," / "He walked round his table to look at my face." / "He looked hard."
+    against Mara's evidence ("He read the master's list with his nose in it" … "He has black wax on the end of his nose from doing
+    it.") and Felix's ("He's wax on his nose like a pig's been at a candle," … "See it? Does he eat it?"); his one glance back at the
+    awning. **Grata's touch on his sleeve and his look at the place: PLANTED, no line yet** (Ch.21's "sure Grata dislikes him").
+  - **Texture spent once each:** Puteoli's mole on arches and its concrete piers; the Alexandrian topsail; the fleet out of Misenum
+    (the long dark ship, the oars, the wake that "rocked the mules long after she had gone"); the tunnel through the hill (torch boys,
+    ankle-deep dust, "two balls of brown fog", the Broad Street subway comparison: the subway domain is used); Neapolis's Greek; the
+    inn loft and the slipped tile ("three stars showed, and part of a fourth"); the hipposandal laced on the black's off fore ("the
+    iron sole they laced over a hoof for stony roads"); villas, fishponds, vines married to elms ("Twelve days into my own, I was in no
+    position to laugh at anybody."); pitch in the wine; salt pans; the three-arched gate; stepping stones; props, the mason's song, the
+    crane wheel, the lime pit, the lead pipe soldered down its length; election paint and the white panel; Grata's marble-scrap
+    counter; the cobbler's shop (leather crescents, the broken awl and last); the shutter boards in grooved sills (the evening knocking:
+    the chapter's close); the tomb road (benches, faceless stones, roses, the geese).
+  - **Spoken shapes spent:** "Fine mountain for vines,"; "Very fine,"; "None at all."; "Whose is it?" (Valens, of the mountain);
+    "That's the way to own a mountain."; "Is that the emperor's? Who's rowing it? How many are under there?"; "I wasn't going to,";
+    "They work," … "They're mine."; "It's a fig,"; "Valens. Gaius Iulius."; "He knew me,"; "He has your name. It is in his wax now.";
+    "He looked hard."; "Shall I show you? There's nothing to show, he only said so."; "A lady's brother."; "This town of yours."; "Where do
+    the beasts drink?"; "Building back."; "Ten years," … "They're slow."; "We've a mule with a loose shoe," … "Hold her."; "Thirty
+    pairs,"; "In a town this size."; "The muleteers have a man, then."; "Are there rooms to be had?"; "Twelve days,"; "Which gate is
+    nearest?"; "Then I shall walk out by myself,"; "There'll be men sleeping in those tombs." / "In the afternoon they will be awake.";
+    "Go when the road's full," … "and keep to it going and coming."; "It sticks at the sill,"; "It's cheaper," … "You dig, and the
+    earth makes the seats."; "There were,"; "Barges on the river." / "Fighting ones?" / "Ones with cabbages in them."; "Some do,";
+    "Out where the dead are. Eat your beans."; "Is this one yours?" / "No,"; "I have some," … "but not here."
+  - **Counts on the writer's page:** 8,345 words (shape_check), dialogue 21%, median 18, 4 breaks, `scene-set` → `long-fade`; em-dash
+    0; "as if" 1 (the ankle); and-chains 5; negation pivots 0; hinge / So openers 0; before-I-had 0; "without" 2; sentence-initial
+    "Nobody" in narration 1; said/told-the-[non-listener] 0; kneel/crouch 0; hand-on-knee 0; bends 0; gait exits 0; deliberation pause 1
+    ("He lay quiet a while"); bare "No." Valens 0 (Mara 1); narrated non-answers 0; command echo 0; walk-on object to the eye 1 (the
+    clerk); thumbnail probe 1; "Somebody had [verb]" 1 (the tunnel under Augustus); credential asides 0 (gate); memories: the pizzeria
+    outline (a clause, triggered by the hunt for the mountain, no person in it); teeth 0; laughs: Valens 1 (under his breath), Mara 0;
+    English 0; AD 79 1; foreshadowing 0; echoes 0; tic gate clean.
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
