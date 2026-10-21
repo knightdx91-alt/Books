@@ -83,7 +83,9 @@ The High Priest Toma had Lora and Viridia. His army would sit on their doorstep 
 
 Bal groaned. His course was plain. Whether he had the strength to do it was not.
 
-The two priests had delivered what they came to deliver. They slipped out to the corridor and eased the door to, so gently that the latch hardly clicked.
+"Hang the blue cloth," he told Xavier. "I accept."
+
+Xavier went to see to it himself, and Thad went with him. They slipped out to the corridor and eased the door to, so gently that the latch hardly clicked.
 
 Bal's head dropped back onto the pillow. The letter slid off his fingers onto the quilt and lay there, half rolled up again.
 
