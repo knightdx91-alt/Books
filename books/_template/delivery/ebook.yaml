@@ -18,6 +18,11 @@ cover: "delivery/cover/ebook-cover.jpg"   # RGB JPG, >=1600px short side, ratio 
 # subtitle: "Book One: <Subtitle>"                  # series entries usually want this
 # series_title: "<Series Name>"                     # default: STATE.yaml series.name
 # desc: "One-sentence description for the metadata."
+# revision: "r3"                                    # picks manuscript/full-manuscript-r3.md (overrides a REVISION file)
+# edition: "First Edition 2026"                     # copyright-page edition line; default "Ebook Edition"
+# copyright_extra:                                  # extra copyright-page lines (HTML), before the edition line
+#   - "All characters in this book are 18 years of age or older."
+#   - "Paperback ISBN 979-...<br/>Hardcover ISBN 979-..."
 
 # --- optional front/back matter ------------------------------------------
 # dedication: "For <name> &#8212;<br/>may this have been worth it."

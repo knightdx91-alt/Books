@@ -1,0 +1,44 @@
+# Sygl — SINGLE SOURCE for the production build.
+#
+#   python3 books/sygl-book/tools/assemble_manuscript.py     # chapters -> full-manuscript-<rev>.md
+#   python3 books/sygl-book/tools/build_interior.py          # print interior (paperback + hardcover)
+#   python3 tools/make_epub.py books/sygl-book               # EPUB
+#
+# Read by tools/make_epub.py (top-level keys) AND by the book's own
+# tools/build_interior.py / assemble_manuscript.py / make_placeholder_cover.py
+# (the top-level keys plus the `print:` block, which make_epub ignores).
+# Change the author, an ISBN or the revision HERE, once, and rebuild everything.
+# Paths are relative to this book folder.
+
+# --- identity (shared by print + ebook) ------------------------------------
+full_title: "Sygl"
+title: "Sygl"
+author: "Søren Stromberg"            # pen name — title page, copyright, running heads, EPUB creator
+publisher: "Søren Stromberg"
+year: 2026                            # copyright year
+language: "en"
+revision: "r1"                        # stamps full-manuscript-r1.md and the interior PDF names
+
+# --- ebook ------------------------------------------------------------------
+isbn: "EBOOK-ISBN"                    # PLACEHOLDER — the EBOOK ISBN (not a print one)
+isbn_hyphen: "EBOOK-ISBN"             # same, formatted for the copyright page
+cover: "delivery/cover/ebook-cover-PLACEHOLDER.jpg"   # PLACEHOLDER art — replace with the real front cover JPG
+out: "delivery/ebook/Sygl.epub"
+edition: "First Edition 2026 &#183; Ebook Edition"
+desc: "A one-handed orphan with no sygl finds Amelia, the imprisoned originator of the feared Blood sygl, sealed in the temple behind his orphanage for three thousand years. He bonds her as his familiar and walks her out into a school, a found family and a war."
+# Extra copyright-page lines, shared by the EPUB (make_epub copyright_extra) and the
+# print interior. The print ISBNs are listed alongside the ebook one.
+copyright_extra:
+  - "All characters in this book are 18 years of age or older."
+  - "Paperback ISBN PRINT-ISBN-PAPERBACK<br/>Hardcover ISBN PRINT-ISBN-HARDCOVER"
+
+# --- print (read by tools/build_interior.py; ignored by make_epub) ----------
+print:
+  isbn_paperback: "PRINT-ISBN-PAPERBACK"   # PLACEHOLDER
+  isbn_hardcover: "PRINT-ISBN-HARDCOVER"   # PLACEHOLDER
+  trim: {width: 5.0, height: 8.0}          # inches; paperback AND hardcover (case laminate) share ONE interior
+  interior: "B&W, cream paper"
+  paper_stock: cream50                     # IngramSpark cream 50#, 0.0025"/page (tools/compose_wrap.py PAPER_STOCKS)
+  margins: {inside: 0.8, outside: 0.55, top: 0.7, bottom: 0.7}   # inches; mirrored
+  running_heads: true                      # author on verso, title on recto
+  out_name: "Sygl-5x8-interior"            # -> delivery/production/Sygl-5x8-interior-<rev>.pdf

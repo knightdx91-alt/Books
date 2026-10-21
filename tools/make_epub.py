@@ -29,27 +29,55 @@ retailers read — it must be the EBOOK ISBN, not the print one.
 
 import os, re, zipfile, html, uuid, sys, datetime, argparse
 
-FONTWORDS = {"ONE":1,"TWO":2,"THREE":3,"FOUR":4,"FIVE":5,"SIX":6,"SEVEN":7,
-    "EIGHT":8,"NINE":9,"TEN":10,"ELEVEN":11,"TWELVE":12,"THIRTEEN":13,
-    "FOURTEEN":14,"FIFTEEN":15,"SIXTEEN":16,"SEVENTEEN":17,"EIGHTEEN":18,
-    "NINETEEN":19,"TWENTY":20}
-WORDTITLE = {v:k.title() for k,v in FONTWORDS.items()}
+# Chapter numbers are spelled out in the manuscript ("CHAPTER ONE",
+# "CHAPTER TWENTY-ONE", "CHAPTER NINETY-NINE"). Parsed generically, 1-99.
+_UNITS = ["", "ONE", "TWO", "THREE", "FOUR", "FIVE", "SIX", "SEVEN", "EIGHT", "NINE",
+          "TEN", "ELEVEN", "TWELVE", "THIRTEEN", "FOURTEEN", "FIFTEEN", "SIXTEEN",
+          "SEVENTEEN", "EIGHTEEN", "NINETEEN"]
+_TENS = ["", "", "TWENTY", "THIRTY", "FORTY", "FIFTY", "SIXTY", "SEVENTY",
+         "EIGHTY", "NINETY"]
+
+
+def int_to_words(n):
+    """1..99 -> 'ONE' .. 'TWENTY-ONE' .. 'NINETY-NINE' (upper case)."""
+    if 1 <= n < 20:
+        return _UNITS[n]
+    if 20 <= n < 100:
+        t, u = divmod(n, 10)
+        return _TENS[t] + ("-" + _UNITS[u] if u else "")
+    raise ValueError(f"chapter number out of range: {n}")
+
+
+FONTWORDS = {int_to_words(n): n for n in range(1, 100)}   # "TWENTY-ONE" -> 21
+WORDTITLE = {v: k.title() for k, v in FONTWORDS.items()}  # 21 -> "Twenty-One"
+
+# One heading regex for the parser: CHAPTER + a number word, optionally hyphenated
+# (TWENTY-ONE), with an en/em dash or space tolerated as the joiner.
+CHAPTER_RE = re.compile(r"^CHAPTER\s+([A-Z]+(?:[-\u2010\u2013\u2014 ][A-Z]+)?)\s*$")
+
+
+def chapter_number(word):
+    """'TWENTY-ONE' / 'TWENTY ONE' / 'TWENTY\u2013ONE' -> 21; unknown -> 0."""
+    return FONTWORDS.get(re.sub(r"[\u2010\u2013\u2014 ]", "-", word.strip().upper()), 0)
 
 def parse(path):
     lines = open(path, encoding="utf-8").read().split("\n")
     chapters=[]; i=0
-    while i < len(lines) and not re.match(r"^CHAPTER\s+[A-Z]+\s*$", lines[i].strip()):
+    while i < len(lines) and not CHAPTER_RE.match(lines[i].strip()):
         i+=1
     while i < len(lines):
-        m=re.match(r"^CHAPTER\s+([A-Z]+)\s*$", lines[i].strip())
+        m=CHAPTER_RE.match(lines[i].strip())
         if not m: i+=1; continue
         word=m.group(1); i+=1
         while i<len(lines) and not lines[i].strip(): i+=1
         title=lines[i].strip() if i<len(lines) else ""; i+=1
         buf=[]
-        while i<len(lines) and not re.match(r"^CHAPTER\s+[A-Z]+\s*$", lines[i].strip()):
+        while i<len(lines) and not CHAPTER_RE.match(lines[i].strip()):
             buf.append(lines[i]); i+=1
-        chapters.append((FONTWORDS.get(word,0), title, "\n".join(buf)))
+        n=chapter_number(word)
+        if not n:
+            print(f"warn: unrecognised chapter number word: CHAPTER {word}", file=sys.stderr)
+        chapters.append((n, title, "\n".join(buf)))
     return chapters
 
 def inline(s):
@@ -128,7 +156,8 @@ def build_epub(cfg):
         "products of the author&#8217;s imagination or are used fictitiously.",
         "No part of this book may be reproduced without written permission from "
         "the author, except for brief quotations in a book review.",
-        "Ebook Edition",f"ISBN {cfg['isbn_hyphen']}",cfg.get("publisher") or cfg["author"]]
+        *(cfg.get("copyright_extra") or []),
+        cfg.get("edition") or "Ebook Edition",f"ISBN {cfg['isbn_hyphen']}",cfg.get("publisher") or cfg["author"]]
     cp='<div class="cp">'+"<br/><br/>".join(cp_lines)+"</div>"
     items.append(("copyright","copyright.xhtml", xhtml("Copyright",cp), "application/xhtml+xml", True, None))
     # dedication
@@ -242,8 +271,8 @@ def _load_yaml(path):
         return yaml.safe_load(fh) or {}
 
 
-def _find_manuscript(book):
-    """Newest assembled manuscript; a REVISION file, if present, decides."""
+def _find_manuscript(book, rev=None):
+    """Newest assembled manuscript; a `revision` config key or a REVISION file decides."""
     d = os.path.join(book, "manuscript")
     if not os.path.isdir(d):
         return None
@@ -251,10 +280,11 @@ def _find_manuscript(book):
     if not cands:
         return None
     rev_file = os.path.join(book, "REVISION")
-    if os.path.isfile(rev_file):
+    if not rev and os.path.isfile(rev_file):
         rev = open(rev_file, encoding="utf-8").read().strip()
+    if rev:
         for c in cands:
-            if rev in c:
+            if re.search(re.escape(rev) + r"(?![0-9])", c):   # r1 must not match r10
                 return os.path.join("manuscript", c)
     return os.path.join("manuscript", cands[-1])
 
@@ -276,7 +306,7 @@ def build_config(book, overrides=None):
     cfg.setdefault("desc", proj.get("premise") or "")
     if series.get("name"):
         cfg.setdefault("series_title", series["name"])
-    cfg.setdefault("manuscript", _find_manuscript(book))
+    cfg.setdefault("manuscript", _find_manuscript(book, cfg.get("revision")))
     cfg.setdefault("out", os.path.join("delivery", "ebook",
                                        re.sub(r"[^A-Za-z0-9]+", "-", cfg["title"]).strip("-") + ".epub"))
 
@@ -299,7 +329,14 @@ def build_config(book, overrides=None):
         if not os.path.isfile(cfg[key]):
             sys.exit(f"error: {key} not found: {cfg[key]}")
 
-    cfg["isbn"] = str(cfg["isbn"]).replace("-", "")
+    # Strip hyphens from a real ISBN; leave a placeholder (e.g. "EBOOK-ISBN") readable.
+    digits = str(cfg["isbn"]).replace("-", "").replace(" ", "")
+    if re.fullmatch(r"\d{9}[\dXx]|\d{13}", digits):
+        cfg["isbn"] = digits
+    else:
+        cfg["isbn"] = str(cfg["isbn"])
+        print(f"warn: isbn '{cfg['isbn']}' is not a real ISBN (placeholder?) — "
+              "do not ship this build", file=sys.stderr)
     return cfg
 
 

@@ -192,6 +192,14 @@ Input is an assembled single-file manuscript using `CHAPTER ONE` headings — wh
 per-book `assemble_manuscript.py` produces. If `manuscript` isn't set, the newest
 `manuscript/full-manuscript*.md` is used, or the one matching a `REVISION` file.
 
+Chapter headings are spelled-out numbers, `CHAPTER ONE` through `CHAPTER NINETY-NINE`
+(compound numbers hyphenated: `CHAPTER TWENTY-ONE`). An unrecognised number word is
+reported rather than silently merged into the previous chapter, which is what the old
+ONE–TWENTY table did to every chapter past twenty. Optional config keys: `revision`
+(selects `full-manuscript-<rev>.md`), `edition` (the copyright-page edition line) and
+`copyright_extra` (extra copyright-page lines, e.g. an 18+ statement or the print ISBNs).
+A placeholder ISBN is kept as written and warned about; a real one is normalised.
+
 **The `isbn` must be the EBOOK ISBN**, not the print one: it becomes the EPUB's package
 identifier, which is what retailers read.
 
