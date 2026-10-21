@@ -70,7 +70,7 @@ They were not the only ones on the road. Students in their own clothes were stru
 
 "Were either of you going to the village for something in particular?" Bal asked. "Or was it to get out of the castle?"
 
-"Shops, honestly." Viridia patted a pocket of her vest, which clinked. "I brought some money in case I see something I want."
+"Shops." Viridia patted a pocket of her vest, which clinked. "I brought some money in case I see something I want."
 
 "What about you?"
 
@@ -94,7 +94,7 @@ Bal's eyes went to Viridia again. She mouthed *yes* at him and did not bother to
 
 Bal laughed. "It's fine. We'll stop by anyway."
 
-The road was long and then it kept on being long. A farmer's cart passed them with a dog asleep on a load of turnips. When the first roofs showed through the trees ahead, the sun was high, and Bal was hungry again.
+The road was long and then it kept on being long. A farmer's cart passed them with a dog asleep on a load of turnips. When the first roofs showed through the trees ahead, the sun was high, and breakfast felt like yesterday.
 
 ---
 
@@ -362,7 +362,7 @@ Lora blushed to the roots of her hair. Bal tried Viridia instead.
 
 Lora saw she was not going to change either of their minds, and gave in.
 
-"Honestly, I like 'The Heirs,'" she said. "But that seems kind of boring. I only thought of it because we're all different sygls."
+"I like 'The Heirs,'" she said. "But that seems kind of boring. I only thought of it because we're all different sygls."
 
 "It's not bad, though." Viridia tapped her chin. "What about..." She stopped, and the tapping stopped. "Sygls Best."
 
@@ -446,7 +446,7 @@ Viridia laughed out loud.
 
 She put her forehead down on the table.
 
-"I wonder if anyone else has figured that out," she said to the tabletop. "All the other Lead Mages are fourth years. And here you are, the first Lead Mage in history that's a first year." She sat up again. "Ours is a jerk. He doesn't allow loud talking in the common room. No kissing. And he honestly tries to make us keep a study time."
+"I wonder if anyone else has figured that out," she said to the tabletop. "All the other Lead Mages are fourth years. And here you are, the first Lead Mage in history that's a first year." She sat up again. "Ours is a jerk. He doesn't allow loud talking in the common room. No kissing. And he actually tries to make us keep a study time."
 
 Bal heard very little after the second one.
 

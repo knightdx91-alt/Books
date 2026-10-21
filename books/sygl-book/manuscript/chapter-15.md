@@ -44,7 +44,7 @@ It filled from the bottom, as it always did, white climbing the inside of the cu
 
 "I gave her a Dawn card," he said. "A team card, with her name on the back. I think what hit her so hard, though, was that I put her down as Amelia Norheart."
 
-Lora stopped with her mouth open on the roll. Then she bit and chewed and went on chewing.
+Lora stopped, the roll forgotten in her hand. Then she bit and chewed and went on chewing.
 
 "Why do you think it hit her that hard?" she asked, once she could.
 

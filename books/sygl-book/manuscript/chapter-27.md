@@ -254,7 +254,7 @@ He went as quietly as he could, crouched, from trunk to trunk. He kept waiting f
 
 The trees thinned. Bal left them still crouched, and found himself a few yards from a raised wooden platform, as high as a tall man's shoulder, with the two storm mages standing on top of it.
 
-The two men on top of it were trying to kill his soldiers.
+From up there, the pair of them were killing his soldiers one bolt at a time.
 
 He watched the field in front of them one more breath. Then he called the blood.
 

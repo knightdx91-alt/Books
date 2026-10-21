@@ -78,7 +78,7 @@ Thad was right. The blood sygl army did not have the men to go on fighting Raize
 
 Xavier answered him. He had been waiting to.
 
-"We have to send in a force to eliminate the priests. Then the High Priest. That is our only chance. Our spies have learned that Aleric, one of Raizen's regular priests, has already started for Londra. He's easy to know. He has an old scar that runs down over the right eye. The three of them meet in a week's time, at the Three Boars Inn."
+"We have to send in a force to eliminate the priests. Then the High Priest. That is our only chance. Our spies have learned that Aleric, one of Raizen's regular priests, has already started for Londra. The three of them meet in a week's time, at the Three Boars Inn."
 
 There was a map under the reports. Bal pulled it out and drew it to him, and found the canyon, and then the town.
 
@@ -160,7 +160,7 @@ He had a single sheet in front of him now, written front and back. He read from 
 
 "Londra is a medium-sized city. It sits almost directly south of Pashar. Our spies think that's one reason the priests picked it. It's about central to each of their stations. The Three Boars is in the northwest of the city. It mostly caters to the upper class. When the priests come into town, they take the whole back half of the inn to do their business."
 
-"The inn gets a delivery of ale every other Wednesday," Xavier went on. "This coming one falls on the day the priests should arrive. That might be something you can use. The innkeeper might be open to a bribe. Our people couldn't tell either way. The guard in Londra is about what you'd expect for a city that size. They step up the patrols while the priests are visiting."
+"The inn gets a delivery of ale every other Wednesday," Xavier went on. "This coming one falls on the day the priests should arrive. That might be something you can use. The innkeeper might be open to a bribe. Our people couldn't tell either way. The guard in Londra is about what you'd expect for a city that size. They step up the patrols while the priests are visiting. Aleric is the one you'll know on sight. He has an old scar that runs down over the right eye."
 
 "Rooms are waiting for you at the Winespring Inn," he added. "Lady Amelia wrote ahead to arrange them."
 

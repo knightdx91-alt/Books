@@ -138,7 +138,7 @@ Runes.
 
 That was it.
 
-He took the cup. It was turned wood, small and smooth, varnished dark. He lowered it below the edge of the bar, out of the barman's sight, out of everybody's sight, and held it upside down in the left.
+He took the cup. It was turned wood, small and smooth, varnished dark. He lowered it below the edge of the bar, out of the barman's sight, out of everybody's sight, and held it upside down, left-handed.
 
 His other palm, the right, split open by itself. A thread of blood slid from the split and drew itself together and hardened into a blade no longer than his little finger, thin and sharp and dark red.
 

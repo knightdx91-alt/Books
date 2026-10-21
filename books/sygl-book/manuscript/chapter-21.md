@@ -82,7 +82,7 @@ He backed off a pace and touched the blood on his sleeve. When he spoke again hi
 
 "I was told to just kill you. But I think I'll enjoy myself afterward. Those pretty girls of yours." He waved his sword toward the lake, toward the sound of nothing, the girls asleep in the sun. "They're nearby, aren't they?"
 
-Bal's blood ran cold.
+Something in Bal went very still.
 
 Lora, with the dent on her nose. Viridia's hand open on the rock.
 
