@@ -2043,7 +2043,8 @@ meta:
       prose: "Mara, in Myrrhine's dress, on the Lechaion road: 'I have to make water.' (p246); 'There is a latrine.' … 'Behind those shops. There was a sign.' (p248); inside, 'on the long seat, already, a fat man in a festival wreath sat elbow to elbow with two of the athletes'; 'None of them gave me a glance.'; 'I took the nearest place' (p249); the fat man asks her about the javelin (p250-p252)"
       line: "ch-17:p246; ch-17:p248; ch-17:p249; ch-17:p250; ch-17:p252; ch-07:p36; ch-14:p37"
       note: "the page has a woman use a men's public latrine on a festival day and nobody react. Compatible if the Ch.7 rule is Delphi's (a small town, as Kallia shows it) and not the colony's, or if a stranger in a games-day crowd passes unremarked; the page says neither. The same scene stood on the d6b3291 page and the Ch.17 UPDATE did not log it (found in this re-sync). Recorded, not judged"
-      flag: "UNRESOLVED"
+      resolution: "author request 2026-10-21: the scene is now a cookshop on the Lechaion road. Mara pays the woman at the counter an obol and uses the pot in the yard behind the curtain; the fat man's javelin question comes through the curtain; Valens waits at the counter. Public latrines stay men's ground (Ch.7); women use pots indoors (Ch.7, Ch.14) or pay a keeper. Fortuna's latrine is off the page."
+      flag: "RESOLVED"
   ch10_requested_checks:
     # Checks the orchestrator asked for in the Ch.10 run. Results only; nothing is resolved here.
     - check: "Kallia's age against Ariston's service and discharge"
