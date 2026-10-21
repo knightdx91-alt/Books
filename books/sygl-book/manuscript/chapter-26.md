@@ -1,11 +1,11 @@
 # Chapter Twenty-Six: Together
 
 <!-- SCENE BUDGET (Target 1,700): off the road, soft ground, the leaves, last cover 300 | no fire, bread and jerky, the silence, waiting 300 | "Thank you, Bal", "so scared", Lora's hand, the poison, the still hair, the consolation 450 | the breakdown, the twigs, the priests, six tomorrow, Toma 300 | Viridia asleep, the night talk, "together", sleep 400 -->
-<!-- Word count: ~1,700 prose | Target: 1,700 (range 1,500-2,000) | Anchor: Lora's hand on his cheek | Hook: an easy morning ahead -->
+<!-- Word count: ~1,630 prose | Revision: 1 (F1-F12, 2026-10-21) | Target: 1,700 (range 1,500-2,000) | Anchor: Lora's hand on his cheek | Hook: an easy morning ahead -->
 
 It was well after nightfall when they finally pulled up.
 
-They had galloped until the horses could not, and walked them until they could again, and the road had faded from yellow to gray to almost nothing under a thin slice of moon. They had passed one farmhouse with a light in the window, miles back, and beyond it, grass and more grass and the wind moving through it. The black was blowing hard. Twice it stumbled on ruts too dark to see. When a clump of trees rose out of the dark beside the road, Bal turned off toward it, and Lora and Viridia followed without asking why.
+They had galloped until the horses could not, and walked them until they could again, and the road had faded from yellow to almost nothing under a thin slice of moon. They had passed one farmhouse with a light in the window, miles back, and beyond it, grass and more grass and the wind moving through it. The black was blowing hard. Twice it stumbled on ruts too dark to see. When a clump of trees rose out of the dark beside the road, Bal turned off toward it, and Lora and Viridia followed without asking why.
 
 The ground in among the trunks was soft. The hooves sank into it with hardly a sound, and fallen leaves lay over everything so thick that they covered the tracks almost as fast as the horses made them. Bal led them in until the road was gone behind them. From what he remembered of the ride in, this was the last real cover they would have until Amelia's territory. After this it was open grass clear to her border.
 
@@ -17,15 +17,15 @@ He swung down. His legs had quit belonging to him an hour or two back, and he st
 
 Viridia was down off her horse first. She had nothing to add.
 
-The girls saw to the saddlebags. Bal walked back out to where the trunks thinned and stood a while, watching the road. It ran off pale in both directions until the night swallowed it. Nothing moved on it. No hoofbeats, no lantern, nobody shouting. The priests would still be at their table, most likely, with Titus pounding on it and Leon trying to finish his goat story. He returned to the horses.
+The girls saw to the saddlebags. Bal walked back out to where the trunks thinned and stood a while, watching the road. It ran off pale in both directions until the night swallowed it. Nothing moved on it. No hoofbeats, no lantern, nobody shouting. The priests would be sleeping off the brandy by now, most likely, and Leon would never finish his goat story. He returned to the horses.
 
 They tied the horses where there was something to crop and spread the bedrolls on the leaves. Lora dug the bread out of a saddlebag, and the dried jerky after it, and passed it around. Viridia took her share and kept quiet. On any other night she'd have made some crack about eating supper in the dark like a pack of bandits. The bread was hard. The jerky was tough and salty and Bal ate it anyway.
 
-It was cold in the wood once they were off the horses. The leaves under his bedroll crunched whenever he moved. One of the horses stamped and blew, and somewhere farther in, something small went pattering off through the undergrowth and was gone. Lora ate in small bites, half turned toward Viridia throughout, and forgot about the jerky in her other hand.
+It was cold in the wood once they were off the horses. The leaves under his bedroll crunched whenever he moved. One of the horses stamped and blew, and somewhere farther in, something small went pattering off through the undergrowth and was gone. Lora ate in small bites, half turned toward Viridia throughout.
 
 Nobody talked.
 
-Viridia had her knees pulled up on her bedroll and a piece of bread in one hand that she wasn't eating. Even by starlight the day showed on her. At noon she had taken a seat among Raizen's priests expecting to be dead by tomorrow night. Then, out on the step, she had learned she wouldn't be. Bal couldn't guess what that did to a person, but it couldn't be nothing.
+Viridia had a piece of bread in one hand that she wasn't eating. Even by starlight the day showed on her. At noon she had taken a seat among Raizen's priests expecting to be dead by tomorrow night. Then, out on the step, she had learned she wouldn't be. Bal couldn't guess what that did to a person, but it couldn't be nothing.
 
 He chewed his bread and waited. She would talk when she was ready.
 
@@ -49,11 +49,11 @@ Lora got up and crossed the leaves and settled on Viridia's bedroll, right besid
 
 Her hair lay still.
 
-Bal had not noticed until then. In all the months since the day they'd met, he could not remember it ever being quiet. It snapped when her nerves were up, it fizzed when she laughed, and on the long dry days on the road the ends lifted off her collar all by themselves and drifted, like they had somewhere to be. He had stopped seeing it, the same as a person stops hearing a clock.
+Bal had not noticed until then. In all the months since the day they'd met, he could not remember it ever being quiet for long. It snapped when her nerves were up, it fizzed when she laughed, and on the long dry days on the road it drifted about her collar all by itself, like it had somewhere to be. He had stopped seeing it, the same as a person stops hearing a clock.
 
 Tonight it lay down flat on her shoulders and did not stir. Nothing ran along it. Nothing popped. In the dark it could have been anybody's hair.
 
-"Still," Viridia said. "Those priests couldn't go free. I had to." She drew a shaky breath. "My only consolation was that you and Lora would get away."
+"Still," Viridia said. "Those priests couldn't go free. I had to." "My only consolation was that you and Lora would get away."
 
 Her fingers tightened on Lora's, and her mouth tried for a smile and gave up halfway.
 
@@ -61,9 +61,9 @@ Her fingers tightened on Lora's, and her mouth tried for a smile and gave up hal
 
 Lora gathered her in.
 
-That was what did it. The day was done, and whatever had been holding Viridia up through the priests' table and the city gate and all those miles of grass gave way. She folded into Lora and cried. Big, ragged, gulping sobs that shook the two of them together. Over by the trunks one of the horses lifted its head at the noise, decided the noise was none of his business, and dropped its nose to the grass again. Some of it was fear, still. More of it was relief. Bal heard that in it too. She was alive, and it had only now reached her.
+That was what did it. The day was done, and whatever had been holding Viridia up through the priests' table and the city gate and all those miles of grass gave way. She cried. Big, ragged, gulping sobs that shook the two of them together. Over by the trunks one of the horses lifted its head at the sound, decided it was none of its business, and dropped its nose to the grass again. Some of it was fear. More of it was relief. Bal heard that in it too. She was alive, and it had only now reached her.
 
-Lora rocked her, slow, the way you'd rock a much smaller child, and murmured close to her ear, a steady murmur Bal couldn't catch a word of.
+Lora murmured close to her ear, a steady murmur Bal couldn't catch a word of.
 
 Bal kept to his bedroll and broke twigs.
 
@@ -71,17 +71,17 @@ The ground was covered in them. He snapped one into short pieces and dropped the
 
 He would have killed each of those priests with his bare hands for making her feel this. He would have been happy to. His hands closed on nothing and opened and closed again, and he could nearly feel Aleric's neck in them.
 
-The only comfort he had was that by around six tomorrow night, the three of them would be dead.
+The only comfort he had was that by around six tomorrow night, those priests would all be dead.
 
 After that, there was the High Priest. Toma hardly ever left Pashar, and getting to him there would be hard.
 
 ---
 
-Viridia's crying wore down to hiccups, and the hiccups to long shaky breaths, and then she was quiet. Lora slid free of her and shifted over to make room so Viridia could lie down. She drew the blanket up to Viridia's chin.
+Viridia's crying wore down to hiccups, and the hiccups to long shaky breaths, and then she was quiet. Lora slid free of her and made room on the bedroll. She drew the blanket up to Viridia's chin.
 
 Past Lora's shoulder, Viridia found Bal. She gave him a tired little smile. It looked like all she had left. She was asleep before Lora had the blanket straight.
 
-Bal and Lora stayed up talking, low, about the day and what they might have to do next. Lora had gone back across to her bedroll. She sat with her legs folded under her and her hands resting on her knees, and the starlight that got in past the branches caught her glasses. Her face was harder to read than usual. She had been holding Viridia up for an hour, and before that she had spent the whole afternoon at her little table, sipping water she couldn't taste, white and silent.
+Bal and Lora stayed up talking, low, about the day and what they might have to do next. Lora had gone back across to her bedroll. She sat with her legs folded under her and her hands resting on her knees, and the starlight that got in past the branches caught her glasses. Her face was harder to read than usual. She had been holding Viridia up for an hour, and before that she had spent all of that lunch at her little table, sipping water she couldn't taste, white and silent.
 
 "You know going after Toma's going to be worse than this," she said. "One of ours almost died today, and we didn't even get into a fight. Imagine what could happen next time."
 
@@ -111,10 +111,10 @@ Lora leaned across the gap between their bedrolls and laid her hand along his ch
 
 "We'll figure it out," Lora told him. "Together."
 
-Bal closed his eyes and leaned into her hand, and while her hand stayed there he did not think about Toma or Pashar or anything else. Opening them again, he smiled at her.
+Bal closed his eyes, and while her hand stayed there he did not think about Toma at all. Opening them again, he smiled at her.
 
 "We should try and sleep," he said.
 
-Lora lay down and pulled her blanket up. Bal stretched out on his own bedroll, with the leaves crackling under him, and listened to the two of them breathing, one soft snore and one not. Through a gap overhead a handful of stars showed. Nobody had followed them down the road all night. Somewhere out toward it an owl started up, gave it three tries, and quit.
+Lora pulled her blanket up. On his own bedroll, with the leaves crackling under him, Bal listened to the two of them breathing, one soft snore and one not. Through a gap overhead a handful of stars showed. Nobody had followed them down the road all night. Somewhere out toward it an owl started up, gave it three tries, and quit.
 
 In the morning they could take their time.
