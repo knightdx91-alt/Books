@@ -1,11 +1,11 @@
 # Chapter Twenty-One: Strawberries
 
 <!-- SCENE BUDGET (Target 3,400): Hopper, the swim, the girls, the doze 560 | waking, Lora, Viridia's hand, the woods, the patch 430 | the branch, Iro, the talk, the cuts, "pretty girls" 650 | the legs, the punch, the kicks, the whip, "It's Iro", the ring, the close 560 | the shirt, Lora, the wounds, the potion, "already dead", Amelia goes 470 | forty minutes, the laugh, the council as she tells it 560 | the questions, the loophole, clothes, the temple 170 -->
-<!-- Word count: ~3,310 | Target: 3,400 (range 3,100-3,800) | Anchor: strawberries in a ruined shirt | Hook: the temple abuzz -->
+<!-- Word count: ~3,270 | Revision: 1 (F1-F15 applied, 2026-10-21) | Target: 3,400 (range 3,100-3,800) | Anchor: strawberries in a ruined shirt | Hook: the temple abuzz -->
 
 Hopper would not go in.
 
-Bal tried her from the shallows first. He stood in the lake up to his knees and slapped the water and called her, and she stood on the warm rock at the edge and considered him. Then she considered the lake, from the near rocks all down its length to the far reeds, and lay down where she was and laid her muzzle across her paws.
+Bal tried her from the shallows first. He waded into the lake up to his knees and slapped the water and called her, and she considered him from the warm rock at the edge. Then she considered the lake, from the near rocks all down its length to the far reeds, and lay down where she was and laid her muzzle across her paws.
 
 "It's dead," Viridia told her, wading past with her elbows held high above the cold water. "I killed it. You were there."
 
@@ -13,9 +13,9 @@ Hopper's ears did not move.
 
 A week ago there had been a snake in this water as big as a barn. Today there was a dragonfly, and a breeze puckering the surface out in the middle. Bal could not blame her. He gave up and went under.
 
-The cold drove the breath out of him and then let it back in. He came up shouting, which Viridia thought was hilarious, and for a while after that he forgot about Hopper and everything else. They raced to a rock out in the shallows and argued about who had touched it first. Lora floated on her back with closed eyes and her glasses left safe on her towel, and drifted into Viridia, who splashed her. He dived for a stone Amelia dropped and surfaced with the wrong one, and she told him so.
+The cold drove the breath out of him and then let it back in. He came up shouting, which Viridia thought was hilarious, and for a while after that he forgot about Hopper and everything else. They raced to a rock out in the shallows and argued about who had touched it first. Lora floated on her back with her glasses left safe on her towel, and drifted into Viridia, who splashed her. He dived for a stone Amelia dropped and surfaced with the wrong one, and she told him so.
 
-When his fingers had gone wrinkled he climbed out and stretched himself along the rock beside Hopper, still at her post. The stone was hot through his back. Hopper put her nose against his wet shoulder, once, as if to say he should have listened, and resumed guarding the water.
+When his fingers had gone wrinkled he climbed out and joined Hopper on the rock, still at her post. The stone was hot through his back. Hopper put her nose against his wet shoulder and resumed her watch on the water.
 
 He kept her company.
 
@@ -31,21 +31,21 @@ The sun was very hot. The girls' voices carried across the lake and back, and so
 
 He woke to snoring.
 
-It was soft, a small catch at the top of every breath. He opened his eyes and Lora's sleeping face was inches from his own. She had left the water while he slept and lain down beside him, and her lashes were still wet. She had a dent in her nose where the glasses usually sat.
+It was soft, a small catch at the top of every breath. He opened his eyes and Lora's sleeping face was inches from his own. She had left the water while he slept and come to share his rock, and her lashes were still wet. She had a dent in her nose where the glasses usually sat.
 
-He leaned the inch and kissed her forehead, lightly. Her mouth curved for a second in her sleep and then forgot to.
+He closed the inch and kissed her forehead, lightly. She smiled for a second in her sleep and then forgot to.
 
-Bal eased himself upright to see where the others had gone.
+Bal lifted his head to see where the others had gone.
 
 Amelia was curled up against his left side, neat and small, her back to the sun. Viridia was stretched out above his head the long way, flat on her stomach, one arm flung out. Her right hand rested palm-up on the rock exactly where his head had been, reaching for it.
 
-He bit down on the noise that wanted out of him and stood without waking anybody.
+He bit down on the noise that wanted out of him and got clear of them without waking anybody.
 
 The sun had crossed most of the sky. Hours, he guessed. His stomach agreed. The last time they were here, the day of the snake, he had seen a patch of strawberries on the edge of the woods, red under the leaves, and nobody had had time to stop.
 
 Did strawberries even grow wild this late? Would they all be eaten by birds? Would Amelia eat one, if he brought her one? He couldn't remember her eating fruit. He couldn't remember her refusing any, either.
 
-He pulled on his shirt and pants. He caught Hopper's eye and pointed at the girls, and Hopper thumped her tail once against the rock, which meant yes. He climbed the slope to the woods still buckling on his rapier.
+He pulled on his shirt and pants. He caught Hopper's eye and pointed at the girls, and Hopper thumped her tail against the rock. He climbed the slope to the woods still buckling on his rapier.
 
 The woods were not thick. The trunks stood well apart, and the light came down between them in long slanting bars, but in places the branches knitted overhead and the ground went dim and cool. Birds were singing somewhere above him and kept on singing while he walked under them. He went slowly. The brambles caught at the legs of his pants as he waded through the weeds toward a flash of red he thought he had seen.
 
@@ -67,7 +67,7 @@ He wore woodsman's clothing, greens and browns that would vanish among the trees
 
 "Almost had you there," he said, conversationally.
 
-He came in fast. He slashed to the right and then up. Bal let the sword slide along his rapier's blade and twisted his wrist to wrench it out of the other's grip, as Lora had drilled him on a hundred mornings. His attacker pulled back before the move was finished, and laughed.
+He came in fast. He slashed to the right and then up. Bal let the sword slide along his rapier's blade and twisted his wrist to wrench it out of the other's grip, as Lora had drilled him all those mornings. His attacker pulled back before the move was finished, and laughed.
 
 "You'll have to do better than that," he said. "How you ever managed to kill Heath with sword work that shoddy, I can't imagine."
 
@@ -95,17 +95,17 @@ Lora, with the dent on her nose. Viridia's hand open on the rock.
 
 "Why, my High Priest, of course." He seemed surprised that he had to say so. "He sent Heath to kill you, but Heath was past his prime. Now it's my turn."
 
-He darted in again. He feinted right and swept low, for Bal's legs, and the blade bit into the meat of Bal's right thigh.
+He darted in again. He feinted right and swept low, and the blade bit deep into Bal's right thigh.
 
 Bal felt it. He let it happen. He gave one step back, only one, and swung his left fist into the man's face as hard as he had ever hit anything.
 
-The man had not been expecting that. Nobody kept fighting with a sword in his leg. His head snapped back and Bal kicked the sword free and hit him again. The man went scrambling after his weapon on hands and knees through the weeds, and Bal kicked him in the side, hard, and sent him into the tree behind him. He hit it with a sound like a dropped sack and slid to its foot.
+The man had not been expecting that. His head rocked back and Bal kicked the sword free and hit him again. The man went scrambling after his weapon on hands and knees through the weeds, and Bal kicked him in the side, hard, and sent him into the tree behind him. He hit it with a sound like a dropped sack and slid to its foot.
 
 The world got very quiet.
 
 Bal could think now.
 
-He turned the right palm out, and it parted down its middle, by itself, with no more fuss than a mouth opening. The blood left it already moving. It went low across the clearing and curled once around the fallen man's neck and drew snug there. Bal brought it in slowly, hand over hand without using his hands, and the man came with it across the ground on his heels. Then Bal lifted.
+He turned the right palm out, and it parted down its middle with no more fuss than a mouth opening. The blood left it already moving. It went low across the clearing and curled once around the fallen man's neck and drew snug there. Bal brought it in slowly, hand over hand without using his hands, and the man came with it across the ground on his heels. Then Bal lifted.
 
 The woodsman rose up the trunk of the tree until his boots were kicking a foot off the ground.
 
@@ -117,11 +117,11 @@ The man clawed at his throat. His nails scraped and scraped on the blood and fou
 
 "How many of you did he send? And how'd you track us here?"
 
-Iro had stopped fighting it. All the chatter had drained from him, and his face had turned young and scared.
+Iro had stopped fighting it. All the chatter had drained from him, and his face had gone young and scared.
 
 "Just me and Heath. I swear. The High Priest told us we were a long shot, so it didn't matter if we found you or not. Then one of the priests came to us the next day and said we'd be sent to wherever you were. They sent Heath first, because he had more experience. After you killed him, they decided to wait. Catch you off guard." It poured from him in a rush. "They only told me an hour ago that I was coming here. No idea how they knew. I swear that's all I know."
 
-Bal knew how. A red-gold heart on Heath's right hand, back on the Whitehaven road. Somebody on Raizen's side had been wearing its pair, and had felt it stop.
+How they had known Heath was dead, at least, Bal could guess. A red-gold heart on Heath's right hand, back on the Whitehaven road. Somebody on Raizen's side had been wearing its pair, and had felt it stop.
 
 Sweat was running down Iro's face into his collar. He had nothing left to hide behind. Bal saw it and knew he was telling the truth.
 
@@ -143,7 +143,7 @@ Bal dragged it off. He tied the sleeves together and knotted the tail, and knelt
 
 The berries bled through the cloth before he was halfway down. By the edge of the woods his forearm was sticky to the elbow, and which of the red on it was strawberry was anybody's guess.
 
-The girls were awake and talking when he reached the slope above the lake. Lora was sitting up with her glasses on again. She turned at the sound of him, lifted her hand to wave, and stopped with it in the air.
+The girls were awake and talking when he reached the slope above the lake. Lora's glasses were back on. She turned at the sound of him, lifted her hand to wave, and stopped with it in the air.
 
 She was up and running. Her long brown hair flew out behind her.
 
@@ -151,15 +151,15 @@ She was up and running. Her long brown hair flew out behind her.
 
 "Would you believe I fell on my rapier?"
 
-Viridia and Amelia came up behind her, and stopped.
+Viridia and Amelia came up behind her.
 
 Viridia took the knotted shirt from him and set it on the ground, so they could all see him properly. There was the long cut down his left side that was still oozing. There was a scatter of smaller ones over his chest and stomach he had not even felt go in. Viridia walked around him and found the one across his back, from his right shoulder to his left hip, and muttered something under her breath that Lora did not scold her for. There was the thigh. His pant leg was black with it to the knee. That was the one that was going to hurt most, now it had started hurting. The blade had gone through into the muscle.
 
-Amelia set a hand flat against his breastbone and sat him down on the grass.
+Amelia got him down onto the grass.
 
-Lora was in her pack. She bandaged him fast and tight, the side and the back and the worst of the small ones, and she kept the healing potion back for the thigh. When she poured it in, he hissed through his teeth, and Lora said "Good," fiercely, to nobody.
+Lora was in her pack. She bandaged him fast and tight, the side and the back and the worst of the small ones, and she kept the healing potion back for the thigh. When she poured it in, he hissed through his teeth, and Lora said "Good," fiercely, to the potion.
 
-Amelia had straightened up. She had turned toward the woods, and nothing friendly was left in her.
+Amelia was facing the woods, and nothing friendly was left in her.
 
 "It's no use," Bal said. "He's already dead."
 
@@ -179,9 +179,9 @@ She had done this before, gone off like that, unannounced. Bal hoped that this t
 
 Lora tied off the last bandage. She had used all the healing salve in the pot, and she held the empty pot upside down to show him, accusingly.
 
-He untied the shirt. The strawberries had held up better than he had. He split them into piles on the grass, and made one pile for Amelia and set it apart, on a flat stone where the ants would have to work for it.
+He untied the shirt. The strawberries had held up better than he had. He split them into piles on the grass, and made one pile for Amelia, on a flat stone where the ants would have to work for it.
 
-They sat by the lake and ate and talked and waited for her. Hopper lay against his good leg. Viridia wanted the whole fight again from the beginning, and he told it to her again, more slowly. She ate three of his strawberries while he did, without seeming to notice, and when he mentioned it she called them her fee for listening. Lora had no wish to hear it and listened anyway, and twice she leaned across and retied the knot on his thigh bandage, which had been fine both times.
+They ate by the lake and talked and waited for her. Hopper had her chin on his good leg. Viridia wanted the whole fight again from the beginning, and he told it to her again, more slowly. She ate three of his strawberries while he did, without seeming to notice, and when he mentioned it she called them her fee for listening. Lora had no wish to hear it and listened anyway, and twice she retied the knot on his thigh bandage, which had been fine both times.
 
 The strawberries were warm and a little squashed and they were good.
 
@@ -223,7 +223,7 @@ Bal waited.
 
 "And then?" Viridia said.
 
-"Then, as I turned to go, Aren wished me good luck." Amelia still sounded amazed by it. "I think that surprised me more than anything."
+"Then, as I turned to go, Aren wished me good luck." Amelia sounded amazed by it. "I think that surprised me more than anything."
 
 ---
 
