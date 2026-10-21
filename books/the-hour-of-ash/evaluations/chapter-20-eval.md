@@ -693,3 +693,377 @@ None of them is pointed at.
 - The orchestrator applies the script, confirms md5 `d650c6c5…`, and runs the confirmation re-evaluation before CHECKPOINT 4.
 
 **BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis). The Casual 9.0 and Emotion 9.0 rest heavily on the fountain. A human reader may find the pebble more or less earned than I do, and a romance-first reader may rate a montage chapter with a light heart-load lower.
+
+---
+---
+
+# Re-evaluation after cycle 1
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Date:** 2026-10-21
+**Text evaluated:** `manuscript/chapters/chapter-20.md`, md5 `d650c6c57f4d671f62976c2276fb14c7`. This is **byte-identical to the tested output of the 41-swap set above**, so all 41 swaps are on the page exactly as tested. It runs **7,785 words** by shape_check (7,811 style, 7,814 show_tell, 8,558 `wc -w`). Dialogue is **35.2%**.
+**Read against:**
+- the book's CLAUDE.md;
+- STATE.yaml AUTHOR-CP3-3 and AUTHOR-END-1;
+- `feedback/progress.md`: the Ch.20 brief and the "seam" ruling;
+- voice-dna §0–§8;
+- character-bible.md:
+  - the at-risk blocks after Ch.18, 19 and 20, and the at-risk table;
+  - the cards for GRATA, ZOSIMUS, FELIX and VALENS, and their Ch.20 lines;
+  - the Ch.20 walk-on block;
+- outline `## Chapter 20` and Ledger row 20;
+- the cycle-0 evaluation above.
+
+**Gates on the page as it stands** (`bash books/the-hour-of-ash/tools/check_chapter.sh 20`, run from /home/user/Books): **clean on every gate.**
+- style: simile 1.4/1k, em-dash 0, foreshadow 0;
+- grammar 0; rhythm 0;
+- show/tell: no flags, 35.2%;
+- voice-wear strict: clean;
+- tic gate: clean (and-chains 2/9, credential 1, pivots 0, gesture classes under cap);
+- echo 0; command echoes none; spoken-line echoes none;
+- metaphor 1.8/1k, median 15;
+- `shape_check --strict`: `20 7785 6 35 16 narrative dialogue`, CLEAN.
+- `tic_report.py --echoes 20`: none / none / none.
+
+## Verification of the 41 swaps (does the polish introduce anything new?)
+**Method.**
+- I diffed the cycle-0 page (md5 `59c35189…`) against this page at sentence level and found 37 changed sentences.
+- Every changed sentence went through four checks:
+  1. a 3–7-gram scan against Ch.1–19 and all 13 voice-bank samples, stop-word-bounded strings included;
+  2. an in-chapter repeat count;
+  3. a whole-spoken-line scan (every spoken sentence of ≤6 words against all earlier speech);
+  4. a by-hand read for explanation and triads.
+
+| Check | Result |
+|---|---|
+| **Cycle-0 law cluster gone?** | **Yes**, verified string by string on the page, every count 0:<br>• sample-07 ("put my hand out" / "put out my hand" / "my hand went");<br>• sample-11 "came for it";<br>• sample-10 "It will hold"; sample-08 "up there in this"; sample-02 "the face of a";<br>• the carts hold; Ch.9's "as high as" / "gone soft" on a wall; Ch.3's gloss on the lamp;<br>• Ch.18's "in the hair of his"; Ch.19's finder "on the left"; Ch.15's "held still for"; Ch.19's "with a ladle";<br>• "Not tomorrow" and the wasp line; "What's in it"; "Twice" as a reply; "a while";<br>• the empty-jar spill; "next woman"; "two molars"; "his cup out".<br>What remains is within its caps: payments 3, each worded fresh; "black finger" 1; "brought the faces" 1 (the bowl); tool-tip frames 2; "dusk" 3. |
+| **Added explanation** | **None.** #11 stays at 3 firm (0.39/1k). R8's "Round the filling hole the clay was black from his thumb." carries no extension, and C5 removed one. |
+| **New triad** | **None.** R14's process line is a two-step. C5's "small and dry and gray" is the designed pair carried over from cycle 0. |
+| **Cross-chapter echo (gate)** | none / none / none. |
+| **Cross-chapter echo (my n-gram pass)** | **No 4+-gram from any swap matches Ch.1–19 or the voice bank.** The 4-gram hits in the changed sentences ("the price of a", "I stood in the", "with my back to the", "fold of his tunic and"…) all sit in words the swaps did not touch. |
+| **Borrowed whole spoken lines** | **None.** "What's she sent?", "Anything you put in it.", "In this rain.", "The furnace man at the baths." and "It buried my wife's mother," … "and after her a horse." match no earlier speech. |
+| **Repeats moved sideways** | **Three small ones made by the swaps, and two cycle-0 items left standing. None reaches the floor.** All five are fixed below.<br>• **R5** put a third "cry" into eight lines ("I was crying." / "The crying heaved…" / "the boy watched me cry."). It re-narrates the stopping line → **F9**.<br>• **R9b** put "on the pier" into a run of five "pier" in 25 lines (l.437–461) → **F5**.<br>• **R12** moved the turner's marker from his arms to his hair but kept the device. On the page, all five tradesmen are introduced by their trade's residue on the body (forearms, hair, wrists, hands, elbows), and three of the markers are arms against the ≤2 the cycle-0 table proposed → **F10**, which takes the painter's off.<br>• **Left by cycle 0:**<br>  – **Felix's "He went up twice. Once to wrap her and once to see…" (l.373)** is the same "[N] twice. Once … and once …" skeleton that C2 closed on the turner. With Kallia (Ch.7) and the Ch.8 narration, this is its third chapter → **F1**. *This is the one book-law item.*<br>  – **"on his way" ×5** (l.41, 95, 425, 433, 561), against a book maximum of 2 elsewhere (Ch.9) → **F2, F2b, F3**. |
+
+**Smaller doubles found on the fresh read (not made by the swaps):**
+- the sun and the rain both "found" a flaw within 30 lines (l.345 "the sun came in sideways and found a line"; l.375 "the rain found a cracked tile") → **F4**;
+- "I warmed the" twice in one paragraph (l.547) → **F6**;
+- two men's alibis "at the bakery" (the whitewasher at l.395; the dyer at l.501, which is protected) → **F7**, on the whitewasher's side;
+- Grata's "paint the candidates" (l.27) is Mara's Ch.15 3-gram ("paint the candidates' names") → **F8**.
+
+---
+
+## Genesis Score (cycle 1)
+
+| Dimension | Cycle 0 | **Cycle 1** | Evidence | Cap / rule |
+|---|---|---|---|---|
+| Originality | 9.0 | **9.0** | Unchanged:<br>• the year in real wall-writing, read aloud to a boy who cannot read;<br>• Zosimus's break kept "where the boys can see it's spoken for" (l.539);<br>• the thrown bowl becomes a carter's present ("Have you got any more you don't want?", l.157);<br>• Polybius's I set on the crack (l.417). | Not 9.5: the montage form is known. |
+| Theme | 9.0 | **9.0** | "Home as the place you mend" is still **never stated**. "seam" is 0, and no swap adds a pointer. The thrown bowl, the hidden bottle, the findable lamp and "He wants to find it in the dark." (l.557, an answer to a question) carry it. | #18 minor: the "found a flaw" verb chain and the fig's "bead of something sweet". |
+| Characters | 8.5 | **8.5** | C1–C7 are on the page:<br>• Valens's fig day is now silent, which fits his card (hands find work): "he brought it down to the shop with two more and put them on my plank among the broken things." (l.573);<br>• the turner's "It buried my wife's mother," … "and after her a horse." (l.287);<br>• 3 payments, each worded fresh; one pause at the stone; one black finger.<br>Grata, Felix and Zosimus are on their cards. Chaos is 4/4, inhabited. Cover-the-name: PASS. | **Held at 8.5, not 9.0:** Felix's "twice. Once … once …" skeleton (F1) is still on the page; the trade-residue introduction covers 5/5 tradesmen (F10 → 4/5); walk-on exits on a trait stay WATCH. No tic. The gesture gate is clean, and I use its numbers. |
+| **Prose & Voice** | 8.0 | **8.5** (+0.5, the cycle maximum) | **The reuse-and-law cluster that held cycle 0 is gone, and nothing replaced it at that weight.**<br>**Stopping sentences:** "Then he kept two of his fingers on it, after it was in my palm, until he was sure it would stay." (l.489); "It was gray, and not black at all." (l.505).<br>**The fountain is purer:** with the Ch.14 spill cut, the paragraph ends "My mouth was open. I could not shut it." (l.493), so pressure voice level 2 is enacted, not described.<br>**Underlines intact:** "My lower lip found that before my eye did." (l.151); "At every blow the drum rang and gave up another chip of itself." (l.185); "The shadow of a leaf lay over his open lips and stirred when the leaf stirred." (l.209); "He opened his eyes, offended for the lamp." (l.567).<br>**Ugly sentence present:** "Felix, at the opening, watching the rain go past:". | No cap. #11 is 0.39/1k. The residue is the five small doubles above, which are D-class, not floor-holding. **Not 9.0:** the S5 walls are read one by one in the same delivery. |
+| Pacing | 8.5 | **8.5** | The ledger row is met on every field:<br>• Collage; `narrative` → `dialogue`; 6 breaks;<br>• dialogue 35.2% (band 30–40);<br>• 7,785 words (range 7,700–8,700);<br>• median 16 (mid).<br>Hook VOICE, pull REVELATION. The fountain still arrives without a lead-in. | Not 9.0: the S5 sag, and no forward question between the bowl and the fish jar (unchanged, structural, accepted). |
+| Emotion | 9.0 | **9.0** | **Anchor:** the lamp — Zosimus, eyes shut, his thumb on the welt, "That's it," (l.561–563).<br>**Surprise:** the pebble and "I was crying." (byte-identical).<br>**Body rebel ×2:** the tears, and the nausea she misreads ("The jar had turned, I decided.").<br>**Techniques ≥5.** R2's cut strengthens the break. | Not 9.5: the designated anchor is quieter than the fountain, and the romance heart-load is light. |
+| Immersion | 9.0 | **9.0** | L2 puts the garum on the carter's bread ("ladle some onto a carter's bread", l.581; "pushed his bread across for more of it", l.585). The CIL texts, lentisk, lead dogs, the beehive box and the FORTIS lamp are unchanged. | Unchanged INVESTIGATE items: lime from Puteoli; the boy's crescent. |
+| **FLOOR** | 8.0 | **8.5** | Characters, Prose and Pacing | |
+| **AVERAGE** | 8.71 | **8.79** | (9.0 + 9.0 + 8.5 + 8.5 + 8.5 + 9.0 + 9.0) / 7 = 61.5 / 7 | |
+
+**Per-cycle rule:** Prose rises +0.5 (the maximum) on the 19 cited cycle-0 items removed; every other dimension is unchanged.
+
+**Adjacent check:**
+- C1 (Valens's fig line cut) costs Characters nothing. His silence over the three figs is truer to his card.
+- R2 (the spill cut) costs Emotion nothing and gains Prose.
+- No dimension falls.
+
+**Anti-AI (cycle 1): 7/20, −0.875, clean band (commercial 0–8).**
+- Found: #3 (adjective pairs and triads), #8, #10 (walk-on labels), #11 (3 firm, 0.39/1k), #13, #15 and #18, all minor.
+- #1 is cleared.
+- #12 is judged clear: "It's not my fish." refutes Mara's accusation.
+
+**Character chaos (Mara): 4/4, inhabited.**
+- the toothpick tour;
+- the bowl thrown out;
+- Dr. Pinsky's pick, triggered by the scene, one clause, returning to the doorway;
+- the fountain and the fish jar.
+
+**Voice under pressure:** demonstrated (level 2 at the fountain).
+
+**Secondary characters:** every speaking secondary has a moment of their own (Grata, Valens, Felix, Zosimus).
+
+**Book law:**
+- foreshadowing 0; mountain, "seventy-nine", ash, casts and excavators 0;
+- "seam" / "niche" / "painted plaster" / "hand flat" 0 / 0 / 0 / 0, and the door is never described ("On the Kalends." / "It is the same.");
+- **AUTHOR-CP3-3 ✓:** no line remarks on the months without a child. "the look about the eyes my sister had with each of hers" and "It'll come with the heat." are Grata's present diagnosis.
+- **AUTHOR-END-1 ✓:** no reserved Ch.41–44 words or shapes;
+- citizenship 0 lines; Grata asks 0 questions; Valens: bare "No." 0, comparisons 0, orders to Felix 0;
+- Felix: 8+ speeches end on a boast or a fact;
+- kneel, bend, hand-on-knee and gait exits 0; present-tense generalisation 0;
+- the tremor note is two sentences and makes no reckoning.
+
+## Five readers (cycle 1)
+- **Devourer:** reads straight through to "It's a child you've got.".
+  - The one slowdown is still S5 (the night crew, then the pier's walls one by one).
+  - The fountain's leaner paragraph moves faster.
+- **Critic:**
+  - **Would underline:** the two fingers; the stone drying gray; the lip finding the step; the leaf's shadow; "offended for the lamp"; "She can't climb down to me."
+  - **What no longer bothers them:** the carts, the Ch.14 water and the payment buttons are gone.
+  - **What they would still notice:** the third "cry" in eight lines, and Felix's "twice. Once… once…" if they remember Kallia. Both are fixed by F9 and F1.
+- **Hostile:** L1–L3 are closed: one filling; garum on bread; the jar filled once, at the end.
+  - **INVESTIGATE, kept (author's call):**
+    - lime from Puteoli (pozzolana);
+    - the boy's crescent (usually a girl's lunula);
+    - the stewpot's invisible join against its owner's joke. This is Mara's "before", unglossed.
+  - **Checked by hand:** Valens reads the board "when Felix had already gone in", so Felix's belief that he cannot read survives.
+- **Casual (airport, 10 pages): 9.0.**
+  - The opening notice, the leek woman, Grata's paint flood and the coppersmith's alibi goat are company they want to keep.
+  - The pebble is where they cry, and the fish jar is where they turn the page.
+  - The only drag is the third wall in a row.
+  - No vibes problem.
+  - Not 9.5: a second long, low-plot chapter running.
+- **Devoted (active):** would adopt it.
+  - What they find: Ch.2's thumbnail with eyes shut, answered by Zosimus's thumb on a visible join; the first tremor note in Fenn's back leaves; the amazed wall; the I on the crack.
+  - What they would catch now: only the skeleton F1 removes.
+
+| Issue | Dev | Crit | Host | Cas | Devoted | Severity |
+|---|---|---|---|---|---|---|
+| F1: Felix's "twice. Once … once …" (3rd chapter) | | ✓ | | | ✓ | SHOULD FIX (book law; closed shape) |
+| F9 third "cry"; F5 pier run; F2/F3 "on his way" ×5 | | ✓ | | | | INVESTIGATE (fix: cheap, tested) |
+| F10 trade-residue introduction on 5/5 tradesmen | | ✓ | | | ✓ | INVESTIGATE |
+| S5 graffiti stretch | ✓ | | | ✓ | | SHOULD FIX → not changed (structural; the ledger's wall-writing collage; 92 words above the floor) |
+
+**No CRITICAL. No VIBES PROBLEM.**
+
+## Tomorrow Test / Shareability / CVI
+- **Tomorrow Test:** unchanged and strong (BOTH types).
+  - IMAGE: the toddler's two fingers on the wet pebble, and the stone dried gray. QUOTE: "It's not my fish. It's a child you've got." → +0.5.
+- **Shareability:** unchanged ("the landlady figures out she's pregnant from the FISH SAUCE").
+- **CVI-Launch: 9.4** (8.9 + 0.5).
+- **CVI-Legacy: 7.1**, provisional.
+- None of the 41 swaps or the finalize set touches either anchor.
+
+## Pacing check (cycle 1): OK
+- **Length:** 7,785 words (7,792 after the finalize set) against an 8,200 target. The range is 7,700–8,700; the chapter is not padded and should not be cut further.
+- **Dialogue** 35.2% (band 30–40 ✓); **6 breaks** ✓; **median 16** (mid ✓); `narrative` → `dialogue`.
+- **Neighbours:** Ch.19 is `scene-set` → `long-fade` and Ch.18 `I-statement` → `punch`. No signature runs three in a row; `shape_check --strict` is CLEAN.
+- **Emotional slot:** belonging → the first unprompted break → a positive revelation.
+- **Speed:** documents quick; repairs slow; the fountain sudden.
+- **Sag (accepted):** S5.
+- **Book:** 115,247 words (115,254 after finalize).
+
+---
+
+## Finalize fixes (word-neutral or additive; tested together)
+**11 swaps; net +7 words** (shape_check 7,785 → **7,792**, against the 7,700 floor).
+- **Script:** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/ev20c1/ch20-finalize.py`. Run it as `python3 ch20-finalize.py <in.md> <out.md>`.
+  - The input must be the cycle-1 page (md5 `d650c6c5…`).
+  - Each OLD string must occur exactly once, or the script aborts.
+  - The header comments are untouched.
+- **Tested output:** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/ev20c1/ch20-final.md`, md5 `20bcc76c76ff17a127421c369cc3f273`, sha256 `24fd5686d3feb75dceabd68c8c4fa8a37770bc30dc512d02bf5d1561326b8886`.
+
+| # | Line (cycle-1 page) | Type | Now | Why | Swap (exact) |
+|---|---|---|---|---|---|
+| **F1** | l.373 | Character (closed shape, 3rd chapter) | "He went up twice. Once to wrap her and once to see had he wrapped her right." | Kallia's Ch.7 "Twice. Once on… and once in…" skeleton (the one C2 closed on the turner), also used in the Ch.8 narration. | → "He went up and wrapped her, and he was no sooner down than up to see had he wrapped her right." (Felix's run-on; the speech still ends on his boast) |
+| F2 | l.425 | Style (frame ×5) | "Valens came by us with the string on his way to the yard," | "on his way" ×5; the book's maximum elsewhere is 2. | → "Valens came by us with the string, going out to the yard," |
+| F2b | l.433 | Style (frame ×5) | "by her son on his way to bathe," | as F2 | → "by her son as he set off to bathe," |
+| F3 | l.95 | Style (frame ×5) | "The cook stopped at my plank with it on his way home." | as F2 | → "…with it as he went home." ("on his way" ends at 2: Valens l.41 and Zosimus l.561) |
+| F4 | l.375 | Style (parallel) | "the rain found a cracked tile over the bed and came through onto Valens's foot." | The sun "found a line" 30 lines earlier, in the same shape. | → "the rain got in at a cracked tile over the bed and fell onto Valens's foot." |
+| F5 | l.453 | Style (swap R9b, density) | "Highest of all on the pier there was one more." | "pier" ×5 in 25 lines. | → "Higher than any of them there was one more." |
+| F6 | l.547 | Style (in-paragraph double) | "I warmed the pieces and joined the shoulder" | "I warmed the knife" follows two sentences later. | → "I heated the pieces and joined the shoulder" |
+| F7 | l.395 | Style (double) | "my wife thinks I'm at the bakery kneading," | It shares "at the bakery" with the dyer's alibi (l.501, protected). | → "my wife thinks I'm at the mill with the donkeys," (Pompeian bakeries milled with donkeys) |
+| F8 | l.27 | Style (cross-chapter 3-gram) | "Them that paint the candidates live" | Mara's Ch.15 "paint the candidates' names". | → "Them that paint for the candidates live" |
+| F9 | l.499 | Style (swap R5) | "From his father's hip the boy watched me cry." | A third "cry" in eight lines, restating "I was crying." | → "From his father's hip the boy watched me and sucked his cord." (the cord of l.487's crescent; no feeling named) |
+| F10 | l.387 | Character (swap R12; device) | "a thin fellow with red to the wrists sat with his pots in a row," | The third arm marker (with the coppersmith's forearms and Zosimus's elbows). | → "a thin fellow sat with his pots of red in a row," (Felix's "All that red" still pays) |
+
+**Results with the copy swapped into the manuscript path, run from /home/user/Books:**
+- **`check_chapter.sh 20`: all clean.**
+  - style: 7,818 words, simile 1.4/1k, em-dash 0, foreshadow 0;
+  - grammar 0; rhythm 0;
+  - show/tell: 7,821 words, **35.2%**, no flags;
+  - voice-wear strict: clean;
+  - tic gate: clean (and-chains 2/9, credential 1);
+  - echo 0; command echoes none; spoken-line echoes none;
+  - metaphor 1.8/1k, median 15.
+- **`tic_report.py --gate`:** clean (exit 0).
+- **`--echoes 20`:** none / none / none.
+- **`shape_check --strict`:** `20 7792 6 35 16 narrative dialogue`, CLEAN (exit 0).
+- **`voice_wear_check.py`:** clean (exit 0).
+- **Restored:** md5 `d650c6c57f4d671f62976c2276fb14c7`, verified after every run. **I did not edit the manuscript.**
+
+**Reuse checks on every replacement string:**
+- a 3–7-gram scan against Ch.1–19, all 13 samples, and the rest of the chapter;
+- a whole-spoken-line scan;
+- the rule that no repeat moves sideways.
+
+**Result:**
+- no 4+-gram anywhere;
+- no sample string;
+- the only 3-gram match is "the yard and" in F2's sentence, which is already on the cycle-1 page.
+
+**After the set, in the chapter:**
+- "on his way" 2; "pier" 10; "warmed" 3; "cry/crying" 2; "at the bakery" 1; "twice" 5 (within the book's range of 0–7);
+- "found" 12, with the weather finding a flaw once.
+
+**Replacement strings rejected during testing** (so the editor does not reach for them):
+- "and went back to see": the tic gate fails "and went back" ×3 (Ch.1, 14, 20);
+- "went back up to see": the tic gate fails "back up to" ×3 (Ch.5, 15, 20);
+- "a second time": sample-11 and Ch.7;
+- "up again to see": "wrapped it up again" (l.347) in the same section;
+- "when he came in from the mules": it doubles "Felix came in from the string" eight lines earlier;
+- "the rain came in through": it rebuilds the sun's "came in sideways" one verb over;
+- "his cord in his mouth": "in his mouth" would be in its 7th chapter;
+- "at the baker's": Grata's spoken Ch.19 3-gram;
+- "red spattered down his tunic": "tunic" ×2 with "dried his fingers on his tunic".
+
+**A first test run failed the tic gate on my own F1 string** while `check_chapter.sh` exited 0. See the pipeline note below.
+
+---
+
+## Character-bible Ch.20 re-sync (orchestrator; apply with the finalize set)
+**The Ch.20 blocks still quote the writer draft.** Run against the finalize page, a script finds **24 quoted strings no longer on the page**.
+
+Re-sync each block to md5 `20bcc76c…` and mark it "SYNCED to the FINAL page", as Ch.19's blocks are. Each item lists the draft string, then the page string.
+
+**1. At-risk after Ch.20 (l.5448–5501):**
+- **Lamp:**
+  - Delete "Nobody at home had ever paid me to leave a join where it could be found." The disruptor cut it. Log it as a CUT entry, never to be restored.
+  - Add the page's process: "I heated the pieces and joined the shoulder, and when the welt swelled from the break I let it stand." (R14, F6); "Round the filling hole the clay was black from his thumb." (R8).
+  - Zosimus "cradled the lamp in his palm and shut his eyes".
+  - "Valens walked in while the lamp was still on my plank" (D7).
+- **Fountain:**
+  - Delete "the jar running over" and the next woman (R2).
+  - "I put out my hand." → "I turned my hand up." (R3).
+  - "I could not stop." → "From his father's hip the boy watched me and sucked his cord." (R5, F9).
+  - "I filled the jar at the spout and carried it home." (L3).
+  - "He looked at it by the lamp, small and dry and gray, and passed it back to me" (C5).
+  - "his father insisted," (D2).
+- **Tremor note:** "the bed walked an inch on its legs" → "the bed walked on its legs" (D4).
+- **Named frame:** add "Through the lens the heat off the tiles kept him and his tree wavering, and the waver never settled." (R13; there is no left/right layout).
+- **Fig:**
+  - Delete ("Today," … "Not tomorrow. Tomorrow the wasps have them."); log it as CUT (C1).
+  - The picking day is silent: "put them on my plank among the broken things." / "I ate all three."
+  - Mara's "In this rain." (R7).
+  - Felix's "He went up and wrapped her, and he was no sooner down than up to see had he wrapped her right." (F1).
+  - The drip: "the rain got in at a cracked tile over the bed and fell onto Valens's foot." (F4).
+- **Teeth:**
+  - "It found the gap beside my sixth-grade filling" (L1);
+  - "tooth by tooth." with the carts cut (R1);
+  - keep "Then I'll keep to the other." (write it as the page has it, not "keep[s]").
+- **Grata:**
+  - "you've the face of a payer" → "you've a payer's face" (R18);
+  - "Them that paint for the candidates" (F8);
+  - "It stood at her counter's brazier end" (R19);
+  - "ladle some onto a carter's bread" (L2).
+- **Wall-writing set:**
+  - "Someone had answered it in a deeper hand:" (D3);
+  - "to read him the pier at its back" (R9a);
+  - "Higher than any of them there was one more." (F5);
+  - "from the eaves halfway to the paving" (R16).
+- **Felix line:** "That wants shouting." (not "Then they'll want it shouted.").
+- **Spoken shapes spent:**
+  - Replace:
+    - "Then they'll want it shouted." → "That wants shouting.";
+    - "Make it hold. I cook in it." → "Make it tight. My oil lives in it.";
+    - "It will hold anything you put in it." → "Anything you put in it.".
+  - Add:
+    - "What's she sent?" / "Grata's olives." / "That's yesterday's bread." / "Grata says it is today's.";
+    - "Which are the dogs?" / "These. Lead. They've not shifted since.";
+    - "I'd only break it in the same spot, looking for it.";
+    - "In this rain.";
+    - "The furnace man at the baths.";
+    - "It buried my wife's mother," … "and after her a horse.";
+    - "He should have chained it to the wall." (the husband's line, not "Then he should…").
+- **Counts → FINAL:**
+  - 7,792 words (shape_check), 7,818 style, 7,821 show_tell; dialogue 35.2%; median 16; 6 breaks; `narrative` → `dialogue`;
+  - "Somebody had [verb]" 0, "Someone had" 1;
+  - race frame before-X **0** ("before he was over the sill" is not on the page);
+  - payments 3; "on his way" 2; "dusk" 3; tool-tip frames 2; #11 3 firm (0.39/1k);
+  - anti-AI 7/20 (−0.875); echoes none / none / none.
+
+**2. ZOSIMUS card (l.3908–3940):**
+- **Physicality:** "at the pickup he hugs the lamp to his breastbone" → "at the pickup he cradles the lamp in his palm, shuts his eyes, and finds the welt with his thumb". "with one black finger" stays (once). "scratches in his beard" stays, with no black finger.
+- **Ch.20 as written:**
+  - "Dropped it on the furnace stair," → "The furnace stair did it,";
+  - "on its foot a maker's name stamped in tall capitals: FORTIS" → "It was a plain round lamp with FORTIS stamped in tall capitals on its foot.";
+  - "I've had it since before the earthquake." → "I've had it three summers.";
+  - the name "for the tag, Zosimus, of the baths" → "Zosimus. Of the crossing baths. Down at the furnace, not up with the bathers.";
+  - the pickup is "Zosimus was back two mornings later, on his way down to light the furnaces. It was still dim in the shop.";
+  - **no payment beat** (C4c); the exit is unchanged.
+- **Mark SPENT:** "three summers"; "The furnace stair did it".
+- The sample line stays (calibration only).
+
+**3. GRATA (l.2162):**
+- Add the touches as on the page: the hen-squeeze on the upper arm; the forearm push "the way she moved customers along her counter"; two fingertips on the inside of the wrist "beside Plautia's gold".
+- Add "you've a payer's face".
+- Add the fish jar "at her counter's brazier end", ladled onto a carter's bread.
+- The cup is set down without a word.
+- Questions still 0. Ch.21 finds a fourth touch.
+
+**4. Ch.20 walk-ons (l.3166–3205):** mark the block SYNCED, then apply:
+- **The leek woman's husband:** "He should have chained it to the wall." (his line; her reply "He should have chained you.").
+- **The coppersmith:** "Two winters back" → "This winter gone. Good rivets."
+- **The stewpot woman:** "She had a tinker put his dogs in it the winter I was born. Do it the same." / "Which are the dogs?" / "These. Lead. They've not shifted since." / "I'd only break it in the same spot, looking for it." / "Make it tight. My oil lives in it."
+- **The bone-turner:**
+  - "a small man with a curl of bone caught in his hair" (R12);
+  - "It buried my wife's mother," … "and after her a horse." (C2);
+  - collected "that evening" (C7);
+  - pays in the toothpick only; the dice are cut (C4b).
+  - The box returns: "Full again in under a month," … "Don't tell my wife it was full."
+- **The fuller's wife:** "She called for it while Grata was at the baths." (R10); "She wrapped it up again in the same wool." (C4a); "Twice he's had it from the shelf to look at, and back it goes." (the line's "Twice" opener is not a reply).
+- **The night crew:**
+  - the painter is "a thin fellow sat with his pots of red in a row" (F10; there is no "red to the wrists");
+  - the whitewasher's "Four, and my wife thinks I'm at the mill with the donkeys" (F7);
+  - **Felix sits among the painter's pots and holds nothing** (continuity C-03).
+- **The toddler's father:** "a man whose hands were stained blue from somebody's vats" (not "arms blue to the elbow"); "his father insisted," (D2). The boy "sucked his cord" (F9).
+- **The carter at the fish jar:** "pushed his bread across for more of it" (L2).
+- **Unchanged:** the cook, the clay-pig girl, the quarrymen, the foreman, the tile carter, the fountain line, the oil man.
+
+**5. Principal cards' Ch.20 lines:**
+- **VALENS (l.1147):** "the fig pinched, wrapped and picked ("Today," … "Not tomorrow.")" → "the fig pinched, wrapped, and picked in silence (three figs on her plank among the broken things)". Add "What's she sent?" … "Grata would."
+- **FELIX (l.1817):**
+  - "holds the painters' ladder" → "sits among the painter's pots, holding nothing (C-03)";
+  - add his rain line (F1);
+  - "That wants shouting.".
+
+**6. New SPENT / CLOSED / WATCH entries** (add to "At-risk after Ch.20"):
+- **"Twice" as a whole reply:** CLOSED. **The "[N] twice. Once … and once …" skeleton:** CLOSED, having been used in Ch.7 (Kallia) and Ch.8 (narration). Both Ch.20 instances are cut (C2 and F1).
+- **1–2-word whole lines in the same mouth across chapters:** 0. "Today,", "Not tomorrow." and "What's in it?" are Valens's spent lines.
+- **Payment-in-kind as a scene close:** CLOSED after Ch.20 (3 on the page).
+- **"came for it" as a pickup:** CLOSED (sample-11).
+- **Tradesman arm markers:** ≤2 per chapter. **A walk-on introduced by his trade's residue on his body:** ≤1 per chapter in Ch.21–25 (Ch.20 has 4 after F10: forearms, hair, hands, elbows).
+- **Weather that "finds" a flaw:** SPENT at 1 (the sun's line on the bottle).
+- **"on his way":** ≤2 per chapter.
+- **Tool-tip frames:** ≤2 per chapter. **Camera left/right layout:** CLOSED. **A public-spout freeze** (Ch.14, Ch.20): SPENT.
+- **sample-07's "I put my hand out" / "My hand went…":** 0 before Ch.42, at any length.
+- **No line in Ch.21–24 links the fountain to the pregnancy** (audit I-03).
+- **CUT entries** (never to be restored): the disruptor's "Nobody at home had ever paid me…"; C1's fig line; R2's spill; R1's carts.
+
+**7. Ch.31 forward guard** (add under "At-risk after Ch.20", and as a writer warning in outline Ch.31). Ch.31's reserved anchor is Grata whitewashing a rival's election notice by lamplight with Mara holding the ladder. Ch.20 has spent the generic night-crew tableau (a ladder, a boy with a lamp on a pole, lime over red, the real graffito *Lantern-boy, hold the ladder.*). So Ch.31:
+- stages the raid by **Grata's own lamp**, on a **rival's red letters**, with **Mara's hands on the ladder**;
+- puts **no professional crew** on the page and **no lamp on a pole**;
+- has **no "hold the ladder"** in any mouth or on any wall;
+- makes **no comparison of the wall to a shaved face**;
+- sets **no letter on a crack**;
+- quotes **no wall in Ch.20's kinds**.
+
+**Pipeline note (UPDATE RULE; for the orchestrator, not done here):** `check_chapter.sh` pipes every gate through `grep`/`sed`, so **its exit status is 0 even when a gate prints FAIL**. My first F1 draft produced "5a … RESULT: FAIL — 2 recurring phrase(s)", and the suite still exited 0.
+- **Fix:** have the suite collect each gate's own status (or grep its output for `RESULT: FAIL`) and exit non-zero.
+- **Where:** in `books/_template/tools/check_chapter.sh` and in this book's copy.
+- **Until then:** read the RESULT lines, not the exit code.
+
+## VERDICT (cycle 1)
+**PASS.** Genesis Floor **8.5** ≥ 8.5 · Casual **9.0** ≥ 8.5 · pacing **OK** · all mechanical gates clean.
+
+| Measure | Result |
+|---|---|
+| Scores | Originality 9.0 · Theme 9.0 · Characters 8.5 · **Prose 8.5** (+0.5) · Pacing 8.5 · Emotion 9.0 · Immersion 9.0 |
+| Floor / Average | **8.5 / 8.79** |
+| Casual | **9.0** |
+| CVI-Launch / CVI-Legacy | 9.4 / 7.1 (provisional) |
+| Words / dialogue | 7,785 / 35.2% (7,792 / 35.2% after finalize) |
+| Anti-AI | 7/20, −0.875 (clean) |
+| CP3-3 / END-1 / "seam" ruling / foreshadowing | ✓ / ✓ / ✓ / 0 |
+
+**Before the finalize commit:**
+1. Apply `ch20-finalize.py` (all 11 swaps; they were tested as one set) and confirm md5 `20bcc76c…`.
+2. Re-run `check_chapter.sh 20` and read every RESULT line, not the exit code.
+3. Apply the bible re-sync above.
+
+F1 is the book-law item: a closed shape in its 3rd chapter. The other ten are cheap doubles. None changes a score. They are what keeps 8.5 honest.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis). The PASS rests on Prose reaching 8.5 once the reuse cluster is gone; a human editor may weigh the S5 sag and the montage's light romance load more heavily than I do.

@@ -24,7 +24,7 @@ The cook was in his doorway in a stained apron, digging at a splinter in his thu
 
 At home I put it to Grata. "Where does one buy paint, in this quarter?"
 
-"Nobody buys paint here, they're robbed for it," Grata said. Her forearms were on the counter; the steam off her pot went up past her face. "Them that paint the candidates live behind the theaters, and they'll sell you a cup of red at the price of a jar of wine, and you'll hand it over, you've a payer's face. Soot's free. There's soot on my brazier every night of the year, and the glue-boiler three doors down will give you size for an egg, and soot in size is black, and black reads best on lime. You're putting up a board. I told you so the week you came, and here's the spring half gone." She caught my upper arm and squeezed it, as a wife at market would squeeze a hen to feel for the meat on it. "Spell it right. There's people on this street can read."
+"Nobody buys paint here, they're robbed for it," Grata said. Her forearms were on the counter; the steam off her pot went up past her face. "Them that paint for the candidates live behind the theaters, and they'll sell you a cup of red at the price of a jar of wine, and you'll hand it over, you've a payer's face. Soot's free. There's soot on my brazier every night of the year, and the glue-boiler three doors down will give you size for an egg, and soot in size is black, and black reads best on lime. You're putting up a board. I told you so the week you came, and here's the spring half gone." She caught my upper arm and squeezed it, as a wife at market would squeeze a hen to feel for the meat on it. "Spell it right. There's people on this street can read."
 
 The pier beside our shop opening had been limewashed in the cobbler's time; the lime still took a mark. I stood on the cobbler's broken last to reach the top line. I lettered it with a brush of pig's bristle bound to a stick, dipping into a cracked cup of Grata's soot stirred into size.
 
@@ -92,7 +92,7 @@ I carried it round to the coppersmith that afternoon, a big soft-spoken man with
 
 "It looks like nothing."
 
-"Like nothing on earth," the coppersmith agreed, pleased. He had it fitted with a new handle inside four days. The cook stopped at my plank with it on his way home.
+"Like nothing on earth," the coppersmith agreed, pleased. He had it fitted with a new handle inside four days. The cook stopped at my plank with it as he went home.
 
 "A handle you could lift a mule by, and he's charged me more than he first asked, like I was the one took the pot. Never again. Next time it walks, it can stay walked."
 
@@ -370,9 +370,9 @@ When the rains set in there was no carting on the bad days, and Valens spent the
 
 "She can't climb down to me."
 
-Felix, at the opening, watching the rain go past: "He went up twice. Once to wrap her and once to see had he wrapped her right. I heard him on the stair. I hear everything in this house; I could tell you what the both of you eat in your sleep."
+Felix, at the opening, watching the rain go past: "He went up and wrapped her, and he was no sooner down than up to see had he wrapped her right. I heard him on the stair. I hear everything in this house; I could tell you what the both of you eat in your sleep."
 
-That night the rain found a cracked tile over the bed and came through onto Valens's foot. He moved the foot, and the drip moved after it, or seemed to. He rose in the dark and dragged the whole bed toward the wall, scraping, and stretched out again in the dry. The drip went on landing where his foot had been.
+That night the rain got in at a cracked tile over the bed and fell onto Valens's foot. He moved the foot, and the drip moved after it, or seemed to. He rose in the dark and dragged the whole bed toward the wall, scraping, and stretched out again in the dry. The drip went on landing where his foot had been.
 
 * * *
 
@@ -384,7 +384,7 @@ It appeared on the red house past the temple crossing in a single night at the e
 
 I followed him out with my cloak over my sleeping tunic. A boy waited at a ladder's foot, holding a lamp up on a pole. On the ladder a man with a pail of lime and a broad brush was laying a panel of fresh white over the house, from the eaves halfway to the paving. He took the cousin's pink stripe in two strokes of the brush. It went under the white; in the lamplight the whole wall looked paler for it, like a face just shaved of its beard.
 
-On the curb a thin fellow with red to the wrists sat with his pots in a row, eating bread and waiting for the lime to dry enough for lettering.
+On the curb a thin fellow sat with his pots of red in a row, eating bread and waiting for the lime to dry enough for lettering.
 
 "Who are you painting?" said Felix. "What does he pay you? Will you paint a fighter's name, if I bring you one?"
 
@@ -392,7 +392,7 @@ On the curb a thin fellow with red to the wrists sat with his pots in a row, eat
 
 He dried his fingers on his tunic and climbed, while the whitewasher came off. "You, lantern, hold that light still or I'll paint *you* on the wall."
 
-"Four more walls before the cock," the whitewasher grumbled, wringing his brush out on the stones. "Four, and my wife thinks I'm at the bakery kneading, and Polybius pays at the month's end, and last month he paid us in loaves."
+"Four more walls before the cock," the whitewasher grumbled, wringing his brush out on the stones. "Four, and my wife thinks I'm at the mill with the donkeys, and Polybius pays at the month's end, and last month he paid us in loaves."
 
 "Good loaves," the painter called down.
 
@@ -422,7 +422,7 @@ I showed him.
 
 "Polybius is standing on it," Felix said, delighted. "Right on top of it, the whole height of him, and he doesn't know."
 
-Valens came by us with the string on his way to the yard, and Felix caught at his arm.
+Valens came by us with the string, going out to the yard, and Felix caught at his arm.
 
 "Can you read the new one? You can't, can you, only she can, in this house."
 
@@ -430,7 +430,7 @@ Valens studied the panel with the dun's halter in his fist, down to the last red
 
 "It's red," he said, and led the dun on.
 
-Grata had the panel read to her by her son on his way to bathe, before her shutters were down.
+Grata had the panel read to her by her son as he set off to bathe, before her shutters were down.
 
 "Polybius," she told me. "His loaves are half chalk, and his grandfather swept out somebody's kitchen in Rome, and he'll get it, they always get it who paint first and pay the painters' wine. He'll have every wall from this corner to the basilica by the Ides, and the plasterers will be at their wits' end." She put her hand on my forearm and gave it a little push, the way she moved customers along her counter. "Go on with the boy, he's waiting on you, he's been on that curb since the cock."
 
@@ -450,7 +450,7 @@ Someone had answered it in a deeper hand:
 
 "Successus can keep his weaving." Felix ran his eye up the pier, over all the scratched things he could not read, much pleased with them. "I'd have her off the pair of them by the Ides, if I put my mind to it, and I'd never touch a loom."
 
-Highest of all on the pier there was one more.
+Higher than any of them there was one more.
 
 *I'm amazed, wall, that you haven't come down in a heap, with all the drivel you've had to carry.*
 
@@ -496,7 +496,7 @@ His father came after him round the trough, a man whose hands were stained blue 
 
 "I never touched her," he told the line. "You saw. I never came near her." He hoisted the boy onto his hip. "He gives them to everybody, lady. He gave one to a mule this morning. It's only a pebble, that's all he does, he gives pebbles."
 
-From his father's hip the boy watched me cry.
+From his father's hip the boy watched me and sucked his cord.
 
 "I was at the bakery door all along," his father insisted, and took the boy off with him. "Everybody saw where I was."
 
@@ -544,7 +544,7 @@ It was a plain round lamp with FORTIS stamped in tall capitals on its foot. It h
 
 Round the filling hole the clay was black from his thumb. The broken edges were the only clean clay on it. They were pale and dry and sharp, and they smelled of nothing. When I brought the two big pieces together they met at once, the break so new that nothing had yet got into it.
 
-I warmed the pieces and joined the shoulder, and when the welt swelled from the break I let it stand. Along the shoulder I trimmed it to a thread's thickness proud of the clay. I warmed the knife and stroked the top of the welt smooth so it would not catch his skin. The wedge from the rim went in after. When all of it had set I took a pinch of Grata's brazier soot and rubbed it into the join with my fingertip, until the break ran black across the pale clay from the oil hole to the rim and on across the wedge.
+I heated the pieces and joined the shoulder, and when the welt swelled from the break I let it stand. Along the shoulder I trimmed it to a thread's thickness proud of the clay. I warmed the knife and stroked the top of the welt smooth so it would not catch his skin. The wedge from the rim went in after. When all of it had set I took a pinch of Grata's brazier soot and rubbed it into the join with my fingertip, until the break ran black across the pale clay from the oil hole to the rim and on across the wedge.
 
 Valens walked in while the lamp was still on my plank with the soot fresh in its line. He halted before it. He set his thumb on the black line at its start and ran it along the welt to the rim, slowly, and back.
 
