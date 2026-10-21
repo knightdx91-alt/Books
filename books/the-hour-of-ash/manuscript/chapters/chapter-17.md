@@ -3,6 +3,7 @@
 <!-- SCENE BUDGET (Target 7,400; range 6,900-7,900; In medias res, the theft first and how-we-got-here in pieces; 3 breaks / 4 sections; gear low; dialogue 30-40%): S1 the record office: the tags, the swapped book, the fig cake, the silver, the ladder; pieces (the litter, Myrrhine's case, the roof at dawn); the leaf found; the clerk reads the dowry aloud; the cut, the knot; Celer's slave at the door; the clerk takes the book out 2,800 | S2 the lane: the step down, the oven, Valens with the peel; pieces (the baker, Felix and the string at dawn); the boards read; the clerk comes for bread and sees; Valens trusts him; he goes round 1,250 | S3 the colonnade: the scaffold; Celer in the sun beyond it; the slow beat; Plautia's question; "Mara"; the offer; the brother's road; the clerk sent to the games; Celer carried round 2,050 | S4 Plautia at the litter; the forum to the Lechaion road; the crowd coming up from the harbor (athletes, pine crowns, sausages); the man at the arch; the run, unfinished 1,300 -->
 <!-- Word count: 7,194 (shape_check; style 7,206) | Writer draft 2026-10-21 | Target: 7,400 (range 6,900-7,900) | Dialogue 31% (band 30-40; S1 22 / S2 35 / S3 42 / S4 30) | Breaks 3 | Median sentence 11 (gear low) | Opens short-punch (8w, record office), closes quiet (13w, mid-run) | Bare "No." Valens 1 | Kneel/crouch 0 | Hand-on-knee 0 | Bend 0 | Deliberation pause 0 gate | Gait exit 0 | Object handling 3 | Em-dash 0 | And-chains 4 | Negation pivots 0 | Hinge/So openers 0 | Echoes 0 | Spoken-line echoes 0 | Tic gate clean | Voice-wear clean | Foreshadow 0 | Anchor: the gray clerk, Onesimus, digging figs out of a pressed fig cake with his stylus (then his thumb) through the whole of a theft -->
 <!-- Dialogue-polish 2026-10-21: 7,190 words (shape_check; style 7,202) | Dialogue 31.8% (shape; show_tell 31.7; S1 25.0 / S2 35.3 / S3 41.5 / S4 29.3) | Breaks 3 | Median 11 | first paragraph + closing paragraph byte-identical (md5 checked) | Em-dash 0 | Bare "No." Valens 1 (kept, to "Will they wait?") | as if/as though 3 -> 1 | adverb tags 2 -> 0 | let-that non-answer frames 2 -> 0 | Celer smile beats 3 -> 1, "Lupus" 3 -> 2, tag-question+vocative 3 -> 2 | clerk "lady" 6 -> 3 | "who won" 5 -> 2 | Plautia "low" tags 2 -> 1 | said-to-[non-listener] 2 -> 1 | echoes 0 | spoken-line echoes 0 | check_chapter.sh 17 clean | shape --strict CLEAN -->
+<!-- Disruptor 2026-10-21: 6,923 words (shape_check; style 6,935; show_tell 6,939) | Dialogue 33% (shape; show_tell 33.0) | Breaks 3 | Median 11 | narration cut only, speech untouched except two merged Valens quotes (wedged beats removed) | first line, closing paragraph, the 3 breaks, the bare "No.", the scaffold slow beat byte-identical (md5 checked) | l.339 "short and level" cut | trainer "delighted" cut (dog's kept) | storeroom memory folded into the scene, aphorism cut | countdown + twelfth/eleventh cut; the last hole missed twice | pointers 3 -> 0 | Valens wedge beats 3 -> 0 | baker turns 3 -> 0 | "had gone loose", "without turning her head", "seeming to decide" cut | and-chains 3 | as if/though 1 | echoes 0 | check_chapter.sh 17 clean | shape --strict CLEAN -->
 
 The boards left their dust on my fingers. Fine and gray, faintly greasy, the dust of old wax in a shut room; under it the wood of the tag had been worn smooth by thumbs. The books lay flat in their pigeonholes, five and six to a hole. Each was a stack of boards bound along one side by a cord, and from every cord a wooden tag hung on a loop.
 
@@ -30,7 +31,7 @@ A fig cake sat on the table by his elbow, the kind the farm women pressed in a m
 
 He found another fig. Plautia faced him across the table, on the bench, with her veil drawn forward and her hands in her lap, and then her hands were out of her lap and there was a bundle in a napkin on the table between them. It clinked faintly on the wood. The clerk raised one corner of the napkin with his stylus. Silver, a ladle and two spoons, the spoon handles ending in swans' heads. He let the corner fall back.
 
-Her mother's. She had told me so at the brother's door in the dark, while the bearers were lifting her, in the voice she might have used to tell me the spoons were cold. The bearers had carried her through a city that had emptied itself for the games and barred its doors behind it: shutters down along every street, a fuller's vats standing full and untrodden, a dog asleep in the middle of the paving and not troubling to move for a litter, and at the forum's edge the fountain pouring into its basins with no one there to fill a jar.
+Her mother's. She had told me so at the brother's door in the dark, while the bearers were lifting her, in the voice she might have used to tell me the spoons were cold. The bearers had carried her through a city that had emptied itself for the games and barred its doors behind it: shutters down along every street, a fuller's vats standing full and untrodden, and at the forum's edge the fountain pouring into its basins with no one there to fill a jar.
 
 The clerk wrapped the napkin round them twice and put it under the fig cake. He rose, taking the cake.
 
@@ -56,9 +57,7 @@ I went on reading tags.
 
 They ran left to right, and shelf by shelf downward, in years, and inside each year in the order of the numerals. "*P. VETT. L. CANIN.*," Plautia had said through the litter's curtain that morning. "Vettius and Caninius, the year Nero came. Of that year you want the first book, which is the magistrate's own, with his games in it and everything else he signed; the second and the rest are nothing to us." I found the year two holes down from where my hand was. *VETT. CANIN. II.* Then *III.* Then *IIII.* No first.
 
-In its place lay a book with another pair of names on the tag, a year I had already passed.
-
-In the basement of the museum, in the storerooms, a shelf told you more by its order than by any one label: a run of accession numbers going by in their sequence, year and lot and piece, and then a number out of its place, louder than anything written on it. A thing that was lost was nearly always only put back wrong.
+In its place lay a book with another pair of names on the tag, a year I had already passed. In the storerooms under the museum the accession numbers ran along the shelves in their sequence, year and lot and piece, and the one out of its place was always louder than anything written on it.
 
 I retraced the shelves to the passed year. There, between its own second and fourth books, sat a book whose tag said *VETT. CANIN. I.*
 
@@ -136,17 +135,17 @@ The clerk stopped reading.
 
 He found his place again with the stylus. His head had not moved.
 
-I worked the cut end upward through the holes with my fingers, through the twelfth board and the eleventh, upward, toward the front. It came stiffly. It had lain in those holes five years and taken their shape.
+I worked the cut end toward the front, hole after hole, with my fingers. It came stiffly. It had lain in those holes five years and taken their shape.
 
 "Whose hand is it written in?" said Plautia.
 
 "A clerk's." He turned the board. "*Witnesses*." He began on them.
 
-Seventh board, sixth, fifth. The fifth and sixth parted from the rest together, the leaf, closed on itself. I put it into the case among Plautia's letters and laid the pens over it.
+The fifth and sixth boards parted from the rest together, the leaf, closed on itself. I put it into the case among Plautia's letters and laid the pens over it.
 
-Now the cord needed threading down again through the six boards behind, hole by hole, and every hole fought it. Plautia's mother's name went by, and her mother's brother's, and a Gnaeus somebody. A drop of sweat crept down the inside of my arm and stopped at the gold on my wrist. I threaded the last hole. Two ends of cord stood out at the bottom of the book. I tied them in a reef knot, pulled it down hard, and pushed it in against the boards.
+The loose end wanted feeding down again into the boards behind, and every hole fought it. Plautia's mother's name went by, and her mother's brother's, and a Gnaeus somebody. A drop of sweat crept down the inside of my arm and stopped at the gold on my wrist. I missed the last hole, and missed it again, and then the cord went in. Two ends of cord stood out at the bottom of the book. I tied them in a reef knot, pulled it down hard, and pushed it in against the boards.
 
-It showed. It was a second knot on a book that had one, small and pale and naked, with no wax on it, and a clean cut end of linen sticking up from it. Anybody who turned that book over would see it, and anybody who saw it would know. There was no half of that. It was done well or it was a botch, and it was a botch.
+It showed. It was a second knot on a book that had one, small and pale and naked, with no wax on it, and a clean cut end of linen sticking up from it. There was no half of that. It was done well or it was a botch, and it was a botch.
 
 I returned the book to the wrong year, knot to the back.
 
@@ -154,7 +153,7 @@ I returned the book to the wrong year, knot to the back.
 
 "My father kept two seals, cut by the same engraver, his own and his freedman's," said Plautia. "Which is that?"
 
-The clerk tipped the book to the open door and peered at the wax. "Your father's. The freedman's had a chip out of the rim." He dug out a fig.
+The clerk tipped the book to the open door and peered at the wax. "Your father's. The freedman's had a chip out of the rim."
 
 Feet hurried past the scaffold outside, and a boy in a short tunic was in the doorway, panting, the road's dust gray on his shins. His eyes traveled the room and settled on the clerk.
 
@@ -166,7 +165,7 @@ The clerk sat a while with a fig on the end of his stylus.
 
 "He's to be back at the governor's side before the men's race."
 
-"Tell the legate," said Plautia, without turning her head, "that the lady Plautia is reading her father's seal, and will come out when she has read it."
+"Tell the legate," said Plautia, "that the lady Plautia is reading her father's seal, and will come out when she has read it."
 
 The boy stared at her veil. "Lady." The doorway was empty again.
 
@@ -178,7 +177,7 @@ That morning, on the brother's roof, with the sky still gray, Plautia had stood 
 
 "Is that the boy?" I had said.
 
-"That is his tunic. I did not choose it." Plautia had stood until the street had emptied. Then she had gone in to be dressed.
+"That is his tunic. I did not choose it."
 
 "The lane door," he told Plautia, in passing, "is by the oven, if you'd sooner not be kept. He'll keep you till noon." He bore it off to the colonnade.
 
@@ -186,7 +185,7 @@ Plautia stood up.
 
 "I entered by the front," she said. "I will leave by it. Carry my case out to the lane, and wait there for the litter."
 
-The litter was in the colonnade, where she had left it, a step from the man she meant. My way lay through the store, under the ladder, with the case against my side.
+My way lay through the store, under the ladder, with the case against my side.
 
 * * *
 
@@ -194,7 +193,7 @@ The oven was built onto the office's rear wall, and the wall itself was warm to 
 
 The baker stood at the mouth of his oven, raking, his back turned. He was singing a song of endless verses and no tune.
 
-Plautia's brother had seen to him. On the third evening after the plan the brother had come home from the forum and said only, "The baker will want a loaf's worth of trouble and no more," and had gone in to his dinner. What it cost the house nobody told me. The baker had a new leather apron that week, and greeted the house porter by name.
+Plautia's brother had seen to him. An evening or two after the plan the brother had come home from the forum and said only, "The baker will want a loaf's worth of trouble and no more," and had gone in to his dinner. What it cost the house nobody told me. The baker had a new leather apron that week, and greeted the house porter by name.
 
 Valens read my face before he read the case.
 
@@ -232,11 +231,9 @@ He shut it.
 
 "Her bearers are hired men off the Kenchreai road. They'd carry her off a cliff for him, if he paid."
 
-The song broke off. The baker had turned round with his rake and was staring beyond us at the step, and I turned too.
+The song broke off in the middle of a verse, and I turned.
 
-The clerk stood in the back doorway. He had crossed the office for his bread, as he must have done each morning of his life at that hour, with a coin in his fingers ready for the baker; and he stood now on the worn step with his coin still raised, staring at what Valens held.
-
-While the baker's fire slumped and settled in the oven, none of us moved.
+The clerk stood in the back doorway. He had crossed the office for his bread with a coin in his fingers ready for the baker, and he stood now on the worn step with his coin still raised, staring at what Valens held.
 
 The clerk stepped down to us. He had the cobweb still across his hair.
 
@@ -248,7 +245,7 @@ Valens held it in his two floury hands, shut, chest-high, in plain view of the c
 
 The clerk held the coin out past us to the baker. "Two of the round ones."
 
-The baker had the coin off him and turned to his shelf.
+The baker had the coin off him.
 
 "He's not opened it," said the clerk, waiting. "He'll not open it. He has a copyist who'll keep it under his bed till everybody's forgotten it. He's paid the copyist a year ahead." He found a seed in a back tooth with his tongue. "You'd want to be gone before somebody decides to remember it."
 
@@ -266,7 +263,7 @@ The baker returned to his oven and rested on his rake. "Two round ones each day 
 
 Valens said, "It's near enough noon."
 
-My knees had gone loose. The step took me, with the case in my lap.
+My knees gave, and the step was under me, with the case in my lap.
 
 "He saw it," I said. "Your hands, and what was in them. He will walk out there with his bread and tell him."
 
@@ -276,13 +273,13 @@ My knees had gone loose. The step took me, with the case in my lap.
 
 "Look at him." Valens still faced the empty doorway. "He came out for bread with that man in the colonnade waiting on him. That's a man who's had enough of the day."
 
-He undid his tunic at the neck and slid the leaf inside it, flat, against his chest, and pulled his belt tighter over it so that it rode under the cloth and could not slip. He laid his palm on it through the cloth.
+He undid his tunic at the neck and slid the leaf inside it, flat, against his chest, and pulled his belt tighter over it. He laid his palm on it through the cloth.
 
-The baker had turned away again and taken up his song where he had left it.
+The baker had taken up his song where he had left it.
 
 "Get down to Felix," Valens told me.
 
-Before sunrise Felix had taken the mules down to Lechaion with the household's freedman: the dun on the front rope, the black, and the two others nobody had wanted at any price, with my bag and his own across the dun's withers, and the fig in its jar. He had gone protesting. "It's the boys' day," he had called at the gate, "the boys, and I'm to sit on a quay with mules? Who'll tell me who won? Do they cry it out at Lechaion when somebody wins?" and the answer was "Ask a sailor," and Felix had trudged off putting his questions to the black instead.
+Felix had taken the mules down to Lechaion before sunrise with the household's freedman: the dun on the front rope, the black, and the two others nobody had wanted at any price, with my bag and his own across the dun's withers, and the fig in its jar. He had gone protesting. "It's the boys' day," he had called at the gate, "the boys, and I'm to sit on a quay with mules? Who'll tell me who won? Do they cry it out at Lechaion when somebody wins?" and the answer was "Ask a sailor," and Felix had trudged off putting his questions to the black instead.
 
 "Where are you going?" I said.
 
@@ -308,11 +305,11 @@ In front of that one stood the scaffold. Men had been patching the stucco on two
 
 The clerk was under it, in his doorway, eating his bread.
 
-Plautia stood a few paces out from him, under the roof, veiled, her litter grounded behind her and its four bearers sitting on the step in a row. Valens had got there first. He had walked in under the planks and stopped at her back, half a pace to her left, with the flour on his arms.
+Plautia stood a few paces out from him, under the roof, veiled, her litter grounded behind her and its four bearers sitting on the step in a row. Valens had got there first. He had walked in under the planks and stopped at her back, half a pace to her left.
 
 Beyond the scaffold's end the forum paving was white in the sun, and on the paving stood Celer.
 
-He was the man I had watched from the roof: the toga, brilliantly new, with the dust of the Isthmus road along the bottom of it in a brown band a hand deep. Close to, he was older than his laughing had been, and very carefully shaved, and his ears jutted from his head like the handles of a cup. His litter waited behind him with its curtains looped up. One slave held a sunshade over him and had let it slip. Another, the boy who had run in to the clerk, stood at his elbow with Vettius's book hugged to his chest in both arms, spine outward.
+The toga was brilliantly new, with the dust of the Isthmus road along the bottom of it in a brown band a hand deep. Close to, he was older than his laughing had been, and very carefully shaved, and his ears jutted from his head like the handles of a cup. His litter waited behind him with its curtains looped up. One slave held a sunshade over him and had let it slip. Another, the boy who had run in to the clerk, stood at his elbow with Vettius's book hugged to his chest in both arms, spine outward.
 
 Behind the litter stood two other men. One was a stranger. The other had a seam of new skin above his left ear, pink and puckered, where nobody had stitched it.
 
@@ -336,8 +333,6 @@ The man with the seam had found me. He touched two fingers to the place above hi
 
 "I found his seal," said Plautia. "It is the one mark in all that book that is his. Did he eat, this morning, before you left him?"
 
-The question carried over the scaffold's shadow into the sun, short and level.
-
 "Like a wolf." Celer had his answer ready. "Bread and honey, and most of my bread besides. He's with my steward at the rail, in the new tunic, and he's been told he may shout as loud as he likes, and the Corinthian boy's the favorite, so he'll shout himself hoarse."
 
 "He will be hoarse already. Since he could stand he has shouted before anyone gave him leave; tonight, when his nurse brings him honey in warm water that she has made too hot, he will not drink it."
@@ -352,9 +347,9 @@ His eyes went past her, and past Valens, to me.
 
 "And this will be Mara."
 
-My name, in his mouth, in that pleasant voice. It had come to him from the road below Delphi, with that ear.
+My name, in his mouth. It had come to him from the road below Delphi, with that ear.
 
-"I write for the lady." My Latin was stiff, and too quick.
+"I write for the lady."
 
 "So I hear. In a Latin they must teach very carefully at Syracuse." His head went round to the litter, and the men behind it. "My man tells me you carry something heavy under your dress, too, that shines. I'd like to see it one day. And she's given you the gold off her arm." His eyes rested on the band at my wrist. "She would. She always gave away what was given her; I used to tell her so. One loved her for it."
 
@@ -402,7 +397,7 @@ The bearers lifted. The shortest way from where he sat to the street he wanted l
 
 Celer's seamed man went last. Where the colonnade turned, he looked round once.
 
-The clerk finished his bread. He fetched his cake from inside, with a key on a thong. He pulled the door to, locked it, and tried it. He eyed us under his scaffold like a bench somebody had left in his way.
+The clerk finished his bread, fetched his cake from inside, locked the door with a key on a thong, and tried it. He eyed us under his scaffold like a bench somebody had left in his way.
 
 "If anybody asks me tonight," he said, "the book left here for the copyist, and I was at the Isthmus by noon. You were never in."
 
@@ -412,7 +407,7 @@ The clerk finished his bread. He fetched his cake from inside, with a key on a t
 
 "Tell her the swans are Sicyonian work, and she is not to let them go for less than that."
 
-He dug a fig out of the cake with his thumb, now the stylus was locked inside, and ate it. "If you hear how the boys came in, send me word."
+He dug a fig out of the cake with his thumb and ate it. "If you hear how the boys came in, send me word."
 
 "I hope he lost," I said.
 
@@ -440,7 +435,7 @@ She put out her hand for the case.
 
 I gave it to her. "There is a knife in the bottom of it," I said, "under everything. It is a good knife. It cut the cord."
 
-Plautia opened the case, and moved the pens aside with a fingertip, and found the knife in its fish-skin. She shut the case again on her letters and gave me the knife.
+Plautia moved the pens aside with a fingertip and drew the knife out in its fish-skin for me.
 
 "It belongs with whoever knows what it is for."
 
@@ -454,11 +449,11 @@ Plautia opened the case, and moved the pens aside with a fingertip, and found th
 
 "Twice. In the street, in the dark."
 
-"Good," she said, "she will be content," and the bearers rose together, and she climbed into the litter from the right, the side Myrrhine had shown me, and her curtain stayed down.
+"Good," she said, "she will be content," and the bearers rose together, and she climbed into the litter from the right, and her curtain stayed down.
 
 I pushed the knife into my belt. "Should I have refused it?"
 
-"Her woman will be on the quay before us." He looked once round the empty forum. "Walk."
+"Her woman will be on the quay before us. Walk."
 
 We left the colonnade for the sun.
 
@@ -472,7 +467,7 @@ We left the colonnade for the sun.
 
 "The three who are dead," I said. "Who were they?"
 
-"The doctor at the school. He sewed me up for six years. An oil-seller who had the stall by the gate. A trainer who had me from a boy." He walked on some paces. "The other six are strangers to me."
+"The doctor at the school. He sewed me up for six years. An oil-seller who had the stall by the gate. A trainer who had me from a boy. The other six are strangers to me."
 
 The forum was a long white floor with nobody on it but statues and pigeons, and a woman asleep against the base of an emperor with her basket in her lap. At its north side the ground fell away to the harbor road, and at the head of it stood the arch, with a bronze chariot on top of it and the horses' gilding gone green along their bellies.
 
@@ -486,9 +481,9 @@ He saw us and lifted one hand, friendly, as a neighbor might from his own doorst
 
 "Let him watch it. It's the only road."
 
-We passed beneath the arch, and him, so near I heard the water move round his ankles. My hands had begun to shake. I put them into the folds of Myrrhine's dress, and we went on down the first broad step, and the street took us.
+We passed beneath the arch, and him, so near I heard the water move round his ankles. My hands had begun to shake. I put them into the folds of Myrrhine's dress and they shook there against my legs while we went on down the first broad step, and the street took us.
 
-The road to Lechaion fell from the city in long steps, broad as a room, with colonnades along both sides and shops behind the columns, and up those steps from the harbor poured the whole of the morning's ship. They came in a crowd, everybody talking: Italians in traveling hats, a family with a goat, a priest with a box on a slave's head, and in the middle of them, taller than everyone round them by a head, six or seven athletes in a knot round their trainer. They were young, enormous, oiled for the road, with their strigils and flasks hanging off rings at their belts and clinking as they climbed. The biggest had ears like knots of dough. The trainer was a little bald man who climbed the steps backward ahead of them, talking, and missed no footing that I saw.
+The road to Lechaion fell from the city in long steps, broad as a room, with colonnades along both sides and shops behind the columns, and up those steps from the harbor poured the whole of the morning's ship. They came in a crowd, everybody talking: Italians in traveling hats, a family with a goat, a priest with a box on a slave's head, and in the middle of them, taller than everyone round them by a head, six or seven athletes in a knot round their trainer. They were young, enormous, oiled for the road, with their strigils and flasks hanging off rings at their belts and clinking as they climbed. The trainer was a little bald man who climbed the steps backward ahead of them, talking, and missed no footing that I saw.
 
 Boys worked the crowd with pine. They had armfuls of it, cut that morning, the green twists of it plaited into crowns. "The god's pine! The winners' pine! Wear what the winners wear!" One pushed a crown at the athletes and was cuffed, cheerfully, by the trainer. Another danced down a step ahead of me. "Crown, mistress? For your man? Put it on him and they'll think he won something!"
 
@@ -498,15 +493,15 @@ By the following column a man had a tray of new silver slung from a strap and wa
 
 A sausage-man had set up his brazier against a column at the turn of the steps. The coils on his grill spat and smoked, filling the colonnade with the smell of fat and cumin. He banged his tongs on the grill. "Lucanian, all of them! Not for the athletes, the athletes aren't let have them, their trainers say so! Everybody else!"
 
-We pushed down against all of it. Shoulders knocked mine. A hat brim caught my cheek. Valens went first and the crowd opened in front of him without anybody seeming to decide to, and shut behind me before I was through.
+We pushed down against all of it. Shoulders knocked mine. A hat brim caught my cheek. Valens went first and the crowd opened in front of him, and shut behind me before I was through.
 
-The trainer saw Valens coming and stopped dead, so that the nearest of his boxers walked into his back.
+The trainer saw Valens coming and stopped dead, so that the nearest of his boxers walked into him.
 
 "Murmillo," he said, in the Greek of Alexandria, to Valens's chest. "You come down a stair like one. Whose school?"
 
 "I lead mules." Valens went by him.
 
-"Mules!" The trainer turned to his boxers, delighted, walking backward again. "He leads mules, he says. Did you hear him? Mules!"
+"Mules!" The trainer told it to his boxers, walking backward again. "He leads mules, he says. Did you hear him? Mules!"
 
 At the turn by the sausage-man I stopped.
 
@@ -534,7 +529,7 @@ Valens was at the door with a crown of pine in his fist.
 
 "Now? You bought it now?"
 
-"He'll ask who won." He scanned the climb behind us. "We'll not know. He can have this."
+"He'll ask who won. We'll not know. He can have this."
 
 The fountain man had vanished from the climb behind us, or was hidden in it. That meant nothing; the steps were all people.
 
@@ -546,7 +541,7 @@ The city ended at the bottom of the road, at an old wall nobody had mended and a
 
 On my face, the air moved. It came inland off the water, cool, a breath of it and then a steadier push, smelling of salt and weed and pitch, and it lifted the hair off my neck.
 
-Valens felt it too. He lifted his face into it.
+Valens raised his face to it.
 
 "That's the breeze," he said.
 
