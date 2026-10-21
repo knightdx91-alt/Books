@@ -74,6 +74,10 @@ Then Amelia described what she had done to Raizen. Three thousand years, shut up
 
 Viridia had carried his sygl once. She took that in with her jaw hanging. Then she laughed so hard her legs gave out and dropped her onto the cushions.
 
+"And Toma?" Lora asked, once Viridia could breathe again.
+
+Aren had taken the old man to the Heir's School. The healers there would look after him until he was well, according to Amelia, and after that he could decide for himself what a man his age did with the Blood's mark on his hand. Bal found he was glad of it.
+
 ---
 
 After that they ran out of talk.

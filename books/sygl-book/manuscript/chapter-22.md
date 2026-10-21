@@ -162,6 +162,8 @@ He had a single sheet in front of him now, written front and back. He read from 
 
 "The inn gets a delivery of ale every other Wednesday," Xavier went on. "This coming one falls on the day the priests should arrive. That might be something you can use. The innkeeper might be open to a bribe. Our people couldn't tell either way. The guard in Londra is about what you'd expect for a city that size. They step up the patrols while the priests are visiting."
 
+"Rooms are waiting for you at the Winespring Inn," he added. "Lady Amelia wrote ahead to arrange them."
+
 He put the paper down.
 
 "Any questions?"
