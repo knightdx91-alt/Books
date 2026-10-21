@@ -473,6 +473,14 @@ Use this structure for every issue in the Revision Recommendations section. Vagu
 | **Revision direction** | A specific executable instruction |
 | **Project rule?** | Yes / No — should this become a standing constraint? |
 
+**Your own replacement strings are prose, and they meet the Writer's bar.** When a finding gives exact
+new wording — a swap, a recast, or narration restored to keep a word floor — check each string before it
+goes in the table: the book's at-risk/spent lists, the voice-bank samples, the outline's plan sentences,
+and the previous chapters (`tic_report.py --echoes N` on a scratch copy is the floor, not the ceiling — it
+cannot see a reused frame or a moved repeat). In The Hour of Ash Ch.16 and Ch.17 a polish cycle's own
+restores and one-for-one swaps planted the next cycle's findings (a plan sentence echoed, a repeat moved
+one sentence over, a triad rebuilt). A fix that creates a finding is not a fix.
+
 ### 7 Problem Types
 
 1. **Character** — Behavior inconsistent with foundation profile; motivation not visible; chaos absent or mediated; secondary character functions only as protagonist prop
