@@ -652,3 +652,356 @@ This chapter is the hinge, and it earns that place. Two people marry in ten word
 - **R6 removes a comparison many readers will like.** The road look is Valens's own attention axis. I count it because the bible says no vehicle is used twice, and Ch.15 used the road for his attention to her body. The replacement (needles in the flour) keeps Mara's eye on the man at the moment of the question.
 - **R10 rewrites a description the PACUVIUS card endorses** ("Mara's one description of it"). I count it because the after-Ch.16 delivery frame is CLOSED by attention channel (endings; speech set down), not by string.
 - **Characters 8.5 → 9.0 and Prose 8.0 → 8.5 are forecasts, not scores.** Originality, Theme, Pacing, Emotion and Immersion at 9.0, and Casual 9.0, are one-chapter judgments by the system that wrote the book.
+
+---
+---
+
+# Re-evaluation after cycle 1
+**Evaluator:** book-evaluator (independent; did not write, revise or apply any of this prose) | **Date:** 2026-10-21
+**Text evaluated:** `manuscript/chapters/chapter-18.md`, md5 `55741e53f482f00bea489e07bc2e701a`, sha256 `50dd464e…`. That is **byte-identical to the tested copy** `ch18-fixed.md` (md5 checked side by side), so all 20 swaps are in exactly as tested. **2,528 words** (shape_check), 2,536 (style), 2,532 (show_tell); dialogue **34.3%**.
+
+**Read against:**
+- the book's CLAUDE.md;
+- STATE.yaml AUTHOR-CP3-3, CP3-5 and END-1;
+- voice-dna §0–§4;
+- character-bible.md: the at-risk blocks after Ch.16, Ch.17 and Ch.18, the Retired / at-risk table, the PACUVIUS card, the VALENS and FELIX Ch.18 blocks, the Ch.18 walk-on note and the roles table;
+- outline `## Chapter 18` and Ledger row 18;
+- Ch.17's close in full;
+- `disruption-chapter-18.md`, for what the disruptor cut.
+
+**chapter-19.md:** none in `chapters/`.
+
+**Measured on the current page** (`bash books/the-hour-of-ash/tools/check_chapter.sh 18`, from /home/user/Books): **clean on every gate.**
+- style: simile 2.0/1k, em-dash 1, foreshadow 0;
+- grammar 0; rhythm 0; show/tell no flags;
+- voice-wear strict clean;
+- tic gate clean (and-chains 2/9, credential 0, pivots 0, "So" 0, gesture classes clean);
+- echo 0; metaphor 2.0 fig/1k, median 15;
+- `shape_check --strict`: `18 2528 0 34 15 I-statement punch`, CLEAN.
+- **`tic_report.py --echoes 18`: none / none / none** (echoes, command echoes, spoken-line echoes).
+
+## Verification of the 20 swaps (did any of them introduce something new?)
+**Method.** I word-diffed the cycle-0 page (md5 `629fcb53…`) against the current page, then checked every replacement string four ways:
+- a 3–7-gram scan against Ch.1–17 and all 13 voice-bank samples, stop-word-bounded strings included;
+- a string grep across the book;
+- a frame check against every SPENT, CLOSED and RESERVED entry in the bible;
+- a check against what the disruptor cut.
+
+| Swap | New string | Verdict |
+|---|---|---|
+| C1 | "It's the nuts," … "There should have been nuts. Don't look at me." | **Clean.** The excuse is now his own grievance (l.63), with no irritant and nothing explained. "It's the" is ordinary speech (Ch.17 ×2). |
+| C2 | "Valens was minding the dun." | **The string is clean, but it creates a skeleton double.** "Valens was [V]ing the [mule]." now opens l.107 and l.141 ("Valens was chasing the black."), and it makes a third "Valens was" paragraph opener (l.155) → **F2** |
+| C3 | "Best plank in Lechaion, that." (untagged) | **Clean.** Felix is the paragraph's subject; "She" is the dun. |
+| C4 | "the sailor said." | Clean. |
+| R1 | "a man sat in a beached boat mending a net and whistling, as if the afternoon were his to spend." | **Clean** (0 hits). It is the chapter's one "as if", and it characterizes rather than explains. No count, no negation. |
+| R2 | "a wind straight in off the water flattened my dress against my legs" | **The string is clean; INVESTIGATE.** Ch.17 l.536, nine paragraphs before its close, has the same breeze "came inland off the water … and it lifted the hair off my neck". It is the same wind, outside the last-two-paragraphs rule, and cycle 0 kept "in off the water" knowingly. **Not changed.** Ch.19's opening puts no weather on Mara's body. |
+| R3 | "like a blind on its cords" | **Clean.** Ch.3's "like a blind woman" is another word (a person, not a window blind). |
+| R4 | "like a boy half his age" | Clean. |
+| R5 | "like a diving board after a jump" | Clean. |
+| R6 | "…the hair of his forearms, a few pine needles in it, and the crown hanging from his hand." | **FAIL, on three counts → F1:** (1) **a cut repeat moved sideways.** The disruptor cut "the few needles still clinging to them" from the crown, and this puts "a few pine needles" on his arm. (2) It re-describes the crown indirectly (shed needles), and the after-Ch.17 block allows the crown "no re-description". (3) The with-X, Y, and Z cadence at the proposal is a new three-beat list over his body, which edges the CLOSED item-by-item gaze. |
+| R7 | "a gray man stained with tar" | **Clean.** "the tar-handed sailor" (l.121) still identifies him. |
+| R8 | "…with the edge of his nail and pressed." | Clean. |
+| R9 | "before she stepped" | Clean (ordinary English). |
+| R10 | "a harbor Latin stuffed with sailors' Greek, and he stayed at the rail to use it on us." | **Clean.** It describes vocabulary, not endings, and nothing is laid or thrown down. "to use it on us" is a wry purpose clause, not a #11. The card's "Mara's one description" holds. |
+| R11 | "Valens called, and the sailor turned to answer him." | **Clean.** The cause of the kick is on the page, with no comment. "called" is volume. |
+| R12 | "and rinsed it off under the tap" | **Clean.** It is an act; the purpose tail is gone. |
+| R13 | "I found breath enough for Latin, barely." | **Clean.** It is breath, not a description of her Latin, so the CLOSED frame is untouched. |
+| D1–D4 | "The hands were at"; "The master's daughter"; "the slot of water by the hull"; "the jar kept level." | **Clean.** D2 labels the girl before her "Father," line. Mara can infer it from "My girl's aboard" (l.41), and the joke is "was mine like that?", not who she is. INVESTIGATE only. |
+
+**Summary:**
+- **Added explanation: none.** #11 is 1 firm (0.40/1k).
+- **Echo of an earlier chapter: none** by the gates. By hand, there are no whole spoken lines and no frames, apart from the R2 INVESTIGATE.
+- **Repeat moved sideways: one** (R6's needles).
+- **New triad: one, borderline** (R6's list).
+- **New in-chapter double: one** (C2 against l.141).
+- **One double the earlier passes did not catch (it predates cycle 1): "haul" ×8 in the chapter.** Most are rope (l.13, l.15 ×2, l.67), and those are right. But Felix's three fall within 25 lines (l.119 "He hauled.", l.135 "still hauling", l.143 "Felix hauled his tunic off"), and l.143's "tunic off" sits against Ch.17's last paragraph ("swept a tunic off it") → **F3**.
+
+## Finalize fixes (F1–F3), tested together
+| # | Location | Now | → Finalize | Why |
+|---|---|---|---|---|
+| F1 | l.71 | "Valens faced me with flour dried white in the hair of his forearms, a few pine needles in it, and the crown hanging from his hand." | "Valens faced me with flour dried white in the hair of his forearms and the crown hanging from his hand." | R6's three faults (above). This is the cycle-0 text minus the road look, so the moment stays bare, with Mara's eye on the flour, and the crown at the proposal stays (the comic image). |
+| F2 | l.141 | "Valens was chasing the black." | "Valens had gone after the black." | Clears the C2 skeleton double and leaves two "Valens was" openers, which have different shapes. "gone after" and "after the black": 0 book-wide. |
+| F3 | l.143 | "Felix hauled his tunic off." | "Felix peeled off his tunic." | "haul" 8 → 7, and Felix's three → two. The word order avoids "tunic off" (Ch.17's last paragraph). "peeled off his": 0 book-wide (Ch.1 has "peeled it off", Ch.15 "peeled it"). |
+
+**Replacement strings rejected during testing:**
+- "dragged his tunic over his head": it makes "tunic over" ×2 in one paragraph, against "threw the tunic over the dun's face".
+- "stripped his tunic off": Ch.12's "He stripped his cloak off." (Valens).
+- Changing l.107 instead of l.141: "had gone to the dun's head" would put him away from her in the sentence before she holds her arm out to him.
+
+**Script and test:**
+- **Script:** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/ch18-finalize.py` (`python3 ch18-finalize.py <in.md> <out.md>`). It checks the input md5 is `55741e53…` and aborts on any OLD string that does not occur exactly once.
+- **Tested output:** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/ch18-final.md`, md5 `dbd5ac50047ee465bb51f78d85ac44a4`. Header comments are untouched.
+- **Results with the copy swapped into the manuscript path, run from /home/user/Books:**
+  - `check_chapter.sh 18`: **all clean.**
+    - style: 2,531 words, simile 2.0/1k, em-dash 1;
+    - grammar 0; rhythm 0;
+    - show/tell 2,527 words, dialogue **34.3%**, no flags;
+    - voice-wear strict clean;
+    - tic gate clean (and-chains 2/9; gesture classes clean);
+    - echo 0; command echoes none; spoken-line echoes none;
+    - metaphor 2.0 fig/1k, median 15;
+    - shape CLEAN.
+  - `tic_report.py --gate`: clean, exit 0.
+  - `--echoes 18`: none / none / none.
+  - `shape_check --strict`: `18 2523 0 34 15 I-statement punch`, CLEAN, exit 0.
+  - **Every replacement string was put through the reuse checks above** (3–7-grams against Ch.1–17 and the samples, stop-word-bounded strings included). The only hits are ordinary stop-word strings ("and the crown" Ch.6; "white in the" Ch.17, which is the forum paving; "and I caught it" Ch.7).
+- **Restored:** the original was put back, and its checksums were verified (md5 `55741e53…`, sha256 `50dd464e…`). **I did not edit the manuscript.**
+- **Post-finalize numbers:**
+  - **2,523 words** (shape_check), which is ≥ 2,500 ✓. Against the 2,800 target that is −9.9%, inside the 2,500–3,100 range.
+  - dialogue 34.3%; median 15; 0 breaks; `I-statement` → `punch`;
+  - em-dash 1; "as if" 1; semicolons 5 (2.0/1k);
+  - #11: 1 firm; paragraph-final negations 1; "without" 3.
+- **The anchors are byte-identical:** the ten words; "cried underneath it"; the watch stretch from "He took out the watch" to "…and ticked."; the daughter's line and "Yours had a cake,"; the sandal; the tunic blindfold; "I put the crown back on him."; "…and me."; the closing line.
+
+## Genesis Score (fresh; per-cycle cap of +0.5 against cycle 0)
+
+| Dimension | Cycle 0 | **Cycle 1** | Evidence | Holds / caps |
+|---|---|---|---|---|
+| Originality | 9.0 | **9.0** | The anti-wedding is untouched: ten words to satisfy a stranger's mother-in-law; "Yours had a cake,"; the sandal; the wrist chosen by a child's tooth marks. **New texture:** R10's "a harbor Latin stuffed with sailors' Greek" is a classicist's ear, and it is right for a Puteoli shipmaster. | Not 9.5: the balking animal at the gangplank is a fresh execution, not a new beat. |
+| Theme | 9.0 | **9.0** | "The fig was all that was left on the quay, in its jar by the ring, and me." / "the little tree shook all its leaves between us"; "Then she's nobody's, which is worse." It is never stated. The texture means nothing: the net-mender, the sprats, the rowers eating. | Not 9.5: the fig jar is the obvious emblem, and it lands because it is underplayed. |
+| Characters | 8.5 | **9.0** (+0.5) | **C1–C4 cleared:** "It's the nuts," … "There should have been nuts." is Felix's own grievance from l.63, so the excuse is his and the tears are his. "Valens was minding the dun." is his animal axis, maintenance rather than a look-away. Both tags are clean. **Pacuvius** matches his card (consequence run-ons, then "Then she's nobody's, which is worse."; the sandal; never down the plank). **Cover-the-name:** PASS for all five speakers. **Chaos:** Mara 3/4, inhabited; Felix's body rebel. **NO-TICS:** no catchphrase; gate gesture classes clean (gate numbers used); no device. | **No cap.** Not 9.5: D2 labels the daughter before her line, and "the sailor" carries seven tags. **F2** clears the one new skeleton double. |
+| **Prose & Voice** | 8.0 | **8.5** (+0.5, the cap) | **The law cluster is gone:** the sample-06 hammer, "in a hurry", the three narrating-present similes, the Ch.15 heat frames, the Ch.16 clasp sound and "not much of it", the CLOSED frames and Ch.17's wind-into-faces. **Stopping sentences:** "Felix took it and put it on, and cried underneath it."; "The fig was all that was left on the quay, in its jar by the ring, and me." **Underlines:** "Gold that soft took a scratch from anything, and it had a child's teeth in it already."; "the dun stood still in the dark he had made her, with her ears turning."; "As I was told at sunrise, and nobody on my ship has lied to anybody."; "The rest of it outran me." **Ugly sentence:** "The watch sat on the wrong wrist and ticked." **Voice under pressure:** the run is in the body and the Latin is cut off at the dash; the asides return at the cucumber. | **8.5 on the page with F1–F3** (all D-class: one cut detail restored, one skeleton double, one verb cluster; no law breach). #11 is 1 firm, inside the short-chapter rule. Not 9.0: the per-cycle cap, the rigging paragraph (l.15, #15), and "Gold that soft…" as the one explanation. Anti-AI 7/20, −0.875. |
+| Pacing | 9.0 | **9.0** | The ledger row is hit on every hard field (Single-scene; `I-statement` → `punch`; 0 breaks; 34%; 2,523; median 15). The condition runs as talk; the ten words are three lines; the watch is the one deceleration; then the mule chaos runs against the yard. **Value shift:** − → + → − → +. | Not 9.5: l.11–15 still runs about 250 words of description before the first spoken line. |
+| Emotion | 9.0 | **9.0** | **The anchor lands:** the watch, warm from him, with flour in the links, the crown taking two, twenty to one by the shadow, and no word said (END-1 ✓). **Surprise:** ten words and a mule. **Body rebel:** Felix. Mara's feeling goes into objects and acts, with zero intensity-words. Techniques ≥5. C1 makes the displacement funnier, and the tears are still his. | Not 9.5: there is no breath of Mara inside the ten words. That is correct restraint, and it carries a cost for part of the audience. |
+| Immersion | 9.0 | **9.0** | Stern-to mooring, the *cheniscus*, brails through lead rings, the halyard made fast to a pin, the tow boat, consent before witnesses, "Yours had a cake," and "by Pollux". **New in cycle 1:** the net-mender, and sailors' Greek in harbor Latin. | Held. |
+| **FLOOR** | 8.0 | **8.5** | Prose & Voice | |
+| **AVERAGE** | 8.79 | **8.93** | (9.0 + 9.0 + 9.0 + 8.5 + 9.0 + 9.0 + 9.0) / 7 = 62.5 / 7 | |
+
+**Casual Reader: 9.0.** An airport reader buys this:
+- the six-word proposal and "Yes. Will you?";
+- a gruff captain with one sandal;
+- a boy crying under a bald crown who says it is because nobody threw nuts;
+- a mule kicking the witness into a rope pile;
+- the boy going aboard in his underwear, crowned.
+
+The nuts line is the kind they read aloud. I hold the score at 9.0, not 9.5, because one funnier line does not change the whole chapter's vibe. **No vibes problem.**
+
+**CVI-Launch: 10.0** (9.49 + 0.5 anchor, capped at the scale; unchanged, since no anchor was touched). **CVI-Legacy: 7.1** (provisional; unchanged).
+
+## Anti-AI Scan (cycle 1 page, with F1–F3)
+**Found (each minor):**
+- **#1** forced symmetry: "He hauled. She leaned."; the master's swallow pair;
+- **#8** parallelism: speech only ("I stood witness … I stood up and witnessed"; "Is that all of it? … Is that them married?"; Felix's "I told him you'd come, I told him you'd come running");
+- **#10** described emotion: "with no great liking for the flour on him";
+- **#11** explanatory extension: 1 firm ("Gold that soft…", 0.40/1k);
+- **#13** precision: the counts and the time;
+- **#15** authoritative description: the rigging at l.15;
+- **#16** philosophical aside: "Gold that soft took a scratch from anything".
+
+**Clear:**
+- **#3** rule of three: **R6's list was borderline on the cycle-1 page, and F1 clears it**;
+- **#20** emotional temperature report: the three run-body beats are clustered in the first 55 lines (l.9, l.37, l.55), not periodic;
+- all others.
+
+**7/20, −0.875: clean band (commercial 0–8).**
+
+## The book's own laws (re-checked on the final copy)
+- **Foreshadowing 0** (gate and reading).
+- **END-1 ✓:** the watch is never explained.
+- **CP3-3 ✓:** "a child's teeth" is Marcus's marks on the bracelet, not a pregnancy thought.
+- **CP3-5 ✓:** "Isthm-" 0.
+- **No Ch.15 door, camera or "wait outside" line.**
+- **No comparison in Valens's speech.**
+- **Non-negotiables all on the page:**
+  - ten words before two witnesses;
+  - Felix cries;
+  - the sailor wants on;
+  - the watch is given back wound, with no speech;
+  - the mule refuses the plank;
+  - the close is a ≤7-word single-sentence paragraph.
+- **The memory is triggered by the scene** (the cucumber) and returns to it.
+
+## Reader reports (cycle 1)
+- **Devourer:** no stop anywhere. The descriptive run at l.11–15 is the only skim, and Felix on the plank carries it.
+- **Critic:**
+  - **No longer finds:** the present-tense similes, "said, too late", the road look, or the master's Latin by its endings.
+  - **Would underline:** the same set as cycle 0, plus "a harbor Latin stuffed with sailors' Greek".
+  - **Would mind, until F1–F3:** "a few pine needles" at the proposal, "Valens was minding … / Valens was chasing …", and Felix hauling three times.
+- **Hostile:**
+  - "Why does the sailor get kicked?" Because he turned to answer Valens. It is now on the page.
+  - "How does Mara know the girl is the master's daughter?" From "My girl's aboard." INVESTIGATE.
+  - "Did he set the watch?" Inferable from the shadow, and never stated. Honest.
+- **Casual:** 9.0 (above).
+- **Devoted** (active):
+  - **No longer catches:** Plautia's smoke excuse, the Ch.13 look-away, Ch.15's heat lines, or the Ch.17 wind in faces.
+  - **Might still catch:** the breeze on her body two pages after Ch.17's breeze on her neck (R2, INVESTIGATE), and the needles the disruptor once cut (F1).
+
+| Issue | Dev | Crit | Host | Cas | Devoted | Severity |
+|---|---|---|---|---|---|---|
+| R6 needles / list (F1) | | ✓ | | | ✓ | SHOULD FIX → finalize |
+| C2 "Valens was [V]ing the [mule]" double (F2) | | ✓ | | | | INVESTIGATE → finalize |
+| "haul" ×8, Felix ×3 in 25 lines (F3) | | ✓ | | | | INVESTIGATE → finalize |
+| R2 breeze on her body after Ch.17 l.536 | | | | | ✓ | INVESTIGATE (not changed) |
+| D2 the daughter labelled before "Father," | | | ✓ | | | INVESTIGATE (not changed) |
+
+**No CRITICAL, no IMPORTANT, no VIBES PROBLEM.**
+
+## The Tomorrow Test
+**What the reader remembers:**
+- a boy crying open-mouthed under a pine crown with no needles left, because "There should have been nuts";
+- the watch put back in her hand warm, with flour in the links, wound to the stop, right by the sun, and nothing said.
+
+**Anchor type:** BOTH.
+- IMAGE: the crown, the watch, the blindfolded mule, the fig jar.
+- QUOTE: "Yes. Will you?"; "Yours had a cake,".
+
+**Verdict:** ANCHOR EXISTS (strong).
+
+**Shareable:** "They get married on the dock in ten words because the captain won't sail otherwise, and the mule boy cries because nobody threw nuts."
+
+## Pacing check (one line for `feedback/progress.md`)
+**Ch.18 (cycle 1 + F1–F3):**
+- Single-scene, under an hour on a sunlit quay, the same early afternoon as Ch.17's run.
+- **2,523 words** (target 2,800, −9.9%, inside 2,500–3,100; not padded); dialogue 34.3% (30–40 ✓); median 15 (mid ✓); 0 breaks.
+- `I-statement` → `punch`, between Ch.17's `short-punch` → `quiet` and Ch.19's planned `scene-set` → `long-fade`.
+- The hinge is short after two 7k chapters, with the next at 8.4k. The value shift runs − / + / − / +, and the close hands straight to "By the time the goose ship…".
+- Book total about 99,207 words.
+
+**Verdict: OK.**
+
+## VERDICT
+**PASS.** Gate met: Floor 8.5 ≥ 8.5, Casual 9.0 ≥ 8.5, pacing OK, gates clean.
+
+| Measure | Result |
+|---|---|
+| Scores | Originality 9.0 · Theme 9.0 · Characters **9.0** · Prose & Voice **8.5** · Pacing 9.0 · Emotion 9.0 · Immersion 9.0 |
+| Genesis Floor / Average | **8.5 / 8.93** |
+| Casual | **9.0** |
+| Pacing | **OK** |
+| CVI-Launch / CVI-Legacy | 10.0 / 7.1 |
+| Mechanical suite (current page and F1–F3 copy) | all clean; echoes / command echoes / spoken-line echoes: none / none / none |
+| Swaps verified | 17 clean; R6 → F1; C2 → F2; one pre-existing cluster (haul) → F3; R2 and D2 INVESTIGATE |
+| Finalize | **apply F1–F3 with the script, exactly as tested** (2,523 words). No re-evaluation is needed: F1 restores cycle-0 text, and F2/F3 are single-verb swaps that cleared every gate and every reuse check. |
+
+## Character-bible Ch.18 re-sync (finalize; the bible still quotes the Writer's first draft)
+**The rule for every block:** re-tag it "SYNCED to the FINAL page 2026-10-21 (md5 `dbd5ac50…`): dialogue-polish, disruptor, continuity repair W-01…W-13, polish cycle 1 (C1–C4, R1–R13, D1–D4), finalize F1–F3". Every quote must then be verbatim on that page.
+
+**VALENS, Ch.18 block (l.1011):**
+- "I'll pay the fare again," … "Twice over." → **"I'll pay the fare again,"** ("Twice over." was cut by the disruptor).
+- "Keep off her heels," (too late) → **"Keep off her heels," Valens called, and the sailor turned to answer him.** (R11).
+- the time "shorter than my sandal" → **"The hands were at twenty to one, and beside my foot the mooring post laid a short shadow on the stone, tipped a little east."** (repair, D1).
+- "He was watching the dun." → **"Valens was minding the dun."** (C2).
+- The clasp: the page reads "…with the edge of his nail and pressed. His fingers smelled of bread, and once the catch was home he released my wrist." (R8; the snap is cut).
+- **Add:**
+  - the proposal staging, **"Valens faced me with flour dried white in the hair of his forearms and the crown hanging from his hand."** (R6 + F1; no look, no comparison);
+  - **"Valens had gone after the black."** (F2) before "Cover her eyes, Felix. Her eyes.";
+  - "Valens brought the black back with a sprat scale stuck to her nose".
+- **Spent, add:** minding an animal during a hand-off (CLOSED at 2 with Ch.13); the warning, then the turn.
+
+**FELIX, Ch.18 block (l.1633):**
+- The first line → **"He won't take us! He's had them pulling at this since the shadow was over by that post, and I told him you'd come, I told him you'd come running and you'd tell him yourself, and he says it's not the fare and it's not the mules. Where've you been? Why are your arms white?"** ("Did you get it?" was cut.)
+- "Nobody ever told me she was. Who married her? …" → **"I said she wasn't married." … "That's all I said. They asked was she, and she isn't, or if she is, it's news to me. Who married her? When was it? Wouldn't I have been there?"**
+- "Nobody's going over but him." → **"I asked them all," … "All morning, each of them along the mole, while you were up there. Not one of them's going over but him."**
+- The torches and nuts line → **"Here?" … "On the stones? With no torches? Who throws the nuts? You can't be married without nuts; they threw them at a bride at Kirrha till she hid behind her mother."**
+- "as a far younger boy cries" → **"like a boy half his age"** (R4).
+- "It's the sun," … "I've been sat in it since sunup. Don't look at me. Nobody look." → **"It's the nuts," … "There should have been nuts. Don't look at me."** (C1; "Nobody look." was cut).
+- The unanswered crown questions: "Nobody passed us with the news," → **"We were the only two people leaving,"** (Mara's line).
+- **Add:** **"Best plank in Lechaion, that."** (untagged, C3).
+- "Up, you." → **"On, you,"** … "Who ever died of a plank?"
+- "Strips his tunic" → **"Felix peeled off his tunic."** (F3).
+- **Spent:** "It's the sun" → "It's the nuts" / "There should have been nuts."; add "Best plank in Lechaion, that."
+
+**MARA: there is no Ch.18 block at all. Add one from the final page:**
+- **Lines:** "Yes. Will you?"; "I am a free woman," … "I am registered at Delphi, as a kinswoman of the house of—" (cut off); "We are all of us watching the yard,"; "We were the only two people leaving,"; "Ask her,".
+- **Body:** the taste of blood; "my ears were full of my own blood"; "I found breath enough for Latin, barely." The voice break on "Yes" was cut (W-07). Her hands act and never rebel: wipe, wind, catch, carry. The seat is resting.
+- **Memory:** the cucumber end at her mother's sink, ending "and rinsed it off under the tap, and then she had eaten the end herself, standing, with salt."
+- **The watch:** "I wiped it clean with my thumb"; "the only thing moving on that quay that nobody was shouting at"; "I put my nail to the crown to give it its turns, and it took two and stood hard."; the wrist choice; "The watch sat on the wrong wrist and ticked."
+- **Acts:** "I put the crown back on him."; "The fig was all that was left on the quay, in its jar by the ring, and me."
+- **Chaos:** 3/4, inhabited.
+- **Counts:** credential asides 0; teeth 0; laughs 0; English 0; AD 79 0.
+
+**PACUVIUS card (l.3436):**
+- **Vocabulary band:** "with the ends of the words knocked off" → **"quick and hard, a harbor Latin stuffed with sailors' Greek, and he stayed at the rail to use it on us"** (R10). **Keep "Mara's one description of it; never again."**
+- **Lines.** Replace the stale ones:
+  - "Your boy's been sitting on my plank since the third hour, telling my men about a mountain." → **"Your boy's been on that plank since the third hour, telling the crew about a mountain."**
+  - "Then Delphi can have you back." (cut) → **"They don't keep Delphi's rolls at Puteoli." He spoke to Valens.**
+  - "Nobody's carrying anybody's wife onto my ship, nor anybody's woman either." → **"I'll put no man's wife aboard, nor any man's woman either."**
+  - "Marry her … My man at the plank can stand for it, and your boy. … the way it was done before there were priests to ask, …" → **"Marry her, then, if you mean to, and be quick. That one at the plank can stand for it, and the boy. It wants no priest and no cake, only the two of you saying so with two others to hear it, and I don't care to be told how they manage it in Corinth. You have till the yard's at the top."**
+  - "Nobody's throwing anything at my ship." → **"Throw a nut at this ship and you'll swim after her."**
+  - "That's the yard!" … "Muleteer! That's my yard at the top! On my ship or off my plank, …" → **"The yard's up!" the master shouted. "Muleteer! Aboard or off the plank, the lot of you, and I'm not particular which!"**
+- **Beats, add:** "squinted past the mole"; "scowled up at the yard"; "To Valens he said".
+- **Note:** dialogue-polish cut "my [ship / deck / plank / yard / men / man]" from 12 to 3.
+- **Spent, add:** "They don't keep Delphi's rolls at Puteoli."; "I'll put no man's wife aboard…"; "Throw a nut at this ship…".
+
+**The Ch.18 walk-on note (l.2819):**
+- **The sailor:**
+  - "a gray man with tar to the elbows" → **"a gray man stained with tar"** (R7), and later **"the tar-handed sailor"**;
+  - "by Castor" → **"by Pollux"**;
+  - **add** "Haul now, and laugh at Puteoli," (to the mast hand who laughs) and "Hold her head, boy, and I'll warm her up behind,";
+  - he **turns to answer Valens** before the kick;
+  - "I stood witness for you," **the sailor said** (C4).
+- **The deck:**
+  - "four men round the mast" → **"The men round the mast"** (no count on the page);
+  - "six rowers in a tow boat" → **"a rowing boat"** … "the rowers", with "Give him another!" one of them shouted.
+- **The quay:**
+  - the barrel-hoop hammerer ("two blows and a rest") → **"a man sat in a beached boat mending a net and whistling, as if the afternoon were his to spend"** (R1);
+  - the fish-seller: "Whose is the black?" → **"That black's yours, is she?"**;
+  - "hits a dog" → **"the fish-seller threw one after her"** (the dog is cut).
+- **The daughter:** add **"The master's daughter had taken the cucumber out of her mouth."** (D2) and "she called along the deck".
+- **Mention only:** the mother's cucumber memory now ends **"and rinsed it off under the tap"** (R12).
+
+**The roles table (l.3491):** "the gray plank sailor with tar to the elbows" → **"the gray plank sailor, stained with tar"**.
+
+**At-risk after Ch.18 (l.4752): rewrite it to the final page.** First, the quotes that change:
+- **The ten words:** '"Yes." / "Will you?" / "Yes,"' → **"Yes. Will you?" / "Yes," said Valens**.
+- **The watch:**
+  - "stood hard against my nail; the spring was wound tight to its end." → **"it took two and stood hard"**;
+  - "…the only thing on that quay that moved without being shouted at." → **"…the only thing moving on that quay that nobody was shouting at."**;
+  - "shorter than my sandal, tipped a little east" → **"a short shadow on the stone, tipped a little east"**;
+  - **the Ch.11 fast-reading recall ("ten past nine … over the trough") is CUT and must never be restored.**
+- **The similes:**
+  - "cords hold up a blind" → **"like a blind on its cords"**;
+  - "like a diving board after somebody has gone off it" → **"like a diving board after a jump"**;
+  - add **"like a boy half his age"**.
+- **"as if" 1:** the barrel hoop → **the net-mender**.
+- **Mara's body:** the voice breaking on "Yes" ("it broke in the middle with the run still in it") → **cut (W-07)**; add "I found breath enough for Latin, barely."
+- **Spoken spent:**
+  - "We're all of us watching the yard," → **"We are all of us watching the yard,"**;
+  - "Nobody passed us with the news," → **"We were the only two people leaving,"**;
+  - add "It's the nuts," / "There should have been nuts."; "Best plank in Lechaion, that."; "Throw a nut at this ship and you'll swim after her."; "They don't keep Delphi's rolls at Puteoli."; "I'll put no man's wife aboard, nor any man's woman either."; "Keep off her heels," with the sailor's turn.
+
+**Counts (final page):**
+- 2,523 words (shape_check), 2,531 (style), 2,527 (show_tell), 3,080 (`wc -w`);
+- dialogue 34.3% (shape 34); median 15; 0 breaks; `I-statement` → `punch`;
+- em-dash 1 (Mara cut off); ellipsis 1 (the master); semicolons 5; "as if" 1; similes 5 by metaphor_check (2.0/1k);
+- and-chains 2/9; credential 0; pivots 0; "So" 0;
+- bare "No." 0; said/told-the-[non-listener] 1 ("told the harbor"); non-"said" tags: "called" ×2 (volume) and "shouted" ×4 (volume);
+- #11 1 firm; paragraph-final negations 1; "without" 3; indefinites in narration 2;
+- gate gesture classes clean; echoes / command echoes / spoken-line echoes: none / none / none; foreshadowing 0; "Isthmia" 0;
+- anti-AI 7/20 (−0.875).
+
+**New SPENT / CLOSED / WATCH entries.** Patterns are written as patterns, not page text. **From cycle 0, now confirmed on the page:**
+- tears excused by an irritant: CLOSED at 1 (Ch.16);
+- "said, too late": CLOSED at 1 (Ch.15);
+- Valens's look-away (or minding) at an object hand-off: CLOSED at 2 (Ch.13, Ch.18);
+- a road as the vehicle for Valens's attention to Mara: SPENT (Ch.15);
+- a clasp or catch on her wrist rendered by its sound: SPENT (Ch.16);
+- narrating-present similes: 0; "in a hurry" in narration: 0;
+- sample-06's counted hammer (`(two|three|four) blows and a (pause|rest)`): RESERVED for Ch.24 in any count;
+- the opening paragraph never reuses the previous chapter's last two paragraphs;
+- the watch: no "…and ticked." one-liner again, and Ch.44's watch on her wrist never recalls "the wrong wrist";
+- said/told-the-[non-listener]: 5th book-wide, so Ch.19 gets none;
+- vehicles spent: blind, diving board.
+
+**New from this re-evaluation:**
+- **A crown or garland's shed needles or leaves, described on anyone:** SPENT (Ch.17's "half bald"; the disruptor cut and F1). Felix's "a crown that's got no leaves on it" is the last word on it.
+- **A cut detail is grepped before any later swap restores it, on any noun:** the disruptor's cut list becomes part of the evaluator's reuse check.
+- **"[Name] was [V]ing the [animal]." as a short narration line:** ≤1 per chapter.
+- **"haul" in a non-rope sense** (breath, clothing): ≤1 per chapter (Ch.18 keeps "long hauls through the nose").
+- **"like a [person] half [poss] age":** once.
+- **Nuts thrown at a bride:** SPENT as a topic (Felix twice, the master once).
+- **A narrator "as if [the time] were his to spend" indifference at an opening:** once.
+- **Weather acting on Mara's body in an opening paragraph:** Ch.19 gets none, after Ch.17's breeze on her neck and Ch.18's on her dress.
+- **The master's daughter:** unnamed; labelled once.
+
+**ENTITY_STATE / handoff (unchanged from cycle 0):**
+- the watch is on Mara's RIGHT wrist;
+- Felix's tunic is on the dun, and the crown is on Felix;
+- the leaf is under Valens's tunic, and the pen-knife is in Mara's belt;
+- the goose ship is under tow on the afternoon breeze;
+- Pacuvius and the daughter are aboard.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+- **Prose 8.5 is the per-cycle maximum, and I give it on the page with F1–F3.** Without them the page carries one cut detail restored and two in-chapter doubles. A strict reader could hold Prose at 8.5 only after finalize; that is why F1–F3 are mandatory, not optional.
+- **F1 removes a detail many readers would like** (the needles in the flour). I count it because the disruptor cut the same detail from the crown, and the bible allows the crown no re-description.
+- **Casual is held at 9.0** although the C1 line is better. A single line does not change a chapter's vibe.

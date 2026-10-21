@@ -68,7 +68,7 @@ The yard went up another length of rope while he said it, and stopped, and went 
 
 The girl in the blue hood had eaten through to the last of her cucumber, the bitter knob at the stalk, and was holding it up to look at. My mother had cut that end off every cucumber she ever bought and rubbed the two cut faces together at the sink until a white froth came up between them, and rinsed it off under the tap, and then she had eaten the end herself, standing, with salt.
 
-Valens faced me with flour dried white in the hair of his forearms, a few pine needles in it, and the crown hanging from his hand.
+Valens faced me with flour dried white in the hair of his forearms and the crown hanging from his hand.
 
 "Will you be my wife, Mara?"
 
@@ -138,9 +138,9 @@ Out on the water the rowers got to their feet and cheered him. "Give him another
 
 The yard had risen hard under the masthead and stopped, and the men at the rope were making it fast to a pin, and the sail hung beneath it in its lines, waiting to be let down. On the mole somebody was lifting the stern rope off its post.
 
-Valens was chasing the black. "Cover her eyes, Felix. Her eyes."
+Valens had gone after the black. "Cover her eyes, Felix. Her eyes."
 
-Felix hauled his tunic off. The crown came with it, and I caught it before it reached the slot of water by the hull. He stood on the plank in his loincloth with every rib showing, threw the tunic over the dun's face and knotted its sleeves beneath her head, and the dun stood still in the dark he had made her, with her ears turning.
+Felix peeled off his tunic. The crown came with it, and I caught it before it reached the slot of water by the hull. He stood on the plank in his loincloth with every rib showing, threw the tunic over the dun's face and knotted its sleeves beneath her head, and the dun stood still in the dark he had made her, with her ears turning.
 
 I put the crown back on him.
 
