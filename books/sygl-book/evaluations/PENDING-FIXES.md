@@ -52,3 +52,6 @@ tic_report --gate and voice_wear_check (strict) all clean. **Word count after: 8
 - Small author calls: Ch.10 "I'm nothing like anyone else you've known" -> "I won't treat you the way other people have."?;
   keep "Nothing spilled" and "Probably" (drop/amend pending 14.112 and 15.081)?; Ch.22 "wrote ahead" -> "will write ahead"?;
   Ch.3 statue "the face it lit was hers" (new detail)?
+
+## Author decisions (2026-10-21, one by one)
+1. Ch.13 bookshop line: **B** — restore the script wording "I'm not like anyone else you've known."
