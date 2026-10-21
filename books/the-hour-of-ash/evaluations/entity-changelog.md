@@ -2847,3 +2847,92 @@ Open contradictions: 33 → 37.
   - No cite is above p286.
 - **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 307 characters, 97 locations, 140 objects, 20 organizations, 64 plot threads, 106 world rules, 207 timeline_events, 148 contradiction rows (52 open).
+
+## 2026-10-21: RE-SYNC (chapter 20, "The Mender's Shop", FINAL page)
+
+- **Page read:** chapter-20.md at b591762, md5 20bcc76c76ff17a127421c369cc3f273. Three passes landed after the UPDATE (617b1de, on the e52b0d7 page): the continuity repair (49a9870; C-01..C-03 with C-03 option A, W-01..W-14), polish cycle 1 (4cabab3, 41 swaps) and finalize F1-F11 (b591762). The diff was taken from 617b1de to HEAD.
+- **Numbering:** 286 → **284 paragraphs**.
+  - Two paragraphs were cut: old p188 (Felix: "Give me the ladder …", C-03) and old p278 ("Today," … "Tomorrow the wasps have them.", finalize).
+  - Old p1-p187 keep their numbers. Old p189-p277 = new p188-p276. Old p279-p286 = new p277-p284.
+  - Breaks are now after p45, p84, p129, p180, p222 and p248.
+  - A fifth HTML comment line moved file lines down by one, so file line 11 = p1. The per-section formulas are in `paragraph_rule`.
+  - Text changed inside 72 paragraphs (listed in `revalidation_needed`).
+- **Method:**
+  - 155 YAML lines were renumbered by script. This covered `ch-20:pYY`, bare Ch.20 refs on Ch.20 lines and in the CH20 rows and checks, and the `chapter: 20, paragraph:` fields of resolutions. No ref pointed at old p188. The refs to old p278 were all on lines rewritten by hand.
+  - Every quoted Ch.20 fragment was checked against the final page and against the paragraphs its line cites. Five missing cites were added (p38, p213 twice, p270 twice).
+  - A 4-gram and 3-gram scan looked for wording that was on the e52b0d7 page but is not on the final page. Every hit was corrected, or kept only as labelled superseded text (`e52b0d7:` / `*_was`).
+  - No cite is above p284.
+- **The orchestrator's known changes, as they stand on the page:**
+  - **The opening notice has a single reward:** "Whoever brings it back gets sixty-five sesterces. The thief knows who he is, and so do I." (p1). It is "up on the pier" (p2), and "lettered in red" is cut.
+    - Corrected in `objects.lost-pot-notice`, with `description_was` kept.
+    - The cook's "A fellow told me where, wanting it" (p33) is noted in `cooks-bronze-pot`.
+  - **The fig dropped last year's crop:** "a small heap of the summer's figs" (p98); "Last year she carried them all summer and dropped every one in the autumn." (p110). **CH20-3 RESOLVED.**
+    - Updated in the fig's beats, Mara's knowledge, Valens's trait and the Valens check row.
+    - The late figs now ripen "with the olives" (p275).
+  - **Zosimus's lamp:** "I've had it three summers." (p257).
+    - Corrected in his trait, Mara's knowledge, the lamp's description and the world rule. The rule had read "a lamp kept for forty years of dawns".
+  - **The furnaces are lit in the mornings:** "Zosimus was back two mornings later, on his way down to light the furnaces. It was still dim in the shop." (p270).
+    - Updated in his location row (`location_was` keeps "two evenings", "already dim") and in `locations.crossing-baths`.
+  - **The mended pot holds oil:** "Make it tight. My oil lives in it." (p30).
+    - Updated in the stewpot woman's trait and the stewpot's description, with `description_was` kept.
+  - **Felix's blanket is "in the shop"** (p16), and the summer errand is "off to see to the dun and the black" (p119). **CH20-4 RESOLVED.**
+    - Updated in Felix's status, location and knowledge_absent rows, Valens's writing trait, knowledge_index, cobblers-shop and the check rows.
+  - **"Two years, near enough, I had cleaned my teeth with a chewed twig of lentisk"** (p140). **CH20-2 RESOLVED.**
+    - Updated in `objects.lentisk-stick.beats_ch20`.
+  - **Felix no longer holds the ladder.** He "sat among the painter's pots and tipped his face up to the ladder" (p192), and says "me out of mine half the night" (p194). The painter "shouldered the ladder" (p197).
+    - Felix's status and location rows are corrected; the "holds the painters' ladder" and "the ladder's legs" rows are gone.
+  - **One filled molar:** "the gap beside my sixth-grade filling" (p140).
+    - `mara-reyes.physical.teeth_ch20` is updated, and it now agrees outright with ch-02:p50, ch-05:p154 and Ch.7 (one old filling). The old "two molars" wording is kept as `value_was`.
+  - **Fish sauce on the bread:** "ladle some onto a carter's bread, and I covered my mouth." (p280); "pushed his bread across for more of it" (p282).
+    - Updated in pregnancy_1, Mara's knowledge note, the fish-sauce carter's trait, the jar's description and gratas-thermopolium. The "ladle on its lip" is cut.
+  - **No jar spill:** "I filled the jar at the spout and carried it home." (p242). The water down her side and the next woman's jar are cut.
+    - The fountain-line-women trait is corrected (`trait_was` kept), and the check row is noted.
+- **Also corrected to the page:**
+  - the coppersmith knew the pot "on sight", and "This winter gone." (p38; p39, W-04);
+  - Felix "with lime in his eyebrows" (p12);
+  - the red house "past the temple crossing" (p182), and "They're painting the red house" (p183). This is corrected in CH19-2's resolution, CH20-1, pompeii, the whitewash patch, the red-house fact and the checks;
+  - the frame "Through the lens the heat off the tiles kept him and his tree wavering" (p100), corrected in film-roll `frames_shot_ch20` and the named-frame row (the left/right layout is cut);
+  - Grata's leaves line, "had not dropped a leaf since it budded"; and "It hasn't," (p115; p116);
+  - Felix's line, "He went up and wrapped her, and he was no sooner down than up to see had he wrapped her right." (p179);
+  - the tremor night, "the bed walked on its legs" (p131; "an inch" is cut);
+  - the turner, "a curl of bone caught in his hair", "It buried my wife's mother … and after her a horse.", the box collected "that evening", and no dice (p134-p137; p173);
+  - the whitewasher, "from the eaves halfway to the paving" and "at the mill with the donkeys" (p184; p189);
+  - the painter, "a thin fellow sat with his pots of red in a row" (p185);
+  - Grata's son "as he set off to bathe" (p208);
+  - the fountain pier, "Someone had answered it in a deeper hand" and "Higher than any of them" (p213; p218);
+  - the dyer, "a man whose hands were stained blue", and "his father insisted" (p238; p241);
+  - Valens and the stone, "looked at it by the lamp, small and dry and gray". The phrase "a stone like any other in any gutter" is cut;
+  - Zosimus: "The furnace stair did it," (p254); he scratches his beard, and the "black finger" now appears only at the plank (p253; p259). The lamp's nozzle line is cut, and "Round the filling hole the clay was black from his thumb." (p262);
+  - repair-trade payments: bronze, a cheese, the toothpick and wine. There is now no payment on the page for Zosimus, the blue bottle or the second money box.
+- **Audit patches** (chapter-20-audit.md SUGGESTED YAML PATCHES):
+  - Applied:
+    - CH20-3 and CH20-4 `remove_conflict`, now RESOLVED by the page;
+    - `felix` status and location (C-03);
+    - new `plot_threads.ch31-whitewash-raid`, with the C-03 constraint;
+    - `objects.fenn-notebook.location_ch20`, which now notes its first physical appearance since Ch.3, the first back leaf, the blank back half (ch-02:p65) and that the writing implement is unstated (I-14);
+    - W-15 forward constraint, added as `kalends-walks.forward_constraint` and as CH20-6's `audit_ruling`;
+    - I-17 rulings, added as `audit_ruling` on CH20-1 and CH20-5.
+  - Already present, so not duplicated:
+    - `film-roll.frames_shot_ch20` and `running_count_after_ch20` (plan 11 shot / 25 left; page at least 10 / at most 26). Only the quote was corrected.
+    - `knowledge_index.pregnancy_lucius`, the fish-sauce carter's overheard row.
+  - Not applied:
+    - `registries.command_echo` and `registries.item_by_item_look`. These are prose-pattern registries with no entity in this file's schema; they belong to the bible's at-risk registry.
+- **Eval cascades:** Grata, the carter, Valens and Felix on the pregnancy; the letter path; the Kalends cadence; Felix still believing Valens cannot read; and Plautia's knife on loan were all present.
+  - Added: `conception-and-lucius.ch21_handoff`, saying Ch.21 places Valens's knowing early, by Mara, before any street path (audit I-10).
+- **Contradictions:**
+  - **RESOLVED (3):**
+    - **CH20-2:** "Two years, near enough".
+    - **CH20-3:** last year's crop dropped.
+    - **CH20-4:** the blanket is "in the shop", and the errand is the mules.
+    - Each row keeps its e52b0d7 `prose` and adds `prose_now`, `resolution`, `resolved_from_conflict` and `resolved_date`.
+  - **NEW (1): CH20-7 (low).** The bible's Ch.20 blocks as COMMITTED at HEAD lag the final page. Examples: l.1147 "Today,", l.3175 "Two winters back.", l.3178 / l.5492 "Make it hold. I cook in it.", l.3192 "with red to the wrists", l.3198 "blue to the elbow", l.3931 "Dropped it on the furnace stair," and l.5469 "Tomorrow the wasps have them.".
+    - At this read, the working tree held an **uncommitted** bible sync by another pass that already carries the final text (`working_tree_note`). The row resolves when that sync is committed.
+  - **Rechecked, still open:**
+    - CH20-1: the outline still says "Grata's front room".
+    - CH20-5: unchanged on the page.
+    - CH20-6: unchanged on the page; the constraint has been added.
+  - **CRITICAL:** none.
+  - **Open count:** 52 → 50.
+- **meta:** header note, `last_updated_by`, `mode`, `source`, `paragraph_rule` (Ch.20 re-sync), `revalidation_needed` (chapter 20, RESOLVED), the `ch20_requested_checks` rows corrected (marked RE-SYNC), and a re-sync row.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. The file holds 307 characters, 97 locations, 140 objects, 20 organizations, 65 plot threads, 106 world rules, 207 timeline_events and 149 contradiction rows (50 open).

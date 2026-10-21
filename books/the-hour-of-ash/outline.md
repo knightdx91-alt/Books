@@ -1004,7 +1004,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Shareable moment:** —
 **Reading speed:** brisk and comic.
 **Word count target:** 4,800
-**Writer warnings:** Do NOT end on a hook, an image-with-meaning or an aphorism. A plain stop, more than 25 words in the final sentence (`long-fade`). Real-style electoral formula ("…asks you to elect…") at most once.
+**Writer warnings:** Do NOT end on a hook, an image-with-meaning or an aphorism. A plain stop, more than 25 words in the final sentence (`long-fade`). Real-style electoral formula ("…asks you to elect…") at most once. **(after Ch.20)** The night whitewash must not restage Ch.20's hired crew: no lamp on a pole, no "hold the ladder" in anyone's mouth or on any wall, no wall-writing of Ch.20's kinds, no letter set on a crack. Mara's own hands on the ladder by Grata's lamp are the deliberate counterpoint (see character-bible "Ch.31 guard").
 **Beat subversion:** *Genre beat:* a secondary-character subplot that sets up a later plot turn. *Subversion:* it sets up nothing. It is a night of whitewash.
 
 ## Chapter 32: Fever

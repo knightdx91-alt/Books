@@ -547,7 +547,72 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   how to fix it." (Calibration only. Its absent-workman verdict, "in a hurry" above all, is SPENT on the page at 6 chapters:
   see at-risk after Ch.9 polish cycle 1.)
 
-- **Ch.20 (Writer draft, 2026-10-21):** the mender's year: the board on the pier, the bowl thrown out, the stoker's lamp left findable, the fuller's wife's glass hidden; the tremor note begun in Fenn's notebook (no reckoning); the frame of Valens asleep under the fig; the toothpick (teeth full surfacing); the fountain break (tears); the door visited on the Kalends, never described; pregnant, told by Grata before she has said it. Details: At-risk after Ch.20.
+- **Ch.20 as written (Writer, 2026-10-21; "The Mender's Shop", Collage, the year in the cobbler's shop, Pompeii, spring AD 72 to the
+  olive month of AD 73. SYNCED to the FINAL page 2026-10-21 (md5 `20bcc76c…`): dialogue-polish, hook-craft, disruptor, continuity
+  repair C-01…C-03 (option A) and W-01…W-14, polish cycle 0 (41 swaps: L1–L3, C1–C7, R1–R19, D1–D7), finalize F1–F10 with F2b; quotes
+  checked by script; a CUT entry names a draft string checked to be OFF the page, never to be restored):** **No English aloud;** the
+  chapter's only English is the italic tremor note in Fenn's notebook. **Latin speech uncontracted and plain, with a dry turn:** "Where
+  does one buy paint, in this quarter?" / "There is no fish, and you are not in it," / "Everybody who owns any." / "I can close it so
+  that you will never find the crack again." / "I cannot rivet bronze. The coppersmith in the next street could." / "It looks like
+  nothing." / "I will mend this one." / "We have the pot." / "Anything you put in it." / "Grata says it is today's." / "One." … "And a
+  tree." / "He says it has not," (a relay of Valens's statement, not compliance: continuity C-01) / "On the Kalends." … "It is the
+  same." / "I can make it keep coins," … "Whether it fills is your affair." / "When you have one of your own." / "It is not a vow." /
+  "Glass is hard to hide. I can come close." / "The fig," … "In this rain." / "You did that in the dark." / "His bread comes last," …
+  "It says it is good." / "The wall stops there." / "It means everybody." / "A child gave me a stone." / "The potters' row," … "sells
+  this lamp by the basket." / "What name goes on the tag?" / "The furnace man at the baths." / "He wants to find it in the dark." /
+  "Keep it off the furnace mouth," … "The join will soften in a great heat." / "That jar has gone off," (behind her hand). Her one
+  narrated non-answer: "I gave him no answer." (to the tile carter; ≤1 per chapter). **Comprehension, a second mechanism (Ch.19's was
+  speech that outran her): a trade word she lacks, asked for and then shown by hand.** The stewpot woman: "She had a tinker put his
+  dogs in it the winter I was born. Do it the same." / "Which are the dogs?" / "She set a fingernail on each clamp in turn." / "These.
+  Lead. They've not shifted since." No gloss, no speed, no book-against-street contrast; "dogs" stays in the old English joiner's
+  register. CUT (R17): "The word belonged to tinkers." **Comprehension reports in narration: 0.** The mechanism is SPENT; the next
+  comprehension beat finds a third way. **Attention (materials and joins), hands at work, never a catalogue:** the stewpot, "coarse
+  gray ware, black with old fires to the shoulder", and "Lower down, my fingers found an older break with lead run through it in two
+  places and beaten flat, raised on the clay like scabs." (D1); resin run in "with the tip of a heated nail" and "pared it flush while
+  still soft", then "When it had cooled, my own eye could barely find the line." (her "before": the invisible mend, unglossed); the
+  bowl night (lentisk, whose "clear tears" the drug-seller sold "to women for sweetening their breath"; pine pitch "in a mussel shell
+  propped over the flame"; "a small dry seating I felt in my fingers rather than heard"; "a soft brown welt"; the thread; "With the
+  point of Plautia's little knife I shaved the welts down while they were still soft enough to cut like cheese"); the clay pig closed
+  "with a bead of resin"; the turner's box, "left the slot as it was"; the blue glass mended cold, "the bottle's own blue did half my
+  work"; the lamp (At-risk after Ch.20). CUT: "standing proud of the clay like scabs" (D1); "brought the faces home" at the lamp (R14).
+  - **Chaos, 4 of 4, inhabited.** (1) **The irrelevant joy, the toothpick tour (teeth: the full surfacing):** "The point went straight
+    into my mouth." / "Two years, near enough, I had cleaned my teeth with a chewed twig of lentisk and my own tongue." / "they were
+    waiting for my tongue at dawn" / "The bone went into every place there was." / "It found the gap beside my sixth-grade filling"
+    (one filled molar, as in Ch.2, 5 and 7: L1) / "I stood in the shop doorway with my back to the street and worked my way round my
+    whole mouth, tooth by tooth." (R1). On the tiles that night, "I worked at my back teeth until dark, and then passed the little rod
+    across to Valens." Grata's vow joke follows (her card). CUT: "while the carts went by behind me" (the moving-thing hold, SPENT);
+    "the two molars that had held a filling since sixth grade". (2) **The distortion, all-or-nothing, on the bowl,** with no reason
+    given and Ch.19's rule not restated: the rim piece "sat lower than its neighbor by the thickness of a hair. My lower lip found that
+    before my eye did." Then "I reached up and put our bowl on the heap of tiles." A second distortion, the body misread: "The jar had
+    turned, I decided." (3) **The memory, triggered, one clause:** "where Dr. Pinsky's hooked pick had scraped every spring and fall",
+    set off by the bone point, returning at once to the doorway; no stand-alone memory paragraph. (4) **Failed management:** the
+    fountain (below); at the fish jar, "and I covered my mouth." (R4; CUT: "my hand went over my mouth", sample-07).
+  - **The fountain (the mapped body break; tears, first use of the channel):** "I turned my hand up." (R3) / "He laid the pebble in my
+    palm, small and black and round, wet, and cold from the trough's bottom. Then he kept two of his fingers on it, after it was in my
+    palm, until he was sure it would stay." / "I was crying." (alone) / "The jar was on my hip and the stone was in my hand. The crying
+    heaved up through me. My mouth was open. I could not shut it." (pressure voice level 2: the asides die) / "It ended when it ended.
+    I filled the jar at the spout and carried it home." (L3) / at Grata's counter, "The stone in my other hand had dried by then. It
+    was gray, and not black at all." / to Valens, "A child gave me a stone." CUT: "I put out my hand." (sample-07: 0 before Ch.42); "I
+    could not stop." (R5, sample-09); "watched me cry" (F9); the jar running over down her side and the next woman reaching round her
+    at the spout (R2, Ch.14's spout freeze); "The jar was half empty by then" (L3). Never explained, by anyone, ever; no line in
+    Ch.21–24 links it to the pregnancy.
+  - **The tremor note (two sentences, no reckoning):** "One night of the vintage the bed walked on its legs and the lamp hook rattled
+    on the wall, and next door Grata's cups chimed together on their shelf." Then the notebook "from beneath my spare tunic in the
+    bag", "the first of his blank leaves at the back", the date and *small shake, lamps, nobody woke*, and "put the light out." Not
+    counted, compared or thought of again. **Hands steady:** no tremor of her hands anywhere in the chapter; hands and seat act only as
+    work, never as rebel. CUT (D4): "the bed walked an inch on its legs".
+  - **The camera (the named frame):** "I went below for the Pentax and climbed back with it." / "Through the lens the heat off the
+    tiles kept him and his tree wavering, and the waver never settled. I took it, and wound on, and he slept through both." (R13). CUT:
+    "In the finder" (W-13); the left/right layout (R13).
+  - **The door:** visited on the Kalends, never described ("On the Kalends." / "It is the same."). **The pregnancy, unnamed by her:**
+    "I had taken to going round the long block to the fountain so as not to pass it."; "over a cup of her hot wine I had not drunk";
+    Grata tells her. CP3-3 holds: nothing on the page remarks on the months before. **Small joys, shown and never named:** the fullers'
+    *Aeneid*, "I needed two readings to see it, and grinned at the paving all the road back."; the late figs, "I ate all three. They
+    were warm from the roof, and I wanted nothing else that whole day." **Objects:** Plautia's little knife (the bowl's welts);
+    Plautia's gold on the left wrist (Grata's fingertips "beside Plautia's gold"); the pebble, kept; the watch not on the page. **Ugly
+    sentence:** "Supper was beans again and they were cold and we ate them standing at the pot." Credential asides 1 (gate); laughs 0
+    (one grin); AD 79 0; mountain 0. **Spent in Ch.20:** every line above; the dogs exchange; the toothpick tour; the lip test; the
+    fountain set; the tremor note's wording; the named frame's wording.
 
 #### VALENS ("Lupus") — muleteer, former murmillo, freedman; b. c. AD 38 in Thrace (Ch.6–44)
 - **Attention / worldview:** footing, exits, weather, and the moods of animals and men, which are one
@@ -1144,7 +1209,37 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **Spent in Ch.19:** every line above; the ankle in the dark; "as still as the column"; the noseband; "It sticks at the sill,"; the
   bar set and lifted clear; "He'll know me again."; "That saved them stone."; "Up on the crown with them,".
 
-- **Ch.20 (Writer draft, 2026-10-21):** carting for the contractor (the forum drums, the tip by the amphitheater); the foreman and the black's bite; the fig pinched, wrapped and picked ("Today," … "Not tomorrow."); asleep on the roof under it (the named frame); the letter for Plautia sent to the Puteoli board (Ch.21's knowledge path); "Do you still walk out to your gate?"; "It's red" to Felix; his thumb along the stoker's blacked join. Bare "No." 0; comparisons 0; orders to Felix 0. Details: At-risk after Ch.20.
+- **Ch.20 as written (Writer, 2026-10-21; the mender's year, Pompeii AD 72–73. SYNCED to the FINAL page 2026-10-21 (md5 `20bcc76c…`):
+  dialogue-polish, hook-craft, disruptor, continuity repair C-01…C-03 (option A) and W-01…W-14, polish cycle 0 (41 swaps), finalize
+  F1–F10 with F2b; quotes checked by script; a CUT entry names a draft string checked to be OFF the page, never to be restored):**
+  **Lines (no comparison and no general-truth saying; bare "No." 0; narrated non-answers 0; orders to Felix 0):** at the board, read
+  "by lamplight on his way in from the mules, when Felix had already gone in to his blanket in the shop": "Glass," … "Who breaks glass,
+  in this street?" / "Grata will want her name on it somewhere." / the bowl night: "The foreman shorted us a load again today," / "The
+  black bit him. He found the load after that." / "In his pride. And in the meat of his arm, a little." / "He'll want her sold. He said
+  so to the yard at large." / "I'll stand her further off from him." / "Will it hold soup?" / "Beans will do," he said, and slept. (his
+  one falling-asleep; the disruptor cut two more) / "Over Felix's head, Valens met my eye." and "We'll manage with the cookpot," / at
+  the forum: "What's she sent?" (C3; CUT: "What's in it?") / "That's yesterday's bread." / "Grata would." / on the roof: "Did you spend
+  one on me?" / "On a man asleep." / "She wants water," / the pinched figs: "These would never ripen." … "Last year she carried them
+  all summer and dropped every one in the autumn. Without them she makes wood." (W-03) / "Next year." / to Grata's charge about the
+  leaves, "It hasn't," (a statement, continuity C-01; CUT: "Tell her it hasn't,") / the letter: "For Plautia," … "Where we are." /
+  "Most months a ship goes over to Lechaion. She'll put it aboard one for a copper, and keep the copper if there's no ship." / "Do you
+  still walk out to your gate?" / "And it's the same." / the toothpick: "Which end is for the ears?" / "Then I'll keep to the other."
+  (his one "Then…" opener) / the rains: "She's wrapped." … "She doesn't mind the wet. It's the cold that creeps over at night she
+  minds." / "She can't climb down to me." / the panel: "It's red," (his literacy kept from Felix, once; the look stops at "down to the
+  last red letter": continuity C-02) / "Grata tells me you cried at the fountain," / "That's a good stone," / the lamp: "Who's this
+  for?" / "Left like that." **Hands, a different object each time:** the rag "knotted over his nose and mouth"; the tablet written
+  "slowly, the stylus held low" and tied shut; the jar edged west along the parapet "by its rim"; the water fetched himself; "drew a
+  stitch tight through a girth with the thread's tail in his teeth"; the bed dragged out from under the drip; "He set his thumb on the
+  black line at its start and ran it along the welt to the rim, slowly, and back."; "His hand found my hip in the dark and lay there."
+  **The stone:** "He waited, in case more came." … "He looked at it by the lamp, small and dry and gray, and passed it back to me, and
+  took up his supper." (one pause; C5 cut the second and the gloss). **The fig, silent on its day (C1):** "Each morning he climbed up
+  and took one in his fingers and weighed it and left it", and when one came away "by its own weight" he "put them on my plank among
+  the broken things". CUT: "Today," … "Not tomorrow. Tomorrow the wasps have them." (his own earlier whole lines and Ch.11's wasp
+  lore). **The named frame:** asleep under the fig, "The shadow of a leaf lay over his open lips and stirred when the leaf stirred.";
+  "his bare soles gray with the forum". **Knows:** her gate and its cadence, not the tomb (continuity W-15: no line in Ch.21–29 has him
+  name or picture the tomb or the door before Ch.30). **Does not know** of the pregnancy at the chapter's end. **Spent in Ch.20:**
+  every line above; the black's bite; the wrapped fig and "She can't climb down to me."; the drip; "Left like that."; "That's a good
+  stone,".
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -1814,7 +1909,36 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   amphitheater; the narrows boast ("Which shall I do first?"); "I've the steadiest hand on this road."; "I'd put him down for you.";
   "You could drop a house in it and never see the roof."; the parapet line.
 
-- **Ch.20 (Writer draft, 2026-10-21):** carts with Valens; cannot read and makes Mara read him every wall (the board, the Polybius panel, the weaver's quarrel, the amazed wall, the jug graffito); holds the painters' ladder; buys the household's hare bowl; 8+ speeches end on a boast or a fact (WATCH resolved for this chapter). No palm scratched. Details: At-risk after Ch.20.
+- **Ch.20 as written (Writer, 2026-10-21; Pompeii AD 72–73. SYNCED to the FINAL page 2026-10-21 (md5 `20bcc76c…`): dialogue-polish,
+  hook-craft, disruptor, continuity repair C-01…C-03 (option A) and W-01…W-14, polish cycle 0 (41 swaps), finalize F1–F10 with F2b;
+  quotes checked by script; a CUT entry names a draft string checked to be OFF the page, never to be restored):** **Cannot read, and
+  has Mara read him the walls** (her board, the Polybius panel, Infantio's line, the weaver's quarrel, the amazed wall, the jug
+  graffito: the collage's delivery; WATCH below). **Speeches ending on a boast or a fact (the Ch.19 WATCH resolved here, 8+):** "That
+  wants shouting." … "There's no voice on the Stabian road to touch mine. The contractor puts me at the head of the string so the carts
+  coming up know to pull over." / the market cry, "Cracked your pot? Dropped your lamp? Bring it to the dead cobbler's, next door to
+  Grata's, and she'll have it whole for you by next market! Nobody on this road mends like her!" / the bowl, "That's a drop of two of
+  me." / "I've coppers put by from the contractor, more than you'd think." / the sledge, struck "a hand's breadth from his own foot",
+  then "It's an old drum," … "It's gone rotten in the middle. A blind man could tell that." / the hare bowl, "Break that, anybody, and
+  see what you get. Nobody touches it but me. I carry it up and I carry it down. I've never dropped a thing in my life I meant to
+  hold." / in the rain (F1): "He went up and wrapped her, and he was no sooner down than up to see had he wrapped her right. I heard
+  him on the stair. I hear everything in this house; I could tell you what the both of you eat in your sleep." / "All that red, and a
+  ladder, and three of them out of their beds, and me out of mine half the night. For bread." / "Polybius is standing on it," … "Right
+  on top of it, the whole height of him, and he doesn't know." / "No candidates on this pier. It's people wrote all this." / "I'd have
+  her off the pair of them by the Ides, if I put my mind to it, and I'd never touch a loom." / "That's wrong." … "It's been standing
+  since before any of us was born, Grata told me, and it's the straightest pier on the street." / "There's a name scratched on every
+  wall in this town but mine." **Stacked questions, still his and now the minority:** "What's written? Which bit's the fish? Did you
+  put me in it anywhere?" / "Can a mended thing go bad in a night?" / "Pulling them off, are you? Are they bad?" / "Bone, is it? Did he
+  turn it himself? Can I have a go after you?" / "Who are you painting?" … "What does he pay you? Will you paint a fighter's name, if I
+  bring you one?" / "Can you read the new one? You can't, can you, only she can, in this house." / "Who wrote that? What's drivel? Does
+  it mean us?" **The night painters (continuity C-03, option A): he sits among the painter's pots and holds nothing.** "Felix sat among
+  the painter's pots and tipped his face up to the ladder." Nobody from the household touches the ladder or the light. CUT: "Give me
+  the ladder."; "Felix had both fists round the ladder's legs and his weight on his heels."; "and me holding it for them half the
+  night"; "and took the ladder off Felix". **His own chaos:** the sledge; a green fig, "pitched one at the baker's roof opposite, and
+  missed"; "He rubbed a smut off the lime beside it with his sleeve." (the spat-on thumb is cut). **Sleeps in the shop** ("gone in to
+  his blanket in the shop"); the evening errand is "to see to the dun and the black" (continuity W-14). **Does not know:** that Valens
+  reads and writes; the pregnancy. **No palm scratched** (Ch.21's anchor; the arena line is primed by "Will you paint a fighter's
+  name"). "Is it" / "Is that" speech openers 0. **Spent in Ch.20:** every line above; the market cry; "a drop of two of me"; the drum;
+  the hare bowl's dare; the rain line; "For bread."; "Polybius is standing on it,"; the straightest pier.
 
 #### PLAUTIA — Celer's divorced wife; b. c. AD 44, married to Celer in the autumn of AD 63 at nineteen; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
@@ -2159,7 +2283,37 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   want"; "Rooms, I said, and I've got them."; "I kept you a bowl."; "Him opposite, new oven, bad draw, buy late,"; the directions;
   the board-up-at-that-shop line; the pinch of the sleeve; the whitewash as described here ("there was new whitewash. It was still
   dark with wet at its edges"; Ch.20/31 find fresh words).
-- **Ch.20 (Writer draft, 2026-10-21; Pompeii AD 72–73):** tells, never asks (0 questions on the page); the paint flood, the vow, her own wine board lettered by Mara and read back to her by a carter (she cannot read: her son reads her the Polybius panel), the cup set down without a word after the fountain, the fig-leaf complaint up at the parapet, and the reveal at the fish jar, two fingertips on Mara's wrist: "It's not my fish. It's a child you've got." Her whitewash is not shown or explained (Ch.31). No fancying of Valens stated. Details and spent lines: At-risk after Ch.20.
+- **Ch.20 as written (Writer, 2026-10-21; Pompeii AD 72–73. SYNCED to the FINAL page 2026-10-21 (md5 `20bcc76c…`): dialogue-polish,
+  hook-craft, disruptor, continuity repair C-01…C-03 (option A) and W-01…W-14, polish cycle 0 (41 swaps), finalize F1–F10 with F2b;
+  quotes checked by script; a CUT entry names a draft string checked to be OFF the page, never to be restored):** **Tells, never asks
+  (questions on the page: 0, the reveal included); every flood ends on a telling or a command:** the paint flood, "Nobody buys paint
+  here, they're robbed for it," … "Them that paint for the candidates live behind the theaters" (F8) … "you've a payer's face. Soot's
+  free." (R18) … "You're putting up a board. I told you so the week you came, and here's the spring half gone." … "Spell it right.
+  There's people on this street can read." / to Felix's cry, "Take that voice off to the forum," … "Shout at the fullers." / the fig
+  leaves, "Your tree's dropping its leaves in my wine," … "It's the wind does it, and I'll charge the wind." / the vow, "You'll have
+  the street thinking it's a religion," … "It is now. I've told her so. You'll do me a board too, while you're at the soot." … "put
+  Falernian big, because it is, or next door to it, it comes from that side of the bay." / to the carter, "The one you'll pay four for.
+  The price tells you which." / Polybius, "His loaves are half chalk," … "they always get it who paint first and pay the painters'
+  wine." … "Go on with the boy, he's waiting on you, he's been on that curb since the cock." / to the oil man, "You'll get it no
+  cheaper in Nuceria," … "your sandal's through at the toe already, I've been looking at it all this while." / the bottle, "Blue glass,
+  his mother's," … "I had it the hour it broke. The street heard it go, every door of it." / the reveal (the chapter's close; never
+  quoted back): "Three mornings you've gone as green as a leek at the smell of it," … "It'll come with the heat." … "It's not my fish.
+  It's a child you've got." CUT: "you've the face of a payer" (sample-02); "Them that paint the candidates" (Mara's Ch.15 3-gram).
+  **Touches, three, each different:** the hen-squeeze, "She caught my upper arm and squeezed it, as a wife at market would squeeze a
+  hen to feel for the meat on it."; the forearm push, "She put her hand on my forearm and gave it a little push, the way she moved
+  customers along her counter."; at the fish jar she "rested two fingertips on the inside of my wrist, beside Plautia's gold, and kept
+  them there while she talked." Ch.21 finds a fourth. **Business, once each:** "She slid a cup over to me." (the vow); after the
+  fountain the cup set down without a word, "She looked once at my face and reached down a cup, filled it and set it before me on the
+  counter, and went on telling the man about his measure."; the fish jar "at her counter's brazier end" (R19; CUT: "with a ladle on its
+  lip"), ladled "onto a carter's bread" (L2); "Grata clapped the lid on." (CUT: "Grata put the lid down."). **Cannot read:** "She had a
+  carter read it back to her before she would pay me."; the panel read to her "by her son as he set off to bathe" (F2b). **Watches
+  without asking:** "Grata caught me at it from her counter"; "All that week Grata watched me take our jar off the roundabout way, and
+  never spoke of it to me." **Her board:** *Grata says: a copper here and you drink. Give two and you'll drink better. Four, and it's
+  Falernian.*; she pays for the soot, "which was her own, in wine." **Teeth 0** (Ch.31). **Her whitewash is not shown or explained**
+  (Ch.31). **No fancying of Valens stated.** **CP3-3:** "the look about the eyes my sister had with each of hers" is a present
+  diagnosis, not history. **Spent in Ch.20:** every line above; "a payer's face"; "I'll charge the wind."; the vow; "The price tells
+  you which."; "half chalk"; "every door of it"; the hen-squeeze; the forearm push; the fingertips at the wrist; "It's a child you've
+  got."
 
 ---
 
@@ -3164,45 +3318,106 @@ quotes checked by script.)*
   a story for him; his name may appear again only as the plaque, in fresh words.
 
 #### Ch.20 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
-*(Writer draft, 2026-10-21. Every quote below is on the writer's page; downstream passes re-sync it to the final page.)*
-- **The cook above the bull's-head fountain (the lost pot):** his notice (the chapter's opening document); "in a stained apron, digging
-  at a splinter in his thumb with a pin"; the pot found "in the ditch outside the Sarno Gate," … "handle gone and a frog in it. Nobody
-  gets the sixty-five."; suspects the coppersmith ("Ask him where he was the night it went."). The dent "the shape of Nuceria" is his
-  boast, reported by the leek woman and the coppersmith. Spent.
-- **The leek woman and her old husband:** read the notice aloud; "He could have two new ones and a lid." / "Two new, and not a handle
-  between them worth the name." / "Then he should have chained it to the wall." / "He should have chained you." Spent.
-- **The coppersmith in the next street:** "a big soft-spoken man with burns all up his forearms"; "Riveted that handle on myself," …
-  "Two winters back. Good rivets."; his alibi ("at my sister's in Stabiae, and her husband will swear to it, and so will her husband's
-  goat"); "It looks like nothing," … agreed, pleased. Spent.
-- **The stewpot woman:** her mother's lead clamps ("She had a tinker do that the winter I was born. Do it the same."); "Then I'd only
-  break it in the same spot looking." / "Make it hold. I cook in it." Spent.
-- **The old tile carter:** takes the thrown-out bowl ("My wife's been at me for a bowl since the Floralia," … "Have you got any more
-  you don't want?"). Spent.
-- **The girl with the clay pig rattle and her mother:** "He won't talk," / "He talked all winter," … "She takes him everywhere." / "He
-  likes the hot room,"; paid in "a hard little cheese". Spent.
-- **The forum quarrymen:** sledges on a split column drum; the older hands Felix the sledge "and stood back". Spent.
+*(Writer, 2026-10-21. SYNCED to the FINAL page 2026-10-21 (md5 `20bcc76c…`): dialogue-polish, hook-craft, disruptor, continuity repair
+C-01…C-03 (option A) and W-01…W-14, polish cycle 0 (41 swaps), finalize F1–F10 with F2b; quotes checked by script. Every quote below is
+on the page; a CUT entry names a draft string checked to be OFF the page, never to be restored. Walk-on object-to-the-eye beats: 0 (the
+Ch.19 closure held). Introductions by a trade's residue on the body: 4 (the coppersmith's forearms, the turner's hair, the dyer's
+hands, Zosimus's elbows; F10 took the painter's off). Walk-on exits on a trait: WATCH.)*
+- **The cook above the bull's-head fountain (the lost pot):** his notice opens the chapter, single-reward after continuity W-01: *A
+  bronze pot has walked off from this shop, the big one, with the handle I had riveted on new at the Saturnalia. Whoever brings it back
+  gets sixty-five sesterces. The thief knows who he is, and so do I.*; "It was up on the pier of a cookshop above the bull's-head
+  fountain.", with the charcoal reply "that the thief was enjoying his soup"; "in a stained apron, digging at a splinter in his thumb
+  with a pin" (the chapter's one thumb outside the lamp); "He stared after me, in case the jar was his pot."; "Found it in the ditch
+  outside the Sarno Gate," … "handle gone and a frog in it. Nobody gets the sixty-five. A fellow told me where, wanting it, and I went
+  and fetched it home myself, so he gets nothing. I want a handle on it." / "He's the one I'd have said took it." / "You've your board.
+  You'll know somebody." / "Ask him where he was the night it went." / the pot carried "on his shoulder"; "A handle you could lift a
+  mule by, and he's charged me more than he first asked, like I was the one took the pot. Never again. Next time it walks, it can stay
+  walked." CUT: "Somebody had lettered it in red on the pier of a cookshop"; the second reward tier ("twenty more for the thief").
+  Spent.
+- **The leek woman and her old husband:** "a woman with a basket of leeks" reads the notice aloud "for the old husband on her arm";
+  "Sixty-five," … "For a pot. He could have two new ones and a lid." / "Two new, and not a handle between them worth the name." …
+  "Riveted, he says. He paid good money for that handle." / "He should have chained it to the wall." / "He should have chained you." /
+  over the leeks, "It was his father's pot, that, and it lived through the earthquake with a dent in its side, and he'll tell you the
+  dent's the shape of Nuceria if you stand still for it." CUT: "Then he should have chained it to the wall." Spent.
+- **The coppersmith in the next street:** "a big soft-spoken man with burns all up his forearms"; "He knew the pot on sight." (W-09);
+  "Riveted that handle on myself," … "This winter gone. Good rivets." (W-04; CUT: "Two winters back.") / "He'd like to know where I was
+  the night it walked." … "Tell him I was at my sister's in Stabiae, and her husband will swear to it, and so will her husband's goat.
+  Tell him a copper pot gets no handle off me twice for the one price." / "Shape of Nuceria. He tells everybody that." / "Like nothing
+  on earth," the coppersmith agreed, pleased (he no longer borrows Mara's line). Spent.
+- **The stewpot woman:** "a woman was at my plank out of the glare, with a stewpot wrapped in her apron"; "That's my mother's," … "She
+  had a tinker put his dogs in it the winter I was born. Do it the same." / Mara: "Which are the dogs?" / "She set a fingernail on each
+  clamp in turn." / "These. Lead. They've not shifted since." / to the invisible mend, "I'd only break it in the same spot, looking for
+  it." / "She folded her arms over the apron." / "Make it tight. My oil lives in it." (W-07: the pot leaves the fire for the store) /
+  paid "in bronze", the pot carried off "under her arm". CUT: "She had a tinker do that the winter I was born."; "Then I'd only break
+  it in the same spot looking."; "Make it hold. I cook in it." Spent.
+- **The old tile carter:** "an old carter walking at the mule's head"; he "lifted the bowl off the load, and blew the tile dust out of
+  it."; "My wife's been at me for a bowl since the Floralia," … "Have you got any more you don't want?"; "He stowed it in the breast of
+  his tunic" and walked on "with the cart creaking behind him and our bowl riding against his belly". In Felix's report, "a gray old
+  fellow". Spent.
+- **The girl with the clay pig rattle and her mother:** "a girl of six or so came in, towing her mother by the hand, with a clay pig in
+  her fist"; "He won't talk," / "He talked all winter," … "She took him to the baths. She takes him everywhere." / "He likes the hot
+  room," / the girl "standing so close her nose was nearly on my plank" / "He's better," / she "left shaking him at every step"; "Her
+  mother paid me in a hard little cheese." Spent.
+- **The forum quarrymen:** "two quarrymen were breaking up a column drum that had split in the earthquake"; "Show us," said the older
+  quarryman, "and handed him the sledge and stood back". Spent.
 - **The foreman at the contractor's yard (reported by Valens):** shorts a load; bitten by the black; "He'll want her sold." Open as
   texture only.
-- **The bone-turner one street over:** the beehive money box broken to get at the money ("There's no luck in a new box. This one's been
-  full twice." / "Once for my wife's mother's funeral. Once for a horse that died."); pays in the bone toothpick ("Teeth this end. Ears
-  the other. Don't mix them."), then in dice. Spent.
-- **The fuller's wife at the corner:** the vow gossip (via Grata) and the blue scent bottle ("He threw it at me," … "so I threw it back,
-  and he ducked, which he never does."; "Make it so he can't tell."); announces at the fountain that he never found the break. Her
-  husband is Ch.19's fuller. Spent.
-- **The night election crew (painter, whitewasher, lantern boy):** the painter "with red to the wrists", "Polybius," … "Enough. No.";
-  the whitewasher's "Four more walls before the cock" and "Chalk," … "Ask anybody."; the boy and his drooping light. **Infantio**
-  (mention only: his scratched signature). Spent.
-- **The fountain line:** the wedding gossip ("Fourteen," … "and him forty." / "Forty-two, he says. He's been forty for three years." /
-  the dowry in fig trees); the slave girl at the spout. Spent.
-- **The toddler and his father (the pebble; both unnamed):** the boy "a year old or not much over, naked but for a crescent of leather
-  hung on a cord at his throat"; the father, "a man with his arms blue to the elbow from somebody's vats": "I never touched her," … "You
-  saw." / "He gives them to everybody, lady. He gave one to a mule this morning." / "I was at the bakery door all along," … "Everybody
-  saw where I was." Spent; never explained.
-- **The oil customer at Grata's counter; the carter at the fish jar** ("That fish of yours would turn a mule,"). Spent.
-- **Mention only:** Gaius Iulius Polybius (the bread man, candidate for aedile, AD 73; "He brings good bread."); Successus the weaver,
-  Iris the innkeeper's slave girl and her better-looking defender (graffiti); Hermes (Zosimus's bath boy); Grata's cat; Grata's sister;
-  Grata's husband's cousin (vines on the Nola road); Grata's son (reads her the panel on his way to bathe; still unnamed on the page);
-  Dr. Pinsky (Mara's Walnut Street dentist, Ch.5, recalled once).
+- **The bone-turner one street over:** "A bone-turner who lived one street over"; the box, "a squat clay pot the shape of a little
+  beehive", carried "in the turner's cap"; "I broke it to get at what was in it," … "There's no luck in a new box. This one's been full
+  twice." / "He was a small man with a curl of bone caught in his hair." (R12) / "Through all our talk his cap stayed cupped under the
+  pieces" / "It buried my wife's mother," … "and after her a horse." (C2) / "he collected it that evening" (C7) / "I've no money.
+  That's the trouble with mending a money box." … "He grinned at me." … "Teeth this end. Ears the other. Don't mix them." (he pays in
+  the toothpick only) / the box back "in four pieces again": "Full again in under a month," … "Don't tell my wife it was full." CUT:
+  the reply "Twice," and its once-and-once skeleton; "shavings of bone in the hair of his arms"; "He paid that time in dice."; "ran a
+  fingertip round the slot and was satisfied"; the eye put to the slot. Spent.
+- **The fuller's wife at the corner:** "a scent bottle of blue glass wrapped in a tuft of wool, in three pieces and a scatter of
+  chips"; "He threw it at me," … "so I threw it back, and he ducked, which he never does. It was his mother's." … "Make it so he can't
+  tell. I want him looking at that shelf for a year thinking it never broke and wondering what it is he's sorry for." / "Come close,
+  then. And not a word to Grata, or she'll be telling it at every counter by noon." / "She called for it while Grata was at the baths."
+  (R10) / "There's his mother's bottle," … "that nobody ever threw at anybody." / "She wrapped it up again in the same wool." (C4a; no
+  payment beat) / at the fountain, "Twice he's had it from the shelf to look at, and back it goes. Yesterday he brought me home a comb,
+  and couldn't say what for." (the "Twice" opens a speech; it is not a reply). Through Grata: "The fuller's wife asked me was it a
+  vow"; "She's at her own with a pin now, I saw her at it on her step." Her husband is Ch.19's fuller. CUT: "She came for it"; "holding
+  it to the daylight". Spent.
+- **The board carter:** "Four, and it's Falernian," the carter finished, "and squinted along her jar mouths". "Which of these is that,
+  then?" Spent.
+- **The rain customer:** "One fellow had fetched his lamp at noon." "I'll wait till it eases," … "and at dusk he was still in the
+  opening." Spent.
+- **The night election crew (painter, whitewasher, lantern boy; continuity C-03, option A):** "A boy waited at a ladder's foot, holding
+  a lamp up on a pole."; the whitewasher "with a pail of lime and a broad brush", laying white "from the eaves halfway to the paving"
+  (R16); "He took the cousin's pink stripe in two strokes of the brush."; "like a face just shaved of its beard"; the painter, "a thin
+  fellow sat with his pots of red in a row, eating bread" (F10; CUT: "with red to the wrists"); "Polybius," said the painter, chewing.
+  "Enough. No." / "He dried his fingers on his tunic and climbed, while the whitewasher came off." / "You, lantern, hold that light
+  still or I'll paint *you* on the wall." (answered by result: "The lantern boy's light sagged by degrees until he was told about it,
+  and then it rose.") / the whitewasher, "Four more walls before the cock," … "Four, and my wife thinks I'm at the mill with the
+  donkeys, and Polybius pays at the month's end, and last month he paid us in loaves." (F7; CUT: "at the bakery kneading") / "Good
+  loaves," / "Chalk," … "Ask anybody." / "Come and read it in the morning," the painter said, "and shouldered the ladder". **Felix sits
+  among the painter's pots and holds nothing; nobody from the household touches the ladder or the light.** CUT: "Hold it, then."; "And
+  you, lantern"; "letting the light swing". **Infantio** (mention only; *Infantio wrote it. Lantern-boy, hold the ladder.*, scratched
+  "with a nail"). Spent, as a tableau (see the Ch.31 guard in At-risk after Ch.20).
+- **The fountain line:** "Fourteen," said a woman with a red jar, "and him forty." / "Forty-two, he says. He's been forty for three
+  years." / "With the dowry in figs." / "In fig trees. That's different. You can't eat a tree." / "You can sell one." / "Who'd buy a
+  fig tree off a man of forty-two?" / "Another man of forty-two." / the slave girl at the spout, "You can sell anything, if you've a
+  face for it," / "Fill and get on," … "and leave the talk to them that's got dowries." CUT: "And the dowry in figs." Spent.
+- **The toddler and his father (the pebble; both unnamed, never explained):** "He was a year old or not much over, naked but for a
+  crescent of leather hung on a cord at his throat, and wet to the chest." / "He grabbed the worn place in the rim and pulled himself
+  up on it and stood, rocking." / the father, "a man whose hands were stained blue from somebody's vats" (W-11; CUT: "his arms blue to
+  the elbow") / "I never touched her," he told the line. "You saw. I never came near her." … "He gives them to everybody, lady. He gave
+  one to a mule this morning. It's only a pebble, that's all he does, he gives pebbles." / "From his father's hip the boy watched me
+  and sucked his cord." (F9) / "I was at the bakery door all along," his father insisted, … "Everybody saw where I was." (D2; CUT: "his
+  father told a woman with a basket"). Spent; the boy's crescent amulet is kept (author's call; audit I-05).
+- **The oil customer at Grata's counter:** "a man buying oil and disputing the measure" (the sandal line is Grata's). **The carter at
+  the fish jar:** "The carter sniffed toward the jar over his cup." "That fish of yours would turn a mule," … "and pushed his bread
+  across for more of it." (L2). He heard the reveal, so the street can know; Ch.21's telling to Valens comes first and is Mara's.
+  Spent.
+- **Mention only:** Gaius Iulius Polybius (*Gaius Iulius Polybius for aedile, all of you. He brings good bread.*; the I of Iulius set
+  on the crack); Successus the weaver, Iris "the innkeeper's slave girl" and the better-looking man (graffiti); the jug woman (*The
+  Greek woman at the cobbler's mended my jug, and it holds. Take her yours.*); the hand that wrote the fullers' *Aeneid*; Hermes
+  (Zosimus's bath boy); Grata's cat; Grata's sister ("the look about the eyes my sister had with each of hers"); Grata's husband's
+  cousin ("off his vines on the Nola road"); Grata's cousin who sells figs "at the gate a copper the double handful" (in Felix's
+  mouth); Grata's son (reads her the panel "as he set off to bathe"; still unnamed on the page; see SECUNDUS); the glue-boiler "three
+  doors down"; the drug-seller "under the forum colonnade"; the coppersmith's sister in Stabiae, her husband and his goat; the
+  contractor; Puteoli's wine-woman (the letter's route); Dr. Pinsky (Mara's dentist, recalled once, a clause).
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -3913,12 +4128,13 @@ quotes checked by script.)*
   fool).
 - **Syntax fingerprint:** plain statements stacked into a complaint, then the practical demand ("Leave me the crack. Leave it where the
   boys can see it's spoken for. It's dark on that stair, and I'll want to find it with my thumb."). He answers an offer with a question
-  that is really a refusal ("And then how do I know it from the other thirty-nine?").
+  that is really a refusal ("And then how do I know it from the other thirty-nine?"). He gives his name as a place, never a feeling
+  ("Zosimus. Of the crossing baths. Down at the furnace, not up with the bathers.").
 - **Rhythm:** short, flat sentences; a run-on only when Hermes comes up.
 - **Evasion — never says:** why the lamp matters beyond its being his; he gives a reason of use, never of feeling.
-- **Physicality / silence:** black to the elbows; smells of the olive stones burned under the floors; lays the pieces out "with one
-  black finger"; scratches in his beard; at the pickup he hugs the lamp to his breastbone and finds the welt with his thumb, eyes shut.
-  Each beat once.
+- **Physicality / silence:** "black to the elbows" and smelling of the olive stones burned under the floors; lays the pieces out "with
+  one black finger" (once; no second black finger); "He scratched in his beard." (bare); at the pickup he cradles the lamp in his palm,
+  shuts his eyes, and finds the welt with his thumb; opens his eyes "offended for the lamp". Each beat once.
 - **Verbal tic:** none — distinguished by attention (his one thing among identical things) and evasion (use, never feeling)
 - **Bleed guard:** never Mara's eye for materials (he knows the break by touch and by where it happened, not by what it is made of);
   never states the visible-seam theme; nobody repeats "Leave me the crack".
@@ -3927,17 +4143,30 @@ quotes checked by script.)*
   and now it's black, and he thinks it's mine.").
 - **DISTINCTNESS GUARANTEE:** the man who wants his break kept so he can find his own lamp in the dark, against the fuller's wife, who
   wants hers hidden so her husband never finds it.
-- **Ch.20 as written (Writer draft, 2026-10-21; the anchor scene):** entry "black to the elbows and smelling of the olive stones they
-  burned under the floors"; "Dropped it on the furnace stair," … "Third step up. It's always the third. The stone's gone hollow in the
-  middle, and it's dark down there as a cow's belly."; the lamp: plain clay, round, "on its foot a maker's name stamped in tall
-  capitals: FORTIS", broken across the shoulder with a wedge from the rim; "I could buy forty."; "I've had it since before the
-  earthquake."; the refusal and the request (above); name given "for the tag, Zosimus, of the baths"; Valens runs his thumb along the
-  blacked welt before Zosimus comes back ("Who's this for?" / "Left like that." / "He wants to find it in the dark."); the pickup: "That's
-  it," with his eyes still shut; Mara's one warning ("Keep it off the furnace mouth," … "The join will soften in a great heat."); exit
-  "away to the baths with his palm over it". **Spent:** all of it; "Leave me the crack"; the FORTIS shelf; "always the third"; the
-  cow's belly. If he recurs he gets new words and a new object.
-- **Sample line:** "Forty of them on that shelf and the boy finds mine every morning before I'm down the stair, so don't you tell me
-  he can't read." (Calibration only.)
+- **Ch.20 as written (Writer, 2026-10-21; the anchor scene. SYNCED to the FINAL page 2026-10-21 (md5 `20bcc76c…`): dialogue-polish,
+  hook-craft, disruptor, continuity repair W-02/W-05/W-06, polish cycle 0 (C4c, C6, R8, R11, R14, D5, D7), finalize F6; quotes checked
+  by script; a CUT entry names a draft string checked to be OFF the page, never to be restored):** entry "black to the elbows and
+  smelling of the olive stones they burned under the floors"; "He had a lamp in three pieces in a fold of his tunic", laid out "as
+  carefully as a gambler laying out dice"; "The furnace stair did it," … "Third step up. It's always the third. The stone's gone hollow
+  in the middle, and it's dark down there as a cow's belly." (W-02); the lamp: "It was a plain round lamp with FORTIS stamped in tall
+  capitals on its foot. It had broken across the shoulder in a crooked line, and a wedge of the rim had broken loose beside it.";
+  Mara's "The potters' row," … "sells this lamp by the basket." / "I could buy forty." "He jerked his head toward the baths." … "Hermes
+  takes mine. He swears he doesn't. This one's mine. I've had it three summers." (W-05) / Mara's offer, "I could put it together so the
+  break would not show." / the refusal and the request (above), with "He scratched in his beard." between them (C6) / "What name goes
+  on the tag?" / "Zosimus. Of the crossing baths. Down at the furnace, not up with the bathers." / gone, "telling a man with a handcart
+  that he'd have Hermes's ear for him yet"; Mara's work and Valens's thumb on the welt (At-risk after Ch.20, the lamp); the pickup,
+  "Zosimus was back two mornings later, on his way down to light the furnaces. It was still dim in the shop." (W-06, R11) / "He cradled
+  the lamp in his palm and shut his eyes, and his thumb travelled the shoulder and stopped on the welt. It went back over it, and
+  stopped again." / "That's it," he said, with his eyes still shut. / Mara's one warning, "Keep it off the furnace mouth," … "The join
+  will soften in a great heat." / "It's never been near the furnace mouth." "He opened his eyes, offended for the lamp." "It lights the
+  stair and it lives on the shelf." / exit, "He put the lamp back in the fold of his tunic, and was away to the baths with his palm
+  over it." **No payment beat** (C4c). CUT: "Dropped it on the furnace stair,"; "on its foot a maker's name stamped in tall capitals";
+  "I've had it since before the earthquake."; "A new one would cost you less than I will ask,"; "He scratched in his beard with a black
+  finger."; "dark and glossy from his thumb"; "came for it"; the narrated name given for the tag; the lamp hugged to his breastbone.
+  **Spent:** all of it; "Leave me the crack"; "The furnace stair did it"; "three summers"; the FORTIS shelf; "always the third"; the
+  cow's belly; "offended for the lamp". If he recurs he gets new words and a new object.
+- **Sample line:** "Forty of them on that shelf and the boy finds mine every morning before I'm down the stair, so don't you tell me he
+  can't read." (Calibration only.)
 
 ## UNNAMED SPEAKING ROLES PLANNED IN THE OUTLINE
 Give each one its own attention, and **promote it to a full card the moment the page names it.** One
@@ -4021,7 +4250,8 @@ line each, so that walk-ons don't all sound like Mara.
   shape is CLOSED at 2 and SPENT; see the Ch.7 block.)
 - **At-risk after Ch.5 (editor cycle 1, 2026-10-19; closed devices, a further use is a defect):** the
   **item-by-item look** (page count back to 2: Ch.1, Ch.3; CLOSED — any later look at a garment is one object
-  or a duration, never a sequence); "**[color] going [color]**" (1, Ch.3: SPENT); "**laughed until [result]**"
+  or a duration, never a sequence; its two-item looked-at-X-and-at-Y form has two finalized survivors, Ch.12 and Ch.19, counted
+  at the Ch.20 sync (continuity I-11; Ch.20's two cut, C-02): see At-risk after Ch.20); "**[color] going [color]**" (1, Ch.3: SPENT); "**laughed until [result]**"
   (1, Ch.3: SPENT; walk-on laughter gets no bodily aftermath); "**That one I had/heard whole**" and "hold on to
   it whole" (Ch.4 only: SPENT); the "**did not X; he Y**" pivot (SPENT); **"the size of a fingernail"** as a
   ruler (SPENT); **bread "full of grit"** (SPENT); the **sock "rolled tight" / "flat weight" / blind rummage
@@ -5445,60 +5675,173 @@ line each, so that walk-ons don't all sound like Mara.
       fact;
     - **the master's daughter:** named (Pacuvia, card above), done unless she returns.
 
-- **At-risk after Ch.20 (Writer draft, 2026-10-21; "The Mender's Shop", Collage, 6 breaks, Pompeii AD 72–73; the moves and shapes to
-  keep out of Ch.21 and after; downstream passes re-sync it to the final page; pattern entries are patterns, not page text):**
-  - **The lamp (anchor, SPENT as a set):** the stoker's request ("Leave me the crack.", "where the boys can see it's spoken for", "find
-    it with my thumb"); the welt left "a thread's thickness proud of the clay" and stroked smooth with a warmed knife; soot rubbed into
-    the join "from the oil hole to the rim"; Valens's thumb along it; Zosimus's thumb with his eyes shut. **No later repair is left
-    findable for a customer, and no later customer asks to keep a break.** "Nobody at home had ever paid me to leave a join where it
-    could be found." is said once; never paraphrased.
-  - **The bowl (all-or-nothing, SPENT):** the three brown lines, the rim piece low "by the thickness of a hair", found with her lower lip;
-    thrown onto a tile cart; the carter keeps it. **The lip as a join test: once.** No later object of hers is thrown out for its join.
-  - **The fountain break (SPENT; the mapped Ch.20 body break):** the toddler's pebble, "kept two of his fingers on it, after it was in my
-    palm, until he was sure it would stay"; "I was crying." standing alone; the heaving, the open mouth, the jar running over; "It ended
-    when it ended."; the stone dried gray; Valens's "That's a good stone,". Tears are now USED as a channel; voice stays retired; hands
-    and seat used only as work, never as rebel. **Never explained, by anyone, ever.**
-  - **The tremor note (Ch.20's, SPENT in these words):** "the bed walked an inch on its legs", the lamp hook, Grata's cups through the
-    wall, the notebook from beneath her spare tunic, "the first of his blank leaves at the back", *small shake, lamps, nobody woke*.
-    Ch.30's entry is staged another way and in fresh words; no reckoning in either.
-  - **The named frame (Valens asleep under the fig, SPENT):** the heat waver in the finder, "I took it, and wound on, and he slept through
-    both."; "Did you spend one on me?" / "One." / "On a man asleep." / "And a tree." No frame of the roll is described again before
-    Ch.43.
-  - **The fig, Ch.20 shapes (SPENT):** the first crop pinched off ("These would never ripen." … "Without them she makes wood." / "Next
-    year."); the jar edged west by its rim; the winter sacking ("She can't climb down to me."); the late ripening "by its own weight"
-    ("Today," … "Not tomorrow. Tomorrow the wasps have them."). Ch.34's fig takes another shape (no pinching, no wrapping, no picking
-    day, no wasps).
-  - **Teeth, Ch.20's full surfacing (SPENT):** the bone toothpick with its ear spoon ("Teeth this end. Ears the other. Don't mix them.");
-    the tour of her mouth in the shop door; Dr. Pinsky's pick "every spring and fall"; Valens "keep[s] to the other" end; Grata's vow
-    joke. Next full surfacing Ch.31 (Grata's teeth are Ch.31's); Ch.24's midwife stays the only introduction-by-teeth.
-  - **Grata, Ch.20 (SPENT in these words):** the paint flood ("Nobody buys paint here, they're robbed for it," … "you've the face of a
-    payer"); the hen-squeeze on the upper arm; the vow; her wine board (*Grata says: a copper here and you drink…*), read back by a
-    carter; Polybius ("His loaves are half chalk"); the forearm push; the cup without a word at the fountain; the oil man's sandal; the
-    fig leaves "I'll charge the wind."; the fish speech and **"It's a child you've got."** (the reveal; never quoted back). **Grata
-    questions on the page: 0.** Her touches this chapter: upper arm, forearm, two fingertips at the wrist; Ch.21 finds another.
-  - **The wall-writing set (SPENT as documents):** the lost pot; Mara's board; Grata's wine board; Polybius over the cousin's stripe
-    (the I set on the crack); *Infantio wrote it. Lantern-boy, hold the ladder.*; Successus and Iris and the better-looking man; the
+- **At-risk after Ch.20 (Writer, 2026-10-21; "The Mender's Shop", Collage, 6 breaks, Pompeii AD 72–73; the moves and shapes to keep out
+  of Ch.21 and after. SYNCED to the FINAL page 2026-10-21 (md5 `20bcc76c…`): dialogue-polish, hook-craft, disruptor, continuity repair
+  C-01…C-03 (option A) and W-01…W-14, polish cycle 0 (41 swaps: L1–L3, C1–C7, R1–R19, D1–D7), finalize F1–F10 with F2b; quotes checked
+  by script; a CUT entry names a draft string checked to be OFF the page, never to be restored; pattern entries are written as patterns
+  and are not page text):**
+  - **The lamp (anchor, SPENT as a set):** the stoker's request ("And then how do I know it from the other thirty-nine?" / "Leave me
+    the crack. Leave it where the boys can see it's spoken for. It's dark on that stair, and I'll want to find it with my thumb.");
+    "Round the filling hole the clay was black from his thumb." (R8); "The broken edges were the only clean clay on it."; the process,
+    "I heated the pieces and joined the shoulder, and when the welt swelled from the break I let it stand." (R14, F6) / "Along the
+    shoulder I trimmed it to a thread's thickness proud of the clay." / "I warmed the knife and stroked the top of the welt smooth so
+    it would not catch his skin." / the soot rubbed in "from the oil hole to the rim and on across the wedge"; "Valens walked in while
+    the lamp was still on my plank with the soot fresh in its line." (D7) and his thumb along the welt; Zosimus "cradled the lamp in
+    his palm and shut his eyes"; "That's it,". **No later repair is left findable for a customer, and no later customer asks to keep a
+    break.** CUT (the disruptor's; never restored, never paraphrased): "Nobody at home had ever paid me to leave a join where it could
+    be found."; also CUT: "The lamp had been used hard."; "feeling his way down a stair in the dark".
+  - **The bowl (all-or-nothing, SPENT):** "The joins crossed the red in three fine brown lines"; the rim piece "lower than its neighbor
+    by the thickness of a hair"; "My lower lip found that before my eye did."; set on a rubble cart's "heap of tiles", and the carter
+    keeps it ("Have you got any more you don't want?"); Felix's "Can a mended thing go bad in a night?", answered by "We'll manage with
+    the cookpot,". **The lip as a join test: once.** No later object of hers is thrown out for its join.
+  - **The fountain break (SPENT; the mapped Ch.20 body break; full quotes in Mara's Ch.20 block):** "I turned my hand up." (R3); "Then
+    he kept two of his fingers on it, after it was in my palm, until he was sure it would stay."; "I was crying." standing alone; "The
+    crying heaved up through me. My mouth was open. I could not shut it."; "From his father's hip the boy watched me and sucked his
+    cord." (R5, F9); "It ended when it ended. I filled the jar at the spout and carried it home." (L3); "It was gray, and not black at
+    all."; Valens, "He looked at it by the lamp, small and dry and gray, and passed it back to me" (C5), and "That's a good stone,";
+    the father, "his father insisted," (D2). CUT: "I put out my hand."; "I could not stop."; "watched me cry"; the jar running over and
+    the next woman at the spout (R2); "The jar was half empty by then". Tears are now USED as a channel; voice stays retired; hands and
+    seat are used only as work, never as rebel. **Never explained, by anyone, ever.**
+  - **The tremor note (Ch.20's, SPENT in these words):** "One night of the vintage the bed walked on its legs and the lamp hook rattled
+    on the wall, and next door Grata's cups chimed together on their shelf." (D4; CUT: "the bed walked an inch on its legs"); the
+    notebook "from beneath my spare tunic in the bag", "the first of his blank leaves at the back", *small shake, lamps, nobody woke*.
+    Two sentences; no count, no comparison, never noticed afterwards. Ch.30's entry is staged another way and in fresh words; no
+    reckoning in either.
+  - **The named frame (Valens asleep under the fig, SPENT):** "The shadow of a leaf lay over his open lips and stirred when the leaf
+    stirred."; "Through the lens the heat off the tiles kept him and his tree wavering, and the waver never settled." (R13); "I took
+    it, and wound on, and he slept through both."; "Did you spend one on me?" / "One." / "On a man asleep." / "And a tree." No
+    left/right layout (CUT: "In the finder"; the jar "on the left" and the soles on the right). No frame of the roll is described again
+    before Ch.43.
+  - **The fig, Ch.20 shapes (SPENT):** "a small heap of the summer's figs, hard little green things he had pinched off that morning";
+    "These would never ripen." … "Last year she carried them all summer and dropped every one in the autumn. Without them she makes
+    wood." / "What's she for?" / "Next year." (W-03; CUT: "the tree's first figs"; "A young tree carries them all summer"); the jar
+    edged west "by its rim"; the rains, "The fig," … "In this rain." (R7; CUT: "Up there in this.") / "She's wrapped." / "She can't
+    climb down to me."; Felix's "He went up and wrapped her, and he was no sooner down than up to see had he wrapped her right." (F1);
+    the drip, "the rain got in at a cracked tile over the bed and fell onto Valens's foot." (F4) and "The drip went on landing where
+    his foot had been."; the late ripening "by its own weight", "with its neck gone soft and a bead of something sweet standing at the
+    eye of it"; the picking day silent, "put them on my plank among the broken things." / "I ate all three." CUT (C1; never restored):
+    "Today," … "Not tomorrow. Tomorrow the wasps have them." Ch.34's fig takes another shape (no pinching, no wrapping, no picking day,
+    no wasps).
+  - **Teeth, Ch.20's full surfacing (SPENT):** the bone toothpick with its ear spoon ("Teeth this end. Ears the other. Don't mix
+    them."); "The point went straight into my mouth."; "It found the gap beside my sixth-grade filling" (L1); "Dr. Pinsky's hooked
+    pick" "every spring and fall"; the tour in the shop door, "tooth by tooth." (R1); Felix's "Can I have a go after you?"; Valens's
+    "Which end is for the ears?" / "The spoon." / "Then I'll keep to the other."; Grata's vow joke. CUT: "while the carts went by
+    behind me"; the two filled molars. Next full surfacing Ch.31 (Grata's teeth are Ch.31's); Ch.24's midwife stays the only
+    introduction-by-teeth.
+  - **Grata, Ch.20 (SPENT in these words; full quotes in her card's Ch.20 block):** the paint flood ("you've a payer's face", R18;
+    "Them that paint for the candidates", F8); the hen-squeeze on the upper arm; the vow; her wine board, read back by a carter;
+    Polybius ("His loaves are half chalk"); the forearm push, "the way she moved customers along her counter"; the cup set down without
+    a word after the fountain; the oil man's sandal; "I'll charge the wind."; the fish jar "at her counter's brazier end" (R19), ladled
+    "onto a carter's bread" (L2); "Grata clapped the lid on."; two fingertips on the wrist "beside Plautia's gold"; **"It's a child
+    you've got."** (the reveal; never quoted back). **Grata questions on the page: 0.** Her touches this chapter: upper arm, forearm,
+    two fingertips at the wrist; Ch.21 finds a fourth.
+  - **The wall-writing set (SPENT as documents):** the lost pot (single reward; "a reader had added that the thief was enjoying his
+    soup"); Mara's board (*Broken things mended here. Bronze, clay, glass.*); Grata's wine board; Polybius over the cousin's stripe,
+    the white laid "from the eaves halfway to the paving" (R16), and the I set on the crack ("He had set the upright of the I in Iulius
+    straight down it"); *Infantio wrote it. Lantern-boy, hold the ladder.*; at the fountain, "to read him the pier at its back" (R9a):
+    Successus and Iris, "Someone had answered it in a deeper hand:" (D3); "Higher than any of them there was one more." (F5) and the
     amazed wall; the fullers' *Aeneid*; the jug graffito. **No later chapter quotes a Pompeian wall in the same kinds** (lost property,
-    a shop's price board, a lover's quarrel, the wall joke, a parody line, a customer's recommendation). Ch.21's barracks graffiti and
-    Ch.31's election paint find their own kinds.
-  - **Felix, Ch.20:** boasts and facts end 8+ speeches (the loud voice on the Stabian road; "a drop of two of me"; the sledge "rotten in
-    the middle"; "I hear everything in this house"; the hare bowl; Polybius "standing on it"; "I'd never touch a loom"; "a name scratched
-    on every wall in this town but mine"). No palm scratched (Ch.21). His hare bowl is the household's bowl now.
-  - **Valens, Ch.20:** bare "No." 0; comparisons 0; orders to Felix 0; "It's red" (his literacy kept from Felix, once); "Grata would.";
-    "Left like that."; "Do you still walk out to your gate?" / "On the Kalends." / "And it's the same." / "It is the same." (Mara visits
-    the door on the Kalends; **the door is never described in Ch.20**); the letter for Plautia ("For Plautia," … "Where we are."), sent
-    by a lime carter to the Puteoli board: **Ch.21's knowledge path is on the page.**
-  - **Spoken shapes spent:** "Then they'll want it shouted."; "Who breaks glass, in this street?" / "Everybody who owns any."; "Grata will
-    want her name on it somewhere."; "Make it hold. I cook in it."; "It looks like nothing."; "We have the pot."; "We'll manage with the
-    cookpot,"; "Will it hold soup?" / "It will hold anything you put in it." / "Beans will do,"; "I'll stand her further off from him.";
-    "Can a mended thing go bad in a night?"; "When you have one of your own."; "Which end is for the ears?" / "The spoon." / "Then I'll
-    keep to the other."; "It is not a vow." / "It is now."; "Glass is hard to hide. I can come close."; "The wall stops there."; "It means
-    everybody."; "A child gave me a stone."; "Who's this for?"; "He wants to find it in the dark."; "That jar has gone off,".
-  - **Counts (writer draft):** 8,027 words (shape_check); dialogue 31% (shape) / 30.5% (show_tell); 6 breaks; median 16; `narrative` →
-    `dialogue`; em-dash 0; as-if 0; semicolons 17; and-chains 2; negation pivots 0; hinge / So openers 0; said-to-[non-listener] 0;
-    kneel / crouch 0; hand-on-knee 0; bends 0; gait exits 0; deliberation pauses 0 by gate; "Somebody had [verb]" 1 (the notice);
-    race frame before-X 1 ("before he was over the sill"); credential asides 1; memories 1 (Dr. Pinsky, a clause); AD 79 0; mountain 0;
-    laughs 0 (Mara grins once); English 0 apart from the italic tremor note; echoes 0; tic gate clean; voice-wear clean.
+    a shop's price board, a lover's quarrel answered, a painter's signature line, the wall joke, a parody line, a customer's
+    recommendation). Ch.21's barracks graffiti and Ch.31's election paint find their own kinds.
+  - **Felix, Ch.20 (full quotes in his card's Ch.20 block):** 8+ speeches end on a boast or a fact; "That wants shouting."; the rain
+    line (F1); at the night painting he "sat among the painter's pots" and holds nothing (continuity C-03). No palm scratched (Ch.21).
+    His hare bowl is the household's bowl now.
+  - **Valens, Ch.20 (full quotes in his card's Ch.20 block):** bare "No." 0; comparisons 0; orders to Felix 0 ("It hasn't," is a
+    statement); "It's red" (his literacy kept from Felix, once); "Grata would."; "Left like that."; "Do you still walk out to your
+    gate?" / "On the Kalends." / "And it's the same." / "It is the same." (Mara visits the door on the Kalends; **the door is never
+    described in Ch.20**); the fig picked in silence, three figs "on my plank among the broken things"; the letter for Plautia ("For
+    Plautia," … "Where we are."), sent "with a carter bound there for lime": **Ch.21's knowledge path is on the page.**
+  - **Spoken shapes spent (re-listed from the final page):** "That wants shouting."; "There is no fish, and you are not in it,"; "Where
+    does one buy paint, in this quarter?"; "Spell it right. There's people on this street can read."; "Shout at the fullers."; "Who
+    breaks glass, in this street?" / "Everybody who owns any."; "Grata will want her name on it somewhere."; "Which are the dogs?" /
+    "These. Lead. They've not shifted since."; "I'd only break it in the same spot, looking for it."; "Make it tight. My oil lives in
+    it."; "He should have chained it to the wall." / "He should have chained you."; "Next time it walks, it can stay walked."; "It
+    looks like nothing." / "Like nothing on earth,"; "We have the pot."; "What do we eat out of tonight?"; "Will it hold soup?" /
+    "Anything you put in it." / "Beans will do,"; "I'll stand her further off from him."; "Have you got any more you don't want?";
+    "He's better,"; "Can a mended thing go bad in a night?"; "We'll manage with the cookpot,"; "What's she sent?" / "Grata's olives." /
+    "That's yesterday's bread." / "Grata says it is today's." / "Grata would."; "Show us,"; "A blind man could tell that."; "What's she
+    for?" / "Next year."; "It's the wind does it, and I'll charge the wind."; "For Plautia," … "Where we are."; "I can make it keep
+    coins,"; "It buried my wife's mother," … "and after her a horse."; "When you have one of your own."; "Which end is for the ears?" /
+    "The spoon." / "Then I'll keep to the other."; "It is not a vow." / "It is now."; "The price tells you which."; "Glass is hard to
+    hide. I can come close."; "that nobody ever threw at anybody."; "Break that, anybody, and see what you get."; "Don't tell my wife
+    it was full."; "I'll wait till it eases,"; "In this rain."; "She can't climb down to me."; "Polybius," … "Enough. No."; "Chalk," …
+    "Ask anybody."; "His bread comes last," … "It says it is good."; "For bread."; "Polybius is standing on it,"; "It's red,"; "No
+    candidates on this pier. It's people wrote all this."; "The wall stops there."; "It means everybody."; "That's wrong."; "With the
+    dowry in figs."; "Fill and get on,"; "He gives them to everybody, lady."; "A child gave me a stone."; "That's a good stone,"; "The
+    furnace stair did it,"; "I could buy forty."; "I've had it three summers."; "What name goes on the tag?"; "Who's this for?"; "The
+    furnace man at the baths."; "Left like that."; "He wants to find it in the dark."; "That jar has gone off,"; "That fish of yours
+    would turn a mule,"; "It's a child you've got." (The writer-draft shapes once listed here are deleted, none being on the final
+    page: "Then they'll want it shouted."; "Make it hold. I cook in it."; "It will hold anything you put in it.")
+  - **Counts (FINAL page):**
+    - Length and shape: **7,792 words** (shape_check), 7,818 (style), 7,821 (show_tell), 8,565 (`wc -w`, header comments included);
+      dialogue 35.2% (show_tell; shape 35); median 16 (gear mid); 6 breaks / 7 sections; `narrative` → `dialogue`.
+    - Punctuation and figures: em-dash 0; ellipsis 0; as-if / as-though 0; semicolons 12 in prose; similes 1.4/1k (style); metaphor
+      1.8/1k, median 15.
+    - Reflexes: and-chains 2 (cap 9); negation pivots 0; hinge / So openers 0; "Somebody had [verb]" 0 and "Someone had" 1 (the deeper
+      hand); the race frame before-X-had 0 (CUT: "before he was over the sill"; the lip's before-my-eye clause belongs to the bowl
+      set); credential asides 1; #11 explanation 3 firm (0.39/1k); present-tense generalisation 0.
+    - Frames and doubles: payments 3 (bronze, cheese, wine), each worded fresh; "on his way" 2 (Valens at the board; Zosimus at the
+      pickup); "dusk" 3; tool-tip frames 2; "pier" 10; "warmed" 3; cry / crying 2 (and "cried" once, in Valens's mouth); "at the
+      bakery" 1; "twice" 5, none a reply; weather finding a flaw 1 (the sun on the bottle).
+    - Gestures: gate classes clean; kneel / crouch 0; hand-on-knee 0; bends 0; gait exits 0; deliberation pauses 1 (Valens at the
+      stone); walk-on object to the eye 0; thumbs outside the lamp 1 (the cook's splinter); trade-residue introductions 4.
+    - Speech: bare "No." Valens 0; narrated non-answers 1 (Mara's, to the tile carter); command echoes 0 (book-wide still 3); "Then…"
+      speech openers 1 (Valens); "And…" rejoinders 3 (Mara, Valens, Zosimus); sentence-initial "Nobody" in speech 4 (Grata 1, Felix 2,
+      the cook 1); Grata questions 0; comprehension reports 0.
+    - Other: memories 1 (Dr. Pinsky, a clause, triggered); teeth: the full surfacing; laughs 0 (Mara grins once, the turner once);
+      English 0 aloud (the italic tremor note only); AD 79 0; mountain 0; "seam" / "niche" / "painted plaster" / "hand flat" 0 / 0 / 0
+      / 0; foreshadowing 0; anti-AI 7/20 (−0.875, clean band); echoes / command echoes / spoken-line echoes none / none / none;
+      `check_chapter.sh 20` all clean (read by its RESULT lines, not its exit code); `tic_report.py --gate` clean; `shape_check
+      --strict` CLEAN.
+  - **New SPENT / CLOSED / WATCH entries (Ch.20 dialogue-polish, continuity audit, cycle 0, cycle 1 and finalize):**
+    - **"Twice" as a whole reply:** CLOSED. **The "[N] twice. Once … and once …" skeleton:** CLOSED, having been used in Ch.7 (Kallia)
+      and Ch.8 (narration); both Ch.20 instances are cut (C2, the turner; F1, Felix).
+    - **A 1–2-word whole line in the same mouth across chapters:** 0; it is a borrowed line. Valens's earlier whole lines (the fig
+      day's "Today," of Ch.17, "Not tomorrow." of Ch.11, "What's in it, then?" of Ch.15) are his and spent; Ch.20's versions are cut
+      (C1, C3).
+    - **Payment-in-kind as a scene close:** CLOSED after Ch.20 (3 on the page, each worded fresh).
+    - **"came for it" as a pickup:** CLOSED (sample-11); 0 on the Ch.20 page.
+    - **Tradesman arm markers:** ≤2 per chapter (Ch.20: the coppersmith's forearms, Zosimus's elbows). **A walk-on introduced by his
+      trade's residue on his body:** ≤1 per chapter in Ch.21–25 (Ch.20 has 4 after F10: forearms, hair, hands, elbows). **"[colour] to
+      the [limb]" as a trade tag:** WATCH (Ch.5, Ch.16, Ch.20's "black to the elbows"); none in Ch.21.
+    - **Weather that "finds" a flaw:** SPENT at 1 (the sun's line on the bottle).
+    - **"on his way":** ≤2 per chapter. **Tool-tip frames ("with the tip / point of [tool]"):** ≤2 per chapter.
+    - **Camera beats:** the left/right layout CLOSED; **"In the finder":** SPENT at 3 (Ch.12, Ch.16, Ch.19); Ch.26, 27 and 38 frame
+      their shots another way.
+    - **A public-spout freeze** (Ch.14, Ch.20): SPENT. **A held moment measured by anything moving:** SPENT, restated (Ch.20's carts
+      cut).
+    - **sample-07's hand-out and hand-went strings:** 0 before Ch.42, at any length (Ch.20's two are cut, R3 and R4).
+    - **No line in Ch.21–24 links the fountain to the pregnancy** (audit I-03; it would also breach CP3-3 sideways).
+    - **The command echo:** book-wide still 3 (SPENT since Ch.9); a relayed order counts (continuity C-01 recast Valens's order as a
+      statement).
+    - **The item-by-item look in its two-item looked-at-X-and-at-Y form:** CLOSED. The counted page uses are the finalized survivors in
+      Ch.12 and Ch.19 (continuity I-11); Ch.20's two are cut (C-02). No further use anywhere.
+    - **The race frame before-X-had:** 0 in Ch.20; ≤1 per chapter after.
+    - **"Then…" as the house speech opener:** WATCH. The draft had 10 across seven speakers and the gate does not see it; ≤2 per
+      chapter, counted by hand until `tic_report.py` counts it (pipeline item).
+    - **Comprehension mechanisms:** the speech that outruns her (Ch.19) and the trade word asked for and shown by hand (Ch.20) are
+      SPENT; reports stay ≤2 per chapter, never an understood-every-word claim.
+    - **Spoken "Nobody…" openers:** WATCH (Ch.20: 4, Felix 2; his "nobody" has been on WATCH since Ch.11).
+    - **Felix as the audience Mara reads walls to:** WATCH (five walls in Ch.20); Ch.21 does not make him a reading audience again.
+    - **Walk-on exits on a trait:** WATCH. **A section closing on a small object image** (Ch.20 S4's drip): WATCH for Ch.21.
+    - **Grata's touches:** three used (upper arm, forearm, wrist); Ch.21 finds a fourth and never repeats one.
+    - **Forward constraints from the continuity audit:** no line in Ch.21–29 has Valens name or picture the tomb or the painted door
+      before Ch.30 (W-15); the Ch.20 reveal is never dated to December (I-02); Ch.21 places Valens's knowing early, and the telling is
+      Mara's, not the street's (I-10; the fish carter heard Grata); Felix still believes Valens cannot read.
+    - **CUT entries** (never to be restored): the disruptor's "Nobody at home had ever paid me to leave a join where it could be
+      found."; C1's fig line; R2's spill at the spout; R1's carts; Felix's hold on the painters' ladder (C-03).
+  - **Ch.31 forward guard (the night whitewash).** The outline's Ch.31 anchor is "Grata whitewashing a rival's election notice by
+    lamplight with Mara holding the ladder", and its beat 2 is "Valens refuses to help, then holds the lamp." Ch.20 has spent the
+    generic night-crew tableau: a professional whitewasher and painter, a boy with a lamp on a pole, lime laid over red, *Lantern-boy,
+    hold the ladder.*, the painter's threat to the lantern boy and the sagging light put right, the wall like a shaved face, the letter
+    set on a crack. On the final Ch.20 page **nobody from the household holds the ladder or the light** (Felix sits among the pots;
+    Mara stands in the road), so Ch.31's household hold is new. **Ch.31 must not stage it the way Ch.20's crew was staged, or else
+    design it as a deliberate counterpoint:** the raid goes by **Grata's own lamp**, on a **rival's red letters**, with **Mara's hands
+    on the ladder**; Valens holds the lamp as a man who refused, never as a boy, never on a pole, and is never told to hold it still;
+    **no professional crew** on the page; **no "hold the ladder"** (and no "hold that light") in any mouth or on any wall; **no
+    comparison of the wall to a shaved face**; **no letter set on a crack**; **no wall quoted in Ch.20's kinds**. Any other household
+    member at the ladder is written as an explicit counterpoint to Ch.20's crew, named as such in the outline, never as the same
+    tableau with new hands.
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
@@ -6166,3 +6509,49 @@ finalizing the chapter. Never add a tic to fix it.
   sample line. Not touched: the manuscript, STATE.yaml, ENTITY_STATE.yaml (the stale header comments of chapter-19.md, lines 5–9,
   still describe earlier pages and are the editor's, not this pass's). No tic, catchphrase or signature gesture given to anyone;
   tic-bearer roster still NONE.
+
+- **2026-10-21 (bookkeeping, Ch.20 re-sync to the FINAL page, md5 `20bcc76c…`, after dialogue-polish, hook-craft, disruptor,
+  continuity repair C-01…C-03 (option A) and W-01…W-14, polish cycle 0 (41 swaps) and finalize F1–F10 with F2b; sources: the re-sync
+  list in the "Re-evaluation after cycle 1" section of evaluations/chapter-20-eval.md, plus the bible notes in dialogue-chapter-20.md,
+  disruption-chapter-20.md and continuity/chapter-20-audit.md):** the seven Ch.20 blocks were still the writer draft's and quoted 24+
+  strings no longer on the page; each is rewritten from the final page and tagged SYNCED. **MARA** Ch.20 block (was a one-line
+  pointer): her uncontracted Latin as on the page; the comprehension mechanism, the trade word "dogs" asked for and shown by
+  fingernail, with the gloss cut (R17) and reports at 0, the mechanism SPENT; materials and joins as hands at work; chaos 4 of 4 (the
+  toothpick tour with the one filling (L1) and no carts (R1); the bowl and the lip test; Dr. Pinsky's pick as a triggered clause;
+  the fountain and the covered mouth (R3, R4)); the fountain set after R2, R5/F9, L3 and C5; the tremor note at two sentences with
+  "an inch" CUT (D4) and hands steady; the named frame through the lens (R13, W-13); the door, the pregnancy, the small joys.
+  **VALENS** Ch.20 block: every line re-listed from the page; "What's she sent?" (C3); "It hasn't," as a statement (C-01); the fig
+  picked in silence with three figs among the broken things (C1); one pause at the stone (C5); the W-15 knowledge guard. **FELIX**
+  Ch.20 block: sits among the painter's pots and holds nothing (C-03; the ladder lines CUT); the rain line after F1; "That wants
+  shouting."; boast/fact endings 8+ and the remaining stacked questions; sleeps in the shop (W-14). **GRATA** Ch.20 block: "you've a
+  payer's face" (R18); "Them that paint for the candidates" (F8); three touches as on the page (the hen-squeeze, the forearm push "the
+  way she moved customers along her counter", two fingertips "beside Plautia's gold"); the cup set down without a word; the fish jar
+  "at her counter's brazier end" (R19) ladled onto a carter's bread (L2); "Grata clapped the lid on."; questions 0; a fourth touch
+  for Ch.21. **Ch.20 walk-on note** rewritten and SYNCED (the single-reward notice; the leek husband's "He should have chained it to
+  the wall."; the coppersmith's "This winter gone."; the stewpot woman's dogs and "Make it tight. My oil lives in it."; the turner's
+  curl of bone, "It buried my wife's mother," … "and after her a horse.", collected that evening, paid in the toothpick only; the
+  fuller's wife's "She called for it" and "She wrapped it up again in the same wool."; the night crew after F10 and F7, with Felix
+  among the pots and "Hold it, then." CUT; the dyer's stained hands and "his father insisted,"; the fish carter's bread; trade-residue
+  introductions 4; object-to-the-eye 0). **ZOSIMUS** card: physicality now "with one black finger" once, "He scratched in his beard."
+  bare, and the lamp cradled in his palm with his eyes shut (the breastbone hug CUT); syntax adds his place-name line; the Ch.20 block
+  rewritten ("The furnace stair did it,"; "It was a plain round lamp with FORTIS stamped in tall capitals on its foot."; "I've had it
+  three summers."; the spoken name; the dawn pickup; no payment beat); "three summers" and "The furnace stair did it" SPENT; four
+  draft strings CUT. **At-risk after Ch.20** rewritten and SYNCED: the lamp (the disruptor's "Nobody at home…" logged CUT, never to be
+  restored; the R14/F6 process; R8; D7), the bowl, the fountain, the tremor note, the named frame, the fig (W-03, R7, F1, F4, C1 CUT),
+  teeth, Grata, the wall-writing set (D3, R9a, F5, R16), Felix, Valens; spoken shapes re-listed from the page; final counts (7,792
+  words, 35.2%, race frame before-X-had 0, payments 3, "on his way" 2, "dusk" 3, tool-tip frames 2, anti-AI 7/20); 22 new SPENT /
+  CLOSED / WATCH entries (the "Twice" reply and the once-and-once skeleton CLOSED; borrowed 1–2-word lines 0; payment as a scene close
+  CLOSED; "came for it" CLOSED; trade markers capped; weather finding a flaw SPENT; "In the finder" SPENT at 3; the spout freeze SPENT;
+  sample-07 strings 0 before Ch.42; the fountain never linked to the pregnancy; the item-by-item two-item form CLOSED with its Ch.12
+  and Ch.19 survivors counted; the "Then…" opener WATCH; both comprehension mechanisms SPENT; the continuity audit's forward
+  constraints); and the **Ch.31 forward guard**: the night whitewash is never staged the way Ch.20's crew was (no professional crew, no
+  lamp on a pole, no "hold the ladder" in any mouth or on any wall, no shaved-face wall, no letter on a crack, no wall in Ch.20's
+  kinds), and Mara's hands on the ladder by Grata's own lamp are written as the deliberate counterpoint, since no household hand held
+  the ladder or the light in Ch.20. **Ch.5 CLOSED entry (item-by-item look):** the Ch.12 and Ch.19 two-item survivors logged as
+  counted uses (continuity I-11). Every quoted piece in the edited blocks was checked by script against the final chapter-20.md (708
+  quoted strings; Valens's "Today," / "Not tomorrow." / "What's in it, then?" against Ch.17 / Ch.11 / Ch.15, and the Ch.31 anchor and
+  beat 2 against outline.md); every CUT entry was checked to be absent from the page; the remaining off-page quotes are pattern labels
+  or the calibration sample line. Not touched: the manuscript, STATE.yaml, ENTITY_STATE.yaml, outline.md (the eval also asks for a
+  Ch.31 writer warning in the outline; that is the orchestrator's). The stale header comments of chapter-20.md (lines 6–9) still
+  describe earlier pages and are the editor's, not this pass's. No new named character; no tic, catchphrase or signature gesture
+  given to anyone; tic-bearer roster still NONE.

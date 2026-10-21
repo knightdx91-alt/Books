@@ -19,7 +19,7 @@ What was done:
   mode + Step D.6 shape audit, docs updated.
 
 ## Resume point
-**LOOP RUNNING — resume at Ch.20 "The Mender's Shop" (2026-10-21). Ch.19 FINAL. LAST chapter before CHECKPOINT 4 (review-ch16-20.md).** Ch.20 briefs: ledger row = Collage (a year told in wall-writing and repairs, Pompeii AD 72–73), document open (a painted lost-property notice, 9–27 words, italics → `narrative`), spoken-line close (Grata's), 8,200w, dialogue 30–40%, 6 breaks, gear mid; CH19-2: work from the PAGE — the family rents the dead cobbler's shop next to Grata's counter (so the repair shop is THERE, not "Grata's front room"); the election notice is painted over the whitewash patch Ch.19 planted on Grata's wall (or the crack Ch.19 put on another house — choose one and keep it); NON-NEGOTIABLE: she throws out a bowl because its seam shows; the fountain and the toddler's wet pebble (unearned); the lamp whose join she leaves visible because the customer wants to see where it broke (do NOT state the theme); Grata clocks the pregnancy before Mara says it and the chapter ends on Grata's line; TIMING: the pregnancy reveal falls late in AD 73 (Lucius is born summer AD 74) — AUTHOR-CP3-3: no line remarks on the months without a child; beat 3a: after a small night tremor, one or two sentences — Mara writes the date in the blank back pages of Fenn's notebook (check ENTITY that she has it); no reckoning, no comment; named film frame: Valens asleep on the roof under the potted fig; the "seam" ruling: "seam" may mean mending here; never describe the door/tomb/cold with seam/niche/painted plaster/hand flat; no narrator irony about preservation, ash or excavators; hook must NOT be CONTRAST and pull must NOT be QUESTION PLANT (Ch.19); Felix: ≥2 speeches ending on a boast or a fact, not a question; Valens's orders to Felix as deflection ≤1; Grata's teeth wait for Ch.31 (Mara's teeth beat is hers); the children's citizenship OPEN; no bends, kneel/crouch ≤1, hand-on-knee ≤1, deliberation pauses minimal, no gait exit, present-tense generalisation ≤1; Valens bare "No." ≤1, no narrated non-answers, no comparisons.
+**CHECKPOINT 4 — AWAITING AUTHOR REVIEW (2026-10-21). Ch.20 FINAL.** Read `feedback/review-ch16-20.md` (3 decisions: the children's citizenship; the letter board and the Kalends walks; the scheduled task's repository). On "continue": set awaiting_author_review false, record the answers as AUTHOR-CP4-n, resume at Ch.21 "The Wolf's Old Name". Ch.21 briefs (carry): open fast (Ch.19–20 were the two longest chapters back to back); Mara tells Valens about the child EARLY, before street gossip (a carter overheard Grata); do not stage Valens "standing in my door grinning" (Grata pictured it); hook must NOT be VOICE and pull must NOT be REVELATION (Ch.20); the summons route runs via the Puteoli letter board (CH19-7/CH20-5); no tomb on the page before Ch.30 (the Kalends walks stay off-page); the Ch.31 guard; the children's citizenship per the author's CP4 ruling.
 author said "Make the fixes then continue". The independent-read fixes are in (Ch.2 asides; Ch.3
 trimmed to 5,628; Ch.5 to 7,858 with the town-Greek clause) and Ch.3/Ch.5 re-evaluated PASS. Next
 checkpoint after Ch.10 (`feedback/review-ch6-10.md`). Hook/pull types used so far: Ch.1 CONTRAST /
@@ -36,6 +36,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
 **RULING (orchestrator, 2026-10-21, on the Ch.19 audit's question): "seam".** The outline's Ch.20 mending beat ("learns to let a seam show") and voice-bank sample-11 use "seam" for a visible repair; that is canon and stays. What is reserved for the ending (Ch.42–43) is "seam" used of the DOOR, the tomb or the cold — never describe the door, the tomb or its cold with "seam", "niche", "painted plaster" or "hand flat" before Ch.42.
 
 ## Chapter log
+- **Ch.20 "The Mender's Shop"** — 7,792w · Floor 8.5 / Avg 8.79 / Casual 9.0 / CVI-L 9.4 · 1 polish cycle (Prose: retired devices, Ch.14 rebuild, sample-07 echoes) + a continuity repair (3 CRIT / 15 WARN) · a year in Pompeii; the lamp; the pebble; Grata guesses the child · full chain in STATE.yaml history.
 - **Ch.19 "Puteoli"** — 8,251w · Floor 8.5 / Avg 8.79 / Casual 8.5 / CVI-L 8.85 · 1 polish cycle (Prose: door explanation, pause device, Ch.17 frames) + a continuity repair (0 CRIT / 15 WARN) · the bay, the mountain declined, Grata, the door found · full chain in STATE.yaml history.
 - **Ch.18 "Lechaion"** — 2,523w · Floor 8.5 / Avg 8.93 / Casual 9.0 / CVI-L 10.0 · 1 polish cycle (Prose: a reserved sample frame, present-tense similes) + a continuity repair (0 CRIT / 14 WARN) · the quay wedding in ten words; the watch handed back · full chain in STATE.yaml history.
 - **Ch.17 "Games on the Isthmus"** — 6,909w · Floor 8.5 / Avg 8.86 / Casual 9.0 / CVI-L 9.7 · 1 polish cycle (Prose: lifts and rebuilt set pieces) + a continuity repair (1 CRIT / 10 WARN) · the theft by boredom; Celer at the scaffold's shadow; the run · full chain in STATE.yaml history.
@@ -69,6 +70,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
   13 audit warnings all fixed · full chain in STATE.yaml history.
 
 ## Pacing log
+- Ch.20 (FINAL): PASS — 7,792w (target 8,200) · dialogue 35% (30–40 ✓) · 6 breaks · gear mid (median 16) · documents quick, repairs slow, the fountain sudden; Ch.21 must open fast.
 - Ch.19 (FINAL): PASS — 8,251w (target 8,400) · dialogue 25% (20–30 ✓) · 4 breaks · gear high (median 18) · slow panoramic arrival; the road stretch sags by design; very slow at the tomb.
 - Ch.18 (FINAL): PASS — 2,523w (target 2,800) · dialogue 34% (30–40 ✓) · 0 breaks · gear mid (median 15) · a short quick hinge between the long chase and the long arrival.
 - Ch.17 (FINAL): PASS — 6,909w (target 7,400) · dialogue 33% (30–40 ✓) · 3 breaks · gear low (median 12) · fast and fragmented with one slow beat at the scaffold; the gear steps down across Ch.15–17 as planned.
@@ -91,6 +93,7 @@ handling beats; "in English" as a tag ≤2 per chapter.
 
 ## Shape audits
 (every chapter: `python3 tools/shape_check.py books/the-hour-of-ash` from the repo root)
+- after Ch.20 (--strict): CLEAN. Ch.20 `narrative` / `dialogue`; 6 breaks; dialogue 35%; median 16. Twenty chapters: lengths 1,821–8,251, dialogue 5–46%.
 - after Ch.19 (--strict): CLEAN. Ch.19 `scene-set` / `long-fade`; 4 breaks; dialogue 25%; median 18.
 - after Ch.18 (--strict): CLEAN. Ch.18 `I-statement` / `punch`; 0 breaks; dialogue 34%; median 15.
 - after Ch.17 (--strict): CLEAN. Ch.17 `short-punch` / `quiet`; 3 breaks; dialogue 33%; median 12.
