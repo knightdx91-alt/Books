@@ -59,3 +59,4 @@ tic_report --gate and voice_wear_check (strict) all clean. **Word count after: 8
 3. Ch.22 Xavier: **A** — "Rooms will be waiting for you at the Winespring Inn," he added. "Lady Amelia will write ahead to arrange them."
 4. Ch.3 statue: **A** — after "She stood up and brushed off her knees where she had knelt on the stone." add " Behind her the sunlight had crept onto the statue, and the face it lit was hers." (+16)
 5. Ch.12 "That honestly is all she told me": **A** — leave (author's line; Bal's kind fib).
+6. Ch.20 right palm: **A** — after "a clean line he never had to cut," make it "...a clean line he never had to cut. Blood magic had no need of the sygl hand." (+8)
