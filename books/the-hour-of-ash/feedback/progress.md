@@ -31,6 +31,8 @@ quiet, long-fade, punch, dialogue, long-fade, dialogue, question, quiet. No chap
 list in character-bible.md; `--echoes N` on every fresh draft; Kallia's hands are tasks, never
 handling beats; "in English" as a tag ≤2 per chapter.
 
+**OPEN FOR CHECKPOINT 4 (author):** the children's citizenship. Ch.18's quay marriage is a citizen freedman (Valens) + a woman registered as a peregrine (Mara, "of Syracuse", Kallia's kinswoman) = matrimonium iniustum: valid, but children take the mother's status, so Lucius and Aelia would NOT be Roman citizens by birth. Twist: Syracuse was a Roman colonia (Augustus), so a "Syracusan" could claim citizenship. No chapter before Ch.22–24 depends on it; until the author rules, no chapter calls the children citizens.
+
 ## Chapter log
 - **Ch.17 "Games on the Isthmus"** — 6,909w · Floor 8.5 / Avg 8.86 / Casual 9.0 / CVI-L 9.7 · 1 polish cycle (Prose: lifts and rebuilt set pieces) + a continuity repair (1 CRIT / 10 WARN) · the theft by boredom; Celer at the scaffold's shadow; the run · full chain in STATE.yaml history.
 - **Ch.16 "Plautia"** — 7,175w · Floor 8.5 / Avg 8.86 / Casual 9.0 / CVI-L 9.7 · 1 polish cycle (Prose: earlier delivery frame rebuilt, borrowed whole lines, retired pause-fillers) + a continuity repair (3 CRIT / 14 WARN; the Isthmia year → CP3-5) · Plautia, the bracelet, Kallia's quiet farewell, the plan · full chain in STATE.yaml history.

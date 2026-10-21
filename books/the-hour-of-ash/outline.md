@@ -640,7 +640,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Function in arc:** Arrive at the deadline-place. The door is located and dormant. The Pompeii world is established (Dimension 7).
 **Emotional anchor:** the green, vine-covered mountain seen from the deck, one broad summit and nothing like the postcards.
 **Emotional surprise:** she refuses to photograph it. Valens says it's a fine mountain for vines, and she agrees with him.
-**Opening strategy:** a time opener (e.g. "By the time the grain ship…"), so `scene-set`.
+**Opening strategy:** a time opener (e.g. "By the time the goose ship…"), so `scene-set`.
 **Key scenes/beats:**
 1. **NON-NEGOTIABLE.** The bay from the deck: Puteoli's moles, Misenum's fleet, the mountain. The camera is raised and lowered. The reader's own knowledge does the work.
 2. The harbor clerk Valens is sure has marked him (he is short-sighted). The papers work.

@@ -207,7 +207,7 @@ Irene Szabo (Pine Street dealer, Ch.1), Emilio Reyes (absence: objects and the a
 | 15 | Valens's question "Do they still have mules?" after she tells him where she's from | The first union is clumsy and funny before it is anything else, and the funny part is the tender part |
 | 16 | Plautia giving away a bracelet Mara admired, then weeping over it in the next room | Mara's jealousy of Plautia turns into the first female friendship of the past |
 | 17 | The archive clerk who will not stop eating figs during a theft | The great escape succeeds because of a bored bureaucrat, not because anyone was brave |
-| 18 | The watch, given back on a wet quay as a wedding gift, wound | The wedding is ten words long and they nearly miss the ship |
+| 18 | The watch, given back on a sunlit quay as a wedding gift, wound | The wedding is ten words long and they nearly miss the ship |
 | 19 | The green, vine-covered mountain from the deck at Puteoli, a single broad summit, nothing like the postcards | She refuses to photograph it. Valens says it is a fine mountain for vines, and she agrees |
 | 20 | A lamp she mended for a customer, the seam showing on purpose | Weeping at a street fountain over a toddler's wet pebble |
 | 21 | Felix's palm-branch scratched into the plaster outside the gladiator barracks | Valens's old fame is *flattering* to him, and he hates that it is |
