@@ -2587,3 +2587,263 @@ Open contradictions: 33 → 37.
   - No cite is above p270 outside the labelled requested-checks block.
 - **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 269 characters, 81 locations, 114 objects, 129 contradiction rows.
+
+## 2026-10-21: UPDATE (chapter 18, "Lechaion", post-disruptor page)
+
+- **Page read:** chapter-18.md at a77ccc3 (the disruptor pass, after the writer d3cb979 and dialogue-polish 055d735), md5 ec8653732184a38e829b64cd6ec1821b. It has 77 paragraphs, one scene and no `* * *` breaks. The title and the four HTML comment lines are not counted, so file line 8 = p1 and file line L = p((L-6)/2). `paragraph_rule` now includes Ch.18.
+- **meta:** `last_updated_chapter: 18`; 18 added to `chapters_tracked`; `last_updated_by`, `mode` and `source` updated; new `meta.ch18_requested_checks`.
+- **The marriage (WRITTEN):**
+  - The master's terms: "no priest and no cake, only the two of you saying so with two others to hear it" (p27).
+  - The ten words: "Will you be my wife, Mara?" / "Yes." / "Will you?" / "Yes," (p33-p35).
+  - The witnesses are the tar-handed sailor at the plank's head and Felix (p27; p36; p60). Pacuvius: "I heard." (p37). His daughter watches (p45).
+  - Place and time: the Lechaion quay, early afternoon of the Ch.17 day, spring AD 72.
+  - Updated: `mara-reyes.legal_status`, both characters' relationships and arc_waypoints, `plot_threads.romance.ch18_beat`, `maras-legal-nonexistence.ch18_note`, and the new `knowledge_index.lechaion_wedding`.
+- **CH16-8 RESOLVED.** The household's freedman booked them at sunrise as "a muleteer and a wife and a boy" (p12) and had "Gone back up for the men's race" (p8; p20). Nobody from the Corinth household is on the quay. The Corinth "My wife" is now true, and no one who held it saw a first wedding.
+- **The watch (WRITTEN):**
+  - Valens takes it from his pouch and lays it in Mara's hand without a word (p47). It is warm, with flour in the links and on the crystal by the nick at the two (p48).
+  - It is running and the spring is "wound tight to its end" (p48). It reads "twenty to one", with the post's shadow a little past noon (p49).
+  - Mara tries it on her LEFT wrist against Plautia's gold, then holds out her RIGHT arm. Valens closes the clasp with his nail (p51; p52). "The watch sat on the wrong wrist and ticked." (p53)
+  - The bracelet stays on the LEFT, which meets the audit's I-29 forward item (`plautias-bracelet.ch18_result`).
+  - Custody: valens → mara-reyes. The outline's custody row is kept as `plan_was`.
+  - New `windings` row: found wound, winder not shown. The page never says he kept it wound for the span. New fields: `time_setting_ch18`, `wrist_ch18`, `physical_ch18` and `witnesses_ch18` (nobody is shown seeing the return).
+  - `knowledge_index.seiko_with_valens` gets the return row.
+- **Pacuvius (NEW):** `ship-captain-lechaion` is renamed `pacuvius`, with `former_slug` kept and the gulf-coaster-master note updated.
+  - Physical and speech: a leather cap; tunic hitched through his belt; harbor Latin; left foot bare after a lost sandal ("if any of you sees a sandal floating past the mole, it's mine", p46; how he lost it is not on the page).
+  - His daughter, "married at the Kalends to a man at Puteoli she's never set eyes on", is going to her husband's mother (p17). "By proxy" is noted as a reading, not page wording.
+  - The Ostia story (p17).
+  - Also new: pacuvius-daughter (the girl in the blue hood), the told-only husband and mother, tar-handed-sailor, goose-ship-crew, towboat-rowers-lechaion, lechaion-fish-seller.
+  - New location `ostia` (told). Facts added to lechaion (`ch18_facts`) and puteoli.
+- **The goose ship:**
+  - Description from the page: the goose carved from the sternpost, flaking white paint, red beak; the plank; the brailed sail with lead rings; the towboat.
+  - Destination Puteoli (p17; p30). The page names no cargo, so none is recorded.
+  - Status `chekhov_closed`: they are aboard and the plank is in (p77). The sailing itself is not shown.
+  - New `objects.italy-marble-ship` (background): "Not out of this harbor before the Ides, and that one's carrying marble, and she won't take a mule." (p22)
+- **Aboard:**
+  - All four mules: the dun refuses the plank and is blindfolded with Felix's tunic; "The other two" follow; Valens brings the black back (p54-p70).
+  - The fig, carried up between Valens and Mara (p73-p76). CH16-9 gets `recheck_ch18` and stays open.
+  - Felix, in his loincloth, "bare-shouldered and crowned" (p68; p71).
+  - The pine crown is given to Felix (p41) and closed. New background objects: `felixs-tunic-blindfold` and `pacuvius-lost-sandal`.
+- **Unchanged:**
+  - The pen-knife is not on the page and Myrrhine is not on the quay. It stays for Puteoli (`ch18_note` on the object and on `the-knife-comes-home`).
+  - Nobody knows who won the boys' race (Felix p42; Mara p43; the sailor's bet on "the small Sicyonian", p44). New `knowledge_index.boys_race_winner`.
+- **Timeline:**
+  - Row 18 now comes from the page. The old patched-outline value is kept as `plan_was_patched` beside the earlier `plan_was`.
+  - Placed after the Kalends (if that was this month) and before the Ides; the month is not named.
+  - The watch span is derived, about 16-18 months; the page states none.
+  - Four new timeline_events rows.
+- **Knowledge flow:**
+  - New Ch.18 rows for Mara, Valens and Felix (incl. his pre-18 BELIEF that she was not married), Pacuvius, the sailor and the daughter, plus the freedman's told trait.
+  - New `knowledge_absent_ch18` for Mara, Valens and Felix.
+  - New rows on `maras_name` and `valens_name`.
+  - No knowledge_gap.
+- **World rules (Ch.18):** marriage by consent before two witnesses (Pacuvius's account); the nuts, torches and cake; a master answering for his passengers' standing, with Delphi's rolls carrying no weight in Italy; the brailed sail and towboat. The Ch.17 "every day" row gets a `ch18_note`.
+- **Contradictions:**
+  - **CH18-1 (low, UNRESOLVED).** The watch is near sun time with no setting shown. In Ch.11 it ran fast with the hands untouched, and Valens was never shown how to set it. The page also never says he kept it wound for the whole span.
+  - **CH18-2 (info).** Celer's "Ships leave Lechaion every day" against one Italy ship before the Ides. Compatible.
+  - **CH18-3 (info).** Felix holds that she is unmarried after the Corinth winter, and asks "Did you get it?" with no shown path to the errand. Compatible; not logged as a knowledge_gap because "it" is never named.
+  - **CH18-4 (info).** Outline Ch.18 vs the page: none against a NON-NEGOTIABLE. The page never calls the watch a "wedding gift" or says "seventeen months".
+  - **Resolved:** CH16-8.
+  - **CRITICAL:** none.
+  - **Open count:** 37 → 40.
+- **Checks:** every single-quoted fragment on a ch-18 line was checked against the page by script. Two misquotes were fixed ("'Father,' … 'was mine like that?'" and "I'd money on the small Sicyonian"). The remaining misses are other chapters' quotes on mixed lines, plus the labelled reading "By proxy". No cite is above p77.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 275 characters, 82 locations, 117 objects, 133 contradiction rows.
+
+## 2026-10-21: RE-SYNC (chapter 18, "Lechaion", FINAL page)
+
+- **Page read:** chapter-18.md at a5af92d, md5 dbd5ac50047ee465bb51f78d85ac44a4. Since the UPDATE (a77ccc3 page), three passes landed: the continuity repair (a81d6e5, audit W-01..W-13), polish cycle 1 (7ab624c, 20 swaps) and finalize F1-F3 (a5af92d). The diff was taken from e2928f9 to HEAD.
+- **Numbering:** still 77 paragraphs, one scene, no breaks. Nothing merged or split, so **no ch-18:pYY is renumbered**. A fifth HTML comment line moved file lines down by one, so file line 9 = p1 and L = p((L-7)/2). The audit cites the a77ccc3 file (L = p((L-6)/2)); the eval's final sections cite the final file. Text changed inside 28 paragraphs (listed in `revalidation_needed`).
+- **Corrected to the page** (superseded wording kept as `was` / `prose_was` wherever it carried a fact):
+  - **The watch:** the old "the spring was wound tight to its end" is now "it took two and stood hard" (p48), so it is wound but not to its stop. The shadow is now "a short shadow on the stone, tipped a little east" (p49), with no sandal ruler. The other changes: "The hands were at twenty to one"; "Valens was minding the dun." (p50); "The case was warm from him."; the clasp now closes with "pressed." (the snap is cut), then "His fingers smelled of bread…" (p52). These went into `objects.fathers-seiko-watch` (custody row, windings row, `time_setting_ch18`), Mara's possessions and knowledge, Valens's relationship row, and the ch18 check results.
+  - **The plank sailor:** "by Pollux" (was "by Castor", W-04); "a gray man stained with tar" (was "tar to the elbows"; canonical_name and physical). He now turns to answer Valens's "Keep off her heels," when he is kicked (p58).
+  - **Pacuvius:** the harbor Latin is "stuffed with sailors' Greek" and "he stayed at the rail to use it on us" (p12). The priests clause is cut (W-05) from his trait and from the Ch.18 world rule. "Yours had a cake," loses "without turning round". Valens's "Twice over" is cut (W-13), and his offer is now "I'll pay the fare again," (Pacuvius's trait, Valens's relationship row and waypoint).
+  - **Felix:** "Did you get it?" is cut (W-01). "like a boy half his age". He now blames the nuts ("It's the nuts," … "There should have been nuts."), not the sun, so "since sunup" is gone from the timeline row. Mara answers him "We are all of us watching the yard"; the master says "Your boy's been on that plank" (W-10).
+  - **Mara:**
+    - "I found breath enough for Latin, barely."
+    - The cucumber memory now has "and rinsed it off under the tap". "to draw the bitterness out" is cut, so the page gives no reason.
+    - Her yes is "Yes. Will you?" with "There was no voice under it" cut (W-07). Corrected in legal_status, both relationship rows, her waypoint, the romance thread and the check results.
+  - **The opening (p1):** the wind "flattened my dress against my legs". Across the basin, "a man sat in a beached boat mending a net and whistling, as if the afternoon were his to spend". **Note for the orchestrator:** "hammering at a hull" (W-06) was the continuity repair's text, and polish cycle 1 then replaced the hammer with the net-mender (eval R1). The final page has no hammering, so `locations.lechaion` carries the net-mender and records barrel → hull → net in its `was` field.
+  - **Objects:** goose ship "like a blind on its cords"; crown "before it reached the slot of water by the hull"; tunic "Felix peeled off his tunic". The daughter gets the alias "the master's daughter" (narration, p45).
+- **Audit patches** (chapter-18-audit.md, SUGGESTED YAML PATCHES), applied against the final page:
+  - The watch: custody, wrist and winding, as above.
+  - mara-reyes ↔ valens: married. Already present; quotes fixed.
+  - pacuvius: already created.
+  - felix.knowledge (married, witnessed): already present.
+  - felix.knowledge_absent_ch18: **adapted**, because the audit's wording assumes "Did you get it?" still stands. It now reads "whether the theft succeeded… (not asked on the final page)", plus "whether Plautia was to come to the quay ('Where's the lady with the litter?', p8)".
+  - plautias-bracelet (left wrist) and the pine crown (given to Felix, worn aboard): already present.
+- **Eval handoff** (chapter-18-eval.md):
+  - The watch is on the RIGHT wrist, Felix's tunic is on the dun and the crown is on Felix. These were already present.
+  - The leaf is under Valens's tunic: new `objects.manumission-record.ch18_note`, and the valens-papers `ch18_note` is updated.
+  - The pen-knife is in Mara's belt. Already present as presumed; unchanged.
+  - New `goose-stern-ship.ch18_handoff`: the towboat line, yard, stern rope and plank are on the page. Leaving "under tow on the afternoon breeze" is the eval's handoff, not shown. Pacuvius and his daughter are aboard. Do not compress the crossing (audit I-03).
+- **Forward note on the marriage (new):**
+  - Where it is recorded: `mara-reyes.legal_status` (Ch.18 row, `forward_note`), with pointers on `valens.legal_status`, `lucius.status_at_birth` and `aelia.status_at_birth`.
+  - The law: a citizen freedman and a registered peregrine marry without conubium, so the marriage is *matrimonium iniustum*. It is valid, but the children take the mother's status.
+  - Status: OPEN, pending the author at checkpoint 4. There is a Syracuse-colonia twist.
+  - The rule until the author rules: no chapter calls the children citizens.
+  - Also derived: Valens's own citizenship rests on the contested manumission.
+- **Contradictions:**
+  - **CH18-1 NARROWED, still UNRESOLVED.** The winding half no longer stands, because two turns fit a winding that morning (Ch.6, Ch.11). The shadow no longer needs a very short post. What stays open: the hands agree with the sun and nobody is shown setting them.
+  - **CH18-3 NARROWED, still UNRESOLVED.** Part (2), "Did you get it?", auto-resolved by the cut. Part (1), the unmarried belief, stands as info. New part (3): "Where's the lady with the litter?" (p8) remains on the page. Audit W-01's optional cut was not applied. It is a question, so it is not a knowledge_gap.
+  - **CH18-4:** recheck note added. Still none against a NON-NEGOTIABLE. Foundation row 18 now reads "sunlit quay" and outline Ch.19 now reads "goose ship" (a81d6e5); `locations.lechaion` gets a `foundation_note`.
+  - **CH18-5 NEW (info, forward constraint):** the children's status, for checkpoint 4.
+  - **CRITICAL:** none. **Open count:** 40 → 41.
+- **meta:** header note, `last_updated_by`, `mode`, `source`, `paragraph_rule` (Ch.18 re-anchor), `revalidation_needed` (chapter 18, RESOLVED), and a `ch18_requested_checks` re-sync row.
+- **Checks:**
+  - Every quoted fragment on the YAML that was on the a77ccc3 page but is not on the final page was found by script. Each was fixed, or kept only as labelled superseded wording.
+  - Every quote added in this re-sync was checked against the final page. The only misses are labelled was/prose_was text, other chapters' quotes on mixed lines, and plan/eval quotes.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 275 characters, 82 locations, 117 objects, 134 contradiction rows (41 open).
+
+## 2026-10-21: UPDATE (chapter 19, "Puteoli", post-disruptor page)
+
+- **Page read:** chapter-19.md at c98aaa0 (writer cb3d2fa, dialogue-polish 8d4e2f7, book-disruptor c98aaa0), md5 c4793a91f3dd935af6a501bd1ada2571.
+- **Numbering:** 186 paragraphs, four `* * *` breaks after p24, p63, p95 and p127. The title, the book's first dateline heading (`#### *Puteoli · spring, AD 72*`, a heading, not counted) and the four HTML comment lines are not counted, so file line 10 = p1. The section offsets are in `meta.source_convention.paragraph_rule`.
+- **Planned rows replaced by the page** (each keeps `plan_was`): Mara's and Valens's Ch.19 location rows; Mara's door knowledge row; Valens's "papers accepted at Puteoli"; both relationship rows with Grata; timeline row 19; locations puteoli, vesuvius, pompeii (the tomb roads, the distance, Grata's street), nuceria-gate-tomb, neapolis, misenum; the microcassette touch, the Pentax beat, the manumission-record beat; `knowledge_index.door_location`; `hand-at-threshold`.
+- **Grata:** her whole entry is rebuilt from the page. It covers her description (p107), her flood, the arm-touching, and "You're Greek, you've the walk". It also covers the rooms (the dead cobbler's shop next door with two rooms behind, 24 sesterces), her husband at dice, her son at the baths, her cousin's bad wall and the whitewash patch. The plan's traits are kept, with `ch19_confirmed` / `ch19_page` notes.
+- **gratas-husband:** first appearance moved from the planned Ch.24 to Ch.19. Grata tells of him, and the man in the sleeping tunic is him by reading only.
+- **secundus:** first mention moved to Ch.19 (unnamed).
+- **The clerk:** the clerk entry is rebuilt from the page. The short sight is shown and never named.
+- **Pacuvius, his daughter and the mother-in-law:** all three get Ch.19 rows. The mother-in-law is now on the page, so her importance goes from mentioned_only to minor.
+- **New:**
+  - **Characters (7):** puteoli-wine-woman, neapolis-innkeeper, nola-carters, nuceria-gate-rose-woman, eel-sellers-family, aulus-numisius-eros (from the inscription), marcus-satrius-proculus (from the panel).
+  - **Locations (8):** puteoli-wine-shop, neapolis-tunnel, neapolis-shore-inn, herculaneum-gate-road (the gate is unnamed on the page), stabian-gate, gratas-thermopolium, cobblers-shop, pompeii-amphitheater.
+  - **Objects (4):**
+    - pacuvius-daughters-brooch: chekhov_closed, mended with the pen-knife.
+    - gratas-whitewash-patch: chekhov_open, planted.
+    - back-room-barred-door: chekhov_open; "It sticks at the sill,".
+    - muleteers-election-panel: background.
+  - **Organizations (2):** misenum-fleet, pompeii-muleteers.
+  - **Plot thread (1):** puteoli-letter-board, for Ch.21-22.
+  - **World rules:** 9.
+  - **timeline_events:** 6 rows (the crossing, DAY 1-4 and the carters' games ban).
+- **Payoffs written:**
+  - **the-where:** the secondary payoff is paid. The door is found at the tomb of Aulus Numisius Eros outside the Nuceria Gate (p165-p178). It is recorded as the home door's location.
+  - **valens-papers:** paid (p41-p47). The manumission-record stays `chekhov_open` for Ch.22.
+  - **theano-phrase:** "where the dead go out" is used (p164), use 2 of 3.
+  - **The camera:** no frame (p19).
+  - **"Seventy-nine.":** used once (p18).
+  - **The mountain:** never named.
+  - **The fig:** on the roof (p116).
+  - **The pen-knife:** still with Mara (p6; p57).
+- **Knowledge flow:**
+  - Only Mara knows the door.
+  - Valens: a door_location NOT row. He knows she is walking the tomb roads and has a Ch.15 path to their purpose, but he is not told she found it.
+  - NOT rows also for Felix, Grata, the eel-seller's family and the rose-seller.
+  - New `knowledge_absent_ch19` for Mara, Valens, Felix and Grata.
+  - Rows added to valens_name, lechaion_wedding, felix_freedom, the_year, eruption_foreknowledge and maras_camera.
+  - No knowledge_gap.
+- **Contradictions:**
+  - **CH19-1 (info):** outline Ch.19 against the page. The page has one mole, no Sarno, and a different search order: the tomb road into the town on arrival, the Stabian Gate on DAY 3. It never uses the word "dormant". None of this is against a NON-NEGOTIABLE.
+  - **CH19-2 (low, forward constraint for Ch.20):**
+    - The plan has the repair shop in "Grata's front room" and the old crack in Grata's wall.
+    - On the page the shop is the cobbler's next door, and the crack is on another house, done by her cousin.
+  - **CH19-3 (info):** Grata's husband (planned Ch.24) and Secundus (planned mention Ch.20) both appear earlier, unnamed.
+  - **CH19-4 (info):** the marriage day count. "The twelfth morning" comes after "eleven nights", and "Twelve days" is said the next afternoon. Compatible if the wedding day counts as day one.
+  - **CH19-5 (info):** the road takes about a day and a half, against Ch.15's "A day … or less" and the plan's "two days". Compatible.
+  - **CH19-6 (info):** the knife thread. Myrrhine is not at Puteoli and no word is left for her.
+  - **CH19-7 (info, forward constraint for Ch.21-22):** the Puteoli letter board against the plan's summons brought to Grata's counter.
+  - **Rechecks:** CH16-9 (the fig's moves; still open) and CH18-2 ("no ship but ours yet in from Lechaion"; still info).
+  - **Resolved:** none.
+  - **CRITICAL:** none.
+  - **Open count:** 41 → 48.
+- **Checks:**
+  - Every quoted Ch.19 fragment added in this run was checked by script against the page before writing; 422 fragments, 0 off the page.
+  - Each fragment was then checked against the paragraphs its line cites. The only misses were object descriptions whose source sits on a sibling line.
+  - No cite is above p186.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 282 characters, 90 locations, 121 objects, 20 organizations, 62 plot threads, 106 world rules, 198 timeline_events, 141 contradiction rows (48 open).
+
+## 2026-10-21: RE-SYNC (chapter 19, "Puteoli", FINAL page)
+
+- **Page read:** chapter-19.md at 9c5f9e8, md5 41dedf4d0160019238d30feef12fb042. Since the UPDATE (7c56d74, on the c98aaa0 page), three passes landed: the continuity repair (926f515, audit W-01..W-14; W-15 deferred to the bible), polish cycle 1 (1344b91, 27 swaps) and finalize F1-F5 (9c5f9e8). The diff was taken from 7c56d74 to HEAD.
+- **Numbering:** still 186 paragraphs, with breaks after p24, p63, p95 and p127. Nothing was merged or split, so **no ch-19:pYY is renumbered**. A fifth HTML comment line moved the file lines down by one: file line 11 = p1, and the per-section formulas are in `paragraph_rule`. The audit cites the c98aaa0 file; the eval's re-evaluation and finalize sections cite the final file (its l.43 = p17). Text changed inside 44 paragraphs (listed in `revalidation_needed`).
+- **Method:** every YAML line was scanned by script for wording that was on the c98aaa0 page but is not on the final page (quoted fragments, plus 4-, 3- and 2-gram scans). Every hit was corrected or kept only as labelled superseded text (`c98aaa0:` / `was` / `prose_was` / `method_was` / `description_was`). Every quote added in this run was checked against the final page.
+- **The orchestrator's known changes, as they stand on the page:**
+  - **Pacuvia is named:** "The master's girl, Pacuvia," (p2), "Pacuvia found me" (p4), "Pacuvia went down our plank first" (p27). `characters.pacuvius-daughter` is **renamed `pacuvia`**, keeping `former_slug`, new aliases and a `named_ch19` row. All 8 slug references were moved (relationships, a told_by method, three knowledge_index rows). The slugs `pacuvius-daughters-brooch` and `pacuvius-daughters-husband-and-his-mother` are kept.
+  - **"by mid-afternoon"** (p63), was "by noon" (W-02). Corrected in timeline row 19, `locations.pompeii` distances (now "an afternoon and a day") and CH19-5.
+  - **"the Locrians to the right"** (p2), was "Phocis" (W-03). The UPDATE had not recorded Felix's line, so it is now a new `locations.gulf-of-corinth` fact. The narration still has "the mountains of Phocis on the other" for the gulf itself.
+  - **Three gates:** "Seven or eight. Three have tombs worth the walk." / "The third?" / "The Nuceria Gate. Tomorrow." (p154-p157), was "Only two" / "And the other?" (W-04). Corrected in `locations.pompeii`.
+  - **Grata heard, did not see:** "I heard about you at that wall yesterday … half that street saw you" (p134), W-05. Her knowledge row's method changed from `witnessed` to unnamed street gossip; `method_was` is kept.
+  - **The bar leans beside the door:** "lay looking at the bar leaning beside it" (p128), W-06. Corrected in `objects.back-room-barred-door`. Also "lifted it clear, opened it, and closed it once more" (p125, eval L2).
+  - **The fig jar is at Felix's feet:** "The fig was on the stones at Felix's feet, jar and all." (p36), W-07. Corrected in CH16-9 recheck_ch19, Felix's location row and the fig's beats_ch19.
+  - **The noseband** is cut "out of the one long strip the nephew had missed" (p145), W-08. Corrected in Valens's trait.
+  - **Grata's line:** "it's been carts and dust since the earth went" (p108), W-10/W-11. She now gives no count; only Mara's "ten years ago" (p82, echoed by Valens, p83) carries C8. Corrected in timeline row 19, `locations.pompeii` and the checks.
+  - **Pacuvia's recovery:** the page reads "sick for every mile of the Straits and well again by daylight" (p2, eval L1). **Rhegium is no longer on the page in any form.** The route now reads in order: gulf, narrows, islands, open sea, Italy on the sixth morning, round the toe, the Straits, then well again by daylight. "the Straits; Rhegium" was removed from timeline row 19, timeline_events and the crossing check. (The brief's "well again after Rhegium" does not match the page; this file follows the page.)
+- **Also corrected to the page:**
+  - **Mara:** the comprehension trait now shows 2 reports: "of which I caught perhaps half" (p27) and the baker lost (p131). Cut: "lost my hold…", "slowly enough for me to have all of it" and "I understood every word". At Neapolis she "stood under her balcony for the rest of it".
+  - **Mara and the camera:** she draws it with no opener (both "Alone at the rail," and "Left to myself," are cut). "Seventy-nine. It came unasked," (W-09).
+  - **The door:** "It was warm, with the whole day's sun in it." The car simile, "no business to be cool", the tomb shadows and "the door stayed cool" are cut; it is now "the door was cool." (p168; p169; p178).
+  - **Grata:** "She caught a pinch of my sleeve and talked on holding it" (W-14) and "touched him on the arm" (no "too"). The description of her Latin is cut (W-01). "Sit there. I kept you a bowl." The whitewash is now "new whitewash", with no size given (`description_was` kept).
+  - **The mother-in-law:** "Those on your father's deck, who are they?". Pacuvia wears "the brooch at her throat" (the brooch's resolution is corrected); "her good blue" now appears at dawn (p4) only.
+  - **The clerk:** reads the leaf "one board and then the other". This is corrected in 6 places: the clerk, Valens, the leaf, the-papers payoff, the checks and knowledge_index.
+  - **Puteoli:** the priest is arguing "about it", with no languages. The fleet passes on still water ("with no wind to help her" is cut).
+  - **Felix:** W-13 turns two runs of questions into boasts ("Give me one. I've the steadiest hand on this road."; "I'd put him down for you.") and one into a statement ("You could drop a house in it and never see the roof.").
+- **Audit patches** (chapter-19-audit.md SUGGESTED YAML PATCHES):
+  - Applied:
+    - timeline day mapping: marriage days 12-15 = landing DAY 1-4, with W-02;
+    - `door_location`: the knuckle tap ("the same dull note, with rubble behind both");
+    - `microcassette.location_end_ch19`;
+    - CH18-5 `recheck_ch19`: Pacuvius's oath, "Valens. Gaius Iulius." in the wax, "You're Greek"; it settles nothing.
+  - Already present, so not duplicated:
+    - the new locations, under the UPDATE's slugs: puteoli / puteoli-wine-shop, neapolis-tunnel (the audit's crypta-neapolitana), neapolis-shore-inn, gratas-thermopolium, cobblers-shop, stabian-gate (the inn is a fact there), nuceria-gate-tomb;
+    - the pen-knife; the leaf; the camera's no-frame row; Grata's first-appearance rows.
+- **Eval handoff cascades:** all were present except the unhung shutter boards. "our boards still leaned against the inside wall because nobody had thought to put them up" (p186) is added to `locations.cobblers-shop`.
+- **Contradictions:**
+  - **CH19-8 NEW (low):** the bible's Ch.19 blocks quote the writer's draft (W-15; the eval's re-sync list). Examples: l.2073 "I saw you at that wall", l.3006 "well again by Rhegium", l.5121 "Only two have tombs". The daughter is unnamed there and needs a card. It resolves when the bible is synced.
+  - **CH19-5 rechecked** (mid-afternoon; still info). CH16-9 and CH18-5 were rechecked and stay open. CH19-1, -2, -3, -4, -6 and -7: their quotes are unchanged on the final page, and they stay open.
+  - **Resolved:** none. **CRITICAL:** none. **Open count:** 48 → 49.
+- **meta:** header note, `last_updated_by`, `mode`, `source`, `paragraph_rule` (Ch.19 re-sync), `revalidation_needed` (chapter 19, RESOLVED), and the `ch19_requested_checks` rows corrected (each marked RE-SYNC), plus a re-sync row.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 282 characters, 90 locations, 121 objects, 20 organizations, 62 plot threads, 106 world rules, 198 timeline_events, 142 contradiction rows (49 open).
+
+## 2026-10-21: UPDATE (chapter 20, "The Mender's Shop", post-disruptor page)
+
+- **Page read:** chapter-20.md at e52b0d7 (writer f00ad5c, dialogue-polish 3718350, hook-craft notes 7ed9a4a with no edits, book-disruptor e52b0d7), md5 8486fa155aca3c78fbed98ee90ac7bc1.
+- **Numbering:** 286 paragraphs, six `* * *` breaks after p45, p84, p129, p180, p223 and p249 (seven sections). The title, the dateline heading and the four HTML comment lines are not counted, so file line 10 = p1. The italic documents count as paragraphs. The section offsets are in `meta.source_convention.paragraph_rule`.
+- **meta:** `last_updated_chapter: 20`; `chapters_tracked` now includes 20; header note, `last_updated_by`, `mode` and `source` updated; new `ch20_requested_checks` (13 rows).
+- **Planned rows replaced by the page** (each keeps `plan_was`): Mara's and Valens's Ch.20 location rows; Mara's `pregnancy_1` and her Ch.20 arc waypoint; Grata's pregnancy knowledge row; the tremor-notes item, the fenn-notebook Ch.20 beat and the tremor-notes object (introduced is now ch-20:p131); timeline row 20.
+- **Characters updated:**
+  - **Mara:** traits (mending hands, boards, seams closed or left, the bowl, teeth), `teeth_ch20`, `weeps_ch20`, 13 knowledge rows, `knowledge_absent_ch20`, and the items bone-toothpick and fountain-pebble.
+  - **Valens:** traits. He hides his reading from Felix again (p16; p206-p208). He writes, for the first time on the page (p119). The fig. The stone and the lamp. Also 6 knowledge rows, `knowledge_absent_ch20`, a `knowledge_gap` (CH20-6) and a Ch.20 waypoint.
+  - **Felix:** `seen_ch20`, traits, a status row, a location row (he sleeps in the shop), 6 knowledge rows and `knowledge_absent_ch20`.
+  - **Grata:** `seen_ch20`, traits (she has writing read to her), relationships (sister, cousin with a needs_review on the fig-selling cousin, the husband's cousin, son, Mara, Valens), 6 knowledge rows, `knowledge_absent_ch20`, a location row and a status row.
+  - **Others:** secundus (`ch20_mention`) and dr-pinsky (a trait).
+- **New:**
+  - **Characters (25):** zosimus, hermes-stoker, gaius-iulius-polybius, infantio, polybius-whitewasher, lantern-boy, lost-pot-cook, coppersmith-next-street, leek-woman-and-husband, stewpot-woman, rubble-carter-bowl, rattle-girl-and-mother, forum-quarrymen, bone-turner, fullers-wife-pompeii (needs_review), fuller-pompeii, fountain-line-women, fountain-toddler, toddlers-father-dyer, board-reading-carter, fish-sauce-carter (needs_review), lime-carter-to-puteoli, carting-foreman (needs_review), successus-the-weaver, iris-innkeepers-slave.
+  - **Locations (7):** bull-fountain, red-house-at-the-corner, cookshop-above-the-fountain, pompeii-forum, crossing-baths, fullery-at-the-corner, sarno-gate. Facts added to cobblers-shop, gratas-thermopolium, pompeii-amphitheater, pompeii, stabiae, lechaion, puteoli-wine-shop and nuceria.
+  - **Objects (19):**
+    - chekhov_closed: lost-pot-notice, cooks-bronze-pot, stewpot-with-lead-dogs, red-gloss-bowl (the bowl given away), clay-pig-rattle, blue-scent-bottle, zosimus-fortis-lamp (the anchor), gratas-fish-sauce-jar.
+    - chekhov_open: valens-letter-to-plautia.
+    - background: menders-board, bone-turners-money-box, bone-toothpick, gratas-wine-board, fullers-aeneid-graffito, felixs-hare-bowl, polybius-election-notice, fountain-pier-graffiti, fountain-pebble, jug-graffito.
+  - **Existing objects updated:** film-roll, fathers-pentax-k1000, potted-fig-tree, fenn-notebook, tremor-notes, plautias-bracelet, plautias-grandfathers-pen-knife, lentisk-stick, back-room-barred-door, gratas-whitewash-patch (not on the page, untouched), muleteers-election-panel, fathers-seiko-watch.
+  - **knowledge_index:** new rows pregnancy_lucius and tremor_notes_known. Rows added to door_location, valens_reads, maras_camera and eruption_foreknowledge.
+  - **Plot threads (2):** repair-trade and kalends-walks (payoff Ch.30, planned). Notes added to conception-and-lucius (the reveal is paid), plautias-letter, puteoli-letter-board and the-knife-comes-home.
+  - **timeline_events:** 9 rows, plus a note on "AD 72 onward".
+- **Film count:** the named frame (Valens asleep under the fig) is shot (p99-p100). By the plan count, 11 are shot and 25 are left. By the page count, at least 10 are shot and at most 26 are left.
+- **Knowledge flow:**
+  - Grata infers the pregnancy and says it aloud (p286). Mara is told by her. The fish-sauce carter overhears (p284). Valens and Felix do NOT know.
+  - Only Mara knows of the tremor note ("nobody woke").
+  - Valens is told about the Kalends (p126), but his "your gate" has no path on the page (CH20-6).
+  - Felix still believes Valens cannot read.
+- **Contradictions:**
+  - **RESOLVED (2):**
+    - **CH19-2:** the trade runs from the cobbler's shop. The notice goes over the crack on the red house, not Grata's wall.
+    - **CH15-6:** the forward constraint is met. The pregnancy is revealed in autumn AD 73, the birth is due "with the heat", and there is no second contraception thought.
+  - **NARROWED:** CH19-7. Valens's letter to Plautia goes out in summer AD 72 by a carter to the Puteoli board.
+  - **Rechecked, still open:** CH16-9 (the fig: no change of home) and CH18-5 (the children's citizenship is still OPEN for the author at checkpoint 4; nothing on the page touches status).
+  - **NEW (6):**
+    - **CH20-1 (info):** outline beats against the page: the shop, the bowl, the column drums and tiles, the notice's wall, the stoker's reason. No NON-NEGOTIABLE is broken.
+    - **CH20-2 (low):** "Two years and more" with the lentisk stick (p140), against a stick cut in winter AD 70 (ch-07:p58). The span is about 22-23 months.
+    - **CH20-3 (low):** "the tree's first figs" and "These would never ripen" (p98; p110), against the Ch.15 dozen figs ripe at "End of the summer."
+    - **CH20-4 (info):** where Felix sleeps. He has a blanket in the shop (p16), but "off to the stable" (p119).
+    - **CH20-5 (info):** the wine-woman puts outgoing letters aboard (p122), against "Somebody comes for it" for incoming letters (ch-19:p61). Compatible.
+    - **CH20-6 (low, knowledge_gap):** Valens's "Do you still walk out to your gate?" (p125). There is no page path to him knowing she found the gate. An off-page telling is possible.
+  - **CRITICAL:** none.
+  - **Open count:** 48 → 52.
+- **Checks:**
+  - Every quoted Ch.20 fragment on the added lines was checked by script against the page. None is off the page; one wording slip, "will put it aboard", was corrected before writing this entry.
+  - Each fragment was also checked against the paragraphs its line cites. Missing cites were added; the only remaining mismatches are first_appearance notes that cite their naming paragraph inline.
+  - No cite is above p286.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 307 characters, 97 locations, 140 objects, 20 organizations, 64 plot threads, 106 world rules, 207 timeline_events, 148 contradiction rows (52 open).
