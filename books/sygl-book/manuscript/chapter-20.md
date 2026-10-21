@@ -32,7 +32,7 @@ Bal was already moving. Nothing in him stopped to decide.
 
 His right palm lifted from the table, open, and the blood leapt from it.
 
-The middle of the palm split open on its own, a clean line he never had to cut. Blood magic had no need of the sygl hand. The blood poured from it and did not fall. It ran out into the air in a long dark rope, as thick as two of his fingers and bright where the light from the high windows caught it. It cracked over the table between the plates. It struck Sean in the chest and knocked him off Viridia and back two staggering steps, and then it was gone, drawn back into Bal's hand, and nothing on the table had been touched except Viridia's torn breakfast order.
+The middle of the palm split open on its own, a clean line he never had to cut. Blood magic had no need of the sygl hand. The blood poured from the split and did not fall. It ran out into the air in a long dark rope, as thick as two of his fingers and bright where the light from the high windows caught it. It cracked over the table between the plates. It struck Sean in the chest and knocked him off Viridia and back two staggering steps, and then it was gone, drawn back into Bal's hand, and nothing on the table had been touched except Viridia's torn breakfast order.
 
 Viridia rubbed her arm once, hard.
 

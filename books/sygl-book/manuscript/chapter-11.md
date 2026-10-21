@@ -82,7 +82,7 @@ She said the name gently, as if it might break.
 
 "He was the only blood sygl ever born into his family. All the rest of them had always gotten Terra's sygl, every generation, and they were stoneworkers, so it helped them enormously. Peter was sixteen when his sygl came, and he'd already learned the whole family business. And then his palm came up red." Amelia's arms tightened across her sweater. "They shunned him for it. So he went wandering up into the mountains. A few days later he found the perfect spot for a temple. He wasn't a Terra, and his family had thrown him out, so he built a temple to me instead. Every stone in it was laid by his own hand."
 
-Sixteen, and cast off for the very mark on Bal's own palm. The likeness seemed to sit up and want attention.
+Sixteen, and cast off for the very mark on Bal's own palm. The sygl in his hand seemed to sit up and want attention.
 
 "How can you know all that?" he asked. "You were locked away."
 

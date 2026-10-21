@@ -76,7 +76,7 @@ She let him. They stayed like that for a few minutes, his forehead on hers, her 
 
 "Through the front door, of course," she said, and giggled.
 
-She stood up and brushed off her knees where she had knelt on the stone. Behind her the sunlight had crept onto the statue, and the face it lit was hers. Bal lingered a moment longer, looking past her at the tall golden doors across the hall. From the inside they were even grander than from outside, gleaming softly in the sunlight, their surfaces worked all over with the same carved foliage and wings as the band under the temple roof.
+She stood up and brushed off her knees where she had knelt on the stone. Behind her the sunlight had crept onto the statue, and the face it lit was hers. Bal looked from the stone face to the living one, then turned to the tall golden doors across the hall. From the inside they were even grander than from outside, gleaming softly in the sunlight, their surfaces worked all over with the same carved foliage and wings as the band under the temple roof.
 
 "But it's locked," Bal said, frowning at them. "Everyone's tried to open it. Everyone. Some of the big boys even tried a crowbar."
 

@@ -31,7 +31,7 @@ word_floor:
 
 phase:
   current: 2
-  status: "BOOK PASSES 2026-10-21: all 30 chapters to the author's script in source order (90,009w), NA (new adult; romantic leads 18+). Full-manuscript evaluation 5 (evaluations/eval-full-manuscript-5.md, after the NA age-up) scores Floor 8.5 / Avg 8.5 / Casual 8.5; its age-audit fixes A1-A3 and NA fixes N1-N5 applied; all mechanical gates clean. Closing line is PROVISIONAL (author: 'a for now'). Next: author read-through, then packaging (front matter to state all characters are 18+)."
+  status: "BOOK PASSES 2026-10-21: all 30 chapters to the author's script in source order (90,023w), NA (new adult; romantic leads 18+). After the Muse + ChatGPT outside-read fixes (261 edits) and author decisions, full-manuscript evaluation 6 (evaluations/eval-full-manuscript-6.md) scores Floor 8.5 / Avg 8.5 / Casual 8.5 with its seam fixes R1-R5 + O1 applied; all mechanical gates clean. Closing line is PROVISIONAL (author: 'a for now'). Next: author read-through, then packaging (front matter: all characters 18+)."
   history:
     - "2026-07-13: architect pass (24-chapter outline); Ch.1–3 drafted and gated."
     - "2026-10-20: author ruled the plan must follow the original script; plan rebuilt to 30 chapters in source order; Ch.1–3 sent back for rewrite."

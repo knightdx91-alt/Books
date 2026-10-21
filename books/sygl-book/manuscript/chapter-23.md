@@ -4,7 +4,7 @@ Amelia saw them off at noon. Fern's grooms had the horses waiting at the canyon 
 
 Hopper stayed behind with her. A bloodwolf at Viridia's heel would have given the whole disguise away at the first gate.
 
-She stayed out on the road while they rode off. When Bal twisted around in the saddle at the bend, she was still there.
+Amelia stayed out on the road while they rode off. When Bal twisted around in the saddle at the bend, she was still there.
 
 "Everyone else is beneath you," Lora said. "Start there. It's how most nobles feel, so it's how you have to feel. Everyone."
 
@@ -142,7 +142,7 @@ Bal remembered. He could still smell it.
 
 Ahead of them, Viridia turned her horse off the main street. North Street, Bal assumed, until she went straight past the third turning on the right. Soon after that she drew up at a stable yard attached to a long two-story building with its shutters thrown open. The painted board over the door said WINESPRING INN.
 
-Bal sent Lora a questioning glance. Nobody had given Viridia directions to the Winespring, and she had found it without asking once. Lora lifted her eyebrows back at him and offered nothing.
+Bal glanced at Lora. So that was why Viridia had asked the guard the way to the Three Boars: Xavier had put the Winespring just past it. Lora lifted her eyebrows back at him and offered nothing.
 
 The inn's stable boy had been leaning in the shade of the yard wall. He came over at a run, and stood ready at Viridia's stirrup while she got herself down out of the saddle in all that gray skirt.
 
