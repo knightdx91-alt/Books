@@ -60,6 +60,7 @@ books/sygl-book/
 - **Spell repetition watch:** the source has few blood spells (the whip above all). Never invent spells;
   when one spell starts carrying too much of the action, FLAG it to the author to discuss. Ledger:
   `project/foundation.md` → Magic ledger.
+- **Market: YA (upper YA), author ruling 2026-10-21.** Characters about sixteen, romance fade-to-black, nothing suggestive; the closing bedroom scene is plainly cozy.
 - Fade-to-black. Keep separate from the-fourfold-crown.
 
 ## Open author decisions (ask, don't invent)
