@@ -734,3 +734,408 @@ The chapter does what the outline asked and more. The woman the book has been dr
 - **"She does that." is three stop words.** A reader could call it too ordinary to own. I count it because it is the whole sentence, it does the same job (one character explaining another woman's habit to Mara), and it comes three chapters after Kallia's.
 - **Characters 8.5 → 9.0 is my forecast, not a score.** It assumes C1–C13 land as written. A re-evaluator may hold 8.5 on Plautia's fingerprint still being frequent (it is her card), or on the two stock short lines I left.
 - Originality, Theme, Emotion and Immersion at 9.0, Casual 9.0 and CVI-Launch 9.7 are one-chapter judgments by the system that wrote the book.
+
+---
+---
+
+# Re-evaluation after cycle 1
+**Evaluator:** book-evaluator (independent; did not write, polish or apply any of this prose) | **Date:** 2026-10-21
+**Text evaluated:** `manuscript/chapters/chapter-16.md` after polish cycle 1, sha256 `3fc626eb…` / md5 `eb8769d9…`. That is **byte-identical to the tested fixed copy** of the first evaluation (`ev16/ch16-fixed.md`), so all 51 swaps are on the page exactly as tested.
+- **Length:** 7,203 words (shape_check), 7,210 (style), 7,858 (`wc -w`).
+- **Read against:** the book's CLAUDE.md; STATE.yaml guardrails, including **AUTHOR-CP3-3**, **AUTHOR-CP3-5** and **AUTHOR-END-1**; voice-dna §0–§8; character-bible.md (the MARA, VALENS, KALLIA, FELIX, PLAUTIA, MYRRHINE, MARCUS and ARISTON cards, the Ch.16 walk-on note, every at-risk and spent block); outline `## Chapter 16` and Ledger row 16; the cycle-0 evaluation above.
+- **My own scans:**
+  - a word-level diff of the cycle-0 page against the cycle-1 page (all 73 changed spans);
+  - every new string grepped against Ch.1–15 and all 13 voice-bank samples, **stop-word-bounded strings included**;
+  - **every whole spoken sentence of five words or fewer, 1–2-word lines included**, checked against every earlier chapter's speech (the gate's spoken-line layer starts at three words);
+  - in-chapter doubles around every swap (verb, noun and root families);
+  - paragraph-final negations, #11 and the pause and gesture classes by hand;
+  - CP3-3, CP3-5, END-1 and the foreshadow families by grep and by reading.
+
+*(l.N = line number in the cycle-1 `chapter-16.md`.)*
+
+## HEADLINE
+**CVI-Launch:** 9.7 | **CVI-Legacy:** 6.9 (provisional) | **Genesis Floor:** **8.5** | **Genesis Average:** **8.86** | **Casual:** **9.0**
+**Engagement type:** Empathy 55 / Fascination 30 / Self-insertion 15 (unchanged).
+**Divergence alert:** none (9.7 − 8.5 = 1.2).
+
+**Gate: PASS.**
+- Floor 8.5 ✓; Casual 9.0 ✓; pacing OK ✓; `check_chapter.sh 16` clean ✓.
+- It passes with **eight finalize fixes (F1–F8)**, tested together and listed below.
+- Five of the eight (F2–F6) undo repeats that the cycle-1 swaps themselves moved sideways. The brief asks for "nothing new", so that check **did not fully pass**. Each of the five is a word-level double inside one paragraph or speech, not a frame, a device or a gated class. None of them holds a dimension.
+
+## Did the 51 swaps introduce anything new?
+| Check | Result | Evidence |
+|---|---|---|
+| **Added explanation** | **None** ✓ | #11 firm count fell from 4 to **3 (0.42/1k)**. No swap adds a clause that unpacks a gesture or a line. R7's "The court grew light, and the flame on the sill went from being the brightest thing there to being only one of the things in it." is observation, not gloss. |
+| **New triad** | **None** ✓ | R10 makes three short sentences in Valens's mouth ("I went for barley. The porter on the colonnade is the proconsul's. The baker's not."). That is a deadpan sequence, not a list and not anaphora. Automatic triads fell from 4 to 2 (l.145 thorn / scree / fold; l.235 bed / window / lamp). |
+| **Echo of an earlier chapter** | **None introduced** ✓ | The echo scan reads 0, and my grep of every new string against Ch.1–15 and the samples finds nothing. **Two pre-existing carry-overs that cycle 0 missed are now caught**, and both are cut in finalize: **F1**, Felix's "What's that?"; and **F6**, "He could not stop", which is **Ch.15 l.548's** "could not stop" for this same laugh and also sample-09's laugh frame. Cycle 0's R12 took "for some while" off that sentence but left the verb phrase. |
+| **Repeat moved sideways** | **FAIL ×5 → cleared by F2–F6** | See below. |
+
+**The five sideways repeats, each made by a swap:**
+1. **R14b** "She **carried** the broom back to the lean-to" lands four sentences after "She came out **carrying** the broom." (l.263) → **F2**.
+2. **L3** "off a **dark** coast" shares its paragraph with "Valens's voice in **the dark**" (l.407). D3 now carries "dark" four times → **F3**.
+3. **R28** "her eye **rolled** white" (l.413) is the fourth roll-word in D3, after "against the roll", "with every roll" and "rolling on a long swell" → **F4**.
+4. **R13** cut "Felix lay down again on his rope." and so left '"Shut your eyes," **said Valens.**' immediately before "**Valens** stayed by the black" (l.427–429) → **F5**.
+5. **R12** "it **broke under us**" (l.373) comes one sentence after "a bed **fell in under us**". The same sentence also keeps "we **went to the floor**", which l.513's cup repeats ("The cup went to the floor by her chair") → **F6**, together with the Ch.15 "could not stop" above.
+
+**What the swaps fixed, verified on the page:**
+- **The Ch.5/6 delivery frame: 0.**
+- **Spoken lines borrowed from earlier chapters: 0** ("She's done it before.", "The sheet was to come from…", "Hand it over", "Every bit?", "Shut your eyes,", "Not much.").
+- **SPENT held-beat fillers: 0** (the rain rope, the fuller's vat and the lodger's cough are gone).
+- **The Ch.10 and Ch.15 ambience beats: 0** (the turf cold, the dawn sequence, the summit sun, the single bark, the rail above, Felix lying down).
+- **CLOSED-family siblings: 0** ("quite still", "kept her face", the lit inventory).
+- **Voice-bank strings: 0.**
+- **The stance slip: gone** ("a low coast I never saw").
+- **Logic L1–L5: fixed** (the brother's slaves; the light source; three years; the merged speech).
+- **Characters:**
+  - Plautia's skeleton no longer runs twice (C2), and the narrator no longer names it (C3).
+  - Her pause cluster is broken (C4–C6).
+  - Myrrhine's lupins now appear in two scenes, C1 and C4 (C8).
+  - Valens's voice is tagged "low" once (C9), and he is off the wall in C4 (C10).
+  - Pricing is Myrrhine's alone (R29).
+- **Anti-AI: 8/20 at −1.125** (from −1.625).
+
+## The echo-scan line, judged
+`tic_report.py --echoes 16` lists **"what is it"** (Ch.1, Ch.7).
+- **On its own it is stock English in other mouths and other jobs.**
+  - In Ch.1 l.87 it is Szabo's intercom ("Yes? What is it?" = *what do you want?*).
+  - In Ch.7 l.116 it is Mara asking about the tooth powder.
+  - Alone, I would leave it.
+- **But it is fused to a real pattern the scan cannot see.** At l.415 Felix opens with **"What's that?" … "What is it?"** at the flashlight. Felix has reacted to Mara's strange object with "What's that…?" in:
+  - Ch.11 l.432 ("What's that, writing?"), at the sherd;
+  - Ch.12 l.250 ("What's that? Is it silver?"), at the camera;
+  - here, at the flashlight.
+- **Book-wide, the whole sentence "What's that?" occurs four times:** Kallia in Ch.5 l.317, Felix in Ch.12, Theano in Ch.13 l.452, and Felix in Ch.16. Counting the Ch.11 variant, it has five uses.
+- **His card's bleed guard says "no catchphrase … repeated".** This is the same trigger and the same opener, in the same mouth, for the third time.
+- **Why it does not cap Characters at 7.5:**
+  - his exact whole line has occurred twice (Ch.12, Ch.16), with one variant;
+  - it is the most ordinary question in English;
+  - it does not distinguish him: his mark is the stack, not its first two words.
+- **Severity: INVESTIGATE → fix.** **F1** cuts both "What's that?" and "What is it?". The stack now opens on "Where's the flame?", which is fresh. The `--echoes` layer then reads **none**.
+- **Registry entry for the bible:** "What's that?" as a reaction to Mara's object is CLOSED at 4 on the page (Ch.5, 11, 12, 13), with no fifth for anyone.
+
+The 1–2-word sentences the gate's spoken layer skips:
+- **"I did."** (Valens; Ch.11 l.128 inside a longer line): an anchor pair here ("You asked for it." / "I did."). Kept.
+- **"Not much."** (Ch.1 l.315; Mara here): stock, kept as cycle 0 ruled.
+- **"And yours?"** (Ch.13 Theano; Plautia): 2 book-wide, no third.
+- **"And you?"** (Ch.6, Ch.11; Plautia l.89): **4 chapters, cap reached.** No fifth.
+- **"My wife,"** (Ch.15 l.340; Ch.16 l.467): Ch.15 has Valens planning the word for the porter; Ch.16 has him say it to the porter. That is the situation arriving, not a line landing again: it is the only word for the fact. Kept, and logged so it is never said to a gatekeeper a third time.
+
+## Genesis Score (cycle 1)
+| Dimension | Cycle 0 | **Cycle 1** | Δ | Evidence | Cap / hold |
+|---|---|---|---|---|---|
+| Originality | 9.0 | **9.0** | 0 | Unchanged elements: the ex as a supplicant mother; the empty hooks; a baby's teeth in the gold; the maid's buy-back during the weeping; the bodyguard's protocol on the porch; mules that cannot vomit; the mended himation. R18 now lets the two strands converge on D3's stair image once, fresh ("each time from behind and at a distance", l.21 → l.469). | Not 9.5: the Parallel frame and the heist-planning shape are genre-standard. |
+| Theme | 9.0 | **9.0** | 0 | "What is owed to the people you leave" is carried by acts: the obol, the night's mending, the lamp pinched out, "Twice in three years". The close is a real question (l.583). The texture that means nothing survives: the scorpion and its brother, the floor laid drunk, the Sicyon match "with a vineyard and a cough", the mastic, the dun in the cabbages, Ray on the ferry. | Not 9.5: the gift motif is still dense. |
+| Characters | 8.5 | **9.0** | +0.5 | Every Characters hold from cycle 0 is cleared on the page: Valens speaks his own line ("She's done it before.", l.303, the bodyguard's knowledge of her habit); the two "charcoal" mornings no longer share a skeleton (l.157 period + question; l.161 a bare question); the narrator no longer names Plautia's habit (l.155); no pause cluster ("Does he laugh? Your husband." is folded into her speech, l.367; "she said.", l.377); Myrrhine's lupins are in two scenes; Valens is tagged "low" once (l.407) and is not against the wall in C4 (l.477); Felix asks about the bracelet's weight, not its price (l.311). Cover-the-name passes for all six speakers. Mara's chaos is 4/4. | **Held at 9.0, not 9.5:** Felix's "What's that?" opener (F1, above); Plautia's "And you?" / "And yours?" four lines apart, both stock lines at their caps. **The gate's gesture numbers:** object handling 1 (the cup); the jaw class 1 (the dun's jaw, cupped); every other class 0. |
+| **Prose & Voice** | 8.0 | **8.5** | +0.5 | **Earned on 51 cited changes:** the narrator's delivery frame gone (l.33 "It was book Latin, slow, with the verb held back for the end"; l.35 "Mine came out stiff."; l.535; l.583); no SPENT filler; no ambience beat from Ch.15; no CLOSED sibling; no sample string. **Stopping sentences intact:** "Someone had cut his teeth on it." (l.231); "Toward the second corner they grew a fraction longer, and then, at the very end, small again." (l.259). **Underlines intact:** "her face was wet and perfectly composed"; "Which was true."; "Behind him the street might have been a wall."; "Felix, who could, was sick into the sea for the lot of them."; "one night's burning laid over years of others". **Ugly sentence intact** (l.153). **Voice under pressure intact** (the night at sea, the curtain). | **Not 9.0:** the five sideways doubles (F2–F6); "could not stop" in Ch.15's words (F6); and cycle 0's slow patches, which are prose-adjacent. The +0.5 cap would also bind. |
+| Pacing | 8.5 | **8.5** | 0 | Every hard field of the ledger row is still hit: Parallel; `dialogue` → `question`; 6 breaks; dialogue 45.7% (40–50); median 14 (mid); 7,203 against 7,600. One Devourer slow spot is lighter: the second charcoal morning lost its 33-word period about the proconsul's wife (C2). | **Not 9.0:** C1's record-office politics (l.57–77) and C4's boards, cord and seals (l.535–551) are unchanged by design. They are load-bearing for Ch.17. |
+| Emotion | 9.0 | **9.0** | 0 | The anchor is byte-identical: "You admired it." / "The smoke has got into my eyes." / the curtain / Myrrhine's drachma / the marks / "On the left." The surprise is the jealousy turning to friendship over the broken bed and Plautia's laugh (l.373–375). The body rebel: the blush, Plautia's tears, her laugh, Felix at the rail. | Not 9.5: Mara's own feeling at Kallia's farewell is withheld. That is the design, and it costs fast readers the goodbye. |
+| Immersion (Dim 7) | 9.0 | **9.0** | 0 | All three cycle-0 fact slips are fixed: the light source (l.267 "its shutter ajar"), the three years (l.185), and the cold fullers' vat (gone). The period bones are intact: the proconsul's office on the long colonnade; the actio rei uxoriae; the magistrate's sealed boards on a cord; Gaius Iulius Valens; Lechaion's moles; the brailed sail; mastic. | **Held at 9.0, not raised:** the cuts also removed some period texture (the steaming vat, the proconsul's wife's remedies, the lupin skins under the stool). Clearing the slips restores 9.0; it does not lift it. |
+| **FLOOR** | 8.0 | **8.5** | | Prose & Voice, Pacing | |
+| **AVERAGE** | 8.71 | **8.86** | | (9.0 + 9.0 + 9.0 + 8.5 + 8.5 + 9.0 + 9.0) / 7 = 62.0 / 7 | |
+
+**Per-cycle rule:** no dimension moves more than +0.5. Characters and Prose each move +0.5, on 13 and 51 cited changes respectively.
+
+## Anti-AI Scan (cycle 1; 7.20k; commercial band)
+- #1 forced symmetry: **minor**, 3 (0.42/1k): the ears / temper pair, "He'd want in." / "He'd stay in." (designed), "held his look, and he held hers". **−0.125**.
+- #3 rule of three: **minor**, 2 automatic (0.28/1k). **−0.125**.
+- #8 parallelism: **moderate**, 5 (0.69/1k): the oven / door pair, "until he had looked, and until he had moved", the look pair, "This is the suit. The suit is…", Plautia's repeat-back of Myrrhine's list (witty). **−0.25**.
+- #9 smooth transitions: minor (the Parallel's time stamps). **−0.125**.
+- #11 explanatory extension: **minor, 3 firm (0.42/1k)**:
+  - "She had caught the cloak and the cook, and no more.";
+  - "where she could not go over again without going over onto him";
+  - the bow (l.573).
+  - The cap (commercial >6 or >0.8/1k) **PASSES**. **−0.125**.
+- #15 authoritative description: minor (the record office's two doors). **−0.125**.
+- #16 philosophical asides: minor, 2, both in Plautia's mouth and in character. **−0.125**.
+- #17 clean dialogue: minor (C2's run from l.171 to l.201). **−0.125**.
+- Clear: #2, #4 (em-dash 3, all cut-off speech), #5, #6 (narration 0; speech-paragraph "And" openers 3), #7, #10, #12, #13, #14, #18, #19, #20.
+- **8/20, −1.125, clean band** (cycle 0: 8/20, −1.625). The finalize set leaves this unchanged.
+
+## The book's own laws (cycle 1 page; the finalize copy agrees)
+- **NO FORESHADOWING: PASS.** The gate reads 0. By hand: "I never saw" is gone; "never again", "last time", "years since", "even now", "I still" and "would learn" are each 0. AD 79 / "seventy-nine" is 0. "Pompeii" is 0.
+- **AUTHOR-CP3-5: PASS.** "At the games for Titus's triumph," Plautia said (l.473) is byte-identical. "Isthmia" and "Isthmian" are 0. The festival is "the games" and "the god's precinct on the Isthmus", and the race is "the boys' race" (l.513 now reads "after the boys' race").
+- **AUTHOR-CP3-3: PASS.** "pregnan", "with child", "my month" and "my blood" are each 0. "most nights since July" and "Every night, lying beside him" do not count the months. The nursing bracelet is never linked to a child of Mara's.
+- **AUTHOR-END-1: PASS.** None of Ch.15's door or camera lines is quoted, near-quoted or recalled: "wait outside", "keeps what it shows", "bring it out", "see it open", "believe it", "know the door", "go in by it" and "everything is kept" are each 0. The lamp frame is shot, not described as kept. The camera is not explained to Kallia.
+- **Kallia's farewell: PASS.** No speech in D2; no wool; no stopped work; no "had gone quiet"; she never sits, never touches Mara and hands her nothing. The broom's position is not described ("Two strokes more along the sill.").
+- **Memory triggered by the scene: PASS.** One clause (the drugstore bands, Gloria's Ray), triggered by the dun's head in her arms, returning at once ("The dun groaned again.").
+- **Paragraph-final negations: 7 (0.97/1k)** ✓ (from 9).
+- **Command echoes: 0.** "Shut your eyes" now has no shown compliance.
+- **No comparisons in Valens's speech: PASS** (the new lines "She's done it before." and "I went for barley. … The baker's not." included).
+- **NO TICS:** verbal catchphrases 0; gate classes clean; one forming opener (Felix, above) → F1.
+- **Retired reflexes:** no define-by-negation opener; no performed candour; no button; no closing aphorism; and-chains 5/9; "as if / as though" 1 (Plautia's laugh); semicolons 18 (2.5/1k).
+
+## Character Chaos (Mara): unchanged, 4/4
+- **Irrelevant thought:** the seasickness bands (l.401); the bronze "worn bright at the bend" (l.51).
+- **Cognitive distortion:** the cakes loop (l.21).
+- **Unprompted, triggered memory:** the bands.
+- **Failed management:** the blush, which Plautia watches; "Lady, I only—"; the lie caught.
+- **Voice under pressure:** demonstrated.
+
+Every secondary character still has an independent moment, so there is no cap.
+
+## The Tomorrow Test
+**What the reader remembers:**
+- the gold band with a baby's tooth marks near its clasp;
+- "Someone had cut his teeth on it.";
+- the weeping behind the red curtain while the maid offers a drachma;
+- Kallia's lamp left burning on the sill all night, then pinched out with wet fingers.
+
+**Anchor type:** BOTH. **ANCHOR EXISTS (strong, +0.5 CVI).** Every anchor line is byte-identical to cycle 0 (12 of 12 checked by script).
+
+**Shareability:** unchanged ("the woman he was supposedly sleeping with is a mother who gives everything away; she gives Mara her bracelet, goes next door and cries, and the marks on it are her baby's first teeth").
+
+## Reader Reports (cycle 1)
+### The Devourer
+- **What has lightened:**
+  - the second charcoal morning is one line now ("Were you afraid of him, at the beginning?" she said on the second.);
+  - the porch arrival no longer re-explains the porter;
+  - the night at sea runs cleaner without Felix lying down again.
+- **Still slow:** C1's archive politics and C4's seals.
+- **Would they stop?** No. **Last page:** the question is real, and the games are next. They turn.
+
+### The Critic
+- **Underlines:** all of cycle 0's, intact.
+- **What no longer disappoints:** the herald's frame, Kallia's borrowed line, the weather in a pause, last chapter's summit and dog.
+- **New disappointments, all small:**
+  - "She carried the broom back" four words after "carrying the broom";
+  - "a bed fell in under us … it broke under us";
+  - "He could not stop.", the laugh in Ch.15's words.
+- All three are cleared by F2 and F6.
+
+### The Hostile
+- **The cycle-0 complaints are answered:** the pronoun, the light, the years, the vat, "I never saw".
+- **One new question:** "The sheet was to come from Euthydikos's people" (l.141) reads as if the priest's household would supply the papyrus. The page means his fee would buy it, against Kallia's obol. It is readable, and less clear than the line it replaced.
+  - **No change:** every clearer wording I tried trips a gate or the cycle-0 "Do not use" list ("I meant to buy the sheet", "to buy the sheet").
+  - Logged so that Ch.17 or Ch.18 never re-explains the obol.
+
+### The Casual Reader (airport, 10 pages)
+- **Unchanged:** "Have you seen his back?" and the blush hook them.
+- **They cry** at the bracelet and the curtain.
+- **They laugh while crying** at the maid's drachma.
+- **Frictions:** the proconsul and the freedmen; the cord and the seals.
+- **Would they buy after 3 pages?** Yes. **Do they stay?** Yes. **9.0/10.**
+- **Not 9.5:** the same two frictions, and a goodbye to Kallia that a fast reader may not register.
+
+### The Devoted Reader
+- **Will post about:** the same items as in cycle 0.
+- **Will catch on this page:** Felix's third "What's that?" and the bed laugh in Ch.15's words.
+- **After finalize:** nothing.
+
+## Cross-Reader Matrix (cycle 1)
+| Issue | Devourer | Critic | Hostile | Casual | Devoted | Severity |
+|---|---|---|---|---|---|---|
+| F2–F6 sideways doubles made by the swaps | | ✓ | | | | INVESTIGATE → **fix** (cheap, tested) |
+| F6 "could not stop" (Ch.15 l.548, sample-09) | | ✓ | | | ✓ | SHOULD FIX → **fix** (no reuse) |
+| F1 Felix's "What's that?" opener (third time in his mouth) | | ✓ | | | ✓ | SHOULD FIX → **fix** (tic budget 0) |
+| F7, F8 pre-existing doubles ("the flat land" ×2; "some time" ×2) | | ✓ | | | | INVESTIGATE → **fix** (cheap) |
+| The sheet line's clarity (l.141) | | | ✓ | | | INVESTIGATE → **no change** (no gate-clean alternative) |
+| C1 politics / C4 seals | ✓ | | | ✓ | | SHOULD FIX → **no change** (load-bearing for Ch.17) |
+
+## Pacing check (one line for `feedback/progress.md`)
+**Ch.16 (cycle 1 + finalize):** Parallel *two places, two farewells* · **7,175 words** (shape_check; target 7,600, −5.6%, not padded; ≥7,100 ✓) · dialogue **45.7% / 46** (40–50 ✓) · **median 14** (mid ✓) · 6 breaks ✓ · `dialogue` → `question` ✓.
+- **Neighbours:** Ch.15 7,479w high gear (16), 35% → **Ch.16 7,175w mid (14), 46%** → Ch.17 7,400 planned, low gear, 30–40%. The three long chapters still differ in gear and dialogue share; Ch.18 (2,800) breaks the run.
+- **Book:** 89,779 words against about 96,400 cumulative target (−6.9%). Projected about 242k against the 220k floor ✓ and the 245k target (slightly under: watch, never pad).
+- **Emotional slot ✓:** the first "yearning without sex" chapter after the heat chapter.
+- **Value shift ✓:** jealous (−) → bracelet (+) → friendship (+) → plan (+) → doubt (−); Delphi: leaving (−) → mended (+).
+- **Pull ✓:** a real question, unanswered.
+- **Verdict: OK.**
+
+## CVI
+- **CVI-Launch 9.7,** unchanged: Commercial Pacing 8, Tomorrow 10, Casual 9, Shareability 9.2, Pitch 10, Closeness 10 → 9.24 + 0.5. No fix touches an anchor.
+- **CVI-Legacy 6.9** (provisional; default weights), unchanged.
+
+## Finalize fixes (F1–F8), tested together
+**Script:** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/re16/ch16-finalize.py` (run from /home/user/Books):
+```
+python3 /tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/re16/ch16-finalize.py \
+  books/the-hour-of-ash/manuscript/chapters/chapter-16.md \
+  books/the-hour-of-ash/manuscript/chapters/chapter-16.md
+```
+- **Base:** the cycle-1 page (sha256 `3fc626eb…`). The script asserts exactly one match per string and aborts without writing on any miss.
+- **Harness:** `re16/ch16-reeval-swaprun.sh` in the same scratchpad. It swaps the fixed copy in, runs the command from /home/user/Books, and **always restores the cycle-1 page from `re16/ch16-cycle1.md`**. Do not use cycle 0's `ch16-eval-swaprun.sh`: it restores the *pre-polish* original and would undo all 51 swaps.
+- **Restore verified:** after every run the manuscript checksum printed `3fc626eb…`. I did not edit the manuscript.
+
+| # | Location | Problem type | Now (cycle 1) | Why it fails | Replace with (exact) | Project rule? |
+|---|---|---|---|---|---|---|
+| F1 | l.415 | Voice (forming opener; `--echoes` hit) | `"What's that?" Felix had raised himself on an elbow on the coil of rope he slept on. "What is it? Where's the flame?` | Felix's "What's that…?" at Mara's object: Ch.11, Ch.12 and here (5 book-wide); "What is it?" is the echo-scan line (Ch.1, Ch.7). | `Felix had raised himself on an elbow on the coil of rope he slept on. "Where's the flame?` | Yes: "What's that?" CLOSED at 4 |
+| F2 | l.263 | Style (double made by R14b) | `She carried the broom back to the lean-to and hung it from its nail beside the fire, and went to the jar for water.` | It comes four sentences after "She came out carrying the broom." | `She hung the broom back on its nail beside the fire, and went to the jar for water.` | No |
+| F3 | l.407 | Style (double made by L3) | `off a dark coast, rolling` | "in the dark" is in the same paragraph; dark ×4 in D3. | `off an unlit coast, rolling` | No |
+| F4 | l.413 | Style (double made by R28) | `In the light her eye rolled white,` | It is the fourth roll-word in D3. | `In the light her eye showed white,` | No |
+| F5 | l.427–429 | Style (double made by R13) | `"Shut your eyes," said Valens.` / `Valens stayed by the black, and presently he spoke across her.` | The name twice running across a break. ("He stayed by the black" was tried first: it made the 3-gram "said valens he", Ch.11 l.444.) | `"Shut your eyes," said Valens.` / `Presently, from beside the black, he spoke across her.` | No |
+| F6 | l.373 | Style (double made by R12) + reuse | `It was the herdsman's own bed, and it broke under us, and we went to the floor with the fleeces on top of us. He laughed then. He could not stop."` | "under us" twice in two sentences; "went to the floor" again at l.513; "could not stop" is Ch.15 l.548's verb phrase for this same laugh (and sample-09's laugh frame). | `It was the herdsman's own bed, and it put us on the floor with the fleeces on top of us. He laughed then."` | Yes: a retold scene is grepped against its source chapter *including stop-word frames* (cycle 0's R12 checked content words only) |
+| F7 | l.441 | Style (pre-existing double) | `rising from the flat land behind the town, the great rock` | "the flat land" again at l.459, which keeps it. | `rising behind the town, the great rock` | No |
+| F8 | l.455 | Character (duration pause) + double | `Felix stared that way for some time.` | "after some time" at the curtain (l.215); a duration pause the gate cannot classify. | `Felix stared that way.` | No |
+
+**Gate-tested and rejected:**
+- "He stayed by the black": echo with Ch.11, "said valens he".
+- "all at once": a third use book-wide (Ch.4, Ch.5).
+- "back to the lean-to": an in-paragraph double.
+
+**What the tested run produced** (all 8 together; finalize copy sha256 `63a1dac0…`, md5 `ed750988…`):
+
+| Measure | Cycle 1 | **After F1–F8** |
+|---|---|---|
+| Words (shape_check / style / `wc -w`) | 7,203 / 7,210 / 7,858 | **7,175** / 7,181 / 7,830 (≥ 7,100 ✓) |
+| Dialogue (show/tell / shape) | 45.7% / 46 | **45.7% / 46** ✓ |
+| Median (shape / metaphor) | 14 / 14 | **14 / 15** ✓ |
+| Breaks / signatures | 6 / `dialogue` → `question` | unchanged |
+| `bash books/the-hour-of-ash/tools/check_chapter.sh 16` | clean | **all clean**: style (simile 1.0/1k, em-dash 3, foreshadow 0); grammar 0 errors; rhythm 0; show/tell no flags; voice-wear strict clean; tic gate clean (and-chains 5/9, credential asides 1, negation pivots 0); **echo 0**; command echo none; metaphor 1.4 fig/1k; shape CLEAN |
+| `tic_report.py --echoes 16` spoken-line layer | "what is it" (Ch.1, Ch.7) | **none** |
+| `shape_check --strict` | CLEAN | **CLEAN** (`16 7175 6 46 14 dialogue question`) |
+| Gesture classes (Ch.16) | object handling 1, jaw 1 (the dun's) | **unchanged**; book-wide counts identical |
+| Paragraph-final negations | 7 (0.97/1k) | 7 (0.97/1k) |
+| #11 firm | 3 (0.42/1k) | 3 |
+| First line, closing question, the triumph-games line, every anchor line | | **byte-identical** (12/12 by script) |
+
+After applying the script, update the chapter's word-count header comment. Lines 3–8 still describe the Writer's draft, and the SCENE BUDGET still quotes the retired line "She does that.".
+
+## Character-bible Ch.16 re-syncs (PASS → do these at finalize)
+Each item gives the bible line, the stale text, and **→** the final-page text (after F1–F8). Every quote below was checked by script against the finalize copy. These cover the dialogue-polish, disruptor, continuity-repair, polish-cycle-1 and finalize passes, because **every Ch.16 block in the bible still quotes the Writer's draft**.
+
+**VALENS card, "Ch.16 as written" (l.862–889).** Retitle the block "SYNCED to the FINAL page".
+1. l.866 "You said the Gaius as though somebody might take it back." → "You said the Gaius quickly, in case somebody should take it back."
+2. l.871–872 "In C4 he stands inside the door with his back to the wall by the jamb and will not sit ("Twice she had asked him to sit, and twice he had said that he would stand.")" → "In C4 he stands just inside the door and has not sat in that room ("There is a stool, Valens," … "I'm well here.", twice)". **Back to the wall in Ch.16: 0** (the porch beat is "stood aside against the house wall"). Book-wide WATCH: 2 (Ch.13 and the Ch.16 porch).
+3. l.873 "She does that. Give it to her woman tomorrow…" → "She's done it before. Give it to her woman tomorrow, early, and say nothing to her about it. She'll be sorry by dark."
+4. l.874–877: "Near the forum." stays; the office's two doors stay. Add the new evasion line: "I went for barley. The porter on the colonnade is the proconsul's. The baker's not."
+5. l.879 "Go to sleep," → "Shut your eyes,". Add: voice tagged "low" **once** (l.407 "Valens's voice in the dark, low."); the second tag was cut.
+6. l.886 Spent: "She does that." → "She's done it before."; add "Shut your eyes,", "The light.", and "There's only the one.".
+
+**KALLIA card, "Ch.16 as written" (l.1201–1226).**
+
+7. l.1209 "then, for the last hand's breadth, small again." → "then, at the very end, small again."
+8. l.1216 "Two strokes more along the sill, jamb to jamb." → "Two strokes more along the sill."
+9. l.1216–1217 "She took the broom back to the lean-to and hung it from its nail beside the fire, and went to the jar for water, and did not go near the stair." → "She hung the broom back on its nail beside the fire, and went to the jar for water." (F2). Add: "the court grew light"; the window in the finder "a square of dark, its shutter ajar".
+10. l.1219 "She looked at the thing at my face, and then past it, at her lamp, with the look she gave a jar…" → "She looked at her lamp, with the look she gave a jar when a lodger had been standing too near it."
+11. l.1219 "wet her fingertips at her mouth, and pinched the flame out." → "She crossed to the sill, wet her fingertips at her mouth, pinched the flame out, and turned to her pot."
+12. Add to D1: the gallery cough is **once** ("Overhead somebody coughed in his sleep, with long gaps between, an old man's cough."). The lodger's cloak on the rail is not on the page.
+
+**PLAUTIA card, "Ch.16 as written" (l.1485–1531).**
+
+13. l.1503 "my son's father has been kind to each of them all this winter" → "he has been kind to those freedmen all winter" (and "My son's father is among the proconsul's people again this year").
+14. l.1512 "Plautia opens it "along a seam as fine as a hair"" → "until a line showed in the gold, a seam as fine as a hair; she opened it along the seam".
+15. l.1518 "a sound broke from her, short, surprised" → "A sound broke from Plautia, short, surprised; … and it broke from her again, and that time she let it." The pause cluster is gone: no "quite still", no "said at last", no "quiet for a little".
+16. l.1521 the blunt-question list:
+    - "And after the hour?" → "When the hour was out?"
+    - "Does he laugh? Your husband." now runs inside one speech after "I watched him at the well."
+    - "Were you afraid of him, at the beginning?" now stands with no period before it.
+    - The proconsul's-wife period is **off the page**.
+17. l.1525 "Then you are the first," → "That would make you the first,". Add: "Everybody who climbs that stair wants something of mine." is now inside the "What he had chosen" speech (one speech, one tag).
+18. **The triumph-games line (AUTHOR-CP3-5): add it verbatim to the record-office bullet.** C4 opens: "At the games for Titus's triumph," Plautia said, "the proconsul goes out to the god's precinct on the Isthmus with his whole staff…". Add the rule: the 72 festival is "the games", "the god's precinct on the Isthmus" or "the boys' race", **never "the Isthmia" or "the Isthmian Games"** (Ch.16 page: 0). Also add "And when he rides in from the Isthmus after the boys' race, with the dust on him".
+19. Add to the rules line: **her syntax fingerprint never runs the same skeleton twice running, and the narrator never names it** (cycle 0, C2/C3). Pause beats: ≤1 per scene. **"And you?" is at 4 chapters book-wide (cap reached) and "And yours?" at 2 (no third).**
+20. Add to the spent list: "So I tell myself."; "That would make you the first,"; "Your boy has a mule's manners and two good hands."; "You cannot have the book, Valens."; "It was book Latin, slow, with the verb held back for the end"; the merged want-speech.
+
+**MYRRHINE card (l.2883–2908).**
+
+21. l.2886 "Follows Latin only "that much"." → 'follows Latin when it is slow ("She had caught the cloak and the cook, and no more.", once)'. "She had followed that much." is cut.
+22. l.2893 "splits one "with great force" when overruled" → "split her next lupin so hard that half of it shot under the chest". The "coals" double is gone.
+23. l.2893–2894: lupins on the final page **in two scenes only**: C1 (shelling into her skirt; the skins shaken onto the coals) and C4 (the split lupin). None in C2 ("returned to her stool and watched the curtain") or C3.
+24. l.2899 "off a fuller's wife at the Saturnalia" → "off a rope-maker's wife at the Saturnalia" ("fuller's wife" belongs to Plautia's nursing line alone).
+25. l.2903–2905: add lines "He looks at it every time the chest is open," / "She knows her shoes are on her feet." / "She'll stand on your hem." (on the page). Spent: the buy-back offer, the flask-and-litter objection, "She knows her shoes are on her feet.". **Ch.17 rule:** no price figure in her mouth, and no lupins.
+
+**Ch.16 walk-ons and mention-only names (l.2372–2394).**
+
+26. l.2374 porter "a porter on a stool in his porch and a dog on a chain" and l.2375 "a man with a stool and a tablet, who might have put it in writing and did not" → **neither is on the page**. The porter is introduced by his line only ("What name shall I take in to the master?" / "And her?" / "Round by the lane for the stable, and there are rooms over it,"). The porch reads "In the brother's porch a dog on a chain rose and announced us to everyone in the lane."
+27. l.2378 the brother's dog "barks once at the end" → **cut** (R5). It does not bark at the close.
+28. l.2386 the old man "coughed and shifted under his blanket" at dawn → **cut** (R8). He coughs once, in D1.
+29. l.2388:
+    - the proconsul "received him with great kindness" → "received him with every kindness";
+    - **the proconsul's wife ("cough") is off the page**;
+    - "the gray-haired one, who does not" → "the gray-haired one";
+    - the mosaic man "who laid his little stones drunk" → "a man laying a floor in the dining room below us, whom this house pays by the day" ("a floor laid drunk takes twice as many days");
+    - "a fuller's wife" (Myrrhine's buy-back) → "a rope-maker's wife".
+30. l.2393 Gloria's Ray and the drugstore "triggered by Felix's seasickness" → "triggered by the seasick dun's head in her arms" (l.401). Add: "The fuller's boy and his steaming vat: cut (SPENT passing traffic; fullers' tubs were cold)".
+
+**MARA card and FELIX card: no Ch.16 block exists in either. Add one to each.**
+
+31. **MARA, Ch.16:**
+    - no English;
+    - Latin with Plautia ("Mine came out stiff.");
+    - credential asides 1 (the bracelet trays);
+    - chaos 4/4 (the cakes loop; the bands; the blush Plautia watches; "Lady, I only—");
+    - her lines: "I have known you a morning. There is nothing of yours I want."; "I have your obol still," … "The sheet was to come from Euthydikos's people, and then it was the mountain."; "In the summer a bed fell in under us," … "It was the herdsman's own bed, and it put us on the floor with the fleeces on top of us. He laughed then."; "Not much." (to "How much is left in it?"); "You asked for it.";
+    - **bare "No." 1** (l.39).
+32. **FELIX, Ch.16:**
+    - "When's the next? Every week? Does she know it's me eating them?";
+    - the bite test, "Hand it over, I'll show you.";
+    - "How heavy is it?" … "Can you feel it there when you lift your arm?";
+    - the amphitheater speech;
+    - "Will you show me where you stood? Not in it. Only the gate.";
+    - sick into the sea; "Why don't they spew?…"; "Every bit?";
+    - **he has now seen the flashlight**: "Where's the flame? Why doesn't it smoke? Is it hers? Can I hold it?" / "What's it burning?" / "Does it go back on?";
+    - the citadel questions; "I'd sooner not look at it";
+    - the shout about the dun in the cabbages.
+    - **Bleed-guard note:** his "What's that?" opener at Mara's objects is CLOSED (Ch.11 variant, Ch.12; cut from Ch.16 by F1).
+
+**ARISTON card.**
+
+33. Add a Ch.16 status line. The reply is **written** in Corinth, "in Plautia's room four mornings after that first one, on a sheet of papyrus from a stall at the top of the Lechaion road". Its content is told, never quoted ("the news of her lane", "Not a word." of herself). It has not yet been sent ("find somebody going to Syria"; Kallia: "Pay him when he's aboard," … "Not before."). The l.3450 OPEN THREAD (Ch.10 at-risk) → **written, not yet sent**.
+
+**MARCUS card.**
+
+34. Add "Ch.16 (mention only, in Plautia's mouth)":
+    - "My son was seven at the vintage.";
+    - named "Marcus. For his father's father";
+    - his father's ears, her mother's temper, the Muses, not the Graces;
+    - the ball taken in at the gate;
+    - the tooth marks on the bracelet;
+    - at the games "in the second row, in a new tunic, beside his father".
+
+**"At-risk after Ch.16" block (l.4011–4048).** Retitle it "SYNCED to the FINAL page (polish cycle 1 + F1–F8)".
+
+35. l.4026–4028 the flashlight line "Not much. Some." → "Not much.".
+36. l.4033 "each ending sounded to its last letter" (Mara's spoken Latin) → **cut**; the page has "Mine came out stiff.". l.4035 "She went a whole winter without my name." → "She had me most of an autumn before she wanted my name.".
+37. Replace "Counts on the draft" (l.4044–4048) with the final counts:
+    - Length and shape: **7,175 words** (shape_check), 7,181 (style), 7,830 (`wc -w`); dialogue 45.7% (shape 46); median 14 (shape) / 15 (metaphor); 6 breaks; `dialogue` → `question`.
+    - Punctuation: em-dashes 3 (all cut-off speech); semicolons 18 (2.5/1k).
+    - Reflex counts: and-chains 5; credential asides 1; negation pivots 0; hinge 0; "So" 0; "before I had" 0.
+    - Gestures: object handling 1; jaw 1 (the dun's); every other class 0.
+    - Speech habits: bare "No." Valens 1, Mara 1; narrated non-answers 0; command echo 0; "low" for Valens 1.
+    - Other: "as if / as though" 1; "the way" 0; para-final negations 7 (0.97/1k); #11 3 firm (0.42/1k); memories 1 clause; AD 79 0; English 0; laughs: Plautia 1 (breaking twice), Mara 0; echoes 0; spoken-line echoes 0; anti-AI 8/20 (−1.125).
+38. **New SPENT / CLOSED entries** (cycle 0's list, confirmed on the final page, plus this cycle's):
+    - **the delivery frame**: CLOSED (Ch.5, Ch.6): a speaker's words set or laid down singly; endings given weight or sounded to the last letter;
+    - **"[verb] quite still"**: CLOSED at 2 (Ch.5, Ch.15);
+    - **a dog barking once into a silence**: SPENT (Ch.15);
+    - **first sun on any peak at dawn**: SPENT (Ch.15);
+    - **dawn light inventoried in sequence**: SPENT (Ch.15);
+    - **"a lodger's [garment] on the rail above"**: CLOSED (Ch.10);
+    - **"kept [poss] (eyes|face|gaze)"**: inside the CLOSED gaze-hold;
+    - **a narration sentence of weather or motion wedged between two quotes of one speaker**: SPENT (0 more);
+    - **Valens's back to the wall**: WATCH at 2 book-wide;
+    - **"And you?"**: 4 chapters, cap reached; **"And yours?"**: 2, no third;
+    - **"What's that?" as a reaction to Mara's object**: CLOSED at 4 (Ch.5, 11, 12, 13);
+    - **"could not stop" for a laugh**: SPENT (Ch.15; sample-09's frame);
+    - **"My wife," to a gatekeeper**: used (Ch.16); never a third time;
+    - **Parallel chapters (Ch.22, 35, 38)**: the narration never pre-describes an image the other strand will dramatize;
+    - **Plautia in Ch.17/22**: no skeleton twice running, the narrator never names it, ≤1 pause beat per scene;
+    - **Myrrhine in Ch.17**: no price, no lupins;
+    - **the 72 festival never "the Isthmia" / "the Isthmian Games"** (CP3-5).
+    - **Spent in these words this cycle:** "She's done it before."; "Shut your eyes,"; "Hand it over, I'll show you."; "Can you feel it there when you lift your arm?"; "Every bit?"; "In the small hours"; "an unlit coast"; "her eye showed white"; "The court grew light"; "a square of dark, its shutter ajar"; "it put us on the floor"; "started for the stables"; "among my letters"; "a rope-maker's wife".
+39. **SCENE BUDGET header of chapter-16.md** (l.3) still quotes "She does that."; refresh lines 3–8 with the final counts (item 37).
+
+**Bookkeeping outside the bible (for the orchestrator):**
+- **voice-dna.md l.352** still proposes "isthmian games" as a tic-gate WORLD_TERM. CP3-5 forbids the name for the AD 72 festival, and a world-term exemption would hide a slip from the gate. Strike it from the list. The tool does not carry it today.
+- **ENTITY:** Felix has seen the flashlight; its batteries are near the end ("Don't spend it on mules."). The suit is "two years from this spring". Valens's post at the games (the baker's oven / the back door / the horse fair) is unresolved, and Ch.17 decides it on the page.
+
+## VERDICT
+**PASS** (cycle 1; finalize F1–F8 to apply, tested).
+
+| Measure | Result |
+|---|---|
+| Genesis Floor | **8.5** (Prose & Voice 8.5, Pacing 8.5) |
+| Average | **8.86** |
+| Casual | **9.0** |
+| Pacing | **OK** |
+| Scores | Originality 9.0 · Theme 9.0 · Characters 9.0 (+0.5) · Prose 8.5 (+0.5) · Pacing 8.5 · Emotion 9.0 · Immersion 9.0 |
+| CVI-Launch / CVI-Legacy | 9.7 / 6.9 (provisional) |
+| Mechanical suite | clean on the cycle-1 page and on the finalize copy (echo 0; spoken-line echoes none after F1) |
+| Swaps introduced nothing new? | No added explanation ✓; no new triad ✓; no echo ✓; **5 repeats moved sideways → F2–F6** |
+| "what is it" | stock alone, but fused to Felix's third "What's that?" → cut both (F1) |
+| CP3-3 / CP3-5 / END-1 / foreshadowing | ✓ / ✓ / ✓ / 0 |
+| Words after finalize | **7,175** (≥ 7,100 ✓) |
+| Anti-AI | 8/20, −1.125 (clean band) |
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+- **Characters 9.0 rests on a judgment.** I did not count Felix's "What's that?" as a tic cap, because his exact whole line has occurred twice, not three times, and it does not distinguish him. A stricter reader would cap Characters at 7.5 on the cycle-1 page and pass the chapter only after F1. F1 is in the tested finalize set either way.
+- **Prose 8.5 is the most the per-cycle rule allows.** The five sideways doubles are word-level and are cleared by the finalize set. A reader who weighs "the polish moved repeats again" more heavily would hold Prose at 8.0 until F2–F6 are on the page. The finalize set does that.
+- **Immersion was deliberately not raised** although its three named slips are fixed, because the same cuts removed some period texture.
