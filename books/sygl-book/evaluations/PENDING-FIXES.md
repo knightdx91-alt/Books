@@ -55,3 +55,5 @@ tic_report --gate and voice_wear_check (strict) all clean. **Word count after: 8
 
 ## Author decisions (2026-10-21, one by one)
 1. Ch.13 bookshop line: **B** — restore the script wording "I'm not like anyone else you've known."
+2. Ch.14: "Her eyes had gone bright behind her glasses. Nothing spilled." -> "Her eyes had gone bright with unshed tears behind her glasses." (author's own wording; "Nothing spilled" dropped; REPLACES pending fix 14.112). Ch.15: take Muse's fix 15.081 as pending ("Going by the teachers' faces, the school would make it a rule.").
+3. Ch.22 Xavier: **A** — "Rooms will be waiting for you at the Winespring Inn," he added. "Lady Amelia will write ahead to arrange them."
