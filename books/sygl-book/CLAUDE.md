@@ -56,6 +56,7 @@ books/sygl-book/
 - **Dialogue:** Author's dialogue is the BASE, not sacred text (author, 2026-10-20: "my dialogue might not be exactly right"). Keep what each line says, who says it, and where it falls, plus the memorable lines (e.g. "They have made me a myth?!", "Because it's magic", the binding vows, "No one threatens my girls"). Freely fix grammar, stiff or awkward phrasing, and anything that doesn't sound natural spoken aloud. Do not change meaning, add information, or give a line to someone else.
 - **Master** stays rare (source uses only). **Blood whip from the RIGHT palm, which splits open on its own (no knife) and closes when the blood returns.** No two characters share a
   gesture (hand/sleeve pull = Viridia; hair behind the ear = Lora). Fix the source's small slips silently.
+- **Blood dagger** forms from whichever hand is free (palm opens on its own). **Runes:** only protective ones (arrow runes) need charging; purification works when carved.
 - **Spell repetition watch:** the source has few blood spells (the whip above all). Never invent spells;
   when one spell starts carrying too much of the action, FLAG it to the author to discuss. Ledger:
   `project/foundation.md` → Magic ledger.
