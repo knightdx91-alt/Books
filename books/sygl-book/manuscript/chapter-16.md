@@ -37,7 +37,7 @@ Zoran said nothing for so long that Bal began composing a second, better way of 
 
 "Bring them back clean," Zoran said.
 
-Bal went to the last rack and took down the rapier he had trained with since the first day. It came with a plain leather scabbard and a belt, and the belt needed a new hole punched in it before it would stay on him. Viridia took down the long spear she always used, and carried it back to the castle on her shoulder.
+Bal went to the last rack and took down the rapier he had trained with since his first class. It came with a plain leather scabbard and a belt, and the belt needed a new hole punched in it before it would stay on him. Viridia took down the long spear she always used, and carried it back to the castle on her shoulder.
 
 ---
 
