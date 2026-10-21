@@ -2,6 +2,7 @@
 
 #### *Puteoli · spring, AD 72*
 
+<!-- Continuity repair 2026-10-21 (evaluations/continuity/chapter-19-audit.md W-01..W-14; W-15 deferred to the bible sync): comprehension claim cut | calm stated once, Puteoli left by mid-afternoon | the Locrians at the narrows | three tomb roads | Grata heard, not saw | bar leaning beside the door | fig on the stones at Felix's feet | noseband from the strip the nephew missed | "sat in my head" cut | Grata's horizon "till one of them gives in" | "ten years" 7 -> 3 on the page | the daughter named once (Pacuvia, at l.12; first paragraph kept) | Felix bursts 3+ cut from 7 to 3 (two boasts, two statements) | Grata's first contact a pinch of the sleeve | first/last paragraphs, breaks, dateline, mountain lines, camera, tomb door, microcassette unchanged | seam/niche/painted plaster/hand flat 0 -->
 <!-- Dialogue-polish 2026-10-21: 8,653 words (shape_check; style 8,674; show_tell 8,675) | Dialogue 23.5% show_tell (shape 24; was 21) | Median 18 (gear high, held) | Em-dash 0 | Spoken mountain lines 1 ("Fine mountain for vines"; the frost/ownership tail cut) | "whose" questions 0 (was 2) | Bare "No." Valens 0 | Valens comparisons 0, general-truth sayings 0 | Felix "Is it"/"Is that" openers 0 (was 1) | Mara loses fast speech 3x (Grata x2, the rose woman), follows slow speech 2x (the mother-in-law's question, the Neapolis balcony) | Echoes 0 | Command echoes 0 | Spoken-line echoes 0 | check_chapter.sh 19 clean | notes: evaluations/dialogue-chapter-19.md -->
 <!-- Disruptor 2026-10-21: 8,474 words (shape_check) | Dialogue 24.0% show_tell (shape 24) | Median 18 | 4 breaks | ~25 edits, all subtractive or swaps; first/last paragraphs, breaks, dateline, camera beat, door beat (5 paragraphs), microcassette touch byte-identical | "I agreed with him," (hook-craft fix) | l.15 antecedent fixed | Mara loses fast speech 3x -> 2x | item-by-item look 0 | wiped hand 0 | narrator pointers 0 | Repair catalogue thinned (lime pit, crane gloss, pipe-making cut) | Valens deliberation pause 1 -> 0 | Gesture classes: none added (look-down 2 -> 1) | check_chapter.sh 19 clean | notes: evaluations/disruption-chapter-19.md -->
 <!-- SCENE BUDGET (Target 8,400; range 7,900-8,900; Chronological walk, harbor -> coast road with a night near Neapolis -> Pompeii -> the tomb roads, over the first days; 4 breaks / 5 sections; gear high; dialogue 20-30%): S1 the crossing in a paragraph of days (married eleven nights on a deck); the girl's sprung brooch; the bay opening; the mountain found by where it stood; "Fine mountain for vines" and the agreement; the camera raised and lowered; the fleet out of Misenum 1,800 | S2 Puteoli: the mole on its arches; Pacuvius's girl and her Greek mother-in-law; the harbor clerk who reads with his nose; the leaf; Valens sure he is marked; the letter board 1,600 | S3 the road through the hill; Neapolis in Greek; the inn loft and the carters; ten years; the coast road (villas, fishponds, vines on elms, salt pans); the Herculaneum road's tombs in one sentence 1,900 | S4 Pompeii in repair (stepping stones, props, the mismatched patch, election paint, Felix's thirty pairs); Grata's flood; the rooms; the fig up the stair; a door that sticks 1,700 | S5 the Stabian Gate in one sentence; the Nuceria road on the next afternoon; the freedman's tomb and its false door, cool under the backs of her fingers; the child; the walk back; sleep; the tape through the wool; Grata; the long fade into the street's evening 1,400 -->
@@ -9,11 +10,11 @@
 
 By the twelfth morning of my marriage Pacuvius's goose ship was coming round the last cape into the bay, and I had slept all eleven nights before it on her deck, between my husband and a mule. The mules stood amidships inside a square of hurdles lashed to ring-bolts, the four of them in a row with their heads over the topmost rail and their ears laid back at the sea. Valens slept along the outside of the hurdles with his shoulders to them, and I slept along Valens. Felix slept wherever a sailor had last moved him on from, which by the third night was the coil of the anchor cable up in the bows; Pacuvius's girl slept under an awning at the stern with her father across its opening on a folded sail. Nobody aboard that ship had a door to shut on anybody.
 
-We had cleared Lechaion before evening and gone west down the gulf for two days, Achaea on one hand, the mountains of Phocis on the other, until the shores pinched in at the narrows; Felix hung over the rail there. "I could spit on the pair of them from here, Achaea to the left and Phocis to the right, and never shift my feet. Which shall I do first?" Beyond the narrows the islands stood off in the haze. Beyond the islands came two days with no land anywhere, when the master went to the stern each evening with a cup, poured some of it on the water, and prayed in a voice he never used on us. Italy, on the sixth morning, was a low brown line in the west that Felix refused to believe was a country. We went down its coast and round the toe of it, and the Straits took the best part of a day; the crew told Felix about the whirlpool on the Sicilian side, each man improving on the version before his, until he went and sat with the mules. Pacuvius's girl was sick for every mile of the Straits and well again by Rhegium. Every evening after that she sat under her awning and practiced the greeting she meant to give her husband's mother, "Mother of my husband, my father greets your house, and I enter it gladly," in a whisper at first and then aloud, until the steersman could say it with her.
+We had cleared Lechaion before evening and gone west down the gulf for two days, Achaea on one hand, the mountains of Phocis on the other, until the shores pinched in at the narrows; Felix hung over the rail there. "I could spit on the pair of them from here, Achaea to the left and the Locrians to the right, and never shift my feet. Which shall I do first?" Beyond the narrows the islands stood off in the haze. Beyond the islands came two days with no land anywhere, when the master went to the stern each evening with a cup, poured some of it on the water, and prayed in a voice he never used on us. Italy, on the sixth morning, was a low brown line in the west that Felix refused to believe was a country. We went down its coast and round the toe of it, and the Straits took the best part of a day; the crew told Felix about the whirlpool on the Sicilian side, each man improving on the version before his, until he went and sat with the mules. The master's girl, Pacuvia, was sick for every mile of the Straits and well again by Rhegium. Every evening after that she sat under her awning and practiced the greeting she meant to give her husband's mother, "Mother of my husband, my father greets your house, and I enter it gladly," in a whisper at first and then aloud, until the steersman could say it with her.
 
 On the eighth night, off some coast none of us could see, Valens put out a hand in the dark and closed it round my ankle, and did not let go till morning, as if the ship might take it into her head to drop me overboard. That was the nearest we came, in eleven days, to being married in private.
 
-On the morning we made the bay, in the last of the dark, Pacuvius's girl found me at the hurdles, where I was trying to get my hair into order of a sort without a comb. She had on her good blue, and a brooch in her fist.
+On the morning we made the bay, in the last of the dark, Pacuvia found me at the hurdles, where I was trying to get my hair into order of a sort without a comb. She had on her good blue, and a brooch in her fist.
 
 "It won't hold," she said. "The pin. It goes in and it comes out again. She'll look at my brooch before she looks at my face, my father says she looks at everybody's brooch, and if it won't hold I'll have to fasten myself up with a thorn."
 
@@ -41,11 +42,11 @@ The black had her teeth in the hurdle lashing again, and he left me to see to it
 
 Alone at the rail, I drew the Pentax up by its strap from under my dress, where it had hung since Lechaion, and the pushed-in place on the lens's front ring flashed as it cleared the cloth. I put it to my eye, and in the finder the mountain was small enough to cover with a thumb, very green, with the edge of the sail clipping the sky on the left and a gull flying through it once. I turned the ring until the farms came sharp, and my forefinger found the shutter button and rested there.
 
-Seventy-nine. It came unasked and sat in my head, two figures with nothing round them, while the mountain stood small and green in the glass.
+Seventy-nine. It came unasked, two figures with nothing round them, while the mountain stood small and green in the glass.
 
 My finger left the button. I let the Pentax hang against my stomach on its strap for a time before I fed it back under my dress, and the mountain on the other shore went on being green.
 
-Up in the bows Felix was shouting at a long ship that rounded the headland at the far western end of the bay, low and narrow and painted dark, with a bank of oars down each side working together and a small sail furled on a mast that raked forward over her bow. The oars came up wet and flashing, went in again, came up. She passed us at a great distance and fast, with no wind to help her; her wake crossed the still water and rocked the mules long after she had gone.
+Up in the bows Felix was shouting at a long ship that rounded the headland at the far western end of the bay, low and narrow and painted dark, with a bank of oars down each side working together and a small sail furled on a mast that raked forward over her bow. The oars came up wet and flashing, went in again, came up. She passed us at a great distance and fast; her wake crossed the still water and rocked the mules long after she had gone.
 
 "What ship's that, the emperor's? Who's rowing it? How many are under there?" Felix had one foot on the rail. "Will they take a free man, if he goes and asks?"
 
@@ -61,7 +62,7 @@ Puteoli's mole marched seaward on arches. It was a road carried on piers, a long
 
 The quay was crowded from the water's edge to the warehouse doors. Porters went to and fro on the planks of the Alexandrians with sacks on their shoulders and their heads down, and grain dust from the sacks settled in their hair. A man was selling something fried in oil out of a pan on a brazier, and a priest in white linen with his head shaved was arguing with him about it in a Greek I understood and then in a language I did not. A dog slept at the foot of a plank, and the porters stepped round it.
 
-Pacuvius's girl went down our plank first, in her good blue with the brooch at her shoulder, and her father behind her for once instead of at the rail. The mother-in-law was waiting at the foot, a small woman in brown, with one slave holding a parasol above her and another holding nothing, and she read the brooch before she read the face. The girl said her greeting, the whole of it, in her careful Latin, with her fingers laced in front of her, and the old lady heard her out to the end and answered her in Greek, quick Greek, the Greek of the quays, of which I caught perhaps half: that the house was up at the highest part of the town, that there was fish, that the girl was thinner than she had been told. Then her eyes went past the girl to us, and the question she put came slowly enough for me to have all of it.
+Pacuvia went down our plank first, in her good blue with the brooch at her shoulder, and her father behind her for once instead of at the rail. The mother-in-law was waiting at the foot, a small woman in brown, with one slave holding a parasol above her and another holding nothing, and she read the brooch before she read the face. The girl said her greeting, the whole of it, in her careful Latin, with her fingers laced in front of her, and the old lady heard her out to the end and answered her in Greek, quick Greek, the Greek of the quays, of which I caught perhaps half: that the house was up at the highest part of the town, that there was fish, that the girl was thinner than she had been told. Then her eyes went past the girl to us, and the question she put came slowly enough for me to have all of it.
 
 "And those on your father's deck, who are they?"
 
@@ -79,7 +80,7 @@ He lowered the list, wrote something on a tablet, and turned his long neck towar
 
 "And that?"
 
-Felix had the fig on his hip, jar and all.
+The fig was on the stones at Felix's feet, jar and all.
 
 "It's a fig," Valens answered.
 
@@ -133,7 +134,7 @@ The wine-shop was the first door off the quay, before the street started uphill 
 
 "Pompeii," he said. "I'll send to you."
 
-Valens reappeared with a beaker of wine for each of us that nobody had asked him to buy, and we drank standing in the street with the mules' noses at our shoulders; by noon we were out of Puteoli on the road east, with the harbor below us on the right and the smells of the town thinning out as we climbed.
+Valens reappeared with a beaker of wine for each of us that nobody had asked him to buy, and we drank standing in the street with the mules' noses at our shoulders; by mid-afternoon we were out of Puteoli on the road east, with the harbor below us on the right and the smells of the town thinning out as we climbed.
 
 * * *
 
@@ -141,7 +142,7 @@ The road to Neapolis went into a hill. A ridge ran down to the sea between Puteo
 
 "Light you through, mistress? A copper, and you'll see your own feet."
 
-"Do you live in there?" Felix asked. "What if it goes out? Can I carry one?"
+"Do you live in there?" Felix asked. "Give me one. I've the steadiest hand on this road."
 
 "You can carry your mule," the torch boy said, and Valens paid two of them and sent them on ahead.
 
@@ -149,7 +150,7 @@ It was the first tunnel I had been in since the Broad Street subway, and it was 
 
 Neapolis spoke Greek, and I heard it before we were through the gate: a woman on a balcony scolding a child in Greek with its vowels drawn out longer than they were drawn in Phocis, "Come in off that roof, come in now, or your father hears where you were yesterday," and I understood every word, and stayed in the street for the rest of it. There were Greek letters cut over the doors and Greek names on the shop boards, and in a colonnade by the market old men in Greek cloaks sat arguing about something with enormous pleasure.
 
-"In a city this big," Felix asked one of them, "where's the fighting? Who's your best man? Has anybody ever put him down?"
+"In a city this big," Felix asked one of them, "where's the fighting? Who's your best man? I'd put him down for you."
 
 "Footraces," the old man said, "and the lyre, and poets. Every four years, for the emperor."
 
@@ -183,7 +184,7 @@ Valens laughed once under his breath, and settled. Soon his breathing changed, a
 
 In the morning the carters were gone before us, and Felix was in the yard with their news.
 
-"They've a school for fighters there, the cheese men said, and an amphitheater that'll seat every soul in town and their neighbors with it, and the neighbors came to the games once and carried half their men home. They fought it out on the benches. Stones and knives. And the Senate at Rome stopped their games for ten years over it." He was outraged for them. "Ten years! And all that while they had to go by it empty? They're back now, every spring, the cheese men said. Will it be this spring? Have we missed it?"
+"They've a school for fighters there, the cheese men said, and an amphitheater that'll seat every soul in town and their neighbors with it, and the neighbors came to the games once and carried half their men home. They fought it out on the benches. Stones and knives. And the Senate at Rome stopped their games for ten years over it." He was outraged for them. "And all that while they had to go by it empty. They're back now, every spring, the cheese men said. Will it be this spring? Have we missed it?"
 
 "We've a mule with a loose shoe," Valens said. "Hold her."
 
@@ -227,19 +228,19 @@ The woman whose counter we had halted beside spoke before we could move on.
 
 Her counter ran out to the street's edge, faced with offcuts of colored marble, green and yellow and a purple shot through with white, pieced together wherever a piece would fit; set into its top were the mouths of big jars sunk into the masonry, with wooden lids on them and a ladle hung on the lip of each. A pot steamed on a brazier at the inner end. The keeper of it was perhaps forty, broad, quick, with her sleeves pinned up above the elbow and a scald scar on one forearm. Valens bought three cups, and she filled them and kept talking.
 
-"You've come off a ship and then a road, it's on you plain, the both of them," she said, "and the boy's walking still as though the street's heaving under him, that'll pass, it takes a day for every day you were on the water, my husband's brother says, and he should know, he's never been off one. Rooms is what you want, and tonight, near a gate for the beasts but not too near; there's an inn at the Sarno Gate will stable them and rob you, and one at the Stabian will stable them and rob you less. And work for him, there's not a man here with a beast and a back to him that's not carting, ten years we've been at it, ten years since the earth went, and the forum still looks like a builder's yard. Drink that before it cools."
+"You've come off a ship and then a road, it's on you plain, the both of them," she said, "and the boy's walking still as though the street's heaving under him, that'll pass, it takes a day for every day you were on the water, my husband's brother says, and he should know, he's never been off one. Rooms is what you want, and tonight, near a gate for the beasts but not too near; there's an inn at the Sarno Gate will stable them and rob you, and one at the Stabian will stable them and rob you less. And work for him, there's not a man here with a beast and a back to him that's not carting, it's been carts and dust since the earth went, and the forum still looks like a builder's yard. Drink that before it cools."
 
-The wine was hot, and the pepper in it shot up the back of my nose. Her Latin had come at me broad and fast, with the ends of its words worn down, and I had lost my hold on it somewhere after the inns.
+The wine was hot, and the pepper in it shot up the back of my nose.
 
 "Are there rooms to be had?" I said.
 
-"Rooms, I said, and I've got them." She put her hand on my arm, on the sleeve, and talked on with it there, warm from the pot. "Next door. It was a cobbler's, and the cobbler died owing me the winter, and his nephew walked in from Nola and took the leather and left me the smell. A shop on the street, two rooms behind, a stair to the roof. Twenty-four sesterces the month and the first month now, and the water's at the corner, and you'll not wash anything in my jars. You're Greek, you've the walk, and you've not been married long, you stand too near him for that. It wears off."
+"Rooms, I said, and I've got them." She caught a pinch of my sleeve and talked on holding it, her fingers warm from the pot. "Next door. It was a cobbler's, and the cobbler died owing me the winter, and his nephew walked in from Nola and took the leather and left me the smell. A shop on the street, two rooms behind, a stair to the roof. Twenty-four sesterces the month and the first month now, and the water's at the corner, and you'll not wash anything in my jars. You're Greek, you've the walk, and you've not been married long, you stand too near him for that. It wears off."
 
 "Twelve days," I said.
 
 "Well, then." She took her hand back to stir the pot. "Pomponia Grata. Everybody says Grata, and anybody who says otherwise is after something. My husband's in the back. If you hear dice, that's him, and if you hear shouting after the dice, that's me."
 
-Valens paid her the first month from the purse at his belt, and the money vanished into her clothes, and she touched him on the arm too as she went by him to the door next to hers. He looked at the place on his sleeve where her hand had been.
+Valens paid her the first month from the purse at his belt, and the money vanished into her clothes, and she touched him on the arm as she went by him to the door next to hers. He looked at the place on his sleeve where her hand had been.
 
 The cobbler's shop had a wide opening on the street with a row of grooved stones along the sill to take the boards of its shutters, and the boards stood stacked inside along one wall. The floor was beaten earth with scraps of leather trodden into it, and in a corner lay a wooden last, too broken to be worth taking, with a cobweb strung from it to the plaster. Behind the shop lay two rooms with a door between them. The back one had a bed frame whose cord had rotted through near one leg, a window set high up onto a light-well, and a stair of wooden treads climbing the outside of the house at the back to the roof.
 
@@ -269,11 +270,11 @@ I put my back against it and pushed, and it went the rest of the way into its fr
 
 * * *
 
-Valens and Felix had left with the string in the dark, to a contractor at the Stabian Gate who paid by the load for anything with four legs that would carry rubble out of the town. I woke alone in a room with a door, and lay looking at the bar across it.
+Valens and Felix had left with the string in the dark, to a contractor at the Stabian Gate who paid by the load for anything with four legs that would carry rubble out of the town. I woke alone in a room with a door, and lay looking at the bar leaning beside it.
 
 The cobbler had left the shop floor full of himself: crescents and tags of leather trodden into the earth everywhere, a scatter of nails, a bone awl with its point snapped off. I was on the floor prising the leather loose with the broken awl when Grata put her head in at the opening with a cup in each hand. She gave me one, stood on the sill and drank the other, and gave me the street.
 
-"The fuller at the corner beats his wife on market days and she beats him back on feast days, so it comes out even. The baker over the way has a new oven that draws badly, so don't buy his bread before the third hour. That house with the props in front of it belongs to a man in Nuceria who won't mend it till the town pays him to, and the town won't, so there it'll stand on its sticks for another ten years. And the woman at the fountain with the blue jar will take in your washing and lose half of it, and swear on her mother she never had it."
+"The fuller at the corner beats his wife on market days and she beats him back on feast days, so it comes out even. The baker over the way has a new oven that draws badly, so don't buy his bread before the third hour. That house with the props in front of it belongs to a man in Nuceria who won't mend it till the town pays him to, and the town won't, so there it'll stand on its sticks till one of them gives in. And the woman at the fountain with the blue jar will take in your washing and lose half of it, and swear on her mother she never had it."
 
 I had kept the fuller and his wife out of all that, and lost the baker entirely.
 
@@ -281,7 +282,7 @@ I had kept the fuller and his wife out of all that, and lost the baker entirely.
 
 "Him opposite, new oven, bad draw, buy late," said Grata, no slower and much louder, and pointed with her cup. The cup swung round at the leather on my floor.
 
-"There's work in you as well as him, you've hands that are for something, I saw you at that wall yesterday with your nail in it, half the street saw you. Put a board up at that shop and they'll be at your sill by market day with their broken things in a cloth, there's not a kitchen on this street that didn't have its shelf come down, and half of them are eating off the pieces yet." She drank. "That was my cousin did that wall. He's a bad plasterer and he's family, so it stays."
+"There's work in you as well as him, you've hands that are for something, I heard about you at that wall yesterday with your nail in it, half that street saw you. Put a board up at that shop and they'll be at your sill by market day with their broken things in a cloth, there's not a kitchen on this street that didn't have its shelf come down, and half of them are eating off the pieces yet." She drank. "That was my cousin did that wall. He's a bad plasterer and he's family, so it stays."
 
 On the wall of her own house, beside her counter, there was a patch of new whitewash the size of a door. It was still dark with wet at its edges, and through the white the shapes of red letters showed faintly, as they would until the second coat. It had appeared since we came, and Grata saw me looking.
 
@@ -297,13 +298,13 @@ That afternoon I went to the Stabian Gate and out through it onto the river road
 
 Valens came home at dusk with stone dust in the creases of his neck and furring his arms, Felix at his heels and full of the amphitheater. We ate on the roof beside the fig, bread and some of Grata's beans in a pot, with the light leaving the tiles round us and the smoke of other people's suppers rising over every quarter of the town.
 
-"They've sunk it in the earth," Felix said. "The whole thing. You walk in at the top and look down. The loads go out past it, there's a dump in the fields beyond, and you come back by it empty, and you look right in through the arches at the end. Did you know it would be sunk? Have you seen one sunk before? Why would you sink one?"
+"They've sunk it in the earth," Felix said. "The whole thing. You walk in at the top and look down. The loads go out past it, there's a dump in the fields beyond, and you come back by it empty, and you look right in through the arches at the end. Did you know it would be sunk? You could drop a house in it and never see the roof."
 
 "They dug the bowl and banked the earth from it round the sides for the seats," Valens said. "That saved them stone."
 
 "Can I go in, when the loads are done? Nobody was in it today. Will there be games at the Ides? There were thirty pairs on that wall."
 
-Valens was cutting a new noseband for the black out of a strip of the cobbler's leather, and went on cutting.
+Valens was cutting a new noseband for the black out of the one long strip the nephew had missed, and went on cutting.
 
 "There were," Valens agreed.
 
@@ -321,11 +322,11 @@ Felix went over to the parapet in case the amphitheater showed from there. "Roof
 
 "How many gates are there?"
 
-"Seven or eight. Only two have tombs worth the walk."
+"Seven or eight. Three have tombs worth the walk."
 
 He tried the noseband against his own hand for size, and pared more off it.
 
-"And the other?"
+"And the third?"
 
 "The Nuceria Gate. Tomorrow."
 
