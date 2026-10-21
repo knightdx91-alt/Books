@@ -2,6 +2,7 @@
 
 <!-- SCENE BUDGET (Target 7,400; range 6,900-7,900; In medias res, the theft first and how-we-got-here in pieces; 3 breaks / 4 sections; gear low; dialogue 30-40%): S1 the record office: the tags, the swapped book, the fig cake, the silver, the ladder; pieces (the litter, Myrrhine's case, the roof at dawn); the leaf found; the clerk reads the dowry aloud; the cut, the knot; Celer's slave at the door; the clerk takes the book out 2,800 | S2 the lane: the step down, the oven, Valens with the peel; pieces (the baker, Felix and the string at dawn); the boards read; the clerk comes for bread and sees; Valens trusts him; he goes round 1,250 | S3 the colonnade: the scaffold; Celer in the sun beyond it; the slow beat; Plautia's question; "Mara"; the offer; the brother's road; the clerk sent to the games; Celer carried round 2,050 | S4 Plautia at the litter; the forum to the Lechaion road; the crowd coming up from the harbor (athletes, pine crowns, sausages); the man at the arch; the run, unfinished 1,300 -->
 <!-- Word count: 7,194 (shape_check; style 7,206) | Writer draft 2026-10-21 | Target: 7,400 (range 6,900-7,900) | Dialogue 31% (band 30-40; S1 22 / S2 35 / S3 42 / S4 30) | Breaks 3 | Median sentence 11 (gear low) | Opens short-punch (8w, record office), closes quiet (13w, mid-run) | Bare "No." Valens 1 | Kneel/crouch 0 | Hand-on-knee 0 | Bend 0 | Deliberation pause 0 gate | Gait exit 0 | Object handling 3 | Em-dash 0 | And-chains 4 | Negation pivots 0 | Hinge/So openers 0 | Echoes 0 | Spoken-line echoes 0 | Tic gate clean | Voice-wear clean | Foreshadow 0 | Anchor: the gray clerk, Onesimus, digging figs out of a pressed fig cake with his stylus (then his thumb) through the whole of a theft -->
+<!-- Dialogue-polish 2026-10-21: 7,190 words (shape_check; style 7,202) | Dialogue 31.8% (shape; show_tell 31.7; S1 25.0 / S2 35.3 / S3 41.5 / S4 29.3) | Breaks 3 | Median 11 | first paragraph + closing paragraph byte-identical (md5 checked) | Em-dash 0 | Bare "No." Valens 1 (kept, to "Will they wait?") | as if/as though 3 -> 1 | adverb tags 2 -> 0 | let-that non-answer frames 2 -> 0 | Celer smile beats 3 -> 1, "Lupus" 3 -> 2, tag-question+vocative 3 -> 2 | clerk "lady" 6 -> 3 | "who won" 5 -> 2 | Plautia "low" tags 2 -> 1 | said-to-[non-listener] 2 -> 1 | echoes 0 | spoken-line echoes 0 | check_chapter.sh 17 clean | shape --strict CLEAN -->
 
 The boards left their dust on my fingers. Fine and gray, faintly greasy, the dust of old wax in a shut room; under it the wood of the tag had been worn smooth by thumbs. The books lay flat in their pigeonholes, five and six to a hole. Each was a stack of boards bound along one side by a cord, and from every cord a wooden tag hung on a loop.
 
@@ -9,21 +10,21 @@ Each tag carried two names cut short, and a numeral. In a colony two names made 
 
 Behind me the clerk was eating figs.
 
-A fig cake sat on the table by his elbow, the kind the farm women pressed in a mold and sold off a cloth in the market: a brown brick with the shapes of the fruit still raised on its face. He dug them out singly with the blunt end of his stylus. When we arrived he was digging, and while Plautia gave him her name and her father's, and he was digging still. The gray one, then. We had wanted the other.
+A fig cake sat on the table by his elbow, the kind the farm women pressed in a mold and sold off a cloth in the market: a brown brick with the shapes of the fruit still raised on its face. He dug them out singly with the blunt end of his stylus. When we arrived he was digging, and while Plautia gave him her name and her father's he was digging still. The gray one, then. We had wanted the other.
 
 "When the governor came back," he said, "the colony's old books were carted over here, and nobody's sorted them since."
 
 "Are they in this office?" said Plautia.
 
-"They're in this office." He said it to the cake. "The old years are at the back, lady. Up the ladder."
+"They're in this office." He said it to the cake. "The old years went up the ladder."
 
 "Then you will go up the ladder. I will sit here in the light until you are down again."
 
 "There's no one but me in today to mind the door."
 
-"I will mind your door."
+"Do you expect a crowd?"
 
-"The boys race out on the Isthmus this morning, lady. There's not a soul left in Corinth to come through it."
+"The boys race out on the Isthmus this morning. There's not a soul left in Corinth to come through it."
 
 "It will hardly tax me."
 
@@ -53,7 +54,7 @@ The ladder said what he thought of that.
 
 I went on reading tags.
 
-They ran left to right, and shelf by shelf downward, in years, and inside each year in the order of the numerals. *P. VETT. L. CANIN.*, Plautia had said through the litter's curtain that morning. Vettius and Caninius, the year Nero came. The first book of the year was the one, the magistrate's, the games and everything else he had signed. I found the year two holes down from where my hand was. *VETT. CANIN. II.* Then *III.* Then *IIII.* No first.
+They ran left to right, and shelf by shelf downward, in years, and inside each year in the order of the numerals. "*P. VETT. L. CANIN.*," Plautia had said through the litter's curtain that morning. "Vettius and Caninius, the year Nero came. Of that year you want the first book, which is the magistrate's own, with his games in it and everything else he signed; the second and the rest are nothing to us." I found the year two holes down from where my hand was. *VETT. CANIN. II.* Then *III.* Then *IIII.* No first.
 
 In its place lay a book with another pair of names on the tag, a year I had already passed.
 
@@ -63,11 +64,11 @@ I retraced the shelves to the passed year. There, between its own second and fou
 
 Nobody had taken it anywhere. A copyist would have had a long walk.
 
-"Well?" said Plautia, low, from the table. Overhead the ladder creaked.
+"Well?" Plautia asked from the table. Overhead the ladder creaked.
 
 "It is here. In the wrong year."
 
-"Put there by whom?"
+"Lost, or hidden?"
 
 "Somebody who wanted it lost and knew where to find it again."
 
@@ -77,7 +78,7 @@ I slid it free. It weighed more than I wanted, a dozen boards deep, each a finge
 
 Inside, the wood was hollowed into a shallow tray and the tray was filled with black wax, and the wax was crowded with a small, slanting hand that took no trouble for anybody. The beginning of the year. Oaths. A list of names. The hire of a bath. On the second board, a contract for road gravel.
 
-The clerk said something in the store, to the ladder or the shelves.
+In the store the clerk said, "Highest shelf in the place. The whole run of them."
 
 I turned two boards together, then another pair. My hands were steady. My bladder was another matter. I had drunk a beaker of water in the brother's kitchen before dawn because Myrrhine had pressed it on me, and it had waited the length of the streets for this moment to want out.
 
@@ -99,13 +100,13 @@ The clerk emerged with three books stacked against his hip and the cake balanced
 
 "I was married in the autumn."
 
-"Then the last." He worked it free from beneath the others and untied nothing.
+"That'll be the last." He worked it free from beneath the others and untied nothing.
 
 "The seal is my father's," said Plautia. "I know it from here. Read it to me."
 
 "You read, lady."
 
-"I can read. I wish to hear it. Every line, and the witnesses after, slowly, so that my woman can write down what I tell her to."
+"I can read. I wish to hear it read, every line and the witnesses after, slowly, so that my woman can write down what I tell her to."
 
 He freed the cord. He opened the boards and found the place with his stylus. With the same stylus he dug out a fig and ate it, and began.
 
@@ -113,7 +114,7 @@ He freed the cord. He opened the boards and found the place with his stylus. Wit
 
 I took the knife out of the writing case.
 
-It was at the bottom, beneath the pens and the letters, in a sheath of fish-skin: a little blade with a bone handle, for cutting pens. Myrrhine had packed the case three times over in the lamplight that morning, each time tighter, while Plautia was dressed in the next room. Between the packings she had marched me to and fro behind an empty chair to cure me of her mistress's hem. "Further back. Further. She gets down on the right, always, from a child; her nurse was left-handed, and nobody has ever told her otherwise." Then the case again. "The knife is her grandfather's," she had said, and put it in last, at the bottom, and laid the reeds on top. "Everything in this case comes home tonight. If it goes to anybody else, I shall know whose house."
+It was at the bottom, beneath the pens and the letters, in a sheath of fish-skin: a little blade with a bone handle, for cutting pens. Myrrhine had packed the case three times over in the lamplight that morning, each time tighter, while Plautia was dressed in the next room. Between the packings she had marched me to and fro behind an empty chair to cure me of her mistress's hem. "You're on it again. You'll have her over in the street. Further back. Further. She gets down on the right, always, from a child; her nurse was left-handed, and nobody has ever told her otherwise." Then the case again. "The knife is her grandfather's," she had said, and put it in last, at the bottom, and laid the reeds on top. "Everything in this case comes home tonight. If it goes to anybody else, I shall know whose house."
 
 "*A slave girl, Syrian, named Doris, aged eleven*," the clerk read. "*Valued at*." He named a figure and ate a fig.
 
@@ -151,13 +152,9 @@ I returned the book to the wrong year, knot to the back.
 
 "*Done at Corinth*," said the clerk, and gave the day.
 
-"Is that seal my father's," said Plautia, "or his freedman's?"
+"My father kept two seals, cut by the same engraver, his own and his freedman's," said Plautia. "Which is that?"
 
-The clerk tipped the book to the open door and peered at the wax. "Your father's."
-
-"By what?"
-
-"His freedman's had a chip out of the rim." He dug out a fig.
+The clerk tipped the book to the open door and peered at the wax. "Your father's. The freedman's had a chip out of the rim." He dug out a fig.
 
 Feet hurried past the scaffold outside, and a boy in a short tunic was in the doorway, panting, the road's dust gray on his shins. His eyes traveled the room and settled on the clerk.
 
@@ -173,7 +170,7 @@ The clerk sat a while with a fig on the end of his stylus.
 
 The boy stared at her veil. "Lady." The doorway was empty again.
 
-"He has chosen the same morning we chose," Plautia said to me, low, "and for the same reason. He will not walk under a ladder. Nor a builder's frame. He once walked the whole forum round, in the rain, sooner than pass under a painter's plank."
+"He has chosen the same morning we chose," Plautia said to me, low, "and for the same reason. He will not walk under a ladder, nor a builder's frame; once, in the rain, he walked the whole forum round sooner than pass under a painter's plank."
 
 The clerk ate the fig. He left his stool for the shelves. His hand found the wrong year's hole at the first try; he drew the book from it and clamped it to his side, spine inward.
 
@@ -183,7 +180,7 @@ That morning, on the brother's roof, with the sky still gray, Plautia had stood 
 
 "That is his tunic. I did not choose it." Plautia had stood until the street had emptied. Then she had gone in to be dressed.
 
-"The lane door, lady," he told Plautia, in passing, "is by the oven, if you'd sooner not be kept. He'll keep you till noon." He bore it off to the colonnade.
+"The lane door," he told Plautia, in passing, "is by the oven, if you'd sooner not be kept. He'll keep you till noon." He bore it off to the colonnade.
 
 Plautia stood up.
 
@@ -213,7 +210,7 @@ It was dim in the lane, with the oven's glow on one side of us and a neighbor's 
 
 "Nine," he said.
 
-"Nine names."
+"Are they known to you?"
 
 "Three of them are dead."
 
@@ -253,11 +250,11 @@ The clerk held the coin out past us to the baker. "Two of the round ones."
 
 The baker had the coin off him and turned to his shelf.
 
-"He's not opened it," said the clerk to nobody, waiting. "He'll not open it. He has a copyist who'll keep it under his bed till everybody's forgotten it. He's paid the copyist a year ahead." He found a seed in a back tooth with his tongue. "You'd want to be gone before somebody decides to remember it."
+"He's not opened it," said the clerk, waiting. "He'll not open it. He has a copyist who'll keep it under his bed till everybody's forgotten it. He's paid the copyist a year ahead." He found a seed in a back tooth with his tongue. "You'd want to be gone before somebody decides to remember it."
 
 "Today," said Valens.
 
-"I'd not know about that." The baker put two loaves into his hands, hot, and he juggled them, one hand to the other. "My grandson runs with the boys today. My daughter's boy. Twelve. He'll have run by now." He squinted at the strip of sky between the roofs, as though the race might be up there. "I'd have liked to see him lose."
+"I'd not know about that." The baker put two loaves into his hands, hot, and he juggled them, one hand to the other. "My grandson runs with the boys today. My daughter's boy. Twelve. He'll have run by now." He squinted at the strip of sky between the roofs, toward the Isthmus. "I'd have liked to see him lose."
 
 "Lose?" I said.
 
@@ -271,7 +268,7 @@ Valens said, "It's near enough noon."
 
 My knees had gone loose. The step took me, with the case in my lap.
 
-"He saw it," I said. "He saw your hands. He will walk out there with his bread and tell him."
+"He saw it," I said. "Your hands, and what was in them. He will walk out there with his bread and tell him."
 
 "He'll eat his bread."
 
@@ -329,7 +326,7 @@ I stopped at Plautia's litter, by the bearers, with the case.
 
 The man with the seam had found me. He touched two fingers to the place above his ear.
 
-"Mistress," he said, pleasantly.
+"Mistress," he said.
 
 "The lady's come to read her own dowry," Celer went on, "and I've told her she ought to have sent to me for it. I'd have had it copied out fair for her, in a good hand, and sent round to her brother's with a slave. We'd have done that, wouldn't we, Onesimus?"
 
@@ -341,17 +338,17 @@ The man with the seam had found me. He touched two fingers to the place above hi
 
 The question carried over the scaffold's shadow into the sun, short and level.
 
-"Like a wolf." Celer smiled at her straight away, as if she had given him a present. "Bread and honey, and most of my bread besides. He's with my steward at the rail, in the new tunic, and he's been told he may shout as loud as he likes, and the Corinthian boy's the favorite, so he'll shout himself hoarse."
+"Like a wolf." Celer had his answer ready. "Bread and honey, and most of my bread besides. He's with my steward at the rail, in the new tunic, and he's been told he may shout as loud as he likes, and the Corinthian boy's the favorite, so he'll shout himself hoarse."
 
-"He will be hoarse already. He shouts before anybody has told him he may, and he has done so since he could stand, and tonight his nurse will give him honey in warm water, too hot, and he will not drink it."
+"He will be hoarse already. Since he could stand he has shouted before anyone gave him leave; tonight, when his nurse brings him honey in warm water that she has made too hot, he will not drink it."
 
-"His nurse knows her business," said Celer. "I'm never in the nursery. Come out tomorrow and sit with us, why don't you? Right at the governor's back, where everybody can see how well we all get on. He'd like that."
+"His nurse knows her business," said Celer. "I'm never in the nursery. Sit with us tomorrow, why don't you? Right at the governor's back, where everybody can see how well we all get on. He'd like that."
 
 "Will you let me speak to him?"
 
 "Of course," said Celer. "Afterward. When all this has been tidied away."
 
-He let that lie in the sun, and looked past her, and past Valens, to me.
+His eyes went past her, and past Valens, to me.
 
 "And this will be Mara."
 
@@ -359,7 +356,7 @@ My name, in his mouth, in that pleasant voice. It had come to him from the road 
 
 "I write for the lady." My Latin was stiff, and too quick.
 
-"So I hear. In a Latin they must teach very carefully at Syracuse." He let that go by, smiling. "My man tells me you carry something heavy under your dress, too, that shines. I'd like to see it one day. And she's given you the gold off her arm." His eyes rested on the band at my wrist. "She would. She always gave away what was given her. Didn't you, Plautia? One loved her for it."
+"So I hear. In a Latin they must teach very carefully at Syracuse." His head went round to the litter, and the men behind it. "My man tells me you carry something heavy under your dress, too, that shines. I'd like to see it one day. And she's given you the gold off her arm." His eyes rested on the band at my wrist. "She would. She always gave away what was given her; I used to tell her so. One loved her for it."
 
 Under the veil, Plautia's chin came up a finger's breadth.
 
@@ -369,7 +366,7 @@ Celer turned back to Valens. He came a step nearer, and another, to the very end
 
 "You hired me," said Valens.
 
-"Did I?" said Celer, kindly. "Well. We'll let the lawyers argue that. We could make all of this very easy, you and I. Ships leave Lechaion every day now the sea's open. If a man crossed to Italy and settled, and grew old in the sun with a vineyard and somebody to write his letters for him, I can't see why anybody in Achaea would ever need to say his name again. My steward put up some notices, last year. Stewards will. Notices come down."
+"Did I?" said Celer. "Well. We'll let the lawyers argue that. We could make all of this very easy. Ships leave Lechaion every day now the sea's open. If a man crossed to Italy and settled, and grew old in the sun with a vineyard and somebody to write his letters for him, I can't see why anybody in Achaea would ever need to say his name again. My steward put up some notices, last year. Stewards will. Notices come down."
 
 Valens stood with his floured hands hanging at his sides. Under the flour on his tunic, where the leaf rode, the cloth sat flat and square if you knew to look for it. I knew. Celer was looking at his face.
 
@@ -391,13 +388,13 @@ Celer smiled at him.
 
 "Shut up your door and go out and see your boy. Go on. Nobody's going to rob the proconsul this morning."
 
-"He'll have run."
+"It'll be over."
 
-"Then go and hear who won it. You'll want my ring on something, for the book?"
+"Go and see him crowned. You'll want my ring on something, for the book?"
 
 "Not today, legate."
 
-"Splendid man." He was already turning to his litter. "Come and see me after the games, Lupus. Come to the house, at the second hour, any morning. Bring Mara." He settled himself into the cushions, and the slave with the sunshade lost it altogether and had to run after it. "We'll all dine. Plautia, my mother asks after you."
+"Splendid man." He was already turning to his litter. "Come and see me after the games. The house, at the second hour, any morning. Bring Mara." He settled himself into the cushions, and the slave with the sunshade lost it altogether and had to run after it. "We'll all dine. Plautia, my mother asks after you."
 
 Plautia said, "Let her go on asking."
 
@@ -415,7 +412,7 @@ The clerk finished his bread. He fetched his cake from inside, with a key on a t
 
 "Tell her the swans are Sicyonian work, and she is not to let them go for less than that."
 
-He dug a fig out of the cake with his thumb, now the stylus was locked inside, and ate it. "If you hear who won the boys, send me word."
+He dug a fig out of the cake with his thumb, now the stylus was locked inside, and ate it. "If you hear how the boys came in, send me word."
 
 "I hope he lost," I said.
 
@@ -459,11 +456,7 @@ Plautia opened the case, and moved the pens aside with a fingertip, and found th
 
 "Good," she said, "she will be content," and the bearers rose together, and she climbed into the litter from the right, the side Myrrhine had shown me, and her curtain stayed down.
 
-I pushed the knife into my belt.
-
-"What was it she gave you?" said Valens.
-
-"Her grandfather's knife."
+I pushed the knife into my belt. "Should I have refused it?"
 
 "Her woman will be on the quay before us." He looked once round the empty forum. "Walk."
 
@@ -559,7 +552,7 @@ Valens felt it too. He lifted his face into it.
 
 "Felix will be on the quay with the mules," I said, "telling the master how to load them."
 
-"He'll be asking him who won."
+"Asking him how."
 
 We ran.
 
