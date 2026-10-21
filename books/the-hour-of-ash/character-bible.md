@@ -5269,3 +5269,5 @@ finalizing the chapter. Never add a tic to fix it.
   record Plautia's age and the gilded chariot; the stale header comments of chapter-17.md, lines 3–7, still describe pre-polish pages
   and are the editor's, not this pass's). No new named character; no tic, catchphrase or signature gesture given to anyone; tic-bearer
   roster still NONE.
+
+- 2026-10-21 (author request, Ch.17): the Lechaion-road latrine is replaced by a cookshop yard (an obol to the woman at the counter, a pot with a board across it under a vine; the javelin question comes through the curtain; Valens waits "at the counter"). RULE for every later chapter: Roman public latrines are men's ground; Mara uses a pot (home, inn, a keeper's yard for a coin) or, on the road, cover outdoors. Never a public latrine bench among men.
