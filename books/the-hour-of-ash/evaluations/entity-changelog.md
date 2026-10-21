@@ -2648,3 +2648,49 @@ Open contradictions: 33 → 37.
 - **Checks:** every single-quoted fragment on a ch-18 line was checked against the page by script. Two misquotes were fixed ("'Father,' … 'was mine like that?'" and "I'd money on the small Sicyonian"). The remaining misses are other chapters' quotes on mixed lines, plus the labelled reading "By proxy". No cite is above p77.
 - **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 275 characters, 82 locations, 117 objects, 133 contradiction rows.
+
+## 2026-10-21: RE-SYNC (chapter 18, "Lechaion", FINAL page)
+
+- **Page read:** chapter-18.md at a5af92d, md5 dbd5ac50047ee465bb51f78d85ac44a4. Since the UPDATE (a77ccc3 page), three passes landed: the continuity repair (a81d6e5, audit W-01..W-13), polish cycle 1 (7ab624c, 20 swaps) and finalize F1-F3 (a5af92d). The diff was taken from e2928f9 to HEAD.
+- **Numbering:** still 77 paragraphs, one scene, no breaks. Nothing merged or split, so **no ch-18:pYY is renumbered**. A fifth HTML comment line moved file lines down by one, so file line 9 = p1 and L = p((L-7)/2). The audit cites the a77ccc3 file (L = p((L-6)/2)); the eval's final sections cite the final file. Text changed inside 28 paragraphs (listed in `revalidation_needed`).
+- **Corrected to the page** (superseded wording kept as `was` / `prose_was` wherever it carried a fact):
+  - **The watch:** the old "the spring was wound tight to its end" is now "it took two and stood hard" (p48), so it is wound but not to its stop. The shadow is now "a short shadow on the stone, tipped a little east" (p49), with no sandal ruler. The other changes: "The hands were at twenty to one"; "Valens was minding the dun." (p50); "The case was warm from him."; the clasp now closes with "pressed." (the snap is cut), then "His fingers smelled of bread…" (p52). These went into `objects.fathers-seiko-watch` (custody row, windings row, `time_setting_ch18`), Mara's possessions and knowledge, Valens's relationship row, and the ch18 check results.
+  - **The plank sailor:** "by Pollux" (was "by Castor", W-04); "a gray man stained with tar" (was "tar to the elbows"; canonical_name and physical). He now turns to answer Valens's "Keep off her heels," when he is kicked (p58).
+  - **Pacuvius:** the harbor Latin is "stuffed with sailors' Greek" and "he stayed at the rail to use it on us" (p12). The priests clause is cut (W-05) from his trait and from the Ch.18 world rule. "Yours had a cake," loses "without turning round". Valens's "Twice over" is cut (W-13), and his offer is now "I'll pay the fare again," (Pacuvius's trait, Valens's relationship row and waypoint).
+  - **Felix:** "Did you get it?" is cut (W-01). "like a boy half his age". He now blames the nuts ("It's the nuts," … "There should have been nuts."), not the sun, so "since sunup" is gone from the timeline row. Mara answers him "We are all of us watching the yard"; the master says "Your boy's been on that plank" (W-10).
+  - **Mara:**
+    - "I found breath enough for Latin, barely."
+    - The cucumber memory now has "and rinsed it off under the tap". "to draw the bitterness out" is cut, so the page gives no reason.
+    - Her yes is "Yes. Will you?" with "There was no voice under it" cut (W-07). Corrected in legal_status, both relationship rows, her waypoint, the romance thread and the check results.
+  - **The opening (p1):** the wind "flattened my dress against my legs". Across the basin, "a man sat in a beached boat mending a net and whistling, as if the afternoon were his to spend". **Note for the orchestrator:** "hammering at a hull" (W-06) was the continuity repair's text, and polish cycle 1 then replaced the hammer with the net-mender (eval R1). The final page has no hammering, so `locations.lechaion` carries the net-mender and records barrel → hull → net in its `was` field.
+  - **Objects:** goose ship "like a blind on its cords"; crown "before it reached the slot of water by the hull"; tunic "Felix peeled off his tunic". The daughter gets the alias "the master's daughter" (narration, p45).
+- **Audit patches** (chapter-18-audit.md, SUGGESTED YAML PATCHES), applied against the final page:
+  - The watch: custody, wrist and winding, as above.
+  - mara-reyes ↔ valens: married. Already present; quotes fixed.
+  - pacuvius: already created.
+  - felix.knowledge (married, witnessed): already present.
+  - felix.knowledge_absent_ch18: **adapted**, because the audit's wording assumes "Did you get it?" still stands. It now reads "whether the theft succeeded… (not asked on the final page)", plus "whether Plautia was to come to the quay ('Where's the lady with the litter?', p8)".
+  - plautias-bracelet (left wrist) and the pine crown (given to Felix, worn aboard): already present.
+- **Eval handoff** (chapter-18-eval.md):
+  - The watch is on the RIGHT wrist, Felix's tunic is on the dun and the crown is on Felix. These were already present.
+  - The leaf is under Valens's tunic: new `objects.manumission-record.ch18_note`, and the valens-papers `ch18_note` is updated.
+  - The pen-knife is in Mara's belt. Already present as presumed; unchanged.
+  - New `goose-stern-ship.ch18_handoff`: the towboat line, yard, stern rope and plank are on the page. Leaving "under tow on the afternoon breeze" is the eval's handoff, not shown. Pacuvius and his daughter are aboard. Do not compress the crossing (audit I-03).
+- **Forward note on the marriage (new):**
+  - Where it is recorded: `mara-reyes.legal_status` (Ch.18 row, `forward_note`), with pointers on `valens.legal_status`, `lucius.status_at_birth` and `aelia.status_at_birth`.
+  - The law: a citizen freedman and a registered peregrine marry without conubium, so the marriage is *matrimonium iniustum*. It is valid, but the children take the mother's status.
+  - Status: OPEN, pending the author at checkpoint 4. There is a Syracuse-colonia twist.
+  - The rule until the author rules: no chapter calls the children citizens.
+  - Also derived: Valens's own citizenship rests on the contested manumission.
+- **Contradictions:**
+  - **CH18-1 NARROWED, still UNRESOLVED.** The winding half no longer stands, because two turns fit a winding that morning (Ch.6, Ch.11). The shadow no longer needs a very short post. What stays open: the hands agree with the sun and nobody is shown setting them.
+  - **CH18-3 NARROWED, still UNRESOLVED.** Part (2), "Did you get it?", auto-resolved by the cut. Part (1), the unmarried belief, stands as info. New part (3): "Where's the lady with the litter?" (p8) remains on the page. Audit W-01's optional cut was not applied. It is a question, so it is not a knowledge_gap.
+  - **CH18-4:** recheck note added. Still none against a NON-NEGOTIABLE. Foundation row 18 now reads "sunlit quay" and outline Ch.19 now reads "goose ship" (a81d6e5); `locations.lechaion` gets a `foundation_note`.
+  - **CH18-5 NEW (info, forward constraint):** the children's status, for checkpoint 4.
+  - **CRITICAL:** none. **Open count:** 40 → 41.
+- **meta:** header note, `last_updated_by`, `mode`, `source`, `paragraph_rule` (Ch.18 re-anchor), `revalidation_needed` (chapter 18, RESOLVED), and a `ch18_requested_checks` re-sync row.
+- **Checks:**
+  - Every quoted fragment on the YAML that was on the a77ccc3 page but is not on the final page was found by script. Each was fixed, or kept only as labelled superseded wording.
+  - Every quote added in this re-sync was checked against the final page. The only misses are labelled was/prose_was text, other chapters' quotes on mixed lines, and plan/eval quotes.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 275 characters, 82 locations, 117 objects, 134 contradiction rows (41 open).
