@@ -2479,3 +2479,44 @@ Open contradictions: 33 → 37.
   - Ch.16 part of `paragraph_rule` rewritten;
   - `last_updated` (2026-10-21), `last_updated_by`, `mode`, `source` and the header comment extended.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+
+## 2026-10-21: UPDATE (chapter 17, "Games on the Isthmus", post-disruptor page)
+
+- **Input:** `manuscript/chapters/chapter-17.md` at d6b3291 (writer 92b2ddf, dialogue-polish 9182746, disruptor d6b3291), md5 361981512561c0ee0e573eb9a50ed6e1. No earlier chapter, outline or foundation changed since the Ch.16 re-sync (8f4d343 / c7fd776).
+- **Numbering:** p1..p274. Breaks come after p91, p145 and p203: S1 p1-p91 (the record office), S2 p92-p145 (the lane and the oven), S3 p146-p203 (the colonnade), S4 p204-p274 (the forum, the Lechaion road, the run). The four HTML comment lines are not counted. The italic tag line (p41) counts. `paragraph_rule` is extended.
+- **Quotes:** every page quote written in this run was checked against chapter-17.md by script (0 misses), then against the paragraphs it cites (0 real misses). One timeline source list was widened to add p127, p191 and p198.
+- **Auto-resolution check:** none of the 35 open contradictions has a cited file that changed. Ch.17 itself settles two of them:
+  - **CH16-10 RESOLVED.** The fig-eating clerk is the gray-haired one ("The gray one, then. We had wanted the other.", p4), and Celer names him Onesimus (p159). New canonical entry: `characters.onesimus`. `archive-clerk-corinth` and `record-office-clerk-gray` are kept with `merged_into: onesimus` and needs_review false. `record-office-clerk-young` is not on the page, and its note now says he is not the fig clerk.
+  - **CH12-5 RESOLVED.** The third man from the Kirrha road is Celer's man on the page: the seam above his left ear (p152), "Celer's seamed man" (p194), "Celer's man, the one with the ear" (p231), and "My man tells me…" (p172). Still not stated: that Celer sent the three men to kill.
+  - Rechecks added to the still-open CH16-8 (Myrrhine is expected on the quay, p222) and CH16-9 (the fig goes down to Lechaion, p137).
+- **New contradictions (none CRITICAL):**
+  - **CH17-1 (medium).** Timeline row 18 and outline Ch.18's example opener ("awake since the second watch") no longer fit. The ship sails on the afternoon breeze (p141), and they reach the harbor a little after noon (p262-p274), so Ch.18 is the same afternoon. "Wet quay" is not on the Ch.17 page either. This is a forward constraint for the Ch.18 prompt.
+  - **CH17-2 (medium).** Plautia's age. She married in autumn AD 63 ("A year before the fire", p21; p47) and says "since I was sixteen" (p209), which makes her about 24-25 in spring 72. Ch.16 has "thirty, or a little under" (ch-16:p5). The two fit if sixteen is the age of a betrothal.
+  - **CH17-3 (low).** Celer says the notices went up "last year" (p177). The Corinth notice went up in Dadaphorios AD 70 (ch-09:p169).
+  - **CH17-4 (info).** The leaf is boards 5-6 of about twelve (p35; p39), against "near the front" (ch-16:p265).
+  - **CH17-5 (low, knowledge_gap).** Celer knows the Syracuse cover ("So I hear…", p172) and no path is shown. Logged as `quintus-arrius-celer.knowledge_gap`.
+  - **CH17-6 (info).** The bible's Ch.17 blocks quote the writer's draft (about 20 strings not on the page). The bible sync goes to the orchestrator.
+  - **CH17-7 (info).** Outline Ch.17 compared with the page: no departure touches a NON-NEGOTIABLE.
+  - **Open count:** 35 → 40 (−2 resolved, +7 opened).
+- **Entities:**
+  - **Characters:** 27 new. Onesimus and his grandson, wife, daughter and son-in-law. Celer's runner, sunshade slave, stranger and bearers. Plautia's hired bearers. L. Caninius; Doris; the Gnaeus witness; Plautia's mother's brother, grandfather, nurse and father's freedman. Marcus's nurse; Celer's copyist. The three dead witnesses (doctor, oil-seller, trainer). On the Lechaion road: the Alexandrian trainer, the athletes, the latrine's fat man, the pine-crown boys, the triumph-coin seller and the sausage-man.
+  - **Celer in person (first live appearance):** physical (toga, shave, cup-handle ears, voice), traits, relationships, location_log and knowledge. He now knows Mara's name, the heavy shining thing, the bracelet, Valens's road to Rome, and that Plautia came to read her dowry. He does NOT know the leaf is gone.
+  - **Renamed in place:** the games magistrate is now "P. Vettius" (read from p26 and p77), and Plautia's father is now "Sextus" (p53). Plautia's mother's silver is a ladle and two swan spoons, Sicyonian work.
+  - **Main cast:** Ch.17 location, knowledge and knowledge_absent rows for Mara, Valens, Plautia, Felix, Marcus and Myrrhine. The planned Ch.17 rows are kept as `plan_was`. Valens's post (the back door, as a baker), his reading of his own name, and his legal_status are on the page.
+- **Locations:** 3 new: `record-office-corinth` (the building), `lechaion-road` and `olympia` (mentioned). New Ch.17 facts on corinth, isthmia, lechaion, celers-house, plautias-brothers-house, kenchreai, puteoli, rome and sicyon.
+- **Objects:**
+  - 8 new: plautias-grandfathers-pen-knife (Mara, in her belt), vettius-first-book (with Celer, showing knot, no receipt), goose-stern-ship, valens-pine-crown-for-felix, onesimus-fig-cake, record-office-scaffold (closed), celers-bill-of-sale and triumph-coins.
+  - Updated: manumission-record (WRITTEN; Valens holds it in his tunic) and plautias-bracelet (seen by Celer).
+  - Closed: plautias-mothers-silver (the bribe), plautias-dowry-instrument (read as the cover) and plautias-writing-case.
+  - Also updated: fathers-pentax-k1000 (custody, and what Celer knows by report), potted-fig-tree and lupus-reward-notice.
+- **Timeline:** row 17 is filled from the page: spring AD 72, the boys' race morning of the games for Titus's triumph, from before dawn to a little past noon. Neither "Isthmia" nor "Isthmian" occurs in the chapter. Row 18 carries a ch17_note for CH17-1. One timeline_event is added.
+- **Knowledge:**
+  - Index rows added to maras_name, syracuse_cover, maras_camera, kirrha_road_killing, triumph_games_plan, valens_name and valens_and_plautia.
+  - New indexes: `the_leaf_taken` and `valens_rome_road`.
+  - New threads: the-showing-knot, celers-invitation, plautias-letter and the-knife-comes-home.
+  - Updated threads: celer-and-the-frame, valens-papers, valens-known, plautias-son, plautias-question (answered in part by action) and kirrha-road-killing.
+- **Needs review:** new for celers-stranger-man and dead-witness-trainer, and valens-school-trainer is flagged against the dead trainer. bandaged-corinthian's note is strengthened (Celer's "heavy … that shines", p172), but it stays separate under rule 8.
+- **World rules:** 4 added (the two-name year, the year-book form, the open sea in spring, the pine crown).
+- **Meta:** last_updated_chapter 17; chapters_tracked adds 17; last_updated_by, mode, source and the header comment are updated; `ch17_requested_checks` has 10 rows.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass.
