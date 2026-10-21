@@ -3,6 +3,7 @@
 <!-- SCENE BUDGET (Target 2,800; range 2,500-3,100; Single-scene, under an hour on a sunlit quay the same early afternoon as Ch.17's run; 0 breaks; gear mid; dialogue 30-40%): arrival out of the run, pitch and sun, the goose ship and the sail going up, Felix holding the plank down 450 | the master's condition (the freedman's booking, Felix's truth, the daughter and the old woman at Puteoli, the deadline of the yard) 750 | the ten words; the sailor wants to get on; Felix cries; the crown; the daughter's question 500 | the watch, wound, near the sun's noon; the wrist 450 | the dun refuses the plank; the black loose among the sprats; the yard at the top; the tunic over her eyes; the fig carried up between us; the plank in 650 -->
 <!-- Word count: 2,764 (shape_check; style 2,771; show_tell 2,767) | Writer draft 2026-10-21 | Target: 2,800 (range 2,500-3,100) | Dialogue 31.7% (band 30-40) | Breaks 0 | Median sentence 15 (gear mid) | Opens I-statement (arrival out of the run), closes punch (7w, single-sentence paragraph) | Ten words: "Will you be my wife, Mara?" / "Yes." / "Will you?" / "Yes," | Watch on the RIGHT wrist (Plautia's gold on the left) | Bare "No." Valens 0 | Kneel/crouch 0 | Hand-on-knee 0 | Bend 0 | Gait exit 0 | Em-dash 0 | as if 1 | And-chains 4 | Negation pivots 0 | Hinge/So openers 0 | Echoes 0 | Spoken-line echoes 0 | Tic gate clean | Voice-wear clean | Foreshadow 0 | Anchor: the watch handed back on a sunlit quay with no word, its crown already wound to the stop and its hands near the sun -->
 <!-- Dialogue-polish 2026-10-21: 2,778 words (shape_check; style 2,786; show_tell 2,782) | Dialogue 31.9% show_tell (shape 32) | Median 15 | Em-dash 1 (Mara cut off by the master) | Ellipsis 1 (the master's speech outrunning Mara) | "nobody" in speech 10 -> 3 | Pacuvius "my [ship/deck/plank/yard/men/man]" 12 -> 3 | "whose" questions 0 | Bare "No." Valens 0 | Felix "Is it"/"Is that" openers 0 | Echoes 0 | Spoken-line echoes 0 | check_chapter.sh 18 clean | notes: evaluations/dialogue-chapter-18.md -->
+<!-- Disruptor 2026-10-21: subtractive only, narration only (speech 888 words, unchanged) | 2,636 words (shape_check; style 2,644; show_tell 2,640) | Dialogue 33.6% show_tell (shape 34) | Median 15 | And-chains 3 | Similes 3 | as if 1 | Em-dash 1 | Breaks 0 | Cut: the "very ship" pointer, the Ch.11 watch-reading recall, the crown re-descriptions, the item-by-item look, two breath beats, the domino links and the dog button in the mule chaos, "It was.", "with no fuss at all" | check_chapter.sh 18 clean | notes: evaluations/disruption-chapter-18.md -->
 
 I reached the quay from the garden road with the taste of blood in my mouth from running, and the whole harbor reeked of pitch going soft in the sun. The stone was dry and glaring underfoot, and the wind blew straight in off the water into our faces; across the basin somebody was hammering a barrel hoop, two blows and a rest, two blows and a rest, as if nothing in Achaea were in a hurry.
 
@@ -10,7 +11,7 @@ What I saw first, and clearly, was the goose, rising above the stern of a ship h
 
 Three sailors on the deck had hold of the plank's upper end and were trying to draw it aboard. Each time they hauled, it scraped along the paving a short way with Felix riding it. Behind him our four mules stood roped to an iron ring let into the quay, and at every scrape they flung their heads up and leaned back against their ropes, the dun loudest.
 
-Over the goose's head, on the very ship that was not going to wait for us, they were hoisting the sail. Four men round the mast hauled on a single rope, hand over hand, let it slip, and hauled again, and the yard climbed in jerks with the linen bunched under it. Lines hung down the sail's face through rows of small lead rings and held it gathered to the yard the way cords hold up a blind. Off the bow a boat with six rowers lay on the water with its oars shipped and a slack line running from its stern to the ship, and the rowers were eating.
+Over the goose's head they were hoisting the sail. The men round the mast hauled on a single rope, hand over hand, let it slip, and hauled again, and the yard climbed in jerks with the linen bunched under it. Lines hung down the sail's face through rows of small lead rings and held it gathered to the yard the way cords hold up a blind. Off the bow a rowing boat lay on the water with its oars shipped and a slack line running from its stern to the ship, and the rowers were eating.
 
 "Valens!" Felix had seen us, and he shouted it without loosening his grip on the wood. "He won't take us! He's had them pulling at this since the shadow was over by that post, and I told him you'd come, I told him you'd come running and you'd tell him yourself, and he says it's not the fare and it's not the mules. Where've you been? Did you get it? Why are your arms white?"
 
@@ -24,7 +25,7 @@ At the stern rail, under the goose's neck, stood a broad man in a leather cap wi
 
 "You'll be the muleteer," he said, with no great liking for the flour on him.
 
-"Valens." He had to take a breath in the middle of it. "A freedman from the city paid you."
+"Valens. A freedman from the city paid you."
 
 "He paid me at sunrise, for a muleteer and a wife and a boy, and their mules, and a young fig with its roots in a jar." The master's Latin was quick and hard, a harbor Latin with the ends of the words knocked off, and he threw it down at us without leaving the rail. "I have the boy, and I have the mules and the tree. Your boy's been sitting on that plank since the third hour, telling the crew about a mountain. When they asked him, to pass the morning, how long his master had been married, he told them you aren't."
 
@@ -32,11 +33,11 @@ At the stern rail, under the goose's neck, stood a broad man in a leather cap wi
 
 The master spread his hands. "Every man on my deck heard him."
 
-My hem was still hitched up in my hand. The run was in my legs and my ears were full of my own blood, and no sentence in any language I owned would have come out whole.
+My hem was still hitched up in my hand. The run was in my legs and my ears were full of my own blood.
 
 "I'll pay the fare again," Valens said. "Twice over."
 
-"It isn't the fare." The master squinted past the mole to where the water had gone dark and rough under the breeze, and then at us again. "My girl's aboard. She was married at the Kalends to a man at Puteoli she's never set eyes on, and I'm taking her to his mother's house, and his mother will have the name of every soul who slept on this deck out of her before she's got her cloak off. A husband with his wife and their lad, she'll swallow. A man your size, with that face, running a woman out of Corinth on a feast day, and a boy to say she's no man's wife, she will not swallow, and nor will the magistrate's people at Puteoli, if somebody's..." The rest of it outran me. "I carried a man's wife once. Her husband's brothers came aboard at Ostia with cudgels, and mine was six, and she saw it."
+"It isn't the fare." The master squinted past the mole to where the water had gone dark and rough under the breeze. "My girl's aboard. She was married at the Kalends to a man at Puteoli she's never set eyes on, and I'm taking her to his mother's house, and his mother will have the name of every soul who slept on this deck out of her before she's got her cloak off. A husband with his wife and their lad, she'll swallow. A man your size, with that face, running a woman out of Corinth on a feast day, and a boy to say she's no man's wife, she will not swallow, and nor will the magistrate's people at Puteoli, if somebody's..." The rest of it outran me. "I carried a man's wife once. Her husband's brothers came aboard at Ostia with cudgels, and mine was six, and she saw it."
 
 At the rail amidships a girl in a blue hood was eating a cucumber from the end, and watching us over it.
 
@@ -56,7 +57,7 @@ I found enough breath for Latin, if not much of it. "I am a free woman," I said.
 
 "Nobody's coming after her."
 
-"Then she's nobody's, which is worse." The master lifted his eyes to the yard, which had climbed another jerk while nobody watched it, and scowled at it. "Marry her, then, if you mean to, and be quick. That one at the plank can stand for it, and the boy. It wants no priest and no cake, only the two of you saying so with two others to hear it, the way it was done before there were priests to ask, and I don't care to be told how they manage it in Corinth. You have till the yard's at the top."
+"Then she's nobody's, which is worse." The master scowled up at the yard. "Marry her, then, if you mean to, and be quick. That one at the plank can stand for it, and the boy. It wants no priest and no cake, only the two of you saying so with two others to hear it, the way it was done before there were priests to ask, and I don't care to be told how they manage it in Corinth. You have till the yard's at the top."
 
 "Here?" Felix was up on his feet on the plank. "On the stones? With no torches? Who throws the nuts? You can't be married without nuts; they threw them at a bride at Kirrha till she hid behind her mother."
 
@@ -66,11 +67,11 @@ The yard went up another length of rope while he said it, and stopped, and went 
 
 The girl in the blue hood had eaten through to the last of her cucumber, the bitter knob at the stalk, and was holding it up to look at. My mother had cut that end off every cucumber she ever bought and rubbed the two cut faces together at the sink until a white froth came up between them, to draw the bitterness out, and then she had eaten the end herself, standing, with salt.
 
-Valens faced me with flour dried white in the hair of his forearms and the crown hanging from his hand, gone thin, and he gave me the look he gave a stretch of road before he took the mules onto it.
+Valens faced me with flour dried white in the hair of his forearms and the crown hanging from his hand, and he gave me the look he gave a stretch of road before he took the mules onto it.
 
 "Will you be my wife, Mara?"
 
-"Yes." There was no voice under it, and it broke in the middle with the run still in it. I got the rest of my breath and asked him back. "Will you?"
+"Yes." There was no voice under it, and it broke in the middle with the run still in it. "Will you?"
 
 "Yes," said Valens.
 
@@ -84,7 +85,7 @@ Felix had loosed his hold on the plank, and he was crying open-mouthed, as a far
 
 "We're all of us watching the yard," I told him.
 
-Valens held out the crown. Felix took it and stared at it, at the bare twists and the few needles still clinging to them, and put it on, and cried underneath it.
+Valens held out the crown. Felix took it and put it on, and cried underneath it.
 
 "From the boys? Were you there when they came in? Which one had it?"
 
@@ -100,7 +101,7 @@ By then Valens had the thong of his pouch undone. He took out the watch and laid
 
 The case held the heat of him. There was flour packed in the links of the band and a bloom of it on the crystal over the small nick by the two, and I wiped it clean with my thumb. Beneath, the finest of the three hands swept on, small and steady, the only thing on that quay that moved without being shouted at. I put my nail to the crown to give it its turns, and the crown stood hard against my nail; the spring was wound tight to its end.
 
-The hands stood at twenty to one, and beside my foot the mooring post laid a shadow on the stone shorter than my sandal, tipped a little east. A year ago in his yard he had read me ten past nine off this dial while the spout's shadow still slanted long over the trough at early morning.
+The hands stood at twenty to one, and beside my foot the mooring post laid a shadow on the stone shorter than my sandal, tipped a little east.
 
 He was watching the dun.
 
@@ -120,11 +121,11 @@ He hauled. She leaned. He slid toward her a step at a time, his heels skidding o
 
 "Keep off her heels," Valens said, too late.
 
-The dun kicked with both hind feet together, and the sailor went over backward across a coil of cable and landed seated in the middle of it.
+The dun kicked with both hind feet together, and the sailor went over backward across a coil of cable and landed seated in it.
 
 "I stood witness for you," the sailor complained from the coil. "I stood up and witnessed for you, and that's your mule."
 
-Out on the water the rowers got to their feet in their boat to see, which rocked it, and they cheered him. "Give him another!" one of them shouted. At the ring the black took fright at the cheering, dragged her knot loose and made off, trotting, her rope snaking after her straight through a fish-seller's baskets, so that sprats skated over the stone in a bright spill; the fish-seller threw one after her and hit a dog.
+Out on the water the rowers got to their feet and cheered him. "Give him another!" one of them shouted. At the ring the black had dragged her knot loose and was off, trotting, her rope snaking after her straight through a fish-seller's baskets, so that sprats skated over the stone in a bright spill; the fish-seller threw one after her.
 
 "Who's paying for those?" the fish-seller shouted. "That black's yours, is she?"
 
@@ -134,7 +135,7 @@ Out on the water the rowers got to their feet in their boat to see, which rocked
 
 "The yard's up!" the master shouted. "Muleteer! Aboard or off the plank, the lot of you, and I'm not particular which!"
 
-It was. The yard had risen hard under the masthead and stopped, and the men at the rope were making it fast to a pin, and the sail hung beneath it in its lines, waiting to be let down. On the mole somebody was lifting the stern rope off its post.
+The yard had risen hard under the masthead and stopped, and the men at the rope were making it fast to a pin, and the sail hung beneath it in its lines, waiting to be let down. On the mole somebody was lifting the stern rope off its post.
 
 Valens, chasing the black, shouted without stopping. "Cover her eyes, Felix. Her eyes."
 
@@ -142,7 +143,7 @@ Felix hauled his tunic off. The crown came with it, and I caught it before it re
 
 I put the crown back on him.
 
-He led her up by the knotted sleeves. She went with her nose low, feeling for the plank with each forefoot before she trusted her weight to it; the plank sprang under her and she went on anyway. The other two came after her with no more urging than the dun's tail in front of their noses. Valens brought the black back with a sprat scale stuck to her nose and her flanks dark with sweat, and she went up behind them with no fuss at all.
+He led her up by the knotted sleeves. She went with her nose low, feeling for the plank with each forefoot before she trusted her weight to it; the plank sprang under her and she went on anyway. The other two came after her with no more urging than the dun's tail in front of their noses. Valens brought the black back with a sprat scale stuck to her nose and her flanks dark with sweat, and she went up behind them.
 
 Felix's head appeared at the stern rail beside the goose, bare-shouldered and crowned. "Do I get my tunic back," he called, "or is she wearing it to Italy?"
 
