@@ -86,9 +86,7 @@ Amelia smoothed the hair back off his forehead and stayed close, and neither of 
 
 "So I have two days," Bal said, without opening his eyes. "Two days to figure out how to beat Toma and get Lora and Viridia back."
 
-He pushed himself upright.
-
-This he could not take quietly. The burn across his front pulled tight, and the breath left him in a hiss. He swung his legs out and got his feet on the floor and stood.
+He pushed himself upright, and not quietly. The burn across his front pulled tight, and the breath left him in a hiss. He swung his legs out and got his feet on the floor and stood.
 
 The room tipped. His knees went loose.
 

@@ -4,7 +4,7 @@ The innkeeper hurried out from behind her counter at nearly a trot, drying her h
 
 She was a plump woman with a smile that started well before she reached them. Behind her the shutters stood open along the whole long wall, letting whatever breeze Londra had to offer wander between the tables. Six or seven people were drinking in the cool. One old man had his boots off under his table and was not ashamed of it.
 
-The stable boy's words had followed Bal in from the yard. Nobody should have known they were coming. But too many people had already seen Viridia: two guards, half a street, a man whose pipe had gone out. If they turned around now and rode back through the gate, somebody would ask why, and he had no answer ready.
+The stable boy's words had followed Bal in from the yard. That would be Amelia's letter, as Xavier had said, and it still sat badly with him that an inn in Raizen's own country had been told to look out for them. But too many people had already seen Viridia: two guards, half a street, a man whose pipe had gone out. If they turned around now and rode back through the gate, somebody would ask why, and he had no answer ready.
 
 He stood a step behind his lady with the bags and kept his face as empty as he could get it.
 
@@ -222,7 +222,7 @@ Now it was Bal's turn not to know.
 
 "If she makes a big enough statement fighting Raizen, she probably won't have to. If we win, she can demand pretty much anything she wants from him." He thought of Amelia's face when they had talked about it, and the smile she'd had at the end. "And from that smile, she's got something good in mind."
 
-"I take it we're slipping it into their drinks?" Bal asked.
+"About Lora's poison," he said. "Does it go in their drinks?"
 
 "That's the plan."
 
@@ -332,7 +332,7 @@ Nothing else remained to be done.
 
 The knock came the next morning and brought Bal bolt upright.
 
-Bal was out of bed and through into the servants' room before he was fully awake. He pulled the door to behind him, as far as it would go. Through the crack he watched Lora open the door.
+He was out of bed and through into the servants' room before he was fully awake. He pulled the door to behind him, as far as it would go. Through the crack he watched Lora open the door.
 
 It was Mrs. Locklan. A letter for her lady, she said. She hoped she wasn't too early.
 

@@ -58,7 +58,7 @@ The fire popped. Bal stayed in the quiet for a while.
 
 He spent the next few hours exploring his dormitory.
 
-There was not much of it, at first. The fireplace, the couch, the chair, the coffee table. One of the two doors across the room opened on a bathroom, white tile and a deep tub on clawed feet, and he closed that one again. The other opened on a bedroom, and he stood in the doorway with his mouth open.
+There was not much of it, at first. The fireplace, the couch, the chair, the coffee table. One of the two doors across the room opened on a bathroom, white tile and a deep tub on clawed feet, and he closed that one again. The other opened on a bedroom, and he froze on the threshold.
 
 It was easily twice the size of the one he'd had at the orphanage. That one had been his along with twenty other boys. This room had a four-poster bed with a canopy, and the bed was so big it looked as though five people could have slept in it without anybody kicking anybody. Across it lay a soft blanket, black, with a single rose embroidered on it in red so dark it was nearly black itself. A chest stood across the end of it, every bit as large as the bed called for.
 

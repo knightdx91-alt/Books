@@ -234,8 +234,6 @@ Bal frowned at her. "Says? Says where?"
 
 Amelia turned the book around and showed him the cover. Across the front, in neat ink, was a name he knew.
 
-His jaw dropped.
-
 "You're reading her diary?"
 
 Amelia laughed at his face.

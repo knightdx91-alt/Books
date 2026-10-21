@@ -82,13 +82,13 @@ He could have let it go there. He didn't.
 
 He waited. It took her a while. Her eyes lifted off the plate, slowly, and found his.
 
-"I like you too."
+"I like you too," he said.
 
 Her fork dropped.
 
 It hit the edge of the plate, rang off the silver, and went over the side of the table. Bal heard it land on the stone under the bench, two little bounces and then nothing. Viridia's hand stayed in the air where the fork had been.
 
-"But you," she began. "But you *said* she only told you it was my diary!" She said it so loud the Waves boy two tables down glanced over, and her whole face had gone red to the hairline.
+"But you," she began. "But you *said* she only told you it was my diary!" She said it so loud the Waves boy two tables down glanced over.
 
 Bal took the hand that had dropped the fork.
 

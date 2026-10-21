@@ -140,7 +140,7 @@ Bal remembered. He could still smell it.
 
 Ahead of them, Viridia turned her horse off the main street. North Street, Bal assumed, until she went straight past the third turning on the right. Soon after that she drew up at a stable yard attached to a long two-story building with its shutters thrown open. The painted board over the door said WINESPRING INN.
 
-Bal sent Lora a questioning glance. She lifted her eyebrows back at him and offered nothing.
+Bal sent Lora a questioning glance. Nobody had given Viridia directions to the Winespring, and she had found it without asking once. Lora lifted her eyebrows back at him and offered nothing.
 
 The inn's stable boy had been leaning in the shade of the yard wall. He came over at a run, and stood ready at Viridia's stirrup while she got herself down out of the saddle in all that gray skirt.
 

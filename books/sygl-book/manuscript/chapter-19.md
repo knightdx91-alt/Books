@@ -164,7 +164,7 @@ Bal grunted and leaned on it, and his blood rolled over theirs and took it.
 
 The cuts closed. They shut together, both of them, and pinched off his blood in midair. The two red threads fell back into his hand.
 
-On the two white palms, something was coming up from underneath. It was faint at first, a shadow of a line, then another line beside it. It darkened while the three of them watched, without anybody saying a word. Viridia held her hand up to the firelight. Lora's mouth was open. Her glasses had slid to the end of her nose and she let them stay.
+On the two white palms, something was coming up from underneath. It was faint at first, a shadow of a line, then another line beside it. It darkened while the three of them watched, without anybody saying a word. Viridia held her hand up to the firelight. Lora had forgotten to breathe. Her glasses had slid to the end of her nose and she let them stay.
 
 Some minutes later the marks on their palms were the blood sygl, as dark as Bal's own.
 
