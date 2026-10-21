@@ -180,3 +180,20 @@ Housekeeping (not scored): update the Magic ledger (blood dagger → 25; runes �
 **POLISH. Genesis Floor 7.5 / Average 8.4; Casual 8.5. FAIL at the 8.5 gate on one mechanical cap (Characters). With F1–F14 applied, the chapter projects to Floor 8.5: PASS.**
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+## Revision applied (2026-10-21, book-editor)
+All of F1–F14 were applied as quoted, except for the wording changes listed below. The prose is now about 3,068 words, inside the 2,900–3,500 range.
+- **F1–F8 clusters.** The letter opening now keeps only the toss, the turn-over and the seal. "She worked a thumbnail under the wax" is also cut, because toss, turn and thumbnail made 3 prop moves in about 60 words. Two extra breaks: "The nearest priest saw Bal come in" became "As Bal came in, the nearest priest beckoned", and "Bal stood by the wall the whole of it" became "Bal spent the whole of it by the wall" (posture had 3 in 240 words). The optional L224 swap was also applied: "Bal got her moving toward the stable."
+- **Gate-driven variants of the quoted swaps** (book-wide repeat gates):
+  - F12: "What're you talking about?" The uncontracted form made "what are you" 3x book-wide, with Ch.5 and Ch.9.
+  - F8: "the cut sealed" in place of "the split sealed", which echoed Ch.20 L72.
+  - F14: "and not a sound" in place of "no sound at all", which echoed Ch.2 L7.
+  - F7 L68: "Then he headed around to the front" in place of "He went around", because "he went around" was 3x with Ch.16 and Ch.22.
+- **Author rulings:** the dagger comes from the right palm, which is the free hand. The left hand holds the cup, the palm opens on its own and seals after. The purification rune works as soon as it is carved, with no charging step. The chapter needed no change for either ruling.
+- **Gates (Ch.1–25):**
+  - style_check: clean (Ch.25: simile 2.6/1K, em-dash 0, "the way" 0).
+  - grammar_check: clean.
+  - voice_wear_check: clean.
+  - tic_report --gate: clean.
+  - Approximate 500-word gesture scan: no clusters.
+- **Housekeeping still open:** add blood dagger → 25 and runes → 9, 25 to the Magic ledger.
