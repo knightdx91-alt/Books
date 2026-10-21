@@ -20,6 +20,7 @@ CH="manuscript/chapters/chapter-${N}.md"
 
 line() { printf '\n=== %s ===\n' "$1"; }
 
+run_all() {
 line "1. STYLE (too-flowery)";      python3 tools/style_check.py 2>&1 | grep -iE "Ch *${N}\b|CEILING|RESULT"
 line "2. GRAMMAR (hard)";           python3 tools/grammar_check.py 2>&1 | grep -iE "chapter-${N}\.md:|^RESULT|RESULT:"
 line "3. RHYTHM";                   python3 tools/rhythm_check.py 2>&1 | grep -iE "chapter-${N}\.md|TOTAL"
@@ -37,3 +38,14 @@ line "JUDGEMENT GATES (not mechanical — do these by hand every chapter)"
 printf '  [ ] Genesis Floor >= 8.5 (book-evaluator, 7 dims) -> evaluations/chapter-%s-eval.md\n' "$N"
 printf '  [ ] PACING check vs neighbors (length band, dialogue share, emotional slot, hook)\n'
 printf '  [ ] update feedback/progress.md + feedback/pov-map.txt\n'
+}
+
+# Exit status reflects the gates (it used to exit 0 even when a gate printed FAIL — the evaluator caught it on
+# Ch.20). Non-zero means: read the FAIL lines above before trusting the chapter.
+OUT="$(mktemp)"; trap 'rm -f "$OUT"' EXIT
+run_all 2>&1 | tee "$OUT"
+FAILS=$(grep -cE "RESULT: *FAIL|over a figurative ceiling" "$OUT" || true)
+if [ "$FAILS" -gt 0 ]; then
+  printf '\n*** %s gate line(s) FAILED — the chapter is NOT clean ***\n' "$FAILS"; exit 1
+fi
+printf '\nALL MECHANICAL GATES CLEAN\n'
