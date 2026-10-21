@@ -273,6 +273,14 @@ def short_reply_counts(text, names):
                 k = " ".join(w); counts[k] = counts.get(k, 0) + 1
     return counts
 SO_STREAK_WATCH = 4
+# PRESENT-TENSE GENERALISATION in past-tense narration: "the way cords hold up a blind", "as a far younger
+# boy cries", "after somebody has gone off it" — the narrator stepping out of her moment into a timeless
+# present inside a comparison (Hour of Ash ch.13, 15, 18 each lost a polish cycle to these). Cap 1 per chapter.
+_PT_VERBS = ("does|do|is|are|has|have|holds|hold|goes|go|cries|cry|looks|look|moves|move|gets|keeps|comes|makes|takes|"
+             "knows|stands|sits|says|talks|runs|walks|needs|wants|feels|seems|lies|falls|turns|leaves|carries|watches|waits")
+PRESENT_SIMILE_RX = re.compile(r"\b(?:the way|as|like|after|when) (?:a|an|the|somebody|someone|people|men|women|children|anyone|"
+                               r"everyone|nobody|any|\w+s)\b[^.;:\n]{0,30}?\b(?:" + _PT_VERBS + r")\b(?! (?:to|been)\b)", re.I)
+PRESENT_SIMILE_MAX = 1
 
 def reflex_scan(files):
     rows, flags = [], []
@@ -298,6 +306,9 @@ def reflex_scan(files):
         so_open = len(SO_OPENER_RX.findall(t))
         before = len(BEFORE_DECIDED_RX.findall(nar))
         hinges = len(HINGE_RX.findall(t))
+        pts = [m.group(0) for m in PRESENT_SIMILE_RX.finditer(re.sub(r"\s+", " ", nar))]
+        if len(pts) > PRESENT_SIMILE_MAX:
+            flags.append(f"present-tense generalisation in narration: {len(pts)} in chapter {ch} (cap {PRESENT_SIMILE_MAX}): " + "; ".join(repr(x) for x in pts[:4]) + " — keep the comparison in her past")
         hcap = max(HINGE_MIN_CAP, round(words / HINGE_WORDS_PER))
         if hinges > hcap:
             flags.append(f"hinge paragraph openers (So/Then/After that/Afterward…): {hinges} in chapter {ch} (cap {hcap}) — start on the thing itself")
