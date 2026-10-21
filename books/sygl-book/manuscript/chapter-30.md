@@ -116,6 +116,6 @@ Bal brought Lora up with him, and then Viridia, who came up grumbling, and then 
 
 The lamp was low. Somebody had turned the covers back already. Viridia fought a knotted bootlace and lost, and swore at it, and Lora had it undone before Viridia was finished swearing. Amelia took down her hair. Viridia staked out the wall side and dared anyone to argue, and nobody did.
 
-Bal lingered at the doorframe and gazed at those three beautiful women. The fire ticked behind him out by the couch. Nobody was hunting anybody.
+Bal lingered at the doorframe and gazed at those three beautiful women. The fire ticked behind him out by the couch. Lora's eyes were already closing. Nobody was hunting anybody, and they could all sleep.
 
 For the first time in his life, Bal was exactly where he belonged.
