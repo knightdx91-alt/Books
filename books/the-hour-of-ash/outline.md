@@ -601,14 +601,14 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Beat subversion:** *Genre beat:* the daring heist and the duel with the villain. *Subversion:* there is no duel. The villain is charming, the heist succeeds because a clerk is eating figs, and the danger is legal, not physical.
 
 ## Chapter 18: Lechaion
-**Ledger:** Single-scene (internal shape: *one hour on a quay*) · open: flat statement of fact (I) → `I-statement` · end: short punch → `punch` · 2,800 · dialogue 30–40% · theme present · 0 breaks · gear mid
+**Ledger:** Single-scene (internal shape: *under an hour on a quay, the same early afternoon as Ch.17's run, with a sail already going up*) · open: flat statement of fact (I) → `I-statement` · end: short punch → `punch` · 2,800 · dialogue 30–40% · theme present · 0 breaks · gear mid
 *(Lechaion harbor, spring, AD 72.)* · **HINGE (~41%)**
 
 **Premise:** The ship will only take a married couple, so they marry on the quay in ten words, with Felix and a sailor as witnesses. Valens gives her back her father's watch, wound.
 **Function in arc:** The diptych's hinge. Part One closes: lovers become spouses, and Greece is left behind.
-**Emotional anchor:** the watch, handed back on a wet quay as a wedding gift, already wound.
+**Emotional anchor:** the watch, handed back on a sunlit quay as a wedding gift, already wound.
 **Emotional surprise:** the wedding is ten words long and they nearly miss the ship over a mule.
-**Opening strategy:** a flat in-moment statement starting with "I" (more than 8 words), e.g. awake since the second watch, sitting on their bags. **Not** a summary of the coming wedding.
+**Opening strategy:** a flat in-moment statement starting with "I" (more than 8 words), a fact of the moment they reach the quay out of the run in the early afternoon (e.g. her lungs or her legs still in the run). The bags are already with Felix, who has had the mules on the quay since before sunrise, so nobody is sitting on them. **Not** a summary of the coming wedding, and **not** a re-narration of the run. **The sail going up at the end of Ch.17 is not waved away in a throwaway line:** the first beats show whose it is (their own ship making ready, or another vessel going out past them), and its pressure carries into the captain's condition. The quay is dry in the sun and the breeze is onshore; spray is fine, rain is not.
 **Key scenes/beats:**
 1. The captain's condition: a respectable man with his wife and boy, or no passage.
 2. **NON-NEGOTIABLE.** The wedding is consent before witnesses (Roman marriage needed no priest). Ten words. Felix cries; the sailor wants to get on.
@@ -626,7 +626,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Reading speed:** fast and practical; one still moment with the watch.
 **Word count target:** 2,800
 **Writer warnings:** No wedding vows or speeches. No narrator significance ("it was the beginning of everything"). Don't explain that he kept the watch wound; let her notice it is running, and near enough to the sun's noon that he must have set it by the shadow. End on action, not an aphorism.
-**Beat subversion:** *Genre beat:* the wedding as a lavish emotional set-piece. *Subversion:* it is ten words on a wet quay, conducted to satisfy a ship's captain, and the emotion is in a wound watch.
+**Beat subversion:** *Genre beat:* the wedding as a lavish emotional set-piece. *Subversion:* it is ten words on a sunlit quay, conducted to satisfy a ship's captain, and the emotion is in a wound watch.
 
 ---
 
@@ -734,7 +734,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Emotional surprise:** Mara's uncontrollable laughter when a man on the benches sneezes during the gravest testimony of Valens's life.
 **Opening strategy:** Rome in one long sensory sentence (more than 28 words): scaffolds, noise, the smell of the Tiber.
 **Key scenes/beats (alternating):**
-- **Court:** the Basilica Julia's tribunals, crowds, lawyers. Celer's advocate is smooth. Plautia veiled. Celer's paper is the backdated bill of sale (the record of the freedom is not in dispute, per Ch.12); the suit defeats it on the lanista's books, the date, or Celer having hired Valens for wages after the games ("After the sword I needed work", Ch.12).
+- **Court:** the Basilica Julia's tribunals, crowds, lawyers. Celer's advocate is smooth. Plautia veiled. Celer's paper is the backdated bill of sale (the record of the freedom is not in dispute, per Ch.12); the suit defeats it on the lanista's books, the date, or Celer having hired Valens for wages after the games ("After the sword I needed work", Ch.12). **Continuity (Ch.17):** the leaf carries no seal (the seals stayed on the knot of the book) and Celer holds the cut book, so the hearing must say on the page how the leaf is proved, e.g. by the living witnesses among the nine or by the magistrate's colleague of that year, and the choice is the writer's.
 - **NON-NEGOTIABLE.** Valens's testimony: plain, his name stated, the frame described. The sneeze. Mara's laughter. She is walked out.
 - **City:** Mara in the Forum she visited as a student in 1991, the stones she knew broken now whole. The **Flavian Amphitheatre rising in scaffolding**. She carries a gladiator's child to look at the arena being built, and doesn't think about it more than once.
 - **Court:** the verdict is money. Celer must return the dowry. Needing his praetorship more than his pride, he settles the rest privately: the price of quiet is that Plautia may see her son. (Custody is not a remedy in a dowry suit; the access is Celer's concession.) Celer genial in defeat. No violence, ever.
