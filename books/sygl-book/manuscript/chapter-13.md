@@ -238,7 +238,7 @@ Lora was smiling. He heard it in her voice, plain as anything.
 
 A small, delighted noise came from Viridia.
 
-"After that, the comments got worse. And the petty things. So I mostly stayed home. By day I trained, and by night I read. That's been my life for the last two years." Lora paused. "So it's taking some getting used to. Someone actually wanting to be around me."
+"After that, the comments got worse. And the petty things. So I mostly stayed home. By day I trained, and by night I read. That's been my life for the last five years." Lora paused. "So it's taking some getting used to. Someone actually wanting to be around me."
 
 ---
 

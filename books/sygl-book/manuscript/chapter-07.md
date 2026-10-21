@@ -260,7 +260,7 @@ Amelia's head came up.
 
 "Of course," Viridia said, perfectly straight-faced. "I'd die to have skin like yours."
 
-Amelia only studied her. Viridia looked back and didn't blink. A Waves boy at the next table over had stopped with his fork in the air and had his eyes on them, and nobody at the Blood table paid him any attention.
+Amelia only studied her. Viridia looked back and didn't blink. A Tempus boy at the next table over had stopped with his fork in the air and had his eyes on them, and nobody at the Blood table paid him any attention.
 
 Amelia's mouth twitched first. Then she put her head back and laughed, loud enough that half the hall turned around.
 

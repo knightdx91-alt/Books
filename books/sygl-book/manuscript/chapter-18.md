@@ -2,7 +2,7 @@
 
 Over the next six weeks they took a job almost every Saturday, and some weeks they found a reason to take one on Sunday too.
 
-The money hardly mattered. They needed the road. The castle had gone sour on them by degrees, and by the second week Bal could feel it before he was through the doors at breakfast. Conversations stalled when he came near and started up again behind him. A younger student he had never spoken to stepped off the stairs to let him by, as if Bal might be catching. Twice in the corridor near the library, someone said something loud enough to carry and low enough to deny. Both times it was the same advice. He ought to stay with his own kind.
+The money hardly mattered. They needed the road. The castle had gone sour on them by degrees, and by the second week Bal could feel it before he was through the doors at breakfast. Conversations stalled when he came near and started up again behind him. A Waves first year he had never spoken to stepped off the stairs to let him by, as if Bal might be catching. Twice in the corridor near the library, someone said something loud enough to carry and low enough to deny. Both times it was the same advice. He ought to stay with his own kind.
 
 His own kind, as far as the castle went, was Bal. There was a dorm full of it.
 
