@@ -2520,3 +2520,70 @@ Open contradictions: 33 → 37.
 - **Meta:** last_updated_chapter 17; chapters_tracked adds 17; last_updated_by, mode, source and the header comment are updated; `ch17_requested_checks` has 10 rows.
 - **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+
+## 2026-10-21: UPDATE re-sync (chapter 17 to the FINAL page)
+
+- **Input:** `manuscript/chapters/chapter-17.md` at HEAD (md5 f30159769ef065525de4b14f63dd19de). Since the UPDATE run on d6b3291, three commits changed it: the continuity repair 141731e (C-01, W-01..W-10), polish cycle 1 2b7ea36 (56 swaps) and finalize F1-F14 6ae6426. The repair also patched outline Ch.18 (the same-afternoon opener) and outline Ch.22 (how the leaf is proved).
+- **Numbering:** 274 → 270 paragraphs. Breaks now come after p91, p142 and p199.
+  - old p1..p107 = new p1..p107
+  - old p108 + p109 = new p108 (one speech of Mara's)
+  - old p110..p122 = new p109..p121
+  - old p123..p125 = new p122 (Mara's "Lose?" is cut)
+  - old p126..p182 = new p123..p179
+  - old p183 is cut (the bearers and the donkey; its boys-running clause moved into p226)
+  - old p184..p274 = new p180..p270
+  - Re-anchored by script: 744 explicit `ch-17:pYY` cites (485 shifted), plus the bare refs on Ch.17 lines, in the CH17-x blocks and in the recheck_ch17 fields, and two object `paragraph` fields (211 → 207, 193 → 189). Four bare-ref lines matched only because they mention Ch.17, but belong to Ch.16 (CH16-10 prose, two ch16_requested_checks rows and knowledge_absent_ch16). I caught them and restored them by hand. The four cites to old p183 were rewritten with their facts.
+  - `meta.ch17_requested_checks` keeps the d6b3291 numbers and quotes. It is labelled as such and has a new RE-SYNC row.
+  - `paragraph_rule` has the new Ch.17 map and sections. There are now six HTML comment lines, so on the final file line 10 = p1.
+- **Page changes carried into the YAML:**
+  - **Time of day (C-01):** the litter leaves the door "by the porch bench" (p14), and the hem is trodden "by the fuller's" (p215). The roof scene is now "in the cold before sunup" (p85). This updates the timeline row 17 sequence, Plautia's and Mara's location_log, the brother's house facts and the Corinth fact.
+  - "the year Nero was here" (p26): Mara's knowledge and vettius-first-book.
+  - Celer:
+    - "Come out tomorrow, why don't you? Look down on us from the ladies' benches" (p162);
+    - "a farm of his own" (p174);
+    - "an entry in a magistrate's book" (p177);
+    - "hid it in his toga";
+    - "the glare of the forum" and "six paces of good planking" (p171; p189);
+    - the toga "the Isthmus road had powdered it down one side" (p148);
+    - Plautia's new litter sent back over a ladder (p83).
+  - Valens:
+    - "They'll take his money too, if he offers it." (p111);
+    - "He'll talk at her till she agrees to something." (p138; "two summers and two winters" is cut);
+    - he stands "a pace from her, between her and the forum" (p146; no longer "at her back");
+    - the leaf read "to the end of the witnesses" (p100);
+    - his thumbs leave flour on the frame (p97).
+  - The leaf goes "between two of Plautia's letters" (p69).
+  - The trainer: "in a Greek that was not Corinth's" (p240). The `alexandrian-trainer` slug is kept, with a note.
+  - The washing on the garden wall replaces the dog (p270, lechaion-road).
+  - The arch's "gilded bronze chariot … its horses green along their bellies"; the boys-running line moved into p226; the donkey is cut.
+  - The latrine (Fortuna, the long seat; the fat man without "Mistress.").
+  - The pine boys' and sausage-man's cries.
+  - The coin seller's folding table.
+  - The wall "gone to rubble in places".
+  - Felix's crown "half bald", Valens's fingers "sticky".
+  - The fig cake "sold in the market by weight".
+  - The record office's bare second table (p4).
+  - The scaffold, first seen at the door (p14; Plautia steps under it).
+- **Contradictions:**
+  - **CH17-1 RESOLVED.** The outline Ch.18 patch fits the same-afternoon arrival: "under an hour on a quay, the same early afternoon as Ch.17's run", the bags with Felix, and a "sunlit" quay, "dry in the sun". Timeline row 18 and locations.lechaion now take the patched outline, with the old values kept as `plan_was`. The bible's "awake since the second watch" is still a bible-sync item (CH17-6).
+  - **CH17-2 RESOLVED.** "since I was nineteen" (p205) gives born about AD 44, about 27-28 in spring 72. That agrees with "thirty, or a little under". The derivation is added to plautia.physical.age.
+  - **CH17-3 RESOLVED.** "the autumn before last" (p174) is autumn AD 70, which matches Dadaphorios AD 70.
+  - **CH16-8:** a new `recheck_ch17_final`. "Her woman can come to Puteoli for it. Walk." (p218) means Myrrhine is no longer expected on the quay, so the sharper Ch.18 constraint is withdrawn. The base item (the household's "My wife" against the Lechaion wedding) stays UNRESOLVED.
+  - **CH17-5 stays UNRESOLVED.** The audit's suggested path ("inferred", via Delphi talk and his man) is recorded as `audit_note` on CH17-5 and `audit_path` on knowledge_index.syracuse_cover. The page still shows no path.
+  - **CH17-6:** the prose field is updated (ladies' benches; "Is that wax my father's?").
+  - **CH17-8 NEW (low).** Mara uses a public latrine with men on the Lechaion road (p246-p252). That goes against the Ch.7 OBSERVED rule (ch-07:p36; CH14-7 was repaired to agree with that rule). The scene was on the d6b3291 page too, and the UPDATE missed it. A `ch17_note` is added to the world rule.
+  - **Open count:** 40 → 38.
+- **Audit and eval patches applied:**
+  - `valens.inventory` mules ch17_note: four to Lechaion, "the two that had found no buyer" (F4), and the gray's fate unstated (I-13);
+  - plautia age (W-04);
+  - `objects.manumission-record.forward_ch22` from the patched outline Ch.22 (W-10: unsealed leaf, Celer holds the cut book, six living witnesses);
+  - the pen-knife forward and `the-knife-comes-home` thread moved to Puteoli (W-09);
+  - pine crown "half bald" / "sticky";
+  - the gilded chariot.
+  - The rest of the audit's suggested patches were already in from the UPDATE run (onesimus, Sextus, Celer's physical and knowledge, CH12-5, the pen-knife, the pine crown, the timeline).
+- **Checks:**
+  - Every single-quoted Ch.17 fragment was checked against the final page by script. The only misses left are deliberate history (the labelled d6b3291 quotes, the outline and bible quotes).
+  - Quotes were also checked against their cited paragraphs. There is 0 new mismatch, except one deliberate history note ("at her back").
+  - No cite is above p270 outside the labelled requested-checks block.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. 269 characters, 81 locations, 114 objects, 129 contradiction rows.
