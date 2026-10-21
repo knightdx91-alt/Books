@@ -274,8 +274,11 @@ Distinguish characters on **four axes** first:
 - **DISTINCTNESS GUARANTEE:** the only character who speaks about people as property and appeals over
   their heads to Aren, against Amelia, who speaks to her followers directly and calls them hers to
   protect, not to keep.
-- **Sample line:** "Do you see? This is why we locked Amelia away in the first place. Her followers are
-  too dangerous!" (p.180; Ch.29) *(spoken lines not yet on page — seeded from source)*
+- **Sample line:** "Do you see? This is exactly why we locked Amelia away! Her followers are too dangerous!"
+  (p.180; Ch.29) *(ON PAGE Ch.29 — confirmed by Writer: shaking in his orange monk's clothing, levels a finger at
+  Bal while speaking to Aren; "That's it? She just gets away with taking my High Priest?"; shakes with rage head to
+  foot; fear replaces rage at Amelia's demand; sent off mid-protest. Never addresses Bal. "in the first place"
+  dropped from his line to keep the phrase-recurrence gate clean.)*
 
 ---
 
@@ -354,7 +357,7 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - DISTINCTNESS GUARANTEE: the unhurried horse of the journey, against Barda, the warhorse of the race.
 - Sample line: none (non-speaking).
 
-#### AREN (by night NERA) — originator of the Duality sygl; the eldest; the gods' arbiter (Ch.6; Ch.21 reported; Ch.29)
+#### AREN (by night NERA) — originator of the Duality sygl; the eldest; the gods' arbiter (Ch.6; Ch.21 reported; Ch.29) *(ON PAGE Ch.29 — confirmed by Writer: by day, white beard stirring in the breeze; troubled at Toma; rulings and lines per source; snaps his fingers twice ("one dry click"; "snapped again") — Amelia's snap rendered differently ("a bright, decided little crack"); smooths his beard instead of clearing his throat; "I must return" (for "I've got to get back", phrase gate); "Try not to start another war"; no nods/head shake)*
 - Attention / worldview: order and the rules — who may attend, what the war rules allow, what is fair
   under them; does not take sides until the rules force a ruling (declares Amelia the winner; lifts the
   school rule as her concession). Explained to Amelia what she had become (Ch.8). Will not step into the
@@ -756,7 +759,7 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - DISTINCTNESS GUARANTEE: the race horse of the book, against Thistle's plod.
 - Sample line: none.
 
-#### HIGH PRIEST TOMA — Raizen's High Priest (Ch.18 file; Ch.28 letter; Ch.29 duel) *(Ch.28: letter only, a neat upright sure hand, "pet originator" in the postscript; not yet on page — Ch.18: named only in Fern's file and Raizen's statement "through his High Priest"; card stands until Ch.28/29)*
+#### HIGH PRIEST TOMA — Raizen's High Priest (Ch.18 file; Ch.28 letter; Ch.29 duel) *(Ch.28: letter only, a neat upright sure hand, "pet originator" in the postscript — Ch.18: named only in Fern's file and Raizen's statement "through his High Priest" — ON PAGE Ch.29, confirmed by Writer: blue robes with lightning bolts sewn in silver thread; holds up a hand to halt Bal; grief line delivered with the polish worn off his voice, then the priest 'returns to cover the man'; "Agreed" (rendered for the source's nod); "Czak"; brushes a clean sleeve at "Is that it?"; primal cry; smile goes ugly at "Akora"; laughs during the glass; after the conversion rocks on the sand, red tears, "What have you done to me?", blood sygl on his palm; a fly on his knuckles he does not brush off; sent to the school by Aren. Source slip fixed: the "cannot hear you" line (source gives it to Lora) is Toma's.)*
 - Attention / worldview: the rules of the duel and the grief of a man whose priests were killed; real
   care for his fellow priests (give it its line); cruelty promised in return; takes the girls as leverage
   and keeps them unharmed.
@@ -773,7 +776,7 @@ re-read and confirmed (or corrected against the page) the moment the character e
 - Sample line: "Yes, I can see that you care for them. As I cared for my fellow priests, but at least
   yours are still alive." (p.175–176; Ch.29)
 
-#### AKORA — Toma's life-bonded storm elemental; becomes the blood elemental (Ch.29) *(not yet on page — seeded from source; Writer confirms on first appearance)*
+#### AKORA — Toma's life-bonded storm elemental; becomes the blood elemental (Ch.29) *(ON PAGE Ch.29 — confirmed by Writer: rises where the bolt struck, taller than three men, white-and-blue, shaped something like a man and something like a thunderhead; burst sand wall into glass shards; lashes of electric light; spins into a maelstrom around a hollow; the core is a knot of brighter light; converted, a column of swirling blood that spills no drop and follows Bal with a low wet rushing; Amelia sends it to her domain. Bal recalls Fern's file: 'No inheritance gift.')*
 - Physicality: a crackling being of pure electrical energy; whips of electricity; swirls to pull Bal into
   its maelstrom; a core. Converted, it becomes swirling blood and follows Bal; Amelia sends it to her
   domain to study. Other axes: none (non-speaking). Life-bonded inheritance gift, so not a familiar.
