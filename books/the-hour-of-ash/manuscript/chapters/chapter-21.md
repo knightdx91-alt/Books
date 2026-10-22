@@ -31,7 +31,7 @@ Before noon the carter who ate Grata's fish on his bread came by with his cart e
 
 Grata crossed to me soon after with the end of a loaf and a piece of cheese on it, and left it on my plank, clear of the scales.
 
-"I've told nobody, so you can take that look off your face. That one's told the whole road to the Sarno Gate, he'd sell his mother's secrets to a mule for a carrot. Get that down you. You've not told your man yet. I'd know it if you had, he'd have been at my counter for a jug by first light, they always are, and then they lie on their backs all the next day and leave the work to you." She lifted the scales' pan on one finger and let it fall back on its chains. "Tell him before the carter tells him, that's all I'll say, and the cheese is sheep's, it'll sit."
+"I've told nobody, so you can take that look off your face. That one's told the whole road to the Sarno Gate, he'd sell his mother's secrets to a mule for a carrot. Get that down you. Your man doesn't know yet. I'd know it if you had, he'd have been at my counter for a jug by first light, they always are, and then they lie on their backs all the next day and leave the work to you." She lifted the scales' pan on one finger and let it fall back on its chains. "Tell him before the carter tells him, that's all I'll say, and the cheese is sheep's, it'll sit."
 
 "He is not home till dusk."
 
@@ -55,11 +55,9 @@ They came in as the light failed. Felix led the string round to the stalls, whis
 
 "The lime carter. At the crossing." In his hand were two leaves of wood bound face to face with a cord, and wax in the knot. "He'd been to Puteoli. He looks at the board for me."
 
-Everything I had arranged all day to say left me. I had pictured a quiet place to say it in, the roof perhaps, after supper, with Felix asleep. I had pictured his face.
-
 "Valens. I am going to have a child."
 
-He stayed on the sill. The scales on the lintel turned a little on their hook in the draft. His eyes held on my face and went nowhere else.
+He stayed on the sill.
 
 "Who knows?"
 
@@ -185,7 +183,7 @@ A short bald man walked up the tunnel from the arena end with three young fighte
 
 "I did."
 
-"It's soft yonder, under the tribunal. They'll go down there." He returned to us off the sand, and looked at the rake, and at the hand on the rake. He looked at Valens's feet. "Do that again."
+"It's soft yonder, under the tribunal. They'll go down there." He returned to us off the sand and stood looking down at Valens's feet. "Do that again."
 
 "Do what?"
 
@@ -203,7 +201,7 @@ Felix had been perched on the passage wall with his seat tokens, swinging his le
 
 The three young men looked at Valens with the rake in his arm. One of them, the youngest, with a fresh scar still pink through his eyebrow, looked at him longest.
 
-Felix slid down, wordless. He stood by the dun with the string of bone tokens in his fist, and those hands of his, never still, had stopped altogether, and his face had gone the color of the sand.
+Felix slid down, wordless. He stood by the dun with the string of bone tokens in his fist, and his face had gone young.
 
 "I drive mules," Valens said.
 
@@ -319,11 +317,11 @@ It was a fat purse. It was more than the contractor would pay Valens between one
 
 "What became of him?"
 
-"Puteoli, the spring after. A retiarius had him in the net and the editor wanted blood that day." He looked up at my scales. "Is it true your husband never asked for the finger? Not once, in nine?"
+"He keeps a cookshop at Puteoli now, by the fish market. He's fat. I went in once." He looked up at my scales. "Is it true your husband never asked for the finger? Not once, in nine?"
 
 "You would have to ask him."
 
-"He'd not tell me." He tucked the purse away. "My master can wait for him until the Parilia. After that, he'll find another wolf."
+"He'd not tell me." He tucked the purse away. "My master can wait for him until the Parilia."
 
 Going, he stopped at Grata's and drank a cup standing, and paid for it, and Grata told him he'd clean nails. When he was gone she came across and stood in my opening with her arms crossed under her bosom.
 
@@ -331,7 +329,7 @@ Going, he stopped at Grata's and drank a cup standing, and paid for it, and Grat
 
 She had it ready for Valens when he got in at dusk, with her forearms on the counter and a jug already poured.
 
-"Sit down on that bench, you'll sit down, I've had men stop at my counter all day asking which door is the wolf's, and me with no answer for them but the door I let to a muleteer. Nine times on the sand and a sword off Caesar, and you've drunk my thin wine on that bench these two springs without a word, and paid, and that's better than the aediles do. That's the Falernian. You needn't eye it, it's paid for, it's paid for by the whole street. The fuller's woman sent it." She was round the end of the counter in a moment. "Look at the state of you." She brushed the sand off the shoulder of his tunic with the side of her hand, and then the far shoulder, and let her hand stay on it after the sand was gone. "Fabius's man's been in twice. He's a poor sort of freedman, he's got clean nails, he'll be in again tomorrow, so you'll sit on that bench where I've an eye on you and let him find you there, and I'll pour."
+"Sit down on that bench, you'll sit down, I've had men stop at my counter all day asking which door is the wolf's, and me with no answer for them but the door I let to a muleteer. Twenty times on the sand, the baths have it, and a sword off Caesar, and you've drunk my thin wine on that bench these two springs without a word, and paid, and that's better than the aediles do. That's the Falernian. You needn't eye it, it's paid for, it's paid for by the whole street. The fuller's woman sent it." She was round the end of the counter in a moment. "Look at the state of you." She brushed the sand off the shoulder of his tunic with the side of her hand, and then the far shoulder, and let her hand stay on it after the sand was gone. "Fabius's man's been in twice. He's a poor sort of freedman, he's got clean nails, he'll be in again tomorrow, so you'll sit on that bench where I've an eye on you and let him find you there, and I'll pour."
 
 She had her earrings in, the gold ones with the little pearl that she kept for the baths. They were new to her counter.
 
@@ -339,7 +337,7 @@ Valens drank the Falernian standing.
 
 "That's good wine," he told her.
 
-"It's the best on this street, and you'll not get it free twice, so you'll sit next time."
+"It's the best on this street, and you'll not have it free twice, so you'll sit next time."
 
 He thanked her for it and crossed to our door, and she stood with her hand up where his shoulder had been.
 
@@ -353,7 +351,7 @@ I had unhooked the scales from the lintel, for the spice-seller was to fetch the
 
 "She gave you Falernian."
 
-"She gave me the fuller's wife's Falernian, in front of her bench. So the street sees she's no quarrel with me, when she puts us out." He laid the rag over his thigh and studied the burn. "She's never liked me. She watches me across that counter all day long."
+"She gave me the fuller's wife's Falernian, in front of her bench. So the street sees she's no quarrel with me, when she puts us out. She's never liked me. She watches me across that counter all day long."
 
 "She had her earrings in."
 
@@ -361,15 +359,13 @@ I had unhooked the scales from the lintel, for the spice-seller was to fetch the
 
 I lowered the scales onto the plank, very carefully. My face was doing something I could not stop. I turned it to the lamp until it behaved.
 
-"Fabius has gone up to three thousand," I told him, once my face was in hand. "His freedman put the earnest down on my plank so that a customer's cup rang."
+"Fabius has gone up to three thousand," I told him. "His freedman put the earnest down on my plank so that a customer's cup rang."
 
 He was still. "Where is it?"
 
 "I sent it home with him."
 
-He let his breath out and went on with the burn.
-
-"And Rome?"
+"And Rome?" I asked.
 
 "Fabius isn't Rome."
 
@@ -379,13 +375,13 @@ He raised his eyes from the burn.
 
 "At the show," I said. "You thought your hand went up unseen."
 
-"I saw you see it. You were the only woman on the rim not eating." He stretched the burned wrist out and closed the fingers on it. "My hand went up to them. I hadn't told it to."
+"I saw you see it. You were the only woman on the rim not eating. My hand went up to them. I hadn't told it to."
 
 "I saw."
 
 "Nobody at the Basilica," I said, "will want you to lift your hand. They will want you to say what happened. That is all."
 
-"They want my name. Said aloud, before a judge, and Celer's advocate, and every idler in the basilica that morning. And then a clerk writes it down." He turned the burned wrist up on his knee. "Here it's scratched on one pier, low down, in a boy's letters. After Rome, Celer knows where I sleep. His freedmen know. So does any man on those benches with a mind to sell it him: a Lupus with a Greek wife, in a cobbler's shop in Pompeii, beside a fish stall."
+"They want my name. Said aloud, before a judge, and Celer's advocate, and every idler in the basilica that morning. And then a clerk has it in ink. Here it's scratched on one pier, low down, in a boy's letters. After Rome, Celer knows where I sleep. His freedmen know. So does any man on those benches with a mind to sell it him: a Lupus with a Greek wife, in a cobbler's shop in Pompeii, beside a fish stall."
 
 "Celer knows already. You told him you were coming to Rome. He heard you."
 
@@ -407,15 +403,19 @@ He raised his eyes from the burn.
 
 "I know you do."
 
-I took the bed's foot, with the scales between us, and the pan swung on its chains and settled.
+I took the bed's foot.
 
 "You can be nobody in Pompeii for the rest of your life," I said. "You can cart stone and pay Grata's rent and wait, morning after morning, for a man in the street to look at you twice. And he will. Nicanor knew you by your heel. Felix will have told every boy in the barracks before the Kalends." I heard my voice go up, and could not bring it down. "Or you can go to Rome and say it once, aloud, and have it written, and be believed, and come home. And then if somebody looks twice, let him look."
 
-"Be believed," he said.
+"Have you got the other blanket in there?" It was Felix, from the shop. "I'm not listening. Have you, though? It's gone cold enough out here to crack the water jar."
+
+I pulled the second blanket off our feet and pushed it round the curtain's edge to him. It was snatched, and the shop creaked with him rolling himself up in it, and then was quiet.
+
+"Be believed," Valens said.
 
 "Yes."
 
-"By who? The judge?" He put the rag down. "The judge has never seen me. He's seen Celer, at dinner."
+"By who? The judge? The judge has never seen me. He's seen Celer, at dinner."
 
 "Plautia believed you, and her brother is paying your road on the strength of it. I believe you."
 
@@ -429,21 +429,21 @@ I took the bed's foot, with the scales between us, and the pan swung on its chai
 
 "And they'll ask about you." He said it to the burn. "Celer's advocate will. Who is the witness's wife. Whose daughter. Which house in Syracuse. He'll have a man at Syracuse before the heat, knocking on doors."
 
-I had a name in a clerk's book at Delphi, and a kinswoman whom everybody there believed had sailed, and nobody at all in Syracuse. I sat with my hands on the beam of the scales and said none of it, and he let it lie.
+I had a name in a clerk's book at Delphi, and a kinswoman whom everybody there believed had sailed, and nobody at all in Syracuse. I told him none of it, and he let it lie.
 
-Then his eyes were on me, on the scales and my hands, and his mouth began a word and gave it up.
+Then his mouth began a word and gave it up.
 
 "The Ides is three months off," he said.
 
 "Less."
 
-He lay back with his burned wrist on his chest and closed his eyes. Next door Grata was laughing at something her husband had said, from low down in her chest.
+He lay back and closed his eyes. Next door Grata was laughing at something her husband had said, from low down in her chest.
 
 * * *
 
-Felix missed the string three mornings running in the last month of the winter. On the fourth Valens went out with the string alone. At nightfall he mentioned that he had not had to give his name once all day; the other muleteers said it for him now. He ate leaning on the doorpost. Then he lifted the lamp down and left, and I threw my cloak on and caught him up at the fountain.
+Felix missed the string three mornings running in the last month of the winter. On the fourth Valens went out with the string alone. At nightfall he mentioned that he had not had to give his name once all day; the other muleteers said it for him now. He ate leaning on the doorpost. Then he left, lamp and all, and I threw my cloak on and caught him up at the fountain.
 
-We went on past it in the dark, and turned left for the theaters, with every shutter closed along the way and the lamp throwing our two shadows ahead on the paving stones. I had had a burning under my breastbone since the Saturnalia and no Latin word for it. I called it, to Grata, the fire under the bone. Grata had laughed until she wept and given me a lump of chalk to suck, and it had worked.
+We went on past it in the dark, and turned left for the theaters, with every shutter closed along the way and the lamp throwing our two shadows ahead on the paving stones. I had had a burning under my breastbone since the Saturnalia and no Latin word for it. I called it, to Grata, the fire under the bone. Grata had laughed at me for it and given me a lump of chalk to suck, and it had worked.
 
 "Where will he be?"
 
@@ -455,7 +455,7 @@ We went on past it in the dark, and turned left for the theaters, with every shu
 
 "Fifteen, then. Sixteen."
 
-"Of an age to swear himself to a lanista, if one will have him." He changed hands on the lamp at the turning. "There's no paper on him. I never had one made. Nobody can stop him but Nicanor."
+"Of an age to swear himself to a lanista, if one will have him. There's no paper on him. I never had one made. Nobody can stop him but Nicanor."
 
 "Can you?"
 
@@ -473,7 +473,7 @@ The barracks were at the theaters' back, in what had been a great walk of column
 
 Felix was sitting under the lamp with his back to the gatepost, his knees drawn up. He had a nail in his hand. He was working at the plaster beside his shoulder and did not hear us until Valens's shadow went over him.
 
-He had scratched a palm branch. It was not much bigger than my hand: a stem, with short strokes slanting upward off it to left and right, close together, the way the branch had been when the slave trotted out with it and the fighter lifted it to the benches. Each cut showed fresh and white. He had cut the stem twice over, so that it sank deeper. It stood by itself, with no name over it and none under it.
+He had scratched a palm branch. It was not much bigger than my hand: a stem, with short strokes slanting upward off it to left and right, close together. Each cut showed fresh and white. He had cut the stem twice over, so that it sank deeper.
 
 "Nicanor says I've the shoulders for it, or will have," Felix said, before we had a word out. He kept his seat against the post. "He had me in the yard this afternoon with a stick. Too old to start and too thin to finish, and I'm to try him again when I've a beard. You were worse, he says, your first month, that you couldn't keep a shield up while a man said his own name, and you were bigger than me." He drew the nail down the last of the palm's strokes, slowly, deepening it. "He says you never told me because you're ashamed. Are you? Why would you be? They shouted it round the whole bowl. I heard them."
 
@@ -505,11 +505,11 @@ The porter had gone in at the sound of Felix's voice. Now the gate opened a crac
 
 "You take them all."
 
-"I took you." He glanced at me, at the cloak I held shut across my belly, and back at Valens. "Go home. Both of you. It's cold for her out here."
+"I took you." He looked at the cloak I held shut across my belly. "Go home. Both of you. It's cold for her out here."
 
 He shut the gate. The bar went across on the inside. Somewhere in the yard a wooden sword clattered on the paving, and a young voice swore at it, and someone laughed.
 
-Valens held the lamp to the palm. Inside, the wooden swords went on knocking, slower now, with Nicanor's voice between the blows, too far off for words. I fitted my thumb into the topmost stroke. The plaster crumbled at the edge of it, a little, and the white came away on my skin.
+Valens held the lamp to the palm. Inside, the wooden swords went on knocking, slower now, with Nicanor's voice between the blows, too far off for words. I fitted a fingertip into the topmost stroke. The plaster crumbled at the edge of it, a little, and the white came away on my skin.
 
 "He cannot write his name."
 
