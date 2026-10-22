@@ -20,8 +20,8 @@ language: "en"
 revision: "r1"                        # stamps full-manuscript-r1.md and the interior PDF names
 
 # --- ebook ------------------------------------------------------------------
-isbn: "EBOOK-ISBN"                    # PLACEHOLDER — the EBOOK ISBN (not a print one)
-isbn_hyphen: "EBOOK-ISBN"             # same, formatted for the copyright page
+isbn: "9798182959414"                 # EBOOK ISBN (not a print one)
+isbn_hyphen: "979-8-1829-5941-4"     # same, formatted for the copyright page
 cover: "delivery/cover/ebook-cover-sygl.jpg"   # final front cover (Canva art A + type)
 out: "delivery/ebook/Sygl.epub"
 edition: "First Edition 2026 &#183; Ebook Edition"
@@ -30,12 +30,12 @@ desc: "A one-handed orphan with no sygl finds Amelia, the imprisoned originator 
 # print interior. The print ISBNs are listed alongside the ebook one.
 copyright_extra:
   - "All characters in this book are 18 years of age or older."
-  - "Paperback ISBN PRINT-ISBN-PAPERBACK<br/>Hardcover ISBN PRINT-ISBN-HARDCOVER"
+  - "Paperback ISBN 979-8-1829-5940-7"
 
 # --- print (read by tools/build_interior.py; ignored by make_epub) ----------
 print:
-  isbn_paperback: "PRINT-ISBN-PAPERBACK"   # PLACEHOLDER
-  isbn_hardcover: "PRINT-ISBN-HARDCOVER"   # PLACEHOLDER
+  isbn_paperback: "979-8-1829-5940-7"
+  isbn_hardcover: ""                       # none yet — hardcover needs its OWN ISBN; line omitted until set
   trim: {width: 5.0, height: 8.0}          # inches; paperback AND hardcover (case laminate) share ONE interior
   interior: "B&W, cream paper"
   paper_stock: cream50                     # IngramSpark cream 50#, 0.0025"/page (tools/compose_wrap.py PAPER_STOCKS)

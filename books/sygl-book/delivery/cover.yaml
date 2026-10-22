@@ -1,0 +1,42 @@
+# Cover wrap config for tools/compose_wrap.py  (Sygl — PAPERBACK)
+#   python3 tools/compose_wrap.py books/sygl-book
+#
+# 5 x 8 trim, IngramSpark CREAM 50# -> spine 392 x 0.0025" = 0.980".
+# The HARDCOVER (case laminate) needs its own ISBN and IngramSpark's own cover template; not this file.
+pages: 392                    # final interior physical page count (Sygl-5x8-interior-r1)
+paper: {stock: cream50}
+isbn: "979-8-1829-5940-7"     # PAPERBACK print ISBN -> EAN-13 (no price add-on)
+metadata:
+  title: "Sygl (paperback cover)"
+  author: "Søren Stromberg"
+output:
+  dir: delivery/cover
+  name: Sygl-5x8-paperback-WRAP
+trim: {width: 5.0, height: 8.0, bleed: 0.125, safe: 0.375}
+palette: {bg: "#070405", primary: "#F1E6D6", secondary: "#D8C4AD", accent: "#D6AA64"}
+front:
+  art: delivery/cover/front-cover-sygl-2x.png   # final front (Canva art A + type), 3200 x 5120
+  trim_white_strip: false
+spine:
+  title: SYGL
+  author: "Søren Stromberg"
+  title_size: 16
+  author_size: 11
+  title_offset: 1.2
+styles:
+  hook:    {font: bolditalic, size: 12,   leading: 16,   color: primary,   align: center, space_after: 13}
+  para:    {font: regular,    size: 9.8,  leading: 14,   color: secondary, align: left,   space_after: 8}
+  closing: {font: italic,     size: 9.8,  leading: 14,   color: primary,   align: center, space_before: 4, space_after: 8}
+  note:    {font: bold,       size: 9,    leading: 12,   color: accent,    align: center, space_after: 0}
+back:
+  frame_gap: 0.25
+  blocks:
+    - {style: hook, text: "Nobody claims a boy born with the Blood sygl."}
+    - {style: para, text: "Bal Norheart lost his left hand for it before he could crawl. No sygl, no school. That was the rule."}
+    - {style: para, text: "Then the sealed temple behind his orphanage flickers. Bal flies a bedside rug through a roof that isn&#8217;t there, and finds Amelia: the Vampire Goddess, locked away by the other gods for three thousand years and furious to learn the world calls her a myth."}
+    - {style: para, text: "One drink of her blood, and Bal has a hand again. One binding vow, and the goddess is his familiar. She walks out the front door beside him, straight into the Heir&#8217;s School of Magykal Artes and the empty throne the gods kept for her."}
+    - {style: para, text: "Now Bal is the school&#8217;s only Blood student, the High Priest of a goddess everyone fears, and the one mage alive who can change a person&#8217;s sygl. He can do it only if they want it. Viridia, the storm-haired heir of the god Raizen, and Lora, the shy rapier prodigy, are starting to want a great many things."}
+    - {style: para, text: "And the god Raizen does not share what is his."}
+    - {style: closing, text: "The gods play with their followers like toys. Amelia has a better idea: play their game, and break their toys."}
+    - {style: note, text: "Closed-door romance. All romantic leads are 18+."}
+barcode: {enabled: true, width: 1.9, height: 1.1}

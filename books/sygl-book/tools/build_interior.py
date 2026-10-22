@@ -191,9 +191,10 @@ def story_for(chapters, pad):
         "resemblance to actual persons, living or dead, events, or locales is "
         "entirely coincidental.",
         "All characters in this book are 18 years of age or older.",
-        f"ISBN {html.escape(pi['isbn_paperback'])} (paperback)<br/>"
-        f"ISBN {html.escape(pi['isbn_hardcover'])} (hardcover)<br/>"
-        f"ISBN {html.escape(CFG['isbn_hyphen'])} (ebook)",
+        "<br/>".join(
+            [f"ISBN {html.escape(pi['isbn_paperback'])} (paperback)"]
+            + ([f"ISBN {html.escape(pi['isbn_hardcover'])} (hardcover)"] if pi.get("isbn_hardcover") else [])
+            + [f"ISBN {html.escape(CFG['isbn_hyphen'])} (ebook)"]),
         f"First Edition {CFG['year']}",
         html.escape(CFG.get("publisher") or AUTHOR),
     ]
