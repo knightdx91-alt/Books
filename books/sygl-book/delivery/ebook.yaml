@@ -32,6 +32,24 @@ copyright_extra:
   - "All characters in this book are 18 years of age or older."
   - "Paperback ISBN 979-8-1829-5940-7"
 
+# --- "Also by" page (author, 2026-10-22) -------------------------------------
+# EPUB: raw HTML after make_epub's own "Also by <author>" heading.
+also_by: |
+  <p class="ab"><i>A Bond of Scale and Silver</i><br/>(adult romantasy, explicit)</p>
+  <h3 class="ab">Writing as Post Peleos</h3>
+  <p class="ab">The Saeren Chronicles (young adult fantasy)<br/><i>Hazel Academy</i><br/><i>The Resistance</i><br/><i>The Weight of the Source</i></p>
+# PRINT: the same page on the verso facing the title page (page 2; page count unchanged).
+also_by_print:
+  - {h: "Also by Søren Stromberg"}
+  - {i: "A Bond of Scale and Silver"}
+  - {t: "(adult romantasy, explicit)"}
+  - {gap: true}
+  - {h: "Writing as Post Peleos"}
+  - {t: "The Saeren Chronicles (young adult fantasy)"}
+  - {i: "Hazel Academy"}
+  - {i: "The Resistance"}
+  - {i: "The Weight of the Source"}
+
 # --- print (read by tools/build_interior.py; ignored by make_epub) ----------
 print:
   isbn_paperback: "979-8-1829-5940-7"

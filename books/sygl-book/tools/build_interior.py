@@ -169,8 +169,20 @@ def story_for(chapters, pad):
     s = []
     # p1 recto: half-title
     s += [Spacer(1, 2.1 * inch), Paragraph(html.escape(TITLE), half), PageBreak()]
-    # p2 verso: blank
-    s += [Blank(), PageBreak()]
+    # p2 verso: "Also by" (config also_by_print), else blank
+    if CFG.get("also_by_print"):
+        ab_h = ParagraphStyle("ab_h", parent=cp, fontSize=9.5, leading=13, spaceBefore=4, spaceAfter=7)
+        ab_i = ParagraphStyle("ab_i", parent=cp, fontName="Crimson-It", fontSize=10.5, leading=14, spaceAfter=2)
+        ab_t = ParagraphStyle("ab_t", parent=cp, fontSize=9.5, leading=13, spaceAfter=2)
+        s += [Spacer(1, 1.6 * inch)]
+        for b in CFG["also_by_print"]:
+            if b.get("gap"): s += [Spacer(1, 0.3 * inch)]
+            elif "h" in b: s += [Paragraph(spaced(b["h"]), ab_h)]
+            elif "i" in b: s += [Paragraph(html.escape(b["i"]), ab_i)]
+            else: s += [Paragraph(html.escape(b["t"]), ab_t)]
+        s += [PageBreak()]
+    else:
+        s += [Blank(), PageBreak()]
     # p3 recto: title page
     s += [Spacer(1, 1.5 * inch), Paragraph(html.escape(TITLE), t_main),
           Spacer(1, 1.9 * inch), Paragraph(html.escape(AUTHOR), t_auth)]
