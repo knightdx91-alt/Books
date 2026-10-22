@@ -49,7 +49,7 @@ All afternoon I mended what came in and listened to the street. Each time a man 
 
 I could not. I had it whole for him before the shade had crossed the street, and he ran. The sun left the paving and climbed the fronts of the houses opposite, and the street began to smell of supper cooking behind every shutter.
 
-They came in as the light failed. Felix led the string round to the stalls, whistling. Valens stood in the opening with the last light on his back and something in his hand.
+They came in as the light failed. Felix led the string round to the stalls, whistling. Valens had something in his hand.
 
 "Did anyone speak to you on the way home?" I said.
 
@@ -87,7 +87,7 @@ He was crouched at the stair's head when I reached him with it, with the lamp be
 
 I left him to it. For an hour I heard him overhead, the knife biting and the old tread groaning off its pegs, and a quiet while he went for the oak, and then the knife again. Felix let himself in from the stalls and went to his blanket. When Valens came down at last he was carrying the old tread. In the middle it was hollowed deep, and polished there like horn by every foot that had used it since the house was built.
 
-It went on the hearth for burning. There was oak dust all down his sleeves, and he caught me watching him.
+It went on the hearth for burning. He caught me watching him.
 
 "It's a stair," he said.
 
