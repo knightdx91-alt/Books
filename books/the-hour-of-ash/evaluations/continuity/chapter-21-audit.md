@@ -438,3 +438,50 @@ suggested_patches:
 - `python3 tools/shape_check.py books/the-hour-of-ash`
 
 The opener (l.8) and the closing paragraph's question (l.530 from "He turned to me instead") are untouched, apart from C-04's three-word cut earlier in l.530.
+
+---
+
+## Repair log (book-editor, 2026-10-22)
+
+Edits made in place in `manuscript/chapters/chapter-21.md`. ENTITY_STATE.yaml and character-bible.md were not touched. Four of the audit's own replacement strings were varied after the gates flagged them (marked ⚠).
+
+| ID | Status | How |
+|---|---|---|
+| C-01 | done | "He was gone at a run," → "He was gone," |
+| C-02 | done ⚠ | l.282: the audit's "Is he yours?" echoes a spoken line in Ch.13 (l.218), so it became **"Who does he belong to?"** (no other use in the book). "His own. I freed him." still answers it. l.430: "Whose daughter." → "Who her father was." |
+| C-03 | done ⚠ | The audit's "he looked back" made a new 3-gram echo, so it became "Valens walked past it with the string. Three paces on, he stopped." This also drops the "Then," hinge. |
+| C-04 | done ⚠ | "the point of his knife" made a pronoun-swapped echo of Ch.11 and a self-repeat in voice-wear, so it became **"Valens slid his knife in where the wreath's two ends met and lifted the wreath off whole."** The thumbnail probe is gone. l.530: ", and the wreath" cut. The closing question is untouched. |
+| W-01 | done | "bandy-legged"; "Mules, is it?" cut; "This is him. The murmillo Nero freed."; "I rake sand," |
+| W-02 | done | Done by the W-01 recast. "Nero freed" now matches Ch.12 (Nero sends the sword from his chair). The herald's "from the hand of Caesar himself" stays as puff. |
+| W-03 | done | "the Syrian that had no wind and the boy from Argos that cried" |
+| W-04 | done | "Cenchreae" → "Kenchreai" ×2 |
+| W-05 | done | "Some do." cut |
+| W-06 | done | Cut to one clause, and the second "at the hearth" dropped as well: "That was when I began to laugh, and he waited with oak shavings in his hair and looked at me until I was done." |
+| W-07 | done | "Felix let himself in from the stalls and went to his blanket." |
+| W-08 | done | l.434–438 cut. |
+| W-09 | done | "He did not answer that." cut. "The street fell away, and…" now matches Ch.19's downhill route. |
+| W-10 | done | "Send him off again." The chapter now has 2 spoken Then-openers. |
+| W-11 | done | "LVPVS showed again, smaller this time…" |
+| W-12 | done | "He said it to the burn." cut, and the two speech fragments joined. |
+| W-13 | done | The two Valens lines merged. "I saw." cut. |
+| W-14 | done | The sentence now ends at "…floor wax and lilies." The self-opening doors are gone. |
+| W-15 | done | "a wine cup" |
+| W-16 | done ⚠ | The audit's "with her hand still up" self-repeats an earlier Mara chapter, so it became "and she was left with her hand in the air." |
+| W-17 | done | "pressing his thumb into the middle of the tread." |
+| W-18 | done | Four "then"s dropped (l.222 ×2, l.232, l.332). |
+| W-19 | done, with an override | Parilia sentence cut. "Fifteen hundred there". **Sender:** per the author's override, no name was invented. Narration: "It was from Plautia's brother, in a scribe's hand, round and even." The letter opens "*To Gaius Iulius Valens, greeting.*" The brother stays unnamed and off the page. **The I-10/YAML "Sextus Plautius" patch should NOT be applied.** |
+| I-01, I-03, I-05, I-07, I-10, I-11 | n/a | Pass, handoff or bible-sync notes. Nothing to change in the manuscript. Ch.22's witnesses were left alone. |
+| I-02 | partly done | "two mornings running … On the third" now agrees with Nicanor's "Three days". Skipped "The summer we came": the arrival season is not verified against Ch.19/20, so "In the summer." stays. |
+| I-04 | done | "tried that door twice", which matches Ch.19. Curtain/plank-door layout: accepted as is. |
+| I-06 | done ⚠ | "when I was nine" → "when I was little" ("small" self-repeated). "nine" now means only the fights. |
+| I-08 | done | "the child was due in the summer" |
+| I-09 | partly done | Done: "his face had gone young" clause cut; "looking back till the dark took him"; the l.326 clean-nails clause cut; "Your husband never asked…"; "they always are, " cut; "hollowed deep". Varied: "held his palm open for the nail" became "Valens reached for the nail.", because "held out his hand" hit the 3× book-wide tic gate. Kept as is: the herald and rim chorus. |
+
+**Re-measure:**
+- Prose words: 6,890 (wc, comments stripped); 6,869 by shape_check; 6,891 by show_tell.
+- Dialogue: 42% by shape_check, 41.9% by show_tell. Inside the 40–50% band.
+- Gates: `check_chapter.sh 21` prints ALL MECHANICAL GATES CLEAN. Voice-wear strict is clean. The tic gate is clean. Shape is clean.
+- `tic_report.py --echoes 21`: 0 command echoes, 0 spoken-line echoes. No 3-gram echo is new compared with the pre-repair baseline; the advisory echoes dropped from 58 to 56.
+- Unchanged: the opener (Felix and the bear) and the closing question.
+
+**Bible-sync note for the tracker:** Nicanor's card should now quote "Who does he belong to?", not "Is he yours?".
