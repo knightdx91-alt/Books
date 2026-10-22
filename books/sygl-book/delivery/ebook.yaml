@@ -60,3 +60,9 @@ print:
   margins: {inside: 0.8, outside: 0.55, top: 0.7, bottom: 0.7}   # inches; mirrored
   running_heads: true                      # author on verso, title on recto
   out_name: "Sygl-5x8-interior"            # -> delivery/production/Sygl-5x8-interior-<rev>.pdf
+  # Per-edition overrides (python3 tools/build_interior.py --edition <name>).
+  editions:
+    hardcover:                                # author, 2026-10-22: 6 x 9, creme, Digital Cloth (blue), textured
+      trim: {width: 6.0, height: 9.0}
+      margins: {inside: 0.875, outside: 0.625, top: 0.75, bottom: 0.7}
+      out_name: "Sygl-6x9-hardcover-interior"

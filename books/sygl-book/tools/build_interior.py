@@ -51,7 +51,11 @@ from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
                                 Spacer, PageBreak)
 
 CFG = load_config()
-PRN = CFG["print"]
+PRN = dict(CFG["print"])
+# --edition NAME: overlay print.editions.NAME (e.g. the 6x9 hardcover) on the base print block.
+if "--edition" in sys.argv:
+    _ed = sys.argv[sys.argv.index("--edition") + 1]
+    PRN.update(CFG["print"]["editions"][_ed])
 AUTHOR, TITLE = CFG["author"], CFG["title"]
 
 K_BLACK = CMYKColor(0, 0, 0, 1)
