@@ -305,3 +305,17 @@ you need it (about 30 seconds).
   differs between the record and the artwork is a rejection.
 - Run `collect_completed.py --check` one last time so you know the files in your hand are
   the current build.
+
+### Total ink limit (240%) — use `tools/cmyk_flatten_tac.py` for dark covers
+
+IngramSpark caps total ink coverage at **240%**. A plain `make_noicc.sh cmyk` pass turns a
+dark cover into rich black at ~300%, and a browser-rendered cover (gradients, shadows) can
+also leave DeviceRGB transparency groups behind. For those covers build the upload copy with
+
+```bash
+python3 tools/cmyk_flatten_tac.py <cover.pdf> <cover-CMYK-noicc.pdf>   # 300 ppi CMYK, TAC capped
+python3 tools/check_upload_pdf.py cover <cover-CMYK-noicc.pdf>
+```
+
+It keeps Ghostscript's colour-faithful conversion and only moves grey into black where the
+total exceeds the cap (default 225%, which stays under 240% after JPEG encoding).
