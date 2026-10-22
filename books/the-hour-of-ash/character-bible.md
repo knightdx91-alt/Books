@@ -3419,6 +3419,21 @@ hands, Zosimus's elbows; F10 took the painter's off). Walk-on exits on a trait: 
   doors down"; the drug-seller "under the forum colonnade"; the coppersmith's sister in Stabiae, her husband and his goat; the
   contractor; Puteoli's wine-woman (the letter's route); Dr. Pinsky (Mara's dentist, recalled once, a clause).
 
+#### Ch.21 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+- **The fish carter's friend** (on the cart's board): grins at Mara and pats his own belly; cuffed for it. No line.
+- **The comb boy:** his sister's horn comb, broken by the dog sitting on it; "She counts what's in her box every night before she sleeps"; "You can't blame the dog."
+- **The spice-seller** (offstage): his bronze scales, pin lost, smelling of cumin; mended with a filed bronze nail.
+- **The bear** (morning hunt, offstage): put its paw through the bars at Felix.
+- **Nicanor's three young fighters:** the youngest with "a fresh scar still pink through his eyebrow"; the "middle one" fights the Thracian, loses, and is walked off "on his own feet, with his shield arm held across his chest".
+- **The herald** (red cloak, a boy with a board): announces Lupus to the bowl.
+- **The grandmother with the eggs:** gives Mara a warm boiled egg "For the child. Grata says the heat."
+- **The girl with the baby** (top rows): her husband sells cushions on the stair and charged her for a flat one; "He'll have sold her mine and charged me for the cover."
+- **The voices behind Mara on the rim:** "That's the muleteer." / "With the Greek wife." / "That mends."
+- **The boy with a nail** (unseen): scratched the fish-crested helmet and LVPVS on the outer stair pier; a second, neater LVPVS with a wreath on the barracks gatepost.
+- **The barracks porter:** goes in at Felix's voice. No line.
+- **Grata's husband:** offstage, laughing next door; "never lifted anything heavier than a dice cup" (Grata).
+- **Mention:** "a colleague" visited on the maternity floor at Pennsylvania Hospital (Mara's memory; unnamed).
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -4167,6 +4182,27 @@ hands, Zosimus's elbows; F10 took the painter's off). Walk-on exits on a trait: 
   cow's belly; "offended for the lamp". If he recurs he gets new words and a new object.
 - **Sample line:** "Forty of them on that shelf and the boy finds mine every morning before I'm down the stair, so don't you tell me he
   can't read." (Calibration only.)
+
+#### NICANOR — old trainer (doctor) of a gladiator troupe; trained Valens at Corinth "in the old school under the hill"; now with the troupe quartered in the barracks behind the theaters at Pompeii (Ch.21; Ch.28 if the outline uses him)
+- **Attention / worldview:** footing and bodies, the way Valens's is, but put to the sand: he tries ground with his heel before he trusts it, reads who will "go down" where the sand is soft, sizes a boy by his shoulders and a man by his feet. A fighter is a body that will or will not last the afternoon, and he says which aloud ("The middle one's going to die today. He drops his shield when he's tired, and the Thracian knows it.") and is sometimes wrong (the middle one walks off on his own feet).
+- **Vocabulary band:** the school's Latin: sand, shield, wind, oil, the posts, the finger, the editor; nicknames and rumors of old pupils ("sold on and died in Asia", "drowned off Cenchreae").
+- **Syntax fingerprint:** short orders to his men ("Go on, you. Up and get your oil."); flat verdicts with no softening; a dry exaggeration once ("that one doesn't drown, he walks home on the bottom"). Questions only of fact ("Who laid this?" / "Who raked it?" / "Whose is he?").
+- **Rhythm:** clipped, unhurried; he finishes his look before he speaks.
+- **Evasion — never says:** that he is glad to see Valens alive; the pleasure "stayed round his eyes". Never asks what Valens did after Corinth.
+- **Physicality / silence:** short, bald, "brown and creased", a good cloak at the show and "an old tunic, with chalk on his hands from the posts" at the barracks gate; a rod of polished wood (the trainer's rod) tipped at the string once and lifted to Mara once. Each beat once; the rod is never a fidget.
+- **Verbal tic:** none — distinguished by attention (sand and bodies, predicted aloud) and syntax (verdicts and orders)
+- **Bleed guard:** must not become Valens's double: Valens reads ground to survive it and never predicts; Nicanor reads it to sell a fight and predicts every time. No comparisons of Mara's kind; no "Lupus" as a refrain (he says it once, as a name).
+- **Chaos on the page (his own):** the rumors he collects about dead pupils; the prediction that fails; three days of Felix on his step, "He eats my porter's bread."
+- **DISTINCTNESS GUARANTEE:** the man who tells you aloud who will die this afternoon, against Valens, who will not say a word about the men he killed.
+- **Ch.21 as written (Writer, 2026-10-22):** knows Valens by the heel on the sand ("I taught you that … Heel, and then the weight."); names him to his three young fighters ("that Nero freed with his own hand. Nine times at Corinth, and he never lifted his finger to the editor in any of them."); tells Fabius's freedman nothing on the page; to Valens of Felix, "He's built for it." / "I've seen worse start." / "Whose is he?"; at the barracks gate, "If he comes to my gate with a beard on him, and nobody's said no to him by then that he'll listen to, I'll take him." / "You take them all." / "I took you."; "I said you'd lost your wind."; to Mara by look only, "It's cold for her out here." **Spent:** the heel; "walks home on the bottom"; "built for it"; "I took you."
+- **Sample line:** "Two days on the posts and he wants a helmet. Give him a broom and see if he can sweep without falling over it." (Calibration only.)
+
+#### GAIUS FABIUS RUFINUS — editor (giver) of the Saturnalia show of AD 73 at the Pompeii amphitheater; a young man who wants to be aedile; offers Valens an exhibition bout at the Parilia (Ch.21; offstage except as "a youth whose toga showed very white against the shade" under the tribunal awning)
+- **Attention / worldview:** a name on walls. He buys attention by the pair and by the painted letter.
+- **On the page:** never speaks. His herald names Valens to the bowl ("Lupus, murmillo, nine times victor! Lupus, who sits among you!"); his freedman carries the offers (2,000 sesterces, then 3,000 with 500 earnest, "his name painted on the walls as far as Nuceria, under my master's own"). Valens refuses ("No," and "Lupus died in Asia … Or drowned off Cenchreae. Ask Nicanor."); Mara sends the earnest back.
+- **Verbal tic:** none — distinguished by absence (he is known only through his herald, his freedman and his paint)
+- **DISTINCTNESS GUARANTEE:** the would-be magistrate who wants Valens seen, against Celer, who wants him gone.
+- **His freedman (unnamed, functional):** young, clean nails, reads Mara's board "from the paving, every word"; a Fabian slave from boyhood (his father laughed at his murmillo dream "so hard he had to put me down, and the next year he sold me to the Fabii"); saw "a Lupus from Capua" at Nuceria at nine, killed at Puteoli "the spring after" when the editor wanted blood; asks Mara, "Is it true your husband never asked for the finger? Not once, in nine?" Grata: "he's got clean nails". **Spent:** the Capua Lupus; "there's always a Lupus"; "he'll find another wolf."
 
 ## UNNAMED SPEAKING ROLES PLANNED IN THE OUTLINE
 Give each one its own attention, and **promote it to a full card the moment the page names it.** One
