@@ -49,7 +49,7 @@ All afternoon I mended what came in and listened to the street. Each time a man 
 
 I could not. I had it whole for him before the shade had crossed the street, and he ran. The sun left the paving and climbed the fronts of the houses opposite, and the street began to smell of supper cooking behind every shutter.
 
-They came in as the light failed. Felix led the string round to the stalls, whistling. Valens stood in the opening with the last light on his back. He had sand in the hairs of his forearms and something in his hand.
+They came in as the light failed. Felix led the string round to the stalls, whistling. Valens stood in the opening with the last light on his back and something in his hand.
 
 "Did anyone speak to you on the way home?" I said.
 
@@ -87,7 +87,7 @@ He was crouched at the stair's head when I reached him with it, with the lamp be
 
 I left him to it. For an hour I heard him overhead, the knife biting and the old tread groaning off its pegs, and a quiet while he went for the oak, and then the knife again. Felix let himself in from the stalls and went to his blanket. When Valens came down at last he was carrying the old tread. In the middle it was hollowed deep, and polished there like horn by every foot that had used it since the house was built.
 
-It went on the hearth for burning. That was when I began to laugh, and he waited with oak shavings in his hair and looked at me until I was done.
+It went on the hearth for burning. There was oak dust all down his sleeves, and he caught me watching him.
 
 "It's a stair," he said.
 
@@ -131,7 +131,7 @@ He pinched the wick. The smell of cut oak reached us through the dark.
 
 I lay in the dark, my palm on the blanket over my stomach, with nothing yet to find there. All my palm found was supper. I thought of the maternity floor at Pennsylvania Hospital, where I had once carried a pot of tulips up to a colleague; of its smell of floor wax and lilies.
 
-"There's no step on that stair now will turn your foot," Valens said, beside me in the black.
+"There's no step on that stair now will turn your foot," Valens said.
 
 Felix heard it from the baker's boy along with the loaves. He ran in through the shop while Valens was at the door tying the lead rope to the dun's headstall, and brought up short against my plank, loaf in fist.
 
@@ -169,7 +169,7 @@ He took the bread and ate it with the rake leaning on his shoulder.
 
 "I know which rows are ours."
 
-"Sit at the end of a row. By the stair." He tore the last of the bread in two and gave the dun half. "When it lets out they all go for the stair together."
+"Sit at the end of a row. By the stair." He tore the crust in two and gave the dun half. "When it lets out they all go for the stair together."
 
 Out on the oval the sand lay pale under the sun. The walls round it were painted with things I had no time to look at, beasts running, a man with a whip, and above the walls the seats went up in their bands to the top, filling. Somebody up there was already singing.
 
@@ -189,7 +189,7 @@ A short bald man walked up the tunnel from the arena end with three young fighte
 
 "What you did just now, when you stepped down to the sand. With your heel."
 
-Valens had gone no nearer him than the sand's edge, to find what was soft, and before his weight went onto it he had tried it with his heel. I had watched him do the same on ice, and in snow, and on the deck of Pacuvius's ship when it was wet.
+Valens had gone no nearer him than the sand's edge, to find what was soft, and before his weight went onto it he had tried it with his heel. I had watched him do the same on ice, and on the deck of Pacuvius's ship when it was wet.
 
 "I taught you that," the bald man said. "At Corinth, in the old school under the hill, with the Syrian that had no wind and the boy from Argos that cried. I taught you that before I ever put a shield on you. Heel, and then the weight." The pleasure in him stayed round his eyes. "Lupus."
 
@@ -201,7 +201,7 @@ Felix had been perched on the passage wall with his seat tokens, swinging his le
 
 The three young men looked at Valens with the rake in his arm. One of them, the youngest, with a fresh scar still pink through his eyebrow, looked at him longest.
 
-Felix slid down, wordless. He stood by the dun with the string of bone tokens in his fist.
+Felix slid down and stood by the dun with the string of bone tokens in his fist.
 
 "I rake sand," Valens said.
 
@@ -279,13 +279,13 @@ Nicanor took a groom's place at the black's head.
 
 "He's built for a shovel."
 
-"I've seen worse start." He glanced back for Felix, who was behind us leading the last mule and looking at nothing. "Who does he belong to?"
+"I've seen worse start." He glanced back for Felix, who was behind us leading the last mule. "Who does he belong to?"
 
 "His own. I freed him."
 
 "Then I'll not need to ask you." Nicanor halted where the sand ended and let the string go by him, and lifted his rod to me as I went past, a courtesy no one had paid me before.
 
-At the bottom of the outer stair, where the crowd thinned onto the road, somebody had already worked on the pier with a nail. Among the old names and tallies, low down, fresh scratches showed white through the dirt on the plaster: a helmet with a fish along its crest, drawn by someone who knew one close, and under it, in big uneven capitals, LVPVS. The final S ran off the stone, where the boy had been jostled.
+At the bottom of the outer stair, where the crowd thinned onto the road, somebody had already worked on the pier with a nail. Among the old names and tallies, low down, fresh scratches showed white through the dirt on the plaster: a helmet with a fish along its crest, drawn by someone who knew one close, and under it, in big uneven capitals, LVPVS. The final S ran off the stone, where whoever cut it had been jostled.
 
 Valens walked past it with the string. Three paces on, he stopped.
 
@@ -299,7 +299,7 @@ Felix kept beside the dun the length of the road, and through the gate, and as f
 
 That night Valens washed at our basin well past what the dust of one day needed. He scrubbed his face and his nape and his forearms to the elbow, and then the hand that had lifted to the benches, alone, the palm and between the fingers. He dried it and looked at it, and plunged it again.
 
-The street had it by morning. The coppersmith shouted it to Valens from his doorway as the mules passed, and a baker's boy ran after him calling it.
+The street had it by morning. The coppersmith shouted it to Valens from his doorway as the mules passed, and a boy ran after him calling it.
 
 In the afternoon Fabius's freedman came to my plank. In daylight he was younger, and his nails were very clean. He read my board on the pier from the paving, every word, before he came in.
 
@@ -357,7 +357,7 @@ I had unhooked the scales from the lintel, for the spice-seller was to fetch the
 
 "For Fabius's freedman. So he'd see she has gold to lose, if he brings his trouble to her door."
 
-I lowered the scales onto the plank, very carefully. My face was doing something I could not stop. I turned it to the lamp until it behaved.
+I lowered the scales onto the plank, very carefully, and turned to the lamp until my mouth behaved.
 
 "Fabius has gone up to three thousand," I told him. "His freedman put the earnest down on my plank so that a customer's cup rang."
 
@@ -401,7 +401,7 @@ He did not raise his voice; he never did. "A child's coming. Since the ship I've
 
 I took the bed's foot.
 
-"You can be nobody in Pompeii for the rest of your life," I said. "You can cart stone and pay Grata's rent and wait, morning after morning, for a man in the street to look at you twice. And he will. Nicanor knew you by your heel. Felix will have told every boy in the barracks before the Kalends." I heard my voice go up, and could not bring it down. "Or you can go to Rome and say it once, aloud, and have it written, and be believed, and come home. And then if somebody looks twice, let him look."
+"You can be nobody in Pompeii for the rest of your life," I said. "You can cart stone and pay Grata's rent and wait, morning after morning, for a man in the street to look at you twice. And he will. Nicanor knew you by your heel. Felix will have told every boy in the barracks before the Kalends." Beyond the curtain Felix stopped turning over. "Or you can go to Rome and say it once, aloud, and have it written, and be believed, and come home. And then if somebody looks twice, let him look."
 
 "Have you got the other blanket in there?" It was Felix, from the shop. "I'm not listening. Have you, though? It's gone cold enough out here to crack the water jar."
 
