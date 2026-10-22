@@ -3,7 +3,7 @@
 #### *Pompeii · winter, AD 73–74*
 
 <!-- SCENE BUDGET (Target 7,200; Chronological, "two rooms" in alternation: shop / amphitheater / shop / barracks; 3 breaks / 4 sections; gear mid; dialogue 40-50%): S1 SHOP, the morning after Grata's fish: Felix bursts in with the bear and the show; the day of holding it (the scales, the fish carter's friend, Grata); dusk, the lime carter's tablet; the telling; "Who knows?"; the stair tread; the summons read by lamp 2,300 | S2 AMPHITHEATER, the Saturnalia show: the sand, Nicanor and the heel, "Lupus", Felix gone still; the women's rows; the pair and the palm; the herald; the hand that goes up; the offer at the gate and the flat refusal; the scratched name on the stair; Felix asks nothing all the way home 2,400 | S3 SHOP, days after: Grata's flood at Valens and her fourth touch; his wrong reading of her; the argument over Rome by the lamp (speak and be believed / be nobody and be safe) 1,600 | S4 BARRACKS, late winter: Felix missing from the string; the palm scratched by the gate; Nicanor's yard; the open question 1,000 -->
-<!-- Word count: 7,199 (shape_check; style 7,211; show_tell 7,221) | Writer draft 2026-10-22 | Target: 7,200 | Dialogue 40% shape / 39.7% show_tell (band 40-50) | Breaks 3 | Median sentence 12 (gear mid planned; lands low, see report) | Opens dialogue (Felix mid-burst; hook IN MEDIAS RES), closes question (narrated; pull QUESTION) | Em-dash 0 | as if 1 | Semicolons 6 | And-chains 6 | Negation pivots 1 | Spoken Then-openers 3 | Echo scan: 0 hard-gate phrases, ~65 advisory 3-gram echoes | check_chapter.sh 21 ALL MECHANICAL GATES CLEAN | Anchor: Felix's palm branch scratched into the plaster by the barracks gate, the only name he can write -->
+<!-- Word count: 7,199 (shape_check; style 7,211; show_tell 7,221) | Writer draft 2026-10-22 | Target: 7,200 | Dialogue 40% shape / 39.7% show_tell (band 40-50); after dialogue-polish 2026-10-22: 40.1% shape / 40.0% show_tell, 7,227 words | Breaks 3 | Median sentence 12 (gear mid planned; lands low, see report) | Opens dialogue (Felix mid-burst; hook IN MEDIAS RES), closes question (narrated; pull QUESTION) | Em-dash 0 | as if 1 | Semicolons 6 | And-chains 6 | Negation pivots 1 | Spoken Then-openers 3 | Echo scan: 0 hard-gate phrases, ~65 advisory 3-gram echoes | check_chapter.sh 21 ALL MECHANICAL GATES CLEAN | Anchor: Felix's palm branch scratched into the plaster by the barracks gate, the only name he can write -->
 
 "And a bear, a live one, in a cage on a cart. They had him in at the barracks gate with me right there by it, and he put his paw out through the bars at me in passing, and I never moved, the porter saw me not move. Did you ever see a bear close to? Have they got bears in Syracuse? His claws were longer than my fingers."
 
@@ -69,7 +69,7 @@ He stayed on the sill. The scales on the lintel turned a little on their hook in
 
 "Last night. Grata knew before I did."
 
-"Grata." He left the tablet on the plank next to the comb, unopened. "When?"
+"Grata." He left the tablet on the plank unopened. "When?"
 
 "With the heat. Summer, she thinks."
 
@@ -349,7 +349,7 @@ I had unhooked the scales from the lintel, for the spice-seller was to fetch the
 
 "She brushed your shoulder."
 
-"She was looking for the place to start." He let himself onto the bed and began to unwind the rag from his wrist, where a rope had burned him that morning. "A fighter under her roof. Fabius's men in and out. A child through her wall. She'll have the rent raised before the month's out, and if I won't pay it she'll have the excuse she wants to put us in the road."
+"She was looking for the place to start." He let himself onto the bed and began to unwind the rag from his wrist, where a rope had burned him that morning. "She's got a fighter under her roof now, and Fabius's men in and out at her counter, and a baby to keep her awake by summer. She'll have the rent raised before the month's out, and if I won't pay it she'll have the excuse she wants to put us in the road."
 
 "She gave you Falernian."
 
@@ -361,7 +361,7 @@ I had unhooked the scales from the lintel, for the spice-seller was to fetch the
 
 I lowered the scales onto the plank, very carefully. My face was doing something I could not stop. I turned it to the lamp until it behaved.
 
-"Fabius sent three thousand today," I told him, once my face was in hand. "His freedman left a sixth of it on my plank."
+"Fabius has gone up to three thousand," I told him, once my face was in hand. "His freedman put the earnest down on my plank so that a customer's cup rang."
 
 He was still. "Where is it?"
 
@@ -383,11 +383,9 @@ He raised his eyes from the burn.
 
 "I saw."
 
-"Six years since I stood on sand."
-
 "Nobody at the Basilica," I said, "will want you to lift your hand. They will want you to say what happened. That is all."
 
-"They want my name. Said aloud, before a judge, and Celer's advocate, and a basilica full of men with nothing better to do that morning. And then a clerk writes it down." He turned the burned wrist up on his knee. "Here, there's a muleteer called Valens who carts stone for a contractor. Before that afternoon nobody in this town had looked at him twice. After Rome, Celer knows where I sleep. His freedmen know. Anybody on those benches knows there's a Lupus with a Greek wife in a cobbler's shop in Pompeii, beside a fish stall."
+"They want my name. Said aloud, before a judge, and Celer's advocate, and every idler in the basilica that morning. And then a clerk writes it down." He turned the burned wrist up on his knee. "Here it's scratched on one pier, low down, in a boy's letters. After Rome, Celer knows where I sleep. His freedmen know. So does any man on those benches with a mind to sell it him: a Lupus with a Greek wife, in a cobbler's shop in Pompeii, beside a fish stall."
 
 "Celer knows already. You told him you were coming to Rome. He heard you."
 
@@ -397,15 +395,13 @@ He raised his eyes from the burn.
 
 "Some do." He did not raise his voice; he never did. "A child's coming. Since the ship I've been nobody here, and I've slept all those nights through."
 
-"You have not stood still since Corinth."
-
-"I've stood still in this street two years."
-
-"With your back to the wall. You sat me by the stair at the show."
+"You sat me by the stair at the show."
 
 "That was the crowd."
 
-"There is always a crowd. Every place we have been, you have looked for the way out of it before you looked at anything else. Kirrha. Parnassus. The ship. This shop."
+"There is always a crowd. Every place we have been, you have looked for the way out of it before you looked at anything else. Our first night under this roof you asked me which gate was nearest, and then you tried the bar on that door, twice, before you had so much as unrolled a blanket."
+
+"The door was sticking."
 
 "There's always a way out. I find it first."
 
@@ -413,7 +409,7 @@ He raised his eyes from the burn.
 
 I took the bed's foot, with the scales between us, and the pan swung on its chains and settled.
 
-"You can be nobody in Pompeii for the rest of your life," I said. "You can cart stone and pay Grata's rent and wait, morning after morning, for a man in the street to look at you twice. And he will. Nicanor did. Fabius did. Felix will tell the whole barracks before the Kalends." I heard my voice go up, and could not bring it down. "Or you can go to Rome and say it once, aloud, and have it written, and be believed, and come home. And then if somebody looks twice, let him look."
+"You can be nobody in Pompeii for the rest of your life," I said. "You can cart stone and pay Grata's rent and wait, morning after morning, for a man in the street to look at you twice. And he will. Nicanor knew you by your heel. Felix will have told every boy in the barracks before the Kalends." I heard my voice go up, and could not bring it down. "Or you can go to Rome and say it once, aloud, and have it written, and be believed, and come home. And then if somebody looks twice, let him look."
 
 "Be believed," he said.
 
@@ -421,11 +417,15 @@ I took the bed's foot, with the scales between us, and the pan swung on its chai
 
 "By who? The judge?" He put the rag down. "The judge has never seen me. He's seen Celer, at dinner."
 
-"Plautia believed you. Her brother believes you enough to pay your road. I believe you."
+"Plautia believed you, and her brother is paying your road on the strength of it. I believe you."
 
 "You weren't there."
 
 "No. I was not there. I believe you anyway."
+
+"And after it I come home and cart stone, the same as now."
+
+"You cart stone. I beat the dust of it out of your tunic every week."
 
 "And they'll ask about you." He said it to the burn. "Celer's advocate will. Who is the witness's wife. Whose daughter. Which house in Syracuse. He'll have a man at Syracuse before the heat, knocking on doors."
 
@@ -449,7 +449,7 @@ We went on past it in the dark, and turned left for the theaters, with every shu
 
 "Where Nicanor is."
 
-"How old is he now?"
+"Is he old enough for them?"
 
 "The slaver said twelve, at Kirrha. Slavers say what sells."
 
@@ -475,11 +475,11 @@ Felix was sitting under the lamp with his back to the gatepost, his knees drawn 
 
 He had scratched a palm branch. It was not much bigger than my hand: a stem, with short strokes slanting upward off it to left and right, close together, the way the branch had been when the slave trotted out with it and the fighter lifted it to the benches. Each cut showed fresh and white. He had cut the stem twice over, so that it sank deeper. It stood by itself, with no name over it and none under it.
 
-"Nicanor says I'm built for it," Felix said, before we had a word out. He kept his seat against the post. "He had me in the yard this afternoon with a stick. He says I'm too old to start and too thin to finish, and that I'm to try him again when I've a beard. He says he's had worse. He says you were worse, your first month, that you couldn't keep a shield up while a man said his own name, and you were bigger than me." He drew the nail down the last of the palm's strokes, slowly, deepening it. "He says you never told me because you're ashamed. Are you? Why would you be? They shouted it round the whole bowl. I heard them."
+"Nicanor says I've the shoulders for it, or will have," Felix said, before we had a word out. He kept his seat against the post. "He had me in the yard this afternoon with a stick. Too old to start and too thin to finish, and I'm to try him again when I've a beard. You were worse, he says, your first month, that you couldn't keep a shield up while a man said his own name, and you were bigger than me." He drew the nail down the last of the palm's strokes, slowly, deepening it. "He says you never told me because you're ashamed. Are you? Why would you be? They shouted it round the whole bowl. I heard them."
 
 "Grata's kept you some supper," said Valens.
 
-"Will you ask Nicanor for me?"
+"Will you speak to him? He'd have me tomorrow if you said."
 
 Valens held his palm open for the nail. Felix rose, and kept it.
 
@@ -497,7 +497,7 @@ The porter had gone in at the sound of Felix's voice. Now the gate opened a crac
 
 "Then send him off again."
 
-"I have. I'll do it till the Kalends. After that I'll have a boy in the yard who's grown a beard sitting on my step, and I'll be tired. Fabius's man was at my gate today. I said you'd lost your wind."
+"I have. He comes back. He'll outlast me at it, that one. Fabius's man was at my gate today. I said you'd lost your wind."
 
 "I have."
 
