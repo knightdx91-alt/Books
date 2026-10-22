@@ -50,6 +50,10 @@ also_by_print:
   - {i: "The Resistance"}
   - {i: "The Weight of the Source"}
 
+# --- About the Author (author, 2026-10-22: Version A) ------------------------
+# EPUB back matter (make_epub) + print back page (build_interior). Jacket back flap carries the same text.
+bio: "Søren Stromberg lives in the hot South, where he and his family run Underground Associates, building websites for small businesses. A lifelong reader of <i>The Wheel of Time</i>, <i>The Stormlight Archive</i>, <i>The Lies of Locke Lamora</i> and <i>Ender&#8217;s Game</i>, he also writes poetry. Nothing makes him happier than a reader who enjoys the story."
+
 # --- print (read by tools/build_interior.py; ignored by make_epub) ----------
 print:
   isbn_paperback: ""                       # 979-8-1829-5940-7 went to the HARDCOVER (2026-10-22); paperback needs a new ISBN

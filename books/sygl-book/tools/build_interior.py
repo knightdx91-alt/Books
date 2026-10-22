@@ -100,6 +100,7 @@ t_main = ParagraphStyle("t_main", fontName="Crimson-Bd", fontSize=44, leading=52
                         alignment=TA_CENTER, textColor=K_BLACK)
 t_auth = ParagraphStyle("t_auth", fontName="Crimson", fontSize=15, leading=20,
                         alignment=TA_CENTER, textColor=K_BLACK)
+about_h = ParagraphStyle("about_h", parent=ch_num, spaceAfter=22)   # back-matter heading (not a chapter opener)
 cp = ParagraphStyle("cp", fontName="Crimson", fontSize=8.5, leading=11.5,
                     alignment=TA_CENTER, textColor=K_BLACK, spaceAfter=5.5)
 
@@ -132,7 +133,7 @@ class RectoBreak(Spacer):
 class BookDoc(BaseDocTemplate):
     def __init__(self, *a, **k):
         super().__init__(*a, **k)
-        self.openers, self.blanks, self.body_start = set(), set(), None
+        self.openers, self.blanks, self.backm, self.body_start = set(), set(), set(), None
 
     def handle_flowable(self, flowables):
         f = flowables[0]
@@ -156,6 +157,8 @@ class BookDoc(BaseDocTemplate):
     def afterFlowable(self, f):
         if isinstance(f, Blank):
             self.blanks.add(self.page)
+        elif getattr(getattr(f, "style", None), "name", "") == "about_h":
+            self.backm.add(self.page)
         elif getattr(getattr(f, "style", None), "name", "") == "ch_num":
             self.openers.add(self.page)
             if self.body_start is None:
@@ -228,6 +231,10 @@ def story_for(chapters, pad):
             else:
                 s.append(Paragraph(md_inline(content), body_first if first else body))
                 first = False
+    # back matter: About the Author (config bio), on its own page, no folio
+    if CFG.get("bio"):
+        s += [PageBreak(), Spacer(1, 1.55 * inch), Paragraph(spaced("About the Author"), about_h),
+              Paragraph(CFG["bio"], body_first)]   # bio is inline HTML (EPUB + reportlab)
     if pad:
         s += [PageBreak(), Blank()]
     return s
@@ -239,7 +246,7 @@ def build(chapters, pad=False, deco=None):
         canvas.setFont("Crimson", 9)                     # never leave Helvetica current
         p = doc.page
         if deco and p >= deco["body_start"] and p not in deco["openers"] \
-                and p not in deco["blanks"]:
+                and p not in deco["blanks"] and p not in deco["backm"]:
             recto = p % 2 == 1
             cx = (M["inside"] if recto else M["outside"]) + TEXT_W / 2
             canvas.setFillColor(K_BLACK)
@@ -282,7 +289,7 @@ def main():
     d1 = build(chapters)
     pad = d1.page % 2 == 1
     deco = dict(openers=d1.openers, blanks=d1.blanks | ({d1.page + 1} if pad else set()),
-                body_start=d1.body_start)
+                backm=d1.backm, body_start=d1.body_start)
     d2 = build(chapters, pad=pad, deco=deco)
 
     # Consistency checks between the passes and against the spec.

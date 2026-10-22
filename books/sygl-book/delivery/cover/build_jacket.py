@@ -69,6 +69,8 @@ FRONT_FLAP = [
     ("fclose", "A warm new adult fantasy of found family, forbidden magic and a love big enough&#160;for&#160;four."),
 ]
 BACK_FLAP = [
+    ("bhead0", "ABOUT THE AUTHOR"),
+    ("bpara", "Søren Stromberg lives in the hot South, where he and his family run Underground Associates, building websites for small businesses. A lifelong reader of <i>The Wheel of Time</i>, <i>The Stormlight Archive</i>, <i>The Lies of Locke Lamora</i> and <i>Ender&#8217;s Game</i>, he also writes poetry. Nothing makes him happier than a reader who enjoys the story."),
     ("bhead", "ALSO BY SØREN STROMBERG"),
     ("btitle", "<i>A Bond of Scale and Silver</i>"),
     ("bnote", "(adult romantasy, explicit)"),
@@ -135,7 +137,8 @@ html,body{{width:{PAGE_W}in;height:{PAGE_H}in;background:#fff;}}
 .fflap .fclose{{font-family:'PlexI';font-size:9.6pt;line-height:13.4pt;color:#f1e6d6;text-align:center;margin-top:8pt;}}
 .bflap{{left:{x_bflap + 0.32}in;top:{TY + 0.75}in;width:{FLAP - 0.64}in;color:#d8c4ad;font-family:'Plex';text-align:center;}}
 .bflap .bname{{font-family:'Plex';font-size:11pt;letter-spacing:.3em;text-indent:.3em;color:#f1e6d6;margin-bottom:12pt;}}
-.bflap .bpara{{font-size:9.6pt;line-height:13.6pt;}}
+.bflap .bpara{{font-size:9.4pt;line-height:13.4pt;text-align:left;}}
+.bflap .bhead0{{font-family:'Plex';font-size:8pt;letter-spacing:.22em;text-indent:.22em;color:#d6aa64;margin:0 0 9pt;}}
 .bflap .bhead{{font-family:'Plex';font-size:8pt;letter-spacing:.22em;text-indent:.22em;color:#d6aa64;margin:22pt 0 7pt;}}
 .bflap .btitle{{font-family:'PlexI';font-size:10.5pt;line-height:15pt;color:#f1e6d6;}}
 .bflap .bnote{{font-size:8.6pt;line-height:12.5pt;color:#d8c4ad;margin-bottom:3pt;}}
