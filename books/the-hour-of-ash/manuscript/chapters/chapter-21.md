@@ -7,7 +7,7 @@
 
 "And a bear, a live one, in a cage on a cart. They had him in at the barracks gate with me right there by it, and he put his paw out through the bars at me in passing, and I never moved, the porter saw me not move. Did you ever see a bear close to? Have they got bears in Syracuse? His claws were longer than my fingers."
 
-Felix filled the shop opening with the morning behind him and a mule's nosebag in each fist. I had vomited into the night pot at cockcrow, quietly, so as not to wake Felix in the shop, and I sat on the cobbler's old last sipping water, waiting for the shop to hold still.
+Felix filled the shop opening with the morning behind him and a mule's nosebag in each fist. I had vomited into the night pot at cockcrow, quietly, while he slept on, and I sat on the cobbler's old last sipping water, waiting for the shop to hold still.
 
 "Where is Valens?"
 
@@ -527,4 +527,4 @@ Over the palm, high on the gatepost where a tall boy could reach on his toes, so
 
 "Rome," I said. "Somebody has to give Plautia's brother's freedman an answer. You have until the Ides."
 
-"I can count to the Ides." He lowered the lamp. The palm went into shadow, and the wreath, and the name. He stood with the light hanging at his knee, looking at the dark plaster where they were, and I wanted him to say Rome, or say no, and he did neither of those things. He turned to me instead with the lamp between us. What was he to tell the child, he asked me, when it was grown and came to that gate and read the wall, and asked him what he had been?
+"I can count to the Ides." He lowered the lamp. The palm went into shadow, and the wreath, and the name. He stood with the light hanging at his knee, looking at the dark plaster where they were, and I wanted him to say Rome, or say no, and he did neither of those things. He turned to me instead. What was he to tell the child, he asked me, when it was grown and came to that gate and read the wall, and asked him what he had been?
