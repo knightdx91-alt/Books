@@ -112,3 +112,21 @@ Leave the series field EMPTY. The author has no Book 2 planned (2026-10-22); "Bo
 ## Notes for the author
 - **Pen-name coincidence:** a minor character in Ch.13–17, the Dawn Hall clerk, is named **Soren**, and the pen name is **Søren** Stromberg. Readers may notice. It's harmless, but if you would rather avoid it, renaming the clerk is a one-word change across a few chapters (not made here; no chapters were edited).
 - Spelling in all metadata: **Sygl / sygl / sygls** (never "sigil"), **Magykal Artes**, **Heir's School**.
+
+---
+
+## IngramSpark fields (2026-10-22)
+
+**Keywords** (semicolon-separated):
+`new adult fantasy; academy fantasy; magic school fantasy; harem fantasy; clean romance fantasy; vampire goddess; blood magic; found family fantasy; underdog hero fantasy; gods at war fantasy`
+
+**Thema** (verified against EDItEUR Thema v1.6):
+1. FMR — Fantasy romance / Romantic fantasy (MAIN)
+2. FRT — Romance: fantasy and paranormal
+3. FXB — Narrative theme: coming of age
+Qualifiers: 5LKE (New Adult; confirm heading in picker), 6AU (Academy fantasy; confirm in picker).
+Not used: FXD (do not use with FR* codes), FMJ (cosy — book has war/killing).
+
+**Audience:** Adult / General (not YA/Juvenile).
+
+**Full description:** the IngramSpark version (opens "They locked her away for three thousand years. Now she's free.", ~1,771 bytes of the 4,000-byte limit).
