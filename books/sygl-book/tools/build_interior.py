@@ -208,7 +208,7 @@ def story_for(chapters, pad):
         "entirely coincidental.",
         "All characters in this book are 18 years of age or older.",
         "<br/>".join(
-            [f"ISBN {html.escape(pi['isbn_paperback'])} (paperback)"]
+            ([f"ISBN {html.escape(pi['isbn_paperback'])} (paperback)"] if pi.get("isbn_paperback") else [])
             + ([f"ISBN {html.escape(pi['isbn_hardcover'])} (hardcover)"] if pi.get("isbn_hardcover") else [])
             + [f"ISBN {html.escape(CFG['isbn_hyphen'])} (ebook)"]),
         f"First Edition {CFG['year']}",

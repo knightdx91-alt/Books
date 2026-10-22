@@ -140,3 +140,6 @@ would no longer hold.
    confirmation that 5 × 8 is available as plain case laminate.
 4. The closing line is marked PROVISIONAL in STATE.yaml. If the text changes, re-assemble and
    rebuild, and recheck the page count and spine.
+
+## STALE (2026-10-22)
+The 5x8 paperback interior and wrap name ISBN 979-8-1829-5940-7 as the paperback, but the author assigned that ISBN to the 6x9 hardcover in IngramSpark. Do NOT upload the 5x8 files until the paperback has its own ISBN and they are rebuilt.

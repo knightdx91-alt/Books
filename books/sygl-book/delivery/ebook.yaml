@@ -30,7 +30,7 @@ desc: "A one-handed orphan with no sygl finds Amelia, the imprisoned originator 
 # print interior. The print ISBNs are listed alongside the ebook one.
 copyright_extra:
   - "All characters in this book are 18 years of age or older."
-  - "Paperback ISBN 979-8-1829-5940-7"
+  - "Hardcover ISBN 979-8-1829-5940-7"
 
 # --- "Also by" page (author, 2026-10-22) -------------------------------------
 # EPUB: raw HTML after make_epub's own "Also by <author>" heading.
@@ -52,7 +52,7 @@ also_by_print:
 
 # --- print (read by tools/build_interior.py; ignored by make_epub) ----------
 print:
-  isbn_paperback: "979-8-1829-5940-7"
+  isbn_paperback: ""                       # 979-8-1829-5940-7 went to the HARDCOVER (2026-10-22); paperback needs a new ISBN
   isbn_hardcover: ""                       # none yet — hardcover needs its OWN ISBN; line omitted until set
   trim: {width: 5.0, height: 8.0}          # inches; paperback AND hardcover (case laminate) share ONE interior
   interior: "B&W, cream paper"
@@ -66,3 +66,5 @@ print:
       trim: {width: 6.0, height: 9.0}
       margins: {inside: 0.875, outside: 0.625, top: 0.75, bottom: 0.7}
       out_name: "Sygl-6x9-hardcover-interior"
+      isbn_hardcover: "979-8-1829-5940-7"   # author assigned 5940-7 to the HARDCOVER in IngramSpark (2026-10-22)
+      isbn_paperback: ""                     # paperback will need a different ISBN
