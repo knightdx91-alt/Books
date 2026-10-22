@@ -173,7 +173,10 @@ def story_for(chapters, pad):
     s += [Blank(), PageBreak()]
     # p3 recto: title page
     s += [Spacer(1, 1.5 * inch), Paragraph(html.escape(TITLE), t_main),
-          Spacer(1, 1.9 * inch), Paragraph(html.escape(AUTHOR), t_auth), PageBreak()]
+          Spacer(1, 1.9 * inch), Paragraph(html.escape(AUTHOR), t_auth)]
+    if CFG.get("publisher") and CFG.get("publisher") != AUTHOR:   # imprint at the foot of the title page
+        s += [Spacer(1, 1.6 * inch), Paragraph(html.escape(CFG["publisher"]).upper(), cp)]
+    s += [PageBreak()]
     # p4 verso: copyright, set low on the page
     pi = PRN
     lines = [

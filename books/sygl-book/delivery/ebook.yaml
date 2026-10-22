@@ -14,7 +14,7 @@
 full_title: "Sygl"
 title: "Sygl"
 author: "Søren Stromberg"            # pen name — title page, copyright, running heads, EPUB creator
-publisher: "Søren Stromberg"
+publisher: "Underground Associates"   # imprint (author, 2026-10-22)
 year: 2026                            # copyright year
 language: "en"
 revision: "r1"                        # stamps full-manuscript-r1.md and the interior PDF names
@@ -22,7 +22,7 @@ revision: "r1"                        # stamps full-manuscript-r1.md and the int
 # --- ebook ------------------------------------------------------------------
 isbn: "EBOOK-ISBN"                    # PLACEHOLDER — the EBOOK ISBN (not a print one)
 isbn_hyphen: "EBOOK-ISBN"             # same, formatted for the copyright page
-cover: "delivery/cover/ebook-cover-PLACEHOLDER.jpg"   # PLACEHOLDER art — replace with the real front cover JPG
+cover: "delivery/cover/ebook-cover-sygl.jpg"   # final front cover (Canva art A + type)
 out: "delivery/ebook/Sygl.epub"
 edition: "First Edition 2026 &#183; Ebook Edition"
 desc: "A one-handed orphan with no sygl finds Amelia, the imprisoned originator of the feared Blood sygl, sealed in the temple behind his orphanage for three thousand years. He bonds her as his familiar and walks her out into a school, a found family and a war."
