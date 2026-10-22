@@ -3015,3 +3015,70 @@ Open contradictions: 33 → 37.
   - All ch-21 cites fall in p1..p259. Paragraph numbers were verified against a numbered dump of the file; p101/p102 and p239/p240 were caught and fixed.
 - **Not touched:** the manuscript, character-bible.md (another agent is auditing in parallel), STATE.yaml, foundation.md and outline.md. Nothing committed.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. The file holds 325 characters, 98 locations, 153 objects, 20 organizations, 67 plot threads, 110 world rules, 213 timeline_events and 154 contradiction rows (52 open).
+
+## 2026-10-22: RE-SYNC (chapter 21, "The Wolf's Old Name", FINAL page)
+
+- **Page read:** chapter-21.md at 09443f2: the continuity repair b832f99, eval fixes F1-F11 1cc454c and finalize F-1/F-2 09443f2. md5 23e2aa5722cdd7b0be2d6a6eb692dd16.
+- **Numbering:** 259 -> 254 paragraphs. Breaks now fall after p76, p144 and p210.
+  - Cut: old p185 ("I saw.", W-13) and old p212-p214 ("Then his mouth began a word…" / "The Ides is three months off," / "Less.", W-08).
+  - Merged: old p196 into old p195.
+  - Map: old p1-p184 unchanged; p186-p195 → p185-p194; p196 → p194; p197-p211 → p195-p209; p215-p259 → p210-p254. Formulas are in `paragraph_rule`.
+- **Renumbering:** 204 Ch.21 refs renumbered by script (ch-21:pYY, plus bare refs on Ch.21 lines). The six refs to the cut Ides lines were rewritten by hand.
+- **Checks:** every quoted Ch.21 fragment was checked against the page and against its cited paragraphs, using a quote check and a 4-gram diff of the 6828354 page against the final page. One older wrong cite was fixed: "No. I was not there. I believe you anyway." is p205.
+- **Facts carried from the page:**
+  - Nicanor:
+    - "This is him. The murmillo Nero freed." (p96)
+    - "bandy-legged" (p84)
+    - "Who does he belong to?" (p137)
+  - Places and people:
+    - "Kenchreai" (p96; p133), with a new fact on locations.kenchreai.
+    - "the Syrian that had no wind and the boy from Argos that cried" (p93).
+    - Valens: "I rake sand," (p99).
+  - The summons: "It was from Plautia's brother, in a scribe's hand, round and even." (p50). It opens "To Gaius Iulius Valens, greeting." (p51). The brother stays UNNAMED and the audit's "Sextus Plautius" patch is NOT applied.
+  - Fabius's freedman:
+    - The earnest is "Fifteen hundred there, for earnest" (p150), half the raised 3,000. The 500 figure is replaced everywhere.
+    - "when I was little" (p153).
+    - "Your husband never asked…" (p155).
+  - Felix:
+    - "the child was due in the summer" (p151).
+    - "Felix slid down and stood by the dun" (p98).
+    - "Beyond the curtain Felix stopped turning over." (p197), added to his overheard rows and the knowledge index.
+    - "two mornings running … On the third" (p211).
+    - "Valens reached for the nail." (p231).
+  - Objects:
+    - The tread is "hollowed deep" (p41).
+    - "tried that door twice" (p193).
+    - The pier: "where whoever cut it had been jostled" (p140); "Three paces on, he stopped." (p141).
+    - "LVPVS showed again" and the knife: "Valens slid his knife in where the wreath's two ends met and lifted the wreath off whole." (p252).
+  - Others:
+    - The street "fell away" (p224).
+    - Grata's "wine cup" (p159); "she was left with her hand in the air" (p166).
+    - Mara: "turned to the lamp until my mouth behaved." (p175).
+    - The crier is "a boy" (p146), no longer tied to pompeii-bakers-boy.
+- **Removed as page facts:**
+  - Mara's laugh at the tread, now "He caught me watching him." (p42).
+  - The sand and oak residue on Valens (p23; p42).
+  - The black-mat doors (p63).
+  - "on ice, and in snow".
+  - "Mules, is it?" and "I drive mules".
+  - "his face had gone young".
+  - "My master can wait for him until the Parilia." The Parilia offer still stands at p129 and p150.
+  - The Ides lines (timeline row 21, timeline_events, rome-decision).
+  - Cut wording that carried a fact is kept only as labelled `resync_note` / CUT text.
+- **Renamed (former_slug kept):**
+  - gaul-with-no-wind → syrian-with-no-wind. Its needs_review against the-gaul is CLOSED.
+  - boy-from-patrae → boy-from-argos.
+- **Flags:**
+  - **NARROWED:**
+    - CH21-2: the "own hand" part is RESOLVED by Nicanor's "The murmillo Nero freed.". Still open (info): the herald's "from the hand of Caesar himself" puff, Grata's "a sword off Caesar" and the count nine.
+    - CH21-3: the Gaul question is CLOSED. Still open (info): Nicanor vs valens-school-trainer and lanista-pompeii.
+  - **Rechecked, still open:**
+    - CH21-1: route unchanged; the outline is not yet patched.
+    - CH21-5: re-anchored to p211, p249 and p251.
+  - **Untouched:** CH21-4.
+  - **NEW:** CH21-6 (low). The COMMITTED character-bible.md still quotes the Ch.21 writer draft ("brown and creased", "Cenchreae", "Whose is he?", "that Nero freed with his own hand"). The working tree already holds an uncommitted sync to this page. The row resolves when that sync is committed (same pattern as CH20-7).
+  - **CRITICAL:** none.
+  - **knowledge_gap:** none new.
+- **meta:** updated the header note, `last_updated_by`, `mode`, `source` and `paragraph_rule`. Added a `revalidation_needed` chapter-21 row (RESOLVED), a `ch21_requested_checks` re-sync row, and the earlier check rows annotated with RE-SYNC notes.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. The file holds 325 characters, 98 locations, 153 objects, 20 organizations, 67 plot threads, 110 world rules, 213 timeline_events and 155 contradiction rows. **53 open** (52 before; +1 CH21-6). All ch-21 cites fall in p1..p254.
