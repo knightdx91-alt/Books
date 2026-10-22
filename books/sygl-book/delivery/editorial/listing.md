@@ -1,7 +1,7 @@
 # Sygl: Retailer Listing Package (Amazon KDP / Kindle Unlimited, IngramSpark)
 
 **Title:** Sygl
-**Series:** [SERIES NAME], Book 1 *(placeholder; the author picks the series name)*
+**Series:** none (standalone for now; the author has no Book 2 planned, author ruling 2026-10-22)
 **Author:** Søren Stromberg
 **Length:** about 91,400 words (30 chapters)
 **Audience:** New adult (NA). Not YA.
@@ -93,14 +93,7 @@ Fact basis, for the author's reference: Bal is 18. Amelia was turned at 18 and i
 
 ## 7. Series line
 
-> **[SERIES NAME], Book 1**
-
-Leave the series field filled in from day one (KDP links series pages automatically once Book 2 exists). The Book 2 threads are in `series-hooks.md`.
-
-**Also by Søren Stromberg** *(optional; for the back matter or the A+ content, not the description)*: *A Bond of Scale and Silver*, a standalone adult romantasy (18+).
-**Caution:** that book is adult romantasy. If it is spicier than *Sygl*, cross-promoting it on this listing may set the wrong heat expectation for clean-harem readers. Consider labelling it plainly ("adult romantasy, 18+") wherever it is listed.
-
----
+Leave the series field EMPTY. The author has no Book 2 planned (2026-10-22); "Book One" was removed from the cover. If a sequel is ever written, add the series name then (KDP can link existing books into a series later). Open threads are kept in `series-hooks.md` for that day.
 
 ## 8. Comparable titles (5; all real, published books)
 

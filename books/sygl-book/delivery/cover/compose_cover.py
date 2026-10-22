@@ -58,7 +58,6 @@ html,body{{width:{W}px;height:{H}px;background:#070405;}}
   <div class="titleblock">
     <div class="main">Sygl</div>
     <div class="divider"><span class="ln"></span><span class="dot"></span><span class="ln r"></span></div>
-    <div class="book">BOOK ONE</div>
   </div>
   <div class="author">{AUTHOR}</div>
 </div></body></html>'''
