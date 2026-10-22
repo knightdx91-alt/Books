@@ -69,8 +69,14 @@ FRONT_FLAP = [
     ("fclose", "A warm new adult fantasy of found family, forbidden magic and a love big enough&#160;for&#160;four."),
 ]
 BACK_FLAP = [
-    ("bname", "SØREN STROMBERG"),
-    ("bpara", "Søren Stromberg is also the author of <i>A Bond of Scale and Silver</i>."),
+    ("bhead", "ALSO BY SØREN STROMBERG"),
+    ("btitle", "<i>A Bond of Scale and Silver</i>"),
+    ("bnote", "(adult romantasy, explicit)"),
+    ("bhead", "WRITING AS POST PELEOS"),
+    ("bnote", "The Saeren Chronicles (young adult fantasy)"),
+    ("btitle", "<i>Hazel Academy</i>"),
+    ("btitle", "<i>The Resistance</i>"),
+    ("btitle", "<i>The Weight of the Source</i>"),
 ]
 
 def blocks(items):
@@ -130,6 +136,9 @@ html,body{{width:{PAGE_W}in;height:{PAGE_H}in;background:#fff;}}
 .bflap{{left:{x_bflap + 0.32}in;top:{TY + 0.75}in;width:{FLAP - 0.64}in;color:#d8c4ad;font-family:'Plex';text-align:center;}}
 .bflap .bname{{font-family:'Plex';font-size:11pt;letter-spacing:.3em;text-indent:.3em;color:#f1e6d6;margin-bottom:12pt;}}
 .bflap .bpara{{font-size:9.6pt;line-height:13.6pt;}}
+.bflap .bhead{{font-family:'Plex';font-size:8pt;letter-spacing:.22em;text-indent:.22em;color:#d6aa64;margin:22pt 0 7pt;}}
+.bflap .btitle{{font-family:'PlexI';font-size:10.5pt;line-height:15pt;color:#f1e6d6;}}
+.bflap .bnote{{font-size:8.6pt;line-height:12.5pt;color:#d8c4ad;margin-bottom:3pt;}}
 .bimp{{left:{x_bflap}in;width:{FLAP}in;top:{TY + TH - 0.85}in;text-align:center;font-family:'Plex';font-size:8pt;letter-spacing:.24em;text-indent:.24em;color:#d6aa64;}}
 .fold{{top:{BY}in;width:0;height:{BH}in;border-left:0.6pt solid rgba(214,170,100,.0);}}
 """
