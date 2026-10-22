@@ -2936,3 +2936,82 @@ Open contradictions: 33 → 37.
 - **meta:** header note, `last_updated_by`, `mode`, `source`, `paragraph_rule` (Ch.20 re-sync), `revalidation_needed` (chapter 20, RESOLVED), the `ch20_requested_checks` rows corrected (marked RE-SYNC), and a re-sync row.
 - **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. The file holds 307 characters, 97 locations, 140 objects, 20 organizations, 65 plot threads, 106 world rules, 207 timeline_events and 149 contradiction rows (50 open).
+
+## 2026-10-22: UPDATE (chapter 21, "The Wolf's Old Name", post-disruptor page)
+
+- **Page read:** chapter-21.md at 6828354 (writer 7acafef, dialogue-polish e891169, hook-craft d767ea1, book-disruptor 6828354), md5 91b9b3d298f6c27514e028ab4af41495.
+- **Numbering:** 259 paragraphs, three `* * *` breaks after p76, p144 and p215 (S1 shop, S2 amphitheater, S3 shop, S4 barracks). The title, the dateline heading and the two HTML comment lines are not counted, so file line 8 = p1. The tablet text (p51) and Plautia's line (p53) count as paragraphs. Per-section formulas are in `paragraph_rule`.
+- **Page, not report:** lines that `manuscript/reports/chapter-21-report.md` quotes but later passes cut are NOT recorded ("stood still since Corinth", the list of places, "six years since… sand", the freedman's dead Lupus). The disruptor's changed facts are recorded as they stand: the Capuan Lupus is alive and keeps a cookshop at Puteoli (p155); Grata's rumour is "Twenty times" against the true nine (p161); Felix overhears the argument's tail (p200); Felix's face "had gone young" (p98).
+- **meta:** `last_updated_chapter: 21`; 21 added to `chapters_tracked`. Also updated: the header note, `last_updated`, `last_updated_by`, `mode`, `source` (outline now covers Ch.22-44) and `paragraph_rule`. New block: `ch21_requested_checks` (9 rows).
+- **Planned rows replaced by the page** (each keeps `plan_was`):
+  - Mara's and Valens's Ch.21 location rows.
+  - Mara's summons knowledge row. It is now "discovered" (she reads the tablet), not told by the freedman.
+  - Valens's Ch.21 waypoint.
+  - Grata's summons knowledge row and its `dowry_suit_witness` index row, both now NOT ON THE PAGE.
+  - The brother's freedman's "Grata's counter" trait, now NOT ON THE PAGE.
+  - Timeline row 21, and the timeline_events row for the summons.
+- **Characters updated:**
+  - **Mara:** `pregnancy_1_ch21`, 6 traits, 2 relationships (nicanor, fabius-freedman), 12 knowledge rows, `knowledge_absent_ch21`, a Ch.21 waypoint.
+  - **Valens:** `seen_ch21`, 9 traits, 2 relationships (nicanor, gaius-fabius-rufinus), 7 knowledge rows, `knowledge_absent_ch21`.
+    - The traits cover: the arena record (nine; CH21-2); the heel; the tread; the hand that goes up and the washing; the flat refusal; misreading Grata; the case for being nobody; Felix and the sand; how he reads.
+  - **Felix:** `age_ch21` ("The slaver said twelve, at Kirrha" / "Fifteen, then. Sixteen."; fits birth AD 58), `seen_ch21` (taller than Mara), 6 traits (the palm-branch trait CONFIRMED), the nicanor relationship, a status row and a location row, 6 knowledge rows, `knowledge_absent_ch21`.
+  - **Grata:** `seen_ch21` (the gold earrings with the pearl), 4 traits (the "fancies Valens" foundation trait now on the page), 3 knowledge rows, `knowledge_absent_ch21`, a location row and a status row.
+  - **Others:**
+    - plautia: her line, and the four-line letter as knowledge.
+    - plautias-brother: the summons trait, plus a ch21_note on the lodging row.
+    - quintus-arrius-celer: the advocate and the farm (agrees with ch-17:p179).
+    - lucius: ch21_note on timing.
+    - ch21_notes on fish-sauce-carter, coppersmith-next-street, fullers-wife-pompeii, gratas-husband, lime-carter-to-puteoli, the-cilician and carting-foreman.
+- **New:**
+  - **Characters (18):** nicanor (needs_review vs lanista-pompeii and valens-school-trainer), gaius-fabius-rufinus, fabius-freedman, capuan-lupus, nicanors-young-fighters, saturnalia-thracian, arena-herald, youth-under-the-awning (needs_review vs Fabius), eggs-grandmother, cushion-sellers-wife, comb-boy, pompeii-bakers-boy, barracks-porter, show-painter (needs_review vs infantio), spice-seller-pompeii, carting-contractor (needs_review vs carting-foreman), gaul-with-no-wind (needs_review vs the-gaul), boy-from-patrae.
+  - **Locations (1):** pompeii-gladiator-barracks. Facts added to pompeii-amphitheater (the north passage, the palaestra lane, the women's top ring, the tribunal, the water organ, the painted walls), pompeii, puteoli-wine-shop, puteoli, corinth ("the old school under the hill"), nuceria and rome (Basilica Julia, April).
+  - **Objects (13):**
+    - chekhov_open: summons-tablet, lupus-graffito-gatepost, felixs-palm-graffito, felixs-nail, murmillo-bowl-promised.
+    - chekhov_closed: fabius-earnest-purse ("Take it back to him."; "I sent it home with him."), roof-stair-tread (oak in overnight; the old tread burned).
+    - background: lupus-graffito-pier, spice-sellers-scales, bone-seat-tokens, gratas-pearl-earrings, falernian-from-the-fuller, eggs-grandmothers-egg.
+  - **Existing objects:** valens-letter-to-plautia is now **chekhov_closed**: Plautia's reply, p53. back-room-barred-door gains a beat (p194; p195), which agrees with Ch.19.
+  - **Plot threads (2):** rome-decision (open; the deadline is the Ides of March; it carries a forward constraint, below) and fabius-exhibition-offer (open).
+    - **Paid:** puteoli-letter-board and plautias-letter.
+    - **Notes added:** plautias-question, valens-known, felix-arena (opened on the page), felix-no-paper, valens-literacy, conception-and-lucius (Valens told; status updated), syracuse-cover and repair-trade.
+  - **World rules (4):** women in the top ring by law; the finger, the editor's hand, the palm and the purse; the bloodless exhibition; a free boy may swear himself to a lanista.
+  - **Organizations:** facts added to pompeii-gladiator-school (the planned recognition and refused offer CONFIRMED) and pompeii-muleteers.
+  - **timeline_events:** 6 rows (late Nov AD 73 → Feb AD 74, plus the March and April deadlines set on the page).
+- **Timing:**
+  - S1 is "Twenty-six days" before the Saturnalia, about 21 November AD 73. It is the morning after Ch.20's reveal ("Last night. Grata knew before I did."). That is late autumn under a "winter, AD 73–74" dateline; this is noted, not flagged.
+  - The pregnancy is due "With the heat. Summer, she thinks." If her first sickness came about mid-November, conception was about late September to October AD 73. That agrees with Lucius born summer AD 74 and with about six months at an April trial.
+  - "The Ides is three months off," / "Less." on the day after the Saturnalia show is consistent.
+- **Knowledge flow:**
+  - **The summons:** the brother's tablet reaches Valens through the lime carter, who "looks at the board for me" (p25). It is read behind the curtain "because of Felix" (p49).
+  - **The pregnancy:**
+    - Valens is told first, by Mara (p26), before any street path reaches him ("Who knows?").
+    - Felix learns next morning through the street chain, "The baker's boy says the carter says Grata says." (p66).
+    - The grandmother has it "Grata says the heat" (p119). That is 26 days after Grata's "I've told nobody"; a path exists, so no gap.
+  - **Lupus:** Felix, the fighters, Fabius, the herald, the bowl, the street and Grata all learn the name Lupus. Felix hears it for the first time on the page (p93-p96; p110).
+  - **The argument:** Felix overhears its tail ("I'm not listening.", p200). How much he heard is not stated.
+  - **No paper:** Nicanor is told Felix is free ("His own. I freed him."). Mara is told there is no paper.
+  - **Reading:** Felix still believes Valens cannot read.
+  - **No new knowledge_gap.**
+- **Contradictions:**
+  - **RESOLVED (2):**
+    - **CH19-7:** the route is on the page: the board, the letter out by the lime carter, and the tablet back by the lime carter.
+    - **CH20-5:** the outbound and inbound rules both work. The reply proves the letter arrived, and the tablet was fetched.
+  - **Rechecked, still open:**
+    - **CH20-6:** no tomb line in Ch.21; the constraint holds.
+    - **CH17-5:** Valens fears a man at Syracuse, and Mara has nobody there.
+    - **CH19-6:** no Myrrhine.
+    - **CH18-5:** status not raised.
+  - **NEW (5):**
+    - **CH21-1 (info):** the outline's knowledge path has the freedman at Grata's counter. On the page the lime carter fetches the tablet from the Puteoli board. The NON-NEGOTIABLE's substance is met. The outline still carries the old line.
+    - **CH21-2 (info):** the public version of the record. Nicanor, the herald and the freedman all say "Nine". Grata's "Twenty" is rumour. "Nero freed with his own hand" / "from the hand of Caesar" stand against the leaf's "set free by his master before … the emperor". The count is recorded as nine.
+    - **CH21-3 (info):** Nicanor's identity is open: the Ch.28 lanista? the Ch.13 forms trainer? He is not the dead trainer of ch-17:p225. The "Gaul that had no wind" may or may not be the Ch.12 Gaul. This is also the first time the page places Valens's school at Corinth.
+    - **CH21-4 (info):** the letter's "Four lines" included "the dun's hoof". No page shows trouble with the dun's hoof (the Ch.19 boot is the black's, ch-19:p89).
+    - **CH21-5 (low):** Valens's "four years" of letting Felix think he cannot read. From about February AD 74, four years means a purchase in early AD 70. That is compatible with foundation's c. AD 70, but not if the purchase was that autumn.
+  - **CRITICAL:** none.
+  - **Open count:** 49 UNRESOLVED rows before this run (counted by script; the last entry's "50" was one high), now **52**.
+- **Forward constraint (thread rome-decision):** the brother's freedman waits at Puteoli from the Kalends to the Ides of March AD 74. The hearing is in April, the same month as Fabius's Parilia show (21 April). Ch.22 must open with the decision made and the road taken before the Ides.
+- **Checks:**
+  - Every quoted fragment on the added lines was checked by script against chapter-21.md. Two misquotes were corrected before writing: the comb boy's "She's to be married…" and "There's oak behind the inn yard."
+  - Fragments that are deliberately off the page are the plan/outline/foundation quotes and the four report-only lines named above as absent.
+  - All ch-21 cites fall in p1..p259. Paragraph numbers were verified against a numbered dump of the file; p101/p102 and p239/p240 were caught and fixed.
+- **Not touched:** the manuscript, character-bible.md (another agent is auditing in parallel), STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. The file holds 325 characters, 98 locations, 153 objects, 20 organizations, 67 plot threads, 110 world rules, 213 timeline_events and 154 contradiction rows (52 open).
