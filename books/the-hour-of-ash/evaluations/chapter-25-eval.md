@@ -490,3 +490,138 @@ Spec: more than 3 notes of one state fails, and so do 3 notes inside ~500 words.
 **POLISH.** Genesis Floor 8.0 (Characters) < 8.5. Casual 9.0 ✓; pacing OK ✓; gates clean ✓. G1–G5 landed and cleared cycle 1's cap reasons. A full recount of every state found four narrated states over the hand rule that the earlier counts missed, all inside Fenn's 218–268 stretch: talk-on, wall-keeping, break-offs and object-looks. Apply `fixes25c/apply_fixes.py` (tested, 6 cuts, nothing added but one name) and re-evaluate. Nothing structural.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Re-evaluation — cycle 3
+**Evaluator:** book-evaluator (independent) | **Date:** 2026-10-23 | **Text:** `chapter-25.md` md5 `39df960081644e9becf5331cfb362783` (cycle-2 set J1–J4, H3 applied)
+
+### Verification of the cycle-2 set
+- **J1–J4 and H3 landed once.** Every cycle-2 cut string is at 0 ("The shakes ran on", "Partway through them", "Fenn stayed facing his wall", "abandoned the shakes", "facing Valens, who looked back", "He looked at it and slid").
+- **Gates on the real file:**
+  - `check_chapter.sh 25`: ALL MECHANICAL GATES CLEAN, SHAPE CLEAN.
+  - `tic_report.py --gate`: clean. Ch.25 gesture layer: 'a (long) moment' 2, shrug 1. No prop flag.
+  - `--echoes 25`: 0 / 0 / 0.
+  - Metrics: 7,414 words, median 11, mean 16.0, 5.4% over 40 words, simile 19, dialogue 49.9%.
+
+### Narrated-trait census: EXHAUSTIVE, one pass
+Every recurring character and every narrated state, with lines and word offsets. Spec: a state fails at >3 notes in the chapter, or at 3 inside ~500 words. Turning is a gesture class, so it takes the gate's long-chapter rate (one per 1,000 words, cap 7).
+
+**Class rulings, fixed here so later cycles do not re-litigate them:**
+- l.168 "let that one in; I saw him decide to" is a *decision to answer*, not an absorption.
+- l.416 "his eye strayed to the sill … and stopped" is *noticing*, not a feeling routed into a look.
+- Laughs and smiles are separate classes.
+- Valens's looks split by kind: finds Mara, watches, meets Fenn.
+- Lucius's *mood* (objected / grievance / suspicion) and his *cognition* (studied / weighed / regarded) are separate classes.
+
+| Character | State | Lines (word offset) | Count / spacing | Verdict |
+|---|---|---|---|---|
+| Fenn | talks on (narrated) | 186 "talking across me" (3039) · 218 "went on at the wall" (~4030) · 228 "in the … pool again" (4121) · **232 "at his next pause" (4245)** | **4; 218/228/232 inside ~215 words** | **FAILS** → K1 |
+| Fenn | breaks off / halts (narrated) | **136 "He stopped." (~2315)** · 218 "broke off halfway into the hot springs" · 254 "let that go, short of" · 268 "broke off and drank" | **4**, with "broke off" verbatim ×2 | **FAILS** → K2 |
+| Fenn | absorbs news | 98 "testing it" (1766) · 116 "tasting it" (1983) · **324 "He took that in" (5794)** · 388 "let it be" (6619) | **4**; "took that in" also rebuilds 168's "let that one in" | **FAILS** → K3 |
+| Fenn | feeling routed into a look at a thing | 202 copper "went on looking at it" · 374 notebook · 382 the bay · **426 "looked at the plant for some while"** | **4**. Cycle 2 filed 426 under "other looks", but its own class includes the bay, so the plant belongs here too. | **FAILS** → K4 |
+| Fenn | "slowly" (late manner) | 98 · 388 (6619) · 414 (6938) · 426 (7088) | 4; 388/414/426 inside ~470 words | **FAILS** → K4 |
+| Fenn | lighter held or handled | 52 · 168 · **234 "waved the hand with the lighter in it"** · 260 | **4** narrated holds (cycle 2 passed it as a card object, but it is a re-noted state) | **FAILS** → K5 |
+| Fenn | copper handled (author's prop rule: 3+ in 400 words) | 202 took (3488) · 202 stood/spun/stopped (~3600) · 210 flicked back (3700) | **3 inside ~210 words**. The gate's regex misses "stood … spun" and "flicked". | **FAILS** → K6 (the flick stays; l.442 "My other copper" needs it) |
+| Fenn | bad hand held down | 382 "held it down hard" · 382 "pinning his own hand to the wood" · 394 "the covering hand" | **3 inside ~200 words** | **FAILS** → K7 |
+| Fenn | does not ask | 380 "did not ask whose" · 382 "not asking" · 382 "watched him not ask" | **3 inside ~80 words** | **FAILS** → K7 (one cut fixes both) |
+| Fenn | bare echo-fragment of Mara's noun before business | 82 Husband · 98 Ninety-eight · **246 The Pythia** · **304 Mules** · 358 · 370 · 388 · 410 Grata | 8 echoes; the "X." + business pattern ×5 | device → K9, K10. That leaves 82/98/410 as the pattern; 358/370/388 are designed. |
+| Fenn | "figure" in speech | 162 · 170 · 264 ×2 (the pun) · **268** · 328 | 6; 264/264/268 inside ~140 words | leaned-on word → K11 |
+| Fenn | "anyhow" | 152 · 202 · **310** | 3 | third use → K12 |
+| Fenn | turns / faces | 54 · 90 · 218 · 234 · 414 · 432 | 6 (0.81/1k, under the cap of 7); none 3 in 500 | OK |
+| Fenn | looks away (harbor / ceiling / bay) | 98 · 218 · 382 | 3, spread | OK (K2 keeps the ceiling as the nursing beat) |
+| Fenn | looks at people | 82 doorway at last · 106 stared · 210 flicked · 236 fixed me · 282 child properly · 290 watched Lucius · 304 weighed Valens · 414 my hands | each a different state; "sees people last" is the designed arc | OK |
+| Fenn | still / quiet | 258 · 260 · 368 | 3 across ~1,500 words | OK |
+| Fenn | tremor | 38 · 382 · 394 | 3 | OK |
+| Fenn | laughs / smiles | 106, 162 / 156, 268, 398 | 2 / 3, spread | OK |
+| Fenn | face moves | 54 and 128 mouth · 140 smoothed · 250 sobered · 318 made a face | different states | OK |
+| Fenn | bows · slaps · back-patting | 84, 196 · 152, 402 · 62, 82 | 2 each | OK |
+| Fenn | sand on robe | 120 · 282 · 402 | 3, spread (continuity) | OK |
+| Fenn | sits on the table / stool | 120 · 168 · 218 · 246 · 368 | blocking that changes; re-notes ≤2 | OK |
+| Fenn | eyes "… and back" · "showed me" | 98, 210 · 174, 186 | 2 · 2 | WATCH |
+| Valens | doorway station | 80 · 390 · 428 | 3 (390→428 ~480 words, only 2 in the window) | OK |
+| Valens | surveys a space | 14 · 68 · 80 | 3; only 68/80 in the window | OK |
+| Valens | finds Mara · watches · meets Fenn | 68, 212 · 80, 390 · 304, 434 | 2 · 2 · 2 | OK |
+| Valens | "over the … head" | 212 · 434 | 2 | WATCH |
+| Mara | words escape her | 48 · 308 · 378 | 3, spread | OK (≤1 in Ch.26) |
+| Mara | hands or legs act alone | 60 · 230 · 442 | designed | OK |
+| Mara | satchel | 230 · 372 · 400 | 3, spread | OK |
+| Mara | looks (smudge / window) | 164 · 360 | 2 | OK |
+| Mara | holds it back | 330 "left it empty" · 446 "kept the fire to myself" (+60 "kept them to itself") | 2–3, spread | WATCH: "kept … to itself / myself" ×2 |
+| Lucius | lent mood | 80 · 218 · 278 | 3, spread | OK |
+| Lucius | lent cognition | 26 studied · **278 weighed** · 278 regarded | 3; "weighed" also repeats Fenn's l.304 inside ~265 words | → K8 |
+| Lucius | complaint (events) | 212 · 298 | 2 | OK |
+| Walk-ons | captain, sprat boy, crier, ship's boy | 28 · 12 · 158 · 224 | 1 each | OK |
+| Narration | "than before" · "was to me" | 218, 382 · 294, 422 | 2 · 2 | WATCH |
+
+### Re-scored Genesis (max ±0.5 per dimension)
+| Dimension | Cycle 2 | **Cycle 3** | Basis |
+|---|---|---|---|
+| Originality | 9.0 | **9.0** | unchanged |
+| Theme | 9.0 | **9.0** | unchanged |
+| Characters | 8.0 | **8.0** | J1–J4 cleared cycle 2's four counts. The exhaustive census finds more, all present since cycle 0: talk-on 3 inside 215 words (l.232); break-offs 4 (l.136); absorption 4; object-look 4 (l.426); lighter 4; copper 3 inside 210 words (the author's prop rule); held-down hand and "not ask" each 3 inside 200 words. **The cap holds.** Uncapped value is 9.0: Fenn's bilingual voice, Mara's chaos 4/4 inhabited, every secondary with an independent moment, and Valens's belief shown and never declared. |
+| Prose & Voice | 8.5 | **8.5** | stopping sentence l.60 intact; no sample lifts; no spent object |
+| Pacing | 8.5 | **8.5** | 7,414 words (88%), dialogue 49.9% in band, value shift on two axes. **PACING: OK.** |
+| Emotion | 9.0 | **9.0** | anchor, body rebel and surprise intact |
+| Immersion | 9.0 | **9.0** | blocking holds |
+| **FLOOR / AVERAGE** | 8.0 / 8.71 | **8.0 / 8.71** | Characters |
+
+**Casual Reader 9.0** (unchanged: the lighter, "Thanks," the bus). **CVI-Launch 9.8** (9.29 + 0.5 anchor). **CVI-Legacy 7.3.** Anti-AI 7/20, all minor, CLEAN; #11 at 4 (0.54/1k), under the cap. Divergence: 1.8.
+
+### Cycle-3 fixes (TESTED, all census failures in one script)
+`/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes25d/apply_fixes.py <path/to/chapter-25.md>` holds 13 exact replacements. Each is a cut or a re-join: there is no new image and no new beat. Each old string must occur exactly once or the script aborts and writes nothing; a second run aborts.
+
+| # | Line | Now | Revision |
+|---|---|---|---|
+| K1 | 232 | "I asked, at his next pause." | "I asked." |
+| K2 | 218 | "Fenn broke off halfway into the hot springs. He looked at the ceiling." | "Fenn looked at the ceiling." |
+| K3 | 324 | 'He took that in. "Well, cripes," he said at last.' | '"Well, cripes," he said at last.' |
+| K4 | 426 | "Fenn looked at the plant for some while, and then slowly leaned over and nudged the pot" | "Fenn leaned over and nudged the pot" |
+| K5 | 234 | "He waved the hand with the lighter in it at his room," | "He waved a hand at his room," |
+| K6 | 202 | 'like it had been crying." He stood the copper on its edge and spun it on the table, and stopped it with a finger. "Anyhow."' | 'like it had been crying. Anyhow."' |
+| K7 | 382 | " He was pinning his own hand to the wood and not asking, and I watched him not ask." | " I watched him not ask." |
+| K8 | 278 | "Lucius tried the sand again, weighed the taste, spat" | "Lucius tried the sand again, spat" |
+| K9 | 246 | '"The Pythia." He left the stool for his table. "You asked' | 'He left the stool for his table. "You asked' |
+| K10 | 304 | '"Mules." He weighed Valens with a look,' | "Fenn weighed Valens with a look," (named: l.302 ends with Valens as its subject) |
+| K11 | 268 | "I've got a feeling it's fair. I figure it owes me sixty-eight." | "I've got a feeling it's fair, that it owes me sixty-eight." |
+| K12 | 310 | "You'd find out anyhow." | "You'd find out anyway." |
+| H4 | 6 header | stale counts; "Writer draft 2026-10-24" | shape 7,344, ~7,710, 87%, 50.2%, cycles 0-3 (K1-K12); "Writer draft and continuity repair 2026-10-23" (consistent with the eval and audit history) |
+
+**Test** (scratch copy `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/rt25c3/books/the-hour-of-ash`, starting from md5 `39df9600…`):
+- 13 applied; the re-run aborts (exit 1). Patched md5 **`b3642f8e4fb711f8b608bf80a541bbbc`**.
+- `check_chapter.sh 25`: **ALL MECHANICAL GATES CLEAN**, SHAPE CLEAN. `--gate` clean. `--echoes 25`: 0 / 0 / 0.
+- Metrics: 7,344 words (shape), dialogue 50.2%, median 11, mean 16.0.
+- New joins ("Fenn looked at the ceiling", "crying. Anyhow", "waved a hand", "that it owes me", "find out anyway", "Fenn leaned over and nudged", "Fenn weighed") were grepped against Ch.1–24, the samples, outline, foundation, voice-dna and the bible. There are no hits. "In the end" was rejected for K4 because Ch.24 l.370 opens a paragraph with it.
+- No cut string from F/G/J is restored. No closed-list item is used.
+
+**Counts after K1–K12** (the same classes as the table above):
+- Fenn: talk-on 3 (186/218/228, span ~1,080 words); break-offs 3 (136/254/268, "broke off" ×1); absorbs 3; object-look 3; "slowly" 3 (no 3 in the window); lighter 3; copper 2; held-down 2; "not ask" 2; echo-fragment pattern 3; "figure" 5 (one pair is the pun); "anyhow" 2.
+- Lucius: cognition 2.
+- Everything else is as tabled.
+
+**Projected:** Characters 8.5 (+0.5) → **Floor 8.5 / Average 8.79 / Casual 9.0 / CVI-Launch 9.8 / CVI-Legacy 7.3.** Cycle 4 needs only to verify the patched page against this table, because the census is now complete by construction.
+
+### Bookkeeping to carry into finalize (in addition to cycles 0–2)
+- **CUT (never restore):**
+  - "at his next pause"
+  - "broke off halfway into the hot springs"
+  - "He took that in."
+  - "looked at the plant for some while, and then slowly"
+  - "the hand with the lighter in it"
+  - "He stood the copper on its edge and spun it"
+  - "pinning his own hand to the wood and not asking"
+  - "weighed the taste"
+  - '"The Pythia." He left'
+  - '"Mules." He weighed'
+  - "I figure it owes me sixty-eight"
+  - "You'd find out anyhow"
+- **FENN card:** "the copper spun on its edge" (SPENT list) and the lighter's "waved" are no longer on the page. The tremor note needs a re-sync (on the table / held down / the hand that stays). The card head and the changelog say "Writer draft 2026-10-24"; make them 2026-10-23.
+
+## VERDICT (cycle 3)
+**POLISH.** Genesis Floor 8.0 (Characters) < 8.5. Casual 9.0 ✓; pacing OK ✓; gates clean ✓.
+- J1–J4 landed and cleared every count cycle 2 named.
+- The exhaustive one-pass census found nine more narrated states over the hand rule, all in the cycle-0 text. Fenn has eight (talk-on, break-offs, absorbing news, object-looks with "slowly", the lighter, the copper fidget, the held-down hand and "not ask"); Lucius has one (lent cognition).
+- Three voice-hygiene items are in the same set: the echo-fragment, "figure" and "anyhow".
+- Apply `fixes25d/apply_fixes.py` (tested; 13 cuts and re-joins) and re-evaluate. Nothing structural.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

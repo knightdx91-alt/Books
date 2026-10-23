@@ -3,7 +3,7 @@
 #### *Puteoli · early spring, AD 75*
 
 <!-- SCENE BUDGET (Target 8,400; Single-scene, one afternoon in one upper room behind the tunny sheds; 0 breaks; gear mid; dialogue 45-55%): the quay, the stair, the room (scene-set) 900 | recognition: the lighter, the mutter, "Thanks," "Jesus H. Christ" 550 | the collapse (laughter and tears at once, the hands that save the papyrus) 350 | Valens in the doorway: the language heard, the flush, nobody says so 500 | the rush: where, when, Baltimore Avenue, the moon refused, the Phillies 1980 / 1964, her father circled 1,100 | the WHEN blurted, flat and fast 300 | her deflection: 1968, the snow, AD 41, Claudius, the sky the Navy taught; the wine he paid for; the automat; the packed bag 1,500 | her own road told back: Delphi, the god, Valens carrying the question 450 | 62 and the law: Misenum, the carter's story, one door with many mouths, the promise, hours not days 900 | the others: Lucius in the sand; "Beats me"; always alone; Valens's one question 600 | the fig leaf: 71, 73, the Ides of October a mile away, the schoolbook year, the refusal 1,200 | the notebook: tremor notes, Pine Street, the estate sale, the trolley, "Keep it" 800 | close: the light, the child's stars, the letters, the stadium she does not tell him about, the punch 500 -->
-<!-- Word count: shape 7,414 / wc incl. header ~7,780 | Writer draft 2026-10-24; continuity repair 2026-10-23 (audit: 7 CRIT, 18 WARN, 6 INFO addressed); evaluator polish cycles 0-2 (F1-F11, G1-G5, J1-J4) | Target: 8,400 (88%) | Dialogue 49.8% (band 45-55) | Breaks 0 (single scene, one afternoon) | Median sentence 11-12 (gear mid planned; a 48%-dialogue two-hander lands low-mid) | Opens scene-set ("It was the first fair week after the sea opened..."), closes punch, single-sentence paragraph ("I told him his arithmetic was wrong.") | Em-dash 3 | And-chains 6 (cap 9) | Negation pivots 0 | Credential asides 0 | Echoes 0 | Tic gate clean | check_chapter.sh 25 ALL MECHANICAL GATES CLEAN | Anchor: the lost-lighter mutter, "Thanks," then "Jesus H. Christ" in a Philadelphia accent -->
+<!-- Word count: shape 7,344 / wc incl. header ~7,710 | Writer draft and continuity repair 2026-10-23 (audit: 7 CRIT, 18 WARN, 6 INFO addressed); evaluator polish cycles 0-3 (F1-F11, G1-G5, J1-J4, K1-K12) | Target: 8,400 (87%) | Dialogue 50.2% (band 45-55) | Breaks 0 (single scene, one afternoon) | Median sentence 11-12 (gear mid planned; a 48%-dialogue two-hander lands low-mid) | Opens scene-set ("It was the first fair week after the sea opened..."), closes punch, single-sentence paragraph ("I told him his arithmetic was wrong.") | Em-dash 3 | And-chains 6 (cap 9) | Negation pivots 0 | Credential asides 0 | Echoes 0 | Tic gate clean | check_chapter.sh 25 ALL MECHANICAL GATES CLEAN | Anchor: the lost-lighter mutter, "Thanks," then "Jesus H. Christ" in a Philadelphia accent -->
 
 It was the first fair week after the sea opened, and the fish quay at Puteoli smelled of brine, pine tar and the wet straw the tunny came packed in. The sheds stood one beside the next behind the quay with their doors propped open, and inside them men were cutting fish as long as themselves on stone slabs. The blood ran off down channels in the floors and under the sills into the gutter, and the gulls stood in it to their ankles and fought over what came out.
 
@@ -199,7 +199,7 @@ He fetched three cups on a board from a jar in the corner, and wine in them, not
 
 I drank mine, and it was terrible, and I drank it. It had been resinated against going sour and had gone sour regardless, and someone had added honey after that, as an apology. Valens had set his cup on the floor beside his boot, with great care, at some distance from himself, and forgotten it.
 
-Fenn reached across me and took one of my two coppers off the table's corner. "Put your money away, I'm not taking it," he said, but he went on looking at it. Vespasian's thick neck was on it, and the emperor's bad-tempered mouth, worn smooth on the high places. "What I'd give for a nickel. Horn and Hardart, Chestnut Street. You duck in, wet through, and there's a whole wall of little glass doors, chrome and glass, a piece of pie behind every door, and you put your nickel in the slot and the little door lets go, click, and you open it up and take your pie out. Coconut cream. The top was always a little damp, like it had been crying." He stood the copper on its edge and spun it on the table, and stopped it with a finger. "Anyhow."
+Fenn reached across me and took one of my two coppers off the table's corner. "Put your money away, I'm not taking it," he said, but he went on looking at it. Vespasian's thick neck was on it, and the emperor's bad-tempered mouth, worn smooth on the high places. "What I'd give for a nickel. Horn and Hardart, Chestnut Street. You duck in, wet through, and there's a whole wall of little glass doors, chrome and glass, a piece of pie behind every door, and you put your nickel in the slot and the little door lets go, click, and you open it up and take your pie out. Coconut cream. The top was always a little damp, like it had been crying. Anyhow."
 
 "They're gone," I said. "New York kept one going longest, and that's closed too."
 
@@ -215,7 +215,7 @@ Lucius had begun to complain in earnest, with his face pushed into the side of h
 
 "Give him to me."
 
-He carried him down the room into my arms, and I loosened my tunic at the throat and gave Lucius what he was after, and he took it with a grunt of grievance at having been kept waiting. Fenn broke off halfway into the hot springs. He looked at the ceiling. Then, with a great scraping, he turned his stool round until he sat with his shoulder blades to the room and his nose to the red curve, and went on at the wall, louder than before.
+He carried him down the room into my arms, and I loosened my tunic at the throat and gave Lucius what he was after, and he took it with a grunt of grievance at having been kept waiting. Fenn looked at the ceiling. Then, with a great scraping, he turned his stool round until he sat with his shoulder blades to the room and his nose to the red curve, and went on at the wall, louder than before.
 
 "You can turn around. Nobody minds that here."
 
@@ -229,9 +229,9 @@ The boy's feet went off along the quay, and Fenn was in the bathhouse keeper's p
 
 In a corner a sleeping mat had been rolled tight and tied with a cord, as a sailor rolls his bedding. Two robes hung on a peg, and a lamp stood on the floor beside the mat with no stand to put it on. Next to the doorway, where I had passed it without seeing it, stood a bag of oiled leather with its straps buckled and a stick pushed through the handles for carrying, packed full. There was dust on top of it, an even gray fur. My hand had gone to the flap of the satchel at my hip.
 
-"Did you ever get married?" I asked, at his next pause. "Here, I mean. Was there anybody?"
+"Did you ever get married?" I asked. "Here, I mean. Was there anybody?"
 
-"Me?" Round he came on the stool, honestly surprised. "What would I do that for? I'm not staying. You don't go buying furniture in a hotel." He waved the hand with the lighter in it at his room, and rested his case. "There was a widow in Neapolis who did my laundry and thought I ought to, for a while, and she was a nice woman, she made a fish stew you'd have walked to Neapolis for. But you can't do that to a person. Marry them and then go home on them. That's a lousy thing to do to a person."
+"Me?" Round he came on the stool, honestly surprised. "What would I do that for? I'm not staying. You don't go buying furniture in a hotel." He waved a hand at his room, and rested his case. "There was a widow in Neapolis who did my laundry and thought I ought to, for a while, and she was a nice woman, she made a fish stew you'd have walked to Neapolis for. But you can't do that to a person. Marry them and then go home on them. That's a lousy thing to do to a person."
 
 Lucius, fed and drowsy, was handed along the room to his father. At some point Valens passed behind my stool, saying nothing, took the basil pot off the sill and moved it along to the end of the sill where the sun lay full, and turned it so that the leggy side faced the room. Fenn fixed me with his pale eyes.
 
@@ -243,7 +243,7 @@ Lucius, fed and drowsy, was handed along the room to his father. At some point V
 
 "I asked the oracle where the door home was. Women can't ask the god directly, so my husband carried it in for me, and the answer came back about the road the dead take out of a city, and a tomb with a door that wasn't one. And afterward the Pythia told me herself, at her own door with her knees aching, that it meant Pompeii."
 
-"The Pythia." He left the stool for his table. "You asked the Oracle of Delphi, and it told you. Thirty-four years I've been working this out with a stick in the sand, and you climb the hill at Delphi and ask. It never crossed my mind. I lived in Phocis two years, and I never walked up that hill and asked."
+He left the stool for his table. "You asked the Oracle of Delphi, and it told you. Thirty-four years I've been working this out with a stick in the sand, and you climb the hill at Delphi and ask. It never crossed my mind. I lived in Phocis two years, and I never walked up that hill and asked."
 
 "She didn't tell me when."
 
@@ -265,7 +265,7 @@ The lighter had gone still in his fingers. He slid it away inside his robe.
 
 "Back to when?"
 
-"Search me. Near where you went in, I hope, I'd hate to come out in the Middle Ages and get burned for a witch." He grinned. "I've got a feeling it's fair. I figure it owes me sixty-eight. I'll come out an old guy and walk up the front steps and ring the..." He broke off and drank. "And it doesn't stay open, that much I do know. When it goes, it goes for hours. A night, tops, never days. You're there when it breathes, or you're hearing about it in a wineshop three days later with a fever."
+"Search me. Near where you went in, I hope, I'd hate to come out in the Middle Ages and get burned for a witch." He grinned. "I've got a feeling it's fair, that it owes me sixty-eight. I'll come out an old guy and walk up the front steps and ring the..." He broke off and drank. "And it doesn't stay open, that much I do know. When it goes, it goes for hours. A night, tops, never days. You're there when it breathes, or you're hearing about it in a wineshop three days later with a fever."
 
 Lucius had begun to struggle. Valens lowered him to the floor, and Lucius set off at once across the boards on his hands and knees, very fast and very intent, with his bottom high. He went past the stacks of tablets without a glance and made for the table, where Fenn's robe trailed down, and hauled himself upright by the robe until he found the rim of the sand tray at the level of his eyes. He sank both fists into it. Then he put one of them in his mouth.
 
@@ -275,7 +275,7 @@ Lucius slapped the sand, hard, and the figure in it went, and Valens started for
 
 "Leave him, sir," Fenn said. "He is improving it."
 
-Lucius tried the sand again, weighed the taste, spat it down his front, and regarded Fenn with deep suspicion.
+Lucius tried the sand again, spat it down his front, and regarded Fenn with deep suspicion.
 
 "Would it take him?"
 
@@ -301,13 +301,13 @@ He gave me a moment, and when nothing more came, he carried the roaring child ou
 
 "Mules. He runs a string of them along the coast."
 
-"Mules." He weighed Valens with a look, and Valens looked steadily back, and Fenn was the first to find a use for his cup. "Nothing surprises me anymore." His cup turned out to be empty, which seemed to offend him. "What were we on?"
+Fenn weighed Valens with a look, and Valens looked steadily back, and Fenn was the first to find a use for his cup. "Nothing surprises me anymore." His cup turned out to be empty, which seemed to offend him. "What were we on?"
 
 "How you know it's seventy-nine."
 
 The number escaped me unchecked. I had never yet said it aloud on this side, and it sounded littler than I had expected, a number off a classroom wall.
 
-"Right. You'd find out anyhow. I've been wrong before."
+"Right. You'd find out anyway. I've been wrong before."
 
 "How wrong?"
 
@@ -321,7 +321,7 @@ A Girard Avenue man had sat on Eros's bench in the wet with a blanket over his e
 
 "I was a mile from you," I said. "That second night, in the rain. I was in bed by the forum."
 
-He took that in. "Well, cripes," he said at last. "You could've brought me an umbrella."
+"Well, cripes," he said at last. "You could've brought me an umbrella."
 
 "You never said you'd be there."
 
@@ -379,7 +379,7 @@ He looked at it. He did not reach for it.
 
 He did not ask whose.
 
-He gazed past me at the bay with the light on it, and the bad hand began to go on the table, harder than before. He covered it with the other and held it down hard. I had the name. Mrs. Szabo had put it across her counter to me between a price and a shrug, the way she would have put down a teacup. He was pinning his own hand to the wood and not asking, and I watched him not ask.
+He gazed past me at the bay with the light on it, and the bad hand began to go on the table, harder than before. He covered it with the other and held it down hard. I had the name. Mrs. Szabo had put it across her counter to me between a price and a shrug, the way she would have put down a teacup. I watched him not ask.
 
 "The 23 still run up Germantown Avenue?"
 
@@ -423,7 +423,7 @@ He stood back from his wall to read his work, and his eye strayed to the sill as
 
 "It was reaching," Valens said. "All one way. It wants the light on its other side, or it grows like that." He left the leggy stems to speak for themselves. "Turn it every few days. Water it less."
 
-Fenn looked at the plant for some while, and then slowly leaned over and nudged the pot a shade further toward the room with his good hand.
+Fenn leaned over and nudged the pot a shade further toward the room with his good hand.
 
 The window's light had gone from white to gold, and the shadows of the stacked tablets lay out long across the boards, and Valens stirred in the doorway.
 
