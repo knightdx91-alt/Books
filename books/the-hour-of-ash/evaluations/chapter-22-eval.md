@@ -414,3 +414,136 @@ The length is 5.5% under the 7,600 target, which is not a problem: never pad.
 - the judge's shut eyes could be read as a deliberate running gag rather than a tic;
 - the unnamed laugh could be read as a few sentences of confusion rather than suspense.
 I ruled the first under the author's no-tics law and left the second alone.
+
+---
+
+## Re-evaluation — cycle 1
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Date:** 2026-10-23
+**Text evaluated:** `manuscript/chapters/chapter-22.md`, md5 `6835a01ea73b60b54bb8e727eaf2b1e3`. This is exactly the tested cycle-0 result, so the fix set landed byte-for-byte as tested.
+**Spec in force:** the evaluator spec as of commit `192cfa7`, which adds the **narrated-trait rule**: "more than 3 notes of the same state in one chapter, or 3 inside ~500 words, is a NO-TICS failure under Characters, even when `tic_report.py --gate` is clean." The cycle-0 fix set was designed against the gesture-class chapter cap (7). The new rule is stricter, so I recounted every recurring character by hand.
+
+### HEADLINE
+**CVI-Launch:** 9.6 | **CVI-Legacy:** 7.0 | **Genesis Floor:** **7.5** (Characters, still law-capped on the page) | **Genesis Average:** 8.64 | **Casual:** 9.0
+**Gate: NOT MET.** Casual ✓, pacing ✓, mechanical gates ✓, but Floor is 7.5.
+**This is not the +0.5 cap at work.** The page itself still fails the narrated-trait rule for four characters (below). A tested 11-replacement set clears all four.
+
+### Measured on the real file
+- `bash tools/check_chapter.sh 22`: **ALL MECHANICAL GATES CLEAN**.
+  - Style: 7,095w (5b), simile 1.0/1k, em-dash 0, foreshadow 0. Show/tell: dialogue 36.2%.
+  - Shape: `22 7093 7 36 17 long-spiral dialogue`. SHAPE CLEAN.
+- `tic_report.py --gate`: clean. And-chains 5/9. Gesture classes are all under the cap.
+- `--echoes 22`: 95. **Spoken-line echoes: none.** Command-echo candidate: 1, the same false positive as before ("Myrrhine says that I shook").
+
+### Did the 17 cycle-0 fixes land, and did they plant anything?
+**All 17 are on the page as tested** (l.24, 190, 208, 210, 218, 228, 238, 296, 298, 320, 324, 326, 328, 354, 370, 374, 400). **None planted a finding:**
+- Echoes are a strict subset of the 99 before.
+- Voice-bank hits: 0.
+- F9's oxcart interruption reads clean, and the arena thought gets no body reply.
+- F10's cut leaves the insinuation intact.
+- F12 no longer counts the courts.
+- No cut effect was restored, and no CLOSED or SPENT channel was touched.
+
+### Narrated-trait count by hand (new rule: more than 3 per chapter, or 3 inside ~500 words, fails)
+| Character | State | Notes on the current page | Verdict |
+|---|---|---|---|
+| The judge | eyes shut / asleep | 1. l.82 "listened with closed eyes … took him to be asleep"<br>2. l.130 "the judge's eyes opened again"<br>3. l.176 "The judge keeps his eyes shut." (Valens)<br>4. l.240 "eyes still closed, said it"<br>5. l.262 "he was asleep" (Myrrhine)<br>6. l.398 "without opening his eyes for it" | **6. FAIL.** F1 halved it from 11; the new rule needs 3. |
+| Myrrhine | barefoot / shoes off | 1. l.258 takes off both shoes<br>2. l.266 "worked her toes on the warm marble"<br>3. l.280 "She stood, holding her shoes."<br>4. l.292 "barefoot, with her red shoes in her hand"<br>5. l.380 "She was barefoot again; the red shoes hung from her wrist"<br>6. l.386 "walked the whole of it barefoot" | **6. FAIL.** This is a running state, not a plant-and-payoff. |
+| Valens | waiting | 1. l.84 "Valens waited with the witnesses"<br>2. l.244 "and waited while the court finished"<br>3. l.266 "He stood and waited for the bench to stop."<br>4. l.266 "He's good at waiting, that one." | **4. FAIL.** |
+| Valens | standing still (S6) | 1. l.298 "Valens had not moved from his place."<br>2. l.302 "The one standing still."<br>3. l.320 "He stood with his arms hanging"<br>4. l.330 "He stood looking at them" | **3 narrated plus 1 spoken inside ~450 words. FAIL.** |
+| Plautia | stillness | 1. l.22 "kept her place"<br>2. l.84 "none of her stillness"<br>3. l.246 "went stiller than she already was"<br>4. l.406 "did not move until he had stood" | **4. FAIL** (narrowly). |
+| Celer | talking | 1. l.86 "all talking"<br>2. l.416 "still talking"<br>3. l.418 "without once losing the thread" | 3. At the limit; OK. |
+| Celer's advocate | the hand | 1. l.96<br>2. l.298<br>3. l.328 | 3. At the limit; OK. |
+| Plautia | veil fringe | 1. l.76 instruction<br>2. l.198<br>3. l.230<br>4. l.406<br>5. l.436 payoff | Plant → wind → release → the boy holds it. A designed prop arc with a payoff, not a re-noted state. OK. |
+| Valens | boots | l.344 / l.348 / l.352: three handlings in ~70 words, all as speech beats | The gate's prop verbs miss "unlaced" and "pulled". The cast rule's spirit ("the prop does the acting") applies. **WATCH**; trimmed in the set below. |
+
+**Characters therefore stays capped at 7.5 on the page.**
+- The uncapped evidence is unchanged at 8.5: Plautia's roof and night lines, "Who was on the roofs, and where the dogs were.", Celer's foot, the assessor's uncle, 14 speakers who pass cover-the-name, Mara's chaos 4/4 inhabited.
+- The cycle-0 F1/F2 work was real (judge 11 → 6). It aimed at the old cap.
+
+### Genesis Score (cycle 1)
+| Dimension | c0 | c1 | Evidence / reason |
+|---|---|---|---|
+| Originality | 8.5 | **8.5** | Unchanged. The climax is refused by the sneeze, and the verdict lands under another court's applause. The forgery tell is still familiar. |
+| Theme | 9.0 | **9.0** | Unchanged. "and the man next to him said the name back." / "Nobody said the name of the witness." |
+| Characters | 7.5 | **7.5** | Law cap. Narrated-trait rule failed ×4 (table above). Uncapped 8.5. |
+| Prose & Voice | 8.5 | **9.0** (+0.5, the cycle maximum) | Every cited hold is cleared: the voice-bank lift (F3), the adverb tag (F6), "the law allows" ×2 (F7), the false superlative (F8), the arena–child pairing (F9), the courtroom cliché (F10), the counting run (F12). The close-the-book sentence is intact: "This one still had the chisel in it, and my fingertips came away from its cups gray with grit." The laugh paragraph still enacts the breakdown. #11 is now 3 (0.42/1k). ≥9.0 challenge: at the sentence level this outwrites the comp (*Outlander*) and holds its own in a historical-literary lane (Mantel's court scenes), so 9.0 stands. |
+| Pacing | 8.5 | **8.5** | Unchanged. The S5–S7 slow run is earned. 7,093w, 7 breaks, 36%. |
+| Emotion | 9.0 | **9.0** | Unchanged. The anchor (the name thrown to the back), the surprise (the laugh at the sneeze, body-only), the empty bench. |
+| Immersion | 9.0 | **9.0** | F8 cleared its one named hold. I am not raising it to 9.5: "the lead fumed white and sweet-smelling" is still the Hostile's open query, and 9.5 is the practical ceiling. |
+| **FLOOR** | 7.5 | **7.5** | Characters (law) |
+| **AVERAGE** | 8.57 | **8.64** | |
+
+### Anti-AI scan (current page)
+**6/20 patterns, −1.0. Clean band.**
+- #1 minor (2).
+- #3 moderate (5, three of them designed).
+- #11 minor (3): "from his manner, this was his daily work"; "for the wax had darkened since Corinth"; "because four courts sat in it at once".
+- #13 minor.
+- #16 moderate (4, all in speech).
+- #17 minor.
+- #8 and #15 have cleared.
+
+### Laws (current page)
+- **No foreshadowing: PASS.** The gate count is 0. All 14 "would" and 10 "never" are in-scene or past-facing.
+- **NO TICS: phrase and gesture gates PASS; the narrated-trait hand count FAILS** (table above).
+- **Retired reflexes: PASS.**
+- **No reused spoken lines: PASS**, with one frame finding. Myrrhine's "Who pays for all that?" rebuilds the Ch.7 working woman's "Who pays for a pot that's broken?", which the bible logs as spent. That is the same question frame on the same class of speaker. The gate cannot see a frame, so I fixed it in the set below.
+- **Not "the nine", no "citizen", unnamed brother, laugh never through the mouth, em-dash 0: PASS.**
+
+### Readers (deltas only)
+- **Casual: 9.0, unchanged.** The fixes are invisible to this reader.
+- **Critic:** the "behind his eyelids" wink is gone. What they still notice is Myrrhine's shoes coming off, being held, swinging from her wrist and being walked barefoot, six times.
+- **Hostile:** nothing new. The lead smell is still INVESTIGATE.
+- **Devoted:** they would still catch the judge's eyes re-noted at the verdict.
+
+### CVI
+- **CVI-Launch: 9.6**, inputs unchanged: 0.2×8.5 + 0.2×10 + 0.2×9 + 0.2×8.0 + 0.1×10 + 0.1×10 = 9.1, plus 0.5 for a strong anchor.
+- **CVI-Legacy: 7.0**: 8.5×.30 + 9.0×.25 + 3×.20 + 7×.15 + 5×.10 = 6.95.
+
+### What remains between the chapter and 8.5
+- **Characters 7.5 → 8.5:** only the four narrated-trait failures above, plus the boots as a WATCH. Nothing else on the page holds Characters down; the uncapped evidence is 8.5. Apply the tested set below. **After it, recommend NO further text changes for Characters.** Do not add character beats, and do not touch Myrrhine's three surviving quips.
+  - Once the set is applied, only the per-cycle cap stands between Characters and 8.5. The orchestrator's +0.5 rule would score it 8.0 at cycle 2 and 8.5 at cycle 3, with no edits in between.
+  - Spec rule 2 permits a jump above 0.5 when 3+ improvements are cited, and this set cites 11. Invoking it is the orchestrator's decision, not mine.
+- **No other dimension is below 8.5.** Originality and Pacing sit exactly at the bar and need no work. Prose: no further text changes.
+
+### Tested fix set (cycle 1)
+**Script:** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes22b/apply_fixes.py`
+- Run it from the book folder: `python3 <script> manuscript/chapters/chapter-22.md`.
+- Every old string must match exactly once, or nothing is written.
+- It contains 11 replacements, all cuts or one-for-one swaps.
+
+| ID | Now | After | Count it fixes |
+|---|---|---|---|
+| G1 | "and the judge's eyes opened again." | "and the judge sat forward." | judge |
+| G2 | "The judge keeps his eyes shut. And Celer sat on his left today, with the light behind him." | "Celer sat on his left today, with the light behind him." ("You need not look at him at all" now points at Celer.) | judge |
+| G3 | "…on the dowry's earrings, and without opening his eyes for it." | "…on the dowry's earrings." | judge 6 → 3 (l.82 intro, the Salve, "he was asleep") |
+| V1 | "Valens waited with the witnesses along the pier." | "Valens was along the pier with the witnesses." | waiting |
+| V2 | "He stood and waited for the bench to stop. He's good at waiting, that one. I was holding you up; I'd only an eye for you." She worked her toes on the warm marble. "She was shaking too," | "I was holding you up; I'd only an eye for you. She was shaking too," | waiting 4 → 1; toes; Myrrhine's quips 4 → 3 |
+| V3 | "Valens had not moved from his place. Celer's advocate had closed on him," | "Celer's advocate had closed on Valens," | stillness |
+| V4 | "Valens let the question go by. He stood with his arms hanging and his gaze at the aisle's end," | "Valens let the question go by, his gaze at the aisle's end," | stillness 4 → 2 |
+| M1 | "She stood, holding her shoes." | "She stood." | barefoot |
+| M2 | "…I've seen them." She was barefoot again; the red shoes hung from her wrist by their laces. "Who pays for all that?" / "The emperor. Out of Judaea." | "…I've seen them. Whose money is it?" / "The emperor's. Out of Judaea." | barefoot 6 → 3 (off, the S5 exit, the Argiletum); retires the Ch.7 frame |
+| P1 | "and rose. Plautia did not move until he had stood, and then she stood up beside him, and I saw" | "and rose, and his sister after him, and I saw" | Plautia stillness 4 → 3 |
+| B1 | "What they asked." He pulled the boot off. "The cook's freedman" | "What they asked. The cook's freedman" | boots 3 → 2 |
+
+**Tested on** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/reeval22/books/the-hour-of-ash/` (md5 after `251a664c923a7fb858da4b46ec8c3d55`).
+- `check_chapter.sh 22`: **ALL MECHANICAL GATES CLEAN**. Dialogue **36.3%** (≥35 ✓). Tic gate clean; and-chains 6/9 (P1 adds one). Shape: `22 7008 7 36 17 long-spiral dialogue`, SHAPE CLEAN.
+- `--echoes 22`, full uncapped list: 95 → **93, a strict subset**. Dropped: "stood holding her" and "the judge the judge". Spoken-line echoes: none.
+- **One string was rejected in testing:** "Plautia stood up after him" planted "plautia stood up", a Ch.17 echo. It was replaced by "and his sister after him".
+- Every new string was grepped against Ch.1–21, the bible, voice-dna and the voice bank: "the judge sat forward", "was along the pier", "Whose money is it?", "The emperor's.", "his sister after him", "closed on Valens". All are first uses, and none touches a CLOSED or SPENT entry.
+- **Protected beats untouched:** the Salve cascade; "The judge saw, and he was asleep."; "The one standing still." / "Oh, him."; the empty bench; the S5 exit with the red shoes; the boots "toes outward".
+- **The real file was not touched** (md5 still `6835a01e…`).
+
+**Projected after the set:** Characters is uncapped (8.5 on the evidence; 8.0 under the +0.5 cap). Floor 8.0 or 8.5, Average 8.71 or 8.79. Casual 9.0.
+
+**Bible sync (for finalize):**
+- Add the spent frame "Who pays for …?" (Ch.7; Ch.22 retired).
+- WATCH: Myrrhine barefoot ≤3 per chapter.
+- The chapter's header comment is still stale (it says 77-word opening and EMOTIONAL pull). Refresh it at finalize.
+
+### VERDICT (cycle 1)
+**POLISH.** Floor 7.5 (Characters, the narrated-trait law, failed on the page ×4). Casual 9.0. Pacing OK. Gates clean.
+
+Apply `fixes22b/apply_fixes.py` and re-run E+F. After that set, no dimension has anything on the page holding it below 8.5. Only the per-cycle cap remains, and no further text changes are recommended.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis). One judgement call could go the other way: I counted spoken mentions (Valens's "eyes shut", Myrrhine's "good at waiting") as notes of the state. The cycle-0 count did the same. Counting narration only would put the judge at 4, which still fails.

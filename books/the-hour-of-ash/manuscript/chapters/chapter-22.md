@@ -81,7 +81,7 @@ The Basilica Julia was bigger inside than the concourse at Thirtieth Street Stat
 
 The judge had a chair on the platform and three of his friends on stools below him, to advise him. He was a lean old senator with the broad purple stripe on his tunic, and he listened with closed eyes and his hands folded on his stomach, so that for most of the first hour I took him to be asleep. At the platform's corner a slave sat beside a water clock, a bronze bowl on a stand with a jar beneath it. When an advocate rose the slave pulled a peg, and the water began to run, and when the jar was full the advocate's time was gone.
 
-Plautia sat on the front bench behind our advocate, her veil drawn up to the eyes, between her brother and me, with Myrrhine at my elbow. Her brother was a heavy man with her nose and none of her stillness. Valens waited with the witnesses along the pier.
+Plautia sat on the front bench behind our advocate, her veil drawn up to the eyes, between her brother and me, with Myrrhine at my elbow. Her brother was a heavy man with her nose and none of her stillness. Valens was along the pier with the witnesses.
 
 Celer came in late with eight or ten friends about him, all talking. He was browner than at Corinth, and his toga was new again. He saw Valens before anyone, and his face lit.
 
@@ -127,7 +127,7 @@ Celer's advocate let both of them go without a question.
 
 "Nobody doubts that these honest men sat in the shade at Corinth and watched a clerk write," he said to the judge. "Neither of them can say whose man was written down. My client's bill can."
 
-The youngest of the judge's three friends had the bill on his knees. He was turning the first board toward the light from the arcade, and then he leaned up to the judge's chair and said something, and the judge's eyes opened again.
+The youngest of the judge's three friends had the bill on his knees. He was turning the first board toward the light from the arcade, and then he leaned up to the judge's chair and said something, and the judge sat forward.
 
 "My friend's uncle was consul that year, for his turn," said the judge. "Your bill makes him consul in a month he spent at his villa at Tibur, complaining of the fellow who had the office."
 
@@ -173,7 +173,7 @@ He lay still under it. It came again under his palm, a hard small push, and went
 
 "At the judge."
 
-"The judge keeps his eyes shut. And Celer sat on his left today, with the light behind him."
+"Celer sat on his left today, with the light behind him."
 
 "You need not look at him at all. Look to the back," I said. "At the end wall, where the idlers lean. Talk to them."
 
@@ -263,7 +263,7 @@ Myrrhine shook out the cloak she had over her arm and spread it on the step.
 
 "Valens."
 
-"He stood and waited for the bench to stop. He's good at waiting, that one. I was holding you up; I'd only an eye for you." She worked her toes on the warm marble. "She was shaking too, my lady. Under the veil. I had my arm round you and my hand on her. I felt it. You didn't see that."
+"I was holding you up; I'd only an eye for you. She was shaking too, my lady. Under the veil. I had my arm round you and my hand on her. I felt it. You didn't see that."
 
 "Laughing?"
 
@@ -277,7 +277,7 @@ Beside my hip the step had a gaming board scratched in it, a grid of little roun
 
 "I never learned the rules."
 
-"That makes it a game." She stood, holding her shoes. "Will you go back in?"
+"That makes it a game." She stood. "Will you go back in?"
 
 "Not to the court."
 
@@ -295,7 +295,7 @@ She got me to my feet. I had known this place as stumps and lines in the grass, 
 
 The stair to the gallery climbed inside the Basilica's far end, steep and worn. At the top of it the idlers, with the women who had no seats below, leaned on a parapet over the whole of the nave, and I squeezed in between two pillars. From the parapet the courts were four crowds round small platforms, their curtains moving whenever somebody pushed through, and I heard all of them at once, four rooms of one party.
 
-Our judge's head shone bald under me, and the slave at the clock had changed his jar. Valens had not moved from his place. Celer's advocate had closed on him, with his free hand open.
+Our judge's head shone bald under me, and the slave at the clock had changed his jar. Celer's advocate had closed on Valens, with his free hand open.
 
 The woman wedged in beside me had a swaddled baby sleeping in the crook of her arm. "Where's this gladiator?"
 
@@ -317,7 +317,7 @@ The woman wedged in beside me had a swaddled baby sleeping in the crook of her a
 
 "I would rather ask you." The advocate turned a little, so that the benches had his profile. "You were a gladiator. For how many years did you kill men on the sand, for money, for the crowd's pleasure?"
 
-Valens let the question go by. He stood with his arms hanging and his gaze at the aisle's end, and the water ran in the clock.
+Valens let the question go by, his gaze at the aisle's end, and the water ran in the clock.
 
 "That's not in the matter," said the judge. "Go on."
 
@@ -345,7 +345,7 @@ He settled on the bed's foot and thought about it. "He did."
 
 "And you answered?"
 
-"What they asked." He pulled the boot off. "The cook's freedman would've backed me. They never sent for him."
+"What they asked. The cook's freedman would've backed me. They never sent for him."
 
 "Was Celer watching you?"
 
@@ -377,9 +377,9 @@ It was a place for men to fight in, while Rome watched them. I was thinking that
 
 "Games."
 
-"They've a theater for games already. Two. I've seen them." She was barefoot again; the red shoes hung from her wrist by their laces. "Who pays for all that?"
+"They've a theater for games already. Two. I've seen them. Whose money is it?"
 
-"The emperor. Out of Judaea."
+"The emperor's. Out of Judaea."
 
 "He got it cheap, the emperor," said Myrrhine.
 
@@ -395,7 +395,7 @@ At every crossroads on our road home, men were building heaps of straw and bean 
 
 * * *
 
-The judge gave his sentence in fewer words than our advocate had spent on the dowry's earrings, and without opening his eyes for it.
+The judge gave his sentence in fewer words than our advocate had spent on the dowry's earrings.
 
 "I find for the plaintiff," he said, and behind the left-hand curtain somebody's friends began clapping for their own man and kept it up. "The defendant will restore the dowry whole, the sixth part he kept back for the lady's conduct together with the rest, within the time the law gives him. As to the bill of sale, I have given it the weight it deserves, and my young friend's uncle sends the defendant his compliments."
 
@@ -403,7 +403,7 @@ Plautia's brother leaned across to our advocate. "The sixth?"
 
 "With the rest."
 
-Nobody said the name of the witness. Plautia's brother cracked his knuckles, one hand and then the other, and rose. Plautia did not move until he had stood, and then she stood up beside him, and I saw the wound cloth come loose from her fingers.
+Nobody said the name of the witness. Plautia's brother cracked his knuckles, one hand and then the other, and rose, and his sister after him, and I saw the wound cloth come loose from her fingers.
 
 Her brother faced Valens, now standing beside the bench.
 
