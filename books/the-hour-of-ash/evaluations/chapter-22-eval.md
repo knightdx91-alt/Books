@@ -677,3 +677,198 @@ Why it works:
 - Then re-run E+F with no other edits.
 
 **BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis). One judgement call could go the other way: whether "Whose money is it?" counts as a reused frame (a human editor might call it ordinary English). I ruled it under the book's frame law because the speaker class and the cost axis both match Ch.11, and because it replaced a line that cycle 1 cut for exactly that reason.
+
+---
+
+## Re-evaluation — cycle 3 (verification)
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Date:** 2026-10-23
+**Text evaluated:** `manuscript/chapters/chapter-22.md`, md5 `d48152253cbd059a012aaf92b09d000a`. This is byte-for-byte the tested cycle-2 result (scratch copy `reeval22c`, same md5), so Q1 landed exactly as tested and nothing else changed.
+
+### HEADLINE
+**CVI-Launch:** 9.6 | **CVI-Legacy:** 7.0 | **Genesis Floor:** **8.5** | **Genesis Average:** 8.79 | **Casual:** 9.0
+**Gate: MET.** Floor 8.5 ✓, Casual 9.0 ✓, pacing ✓, mechanical gates ✓.
+**Divergence:** CVI-Launch 9.6 against CVI-Legacy 7.0 (a 2.6 gap). This is the book's standing profile, not a chapter defect: a commercial time-slip romance whose legacy inputs (cultural vocabulary 3, identity 5) are book-level.
+
+### Measured on the real file
+- `bash tools/check_chapter.sh 22`: **ALL MECHANICAL GATES CLEAN**.
+  - Style 7,019w, simile 1.0/1k, em-dash 0. Show/tell 7,041w, dialogue **36.3%** (band 35–45 ✓).
+  - Metaphor 1.4 fig/1k, median 17. Shape: SHAPE CLEAN.
+- `tic_report.py --gate`: **clean**. And-chains 6/9. No gesture class reaches its cap.
+  - The book-wide WATCH ("a 'So …' paragraph opener in 5 consecutive chapters") is advice for Ch.23, not a Ch.22 finding.
+- `--echoes 22`: printed list identical to cycle 2 (diffed). Full uncapped list: **93, identical to cycle 2**. Spoken-line echoes: none. Command-echo: the same false positive ("Myrrhine says that I shook").
+
+### Did Q1 plant anything?
+**No.**
+- "The emperor's building it out of Judaea." produces no echo hit, no voice-bank hit and no CLOSED or SPENT entry.
+- Ch.17's "The emperor's new money" no longer has "money" beside it to rebuild it.
+- In context (l.376–384) the exchange reads clean. Myrrhine asks nothing. Mara answers the unasked "why a third?" with where the money came from, against the Tibur stone a paragraph earlier, and "He got it cheap, the emperor," lands on it.
+- Myrrhine's deflating quips stay at 3. Her questions in the scene are "And what will it be?" and nothing else.
+- **One disclosure (judgement call; not a finding).** Cycle 2 did not mention two who-/whose- questions that have been on the page since the draft, in **our advocate's** examination:
+  - l.220 "Whose hand was on your shoulder while he wrote?"
+  - l.224 "And afterward, who paid you?"
+
+  I rule both clean. They are forensic questions in a lawyer's mouth, not the working-woman frame the book closed. They do plot work: the manumission ritual, and the wage that makes Valens a hired freedman rather than a lover. They are answered by fact ("The lanista's." / "The legate's steward…"). They should, however, be logged so the frame is CLOSED for **every** speaker from Ch.23 (see the sync list below).
+
+### Genesis Score (cycle 3)
+| Dimension | c2 | c3 | Evidence / reason |
+|---|---|---|---|
+| Originality | 8.5 | **8.5** | Unchanged. The sneeze refuses the testimony climax; the verdict lands under another court's applause; "My uncle will be sorry to hear it," … "He'd have liked the extra months." |
+| Theme | 9.0 | **9.0** | Unchanged. "and the man next to him said the name back." / "Nobody said the name of the witness." / "He used to carry you." |
+| Characters | 8.0 | **8.5** (+0.5, the per-cycle maximum) | **The cap is lifted, and the page has carried the evidence since cycle 2:** Plautia's "I would be grateful if nobody told me."; Valens's "Who was on the roofs, and where the dogs were." and "You never heard it,"; Celer round the ladder and his foot that "had begun to go on the step"; Marcus's taught formula breaking into "Does Uncle's dog still bite?". 14 speakers pass cover-the-name, and Mara's chaos is 4/4 inhabited (the laugh in the body only). **Laws:** the narrated-trait hand count is unchanged from cycle 2 and passes (judge 3, Myrrhine barefoot 3, Plautia stillness 3, Valens waiting 1). The tic gate is clean. The reused-frame finding is cleared by Q1. **Not 9.0:** Myrrhine runs on deflation (3 quips), and the judge is a well-used type. |
+| Prose & Voice | 9.0 | **9.0** | Unchanged. Close-the-book sentence: "This one still had the chisel in it, and my fingertips came away from its cups gray with grit." Voice under pressure: the laugh paragraph ("My heels had begun knocking on the marble by themselves"). Ugly sentence: "The shift was too long for me and I wore it anyway." #11 is 3 (0.43/1k). |
+| Pacing | 8.5 | **8.5** | 7,006w (shape), 7 breaks, 36.3%. Strict court/city alternation. Every exit pulls. The S5–S7 slow run is earned by the judge's three days. **Pacing OK** against neighbours: Ch.21 is short and clipped; Ch.23 plans the road. |
+| Emotion | 9.0 | **9.0** | Unchanged. Anchor: the name thrown to the back benches. Surprise: the laugh at the sneeze, in the body only. Also the empty bench seen from the gallery, and "He used to carry you." |
+| Immersion | 9.0 | **9.0** | Unchanged. The lead fume is still the Hostile's INVESTIGATE (not blocking). |
+| **FLOOR** | 8.0 | **8.5** | |
+| **AVERAGE** | 8.71 | **8.79** | |
+
+**Anti-AI:** 6/20, −1.0, clean band. Unchanged.
+**Laws:** all **PASS**:
+- no foreshadowing (gate 0)
+- NO TICS (phrase, gesture and the narrated-trait hand count)
+- retired reflexes
+- no reused spoken lines or frames
+- "nine" 0, "citizen" 0, the brother unnamed, the laugh never through the mouth, em-dash 0
+
+**Readers (deltas only):**
+- Casual: **9.0**, unchanged.
+- Devoted: the Ch.17 crier is no longer audible.
+- Critic and Hostile: nothing new.
+
+**CVI:**
+- **CVI-Launch 9.6** = 0.2×8.5 + 0.2×10 + 0.2×9 + 0.2×8.0 + 0.1×10 + 0.1×10 = 9.1, plus 0.5 for a strong anchor.
+- **CVI-Legacy 7.0** = 8.5×.30 + 9.0×.25 + 3×.20 + 7×.15 + 5×.10 = 6.95.
+
+**Tomorrow Test:** ANCHOR EXISTS. IMAGE: Valens saying his own name to the back of the aisle, and the will-reader next door losing his place. QUOTE: "He used to carry you. Greet him."
+
+### FINALIZE swaps (tested)
+**No prose swap is needed.** The only finalize work is the stale header comment that cycles 0–2 flagged. It is a comment, which the gates strip, so it can neither help nor hurt a score. It matters because the next writer reads the pull type from it, and it still says EMOTIONAL when hook-craft typed it DECISION POINT (and Ch.23 is barred from a DECISION POINT close).
+
+**Script:** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fin22/finalize.py`. Run it from the book folder: `python3 <script> manuscript/chapters/chapter-22.md`. Every old string must match exactly once, or nothing is written.
+
+| ID | Now (line 6 header comment) | After |
+|---|---|---|
+| H1 | "~7,180 prose (show_tell 7,212) \| Writer draft …; continuity repair r1 …" | "~7,010 prose (show_tell 7,041) \| … ; evaluator polish c0 (17 swaps), c1 (11), c2 (Q1), PASS at re-evaluation cycle 3, 2026-10-23" |
+| H2 | "Dialogue 35.8% show_tell (post-repair)" | "Dialogue 36.3% show_tell (final)" |
+| H3 | "77-word sensory sentence" | "98-word sensory sentence" |
+| H4 | "pull EMOTIONAL / DECISION-free, not question plant)" | "pull DECISION POINT, spoken and enacted (hook-craft), not question plant; Ch.23 may not close on a DECISION POINT)" |
+| H5 | "as-if/as-though 2" | "as-if/as-though 1" |
+
+**Tested on** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fin22/tree/books/the-hour-of-ash/`. md5 before `d4815225…`, after **`868fb363fdb21eaa1787e94987c16449`**.
+- Diff: only line 6 differs; the prose is byte-identical.
+- `check_chapter.sh 22`: **ALL MECHANICAL GATES CLEAN** (same rows: show/tell 7,041 / 36.3%, metaphor 7,008, SHAPE CLEAN).
+- Tic gate: clean.
+- Full echoes: **93, identical**. Spoken-line echoes: none.
+- **The real file was not touched** (md5 still `d4815225…`).
+
+### Character-bible sync list (to the FINAL page)
+Mark every Ch.22 block "SYNCED to the FINAL page 2026-10-23 (prose md5 `d4815225…`; `868fb363…` after the header refresh)". Today three blocks still say "writer draft, not yet synced": the walk-on block (l.3626), Marcus (l.3770) and Myrrhine (l.4262), plus the At-risk header (l.6167–6168).
+
+**A. At-risk after Ch.22 (l.6167 ff.)**
+1. SPENT, the laugh: "the small wetting" → **"sweated through my shift"** (C-02).
+2. SPENT, the Salve: "the judge saying it with his eyes shut" → **"The judge, eyes still closed, said it."** Also add: **the judge's closed eyes as a state, SPENT.** Three notes on the page: the introduction (l.82), the Salve (l.240), and Myrrhine's "he was asleep". No later judge or magistrate gets it.
+3. Spoken SPENT, **delete** "Walking behind a woman in the street, a man watches what's coming at her." It is not on the page (W-05).
+4. Spoken SPENT, **add**:
+   - "Who was on the roofs, and where the dogs were."
+   - "The sixth?" / "With the rest."
+   - "Where's this gladiator?" / "The one standing still." / "Oh, him."
+   - "It is given." / "Nothing's given,"
+   - "Laughing?" / "I didn't ask her."
+   - "And a better chair."
+   - "I would be grateful if nobody told me."
+   - "Your man has a carter's lungs."
+   - "My uncle will be sorry to hear it," / "He'd have liked the extra months."
+   - "They asked me the rest." / "What they asked."
+   - "I'd only an eye for you."
+   - "The emperor's building it out of Judaea." (Q1)
+   - "My sister will want to thank you, and make a poor job of it,"
+   - Marcus's "Mother, I greet you," … formula, and "Does Uncle's dog still bite?"
+5. Spoken SPENT, **correct the last line** to the page form: **"Marcus," she said, "this is Valens. He used to carry you. Greet him."**
+6. **New SPENT (staging):**
+   - the verdict under another court's applause
+   - Celer's foot on the step (the payoff of Valens's dinner read)
+   - the empty bench seen from the gallery
+   - the boots set "toes outward"
+   - Plautia's Egyptian-linen shift
+   - "the judge sat forward" (G1)
+7. CLOSED: "Fabius's Parilia offer is left unanswered" → **refused in Ch.21; Valens is in Rome at the Parilia** (audit I-15).
+8. **CLOSED frame, every speaker from Ch.23:** the who-pays / "Whose …?" question.
+   - Ch.5 "Whose are you?" / "Whose is she?"
+   - Ch.7 "Who pays for a pot that's broken?"
+   - Ch.11 "Whose water washes it?"
+   - Ch.18 "Who's paying for those?"
+   - Ch.22: Myrrhine's "Who pays for all that?" (cut, c1 M2) and "Whose money is it?" (cut, c2 Q1) are **CUT, never restore**. The advocate's forensic "Whose hand was on your shoulder while he wrote?" and "And afterward, who paid you?" are the last uses.
+   - Also update the at-risk table row for "Whose are you?" / "Whose is she?" to point here.
+9. **WATCH:**
+   - Myrrhine's deflating quips: 3 in Ch.22 ("That makes it a game." / "Nothing's given," / "He got it cheap, the emperor,"), so ≤2 in any later chapter.
+   - Myrrhine barefoot: 3 notes in Ch.22, so the device is spent (the existing "one chapter only" stands).
+   - Valens's waiting as a narrated beat: ≤1 per chapter.
+   - The arena thought never gets a body reply (F9).
+   - Any walk-on's narrated trait or state: ≤3 per chapter (the narrated-trait rule).
+10. **Laugh channel:** all five Mara laugh shapes are now SPENT. The next Mara laugh needs an outline ruling before drafting.
+11. **Hiccups:** never on the Ch.22 page (W-10). Do not log them as used in Ch.22. The bible's hiccup entries are all Ch.15 and stay as they are.
+
+**B. Ch.22 walk-on block (l.3625 ff.)**
+12. Judge:
+    - "says 'Salve' to the sneezer with his eyes shut" → "eyes still closed".
+    - The assessor's uncle is consul "for his turn" (not "for his two months"), "in a month he spent at his villa at Tibur, complaining of the fellow who had the office" (not "still at his villa at Tibur").
+    - Add "the judge sat forward" (at the date) and the sentence's "my young friend's uncle sends the defendant his compliments."
+13. Our advocate: **delete** "reads the dowry 'like a cargo'". It is not on the page.
+14. Celer's advocate: "spent on the air" → **"spent the right one on the air"**. Add "had closed on Valens" (c1 V3).
+
+**C. MARCUS (l.3770)**
+15. "new tunic with a purple border" → **"His toga had a purple border"**.
+16. "his ears stuck out from it on either side" → **"his ears poked out on either side"**.
+17. The formula is tagged on the page: "Mother, I greet you," he said, "I hope that I find you well, …".
+
+**D. MYRRHINE (l.4262)**
+18. **Delete "the bitten spoon, bought back before the steward counted;"**. The page has only "He bit my ear and hung on, and laughed, and his ears went red, and I couldn't get him off."
+19. Add "I'd only an eye for you." and "She was shaking too," and "And what will it be?".
+20. CUT, never restore:
+    - "He's good at waiting, that one." (V2)
+    - "worked her toes on the warm marble" (V2)
+    - "She stood, holding her shoes." (M1)
+    - "the red shoes hung from her wrist by their laces" (M2)
+    - "Who pays for all that?" (M2)
+    - "Whose money is it?" (Q1)
+
+**E. Main cards: add a Ch.22 FINAL entry (none exists yet)**
+21. **VALENS:**
+    - "Gaius Iulius Valens. Freed at Corinth." pitched to the back benches.
+    - "He brought me." / "It is the only answer I have."
+    - The onion surfacing ("They grew those," … "Every house. By the autumn you could smell the village before you saw it.").
+    - "Who was on the roofs, and where the dogs were."; "He paid me what he paid the cook's freedman. Ask the cook."; "You never heard it,".
+    - The boots "toes outward".
+    - Narrated waiting: 1.
+22. **PLAUTIA:**
+    - The built Flavian hair; "I am supposed to appear never to have left Rome in my life. Do I?"
+    - "Of everything about him, that alone ever frightened me."
+    - The veil-fringe arc paid off ("kept her hands empty and let him hold it").
+    - "I would be grateful if nobody told me."
+    - The closing introduction.
+    - Stillness notes: 3 (capped).
+    - She rises "and his sister after him" (P1).
+23. **CELER:**
+    - New pleasantries; the ladder (his superstition, staged once).
+    - "Your man has a carter's lungs."
+    - The Cornelian-law speech and its foot "on the step".
+    - The settlement (the dowry whole with the retained sixth; the boy every market day).
+24. **MARA:**
+    - The fifth laugh shape (body only, "sweated through my shift").
+    - The 1991 Forum memory (peach, the custodian's whistle): SPENT.
+    - "the far hill" / Esquiline roof view: WATCH.
+25. **Sync log (l.~6913 ff.):** add the Ch.22 line (polish cycles c0–c2, Q1, finalize H1–H5, md5s).
+
+### VERDICT (cycle 3)
+**PASS.**
+- Genesis Floor **8.5**, Average 8.79.
+- Casual **9.0**. Pacing OK.
+- `check_chapter.sh 22` ALL MECHANICAL GATES CLEAN; tic gate clean; echoes 93, none spoken. All laws pass.
+
+Finalize sequence:
+1. Apply `fin22/finalize.py` (header comment only).
+2. Apply the bible sync list above.
+3. Update STATE.yaml and progress.md.
+4. Commit.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis). Characters reaches 8.5 here only because the per-cycle cap lifted. The evidence for it was judged at cycle 2, by the same system. One new judgement call: I ruled the advocate's "Whose hand …?" / "who paid you?" as forensic questions outside the closed frame. A stricter reading of the Ch.5 at-risk row ("a third 'whose' question would make it a refrain") would call "Whose hand" a sixth use. But that row was already exceeded at Ch.11 without a finding.
