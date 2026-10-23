@@ -734,6 +734,23 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
     Horace as a source. CUT (never restored): "I'm the size of a wine jar," / "A small one."; "These days I was always hungry."; "and I
     asked nothing"; "I listened … in the rain."; "my fingers spread wide on his chest"; "as far as the belly let me"; "and I had been
     outside for most of it"; "until I was done".
+- **Ch.24 as written ("Lucius", Fragmented, 8 breaks / 9 shards stamped by the Roman night hours, Pompeii, summer AD 74. FINAL page,
+  md5 `e4e8a96c…`, synced 2026-10-23 after dialogue-polish, hook-craft, disruptor, continuity repair, evaluator cycle 0 F1–F7, cycle 1
+  PASS, finalize FN1–FN3; quotes checked by grep; CUT strings checked OFF the page):** opens "I hated the midwife." (the hook).
+  **Chaos 4/4, inhabited:** the freezer peas ("In my freezer at home there was a bag of peas I kept for the back of the neck in
+  August"); the tooth ("The pain was everywhere and had no edges to it, and the tooth had edges."); Mrs. Dunphy in brown (mutation 2;
+  see her card); the noise "I had no say in". **The body rebel:** l.178 "a small fine shaking that took no notice of me"; l.372 "The
+  shaking was back in my legs, and the stool rocked under me." (one state recurring); "A sound left me that was nobody's I knew."
+  **Credential asides:** 2 (Soranus, Pliny; gate 0). **The milk:** "Give me the honey if you like. He's having this." **Ugly
+  sentence:** "I was tired and it was hot and I wanted water and nobody had brought any, so I waited." CUT (never restore): "It started
+  in the heels, hard, so that they knocked on the floor, and whatever I told them made no difference." (F1, Ch.22's spent shape);
+  "whoever did it had used the glue too hot" / "Nobody had cleaned it off." (F2); "with her whole body", "the whole of me burned", "the
+  whole of his spine", "the whole of the child's bottom", "his whole face" (F5); "so that it made a pool on the paving before him" (F6);
+  "Grata behind me, perched on the bed. Her knees…" (F7); "and Grata held me up from behind" (FN1); "My legs began to shake," (FN2); "my
+  free palm pressed to the warm plaster"; "The stone at my thigh, knocking on the wood."; "For a breath, nothing."; "He cried."; "He
+  cried at the ceiling."; "It was meant to be left open."; "He had taken him from me once the feeding was done…"; "and the knife on the
+  well curb beside the lamp,"; "Via dell'Abbondanza". **Spent in Ch.24:** every line above; "I hated [X]." as an opener; the peas; the
+  tooth as a hold; the fontanelle ("Nobody had to mend it.").
 
 #### VALENS ("Lupus") — muleteer, former murmillo, freedman; b. c. AD 38 in Thrace (Ch.6–44)
 - **Attention / worldview:** footing, exits, weather, and the moods of animals and men, which are one
@@ -1483,6 +1500,22 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   "He considered the bread in his hand."; "The floor had him again."; "He watched it a little."; "He went quite still."; "He let a breath
   go through his nose"; "which in Valens was the most of a laugh you got"; the kept stillness "and it cost him"; the room-read on entering
   (W-02).
+- **Ch.24 ("Lucius", Fragmented, a night in Roman hour-stamps, Pompeii, summer AD 74. FINAL page, md5 `e4e8a96c…`, synced
+  2026-10-23; quotes checked by grep; CUT strings checked OFF the page):** "Since when?" / "Felix said." … "What's she want?" / "Water?"
+  / "Harder, if you want," … "That arm's carried lime since dawn." / "What would I want with stars?" / "It's not come yet," / the dun's
+  feet trimmed four times by lamplight (the frog cleaned "gently, though it was clean, and blew into it softly, though there was no
+  dust."; to the dun "He spoke to her too low for me") / "There's a flare on this one," / "How far?" / "Then she's wrong one time or the
+  other." … "She say anything else?" / "It isn't anything yet." / "Straight." / "When it's here." / "Ask her again." / the jar-lift ("It
+  was how a man held a jar he had caught just short of the stones, in the instant before he knew whether it was whole.") and "Whole?" /
+  "He's cold." / unfastened "finger by finger" / the cup tipped to her lips, unbidden ("Nobody had sent him.") / "The cocks," … "All of
+  them." / "Done." / "Felix sleeps." … "She'll walk tender on the paving a day or two. It'll do her no harm." / "Were you afraid?" →
+  "She stood on three legs from lamp-lighting on. She'll be stiff." / "Lucius." / the winding on the RIGHT wrist ("working the watch's
+  little crown a click at a time" … "he tucked my hand under the sheet."). **Counts:** stopped/froze 3 (spread over 144 lines);
+  narrated waiting 1 ("He waited out the pain with me from there."); low speech to animal/child 2. CUT (never restore): every narrated
+  lime-residue line (the spoken "That arm's carried lime since dawn." is the only lime); "It'll not show under the lime."; "In the
+  court, Valens. Low. To the mule."; "He did not move his feet at all."; "by inches"; "He had stopped at the well to wash his arms…";
+  "and there was horn dust still in the creases of the fingers". **Spent in Ch.24:** every line above; the hoof-trimming as his
+  tenderness; the jar-lift; the cup; "Which cock?" / "All of them."; the right-wrist winding.
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -2227,6 +2260,16 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   barracks, sworn") must **not** take Ch.21's route (missing from the string → Valens goes out at night → finds him at the barracks
   gate): stage it another way, e.g. word from Nicanor, or Felix telling them at supper (audit I-07); and the Ch.28 palm "under the
   seats" is worded fresh: no nail, no doubled-cut stem, no lamp held to it.
+- **Ch.24 (FINAL page, md5 `e4e8a96c…`, synced 2026-10-23; quotes checked by grep):** "He's done her four times," … "Every foot,
+  four times round. Her feet were done at the Kalends. There's nothing left on her to take off. I told him." / "There's no flare. He's
+  taking off what isn't there." … "Worse than a cut, or not so bad? We didn't hear you, did you shout? Will you have it by cockcrow?" /
+  "It is straight. It's the ground's crooked." … "When can I see it?" / "That midwife's eaten a whole pot of Grata's lentils" … "Two
+  years I've slept within smell of Grata's lentils and never had a spoon, and I've asked." / "I'm asking you." / "Can I see him? Did he
+  come at the cocks? Has he got a voice on him? I heard a voice." / Grata: "Wash your face first, there's a stable on it." / at the
+  bedpost, "Grata had to call him twice before he heard her." / at morning, "the string clattered past for the gate with Felix shouting
+  at it". **Counts:** sleepy notes 3 ("Felix yawned so wide his jaw clicked"; "as he jerked awake"; "Felix curled asleep beside the
+  well with his mouth agape") + Valens's "Felix sleeps."; stacked-question bursts 3 (rotate the form in Ch.25). CUT (never restore):
+  "horn in his hair" (CRIT-006). **Spent in Ch.24:** every line above; the lamp held in his lap at the well; the lentils grievance.
 
 #### PLAUTIA — Celer's divorced wife; b. c. AD 44, married to Celer in the autumn of AD 63 at nineteen; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
@@ -2731,12 +2774,31 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   secrets to a mule for a carrot"; "the cheese is sheep's, it'll sit"; "never talks faster than when he's chewing"; the scales' pan;
   "a wine cup"; "which door is the wolf's"; "Twenty times"; "paid for by the whole street"; "Look at the state of you."; "a poor sort of
   freedman"; the shoulder brush and the hand left in the air; the pearl earrings "kept for the baths"; the chalk for the burning.
+- **Ch.24 (FINAL page, md5 `e4e8a96c…`, synced 2026-10-23; quotes checked by grep; CUT strings checked OFF the page):**
+  **Questions on the page: 0.** "Not in yours," … "That bed's a disgrace, and the fountain's the nearest water, and your roof lets in,
+  I've heard it." / "As long as it likes." … "My second came while I was lacing a sandal, and that sandal's unlaced yet." / "There'll
+  be women enough. It's room you'll be short of." / "I've watched it on three husbands and one of them mine. Sit on my well and stay
+  out of my road." **The vow:** "Lucina," … "A quick one and a whole one, and there's honey on the cake. Quick and whole and a boy, if
+  she wants a boy, and there's a lamp in it for you as good as this one. Better. I'll go to the forum for it." / "Then the lamp's for
+  whole." / "Lucina, you old cow, you took my cake, you keep your word." / "Lucina. Two cakes. Two, and the lamp." / "A boy. Lucina, a
+  boy. A cake and honey and a lamp, I'll have to find a lamp now. A boy." The pins drawn "singly"; the knots hunted and undone, her own
+  belt included ("Grata undid her belt."); the cloth on the nape; "My man wears that to the Floralia,"; "She's mended every pot on this
+  street with stuff she makes up as she goes, and none of them's come apart on me yet. Let her."; "You did it quiet, for a Greek, I'll
+  say that for you." / "Her eyes were wet, and she was cross about it, and blamed the dittany."; the shutter board taken down to tell an
+  empty street ("A boy," … "And the mother whole, and him big as a calf, and the baker can have that with his bread."); "you're stood
+  there like somebody led you home a horse you never bid on and you can't find the halter."; "You'll not name him till the ninth day,
+  like decent people,". **Touches now FIVE** (fifth, the hip: "She gave my hip two brisk pats"); the labour holds (the pins, the nape
+  cloth, holding Mara at the stool, "pinned my knees with her palms", washing her legs) are work, not social touch. A sixth social touch
+  needs a new place and a new purpose. **"men" generalisations: 1** (reported: "men who stood in doors with their mouths open"). **Teeth
+  0** (still Ch.31's). CUT (never restore): "There'll be women enough, Greek." (now "…enough."); ", and talked to them about lamps";
+  "saying something to the court about men". **Spent in Ch.24:** every line above; the vow to Lucina and the lamp; the unlaced sandal;
+  the hip pats; the knots; the Floralia tunic; the shutter-board announcement; the horse-without-a-halter line.
 
 ---
 
 ## THE CHILDREN
 
-#### LUCIUS — son of Mara and Valens; b. summer AD 74 (in arms Ch.25; speaks Ch.27–29, 32, 34, 37–44; age 5 at the eruption)
+#### LUCIUS — son of Mara and Valens; b. summer AD 74 (born on the page Ch.24; in arms Ch.25; speaks Ch.27–29, 32, 34, 37–44; age 5 at the eruption)
 - **Attention / worldview:** rules and real tasks. He wants to be given a job and takes adults at their
   word. He is Valens's stillness without the fear.
 - **Vocabulary band:** Latin first, some Greek from his parents, a few English words from Mara. He calls
@@ -2759,6 +2821,14 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **DISTINCTNESS GUARANTEE:** the child who asks one serious question and waits, against Aelia, who never
   waits for anything.
 - **Sample line (age 5):** "Tata said I could carry the lamp if I walk. I'm walking."
+- **Ch.24 (birth; no speech; FINAL page, md5 `e4e8a96c…`; quotes checked by grep):** "It was a thin, cross, cracked sound, very
+  close"; "a creature gray-blue and furious, streaked white and red, with his fists up by his ears and his mouth wide"; "his spine was all
+  there, a row of small hard beads"; held out on Valens's locked arms, then "In to you."; "gray eyes that had no use for anything yet";
+  the bath ("he hated it and said so"); the first milk ("pulled, hard, with a strength out of all proportion"); the water drop ("The
+  child screwed up his face at it and kept his hold."); the fontanelle ("Nobody had to mend it."); named only by Valens, low, at first
+  light ("Lucius."), with Grata's ninth-day naming standing for the street ("You'll not name him till the ninth day, like decent
+  people,"). Never called a citizen (CP4-1). **Spent:** every image above. Aelia's birth (Ch.26) and every later look at Lucius find
+  other words.
 
 #### AELIA — daughter of Mara and Valens; b. winter AD 75–76 (newborn Ch.26; babbling Ch.29; Ch.30, 34, 38–44; 3½ at the eruption)
 - **Attention / worldview:** the world's textures and tastes. She is greedy for everything and finds
@@ -3989,29 +4059,39 @@ SYNCED to the FINAL page 2026-10-23 (md5 `3599a74c…`); every quote checked by 
   unexplained; see VALENS).
 
 #### Ch.24 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
-Writer draft 2026-10-23 (re-sync to the FINAL page after the chain).
+FINAL page, md5 `e4e8a96c…`, synced 2026-10-23; quotes checked by grep (CUT strings checked OFF the page).
 - **Grata's husband (the outline's Ch.24/31 role; second appearance, still unnamed):** "a soft, sunburned man with a voice that carried
-  better than he did", seen "perhaps a dozen times in all, and always on his way from one bench to another with a cup"; at the court door
-  "lamp up, his dice in his other fist", the dice clicking as he talks. **The Ch.25 plant (outline):** "Down at Puteoli," … "On the fish
-  quay, behind the tunny sheds. A Chaldean. Does the grain ships' stars before they sail. My brother's had him do his. Old as dirt and
-  mad with it, mutters gibberish to himself nonstop while he's at it, not Greek, not Syrian, nothing you ever heard, and then he tells you
-  your day in Greek like a schoolmaster. Cheap, though." / "The boy's. You mark the hour he comes, and you take it down to the Chaldean,
-  and he casts it. Everybody does." / "Well, when it comes. Mark it, is all I'm saying. You'll want his stars read." Asleep "across his
-  own counter" (heard snoring, two walls off); at cockcrow, "lamp burned out and his tunic on inside out": "Did you get the hour?" /
-  Valens: "The cocks," / "Which cock?" / "All of them." Mara does not react to "gibberish" on the page (no foreshadowing). His brother
-  (Ch.19: "never been off" a ship) is the source. Spent: the hour, the cocks, the dice clicking. Ch.31 needs fresh words.
-- **The fuller's other half** (Ch.19 lore: she and the fuller beat each other on market and feast days; Ch.24 named only as "her at the
-  fullery" / "Her from the fullery"; the phrase "the fuller's wife" is avoided in Ch.24 because Ch.20 spent it): twins, one "asleep on
-  her collarbone"; "Dittany," … "Cretan. It's the real one, I got it from a sailor's wife, you burn it under her. I burned it under me
-  and look." … "Two. Took no time." / "It felt like no time." / "She's carrying wide," … "That's a girl." Grata: "You took from one dawn
-  to the next," … "I held your leg for it." Spent.
+  better than he did", seen "perhaps a dozen times in all, and always on his way from one bench to another with a cup". "At the court
+  door Grata's husband stood, lamp up." … "Dice clicked in his fist as he went on." **The Ch.25 plant (outline):** "Down at Puteoli," …
+  "On the fish quay, behind the tunny sheds. A Chaldean. Does the grain ships' stars before they sail. My brother's had him do his. Old
+  as Saturn and mad with it, mutters gibberish to himself over it, not Greek, not Syrian, nothing you ever heard, and then he tells you
+  your day in Greek like a schoolmaster. Cheap, though." / "For the boy. You mark the hour he comes, and you take it down to the
+  Chaldean, and he casts it. Everybody does." / "A girl," Statia called over. / "For the girl, then." / "Well, when it comes. Mark it, is
+  all I'm saying. You'll want his stars read." Grata after him: "Mind my counter," … "You've leaned on it every night there is, you could
+  find it blind." At cockcrow: "Her husband followed her in from the shop with his lamp burned out and his tunic on inside out. He blinked
+  at the bed, and then at Valens" … "Did you get the hour?" / Valens: "The cocks," / "Which cock?" / "All of them." / "The husband
+  appeared to think that would do. He went to find his bed." His festival tunic is the floor cloth (Grata: "My man wears that to the
+  Floralia,"). Mara does not react to "gibberish" on the page (no foreshadowing). His brother (Ch.19: "never been off" a ship) is the
+  source. **Spent:** the hour, the cocks, the dice clicking, the Floralia tunic, every line above. Ch.31 needs fresh words. CUT (never
+  restore): "Old as dirt"; "nonstop while he's at it"; "The boy's."; "his dice in his other fist"; ", and the dice had stopped";
+  "Snoring, two walls off. The husband, asleep across his own counter."
+- **The fuller's other half** (Ch.19 lore: she and the fuller beat each other on market and feast days; the phrase "the fuller's wife"
+  is avoided in Ch.24 because Ch.20 spent it): "The twins' mother came round from the fullery"; Grata afterwards: "Her from the fullery
+  had the street out of bed with her two"; one twin "asleep on her collarbone"; "Dittany," … "Cretan. It's the real one, I got it from a
+  sailor's wife, you burn it under her. I burned it under me and look." … "Two. Took no time." / "It felt like no time." / "She's
+  carrying wide," … "That's a girl." Grata: "You took from one dawn to the next," … "I held your leg for it." / "It felt like dawn to
+  dawn to my leg." … "the whole street's up and him too" … "from now till the Vinalia." Spent.
 - **Statia's boy** (passing): carries the birthing stool roped on his back, "its legs to the sky"; never speaks.
-- **A carter** (passing): complains at the shut counter; sent to the Nola Gate "to be robbed there". Another at morning gets the news
-  "with his wine for the one copper, and none of it on credit".
-- **Mention:** Soranus (the midwife's fingers; nothing on teeth; one credential aside); Pliny (the eagle-stone; read "in a reading room
-  in Philadelphia with snow going past the windows", copied on a postcard for her father); Juno Lucina (Grata's vow: a cake with honey,
-  then "a lamp as good as this one. Better.", then "Two cakes. Two, and the lamp."; "Lucina, you old cow"); the rival midwife at the
-  Vesuvius Gate; the lamp-seller "behind the forum"; the girl "two streets over with milk to spare" (refused).
+- **A carter** (passing): complains at the shut counter; Grata tells him "there was wine at the Nola Gate and he could go and be robbed
+  there". Another at morning gets the news "with his wine for the one copper, and none of it on credit".
+- **Mention:** Soranus ("In the Soranus I had read, midwives had long slim fingers and the nails cut close." / "He had nothing to say
+  about teeth."; one credential aside); Pliny (the eagle-stone: "Pliny had a page on these."; no reading room, no postcard. CUT, never
+  restore: "I had sat over that page in a reading room in Philadelphia with snow going past the windows, and copied out the part about
+  the eagle on a postcard for my father."); Juno Lucina (Grata's vow: "there's honey on the cake", then "a lamp in it for you as good as
+  this one. Better.", then "Two cakes. Two, and the lamp."; "Lucina, you old cow"); the rival midwife "near the water tower" (CUT, never
+  restore: the draft's "at the Vesuvius Gate"; the mountain is not named on the page); the lamp-seller ("that thief behind the forum who
+  wants a day's takings for a decent lamp"); the baker ("the baker can have that with his bread"); "the aedile's men round to see who was
+  killed" (Grata's report of the twins' night); the girl "two streets over with milk to spare" (Mara refuses her).
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -4162,8 +4242,8 @@ Writer draft 2026-10-23 (re-sync to the FINAL page after the chain).
 - **Syntax fingerprint:** she never speaks in her own voice. The one reported line (Ch.7, "said we could go") is the dismissal, and that is all she is allowed.
 - **Rhythm:** silence; the class's pencils.
 - **Evasion:** why she cried. No one ever learned. **Never connected to the plot.**
-- **Physicality / silence:** crying without sound at her desk; a cardigan with a missing button, green in
-  Ch.7 and brown in Ch.24; by Ch.41 Mara is unsure it was long division.
+- **Physicality / silence:** crying (at her desk in Ch.7, at the board in Ch.24); a cardigan, green and short of its second button
+  in Ch.7, brown and "gone thin at the elbows" in Ch.24; by Ch.41 Mara is unsure it was long division.
 - **Verbal tic:** none — distinguished by silence (the memory mutates; no direct speech, ever)
 - **DISTINCTNESS GUARANTEE:** a silent, mutating memory, against Emilio, a remembered voice. Each surfacing
   enters with a different sentence (never "I thought of Mrs. Dunphy" twice).
@@ -4177,6 +4257,14 @@ Writer draft 2026-10-23 (re-sync to the FINAL page after the chain).
   it follows the storeroom scene's walk through the Philadelphia building, so it reads slightly less uninvited than the outline asks (re-eval).
   Ch.24 and Ch.41: let Dunphy arrive straight out of the present scene, never right after another memory or a remembered
   walk.
+- **Ch.24 (FINAL page, md5 `e4e8a96c…`; quote checked by grep): MUTATION 2.** Enters straight out of the scene, at the stool ("Wool
+  over my face, wet, brown. A sleeve."): "Mrs. Dunphy wore brown, a brown cardigan gone thin at the elbows, and she was at the board
+  with the chalk in her fingers, crying, the long division half written. Brown. The sleeve went." Brown (not green), at the board (not
+  the desk), the elbows thin (no button). No speech, no reported line, no not-knowing; she leaves with the sleeve. CUT (never restore):
+  "in the middle of the long division, and we copied the numbers into our books around her".
+- **Ch.41 (MUTATION 3, must differ from BOTH):** no green and no brown; no button and no thin elbows; neither the desk nor the board, no
+  chalk, nothing "half written"; no wool or sleeve as the trigger. A fresh entry out of the present scene (never after another memory),
+  and Mara unsure it was long division, with the paragraph NOT closing on that not-knowing.
 
 #### SOSANDROS — clerk to the Delphian council; enters households on the tribute lists (Ch.5 unnamed, "the thin man in the doorway" who corrects the herald; named Ch.7)
 - **Attention / worldview:** correct forms. Titles in full, a city's proper name ("Syrakousai"), the right column for a Theban
@@ -4870,47 +4958,68 @@ Writer draft 2026-10-23 (re-sync to the FINAL page after the chain).
 - **Sample line:** "Cart road's dry as far as Fundi, and after Fundi it's anybody's guess, and don't you go asking the hen." (Calibration
   only.)
 
-#### STATIA — midwife of Pompeii; Oscan (a Samnite by her own account); attends Mara in Grata's back room (Ch.24)
+#### STATIA — midwife of Pompeii; Oscan under her Latin; attends Mara in Grata's back room (Ch.24)
 - **Attention / worldview:** the body at work and the order of the job. A labor is a thing that goes right or wrong by stages she
   knows; she reads the belly with her palms, the noise a woman makes, and the look on her face at midnight. Rivals are fools by method
   ("Lays them flat. On their backs, like a beetle."); goddesses are colleagues she lets Grata deal with.
-- **Vocabulary band:** brisk Pompeian Latin with Oscan underneath; Oscan only as sound Mara cannot follow (to her bag strap, under her
-  breath at the worst); the trade's few words (wide, low, the first milk, the bands, salt "to close his skin"); Latin commands bare at the
-  stool ("Noli." / "Mas.").
+- **Vocabulary band:** brisk Pompeian Latin with Oscan underneath; Oscan only as sound Mara cannot follow (under the oil at the stool,
+  "her voice going on in Oscan underneath it"; "Statia said something that was not Latin." at the worst); the trade's few words (wide,
+  the first milk, the bands, salt "to close his skin"); Latin bare at the stool ("Noli." / "Mas,"). She never speaks to her bag strap:
+  at first light she ties it, "a good hard knot", and then speaks to Mara.
 - **Syntax fingerprint:** short verdicts, often doubled for weight and then qualified ("Slow's not bad. Slow's only slow." / "Nobody's
   right about two."); questions only for information, never comfort ("First?" / "Children or mothers?"); a joke delivered as a
   professional fact ("When they're fond of me at midnight, I start to worry.").
 - **Rhythm:** clipped at the job, garrulous with her mouth full.
-- **Evasion — never says:** that she was wrong. The boy is "Carried wide, the little liar"; she tells the lentils, and then Grata in the
-  shop, that it was wide regardless.
-- **Physicality / silence:** short and very broad, brown tunic black under the arms; short square fingers, nails pared to the quick; her
-  bag laid out in the same row every time, knife last. **Teeth (Mara's fixation, never her voice):** the two front teeth grown crossways,
-  the left over the right "like a pair of shears half shut", the one beside brown to the gum, a hole where an eyetooth belonged, breath
-  through the hole on an *s*. **This is the book's ONE introduction-by-teeth (SPENT).** Noted three times only (entry; "The left tooth
-  lying over its neighbor. I fixed on it."; "the crossed pair and the brown one" at the birth). No fourth note if she recurs.
+- **Evasion — never says:** that she was wrong. The boy is "Carried wide, the little liar."; on her way out she tells Grata in the shop
+  "it had been wide regardless, and a boy was no excuse" (reported).
+- **Physicality / silence:** short and very broad, "in a brown tunic gone black under the arms"; short square fingers, "pared to the
+  quick"; her bag unpacked "onto Grata's chest in a row", the little knife last "in a fish-skin sheath". **Teeth (Mara's fixation,
+  never her voice):** the two front teeth grown crossways, the left over the right "like a pair of shears half shut", the one beside
+  brown to the gum, a hole where an eyetooth belonged, breath through the hole on an *s*. **This is the book's ONE
+  introduction-by-teeth (SPENT).** Noted three times only (entry; "The left tooth lying over its neighbor. I fixed on it."; "the crossed
+  pair and the brown one" at the birth). No fourth note if she recurs.
 - **Verbal tic:** none — distinguished by attention (the job by its stages) and evasion (never wrong, only the child is)
 - **Bleed guard:** not Grata (Grata floods and never asks; Statia asks short questions and stops). Not Theano (Theano grumbles about her
   own body; Statia never mentions hers). Never Mara's eye for joins: the stool's glue is her mother's and "It's held since before Nero."
-- **Chaos on the page (her own):** eats Grata's whole pot of lentils with three fingers through the night; the rival at the Vesuvius Gate
-  with her black-sheep wool; the wrong guess.
+- **Chaos on the page (her own):** on the floor by Grata's lentil pot she "dipped in with three fingers, and talked with her mouth
+  full"; by Felix's report, "That midwife's eaten a whole pot of Grata's lentils"; the rival "near the water tower" with her black-sheep
+  wool ("Black wool, at a birth."); the wrong guess (plant "Carried wide. Wide's a girl.", payoff "Carried wide, the little liar.",
+  reported exit "wide regardless": "wide" from her mouth 3, no encore).
 - **DISTINCTNESS GUARANTEE:** the one person in the book who takes Mara's hatred as a sign the work is going right, against Grata, who
   takes everything as a story to tell the street.
-- **Ch.24 (writer draft, 2026-10-23):** "A girl," … "Carried wide. Wide's a girl." / "First?" / "You're no girl yourself, for a first.
-  It'll be slow. Slow's not bad. Slow's only slow." / "Who've you got coming? Your mother? Sisters?" / "Not a soul?" / "There. That's
-  one." / "Nothing off you," / "There's a well, and I've got arms." / "Girl," / "A girl," (from the bed) / "Children or mothers?" /
-  "Some." … "None yet this year." / "She asked. I don't tell lies to the ones that ask. Go on to your wall, Greek, and leave the
-  reckoning to me." / the eagle-stone tied to Mara's left thigh / the rival at the Vesuvius Gate / "Leave that be," / "My mother glued
-  it. … It's held since before Nero." … "You can mend it when you've had as many on it as I have." / "Men out," / "You're doing it very
-  loud." / "Nothing wants carrying till it's here," … "After, you can carry it, and welcome, and see how you like it." / "Good," … "That's
-  the right noise. Make that one." / "Back to your mule," / at the stool, untagged: "Not yet. Noli. Not yet." … "You'll stop when he's
-  out." … "Hush, you'll put her off." … "There. There he is. I've his head." / "Mas," … "A boy. Carried wide, the little liar." /
-  "Fetch the father," / "Lift him," / "He's yours. Lift him up." / "He'll not break," … "That's the neck, that's the head. That holds him.
-  Now this one." … "There. Up." / "In," … "In to you. Bring him in." / "Whole," … "Ask him." / "Sit, before you drop him." / "He's wet,"
-  … "Give him here and he'll be neither." / the first milk refused ("it's cheese, it'll sit in him and curdle") and let go / "Greeks," /
-  "Carried wide," she told the lentils. / "Round about midnight," … "you had a look on you like you'd have my eyes out with your
-  thumbs." / "Don't flatter yourself. Each of them does, about then. It's how I know it's going right." … "When they're fond of me at
-  midnight, I start to worry." **Spent:** every line above; the lentils; the rival; the stool and its glue; the eagle-stone; the wrong
-  guess. If she recurs (Aelia, winter 75-76), new words, a new object, no teeth.
+- **Ch.24 (FINAL page, md5 `e4e8a96c…`; quotes checked by grep; CUT strings checked OFF the page):** "Up," … "Show me how you go. To
+  the wall. Back." / "Hm," / "A girl," … "Carried wide. Wide's a girl." / "She carried two. Nobody's right about two." … "First?" /
+  "You're no girl yourself, for a first. It'll be slow. Slow's not bad. Slow's only slow." … "Who've you got coming? Your mother?
+  Sisters?" / "Not a soul?" / "There. That's one." / "Nothing off you," / "There's a well, and I've got arms." / "Girl," / "There's one
+  in your own belt," / the eagle-stone tied to Mara's left thigh / "Children or mothers?" / "Some." … "None yet this year." / "She
+  asked. I don't tell lies to the ones that ask. Go on to your wall, Greek, and leave the reckoning to me." / "A girl," Statia called
+  over. / "There's one near the water tower," … "calls herself a midwife. Lays them flat. On their backs, like a beetle. Then she
+  wonders why it takes two days." … "Lays them flat and goes home to her dinner. And her wool's off a black sheep, I know it for a fact.
+  Black wool, at a birth." … "Walk." / "Leave that be," / "My mother glued it. She had it off her mother, and that arm came off under a
+  tanner's wife twice your size. It's held since before Nero. You can mend it when you've had as many on it as I have." / "Men out," …
+  "You. Off my door. Go and do something with your hands." / "You're doing it very loud." / "Nothing wants carrying till it's here,"
+  Statia told the door. "After, you can carry it, and welcome, and see how you like it." (the chapter's one talking-to-an-object) /
+  "Good," … "That's the right noise. Make that one." / "Back to your mule," / at the stool, untagged: "Not yet. Noli. Not yet." … "You
+  can. You are. Short breaths on it, like a dog in the sun. So." … "You'll stop when it's out." … "Now. With it. With it." …
+  "Again." … "Wait for it. Wait." … "Hush, you'll put her off." … "There. There it is. I've the head. I've the head. Stop now. Stop,
+  stop. Little breaths." / "Now," / "Mas," … "Carried wide, the little liar." / "It's a cloth now. Fetch the father." / "Lift him," /
+  "He's yours. Lift him up." / "He'll not break," … "Here. Give me that one." … "That's the neck, that's the head. That holds him. Now
+  this one." … "There. Up." / "In," … "In to you. Bring him in." / "Whole," … "Look for yourself." / "Now give him here. There's work
+  yet. Sit, before you drop him." / "He's wet," … "Give him here and he'll be neither." / she unfastens the child from Valens "finger by
+  finger" / the afterbirth held to the lamp "the way Grata judged fish" / salt "to close his skin", the wool bands / "Not that," … "Not
+  yet. That first milk's thick, it's no good to him, it's cheese, it'll sit in him and curdle. Honey on a finger for now. Grata knows a
+  girl two streets over with milk to spare, she'll have him three days, and after that you." / "You'd kill him on his first day, would
+  you?" / "Greeks," … to Grata / "let the cheese go" / "Round about midnight," … "you had a look on you like you'd have my eyes out with
+  your thumbs." / "Don't flatter yourself. They all get it, about then. It's how I know it's going right." … "When they're fond of me at
+  midnight, I start to worry." / (reported) "it had been wide regardless, and a boy was no excuse."
+- **CUT (never restore; each checked OFF the final page):** "He lay wide," Statia said. "I'm never wrong about wide." (F4); "Carried
+  wide," / "He lay wide," she told the lentils (CRIT-004); "A boy," she told the dark; "and spoke to it in Oscan"; "She licked her
+  fingers."; the dawn lentil scene (WARN-08; "with three fingers" survives only at bedtime); "A boy. Carried wide…" (the "A boy." cut);
+  "Ask him."; "Each of them does, about then."; "You'll stop when he's out."; "There. There he is. I've his head."; "as broad as two of
+  you" plus the split quotation (F3); "Statia eyed the lime on his legs"; and the rival "at the Vesuvius Gate" (the mountain stays
+  unnamed on the page: this name must not appear as page text).
+- **Spent:** every line above; the lentils; the rival; the stool and its glue; the eagle-stone; the wrong guess; "told the door". If she
+  recurs (Aelia, winter 75–76): new words, a new object, no teeth.
 - **Sample line:** "Hot water, and not from that jar, that jar's had fish in it. And you, out." (Calibration only.)
 
 ## UNNAMED SPEAKING ROLES PLANNED IN THE OUTLINE
@@ -4934,8 +5043,8 @@ line each, so that walk-ons don't all sound like Mara.
 | Old trainer and the editor of games (21) | WRITTEN (Ch.21) and named: NICANOR (card above; sand and bodies, predicted aloud) and GAIUS FABIUS RUFINUS (card above; never speaks, known by herald, freedman and paint) |
 | Celer's advocate (22) | smooth forensic Latin; never raises his voice |
 | Inn landlady on the Appian Way (23) | WRITTEN (Ch.23) and named: ACCA (card above); the towpath and the hen. She admits the fleas ("Rain brings them up,"); no bill on the page |
-| Midwife (24) | WRITTEN (Ch.24) and named: STATIA (card above); the job by its stages, the lentils, the wrong guess; crossed front teeth (Mara's fixation, not her voice; the book's one introduction-by-teeth) |
-| Grata's husband (24, 31) | dice and rumor; mentions the Chaldean "talking gibberish". Glimpsed Ch.19 (sleeping tunic, "Is there bread?"); see the Ch.19 walk-on note |
+| Midwife (24) | WRITTEN (Ch.24) and named: STATIA (card above); SYNCED to the FINAL page (md5 `e4e8a96c…`); the job by its stages, the lentils, the wrong guess; crossed front teeth (Mara's fixation, not her voice; the book's one introduction-by-teeth) |
+| Grata's husband (24, 31) | WRITTEN (Ch.24), still unnamed: dice and rumor; the Chaldean who "mutters gibberish to himself over it" (Ch.25's plant). Glimpsed Ch.19 (sleeping tunic, "Is there bread?"); see the Ch.19 and Ch.24 walk-on notes; Ch.31 in fresh words |
 | Lanista (28) | contracts and investment; reasonable, mostly honest |
 | Boat-owner at the Sarno (37) | weather and price; Valens wrongly suspects him |
 | Stranger with the figs in the tomb (41) | his landlord; ordinary grievance as the only way to talk about tomorrow |
@@ -6833,6 +6942,34 @@ line each, so that walk-ons don't all sound like Mara.
     - **The lamplit hoof-trimming is Ch.24's and unspent** (outline Ch.24: Valens outside the door at midnight). Ch.23 spent only the
       gray heard through the floor ("Off hind") and the mules rubbed down; the trimming gets its own animal and its own words, and it
       must not rebuild the lamplit look at his back ("the little flame put everything on it in relief").
+- **At-risk after Ch.24 (FINAL page, md5 `e4e8a96c…`, synced 2026-10-23; "Lucius", Fragmented, 8 breaks / 9 shards stamped by the
+  Roman night hours, Pompeii, summer AD 74. Writer draft → dialogue-polish → hook-craft → disruptor → continuity repair → evaluator
+  cycle 0 (F1–F7) → cycle 1 PASS → finalize FN1–FN3. Quotes checked by grep against the final chapter; CUT strings checked OFF it; the
+  per-character CUT lists are on the STATIA, VALENS, FELIX, GRATA, MARA cards and the Ch.24 walk-on block):**
+  - **SPENT:** the jar-lift ("It was how a man held a jar he had caught just short of the stones") and "In to you."; the hoof-trimming
+    (the dun's feet four times round, the frog cleaned "gently, though it was clean", the drift of horn, the rasp as a sound track
+    stopping and starting); Statia's teeth (3; the book's one introduction-by-teeth); "Which cock?" / "All of them."; the cup tipped to
+    her lips; Mrs. Dunphy in brown (mutation 2); the freezer peas; "A sound left me that was nobody's I knew."; "I hated [X]." as a
+    chapter opener; the Roman night-hour stamps as a chapter form; the eagle-stone, the dittany, the stool and its glue, the knots
+    undone; the "Carried wide" gag; "whole" as a designed word for a birth; the festival tunic as a floor cloth ("My man wears that to
+    the Floralia,"); the first-milk "cheese" argument; the unlaced sandal; Grata's vow to Lucina and the lamp; the right-wrist winding
+    ("working the watch's little crown a click at a time"); "Nobody had to mend it."
+  - **WATCH:** the "Nobody had [verb]" narration frame, 3 in Ch.24 ("nobody had brought any", "Nobody had sent him.", "Nobody had to mend
+    it.") → ≤1 per chapter from Ch.25; "palm" (5 in l.346–382 of Ch.24); talking-to-objects, 1 used ("Statia told the door"); Felix's
+    stacked-question bursts (3; rotate the form); Grata's touches (5; a sixth needs a new place and purpose); Valens stopped/froze (3).
+  - **Ch.25 guards (the Chaldean is AUGURINUS / Fenn):** the husband's plant ("mutters gibberish to himself over it", "Did you get the
+    hour?") pays off only by what Mara hears for herself; Ch.25 must not quote "gibberish" back as a reveal, and nobody remarks that the
+    hour was "all of them". Lucius in arms is shown in fresh words (none of the birth images on his card). **Hook for Ch.25 must NOT be
+    QUESTION** (Ch.24's hook type) **and its pull must NOT be QUESTION PLANT** (Ch.24's pull type). **TICKING CLOCK is still the one hook
+    type never used.**
+  - **Ch.26 guards (Aelia's birth, winter AD 75–76):** a different word, a different apparatus and a different body rebel. No rebuild
+    of Ch.24's machinery: no shards stamped by the night hours (or any time-stamped fragments); no teeth (Statia's, or anyone's); no
+    birthing stool, no glue; no leg shake, no heels; no watch winding; no father's lift on locked arms (no jar, no "In to you."); no
+    festival cloth on the floor (no Floralia, no tunic); no "Whole?" and no "whole" as the designed word; no eagle-stone, no dittany, no
+    knots undone, no vow of cakes and a lamp; no first-milk argument; no wide/narrow sex guess. If Statia attends: new words, a new
+    object, no teeth.
+  - **Vesuvius rule (unchanged):** the mountain is not named on the page; the draft's "Vesuvius Gate" was CUT from Ch.24 and must not
+    return as page text in any chapter before its time.
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
@@ -7632,3 +7769,4 @@ finalizing the chapter. Never add a tic to fix it.
   ENTITY_STATE.yaml, outline.md. No new named character beyond ACCA; no tic, catchphrase or signature gesture given to anyone;
   tic-bearer roster still NONE.
 - **2026-10-23 (Writer, Ch.24 'Lucius' draft):** new card **STATIA** (the midwife; the book's one introduction-by-teeth, SPENT; no tic). New block **Ch.24 unnamed walk-ons** (Grata's husband and the Chaldean plant; the fuller's other half; Statia's boy; carters). Roles table: Midwife row marked WRITTEN. Tic-bearer roster still NONE. Full re-sync to the FINAL page is the chain's job after dialogue-polish/disruptor/evaluator.
+- **2026-10-23 (finalize Ch.24):** STATIA card, Ch.24 walk-ons, DUNPHY, LUCIUS, VALENS, FELIX, GRATA, MARA synced to the FINAL page md5 `e4e8a96c…`; F1–F7 and FN1–FN2 old strings logged CUT; At-risk after Ch.24 added. STATIA: "Vesuvius Gate" → "near the water tower"; Oscan only under the oil and "something that was not Latin" (not to her bag strap); evasion recast to the reported exit; line list rebuilt from the page; draft lines logged CUT. Walk-ons: the husband's Chaldean plant re-quoted ("Old as Saturn", "over it", "For the boy."), the counter-sleeping line deleted, the Floralia tunic added; the fuller's other half re-quoted; Pliny's reading room/postcard CUT. DUNPHY: mutation 2 recorded (brown, the board, thin elbows); mutation 3 (Ch.41) must differ from both. LUCIUS born on the page (Ch.24). GRATA: fifth touch, the hip pats. Roles table: Midwife row SYNCED; husband row re-quoted from the page. At-risk after Ch.24: SPENT/WATCH, Ch.25 guards (Augurinus; hook not QUESTION, pull not QUESTION PLANT; TICKING CLOCK still unused), Ch.26 guards (Aelia's birth rebuilds none of Ch.24's shards, teeth, stool, watch winding, father's lift, Floralia cloth, "Whole?"). Every quote placed on a card checked by grep against the final chapter-24.md. Not touched: the manuscript, STATE.yaml, ENTITY_STATE.yaml, outline.md. No catchphrase or tic assigned; tic-bearer roster still NONE.
