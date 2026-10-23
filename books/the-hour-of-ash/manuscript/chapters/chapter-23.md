@@ -123,7 +123,7 @@ His eel had been in the pot longer than mine and tasted it. I was hungry the way
 
 Horace had traveled this road a hundred years before us, with a party of friends and a bad stomach. He complained in verse about the canal water, and the frogs, and a drunk boatman singing to his girl through the night, and the inns. I had read him at nineteen, in a carrel, and thought he was making most of it up. He had made up none of it. There was a small, mean comfort in that. I sat with it, and it did not last.
 
-Since the city gate he had been like this. He had walked beside me to the gate, with the freedman behind us carrying the price of a chair I never sat in. He had climbed up after me into the carriage the brother had hired as far as Capua. Since then he had answered whatever was put to him, the driver and the post-house men and me, with a word or two apiece. He was not short with anybody. He watched the road.
+Since the city gate he had been like this. He had walked beside me to the gate, with the freedman behind us carrying the price of a chair I never sat in. He had climbed up after me into the carriage the brother had hired as far as Capua. Since then he had answered whatever was put to him, the driver and the post-house men and me, with a word or two apiece. He was not short with anybody.
 
 "I missed it," I said. "All you told them."
 
@@ -133,7 +133,7 @@ Since the city gate he had been like this. He had walked beside me to the gate, 
 
 "It was the same. Near enough the same."
 
-The day he spoke I had been outside on the steps of the Basilica, sitting on Myrrhine's cloak. I had heard the beginning, as far as what he slept on outside her door, and then I was gone. The dyer and the merchant and the young man's uncle had done most of the deciding. The judge had heard Valens out and believed him. None of it made any difference; he had stood up for an hour in front of half of Rome, and I had been outside for most of it. It was what I had come for, and I had laughed it away.
+The day he spoke I had been outside on the steps of the Basilica, sitting on Myrrhine's cloak. I had heard the beginning, as far as what he slept on outside her door, and then I was gone. The dyer and the merchant and the young man's uncle had done most of the deciding. He had stood up for an hour in front of half of Rome even so, and I had been outside for most of it. It was what I had come for, and I had laughed it away.
 
 Something bit me on the ankle, under the table, and then again above it.
 
@@ -173,7 +173,7 @@ He hung the lamp on a nail by the shutter.
 
 "Then they won't." The door was three boards on leather straps. He lifted its latch and dropped it, twice, and studied the gap underneath. Nothing in the room would bar it. He searched for a stool, and there was no stool. He left it.
 
-He sat on the bed's edge. The cords dipped toward him, and when I sat beside him they slid me against his side, all my weight at once, because they gave me no choice.
+He sat on the bed's edge. The cords dipped toward him, and when I sat beside him they slid me against his side, all my weight at once.
 
 He let me lean. His forearms were on his knees and his hands loose past them, and his eyes were on the floor between his boots.
 
@@ -235,7 +235,7 @@ I lifted my cheek, got off the bed and took my own clothes off. I stood barefoot
 
 "Look, then. All of it's yours, and most of it's swollen."
 
-My belly stood out high and round, with the navel pushed out flat. A brown line had come in March, running down from it to the hair, and nothing would scrub it off. My breasts had grown heavy since the winter and the veins showed in them, blue under the skin. The nipples were wider and darker. They were sore; the wool of the tunic had chafed them all day in the carriage.
+My belly stood out high and round, with the navel pushed out flat. A brown line had come in March, running down from it to the hair, and nothing would scrub it off. My breasts had grown heavy since the winter and the veins showed in them, blue under the skin. The nipples were wider and darker.
 
 He looked, and his face gave me nothing to read.
 
@@ -247,7 +247,7 @@ He looked, and his face gave me nothing to read.
 
 "Grata says what she thinks will rile me."
 
-I pushed at his chest, and he went back onto the blanket. It must have scraped him, and he lay with all his marks against it and did not shift. The cords sank under him. He got his boots off without his hands, toe against heel, and they fell somewhere on the boards. The rest of his clothes I took from him.
+I pushed at his chest, and he went back onto the blanket. It must have scraped him, and he lay with all his marks against it and did not shift. He got his boots off without his hands, toe against heel, and they fell somewhere on the boards. The rest of his clothes I took from him.
 
 Getting a knee across him needed two tries and his hand cupping my elbow. The bed creaked throughout.
 
@@ -261,9 +261,9 @@ I took his hands off my hips. I lowered them to the blanket, palms up, one each 
 
 For a breath he only looked at me. The fingers stirred once on the felt and went loose.
 
-I could not reach his mouth over the child. I tried, and the child objected, so I kissed what I could reach: his chest, the hollow at the base of his throat, the hard place over his heart, the stubble along his jaw when I stretched. His old stillness was the one he kept for strangers and road posts and men on benches. This one he kept because I wanted it, and it cost him; the cost was there in the muscles of his belly under my thighs.
+I could not reach his mouth over the child. I tried, and the child objected, so I kissed what I could reach, the hard place over his heart and the stubble along his jaw when I stretched. The muscles of his belly jumped under my thighs every time.
 
-He was hard against me. I reached beneath the child for him and put him to me, and sank onto him by slow degrees, the child's weight sinking with me, till I had all of him and sat on him. He shut his eyes. His breath left him and was a while returning.
+He was hard against me. I reached beneath the child for him and put him to me, and sank onto him by degrees, the child's weight sinking with me, until I was sitting on him. He shut his eyes. His breath left him and was a while returning.
 
 "Mara."
 
@@ -277,7 +277,7 @@ I took the nearer hand from beside his head and drew it beneath the child, betwe
 
 Then he raised the hand still lying open.
 
-It found the back of my thigh, then my hip, then the small of my back, and held on there. His head rose and I bent to it and got my arms round it. His face went in against my collarbone, under my chin. His breath was hot on the sore skin of my breast, and I allowed it. He was moving with me now, a little, up into me. He made no sound until the end, and then the sound he made was into my skin, low. His arms locked round my back, hard. I held his head and spoke his name into the top of it, Gaius Iulius Valens, the one in the court's wax, and then only Valens.
+It found the back of my thigh, then my hip, then the small of my back, and held on there. His head rose and I bent to it and got my arms round it. His face went in against my collarbone, under my chin. His breath was hot on the sore skin of my breast, and I allowed it. He was moving with me now, a little, up into me. He made no sound until the end, and then my collarbone had it before my ears did. His arms locked round my back, hard. I held his head and spoke his name into the top of it, Gaius Iulius Valens, the one in the court's wax, and then only Valens.
 
 "Stay," he said. "A while."
 
@@ -303,7 +303,7 @@ I fitted myself to his back. The belly fitted the hollow of it, my breasts to hi
 
 The child woke. It kicked him in the back, twice, so hard I felt it go through me into him.
 
-He went quite still. His shoulders dropped, and the long muscles beside his spine let go in turn, down to the hip, and he lay back against me.
+His shoulders dropped, and the long muscles beside his spine let go in turn, down to the hip, and he lay back against me.
 
 "It's awake," he said, into the wall.
 
