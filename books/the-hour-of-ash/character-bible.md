@@ -3988,6 +3988,31 @@ SYNCED to the FINAL page 2026-10-23 (md5 `3599a74c…`); every quote checked by 
   in the winter that this was the child eating" / "Grata says not, until the eighth month."); Valens's mother (the onion memory; unnamed,
   unexplained; see VALENS).
 
+#### Ch.24 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+Writer draft 2026-10-23 (re-sync to the FINAL page after the chain).
+- **Grata's husband (the outline's Ch.24/31 role; second appearance, still unnamed):** "a soft, sunburned man with a voice that carried
+  better than he did", seen "perhaps a dozen times in all, and always on his way from one bench to another with a cup"; at the court door
+  "lamp up, his dice in his other fist", the dice clicking as he talks. **The Ch.25 plant (outline):** "Down at Puteoli," … "On the fish
+  quay, behind the tunny sheds. A Chaldean. Does the grain ships' stars before they sail. My brother's had him do his. Old as dirt and
+  mad with it, mutters gibberish to himself nonstop while he's at it, not Greek, not Syrian, nothing you ever heard, and then he tells you
+  your day in Greek like a schoolmaster. Cheap, though." / "The boy's. You mark the hour he comes, and you take it down to the Chaldean,
+  and he casts it. Everybody does." / "Well, when it comes. Mark it, is all I'm saying. You'll want his stars read." Asleep "across his
+  own counter" (heard snoring, two walls off); at cockcrow, "lamp burned out and his tunic on inside out": "Did you get the hour?" /
+  Valens: "The cocks," / "Which cock?" / "All of them." Mara does not react to "gibberish" on the page (no foreshadowing). His brother
+  (Ch.19: "never been off" a ship) is the source. Spent: the hour, the cocks, the dice clicking. Ch.31 needs fresh words.
+- **The fuller's other half** (Ch.19 lore: she and the fuller beat each other on market and feast days; Ch.24 named only as "her at the
+  fullery" / "Her from the fullery"; the phrase "the fuller's wife" is avoided in Ch.24 because Ch.20 spent it): twins, one "asleep on
+  her collarbone"; "Dittany," … "Cretan. It's the real one, I got it from a sailor's wife, you burn it under her. I burned it under me
+  and look." … "Two. Took no time." / "It felt like no time." / "She's carrying wide," … "That's a girl." Grata: "You took from one dawn
+  to the next," … "I held your leg for it." Spent.
+- **Statia's boy** (passing): carries the birthing stool roped on his back, "its legs to the sky"; never speaks.
+- **A carter** (passing): complains at the shut counter; sent to the Nola Gate "to be robbed there". Another at morning gets the news
+  "with his wine for the one copper, and none of it on credit".
+- **Mention:** Soranus (the midwife's fingers; nothing on teeth; one credential aside); Pliny (the eagle-stone; read "in a reading room
+  in Philadelphia with snow going past the windows", copied on a postcard for her father); Juno Lucina (Grata's vow: a cake with honey,
+  then "a lamp as good as this one. Better.", then "Two cakes. Two, and the lamp."; "Lucina, you old cow"); the rival midwife at the
+  Vesuvius Gate; the lamp-seller "behind the forum"; the girl "two streets over with milk to spare" (refused).
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -4845,6 +4870,49 @@ SYNCED to the FINAL page 2026-10-23 (md5 `3599a74c…`); every quote checked by 
 - **Sample line:** "Cart road's dry as far as Fundi, and after Fundi it's anybody's guess, and don't you go asking the hen." (Calibration
   only.)
 
+#### STATIA — midwife of Pompeii; Oscan (a Samnite by her own account); attends Mara in Grata's back room (Ch.24)
+- **Attention / worldview:** the body at work and the order of the job. A labor is a thing that goes right or wrong by stages she
+  knows; she reads the belly with her palms, the noise a woman makes, and the look on her face at midnight. Rivals are fools by method
+  ("Lays them flat. On their backs, like a beetle."); goddesses are colleagues she lets Grata deal with.
+- **Vocabulary band:** brisk Pompeian Latin with Oscan underneath; Oscan only as sound Mara cannot follow (to her bag strap, under her
+  breath at the worst); the trade's few words (wide, low, the first milk, the bands, salt "to close his skin"); Latin commands bare at the
+  stool ("Noli." / "Mas.").
+- **Syntax fingerprint:** short verdicts, often doubled for weight and then qualified ("Slow's not bad. Slow's only slow." / "Nobody's
+  right about two."); questions only for information, never comfort ("First?" / "Children or mothers?"); a joke delivered as a
+  professional fact ("When they're fond of me at midnight, I start to worry.").
+- **Rhythm:** clipped at the job, garrulous with her mouth full.
+- **Evasion — never says:** that she was wrong. The boy is "Carried wide, the little liar"; she tells the lentils, and then Grata in the
+  shop, that it was wide regardless.
+- **Physicality / silence:** short and very broad, brown tunic black under the arms; short square fingers, nails pared to the quick; her
+  bag laid out in the same row every time, knife last. **Teeth (Mara's fixation, never her voice):** the two front teeth grown crossways,
+  the left over the right "like a pair of shears half shut", the one beside brown to the gum, a hole where an eyetooth belonged, breath
+  through the hole on an *s*. **This is the book's ONE introduction-by-teeth (SPENT).** Noted three times only (entry; "The left tooth
+  lying over its neighbor. I fixed on it."; "the crossed pair and the brown one" at the birth). No fourth note if she recurs.
+- **Verbal tic:** none — distinguished by attention (the job by its stages) and evasion (never wrong, only the child is)
+- **Bleed guard:** not Grata (Grata floods and never asks; Statia asks short questions and stops). Not Theano (Theano grumbles about her
+  own body; Statia never mentions hers). Never Mara's eye for joins: the stool's glue is her mother's and "It's held since before Nero."
+- **Chaos on the page (her own):** eats Grata's whole pot of lentils with three fingers through the night; the rival at the Vesuvius Gate
+  with her black-sheep wool; the wrong guess.
+- **DISTINCTNESS GUARANTEE:** the one person in the book who takes Mara's hatred as a sign the work is going right, against Grata, who
+  takes everything as a story to tell the street.
+- **Ch.24 (writer draft, 2026-10-23):** "A girl," … "Carried wide. Wide's a girl." / "First?" / "You're no girl yourself, for a first.
+  It'll be slow. Slow's not bad. Slow's only slow." / "Who've you got coming? Your mother? Sisters?" / "Not a soul?" / "There. That's
+  one." / "Nothing off you," / "There's a well, and I've got arms." / "Girl," / "A girl," (from the bed) / "Children or mothers?" /
+  "Some." … "None yet this year." / "She asked. I don't tell lies to the ones that ask. Go on to your wall, Greek, and leave the
+  reckoning to me." / the eagle-stone tied to Mara's left thigh / the rival at the Vesuvius Gate / "Leave that be," / "My mother glued
+  it. … It's held since before Nero." … "You can mend it when you've had as many on it as I have." / "Men out," / "You're doing it very
+  loud." / "Nothing wants carrying till it's here," … "After, you can carry it, and welcome, and see how you like it." / "Good," … "That's
+  the right noise. Make that one." / "Back to your mule," / at the stool, untagged: "Not yet. Noli. Not yet." … "You'll stop when he's
+  out." … "Hush, you'll put her off." … "There. There he is. I've his head." / "Mas," … "A boy. Carried wide, the little liar." /
+  "Fetch the father," / "Lift him," / "He's yours. Lift him up." / "He'll not break," … "That's the neck, that's the head. That holds him.
+  Now this one." … "There. Up." / "In," … "In to you. Bring him in." / "Whole," … "Ask him." / "Sit, before you drop him." / "He's wet,"
+  … "Give him here and he'll be neither." / the first milk refused ("it's cheese, it'll sit in him and curdle") and let go / "Greeks," /
+  "Carried wide," she told the lentils. / "Round about midnight," … "you had a look on you like you'd have my eyes out with your
+  thumbs." / "Don't flatter yourself. Each of them does, about then. It's how I know it's going right." … "When they're fond of me at
+  midnight, I start to worry." **Spent:** every line above; the lentils; the rival; the stool and its glue; the eagle-stone; the wrong
+  guess. If she recurs (Aelia, winter 75-76), new words, a new object, no teeth.
+- **Sample line:** "Hot water, and not from that jar, that jar's had fish in it. And you, out." (Calibration only.)
+
 ## UNNAMED SPEAKING ROLES PLANNED IN THE OUTLINE
 Give each one its own attention, and **promote it to a full card the moment the page names it.** One
 line each, so that walk-ons don't all sound like Mara.
@@ -4866,7 +4934,7 @@ line each, so that walk-ons don't all sound like Mara.
 | Old trainer and the editor of games (21) | WRITTEN (Ch.21) and named: NICANOR (card above; sand and bodies, predicted aloud) and GAIUS FABIUS RUFINUS (card above; never speaks, known by herald, freedman and paint) |
 | Celer's advocate (22) | smooth forensic Latin; never raises his voice |
 | Inn landlady on the Appian Way (23) | WRITTEN (Ch.23) and named: ACCA (card above); the towpath and the hen. She admits the fleas ("Rain brings them up,"); no bill on the page |
-| Midwife (24) | brisk, Oscan asides, goddess names; crossed front teeth (Mara's fixation, not her voice) |
+| Midwife (24) | WRITTEN (Ch.24) and named: STATIA (card above); the job by its stages, the lentils, the wrong guess; crossed front teeth (Mara's fixation, not her voice; the book's one introduction-by-teeth) |
 | Grata's husband (24, 31) | dice and rumor; mentions the Chaldean "talking gibberish". Glimpsed Ch.19 (sleeping tunic, "Is there bread?"); see the Ch.19 walk-on note |
 | Lanista (28) | contracts and investment; reasonable, mostly honest |
 | Boat-owner at the Sarno (37) | weather and price; Valens wrongly suspects him |
@@ -7563,3 +7631,4 @@ finalizing the chapter. Never add a tic to fix it.
   chapter-23.md; strings off the page appear only as CUT entries (checked absent). Not touched: the manuscript, STATE.yaml,
   ENTITY_STATE.yaml, outline.md. No new named character beyond ACCA; no tic, catchphrase or signature gesture given to anyone;
   tic-bearer roster still NONE.
+- **2026-10-23 (Writer, Ch.24 'Lucius' draft):** new card **STATIA** (the midwife; the book's one introduction-by-teeth, SPENT; no tic). New block **Ch.24 unnamed walk-ons** (Grata's husband and the Chaldean plant; the fuller's other half; Statia's boy; carters). Roles table: Midwife row marked WRITTEN. Tic-bearer roster still NONE. Full re-sync to the FINAL page is the chain's job after dialogue-polish/disruptor/evaluator.
