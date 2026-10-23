@@ -72,7 +72,7 @@ I found one on Spruce Street, after two blocks with my shoulders up around my ea
 
 "In this." He turned the radio up a notch.
 
-On the radio the man said burlap, you leave the burlap on them till the forsythia comes out, and I wondered whether burlap and hessian were the same cloth with two passports, and whether hessian had anything to do with the soldiers, and then we were over the river and the water below the bridge was the color of an old nickel.
+On the radio the man said burlap, you leave the burlap on them till the forsythia comes out, and I wondered whether burlap and hessian, which the English on my father's digs called it, were the same cloth with two passports, and whether hessian had anything to do with the soldiers, and then we were over the river and the water below the bridge was the color of an old nickel.
 
 "Where on Pine?" the driver said, at Tenth.
 
