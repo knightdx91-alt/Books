@@ -143,7 +143,7 @@ Real dialogue is NEVER as clean as AI dialogue. People talk past each other, cha
 
 ## OUTPUT
 
-**Before overwriting**, copy the Writer's version to `manuscript/chapters/chapter-[N]-pre-disruption.md` as backup. Then save the disrupted chapter to the original file. Then write a disruption report:
+**Before overwriting**, copy the Writer's version to `manuscript/reports/chapter-[N]-pre-disruption.md` as backup (never into `chapters/`: the gates glob every `chapter-*.md` there and a backup copy fails the book-wide repetition checks). Then save the disrupted chapter to the original file. Then write a disruption report:
 
 Save to `evaluations/disruption-chapter-[N].md`:
 
