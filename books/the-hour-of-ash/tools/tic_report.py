@@ -41,6 +41,7 @@ WORLD_TERMS = [
     "the oracle", "the pythia", "the library of alexandria", "the temple of apollo",
     "the corycian cave", "the nuceria gate", "the basilica julia", "the appian way",
     "the castalian spring", "the sarno", "the polygonal wall", "the sacred way",
+    "gaius iulius valens",   # Valens's full freedman name (proper noun; Ch.16 leaf, Ch.17 record, Ch.21 letter, Ch.22 testimony)
 ]
 # The narrator's professional reflex: the phrases by which THIS book's narrator files everything she
 # sees under her own expertise (a lab, a seminar, a trade). Book-specific; leave empty if none. The gate

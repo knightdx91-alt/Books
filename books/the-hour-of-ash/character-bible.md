@@ -3622,6 +3622,38 @@ SYNCED to the FINAL page 2026-10-22 (md5 `23e2aa57…`); quotes checked by grep.
 - **Mention:** "a colleague" visited on the maternity floor at Pennsylvania Hospital (Mara's memory; unnamed); the potter by the Herculaneum Gate (Felix: murmillo bowls "in red with the shield in black", "a whole copper"); the fuller's woman ("The fuller's woman sent it.", the Falernian); the slaver at Kirrha ("The slaver said twelve, at Kirrha. Slavers say what sells."); the contractor (pays in bone seat tokens; "shorts him", Grata); the Thracian ("never been beaten", Felix; beats the middle one).
 - **Plautia's brother (by letter only; UNNAMED, and stays unnamed):** "It was from Plautia's brother, in a scribe's hand, round and even." The letter opens "*To Gaius Iulius Valens, greeting.*" and sets the terms (the Basilica Julia in April; his freedman at "the wine-seller's by the harbor at Puteoli from the Kalends of March to the Ides, with money for the road for you and yours"; "Any witness not with him when the Ides is out we will take to have stayed at home."). **Never "Sextus Plautius"** or any invented name (author override on W-19; the audit's I-10 / YAML naming patch is NOT applied). Plautia's father is Sextus (Ch.17); the brother is "her brother" / "Plautia's brother" only. **His freedman** (at Puteoli, not yet on the page) is a different man from Fabius's.
 
+#### Ch.22 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+Writer draft 2026-10-23 (not yet synced to a FINAL page).
+- **Plautia's brother (ON STAGE, still UNNAMED):** "a heavy man with her nose and none of her stillness"; cracks his knuckles once at the
+  sentence; says nothing to Celer's "carter's lungs" jibe; to Valens: "My sister will want to thank you, and make a poor job of it, so
+  I'll do it now, and spare you both. Thank you." / "And a better chair." Uses contractions (Plautia never does). **Never "Sextus
+  Plautius" or any name.**
+- **The brother's freedman:** met them at the Puteoli harbor wine shop on the Kalends of March, "a little hurt" (he had brought a book);
+  paid for everything; hired the chair at the Capena Gate; watches Valens "as a buyer might watch a mule he had been promised was quiet."
+  No line.
+- **The judge (iudex):** "a lean old senator with the broad purple stripe", listens with his eyes closed; "How is it proved?"; "The court
+  is not buying onions,"; says "Salve" to the sneezer with his eyes shut; "That's not in the matter," ; "Take the lady outside,"; the
+  sentence (money). **His three friends (assessors)** on stools; **the youngest**, whose uncle was consul "for his two months" that year
+  and was "still at his villa at Tibur" in the bill's month: "My uncle will be sorry to hear it. He'd have liked the extra months."
+- **Our (the brother's) advocate:** short, square, hoarse, no gestures; reads the dowry "like a cargo"; the leaf speech; "The court is
+  asked to take a consul's dates against a steward's,"; raises the Cornelian law off the page on day two (Celer reports it).
+- **Celer's advocate:** young, "a beautiful voice", left hand in his toga fold, the right "spent on the air"; the property argument; "A
+  steward's slip of the stylus,"; the cross-examination ("Did you never want her?"; the killing question the judge rules out).
+- **The witnesses (two of the living names on the leaf; never "the nine"):** an old **dyer** "whose nails were still blue at the roots"
+  (fourth name; a murmillo bled on his good cloak and the lanista overpaid him for it); a fat **seasick merchant** (seventh name; Caesar
+  "with a cloth wound round his throat, to keep his voice for the evening"; the practice sword touched with a finger).
+- **The onion man / the sneezer:** "a little man in a dun cloak", half a loaf and a raw onion in a napkin; the sneeze; bows left and
+  right; "Thank you. And to you. Thank you."; watches Mara go, "very interested".
+- **The basilica attendant** with a staff (walks Mara out, "this was his daily work"); **the water-clock slave**; **the reader of the
+  will** in the next court (loses his place at Valens's name); **an idler** asleep against a pillar who sits up; **two clerks' boys**
+  with dice; **two porters** in leather aprons playing walnuts on the steps' board.
+- **The widow** (offstage; lets the Quirinal house "together with her husband's ancestors"); **the consul's wife's hairdresser**
+  (offstage); **the girl in white** spooning the Vestals' ash; **a custodian in a blue shirt** (1991 memory, whistle).
+- **Marcus's Greek pedagogue** (hand on the boy's shoulder; no line). **Celer's friends** ("eight or ten", laugh on cue).
+- **Mention:** Doris (the dowry's Syrian girl, Ch.17); Vettius and Caninius (the leaf's magistrates, Ch.17); Ovid (Mara's knowledge,
+  the Vestals' line); the cook's freedman at Corinth (Valens's wage comparison; "They never sent for him."); Felix (in Pompeii with the
+  string; booted his stone over the verge at the Herculaneum Gate).
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -3735,6 +3767,13 @@ SYNCED to the FINAL page 2026-10-22 (md5 `23e2aa57…`); quotes checked by grep.
   women's benches at the top, and once in the street, being taken to the baths"; the ball "of painted leather, red and green" ("the
   porter at that house took it in at the gate"); the tooth marks on the bracelet ("He had two teeth at the bottom by midsummer," …); at
   the games "in the second row, in a new tunic, beside his father". He has no voice on the page yet: Ch.22's glimpse is his first.
+- **Ch.22 (FIRST ON THE PAGE; writer draft 2026-10-23):** at the foot of the Basilica steps with a Greek pedagogue, brought down by
+  Celer "this morning"; new tunic with a purple border, hair "wetted and combed flat", "his ears stuck out from it on either side"
+  (never pointed at as Celer's); climbs "a step and then the next, each one counted out for him beforehand by somebody", stops two
+  below his mother. **Taught formula, then the rush:** "Mother, I greet you. I hope that I find you well, and I am to say that I am glad
+  to see you." / "Your hair's different. Does Uncle's dog still bite? The one on the chain? Does it remember me?" Holds the edge of her
+  veil at her elbow. Says nothing about his father. His age is never given as a number on the page (Plautia: "born the autumn after
+  the fire"); "nine" stays Valens's. Last seen being told "Greet him." (response not on the page).
 
 #### MARGARET FENN — August's sister; kept his boxes until her death in 1997 (off-page; Fenn's documents, Ch.2, 26, 35)
 - **Attention / worldview (as rendered):** the person left behind; she told people he was in Mexico.
@@ -4219,6 +4258,14 @@ SYNCED to the FINAL page 2026-10-22 (md5 `23e2aa57…`); quotes checked by grep.
   street."; the left-handed nurse; "I shall know whose house".
 - **Sample line:** "That brooch went to the lamp-seller's wife at the last market day, and I'll have it back by the Kalends for less than she
   paid in compliments." (Calibration only.)
+
+- **Ch.22 (writer draft 2026-10-23, Rome):** sits beside Mara on the court bench and feels the laugh through her thigh; helps walk her out;
+  her second-best cloak under Mara on the steps ("the fuller on this street wants a sestertius to look at a stain … so I'll do it
+  myself and he can whistle"); red Roman shoes bought on the second day, carried barefoot; "Nothing's given," (the Vestals' ash); "He
+  got it cheap, the emperor,"; backstory: given to Plautia at her wedding "a girl of twelve to carry the bride's slippers"; carried
+  Marcus on her hip his first year (the bitten spoon, bought back before the steward counted; her bitten ear); "He knows her. He'll
+  make out that he doesn't, because the nurse will be watching." Wants Plautia's shift back from Mara "before I left Rome" (her
+  buying-back trait, shown once). Tells Mara Plautia "was shaking too" under the veil.
 
 #### PACUVIUS — master of the goose-stern merchantman out of Lechaion for Puteoli; an Italian, father of a newly married daughter, PACUVIA (Ch.18–19)
 - **Attention / worldview:** what will be said about him at the other end. Every rule on his deck is about his daughter's new
@@ -6116,6 +6163,37 @@ line each, so that walk-ons don't all sound like Mara.
     Ch.21's (missing from the string → Valens out at night with the lamp → Felix found at the barracks gate): e.g. word from Nicanor,
     or Felix telling them at supper. The Ch.28 palm "under the seats" is worded fresh: no nail, no doubled-cut stem, no lamp held to
     it, no fingertip in the stroke. Settle before drafting whether Nicanor is the lanista or the lanista's trainer (audit I-07).
+
+- **At-risk after Ch.22 (Writer, 2026-10-23; "The Basilica Julia", Parallel city / court in strict alternation, 7 breaks, Rome,
+  spring AD 74; writer draft, not yet synced to a FINAL page):**
+  - **SPENT (no second use anywhere):** the sneeze and the court's "Salve" chorus, the judge saying it with his eyes shut; **Mara's
+    fifth laugh shape** (the body channel: it starts under the child, goes to the shoulders, the bench shakes, Myrrhine feels it through
+    her thigh, the heels knock on the marble, the small wetting; no mouth, no "behaved"); the attendant who walks her out; the
+    gaming board on the Basilica steps and the 1991 memory (peach, custodian's whistle); the Vestals' ash line for the Parilia; the
+    hired chair's curtains as the way into a city; the widow's ancestors in their cupboards; Plautia's built Flavian hair on its frame;
+    the water clock; the assessor whose uncle was consul (the backdated bill's tell); the onion eater on the bench; the night carts
+    and the wheel that knocks; the child's heel under Valens's hand ("That's a heel."); the lead poured into the amphitheatre's cramps;
+    the heaps of straw and bean stalks for the Parilia; Celer going round a ladder (his superstition, staged once here, differently
+    from Ch.17).
+  - **The onion memory (second surfacing):** in the witness stand, triggered by the man on the bench biting a raw onion: "They grew
+    those," … "Every house. By the autumn you could smell the village before you saw it." Unexplained; the judge: "The court is not
+    buying onions." Ch.23 surfaces it in new words (no village smell, no autumn, no "They grew those").
+  - **Spoken lines SPENT (never reused or called back):** "Gaius Iulius Valens. Freed at Corinth."; "He brought me." / "It is the only
+    answer I have."; "Take it home with you to Campania"; "I am supposed to appear never to have left Rome in my life. Do I?" / "You
+    look taller."; "Does it weigh on her?" / "She doesn't say."; "The court is not buying onions,"; "I watched the street."; "Walking
+    behind a woman in the street, a man watches what's coming at her."; "He paid me what he paid the cook's freedman. Ask the cook.";
+    "The court is asked to take a consul's dates against a steward's,"; "That's a heel," / "It's the shape of one."; "Was it the
+    sneeze?" / "The judge said salve." / "He did."; "That makes it a game."; "Nothing's given,"; "He got it cheap, the emperor,";
+    "You've a carrying voice, Valens. I'd forgotten it." / "You never heard it,"; "It bit a magistrate last summer,"; "Marcus, this is
+    Valens. He used to carry you. Greet him." (the chapter's last line).
+  - **CLOSED by this page:** the leaf is proved (two living witnesses named on it, a dyer and a seasick merchant, plus the consul's
+    dates against the bill); Celer is settled (dowry restored whole with the retained sixth; the boy every market day in Rome and at
+    Corinth when Plautia sends; the Cornelian law dropped); "he chose to come" (shown by result: at the Puteoli wine shop on the
+    Kalends). Fabius's Parilia offer is left unanswered: the sentence falls the day before the Parilia, with Valens in Rome.
+  - **WATCH:** Mara's 1991 student summer (one longer memory now spent; no second Rome-ruin memory); "the far hill"/Esquiline view from
+    a roof; Myrrhine's bare feet and red Roman shoes (one chapter only); Plautia not touching Marcus (Ch.22 only; no repeat as a beat).
+  - **Ch.23 guards:** Valens is sad, not triumphant; the onion is worded fresh; the shift Plautia gave Mara may travel with her but is
+    not a scene button; no recap of the testimony Mara missed beyond what Ch.22 gives ("They asked me the rest." / "What they asked.").
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
