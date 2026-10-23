@@ -776,6 +776,20 @@ loosened toward the life it came from.
   "everything else that had crossed"), "pot mended with a lead staple". The lead staple is SPENT as her mend-notice. **Spent in Ch.25:**
   every line above.
 
+- **Ch.26 as written (Writer draft 2026-10-24; "Letters in English", Collage, Pompeii winter AD 75–76; synced to the writer's page,
+  downstream passes to re-sync):** she reads Fenn's letters ALOUD in English to Aelia (three weeks old at the open) — the Ch.7
+  commitment is broken visibly and once, on terms she states to herself: "Since my first winter in Phocis I had used no English aloud
+  unless somebody was there to hear it. I had settled the question of whether Aelia was somebody on the night the letter came; nobody
+  else was awake to argue." Her English now "left the reed in a hand I barely knew"; she stops over *scissors* and writes *shears*. The
+  refusal is shown only in acts: the tables' cedar box "slid … under the bedstead, deep, into the dust" (no reason given anywhere); she
+  sponges off a half-line that began *It's a machine that* (lampblack and gum lift while fresh) and never explains *voicemail*; she
+  withholds Margaret's name from Valens ("He doesn't put her name." — her own knowledge stays in the satchel). **Memory used (the
+  chapter's one longer memory, grown from Fenn's question and returned into the letter she writes):** Emilio's office voicemail, the
+  Monday after the 1997 Series: "It's me, he had said, I'm in the kitchen in my socks, Florida won it, Florida, in the eleventh, would
+  you believe it, a team that isn't as old as your car, call me when you're home, I'll be around." **Irrelevant thought:** "Marlins." —
+  the dock fish, the boy on the 34 in the blue-green cap with the sticker on the bill. **Body rebels:** her milk lets down reading the
+  rage letter "though she had fed an hour since and wanted nothing". No laugh (all six shapes spent). No word escapes her. Credential
+  asides 1 ("the one mercy of lampblack and gum"). The mountain is not on the page.
 #### VALENS ("Lupus") — muleteer, former murmillo, freedman; b. c. AD 38 in Thrace (Ch.6–44)
 - **Attention / worldview:** footing, exits, weather, and the moods of animals and men, which are one
   skill to him. He reads bodies before faces and asks who saw. His worldview: whoever is close enough
@@ -1564,6 +1578,17 @@ loosened toward the life it came from.
   his post", "took up his place in the door again", "and left it", "facing Valens, who looked back". **Spent in Ch.25:** every line
   above; the broken tread; the basil turned to the light; the horse-gone-lame look.
 
+- **Ch.26 as written (Writer draft 2026-10-24):** maintenance object NEW: splicing an eye into a lead rope a mule chewed "outside
+  Nuceria" (strands unlaid "a palm's length", tucked "with the point of a nail"), finished and coiled by the lamp. **Jealous of a
+  language, shown, never named:** "Who's dead?" / "What side?" / "What was she called?" / "You read it slow."; mind-reading gone wrong in
+  a mundane way — he believes the baby sleeps FOR the English ("She sleeps for that." / "She had it in her ears before she was born. Grata
+  says they come out knowing the voice they heard inside.") when she sleeps because she is full; "gazing at his daughter, who was asleep
+  in a language he did not have." **The English word (ONCE, this chapter only, never a callback in any later chapter):** "Give me a word
+  of it." / "One she knows." — Mara gives him *goodnight*; he says it to the sleeping baby, then at daybreak to Grata over her shutter
+  boards ("Goodnight.") and to the dun, "walking light"; Grata answers it as a greeting. Mara does not correct him. Practical lines at
+  night: "Is he sick?" / "With you?" / "Then use the ones he knows." / "Do you tell him about me?" At the frame: "He'll drop her." / "He's
+  never held anything that kicks."; the bone: "Is it lucky?". He never learns the date, the rules or the place. No comparison in his
+  mouth; nobody remarks on it.
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
   scores. **He sees people last.** His worldview: his real life is the one he is going back to. He has
@@ -1673,6 +1698,31 @@ loosened toward the life it came from.
   at Connie Mack sat next to an empty chair all afternoon and never knew it was me, and that was, what,
   a hundred years ago, two thousand, for crying out loud."
 
+- **Ch.26 letters as written (Writer draft 2026-10-24; his voice is his prose — none of the Ch.25 narrated states appear as
+  narration):** six letters, all signed "A. F.", on papyrus (the first on the reverse of a spoiled horoscope for a Puteoli wine shipper,
+  the rage letter on "a fresh sheet" with a split reed doubling every long stroke), carried by the fish-sauce carter via Grata's.
+  **(1) birth letter (the chapter's opening):** "A girl, holy cow, and the carter swears the kid has a set of lungs on her they can hear
+  at the river."; Aelia's stars in Greek for Grata ("Jupiter sitting square on top of her head"); the stair fixed by a rope-walk man who
+  "charged me like he was putting up the Walt Whitman Bridge"; the ticking line "She'll be near four the summer we go, by my book";
+  "Feed her. Sleep when she sleeps." (his mother's advice to every woman on the block). **(2) first letter, spring 75:** "Mrs. Big
+  Fellow"; he "talked American at the ceiling till the gulls started up" (the automat, the El on Market Street, a homeroom girl who
+  "smelled of oranges"); the tunny-salter's broom handle; "First time in thirty-odd years a man's told me to pipe down while I was
+  talking English." **(3) the 1964 letter (NEW material, the collapse not retold):** Sunday 27 September 1964, the seventh straight loss,
+  with his sister (unnamed): she kept score ("like a bank deposit slip, every little diamond"), Johnny Callison's three home runs, a ring
+  round the third, "we lose fourteen to eight"; she refuses the 23 and they walk Germantown Avenue home in Sunday shoes, she reads the
+  game back under every streetlight "so we nearly won"; the scorecard left on the hall table, "That's where I left her the note, the
+  morning I went. … Home by Labor Day, I put. A line about the milk."; then straight to the bathhouse pool. **(4) autumn letter:** the
+  sheepish clause "Sure, I said it, with my own mouth in my own room, so sue me."; who won the Series in ninety-seven; "I had a
+  birthday. … nobody here knows it but you now. I bought myself a melon." **(5) the rage letter (his ONE rage, never repeated):**
+  "Florida, a ball club named for a fish, fine, I'll live … I got used to Claudius. But what in God's name is a voicemail?" … "Skip it.
+  Don't you dare explain it to me." … "All this time I've been keeping the words. I kept them. I said them over at night so they'd keep.
+  Nobody said they'd go on making new ones without me." — nothing about her father. **(6) with the tables:** "Here's the works, copied
+  fair. Not by me. My hand won't do columns anymore." — copied by the olive-pit boy on the hill, who "thinks I'm teaching him a cipher
+  for spies"; "I'll be a monkey's uncle if it doesn't."; "P.S. I read your letter again. Your old man. I'm sorry." **Idiom pool used
+  (count against the ≤2 cap):** holy cow 1, the whole shebang 1, knock it off 1, I'll be a monkey's uncle 1, kid 1 (noun), okay 2,
+  "figuring" 1 (the one "figure" verb), tickled pink 1, so sue me 1, pipe down 1, by my book 1. Not used: the promise, "breathe with the
+  earth", "one door with many mouths", the mountain's name (never on the page, AUTHOR-CP5-1 as revised), Connie Mack by name (the park
+  is "Twenty-first and Lehigh"). No numbering or listing.
 ---
 
 ## MAJOR SECONDARIES
@@ -2371,6 +2421,11 @@ loosened toward the life it came from.
   well with his mouth agape") + Valens's "Felix sleeps."; stacked-question bursts 3 (rotate the form in Ch.25). CUT (never restore):
   "horn in his hair" (CRIT-006). **Spent in Ch.24:** every line above; the lamp held in his lap at the well; the lentils grievance.
 
+- **Ch.26 (Writer draft 2026-10-24):** "seventeen that winter, or said he was"; a cut in one eyebrow, new since the Kalends, blamed
+  on the dun ("The dun threw her head." — she never has); carries the tables in sacking from the carter "and kept his hand on them
+  after"; two question bursts in new forms (asked "up the wall" at dawn: what the word was, was it a god's name, could he have one too;
+  at the bench: "Is it from the Chaldean? It's heavy for letters, is it money, does he send you money? What's he want back for it?" and
+  the boats round from Surrentum, "Is the sea open, then, or is it only them being stupid?"). No palm scratch (reserved for Ch.28).
 #### PLAUTIA — Celer's divorced wife; b. c. AD 44, married to Celer in the autumn of AD 63 at nineteen; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
   Marcus, b. autumn AD 64: seven in Ch.16, nine in Ch.22; kept by his father under Roman law). She has learned that everything can be taken, so
@@ -2896,6 +2951,13 @@ loosened toward the life it came from.
 
 ---
 
+- **Ch.26 (Writer draft 2026-10-24):** tells, never asks: through the wall at night ("That one's got your temper and his chest. Not a
+  notion of the hour between the three of you…"); at the eighth day, the crescent, and "My man reckons it's a curse, what he sends you.
+  My man would call the moon a curse if it rose on a market day."; reads Aelia's Greek stars aloud to every customer and nails them over
+  her loom next to Lucius's "with a better nail"; her own trouble: a baker's son painted over her Secundus's notice by the baths, "in
+  letters as high as a child"; "You'd best stop eating standing up."; answers Valens's dawn *goodnight* as a greeting ("And to you, and
+  to all your mules…"). No touch used this chapter.
+
 ## THE CHILDREN
 
 #### LUCIUS — son of Mara and Valens; b. summer AD 74 (born on the page Ch.24; in arms Ch.25; speaks Ch.27–29, 32, 34, 37–44; age 5 at the eruption)
@@ -2942,6 +3004,16 @@ loosened toward the life it came from.
   restore):** "glared at the gulls", "cross about it", "weighed the taste", and the draft quote "with the deep offense he kept for
   anything that moved without asking him first". **Spent:** every image here.
 
+- **Ch.26 (about eighteen months; no words; Writer draft 2026-10-24):** sleeps "folded up with his knees under him and his rump in the
+  air"; stands at the bedside "chin on the blanket" testing whether the baby's eye shuts at a touch; given the Corycian KNUCKLEBONE by
+  Mara (out of the satchel for the first time since Ch.3) — mouths it, rolls it, fetches it; learns to roll it off his palm on its flat
+  side; chases it under the bed and backs out "with the bone in his fist and dust in his eyebrows and a long gray thread of cobweb hanging
+  off his chin" (the box is not mentioned). Climbs the stair on his hands, comes down backward on his belly (told). Tests the cedar box's
+  sliding lid with his thumbnail. **THE NAMED FRAME (shot):** set on the bed's end in a slab of sun, Aelia across his lap, Valens's hands
+  fitted under hers then drawn "barely clear"; told "Hold her … Don't move." he stops breathing unasked, goes dark in the face, does not
+  move when she takes hold of his lower lip and his eyes run over; breathes out "in one gust that lifted her hair"; after "You can move
+  now." he "sat on in the sun with his lip in her fist, holding her very carefully, until his father lifted her away." No lent adult
+  moods.
 #### AELIA — daughter of Mara and Valens; b. winter AD 75–76 (newborn Ch.26; babbling Ch.29; Ch.30, 34, 38–44; 3½ at the eruption)
 - **Attention / worldview:** the world's textures and tastes. She is greedy for everything and finds
   delight where adults find danger (sand, must, floating stones, falling pumice).
@@ -2965,6 +3037,13 @@ loosened toward the life it came from.
 - **DISTINCTNESS GUARANTEE:** the child who grabs and exclaims, against Lucius, who watches and asks.
 - **Sample line (3½):** "Hot! The bread's hot, feel, Mama, feel it."
 
+- **Ch.26 as written (newborn, three weeks at the open to about ten weeks; Writer draft 2026-10-24; birth off the page):** feeds
+  "with the whole of herself" (fists, feet, the tops of her ears moving), chokes and roars and latches again "with the roar still in
+  her"; a thatch of black hair that will not lie flat; born with fingernails, a scratch down her own nose; goes "suddenly heavy" when fed;
+  roars at Grata's knocking until the bakers laugh; at eight days Grata hangs a bronze crescent on a red thread and she has thread and
+  crescent in her mouth; grabs hair, beard, blanket, the strainer; fist knotted in Mara's neckline; asleep at the breast with "a bead of
+  milk standing at the corner"; at the frame she takes hold of Lucius's lower lip. No adult moods lent (no objected/grievance/
+  suspicion/studied/regarded). None of Ch.24's birth machinery is used.
 ---
 
 ## THE 1998 FRAME
@@ -4231,6 +4310,19 @@ FINAL page md5 `472a9dec…`, synced 2026-10-23 (quotes checked by grep; CUT str
 - **Grata's husband:** referenced only: "her husband had recommended it in the summer" and "Her husband's few words about a language no
   one had heard before". No "gibberish", no "all of them" (Ch.24 guards held).
 - **CUT (never restore):** "the rich men's boys who throw figs"; Pat "standing in her own hose's spray".
+
+#### Ch.26 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+Writer draft 2026-10-24 (downstream passes to re-sync).
+- **The fish-sauce carter** (functional, may recur as the letters' carrier): hauls jars of fish sauce down from Puteoli, takes his wine
+  at Grata's; wants "a new hood, the rate he keeps me wet"; "Last time he paid me in my wife's stars instead of the copper, and she's had
+  nothing but luck since, and not a crumb of it's come my way." Worldview: everybody's luck lands one house over. No habit assigned.
+- **The bakers opposite** (sound only): fire their oven at night; laugh at Aelia's roar.
+- **Mention (Fenn's letters):** the rope-walk man who fixed the stair; the tunny-salter downstairs with the broom handle; a homeroom girl
+  who "smelled of oranges"; Fenn's mother; his sister (UNNAMED); the fellow in the next seat at Twenty-first and Lehigh; the bathhouse
+  man; the olive-pit boy on the hill who copied the tables, and his father.
+- **Mention (Mara):** a boy on the 34 in a Marlins cap (1997); Emilio on the voicemail.
+- **Mention (Grata):** "My man" (her husband); a baker's son (the rival candidate's name on her Secundus's wall); the inn at the
+  crossroads (the strainer's owner).
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -7160,6 +7252,16 @@ line each, so that walk-ons don't all sound like Mara.
       and not asking"; "weighed the taste"; '"The Pythia." He left'; '"Mules." He weighed'; "I figure it owes me sixty-eight"; "You'd
       find out anyhow".
 
+- **At-risk after Ch.26 (Writer draft 2026-10-24, before downstream passes):** SPENT: the English word given to Valens (*goodnight*,
+  once, never called back in any form); Fenn's rage (the one rage); the voicemail and its sponged half-line; the birthday melon;
+  Callison's three home runs, the scorecard, the walk up Germantown Avenue, the hall-table note ("Home by Labor Day … A line about the
+  milk."); the tables in the cedar box under the bedstead (Ch.35/36 bring them out; never explain why they went there); the named frame
+  (Lucius holding Aelia; his lip in her fist); the knucklebone's first hand-off to Lucius (rolled off the palm on its flat side —
+  Ch.27's Cumae roll finds new words); "Sleep when she sleeps."; "a language he did not have". WATCH: "the bed's foot"/"bed's end" (2);
+  Grata's "My man" (2 in one speech). Ch.27 guards: Fenn's invitation to Cumae is NOT in any Ch.26 letter; the Zippo frame is Ch.27's;
+  the automat's lemon meringue needs a non-coin trigger; hook for Ch.27 must not be VOICE (Ch.26's), its pull must not be the quiet
+  image form.
+
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
   used as a scene button.
@@ -7985,3 +8087,4 @@ finalizing the chapter. Never add a tic to fix it.
   14+; the promise at 1 of 3; no spent Fenn narrated state as narration; Aelia's birth reuses none of Ch.24's machinery and borrows no
   adult moods). Every quote placed on a card checked by grep against the final chapter-25.md; every CUT string checked off it. Not
   touched: the manuscript, STATE.yaml, ENTITY_STATE.yaml, outline.md. No catchphrase or tic assigned; tic-bearer roster still NONE.
+- **2026-10-24 (writer, Ch.26 draft):** MARA, VALENS, FENN (six letters; idiom counts), LUCIUS (the knucklebone; the named frame), AELIA (first page), FELIX, GRATA cards extended; Ch.26 walk-on block (the fish-sauce carter, functional, no habit) and At-risk after Ch.26 added. No catchphrase or tic assigned; tic-bearer roster still NONE. Downstream passes re-sync quotes to the final page.
