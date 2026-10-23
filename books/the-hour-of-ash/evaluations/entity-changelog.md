@@ -3163,3 +3163,44 @@ Open contradictions: 33 → 37.
   - Every ch-22 cite falls in p1..p210. Every quoted Ch.22 fragment added in this run was checked by script against its cited paragraphs, and four inexact quotes and six cites were corrected.
   - The file holds 351 characters, 106 locations, 158 objects, 20 organizations, 68 plot threads, 117 world rules, 226 timeline_events and 160 contradiction rows.
   - **56 open** (51 before; +5 CH22-1..CH22-5; none closed).
+
+## 2026-10-23: RE-SYNC (chapter 22, "The Basilica Julia", FINAL page)
+
+- **Page read:** chapter-22.md at 2bbc3ee: the continuity repair a0ec3a1 (C-01..C-04, W-01..W-14 with the orchestrator's no-Sinuessa override on W-01, I-11/I-13/I-16), evaluator fix sets cd36062 (cycle 0), 2a832ed (cycle 1), e86ad92 (cycle 2, Q1) and the header refresh 2bbc3ee (cycle 3 PASS). md5 868fb363fdb21eaa1787e94987c16449.
+- **Numbering:** still 210 paragraphs, with breaks after p35, p67, p86, p119, p139, p157 and p188. A paragraph-level diff against the f0111b2 page shows only 1:1 replacements, so the line formulas hold and **no cite was renumbered**. Text changed inside 50 paragraphs; they are listed in `paragraph_rule`.
+- **Checks:** every quoted Ch.22 fragment in the YAML was checked by script against the final page and its cited paragraphs. 37 fragments were no longer on the page; each is rewritten to the page or marked CUT with the post-disruptor wording kept for the trail. Unquoted paraphrases of cut lines were found by keyword and fixed too. Two older cite gaps were fixed: Celer's "this morning" is p200, and "my young friend" is p190.
+- **Facts carried from the page:**
+  - Timeline: "and we had a month in it before the court sat." (p7). The roof's "Tomorrow" is now "When the judge sits" (p26) and "On the day" (p35). Derived: they arrive in Rome in March (the road is not timed), then a month in the widow's house, hearing days about 16-18 April, sentence 20 April. Timeline row 22 and timeline_events are updated (`date_was` kept), with a new told row for the month in the house.
+  - Mara: "Somewhere in all that I sweated through my shift" (p117, C-02); "a wet shift" on the steps stays. The pregnancy row now dates "Five. Nearly six." to the March arrival, about five months, which is compatible.
+  - Myrrhine: "I had my arm round you and my hand on her. I felt it." (p126, C-03). "He's good at waiting, that one." is cut. The spoon and "He bit everything" are cut (p185, W-04); "He bit my ear and hung on" stays. The shoes at her wrist and "She stood, holding her shoes." are cut, so `myrrhines-red-shoes` is last mentioned at p139.
+  - Court: "two coached house slaves" (p42, C-04); "and I stood while his clerk wrote." (p103); "for his turn," (p62, W-14); "the law gives him" (p190); "the seals pressed over the cord in a row" (p45). The judge's eyelid lines and "without opening his eyes for it" are cut (F1). "with closed eyes" (p37) and "eyes still closed" (p114) stay, and "the judge sat forward" (p61) is new.
+  - Valens: "He pitched it as he would hail the string in a crosswind" (p92); "Who was on the roofs, and where the dogs were." (p148, W-05); "his gaze at the aisle's end" (p152). The door and pier stances are cut (W-08).
+  - Celer: "'Valens,' he said, and crossed to us." Neither the hand nor the toga fold is on the page now (C-01). "Celer's bench included" (p65, W-11). "stepped down two steps and along … to the brother" (p199, W-02/W-12).
+  - Marcus: "His toga had a purple border … his ears poked out on either side" (p205, W-03/I-16).
+  - Plautia: "In two years he never told me" (p30, W-06). The shift is "fine Egyptian linen" (p171, I-13). The object slug `plautias-coan-shift` is kept, with `slug_note` and `description_was`.
+  - Places: "the second hill over" (p22); "calf's ash, a horse's dried blood and bean stalks" (p136, I-11); "the beginning of the amphitheatre, not a third built" (p176); "The emperor's building it out of Judaea." (p182, Q1; "Who pays for all that?" is retired); the brother's purse "counted out for two, and then for one again" (p19, W-13); "at their walnuts again" (p208).
+  - Cut and NOT logged as used: the amphitheatre hiccups, and the repair's "the child stretched in me from one hip to the other", which evaluator F9 cut (p178). The S3 lying-awake close (p86) is also cut.
+- **Audit patches (SUGGESTED YAML PATCHES):**
+  - Applied where the page carries them:
+    - Timeline (W-01, as amended by the override).
+    - Pregnancy row.
+    - Laugh channel: the sweat, recorded in the mundane-break trait. There is no `body_channels` field in the schema, so none was made.
+    - Basilica seating: a new basilica-julia fact from p38.
+    - Marcus's toga.
+    - Fabius: a `resync_note` on `fabius-exhibition-offer` records the refusal in Ch.21. Valens in Rome is recorded for 20 April only, because the page does not place him on the 21st.
+  - Already present: the Celer ch22 facts, young-assessors-uncle (unnamed), Celer's foot knowledge for Valens and Mara (p167), and the walk-ons. The ladder slave stays a basilica-julia fact, not a character.
+- **Flags:**
+  - **CLOSED:** CH22-2, RESOLVED. The month in the house accounts for the weeks between the Kalends at Puteoli and the hearing.
+  - **Rechecked, still open:**
+    - CH22-1 (info): new note that the amphitheatre beat no longer thinks of the child.
+    - CH22-3 (info): p31, p41 and p184 are unchanged word for word.
+    - CH22-4 (info): the clerk's wording and "coached" updated.
+    - CH22-5 (low): the bible has no working-tree change and its Ch.22 blocks are still the writer draft. The lag has grown: "for his two months", "the small wetting", "his ears stuck out from it", "the bitten spoon". It clears when the parallel bible sync to this page is committed.
+  - Elsewhere: the CH18-5 and CH21-2 recheck notes are updated (the hiccups are cut; the clerk's wording).
+  - **NEW:** none. **CRITICAL:** none. **knowledge_gap:** none.
+- **meta:** updated the header note, `last_updated_by`, `mode`, `source` and `paragraph_rule` (Ch.22 clause). Added a `revalidation_needed` chapter-22 row (RESOLVED) and a `ch22_requested_checks` re-sync row; earlier check rows are annotated with RE-SYNC notes.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass. All ch-22 cites fall in p1..p210.
+  - The file holds 351 characters, 106 locations, 158 objects, 20 organizations, 68 plot threads, 117 world rules, 227 timeline_events and 160 contradiction rows.
+  - **55 open** (56 before; −1 CH22-2; none opened).
