@@ -3204,3 +3204,56 @@ Open contradictions: 33 → 37.
   - `yaml.safe_load` and a strict no-duplicate-key loader both pass. All ch-22 cites fall in p1..p210.
   - The file holds 351 characters, 106 locations, 158 objects, 20 organizations, 68 plot threads, 117 world rules, 227 timeline_events and 160 contradiction rows.
   - **55 open** (56 before; −1 CH22-2; none opened).
+
+## 2026-10-23: UPDATE (chapter 23, "An Inn on the Appian Way", post-disruptor page)
+
+- **Page read:** chapter-23.md at 5948326 (writer 4dcddea, dialogue-polish aa0a7de, hook-craft 48d7211 with no edits, book-disruptor 5948326). md5 be315dc240d5ac16b71108b92bd47975.
+- **Numbering:** 157 paragraphs and no breaks. The title, the dateline heading and the two HTML comment lines are not counted, so file line = 2p+6.
+- **Not recorded:** lines the writer's report quotes that the polish and disruptor passes cut ("the size of a wine jar", the five-years paragraph, "These days I was always hungry."). The page has "I was hungry the way I was always hungry now, which was all the time" (p58).
+- **NEW characters:**
+  - `acca`: the landlady, named once by a shout (p46). She has a man's cloak, a dialect, the brown hen ("Fox. Had the other six." / "She sleeps on me."), no pennyroyal left, and has been to Fundi once for a wedding.
+  - `appian-inn-barge-man`: heard through the floor with three mules. Valens says the gray is lame "Off hind". What he is to Acca is not stated.
+  - `capuan-carriage-driver`: has a single eyebrow and sings to the frogs. His off-side mule is going short on the near fore.
+  - `appian-inn-carters`: two of them, carrying roof tiles for Tarracina. They tell the story of the mule with a cough and say "He'll have you over at Fundi."
+  - `valens-mother`: mentioned only, unnamed.
+  - `horace`: mentioned only.
+- **NEW locations:** `marsh-road` (the canal, the towpath, the halfway post, the flood "a hand deep, for two hundred paces"), `forum-appii`, `tarracina`, `fundi`, `sinuessa`.
+- **NEW objects:**
+  - `horse-blanket-appian-inn`: cavalry girth band, washed at the Kalends. Opened at p1 and closed in the chapter by the fleas at p157.
+  - `appian-inn-strung-bed`, `appian-inn-drip-bowl`, and `brothers-hired-carriage` ("as far as Capua").
+- **NEW knowledge_index row:** `valens_onion_memory` (Ch.12, Ch.22, Ch.23).
+- **Plan rows replaced by the page (plan_was kept):**
+  - Mara's and Valens's Ch.23 location rows.
+  - `appian-way-inn`'s plan fact.
+  - Timeline row 23.
+  - Valens's flogged-back row: `outline:ch-23` becomes ch-23:p111, the first time the back is seen on the page.
+- **Updates:**
+  - Mara: `pregnancy_1_ch23`, `marks_ch23` (flea bites), traits (Horace at nineteen; "Down. Home."; "I missed it"; HEAT 2; the door side), knowledge (+8), `knowledge_absent_ch23`, a Ch.23 waypoint.
+  - Valens: `seen_ch23`, traits (+9: the five words; the onion with his mother; reading animals; guard habits; the door-side reversal; the bowl; HEAT 2; the kick; the laugh by a breath), knowledge (+5), `knowledge_absent_ch23`, a Ch.23 waypoint.
+  - Other characters: Grata (the winter advice, "until the eighth month"), Plautia's brother (the carriage to Capua), the brother's freedman (walks behind to the city gate with the chair's price) and `lucius.ch23_note`.
+  - Places: `capua`, `capena-gate` (the gate is not named in Ch.23) and `pompeii` ("Down. Home.").
+  - Timeline: 7 new `timeline_events`.
+  - Threads: `romance.ch23_beat` (HEAT 2 of 3 spent), `valens-known` aftermath WRITTEN, `conception-and-lucius.ch23_note`.
+  - `knowledge_index.pregnancy_lucius`: +2 rows.
+- **Requested checks:** recorded in `meta.ch23_requested_checks`.
+  - Dates: the day is not on the page. The inn night falls after the 20 April sentence, with Forum Appii behind them that morning, so it is no earlier than about 22 April AD 74 (derived).
+  - The onion memory agrees with Ch.12 (strings under the eaves) and Ch.22 (every house). It adds his mother and an unexplained "us", so it stays unexplained.
+  - A remembered mother agrees with "Thracian-born, taken as a boy".
+  - The door-side reversal is set against ch-22:p111 and ch-14:p9.
+  - The child is "it" in every mouth (AUTHOR-CP4-1 holds).
+- **Flags:**
+  - **NEW:**
+    - CH23-1 (info): the outline's "the truth cost five years" is not on the page. The five words, the unexplained onion and the fade are.
+    - CH23-2 (info): "You heard it at Kirrha. At the stream." The Ch.12 telling was at the pool above the ford on the Kirrha road.
+    - CH23-3 (info): "At six months" in late April against Ch.22's "Five. Nearly six." in mid-March. Compatible as a round count; the birth still falls in summer AD 74.
+    - CH23-4 (low): "the most of a laugh you got" against his laughs on the page in Ch.6, Ch.15 and Ch.16.
+  - **Rechecked, still open:** CH12-9 (the third onion surfacing agrees) and CH18-5 (the child is ungendered and its status is not raised).
+  - **CLOSED:** none. **CRITICAL:** none. **knowledge_gap:** none.
+- **meta:** header note, `last_updated_by`, `mode`, `source` (Ch.1-23; the outline now covers Ch.24-44), `last_updated_chapter: 23`, `chapters_tracked` +23, `paragraph_rule` (Ch.23 clause), `ch23_requested_checks`.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - All 375 ch-23 cites fall in p1..p157.
+  - Every quoted Ch.23 fragment was checked by script against its cited paragraphs. Three cites were corrected. The fragments left unmatched are plan or dateline quotes and are labelled as such.
+  - The file holds 357 characters, 111 locations, 162 objects, 20 organizations, 68 plot threads, 117 world rules, 234 timeline_events and 164 contradiction rows.
+  - **58 open** (54 before; +4 CH23-1..CH23-4; none closed).
