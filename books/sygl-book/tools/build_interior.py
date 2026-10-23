@@ -235,6 +235,9 @@ def story_for(chapters, pad):
     if CFG.get("bio"):
         s += [PageBreak(), Spacer(1, 1.55 * inch), Paragraph(spaced("About the Author"), about_h),
               Paragraph(CFG["bio"], body_first)]   # bio is inline HTML (EPUB + reportlab)
+    # IngramSpark prints its barcode on the LAST page, which must be blank; otherwise it adds
+    # two blank pages itself (and the jacket's spine then disagrees with the page count).
+    s += [PageBreak(), Blank()]
     if pad:
         s += [PageBreak(), Blank()]
     return s
@@ -287,7 +290,7 @@ def main():
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
 
     d1 = build(chapters)
-    pad = d1.page % 2 == 1
+    pad = d1.page % 2 == 1      # page count must be even; the last page is always a blank
     deco = dict(openers=d1.openers, blanks=d1.blanks | ({d1.page + 1} if pad else set()),
                 backm=d1.backm, body_start=d1.body_start)
     d2 = build(chapters, pad=pad, deco=deco)
