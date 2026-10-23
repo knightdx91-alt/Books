@@ -27,7 +27,7 @@ It had been built up over her forehead in the Roman fashion, a high front of tig
 
 "Five. Nearly six."
 
-"I asked my brother to bring you. I never asked him to rattle you the whole length of the Appian Way in that condition."
+"I asked my brother to bring you. Shaking you up the Appian Way in that condition was his own idea."
 
 "The carriage was very good. It was the chair that rocked."
 
@@ -49,13 +49,13 @@ He had dropped our bag by the doorpost and stood with the street in view past th
 
 In the evening the men dined with our advocate, and Plautia and I climbed a ladder onto a corner of the roof where the widow kept rosemary in pots, a row of them along the parapet in good red ware with a stamped rim, one of which had been mended across the belly with lead staples by somebody who knew what he was doing. From there, over the near roofs and the smoke of the valley between, the next hill along lay dark already, pricked by a few lamps.
 
-"That is a good pot," I said. "Someone cared enough to mend it."
+"That is a good pot," I said. "Whoever stapled it was better at his trade than whoever threw it."
 
 "Take it. Take it home with you to Campania; you have more use for a pot than I do." She had her hand on its rim before she remembered. "It belongs to the widow."
 
 "So it does."
 
-She left her hand on the rim a while, then took it away and put both hands under her cloak. "Tomorrow my brother's advocate will read my dowry out to the court piece by piece, as though I were the hold of a ship, and my former husband's advocate will say that the sixth part he kept back from it was the price of my character, which the law allows him, and nobody will ask me a single thing, because I am the one person in the whole matter whom nobody needs to hear. What will they ask him?"
+She left her hand on the rim a while, then took it away and put both hands under her cloak. "Tomorrow my brother's advocate will read my dowry out to the court piece by piece, as though I were the hold of a ship, and the advocate across the aisle will say that the sixth part he kept back from it was the price of my character, which the law allows him, and nobody will ask me a single thing, because I am the one person in the whole matter whom nobody needs to hear. What will they ask him?"
 
 "His name."
 
@@ -63,9 +63,9 @@ She left her hand on the rim a while, then took it away and put both hands under
 
 "And he will say what happened."
 
-"He has no other way of speaking. In two years behind my chair he never told me a thing was better than it was, not the weather, not my cook, not my husband's temper. Of everything about him, that alone ever frightened me."
+"He has no other way of speaking. In two years behind my chair he never told me a thing was well when it was not, not the weather, not my cook, not my husband's temper. Of everything about him, that alone ever frightened me."
 
-She turned to the far hill. "The Esquiline. My former husband has taken a house over there for the year, because a candidate for the praetorship must be seen to dine in Rome. My son is in it with his nurse. He was born the autumn after the fire, when half this city was still black, and his father's mother had him wrapped in a shawl that smelled of smoke for a month, because nothing in her house would wash clean." She did not point. "I have stood here every evening for eleven days. Did he come because you asked him to?"
+She turned to the far hill. "The Esquiline. My son is over there with his nurse, in a house his father has taken for the year, because a candidate for the praetorship must be seen to dine in Rome. He was born the autumn after the fire, when half this city was still black, and his father's mother had him wrapped in a shawl that smelled of smoke for a month, because nothing in her house would wash clean." She did not point. "I have stood here every evening for eleven days. Did he come because you asked him to?"
 
 "He brought me."
 
@@ -89,13 +89,13 @@ Celer came in late with eight or ten friends about him, all talking. He was brow
 
 Our advocate, when he rose, was a short, square man with a hoarse voice and no gestures at all, and he read the dowry out in it like a cargo: so much in coin and so much in land, a Syrian girl named Doris, earrings, a lampstand on lion's paws.
 
-"At the divorce," he said, "the defendant gave back the whole of it but a sixth part, which he kept, as the law lets a husband keep it, for his wife's misconduct. For misconduct proved by two house slaves who were told where to stand, and by the defendant's word, which he gave very sorrowfully, and by nothing else. There was one other person in the house who knew what was true. He is here. The court will hear him tomorrow."
+"At the divorce," he said, "the defendant gave back all of that but a sixth, which he kept for misconduct. Misconduct proved by two house slaves who were told where to stand, and by the defendant's word, which he gave very sorrowfully, and by nothing else. One other person under that roof knew what was true. He is here. The court can hear him tomorrow."
 
 The jar filled. Celer's advocate rose.
 
 He was young, with a beautiful voice, and he kept his left hand inside the fold of his toga and spent the right one on the air.
 
-"The court will not hear that man tomorrow," he said, "nor on any day, because that man is not a witness. He is an article of property. He belongs to my client, who bought him from the Corinth lanista a month before Caesar's games and paid for him in silver, as this shows." He raised the bill, two boards bound with cord, with the seals hanging from the cord in a row like fruit. "And in no court of this city is a slave heard against his master. If the lanista afterward, on a great day, with Caesar watching and the crowd on its feet, made a show of freeing a man he had already sold, that was the lanista's mistake. If a magistrate's clerk put it in his book, he copied the mistake into wax. A mistake is not made true by being copied out fair."
+"The court will not hear that man tomorrow," he said, "nor on any day. He is my client's property, bought off the lanista at Corinth a full month ahead of Caesar's games, and paid for in silver." He raised the bill, two boards bound with cord, with the seals hanging from the cord in a row like fruit. "I need not remind this court that a slave is not heard against his master. If the lanista afterward, with Caesar watching and the crowd on its feet, chose to free a man he had already sold, the show was the lanista's, and the clerk only copied it into his wax. Written fair, a mistake is still a mistake."
 
 "Then the court should see the copy," said our advocate, and handed up the leaf.
 
@@ -103,7 +103,7 @@ At that distance its color told me which it was, for the wax had darkened since 
 
 "There is no seal on this." Celer's advocate turned it over when it had been passed to him in its turn. "It has been cut from a book, with a knife. Will my friend tell the court where he had it?"
 
-"Gladly, when his client tells the court what has become of the rest of the book." Our advocate kept his voice exactly where it was. "These are boards five and six of the first book of Vettius and Caninius, magistrates of the colony in Caesar's Greek year, and on it are the day, the lanista, the man he freed and the witnesses who stood by and saw it done; it has no seal because the seals of that book are on its knot, where they belong, and the knot is with the book, wherever that may be."
+"Gladly, when his client tells the court what has become of the rest of the book." Our advocate kept his voice exactly where it was. "It is the first book of Vettius and Caninius, in Caesar's Greek year. The seals are on its knot, and the knot is wherever the book is. The leaf has the day, the lanista, the man freed, and the names of everyone who stood by and watched."
 
 Celer laughed. It was a warm, easy laugh, and two of his friends laughed with him before they saw that nobody else had.
 
@@ -125,11 +125,11 @@ The second was a fat merchant who had been seasick, he told the court, from Lech
 
 Celer's advocate let both of them go without a question.
 
-"My client does not doubt for a moment that these honest men stood where they say they stood, on a hot afternoon far from this city, and watched a clerk write something down," he said to the judge. "He doubts only that a lanista can give away what he has already sold. Whose man was freed that day is the whole question, and my client's bill answers it."
+"Nobody doubts that these honest men sat in the shade at Corinth and watched a clerk write," he said to the judge. "Neither of them can say whose man was written down. My client's bill can."
 
 The youngest of the judge's three friends had the bill on his knees. He was turning the first board toward the light from the arcade, and then he leaned up to the judge's chair and said something, and the judge's eyes opened again.
 
-"My friend tells me his uncle was consul that year, for his two months," said the judge. "He says your bill makes his uncle consul in a month when his uncle was still at his villa at Tibur, complaining of the fellow who had the office."
+"My friend's uncle was consul that year, for his two months," said the judge. "Your bill makes him consul in a month he spent at his villa at Tibur, complaining of the fellow who had the office."
 
 "A steward's slip of the stylus," the young advocate said.
 
@@ -185,7 +185,9 @@ He was silent until I thought he slept. A second cart went by with a bad wheel, 
 
 On the bench opposite ours a little man in a dun cloak had brought his dinner in a napkin, half a loaf and a raw onion the size of a fist. He peeled the onion with his thumbnail while our advocate was getting up and began to eat it in bites, and whenever the curtain beside him stirred, the smell reached us.
 
-Celer's advocate objected again that the man about to be heard was the defendant's property. The judge, from behind his eyelids, allowed that he would hear him first and decide afterward what he was worth.
+Celer's advocate objected again. "The court will remember whose property it is about to hear."
+
+"I'll hear him first," the judge said, from behind his eyelids, "and decide afterward what he's worth."
 
 Valens went to the end of the platform in a tunic of the brother's, fresh from the fuller and tight across his back. He looked over the judge's head and ours, over the women's places and the men standing behind them, and past them down the aisle to the last pier, where the idlers leaned, in from the glare, and he said it to them.
 
@@ -221,15 +223,15 @@ Valens waited for the next question. Our advocate supplied it, and the next, and
 
 "And afterward, who paid you?"
 
-"I needed work. The legate's steward paid me. On the Kalends, in silver, with my keep and a cloak for the winter, to walk behind the lady wherever she went."
+"The legate's steward. On the Kalends, in silver, with my keep and a cloak for the winter, to go where the lady went, a pace back."
 
 "In silver," our advocate repeated, to the judge's closed eyes. "To his own slave." Then, to Valens: "Tell the judge about the night."
 
-"It was summer. The year everybody was emperor." He kept his eyes off Plautia, and she kept hers off him; she had the whole fringe of her veil wound round her fingers now. "The steward came for me two hours after dark and said the master wanted me in the atrium. Every lamp in the atrium was lit, more than for guests. The lady was there by the household gods, in what she slept in, with a cloak somebody had put round her. The master had two of the house slaves standing at the pool. He asked them what they'd seen, and they said they'd seen me in her bed. Her hairdresser said it first, a girl, and cried all through it. The stable boy said it after her. They'd been shown their places; it showed. The master said he was sorry. He said it to me, and to the lady, and he said it to the gods in the cupboard."
+"It was summer. Vitellius had Rome." He kept his eyes off Plautia, and she kept hers off him; she had the whole fringe of her veil wound round her fingers now. "The steward came for me two hours after dark and said the master wanted me in the atrium. Every lamp in the atrium was lit, more than for guests. The lady was there by the household gods, in what she slept in, with a cloak somebody had put round her. The master had two of the house slaves standing at the pool. He asked them what they'd seen, and they said they'd seen me in her bed. Her hairdresser said it first. She was a girl, and she wept while she said it. The stable boy said it after her, to the steward. The master said he was sorry. He said it to me, and to the lady, and he said it to the gods in the cupboard."
 
 "Were you ever in her bed?"
 
-"I was never inside her door. I slept across the outside of it, on the tiles, with my back against the wood. If she'd wanted out in the night she'd have had to step over me."
+"I was never inside her door. I lay outside it, on the tiles, with my back against the wood. If she'd wanted out in the night she'd have had to step over me."
 
 The man with the onion sneezed.
 
@@ -295,13 +297,13 @@ The stair to the gallery climbed inside the Basilica's far end, steep and worn. 
 
 Our judge's head shone bald under me, and the slave at the clock had changed his jar. Valens had not moved from his place. Celer's advocate stood in front of him, with his free hand open.
 
-"Two years behind the lady," the advocate was saying, "in the street behind her litter, at the door of her bath, on the floor outside her room at night, so you tell us, with only a door between: a man young and strong, unmarried, used to taking what the crowd threw him, and she not thirty and, by every account but my client's, unhappy. Did you never want her?"
+"Two years behind the lady," the advocate was saying, "in the street behind her litter, at the door of her bath, on the floor outside her room at night, so you tell us, with one door between you: a man young and strong, unmarried, used to taking what the crowd threw him, and she not thirty and, by every account but my client's, unhappy. Did you never want her?"
 
 "I watched the street."
 
 "The street."
 
-"Who was in it. Who was on the roofs, and in the doorways. Where the dogs were." Valens considered him. "Walking behind a woman in the street, a man watches what's coming at her."
+"Who was in it. Who was on the roofs, and in the doorways. Where the dogs were."
 
 "And the steward paid you, you say. Masters give slaves an allowance; that is not wages."
 
@@ -313,7 +315,7 @@ Valens let the question go by. He stood with his arms hanging and his gaze at th
 
 "That's not in the matter," said the judge. "Go on."
 
-"I put it to the court, as the matter," said Celer's advocate, "that it is asked to take the word of such a man against the word of a senator of Rome."
+"As the court pleases," said Celer's advocate. "The court has heard the question. It knows my client's family, and it can see the witness."
 
 Our advocate stayed on his bench. "The court is asked to take a consul's dates against a steward's," he said hoarsely.
 
@@ -341,7 +343,7 @@ He settled on the bed's foot and thought about it. "He did."
 
 "Was Celer watching you?"
 
-"All through. His feet never moved." He unlaced the other boot and set the pair under the bed with the toes outward, ready, the way he always set them. "At Corinth, when he was kept waiting for his dinner, his right foot used to go on the floor under the table, treading grapes."
+"All through. His feet never moved." He unlaced the other boot and set the pair under the bed with the toes outward, ready, the way he always set them. "At Corinth, when he was kept waiting for his dinner, his right foot used to go on the floor under the table until the dish came."
 
 He slept on his back before the lamp had burned down a finger's width. Later Plautia scratched at the curtain and came in without waiting to be asked, with her built hair taken down for the night and plaited loose over one shoulder, which made her look younger and less sure of her hands. She carried something folded.
 
@@ -353,7 +355,7 @@ He slept on his back before the lamp had burned down a finger's width. Later Pla
 
 "No."
 
-"Nor was I. I had my eyes on my hands." She considered them now, in the lamplight. "Myrrhine says that I shook. I have not laughed in sight of my former husband's friends in five years, and I had no intention of beginning on the bench of a court. What I did, I cannot say. I would be grateful if nobody told me." She went out as she had come, without a good night.
+"Nor was I. I had my eyes on my hands." She considered them now, in the lamplight. "Myrrhine says that I shook. I have not laughed where any friend of that house could see me in five years, and I had no intention of beginning on the bench of a court. What I did, I cannot say. I would be grateful if nobody told me." She went out as she had come, without a good night.
 
 In the morning Myrrhine looked at the shift on me and said she would have it back off me before I left Rome, and wash it first, and that I was not to grow any bigger in it in the meantime. The shift was too long for me and I wore it anyway.
 
@@ -403,7 +405,7 @@ Her brother faced Valens, now standing beside the bench.
 
 "He can walk beside you and carry the chair's price, in case you change your mind at the first hill."
 
-Celer came across the aisle to shake our advocate's hand, and the brother's, and to say that he thought the judge had been perfectly right, that he would have found the same himself and had said so to his own man at breakfast. Then he went out first, still talking, and waited for us outside in the sun.
+Celer came across the aisle to shake our advocate's hand, and the brother's. "Perfectly right, of course. I'd have found the same myself; I said so to my man at breakfast, and he'll swear I did." Then he went out first, still talking, and waited for us outside in the sun.
 
 A slave stood on a ladder against the nearest pier there, tying a swag of greenery under the cornice for tomorrow. Celer stepped down two steps into the sun and along, round the foot of the ladder, and climbed back beyond it without once losing the thread of what he was saying to the brother's advocate.
 
@@ -415,7 +417,7 @@ Celer kept Valens for last. "You've a carrying voice, Valens. I'd forgotten it."
 
 "You never heard it," said Valens.
 
-Celer laughed, delighted, as if Valens had given him something. "And Mara. I hear there's to be a child; my congratulations, truly. They grow so fast. You look round, and there's a boy at the bottom of the steps in a new tunic, wanting his dinner." He descended to his litter, and his friends went with him.
+Celer laughed, delighted, as if Valens had given him something. "And Mara. I hear there's to be a child; my congratulations, truly. They grow so fast. You look round, and there's a boy at the bottom of the steps who wants his dinner." He descended to his litter, and his friends went with him.
 
 The boy waited where the steps met the street, with a Greek pedagogue's hand on his shoulder. His new tunic had a purple border, and his hair had been wetted and combed flat, and his ears stuck out from it on either side. He held himself very straight, and when the pedagogue released him he climbed toward his mother a step and then the next, each one counted out for him beforehand by somebody, and stopped two below her.
 
