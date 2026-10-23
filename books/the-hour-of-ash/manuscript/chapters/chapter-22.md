@@ -21,7 +21,7 @@ The house the brother had taken for the suit stood high on the Quirinal in a str
 
 Plautia was standing by the rain pool when the bearers set the chair down. She kept her place while I was extracted from it, which took the porter and Valens both, and while I found my feet on the widow's marble, and I had leisure enough for her hair.
 
-It had been built up over her forehead in the Roman fashion, a high front of tight curls in rows, each row stepped back above the one below it, and the way it stood told me there was a frame inside: a crescent of cane, I thought, or of wire wrapped in hair, with every curl pinned to it separately and the whole of it lashed to the plait behind. Somebody had worked on it since before dawn, and it made her a hand taller and covered both her ears.
+It was built up over her forehead in the Roman fashion, a high front of tight curls in rows, each row stepped back above the one below it, and the way it stood told me there was a frame inside: a crescent of cane, I thought, or of wire wrapped in hair, with every curl pinned to it separately and the whole of it lashed to the plait behind. Somebody had worked on it since before dawn, and it made her a hand taller and covered both her ears.
 
 "You are welcome to this house," she said, "which is not my brother's, and not mine, but belongs to a widow who lets it, together with her husband's ancestors, to anyone who has a lawsuit and the rent, and who has promised us that the bedroom behind the garden is the quietest on the hill; it is yours, and tonight you will learn what the Quirinal means by quiet. How many months?"
 
@@ -187,7 +187,7 @@ On the bench opposite ours a little man in a dun cloak had brought his dinner in
 
 Celer's advocate objected again. "The court will remember whose property it is about to hear."
 
-"I'll hear him first," the judge said, from behind his eyelids, "and decide afterward what he's worth."
+"I'll hear him first," the judge said, "and decide afterward what he's worth."
 
 Valens went to the end of the platform in a tunic of the brother's, fresh from the fuller and tight across his back. He looked over the judge's head and ours, over the women's places and the men standing behind them, and past them down the aisle to the last pier, where the idlers leaned, in from the glare, and he said it to them.
 
@@ -205,9 +205,9 @@ Opposite, the little man in the dun cloak bit into his onion, and Valens's eyes 
 
 "They grew those," he said. "Every house. By the autumn you could smell the village before you saw it."
 
-"The court is not buying onions," the judge remarked to the inside of his eyelids.
+"The court is not buying onions," the judge remarked.
 
-Valens waited for the next question. Our advocate supplied it, and the next, and he answered them as he answered everything, in as few words as would carry the thing across.
+Our advocate supplied the next question, and the next, and Valens answered them as he answered everything, in as few words as would carry the thing across.
 
 "How did you come to Corinth?"
 
@@ -215,7 +215,7 @@ Valens waited for the next question. Our advocate supplied it, and the next, and
 
 "And freed?"
 
-"At Caesar's games, the last afternoon. The wooden sword came down to me from the tribunal, and I was walked to the magistrate's table, and his clerk wrote me down."
+"At Caesar's games, the last afternoon. The wooden sword came down to me from the tribunal, and I was walked to the magistrate's table, and I stood while his clerk wrote."
 
 "Whose hand was on your shoulder while he wrote?"
 
@@ -225,7 +225,7 @@ Valens waited for the next question. Our advocate supplied it, and the next, and
 
 "The legate's steward. On the Kalends, in silver, with my keep and a cloak for the winter, to go where the lady went, a pace back."
 
-"In silver," our advocate repeated, to the judge's closed eyes. "To his own slave." Then, to Valens: "Tell the judge about the night."
+"In silver," our advocate repeated. "To his own slave." Then, to Valens: "Tell the judge about the night."
 
 "It was summer. Vitellius had Rome." He kept his eyes off Plautia, and she kept hers off him; she had the whole fringe of her veil wound round her fingers now. "The steward came for me two hours after dark and said the master wanted me in the atrium. Every lamp in the atrium was lit, more than for guests. The lady was there by the household gods, in what she slept in, with a cloak somebody had put round her. The master had two of the house slaves standing at the pool. He asked them what they'd seen, and they said they'd seen me in her bed. Her hairdresser said it first. She was a girl, and she wept while she said it. The stable boy said it after her, to the steward. The master said he was sorry. He said it to me, and to the lady, and he said it to the gods in the cupboard."
 
@@ -235,7 +235,7 @@ Valens waited for the next question. Our advocate supplied it, and the next, and
 
 The man with the onion sneezed.
 
-It was a sneeze that started far off and gave notice of itself. His head went back, and his hand rose with the onion still in it, and the whole aisle had time to watch him draw his breath for it before it came, and when it came it was enormous, and the curtain beside him swung.
+It was a sneeze that started far off and gave notice of itself. His head went back, and his hand rose with the onion still in it, and the whole aisle had time to watch him draw his breath for it before it came, and when it came it was enormous.
 
 "Salve," said the bench round him, all together. "Salve," said the women's bench, and the idlers at the back. One of the judge's friends said it. The judge, eyes still closed, said it.
 
@@ -293,9 +293,9 @@ She got me to my feet. I had known this place as stumps and lines in the grass, 
 
 * * *
 
-The stair to the gallery climbed inside the Basilica's far end, steep and worn. At the top of it the idlers, with the women who had no seats below, leaned on a parapet over the whole of the nave, and I squeezed in between two pillars. From the parapet the four courts were four crowds round four small platforms, their curtains moving whenever somebody pushed through, and the four of them could be heard together, four rooms of one party.
+The stair to the gallery climbed inside the Basilica's far end, steep and worn. At the top of it the idlers, with the women who had no seats below, leaned on a parapet over the whole of the nave, and I squeezed in between two pillars. From the parapet the courts were four crowds round small platforms, their curtains moving whenever somebody pushed through, and I heard all of them at once, four rooms of one party.
 
-Our judge's head shone bald under me, and the slave at the clock had changed his jar. Valens had not moved from his place. Celer's advocate stood in front of him, with his free hand open.
+Our judge's head shone bald under me, and the slave at the clock had changed his jar. Valens had not moved from his place. Celer's advocate had closed on him, with his free hand open.
 
 The woman wedged in beside me had a swaddled baby sleeping in the crook of her arm. "Where's this gladiator?"
 
@@ -317,15 +317,15 @@ The woman wedged in beside me had a swaddled baby sleeping in the crook of her a
 
 "I would rather ask you." The advocate turned a little, so that the benches had his profile. "You were a gladiator. For how many years did you kill men on the sand, for money, for the crowd's pleasure?"
 
-Valens let the question go by. He stood with his arms hanging and his gaze at the aisle's end, and waited, as he had waited for the sneeze to finish, and the water ran in the clock.
+Valens let the question go by. He stood with his arms hanging and his gaze at the aisle's end, and the water ran in the clock.
 
 "That's not in the matter," said the judge. "Go on."
 
-"As the court pleases," said Celer's advocate. "The court has heard the question. It knows my client's family, and it can see the witness."
+"As the court pleases," said Celer's advocate. "It knows my client's family, and it can see the witness."
 
-Our advocate stayed on his bench. "The court is asked to take a consul's dates against a steward's," he said hoarsely.
+Our advocate stayed on his bench. "The court is asked to take a consul's dates against a steward's," he said.
 
-The water ran out. Celer's advocate let his hand drop and took his seat. Our advocate said he had nothing to add that the court had not seen with its own eyes, and the judge opened his and promised his sentence on the third day, in this place, at mid-morning. Then he put on his outdoor shoes, which a slave held for him, and the platform began to empty.
+The water ran out. Celer's advocate let his hand drop and took his seat. Our advocate said he had nothing to add that the court had not seen with its own eyes, and the judge promised his sentence on the third day, in this place, at mid-morning. Then he put on his outdoor shoes, which a slave held for him, and the platform began to empty.
 
 Valens stepped down and looked first at the place where I had been, and Myrrhine's place beside it, both empty. He stood looking at them while the crowd went round him, until our advocate returned for him and touched his arm.
 
@@ -351,7 +351,7 @@ He settled on the bed's foot and thought about it. "He did."
 
 "All through. His feet never moved." He unlaced the other boot and set the pair under the bed with the toes outward, ready, the way he always set them. "At Corinth, when he was kept waiting for his dinner, his right foot used to go on the floor under the table until the dish came."
 
-He slept on his back before the lamp had burned down a finger's width. Later Plautia scratched at the curtain and came in without waiting to be asked, with her built hair taken down for the night and plaited loose over one shoulder, which made her look younger and less sure of her hands. She carried something folded.
+He was asleep before the lamp wanted trimming. Later Plautia scratched at the curtain and came in without waiting to be asked, with her built hair taken down for the night and plaited loose over one shoulder, which made her look younger and less sure of her hands. She carried something folded.
 
 "Myrrhine tells me you will not let her have your shift."
 
@@ -367,11 +367,11 @@ In the morning Myrrhine looked at the shift on me and said she would have it bac
 
 The judge took his three days, and in them Myrrhine and I walked the Sacred Way down and over the Velia to the valley beyond it, where Nero had had a lake.
 
-The lake was gone, and in its place stood the beginning of the amphitheatre, already the largest work of hands in this world that I knew of, and not a third built. The outer wall rose in arcades of pale stone, two tiers of arches high in some places and a single tier in others, and above that it was all scaffold: poles lashed with rope in a lattice the height of the curve, planks laid across them, men on the planks, ladders between them, and above everything, at intervals, the arm of a crane with a great wooden wheel at its foot and men walking inside the wheel like hamsters. Oxcarts came in at a crawl, one behind the other, loaded with stone from the quarries in the hills toward Tibur, by road, at the pace of the oxen. The noise was the noise of the whole city poured into one valley. Everything was the color of the stone, the men included.
+The lake was gone, and in its place stood the beginning of the amphitheatre, not a third built. The outer wall rose in arcades of pale stone, two tiers of arches high in some places and a single tier in others, and above that it was all scaffold: poles lashed with rope in a lattice the height of the curve, planks laid across them, men on the planks, ladders between them, and above everything, at intervals, the arm of a crane with a great wooden wheel at its foot and men walking inside the wheel like hamsters. Oxcarts came in at a crawl, one behind the other, loaded with stone from the quarries in the hills toward Tibur, by road, at the pace of the oxen. The noise was the noise of the whole city poured into one valley. Everything was the color of the stone, the men included.
 
 The blocks went up dry, without mortar. I watched a gang set one on the top course: they lowered it onto the one below, levered it into line, and then a boy with a ladle edged along the scaffold from a brazier and poured lead into the socket where an iron cramp tied it to its neighbor. The lead fumed white and sweet-smelling, and the boy blew on his ladle and trotted off to the fire for more. The stone had holes in it of its own, like bread. I stood at the barrier and watched them fill the next socket and the next.
 
-It was a place for men to fight in, while a whole city watched them. I thought that, standing in the white dust, and the child stretched in me from one hip to the other. Then a carter bellowed at us to stand off from his oxen, and Myrrhine hauled me back, and the cart went past so close that the stone on it left its dust on my arm.
+It was a place for men to fight in, while Rome watched them. I was thinking that, in the white dust, when a carter bellowed at us to stand off from his oxen, and Myrrhine hauled me back, and the cart went past so close that the stone on it left its dust on my arm.
 
 "And what will it be?" said Myrrhine.
 
@@ -397,7 +397,7 @@ At every crossroads on our road home, men were building heaps of straw and bean 
 
 The judge gave his sentence in fewer words than our advocate had spent on the dowry's earrings, and without opening his eyes for it.
 
-"I find for the plaintiff," he said, and behind the left-hand curtain somebody's friends began clapping for their own man and kept it up. "The defendant will restore the dowry whole, the sixth part he kept back for the lady's conduct together with the rest, within the time the law allows him. As to the bill of sale, I have given it the weight it deserves, and my young friend's uncle sends the defendant his compliments."
+"I find for the plaintiff," he said, and behind the left-hand curtain somebody's friends began clapping for their own man and kept it up. "The defendant will restore the dowry whole, the sixth part he kept back for the lady's conduct together with the rest, within the time the law gives him. As to the bill of sale, I have given it the weight it deserves, and my young friend's uncle sends the defendant his compliments."
 
 Plautia's brother leaned across to our advocate. "The sixth?"
 
