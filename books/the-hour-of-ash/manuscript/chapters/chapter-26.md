@@ -9,7 +9,7 @@
 
 *She'll be near four the summer we go, by my book, which is plenty big to sit through nine innings if somebody keeps the peanuts coming, and believe me somebody will. Feed her. Sleep when she sleeps. That's what my mother told every woman on our block with a baby. I never knew what it meant till tonight, and I still don't. A. F.*
 
-The letter was written on the reverse of a stranger's future. On the front, in Fenn's courtly Greek, a wine shipper of Puteoli had been promised a fair passage to Ostia and a son before the vintage, until somebody knocked the ink over the son. Fenn, who wasted nothing he had bought, had flipped it and written to me on the clean side of the blot. His English ran small and square right out to the sheet's edges, without a margin anywhere, each line dipping toward its finish, where the wrist had tired. A drop of milk had already landed on the Walt Whitman Bridge and dried there in a small glazed blister, which the next damp day would sink into the fibers for good.
+The letter was written on the reverse of a stranger's future. On the front, in Fenn's courtly Greek, a wine shipper of Puteoli had been promised a fair passage to Ostia and a son before the vintage, until somebody knocked the ink over the son. Fenn, who wasted nothing he had bought, had flipped it and written to me on the clean side of the blot. His English ran small and square right out to the sheet's edges, without a margin anywhere. Each line dipped toward its finish, where the wrist had tired. A drop of milk had already landed on the Walt Whitman Bridge and dried there in a small glazed blister, which the next damp day would sink into the fibers for good.
 
 The Greek sheet with her stars on it had gone next door at once. Grata had read it aloud in her counter voice to every customer that day, Jupiter and all. She nailed it above the loom in her back room, next to Lucius's stars, with a better nail.
 
@@ -35,7 +35,7 @@ In her fourth week Aelia had a night when nothing would serve her but walking. I
 
 *You weren't gone an hour when it hit me I never asked what they call you down there, Mrs. Big Fellow or what. So this is going care of Grata, and Grata can sort it out. The stars for your boy are in with this, a long life and so forth. Don't let your landlady pay me. I'd like to tell you I got a good night's sleep after you left. The fact is I talked all night. I don't mean to anybody. I sat on the stool and talked American at the ceiling till the gulls started up, about the automat and the El on Market Street and a girl in homeroom who sat behind me and smelled of oranges, and somewhere around the third watch the man downstairs who salts the tunny took a broom handle to his ceiling, which is my floor, and told me in good plain Greek to shut up or he'd come up. First time in thirty-odd years a man's told me to pipe down while I was talking English. Okay, he told me in Greek. You get the idea. The tables are coming soon as there's a clean copy, which is a bigger job than you'd think. A. F.*
 
-She stopped crying somewhere around the broom handle and had dropped off by the tables. One fist was knotted in my neckline so hard that I had to unbend the fingers singly to lay her down.
+She roared through the broom handle and the tables and both initials. I left the letter on the blanket and walked her, reading nothing, until the bakers were at their oven, and then she slept, for no reason I could find. One fist was knotted in my neckline so hard that I had to unbend the fingers singly to lay her down.
 
 I had answered that first letter the week it came, sitting on the roof in the long light with a sheet from the stationer by the forum and a reed I had cut too fine. My English left the reed in a hand I barely knew. Except for the tremor notes in the back of the notebook, which were dates and a few words apiece, I had last written any length of it in Philadelphia. Partway down the sheet I stopped over scissors and wrote it twice in the margin to see which looked right; both looked wrong, and I wrote shears instead and went on. I wrote him about the stair tread Valens had put in, and the potted fig, and Grata, and nothing whatever about the door.
 
@@ -45,7 +45,7 @@ When Aelia was eight days old, Grata hung a crescent of thin bronze round her ne
 
 Aelia put everything in her mouth. She had my hair there whenever my head came in reach, and Valens's beard, and the corner of the blanket. Once she had the end of the bronze strainer I was mending, because I had been fool enough to dangle it over her while I looked for the split.
 
-In the mornings Lucius planted himself at the bedside, chin on the blanket, and gazed at her for long stretches, the way he gazed at the mules being shod. From time to time a finger went out, to try whether her eye would shut at a touch. It was to keep that finger busy that I gave him the knucklebone. It had ridden in the bottom of the satchel since the Corycian, under the notebook, next to the tape in its sock, with the other things I could have explained to no one this side of the cave. I had taken it from a cave floor against every rule I was ever taught and every rule I had since taught to other people. Now a boy's mouth tested it and returned it shining, and it rolled, and was fetched, and rolled again. The bone had lain in the dark since somebody's goat died, and it took its new life calmly.
+In the mornings Lucius planted himself at the bedside, chin on the blanket, and gazed at her for long stretches, the way he gazed at the mules being shod. From time to time a finger went out, to try whether her eye would shut at a touch. It was to keep that finger busy that I gave him the knucklebone. It had ridden in the bottom of the satchel since the Corycian, under the notebook, next to the tape in its sock, with the other things I could have explained to no one this side of the cave. I had taken it from a cave floor against every rule I was ever taught and every rule I had since taught to other people. Now a boy's mouth tested it and returned it shining, and it rolled, and was fetched, and rolled again. The bone had lain in the dark since somebody's goat died.
 
 * * *
 
@@ -85,7 +85,7 @@ Her name was in the front of the notebook, beneath the letters in the satchel, i
 
 "It's uphill, that street."
 
-Aelia had fallen asleep somewhere between the third home run and the note. Her mouth hung open on the breast, with a bead of milk standing at the corner of it. Valens watched her across the lamp. He had walked her the previous night for the whole of the first watch and half the second, pacing the shop below among the customers' pots, talking to her low in Latin. She had roared at him from start to end of it until I came down.
+Aelia had fallen asleep somewhere between the third home run and the note. Her mouth hung open on the breast, with a bead of milk standing at the corner of it. Valens had walked her the previous night for the whole of the first watch and half the second, pacing the shop below among the customers' pots, talking to her low in Latin. She had roared at him from start to end of it until I came down.
 
 "She sleeps for that," he said.
 
@@ -101,7 +101,7 @@ He finished the splice and coiled the rope beside the lamp, the new eye uppermos
 
 "She hears it now."
 
-I could not argue with that, and he knew it, and it did not please him. He sat bent forward with his big hands hanging loose, gazing at his daughter, who was asleep in a language he did not have.
+He sat bent forward with his big hands hanging loose, gazing at his daughter, who was asleep in a language he did not have.
 
 "Give me a word of it," he said.
 
@@ -113,7 +113,7 @@ She knew none of it, and nor did a soul in the street. But he had asked me for s
 
 * * *
 
-At daybreak I stood at the upper shutter with her as Valens passed below with the string. There were five mules nose to tail in the half-dark with their breath standing over them, and Felix at the back of the line with a lantern on a pole. Grata had her shutter boards half down and was stacking them against the counter, in a cloak with the hood pulled over her night-cap. Valens halted the lead mule beside her with a word, and said to her in a clear and careful voice that reached me at the window:
+At daybreak I stood at the upper shutter with her as Valens passed below with the string. There were five mules nose to tail in the half-dark with their breath standing over them, and Felix at the back of the line with a lantern on a pole. Grata had her shutter boards half down and was stacking them against the counter, in a cloak with the hood pulled over her night-cap. Valens halted the lead mule beside her with a word, and said to her, in a clear voice that reached me at the window:
 
 "Goodnight."
 
@@ -121,13 +121,13 @@ Grata looked at him over the board in her arms. "And to you, and to all your mul
 
 He gave it to the dun as well, at the front of the string, scratching under her headstall where she liked it. After that he took his mules off downhill, walking light. Felix came past below at the tail and asked up the wall what the word had been, and was it a god's name, and could he have one too. He had rounded the corner by the fullery before I had answered any of it.
 
-I did not call after either of them. Before him, the only English ever spoken aloud in that street had been mine. He had handed his to Grata over her shutter boards with the day only starting, and she had accepted it.
+I did not call after either of them. Before him, the only English ever spoken aloud in that street had been mine.
 
 The street rose to the shutter as it did every morning at that hour. The bakers' boys passed with the loaves stacked steaming on boards on their heads, and the fuller's lads bawled across the vats; somebody's bucket clanked at the fountain on the corner, and a woman told a dog what she thought of it. It was Latin, all of it, and the Latin of this street, which shortened its words and swallowed the ends of them and had a curse for every trade. I held Aelia up to the gap in the shutter, into the cold and the smell of the bread. I told her the names of the things going by in it, low, the loaves and the boys and the dog, in the language she would hear all day from everybody but me at night.
 
 * * *
 
-The autumn letter had come at the vintage, when I was so big that I sat at the bench sideways. I had owed him an answer since. In her sixth week I unfolded it at the bench in the shop front, with Aelia asleep against me in the sling and the brazier at my feet. The bronze strainer from the inn at the crossroads waited at my elbow for a patch over the split that ran through its pierced holes. It was raining in the street. The gutter in front of the shop ran deep enough that people crossed on the raised stones with their skirts gathered up. For once the wet had knocked the fuller's smell down, and the shop had only charcoal in it, and the strainer's old wine, and the milk on my tunic.
+The autumn letter had come at the vintage, when I was so big that I sat at the bench sideways. I had owed him an answer since. In her sixth week I unfolded it at the bench in the shop front, with Aelia asleep against me in the sling and the brazier at my feet. The bronze strainer from the inn at the crossroads waited at my elbow for a patch over the split that ran through its pierced holes. It was raining in the street. The gutter in front of the shop ran deep enough that people crossed on the raised stones with their skirts gathered up. Nothing would dry out of doors that week, so her swaddling bands were strung across the shop front, and every customer reached my bench through a wet curtain of them. For once the wet had knocked the fuller's smell down, and the shop had only charcoal in it, and the strainer's old wine, and the milk on my tunic.
 
 *Sure, I said it, with my own mouth in my own room, so sue me. Who won the Series in ninety-seven? Just that. Not who's in the White House, not what they get for a pack of Luckies, just who won it the last fall you were there. I've been lying up here figuring how much there is I've missed, and that's the piece of it that won't let me sleep. I had a birthday. I keep it by the old calendar, as near as I can work it against theirs, and as of this letter that's one person around here who knows it. I bought myself a melon. A. F.*
 
@@ -179,11 +179,9 @@ I wrote a line about the rain. He spoke again, his arm still over his eyes.
 
 "That you walked her till the second watch."
 
-"She roared the whole of it."
+"The ford at Stabiae's up to a mule's belly, and the dun swam the last of it. Put that in."
 
-"I told him that too."
-
-He was asleep again with half the sheet still to fill. The strainer had held, I wrote, after a fashion. Lucius had learned to climb the stair on his hands and come down it backward on his belly, and Grata's son had been painted out by the baths. Near the bottom I began a line that started *It's a machine that*, and stopped, and took the sponge from the ink pot and wet it and lifted the words off the sheet before they could set, which was the one mercy of lampblack and gum. The sheet dried with a pale cloud in that place. What a voicemail was, I did not explain.
+He was asleep again with half the sheet still to fill. I put the ford in. The strainer had held, I wrote, after a fashion. Lucius had learned to climb the stair on his hands and come down it backward on his belly, and Grata's son had been painted out by the baths. Near the bottom I began a line that started *It's a machine that*, and stopped, and took the sponge from the ink pot and wet it and lifted the words off the sheet before they could set, which was the one mercy of lampblack and gum. The sheet dried with a pale cloud in that place. What a voicemail was, I did not explain.
 
 * * *
 
@@ -199,9 +197,9 @@ He was seventeen that winter, or said he was, and he had a cut in one eyebrow, c
 
 "The dun."
 
-"She's been jumpy since the rain. Have you seen the boats are out? Two came round from Surrentum this morning, I watched them from the wall. Is the sea open, then, or is it only them being stupid? Is it open for good?"
+"She's been jumpy since the rain. Two boats came round from Surrentum this morning, I watched them in from the wall. Is the sea open, then, or is it only them being stupid? Is it open for good?"
 
-The dun had never thrown her head at anybody in her life, and he knew I knew it. He was out and away with no answer from me, whistling, with his hand already flat on the doorpost to swing himself round it.
+He was out and away with no answer from me, whistling, with his hand already flat on the doorpost to swing himself round it.
 
 Under the sacking there was a box of plain cedar, the kind a clerk keeps his rolls in, with a lid that slid in a groove, and a letter tied to the top of the lid with a thread.
 
