@@ -487,6 +487,9 @@ a man "waiting", a woman's stillness). Count each minor or recurring character's
 chapter: more than 3 notes of the same state in one chapter, or 3 inside ~500 words, is a NO-TICS failure
 under Characters, even when `tic_report.py --gate` is clean. Hour of Ash Ch.11, 16, 18 and 22 each grew
 one (Ch.22: the iudex's closed eyes 11×, Valens's waiting 5×). Cut to the one or two notes that do work.
+Do the census EXHAUSTIVELY at cycle 0: every recurring character, every narrated state (talking on, breaking off, turning,
+facing, looking at an object, hands, posture, mood given to an infant), with line numbers. Hour of Ash Ch.25 lost two
+extra cycles because cycle 0 counted four states and each re-evaluation found more that had been there from the start.
 
 ### 7 Problem Types
 
