@@ -227,3 +227,43 @@ suggested_patches:
     action: "add"
     value: "a court with a well and an iron tie-ring; back room the depth of the house, window slit and door to the court; loom; brazier on the shop side"
 ```
+
+---
+
+## Repair log (book-editor, 2026-10-23)
+
+Pre-repair copy: scratchpad only (not in the book). Narration and tags only; no spoken line was cut. Dialogue now 29.0% (show_tell), style count 5,783, wc 6,142. `check_chapter.sh 24` → ALL MECHANICAL GATES CLEAN; `tic_report.py --echoes 24` → 0 / 0 / 0.
+
+| Item | Status | How |
+|---|---|---|
+| CRIT-001 | done | Audit fix: "I hated it with the whole of me, and I held on." Teeth back to 3 notes. |
+| CRIT-002 | done | "There's one near the water tower," (the audit's "up by the" tripped the 3x gate: "up by the" ch18/20). Header scene budget updated. `grep -i vesuvius` on the chapter = 0. |
+| CRIT-003 | done | "For the boy." / "For the girl, then." |
+| CRIT-004 | done | l.416 → '"He lay wide," Statia said.'; l.422 → '"A boy," she said.'; l.380 lamps clause cut; l.452 → "and then spoke to me."; l.140 "to the court" cut. Only "told the door" (l.190) left. |
+| CRIT-005 | done, rebuilt | Fresh words, not the audit's string: "It was Valens, on the bed beside me. The child slept against my left side. Valens had my hand palm down on his knee. He was working the watch's little crown a click at a time, and I felt each click in the small bones of my wrist. When it would turn no farther he tucked my hand under the sheet." No finger-and-thumb, no "forward", no dry tick, no "wound". The last sentence is an action. Every string grepped clean in Ch.1–23, and the gate echo scan is 0. |
+| CRIT-006 | done | "Felix turned up at the door." "horn in his hair" is CUT; never restore. |
+| WARN-01 | done | "In the Soranus I had read, midwives had long slim fingers and the nails cut close." |
+| WARN-02 | done | Philadelphia/postcard sentence cut. |
+| WARN-03 | done | "every shutter in the street was drawn half to" |
+| WARN-04 | done, extended | Audit's three fixes (paving "burned up through"; palm on plaster cut; "I braced on the jamb and leaned my weight into it."). I also cleared the rest of the door residue from Grata's room: l.18 "and the plaster on that side was warm to the hand" cut; l.372 "Grata's warm wall" → "Grata's wall"; l.194 "a noise into the plaster" → "a noise". No warm plaster, flat hand or cool door is left. The cold well water stays (no plaster or door). |
+| WARN-05 | done | "…crying, the long division half written. Brown." |
+| WARN-06 | done, recast | The five fragment paragraphs are now one paragraph of sound only: "A cart rumbled past, streets off. Outside Felix was asking something, and Valens gave him a single word, and the asking stopped." The stone, the husband and the snoring are cut. Untagged, no gloss. |
+| WARN-07 | done | "by inches" and "He did not move his feet at all." cut. Header anchor updated. |
+| WARN-08 | done | l.414 cut (with CRIT-004); "She licked her fingers." cut. |
+| WARN-09 | done | "Beyond the wall her brazier…"; also l.164 "the brazier next door" → "her brazier in the shop". |
+| WARN-10 | done | "his dice in his other fist" and "the dice had stopped" cut. The click stays as "Dice clicked in his fist", with an indefinite article because the dice are no longer introduced. |
+| WARN-11 | done | One placement: the child is against Mara's left side. Valens is on the bed with her right hand on his knee, so he has both hands free for the crown. "beside his son" is gone. |
+| WARN-12 | done | knife-on-curb item cut. |
+| WARN-13 | done | "He cried at the ceiling." cut. |
+| WARN-14 | done | via WARN-04 (the "until it passed" tail is gone). |
+| WARN-15 | done | via WARN-06 (the "Low. To the mule." line is cut). |
+| INFO-03 (a)(b) | done | "cut beyond the tie"; "long bands of soft wool". |
+| INFO-07 | done | "the watch round" → "the aedile's men round" (frees "watch" for the close). |
+| INFO-10 | done | "hung under the ceiling" (flies dropped). |
+| INFO-12 | done | ", on the crown," cut, so "crown" now appears only on the watch. |
+| INFO-01/02/04/05/06/08/09/11 | no action | Confirmations, or acceptable as noted. |
+| CH24-2 (entity) | done | Ch.20 has carting stop at noon in the hot months. "Valens was back off the string at the eleventh hour." → "Valens had the mules bedded by the eleventh hour." He comes from the stalls, not the string. "That arm's carried lime since dawn" still holds (dawn to noon). Shard stamps still run in order: ninth hour (tenth, eleventh inside) → Lamp-lighting → Bedtime → Midnight → Past midnight → Cockcrow → After the cocks → First light → Morning. |
+
+Echo and gate variations my own edits introduced, then varied: "up by the" (3x) → "near the"; "into the wall" (3x) → cut; "put my hand" (3x) → "tucked my hand"; "a long way off", "far down the", "at the far end", "end of the street" → "streets off"; "sitting on the bed", "was asleep against" → "on the bed beside me", "slept against"; "back from the", "came from the", "from the stalls" → "had the mules bedded".
+
+Re-sync at finalize (not done here, per instruction): the bible's Ch.24 blocks (rival "near the water tower", STATIA "tells the lentils" line removed, horn/dice CUT) and the entity patches above. The suggested patch for the rival should read "near the water tower".

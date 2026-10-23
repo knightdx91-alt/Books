@@ -2,8 +2,8 @@
 
 #### *Pompeii · summer, AD 74*
 
-<!-- SCENE BUDGET (Target 6,200; Fragmented, a night in time-stamped shards by the Roman reckoning of the night, 8 breaks / 9 shards; gear low; dialogue 25-35%): S1 the ninth hour: the water at noon, Grata's back room, Statia and her teeth (the book's one introduction-by-teeth), the guess, who is coming, the stool, Valens in from the string 1,250 | S2 lamp-lighting: Grata's vow to Lucina, the pins and the knots, the eagle-stone, the husband's Chaldean at Puteoli 950 | S3 bedtime: the fuller's wife and her dittany, the lentils and the rival up by the water tower, his feet in the court, his arm, "Men out" 1,000 | S4 midnight: the door to the court, the dun's feet by lamplight, Felix's questions, "How far?" 850 | S5 past midnight: level 3, sound only, the teeth, Mrs. Dunphy in brown, untagged speech, the rasp stopping and starting 650 | S6 cockcrow: the birth, slow; a boy; the cloth on the floor; he cannot lift him until she shows him 1,000 | S7 after the cocks: salt and bands, the first milk refused and given, Grata to the street, Felix 750 | S8 first light: Statia goes, the name 300 | S9 morning: the watch 150 -->
-<!-- Word count: style 6,120 / shape 6,109 / wc 6481 | Writer draft 2026-10-23 | Target: 6,200 (99%) | Dialogue 27.3% show_tell, 28% shape (band 25-35) | Breaks 8 (9 shards, Roman night reckoning) | Median sentence 10 (gear low) | Opens I-punch ('I hated the midwife.', one-sentence paragraph per ledger), closes quiet (21-word watch sentence) | Em-dash 0 | as-if 1 | And-chains 8 (cap 9) | Negation pivots 0 | Credential asides 0 by gate (Soranus, Pliny by hand, both before midnight) | Spoken Then-openers 2 | Echoes 0 | check_chapter.sh 24 ALL MECHANICAL GATES CLEAN | Anchor: Valens holding his son out on locked arms like a jar caught just short of the stones, then drawing him in; the tenderness is the four-times-trimmed dun's feet at midnight -->
+<!-- SCENE BUDGET (Target 6,200; Fragmented, a night in time-stamped shards by the Roman reckoning of the night, 8 breaks / 9 shards; gear low; dialogue 25-35%): S1 the ninth hour: the water at noon, Grata's back room, Statia and her teeth (the book's one introduction-by-teeth), the guess, who is coming, the stool, Valens in from the string 1,250 | S2 lamp-lighting: Grata's vow to Lucina, the pins and the knots, the eagle-stone, the husband's Chaldean at Puteoli 950 | S3 bedtime: the fuller's wife and her dittany, the lentils and the rival near the water tower, his feet in the court, his arm, "Men out" 1,000 | S4 midnight: the door to the court, the dun's feet by lamplight, Felix's questions, "How far?" 850 | S5 past midnight: level 3, sound only, the teeth, Mrs. Dunphy in brown, untagged speech, the rasp stopping and starting 650 | S6 cockcrow: the birth, slow; a boy; the cloth on the floor; he cannot lift him until she shows him 1,000 | S7 after the cocks: salt and bands, the first milk refused and given, Grata to the street, Felix 750 | S8 first light: Statia goes, the name 300 | S9 morning: the watch 150 -->
+<!-- Word count: style 5,783 / wc 6142 | Writer draft 2026-10-23; continuity repair 2026-10-23 (audit ch-24: 6 CRIT, 15 WARN, INFO 03/07/10/12, entity CH24-2) | Target: 6,200 (93%) | Dialogue 29.0% show_tell (band 25-35) | Breaks 8 (9 shards, Roman night reckoning) | Median sentence 10 (gear low) | Opens I-punch ('I hated the midwife.'), closes quiet (the watch wound, hand tucked under the sheet) | Em-dash 0 | And-chains 8 (cap 9) | Negation pivots 0 | Credential asides 0 by gate | Echoes 0 | check_chapter.sh 24 ALL MECHANICAL GATES CLEAN | Anchor: Valens holding his son out on locked arms like a jar caught just short of the stones, then drawing him in; the tenderness is the four-times-trimmed dun's feet at midnight -->
 
 I hated the midwife.
 
@@ -59,7 +59,7 @@ Statia was pleased. "There. That's one."
 
 Grata shut her counter at the tenth hour. She had kept it open right through the Saturnalia. The front boards went up with a clatter. A carter complained outside, and Grata told him there was wine at the Nola Gate and he could go and be robbed there.
 
-Valens was back off the string at the eleventh hour. He stood in Grata's door and looked at me.
+Valens had the mules bedded by the eleventh hour. He stood in Grata's door and looked at me.
 
 "It's begun," I said.
 
@@ -165,7 +165,7 @@ Grata sent her home. She put the dittany on the coals of her brazier in the shop
 
 Statia ate the lentils. Grata's lentil pot sat inside the doorway, out of the way, and Statia lowered herself to the floor next to it and dipped in with three fingers, and talked with her mouth full.
 
-"There's one up by the water tower," she said, "calls herself a midwife. Lays them flat. On their backs, like a beetle. Then she wonders why it takes two days." She wiped her fingers on her tunic. "Lays them flat and goes home to her dinner. And her wool's off a black sheep, I know it for a fact. Black wool, at a birth." She dipped again. "Walk."
+"There's one near the water tower," she said, "calls herself a midwife. Lays them flat. On their backs, like a beetle. Then she wonders why it takes two days." She wiped her fingers on her tunic. "Lays them flat and goes home to her dinner. And her wool's off a black sheep, I know it for a fact. Black wool, at a birth." She dipped again. "Walk."
 
 Passing the stool, I touched the run of glue down its leg. The run was hard and glassy, with a hair caught in it.
 
@@ -191,7 +191,7 @@ Through the planks he tried again. "Call me if there's anything to carry."
 
 There was no air now at all. The lamp's two flames stood up straight on the shelf, and the flies had settled for the night on the ceiling. Grata wet a cloth from the jar and laid it across my nape, and it was warm before it settled. In my freezer at home there was a bag of peas I kept for the back of the neck in August; I had bought it for that purpose only, and never cooked a pea of it in four summers. The cloth slid down my back, and Grata caught it and wet it again.
 
-The pain came, and returned, and my hands were on the wall, and this time I made a noise into the wall. It was low and long and I had no say in it.
+The pain came, and returned, and my hands were on the wall, and this time I made a noise. It was low and long and I had no say in it.
 
 "Good," said Statia, at my shoulder. "That's the right noise. Make that one."
 
@@ -291,7 +291,7 @@ Statia said something that was not Latin.
 
 "Wait for it. Wait."
 
-A long way off a cart went by. Outside Felix was asking something, and Valens gave him a single word, and the asking stopped.
+A cart rumbled past, streets off. Outside Felix was asking something, and Valens gave him a single word, and the asking stopped.
 
 "He's coming, she says he's coming. Lucina, you old cow, you took my cake, you keep your word."
 
@@ -479,4 +479,4 @@ He spoke once more, low, to the child. "Lucius."
 
 I was mostly asleep. The street was at its work beyond the wall, and out front Grata was telling a carter he could have the news with his wine for the one copper, and none of it on credit. The light was full in the window slit. Down the lane the string clattered past for the gate with Felix shouting at it, and one mule's hooves went short and careful on the stones. Somebody had my right wrist.
 
-It was Valens, sitting on the bed. The child was asleep against my left side. Valens had my hand palm down on his knee. He was working the watch's little crown a click at a time, and I felt each click in the small bones of my wrist. When it would turn no farther he put my hand back under the sheet.
+It was Valens, on the bed beside me. The child slept against my left side. Valens had my hand palm down on his knee. He was working the watch's little crown a click at a time, and I felt each click in the small bones of my wrist. When it would turn no farther he tucked my hand under the sheet.
