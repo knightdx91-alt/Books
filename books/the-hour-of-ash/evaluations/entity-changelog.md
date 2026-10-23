@@ -3082,3 +3082,84 @@ Open contradictions: 33 → 37.
 - **meta:** updated the header note, `last_updated_by`, `mode`, `source` and `paragraph_rule`. Added a `revalidation_needed` chapter-21 row (RESOLVED), a `ch21_requested_checks` re-sync row, and the earlier check rows annotated with RE-SYNC notes.
 - **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
 - **Validation:** `yaml.safe_load` and a strict no-duplicate-key loader both pass. The file holds 325 characters, 98 locations, 153 objects, 20 organizations, 67 plot threads, 110 world rules, 213 timeline_events and 155 contradiction rows. **53 open** (52 before; +1 CH21-6). All ch-21 cites fall in p1..p254.
+
+## 2026-10-23: UPDATE (chapter 22, "The Basilica Julia", post-disruptor page)
+
+- **Source:** `manuscript/chapters/chapter-22.md` as it stands after writer 6aab721, dialogue-polish ff1bf65, hook-craft b4ef927 and book-disruptor f0111b2 (md5 579b651324ff772006d20cfb156bb933, same as git f0111b2). 210 paragraphs; breaks after p35, p67, p86, p119, p139, p157 and p188. The title, the dateline heading and the two HTML comment lines are not counted, so file line 8 = p1. Line formulas are in `paragraph_rule`.
+- **Page over report:** `manuscript/reports/chapter-22-report.md` quotes lines that later passes changed. None of them is recorded. Page facts named in the dialogue and disruption reports were checked on the page:
+  - The clappers at the verdict (p190, set up at p36). The page does not say "hired".
+  - "The sixth?" / "With the rest." (p191; p192).
+  - The gallery woman (p142-p144).
+  - Celer's foot on the step (p200), and Valens's account of it (p167).
+  - The 1991 board "still had the chisel in it" (p130).
+  - The hiccups at the amphitheatre (p178).
+- **The hearing:**
+  - One judge ("a lean old senator with the broad purple stripe", eyes closed) with three assessors on stools and a water clock (p37).
+  - Our advocate is short, square and hoarse. Celer's is young, with a beautiful voice.
+  - Day one: the dowry is read (Doris, the earrings, the lampstand); the bill of sale is set against the leaf. The leaf has no seal, and "the knot is wherever the book is".
+  - Two living names from the leaf come from Corinth: the dyer (fourth name) and the seasick merchant (seventh). The young assessor's uncle was consul "for his two months" but at Tibur in the bill's month.
+  - Day two: "Gaius Iulius Valens. Freed at Corinth." to the back of the aisle; Thrace; the onion; his wages "On the Kalends, in silver"; the night of AD 69; the sneeze; the laugh; Mara is walked out.
+  - The sentence comes on the judge's third day, the day before the Parilia (derived: 20 April AD 74). The dowry is restored whole, "the sixth part … together with the rest".
+- **Celer on the steps:** the ladder, staged once; "Nobody wants the Cornelian law" (not glossed on the page); Marcus to dine at the brother's every market day while Plautia is in Rome, and at Corinth when she sends for him. "Plautia gave him no word." This is a new thread, `cornelian-law-quiet`.
+- **New characters (26):**
+  - The court: iudex-ch22, iudex-assessors, young-assessor, young-assessors-uncle, water-clock-slave, celers-advocate.
+  - Witnesses and onlookers: corinth-dyer-witness, corinth-merchant-witness, onion-man-sneezer, gallery-woman-with-baby, basilica-attendant, celers-friends-rome, celers-slave-rome, will-court-neighbours, basilica-idlers, walnut-porters.
+  - Rome walk-ons and offstage names: quirinal-widow, consuls-wifes-hairdresser, rome-chair-bearers, vestal-girl-with-ash, amphitheatre-builders, forum-custodian-1991 (memory).
+  - Others: marcus-pedagogue, corinth-cooks-freedman, vitellius, ovid.
+- **New locations (8):** basilica-julia, quirinal-widows-house, roman-forum-ad74, flavian-amphitheatre-works, capena-gate, celers-house-esquiline, argiletum, tibur.
+- **New objects (5):** plautias-coan-shift (open: Myrrhine wants it back before Mara leaves Rome), widows-stapled-pot, basilica-step-gaming-board, myrrhines-red-shoes, sneezers-onion (closed).
+- **Updated characters:**
+  - mara-reyes: worn_ch22, pregnancy_1_ch22 ("Five. Nearly six."), mundane break 3 WRITTEN, the July 1991 memory, the encyclopedia at eight, knowledge rows, and the location row that replaces the plan row.
+  - valens: testimony traits, the second onion surfacing, legal_status row, location row, arc waypoint, clothing.
+  - plautia: hair, "not thirty", traits, relationship statuses, waypoint, location.
+  - quintus-arrius-celer: traits, outcome WRITTEN, knowledge, location.
+  - marcus: first on the page, no numeric age on the page. Relationships added: Valens "used to carry you", Myrrhine, the pedagogue, his uncle.
+  - myrrhine: her origin is now on the page (p184).
+  - plautias-brother: on stage, still UNNAMED (`first_on_page`).
+  - Others: plautias-brothers-freedman, plautias-brothers-advocate (on the page), celers-steward, plautias-hairdresser, celers-second-false-witness (now "the stable boy", `canonical_name_was` kept), celers-mother, doris-dowry-slave, marcus-nurse, corinth-lanista, corinth-games-magistrate, lucius-caninius, nero, vespasian, lucius, felix, pomponia-grata, carting-contractor, gaius-fabius-rufinus.
+- **Objects closed:**
+  - celers-bill-of-sale: given "the weight it deserves".
+  - manumission-record: proved; holder after the hearing is not stated.
+  - rome-summons and summons-tablet: answered at Puteoli on the Kalends.
+  - `status_was` kept on each. vettius-first-book was named in court; it stays open, held by Celer.
+- **Threads:**
+  - Resolved or paid: rome-decision RESOLVED; celer-and-the-frame PAID; plautias-son PAID; valens-known PAID.
+  - fabius-exhibition-offer CLOSED by absence. Valens is in Rome on the Parilia eve; Fabius is not on the page.
+  - plautias-question: answered in action, not in words. Plautia asks again: "Did he come because you asked him to?" / "He brought me."
+  - Notes added to valens-papers, conception-and-lucius and the-knife-comes-home (still open).
+- **knowledge_index:**
+  - New rows: dowry_verdict and celers_settlement.
+  - Rows added to valens_frame (the court; Myrrhine hears it for the first time), valens_and_plautia, valens_name, the_leaf_taken (Celer's side discovers the cut in court), pregnancy_lucius and dowry_suit_witness.
+- **Other sections:**
+  - world_rules: 7 OBSERVED rows (the court and its water clock, the retained sixth, a slave not heard against his master, no wheels by day, the Parilia ash, "Salve", the Cornelian law).
+  - timeline: row 22 rewritten from the page (`plan_was` kept).
+  - timeline_events: the 1991 row now comes from the page, without "as a student". The "spring AD 74 trial" row is replaced by dated page rows from the Kalends of March to the 21 April Parilia. Seven backstory rows added (c. 1973 encyclopedia; Myrrhine AD 63; Marcus autumn 64; the bill's month; the last afternoon of Caesar's games; the night of 69; the dog, summer 73).
+- **Checked against existing entries, no clash:**
+  - The frame is "summer, Vitellius had Rome" = AD 69 (Ch.12), and two years at her back = AD 67-69.
+  - Marcus was born "the autumn after the fire" = AD 64.
+  - The leaf is "the first book of Vettius and Caninius" (Ch.17), and the six living witnesses are strangers (Ch.17).
+  - Plautia is "not thirty" (b. c. AD 44), and "five years" since she laughed (C9).
+  - Mara was 26 in July 1991 (b. early 1965).
+  - "Five. Nearly six." in mid-April fits Lucius in summer AD 74.
+- **Flags:**
+  - **NEW (all info except CH22-5, which is low):**
+    - CH22-1: outline vs page. All three of the outline's routes against the bill are on the page; the Cornelian law is an addition.
+    - CH22-2: about six weeks between the Kalends of March at Puteoli and the mid-April arrival are not accounted for on the page; derived dates.
+    - CH22-3: "this city" reads as Marcus born in Rome. Myrrhine, given at twelve, is not in the dowry list, where the girl is Doris, aged eleven.
+    - CH22-4: the night-of-69 details beyond Ch.12. The stable boy is the second witness. "When he was away" is dropped. The clerk, not the magistrate, wrote the entry.
+    - CH22-5 (low): the bible's Ch.22 walk-on section lags the page ("still at his villa at Tibur"; the advocate reads "like a cargo").
+  - **Rechecked, still open:**
+    - CH12-9: Thrace is now named; the second onion surfacing.
+    - CH16-5 and CH17-6: Myrrhine's "from her father's house" is now on a page.
+    - CH18-5: no status line; the sentence does not rule in words on Valens's freedom.
+    - CH19-6: Myrrhine is present, the knife is not mentioned.
+    - CH21-2: no count of fights; Nero touched the sword.
+  - **CRITICAL:** none.
+  - **knowledge_gap:** none. Celer's "I hear there's to be a child" is covered by the visible pregnancy; his "They tell me it's Valens now" has no path shown and needs none.
+- **meta:** header note, `last_updated`, `last_updated_by`, `mode`, `source`, `last_updated_chapter: 22`, `chapters_tracked` +22, `paragraph_rule` (Ch.22 clause), `ch22_requested_checks`.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - Every ch-22 cite falls in p1..p210. Every quoted Ch.22 fragment added in this run was checked by script against its cited paragraphs, and four inexact quotes and six cites were corrected.
+  - The file holds 351 characters, 106 locations, 158 objects, 20 organizations, 68 plot threads, 117 world rules, 226 timeline_events and 160 contradiction rows.
+  - **56 open** (51 before; +5 CH22-1..CH22-5; none closed).
