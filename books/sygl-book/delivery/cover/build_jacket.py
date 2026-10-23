@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Dust jacket for the Sygl 6x9 hardcover (Blue Digital Cloth w/Jacket, creme, 298 pp).
+"""Dust jacket for the Sygl 6x9 hardcover (Blue Digital Cloth w/Jacket, creme, 300 pp; template generated for 298 pp, spine 0.813 in).
 
 Geometry is taken from IngramSpark's own jacket template for ISBN 979-8-1829-5940-7
 (Request ID CSS5486494, "Dust Jacket Cover Template", document 24 x 12.5 in):

@@ -144,7 +144,7 @@ would no longer hold.
 ## STALE (2026-10-22)
 The 5x8 paperback interior and wrap name ISBN 979-8-1829-5940-7 as the paperback, but the author assigned that ISBN to the 6x9 hardcover in IngramSpark. Do NOT upload the 5x8 files until the paperback has its own ISBN and they are rebuilt.
 
-## Hardcover (6x9, Blue Digital Cloth w/ Jacket, creme, 298 pp) — 2026-10-22
+## Hardcover (6x9, Blue Digital Cloth w/ Jacket, creme, 300 pp) — 2026-10-22
 - ISBN 979-8-1829-5940-7. Interior: `production/Sygl-6x9-hardcover-interior-r1-GRAY-noicc.pdf`.
 - Jacket built from IngramSpark's own template (Request ID CSS5486494; 24 x 12.5 in document,
   bleed art 20.938 x 9.50): `cover/build_jacket.py` -> `cover/Sygl-6x9-hardcover-JACKET.pdf`, then
