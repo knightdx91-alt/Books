@@ -3,7 +3,7 @@
 #### *Pompeii · summer, AD 74*
 
 <!-- SCENE BUDGET (Target 6,200; Fragmented, a night in time-stamped shards by the Roman reckoning of the night, 8 breaks / 9 shards; gear low; dialogue 25-35%): S1 the ninth hour: the water at noon, Grata's back room, Statia and her teeth (the book's one introduction-by-teeth), the guess, who is coming, the stool, Valens in from the string 1,250 | S2 lamp-lighting: Grata's vow to Lucina, the pins and the knots, the eagle-stone, the husband's Chaldean at Puteoli 950 | S3 bedtime: the fuller's wife and her dittany, the lentils and the rival near the water tower, his feet in the court, his arm, "Men out" 1,000 | S4 midnight: the door to the court, the dun's feet by lamplight, Felix's questions, "How far?" 850 | S5 past midnight: level 3, sound only, the teeth, Mrs. Dunphy in brown, untagged speech, the rasp stopping and starting 650 | S6 cockcrow: the birth, slow; a boy; the cloth on the floor; he cannot lift him until she shows him 1,000 | S7 after the cocks: salt and bands, the first milk refused and given, Grata to the street, Felix 750 | S8 first light: Statia goes, the name 300 | S9 morning: the watch 150 -->
-<!-- Word count: style 5,783 / wc 6142 | Writer draft 2026-10-23; continuity repair 2026-10-23 (audit ch-24: 6 CRIT, 15 WARN, INFO 03/07/10/12, entity CH24-2) | Target: 6,200 (93%) | Dialogue 29.0% show_tell (band 25-35) | Breaks 8 (9 shards, Roman night reckoning) | Median sentence 10 (gear low) | Opens I-punch ('I hated the midwife.'), closes quiet (the watch wound, hand tucked under the sheet) | Em-dash 0 | And-chains 8 (cap 9) | Negation pivots 0 | Credential asides 0 by gate | Echoes 0 | check_chapter.sh 24 ALL MECHANICAL GATES CLEAN | Anchor: Valens holding his son out on locked arms like a jar caught just short of the stones, then drawing him in; the tenderness is the four-times-trimmed dun's feet at midnight -->
+<!-- Word count: style 5,707 / wc 6071 | Writer draft 2026-10-23; continuity repair 2026-10-23 (audit ch-24: 6 CRIT, 15 WARN, INFO 03/07/10/12, entity CH24-2); evaluator cycle 0 F1-F7 applied, cycle 1 PASS, finalize FN1-FN2 | Target: 6,200 (92%) | Dialogue 29.2% show_tell (band 25-35) | Breaks 8 (9 shards, Roman night reckoning) | Median sentence 10 (gear low) | Opens I-punch ('I hated the midwife.'), closes quiet (the watch wound, hand tucked under the sheet) | Em-dash 0 | And-chains 8 (cap 9) | Negation pivots 0 | Credential asides 0 by gate | Echoes 0 | check_chapter.sh 24 ALL MECHANICAL GATES CLEAN | Anchor: Valens holding his son out on locked arms like a jar caught just short of the stones, then drawing him in; the tenderness is the four-times-trimmed dun's feet at midnight -->
 
 I hated the midwife.
 
@@ -313,7 +313,7 @@ The rasp, outside, had stopped.
 
 *Cockcrow*
 
-A cock went off somewhere toward the forum. A second took it up from nearer, from some yard on our street, and a third farther down, and then they were all at it the length of the town, while the lamp burned low on the shelf and Grata held me up from behind.
+A cock went off somewhere toward the forum. A second took it up from nearer, from some yard on our street, and a third farther down, and then they were all at it the length of the town, while the lamp burned low on the shelf.
 
 Statia said, "Now," and I pushed with everything there was, and burned where he was coming, and then gave. He arrived in one rush, long and slippery and heavy, into her hands, and he was crying before she had him turned. It was a thin, cross, cracked sound, very close, and it filled the room to the ceiling and woke the flies.
 
@@ -369,7 +369,7 @@ He sank where he stood, onto the ground beside the stool with his back to Grata'
 
 In the end she had to unfasten the child from him, finger by finger.
 
-My legs began to shake, and the stool rocked under me. Grata climbed down to the front of me and pinned my knees with her palms till it passed.
+The shaking was back in my legs, and the stool rocked under me. Grata climbed down to the front of me and pinned my knees with her palms till it passed.
 
 Outside the cocks were still at it.
 
