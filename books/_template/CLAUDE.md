@@ -45,7 +45,8 @@ books/<slug>/
 ├── evaluations/               # per-chapter eval reports + continuity/ audits
 ├── feedback/progress.md       # exact resume point
 ├── delivery/                  # editorial package + production files
-└── tools/style_check.py       # style gate (edit ALLOWLIST for this book's motifs)
+└── tools/                     # the gate kit: check_chapter.sh runs them all; edit style_check.py
+                               # ALLOWLIST for this book's motifs, and set DEFAULT_POV in voice_wear_check.py
 ```
 If this book is part of a series, it sits under `books/<series-slug>/<book-slug>/` and also
 answers to the series bible — see `docs/SERIES.md`.
@@ -58,13 +59,22 @@ answers to the series bible — see `docs/SERIES.md`.
 3. Produce the next chapter IN ORDER. On a revise run, locate its material in `research/`
    and REVISE/EXPAND to the roadmap beats — do not invent from scratch. Match the locked
    Ch.1 voice if one exists. Run each chapter through: write → dialogue-polish → hook-craft
-   → disruptor → evaluate → quality gate.
+   → disruptor → entity-tracker UPDATE + continuity-guardian audit (EVERY chapter, against all
+   prior chapters) → editor repair → `tools/check_chapter.sh N` → evaluate → quality gate →
+   sync the character bible's SPENT / CLOSED lists to the final page.
 4. Commit per chapter: `git add -A && git commit -m "genesis: finalize chapter N"`.
 
 ## Quality gates (all must pass before a chapter is "done")
 - **Genesis Floor ≥ 8.5** (book-evaluator); below → book-editor polish loop (max 5).
-- **Style check** — `python3 tools/style_check.py` clean: simile ≤4/1k, em-dash ≤~10/1k,
-  no NEW cross-chapter repeated phrase (add deliberate motifs to ALLOWLIST), tics under ceiling.
+- **Every mechanical gate in one command** — `bash tools/check_chapter.sh N` must print
+  `ALL MECHANICAL GATES CLEAN` (it exits non-zero otherwise).
+- **Style check** — `python3 tools/style_check.py` clean: simile ≤4/1k, em-dash ≤4 per chapter
+  (absolute), **foreshadowing 0** (pipeline default), no NEW cross-chapter repeated phrase (add
+  deliberate motifs to ALLOWLIST), tics under ceiling.
+- **Figurative restraint (pipeline standard)** — characterizing comparisons only, never analytical;
+  ≤1 "as if/as though" per chapter; no comparison used twice in the book; no metaphor-stacking or
+  closing aphorism; `python3 tools/metaphor_check.py N` under its ceilings. Full list:
+  `docs/QUALITY-GATES.md` → "The figurative-restraint standard".
 - **Grammar check** — `python3 tools/grammar_check.py` clean (tier 1 gates: doubled words,
   space-before-punctuation, a/an mismatch).
 - **Motif cap (author standing rule)** — no signature narrative tic-phrase may recur more than

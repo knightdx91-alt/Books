@@ -278,6 +278,18 @@ entry:
 - **The gates will catch it anyway:** `voice_wear_check.py` fails on a phrase repeated across chapters,
   `tic_report.py --gate` on any phrase recurring 3+ times book-wide AND on any gesture class that
   clusters (4+ in a chapter, or > 0.3 per 1,000 words book-wide) — so write it clean the first time.
+- **Figurative restraint (pipeline standard, from The Hour of Ash):** comparisons are *characterizing*
+  only (they make the reader see or smile), never analytical (never interpreting a feeling); ≤1 "as if /
+  as though" per chapter; no comparison used twice in the book; no metaphor-stacking; no closing
+  aphorism; ≤1 present-tense generalisation in past narration; em-dash ≤4 per chapter. Under real fear,
+  grief or at a climax, drop comparisons altogether. Honour each character's figurative rule on their card.
+- **Narrated states count like gestures.** Do not note the same physical state of one character (eyes
+  closed, waiting, a trembling hand, staying still, turning on a stool) more than 3 times in a chapter,
+  and never 3 inside ~500 words. Infants and animals get no borrowed adult moods.
+- **Nothing on the bible's SPENT / CLOSED lists comes back,** in any words. Read them before you draft.
+- **One command runs every mechanical gate:** `bash tools/check_chapter.sh N` from the book folder. It
+  must print ALL MECHANICAL GATES CLEAN before you hand the chapter over (if the book predates it, copy
+  it and its three companion gates from `books/_template/tools/`).
 If the architect built the bible under a different filename (e.g. voice cards inside `voice-dna.md`),
 add the entry there and note it; the point is one canonical, growing home for cast distinctness.
 

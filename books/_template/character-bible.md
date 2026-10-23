@@ -35,6 +35,16 @@ Distinguish characters on **four axes** first:
 - **Enforced every chapter:** `voice_wear_check.py` (self-repetition FAILS), `tic_report.py --gate`
   (any non-allowlisted phrase 3+ times book-wide, or any spoken 3+-word phrase recurring, FAILS).
 - **Retired / at-risk phrases** (fail on sight): `never once`, _<add per book>_
+- **SPENT / CLOSED ledger (kept at every chapter's bible sync).** After each chapter is final, log in an
+  `At-risk after Ch.N` block every distinctive move the page used: images, comparison frames, a
+  character's body-channel (how they laugh, cry, go still), set pieces, spoken lines, and narrated
+  states. Mark each USED (n of cap), SPENT (no more uses) or CLOSED (never again, in any words), and
+  log the strings later passes cut as CUT (never restore). The writer and every reviser read this
+  before touching a chapter. It is what stops a long book from rebuilding its best moments.
+- **Figurative rule per character.** Each card says how that character compares things, if at all
+  (e.g. "never uses a simile in speech"). Narration follows the voice-dna figurative standard.
+- **Narrated states count like gestures:** no character's physical state noted more than 3 times in a
+  chapter; infants and animals get no borrowed adult moods.
 
 ## Voice-card format (one per named character)
 

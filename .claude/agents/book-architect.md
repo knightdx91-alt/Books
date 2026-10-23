@@ -482,6 +482,29 @@ The quantitative guardrail the Disruptor enforces, set per genre (from `research
 - Emotional temperature reports ("a wave of sadness washed over her"): [ceiling]
 This budget is what the Writer aims under and the Disruptor cuts down to.
 
+**PIPELINE DEFAULTS — the figurative-restraint standard (proven on The Hour of Ash; the author wants it in
+every book).** Write these into every `voice-dna.md` as binding, then tune only the numbers to the genre:
+- **Characterizing simile only.** A comparison may make the reader *see* a thing or *smile*; it may never
+  *interpret* a feeling or explain what a moment meant (that is the analytical simile, Pattern #11). Aim
+  ≤3/1k, gate ≤4/1k (`style_check.py --max-simile`). Under real fear or grief: none.
+- **"as if" / "as though" ≤1 per chapter**, and that one characterizing.
+- **No comparison used twice in the book**, and rotate the narrator's comparison SOURCE domains (no one
+  domain supplies more than about half of a chapter's comparisons).
+- **No metaphor-stacking** ("her body a [noun] of [noun]"), no lyrical escalation at a climax, no closing
+  aphorism. One characterizing comparison at most per heat scene; ≤1 per chapter in the final act.
+- **Present-tense generalisations inside past narration ≤1 per chapter** ("as a man does when…") —
+  `tic_report.py --gate` enforces it.
+- **Figurative load ≤6 markers/1k and long sentences (40+ words) ≤18%** — `metaphor_check.py` catches the
+  bare metaphors and "as ADJ as" similes `style_check` cannot see. Calibrate the ceilings to the register.
+- **Em-dash ≤4 per chapter, absolute** (semicolons do the work); spaced en-dashes count.
+- **Assign each character a figurative rule on their card** (e.g. "never uses a simile in speech").
+  Characters who never compare aloud are a cheap, strong distinctness axis.
+- **NO FORESHADOWING by default** (`style_check.py --max-foreshadow 0`): a retrospective narrator never
+  reaches forward to spoil an unreached outcome. Relax only by an author ruling recorded in STATE.yaml.
+- **Spent/closed lists in the character bible.** Every distinctive image, frame or body-channel used on
+  the page is logged as USED / SPENT / CLOSED with a count, and downstream agents may not rebuild a
+  closed one in new words. This is what keeps a long book from re-using its best moves.
+
 ### 5. Benchmark Samples
 Name the 2-3 voice-bank samples (from controlled / breaking / irrelevant-thought) that best embody the global voice — the canonical targets every downstream agent measures against.
 

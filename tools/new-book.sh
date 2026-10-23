@@ -68,6 +68,12 @@ mkdir -p "$DEST"/{research,manuscript/chapters,evaluations/continuity,feedback,d
 [[ -f "$TPL/tools/grammar_check.py" ]]&& cp "$TPL/tools/grammar_check.py" "$DEST/tools/grammar_check.py"
 [[ -f "$TPL/tools/voice_wear_check.py" ]]&& cp "$TPL/tools/voice_wear_check.py" "$DEST/tools/voice_wear_check.py"
 [[ -f "$TPL/tools/tic_report.py" ]]      && cp "$TPL/tools/tic_report.py"      "$DEST/tools/tic_report.py"
+# The rest of the per-chapter gate kit (proven on The Hour of Ash): figurative load + sentence shape,
+# rhythm, show/tell, the one-command gate runner, and the reading-copy PDF builder.
+for t in metaphor_check.py rhythm_check.py show_tell_check.py check_chapter.sh build_pdf.py; do
+  [[ -f "$TPL/tools/$t" ]] && cp "$TPL/tools/$t" "$DEST/tools/$t"
+done
+chmod +x "$DEST/tools/check_chapter.sh" 2>/dev/null || true
 [[ -f "$TPL/delivery/ebook.yaml" ]]     && cp "$TPL/delivery/ebook.yaml" "$DEST/delivery/ebook.yaml"
 [[ -f "$TPL/delivery/cover.yaml" ]]     && cp "$TPL/delivery/cover.yaml" "$DEST/delivery/cover.yaml"
 [[ -f "$TPL/delivery/acx.yaml" ]]       && cp "$TPL/delivery/acx.yaml" "$DEST/delivery/acx.yaml"

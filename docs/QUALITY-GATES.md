@@ -252,10 +252,39 @@ Writer is prompted from it, and this script proves the manuscript actually kept 
 on finalized chapters means revising the most recent offender's opening or closing — a
 signature change, not a rewrite.
 
-### Other per-book checkers
+### The rest of the kit — shipped with every new book
 
-Books that needed them grew them; copy any into a book with the same problem:
-`rhythm_check.py`, `tic_report.py`, `show_tell_check.py`, `metaphor_check.py`.
+Proven on *The Hour of Ash* and seeded into every book by `new-book.sh`:
+
+- **`metaphor_check.py`** — figurative load and sentence shape. `style_check` counts only simile
+  markers; this finds bare metaphor ("he was a furnace", "the machine of himself"), "as ADJ as"
+  similes and appositive image-nouns by construction, and the share of 40+-word sentences.
+  Ceilings: ≤6 figurative markers per 1,000 words, ≤18% long sentences (calibrate per register).
+- **`rhythm_check.py`** — the observation / reflection / expanded-reflection paragraph template.
+- **`show_tell_check.py`** — dialogue share, filter verbs and abstraction; flags the heaviest
+  telling paragraphs so they become scene before the evaluator sees them.
+- **`check_chapter.sh N`** — runs every gate for chapter N in one go (style, grammar, rhythm,
+  show/tell, voice-wear, the tic gate, the echo scan, metaphor, word count, shape audit) and
+  **exits non-zero if any line says FAIL**. A chapter is mechanically clean only when it prints
+  `ALL MECHANICAL GATES CLEAN`.
+- **`build_pdf.py`** — a 6×9 reading-copy PDF of the chapters so far (`--upto N`); title from STATE.yaml.
+
+### The figurative-restraint standard (pipeline default)
+
+The architect writes these into every `voice-dna.md`; the writer drafts under them; the gates and
+the evaluator enforce them:
+
+- comparisons are **characterizing** (make the reader see or smile), never **analytical** (never
+  interpret a feeling) — aim ≤3/1k, gate ≤4/1k; none under real fear, grief or at a climax;
+- "as if / as though" ≤1 per chapter; no comparison used twice in a book; rotate source domains;
+- no metaphor-stacking, no lyrical escalation, no closing aphorism;
+- ≤1 present-tense generalisation in past narration per chapter;
+- em-dash ≤4 per chapter, absolute;
+- **no foreshadowing** (`style_check --max-foreshadow 0` is the default; relax only by author ruling);
+- each character carries a figurative rule on their card; some never compare aloud;
+- **narrated states count like gestures**: no character's physical state noted more than 3 times
+  a chapter (the evaluator counts them by hand, exhaustively, on the first pass);
+- the character bible keeps **SPENT / CLOSED lists**, and nothing on them is rebuilt in new words.
 
 ### The word floor
 
@@ -306,14 +335,12 @@ polishes chapters, and no amount of chapter polish fixes a spine.
 ## The running order
 
 ```bash
-# per chapter, after the agent loop
-python3 books/<slug>/tools/style_check.py
-python3 books/<slug>/tools/grammar_check.py
-python3 books/<slug>/tools/voice_wear_check.py   # whole-book; run periodically
+# per chapter, after the agent loop — every gate in one command (non-zero exit = not clean)
+bash books/<slug>/tools/check_chapter.sh N
 git add -A && git commit -m "finalize chapter N"
 
-# every 3-5 chapters
-#   entity-tracker UPDATE, continuity-guardian audit
+# every chapter (the drift policy proven on The Hour of Ash)
+#   entity-tracker UPDATE, continuity-guardian audit of the new chapter against ALL prior chapters
 
 # at the end
 wc -w books/<slug>/manuscript/chapters/chapter-*.md    # word floor

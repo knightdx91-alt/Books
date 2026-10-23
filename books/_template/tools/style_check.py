@@ -35,10 +35,10 @@ ADVERB = re.compile(r"\b\w+ly\b", re.I)
 WORD = re.compile(r"[a-z']+", re.I)
 
 # FORESHADOWING / narratorial foreknowledge-intrusion — a retrospective narrator reaching
-# FORWARD to spoil an unreached outcome. It is an AI-ish tell and some authors ban it outright
-# (e.g. The Hour of Ash, author ruling 2026-09-28: book-wide target 0). Reported informationally
-# by default; a book enforces it hard with --max-foreshadow 0 (or N). These patterns aim at the
-# forward-gesture constructions and try to avoid ordinary past-facing reflection.
+# FORWARD to spoil an unreached outcome. It is an AI-ish tell, and the pipeline bans it by default
+# (--max-foreshadow 0, the standard The Hour of Ash proved); a book relaxes it only by an author
+# ruling (-1 = informational, N = allow N). These patterns aim at the forward-gesture constructions
+# and try to avoid ordinary past-facing reflection.
 FORESHADOW_PATTERNS = [
     r"\b(?:i|we|she|he|they)\s+(?:did|does)\s*n[o']?t\s+(?:yet\s+)?know\b",
     r"\blittle\s+did\s+(?:i|we|she|he|they)\s+know\b",
@@ -112,10 +112,11 @@ def scan():
     ap.add_argument("--motif-cap", type=int, default=MOTIF_CAP_DEFAULT,
                     help="book-wide occurrence cap for any ALLOWLIST motif (author rule: "
                          "no signature tic-phrase recurs more than this; per-entry (phrase,N) overrides)")
-    ap.add_argument("--max-foreshadow", type=int, default=-1,
+    ap.add_argument("--max-foreshadow", type=int, default=0,
                     help="per-book cap on narratorial FORESHADOWING / foreknowledge intrusions "
-                         "('I would learn', 'the last time I would', etc). -1 = informational only "
-                         "(never fails); set 0 to ban them outright, N to allow N.")
+                         "('I would learn', 'the last time I would', etc). Pipeline default 0 (banned; "
+                         "the standard proven on The Hour of Ash). -1 = informational only, N to allow N "
+                         "— relax it only by an author ruling recorded in STATE.yaml.")
     args = ap.parse_args()
     motif_caps = _motif_caps(args.motif_cap)
 

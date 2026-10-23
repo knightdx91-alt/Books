@@ -119,6 +119,24 @@ phrase list** (seeded with "never once"), and `voice_wear_check.py` + `tic_repor
 catch calcification every chapter. Prevention by construction, because detection at
 chapter 30 is already too late.
 
+## The SPENT / CLOSED ledger (pipeline standard since The Hour of Ash)
+
+A long book's real risk is not a catchphrase but a **re-used move**: the same laugh, the same entrance,
+the same comparison frame, rebuilt in fresh words twenty chapters later. So at every chapter's bible
+sync the writer (bookkeeping mode) adds an `At-risk after Ch.N` block that logs what the final page
+spent:
+
+- **USED (n of cap)** — a phrase or image with budget left;
+- **SPENT** — used up; no further uses;
+- **CLOSED** — never again, in any wording (a body-channel, a frame, a set piece);
+- **CUT** — strings a pass removed; they must never be restored;
+- **guards for the next chapter** — what its hook/pull may not be, what it must not pre-empt.
+
+The writer, dialogue-polish, the disruptor, the editor and the evaluator all read the ledger before
+touching a chapter, and a replacement string that rebuilds a closed move is a finding, not a fix.
+Narrated states (a character's closed eyes, waiting, stillness, a trembling hand) are counted like
+gestures: more than 3 in a chapter fails.
+
 ## The card format
 
 ```
