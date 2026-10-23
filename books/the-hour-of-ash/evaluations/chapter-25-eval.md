@@ -292,3 +292,88 @@ Tested on a scratch copy of the book folder (`/tmp/claude-0/-home-user/63791ee5-
 **POLISH.** Genesis Floor 8.0 (Characters) < 8.5; Casual 9.0 ✓; pacing OK ✓; mechanical gates clean ✓. Apply the tested script (F1–F11) and re-evaluate. Nothing structural, and no beat to rewrite: this is the strongest chapter of Part Two, held below the gate only by stage notes repeated past the hand rule.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Re-evaluation — cycle 1
+**Evaluator:** book-evaluator (independent) | **Date:** 2026-10-23 | **Text:** `chapter-25.md` md5 `64f3e4ff52d8eb3221e0ba5771ad29ca` (cycle-0 set F1–F11 applied)
+
+### Verification of the cycle-0 set
+- **All 15 replacements landed once:** every old string is at 0, and every new string is at 1 on the page.
+- **Gates on the real file:**
+  - `check_chapter.sh 25`: ALL MECHANICAL GATES CLEAN, SHAPE CLEAN (`scene-set` / `punch`).
+  - `tic_report.py --gate`: clean. Ch.25 gesture layer: 'a (long) moment' 2, shrug 1.
+  - `--echoes 25`: 0 / 0 / 0.
+  - Metrics: 7,460 words (metaphor row), median 11, mean 16.1, 5.6% of sentences over 40 words, simile 19.
+- **Cut effects:** none restored. "post", "two steps inside", "swung round to the doorway", "away again", "shaking dice", "lead staple", "in a Chaldean's robe" (page), "Nineteen ninety-eight.", "he told it" and "pause for breath" are all at 0.
+- **Sample-09:** no lifts remain on the page. The "five years / first English" idea is the reserved frame in fresh words, as ruled at cycle 0. "Late summer, seventy-nine." is the planned verbatim WHEN, 1 of 2.
+- **Closed/spent frames:** no new hits from F1–F11.
+- **What the set planted.** F1b "turned it so that the leggy side faced the room, **and left it**" has two problems:
+  - *it* takes "the room" as its nearest antecedent, so the clause reads first as Valens leaving the room, and two paragraphs later he is still in it.
+  - It rebuilds Valens's Ch.20 l.573 "weighed it **and left it**". The echo scan is too short to catch this. → **G3**
+
+### Narrated-trait hand counts (redone; spec: >3 notes of one state, or 3 inside ~500 words, fails)
+| Character | Item | Lines (current page) | Count | Verdict |
+|---|---|---|---|---|
+| Valens | doorway station | 80, 390, 428 | 3, with "post"/"place" ×0 | ✓ (F1 landed) |
+| Valens | looks back at Fenn | 246, 304 | 2 | OK |
+| Valens | watches | 80, 390 | 2 | OK |
+| Valens | "and left it" | 236 (+ Ch.20 l.573) | ambiguity plus a cross-chapter rebuild | **G3** |
+| Fenn | left-hand tremor | 38, 382, 394 | 3 | ✓ (F2 landed). "good hand" 102/426 and "bad hand" 382 are identifiers, not tremor notes: WATCH, ≤1 per chapter from Ch.26 |
+| Fenn | **talks on regardless (narrated)** | 186 "off again", **218 "went on at the wall about the bathhouse keeper's pool", 228 "was in the bathhouse keeper's pool again", 236 "talked straight through it"** | **4, and 3 inside ~425 words (218→236)**, with "the bathhouse keeper's pool" verbatim in narration 182 words apart | **FAILS.** Cycle 0 missed l.218. → **G1, G2** |
+| Fenn | turns (stool, round, to the wall) | 54, 90, 218, 234, **290**, **414**, 432 | **7** (cycle 0 missed 290 "then turned to me" and 414 "faced the wall again"); "swung round" ×1; no 3 inside 500 words | 0.94/1k, at the long-chapter cap. Cut the one unmotivated turn → **G5** (6) |
+| Fenn | lighter handled | 52, 168, 234, 260 | 4, spread | OK (card object, never lit) |
+| Fenn | hurries | 210 | 1 | OK (the lonely-host tell) |
+| Mara | words escape her | 308 "The number escaped me unchecked", 378 "could not unsay them" | 2 (l.48 is reception, not escape) | OK. WATCH for the book (cf. Ch.7 l.334; the gate tracks 'before I decided'): ≤1 in Ch.26 |
+| Mara | voice out of control | 344 | 1 | OK |
+| Mara | looks away / at | 164, 360 | 2 | OK |
+| Mara | satchel | 230, 372, 400 | 3, spread over 170 lines | OK |
+| Mara | legs gone / legs held | 60 / 442 | designed pair | OK |
+| Lucius | **adult indignation lent to the baby** | **14 "glared", 80 "objected", 218 "grunt of grievance", 236 "cross about it", 278 "deep suspicion"** | **5** | **FAILS** (>3). Same device as Ch.24's "hated it and said so" / "furious", now a narrator habit. Keep the three the cycle-0 eval preserves (80, 218, 278) → **G4a, G4b** |
+| Lucius | crying / fury (events) | 212, 292–298 | 2 | OK: these are things that happen, not labels |
+
+### Re-scored Genesis (max ±0.5 per dimension)
+| Dimension | Cycle 0 | **Cycle 1** | Basis |
+|---|---|---|---|
+| Originality | 9.0 | **9.0** | unchanged; no beat touched |
+| Theme | 9.0 | **9.0** | unchanged |
+| Characters | 8.0 | **8.0** | Three of cycle 0's four cap reasons are cleared: Valens 6→3, tremor 4→3, "swung round" ×1 with the blocking fixed. **The cap still applies on the corrected count:** Fenn's narrated talk-on is 4, with 3 inside ~425 words (l.218/228/236), and Lucius's lent indignation is 5. Also, the turn class was undercounted at cycle 0 (7, not 5). Uncapped value stays 9.0. |
+| Prose & Voice | 8.5 | **8.5** | F6–F10 landed: sample lifts 0, SPENT staple gone, "he told it" gone, and the law-word is Fenn's alone in that passage. The F1b ambiguity is a slip, not a cap. Stopping sentence intact (l.60). |
+| Pacing | 8.5 | **8.5** | dialogue 49.5–50% in band; length 89% of target; value shift ×2; the l.186–236 middle is unchanged. **PACING: OK.** |
+| Emotion | 9.0 | **9.0** | unchanged; anchor, body rebel, surprise intact |
+| Immersion | 9.0 | **9.0** | both blocking slips fixed (F1a far sill, F5 stool/table). G3 removes the last ambiguity in the room. |
+| **FLOOR / AVERAGE** | 8.0 / 8.71 | **8.0 / 8.71** | Characters |
+
+**Casual Reader 9.0** (unchanged: the lighter, "Thanks," and the bus all hold). **CVI-Launch 9.8** (9.29 + 0.5 anchor). **CVI-Legacy 7.3.** Anti-AI 7/20, all minor, CLEAN. #11 at 4 (0.54/1k), under cap. Divergence: Launch 9.8 vs Floor 8.0 = 1.8.
+
+### Cycle-1 fixes (TESTED)
+`/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes25b/apply_fixes.py <path/to/chapter-25.md>` holds 8 exact replacements. Each old string must occur exactly once or the script aborts and writes nothing; a second run aborts.
+
+| # | Location | Type | Now | Revision |
+|---|---|---|---|---|
+| G1 | l.236 | Character (narrated state) | "Fenn talked straight through it, and then abandoned the shakes in mid-run" | → "Fenn abandoned the shakes in mid-run". Mara's "While you were telling me about the ground" (l.420) and "Who moved my basil?" carry the payoff. |
+| G2 | l.218 | Character + Style (verbatim narration) | "and went on at the wall about the bathhouse keeper's pool, a little louder than before." | → "and went on at the wall, louder than before." (The first draft, "…wall, a little louder…", tripped a Ch.16 echo "wall a little" and is not in the script.) l.228's "in the bathhouse keeper's pool again" stays as the single narrated use. |
+| G3 | l.236 | Logic + Continuity (planted by F1b) | "…where the sun lay full, turned it so that the leggy side faced the room, and left it." | → "…where the sun lay full, and turned it so that the leggy side faced the room." |
+| G4a | l.14 | Character (lent indignation) | "and at eight months Lucius glared at the gulls." | → "and at eight months Lucius was busy with the gulls." (The first draft, "Lucius, eight months old", echoed the outline dateline and is not in the script.) |
+| G4b | l.236 | Character (lent indignation) | "Lucius, fed and drowsy and cross about it, was handed" | → "Lucius, fed and drowsy, was handed" |
+| G5 | l.290 | Character (turn class) | "He watched Lucius a while longer, then turned to me." | → "He watched Lucius a while longer." (the next line goes to her without the turn) |
+| H1/H2 | l.6 header | bookkeeping | stale figures, and the comment quotes sample-09's "in a Chaldean's robe" | re-synced to the patched page |
+
+**Test** (scratch copy `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/rt25c1/books/the-hour-of-ash`, starting from md5 `64f3e4ff…`):
+- 8 applied; the re-run aborts (exit 1). Patched md5 **`b48ee45ffd9c66ae10c545431295bb4c`**.
+- `check_chapter.sh 25`: **ALL MECHANICAL GATES CLEAN**, SHAPE CLEAN (`scene-set` / `punch`). `--gate` clean. `--echoes 25`: 0 / 0 / 0.
+- Metrics: 7,438 words (shape), dialogue 49.7–50%, median 11.
+- Every new string was grepped against Ch.1–24, samples 01–13, outline/foundation/voice-dna and the bible ("busy with the gulls", "fed and drowsy, was", "louder than before", "Fenn abandoned", "watched Lucius a while", "leggy side faced the room."). There are no hits outside Ch.25 itself.
+- No cut string is restored. No closed-list item is used.
+
+**After G1–G5:** Valens station 3; Fenn talk-on 3 (186/218/228, never 3 in 500); Fenn turns 6; Lucius lent indignation 3. **Projected:** Characters 8.5 (+0.5) → **Floor 8.5 / Average 8.79 / Casual 9.0 / CVI-Launch 9.8 / CVI-Legacy 7.3**, to be confirmed on the patched page.
+
+### Bookkeeping to carry into finalize (in addition to the cycle-0 list)
+- LUCIUS card, Ch.25: the "deep offense he kept for anything that moved…" quote is stale (the repair changed it to "glared"; after G4a it is "was busy with the gulls"). Drop "cross about it". SPENT: lent adult indignation for the baby. Aelia (Ch.26) gets none of objected / grievance / suspicion.
+- Ch.25 walk-on block: "the rich men's boys who throw figs" → "olive pits". Pat: "hosing down her steps every evening all summer, even the evenings it rained".
+- CUT (never restore): every old string in G1–G5, plus F1b's "and left it".
+
+## VERDICT (cycle 1)
+**POLISH.** Genesis Floor 8.0 (Characters) < 8.5. Casual 9.0 ✓; pacing OK ✓; gates clean ✓. F1–F11 landed and cleared three of the four cycle-0 cap reasons. On a full recount, Fenn's narrated talk-on (3 inside ~425 words) and Lucius's lent indignation (5) still break the hand rule, and F1b planted one ambiguity. Apply `fixes25b/apply_fixes.py` (tested) and re-evaluate. Nothing structural.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

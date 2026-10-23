@@ -3,7 +3,7 @@
 #### *Puteoli · early spring, AD 75*
 
 <!-- SCENE BUDGET (Target 8,400; Single-scene, one afternoon in one upper room behind the tunny sheds; 0 breaks; gear mid; dialogue 45-55%): the quay, the stair, the room (scene-set) 900 | recognition: the lighter, the mutter, "Thanks," "Jesus H. Christ" 550 | the collapse (laughter and tears at once, the hands that save the papyrus) 350 | Valens in the doorway: the language heard, the flush, nobody says so 500 | the rush: where, when, Baltimore Avenue, the moon refused, the Phillies 1980 / 1964, her father circled 1,100 | the WHEN blurted, flat and fast 300 | her deflection: 1968, the snow, AD 41, Claudius, the sky the Navy taught; the wine he paid for; the automat; the packed bag 1,500 | her own road told back: Delphi, the god, Valens carrying the question 450 | 62 and the law: Misenum, the carter's story, one door with many mouths, the promise, hours not days 900 | the others: Lucius in the sand; "Beats me"; always alone; Valens's one question 600 | the fig leaf: 71, 73, the Ides of October a mile away, the schoolbook year, the refusal 1,200 | the notebook: tremor notes, Pine Street, the estate sale, the trolley, "Keep it" 800 | close: the light, the child's stars, the letters, the stadium she does not tell him about, the punch 500 -->
-<!-- Word count: shape 7,499 / style 7,555 / wc incl. header ~7,860 | Writer draft 2026-10-24; continuity repair 2026-10-23 (audit: 7 CRIT, 18 WARN, 6 INFO addressed) | Target: 8,400 (89%) | Dialogue 49% (band 45-55) | Breaks 0 (single scene, one afternoon) | Median sentence 11-12 (gear mid planned; a 48%-dialogue two-hander lands low-mid) | Opens scene-set ("It was the first fair week after the sea opened..."), closes punch, single-sentence paragraph ("I told him his arithmetic was wrong.") | Em-dash 3 | And-chains 6 (cap 9) | Negation pivots 0 | Credential asides 0 | Echoes 0 | Tic gate clean | check_chapter.sh 25 ALL MECHANICAL GATES CLEAN | Anchor: an old man in a Chaldean's robe saying "Jesus H. Christ" in a Philadelphia accent -->
+<!-- Word count: shape 7,438 / wc incl. header ~7,800 | Writer draft 2026-10-24; continuity repair 2026-10-23 (audit: 7 CRIT, 18 WARN, 6 INFO addressed); evaluator polish cycles 0-1 (F1-F11, G1-G5) | Target: 8,400 (89%) | Dialogue 49.7% (band 45-55) | Breaks 0 (single scene, one afternoon) | Median sentence 11-12 (gear mid planned; a 48%-dialogue two-hander lands low-mid) | Opens scene-set ("It was the first fair week after the sea opened..."), closes punch, single-sentence paragraph ("I told him his arithmetic was wrong.") | Em-dash 3 | And-chains 6 (cap 9) | Negation pivots 0 | Credential asides 0 | Echoes 0 | Tic gate clean | check_chapter.sh 25 ALL MECHANICAL GATES CLEAN | Anchor: the lost-lighter mutter, "Thanks," then "Jesus H. Christ" in a Philadelphia accent -->
 
 It was the first fair week after the sea opened, and the fish quay at Puteoli smelled of brine, pine tar and the wet straw the tunny came packed in. The sheds stood one beside the next behind the quay with their doors propped open, and inside them men were cutting fish as long as themselves on stone slabs. The blood ran off down channels in the floors and under the sills into the gutter, and the gulls stood in it to their ankles and fought over what came out.
 
@@ -11,7 +11,7 @@ We had brought eleven mule-loads up the shore road from Pompeii, roof tile for a
 
 A boy with a basket of sprats on his head showed us the place for a copper. Behind the third shed a wooden stair climbed the outside of a warehouse wall to a door just below the roof, and its treads were gray and salt-furred.
 
-Valens spent a while eyeing the stair. He had Lucius on his forearm, facing out, with both fists full of his father's tunic and his feet going against his father's belt, and at eight months Lucius glared at the gulls.
+Valens spent a while eyeing the stair. He had Lucius on his forearm, facing out, with both fists full of his father's tunic and his feet going against his father's belt, and at eight months Lucius was busy with the gulls.
 
 "The third tread's split."
 
@@ -215,7 +215,7 @@ Lucius had begun to complain in earnest, with his face pushed into the side of h
 
 "Give him to me."
 
-He carried him down the room into my arms, and I loosened my tunic at the throat and gave Lucius what he was after, and he took it with a grunt of grievance at having been kept waiting. Fenn broke off halfway into the hot springs. He looked at the ceiling. Then, with a great scraping, he turned his stool round until he sat with his shoulder blades to the room and his nose to the red curve, and went on at the wall about the bathhouse keeper's pool, a little louder than before.
+He carried him down the room into my arms, and I loosened my tunic at the throat and gave Lucius what he was after, and he took it with a grunt of grievance at having been kept waiting. Fenn broke off halfway into the hot springs. He looked at the ceiling. Then, with a great scraping, he turned his stool round until he sat with his shoulder blades to the room and his nose to the red curve, and went on at the wall, louder than before.
 
 "You can turn around. Nobody minds that here."
 
@@ -233,7 +233,7 @@ In a corner a sleeping mat had been rolled tight and tied with a cord, as a sail
 
 "Me?" Round he came on the stool, honestly surprised. "What would I do that for? I'm not staying. You don't go buying furniture in a hotel." He waved the hand with the lighter in it at his room, and rested his case. "There was a widow in Neapolis who did my laundry and thought I ought to, for a while, and she was a nice woman, she made a fish stew you'd have walked to Neapolis for. But you can't do that to a person. Marry them and then go home on them. That's a lousy thing to do to a person."
 
-Lucius, fed and drowsy and cross about it, was handed along the room to his father. At some point Valens passed behind my stool, saying nothing, took the basil pot off the sill and moved it along to the end of the sill where the sun lay full, turned it so that the leggy side faced the room, and left it. Fenn talked straight through it, and then abandoned the shakes in mid-run and fixed me with his pale eyes.
+Lucius, fed and drowsy, was handed along the room to his father. At some point Valens passed behind my stool, saying nothing, took the basil pot off the sill and moved it along to the end of the sill where the sun lay full, and turned it so that the leggy side faced the room. Fenn abandoned the shakes in mid-run and fixed me with his pale eyes.
 
 "How'd you know where Pompeii's was?" he said. "You can't have had it from anybody back there, I couldn't have found Pompeii's on a map myself till sixty-two. Who put you onto it?"
 
@@ -287,7 +287,7 @@ Fenn looked at the child properly then, with his whole face, as he had stared at
 
 "You must have wondered."
 
-"Wondered with who?" He said it mildly. "I've always been on my own. There was never anybody to try it on." He watched Lucius a while longer, then turned to me. "No idea. Nobody knows, and there's no way of finding out but the one."
+"Wondered with who?" He said it mildly. "I've always been on my own. There was never anybody to try it on." He watched Lucius a while longer. "No idea. Nobody knows, and there's no way of finding out but the one."
 
 Lucius had found the bronze rod and was trying to fit it into his ear. Valens crossed the room and relieved him of it, and Lucius flung himself backward in a fury, and Valens caught his head short of the boards with no appearance of haste, and swung him up.
 
