@@ -37,6 +37,7 @@ art = b64(os.path.join(HERE, "front-art-canva-A.png"))
 young = b64(f"{FONT_DIR}/YoungSerif-Regular.ttf")
 plex = b64(f"{FONT_DIR}/IBMPlexSerif-Regular.ttf")
 plexi = b64(f"{FONT_DIR}/IBMPlexSerif-Italic.ttf")
+ua_svg = open(os.path.join(HERE, "ua-logo-src.svg")).read()   # Underground Associates monogram (text in Young Serif)
 plexb = b64(f"{FONT_DIR}/IBMPlexSerif-Bold.ttf")
 
 # EAN-13 (python-barcode, SVG), no price add-on.
@@ -119,7 +120,8 @@ html,body{{width:{PAGE_W}in;height:{PAGE_H}in;background:#fff;}}
   letter-spacing:.34em;text-indent:.34em;color:#f1e6d6;filter:drop-shadow(0 1pt 4pt rgba(0,0,0,.95));}}
 .spine{{left:{x_spine}in;top:{TY}in;width:{SPINE}in;height:{TH}in;display:flex;flex-direction:column;align-items:center;}}
 .spine .st{{writing-mode:vertical-rl;font-family:'Young';font-size:30pt;letter-spacing:.14em;margin-top:0.55in;color:#e2b56a;}}
-.spine .sa{{writing-mode:vertical-rl;font-family:'Plex';font-size:11pt;letter-spacing:.24em;color:#f1e6d6;margin-top:auto;margin-bottom:0.75in;}}
+.spine .sa{{writing-mode:vertical-rl;font-family:'Plex';font-size:11pt;letter-spacing:.24em;color:#f1e6d6;margin-top:auto;margin-bottom:0.3in;}}
+.spine .ua{{width:0.46in;height:0.46in;margin-bottom:0.42in;}}
 .spine .dot{{width:4pt;height:4pt;transform:rotate(45deg);background:#c8212a;margin:0.28in 0;}}
 .back{{left:{x_back + 0.45}in;top:{TY + 0.55}in;width:{PANEL - 0.9}in;color:#d8c4ad;font-family:'Plex';}}
 .back .hook{{font-family:'PlexI';font-weight:bold;font-size:14.5pt;color:#f1e6d6;text-align:center;margin-bottom:12pt;}}
@@ -151,7 +153,7 @@ html = f"""<!doctype html><html><head><meta charset="utf-8"><style>{css}</style>
 <div class="abs ttl">SYGL</div>
 <div class="abs div"><span class="ln"></span><span class="dot"></span><span class="ln r"></span></div>
 <div class="abs auth">SØREN STROMBERG</div>
-<div class="abs spine"><div class="st">SYGL</div><div class="dot"></div><div class="sa">SØREN STROMBERG</div></div>
+<div class="abs spine"><div class="st">SYGL</div><div class="dot"></div><div class="sa">SØREN STROMBERG</div><div class="ua">{ua_svg}</div></div>
 <div class="abs back">{blocks(BACK_COPY)}</div>
 <div class="abs bc"><div class="isbn">ISBN {ISBN}</div><img src="data:image/svg+xml;base64,{ean}"/></div>
 <div class="abs fflap">{blocks(FRONT_FLAP)}</div>
