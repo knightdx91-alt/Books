@@ -436,3 +436,44 @@ suggested_patches:
     action: "update"
     reason: "if W-19 is taken they are 'Two tilers' hauling roof tiles to Tarracina"
 ```
+
+---
+
+## Repair log (book-editor, 2026-10-23)
+
+Narration only; 0 spoken words cut. Style count 3,821 → 3,518; dialogue 15.4% → 16.8% (show_tell). `check_chapter.sh 23`: ALL MECHANICAL GATES CLEAN. `tic_report.py --echoes 23`: 0 echoes.
+
+| Item | Status | How |
+|---|---|---|
+| C-01 | done | `brown as lentil soup,` |
+| C-02 | done, varied | Audit string `His face, while he looked, …` tripped the echo scan ("his face while he", Ch.7). Used `He looked, and his face gave me nothing to read.` (0 echoes). |
+| C-03 | done | Three undressing sentences cut as given. |
+| C-04 | done | l.318 → `He let a breath go through his nose, and by and by he slept.`; mule clause cut from the fade (fade now 83 words). |
+| C-05 | done | `Between them the skin was brown, so that his back looked combed.` |
+| W-01 | done via C-03 | No month count left on the page; header anchor's "six-month body" → "pregnant body". |
+| W-02 | done + optional | Room-read cut; `He watched it a little.` also cut (door notes at 3 plus the latch line). |
+| W-03 | done | `look Valens over` |
+| W-04 | done | `and then I was gone`; `outside for most of it` |
+| W-05 | done | Both cuts; speech joined into one line. |
+| W-06 | done | → `He let me look at his face with nothing in front of it.` |
+| W-07 | done | `She kept to the hearth.` |
+| W-08 | done | Cut the second hunger clause. |
+| W-09 | done | Both sentences cut. |
+| W-10 | done | Both cuts as given. |
+| W-11 | done | All three cuts. |
+| W-12 | done | `gave the roof` |
+| W-13 | done | `Who we were, he left out.` |
+| W-14 | done | `The nipples were wider and darker.` |
+| W-15 | done (full) | Ankle and both flea-bite sentences cut. |
+| W-16 | done | Lamp below cut. Line reads `Somebody down in the stalls was talking low to the gray.` ("in the stalls" replaces the lost "underneath us" anchor). The rain-easing line was not restored. |
+| W-17 | done | `in a carrel,` |
+| W-18 | skipped | Orchestrator ruling: the count stays off the page and foundation §10 is already patched. The disruptor's cut was not restored. |
+| W-19 | done | Carters → tilers at l.42, 56, 58, 70, 112, 148. "the cheating carter" kept. |
+| I-02 | done via W-19 | l.148 → `The younger tiler`. |
+| I-03 | done | `spat water onto the floor` |
+| I-04 | skipped | The disruptor wants l.218 loose, and "in the stalls" at l.300 reads as later, not as a contradiction. |
+| I-12 | skipped | "a while" ×3 is under Ch.22's flagged 4. "That was all." lost the duration, so I reverted it. |
+| I-13 | done | `He kept hold of me until my left calf knotted under me.` (the cramp is kept) |
+| I-01, I-05–I-11, I-14–I-18 | no page action | Bible/ENTITY re-sync is for the downstream chain; bible not touched per instruction. |
+
+Bible re-sync for downstream (not applied): log `brown as lentil soup`, `He looked, and his face gave me nothing to read.`, `Between them the skin was brown`, `gave the roof`, `Somebody down in the stalls was talking low to the gray.`, the tilers, and `in a carrel` as new. Log the cut strings (lamp lines below the boards, "the most of a laugh you got", road-brown, the bites on shin and knee, "told the roof") as CUT.

@@ -3,7 +3,7 @@
 #### *The Appian Way, near Tarracina · spring, AD 74*
 
 <!-- SCENE BUDGET (Target 4,200; Single-scene, one rainy night, 0 breaks; gear low; dialogue 15-25%): the blanket at the ladder foot, the marsh road, Acca and her hen, the drip 750 | the bad supper: eels, the carters, the towpath question, his bowl pushed across, the first flea, what I missed in court 950 | the room over the stable: rain on the bare tiles, the latch, the five words, the onion in the rain 750 | HEAT 2: his back in the lamplight, my body as it was, he lies down and lets me, his hands put down and taken up again 1,200 | after: the door side, the child against his back, sleep, the long fade into rain and fleas 550 -->
-<!-- Word count: style 3,821 (was 3,840 before the disruptor) | Writer draft 2026-10-23; disruptor 2026-10-23 (dialogue 15.4%) | Target: 4,200 (variance by design; not padded) | Dialogue 15.2% show_tell after dialogue-polish 2026-10-23 (was 15.0%; band 15-25) | Breaks 0 | Median sentence 13 (gear low; Ch.22 was 17) | Opens short-punch (7-word object line; hook VOICE/CONTRAST, not sensory immersion), closes long-fade (93-word rain-and-fleas sentence; pull EMOTIONAL/QUIET IMAGE, not decision point) | Em-dash 0 | as-if/as-though 1 | And-chains 3 (cap 9) | Negation pivots 0 | Credential asides 0 | Spoken Then-openers 2 | Echoes 0 | check_chapter.sh 23 ALL MECHANICAL GATES CLEAN | Anchor: the horse blanket under his marked back, the rain on bare tiles, her six-month body over him, and his care put down on the blanket palms up -->
+<!-- Word count: style 3,518 (was 3,821 before continuity repair) | Writer draft 2026-10-23; disruptor 2026-10-23; continuity repair 2026-10-23 (C-01..C-05, W-01..W-17, W-19; dialogue 16.8%) | Target: 4,200 (variance by design; not padded) | Dialogue 15.2% show_tell after dialogue-polish 2026-10-23 (was 15.0%; band 15-25) | Breaks 0 | Median sentence 13 (gear low; Ch.22 was 17) | Opens short-punch (7-word object line; hook VOICE/CONTRAST, not sensory immersion), closes long-fade (83-word rain-and-fleas sentence; pull EMOTIONAL/QUIET IMAGE, not decision point) | Em-dash 0 | as-if/as-though 1 | And-chains 3 (cap 9) | Negation pivots 0 | Credential asides 0 | Spoken Then-openers 2 | Echoes 0 | check_chapter.sh 23 ALL MECHANICAL GATES CLEAN | Anchor: the horse blanket under his marked back, the rain on bare tiles, her pregnant body over him, and his care put down on the blanket palms up -->
 
 The blanket had been made for a horse.
 
@@ -21,7 +21,7 @@ The landlady handed it over at the ladder's foot, folded small, with the care sh
 
 I believed her about the Kalends. She had a hen in the crook of her other arm, a brown hen asleep with its head drawn in, and she had kept it on her arm since we arrived out of the rain.
 
-We had come the length of the marsh road that day, all of it under rain. From dawn our way lay straight between reeds, as though a surveyor had laid it out with a string and then forgotten to stop. Beside it ran the canal, the color of lentil soup, with mules on the towpath hauling barges at a walk. Every ditch had frogs in it. Our driver, a Capuan with a single eyebrow that went right across, sang to them full-throated for the final two hours, to hear something else. The road left the marsh at the foot of a cliff. A temple of Jupiter was supposed to be up there; we saw rock going into a cloud and took it on trust.
+We had come the length of the marsh road that day, all of it under rain. From dawn our way lay straight between reeds, as though a surveyor had laid it out with a string and then forgotten to stop. Beside it ran the canal, brown as lentil soup, with mules on the towpath hauling barges at a walk. Every ditch had frogs in it. Our driver, a Capuan with a single eyebrow that went right across, sang to them full-throated for the final two hours, to hear something else. The road left the marsh at the foot of a cliff. A temple of Jupiter was supposed to be up there; we saw rock going into a cloud and took it on trust.
 
 The inn was the first roof after the reeds. It was rubble and timber, long and low, with stalls under one end and rooms over the stalls. By its door hung a painted sign that the weather had worn down to a cockerel and half a word. The landlady had been waiting in the doorway in a man's cloak with the sleeves turned back.
 
@@ -37,9 +37,9 @@ She had found my eyes on the hen. "Fox. Had the other six. Not this one."
 
 "She sleeps on me." She lowered the hen to the hearth bench. It sank at once into a brown loaf, and she left to see about the eels.
 
-I sat. My ankles had swollen in the carriage so that my sandal straps cut into them. I had been hungry since Forum Appii, where I had eaten last, and hungry again a mile after it. Grata had told me in the winter that this was the child eating, and that I should feed it what it asked for. So far it had asked for everything.
+I sat. My ankles had swollen in the carriage so that my sandal straps cut into them. I had been hungry since Forum Appii, where I had eaten last. Grata had told me in the winter that this was the child eating, and that I should feed it what it asked for. So far it had asked for everything.
 
-Two carters sat at the table's far end, with a load of roof tiles for Tarracina standing out in the wet. They had their boots off and their bare feet steaming at the hearth.
+Two tilers sat at the table's far end, with a load of roof tiles for Tarracina standing out in the wet. They had their boots off and their bare feet steaming at the hearth.
 
 "He sold you a mule with a cough," the older one was saying.
 
@@ -51,11 +51,11 @@ Two carters sat at the table's far end, with a load of roof tiles for Tarracina 
 
 "I'll tell his mule."
 
-They paid me no attention. Valens arrived streaming and stopped a pace in. He took in the room as he took in every room: the carters, the second door, to the yard, the ladder to the ceiling hatch, the window and its shutter. He came and sat opposite, on the wall bench, with the door in his eye.
+They paid me no attention. Valens arrived streaming and stopped a pace in. He came and sat opposite, on the wall bench, with the door in his eye.
 
-The driver came in on his heels, wiping his eyebrow. "He rubbed my mules down himself," he complained to the carters. "Both. With my own sacking. I stood and held the lamp."
+The driver came in on his heels, wiping his eyebrow. "He rubbed my mules down himself," he complained to the tilers. "Both. With my own sacking. I stood and held the lamp."
 
-The older carter turned on his bench to look him over. "That your carriage out there? The Capuan's?"
+The older tiler turned on his bench to look Valens over. "That your carriage out there? The Capuan's?"
 
 "Hired."
 
@@ -67,7 +67,7 @@ The eels came in a pot. They had been caught in the canal and tasted of it, of m
 
 I ate. Valens broke a piece of bread and held it.
 
-"That's not a towpath out there," the younger carter told the room. "That's a river with mules in it."
+"That's not a towpath out there," the younger tiler told the room. "That's a river with mules in it."
 
 The landlady came to the drip bowl and threw its water into the hearth, which hissed. She tucked her arms into the cloak. She was watching Valens.
 
@@ -83,7 +83,7 @@ The landlady came to the drip bowl and threw its water into the hearth, which hi
 
 "A gray, leading. Two browns behind."
 
-She considered it. "He'll have swapped them at the halfway post," she said. She gathered up the hen and told it so. "He'll have swapped them. He's sense enough for that, hasn't he? He's that much sense." She kept to the hearth with the hen against her chest.
+She considered it. "He'll have swapped them at the halfway post," she said. She gathered up the hen and told it so. "He'll have swapped them. He's sense enough for that, hasn't he? He's that much sense." She kept to the hearth.
 
 "Going down, or coming up?" she asked me.
 
@@ -109,7 +109,7 @@ Somebody down the table shouted "Acca!" for more wine, and she brought it withou
 
 "And if it doesn't?"
 
-"It won't," the older carter put in from his end.
+"It won't," the older tiler put in from his end.
 
 "Three," Valens said.
 
@@ -121,7 +121,7 @@ Valens pushed his bowl over to me. There were still four pieces of eel in it.
 
 His eel had been in the pot longer than mine and tasted it. I was hungry the way I was always hungry now, which was all the time, and I ate his.
 
-Horace had traveled this road a hundred years before us, with a party of friends and a bad stomach. He complained in verse about the canal water, and the frogs, and a drunk boatman singing to his girl through the night, and the inns. I had read him at nineteen, in a carrel beside a radiator that knocked, and thought he was making most of it up. He had made up none of it. There was a small, mean comfort in that. I sat with it, and it did not last.
+Horace had traveled this road a hundred years before us, with a party of friends and a bad stomach. He complained in verse about the canal water, and the frogs, and a drunk boatman singing to his girl through the night, and the inns. I had read him at nineteen, in a carrel, and thought he was making most of it up. He had made up none of it. There was a small, mean comfort in that. I sat with it, and it did not last.
 
 Since the city gate he had been like this. He had walked beside me to the gate, with the freedman behind us carrying the price of a chair I never sat in. He had climbed up after me into the carriage the brother had hired as far as Capua. Since then he had answered whatever was put to him, the driver and the post-house men and me, with a word or two apiece. He was not short with anybody. He watched the road.
 
@@ -131,9 +131,9 @@ Since the city gate he had been like this. He had walked beside me to the gate, 
 
 "That was to me."
 
-"It was the same." He considered the bread in his hand. "Near enough the same."
+"It was the same. Near enough the same."
 
-The day he spoke I had been outside on the steps of the Basilica, sitting on Myrrhine's cloak. I had heard the beginning, as far as what he slept on outside her door, and then a man sneezed and I was gone. The dyer and the merchant and the young man's uncle had done most of the deciding. The judge had heard Valens out and believed him. None of it made any difference; he had stood up for an hour in front of half of Rome, and I had been on the steps for it. It was what I had come for, and I had laughed it away.
+The day he spoke I had been outside on the steps of the Basilica, sitting on Myrrhine's cloak. I had heard the beginning, as far as what he slept on outside her door, and then I was gone. The dyer and the merchant and the young man's uncle had done most of the deciding. The judge had heard Valens out and believed him. None of it made any difference; he had stood up for an hour in front of half of Rome, and I had been outside for most of it. It was what I had come for, and I had laughed it away.
 
 Something bit me on the ankle, under the table, and then again above it.
 
@@ -145,9 +145,9 @@ Something bit me on the ankle, under the table, and then again above it.
 
 "Pennyroyal. I'm out."
 
-The nearer carter laughed at that. He scratched his own shin to show her she was right, and returned to the cheating carter and the mule.
+The younger tiler laughed at that. He scratched his own shin to show her she was right, and returned to the cheating carter and the mule.
 
-The rain came harder. It drummed on the roof over the table. The drip in the bowl went from a tick to a thin, steady string, and the landlady told the roof a word that I did know.
+The rain came harder. It drummed on the roof over the table. The drip in the bowl went from a tick to a thin, steady string, and the landlady gave the roof a word that I did know.
 
 Valens stood. "Bed."
 
@@ -191,7 +191,7 @@ I kept quiet.
 
 "In her shift. She'd come back in with them round her neck, wet through, laughing at us."
 
-Who we were, he left out, and I asked nothing. The rain sheeted on the tiles now. The crack over the door spat a fine wet dust onto the floor, and he sat on in it.
+Who we were, he left out. The rain sheeted on the tiles now. The crack over the door spat water onto the floor, and he sat on in it.
 
 Under the floor the door of the stalls banged back against its post. Mules came in out of the rain, three by the sound of their feet, and stood blowing and streaming beneath us, and a man swore at them. The landlady's voice met him at the yard door, high and furious.
 
@@ -215,29 +215,29 @@ Valens was listening, his head up.
 
 "The gray's lame," he said. "Off hind. He's walked it through the water."
 
-I listened and heard three mules. He had heard which one was favoring a leg, through a floor, in the rain. Down there the man was laughing now, a tired laugh, and the landlady was giving him her opinion of the towpath, and the canal, and whoever had dug it, while the hen complained. Then she stopped, somewhere about the canal, and nobody down there said anything more.
+Down there the man was laughing now, a tired laugh, and the landlady was giving him her opinion of the towpath, and the canal, and whoever had dug it, while the hen complained. Then she stopped, somewhere about the canal, and nobody down there said anything more.
 
 "He'll want to poultice that."
 
 "Will you see to it?"
 
-"He'll do it. He's brought it this far." The floor had him again.
+"He'll do it. He's brought it this far."
 
-I knelt behind him on the cords, which took some arranging, and took the hem of his tunic in two fists and pulled it up. He raised his arms for it. It came off and went on the floor.
+I knelt behind him on the cords, which took some arranging, and took the hem of his tunic and pulled it up. He raised his arms for it. It came off and went on the floor.
 
-His back was to the lamp, and the little flame put everything on it in relief. The marks ran slantwise from his left shoulder toward his right hip, more than a dozen, raised and pale and shining a little, harder than the skin round them. Two crossed low on the right side, where the man with the whip had changed his footing. One crossed the shoulder blade and ran on down, and the old stitches had puckered its upper end. Over the ridges the skin was road-brown. Between them it was paler, so that his back looked combed.
+His back was to the lamp, and the little flame put everything on it in relief. The marks ran slantwise from his left shoulder toward his right hip, more than a dozen, raised and pale and shining a little, harder than the skin round them. Two crossed low on the right side, where the man with the whip had changed his footing. One crossed the shoulder blade and ran on down, and the old stitches had puckered its upper end. Between them the skin was brown, so that his back looked combed.
 
 The judge had found for the plaintiff. Every mark was where it had always been.
 
 I put my cheek to it, between the shoulder blades, where two of the ridges ran close together. It was warm. The wool smell of the tunic was still on it, and rain, and mule. I felt him breathe under my face. For a while that was all.
 
-I lifted my cheek, got off the bed and took my own clothes off. At six months there was no graceful way to do it, and I did not try for one. The belt first. The tunic next, in two goes, because it caught on the belly the first time, and the shift under it likewise. I stood barefoot in the leak's spray and let him see.
+I lifted my cheek, got off the bed and took my own clothes off. I stood barefoot in the leak's spray and let him see.
 
 "Look, then. All of it's yours, and most of it's swollen."
 
-My belly stood out high and round, with the navel pushed out flat. A brown line had come in March, running down from it to the hair, and nothing would scrub it off. My breasts had grown heavy since the winter and the veins showed in them, blue under the skin. The nipples had gone wide and dark. They were sore; the wool of the tunic had chafed them all day in the carriage. My ankles were puffed over the strap marks. I had a flea bite on my shin and another above my knee. The one on the shin I had scratched until it bled.
+My belly stood out high and round, with the navel pushed out flat. A brown line had come in March, running down from it to the hair, and nothing would scrub it off. My breasts had grown heavy since the winter and the veins showed in them, blue under the skin. The nipples were wider and darker. They were sore; the wool of the tunic had chafed them all day in the carriage.
 
-He gave me the attention he gave a strange road, all of it, and nothing in his face that I could read.
+He looked, and his face gave me nothing to read.
 
 "Not my breasts," I told him. "They're sore from the carriage."
 
@@ -269,19 +269,19 @@ He was hard against me. I reached beneath the child for him and put him to me, a
 
 "I know."
 
-I began to move, slowly, because slow was all the belly allowed. The cords answered every movement. The rain drove across the tiles and the leak hissed on the boards. The lamp's flame leaned over in the draft from the gap under the door and straightened. I could smell the lamp oil and the horse in the blanket, warmed now by his back, and the mules below, and my own sweat and his. A flea crept up the inside of my calf, and I did not care about it at all.
+I began to move, slowly. The cords answered every movement. The rain drove across the tiles and the leak hissed on the boards. The lamp's flame leaned over in the draft from the gap under the door and straightened. I could smell the lamp oil and the horse in the blanket, warmed now by his back, and the mules below, and my own sweat and his. A flea crept up the inside of my calf, and I did not care about it at all.
 
-His hands were on the blanket still, open, and he let me look at his face with nothing in front of it.
+He let me look at his face with nothing in front of it.
 
-I took the nearer hand from beside his head and drew it beneath the child, between us. I set his thumb to me and pressed it there under mine until he had the way of it. He had it. I rocked on him and on his hand, with my other palm on his chest to keep my balance, and his eyes opened and held on my face. I came, my fingers spread wide on his chest, a long, slow, shaking time, while his thumb waited on me until I was done.
+I took the nearer hand from beside his head and drew it beneath the child, between us. I set his thumb to me and pressed it there under mine until he had the way of it. He had it. I rocked on him and on his hand, with my other palm on his chest to keep my balance, and his eyes opened and held on my face. I came, a long, slow, shaking time, while his thumb waited on me until I was done.
 
 Then he raised the hand still lying open.
 
-It found the back of my thigh, then my hip, then the small of my back, and held on there. His head rose and I bent to it as far as the belly let me, and got my arms round it. His face went in against my collarbone, under my chin. His breath was hot on the sore skin of my breast, and I allowed it. He was moving with me now, a little, up into me. He made no sound until the end, and then the sound he made was into my skin, low. His arms locked round my back, hard. I held his head and spoke his name into the top of it, Gaius Iulius Valens, the one in the court's wax, and then only Valens.
+It found the back of my thigh, then my hip, then the small of my back, and held on there. His head rose and I bent to it and got my arms round it. His face went in against my collarbone, under my chin. His breath was hot on the sore skin of my breast, and I allowed it. He was moving with me now, a little, up into me. He made no sound until the end, and then the sound he made was into my skin, low. His arms locked round my back, hard. I held his head and spoke his name into the top of it, Gaius Iulius Valens, the one in the court's wax, and then only Valens.
 
 "Stay," he said. "A while."
 
-He kept hold of me, and I let him, until my left calf knotted under me.
+He kept hold of me until my left calf knotted under me.
 
 "Leg," I said. "Leg, leg."
 
@@ -297,13 +297,13 @@ He rose on his elbow to see the door past me.
 
 "Then I'll hear it."
 
-He watched it a little. A lamp had been lit underneath us. It showed in lines between the boards, and somebody down there was talking low to the gray. He turned over, to face the wall, and the door was behind him, and so was I.
+Somebody down in the stalls was talking low to the gray. He turned over, to face the wall, and the door was behind him, and so was I.
 
 I fitted myself to his back. The belly fitted the hollow of it, my breasts to his shoulders, and my arm went over him with the hand open on his chest. I felt the marks against me all along my front, where the belly pressed him, ridge after ridge.
 
 The child woke. It kicked him in the back, twice, so hard I felt it go through me into him.
 
-He went quite still. His shoulders dropped, and the long muscles beside his spine let go in turn, down to the hip, and he lay back against me with his weight given up into the bed and the belly and my arm.
+He went quite still. His shoulders dropped, and the long muscles beside his spine let go in turn, down to the hip, and he lay back against me.
 
 "It's awake," he said, into the wall.
 
@@ -315,6 +315,6 @@ He went quite still. His shoulders dropped, and the long muscles beside his spin
 
 "It's right."
 
-He let a breath go through his nose, which in Valens was the most of a laugh you got, and settled his shoulder lower. By and by his breath came long and even, with a little catch at the top of it, and he slept with his face to the wall.
+He let a breath go through his nose, and by and by he slept.
 
-The rain swept the roof in long, soft rushes now, with a hush between them, and the mule below kicked its stall again and stopped, and down at the foot of the bed, under the blanket where it was warmest, the fleas that had lived in that wool longer than any horse climbed out of it singly to learn what had been brought them, and found his ankle first, and then mine, and set to work on us both, unhurried, with the whole wet night ahead of them and the rain coming down.
+The rain swept the roof in long, soft rushes now, with a hush between them, and down at the foot of the bed, under the blanket where it was warmest, the fleas that had lived in that wool longer than any horse climbed out of it singly to learn what had been brought them, and found his ankle first, and then mine, and set to work on us both, unhurried, with the whole wet night ahead of them and the rain coming down.
