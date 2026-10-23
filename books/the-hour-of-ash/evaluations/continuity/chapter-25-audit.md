@@ -269,3 +269,51 @@ suggested_patches:
     action: "update"
     value: "on the page as 'a little brass oblong' / 'a cigarette lighter' (unnamed); handled 4x; never lit"
 ```
+
+---
+
+## Repair log (book-editor, 2026-10-23)
+
+Pre-repair copy: scratchpad only (not in the book folder). After: shape 7,499 words (style 7,555), dialogue 49% (show/tell 49.3%, shape 49), em-dash 3, and-chains 6. `bash tools/check_chapter.sh 25` prints ALL MECHANICAL GATES CLEAN. `tic_report.py --echoes 25`: 0 echoes, 0 command echoes, 0 spoken-line echoes.
+
+**CRITICAL**
+- CRIT-001: done. Changed to "at her own door with her knees aching".
+- CRIT-002: done. "boat" → "plane".
+- CRIT-003: done, as the audit wrote it ("My other copper … I reached for it … I let it lie.").
+- CRIT-004: done, all five. l.54 "His mouth came open." · l.80 "He watched our mouths." · l.82 cut. · l.426 "and at Valens" cut. · l.414 is not the audit string: "his eyes went over my hands" made "his eyes went" 3x book-wide, so it now reads "he looked my hands over slowly, taking his time about it now". This still leaves the look on the mending hands and cuts the second "pale eyes".
+- CRIT-005: done. "nudged the pot"; "He had the hour from me, as near as …".
+- CRIT-006: done. "A long life, under his own fig tree."
+- CRIT-007: done. "let out of doors in the dark".
+
+**WARNING**
+- WARN-01: done, and taken further. Cut "outside the Nuceria Gate" at l.156. The carter's story at l.254 also said "a tomb by the Nuceria Gate" in Valens's hearing, so it now reads "a tomb outside the walls". "Nuceria" appears 0 times. Valens hears no gate, no date he can parse and no rules.
+- WARN-02: done. "my legs had gone"; "A laugh came first, with the other thing right behind it, so close …". I used this instead of "It began as a laugh" because "It" had no clear referent after the legs. Also "My hands saw the drops" and "My hand had gone to the flap". "without me" 0, "sound I made" 0. "no part in" stays only on Fenn's left hand at l.38. The core is kept: fused laugh/tears, one fight for breath, the hands saving the papyrus.
+- WARN-03: done. Cut "pink to the collar of the robe".
+- WARN-04: done. Cut "that nobody had disturbed".
+- WARN-05: done. Cut "as Lucius preferred to travel"; "Lucius glared at the gulls"; cut the l.270 clause.
+- WARN-06: done. "On the cover it read A. J. FENN."
+- WARN-07: done. "with the vowels in his nose".
+- WARN-08: done, differently. The audit's "that year" still lets a February quake explain a July opening. I cut the Aegean clause entirely. Fenn's account now runs: the ground moves hard, the door opens, and that is how the Corycian went for him. His own floor that "tipped on me like a boat" (l.174) is the movement, so the "hours, never days" rule holds with no added words.
+- WARN-09: done, differently. The narration no longer holds the pregnancy at all. The child "in me, unguessed" at the Ides could predate conception (Ch.20 has the nausea in November, about the Kalends). With the news gone, the rest of the paragraph only restated Mara's next line (bed, mile, rain), so it is now one sentence: "A Girard Avenue man had sat on Eros's bench in the wet with a blanket over his ears and waited for a door to open." Grata's naming stays Ch.20's alone.
+- WARN-10: done. "to breathe" → "to open". "breathe/breathes/breathed" now appear only in Fenn's mouth.
+- WARN-11: done. Cut the second "Since Claudius.", the second "Give or take." and the first "Nothing surprises me.". Kept "steals home, steals home" and "Shut tight."
+- WARN-12: done. Cut the two-finger gesture → "Twice. I had it for seventy-one."
+- WARN-13: done. Cut l.230's first two sentences and l.234's list.
+- WARN-14: done. "down to the goat that ate your postcard."
+- WARN-15: done. "and spoke in Greek."
+- WARN-16: done. "You didn't lose it, over here?"
+- WARN-17: done. "hosing down her steps".
+- WARN-18: skipped here. The Ch.26 outline cascade is the orchestrator's. Ch.25 is unchanged, as the audit directs.
+- WARN-19: done and extended. l.430 "he said", l.432 "Fenn said, turning fast", l.204 "I said". At l.276 the tag is just "Fenn said": "Fenn said to Valens" was a cross-chapter echo and "said in Greek" hit the 3x gate, and "sir" plus the courtly register carry the Greek. The told-tags left are l.46 (to the lighter, by design) and l.198, so the close stands alone.
+- Brief item, Fenn never lists: as well as CRIT-006, I cut "the runs and the gaps," from l.314's appositive and cut "and it all comes out" from the l.328 three-beat ("the runs fit, and the gaps fit.").
+
+**INFO**
+- INFO-01: done. Header now says Em-dash 3, and the word count and dialogue % are re-synced.
+- INFO-02: done. "after the big outs". The first two tries ("when he got a man out", "coming off the mound") tripped the tic and echo gates.
+- INFO-05: done. "and that's closed too".
+- INFO-07: done. Cut "first thing," at l.444.
+- INFO-08: done. Cut "if it kills me".
+- INFO-06: skipped. "five years" is a round figure in a fit, and "more than four" reads as a correction.
+- INFO-03, INFO-09 (protected by disruption), INFO-04, INFO-10 to INFO-16: no action, per the audit.
+
+**For the bible/entity sync:** Fenn's lighter look is now "looked my hands over"; "turns it a shade further" → "nudged the pot a shade further". The carter's tomb is "outside the walls". The Ch.25 pregnancy reference is gone from the narration. Mara's sixth laugh shape (fused with tears) is SPENT.
