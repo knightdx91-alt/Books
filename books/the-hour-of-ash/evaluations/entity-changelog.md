@@ -3581,3 +3581,70 @@ Open contradictions: 33 → 37.
   - Every single-quoted fragment in the file that was on the repaired page but is gone from the final page now sits under a RE-SYNC/CUT note, or in a kept earlier `prose`/`note` field beside its `prose_final`/`resolution`. The only other hits are short matches to fragments from other chapters.
   - The file holds 376 characters, 118 locations, 178 objects, 23 organizations, 70 plot threads, 127 world rules, 245 timeline_events and 175 contradiction rows.
   - **60 open** (61 before; −1 CH25-7).
+
+## 2026-10-23: UPDATE (chapter 26, "Letters in English")
+
+- **Page read:** drafted on the post-disruptor page 838ff54 (md5 772a42baf0e529e91ccdb81db9dc95a3), after writer 44b2d22, dialogue-polish 7f5c443, hook-craft 28df8d4 (no edits) and book-disruptor 838ff54. The continuity repair **387bad2 landed mid-run** (md5 9d42bd0cfffd9a3942f6e8507b0908e1; 6 CRIT and 17 WARN applied), so every Ch.26 row was **re-anchored to the repaired page**, which is the page as it now stands.
+- **Numbering:** 115 paragraphs, seven breaks after p11, p20, p51, p57, p63, p83 and p96. Map from the post-disruptor page:
+  - old p1..p63 = new p1..p63
+  - old p64 ("She was out in the rain again …") is CUT
+  - old p65..p91 = new p64..p90
+  - new p91 ("Till autumn.") is ADDED
+  - old p92..p115 = new p92..p115
+  - Text changed inside 30 paragraphs (listed in `paragraph_rule`).
+- **Note on commits:** the orchestrator's checkpoints e06f66b and 387bad2 swept up this run's YAML while it was still in progress (the post-disruptor draft). The working-tree file now differs from 387bad2 by the re-anchor. This run committed nothing.
+- **Aelia:** the entry is rewritten from the plan to the page.
+  - Three weeks old at the open (p5). The birth is not narrated. Derived birth: about December AD 75 to January AD 76, conceived about the Puteoli visit (p12) and "so big" at the vintage (p58). This agrees with foundation §10.
+  - Eighth day: Grata hangs the bronze crescent on a red thread, with a prayer (p17). The page does not call it a naming.
+  - Ages by section: 3 weeks, 4th week, 5th week, the next daybreak, 6th week, then about 7 to 8 weeks. The last two sections give no age.
+  - Physical: black thatch; born with nails, a scratch down her nose; the wrist creases. Traits: greed confirmed on the page. Relationships, possessions, location and status rows added.
+- **Fenn's six letters** are recorded one by one in `objects.fenns-letters.letters`, in order of arrival:
+  - L1, spring AD 75: Lucius's stars; talked American all night; the tunny-salter's broom handle.
+  - L2, the summer letter: the 1964 Sunday with his unnamed sister; first read at the vintage.
+  - L3, at the vintage: "Sure, I said it … so sue me"; the 1997 question; his birthday and the melon.
+  - L4, the birth letter: on a Puteoli wine shipper's spoiled horoscope; Aelia's stars; "near four the summer we go".
+  - L5, nine days after her answer: wet, split nib; the voicemail rage.
+  - L6, the tables' cover letter: the copyist boy; "P.S. … Your old man. I'm sorry."
+  - Carriage is by the fish-sauce carter (new `letter-carter`). Grata's Herculaneum bench delayed one letter; the page does not say which.
+- **Mara's replies** are a new object, `maras-letters-to-fenn`, R1-R4: the stair tread, fig and Grata, "nothing whatever about the door"; the birth note (implied); the 1997 answer with her father's voicemail; the ford, the strainer and Grata's son. The voicemail explanation is sponged out.
+- **Knowledge flow:** new `knowledge_index.fenn_news_from_home`. In Ch.26 Fenn gets the 1997 result (asked for) and the word "voicemail" (unexplained, refused). Nothing else from 1968-1998. No knowledge_gap.
+- **Valens:**
+  - "goodnight" given (p51); said at daybreak to Grata and the dun (p53; p55). New thread `valens-english-word`, closed_by_design, with a no-recurrence constraint.
+  - The jealousy is shown, never named (p29-p47; p72-p78).
+  - The ford: "wet to the thigh" (p8); the dun swam the last of it (p82).
+- **Lucius:** about 16 to 19 months (derived); walking. The knucklebone comes out of "my bags" (p20). He rolls it and loses it under the bed (p98). The named frame: "Don't move," (p111-p113).
+- **Felix:** "seventeen that winter" (p85; agrees with AD 58); a new cut eyebrow; carries the box; the sea "Till autumn." (p91).
+- **Grata:** has Aelia's stars "read out" (p4); the crescent; "My man reckons it's a curse" (p18). Secundus is named for the first time (p63).
+- **Objects:**
+  - **CLOSED:** `lucius-horoscope`, delivered with L1 (p14) and nailed up (p4).
+  - Pentax: one frame. The counter is seen but not read out (p105).
+  - Film: plan 12 shot / 24 left; page at least 11 / at most 25. The page confirms no frame since Ch.20 (p105).
+  - Updated: knucklebone (last on the page at Ch.3 → p104), `fenn-tables` (the copy in a cedar box under the bedstead, unopened, p96), `fenn-notebook`, `tremor-notes` (in English, p16), `microcassette`, `maras-satchel`, `potted-fig-tree`, `roof-stair-tread`.
+  - **NEW:** `aelias-horoscope`, `aelias-lunula`, `inn-strainer` (closed, "held … after a fashion"), `fenns-1964-scorecard`, `fenns-hall-table-note`, `maras-letters-to-fenn`.
+- **NEW characters:** `letter-carter` (needs_review vs fish-sauce-carter), `fenns-copyist-boy`, `fenns-mother`, `fenns-downstairs-neighbor`, `bakers-son-candidate` (needs_review).
+- **Updated characters:** mara-reyes, valens, august-fenn, lucius, aelia, felix, pomponia-grata, gratas-husband, secundus, margaret-fenn (the 1964 Sunday, the note; name_usage_ch26 = 0), fish-sauce-carter, fenns-pupils and emilio-reyes (alive in October 1997, the voicemail).
+- **NEW organization:** `florida-marlins`. The Phillies entry gets the 27 September 1964 game.
+- **NEW threads:** `aelia-infant`, `valens-english-word`. Ch.26 beats added to the-refusal, the-when, fenn-sisters-name, fenn-cautionary-mirror, secundus-election, lucius-infant, maras-english-to-herself (HELD) and the relics rows.
+- **Locations:** cobblers-shop (the back room on the repaired page), gratas-back-room (both horoscopes above the loom), fenns-upper-room (the stair fixed), philadelphia (the 1964 route, the hall table), herculaneum, stabiae, nuceria, surrentum, fullery-at-the-corner, pompeii-forum, puteoli.
+- **Timeline:** row 26 is rewritten to the page. Six timeline_events are added: 27 September 1964; Fenn's note, April 1968; 27 October 1997; and three for the letters in AD 75-76. The Aelia birth event is rewritten.
+- **Flags:**
+  - **RESOLVED:** CH25-6. The 1964 letter does not retell Ch.25, and the 1997 letter names its own breach (p59).
+  - **Opened on the post-disruptor page and RESOLVED by the repair** (one value left):
+    - CH26-1 (medium): the family sleeping upstairs over the shop, against Ch.19's back room.
+    - CH26-3 (info): Grata reading Greek aloud.
+    - CH26-5 (info): "the satchel since the Corycian".
+    - CH26-8 (low): the fig frame dated about a year back. This was missed in the first draft and found by the audit's WARN-10.
+  - **Open:**
+    - CH26-2 (low): five mules against the four that crossed.
+    - CH26-4 (info): Aelia "near four" against 3½.
+    - CH26-6 (info): NARROWED. The lid is fixed on the page and outline Ch.27 now carries the invitation, but outline Ch.26's "Opens toward Ch.27" line is still unmet.
+    - CH26-7 (info): Secundus's wall in winter AD 75-76 against the March AD 77 election.
+  - **CRITICAL:** none. **knowledge_gap:** none.
+- **meta:** header note, `last_updated_by`, `mode`, `source` (Ch.1-26; the outline now covers Ch.27-44), `last_updated_chapter: 26`, `chapters_tracked` +26, the Ch.26 clause in `paragraph_rule`, a `revalidation_needed` chapter-26 row (RESOLVED in this run) and `ch26_requested_checks`.
+- **Not touched:** the manuscript (md5 9d42bd0c…), character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - All 667 ch-26 cites fall in p1..p115.
+  - Every single-quoted fragment on the added lines was checked by script against the repaired page. The only misses are plan or report quotes, older YAML phrases, and post-disruptor wording that sits labelled in the CH26-n `prose` fields and the revalidation row.
+  - The file holds 381 characters, 118 locations, 184 objects, 24 organizations, 72 plot threads, 127 world rules, 251 timeline_events and 183 contradiction rows.
+  - **63 open** (60 before; −1 CH25-6; +4 CH26-2, CH26-4, CH26-6, CH26-7).
