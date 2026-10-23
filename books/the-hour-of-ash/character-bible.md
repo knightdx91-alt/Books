@@ -708,7 +708,7 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **Ch.23 as written ("An Inn on the Appian Way", Single-scene, one rainy night, 0 breaks, near Tarracina, spring AD 74; HEAT 2. SYNCED
   to the FINAL page 2026-10-23 (md5 `3599a74c…`); quotes checked by grep; the full HEAT 2 log, the texture and every CUT string are in
   "At-risk after Ch.23"):**
-  - **The body at six months:** "My ankles had swollen in the carriage so that my sandal straps cut into them."; the hunger ("Grata had
+  - **The body in the seventh month (no count on the page; ~7 months by the timeline):** "My ankles had swollen in the carriage so that my sandal straps cut into them."; the hunger ("Grata had
     told me in the winter that this was the child eating, and that I should feed it what it asked for. So far it had asked for
     everything." / the ugly sentence, "I was hungry the way I was always hungry now, which was all the time, and I ate his."); "Climbing a
     ladder with the child in front was a matter of getting the belly up it ahead of the rest."; the frank display ("Look, then. All of
@@ -6668,7 +6668,7 @@ line each, so that walk-ons don't all sound like Mara.
   checked by grep against the final chapter; every CUT string was checked to be OFF the page):**
   - **HEAT 2, SPENT staging (Ch.34 and anything after find other orders, bodies, senses):** she leads; "I pushed at his chest, and he
     went back onto the blanket" / "he lay with all his marks against it and did not shift" / "He got his boots off without his hands,
-    toe against heel" / "The rest of his clothes I took from him."; she astride at six months ("Getting a knee across him needed two
+    toe against heel" / "The rest of his clothes I took from him."; she astride in the seventh month ("Getting a knee across him needed two
     tries and his hand cupping my elbow"; "Your left knee," … "The cords are lower on this side."); his hands lifted to her hips "as he
     would steady a load on a bad slope", taken off and lowered "to the blanket, palms up, one each side of his head" ("Let me," / "For a
     breath he only looked at me. The fingers stirred once on the felt and went loose."); "I could not reach his mouth over the child";
@@ -7558,7 +7558,7 @@ finalizing the chapter. Never add a tic to fix it.
   reason once; WATCH "breath" and "I felt". **Ch.24 guards:** no wall-turn close; no singing walk-on; the midwife owns the book's one
   introduction-by-teeth; the child found in the world; the lamplit hoof-trimming is Ch.24's and unspent. **New Ch.23 blocks** on
   **VALENS** (the five words, the onion with his mother, the door-side turn, the kick against the scars, HEAT 2's moves SPENT, counts,
-  CUT strings) and **MARA** (the body at six months, she leads and he is held, the guided thumb, the cramp, the verdict on his back,
+  CUT strings) and **MARA** (the body in the seventh month, she leads and he is held, the guided thumb, the cramp, the verdict on his back,
   the look-back with no new laugh, Horace, counts). Every quote placed on a card was checked by script against the final
   chapter-23.md; strings off the page appear only as CUT entries (checked absent). Not touched: the manuscript, STATE.yaml,
   ENTITY_STATE.yaml, outline.md. No new named character beyond ACCA; no tic, catchphrase or signature gesture given to anyone;

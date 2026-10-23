@@ -3257,3 +3257,37 @@ Open contradictions: 33 → 37.
   - Every quoted Ch.23 fragment was checked by script against its cited paragraphs. Three cites were corrected. The fragments left unmatched are plan or dateline quotes and are labelled as such.
   - The file holds 357 characters, 111 locations, 162 objects, 20 organizations, 68 plot threads, 117 world rules, 234 timeline_events and 164 contradiction rows.
   - **58 open** (54 before; +4 CH23-1..CH23-4; none closed).
+
+## 2026-10-23: RE-SYNC (chapter 23, "An Inn on the Appian Way", FINAL page)
+
+- **Page read:** chapter-23.md at f797736, after the continuity repair 80e0e9d, evaluator fix set F1-F9 (611926e), G1-G6 (beb6634) and the header refresh f797736 (cycle 2 PASS). md5 3599a74c0b2fe1223da9ce98ef2b5192.
+- **Numbering:** still 157 paragraphs and no breaks; file line = 2p+6. No renumbering was needed. Text changed inside 38 paragraphs (p9, p17, p18, p24, p25, p26, p32, p40, p53, p58, p59, p60, p64, p65, p71, p72, p85, p94, p106, p109, p110, p111, p114, p116, p117, p122, p129, p130, p133, p134, p135, p137, p139, p141, p147, p150, p156, p157), found by a paragraph diff against 5948326.
+- **Carried from the page:**
+  - The two carters are now tilers (W-19). `appian-inn-carters` is renamed `appian-inn-tilers`, with `former_slug` and the old name kept as an alias. "The younger tiler laughed" (p71). "the cheating carter" (p71) is the mule seller, not one of them. The tilers also replace the carters in Mara's knowledge, the driver's alias and trait, the marsh-road, Tarracina and Fundi facts, and the knowledge_index row.
+  - "brown as lentil soup" (p9), "His eel was cold." (p58, G1), "in a carrel," (p59), "gave the roof a word" (p72), "Who we were, he left out." (p94) and "spat water onto the floor" (p94).
+  - Valens's back: "Between them the skin was brown, so that his back looked combed." (p111, C-05). "road-brown" is cut.
+  - HEAT 2: "He looked, and his face gave me nothing to read." (p117), "The muscles of his belly jumped under my thighs every time." (p129, F7), "He let me look at his face with nothing in front of it." (p134) and "my collarbone had it before my ears did" (p137, F8).
+  - "Somebody down in the stalls was talking low to the gray." (p147). The speaker is not named; the barge man's row now says so. Continuity I-04 reads it as later than p106's "nobody down there said anything more", not as a clash.
+  - "By and by he slept." (p156, C-04 and G3).
+- **Cut lines removed as page facts or marked CUT:**
+  - "At six months there was no graceful way to do it" and the undressing sentences (C-03). This touched Mara's `pregnancy_1_ch23`, the HEAT 2 trait and the waypoint, `lucius.ch23_note`, `romance.ch23_beat` and `conception-and-lucius.ch23_note`.
+  - "The nipples had gone wide and dark" became "The nipples were wider and darker." The narrated chafing, "puffed over the strap marks", the shin and knee bites (W-15) and "slow was all the belly allowed" are cut.
+  - The room-read on entering (W-02): this changes Valens's guard trait and the common-room fact (no window or shutter there now).
+  - Other Valens lines: "He watched the road." (F1), "He watched it a little." (W-02), "He went quite still." (F9), "with his weight given up …" (W-10), the breathing catch, and the laugh by a breath (C-04, G3). The laugh trait is kept only as a CUT record with `last_confirmed`.
+  - The kept-stillness gloss (F7), the lamp below the boards (W-16) and the mule's second kick in the fade (C-04).
+  - The radiator (W-17): Mara's Horace trait and the c. 1984 timeline event.
+- **Flags:**
+  - **CLOSED:**
+    - CH23-1: foundation §10 is patched to say the page leaves the five-year count unprinted and any later chapter that prints it says five.
+    - CH23-2: the final wording is unchanged ("You heard it at Kirrha. At the stream.", p62). The stream is on the Ch.12 page (ch-12:p60; ch-12:p62), and continuity I-16 rules "at Kirrha" a loose naming. No second value is left.
+    - CH23-3: no month count is on the Ch.23 page. About seven months is derived from Ch.22's "Five. Nearly six." in mid-March, and Lucius is due summer AD 74.
+    - CH23-4: the line is cut.
+  - **NEW:** none. **CRITICAL:** none. **knowledge_gap:** none.
+- **meta:** header note, `last_updated_by`, `mode`, `source`, the Ch.23 clause in `paragraph_rule`, a `revalidation_needed` chapter-23 row (RESOLVED) and a `ch23_requested_checks` re-sync row. Earlier Ch.23 check rows are annotated with RE-SYNC notes.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - All 386 ch-23 cites fall in p1..p157.
+  - Every single-quoted Ch.23 fragment that was on the post-disruptor page but is gone from the final page now sits on a line marked CUT or RE-SYNC. Fragments on changed lines were checked against their cited paragraphs.
+  - The file holds 357 characters, 111 locations, 162 objects, 20 organizations, 68 plot threads, 117 world rules, 234 timeline_events and 164 contradiction rows.
+  - **54 open** (58 before; −4 CH23-1..CH23-4; none opened).
