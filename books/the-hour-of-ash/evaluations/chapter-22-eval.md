@@ -547,3 +547,133 @@ I ruled the first under the author's no-tics law and left the second alone.
 Apply `fixes22b/apply_fixes.py` and re-run E+F. After that set, no dimension has anything on the page holding it below 8.5. Only the per-cycle cap remains, and no further text changes are recommended.
 
 **BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis). One judgement call could go the other way: I counted spoken mentions (Valens's "eyes shut", Myrrhine's "good at waiting") as notes of the state. The cycle-0 count did the same. Counting narration only would put the judge at 4, which still fails.
+
+---
+
+## Re-evaluation — cycle 2
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Date:** 2026-10-23
+**Text evaluated:** `manuscript/chapters/chapter-22.md`, md5 `251a664c923a7fb858da4b46ec8c3d55`. This is exactly the tested cycle-1 result (`fixes22b`), so all 11 replacements landed byte-for-byte as tested.
+
+### HEADLINE
+**CVI-Launch:** 9.6 | **CVI-Legacy:** 7.0 | **Genesis Floor:** **8.0** (Characters, per-cycle +0.5 cap) | **Genesis Average:** 8.71 | **Casual:** 9.0
+**Gate: NOT MET** (Floor 8.0). Casual ✓, pacing ✓, mechanical gates ✓.
+**The narrated-trait law is now clear on the page.** One small law finding remains, and the cycle-1 set planted it: M2's "Whose money is it?" is a reused question frame (details below). A tested one-line fix (Q1) retires it. Once Q1 is applied, the per-cycle cap is the only thing between this chapter and 8.5.
+
+### Measured on the real file
+- `bash tools/check_chapter.sh 22`: **ALL MECHANICAL GATES CLEAN**.
+  - Show/tell 7,041w, dialogue 36.3%. Metaphor 1.4 fig/1k, median 17.
+  - Shape `22 7008 7 36 17 long-spiral dialogue`. SHAPE CLEAN.
+- `tic_report.py --gate`: clean. And-chains 6/9. Every gesture class is under the cap.
+- `--echoes 22`: **93**, which matches the cycle-1 test.
+  - Spoken-line echoes: none.
+  - Command-echo: the same false positive as before ("Myrrhine says that I shook").
+
+### Narrated-trait hand count (rule: more than 3 per chapter, or 3 inside ~500 words, fails)
+Word positions come from a script over the page with the header comments stripped.
+
+| Character | State | Notes now (word position) | Verdict |
+|---|---|---|---|
+| The judge | eyes shut / asleep | "listened with closed eyes" (1536); "eyes still closed" (3835); "he was asleep" (4355, Myrrhine) | **3. PASS.** "the judge sat forward" (G1) is a new gesture, not the state. |
+| Myrrhine | barefoot / shoes | "took off one shoe" (4305); "barefoot, with her red shoes" (4827); "walked the whole of it barefoot" (6104) | **3. PASS.** The first two are 522 words apart. |
+| Valens | waiting | "waited while the court finished" (3859) | **1. PASS** |
+| Valens | standing still | "The one standing still." (4962, spoken); "He stood looking at them" (5277) | **2. PASS** |
+| Plautia | stillness | "kept her place" (488); "none of her stillness" (1646); "went stiller" (3953) | **3, spread across the chapter. PASS** |
+| Celer | talking / laughing | "still talking", "losing the thread"; laughs ×2, plus "Celer's bench included" | 2–3. PASS |
+| Celer's advocate | the hand | l.96, l.298, l.328 | 3. PASS (it is his plant, use and drop) |
+| Our advocate | hoarse / no gestures | 2 each | PASS |
+| Valens | boots | "unlaced one boot" / "unlaced the other … set the pair" | 2. PASS |
+| Plautia | hands / veil fringe | The plant "whatever I do with my hands" (l.76), then the pot rim, under the cloak, the fringe ×3, the hands "less sure" with her hair down, and the payoff "kept her hands empty and let him hold it" | A designed arc that the chapter states and then pays off. The states progress; none repeats. PASS (same ruling as cycle 1). |
+| Mara | the child moving | 4 in the heel scene (~115 words, one continuous event that the scene exists to show) + the jolt that opens the laugh | Scene subject, not a re-noted trait. PASS |
+| Props | the water clock / jar | 14 mentions, never 3 inside 400 words | The court's timekeeping, part of the setting. No character handles it repeatedly. PASS |
+
+### Did cycle 1 plant anything?
+- **G1–G3, V1, V3, V4, M1, P1, B1: clean.**
+  - The new strings ("the judge sat forward", "was along the pier", "closed on Valens", "his sister after him") are first uses book-wide.
+  - G2 reads well: "You need not look at him at all" now points at Celer, so Valens's "Celer … with the light behind him" is his reason not to look at the judge.
+  - V2 makes Myrrhine's "I'd only an eye for you" a clean answer to "Valens."
+  - Myrrhine's deflating quips are now 3 ("That makes it a game." / "Nothing's given," / "He got it cheap").
+- **M2: planted a finding.**
+  - The swap replaced "Who pays for all that?" (the Ch.7 frame) with **"Whose money is it?"**. That rebuilds the Delphi housewife's **"Whose water washes it?"** (Ch.11 l.290; the bible logs it as "her labor axis, as a question back").
+  - Ch.5 has "Whose are you?", and Ch.18's fish-seller shouts "Who's paying for those?". So the who-pays question in a working woman's mouth is now a frame used in four earlier chapters, and Ch.22 was its fifth use. The repeat moved one frame over.
+  - The answer **"The emperor's. Out of Judaea."**, right after "money", also rebuilds the Ch.17 crier's "Judaea taken! The emperor's new money". The bible has the Judaea Capta coin as used once.
+  - The gates cannot see a frame. This is the evaluator spec's own warning ("a fix that creates a finding is not a fix"), and this time the evaluator's own string did it.
+- **No closed or spent channel was touched. No cut effect came back:**
+  - the hiccups are still absent;
+  - the arena thought has no body reply;
+  - "the court has heard" is still gone;
+  - nothing counts the courts.
+- **One query, no change:** "The judge, eyes still closed" (l.240) has lost its day-two antecedent, since G1 and G2 cut the earlier notes.
+  - "Still" reads naturally as his habit, because the l.82 introduction set it up.
+  - Restoring an antecedent would put the judge back at 4 notes. Leave it.
+- **Noted, not a finding:** "said Myrrhine" appears 5 times, twice within 4 lines (l.288/292) and twice within 9 (l.376/384).
+  - Speech tags are invisible furniture, and no gate or law counts them. Do not touch them.
+
+### Genesis Score (cycle 2)
+| Dimension | c1 | c2 | Evidence / reason |
+|---|---|---|---|
+| Originality | 8.5 | **8.5** | Unchanged. The sneeze refuses the testimony climax; the verdict lands under another court's applause; the assessor's uncle ("He'd have liked the extra months."). |
+| Theme | 9.0 | **9.0** | Unchanged. "and the man next to him said the name back." / "Nobody said the name of the witness." / "He used to carry you." |
+| Characters | 7.5 | **8.0** (+0.5, the per-cycle maximum) | The narrated-trait law is clear for every recurring character (table above). The evidence is still 8.5: Plautia's "I would be grateful if nobody told me."; Valens's "Who was on the roofs, and where the dogs were." and "You never heard it,"; Celer round the ladder and his foot on the step; 14 speakers pass cover-the-name; Mara's chaos is 4/4 inhabited. The one open item is the planted M2 frame, a law finding that blocks finalize rather than a 7.5 cap. Q1 clears it. |
+| Prose & Voice | 9.0 | **9.0** | Holds. The cycle-1 cuts read clean: "Valens let the question go by, his gaze at the aisle's end, and the water ran in the clock." The stopping sentence is intact ("This one still had the chisel in it, and my fingertips came away from its cups gray with grit."), and so is the laugh paragraph. |
+| Pacing | 8.5 | **8.5** | Unchanged. 7,008w, 7 breaks, 36% dialogue. The S5–S7 slow run is earned. |
+| Emotion | 9.0 | **9.0** | Unchanged. The anchor is the name thrown to the back benches. The surprise is the laugh at the sneeze, in the body only. Also the empty bench seen from the gallery. |
+| Immersion | 9.0 | **9.0** | Unchanged. The lead smell is still the Hostile's open INVESTIGATE. |
+| **FLOOR** | 7.5 | **8.0** | Characters (per-cycle cap) |
+| **AVERAGE** | 8.64 | **8.71** | |
+
+**Anti-AI:** 6/20, −1.0, clean band. Unchanged from cycle 1.
+**Laws:**
+- PASS: no foreshadowing (gate 0), retired reflexes, "nine" 0, "citizen" 0, the brother unnamed, the laugh never through the mouth, em-dash 0.
+- The no-tics hand count: **PASS** (table above).
+- No reused spoken lines or frames: **one finding (M2 → Q1).**
+
+**Readers:**
+- Casual: **9.0**, unchanged.
+- Critic: the six-times shoes are gone.
+- Devoted: may hear the Ch.17 crier in "The emperor's. Out of Judaea." after "money". Q1 removes that.
+- Hostile: nothing new.
+
+**CVI:**
+- **CVI-Launch 9.6** (inputs unchanged).
+- **CVI-Legacy 7.0** (8.5×.30 + 9.0×.25 + 3×.20 + 7×.15 + 5×.10 = 6.95).
+
+### Tested fix set (cycle 2)
+**Script:** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes22c/apply_fixes.py`
+- Run it from the book folder: `python3 <script> manuscript/chapters/chapter-22.md`.
+- The old string must match exactly once, or nothing is written.
+
+| ID | Now | After |
+|---|---|---|
+| Q1 | "They've a theater for games already. Two. I've seen them. Whose money is it?" / "The emperor's. Out of Judaea." | "They've a theater for games already. Two. I've seen them." / "The emperor's building it out of Judaea." |
+
+Why it works:
+- Myrrhine asks nothing. Mara answers the implied "why a third?".
+- "Out of Judaea" now plays against the Tibur stone on the oxcarts a paragraph earlier, and Myrrhine's "He got it cheap, the emperor," lands on it as before.
+- Her quip count stays at 3.
+
+**Tested on** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/reeval22c/books/the-hour-of-ash/`, with the repo `tools/` linked. md5 after: `d48152253cbd059a012aaf92b09d000a`.
+- `check_chapter.sh 22`: **ALL MECHANICAL GATES CLEAN**. Show/tell 7,041w, dialogue 36.3%.
+- Shape: `22 7006 7 36 17 long-spiral dialogue`, SHAPE CLEAN.
+- Tic gate: clean.
+- `--echoes 22`: **93, identical to before** (diffed). No new echo. Spoken-line echoes: none.
+- **Two candidates were rejected before testing:**
+  - "The emperor's paying for this one": "for this one" echoes Ch.21's "He charged me for this one", and "[N]'s paying" is Ch.17's "Her brother's paying my road".
+  - "Somebody's rich." in Myrrhine's mouth: it would make a fourth deflating quip.
+- I grepped "building it", "emperor's building" and "one's the emperor" against Ch.1–21, voice-dna and voice-bank/: all are first uses. None touches a CLOSED or SPENT entry.
+- **The real file was not touched** (md5 still `251a664c…`).
+
+**After Q1:**
+- No dimension has anything on the page holding it below 8.5.
+- Characters is 8.5 on the evidence and 8.0 only because of the per-cycle cap.
+- **Make no further text changes.** Cycle 3 should be a verification pass. Expected result: Characters 8.5, Floor 8.5, Average 8.79.
+
+**Bible sync (for finalize):**
+- Log the working-woman who-pays / "Whose …?" question frame as **CLOSED**: Ch.5, 7, 11, 18; Ch.22 retired.
+- Refresh the chapter's stale header comment: it still says "77-word sensory sentence" and "pull EMOTIONAL".
+
+### VERDICT (cycle 2)
+**POLISH.** Floor 8.0 (Characters, the +0.5 per-cycle cap). Casual 9.0. Pacing OK. Gates clean. The narrated-trait law is cleared.
+- Apply `fixes22c/apply_fixes.py` (Q1, one line) to retire the reused question frame that cycle 1 planted.
+- Then re-run E+F with no other edits.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis). One judgement call could go the other way: whether "Whose money is it?" counts as a reused frame (a human editor might call it ordinary English). I ruled it under the book's frame law because the speaker class and the cost axis both match Ch.11, and because it replaced a line that cycle 1 cut for exactly that reason.

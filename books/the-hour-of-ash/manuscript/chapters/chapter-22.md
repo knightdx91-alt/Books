@@ -377,9 +377,9 @@ It was a place for men to fight in, while Rome watched them. I was thinking that
 
 "Games."
 
-"They've a theater for games already. Two. I've seen them. Whose money is it?"
+"They've a theater for games already. Two. I've seen them."
 
-"The emperor's. Out of Judaea."
+"The emperor's building it out of Judaea."
 
 "He got it cheap, the emperor," said Myrrhine.
 
