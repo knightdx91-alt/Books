@@ -3543,3 +3543,41 @@ Open contradictions: 33 → 37.
   - Every single-quoted fragment on the added Ch.25 lines was checked by script against the repaired page. The fragments that do not match are plan, other-chapter or explicitly labelled post-disruptor quotes.
   - The file holds 376 characters, 118 locations, 178 objects, 23 organizations, 70 plot threads, 127 world rules, 245 timeline_events and 175 contradiction rows.
   - **61 open** (57 before; +7 CH25-1..CH25-7; −3 CH25-1..CH25-3 RESOLVED).
+
+## 2026-10-23: RE-SYNC (chapter 25, "Augurinus", FINAL page)
+
+- **Page read:** chapter-25.md at b69c374, md5 472a9dec950ad052597f723ef0aadc66. This is after the evaluator fix sets 4ec694d (F1-F11), 8ae9cbf (G1-G5, H1-H2), ad58bd2 (J1-J4, H3), bf56a37 (K1-K12, H4) and the header finalize b69c374 (cycle 4 PASS; evaluations/chapter-25-eval.md). The previous pass recorded the continuity-repaired page 6b51af1 (md5 9fe39d862250573bc347e5caea6324c7).
+- **Numbering:** still 221 paragraphs, no breaks, none added or cut.
+  - A script compared old and new paragraph by paragraph and confirmed old pN = new pN for all 221. No cite moved.
+  - Text changed inside 29 paragraphs: p4, p14, p20, p26, p38, p45, p46, p98, p106, p109, p110, p113, p114, p115, p120, p127, p129, p131, p134, p136, p142, p146, p149, p152, p159, p161, p183, p188 and p210.
+- **Rewritten to the page (the cut words marked CUT inline):**
+  - "Where the hell'd you get to?" (p20). The comma form with "he told it" is CUT (F9). Rewritten in CH24-1's ch25_recheck, Fenn's ch25_confirmed, Mara's identity knowledge row and the lighter beat.
+  - "In May. May of ninety-eight. Our ninety-eight." (p45). "Nineteen ninety-eight." and "without the nineteen" are CUT (F7). Rewritten in Fenn's knowledge row and knowledge_index.mara_origin.
+  - Lucius "was busy with the gulls" (p4). "glared" is CUT (G4a).
+  - The basil is "in a chipped pot" (p14). "mended with a lead staple" is CUT (F8), and so is "the cracked basil pot" (p115). Rewritten in Fenn's possessions and in potted-basil (description, physical).
+  - **Valens's sill steps:** "At some point Valens passed behind my stool, saying nothing, took the basil pot off the sill…" (p115). "came two steps inside" and "returned to his post" are CUT (F1a/F1b). Rewritten in Valens's basil trait and the potted-basil beat.
+  - **Valens and the child:** he "carried the roaring child out of reach of the tray" (p146). "took up his place in the door again" is CUT. He is in the doorway with Lucius asleep at p192, and p192 is added to the source of his father trait.
+  - **Fenn's stool and table:** "He left the stool for his table." (p120). "He swiveled on the table toward Valens, who looked back." and the "The Pythia." echo are CUT (F5/J3). august-fenn.physical.movement now records the stool and table blocking (p81, p106, p114, p120).
+  - **The copper:** it is taken (p98) and flicked back (p102). "He stood the copper on its edge and spun it…" is CUT (K6). Updated in the maras-two-coppers beat.
+  - **The lighter:** the wave of it at his room is CUT ("He waved a hand at his room", p114), and so is "He looked at it and" (p127). The p114 cite is dropped from fenns-zippo (the beat and Fenn's possession row). p138 ("over his lighter") is added.
+  - "I've got a feeling it's fair, that it owes me sixty-eight." (p131). "I figure it owes me sixty-eight." is CUT.
+  - "I watched him not ask." (p188). The clause "He was pinning his own hand to the wood and not asking, and" is CUT. The hand "held it down hard" stays.
+  - The satchel holds "everything else that had crossed with me through the cave" (p183, F11). Rewritten in Mara's possessions, fenn-notebook.location_ch25 and maras-satchel (description, review_note).
+- **Checked, no YAML row to change:**
+  - "in a Chaldean's robe" (p26) is now "dressed as a Chaldean". The robe itself is still on the page at p16. Fenn's distinguishing row is sourced to the foundation and is unchanged.
+  - Also gone from the page and not quoted anywhere in the YAML: "swung round to the doorway" (p38), the hot springs and "Fenn stayed facing his wall" (p106, p109), "pause for breath" (p113), "Fenn talked straight through it" (p115), "He was away again." (p129), "came a pace off his post" (p134), "weighed the taste" (p136), "then turned to me" (p142), the "Mules." echo (p149), "anyhow" (p152), "He took that in." (p159), "shaking dice" (p161) and "for some while" (p210).
+- **Flags:**
+  - **CLOSED:** CH25-7. The page now says "everything else", which no longer claims the watch on her wrist (ch-24:p229), so one value is left. `prose_final` and a resolution are added. The satchel-versus-bag question was never a contradiction and stays as needs_review on maras-satchel.
+  - **Rechecked, still open:**
+    - CH25-4 (info). A `prose_final` and a `recheck_final` are added. The staple is gone and the lighter's wave is cut. The fair weather, the lighter that is never named a Zippo and never shown dead, and the WHEN at p75 all stand.
+    - CH25-5 (info). p162, p178-p180, p184, p194 and p196 are unchanged.
+    - CH25-6 (info). p57, p59, p60, p62 and p65 are unchanged. Part (b), the 1997 Series question, stands.
+  - **NEW:** none. **CRITICAL:** none. **knowledge_gap:** none.
+- **meta:** header note, `last_updated_by`, `mode`, `source`, a Ch.25 RE-SYNC clause in `paragraph_rule`, a `revalidation_needed` chapter-25 row (RESOLVED) and a `ch25_requested_checks` re-sync row.
+- **Not touched:** the manuscript (md5 still 472a9dec…), character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - All 707 ch-25 cites fall in p1..p221.
+  - Every single-quoted fragment in the file that was on the repaired page but is gone from the final page now sits under a RE-SYNC/CUT note, or in a kept earlier `prose`/`note` field beside its `prose_final`/`resolution`. The only other hits are short matches to fragments from other chapters.
+  - The file holds 376 characters, 118 locations, 178 objects, 23 organizations, 70 plot threads, 127 world rules, 245 timeline_events and 175 contradiction rows.
+  - **60 open** (61 before; −1 CH25-7).
