@@ -886,7 +886,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 4. **NON-NEGOTIABLE.** Lucius rolls the knucklebone down the gallery. Fenn draws a baseball diamond in the dust for him.
 5. Long fade on the walk back, the bay going purple. (The 1990s-word rage stays a one-off in the Ch.26 letter; it is not repeated in person.)
 **Progressive structure:**
-- Builds on Ch.26: his invitation.
+- Builds on Ch.26: the letters (**Ch.26 cascade, audit 2026-10-24:** no Ch.26 letter carries the invitation, so Ch.27 itself delivers it — a short new letter, or Fenn in person — in fresh words).
 - Adds: doors can die, and Fenn's waiting has a texture.
 - Opens toward Ch.28: Felix has gone missing (news on return).
 **Theme presence:** what waiting for another life costs.
@@ -1102,7 +1102,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Opening strategy:** mid-dialogue. Fenn complaining about the doctor.
 **Key scenes/beats (alternating):**
 - **Deathbed:** Mara nursing him; Valens carrying him to the window; the children kept away, then not.
-- **1968, in his words:** Philadelphia, the morning he left, the note on the hall table. **NON-NEGOTIABLE:** he asks at last for the notebook he refused in Ch.25, reads his own 1968 front pages (not her tremor notes at the back), and says his sister's name, Margaret, for the first time. Mara has never said it to him; she does not say it now.
+- **1968, in his words:** Philadelphia, the morning he left, the note on the hall table. **Ch.26 cascade (audit, 2026-10-24):** Ch.26's letter already gave the note's wording ("Home by Labor Day") and the hall table where his sister left the 1964 scorecard, so Ch.35's 1968 needs new material (the morning itself: the taxi, the house, what he took, what he left) and must not re-quote the note. **NON-NEGOTIABLE:** he asks at last for the notebook he refused in Ch.25, reads his own 1968 front pages (not her tremor notes at the back), and says his sister's name, Margaret, for the first time. Mara has never said it to him; she does not say it now.
 - **Object beat (one line, no comment).** Waiting by the bed while he sleeps, Mara touches the microcassette in its sock in her bag.
 - **NON-NEGOTIABLE.** The Zippo catches once.
 - **NON-NEGOTIABLE.** He gives her his original tables and his things (the Zippo, a 1964 dime, a coverless paperback), and the notebook back. He insists he'd go. He does not have a deathbed conversion.
