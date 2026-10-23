@@ -851,7 +851,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Opening strategy:** a document. A Fenn letter in his runaway 1960s idiom (9–27 words, so `narrative`).
 **Key scenes/beats:**
 1. **NON-NEGOTIABLE.** The chapter opens with Aelia three weeks old. The birth happened between chapters and is not narrated. Greedy, grabbing, loud.
-2. **(document, REVEAL)** Fenn on the Phillies' 1964 collapse, his sister ("I left her a note on the hall table"), unnamed.
+2. **(document, REVEAL)** Fenn on the Phillies' 1964 collapse, his sister ("I left her a note on the hall table"), unnamed. **Ch.25 cascade (audit, 2026-10-24):** Ch.25 already told the whole 1964 collapse aloud (six and a half up with twelve to play, Bunning and Short on two days' rest, Chico Ruiz), so the letter must NOT retell it; give it new 1964 material (a particular game he saw, who he went with, the scorecard, the walk home) or move the letter's baseball to another season. The sister stays unnamed.
 3. **(document, REVEAL)** Fenn asks who won the World Series in 1997. He is furious at a word she used ("voicemail").
 4. **NON-NEGOTIABLE.** The copy of his tables lies in a box under the bed, unopened. No narration of why.
 5. Valens asks her to teach him an English word. She teaches him one, and he uses it wrongly and happily. This happens only in this chapter. **No recurring callback.**
