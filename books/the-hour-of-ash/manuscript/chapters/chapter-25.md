@@ -15,7 +15,7 @@ Valens spent a while eyeing the stair. He had Lucius on his forearm, facing out,
 
 "The third tread's split."
 
-"Then I will step over that, and you will hold the boy, and if the Chaldean is mad I will be down again quickly."
+"I will step over it. You hold the boy, and if the Chaldean is mad I will be down again quickly."
 
 "I'll follow you up."
 
@@ -79,7 +79,7 @@ The stair shook under somebody heavy taking it by twos, and the third tread crac
 
 On the sill Valens had halted, a hand to the jamb, as he halted in any doorway to learn a room before entering it, but the room had stopped mattering to him. He watched the Chaldean's mouth while it talked, and mine while it answered, and back again. Words were going between us fast and flat, words with nothing in them that was Latin or Greek or anything spoken on any quay he had ever worked, and it cost us no effort; we were barely listening to ourselves. The color came up out of his collar. It climbed his neck and darkened his face from the chin to the hair, slowly, the whole of it, and his hand left the jamb. He pressed his mouth to the top of Lucius's head and did not lift it. Lucius objected, and nobody attended to him.
 
-"Husband," said the Chaldean, and swung round to the doorway at last. He took in the man there, and the size of him, and the child, and he stopped hitting my back. "Holy smoke. Tell him I'm harmless, would you? Tell him I've got a bad hand and I never hurt anybody in my life."
+"Husband," said the Chaldean, and swung round to the doorway at last. He took in the man there, and the size of him, and the child, and he stopped hitting my back. "Holy smoke. Tell him I'm harmless. Tell him I've got a bad hand and I never hurt anybody in my life."
 
 Telling anybody anything was beyond me. He saw that, and turned to the doorway, and bowed from the waist, a real bow, with one hand pressed to the breast of his robe, and spoke in his schoolmaster's Greek.
 
@@ -95,7 +95,7 @@ I laid the papyrus flat again, square with the table's edge, and weighted one en
 
 "In May. May of ninety-eight. Nineteen ninety-eight."
 
-He repeated it without the nineteen, slowly, testing it like a board he had been told would hold. "Ninety-eight." He glanced at the harbor and back. "Thirty years. You left thirty years after I did, and you got here first and found me, and that's. What's your name? I'm sorry. What's your name?"
+He repeated it without the nineteen, slowly, testing it like a board he had been told would hold. "Ninety-eight." He glanced at the harbor and back. "Thirty years. You left thirty years after I did, and you walk in my door, and that's. What's your name? I'm sorry. What's your name?"
 
 "Mara. Mara Reyes."
 
@@ -117,7 +117,7 @@ He stared, and then he put his head back and laughed up at the beams, a high cra
 
 "It still does. It's still a trolley."
 
-"Well, whaddaya know." He perched on the edge of his own table, which put the sand tray at his hip and the skirt of his robe in the sand, and he did not notice. "Keep it all to yourself. I mean it. I won't have it secondhand, I want to walk out of that door and find it all out for myself. Who's president, I couldn't care less. The moon, forget the moon. Did they get to the moon?"
+"Well, whaddaya know." He perched on the edge of his own table, which put the sand tray at his hip and the skirt of his robe in the sand, and he did not notice. "Don't tell me a thing. I mean it. I won't have it secondhand, I want to walk out of that door and find it all out for myself. Who's president, I couldn't care less. The moon, forget the moon. Did they get to the moon?"
 
 I began to answer.
 
@@ -133,7 +133,7 @@ His mouth worked on nothing for a second.
 
 "McGraw. A relief pitcher. He slapped his glove on his leg before he threw."
 
-"Never heard of him." He frowned at the lighter in his fist. "Nineteen eighty. Sixty-four, you remember what they did? Six and a half games up with twelve to play. Twelve. You could've parked a Buick in that lead. And Mauch starts Bunning and Short on two days' rest down the stretch, like they're made out of iron, and then Chico Ruiz steals home on them, steals home, with Frank Robinson at the plate, who does that, nobody does that, and that's the ballgame, and they drop ten in a row, and I'm sitting in a bar on Girard Avenue watching grown men cry into their beer, and I'm one of them." He stopped. "The World Series. You're on the level?"
+"Never heard of him." He frowned at the lighter in his fist. "Nineteen eighty. You know what they did in sixty-four? Six and a half games up with twelve to play. Twelve. You could've parked a Buick in that lead. And Mauch starts Bunning and Short on two days' rest down the stretch, like they're made out of iron, and then Chico Ruiz steals home on them, steals home, with Frank Robinson at the plate, who does that, nobody does that, and that's the ballgame, and they drop ten in a row, and I'm sitting in a bar on Girard Avenue watching grown men cry into their beer, and I'm one of them." He stopped. "The World Series. You're on the level?"
 
 "I swear it. They had a parade."
 
@@ -145,21 +145,21 @@ His mouth worked on nothing for a second.
 
 "Old things. He was an archaeologist. Cyprus, and then Sicily."
 
-"An archaeologist, for crying out loud. He'd have liked it here, then, he'd have had a ball. Is he still..." He saw something in my face, I suppose, though my face had not held his interest much. "Ah. Hell."
+"An archaeologist, for crying out loud. He'd have had a ball here. Is he still..." He saw something in my face, I suppose, though my face had not held his interest much. "Ah. Hell."
 
 "The house is still there. I was clearing it out."
 
 "Hell," he said, lower, and studied the lighter instead of me. Then he slapped the wood at his hip, so that the sand jumped in its tray. "Okay. I'll go see them once I'm back, the Phillies. They'll be lousy by that time, nobody stays good that long, but I'll go see them anyhow. And you found Pompeii's. You must have, you're here, and nobody comes to Campania for the fish."
 
-"How on earth can you know about—"
+"How do you even know about—"
 
-"The freedman's place outside the Nuceria Gate, with the door done on its front in paint. Eros's." He was beaming at me. "That's mine. I've had my eye on that door since sixty-two. This is swell. Nothing this good's happened to me since Nero. Late summer, seventy-nine."
+"The freedman's place outside the Nuceria Gate, with the door done on its front in paint. Eros's." He was beaming at me. "That's mine. I've had my eye on that door since sixty-two. This is swell. Nothing this good's happened to me since Nero was a pup. Late summer, seventy-nine."
 
 Down on the quay a man was crying sprats. The gulls went over.
 
 "What?" I said.
 
-"Seventy-nine. You heard me. We'll walk in together, you and me. I had it figured I'd be going alone." He laughed, one short bark. "I've got to tell you, it never sat well with me, going alone."
+"Seventy-nine. You heard me. We'll walk in together, you and me. I had it figured I'd be going alone." He laughed, one short bark. "Never did care for that part."
 
 My hand was still on the end of the papyrus. I lifted it. I had pressed the roll flat so hard that the base of my palm had left a print in the ink of one of his circles, a little smudged moon where there had been no moon before, and I looked at that.
 
@@ -183,11 +183,11 @@ He let that one in; I saw him decide to. He shifted his seat on the table and fo
 
 "I tried. They laughed at me in the market at Delphi for a month."
 
-He was off again, talking across me. "That's right, you can't. And then the stars. The Navy taught me the sky. Celestial navigation, nineteen fifty-two, on a tin can off Korea, and a Chaldean's mostly a guy who knows the sky and where it'll be a week from Tuesday. The rest is keeping a straight face." He showed me the straight face, and it was very good. "So it was Greek first, and then the stars, and then the stars in Greek, for the merchants, and then over here to Italy, because Italy's where the money is and Italy's where the ground moves. I teach the rich men's boys their triangles in the mornings, in a house on the hill, and they throw figs at my neck when I turn round to the board. You feel it, down your way, the ground? Constantly, little ones. You feel them?"
+He was off again, talking across me. "That's right, you can't. And the stars. The Navy taught me the sky. Celestial navigation, nineteen fifty-two, on a tin can off Korea, and a Chaldean's mostly a guy who knows the sky and where it'll be a week from Tuesday. The rest is keeping a straight face." He showed me the straight face, and it was very good. "So I got the Greek, and I put the stars into Greek for the merchants, and I came over here to Italy, because Italy's where the money is and Italy's where the ground moves. I teach the rich men's boys their triangles in the mornings, in a house on the hill, and they throw olive pits at my neck when I turn round to the board. You feel it down your way? The ground? Little ones, every week. You feel them?"
 
 "I feel them."
 
-"I knew you would." He pointed past me at the wall, where a long red curve wandered across the charcoal, rubbed and redrawn. "That's them, every one I ever felt and every one I ever heard tell of between this quay and Neapolis, and they come in runs, like surf. A couple of big ones, a long quiet, then a lot of little ones close together that don't mean much, and in time you get a feel for it, it's not math exactly, it's more like knowing a pitcher. Listen, are you thirsty? You want some wooder?"
+"I knew you would." He pointed past me at the wall, where a long red curve wandered across the charcoal, rubbed and redrawn. "That's them, every one I ever felt and every one I ever heard tell of between this quay and Neapolis, and they come in runs, like surf, a couple of big ones and then quiet for months and then a lot of little ones close together that don't mean much, and you get to know it the way you get to know a pitcher. Listen, are you thirsty? You want some wooder?"
 
 He said it the Philadelphia way, with a d in the middle of it and the vowel pulled out long. Pat, my father's neighbor, had said it that way, standing in her own hose's spray with it running down the gutter, and I came near to hiding my face in my hands.
 
@@ -195,11 +195,11 @@ He said it the Philadelphia way, with a d in the middle of it and the vowel pull
 
 He fetched three cups on a board from a jar in the corner, and wine in them, not water; the difference had escaped him. He carried one cup to the doorway and offered it to Valens with another little bow, and Valens freed a hand from the child and took it, and gave his thanks in Greek, and tried it. His face met the wine, and I saw it.
 
-"It's terrible," Fenn told me cheerfully. "It's the worst jar on this quay, and I paid real money for it, so I'm drinking it down to the lees if it kills me. You finish what you pay for. Otherwise why'd you pay?"
+"It's terrible," Fenn told me. "It's the worst jar on this quay, and I paid real money for it, so I'm drinking it down to the lees if it kills me. You finish what you pay for. Otherwise why'd you pay?"
 
 I drank mine, and it was terrible, and I drank it. It had been resinated against going sour and had gone sour regardless, and someone had added honey after that, as an apology. Valens had set his cup on the floor beside his boot, with great care, at some distance from himself, and forgotten it.
 
-Fenn reached across me and took one of my two coppers off the table's corner. "Keep your money, I'm not taking it," he said, but he went on looking at it. Vespasian's thick neck was on it, and the emperor's bad-tempered mouth, worn smooth on the high places. "What I'd give for a nickel. Horn and Hardart, Chestnut Street. You duck in, wet through, and there's a whole wall of little glass doors, chrome and glass, a piece of pie behind every door, and you put your nickel in the slot and the little door lets go, click, and you open it up and take your pie out. Coconut cream. The top was always a little damp, like it had been crying." He stood the copper on its edge and spun it on the table, and stopped it with a finger. "Anyhow."
+Fenn reached across me and took one of my two coppers off the table's corner. "Put your money away, I'm not taking it," he said, but he went on looking at it. Vespasian's thick neck was on it, and the emperor's bad-tempered mouth, worn smooth on the high places. "What I'd give for a nickel. Horn and Hardart, Chestnut Street. You duck in, wet through, and there's a whole wall of little glass doors, chrome and glass, a piece of pie behind every door, and you put your nickel in the slot and the little door lets go, click, and you open it up and take your pie out. Coconut cream. The top was always a little damp, like it had been crying." He stood the copper on its edge and spun it on the table, and stopped it with a finger. "Anyhow."
 
 "They're gone," I told him. "New York kept one going longest, and it closed a few years ago."
 
@@ -207,17 +207,17 @@ Fenn reached across me and took one of my two coppers off the table's corner. "K
 
 "I'm sorry."
 
-"I'll go and look." He flicked the copper back to me, and I trapped it against my breastbone. "Where was I? Right. The shakes. This town breathes, did anybody tell you that? Puteoli. It rises and sinks like a fat man asleep. There's iron rings in the old quay wall near the fish steps, mooring rings, and when I first came over from Misenum you lay on your belly on the stones to tie up to them, and now they're half in the wet, and the harbor people swear the sea's come up, and the sea hasn't gone anyplace, it's the town. It's the dirt the town sits on. I scratch a mark by those rings every Kalends with a nail, and the marks walk. Slow, slower than a clock hand, but they walk, and when they walk faster the shakes come, and there's eleven years of marks on that wall that nobody's noticed but me and a guy who sells octopus and thinks I'm counting his customers." He was talking faster. Valens had shifted Lucius higher and half turned toward the stair, and Fenn's eyes had flicked to the movement and returned, and the words came quicker after it, a man lengthening his stride past a yard dog. "And the hot ground on the hill, where the yellow smoke comes out, you ever go and look? The springs go hot and cold. There's a bathhouse keeper up there who tells me when his pool goes cloudy, I pay him in horoscopes, his wife believes every word, and it goes cloudy before the shakes, every time, give or take. Give or take. That's the part that kills you."
+"I'll go and look." He flicked the copper back to me, and I trapped it against my breastbone. "Where was I? Right. The shakes. This town breathes, did anybody tell you that? Puteoli. It rises and sinks like a fat man asleep. There's iron rings in the old quay wall near the fish steps, mooring rings, and when I first came over from Misenum you had to get down on your belly on the stones to tie up to them, and now they're half in the wet, and the harbor people swear the sea's come up, and the sea hasn't gone anyplace, it's the town. It's the dirt the town sits on. I scratch a mark by those rings every Kalends with a nail, and the marks walk. Slow, slower than a clock hand, but they walk, and when they walk faster the shakes come, and there's eleven years of marks on that wall that nobody's noticed but me and a guy who sells octopus and thinks I'm counting his customers." He was talking faster. Valens had shifted Lucius higher and half turned toward the stair, and Fenn's eyes had flicked to the movement and returned, and the words came quicker after it, a man lengthening his stride past a yard dog. "And the hot ground on the hill, where the yellow smoke comes out, you ever go and look? The springs go hot and cold. There's a bathhouse keeper up there who tells me when his pool goes cloudy, I pay him in horoscopes, his wife believes every word, and it goes cloudy before the shakes, every time, give or take. Give or take. That's the part that kills you."
 
 Lucius had begun to complain in earnest, with his face pushed into the side of his father's neck, rooting there for something his father did not have. Valens found my eyes over the small dark head.
 
 "He's hungry," he said.
 
-"Bring him."
+"Give him to me."
 
-He brought him down the room into my arms, and I loosened my tunic at the throat and gave Lucius what he was after, and he took it with a grunt of grievance at having been kept waiting. Fenn broke off halfway into the hot springs. He looked at the ceiling. Then, with a great scraping, he turned his stool round until he sat with his shoulder blades to the room and his nose to the red curve, and kept on at the wall about the bathhouse keeper's pool, a little louder than before, pink to the collar of the robe.
+He carried him down the room into my arms, and I loosened my tunic at the throat and gave Lucius what he was after, and he took it with a grunt of grievance at having been kept waiting. Fenn broke off halfway into the hot springs. He looked at the ceiling. Then, with a great scraping, he turned his stool round until he sat with his shoulder blades to the room and his nose to the red curve, and kept on at the wall about the bathhouse keeper's pool, a little louder than before, pink to the collar of the robe.
 
-"You can turn round. Nobody minds that here."
+"You can turn around. Nobody minds that here."
 
 "I'm comfortable," he said, and stayed as he was.
 
@@ -225,7 +225,7 @@ The shakes ran on till the shadows had moved, and I let them. I might have said 
 
 As he talked I took stock of his room. It was a room for working in, with the table and his stool and the client's stool and the tablets, and the sky on the walls. In a corner a sleeping mat had been rolled tight and tied with a cord, as a sailor rolls his bedding. Two robes hung on a peg, and a lamp stood on the floor beside the mat with no stand to put it on. Next to the doorway, where I had passed it without seeing it, stood a bag of oiled leather with its straps buckled and a stick pushed through the handles for carrying, packed full. There was dust on top of it, an even gray fur that nobody had disturbed. Without my sending it, my hand had gone to the flap of the satchel at my hip.
 
-"Did you marry?" I asked, at his next pause for breath. "Here, I mean. In all this time, did you ever have anybody?"
+"Did you ever get married?" I asked, at his next pause for breath. "Here, I mean. Was there anybody?"
 
 "Me?" Round he came on the stool, honestly surprised. "What would I do that for? I'm not staying. You don't go buying furniture in a hotel." He waved the hand with the lighter in it at his room, at the rolled mat and the peg and the lamp on the floor, and rested his case. "There was a widow in Neapolis who did my laundry and thought I ought to, for a while, and she was a nice woman, she made a fish stew you'd have walked to Neapolis for. But you can't do that to a person. Marry them and then go home on them. That's a lousy thing to do to a person."
 
@@ -233,7 +233,7 @@ I let that go by, and he did not notice that I had.
 
 Lucius, fed and drowsy and cross about it, was handed along the room to his father. At some point Valens came two steps inside, saying nothing, took the cracked basil pot off the sill and moved it along to the end of the sill where the sun lay full, turned it so that the leggy side faced the room, and returned to his post. Fenn talked straight through it, and then abandoned the shakes in mid-run and fixed me with his pale eyes.
 
-"How'd you know where Pompeii's was?" he said. "You didn't get that out of my notebook, I never knew about Pompeii's till sixty-two. Who put you onto it?"
+"How'd you know where Pompeii's was?" he said. "You can't have had it from anybody back there, I couldn't have found Pompeii's on a map myself till sixty-two. Who put you onto it?"
 
 "The god did. At Delphi."
 
@@ -259,7 +259,7 @@ The lighter had gone still in his fingers. He looked at it and slid it away insi
 
 "What makes you sure it'll open again?"
 
-"Because they breathe with the earth. That's all I've got, and it's enough. The ground moves hard, and the door opens a crack, and that's how the Corycian went for me; there'd been a big quake out in the Aegean that winter, had you heard? I hadn't, then. And look at Delphi, built on a fault, with a god in a hole in the ground." He was away again. "Here's how I figure it, and I've had time to figure. It's not a lot of doors. It's one door. One door with many mouths, and it lets you in by one mouth and out by another, and it's no good asking which, or when you'll come out, because it's not a train with a timetable. But it keeps books. It takes back the one it brought. It brought you, so it'll take you. You go to Eros's door when it opens and walk in, and it'll take you back."
+"Because they breathe with the earth. That's all I've got, and it's enough. The ground moves hard, and the door opens a crack, and that's how the Corycian went for me; there'd been a big quake out in the Aegean that winter, had you heard? I hadn't, then. And look at Delphi, built on a fault, with a god in a hole in the ground." He was away again. "Here's how I figure it, and I've had time to figure. It's not a lot of doors. It's one door. One door with many mouths, and it lets you in by one mouth and out by another, and it's no good asking which, or when you'll come out, because it's not a train with a timetable. But it keeps books. It takes back the one it brought. It brought you, so it'll take you. You be at Eros's door when it opens, and you walk in."
 
 "Back to when?"
 
@@ -269,7 +269,7 @@ I heard what he had begun to say and had not said, and I left it where he had pu
 
 Lucius had begun to struggle. Valens lowered him to the floor, which Lucius had been explaining at length was where he meant to be, and Lucius set off at once across the boards on his hands and knees, very fast and very intent, with his bottom high. He went past the stacks of tablets without a glance and made for the table, where Fenn's robe trailed down, and hauled himself upright by the robe until he found the rim of the sand tray at the level of his eyes. He sank both fists into it. Then he put one of them in his mouth.
 
-"Hey, look at that," Fenn said, looking down, and did not move the tray. "Go ahead, buddy. That's last Tuesday's."
+"Hey, look at that," Fenn said, and did not move the tray. "Go ahead, buddy. That's last Tuesday's."
 
 Lucius slapped the sand, hard, and the figure in it went, and Valens came a pace off his post.
 
@@ -285,9 +285,9 @@ Fenn looked at the child properly then, with his whole face, as he had stared at
 
 "Beats me."
 
-"You must have wondered, in all that time."
+"You must have wondered."
 
-"Wondered with who?" He said it mildly. "I've always been on my own. There was never anybody to try it on." He watched Lucius a while longer, then turned to me. "No idea. That's the honest answer, and you're getting it since you asked me straight. Nobody knows, and there's no way of finding out but the one."
+"Wondered with who?" He said it mildly. "I've always been on my own. There was never anybody to try it on." He watched Lucius a while longer, then turned to me. "No idea. Nobody knows, and there's no way of finding out but the one."
 
 Lucius had found the bronze rod and was trying to fit it into his ear. Valens crossed the room and relieved him of it, and Lucius flung himself backward in a fury, and Valens caught his head short of the boards with no appearance of haste, and swung him up.
 
@@ -299,7 +299,7 @@ He gave me a moment, and when nothing more came, he took up his place in the doo
 
 "He's a big one, your husband," Fenn said. "What's he do, when he isn't breaking my stairs?"
 
-"Mules. He carts. He runs a string along the coast."
+"Mules. He runs a string of them along the coast."
 
 "Mules." He weighed Valens with a look, and Valens looked steadily back, and Fenn was the first to find a use for his cup. "Nothing surprises me. Nothing surprises me anymore." His cup turned out to be empty, which seemed to offend him. "What were we on?"
 
@@ -307,11 +307,11 @@ He gave me a moment, and when nothing more came, he took up his place in the doo
 
 The number escaped me unchecked. I had never yet said it aloud on this side, and it sounded littler than I had expected, a number off a classroom wall.
 
-"Right." He set the cup aside. "I'll level with you, because you'd find out anyhow. I've been wrong before."
+"Right." He set the cup aside. "You'd find out anyhow. I've been wrong before."
 
 "How wrong?"
 
-"Twice." He held up two fingers, looked at them, and put them away in his sleeve. "I had it for seventy-one. I'd worked it from the shakes, the runs and the gaps, every big one since sixty-two, and they said spring of seventy-one, plain as day, so I took a blanket and a jar of something and I parked myself on Eros's bench three nights like a guy waiting for a bus. Nothing. Paint. Cold paint at night and warm paint in the day, and nothing. So I worked it all over again, and this time it said seventy-three, in the autumn, and I sat out there three more nights."
+"Twice." He held up two fingers, looked at them, and put them away in his sleeve. "I had it for seventy-one. I'd worked it from the shakes, the runs and the gaps, every big one since sixty-two, and they said spring of seventy-one, plain as day, so I took a blanket and a jar of something and I parked myself on Eros's bench three nights like a guy waiting for a streetcar. Nothing. Paint. Cold paint at night and warm paint in the day, and nothing. So I worked it all over again, and this time it said seventy-three, in the autumn, and I sat out there three more nights."
 
 "When in the autumn?"
 
@@ -319,13 +319,13 @@ The number escaped me unchecked. I had never yet said it aloud on this side, and
 
 That autumn Grata had looked at me over her fish and named what I had not yet told Valens. I had lain in our bed behind my workbench with the rain on the tiles and the news in me, not sure of anything, a mile from Eros's bench, while a Girard Avenue man sat on it in the wet with a blanket over his ears and waited for a door to breathe.
 
-"I was a mile from you," I said. "Asleep, a mile away, near the forum, on the second night, in the rain."
+"I was a mile from you," I said. "That second night, in the rain. I was in bed by the forum."
 
 He took that in. "Well, cripes," he said at last. "You could've brought me an umbrella."
 
 "You never said you'd be there."
 
-"Nobody had any idea, that's the job." He scratched his stubble with the black nail. "So after seventy-three I quit being cute about it. I'm a dope, but I'm not that big a dope. What happens to Pompeii in seventy-nine, I've had that down cold since grade school, and so have you. Every kid who ever sat through second-year Latin knows it. Vesuvius blows its top and Pompeii goes under, and it's all in Pliny." He opened his hands, the tremor in the left one making it look as though he were shaking dice. "Biggest breath the earth's going to take around here for ten centuries. If sixty-two opened Eros's door for half a night, figure what seventy-nine does. So I took that and ran the tables backward from it, and they fit. That's the thing. Once I had the end, the runs fit, and the gaps fit, and it all comes out. You're on that road the night the mountain opens, and you're through and gone before the worst of it. I've got it on paper. It's all there on paper."
+"I don't go telling people where I sit nights." He scratched his stubble with the black nail. "So after seventy-three I quit being cute about it. I'm a dope, but I'm not that big a dope. What happens to Pompeii in seventy-nine, I've had that down cold since high school, and so have you. Every kid who ever sat through second-year Latin knows it. Vesuvius blows its top and Pompeii goes under, and it's all in Pliny." He opened his hands, the tremor in the left one making it look as though he were shaking dice. "Biggest breath the earth's going to take around here for ten centuries. If sixty-two opened Eros's door for half a night, figure what seventy-nine does. So I took that and ran the tables backward from it, and they fit. That's the thing. Once I had the end, the runs fit, and the gaps fit, and it all comes out. You're on that road the night the mountain opens, and you're through and gone before the worst of it. I've got it all on paper."
 
 He left a space for me to ask to see it on paper, and I left it empty.
 
@@ -337,7 +337,7 @@ He left a space for me to ask to see it on paper, and I left it empty.
 
 "They agree on their own. Nobody made them."
 
-"They agree because you knew the answer before you did the sum. If I tell a student the answer's twelve, he'll find a way to make the column come out twelve, and he won't even know he did it."
+"They agree because you knew the answer before you did the sum. Tell somebody the answer's twelve and they'll make the column come out twelve, and never know they did it."
 
 "It didn't go like that."
 
@@ -345,13 +345,13 @@ He left a space for me to ask to see it on paper, and I left it empty.
 
 "Because this time it's the granddaddy of them all."
 
-"There's no knowing what a mountain does to it. Not for you, not for anybody. It could close it for good. It could open next year, in some little shake nobody even notices, next spring, any night. It could go before the mountain and never open again. You don't know."
+"Nobody knows what a mountain does to it. Not you, not anybody. Maybe it shuts it for good. Maybe it opens next spring, on some little shake nobody even notices, and never again. You don't know."
 
 "I saw what sixty-two did."
 
 "Sixty-two was a quake, and you missed it, and you're guessing."
 
-"Sure I'm guessing." He turned a sort of patience on me, the patience he must have kept for grain-ship captains displeased with their stars, and that was the worst of it. "I've been guessing for thirty-four years. Every year of it, guessing. Guesses are all there is here. The difference is, this one's got the end of the world behind it."
+"Sure I'm guessing." He turned a sort of patience on me, the patience he must have kept for grain-ship captains displeased with their stars, and that was the worst of it. "I've been guessing since I landed. That's all anybody's got here. The difference is, this one's got the end of the world behind it."
 
 "So it's your best guess."
 
@@ -359,7 +359,7 @@ He left a space for me to ask to see it on paper, and I left it empty.
 
 I looked at the window. The harbor was full of light, and past it the bay, and beyond the water, low and blue with distance, the long green flank of the mountain with a small white cloud sitting on top of it. I brought my eyes back to the room.
 
-"I've been writing them down," I said. "The shakes. Since seventy-two, every one I've felt in Pompeii, the night and what it did, the lamps or the cups or the bed."
+"I've been writing them down," I said. "The shakes. Since seventy-two. Every one I've felt in Pompeii, which night, what it shook."
 
 "Terrific. Where?"
 
@@ -399,19 +399,19 @@ In the doorway Lucius was asleep, his face crushed into his father's neck, mouth
 
 I returned it to the satchel and did up the flap.
 
-He stood, and slapped at the sand on his robe, and some of it rained into the tray and the rest onto the boards. "Here's what we do. You read? English, I mean, you still read it? You didn't lose it, over here, all this time?"
+He stood, and slapped at the sand on his robe, and some of it rained into the tray and the rest onto the boards. "Now. You read? English, I mean, you still read it? You didn't lose it, over here, all this time?"
 
 "I didn't lose it."
 
-"I lost some. Words go. You go looking for one and find a hole where it used to be, and you stand there in the hole like a dope. I'll write to you. Give me an address."
+"I lost some. Words go. You go looking for one and find a hole where it used to be, and you stand there in the hole like a chump. I'll write to you. Give me an address."
 
 "Pompeii. The mender's shop beside Grata's cookshop, east of the forum, the street with the fullery. Any carter on the road knows Grata."
 
 "Grata." He took the charcoal to the wall and wrote it across somebody's sky, in a neat square hand I had pored over, nights, at home in Philadelphia. "A mender's shop. You mend things? Like what?"
 
-"Everything that comes in. Pots, lamps, a bronze now and then. Whatever people bring."
+"Whatever comes in. Pots, lamps, now and then a bronze."
 
-"Huh," he said, and his pale eyes traveled my face and my hands slowly, taking their time about it now. He faced the wall again. "I'll send you my tables, every figure, worked out. You can check my math. You'll see. You'll come round."
+"Huh," he said, and his pale eyes traveled my face and my hands slowly, taking their time about it now. He faced the wall again. "I'll send you my tables, every figure, worked out. You can check my math. You'll see. You'll come around."
 
 He stood back from his wall to read his work, and his eye strayed to the sill as he stood, and stopped.
 
@@ -419,7 +419,7 @@ He stood back from his wall to read his work, and his eye strayed to the sill as
 
 "My husband did," I said. "While you were telling me about the ground. He thought it wanted the sun."
 
-"It's been in that spot twelve years." That was to me; then, past me, in his courtly Greek, to Valens: "Sir, my basil. You have moved it."
+"It's been in that spot eleven years." That was to me; then, past me, in his courtly Greek, to Valens: "Sir, my basil. You have moved it."
 
 "It was reaching," Valens said. "All one way. It wants the light on its other side, or it grows like that." He left the leggy stems to speak for themselves. "Turn it every few days. Water it less."
 
@@ -441,7 +441,7 @@ Valens regarded him over the sleeping head. "Will they be true?"
 
 I gave him the hour, as near as any of us had it, and the season, and he set it down in charcoal under Grata's name and blew the dust off it. I got to my feet, and my legs held. My two coppers were still on the corner of the table. I reached for them, and then, at a loss, I let them lie.
 
-"You'll be on that road," Fenn said to me, in English again. "You and me. My job's the blanket, yours is the umbrella, and when we come out I'm taking you to a ballgame, first thing, snow or no snow. Connie Mack, the cheap seats, a hot dog, the works. You ever been to Connie Mack?"
+"You'll be on that road," Fenn said to me, in English again. "My job's the blanket, yours is the umbrella, and when we come out I'm taking you to a ballgame, first thing, snow or no snow. Connie Mack, up in the cheap seats with a hot dog. You ever been to Connie Mack?"
 
 I had been driven past where it had stood. My father had pointed it out to me once from the car on Lehigh Avenue, a fenced lot with a church going up on it, and explained the fire to me. I kept the fire to myself.
 
