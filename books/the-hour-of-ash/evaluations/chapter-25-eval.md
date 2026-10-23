@@ -377,3 +377,116 @@ BIAS CHECK: This evaluation was produced by the same system that wrote the prose
 **POLISH.** Genesis Floor 8.0 (Characters) < 8.5. Casual 9.0 ✓; pacing OK ✓; gates clean ✓. F1–F11 landed and cleared three of the four cycle-0 cap reasons. On a full recount, Fenn's narrated talk-on (3 inside ~425 words) and Lucius's lent indignation (5) still break the hand rule, and F1b planted one ambiguity. Apply `fixes25b/apply_fixes.py` (tested) and re-evaluate. Nothing structural.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Re-evaluation — cycle 2
+**Evaluator:** book-evaluator (independent) | **Date:** 2026-10-23 | **Text:** `chapter-25.md` md5 `b48ee45ffd9c66ae10c545431295bb4c` (cycle-1 set G1–G5, H1–H2 applied)
+
+### Verification of the cycle-1 set
+- **All 8 landed once.** Old strings at 0: "talked straight through", "a little louder than before", "and left it", "glared", "cross about it", "then turned to me". "bathhouse keeper's pool" is at 1 (l.228, the designed use). The header is re-synced and no longer quotes sample-09.
+- **Gates on the real file:**
+  - `check_chapter.sh 25`: ALL MECHANICAL GATES CLEAN, SHAPE CLEAN.
+  - `tic_report.py --gate`: clean. Ch.25 gesture layer: 'a (long) moment' 2, shrug 1.
+  - `--echoes 25`: 0 / 0 / 0.
+  - Metrics: 7,438 words (metaphor row), dialogue 49.7%, median 11, mean 16.0, 5.4% of sentences over 40 words, simile 19.
+- **Nothing planted by G1–G5:** no cut string is restored, no closed-list item is used, and no new string echoes another chapter.
+
+### Narrated-trait hand counts: full recount, every recurring character, every state
+Spec: more than 3 notes of one state fails, and so do 3 notes inside ~500 words. Positions are word offsets measured on the page.
+
+| Character | State | Lines | Count / spacing | Verdict |
+|---|---|---|---|---|
+| Fenn | **talks on regardless (narrated)** | 186 "off again, talking across me" · 218 "went on at the wall, louder than before" · **224 "The shakes ran on till the shadows had moved"** · 228 "in the bathhouse keeper's pool again" · (236 "abandoned the shakes in mid-run" implies it too) | **4, with 218/224/228 inside ~180 words.** Cycles 0 and 1 both missed l.224. Its subject is "the shakes", but it narrates his talk running on. | **FAILS** → J1a |
+| Fenn | **keeps to the wall** | 218 turns stool to the wall · 222 "and stayed as he was" · 224 "Fenn stayed facing his wall" | **3 inside ~110 words**, with "stayed" ×2 | **FAILS** → J1a (l.226 "the window behind him" carries the position) |
+| Fenn | **breaks off mid-speech (narrated)** | 218 "broke off halfway into the hot springs" · 236 "abandoned the shakes in mid-run" · 254 "let that go, short of wherever it had been heading" · 268 "broke off and drank" | **4** (>3). l.254 and l.268 are the designed pair, the going-home sentences he cannot finish. | **FAILS** → J2 (l.236 is also the talk-on spill) |
+| Fenn | **grief routed into a look at a thing** | 202 copper "went on looking at it" · 260 lighter "He looked at it and slid it away" · 374 notebook "He looked at it." · 382 "gazed past me at the bay" | **4**, with "He looked at it" verbatim twice, 110 lines apart | **FAILS** → J4 (l.374 is the designed one) |
+| Fenn | turns / faces | 54 swung round · 90 turning round · 218 stool to wall · 234 "Round he came" · **246 "facing Valens"** · 414 "faced the wall again" · 432 "turning fast" | 7 (0.94/1k), with 218/234/246 inside ~525 words. Cycle 1 counted 6 and left out l.246. | borderline → J3 (6, none 3 in 500) |
+| Fenn | looks away (harbor / ceiling / bay) | 98, 218, 382 | 3, spread | OK |
+| Fenn | other looks (doorway at last, stared, eyes flicked, fixed me, the child "properly", weighed Valens, hands over, eye strayed, plant) | 82, 106, 210, 236, 282, 304, 414, 416, 426 | all different states, each motivated | OK |
+| Fenn | left-hand tremor | 38, 382, 394 | 3 | OK ("good/bad hand" 82, 102, 382, 426 are identifiers, not notes) |
+| Fenn | lighter handled | 52, 168, 234, 260 | 4 across 210 lines, never 3 in 400 words | OK (card object, never lit) |
+| Fenn | laughs / grins / smiles | 106, 162 / 268 / 398 | 2 + 1 + 1 | OK |
+| Fenn | bows | 84, 196 | 2 | OK |
+| Fenn | slaps | 152, 402 | 2 | OK |
+| Fenn | "showed me" | 174, 186 | 2 inside ~250 words | WATCH, no action |
+| Fenn | look "… and back" | 98, 210 | 2 | WATCH |
+| Fenn | still / quiet | 258, 260, 368 | 3 different beats | OK |
+| Fenn | hurries | 210 | 1 | OK |
+| Valens | doorway station | 80, 390, 428 (196 implied by the cup) | 3 | OK |
+| Valens | **meets Fenn's eye** | 246 "who looked back" · 304 "Valens looked steadily back" · 434 "regarded him" | 3, with "looked back" ×2 | at the limit; J3 removes l.246 → 2 |
+| Valens | finds me | 68 "found me", 212 "found my eyes" | 2 | OK |
+| Valens | watches | 80, 390 | 2 | OK |
+| Valens | "over the … head" | 212, 434 | 2 | WATCH |
+| Valens | stillness / rocking | 298, 390 | 2 | OK |
+| Lucius | lent adult indignation | 80 objected, 218 grievance, 278 suspicion | 3 | OK (G4 landed) |
+| Lucius | lent adult scrutiny | 26 "which he studied", 278 "regarded" | 2 | OK |
+| Lucius | crying / fury (events) | 212 "complain in earnest", 292 fury, 298 "a sort of complaint" | events, not labels; "complain" ×2 | WATCH |
+| Mara | looks away / at | 164, 360 | 2 | OK |
+| Mara | satchel | 230, 372, 400 | 3, spread | OK |
+| Mara | words escape her | 308, 378 | 2 | OK (≤1 in Ch.26) |
+| Mara | voice out of control | 344 | 1 | OK |
+| Mara | legs gone / held | 60 / 442 | designed pair | OK |
+| Cross-character | "Nobody knows" | Fenn 290, Mara 348 | 2 | INVESTIGATE, no action: she throws his phrase back at him in the argument |
+| Narration | "weighed" | 278 (Lucius, the taste), 304 (Fenn, a look) | 2 | WATCH |
+
+**Why this is not nit-picking.** The 218–236 stretch is the nursing comedy: Fenn turns to his wall and lectures it, and the narration is the only carrier because his speech is off the page. In ~420 words it notes him talking on 4 times, keeping to the wall 3 times and breaking off twice. The joke lands on the first note of each; the repeats are stage directions. The l.260/l.374 "He looked at it" pair makes the notebook beat, the chapter's best silence, read as a reprise of the lighter's.
+
+### Re-scored Genesis (max ±0.5 per dimension)
+| Dimension | Cycle 1 | **Cycle 2** | Basis |
+|---|---|---|---|
+| Originality | 9.0 | **9.0** | unchanged |
+| Theme | 9.0 | **9.0** | unchanged |
+| Characters | 8.0 | **8.0** | G1–G5 cleared cycle 1's two cap reasons (Lucius 5→3; talk-on as cycle 1 counted it). On the full recount the hand rule still fails 4 ways: talk-on (3 inside ~180 words), wall-keeping (3 inside ~110), break-offs (4) and object-looks (4). **Cap 8.0 holds.** Uncapped value 9.0. |
+| Prose & Voice | 8.5 | **8.5** | stopping sentence l.60 intact; underlines intact; no sample lifts; no spent object |
+| Pacing | 8.5 | **8.5** | dialogue 49.7% in band; 89% of target; value shift on two axes; the l.186–236 middle is unchanged. **PACING: OK.** |
+| Emotion | 9.0 | **9.0** | anchor, body rebel and surprise intact |
+| Immersion | 9.0 | **9.0** | blocking holds (stool/table/sill) |
+| **FLOOR / AVERAGE** | 8.0 / 8.71 | **8.0 / 8.71** | Characters |
+
+**Casual Reader 9.0** (unchanged). **CVI-Launch 9.8** (9.29 + 0.5 anchor). **CVI-Legacy 7.3.** Anti-AI 7/20, all minor, CLEAN; #11 at 4 (0.54/1k), under the cap. Divergence: 1.8.
+
+### Cycle-2 fixes (TESTED)
+`/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes25c/apply_fixes.py <path/to/chapter-25.md>` holds 6 exact replacements. Each old string must occur exactly once or the script aborts and writes nothing; a second run aborts.
+
+| # | Location | Type | Now | Revision |
+|---|---|---|---|---|
+| J1a | l.224 | Character (talk-on, wall-keeping) | "The shakes ran on till the shadows had moved. Partway through them a boy bawled … ship's hour. Fenn stayed facing his wall." | → "The shadows on the floor had moved when a boy bawled at the window from the quay below; the broken tread had turned him back, and his master was asking after the ship's hour." |
+| J1b | l.226 | Logic (antecedent) | '"Dawn is propitious," he called to the window behind him' | → "Fenn called" (with J1a, "he" would otherwise reach back to the master) |
+| J2 | l.236 | Character (break-off, 4th; talk-on spill) | "Fenn abandoned the shakes in mid-run and fixed me with his pale eyes." | → "Fenn fixed me with his pale eyes." |
+| J3 | l.246 | Character (turn class; Valens look-back ×2) | "He left the stool for his table, facing Valens, who looked back." | → "He left the stool for his table." (l.270 and l.368 still have him on the table) |
+| J4 | l.260 | Character (object-look, 4th; verbatim with l.374) | "He looked at it and slid it away inside his robe." | → "He slid it away inside his robe." |
+| H3 | l.6 header | bookkeeping | cycles 0-1, shape 7,438, 49.7% | → cycles 0-2, shape 7,414, 49.8%, 88% |
+
+**Test** (scratch copy `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/rt25c2/books/the-hour-of-ash`, starting from md5 `b48ee45f…`):
+- 6 applied; the re-run aborts (exit 1). Patched md5 **`39df960081644e9becf5331cfb362783`**.
+- `check_chapter.sh 25`: **ALL MECHANICAL GATES CLEAN**, SHAPE CLEAN. `--gate` clean (Ch.25 gestures unchanged: 'a (long) moment' 2, shrug 1). `--echoes 25`: 0 / 0 / 0.
+- Metrics: 7,414 words (shape), dialogue 49.8%, median 11, mean 16.0.
+- New strings ("The shadows on the floor had moved", "had moved when", "Fenn called", "He slid it", "left the stool for his table.") were grepped against Ch.1–24, the voice-bank samples, outline and bible: no hits outside Ch.25.
+- No cut string is restored, and no closed-list item is used.
+- The resulting transition reads clean. l.218 "went on at the wall" → shadows → the boy → "Fenn called to the window behind him" → "Fenn was in the bathhouse keeper's pool again" ("again" now reaches back to l.210 and the l.218 break-off) → Valens and the basil → "Fenn fixed me" → "How'd you know where Pompeii's was?". Mara's "While you were telling me about the ground" (l.420) still holds.
+
+**Counts after J1–J4:**
+- Fenn talk-on: 3 (186, 218, 228; 186→218 is ~990 words).
+- Fenn wall-keeping: 2 (218, 222).
+- Fenn break-offs: 3 (218, 254, 268; span ~1,100 words).
+- Fenn object-looks: 3 (202, 374, 382).
+- Fenn turns: 6 (0.81/1k; none 3 in 500).
+- Valens meets Fenn's eye: 2.
+- Every other state is at 3 or fewer, as in the table above.
+
+**Projected:** Characters 8.5 (+0.5) → **Floor 8.5 / Average 8.79 / Casual 9.0 / CVI-Launch 9.8 / CVI-Legacy 7.3**, to be confirmed on the patched page.
+
+### Bookkeeping to carry into finalize (in addition to the cycle-0 and cycle-1 lists)
+- **CUT (never restore):** "The shakes ran on till the shadows had moved", "Partway through them", "Fenn stayed facing his wall", "abandoned the shakes in mid-run", "facing Valens, who looked back", "He looked at it and slid it".
+- **New WATCH for Ch.26+:**
+  - Fenn's narrated break-off is SPENT at 3 ("broke off" ×2 verbatim).
+  - Grief shown as a look at an object: ≤1 per chapter for any character.
+  - Valens "over the … head" is at 2.
+  - Fenn "showed me" is at 2.
+- **Header:** "Writer draft 2026-10-24" postdates the continuity repair (2026-10-23). This is a date slip in the comment and has no effect on the page.
+
+## VERDICT (cycle 2)
+**POLISH.** Genesis Floor 8.0 (Characters) < 8.5. Casual 9.0 ✓; pacing OK ✓; gates clean ✓. G1–G5 landed and cleared cycle 1's cap reasons. A full recount of every state found four narrated states over the hand rule that the earlier counts missed, all inside Fenn's 218–268 stretch: talk-on, wall-keeping, break-offs and object-looks. Apply `fixes25c/apply_fixes.py` (tested, 6 cuts, nothing added but one name) and re-evaluate. Nothing structural.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

@@ -3,7 +3,7 @@
 #### *Puteoli · early spring, AD 75*
 
 <!-- SCENE BUDGET (Target 8,400; Single-scene, one afternoon in one upper room behind the tunny sheds; 0 breaks; gear mid; dialogue 45-55%): the quay, the stair, the room (scene-set) 900 | recognition: the lighter, the mutter, "Thanks," "Jesus H. Christ" 550 | the collapse (laughter and tears at once, the hands that save the papyrus) 350 | Valens in the doorway: the language heard, the flush, nobody says so 500 | the rush: where, when, Baltimore Avenue, the moon refused, the Phillies 1980 / 1964, her father circled 1,100 | the WHEN blurted, flat and fast 300 | her deflection: 1968, the snow, AD 41, Claudius, the sky the Navy taught; the wine he paid for; the automat; the packed bag 1,500 | her own road told back: Delphi, the god, Valens carrying the question 450 | 62 and the law: Misenum, the carter's story, one door with many mouths, the promise, hours not days 900 | the others: Lucius in the sand; "Beats me"; always alone; Valens's one question 600 | the fig leaf: 71, 73, the Ides of October a mile away, the schoolbook year, the refusal 1,200 | the notebook: tremor notes, Pine Street, the estate sale, the trolley, "Keep it" 800 | close: the light, the child's stars, the letters, the stadium she does not tell him about, the punch 500 -->
-<!-- Word count: shape 7,438 / wc incl. header ~7,800 | Writer draft 2026-10-24; continuity repair 2026-10-23 (audit: 7 CRIT, 18 WARN, 6 INFO addressed); evaluator polish cycles 0-1 (F1-F11, G1-G5) | Target: 8,400 (89%) | Dialogue 49.7% (band 45-55) | Breaks 0 (single scene, one afternoon) | Median sentence 11-12 (gear mid planned; a 48%-dialogue two-hander lands low-mid) | Opens scene-set ("It was the first fair week after the sea opened..."), closes punch, single-sentence paragraph ("I told him his arithmetic was wrong.") | Em-dash 3 | And-chains 6 (cap 9) | Negation pivots 0 | Credential asides 0 | Echoes 0 | Tic gate clean | check_chapter.sh 25 ALL MECHANICAL GATES CLEAN | Anchor: the lost-lighter mutter, "Thanks," then "Jesus H. Christ" in a Philadelphia accent -->
+<!-- Word count: shape 7,414 / wc incl. header ~7,780 | Writer draft 2026-10-24; continuity repair 2026-10-23 (audit: 7 CRIT, 18 WARN, 6 INFO addressed); evaluator polish cycles 0-2 (F1-F11, G1-G5, J1-J4) | Target: 8,400 (88%) | Dialogue 49.8% (band 45-55) | Breaks 0 (single scene, one afternoon) | Median sentence 11-12 (gear mid planned; a 48%-dialogue two-hander lands low-mid) | Opens scene-set ("It was the first fair week after the sea opened..."), closes punch, single-sentence paragraph ("I told him his arithmetic was wrong.") | Em-dash 3 | And-chains 6 (cap 9) | Negation pivots 0 | Credential asides 0 | Echoes 0 | Tic gate clean | check_chapter.sh 25 ALL MECHANICAL GATES CLEAN | Anchor: the lost-lighter mutter, "Thanks," then "Jesus H. Christ" in a Philadelphia accent -->
 
 It was the first fair week after the sea opened, and the fish quay at Puteoli smelled of brine, pine tar and the wet straw the tunny came packed in. The sheds stood one beside the next behind the quay with their doors propped open, and inside them men were cutting fish as long as themselves on stone slabs. The blood ran off down channels in the floors and under the sills into the gutter, and the gulls stood in it to their ankles and fought over what came out.
 
@@ -221,9 +221,9 @@ He carried him down the room into my arms, and I loosened my tunic at the throat
 
 "I'm comfortable," he said, and stayed as he was.
 
-The shakes ran on till the shadows had moved. Partway through them a boy bawled at the window from the quay below; the broken tread had turned him back, and his master was asking after the ship's hour. Fenn stayed facing his wall.
+The shadows on the floor had moved when a boy bawled at the window from the quay below; the broken tread had turned him back, and his master was asking after the ship's hour.
 
-"Dawn is propitious," he called to the window behind him, in Greek. "Tell your master the moon favors him, and he may pay me when he is back."
+"Dawn is propitious," Fenn called to the window behind him, in Greek. "Tell your master the moon favors him, and he may pay me when he is back."
 
 The boy's feet went off along the quay, and Fenn was in the bathhouse keeper's pool again, in English, before they were gone.
 
@@ -233,7 +233,7 @@ In a corner a sleeping mat had been rolled tight and tied with a cord, as a sail
 
 "Me?" Round he came on the stool, honestly surprised. "What would I do that for? I'm not staying. You don't go buying furniture in a hotel." He waved the hand with the lighter in it at his room, and rested his case. "There was a widow in Neapolis who did my laundry and thought I ought to, for a while, and she was a nice woman, she made a fish stew you'd have walked to Neapolis for. But you can't do that to a person. Marry them and then go home on them. That's a lousy thing to do to a person."
 
-Lucius, fed and drowsy, was handed along the room to his father. At some point Valens passed behind my stool, saying nothing, took the basil pot off the sill and moved it along to the end of the sill where the sun lay full, and turned it so that the leggy side faced the room. Fenn abandoned the shakes in mid-run and fixed me with his pale eyes.
+Lucius, fed and drowsy, was handed along the room to his father. At some point Valens passed behind my stool, saying nothing, took the basil pot off the sill and moved it along to the end of the sill where the sun lay full, and turned it so that the leggy side faced the room. Fenn fixed me with his pale eyes.
 
 "How'd you know where Pompeii's was?" he said. "You can't have had it from anybody back there, I couldn't have found Pompeii's on a map myself till sixty-two. Who put you onto it?"
 
@@ -243,7 +243,7 @@ Lucius, fed and drowsy, was handed along the room to his father. At some point V
 
 "I asked the oracle where the door home was. Women can't ask the god directly, so my husband carried it in for me, and the answer came back about the road the dead take out of a city, and a tomb with a door that wasn't one. And afterward the Pythia told me herself, at her own door with her knees aching, that it meant Pompeii."
 
-"The Pythia." He left the stool for his table, facing Valens, who looked back. "You asked the Oracle of Delphi, and it told you. Thirty-four years I've been working this out with a stick in the sand, and you climb the hill at Delphi and ask. It never crossed my mind. I lived in Phocis two years, and I never walked up that hill and asked."
+"The Pythia." He left the stool for his table. "You asked the Oracle of Delphi, and it told you. Thirty-four years I've been working this out with a stick in the sand, and you climb the hill at Delphi and ask. It never crossed my mind. I lived in Phocis two years, and I never walked up that hill and asked."
 
 "She didn't tell me when."
 
@@ -257,7 +257,7 @@ Lucius, fed and drowsy, was handed along the room to his father. At some point V
 
 "I crawled off that cot and went, soon as my legs would hold me, and I fell down twice on the road. And it was shut." For once he was quiet. "Shut tight. Warm in the sun, like everything else on that road. I'd missed it by four days. I had a fever, and I missed it."
 
-The lighter had gone still in his fingers. He looked at it and slid it away inside his robe.
+The lighter had gone still in his fingers. He slid it away inside his robe.
 
 "What makes you sure it'll open again?"
 
