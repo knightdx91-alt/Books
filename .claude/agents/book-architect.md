@@ -497,8 +497,14 @@ every book).** Write these into every `voice-dna.md` as binding, then tune only 
 - **Figurative load ≤6 markers/1k and long sentences (40+ words) ≤18%** — `metaphor_check.py` catches the
   bare metaphors and "as ADJ as" similes `style_check` cannot see. Calibrate the ceilings to the register.
 - **Em-dash ≤4 per chapter, absolute** (semicolons do the work); spaced en-dashes count.
-- **Assign each character a figurative rule on their card** (e.g. "never uses a simile in speech").
-  Characters who never compare aloud are a cheap, strong distinctness axis.
+- **Voices come from lives, not rules.** Build each character the way a novelist does: background, work,
+  what they want in the scene, what they notice, what they won't say, their rhythm. How they compare
+  things (or don't) should FALL OUT of that life, and the card records it only where it genuinely does,
+  with the reason: "never compares aloud — a man who survived by reading ground literally" is a note;
+  "compares everything to cooking" invented to fill a slot is a tic and is banned. Never give a
+  character a figurative habit as a device. **The nameable-rule test:** if a reader could state a
+  character's rule after one chapter ("he always…", "she never…"), the rule has become a gimmick —
+  loosen it until only the life shows.
 - **NO FORESHADOWING by default** (`style_check.py --max-foreshadow 0`): a retrospective narrator never
   reaches forward to spoil an unreached outcome. Relax only by an author ruling recorded in STATE.yaml.
 - **Spent/closed lists in the character bible.** Every distinctive image, frame or body-channel used on

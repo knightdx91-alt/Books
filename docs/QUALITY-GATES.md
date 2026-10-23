@@ -281,7 +281,9 @@ the evaluator enforce them:
 - ≤1 present-tense generalisation in past narration per chapter;
 - em-dash ≤4 per chapter, absolute;
 - **no foreshadowing** (`style_check --max-foreshadow 0` is the default; relax only by author ruling);
-- each character carries a figurative rule on their card; some never compare aloud;
+- **voices come from lives, not rules**: a card notes how a character compares things only where it
+  follows from who they are, with the reason; an invented habit is a tic (the nameable-rule test: if a
+  reader could state the rule after one chapter, loosen it);
 - **narrated states count like gestures**: no character's physical state noted more than 3 times
   a chapter (the evaluator counts them by hand, exhaustively, on the first pass);
 - the character bible keeps **SPENT / CLOSED lists**, and nothing on them is rebuilt in new words.

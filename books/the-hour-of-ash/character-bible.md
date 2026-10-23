@@ -49,6 +49,16 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 
 ## PRINCIPALS
 
+### Voices from lives, not rules (author guard, 2026-10-24)
+Every voice in this book comes from the person's life: background, work, wants, what they notice, what
+they won't say, rhythm. Where a card records how a character compares things (Valens: never aloud;
+Mara: freely, from 1998), that is a consequence written down so it does not drift, not a device. **From
+Ch.26 on:** no new character is given an invented figurative habit or any other rule to fill a slot
+(Philokrates, Secundus, Aelia and every walk-on are built from who they are); no one ever comments on
+another character's habit; and the **nameable-rule test** applies at every evaluation: if a reader could
+state a character's rule after one chapter ("he never…", "she always…"), it has become a gimmick and is
+loosened toward the life it came from.
+
 #### MARA REYES — narrator and protagonist; objects conservator, Philadelphia, b. 1965 (Ch.1–44)
 - **Attention / worldview:** what a thing is made of, how it was joined, where it will fail and how it
   was mended. She reads people the same way: their hands, their teeth, the repaired places in them. She
@@ -797,6 +807,13 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   (Ch.12, 22, 23, 32, 41; never explained). **The mime** (Ch.29: he weeps at a farce).
 - **DISTINCTNESS GUARANTEE:** the only speaker who never compares one thing to another and never asks why
   about a feeling, against Mara, whose every other sentence qualifies, compares or asks.
+- **Why he talks this way (the life, not a rule — author guard, 2026-10-24):** a slave taken as a boy,
+  trained to fight, kept alive by reading ground, distance and men's bodies exactly as they are. A man
+  who has bet his life on what is literally in front of him has no use for "like". The plainness is who
+  he is; it is NOT a device. **So:** nobody ever remarks on it (no "you never say what anything is like"),
+  no line is built to show it off, and it is never staged as a joke or a reveal. Ordinary dead idiom a
+  muleteer would use without hearing it as a figure is allowed and should not be policed out. If the
+  absence ever starts to read as a gimmick, loosen it toward the man, never add a new rule.
 - **Sample line:** "He's lame in the off hind. Not your doing. Hold his head and keep talking to him; he
   likes your voice."
 - **Ch.6 as written (Writer, 2026-10-19; first live appearance, Delphi and Parnassus, November AD 70. SYNCED to

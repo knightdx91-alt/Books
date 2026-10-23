@@ -282,7 +282,9 @@ entry:
   only (they make the reader see or smile), never analytical (never interpreting a feeling); ≤1 "as if /
   as though" per chapter; no comparison used twice in the book; no metaphor-stacking; no closing
   aphorism; ≤1 present-tense generalisation in past narration; em-dash ≤4 per chapter. Under real fear,
-  grief or at a climax, drop comparisons altogether. Honour each character's figurative rule on their card.
+  grief or at a climax, drop comparisons altogether. Where a card records how a character compares (or
+  never does) and why, honour it from the life it comes from, never as a mechanical rule: no one comments
+  on the habit, and it never becomes the point of a line.
 - **Narrated states count like gestures.** Do not note the same physical state of one character (eyes
   closed, waiting, a trembling hand, staying still, turning on a stool) more than 3 times in a chapter,
   and never 3 inside ~500 words. Infants and animals get no borrowed adult moods.

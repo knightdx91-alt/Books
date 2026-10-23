@@ -41,8 +41,10 @@ Distinguish characters on **four axes** first:
   states. Mark each USED (n of cap), SPENT (no more uses) or CLOSED (never again, in any words), and
   log the strings later passes cut as CUT (never restore). The writer and every reviser read this
   before touching a chapter. It is what stops a long book from rebuilding its best moments.
-- **Figurative rule per character.** Each card says how that character compares things, if at all
-  (e.g. "never uses a simile in speech"). Narration follows the voice-dna figurative standard.
+- **Voices come from lives, not rules.** A card records how a character compares things (or never does)
+  ONLY where it follows from their life, and says why ("never compares aloud — he survived by reading
+  ground literally"). Never invent a figurative habit to fill a slot; that is a tic. Nameable-rule test:
+  if a reader could state the rule after one chapter, loosen it. Narration follows the voice-dna standard.
 - **Narrated states count like gestures:** no character's physical state noted more than 3 times in a
   chapter; infants and animals get no borrowed adult moods.
 

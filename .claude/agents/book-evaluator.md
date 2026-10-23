@@ -487,6 +487,12 @@ a man "waiting", a woman's stillness). Count each minor or recurring character's
 chapter: more than 3 notes of the same state in one chapter, or 3 inside ~500 words, is a NO-TICS failure
 under Characters, even when `tic_report.py --gate` is clean. Hour of Ash Ch.11, 16, 18 and 22 each grew
 one (Ch.22: the iudex's closed eyes 11×, Valens's waiting 5×). Cut to the one or two notes that do work.
+**The nameable-rule test (Characters).** For each recurring character ask: could a reader state this
+person's rule after one chapter ("he never…", "she always compares things to…")? A voice should be felt,
+not catalogued. If the habit is noticeable as a habit — the absence pointed at, a line built around it,
+the same kind of comparison every time — it is a device and a NO-TICS finding, even if each line is
+fresh. Recommend loosening it toward the life it came from, never adding a new rule in its place.
+
 Do the census EXHAUSTIVELY at cycle 0: every recurring character, every narrated state (talking on, breaking off, turning,
 facing, looking at an object, hands, posture, mood given to an infant), with line numbers. Hour of Ash Ch.25 lost two
 extra cycles because cycle 0 counted four states and each re-evaluation found more that had been there from the start.
