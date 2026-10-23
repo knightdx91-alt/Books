@@ -3435,3 +3435,111 @@ Open contradictions: 33 → 37.
   - The quote-to-cite check leaves only pre-existing loose cites. No new mis-cite came from the renumbering.
   - The file holds 365 characters, 116 locations, 169 objects, 20 organizations, 69 plot threads, 123 world rules, 238 timeline_events and 168 contradiction rows.
   - **57 open** (57 before; −1 CH24-2, +1 CH24-4).
+
+## 2026-10-23: UPDATE (chapter 25, "Augurinus", continuity-repaired page)
+
+- **Page read:** drafted on chapter-25.md at 19f49c2 (writer 788e414, dialogue-polish f8c44dd, hook-craft 3c148dd with no edits, book-disruptor 19f49c2), md5 672814f406fcfe562a2f06832db5b221. The continuity repair 6b51af1 was committed mid-run (evaluations/continuity/chapter-25-audit.md). Every Ch.25 fact and quote was then re-anchored to the page as it now stands, md5 9fe39d862250573bc347e5caea6324c7.
+- **Numbering:** 221 paragraphs, no breaks. The title, the italic dateline and the two HTML comments are not counted, so file line 8 = p1 and file line N = p(N/2 − 3). The repair changed text inside 33 paragraphs and added or cut none, so the numbers hold.
+- **Not recorded (cut before this read, or by the repair):**
+  - The Aegean quake "that winter" and "I hadn't, then." p129 now reads only "that's how the Corycian went for me."
+  - "the boat over to Athens" (now "the plane").
+  - "outside the Nuceria Gate" in Fenn's door line, and "by the Nuceria Gate" in the carter's story (now "a tomb outside the walls"). No gate is named in Ch.25.
+  - "on a wall beside the Sacred Way" (now "at her own door").
+  - Grata's naming of the pregnancy and "the news in me" at p157.
+  - "with his sandals unlaced" (now "in the dark"), "flat as pavement", "pink to the collar of the robe", "It was a room for working in", "in capitals somebody had pressed hard into the cloth", "his pale eyes traveled my face", the three-part horoscope (now "A long life, under his own fig tree."), and "two coppers" at the close (now "My other copper").
+  - The planned "dead Zippo", "star charts" and "one rainy afternoon" were never on the page (CH25-4).
+- **Recorded:**
+  - **August Fenn, in person (p16; named p48):**
+    - Physical: "thin as a heron", the long face and white stubble, washed-out blue eyes, brows still black, the faded blue robe and gray felt cap, the ink-black nail, the left hand's steady tremor, "a bad hand", the light dry grip.
+    - Voice: Greek "a schoolmaster's"; English "with the vowels in his nose", "wooder", and the 1960s idiom.
+    - Aliases: "Augie, back home"; "Augurinus" (the joke, p48; p51); the Chaldean, now confirmed.
+    - The room (NEW `fenns-upper-room`): up the outside stair "Behind the third shed", with the split third tread. Charcoal skies on whitewash, the red shake curve, tablets, the sand tray and rod, the star papyrus. On the sill the basil and the lighter. A mat rolled like a sailor's, two robes on a peg, a lamp with no stand, and the packed bag under dust.
+    - The trade: a ship's hour for a captain who sails at dawn ("Dawn is propitious"), boys' triangles in a house on the hill, and horoscopes paid to a bathhouse keeper.
+    - The story:
+      - 22 July 1968: the new flashlight, kite twine tied at the slot's mouth, "the floor tipped", snow.
+      - AD 41 at the thaw: Claudius, learned from a leek seller at Amphissa.
+      - The Graves book "on the plane".
+      - Father Kostas's Greek book.
+      - Navy celestial navigation, 1952, "off Korea".
+      - Two years in Phocis, then Italy.
+      - The fleet's captains' stars at Misenum by 62.
+      - Puteoli for eleven years (about AD 64, derived). This rests on the mooring-ring marks and the basil's eleven years.
+    - "Thirty-four years" (p120) agrees with AD 41 to AD 75.
+    - 62: "Sixty-two. February." Fever over a Misenum wineshop. The carter "Three days after" tells of a tomb "outside the walls" that "breathed cold", and a family on its bench felt it "till close to dawn". Fenn got there "four days" late, and it was shut.
+    - The law: "One door with many mouths" (worded once). "It takes back the one it brought. It brought you, so it'll take you." This is use 1 of 3 of the allowlisted phrase, as a promise. Also "A night, tops, never days."
+    - Others: "Beats me." / "I've always been on my own." / "No idea. Nobody knows".
+    - The WHEN, word for word: "Late summer, seventy-nine." (p75).
+    - The failed dates: spring 71, three nights on "Eros's bench"; "October, around the Ides" 73, rain on the second night. Then the tables "ran … backward" from the school year. "Vesuvius" is spoken once, by Fenn (p161). "the night the mountain opens" is compatible with the canon's night after.
+    - Traits confirmed on the page: the sunk-cost wine, the coconut cream at Horn and Hardart, the 1964 Phillies, Connie Mack, "not another word" of news, never married ("You don't go buying furniture in a hotel"), the packed bag, courtly Greek to Valens, the notebook refused, the basil.
+  - **Knowledge flow:**
+    - **Mara:**
+      - Knows: Augurinus = Fenn; the date; the law; hours, not days; others unknown; 71 and 73; the school-year rebuild; his road; Puteoli's breathing ground; that he never married; that his tables are "all on paper" (not seen, p162). Fenn knows the year too.
+      - She was a mile from his bench on the second night of the 73 vigil (p158).
+      - She keeps the dealer's name and the sister's name ("I had the name.", p188) and the stadium fire (p220).
+      - She refuses the date: "I told him his arithmetic was wrong." (p221).
+    - **Valens:**
+      - Witnessed the English ("words with nothing in them that was Latin or Greek"). The flush and his mouth on Lucius's head show belief, but nobody declares it.
+      - Asked "Does he know the door?" and was told "He knows it." (p144-p145).
+      - knowledge_absent_ch25: everything said in English, including the date and the rules. The repair removed the gate name from Fenn's English (WARN-01).
+    - **Fenn:**
+      - Knows 1998, the Corycian, May; Philadelphia and Baltimore Avenue; her father dead (inferred); the 1980 Series; the 34 still a trolley; the 23 a bus; the automats closed.
+      - Knows her husband and mules, her Pompeii address under Grata's name, and Lucius's hour.
+      - Knows she has his notebook, from "a dealer on Antique Row, down on Pine" with the chart in a cigar box, bought at the Chestnut Hill estate sale in October '97. "He did not ask whose."
+      - His sister's death is inferred. The page states only the not-asking and the hand.
+      - Knows her tremor notes exist, not what they say.
+    - "Margaret": 0 occurrences.
+  - **Lucius:** "at eight months" on his father's forearm. "glared at the gulls". Nursed. Crawls with his bottom high, pulls up by Fenn's robe, eats and spits the sand, tries the rod in his ear, sleeps in the doorway. His stars are promised free with the letter.
+  - **Valens:** tests the stair, then breaks the third tread coming up by twos. Moves the basil into the sun and gives the advice. Sets the wine cup down far from himself. "Will they be true?" "We should see to the mules." Eleven mule-loads of roof tile, paid in silver.
+- **New entities:**
+  - **Characters:** sea-captain-ch25, ships-boy-ch25, sprat-basket-boy-puteoli, puteoli-tile-builder, puteoli-octopus-seller, puteoli-bathhouse-keeper, neapolis-laundry-widow, serapis-priest, amphissa-leek-seller, misenum-carter, fenns-pupils.
+  - **Locations:** fenns-upper-room; puteoli-hot-ground (needs_review: the Forum Vulcani / Solfatara by reading).
+  - **Objects:**
+    - potted-basil (chekhov_open; had been a possession reference with no object entry)
+    - fenns-packed-bag (chekhov_open)
+    - fenns-letters (chekhov_open, Ch.26)
+    - lucius-horoscope (chekhov_open)
+    - fenns-sand-tray, fenns-star-papyrus, fenns-terrible-wine, maras-two-coppers (all background)
+    - maras-satchel (needs_review against the Ch.19-20 "bag")
+  - **Organizations:** us-navy, philadelphia-phillies, horn-and-hardart.
+  - **Thread:** the-refusal (OPENED p165-p175, p221; payoff Ch.36).
+  - **World rules (OBSERVED):** a door opens when the ground moves hard; Puteoli's ground rises and sinks; Chaldean customs; the sailing season.
+  - **timeline_events:** 1952, 1964, 22 July 1968, AD 40-41, AD 41-43, about AD 64, October 1980.
+- **Updated:**
+  - Rows that rested on outline:ch-25 are replaced with page cites, with `plan_was` kept where the page differs:
+    - august-fenn: aliases, ch25_confirmed, first_appearance, physical (age_ch25, build, face, eyes, hair, clothing, hands, voice, movement), 20 traits, relationships (+7), possessions, location_log, knowledge rows (11 rewritten, 11 added), knowledge_absent and knowledge_absent_ch25, the waypoint.
+    - mara-reyes: the "never says Margaret" trait confirmed, 5 traits, nursing_ch25, the Fenn relationship, the satchel and coppers, location_log 25, 9 knowledge rows rewritten and 5 added, knowledge_absent_ch25, the waypoint.
+    - valens: the Fenn relationship, 5 traits, location_log 25, the belief row rewritten, 2 rows added, knowledge_absent_ch25, the waypoint.
+    - lucius: age_ch25, hair_ch25, 3 traits, status_log, the Fenn relationship, location_log.
+  - Notes added to pomponia-grata, gratas-husband, pat (the "wooder" memory), margaret-fenn (name_usage_ch25), irene-szabo, father-kostas, aulus-numisius-eros, pliny-the-younger and emilio-reyes.
+  - Locations: puteoli, puteoli-fish-quay, nuceria-gate-tomb, misenum, neapolis, amphissa, vesuvius, corycian-cave, philadelphia, pompeii, cobblers-shop.
+  - Timeline row 25 is rewritten to the page: a bright afternoon, `plan_was` "one rainy afternoon". Four timeline_events are rewritten.
+  - Objects: fenns-zippo (introduced ch-25:p14; it is on the page only as "a cigarette lighter"), fenn-notebook (physical_ch25, location_ch25, last_mentioned_manuscript ch-25:p197), tremor-notes, fenn-tables (introduced_page ch-25:p161), venetian-map, phillies-cigar-box.
+  - knowledge_index: door_location, door_when, mara_origin, eruption_foreknowledge, margaret_fenn, fenn_identity, tremor_notes_known, lucius_birth.
+  - Threads:
+    - the-when, can-others-pass, fenn-sisters-name and fenn-zippo are OPENED on the page; status set to open.
+    - valens-belief is set to "paid (Ch.25), shown not declared".
+    - New beats on fenn-cautionary-mirror, the-one-it-brought (use 1), the-door-and-the-choice, maras-secret and lucius-infant.
+    - Rechecks on kalends-walks (no tomb from Valens) and maras-english-to-herself (no break).
+  - World rules: OPENING RHYTHM, OPENING DURATION and the tremor-dates rule now carry page sources.
+- **Flags:**
+  - **Opened and CLOSED in this run.** Each was on the post-disruptor page and the continuity repair left only one value:
+    - CH25-1 (low): "the boat over to Athens" against Ch.2's TWA. The page now says "plane".
+    - CH25-2 (medium): Grata's naming of the pregnancy and "the news in me" put before the Ides of October 73. Ch.20-21 have it about 20 November. The page now gives only the mile and the rain.
+    - CH25-3 (low): Theano's "Pompeii" given "on a wall beside the Sacred Way" against her doorstep in Ch.13-14. The page now says "at her own door".
+  - **NEW, open (info):**
+    - CH25-4: plan against page. The afternoon is fair, not rain. The lighter is not called a Zippo and not shown dead, so Ch.27 and Ch.35 will be the first pages to show it fails. The WHEN comes after about seventy paragraphs, not "within a minute".
+    - CH25-5: Fenn is now told the tremor notes exist (p178-p180; p196). The index's "never" becomes "told of, not read". Ch.35's "reads only his front pages" still holds.
+    - CH25-6: forward constraints for Ch.26. NARROWED: the repair patched outline Ch.26 beat 2 so the 1964 letter must not retell p65. What remains is that a 1997 World Series question follows "not another word".
+    - CH25-7: the new "satchel" holds "everything that had crossed with me", but the watch was last on her wrist (Ch.24). The satchel is not merged with the Ch.19-20 bag.
+  - **Rechecked, still open:**
+    - CH24-1: its forward clause is now met, because the fish-quay rumour and the plan's upper room are the same room. The rest of the row is unchanged.
+    - post_patch_flags P3: the page agrees with foundation, "since sixty-two" for the door and "Thirty-four years" working it out. The Ch.35 outline wording is unchanged.
+  - **CRITICAL:** none. **knowledge_gap:** none.
+- **meta:** header note, `last_updated_by`, `mode`, `source` (Ch.1-25; the outline now covers Ch.26-44), `last_updated_chapter: 25`, `chapters_tracked` +25, the Ch.25 clause in `paragraph_rule`, and `ch25_requested_checks`.
+- **Not touched:** the manuscript, character-bible.md (md5 c63fb728a34c53cfcb02341bb0984443, unchanged), STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - All 703 ch-25 cites fall in p1..p221.
+  - Every single-quoted fragment on the added Ch.25 lines was checked by script against the repaired page. The fragments that do not match are plan, other-chapter or explicitly labelled post-disruptor quotes.
+  - The file holds 376 characters, 118 locations, 178 objects, 23 organizations, 70 plot threads, 127 world rules, 245 timeline_events and 175 contradiction rows.
+  - **61 open** (57 before; +7 CH25-1..CH25-7; −3 CH25-1..CH25-3 RESOLVED).
