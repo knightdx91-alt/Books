@@ -1642,7 +1642,7 @@ loosened toward the life it came from.
   "It takes back the one it brought. It brought you, so it'll take you." (allowlist use 1 of 3, the promise); "breathe with the earth"
   1 of 2; hours, "A night, tops, never days." **The WHEN:** "Late summer, seventy-nine." (verbatim 1 of 2; paraphrase after). **The
   failed dates:** 71 (spring) and 73 (October, around the Ides; it rained the second night), three nights each on Eros's bench; after 73
-  he "ran the tables backward" from the schoolbook year; "Vesuvius blows its top" (the mountain's name, ONCE, in his mouth only).
+  he "ran the tables backward" from the schoolbook year; "The mountain blows its top" (the name was CUT by the author, CP5-1: nobody names the mountain on the page).
   **Others:** "Wondered with who?" … "I've always been on my own. There was never anybody to try it on." … "No idea." (left unknown).
   **Margaret:** not said by anyone. "estate sale … In Chestnut Hill. The October before I came over. Ninety-seven." → "He did not ask
   whose." → the bad hand held down under the other → "The 23 still run up Germantown Avenue?" / "It's a bus now." / "A bus," … "a bus,". He refuses
@@ -7107,7 +7107,7 @@ line each, so that walk-ons don't all sound like Mara.
     festival cloth on the floor (no Floralia, no tunic); no "Whole?" and no "whole" as the designed word; no eagle-stone, no dittany, no
     knots undone, no vow of cakes and a lamp; no first-milk argument; no wide/narrow sex guess. If Statia attends: new words, a new
     object, no teeth.
-  - **Vesuvius rule (as of Ch.24; SUPERSEDED at Ch.25 — named once since, by Fenn, in English; the narrator still never names it):** the mountain is not named on the page; the draft's "Vesuvius Gate" was CUT from Ch.24 and must not
+  - **Vesuvius rule (re-confirmed by the author, CP5-1: nobody names it, Fenn included):** the mountain is not named on the page; the draft's "Vesuvius Gate" was CUT from Ch.24 and must not
     return as page text in any chapter before its time.
 - **At-risk after Ch.25 (FINAL page, md5 `472a9dec…`, synced 2026-10-23; "Augurinus", Single-scene, one afternoon in Fenn's upper
   room behind the tunny sheds, Puteoli, early spring AD 75, 0 breaks. Writer draft → dialogue-polish → hook-craft → disruptor →
@@ -7123,8 +7123,7 @@ line each, so that walk-ons don't all sound like Mara.
     basil turned (Valens) and nudged (Fenn); "He did not ask whose." / "I watched him not ask."; "A bus," ×2; "Keep it. I know what's in
     it." / "Kid, I wrote it."; the umbrella/blanket joke ("You could've brought me an umbrella." / "My job's the blanket, yours is the
     umbrella"); "Will they be true?" / "They will be in good Greek," … "and very handsome."; the ship's boy and "Dawn is propitious";
-    the insurance-company voice; the Connie Mack fire withheld ("I kept the fire to myself."); "Vesuvius" (its one use, in Fenn's mouth:
-    "Vesuvius blows its top"); the lead staple (Mara's mend-notice); the 1964 Phillies collapse as told (6½ up with 12 to play, Mauch,
+    the insurance-company voice; the Connie Mack fire withheld ("I kept the fire to myself."); "The mountain blows its top" (Fenn; his one "Vesuvius" CUT by the author, CP5-1); the lead staple (Mara's mend-notice); the 1964 Phillies collapse as told (6½ up with 12 to play, Mauch,
     Bunning and Short, Ruiz stealing home, ten straight); Connie Mack (2, at the ≤2 cap).
   - **Fenn's narrated states, SPENT for Ch.26 as narration (each at 3):** talking on, break-offs, object-looks, taking in news, the
     lighter in hand. "slowly" is also at 3 (≤1 per chapter from Ch.26).
@@ -7134,9 +7133,8 @@ line each, so that walk-ons don't all sound like Mara.
     (≤3 doorway/station notes per single-scene chapter, no "post" / "place" / "station" label); grief shown as a look at an object, ≤1
     per chapter for any character; the "[X] told [object]" frame, ≤1 per two chapters; Mara's words escaping her ≤1 in Ch.26; "kept …
     to itself / myself" 2.
-  - **The mountain's name:** on the page ONCE so far, in Fenn's mouth, in English, in Ch.25 ("Vesuvius blows its top"). The narrator
-    never names it (l.360 is "the mountain"). This supersedes the "not named on the page" line in At-risk after Ch.24; no second use
-    before its time.
+  - **The mountain's name:** NEVER on the page, by anyone (author CP5-1 cut Fenn's one use in Ch.25; it reads "The mountain blows its top"). The narrator
+    never names it either (l.360 is "the mountain"). The "not named on the page" rule in At-risk after Ch.24 stands.
   - **Ch.26 guards:**
     - **The hook must NOT be SENSORY IMMERSION** (Ch.25's hook) **and the pull must NOT be DECISION POINT** (Ch.25's pull). **TICKING
       CLOCK is still the one hook type never used.**
