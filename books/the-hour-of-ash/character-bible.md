@@ -751,6 +751,20 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   cried at the ceiling."; "It was meant to be left open."; "He had taken him from me once the feeding was done…"; "and the knife on the
   well curb beside the lamp,"; "Via dell'Abbondanza". **Spent in Ch.24:** every line above; "I hated [X]." as an opener; the peas; the
   tooth as a hold; the fontanelle ("Nobody had to mend it.").
+- **Ch.25 as written ("Augurinus", Single-scene, one afternoon in Fenn's upper room, Puteoli, early spring AD 75. FINAL page, md5
+  `472a9dec…`, synced 2026-10-23; quotes checked by grep; CUT strings checked OFF the page):** **The collapse shape is SPENT:** "The
+  client's stool caught me, which was luck, because my legs had gone."; the laugh and the tears fused in one fight for breath ("one
+  breath leaving and another fighting to get in past it"); "I laughed because he had said thanks."; her hands saving the papyrus
+  "while the rest of me laughed and wept and had no air for either." This is the **sixth laugh shape. All six laugh shapes are now
+  SPENT; the next Mara laugh needs an outline ruling before drafting.** Sample-09's reserved collapse frame is now **USED** (Ch.25).
+  **Chaos 4/4, inhabited:** the smudged moon ("a little smudged moon where there had been no moon before", l.164); Pat (l.192, see her
+  card); the argument voice, "the voice I used on the phone with insurance companies, and I could not bring it down" (l.344, SPENT);
+  the Connie Mack lot and "I kept the fire to myself." (l.446). **Margaret:** "I had the name." She does not say it; Ch.35 owns it.
+  **Close:** "I told him his arithmetic was wrong." (DECISION POINT). **Counts:** words escaping her 3 (l.48 / 308 / 378) → **≤1 in
+  Ch.26**; "kept … to itself / myself" 2 (l.60, l.446): WATCH; credential asides 0. **CUT (never restore):** "In May. May of
+  ninety-eight. Nineteen ninety-eight.", "pause for breath", "at his next pause", "everything that had crossed" (the page has
+  "everything else that had crossed"), "pot mended with a lead staple". The lead staple is SPENT as her mend-notice. **Spent in Ch.25:**
+  every line above.
 
 #### VALENS ("Lupus") — muleteer, former murmillo, freedman; b. c. AD 38 in Thrace (Ch.6–44)
 - **Attention / worldview:** footing, exits, weather, and the moods of animals and men, which are one
@@ -1516,6 +1530,22 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   court, Valens. Low. To the mule."; "He did not move his feet at all."; "by inches"; "He had stopped at the well to wash his arms…";
   "and there was horn dust still in the creases of the fingers". **Spent in Ch.24:** every line above; the hoof-trimming as his
   tenderness; the jar-lift; the cup; "Which cock?" / "All of them."; the right-wrist winding.
+- **Ch.25 ("Augurinus", Single-scene, one afternoon in Fenn's upper room, Puteoli, early spring AD 75. FINAL page, md5 `472a9dec…`,
+  synced 2026-10-23; quotes checked by grep; CUT strings checked OFF the page):** **Belief is shown, never said:** the flush ("The
+  color came up out of his collar." … "He pressed his mouth to the top of Lucius's head and did not lift it." l.80); "Does he know the
+  door?" (l.294, to Mara); "Will they be true?" (l.434). **Spoken lines:** "The third tread's split." / "I'll follow you up." / "Not two
+  on that. I'll be at the bottom." / "It isn't. I broke it coming up." / "He's hungry," / "It was reaching," … "Turn it every few days.
+  Water it less." / "The light's going," … "We should see to the mules." **Acts:** hefts the silver purse "under the man's eye" (the
+  builder); the third tread "cracked right through as it took him"; takes Fenn's terrible wine, "His face met the wine", and sets the
+  cup "at some distance from himself"; moves and turns the basil (l.236); catches Lucius's head "short of the boards with no appearance
+  of haste"; rocks the roaring child down to sleep; the look "he kept for a horse gone lame that had still to find it out" (l.390).
+  **Valens learned no date, no rules and no location.** The date, the law, Eros's door, the failed dates and "Pompeii's" all pass in
+  English. Fenn's Greek to him covers courtesy, the stair, the sand tray ("Leave him, sir"), the basil and the boy's stars only; the
+  "Dawn is propitious" Greek is to the ship's boy, about a ship's hour. **Counts:** doorway station 3 (l.80 / 390 / 428), with no
+  "post" / "place" / "station" label; rule: ≤3 notes per single-scene chapter. Finds Mara 2, watches 2, meets Fenn 2. "over the …
+  head" 2 (l.212, l.434): WATCH, ≤1 in Ch.26. **CUT (never restore):** "came two steps inside", "returned to his post", "came a pace off
+  his post", "took up his place in the door again", "and left it", "facing Valens, who looked back". **Spent in Ch.25:** every line
+  above; the broken tread; the basil turned to the light; the horse-gone-lame look.
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -1569,17 +1599,24 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   today."; last entry dated July 21, 1968 (going in "tomorrow first thing", back before Labor Day).
   Consulate carbon dated 16 Sept 1968: one gray wool overcoat with contents of pockets, forwarded to Miss
   Margaret Fenn. No enumerating anywhere; the handwriting change is carried by Mara's description.
-- **Ch.25 as written (Writer draft 2026-10-24; the page will be re-synced at finalize):** **On-page voice, English:** contracted,
+- **Ch.25 as written (FINAL page, md5 `472a9dec…`, synced 2026-10-23 after dialogue-polish, hook-craft, disruptor, continuity
+  repair, evaluator cycles 0–3 (F1–F11, G1–G5, J1–J4, K1–K12), cycle 4 PASS, finalize FN1; quotes checked by grep; CUT strings
+  checked OFF the page — the full CUT log is in "At-risk after Ch.25"):** **On-page voice, English:** contracted,
   1968, runaway "and"-chains when a subject has him (the 1964 collapse; the snow at the cave mouth; the town that "rises and sinks like a
-  fat man asleep"; the carter's story of 62), clipped when hit ("A bus." / "Shut tight." / "Kid, I wrote it."); he asks and refuses the
+  fat man asleep"; the carter's story of 62), clipped when hit ("A bus," / "Shut tight." / "Kid, I wrote it."); he asks and refuses the
   answer ("Did they get to the moon?" / "Don't you dare,"), and he talks faster when Valens moves toward the stair (the lonely-host
   subtext is shown, never said). **Greek:** courtly and formal, no contractions ("Sir, forgive me my manners; I am old." / "Leave him,
-  sir," … "He is improving it." / "They will be in good Greek, … and very handsome."). **He sees people last:** looks round at the
-  doorway "at last"; looks at Lucius "properly then, with his whole face"; studies Mara only when she says she mends things. **Idiom pool
-  used in Ch.25 (count against the ≤2 book-wide cap):** *Jesus H. Christ* 1 (its one use, SPENT); cripes 1 ("Well, cripes"); holy smoke 1
-  (not in the pool; ≤2); whaddaya know 1; for crying out loud 1; on the level 1; swell 1 ("This is swell."); terrific 1; search me 1;
-  beats me 1; get out (of here) 2 short reactions (WATCH: rest it in Ch.26–27); kid 2 (address, WATCH: ≤1 per later chapter, never a
-  refrain); okay 2. **Period references used:** Connie Mack 1, Horn & Hardart on Chestnut Street 1, Mauch / Bunning / Short / Chico Ruiz
+  sir," … "He is improving it." / "They will be in good Greek, … and very handsome."). **He sees people last:** "looked to the
+  doorway at last"; looks at Lucius "properly then, with his whole face"; "looked my hands over slowly, taking his time about it now"
+  (only once she says she mends things). **Idiom pool used in Ch.25 (count against the ≤2 book-wide cap):** *Jesus H. Christ* 1 (its
+  one use, SPENT); cripes 1 ("Well, cripes"); holy smoke 1 ("Holy smoke."; not in the pool; ≤2); chump 1 ("like a chump"; not in the
+  pool; ≤2); a sap 1 ("like a sap"; not in the pool; ≤2); whaddaya know 1; for crying out loud 1; on the level 1; swell 1 ("This is
+  swell."); terrific 1; search me 1; beats me 1; get out (of here) 2 short reactions (WATCH: rest it in Ch.26–27); kid 2 as an address
+  (l.64, l.398; l.328 "Every kid" is a noun and not counted; WATCH: ≤1 per later chapter, never a refrain); okay 2; "anyhow" 2 (l.152,
+  l.202) and "anyway" 1 (l.310); "figure" as a verb 5 (l.162, l.170, l.264 ×2 the pun, l.328; l.414 "every figure" is the noun) →
+  **"figure" (verb) ≤1 per chapter from Ch.26**; "slowly" 3 (l.98, l.388, l.414) → **≤1 per chapter from Ch.26**; "dope" 2, both in
+  one line (l.328: WATCH, no third). **Period references used:** Connie Mack 2 (both in the l.444 speech; at the ≤2 cap, SPENT),
+  Horn & Hardart on Chestnut Street 1, Mauch / Bunning / Short / Chico Ruiz
   stealing home with Frank Robinson at the plate 1 each, the Graves book 1, the Inquirer 1, the 34 trolley on Baltimore Avenue 1, the
   23 on Germantown Avenue 1. **Chaos on the page:** the Phillies, first mention (1980 told him; 1964 argued); the automat, coconut cream
   ("The top was always a little damp, like it had been crying."), triggered by Mara's copper (Vespasian's neck), mutation 1 of 3 — Ch.27's
@@ -1591,20 +1628,30 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   he "ran the tables backward" from the schoolbook year; "Vesuvius blows its top" (the mountain's name, ONCE, in his mouth only).
   **Others:** "Wondered with who?" … "I've always been on my own. There was never anybody to try it on." … "No idea." (left unknown).
   **Margaret:** not said by anyone. "estate sale … In Chestnut Hill. The October before I came over. Ninety-seven." → "He did not ask
-  whose." → the bad hand held down under the other → "The 23 still run up Germantown Avenue?" / "It's a bus now." / "A bus." He refuses
+  whose." → the bad hand held down under the other → "The 23 still run up Germantown Avenue?" / "It's a bus now." / "A bus," … "a bus,". He refuses
   the notebook: "Keep it. I know what's in it." / "Kid, I wrote it." The almost-said home line ("walk up the front steps and ring
   the...") is the only approach to her; Ch.35 owns the name. **His room (never furnished):** the rolled sleeping mat, two robes on a
   peg, a lamp on the floor with no stand, and a packed oiled-leather bag by the door with a carrying stick through the handles and dust
   on top. **New facts (canon from the page):** the Navy taught him celestial navigation ("nineteen fifty-two, on a tin can off Korea");
   landed in snow in AD 41, learned Claudius's name in the market at Amphissa; lived two years in Phocis; Misenum with the fleet before
   62; in Puteoli since he "first came over from Misenum" (his Kalends marks by the quay's mooring rings, "eleven years"); teaches rich
-  men's boys triangles in the mornings in a house on the hill; a bathhouse keeper on the hot ground tells him when his pool clouds; a
-  Neapolitan widow did his laundry and "thought I ought to"; the "Augurinus" joke (Augie/augur) "nobody in this country gets but me",
+  men's boys triangles in the mornings in a house on the hill; a bathhouse keeper on the hot ground tells him when his pool clouds; "a
+  widow in Neapolis who did my laundry and thought I ought to"; the "Augurinus" joke (Augie/augur) "nobody in this country gets but me",
   and Mara gets it; he writes her address (Grata's) and Lucius's hour in charcoal on his sky wall; he promises his tables "every figure,
   worked out" and Lucius's stars with his first letter. **Physicality used:** ink-black nail; the left-hand tremor (3 notes: on the
-  table, "shaking dice", held down); the dead lighter (closed in his fist, turned over, waved, slid away inside the robe; never lit);
-  the fast fishbone patter on her back; the bow from the waist; the stool turned to the wall while she nurses. **SPENT:** every line
-  quoted above; the copper spun on its edge; the basil (Valens moves it; Fenn turns it "a shade further").
+  table l.38; held down under the other l.382; the covering hand lifted and it stays l.394); the dead lighter (closed in his fist,
+  turned over in his fingers, gone still, slid away inside the robe; never lit); the copper (taken off the table's corner and flicked
+  back); the fast fishbone patter on her back; the bow from the waist; the stool turned to the wall while she nurses. **SPENT:** every
+  line quoted above; the copper taken off the table's corner and flicked back (Vespasian's neck; the automat trigger); the basil (Valens moves it; Fenn
+  "nudged the pot a shade further toward the room with his good hand"); the ship's-boy exchange ("Dawn is propitious," … "he may pay
+  me when he is back."); the stool turned to the wall while she nurses / "Fenn looked at the ceiling." **CUT (never restore):** "the
+  copper spun on its edge" ("He stood the copper on its edge and spun it") and the lighter waved (the only wave on the page is his hand at his room, l.234); every other CUT string is in the
+  log under "At-risk after Ch.25".
+- **Narrated states SPENT for Fenn as of Ch.25 (each at 3 on the final page):** talking on (l.186 / 218 / 228); break-offs (l.136 /
+  254 / 268; "broke off" ×1); object-looks, feeling routed into a look at a thing (l.202 / 374 / 382); taking in news (l.98 / 116 / 388;
+  l.168 is a decision); "slowly" (l.98 / 388 / 414); the lighter in hand (l.52 / 168 / 260). None returns as NARRATION in Ch.26: his
+  letters carry him in his own words. Also at 2 (no third): the copper handled, the bad hand held down, not asking (l.380, l.382), "showed me"
+  (l.174, l.186), "at last" (l.82, l.324), "nobody … but me" (l.102, l.210).
 - **Sample line:** "You know what kills me? I had two seats for the Labor Day doubleheader, and some guy
   at Connie Mack sat next to an empty chair all afternoon and never knew it was me, and that was, what,
   a hundred years ago, two thousand, for crying out loud."
@@ -2865,13 +2912,18 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   light ("Lucius."), with Grata's ninth-day naming standing for the street ("You'll not name him till the ninth day, like decent
   people,"). Never called a citizen (CP4-1). **Spent:** every image above. Aelia's birth (Ch.26) and every later look at Lucius find
   other words.
-- **Ch.25 (in arms, eight months; no words; Writer draft 2026-10-24):** rides on Valens's forearm facing out, "both fists full of his
-  father's tunic and his feet going against his father's belt"; watches gulls "with the deep offense he kept for anything that moved
-  without asking him first"; grabs at Mara's hair and "got a fistful of air, which he studied"; roots at his father's neck and is nursed
-  by Mara mid-afternoon ("a grunt of grievance at having been kept waiting"); crawls "with his bottom high" to the sand tray, sinks both
-  fists in it, tastes it, spits it, "regarded Fenn with deep suspicion"; tries the bronze rod in his ear and flings himself backward;
-  asleep at the end "his face crushed into his father's neck, mouth wide". Never called a citizen; his hour given "as near as any of us
-  had it" (no cocks, no "all of them"). **Spent:** every image here.
+- **Ch.25 (in arms, eight months; no words; FINAL page, md5 `472a9dec…`, synced 2026-10-23; quotes checked by grep; CUT strings
+  checked OFF the page):** rides on Valens's forearm facing out, "both fists full of his father's tunic and his feet going against his
+  father's belt"; "at eight months Lucius was busy with the gulls"; grabs at Mara's hair and "got a fistful of air, which he studied";
+  "Lucius objected" to the flush (l.80); roots at his father's neck and is nursed by Mara mid-afternoon ("a grunt of grievance at having
+  been kept waiting"); crawls "with his bottom high" to the sand tray, sinks both fists in it, "Then he put one of them in his mouth.",
+  "tried the sand again, spat it down his front, and regarded Fenn with deep suspicion"; tries the bronze rod in his ear and "flung
+  himself backward in a fury"; asleep at the end, "his face crushed into his father's neck, mouth wide". Never called a citizen; his
+  hour given "as near as any of us had it" (no cocks, no "all of them"). **Counts:** lent mood 3 (objected l.80, "a grunt of grievance"
+  l.218, "with deep suspicion" l.278); lent cognition 2 (studied l.26, regarded l.278). **SPENT for Aelia (Ch.26) and for Lucius
+  later:** lent adult indignation and lent adult scrutiny; Aelia gets none of objected / grievance / suspicion. **CUT (never
+  restore):** "glared at the gulls", "cross about it", "weighed the taste", and the draft quote "with the deep offense he kept for
+  anything that moved without asking him first". **Spent:** every image here.
 
 #### AELIA — daughter of Mara and Valens; b. winter AD 75–76 (newborn Ch.26; babbling Ch.29; Ch.30, 34, 38–44; 3½ at the eruption)
 - **Attention / worldview:** the world's textures and tastes. She is greedy for everything and finds
@@ -3021,7 +3073,7 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **Sample line:** "Your keys are in the freezer door, don't ask me why, and Ray's waiting, so take the
   pierogi."
 
-#### PAT — Emilio's next-door neighbor (Ch.1, on the answering-machine tape only)
+#### PAT — Emilio's next-door neighbor (Ch.1 on the tape; remembered Ch.25)
 - **Attention / worldview:** borrowed dishes and neighborly favors; who has whose Tupperware.
 - **Vocabulary band:** warm South-Jersey-and-Philly neighbor English ("hon," "bye now"), used once.
 - **Syntax fingerprint:** flustered self-correction mid-sentence ("your Tupperware, I mean his").
@@ -3032,6 +3084,8 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
 - **DISTINCTNESS GUARANTEE:** the only voice that calls the house by habit and corrects herself on tape,
   against Halloran's deliberate, over-long message.
 - **Sample line:** none beyond the Ch.1 tape.
+- **Ch.25 (memory, mention only; FINAL page md5 `472a9dec…`, synced 2026-10-23):** Mara hears Fenn's "wooder" and remembers Pat
+  "hosing down her steps every evening all summer, even the evenings it rained" (l.192). SPENT; the first physical memory of her.
 
 #### Ch.1 mention-only names and unnamed walk-ons (no card needed unless they return)
 - **Mentioned by name only:** Ray (Gloria's husband; waits in the car); Tía Nilda (78; forgot, phoned
@@ -4137,23 +4191,29 @@ FINAL page, md5 `e4e8a96c…`, synced 2026-10-23; quotes checked by grep (CUT st
   killed" (Grata's report of the twins' night); the girl "two streets over with milk to spare" (Mara refuses her).
 
 #### Ch.25 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
-Writer draft 2026-10-24 (re-sync at finalize).
+FINAL page md5 `472a9dec…`, synced 2026-10-23 (quotes checked by grep; CUT strings checked OFF the page).
 - **The sprat boy** (passing): "A boy with a basket of sprats on his head showed us the place for a copper." Never speaks.
 - **The sea captain** (passing): "a broad bald man with a tablet tied shut and clamped to his ribs and his lips going over something he
   had been told"; goes down the stair sideways "the way men went down ladders at sea". Never speaks.
 - **The sprat crier** (sound only): "Down on the quay a man was crying sprats."
+- **The ship's boy** (sound only): "a boy bawled at the window from the quay below; the broken tread had turned him back, and his
+  master was asking after the ship's hour". He gets Fenn's Greek reply ("Dawn is propitious," … "he may pay me when he is back."), and
+  his "feet went off along the quay". Never seen. SPENT with the exchange.
+- **The builder on the slope** (mention): the roof tile's buyer, "and he had paid in silver", the purse hefted "under the man's eye".
 - **Mention (Fenn's world):** a priest of Serapis who heard the Augurinus joke and "wrote me down as a madman and charged me a drachma";
-  the leek seller at Amphissa ("asks me have I got a problem with it"); Father Kostas (the lent book, "all ships and dead kings"); the
-  octopus seller by the quay wall "who thinks I'm counting his customers"; the bathhouse keeper on the hot ground and his wife "who
-  believes every word"; the Neapolitan widow who did his laundry; the Pompeii carter in the Misenum wineshop who told of the door that
-  "breathed cold"; the family on Eros's bench in 62; the rich men's boys who throw figs; the Phillies of 1964 and 1980 (Mauch, Bunning,
-  Short, Chico Ruiz, Frank Robinson, Tug McGraw).
-- **Mention (Mara's 1998):** Pat, "my father's neighbor", who said "wooder" standing in her own hose's spray (Ch.1's Pat; first
-  physical memory of her); the Broad Street parade of 1980 with her father ("the backs of people's coats"); Mrs. Szabo ("between a
-  price and a shrug"); the insurance-company phone voice; the Connie Mack lot on Lehigh Avenue with a church going up on it, and her
-  father explaining the fire (she keeps it from Fenn).
-- **Grata's husband:** referenced only ("her husband had recommended it in the summer"); no "gibberish", no "all of them" (Ch.24 guards
-  held).
+  the leek seller at Amphissa ("he asks me have I got a problem with it"); Father Kostas (the lent book, "all ships and dead kings"); "a
+  guy who sells octopus and thinks I'm counting his customers"; the bathhouse keeper on the hot ground ("his wife believes every
+  word"); "a widow in Neapolis who did my laundry"; the Pompeii carter in the Misenum wineshop who told of the door that "breathed
+  cold"; the family on Eros's bench in 62; the rich men's boys who "throw olive pits at my neck"; the Phillies of 1964 and 1980 (Mauch,
+  Bunning, Short, Chico Ruiz, Frank Robinson, Tug McGraw).
+- **Mention (Mara's 1998):** Pat, "my father's neighbor", "hosing down her steps every evening all summer, even the evenings it
+  rained" (Ch.1's Pat; first physical memory of her; see her card); the Broad Street parade of 1980 with her father ("the backs of
+  people's coats"); Mrs. Szabo, who "had put it across her counter to me between a price and a shrug, the way she would have put down a
+  teacup"; the insurance-company phone voice; the Connie Mack lot on Lehigh Avenue "with a church going up on it", and her father
+  explaining the fire (she keeps it from Fenn).
+- **Grata's husband:** referenced only: "her husband had recommended it in the summer" and "Her husband's few words about a language no
+  one had heard before". No "gibberish", no "all of them" (Ch.24 guards held).
+- **CUT (never restore):** "the rich men's boys who throw figs"; Pat "standing in her own hose's spray".
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -7032,6 +7092,58 @@ line each, so that walk-ons don't all sound like Mara.
     object, no teeth.
   - **Vesuvius rule (unchanged):** the mountain is not named on the page; the draft's "Vesuvius Gate" was CUT from Ch.24 and must not
     return as page text in any chapter before its time.
+- **At-risk after Ch.25 (FINAL page, md5 `472a9dec…`, synced 2026-10-23; "Augurinus", Single-scene, one afternoon in Fenn's upper
+  room behind the tunny sheds, Puteoli, early spring AD 75, 0 breaks. Writer draft → dialogue-polish → hook-craft → disruptor →
+  continuity repair → evaluator cycles 0–3 (F1–F11, G1–G5, J1–J4, K1–K12) → cycle 4 PASS → finalize FN1 (header only). Quotes checked
+  by grep against the final chapter; CUT strings checked OFF it; per-character CUT lists are also on the FENN, VALENS, MARA, LUCIUS
+  cards and the Ch.25 walk-on block):**
+  - **SPENT:** the recognition sequence (the lost-lighter mutter "Where the hell'd you get to?", "It's on the sill, by the basil,",
+    "Thanks," and "Jesus H. Christ", its one use); Mara's sixth laugh shape (all six now spent; the next needs an outline ruling);
+    "Late summer, seventy-nine." (verbatim 1 of 2; paraphrase after); "One door with many mouths" (1 of 1; paraphrase only); "It takes
+    back the one it brought. It brought you, so it'll take you." (the allowlisted promise, **1 of 3**); "breathe with the earth" (1 of
+    2); "A night, tops, never days."; the automat with the copper/nickel trigger (Ch.27's lemon meringue needs another trigger); the
+    widow / "Marry them and then go home on them."; "You don't go buying furniture in a hotel."; the packed bag under its dust; the
+    basil turned (Valens) and nudged (Fenn); "He did not ask whose." / "I watched him not ask."; "A bus," ×2; "Keep it. I know what's in
+    it." / "Kid, I wrote it."; the umbrella/blanket joke ("You could've brought me an umbrella." / "My job's the blanket, yours is the
+    umbrella"); "Will they be true?" / "They will be in good Greek," … "and very handsome."; the ship's boy and "Dawn is propitious";
+    the insurance-company voice; the Connie Mack fire withheld ("I kept the fire to myself."); "Vesuvius" (its one use, in Fenn's mouth:
+    "Vesuvius blows its top"); the lead staple (Mara's mend-notice); the 1964 Phillies collapse as told (6½ up with 12 to play, Mauch,
+    Bunning and Short, Ruiz stealing home, ten straight); Connie Mack (2, at the ≤2 cap).
+  - **Fenn's narrated states, SPENT for Ch.26 as narration (each at 3):** talking on, break-offs, object-looks, taking in news, the
+    lighter in hand. "slowly" is also at 3 (≤1 per chapter from Ch.26).
+  - **Fenn WATCH:** "slowly" ≤1 per chapter; "figure" (verb) ≤1 per chapter; "at last" 2; "Get out" rests in Ch.26–27; "nobody … but
+    me" 2, so no third; "kid" ≤1 per chapter; "showed me" 2; "dope" 2; holy smoke / chump / a sap 1 each (≤2).
+  - **Book-wide WATCH:** "than before" 2 (l.218, l.382); "Nobody knows" 2 (l.290, l.348); Valens's "over the … head" 2; the station rule
+    (≤3 doorway/station notes per single-scene chapter, no "post" / "place" / "station" label); grief shown as a look at an object, ≤1
+    per chapter for any character; the "[X] told [object]" frame, ≤1 per two chapters; Mara's words escaping her ≤1 in Ch.26; "kept …
+    to itself / myself" 2.
+  - **The mountain's name:** on the page ONCE so far, in Fenn's mouth, in English, in Ch.25 ("Vesuvius blows its top"). The narrator
+    never names it (l.360 is "the mountain"). This supersedes the "not named on the page" line in At-risk after Ch.24; no second use
+    before its time.
+  - **Ch.26 guards:**
+    - **The hook must NOT be SENSORY IMMERSION** (Ch.25's hook) **and the pull must NOT be DECISION POINT** (Ch.25's pull). **TICKING
+      CLOCK is still the one hook type never used.**
+    - **The 1964 Phillies collapse is already told**; Ch.26's Phillies material must be new (WARN-18).
+    - **Median sentence 14+**, to break the Ch.23–25 run of 10–11.
+    - Fenn's promise is at **1 of 3**; Ch.26 does not quote it. "one door with many mouths" is spent; paraphrase only.
+    - Fenn's letters carry his voice in his own words. None of his Ch.25 narrated states returns as narration (the talking on, the
+      break-offs, the object-looks, the taking in of news, the lighter in hand). The rage letter is the one rage.
+    - Aelia's birth reuses none of Ch.24's machinery (see the Ch.26 guards in At-risk after Ch.24) and gives the infant no borrowed
+      adult moods: no lent indignation or scrutiny (none of objected / grievance / suspicion / studied / regarded).
+  - **CUT log, Ch.25 (never restore; every old string of F1–F11, G1–G5, J1–J4 and K1–K12, verbatim; all checked OFF the final page):**
+    - **F:** "came two steps inside, saying nothing, took the cracked basil pot"; "returned to his post"; "came a pace off his post";
+      "took up his place in the door again with the child roaring against his neck"; "the tremor in the left one making it look as
+      though he were shaking dice"; "He was away again."; "swung round to the doorway at last"; "He swiveled on the table toward
+      Valens"; "He said it in a Chaldean's robe"; "Nineteen ninety-eight."; "without the nineteen"; "a pot mended with a lead staple";
+      "he told it."; "at his next pause for breath"; "holding everything that had crossed".
+    - **G:** "Fenn talked straight through it"; "about the bathhouse keeper's pool, a little louder than before"; "and left it."; "Lucius
+      glared at the gulls"; "drowsy and cross about it"; "then turned to me."
+    - **J:** "The shakes ran on till the shadows had moved."; "Partway through them"; "Fenn stayed facing his wall."; "he called to the
+      window behind him"; "abandoned the shakes in mid-run"; "facing Valens, who looked back."; "He looked at it and slid it away".
+    - **K:** "at his next pause"; "broke off halfway into the hot springs"; "He took that in."; "looked at the plant for some while, and
+      then slowly"; "the hand with the lighter in it"; "He stood the copper on its edge and spun it"; "pinning his own hand to the wood
+      and not asking"; "weighed the taste"; '"The Pythia." He left'; '"Mules." He weighed'; "I figure it owes me sixty-eight"; "You'd
+      find out anyhow".
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
@@ -7048,16 +7160,16 @@ line each, so that walk-ons don't all sound like Mara.
 | "Suppose you see it open" / "Then I'll believe it" | 1 each | Ch.15; AUTHOR-END-1: Ch.42's door is rendered in fresh words |
 | "fine mountain for vines" | 1 | Ch.19; never called back |
 | "a picture of a door" | 1 | Ch.19 ("it stayed a picture of a door"), SPENT; Ch.42's refusal at the door never reuses it in any form |
-| "Jesus H. Christ" | 1 | Ch.25 |
-| "late summer, seventy-nine" | 2 | Ch.25; later references paraphrase the date |
+| "Jesus H. Christ" | 1 | Ch.25: SPENT (1 of 1) |
+| "late summer, seventy-nine" | 2 | Ch.25 used 1 of 2 ("Late summer, seventy-nine."); later references paraphrase the date |
 | "Mama, look" | 1 | Ch.39 |
 | "light as bread" (pumice) | 1 | the Ch.39 and Ch.40 anchors share the image; word it differently in Ch.40 |
-| "breathe with the earth" | 2 | Fenn's rule; paraphrase after |
+| "breathe with the earth" | 2 | Fenn's rule; Ch.25 used 1 of 2; paraphrase after |
 | "the cave of the nymphs" | 2 | vary: the Corycian, the cave, Pan's cave |
 | "wound the watch" / "my father's watch" | 2 each | the winding recurs in Ch.18, 24, 32, 41; new verb phrase each time |
 | "the painted door" | 2 | vary: the false door, the dead man's door (the plaster door USED Ch.13) |
 | "painted on a dead man's house" | 1 | the second marker in the god's answer (Ch.13, Valens's repetition only); Ch.19 recognition is worded fresh |
-| "one door with many mouths" | 1 | Fenn's idea of the doors (Ch.25); paraphrase after |
+| "one door with many mouths" | 1 | Fenn's idea of the doors (Ch.25): SPENT (1 of 1); paraphrase after |
 | "hand at the threshold" / "the visible seam" | 0 | design labels for the Writer, never page text |
 | any phrase in a sample line in this file or in a voice-bank sample | 0 | calibration only |
 | "cold in a way air isn't" | 2 | Fenn's 1968 line, used once in Ch.2; Ch.3 makes it physical in fresh words |
@@ -7832,8 +7944,29 @@ finalizing the chapter. Never add a tic to fix it.
   tic-bearer roster still NONE.
 - **2026-10-23 (Writer, Ch.24 'Lucius' draft):** new card **STATIA** (the midwife; the book's one introduction-by-teeth, SPENT; no tic). New block **Ch.24 unnamed walk-ons** (Grata's husband and the Chaldean plant; the fuller's other half; Statia's boy; carters). Roles table: Midwife row marked WRITTEN. Tic-bearer roster still NONE. Full re-sync to the FINAL page is the chain's job after dialogue-polish/disruptor/evaluator.
 - **2026-10-23 (finalize Ch.24):** STATIA card, Ch.24 walk-ons, DUNPHY, LUCIUS, VALENS, FELIX, GRATA, MARA synced to the FINAL page md5 `e4e8a96c…`; F1–F7 and FN1–FN2 old strings logged CUT; At-risk after Ch.24 added. STATIA: "Vesuvius Gate" → "near the water tower"; Oscan only under the oil and "something that was not Latin" (not to her bag strap); evasion recast to the reported exit; line list rebuilt from the page; draft lines logged CUT. Walk-ons: the husband's Chaldean plant re-quoted ("Old as Saturn", "over it", "For the boy."), the counter-sleeping line deleted, the Floralia tunic added; the fuller's other half re-quoted; Pliny's reading room/postcard CUT. DUNPHY: mutation 2 recorded (brown, the board, thin elbows); mutation 3 (Ch.41) must differ from both. LUCIUS born on the page (Ch.24). GRATA: fifth touch, the hip pats. Roles table: Midwife row SYNCED; husband row re-quoted from the page. At-risk after Ch.24: SPENT/WATCH, Ch.25 guards (Augurinus; hook not QUESTION, pull not QUESTION PLANT; TICKING CLOCK still unused), Ch.26 guards (Aelia's birth rebuilds none of Ch.24's shards, teeth, stool, watch winding, father's lift, Floralia cloth, "Whole?"). Every quote placed on a card checked by grep against the final chapter-24.md. Not touched: the manuscript, STATE.yaml, ENTITY_STATE.yaml, outline.md. No catchphrase or tic assigned; tic-bearer roster still NONE.
-- **2026-10-24 (Writer, Ch.25 'Augurinus' draft):** **FENN** card: "Ch.25 as written" block (on-page English and Greek voice, idiom-pool
+- **2026-10-23 (Writer, Ch.25 'Augurinus' draft):** **FENN** card: "Ch.25 as written" block (on-page English and Greek voice, idiom-pool
   counts against the ≤2 cap, period references, chaos subjects, the law worded once, the WHEN, the failed dates, Margaret unsaid, the
   unfurnished room, new canon facts, physicality, SPENT list). **LUCIUS** card: Ch.25 note (in arms; no words). New block **Ch.25
   unnamed walk-ons and mention-only names**. No new named character; no tic, catchphrase or signature gesture given to anyone;
   tic-bearer roster still NONE. To re-sync at finalize.
+- **2026-10-23 (finalize Ch.25):** FENN, PAT, LUCIUS, VALENS, MARA and the Ch.25 walk-on block synced to the FINAL page md5
+  `472a9dec…` (evaluator cycle 4 PASS, finalize FN1). FENN: heading to FINAL; "He sees people last" re-quoted ("looked to the doorway
+  at last", "looked my hands over slowly, taking his time about it now"); idiom pool adds holy smoke, chump and a sap (1 each, not in the
+  pool, ≤2), "kid" 2 as an address, "anyhow" 2 / "anyway" 1, "figure" (verb) 5 and "slowly" 3 → each ≤1 per chapter from Ch.26;
+  Connie Mack corrected to 2 (at cap); the octopus seller, bathhouse keeper's wife and the Neapolis widow re-quoted from the page;
+  tremor (l.38 / 382 / 394) and lighter (turned over, gone still; "waved" CUT) re-synced; the copper "taken and flicked back" replaces
+  "the copper spun on its edge" (CUT); the basil "nudged … a shade further"; the ship's-boy exchange and the stool-to-the-wall /
+  "Fenn looked at the ceiling." added to SPENT; talking on, break-offs, object-looks, taking in news and the lighter in hand recorded
+  at 3 each and SPENT as narration. PAT: heading ("remembered Ch.25") and the steps quote; walk-on block's "her own hose's spray"
+  replaced. Walk-ons: "figs" → "olive pits"; the ship's boy and the builder added; Mrs. Szabo and Grata's husband re-quoted. VALENS:
+  new Ch.25 block (belief shown, never said; spoken lines and acts from the page; learned no date, rules or location; doorway station
+  3 with no label; "over the … head" 2; CUT strings). MARA: new Ch.25 block (the collapse, the sixth laugh shape SPENT, so all six are
+  spent and the next laugh needs an outline ruling; sample-09's collapse frame USED; chaos 4/4; words escaping her 3 → ≤1 in Ch.26;
+  CUT strings; the lead staple SPENT). LUCIUS: header to FINAL; "was busy with the gulls" replaces the stale gull quote; tasting
+  re-quoted; lent mood 3, lent cognition 2; lent indignation/scrutiny SPENT for Aelia; CUT strings. Phrase table: "Jesus H. Christ"
+  and "one door with many mouths" SPENT, "late summer, seventy-nine" and "breathe with the earth" at 1 of 2. New block **At-risk
+  after Ch.25**: SPENT/WATCH, the mountain's name (once, Fenn's, in English; the narrator never names it), the full F/G/J/K CUT log
+  verbatim, and the Ch.26 guards (hook not SENSORY IMMERSION, pull not DECISION POINT, TICKING CLOCK unused; 1964 already told; median
+  14+; the promise at 1 of 3; no spent Fenn narrated state as narration; Aelia's birth reuses none of Ch.24's machinery and borrows no
+  adult moods). Every quote placed on a card checked by grep against the final chapter-25.md; every CUT string checked off it. Not
+  touched: the manuscript, STATE.yaml, ENTITY_STATE.yaml, outline.md. No catchphrase or tic assigned; tic-bearer roster still NONE.
