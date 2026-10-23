@@ -2,26 +2,26 @@
 
 #### *Pompeii · summer, AD 74*
 
-<!-- SCENE BUDGET (Target 6,200; Fragmented, a night in time-stamped shards by the Roman reckoning of the night, 8 breaks / 9 shards; gear low; dialogue 25-35%): S1 the ninth hour: the water at noon, Grata's back room, Statia and her teeth (the book's one introduction-by-teeth), the guess, who is coming, the stool, Valens in from the string 1,250 | S2 lamp-lighting: Grata's vow to Lucina, the pins and the knots, the eagle-stone, the husband's Chaldean at Puteoli 950 | S3 bedtime: the fuller's wife and her dittany, the lentils and the rival at the Vesuvius Gate, his feet in the court, his arm, "Men out" 1,000 | S4 midnight: the door to the court, the dun's feet by lamplight, Felix's questions, "How far?" 850 | S5 past midnight: level 3, sound only, the teeth, Mrs. Dunphy in brown, untagged speech, the rasp stopping and starting 650 | S6 cockcrow: the birth, slow; a boy; the cloth on the floor; he cannot lift him until she shows him 1,000 | S7 after the cocks: salt and bands, the first milk refused and given, Grata to the street, Felix 750 | S8 first light: Statia goes, the name 300 | S9 morning: the watch 150 -->
-<!-- Word count: style 6,120 / shape 6,109 / wc 6481 | Writer draft 2026-10-23 | Target: 6,200 (99%) | Dialogue 27.3% show_tell, 28% shape (band 25-35) | Breaks 8 (9 shards, Roman night reckoning) | Median sentence 10 (gear low) | Opens I-punch ('I hated the midwife.', one-sentence paragraph per ledger), closes quiet (21-word watch sentence) | Em-dash 0 | as-if 1 | And-chains 8 (cap 9) | Negation pivots 0 | Credential asides 0 by gate (Soranus, Pliny by hand, both before midnight) | Spoken Then-openers 2 | Echoes 0 | check_chapter.sh 24 ALL MECHANICAL GATES CLEAN | Anchor: Valens holding his son out on locked arms like a jar caught just short of the stones, then drawing him in by inches; the tenderness is the four-times-trimmed dun's feet at midnight -->
+<!-- SCENE BUDGET (Target 6,200; Fragmented, a night in time-stamped shards by the Roman reckoning of the night, 8 breaks / 9 shards; gear low; dialogue 25-35%): S1 the ninth hour: the water at noon, Grata's back room, Statia and her teeth (the book's one introduction-by-teeth), the guess, who is coming, the stool, Valens in from the string 1,250 | S2 lamp-lighting: Grata's vow to Lucina, the pins and the knots, the eagle-stone, the husband's Chaldean at Puteoli 950 | S3 bedtime: the fuller's wife and her dittany, the lentils and the rival up by the water tower, his feet in the court, his arm, "Men out" 1,000 | S4 midnight: the door to the court, the dun's feet by lamplight, Felix's questions, "How far?" 850 | S5 past midnight: level 3, sound only, the teeth, Mrs. Dunphy in brown, untagged speech, the rasp stopping and starting 650 | S6 cockcrow: the birth, slow; a boy; the cloth on the floor; he cannot lift him until she shows him 1,000 | S7 after the cocks: salt and bands, the first milk refused and given, Grata to the street, Felix 750 | S8 first light: Statia goes, the name 300 | S9 morning: the watch 150 -->
+<!-- Word count: style 6,120 / shape 6,109 / wc 6481 | Writer draft 2026-10-23 | Target: 6,200 (99%) | Dialogue 27.3% show_tell, 28% shape (band 25-35) | Breaks 8 (9 shards, Roman night reckoning) | Median sentence 10 (gear low) | Opens I-punch ('I hated the midwife.', one-sentence paragraph per ledger), closes quiet (21-word watch sentence) | Em-dash 0 | as-if 1 | And-chains 8 (cap 9) | Negation pivots 0 | Credential asides 0 by gate (Soranus, Pliny by hand, both before midnight) | Spoken Then-openers 2 | Echoes 0 | check_chapter.sh 24 ALL MECHANICAL GATES CLEAN | Anchor: Valens holding his son out on locked arms like a jar caught just short of the stones, then drawing him in; the tenderness is the four-times-trimmed dun's feet at midnight -->
 
 I hated the midwife.
 
 *The ninth hour*
 
-She arrived in the dead heat of the day, while the paving gave its warmth back through a sandal sole and every shutter on the Via dell'Abbondanza was drawn half to. A boy came behind her with the birthing stool roped onto his back, its legs to the sky. She was short and very broad, in a brown tunic gone black under the arms, and at Grata's counter she stopped and drank off a whole beaker at one go before she looked round for me.
+She arrived in the dead heat of the day, while the paving burned up through a sandal sole and every shutter in the street was drawn half to. A boy came behind her with the birthing stool roped onto his back, its legs to the sky. She was short and very broad, in a brown tunic gone black under the arms, and at Grata's counter she stopped and drank off a whole beaker at one go before she looked round for me.
 
 The water had come at noon. I was mending at my plank in the shop with a lamp in bits and the glue warming, and it ran down my legs into the cobbler's leftover scraps on the floor. Grata had been watching me all month from behind her pots. She saw me get to my feet, and knew, and had me out of the shop and through her own back door before I had wiped my hands.
 
 "Not in yours," she said. "That bed's a disgrace, and the fountain's the nearest water, and your roof lets in, I've heard it. You'll have it in mine. There's a well in my court and a door on my room and nobody's old leather underfoot. Walk about. You'll want to sit, and you'll walk instead. I've sent for Statia. She's the best this side of Nuceria and she knows it, so don't tell her."
 
-Her back room ran the depth of the house under a low ceiling, with a slit of window high in the court wall and a door beside it that stood open for the air. There was no air. Beyond the party wall her brazier kept the stewpots going for the evening trade, and the plaster on that side was warm to the hand. Flies walked on the ceiling. Somebody had swept the beaten earth of the floor so often that it shone at the center like an old saddle.
+Her back room ran the depth of the house under a low ceiling, with a slit of window high in the court wall and a door beside it that stood open for the air. There was no air. Beyond the wall her brazier kept the stewpots going for the evening trade. Flies walked on the ceiling. Somebody had swept the beaten earth of the floor so often that it shone at the center like an old saddle.
 
 "How long will it be?" I asked her.
 
 "As long as it likes. You'll ask me that every hour and I'll tell you the same every hour, and somewhere near midnight you'll leave off asking and start telling me what you think of me, and that's when it's getting on. My first took a day. My second came while I was lacing a sandal, and that sandal's unlaced yet. You'd know if I lied, it's in your face, so I'll not." She gave my hip two brisk pats and was off to her pots.
 
-Statia came in wiping her mouth on her wrist, and smiled at me, and that was how I met her teeth. The two at the front had grown crossways, the left laid over the right like a pair of shears half shut, and the one beside them was brown down to the gum. Where an eyetooth belonged there was a hole, and her breath found the hole whenever she said an *s*. Soranus, who wrote the book on midwives, had wanted them with long slim fingers and the nails cut close. Hers were short and square and pared to the quick, and I gave her that. He had nothing to say about teeth.
+Statia came in wiping her mouth on her wrist, and smiled at me, and that was how I met her teeth. The two at the front had grown crossways, the left laid over the right like a pair of shears half shut, and the one beside them was brown down to the gum. Where an eyetooth belonged there was a hole, and her breath found the hole whenever she said an *s*. In the Soranus I had read, midwives had long slim fingers and the nails cut close. Hers were short and square and pared to the quick, and I gave her that. He had nothing to say about teeth.
 
 "Up," she said. "Show me how you go. To the wall. Back."
 
@@ -101,7 +101,7 @@ Grata undid her belt.
 
 From the bag Statia took a little bundle in a rag, and unwrapped from it a brown stone the size of a walnut, smoothed all over and bound in a net of linen thread. She tied it to my left thigh, up near the groin, under the tunic, winding the thread twice round. When I moved, it rattled. There was a smaller stone loose inside it.
 
-Pliny had a page on these. The eagle carried them up to her nest, he said, and without one she could not lay, and a woman in labor wore one on the same principle. I had sat over that page in a reading room in Philadelphia with snow going past the windows, and copied out the part about the eagle on a postcard for my father. Now it knocked against my leg every time I turned.
+Pliny had a page on these. The eagle carried them up to her nest, he said, and without one she could not lay, and a woman in labor wore one on the same principle. Now it knocked against my leg every time I turned.
 
 The pains came closer. Between them I paced Grata's room from loom to door, and got to know both ends.
 
@@ -119,25 +119,25 @@ She was rinsing her hands in the basin and did not stop. "Children or mothers?"
 
 The wall had not moved.
 
-Valens carried a jug from the well to the door, and Statia took it off him on the sill and sent him back to the well. The water was cold. In all Pompeii that evening it was the only cold thing, and I drank it standing, my free palm pressed to the warm plaster, and it dropped into me like a stone into a cistern.
+Valens carried a jug from the well to the door, and Statia took it off him on the sill and sent him back to the well. The water was cold. In all Pompeii that evening it was the only cold thing, and I drank it standing, and it dropped into me like a stone into a cistern.
 
-At the court door Grata's husband stood, lamp up, his dice in his other fist. I had laid eyes on him perhaps a dozen times in all, and always on his way from one bench to another with a cup; he was a soft, sunburned man with a voice that carried better than he did. He was talking past me to Valens, who had settled on the curb of the well after all. The dice clicked in his fist as he went on.
+At the court door Grata's husband stood, lamp up. I had laid eyes on him perhaps a dozen times in all, and always on his way from one bench to another with a cup; he was a soft, sunburned man with a voice that carried better than he did. He was talking past me to Valens, who had settled on the curb of the well after all. Dice clicked in his fist as he went on.
 
 "Down at Puteoli," he said. "On the fish quay, behind the tunny sheds. A Chaldean. Does the grain ships' stars before they sail. My brother's had him do his. Old as Saturn and mad with it, mutters gibberish to himself over it, not Greek, not Syrian, nothing you ever heard, and then he tells you your day in Greek like a schoolmaster. Cheap, though."
 
 "What would I want with stars?" Valens asked.
 
-"The boy's. You mark the hour he comes, and you take it down to the Chaldean, and he casts it. Everybody does."
+"For the boy. You mark the hour he comes, and you take it down to the Chaldean, and he casts it. Everybody does."
 
 "A girl," Statia called over.
 
-"The girl's, then."
+"For the girl, then."
 
 "It's not come yet," said Valens.
 
 "Well, when it comes. Mark it, is all I'm saying. You'll want his stars read."
 
-The pain took me then, round the back and through, and I put my hands flat to the plaster by the jamb and leaned my weight into them until it passed. When it had gone the husband had gone too, and Grata was saying something to the court about men who stood in doors with their mouths open, and the dice had stopped.
+The pain took me then, round the back and through, and I braced on the jamb and leaned my weight into it. When it had gone the husband had gone too, and Grata was saying something about men who stood in doors with their mouths open.
 
 "Mind my counter," she shouted after him. "You've leaned on it every night there is, you could find it blind."
 
@@ -161,11 +161,11 @@ The woman looked past her at me, propped on my feet by the loom.
 
 "She's carrying wide," she said, delighted. "That's a girl."
 
-Grata sent her home. She put the dittany on the coals of the brazier next door, and a sweetish smoke came round into the room and hung under the ceiling with the flies.
+Grata sent her home. She put the dittany on the coals of her brazier in the shop, and a sweetish smoke came round into the room and hung under the ceiling.
 
 Statia ate the lentils. Grata's lentil pot sat inside the doorway, out of the way, and Statia lowered herself to the floor next to it and dipped in with three fingers, and talked with her mouth full.
 
-"There's one at the Vesuvius Gate," she said, "calls herself a midwife. Lays them flat. On their backs, like a beetle. Then she wonders why it takes two days." She wiped her fingers on her tunic. "Lays them flat and goes home to her dinner. And her wool's off a black sheep, I know it for a fact. Black wool, at a birth." She dipped again. "Walk."
+"There's one up by the water tower," she said, "calls herself a midwife. Lays them flat. On their backs, like a beetle. Then she wonders why it takes two days." She wiped her fingers on her tunic. "Lays them flat and goes home to her dinner. And her wool's off a black sheep, I know it for a fact. Black wool, at a birth." She dipped again. "Walk."
 
 Passing the stool, I touched the run of glue down its leg. The run was hard and glassy, with a hair caught in it.
 
@@ -173,7 +173,7 @@ Passing the stool, I touched the run of glue down its leg. The run was hard and 
 
 "Somebody glued it too hot."
 
-"My mother glued it. She had it off her mother, and that arm came off under a tanner's wife as broad as two of you. It's held since before Nero." She licked her fingers. "You can mend it when you've had as many on it as I have."
+"My mother glued it. She had it off her mother, and that arm came off under a tanner's wife as broad as two of you. It's held since before Nero." "You can mend it when you've had as many on it as I have."
 
 My legs had begun to shake at the knee between the pains, a small fine shaking that took no notice of me. The floor shone where I paced it.
 
@@ -191,7 +191,7 @@ Through the planks he tried again. "Call me if there's anything to carry."
 
 There was no air now at all. The lamp's two flames stood up straight on the shelf, and the flies had settled for the night on the ceiling. Grata wet a cloth from the jar and laid it across my nape, and it was warm before it settled. In my freezer at home there was a bag of peas I kept for the back of the neck in August; I had bought it for that purpose only, and never cooked a pea of it in four summers. The cloth slid down my back, and Grata caught it and wet it again.
 
-The pain came, and returned, and my hands were on the wall, and this time I made a noise into the plaster. It was low and long and I had no say in it.
+The pain came, and returned, and my hands were on the wall, and this time I made a noise into the wall. It was low and long and I had no say in it.
 
 "Good," said Statia, at my shoulder. "That's the right noise. Make that one."
 
@@ -275,7 +275,7 @@ Water poured into a basin from high up.
 
 The rasp in the court. It stopped.
 
-Statia's face rose into the lamplight. Her mouth was open. The left tooth lying over its neighbor. I fixed on it. The pain was everywhere and had no edges to it, and the tooth had edges. I held on to the tooth. I hated it. I hated it with the whole of me, the left one lying over, the brown one beside it, the empty socket where the other should have been, and I held on.
+Statia's face rose into the lamplight. Her mouth was open. The left tooth lying over its neighbor. I fixed on it. The pain was everywhere and had no edges to it, and the tooth had edges. I held on to the tooth. I hated it. I hated it with the whole of me, and I held on.
 
 "Now. With it. With it."
 
@@ -285,21 +285,13 @@ Statia's face rose into the lamplight. Her mouth was open. The left tooth lying 
 
 The rasp, outside. Going. Going.
 
-Wool over my face, wet, brown. A sleeve. Mrs. Dunphy wore brown, a brown cardigan gone thin at the elbows, and she was at the board with the chalk in her fingers, crying, in the middle of the long division, and we copied the numbers into our books around her. Brown. The sleeve went.
+Wool over my face, wet, brown. A sleeve. Mrs. Dunphy wore brown, a brown cardigan gone thin at the elbows, and she was at the board with the chalk in her fingers, crying, the long division half written. Brown. The sleeve went.
 
 Statia said something that was not Latin.
 
 "Wait for it. Wait."
 
-A cart, far off, on the stones. The crickets.
-
-Felix, through the planks, asking. Valens, one word, and the asking stopped.
-
-The stone at my thigh, knocking on the wood.
-
-In the court, Valens. Low. To the mule.
-
-Snoring, two walls off. The husband, asleep across his own counter.
+A long way off a cart went by. Outside Felix was asking something, and Valens gave him a single word, and the asking stopped.
 
 "He's coming, she says he's coming. Lucina, you old cow, you took my cake, you keep your word."
 
@@ -331,15 +323,15 @@ Statia lifted her face to me over him and grinned. That came first, before him: 
 
 Behind me Grata held me so tight there was no breath to be had. "A boy. Lucina, a boy. A cake and honey and a lamp, I'll have to find a lamp now. A boy."
 
-Statia laid him on my belly while she tied the cord. She tied it with red wool twice over and cut between the ties with a little knife. He lay on me wet and hot and heavier than anything that size had any right to be, and kept on telling us all about it. I found his back with my hand. It rose and fell under my fingers, and the whole of his spine was there, a row of small hard beads.
+Statia laid him on my belly while she tied the cord. She tied it with red wool twice over and cut beyond the tie with a little knife. He lay on me wet and hot and heavier than anything that size had any right to be, and kept on telling us all about it. I found his back with my hand. It rose and fell under my fingers, and the whole of his spine was there, a row of small hard beads.
 
-Statia took him up again, and spread a cloth on the floor at the stool's feet, and laid him down on it on his back. He cried at the ceiling.
+Statia took him up again, and spread a cloth on the floor at the stool's feet, and laid him down on it on his back.
 
 "My man wears that to the Floralia," said Grata.
 
 "It's a cloth now. Fetch the father."
 
-Grata went to the door and opened it. Valens was right there. Behind him on the paving the rasp lay by the mule's hooves, and the knife on the well curb beside the lamp, and Felix curled asleep beside the well with his mouth agape.
+Grata went to the door and opened it. Valens was right there. Behind him on the paving the rasp lay by the mule's hooves, and Felix curled asleep beside the well with his mouth agape.
 
 He took one step in and stopped.
 
@@ -359,7 +351,7 @@ The child stopped crying. His eyes came open, or nearly, and looked at nothing.
 
 "In," said Statia. "In to you. Bring him in."
 
-Valens drew the child down and in against himself by inches, till he lay in the bend of one arm, the other palm spread over him. He did not move his feet at all.
+Valens drew the child down and in against himself till he lay in the bend of one arm, the other palm spread over him.
 
 "Whole?" he asked me.
 
@@ -369,7 +361,7 @@ Valens drew the child down and in against himself by inches, till he lay in the 
 
 "Now give him here. There's work yet. Sit, before you drop him."
 
-He sank where he stood, onto the ground beside the stool with his back to Grata's warm wall, and did not give him back. The child lay on his forearm with its head in his palm. He studied the face, and then the hands, which had worked free of the cloth and were opening and shutting on the air, and then the face again.
+He sank where he stood, onto the ground beside the stool with his back to Grata's wall, and did not give him back. The child lay on his forearm with its head in his palm. He studied the face, and then the hands, which had worked free of the cloth and were opening and shutting on the air, and then the face again.
 
 "He's cold."
 
@@ -377,7 +369,7 @@ He sank where he stood, onto the ground beside the stool with his back to Grata'
 
 In the end she had to unfasten the child from him, finger by finger.
 
-My legs began to shake on the stool. It started in the heels, hard, so that they knocked on the floor, and whatever I told them made no difference. Grata climbed down to the front of me and pinned my knees with her palms till it passed, and talked to them about lamps.
+My legs began to shake on the stool. It started in the heels, hard, so that they knocked on the floor, and whatever I told them made no difference. Grata climbed down to the front of me and pinned my knees with her palms till it passed.
 
 Outside the cocks were still at it.
 
@@ -387,7 +379,7 @@ Outside the cocks were still at it.
 
 The afterbirth came, and Statia held it to the lamp the way Grata judged fish, and was satisfied.
 
-She washed him in warm water from the basin, quickly, holding him along her forearm with his head cupped in her palm, and he hated it and said so. She rubbed fine salt from a dish into every fold of him, to close his skin, and then oil, and then she bound him. She wound him in long bands of linen with his arms down by his sides and his legs straight, turn on turn, until he was a tight white parcel, red and furious at the top end, and she laid him beside me on Grata's bed, inside my arm.
+She washed him in warm water from the basin, quickly, holding him along her forearm with his head cupped in her palm, and he hated it and said so. She rubbed fine salt from a dish into every fold of him, to close his skin, and then oil, and then she bound him. She wound him in long bands of soft wool with his arms down by his sides and his legs straight, turn on turn, until he was a tight white parcel, red and furious at the top end, and she laid him beside me on Grata's bed, inside my arm.
 
 I lay and watched him. He gazed back with gray eyes that had no use for anything yet.
 
@@ -411,15 +403,13 @@ He didn't know the way of it, and I knew little more. He missed, and roared, and
 
 Valens appeared from the court with a cup. Nobody had sent him. It was from the well, cold, and he did not hand it to me, because both my arms were full; he brought the rim to my lips and tipped it for me, slowly, a sip and then another, and took it away when I had had enough, and stood holding the empty cup. A drop of it had fallen on the child's cheek. The child screwed up his whole face at it and kept his hold.
 
-Statia settled beside the lentil pot and finished the lentils cold, slowly, with three fingers.
-
-"He lay wide," she told the lentils. "I'm never wrong about wide."
+"He lay wide," Statia said. "I'm never wrong about wide."
 
 Grata brought a basin and washed my legs from the knee down, in water that had been warm an hour ago, and talked throughout.
 
-"You did it quiet, for a Greek, I'll say that for you. Her from the fullery had the street out of bed with her two, and the watch round to see who was killed, and you only the once, at the end, and that one was worth hearing, they'll have had that at the amphitheater. Now I've a lamp to find. The good ones are all at that thief behind the forum who wants a day's takings for a decent lamp, and he'll have them off me, I promised, she heard me." She wrung out the cloth. Her eyes were wet, and she was cross about it, and blamed the dittany.
+"You did it quiet, for a Greek, I'll say that for you. Her from the fullery had the street out of bed with her two, and the aedile's men round to see who was killed, and you only the once, at the end, and that one was worth hearing, they'll have had that at the amphitheater. Now I've a lamp to find. The good ones are all at that thief behind the forum who wants a day's takings for a decent lamp, and he'll have them off me, I promised, she heard me." She wrung out the cloth. Her eyes were wet, and she was cross about it, and blamed the dittany.
 
-Grata crossed her shop, took down one shutter board and stuck her head out, though there was not a soul to hear. "A boy," she told the dark. "And the mother whole, and him big as a calf, and the baker can have that with his bread." She put the board up again.
+Grata crossed her shop, took down one shutter board and stuck her head out, though there was not a soul to hear. "A boy," she said. "And the mother whole, and him big as a calf, and the baker can have that with his bread." She put the board up again.
 
 Her husband followed her in from the shop with his lamp burned out and his tunic on inside out. He blinked at the bed, and then at Valens, who was on the sill again, empty-handed.
 
@@ -435,7 +425,7 @@ The husband appeared to think that would do. He went to find his bed.
 
 "And you," Grata told Valens, "can put that face away, you're stood there like somebody led you home a horse you never bid on and you can't find the halter. Go and sleep an hour on my bench. You'll sleep nowhere, I know it, but it's said."
 
-Felix turned up at the door, rubbing his face. There was horn in his hair.
+Felix turned up at the door.
 
 "Can I see him? Did he come at the cocks? Has he got a voice on him? I heard a voice."
 
@@ -449,7 +439,7 @@ He came anyway, as far as the bedpost, and looked at the parcel at my breast, an
 
 Gray showed in the window slit, and the lamp looked yellow and foolish against it, and Grata pinched it out.
 
-Statia went. She took her boy and her stool and the stone off my leg. On the sill she stopped to tie her bag strap again, a good hard knot, and spoke to it in Oscan, and then to me.
+Statia went. She took her boy and her stool and the stone off my leg. On the sill she stopped to tie her bag strap again, a good hard knot, and then spoke to me.
 
 "Round about midnight," she said, "you had a look on you like you'd have my eyes out with your thumbs."
 
@@ -461,7 +451,7 @@ Her boy went first with the stool, and she behind him, and I heard her in the sh
 
 Valens had settled beside the bed, his back propped on the wall. The child was in his arm now.
 
-Lying there, I had the top of the child's head in view in the early gray, the dark hair on it still stuck flat in whorls from the washing. Toward the brow, on the crown, there was a spot where the bones had not yet come together. They had been made in pieces and left open at the joins, so that they could ride over one another on the way out and spring back after, and the skin over the gap was so thin that it lifted and settled with his heart, if I kept still and watched. Nobody had to mend it.
+Lying there, I had the top of the child's head in view in the early gray, the dark hair on it still stuck flat in whorls from the washing. Toward the brow there was a spot where the bones had not yet come together. They had been made in pieces and left open at the joins, so that they could ride over one another on the way out and spring back after, and the skin over the gap was so thin that it lifted and settled with his heart, if I kept still and watched. Nobody had to mend it.
 
 "You'll not name him till the ninth day, like decent people," Grata told us both from the door, "and I'll hear it then along with the street and look surprised."
 
@@ -489,4 +479,4 @@ He spoke once more, low, to the child. "Lucius."
 
 I was mostly asleep. The street was at its work beyond the wall, and out front Grata was telling a carter he could have the news with his wine for the one copper, and none of it on credit. The light was full in the window slit. Down the lane the string clattered past for the gate with Felix shouting at it, and one mule's hooves went short and careful on the stones. Somebody had my right wrist.
 
-It was Valens. The child lay asleep on his chest; my hand was in his right, palm down on his knee. Between his finger and his thumb he was turning the crown of the watch, forward, in small even turns, with the dry tick of it going under his fingers. He kept on until the crown would go no farther, and laid my hand back on the sheet beside his son.
+It was Valens, sitting on the bed. The child was asleep against my left side. Valens had my hand palm down on his knee. He was working the watch's little crown a click at a time, and I felt each click in the small bones of my wrist. When it would turn no farther he put my hand back under the sheet.

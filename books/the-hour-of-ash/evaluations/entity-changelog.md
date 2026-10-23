@@ -3291,3 +3291,69 @@ Open contradictions: 33 → 37.
   - Every single-quoted Ch.23 fragment that was on the post-disruptor page but is gone from the final page now sits on a line marked CUT or RE-SYNC. Fragments on changed lines were checked against their cited paragraphs.
   - The file holds 357 characters, 111 locations, 162 objects, 20 organizations, 68 plot threads, 117 world rules, 234 timeline_events and 164 contradiction rows.
   - **54 open** (58 before; −4 CH23-1..CH23-4; none opened).
+
+## 2026-10-23: UPDATE (chapter 24, "Lucius", post-disruptor page)
+
+- **Page read:** chapter-24.md at 9d418b7 (writer c9b2f8e, dialogue-polish 48d48ed, hook-craft aee7909 with no edits, book-disruptor 9d418b7). md5 48ec2025cb7f481055c9d26c949bf6d7; working tree clean.
+- **Numbering:** 235 paragraphs. Eight breaks (after p38, p67, p93, p117, p152, p183, p213 and p232) make nine shards. Each shard's italic time-stamp line counts as a paragraph, the same rule as the italic lines in Ch.2 and Ch.17. Those lines are p2, p39, p68, p94, p118, p153, p184, p214 and p233. The title, the dateline and the two HTML comments are not counted, so file line 8 = p1.
+- **Not recorded (cut before this read):**
+  - The lime on Valens's legs and arms, "The lime on him smelled of the kilns.", and the horn dust in his fingers. The one lime left is in his speech: "That arm's carried lime since dawn." (p38).
+  - "For a breath, nothing." and "He cried." as a stand-alone line.
+  - "Grata laughed and cried at once", "It was meant to be left open." and "He had taken him from me once the feeding was done".
+  - Statia's "A boy." The page has her "Mas" (p157) and Grata's "A boy." (p158).
+- **Recorded:**
+  - **Lucius, born:**
+    - A boy, born at cockcrow in Grata's back room, on Statia's stool, after labour from noon. The night runs in Roman hours: ninth, tenth and eleventh hour, lamp-lighting, bedtime, midnight, past midnight, cockcrow, after the cocks, first light, morning.
+    - The hour was not marked: "Which cock?" / "All of them." (p206; p207).
+    - Summer AD 74. The day is not on the page; derived as about late June to mid-August.
+    - Physical: gray newborn eyes, dark hair in whorls, the open fontanelle.
+    - What was done for him: the cord tied with red wool, the salt, the swaddling bands. Valens lifted him from the cloth on the floor. Mara nursed him at once, overruling Statia. Valens named him "Lucius" at first light; Grata wanted the naming on the ninth day.
+  - **Statia** (`midwife-pompeii` renamed, `former_slug` kept):
+    - Teeth: the two front teeth crossed, the left over the right, "like a pair of shears half shut"; a brown one beside them; a gap where the eyetooth should be.
+    - She calls a girl five times ("Carried wide") and keeps insisting after the birth.
+    - Her boy carries the stool. She speaks Oscan. She has the eagle-stone, and she wants the first milk withheld.
+  - **Grata:**
+    - Three children born in that house, the youngest feet first.
+    - Her bargain with Juno Lucina: two cakes and a lamp, still owed (`gratas-vow-to-lucina`, chekhov_open).
+    - She undoes the knots in the room, holds Mara on the stool and announces the birth to the street.
+  - **Grata's husband:** first speech on the page under that name. He is "soft, sunburned", with dice and a lamp. He passes on the Chaldean rumour: "On the fish quay, behind the tunny sheds", "mutters gibberish to himself over it, not Greek, not Syrian", and reads your day "in Greek like a schoolmaster". He got it from his brother. He asks the birth hour.
+  - **The fuller's wife:** she is "the twins' mother" by reading (needs_review kept). Her Cretan dittany. Grata held her leg "from one dawn to the next".
+  - **Felix:** the lamp at the hooves, "four times", "Two years" (agrees with arrival in spring AD 72), asleep at the birth, horn in his hair.
+  - **Valens and the dun:**
+    - He pares and rasps all four of the dun's feet by lamplight. No shoe is mentioned (the world rule is now observed on the page). "There's a flare on this one."
+    - He answers "Were you afraid?" with the mule.
+    - At the birth: the cloth ("My man wears that to the Floralia" / "It's a cloth now."). He lifts the child on locked arms "how a man held a jar he had caught just short of the stones", then "by inches".
+  - **Mrs. Dunphy, mutation 2:** a brown cardigan "gone thin at the elbows", "at the board with the chalk in her fingers", long division. Mutation 1 (Ch.7) was green, short of its second button, at her desk with her hands on the blotter.
+  - **The Seiko:** wound by Valens on Mara's RIGHT wrist, forward until "the crown would go no farther". This agrees with Ch.18's wrist and Ch.6's rule. It is the third winding shown on the page with the watch on her own wrist (Ch.1, Ch.18, Ch.24). `last_mentioned_manuscript` is now ch-24:p235.
+  - **The frozen peas:** bought for the back of the neck, never cooked "in four summers" (p91).
+- **New entities:**
+  - **Characters:** statia (renamed), statias-boy, statias-mother, vesuvius-gate-midwife, milk-girl-two-streets-over, forum-lamp-seller, fullers-twins, soranus, pliny-the-elder (needs_review against pliny-the-younger).
+  - **Locations:** gratas-back-room (the room and the court: well, iron ring, woodstack, lane gate), nola-gate, vesuvius-gate, puteoli-fish-quay.
+  - **Objects:** statias-birthing-stool, eagle-stone (chekhov_closed in-chapter), statias-knife, gratas-vow-to-lucina (chekhov_open), floralia-cloth, cretan-dittany (destroyed), maras-frozen-peas.
+  - **knowledge_index:** lucius_birth. **plot_threads:** lucius-infant (OPENED). **world_rules:** six OBSERVED rows (birth customs, the father's lift and the ninth-day name, the Roman hours, hoof trimming).
+- **Updated:**
+  - Mara: physical `childbirth_ch24`, five traits, the teeth trait, the lucius and statia relationships, location_log 24, the Chaldean knowledge row taken from the page (`plan_was` kept), seven knowledge rows, knowledge_absent_ch24 and a waypoint.
+  - Valens: physical `hands_ch24`, four traits, the lucius, statia and gratas-husband relationships, the mules and watch possession notes, location_log 24, five knowledge rows, knowledge_absent_ch24 and a waypoint.
+  - Felix, Grata, Lucius, mrs-dunphy, gratas-husband, fullers-wife-pompeii and august-fenn (`ch24_rumor`; the alias now carries the page source, with the identification marked as the plan's).
+  - Locations: gratas-thermopolium, cobblers-shop, pompeii (first naming of the Via dell'Abbondanza on the page; voice-dna allows it), puteoli, fullery-at-the-corner and pompeii-forum.
+  - Timeline row 24 now uses the page (`plan_was` kept). Five timeline_events.
+  - The fathers-seiko-watch custody, windings and wrist entries; relics-watch; the-when (`ch24_page`); conception-and-lucius.
+- **Flags:**
+  - **NEW:**
+    - CH24-1 (info): outline wording against the page. The plan's "talks gibberish" is "mutters" on the page, and "amphora" is "jar". The plan has her asleep for the winding; the page has "mostly asleep", and she feels the hand on her wrist. The unshod hoof is implied, not stated. Forward: the Chaldean's fish quay against the Ch.25 plan's upper room by the harbor; compatible.
+    - CH24-2 (low): Valens is back from the string at the eleventh hour in summer, having "carried lime since dawn". This runs against Ch.20's "In the hot months the carting stopped at noon" (ch-20:p85).
+    - CH24-3 (info): Mrs. Dunphy mutation 2 changes more than the planned brown: the place, the cardigan's flaw, and what the class did. Long division is kept for Ch.41. The changes are by design.
+  - **Rechecked, still open, with ch24_recheck notes:**
+    - CH18-5: the child is a boy; his status is not raised.
+    - CH19-3: the husband is on the page; the Ch.19 sleeping-tunic man is still his only by reading.
+    - CH21-4: the first hoof work on the dun shown on any page, with no tie to the AD 72 letter.
+  - **CLOSED (thread):** plot_threads.conception-and-lucius. The pregnancy timeline agrees end to end: conceived about late September to October AD 73, "Five. Nearly six." in mid-March, about seven months at the inn, born summer AD 74. No flag.
+  - **CRITICAL:** none. **knowledge_gap:** none. Valens has the labour from Felix ("Felix said."). Felix's own source is the street and is not shown.
+- **meta:** header note, `last_updated_by`, `mode`, `source` (Ch.1-24; the outline now covers Ch.25-44), `last_updated_chapter: 24`, `chapters_tracked` +24, the Ch.24 clause in `paragraph_rule`, and `ch24_requested_checks`.
+- **Not touched:** the manuscript, character-bible.md (md5 unchanged), STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - All 557 ch-24 cites fall in p1..p235.
+  - Every single-quoted Ch.24 fragment on the added lines was checked by script against the page. The one misquote ("like a jar …") was corrected to the page's "how a man held a jar …". The other unmatched fragments are plan or other-chapter quotes.
+  - The file holds 365 characters, 115 locations, 169 objects, 20 organizations, 69 plot threads, 123 world rules, 238 timeline_events and 167 contradiction rows.
+  - **57 open** (54 before; +3 CH24-1..CH24-3; none closed).
