@@ -705,6 +705,35 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
     second view of a dark hill from a roof would make it a habit.
   - **Spent in Ch.22:** every line above; the fifth laugh shape; the 1991 memory; the pot with lead staples; the shift soaking in a
     basin; "a light, sick, scoured feeling"; "listened to Rome being fed".
+- **Ch.23 as written ("An Inn on the Appian Way", Single-scene, one rainy night, 0 breaks, near Tarracina, spring AD 74; HEAT 2. SYNCED
+  to the FINAL page 2026-10-23 (md5 `3599a74c…`); quotes checked by grep; the full HEAT 2 log, the texture and every CUT string are in
+  "At-risk after Ch.23"):**
+  - **The body at six months:** "My ankles had swollen in the carriage so that my sandal straps cut into them."; the hunger ("Grata had
+    told me in the winter that this was the child eating, and that I should feed it what it asked for. So far it had asked for
+    everything." / the ugly sentence, "I was hungry the way I was always hungry now, which was all the time, and I ate his."); "Climbing a
+    ladder with the child in front was a matter of getting the belly up it ahead of the rest."; the frank display ("Look, then. All of
+    it's yours, and most of it's swollen."; "Not my breasts," … "They're sore from the carriage.").
+  - **She leads, he is held (HEAT 2's moves logged as SPENT):** "I took his hands off my hips. I lowered them to the blanket, palms up,
+    one each side of his head, and left them there." / "Let me," (the anchor); "I could not reach his mouth over the child. I tried, and
+    the child objected"; she guides his thumb (**the second guided hand, after Ch.15; Ch.34 must not do it a third time**); "I took the
+    outside of the bed, the door side"; "I'll be up in the night," … "Twice, at least. This side's mine." (the bladder reason, used once,
+    I-10); the cramp as her body rebel ("Leg," I said. "Leg, leg."). Voice under pressure: the asides go quiet in the heat and the senses
+    widen ("I could smell the lamp oil and the horse in the blanket, warmed now by his back, and the mules below, and my own sweat and
+    his.").
+  - **His back and the verdict:** "The judge had found for the plaintiff. Every mark was where it had always been." (the stopping
+    sentence); her cheek to it once; "I fitted myself to his back."; the kick "so hard I felt it go through me into him".
+  - **The look-back and the laugh she spent:** "I missed it," … "All you told them." / "That was to me."; on the Basilica steps
+    "sitting on Myrrhine's cloak"; "It was what I had come for, and I had laughed it away." (a reference to Ch.22's laugh; no new laugh,
+    no mouth channel). "I kept quiet." (the onion).
+  - **Memory (short, triggered by the road and the singing driver, returning to the room):** Horace, read "at nineteen, in a carrel"
+    ("He had made up none of it. There was a small, mean comfort in that. I sat with it, and it did not last."). No longer memory in
+    Ch.23; the radiator is CUT (W-17).
+  - **Counts:** credential asides 0; "the conservator in me" 0; laughs 0; "So…" openers 0; narrated "until" 3 (cap for a heat scene);
+    "I felt" 3 (WATCH); Mara's lines with "Then…" 1 ("Then I'll hear it.").
+  - **Spent in Ch.23:** every line above; the frank-body display; "Let me" with the hands palms up; the cramp; the door side as hers;
+    Horace as a source. CUT (never restored): "I'm the size of a wine jar," / "A small one."; "These days I was always hungry."; "and I
+    asked nothing"; "I listened … in the rain."; "my fingers spread wide on his chest"; "as far as the belly let me"; "and I had been
+    outside for most of it"; "until I was done".
 
 #### VALENS ("Lupus") — muleteer, former murmillo, freedman; b. c. AD 38 in Thrace (Ch.6–44)
 - **Attention / worldview:** footing, exits, weather, and the moods of animals and men, which are one
@@ -1421,6 +1450,39 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   echoes of the Ch.12 telling, "I needed work", "cried all through it", "shown their places", "I slept across", "The year everybody was emperor"
   (dialogue-polish). **Spent in Ch.22:** every line above; the name to the back benches; the boots toes outward; Celer's dinner foot;
   "He pitched it as he would hail the string in a crosswind".
+- **Ch.23 as written ("An Inn on the Appian Way", Single-scene, one rainy night, near Tarracina, spring AD 74. SYNCED to the FINAL page
+  2026-10-23 (md5 `3599a74c…`) after dialogue-polish, hook-craft, disruptor, continuity repair and evaluator cycles 0–1; quotes checked
+  by grep; the full HEAT 2 log and every CUT string are in "At-risk after Ch.23"):** sad, not triumphant, and sad in his own register.
+  **Withdrawn since the gate:** "Since then he had answered whatever was put to him, the driver and the post-house men and me, with a
+  word or two apiece. He was not short with anybody."; "Valens broke a piece of bread and held it."; "Valens pushed his bowl over to
+  me." / "You're not hungry?" / "Eat it." **The road and the animals (his attention, unchanged):** "Not with that near mule," … "She
+  won't let him."; the towpath, "Past the halfway post, a hand deep, for two hundred paces. The barge mules were going through it. They
+  didn't like it. They went." / "A gray, leading. Two browns behind."; "His off-side mule's going short," … "Near fore." / "If he stops
+  singing at it." / "If it stops raining." / "Three,"; the driver's grievance ("He rubbed my mules down himself,"); the blanket ("A big
+  horse. Cavalry, by the girth mark." / "He's dead, or sold."); the gray heard through the boards ("The gray's lame," … "Off hind. He's
+  walked it through the water." / "He'll want to poultice that." / "He'll do it. He's brought it this far."). **The door (narrated
+  watch 3, spread):** "with the door in his eye"; "He lifted its latch and dropped it, twice, and studied the gap underneath." / "He
+  searched for a stool, and there was no stool. He left it."; "He rose on his elbow to see the door past me." / "The latch is wood."
+  **The look-back:** "You heard it at Kirrha. At the stream." / "It was the same. Near enough the same." (no recap of the testimony).
+  **The five words (SPENT, never called back):** "It's done," … "They believed me." with "He let me lean." and his eyes "on the floor
+  between his boots". **The onion, third surfacing (with his mother, triggered by the rain, unexplained):** "When it rained like this,"
+  … "my mother ran out for the onions." / "In her shift. She'd come back in with them round her neck, wet through, laughing at us." /
+  "Who we were, he left out." His mother stays unnamed; the Ch.41 tomb-road surfacing needs new words (no mother running, no rain, no
+  shift). **HEAT 2 (he is the one held; his moves logged as SPENT):** hands to her hips "as he would steady a load on a bad slope", put
+  down palms up and left; "The fingers stirred once on the felt and went loose."; "The muscles of his belly jumped under my thighs every
+  time."; "He shut his eyes. His breath left him and was a while returning."; "Mara."; "Your left knee," … "The cords are lower on this
+  side."; "He let me look at his face with nothing in front of it."; the thumb taught "until he had the way of it. He had it."; "Then he
+  raised the hand still lying open."; his face "against my collarbone, under my chin"; the sound "my collarbone had it before my ears
+  did"; "His arms locked round my back, hard."; "Stay," … "A while."; he takes the cramp ("pushed the toes back, and it let go").
+  **The door-side turn (the anchor of his trust, SPENT):** "He turned over, to face the wall, and the door was behind him, and so was
+  I." **The kick against the scars:** the child "kicked him in the back, twice"; "His shoulders dropped, and the long muscles beside his
+  spine let go in turn, down to the hip, and he lay back against me." / "It's awake," … "into the wall" / "Does it do that all night?" /
+  "It's right." / "By and by he slept." **Counts:** narrated states withdrawn 3, door watch 3, still 3, breath 3 (all spread); "He let
+  …" openers 2 (the designed pair, SPENT); narrated waiting 0; comparisons in his speech 0. **Spent in Ch.23:** every line above; the
+  back as a lamplit look; the door side; the onion with the mother; "He's dead, or sold." CUT (never restored): "He watched the road.";
+  "He considered the bread in his hand."; "The floor had him again."; "He watched it a little."; "He went quite still."; "He let a breath
+  go through his nose"; "which in Valens was the most of a laugh you got"; the kept stillness "and it cost him"; the room-read on entering
+  (W-02).
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -3901,21 +3963,30 @@ trait or state ≤3 per chapter.
   Nero (the drained lake).
 
 #### Ch.23 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+SYNCED to the FINAL page 2026-10-23 (md5 `3599a74c…`); every quote checked by grep.
 - **Our driver** (passing; hired by the brother as far as Capua): "a Capuan with a single eyebrow that went right across", who "sang to
-  them [the frogs] full-throated for the final two hours, to hear something else"; his chaos is his grievance: "He rubbed my mules down
-  himself," … "Both. With my own sacking. I stood and held the lamp." (comes in "wiping his eyebrow"). Spent: the eyebrow, the singing,
-  the grievance.
-- **The two carters** (passing; a load of roof tiles for Tarracina): the quarrel about a third carter's coughing mule ("He sold you a
-  mule with a cough," / "He sold me a mule. The cough was later." / "The cough came with it. In a basket. He threw it in for nothing." /
-  "Will you tell him so?" / "I'll tell his mule."); the younger: "That's not a towpath out there," … "That's a river with mules in it.";
-  the older to Valens: "That your carriage out there? The Capuan's?" / "He'll have you over at Fundi. He has everybody over at Fundi.";
-  the nearer one scratches his shin at the fleas. Spent, all of it.
-- **The barge man** (heard through the floor only; who he is to Acca is never said): brings three towing mules in late, the gray lame
-  off hind; "Bridge was under." / "On you." / "I brought eels."; laughs, tired. Never seen.
+  them full-throated for the final two hours, to hear something else" (the frogs); his chaos is his grievance: "He rubbed my mules down
+  himself," … "Both. With my own sacking. I stood and held the lamp." (comes in "wiping his eyebrow"). Valens on him: "If he stops
+  singing at it." Spent: the eyebrow, the singing, the grievance. **He is the fourth singing walk-on** (Ch.17 baker, Ch.19 mason, Ch.22
+  drover): see the Ch.24 guards.
+- **The two tilers** (passing; "a load of roof tiles for Tarracina standing out in the wet"; "They had their boots off and their bare
+  feet steaming at the hearth."; W-19 renamed them from the draft's "carters"): the quarrel about a coughing mule ("He sold you a mule
+  with a cough," / "He sold me a mule. The cough was later." / "The cough came with it. In a basket. He threw it in for nothing." /
+  "Will you tell him so?" / "I'll tell his mule."). The seller is **"the cheating carter"**, a third man who is only mentioned, never
+  seen. The younger: "That's not a towpath out there," … "That's a river with mules in it."; at the fleas, "The younger tiler laughed
+  at that. He scratched his own shin to show her she was right" (the laugh answers "Pennyroyal. I'm out."). The older, to Valens: "That
+  your carriage out there? The Capuan's?" / "He'll have you over at Fundi. He has everybody over at Fundi."; and unasked, to Mara's "And
+  if it doesn't?": "It won't," the older tiler put in from his end. Spent, all of it.
+- **The barge man** (heard through the floor only; who he is to Acca is never said): brings three towing mules in late ("three by the
+  sound of their feet"), the gray lame off hind; "Bridge was under." / "On you." / "I brought eels." / "Let me get them dry first. You
+  can shout after."; "a tired laugh". Never seen. "Somebody down in the stalls was talking low to the gray." (unattributed; leave it so).
+- **"Somebody down the table"** (passing): shouts "Acca!" for more wine; the only naming of her.
 - **Mention:** Horace (the journey down this road, "a bad stomach", the canal water, the frogs, "a drunk boatman singing to his girl
-  through the night", the inns; read "at nineteen, in a carrel beside a radiator that knocked"): SPENT as a source; the brother and his
-  freedman (the hired carriage; "the price of a chair I never sat in"); Myrrhine's cloak on the steps (recalled once); Valens's mother
-  (the onion memory; unnamed, unexplained; see VALENS).
+  through the night", the inns; read "at nineteen, in a carrel"; "He had made up none of it. There was a small, mean comfort in that."):
+  SPENT as a source. CUT (W-17, never restored): "beside a radiator that knocked". The brother and his freedman (the hired carriage;
+  "the price of a chair I never sat in"); Myrrhine's cloak on the steps (recalled once); Grata, quoted at second hand ("Grata had told me
+  in the winter that this was the child eating" / "Grata says not, until the eighth month."); Valens's mother (the onion memory; unnamed,
+  unexplained; see VALENS).
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -4739,7 +4810,8 @@ trait or state ≤3 per chapter.
   under?" / "Brown mule leading? A white blaze?"); she knows a team by its leader and a man by whether he swaps his mules in time.
   Nobody passing through is asked about themselves beyond direction ("Going down, or coming up?" / "Where's that?").
 - **Vocabulary band:** a marsh-country Latin with a dialect Mara cannot follow when she uses it on her roof; kitchen and stable nouns
-  (eels, pennyroyal, the hen, the bridge, the halfway post). Never names what is in the pot.
+  (eels, pennyroyal, the hen, the bridge, the halfway post). The pot gets named once, in fury, through the floor at the barge man:
+  "I've eels!"
 - **Syntax fingerprint:** short, verbless statements of fact ("Washed," … "At the Kalends." / "One to a bed. There's one bed." /
   "Fox. Had the other six. Not this one." / "Pennyroyal. I'm out."); a run of repeated reassurance only when she is telling the hen
   what she needs to hear ("He'll have swapped them. He's sense enough for that, hasn't he? He's that much sense."). Furious, she
@@ -4750,7 +4822,9 @@ trait or state ≤3 per chapter.
 - **Physicality / silence:** "a man's cloak with the sleeves turned back"; the brown hen carried in the crook of her arm since the fox
   took the other six (held 3 times on the page: the arrival, "gathered up the hen", "without letting the hen go, pouring one-handed");
   the drip bowl shoved an inch and emptied into the hearth once each; fishes a fly out of the salt with her finger. Talks to the hen or
-  the roof rather than to guests (4 on the page in all: the roof twice, the hen twice): **capped, no fifth**.
+  the roof rather than to guests (**3 on the FINAL page**: the roof twice, "She spoke to the roof in a dialect I could not follow at
+  all" and "the landlady gave the roof a word that I did know"; the hen once, "She gathered up the hen and told it so."): **capped, no
+  fourth**. (The draft's fourth, "told the roof", is CUT.)
 - **Verbal tic:** none — distinguished by attention (the towpath, the team, the leader) and evasion (her worry spoken only to a hen)
 - **Bleed guard:** not Grata. Grata tells you about yourself and touches arms; Acca asks you nothing about yourself, touches nobody, and
   wants only the state of the road. Never Mara's eye for materials; never Valens's reading of a lame leg (he hears it through the floor,
@@ -4759,11 +4833,13 @@ trait or state ≤3 per chapter.
   scolds and the drip she cannot catch; the blanket "Washed … At the Kalends", which Mara believes "about the Kalends".
 - **DISTINCTNESS GUARANTEE:** the woman who asks a stranger whether the towpath is under water because she cannot ask the road whether
   her man is drowned, against Grata, who would have told the stranger his own business before he sat down.
-- **Ch.23 as written (Writer draft, 2026-10-23; quotes from the draft page):** named only by a shout from down the table ("Acca!" for
+- **Ch.23 (FINAL page, 2026-10-23, md5 `3599a74c…`; quotes checked by grep):** named only by a shout from down the table ("Acca!" for
   more wine); "Washed," … "At the Kalends." / "One to a bed. There's one bed." / "You'll share it with more than him."; "Room over the
   mules," … "Dry. Dry as anything is tonight."; "She sleeps on me."; "Rain brings them up," … "They don't like it either."; "Shout if the
-  roof comes in," … "It never has yet. Not on a guest."; through the floor, "The bridge is always under. And where's my hen been all
-  afternoon, would you say?" / "I've eels! And the gray, what have you done to the gray?"; Fundi "once, for a wedding. It rained."
+  roof comes in," said "to our backs", … "It never has yet. Not on a guest."; through the floor, "Noon, you said. Noon!" / "The bridge
+  is always under. And where's my hen been all afternoon, would you say?" / "I've eels! And the gray, what have you done to the gray?";
+  her evasion carried out by result: "Then she stopped, somewhere about the canal, and nobody down there said anything more."; "She was
+  watching Valens." / "She kept to the hearth."; Fundi "once, for a wedding. It rained."
   **Spent:** the horse blanket and its girth band; the hen and the fox; the drip bowl; pennyroyal; the towpath questions; every line
   above. If she recurs (she should not), new words and a new object.
 - **Sample line:** "Cart road's dry as far as Fundi, and after Fundi it's anybody's guess, and don't you go asking the hen." (Calibration
@@ -4789,7 +4865,7 @@ line each, so that walk-ons don't all sound like Mara.
 | Puteoli harbor clerk (19) | WRITTEN (Ch.19), unnamed: reads with the wax at his nose (the leaf has no seal); a black smudge on his nose; not hostile; see the Ch.19 walk-on note |
 | Old trainer and the editor of games (21) | WRITTEN (Ch.21) and named: NICANOR (card above; sand and bodies, predicted aloud) and GAIUS FABIUS RUFINUS (card above; never speaks, known by herald, freedman and paint) |
 | Celer's advocate (22) | smooth forensic Latin; never raises his voice |
-| Inn landlady on the Appian Way (23) | the bill and the fleas she denies |
+| Inn landlady on the Appian Way (23) | WRITTEN (Ch.23) and named: ACCA (card above); the towpath and the hen. She admits the fleas ("Rain brings them up,"); no bill on the page |
 | Midwife (24) | brisk, Oscan asides, goddess names; crossed front teeth (Mara's fixation, not her voice) |
 | Grata's husband (24, 31) | dice and rumor; mentions the Chaldean "talking gibberish". Glimpsed Ch.19 (sleeping tunic, "Is there bread?"); see the Ch.19 walk-on note |
 | Lanista (28) | contracts and investment; reasonable, mostly honest |
@@ -6586,41 +6662,109 @@ line each, so that walk-ons don't all sound like Mara.
       question in any mouth; the hearing's calendar date is never named (audit I-12); Plautia's brother stays unnamed; no narration
       paragraph opening "So …" (the tic gate's book-wide WATCH).
 
-- **At-risk after Ch.23 (Writer draft, 2026-10-23; "An Inn on the Appian Way", Single-scene, one rainy night, 0 breaks, near
-  Tarracina, spring AD 74; HEAT 2. Draft quotes; the chain downstream re-syncs to the FINAL page):**
+- **At-risk after Ch.23 (FINAL page, md5 `3599a74c…`, synced 2026-10-23; "An Inn on the Appian Way", Single-scene, one rainy night,
+  0 breaks, near Tarracina, spring AD 74; HEAT 2. Writer draft → dialogue-polish → hook-craft → disruptor → continuity repair (C-01…C-05,
+  W-01…W-17, W-19, I-02/I-03/I-13) → evaluator polish cycle 0 (F1–F9) and cycle 1 (G1–G6) → PASS at cycle 2. Every quote below was
+  checked by grep against the final chapter; every CUT string was checked to be OFF the page):**
   - **HEAT 2, SPENT staging (Ch.34 and anything after find other orders, bodies, senses):** she leads; "I pushed at his chest, and he
-    went back onto the blanket"; his hands lifted to her hips "as he would steady a load on a bad slope", taken off and lowered "to the
-    blanket, palms up, one each side of his head" ("Let me," / "The fingers stirred once on the felt and went loose."); his kept
-    stillness "because I wanted it, and it cost him"; she astride at six months ("Getting a knee across him needed two tries and his hand
-    cupping my elbow", "I'm the size of a wine jar," / "A small one."); "I could not reach his mouth over the child"; "sank onto him by
-    slow degrees, the child's weight sinking with me"; his thumb set "to me" and pressed under hers; she comes first, "a long, slow,
-    shaking time"; his face "against my collarbone, under my chin"; the sound "into my skin, low"; his arms "locked round my back, hard";
-    his full name spoken into the top of his head ("Gaius Iulius Valens, the one in the court's wax, and then only Valens"); "Stay," …
-    "A while."; "Mara." / "I know."; her frank body ("Look, then. All of it's yours, and most of it's swollen."; the navel "pushed out
-    flat", the brown line "come in March", the breasts "heavy", veins "blue under the skin", "Not my breasts," … "They're sore from the
+    went back onto the blanket" / "he lay with all his marks against it and did not shift" / "He got his boots off without his hands,
+    toe against heel" / "The rest of his clothes I took from him."; she astride at six months ("Getting a knee across him needed two
+    tries and his hand cupping my elbow"; "Your left knee," … "The cords are lower on this side."); his hands lifted to her hips "as he
+    would steady a load on a bad slope", taken off and lowered "to the blanket, palms up, one each side of his head" ("Let me," / "For a
+    breath he only looked at me. The fingers stirred once on the felt and went loose."); "I could not reach his mouth over the child";
+    "I kissed what I could reach, the hard place over his heart and the stubble along his jaw"; "The muscles of his belly jumped under
+    my thighs every time."; "sank onto him, the child's weight sinking with me."; "He shut his eyes. His breath left him and was a while
+    returning."; "Mara." / "I know."; "The cords answered every movement."; the senses widening ("I could smell the lamp oil and the horse
+    in the blanket, warmed now by his back"); "A flea crept up the inside of my calf, and I did not care about it at all."; "He let me
+    look at his face with nothing in front of it."; the guided thumb ("I set his thumb to me and pressed it there under mine until he had
+    the way of it. He had it." / "while his thumb waited on me"); she comes first, "a long, slow, shaking time"; "Then he raised the hand
+    still lying open." / "the back of my thigh, then my hip, then the small of my back, and held on there"; "His face went in against my
+    collarbone, under my chin."; "His breath was hot on the sore skin of my breast, and I allowed it."; "then my collarbone had it before
+    my ears did"; "His arms locked round my back, hard."; his full name spoken into the top of his head ("Gaius Iulius Valens, the one in
+    the court's wax, and then only Valens"); "Stay," … "A while."; the cramp ("He kept hold of me until my left calf knotted under me." /
+    "Leg," I said. "Leg, leg." / "pushed the toes back, and it let go."); "Getting off him was no more graceful than getting on."; her
+    frank body ("Look, then. All of it's yours, and most of it's swollen."; "I stood barefoot in the leak's spray and let him see."; the
+    navel "pushed out flat", the brown line that "had come in March" and "nothing would scrub it off", the veins "blue under the skin",
+    "The nipples were wider and darker."; "He looked, and his face gave me nothing to read."; "Not my breasts," … "They're sore from the
     carriage."; "Will it hurt the child?" / "Grata says not, until the eighth month." / "Grata says what she thinks will rile me.").
-  - **His back (SPENT as a lamplit look):** the tunic pulled up "in two fists"; "the little flame put everything on it in relief";
-    the slant from left shoulder to right hip, "more than a dozen", "Two crossed low on the right side, where the man with the whip had
-    changed his footing", the puckered upper end, "so that his back looked combed"; "Every mark was where it had always been."; her
-    cheek between the shoulder blades (once). No later chapter rebuilds the lamplit inventory of the back.
-  - **The five words (SPENT, never called back):** "It's done," … "They believed me." / "Yes." Nobody quotes or echoes them.
+  - **His back (SPENT as a lamplit look):** "I knelt behind him on the cords, which took some arranging, and took the hem of his tunic
+    and pulled it up. He raised his arms for it."; "the little flame put everything on it in relief"; the slant from left shoulder to
+    right hip, "more than a dozen", "Two crossed low on the right side, where the man with the whip had changed his footing.", "the old
+    stitches had puckered its upper end", "Between them the skin was brown, so that his back looked combed."; "The judge had found for
+    the plaintiff. Every mark was where it had always been."; her cheek between the shoulder blades, once ("It was warm. The wool smell
+    of the tunic was still on it, and rain, and mule. I felt him breathe under my face. For a while that was all."). No later chapter
+    rebuilds the lamplit inventory of the back.
+  - **The five words (SPENT, never called back):** "It's done," … "They believed me." / "Yes." Nobody quotes or echoes them. With them:
+    "He let me lean." / "his eyes were on the floor between his boots" / "The rain went on doing what it was doing." / "Usually there was
+    a next thing" … "Nothing came."
   - **The onion memory, third surfacing:** triggered by the rain: "When it rained like this," … "my mother ran out for the onions." /
-    "In her shift. She'd come back in with them round her neck, wet through, laughing at us." Unexplained ("Who we were, he left out,
-    and I asked nothing."). The tomb-road surfacing (outline Ch.41) needs fresh words again: no mother running, no rain, no shift.
-  - **The door side and the child (SPENT):** "This side's mine." / "The latch is wood." / "Then I'll hear it."; he turns "to face the
-    wall, and the door was behind him, and so was I"; the child "kicked him in the back, twice"; "It's awake," / "It's been awake since
-    Forum Appii." / "Does it do that all night?" / "Most nights. It likes the carriage least." / "It's right."; "He let a breath go
-    through his nose, which in Valens was the most of a laugh you got" (once). **The child touching Valens through Mara's body is now
-    spent in both forms (Ch.22 palm/heel, Ch.23 back).** Ch.24 finds the child in the world.
-  - **Spent texture:** the horse blanket and its girth band; fleas as a thread (the ankle bite under the table, "Rain brings them up",
-    pennyroyal, the flea on her calf, the bites on shin and knee, the long fade); the marsh road "as though a surveyor had laid it out
-    with a string"; the canal "the color of lentil soup"; the drip bowl; the roof with no ceiling and the crack's spray; the barge man
-    heard through the floor; Valens hearing the gray's "Off hind" through the boards; "He'll want to poultice that." / "He'll do it.
-    He's brought it this far."; the boots ("They'll dry." / "Not in here." / "Then they won't."); "He's dead, or sold." (the horse);
-    "You heard it at Kirrha. At the stream." / "It was the same." … "Near enough the same."; Horace as a source; "a carrel beside a
-    radiator that knocked"; "These days I was always hungry."
-  - **Counts (draft):** spoken "Then…" openers 2 ("Then they won't." / "Then I'll hear it."); as-though 1; em-dashes 0; and-chains 3;
-    negation pivots 0; no Mara laugh, no mouth rebel; no "So…" opener; Valens's waiting 0; Acca's address to hen/roof 4 (capped).
+    "I kept quiet." / "In her shift. She'd come back in with them round her neck, wet through, laughing at us." Unexplained ("Who we
+    were, he left out."). "The crack over the door spat water onto the floor, and he sat on in it." The tomb-road surfacing (outline
+    Ch.41) needs fresh words again: no mother running, no rain, no shift, no "left out".
+  - **The door side and the child (SPENT):** "I took the outside of the bed, the door side"; "He rose on his elbow to see the door past
+    me."; "I'll be up in the night," … "Twice, at least. This side's mine." / "The latch is wood." / "Then I'll hear it."; "Somebody down
+    in the stalls was talking low to the gray."; he turns "to face the wall, and the door was behind him, and so was I"; "I fitted myself
+    to his back." / "I felt the marks against me all along my front, where the belly pressed him, ridge after ridge."; the child "kicked
+    him in the back, twice, so hard I felt it go through me into him"; "His shoulders dropped, and the long muscles beside his spine let
+    go in turn, down to the hip, and he lay back against me."; "It's awake," … "into the wall" / "It's been awake since Forum Appii." /
+    "Does it do that all night?" / "Most nights. It likes the carriage least." / "It's right."; the close is "By and by he slept." **The
+    child touching Valens through Mara's body is now spent in both forms (Ch.22 palm/heel, Ch.23 back).** Ch.24 finds the child in the
+    world.
+  - **Spent texture:** the horse blanket and its girth band ("The blanket had been made for a horse." / "A big horse. Cavalry, by the
+    girth mark." / "He's dead, or sold."); fleas as a thread ("Something bit me on the ankle, under the table, and then again above it." /
+    "There's fleas," / "Rain brings them up," / pennyroyal / the flea on her calf / the long fade, "the fleas that had lived in that wool
+    longer than any horse climbed out of it singly"); the marsh road "as though a surveyor had laid it out with a string"; the canal
+    "brown as lentil soup"; "we saw rock going into a cloud and took it on trust"; the eight-scored loaf and the fly in the salt; the
+    drip bowl ("The drip found it again." / "gave the roof a word that I did know"); the roof with no ceiling, the crack's spray, "every
+    tile taking its own share"; "The cords dipped toward him" … "all my weight at once."; the supper ("Valens broke a piece of bread and
+    held it." / "Valens pushed his bowl over to me." / "You're not hungry?" / "Eat it." / "His eel was cold." and the ugly sentence, "I
+    was hungry the way I was always hungry now, which was all the time, and I ate his."); "That's not a towpath out there," / "That's a
+    river with mules in it."; the look-back ("I missed it," … "All you told them." / "You heard it at Kirrha. At the stream." / "That was
+    to me." / "It was the same. Near enough the same." / "The dyer and the merchant and the young man's uncle had done most of the
+    deciding. He had stood up for an hour in front of half of Rome even so." / "It was what I had come for, and I had laughed it
+    away."); "He was not short with anybody."; "I believed her about the Kalends."; the barge man heard through the floor; Valens hearing
+    the gray ("The gray's lame," … "Off hind. He's walked it through the water."); "He'll want to poultice that." / "He'll do it. He's
+    brought it this far."; the boots ("They'll dry." / "Not in here." / "Then they won't."); the latch ("He lifted its latch and dropped it, twice");
+    Horace as a source, read "in a carrel".
+  - **CUT, never to be restored (each checked OFF the final page), by source:**
+    - *Draft, dialogue-polish, disruptor and continuity repair:* "I'm the size of a wine jar," / "A small one."; "These days I was always
+      hungry."; "and hungry again a mile after it"; the room-read sentence at l.54 (W-02); "He considered the bread in his hand."; "The
+      floor had him again."; "a man sneezed"; "in two fists"; "road-brown" over the ridges; the three undressing sentences (C-03); the
+      ankle and the flea bites "on shin and knee" in the fade; "and I asked nothing"; "I listened … in the rain." (W-09); "told the roof";
+      "the color of lentil soup" ('the [color] of [thing]' stays CLOSED at 2); the lamp lines below the boards; "He watched it a little.";
+      "with his weight given up into the bed and the belly and my arm"; "which in Valens was the most of a laugh you got"; "and the mule
+      below kicked its stall again and stopped"; "my fingers spread wide on his chest"; "as far as the belly let me"; "where it had been
+      for five years" (W-18, by ruling); "beside a radiator that knocked" (W-17); "carters" for the tilers (W-19; the word survives only in the
+      header's scene-budget comment, not in the prose).
+    - *Evaluator cycle 0 (F1–F9):* "He watched the road."; "None of it made any difference"; "because they gave me no choice"; "They
+      were sore; the wool of the tunic had chafed them"; "The cords sank under him."; "by slow degrees … till I had all of him and sat on
+      him"; the four-part kiss list; "His old stillness … This one he kept because I wanted it, and it cost him"; "the sound he made was
+      into my skin, low"; "He went quite still."
+    - *Evaluator cycle 1 (G1–G6):* "in the pot longer than mine and tasted it"; "and I had been outside for most of it"; "by degrees, …
+      until I was sitting on him"; "until I was done"; "until it let go"; "He let a breath go through his nose".
+  - **Counts (FINAL):** spoken "Then…" openers 2 ("Then they won't." / "Then I'll hear it."); as-though 1; em-dashes 0; and-chains 2;
+    negation pivots 0; credential asides 0; narrated "until" 3; narrated "somewhere" 2 (at cap); "He let …" openers 2 (the designed
+    pair); "a while" 3; Acca's address to hen/roof 3 (capped); Acca's hen holds 3; Valens's narrated states ≤3 each and spread (withdrawn,
+    door watch, still, breath); Valens's narrated waiting 0; no Mara laugh, no mouth rebel, no "So…" opener; echoes 0.
+  - **New closed lists, watches and guards (book-wide, from the Ch.23 evaluation):**
+    - **"by degrees": CLOSED at 2** (Ch.12 "It stopped by degrees.", Ch.20 "sagged by degrees"). No third use anywhere, in any
+      grammar.
+    - **Narrated "until" clauses: WATCH, ≤3 per heat scene** (Ch.23 went 6 → 3).
+    - **She guides his hand: used twice (Ch.15, Ch.23).** Ch.34 must not have her guide his hand a third time.
+    - **Heat-frame rule (cycle 0, F7):** no heat scene re-uses an earlier heat scene's frame, even in new words. In particular the
+      stillness he holds for her is SPENT (Ch.15; cut from Ch.23).
+    - **Paraphrase rule (cycle 0, F2):** narration never paraphrases a line that a character speaks later in the same chapter.
+    - **"He let me lean." / "He let me look at his face…": SPENT as a pair.** No third "He let …" opener for Valens in Ch.34's heat.
+    - **The bladder reason ("up in the night"): used once (I-10).** Leave it at one.
+    - **WATCH (no action):** the word "breath" (4 uses in l.262–290 of Ch.23); the filter "I felt" (3 uses in Ch.23).
+  - **Ch.24 guards:**
+    - **No wall-turn close:** no section ends on anyone turning to a wall to sleep (Ch.22, Ch.23 both did).
+    - **No singing walk-on** (the Ch.17 baker, Ch.19 mason, Ch.22 drover, Ch.23 driver are four).
+    - **The midwife owns the book's one introduction-by-teeth;** no other teeth in Ch.24.
+    - **The child is found in the world**, not through Mara's body (palm/heel and back are both spent).
+    - **The lamplit hoof-trimming is Ch.24's and unspent** (outline Ch.24: Valens outside the door at midnight). Ch.23 spent only the
+      gray heard through the floor ("Off hind") and the mules rubbed down; the trimming gets its own animal and its own words, and it
+      must not rebuild the lamplit look at his back ("the little flame put everything on it in relief").
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
@@ -6657,6 +6801,7 @@ line each, so that walk-ons don't all sound like Mara.
 | "the singer" (Nero) | 2 | Ch.5 guide: SPENT; name him or vary |
 | "a pair of hands" | 1 | Ch.5 Kallia; never called back |
 | "preferred it dead" | 1 | Ch.5 anchor line |
+| "by degrees" | 2 | CLOSED (Ch.12 "It stopped by degrees.", Ch.20 "sagged by degrees"); cut twice from Ch.23 drafts (cycle 0 and cycle 1); no third use anywhere |
 
 ---
 
@@ -7396,3 +7541,25 @@ finalizing the chapter. Never add a tic to fix it.
   cross-chapter quotes (Ch.5/7/11/18/21, checked there) or pattern labels. Not touched: the manuscript, STATE.yaml, ENTITY_STATE.yaml,
   outline.md. No new named character (the brother, the judge and both advocates stay unnamed walk-ons); no tic, catchphrase or
   signature gesture given to anyone; tic-bearer roster still NONE.
+- **2026-10-23 (bookkeeping, Ch.23 sync to the FINAL page, md5 `3599a74c…`, after dialogue-polish, hook-craft, disruptor, continuity
+  repair C-01…C-05 / W-01…W-17 / W-19 / I-02, I-03, I-13, evaluator polish cycle 0 F1–F9 and cycle 1 G1–G6, PASS at cycle 2; the
+  consolidated bible-sync list in evaluations/chapter-23-eval.md applied in full):** **ACCA** card: hen/roof address 4 → **3** (roof
+  twice, hen once; capped, no fourth); "Never names what is in the pot" deleted (she shouts "I've eels!" through the floor); the Ch.23
+  block retitled to the FINAL page, with "to our backs", "Noon, you said. Noon!" and the stop "somewhere about the canal" added. The
+  unnamed-roles row for the landlady marked WRITTEN. **Ch.23 walk-on block** rebuilt from the page: carters → **tilers** (W-19; "the
+  cheating carter" is a third, mention-only man); the younger tiler's laugh and shin at "Pennyroyal. I'm out."; the older's unasked
+  "It won't,"; the barge man's "Let me get them dry first. You can shout after."; the driver logged as the fourth singing walk-on;
+  Horace "in a carrel" without the radiator (W-17) plus "He had made up none of it. There was a small, mean comfort in that.";
+  Grata at second hand. **At-risk after Ch.23** rewritten from the final page (HEAT 2, the back, the five words, the onion, the door
+  side and the child, texture, FINAL counts) with every CUT string logged by source (draft/dialogue-polish/disruptor/continuity repair,
+  cycle 0, cycle 1; never restore). **New closures and guards:** "by degrees" CLOSED at 2 book-wide (also a row in the at-risk table);
+  narrated "until" ≤3 per heat scene; she guides his hand twice (Ch.15, Ch.23), never a third time in Ch.34; no heat scene re-uses an
+  earlier heat scene's frame; narration never paraphrases a line spoken later in the same chapter; "He let …" pair SPENT; the bladder
+  reason once; WATCH "breath" and "I felt". **Ch.24 guards:** no wall-turn close; no singing walk-on; the midwife owns the book's one
+  introduction-by-teeth; the child found in the world; the lamplit hoof-trimming is Ch.24's and unspent. **New Ch.23 blocks** on
+  **VALENS** (the five words, the onion with his mother, the door-side turn, the kick against the scars, HEAT 2's moves SPENT, counts,
+  CUT strings) and **MARA** (the body at six months, she leads and he is held, the guided thumb, the cramp, the verdict on his back,
+  the look-back with no new laugh, Horace, counts). Every quote placed on a card was checked by script against the final
+  chapter-23.md; strings off the page appear only as CUT entries (checked absent). Not touched: the manuscript, STATE.yaml,
+  ENTITY_STATE.yaml, outline.md. No new named character beyond ACCA; no tic, catchphrase or signature gesture given to anyone;
+  tic-bearer roster still NONE.
