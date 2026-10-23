@@ -347,3 +347,138 @@ Nine narration-only swaps clear both caps. They are tested in the fix script bel
 Apply `apply_fixes.py` (F1–F9, tested), re-run `bash tools/check_chapter.sh 23` and `--echoes 23` on the real file, then re-evaluate. The projected result is PASS at Floor 8.5.
 
 **BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Re-evaluation — cycle 1
+**Evaluator:** book-evaluator (independent) | **Date:** 2026-10-23
+**Text evaluated:** `manuscript/chapters/chapter-23.md`, md5 **`9377b9af2f707f2d7e17716e1bf8527d`**. This matches the tested scratch copy byte for byte (`scratchpad/eval23/.../chapter-23.md`). F1–F9 landed exactly as tested.
+
+### Measured on the real file
+- `bash tools/check_chapter.sh 23`: **ALL MECHANICAL GATES CLEAN**.
+  - Style 3,424 words. Dialogue **17.2%**. Simile 1.5/1k. Em-dash 0.
+  - Rhythm: 1 flagged. Grammar: 0.
+  - Voice-wear strict, tic gate (`--gate`) and shape: all clean.
+  - And-chains 2/9. Credential asides 0. Negation pivots 0.
+- `python3 tools/tic_report.py --echoes 23`: 0 echoes, 0 command echoes, 0 spoken-line echoes.
+
+### Hand re-counts on the patched page
+
+**Narrated physical states** (the rule: >3 notes of one state, or 3 inside ~500 words, fails). Word offsets are from the chapter open.
+
+| Character / state | Notes now | Verdict |
+|---|---|---|
+| Valens withdrawn (physical) | bread held l.68 (w825) · eyes on the floor l.178 (w1833) · sat on in the spray l.194 (w1953) | **3 ✓**. l.126 is now behaviour in summary ("a word or two apiece"), not a physical state. |
+| Valens door watch | l.54 (w668) · latch l.174 (w1779) · elbow l.292 (w3137) | **3, spread ✓**. l.300 is the payoff. |
+| Valens still (heat) | l.194 · "did not shift" l.250 (w2524) · fingers "went loose" l.262 (w2640) | **3, spanning 687 words ✓**. F7 and F9 removed the other two. |
+| Valens breath (heat) | l.232 · l.266 · l.280 · l.318 | 4 notes, but 4 different states (calm, shock, contact, release), so it does not fail the rule. **WATCH → G3 takes it to 3.** |
+| Valens face | "nothing to read" l.240 → "nothing in front of it" l.274 | 2. A designed turn ✓ |
+| Acca holding the hen | l.22 (w144) · l.86 (w964) · l.98 (w1006) | **3, spanning 862 words ✓** (l.38 sets it down) |
+| Mara hungry | l.40 · l.122 | 2 ✓ |
+| Mara guilt | l.136 | 1 ✓ |
+| The bed answering | dipped l.176 · creaked l.252 · answered l.272 | 3, spread ✓ (F5 landed) |
+| "He let …" sentence openers (Valens) | "He let me lean." l.178 · "He let me look" l.274 · "He let a breath go" l.318 | 3. The first two are a deliberate pair; the third is an idiom that blurs it. **G3** |
+
+**Explanation density (#11):**
+- The three cycle-0 instances are gone (F3, F4, F7). **#11 = 0 at full weight.**
+- One restatement remains at l.136: "and I had been outside for most of it" repeats "and then I was gone" two sentences earlier. It also makes "outside" appear 3× in 90 words, with "I had been outside" twice. That is 0.29/1k, minor and under the cap. **G2**
+
+**HEAT 1 rebuilds:**
+- 0 of the 4 remain. "quite still", "all of him" slowly, the low sound into skin, and the stillness kept "for anything" are all gone.
+- The replacement strings checked against Ch.15 and the bible's SPENT staging list:
+  - "collarbone", "jumped", "shoulders dropped" and "had it before" are new to the book.
+  - "slow" is no longer used of entry.
+  - Bible caps: "somewhere" 2 (cap 2) ✓; "so that" 2 ✓; "and stayed" 0; "in my hair" 0; "had gone quiet/still" 0.
+- **Residual WATCH, not a cap:** she guides his hand (l.276) as Ch.15 did ("I put my own hand over it and took it where I wanted it").
+  - It is accepted because the act is new (the thumb, beneath the child, her on top) and it *is* the chapter's lead-the-scene design.
+  - The tail "until I was done" is the last echo of Ch.15's "held still for me through it". **G5**
+  - Ch.34 must not guide the hand a third time. *(bible note)*
+
+**Echoes the gates cannot see: what F6 planted.**
+- "by degrees" is now the narrator's **3rd use book-wide**: Ch.12 "It stopped by degrees.", Ch.20 "sagged by degrees", Ch.23 l.266. It is a 2-word recurrence below the tic gate's reach, and under the book's NO-TICS law a narrator phrase at 3 is a defect. **G4**
+- F6's "until I was sitting on him" adds to a cluster. The heat and afterglow run **six narrated "until" clauses in ~550 words**: l.266; l.276 ×2; l.280; l.284; l.288. It is a syntactic reflex, action-until-result, and the Critic hears it. **G4–G6 take it to 3** (l.276 "until he had the way of it", l.280, l.284), plus one spoken (l.246).
+- The other cycle-0 strings check clean:
+  - "even so": 1 in the book.
+  - "every time": generic, 8 uses across 6 chapters, none of them a frame.
+  - "sank onto": 2 in the book.
+
+**Closed and spent channels, re-run:**
+- Laugh 0. Mouth 0. Hand on belly 0. Child's heel 0 ("toe against heel" is the boot).
+- Who-pays 0. Work dust 0. Backlit doorway 0. Thracian words 0. Teeth 0. Citizenship 0. Month count 0.
+- Foreshadowing 0: "the whole wet night ahead of them" belongs to the fleas.
+
+**Cut effects restored:**
+- **None.** The wine jar, "These days I was always hungry", the five-years paragraph, the rain-as-mood lines and the lamp below are all still absent.
+- l.122's ugly sentence is intact.
+
+**l.122, the eel: a real logic error.**
+- Both bowls came from one pot at one time ("The eels came in a pot.", l.66). His eel cannot have "been in the pot longer than mine".
+- What happened is that it sat while he held his bread (l.68).
+- **G1** fixes it plainly, so the protected ugly sentence still carries the beat.
+
+### Scores, cycle 1 (strict: +0.5 max per dimension per cycle)
+
+| Dimension | C0 | **C1** | Evidence | Cap |
+|---|---|---|---|---|
+| Originality | 8.5 | **8.5** | Unchanged. Consolation, not victory sex; the man is the one held; "Let me," and the hands set palms-up on a cavalry horse's blanket. | — |
+| Theme | 8.5 | **9.0** | Both cited tells are gone: "None of it made any difference;" (F2) and "This one he kept because I wanted it" (F7). The hollow win is now carried by the back alone: "The judge had found for the plaintiff. Every mark was where it had always been." Being held is carried by actions alone, ending in "the door was behind him, and so was I." **≥9.0 challenge:** a senior editor would set this beside *Outlander*'s quiet post-crisis nights (the Lallybroch return) and find the theme better embodied than stated. Granted. | — |
+| Characters | 7.5 | **8.0** | All narrated-state counts are ≤3 (table above). Acca is unchanged and still the best walk-on. Chaos 4/4, inhabited. "The muscles of his belly jumped under my thighs every time." turns the told cost into a body rebel. | **Per-cycle cap (+0.5).** The page earns 8.5. Nothing on it holds this dimension down; G3 is hygiene. |
+| Prose & Voice | 7.5 | **8.0** | #11 is at 0 full-weight. HEAT 1 rebuilds are at 0. The stopping sentence (l.230) and the underlines stand. The new "then my collarbone had it before my ears did" is a fresh sense in the right place. | **Per-cycle cap (+0.5).** Uncapped 8.5 **only once G4–G6 land**: the 3rd "by degrees" and the "until" reflex are on the page now. Without them, next cycle's lift would not be clean. |
+| Pacing | 8.5 | **8.5** | The l.124–136 sag is tighter (F1, F2), and the value shift is unchanged. Not raised to 9.0: three look-backs still run in a row, and this is a valley chapter by design. | — |
+| Emotion | 9.0 | **9.0** | The anchor, the surprise and the body rebel all intact. The F9 release now follows the kick directly: "His shoulders dropped, and the long muscles beside his spine let go in turn". | — |
+| Immersion | 9.0 | **9.0** | Unchanged. The eel slip (G1) is too small to cost a point. | — |
+| **FLOOR** | 7.5 | **8.0** | Characters and Prose, both per-cycle cap | |
+| **AVERAGE** | 8.36 | **8.57** | | |
+
+**Casual Reader: 9.0.** Unchanged. Acca and the hen, "Leg, leg.", "It's right." The cuts are invisible to this reader.
+
+**CVI-Launch: 9.4.** Inputs unchanged: Pacing 8, Tomorrow 10, Casual 9, Shareability 7.5, Pitch 10, Closeness 10 → 8.9, plus 0.5 for the strong anchor.
+
+**CVI-Legacy: 7.0.** 8.5×.30 + 9.0×.25 + 3×.20 + 7×.15 + 5×.10 = 6.95.
+
+**Gate:** Floor 8.0 < 8.5 → **NOT MET**. Casual ✓. Pacing OK ✓. Mechanical gates ✓.
+
+### Is it only the cap?
+**No, not quite.**
+- **Characters:** the cap alone holds it.
+- **Prose:** the cap is what binds this cycle. But the page also carries one F6 plant (the narrator's 3rd "by degrees") and a six-deep "until" cluster in the heat. Either would block an honest 8.5 next cycle.
+- **Immersion:** carries one real logic error (the eel).
+
+So I recommend the six swaps below, all narration and all tested. **None of them changes a score this cycle.** Their job is to make next cycle's cap release clean.
+
+| # | Location | Type | Now | Why | New |
+|---|---|---|---|---|---|
+| G1 | l.122 | Logic | "His eel had been in the pot longer than mine and tasted it." | One pot, served together. | "His eel was cold." |
+| G2 | l.136 | Style (#11 restatement) | "…even so, and I had been outside for most of it." | Repeats "and then I was gone"; "outside" 3× in 90 words. | "…in front of half of Rome even so." |
+| G3 | l.318 | Style / NO-TICS | "He let a breath go through his nose, and by and by he slept." | The 3rd "He let" opener blurs the l.178/l.274 pair, and it is the 4th breath note. | "By and by he slept." |
+| G4 | l.266 | Style (F6 plant) | "sank onto him by degrees, … until I was sitting on him." | The 3rd "by degrees" book-wide (Ch.12, Ch.20); also one of 6 "until"s. | "sank onto him, the child's weight sinking with me." ("He shut his eyes." follows.) |
+| G5 | l.276 | Style | "while his thumb waited on me until I was done." | "until" cluster; last trace of Ch.15's "held still for me through it". | "while his thumb waited on me." |
+| G6 | l.288 | Style | "pushed the toes back until it let go." | "until" two lines after "until my left calf knotted". | "pushed the toes back, and it let go." |
+
+**TESTED:** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes23b/apply_fixes.py <chapter-23.md>`
+- Each replacement must match exactly once, or the script writes nothing. A second run correctly aborts at G1.
+- Tested on `scratchpad/reeval23/books/the-hour-of-ash/`:
+  - `check_chapter.sh 23`: **ALL MECHANICAL GATES CLEAN**. Style 3,385 words; **dialogue 17.4%**; simile 1.5/1k; rhythm 1; voice-wear strict, tic gate and shape all clean.
+  - `--echoes 23`: 0 / 0 / 0.
+- Hand checks:
+  - Narrated "until" drops 6 → 3. "by degrees" drops 3 → 2 book-wide. Valens breath 4 → 3. "He let" 3 → 2.
+  - The new strings ("His eel was cold.", "By and by he slept.", "sinking with me.", "waited on me.", "and it let go.") have no prior-chapter matches.
+  - 0 spoken words touched. Nothing previously cut is restored.
+- Patched md5: **`746fdf5c2e71c8af81638e87bdee0e59`**.
+
+**Bible re-sync (not applied by me):**
+- Log as CUT: "by degrees" (Ch.23), "in the pot longer", "outside for most of it", "He let a breath go".
+- Log **"by degrees": CLOSED, 2 uses** (Ch.12, Ch.20).
+- Log as WATCH: narrated "until" clauses, ≤3 per heat scene.
+- Log for Ch.34: no hand-guiding (Ch.15 and Ch.23 have each used it once).
+
+**Projected after G1–G6, cycle 2:**
+- Characters 8.5 and Prose 8.5, each a +0.5 cap release with nothing left on the page to hold them.
+- Floor **8.5**, Average **8.71**, Casual 9.0 → **PASS** expected.
+
+### VERDICT (cycle 1)
+**POLISH.**
+- Genesis Floor 8.0 (Characters and Prose, held by the per-cycle cap). Average 8.57. Casual 9.0 ✓. Pacing OK ✓. Gates clean ✓.
+- Apply G1–G6, run `check_chapter.sh 23` and `--echoes 23` on the real file, then run cycle 2.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

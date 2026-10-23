@@ -119,7 +119,7 @@ Valens pushed his bowl over to me. There were still four pieces of eel in it.
 
 "Eat it."
 
-His eel had been in the pot longer than mine and tasted it. I was hungry the way I was always hungry now, which was all the time, and I ate his.
+His eel was cold. I was hungry the way I was always hungry now, which was all the time, and I ate his.
 
 Horace had traveled this road a hundred years before us, with a party of friends and a bad stomach. He complained in verse about the canal water, and the frogs, and a drunk boatman singing to his girl through the night, and the inns. I had read him at nineteen, in a carrel, and thought he was making most of it up. He had made up none of it. There was a small, mean comfort in that. I sat with it, and it did not last.
 
@@ -133,7 +133,7 @@ Since the city gate he had been like this. He had walked beside me to the gate, 
 
 "It was the same. Near enough the same."
 
-The day he spoke I had been outside on the steps of the Basilica, sitting on Myrrhine's cloak. I had heard the beginning, as far as what he slept on outside her door, and then I was gone. The dyer and the merchant and the young man's uncle had done most of the deciding. He had stood up for an hour in front of half of Rome even so, and I had been outside for most of it. It was what I had come for, and I had laughed it away.
+The day he spoke I had been outside on the steps of the Basilica, sitting on Myrrhine's cloak. I had heard the beginning, as far as what he slept on outside her door, and then I was gone. The dyer and the merchant and the young man's uncle had done most of the deciding. He had stood up for an hour in front of half of Rome even so. It was what I had come for, and I had laughed it away.
 
 Something bit me on the ankle, under the table, and then again above it.
 
@@ -263,7 +263,7 @@ For a breath he only looked at me. The fingers stirred once on the felt and went
 
 I could not reach his mouth over the child. I tried, and the child objected, so I kissed what I could reach, the hard place over his heart and the stubble along his jaw when I stretched. The muscles of his belly jumped under my thighs every time.
 
-He was hard against me. I reached beneath the child for him and put him to me, and sank onto him by degrees, the child's weight sinking with me, until I was sitting on him. He shut his eyes. His breath left him and was a while returning.
+He was hard against me. I reached beneath the child for him and put him to me, and sank onto him, the child's weight sinking with me. He shut his eyes. His breath left him and was a while returning.
 
 "Mara."
 
@@ -273,7 +273,7 @@ I began to move, slowly. The cords answered every movement. The rain drove acros
 
 He let me look at his face with nothing in front of it.
 
-I took the nearer hand from beside his head and drew it beneath the child, between us. I set his thumb to me and pressed it there under mine until he had the way of it. He had it. I rocked on him and on his hand, with my other palm on his chest to keep my balance, and his eyes opened and held on my face. I came, a long, slow, shaking time, while his thumb waited on me until I was done.
+I took the nearer hand from beside his head and drew it beneath the child, between us. I set his thumb to me and pressed it there under mine until he had the way of it. He had it. I rocked on him and on his hand, with my other palm on his chest to keep my balance, and his eyes opened and held on my face. I came, a long, slow, shaking time, while his thumb waited on me.
 
 Then he raised the hand still lying open.
 
@@ -285,7 +285,7 @@ He kept hold of me until my left calf knotted under me.
 
 "Leg," I said. "Leg, leg."
 
-He took my foot behind me and pushed the toes back until it let go.
+He took my foot behind me and pushed the toes back, and it let go.
 
 Getting off him was no more graceful than getting on. I took the outside of the bed, the door side, and dragged the blanket from beneath him and over us. The tick crackled and threw up a breath of old straw.
 
@@ -315,6 +315,6 @@ His shoulders dropped, and the long muscles beside his spine let go in turn, dow
 
 "It's right."
 
-He let a breath go through his nose, and by and by he slept.
+By and by he slept.
 
 The rain swept the roof in long, soft rushes now, with a hush between them, and down at the foot of the bed, under the blanket where it was warmest, the fleas that had lived in that wool longer than any horse climbed out of it singly to learn what had been brought them, and found his ankle first, and then mine, and set to work on us both, unhurried, with the whole wet night ahead of them and the rain coming down.
