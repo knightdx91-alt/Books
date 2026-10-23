@@ -10533,7 +10533,7 @@ locations:
       - { fact: "Chestnut Hill: Margaret Fenn's estate sale", source: "ch-01:p88" }
       - { fact: "Chestnut Street: the Horn & Hardart automat (Fenn's memory)", source: "foundation:§3" }
       - { fact: "Ch.3 (Mara's references): the subway stairs at City Hall; Mount Airy (a department Christmas party, 1989); the Acme's chest freezers; Philadelphia never 'green in May' like the Kalivia plain", source: "ch-03:p2; ch-03:p5; ch-03:p70; ch-03:p75" }
-      - { fact: "Fenn's 1968 hall table where he left Margaret a note", source: "outline:ch-26; outline:ch-35" }
+      - { fact: "the hall table in the Fenns' house: Margaret left the 1964 scorecard on it; Fenn left her a note there 'the morning I went' (1968): 'Home by Labor Day'", source: "ch-26:p26; outline:ch-35", plan_was: "Fenn's 1968 hall table where he left Margaret a note (outline:ch-26)" }
       - { fact: "the Venetian chart stays pinned over Emilio's desk when Mara leaves (window-matted; the mat board pinned to the cork strip, Sat 4 Apr)", source: "ch-02:p45" }
       - { fact: "Ch.1 weather, Saturday 14 March 1998: sleet in the afternoon ('cold sand' in the collar); plain rain by nearly five and after dark", source: "ch-01:p26; ch-01:p32; ch-01:p136; ch-01:p163" }
       - { fact: "Spruce Street (cab found two blocks from the museum's loading dock); the cab crosses the river (water 'the color of an old nickel') to Pine Street at Tenth", source: "ch-01:p32; ch-01:p36; ch-01:p37" }
@@ -10555,6 +10555,8 @@ locations:
       - { fact: "1998 memory (Ch.16): 'The drugstore at Twentieth and Walnut had sold bands for seasickness'; Gloria's Ray wore a pair on the ferry 'from Lewes into Cape May'", source: "ch-16:p191" }
       - { fact: "Ch.25 (Mara to Fenn, 1998 era): 'West Philly. Out Baltimore Avenue, past Forty-eighth, where my father lived'; the 34 trolley still runs out Baltimore Avenue ('clear out to the cemetery and past it', Fenn); the 23 up Germantown Avenue is 'a bus now. They retired the trolley a few years ago.'; the Horn and Hardart automats are gone ('that's closed too', of New York's last); Antique Row 'down on Pine'; an estate sale 'In Chestnut Hill'", source: "ch-25:p54; ch-25:p55; ch-25:p56; ch-25:p99; ch-25:p186; ch-25:p190" }
       - { fact: "Ch.25 (memories): the 1980 parade down Broad Street; Fenn's 1964 'bar on Girard Avenue'; Horn and Hardart on Chestnut Street (1960s); Connie Mack's site on Lehigh Avenue, 'a fenced lot with a church going up on it' (Mara's father explained the fire); Pat hosing her steps, saying 'wooder'", source: "ch-25:p62; ch-25:p65; ch-25:p93; ch-25:p98; ch-25:p220" }
+      - { fact: "Ch.26 (Fenn, 1964): the trolley up to 'Twenty-first and Lehigh' (Connie Mack), seats 'up in right'; the 23 trolley; the walk home up Germantown Avenue 'every block of it', dark 'around Mount Airy'; 'the El on Market Street'; the Walt Whitman Bridge; the automat", source: "ch-26:p1; ch-26:p14; ch-26:p25; ch-26:p26" }
+      - { fact: "Ch.26 (Mara, autumn 1997): her work telephone's voicemail with 'the little red light'; 'A boy on the 34 had worn the team's cap all that fall'", source: "ch-26:p60; ch-26:p61" }
 
   university-museum:
     canonical_name: "the university museum (Philadelphia)"
@@ -11284,6 +11286,7 @@ locations:
       - { fact: "Ch.25: 'the first fair week after the sea opened' (early spring AD 75); a builder 'on the slope above the harbor' takes roof tile from Pompeii and pays in silver", source: "ch-25:p1; ch-25:p2" }
       - { fact: "Ch.25 (Fenn): 'This town breathes' … 'It rises and sinks like a fat man asleep.' The harbor people 'swear the sea's come up', and 'it's the town. It's the dirt the town sits on.'; Fenn teaches in 'a house on the hill'; 'the hot ground on the hill, where the yellow smoke comes out' (puteoli-hot-ground)", source: "ch-25:p90; ch-25:p102" }
       - { fact: "Ch.25: from Fenn's window, the harbor, the bay and, 'beyond the water, low and blue with distance, the long green flank of the mountain with a small white cloud sitting on top of it'", source: "ch-25:p177" }
+      - { fact: "Ch.26 (Fenn's letters): a rope walk (the man who mended his stair); 'a boy I teach on the hill'; a wine shipper of Puteoli whose spoiled horoscope (a fair passage to Ostia, a son before the vintage) is the back of the birth letter; the fish-sauce carter's run to Pompeii", source: "ch-26:p1; ch-26:p3; ch-26:p12; ch-26:p94" }
 
   ostia:
     canonical_name: "Ostia"
@@ -11378,6 +11381,7 @@ locations:
       - { fact: "Grata's sister lives here", source: "outline:ch-38" }
       - { fact: "Ch.20: the dent in the cook's pot is 'the shape of Nuceria' (twice told); Grata to an oil customer: 'You'll get it no cheaper in Nuceria'", source: "ch-20:p6; ch-20:p41; ch-20:p244" }
       - { fact: "Ch.21: the freedman saw the Capuan Lupus fight at Nuceria as a boy; Fabius would paint Lupus's name 'on the walls as far as Nuceria'", source: "ch-21:p150; ch-21:p153" }
+      - { fact: "Ch.26: 'a tethering post outside Nuceria' where a mule chewed its lead rope to a brush", source: "ch-26:p21" }
 
   sarno-river-port:
     canonical_name: "the Sarno river port / mouth"
@@ -11392,6 +11396,7 @@ locations:
     facts:
       - { fact: "Felix tries for it with the boat (Ch.40)", source: "outline:ch-40" }
       - { fact: "Ch.20: the coppersmith's sister lives there (his alibi: 'at my sister's in Stabiae')", source: "ch-20:p41" }
+      - { fact: "Ch.26: a ford above Stabiae on Valens's winter road: he comes home 'wet to the thigh' (p8); 'The ford at Stabiae's up to a mule's belly, and the dun swam the last of it.' (p83)", source: "ch-26:p8; ch-26:p83" }
 
   neapolis:
     canonical_name: "Neapolis"
@@ -11485,6 +11490,7 @@ locations:
     aliases: []
     facts:
       - { fact: "across the bay by boat; cliffs; a fish lunch; green water; an inn (summer AD 78)", source: "outline:ch-34" }
+      - { fact: "Ch.26, near the winter's end: 'Two boats came round from Surrentum this morning' (Felix, watching from the town wall)", source: "ch-26:p91" }
 
   emesa:
     canonical_name: "Emesa (Syria)"
@@ -11595,6 +11601,7 @@ locations:
     facts:
       - { fact: "Ch.19, unnamed: on the coast road 'a small town on a spur of ground between two streams, with its houses built close down to the sea' (that it is Herculaneum is a reading)", source: "ch-19:p93" }
       - { fact: "named only as a direction: Pompeii's 'gate toward Herculaneum', beyond which stands the famous row of tombs with stone benches", source: "ch-14:p13" }
+      - { fact: "Ch.26: on the carter's road from Puteoli; Grata: 'he'll leave it on a bench at Herculaneum like he did in the autumn' (one of Fenn's letters delayed there)", source: "ch-26:p63" }
   casts-exhibition-1979:
     canonical_name: "the gallery of the Pompeii casts (April 1979)"
     era: "1979"
@@ -11693,6 +11700,8 @@ locations:
       - { fact: "Ch.20, the house: Felix's blanket 'in the shop' (CH20-4 RESOLVED; e52b0d7: 'among the cobbler's leather'); a table in the back room; the roof stair's top tread 'worn hollow'; 'a cracked tile over the bed' that lets the rain in; 'the door to our room'", source: "ch-20:p16; ch-20:p48; ch-20:p54; ch-20:p180; ch-20:p183" }
       - { fact: "Ch.24: Mara's plank in the shop; 'the cobbler's leftover scraps on the floor'; Grata: 'That bed's a disgrace, and the fountain's the nearest water, and your roof lets in, I've heard it.' (no well); Felix: 'Two years I've slept within smell of Grata's lentils'", source: "ch-24:p4; ch-24:p5; ch-24:p114" }
       - { fact: "Ch.25, Mara's address to Fenn: 'The mender's shop beside Grata's cookshop, east of the forum, the street with the fullery. Any carter on the road knows Grata.'; in October AD 73: 'I was in bed by the forum.'", source: "ch-25:p158; ch-25:p201" }
+      - { fact: "Ch.26: an UPPER floor on the page: the bed upstairs with 'the upper shutter' on the street (p52; p106); 'the shop below' (p39); 'went upstairs with it' … 'Downstairs again' (p96); a stair Lucius climbs on his hands (p84); a shelf for the Pentax (p105); Grata's room through the plaster (p9). The Ch.19-20 record has the bed in the back room behind the shop and only an outside stair to the roof: CH26-1", source: "ch-26:p9; ch-26:p39; ch-26:p52; ch-26:p84; ch-26:p96; ch-26:p105; ch-26:p106" }
+      - { fact: "Ch.26, the street: 'the bakers opposite fired their oven' before dawn (p6); bakers' boys with loaves on boards, the fuller's lads at the vats, a bucket at 'the fountain on the corner' (p57); the string goes 'downhill' and round 'the corner by the fullery' (p55); in the rain the gutter in front of the shop runs deep and people cross 'on the raised stones' (p58); swaddling bands strung across the shop front (p58); Mara writes on the roof in the long light (p16)", source: "ch-26:p6; ch-26:p16; ch-26:p55; ch-26:p57; ch-26:p58" }
 
   pompeii-amphitheater:
     canonical_name: "Pompeii's amphitheater"
@@ -11737,6 +11746,7 @@ locations:
       - { fact: "Ch.24: a lamp seller 'behind the forum' (Grata: 'that thief'); Grata will 'go to the forum' for Lucina's lamp", source: "ch-24:p41; ch-24:p195" }
       - { fact: "Ch.20, summer AD 72: 'under a white haze of its own making'; 'At its far end the big temple stood in a cage of poles roped together'; a column drum split in the earthquake broken up by two quarrymen; the string carts the chips out by mule basket", source: "ch-20:p86" }
       - { fact: "the drug-seller under the forum colonnade sells lentisk resin 'to women for sweetening their breath'", source: "ch-20:p54" }
+      - { fact: "Ch.26: 'the stationer by the forum' sells Mara her writing sheet", source: "ch-26:p16" }
 
   crossing-baths:
     canonical_name: "the baths at the crossing"
@@ -11750,6 +11760,7 @@ locations:
     facts:
       - { fact: "Ch.24: 'The twins' mother came round from the fullery'; 'Her from the fullery'", source: "ch-24:p70; ch-24:p195" }
       - { fact: "its doorpost carries scratched tallies of debts and one line: 'I sing of fullers and their owl, not of arms and the man.'", source: "ch-20:p158; ch-20:p159" }
+      - { fact: "Ch.26: Felix rounds 'the corner by the fullery' behind the string at daybreak; in the rain 'the wet had knocked the fuller's smell down'", source: "ch-26:p55; ch-26:p58" }
 
   pompeii-gladiator-barracks:
     canonical_name: "the gladiators' barracks (behind the theaters)"
@@ -11839,6 +11850,7 @@ locations:
       - { fact: "behind Grata's shop, reached by 'her own back door' from the cobbler's shop; it 'ran the depth of the house under a low ceiling, with a slit of window high in the court wall and a door beside it'; 'Beyond the wall her brazier kept the stewpots going for the evening trade' (the brazier is 'in the shop', p77; RE-SYNC 2026-10-23: 'the party wall', the plaster 'warm to the hand' and 'the brazier next door' are CUT, continuity WARN-04/WARN-09); the beaten earth floor swept 'so often that it shone at the center like an old saddle'; flies on the ceiling", source: "ch-24:p4; ch-24:p6; ch-24:p77" }
       - { fact: "furnished: Grata's bed (a post; the child born at its foot, on the stool), her loom in the farthest corner with 'a blanket half woven on it in red and brown stripes', a chest, a shelf with her best two-spouted lamp, a water jar, the lentil pot inside the doorway, a basin; Grata bore her three children here ('You know this house')", source: "ch-24:p11; ch-24:p25; ch-24:p40; ch-24:p41; ch-24:p78; ch-24:p91" }
       - { fact: "the court: a well with a curb ('There's a well in my court'; the water cold), an iron ring in Grata's wall, a woodstack of split pine, a gate to the lane that creaks; the shop between the room and the street", source: "ch-24:p5; ch-24:p57; ch-24:p85; ch-24:p96; ch-24:p97; ch-24:p196" }
+      - { fact: "Ch.26: above the loom, Lucius's stars and, beside them on 'a better nail', Aelia's (Fenn's Greek sheets)", source: "ch-26:p4" }
   nola-gate:
     canonical_name: "the Nola Gate"
     aliases: []
@@ -11875,6 +11887,7 @@ locations:
       - { fact: "wax tablets by the dozen, 'their wax gone nearly black with lamp smoke and thumbing'; under the window a table with a sand tray, a bronze rod and a papyrus weighted open; on the sill the basil and the lighter", source: "ch-25:p14" }
       - { fact: "the client's stool (p27) and his own stool; a sleeping mat 'rolled tight and tied with a cord'; 'Two robes hung on a peg'; a lamp on the floor 'with no stand to put it on'; by the doorway the packed bag under dust; a wine jar in the corner", source: "ch-25:p27; ch-25:p95; ch-25:p112" }
       - { fact: "the view: the harbor, the bay, and the mountain with 'a small white cloud sitting on top of it'", source: "ch-25:p177" }
+      - { fact: "Ch.26 (letters): the stair Valens broke is 'fixed' by 'a man in from the rope walk' (p1); the room is over a tunny-salter ('his ceiling, which is my floor', p14); Fenn on his stool talking at the ceiling (p14)", source: "ch-26:p1; ch-26:p14" }
     plan_was: "Fenn's upper room by the harbor: star charts, wax tablets, a dead Zippo, a potted basil (outline:ch-25); place CONFIRMED, contents differ (CH25-4)"
     planned: "his room again Ch.33; his deathbed Ch.35 (outline:ch-33; outline:ch-35)"
 
@@ -11912,7 +11925,7 @@ timeline:
   - { chapter: 23, time: "one day into night: the length of the marsh road from Forum Appii from dawn, in rain (told), then the evening at the inn (the bad supper) and the night in the room over the stalls, to sleep", season: "spring", year: "AD 74", note: "dateline 'The Appian Way, near Tarracina · spring, AD 74'. After the 20 April sentence (Ch.22): the departure from Rome ('Since the city gate', p60) is not dated on the page, and Forum Appii is behind them that morning (p17; p35), so the inn night is derived no earlier than about 22 April AD 74. The blanket washed 'At the Kalends' (of April, derived, p3). Ahead: 'Sinuessa in two days', 'If it stops raining', Valens 'Three' (p50-p54); the carriage hired 'as far as Capua' (p60). HEAT 2 written. The plan's 'the truth cost five years' is NOT on the page (CH23-1, RESOLVED 2026-10-23: foundation §10 says the count stays unprinted). The FINAL page carries no month count for the pregnancy (CH23-3 RESOLVED)", source: "ch-23:p3; ch-23:p9; ch-23:p17; ch-23:p35; ch-23:p50; ch-23:p51; ch-23:p54; ch-23:p60", plan_was: "one rainy night; spring AD 74; HEAT 2; 'the truth cost five years' (frame 69 → trial 74) (outline:ch-23; foundation:§10)" }
   - { chapter: 24, time: "noon to morning, one day and night, in nine time-stamped shards by the Roman reckoning: the water at noon (told) → 'The ninth hour' (Statia arrives) → the tenth hour (counter shut) → the eleventh hour (Valens's mules bedded; he comes to the door) → 'Lamp-lighting' → 'Bedtime' → 'Midnight' → 'Past midnight' → 'Cockcrow' (the birth) → 'After the cocks' → 'First light' (Statia goes; the name) → 'Morning' (the watch)", season: "summer", year: "AD 74", note: "dateline 'Pompeii · summer, AD 74'. The day of the month is not on the page; derived about late June to mid-August AD 74 (about seven months at the Ch.23 inn after 20 April; Grata's 'from now till the Vinalia', p74, the Vinalia Rustica of 19 August being the next; 'every night that summer', p96; the dun's feet 'done at the Kalends', p99). Lucius born at cockcrow, the hour unmarked ('All of them.'). Labour noon to cockcrow (about fifteen hours, derived). Felix's 'Two years' in Pompeii agrees (arrival spring AD 72)", source: "ch-24:p2; ch-24:p4; ch-24:p27; ch-24:p28; ch-24:p39; ch-24:p68; ch-24:p74; ch-24:p94; ch-24:p96; ch-24:p99; ch-24:p114; ch-24:p118; ch-24:p149; ch-24:p180; ch-24:p201; ch-24:p208; ch-24:p227", plan_was: "one night to morning; summer AD 74; Lucius born (outline:ch-24)" }
   - { chapter: 25, time: "one afternoon (the morning's delivery told in a sentence): from the climb up Fenn's stair to 'The window's light had gone from white to gold' and 'The light's going'", season: "early spring ('the first fair week after the sea opened')", year: "AD 75", note: "dateline 'Puteoli · early spring, AD 75'. The afternoon is bright, not rainy (CH25-4). TURNING POINT: the WHEN at p75. Lucius 'at eight months' (p4) agrees with a summer AD 74 birth. Fenn's 'Thirty-four years' (p120) agrees with AD 41 to AD 75. Mara 'not yet pregnant with Aelia' is not on the page (nothing contradicts it). Mara's mile: the second night of Fenn's October AD 73 vigil, about 14-16 October (p156; p158)", source: "ch-25:p1; ch-25:p2; ch-25:p4; ch-25:p120; ch-25:p211; ch-25:p212", plan_was: "one rainy afternoon (outline:ch-25; foundation:§10)", revised: "2026-10-23 (Ch.25 page)" }
-  - { chapter: 26, time: "months, from Aelia at three weeks", season: "winter →", year: "AD 75-76", note: "Aelia born off-page, winter 75-76", source: "outline:ch-26" }
+  - { chapter: 26, time: "about two months of winter in eight sections, in order, with backfill: S1 Aelia three weeks old, a night feed at the hour the bakers fire their oven (the birth letter, read three nights running) → S2 'her fourth week', a night of walking (backfill: L1 'within a month of our getting back from Puteoli', spring AD 75, answered 'the week it came'; the eighth day) → S3 'her fifth week', a night (L2, 'His summer letter', first read 'at the vintage') → S4 'At daybreak' the next morning → S5 'her sixth week', a rainy day (L3, come 'at the vintage'; answered; Grata takes it in the afternoon) → S6 'nine days after' (L5 by the same carter; the reply that night) → S7 'at the tail of the winter' (the tables and L6; Felix's cut 'new since the Kalends') → S8 'One day near the winter's end' (sun, no wind; the frame)", season: "winter (backfill spring to autumn AD 75)", year: "AD 75-76", note: "dateline 'Pompeii · AD 75–76'. Aelia born between chapters (derived about December AD 75 to January AD 76; foundation: winter 75-76). Lucius about 16-19 months (derived). Felix 'seventeen that winter'. 'The roads had been rivers since the Kalends' (p98); Felix: 'Is the sea open … for good?' (p91), so the sailing season is about to open at chapter end. Order of Fenn's six letters: objects.fenns-letters", source: "ch-26:p5; ch-26:p6; ch-26:p12; ch-26:p13; ch-26:p17; ch-26:p21; ch-26:p24; ch-26:p52; ch-26:p58; ch-26:p65; ch-26:p85; ch-26:p86; ch-26:p91; ch-26:p97; ch-26:p98", plan_was: "months, from Aelia at three weeks; winter → (outline:ch-26)", revised: "2026-10-23 (Ch.26 page)" }
   - { chapter: 27, time: "one day's walk", season: "", year: "AD 76", note: "Fenn: thirty-five years since landing; Aelia a few months old", source: "outline:ch-27" }
   - { chapter: 28, time: "a bout + the week before", season: "", year: "AD 76", note: "Felix 18", source: "outline:ch-28" }
   - { chapter: 29, time: "Saturnalia", season: "December", year: "AD 76", note: "", source: "outline:ch-29" }
@@ -12154,7 +12167,7 @@ timeline_events:
   - { date: "the Kalends of the birth month, AD 74 (month not stated)", event: "the dun's feet 'done' (Felix)", source: "ch-24:p99" }
   - { date: "about 1994 (derived: 'four summers' before 1998)", event: "Mara buys a bag of frozen peas for the back of her neck in August, never cooked", source: "ch-24:p91" }
   - { date: "early spring AD 75", event: "Fenn found in his room behind the tunny sheds at Puteoli; gives the date ('Late summer, seventy-nine.'); refuses the notebook; Mara tells him his arithmetic is wrong", source: "ch-25:p16; ch-25:p75; ch-25:p194; ch-25:p221" }
-  - { date: "winter AD 75-76", event: "Aelia born (off-page)", source: "STATE:ARCH-8" }
+  - { date: "winter AD 75-76 (derived about December AD 75 to January AD 76)", event: "Aelia born (off the page); three weeks old at the open of Ch.26; the eighth-day crescent hung by Grata", source: "ch-26:p5; ch-26:p17; STATE:ARCH-8" }
   - { date: "AD 76", event: "Cumae; Felix's first bout; Saturnalia (December)", source: "foundation:§10" }
   - { date: "AD 77", event: "tremor; elections (March); Lucius's fever (summer); the case for the future (autumn)", source: "foundation:§10" }
   - { date: "summer AD 78", event: "Surrentum", source: "outline:ch-34" }
@@ -12179,12 +12192,18 @@ timeline_events:
   - { date: "AD 41-43 (derived)", event: "Fenn lives two years in Phocis, then goes to Italy", source: "ch-25:p90; ch-25:p120" }
   - { date: "about AD 64 (derived from 'eleven years')", event: "Fenn comes over to Puteoli from Misenum; his basil on the sill and his Kalends marks by the rings begin", source: "ch-25:p102; ch-25:p208" }
   - { date: "October 1980", event: "the Phillies win the World Series against Kansas City; Mara, fifteen, at the Broad Street parade with her father", source: "ch-25:p60; ch-25:p62" }
+  - { date: "Sunday 27 September 1964 (derived: 'The Sunday after Chico Ruiz'; Ruiz stole home on Monday 21 September)", event: "Fenn and his sister at Twenty-first and Lehigh: Callison's three home runs, a 14-8 loss, the Phillies' seventh straight; the walk home up Germantown Avenue past Mount Airy; the scorecard left on the hall table", source: "ch-26:p25; ch-26:p26" }
+  - { date: "1968, 'the morning I went' (derived about early April 1968; he flew to Athens on 2 April)", event: "Fenn leaves Margaret a note on the hall table: 'Home by Labor Day', and 'A line about the milk'", source: "ch-26:p26; ch-02:p13" }
+  - { date: "Monday 27 October 1997 (derived: the morning after the seventh game)", event: "Emilio leaves the World Series result on Mara's voicemail at work: 'Florida won it, Florida, in the eleventh'", source: "ch-26:p60" }
+  - { date: "spring AD 75, within a month of the Puteoli visit", event: "Fenn's first letter (L1) with Lucius's stars; Mara answers it the week it comes; Mara pregnant without knowing it", source: "ch-26:p12; ch-26:p14; ch-26:p16" }
+  - { date: "summer to autumn AD 75 (the vintage)", event: "Fenn's summer letter (L2, 1964) first read at the vintage; the autumn letter (L3, the 1997 question, his birthday and melon) comes at the vintage; one letter left on a bench at Herculaneum in the autumn (which is not said)", source: "ch-26:p24; ch-26:p58; ch-26:p59; ch-26:p63" }
+  - { date: "winter AD 75-76", event: "the birth letter (L4) with Aelia's stars; Mara's 1997 answer in Aelia's sixth week; the voicemail letter (L5) nine days later; the tables' copy in a cedar box with L6 at the tail of the winter; the named frame of Lucius holding Aelia near the winter's end", source: "ch-26:p1; ch-26:p58; ch-26:p65; ch-26:p85; ch-26:p113" }
 
 ages_at_eruption:
   - { character: "mara-reyes", age: 42, note: "body-age", source: "foundation:§10" }
   - { character: "valens", age: "~41", source: "foundation:§10" }
   - { character: "lucius", age: 5, source: "foundation:§10" }
-  - { character: "aelia", age: "3½", source: "foundation:§10" }
+  - { character: "aelia", age: "3½", source: "foundation:§10", ch26_note: "Fenn: 'near four the summer we go' (ch-26:p2); derived about 3 years 7-8 months from the Ch.26 page (CH26-4)" }
   - { character: "felix", age: "~21", source: "foundation:§10" }
   - { character: "marcus", age: "~14 (b. autumn AD 64; not present)", source: "foundation:§10 (derived)" }
 
@@ -12217,8 +12236,10 @@ objects:
         resolution_note: "C2: Ch.35 touch added to the outline (STATE:ARCH-14)"
       - { chapter: 38, detail: "packed in the bag", source: "outline:ch-38" }
       - { chapter: 43, detail: "in the old sock in her hand; first through the door", source: "outline:ch-43" }
+      - { chapter: 26, detail: "named in passing: the knucklebone 'had ridden in the bottom of the satchel since the Corycian, under the notebook, next to the tape in its sock' (CH26-5)", source: "ch-26:p20" }
     paid: 43
-    last_mentioned_manuscript: "ch-19:p183 (the sock in her open bag; a hub turned a quarter turn through the wool)"
+    last_mentioned_manuscript: "ch-26:p20 (the tape in its sock, in the bottom of the satchel)"
+    last_mentioned_manuscript_ch19: "ch-19:p183 (the sock in her open bag; a hub turned a quarter turn through the wool)"
     last_mentioned_manuscript_was: "ch-05:p209 ('the sock and the hard little oblong in its toe'; tape not named)"
     location_end_ch19: { value: "in the old wool sock in her bag, open on the floor of the back room behind the cobbler's shop at Pompeii ('dropped there the first night'); a hub turned a quarter of the way round through the knit (audit patch)", source: "ch-19:p183" }
     location_end_ch6: { value: "NOT MENTIONED in Ch.6 (planned: no Ch.6 touch). Presumed still in its sock in the duffel, which is packed and 'never been unpacked', taken up into the cave and down again ('Everything'), and in Mara's hands at the first houses of Delphi at the end of the chapter", source: "ch-06:p151; ch-06:p157; ch-06:p339" }
@@ -12247,7 +12268,7 @@ objects:
       - { chapter: 16, detail: "WRITTEN, the named frame: at first light, 'I brought out the Pentax.' 'I opened the lens wide and turned the dial down to the slowest speed I could hold steady, and set my shoulder against the pomegranate's trunk.'; in the finder the window, 'a square of dark, its shutter ajar', the lamp on the sill; 'I held my breath and pressed the release.'; 'The shutter clacked, louder in that court than anything since the scorpion, the mirror clapping up and back behind the glass.'; Kallia, facing her 'with the dipper in her hand', looks at her lamp and does not ask", source: "ch-16:p125; ch-16:p126; ch-16:p127; ch-16:p128", plan: "outline:ch-16 (named frame: Kallia's lamp on the sill)" }
       - { chapter: 19, detail: "WRITTEN as planned (NON-NEGOTIABLE beat 1): after Valens leaves her for the black she draws it up, with no opener on the final page ('I drew the Pentax up by its strap'; 'Alone at the rail,' was cut by the continuity repair and 'Left to myself,' by finalize F1), 'from under my dress, where it had hung since Lechaion', the dented ring flashing; the mountain in the finder; focus turned until the farms are sharp; 'my forefinger found the shutter button and rested there'; 'Seventy-nine.'; 'My finger left the button.'; fed back under her dress. No frame. Nobody sees it (Valens at the black, Felix in the bows). REPLACES outline:ch-19", source: "ch-19:p16; ch-19:p17; ch-19:p18; ch-19:p19; ch-19:p20", plan_was: "raised and lowered; refuses to photograph the mountain (outline:ch-19)" }
       - { chapter: 20, detail: "named frame: Valens asleep under the potted fig on the roof", source: "outline:ch-20" }
-      - { chapter: 26, detail: "named frame: Lucius holding newborn Aelia", source: "outline:ch-26" }
+      - { chapter: 26, detail: "WRITTEN: fetched 'down from its shelf, in its cloth'; 'There was a number in the window by the lever. I read it just enough to know the roll had not run out.'; focused 'until the dust in his eyebrows came clear'; 'I let the shutter go. The mirror jumped behind the lens against my brow, and I thumbed the lever round for the next frame.' The named frame: Lucius holding Aelia. Seen by Valens and Lucius", source: "ch-26:p105; ch-26:p113", plan_was: "named frame: Lucius holding newborn Aelia (outline:ch-26)" }
       - { chapter: 27, detail: "named frame: Fenn on the Cumae road trying to light the dead Zippo", source: "outline:ch-27" }
       - { chapter: 38, detail: "frame 36 on the mountain at dawn; she rewinds and removes the roll; the camera goes back on the shelf", source: "outline:ch-38" }
     paid: 38
@@ -12263,9 +12284,9 @@ objects:
     seen_by_ch15: { value: "Valens (handled and looked through; told what it does; told by Felix it was her father's, CH15-10). The bandaged Corinthian's question ('something heavy and bright inside her clothes') shows the thing is known about in Delphi (p5). CH12-7 RESOLVED", source: "ch-15:p5; ch-15:p113; ch-15:p119" }
     custody_ch16: { value: "'I brought out the Pentax.' (where it was carried is not stated on the repaired page)", source: "ch-16:p125" }
     seen_by_ch16: { value: "Kallia, facing Mara at the jar when the shutter clacks, who looks at her lamp, is told nothing and asks nothing (CONFIRMS outline Ch.16; the repair cut 'the thing at my face', so the page no longer says she looked at the camera). Nobody in Corinth is shown seeing it", source: "ch-16:p128" }
-    last_mentioned: "ch-20:p100 (manuscript); planned outline:ch-38"
+    last_mentioned: "ch-26:p113 (manuscript); planned outline:ch-38"
     custody_ch20: { value: "kept below in the rooms: 'I went below for the Pentax and climbed back with it.'; the named frame shot on the roof", source: "ch-20:p99; ch-20:p100" }
-    last_mentioned_manuscript: "ch-20:p100"
+    last_mentioned_manuscript: "ch-26:p113"
     custody_ch19: { value: "under her dress on its strap since Lechaion; 'the pushed-in place on the lens's front ring' (agrees with ch-12:p77); back under the dress after the mountain", source: "ch-19:p17; ch-19:p19" }
     resolution: { chapter: 38, description: "frame 36 spent; roll removed; camera left on the shelf (not packed)", planned: true }
     custody_ch17: { value: "'the camera on its strap under the cloth hammering my ribs' (on the run, under Myrrhine's borrowed dress)", source: "ch-17:p267" }
@@ -12284,7 +12305,7 @@ objects:
       - { frames: "9-35 (27 frames)", chapter: "4-37", subject: "rationed in antiquity; 4 named frames below, the rest off the page", revised: "2026-10-18", source: "foundation:§4f" }
       - { frame: "named", chapter: 16, subject: "Kallia's lamp on the sill in morning light (the farewell)", source: "outline:ch-16; foundation:§4f", paid: "ch-16:p127", ch16_page: "SHOT on the page: the lamp on Kallia's window sill at first light, lens wide, the slowest hand-held speed, braced on the pomegranate" }
       - { frame: "named", chapter: 20, subject: "Valens asleep under the potted fig on the roof", source: "outline:ch-20; foundation:§4f", paid: "ch-20:p100", ch20_page: "SHOT on the page: Valens asleep along the parapet, head and chest in the fig's shade; 'Through the lens the heat off the tiles kept him and his tree wavering, and the waver never settled.'", ch20_page_was: "e52b0d7: 'In the finder I had the jar on the left and his gray soles on the right' (audit W-13; the camera left/right layout CLOSED)" }
-      - { frame: "named", chapter: 26, subject: "Lucius (~18 months) holding newborn Aelia (replaces 'Lucius's first steps')", source: "outline:ch-26; foundation:§4f" }
+      - { frame: "named", chapter: 26, subject: "WRITTEN: Lucius in the sun on the bed's end holding newborn Aelia, her fist shut on his lower lip, his eyes running over (replaces 'Lucius's first steps')", source: "ch-26:p113; foundation:§4f", plan_was: "Lucius (~18 months) holding newborn Aelia (outline:ch-26)" }
       - { frame: "named", chapter: 27, subject: "Fenn on the Cumae road, trying to light the dead Zippo", source: "outline:ch-27; foundation:§4f" }
       - { frame: "none", chapter: 19, subject: "the mountain: camera raised and lowered, NOT shot", source: "outline:ch-19", ch19_page: "CONFIRMED: 'My finger left the button.' No frame in Ch.19", ch19_source: "ch-19:p19" }
       - frame: 36
@@ -12343,8 +12364,18 @@ objects:
       plan: { shot: 11, remaining: 25, note: "8 in 1998 + the Ch.5 Kroton base + the Ch.16 lamp + the Ch.20 fig frame; 25 left including the named frames of Ch.26 and 27 and frame 36 (Ch.38), and none off the page so far", source: "foundation:§4f; ch-05:p52; ch-16:p127; ch-20:p100" }
       page: { shot: "at least 10 (Ch.3: 6 on the page + the Delphi 'little', at least 1; Ch.5: 1; Ch.16: 1; Ch.20: 1)", remaining: "at most 26", note: "no frame on any page Ch.6-Ch.15 or Ch.17-Ch.19", source: "ch-03:p6; ch-05:p52; ch-16:p127; ch-20:p100" }
     frames_remaining_after_ch20: { value: 25, basis: "plan count (11 shot); on the page at most 26", source: "foundation:§4f; ch-05:p52; ch-16:p127; ch-20:p100" }
+    frames_shot_ch21_to_ch25: { value: 0, note: "no frame on any page Ch.21-Ch.25; Ch.26 confirms it: 'I had spent no frames that winter, nor in the whole year before, since the frame of Valens sleeping in the fig's shade'", source: "ch-26:p105" }
+    frames_shot_ch26:
+      value: 1
+      subject: "the named frame: Lucius holding Aelia in the sun on the bed's end"
+      counter: "seen, not read out: 'There was a number in the window by the lever. I read it just enough to know the roll had not run out.'"
+      source: "ch-26:p105; ch-26:p113"
+    running_count_after_ch26:
+      plan: { shot: 12, remaining: 24, note: "8 in 1998 + the Ch.5 Kroton base + the Ch.16 lamp + the Ch.20 fig frame + the Ch.26 frame; 24 left including the named frame of Ch.27 and frame 36 (Ch.38); none off the page so far (confirmed by ch-26:p105)", source: "foundation:§4f; ch-05:p52; ch-16:p127; ch-20:p100; ch-26:p113" }
+      page: { shot: "at least 11 (Ch.3: 6 on the page + the Delphi 'little', at least 1; Ch.5: 1; Ch.16: 1; Ch.20: 1; Ch.26: 1)", remaining: "at most 25", source: "ch-03:p6; ch-05:p52; ch-16:p127; ch-20:p100; ch-26:p113" }
+    frames_remaining_after_ch26: { value: 24, basis: "plan count (12 shot); on the page at most 25", source: "foundation:§4f; ch-26:p113" }
     paid: 43
-    last_mentioned_manuscript: "ch-20:p100"
+    last_mentioned_manuscript: "ch-26:p113"
     last_mentioned: "outline:ch-43"
     resolution: { chapter: 43, description: "canister (packed Ch.38) sent through the door to the other side, undeveloped (narration never asserts '1998' beyond Ch.42's '1998, or near it')", planned: true }
 
@@ -12413,16 +12444,17 @@ objects:
     beats:
       - { chapter: 3, detail: "found; examined; pocketed against her own written procedure ('I pocketed it'); she stands up too fast and looks out at the mouth; she keeps her hand around it in the pocket on the way to the slot and on the hurried way down ('closed around the bone'); 'a stolen bone in my pocket'", source: "ch-03:p55; ch-03:p58; ch-03:p59; ch-03:p67; ch-03:p78" }
       - { chapter: 4, detail: "NOT MENTIONED. Three offered knucklebones sit beside a sooted clay lamp on the ledge under the ΝΥΜΦΑΙΣ / ΠΑΝΙ inscription, but her own bone is off the page (the hand-on-bone sentence was cut in polish cycle 1; CH4-1 RESOLVED). Her Ch.3 intent to hand it in at the Delphi museum is not mentioned", source: "ch-04:p28" }
-      - { chapter: 26, detail: "Lucius rolling it", source: "outline:ch-26" }
+      - { chapter: 26, detail: "WRITTEN: out of the bottom of the satchel, where it 'had ridden … since the Corycian, under the notebook, next to the tape in its sock' (CH26-5), given to Lucius to keep his finger off Aelia's eye; 'a boy's mouth tested it and returned it shining, and it rolled, and was fetched, and rolled again'; 'The bone had lain in the dark since somebody's goat died.' (p20). Given to him again after the tables (p96). He learns to send it rolling off his palm; it goes under the bed and he wriggles in after it (p98). Valens: 'Where did he get that?' / 'From me.' / 'And you?' / 'Off the floor of a cave.' / 'Is it lucky?' / 'It's a bone,' (p99-p104)", source: "ch-26:p20; ch-26:p96; ch-26:p98; ch-26:p99; ch-26:p102; ch-26:p103; ch-26:p104", plan_was: "Lucius rolling it (outline:ch-26)" }
       - { chapter: 27, detail: "Lucius rolls it down the Cumae gallery", source: "outline:ch-27" }
       - { chapter: 34, detail: "lost in the sand and found", source: "outline:ch-34" }
       - { chapter: 41, detail: "Lucius gives it to Aelia so she will stop grabbing the lamp; she keeps it (the hand-off Ch.44 depends on)", source: "outline:ch-41" }
       - { chapter: 44, detail: "in Aelia's fist on the road", source: "outline:ch-44" }
     note: "absent from the plan Ch.4–25 by design (audit N-23). Ch.4 agrees since polish cycle 1: not mentioned (CH4-1 RESOLVED 2026-10-19)"
     location_end_ch4: { value: "not mentioned in Ch.4; last on the page in her pocket, her hand closed around it, on the way out of the cave (presumed still there)", source: "ch-03:p78" }
+    location_end_ch26: { value: "with Lucius: on his palm, left there by Valens (p103); upstairs in the house. Between Ch.3 and Ch.26 the page does not show it; Ch.26 says it rode in the satchel 'since the Corycian' (p20)", source: "ch-26:p20; ch-26:p103" }
     ch5_note: "not mentioned in Ch.5 (consistent with the plan's absence Ch.4–25). Her Ch.3 intent to hand it in at the Delphi museum is not recalled, though she walks through the sanctuary"
     paid: 44
-    last_mentioned_manuscript: "ch-03:p78"
+    last_mentioned_manuscript: "ch-26:p104"
     last_mentioned: "outline:ch-44"
     resolution: { chapter: 44, description: "in Aelia's fist at the end", planned: true }
 
@@ -12448,9 +12480,10 @@ objects:
       - { date: "June 1968", gist: "'Up again. Nothing.'; boots going at the toes; 'Tired today.'", source: "ch-02:p48; ch-02:p49" }
       - { date: "undated", gist: "a week-old Herald Tribune from a passenger off the Athens bus, bridge column too", source: "ch-02:p54" }
       - { date: "July 21 [1968]", gist: "cold at the slot for a whole cigarette; going in tomorrow with the good flashlight and kite string; the boy's mother washed his shirts; back before Labor Day; Margaret can stop saying Mexico; the Inquirer", source: "ch-02:p69" }
-    last_mentioned_manuscript: "ch-25:p197"
+    last_mentioned_manuscript: "ch-26:p36"
     physical_ch25: { value: "'The black oilcloth had gone dull and blunt at the corners. The elastic was long gone; I had thrown the dead pieces of it away in Delphi. On the cover it read A. J. FENN.' (agrees with ch-01:p99's two dry pieces of elastic)", source: "ch-25:p183; ch-01:p99" }
     location_ch25: { value: "in Mara's satchel at her hip, 'holding everything else that had crossed with me through the cave' (maras-satchel; RE-SYNC 2026-10-23: 'else' added, evaluator F11; CH25-7 RESOLVED); back in it at chapter end", source: "ch-25:p183; ch-25:p197" }
+    location_ch26: { value: "in the satchel, with Fenn's letters lying on top of it in order of arrival (p12) and the knucklebone and the tape beneath it (p20); 'Her name was in the front of the notebook, beneath the letters in the satchel, in his own capitals, written the winter before he went.' Not opened (p36)", source: "ch-26:p12; ch-26:p20; ch-26:p36" }
     location_ch20: { value: "in her bag, beneath her spare tunic, in the rooms behind the cobbler's shop; first physical appearance since Ch.3 (the move from jacket to bag is off the page); the first blank back leaf used for the tremor note, autumn AD 72 (the back half blank: 'sixty-odd ruled leaves he had never reached', ch-02:p65); the writing implement is not stated on any page", source: "ch-20:p131; evaluations/continuity/chapter-20-audit.md I-14" }
     location_end_ch2: "'went into the duffel last, on top, where I could get at it' (after the carbon was refolded and put back); re-read at the kitchen table the night before the flight; the cigar box is not mentioned in Ch.2"
     location_end_ch3: { value: "in her jacket (with the walker's map), through the crack with her", source: "ch-03:p7; ch-03:p60" }
@@ -12467,6 +12500,7 @@ objects:
       - { chapter: 36, detail: "her tremor notes matched against his tables; she copies his key figures into it beside hers", source: "outline:ch-36" }
       - { chapter: 38, detail: "packed in the bag", source: "outline:ch-38" }
       - { chapter: 43, detail: "through the door (his tables' figures and her tremor notes in its back pages), with his Zippo and dime", source: "outline:ch-43" }
+      - { chapter: 26, detail: "ON THE PAGE: the letters kept on top of it in the satchel; the sister's name in its front pages, in his capitals, not taken out ('I left the satchel as it was.'); its back pages hold the tremor notes, 'dates and a few words apiece'", source: "ch-26:p12; ch-26:p16; ch-26:p36" }
     paid: 43
     note: "ONE notebook (closes the SEED plan_gap); there is no separate 1998 notebook of Mara's"
     last_mentioned: "outline:ch-43"
@@ -12498,20 +12532,22 @@ objects:
     resolution: { chapter: 3, paragraph: 51, description: "Fenn's coordinates (from his notebook) plotted on a 1998 walker's map put her at the Corycian Cave (p7), and his drawn doorway on the chart matches the cave's mouth (p46); the chart itself stays pinned over Emilio's desk in Philadelphia" }
 
   fenn-tables:
-    introduced: "outline:ch-26"
+    introduced: "ch-26:p93 (the copy, in its cedar box)"
     introduced_page: "ch-25:p161 ('I've got it all on paper.'; promised to her, 'I'll send you my tables, every figure, worked out. You can check my math.', p204)"
     description: "Fenn's tables of the doors' timing; a copy (Ch.26) and the originals (Ch.35); compared on a wax tablet with Mara's figures (Ch.36)"
     status: "chekhov_open"
     planted: 26
     beats:
       - { chapter: 25, detail: "ON THE PAGE: the shakes as a red curve on his wall (p92); after 73 'ran the tables backward from it, and they fit' … 'I've got it all on paper.' (p161); 'He left a space for me to ask to see it on paper, and I left it empty.' (p162); promised by letter (p204)", source: "ch-25:p92; ch-25:p161; ch-25:p162; ch-25:p204" }
-      - { chapter: 26, detail: "copy in a box under the bed, unopened", source: "outline:ch-26" }
+      - { chapter: 26, detail: "WRITTEN: promised again ('The tables are coming soon as there's a clean copy', p14; 'Tables soon.', p69); the copy comes 'at the tail of the winter, sewn up in sacking', carried from the carter at the gate by Felix (p85); 'a box of plain cedar, the kind a clerk keeps his rolls in, with a lid that slid in a groove, and a letter tied to the top of the lid with a thread' (p93); copied fair by a pupil ('Not by me. My hand won't do columns anymore.'; 'You'll find it all checks.', p94); Lucius finds the groove with his thumbnail (p96); Mara slides the box 'under the bedstead, deep, into the dust', unopened by her, no reason narrated (p96). Whether the lid moved is not said (CH26-6)", source: "ch-26:p14; ch-26:p69; ch-26:p85; ch-26:p93; ch-26:p94; ch-26:p96", plan_was: "copy in a box under the bed, unopened (outline:ch-26)" }
       - { chapter: 35, detail: "originals given to Mara; last margin line in Fenn's hand (practical, English) ends the chapter", source: "outline:ch-35" }
       - { chapter: 36, detail: "beside her tremor notes; the figures agree; key figures copied into the notebook", source: "outline:ch-36" }
       - { chapter: 36, detail: "taken to the tomb in her hand", source: "outline:ch-36" }
       - { chapter: 38, detail: "'the notebook and the tables' packed", source: "outline:ch-38" }
       - { chapter: 43, detail: "his tables' figures go through in the notebook's back pages; the ORIGINAL tables are not named in Ch.43 (meta.post_patch_flags P4)", source: "outline:ch-43" }
     paid: 36
+    copy_ch26: { value: "the COPY: a fair copy by Fenn's pupil, in a cedar box with a sliding lid, sewn in sacking; under the bedstead in the Pompeii house, unopened by Mara", source: "ch-26:p85; ch-26:p93; ch-26:p94; ch-26:p96" }
+    last_mentioned_manuscript: "ch-26:p96"
     last_mentioned: "outline:ch-38"
     resolution: { chapter: 36, description: "the arithmetic: the door opens the night after the mountain opens", planned: true }
 
@@ -12529,7 +12565,8 @@ objects:
     paid: 36
     note: "plant moved to Ch.20 (audit WARN-012); their independence from his tables is why the agreement ends the refusal"
     last_mentioned: "outline:ch-43"
-    last_mentioned_manuscript: "ch-25:p196"
+    last_mentioned_manuscript: "ch-26:p16"
+    ch26_note: { value: "Mara's narration: 'the tremor notes in the back of the notebook, which were dates and a few words apiece', the only English she had written at any length since Philadelphia (so they are in English)", source: "ch-26:p16" }
     resolution: { chapter: 36, description: "match Fenn's tables; go through the door in the notebook (Ch.43)", planned: true }
 
   fenns-zippo:
@@ -13165,6 +13202,7 @@ objects:
       - { chapter: 20, detail: "Valens: 'These would never ripen.' … 'Last year she carried them all summer and dropped every one in the autumn. Without them she makes wood.' / 'What's she for?' / 'Next year.'; the jar edged west along the parapet into the last sun; Grata's leaves-in-my-wine complaint, though it 'had not dropped a leaf since it budded'; Valens: 'It hasn't,'", source: "ch-20:p110; ch-20:p111; ch-20:p112; ch-20:p114; ch-20:p115" }
       - { chapter: 20, detail: "winter: 'Sacking round the jar, and round her stem to the first fork.'; 'She can't climb down to me.'; Felix: 'He went up and wrapped her, and he was no sooner down than up to see had he wrapped her right.'", source: "ch-20:p176; ch-20:p178; ch-20:p179" }
       - { chapter: 20, detail: "autumn AD 73: 'The fig above us had kept its fruit that year, and it ripened late, with the olives'; Valens tries one each morning, and on the day brings it down 'with two more and put them on my plank among the broken things', saying nothing; Mara eats all three", source: "ch-20:p275; ch-20:p276; ch-20:p277", detail_was: "e52b0d7: 'in that same month of the olives'; 'Today,' … 'Not tomorrow. Tomorrow the wasps have them.' (cut)" }
+    ch26_note: { value: "not seen; Mara writes Fenn about 'the potted fig' (spring AD 75, p16); the Ch.20 frame recalled as 'the frame of Valens sleeping in the fig's shade' (p105)", source: "ch-26:p16; ch-26:p105" }
   delphi-tribute-list-entry:
     introduced: "ch-07:p172"
     description: "Mara's entry on the Delphian council's tribute list, written in wax by the clerk Sosandros"
@@ -14199,6 +14237,7 @@ objects:
       - { chapter: 21, detail: "prised off its pegs with the big knife; new oak ('There's oak behind the inn yard.') in that night; the old tread goes on the hearth for burning; 'He caught me watching him.'", source: "ch-21:p38; ch-21:p41; ch-21:p42" }
     last_mentioned: "ch-21:p64"
     resolution: { chapter: 21, paragraph: 64, description: "'There's no step on that stair now will turn your foot,' (the oak tread in; the old one burned)" }
+    ch26_note: { value: "Mara writes Fenn 'about the stair tread Valens had put in' (spring AD 75)", source: "ch-26:p16" }
 
   lupus-graffito-pier:
     introduced: "ch-21:p140"
@@ -14300,6 +14339,74 @@ objects:
     status: "background"
     planted: 21
     last_mentioned: "ch-21:p120"
+    resolution: null
+
+  aelias-horoscope:
+    introduced: "ch-26:p1"
+    description: "Aelia's stars, cast by Fenn the night Mara's note came, on a separate sheet 'in my best Greek for your landlady to hang on a nail'"
+    physical: { value: "a Greek sheet (the letter itself is in English on the back of another client's horoscope)", source: "ch-26:p1; ch-26:p3" }
+    contents: { value: "'the child's got Jupiter sitting square on top of her head, which is the kind of thing a landlady likes to hear and happens to be about half true if you squint' (Fenn)", source: "ch-26:p1" }
+    status: "background"
+    planted: 26
+    beats:
+      - { chapter: 26, detail: "gone next door at once; Grata reads it aloud 'to every customer that day, Jupiter and all' and nails it above her loom next to Lucius's stars 'with a better nail'", source: "ch-26:p4" }
+    last_mentioned: "ch-26:p4"
+    resolution: null
+
+  aelias-lunula:
+    introduced: "ch-26:p17"
+    description: "a crescent of thin bronze on a red thread, hung round Aelia's neck by Grata on her eighth day 'against the evil eye and every other thing that went abroad in the town'"
+    status: "background"
+    planted: 26
+    beats:
+      - { chapter: 26, detail: "hung with a prayer; 'She had the thread in her mouth before the prayer was over, and the crescent after it.'", source: "ch-26:p17" }
+    note: "the page does not name it ('lunula' is the tracker's slug); compare the fountain toddler's 'crescent of leather hung on a cord at his throat' (ch-20, the fountain line)"
+    last_mentioned: "ch-26:p17"
+    resolution: null
+
+  inn-strainer:
+    introduced: "ch-26:p19"
+    description: "'The bronze strainer from the inn at the crossroads', a wine strainer with 'the split that ran through its pierced holes'"
+    status: "chekhov_closed"
+    planted: 26
+    beats:
+      - { chapter: 26, detail: "dangled over Aelia and mouthed by her while Mara looks for the split (p19); waits at her elbow on the rainy bench (p58); patched with a scrap of thin bronze 'the bottom of a lamp somebody had trodden flat in the street', pierced hole for hole from the underside with a nail 'so that the wine going through would find a strainer and never learn of the patch', three rivets tapped over cold (p61); in her letters to Fenn (p60; p84)", source: "ch-26:p19; ch-26:p58; ch-26:p60; ch-26:p61; ch-26:p84" }
+    last_mentioned: "ch-26:p84"
+    resolution: { chapter: 26, paragraph: 84, description: "'The strainer had held, I wrote, after a fashion.'" }
+
+  fenns-1964-scorecard:
+    introduced: "ch-26:p25"
+    description: "Fenn's sister's scorecard of the Phillies' 14-8 loss on the Sunday after Chico Ruiz (27 September 1964, derived): filled in 'like a bank deposit slip, every little diamond, the pitches down the side in a hand you could read across a room'; Callison's third home run ringed"
+    status: "background"
+    planted: 26
+    beats:
+      - { chapter: 26, detail: "(Fenn's letter) read aloud to him under every streetlight up Germantown Avenue; 'She left the card on the hall table when we got in.'; in 1968 he left his note there: 'No idea if the card was still under it.'", source: "ch-26:p25; ch-26:p26" }
+    note: "whereabouts after 1968 unknown; not among the Ch.1 estate-sale items on the page (ch-01:p88-p102)"
+    last_mentioned: "ch-26:p26"
+    resolution: null
+
+  fenns-hall-table-note:
+    introduced: "ch-26:p26"
+    description: "the note Fenn left Margaret on the hall table 'the morning I went' (1968): 'Home by Labor Day, I put. A line about the milk.'"
+    status: "background"
+    planted: 26
+    plan_link: "outline Ch.26 beat 2 ('I left her a note on the hall table'); Ch.35 (Margaret named)"
+    note: "a separate document from the notebook's last entry, 'Back before Labor Day' (ch-02:p69). Its fate is not stated"
+    last_mentioned: "ch-26:p26"
+    resolution: null
+
+  maras-letters-to-fenn:
+    introduced: "ch-26:p16"
+    description: "Mara's replies to Fenn, in English, sent through Grata to the fish-sauce carter"
+    status: "background"
+    planted: 26
+    letters:
+      - { id: R1, written: "the week L1 came (spring AD 75), on the roof in the long light, on a sheet from the stationer by the forum, with a reed cut too fine", contents: "the stair tread Valens had put in, the potted fig, Grata, 'and nothing whatever about the door'; 'scissors' tried twice in the margin, 'shears' written", source: "ch-26:p16" }
+      - { id: R2, written: "after Aelia's birth (implied: 'the night your note came', L4)", contents: "the birth; enough for her stars (the text is not on the page)", source: "ch-26:p1" }
+      - { id: R3, written: "Aelia's sixth week, at the bench in the rain, answering L3; taken by Grata to the carter that afternoon", contents: "'The Florida Marlins beat Cleveland in the seventh game, in extra innings', 'and my father left me the news on my voicemail at work, first thing Monday'; the girl's weight in Grata's terms (the creases at her wrists); the rain; the split strainer. 'The melon got no mention'", source: "ch-26:p60; ch-26:p62; ch-26:p63" }
+      - { id: R4, written: "the night L5 came, on the bed with the board on her lap", contents: "a line about the rain; the Stabiae ford and the dun (Valens: 'Put that in.'); the strainer held 'after a fashion'; Lucius on the stair; Grata's son painted out by the baths; 'It's a machine that' begun and sponged off, leaving 'a pale cloud'; 'What a voicemail was, I did not explain.'", source: "ch-26:p72; ch-26:p78; ch-26:p83; ch-26:p84" }
+    note: "whether she answered L2, L4 or L6 is not on the page. Read by Fenn: 'P.S. I read your letter again. Your old man. I'm sorry.' (ch-26:p95)"
+    last_mentioned: "ch-26:p84"
     resolution: null
 # =====================================================================
 # KNOWLEDGE INDEX (who knows what, and from when) — derived from character knowledge above
@@ -14474,25 +14581,34 @@ objects:
 
   fenns-letters:
     introduced: "ch-25:p200"
-    description: "Fenn's promised letters to Mara in Pompeii ('I'll write to you. Give me an address.'), with his tables and Lucius's stars"
+    description: "Fenn's letters to Mara in Pompeii, in English, by carter ('I'll write to you. Give me an address.', ch-25:p200): six on the Ch.26 page (L1-L6, in order of arrival), with Lucius's stars, Aelia's stars and the copied tables"
     status: "chekhov_open"
     planted: 25
     beats:
       - { chapter: 25, detail: "promised; the address written on his wall in charcoal under 'Grata'; 'I'll send you my tables'; the boy's stars 'with my letter'", source: "ch-25:p200; ch-25:p201; ch-25:p202; ch-25:p204; ch-25:p213" }
-      - { chapter: 26, detail: "the correspondence begins (English, by carter's post)", source: "outline:ch-26" }
-    last_mentioned: "outline:ch-26"
+      - { chapter: 26, detail: "WRITTEN: the correspondence by carter ('A carter who hauled jars of fish sauce down from Puteoli' … 'Every letter since had come by him.'); kept 'in the satchel now, in the order they had come, lying on top of the notebook'; read aloud to Aelia in English (see letters below)", source: "ch-26:p12; ch-26:p6", plan_was: "the correspondence begins (English, by carter's post) (outline:ch-26)" }
+    carriage: { value: "folded small, tied round with a thread, Mara's name and Grata's on the outside in Greek, 'so that anybody at the gate could tell him whose door it belonged at'; by the fish-sauce carter (characters.letter-carter), who takes his wine at Grata's; Mara's replies go back through Grata to the same man", source: "ch-26:p12; ch-26:p63" }
+    letters:
+      - { id: L1, order: 1, arrived: "spring AD 75, 'within a month of our getting back from Puteoli'", read_on_page: "Aelia's fourth week, walked, 'from the beginning'", sheet: "not described", contents: "'Mrs. Big Fellow or what'; 'going care of Grata'; Lucius's stars enclosed, 'a long life and so forth. Don't let your landlady pay me.'; talked American at the ceiling all night (the automat, the El on Market Street, the homeroom girl who smelled of oranges); the tunny-salter's broom handle; 'First time in thirty-odd years'; 'The tables are coming soon as there's a clean copy'", signed: "A. F.", source: "ch-26:p12; ch-26:p13; ch-26:p14" }
+      - { id: L2, order: 2, arrived: "'His summer letter' (summer AD 75); first read 'at the vintage, by myself, and not again since'", read_on_page: "Aelia's fifth week, aloud, Valens splicing", sheet: "not described", contents: "'You want a thing about the Phillies I didn't tell you in my room, here's one, and after it I'll knock it off'; the Sunday after Chico Ruiz with his sister (unnamed); Twenty-first and Lehigh; her scorecard; Johnny Callison's three home runs; 'we lose fourteen to eight'; the walk up Germantown Avenue; the card on the hall table and the note 'the morning I went': 'Home by Labor Day, I put. A line about the milk.'; 'The bathhouse man says his pool went cloudy Tuesday. Nothing came of it.'", signed: "A. F.", delay: "possibly the letter the carter left on a bench at Herculaneum 'in the autumn' (p63); not stated", source: "ch-26:p23; ch-26:p24; ch-26:p25; ch-26:p26; ch-26:p27" }
+      - { id: L3, order: 3, arrived: "'The autumn letter had come at the vintage' (autumn AD 75), Mara 'so big that I sat at the bench sideways'; unanswered until Aelia's sixth week", read_on_page: "Aelia's sixth week, at the bench in the rain", sheet: "not described", contents: "'Sure, I said it, with my own mouth in my own room, so sue me. Who won the Series in ninety-seven?'; 'just who won it the last fall you were there'; a birthday kept 'by the old calendar'; 'I bought myself a melon.'", signed: "A. F.", source: "ch-26:p58; ch-26:p59" }
+      - { id: L4, order: 4, arrived: "after Aelia's birth, in answer to Mara's note ('the night your note came'); read to Aelia at three weeks, three nights over", read_on_page: "S1, by the little lamp, in English; the reverse in Greek on the third night", sheet: "'written on the reverse of a stranger's future': a Puteoli wine shipper's spoiled horoscope ('a fair passage to Ostia and a son before the vintage, until somebody knocked the ink over the son'); English 'small and square right out to the sheet's edges'; a dried milk blister on 'the Walt Whitman Bridge'", contents: "'A girl, holy cow'; Aelia's stars on 'the other sheet in my best Greek for your landlady to hang on a nail', Jupiter 'square on top of her head'; 'Aelia. Good name.'; 'Tell your mister I said so. And tell him my stair's fixed.'; the rope-walk man; 'She'll be near four the summer we go, by my book'; 'Feed her. Sleep when she sleeps.'", enclosure: "aelias-horoscope", signed: "A. F.", source: "ch-26:p1; ch-26:p2; ch-26:p3; ch-26:p4; ch-26:p6" }
+      - { id: L5, order: 5, arrived: "'nine days after' Mara's answer to L3; delivered by the carter himself at the shop door, 'with the rain dripping from the point of his hood onto the sheet'", read_on_page: "at once, to Aelia in her lap; the milk lets down", sheet: "'a fresh sheet, nobody's fortune on the back of it'; the hand larger; a split nib leaving 'a hair of a second stroke' beside every long stroke", contents: "'Florida. Okay. Florida, a ball club named for a fish'; 'I got used to Claudius'; 'But what in God's name is a voicemail?'; 'Skip it. Don't explain it to me, I mean it.'; 'All this time I've been keeping the words.'; 'Nobody said they'd go on making new ones without me.'; 'Tables soon.'; nothing about her father ('My father was not in it anywhere.')", signed: "A. F.", source: "ch-26:p65; ch-26:p67; ch-26:p68; ch-26:p69; ch-26:p70; ch-26:p71" }
+      - { id: L6, order: 6, arrived: "'at the tail of the winter', tied to the lid of the cedar box of tables sewn up in sacking; the carter at the gate; Felix carries it in", read_on_page: "at the bench, Lucius at the groove", sheet: "not described", contents: "'Here's the works, copied fair. Not by me. My hand won't do columns anymore.'; the copyist boy; 'You'll find it all checks. I'll be a monkey's uncle if it doesn't.'; 'P.S. I read your letter again. Your old man. I'm sorry.'", enclosure: "fenn-tables (the copy)", signed: "A. F.", source: "ch-26:p85; ch-26:p93; ch-26:p94; ch-26:p95" }
+    last_mentioned: "ch-26:p95"
     resolution: null
 
   lucius-horoscope:
     introduced: "ch-25:p213"
     description: "the stars Fenn promises to cast for Lucius, free, and send with his letter"
-    status: "chekhov_open"
+    status: "chekhov_closed"
     planted: 25
     beats:
       - { chapter: 25, detail: "'Give me his hour and I will do it tonight and send it to you with my letter, and it will cost you nothing.'; Valens: 'Will they be true?'; 'They will be in good Greek,' … 'A long life, under his own fig tree.'; 'He had the hour from me, as near as any of us had it, and the season', set down in charcoal under Grata's name", source: "ch-25:p213; ch-25:p214; ch-25:p215; ch-25:p218" }
+      - { chapter: 26, detail: "DELIVERED with Fenn's first letter: 'The stars for your boy are in with this, a long life and so forth. Don't let your landlady pay me.' (p14); nailed by Grata above the loom in her back room; Aelia's go up beside it (p4)", source: "ch-26:p4; ch-26:p14" }
     note: "the hour was never marked ('Which cock?' / 'All of them.', ch-24:p200-p201); the errand was Grata's (ch-25:p2)"
-    last_mentioned: "ch-25:p218"
-    resolution: null
+    last_mentioned: "ch-26:p14"
+    resolution: { chapter: 26, paragraph: 14, description: "sent free with the first letter, as promised (ch-25:p213); hung above Grata's loom (ch-26:p4)" }
 
   fenns-sand-tray:
     introduced: "ch-25:p14"
@@ -14535,10 +14651,11 @@ objects:
     description: "Mara's satchel, on a strap at her hip, 'holding everything else that had crossed with me through the cave' (RE-SYNC 2026-10-23: 'else' added, evaluator F11)"
     status: "background"
     needs_review: true
-    review_note: "first 'satchel' in the book; possibly the 'bag' of ch-19 and ch-20:p131 (notebook under her spare tunic). Not merged. CH25-7 RESOLVED RE-SYNC 2026-10-23 on the watch clause only ('everything else'); whether the satchel is the Ch.19-20 bag is still not said"
+    review_note: "first 'satchel' in the book; possibly the 'bag' of ch-19 and ch-20:p131 (notebook under her spare tunic). Not merged. CH25-7 RESOLVED RE-SYNC 2026-10-23 on the watch clause only ('everything else'); whether the satchel is the Ch.19-20 bag is still not said. Ch.26: the knucklebone 'had ridden in the bottom of the satchel since the Corycian, under the notebook, next to the tape in its sock' (ch-26:p20), which reads as the bag that came out of the cave; still not merged (CH26-5)"
     beats:
       - { chapter: 25, detail: "her hand goes to its flap at the sight of Fenn's packed bag; the notebook comes out of it and goes back", source: "ch-25:p112; ch-25:p183; ch-25:p197" }
-    last_mentioned: "ch-25:p197"
+      - { chapter: 26, detail: "holds Fenn's letters 'in the order they had come, lying on top of the notebook' (p12); open on the blanket for the walking night (p13); the knucklebone at the bottom 'next to the tape in its sock' (p20); 'I left the satchel as it was.' (p36)", source: "ch-26:p12; ch-26:p13; ch-26:p20; ch-26:p36" }
+    last_mentioned: "ch-26:p36"
     resolution: null
 
 knowledge_index:
@@ -14644,6 +14761,8 @@ knowledge_index:
     - { who: "august-fenn", what: "his sister is dead", from_chapter: 25, method: "inferred", certainty: "UNSTATED: 'He did not ask whose.' (p187) and the hand (p188) are all the page shows", note: "from 'estate sale' … 'In Chestnut Hill' (p186)", revised: "2026-10-23 (Ch.25 page)", source: "ch-25:p186; ch-25:p187; ch-25:p188; STATE:ARCH-17" }
     - { who: "mara-reyes", what: "keeps the name (and the dealer's, Mrs. Szabo's) from Fenn in Ch.25: 'I had the name.'", from_chapter: 25, method: "n/a (her own)", source: "ch-25:p188" }
     - { who: "august-fenn", what: "says 'Margaret' aloud for the first time", from_chapter: 35, method: "n/a", note: "Mara never says the name to him", revised: "2026-10-18", source: "outline:ch-35; STATE:ARCH-17" }
+    - { who: "mara-reyes", what: "Margaret at the 1964 game: the scorecard, the walk home, the hall table; Fenn's 1968 note there ('Home by Labor Day'); unnamed in the letter", from_chapter: 26, method: "told_by:august-fenn (letter L2)", source: "ch-26:p25; ch-26:p26" }
+    - { who: "valens", what: "the Chaldean had a sister who made him walk home 'the length of the city'; her name withheld ('He doesn't put her name.'; Mara has it in the notebook and leaves it there)", from_chapter: 26, method: "told_by:mara-reyes", source: "ch-26:p32; ch-26:p34; ch-26:p36" }
   emilio_death_1998:
     - { who: "pat, gloria, doug-fessler, dean, halloran, department-office-caller", what: "Emilio is dead", from_chapter: 0, method: "prior_knowledge", source: "ch-01:p4; ch-01:p13; ch-01:p168; ch-01:p174; ch-01:p176" }
     - { who: "tia-nilda", what: "knows, but forgot and phoned him Thursday", from_chapter: 0, method: "prior_knowledge", source: "ch-01:p160" }
@@ -14918,6 +15037,7 @@ knowledge_index:
     - { who: "quintus-arrius-celer", what: "'something heavy under your dress, too, that shines' (by his man's report; not seen)", from_chapter: 17, method: "told_by:third-man-kirrha-road", source: "ch-17:p169" }
     - { who: "valens, felix", what: "Ch.19: NOT shown the camera at the rail (Valens had gone to the black; Felix was in the bows)", from_chapter: null, method: null, source: "ch-19:p16; ch-19:p17; ch-19:p20" }
     - { who: "valens", what: "Ch.20: wakes to her with the camera in her lap after the fig frame: 'Did you spend one on me?' (he knows it spends)", from_chapter: 15, method: "witnessed; told_by:mara-reyes", source: "ch-20:p101; ch-20:p102; ch-20:p103" }
+    - { who: "valens, lucius", what: "Ch.26: the named frame taken in front of them (Valens seats the boy; Lucius watches Mara behind it)", from_chapter: 26, method: "witnessed", source: "ch-26:p105; ch-26:p112; ch-26:p113" }
 
   the_answer:
     # who has the god's public answer (Ch.13), and the priest's Etna gloss
@@ -15076,6 +15196,15 @@ knowledge_index:
     - { who: "mara-reyes", what: "the first entry, autumn AD 72", from_chapter: 20, method: "n/a (author)", source: "ch-20:p131" }
     - { who: "valens, felix, pomponia-grata", what: "NOT ('nobody woke')", from_chapter: null, method: null, source: "ch-20:p131" }
     - { who: "august-fenn", what: "that they exist, 'Since seventy-two', in the back of his notebook; NOT what they say (he does not take or open the notebook; Ch.35 he reads only his own front pages)", from_chapter: 25, method: "told_by:mara-reyes", plan_was: "NOT (never) (outline:ch-35); CH25-5", source: "ch-25:p178; ch-25:p180; ch-25:p194; outline:ch-35" }
+  fenn_news_from_home:
+    # what August Fenn has been told of the world after 1968 (he asked for none of it in Ch.25 but 'one thing')
+    - { who: "august-fenn", what: "1980: the Phillies won the World Series against Kansas City (his 'one thing')", from_chapter: 25, method: "told_by:mara-reyes", source: "ch-25:p59; ch-25:p60; ch-25:p62" }
+    - { who: "august-fenn", what: "the 34 still runs as a trolley; the automats are gone; the 23 up Germantown Avenue is a bus", from_chapter: 25, method: "told_by:mara-reyes", source: "ch-25:p56; ch-25:p99; ch-25:p190" }
+    - { who: "august-fenn", what: "an estate sale in Chestnut Hill in October 1997 (his sister's, by inference)", from_chapter: 25, method: "told_by:mara-reyes; inferred", source: "ch-25:p186; ch-25:p187" }
+    - { who: "august-fenn", what: "1997: the Florida Marlins beat Cleveland in the seventh game in extra innings (asked for in L3, 'Sure, I said it … so sue me')", from_chapter: 26, method: "told_by:mara-reyes (letter R3)", source: "ch-26:p59; ch-26:p60" }
+    - { who: "august-fenn", what: "the word 'voicemail', unexplained ('Skip it. Don't explain it to me'); Mara sponges out her start at it", from_chapter: 26, method: "told_by:mara-reyes (letter R3)", source: "ch-26:p60; ch-26:p68; ch-26:p84" }
+    - { who: "august-fenn", what: "NOT: the moon landing, the president, Connie Mack's fire (refused or kept, Ch.25); nothing else after 1968 in Ch.26 (R1 and R4 are Pompeii news only)", from_chapter: null, method: null, source: "ch-25:p57; ch-25:p220; ch-26:p16; ch-26:p84" }
+
 # =====================================================================
 # PLOT THREADS (each with its scheduled payoff)
 # =====================================================================
@@ -15122,6 +15251,7 @@ plot_threads:
     resolved_from_conflict: true
     resolved_date: "2026-10-18"
     resolution_note: "C7: foundation ladder softened to match outline Ch.30 (STATE:ARCH-14)"
+    ch26_page: { chapter: 26, detail: "by letter: Fenn plans on it, 'She'll be near four the summer we go, by my book'; Mara does not answer the date in any reply on the page", source: "ch-26:p2; ch-26:p16; ch-26:p60; ch-26:p84" }
 
   the-refusal:
     description: "Mara's refusal of Fenn's date (the fig leaf: wrong twice, the third built on the schoolbook year)"
@@ -15131,6 +15261,7 @@ plot_threads:
     payoff_chapter: 36
     status: "open"
     source: "ch-25:p221; outline:ch-26; outline:ch-36; foundation:§1"
+    ch26_page: { chapter: 26, detail: "WRITTEN: the copied tables come in a cedar box and go 'under the bedstead, deep, into the dust', unopened by her, no reason narrated (CONFIRMS outline beat 4)", source: "ch-26:p96" }
 
   can-others-pass:
     description: "will the door take anyone but the one it brought?"
@@ -15324,6 +15455,7 @@ plot_threads:
     payoff_chapter: 35
     status: "planned_open"
     source: "foundation:§3; outline:ch-35"
+    ch26_beat: { chapter: 26, detail: "by letter: a birthday kept by the old calendar with a melon, known to nobody; 'All this time I've been keeping the words.'; 'I'll find out back there same as the rest of them'; his hand 'won't do columns anymore'", source: "ch-26:p59; ch-26:p68; ch-26:p94" }
 
   fenn-sisters-name:
     description: "Fenn's silence about Margaret; the notebook reunion"
@@ -15334,6 +15466,7 @@ plot_threads:
     payoff_detail: "he asks for the notebook, reads his own front pages, says 'Margaret' first"
     status: "open"
     source: "outline:ch-35"
+    ch26_page: { chapter: 26, detail: "WRITTEN: 'my sister' in his 1964 letter, unnamed; Valens asks 'What was she called?' / 'He doesn't put her name.'; the name stays in the notebook's front pages, 'in his own capitals' (CONFIRMS beat_note)", source: "ch-26:p25; ch-26:p33; ch-26:p34; ch-26:p36" }
 
   fenn-zippo:
     description: "the dead Zippo"
@@ -15377,6 +15510,7 @@ plot_threads:
     payoff_chapter: null
     status: "unresolved_by_design (result never given)"
     source: "outline:ch-31"
+    ch26_page: { chapter: 26, detail: "Secundus NAMED; his wall by the baths painted over with a baker's son's name (Grata); timing against March AD 77 is CH26-7", source: "ch-26:p63; ch-26:p84" }
 
   maras-secret:
     description: "Mara alone (among those around her) knows what Pompeii means; Fenn also knows from Ch.25, in English"
@@ -15404,10 +15538,10 @@ plot_threads:
     status: "planned_open"
     source: "foundation:§5; outline:ch-43"
 
-  relics-microcassette: { description: "her father's voice", opened: 1, opened_source: "ch-01:p188", ch5: "the planned touch, in its sock in the duffel in Kallia's storeroom, no comment (ch-05:p209; CH5-4 on the count). Next planned: Ch.19, Ch.35", ch7: "not mentioned", payoff_chapter: 43, status: "open", source: "foundation:§4f; outline:ch-43", ch8: "not mentioned", ch9: "not mentioned", ch10: "not mentioned", ch11: "not mentioned" }
-  relics-film-roll: { description: "the 36-frame record", opened: 2, opened_source: "ch-02:p64 (loaded; 0 frames)", ch3: "Delphi stadium ('a little', count unstated) + 6 frames on the page (ch-03:p6-p49); counter not mentioned", ch5: "1 frame: the empty Kroton base (ch-05:p52; CH5-3). Plan count 9 shot / 27 left; page at least 8 / at most 28", ch7: "0 frames; the Pentax is not mentioned", payoff_chapter: 43, last_frame_chapter: 38, status: "open", source: "foundation:§4f; outline:ch-38; outline:ch-43", ch8: "0 frames; the Pentax is not mentioned", ch9: "0 frames; the Pentax is not mentioned", ch10: "0 frames; the Pentax is not mentioned", ch11: "0 frames; the Pentax is not mentioned (Ch.12 needs it in her hands; last on the page in the duffel, ch-05:p208)", ch12: "0 frames; the camera swung and looked through, not fired; the cap lost (ch-12:p30; ch-12:p77)" }
+  relics-microcassette: { description: "her father's voice", opened: 1, opened_source: "ch-01:p188", ch5: "the planned touch, in its sock in the duffel in Kallia's storeroom, no comment (ch-05:p209; CH5-4 on the count). Next planned: Ch.19, Ch.35", ch7: "not mentioned", payoff_chapter: 43, status: "open", source: "foundation:§4f; outline:ch-43", ch8: "not mentioned", ch9: "not mentioned", ch10: "not mentioned", ch11: "not mentioned", ch26: "named in passing: 'the tape in its sock' in the bottom of the satchel (ch-26:p20)" }
+  relics-film-roll: { description: "the 36-frame record", opened: 2, opened_source: "ch-02:p64 (loaded; 0 frames)", ch3: "Delphi stadium ('a little', count unstated) + 6 frames on the page (ch-03:p6-p49); counter not mentioned", ch5: "1 frame: the empty Kroton base (ch-05:p52; CH5-3). Plan count 9 shot / 27 left; page at least 8 / at most 28", ch7: "0 frames; the Pentax is not mentioned", payoff_chapter: 43, last_frame_chapter: 38, status: "open", source: "foundation:§4f; outline:ch-38; outline:ch-43", ch8: "0 frames; the Pentax is not mentioned", ch9: "0 frames; the Pentax is not mentioned", ch10: "0 frames; the Pentax is not mentioned", ch11: "0 frames; the Pentax is not mentioned (Ch.12 needs it in her hands; last on the page in the duffel, ch-05:p208)", ch12: "0 frames; the camera swung and looked through, not fired; the cap lost (ch-12:p30; ch-12:p77)", ch26: "1 frame: the named frame, Lucius holding Aelia (ch-26:p113); the counter seen, not read out; no frame since Ch.20 (ch-26:p105). Plan 12 shot / 24 left; page at least 11 / at most 25" }
   relics-watch: { description: "the watch-winding (the only countdown)", opened: 1, opened_source: "ch-01:p191", ch3: "wound on the Delphi balcony; running; reads 'ten to two' at the mouth under a low sun (ch-03:p4; ch-03:p81)", ch5: "struck by the rod (no damage stated); 'ten minutes' by it (to Kallia); ticking in the storeroom dark; not wound on the page (ch-05:p86; ch-05:p159; ch-05:p210)", ch6: "set to local time by the gatepost's noon shadow (her second day at Kallia's); paid to Valens as his fee; wound backward by him until stopped, then forward to full; in his belt pouch; 'Forward. Till it stops, and not past.'; 'You never had a watch.' Mara is without a watch from here (ch-06:p13; ch-06:p130; ch-06:p136; ch-06:p141; ch-06:p142; ch-06:p305; ch-06:p340)", ch7: "not seen; she believes it is in his belt pouch; the hour 'lost to me since November'; the pale band 'since March' (ch-07:p48; ch-07:p107)", payoff_chapter: 43, status: "open", source: "foundation:§4f", ch8: "not present (with Valens); the night and the cave visit are untimed", ch9: "not present (with Valens); she meets him twice and the watch is not mentioned", ch10: "not present (with Valens); not mentioned", ch11: "with Valens: read from his open pouch, fast, 'It hasn't stopped.'; wound daily before his bread (Felix); not sold back (ch-11:p40; ch-11:p43; ch-11:p46; ch-11:p57)", ch12: "with Valens; his pouch put into Mara's hands at the pool, 'Through the leather the watch was going', and returned at the stepping stones (ch-12:p63; ch-12:p131)", ch24: "WRITTEN: Valens, on the bed beside her, winds it on Mara's right wrist in the morning, the crown 'a click at a time' until 'it would turn no farther', her hand palm down on his knee, then tucks her hand under the sheet; no comment (RE-SYNC 2026-10-23: 'forward' is no longer stated, CH24-4) (ch-24:p228; ch-24:p229)" }
-  relics-knucklebone: { description: "the bone that went to 1998 and came back", opened: 3, opened_source: "ch-03:p58 ('I pocketed it')", ch4: "not mentioned in Ch.4 since polish cycle 1 (CH4-1 RESOLVED); the nymphs' ledge shows three offered knucklebones (ch-04:p28)", ch7: "not mentioned", payoff_chapter: 44, status: "open", source: "foundation:§4f; outline:ch-44; ch-03:p55-p59", ch8: "not mentioned", ch9: "not mentioned", ch10: "not mentioned", ch11: "not mentioned" }
+  relics-knucklebone: { description: "the bone that went to 1998 and came back", opened: 3, opened_source: "ch-03:p58 ('I pocketed it')", ch4: "not mentioned in Ch.4 since polish cycle 1 (CH4-1 RESOLVED); the nymphs' ledge shows three offered knucklebones (ch-04:p28)", ch7: "not mentioned", payoff_chapter: 44, status: "open", source: "foundation:§4f; outline:ch-44; ch-03:p55-p59", ch8: "not mentioned", ch9: "not mentioned", ch10: "not mentioned", ch11: "not mentioned", ch26: "WRITTEN: out of the satchel to Lucius; mouthed, rolled, under the bed, 'It's a bone,' (ch-26:p20; ch-26:p98; ch-26:p104)" }
 
   hand-at-threshold:
     description: "repeated situation: her hand at a door"
@@ -15544,6 +15678,7 @@ plot_threads:
     payoff_chapter: null
     status: "open (commitment in force from ch-07:p184)"
     source: "ch-07:p184; outline:ch-25; outline:ch-26"
+    ch26_check: { value: "HELD in Ch.26: English aloud only to Aelia, whom the page makes a listener ('I had settled the question of whether Aelia was somebody'); 'Since my first winter in Phocis I had used no English aloud unless somebody was there to hear it.' agrees with the ch-07:p184 commitment", source: "ch-26:p6; ch-26:p45; ch-26:p56" }
 
   nymph-rumor:
     description: "the goat-boy's story of a nymph out of Pan's cave, and the cover Valens puts on it"
@@ -15885,6 +16020,23 @@ plot_threads:
     payoff_chapter: null
     status: "open"
     source: "ch-24:p151; foundation:§3; outline:ch-25"
+    ch26_beat: { chapter: 26, detail: "WRITTEN: about 16-19 months (derived); watches his sister; the knucklebone; walking; the stair; under the bed; holds Aelia for the named frame. The ninth-day naming before the street is still not shown", source: "ch-26:p8; ch-26:p20; ch-26:p84; ch-26:p98; ch-26:p113" }
+
+  aelia-infant:
+    description: "Aelia as a living child on the page: born off the page between Ch.25 and Ch.26; autonomous life in at least four chapters (foundation §3: Ch.26, 34, 38-44)"
+    opened: { chapter: 26, detail: "three weeks old at the open; greedy, grabbing, loud; the eighth-day crescent; held across Lucius's lap for the named frame", source: "ch-26:p5; ch-26:p17; ch-26:p19; ch-26:p113" }
+    beats_planned: [27, 34, 38, 39, 40, 41, 42, 43, 44]
+    payoff_chapter: 44
+    status: "open"
+    source: "foundation:§3; outline:ch-26; outline:ch-44"
+
+  valens-english-word:
+    description: "the one English word Valens asks for and uses wrongly and happily (outline Ch.26 beat 5)"
+    opened: { chapter: 26, detail: "'goodnight' given (p51); said at daybreak to Grata and to the dun (p53; p55)", source: "ch-26:p51; ch-26:p53; ch-26:p55" }
+    constraint: "ONE CHAPTER ONLY: no recurrence or callback after Ch.26 (outline Ch.26 writer warning; the book's no-tics law). A later 'goodnight' in English from Valens is to be logged as a contradiction"
+    payoff_chapter: 26
+    status: "closed_by_design"
+    source: "outline:ch-26; ch-26:p51"
 
 world_rules:
   - { rule: "THE LAW OF THE DOORS: a door takes back anyone who came through a door, from any time, through any mouth, but no one native to its side. Fenn's phrase 'it takes back the one it brought' states this exactly because his 'it' is ALL the doors as one ('one door with many mouths'): the cave brought Mara, so Pompeii's mouth takes her.", revised: "2026-10-18", source: "foundation:§9; foundation:§4d; foundation:§1; outline:ch-25; STATE:ARCH-16" }
@@ -16213,6 +16365,7 @@ organizations:
       - { fact: "1964 (Fenn): 'Six and a half games up with twelve to play'; Mauch starts Bunning and Short 'on two days' rest down the stretch'; Chico Ruiz steals home with Frank Robinson at the plate; 'they drop ten in a row'", source: "ch-25:p65" }
       - { fact: "1980 (Mara): won the World Series against Kansas City; Tug McGraw struck out the last man; the parade down Broad Street", source: "ch-25:p60; ch-25:p62; ch-25:p64" }
       - { fact: "Connie Mack (Fenn's ballpark; 'up in the cheap seats with a hot dog'); by 1998 its site on Lehigh Avenue is 'a fenced lot with a church going up on it' after a fire (Mara does not tell him)", source: "ch-25:p219; ch-25:p220" }
+      - { fact: "1964 (Fenn's letter): 'The Sunday after Chico Ruiz' (27 September 1964, derived) at Twenty-first and Lehigh, 'they've dropped six straight'; 'Johnny Callison hits three home runs. Three. Same afternoon.'; 'And we lose fourteen to eight.'", source: "ch-26:p25" }
     planned: "Fenn's obsession recurs Ch.26, Ch.29, Ch.35 (foundation:§3; outline:checks#4)"
 
   horn-and-hardart:
@@ -16222,3 +16375,10 @@ organizations:
       - { fact: "Fenn: 'Horn and Hardart, Chestnut Street' … 'a whole wall of little glass doors, chrome and glass, a piece of pie behind every door' for a nickel; coconut cream", source: "ch-25:p98" }
       - { fact: "Mara: 'They're gone,' … 'New York kept one going longest, and that's closed too.'", source: "ch-25:p99" }
     planned: "lemon meringue Ch.27; can't remember the pie Ch.35 (foundation:§3; outline:ch-35)"
+
+  florida-marlins:
+    canonical_name: "the Florida Marlins"
+    aliases: ["Florida"]
+    facts:
+      - { fact: "won the 1997 World Series against Cleveland in the seventh game, in extra innings ('in the eleventh'), 'a team that isn't as old as your car' (Emilio's voicemail, as Mara remembers it); a boy on the 34 wore the blue-green cap 'with the gold sticker still on the bill' all that fall", source: "ch-26:p60; ch-26:p61" }
+      - { fact: "Fenn: 'Florida, a ball club named for a fish, fine, I'll live'", source: "ch-26:p68" }

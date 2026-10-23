@@ -378,3 +378,42 @@ suggested_patches:
 | WARN-10/11 | 230, 48 | "I had spent none since Valens asleep in the fig's shade."; "my bags" |
 | WARN-12 | 140 | cut ", and I know who, and so will he, and soon" |
 | WARN-15/16/17/18 | 246, 38, 244, 190, 156, 210 | cut the mirror/lever sentence; cut "singly", "unasked,", "since the Kalends", "whole" ×2; "He had found the lid's groove…" |
+
+---
+
+## Repair log (book-editor, 2026-10-24)
+
+Pre-repair backup: scratchpad only (not in repo). `bash tools/check_chapter.sh 26` → **ALL MECHANICAL GATES CLEAN** (echo scan 0, tic gate clean, voice-wear strict clean, shape clean). After: shape 5,315 words (was 5,617); dialogue ≈11% (≈600 quoted words), above the 10% floor.
+
+| ID | Status | How |
+|---|---|---|
+| CRIT-001 | done | Audit swaps at l.88 ("pacing the shop", "until I came through"), l.120 ("that loud one in there"), l.122 ("came past at the tail and asked"), l.126 ("gap in the boards"), l.210, l.216 ("by the bed"), l.232 ("from the light-well"). Varied from the audit where the echo scan or the page objected: l.116 "stood in the shop opening with" (echo of Ch.20/21) → "At daybreak I had her in the shop as Valens passed with the string"; "in a clear voice that reached me" → "in a clear voice:" (she is a few feet away now); l.126 "The street came past the boards" (three "boards" in one paragraph) → "The street went by"; l.210 "went through to the back with it" (echo of Ch.13) → "carried it through", "Back in the shop," kept. No upper floor anywhere; the stair in l.184 is the outside roof stair. |
+| CRIT-002 | done | "Grata had it read out to every customer"; "me at my own accounts". |
+| CRIT-003 | done | "He watched me."; cut "not his arms, not his toes"; cut the ear and the eye-water from the focus line. |
+| CRIT-004 | done | Cut the d/vowel/Philadelphian clause. |
+| CRIT-005 | done | `"Don't move," I told Lucius in Latin.`; cut ", and moved nothing else". |
+| CRIT-006 | done | Cut the "Not … not … just" sentence; cut "and the Latin for half the fish in the bay". |
+| WARN-01 | done | Cut the damp-day clause. |
+| WARN-02 | done | "she heard". |
+| WARN-03 | done | Cut "and the summer" from the l.18 recap. Fenn's in-letter "the summer we go" untouched. |
+| WARN-04 | done | l.202 → `"Till autumn."` / "He was out and away, whistling." Also cut l.142 ("She was out in the rain again…"), so the pattern stands at one (Felix at dawn, l.122). Grata's section now ends on her own line. |
+| WARN-05 | done | "From the Chaldean? It's heavy for letters. It's gold, …" One "Is it" left (l.200). |
+| WARN-06 | done | All three cuts (Valens "seldom" clause, "who wasted nothing he had bought," and the sleep-habit sentence). |
+| WARN-07 | done | Cut the woman and the dog; "the boys and the bucket". To reach ≤1, also cut "at the ceiling" from Fenn's first letter ("talked American till the gulls started up"); the dun keeps the word. |
+| WARN-08 | done | Editor's ruling: trim, card unchanged. "The Sunday after Chico Ruiz they've dropped six straight and my sister's good coat's on already …"; "She won't take the trolley home, after. She starts walking." The 23 is now 1 of 2. |
+| WARN-09 | skipped | Editor's ruling: "very carefully" stays (outline image, protected closing line). |
+| WARN-10 | done | "I had spent no frames since the one of Valens asleep in the fig's shade." ("none" alone lost its noun after "the roll had not run out".) |
+| WARN-11 | done | "my bags since the Corycian". |
+| WARN-12 | done | Cut ", and I know who, and so will he, and soon". The grievance stays. |
+| WARN-13 | skipped | Outline cascade, orchestrator's call; no Ch.26 edit. |
+| WARN-14 | skipped | Outline cascade (Ch.35), orchestrator's call. |
+| WARN-15 | done | Cut the mirror/lever sentence; the frame ends "I let the shutter go." |
+| WARN-16 | done | Cut "singly", "unasked,", and "since the Kalends" at l.190. |
+| WARN-17 | done | "her fist"; "Lucius set about it." |
+| WARN-18 | done | "He had found the lid's groove with his thumbnail before I had finished reading." The lid stays shut, and no reason is given. |
+| WARN-19 | skipped | Ch.27 constraint only; no Ch.26 edit. |
+| I-16 | done | l.38 "until the bakers were at their oven" → "until near light" (bakers as a time marker down to 3). |
+| I-12 | skipped | "Who carries it?" stays. It is Fenn asking how the post works, not the closed frame. |
+| Other INFO | no action | As the audit says. |
+
+Protected text checked after the repair: the first sentence of the opening letter and the closing photograph sentence are unchanged; "Goodnight." is spoken once; the box stays unopened with no reason; Fenn's one voicemail outburst is intact; nothing the dialogue or disruption passes cut has come back; the mountain is not named.
