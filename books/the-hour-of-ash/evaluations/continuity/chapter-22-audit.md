@@ -426,3 +426,54 @@ suggested_patches:
     value: "the freedman (the brother's); the widow (off-page); the iudex; three assessors; our advocate; Celer's advocate; the water-clock slave; the dyer (4th name); the seasick merchant (7th name); the onion man / sneezer; the attendant; the gallery woman with a baby; two walnut porters; the Vestal girl; the ladder slave; Marcus's pedagogue; the reader of the will (next court)"
     reason: "coverage"
 ```
+
+---
+
+## Repair log (book-editor, 2026-10-23)
+
+**CRITICAL**
+- **C-01** done: the clause is cut to `"Valens," he said, and crossed to us.` and the next line stands.
+- **C-02** done: `I wet myself a little,` → `I sweated through my shift,`. The shift thread still holds: the wet shift on the steps, Myrrhine's stain and fuller, the shift soaking in the basin, "It is not her work.", and Plautia's gift with Myrrhine's morning line. The bible's "small wetting" entry is NOT edited (out of scope). The entity-tracker or orchestrator should replace it with "sweat through the shift".
+- **C-03** done: Myrrhine now says `I had my arm round you and my hand on her. I felt it.`
+- **C-04** done: `by two coached house slaves,`
+
+**WARN**
+- **W-01** done, with the orchestrator's override (no Sinuessa). The house paragraph now reads `…people with business at law, and we had a month in it before the court sat.` They reach Rome in March, about a week from Puteoli. The roof scene stays on the arrival evening, so its dating is undone:
+  - `Tomorrow my brother's advocate will read` → `When the judge sits, my brother's advocate will read`
+  - `Tomorrow you will sit beside me` → `On the day, you will sit beside me`
+  - Plautia's "eleven days" (her own time in Rome) still fits.
+  - The Parilia sentence is kept unchanged.
+- **W-02** done: `what he was saying to the brother.`
+- **W-03** done: `His toga had a purple border,`
+- **W-04** done: Myrrhine's line is the audit's version (the hip, the ear, the red ears). The spoon and the "He bit" ladder are gone, and so is "She walked a while".
+- **W-05** done: `"Who was on the roofs, and where the dogs were."`
+- **W-06** done, both: the l.306 opener is now `"In the street behind her litter," the advocate was saying, "at the door…`; l.66 is `In two years he never told me`.
+- **W-07** done: the "thought about it with her face toward the far hill" beat is deleted, and so is "a while" on the rim. "a while" is now 2 in the chapter and "far hill" is 1.
+- **W-08** done, both: `He had dropped our bag.` and `Valens waited with the witnesses along the pier.`
+- **W-09** done: the lying-awake sentence is deleted. S3 ends on "he slept."
+- **W-10** done: `under my hand the child had the hiccups` → `the child stretched in me from one hip to the other`. This is a slow stretch, which is physically right at about 6 months. It does not use the heel, a hand on the belly, a jolt (the laugh scene already has one) or a startle. "stretched" is used of the child in no earlier chapter.
+- **W-11** done: `and into the next court, Celer's bench included.`
+- **W-12** done: `stepped down two steps and along,`
+- **W-13** done: `counted out for two, and then for one again,`
+- **W-14** done: `for his turn,` The quote's punctuation on the page was a comma, not a full stop.
+
+**INFO taken**
+- I-11: `calf's ash, a horse's dried blood and bean stalks,`
+- I-13:
+  - seals: `pressed over the cord in a row`;
+  - linen: `fine Egyptian linen`;
+  - hill: `the second hill over lay dark already`. I did not use the audit's "the hill beyond the next", because "beyond the next" is a Ch.19 3-gram.
+- I-16:
+  - `She got me to my feet.`
+  - `his ears poked out on either side`. I dropped "of it": "out of it on" tripped voice-wear self-repeat.
+  - `were at their walnuts again`
+  - The crosswind line is now `He pitched it as he would hail the string in a crosswind,`. I did not use the audit's "He said it as…": "He said it as" repeats Ch.15, and after "Freed at Corinth." it formed the self-repeat "at corinth he said". Both are BLOCKING under voice-wear.
+
+**INFO not taken:** I-12 (no date on the page, guard only), I-16 "wound" ×3 and the body-part rulers (WATCH only, no defect), and I-01–I-10 and I-14–I-15 (no action needed).
+
+**After the repair**
+- `check_chapter.sh 22`: ALL MECHANICAL GATES CLEAN.
+- Prose 7,212 words (show_tell); file `wc` 7,551.
+- Dialogue 35.8%, above the 35% floor. W-13 and W-14 did not need restoring.
+- `tic_report.py --echoes 22`: 99 advisory echoes, down from 105. None of them comes from a replacement string. Spoken-line echoes are 0, and the one command-echo candidate is unchanged (reported speech).
+- Kept: the opening spiral, the name anchor, the sneeze, the testimony substance and Plautia's closing line, exactly.

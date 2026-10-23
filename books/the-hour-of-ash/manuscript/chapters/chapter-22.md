@@ -3,7 +3,7 @@
 #### *Rome · spring, AD 74*
 
 <!-- SCENE BUDGET (Target 7,600; Parallel, court / city in strict alternation, all in order; 7 breaks / 8 sections; gear high; dialogue 35-45%): S1 CITY arrival by hired chair (the long spiral), the freedman at Puteoli on the Kalends, Felix left with the string, the widow's house, Plautia's built hair, the roof and the far hill 1,100 | S2 COURT day one: the nave, four courts, the judge and his friends, the water clock, Celer's new pleasantries, the bill of sale against the leaf, the witnesses from Corinth, the assessor's uncle 1,450 | S3 CITY the night carts; where to stand, where to look 450 | S4 COURT day two: the onion man, the name to the back benches, the onion, the night told plain, the sneeze and the salves, the laugh in the body, walked out 1,450 | S5 CITY the steps, the gaming board and 1991, Myrrhine's cloak and shoes, the Forum whole, the Vestals' ashes 900 | S6 COURT the gallery: the tail of the questioning, the adjournment, the empty bench 500 | S7 CITY the amphitheatre in scaffolding, the child thought about once, the Parilia heaps 800 | S8 COURT the sentence is money; Celer on the steps, the ladder, the settlement; Marcus; Plautia's line 1,150 -->
-<!-- Word count: 7,481 (shape_check; style 7,495; show_tell 7,517) | Writer draft 2026-10-23 | Target: 7,600 | Dialogue 36% shape / 36.1% show_tell (band 35-45) | Breaks 7 / 8 sections | Median sentence 17 (gear high; Ch.21 was 12) | Opens long-spiral (77-word sensory sentence; hook SENSORY, not in medias res), closes dialogue (Plautia's plain spoken line; pull EMOTIONAL / DECISION-free, not question plant) | Em-dash 0 | as-if/as-though 2 | And-chains 6 (cap 9) | Negation pivots 0 | Credential asides 0 | Spoken Then-openers 2 | check_chapter.sh 22 ALL MECHANICAL GATES CLEAN | Anchor: Valens saying his own name to the back of the aisle, so the reader of the will next door loses his place and an idler at the back sits up -->
+<!-- Word count: ~7,180 prose (show_tell 7,212) | Writer draft 2026-10-23; continuity repair r1 2026-10-23 (4 CRITICAL, 14 WARN, INFO I-11/I-13/I-16) | Target: 7,600 | Dialogue 35.8% show_tell (post-repair) (band 35-45) | Breaks 7 / 8 sections | Median sentence 17 (gear high; Ch.21 was 12) | Opens long-spiral (77-word sensory sentence; hook SENSORY, not in medias res), closes dialogue (Plautia's plain spoken line; pull EMOTIONAL / DECISION-free, not question plant) | Em-dash 0 | as-if/as-though 2 | And-chains 6 (cap 9) | Negation pivots 0 | Credential asides 0 | Spoken Then-openers 2 | check_chapter.sh 22 ALL MECHANICAL GATES CLEAN | Anchor: Valens saying his own name to the back of the aisle, so the reader of the will next door loses his place and an idler at the back sits up -->
 
 Rome reached me first through the curtains of a hired chair, as noise: a stonecutter's mallet going somewhere overhead until a man on a scaffold drowned it, bawling down for his bucket, and was drowned in his turn by a peddler crying that he would take broken glass for sulfur matches, and the peddler by a dog that kept pace with the bearers half the length of a street giving its opinion of them, and all of it, whenever the poles swung riverward, by the smell of the Tiber, which was black mud, old drains and wet rope.
 
@@ -17,7 +17,7 @@ The freedman had arrived at the harbor wine shop in Puteoli on the morning of th
 
 Felix had stayed in Pompeii with the string, which the contractor had taken for the spring, and with Grata to feed him. He trailed our cart as far as the Herculaneum Gate, kicking a stone along ahead of him, and at the gate he booted it over the verge and turned home for the mules.
 
-The house the brother had taken for the suit stood high on the Quirinal in a street of blind walls and good doors. It belonged to a widow who let it by the month to people with business at law, and her husband's family still lived in the hall, in a row of painted cupboards along one wall with their little doors shut; the crack of one showed the yellow wax of somebody's nose.
+The house the brother had taken for the suit stood high on the Quirinal in a street of blind walls and good doors. It belonged to a widow who let it by the month to people with business at law, and we had a month in it before the court sat. Her husband's family still lived in the hall, in a row of painted cupboards along one wall with their little doors shut; the crack of one showed the yellow wax of somebody's nose.
 
 Plautia was standing by the rain pool when the bearers set the chair down. She kept her place while I was extracted from it, which took the porter and Valens both, and while I found my feet on the widow's marble, and I had leisure enough for her hair.
 
@@ -39,15 +39,15 @@ She looked at the freedman, and the freedman found something that needed him in 
 
 "That was not my question." She crossed the marble then and took both my hands, and held them out from my sides so that she could see the rest of me, and her fingers were cold. "Valens. Does it weigh on her?"
 
-He had dropped our bag by the doorpost and stood with the street in view past the porter's shoulder. "She doesn't say."
+He had dropped our bag. "She doesn't say."
 
-"No. She would not." Plautia let my hands go and turned to him. "My brother had the freedman's purse counted out for one traveler, and then for two, and then for one again, and he would have sworn to you that it would be one, or none at all."
+"No. She would not." Plautia let my hands go and turned to him. "My brother had the freedman's purse counted out for two, and then for one again, and he would have sworn to you that it would be one, or none at all."
 
 "We were at Puteoli on the Kalends."
 
 "So the freedman wrote. He was a little hurt by it; he had brought a book along to read while he waited, and never got past the first column. Myrrhine will show you the room."
 
-In the evening the men dined with our advocate, and Plautia and I climbed a ladder onto a corner of the roof where the widow kept rosemary in pots, a row of them along the parapet in good red ware with a stamped rim, one of which had been mended across the belly with lead staples by somebody who knew what he was doing. From there, over the near roofs and the smoke of the valley between, the next hill along lay dark already, pricked by a few lamps.
+In the evening the men dined with our advocate, and Plautia and I climbed a ladder onto a corner of the roof where the widow kept rosemary in pots, a row of them along the parapet in good red ware with a stamped rim, one of which had been mended across the belly with lead staples by somebody who knew what he was doing. From there, over the near roofs and the smoke of the valley between, the second hill over lay dark already, pricked by a few lamps.
 
 "That is a good pot," I said. "Whoever stapled it was better at his trade than whoever threw it."
 
@@ -55,7 +55,7 @@ In the evening the men dined with our advocate, and Plautia and I climbed a ladd
 
 "So it does."
 
-She left her hand on the rim a while, then took it away and put both hands under her cloak. "Tomorrow my brother's advocate will read my dowry out to the court piece by piece, as though I were the hold of a ship, and the advocate across the aisle will say that the sixth part he kept back from it was the price of my character, which the law allows him, and nobody will ask me a single thing, because I am the one person in the whole matter whom nobody needs to hear. What will they ask him?"
+She left her hand on the rim, then took it away and put both hands under her cloak. "When the judge sits, my brother's advocate will read my dowry out to the court piece by piece, as though I were the hold of a ship, and the advocate across the aisle will say that the sixth part he kept back from it was the price of my character, which the law allows him, and nobody will ask me a single thing, because I am the one person in the whole matter whom nobody needs to hear. What will they ask him?"
 
 "His name."
 
@@ -63,7 +63,7 @@ She left her hand on the rim a while, then took it away and put both hands under
 
 "And he will say what happened."
 
-"He has no other way of speaking. In two years behind my chair he never told me a thing was well when it was not, not the weather and not my husband's temper. Of everything about him, that alone ever frightened me."
+"He has no other way of speaking. In two years he never told me a thing was well when it was not, not the weather and not my husband's temper. Of everything about him, that alone ever frightened me."
 
 She turned to the far hill. "The Esquiline. My son is over there with his nurse, in a house his father has taken for the year, because a candidate for the praetorship must be seen to dine in Rome. He was born the autumn after the fire, when half this city was still black, and his father's mother had him wrapped in a shawl that smelled of smoke for a month, because nothing in her house would wash clean." She did not point. "I have stood here every evening for eleven days. Did he come because you asked him to?"
 
@@ -73,7 +73,7 @@ She turned to the far hill. "The Esquiline. My son is over there with his nurse,
 
 "It is the only answer I have."
 
-She thought about it with her face toward the far hill. "Then I shall take it. Tomorrow you will sit beside me, and you will not touch my veil, whatever I do with my hands."
+"Then I shall take it. On the day, you will sit beside me, and you will not touch my veil, whatever I do with my hands."
 
 * * *
 
@@ -81,21 +81,21 @@ The Basilica Julia was bigger inside than the concourse at Thirtieth Street Stat
 
 The judge had a chair on the platform and three of his friends on stools below him, to advise him. He was a lean old senator with the broad purple stripe on his tunic, and he listened with closed eyes and his hands folded on his stomach, so that for most of the first hour I took him to be asleep. At the platform's corner a slave sat beside a water clock, a bronze bowl on a stand with a jar beneath it. When an advocate rose the slave pulled a peg, and the water began to run, and when the jar was full the advocate's time was gone.
 
-Plautia sat on the front bench behind our advocate, her veil drawn up to the eyes, between her brother and me, with Myrrhine at my elbow. Her brother was a heavy man with her nose and none of her stillness. Valens waited with the witnesses along the pier, with the whole aisle in front of him and the way out at both ends of it.
+Plautia sat on the front bench behind our advocate, her veil drawn up to the eyes, between her brother and me, with Myrrhine at my elbow. Her brother was a heavy man with her nose and none of her stillness. Valens waited with the witnesses along the pier.
 
 Celer came in late with eight or ten friends about him, all talking. He was browner than at Corinth, and his toga was new again. He saw Valens before anyone, and his face lit.
 
-"Valens," he said, and crossed to us with his hand out, and when the hand was not taken he used it to settle the fold at his shoulder. "They tell me it's Valens now. I've been practicing it on my steward. And Mara has come all this way." He smiled down at me past Plautia's veil. "You'll have found Rome's all stairs. We're born to it here; the rest of you suffer. Somebody should have warned you." He went to his bench, and his friends sat round him like a family at the theater.
+"Valens," he said, and crossed to us. "They tell me it's Valens now. I've been practicing it on my steward. And Mara has come all this way." He smiled down at me past Plautia's veil. "You'll have found Rome's all stairs. We're born to it here; the rest of you suffer. Somebody should have warned you." He went to his bench, and his friends sat round him like a family at the theater.
 
 Our advocate, when he rose, was a short, square man with a hoarse voice and no gestures at all, and he read the dowry out in it: so much in coin and so much in land, a Syrian girl named Doris, earrings, a lampstand on lion's paws.
 
-"At the divorce," he said, "the defendant gave back all of that but a sixth, which he kept for misconduct. Misconduct proved by two house slaves who were told where to stand, and by the defendant's word, which he gave very sorrowfully, and by nothing else. One other person under that roof knew what was true. He is here. The court can hear him tomorrow."
+"At the divorce," he said, "the defendant gave back all of that but a sixth, which he kept for misconduct. Misconduct proved by two coached house slaves, and by the defendant's word, which he gave very sorrowfully, and by nothing else. One other person under that roof knew what was true. He is here. The court can hear him tomorrow."
 
 The jar filled. Celer's advocate rose.
 
 He was young, with a beautiful voice, and he kept his left hand inside the fold of his toga and spent the right one on the air.
 
-"The court will not hear that man tomorrow," he said, "nor on any day. He is my client's property, bought off the lanista at Corinth a full month ahead of Caesar's games, and paid for in silver." He raised the bill, two boards bound with cord, with the seals hanging from the cord in a row like fruit. "I need not remind this court that a slave is not heard against his master. If the lanista afterward, with Caesar watching and the crowd on its feet, chose to free a man he had already sold, the show was the lanista's, and the clerk only copied it into his wax. Written fair, a mistake is still a mistake."
+"The court will not hear that man tomorrow," he said, "nor on any day. He is my client's property, bought off the lanista at Corinth a full month ahead of Caesar's games, and paid for in silver." He raised the bill, two boards bound with cord, with the seals pressed over the cord in a row. "I need not remind this court that a slave is not heard against his master. If the lanista afterward, with Caesar watching and the crowd on its feet, chose to free a man he had already sold, the show was the lanista's, and the clerk only copied it into his wax. Written fair, a mistake is still a mistake."
 
 "Then the court should see the copy," said our advocate, and handed up the leaf.
 
@@ -129,13 +129,13 @@ Celer's advocate let both of them go without a question.
 
 The youngest of the judge's three friends had the bill on his knees. He was turning the first board toward the light from the arcade, and then he leaned up to the judge's chair and said something, and the judge's eyes opened again.
 
-"My friend's uncle was consul that year, for his two months," said the judge. "Your bill makes him consul in a month he spent at his villa at Tibur, complaining of the fellow who had the office."
+"My friend's uncle was consul that year, for his turn," said the judge. "Your bill makes him consul in a month he spent at his villa at Tibur, complaining of the fellow who had the office."
 
 "A steward's slip of the stylus," the young advocate said.
 
 "My uncle will be sorry to hear it," said the young man on the stool. "He'd have liked the extra months."
 
-That laugh went all round our aisle and into the next court, and Celer laughed at it with the rest. He sent his slave over with a cup of something cool for the seasick witness, and while the clock's jar was being emptied he leaned out from his bench toward Plautia's brother.
+That laugh went all round our aisle and into the next court, Celer's bench included. He sent his slave over with a cup of something cool for the seasick witness, and while the clock's jar was being emptied he leaned out from his bench toward Plautia's brother.
 
 "Your man has a carter's lungs. I'd hire him myself if I could get him away from you; mine sings."
 
@@ -179,7 +179,7 @@ He lay still under it. It came again under his palm, a hard small push, and went
 
 He was silent until I thought he slept. A second cart went by with a bad wheel, or the earlier one returning; somewhere near the river a drover started singing.
 
-"I'll talk to them," he said, and turned on his side toward the wall, and through the carts, and the singing, and the knocking of the next wheel and the next, he slept. I lay awake with the child's foot in my palm until the shutters went gray.
+"I'll talk to them," he said, and turned on his side toward the wall, and through the carts, and the singing, and the knocking of the next wheel and the next, he slept.
 
 * * *
 
@@ -193,7 +193,7 @@ Valens went to the end of the platform in a tunic of the brother's, fresh from t
 
 "Gaius Iulius Valens. Freed at Corinth."
 
-He gave it the voice he used on the string in a crosswind, and it went the length of the aisle and out beneath the arcade. Beyond the curtain, the reader of the will lost his place in it, and had to be told where he had got to. At the back, an idler who had been asleep against a pillar there came off it upright and asked the man next to him something, and the man next to him said the name back.
+He pitched it as he would hail the string in a crosswind, and it went the length of the aisle and out beneath the arcade. Beyond the curtain, the reader of the will lost his place in it, and had to be told where he had got to. At the back, an idler who had been asleep against a pillar there came off it upright and asked the man next to him something, and the man next to him said the name back.
 
 Plautia's hands were in her lap, and she had taken the fringed edge of her veil between two fingers.
 
@@ -243,7 +243,7 @@ It was a sneeze that started far off and gave notice of itself. His head went ba
 
 Valens kept the next word ready and waited while the court finished wishing the man good health.
 
-It started under the child: I felt it begin there, a jolt low down, and the child jolted back at it, and then it was up in my shoulders and would not leave them. I bent forward over the child, as far as it allowed, and gripped the bench's edge in my two fists, and the bench shook under them. Myrrhine's thigh was against mine, and I felt her feel it, and to my left Plautia went stiller than she already was. My eyes ran, and my nose ran with them. My heels had begun knocking on the marble by themselves, and nothing in my legs would stop them. Somewhere in all that I wet myself a little, which was the worst thing yet and made it much worse. He sneezed again, smaller, and one old voice at the rear of the aisle said "Salve" to him all by itself, kindly, and that finished me.
+It started under the child: I felt it begin there, a jolt low down, and the child jolted back at it, and then it was up in my shoulders and would not leave them. I bent forward over the child, as far as it allowed, and gripped the bench's edge in my two fists, and the bench shook under them. Myrrhine's thigh was against mine, and I felt her feel it, and to my left Plautia went stiller than she already was. My eyes ran, and my nose ran with them. My heels had begun knocking on the marble by themselves, and nothing in my legs would stop them. Somewhere in all that I sweated through my shift, which was the worst thing yet and made it much worse. He sneezed again, smaller, and one old voice at the rear of the aisle said "Salve" to him all by itself, kindly, and that finished me.
 
 The front of the court had gone to a blur. I heard the judge say, "Take the lady outside," and heard the beautiful voice of Celer's advocate say that the defendant had no objection whatever to the lady's being taken outside, none, and then there was a hand under my elbow and a staff close by my cheek, and one of the basilica's attendants was lifting me off the bench without any hurry at all; from his manner, this was his daily work. Myrrhine took my other arm, and together we walked the aisle past the sneezer, who twisted round on his bench to watch me go, wiping his nose on his wrist and very interested.
 
@@ -263,7 +263,7 @@ Myrrhine shook out the cloak she had over her arm and spread it on the step.
 
 "Valens."
 
-"He stood and waited for the bench to stop. He's good at waiting, that one. I was holding you up; I'd only an eye for you." She worked her toes on the warm marble. "She was shaking too, my lady. Under the veil. I had my elbow in her side and I felt it. You didn't see that."
+"He stood and waited for the bench to stop. He's good at waiting, that one. I was holding you up; I'd only an eye for you." She worked her toes on the warm marble. "She was shaking too, my lady. Under the veil. I had my arm round you and my hand on her. I felt it. You didn't see that."
 
 "Laughing?"
 
@@ -283,7 +283,7 @@ Beside my hip the step had a gaming board scratched in it, a grid of little roun
 
 "Walk, then. Your legs will stop shaking if you give them something to do."
 
-She hauled me to my feet. I had known this place as stumps and lines in the grass, as columns that stopped at the knee and a guide's paper plan held flat against the wind, and it was all standing. Facing the Basilica's steps, where I had sat with my peach under three tall columns holding up a scrap of cornice and no more, the temple of Castor stood whole on its high platform, every column of it, with its roof on and the acanthus on its capitals painted, and men sitting on its steps to do business in the shade. The round temple of Vesta had a wisp of smoke rising from the middle of its roof. Outside it, a line of women waited with little dishes in their hands, and a girl in white above them was spooning gray ash into each dish from a crock: calf's ash, and blood dried on bean stalks, against the Parilia, to be burned and stepped through. Ovid had stood in that line once with his hands full, and the women in it now gossiped and moved up.
+She got me to my feet. I had known this place as stumps and lines in the grass, as columns that stopped at the knee and a guide's paper plan held flat against the wind, and it was all standing. Facing the Basilica's steps, where I had sat with my peach under three tall columns holding up a scrap of cornice and no more, the temple of Castor stood whole on its high platform, every column of it, with its roof on and the acanthus on its capitals painted, and men sitting on its steps to do business in the shade. The round temple of Vesta had a wisp of smoke rising from the middle of its roof. Outside it, a line of women waited with little dishes in their hands, and a girl in white above them was spooning gray ash into each dish from a crock: calf's ash, a horse's dried blood and bean stalks, against the Parilia, to be burned and stepped through. Ovid had stood in that line once with his hands full, and the women in it now gossiped and moved up.
 
 "What are they buying?" said Myrrhine.
 
@@ -303,13 +303,13 @@ The woman wedged in beside me had a swaddled baby sleeping in the crook of her a
 
 "Oh, him." She turned her shoulder, baby and all, to the will again.
 
-"Two years behind the lady," the advocate was saying, "in the street behind her litter, at the door of her bath, on the floor outside her room at night, so you tell us, with one door between you: a man young and strong, unmarried, used to taking what the crowd threw him, and she not thirty and, by every account but my client's, unhappy. Did you never want her?"
+"In the street behind her litter," the advocate was saying, "at the door of her bath, on the floor outside her room at night, so you tell us, with one door between you: a man young and strong, unmarried, used to taking what the crowd threw him, and she not thirty and, by every account but my client's, unhappy. Did you never want her?"
 
 "I watched the street."
 
 "The street."
 
-"Who was in it. Who was on the roofs, and in the doorways. Where the dogs were."
+"Who was on the roofs, and where the dogs were."
 
 "And the steward paid you, you say. Masters give slaves an allowance; that is not wages."
 
@@ -357,7 +357,7 @@ He slept on his back before the lamp had burned down a finger's width. Later Pla
 
 "It is not her work."
 
-"All the work in this house is hers; she has decided so." She laid the folded thing across the blanket at his feet, and I saw that it was a shift of her own, fine Coan linen with a border worked in green at the neck, much better than mine. "It will be long on you. Turn the hem up. Were you watching his face, when he said where he slept?"
+"All the work in this house is hers; she has decided so." She laid the folded thing across the blanket at his feet, and I saw that it was a shift of her own, fine Egyptian linen with a border worked in green at the neck, much better than mine. "It will be long on you. Turn the hem up. Were you watching his face, when he said where he slept?"
 
 "No."
 
@@ -371,7 +371,7 @@ The lake was gone, and in its place stood the beginning of the amphitheatre, alr
 
 The blocks went up dry, without mortar. I watched a gang set one on the top course: they lowered it onto the one below, levered it into line, and then a boy with a ladle edged along the scaffold from a brazier and poured lead into the socket where an iron cramp tied it to its neighbor. The lead fumed white and sweet-smelling, and the boy blew on his ladle and trotted off to the fire for more. The stone had holes in it of its own, like bread. I stood at the barrier and watched them fill the next socket and the next.
 
-It was a place for men to fight in, while a whole city watched them. I thought that, standing in the white dust, and under my hand the child had the hiccups. Then a carter bellowed at us to stand off from his oxen, and Myrrhine hauled me back, and the cart went past so close that the stone on it left its dust on my arm.
+It was a place for men to fight in, while a whole city watched them. I thought that, standing in the white dust, and the child stretched in me from one hip to the other. Then a carter bellowed at us to stand off from his oxen, and Myrrhine hauled me back, and the cart went past so close that the stone on it left its dust on my arm.
 
 "And what will it be?" said Myrrhine.
 
@@ -385,7 +385,7 @@ It was a place for men to fight in, while a whole city watched them. I thought t
 
 We went home by the Argiletum, for its shops, and she walked the whole of it barefoot, over whatever the paving had on it, talking. She had been given to Plautia at her wedding, out of her father's house, a girl of twelve to carry the bride's slippers.
 
-"I had the boy on my hip the whole of his first year. He bit everything. He bit a silver spoon flat, and I bought its twin off the smith by the theater, quick, before the steward counted them, and he bit that." She walked a while. "He bit my ear and hung on, and laughed, and his ears went red, and I couldn't get him off."
+"I had the boy on my hip the whole of his first year. He bit my ear and hung on, and laughed, and his ears went red, and I couldn't get him off."
 
 "Will he know her?"
 
@@ -415,7 +415,7 @@ Her brother faced Valens, now standing beside the bench.
 
 Celer came across the aisle to shake our advocate's hand, and the brother's. "Perfectly right, of course. I'd have found the same myself; I said so to my man at breakfast, and he'll swear I did." Then he went out first, still talking, and waited for us outside in the sun.
 
-A slave stood on a ladder against the nearest pier there, tying a swag of greenery under the cornice for tomorrow. Celer stepped down two steps into the sun and along, round the foot of the ladder, and climbed back beyond it without once losing the thread of what he was saying to the brother's advocate.
+A slave stood on a ladder against the nearest pier there, tying a swag of greenery under the cornice for tomorrow. Celer stepped down two steps and along, round the foot of the ladder, and climbed back beyond it without once losing the thread of what he was saying to the brother.
 
 "... and I'm told your man said something on the second day about the Cornelian law. Nobody wants the Cornelian law. Do we? My steward's old and wretched about it all, I've had him in tears twice; he'll see to the silver, he likes to be useful. We'd all like a quiet summer." One of his feet had begun to go on the step. He turned to Plautia with the air of having just thought of it. "The lady shall have the boy to dine at her brother's every market day while she's in Rome, and at Corinth whenever she sends for him, and the nurse with him, of course. And let's have no more talk of laws. I had him brought down this morning. I thought, why not begin today? It's spring."
 
@@ -427,13 +427,13 @@ Celer kept Valens for last. "You've a carrying voice, Valens. I'd forgotten it."
 
 Celer laughed, delighted. "And Mara. I hear there's to be a child; my congratulations, truly. They grow so fast. You look round, and there's a boy at the bottom of the steps who wants his dinner." He descended to his litter, and his friends went with him.
 
-The boy waited where the steps met the street, with a Greek pedagogue's hand on his shoulder. His new tunic had a purple border, and his hair had been wetted and combed flat, and his ears stuck out from it on either side. He held himself very straight, and when the pedagogue released him he climbed toward his mother a step and then the next, each one counted out for him beforehand by somebody, and stopped two below her.
+The boy waited where the steps met the street, with a Greek pedagogue's hand on his shoulder. His toga had a purple border, and his hair had been wetted and combed flat, and his ears poked out on either side. He held himself very straight, and when the pedagogue released him he climbed toward his mother a step and then the next, each one counted out for him beforehand by somebody, and stopped two below her.
 
 "Mother, I greet you," he said. "I hope that I find you well, and I am to say that I am glad to see you." He stared at her hair. "Your hair's different. Does Uncle's dog still bite? The one on the chain? Does it remember me?"
 
 "It bit a magistrate last summer," said Plautia.
 
-He climbed the last two and caught the edge of her veil, where it hung at her elbow, and held on to it. She kept her hands empty and let him hold it. The porters were still at their walnuts on the step by my feet; one of them won something, and swore happily.
+He climbed the last two and caught the edge of her veil, where it hung at her elbow, and held on to it. She kept her hands empty and let him hold it. The porters were at their walnuts again on the step by my feet; one of them won something, and swore happily.
 
 Then Plautia lifted her eyes from her son, and found Valens on the step above me, and looked at him a while.
 
