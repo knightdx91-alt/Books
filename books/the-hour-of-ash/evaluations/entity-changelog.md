@@ -3357,3 +3357,81 @@ Open contradictions: 33 → 37.
   - Every single-quoted Ch.24 fragment on the added lines was checked by script against the page. The one misquote ("like a jar …") was corrected to the page's "how a man held a jar …". The other unmatched fragments are plan or other-chapter quotes.
   - The file holds 365 characters, 115 locations, 169 objects, 20 organizations, 69 plot threads, 123 world rules, 238 timeline_events and 167 contradiction rows.
   - **57 open** (54 before; +3 CH24-1..CH24-3; none closed).
+
+## 2026-10-23: RE-SYNC (chapter 24, "Lucius", FINAL page)
+
+- **Page read:** chapter-24.md at 8b2a8b2, md5 e4e8a96c4daf71d055fc0d823a6b363c. This is after the continuity repair 5a2c4a7 (CRIT-001..006, WARN-01..15, INFO-03/07/10/12, entity CH24-2; repair log in evaluations/continuity/chapter-24-audit.md), the evaluator fix set 8a7f7c6 (F1-F7) and the finalize FN1-FN3 (evaluations/chapter-24-eval.md). Working tree clean for the chapter.
+- **Numbering:** 235 → 229 paragraphs.
+  - Old p1..p139 = new p1..p139.
+  - Old p140 and p141 are recast as one sound-only paragraph, new p140.
+  - CUT: old p142-p144 (the stone at the thigh; "To the mule."; the husband snoring) and old p198-p199 (the cold lentils; "He lay wide").
+  - Old p145..p197 = new p141..p193. Old p200..p235 = new p194..p229.
+  - Breaks are now after p38, p67, p93, p117, p148, p179, p207 and p226. Stamp lines are p2, p39, p68, p94, p118, p149, p180, p208 and p227.
+  - Renumbered by script: 557 explicit ch-24 cites, plus 284 bare Ch.24 refs (in the CH24-x blocks, in ch24_requested_checks, on Ch.24-only lines, and in the ch24_* fields of mixed lines).
+  - By hand: the eagle-stone resolution paragraph (216 → 210) and lucius-infant.open_items.
+  - History lines (header comments, the post-disruptor paragraph_rule clause) are left as they were.
+- **Rewritten to the page:**
+  - **The rival midwife:** now "There's one near the water tower," (p79). There is no gate on the page and no "Vesuvius" in the chapter.
+    - `vesuvius-gate-midwife` is renamed `water-tower-midwife` (former_slug kept), and Statia's relationship key follows it.
+    - NEW location `pompeii-water-tower`.
+    - `vesuvius-gate` stays as a world entity, sourced only to outline:ch-19's "do not name a 'Vesuvius Gate'", with no Ch.24 cite.
+    - Pompeii's Ch.24 fact drops the Via dell'Abbondanza and the Vesuvius Gate. The street is still unnamed on every page.
+  - **The watch winding (p229):**
+    - The page now reads: "It was Valens, on the bed beside me. The child slept against my left side. Valens had my hand palm down on his knee. He was working the watch's little crown a click at a time, and I felt each click in the small bones of my wrist. When it would turn no farther he tucked my hand under the sheet."
+    - Rewritten from this: the windings row, the custody row, `wrist_ch24`, Valens's possession note, relics-watch, Lucius's `ch24_note` (against her left side, not on Valens's chest) and Valens's lucius relationship.
+    - RIGHT wrist and the stop still agree.
+  - **Valens's evening:** "Valens had the mules bedded by the eleventh hour." (p28). Updated: the Valens work trait, location_log 24 (the stalls) and timeline row 24.
+  - **Carried:**
+    - "For the boy." / "For the girl, then." (gratas-husband trait).
+    - "Dice clicked in his fist".
+    - The cord cut "beyond the tie" and "long bands of soft wool" (Lucius birth, Statia's craft, statias-knife, world rule).
+    - "the aedile's men" (fuller's wife).
+    - "twice your size" (statias-mother).
+    - "In the Soranus I had read" (Mara's asides, soranus).
+    - The fontanelle "Toward the brow" with no crown.
+    - "I made a noise." and the legs "The shaking was back in my legs, and the stool rocked under me." (Mara's `childbirth_ch24`).
+    - "burned where he was coming".
+    - "his spine was all there".
+    - The glue "had set in a brown run down the leg" / "I could have cleaned it off in an evening" (stool, Mara trait).
+    - Grata "perched on the bed, her knees bracketing my back".
+    - Grata's brazier "in the shop".
+    - The dittany smoke without the flies.
+    - Mrs. Dunphy's "the long division half written" (memory_ch24, mutations row).
+  - **Marked CUT or removed as page facts:**
+    - The Philadelphia reading room and the postcard.
+    - "who wrote the book on midwives".
+    - "horn in his hair".
+    - The husband asleep across his counter (gratas-thermopolium, his trait).
+    - "To the mule."
+    - The stone knocking at her thigh.
+    - The Oscan to the bag strap.
+    - "He lay wide" / "I'm never wrong about wide" and "finished the lentils cold" (Statia).
+    - "by inches" and "He did not move his feet at all."
+    - "He cried at the ceiling."
+    - The warm plaster and the party wall.
+    - "told the dark".
+- **Audit's suggested patches (applied where they match the page):**
+  - Statia's teeth: three notes (p9; p132; p152).
+  - The rival "near the water tower".
+  - The dun's "She'll walk tender on the paving a day or two." (p222), added to the mules note.
+  - The watch row.
+  - Felix's horn CUT.
+  - Grata's back room: brazier in the shop, loom p11.
+  - Already present and matching p59: the Chaldean knowledge rows for gratas-husband and Mara, and lucius.
+- **Flags:**
+  - **CLOSED:** CH24-2. The page now has the mules bedded by the eleventh hour, not Valens back off the string. Against Ch.20's noon stop in the hot months (ch-20:p85) that leaves one value. "That arm's carried lime since dawn." (p38) fits a dawn-to-noon day.
+  - **Rechecked, still open:**
+    - CH24-1 (info). Every cited line stands. The winding is rebuilt but still has no "wind" or "forward", and she is "mostly asleep"; the other wording departures are unchanged.
+    - CH24-3 (info), narrowed. The class clause is CUT ("the long division half written"). Colour, flaw and place still differ from Ch.7 by design.
+  - **NEW:** CH24-4 (info). The winding's "a click at a time" to a stop (p229), against Ch.6's "the small loose click it gave when you went backward" (ch-06:p130) and Ch.1's forward "small dry ratchet" (ch-01:p191). This is compatible: only the forward turn has a stop (Ch.6's rule, ch-06:p305). Recorded, not judged.
+  - **CRITICAL:** none. **knowledge_gap:** none.
+- **meta:** header note, `last_updated_by`, `mode`, `source`, the Ch.24 RE-SYNC clause in `paragraph_rule`, a `revalidation_needed` chapter-24 row (RESOLVED) and a `ch24_requested_checks` re-sync row. The earlier Ch.24 check rows are annotated with RE-SYNC notes.
+- **Not touched:** the manuscript, character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed. The bible still says "the rival at the Vesuvius Gate" (character-bible.md l.4014, 4894, 4902). That belongs to the bible sync and was not edited here.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - All 558 ch-24 cites fall in p1..p229.
+  - No CUT placeholder is left.
+  - Every single-quoted Ch.24 fragment that was on the post-disruptor page but is gone from the final page now sits under a RE-SYNC/CUT note, or in a kept post-disruptor `prose` field beside its `prose_final`/`recheck_final`.
+  - The quote-to-cite check leaves only pre-existing loose cites. No new mis-cite came from the renumbering.
+  - The file holds 365 characters, 116 locations, 169 objects, 20 organizations, 69 plot threads, 123 world rules, 238 timeline_events and 168 contradiction rows.
+  - **57 open** (57 before; −1 CH24-2, +1 CH24-4).
