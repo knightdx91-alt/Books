@@ -1569,6 +1569,42 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   today."; last entry dated July 21, 1968 (going in "tomorrow first thing", back before Labor Day).
   Consulate carbon dated 16 Sept 1968: one gray wool overcoat with contents of pockets, forwarded to Miss
   Margaret Fenn. No enumerating anywhere; the handwriting change is carried by Mara's description.
+- **Ch.25 as written (Writer draft 2026-10-24; the page will be re-synced at finalize):** **On-page voice, English:** contracted,
+  1968, runaway "and"-chains when a subject has him (the 1964 collapse; the snow at the cave mouth; the town that "rises and sinks like a
+  fat man asleep"; the carter's story of 62), clipped when hit ("A bus." / "Shut tight." / "Kid, I wrote it."); he asks and refuses the
+  answer ("Did they get to the moon?" / "Don't you dare,"), and he talks faster when Valens moves toward the stair (the lonely-host
+  subtext is shown, never said). **Greek:** courtly and formal, no contractions ("Sir, forgive me my manners; I am old." / "Leave him,
+  sir," … "He is improving it." / "They will be in good Greek, … and very handsome."). **He sees people last:** looks round at the
+  doorway "at last"; looks at Lucius "properly then, with his whole face"; studies Mara only when she says she mends things. **Idiom pool
+  used in Ch.25 (count against the ≤2 book-wide cap):** *Jesus H. Christ* 1 (its one use, SPENT); cripes 1 ("Well, cripes"); holy smoke 1
+  (not in the pool; ≤2); whaddaya know 1; for crying out loud 1; on the level 1; swell 1 ("This is swell."); terrific 1; search me 1;
+  beats me 1; get out (of here) 2 short reactions (WATCH: rest it in Ch.26–27); kid 2 (address, WATCH: ≤1 per later chapter, never a
+  refrain); okay 2. **Period references used:** Connie Mack 1, Horn & Hardart on Chestnut Street 1, Mauch / Bunning / Short / Chico Ruiz
+  stealing home with Frank Robinson at the plate 1 each, the Graves book 1, the Inquirer 1, the 34 trolley on Baltimore Avenue 1, the
+  23 on Germantown Avenue 1. **Chaos on the page:** the Phillies, first mention (1980 told him; 1964 argued); the automat, coconut cream
+  ("The top was always a little damp, like it had been crying."), triggered by Mara's copper (Vespasian's neck), mutation 1 of 3 — Ch.27's
+  lemon meringue must be triggered by something else, and the copper/nickel trigger is SPENT; sunk cost (the worst jar on the quay,
+  "You finish what you pay for. Otherwise why'd you pay?"). **The law, worded once:** "One door with many mouths" (SPENT verbatim);
+  "It takes back the one it brought. It brought you, so it'll take you." (allowlist use 1 of 3, the promise); "breathe with the earth"
+  1 of 2; hours, "A night, tops, never days." **The WHEN:** "Late summer, seventy-nine." (verbatim 1 of 2; paraphrase after). **The
+  failed dates:** 71 (spring) and 73 (October, around the Ides; it rained the second night), three nights each on Eros's bench; after 73
+  he "ran the tables backward" from the schoolbook year; "Vesuvius blows its top" (the mountain's name, ONCE, in his mouth only).
+  **Others:** "Wondered with who?" … "I've always been on my own. There was never anybody to try it on." … "No idea." (left unknown).
+  **Margaret:** not said by anyone. "estate sale … In Chestnut Hill. The October before I came over. Ninety-seven." → "He did not ask
+  whose." → the bad hand held down under the other → "The 23 still run up Germantown Avenue?" / "It's a bus now." / "A bus." He refuses
+  the notebook: "Keep it. I know what's in it." / "Kid, I wrote it." The almost-said home line ("walk up the front steps and ring
+  the...") is the only approach to her; Ch.35 owns the name. **His room (never furnished):** the rolled sleeping mat, two robes on a
+  peg, a lamp on the floor with no stand, and a packed oiled-leather bag by the door with a carrying stick through the handles and dust
+  on top. **New facts (canon from the page):** the Navy taught him celestial navigation ("nineteen fifty-two, on a tin can off Korea");
+  landed in snow in AD 41, learned Claudius's name in the market at Amphissa; lived two years in Phocis; Misenum with the fleet before
+  62; in Puteoli since he "first came over from Misenum" (his Kalends marks by the quay's mooring rings, "eleven years"); teaches rich
+  men's boys triangles in the mornings in a house on the hill; a bathhouse keeper on the hot ground tells him when his pool clouds; a
+  Neapolitan widow did his laundry and "thought I ought to"; the "Augurinus" joke (Augie/augur) "nobody in this country gets but me",
+  and Mara gets it; he writes her address (Grata's) and Lucius's hour in charcoal on his sky wall; he promises his tables "every figure,
+  worked out" and Lucius's stars with his first letter. **Physicality used:** ink-black nail; the left-hand tremor (3 notes: on the
+  table, "shaking dice", held down); the dead lighter (closed in his fist, turned over, waved, slid away inside the robe; never lit);
+  the fast fishbone patter on her back; the bow from the waist; the stool turned to the wall while she nurses. **SPENT:** every line
+  quoted above; the copper spun on its edge; the basil (Valens moves it; Fenn turns it "a shade further").
 - **Sample line:** "You know what kills me? I had two seats for the Labor Day doubleheader, and some guy
   at Connie Mack sat next to an empty chair all afternoon and never knew it was me, and that was, what,
   a hundred years ago, two thousand, for crying out loud."
@@ -2829,6 +2865,13 @@ use modern idiom. See `voice-dna.md` §1, Dialogue conventions.
   light ("Lucius."), with Grata's ninth-day naming standing for the street ("You'll not name him till the ninth day, like decent
   people,"). Never called a citizen (CP4-1). **Spent:** every image above. Aelia's birth (Ch.26) and every later look at Lucius find
   other words.
+- **Ch.25 (in arms, eight months; no words; Writer draft 2026-10-24):** rides on Valens's forearm facing out, "both fists full of his
+  father's tunic and his feet going against his father's belt"; watches gulls "with the deep offense he kept for anything that moved
+  without asking him first"; grabs at Mara's hair and "got a fistful of air, which he studied"; roots at his father's neck and is nursed
+  by Mara mid-afternoon ("a grunt of grievance at having been kept waiting"); crawls "with his bottom high" to the sand tray, sinks both
+  fists in it, tastes it, spits it, "regarded Fenn with deep suspicion"; tries the bronze rod in his ear and flings himself backward;
+  asleep at the end "his face crushed into his father's neck, mouth wide". Never called a citizen; his hour given "as near as any of us
+  had it" (no cocks, no "all of them"). **Spent:** every image here.
 
 #### AELIA — daughter of Mara and Valens; b. winter AD 75–76 (newborn Ch.26; babbling Ch.29; Ch.30, 34, 38–44; 3½ at the eruption)
 - **Attention / worldview:** the world's textures and tastes. She is greedy for everything and finds
@@ -4092,6 +4135,25 @@ FINAL page, md5 `e4e8a96c…`, synced 2026-10-23; quotes checked by grep (CUT st
   restore: the draft's "at the Vesuvius Gate"; the mountain is not named on the page); the lamp-seller ("that thief behind the forum who
   wants a day's takings for a decent lamp"); the baker ("the baker can have that with his bread"); "the aedile's men round to see who was
   killed" (Grata's report of the twins' night); the girl "two streets over with milk to spare" (Mara refuses her).
+
+#### Ch.25 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+Writer draft 2026-10-24 (re-sync at finalize).
+- **The sprat boy** (passing): "A boy with a basket of sprats on his head showed us the place for a copper." Never speaks.
+- **The sea captain** (passing): "a broad bald man with a tablet tied shut and clamped to his ribs and his lips going over something he
+  had been told"; goes down the stair sideways "the way men went down ladders at sea". Never speaks.
+- **The sprat crier** (sound only): "Down on the quay a man was crying sprats."
+- **Mention (Fenn's world):** a priest of Serapis who heard the Augurinus joke and "wrote me down as a madman and charged me a drachma";
+  the leek seller at Amphissa ("asks me have I got a problem with it"); Father Kostas (the lent book, "all ships and dead kings"); the
+  octopus seller by the quay wall "who thinks I'm counting his customers"; the bathhouse keeper on the hot ground and his wife "who
+  believes every word"; the Neapolitan widow who did his laundry; the Pompeii carter in the Misenum wineshop who told of the door that
+  "breathed cold"; the family on Eros's bench in 62; the rich men's boys who throw figs; the Phillies of 1964 and 1980 (Mauch, Bunning,
+  Short, Chico Ruiz, Frank Robinson, Tug McGraw).
+- **Mention (Mara's 1998):** Pat, "my father's neighbor", who said "wooder" standing in her own hose's spray (Ch.1's Pat; first
+  physical memory of her); the Broad Street parade of 1980 with her father ("the backs of people's coats"); Mrs. Szabo ("between a
+  price and a shrug"); the insurance-company phone voice; the Connie Mack lot on Lehigh Avenue with a church going up on it, and her
+  father explaining the fire (she keeps it from Fenn).
+- **Grata's husband:** referenced only ("her husband had recommended it in the summer"); no "gibberish", no "all of them" (Ch.24 guards
+  held).
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -7770,3 +7832,8 @@ finalizing the chapter. Never add a tic to fix it.
   tic-bearer roster still NONE.
 - **2026-10-23 (Writer, Ch.24 'Lucius' draft):** new card **STATIA** (the midwife; the book's one introduction-by-teeth, SPENT; no tic). New block **Ch.24 unnamed walk-ons** (Grata's husband and the Chaldean plant; the fuller's other half; Statia's boy; carters). Roles table: Midwife row marked WRITTEN. Tic-bearer roster still NONE. Full re-sync to the FINAL page is the chain's job after dialogue-polish/disruptor/evaluator.
 - **2026-10-23 (finalize Ch.24):** STATIA card, Ch.24 walk-ons, DUNPHY, LUCIUS, VALENS, FELIX, GRATA, MARA synced to the FINAL page md5 `e4e8a96c…`; F1–F7 and FN1–FN2 old strings logged CUT; At-risk after Ch.24 added. STATIA: "Vesuvius Gate" → "near the water tower"; Oscan only under the oil and "something that was not Latin" (not to her bag strap); evasion recast to the reported exit; line list rebuilt from the page; draft lines logged CUT. Walk-ons: the husband's Chaldean plant re-quoted ("Old as Saturn", "over it", "For the boy."), the counter-sleeping line deleted, the Floralia tunic added; the fuller's other half re-quoted; Pliny's reading room/postcard CUT. DUNPHY: mutation 2 recorded (brown, the board, thin elbows); mutation 3 (Ch.41) must differ from both. LUCIUS born on the page (Ch.24). GRATA: fifth touch, the hip pats. Roles table: Midwife row SYNCED; husband row re-quoted from the page. At-risk after Ch.24: SPENT/WATCH, Ch.25 guards (Augurinus; hook not QUESTION, pull not QUESTION PLANT; TICKING CLOCK still unused), Ch.26 guards (Aelia's birth rebuilds none of Ch.24's shards, teeth, stool, watch winding, father's lift, Floralia cloth, "Whole?"). Every quote placed on a card checked by grep against the final chapter-24.md. Not touched: the manuscript, STATE.yaml, ENTITY_STATE.yaml, outline.md. No catchphrase or tic assigned; tic-bearer roster still NONE.
+- **2026-10-24 (Writer, Ch.25 'Augurinus' draft):** **FENN** card: "Ch.25 as written" block (on-page English and Greek voice, idiom-pool
+  counts against the ≤2 cap, period references, chaos subjects, the law worded once, the WHEN, the failed dates, Margaret unsaid, the
+  unfurnished room, new canon facts, physicality, SPENT list). **LUCIUS** card: Ch.25 note (in arms; no words). New block **Ch.25
+  unnamed walk-ons and mention-only names**. No new named character; no tic, catchphrase or signature gesture given to anyone;
+  tic-bearer roster still NONE. To re-sync at finalize.
