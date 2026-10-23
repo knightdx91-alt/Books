@@ -2385,7 +2385,8 @@ meta:
       line: "ch-21:p25; ch-21:p49; ch-21:p51; ch-21:p53; ch-19:p58; ch-20:p123; outline:ch-21"
       note: "the NON-NEGOTIABLE's substance is met early (the summons; Rome; spring; Valens the witness) and the knowledge path is complete on the page by another route (CH19-7, CH20-5 RESOLVED). The freedman does not come to Pompeii; he waits at Puteoli. The planned Grata rows are marked NOT ON THE PAGE (plan_was kept). The outline line still names Grata's counter, so the row stays open as info until the outline is patched. Recorded, not judged"
       recheck_ch21_final: "2026-10-22 (Ch.21 RE-SYNC, FINAL page md5 23e2aa57…): the route stands (p25). The narration is now 'It was from Plautia's brother, in a scribe's hand, round and even.' (p50) and the tablet opens 'To Gaius Iulius Valens, greeting.' (p51); per the author's override on audit W-19 the brother stays UNNAMED (the audit's 'Sextus Plautius' patch is NOT applied). Still open (info) until the outline is patched"
-      flag: "UNRESOLVED"
+      resolution: "2026-10-23 (Ch.21 finalize): outline Ch.21 beat 1 patched to the page route (lime carter, Puteoli letter board; the freedman waits at Puteoli), per AUTHOR-CP4-2. RESOLVED"
+      flag: "RESOLVED"
     - id: CH21-2
       chapter: 21
       severity: info
@@ -2434,7 +2435,8 @@ meta:
       line: "ch-21:p84; ch-21:p96; ch-21:p133; ch-21:p137; character-bible.md"
       note: "documented lag, not a contradiction on the page (same pattern as CH20-7). This file quotes the page. It resolves when the bible's Ch.21 blocks carry the final-page text in a commit. Recorded, not judged"
       working_tree_note: "at this run's read (2026-10-22) the working tree holds an UNCOMMITTED bible sync by another pass (git diff +259/-21), stamped 'SYNCED to the FINAL page 2026-10-22 (md5 23e2aa57…)', which already carries 'bandy-legged', 'Kenchreai', 'Who does he belong to?' and 'the Syrian that had no wind' with the draft strings under CUT, and keeps Plautia's brother UNNAMED. Not edited here"
-      flag: "UNRESOLVED"
+      resolution: "2026-10-23 (Ch.21 finalize): the bible sync to the FINAL page (bandy-legged, Kenchreai, Who does he belong to?, The murmillo Nero freed; brother unnamed) is committed in the finalize commit. RESOLVED"
+      flag: "RESOLVED"
   ch10_requested_checks:
     # Checks the orchestrator asked for in the Ch.10 run. Results only; nothing is resolved here.
     - check: "Kallia's age against Ariston's service and discharge"

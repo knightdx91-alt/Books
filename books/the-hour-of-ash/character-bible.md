@@ -3613,7 +3613,7 @@ SYNCED to the FINAL page 2026-10-22 (md5 `23e2aa57…`); quotes checked by grep.
 - **The herald** (red cloak, a boy with a board): announces Lupus to the bowl.
 - **The grandmother with the eggs:** gives Mara a boiled egg, "still warm from being sat on in her basket": "For the child," … "Grata says the heat. Eat it now, you'll want it later and it'll be cold."
 - **The girl with the baby** (top rows): her husband sells cushions on the stair and charged her for a flat one; "He'll have sold her mine and charged me for the cover."
-- **The voices behind Mara on the rim:** "That's the muleteer." / "With the Greek wife." / "That mends."
+- **The voices behind Mara on the rim:** "That's the muleteer," … "Him that lodges at Grata's." / "With the Greek wife." / "That mends." (the herald-and-rim-chorus kin of Ch.5's set piece: no third, audit I-09)
 - **The man two rows below Valens** "reached up and slapped him on the shoulder, and another stood on his bench to see." No line.
 - **The hands with a nail** (unseen, unattributed): at the bottom of the outer stair, "a helmet with a fish along its crest, drawn by someone who knew one close, and under it, in big uneven capitals, LVPVS. The final S ran off the stone" (Valens: "in a boy's letters"); on the barracks gatepost, "LVPVS showed again, smaller this time and neater, with a little wreath round it", "where a tall boy could reach on his toes". The page never says who cut either; keep it so.
 - **The barracks porter:** goes in at Felix's voice. No line.
@@ -6829,3 +6829,31 @@ finalizing the chapter. Never add a tic to fix it.
   Ch.31 writer warning in the outline; that is the orchestrator's). The stale header comments of chapter-20.md (lines 6–9) still
   describe earlier pages and are the editor's, not this pass's. No new named character; no tic, catchphrase or signature gesture
   given to anyone; tic-bearer roster still NONE.
+- **2026-10-22 (bookkeeping, Ch.21 sync to the FINAL page, md5 `23e2aa57…`, after dialogue-polish, hook-craft, disruptor, continuity
+  repair C-01…C-04 / W-01…W-19 / I-02…I-09, polish cycle 0, re-evaluation cycle 1 and finalize F-1 + F-2):** **NICANOR** card:
+  "Whose is he?" → "Who does he belong to?" (syntax line and Ch.21 block; the whose-family stays capped); "Cenchreae" → "Kenchreai";
+  physicality "brown and creased" → "bandy-legged" (CUT logged); the Ch.21 block rewritten from the page ("This is him. The murmillo
+  Nero freed. Nine times at Corinth…"; "Lupus" said once; the Syrian and the boy from Argos; what he told Fabius's man is reported;
+  "It's cold for her out here." said to Valens after a look at the cloak); open question lanista vs trainer logged for Ch.28; Ch.22
+  guard (not a witness). **FABIUS** card: earnest 500 → 1,500 ("Fifteen hundred there, for earnest"); Kenchreai; the Parilia kept,
+  its date off the page. **His freedman:** "when I was little" (not "at nine"); the Capua Lupus alive with a Puteoli cookshop ("He's
+  fat. I went in once."), not killed; "he'll find another wolf." deleted (never on the page); "Your husband never asked for the
+  finger? Not once, in nine?". **Ch.21 walk-on block:** "wine cup" (not "dice cup"); Grata laughs at her husband, not he; added the
+  lime carter, the baker's boy, the coppersmith (and the boy running after), the man two rows below, the yard voice, the mentions,
+  and Plautia's brother by letter only, UNNAMED (never "Sextus Plautius"; the audit's I-10 naming patch not applied); the nail marks
+  left unattributed; the grandmother's and the rim voices' quotes corrected to the page. **GRATA** card: new Ch.21 block (tells, 0
+  questions; the fourth touch = the shoulder; the pearl earrings "kept for the baths"; "Twenty times", the street's inflation of the
+  nine; two "men" generalisations, WATCH ≤1 from Ch.22); "Ch.21 finds a fourth" marked done in three places. **FELIX** card: the palm
+  scratch used once (Ch.21), Ch.28 the last reservation; new Ch.21 block (silence acted, never labelled; "his face had gone young" and
+  "the color of the sand" logged CUT; "Is it" openers 2, WATCH; going still as listening SPENT; Ch.28 route guard). **VALENS** and
+  **MARA** cards: new Ch.21 blocks (the telling, the tread, the hand, the misreading of Grata, the argument; Mara's mouth USED ×2, so
+  Ch.22's laugh avoids the mouth and "behaved"; the cut laugh logged). **PLAUTIA** card: Ch.21 note (the postscript, "Four lines since
+  Corinth."). Ch.14 laugh note and the Ch.19 Valens mind-reading PLANT updated (PAID); the stranger-reads-Valens WATCH counts Nicanor
+  as the planned 4th; the Puteoli letter-board thread CLOSED (the lime carter); the unnamed-roles table row marked WRITTEN. **At-risk
+  after Ch.21** added: CLOSED (residue on Valens's body; backlit doorway arrival; reported-question chapter close; Felix's silence as a
+  reported beat), USED ×2 (Mara's mouth), SPENT (Felix going still as listening, and the chapter's set pieces), WATCH (Grata on "men"
+  ≤1/chapter; Felix's "Is it"), the spent spoken lines, and the Ch.22 guards (the leaf's witnesses are "the witnesses", never "the
+  nine"; Nicanor not a witness; the brother unnamed) and Ch.28 guards (a different route from Ch.21's barracks gate; the palm worded
+  fresh). Every quoted piece in the edited blocks was checked by script against the final chapter-21.md; the off-page quotes are CUT
+  entries (checked absent), cross-chapter quotes (Ch.13/18/19/20, checked there), outline phrases or pattern labels. Not touched: the
+  manuscript, STATE.yaml, ENTITY_STATE.yaml. No new tic, catchphrase or signature gesture given to anyone; tic-bearer roster still NONE.
