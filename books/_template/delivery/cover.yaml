@@ -13,7 +13,9 @@
 
 pages: ~                        # REQUIRED: final interior physical page count
 paper:
-  stock: white50                # white50 (0.002252"/pp) | cream50 (0.0025"/pp)
+  stock: white50                # white50 (0.002252"/pp) | cream50 (0.0025"/pp) -- cream templates
+                                # issued in 2026 measured ~0.00225"/pp: set paper.factor from the
+                                # title's own IngramSpark template (spine / pages) before building
   # factor: 0.0041              # any other stock: take the number from
                                 # IngramSpark's spine calculator and set it here
 

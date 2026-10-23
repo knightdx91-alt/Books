@@ -82,7 +82,10 @@ except ImportError as exc:
 # guessing here wastes a whole print run.
 PAPER_STOCKS = {
     "white50": 0.002252,   # IngramSpark white 50#
-    "cream50": 0.0025,     # IngramSpark cream 50#
+    "cream50": 0.0025,     # IngramSpark cream 50# -- CAUTION: IngramSpark's own cream
+                           # templates issued in 2026 came out at ~0.00225"/pp
+                           # (294pp=0.661", 306pp=0.687"). Pull the title's
+                           # template and pass paper.factor = spine/pages from it.
 }
 
 ALIGN = {"left": TA_LEFT, "center": TA_CENTER, "centre": TA_CENTER,

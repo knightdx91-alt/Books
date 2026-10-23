@@ -171,7 +171,7 @@ GESTURE_CLASSES["deliberation pause"] = (r"\b(?:considered\s+(?:it|that|this|me|
 GESTURE_CLASSES["exit by gait"] = r"\b(?:at\s+a\s+(?:run|trot|lope|jog)|was\s+off\s+(?:downhill|uphill|down|up)\s+at)\b"
 
 # ---- PROP FIDGET layer: the same object handled again and again inside one scene ------------------
-# The Saeren lesson: a headmistress sets down her paper, takes off her spectacles, picks them up,
+# The spectacles lesson (an earlier book): a headmistress sets down her paper, takes off her spectacles, picks them up,
 # turns them over, puts them back on — all between lines of one conversation. The prop does the
 # acting. This finds any noun that is FIDGETED with (turned, twisted, set/put down, picked up, taken
 # off/out, put back/on, folded, tapped…) 3+ times within PROP_WINDOW words. Real action (fighting for

@@ -197,7 +197,7 @@ copy when a new piece of business starts to recur.
 
 A third layer, **RHYTHM & VOICE REFLEXES**, counts narration only (speech and italic documents
 excluded): **AND-CHAINS**, sentences with four or more "and"s, capped at max(9, words ÷ 900) per chapter
-(one designed held sentence is a device; a dozen is the narrator's default rhythm — Hazel Academy ran 2–8
+(one designed held sentence is a device; a dozen is the narrator's default rhythm — one earlier book ran 2–8
 early and drifted to 20–26 late), and **CREDENTIAL ASIDES**, the book-specific phrases by which a narrator
 files the world under her own expertise (`CREDENTIAL_PATTERNS` in the book's copy; capped at 4 per chapter).
 The echo scan also catches **PRONOUN-SWAPPED** echoes: 5–6-word phrases compared with I/she/he/we/they
@@ -232,7 +232,7 @@ After that / Afterward / Later / Next) is also capped, at max(3, words ÷ 2,500)
 A second layer, **PROP FIDGET**, follows a single object through a scene — including "it" and "them"
 back to the prop named last — and fails when it is fidgeted with (turned, set down, picked up, taken
 off, put back, held in the fingers or the mouth) 3+ times within 400 words. That is the exact shape of
-the Hazel Academy spectacles scene, where the prop does the acting between lines of dialogue. Real
+an earlier book's spectacles scene, where the prop does the acting between lines of dialogue. Real
 action (fighting for a bag, packing a parcel) uses other verbs and does not fire.
 
 ### `shape_check.py` — the predictability audit (shared, book-agnostic)

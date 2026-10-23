@@ -98,6 +98,13 @@ verified against accepted books ship in the tool:
 Any other stock must set `paper.factor` explicitly, read off IngramSpark's own spine
 calculator. The tool refuses to guess, because guessing here wastes a print run.
 
+> **Cream caution (2026-10):** IngramSpark cover templates issued in 2026 for cream titles —
+> stamped "Paper Type: Creme" — gave **0.661" at 294pp and 0.687" at 306pp, i.e. ~0.00225"/page**,
+> not the 0.0025 above (which would be 0.735" and 0.765"). IngramSpark's current cream stock appears
+> to be as thin as its white. Treat the table as a starting point only: **always pull the title's own
+> template from IngramSpark and set `paper.factor` to spine ÷ pages from it.** A cream spine built at
+> 0.0025 could come out ~0.07" too wide at 300 pages, which puts spine text onto the front panel.
+
 **The front art is placed scale-to-fill with a centre crop** into the 6.125 × 9.25"
 front panel (trim plus bleed). Art at the wrong aspect ratio loses its edges, so the
 build report prints the crop and the effective resolution:
@@ -235,6 +242,22 @@ accessible PDF, use the RGB build from `delivery/`.
 **Cover wrap must be tight full-bleed.** IngramSpark's current template wants no white
 margins. Wraps built to the older Lightning Source template have white margins that shift
 the back-cover content into the spine. Crop to the true art box.
+
+**Cover preview blank on IngramSpark?** The `-CMYK-noicc` wrap has no OutputIntent, and
+IngramSpark's (and most phone viewers') preview renders it blank/white. Covers have been
+accepted as **PDF/X-1a** (CMYK + OutputIntent), which previews correctly.
+Make it with `tools/make_pdfx.sh`-style Ghostscript, or, where `gs` is missing (web
+containers cannot apt-get it), stamp the finished CMYK file instead:
+
+```
+python3 tools/pdfx_outputintent.py <wrap-CMYK-noicc.pdf> <wrap-PDFX1a.pdf> --title "..."
+```
+
+It adds only the OutputIntent (`tools/icc/default_cmyk.icc`, the Ghostscript SWOP
+profile accepted covers carry), the PDF/X keys and trim/bleed boxes; it changes no
+pixels and refuses any file that still has RGB/ICC colour. Keep both twins: upload the
+X-1a first, and fall back to the `-CMYK-noicc` file only if IngramSpark rejects the X-1a
+with the colour-profile message above.
 
 **Supply your own barcode.** On the cover step choose "my cover already includes a barcode"
 so IngramSpark doesn't overlay its own white box on yours. Generate the EAN-13 from the
