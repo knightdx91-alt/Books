@@ -49,7 +49,7 @@ She set her two palms on the belly and moved it about the way a woman at market 
 
 Statia grunted and took her hands away.
 
-Her boy had stood the stool just within the door, and I looked at it because it was something to look at. It was a heavy chair of dark wood with arms and a back, and the seat was cut away at the front in a crescent, so that a woman perched on the rim with nothing underneath. The arms were rubbed pale where hands had held them. At some point in its life one arm had come adrift of the seat and been put back with a peg and glue, and whoever did it had used the glue too hot, so that a brown run of it had set down the leg like candle drip. Nobody had cleaned it off. I could have done it in an evening, with a knife and some warm water.
+Her boy had stood the stool just within the door, and I looked at it because it was something to look at. It was a heavy chair of dark wood with arms and a back, and the seat was cut away at the front in a crescent, so that a woman perched on the rim with nothing underneath. The arms were rubbed pale where hands had held them. At some point in its life one arm had come adrift of the seat and been put back with a peg and glue, and the glue had set in a brown run down the leg like candle drip. I could have cleaned it off in an evening, with a knife and some warm water.
 
 Statia unpacked her bag onto Grata's chest in a row, and put her little knife at the end of it in a fish-skin sheath. She set it out the way I laid out a bench.
 
@@ -173,7 +173,7 @@ Passing the stool, I touched the run of glue down its leg. The run was hard and 
 
 "Somebody glued it too hot."
 
-"My mother glued it. She had it off her mother, and that arm came off under a tanner's wife as broad as two of you. It's held since before Nero." "You can mend it when you've had as many on it as I have."
+"My mother glued it. She had it off her mother, and that arm came off under a tanner's wife twice your size. It's held since before Nero. You can mend it when you've had as many on it as I have."
 
 My legs had begun to shake at the knee between the pains, a small fine shaking that took no notice of me. The floor shone where I paced it.
 
@@ -203,7 +203,7 @@ In the court a dry rough scraping kept on, and stopped, and began again.
 
 Between two pains I asked for the door, and Statia let me have it. She held my elbow while I stood in it. The air out there was cooler by a little, and smelled of the well and of split pine from Grata's woodstack. Over the court the sky was thick with stars, and beyond the roofs a dog was barking at nothing, steadily, the way it had barked every night that summer.
 
-A lamp sat on the well curb. Felix was next to it, hunched on the paving, nursing a second lamp in his lap so that it made a pool on the paving before him. In the light stood the dun, tied short to the iron ring in Grata's wall. Her eyes were heavy and her lower lip hung loose. She was asleep on her feet.
+A lamp sat on the well curb. Felix was next to it, hunched on the paving, nursing a second lamp in his lap. In the light stood the dun, tied short to the iron ring in Grata's wall. Her eyes were heavy and her lower lip hung loose. She was asleep on her feet.
 
 Valens had her near fore up, tucked between his thighs, the sole of the hoof turned to the light. He had the curved knife. He took a thin paring from the edge of the wall, and it peeled off pale and curled, and dropped. Curls of horn lay everywhere round his feet, a drift of them, like the floor under a lathe. He laid the knife on the curb and drew the rasp across the hoof's rim, once and again, and ran his thumb round to feel what he had done. With the point of the knife he cleaned the cleft of the frog, gently, though it was clean, and blew into it softly, though there was no dust.
 
@@ -251,7 +251,7 @@ The next pain started in my feet and climbed. Statia's grip was on my arm, and t
 
 The stool.
 
-Grata behind me, perched on the bed. Her knees bracketing my back. Her arms under mine and her hands locked over my breastbone.
+Grata behind me, perched on the bed, her knees bracketing my back. Her arms under mine and her hands locked over my breastbone.
 
 "Lucina. Lucina, you heard me."
 
@@ -313,9 +313,9 @@ The rasp, outside, had stopped.
 
 *Cockcrow*
 
-A cock went off somewhere toward the forum. A second took it up from nearer, from some yard on our street, and a third farther down, and then they were all at it the length of the town, while the lamp burned low on the shelf and Grata held me up from behind with her whole body.
+A cock went off somewhere toward the forum. A second took it up from nearer, from some yard on our street, and a third farther down, and then they were all at it the length of the town, while the lamp burned low on the shelf and Grata held me up from behind.
 
-Statia said, "Now," and I pushed with everything there was, and the whole of me burned where he was coming, and then gave. He arrived in one rush, long and slippery and heavy, into her hands, and he was crying before she had him turned. It was a thin, cross, cracked sound, very close, and it filled the room to the ceiling and woke the flies.
+Statia said, "Now," and I pushed with everything there was, and burned where he was coming, and then gave. He arrived in one rush, long and slippery and heavy, into her hands, and he was crying before she had him turned. It was a thin, cross, cracked sound, very close, and it filled the room to the ceiling and woke the flies.
 
 Statia lifted her face to me over him and grinned. That came first, before him: her teeth in the lamplight, the crossed pair and the brown one, and below them in her two square hands a creature gray-blue and furious, streaked white and red, with his fists up by his ears and his mouth wide.
 
@@ -323,7 +323,7 @@ Statia lifted her face to me over him and grinned. That came first, before him: 
 
 Behind me Grata held me so tight there was no breath to be had. "A boy. Lucina, a boy. A cake and honey and a lamp, I'll have to find a lamp now. A boy."
 
-Statia laid him on my belly while she tied the cord. She tied it with red wool twice over and cut beyond the tie with a little knife. He lay on me wet and hot and heavier than anything that size had any right to be, and kept on telling us all about it. I found his back with my hand. It rose and fell under my fingers, and the whole of his spine was there, a row of small hard beads.
+Statia laid him on my belly while she tied the cord. She tied it with red wool twice over and cut beyond the tie with a little knife. He lay on me wet and hot and heavier than anything that size had any right to be, and kept on telling us all about it. I found his back with my hand. It rose and fell under my fingers, and his spine was all there, a row of small hard beads.
 
 Statia took him up again, and spread a cloth on the floor at the stool's feet, and laid him down on it on his back.
 
@@ -343,7 +343,7 @@ His gaze went from the child on the floor to me on the stool, and held.
 
 He crouched by the cloth. His hands went out and hung above the child, not touching. They were big and scored with old cuts. The child cried up at them.
 
-"He'll not break," said Statia. "Here. Give me that one." She caught one of the hands by the wrist as if it were a tool she was lending him, and fitted it under the child's head, and spread the fingers. "That's the neck, that's the head. That holds him. Now this one." She pushed the other in under the small of the back, farther, until his palm had the whole of the child's bottom in it. "There. Up."
+"He'll not break," said Statia. "Here. Give me that one." She caught one of the hands by the wrist as if it were a tool she was lending him, and fitted it under the child's head, and spread the fingers. "That's the neck, that's the head. That holds him. Now this one." She pushed the other in under the small of the back, farther, until the child's bottom sat in his palm. "There. Up."
 
 He rose with him too fast, in a single heave, and froze. He held the child away from himself on straight arms, high, level with his own face, with his elbows locked and his shoulders up round his ears, and he was not breathing. It was how a man held a jar he had caught just short of the stones, in the instant before he knew whether it was whole.
 
@@ -369,7 +369,7 @@ He sank where he stood, onto the ground beside the stool with his back to Grata'
 
 In the end she had to unfasten the child from him, finger by finger.
 
-My legs began to shake on the stool. It started in the heels, hard, so that they knocked on the floor, and whatever I told them made no difference. Grata climbed down to the front of me and pinned my knees with her palms till it passed.
+My legs began to shake, and the stool rocked under me. Grata climbed down to the front of me and pinned my knees with her palms till it passed.
 
 Outside the cocks were still at it.
 
@@ -401,9 +401,7 @@ He turned his face against me and gaped on my arm, and found nothing there, and 
 
 He didn't know the way of it, and I knew little more. He missed, and roared, and missed again, and then of a sudden he had it, and pulled, hard, with a strength out of all proportion, and his eyes closed. Statia watched, mouth pursed, and let the cheese go.
 
-Valens appeared from the court with a cup. Nobody had sent him. It was from the well, cold, and he did not hand it to me, because both my arms were full; he brought the rim to my lips and tipped it for me, slowly, a sip and then another, and took it away when I had had enough, and stood holding the empty cup. A drop of it had fallen on the child's cheek. The child screwed up his whole face at it and kept his hold.
-
-"He lay wide," Statia said. "I'm never wrong about wide."
+Valens appeared from the court with a cup. Nobody had sent him. It was from the well, cold, and he did not hand it to me, because both my arms were full; he brought the rim to my lips and tipped it for me, slowly, a sip and then another, and took it away when I had had enough, and stood holding the empty cup. A drop of it had fallen on the child's cheek. The child screwed up his face at it and kept his hold.
 
 Grata brought a basin and washed my legs from the knee down, in water that had been warm an hour ago, and talked throughout.
 
