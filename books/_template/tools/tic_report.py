@@ -169,7 +169,8 @@ PROP_WINDOW = 400
 _FV = (r"(?:turn(?:ed|s|ing)?|twist(?:ed|s|ing)?|roll(?:ed|s|ing)?|fold(?:ed|s|ing)?|unfold(?:ed|s|ing)?|"
        r"tap(?:ped|s|ping)?|fiddl(?:ed|es|ing)|smooth(?:ed|s|ing)?|straighten(?:ed|s|ing)?|adjust(?:ed|s|ing)?|"
        r"set(?:s|ting)?|put(?:s|ting)?|pick(?:ed|s|ing)?|took|tak(?:es|ing)|laid|slid|weigh(?:ed|s|ing)?|"
-       r"tilt(?:ed|s|ing)?|rub(?:bed|s|bing)?|spun|spin(?:s|ning)?)")
+       r"tilt(?:ed|s|ing)?|rub(?:bed|s|bing)?|spun|spin(?:s|ning)?|flick(?:ed|s|ing)?|flip(?:ped|s|ping)?|"
+       r"toss(?:ed|es|ing)?|thumb(?:ed|s|ing)?|jiggl(?:ed|es|ing)|wav(?:ed|es|ing))")
 _PART = r"(?:back\s+)?(?:down|up|over|off|out|on|aside|away|round|around|back)"
 _PLACE = r"(?:in|into|between|through)\s+(?:his|her|my|their)\s+(?:fingers|hands?|mouth|lap|teeth)"
 _DET = r"(?:the|his|her|my|their|its|a|an)"
