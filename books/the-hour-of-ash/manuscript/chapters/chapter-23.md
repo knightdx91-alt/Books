@@ -3,7 +3,7 @@
 #### *The Appian Way, near Tarracina · spring, AD 74*
 
 <!-- SCENE BUDGET (Target 4,200; Single-scene, one rainy night, 0 breaks; gear low; dialogue 15-25%): the blanket at the ladder foot, the marsh road, Acca and her hen, the drip 750 | the bad supper: eels, the carters, the towpath question, his bowl pushed across, the first flea, what I missed in court 950 | the room over the stable: rain on the bare tiles, the latch, the five words, the onion in the rain 750 | HEAT 2: his back in the lamplight, my body as it was, he lies down and lets me, his hands put down and taken up again 1,200 | after: the door side, the child against his back, sleep, the long fade into rain and fleas 550 -->
-<!-- Word count: 3,818 prose (wc 3,999; style 3,840) | Writer draft 2026-10-23 | Target: 4,200 (variance by design; not padded) | Dialogue 15.0% show_tell / 15% shape (band 15-25) | Breaks 0 | Median sentence 13 (gear low; Ch.22 was 17) | Opens short-punch (7-word object line; hook VOICE/CONTRAST, not sensory immersion), closes long-fade (93-word rain-and-fleas sentence; pull EMOTIONAL/QUIET IMAGE, not decision point) | Em-dash 0 | as-if/as-though 1 | And-chains 3 (cap 9) | Negation pivots 0 | Credential asides 0 | Spoken Then-openers 2 | Echoes 0 | check_chapter.sh 23 ALL MECHANICAL GATES CLEAN | Anchor: the horse blanket under his marked back, the rain on bare tiles, her six-month body over him, and his care put down on the blanket palms up -->
+<!-- Word count: 3,818 prose (wc 3,999; style 3,840) | Writer draft 2026-10-23 | Target: 4,200 (variance by design; not padded) | Dialogue 15.2% show_tell after dialogue-polish 2026-10-23 (was 15.0%; band 15-25) | Breaks 0 | Median sentence 13 (gear low; Ch.22 was 17) | Opens short-punch (7-word object line; hook VOICE/CONTRAST, not sensory immersion), closes long-fade (93-word rain-and-fleas sentence; pull EMOTIONAL/QUIET IMAGE, not decision point) | Em-dash 0 | as-if/as-though 1 | And-chains 3 (cap 9) | Negation pivots 0 | Credential asides 0 | Spoken Then-openers 2 | Echoes 0 | check_chapter.sh 23 ALL MECHANICAL GATES CLEAN | Anchor: the horse blanket under his marked back, the rain on bare tiles, her six-month body over him, and his care put down on the blanket palms up -->
 
 The blanket had been made for a horse.
 
@@ -149,7 +149,7 @@ The rain came harder. It drummed on the roof over the table. The drip in the bow
 
 Valens stood. "Bed."
 
-"Shout if the roof comes in," the landlady told the hen. "It never has yet. Not on a guest."
+"Shout if the roof comes in," the landlady said to our backs. "It never has yet. Not on a guest."
 
 He climbed first and reached back for the lamp, then for my hand. Climbing a ladder with the child in front was a matter of getting the belly up it ahead of the rest. I got through the hatch in stages, the blanket on my shoulder and his hand round my upper arm, onto boards that sagged underfoot.
 
@@ -207,6 +207,8 @@ Under the floor the door of the stalls banged back against its post. Mules came 
 
 "I've eels! And the gray, what have you done to the gray?"
 
+"Let me get them dry first. You can shout after."
+
 The hen joined in.
 
 Valens was listening, his head up.
@@ -249,9 +251,7 @@ I pushed at his chest, and he went back onto the blanket. It must have scraped h
 
 Getting a knee across him needed two tries and his hand cupping my elbow. The bed creaked throughout.
 
-"I'm the size of a wine jar," I said.
-
-"A small one."
+"Your left knee," he said. "The cords are lower on this side."
 
 When I was there, astride him, my knees taking my weight and the belly resting on his stomach, he lifted both hands to my hips to hold me steady, as he would steady a load on a bad slope.
 
