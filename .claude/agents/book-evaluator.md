@@ -481,6 +481,13 @@ cannot see a reused frame or a moved repeat). In The Hour of Ash Ch.16 and Ch.17
 restores and one-for-one swaps planted the next cycle's findings (a plan sentence echoed, a repeat moved
 one sentence over, a triad rebuilt). A fix that creates a finding is not a fix.
 
+**Count narrated traits by hand: a character's one physical state, re-noted, is a gesture tic.** The phrase
+and gesture gates cannot see a state the narration keeps returning to in fresh words (a judge's closed eyes,
+a man "waiting", a woman's stillness). Count each minor or recurring character's narrated trait across the
+chapter: more than 3 notes of the same state in one chapter, or 3 inside ~500 words, is a NO-TICS failure
+under Characters, even when `tic_report.py --gate` is clean. Hour of Ash Ch.11, 16, 18 and 22 each grew
+one (Ch.22: the iudex's closed eyes 11×, Valens's waiting 5×). Cut to the one or two notes that do work.
+
 ### 7 Problem Types
 
 1. **Character** — Behavior inconsistent with foundation profile; motivation not visible; chaos absent or mediated; secondary character functions only as protagonist prop

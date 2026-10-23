@@ -143,6 +143,11 @@ Your revisions must not INTRODUCE AI patterns. This is the #1 risk of LLM editin
   found someone), add the fact or the act, not a reason clause telling the reader why it matters. Hour of
   Ash Ch.12 failed Prose on explanation density after a continuity repair added two "because"-shaped
   sentences the scene already showed. Prefer a cut, or a line of dialogue, to a narrated rationale.
+- **Check a replacement against what the earlier passes CUT, not only the at-risk list.** Before a swap goes
+  in, read the chapter's disruption and dialogue reports for what they removed and why. Hour of Ash Ch.22's
+  continuity repair replaced a spent word ("hiccups") with "the child stretched in me", which put back the
+  arena/child symbolism the disruptor had just cut, and the evaluator docked it. If the fewest-words fix
+  would restore a cut effect, cut the clause instead.
 
 ### 7. Style-Bearing Elements — Burden of Proof
 Before deleting or converting any passage, name what it IS doing. The following carry voice even when they resist efficiency — do NOT silently convert to standard prose:
