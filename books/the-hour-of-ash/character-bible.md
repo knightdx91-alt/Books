@@ -7090,7 +7090,7 @@ line each, so that walk-ons don't all sound like Mara.
     festival cloth on the floor (no Floralia, no tunic); no "Whole?" and no "whole" as the designed word; no eagle-stone, no dittany, no
     knots undone, no vow of cakes and a lamp; no first-milk argument; no wide/narrow sex guess. If Statia attends: new words, a new
     object, no teeth.
-  - **Vesuvius rule (unchanged):** the mountain is not named on the page; the draft's "Vesuvius Gate" was CUT from Ch.24 and must not
+  - **Vesuvius rule (as of Ch.24; SUPERSEDED at Ch.25 — named once since, by Fenn, in English; the narrator still never names it):** the mountain is not named on the page; the draft's "Vesuvius Gate" was CUT from Ch.24 and must not
     return as page text in any chapter before its time.
 - **At-risk after Ch.25 (FINAL page, md5 `472a9dec…`, synced 2026-10-23; "Augurinus", Single-scene, one afternoon in Fenn's upper
   room behind the tunny sheds, Puteoli, early spring AD 75, 0 breaks. Writer draft → dialogue-polish → hook-craft → disruptor →
