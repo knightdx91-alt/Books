@@ -625,3 +625,212 @@ Every recurring character and every narrated state, with lines and word offsets.
 - Apply `fixes25d/apply_fixes.py` (tested; 13 cuts and re-joins) and re-evaluate. Nothing structural.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Re-evaluation — cycle 4
+**Evaluator:** book-evaluator (independent) | **Date:** 2026-10-23 | **Text:** `chapter-25.md` md5 `b3642f8e4fb711f8b608bf80a541bbbc` (cycle-3 set K1–K12, H4 applied)
+
+### Verification of the cycle-3 set
+- **K1–K12 and H4 each landed once.** Every K old string is at 0 on the page and every K new string is at 1 (checked by script against `fixes25d/apply_fixes.py`). The F, G and J old strings are also all still at 0, so no earlier cut has been restored.
+- **Gates on the real file:**
+  - `check_chapter.sh 25`: ALL MECHANICAL GATES CLEAN, SHAPE CLEAN.
+  - `tic_report.py --gate`: clean. Ch.25 gesture layer: 'a (long) moment' 2, shrug 1. No prop flag, and the widened prop regex (flicked/flipped/tossed/thumbed/jiggled/waved) finds nothing over cap.
+  - `--echoes 25`: 0 / 0 / 0.
+  - Metrics: 7,344 words (shape), wc 7,710, median 11, mean 16.0, 5.5% over 40 words, simile 19, and-chains 6/9, em-dash 3, dialogue 50.2%. The H4 header figures match the page.
+- **The re-joins read clean:**
+  - K2: "Fenn looked at the ceiling. Then, with a great scraping…" The joke now lands on the look.
+  - K6: '…like it had been crying. Anyhow."' The l.210 flick still has the copper in his hand, since l.202 "took one of my two coppers".
+  - K7: "He covered it with the other and held it down hard. I had the name. … I watched him not ask." This is stronger now that the restatement is gone.
+  - K9: "He left the stool for his table." Only Fenn is on a stool (l.218, 234), so the "He" resolves.
+  - K10: "Fenn weighed Valens with a look". The name is needed, and it is there.
+  - K4: "Fenn leaned over and nudged the pot a shade further toward the room with his good hand." His acceptance is now carried by the act alone.
+
+### Census re-check (cycle-3 classes and rulings, NOT reclassified)
+| Character | State | Cycle 3 | **Cycle 4 page (lines)** | Verdict |
+|---|---|---|---|---|
+| Fenn | talks on (narrated) | 4 | **3**: 186 · 218 · 228 (186→228 ~1,080 words) | OK |
+| Fenn | breaks off / halts | 4 | **3**: 136 · 254 · 268 ("broke off" ×1) | OK |
+| Fenn | absorbs news | 4 | **3**: 98 · 116 · 388 (168 stays a *decision*, per the ruling) | OK |
+| Fenn | feeling routed into a look at a thing | 4 | **3**: 202 · 374 · 382 (416 stays *noticing*) | OK |
+| Fenn | "slowly" | 4 | **3**: 98 · 388 · 414 (388→414 ~320 words; no 3 in the window) | OK |
+| Fenn | lighter held or handled | 4 | **3**: 52 · 168 · 260 (282 "over his lighter" is a back-reference, not a hold, and was uncounted at cycle 3 too) | OK |
+| Fenn | copper handled | 3 in ~210 | **2**: 202 took · 210 flicked | OK |
+| Fenn | bad hand held down | 3 in ~200 | **2**: 382 · 394 | OK |
+| Fenn | does not ask | 3 in ~80 | **2**: 380 · 382 | OK |
+| Fenn | "X." echo-fragment + business | 5 | **3**: 82 · 98 · 410 (358/370/388 designed). l.112 "You know." echoes a verb clause, not Mara's noun, so it falls outside the class: WATCH | OK |
+| Fenn | "figure" (verb) in speech | 6 | **5**: 162 · 170 · 264 ×2 (the pun) · 328. l.414 "every figure" is the noun, outside the class, as at cycle 3 | OK |
+| Fenn | "anyhow" | 3 | **2**: 152 · 202 | OK |
+| Fenn | turns / faces | 6 | **6**: 54 · 90 · 218 · 234 · 414 · 432 (0.82/1k, under the cap of 7; none 3 in 500) | OK |
+| Fenn | looks away · still/quiet · tremor · sand on robe | 3 · 3 · 3 · 3 | unchanged, spread | OK |
+| Valens | doorway · surveys · finds Mara · watches · meets Fenn | 3 · 3 · 2 · 2 · 2 | unchanged (80/390/428 · 14/68/80 · 68/212 · 80/390 · 304/434) | OK |
+| Lucius | lent mood · lent cognition | 3 · 3 | **3 · 2** (80/218/278 · 26/278) | OK |
+| Mara | words escape · satchel · looks · hands/legs alone | 3 · 3 · 2 · designed | unchanged | OK |
+
+**New states created by K1–K12: none.** The cuts add no verb of motion, look or handling. Recurrences checked on the patched page, all at 2 and all WATCH only:
+- "at last": 82 and 324, both Fenn.
+- "than before": 218 and 382.
+- "over the … head": 212 and 434, both Valens.
+- "kept … to itself / myself": 60 and 446.
+- "Nobody knows": 290 and 348. Mara is throwing Fenn's phrase back at him.
+
+"kid" as an address is at 2 (64, 398); l.328 "Every kid" is a noun. The census is closed and no state is at or over its cap.
+
+### Re-scored Genesis (max +0.5 per dimension)
+| Dimension | Cycle 3 | **Cycle 4** | Basis |
+|---|---|---|---|
+| Originality | 9.0 | **9.0** | unchanged. The lighter/"Thanks," recognition, the WHEN as an afterthought of joy (l.156) and the two withholdings at the close are all intact. |
+| Theme | 9.0 | **9.0** | unchanged. Bag/satchel (l.230), "You don't go buying furniture in a hotel." (l.234). |
+| Characters | 8.0 | **8.5** (+0.5, the per-cycle cap; uncapped 9.0) | Every narrated state is at 3 or fewer, and none has 3 inside 500 words (census above). Fenn's bilingual voice ("Sir, forgive me my manners; I am old." against "Holy smoke"); Mara's chaos 4/4, inhabited (the smudged moon l.164, Pat l.192, the voice she "could not bring … down" l.344, the Connie Mack lot l.446); Valens's belief shown and never said (l.80, l.294); Lucius has his own moment (l.270–278). |
+| Prose & Voice | 8.5 | **8.5** | The stopping sentence "I laughed because he had said thanks." (l.60) is intact. "I watched him not ask." (l.382) is sharper without its restatement. No sample lifts; no spent object. |
+| Pacing | 8.5 | **8.5** | 7,344 words (87% of a ceiling target), dialogue 50.2% (band 45–55), value shift on two axes, the date and its cutaway (l.156–160) intact. The l.186–236 middle is ~120 words lighter after J1/K1/K2. **PACING: OK** against Ch.23 (3,366 / 17%) and Ch.24 (5,720 / 29%): the single-scene two-hander is the designed outlier. |
+| Emotion | 9.0 | **9.0** | Anchor l.56–58; body rebel l.60; surprise (laughter at "thanks", the WHEN given as joy, the bus). K4 moves the basil grief into an act. |
+| Immersion | 9.0 | **9.0** | Blocking holds (stool → table l.246, sill, doorway). |
+| **FLOOR / AVERAGE** | 8.0 / 8.71 | **8.5 / 8.79** | Floor shared by Characters, Prose and Pacing |
+
+**Casual Reader 9.0** (unchanged: the lighter, "Thanks," the bus, and the last line's "oh no, she's wrong"). **CVI-Launch 9.8** (8×.2 + 10×.2 + 9×.2 + 9.47×.2 + 10×.1 + 10×.1 = 9.29, + 0.5 strong anchor). **CVI-Legacy 7.3** (unchanged inputs). Anti-AI 7/20, all minor, CLEAN; #11 at 4 (0.54/1k, under the 0.8 cap); #20 tremor now 3 notes. Divergence Launch vs Floor: 1.3.
+
+### FINALIZE swaps (TESTED)
+`/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fin25/finalize.py <path/to/chapter-25.md>`: **FN1 only**. It adds "cycle 4 PASS" to the l.6 header. The other header figures already match the page, and **no prose swap is needed**. On a scratch copy of the book (`fin25/test/`) starting from `b3642f8e…`:
+- The swap applied once, and the re-run aborts (exit 1).
+- Final md5 **`472a9dec950ad052597f723ef0aadc66`**.
+- The prose (l.8 on) is byte-identical to the evaluated page.
+- `check_chapter.sh 25`: ALL MECHANICAL GATES CLEAN.
+
+### Character-bible sync for the FINAL page (consolidated, cycles 0–4)
+Sync to md5 `472a9dec…` after FN1. Check every quote by grep against the final page, and check every CUT string OFF it.
+
+**1. FENN card**
+- **Heading:** "Ch.25 as written (Writer draft 2026-10-24; the page will be re-synced at finalize)" → "Ch.25 as written (FINAL page, md5 `472a9dec…`, synced 2026-10-23 after dialogue-polish, hook-craft, disruptor, continuity repair, evaluator cycles 0–3 (F1–F11, G1–G5, J1–J4, K1–K12), cycle 4 PASS, finalize FN1; quotes checked by grep; CUT strings checked OFF the page)".
+- **"He sees people last":**
+  - "looks round at the doorway 'at last'" → "looked to the doorway at last".
+  - "studies Mara only when she says she mends things" → "looked my hands over slowly, taking his time about it now".
+- **Idiom pool:**
+  - Add "holy smoke" 1 and "chump" 1 (not in the pool; ≤2).
+  - Add "a sap" 1.
+  - "kid" is 2 as an address (64, 398); l.328 "Every kid" is a noun and not counted.
+  - "Get out" ×2: rest it in Ch.26–27.
+  - "anyhow" 2 and "anyway" 1. "figure" (verb) 5, one pair being the 264 pun: ≤1 in Ch.26.
+- **Physicality:**
+  - Tremor: "(3 notes: on the table, 'shaking dice', held down)" → "(3 notes: on the table l.38; held down under the other l.382; the covering hand lifted and it stays l.394)".
+  - Lighter: "(closed in his fist, turned over, waved, slid away inside the robe; never lit)" → "(closed in his fist, turned over in his fingers, gone still, slid away inside the robe; never lit)".
+  - The copper: "taken off the table's corner and flicked back".
+- **Fenn's SPENT list:**
+  - Delete "the copper spun on its edge"; it is CUT.
+  - Basil: "Fenn turns it 'a shade further'" → "Fenn 'nudged the pot a shade further toward the room with his good hand'".
+  - Add the ship's-boy exchange ("Dawn is propitious," … "he may pay me when he is back.").
+  - Add "the stool turned to the wall while she nurses / Fenn looked at the ceiling".
+- **Narrated states SPENT for Fenn as of Ch.25, each at 3:** talking on (186/218/228); break-offs (136/254/268); object-looks (202/374/382); taking in news (98/116/388); "slowly" (98/388/414); the lighter in hand (52/168/260). Ch.26's letters carry him in his own words, with none of these as narration.
+- **Walk-on block fix:** "the rich men's boys who throw figs" → "olive pits".
+- **Changelog:** the "2026-10-24 (Writer, Ch.25 'Augurinus' draft)" entry → 2026-10-23. Add a "2026-10-23 (finalize Ch.25)" entry listing everything in this sync.
+
+**2. PAT card**
+- Heading: "(Ch.1, on the answering-machine tape only)" → "(Ch.1 on the tape; remembered Ch.25)".
+- Add: "**Ch.25 (memory, mention only):** Mara hears Fenn's 'wooder' and remembers Pat 'hosing down her steps every evening all summer, even the evenings it rained' (l.192). SPENT; first physical memory of her."
+- Fix the walk-on block's "standing in her own hose's spray" to the same quote.
+
+**3. Ch.25 walk-ons block**
+- "Writer draft 2026-10-24 (re-sync at finalize)" → "FINAL page md5 `472a9dec…`, synced 2026-10-23".
+- Add **the ship's boy** (sound only): "a boy bawled at the window from the quay below; the broken tread had turned him back, and his master was asking after the ship's hour". He gets Fenn's Greek reply and his "feet went off along the quay".
+- Add **the builder on the slope**, who paid in silver (mention).
+- "figs" → "olive pits".
+- Pat's line as in item 2.
+- Mrs. Szabo "between a price and a shrug, the way she would have put down a teacup".
+- Grata's husband: "recommended it in the summer" and "a few words about a language no one had heard before" (no "gibberish", no "all of them").
+
+**4. VALENS card (new Ch.25 block)**
+- **Belief is shown, never said:**
+  - the flush (l.80: "The color came up out of his collar…", "He pressed his mouth to the top of Lucius's head and did not lift it.");
+  - "Does he know the door?" (l.294);
+  - "Will they be true?" (l.434).
+- **Spoken lines:** "The third tread's split." / "Not two on that. I'll be at the bottom." / "He's hungry," / "It was reaching," … "Turn it every few days. Water it less." / "The light's going," … "We should see to the mules."
+- **Acts:** hefts the silver purse under the builder's eye; breaks the third tread; moves and turns the basil (l.236); catches Lucius's head short of the boards; rocks the roaring child; the horse-gone-lame look at Fenn (l.390); sets the terrible wine "at some distance from himself".
+- **Valens learned no date, no rules and no location.** The date, the law, Eros's door, the failed dates and "Pompeii's" all pass in English. Fenn's Greek to him covers courtesy, the stair, the boy's stars and the basil only.
+- **Counts:**
+  - Doorway station 3 (80/390/428), with no "post"/"place"/"station" label. Rule: ≤3 notes per single-scene chapter.
+  - Finds Mara 2, watches 2, meets Fenn 2.
+  - "over the … head" 2: WATCH, ≤1 in Ch.26.
+- **CUT:** "came two steps inside", "returned to his post", "came a pace off his post", "took up his place in the door again", "and left it", "facing Valens, who looked back".
+
+**5. MARA card (new Ch.25 block)**
+- **The collapse shape is SPENT.** That covers: "The client's stool caught me, which was luck, because my legs had gone."; the laugh and the tears fused in one fight for breath; "I laughed because he had said thanks."; her hands saving the papyrus "while the rest of me laughed and wept and had no air for either."
+- This is the **sixth laugh shape**. All six are SPENT, and the next one needs an outline ruling.
+- Sample-09's reserved collapse frame is now **used**.
+- **Chaos 4/4, inhabited:** the smudged moon (l.164); Pat (l.192); the argument voice "the voice I used on the phone with insurance companies" (l.344, SPENT); the Connie Mack lot and "I kept the fire to myself." (l.446).
+- **Margaret:** "I had the name." She does not say it. Ch.35 owns it.
+- **Close:** "I told him his arithmetic was wrong." (DECISION POINT).
+- **Counts:** words escaping her 3 (48/308/378) → ≤1 in Ch.26; "kept … to itself / myself" 2: WATCH; credential asides 0.
+- **CUT:** "In May. May of ninety-eight. Nineteen ninety-eight.", "pause for breath", "at his next pause", "everything that had crossed" (now "everything else"), "pot mended with a lead staple". The lead staple is SPENT as her mend-notice.
+
+**6. LUCIUS card**
+- Header: "Writer draft 2026-10-24" → FINAL md5 `472a9dec…`.
+- Replace the stale gull quote "with the deep offense he kept for anything that moved without asking him first" → "at eight months Lucius was busy with the gulls".
+- "tastes it, spits it" → "put one of them in his mouth" … "tried the sand again, spat it down his front".
+- Moods trimmed to lent mood 3 (objected l.80, "a grunt of grievance" l.218, "with deep suspicion" l.278) and lent cognition 2 (studied l.26, regarded l.278).
+- SPENT for Aelia (Ch.26) and Lucius later: lent adult indignation and lent adult scrutiny.
+- **CUT:** "glared at the gulls", "cross about it", "weighed the taste".
+
+**7. CUT log (never restore): every old string in F1–F11, G1–G5, J1–J4 and K1–K12**
+- **F:** "came two steps inside, saying nothing, took the cracked basil pot"; "returned to his post"; "came a pace off his post"; "took up his place in the door again with the child roaring against his neck"; "the tremor in the left one making it look as though he were shaking dice"; "He was away again."; "swung round to the doorway at last"; "He swiveled on the table toward Valens"; "He said it in a Chaldean's robe"; "Nineteen ninety-eight."; "without the nineteen"; "a pot mended with a lead staple"; "he told it."; "at his next pause for breath"; "holding everything that had crossed".
+- **G:** "Fenn talked straight through it"; "about the bathhouse keeper's pool, a little louder than before"; "and left it."; "Lucius glared at the gulls"; "drowsy and cross about it"; "then turned to me."
+- **J:** "The shakes ran on till the shadows had moved."; "Partway through them"; "Fenn stayed facing his wall."; "he called to the window behind him"; "abandoned the shakes in mid-run"; "facing Valens, who looked back."; "He looked at it and slid it away".
+- **K:** "at his next pause"; "broke off halfway into the hot springs"; "He took that in."; "looked at the plant for some while, and then slowly"; "the hand with the lighter in it"; "He stood the copper on its edge and spun it"; "pinning his own hand to the wood and not asking"; "weighed the taste"; '"The Pythia." He left'; '"Mules." He weighed'; "I figure it owes me sixty-eight"; "You'd find out anyhow".
+
+**8. New block "At-risk after Ch.25"**
+Header: FINAL page md5 `472a9dec…`, synced 2026-10-23; "Augurinus", Single-scene, one afternoon, 0 breaks.
+- **SPENT:**
+  - the recognition sequence (the lost-lighter mutter, "It's on the sill, by the basil," "Thanks," and "Jesus H. Christ", its one use);
+  - Mara's sixth laugh shape;
+  - "Late summer, seventy-nine." (verbatim 1 of 2);
+  - "one door with many mouths" (1 of 1, paraphrase after);
+  - "It takes back the one it brought…" (the allowlisted promise, **1 of 3**);
+  - "breathe with the earth" (1 of 2);
+  - "A night, tops, never days.";
+  - the automat with the copper/nickel trigger (Ch.27's lemon meringue needs another trigger);
+  - the widow / "Marry them and then go home on them";
+  - the hotel/furniture line;
+  - the packed bag under its dust;
+  - the basil turned and nudged;
+  - "He did not ask whose." / "I watched him not ask.";
+  - "A bus." ×2;
+  - "Keep it. I know what's in it." / "Kid, I wrote it.";
+  - the umbrella/blanket joke;
+  - "Will they be true?" / "in good Greek, … and very handsome";
+  - the ship's boy and "Dawn is propitious";
+  - the insurance-company voice;
+  - the Connie Mack fire withheld;
+  - "Vesuvius" (its one use, in Fenn's mouth);
+  - the lead staple.
+- **Fenn's narrated states, SPENT for Ch.26 as narration:** talking on, break-offs, object-looks, taking in news, and the lighter in hand.
+- **Fenn WATCH:**
+  - "slowly" ≤1 per chapter;
+  - "at last" 2;
+  - "Get out" rests in Ch.26–27;
+  - "nobody … but me" 2, so no third;
+  - "kid" ≤1 per chapter;
+  - "figure" (verb) ≤1.
+- **Book-wide WATCH:**
+  - "than before" 2;
+  - "Nobody knows" 2;
+  - Valens's "over the … head" 2;
+  - the station rule (≤3 notes, no label);
+  - grief shown as a look at an object, ≤1 per chapter for any character;
+  - the "[X] told [object]" frame, ≤1 per two chapters.
+- **Ch.26 guards:**
+  - **The hook must NOT be SENSORY IMMERSION** (Ch.25's hook) **and the pull must NOT be DECISION POINT** (Ch.25's pull). TICKING CLOCK is still the one hook type never used.
+  - **The 1964 Phillies collapse is already told** (6½ up with 12 to play, Mauch, Bunning and Short, Ruiz stealing home, ten straight). Ch.26's Phillies material must be new (WARN-18).
+  - **Median sentence 14+** to break the Ch.23–25 run of 10–11.
+  - Fenn's promise is at **1 of 3**; Ch.26 does not quote it.
+  - "one door with many mouths" is spent; paraphrase only.
+  - Fenn's letters carry his voice in his own words. None of his Ch.25 narrated states are rebuilt (the talking on, the break-offs, the object-looks, the taking in of news, the lighter in hand). The rage letter is the one rage.
+  - Aelia's birth reuses none of Ch.24's machinery (see At-risk after Ch.24) and gives the baby no lent indignation or scrutiny.
+
+## VERDICT (cycle 4)
+**PASS.** Genesis Floor 8.5 (Characters 8.5, Prose 8.5, Pacing 8.5) ≥ 8.5 ✓ · Casual 9.0 ≥ 8.5 ✓ · PACING OK ✓ · mechanical gates clean ✓ · `--gate` clean ✓ · echoes 0 ✓.
+- K1–K12 landed. Every cycle-3 census state is now at 3 or fewer, using the same classes.
+- K1–K12 created no new state, and none is at or over its cap.
+- Finalize applies FN1 (header only, tested). Then do the bible sync above, and update STATE.yaml and progress.md.
+
+Average 8.79 · CVI-Launch 9.8 · CVI-Legacy 7.3.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
