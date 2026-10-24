@@ -4191,3 +4191,69 @@ Open contradictions: 33 → 37.
   - **64 open** (68 before; CH29-2, CH29-3, CH29-4 and CH29-6 closed).
 
 ---
+
+## 2026-10-24: UPDATE (chapter 30, "Tremor")
+
+- **Page read:** I drafted this on the post-disruptor page 347efd1 (md5 8e0f735bc69a320a62c6c3a9720b7349; writer 12c8ca1, dialogue-polish fa93e7f, hook-craft 0a94f96). The continuity audit (af59125: 3 CRIT / 16 WARN / 25 INFO) and its **editor repair landed mid-run** (c555af7: 3 CRIT + 16 WARN + 4 INFO applied). I restored the YAML to its Ch.29 state and re-ran every edit against the page as it now stands, md5 8eaf47ac9aadfce29d33ada907944835. The chapter has not been evaluated yet.
+- **Numbering:**
+  - 87 paragraphs, with breaks after p9, p26, p36, p45, p53 and p78 (seven shards). The '# Chapter' heading, the '####' dateline and the two HTML comments are not counted, so file line 8 = p1. File-line formulas: 2p+6, 2p+8, 2p+10, 2p+12, 2p+14, 2p+16 and 2p+18 for the seven shards.
+  - The repair added and cut no paragraph, so old pN = new pN (checked by script). It changed text inside 25 paragraphs: p2, p3, p4, p6, p7, p12, p16, p18, p24, p33, p43, p44, p48, p51, p53, p61, p62, p63, p64, p65, p71, p75, p80, p84 and p86.
+- **Not recorded as page facts** (cut by the repair; they appear in the YAML only where labelled CUT): "the trodden floor" and "sitting on the earth" (WARN-01; Ch.26 has boards); the dust "hung, turning, where the light-well sent its slant down" (CRIT-002); "with no memory of crossing the room"; "the landlady's purse" (now "my purse"); "First he tried"; "Lucius laughed because his father had" (now "Lucius copied him"); "a family eating late" (now "out on the tomb road, afraid of their roofs"); "violets" in the Kalends pair (now "flowers"; the goat's violets stay); "I bore down with palm and fingers together" (now "Now, if ever, the door would answer the ground."); "the same as on the day I found it" (p44 now ends "faintly cool."); "from our ceiling"; "His lips moved on it once, without sound."; "the look he gave a ford once the mules were over it"; "and was telling the snakes about her roof"; "for the question … about my dead" (now "for the women there … about what a Greek owed her dead out of season"); "and started before we were in earshot"; "And the plasterer's promised to the cooper."; "looked in on the mules first" (now "With the mules seen to … leaned his weight on it"); "hands clasped behind him"; "and the rag let most of it through"; "the ink gone brown on the oldest"; "and written none of it down" (now "and never set one down here."); "*Eros: the same.*" (now "*Eros: no change.*"); "on the wall side".
+- **Timeline:**
+  - The dateline is Pompeii · February, AD 77. The outline has "Pompeii · AD 77", so the month is new and AGREES with "winter into spring" and "before the March elections" (audit I-03 asks for an outline patch).
+  - One day in order: the shake at mid-morning (the notebook's "Mid-morning"), the run, the small aftershock at the door ("the tail of the first"), back under the gate, the dusty cakes "at midday", "till the light changed", the trade "Later that day", the plank full "by lamplighting", and the entry "That night".
+  - "the big shake fifteen years back" = AD 62, which AGREES with "AD 62 (February, per Fenn)". "Nearly five years of Kalends" AGREES with the spring AD 72 arrival.
+  - Timeline row 30 is replaced (plan_was kept). 7 timeline_events are added: the AD 62 mend of the hearth wall; the old men's "year my mule died"; the vintage AD 76 entry; the shake; the aftershock; midday to lamplighting; the night entry.
+- **NEW characters (13):**
+  - `pompeii-plasterer-ad77` (minor; needs_review: possibly Grata's cousin, "a bad plasterer", ch-19:p134).
+  - `cookshop-man-ad77` (minor; distinct from `lost-pot-cook` per audit I-19 and the bible).
+  - `crossing-shrine-woman`, `old-men-on-the-fullers-bench` (minor; two men, one entry), `dyers-wife-ad77` (minor; needs_review: possibly the wife of `toddlers-father-dyer`) and `bowl-girl-ad77` (minor).
+  - Mentioned only: `plasterers-boy-ad77`, `plasterers-queue-ad77` (the cooper and the widow), `wine-seller-ad77`, `hen-woman-ad77`, `fountain-queue-ad77`, `gate-passage-boy` and `hearth-wall-plasterer-ad62`.
+  - No new name is on the page.
+- **Updated characters:**
+  - mara-reyes: the tremor-notes trait gets ch30_page; 4 traits (the early-door hope shown as a wish; the mender's eye; the cover kept, with flowers; keeping the door from the page and from Valens); nursing_ch30; location row replaced (plan_was kept); 2 planned knowledge rows replaced and 5 added; knowledge_absent_ch30; waypoint.
+  - valens: 3 traits; location row replaced; the planned "where the door is" row replaced by the page row (witnessed, plan_was kept); 2 knowledge rows; knowledge_absent_ch30; the "your gate" knowledge_gap marked RESOLVED; waypoint.
+  - pomponia-grata: eye_color **brown** (p13, by reading) and seen_ch30; 3 traits (Castor; "my purse"; the flood; the rag); location; status; 2 knowledge rows (NOT where they went).
+  - lucius ("Wall broke"; "Grata,"; copies his father; the oil; the flake; age_ch30), aelia (laughs at the shake and slaps the floor; age_ch30, still at the breast), gratas-husband, august-fenn, aulus-numisius-eros and misenum-carter (notes).
+- **Locations:**
+  - NEW: `nuceria-gate` (the arch and passage, with Ch.19's rose seller), `crossing-shrine` (needs_review: which crossing, CH30-3), `dyers-shop` and `plasterers-wine-shop`.
+  - nuceria-gate-tomb: the planned Ch.30 fact replaced by the page fact (plan_was kept, flags noted).
+  - Facts added to nuceria-road, cobblers-shop (the back room's hearth against the party wall; the floor material no longer stated), gratas-back-room, gratas-thermopolium, fullery-at-the-corner (the fuller's bench), bull-fountain and pompeii.
+- **Objects (9 NEW):**
+  - **chekhov_open:** `hearth-wall-crack` (down the AD 62 mend, plugged from both sides, "It'll hold"; the plasterer is not shown coming) and `cookshop-wine-jar` (promised for market day, two lead clamps).
+  - background: `dust-hearth-cakes` (the anchor, eaten), `valens-headstall`, `maras-sandal-strap`, `kalends-flowers`, `lucius-plaster-flake`, `dyers-wife-lamp` and `grandmothers-bowl-in-three`.
+  - Existing: fenn-notebook (planned beat replaced; location_ch30; last mentioned ch-30:p86), tremor-notes (planned beat replaced; entries_on_page; "Eros: no change." is the first door entry), maras-satchel ("on its nail"), fenns-letters ("the bundle") and pompeii-painted-false-door (ch30_page).
+- **Knowledge index:**
+  - door_location: the planned Valens row is replaced by the page row (witnessed; REPLACES the outline row). New rows: Mara knows that he knows; Grata and the street do NOT know.
+  - tremor_notes_known: Mara's entry; Valens NOT shown.
+- **Threads:** the-where, the-when (the early-door hope, written), hand-at-threshold (planned row replaced), kalends-walks (the walk named for the first time), fenns-cold-reports (the notebook-only wording keeps Fenn's request standing), valens-belief, repair-trade, lucius-infant and aelia-infant.
+- **World rules:**
+  - The planned "An ordinary tremor (AD 77) does not open the door." is now CONFIRMED on the page.
+  - The temperature ladder row gets ch30_page (CH30-1).
+  - 4 OBSERVED rows are added: the plasterers' queue and dear lime after a shake; the crossroads shrine and the honey cake; flowers on the Kalends as cover; glue of pine and hoof and lead clamps.
+- **Requested checks** (full results are in `meta.ch30_requested_checks`):
+  - **House geography: AGREES.** Ground floor (the beam, no stair, the party wall: ch-19:p115; ch-28:p139). The hearth is in the back room by reading (Lucius's pallet; the bed; the crack in sight at night), which agrees with the home hearth of ch-21:p42. The floor's material is no longer stated after the repair.
+  - **"Two babies": AGREES** (audit I-01). No age is printed. Derived: Lucius about 2 years 6–8 months; Aelia about 13–15 months, still at the breast.
+  - **The four mules: AGREE** (p3; p65; ch-26:p52; ch-28:p25).
+  - **The notebook: AGREES** with ch-26:p12. It is in the satchel under Fenn's letters; the satchel's nail is new; "I wet the reed" is the first writing implement named.
+  - **The tomb route: FLAGGED** CH30-3.
+  - **Knowledge:** Valens KNOWS WHERE THE DOOR IS (p49–p52, witnessed). Mara knows he knows. The door is "the one I had found there", faint, "No colder." through the aftershock. "*Eros: no change.*" is written and Valens is left out.
+- **Flags:**
+  - **NEW and open:**
+    - CH30-1 (medium): the painted leaf is sun-warm until shaded ("The paint was warm"; "A little less warm than sunlit paint ought to be"; "warm against my brow from the sun", p39–p42). Ch.19/Ch.25 have it "cool" with the sun on it (ch-19:p168; ch-19:p178; ch-25:p126; ch-25:p154), which earlier repairs protected (Ch.27 X1, CRIT-4). The repair left p37–p42 untouched, and audit I-05 does not take this up.
+    - CH30-2 (info): her palm is "near the foot of the left leaf"; Ch.19's cool spot was "the lower panel of the right-hand leaf" (ch-19:p168). Compatible.
+    - CH30-3 (low): she goes east to "the fountain" and "the crossing", then turns south for the Nuceria Gate. Ch.19/Ch.29 put the crossing with the fountain back along the street, with its south street leading to the Stabian Gate (ch-19:p119; ch-29:p90). Also, the return order (crossing, bench, fountain) inverts the outbound order. Compatible if these are a different fountain and crossing.
+  - **Opened on the post-disruptor page and RESOLVED by the repair:** CH30-4 (info), "a family eating late" (WARN-11).
+  - **Closed:** CH20-6 (low knowledge_gap, "your gate"), on the continuity audit's recommendation (I-06 and its suggested patch). The audit labels that patch "CH20-7"; in this file CH20-7 is the Ch.20 bible lag, and I left it untouched.
+  - **Rechecked:** CH29-5 and CH28-2..5 are untouched. CRITICAL: none.
+- **Chapters 6 and 11:** not processed, by instruction (author watch beats, 343144e and 02ba603). A `revalidation_needed` row is set to PENDING. chapter-6.md now counts 342 paragraphs (340 tracked); chapter-11.md still counts 278.
+- **meta:** header log block, `last_updated_by`, `mode`, `source` (Ch.1–30; the outline now covers Ch.31–44), `last_updated_chapter: 30`, `chapters_tracked` +30, the Ch.30 clause in `paragraph_rule`, and `ch30_requested_checks`. The plan_gaps row "When Valens learns the tomb's location" gets ch30_page.
+- **Not touched:** chapter-30.md (or any chapter), character-bible.md, STATE.yaml, foundation.md and outline.md. I committed nothing; the orchestrator's checkpoint commits 9dc96a8 and c555af7 picked up intermediate copies of the YAML while this run was in progress.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - All 508 ch-30 cites fall in p1..p87.
+  - Every single-quoted fragment of 4+ words on the new or changed lines was checked by script against the repaired page: 472 checked. Every Ch.30 page quote is anchored to a paragraph cited on its line (0 gaps). The misses are other-chapter, plan, audit or bible quotes, or post-disruptor wording that is labelled CUT.
+  - The file holds 428 characters, 132 locations, 217 objects, 26 organizations, 76 plot threads, 144 world rules, 282 timeline_events and 209 contradiction rows.
+  - **66 open** (64 before; +3 for CH30-1..3; CH30-4 opened and closed; CH20-6 closed).
+
+---
