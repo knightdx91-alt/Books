@@ -3681,3 +3681,98 @@ Open contradictions: 33 → 37.
   - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
   - The file holds 381 characters, 118 locations, 184 objects, 24 organizations, 72 plot threads, 127 world rules, 251 timeline_events and 183 contradiction rows.
   - **60 open** (63 before; −3: CH26-2, CH26-6, CH26-7).
+
+## 2026-10-24: UPDATE (chapter 27, "Cumae")
+
+- **Page read:** drafted on the post-disruptor page 4a9ea52 (md5 cedb5f569b59282e603d7a92e70ccee2), after writer 5170211, dialogue-polish c454aa9 and hook-craft (no edits). The continuity repair **b2f1caa landed mid-run** (6 CRIT, 15 WARN; md5 b7d112dd7d6ba23fcfd6648b6ca99e42). It is the page as it now stands, so every Ch.27 row was **re-anchored to it**. The same repair changed one line of Ch.25 (p154), which is re-quoted below.
+- **Numbering:**
+  - 245 paragraphs, with breaks after p33, p113 and p195. The dateline and the two HTML comments are not counted, so file line 8 = p1.
+  - The post-disruptor page had the same count and breaks, so old pN = new pN (checked by script).
+  - The repair changed text inside 32 paragraphs, listed in `paragraph_rule`.
+- **Not recorded:**
+  - Report lines that are not on the page, e.g. "a little short of forty", "I could not laugh", "Thirty-five years gone", "in the dark, in forty-one".
+  - Post-disruptor lines the repair cut. Where a flag needs one, it is marked CUT: "with the notebook in the pocket", "conservator for eleven years", the wick's "lamp oil for thirty years", the counter's "not a large number", the answering taps, "One month it's breathing", "every Kalends" at Cumae, the bath keeper's free horoscope, the nickel, "a deep shining bronze", and the bone in Lucius's fist on the way home.
+- **The invitation:** made in person on the Puteoli fish wharf: "Then tomorrow you're mine, the three of you." … "We're taking a walk to Cumae." (p8). The letters only fixed the meeting: Mara's R5 and Fenn's one-line L7 (p4). The CH26-6 forward constraint holds.
+- **Who went:**
+  - Fenn, Mara, Lucius (about 20–22 months, derived) and Aelia (about 3–4 months, derived). Neither age is printed. Aelia is fed at the ridge crest (p114).
+  - Valens is hauling brick to Misenum "for a villa going up on the cape" (p7). He is on the page only at the wharf, the carters' inn and the dawn yard (p15–p39).
+  - Four mules: "the dun … the other three" (p15). The jenny was chosen by Valens: "She's sound … She bites. Not hard." (p35). She bites Fenn at Cumae (p127).
+  - Fenn waits at the yard gate until the string has gone (p39).
+- **Route:** Puteoli → the hot ground (scrapers, the hollow boom) → the oyster lake → Avernus (the ruined navy yard, the ducks, the meal on a quay block) → the ridge path → Cumae → the same road back to the last rise above Puteoli at lamp-lighting.
+- **The Sibyl's cave (`sibyls-cave`):**
+  - The trapezoidal entrance and gallery, cut tuff, side passages to the sky with slabs of light, a window passage over the sea, and the chamber with its bench, figures and coin crack.
+  - The keeper (`cumae-cave-keeper`): bees, the pot lid, the swarm lost "for Misenum", "Two coppers each. Children for nothing".
+  - The sailor (`cumae-fleet-sailor`) carving his name, "he had reached the third letter".
+- **The dead door (`cumae-dead-door`):**
+  - Location: a blind storage cut on the landward side, short of the chamber.
+  - Fenn's X at shoulder height, "worn soft and dark by hands". He was "thirty-six", in the summer of AD 43, and found it from Virgil and a magazine picture.
+  - Visited "the first of every month" for seven years; dead in "Spring of fifty"; "Warm like a wall's warm"; "It just quit."; then "Every month for a year", then yearly.
+  - Dead: Mara's name "handed back off it" (p164).
+  - Live: "like talking into a pillow", "hang a side of beef" (p165), "Like Eros's, only colder." (p167).
+- **Fenn's crossing story:**
+  - The coat, "gray Navy wool", slept in at the mouth for a week, then folded on the string rock "with my cigarettes in the pocket" (p192). He believes a goatherd took it (p194).
+  - The carbon is in the notebook's back-cover pocket in Mara's satchel and is kept from him (p195).
+  - This agrees with Ch.2 (the carbon's text and place, ch-02:p65–p67) and with Ch.3–5: nothing of Fenn's was found at the Corycian, and "I didn't see any string." Her kneeling entry matches ch-03:p73.
+- **The Zippo:** named for the first time, "It was a Zippo." (p99). The sparks "fell on the wick and died" (p102). This is the named frame, shot at Avernus "while his thumb was still trying" (p105). The lamp-oil refill is not on the page.
+- **Pentax and film:**
+  - "My father's." (p92). Fenn refuses talk of it: "Not one word about it".
+  - To Fenn, only "Some." frames left; the counter is not read on the repaired page.
+  - The Lucius-and-ducks frame is not taken.
+  - Film: plan 13 shot / 23 left; page at least 12 shot / at most 24 left.
+- **The bone and the diamond:**
+  - The bone comes out of the satchel and is thrown down the gallery; its clatter comes back from the blind passage.
+  - The dust diamond: "You're Richie Allen." with the bone on third. Lucius stops on every bag. Fenn slides home.
+  - The bone is last on the page in Lucius's two hands (p221).
+- **The pie:** lemon meringue at Horn and Hardart (p58). "In his room, a year ago, it had been coconut cream. I let him have the lemon." (p59). This is the planned mutation.
+- **The request:** "Write me … After the Kalends. Every one. Just that it's cold." / "And if it isn't?" / "It will be," (p242–p244). New thread `fenns-cold-reports` (open; no outline beat).
+- **Ages:**
+  - Fenn: "Sixty-nine in August, give or take a calendar." (p145) and "thirty-six" in AD 43 (p155). Years since landing are not printed (derived 35).
+  - Mara: not on the page; derived about 38–39 in body years.
+- **Felix:** not on the page and not named. The chapter ends above Puteoli before the return home. Forward constraint (felix.ch27_note, plot_threads.felix-arena): Ch.28 brings the news that he is missing.
+- **NEW characters:** `cumae-cave-keeper`, `cumae-fleet-sailor`, `hot-ground-sulphur-scrapers`.
+- **Updated characters:**
+  - mara-reyes, valens, august-fenn, lucius and aelia: traits, physical rows, location_log, knowledge, knowledge_absent_ch27 and arc rows. The plan rows for Ch.27 were replaced with page rows, each keeping `plan_was`.
+  - felix and pomponia-grata: a `ch27_note` each.
+  - margaret-fenn: `name_usage_ch27` = 0.
+  - puteoli-bathhouse-keeper (linked by place, not merged) and puteoli-octopus-seller.
+- **NEW locations:** `puteoli-carters-inn`, `lucrine-lake` (needs_review), `lake-avernus`, `avernus-ridge-path`, `sibyls-cave`, `cumae-dead-door`, `ischia`.
+- **Updated locations:** puteoli, puteoli-fish-quay, puteoli-hot-ground, neapolis, misenum, cumae (plus distances), corycian-cave, philadelphia.
+- **NEW objects:** `cumae-jenny`, `gratas-cumae-honey`, `fenns-overcoat`.
+- **Updated objects:** fathers-pentax-k1000, film-roll, corycian-knucklebone, fenn-notebook (provenance_ch27_note: not in the coat on the page), fenns-zippo, consulate-effects-slip, fenns-letters (L7), maras-letters-to-fenn (R5), maras-satchel, aelias-lunula, pompeii-painted-false-door (ch27_mention).
+- **Knowledge:**
+  - New `knowledge_index.cumae_dead_door`.
+  - Rows added to maras_camera (august-fenn) and fenn_news_from_home (nothing after 1968).
+  - Fenn learns that Valens was a gladiator at Corinth, Mara's Corycian cold, that she saw no string, and that she walks to Eros's door every Kalends and found it "cold" at the last one.
+  - Fenn does not know that the coat went home (knowledge_absent_ch27).
+  - No knowledge_gap.
+- **Threads:** ch27 rows on fenn-cautionary-mirror, fenn-zippo, hand-at-threshold (HIS hand, written), kalends-walks, lucius-infant, aelia-infant, felix-arena, the-refusal (her night's hope of another door) and fenn-sisters-name ("my sister", 0 "Margaret").
+- **World rules:**
+  - Three OBSERVED rows: a door can die (live = cold and deaf; dead = warm and echoing; no shake felt); Fenn's comparison with Eros's; the Sibyl's cave as a paid sight.
+  - A `ch27_page` note on the dormant-temperature ladder.
+- **Organizations:** horn-and-hardart (lemon meringue), philadelphia-phillies (Richie Allen 1964), misenum-fleet.
+- **Timeline:** row 27 rewritten to the page: spring AD 76, before the Ides, two days. Seven timeline_events added: about 1943; July 1968 (the coat); AD 41–43; summer AD 43; spring AD 50; AD 50–51 and after; spring AD 76.
+- **Ch.25 re-quote:** p154 now reads "Cool paint, noon or midnight, and nothing." (the repair's CRIT-4). The one row that quoted the old line (nuceria-gate-tomb) is re-quoted with a RE-SYNC/CUT note. A `revalidation_needed` row is added for chapter 25 (RESOLVED).
+- **Flags:**
+  - **NEW, open:**
+    - CH27-1 (medium): Eros's door is "cold" in AD 76 (p240), and "Like Eros's" is said of a door cold enough to hang beef in (p165–p167). This is against Ch.19's "faintly cool" / "only just cool" and the planned ladder (faintly cool to Ch.30, cold only at Ch.41). The brief's "breathed cold (Ch.19, Ch.25)" is the AD 62 opening night, not the dormant door. The repair aligned Ch.25 and left Ch.27.
+    - CH27-2 (low): a week asleep at the mouth in the coat, against Ch.25's "I hiked up there first thing" (reconcilable if the week came earlier). Also, the coat is on the string rock by the slot, not certainly at "the cave mouth" as the outline says.
+    - CH27-3 (info): Fenn asks how she went in, when she told him in Ch.25 (ch-25:p83).
+    - CH27-4 (info): the August birthday puts him at 33 at the crossing and 67 at Ch.25, against the YAML's derived 34 and 68. Foundation §3 was patched to "33 when he crossed" but still says "aged 34" in the same sentence. A `conflict` sub-field (UNRESOLVED) is added on august-fenn.physical.age.
+    - CH27-7 (info): outline Ch.27 vs the page. NARROWED by the repair's outline patch (the anchor now reads "waiting for it to turn cold"). Still standing: "rolls" against the throw, "cave mouth", and the unprinted thirty-five years.
+  - **Opened on the post-disruptor page and RESOLVED by the repair:**
+    - CH27-5: the notebook in the coat against the goatherd belief.
+    - CH27-6: "conservator for eleven years" against ten.
+    - CH27-8: the morning shadows "first up the track" against "the opposite direction".
+  - **Rechecked:**
+    - CH2-3: STILL OPEN. The post-disruptor page put the notebook in the coat pocket; the repair made it "my cigarettes". No page says the notebook came home in the coat, and the foundation still does.
+    - CH25-4: NARROWED. The Zippo is now named and shown failing; the weather and the late WHEN still stand.
+    - P3: rechecked against the Ch.27 road; still open.
+  - **CRITICAL:** none. **knowledge_gap:** none.
+- **meta:** header note, `last_updated_by`, `mode`, `source` (Ch.1–27; the outline now covers Ch.28–44), `last_updated_chapter: 27`, `chapters_tracked` +27, the Ch.27 clause in `paragraph_rule`, `revalidation_needed` rows for chapter 27 (mid-run repair) and chapter 25 (both RESOLVED), and `ch27_requested_checks`.
+- **Not touched:** chapter-27.md (md5 b7d112dd…), chapter-25.md, character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - All 690 ch-27 cites fall in p1..p245.
+  - Every single-quoted fragment on the added lines was checked by script against the repaired page. The only misses are plan, outline, foundation or report quotes, older YAML phrases on lines that gained a field, and post-disruptor wording that sits labelled as CUT.
+  - The file holds 384 characters, 125 locations, 187 objects, 24 organizations, 73 plot threads, 130 world rules, 258 timeline_events and 191 contradiction rows.
+  - **65 open** (60 before; +5: CH27-1, CH27-2, CH27-3, CH27-4, CH27-7).
