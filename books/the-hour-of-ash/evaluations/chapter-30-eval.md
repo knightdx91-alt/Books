@@ -720,3 +720,103 @@ How each figure was measured:
 If cycle 1 changes anything, re-measure the header.
 
 **BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Cycle 1
+**Evaluator:** book-evaluator (independent) | **Date:** 2026-10-24 | **Text:** `manuscript/chapters/chapter-30.md`, md5 **`2d8df26b956801632387468ee4219bbe`**, confirmed. It matches the cycle-0 tested result for `apply_fixes.py --header` (commit 8a1d298). The word diff 8a1d298~1..8a1d298 shows exactly the 21 swaps (L1–L4, C1, P1–P16) plus the l.6 header, and nothing else.
+
+### Gates re-run (from the book folder)
+- `bash tools/check_chapter.sh 30`: **ALL MECHANICAL GATES CLEAN**. Style 2,303w (simile 0.9/1k, em-dash 0); grammar 0; rhythm 0 flagged; show/tell 2,324w, dlg 10.9%, no flags; voice-wear strict clean; tic gate clean (gestures clean, and-chains 1); 5c echo 0, command echo 0, spoken-line echo 0; 5d closed ledger clean; metaphor fig 1.7/1k, no flags; SHAPE CLEAN.
+- shape_check row 30: 2,296w / 6 breaks / dlg 11% / median 11 / I-punch → punch. **The l.6 header is accurate as written. No re-measure is needed.**
+- `closed_ledger.tsv`: 28 rows, 23 of them live for Ch.30. The five new rows are closed after 30, so the gate skips them for Ch.30 itself. I ran all 28 regexes against Ch.30 by script: 0 hits. `closed_check.py` over Ch.1–30 fails only in Ch.21 and Ch.25 (the two known Phase-5 "and stayed" hits).
+- CUT/SPENT/rejected-draft strings from every cycle-0 CUT list (66 strings, including the continuity, disruptor and hook-craft cuts and the six rejected test drafts): **0 on the page.**
+- The cycle-0 re-sync list: every on-page quote in items 1–8 (214 fragments) was checked by script against the page. **All present.** The only "misses" are the CUT lines themselves, labels, and nested quote marks.
+
+### Swap sites re-read in context (grammar · natural prose · referent · doubles within ~40 lines · CUT/SPENT · echo · forward reach)
+Every new string was grepped across Ch.1–29. Unrelated-sense hits only: "unhurt" (Ch.28, Rusticus), "Halfway to the" (Ch.11, Ch.20), "told nobody" (Ch.10, Ch.21), "unwritten" (Ch.3, Ch.11), "for last" (Ch.22), "skin of", "zipper" (Ch.4, literal). Every other new string had 0 hits.
+| ID | On the page now | Ruling |
+|---|---|---|
+| P10 | l.12 heaved, set me down, heaved again → mules | Clean join |
+| P11 | "warm and unhurt and she wanted down" | Clean. No other "unhurt" in the chapter |
+| P15 | "the headstall dangling from one hand" (l.40) | Clean. "one finger" follows two sentences later, after he drops the headstall. That is a logical sequence, not a double (INFO) |
+| P8 | "beam to hearth, like a zipper parting." | Past-consistent, so the narrating-present law is met. The figure count is unchanged (simile 0.9/1k) |
+| P12 | "The dough had taken a fine skin of the dust." | Clean. It still answers "under its skin of dust" (l.150). "settled" is now l.14 ×2 (designed) and l.140 (a different sense, 126 lines on) |
+| L2 | l.74 | **"them"** = the street's people and the old men; "the next fountain" is unambiguous; "Halfway to the gate" reads as her Kalends gate and is named one sentence later. That is a same-paragraph cataphor, not a forward reach. "assured me it was over" sets up "I'd just told you it was over." (l.170). No call-after, stitch, hem or sandal sound. "I ran." (l.72) and "I ran with my toes clawed" are two lines apart. The run verb is the subject of the shard and does not dull the one-line gear change (INFO) |
+| P1 | "…a woman going out to her dead. I had not run it before." | The cut sentence carried "that road". "it" now takes "that arch", and against "passed under that arch at a walk" "run it" reads as running the passage. Acceptable (INFO) |
+| P7 | "My breath was all in the top of my chest." | Clean |
+| **L1** | l.90 "Hot from the run, the hand gave me only its own heat at first. I stepped in close, so that my shadow fell across it, and waited for the heat to fade." | Clean. "it" = the hand, and the heat that fades is the hand's. "It left slowly. Under it, when it rose, the coolness…" (l.92) is pre-existing and still parses. **CH30-1 verified:** the chapter has three "warm" (Aelia l.20; "A little less warm than sunlit paint ought to be" l.92, which says the door is cooler; the glue pot l.172) and three "sun" (l.80, l.86, l.92). **No clause makes the door or paint warm.** The shadow serves the hot palm. That agrees with Ch.19 l.353–355 ("faintly cool") and Ch.25 l.258 ("Cool under my hand with the sun on it") |
+| P13 | "The paint smelled of dust and lime." | Clean |
+| P9 | "The dust at the door's foot lay undisturbed. … the door was a door on a tomb" | The referent is correct, and "its" would have taken the bench. "door's … door was a door" stacks slightly before the designed tautology. Every alternative tried here ("Below the leaf" doubles l.96 "the leaf"; "sill" was rejected in cycle 0; "step" doubles l.80/l.98) is worse. Accept (INFO) |
+| P4 | "He had known for years that there was a door. I had told nobody where." | Clean and stronger |
+| P2 | "His hands hung empty at his sides." | Clean |
+| L4 | "I had not thought of them since I left." | The logic holds. l.74's "Aelia had last fed at dawn, and the running jarred my breasts" is the retrospective narrator glossing a body fact, not a thought of the children in the run. Cycle 0 wrote L4 knowing l.74. Accept |
+| L3 | l.138 "Where we turned for home, a woman had set a honey cake on the shrine's altar…" / l.140 "Passing the fountain I had a lie worked out… On the fuller's bench the two old men had settled the year…" | Clean. "Passing the fountain" takes the run's "next fountain" (the women watched her by). Nothing restores "answer ready". "ready" is now 1 (l.112) |
+| P14 | l.142 → Grata's flood | Clean |
+| C1 | "and the wall open to your fire" | Clean. Grata's "my wall" is now 2 |
+| P3 | "…into the bottom of the split against the draft." | Clean. US spelling |
+| P16 | "A girl of nine or so… Last came my adviser…" | "Last came" works with two named customers. "The plank was full" implies the rest. Clean |
+| P5 | "I kept the jar for last." | Clean. "kept" ×1 (WATCH ok) |
+| P6 | "Valens in the road went unwritten." | Clean. It answers "One thing more wanted writing". Subject-first |
+
+**No defect created by the swaps.** Four items are logged as INFO (P15, L2, P1, P9). None meets the "a fix that creates a finding" bar.
+
+### CH30-3: route verified both ways
+- **Out:** the shop, then the old men on the fuller's bench ("I went east past them"), then "the next fountain" (east; Ch.19 l.223's long street runs east, and Ch.19 l.253's "Back to the crossing with the fountain, then left" puts the bull's-head crossing west), then "Halfway to the gate", then "I turned south toward the Nuceria Gate" (ENTITY nuceria-gate: east, then south). No named crossing.
+- **Home:** the gate, the plasterer "In the town" (on the Nuceria road), the shrine "Where we turned for home" (the same eastern turning), "Passing the fountain" (the same eastern fountain), the fuller's bench, then Grata's counter. The exact reverse.
+- The page no longer says "the crossing". Ch.29 l.170/l.188's stage crossing ("Walking down to the crossing") is untouched.
+- **INFO for the entity tracker (not a page defect; cycle 0 did not rule it because no canon line forces it):** Ch.20 l.465 says "The fountain at our corner" (the bull's-head fountain, west) and Ch.28 l.94 says "The fullery on our corner". Ch.30 now puts the fuller's bench east of the shop. No line puts the fullery at the fountain crossing: Ch.19 l.277 "The fuller at the corner" and Ch.26 l.122 "the corner by the fullery" are both unplaced. So the book has two "our corner"s, one at each end of the block.
+  - Record `fullery-at-the-corner` as the shop's EAST corner. A later chapter must not stage the fullery at the bull's-head crossing.
+  - Rename `crossing-shrine` to "the shrine at the turning toward the Nuceria road" and drop needs_review.
+  - Move the Ch.30 fact off `bull-fountain` onto a new "the next fountain east of the shop" row.
+  - Mark `dyers-shop`'s dyer's-wife fact CUT (P16).
+
+### Census: cycle-0 rulings binding; deltas only
+- Grata: "my wall" 3 → 2 (C1); "She saw us coming" off, so the "[S] saw" frame is 2 (both Valens).
+- Narration "fist" 4 → 3.
+- Mara "ready" 2 → 1.
+- "settled" for the dust 3 → 2 (designed parallel).
+- No narrated state over 3, and none at 3 inside 500 words. Grata's talking-on is still AT CAP (3), unchanged, with the Ch.31 WATCH standing.
+
+### Anti-AI re-scan (2,296 words)
+- #1: clear (P3).
+- #3: 1 instance (plasterer / boy / wine seller, l.130; 0.44/1k minor).
+- #8: 1 (l.14, designed).
+- #11: **0 firm** (P1, P2, P3). The 1 borderline is unchanged ("to learn how deep it went"). L1's "Hot from the run…" is set-up, and L3's "a poor one, about…" is the lie's content.
+- #18: minor.
+- All others clear.
+- **Total 3/20, −0.375 (clean band).**
+
+### Genesis Score, cycle 1
+| Dimension | C0 | **C1** | Evidence / reason |
+|---|---|---|---|
+| Originality | 8.5 | **8.5** | Held. The Ch.17 run rebuild is gone (L2's clawed toes and a remark to her face), so the 9.0 blocker is lifted. 8.5 holds because the +0.5 needs fresh evidence and nothing new was added |
+| Theme | 8.5 | **8.5** | Held. "No colder." / "Valens in the road went unwritten." The mending saturation (#18 minor) remains |
+| Characters | 8.5 | **8.5** | Held. C1 and P14 tidy Grata. The census is clean. Valens's ≤4-word lines stay a Ch.31 guard |
+| **Prose & Voice** | 7.5 | **8.0** | **Every cap reason is removed:**<br>- #11 0 firm;<br>- fronted objects 0;<br>- Ch.17 run beats 0;<br>- call-after 0;<br>- narrating present 0;<br>- Fenn's line 0;<br>- stopped-work tell 0;<br>- "whole" 0.<br>Stopping sentences intact: "I watched the crack and wished it wider." (l.58); "He put no question to me." (l.118); "No colder." (l.102). New underline: "I had told nobody where." (l.114). Ugly sentence intact (l.152). **The evidence supports the uncapped 8.5, but the +0.5-per-cycle limit holds Prose at 8.0 this cycle** |
+| Pacing | 8.5 | **8.5** | Held. 2,296w, low gear, ledger matched. P16 lightens S6 a little. The after-peak sag is unchanged in kind |
+| Emotion | 8.5 | **8.5** | Held. The bread anchor, "No colder.", relief at an earthquake |
+| Immersion | 9.0 | **9.0** | Held. The route is now consistent (the Devoted Reader's catch is closed), and the door's temperature canon is restored. The generic honey cake still blocks 9.5 |
+| **FLOOR** | 7.5 | **8.0** | Prose (the cycle-improvement limit, not a craft defect) |
+| **AVERAGE** | 8.43 | **8.50** | (8.5 + 8.5 + 8.5 + 8.0 + 8.5 + 8.5 + 9.0) / 7 |
+
+**Casual Reader 9.0** (unchanged; nothing the Casual Reader sees changed). **CVI-Launch 9.4** (8.9 + 0.5 anchor; inputs unchanged). **CVI-Legacy 6.7** (unchanged). Pacing vs neighbours: **OK**. Mechanical gates: **clean**. Tomorrow Test: ANCHOR EXISTS (the bread, dust and all).
+
+### VERDICT, cycle 1: **POLISH. Floor 8.0 < 8.5, so cycle 2 is required by the cap rule.**
+- The floor sits at 8.0 for one reason only. Prose may rise at most +0.5 per cycle from cycle 0's 7.5. Every other dimension is ≥ 8.5. Casual 9.0 ✓, pacing ✓, gates ✓.
+- **No fix is needed. No `apply_fixes_c1.py` is written. The chapter md5 stays `2d8df26b956801632387468ee4219bbe`.**
+- **What cycle 2 must confirm (a confirmation pass, with no text change expected):**
+  1. The chapter md5 is still `2d8df26b956801632387468ee4219bbe`. If it is not, re-read every changed line in full before scoring.
+  2. `bash tools/check_chapter.sh 30` is still ALL CLEAN, and `closed_check.py` over Ch.1–30 still fails only Ch.21/Ch.25 "and stayed".
+  3. Prose 8.0 → 8.5. Its evidence is already on the page and needs no surgery:
+     - #11 firm = 0 (≤1 allowed under 3,000w);
+     - zero CLOSED/SPENT constructions;
+     - the stopping sentences at l.58, l.102 and l.118 intact;
+     - the ugly sentence at l.152 intact.
+  4. No other dimension regressed. All hold at 8.5, with Immersion at 9.0. Floor 8.5 / Average 8.57 / Casual 9.0 is then a PASS.
+  5. Emit the final consolidated character-bible re-sync list. The cycle-0 list (items 1–10) is **already reconciled against md5 2d8df26b**: all 214 on-page fragments are present and all 66 CUT strings are absent. Add this cycle's entity notes (the fullery's EAST corner; crossing-shrine renamed with needs_review dropped; the Ch.30 fountain fact moved off `bull-fountain`; the dyer's-wife fact CUT). Then confirm the l.6 header (accurate as it stands: shape 2,296 / style 2,303 / show-tell 2,324, dlg 11% / 10.9%, 6 breaks, median 11).
+
+### PATH TO 8.5
+- **Prose 8.0 → 8.5 requires:** nothing on the page. Only the cycle-improvement limit holds it, and cycle 2 confirms the uncapped value. Do NOT polish further before cycle 2. Any edit reopens the swap-site audit, and the four INFO items above are each better left than changed.
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
