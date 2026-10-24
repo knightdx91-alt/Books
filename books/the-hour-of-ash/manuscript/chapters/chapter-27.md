@@ -109,7 +109,7 @@ The ground answered with a deep hollow note we felt in our feet, a drum struck i
 
 "Fenn! Get off it!"
 
-"It does that." He stamped again, delighted. "The floor's hollow, the Spectrum would fit under here, ice and all, and the bath keeper says when his grandfather was a boy they'd hear it clear down at the road. Relax, would you, it's been doing this since Hannibal." He saw my face. "All right, I'm coming."
+"It does that." He stamped again, delighted. "The floor's hollow, it booms like the Spectrum when the Flyers score, and the bath keeper says when his grandfather was a boy they'd hear it clear down at the road. Relax, would you, it's been doing this since Hannibal." He saw my face. "All right, I'm coming."
 
 He came picking his way back and stopped at a vent close to the lip; the sulphur had grown round the crack's mouth in a crust of small bright yellow crystals, fringed along their tops with something white that the steam had left, and he stooped over it.
 
@@ -121,7 +121,7 @@ The men with the hoes lifted their heads at the English, and the older one calle
 
 "After the Ides," Fenn called back, "and not a day before, so bring a hat."
 
-"At the automat," Fenn said, "they did a lemon meringue so stiff it would hold a spoon upright, with the meringue on top a mile high and the little brown peaks on it, like this, and you could look your slice over before you paid, so you'd walk the row hunting for the tallest one, everybody did it, with some guy behind me breathing down my collar." He sketched the peaks in the air above the crystals, not touching. "You'd go in for a cup of coffee and leave with the pie, every time."
+"At the automat," Fenn said, "they did a lemon meringue with the meringue piled a mile high and the little brown peaks on it, like this, and you could look your slice over before you paid, so you'd walk the row hunting for the tallest one, everybody did it, with some guy behind me breathing down my collar." He sketched the peaks in the air above the crystals, not touching. "You'd go in for a cup of coffee and leave with the pie, every time."
 
 In his room, a year ago, it had been coconut cream. I let him have the lemon.
 

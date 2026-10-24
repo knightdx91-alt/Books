@@ -624,3 +624,128 @@ Script: `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpa
 Apply `fixes27c/apply_fixes.py` to `manuscript/chapters/chapter-27.md` and confirm md5 `1214428b…`. Re-run `check_chapter.sh 27` and `--echoes 27`, then re-evaluate (cycle 3). The census is now exhaustive for narrated states and speech habits, so cycle 3 should only need to verify.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Re-evaluation — cycle 3
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Date:** 2026-10-24 | **Cycle:** 3 of 5
+**Text evaluated:** `manuscript/chapters/chapter-27.md`, md5 `1214428ba546532d04def00db9f0f2e3`. *(l.N = line numbers in this file.)*
+
+### Did the cycle-2 set land?
+- **Landed exactly.** The md5 equals the cycle-2 scratch result (`…/scratchpad/eval27c/`). All 11 strings are on the page:
+  - S1 (l.112), S2 (l.124), S3 (l.350), S4 (l.268), S5 (l.272), S7 (l.286), S8 (l.304), S9 (l.48), S10 (l.268), S11 (l.352), S12 (l.360).
+  - Nothing else changed.
+- **Measured on the real file:**
+  - `check_chapter.sh 27`: ALL MECHANICAL GATES CLEAN.
+  - `tic_report.py --gate`: clean.
+  - **`--echoes 27`: 0**, with 0 command echoes and 0 spoken-line echoes.
+  - Show/tell row: 7,499 words, dialogue 35.8%. Metaphor row: 7,481, fig 3.7/1k, simile 22, median 17. Shape CLEAN.
+
+### Did the set plant anything? Yes: two items, both inside S1/S2 (l.112–124)
+Each item was checked by hand under the cycle-2 rules: a habit is a pet construction or a recurring shape, and the cap is >2 per chapter. No class was reclassified.
+
+1. **S1 and S2 swapped the marker and kept the habit.** Cycle 2 named the failing habit as the nameable rule *"he sizes everything by what you could do with it"*. "you could" was only its marker. S1 and S2 removed the words and kept the sizing:
+   - l.112 "the Spectrum would fit under here, ice and all" is still the capacity hyperbole.
+   - l.124 "so stiff it would hold a spoon upright" is the "you could stand a spoon in it" idiom re-worded.
+   - **The "you could" construction is now 2** (l.334 side of beef; l.388 destroyer), which is the cap.
+   - **The capacity-sizing hyperbole is still 4** (112, 124, 334, 388), and 112 and 124 are about 250 words apart in consecutive Fenn speeches. The rule is still nameable, and the reader still hears it where it was loudest. *A fix that creates a finding is not a fix*, and a fix that re-words a habit is not a fix either.
+2. **S1 planted a tag pair.**
+   - "ice and all" (l.112) pairs with "stamp and all" (l.142), 30 lines later, in the same voice.
+   - With "the chin and everything" (l.160), that makes **3 general-extender tags in Fenn's speech in ~550 words**. This is a pet construction and fails >2.
+   - The barker's "and so on and so forth" (l.308) is formula and is excluded, as cycle 2 excluded "Step right up" and "No refunds".
+   - Cycle 2's S1 source line read "room left over for the ice", so the pair did not exist before S1.
+
+Every other S-string reads clean in context:
+- "She can love it later." makes "So" 2 (l.30, l.174).
+- "It's down this end," is a pronoun-copula opener, which counts as grammar.
+- "What then, that morning?" is one question, not question + fragment, so the two-part count is 2 (l.356, l.368).
+- "Did you keep coming after?" is one question.
+- "the full price" and "shuffles the deck" are fine.
+
+### Census re-check (cycle-0 and cycle-2 classifications, unchanged)
+**Narrated states:** every row holds, because S1–S12 touched only speech.
+- Fenn: delight 3 (112, 198, 342), stick 5 (86, 138, 172, 414, 496; the cycle-0 ruling), hat 3, rope 3, tremor 2, squint 2, leaning 2, laughing 2, shouting 2, arm thrown 1.
+- Keeper: sea-gaze 2, pot lid 3 spread.
+- Lucius: watching 3, "fist" 5.
+- Mara: "before I decided" 1, fatigue 3 spread, watching 3 spread.
+- Aelia: 3 / 2.
+- **No narrated-state failure.**
+
+**Speech habits:**
+
+| Speaker | Habit | Count now | Verdict |
+|---|---|---|---|
+| Fenn | "you could" construction | 2 (334, 388) | OK |
+| Fenn | capacity-sizing hyperbole (the cycle-2 nameable rule) | **4** (112, 124, 334, 388) | **FAILS** → T1–T2 → 2 |
+| Fenn | general-extender tag ("X and all" / "and everything") | **3** (112, 142, 160) in ~550 words | **FAILS** (planted by S1) → T1 → 2 |
+| Fenn | "the whole" | 2 (10, 334) | OK |
+| Fenn | "So" retort | 2 (30, 174) | OK |
+| Fenn | "Come on" | 2 (286, 446) | OK |
+| Fenn | "sir" | 2 (44, 54) | OK |
+| Fenn | doubled phrases | 1 counted (210) | OK |
+| Fenn | "guy" | 3 (124, 156, 420) | OK (project cap 3) |
+| Fenn | "No [noun]" / "would you" / "[X] would." / vocatives / idiom pool | each ≤2 | OK |
+| Mara | "And…?" | 2 (374, 492) | OK |
+| Mara | question + fragment | 2 (356, 368) | OK |
+| Mara | statement + dry fragment | 3, spread over ~130 lines | watch (syntax), as at cycle 2 |
+| Valens / keeper / Lucius / scrapers / sailor | — | — | OK, as at cycle 2 |
+
+### Scores — cycle 3 (+0.5 max per dimension)
+| Dimension | C2 | **C3** | Evidence / cap |
+|---|---|---|---|
+| Originality | 9.0 | **9.0** | Unchanged: the dead door shown with pride (l.370); "Lemon meringue," → "I let him have the lemon." (l.116/126); the diamond in the Sibyl's dust (l.414); the keeper's swarm (l.248). |
+| Theme | 9.0 | **9.0** | "I'd check the hill mornings before I checked the weather." (l.376); "You sit up with a sick friend, don't you?" (l.362). |
+| Characters | 8.0 | **8.0** | Every cycle-2 marker count is at or under cap, and the narrated census is clean. Held at **8.0** by the sizing habit, which survives re-wording at 4 with a back-to-back pair at l.112/124, and by the general-extender tag at 3 that S1 planted. This is the same cap practice as cycles 0–2. Everything else is 8.5+: "it's like eating something that's still making up its mind" (l.146); "the left one went on going after the right had stopped" (l.358). |
+| Prose & Voice | 8.5 | **8.5** | Holds: 0 echoes; stopping sentences at l.318, l.372 and l.402; ugly sentence at l.178; voice under pressure at l.108–110 and l.364. |
+| Pacing | 8.5 | **8.5** | 7,499 words (99%), dialogue 35.8% (band 35–45), handoffs unchanged. **PACING OK.** |
+| Emotion | 9.0 | **9.0** | The anchor (l.318) is verbatim; "Of you." (l.222); the coat against the carbon (l.388–394). |
+| Immersion | 9.0 | **9.0** | Unchanged. |
+| **FLOOR** | 8.0 | **8.0** | Characters |
+| **AVERAGE** | 8.71 | **8.71** | |
+
+- **Casual Reader: 9.0.** None of this would stop this reader.
+- **CVI-Launch: 9.4.** 0.2(8) + 0.2(10) + 0.2(9) + 0.2(7.5) + 0.1(10) + 0.1(10) = 8.9, + 0.5 for a strong anchor.
+- **CVI-Legacy: 7.1.** Default weights.
+- **Anti-AI:** 8 patterns present at minor weight. This is the commercial clean band.
+
+### Fix set — cycle 3 (TESTED)
+Script: `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes27d/apply_fixes.py <chapter-27.md>`. It makes **2 replacements** on the md5 `1214428b…` page. Each must match exactly once or the script aborts and writes nothing. A re-run aborts safely; this was tested.
+
+**Tested on a fresh scratch copy** of the book folder (`…/scratchpad/eval27d/`):
+- `check_chapter.sh 27`: **ALL MECHANICAL GATES CLEAN** (voice-wear strict clean; shape CLEAN).
+- `--gate`: clean.
+- **`--echoes 27`: 0**, with 0 command and 0 spoken-line echoes.
+- 7,490 words (show/tell row), dialogue 35.8%. Metaphor row: 7,472, fig 3.9/1k (gate 4.0), simile 23, median 17.
+- Result md5 **`e3e00dd1b2e9d90078db3e6611acf78e`**.
+
+| ID | Location | Problem type | Now | Why | Revision (exact, in script) | Project rule? |
+|---|---|---|---|---|---|---|
+| T1 | l.112 | Character (speech habit, planted) | "The floor's hollow, the Spectrum would fit under here, ice and all, and the bath keeper…" | Capacity sizing (4 with 124/334/388) re-worded, not cured; "ice and all" pairs with l.142 "stamp and all" (general extenders 3) | "The floor's hollow, it booms like the Spectrum when the Flyers score, and the bath keeper…" (the Spectrum becomes a sound comparison for the boom; the Flyers played there from Oct 1967, before Fenn's July 1968 crossing) | Yes: a habit fix must remove the habit, not its marker words |
+| T2 | l.124 | Character | "a lemon meringue so stiff it would hold a spoon upright, with the meringue on top a mile high" | The 2nd capacity hyperbole in ~250 words | "a lemon meringue with the meringue piled a mile high" ("a mile high" carries the pie; "a mile" is 2 in his speech with l.436 "Safe by a mile") | — |
+
+After T1–T2:
+- capacity sizing 2 (beef, destroyer; both "you could")
+- "and all" 1
+- general extenders 2
+- Fenn's "like" comparisons in speech 8 (varied sources; voice)
+
+Nothing else is touched: the opener, anchor, Zippo frame, doornail, coat, slide and fade keep their words.
+
+**Projected after fixes27d:** Characters **8.5** (+0.5) → **Floor 8.5 / Average 8.79**. Casual 9.0. Pacing OK.
+
+### PATH TO 8.5
+- **Characters 8.0 → 8.5 requires:** apply T1–T2. Nothing else on the page holds the floor. The cycle-4 evaluation should be a verification only: md5 `e3e00dd1…`, gates, and a re-read of l.112–160.
+
+### Carry to the PASS cycle (bookkeeping, not page edits)
+Everything from the cycle-1 and cycle-2 carry lists still stands. Add:
+- The bible's Ch.27 lemon-meringue quote (character-bible.md ~l.1834, "you could…") is stale.
+- The Spectrum is now "booms like the Spectrum when the Flyers score". The Flyers are a new period reference (1/2).
+- CUT strings from S1/S2/T1/T2: "would fit under here", "ice and all", "so stiff it would hold a spoon upright", "room left over for the ice", "stood a spoon up".
+- New guard: Fenn's capacity-sizing hyperbole ≤2 per chapter, whatever the wording.
+
+### VERDICT
+**POLISH.** Floor 8.0 (Characters) < 8.5. Casual 9.0 ✓. Pacing OK ✓. Gates clean ✓, with echoes at 0.
+
+Apply `fixes27d/apply_fixes.py`, confirm md5 `e3e00dd1…`, re-run `check_chapter.sh 27` and `--echoes 27`, then re-evaluate (cycle 4 of 5).
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
