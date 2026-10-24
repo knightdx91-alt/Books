@@ -139,7 +139,7 @@ PY
 [ $? -ne 0 ] && FAIL=$((FAIL+1))
 
 [ -d "$ROOT/books/_template" ] && ok "books/_template/" || bad "books/_template/ missing — new-book.sh cannot scaffold"
-for t in style_check.py grammar_check.py voice_wear_check.py tic_report.py metaphor_check.py rhythm_check.py show_tell_check.py check_chapter.sh build_pdf.py; do
+for t in style_check.py grammar_check.py voice_wear_check.py tic_report.py metaphor_check.py rhythm_check.py show_tell_check.py closed_check.py closed_ledger.tsv check_chapter.sh build_pdf.py; do
   [ -f "$ROOT/books/_template/tools/$t" ] || bad "books/_template/tools/$t missing — new books would ship without that gate"
 done
 [ -d "$ROOT/books/_series-template" ] && ok "books/_series-template/" || warn "books/_series-template/ missing — new-series.sh cannot scaffold"

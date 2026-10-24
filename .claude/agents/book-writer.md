@@ -289,6 +289,9 @@ entry:
   closed, waiting, a trembling hand, staying still, turning on a stool) more than 3 times in a chapter,
   and never 3 inside ~500 words. Infants and animals get no borrowed adult moods.
 - **Nothing on the bible's SPENT / CLOSED lists comes back,** in any words. Read them before you draft.
+  In BOOKKEEPING MODE, whenever you mark a construction SPENT / CLOSED / CUT and it can be written as a
+  narrow regex, also add a line to the book's `tools/closed_ledger.tsv` (`<regex> TAB <chapter> TAB <label>`)
+  so `check_chapter.sh` (step 5d) catches a reuse mechanically.
 - **One command runs every mechanical gate:** `bash tools/check_chapter.sh N` from the book folder. It
   must print ALL MECHANICAL GATES CLEAN before you hand the chapter over (if the book predates it, copy
   it and its three companion gates from `books/_template/tools/`).

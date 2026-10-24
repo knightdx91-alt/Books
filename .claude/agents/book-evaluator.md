@@ -501,6 +501,7 @@ his words nine times and it surfaced only at cycle 1). Hour of Ash Ch.25 lost tw
 extra cycles because cycle 0 counted four states and each re-evaluation found more that had been there from the start.
 The cycle-0 census also covers, by hand:
 - **Every per-chapter word cap or watch-list entry in the character bible**, for every speaker on the page and for the narration. `tic_report.py` does not measure them. In Hour of Ash Ch.28, a speaker's watched word ×3 and three narration caps had been on the page since cycle 0, and a third cycle was spent finding them.
+- **The bible's At-risk SPENT / CLOSED / CUT constructions, read in full** (not only the numeric caps). Run `python3 tools/closed_check.py N` for the regex half, then read the rest by hand. Hour of Ash Ch.28 lost cycle 3 to ten zero-tolerance devices nobody had looked for. Any closed construction you find that can be a narrow regex goes in your bible re-sync list as a new `tools/closed_ledger.tsv` line.
 - **The speaker's earlier chapters.** A habit at 2 in this chapter that the same speaker already used in an earlier chapter counts toward the cap.
 - **Each of your own fix swaps, before you hand them over.** Check that a swap does not create a new double within ~40 lines (Ch.28 cycle 1: two of the cycle-0 swaps did).
 

@@ -263,8 +263,13 @@ Proven on *The Hour of Ash* and seeded into every book by `new-book.sh`:
 - **`rhythm_check.py`** — the observation / reflection / expanded-reflection paragraph template.
 - **`show_tell_check.py`** — dialogue share, filter verbs and abstraction; flags the heaviest
   telling paragraphs so they become scene before the evaluator sees them.
+- **`closed_check.py N`** + **`closed_ledger.tsv`** — the machine-readable half of the character
+  bible's SPENT / CLOSED ledger. Each line is `<regex> TAB <closed after chapter N> TAB <label>`;
+  a chapter after N that reuses the construction FAILS. The bible sync adds a line whenever it marks
+  something SPENT/CLOSED/CUT that can be written as a regex (on *The Hour of Ash* an evaluator spent
+  a whole cycle finding ten closed devices by hand that had been on the page since the draft).
 - **`check_chapter.sh N`** — runs every gate for chapter N in one go (style, grammar, rhythm,
-  show/tell, voice-wear, the tic gate, the echo scan, metaphor, word count, shape audit) and
+  show/tell, voice-wear, the tic gate, the echo scan, the closed ledger, metaphor, word count, shape audit) and
   **exits non-zero if any line says FAIL**. A chapter is mechanically clean only when it prints
   `ALL MECHANICAL GATES CLEAN`.
 - **`build_pdf.py`** — a 6×9 reading-copy PDF of the chapters so far (`--upto N`); title from STATE.yaml.

@@ -1,0 +1,12 @@
+# SPENT/CLOSED ledger — machine-readable entries, checked by tools/closed_check.py (check_chapter.sh step 5d).
+# Format: <python regex> TAB <closed after chapter N> TAB <label>
+# Add a line whenever the character bible's At-risk block marks a construction SPENT/CLOSED/CUT and
+# it can be written as a regex. Chapters <= N keep their uses; every later chapter must not reuse it.
+# Keep regexes narrow — a false hit costs an editor pass, a missed one costs an evaluator cycle.
+\band stayed\b	15	"and stayed" CLOSED book-wide (bible, after Ch.15)
+\b(looked|watched|considered|studied) at [^.!?"]{1,60}, and at\b	25	two-item look "looked at X, and at Y" CLOSED (Ch.25 audit)
+\b(her|his|their) eyes went (across|past|over) (me|him|her)\b	19	eyes-arriving beat SPENT after Ch.19
+\b(smell(ed|s)?|scent|stink|reek(ed)?) of wet stone\b	3	"wet stone" as a smell SPENT in Ch.3 (a literal wet surface is fine)
+\bthan before\b	28	"than before" 2/2 book-wide, SPENT
+\bnot hard,	28	"not hard," after a blow CLOSED book-wide (narration and speech)
+\bVesuvius\b	0	the mountain is never named on the page (AUTHOR-CP5-1)

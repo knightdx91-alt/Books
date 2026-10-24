@@ -1,0 +1,5 @@
+# SPENT/CLOSED ledger — machine-readable entries, checked by tools/closed_check.py (check_chapter.sh step 5d).
+# Format: <python regex> TAB <closed after chapter N> TAB <label>
+# Add a line whenever the character bible's At-risk block marks a construction SPENT/CLOSED/CUT and
+# it can be written as a regex. Chapters <= N keep their uses; every later chapter must not reuse it.
+# Keep regexes narrow — a false hit costs an editor pass, a missed one costs an evaluator cycle.

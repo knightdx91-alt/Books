@@ -7,6 +7,7 @@
 #   3. rhythm_check  (flat triplets / unsanctioned anaphora)
 #   4. show_tell     (too-descriptive: filter/abstraction; chapter row + book heavies)
 #   5. voice_wear    (per-POV device calcification / retired phrases; --strict: self-repeat FAILS)
+#   5d. closed ledger (tools/closed_ledger.tsv: the bible's SPENT/CLOSED constructions, as regexes)
 #   5a. tic gate     (tic_report --gate: no phrase/catchphrase recurs 3+ times book-wide)
 #   6. word count    (vs the outline target — NO per-chapter floor; length varies by design)
 #   7. shape audit   (book-wide predictability check, tools/shape_check.py at the repo root)
@@ -36,6 +37,7 @@ if [ "${E:-0}" -gt 0 ]; then
   if grep -qx "$N" tools/echo_grandfathered.txt 2>/dev/null; then echo "   (advisory: ${E} echoes — chapter grandfathered; clear in Phase 5)"
   else echo "RESULT: FAIL — ${E} cross-chapter echo(es); vary every one before the evaluator sees the chapter"; fi
 fi
+line "5d. CLOSED LEDGER (SPENT/CLOSED constructions from tools/closed_ledger.tsv — never restore one)"; python3 tools/closed_check.py "$N" 2>&1
 line "5b. METAPHOR/SENTENCE-SHAPE (register: figurative load + long-sentence %)"
 python3 tools/metaphor_check.py 2>&1 | grep -E "wds|^ *${N} " | head -2
 python3 tools/metaphor_check.py "$N" >/dev/null 2>&1 || echo "   ^ over a figurative ceiling (FIG>4.0/1k or LONG>18% of sentences) — split/trim"
