@@ -840,6 +840,31 @@ loosened toward the life it came from.
   - **CUT (never restore):** "I wanted one night"; "I was a little short of forty; Fenn was nearly seventy."; "I could not laugh. I had
     a laugh somewhere…"; "of us three who were awake in that corridor"; "There was another one." (now "There had been"); "It was cold
     on the last Kalends." **Spent in Ch.27:** every line above.
+- **Ch.28 as written ("Felix in the Arena", In medias res: the bout / nine days before / the bout's end; Pompeii, late spring AD 76;
+  WRITER DRAFT 2026-10-24, quotes checked against the draft; downstream passes re-sync to the final page):**
+  - **Opener (hers, partial):** "The crowd roared for the wrong man." She will not answer the bean woman's "Who's the bird?" ("I could
+    have told her. I watched the sand instead.").
+  - **Her eye on the bout:** the helmet takes his face ("a visor of punched holes where his eyes ought to be"); "I knew him by his
+    feet"; the greaves "new, and the sun found them; I knew by then what they had cost him"; her attention runs to the torn greave strap
+    ("a new hole had been punched for his thin calf, too near its neighbor") and later "His greave strap was holding. I had forgotten
+    to watch it." (her one material-reading run in the chapter; it is Rusticus's lacing that fails).
+  - **Cognitive distortion (catastrophizing, all-or-nothing), in action:** the week of certainty ("I was certain he would do something;
+    nothing in all my time in that town had seemed so sure. At night I lay awake and planned it for him."), dressed before he is back
+    from the stable; at the tribunal, "He would make them go on. There was no doubt in me." Both wrong.
+  - **Irrelevant thought (triggered by the saffron water):** "my cousin Gloria's yellow rice, out of a box on Sundays, and Ray salting it
+    before he had tasted it." (Gloria and Ray from Ch.1; no father, no stove.)
+  - **Body rebels:** "I was standing too, without having got up." / "When I unclenched my hands, the bench's grit had printed itself
+    into both palms."
+  - **Her reading of Albucius against Valens's:** "the hand was a clerk's, round and patient, and under the four hundred, smaller, ran a
+    second line: less forty, greaves. To my eye it was no wax of a man hiding anything."
+  - **The money:** "the jar from under our bed, my mending money and his carting money together … against a day nobody had named"; she
+    carries it in a knotted cloth; it goes back untouched.
+  - **Speech:** uncontracted Latin ("He is not two yet. They will be shouting." / "The women will not know you." / "Nobody has told
+    me." / "He is alive," to Prima's "Did he ever lose?"). "And…?" openers 1 ("And you?"); question + fragment 0; statement + dry
+    fragment 0. No laugh (all six shapes spent). No credential aside. Ugly sentence: "I slept some and not much and then it was
+    morning." Memory: none (no memory paragraph; the sherd's origin is one past-facing clause).
+  - **Spent in Ch.28:** every line above; the Gloria rice; the greave strap.
+
 #### VALENS ("Lupus") — muleteer, former murmillo, freedman; b. c. AD 38 in Thrace (Ch.6–44)
 - **Attention / worldview:** footing, exits, weather, and the moods of animals and men, which are one
   skill to him. He reads bodies before faces and asks who saw. His worldview: whoever is close enough
@@ -1679,6 +1704,37 @@ loosened toward the life it came from.
   - **CUT (never restore):** "It's favored that leg since we turned the corner."; "Take the boy's hat."; "He fought. In the arena, at
     Corinth, before my time."; "the look across her back"; "up between his knees… round the inside of the hoof"; the tag order "Not him," Valens
     said. (now "said Valens") **Spent in Ch.27:** every line above; "Hold that."
+- **Ch.28 as written (WRITER DRAFT 2026-10-24; downstream passes re-sync):** **the arena arc closes without him fighting.**
+  - **Watching, not stepping in (the chapter's refusal):** "I'll go," … "Up top. With the women." / "If I sit down below with the men,
+    a man along the bench knows me soon enough, and the herald has it ahead of the thraeces. Then it's Lupus's boy on the sand." /
+    "They'll want Lupus's boy to kill a man. At the top I'm a carter with a child." / "The women will know me. They don't call heralds."
+    / "Bring Lucius." … "He'll sit on me." / "I can't go down there. I'd be one more pair of feet on that sand." … "I'll watch." (Why
+    he holds the boy is never said.)
+  - **The anchor:** "Valens sat beside me with Lucius on his knee."; through the whole bowl on its feet, "Valens sat. Lucius sat on his
+    knee." / "Valens had an arm round the boy's middle. The other rested open on the stone at his side. His eyes were on the sand."
+    In the parade, while Felix searches the good benches, "Valens's hand did not leave the boy." (the inverse of Ch.21's raised hand;
+    never pointed out).
+  - **"Mine."** To the bean woman's "That bird … Was he anything of yours?": "Mine," said Valens. (Ch.21 told Nicanor "His own. I freed
+    him."; the change is not remarked on. Felix does not hear it.)
+  - **Mind-reading (wrong in a mundane way):** of Albucius, "He wants more. He's looked the boy over. He knows what he's got. He'll take
+    my money once the games are over and find a reason to keep him anyway, or he'll put him against someone who can kill him and sell
+    the duumvir the blood. The giver pays more for a corpse than for one that walks off." / "He'd say so." / to Felix, "Albucius robbed
+    you," and "He's charging you for his own kit." Corrected by Nicanor (the greaves cost thirty-five; Albucius took forty).
+  - **With Felix (subtext: never says he is proud):** "How much did he give you?" / "Who's your pair?" / "He's right." / "You're quick.
+    A thraex wants quick." / "A murmillo," … "looks out over his board. He can't see your feet. He watches your shield. Wherever it goes,
+    he thinks you're going." / "Keep it up, then." / "I'll not come to the yard." In the tunnel: he catches the arm and turns it to the
+    light; "That wants washing." (No praise is spoken.)
+  - **His first fight (asked by Mara in the dark; no killing in it):** "I couldn't feel my feet," … "Not once, walking out to my mark. I
+    looked down to see were they still on me. Nicanor yelled at me to stamp." / "I stamped. The crowd laughed." … "After, I had them
+    back."
+  - **Maintenance for the hands (new object):** "unpicking the stitches of a strap that was sound, and stitching it again"; pays Grata's
+    boy two coppers unasked; takes Mara's stool, "which he never did", and stoops over the hare bowl Lucius tilts up to him.
+  - **Felix's freedom (his law, from his life):** "He's free. I said it at Kirrha with the Cilician listening, there on the quay. You
+    don't say that and then come round after and haul him home by the ear." He knew Felix was at the posts "Since the must was in the
+    vats."
+  - Counts: no comparison in his speech; no "why" of a feeling; stillness narrated 3 (the hand in the parade, "Valens sat.", the arm and
+    open hand). **Spent in Ch.28:** every line above; "Mine."; the first-fight feet; the strap re-stitched.
+
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
   scores. **He sees people last.** His worldview: his real life is the one he is going back to. He has
@@ -2632,6 +2688,43 @@ loosened toward the life it came from.
   wall" / "came past below"; "He was out and away with no answer from me, whistling, with his hand already flat on the doorpost to swing
   himself round it."; "The dun had never thrown her head at anybody in her life, and he knew I knew it." **Spent in Ch.26:** every line
   above.
+
+- **Ch.28 as written ("Felix in the Arena"; WRITER DRAFT 2026-10-24; quotes checked against the draft; downstream passes re-sync):**
+  **Age/status:** "eighteen, he tells me" (Albucius's tablet); free by Valens's word only, "of no town he could name"; Albucius "never
+  even asked me for a paper". Sworn **auctoratus** to the lanista **Albucius** for three years, before the duumvir's freedman, Nicanor
+  witness; 400 down "and the same each time I fight, and more if I win. Less the greaves." (forty; Nicanor: the smith charged
+  thirty-five). Nicanor wrote his name in the wax; "I watched every letter go in." **Route of the news (Ch.21 guard kept):** Grata at
+  the street on the return from Puteoli; Prima at the vats; Nicanor brings him home at dusk to tell it himself. Nobody goes to the
+  barracks gate. **Armature:** thraex (griffin-crested brimmed helmet with a punched visor, two high greaves over quilted leg wraps,
+  quilted sword arm, curved sword, small shield); he asked for the murmillo's "big board and the fish on my head" and Nicanor "laughed
+  till he had to sit" ("a thraex or I'd go back to the mules"). **Body:** hair "cropped close to his skull"; "the beard Nicanor had made
+  the price of trying him, a dark down"; the midwinter split eyebrow was the posts (he said the dun threw her head); he was at the posts
+  from the autumn ("Since the must was in the vats." Valens). **His message on leaving:** about the dun's feed, not about himself ("it's
+  the new hay and not her teeth"). **Lines (stacked questions only once):** "Nicanor's making me tell you myself, so this is me telling
+  you. I've sworn. … and I never stumbled once. There. It's told." / "Grata would." / "They're mine. They're made to my legs. Nobody
+  else can wear them." / "Because I'm too thin to hold the board up." … "Say so, then. Say I can't." / "Nicanor told me all that my
+  first day." / "I keep it where I like." / "She'll come to the games," … "She'll be there, up with the women, and she'll see." /
+  "She's got the sherd. Did she show you? She'd show nobody that unless she meant to keep it." / "Never. He gave me what he promised." /
+  "Nicanor says you've not come to the sand since the bear. Not once in more than two summers. Not even to look." / "You could come to
+  the yard. … you'd find something, you always find something. Everybody else's people come." / **the wish refused aloud:** "You
+  needn't," … "I'd sooner you stayed away. If you sat near the tribunal they'd cry your name before I was halfway to my mark, and the
+  whole place would know who'd taught me, and I'd spend the whole bout hunting the benches for you while he took my ear off." / the
+  hare bowl to Lucius: "That's yours. Carry it in two hands, like that. Keep your fingers off where the hare is." / via Prima: "he's not
+  burned yet … a baker can't lift anything but bread." / after the bout (fast): "He bent right over in front of me! Neck out, and every
+  bench in the place begging me to take it. His ear was mine for the taking. Nicanor says I'm a fool. … no one will cry my name in this
+  town again." … "Somebody threw his sandal at us." / **the last line:** "When they were all up shouting, I looked for you," … "You were
+  sitting down." (the son asking whether the father is ashamed; never said). **In the parade** he searches "the good benches low beside
+  the tribunal … one bench after the next". **The bout:** circles wide; hits the rim; keeps his distance; shield up after (Valens's
+  advice, uncommented); does NOT strike Rusticus while he ties his greave; cut on the upper arm by the shield rim ("ran a dark finger's
+  length down the quilting"); both sent off standing; jeered; a sandal thrown. **The palm (LAST reservation, now SPENT for the book):**
+  on the plaster above the waiting bench in the north tunnel under the seats, "at a sitting man's shoulder": new, "the dust from them
+  still lay in a little drift along the bench's back", "a spine from bottom to top with fronds laid back along the left of it, and on
+  the right two fronds, and then nothing. … Its maker had been called out before he could finish." (no nail, no doubled stem, no lamp,
+  no fingertip; Mara never says it is his and nobody mentions it). **Prima:** the girl at the fullery; he gave her the ΦΗΛΙΞ sherd ("He
+  said to keep it."); bakers "fat by thirty"; "no crowd ever cried a baker's name". **Counts:** "Is it" openers 0; stacked-question
+  bursts 0 (single questions only); speeches ending on a fact or boast: most; "nobody" 1. No "thank you" to Valens; no fear admitted.
+  **Spent in Ch.28:** every line above; the palm (no further palm anywhere in the book); the bowl handed to Lucius; "Say I can't."; the
+  sandal.
 #### PLAUTIA — Celer's divorced wife; b. c. AD 44, married to Celer in the autumn of AD 63 at nineteen; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
   Marcus, b. autumn AD 64: seven in Ch.16, nine in Ch.22; kept by his father under Roman law). She has learned that everything can be taken, so
@@ -3185,6 +3278,16 @@ loosened toward the life it came from.
   "since market day"; "that loud one up there at the window"; "She was out in the rain again with me still deciding whether I ate
   standing up." **Spent in Ch.26:** every line above.
 
+- **Ch.28 (WRITER DRAFT 2026-10-24):** the news delivered in the street, one flood, telling not asking ("He's gone to the gladiators.
+  He went the very next day after you … my husband's no use on a road and my boy's no use anywhere. … he did it in the dark, I give him
+  that … His blanket's gone. That bowl of his is still on your shelf. … whatever that means to her." / "Give her here. You're dropping
+  where you stand, the pair of you, and the boy's got meal up his nose."); "The troupe that sleeps at the theaters, with the bald one." /
+  "You'll never get him out of there, and I'll not charge you for knowing it." + the cousin's boy at Nuceria "the year of the riot" whose
+  mother brought her wedding money in a cloth and had it back counted; Felix's one message ("the new hay and not her teeth"); at Nicanor,
+  reported ("he was the trainer, she could tell a trainer, they had the legs for it … she didn't feed fighters for the love of it");
+  takes Aelia "in silence, for once, and made up for it on the doorstep" (the flood reported, ending "she'd hate to hear the lanistas").
+  Her boy appears (bare feet, two coppers). No touch in this chapter; no "men" line; no question. **Spent:** every line above.
+
 ## THE CHILDREN
 
 #### LUCIUS — son of Mara and Valens; b. summer AD 74 (born on the page Ch.24; in arms Ch.25; speaks Ch.27–29, 32, 34, 37–44; age 5 at the eruption)
@@ -3275,6 +3378,15 @@ loosened toward the life it came from.
   - **CUT (never restore):** "offered to the bowl at large"; ", intent on the harbor"; the fly on the jenny's neck; "watched the man in
     the window"; the tag "Bone," he said.; "pulled up on the little square"; "the first corner"; "the crust went to pieces in his fist";
     "set off after it at a run". **Spent in Ch.27:** every line above; the bone down the gallery; the bases run.
+- **Ch.28 (about twenty-two months; WRITER DRAFT 2026-10-24):** one word only, "Lix," (Felix), "loud enough to turn the two women on
+  the bench in front". On Valens's knee "facing outward, his spine to his father's belly and both legs stuck straight over his father's
+  knee. His father had told him to watch Felix, and he was watching Felix." (takes adults at their word, shown); "drummed his heels once
+  on his father's shin"; at the return, finds the corner: "stood on the clean patch with his head bent. He squatted and patted it. He
+  rose, faced me, and waited."; grips two of Felix's fingers and leans on his leg, bounces with Felix's knees; **the hare bowl** is given
+  him ("Lucius clutched it to his front."), tilted up for his father to see the hare, carried everywhere all week; trips on the
+  threshold and goes down "the bowl kept off the stone by his two arms stretched up"; sleeps with it at his ear; rides to the games
+  "gripping him by both ears"; crumbs on the woman in front; cranes after the Gaul who crosses his eyes at him. **Counts:** fist 0;
+  watching 2, waiting 1; lent adult moods 0. **Spent:** "Lix"; the bowl moments; the threshold fall; the Gaul's face.
 #### AELIA — daughter of Mara and Valens; b. winter AD 75–76 (newborn Ch.26; babbling Ch.29; Ch.30, 34, 38–44; 3½ at the eruption)
 - **Attention / worldview:** the world's textures and tastes. She is greedy for everything and finds
   delight where adults find danger (sand, must, floating stones, falling pumice).
@@ -3333,6 +3445,7 @@ loosened toward the life it came from.
   - Close: "my daughter awake against me".
   - No cry, no mouthing, no lent adult mood.
   - **CUT (never restore):** "sighed in her sleep, and went heavy again". **Spent in Ch.27:** every image above.
+- **Ch.28 (about four to five months; WRITER DRAFT):** asleep on the bay road "with her mouth on my collarbone"; on Grata's shoulder, "awake now and staring at her earrings"; fed at night; left with Grata for the games, in the basket on the counter. No cry, no mouthing, no lent mood.
 ---
 
 ## THE 1998 FRAME
@@ -4647,6 +4760,27 @@ FINAL page, md5 `0566b748…`, synced 2026-10-24; quotes checked by grep. All fu
   and made off toward Misenum… the lot of them never looked round"; "his gaze kept to the sea"; "with great bitterness"; "After the
   Ides, my friend"; "thinks I hung the moon" (the bath keeper's wife is off the page).
 
+#### Ch.28 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+WRITER DRAFT 2026-10-24. All functional; no habit assigned.
+- **The bean woman** (top ring, on Mara's left): Rusticus's wife is "my husband's niece", who "sells eggs by the Nucerian gate. She won't
+  come and watch him. She says she can't watch a man she has to cook for."; "Who's the bird?"; salted beans passed along the bench,
+  spilled when she stands, gathered up after; to Valens, "That bird," … "Was he anything of yours?" Worldview: the arena as family news.
+- **The duumvir** (editor of the games): "gray-haired, his toga very white, a slave at his side holding a cup"; "considered the benches
+  nearest him, and the sand, and bent toward the man at his elbow"; sends both off standing. His name heads the painted notice; never on
+  the page. Mara's reading of him (wants to be duumvir again) is her distortion, unconfirmed.
+- **The herald**; **the man with the long rod** (the referee: steps back, cracks the rod on both men's thighs, looks to the tribunal);
+  **two whip slaves** at the door below the editor's box; **the porter** of the north tunnel (knows Valens from the sanding).
+- **The boy with the pear** at the bath-house notice: "Is there a bear?" / "There was a bear before," … "with the face of a boy cheated
+  once already."
+- **Grata's boy:** "rubbing one bare foot on the other, hoping to hear what he was owed"; two coppers; runs.
+- **Albucius's slave:** "It's had a sniff." (the bear off its food).
+- **The Gaul** (a net-fighter, waiting) who crosses his eyes at Lucius; **the boy fighter** beside him "eating bread so slowly that it
+  scarcely got smaller".
+- **Prima's aunt** (the fuller's wife, Ch.20/24): off the page, calling from the shop for the duumvir's wife's cloth and a lamp mended.
+  **The twins:** one in a dry basin chewing a strap, one on Prima's hip at the fountain.
+- **Mention:** Grata's husband (singing one line through the wall); Grata's cousin's boy (sworn at Nuceria the year of the riot); the
+  baker's nephew at the Nola Gate bakery; the duumvir's wife (the wine-stained cloth); the duumvir's freedman (heard the oath).
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -5467,6 +5601,17 @@ FINAL page, md5 `0566b748…`, synced 2026-10-24; quotes checked by grep. All fu
 - **Chaos on the page (his own):** the rumors he collects about dead pupils; the prediction that fails; three days of Felix on his step, "He eats my porter's bread."
 - **DISTINCTNESS GUARANTEE:** the man who tells you aloud who will die this afternoon, against Valens, who will not say a word about the men he killed.
 - **Ch.21 as written (Writer, 2026-10-22. SYNCED to the FINAL page 2026-10-22 (md5 `23e2aa57…`): dialogue-polish, hook-craft, disruptor, continuity repair C-01…C-04 / W-01…W-19 / I-02…I-09, polish cycle 0, finalize F-1 and F-2; quotes checked by grep; a CUT entry names a draft string checked to be OFF the page, never to be restored):** tries the sand ("pressed his heel into the sand before he put his weight on it, and then the other heel"; "Who laid this?" / "Who raked it?" / "It's soft yonder, under the tribunal. They'll go down there." / "Do that again."); knows Valens by the heel ("I taught you that," … "At Corinth, in the old school under the hill, with the Syrian that had no wind and the boy from Argos that cried. I taught you that before I ever put a shield on you. Heel, and then the weight." … "Lupus."; the name said **once**, as a name); "You're bigger in the arms." / "I heard you'd been sold on and died in Asia. Somebody told me you'd drowned off Kenchreai. I said, that one doesn't drown, he walks home on the bottom."; to his three young fighters, "This is him. The murmillo Nero freed. Nine times at Corinth, and he never lifted his finger to the editor in any of them." (matches Ch.12: Nero sent the sword from his chair; only the herald says "from the hand of Caesar himself"); "So you do." (to Valens's "I rake sand,"); "He'll hear it from these three, at the oil, before he's sat down." / "The middle one's going to die today. He drops his shield when he's tired, and the Thracian knows it." (wrong: the middle one walks off). At the tunnel, behind the freedman, "looking at the dun's feet", then "took a groom's place at the black's head": of Felix, "Your lad never shut his mouth through the whole of the third pair. He's built for it." / "I've seen worse start." / "Who does he belong to?" (answered "His own. I freed him.") / "Then I'll not need to ask you."; "lifted his rod to me as I went past, a courtesy no one had paid me before." At the barracks gate: "Three days he's sat on my step," … "He eats my porter's bread. I send him off and he comes back with a nail." / "I have. He comes back. He'll outlast me at it, that one. Fabius's man was at my gate today. I said you'd lost your wind." (what he told the freedman is reported, never staged) / "You've lost nothing. You tried my sand with your heel." / "If he comes to my gate with a beard on him, and nobody's said no to him by then that he'll listen to, I'll take him. You know I will." / "I took you." / he "looked at the cloak I held shut across my belly", then says it **to Valens**: "Go home. Both of you. It's cold for her out here."; "He shut the gate." CUT (never restored): "Whose is he?" (the capped whose-family; C-02) and its stand-in "Is he yours?" (a Ch.13 spoken line); "Mules, is it?"; "The murmillo I told you of"; "that Nero freed with his own hand"; "with the Gaul that had no wind and the boy from Patrae that cried"; "Cenchreae". **Spent:** the heel test and "Heel, and then the weight."; "walks home on the bottom"; "built for it"; "I've seen worse start."; "Who does he belong to?"; "He eats my porter's bread."; "You've lost nothing."; "I took you."; "It's cold for her out here."; the rod lifted to Mara; the failed prediction. **Open (outline's call, audit I-07):** Ch.21 makes the decision his ("Nobody can stop him but Nicanor"; "I'll take him"), while outline Ch.28 lists a separate "Lanista": settle whether Nicanor is the lanista or the lanista's trainer before Ch.28 is drafted. **Ch.22 guard:** Nicanor is **not** a witness at the Basilica and nobody raises him as one (no surprise witness; audit I-06).
+- **Ch.28 (WRITER DRAFT 2026-10-24). DECIDED (audit I-07): Nicanor is the troupe's TRAINER; the lanista who owns the contract is
+  ALBUCIUS (card below).** Nicanor brings Felix home to tell it himself; stays outside at Grata's (chickpeas, paid); his verdict on the
+  lanista: "Twelve years I've worked for Albucius," … "Forty he's had off the lad for a pair of greaves that cost the smith thirty-five.
+  There's your robbery." … "And he's told you he'll sell the lad back afterward cheaper than today. Go round every school this side of
+  Capua asking for that. You'll wear your boots through." / "Nobody, if he does what he's bid. He won't. He'll go at Rusticus the way a
+  pup goes at a cart wheel, and Rusticus will sit behind that board and let him. Third pass, your lad's flat, and Rusticus's foot on his
+  shield." … "After that it's the duumvir. The duumvir's mean. Dead men cost him." (**the failed prediction**: Felix holds back and is
+  upright at the third pass); to "The day of the bear, your middle one went home on his feet.": "Twice this year."; "touched his rod to
+  the lintel, a small tap" (the rod's one beat); "He scratched his cheek." Reported: wrote Felix's name in the wax; "laughed till he had
+  to sit" at Felix's request for the fish; yelled at young Valens "to stamp" (Valens's memory); calls Felix "a fool" after the bout
+  (reported by Felix). Enters the tunnel at Felix's back; no line there. **Spent:** every line above.
 - **Sample line:** "Two days on the posts and he wants a helmet. Give him a broom and see if he can sweep without falling over it." (Calibration only.)
 
 #### GAIUS FABIUS RUFINUS — editor (giver) of the Saturnalia show of AD 73 at the Pompeii amphitheater; a young man who wants to be aedile; offers Valens an exhibition bout at the Parilia (Ch.21; offstage except as "a youth whose toga showed very white against the shade" under the tribunal awning)
@@ -5580,6 +5725,69 @@ FINAL page, md5 `0566b748…`, synced 2026-10-24; quotes checked by grep. All fu
 - **Spent:** every line above; the lentils; the rival; the stool and its glue; the eagle-stone; the wrong guess; "told the door". If she
   recurs (Aelia, winter 75–76): new words, a new object, no teeth.
 - **Sample line:** "Hot water, and not from that jar, that jar's had fish in it. And you, out." (Calibration only.)
+
+#### PRIMA — the girl at the fullery on the corner; the fuller's wife's niece; treads the vats; about sixteen (Ch.28; recurs only if planned)
+- **Attention / worldview:** what is owed and what is safe. Bread, a second oven, a marriage her aunt has settled; fighters are men who
+  get burned. She takes words at face value (the oath's "burning" is a branding she wants explained).
+- **Vocabulary band:** Pompeian street Latin of the vats: cloth, stains, the steward, the fountain line, her aunt.
+- **Syntax fingerprint:** short flat answers, then one sudden run of quoted speech (what he said, what she said back); asks a practical
+  question only when frightened ("Will they burn him? Is that in it?"), never a feeling.
+- **Rhythm:** keeps treading while she talks; stops only once.
+- **Evasion — never says:** that she likes Felix or fears for him. The sherd against her skin does it for her.
+- **Physicality / silence:** legs bleached pale from the knee down by the vats; skirt knotted up; grips the rail; fishes a twin's strap
+  out of the dirt without breaking step; on the bench at the games "with her palm pressed to her tunic where the sherd lay and her mouth
+  closed".
+- **Verbal tic:** none — distinguished by attention (owed / safe) and evasion (feeling done by objects)
+- **Bleed guard:** must not take Mara's material eye (the stain is a grievance, not a reading) or Grata's floods; one quoted retort, not a
+  string of them.
+- **DISTINCTNESS GUARANTEE:** the girl who answers a boast with a price, against Felix, who answers everything with another boast.
+- **On the page (WRITER DRAFT 2026-10-24):** "You're his. The mender." / "Prima." / "He told me first. He'll have said I told everybody.
+  I never told everybody. I told my aunt, and my aunt told the fountain." / the oath relayed ("the burning and the chains and the rods
+  and dying by the iron, whatever they like to do to him") / "I called him an idiot. He said I'd said I liked the look of them." / "I
+  said they had arms. At the fountain, in the autumn. … I never said it to him." / "He made it sound like nothing." / the duumvir's
+  wife's wine stain ("they'll say it was me") / the sherd ("He left me this. He said to keep it." / "I know it does." … "He told me it,
+  letter by letter.") / "I'm to marry the baker's nephew, the Nola Gate bakery," … "When his uncle gives him the second oven." / "That
+  fat's better than burned." … "Give him that, if you see him. I've said it twice now." / "Free, she wants it," … "Slip out by the back,
+  or you'll be here till noon." / at the fountain: the porter's-boy message and "bread's heavy when there's enough of it"; "Your husband
+  was Lupus," … "Did he ever lose?" (to "He is alive," she says nothing). **Spent:** every line above; "fat by thirty" (in Felix's
+  mouth via her, once); "fat's better than burned" (2 uses, hers and Mara's relay: no third).
+- **Sample line:** "Two coppers to wash it and three to get the wine out, and it'll still be pink." (Calibration only.)
+
+#### ALBUCIUS — lanista; owns the troupe quartered at the theaters that Nicanor trains; Felix's contract-holder (Ch.28)
+- **Attention / worldview:** contracts, pairs sold, the duumvir's memory, beasts that cost money. A sworn man is a line in a tablet and a
+  price that changes with use. Not a villain; a businessman who is honest by his own arithmetic (the forty for thirty-five).
+- **Vocabulary band:** Campanian trader's Latin: pairs, list, tiro, paid down, sesterces.
+- **Syntax fingerprint:** brisk, eats while he talks, answers before the question is finished ("Naturally."), stacks reasons in one
+  breath.
+- **Evasion — never says:** anything about the fighter as a person; never threatens.
+- **Physicality / silence:** "a broad, soft, clean-shaven man in a good tunic, not as old as I had pictured"; a dish of eggs, the shells
+  picked into a small white pile; stays in his chair; finds the tablet at once; rubs his fingers clean on a napkin.
+- **Chaos (his own bad day):** a bear "off its food since the Ides" and a slave "who swears it's sulking"; "A sniff, he tells me. Two
+  hundred sesterces of bear."
+- **Verbal tic:** none — distinguished by attention (contract and price) and physicality (eats, sits)
+- **Bleed guard:** not Nicanor (no sand, no bodies, no predictions); not Celer (no menace, no charm).
+- **DISTINCTNESS GUARANTEE:** the man who prices a boy correctly and means no harm by it, against Valens, who hears greed in every price.
+- **On the page (WRITER DRAFT 2026-10-24):** "Lupus," … "Nicanor said you'd come. I'd have wagered on today." / "Sit, the pair of you,
+  there's the bench. You'll not mind if I eat." / "Naturally." / the tablet ("Felix, free, of no town he could name, eighteen, he tells
+  me. Sworn to me for three years. The duumvir's freedman heard it, and my trainer stood witness. Four hundred paid down. My trainer
+  wrote the name in for him." with "less forty, greaves" underneath) / "Today? Nothing." … the twenty pairs, Rusticus "no killer, before
+  you ask; he's a farmer", no spare thraex, "the duumvir doesn't forget" / "Once the games are done, come back. … A tiro who's been out
+  once and lived isn't worth what one is who hasn't, and I'll sell him back cheaper than what's in that cloth." / "Then the duumvir pays
+  me for him, and I'm sorry, and your cloth stays yours." / "The lad will fight better if you keep away from my gate. They watch for who
+  comes asking after them." **The rule as written:** a sworn man fights the pair he is sold in; release can be bought after the first
+  fight, not before. **Spent:** every line above.
+- **Sample line:** "Twenty pairs, he paid for twenty, he'll count twenty." (Calibration only.)
+
+#### RUSTICUS — murmillo of Albucius's troupe; a free man with a field up the Nola road; Felix's pair (Ch.28)
+- **Attention / worldview:** his field and the next one along; walk off the sand with the purse.
+- **On the page (WRITER DRAFT 2026-10-24; no spoken line):** fought twice, "walked off unhurt" twice; "they called him Rusticus because he
+  had a field somewhere up the Nola road and returned to it afterward with his purse to weed"; wife sells eggs by the Nucerian gate and
+  will not watch; red curved shield "as tall as his chin", fish crest; "settled in behind it"; turns his board to face Felix "and
+  otherwise did nothing whatever"; **his own moment:** grounds his shield, stands his sword in the sand and bends to retie the lacing of
+  his single greave in full view; chops the board's bronze rim onto Felix's upper arm; "made for the door below the editor's box with his
+  board on his arm, looking at no one."
+- **Verbal tic:** none (no speech)
+- **DISTINCTNESS GUARANTEE:** the fighter who fights to buy a field, against Felix, who fights to have his name cried.
 
 ## UNNAMED SPEAKING ROLES PLANNED IN THE OUTLINE
 Give each one its own attention, and **promote it to a full card the moment the page names it.** One
@@ -7798,6 +8006,35 @@ line each, so that walk-ons don't all sound like Mara.
        before Ch.30.
     10. Fenn's voicemail rage stays a one-off.
 
+- **At-risk after Ch.28 (WRITER DRAFT 2026-10-24; "Felix in the Arena", In medias res, 4 breaks; downstream passes replace this block
+  from the final page):**
+  - **SPENT (Ch.28's, never again, in any words):** the opener "The crowd roared for the wrong man."; the thraex kit described (griffin,
+    punched visor, wading-bird greaves, the bread-board shield, the vinedresser's knife); the torn greave strap; the bean woman and her
+    egg-selling niece; "Lix"; the whistle for a dog; the knock on the rim heard late; the sliding groan; Grata's street flood and the
+    Nuceria wedding-money cousin; the dun's new hay; the clean patch of floor; the split eyebrow explained; the strap unpicked and
+    re-stitched; "Since the must was in the vats."; "haul him home by the ear"; the painted notice with only the duumvir's name and the
+    pear boy; the vats, the bleached legs, the rail, the twin in the dry basin; the oath relayed by Prima; "fat by thirty" / "fat's better
+    than burned"; the duumvir's wife's wine stain; the sherd in Prima's tunic ("He told me it, letter by letter."); the baker's nephew and
+    the second oven; Albucius's eggs and shells, the bear off its food, "A sniff"; the tablet's "less forty, greaves"; the knotted cloth
+    of savings; Felix's cropped hair and the beard as the price; "Say I can't."; "A thraex wants quick."; the murmillo can't see your
+    feet; "Keep it up, then." / "I keep it where I like."; the lamp trimmed between them; "I'll not come to the yard."; the bowl handed
+    to Lucius and carried all week; the threshold fall; the bowl humming on the floor; Nicanor's forty-for-thirty-five and "Twice this
+    year."; "Up top. With the women." / "They don't call heralds." / "one more pair of feet on that sand" / "I'll watch."; Valens's
+    first fight (the feet, "stamp", "After, I had them back."); Grata's husband's one line through the wall; the saffron water and
+    Gloria's rice; the parade of fighters and Felix searching the good benches; the awnings hauled up; the strap-tying in plain view;
+    "kill him, whip him, burn him"; the whip slaves; the rod on the thighs; the rim on the upper arm and the dark finger's length; the
+    duumvir in the shade; both sent off standing; the hooting, nut shells, crusts, the sandal end over end; "every soul but one was up";
+    "Mine."; the grit printed in her palms; the north tunnel, the Gaul's crossed eyes, the slow bread; the unfinished palm (the palm is
+    SPENT for the book); "That wants washing."; the last line.
+  - **Canon from the page:** Nicanor = trainer; Albucius = lanista (owns Felix's three-year oath; 400 down, same per fight, forty off for
+    greaves); release purchasable after the first fight, "cheaper" then; Felix fought as a thraex at the duumvir's games, late spring AD
+    76, against Rusticus (murmillo), both **sent off standing**; cut on the upper arm; alive. Prima (the fuller's wife's niece) holds the
+    ΦΗΛΙΞ sherd. The family's savings jar under the bed is untouched. Valens sat in the top ring and was not named by the herald.
+  - **WATCH:** Felix's next lines (Ch.29) start with no stacked questions owed; "the whole bowl" retired for a chapter; Lucius's bowl
+    carrying is not repeated as a beat in Ch.29 (one glance at most); Valens's stillness: rest it in Ch.29 (he weeps there).
+  - **Ch.29 guards:** Felix on leave is "Felix alive" without recapping the bout; nobody repeats "You were sitting down" or answers it
+    in words; the palm is not mentioned; Prima may appear only if planned (no new laugh, no new device).
+
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
   used as a scene button.
@@ -8631,3 +8868,4 @@ finalizing the chapter. Never add a tic to fix it.
   catchphrase, habit or tic assigned (Voices from lives, not rules); tic-bearer roster still NONE. Downstream passes re-sync quotes to the
   final page.
 - **2026-10-24 (finalize Ch.27):** every writer-draft Ch.27 block replaced from the evaluator's consolidated sync list (`evaluations/chapter-27-eval.md`, Re-evaluation cycle 4, "CHARACTER-BIBLE SYNC LIST — Ch.27 FINAL"), synced to the FINAL page md5 `0566b748…` (prose identical to `e3e00dd1…`; after dialogue-polish, disruptor, continuity repair, cycles 0–3, cycle 4 PASS, FN1 header only). FENN: in-person voice in both registers (courtly Greek, no contractions; comma-spliced 1968 English); idiom pool to the page ("for crying in the sink" and "a sap" NOT on it; swell and buddy now 2/2 SPENT); period references (Spectrum + Flyers NEW 1/2); the speech-habit ledger with its guards (doubling ≤1/chapter, capacity sizing ≤2, "and all / and everything" tails ≤2, "guy" AT CAP 3); narrated states final; the Zippo DEAD (the named frame, SPENT; base card annotated); the lemon meringue re-quoted from the page (stale "pick out your slice through the glass" replaced); the dead door, the addresses, the coat with the cigarettes (not the notebook), the kite string, the diamond. MARA: lines and habit ledger (question+fragment ≤2; "And…?" ≤2; statement+dry fragment 3 on WATCH, cap 2 from Ch.28); her draft lines CUT. VALENS: wharf, inn and yard verbatim ("since the corner", "Bring the boy's hat", "the look over her withers", "Long before me."). LUCIUS and AELIA rebuilt from the page (Lucius fist 5 WATCH; Aelia asleep 3 / wakes 2, no cry, no mouthing). Walk-ons rebuilt (the keeper verbatim, the sailor with no line, the scrapers; the bath keeper's wife struck). Eros's door faintly COOL throughout, with the Ch.25 l.258 (X1) and l.314 (CRIT-4) re-quotes. **At-risk after Ch.27** replaced with the FINAL block: SPENT, objects/doors canon, the full CUT log (writer-draft card quotes, cycle 0 F/C/P, E1–E67 old strings, cycles 1–3, rejected drafts, the two replaced Ch.25 lines), WATCH and the ten Ch.28 guards. Every quote placed on a card grepped against the final chapter-27.md (Ch.25 re-quotes against chapter-25.md); every CUT string checked off the page. Not touched: the manuscript, STATE.yaml, ENTITY_STATE.yaml, outline.md. No catchphrase, habit or tic assigned (Voices from lives, not rules); tic-bearer roster still NONE.
+- **2026-10-24 (writer, Ch.28 draft):** MARA, VALENS, FELIX (the oath, the thraex kit, the palm SPENT, the last line), GRATA, LUCIUS, AELIA, NICANOR (decided: trainer, not lanista) extended; NEW cards PRIMA, ALBUCIUS (lanista), RUSTICUS; Ch.28 walk-on block (the bean woman, the duumvir, the pear boy, Grata's boy, the Gaul) and At-risk after Ch.28 added. No catchphrase, habit or tic assigned (Voices from lives, not rules); tic-bearer roster still NONE. Downstream passes re-sync quotes to the final page.
