@@ -81,7 +81,7 @@ loosened toward the life it came from.
   rarely uses them in calm narration.
 - **Evasion — never says:** the word *love* in her own narration until Part Two (first use no earlier
   than Ch.19, and rare after that); her father's death stated plainly (she circles it through his
-  objects); any claim to be brave; any request to be looked after. After Ch.25 she will not put
+  objects; still never, after the Ch.6 author revision of 2026-10-24: see the Ch.6 entry below); any claim to be brave; any request to be looked after. After Ch.25 she will not put
   **Fenn's date** in the future tense (no "it will open in seventy-nine") until Ch.36. Hope for an
   earlier opening (Ch.30) and the argument over whether the door would take the children (Ch.33) are
   allowed; what she refuses is the date. She never says "Margaret" to Fenn.
@@ -115,6 +115,7 @@ loosened toward the life it came from.
   *thoughts* are the narration itself and are not affected.) The commitment is her all-or-nothing distortion
   escalating inside one chapter (¶148 public silence → ¶378 private English); the beat of renouncing a register
   is SPENT after these two (see at-risk after Ch.7, cycle 1).
+- **Ch.6 (AUTHOR REVISION 2026-10-24, "watch period beats"; author Terry: period-true watch beats; `evaluations/author-revisions.md` incl. "## Independent fit check"; chapter-6.md l.251–253; quotes checked by grep):** to her "He does not need it." Valens asks "Was it on him when he died?" She gives no answer. "The gray had burrs in her mane, worked in close to the skin. I looked at those." Her silence is an inspection, in two plain short declaratives, from her card (when she cannot speak she inspects something). The fit check replaced the first draft's spoken answer, "It was by his bed.", because it accepted the death. **She still never names her father's death.** The question stays open on the page; Ch.15's "He'll be wanting it, then." / "He will not," I said. now reads as Valens's second try and the nearest she comes, still without the word. **SPENT:** "Was it on him when he died?" (Valens never re-asks it in those words); the burrs looked at in place of an answer.
 - **Ch.8 as written (Writer, 2026-10-19; Parnassus, midwinter AD 71, a few days after the turn of the year. SYNCED to the
   final page 2026-10-19, after dialogue-polish, disruptor, continuity repair and polish cycle 1; every quote below is on the
   page, checked by script):** the commitment holds: she speaks no English at all, aloud or to herself, in the whole chapter
@@ -904,6 +905,20 @@ loosened toward the life it came from.
     wine pouring into the jug"; "No one at that table had seen anything but a guest forgetting himself and paying for it."; "with too
     many to finish"; **"and I was grateful and went on underneath"**; "kept on underneath".
   - **Spent in Ch.29:** every line above; the cup that rose; the seventh-inning song and the Vet; "trailed along underneath".
+- **Ch.30 as written ("Tremor", Fragmented: one morning shaken apart; Pompeii, February AD 77; FINAL page, md5 `2d8df26b…`; synced 2026-10-24 from `evaluations/chapter-30-eval.md`, cycle-0 re-sync list item 2 as amended by the Cycle 2 final consolidated list; quotes checked by grep; CUT strings checked OFF the page):**
+  - **Opener and the shake:** "I was kneading when the floor moved."; "for half a breath I blamed my own weight"; "I had her up in my arms. She was warm and unhurt and she wanted down"; "I checked him all round, as I would a dropped pot." ("as I would a [object]" now 2 book-wide: CLOSED).
+  - **The relief:** Fenn's rule paraphrased, "In Puteoli Fenn had told me the doors went with the ground. When it moved hard enough, they could open."; "I watched the crack and wished it wider."; "Valens wanted me in on it. He saw I was not laughing." (no laugh; her laugh channel stays spent).
+  - **The run:** "I ran."; "the running jarred my breasts, which were full"; "I ran with my toes clawed to keep it on"; "Another day I would have stopped and shown him how the handle sat. I went round him."; "My breath was all in the top of my chest."
+  - **The door:** "My palm met it near the foot of the left leaf, and I pressed."; "Hot from the run, the hand gave me only its own heat at first. I stepped in close, so that my shadow fell across it, and waited for the heat to fade."; "the coolness was the one I had found there when we were new in the town. Faint. A little less warm than sunlit paint ought to be, and nothing past that."; "I pressed harder. Nothing in it altered."; "I leaned my forehead against the leaf."; "Now, if ever, the door would answer the ground."; "the door was a door on a tomb, faintly cool." / "No colder."
+  - **Knowledge beat:** "I had no story ready."; "He had known for years that there was a door. I had told nobody where."; "I watched him read it."
+  - **After:** "I had not thought of them since I left. Now I wanted to run home as hard as I had run out, and had no run left in me. Two babies, left with a hearth and a cracked wall, and I had run a mile."; "I stopped at last and tied it, badly, and let it be."; "I had a lie worked out for the women there" … "I did not need it."; the bread ("dust and all"; "Everybody ate theirs anyway, me as well, it was bread."); "I kept the jar for last. Its split ran clean, and two lead clamps would hold it."
+  - **Night:** the satchel "off its nail"; the notebook "from under Fenn's letters"; "The back leaves were mine."; "Eros's name was in none of them. Nearly five years of Kalends I had walked to his door, and never set one down here."; "*Mid-morning. Hearth wall split down the old repair.*" / "*Eros: no change.*"; "Valens in the road went unwritten."; "Whether he slept I had no way to tell." / "I did not wake him."
+  - **Counts:** lines spoken 0; laughs 0; credential asides 0; memories 1 (Fenn's carter, triggered by the crack and returned to it); AD 79 0; body rebel "no run left in me"; fronted objects 0; "ready" 1.
+  - **CUT (never restore; each checked OFF the page):**
+    - **Evaluator:** "My hands went still in the dough."; "warm and whole"; "Skirt gathered in my hand"; "The paving was gritty with fallen plaster under my sandals."; "it slapped my ankle at each stride"; "and my side hurt"; "the two warmths together, mine and the sun's"; "waited for the sun's heat to fade from it"; "and it was warm against my brow from the sun"; "No breath moved out of it."; "Its place I had told nobody."; "the headstall lay by my board at home"; "I had forgotten them since the kneading."; "an answer ready"; "The jar I kept for last."; "Valens in the road I left out."; "the way a zipper parts"; "had settled over the dough"; "A woman with flowers got no second look on that road."
+    - **Continuity repair:** "with no memory of crossing the room"; "and written none of it down"; "the ink gone brown on the oldest"; "the same as on the day I found it"; "I bore down with palm and fingers together".
+    - **Disruptor:** "I stood at the board, my eyes on the crack."; "That one had been hard. It had broken a mend that had held for fifteen years."; "the way ink runs down a wet page"; "A dog ran with me a while and gave it up."
+  - **Spent in Ch.30:** every line above; the shadow over the hand at the door; the forehead to the leaf; the toes clawed on a loose sandal.
 
 #### VALENS ("Lupus") — muleteer, former murmillo, freedman; b. c. AD 38 in Thrace (Ch.6–44)
 - **Attention / worldview:** footing, exits, weather, and the moods of animals and men, which are one
@@ -995,7 +1010,7 @@ loosened toward the life it came from.
   mule up Parnassus in the snow." The close is self-exposure, not prediction: the fear underneath is his own
   traceability, and he says nothing about anyone coming. Mara: "Most of it was true, and the whole of it was
   wrong."
-  **The watch:** taken as payment the evening before ("Paid now. Not up there. Now."). "He was a long while over
+  **The watch:** taken as payment the evening before ("Paid now. Not up there. Now."). **Author revision 2026-10-24 ("watch period beats"; `evaluations/author-revisions.md` incl. "## Independent fit check"; chapter-6.md l.251–253):** to Mara's "He does not need it." he asks "Was it on him when he died?" before he turns the face up. It is a where/who question in his own register, the care of a man about to keep a dead man's thing that moves by itself; he voices no belief and the narrator explains nothing. Mara does not answer: "The gray had burrs in her mane, worked in close to the skin. I looked at those." He lets it go. Ch.6's "You said he didn't need it." and "a father or a husband" stand unchanged, and Ch.15's "He'll be wanting it, then." now reads as his second try (her "He will not," is the answer). The rejected spoken answer "It was by his bed." is never used. "He was a long while over
   the back of it, and over the band where the three links had come out"; he watches the seconds hand make one
   circuit with his face unchanged ("Something's going in it." / "Where's the shadow?" / "By itself."). Winds it
   BACKWARD with great care, his thumb covering the crown, stopping to listen to the loose click "as if the click
@@ -1036,7 +1051,8 @@ loosened toward the life it came from.
   evidence-in-order reading; "one man in Delphi who'd take a mule up Parnassus in the snow"; "Keep to the wall.
   The edge has gone along this bit."; "You've got Latin" (2, cap reached); "Men will come asking" (once, the
   pull); "You never had a watch"; "Forward. Till it stops, and not past."; "his hands were older than the rest of
-  him"; the scar "in a ladder".
+  him"; the scar "in a ladder"; "Was it on him when he died?" (author revision 2026-10-24: he never re-asks it in those words;
+  Ch.15's "He'll be wanting it, then." is his second try, worded otherwise).
 
 - **Ch.7 as written (Writer, 2026-10-19; brief, the middle of her month of public silence. SYNCED to the final page
   2026-10-19, after dialogue-polish, disruptor, continuity repair, polish cycle 1 and the three finalize fixes; every
@@ -1102,7 +1118,10 @@ loosened toward the life it came from.
   the blade's other face." **The watch (kept, wound, never set):** to "Then sell me back the watch,": "With the god's money?"; to "Have
   you let it stop?": "He loosened the drawstring of his belt pouch with a finger, looked into it, and left the watch where it was." /
   "The short one's past the nine," … "The long one's at the two." It is fast by the spout's shadow; "Since the mountain he had kept it
-  going, every day, and he had not put a finger to the hands." / "It hasn't stopped." He pulled the pouch shut. (Felix: "Each day
+  going, every day, and he had not put a finger to the hands." / "It hasn't stopped. In the snow it had nine of its hours between sunup and sundown, and some over. Now it's eleven." He pulled the pouch shut. (Author revision 2026-10-24, "watch period beats":
+  his own count of the watch's hours against the day. The watch's hours do not stretch with the season as Roman hours do, so a
+  winter day holds fewer of them. Three flat statements in his units; no comparison, no wonder, no rule; Mara registers nothing, so
+  it goes unexplained. The fit check found it pins Ch.11 between mid-February and early March.) (Felix: "Each day
   before he's had his bread he does something to it, with his back to me".) **The breeching:** "It's been breaking all winter." / "I
   never asked for it mended." / "He sheathed the knife at his back and crossed to the stable."; the load test, "over the beam it went,
   and with an end in each fist he hung his whole weight from it, his feet off the cobbles. The beam creaked, and the strap held." /
@@ -1173,7 +1192,8 @@ loosened toward the life it came from.
   practical order as a reply to closeness; bare "No." 2 (the one-blow question; no paper), down from 11 in the draft; bare "Felix." 2;
   "I am." 1; narrated non-answers 1 ("He answered neither."); work-suspended tell 0 (F1); walk-off exits after a line 5 (the stable
   after the breeching, the bells, the trough after the sherd, the bran to the black, the yard after the near-kiss) plus 3 logistic
-  (the gate at dusk, the string, the bar at the close). **Spent in Ch.11:** the hours read from the open pouch; the obol in the cheek;
+  (the gate at dusk, the string, the bar at the close). **Spent in Ch.11:** the hours read from the open pouch; the hours count ("nine of its hours" in the snow, "eleven" now; no second count, by him
+  or anyone); the obol in the cheek;
   the load test over a beam; muffled bells and their reason; the twitch refused and "She'd remember it."; the fig wager and "Then I'm
   right."; "In a pot, it goes where I go."; "Paper gets taken off you"; "I don't want anything he's got."; "You've lost a goat."; the
   stretch-crack as relief; the near-kiss staging; the barred gate, the olive path and "The road's dusty."; "What name does the priest
@@ -1325,7 +1345,8 @@ loosened toward the life it came from.
       has just burned it."; "I know May."; then "Do they still have mules?" and the practical questions that follow it ("Who leads
       them?"; "Who's emperor?"; "So the legions went home."; "The roads. Does anybody mend them?"; "Where's the god gone?"; "The
       spring?"; "Is the sea still salt?"; "Who's looking for you, there?"; "That's true, then.");
-    - the camera and the town: "The heavy one," … "Felix's silver."; "It makes everything small,"; "He'll be wanting it, then.";
+    - the camera and the town: "The heavy one," … "Felix's silver."; "It makes everything small,"; "He'll be wanting it, then." (since the Ch.6 author revision of
+      2026-10-24, his second try at the question Mara left unanswered there; her "He will not," is the answer);
       "It was made somewhere."; "The god gave you a mountain and a tomb."; "I've heard of Neapolis. Puteoli."; the dust map ("Here's
       the gulf, and here's the heel of Italy"); "With the light, and the box you look through."; "How will you know the door, among
       all those tombs?";
@@ -1822,6 +1843,14 @@ loosened toward the life it came from.
     do"; "a laugh at the start, and then".
   - **Spent in Ch.29:** every line above; the weeping at a farce (no later laugh-into-weeping for him); the bread taken from Lucius;
     "Give him the seat that looks at the door."; the bad knees; "Leave those." / "Both."
+- **Ch.30 ("Tremor"; FINAL page, md5 `2d8df26b…`; synced 2026-10-24 from `evaluations/chapter-30-eval.md`, cycle-0 re-sync list item 3 as amended by the Cycle 2 final consolidated list; quotes checked by grep; CUT strings checked OFF the page):**
+  - **The shake:** "his father was out front mending a headstall"; "Valens had followed him in, the headstall dangling from one hand. He tried the beam over Aelia's head, shoving up at it, and the beam held. He dropped the headstall beside my board and worked one finger into the split, chin-high, to learn how deep it went."; "Valens laughed."; "It goes clean through," Valens told the crack.; "Behind me Valens said my name, once."
+  - **The road:** "Behind me I heard a man's breath, hard and fast."; "He had followed me out without his cloak. There was plaster dust in his hair. He had pulled up on the road's crown, a rut on either hand, ten paces off, and came no closer."; "He saw where I had run to."; "He read the name over it." / "His hands hung empty at his sides." / "He put no question to me."; "In the arch he turned for one look back at the tombs. He entered the passage ahead of me."
+  - **Home:** Under the gate he spoke. "Grata has them."; "Valens matched his pace to my loose sandal."; "The landlady's."; "With the mules seen to, Valens set his shoulder to our wall beside the crack and leaned his weight on it. The wall bore it." / "It'll hold," he said.; "The wall," said Valens.; "He asked Lucius for the oil instead"; the straw "against the draft"; "Valens was a long ridge of wool."
+  - **Knowledge:** from Ch.30 he KNOWS THE TOMB (witnessed; the name read). He learns no date and no rule. Nobody says so.
+  - **Counts:** lines 5 (all ≤4 words: Ch.31 gives him one longer line); questions 0; comparisons 0; "He saw" 2; structure acts 4 (rest them); dust once (guard 5); "said my name, once" 1.
+  - **CUT (never restore; each checked OFF the page):** "the look he gave a ford once the mules were over it"; "His lips moved on it once, without sound."; "First he tried"; "Valens looked in on the mules first, and then"; "leaned on it, hard"; ", from our ceiling"; "on the wall side"; "His chest was heaving."; "the headstall dangling from his fist".
+  - **Spent in Ch.30:** every line above; the finger in the split; the reading of the name; the look back from the arch.
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -2100,6 +2129,7 @@ loosened toward the life it came from.
   - **Spent in Ch.29:** every line above; Gimbels / Thanksgiving / "the wrong everything"; the olive-pit diamond and the lesson; the
     1950 game; the cards, the reserve clause, the night lights; the stars and "do not marry before thirty"; Grata's palm; the
     seventh-inning song.
+- **Ch.30 (mention only; FINAL page, md5 `2d8df26b…`; `evaluations/chapter-30-eval.md` cycle-0 item 7):** Mara paraphrases his rule ("the doors went with the ground. When it moved hard enough, they could open."), the AD 62 carter, and "Eros's bench" … "where Fenn had sat his nights out". "Breathe with the earth" stays at 1 of 2. His Ch.25 "not a breath out of it" is not echoed (P9).
 ---
 
 ## MAJOR SECONDARIES
@@ -3507,6 +3537,13 @@ loosened toward the life it came from.
   - **CUT (never restore; each checked OFF the page):** "Look at the color of you,"; "so somebody find him a crown"; "and left it in
     his"; "She took her pot home, and her empty jar"; the widow's borrowed flood.
   - **Spent in Ch.29:** every line above; the palm read; the bench left for Fenn.
+- **Ch.30 ("Tremor"; FINAL page, md5 `2d8df26b…`; synced 2026-10-24 from `evaluations/chapter-30-eval.md`, cycle-0 re-sync list item 4 as amended by the Cycle 2 final consolidated list; quotes checked by grep; CUT strings checked OFF the page):**
+  - **Through the crack:** "Castor," said the wall. / "It was Grata, on her own side of it. The crack brought her through to us whole."; "Castor and his brother and their mother besides, there goes my good wall, there goes a plasterer's day and his boy's day after it, and lime at the price they're asking since the forum swallowed every cartload in Campania, and it's my purse for it, same as always. And you'll say it was nothing. The man I married says it was nothing, and he never woke for it."; "A brown eye appeared in the stripe and glared through at our hearth." / "The eye withdrew."; "You keep off that hearth, my lad, there's live coals under that ash."; "Get your finger out of my wall," said Grata.; "I know it goes through, I've your hearth in my eye as I stand here and it wants sweeping."; "On her side we heard Grata starting her husband on the price of lime once more."
+  - **At the counter:** "Grata had Aelia on her hip at the counter and Lucius sitting on the marble with his legs hanging down."; "He hands me your two over my own counter, the big ox, and off after you like a hound off its rope, and never a word, and the boy wanting his mother, and the girl chewing my sleeve, and the wall open to your fire so I'll smell your onions in my bed till the Kalends. You've run yourself scarlet, and that girl's wanted the breast this hour past. They're yours again, my pot's catching."
+  - **The rag:** "a wad of rag came worming through the top of the split from Grata's side" / "Leave my rag be," said Grata, through it. / "She talked on till the light changed." / "Grata's lamp was out."
+  - **Counts:** questions 0; touches 0 (still five); "so [command]" 0; "the street" 0; "my wall" 2; first "Castor" in the book (Gellius: a woman's oath); "my lad" 1; "the big ox" 1; "same as always" 1; narrated talking-on 3 (AT CAP).
+  - **CUT (never restore; each checked OFF the page):** "My man says it was nothing. He never woke for it."; "You've run yourself scarlet, Greek, you'll drop in my pot."; "and the rag let most of it through"; "the landlady's purse"; "and my wall open to your fire"; "She saw us coming and started before we were in earshot."; "She saw us coming."
+  - **Spent in Ch.30:** every line above; the lime price; her husband sleeping through the shake; the eye in the crack; the rag in the split.
 
 ## THE CHILDREN
 
@@ -3630,6 +3667,13 @@ loosened toward the life it came from.
   - **Counts:** fist 3 (AT CAP); watching 3.
   - **CUT (never restore):** "exactly in its middle".
   - **Spent in Ch.29:** the bread pushed at his father's mouth (no child feeds a parent again); the ball; the pit on the hill.
+- **Ch.30 (about two years seven months; FINAL page, md5 `2d8df26b…`; synced 2026-10-24 from `evaluations/chapter-30-eval.md`, cycle-0 re-sync list item 5 as amended by the Cycle 2 final consolidated list; quotes checked by grep; CUT strings checked OFF the page):**
+  - **The shake and the laugh:** "Lucius had bolted in to me"; "He frowned up at the wall." / "Wall broke," he said.; "Grata," said Lucius, pointing.; "Lucius copied him, eyes squeezed shut, both hands clapped over his mouth"
+  - **At Grata's and the meal:** "Lucius sitting on the marble with his legs hanging down"; "Lucius bit, and spat the bite into his palm to hunt for whatever had crunched, came up empty, and finished it."; "Lucius climbed off his stool to inspect the crack, close up."; "Lucius carried it to him at a solemn crawl, the jar gripped to his chest."; "Lucius stretched for it, toes and fingertips."
+  - **Night:** "Lucius had taken a flake of the fallen plaster to his pallet, and his hand was shut on it yet, the thumb laid over it."
+  - **Counts:** fist 0; whole lines 2 (both new); watching 2; lent adult moods 0 ("solemn" fits his card's gravity, once).
+  - **CUT (never restore):** "hands clasped behind him".
+  - **Spent:** "Wall broke,"; the spat bite; the plaster flake held in sleep.
 #### AELIA — daughter of Mara and Valens; b. winter AD 75–76 (newborn Ch.26; crowing Ch.29; Ch.30, 34, 38–44; 3½ at the eruption)
 - **Attention / worldview:** the world's textures and tastes. She is greedy for everything and finds
   delight where adults find danger (sand, must, floating stones, falling pumice).
@@ -3694,6 +3738,12 @@ loosened toward the life it came from.
   "gnawing the doll's crooked leg"; in Mara's lap she "crowed at each flame in turn"; her ear covered by Grata; asleep in her basket
   "with the doll's leg in her mouth". **Counts:** mouthing 2 (AT the ≤2 WATCH). No cry, no lent mood. **Spent in Ch.29:** every image
   above.
+- **Ch.30 (about fourteen months; FINAL page, md5 `2d8df26b…`; synced 2026-10-24 from `evaluations/chapter-30-eval.md`, cycle-0 re-sync list item 6 as amended by the Cycle 2 final consolidated list; quotes checked by grep; CUT strings checked OFF the page):**
+  - **The shake:** "Aelia had been sitting by Lucius's pallet, drumming a lid on her knees. When the ground rose under her she shrieked with laughter and slapped the floor with both palms, hard, to make it heave again. It did nothing for her."; "she shoved at my chin with her fists until I returned her to the floor"; "Aelia laughed at the pair of them at the top of her lungs, for no reason she needed."
+  - **Grata's and the meal:** "the girl chewing my sleeve" (reported; mouthing 1); "who had a fistful of Grata's sleeve and had to be unpicked"; "Aelia had a whole cake to herself and wore most of it."
+  - **Night:** "Aelia slept crossways at the foot of our bed with her heels against her father's shins."
+  - **Counts:** laughs 2; grip 2; mouthing 1; no words; no cry; no lent mood.
+  - **CUT (never restore):** "warm and whole"; "sitting on the earth by".
 ---
 
 ## THE 1998 FRAME
@@ -5086,41 +5136,27 @@ functional; no habit assigned.
   "Tomorrow she can go first, and then she owes me."; "Then there's no festival,"; "with a warning to mind the jar".
 
 #### Ch.30 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
-WRITER DRAFT, 2026-10-24 ("Tremor"; to be re-synced to the FINAL page by the evaluator's consolidated list). No new named character.
-All functional; no habit assigned; none borrows Grata's flood or the narrator's eye.
-- **The cookshop man** (a door on the long street east of the shop; not Grata): shouts after Mara "that it was over, Greek, nothing to
-  run from" (reported); returns at the end of the day with "a wine jar split from lip to shoulder", untagged, grinning: "The small
-  shake did that. I'd just told you it was over." (dialogue polish: his own shout is not re-spoken). Worldview: a shake is weather.
-  Called by Mara "my adviser from the cookshop door" (once).
-- **The plasterer** on a trestle outside a wine shop, trowelling lime into a split over the door, his boy mixing below: "Yours as
-  well?" / "Tell her she's behind the cooper and the widow and this fellow here. Tomorrow, if the lime comes." Worldview: the
-  queue (and the lime Grata complains of). (No ladder: Ch.31 owns the ladder.)
-- **The two old men on the fuller's bench** (speak once, dialogue polish): "It was the year my mule died," one said. / "You were riding
-  that mule to Nola all the spring after," said the other. Worldview: a year is dated by what happened to you in it.
-- **CUT by dialogue polish (never restore):** "Nothing to run from," … "Said so, didn't I."; "Tomorrow. I'll not get to her today.";
-  Grata's "My man says it was nothing. He never woke for it." ("My man" would have been her 3rd, after Ch.24 and Ch.26); Grata's "You've
-  run yourself scarlet, Greek, you'll drop in my pot." (address "Greek" would have been her 2nd, after Ch.24).
-- **The wine seller** under his sign, "arms crossed on his belly" (silent).
-- **The boy in the gate passage** fitting the pieces of a dropped jar together on the paving (silent).
-- **The woman with the hen** pointing at her own roof; **the tile sweeper** and **the man on the roof** who "named what each had cost
-  him"; **the woman at the crossing shrine** "telling the snakes about her roof"; **the women queued at the fountain**; **the goat** on
-  the tomb road "eating the violets off a tomb step" (all silent). The two old men (narrated: they quarrel over "the year of the shake
-  before" and later "had settled the year between them and gone on to roof tiles") now speak once; see their entry above.
-- **CUT by the disruptor (2026-10-24; never restore):** the tile sweeper "with a broom of twigs" and the man on the roof who "named
-  what each had cost him"; "Boys ran past with a basket of lime between them, slopping it."; "It was a mess, and people were clearing
-  it."; "A dog ran with me a while and gave it up."; "His chest was heaving."; "I stood at the board, my eyes on the crack."; "That
-  one had been hard. It had broken a mend that had held for fifteen years."; "the way ink runs down a wet page"; "from forty paces";
-  "all four" (the mules at homecoming; the S1 count stands); "A girl of fourteen months and a boy not yet three" (now "Two babies").
-- **The dyer's wife** (a lamp off its bracket, spout lost) and **a girl of nine or so** (her grandmother's bowl in three, carried in
-  her tunic's lap): customers, silent.
-- **Mention:** the cooper and the widow (the plasterer's queue); "the big shake fifteen years back" (AD 62) and the plasterer who
-  mended the hearth wall after it; the carter who told Fenn of the cold off Eros's door (Ch.25 canon, paraphrased).
-- **Writer's notes for the at-risk sync (Ch.30 draft):** "the painted door" 0 (allowance unchanged, 1 left); "seam" / "niche" /
-  "painted plaster" / "hand flat" 0 / 0 / 0 / 0; the door's coolness "faint", "No colder."; Fenn's rule paraphrased ("the doors went
-  with the ground"), "breathe with the earth" not printed (still 1 of 2); Grata swears by Castor (a woman's oath), not Hercules;
-  Valens's plaster dust given once (S5) and never re-noted; the notebook entry has no count and no reckoning ("*Mid-morning. Hearth
-  wall split down the old repair.*" / "*Eros: the same.*"); the satchel hangs "on its nail" (new, harmless); the stalls are heard
-  from the back room (agrees with Ch.28).
+FINAL page, md5 `2d8df26b…` ("Tremor"; after dialogue-polish, hook-craft, disruptor, continuity repair and the evaluator's cycle-0 swaps L1–L4 / C1 / P1–P16; cycles 1–2 changed no text; PASS at cycle 2). Synced 2026-10-24 from `evaluations/chapter-30-eval.md`: the cycle-0 re-sync list item 1, as amended by the Cycle 2 final consolidated list. Quotes checked by grep against the page; CUT strings checked OFF it. This block replaces the Writer-draft block in full. No new named character. All functional; no habit assigned; none borrows Grata's flood or the narrator's eye.
+- **The cookshop man** (a door on the long street east of the shop; distinct from the Ch.20 cook above the bull's-head fountain): "A man in a cookshop door assured me it was over, nothing to run from." / at day's end "Last came my adviser from the cookshop door, with a wine jar split from lip to shoulder, and stood it on my plank, grinning." / "The small shake did that. I'd just told you it was over." Worldview: a shake is weather. His jar is promised "for market day".
+- **The plasterer and his boy:** "A plasterer on a trestle outside a wine shop was trowelling wet lime into a split above the doorway, his loaded board held aloft. A boy below him mixed more in a trough." / "Yours as well?" / "Tell her she's behind the cooper and the widow and this fellow here. Tomorrow, if the lime comes." Worldview: the queue. (No ladder: Ch.31 owns it.)
+- **The wine seller:** "under his sign, arms crossed on his belly" (silent).
+- **The two old men on the fuller's bench:** "already quarreling about the year of the shake before" / "It was the year my mule died," one said. / "You were riding that mule to Nola all the spring after," said the other. / on the return, they "had settled the year between them and gone on to roof tiles." Worldview: a year is dated by what happened to you in it.
+- **The women at "the next fountain"** (east of the shop, not the bull's-head fountain): "swung round, jars and all, to watch me by"; on the return, "Passing the fountain I had a lie worked out for the women there".
+- **Silent walk-ons:**
+  - the woman with the hen, "pointing up at her own roof with the other";
+  - the boy in the gate passage, "fitting them together on the paving";
+  - the goat "eating the violets off a tomb step";
+  - the woman at the shrine: "Where we turned for home" … "a honey cake on the shrine's altar under the painted snakes";
+  - the girl of nine or so: "her grandmother's bowl, broken in three, carried in the lap of her tunic with the corners gathered up in her fists".
+- **Mention:** the cooper and the widow (the plasterer's queue); the AD 62 plasterer ("mended it well"); Fenn's carter (Ch.25 canon, paraphrased); the dyer's ("A roof tile lay smashed across the paving outside the dyer's.").
+- **Kept from the Writer's draft notes (still true of the FINAL page):** "the painted door" 0 (allowance unchanged, 1 left); "breathe with the earth" not printed (still 1 of 2); Grata swears by Castor (a woman's oath), not Hercules; Valens's plaster dust given once and never re-noted; the satchel hangs "off its nail" at night (new, harmless); the stalls are heard from the back room (agrees with Ch.28).
+- **CUT (append; never restore; each checked OFF the page):**
+  - **Evaluator cycle 0:** "The dyer's wife came with a lamp that had jumped off its bracket and lost its spout."; "shouted after me that it was over, Greek, nothing to run from"; "The women queued at the fountain"; "At the crossing my sandal strap came loose"; "At the crossing shrine"; "I had an answer ready".
+  - **Continuity repair:** "telling the snakes about her roof"; "And the plasterer's promised to the cooper."; "and started before we were in earshot".
+  - **The writer's note:** "*Eros: the same.*" → now "*Eros: no change.*".
+  - **Writer-draft walk-on lines (superseded by this FINAL block):** the cookshop man who "shouts after Mara" ("that it was over, Greek, nothing to run from"); the woman at the crossing shrine "telling the snakes about her roof"; "the women queued at the fountain"; "The dyer's wife (a lamp off its bracket, spout lost)"; the tile sweeper "with a broom of twigs" and the man on the roof who "named what each had cost him"; "*Eros: the same.*".
+  - **Dialogue polish (from the draft block):** "Nothing to run from," … "Said so, didn't I."; "Tomorrow. I'll not get to her today."; Grata's "My man says it was nothing. He never woke for it."; Grata's "You've run yourself scarlet, Greek, you'll drop in my pot."
+  - **Disruptor (from the draft block):** "Boys ran past with a basket of lime between them, slopping it."; "It was a mess, and people were clearing it."; "A dog ran with me a while and gave it up."; "His chest was heaving."; "I stood at the board, my eyes on the crack."; "That one had been hard. It had broken a mend that had held for fifteen years."; "the way ink runs down a wet page"; "from forty paces"; "all four" (the mules at homecoming only; S1's "all four mules were kicking their boards" stands); "A girl of fourteen months and a boy not yet three" (now "Two babies").
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -6376,6 +6412,9 @@ line each, so that walk-ons don't all sound like Mara.
     story told by a third party** (Valens, the charcoal burner): SPENT; the rumor is not retold again.
   - **The flashlight (Ch.6):** in the duffel, unused in the cave, kept from Valens's sight ("I had let him burn his
     pines rather than have him see it"). The Ch.5 rule stands: any use must reckon with being seen.
+  - **Author revision 2026-10-24 (watch period beats):** "Was it on him when he died?" is SPENT (Valens never re-asks it in those
+    words). Mara's silence over the gray's burrs ("The gray had burrs in her mane, worked in close to the skin. I looked at those.")
+    is SPENT. The rejected answer "It was by his bed." is never used. Mara still never names her father's death.
 - **At-risk after Ch.7 (Writer, 2026-10-19; SYNCED to the final page 2026-10-19 and extended from the dialogue-polish,
   disruption and continuity-repair logs and the Ch.7 continuity audit; re-synced after polish cycle 1 and the finalize
   fixes, with the cycle-1 entries in the next block):**
@@ -6988,6 +7027,7 @@ line each, so that walk-ons don't all sound like Mara.
     against the book and reads the previous agent's cut list.
   - **Carried to the Ch.12 brief:** the money gap settled on the page as an act (ENTITY CH11-3); Valens ≤3 walk-offs, ≤1 bare "No.",
     ≤1 bare "Felix."; Felix fewer lines than in Ch.11. **Carried to Ch.13:** whose name the priest writes, shown without a gloss.
+  - **Author revision 2026-10-24 (watch period beats):** the hours count ("In the snow it had nine of its hours between sunup and sundown, and some over. Now it's eleven.") is SPENT: no second count of the watch's hours against the day, by Valens or anyone.
 
 - **At-risk after Ch.12 (SYNCED to the FINAL page 2026-10-20, from `evaluations/chapter-12-eval.md` cycle 0 (the bookkeeping list) and
   the cycle-1 re-evaluation (F1–F2, W-22), and `evaluations/continuity/chapter-12-audit.md` (C-01, W-01…W-23, I-01…I-23). FINAL page,
@@ -8628,6 +8668,55 @@ line each, so that walk-ons don't all sound like Mara.
     - A walk-on's speech is checked against the principal it most resembles.
     - An evaluator's swap is checked for a same-frame line in the ADJACENT paragraph and for a pronoun whose referent shuts the narrator
       out of her own scene (K1, K3).
+- **At-risk after Ch.30 (FINAL page, md5 `2d8df26b…`; "Tremor", Fragmented, 6 breaks / 7 shards; PASS at evaluator cycle 2; synced 2026-10-24 from `evaluations/chapter-30-eval.md`, cycle-0 re-sync list item 8 as amended by the Cycle 2 final consolidated list):**
+  - **SPENT (Ch.30's, never again, in any words):**
+    - **Opening and shake:** the opener; the jar that "began to talk"; the spoon into the ash; the dogs "each setting off the next"; the wall's "dry little ticking"; the dust on the dough and "dust and all"; "The bread crunched." … "it was bread."; Aelia slapping the floor to make it heave again.
+    - **The crack:** "Castor," said the wall.; Grata's eye in the stripe; Valens's finger in the split and "Get your finger out of my wall,"; the crack running down the AD 62 mend "like a zipper parting"; the rag and the straw plugging it.
+    - **The relief:** "I watched the crack and wished it wider."
+    - **The run:** "I ran."; the toes clawed on a loose sandal; full breasts jarred by running; the boy fitting jar pieces in the gate passage; the goat eating violets off a tomb step; "Not one had fallen."
+    - **The door:** the hand shaded by her own shadow until its heat fades; the forehead to the leaf; the aftershock at the door ("the tail of the first"); "Now, if ever, the door would answer the ground."; "the door was a door on a tomb, faintly cool."; "No colder."; "The dust at the door's foot lay undisturbed."
+    - **The knowledge beat:** Valens in the road with plaster dust in his hair, ten paces off; "He read the name over it. I watched him read it."; "He put no question to me."; the look back from the arch.
+    - **The walk home:** "Grata has them."; "Two babies" …; the sandal tied badly; the plasterer's queue (the cooper, the widow, "this fellow here"); the honey cake on the shrine; the lie for the women not needed; "had settled the year between them and gone on to roof tiles"; the old men's mule.
+    - **Trade:** the shake bringing trade; the girl with the bowl in her tunic's lap; the cookshop man's jar and "I'd just told you it was over."; the glue pot's "pine and hoof"; two lead clamps.
+    - **Night:** the satchel on its nail; "The back leaves were mine."; "*Mid-morning. Hearth wall split down the old repair.*" / "*Eros: no change.*"; "Valens in the road went unwritten."; "Valens was a long ridge of wool."; "I did not wake him."
+  - **CLOSED (narration and speech).** The five regex-able rows are already in `tools/closed_ledger.tsv`, each "closed after 30" (28 rows in all; do not re-add them):
+    - a stranger calling or shouting after Mara as she passes (Ch.17, Ch.19, Ch.30 as found);
+    - the stitch in a run (Ch.17, Ch.30 as found);
+    - a character's hands "went still" as a work-suspended tell (restated from Ch.11);
+    - Fenn's "breath out of it" for the door;
+    - "the look [he/she] gave / kept for a [noun]" (Ch.16, Ch.25; Ch.30 cut);
+    - "as I would a [object]" (Ch.15, Ch.30: 2; no third);
+    - narrated fronted objects (restated, zero tolerance, protected lines included);
+    - narrating-present similes (restated, 0). A sixth ledger candidate, present-tense "the way a [noun] [verb]s", was rejected (it hits Nicanor's speech in Ch.28, and the ledger cannot tell narration from speech): keep that rule by hand.
+  - **Canon from the page:**
+    - **The quake and the wall:** the shake in February AD 77 at mid-morning, with an aftershock at the tomb. The hearth wall is the party wall with Grata, split beam to hearth down the AD 62 mend and plugged with Grata's rag (top) and Valens's straw (bottom). The plasterer queues it behind the cooper and the widow.
+    - **The door:** the painted leaf is faintly cool with the sun on it (L1 restores canon), no colder after the shake. Only her hand is warm.
+    - **Valens:** he knows the tomb (CH20-7 closed).
+    - **The notebook:** its first entry naming Eros; Valens not recorded.
+    - **The route:** east from the shop past "the next fountain" (not the bull's-head fountain, which lies west at the Stabian turning), then south to the Nuceria Gate. Home in reverse: the shrine at the turning, the fountain, the fuller's bench. **The fuller's bench and the fullery are at the shop's EAST corner** (Ch.28 "The fullery on our corner"; Ch.30 "I went east past them").
+    - **The cookshop man's jar** is promised for market day.
+  - **CUT LOG — Ch.30 (never restore; each checked OFF the fixed page):** the walk-on, Mara, Valens, Grata, Lucius and Aelia CUT lines on those entries; plus the continuity repair's "a family eating late", "the trodden floor", "sitting on the earth by", "Then the water jar"; the disruptor's "Boys ran past with a basket of lime between them, slopping it."; "It was a mess, and people were clearing it."; "the tile sweeper" / "the man on the roof"; "from forty paces"; "all four" at homecoming (S1's "all four mules" stands); "A girl of fourteen months and a boy not yet three"; and hook-craft's "I hoped the next would shake harder." (borderline portent). **Writer-draft walk-on lines (superseded):** the cookshop man who "shouts after Mara"; "the woman at the crossing shrine telling the snakes about her roof"; "the women queued at the fountain"; "The dyer's wife (a lamp off its bracket, spout lost)"; the tile sweeper and the man on the roof; "*Eros: the same.*". **Rejected drafts at test (never use):** "told me as I passed"; "At the corner where we turned"; "I wrote nothing of Valens in the road"; "The dust along the sill"; "warm and in one piece"; "My palm was hot from the run, and at first I felt nothing through it".
+  - **WATCH for Ch.31:**
+    - **Caps:** race frame ≤1; X-first-then-Y ≤1; spoken "Then…" ≤2; "And…" rejoinders ≤4; said/told-the-[non-listener] **0** (Ch.30 spent the two-chapter allowance); sentence-initial narration "Nobody" ≤1; "somewhere" ≤2.
+    - **Grata:** narrated talking-on ≤1 (she is at cap from Ch.30; Ch.31 is her chapter, so let her speech carry it); voice through a wall or rag: 0 (rest the situation); "my lad" / "the big ox" / "same as always" / "The man I married": rest each; questions 0, and touches: a sixth needs a new place and purpose; "the street" hers only; comparisons in her flood ("like a hound off its rope") ≤1.
+    - **Valens:** give him ONE line longer than eight words (the nameable-rule guard, after five clipped lines); no structure-testing beat (beam, wall, shoulder); "He saw [clause]" ≤1; no laugh beat unless planned.
+    - **Narration words:** "fist" ≤2; "dust", "crack", "split", "settled": rest them; "warm" / "sun" ≤3 each; "whole" ≤1.
+    - **Mara:** no laugh without an outline ruling (all six shapes spent; Ch.31's teeth scene must find comedy in Grata, not in a Mara laugh); her mouth channel stays spent.
+    - **Lucius:** two-word lines only (he is about two and three quarters); no "fist".
+    - **Aelia:** mouthing ≤1; grip ≤2.
+  - **Ch.31 guards (Election Paint):**
+    1. **The hook must NOT be IN MEDIAS RES** (Ch.30's hook). A mid-dialogue Grata opener should land as VOICE or CONTRAST. The ending is the ledger's PLAIN STOP (`long-fade`, final sentence >25 words): no hook, no image-with-meaning, no aphorism, and none of sample-12's refold or chore-finished stops.
+    2. **No Ch.30 callback:** no quake, crack, rag, straw, plaster dust, plasterer, lime price, husband asleep through a shake, cookshop jar, door, tomb, notebook, Kalends, or "Valens in the road". Theme RECEDES. Valens's knowledge of the tomb is not mentioned. **No fullery staged at the bull's-head crossing:** if Ch.31's night walk passes a corner, the fullery is the shop's east corner and the bull's-head fountain is the west crossing.
+    3. **The Ch.20 whitewash guard stands in full:** Grata's own lamp; a rival's red letters; Mara's hands on the ladder; Valens holds the lamp as a man who refused, never as a boy, never on a pole, never told to hold it still; no professional crew; no "hold the ladder" or "hold that light" in any mouth or on any wall; no shaved-face comparison; no letter set on a crack; no wall quoted in Ch.20's kinds. The plasterer's trestle is not a ladder substitute.
+    4. **Grata's subjects** come from the outline (her husband's dice debts, Secundus's campaign, the night painters, her teeth), all fresh. The rooms-to-let wall (Ch.26) is NOT paid off. "Look at" and "so [command]" stay rested.
+    5. **Teeth** are Mara's third full surfacing, discussed with Grata. Statia remains the only introduction-by-teeth.
+    6. No portent. Nobody names the mountain. The election result is not given.
+  - **Craft rules recorded from Ch.30 (for the Writer and evaluator; never a character's habit, and nobody on the page remarks on them):**
+    1. A run, chase or hurry is grepped beat by beat against the book's earlier runs (Ch.17, Ch.30): skirt or hem in hand, sandal sound, breath, stitch, a bystander's remark. Use none twice.
+    2. Before staging a threshold touch, check the door's temperature canon in every earlier touch (Ch.19, Ch.25, Ch.27, Ch.30). Eros's painted leaf is faintly cool even in sun; only her skin is ever warm.
+    3. Route wording in Pompeii is checked against ENTITY locations. The bull's-head fountain crossing is WEST of the shop (the Stabian turning; the Ch.29 stage). The Nuceria Gate is east, then south. Walks home pass landmarks in reverse. The shop has two corners in the canon: the bull's-head fountain crossing to the WEST (Ch.19, Ch.20 "The fountain at our corner", the Ch.29 stage) and the fullery/fuller's bench to the EAST (Ch.28 "The fullery on our corner", Ch.30). Never put one at the other.
+    4. A pass's "protected line" is still subject to the CLOSED syntax laws (fronted objects, narrating present). Protection covers wording, not law.
+    5. Pattern #11 in a chapter under 3,000 words allows 1 firm instance. Every repair and every cut re-computes the density.
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
@@ -9474,3 +9563,5 @@ finalizing the chapter. Never add a tic to fix it.
   Both carry Writer-draft quotes; the evaluator's FINAL sync replaces them and writes "At-risk after Ch.29". Not touched: the principals'
   cards, the at-risk blocks, STATE.yaml, ENTITY_STATE.yaml, outline.md. Tic-bearer roster still NONE.
 - **2026-10-24 (finalize Ch.29):** writer-draft Ch.29 blocks replaced from the evaluator's FINAL list (`evaluations/chapter-29-eval.md`, Cycle 2), synced to the final page (body md5 `354dc770…`). CERDO base card corrected (vocabulary band, the song quote, the syntax example). Ch.29 walk-on block replaced. New Ch.29 blocks for MARA, VALENS, FENN, FELIX, GRATA, LUCIUS, AELIA. At-risk after Ch.29 added. closed_ledger.tsv already carries the 10 cycle-0 rows (21 total); +2 rows at finalize ("curled up" and "[X] gave us a [noun]", both closed after 29; 23 total). No catchphrase, habit or tic assigned; the tic-bearer roster is still NONE.
+- **2026-10-24 (finalize Ch.30):** Ch.30 "Tremor" PASSED at evaluator cycle 2 (Floor 8.5 / Avg 8.57 / Casual 9.0); synced to the FINAL page md5 `2d8df26b…` from `evaluations/chapter-30-eval.md` (cycle-0 re-sync list items 1–10, as amended by the "## Cycle 2" final consolidated list; the page's double quotation marks used). The Writer-draft Ch.30 walk-on block replaced in full; its six stale draft lines (the cookshop man's shout after Mara, the crossing-shrine woman "telling the snakes about her roof", "the women queued at the fountain", the dyer's wife and her lamp, the tile sweeper and the man on the roof, "*Eros: the same.*") moved to the walk-on CUT list and the Ch.30 CUT LOG. New Ch.30 blocks for MARA, VALENS (he knows the tomb; lines 5, all ≤4 words), GRATA (talking-on AT CAP; "my wall" 2), LUCIUS and AELIA; FENN mention line (cycle-0 item 7). New block **At-risk after Ch.30** (SPENT / CLOSED / canon incl. the fullery at the shop's EAST corner / CUT log / WATCH for Ch.31 / Ch.31 guards 1–6 incl. no fullery at the bull's-head crossing / craft rules 1–5 incl. the shop's two corners). `tools/closed_ledger.tsv` already holds the five Ch.30 rows (28 total): not re-added. Every live quote checked by grep on the page (header comments excluded); every CUT string checked off it. No catchphrase, habit or tic assigned; the tic-bearer roster is still NONE.
+- **2026-10-24 (author revision sync, "watch period beats"):** author Terry asked for period-true watch beats (`evaluations/author-revisions.md`, incl. "## Independent fit check"). VALENS Ch.6: "Was it on him when he died?" (a dead man's self-moving object), answered by Mara's silence ("The gray had burrs in her mane, worked in close to the skin. I looked at those."); "Was it on him when he died?" SPENT (never re-asked in those words). VALENS Ch.11: the quote updated to "It hasn't stopped. In the snow it had nine of its hours between sunup and sundown, and some over. Now it's eleven." (the watch's hours do not stretch like Roman hours); the hours count SPENT (no second count). VALENS Ch.15: "He'll be wanting it, then." noted as his second try. MARA: new Ch.6 entry; the evasion line notes that she still never names her father's death. SPENT notes added to At-risk after Ch.6 and At-risk after Ch.11 FINAL. Chapters and ENTITY_STATE.yaml not touched; no habit assigned.
