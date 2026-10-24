@@ -618,3 +618,233 @@ Cycle 2 needs only:
 - Apply `apply_fixes_c1.py`, re-run `check_chapter.sh 28` and `--echoes 28`, then run cycle 2 as a confirmation pass.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Cycle 2
+**Evaluator:** book-evaluator (independent) | **Date:** 2026-10-24 | **Text:** `manuscript/chapters/chapter-28.md` md5 **`493621cce8584454710f8a15985afab3`**. That is exactly the tested cycle-1 result, so `apply_fixes_c1.py` was applied verbatim (commit 6ce7ff0). Line numbers below are for this file.
+
+**Measured on the real file:**
+- `bash tools/check_chapter.sh 28`: **ALL MECHANICAL GATES CLEAN**. Style, grammar, rhythm (the same one advisory paragraph as cycle 1), show/tell, voice-wear strict, tic gate with gestures, metaphor. **SHAPE CLEAN**.
+- `--echoes 28`: **0** echoes, 0 command echoes, 0 spoken-line echoes.
+- Body 6,561 words; dialogue 31.0%.
+
+### Verdict: **POLISH** (cycle 2). Floor **8.0** (Characters).
+- Casual 9.0 ✓. Pacing OK ✓. Gates clean ✓.
+- R1–R4 are all confirmed on the page.
+- The orchestrator's question about "the fuller's girl" ×2 is ruled **natural; no change** (§2).
+- **But this cycle ran the character bible's per-chapter lexical caps by hand, which cycles 0 and 1 did not.** Four caps fail. All four were on the page from cycle 0 and none was created by a fix. **This is my miss, not the editor's.**
+  - One is a speech habit: Felix's "nobody" at 3. It has been on his WATCH since Ch.11.
+  - Under cycle 0's own PATH TO 8.5 ("no speech habit over 2"), that holds Characters.
+- The fix is a 5-replacement tested script. **Projected after it: Floor 8.5 / Average 8.71 → PASS at cycle 3.**
+
+### 1. The four lines cycle 1 asked to re-read, in context
+| Line | On the page | Ruling |
+|---|---|---|
+| l.16 | "Quilted cloth wound both legs to the groin. A greave was strapped over each from mid-thigh to instep, so high and stiff that he crossed the sand lifting his feet like a wading bird." | ✓ "each" takes "both legs" cleanly. "thigh" appears once in the paragraph. It agrees with l.34's strap "below the knee" and l.184's "past the knee". |
+| l.36 | "Felix hopped clear. Out of the bowl came a long sliding groan, and the griffin tipped upward at the benches, hunting for whoever had made it." | ✓ "right round" is now ×1 (l.310). The groan is bare, with no "new to me" and no trailing clause. "the bowl" as the arena (l.36, l.332) sits beside the hare bowl: WATCH only. |
+| l.46 | "…and the fuller's girl was the first he told." … "and the fuller's girl says he's to be a Thracian, whatever that means to her." | ✓ "had it from" 0; Grata's "fountain" 0. Prima's "He told me first." (l.104) corroborates it. The double is ruled in §2. |
+| l.258 | "Your husband was Lupus," she said. "They talk of it at the vats. Nine times, and the emperor's own sword." | ✓ "say so" now 1 per speaker (l.108 Prima, l.166 Valens, l.196 Felix). Prima's "the vats" ×2 in the scene (l.254, l.258) is her workplace, two beats apart with the walk home between: subject matter, not habit. |
+
+### 2. Ruling: "the fuller's girl" ×2 in Grata's l.46 speech, natural; no change
+- **The count did not change.** Cycle 0's census already had this row ("Grata | 'the fuller's girl' | 46 ×2 | 2 | OK"). R1 recast the first clause ("had it from him first" → "was the first he told") but did not add a mention or move one.
+- **The structure did not change either.** Both mentions were already subject-first before R1.
+- **The repeat is necessary.** About 70 words and five subjects come between the two mentions (the stable, the blanket, the bowl, the duumvir's games, the painter's notice). A bare "she says he's to be a Thracian" would leave the reader hunting for the referent in a flood that has already moved on.
+- **The tag needs the noun.** "whatever that means to her" only lands if "her" is the girl named a beat before.
+- **It is Grata's voice, not a habit.**
+  - She names people by trade or role: "the bald one", "the painter", "a cousin of mine", and on the morning of the games "the trainer" and "the lanistas".
+  - Coming back to the girl twice is the gossip's grievance: the girl knew first, and the girl has the details.
+  - Under the rule recorded in `chapter-27-eval.md`, a speaker repeating the noun of her subject is subject matter, not habit.
+- **Book-wide it is 2/2.** "fuller's girl" occurs nowhere in Ch.1–27, so there is no cross-chapter echo. It is now rested for Grata: no third use in her mouth.
+- **No fix is supplied.** A variant ("that girl at the fullery", "she") would either be a new string or blur the referent. That is the "fix that creates a finding" the brief warns against.
+
+### 3. New findings: bible caps checked by hand (all present since cycle 0)
+Cycles 0 and 1 ran the gate, the echo scan and the narrated-state and speech-habit census. Neither ran the bible's per-chapter **lexical caps**, which `tic_report.py` does not measure. Run now, against the page at md5 493621cc:
+
+| ID | Location | Problem type | What happens now | Why it fails | Revision direction (exact, in script) | Project rule? |
+|---|---|---|---|---|---|---|
+| S1 | l.372 (Felix) | Character (speech habit on WATCH) | "…in sheep towns where nobody can tell one fighter from another, and no one will cry my name in this town again." | Felix's "nobody" has been on WATCH since Ch.11 (6 there; Ch.20 spoken "Nobody…" openers 4, Felix 2). Ch.28 has 3: l.188 "Nobody else can wear them.", l.214 "She'd show nobody that…", l.372. The sentence also pairs "nobody … and no one …", the same shape as the narration at l.64. **This holds the floor**: cycle 0 defined Characters 8.5 as "no speech habit over 2". | "…in sheep towns where they can't tell one fighter from another, and no one will cry my name in this town again." Felix "nobody" → 2. "they can't tell" is 0 in Ch.1–27. | Yes (below) |
+| S2 | l.64 (narration) | Style (bible WATCH) | "Nobody in the house had believed it, and no one asked him again." | The "Nobody had [verb]" narration frame is WATCH, ≤1 per chapter from Ch.25 (Ch.24 had 3). l.64 and l.134 ("against a day nobody had named") make 2. l.64 is also the "Nobody…, and no one…" pair. | "Nobody in the house believed it, or asked him again." The frame → 1 (l.134 stays: the Laws scan cleared it at cycle 0). The pair → 0. The simple past matches "Felix said" in the sentence before. | No |
+| S3 | l.352 (narration) | Style (bible cap) | "nut shells, crusts, a sandal from somewhere low down that tumbled end over end" | Narration "somewhere" is capped at 2 per chapter (the Ch.15 rule, checked at Ch.23). Ch.28 has 3: l.10, l.30, l.352. The sandal's source is already given ("It started with the men below… whatever they had in their hands"). | "nut shells, crusts, a sandal that tumbled end over end". "somewhere" → 2. A pure cut. | No |
+| S4 / S5 | l.180, l.44 (narration) | Style / Character (bible cap; a narrated trait doubled) | l.44 "Grata was round her marble and out to us before the dun had come to a stop." · l.180 "I heard her start on him before he had sat:" · l.354 "Before anybody had cleared the sandal away, the horns were sounding…" | The race frame "before [X] had" is capped at ≤1 per chapter after Ch.20 (from Ch.19, where 3 were cut). Ch.28 has 3 races. Two of them clock **Grata's speed** with the same frame, so a trait of hers is narrated twice through one device. | l.180 → "I heard her start on him:". l.44 → "…out to us as the dun came to a stop." (she is already there when it stops, so the speed is still implied). l.354 stays: it is the arena's indifference, close to the anchor. Race frame → 1. | No |
+
+**Class rulings, so cycle 3 does not re-argue them:**
+- **The race frame** counts a narrated contest between two agents or events. l.308's "Ray salting it before he had tasted it" is one man's habit, and the habit is the joke, so it is **not counted**. For the record, Ch.21, 24 and 26 were finalized at 2 by the same regex. The ≤1 cap had stopped being checked after Ch.20, and Ch.28 brings it back.
+- **Felix's other absolutes are within cap:** "never" 2 (l.172, 218), "everybody" 2 (l.214, 222), "whole" 2 (l.192, 226).
+  - "keep" ×3 (l.206, 214, 226) is used in three senses: hold a position, retain, keep off. It is a verb, not a habit.
+  - "She'll come… She'll be there… and she'll see." (l.214) is a boy's insistence in speech, not a rhetorical anaphora triad. Only two of the three are sentence-initial.
+- **Spoken "Nobody…" openers:** after S1 there are 4 across three speakers (Mara l.92, l.110; Felix l.188; Nicanor l.236 answering "Who'll kill him?"). Only two are line-initial. WATCH; no owner over 2.
+- **Valens's "feet" ×4** (l.200 "can't see your feet", l.238 "on his feet", l.290 "one more pair of feet", l.298 "couldn't feel my feet") is the chapter's planned motif (outline: the feet at Corinth): four idioms in four scenes. Not a habit. Rest it in Ch.29.
+- **"Bring Lucius."** (l.278) against Ch.27 l.62's "Bring the boy's hat." is a common two-word imperative in a different situation. INVESTIGATE only; rest the "Bring [the boy…]" order in Ch.29.
+- **l.30's "the two notes you whistle at a dog"** is a definite description in the generic present, not a comparison. The present-simile gate (cap 1) counts l.16's vinedresser simile, and that one alone. No change.
+- **Other bible caps checked and passed:**
+  - "[noun] nobody had [verb]ed" 1 (≤2); sentence-initial narration "Nobody" 1 (≤1)
+  - "the one / the only" 0 (≤3); "so that" 2 (WATCH >4); "the size of a" 1 (≤1)
+  - "[S]omebody had [verb]" inference 0 (≤1); narrated non-answer 1 ("If he had an answer, he kept it.", ≤1)
+  - "I could have…" 1 (≤1); spoken "Then…" 1 (≤2); "And…" rejoinders 2 (≤4)
+  - anadiplosis 1 ("They circled. They circled…", ≤1); haul in a non-rope sense 1 (≤1)
+  - in-law as joke-butt 1 (≤1); `to the (knee|thigh…)` 0 (≤2)
+  - body-part rulers 2 ("a fingernail's breadth", "a dark finger's length"; WATCH ≤4)
+  - Mara's ledger: "And…" 1, statement + dry fragment 2 (at the Ch.28 cap), re-ask 1
+  - Lucius "fist" 0
+  - Ch.27's rest list (jenny, oyster stakes, bars of sun, pick strokes) 0
+
+### 4. Fix script (tested)
+`/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes28/apply_fixes_c2.py <chapter-28.md>`. It makes **5 replacements** (S1–S5).
+- It refuses any input whose md5 is not `493621cc…`.
+- Each replacement must match exactly once, or nothing is written.
+- A re-run aborts safely (tested).
+
+Tested on the scratch copy `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/eval28/books/the-hour-of-ash/` (Ch.1–27 byte-identical to the repo; repo `tools/`):
+- `check_chapter.sh 28`: **ALL MECHANICAL GATES CLEAN**. Tic gate clean, voice-wear strict clean, SHAPE CLEAN. The rhythm advisory is unchanged.
+- `--echoes 28`: **0** echoes, 0 command echoes, 0 spoken-line echoes.
+- Body **6,549** words; dialogue **31.0%**. `short-punch` → `dialogue` is unchanged.
+- **Counts after the script:**
+  - race frame 1 (l.354); narration "somewhere" 2
+  - "Nobody had [verb]" 1 (l.134); Felix "nobody" 2
+  - spoken "nobody" 5 (Mara 2, Felix 2, Nicanor 1); "Nobody…, and no one…" 0
+- **Replacement strings checked:**
+  - None of "they can't tell", "or asked him", "as the dun came" or "start on him:" occurs in Ch.1–27, the voice-bank or the bible's CUT lists.
+  - No earlier pass's cut is restored.
+  - No gesture, sit, tread or "whole" is added.
+  - The opener, the anchor (l.336–340), the palm, the last line and every cycle-0/1 replacement are untouched.
+- Result md5: **`5b980701f4000d3f2c7ce7d7744f4393`**.
+
+### 5. Scores (cycle 2, the page as it stands; max +0.5 vs cycle 1)
+| Dimension | Cycle 1 | **Cycle 2** | Evidence / cap |
+|---|---|---|---|
+| Originality | 9.0 | **9.0** | The seated champion, "every soul but one was up. / Valens sat. Lucius sat on his knee." (l.336–338); the strap-tying mercy (l.330–332); "A sniff, he tells me. Two hundred sesterces of bear." (l.156) |
+| Theme | 8.5 | **8.5** | Recedes by design; carried by acts ("I'd be one more pair of feet on that sand. I'll watch.", l.290). Not 9.0: "haul him home by the ear" (l.80) is stated outright |
+| Characters | 8.0 | **8.0** | R1 is confirmed: Grata's gossip chain is gone, and "the fountain" as gossip is Prima's alone (l.104). The census is clean; the spoken reuses are gone ("What was your answer?", "My boy,"). **Held by S1:** Felix's WATCH word "nobody" at 3 (l.188, 214, 372). S4/S5 also clock Grata's speed twice with one frame. After S1–S5 → **8.5** |
+| Prose & Voice | 8.5 | **8.5** | The stopping sentences stand: l.10 "…into the noon, and nobody caught it."; l.304, the bowl nudged "a fingernail's breadth. The humming stopped. He slept on."; l.336–338. Ugly sentence l.86. Voice under pressure l.348–352. #11 at 3 (0.46/1k). S2–S4 are bible-cap hygiene, the same class as cycle 1's R2–R4: required, but not holding the score |
+| Pacing | 8.5 | **8.5** | Unchanged. The ledger row is matched; S5 runs strap → sandal at speed; the contrast with Ch.27 and Ch.29 holds |
+| Emotion | 9.0 | **9.0** | The anchor is untouched; "My boy," (l.358) goes unheard by Felix, which sharpens "You were sitting down." |
+| Immersion | 9.0 | **9.0** | The greaves are correct (l.16, l.184); the stantes missi (l.350); "less forty, greaves" (l.144) |
+| **FLOOR** | 8.0 | **8.0** | Characters |
+| **AVERAGE** | 8.64 | **8.64** | (9.0+8.5+8.0+8.5+8.5+9.0+9.0)/7 |
+
+**Casual Reader: 9.0** (unchanged; none of S1–S5 is visible to a casual reader). **CVI-Launch 9.4** (8.9, plus 0.5 for the anchor). **CVI-Legacy 6.8**. **Anti-AI:** 8/20, clean band. S1–S5 add no pattern, and S3 removes a small explanatory clause.
+
+**Projected after `apply_fixes_c2.py`:** Originality 9.0 · Theme 8.5 · **Characters 8.5** · Prose 8.5 · Pacing 8.5 · Emotion 9.0 · Immersion 9.0 → **Floor 8.5 / Average 8.71**, Casual 9.0 → **PASS** at cycle 3.
+
+Cycle 3 needs only:
+1. Confirm md5 `5b980701…`.
+2. Re-read l.44, l.64, l.180, l.352 and l.372 in place.
+3. Re-run the gates.
+
+The census and the bible caps above are now exhaustive, with rulings recorded, so cycle 3 is a confirmation pass.
+
+### 6. Character-bible re-sync list (reconciled against the page AFTER `apply_fixes_c2.py`; replaces the cycle-0 and cycle-1 lists)
+The bible's Ch.28 blocks are all still **WRITER DRAFT**. Finalize replaces each one from the final page. Every string below was checked against the scratch copy, md5 5b980701.
+
+- **MARA (Ch.28 block, l.843 on):**
+  - "nothing in all my time in that town had seemed so sure" → "nothing had ever seemed surer".
+  - "I was standing too, without having got up." → "I was standing too." The body rebels are now the grit in the palms (l.360) and dressed before he is back (l.248).
+  - "To my eye it was no wax of a man hiding anything." → "The wax looked honest to me."
+  - Speech counts:
+    - "And…" openers 1: "And you let him."; "And you?" is CUT, and Prima is asked "What was your answer?".
+    - Statement + dry fragment **2** (l.84 "…with him," … "The sherd."; l.210 "The girl at the fullery," … "Prima."): AT CAP.
+  - Memory: not "none". One triggered recall, the eyebrow (l.64, "Nobody in the house believed it, or asked him again."), picked up at l.70. The Gloria rice is unlabelled ("I thought of my cousin Gloria's…").
+  - CUT: "For no reason at all", "I lay awake" (l.304), "new to me", "And you?", "a sandal from somewhere low down", "Nobody in the house had believed it, and no one asked him again.", "before he had sat", "before the dun had come to a stop".
+- **VALENS (l.1707 on):**
+  - "the herald has it ahead of the thraeces. Then it's Lupus's boy on the sand." → "…ahead of the thraeces, and it's Lupus's boy on the sand." It is followed by "He sat on the bed and started on his boot laces."
+  - "They don't call heralds." / "Bring Lucius." are one line: "The women will know me. They don't call heralds. Bring Lucius."
+  - **"Mine." → "My boy,"** said to the bean woman's **"You know that bird?"**, not "That bird … Was he anything of yours?".
+  - The Albucius misreading as on the page: "He wants more. He's looked the boy over and he knows what he's got. He'll take my money once the games are over and find a reason to keep him. Or he'll put him in with someone who can kill him and sell the duumvir the blood. You heard him. The duumvir pays him for the dead." "The giver pays more for a corpse…" is CUT.
+  - "That wants washing." → "Wash that."
+  - First fight: "I couldn't feel my feet," he said. "Walking out to my mark." ("Not once," is CUT.)
+  - Kirrha: "He's free. I said it at Kirrha, with the Cilician listening." ("there on the quay" is CUT.)
+  - **Strike** "pays Grata's boy two coppers unasked" (audit CRIT-002).
+  - Add: "The dun's cracked a hoof," … "Lie down."; stall to stall with the bucket; the dry knee; boots 2 (l.274, l.288 "toes to the wall").
+  - Counts: hand on the boy 3 (l.32, 312, 340); seated outside the anchor 3 (l.66, 242, 274); "feet" 4 as the chapter's motif (rest in Ch.29).
+- **FELIX (l.2692 on):**
+  - "I never stumbled once" → "I never tripped on a word of it".
+  - "Grata would." → "Course she did."
+  - "Because I'm too thin to hold the board up." → "Because my arms won't hold the board up."
+  - "laughed till he had to sit" → "he laughed, with the whole yard watching."
+  - "Nicanor told me all that my first day." → "I had all that my first day."
+  - "Never. He gave me…" → "Robbed me? He gave me what he promised. He never even asked me for a paper."
+  - "Nicanor says you've not come to the sand since the bear. Not once in more than two summers." → "You've not been to the sand since the bear, Nicanor says. Two summers and more. Not even to look. Why's that?"
+  - "they'd cry your name … I'd spend the whole bout" → "they'd be chanting Lupus before I was halfway to my mark … and I'd spend the bout hunting the benches for you".
+  - The after-bout burst as on the page: "You saw him? Bent right over in front of me, neck out, and all of them up there begging me to take it! His ear was mine for the taking. Nicanor says I'm a fool, and I'll fight out the rest of my three years in sheep towns where they can't tell one fighter from another, and no one will cry my name in this town again." / "Somebody threw his sandal at us."
+  - Kit: quilting "to the groin"; greaves "from mid-thigh to instep" / "Bronze ones, past the knee."
+  - The palm ends "…and on the right two fronds, and then nothing." "Its maker had been called out…" is CUT.
+  - Counts:
+    - "nobody" **2** (WATCH continues); "never" 2; "everybody" 2; "whole" 2.
+    - "cry… name" 2 (l.122 relayed, l.372): SPENT.
+    - Single questions only ("Did she show you?" / "Robbed me?" / "Why's that?" / "You saw him?").
+- **GRATA (l.3281 on):**
+  - "my husband's no use on a road and my boy's no use anywhere" → "but my husband's no use on a road."
+  - "he did it in the dark, I give him that" → "He left your stable mucked out, in the dark."
+  - Add "He swore himself in the forum, the whole oath, and the fuller's girl was the first he told." and "the fuller's girl says he's to be a Thracian, whatever that means to her".
+  - Add "She lifted Aelia out of the sling and settled her on her own shoulder." / "She was rocking Aelia, awake now and staring at her earrings."
+  - The morning flood: "because the trainer had eaten a bowl of her chickpeas and said the lad would be down inside three passes".
+  - **Strike** "Her boy appears (bare feet, two coppers)".
+  - "no question" → one: "For you?" (l.56).
+  - CUT: "hitched Aelia up her shoulder"; "had it from him first and the fountain had it from her by noon"; "had it from the trainer, who'd had…".
+  - WATCH: "had it from" rested (Ch.20 l.579 its only use); "the fuller's girl" 2/2, rested; no race frame on her in Ch.28.
+- **PRIMA (l.5729 on):**
+  - Rhythm: "keeps treading while she talks; stops only once" → treads at the introduction (l.96), then "She stopped treading and stood in the gray water." … "She trod again, harder." (l.108), and nothing else. Do not write it as a rule.
+  - Physicality: "fishes a twin's strap out of the dirt without breaking step" → "leaned across, hooked the strap out of the dirt by one end, wiped it on her hip and returned it." She still "fished inside her neckline" for the sherd.
+  - On the page:
+    - "dragged the stained cloth clear"
+    - "I'm to marry the baker's nephew, from the Nola Gate bakery,"
+    - "Same words he gave the magistrate's man. Twice, so I'd have it right."
+    - "They talk of it at the vats. Nine times, and the emperor's own sword." (not "The fountain says so" or "They say so at the vats")
+    - Mara's question "What was your answer?"
+  - "the fountain" as gossip is hers alone in Ch.28 (l.104). "the vats" 2 in the fountain scene: rested.
+- **ALBUCIUS (l.5756 on):**
+  - Physicality: "a dish of eggs … rubs his fingers clean on a napkin" → "Albucius was eating eggs." / "with the shells picked off into a small white pile at his elbow" / "ate half an egg". No dish, no napkin.
+  - "I'd have wagered on today." → "I'd have bet on today."
+  - "Sit, the pair of you, there's the bench." → "Sit. There's the bench. You'll not mind if I eat. I've had a bear off its food since the Ides and a slave who swears it's sulking, and I was up with it till the cocks."
+  - "My trainer wrote the name in for him." → "Nicanor wrote the name in for him."
+  - "Once the games are done, come back. … isn't worth what one is who hasn't … what's in that cloth." → "Come back once the games are done, and bring your cloth. A tiro who's been out once and lived, the price comes down on him, and I'll sell him back cheaper than what's in it."
+  - Add "Is it eating?" / "A sniff." / "Lupus, I'll tell you this because Nicanor says you're no fool."
+  - "he tells me" 2: AT CAP.
+- **NICANOR (l.5604 on):**
+  - "Forty he's had off the lad…" → "Forty he's had off him for a pair of greaves that cost the smith thirty-five."
+  - "he'll sell the lad back afterward cheaper than today" → "he'll sell him back after, cheaper than today."
+  - "(chickpeas, paid)" → Grata's report: "he'd pay for them because she wasn't the duumvir".
+  - "laughed till he had to sit" → "he laughed, with the whole yard watching" (Felix's report).
+  - Add "He squinted at the lamp I had trimmed."
+- **RUSTICUS (l.5781):**
+  - The wife sells eggs "in the forum", not by the Nucerian gate.
+  - "a field somewhere up the Nola road" stands (l.10).
+- **LUCIUS (l.3381):** add "During the hunt he wet himself, and Valens shifted him to the dry knee." The rest matches the page.
+- **AELIA (l.3448):** matches the page.
+- **Walk-ons (l.4763):**
+  - Bean woman: "She sells eggs in the forum."; her line to Valens is "You know that bird?".
+  - Duumvir: strike "his toga very white" (the white toga is closed); the page has "gray-haired, a slave at his side holding a cup".
+  - **Strike "Grata's boy"** (CRIT-002).
+- **At-risk after Ch.28 (l.8009): replace the writer-draft block.**
+  - SPENT corrections:
+    - "Mine." → "My boy."; "That wants washing." → "Wash that."
+    - the sliding groan, bare; the unfinished palm, "and then nothing.", no cause given
+  - SPENT additions: "What was your answer?", "Course she did.", "Robbed me?", "chanting Lupus", "You know that bird?", the dry knee, "They talk of it at the vats.", "from all sides together", "the fuller's girl was the first he told".
+  - CUT log:
+    - every cycle-0 old string
+    - R1–R4 old strings
+    - S1–S5 old strings: "where nobody can tell one fighter from another", "Nobody in the house had believed it, and no one asked him again.", "a sandal from somewhere low down", "start on him before he had sat", "before the dun had come to a stop"
+    - the rejected drafts "What did you tell him?" and "from above the knee"
+    - the palm's last two sentences
+  - WATCH for Ch.29:
+    - race frame 1 (cap ≤1; enforce it again); narration "somewhere" 2 (cap); "Nobody had [verb]" 1 (cap)
+    - Felix "nobody" 2, still on WATCH; spoken "Nobody…" openers 4 across three speakers
+    - "right round" rested; "say so" 1 per speaker; "hook" 3
+    - Prima "the vats" 2; "the bowl" for the arena 2 beside the hare bowl
+    - Valens's "feet" 4 and "Bring [the boy…]" (Ch.27/28): rest both
+- **Project rules to record:**
+  - V2: a charged one-word line is never re-spoken by another character.
+  - L1: an unfinished mark is never given its cause by the narrator.
+  - C4: a town metonymy used as gossip belongs to one speaker per chapter.
+  - R1: the speech-habit census also counts the speaker's earlier chapters.
+  - **S1 (new, evaluator process): the cycle-0 census runs the bible's per-chapter lexical caps and each character's WATCH words by hand**, because `tic_report.py` does not measure them: the race frame, narration "somewhere", "Nobody had [verb]", "the one / the only", and so on. Ch.28 lost cycle 2 because cycle 0 counted only the gate, the states and the speech habits.
+- **Header l.6:** body 6,549, dialogue 31.0%, revision "evaluator cycles 0–2".
+- **ENTITY:** greaves to mid-thigh; quilting to the groin; Prima's source "the vats".
+
+### PATH TO 8.5 (cycle 2)
+- **Characters 8.0 → 8.5 requires:** S1, Felix's l.372 "nobody" → "they can't tell". That takes his WATCH word to 2 and is the only floor-holding item.
+- **Required with it (not floor-holding):** S2 (the "Nobody had" frame), S3 ("somewhere"), and S4/S5 (the race frame, and Grata's speed clocked twice).
+- Apply `apply_fixes_c2.py` and confirm md5 `5b980701f4000d3f2c7ce7d7744f4393`. Re-run `check_chapter.sh 28` and `--echoes 28`, then run cycle 3 as a confirmation pass.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

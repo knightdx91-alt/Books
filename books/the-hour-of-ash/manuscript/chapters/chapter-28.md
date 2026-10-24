@@ -41,7 +41,7 @@ Felix set his feet and went in again.
 
 * * *
 
-Nine days before, we had returned from the Puteoli loads at the end of a long day on the bay road, with the four mules in a string behind and Lucius sleeping in a pannier with his cheek on a sack of meal. Aelia had slept since Herculaneum with her mouth on my collarbone. The street had gone blue with evening and its shutters were all up. Grata was round her marble and out to us before the dun had come to a stop.
+Nine days before, we had returned from the Puteoli loads at the end of a long day on the bay road, with the four mules in a string behind and Lucius sleeping in a pannier with his cheek on a sack of meal. Aelia had slept since Herculaneum with her mouth on my collarbone. The street had gone blue with evening and its shutters were all up. Grata was round her marble and out to us as the dun came to a stop.
 
 "He's gone to the gladiators. He went the very next day after you, before the bakers had their fires lit, and I'd have sent after you if I'd had a soul to send, but my husband's no use on a road. He swore himself in the forum, the whole oath, and the fuller's girl was the first he told. He left your stable mucked out, in the dark. His blanket's gone. That bowl of his is still on your shelf. He's to fight at the duumvir's games, nine days from now, the painter's had it up on the bath-house wall since yesterday, twenty pairs and the awnings, and the fuller's girl says he's to be a Thracian, whatever that means to her." She lifted Aelia out of the sling and settled her on her own shoulder. "Give her here. You're dropping where you stand, the pair of you, and the boy's got meal up his nose."
 
@@ -61,7 +61,7 @@ Felix's corner of the shop was only floor. Where his blanket used to lie, along 
 
 Lucius had woken when his pannier was lifted off. He wandered in with sleep on him and meal in his hair, made straight for the corner, and stood on the clean patch with his head bent. He squatted and patted it. He rose, faced me, and waited.
 
-At midwinter there had been a split eyebrow, and Felix said the dun had thrown her head. Nobody in the house had believed it, and no one asked him again.
+At midwinter there had been a split eyebrow, and Felix said the dun had thrown her head. Nobody in the house believed it, or asked him again.
 
 Valens sat out on the shop step with a pannier over his knees, unpicking the stitches of a strap that was sound, and stitching it again. I laid Lucius on his pallet, still blinking, and fed Aelia when Grata brought her across, and he was out there yet when I drew our curtain.
 
@@ -177,7 +177,7 @@ Nicanor brought Felix home at dusk. I heard Felix first, talking to somebody fro
 
 Lucius had toddled round my plank at the sound of him, at his own pace, hands held out from his sides. Felix put a hand down to him blind, and Lucius gripped two of its fingers and leaned on his leg.
 
-Nicanor stayed outside. He went across to Grata's, and I heard her start on him before he had sat: he was the trainer, she could tell a trainer, they had the legs for it, and he was to keep his rod off her marble, and he'd have the chickpeas because they were hot and he'd pay for them because she wasn't the duumvir and she didn't feed fighters for the love of it.
+Nicanor stayed outside. He went across to Grata's, and I heard her start on him: he was the trainer, she could tell a trainer, they had the legs for it, and he was to keep his rod off her marble, and he'd have the chickpeas because they were hot and he'd pay for them because she wasn't the duumvir and she didn't feed fighters for the love of it.
 
 "How much did he give you?" Valens asked.
 
@@ -349,7 +349,7 @@ He would make them go on. There was no doubt in me.
 
 The herald walked out. He cried that the giver of the games sent them both off standing.
 
-For a breath the sound meant nothing to me. It started with the men below, a deep hooting with whistles riding on it. Behind the noise came whatever they had in their hands: nut shells, crusts, a sandal from somewhere low down that tumbled end over end and dropped on the sand between them. Rusticus made for the door below the editor's box with his board on his arm, looking at no one. Felix stood alone at the middle with the sandal at his feet, the griffin raised and turning slowly to face each bank of seats in turn, until the slaves with the whips came and walked him off.
+For a breath the sound meant nothing to me. It started with the men below, a deep hooting with whistles riding on it. Behind the noise came whatever they had in their hands: nut shells, crusts, a sandal that tumbled end over end and dropped on the sand between them. Rusticus made for the door below the editor's box with his board on his arm, looking at no one. Felix stood alone at the middle with the sandal at his feet, the griffin raised and turning slowly to face each bank of seats in turn, until the slaves with the whips came and walked him off.
 
 Before anybody had cleared the sandal away, the horns were sounding for the next pair. Beside me the bean woman sat and began gathering up her beans. Her eyes went across me to Valens and the boy he held.
 
@@ -369,7 +369,7 @@ Among them was a palm. It was new; the scratches were white and the dust from th
 
 Felix walked in with Nicanor at his back. He had the helmet hooked on two fingers. His hair was black with sweat and plastered flat, and the beard on his jaw looked darker than before. The blood had dried on the quilting. He saw who was waiting, and stopped.
 
-"You saw him? Bent right over in front of me, neck out, and all of them up there begging me to take it! His ear was mine for the taking. Nicanor says I'm a fool, and I'll fight out the rest of my three years in sheep towns where nobody can tell one fighter from another, and no one will cry my name in this town again." He was talking very fast. "Somebody threw his sandal at us."
+"You saw him? Bent right over in front of me, neck out, and all of them up there begging me to take it! His ear was mine for the taking. Nicanor says I'm a fool, and I'll fight out the rest of my three years in sheep towns where they can't tell one fighter from another, and no one will cry my name in this town again." He was talking very fast. "Somebody threw his sandal at us."
 
 Valens passed Lucius to me. He caught Felix's arm over the elbow and turned it to the light at the tunnel's end to look at the cut at the edge of the quilting, and Felix let him. "Wash that."
 
