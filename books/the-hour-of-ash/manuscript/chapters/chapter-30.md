@@ -29,7 +29,7 @@ Lucius had bolted in to me; his father was out front mending a headstall. I chec
 
 It was Grata, on her own side of it. The crack brought her through to us whole.
 
-"Castor and his brother and their mother besides, there goes my good wall, there goes a plasterer's day and his boy's day after it, and lime at the price they're asking since the forum swallowed every cartload in Campania, and it's the landlady's purse for it, same as always. And you'll say it was nothing. My man says it was nothing. He never woke for it."
+"Castor and his brother and their mother besides, there goes my good wall, there goes a plasterer's day and his boy's day after it, and lime at the price they're asking since the forum swallowed every cartload in Campania, and it's the landlady's purse for it, same as always. And you'll say it was nothing. The man I married says it was nothing, and he never woke for it."
 
 High against the beam, where the crack gaped widest, a stripe of her room showed. A brown eye appeared in the stripe and glared through at our hearth.
 
@@ -68,6 +68,10 @@ I wiped my hands down my skirt and left by the shop, past my plank, to the pavin
 The street was full of people standing in it.
 
 The shake had emptied the doorways, and now people were drifting back in, slowly, talking. A roof tile lay smashed across the paving outside the dyer's. A woman with a hen clamped under one arm was pointing up at her own roof with the other. A pair of old men on the fuller's bench were already quarreling about the year of the shake before.
+
+"It was the year my mule died," one said.
+
+"You were riding that mule to Nola all the spring after," said the other.
 
 I ran.
 
@@ -133,7 +137,7 @@ In the town they were already at their repairs. A plasterer on a trestle outside
 
 "The landlady's."
 
-"Tell her she's after the cooper and the widow and this fellow here. Tomorrow. I'll not get to her today."
+"Tell her she's behind the cooper and the widow and this fellow here. Tomorrow, if the lime comes."
 
 Farther on a woman was sweeping up her broken tiles with a broom of twigs, while a man on the roof handed down more and named what each had cost him. Boys ran past with a basket of lime between them, slopping it. At the crossing shrine a woman had set a honey cake on the altar under the painted snakes and was telling the snakes about her roof. It was a mess, and people were clearing it. On the fuller's bench the two old men had settled the year between them and gone on to roof tiles.
 
@@ -141,7 +145,7 @@ Passing the fountain I had an answer ready for the question, a poor one, about m
 
 Grata had Aelia on her hip at the counter and Lucius sitting on the marble with his legs hanging down. She saw us coming from forty paces and started before we were in earshot.
 
-"He hands me your two over my own counter, the big ox, and off after you like a hound off its rope, and never a word, and the boy wanting his mother, and the girl chewing my sleeve, and my wall open to your fire so I'll smell your onions in my bed till the Kalends. And the plasterer's promised to the cooper. You've run yourself scarlet, Greek, you'll drop in my pot. They're yours again, my pot's catching."
+"He hands me your two over my own counter, the big ox, and off after you like a hound off its rope, and never a word, and the boy wanting his mother, and the girl chewing my sleeve, and my wall open to your fire so I'll smell your onions in my bed till the Kalends. And the plasterer's promised to the cooper. You've run yourself scarlet, and that girl's wanted the breast this hour past. They're yours again, my pot's catching."
 
 I lifted Lucius down and took Aelia, who had a fistful of Grata's sleeve and had to be unpicked. Valens looked in on the mules first, all four, and then set his shoulder to our wall beside the crack and leaned on it, hard. The wall bore it.
 
@@ -167,7 +171,7 @@ She talked on till the light changed, and the rag let most of it through.
 
 Later that day the shake brought me trade. The dyer's wife came with a lamp that had jumped off its bracket and lost its spout. A girl of nine or so arrived with her grandmother's bowl, broken in three, carried in the lap of her tunic with the corners gathered up in her fists. Last came my adviser from the cookshop door, with a wine jar split from lip to shoulder, and stood it on my plank, grinning.
 
-"Nothing to run from," he said. "Said so, didn't I."
+"The small shake did that. I'd just told you it was over."
 
 I promised it him for market day. The plank was full by lamplighting, and I took the pieces in turn with the glue pot warming on the coals beside me, its smell of pine and hoof filling the shop. The jar I kept for last. Its split ran clean, and two lead clamps would hold it.
 

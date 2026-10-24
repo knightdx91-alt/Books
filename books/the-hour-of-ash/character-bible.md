@@ -5089,17 +5089,23 @@ functional; no habit assigned.
 WRITER DRAFT, 2026-10-24 ("Tremor"; to be re-synced to the FINAL page by the evaluator's consolidated list). No new named character.
 All functional; no habit assigned; none borrows Grata's flood or the narrator's eye.
 - **The cookshop man** (a door on the long street east of the shop; not Grata): shouts after Mara "that it was over, Greek, nothing to
-  run from" (reported); returns at the end of the day with "a wine jar split from lip to shoulder": "Nothing to run from," … "Said so,
-  didn't I." Worldview: a shake is weather. Called by Mara "my adviser from the cookshop door" (once).
+  run from" (reported); returns at the end of the day with "a wine jar split from lip to shoulder", untagged, grinning: "The small
+  shake did that. I'd just told you it was over." (dialogue polish: his own shout is not re-spoken). Worldview: a shake is weather.
+  Called by Mara "my adviser from the cookshop door" (once).
 - **The plasterer** on a trestle outside a wine shop, trowelling lime into a split over the door, his boy mixing below: "Yours as
-  well?" / "Tell her she's after the cooper and the widow and this fellow here. Tomorrow. I'll not get to her today." Worldview: the
-  queue. (No ladder: Ch.31 owns the ladder.)
+  well?" / "Tell her she's behind the cooper and the widow and this fellow here. Tomorrow, if the lime comes." Worldview: the
+  queue (and the lime Grata complains of). (No ladder: Ch.31 owns the ladder.)
+- **The two old men on the fuller's bench** (speak once, dialogue polish): "It was the year my mule died," one said. / "You were riding
+  that mule to Nola all the spring after," said the other. Worldview: a year is dated by what happened to you in it.
+- **CUT by dialogue polish (never restore):** "Nothing to run from," … "Said so, didn't I."; "Tomorrow. I'll not get to her today.";
+  Grata's "My man says it was nothing. He never woke for it." ("My man" would have been her 3rd, after Ch.24 and Ch.26); Grata's "You've
+  run yourself scarlet, Greek, you'll drop in my pot." (address "Greek" would have been her 2nd, after Ch.24).
 - **The wine seller** under his sign, "arms crossed on his belly" (silent).
 - **The boy in the gate passage** fitting the pieces of a dropped jar together on the paving (silent).
 - **The woman with the hen** pointing at her own roof; **the tile sweeper** and **the man on the roof** who "named what each had cost
-  him"; **the woman at the crossing shrine** "telling the snakes about her roof"; **the two old men on the fuller's bench** (they
-  quarrel over "the year of the shake before" and later "had settled the year between them and gone on to roof tiles"); **the women
-  queued at the fountain**; **the goat** on the tomb road "eating the violets off a tomb step" (all silent).
+  him"; **the woman at the crossing shrine** "telling the snakes about her roof"; **the women queued at the fountain**; **the goat** on
+  the tomb road "eating the violets off a tomb step" (all silent). The two old men (narrated: they quarrel over "the year of the shake
+  before" and later "had settled the year between them and gone on to roof tiles") now speak once; see their entry above.
 - **The dyer's wife** (a lamp off its bracket, spout lost) and **a girl of nine or so** (her grandmother's bowl in three, carried in
   her tunic's lap): customers, silent.
 - **Mention:** the cooper and the widow (the plasterer's queue); "the big shake fifteen years back" (AD 62) and the plasterer who
