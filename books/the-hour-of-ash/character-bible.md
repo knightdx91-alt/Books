@@ -1897,10 +1897,11 @@ loosened toward the life it came from.
     paid"; "After that it's sixty-two, and Puteoli, for Eros's".
   - **The coat (1968, canon from the page):** "Best coat I ever owned, gray Navy wool, you could've anchored a destroyer with it. I sat at
     that mouth in it for hours… your breath smoked up there at sunup, even in July. When I did go in I shucked it… folded it on the rock
-    where I'd tied off the string, nice and square, Navy style, with my cigarettes in the pocket so they wouldn't get wet. Like a good
-    scout… Then it's forty-one, and I'm in my shirtsleeves in Phocis with snow falling on me."; "Some goatherd came along and got
-    himself a coat out of the deal, you can bet on it. I hope it fit him, it never did fit me in the shoulders." He does not know about
-    the carbon.
+    where I'd tied off the string, nice and square, Navy style, with the notebook and my cigarettes in the pocket so they wouldn't get wet. Like a good
+    scout… Then it's forty-one, and I'm in my shirtsleeves in Phocis with snow falling on me."; "Some goatherd hauled it off that
+    mountain, has to be, or that notebook never makes it home to my sister's. I hope he tried it on first. It never did fit me in the
+    shoulders." (CUT: "Some goatherd came along and got himself a coat out of the deal, you can bet on it. I hope it fit him, it never did
+    fit me in the shoulders.") He infers the coat went home; he does not know about the carbon.
   - **The kite string:** "Was there a string? Kite string, white, tied round a stone by the slot. You'd have stepped right over it." /
     "Thirty years," … "goats got it… I watched one eat a postcard off me once, stamp and all".
   - **Phillies / the diamond:** "He played third in sixty-four and got rookie of the year, the only guy on that club who didn't fold up
@@ -7715,7 +7716,7 @@ line each, so that walk-ons don't all sound like Mara.
     "Write me… Just that it's cool." / "And if it isn't?" / "It will be,"; the bay going purple with the lamps down the mole.
   - **Objects / doors, canon from the final page (rules shown in action):**
     - **The Zippo:** DEAD, shown once (the named frame is SPENT).
-    - **The coat:** gray Navy wool, folded at the Corycian mouth "with my cigarettes in the pocket" (NOT the notebook). The carbon is in
+    - **The coat:** gray Navy wool, folded at the Corycian mouth "with the notebook and my cigarettes in the pocket" (orchestrator, 2026-10-24: restores Ch.2's consulate slip, "with contents of pockets"; Fenn infers the notebook came home in it: "Some goatherd hauled it off that mountain, has to be, or that notebook never makes it home to my sister's."). The carbon is in
       the satchel, "folded small in the pocket inside the notebook's back cover".
     - **Eros's door:** faintly COOL every time ("only cool" / "Still cool?" / "cool on the last Kalends" / "Just that it's cool"). It is
       never cold until the plan escalates it. The Ch.25 l.258 re-quote (X1): "Shut tight. Cool under my hand with the sun on it, and

@@ -385,11 +385,11 @@ There had been another one. That had been the whole of my night's hope, a door t
 
 Aelia stirred against me and went heavy again.
 
-"Best coat I ever owned, gray Navy wool, you could've anchored a destroyer with it. I sat at that mouth in it for hours, waiting on the cold to rise out of the slot and stay put till I could trust it, and your breath smoked up there at sunup, even in July. When I did go in I shucked it, because you can't get down that crack on your belly in a coat, and I folded it on the rock where I'd tied off the string, nice and square, Navy style, with my cigarettes in the pocket so they wouldn't get wet. Like a good scout. Be back for that in an hour, I'm thinking. Then it's forty-one, and I'm in my shirtsleeves in Phocis with snow falling on me."
+"Best coat I ever owned, gray Navy wool, you could've anchored a destroyer with it. I sat at that mouth in it for hours, waiting on the cold to rise out of the slot and stay put till I could trust it, and your breath smoked up there at sunup, even in July. When I did go in I shucked it, because you can't get down that crack on your belly in a coat, and I folded it on the rock where I'd tied off the string, nice and square, Navy style, with the notebook and my cigarettes in the pocket so they wouldn't get wet. Like a good scout. Be back for that in an hour, I'm thinking. Then it's forty-one, and I'm in my shirtsleeves in Phocis with snow falling on me."
 
 "No coat."
 
-"Not a stitch of it. Every winter since, soon as the wind gets in under a door, there it is, I can feel the weight of it on me. Some goatherd came along and got himself a coat out of the deal, you can bet on it. I hope it fit him, it never did fit me in the shoulders."
+"Not a stitch of it. Every winter since, soon as the wind gets in under a door, there it is, I can feel the weight of it on me. Some goatherd hauled it off that mountain, has to be, or that notebook never makes it home to my sister's. I hope he tried it on first. It never did fit me in the shoulders."
 
 The carbon was in the satchel on my hip, folded small in the pocket inside the notebook's back cover, slipped in by the consulate, or by his sister. A gray wool overcoat, it said, with whatever was in its pockets, sent home to the next of kin. In his room he had said he knew what was in the notebook. That, he had no notion of. I laid my fingers on the satchel's flap and did not undo the buckle. Beside me Fenn stayed at his mark, quite comfortable.
 

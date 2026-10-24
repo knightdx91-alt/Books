@@ -3776,3 +3776,62 @@ Open contradictions: 33 → 37.
   - Every single-quoted fragment on the added lines was checked by script against the repaired page. The only misses are plan, outline, foundation or report quotes, older YAML phrases on lines that gained a field, and post-disruptor wording that sits labelled as CUT.
   - The file holds 384 characters, 125 locations, 187 objects, 24 organizations, 73 plot threads, 130 world rules, 258 timeline_events and 191 contradiction rows.
   - **65 open** (60 before; +5: CH27-1, CH27-2, CH27-3, CH27-4, CH27-7).
+
+## RE-SYNC — Chapter 27 "Cumae", to the FINAL page (2026-10-24)
+
+- **Page:** FINAL page 5633635, md5 `0566b748489b2b0f136ecd2a312ec999` (cycle 4 PASS). Five edit rounds landed after the UPDATE anchored on the repaired page b2f1caa (md5 b7d112dd…):
+  - bb5ab32: the evaluator's cycle-0 set, 104 replacements (F1–F6, C1–C18, P1–P8, E1–E67), plus X1 on Ch.25.
+  - 2333ad5: D1–D7 and G1–G2.
+  - 60db950: S1–S5 and S7–S12.
+  - d158a09: T1–T2.
+  - 5633635: the header finalize.
+- **Renumbering:** 245 → 242 paragraphs. The map was built by script from the git copy of b2f1caa:
+  - old p1–p67 = new p1–p67;
+  - old p68–p69 CUT (F1, the replayed knees exchange);
+  - old p70–p73 = new p68–p71;
+  - old p74 CUT (C7, the fly on the jenny's neck);
+  - old p75–p245 = new p72–p242.
+  - Breaks are now after p33, p110 and p192. Text changed inside 88 paragraphs.
+  - 672 cites moved: explicit `ch-27:pYY` cites, and bare refs on Ch.27 rows. On mixed rows, bare refs moved only inside ch27 fields. History rows were left alone.
+  - Three rows cited a cut paragraph and were rewritten (the CH27-3 line, Mara's Corycian knowledge row, knowledge_index fenn_news_from_home).
+  - CH25-4's three explicit Ch.27 cites were moved by hand.
+- **Quotes:** a script found 83 single-quoted fragments that were on the repaired page and are off the final page. Each was re-quoted to the page or marked CUT. Changed to the page:
+  - **Eros's door:** "Eros's is only cool," / "Eros's is a little one." (p163–p164); "Still cool?" / "It was cool on the last Kalends." (p236–p237); "Just that it's cool." (p239).
+  - **The coat:** "sat at that mouth in it for hours" and "When I did go in" (p189); "you can bet on it" (p191).
+  - **The cave:** the gallery windows are now on the LEFT-hand wall (p127); "short of the room" (p150); "as tall as a doorway" (p135); "a girl holding a jug, a woman with a child" (p148); "so soft a key would scratch it" (p126).
+  - **Fenn's Philadelphia:** "At the automat" and the meringue "piled a mile high"; "Horn and Hardart" is cut, and "the automat" is already that entry's alias (p58). "it booms like the Spectrum when the Flyers score" (p52). "Like the Marlboro man." (p97). "He played third in sixty-four" (p204).
+  - **Fenn's patter and speech:** "Step right up, ladies and gentlemen"; "That's the racket, kid."; "out of Virgil"; "the same cold" (the watch is cut); "He threw his hands out"; "on end"; "on the tuff"; "mornings"; "men built like that"; "whoever drew it".
+  - **Other lines:** "up on top like a shaving brush" (the Jupiter callback is cut); "He shall ride." ("sir" stays at p19 and p24); "away up the Misenum road"; "since the corner"; "inside the rim of the hoof"; "everything I had carried into the Corycian"; "a night of it unanswered"; "There had been another one."; the keeper's sea-gaze and "with great bitterness" are cut; "Bone."; "from ahead and behind".
+  - **Valens:** "Don't tell Valens about the slide." replaces "your mister".
+- **Ch.25:** still 221 paragraphs (md5 `d2ceac85…`), so nothing renumbered.
+  - p126 (l.258) is re-quoted in locations.nuceria-gate-tomb: "Cool under my hand with the sun on it, and not a breath out of it." The old "Warm in the sun, like everything else on that road." is marked CUT.
+  - p154 (l.314), "Cool paint, noon or midnight, and nothing.", was already quoted correctly.
+  - Two revalidation rows were added, for chapter 27 and chapter 25 (both RESOLVED).
+- **Facts updated:**
+  - august-fenn.physical.age resolved_from_conflict: 67 at Ch.25 and 68 at Ch.27, born August 1934, 33 at the crossing. The old value is kept under `previous`.
+  - The coat timeline event is now 22 July 1968, "for hours".
+  - fenns-cold-reports now reads "still cool". The slug is kept.
+  - The dormant-temperature world rule now records agreement with Ch.19 and Ch.25.
+  - Fenn's Philadelphia trait and fact rows now name the automat, the Spectrum and the Flyers.
+  - The sibyls-cave rows are corrected (left-hand wall, doorway-tall window, figures).
+- **Flags:**
+  - **RESOLVED:**
+    - CH27-1: Eros's door is cool on every page (Ch.19, Ch.25 p126 and p154, Ch.27 p163, p236 and p237).
+    - CH27-2: hours, not a week, which fits Ch.25's "first thing". The which-mouth point moves to CH27-7.
+    - CH27-3: the exchange is cut.
+    - CH27-4: foundation §3 now says 33 at the crossing and "aged 33", which agrees with the page.
+    - CH2-3: the page agrees with the patched foundation §3 Surface (cigarettes in the coat pocket; the notebook home among his effects via the consulate).
+  - **Rechecked, still open:**
+    - CH27-7 (info): "cave mouth", "rolls", and the unprinted thirty-five years.
+    - CH25-4 (info): Ch.27 p33 is now "the same afternoon he first heard my voice", which agrees with Ch.25. The plan's "within a minute" and the rain still stand.
+  - **NEW, open:**
+    - CH27-9 (info): outline Ch.2 beat 7 (outline.md:166) and foundation §3 Wound (foundation.md:117) still say the notebook came home in the coat. Also, the only consulate carbon on any page lists only the overcoat.
+    - CH27-10 (low, knowledge_gap): Fenn says "Valens" at p72 and p226, and no page shows him told the name. p72 was already on the repaired page and was missed by the UPDATE; p226 is new (S-fix). Added as august-fenn.knowledge_gap and a knowledge_index.valens_name row. The knowledge_absent_ch27 entry is rewritten, not deleted.
+  - **CRITICAL:** none.
+- **Open count:** 65 → **62** (5 closed, 2 opened).
+- **Not touched:** chapter-27.md, chapter-25.md, character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - All 710 ch-27 cites fall in p1..p242.
+  - 193 contradiction rows, 62 UNRESOLVED.
+  - Every remaining off-page Ch.27 quote is labelled CUT, or is a plan or Ch.26 quote.
