@@ -218,3 +218,48 @@ suggested_patches:
 - Ch.30 walk-on block: move "telling the snakes about her roof" to CUT if WARN-06 is applied. Writer's note "*Eros: the same.*" → the new wording.
 - Add to the CUT log of the At-risk after Ch.30 block: "the look he gave a ford once the mules were over it"; "and hung, turning, where the light-well sent its slant down"; "and started before we were in earshot"; "His lips moved on it once, without sound."; "with no memory of crossing the room"; "and the rag let most of it through"; "I bore down with palm and fingers together".
 - Candidate CLOSED row for `tools/closed_ledger.tsv`: the "the look [he/she] (gave|kept for) a/an …" frame (3 uses: Ch.16, Ch.25, Ch.30 as found).
+
+---
+
+## Repair log
+
+**Date:** 2026-10-24. **Editor:** continuity repair, in place on `manuscript/chapters/chapter-30.md`. **Pre-repair backup:** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/chapter-30-pre-continuity.md` (session scratch).
+**Untouched:** the first line; "Whether he slept I had no way to tell." / "I did not wake him."; the tomb core (hot palm, shadow over the paint, the faint coolness, the aftershock, "No colder."); "He put no question to me."; "Valens in the road I left out."; the notebook entry's substance (only the Eros line's wording changed, per WARN-03).
+Every new string was grepped against Ch.1–29, the bible (CUT/SPENT/CLOSED) and `closed_ledger.tsv`: 0 hits for all of them.
+
+| Finding | Fix applied |
+|---|---|
+| CRIT-001 ford-look frame | Appositive cut: "In the arch he turned for one look back at the tombs. He entered the passage ahead of me." |
+| CRIT-002 hanging/turning dust over the dough | "All along it a thin white dust sifted out. It settled on the hearthstone. It settled on the board, and on the dough." The light-well leaves the chapter. |
+| CRIT-003 Grata race frame | "She saw us coming." The race-frame count is now 1 (the rag, l.162), at the cap. |
+| WARN-01 back-room floor | "the trodden floor" → "the floor"; "sitting on the earth by" → "sitting by". The room is now neutral and agrees with Ch.26's boards. |
+| WARN-02 "written none of it down" | → "and never set one down here." This limits the claim to the notebook, so Fenn's Ch.27 request for letters stands. The audit's "none of them had gone in here" failed voice-wear strict ("none of them had" self-repeat), so it was replaced. |
+| WARN-03 "the same" refrain | l.100 now ends "…the door was a door on a tomb, faintly cool."; the entry reads "*Eros: no change.*" The l.92 coolness line still meets the outline. |
+| WARN-04 pressing beats / full hand | "I bore down with palm and fingers together, and waited…" → "Now, if ever, the door would answer the ground." That leaves two pressing beats and no full-hand gesture, and avoids a second "waited for" in the shard (l.90 has one). |
+| WARN-05 Valens's moving lips | Sentence cut. |
+| WARN-06 non-listener cap | "and was telling the snakes about her roof" cut. Valens's "told the crack" is the one left. |
+| WARN-07 voice-through-barrier | "and the rag let most of it through" cut. |
+| WARN-08 X-first-then-Y | "Then the water jar…" → "The water jar…"; "First he tried…" → "He tried…"; l.146 → "With the mules seen to, Valens set his shoulder to our wall beside the crack and leaned his weight on it." (The audit's "After the mules, Valens" tripped the 5c echo "the mules valens" from Ch.15. "Once/When the mules were…" were rejected for a nearby "Once" opener and a Ch.27 hit.) The protected l.90 is now the one use. |
+| WARN-09 Grata knowing the cooper queue | "And the plasterer's promised to the cooper." cut. |
+| WARN-10 "the question" | → "I had an answer ready for the women there, a poor one, about what a Greek owed her dead out of season." "my dead and" was dropped so "them" could not be read as the women. |
+| WARN-11 carter's family | → "a family out on the tomb road, afraid of their roofs, had felt cold…" The audit's "sitting out the night" was avoided because it doubles "night" in one sentence and sits near the Ch.28 CUT string "sitting out there yet". |
+| WARN-12 browned ink | ", the ink gone brown on the oldest" cut. |
+| WARN-13 body-acts-without-me | → "I had her up in my arms." |
+| WARN-14 wall side | "on the wall side" cut. |
+| WARN-15 violets each Kalends | "violets" → "flowers" twice in the Kalends sentence pair. The February goat's violets stay. |
+| WARN-16 laugh triad | "Lucius laughed because his father had" → "Lucius copied him". |
+| I-02 two solemnity postures | "hands clasped behind him" cut. "at a solemn crawl" stays. |
+| I-10 landlady in third person | → "and it's my purse for it, same as always". |
+| I-12 ceiling | ", from our ceiling" cut. |
+| I-15 post-positive ", hard" ×2 | l.146 → "leaned his weight on it" (folded into WARN-08). |
+| Other INFO | No change (rulings stand). I-03's dateline already reads "February, AD 77" on the page. I-06's optional sharpening was not applied, because the line is true as it stands. I-25 and the YAML patches belong to the entity tracker and outline. |
+
+**After the repair:**
+- **Words:** shape 2,401 / style 2,408 / show-tell 2,429 (was 2,512 / 2,520 / 2,540).
+- **Dialogue:** 11% shape / 10.5% show-tell (band 5–15).
+- **Structure:** 6 breaks. Median sentence 11. Semicolons 7.
+- **Shape:** opens I-punch, closes punch.
+- **Gates:** `bash tools/check_chapter.sh 30` reports ALL MECHANICAL GATES CLEAN (5c echoes 0, 5d closed ledger clean, voice-wear strict clean, tic gate clean). `python3 ../../tools/shape_check.py .` reports SHAPE CLEAN.
+- **l.6 header:** updated.
+
+**Bible sync (for the evaluator; the bible was not edited):** add the CUT strings listed in "Bible sync notes" above, plus "and written none of it down", "a family eating late", "the ink gone brown on the oldest", "the same as on the day I found it", "and started before we were in earshot", "And the plasterer's promised to the cooper.", "telling the snakes about her roof", "from our ceiling", "hands clasped behind him", "the landlady's purse". The writer's note "*Eros: the same.*" becomes "*Eros: no change.*"

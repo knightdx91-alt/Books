@@ -13619,7 +13619,7 @@ timeline:
   - { chapter: 27, time: "a spring evening on the Puteoli fish wharf ('as a spring evening ran out') → the night at the carters' inn → dawn in the inn yard → the hot ground in the morning → the meal at Avernus → the ridge and Cumae in the afternoon → 'the evening light' at the cave mouth → the walk back under a low sun → the last rise above Puteoli at sunset, the lamps lit", season: "spring", year: "AD 76", note: "two days, told in order. Fenn's 'After the Ides … and not a day before' (p57) puts the day before the Ides of an unnamed spring month; the month of the Cumae door's death ('Is it that month again?', p117; 'Spring,' p232); after a Kalends (p237). Thirty-five years since landing is NOT printed (derived; C13); Aelia's age is not printed (about 3-4 months, derived). The morning shadows fall behind them as they go inland (p41; CH27-8 RESOLVED by the repair)", source: "ch-27:p1; ch-27:p25; ch-27:p34; ch-27:p57; ch-27:p85; ch-27:p127; ch-27:p219; ch-27:p223; ch-27:p242", plan_was: "one day's walk; Fenn: thirty-five years since landing; Aelia a few months old (outline:ch-27)" }
   - { chapter: 28, time: "the bout at noon (S1, S5) framing nine days of backfill in order: the return from the Puteoli loads at evening ('Nine days before') → that night → 'First' next morning the notice at the baths and Prima at the vats → the lanista (day not stated) → 'Nicanor brought Felix home at dusk' → 'For the rest of the week' → 'On the fifth morning' (Prima at the fountain) → 'On the last night' → 'In the morning' the games: the parade, the hunt and two pairs, the bout ('into the noon'), the tunnel", season: "spring (derived: after Ch.27's spring walk before the Ides; Albucius's bear 'off its food since the Ides', p63)", year: "AD 76", note: "dateline 'Pompeii · AD 76'. Felix left 'the very next day after you' (the departure for Puteoli is not shown); on the return the notice had been up 'since yesterday' and the games were 'nine days from now' (p19). The month is not named. Felix 'eighteen' (p65)", source: "ch-28:p2; ch-28:p18; ch-28:p19; ch-28:p39; ch-28:p63; ch-28:p79; ch-28:p116; ch-28:p119; ch-28:p127; ch-28:p146; ch-28:p148", plan_was: "a bout + the week before; season blank; AD 76; Felix 18 (outline:ch-28)" }
   - { chapter: 29, time: "three festival days in order: the opening morning at daybreak (the caps; Cerdo asked for 'The night after tomorrow'; caps on every head 'Before midday') → 'Next morning' (the forum figures; the dicers; Valens in a cap; Mara to Valens 'The Chaldean comes tomorrow'; 'our supper tomorrow' CUT) → 'that evening while the lamps were being lit' (Felix home on leave; the Venus throw; the laws) → the feast day: 'at breakfast' (Fenn off the fish-sauce cart, 'a day behind Felix') → 'that afternoon' the walk to the crossing → 'By the ninth hour' the stage → 'lamp-lighting' (Cerdo; the table) → 'the hour of the second firing' (Cerdo called back) → late, the cups on the step", season: "winter (December; 'my hands up my sleeves for the cold'; the stage 'the one warm place in the town')", year: "AD 76", note: "dateline 'Pompeii · December, AD 76' (CONFIRMS outline:ch-29). The feast is on the third festival day by two statements (p7; p61), and Fenn's 'tomorrow' (p44) falls on it (p69); derived about 19 December if the festival opened on the 17th (no date printed). 'our fifth in that street' (p2) AGREES with the spring AD 72 arrival. Felix's leave is 'ten' days (p49). Fenn is to leave 'Tomorrow' (p287); Valens hauls to Puteoli 'In the spring' (p218). Ages not printed (Lucius about 2 years 4-6 months, Aelia about 11-12 months, derived). Before the festival: 'since the rains' (p82); the baker's cold 'since the olive harvest' (p9)", source: "ch-29:p2; ch-29:p3; ch-29:p7; ch-29:p13; ch-29:p15; ch-29:p26; ch-29:p44; ch-29:p48; ch-29:p61; ch-29:p69; ch-29:p81; ch-29:p90; ch-29:p136; ch-29:p268; ch-29:p290", plan_was: "Saturnalia; December; AD 76 (outline:ch-29)" }
-  - { chapter: 30, time: "one morning", season: "winter into spring", year: "AD 77", note: "before the March elections", source: "outline:ch-30" }
+  - { chapter: 30, time: "one day in order: the shake while kneading at mid-morning (the notebook's 'Mid-morning') → the run to the Nuceria Gate → at the door, the small aftershock ('the tail of the first') → back under the gate → 'at midday' the dusty cakes → 'Later that day' the shake's trade → 'by lamplighting' the plank full → 'That night' the back-page entry", season: "winter (February; Valens out 'without his cloak'; the violets on a tomb step)", year: "AD 77", note: "dateline 'Pompeii · February, AD 77' (outline: 'Pompeii · AD 77'; AGREES with 'winter into spring' and 'before the March elections'). About two months after Ch.29 (December AD 76). 'the big shake fifteen years back' (p22) = AD 62 (February, per Fenn; timeline_events). The last notebook entry before this one was 'from the vintage' (autumn AD 76, p81). 'Nearly five years of Kalends' (p80) AGREES with the spring AD 72 arrival. No ages printed (Lucius about 2 years 6-8 months, Aelia about 13-15 months, derived)", source: "ch-30:p1; ch-30:p22; ch-30:p31; ch-30:p35; ch-30:p43; ch-30:p48; ch-30:p54; ch-30:p67; ch-30:p76; ch-30:p78; ch-30:p79; ch-30:p80; ch-30:p81; ch-30:p82", plan_was: "one morning; winter into spring; AD 77; before the March elections (outline:ch-30)" }
   - { chapter: 31, time: "one night", season: "March", year: "AD 77", note: "", source: "outline:ch-31" }
   - { chapter: 32, time: "the third night of the fever, to dawn", season: "summer", year: "AD 77", note: "TURNING POINT ~77%; Lucius three", source: "outline:ch-32" }
   - { chapter: 33, time: "", season: "autumn", year: "AD 77", note: "", source: "outline:ch-33" }
@@ -13913,6 +13913,13 @@ timeline_events:
   - { date: "December AD 76, the opening morning of the Saturnalia", event: "Cerdo brings the bread in a felt cap, his master in its twin; Mara asks Cerdo to the table for 'The night after tomorrow' and the baker agrees on terms; caps on every head by midday", source: "ch-29:p3; ch-29:p7; ch-29:p10; ch-29:p13" }
   - { date: "December AD 76, the second festival day", event: "the clay mule and the peg doll bought in the forum; the dicers at the fountain; Felix home at lamp-lighting on ten days' leave; the Venus throw; Felix king of the street", source: "ch-29:p26; ch-29:p28; ch-29:p33; ch-29:p48; ch-29:p59" }
   - { date: "December AD 76, the third festival day (derived about 19 December)", event: "Fenn arrives from Puteoli on the fish-sauce cart; the farce of the baker at the crossing at the ninth hour, Valens weeps and Lucius feeds him bread; the table with Cerdo at its head; baseball with olive pits; Mara sings; the jug; Cerdo called back at the second firing", source: "ch-29:p69; ch-29:p90; ch-29:p120; ch-29:p122; ch-29:p136; ch-29:p161; ch-29:p241; ch-29:p256; ch-29:p268" }
+  - { date: "AD 62 (February; 'fifteen years back' from February AD 77)", event: "after 'the big shake' a plasterer mends the wall between the cobbler's back room and Grata's room, 'and mended it well'; the patch goes under limewash", source: "ch-30:p22" }
+  - { date: "'the year of the shake before' (AD 62 by reading; the old men's quarrel)", event: "'It was the year my mule died,' / 'You were riding that mule to Nola all the spring after,'", source: "ch-30:p28; ch-30:p29; ch-30:p30" }
+  - { date: "autumn AD 76 (the vintage)", event: "Mara's last tremor note before February AD 77 ('The last before it was from the vintage.')", source: "ch-30:p81" }
+  - { date: "February AD 77, mid-morning", event: "a shake: the floor heaves twice, the mules kick, a tile falls; the hearth wall splits down the AD 62 mend from the beam to just short of the fire, through to Grata's room; dust on the dough", source: "ch-30:p1; ch-30:p3; ch-30:p4; ch-30:p22; ch-30:p82" }
+  - { date: "February AD 77, late morning (derived: after a mile's run)", event: "at Eros's door the small aftershock, 'the tail of the first'; the door unchanged, 'No colder.'; Valens in the road reads the name; it splits the cookshop man's wine jar ('The small shake did that.')", source: "ch-30:p43; ch-30:p45; ch-30:p51; ch-30:p77" }
+  - { date: "February AD 77, midday to lamplighting", event: "the dusty cakes eaten; the crack plugged from both sides (Grata's rag, Valens's straw); the shake's mending trade (the dyer's wife's lamp, the girl's bowl, the cookshop jar)", source: "ch-30:p67; ch-30:p73; ch-30:p76; ch-30:p78" }
+  - { date: "February AD 77, that night", event: "Mara's back-page entry: '*Mid-morning. Hearth wall split down the old repair.*' / '*Eros: the same.*'; Valens left out", source: "ch-30:p79; ch-30:p82; ch-30:p84; ch-30:p85" }
 
 ages_at_eruption:
   - { character: "mara-reyes", age: 42, note: "body-age", source: "foundation:§10" }
@@ -14209,7 +14216,8 @@ objects:
       - { date: "June 1968", gist: "'Up again. Nothing.'; boots going at the toes; 'Tired today.'", source: "ch-02:p48; ch-02:p49" }
       - { date: "undated", gist: "a week-old Herald Tribune from a passenger off the Athens bus, bridge column too", source: "ch-02:p54" }
       - { date: "July 21 [1968]", gist: "cold at the slot for a whole cigarette; going in tomorrow with the good flashlight and kite string; the boy's mother washed his shirts; back before Labor Day; Margaret can stop saying Mexico; the Inquirer", source: "ch-02:p69" }
-    last_mentioned_manuscript: "ch-27:p192"
+    last_mentioned_manuscript: "ch-30:p86"
+    location_ch30: { value: "at home in the satchel, which hangs 'on its nail' (new); under the bundle of Fenn's letters (AGREES with ch-26:p12); taken out by lamplight at night beside the bed and put back", source: "ch-30:p79; ch-30:p80; ch-30:p86" }
     physical_ch25: { value: "'The black oilcloth had gone dull and blunt at the corners. The elastic was long gone; I had thrown the dead pieces of it away in Delphi. On the cover it read A. J. FENN.' (agrees with ch-01:p99's two dry pieces of elastic)", source: "ch-25:p183; ch-01:p99" }
     location_ch25: { value: "in Mara's satchel at her hip, 'holding everything else that had crossed with me through the cave' (maras-satchel; RE-SYNC 2026-10-23: 'else' added, evaluator F11; CH25-7 RESOLVED); back in it at chapter end", source: "ch-25:p183; ch-25:p197" }
     location_ch26: { value: "in the satchel, with Fenn's letters lying on top of it in order of arrival (p12) and the knucklebone and the tape beneath it, 'in the bottom of my bags' (p20); 'Her name was in the front of the notebook, beneath the letters in the satchel, in his own capitals, written the winter before he went.' Not opened (p36)", source: "ch-26:p12; ch-26:p20; ch-26:p36" }
@@ -14226,7 +14234,7 @@ objects:
       - { chapter: 3, detail: "in her jacket with the walker's map (out of the duffel, where it was packed on top in Ch.2); its edge laid along the map's lines 'the first evening' in Delphi; carried through the crack (the re-reading of Fenn's directions in the cave is cut in the author fixes)", source: "ch-03:p7" }
       - { chapter: 20, detail: "WRITTEN: dug 'from beneath my spare tunic in the bag' one night of the vintage, AD 72; on 'the first of his blank leaves at the back' she writes 'the date and small shake, lamps, nobody woke'", source: "ch-20:p131", plan_was: "first tremor-note entry in the blank back pages (outline:ch-20)" }
       - { chapter: 25, detail: "ON THE PAGE: carried in her satchel; 'In the back of your notebook.'; taken out, 'A. J. FENN' on the cover; he 'did not reach for it'; told of the dealer and the Chestnut Hill estate sale; offered ('It's yours,' … 'Take it.'); refused: 'Keep it. I know what's in it.' … 'Kid, I wrote it.' … 'Back in your bag with it. Write your shakes in it. The back pages could use the work.'; returned to the satchel", source: "ch-25:p180; ch-25:p183; ch-25:p184; ch-25:p186; ch-25:p193; ch-25:p194; ch-25:p196; ch-25:p197" }
-      - { chapter: 30, detail: "another tremor entry", source: "outline:ch-30" }
+      - { chapter: 30, detail: "WRITTEN: that night, 'I lifted the satchel off its nail' … 'drew the notebook from under Fenn's letters'; the back leaves 'had been blank when the notebook crossed with me' (AGREES with ch-02:p65), now 'entry after entry, each dated and short, the ink gone brown on the oldest'; the new entry written with a reed ('I wet the reed', the first writing implement on any page); 'slid it in again below the bundle'", source: "ch-30:p79; ch-30:p80; ch-30:p81; ch-30:p86", plan_was: "another tremor entry (outline:ch-30)" }
       - { chapter: 35, detail: "Fenn asks for it, reads his own 1968 front pages, says 'Margaret'; gives it back", source: "outline:ch-35" }
       - { chapter: 36, detail: "her tremor notes matched against his tables; she copies his key figures into it beside hers", source: "outline:ch-36" }
       - { chapter: 38, detail: "packed in the bag", source: "outline:ch-38" }
@@ -14292,12 +14300,13 @@ objects:
     beats:
       - { chapter: 20, detail: "WRITTEN: first entry, the vintage of AD 72: 'the bed walked on its legs and the lamp hook rattled on the wall, and next door Grata's cups chimed together on their shelf'; 'the date and small shake, lamps, nobody woke'; no reckoning; then 'put the light out'", source: "ch-20:p131", plan_was: "first entry after a small night shake; no reckoning (outline:ch-20)" }
       - { chapter: 25, detail: "told to Fenn: 'I've been writing them down,' … 'The shakes. Since seventy-two. Every one I've felt in Pompeii, which night, what it shook.' … 'In the back of your notebook.'; Fenn: 'Write your shakes in it. The back pages could use the work.' He does not read them (CH25-5)", source: "ch-25:p178; ch-25:p180; ch-25:p196" }
-      - { chapter: 30, detail: "the tremor added that night", source: "outline:ch-30" }
+      - { chapter: 30, detail: "WRITTEN: the day written under the vintage entry, then '*Mid-morning. Hearth wall split down the old repair.*' ('That was the shake.') and, shorter, '*Eros: the same.*': Eros's name in the back pages for the first time ('Eros's name was in none of them. Nearly five years of Kalends I had walked to his door, and written none of it down.'); 'Valens in the road I left out.'. No count, no reckoning; the language is not said (the notes are English, ch-26:p16)", source: "ch-30:p80; ch-30:p81; ch-30:p82; ch-30:p83; ch-30:p84; ch-30:p85", plan_was: "the tremor added that night (outline:ch-30)" }
       - { chapter: 36, detail: "seven years of notes beside Fenn's tables; the figures agree", source: "outline:ch-36" }
     paid: 36
     note: "plant moved to Ch.20 (audit WARN-012); their independence from his tables is why the agreement ends the refusal"
     last_mentioned: "outline:ch-43"
-    last_mentioned_manuscript: "ch-26:p16"
+    last_mentioned_manuscript: "ch-30:p84"
+    entries_on_page: [{ entry: "the date and small shake, lamps, nobody woke", when: "the vintage, AD 72 (the first)", source: "ch-20:p131" }, { entry: "(not quoted) 'from the vintage'", when: "autumn AD 76 (the last before Ch.30)", source: "ch-30:p81" }, { entry: "*Mid-morning. Hearth wall split down the old repair.*", when: "February AD 77", source: "ch-30:p82" }, { entry: "*Eros: the same.*", when: "February AD 77 (the first door entry)", source: "ch-30:p84" }]
     ch26_note: { value: "Mara's narration: 'the tremor notes in the back of the notebook, which were dates and a few words apiece', the only English she had written at any length since Philadelphia (so they are in English)", source: "ch-26:p16" }
     resolution: { chapter: 36, description: "match Fenn's tables; go through the door in the notebook (Ch.43)", planned: true }
 
@@ -15496,9 +15505,10 @@ objects:
     planted: 13
     paid: 42
     ch13_planted: { value: "the god's 'at the door painted on a dead man's house' (said once, p141); Kallia: 'Somebody was paid to paint that door.' (p145); Mara: 'Tombs with their doors painted on.' … 'I might walk ten years with it and find a plaster door every other mile.' (p166; p170); Theano: 'a painted tomb' among the priests' additions (p229)", source: "ch-13:p141; ch-13:p145; ch-13:p166; ch-13:p170; ch-13:p229" }
-    last_mentioned_manuscript: "ch-27:p237"
+    last_mentioned_manuscript: "ch-30:p51"
     ch19_page: { value: "FOUND (the plan's secondary payoff of the-where): the tomb of Aulus Numisius Eros outside the Nuceria Gate; a two-leaved door painted as wood, three panels a leaf, grain, nail heads, rings with wrong-way shadows; known 'from twenty paces off'; the painted leaf cool, the white beside it warm, under the afternoon sun; 'it stayed a picture of a door'. The home door's location (locations.nuceria-gate-tomb; knowledge_index.door_location). Told to nobody", source: "ch-19:p165; ch-19:p166; ch-19:p168; ch-19:p169; ch-19:p170; ch-19:p178" }
     ch27_mention: { value: "named, not seen: Mara to Fenn, set against the live Cumae door, 'Eros's is only cool,' / Fenn: 'Eros's is a little one.'; on the road back, 'You walk out there? To Eros's?' / 'Every Kalends.' / 'Still cool?' / 'It was cool on the last Kalends.' (RE-SYNC 2026-10-24: the 'cold' and 'Like Eros's' lines CUT; CH27-1 RESOLVED, agrees with Ch.19's 'faintly cool')", source: "ch-27:p163; ch-27:p164; ch-27:p234; ch-27:p237" }
+    ch30_page: { value: "the second hand at it on the page: 'Eros's door had had the sun on it since morning.'; palm 'near the foot of the left leaf'; 'The paint was warm' until she shades it, then the old faint coolness, 'A little less warm than sunlit paint ought to be'; forehead to the leaf ('The paint smelled of dust and lime'); through the aftershock 'No breath moved out of it'; 'No colder.'; seen by Valens with her hand on it, who reads the name over it. CH30-1, CH30-2", source: "ch-30:p37; ch-30:p38; ch-30:p39; ch-30:p40; ch-30:p42; ch-30:p44; ch-30:p45; ch-30:p49; ch-30:p51" }
     last_mentioned: "outline:ch-43"
     resolution: { chapter: 42, description: "opens for Mara alone; closes Ch.43", planned: true }
 
@@ -16335,6 +16345,7 @@ objects:
       - { chapter: 25, detail: "promised; the address written on his wall in charcoal under 'Grata'; 'I'll send you my tables'; the boy's stars 'with my letter'", source: "ch-25:p200; ch-25:p201; ch-25:p202; ch-25:p204; ch-25:p213" }
       - { chapter: 26, detail: "WRITTEN: the correspondence by carter ('A carter who hauled jars of fish sauce down from Puteoli' … 'Every letter since had come by him.'); kept 'in the satchel now, in the order they had come, lying on top of the notebook'; read aloud to Aelia in English (see letters below)", source: "ch-26:p12; ch-26:p6", plan_was: "the correspondence begins (English, by carter's post) (outline:ch-26)" }
       - { chapter: 27, detail: "WRITTEN (reported only): Fenn answers Mara's note of the trip with 'one line' to meet at the fish wharf (L7). The invitation to Cumae is made in person, in fresh words (CH26-6 forward constraint holds)", source: "ch-27:p4; ch-27:p8" }
+      - { chapter: 30, detail: "in the satchel as 'the bundle' over the notebook ('drew the notebook from under Fenn's letters'; 'slid it in again below the bundle'); no new letter on the page", source: "ch-30:p80; ch-30:p86" }
     carriage: { value: "folded small, tied round with a thread, Mara's name and Grata's on the outside in Greek, 'so that anybody at the gate could tell him whose door it belonged at'; by the fish-sauce carter (characters.letter-carter), who takes his wine at Grata's; Mara's replies go back through Grata to the same man", source: "ch-26:p12; ch-26:p63" }
     letters:
       - { id: L1, order: 1, arrived: "spring AD 75, 'within a month of our getting back from Puteoli'", read_on_page: "Aelia's fourth week, walked, 'from the beginning'", sheet: "not described", contents: "'Mrs. Big Fellow or what'; 'going care of Grata'; Lucius's stars enclosed, 'a long life and so forth. Don't let your landlady pay me.'; talked American all night (the automat, the El on Market Street, the homeroom girl who smelled of oranges); the tunny-salter's broom handle; 'First time in thirty-odd years'; 'The tables are coming soon as there's a clean copy'", signed: "A. F.", source: "ch-26:p12; ch-26:p13; ch-26:p14" }
@@ -16405,7 +16416,8 @@ objects:
       - { chapter: 25, detail: "her hand goes to its flap at the sight of Fenn's packed bag; the notebook comes out of it and goes back", source: "ch-25:p112; ch-25:p183; ch-25:p197" }
       - { chapter: 26, detail: "holds Fenn's letters 'in the order they had come, lying on top of the notebook' (p12); open on the blanket for the walking night (p13); 'I left the satchel as it was.' (p36)", source: "ch-26:p12; ch-26:p13; ch-26:p36" }
       - { chapter: 27, detail: "packed 'with everything I had carried into the Corycian, as I always did when I was a day from Pompeii', tipped out on the blanket and packed again at the carters' inn (Valens: 'If he made anything of the satchel he kept quiet about it'); the Pentax out of it at Avernus; on her hip in the gallery 'with nowhere to set it down'; the notebook and the carbon in it ('I laid my fingers on the satchel's flap and did not undo the buckle.'); the bone out of it for Lucius. The satchel-versus-bag question is not touched", source: "ch-27:p25; ch-27:p32; ch-27:p85; ch-27:p132; ch-27:p192; ch-27:p193" }
-    last_mentioned: "ch-27:p193"
+      - { chapter: 30, detail: "at home it hangs 'on its nail'; Fenn's letters in a bundle over the notebook; the notebook out and back by lamplight. The satchel-versus-bag question is not touched", source: "ch-30:p79; ch-30:p80; ch-30:p86" }
+    last_mentioned: "ch-30:p86"
     resolution: null
 
   cumae-jenny:
@@ -16634,6 +16646,85 @@ objects:
     last_mentioned: "ch-29:p290"
     resolution: null
 
+  hearth-wall-crack:
+    introduced: "ch-30:p4"
+    description: "the crack the February AD 77 shake opens in the wall over the family's hearth, the party wall with Grata's room: 'A line opened in the plaster under the beam. It ran downward in jerks and quit short of the fire.'; it follows an AD 62 mend ('the crack had found his repair under the limewash and run the length of it, beam to hearth, the way a zipper parts. The edges of his patch showed now on both sides of it, a shade grayer than the wall round them.'); 'It goes clean through'; widest 'High against the beam', where a stripe of Grata's room shows"
+    source: "ch-30:p4; ch-30:p13; ch-30:p19; ch-30:p22"
+    beats: [{ chapter: 30, detail: "dust off it on the hearthstone, the board and the dough; Grata's eye in it; Valens's finger in it chin-high; Lucius inspects it 'hands clasped behind him'; plugged from both sides, Grata's rag at the top, Valens's straw at the foot 'against the draught'; Valens leans on the wall beside it: 'It'll hold,'; the plasterer is 'promised to the cooper' ('Tomorrow, if the lime comes.'); in the notebook: 'Hearth wall split down the old repair.'; at night no light in it", source: "ch-30:p4; ch-30:p13; ch-30:p16; ch-30:p60; ch-30:p64; ch-30:p65; ch-30:p66; ch-30:p71; ch-30:p73; ch-30:p82; ch-30:p86" }]
+    status: "chekhov_open"
+    note: "the outline's 'cracks the kitchen wall' (outline:ch-30 premise); no later beat is planned for it. Whether the plasterer comes is not shown"
+    last_mentioned: "ch-30:p86"
+    resolution: null
+
+  dust-hearth-cakes:
+    introduced: "ch-30:p4"
+    description: "the morning's dough, skinned with plaster dust from the crack ('It settled on the board, and on the dough.'; 'A fine skin of the dust had settled over the dough.'), shaped 'into flat cakes, dust and all' and baked 'under the clay bell in the hot ash'; eaten at midday 'with oil and the hard end of a cheese'; 'The bread crunched. Everybody ate theirs anyway, me as well, it was bread.' (the outline's emotional anchor, plaster dust on the bread)"
+    source: "ch-30:p4; ch-30:p23; ch-30:p67; ch-30:p68; ch-30:p69; ch-30:p71"
+    status: "background"
+    last_mentioned: "ch-30:p71"
+    resolution: { chapter: 30, paragraph: 68, description: "eaten; Lucius spits his bite to hunt the crunch and finishes it; Aelia 'wore most' of hers" }
+
+  valens-headstall:
+    introduced: "ch-30:p8"
+    description: "the headstall Valens is mending out front when the shake comes; 'dangling from his fist' as he comes in; dropped 'beside my board'; at the tomb 'His hands hung empty at his sides; the headstall lay by my board at home.'"
+    source: "ch-30:p8; ch-30:p16; ch-30:p51"
+    holder: "valens"
+    status: "background"
+    last_mentioned: "ch-30:p51"
+    resolution: null
+
+  maras-sandal-strap:
+    introduced: "ch-30:p32"
+    description: "Mara's sandal strap, loosed at the crossing on the run ('from there on it slapped my ankle at each stride'); on the way back 'Valens matched his pace to my loose sandal. I stopped at last and tied it, badly, and let it be.'"
+    source: "ch-30:p32; ch-30:p56"
+    status: "background"
+    last_mentioned: "ch-30:p56"
+    resolution: null
+
+  kalends-violets:
+    introduced: "ch-30:p33"
+    description: "Mara's cover for the Kalends walks: 'Each Kalends I passed under that arch at a walk, with a few violets in a cloth: a woman going out to her dead. A woman with violets got no second look on that road.'; not carried on the run; on the road a goat eats 'the violets off a tomb step'"
+    source: "ch-30:p33; ch-30:p35"
+    status: "background"
+    note: "plot_threads.kalends-walks; agrees with ch-19:p180 ('Out bare and back bare,' … 'They'll think you've no dead at all.'), which the violets answer"
+    last_mentioned: "ch-30:p35"
+    resolution: null
+
+  lucius-plaster-flake:
+    introduced: "ch-30:p79"
+    description: "'Lucius had taken a flake of the fallen plaster to his pallet, and his hand was shut on it yet, the thumb laid over it.'"
+    source: "ch-30:p79"
+    holder: "lucius"
+    status: "background"
+    last_mentioned: "ch-30:p79"
+    resolution: null
+
+  cookshop-wine-jar:
+    introduced: "ch-30:p76"
+    description: "the cookshop man's wine jar, 'split from lip to shoulder' by the small aftershock ('The small shake did that.'); 'Its split ran clean, and two lead clamps would hold it.'"
+    source: "ch-30:p76; ch-30:p77; ch-30:p78"
+    holder: "cookshop-man-ad77 (on Mara's plank)"
+    status: "chekhov_open"
+    note: "promised 'for market day'; kept for last at lamplighting with the glue pot ('its smell of pine and hoof') warming on the coals; the mending is not shown done"
+    last_mentioned: "ch-30:p78"
+    resolution: null
+
+  dyers-wife-lamp:
+    introduced: "ch-30:p76"
+    description: "a lamp 'that had jumped off its bracket and lost its spout' in the shake, brought by the dyer's wife"
+    source: "ch-30:p76"
+    status: "background"
+    last_mentioned: "ch-30:p78"
+    resolution: null
+
+  grandmothers-bowl-in-three:
+    introduced: "ch-30:p76"
+    description: "a grandmother's bowl, 'broken in three', carried by a girl of nine or so 'in the lap of her tunic with the corners gathered up in her fists'"
+    source: "ch-30:p76"
+    status: "background"
+    last_mentioned: "ch-30:p78"
+    resolution: null
+
 knowledge_index:
   door_location:
     - { who: "theano", what: "the city: 'Pompeii.'", from_chapter: "pre-13 (unexplained)", method: "discovered (unexplained)", note: "ON THE PAGE, off duty on her doorstep, in answer to 'Which city?'. REPLACES outline:ch-13", source: "ch-13:p244; ch-13:p245" }
@@ -16654,7 +16745,9 @@ knowledge_index:
     - { who: "pomponia-grata", what: "Ch.19: NOT: reads the Nuceria road's red dust on her hem ('You've been out among the dead'), not what she went for", from_chapter: null, method: null, source: "ch-19:p185" }
     - { who: "eel-sellers-family, nuceria-gate-rose-woman", what: "Ch.19: NOT: the family see her hand on the painted door and take it for prayer ('She's praying.'); the rose-seller sees her go out and back without roses", from_chapter: null, method: null, source: "ch-19:p175; ch-19:p180" }
     - { who: "valens", what: "believes a door leads to her time (shown: the flush, p37; asks 'Does he know the door?' and is told 'He knows it.', p144-p145); NOT the tomb, the date or the rules (all in English)", from_chapter: 25, method: "inferred (witnessed the English); told_by:mara-reyes", plan_was: "overheard (outline:ch-25)", revised: "2026-10-23 (Ch.25 page)", source: "ch-25:p37; ch-25:p144; ch-25:p145" }
-    - { who: "valens", what: "the tomb itself", from_chapter: 30, method: "witnessed", note: "follows her after the tremor", revised: "2026-10-18", source: "outline:ch-30" }
+    - { who: "valens", what: "THE TOMB, ON THE PAGE: Aulus Numisius Eros's, outside the Nuceria Gate, the one Mara ran to after the shake, her hand on its painted door; 'He saw where I had run to.'; 'He read the name over it.'; 'He put no question to me.'", from_chapter: 30, method: "witnessed", note: "that it is the door is his by inference (he has known 'for years that there was a door', p50); nothing said by either; not what it felt like. REPLACES the outline row", source: "ch-30:p48; ch-30:p49; ch-30:p50; ch-30:p51; ch-30:p52", plan_was: "the tomb itself; witnessed; follows her after the tremor (outline:ch-30)" }
+    - { who: "mara-reyes", what: "that Valens now knows the place: 'I watched him read it.'; she tells him nothing, has 'no story ready', and leaves him out of the notebook ('Valens in the road I left out.')", from_chapter: 30, method: "witnessed", source: "ch-30:p49; ch-30:p51; ch-30:p85" }
+    - { who: "pomponia-grata, cookshop-man-ad77, fountain-queue-ad77, gate-passage-boy", what: "Ch.30: NOT: they see Mara run (Grata sees Valens go after her) and ask nothing; her answer 'about my dead and what a Greek owed them out of season' is not needed", from_chapter: null, method: null, source: "ch-30:p32; ch-30:p34; ch-30:p62; ch-30:p64" }
     - { who: "valens", what: "the door might not take him or the children", from_chapter: 33, method: "witnessed", note: "Greek conversation with Fenn in front of him", revised: "2026-10-18", source: "outline:ch-33" }
     - { who: "lucius, aelia", what: "the door itself", from_chapter: 41, method: "witnessed", source: "outline:ch-41; outline:ch-42" }
     - { who: "kallia, plautia, grata, felix", what: "NOT told (Felix: knows nothing of the door, Ch.37)", from_chapter: null, method: null, revised: "2026-10-18", source: "outline (absent); outline:ch-37", ch13_note: "Kallia and Felix heard the god's public answer in Kallia's court (Ch.13); neither hears 'Pompeii.'", ch13_source: "ch-13:p141; ch-13:p164" }
@@ -17174,6 +17267,8 @@ knowledge_index:
     - { who: "mara-reyes", what: "the first entry, autumn AD 72", from_chapter: 20, method: "n/a (author)", source: "ch-20:p131" }
     - { who: "valens, felix, pomponia-grata", what: "NOT ('nobody woke')", from_chapter: null, method: null, source: "ch-20:p131" }
     - { who: "august-fenn", what: "that they exist, 'Since seventy-two', in the back of his notebook; NOT what they say (he does not take or open the notebook; Ch.35 he reads only his own front pages)", from_chapter: 25, method: "told_by:mara-reyes", plan_was: "NOT (never) (outline:ch-35); CH25-5", source: "ch-25:p178; ch-25:p180; ch-25:p194; outline:ch-35" }
+    - { who: "mara-reyes", what: "the February AD 77 entry ('Mid-morning. Hearth wall split down the old repair.' / 'Eros: the same.'), with Valens left out", from_chapter: 30, method: "n/a (author)", source: "ch-30:p82; ch-30:p84; ch-30:p85" }
+    - { who: "valens", what: "NOT shown: he lies 'a long ridge of wool on the wall side' while she writes; 'Whether he slept I had no way to tell.'", from_chapter: null, method: null, source: "ch-30:p86" }
   fenn_news_from_home:
     # what August Fenn has been told of the world after 1968 (he asked for none of it in Ch.25 but 'one thing')
     - { who: "august-fenn", what: "1980: the Phillies won the World Series against Kansas City (his 'one thing')", from_chapter: 25, method: "told_by:mara-reyes", source: "ch-25:p59; ch-25:p60; ch-25:p62" }
@@ -17242,6 +17337,7 @@ plot_threads:
     ch19_payoff: { chapter: 19, detail: "SECONDARY PAYOFF PAID on the page: the tomb of Aulus Numisius Eros outside the Nuceria Gate, its painted door known at twenty paces and faintly cool in the sun; after the tomb road into the town and the Stabian Gate road. The second marker of the answer does the finding", source: "ch-19:p95; ch-19:p140; ch-19:p165; ch-19:p166; ch-19:p169" }
     status: "paid (Ch.13); secondary payoff paid (Ch.19)"
     source: "outline:macro; outline:ch-13"
+    ch30_note: { chapter: 30, detail: "the WHERE now shared with Valens by sight, not by telling: he follows her to Eros's door and reads the name (knowledge_index.door_location); 'Its place I had told nobody.'", source: "ch-30:p49; ch-30:p50; ch-30:p51" }
 
   the-when:
     description: "when the door opens; Mara's refusal of the arithmetic"
@@ -17263,6 +17359,7 @@ plot_threads:
     resolved_date: "2026-10-18"
     resolution_note: "C7: foundation ladder softened to match outline Ch.30 (STATE:ARCH-14)"
     ch26_page: { chapter: 26, detail: "by letter: Fenn plans on it, 'She'll be near four the summer we go, by my book'; Mara does not answer the date in any reply on the page", source: "ch-26:p2; ch-26:p16; ch-26:p60; ch-26:p83" }
+    ch30_page: { chapter: 30, detail: "WRITTEN, the refusal window's early-door hope (foundation §1 ladder step 2): at the crack she recalls Fenn's rule ('the doors went with the ground. When it moved hard enough, they could open.') and 'wished it wider'; the door after the shake and its tail is 'the same', 'No colder.'. Fenn's date is not thought of on the page; no plan to leave Campania", source: "ch-30:p24; ch-30:p25; ch-30:p44; ch-30:p45" }
 
   the-refusal:
     description: "Mara's refusal of Fenn's date (the fig leaf: wrong twice, the third built on the schoolbook year)"
@@ -17362,6 +17459,7 @@ plot_threads:
     payoff_chapter: 25
     status: "paid (Ch.25), shown not declared"
     source: "outline:ch-15; outline:ch-25"
+    ch30_note: { value: "Ch.30: he sees the door in the daylight with her hand on it, shut ('No colder.'), not open; his Ch.15 condition (seeing it open) is not met and not mentioned; he asks nothing", source: "ch-30:p45; ch-30:p49; ch-30:p52" }
 
   valens-known:
     description: "Valens from nobody to known under his own name"
@@ -17583,7 +17681,7 @@ plot_threads:
       - { chapter: 8, detail: "WRITTEN: she lays her thumb in the shovel scratches at the bend; kneels 'at the crack's widest, at the floor, and sent my hand in to the wrist'; 'I kept my cheek on the slab' while pitch runs down her thumb, 'until I had been fair to it'; knuckles and palm 'as cold as each other, which was January cold and no more'; withdraws the hand and warms it under her arm. No scream and no blow: 'I stayed on my knees. There was nobody to laugh.' Then she changes her torch for 'my last pine' and looks again: 'a black gap the height of the slab'", source: "ch-08:p79; ch-08:p80; ch-08:p81; ch-08:p82; ch-08:p83" }
       - { chapter: 19, detail: "WRITTEN: the backs of her fingers on the white plaster (warm), then on the painted leaf (cool); back and forth, jamb and leaf; a knuckle, then 'the whole of my palm'; the white still warm and 'the door was cool.' when the family has gone in (the tomb shadows are cut on the final page); the coolness stays in her palm 'and was gone by the gate'. No air, no sound, no crack: 'it stayed a picture of a door'. REPLACES outline:ch-19", source: "ch-19:p168; ch-19:p169; ch-19:p170; ch-19:p178; ch-19:p179", plan_was: "painted false door faintly cool on a warm spring afternoon (outline:ch-19)" }
       - { chapter: 27, detail: "WRITTEN, HIS hand: 'He put his palm to the rock beneath the mark, with the fingers spread, and kept it so.'; 'his hand was beyond it, in the half-dark on the tuff, waiting'; 'No cold came; I saw it in the way his fingers lay, easy, no answer in them.'; held 'a while past knowing and then a while past that'; rubbed down his thigh. Then he taps 'the rock by his mark with a knuckle, twice'. Mara's own hand stays on her satchel flap (p192)", source: "ch-27:p153; ch-27:p154; ch-27:p162; ch-27:p192", plan_was: "Fenn's palm on the dead Cumae door (outline:ch-27)" }
-      - { chapter: 30, detail: "the same faint coolness under sun-warmed plaster, no colder (Valens watching)", source: "outline:ch-30" }
+      - { chapter: 30, detail: "WRITTEN: her palm 'near the foot of the left leaf' of Eros's sunlit painted door; the paint warm until she shades it, then 'the coolness was the one I had found there when we were new in the town. Faint.'; 'I pressed harder. Nothing in it altered.'; forehead to the leaf; through the aftershock 'I bore down with palm and fingers together, and waited for the door to answer the ground.' … 'No colder.'; Valens in the road behind her, the door 'in front of him, and my hand on it'. Staged apart from Ch.19's backs-of-fingers test and knuckle (bible: SPENT). CH30-1; CH30-2", source: "ch-30:p38; ch-30:p39; ch-30:p40; ch-30:p41; ch-30:p42; ch-30:p43; ch-30:p45; ch-30:p49", plan_was: "the same faint coolness under sun-warmed plaster, no colder (Valens watching) (outline:ch-30)" }
       - { chapter: 36, detail: "cooler than before", source: "outline:ch-36" }
       - { chapter: 41, detail: "cold in the hot night", source: "outline:ch-41" }
     payoff_chapter: 42
@@ -17992,6 +18090,7 @@ plot_threads:
     status: "open (the household's livelihood)"
     source: "ch-20:p11"
     ch21_note: { value: "Ch.21: the spice-seller's scales (a new pin); a lamp with a snapped nozzle; a horn comb in two halves; a glass cup 'waiting its turn'; the benches know her as 'the Greek wife … That mends.'", source: "ch-21:p11; ch-21:p18; ch-21:p22; ch-21:p117; ch-21:p150" }
+    ch30_note: { value: "Ch.30: 'Later that day the shake brought me trade': the dyer's wife's spoutless lamp, a girl's grandmother's bowl in three, the cookshop man's jar split lip to shoulder (promised for market day; 'two lead clamps would hold it'); 'The plank was full by lamplighting'; the glue pot on the coals, 'its smell of pine and hoof filling the shop'", source: "ch-30:p76; ch-30:p77; ch-30:p78" }
 
   kalends-walks:
     description: "Mara walks out to the door's gate on the Kalends of each month; 'It is the same.'"
@@ -18004,6 +18103,7 @@ plot_threads:
     payoff_chapter: 30
     status: "open (planned)"
     source: "ch-20:p126"
+    ch30_beat: { value: "the walk named in narration for the first time, and run, not walked: 'Each Kalends I passed under that arch at a walk, with a few violets in a cloth: a woman going out to her dead. A woman with violets got no second look on that road. I had not run it before.'; the tremor visit is off the Kalends cycle (W-15 / I-10 constraint met); Valens names or pictures nothing before p47; from Ch.30 he knows the tomb. 'Nearly five years of Kalends I had walked to his door, and written none of it down.'", source: "ch-30:p33; ch-30:p47; ch-30:p80" }
 
   ch31-whitewash-raid:
     description: "Ch.31's NON-NEGOTIABLE: a night whitewashing raid on rival notices; Mara holds the ladder for Grata, Valens refuses to help, then holds the lamp"
@@ -18060,6 +18160,7 @@ plot_threads:
     ch27_beat: { chapter: 27, detail: "about 20-22 months (derived): rides the pannier holding the rope; 'Smoke', 'Duck', 'Bone', 'Again'; throws the bone down the Sibyl's gallery and runs after it; runs Fenn's bases and stops on every bag", source: "ch-27:p38; ch-27:p46; ch-27:p84; ch-27:p194; ch-27:p207; ch-27:p213" }
     ch28_beat: { chapter: 28, detail: "WRITTEN ('He is not two yet'): 'Lix'; given Felix's hare bowl and carries it all week; on his father's knee in the top ring; wets himself in the hunt, moved to the dry knee; the Gaul crosses his eyes at him", source: "ch-28:p9; ch-28:p107; ch-28:p116; ch-28:p133; ch-28:p150; ch-28:p174" }
     ch29_beat: { chapter: 29, detail: "WRITTEN (about 2 years 4-6 months, derived): the clay mule; walnuts; on his father's shoulders at the farce he hangs down nose to nose and pushes his half roll into his weeping father's mouth; 'Ball,' … 'Tata. Ball.'; the man on the hill", source: "ch-29:p28; ch-29:p36; ch-29:p122; ch-29:p123; ch-29:p159; ch-29:p167" }
+    ch30_beat: { chapter: 30, detail: "WRITTEN (about 2 years 6-8 months, derived): 'Wall broke'; 'Grata,' pointing; laughs because his father laughs; hunts the crunch in his bread; inspects the crack hands behind him; carries the oil at a solemn crawl; asleep with a plaster flake", source: "ch-30:p9; ch-30:p14; ch-30:p18; ch-30:p69; ch-30:p71; ch-30:p72; ch-30:p79" }
 
   aelia-infant:
     description: "Aelia as a living child on the page: born off the page between Ch.25 and Ch.26; autonomous life in at least four chapters (foundation §3: Ch.26, 34, 38-44)"
@@ -18071,6 +18172,7 @@ plot_threads:
     source: "foundation:§3; outline:ch-26; outline:ch-44"
     ch28_beat: { chapter: 28, detail: "home from Puteoli asleep on Mara; left with Grata for the games, in the basket on the counter", source: "ch-28:p18; ch-28:p146" }
     ch29_beat: { chapter: 29, detail: "WRITTEN (about 11-12 months, derived): the peg doll with the crooked leg, gnawed; crows at each taper flame; asleep in her basket under the bench", source: "ch-29:p91; ch-29:p231; ch-29:p251" }
+    ch30_beat: { chapter: 30, detail: "WRITTEN (about 13-15 months, derived): shrieks with laughter at the shake and slaps the floor to make it heave again; wants down; Grata's sleeve; a whole cake worn; asleep across the bed's foot", source: "ch-30:p6; ch-30:p7; ch-30:p65; ch-30:p71; ch-30:p79" }
 
   valens-english-word:
     description: "the one English word Valens asks for and uses wrongly and happily (outline Ch.26 beat 5)"
@@ -18088,6 +18190,7 @@ plot_threads:
     payoff_chapter: null
     status: "open (no planned beat in the outline)"
     source: "ch-27:p239"
+    ch30_note: { value: "Ch.30: 'Nearly five years of Kalends I had walked to his door, and written none of it down.' is said of the notebook's back pages; whether any letter to Fenn reports the door after ch-27:p239 is not on the page", source: "ch-30:p80" }
 
   fenn-valens-friendship:
     description: "Fenn and Valens, the two exiles: 'the baseball lesson is two exiles agreeing to be friends without saying so' (outline:ch-29 subtext)"
@@ -18117,8 +18220,8 @@ world_rules:
   - { rule: "OPENING DURATION: an opening lasts hours, never days. AD 62 = part of one night (the quake night); AD 79 = from the night after the mountain opens until before first light on the 25th.", revised: "2026-10-18", source: "foundation:§9; ch-25:p124; ch-25:p131; audit WARN-016", ch25_observed: "Fenn: 'When it goes, it goes for hours. A night, tops, never days.' (p131); 62: 'till close to dawn' (p124), 'for half a night' (p161)" }
   - { rule: "Tremors alone did not predict the Pompeii door: Fenn's tremor-only dates (71, 73) failed; his 79 date is the tremor tables rebuilt around the known eruption year.", revised: "2026-10-18", source: "ch-25:p154; ch-25:p156; ch-25:p161; foundation:§3" }
   - { rule: "The Pompeii door's next opening is late summer AD 79 (Fenn); the arithmetic (Fenn's tables + Mara's independent tremor notes) puts it in the night after the mountain opens; it opens before dawn 25 Aug 79.", source: "outline:ch-25; outline:ch-36; outline:ch-42" }
-  - { rule: "An ordinary tremor (AD 77) does not open the door.", source: "outline:ch-30" }
-  - { rule: "Dormant/waking door temperature: faintly cool (Ch.19) → the same faint coolness, no colder, after the tremor (Ch.30) → cooler (Ch.36) → cold (Ch.41) → open (Ch.42).", revised: "2026-10-18", source: "outline:ch-19; outline:ch-30; outline:ch-36; outline:ch-41; outline:ch-42; foundation:§4f; audit N-24", ch27_page: "Ch.27 FINAL page (RE-SYNC 2026-10-24): Mara, of Eros's door, 'It was cool on the last Kalends.' (p237) and 'Eros's is only cool,' set against a live Cumae door cold enough to 'hang a side of beef' (p162-p164). Agrees with 'faintly cool' (ch-19:p169), with Ch.25 'Cool under my hand with the sun on it, and not a breath out of it.' (ch-25:p126) and 'Cool paint, noon or midnight, and nothing.' (ch-25:p154). CH27-1 RESOLVED (the 'cold' and 'Like Eros's' lines CUT, evaluator F2)" }
+  - { rule: "An ordinary tremor (AD 77) does not open the door.", source: "outline:ch-30", ch30_page: "CONFIRMED on the page: after the February AD 77 shake and its small aftershock the door gives 'the same' faint coolness, 'No breath moved out of it. The dust at its foot lay undisturbed.', 'No colder.' (ch-30:p40; ch-30:p43; ch-30:p44; ch-30:p45). Fenn's rule as Mara recalls it: 'the doors went with the ground. When it moved hard enough, they could open.' (ch-30:p24; ch-25:p129)" }
+  - { rule: "Dormant/waking door temperature: faintly cool (Ch.19) → the same faint coolness, no colder, after the tremor (Ch.30) → cooler (Ch.36) → cold (Ch.41) → open (Ch.42).", revised: "2026-10-18", source: "outline:ch-19; outline:ch-30; outline:ch-36; outline:ch-41; outline:ch-42; foundation:§4f; audit N-24", ch27_page: "Ch.27 FINAL page (RE-SYNC 2026-10-24): Mara, of Eros's door, 'It was cool on the last Kalends.' (p237) and 'Eros's is only cool,' set against a live Cumae door cold enough to 'hang a side of beef' (p162-p164). Agrees with 'faintly cool' (ch-19:p169), with Ch.25 'Cool under my hand with the sun on it, and not a breath out of it.' (ch-25:p126) and 'Cool paint, noon or midnight, and nothing.' (ch-25:p154). CH27-1 RESOLVED (the 'cold' and 'Like Eros's' lines CUT, evaluator F2)", ch30_page: "Ch.30 (post-disruptor page): the step holds, 'the same as on the day I found it' / 'No colder.' (p44; p45); but the painted leaf is told as sun-warm until shaded ('The paint was warm'; 'A little less warm than sunlit paint ought to be'; 'warm against my brow from the sun', p39; p40; p42), against Ch.19 and Ch.25's cool-with-the-sun-on-it: CH30-1 (medium)" }
   - { rule: "Doors do not deliver to matching dates: 1968 → AD 41 (Fenn); May 1998 → autumn AD 70 (Mara). So the far side in Ch.42 is '1998, or near it' only; the narration never asserts the year (Ch.43 says 'the other side' / 'her own century').", revised: "2026-10-18", source: "foundation:§9; outline:ch-03; outline:ch-42; outline:ch-43", ch3_observed: "Ch.3 (prose): Mara goes in on a May day and comes out under a low autumn sun she reads as October; her Seiko advances only ten minutes (1:40 → 1:50) and keeps the 1998 day's time; the year on the far side is not shown or known to her (ch-03:p68; ch-03:p81; ch-03:p82; ch-03:p84)", ch4_observed: "Ch.4 (prose): on the far side the inscription is freshly cut and painted, the pen is unbroken, and there is no road, no ski ridge, no tin roof. The year is still not given: archon Kleodamos, month Boathoos, a Kaisar in Rome (ch-04:p22; ch-04:p24; ch-04:p28; ch-04:p61; ch-04:p62; ch-04:p64)" }
   - { rule: "OBSERVED (Ch.3): the Corycian slot gave still air and ordinary cave cold to Mara's hand from about noon until 1:40; the cold then came at 1:40 p.m. by her watch on a day in May (Fenn's July 21 1968 cold was in the morning). The page does not relate this timing to any rule.", source: "ch-03:p62; ch-03:p63; ch-03:p68; ch-02:p69" }
   - { rule: "A door used for a crossing can stay shut afterwards (the Corycian door, Ch.6 and Ch.8).", source: "outline:ch-06; outline:ch-08", ch6_observed: "Ch.6 (prose), about a month after the crossing: the Corycian crack, tested by hand from before 1:10 to 1:55 by the watch on a snowy afternoon (the May cold came at 1:40), gives nothing: 'Rock. Air. Cold that was only cold.' / 'The rock was cold. Behind me the torch flame stood straight up.' One null afternoon; the page does not say the door is shut for good (Mara: 'I have no idea what happens if it's shut')", ch6_source: "ch-06:p13; ch-06:p14; ch-06:p163; ch-06:p238; ch-06:p244; ch-06:p246", ch8_observed: "Ch.8 (prose), midwinter, a few days past the turn of the year: her hand 'sent … in to the wrist' at the floor of the crack; knuckles on stone and palm in the dark 'as cold as each other, which was January cold and no more'; then, in new light, 'a black gap the height of the slab'. Untimed (no watch)", ch8_source: "ch-08:p80; ch-08:p81; ch-08:p83" }
@@ -18254,6 +18357,10 @@ world_rules:
   - { rule: "OBSERVED (Ch.29): a king of the street is chosen by the Venus throw of four knucklebones ('every face different and you're king of this street till the last day') and makes laws; masters wait on slaves at table (Albucius serves his troupe; the Corinth lanista, 'We had his couch and he had our bench'); a slave's leave to dine out is his master's to give, with the work kept ('send him home for the second firing')", source: "ch-29:p10; ch-29:p39; ch-29:p49; ch-29:p56; ch-29:p61" }
   - { rule: "OBSERVED (Ch.29): a mime farce on a street stage of boards over two carts, three players without masks and a flute; the crowd shouts warnings and advice at the players", source: "ch-29:p90; ch-29:p95; ch-29:p101" }
   - { rule: "OBSERVED (Ch.29, Grata): a householder's own slave girl got 'a cap and a cup at the door every year' at the festival", source: "ch-29:p164" }
+  - { rule: "OBSERVED (Ch.30): after a shake the town plasters at once ('In the town they were already at their repairs'); plasterers keep a queue ('behind the cooper and the widow and this fellow here. Tomorrow, if the lime comes.'); lime is dear 'since the forum swallowed every cartload in Campania' (Grata); a rented wall is 'the landlady's purse … same as always'; for everyone but Mara a shake is ordinary (the cookshop man: 'it was over … nothing to run from')", source: "ch-30:p12; ch-30:p32; ch-30:p57; ch-30:p60" }
+  - { rule: "OBSERVED (Ch.30): a crossroads shrine has an altar under painted snakes; a woman offers a honey cake there and tells the snakes her trouble", source: "ch-30:p61" }
+  - { rule: "OBSERVED (Ch.30): a woman carrying violets out of the gate on the Kalends reads as 'a woman going out to her dead' and 'got no second look on that road'; violets lie on tomb steps", source: "ch-30:p33; ch-30:p35" }
+  - { rule: "OBSERVED (Ch.30): mending: a glue pot of 'pine and hoof' warmed on the coals; a clean split in a jar held with two lead clamps", source: "ch-30:p78" }
 
 organizations:
   thyiades:
