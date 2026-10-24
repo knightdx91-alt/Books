@@ -496,3 +496,131 @@ Script: `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpa
 Apply `fixes27b/apply_fixes.py` to `manuscript/chapters/chapter-27.md`, re-run `check_chapter.sh 27` and `--echoes 27`, then re-evaluate (cycle 2). Expect a short cycle: one dimension and nine clause-level edits.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Re-evaluation — cycle 2
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Date:** 2026-10-24 | **Cycle:** 2
+**Text evaluated:** `manuscript/chapters/chapter-27.md`, md5 `efbfc81a78a19b51537d0918475f9706`. *(l.N = line numbers in this file.)*
+
+### Did the cycle-1 set land, and did it plant anything?
+- **Landed exactly.** The md5 equals the cycle-1 scratch result (`…/scratchpad/eval27b/`), so D1–D7, G1 and G2 are on the page and nothing else changed.
+- **Measured on the real file:** `check_chapter.sh 27` ALL MECHANICAL GATES CLEAN. `--gate` clean. **`--echoes 27`: 0**, with 0 command echoes and 0 spoken-line echoes. Shape 7,502, dialogue 36.0%, median 17, simile 22 (fig 3.7/1k), em-dash 1 (l.382).
+- **Planted nothing.** All nine edits were read in context:
+  - G2 "said Fenn, pointing." makes Fenn's second pointing in the chapter (l.172 is the first). That is 2, which is fine.
+  - D3 "Fenn said, \"would you?" makes "would you" 2 (with l.112).
+  - D7's "Come on, Mom" is counted in the "Come on" census below. It is one of three uses, but it was not the one planted, because "Come on" at l.286 and l.304 were already on the page.
+- **Doubling, measured on the page with the cycle-1 exclusions (formula, umpire's call, quotation, onomatopoeia):** 1 counted ("it works, it works sometimes", l.210). The raw count is 4 (l.210, 260, 268, 432), plus "slap, slap" (a sound).
+
+### Census — narrated states (cycle-0 classifications, re-run)
+Every row of the cycle-1 table holds; only speech lines changed. Fenn's delight is at 3, stick 5, hat 3, rope 3, "guy" 3, tremor 2, squint 2 (208, 286), leaning 2 (282, 384), laughing 2 (384, 436) and shouting 2 (298, 430). The keeper's sea-gaze is 2 and his pot lid 3, spread. Lucius's watching is 3 and "fist" 5. Mara's "before I decided" is 1, fatigue 3, spread, and her watching 3, spread (318, 440, 496). Aelia: 3 / 2. Fenn's arm thrown is 1 (G1). "in Greek" is 4 in narration, spread (118, 298, 308, 422), and functional. **No narrated-state failures.**
+
+### Census — speech habits, EVERY speaker, one pass (new spec: >2 of one habit fails)
+**Classification rules, fixed here so later cycles do not re-litigate them:**
+- A *habit* is a discourse marker or interjection used as an opener (So / And / Come on / Now / Hey / Look), a stock exclamation (No kidding / No dice / Nope), a vocative or courtesy tag, a pet intensifier or a pet construction, a doubled phrase, or a recurring question shape.
+- Pronoun-copula openers ("That's…", Valens's "It's…") are grammar, not habit. Each of Fenn's seven "That's" lines judges a different thing.
+- Formulas (the barker's "No refunds" / "Step right up"), an umpire's call, a quotation and onomatopoeia are excluded from the doubling count, as at cycle 1.
+- A walk-on repeating the noun of his grief (the keeper's "Misenum") is his subject, not a habit.
+
+| Speaker | Habit | Lines | Count | Verdict |
+|---|---|---|---|---|
+| Fenn | hyperbolic "you could [do X with it]" as his measure of things | 112 Spectrum · 124 spoon · 334 side of beef · 350 set a watch · 388 anchored a destroyer (124 "you could look your slice over" is literal, not counted) | **5** | **FAILS**: a nameable rule ("he sizes everything by what you could do with it") → S1–S3 → 2 (beef, destroyer) |
+| Fenn | intensifier "the whole …" | 10 of Jupiter · 112 floor · 268 deck · 272 fortune · 334 hill | **5** | **FAILS** → S1, S4, S5 → 2 (Jupiter, hill) |
+| Fenn | "So she…" retort that turns Mara's objection into a joke | 30 "So she won't mind company" · 174 "So much for that" · 286 "So she'll love it later" | **3** (30 and 286 are the same joke template) | **FAILS** → S7 → 2 |
+| Fenn | "Come on" | 286 · 304 · 446 | **3** | **FAILS** → S8 → 2 |
+| Fenn | courtly "sir" to Valens | 44 · 48 · 54 (within ~150 words) | **3** | **FAILS** → S9 → 2 |
+| Fenn | doubled phrases | counted 1 (210) / raw 4; 260 and 268 form a doubled pair 8 lines apart | 1 | OK by rule. S10 cuts "step right up" once anyway: raw 3, and the cluster is broken |
+| Fenn | "No [noun]" stock tag | 160 No kidding · 384 No dice (268 "No refunds" is barker formula) · 320 "Nope" (different form) | 2 | OK |
+| Fenn | "would you" tag | 112 · 196 | 2 | OK |
+| Fenn | "[X] would." retort | 164 "Who would." · 472 "He would." | 2 | OK |
+| Fenn | vocatives | kid 1 · buddy 1 · Mom 1 · folks 2 · my friend 1 | each ≤2 | OK |
+| Fenn | "guy" | 124 · 156 · 420 | 3 | OK (the project cap is 3) |
+| Fenn | idiom pool | no dice, get a load of, no great shakes, no kidding, you're the doctor, kid, okay, fellow, anyhow, Mom: 1 each; swell 2/2; buddy 2/2 | — | OK |
+| Fenn | "like" comparisons in speech | ~12, from varied sources (pop culture, trade, domestic, Navy) | — | Voice, not a single template. OK |
+| Mara | two-part question (question + fragment clarifier) | **352 "And you? That morning?" · 356 "Why? What killed it?" · 360 "Did you keep coming? After?"** · 368 "Show me what? That it's dead?" (364 is a re-ask under pressure, a different shape) | **4, in 5 consecutive lines** | **FAILS** (3 inside ~500 words; #8 in speech) → S11–S12 → 2 (356, 368) |
+| Mara | "And…?" opener | 352 · 374 · 492 | **3** | **FAILS** under the new spec (cycle 1 passed it at the old cap) → S11 → 2 |
+| Mara | re-asked question | 24/32 "What's at Cumae?" · 364 "why bring me" | 2 | OK |
+| Mara | "…too" | 270 · 284 | 2 | OK |
+| Mara | statement + dry fragment ("Long before me." / "To a king." / "Twice.") | 158 · 270 · 288 | 3, spread over ~130 lines | Syntax, which the law allows as voice; not one fixed phrase. OK (watch) |
+| Valens | imperatives / ground-literal declaratives | "Bring the boy's hat." · "Hold that." · "It's resting… It's favored…" · "It's one day." | ≤2 per form | OK |
+| Keeper | "Misenum" | 248 · 252 ×2 · 452 | his grief's subject | OK by rule. The utterance-doubling at 252 happens once |
+| Keeper | "month" | 244 · 452 | 2 | OK |
+| Lucius | single words (Smoke / Duck / Bone / Again) | design (cycle 0) | — | OK |
+| Scrapers / sailor | one line / none | — | — | OK |
+| Narrator | "whole" | 144 · 280 · 372 · 422 · 436 | 5 in 7.5k words, spread | Not a speech habit, and the gate is clean. OK |
+
+### Nameable-rule test
+- **Valens, the keeper, Lucius:** pass.
+- **Fenn:** fails on the "you could" measure and "the whole", and is at 3 on the "So" retort, "Come on" and "sir".
+- **Mara:** fails on the run of two-part questions at l.352–368 and is at 3 on "And…?".
+
+All of these are clause-level fixes.
+
+### Scores — cycle 2 (+0.5 max per dimension)
+| Dimension | C1 | **C2** | Evidence / cap |
+|---|---|---|---|
+| Originality | 9.0 | **9.0** | Unchanged: the dead door shown with pride (l.370), the lemon-meringue mutation (l.116/126), the diamond in the Sibyl's dust (l.414), the keeper's swarm (l.248–256). |
+| Theme | 9.0 | **9.0** | Unchanged: "I'd check the hill mornings before I checked the weather." (l.376); "You sit up with a sick friend, don't you?" (l.362). |
+| Characters | 8.0 | **8.0** | The doubling is closed (1 counted, l.210) and the narrated-state census is clean. Held at **8.0** by the speech-habit census: Fenn's hyperbolic "you could" 5 and "the whole" 5, both nameable; "So" retort / "Come on" / "sir" at 3 each; Mara's two-part questions 4 in 5 consecutive lines and "And…?" 3. The cap practice is the same as Ch.24–26 and cycles 0–1. Everything else is 8.5+: "it's like eating something that's still making up its mind" (l.146); "the left one went on going after the right had stopped" (l.358). |
+| Prose & Voice | 8.5 | **8.5** | Holds: 0 echoes; stopping sentences at l.318, l.372 and l.402; ugly sentence at l.178; voice under pressure at l.108–110 and l.364. #11 at 2. |
+| Pacing | 8.5 | **8.5** | 7,502 words (99%), dialogue 36.0%, handoffs unchanged (Ch.26 collage 12% → walk 36% → Ch.28 bout). **PACING OK.** |
+| Emotion | 9.0 | **9.0** | The anchor (l.318) is verbatim; "Of you." (l.222); the coat against the carbon (l.388–394). |
+| Immersion | 9.0 | **9.0** | Gallery orientation correct (l.264/268). The Solfatara, Avernus and the dromos are unchanged. |
+| **FLOOR** | 8.0 | **8.0** | Characters |
+| **AVERAGE** | 8.71 | **8.71** | (9.0 + 9.0 + 8.0 + 8.5 + 8.5 + 9.0 + 9.0) / 7 |
+
+- **Casual Reader: 9.0.** None of these habits would stop this reader.
+- **CVI-Launch: 9.4.** 0.2(8) + 0.2(10) + 0.2(9) + 0.2(7.5) + 0.1(10) + 0.1(10) = 8.9, + 0.5 for a strong anchor.
+- **CVI-Legacy: 7.1.** Default weights: 9.0 × .30 + 9.0 × .25 + 3 × .20 + 7 × .15 + 5 × .10.
+- **Anti-AI:** 8 patterns at minor weight, in the commercial clean band. After the fixes, #6 drops to 2 "And" openers in speech and #8 has no speech parallel run.
+
+### Fix set — cycle 2 (TESTED)
+Script: `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes27c/apply_fixes.py <chapter-27.md>`. It makes **11 replacements** on the md5 `efbfc81a…` page. Each must match exactly once or the script aborts and writes nothing; a re-run aborts safely (tested).
+
+**Tested on a fresh scratch copy** of the book folder (`…/scratchpad/eval27c/`):
+- `check_chapter.sh 27`: **ALL MECHANICAL GATES CLEAN**.
+- `--gate`: clean.
+- **`--echoes 27`: 0**, with 0 command and 0 spoken-line echoes.
+- Show/tell row: 7,499 words, dialogue 35.8% (band 35–45). Shape_check: 7,481, 3 breaks, I-statement → long-fade, unchanged.
+- Result md5 **`1214428ba546532d04def00db9f0f2e3`**.
+
+**Rejected drafts (gate- or hand-caught):**
+- "What did you do, that morning?": echo, Ch.5.
+- "Where did you go, that morning?": "where did you" / "did you go" reach 3× book-wide.
+- "there's room for the Spectrum under here": rebuilds Fenn's own "there's room for two in here" (l.286) frame.
+
+| ID | Location | Problem type | Now | Why | Revision (exact, in script) | Project rule? |
+|---|---|---|---|---|---|---|
+| S1 | l.112 | Character (speech habit) | "The whole floor's hollow, you could put the Spectrum under here and have room left over for the ice," | "you could" 5; "whole" 5 | "The floor's hollow, the Spectrum would fit under here, ice and all," | Yes: no speaker carries more than 2 of one speech habit (opener, exclamation, tag, pet construction, question shape) |
+| S2 | l.124 | Character | "a lemon meringue you could've stood a spoon up in," | "you could" | "a lemon meringue so stiff it would hold a spoon upright," | — |
+| S3 | l.350 | Character | "the same cold, you could have set a watch by it, and then one morning" | "you could" | "the same cold, and then one morning" | — |
+| S4 | l.268 | Character | "shuffles the whole deck," | "whole" | "shuffles the deck," | — |
+| S5 | l.272 | Character | "he pays the whole fortune for the last few." | "whole" | "he pays the full price for the last few." | — |
+| S7 | l.286 | Character | "So she'll love it later." | The "So she…" retort ×2 (with l.30), "So" opener 3 | "She can love it later." | — |
+| S8 | l.304 | Character | "Come on, it's down this end," | "Come on" 3 | "It's down this end," | — |
+| S9 | l.48 | Character | "He shall ride, sir. I will hire an ass." | "sir" 3 in ~150 words | "He shall ride. I will hire an ass." | — |
+| S10 | l.268 | Character | "Step right up, step right up, ladies and gentlemen," | Raw doubling 4, with a doubled pair 8 lines from l.260 | "Step right up, ladies and gentlemen," | — |
+| S11 | l.352 | Character / Style #8 | "And you? That morning?" | Two-part question run (352/356/360/368); "And…?" 3 | "What then, that morning?" | — |
+| S12 | l.360 | Character | "Did you keep coming? After?" | Two-part run | "Did you keep coming after?" | — |
+
+**Untouched:** the opener, the anchor paragraph, the Zippo frame, "Door. Nail. No?", the coat, the slide and the long fade.
+
+**Projected after fixes27c:** Characters **8.5** (+0.5: both censuses and the nameable test clean) → **Floor 8.5 / Average 8.79**. Casual 9.0. Pacing OK.
+
+### PATH TO 8.5
+- **Characters 8.0 → 8.5 requires:** apply S1–S12. That alone does it; nothing else on the page holds the floor.
+
+### Carry to the PASS cycle (bookkeeping, not page edits)
+- Everything listed in cycle 1's "Bookkeeping for finalize" still stands: the l.6 header refresh, the Ch.27 Fenn block re-sync and the CUT strings.
+- **Add to the bible at PASS:**
+  - Fenn's speech-habit ledger for Ch.27: "you could" 2, "whole" 2, "So" 2, "Come on" 2, "sir" 2, doubling 1, "guy" 3.
+  - Mara's: "And…?" 2, two-part questions 2.
+  - The CUT strings from S1–S12.
+- **New guard:** the per-speaker speech-habit cap (≤2 per habit per chapter). Fenn's hyperbolic "you could" is at-risk book-wide.
+
+### VERDICT
+**POLISH.** Floor 8.0 (Characters) < 8.5. Casual 9.0 ✓. Pacing OK ✓. Gates clean ✓, with echoes at 0.
+
+Apply `fixes27c/apply_fixes.py` to `manuscript/chapters/chapter-27.md` and confirm md5 `1214428b…`. Re-run `check_chapter.sh 27` and `--echoes 27`, then re-evaluate (cycle 3). The census is now exhaustive for narrated states and speech habits, so cycle 3 should only need to verify.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

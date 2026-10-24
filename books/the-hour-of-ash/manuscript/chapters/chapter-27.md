@@ -45,7 +45,7 @@ Fenn answered for himself in his good Greek, with the small bow that went with i
 
 "The boy can't walk that."
 
-"He shall ride, sir. I will hire an ass."
+"He shall ride. I will hire an ass."
 
 Fenn turned to the quay, and I turned with him. Among the dripping baskets at the octopus seller's stall an old gray ass stood tethered to a ring in the wall, dozing with its ears half down and its weight on three legs.
 
@@ -109,7 +109,7 @@ The ground answered with a deep hollow note we felt in our feet, a drum struck i
 
 "Fenn! Get off it!"
 
-"It does that." He stamped again, delighted. "The whole floor's hollow, you could put the Spectrum under here and have room left over for the ice, and the bath keeper says when his grandfather was a boy they'd hear it clear down at the road. Relax, would you, it's been doing this since Hannibal." He saw my face. "All right, I'm coming."
+"It does that." He stamped again, delighted. "The floor's hollow, the Spectrum would fit under here, ice and all, and the bath keeper says when his grandfather was a boy they'd hear it clear down at the road. Relax, would you, it's been doing this since Hannibal." He saw my face. "All right, I'm coming."
 
 He came picking his way back and stopped at a vent close to the lip; the sulphur had grown round the crack's mouth in a crust of small bright yellow crystals, fringed along their tops with something white that the steam had left, and he stooped over it.
 
@@ -121,7 +121,7 @@ The men with the hoes lifted their heads at the English, and the older one calle
 
 "After the Ides," Fenn called back, "and not a day before, so bring a hat."
 
-"At the automat," Fenn said, "they did a lemon meringue you could've stood a spoon up in, with the meringue on top a mile high and the little brown peaks on it, like this, and you could look your slice over before you paid, so you'd walk the row hunting for the tallest one, everybody did it, with some guy behind me breathing down my collar." He sketched the peaks in the air above the crystals, not touching. "You'd go in for a cup of coffee and leave with the pie, every time."
+"At the automat," Fenn said, "they did a lemon meringue so stiff it would hold a spoon upright, with the meringue on top a mile high and the little brown peaks on it, like this, and you could look your slice over before you paid, so you'd walk the row hunting for the tallest one, everybody did it, with some guy behind me breathing down my collar." He sketched the peaks in the air above the crystals, not touching. "You'd go in for a cup of coffee and leave with the pie, every time."
 
 In his room, a year ago, it had been coconut cream. I let him have the lemon.
 
@@ -265,11 +265,11 @@ Along the left-hand wall, every twenty paces or so, a side passage had been driv
 
 "Who cut it?" I said.
 
-"Who can say? The priests swear it was the god, I say some Greek with a pick and a contract." Fenn moved into the first bright patch, swung round to face us and went on backward with his arms spread wide. "Step right up, step right up, ladies and gentlemen, boys and girls, on your left the windows of the Sibyl of Cumae, oldest fortune-teller in the business, seven hundred years at this location and not one day off for good behavior. She writes your future on an oak leaf, folks, a leaf, and lays it in the doorway along with everybody else's, the door swings open, the wind comes in off the sea and shuffles the whole deck, and you walk out with the fellow's behind you." He tipped his hat to an empty square of sun. "No refunds."
+"Who can say? The priests swear it was the god, I say some Greek with a pick and a contract." Fenn moved into the first bright patch, swung round to face us and went on backward with his arms spread wide. "Step right up, ladies and gentlemen, boys and girls, on your left the windows of the Sibyl of Cumae, oldest fortune-teller in the business, seven hundred years at this location and not one day off for good behavior. She writes your future on an oak leaf, folks, a leaf, and lays it in the doorway along with everybody else's, the door swings open, the wind comes in off the sea and shuffles the deck, and you walk out with the fellow's behind you." He tipped his hat to an empty square of sun. "No refunds."
 
 "She sold books too," I said. "To a king."
 
-"To Tarquin, the last king they had before they got smart. He laughs at her price, so she burns some right there in front of him and asks the same for the rest, and he laughs again, and she burns more, and in the end he pays the whole fortune for the last few. What wouldn't I give for the ones she burned?" He backed away out of the light. "That's the racket, kid. Nobody ever went digging for the stuff they kept."
+"To Tarquin, the last king they had before they got smart. He laughs at her price, so she burns some right there in front of him and asks the same for the rest, and he laughs again, and she burns more, and in the end he pays the full price for the last few. What wouldn't I give for the ones she burned?" He backed away out of the light. "That's the racket, kid. Nobody ever went digging for the stuff they kept."
 
 Lucius had hold of my forefinger. At the end of each bright stretch he hung on the finger and leaned toward the shadow, and I towed him on into the following light. The third time he plumped down on the floor and had to be lifted. The sling's strap had been biting my neck since Avernus, my feet were hot in my shoes, and the satchel with everything I had packed and unpacked in the night bumped at my hip with nowhere to set it down.
 
@@ -283,7 +283,7 @@ The passage went twelve paces in and ended in a window in the cliff, square-cut,
 
 "She's asleep too."
 
-"So she'll love it later. Come on up yourself, then, there's room for two in here, best seat in the house." He squinted down at me from his window. "What's the matter with you? You walk like somebody's grandmother."
+"She can love it later. Come on up yourself, then, there's room for two in here, best seat in the house." He squinted down at me from his window. "What's the matter with you? You walk like somebody's grandmother."
 
 "I'm somebody's mother," I said. "Twice. The newer one's strapped to my front."
 
@@ -301,7 +301,7 @@ I sat on the sill of the passage, where the tuff had been cut into a low step, a
 
 He quit the window in his own time, dropped the last of the way, and landed with a grunt.
 
-"Come on, it's down this end," Fenn said.
+"It's down this end," Fenn said.
 
 The corridor went on through its light and its shadow. Near the end the bright patches came closer together; then the walls drew back, and there was a room, a square chamber cut in the rock with a low bench running round three sides of it and a vaulted ceiling gone black from lamps. Feet had worn the floor to a shallow dish. Little clay figures stood on the bench, a hand high, a girl holding a jug, a woman with a child, and people had pushed so many coins into a crack in the wall that it had gone green. On the bench a sailor off some fleet galley sat carving his name in the tuff with the point of a knife; he had reached the third letter, and never raised his head.
 
@@ -347,9 +347,9 @@ Lucius laughed, at the voice and not the joke, and the blind end of the passage 
 
 "When?"
 
-"Spring of fifty. Seven years I hiked it the first of every month, rain or shine, and it was cold whenever I came, the same cold, you could have set a watch by it, and then one morning I'm halfway down that corridor and I already know, because I can hear my feet. Just my feet, slap, slap, on the floor. Seven years I never heard them in here. I came in and laid my hand on it and it was like any other bit of the hill. Warm like a wall's warm, that's all it was, a wall."
+"Spring of fifty. Seven years I hiked it the first of every month, rain or shine, and it was cold whenever I came, the same cold, and then one morning I'm halfway down that corridor and I already know, because I can hear my feet. Just my feet, slap, slap, on the floor. Seven years I never heard them in here. I came in and laid my hand on it and it was like any other bit of the hill. Warm like a wall's warm, that's all it was, a wall."
 
-"And you? That morning?"
+"What then, that morning?"
 
 "Sat out on that terrace till the sun went. The keeper had all his hair then. He brought me out some wine and never asked what for, and I drank it."
 
@@ -357,7 +357,7 @@ Lucius laughed, at the voice and not the joke, and the blind end of the passage 
 
 "Nothing killed it. That's what gets me." He threw his hands out, and the left one went on going after the right had stopped. "Nothing on the tables, and nobody on this coast felt a thing, I asked the length of it for a year. It just quit. One month it's cold and the next it's a wall with my mark on it."
 
-"Did you keep coming? After?"
+"Did you keep coming after?"
 
 "Every month for a year, in case it was only sleeping. You sit up with a sick friend, don't you? After that, once a year."
 
