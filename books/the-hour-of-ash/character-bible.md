@@ -5106,6 +5106,11 @@ All functional; no habit assigned; none borrows Grata's flood or the narrator's 
   him"; **the woman at the crossing shrine** "telling the snakes about her roof"; **the women queued at the fountain**; **the goat** on
   the tomb road "eating the violets off a tomb step" (all silent). The two old men (narrated: they quarrel over "the year of the shake
   before" and later "had settled the year between them and gone on to roof tiles") now speak once; see their entry above.
+- **CUT by the disruptor (2026-10-24; never restore):** the tile sweeper "with a broom of twigs" and the man on the roof who "named
+  what each had cost him"; "Boys ran past with a basket of lime between them, slopping it."; "It was a mess, and people were clearing
+  it."; "A dog ran with me a while and gave it up."; "His chest was heaving."; "I stood at the board, my eyes on the crack."; "That
+  one had been hard. It had broken a mend that had held for fifteen years."; "the way ink runs down a wet page"; "from forty paces";
+  "all four" (the mules at homecoming; the S1 count stands); "A girl of fourteen months and a boy not yet three" (now "Two babies").
 - **The dyer's wife** (a lamp off its bracket, spout lost) and **a girl of nine or so** (her grandmother's bowl in three, carried in
   her tunic's lap): customers, silent.
 - **Mention:** the cooper and the widow (the plasterer's queue); "the big shake fifteen years back" (AD 62) and the plasterer who
