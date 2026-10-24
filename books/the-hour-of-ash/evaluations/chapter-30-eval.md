@@ -820,3 +820,156 @@ Every new string was grepped across Ch.1–29. Unrelated-sense hits only: "unhur
 - **Prose 8.0 → 8.5 requires:** nothing on the page. Only the cycle-improvement limit holds it, and cycle 2 confirms the uncapped value. Do NOT polish further before cycle 2. Any edit reopens the swap-site audit, and the four INFO items above are each better left than changed.
 
 **BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Cycle 2 (confirmation)
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Date:** 2026-10-24 | **Text:** `manuscript/chapters/chapter-30.md`, md5 **`2d8df26b956801632387468ee4219bbe`**, **confirmed unchanged** since cycle 1. The last commit touching the chapter is still 8a1d298, and the chapter has no uncommitted change. Cycle 0–1 rulings are binding, and this pass opens no new class of finding.
+
+### The cycle-1 confirmation list, item by item
+1. **md5:** `2d8df26b…` ✓. The page was re-read in full (192 lines) all the same. Every cycle-1 swap-site ruling still describes the page.
+2. **Gates:**
+   - `bash tools/check_chapter.sh 30` (from the book folder): **ALL MECHANICAL GATES CLEAN**, with these readings:
+     - style 2,303w, simile 0.9/1k, em-dash 0;
+     - grammar clean; rhythm 0 flagged;
+     - show/tell 2,324w, dlg 10.9%, filter 1.7, no flags;
+     - voice-wear strict clean; tic gate clean (gestures clean, and-chains 1);
+     - 5c echo 0, command echo 0, spoken-line echo 0;
+     - 5d closed ledger clean (23 constructions live for Ch.30);
+     - metaphor fig 1.7/1k, no flags;
+     - SHAPE CLEAN.
+   - shape_check row 30: 2,296w / 6 breaks / dlg 11% / median 11 / I-punch → punch, which matches the ledger row.
+   - All 28 `closed_ledger.tsv` regexes were run against Ch.30 by script, the five rows closed after 30 included: **0 hits**.
+   - `closed_check.py N` for N = 1…30: **only Ch.21 (l.42) and Ch.25 (l.222) fail**, both on the known Phase-5 "and stayed" hits. Every other chapter exits 0.
+3. **Prose 8.0 → 8.5, confirmed on the page as it stands:**
+   - **#11 firm = 0.** The 1 borderline ("to learn how deep it went", l.40) is Valens's purpose. The house allows ≤1 firm under 3,000 words.
+   - **Zero CLOSED/SPENT constructions,** checked by ledger and by hand:
+     - fronted objects 0 (l.114 "I had told nobody where.", l.172 "I kept the jar for last.", l.188 "Valens in the road went unwritten." are all subject-first);
+     - narrating present 0 (l.52 "like a zipper parting");
+     - Ch.17 run beats 0;
+     - call-after 0;
+     - stitch 0;
+     - Fenn's "breath out of it" 0;
+     - stopped hands 0;
+     - "whole" for the checked child 0 (l.20 "unhurt").
+   - **Stopping sentences intact:** "I watched the crack and wished it wider." (l.58); "No colder." (l.102); "He put no question to me." (l.118).
+   - **Ugly sentence intact:** "The bread crunched. Everybody ate theirs anyway, me as well, it was bread." (l.152).
+   - **Voice under pressure intact:** "I ran." (l.72); the door shard at one sentence a paragraph (l.86–l.102).
+   - **Underlines:** "The water jar beside the hearth began to talk." (l.10); "Aelia laughed at the pair of them at the top of her lungs, for no reason she needed." (l.44); "the door was a door on a tomb, faintly cool." (l.100); "Lucius had taken a flake of the fallen plaster to his pallet, and his hand was shut on it yet, the thumb laid over it." (l.176).
+   - The rise is +0.5, inside the per-cycle limit. This is the uncapped value cycle 0 measured, as in the Ch.10, Ch.12 and Ch.29 precedent.
+4. **No dimension regressed.** The page is byte-identical to cycle 1, so every piece of cycle-1 evidence stands at the same line numbers. The adjacent-dimension cross-check found nothing: Prose rose only because a limit lapsed, and no text changed that could move a neighbour.
+
+### Genesis Score, cycle 2 (final)
+| Dimension | C0 | C1 | **C2** | Evidence / reason |
+|---|---|---|---|---|
+| Originality | 8.5 | 8.5 | **8.5** | Held: the earthquake as hope ("I watched the crack and wished it wider.", l.58); the wall that swears ("'Castor,' said the wall.", l.28); the shadow over her own hand (l.90); the bread "dust and all" (l.150). The 9.0 blocker (the Ch.17 run) is lifted, but nothing new was added to earn the +0.5 |
+| Theme | 8.5 | 8.5 | **8.5** | Held: "No colder." (l.102) / "Valens in the road went unwritten." (l.188). The mending saturation (#18 minor) is unchanged |
+| Characters | 8.5 | 8.5 | **8.5** | Held. The census is unchanged from cycle 1: no state over 3, none at 3 inside 500 words, Grata's talking-on AT CAP (3, Ch.31 WATCH), "my wall" 2. Valens's ≤4-word lines stay a Ch.31 guard |
+| **Prose & Voice** | 7.5 | 8.0 | **8.5** | Confirmed (item 3 above). Not 9.0: the Kalanithi-level pivot sentence is not here, and P9's "door's … door was a door" stack (INFO) stays |
+| Pacing | 8.5 | 8.5 | **8.5** | Held: 2,296w, fragmented, low gear, ledger matched, a clean value shift (hope → "No colder." → Valens knows). S6's after-peak sag keeps it from 9.0 |
+| Emotion | 8.5 | 8.5 | **8.5** | Held: the bread anchor (l.150–154); relief at an earthquake; the body rebel "had no run left in me" (l.126) |
+| Immersion | 9.0 | 9.0 | **9.0** | Held: the *testum* bell, the oath by Castor, post-62 lime prices, the AD 62 mend, lead clamps. The route is consistent and the door's temperature canon is restored. The generic honey cake still blocks 9.5. ≥9.0 challenge: an *Outlander*-tier editor would accept the domestic Roman texture as competitive |
+| **FLOOR** | 7.5 | 8.0 | **8.5** | |
+| **AVERAGE** | 8.43 | 8.50 | **8.57** | (8.5 × 6 + 9.0) / 7 |
+
+**Casual Reader 9.0** (unchanged). **CVI-Launch 9.4**: 0.2(8) + 0.2(10) + 0.2(9) + 0.2(7.5) + 0.1(10) + 0.1(10) = 8.9, plus 0.5 for a strong anchor. **CVI-Legacy 6.7** (default weights, unchanged). The divergence between CVI-Launch 9.4 and the Genesis Floor 8.5 is 0.9, with no alert. Anti-AI 3/20 (clean band, −0.375). Tomorrow Test: ANCHOR EXISTS (BOTH: the bread, dust and all, and "Get your finger out of my wall,"). Pacing vs neighbours: **OK**. Mechanical gates: **clean**.
+
+### VERDICT, cycle 2: **PASS**
+**Floor 8.5 ≥ 8.5 ✓ · Casual 9.0 ≥ 8.5 ✓ · Pacing OK ✓ · Gates clean ✓.** There is no text change, no fix script, and the md5 stays `2d8df26b956801632387468ee4219bbe`. Polish cycles used: 2 of 5.
+
+**One-line pacing verdict for `feedback/progress.md`:** Ch.30 "Tremor": 2,296w, fragmented and low gear (7 shards, dlg 11%), a short hinge between Ch.29's 6.6k high-gear table and Ch.31's 4.8k comedy. The length serves the beat. Pacing OK. PASS at cycle 2 (Floor 8.5 / Avg 8.57 / Casual 9.0).
+
+### l.6 header: CONFIRMED, no change
+Every figure on l.6 matches this cycle's gate output:
+- shape 2,296 / style 2,303 / show-tell 2,324;
+- dialogue 11% shape / 10.9% show-tell;
+- 6 breaks (7 shards); median 11 (shape_check; the metaphor table's "med 10" uses another tokenizer and is not the header's figure);
+- em-dash 0, as-if 0, negation pivots 0, credential asides 0, echoes 0;
+- I-punch → punch;
+- ALL MECHANICAL GATES CLEAN.
+
+The header records the history through evaluator cycle 0. Cycles 1 and 2 changed no text, so no re-measure or swap is due. Finalize may leave l.6 as it is. (Any edit to l.6 would change the md5 recorded throughout this file.)
+
+---
+
+## FINAL CONSOLIDATED CHARACTER-BIBLE RE-SYNC LIST (for finalize; reconciled against md5 2d8df26b)
+**Reconciliation, run this cycle by script against the page:**
+- Every on-page quote in cycle-0 items 1–8 (161 distinct quote fragments by this cycle's extractor) is **present**.
+- Every CUT, struck and rejected-draft string is **absent**.
+- The extractor's only other "misses" are labels, rule templates ("as I would a [object]") and quotes the list writes with single inner marks where the page has double ("Grata has them."; "Castor," said the wall).
+- **When copying into the bible, use the page's double quotation marks.**
+
+The text of record is **cycle-0 items 1–10 (this file, the section "CHARACTER-BIBLE RE-SYNC LIST", items 1–10)**. Copy them verbatim, with the reconciliation notes and additions below, which this list makes binding:
+
+**1. Ch.30 walk-on block:** replace the **WRITER DRAFT** block (character-bible.md, from "#### Ch.30 unnamed walk-ons…" through "Writer's notes for the at-risk sync (Ch.30 draft)") **in full** with cycle-0 item 1, headed "FINAL page, md5 2d8df26b".
+- **Draft lines that must NOT survive the replacement:**
+  - the cookshop man who "shouts after Mara";
+  - "the woman at the crossing shrine telling the snakes about her roof";
+  - "the women queued at the fountain";
+  - "The dyer's wife (a lamp off its bracket, spout lost)";
+  - the tile sweeper and the man on the roof;
+  - "*Eros: the same.*".
+- Each of these goes into the CUT append, not the live text.
+- **Keep from the draft's Writer's notes:**
+  - "the painted door" 0 (1 left);
+  - "breathe with the earth" not printed (still 1 of 2);
+  - Grata swears by Castor (a woman's oath), not Hercules;
+  - Valens's plaster dust given once;
+  - the satchel "on its nail";
+  - the stalls heard from the back room.
+- No new named character. No habit assigned to anyone.
+
+**2–6. Principals' Ch.30 blocks: MARA, VALENS, GRATA, LUCIUS, AELIA.**
+- The bible holds no Ch.30 block for any principal yet, so each is a **new** block, copied verbatim from cycle-0 items 2–6. Each takes its CUT list and its "Spent in Ch.30" line.
+- **Reconciliation notes:**
+  - **Mara:** the CUT "all four" (disruptor) refers to the mules at homecoming only. S1's "all four mules were kicking their boards" (l.12) stays on the page and is not a CUT miss.
+  - **Valens:** knowledge from Ch.30: HE KNOWS THE TOMB (witnessed, name read). He has no date and no rule. Nobody says so. Lines 5, all ≤4 words.
+  - **Grata:** narrated talking-on 3, AT CAP. "my wall" 2. Touches still five; questions 0.
+  - **Lucius:** about two years seven months; two whole lines, both new.
+  - **Aelia:** about fourteen months; laughs 2, grip 2, mouthing 1.
+- **7. FENN (mention only):** as cycle-0 item 7.
+
+**8. "At-risk after Ch.30" block** (insert after "At-risk after Ch.29"): cycle-0 item 8 verbatim.
+- **SPENT:** opening and shake / the crack / the relief / the run / the door / the knowledge beat / the walk home / trade / night, as listed.
+- **CLOSED:**
+  - a stranger calling after Mara;
+  - the stitch in a run;
+  - "hands went still";
+  - Fenn's "breath out of it";
+  - "the look [S] gave / kept for a [noun]";
+  - "as I would a [object]" (2, no third);
+  - narrated fronted objects (zero tolerance, protected lines included);
+  - narrating-present similes (0).
+- **Canon from the page:** as listed. **Add to the route canon:** the fuller's bench and the fullery are at the shop's EAST corner (see item 10).
+- **CUT LOG — Ch.30:** as listed. Add the Writer-draft walk-on lines named in item 1 above.
+- **WATCH for Ch.31:** cycle-0 item 8's WATCH verbatim.
+  - **Caps:** said/told-the-[non-listener] 0; "Nobody" ≤1; "somewhere" ≤2.
+  - **Grata:** narrated talking-on ≤1; no voice through a wall; rest "my lad" / "the big ox" / "same as always" / "The man I married"; comparisons ≤1.
+  - **Valens:** ONE line longer than eight words; no structure-testing beat; "He saw" ≤1.
+  - **Words:** "fist" ≤2; rest "dust", "crack", "split" and "settled"; "warm" / "sun" ≤3; "whole" ≤1.
+  - **Characters:** no Mara laugh; Lucius two-word lines; Aelia mouthing ≤1, grip ≤2.
+- **Ch.31 guards 1–6:** verbatim (no IN MEDIAS RES hook, PLAIN STOP; no Ch.30 callback; the Ch.20 whitewash guard in full; Grata's fresh subjects; teeth; no portent).
+  - **Addition to guard 2:** no fullery staged at the bull's-head crossing. If Ch.31's night walk passes a corner, the fullery is the shop's east corner and the bull's-head fountain is the west crossing.
+- **Craft rules recorded from Ch.30, 1–5:** verbatim.
+  - **Addition to craft rule 3:** "The shop has two corners in the canon: the bull's-head fountain crossing to the WEST (Ch.19, Ch.20 'The fountain at our corner', the Ch.29 stage) and the fullery/fuller's bench to the EAST (Ch.28 'The fullery on our corner', Ch.30). Never put one at the other."
+
+**9. `tools/closed_ledger.tsv`:** the five Ch.30 rows (call-after, stitch, hands-went-still, breath-out-of-it, look-frame; each "closed after 30") are **already in the file**. It now holds 28 rows. Do not re-add them. The rejected sixth candidate (present-tense "the way a [noun] [verb]s") stays a by-hand rule.
+
+**10. ENTITY (for the tracker; cycle-0 item 10 plus the cycle-1 notes, consolidated):**
+- **CH30-1:** RESOLVED by L1. The painted leaf is faintly cool with the sun on it. Only her hand is warm.
+- **CH30-3:** RESOLVED by L2/L3.
+- **`crossing-shrine`:** rename to "the shrine at the turning toward the Nuceria road (painted snakes)". **Drop needs_review** and the CH30-3 review_note. Re-quote the fact from the page: "Where we turned for home, a woman had set a honey cake on the shrine's altar under the painted snakes." (l.138). "At the crossing shrine" is CUT.
+- **`fullery-at-the-corner`:** record it as the shop's **EAST** corner. Ch.28 "The fullery on our corner"; the Ch.30 fuller's bench "I went east past them". A later chapter must not stage it at the bull's-head crossing.
+- **`bull-fountain`:** **remove the Ch.30 fact** ("Ch.30 ('the fountain', unqualified…)"). Create a new location row, **"the next fountain east of the shop"**. Its facts: "At the next fountain the women in its queue swung round, jars and all, to watch me by." (l.74) / "Passing the fountain I had a lie worked out for the women there" (l.140).
+- **`fountain-queue-ad77`:** the trait quotes the CUT "The women queued at the fountain swung round". Re-quote from l.74 and point to the new east-fountain row. Its "which fountain is CH30-3" is resolved.
+- **`dyers-wife-ad77`:** **CUT from the page (P16).** Mark the character CUT (or remove the row, per the tracker's convention). Close its needs_review against toddlers-father-dyer, since nothing remains to merge. `dyers-shop` keeps only "A roof tile lay smashed across the paving outside the dyer's." (l.66) and drops the dyer's-wife clause. The object **`dyers-wife-lamp`** is CUT.
+- **Stale ch-30 quotes the tracker's RE-SYNC sweep must clear:** these are all strings already in the cycle-0 CUT lists, so this is no new finding. Rows still quoting them as page facts include:
+  - `cookshop-man-ad77` ("shouted after me", now "assured me it was over");
+  - `valens-headstall` ("the headstall lay by my board at home"; now "dangling from one hand" / "He dropped the headstall beside my board");
+  - `maras-sandal-strap` ("slapped my ankle", now "I ran with my toes clawed to keep it on");
+  - `hearth-wall-crack` / the crack rows ("the way a zipper parts", now "like a zipper parting").
+  - Sweep every `ch-30:` source in ENTITY_STATE.yaml against the CUT lists in items 1–8. Cycle-0 and cycle-1 paragraph numbers (p28, p32, p61, p76…) predate the swaps and should be re-anchored to the final page.
+- **The cookshop man** stays distinct from the Ch.20 lost-pot cook. His wine jar is promised for market day (chekhov_open, low).
+- **CH30-2:** info only. The outline Ch.30 / ENTITY "kitchen" note becomes "hearth corner of the back room" (continuity I-25).
+
+**BIAS CHECK:** This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
