@@ -279,3 +279,232 @@ Will catch that the tables go under the bed where Lucius later crawls for the bo
 **POLISH** — Genesis Floor 8.0 (Characters, Prose) < 8.5; Casual 9.0 ✓; PACING OK ✓; mechanical gates clean ✓. Apply G1–G18 (tested) and re-evaluate.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Re-evaluation — cycle 1
+**Evaluator:** book-evaluator (independent) | **Date:** 2026-10-24 | **Cycle:** 1
+**Text evaluated:** `manuscript/chapters/chapter-26.md`, md5 `cc88e009985d7392ab6bc98d5de1bac1`. That matches my tested scratch copy (`scratchpad/eval26/manuscript/chapters/chapter-26.md`) byte for byte, so G1–G18 landed exactly as tested. A string-level check of all 27 replacements found every old string OFF the page and every new string ON it (27/27). G13, the closing line, is in as accepted.
+
+**Measured on the real file:** `check_chapter.sh 26` ALL MECHANICAL GATES CLEAN. `tic_report.py --gate` clean (ch 26: and-chains 3/9, credential asides 1/4, negation pivots 0). `--echoes 26` gives 0 echoes, 0 command echoes, 0 spoken-line echoes. Shape: 5,195 words, 7 breaks, dialogue 12%, median 15, `narrative` → `quiet`. SHAPE CLEAN. Metaphor: fig 2.5/1k, 11 similes, 4.1% over 40 words.
+
+### Planted-nothing check
+- **Replacement strings checked book-wide.** These occur only in Ch.26: "three nights running", "fought him", "Only the baby", "rooms to let", "letting rooms", "traded him", "nothing wrong with it", "still in his hand", "take a patch", "barred on the wind", "from start to end". These also appear elsewhere, but in unrelated frames: "straight through" (Ch.7 cold through a himation, Ch.18), "two of us" (Ch.15 bed collapse), "both arms" (Ch.7/8/11/12/17; none of them holds an infant, and the Ch.17 "very carefully" is a shave, not a hold). Running `--echoes` came back 0.
+- **Cut effects restored or carried.**
+  - S3→S4 still cuts on "gave it to her" → "Goodnight." and keeps its force.
+  - S6 now closes on "The sheet dried with a pale cloud in that place." That is an image, not a device button. The S6→S7 handoff the hook report praised ("What a voicemail was, I did not explain." → the tables) now runs from the pale cloud to the sacking. It is a withholding into a withholding, so the effect is carried.
+  - The melon is now absent from Mara's reply list without being announced, which is stronger. "*that makes two of us who know it*" keeps Fenn's birthday line and fixes the logic.
+  - The closing line keeps its image and its quiet length class (24 words). "still" carries the hold past release.
+- **Guards held.** The mountain 0, "Margaret" 0, "very carefully" 0, "I mean it" 0. Fenn's promise is unquoted (stays 1 of 3). No Cumae invitation in any letter. *goodnight* appears only in the designed beat (l.112 given, l.118 said). Fenn's l.36 "good night's sleep" predates the beat and is idiom.
+
+### Census re-check (cycle-0 classifications, unchanged; word offsets from l.7)
+| Character | State | Cycle 0 | Cycle 1 (lines [offset]) | Verdict |
+|---|---|---|---|---|
+| Aelia | crying | 5, 3 in ~380 | 3: l.16 [~440] · l.28 [885] · l.38 [1,262] (l.22 "Only the baby woke him" and l.88 "She had fought him" are the G1 recasts, not notes, per the cycle-0 ruling) | **PASS** (two inside 500 at most) |
+| Aelia | asleep | 6, 3 in ~210 | 3: l.38 [~1,300] · l.88 [2,302] · l.104 [2,456] (l.112 / l.130 / l.136 recast) | **PASS** |
+| Aelia | mouthing | 3 | 3: l.42+46 (one beat) · l.136 · l.232 | OK (WATCH) |
+| Aelia | grip | 3 events | 3: l.38 · l.154 "her hand round my thumb" · l.244–250 frame | OK |
+| Aelia | lent adult mood | 0 | 0 | OK |
+| Valens | speaks low | 3 in ~210 | 2: l.88 · l.112 | **PASS** |
+| Valens | asleep / wakes | 3 | 3: l.22 · 158 · 182 | OK |
+| Valens | looks at people | 3 | 3: l.104 · 158 · 234 | OK (WATCH) |
+| Valens | hands / arm over eyes | varied / 2 | unchanged; l.66 nail now "still in his hand" | OK |
+| Lucius | bone business around the rolling | 3 in ~60 | 2: l.216 "showed the bone" · l.226 | **PASS** |
+| Felix | bursts / exits | 2 / 1 | 2 / 1 | OK |
+| Grata | flood → command, never asks | OK | OK (l.140 recast keeps the syntax) | OK |
+| Fenn | tremor / handwriting / Ch.25 spent states | 3 / 2 / 0 | 3 / 2 / 0 | OK |
+| Mara | recap triad (baby's reception) | device | gone; l.18 "three nights running", l.38 "straight through to the initials", l.154 a pair | **PASS** |
+| Mara | narrated omissions | 3 + 2 kin | 1 (l.40 "nothing whatever about the door") + kin (l.82, l.124) | **PASS** |
+| Narration | "fist" | 8 | 5: l.16 · 38 · 232 · 246 · 250 | OK (WATCH: l.232/246/250 in ~270 words; 246/250 are the designed frame) |
+| Narration | "every" | 20 | 19 (3.7/1k) | WATCH |
+
+No state crosses its cap, and the gate's gesture layer is clean. **New on re-read, WATCH only (not reclassifications, no fix):**
+- "patch" ×5 in ~350 words (l.130–136). It is the object being worked, and G10 removed none and added none.
+- The baby's reception is pegged to a point in the letter at l.38, 88 and 154 (3 of 6 letters). Each is worded differently and none is a recap triad now. Ch.27+ should not peg a listener's reception to a read text's content again.
+- Fenn's "fellow" ×3 in Ch.26 (l.36 "Mrs. Big Fellow", l.60, l.150) and "okay" ×2 → ≤1 each in Ch.27.
+
+### Nameable-rule test (CP5-0b), on the patched page
+- **Mara PASSES.** The recap-triad device and the listed omissions are gone. What remains is one stated omission and acts (the sponge, the box).
+- **Fenn PASSES.** Six openers, six different turns. The and-chains are his life. No listing, no numbering. The rage is one rage.
+- **Valens PASSES.** No comparison, nobody remarks on it. Jealousy is never named.
+- **Grata PASSES.** She floods, commands and never asks.
+- **Felix PASSES (WATCH).**
+- Aelia's "roar" is now 4 tokens in 3 notes inside ~850 words, all in S1–S2. It no longer reads as the infant's rule, but it is SPENT for her cry from here.
+
+### Closed / spent frames
+- Who-pays 0.
+- "by degrees" 0.
+- Ch.24 birth machinery 0.
+- Fenn's Ch.25 narrated states 0.
+- "Nobody had [verb]" 1 (l.16).
+- "kept … to myself" 0.
+- The Ch.25 refusal frame ("Don't … I mean it.") is GONE.
+- Anaphora triads 0. G2 removed the ordinal series, and G6 cut the "like" anaphora to a pair.
+- Device-as-button: the knucklebone closes §2 only.
+- Closing aphorism 0.
+
+### Anti-AI scan (5,195 words), changed rows only
+- **#2** Clear (the "only hers" line is cut).
+- **#3** 3 polysyndetic noun triads (l.16 body, l.40 four-item reply list, l.130 smells) = 0.58/1k, moderate.
+- **#7** 1 minor (l.48).
+- **#8** 1 minor (l.48 designed pair).
+- **#11** 1 (l.12 "where the wrist had tired") = 0.19/1k, minor.
+
+**Total 4 patterns (#3, #7, #8, #11), commercial CLEAN.** Weighted −0.625, against −1.125 at cycle 0.
+
+### Genesis Score — cycle 1
+| Dimension | C0 | C1 | Evidence (patched page) | Cap reasons |
+|---|---|---|---|---|
+| Originality | 9.0 | **9.0** | Unchanged. The birth arrives secondhand in 1968 English (l.8). The horoscope's reverse serves as stationery (l.12). "*But what in God's name is a voicemail?*" (l.150). The dawn "Goodnight." (l.118). | none |
+| Theme | 9.0 | **9.0** | Unchanged: "asleep in a language he did not have" (l.104). "in the language she heard all day from everybody but me at night" (l.126; the street recap is gone, so the line lands cleaner). The box goes under the bed (l.210). | language motif dense in S1–S4 (not 9.5) |
+| Characters | 8.0 | **8.5** (+0.5) | Census clean: crying 3, asleep 3, Valens low 2, bone business 2. Both narrator devices are gone (G3, G5). Every chaos marker is still inhabited: "Marlins." (l.136), "whether Aelia was somebody" (l.18), the voicemail memory (l.134), the milk (l.154). Fenn is alive on paper, with "*that makes two of us who know it.*" (l.132) now logical. Valens is jealous without the word. Felix, Grata and Lucius each have an independent moment. | not 9.0: "Only the baby woke him" sits ~50 words from the l.16 roar (accepted under the cycle-0 ruling, but the Critic feels the baby's noise as the S1 constant) |
+| Prose & Voice | 8.0 | **8.5** (+0.5) | **Stopping sentences intact:** l.104, l.156 "My father was not in it anywhere." **Underlines:** l.12 (both), l.40 scissors/shears, l.136 the strainer that "never learn[s] of the patch" (now the conceit's only use), l.148 the doubled strokes. **Ugly sentence:** l.136 "Piercing it was dull and slow." **Pressure:** l.154–156. The triad cadence is down to 0.58/1k. The Ch.25 frame, the "around here" slip, the doubled conceit and "very carefully" are all gone. The rage letter (l.150) now runs "*Skip it. I'll find out back there…*" and is better for the cut. | not 9.0: "patch" ×5 in l.130–136; l.182 "Grata's son's wall by the baths was letting rooms" asks a half-beat of the reader |
+| Pacing | 8.5 | **8.5** | 5,195 words (87%), serving the beat between 7,343 and 7,600. G4 trimmed S1's lead-in. The speed peaks (S3→S4, the 1964 run) and the slow bench are intact. | S1 lead-in still the soft stretch (not 9.0) |
+| Emotion | 9.0 | **9.0** | Anchor l.18. Body rebel l.154. Surprise "Who's dead?" and the dawn "Goodnight." P.S. l.208. The frame l.244–250 is unchanged except the close. | none |
+| Immersion | 9.0 | **9.0** | G14 four mules, G15 rooms-to-let notice (Pompeii's signature genre, no anachronistic election), G18 the light-well shutter. Every Hostile continuity slip from cycle 0 is closed. | l.46 newborn "put everything in her mouth" stays INVESTIGATE; the +0.5 per cycle is not needed |
+| **FLOOR** | 8.0 | **8.5** | Characters, Prose, Pacing | |
+| **AVERAGE** | 8.64 | **8.79** | (9.0+9.0+8.5+8.5+8.5+9.0+9.0)/7 | |
+
+**Casual Reader: 9.0** (unchanged; the cuts are all below a casual reader's notice, and the S1 drift is ~30 words shorter).
+**CVI-Launch: 9.4.** Pacing 8, Tomorrow 10, Casual 9, Shareability 7.73, Pitch 10, Closeness 10 = 8.95, plus 0.5 for the strong anchor, gives 9.45 → 9.4.
+**CVI-Legacy: 7.3** (unchanged inputs).
+**PACING: OK.** Mechanical gates: clean.
+
+**Tomorrow Test:** unchanged. The anchor is the dawn "Goodnight." and Grata's "and to all your mules" (IMAGE), plus "*Nobody said they'd go on making new ones without me.*" (QUOTE). **Bias check:** produced by the same system that wrote the prose; scores above 8.0 need external validation.
+
+### VERDICT — cycle 1: **PASS**
+Genesis Floor 8.5 ≥ 8.5; Casual 9.0 ≥ 8.5; PACING OK; gates clean.
+
+### FINALIZE (tested)
+`/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fin26/finalize.py <chapter path>` makes 3 replacements, all in the **header comment l.6 only (FN1)**. **Body text is byte-identical** (diffed from l.7). The header was stale on six counts: 5,315 → 5,195; 94% → 87%; dialogue 11% → 12%; median 17 → 15; first sentence 22 → 23 words; close 22 → 24 words; and-chains 2 → 3. It also adds the line "Evaluator cycle 0 fix set G1-G18 applied; cycle 1 PASS (Floor 8.5)". Tested on the scratch copy: applies once, and a second run aborts. `check_chapter.sh 26` ALL CLEAN; `--echoes 26` 0. **Final page md5 `0ba7d411515cf0189ba905963b1681d1`.** No body swap is genuinely needed. "fist" at l.232 and "patch" ×5 are WATCH items, and each swap I tried would plant a fresh repeat ("knuckles" beside the knucklebone, "hand" already ×9).
+
+### Character-bible sync list (FINAL page, md5 `0ba7d411…`) — replaces every "Writer draft 2026-10-24 … downstream passes to re-sync" Ch.26 block
+**MARA (card l.779–792), replace the stale parts:**
+- She reads the birth letter "three nights running, in the voice I would have used to read out a recipe", and on the third night reads the reverse too, in Greek.
+- No recap-of-items device: the reception lines are l.38 "She roared straight through to the initials." and l.154 "She took God's name and the Syrian sailors staring into the brazier, her hand round my thumb."
+- ONE stated omission: "nothing whatever about the door" (l.40). The melon line and "What a voicemail was, I did not explain." are CUT. The refusal is the sponge ("The sheet dried with a pale cloud in that place.") and the box: "I traded him the bone for it, and carried the box through, and slid it under the bedstead, deep, into the dust."
+- Her replies:
+  - The Marlins answer: "The Florida Marlins beat Cleveland in the seventh game, in extra innings … and my father left me the news on my voicemail at work, first thing Monday". Then the weight in Grata's wrist-creases, the rain, and the strainer "that I did not think would take a patch".
+  - Second reply: the ford; "The strainer had held … after a fashion"; Lucius on the stair; "Grata's son's wall by the baths was letting rooms"; the sponged *It's a machine that*.
+- Credential asides 1. Chaos 4/4 (unchanged). Words escaping her 0. No laugh.
+
+**VALENS (card l.1581–1591):**
+- **Four mules** (CH26-2 closed).
+- The nail "still in his hand" (l.66).
+- "Only the baby woke him; the English never had." (l.22).
+- His Latin walking night: "talking to her low in Latin. She had fought him from start to end of it until I came through."
+- The word: "He tried it twice, low, eyes on the flame; the word broke in two, and then its pieces ran together. After that he leaned down over Aelia and gave it to her."
+- Page lines, verbatim:
+  - The letters: "From Puteoli?" / "Who's dead?" / "What side?" / "What was she called?" / "All that way with her, and no name." / "You read it slow."
+  - The baby and the word: "She sleeps for that." / "She was full last night." / "She knows it … Grata says they come out knowing the voice they heard inside." / "She hears it now." / "Give me a word of it." / "One she knows." / "Goodnight."
+  - The night reply: "Is he sick?" / "With you?" / "Then use the ones he knows." / "Do you tell him about me?" / "What?" / "The ford at Stabiae's up to a mule's belly, and the dun swam the last of it. Put that in."
+  - The bone and the frame: "Where did he get that?" / "And you?" / "Is it lucky?" / "He'll drop her." / "He's never held anything that kicks." / "You can move now."
+- States: speaks low 2, asleep/wakes 3, looks at people 3 (WATCH ≤2 in Ch.27), arm over eyes 2 (one beat).
+
+**FENN letters (card l.1701–1720), replace the stale quotes:**
+- (2): "I sat on the stool and talked American till the gulls started up" (not "at the ceiling").
+- (3): "She won't take the trolley home, after. She starts walking." (no "23" in Ch.26).
+- (4): "*and as of this letter that makes two of us who know it. I bought myself a melon.*"
+- (5): "*Skip it. I'll find out back there same as the rest of them…*" and "*like it's bread, like a fellow ought to know*".
+- **Idiom pool, Ch.26 final:** holy cow 1, the whole shebang 1, knock it off 1 (Fenn's only; Ch.8's is Mara's narration), I'll be a monkey's uncle 1, tickled pink 1, so sue me 1, pipe down 1, by my book 1, if you squint 1, believe me 1, kid 1 (noun), okay 2 (book: Fenn 4 across Ch.25–26 → ≤1 per chapter), "figuring" 1 (the one "figure" verb), fellow 3 incl. "Mrs. Big Fellow" (→ ≤1 in Ch.27), Chico Ruiz 1 (2/2 book-wide, SPENT), slowly 0.
+- Promise 1 of 3 (unquoted). Tremor 3, handwriting 2, Ch.25 narrated states 0. The rage is the one rage.
+- **The voicemail rage is a one-off: never repeated in person, never alluded to by him in Ch.27+.**
+
+**LUCIUS (card l.3007–3016):**
+- Bone: given at l.48 ("It was to keep that finger busy that I gave him the knucklebone"; "it rolled, and was fetched, and rolled again"; "since somebody's goat died" is the bone's one section close). Traded back to him for the box lid at l.210. At l.216 he rolls it off his palm on its flat side, and "backed out a while after with dust in his eyebrows and a long gray thread of cobweb hanging off his chin, and showed the bone to his father". "with the bone in his fist" is CUT.
+- Frame: "Don't move," in Latin (no "Hold her"). Valens "fitted one of the boy's arms under her head and the other over her middle", then drew his own hands back "barely clear".
+- **Close: "He sat on in the sun with his lip in her fist and both arms still round her, until his father lifted her away."** "holding her very carefully" is CUT.
+
+**AELIA (card l.3040–3046), her states on the final page:**
+- Crying 3 notes: l.16 "choking and roaring at once … with the roar still in her"; l.28 "roared at the wall until the bakers laughed"; l.38. "roar" ×4 is SPENT for her cry; any later cry finds new words, ≤1.
+- Asleep 3: l.38, l.88 at the breast "with a bead of milk standing at the corner of it", l.104.
+- Mouthing 3: thread and crescent / hair, beard, blanket, strainer as one beat; "her lips went on sucking at nothing"; "hunting along her own fist for a mouthful". WATCH ≤2 in Ch.27+.
+- Grip 3: fist in the neckline, "her hand round my thumb", the lip.
+- Awake and roving after the lamp flame (week five); awake in Mara's lap for the rage letter.
+- "a warm sack of flour"; head "smelled of milk and of the wool she had been lying on". "something else that was only hers" is CUT.
+- Lent moods 0.
+
+**GRATA (card l.2954–2959), replace:**
+- "My man reckons it's a curse, what he sends you. He'd call the moon a curse if it rose on a market day." (**"My man" 1**, not 2.)
+- The stars "read out to every customer that day" and nailed "with a better nail".
+- At the strainer: "Let's have it, he's at my counter now, the fish-sauce man, wanting his cup on credit like a son of mine…" then "**And somebody's painted rooms to let right across the wall by the baths, in red, in letters as high as a child, when every soul in Pompeii knows that wall's my Secundus's.** That one's grown in a week. Look at her wrists. You'd best stop eating standing up."
+- Dawn answer, verbatim l.120.
+- **SECUNDUS:** first named Ch.26, in Grata's mouth only, as the wall's owner. No election painting, no rival, no baker's son anywhere in Ch.26 (CH26-7 closed). Ch.31 owns the campaign and the whitewash and must NOT pay off the rooms-to-let notice.
+
+**FELIX (card l.2424–2428), replace the stale burst:**
+- "From the Chaldean? It's heavy for letters. It's gold, I'd know that weight anywhere." / "The dun threw her head." / "She's been jumpy since the rain. Two boats came round from Surrentum this morning, I watched them in from the wall. Is the sea open, then, or is it only them being stupid? Is it open for good?"
+- The cut is "closed and crusted, that was new" (drop "since the Kalends").
+- Dawn questions are reported and he exits before an answer (l.122). After the tables: "He was out and away, whistling."
+- Bursts 2 (WATCH). No palm scratch (Ch.28).
+
+**Walk-ons (block l.4314):**
+- Strike "a baker's son (the rival candidate's name…)". Add "the rooms-to-let notice by the baths (no landlord named)".
+- The carter, the bakers opposite (fire the oven, laugh at the roar), the bakers' boys, the fuller's lads, the stationer by the forum, the inn at the crossroads: all functional, no habit.
+- The mention lists stand.
+
+**At-risk after Ch.26 — REPLACE the writer-draft block with the FINAL block:**
+- **SPENT:**
+  - *goodnight* (given l.112, said l.118; never called back in any form, by anyone, ever).
+  - Fenn's rage and the voicemail (one-off; never repeated in person).
+  - The sponged *It's a machine that* / the pale cloud.
+  - The birthday melon; "that makes two of us who know it".
+  - Callison's three home runs, the scorecard, the Germantown Avenue walk, the hall-table note ("Home by Labor Day … A line about the milk.").
+  - The cedar box under the bedstead (never explain why).
+  - The named frame and its close ("both arms still round her").
+  - The knucklebone's hand-off and its roll (rolled / fetched / skittering / flat side / palm: Ch.27's Cumae roll uses none).
+  - "Sleep when she sleeps."; "a language he did not have"; "My father was not in it anywhere."; "Only the baby woke him"; "rooms to let"; "I traded him the bone for it"; "the wall by the baths" (2, both Ch.26).
+  - Aelia's "roar".
+- **CUT (never restore), all 27 G1–G18 old strings verbatim:**
+  - "Nothing short of the roaring woke him"
+  - "She had roared at him from start to end of it"
+  - "At his first try the word broke in two. At the second the pieces ran together. On the third … very low. She went on sleeping through it, full of milk, with her fingers spread on my breast."
+  - "with Aelia asleep against me in the sling"
+  - "Aelia did not wake for the tapping"
+  - "three times over, the rope walk and the bridge and the peanuts"
+  - "She roared through the broom handle and the tables and both initials."
+  - "the loaves and the boys and the bucket"
+  - "God's name and the fish and the Syrian sailors"
+  - "her fist round my thumb"
+  - "something else that was only hers"
+  - "The melon got no mention; whatever there was to say about it, the sheet had no room for."
+  - "What a voicemail was, I did not explain."
+  - "Don't explain it to me, I mean it."
+  - "like everybody's got one"
+  - "that's one person around here who knows it"
+  - "I took the box from him" / "Back in the shop, I gave him the bone."
+  - "with the bone in his fist"
+  - "patch well enough to fool the wine"
+  - "every customer reached my bench"
+  - "harness that wanted nothing"
+  - "holding her very carefully"
+  - "five mules"
+  - "a baker's son right over my Secundus … that wall's my boy's"
+  - "Grata's son had been painted out by the baths"
+  - "the wind off the bay"
+  - "the nail in his fist"
+  - Plus the earlier passes' cuts, still off the page: "Don't you dare explain it to me", "a woman told a dog", "the big fellow", "squinting", "upper shutter", "nobody … but", "talked American at the ceiling", "nobody here knows it but you now", "Is it from the Chaldean? … is it money", "Hold her", "My man would call the moon". The full verbatim lists are in `dialogue-chapter-26.md`, `disruption-chapter-26.md` and the `continuity/chapter-26-audit.md` repair log.
+- **WATCH:**
+  - "every" 19 in Ch.26 (3.7/1k).
+  - "fist" 5 (narration).
+  - "patch" 5.
+  - "bed's end" 1 / "bed's head" 1 (the old "2" is stale).
+  - Valens's looks at people 3.
+  - Aelia's mouthing 3.
+  - Felix's bursts 2.
+  - Fenn "fellow" 3 / "okay" 2.
+  - A listener's reception pegged to a read text's content: 3 (spent as a form).
+- **Ch.27 guards:**
+  - **(1) The Cumae invitation is delivered IN Ch.27 itself** (outline cascade). It is in no Ch.26 letter, and Ch.27 must not say it came by letter earlier.
+  - **(2) Hook must NOT be VOICE; pull must NOT be EMOTIONAL GUT PUNCH** (Ch.26's pair). The ledger's long fade suits QUESTION PLANT or a character-voiced OMINOUS PROMISE.
+  - **(3) Nobody names the mountain**, Fenn included (CP5-1).
+  - **(4) Fenn's promise phrase stays at 1 of 3.** Quote it at most once, and only if the outline asks.
+  - **(5) The voicemail rage is a one-off:** never repeated, reprised or apologised for in person.
+  - **(6) "goodnight" is never called back:** not by Valens, Grata, Felix, Mara or Fenn, in any language or form.
+  - (7) The Zippo frame is Ch.27's.
+  - (8) The automat's lemon meringue needs a non-coin trigger.
+  - (9) The knucklebone's roll avoids rolled / fetched / skittering / flat side / palm.
+  - (10) No infant lent an adult mood.
+  - (11) No "very carefully".
+  - (12) Median sentence suits the high gear.
+
+**ENTITY_STATE:** CH26-2 resolved (four mules). CH26-7 resolved (no election notice in AD 75–76; Secundus first named Ch.26 as the wall's owner in Grata's mouth; the wall carries a rooms-to-let notice).
