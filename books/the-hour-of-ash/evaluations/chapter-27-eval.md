@@ -1,0 +1,355 @@
+# Evaluation: Chapter 27 — Cumae (run 2) · Chronological walk, Puteoli → the hot ground → Avernus → the Sibyl's cave → the road back
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Date:** 2026-10-24 | **Cycle:** 0
+**Text evaluated:** `manuscript/chapters/chapter-27.md`, md5 `b7d112dd7d6ba23fcfd6648b6ca99e42`. This is the page after writer → dialogue-polish → hook-craft (no edits) → disruptor → continuity repair (CRIT-1…6, WARN-1…15, INFO-14/16, all logged). Nothing the repair fixed is re-raised. The coordinator's entity items CH27-1, CH27-2 and CH27-3 are folded into the fix set (F1–F3).
+
+**Measured on the real file** (from the book folder):
+- `bash tools/check_chapter.sh 27`: ALL MECHANICAL GATES CLEAN (style, grammar, rhythm, show/tell, voice-wear strict, tic gate incl. gestures, metaphor, SHAPE CLEAN).
+- **`python3 tools/tic_report.py --echoes 27`: 83 echoes** (82 cross-chapter phrases plus 1 pronoun-swapped). Only the first 60 print, because the tool truncates. The 5c scan does not fail the exit code, so "ALL CLEAN" hides it. The book's standard is **0 before the evaluator runs** (CLAUDE.md loop step E; Ch.24, 25 and 26 all arrived at 0). The repair log took it 89 → 83 and stopped. 0 command echoes, 0 spoken-line echoes.
+- `--gate`: clean. Shape **7,681** words (101% of 7,600). 3 breaks / 4 sections. Dialogue **36.1%** (band 35–45). Median sentence 17, mean 21.1, 12.7% over 40 words. Simile 25 (fig 3.9/1k, under the 4.0 gate). **Em-dash 1** (l.388 "when you first—"; the header says 0). And-chains 3/9. Credential asides 0. Negation pivots 0.
+- Shape: `I-statement` (51 words) → `long-fade` (52-word last sentence), matching ledger row 27.
+
+**Read against:** the book's CLAUDE.md; STATE.yaml guardrails, retired reflexes, AUTHOR-CP2-2, CP4-2, CP5-0b and CP5-1; outline ledger row 27 and `## Chapter 27` (beats, writer warnings, beat subversion), plus the Ch.26 and Ch.28 cascades; foundation §Fenn, §doors and anchor rows 26/27/30/35; voice-dna §0 and §1 (dialogue conventions: no adverbs in tags), §3b and §4; character-bible ("Voices from lives, not rules"; FENN with the idiom pool, the Ch.25/26/27 blocks and SPENT narrated states; At-risk after Ch.25, 26 and 27 and the at-risk table); chapter-25 (all of Fenn's crossing and door material); chapter-26; the dialogue, hook and disruption reports; `continuity/chapter-27-audit.md` with its repair log; `chapter-26-eval.md` for the bar.
+
+**Genre profile:** commercial historical romance / time-slip (comp *Outlander*). Anti-AI band commercial (0–8 clean). #11 cap: >6 instances or >0.8/1k. Dimension 7 = **IMMERSION**. Engagement (STATE): empathy 55 / fascination 30 / self-insertion 15.
+
+*(l.N = line number in the evaluated file, md5 b7d112dd.)*
+
+---
+
+## HEADLINE
+**CVI-Launch:** **9.4** (8.9 + 0.5 for a strong anchor) | **CVI-Legacy:** **7.1** | **Genesis Floor:** **8.0** | **Genesis Average:** **8.64** | **Casual Reader:** **9.0**
+
+**Engagement type (this chapter):** Empathy 55 (an old man's palm on a dead wall; "Of you."; the coat he can still feel) · Fascination 35 (a door can die; the mentor doesn't know what he is teaching) · Self-insertion 10.
+
+**Divergence alert:** none (9.4 vs 8.0 = 1.4).
+
+This is the best Fenn on the page so far. The beat subversion lands completely: the place of power is dead, and the lesson is the man. The Floor sits on hygiene, not structure:
+1. **83 unvaried cross-chapter echoes.** The book standard is 0.
+2. **A replayed Ch.25 exchange.** Ch.25 l.172–174 has "I crawled it on my knees." / "Course you did. I went in on my belly". Ch.27 l.142–146 has Fenn ask again ("How'd you go in, belly down?") and get the same contrast. This is a logic slip and a spoken-beat reuse (coordinator CH27-3).
+3. **Eros's door is made cold** ("It was cold on the last Kalends"; Mara likens the beef-cold Cumae door to it), against Ch.19's faint coolness (CH27-1).
+4. **The narrated-trait census fails four times:** the keeper's sea-gaze is 3 inside ~250 words; Fenn's delight is noted 4×; his stick 8×; Lucius absorbed in watching 6×.
+5. **Smaller items:** Fenn's "guy" 7×; Mara's "And…?" question run, an anaphora triad in speech; two adverbial tags ("gravely", "with great bitterness"); a Richie Allen stat line that is a three-item list; Fenn re-telling the Ch.25 landing in the Ch.25 frame ("Next thing… snow to here").
+
+Every item is clause-level. No beat needs rewriting.
+
+**Gate:** Floor 8.0 < 8.5 → **POLISH** (Casual 9.0 ✓, pacing ✓; the mechanical exit code is clean, but the echo standard is ✗). The tested fix set below projects **Floor 8.5 / Average 8.79**.
+
+---
+
+## PACING VS NEIGHBOURS (gate item, judged)
+
+| | Ch.26 | **Ch.27** | Ch.28 (planned) |
+|---|---|---|---|
+| Shape | Collage, 7 breaks | **Chronological walk, 3 breaks** | In medias res (bout → backfill → bout) |
+| Length | 5,195 | **7,681** (101%; 7,526 after the fix set) | 7,000 |
+| Gear / median | mid / 15 | **high / 17** | low |
+| Dialogue | 12% | **36.1%** (36.1% after fixes) | 25–35% |
+| Reading speed | letters brisk, domestic slow | **"a slow walk; still in the cave"** | fast bout, measured backfill, fast end |
+| Slot | deepen Fenn; the refusal shown | **the cautionary mirror at full strength** | a secondary's own life; theme recedes |
+
+- **The contrast is right on both sides.** A short, letter-borne, low-dialogue collage (12%) hands off to a long walked chapter in which Fenn is finally present and talking (36%). That in turn hands off to a fast, low-gear arena chapter. No two neighbours share an approach, a length band or a dialogue band.
+- **The reading speed the outline asks for is delivered.**
+  - The road (S2, ~2,500 words) is a slow walk. Fenn's comedy carries it, with a turn every ~400 words: the boom, the lemon meringue, the string, the oysters, Kirk Douglas, the ducks, the Zippo.
+  - The cave (S3, ~3,076 words) is genuinely still. The blind passage runs from "X marks the spot" to the coat with no exit and no cut.
+  - S4 (the bone, the diamond) is the speed peak. The fade decelerates on purpose.
+- **Value shift, two axes:**
+  - **Mara:** "one night of it unanswered", a door "that kept its own time and not his" (l.72), becomes "here it was, and he was right about it, and it was a wall" (l.378).
+  - **Fenn:** young on the window ledge and sliding into home, then "the youth drained out of Fenn between one bend of the path and the next" (l.464).
+- **The Devourer's soft spot** is S2's middle (oysters → Avernus → lunch, ~900 words) before the Zippo. It is texture, not a sag, because Fenn's lines keep landing.
+- **Handoff:** Ch.28's news waits at home. Felix is never mentioned (guard ✓). The planted question ("Write me… And if it isn't?") is QUESTION PLANT and not Ch.26's GUT PUNCH ✓.
+
+**PACING: OK.**
+
+---
+
+## Genesis Score (Craft Assessment)
+
+| Dimension | Score | Evidence | Cap Reasons |
+|-----------|-------|----------|-------------|
+| Originality | **9.0** | Four elements:<br>(1) The mentor's place of power is a dead door, and he shows it off with pride: "That it was here! … Carter finds King Tut, and does he sit on it? He sends for somebody to come look." (l.376)<br>(2) The automat mutation, triggered by sulphur crystals: "Lemon meringue," (l.116) → "In his room, a year ago, it had been coconut cream. I let him have the lemon." (l.126)<br>(3) A baseball diamond scratched in the Sibyl's dust, with the Corycian knucklebone as third base (l.420–426).<br>(4) The cave keeper whose bees "made for Misenum" (l.254), against Fenn's "I went there once myself… For the pay." / "You came back, at least." (l.260–262). | none |
+| Theme | **9.0** | "What waiting for another life costs" is carried by acts and objects and never stated:<br>- "I'd check the hill in the morning before I checked the weather." (l.382)<br>- "You sit up with a sick friend, don't you? After that, once a year." (l.368)<br>- "Soon as I'm back I'm writing it up for the Geographic" (l.376)<br>- Mara's own waiting is mirrored: the satchel packed, tipped out and packed again "as I always did when I was a day from Pompeii" (l.56).<br>Texture is well over 30%: the sulphur scrapers, the oyster stakes, the sailor at his third letter, the coins gone green, the keeper's pot lid. | not 9.5: the coat story and the rope-walk room both point the same way within ~600 words. Each earns its place. |
+| Characters | **8.0** (uncapped 9.0) | **Fenn** is fully alive:<br>- "it's like eating something that's still making up its mind" (l.150)<br>- "I'm no great shakes on people, but I know that much." (l.162)<br>- "As a doornail… Door. Nail. No?" / "Tough room… Half the house. I've played worse." (l.348–352)<br>- tired fragments on the way back ("Long day." / "My feet.", l.466–470)<br>- "the left one went on going after the right had stopped" (l.364)<br>**Valens** reads ground literally ("It's resting the near hind", l.52; "She bites. Not hard.", l.78; "Hold that.", l.82) with no comparison and nothing remarked on.<br>**The keeper** has his own grief, the swarm.<br>**Lucius** stops on the bag.<br>**Mara's chaos is 4/4 inhabited** (below). | **Hand rule** (census below), four failures:<br>- keeper's sea-gaze 3 inside ~250 words<br>- Fenn's delight 4<br>- Fenn's stick 8<br>- Lucius absorbed 6<br>**Lexical:** Fenn's "guy(s)" 7.<br>**Nameable-rule test:** Mara's "And…?" interrogation run (6, with a triad at l.380/384/388).<br>**Spoken-beat reuse / logic:** the Ch.25 knees/belly exchange replayed (l.142–146).<br>→ **cap 8.0**, the same practice as Ch.24–26. |
+| Prose & Voice | **8.0** | **Stopping sentences:**<br>- "until the hill was full of a small bone falling." (l.408)<br>- "He kept his hand there anyway, a while past knowing and then a while past that" (l.324)<br>- "There was another one. That had been the whole of my night's hope, a door that was not his door, and here it was, and he was right about it, and it was a wall." (l.378)<br>- "I took it while his thumb was still trying." (l.218)<br>**Underlines:** "a man on the corner of Broad and somewhere in a wind, determined." (l.214); "his face did not change much, but it changed." (l.248); "the straw had been in them since the cold months, possibly the year before." (l.56).<br>**Ugly sentence:** "He gave me the look across her back that I had had from him…" (l.86); "The bread was dry and we ate it anyway." (l.184).<br>**Voice under pressure:** the boom drops her into body and command ("I had the rope off his wrist… without having decided to move." / "Fenn! Get off it!", l.108–110). At "Then why bring me?" the prose clips ("That was sharper than I meant", l.370). | not 8.5 at cycle 0:<br>- **83 unvaried echoes** (book standard 0)<br>- adverb / emotion tags "said Fenn gravely" (l.256) and "with great bitterness" (l.258), against voice-dna §1<br>- the "And…?" triad (Pattern #8)<br>- Fenn's Richie Allen line opens as a list<br>- Ch.25's landing re-told in its own frame (l.394 "Next thing I'm… in snow up to here" ← Ch.25 l.174 "Next thing, I'm on all fours in snow… snow to here")<br>- l.12 explains the Jupiter callback (#11)<br>- "August, you're frying" reads as a vocative to himself (l.340) |
+| Pacing | **8.5** | See PACING VS NEIGHBOURS. The bone's clatter (l.408) and the slide (l.442) are the speed peaks. The blind passage (l.316–400) is the designed stillness. | not 9.0: S2's middle stretch before the Zippo |
+| Emotion | **9.0** | **The anchor lands:** "I stood behind him with my daughter asleep against me and watched a man of nearly seventy wait for a wall to turn cold. No cold came; I saw it in the way his fingers lay, easy, no answer in them." (l.324).<br>**Surprise as designed:** Fenn on the window ledge versus "You walk like somebody's grandmother." / "I'm somebody's mother… Twice. The newer one's strapped to my front." (l.292–294); the slide into home.<br>**Body rebel:** l.108.<br>**Techniques:** humour in grief (the doornail), dramatic irony (the carbon: "That, he had no notion of.", l.400; "Once we're back… on top of the TV", l.232), withholding ("did not undo the buckle"), objects (Zippo, coat), memory mutation, and "It's the one I wanted." / "Of a lighter that won't light." / "Of you." (l.224–228). | none |
+| Immersion | **9.0** | The Solfatara's sulphur scrapers traced to Pompeii's fullers (l.98); the hollow boom; the Lucrine oyster stakes on the sandbar road; the silted Portus Julius on Avernus (l.172–174); Aornos; the Cumae dromos with pick strokes, trapezoidal section, side galleries and smoke-black chamber (l.268–312); the votives and the green coin-crack; a fleet sailor carving his name; Neapolitan Greek dropping its endings; Pithekoussai / Aenaria; Tarquin and the books. 1960s Philadelphia: the Boyd, the Spectrum, Wanamaker's, Richie Allen 1964. | not 9.5: the light galleries face the sea, which is the **left** of a visitor walking in from the entrance, and the page says "right-hand" (l.270) and "on your right" (l.274). "a century late" (l.174) is Fenn's hyperbole and is left alone. |
+| **FLOOR** | **8.0** | Characters, Prose | |
+| **AVERAGE** | **8.64** | (9.0 + 9.0 + 8.0 + 8.0 + 8.5 + 9.0 + 9.0) / 7 | |
+
+### Narrated-trait census: EXHAUSTIVE, cycle 0 (spec: >3 notes of one state, or 3 inside ~500 words, fails)
+**Class rulings, fixed here so later cycles do not re-litigate them:**
+- The Zippo business at l.204–230 is ONE designed frame (outline beat 1), not "the lighter in hand".
+- l.322–324 (palm, waiting) is the anchor, one beat.
+- Lucius's four single words (Smoke / Duck / Bone / Again) are design.
+- The satchel's five appearances are five different functions (pack, camera, fatigue, carbon, bone), so it is an object thread and not a state.
+
+| Character | State | Lines | Count / spacing | Verdict |
+|---|---|---|---|---|
+| Fenn | delight / grin | 112 delighted · 204 grinning · 348 the grin in his voice · 434 delighted | **4** | **FAILS** → C2 → 3 |
+| Fenn | the stick | 86 · 88 swinging · 128 with the stick · 138 thistle · 178 pointed · 242 planted · 420 drew · 502 on the stones | **8** | **FAILS** → C3–C5 → 5 (possession 86, three active uses 138/178/420, fade 502) |
+| Fenn | hat handled | 204 pushed back, off and replaced · 242 brim pulled down · 274 tipped · 376 clapped on (states 14/86/286/442 not counted) | 4 | **FAILS** (marginal) → C5 → 3 |
+| Fenn | jenny's rope on his wrist | 88 "the jenny's rope looped over his wrist" · 108 · 502 "the jenny's rope looped over his wrist" | 3; 88 and 502 are verbatim in-chapter | → C3 (88 recast) |
+| Fenn | tremor | 210 · 364 | 2 | OK |
+| Fenn | laughs | 390 · 442 | 2 | OK |
+| Fenn | walking backward | 274 · 278 | one beat, same words twice | → P7/P8 |
+| Fenn | SPENT Ch.25 states (talking on, break-offs, object-looks, taking in news, "slowly") | 188 stared at the Pentax (the trigger itself, not displacement) | 0 genuine | OK |
+| Fenn | "guy(s)" in speech | 30 · 124 · 162 ×2 · 208 · 288 · 426 | **7** | **WATCH → trim** C9–C13 → 3 |
+| Keeper | eyes on the sea | 246 staring out to sea · **254 his gaze kept to the sea** · **258 to the sea** | **3 inside ~250 words** | **FAILS** → C1 → 2 |
+| Keeper | pot lid | 246 · 254 · 456 | 3, spread | OK |
+| Lucius | absorbed watching | 36 intent on the harbor · 156 the fly · 184 the ducks · 264 gazing at the doorway · 306 watched the man in the window · 424 looked hard at the lines (410 listening, other sense) | **6** | **FAILS** → C6–C8 → 3 (184, 264, 424) + 410 |
+| Lucius | "fist" (narration) | 36 · 76 · 84 · 184 · 264 · 436 | 6 | WATCH → E58 → 5 (Ch.26 ran 5) |
+| Lucius | grips Mara's skirt | 76 · 264 | 2 | OK |
+| Aelia | asleep | 184 · 324 · 392 (290 in speech) | 3 narrated, spread | OK |
+| Aelia | wakes / feeds | 238 · 484 | 2 | OK |
+| Valens | looks at Mara | 86 | 1 | OK |
+| Mara | fatigue | 280 strap/feet/satchel · 306 leg · 404 "I wanted to sit too." | 3, spread (the designed surprise) | OK |
+| Mara | "And…?" question openers | 346 · 358 · **380 · 384 · 388** · 498 | **6; 380/384/388 a triad** | **FAILS** (nameable + #8) → C14–C16 → 3 (358, 380, 498) |
+| Mara | the "before I decided" reflex | 108 "without having decided to move" · 194 "before I had settled what to do about it" | 2 | → P6 → 1 (108 kept: it is the body rebel) |
+| Jenny | bites | 78 · 264 | setup and payoff | OK |
+
+### Nameable-rule test (AUTHOR-CP5-0b)
+- **Fenn:** the risk is lexical ("guy"), now trimmed. His refusal to be told the future ("Don't. Not one word about it", l.194) appears once and is his life (card: "asks questions and refuses the answers"). **Pass after C9–C13.**
+- **Mara:** the "And…?" interview run fails. **Fixed.**
+- **Valens:** no comparison and nothing remarked. **Pass.**
+- **Keeper:** the sea-gaze fails. **Fixed.**
+- **Lucius:** pass after the attention trim.
+
+---
+
+## CVI-Launch Breakdown (Commercial Assessment)
+| Input | Score | Evidence |
+|-------|-------|----------|
+| Commercial Pacing | 8/10 | A long chapter (7.7k), but 36% dialogue and Fenn every 300 words. The slow walk is deliberate, and the cave is the hold. |
+| Tomorrow Test | 4 anchors → 10 | IMAGE: the palm on the dead rock; the Zippo that won't catch, shot anyway; the bone clattering down the gallery. QUOTE: "it's like eating something that's still making up its mind" / "Door. Nail. No?" |
+| Casual Reader | 9/10 | See the reports. |
+| Shareability (quote/plot/emotional) | 4/2/4 → 8/4/8 → MAX 8 × 0.6 + AVG 6.67 × 0.4 = **7.5** | "a door can die" / the old man's hand / the coat |
+| Concept Pitch | yes (10) | "A woman lost in ancient Rome meets the only other time-traveller, an old American who has spent thirty-five years waiting at doors, and he takes her to see one that died." |
+| Human Closeness | yes (10) | A mother, her children and a lonely old man, all day |
+
+**CVI-Launch = 0.2(8) + 0.2(10) + 0.2(9) + 0.2(7.5) + 0.1(10) + 0.1(10) = 8.9, + 0.5 strong anchor = 9.4.**
+
+**CVI-Legacy (default weights)** = Originality 9.0 × .30 + Theme 9.0 × .25 + Cultural vocabulary 3 × .20 + Re-readability 7 × .15 + Identity 5 × .10 = 2.70 + 2.25 + 0.60 + 1.05 + 0.50 = **7.1**.
+
+Re-readability is high: "Once we're back… on top of the TV", "If I am still here, my friend", "Write me… Just that it's cold" and "You say that every year" all turn on re-read, with Ch.35 in hand.
+
+---
+
+## Anti-AI Scan (20 Patterns) — 7,681 words; commercial band (0–8 clean)
+1. Forced symmetry: **Found, 1** (minor). "It's the one I wanted." / "Of a lighter that won't light." / "Of you." (l.224–228) is earned.
+2. Empty poetic vocabulary: Clear.
+3. Rule of three: **Found, 4** (0.5/1k, moderate). l.280 strap/feet/satchel; l.338 "small, flat, a little worn"; l.218 "the stalk, the cupped hands, the thumb"; l.274 barker. All have varied syntax; none is an anaphora triad.
+4. Em-dashes: 1 (l.388). Clear.
+5. Empty metaphors: Clear.
+6. "And" openings: **Found, 6 in Mara's speech** (0.8/1k, moderate). See Pattern #8. → 3 after C14–C16.
+7. Pseudo-philosophical closings: **Found, 1** (minor). The S1 close, l.72 "I had seen good pieces come apart in the hands of people who could not leave them be." It is past-facing experience from her trade, not a universal, and it is kept. The chapter close is an image ✓.
+8. Excessive parallelism: **Found, 1.** "And you lived where…?" / "And after?" / "And before…" (l.380–388), an anaphora triad in speech (retired reflex). → C14–C16.
+9. Overly smooth transitions: Clear. The breaks cut hard.
+10. Described emotions: **Found, 4** (0.5/1k). "gravely" (l.256), "with great bitterness" (l.258), "delighted" ×2. → P1, P2, C2.
+11. Explanatory extension: **Found, 3** (0.4/1k, minor; under the cap of 6 / 0.8). l.12 "here was his Jupiter, cast from a stool…" explains the callback; l.210 "as smokers did on windy corners"; l.404 "since that was why it had come". → P3 cuts the first.
+12. Binary negation opener: Clear ("Nothing killed it." asserts; it does not define by negation).
+13. Precision flex: Clear ("eleven or twelve ducks" is deliberately loose).
+14. Emotional control demonstration: **Found, 1** (minor). "did not undo the buckle" (l.400) is withholding, not managing.
+15. Authoritative description: **Found, 1** (minor). The corridor (l.268–270) is confident but breaks with "Who cut it?" / "Who can say?".
+16. Philosophical asides: **Found, 1** (minor). Fenn: "Nobody ever went digging for the stuff they kept." (l.278) is racket cynicism in character, not wisdom. Kept.
+17. Clean dialogue: **Found, 1** (minor). The S3 interview run (When? / Why? / Did you keep coming? / Then why bring me?) is broken by the doornail joke and Lucius's laugh.
+18. Thematic echo chamber: Clear.
+19. Graduated reveal: Clear (walk → long fade, per the ledger).
+20. Emotional temperature report: Clear.
+
+**Total: 10 patterns present, most at minor weight** (commercial band "watch" 9–11). After the fix set, #6, #8 and #10 drop to trace and the total falls to about 7 (clean).
+
+## Laws scan
+- **NO FORESHADOWING:** clean. "Once we're back" and "If I am still here" are character belief and the reader's irony, never narration. No narrator line touches 79. The steam is texture ("the steam standing up behind us… until the hill shut it off", l.128). Lucius's "Smoke" is a child's word for steam (INFO-12 of the audit concurs).
+- **The mountain never named; "Margaret" never said; no tomb:** clean. Grep shows 0 for Vesuv / mountain / Margaret / tomb.
+- **No "don't end up like me", no "in (all) the years since", no closing aphorism:** clean ("Every winter since" is past-facing).
+- **Fenn never lists:** two near-lists remain. The Richie Allen stat line ("Third base, nineteen sixty-four, rookie of the year", l.426) → C17. The Ischia names (l.288) are an and-chain of what people call the place, which is his pattern-mind on its subject; kept.
+- **Retired reflexes:** one anaphora triad in speech (C14–C16). No define-by-negation. No performed candour. No device as a button: "Not hard, says the gladiator" closes a beat, not a scene.
+- **No spoken line reused:** the tool finds none. By hand there are three borrowings:
+  - the knees/belly exchange (Ch.25 l.172–174 → l.142–146) → F1
+  - "Next thing… snow to here" (Ch.25 l.174 → l.394) → C18
+  - "Jupiter sitting" (Ch.26 letter → l.10). This is a deliberate in-person callback; its wording is varied by P4.
+- **Closed / spent lists:**
+  - "a sap" and "swell" are at 2/2. F1 returns "a sap" to 1.
+  - "Horn and Hardart" was at 2/2 and a flagged echo. E27 says "the automat", which holds it at 1/2.
+  - "kid" 1, "okay" 1, "fellow" 1, "anyhow" 1: all within the WATCH caps.
+  - Ch.26 CUT strings: none restored (checked: "with the bone in his fist", "Luckies", "the big fellow", "talked American", "very carefully": 0).
+  - Ch.26 guards (1)–(13): all hold.
+- **Doors canon:**
+  - **CH27-1 (coordinator):** l.342–344 ("Like Eros's" / "Like Eros's, only colder") and l.488–496 ("Still cold?" / "It was cold on the last Kalends." / "Just that it's cold.") make Eros's resting door cold. Ch.19 is faintly cool → F2a–F2d. The dead door stays "warm like a wall's warm". Cumae alive was colder than Eros's ever is, and Fenn now says so himself ("Eros's is a little one. This was a beauty.").
+  - **Ch.25 cascade:** Ch.25 l.258 still reads "Shut tight. Warm in the sun, like everything else on that road." of Eros's door in 62. By the law Ch.27 states, that describes a dead door, and Fenn then waited on it for seventeen years. The continuity repair fixed l.314 and missed this line. → **X1** (finalized chapter; orchestrator's call; tested).
+
+---
+
+## Character Chaos Check (Primary — Mara)
+- **Irrelevant thought: present.** The sulphur browning Grata's bronze crescent and "Grata would demand to hear who had let her good bronze go brown as a bad tooth" (l.104); the fuller's sulphur traced to its source (l.98).
+- **Cognitive distortion: present.** The night's hope for a door "whose rhythm owed nothing to tables worked backward from a schoolbook" (l.72). This is the refusal's fig leaf in action.
+- **Unprompted memory: present, triggered and returning.** Lucius bearing the bone "the way the Delphi priests bore the god's things in procession" (l.454).
+- **Failed emotional management: present.** "That was sharper than I meant, and Lucius startled at the sound." (l.370).
+- **Voice under pressure: demonstrated.** At the boom (l.108–110) and at the wall (l.378, the and-chain collapse of hope).
+
+## Secondary Character Chaos
+- **Fenn:** has his own moments, many: the automat mutation, the coat he can still feel, "the left one went on going", Kirk Douglas "bawled like a baby… and don't you tell him that".
+- **Valens:** his own moment. The hoof, the hat, and "Is it the door… that he wants to show you?" (l.58). The satchel goes unremarked: "If he made anything of the satchel he kept quiet about it" (l.70).
+- **The keeper (walk-on):** his own moment, the swarm and "What does a bee want with Misenum?".
+- **Lucius:** his own moment. He stops on the bag and waits "to be told what that had been" (l.436).
+
+---
+
+## The Tomorrow Test
+**What the reader remembers:** an old man's hand spread on a wall in the dark, waiting for it to turn cold, "a while past knowing and then a while past that". Then the same man sliding into home plate in the Sibyl's dust with his hat gone.
+**Anchor type:** BOTH (image: the palm, the Zippo shot while the thumb is still trying, the bone falling down the gallery; quote: "still making up its mind", "Door. Nail. No?").
+**Verdict:** ANCHOR EXISTS. It is not a repeat of the Ch.26 type (a document read aloud).
+
+**Shareability:** "He takes her to see a door that died, and he's proud of it." / "He tries to light a lighter that hasn't worked in thirty-five years so she can take his picture."
+
+---
+
+## Reader Reports
+### The Devourer
+- Hooked by line 10 (Fenn holding the baby up: "the whole of Jupiter… like a shaving brush").
+- Speeds through the boom and the meringue, slows over oysters → Avernus → lunch, and is caught again by "Is that a camera?".
+- S3 does not let go, and the bone down the gallery is a pure page-turn.
+- Would finish. Would not stop anywhere.
+- Minor: the road is long before the cave.
+
+### The Critic
+- Underlines l.324 ("a while past knowing…"), l.378 ("and it was a wall") and l.408 ("a small bone falling"), plus "In his room, a year ago, it had been coconut cream. I let him have the lemon."
+- Admires that the lesson is never spoken.
+- Disappointed by: "said Fenn gravely" (a tag adverb in a book that otherwise refuses them); Mara's three stacked "And…?" questions in a row (l.380–388); the Jupiter callback explained (l.12); and, on a careful read, phrases that have appeared in earlier chapters (83 by the tool).
+
+### The Hostile
+- "Fenn asks how she went in, and she already told him, in his own room, a year ago (Ch.25)."
+- "Eros's door is 'cold on the last Kalends', but Mara felt it faintly cool in full sun. And in Ch.25 Fenn found it 'warm in the sun, like everything else', which by this chapter's own law means dead."
+- "Fenn slept a week at the cave mouth, but in Ch.25 he 'hiked up there first thing'."
+- "'August, you're frying' — is he talking to himself?"
+- "The windows face the sea; walking in, the sea is on your left."
+- "If the live door silenced footsteps along the whole corridor (l.356), why wasn't the Sibyl's cave known as the silent cave?" (INFO only: this can stand as the legend's seed.)
+
+### The Casual Reader — 9.0
+- Buys at the airport on the strength of Fenn.
+- They LIKE him instantly ("people tell me I'm no good at my job").
+- They feel the ache without being told: the lighter, the coat, "Write me… Just that it's cold."
+- They would tell a friend "there's this old guy…". The cave sags nowhere for them.
+- No vibes problem.
+
+### The Devoted Reader (active)
+- Will notice:
+  - "home" said only as home plate
+  - the carbon withheld in the satchel (pays off at Ch.35)
+  - the Zippo frame against Ch.35's single catch
+  - "If I am still here, my friend." / "You say that every year."
+  - the Ch.26 "Jupiter" in person
+- Will write the Reddit post about the coat.
+- Would also catch the replayed Ch.25 exchange and the Eros's-door temperature drift. Both are fixed by F1 and F2.
+
+## Cross-Reader Matrix
+| Issue | Devourer | Critic | Hostile | Casual | Devoted | Severity |
+|---|---|---|---|---|---|---|
+| Ch.25 knees/belly exchange replayed (l.142–146) | | ✓ | ✓ | | ✓ | SHOULD FIX (logic; fixed first) |
+| Eros's door made cold / Ch.25 l.258 warm (door law) | | | ✓ | | ✓ | SHOULD FIX (canon) |
+| Coat week vs Ch.25 "first thing" | | | ✓ | | ✓ | INVESTIGATE → F3 |
+| 83 cross-chapter echoes | | ✓ | ✓ | | ✓ | SHOULD FIX (book standard) |
+| Census failures (keeper gaze, Fenn delight/stick, Lucius watching) | | ✓ | ✓ | | | SHOULD FIX |
+| "And…?" triad; tag adverbs; Richie Allen list | | ✓ | | | | INVESTIGATE (fixed: cheap) |
+| Gallery side (left, not right) | | | ✓ | | ✓ | INVESTIGATE → F6 |
+| S2 middle long | ✓ | | | | | INVESTIGATE (no change: texture) |
+
+---
+
+## Revision Recommendations (Ranked) — ONE fix set, all tested
+Script: `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes27/apply_fixes.py <chapter-27.md> [<chapter-25.md>]`. It runs **104 replacements** on Ch.27 (+1 optional on Ch.25). Each must match exactly once or the script aborts and writes nothing; a re-run aborts safely.
+
+**Tested on a scratch copy** of the book folder (`…/scratchpad/eval27/`):
+- `bash tools/check_chapter.sh 27`: **ALL MECHANICAL GATES CLEAN**.
+- `--gate`: clean.
+- **`--echoes 27`: 0 echoes**, 0 command echoes, 0 spoken-line echoes (from 83).
+- `check_chapter.sh 25` (with X1): clean. `--echoes 25`: 0.
+- Ch.27-only mode (no X1) is also clean, with 0 echoes.
+- Shape is **7,526** words (99% of target), dialogue **36.1%**, median 17, `I-statement` → `long-fade` unchanged.
+- Result md5s: Ch.27 `6441a8e8c82e78d686d560e2574895d8`, Ch.25 `d2ceac85d25f8765e6a260da1027f48d`.
+
+**How the replacement strings were checked:**
+- Against Ch.1–26 and the bible's CUT/SPENT lists and closed frames ("planted himself" and "snow coming" were rejected as Lucius/Valens echoes and replaced).
+- Several first drafts tripped the gate and are **not** in the script: "loosened my tunic at the throat" (a Ch.25 self-repeat), "every one of them", "most of what", "opened his hands", "at our backs", "stepped into the", "took it away", "a good while", "till the sun", "through his teeth", "near the bottom".
+- No earlier pass's cut is restored.
+- The opener and the palm-on-rock anchor are untouched. The close is touched only by echo-only word swaps (E12–E14).
+
+| ID | Location | Problem type | What happens now | Why it fails | Revision direction (exact, in script) | Project rule? |
+|---|---|---|---|---|---|---|
+| F1 | l.142–146 | Logic / Voice | "How'd you go in, belly down?" / "Kneeling. Sideways…" / "On your knees, for crying in the sink. Me, I crawled it flat like a sap…" | Ch.25 l.172–174 already played this exact exchange; Fenn asks what he was told (CH27-3) | End Fenn's speech at "…like I owed it a letter." and cut the two lines (−33 quoted; "a sap" returns to 1/2) | Yes: no in-person beat replays a Ch.25 exchange |
+| F2a–d | l.342–344, 490–496 | Continuity | "Like Eros's," / "Like Eros's, only colder." / "Still cold?" / "It was cold on the last Kalends." / "Just that it's cold." | Eros's resting door is faintly cool (Ch.19); the beef-cold comparison attaches to it (CH27-1) | "Eros's is only cool," I said. / "Eros's is a little one. This was a beauty. …" / "Still cool?" / "It was cool on the last Kalends." / "Just that it's cool." | Yes: Eros's door is "cool" every time until the plan escalates it |
+| F3 | l.394 | Continuity | "I slept up at that mouth in it a week… The day I went in I shucked it" | Ch.25 l.170 "I hiked up there first thing" (CH27-2) | "I sat at that mouth in it for hours, waiting on the cold…" / "When I did go in I shucked it" (the sunup breath stays; he arrived at dawn) | No |
+| X1 | **Ch.25** l.258 | Continuity (cascade) | "Shut tight. Warm in the sun, like everything else on that road." | By the Ch.27 law, warm = dead; Fenn then waits 17 years on it | "Shut tight. Cool under my hand with the sun on it, and not a breath out of it." (tested; finalized chapter, orchestrator's call) | — |
+| F4 | l.340 | Logic (clarity) | "August, you're frying out on that terrace" | Reads as a vocative to August Fenn | "In August you're frying out on that terrace" | No |
+| F5 | l.310 | Logic | "Come on, it's at the bottom," | The door is short of the room | "Come on, it's down this end," | No |
+| F6 | l.270, 274 | Immersion | "Along the right-hand wall…" / "on your right the windows" | The galleries open west to the sea, which is the visitor's left; the light paragraph also carries 5 echoes | Left-hand / on your left. The paragraph is recast: "driven through to the cliff face… and each let the afternoon in. It came low… and fell across the floor… so bright the pick strokes stood out in it like writing;" | No |
+| C1 | l.254 | Character (census) | "His palm came out for the coins; his gaze kept to the sea." | Keeper's sea-gaze 3 inside ~250 words | "His palm came out for the coins." | No |
+| C2 | l.434 | Character | "Fenn asked me, delighted." | Fenn's delight 4 | "Fenn asked me." | No |
+| C3–C5 | l.88, 128, 242 | Character | "swinging the stick, the jenny's rope looped over his wrist… Our street climbed"; "walked ahead with the stick"; "with his stick planted and his hat brim pulled down" | Stick 8, hat 4; 88 and 502 repeat "the jenny's rope looped over his wrist" verbatim; "climbed" ×2 | "the jenny's rope round his wrist… Our street rose between garden walls"; "Fenn walked ahead and then dropped back"; "He admired it until she was done." | No |
+| C6–C8 | l.36, 156, 306 | Character | ", intent on the harbor" / "A fly on the jenny's neck had Lucius's attention…" / "and watched the man in the window" | Lucius absorbed 6 | Cut all three | No |
+| C9–C13 | l.30, 162, 208, 286–288 | Voice (lexical) | "guy" ×7 | One word doing all of Fenn's people (nameable) | "whoever drew it"; "I've seen men built like that"; "Like the Marlboro man." (new period reference, 1/2); "his white hair on end" + "straight down there's a fisherman asleep" | Yes: Fenn "guy" ≤3 per chapter |
+| C14–C16 | l.346, 384, 388 | Style #6/#8 | "And it's dead." … "And after?" / "And before, when you first—" | 6 "And…?" openers; triad 380/384/388 | "It's dead." / "After it died?" / "Before Cumae, when you first—" | No |
+| C17 | l.426 | Character (Fenn never lists) | "Third base, nineteen sixty-four, rookie of the year, the only guy…" | Three-item stat list | "He played third in sixty-four and got rookie of the year, the only guy…" | No |
+| C18 | l.394 | Voice (spoken reuse) | "Next thing I'm crawling around Phocis in my shirtsleeves in snow up to here, and it's forty-one." | Ch.25 l.174 "Next thing, I'm on all fours in snow… snow to here" | "Then it's forty-one, and I'm in my shirtsleeves in Phocis with snow falling on me." | No |
+| P1–P2 | l.256, 258 | Style (voice-dna §1) | "said Fenn gravely." / "said the keeper to the sea, with great bitterness." | Tag adverb; emotion told in a tag | "said Fenn." / "said the keeper to the sea." | No |
+| P3–P4 | l.10, 12 | Style #11 / reuse | "the whole of Jupiter sitting up there…"; "here was his Jupiter, cast from a stool in his room on a night of rain, sticking up at the gulls." | Explains his own callback; "Jupiter sitting" is the Ch.26 letter's wording | "the whole of Jupiter up on top like a shaving brush"; end at "…would lay down." | No |
+| P5 | l.72 | Style | "within five minutes of first hearing my voice" | Echoes the outline's Ch.25 subversion ("first five minutes"); "Five minutes" ×2 in chapter | "the same afternoon he first heard my voice" | No |
+| P6 | l.194 | Style (reflex) | "drew it back before I had settled what to do about it." | 2nd "before I decided" frame in chapter | "drew it back." | No |
+| P7–P8 | l.274, 278 | Style / echo | "walking backward, and spread his arms" … "He walked backward out of the light. 'That's the whole racket, kid." | Same words twice in one beat; Ch.5 echo | "…swung round to face us and went on backward with his arms spread wide." … "He backed away out of the light. 'That's the racket, kid." | No |
+| E1–E67 | throughout | Style (echo scan) | 83 cross-chapter 2nd uses (e.g. "a little before", "between his knees", "from the doorway", "small and yellow", "the morning before", "tell your mister", "through his nose", "the neck of my tunic") | Book standard: 0 before the evaluator (Ch.24–26 = 0) | One-word or one-clause swaps, each tested; full list in the script (e.g. "short of the room", "up on his knee… inside the rim of the hoof", "from the entrance", "lit yellow down the mole", "I'd check the hill mornings…", "Don't tell Valens about the slide.", "He laughed at himself a little.", "opened my tunic for her") | **Yes (pipeline):** check_chapter step 5c should FAIL on echoes > 0 and tic_report should print all of them, not the first 60 |
+
+### Fix order: Logic/Character (F1–F5, X1, C1–C18) → Structural (none) → Connective (F6) → Prose (P1–P8, E1–E67) → Factual (F6 orientation)
+
+### Bookkeeping for finalize (not page edits)
+- **Bible re-sync of the Ch.27 SPENT lines changed by the fix set:**
+  - "Just that it's cold" → "cool"
+  - "I mean to watch your face when you've got nothing to argue with"
+  - "It's never the stuff they kept" → "Nobody ever went digging for the stuff they kept"
+  - "If I'm still here" → "If I am still here"
+  - "Don't tell Valens about the slide."
+  - "I'd check the hill mornings before I checked the weather"
+  - the coat as "sat at that mouth… for hours"
+  - "for crying in the sink" and Fenn's "a sap" no longer on the page
+  - Horn & Hardart held at 1/2
+  - "the Marlboro man" period reference 1/2
+  - Fenn's "guy" 3
+- **The bible's Ch.27 Fenn block** still quotes the cut wick line, "walks the way he talked" and the notebook clause.
+- **ENTITY:** Eros's door "cool at the last Kalends"; the Cumae door's live cold stated as greater than Eros's ("Eros's is a little one"); Ch.25 l.258 re-quote if X1 is applied.
+- **Header:** em-dash is 1, not 0.
+
+## Strengths to PRESERVE
+- The opening claim (l.8) and the long fade, whose words are untouched except the echo swaps.
+- The Zippo frame, l.204–232: the grass stalk, "a man on the corner of Broad and somewhere in a wind", "I took it while his thumb was still trying", "Of you.", "on top of the TV where the company can see it".
+- "Lemon meringue," → "I let him have the lemon."
+- The keeper and his swarm; "I went there once myself… For the pay." / "You came back, at least."
+- The anchor paragraph l.322–324, verbatim.
+- "As a doornail… Door. Nail. No?" / "Tough room."
+- "I can hear my feet." / "Warm like a wall's warm".
+- "That it was here!" and Carter / King Tut.
+- "There was another one… and it was a wall." (E48 changes only "There was" → "There had been".)
+- The coat and the carbon withheld ("That, he had no notion of.").
+- "until the hill was full of a small bone falling".
+- "That's home," as home plate, the only "home" he gives this century.
+- The slide.
+- "Write me… And if it isn't?" / "It will be,".
+
+---
+
+## PATH TO 8.5
+- **Characters 8.0 → 8.5 requires:** the census under cap and no replayed Ch.25 beat.
+  - Apply F1 (cut the knees/belly replay), C1 (keeper gaze), C2 (delight), C3–C5 (stick and hat), C6–C8 (Lucius watching), C9–C13 ("guy" 7 → 3), C14–C16 (Mara's "And…?" triad), C17 (the stat-line list) and C18 (the Ch.25 landing frame).
+  - All are cuts or one-clause recasts. Fenn's comedy, the keeper's swarm and Lucius's four words are untouched.
+  - After the fix set every state in the census table is ≤3 and none is 3-in-500. The nameable-rule test passes for Fenn, Mara and the keeper.
+- **Prose 8.0 → 8.5 requires:** the book's hygiene standard met and the craft slips gone, since the stopping sentences already qualify (l.324, l.378, l.408).
+  - Apply E1–E67 (echo scan 83 → 0).
+  - Apply P1–P2 (no tag adverb or emotion tag), P3–P4 (the Jupiter callback trusted, not explained), P5–P8 (plan echo, the decided-reflex, the doubled "walked backward").
+  - The anchor and the protected passages keep their words.
+
+**Projected after the fix set:** Originality 9.0 · Theme 9.0 · Characters 8.5 · Prose 8.5 · Pacing 8.5 · Emotion 9.0 · Immersion 9.0 (F6 corrects the orientation; it stays at 9.0 under the +0.5 rule) → **Floor 8.5 / Average 8.79**, Casual 9.0. Each dimension moves no more than +0.5.
+
+## VERDICT
+**POLISH.** Floor 8.0 (Characters, Prose) < 8.5. Casual 9.0 ✓. Pacing OK ✓. The mechanical exit code is clean, but the echo standard is ✗ (83).
+
+Apply `apply_fixes.py` to `manuscript/chapters/chapter-27.md` (and, at the orchestrator's discretion, to `chapter-25.md` for X1), re-run `check_chapter.sh 27` and `--echoes 27`, then re-evaluate (cycle 1).
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

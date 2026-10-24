@@ -255,7 +255,7 @@ He left the stool for his table. "You asked the Oracle of Delphi, and it told yo
 
 "You went."
 
-"I crawled off that cot and went, soon as my legs would hold me, and I fell down twice on the road. And it was shut." For once he was quiet. "Shut tight. Warm in the sun, like everything else on that road. I'd missed it by four days. I had a fever, and I missed it."
+"I crawled off that cot and went, soon as my legs would hold me, and I fell down twice on the road. And it was shut." For once he was quiet. "Shut tight. Cool under my hand with the sun on it, and not a breath out of it. I'd missed it by four days. I had a fever, and I missed it."
 
 The lighter had gone still in his fingers. He slid it away inside his robe.
 

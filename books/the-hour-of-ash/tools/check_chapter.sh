@@ -28,7 +28,14 @@ line "4. SHOW/TELL (too-descriptive) — chapter row + any book-wide heavies for
 python3 tools/show_tell_check.py 2>&1 | grep -E "chapter *wds|chapter-${N}\.md"
 line "5. VOICE-WEAR (strict: self-repetition BLOCKS — tic budget 0)"; python3 tools/voice_wear_check.py 2>&1 | grep -iE "\[.*\].*ch |RETIRED|RESULT"
 line "5a. TIC GATE (any non-allowlisted phrase 3+ times book-wide = defect)"; python3 tools/tic_report.py --gate 2>&1 | sed -n "/AUTO-RECURRENCE/,\$p"
-line "5c. ECHO SCAN (2nd uses of an earlier chapter's phrase — vary them before the evaluator sees them)"; python3 tools/tic_report.py --echoes "$N" 2>&1 | head -40
+line "5c. ECHO SCAN (2nd uses of an earlier chapter's phrase — vary them before the evaluator sees them)"; python3 tools/tic_report.py --echoes "$N" 2>&1 | head -120
+E=$(python3 tools/tic_report.py --echoes "$N" 2>&1 | grep -oE "^RESULT: [0-9]+ echo" | grep -oE "[0-9]+" || echo 0)
+# Chapters finalized before the echo gate became a hard fail (2026-10-24) keep their advisory echoes until Phase 5
+# revision clears them; they are listed in tools/echo_grandfathered.txt. Every new chapter must reach 0.
+if [ "${E:-0}" -gt 0 ]; then
+  if grep -qx "$N" tools/echo_grandfathered.txt 2>/dev/null; then echo "   (advisory: ${E} echoes — chapter grandfathered; clear in Phase 5)"
+  else echo "RESULT: FAIL — ${E} cross-chapter echo(es); vary every one before the evaluator sees the chapter"; fi
+fi
 line "5b. METAPHOR/SENTENCE-SHAPE (register: figurative load + long-sentence %)"
 python3 tools/metaphor_check.py 2>&1 | grep -E "wds|^ *${N} " | head -2
 python3 tools/metaphor_check.py "$N" >/dev/null 2>&1 || echo "   ^ over a figurative ceiling (FIG>4.0/1k or LONG>18% of sentences) — split/trim"

@@ -559,7 +559,7 @@ def main():
         hits = echo_scan(allfiles, a.echoes, allow)
         print(f"ECHO SCAN — chapter {a.echoes}: phrases already used in an earlier chapter (2nd use; vary them now)")
         if not hits: print("  none — no cross-chapter echoes.")
-        for L,j,chs in hits[:60]:
+        for L,j,chs in hits:
             print(f"  \"{j}\"  (earlier in ch {','.join(map(str,chs))})")
         pn = pronoun_echo_scan(allfiles, a.echoes)
         for j, chs in pn:
