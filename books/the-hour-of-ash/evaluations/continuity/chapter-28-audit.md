@@ -166,3 +166,43 @@ suggested_patches:
     action: "create"
     value: "late spring AD 76; the games nine days after the return from Puteoli"
 ```
+
+---
+
+## Repair log (book-editor, 2026-10-24)
+
+Pre-repair backup: scratchpad copy only (not in the book folder). After the repair: body 6,677 words (shape 6,664), dialogue **30.5%** (shape 31%), band 25–35. `bash tools/check_chapter.sh 28` prints **ALL MECHANICAL GATES CLEAN** (echo scan 0, tic gate clean, voice-wear strict clean, shape clean). ENTITY_STATE, character-bible, foundation and outline were not touched. The bible's "Grata's boy" walk-on strike (CRIT-002 cascade) and the YAML patches are left to their owners.
+
+| Item | Status | How / why skipped |
+|---|---|---|
+| CRIT-001 | done | l.46: the fed-and-watered sentence is now "He left your stable mucked out, in the dark." "I give him that" goes with it. |
+| CRIT-002 | done | l.46: "…my husband's no use on a road." l.48: the boy and the coppers are cut, so the paragraph is "Valens slipped the dun's lead." |
+| CRIT-003 | done | "nothing had ever seemed surer." |
+| CRIT-004 | done, varied | The audit's "You know him?" put the tag next to the question as "she said. "You know…", which made 3x "said you know" book-wide (Ch.1, 25, 28) and failed the tic gate. The line is now `"You know that bird?" she said.` with no belonging frame. "Mine," said Valens is untouched. |
+| CRIT-005 | done | "Course she did." |
+| CRIT-006 | done | "From when?" |
+| CRIT-007 | done | Cut l.24's "and after that he had said nothing", the whole l.200 mouth paragraph, l.232's "who gave no answer", and l.268's "without another word". Narrated silences are now 3 (l.14, l.86, l.308). |
+| WARN-01 | done | "since Herculaneum". |
+| WARN-02 | done | "its edges rubbed soft." |
+| WARN-03 | done, varied | I did not use "The dun's kicking": the law asks that the dun's problem stay a foot matter. The line is now "The dun's cracked a hoof." That is a bare-hoof problem, matching the Ch.24 trimming, and it involves no shoe or nails. |
+| WARN-04 | done | "the benches roar"; "The seats were half full when we climbed to the top". |
+| WARN-05 | done | "We sat through the hunt and two pairs." |
+| WARN-06 | done | "Wash that." |
+| WARN-07 | done | "and he laughed, with the whole yard watching." |
+| WARN-08 | done | "Felix went red to the collar." |
+| WARN-09 | done | The hunched shoulders are cut. |
+| WARN-10 | done | "his toga very white" is cut. |
+| WARN-11 | done | "I was standing too." (the Ch.27 involuntary frame is cut). The grit-in-the-palms control break remains. |
+| WARN-12 | done | "Because my arms won't hold the board up." |
+| WARN-13 | done | "She considered her white legs in the water." |
+| WARN-14 | done | "…clear of the basin and twisted it, and gray drips…". The grip census is now 3. |
+| WARN-15 | done | "Valens gave the writing no glance at all." / "The Gaul made a face at Lucius, crossing his eyes." Watching is now 3. This also removes the doubled "his father's arm" in l.366. |
+| WARN-16 | done | "then he was in our doorway". |
+| WARN-17 | done | "Nicanor rose and came to stand in our doorway." / "who'd had a bowl of her chickpeas and said". |
+| WARN-18 | done | "She sells eggs in the forum." |
+| I-01, I-02, I-05–I-10, I-12, I-13, I-15, I-16 | no action | These are confirmations or watches. No gesture was added (I-15). |
+| I-03 (l.240 untagged) | skipped | The line reads as Valens's in context. Adding a tag would add a beat for no gain. |
+| I-04 (greaves over the knee) | skipped | Optional, and the "knee to instep … so high" image stands. |
+| I-11 | done, varied | This was the you-address after the fact. The audit's wording "could not have said" echoed Ch.6, so the line is now "and by supper could not name one thing about it." |
+| I-14 Stabiae/Stabian | skipped | "on the Stabian road" fails the echo scan against Ch.20. "Stabiae road" (the road to Stabiae) is accurate, so it stays. |
+| I-14 header | done | Line 6 now carries the current counts. Other I-14 nits (the "knew" cluster, "every soul but one") are left as they are. |

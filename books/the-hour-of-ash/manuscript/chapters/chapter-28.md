@@ -3,13 +3,13 @@
 #### *Pompeii · AD 76*
 
 <!-- SCENE BUDGET (Target 7,000; In medias res, the bout -> the week that led to it -> the bout's end; 4 breaks / 5 sections; gear low; dialogue 25-35%): S1 the bout begins, thraex against murmillo, Valens in the top ring with Lucius on his knee, the first pass 1,050 | S2 nine days earlier: back from Puteoli, Grata's news, the shop corner, the night talk; the painted notice; the fuller's girl at the vats and the sherd 1,750 | S3 the lanista on the page (the rule; Valens thinks he is being cheated); Felix brought home by Nicanor; the argument over the contract; Prima's message; the bowl; Nicanor's verdict (the greaves) and wrong prediction 2,000 | S4 the week; Prima's answer at the fountain; Mara sure he will do something; his decision to watch from the top; his first fight; the morning, the parade of fighters 900 | S5 the bout's end: dull, the strap, the whips, the cut, both sent off standing, the jeering; the tunnel under the seats, the unfinished palm, Felix's line 1,300 -->
-<!-- Word count: shape 6,945 / show-tell ~6,970 / wc incl. header ~7,150 | Writer draft 2026-10-24 | Target: 7,000 (99%) | Sections ~950 / ~1,980 / ~2,170 / ~1,220 / ~1,330 | Dialogue 31% shape (band 25-35) | Breaks 4 | Median sentence 11-12 (gear low) | Opens short-punch ('The crowd roared for the wrong man.', 7 words; hook IN MEDIAS RES), closes dialogue (Felix: 'When they were all up shouting, I looked for you,' ... 'You were sitting down.'; pull EMOTIONAL GUT PUNCH / dramatic irony, not a question plant) | Em-dash 0 | as-if 0 | And-chains 3 | Credential asides 0 | Negation pivots 0 | 'So' openers 0 | Spoken 'Then...' 2 | Echoes 0 | check_chapter.sh 28 ALL MECHANICAL GATES CLEAN | Anchor: Valens in the top ring, Lucius on his knee, the one man sitting while the whole bowl stands and Felix fights below -->
+<!-- Word count: shape 6,664 / body 6,677 | Revision: continuity repair (chapter-28-audit) | Issues addressed: 7 CRIT + 18 WARN + 3 INFO | Date: 2026-10-24 | Dialogue 30.5% (shape 31%, band 25-35) | Breaks 4 | Median sentence 11 (gear low) | Opens short-punch ('The crowd roared for the wrong man.'), closes dialogue (Felix: 'You were sitting down.') | Em-dash 0 | And-chains 3 | Echoes 0 | check_chapter.sh 28 ALL MECHANICAL GATES CLEAN | Anchor: Valens in the top ring, Lucius on his knee, the one man sitting while the whole bowl stands -->
 
 The crowd roared for the wrong man.
 
 They knew him. He had fought on that sand twice already, according to the woman on my left, and twice he had walked off unhurt, and they called him Rusticus because he had a field somewhere up the Nola road and returned to it afterward with his purse to weed. When the herald cried the pair, the benches answered Rusticus from every side. Felix's name went up after it into the noon, and nobody caught it.
 
-"His wife's my husband's niece," the woman said, to the bench at large. "She sells eggs by the Nucerian gate. She won't come and watch him. She says she can't watch a man she has to cook for." She kept a hand on a bag in her lap. "Who's the bird?"
+"His wife's my husband's niece," the woman said, to the bench at large. "She sells eggs in the forum. She won't come and watch him. She says she can't watch a man she has to cook for." She kept a hand on a bag in her lap. "Who's the bird?"
 
 I could have told her. I watched the sand instead.
 
@@ -21,7 +21,7 @@ Valens sat beside me with Lucius on his knee.
 
 We were up in the last ring of benches, beneath the masts that held the awnings, among the wives and grandmothers and the men in dark tunics who sat at the top because the good seats were spoken for. Under our feet the seats dropped away band after band to the painted parapet, and down past it all spread the oval of sand, raked in long lines that the morning's pairs had scuffed out at the middle.
 
-Lucius sat facing outward, his spine to his father's belly and both legs stuck straight over his father's knee. His father had told him to watch Felix, and he was watching Felix. When the thraex first stepped out he had leaned hard on Valens's arm and said, "Lix," loud enough to turn the two women on the bench in front, and after that he had said nothing.
+Lucius sat facing outward, his spine to his father's belly and both legs stuck straight over his father's knee. His father had told him to watch Felix, and he was watching Felix. When the thraex first stepped out he had leaned hard on Valens's arm and said, "Lix," loud enough to turn the two women on the bench in front.
 
 Rusticus walked to his mark behind a shield as tall as his chin, curved about him like a stave of a barrel, painted red; his helmet wore a fish for a crest. He planted the shield's foot and settled in behind it. Of him there showed a helmet, one shin and a sword.
 
@@ -41,11 +41,11 @@ Felix set his feet and went in again.
 
 * * *
 
-Nine days before, we had returned from the Puteoli loads at the end of a long day on the bay road, with the four mules in a string behind and Lucius sleeping in a pannier with his cheek on a sack of meal. Aelia had slept since the Sarno bridge with her mouth on my collarbone. The street had gone blue with evening and its shutters were all up. Grata was round her marble and out to us before the dun had come to a stop.
+Nine days before, we had returned from the Puteoli loads at the end of a long day on the bay road, with the four mules in a string behind and Lucius sleeping in a pannier with his cheek on a sack of meal. Aelia had slept since Herculaneum with her mouth on my collarbone. The street had gone blue with evening and its shutters were all up. Grata was round her marble and out to us before the dun had come to a stop.
 
-"He's gone to the gladiators. He went the very next day after you, before the bakers had their fires lit, and I'd have sent after you if I'd had a soul to send, but my husband's no use on a road and my boy's no use anywhere. He swore himself in the forum, the whole oath, and the fuller's girl had it from him first and the fountain had it from her by noon. He left your beasts fed and watered for two days and the stable mucked out, he did it in the dark, I give him that, and after that my boy did them, and you'll give him something for it, he did them badly but he did them. His blanket's gone. That bowl of his is still on your shelf. He's to fight at the duumvir's games, nine days from now, the painter's had it up on the bath-house wall since yesterday, twenty pairs and the awnings, and the fuller's girl says he's to be a Thracian, whatever that means to her." She lifted Aelia out of the sling and settled her on her own shoulder. "Give her here. You're dropping where you stand, the pair of you, and the boy's got meal up his nose."
+"He's gone to the gladiators. He went the very next day after you, before the bakers had their fires lit, and I'd have sent after you if I'd had a soul to send, but my husband's no use on a road. He swore himself in the forum, the whole oath, and the fuller's girl had it from him first and the fountain had it from her by noon. He left your stable mucked out, in the dark. His blanket's gone. That bowl of his is still on your shelf. He's to fight at the duumvir's games, nine days from now, the painter's had it up on the bath-house wall since yesterday, twenty pairs and the awnings, and the fuller's girl says he's to be a Thracian, whatever that means to her." She lifted Aelia out of the sling and settled her on her own shoulder. "Give her here. You're dropping where you stand, the pair of you, and the boy's got meal up his nose."
 
-Valens slipped the dun's lead. Grata's boy had followed her out and stood rubbing one bare foot on the other, hoping to hear what he was owed, and Valens dropped two coppers in his palm, no questions asked. The boy looked at them and ran.
+Valens slipped the dun's lead.
 
 "Which troupe?"
 
@@ -71,7 +71,7 @@ He came to bed late. Past the curtain the shop was so quiet that the lamp was th
 
 "He went there afternoons. After the loads."
 
-"Since when?"
+"From when?"
 
 "Since the must was in the vats." He lay flat. "Nicanor had him sweeping the yard first. Holding the posts for the others. On the posts himself by the new year."
 
@@ -111,7 +111,7 @@ She saw me at the doorway and kept on treading.
 
 "He made it sound like nothing." She bent and hauled up an end of the cloth under her feet, dripping, and showed me a long brown stain down its length. "This is the duumvir's wife's. It went in with wine on it and it'll come out with wine on it and they'll say it was me." She let it drop. "He left me this. He said to keep it."
 
-She fished inside her neckline for a flat piece of red pot with scratched capitals across it, its edges rubbed soft by his pocket. ΦΗΛΙΞ. I had scratched those capitals myself, in Valens's shed below Delphi, the winter we met.
+She fished inside her neckline for a flat piece of red pot with scratched capitals across it, its edges rubbed soft. ΦΗΛΙΞ. I had scratched those capitals myself, in Valens's shed below Delphi, the winter we met.
 
 "It says Felix," I told her.
 
@@ -119,13 +119,13 @@ She fished inside her neckline for a flat piece of red pot with scratched capita
 
 The twin had dropped the strap over the basin's edge and set up a wail about it. Prima leaned across without breaking her step, fished the strap out of the dirt by one end, wiped it on her hip and returned it.
 
-"I'm to marry the baker's nephew, from the Nola Gate bakery," she said. "When his uncle gives him the second oven. My aunt's settled it. Two years, she says, or three." She stood still and considered her white legs in the water. "Felix said bakers are fat by thirty. He said no crowd ever cried a baker's name, only people wanting bread."
+"I'm to marry the baker's nephew, from the Nola Gate bakery," she said. "When his uncle gives him the second oven. My aunt's settled it. Two years, she says, or three." She considered her white legs in the water. "Felix said bakers are fat by thirty. He said no crowd ever cried a baker's name, only people wanting bread."
 
 "And you?"
 
 "That fat's better than burned." She stepped over the basin's rim, and her wet feet printed the flagstones gray. "Give him that, if you see him. I've said it twice now."
 
-Her aunt was calling for her out front, wanting the duumvir's wife's cloth wrung before the steward arrived, and asking was that the mender out there, and if so would the mender look at a lamp. Prima hauled the stained cloth clear of the basin, gripped it at both ends, and twisted, and gray drips coursed to her elbows.
+Her aunt was calling for her out front, wanting the duumvir's wife's cloth wrung before the steward arrived, and asking was that the mender out there, and if so would the mender look at a lamp. Prima hauled the stained cloth clear of the basin and twisted it, and gray drips coursed to her elbows.
 
 "Free, she wants it," Prima said. "She wants everything free. Slip out by the back, or you'll be here till noon."
 
@@ -141,7 +141,7 @@ We both stayed standing. "I'm here about Felix," Valens said.
 
 "Naturally." Albucius drew the tablet he wanted from the pile without hunting, opened it on the table, and turned it round. "There. Felix, free, of no town he could name, eighteen, he tells me. Sworn to me for three years. The duumvir's freedman heard it, and my trainer stood witness. Four hundred paid down. Nicanor wrote the name in for him."
 
-From my side of the table the letters stood on their heads, but they could be read. The hand was a clerk's, round and patient, and under the four hundred, smaller, ran a second line: less forty, greaves. The wax looked honest to me. Valens watched Albucius's face and gave the writing no glance at all.
+From my side of the table the letters stood on their heads, but they could be read. The hand was a clerk's, round and patient, and under the four hundred, smaller, ran a second line: less forty, greaves. The wax looked honest to me. Valens gave the writing no glance at all.
 
 "How much for him?"
 
@@ -165,15 +165,15 @@ He walked fast toward the crossing, weaving among the carts. At our own corner h
 
 "He'd say so."
 
-He went to the stable for the string. The cloth went into its jar again, beneath our bed, and I mended a lamp all afternoon, and could not afterward have told you one thing about it.
+He went to the stable for the string. The cloth went into its jar again, beneath our bed, and I mended a lamp all afternoon, and by supper could not name one thing about it.
 
-Nicanor brought Felix home at dusk. I heard Felix first, talking to somebody from the fountain onward, and then he stood in our doorway with Nicanor's bald head showing past his shoulder. He wore a new tunic, coarse and undyed; his hair had been cropped close to his skull, and along his jaw grew the beard Nicanor had made the price of trying him, a dark down he had been nursing, I guessed, all winter.
+Nicanor brought Felix home at dusk. I heard Felix first, talking to somebody from the fountain onward, and then he was in our doorway with Nicanor's bald head showing past his shoulder. He wore a new tunic, coarse and undyed; his hair had been cropped close to his skull, and along his jaw grew the beard Nicanor had made the price of trying him, a dark down he had been nursing, I guessed, all winter.
 
 "Nicanor's making me tell you myself, so this is me telling you. I've sworn. Three years to Albucius, in front of the magistrate's man in the forum, with Nicanor listening, and I never tripped on a word of it. There. It's told."
 
 "Grata told us," Valens said. "Before we'd unloaded."
 
-"Grata would."
+"Course she did."
 
 Lucius had toddled round my plank at the sound of him, at his own pace, hands held out from his sides. Felix put a hand down to him blind, and Lucius gripped two of its fingers and leaned on his leg.
 
@@ -189,15 +189,13 @@ Nicanor stayed outside. He went across to Grata's, and I heard her start on him 
 
 "Who's your pair?"
 
-"Rusticus. A murmillo. He's fought twice and owns a field out toward Nola, and he only fights to buy the next field along." His knees had started to go, a small bounce, and Lucius bounced with them, holding on. "I asked for the fish. I told Nicanor I'd go out the way you did, with the big board and the fish on my head, and he laughed till he had to sit, with the whole yard watching. He said I'd be a thraex or I'd go back to the mules."
+"Rusticus. A murmillo. He's fought twice and owns a field out toward Nola, and he only fights to buy the next field along." His knees had started to go, a small bounce, and Lucius bounced with them, holding on. "I asked for the fish. I told Nicanor I'd go out the way you did, with the big board and the fish on my head, and he laughed, with the whole yard watching. He said I'd be a thraex or I'd go back to the mules."
 
 "He's right."
 
-"Because I'm too thin to hold the board up." Felix's chin lifted. "Say so, then. Say I can't."
+"Because my arms won't hold the board up." Felix's chin lifted. "Say so, then. Say I can't."
 
 "You're quick. A thraex wants quick."
-
-Felix's mouth came open. Nothing followed, and he shut it.
 
 "A murmillo," Valens said, "looks out over his board. He can't see your feet. He watches your shield. Wherever it goes, he thinks you're going."
 
@@ -211,7 +209,7 @@ The lamp on its hook between them had started to smoke. I unhooked it and trimme
 
 "The girl at the fullery," I said. "Prima. She says to tell you fat is better than burned. She says she has told you twice now."
 
-Felix went red from his collar to the rims of his ears.
+Felix went red to the collar.
 
 "She'll come to the games," he said. "The fuller's shutting the vats for it, they're all going, the aunt and the twins and everybody. She'll be there, up with the women, and she'll see. She's got the sherd. Did she show you? She'd show nobody that unless she meant to keep it."
 
@@ -229,7 +227,7 @@ Felix went red from his collar to the rims of his ears.
 
 Lucius clutched it to his front.
 
-Felix left. He paused at Grata's marble to speak to Nicanor, who gave no answer, and then he was walking away to the fountain with his shoulders hunched to his ears. Nicanor rose, paid Grata, and came to stand in our doorway.
+Felix left. He paused at Grata's marble to speak to Nicanor, and then he was walking away to the fountain. Nicanor rose and came to stand in our doorway.
 
 "Twelve years I've worked for Albucius," Nicanor said. "Forty he's had off him for a pair of greaves that cost the smith thirty-five. There's your robbery." He scratched his cheek. "And he's told you he'll sell him back after, cheaper than today. Go round every school this side of Capua asking for that. You'll wear your boots through."
 
@@ -247,9 +245,9 @@ Valens took my stool behind the plank, which he never did. Lucius came to his fa
 
 For the rest of the week Lucius went nowhere without the bowl. Mornings, he bore it out to the stable and stood with it while his father roped up the string; afternoons, he sat with it on Grata's step. Once he tripped on our threshold and went down flat, the bowl kept off the stone by his two arms stretched up as far as they reached, and stayed so until somebody came.
 
-Valens carted each day and came in each dusk, and ate, and slept. He went nowhere near the barracks or the lanista. I was certain he would do something; nothing in all my time in that town had seemed so sure. At night I lay awake and planned it for him. He would put on his good tunic and go to the duumvir and offer himself for the games in Felix's place, Lupus for a nobody, a man with nine wins at Corinth for a tiro with no fights at all. I had heard the bowl roar that name, and I could guess what a duumvir would pay to hear it roared again. Or on the day itself he would vault the parapet to the sand, and that would be the whole plan. Over supper I studied his face for it. After dark I listened for him. Once, when he left our bed for the stable in the night, I had my clothes on before he got back.
+Valens carted each day and came in each dusk, and ate, and slept. He went nowhere near the barracks or the lanista. I was certain he would do something; nothing had ever seemed surer. At night I lay awake and planned it for him. He would put on his good tunic and go to the duumvir and offer himself for the games in Felix's place, Lupus for a nobody, a man with nine wins at Corinth for a tiro with no fights at all. I had heard the benches roar that name, and I could guess what a duumvir would pay to hear it roared again. Or on the day itself he would vault the parapet to the sand, and that would be the whole plan. Over supper I studied his face for it. After dark I listened for him. Once, when he left our bed for the stable in the night, I had my clothes on before he got back.
 
-"The dun's thrown a shoe," he said. "Lie down."
+"The dun's cracked a hoof," he said. "Lie down."
 
 On the fifth morning Prima stood ahead of me in the fountain line with two jars and a twin, and she turned and spoke to me over the twin's head.
 
@@ -265,7 +263,7 @@ We went home from the fountain side by side, her jars and my one, the twin ridin
 
 "He is alive," I said.
 
-She chewed on that the length of a house front, hitching her load higher, and turned in at the fullery without another word.
+She chewed on that the length of a house front, hitching her load higher, and turned in at the fullery.
 
 On the last night, Valens came back across from Grata's with a cup of her wine, still full, and left it on our shelf.
 
@@ -305,15 +303,15 @@ He let so long go by that I thought him asleep.
 
 Soon he slept. I lay awake. Lucius lay open-mouthed on his pallet, his bowl at his ear, where he had insisted it stay, and whenever a cart rolled by outside the bowl answered it with a faint dry hum on the floor, louder to me than all the rest of the room. Toward cockcrow I rose and nudged it onto the blanket's edge, a fingernail's breadth. The humming stopped. He slept on.
 
-In the morning Grata crossed over while our shutters were still up and took Aelia off me in silence, for once, and made up for it on the doorstep: we were to leave the girl with her, the noise in that place would turn a baby simple, and she'd seen grown men leave a show with their ears singing and their purses gone, and she'd keep the girl on her counter in the basket where every customer on the street could admire her, and we'd tell her who won when we got home, though she knew already, because she'd had it from the trainer, who'd had a bowl of her chickpeas and paid for it and said the lad would be down inside three passes, and if that was what the trainers thought of him she'd hate to hear the lanistas.
+In the morning Grata crossed over while our shutters were still up and took Aelia off me in silence, for once, and made up for it on the doorstep: we were to leave the girl with her, the noise in that place would turn a baby simple, and she'd seen grown men leave a show with their ears singing and their purses gone, and she'd keep the girl on her counter in the basket where every customer on the street could admire her, and we'd tell her who won when we got home, though she knew already, because she'd had it from the trainer, who'd had a bowl of her chickpeas and said the lad would be down inside three passes, and if that was what the trainers thought of him she'd hate to hear the lanistas.
 
-We took the lane past the exercise ground and the vines, Lucius riding on Valens's shoulders and gripping him by both ears. The bowl was half full when we climbed to the top of it, and the awnings were being hauled up their masts with a long creaking of ropes, sailcloth unrolling across the sky in tawny strips, and from below came the sweet sharp smell of the saffron water they sprinkled on the sand between bouts. For no reason at all I thought of my cousin Gloria's yellow rice, out of a box on Sundays, and Ray salting it before he had tasted it.
+We took the lane past the exercise ground and the vines, Lucius riding on Valens's shoulders and gripping him by both ears. The seats were half full when we climbed to the top, and the awnings were being hauled up their masts with a long creaking of ropes, sailcloth unrolling across the sky in tawny strips, and from below came the sweet sharp smell of the saffron water they sprinkled on the sand between bouts. For no reason at all I thought of my cousin Gloria's yellow rice, out of a box on Sundays, and Ray salting it before he had tasted it.
 
 First the fighters came round. They walked the oval behind the horns in a long loose file, bareheaded, cloaked, slaves carrying their helmets after them on poles so the crowd had the crests to cheer, and the benches called out to the ones they knew. Felix walked among the last of them, the thinnest, his griffin bobbing on its pole at his back. He paid no mind to the shouting. He went with his chin lifted toward the good benches low beside the tribunal, searching along them as he walked, one bench after the next, right round to the gate where the file had begun.
 
 Valens's hand did not leave the boy.
 
-We sat through two pairs and a hunt. Valens gave the ropes on the masts more of his attention than the sand. Lucius gnawed a crust and showered crumbs on the woman in front, who brushed her shoulders off and never looked back. During the hunt he wet himself, and Valens shifted him to the dry knee.
+We sat through the hunt and two pairs. Valens gave the ropes on the masts more of his attention than the sand. Lucius gnawed a crust and showered crumbs on the woman in front, who brushed her shoulders off and never looked back. During the hunt he wet himself, and Valens shifted him to the dry knee.
 
 Then the herald cried Rusticus, and the benches answered.
 
@@ -335,7 +333,7 @@ The bowl went mad for him to do it. The noise came from every side together, men
 
 The jeering started then. Two slaves with whips appeared at the door below the editor's box and took their places where the sand met the wall. The man with the long rod stepped in between the pair and cracked it on the backs of Felix's thighs, not hard, then on Rusticus's, and pushed at them with it.
 
-All around us the top ring was on its feet. They were shouting for the whips, kill him, whip him, burn him, those three words, beginning again each time they ended. My neighbor shouted it with the rest, at her husband's niece's husband. Ten places along, Prima was standing on her bench with her palm pressed to her tunic where the sherd lay and her mouth closed. I was standing too, without having got up. Along the whole long curve of the top ring, every soul but one was up.
+All around us the top ring was on its feet. They were shouting for the whips, kill him, whip him, burn him, those three words, beginning again each time they ended. My neighbor shouted it with the rest, at her husband's niece's husband. Ten places along, Prima was standing on her bench with her palm pressed to her tunic where the sherd lay and her mouth closed. I was standing too. Along the whole long curve of the top ring, every soul but one was up.
 
 Valens sat. Lucius sat on his knee.
 
@@ -345,7 +343,7 @@ Felix tried again under the rod, shield high, and the fish crest swung after the
 
 They stood and breathed, two strides apart.
 
-The man with the rod looked to the tribunal. The duumvir sat there in the shade of the canvas, gray-haired, his toga very white, a slave at his side holding a cup. He considered the benches nearest him, and the sand, and bent toward the man at his elbow.
+The man with the rod looked to the tribunal. The duumvir sat there in the shade of the canvas, gray-haired, a slave at his side holding a cup. He considered the benches nearest him, and the sand, and bent toward the man at his elbow.
 
 He would make them go on. There was no doubt in me.
 
@@ -355,7 +353,7 @@ For a breath the sound meant nothing to me. It started with the men below, a dee
 
 Before anybody had cleared the sandal away, the horns were sounding for the next pair. Beside me the bean woman sat and began gathering up her beans. Her eyes went across me to Valens and the boy he held.
 
-"That bird," she said. "Was he anything of yours?"
+"You know that bird?" she said.
 
 "Mine," said Valens.
 
@@ -363,7 +361,7 @@ When I unclenched my hands, the bench's grit had printed itself into both palms.
 
 Valens rose then, Lucius on his arm.
 
-He took the stair outside to the ground and made his way to the long tunnel at the north end. The porter there knew him from the sanding and let us through with a nod. Inside it was cool, with a smell of oil, sand dust and wet stone. Two fighters of the next pair but one sat waiting, helmets on their knees, a big Gaul with a net bundled at his feet and a boy no older than Felix, and the boy was eating bread so slowly that it scarcely got smaller. The Gaul watched Lucius go by on his father's arm and made a face at him, crossing his eyes. Lucius craned back over his father's arm to keep the Gaul in sight until the tunnel bent.
+He took the stair outside to the ground and made his way to the long tunnel at the north end. The porter there knew him from the sanding and let us through with a nod. Inside it was cool, with a smell of oil, sand dust and wet stone. Two fighters of the next pair but one sat waiting, helmets on their knees, a big Gaul with a net bundled at his feet and a boy no older than Felix, and the boy was eating bread so slowly that it scarcely got smaller. The Gaul made a face at Lucius, crossing his eyes. Lucius craned back over his father's arm to keep the Gaul in sight until the tunnel bent.
 
 A bench stood along the passage for the pairs to sit and wait their turn, and above it, at a sitting man's shoulder, the plaster was covered with scratched names and helmets and rows of strokes.
 
@@ -373,7 +371,7 @@ Felix walked in with Nicanor at his back. He had the helmet hooked on two finger
 
 "You saw him? Bent right over in front of me, neck out, and all of them up there begging me to take it! His ear was mine for the taking. Nicanor says I'm a fool, and I'll fight out the rest of my three years in sheep towns where nobody can tell one fighter from another, and no one will cry my name in this town again." He was talking very fast. "Somebody threw his sandal at us."
 
-Valens passed Lucius to me. He caught Felix's arm over the elbow and turned it to the light at the tunnel's end to look at the cut at the edge of the quilting, and Felix let him. "That wants washing."
+Valens passed Lucius to me. He caught Felix's arm over the elbow and turned it to the light at the tunnel's end to look at the cut at the edge of the quilting, and Felix let him. "Wash that."
 
 Felix studied the hand on his arm. He looked past Valens's shoulder at the scratched wall, and at Valens.
 
