@@ -859,7 +859,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Progressive structure:**
 - Builds on Ch.25: the correspondence begins.
 - Adds: Aelia; Fenn's interior; the tables avoided.
-- Opens toward Ch.27: Fenn invites her to Cumae.
+- Opens toward Ch.27: the correspondence (the Cumae invitation itself comes in Ch.27 — Ch.26 cascade).
 **Theme presence:** two languages, two homes, one family.
 **Character chaos moments:** Fenn's failed emotional management (the voicemail fury, in a letter). The Phillies. Valens's jealousy (mind-reading).
 **Device presence:** documents inside a collage (letters). Each one REVEALS.

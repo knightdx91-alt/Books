@@ -3648,3 +3648,36 @@ Open contradictions: 33 → 37.
   - Every single-quoted fragment on the added lines was checked by script against the repaired page. The only misses are plan or report quotes, older YAML phrases, and post-disruptor wording that sits labelled in the CH26-n `prose` fields and the revalidation row.
   - The file holds 381 characters, 118 locations, 184 objects, 24 organizations, 72 plot threads, 127 world rules, 251 timeline_events and 183 contradiction rows.
   - **63 open** (60 before; −1 CH25-6; +4 CH26-2, CH26-4, CH26-6, CH26-7).
+
+## 2026-10-24: RE-SYNC (chapter 26, "Letters in English", FINAL page)
+
+- **Page:** the evaluator fix set G1-G18 (27 replacements, deb497c) and the header finalize (88dab54, cycle 1 PASS). md5 0ba7d411515cf0189ba905963b1681d1. The UPDATE had anchored on 387bad2 (md5 9d42bd0c…).
+- **Paragraphs:** still 115, breaks unchanged (after p11, p20, p51, p57, p63, p83, p96). The script confirms old pN = new pN for all 115, so no cite moved. All 670 ch-26 cites fall in p1..p115.
+- **Changed paragraphs (21):** p5, p6, p7, p8, p15, p28, p39, p51, p52, p57, p58, p59, p60, p61, p63, p67, p69, p83, p96, p98, p115.
+- **Method:** every YAML line holding a 3- or 4-word run that is on 387bad2 but not on the FINAL page was found by script and rewritten to the page, with the cut words marked CUT. Labelled history was left alone: the CH26-n `prose`/`prose_repaired` fields and the 387bad2 revalidation row. Every newly quoted fragment was checked by script against the FINAL page; all match.
+- **Facts rewritten to the page:**
+  - The string: "four mules" (p52). A `ch26_note` is added to valens.possessions mules-and-horses.
+  - The wall by the baths: "rooms to let right across the wall by the baths … that wall's my Secundus's" (p63). Mara writes "Grata's son's wall by the baths was letting rooms" (p83). The baker's son, "my boy's" and "painted out" are CUT. Updated in: mara's knowledge, Grata→Secundus, secundus.ch26_named, plot_threads.secundus-election, Fenn's knowledge and R4.
+  - `bakers-son-candidate` is off the page. It is kept as a CUT marker (status, `last_confirmed`) and is a candidate for removal.
+  - The shutter is "barred on the wind" (p7). "off the bay" is CUT.
+  - Valens: "Only the baby woke him" (p8); Aelia "had fought him" (p39; "roared at" CUT). The word: "He tried it twice … and then its pieces ran together. After that he leaned down over Aelia and gave it to her." (p51). "At his first try / At the second / On the third", "very low" and "She went on sleeping through it" are CUT. She is asleep from p39.
+  - Fenn L3: his birthday, "as of this letter that makes two of us who know it" (p59). "one person around here who knows it" is CUT. Updated in Fenn's trait, Mara's knowledge, the L3 row and the thread beat.
+  - Fenn L5: "Skip it. I'll find out back there …" (p67). "Don't explain it to me, I mean it." and "like everybody's got one" are CUT. Updated in Fenn's trait and knowledge, Mara's knowledge, the L5 row and knowledge_index.fenn_news_from_home.
+  - Mara R3: the strainer "that I did not think would take a patch" (p60). "fool the wine" and "The melon got no mention" are CUT; the page no longer says either way whether she mentions the melon.
+  - Mara R4: "What a voicemail was, I did not explain." is CUT. The sponge-out of "It's a machine that" stays (p83).
+  - The box: "I traded him the bone for it, and carried the box through" (p96). "took the box from him", "carried it through" and "Back in the shop, I gave him the bone." are CUT. Updated in Mara's traits, the knucklebone, fenn-tables, cobblers-shop and the requested-checks rows.
+  - The close: "He sat on in the sun with his lip in her fist and both arms still round her, until his father lifted her away." (p115). "holding her very carefully" is CUT.
+  - Aelia's voice row: "straight through to the initials" (p15).
+- **Flags:**
+  - **RESOLVED:**
+    - CH26-2 (low): four mules on the page, the count that crossed (ch-19:p1). One value left.
+    - CH26-7 (info): no notice for Secundus is on the wall and no election is named. Nothing runs ahead of March AD 77. One value left.
+    - CH26-6 (info): superseded by the outline Ch.27 cascade, as instructed. Outline Ch.27 delivers the invitation in Ch.27 itself, and the eval's Ch.27 guard holds. Outline Ch.26 line 862 ("Opens toward Ch.27: Fenn invites her to Cumae.") is still in outline.md as text; it was not edited here. Forward constraint: Ch.27 must not say the invitation came by letter earlier.
+  - **Rechecked, still open:** CH26-4 (info). p2 "near four" is unchanged, against foundation 3½.
+  - **New:** none. **CRITICAL:** none. **knowledge_gap:** none.
+- **meta:** header note, `last_updated` 2026-10-24, `last_updated_by`, `mode`, `source`, the Ch.26 FINAL clause in `paragraph_rule`, a new `revalidation_needed` chapter-26 row (RESOLVED) and a re-sync row in `ch26_requested_checks`.
+- **Not touched:** chapter-26.md, character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - The file holds 381 characters, 118 locations, 184 objects, 24 organizations, 72 plot threads, 127 world rules, 251 timeline_events and 183 contradiction rows.
+  - **60 open** (63 before; −3: CH26-2, CH26-6, CH26-7).
