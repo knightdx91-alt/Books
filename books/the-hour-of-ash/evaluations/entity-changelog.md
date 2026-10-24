@@ -3949,3 +3949,103 @@ Open contradictions: 33 → 37.
   - **63 open** (60 before; +4 CH28-2..5, −1 CH21-3; CH28-1 and CH28-6 opened and closed in this run).
 
 ---
+
+## 2026-10-24: RE-SYNC (chapter 28, "Felix in the Arena", to the FINAL page)
+
+- **Page:** chapter-28.md at fd460e1, md5 78502d866fc1f48706f080d6aabbc88a. Its body is the evaluated md5 4aca9f90 plus the l.6 header. The UPDATE above had anchored on the continuity-repaired page d3b8841 (md5 8c6b9547…). Since then:
+  - cycle 0, 5bd0d38: 25 swaps
+  - cycle 1, 6ce7ff0: R1-R4
+  - cycle 2, 12765d7: S1-S5
+  - cycle 3, df98174: X1-X11, 12 cuts
+  - header finalize, fd460e1: cycle 4 PASS
+- **Numbering:** 182 → 181 paragraphs.
+  - Old p37 is CUT (cycle 3): "Out in the street a late cart passed, its load chinking, and a dog ran after it till it lost interest." It was never tracked, and no row cited it.
+  - Old p1–p36 keep their numbers. Old p38–p182 = new p37–p181.
+  - Breaks are now after p17, p60, p115 and p151.
+  - Text changed inside 41 more paragraphs. The map was built by script from the git copy of d3b8841.
+- **Cites moved:** 753 in all.
+  - 597 explicit ch-28:pYY.
+  - 153 bare refs on Ch.28 rows. Each was checked by eye; none belongs to another chapter.
+  - 3 integer resolution paragraphs (178 → 177: felix-palm-branch, felixs-palm-graffito, tunnel-palm-unfinished).
+  - Left as history with the old numbers: the Ch.28 UPDATE header log, the meta mode/source/last_updated_by history, paragraph_rule's d3b8841 clause, and the ch28_requested_checks DONE row (now labelled as d3b8841-numbered).
+- **Re-quoted to the page.** Old wording is marked CUT in the YAML row; nothing was silently overwritten.
+  - **Greaves and quilting (the eval's ENTITY note):**
+    - p5 now reads "Quilted cloth wound both legs to the groin. A greave was strapped over each from mid-thigh to instep". CUT: "to the top of the thigh" and "Over each shin a greave was strapped from knee to instep".
+    - Felix, p86: "Bronze ones, past the knee." CUT: "to the knee".
+    - The page agrees with itself. Rows changed: felix.armature_ch28, felixs-thraex-kit, felixs-greaves and the thraex check row.
+  - **Grata's gossip source:**
+    - p19 now reads "He swore himself in the forum, the whole oath, and the fuller's girl was the first he told." CUT: "the fuller's girl had it from him first and the fountain had it from her by noon".
+    - Grata's own source is now **unstated**. The chain Felix → Prima → her aunt → the fountain rests on Prima alone: "I told my aunt, and my aunt told the fountain" (p47).
+    - Rows changed: pomponia-grata.knowledge (method now "told (source not named on the page …)"), pomponia-grata.traits, mara-reyes.knowledge (her paraphrase "the fuller's girl had it first" fixed), the news-chain check row, knowledge_index.felix_sworn (the fountain row: "by noon" CUT), and bull-fountain (rewritten to Prima's two fountain lines).
+  - **Grata's arrival:** p18 now reads "out to us as the dun came to a stop". CUT: "before the dun had come to a stop".
+  - **Grata's forecast:** p146 now reads "because the trainer had eaten a bowl of her chickpeas and said …". CUT: "she'd had it from the trainer, who'd had a bowl". The source is the same (told_by:nicanor), now said directly; a note was added.
+  - **Prima's source "the vats" (the eval's ENTITY note):**
+    - p122 now reads "Your husband was Lupus," … "They talk of it at the vats." CUT: "The fountain says so."
+    - Rows changed: prima.traits, prima.knowledge (overheard), valens.ch28_note and bull-fountain.
+  - **Prima's treading:**
+    - The page has her treading at the introduction, then "She stopped treading and stood in the gray water." … "She trod again, harder." (p49), and nothing more.
+    - CUT: "kept on treading", "She came down hard on her left foot.", "A tread, another.", "went on treading".
+    - "hooked the strap out of the dirt" (p55). CUT: "without breaking her step, fished".
+    - prima.traits changed: the old trait "keeps treading while she talks" is gone. fullers-twins now says "hooks it out".
+  - **"Mine." → "My boy,":**
+    - p171 now reads "My boy," said Valens. The bean woman's gaze line before her question is CUT: "Her eyes went across me to Valens and the boy he held."
+    - Rows changed: valens.traits, valens.arc_waypoints, the bean-woman check, the seating check, bean-woman.knowledge (now "the thraex is Valens's boy"), valens.ch28_note and valens-arena-arc.ch28_payoff.
+  - **Valens's first bout:**
+    - p142–p144 now read "Nicanor yelled at me to stamp." / "Did you?" / "The crowd laughed." … CUT: "I stamped."
+    - That he stamped is no longer said; the page shows it only by its result.
+    - Rows changed: valens.traits, mara-reyes.knowledge and felix.knowledge_absent_ch28.
+  - **The palm explanation is cut:**
+    - p176 now ends "…and on the right two fronds, and then nothing." CUT: "The rest of that side was bare plaster. Its maker had been called out before he could finish."
+    - The page gives no cause. The maker stays not named (by reading, Felix).
+    - Rows changed: tunnel-palm-unfinished.description, felix.traits ch28_note, and the palm check row.
+  - **Felix's eyebrow lie, now uncommented:**
+    - p28: "At midwinter there had been a split eyebrow, and Felix said the dun had thrown her head." CUT: "Nobody in the house had believed it, and no one asked him again."
+    - The doubt is carried only by Mara's "You knew about the eyebrow," (p31). The household's disbelief at midwinter was never recorded as a fact, so nothing was removed.
+    - A note was added to felix.traits, with p31 added to its source. Valens's knowledge row ("the split eyebrow was not the dun", from p28 and p31–p34) still stands.
+  - **Smaller re-quotes:**
+    - Albucius eats eggs "with the shells picked off into a small white pile at his elbow" and "ate half an egg" (p62; p68). CUT: the dish and the napkin.
+    - Felix: "they'd be chanting Lupus before I was halfway to my mark" (p107). CUT: "they'd cry your name".
+    - "Then he did nothing with any of it." (p154). CUT: "And then".
+    - The rod man: "not hard," CUT (p159).
+    - The duumvir "considered the benches nearest him" (p165). CUT: "and the sand,".
+    - "a sandal that tumbled" (p168). CUT: "from somewhere low down"; changed in two rows.
+    - The north tunnel: "cool, with a smell of oil and sand dust" (p174). CUT: "wet stone".
+    - Felix's beard "looked darker." (p177). CUT: "than before".
+    - Mara's Gloria memory is now unlabelled (p147). CUT: "For no reason at all".
+- **Cut, never tracked, nothing to change:**
+  - the late cart and the dog (old p37)
+  - "Grata hitched Aelia up her shoulder"
+  - "before he had sat"
+  - the boot stood against the plaster; "His hands went on with the laces"
+  - "I lay awake"
+  - "stayed stooped"; "and stayed so"
+  - "new to me" (the groan)
+  - "as he kept it"
+  - "And you?" (now "What was your answer?")
+  - "hauled" (now "dragged")
+  - "and at Valens"
+  - "nobody can tell" (now "they can't tell")
+  - "from every side" (now "from all sides")
+- **Contradictions:** none. Every change narrows or rewords a Ch.28 fact. None touches another chapter's canon, the foundation or the outline.
+  - No other chapter, and no world rule, describes Felix's greaves.
+  - The stamping exists only in Ch.28. Ch.21 and Ch.12 say nothing of that first bout.
+- **Flags:**
+  - CH28-2, CH28-3, CH28-4 and CH28-5 were rechecked against the final page: unchanged, all still open. CH28-2's palm "under the seats" against the north tunnel is unchanged.
+  - CH20-6: the forward constraint still holds (no tomb, Kalends or gate).
+  - Opened: none. Closed: none. CRITICAL: none. knowledge_gap: none.
+- **meta:**
+  - A new header log block.
+  - `last_updated_by`, `mode` and `source` now lead with this RE-SYNC; `last_updated_chapter` stays 28.
+  - A RE-SYNC clause was added to paragraph_rule's Ch.28 entry.
+  - New rows: a `revalidation_needed` row (chapter 28, RESOLVED) and a `ch28_requested_checks` re-sync row.
+- **Not touched:** chapter-28.md (or any chapter), character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and the strict no-duplicate-key loader both pass.
+  - All 749 ch-28 cites fall in p1..p181.
+  - A script sweep finds 0 single-quoted fragments on Ch.28 rows that sit on d3b8841, are off the final page, and are not labelled CUT. It found 26 before the edits.
+  - A 5-word-run sweep is clean.
+  - Every final-page quote of 4+ words on a Ch.28 row sits in a paragraph cited on its row (1 gap found and fixed: "ate half an egg", p68).
+  - The file holds 400 characters, 126 locations, 194 objects, 24 organizations, 74 plot threads, 135 world rules, 265 timeline_events and 199 contradiction rows.
+  - **63 open** (unchanged).
+
+---
