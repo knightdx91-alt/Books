@@ -353,3 +353,146 @@ Script: `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpa
 Apply `apply_fixes.py` to `manuscript/chapters/chapter-27.md` (and, at the orchestrator's discretion, to `chapter-25.md` for X1), re-run `check_chapter.sh 27` and `--echoes 27`, then re-evaluate (cycle 1).
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Re-evaluation — cycle 1
+**Evaluator:** book-evaluator (independent; did not write or revise this prose) | **Date:** 2026-10-24 | **Cycle:** 1
+**Text evaluated:** `manuscript/chapters/chapter-27.md`, md5 `6441a8e8c82e78d686d560e2574895d8`. *(l.N below = line numbers in this file.)*
+
+### Did the sets land as tested?
+- **Ch.27** md5 `6441a8e8…` = the cycle-0 scratch result (`…/scratchpad/eval27/manuscript/chapters/chapter-27.md`). All 104 replacements landed; nothing else changed.
+- **Ch.25** md5 `d2ceac85…` = the scratch result. X1 is on the page at l.258: "Shut tight. Cool under my hand with the sun on it, and not a breath out of it."
+- **Measured on the real files:**
+  - `check_chapter.sh 27` and `check_chapter.sh 25`: ALL MECHANICAL GATES CLEAN.
+  - `tic_report.py --gate`: clean.
+  - `--echoes 27`: **0**, with 0 command echoes and 0 spoken-line echoes.
+  - Shape 7,527 words (99% of 7,600). Dialogue 36.1%. Median 17. Simile 22 (fig 3.7/1k). Em-dash 1 (l.382).
+- **Coordinator items resolved on the page:**
+  - **CH27-3:** the knees/belly replay is gone. l.142 ends "…like I owed it a letter." Fenn's "on your belly" at l.388 is his own crossing, which agrees with Ch.25.
+  - **CH27-1:** Eros's door is "only cool" (l.336), "Still cool?" / "It was cool on the last Kalends." (l.484–486) and "Just that it's cool." (l.490). It is never cold. The live Cumae door is ranked above it ("Eros's is a little one. This was a beauty.").
+  - **CH27-2:** "I sat at that mouth in it for hours… your breath smoked up there at sunup" (l.388) agrees with Ch.25 l.170 "I hiked up there first thing, in the cool".
+- **CUT strings stay cut.** Grep shows 0 hits for every cycle-0 cut and for the Ch.25 and Ch.26 CUT strings. The cycle-0 cuts checked include: "for crying in the sink", "a sap", "gravely", "with great bitterness", "here was his Jupiter", "Jupiter sitting", "within five minutes", "before I had settled", "guy asleep", "billboard", "walking backward", "the whole racket", "intent on the harbor", "the fly", "the man in the window", "Like Eros's", "only colder", "Still cold", "slept up at that mouth", "Next thing", "snow up to here", "belly down", "Kneeling. Sideways", "his gaze kept", "brim pulled", "planted", "And it's dead", "And after", "And before", "Third base, nineteen". The banned words are also absent: Margaret, Vesuv-, mountain, tomb, Felix, arena, "years since"/"in all the years", "don't end up".
+- **Nothing was planted by the swaps.** I read all six new strings in context and none echoes, reuses a frame or rebuilds a triad:
+  - "Like the Marlboro man." is a period reference (1/2), a 1954 campaign, so it is fine for 1968.
+  - "whoever drew it"
+  - "In August you're frying"
+  - "it's down this end"
+  - "on your left"
+  - "Then it's forty-one, and I'm in my shirtsleeves in Phocis with snow falling on me."
+
+### Census re-check (same classifications as cycle 0)
+| Character | State | Cycle-1 lines | Count | Verdict |
+|---|---|---|---|---|
+| Fenn | delight / grin | 112 delighted · 198 grinning · 342 grin in his voice | 3, spread | OK |
+| Fenn | the stick | 86 possession · 138 thistle · 172 pointed · 414 drew · 496 fade | 5 (possession + 3 uses + fade, the cycle-0 ruling) | OK |
+| Fenn | hat handled | 198 · 268 tipped · 370 clapped on | 3 | OK |
+| Fenn | jenny's rope on wrist | 88 "round his wrist" · 108 · 496 "looped over his wrist" | 3, no verbatim pair | OK |
+| Fenn | "guy(s)" | 124 · 156 · 420 | 3 | OK (the cap) |
+| Fenn | tremor | 204 · 358 | 2 | OK |
+| Keeper | eyes on the sea | 240 · 252 | 2 | OK |
+| Keeper | pot lid | 240 · 248 (speech) · 450 | 3, spread | OK |
+| Lucius | absorbed watching | 178 ducks · 258 doorway · 418 lines (404 listening) | 3 | OK |
+| Lucius | "fist" | 36 · 76 · 84 · 258 · 430 | 5 (the cycle-0 target) | OK |
+| Mara | "And…?" openers | 352 · 374 · 492 | 3, spread, no triad | OK |
+| Mara | "before I decided" | 108 (the body rebel) | 1 | OK |
+| Mara | fatigue | 274 · 300 · 398 | 3, spread | OK |
+| Aelia | asleep / wakes | 178 · 318 · 386 / 232 · 478 | 3 / 2 | OK |
+
+Every cycle-0 state is now at or under its cap, and no fix pushed a state over.
+
+**Not counted at cycle 0, and found now: Fenn's word-doubling, a nameable habit.** There are nine doubled phrases in his speech:
+- l.112 "All right, all right"
+- l.138 "Sure. Sure you were."
+- l.196 "Do me… do me, would you?"
+- l.210 "Hold on, hold on, it works, it works sometimes"
+- l.246 "It is, it is" (in his courtly Greek, where it is off-voice besides)
+- l.268 "Step right up, step right up"
+- l.412 "C'mere, come here"
+- l.432 "Safe… Safe at home"
+- l.446 "One more… One more inning"
+
+Seven of these fall between l.112 and l.268, about 1,600 words. Ch.25's final page already has "Hey, hey", "cold, cold" and "it goes, it goes", so the habit runs across chapters. A reader could state the rule ("he says everything twice"), so it fails the nameable-rule test. The cycle-0 census should have caught it. I am raising it now and not later.
+
+Two smaller repeats were also missed at cycle 0:
+- the arm thrown out twice in 12 lines with the same verb (l.358 "He threw his hands out" / l.370 "He threw out an arm at the whole hill")
+- "in Greek" twice in two sentences (l.422 / l.424)
+
+### Nameable-rule test
+- **Mara:** passes (the "And…?" run is fixed).
+- **Keeper:** passes.
+- **Lucius:** passes.
+- **Valens:** passes. He reads ground literally ("It's resting the near hind", "She bites. Not hard.", "Hold that."), with no comparison and nothing remarked on.
+- **Fenn:** passes on "guy", listing and the spent Ch.25 states. **Fails on doubling** → fixes D1–D7.
+
+### Laws and closed frames (re-checked)
+- **No foreshadowing:** clean. "Once we're back" and "If I am still here" are character belief, never narration.
+- **Nobody names the mountain**, nobody says "Margaret", and there is no tomb.
+- **No lists:** the Richie Allen line is now narrative ("He played third in sixty-four and got rookie of the year…").
+- **Retired reflexes:** no anaphora triad, no negation opener, no closing aphorism.
+- **Idiom pool, all within ≤2 book-wide:** no dice 1, get a load of 1, no great shakes 1, no kidding 1, you're the doctor 1, swell 2/2 (SPENT), buddy 2/2 (SPENT), kid 1, okay 1, fellow 1, anyhow 1, Mom 1. Horn & Hardart is held at "the automat".
+- **"home":** Fenn says it twice. "That's home" is home plate (l.416). "Back home, at the mouth, I mean" (l.384) is 1968, which the bible allows: he never calls anywhere in *this* century home. Mara's "only I wanted to go home" (l.440) means Puteoli. That is a quiet, earned beat and should be kept.
+
+### Scores — cycle 1 (+0.5 max per dimension)
+| Dimension | C0 | **C1** | Evidence / cap |
+|---|---|---|---|
+| Originality | 9.0 | **9.0** | Unchanged: the dead door shown with pride, the lemon-meringue mutation, the diamond in the Sibyl's dust, the keeper's swarm. |
+| Theme | 9.0 | **9.0** | Unchanged: "I'd check the hill mornings before I checked the weather." (l.376); "You sit up with a sick friend, don't you?" (l.362). |
+| Characters | 8.0 | **8.0** | All cycle-0 failures are closed: F1, the census, "guy" 3, the "And…?" run, the stat list, the Ch.25 landing frame. Held at **8.0** by Fenn's doubling (9 in the chapter, a cross-chapter habit) under the nameable rule, the same cap practice as Ch.24–26 and cycle 0. Everything else is at 8.5+, and Fenn otherwise is the book's best: "it's like eating something that's still making up its mind" (l.146), "the left one went on going after the right had stopped" (l.358). |
+| Prose & Voice | 8.0 | **8.5** | The hygiene standard is met: 0 echoes, no tag adverbs, no "And…?" triad, the Jupiter callback trusted (l.12), the backward-walk doubling recast (l.268/272). The stopping sentences stand: "until the hill was full of a small bone falling." (l.402); "a while past knowing and then a while past that" (l.318); "There had been another one… and it was a wall." (l.372). Ugly sentence: "The bread was dry and we ate it anyway." (l.178). Voice under pressure: l.108–110 and l.364. #11 is at 2 (l.204, l.398), under the cap. |
+| Pacing | 8.5 | **8.5** | 7,527 words (99%), 36.1% dialogue, the same handoffs (Ch.26 collage at 12% → walk at 36% → Ch.28 bout). The cave stillness runs l.310–394. Not 9.0: S2's oysters → lunch stretch. **PACING OK.** |
+| Emotion | 9.0 | **9.0** | The anchor paragraph is verbatim (l.318). "Of you." (l.222). The coat (l.388–392) against the carbon withheld (l.394). |
+| Immersion | 9.0 | **9.0** | F6 fixed the orientation ("Along the left-hand wall", l.264; "on your left the windows", l.268): the sea is west, and the sea is on the left walking in. Held at 9.0, with no comp case made for 9.5. |
+| **FLOOR** | 8.0 | **8.0** | Characters |
+| **AVERAGE** | 8.64 | **8.71** | (9.0 + 9.0 + 8.0 + 8.5 + 8.5 + 9.0 + 9.0) / 7 |
+
+- **Casual Reader: 9.0.** The doubling would not stop this reader. It costs the Critic and the Devoted Reader, who hear the habit, and it fails the book's law.
+- **CVI-Launch: 9.4.** 0.2(8) + 0.2(10) + 0.2(9) + 0.2(7.5) + 0.1(10) + 0.1(10) = 8.9, + 0.5 for a strong anchor.
+- **CVI-Legacy: 7.1.** Originality 9.0 · Theme 9.0 · Vocabulary 3 · Re-read 7 · Identity 5, at default weights.
+- **Anti-AI:** 8 patterns present at minor weight, plus traces (#6 at 3 "And" openers in speech; #10 "delighted" once). This is the commercial clean band. #8 is cleared.
+
+### Fix set — cycle 1 (TESTED)
+Script: `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes27b/apply_fixes.py <chapter-27.md>`. It makes **9 replacements** on the md5 `6441a8e8…` page. Each must match exactly once or the script aborts and writes nothing. A re-run aborts safely; this was tested.
+
+**Tested on a fresh scratch copy** of the book folder (`…/scratchpad/eval27b/`):
+- `check_chapter.sh 27`: **ALL MECHANICAL GATES CLEAN**.
+- `--gate`: clean.
+- `--echoes 27`: **0**, with 0 command and 0 spoken-line echoes.
+- Shape 7,502 words, dialogue 36.0%.
+- Result md5 `efbfc81a78a19b51537d0918475f9706`.
+- A first draft of G2 ("said Fenn, and pointed") tripped the tic gate ("said fenn and" 3× book-wide). It was replaced with "said Fenn, pointing." and re-tested.
+
+| ID | Location | Problem type | Now | Why | Revision (exact, in script) | Project rule? |
+|---|---|---|---|---|---|---|
+| D1 | l.112 | Character (nameable) | "All right, all right, I'm coming." | Doubling 9× | "All right, I'm coming." | Yes: Fenn's doubled phrases ≤1 per chapter (a formula like "Step right up", an umpire's call or a quotation is not counted) |
+| D2 | l.138 | Character | "Sure. Sure you were." | Doubling | "Sure you were." | — |
+| D3 | l.196 | Character | "Do me," … "do me, would you?" | Doubling | "Do me," Fenn said, "would you? One, …" | — |
+| D4 | l.210 | Character | "Hold on, hold on, it works, it works sometimes" | Doubling twice in one line | "Hold on, it works, it works sometimes" (the self-correction stays: it is the frame's point) | — |
+| D5 | l.246 | Character / Voice | "It is, it is," said Fenn. | Doubling, and in his formal Greek | "It is," said Fenn. | — |
+| D6 | l.412 | Character | "C'mere, come here, buddy" | Doubling | "C'mere, buddy," | — |
+| D7 | l.446 | Character | "One more," he said. "One more inning, come on, Mom," | Doubling | "One more inning," he said. "Come on, Mom," ("I gave them one more." still answers it) | — |
+| G1 | l.370 | Character (gesture) | "That it was here!" He threw out an arm at the whole hill. "One right here…" | "threw" an arm twice in 12 lines (l.358) | "That it was here! One right here…" (one speech; the hat clapped on still gives him his body) | No |
+| G2 | l.424 | Style | "Run!" said Fenn in Greek, and pointed. | "in Greek" twice in two sentences (l.422) | "Run!" said Fenn, pointing. (Lucius running shows he understood) | No |
+
+**Kept on purpose (four, each doing a different job):**
+- "it works, it works sometimes": the correction
+- "Step right up, step right up": the barker's formula
+- "Safe … Safe at home": the call, then the crowd
+- "Not hard … Not hard, says the gladiator": quoting Valens
+
+**Projected after fixes27b:** Characters **8.5** (+0.5; the census and the nameable test are both clean) → **Floor 8.5 / Average 8.79**, Casual 9.0, pacing OK.
+
+### PATH TO 8.5
+- **Characters 8.0 → 8.5 requires** Fenn's doubling cut to the four that do work: apply D1–D7, plus G1 for the doubled arm-throw. No other change. Fenn's comedy, the Zippo frame and the anchor keep their words.
+
+### Bookkeeping for finalize (carry to the PASS cycle; not page edits)
+- **Header comment (l.6) is stale.** It reads shape 7,681, Em-dash 0, median 18, sections 983/2,502/3,076/1,411 and dialogue 36.1%. Refresh it from the final measures and log the cycle-0 and cycle-1 sets.
+- **Bible:** the Ch.27 Fenn block still quotes cut and changed strings. These include: "walks the way he talked", the wick line, "slept in it a week", "the notebook went in the pocket" (the page has "cigarettes in the pocket"), "I'd check the hill in the morning", "Third base, nineteen sixty-four…", "Hold on, hold on…", "for crying in the sink", "a sap 1 (→ 2/2)", and "fellow 1" (still 1). The full sync list is due at PASS.
+- **New guard for Ch.28+:** Fenn's doubled phrases ≤1 per chapter (book-wide habit: Ch.25 3, Ch.27 9 → 1 after the fixes).
+
+### VERDICT
+**POLISH.** Floor 8.0 (Characters) < 8.5. Casual 9.0 ✓. Pacing OK ✓. Gates clean ✓, with echoes at 0.
+
+Apply `fixes27b/apply_fixes.py` to `manuscript/chapters/chapter-27.md`, re-run `check_chapter.sh 27` and `--echoes 27`, then re-evaluate (cycle 2). Expect a short cycle: one dimension and nine clause-level edits.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

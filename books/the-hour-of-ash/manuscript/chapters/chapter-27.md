@@ -109,7 +109,7 @@ The ground answered with a deep hollow note we felt in our feet, a drum struck i
 
 "Fenn! Get off it!"
 
-"It does that." He stamped again, delighted. "The whole floor's hollow, you could put the Spectrum under here and have room left over for the ice, and the bath keeper says when his grandfather was a boy they'd hear it clear down at the road. Relax, would you, it's been doing this since Hannibal." He saw my face. "All right, all right, I'm coming."
+"It does that." He stamped again, delighted. "The whole floor's hollow, you could put the Spectrum under here and have room left over for the ice, and the bath keeper says when his grandfather was a boy they'd hear it clear down at the road. Relax, would you, it's been doing this since Hannibal." He saw my face. "All right, I'm coming."
 
 He came picking his way back and stopped at a vent close to the lip; the sulphur had grown round the crack's mouth in a crust of small bright yellow crystals, fringed along their tops with something white that the steam had left, and he stooped over it.
 
@@ -135,7 +135,7 @@ We left the bowl by another track that came round west at last, the steam still 
 
 "I didn't time it. I was busy going in."
 
-"Sure. Sure you were." He swung the stick at a thistle and missed it. "Was there a string? Kite string, white, tied round a stone by the slot. You'd have stepped right over it."
+"Sure you were." He swung the stick at a thistle and missed it. "Was there a string? Kite string, white, tied round a stone by the slot. You'd have stepped right over it."
 
 "I didn't see any string."
 
@@ -193,7 +193,7 @@ He sat with an olive halfway to his mouth and stared at the Pentax in my hands.
 
 "Some."
 
-"Do me," Fenn said, "do me, would you? One, ahead of the boy, here, with the lake, where's the light, is the light right, you tell me where to stand and I'll stand there till I grow roots."
+"Do me," Fenn said, "would you? One, ahead of the boy, here, with the lake, where's the light, is the light right, you tell me where to stand and I'll stand there till I grow roots."
 
 I stood him on the end of the block with the lake behind him and the sun across his left cheek, the hat pushed back so that his face was in it. He fussed the tunic straight. He took the hat off and replaced it. Then he felt in the breast of the tunic and produced a small brass box and offered it for my inspection, grinning.
 
@@ -207,7 +207,7 @@ The wheel turned with a dry scrape. Two thin sparks came off it, pale even in th
 
 He tried again: scrape, one spark, nothing. He squinted into the glare, the grass stalk jutting from his face, a man on the corner of Broad and somewhere in a wind, determined.
 
-"Hold it," he said round the grass. "Hold on, hold on, it works, it works sometimes, you've got to warm it up."
+"Hold it," he said round the grass. "Hold on, it works, it works sometimes, you've got to warm it up."
 
 I had his face in the finder, the stalk, the cupped hands, the thumb bearing hard on the wheel, with the black lake standing behind him full of upside-down hills; I took it while his thumb was still trying.
 
@@ -243,7 +243,7 @@ He knew Fenn. He turned at the scrape of the jenny's hooves, and his face did no
 
 "The Chaldean," he said. His Greek dropped its endings the way the Greek of Neapolis did. "Is it that month again?"
 
-"It is, it is," said Fenn. "I have brought guests, which you must admit is an improvement on me."
+"It is," said Fenn. "I have brought guests, which you must admit is an improvement on me."
 
 "Two coppers each. Children for nothing, and it's children touch everything." His palm came out for the coins. "Honey, if the lady wants it. The Sibyl's own, off the windows. Less of it than yesterday. The third window swarmed at sunup, queen in front, the whole house of them, and made for Misenum. I stood on this terrace beating a pot lid at them like a fool. None of them so much as looked round."
 
@@ -367,7 +367,7 @@ Lucius laughed, at the voice and not the joke, and the blind end of the passage 
 
 "Show me what? That it's dead?"
 
-"That it was here!" He threw out an arm at the whole hill. "One right here in the Sibyl's own cellar, under all those customers, and the only folks in the empire who know it are standing in it. Carter finds King Tut, and does he sit on it? He sends for somebody to come look." He clapped the hat on again. "Soon as I'm back I'm writing it up for the Geographic, with pictures, I'll get the keeper in, I'll get his bees in."
+"That it was here! One right here in the Sibyl's own cellar, under all those customers, and the only folks in the empire who know it are standing in it. Carter finds King Tut, and does he sit on it? He sends for somebody to come look." He clapped the hat on again. "Soon as I'm back I'm writing it up for the Geographic, with pictures, I'll get the keeper in, I'll get his bees in."
 
 There had been another one. That had been the whole of my night's hope, a door that was not his door, and here it was, and he was right about it, and it was a wall.
 
@@ -409,7 +409,7 @@ In time he came trotting out of the third bright patch with the bone raised abov
 
 "Bone."
 
-"That's some arm," said Fenn. "C'mere, come here, buddy, let me show you something, it'll change your life."
+"That's some arm," said Fenn. "C'mere, buddy, let me show you something, it'll change your life."
 
 He dropped to one knee in the light nearest the chamber, where the dust lay soft and pale in the floor's corners, and with the end of his stick he drew a square standing on one of its points, quick and true, with a little square at each corner and at the bottom one a shape with five sides.
 
@@ -421,7 +421,7 @@ Lucius stood at the edge of it with the bone and looked hard at the lines.
 
 He said the end of it in Greek. Lucius knew that word; he swung his empty arm, hard, with his whole body after it, and nearly fell over.
 
-"Run!" said Fenn in Greek, and pointed.
+"Run!" said Fenn, pointing.
 
 Lucius was off. Four steps took him to the near corner, where he halted on the little square with both feet on it, exactly, and looked round to Fenn for what came next.
 
@@ -443,7 +443,7 @@ From the bench I watched them. The bars of sun had climbed the wall while we sto
 
 Fenn found me with one eye from where he lay.
 
-"One more," he said. "One more inning, come on, Mom, he's just getting the hang of it."
+"One more inning," he said. "Come on, Mom, he's just getting the hang of it."
 
 I gave them one more. Lucius ran it with the bone held out before him in two hands, the way the Delphi priests bore the god's things in procession, and stopped on every corner, and Fenn ran beside him at a crouch, calling the plays.
 

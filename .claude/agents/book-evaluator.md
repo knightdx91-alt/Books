@@ -494,7 +494,10 @@ the same kind of comparison every time — it is a device and a NO-TICS finding,
 fresh. Recommend loosening it toward the life it came from, never adding a new rule in its place.
 
 Do the census EXHAUSTIVELY at cycle 0: every recurring character, every narrated state (talking on, breaking off, turning,
-facing, looking at an object, hands, posture, mood given to an infant), with line numbers. Hour of Ash Ch.25 lost two
+facing, looking at an object, hands, posture, mood given to an infant), with line numbers — AND every
+speaker's speech habits (doubling words: "Sure, sure"; a pet opener; a stock exclamation): more than 2 of
+one habit in a chapter is a tic even when every instance is different words (Hour of Ash Ch.27: Fenn doubled
+his words nine times and it surfaced only at cycle 1). Hour of Ash Ch.25 lost two
 extra cycles because cycle 0 counted four states and each re-evaluation found more that had been there from the start.
 
 ### 7 Problem Types
