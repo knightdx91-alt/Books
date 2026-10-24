@@ -250,7 +250,7 @@ The clasp was stiff with the cold. It took me two tries to spring it, and then I
 
 "Was it on him when he died?"
 
-"It was by his bed."
+The gray had burrs in her mane, worked in close to the skin. I looked at those.
 
 He was a long while over the back of it, and over the band where the three links had come out. Then he turned it face up. The thin seconds hand was going round. He watched it make one full circuit, and his face stayed as it was.
 
