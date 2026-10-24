@@ -811,24 +811,35 @@ loosened toward the life it came from.
   "Grata's son had been painted out by the baths"; "I took the box from him" / "Back in the shop, I gave him the bone."; "the satchel
   since the Corycian"; "since the frame of Valens sleeping in the fig's shade"; "The mirror jumped behind the lens against my brow, and I
   thumbed the lever round for the next frame." **Spent in Ch.26:** every line above.
-- **Ch.27 as written (Writer draft 2026-10-24, "Cumae", Chronological walk, Puteoli → the hot ground → the Lucrine shore → Avernus
-  → the Sibyl's cave → back; downstream passes re-sync quotes to the final page):** the opening claim is her hope, unspoken to anyone:
-  "I had expected the Sibyl's cave to be a door, a live one, cool under the hand and quiet in the way the Corycian had been quiet on the
-  morning I crawled into it". She does not ask Fenn whether it is a door ("I wanted one night of it unanswered: a door that kept its own
-  time and not his, whose rhythm owed nothing to tables worked backward from a schoolbook"). The satchel packed, tipped out, packed again
-  at the carters' inn. **Her eye:** the fullery smell traced to the sulphur scrapers; Grata's crescent tucked in against the fumes ("go
-  brown as a bad tooth"); the tuff's pick strokes touched ("which I could no more help than blinking"). **The frame:** she spends it on
-  Fenn and the dead lighter ("I took it while his thumb was still trying"); the frame she wanted of Lucius and the ducks is lost ("what I
-  had wanted was gone"). **The age reversal:** "I was a little short of forty; Fenn was nearly seventy."; "of us three who were awake in
-  that corridor, only I wanted to go home." **At the dead door:** "I could not laugh. I had a laugh somewhere, I thought, and it would not
-  be fetched." (no laugh shape used); "Then why bring me?" … "Why bring me at all?"; "There was another one. That had been the whole of
-  my night's hope … and it was a wall." **The coat:** she keeps the consulate carbon to herself (paraphrased, never re-quoted: "A gray
-  wool overcoat, it said, with whatever was in its pockets, sent home to the next of kin."; "In his room he had said he knew what was in
-  the notebook. That, he had no notion of."). **Speech:** English with Fenn throughout; Greek to the keeper only by implication; she says
-  "Mara" at the rock on Fenn's instruction (not talking to an object). Kalends walks to Eros's door confirmed in speech only ("Every
-  Kalends." / "It was cold on the last Kalends."); no tomb on the page. **Counts:** credential asides 0; laughs 0; words escaping her 1
-  ("That was sharper than I meant"); "Seventy-nine" not thought; the mountain and "Margaret" not on the page. Ugly sentence: "The bread was
-  dry and we ate it anyway."
+- **Ch.27 as written ("Cumae", Chronological walk, Puteoli → the hot ground → the Lucrine shore → Avernus → the Sibyl's cave → back;
+  FINAL page, md5 `0566b748…`, synced 2026-10-24 from the evaluator's cycle-4 sync list; every quote checked by grep; CUT strings
+  checked OFF the page):**
+  - **Opener (her hope, unspoken to anyone):** "I had expected the Sibyl's cave to be a door, a live one, cool under the hand and quiet
+    in the way the Corycian had been quiet on the morning I crawled into it…"
+  - **The night of not asking:** "I wanted a night of it unanswered: a door that kept its own time and not his, whose rhythm owed
+    nothing to tables worked backward from a schoolbook…"; "I had seen good pieces come apart in the hands of people who could not
+    leave them be."; "This was someone who had given me the year the same afternoon he first heard my voice". The satchel packed,
+    tipped out, packed again at the carters' inn.
+  - **Her eye:** the fullery smell traced to the scrapers; Grata's crescent tucked in ("go brown as a bad tooth"); the pick strokes
+    touched ("which I could no more help than blinking"); the body rebels at the boom, "without having decided to move" (l.108).
+  - **The frame:** "I took it while his thumb was still trying" / "It's the one I wanted." / "Of you."; the Lucius frame lost ("what I
+    had wanted was gone").
+  - **Age:** "How old are you, Fenn?" / "No reason."; "You walk like somebody's grandmother." / "I'm somebody's mother," I said.
+    "Twice. The newer one's strapped to my front."; "Of us three awake in that corridor, only I wanted to go home."
+  - **At the dead door:** "Mara," I said. (on his instruction, not talking to an object); "It's dead."; "What then, that morning?" /
+    "Why? What killed it?" / "Did you keep coming after?"; "Then why bring me?" That was sharper than I meant… "Why bring me at all?" /
+    "Show me what? That it's dead?"; "There had been another one. That had been the whole of my night's hope… and it was a wall.";
+    "And you lived where, all those years?" / "After it died?" / "Before Cumae, when you first—" (the chapter's one em-dash, l.382).
+  - **The carbon:** withheld. "In his room he had said he knew what was in the notebook. That, he had no notion of."
+  - **Eros's door:** "Eros's is only cool," / "Every Kalends." / "It was cool on the last Kalends." / "And if it isn't?"
+  - **Speech-habit ledger (guards for every later chapter):** question + fragment **2** (l.356, l.368), **≤2 per chapter**; "And…?"
+    opener **2** (l.374, l.492), ≤2; statement + dry fragment **3** (l.158 "Long before me.", l.270 "To a king.", l.288 "Twice."),
+    **WATCH, cap 2 from Ch.28**; re-ask 2; "…too" 2. Syntax from her life, not a rule: nobody remarks on it.
+  - **Counts:** laughs 0; credential asides 0; fatigue 3 spread; watching 3 spread; "before I decided" frame 1. "Seventy-nine", the
+    mountain and "Margaret" are not on the page. Ugly sentence: "The bread was dry and we ate it anyway."
+  - **CUT (never restore):** "I wanted one night"; "I was a little short of forty; Fenn was nearly seventy."; "I could not laugh. I had
+    a laugh somewhere…"; "of us three who were awake in that corridor"; "There was another one." (now "There had been"); "It was cold
+    on the last Kalends." **Spent in Ch.27:** every line above.
 #### VALENS ("Lupus") — muleteer, former murmillo, freedman; b. c. AD 38 in Thrace (Ch.6–44)
 - **Attention / worldview:** footing, exits, weather, and the moods of animals and men, which are one
   skill to him. He reads bodies before faces and asks who saw. His worldview: whoever is close enough
@@ -1650,15 +1661,24 @@ loosened toward the life it came from.
   "Valens watched her across the lamp."; "clear and careful voice"; "pacing the shop below" / "until I came down"; "I could not argue
   with that, and he knew it, and it did not please him."; "harness that wanted nothing". **Spent in Ch.26:** every line above; the
   splice; the ford at Stabiae; the dawn *goodnight*.
-- **Ch.27 (Writer draft 2026-10-24; Puteoli only, S1 and the dawn yard; not on the walk):** brings the string (four mules, jars) to the
-  Puteoli fish wharf; next day hauls brick to Misenum. "What does he want?" / "How far?" / "The boy can't walk that." The octopus
-  seller's ass: "Not him," … "It's resting the near hind. It's favored that leg since we turned the corner." At the inn: "Is it the
-  door," he asked, "that he wants to show you?" / "He won't say. He says I'd only argue with it." / "You would." / "Take the boy's hat.
-  The sun on the sea burns him through his hair." / "It's one day." Chooses the jenny in the dark and checks her off fore: "She's
-  sound," he said. "She bites. Not hard." Puts the rope in Lucius's hands: "Hold that." (Lucius's compliance is shown, not echoed). One
-  look across the jenny's back ("the look … that I had had from him on the morning of every journey since the ambush"). **Looks at
-  people: 1.** No comparison in his mouth. Off the page for the rest of the chapter; Fenn's "That's a guy who'd have come along" and the
-  gladiator exchange ("He fought. In the arena, at Corinth, before my time.") are about him, not to him.
+- **Ch.27 (Puteoli only: the wharf, the inn, the dawn yard; not on the walk; FINAL page, md5 `0566b748…`, synced 2026-10-24; quotes
+  checked by grep):** brings the string (four mules, jars) to the Puteoli fish wharf; next day hauls brick to Misenum.
+  - **Wharf:** "What does he want?" / "How far?" / "The boy can't walk that."; the octopus seller's ass: "Not him," said Valens. "It's
+    resting the near hind. It's favored that leg since the corner."
+  - **Inn:** "Valens lay stretched on the far edge of the mattress, his fingers laced behind his skull."; "Is it the door," he asked,
+    "that he wants to show you?"; "You would. Bring the boy's hat. The sun on the sea burns him through his hair." / "It's one day.";
+    "If he made anything of the satchel he kept quiet about it".
+  - **Yard:** "Valens had done his choosing in the dark."; "Valens had her off fore up on his knee and was running a thumb inside the
+    rim of the hoof."; "She's sound," he said. "She bites. Not hard."; lifts Lucius into the pannier and gives him the rope: "Hold
+    that."; moves a loaf until the jenny stands level; "He gave me the look over her withers that I had had from him on the morning of
+    every journey since the ambush".
+  - **About him, not to him:** Fenn's "He did, and looked her in the feet, and put the boy in the basket like he was loading eggs." /
+    "That's a guy who'd have come along if somebody hadn't wanted brick."; Mara's "He was a gladiator, at Corinth. Long before me.";
+    Fenn's "Not hard, says the gladiator."
+  - **States:** looks at people 1. No comparison in his mouth; nobody remarks on it.
+  - **CUT (never restore):** "It's favored that leg since we turned the corner."; "Take the boy's hat."; "He fought. In the arena, at
+    Corinth, before my time."; "the look across her back"; "up between his knees… round the inside of the hoof"; the tag order "Not him," Valens
+    said. (now "said Valens") **Spent in Ch.27:** every line above; "Hold that."
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
   scores. **He sees people last.** His worldview: his real life is the one he is going back to. He has
@@ -1679,7 +1699,8 @@ loosened toward the life it came from.
   No deathbed conversion and no wisdom.
 - **Physicality / silence:** ink-stained fingers, a tremor in the left hand, a 1968 Zippo turned over and
   over that he refills with lamp oil and cannot make work (it catches once, Ch.35). He pats a crying
-  woman very fast. A potted basil.
+  woman very fast. A potted basil. (**Ch.27 FINAL:** the Zippo's one appearance before Ch.35, shown dead
+  as the named frame, now SPENT; it is never stage business between lines.)
 - **Verbal tic:** none — distinguished by vocabulary band (frozen-1968 English against perfect Greek) and
   attention (systems before people)
 - **The 1968 idiom pool** (each item **at most twice book-wide** in his speech; draw widely, never lean
@@ -1820,40 +1841,84 @@ loosened toward the life it came from.
   23 with a carful of grown men bawling, she's had six days of that already"; "a carful of fellows"; "she saw plenty of that on the TV
   Monday"; "all square"; "who wasted nothing he had bought"; the rage letter's second tables-are-coming close (letter (2)'s use stays on the page). **Spent in Ch.26:**
   every line above.
-- **Ch.27 as written (Writer draft 2026-10-24, "Cumae"; downstream passes re-sync to the final page). New physical life (none of the
-  Ch.25 SPENT narrated states as narration):** a traveling tunic of unbleached wool to the knee, "his shins below it thin and white as
-  peeled sticks", a broad straw hat on its cord, a walking stick; walks "the way he talked", fast uphill, no stops for breath; stamps on
-  the hot ground to make it boom; sits in a light-window over the sea with his legs swinging; slides into home plate in the Sibyl's dust;
-  on the way back "the youth drained out of Fenn between one bend of the path and the next" (tired fragments: "Long day." / "My feet.").
-  **The invitation (Ch.27 delivers it, in person, fresh words):** "Then tomorrow you're mine, the three of you." … "We're taking a walk
-  to Cumae." / "I'm showing you, I'm not telling you." … "I mean to watch your face when there's nothing to argue with." **The lighter
-  (its one appearance; first named "Zippo" on the page; shown dead, once, as the named frame):** "brass … gone brown everywhere but at
-  the corners", the lid "a little crooked on its hinge"; grass stalk for a cigarette; "Two thin sparks … The wick had drunk nothing but
-  lamp oil for thirty years and wanted nothing to do with a spark."; "Hold on, hold on, it works, it works sometimes, you've got to warm
-  it up."; "That one's no good, it didn't catch"; "Once we're back you get that one printed up and mail me a copy, glossy, and I'll stand
-  it on top of the TV". **The automat, mutation 2 (lemon meringue; trigger: sulphur crystals fringed white, NOT a coin):** "you could
-  pick out your slice through the glass before you paid, so you'd walk the row hunting for the tallest one" → "In his room, a year ago,
-  it had been coconut cream. I let him have the lemon." **The dead door (rules shown, not lectured):** a blind storage cut off the
-  landward side of the gallery, short of the Sibyl's chamber ("That's for the customers"); his scratched X ("X marks the spot … I was
-  thirty-six years old"); found the summer of AD 43 "from Virgil and a picture I'd seen in a magazine on a ship once"; alive = sound goes
-  in and stops, cold you feel before the passage's end; dead = the voice "bounces", taps answer, warm "like a wall's warm"; died in the
-  spring of AD 50 with no shake and nothing on the tables ("It just quit"); he sat up with it every Kalends for a year, then once a year,
-  in the month it died (the keeper: "Is it that month again?" / "You say that every year."). **Anchor:** his palm to the rock under the
-  mark, fingers spread, held "a while past knowing and then a while past that". **His addresses (all measured from doors; never said):**
-  a goatherd's hut under the Corycian two winters; Cumae over a rope walk seven years ("I'd check the hill in the morning before I checked
-  the weather"); Misenum with the fleet; Puteoli since 62 "for Eros's". **The coat (1968, canon from the page):** Navy-surplus gray wool;
-  slept in it a week at the Corycian mouth; took it off at the slot "because you can't get down that crack on your belly in a coat",
-  folded it on the rock where the kite string was tied, "the notebook went in the pocket so it wouldn't get wet"; landed in snow in
-  shirtsleeves; believes "Some goatherd came along and got himself a coat out of the deal" (he does not know about the consulate carbon).
-  The kite string asked after ("Thirty years … goats got it"). **The Phillies:** Richie Allen ("Third base, nineteen sixty-four, rookie
-  of the year, the only guy on that club who didn't fold up in September"), the diamond drawn with his stick, "my sister used to scream at
-  me from the stoop" (sister unnamed; no name in person). **Other new canon:** knows Ischia as Aenaria / monkey island; Kirk Douglas at the
-  Boyd three times; Wanamaker's; the Spectrum; Carter and King Tut; "the Geographic"; age "Sixty-nine in August, give or take a calendar"
-  (AD 76). **Idiom pool, Ch.27 (count against ≤2 book-wide):** for crying in the sink 1 (variant; "for crying out loud" stays 1); a sap 1
-  (→ 2/2, SPENT); swell 1 (→ 2/2, SPENT); no kidding 1; no great shakes 1; you're the doctor 1; get a load of 1; kid 1 (Tarquin); okay 1;
-  fellow 1; "anyhow" 1; "figure" 0; "slowly" 0; "Get out" 0. **Not used:** the promise ("the one it brought", stays 1 of 3), "breathe
-  with the earth" as a phrase, "one door with many mouths", the mountain, the voicemail rage, "Margaret". **Tremor notes:** 2 (the
-  cupped hand at the frame; "the left one went on going after the right had stopped"). No lists, no numbering.
+- **Ch.27 in person ("Cumae"; FINAL page, md5 `0566b748…`, synced 2026-10-24 from the evaluator's cycle-4 sync list; every quote
+  checked by grep; CUT strings checked OFF the page):**
+  - **Physical life (narration; none of the Ch.25 SPENT states):** a traveling tunic of plain unbleached wool to the knee, "his shins
+    below it thin and white as peeled sticks", a broad straw hat on its cord. The stick: possession at the yard gate, the thistle
+    (l.138), pointing at the ducks (l.172), drawing the diamond (l.414), the fade (l.496). Climbs uphill fast, "without stopping for
+    breath". Stamps the crust twice ("delighted"). The light-window: sits sideways with his sandals braced, hangs out "a hand hooked on
+    the rock". The slide: "He slid his own length through the dust… wheezing and laughing at once". On the way back: "the youth drained
+    out of Fenn between one bend of the path and the next" / "He walked holding the edge of the pannier."
+  - **The invitation (delivered in Ch.27, in person):** "Then tomorrow you're mine, the three of you." … "We're taking a walk to
+    Cumae."; "So she won't mind company."; "I'm showing you, I'm not telling you. Tell you now and you'd only argue, and I mean to watch
+    your face when you've got nothing to argue with."
+  - **Greek register (courtly, no contractions; to Valens and to walk-ons):** "There by noon and back by lamplighting, sir, at a child's
+    pace…"; "He shall ride. I will hire an ass."; "You choose for me, then, sir. I shall pay whatever you tell me, and quarrel about it
+    afterward with myself."; to the keeper "I am sorry for your loss," / "I went there once myself," … "For the pay." / "If I am still
+    here, my friend."; "Spell it well, sailor,"; to the scrapers "After the Ides," … "and not a day before, so bring a hat."
+  - **English register:** comma-spliced run-ons, the barker's patter, the Navy and Philadelphia. A life, not a rule.
+  - **Idiom (Ch.27, counted against ≤2 book-wide):** once each: get a load of, no great shakes, no kidding, you're the doctor, no dice,
+    okay, fellow ("the fellow's behind you"), anyhow, kid, Mom, Tough room, C'mere, Yeah. **swell** 1 (→ 2/2 book-wide, **SPENT**);
+    **buddy** 1 (→ 2/2, **SPENT**). **NOT on the page:** "for crying in the sink" and "a sap" ("a sap" stays 1/2 book-wide).
+  - **Period references:** the Spectrum + the Flyers (NEW, 1/2); the Marlboro man (1/2); Kirk Douglas at the Boyd; Wanamaker's; Carter /
+    King Tut / the Geographic; Richie Allen; the automat (not named Horn & Hardart, which stays 1/2); the TV.
+  - **Speech-habit ledger, Ch.27 FINAL (guards for every later chapter):** doubled phrases 1 counted (l.210), **≤1 per chapter**;
+    capacity-sizing hyperbole 2 (l.334 the side of beef; l.388 "you could've anchored a destroyer"), **≤2 per chapter whatever the
+    wording**; "and all / and everything" tails 2 (l.142 "stamp and all"; l.160 "the chin and everything"), **≤2**; **"guy" 3 = AT CAP**
+    (l.124, 156, 420); "the whole" 2 · "So" retort 2 · "Come on" 2 · "sir" 2 · "would you" 2 · "[X] would." 2 · "No [noun]" 2 · "folks"
+    2 · "a mile" 2; "like" comparisons varied (sport, film, trade, domestic, Navy), voice, no single template. Exclusions as recorded:
+    barker formula, the umpire's call, quotation, onomatopoeia. Nobody on the page remarks on any of it.
+  - **Narrated states FINAL:** delight 3 · stick 5 · hat 3 · rope-on-wrist 3 · tremor 2 · squint 2 · leaning 2 · laughing 2 · shouting 2
+    · pointing 2 · arm thrown 1.
+  - **The Zippo (its one appearance; DEAD; the named frame):** "The brass had gone brown everywhere but at the corners… the lid sat a
+    little crooked on its hinge"; "For the picture," … "Like the Marlboro man."; the grass stalk for a cigarette; "Two thin sparks came
+    off it… and fell on the wick and died." / "scrape, one spark, nothing"; "a man on the corner of Broad and somewhere in a wind,
+    determined"; "Hold on, it works, it works sometimes, you've got to warm it up."; "That one's no good, it didn't catch," / "Of a
+    lighter that won't light." / "Of you."; "Once we're back you get that one printed up and mail me a copy, glossy, and I'll stand it
+    on top of the TV where the company can see it."
+  - **The automat, mutation 2 (trigger: sulphur crystals "fringed along their tops with something white", NOT a coin):** "Lemon
+    meringue," → "At the automat," Fenn said, "they did a lemon meringue with the meringue piled a mile high and the little brown peaks
+    on it, like this, and you could look your slice over before you paid, so you'd walk the row hunting for the tallest one, everybody
+    did it, with some guy behind me breathing down my collar." … "You'd go in for a cup of coffee and leave with the pie, every time."
+    Mara: "In his room, a year ago, it had been coconut cream. I let him have the lemon."
+  - **The dead door (rules shown in action, never lectured):** "X marks the spot," … "I was thirty-six years old, what were you
+    expecting, a map?"; the anchor: palm under the mark, fingers spread, "a while past knowing and then a while past that"; "Nope," /
+    "Say something." / "Anything, your name, go on, out loud, right at it."; "Hear that? It bounces." / "like roll call" / "like talking
+    into a pillow" / "Your own breath, the whole hill gone deaf on you. In August you're frying out on that terrace, and in here you
+    could hang a side of beef."; "Eros's is a little one. This was a beauty… I got it out of Virgil and a picture I'd seen in a magazine
+    on a ship once… the summer of forty-three"; "As a doornail," … "That's a joke. Door. Nail. No?" / "Tough room," … "Half the house.
+    I've played worse."; "Spring of fifty. Seven years I hiked it the first of every month… because I can hear my feet… Warm like a
+    wall's warm, that's all it was, a wall."; "Sat out on that terrace till the sun went. The keeper had all his hair then."; "Nothing
+    killed it. That's what gets me." / "It just quit."; "Every month for a year, in case it was only sleeping. You sit up with a sick
+    friend, don't you? After that, once a year."; "That it was here!… Carter finds King Tut, and does he sit on it?… writing it up for
+    the Geographic".
+  - **Addresses (measured from doors; never said so):** "A goatherd's hut under the Corycian, two winters." / "No dice."; Cumae: "Near
+    the boats, over a rope walk. Swell little room." / "I'd check the hill mornings before I checked the weather."; Misenum: "The fleet
+    paid"; "After that it's sixty-two, and Puteoli, for Eros's".
+  - **The coat (1968, canon from the page):** "Best coat I ever owned, gray Navy wool, you could've anchored a destroyer with it. I sat at
+    that mouth in it for hours… your breath smoked up there at sunup, even in July. When I did go in I shucked it… folded it on the rock
+    where I'd tied off the string, nice and square, Navy style, with my cigarettes in the pocket so they wouldn't get wet. Like a good
+    scout… Then it's forty-one, and I'm in my shirtsleeves in Phocis with snow falling on me."; "Some goatherd came along and got
+    himself a coat out of the deal, you can bet on it. I hope it fit him, it never did fit me in the shoulders." He does not know about
+    the carbon.
+  - **The kite string:** "Was there a string? Kite string, white, tied round a stone by the slot. You'd have stepped right over it." /
+    "Thirty years," … "goats got it… I watched one eat a postcard off me once, stamp and all".
+  - **Phillies / the diamond:** "He played third in sixty-four and got rookie of the year, the only guy on that club who didn't fold up
+    in September…"; "That's home," (home plate); "He stops on the bag, I was nine before I learned to stop on the bag, my sister used to
+    scream at me from the stoop." (sister UNNAMED); "Safe by a mile, and if the ump says different he can take it up with the
+    commissioner."; "One more inning," … "Come on, Mom, he's just getting the hang of it."
+  - **Other canon:** "Sixty-nine in August, give or take a calendar." (AD 76); Ischia / Aenaria / monkey island ("I went over and
+    checked"); "Don't tell Valens about the slide." / "I'll tell him I fell down. It's even true."; "Is this the month it died?" /
+    "Spring," said Fenn. "Yeah."; "Write me," … "After the Kalends. Every one. Just that it's cool." / "It will be,".
+  - **Not used:** the promise (stays 1 of 3), "breathe with the earth", "one door with many mouths", the mountain, the voicemail rage,
+    "Margaret", "home" for anywhere in this century ("Back home, at the mouth, I mean" = 1968).
+  - **CUT (never restore):** the writer-draft strings "walks the way he talked"; "The wick had drunk nothing but lamp oil for thirty
+    years and wanted nothing to do with a spark."; "Hold on, hold on, it works…"; "you could pick out your slice through the glass
+    before you paid" (the stale ~l.1834 quote, replaced above); "from Virgil and a picture"; "slept in it a week"; "the notebook went in
+    the pocket so it wouldn't get wet"; "I mean to watch your face when there's nothing to argue with"; "It's never the stuff they
+    kept"; "If I'm still here, my friend."; "Don't tell your mister about the slide."; "Is it the month it died?"; "Just that it's
+    cold"; "One more inning, come on, Mom"; "I'd check the hill in the morning before I checked the weather"; "Third base, nineteen
+    sixty-four, rookie of the year…"; and every Fenn string in the Ch.27 CUT log (At-risk after Ch.27). **Spent in Ch.27:** every line above.
 ---
 
 ## MAJOR SECONDARIES
@@ -3190,15 +3255,25 @@ loosened toward the life it came from.
   moved nothing else"; "unasked,"; "Lucius set about it with his whole body."; "The lid slid in its groove"; "Lucius had the bone
   upstairs."; "and it took its new life calmly". **Spent in Ch.26:** every line above; the frame and its close; the knucklebone's
   hand-off and its roll (rolled / fetched / skittering / flat side / palm).
-- **Ch.27 (about twenty-one months; first spoken words; Writer draft 2026-10-24):** single words only, per the age stage: "Smoke," (to
-  the hot ground, "offered to the bowl at large"); "Duck," (Avernus); "Bone," (back from the gallery); "Again," (after Fenn's slide). Rides
-  the jenny's near pannier with Valens's rope in both fists ("as far as I saw he did not loosen them till the sun was high"); stands to
-  eat and watches the ducks; leans on Mara's finger toward the dark stretches of the gallery and has to be lifted; **the knucklebone**
-  (verbs avoid rolled / fetched / skittering / flat side / palm): "He drew his arm back and threw the bone along the floor as hard as he
-  could. It went knocking away from him. It struck, jumped, struck again, tumbling end over end … until the hill was full of a small bone
-  falling."; comes "trotting out of the third bright patch … beaming, his knees yellow with dust". **The diamond:** stands on home,
-  swings his empty arm at the Greek word, runs on "Run!" and pulls up exactly on each bag, "waiting to be told what that had been"
-  (takes adults at their word, shown in action, no instruction quoted back). Lent adult moods 0.
+- **Ch.27 (about twenty-one months; first spoken words; FINAL page, md5 `0566b748…`, synced 2026-10-24; quotes checked by grep):**
+  - **Words (single words only, per the age stage):** "Smoke," said Lucius out of the pannier. It was his first word of the morning.;
+    "Duck," said Lucius.; "Bone." (untagged); "Again," said Lucius.
+  - **The rope:** "Lucius sat bolt upright in the rush with the rope across his lap and his fists locked round it, and as far as I saw
+    he did not loosen them till the sun was high."
+  - **Lunch and the gallery:** stands to eat, watching the ducks, "while the crust crumbled away in his fingers"; hangs on Mara's finger
+    toward the shadow; "The third time he plumped down on the floor and had to be lifted."; "Lucius laughed, at the voice and not the
+    joke".
+  - **The bone (verbs avoid rolled / fetched / skittering / flat side / palm):** "He drew his arm back and threw the bone along the
+    floor as hard as he could. It went knocking away from him… until the hill was full of a small bone falling."; "Then he set off after
+    it, running"; "trotting out of the third bright patch with the bone raised above his head, beaming, his knees yellow with dust".
+  - **The diamond:** "Four steps took him to the near corner, where he halted on the little square with both feet on it, exactly";
+    "waiting to be told what that had been"; "the bone held out before him in two hands, the way the Delphi priests bore the god's
+    things in procession". Takes adults at their word, shown in action; no instruction quoted back.
+  - **States:** fist 5 (WATCH, ≤3 in Ch.28); absorbed watching 3 + listening 1. Lent adult moods 0.
+  - **Guard:** Smoke / Duck / Bone / Again are not "said" again in Ch.28–29.
+  - **CUT (never restore):** "offered to the bowl at large"; ", intent on the harbor"; the fly on the jenny's neck; "watched the man in
+    the window"; the tag "Bone," he said.; "pulled up on the little square"; "the first corner"; "the crust went to pieces in his fist";
+    "set off after it at a run". **Spent in Ch.27:** every line above; the bone down the gallery; the bases run.
 #### AELIA — daughter of Mara and Valens; b. winter AD 75–76 (newborn Ch.26; babbling Ch.29; Ch.30, 34, 38–44; 3½ at the eruption)
 - **Attention / worldview:** the world's textures and tastes. She is greedy for everything and finds
   delight where adults find danger (sand, must, floating stones, falling pumice).
@@ -3244,12 +3319,19 @@ loosened toward the life it came from.
   start to end of it"; "She went on sleeping through it, full of milk, with her fingers spread on my breast."; "with Aelia asleep
   against me in the sling"; "Aelia did not wake for the tapping"; "unbend the fingers singly"; "until the bakers were at their oven".
   **Spent in Ch.26:** every image above.
-- **Ch.27 (about three to four months; sling; Writer draft 2026-10-24):** held up at arm's length by Fenn on the wharf, "hung at the end
-  of his arms and kicked", and pulled his hat cord (grip 1); her hair "rose off her crown in a black brush" (Fenn's Jupiter); Grata's
-  bronze crescent tucked in against the sulphur; asleep through the Sibyl (asleep notes 3: on the cloak at Avernus "with her arms flung up
-  past her ears"; "my daughter asleep against me" at the dead door; "sighed in her sleep, and went heavy again" at the coat); wakes on
-  the shore road, "her eyes open and roving over the sky … and she made a long soft noise at it and did not cry". No cry, no mouthing, no
-  lent mood.
+- **Ch.27 (about three to four months; sling; FINAL page, md5 `0566b748…`, synced 2026-10-24; quotes checked by grep):**
+  - Held "up before his face with both his arms straight out"; "Aelia hung at the end of his arms and kicked. A hand came free of her
+    wrappings and found the cord of his hat where it crossed his throat, and pulled." (grip 1)
+  - Hair: "It had come in thicker over the winter and rose off her crown in a black brush that no amount of Grata's spit would lay
+    down." (Fenn's "the whole of Jupiter up on top like a shaving brush")
+  - "The bronze crescent on its red thread" tucked in against the sulphur.
+  - **Asleep, 3:** "slept with her arms flung up past her ears"; "my daughter asleep against me"; "Aelia stirred against me and went
+    heavy again."
+  - **Wakes, 2:** "woke wanting milk, and wanting it now"; "She lay against me with her eyes open and roving over the sky… and she made
+    a long soft noise at it and did not cry."
+  - Close: "my daughter awake against me".
+  - No cry, no mouthing, no lent adult mood.
+  - **CUT (never restore):** "sighed in her sleep, and went heavy again". **Spent in Ch.27:** every image above.
 ---
 
 ## THE 1998 FRAME
@@ -4540,21 +4622,29 @@ FINAL page, md5 `0ba7d411…`, synced 2026-10-24; quotes checked by grep. All fu
   Ch.26.
 
 #### Ch.27 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
-Writer draft 2026-10-24; all functional; no habit assigned to any of them.
-- **The keeper of the Sibyl's cave** (functional; recurs only if Fenn returns): a man on a stool by the entrance with an unlit lamp,
-  hive baskets on a plank, a pot lid in his lap; Campanian Greek that "dropped its endings the way the Greek of Neapolis did". Knows
-  Fenn as "The Chaldean" ("Is it that month again?"); "Two coppers each. Children come in for nothing, though it's children touch
-  everything."; his own bad day: the swarm left "at sunup out of the third window and made off toward Misenum … and the lot of them
-  never looked round"; "What does a bee want with Misenum?"; sells "the Sibyl's own" honey; bites a coin; "Next year, then … Same month."
-  / "You say that every year." Worldview: everything he keeps leaves for somewhere better.
-- **The sulphur scrapers** (two, at the hot ground): baskets on their backs, iron hoes, "arms yellow to the elbow"; the older one:
-  "Chaldean! Is it going to rain?" (Fenn: "After the Ides, my friend … so bring a hat.").
-- **The octopus seller's ass** (animal): "dozing with its ears half down and its weight on three legs", resting the near hind.
-- **The jenny** (animal, hired, chosen by Valens): small, gray, rush panniers; "She bites. Not hard."
-- **The sleeping fisherman** (seen from the window): asleep in his boat under the cliff the whole visit.
-- **The oyster men** on the Lucrine stakes; the men at the carters' inn by the tunny sheds (unseen).
-- **Mention (Fenn):** the bath keeper on the hot ground and his wife ("thinks I hung the moon"); the guide trade at Avernus; Agrippa;
-  Aeneas; Tarquin and the Sibyl's books; Carter; Kirk Douglas; the Boyd; Wanamaker's; the Spectrum; Richie Allen; his sister (UNNAMED).
+FINAL page, md5 `0566b748…`, synced 2026-10-24; quotes checked by grep. All functional; no habit assigned to any of them.
+- **The keeper of the Sibyl's cave** (functional; recurs only if Fenn returns): on a stool by the entrance with an unlit lamp, hive
+  baskets upturned on a plank, a pot lid in his lap. His Greek "dropped its endings the way the Greek of Neapolis did".
+  - "The Chaldean," … "Is it that month again?"
+  - "Two coppers each. Children for nothing, and it's children touch everything."
+  - "Honey, if the lady wants it. The Sibyl's own, off the windows. Less of it than yesterday. The third window swarmed at sunup, queen
+    in front, the whole house of them, and made for Misenum. I stood on this terrace beating a pot lid at them like a fool. None of
+    them so much as looked round."
+  - "Misenum," said the keeper to the sea. "What does a bee want with Misenum?" / "You came back, at least."
+  - Bites a coin. "They'll be at Misenum already," … "living on some admiral's roses. Next year, then. Same month." / "You say that
+    every year."
+  - States: sea-gaze 2, pot lid 3 (spread). Worldview: everything he keeps leaves for somewhere better.
+- **The sailor** off a fleet galley: carving his name in the tuff on the chamber bench, "he had reached the third letter, and never
+  raised his head". No line.
+- **The sulphur scrapers** (two, at the hot ground): baskets on their backs, short iron hoes, "their arms yellow to the elbow". The older
+  one: "Chaldean! Is it going to rain?"
+- **Others:** the octopus seller's ass ("its weight on three legs"); the jenny ("She bites. Not hard."; bites Fenn's forearm); the
+  sleeping fisherman; the oyster men on the Lucrine stakes.
+- **Mention:** the bath keeper (l.102 charges "for every breath of it"; l.112 "says when his grandfather was a boy they'd hear it clear
+  down at the road"); Fenn's sister (UNNAMED); Grata (honey bought for her); the guide trade at Avernus; Agrippa; Aeneas; Tarquin.
+- **CUT (never restore):** "Children come in for nothing, though it's children touch everything."; "at sunup out of the third window
+  and made off toward Misenum… the lot of them never looked round"; "his gaze kept to the sea"; "with great bitterness"; "After the
+  Ides, my friend"; "thinks I hung the moon" (the bath keeper's wife is off the page).
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -7607,36 +7697,105 @@ line each, so that walk-ons don't all sound like Mara.
     - (12) No "very carefully".
     - (13) Median sentence suits the high gear.
 
-- **At-risk after Ch.27 (Writer draft 2026-10-24; "Cumae", Chronological walk, 3 breaks; re-sync to the final page downstream):**
-  - **SPENT:** the opening claim ("I had expected the Sibyl's cave to be a door…"); the invitation lines ("Then tomorrow you're mine, the
-    three of you", "I'm showing you, I'm not telling you", "I mean to watch your face when there's nothing to argue with"); the octopus
-    seller's lame ass; "Hold that." (Valens); the satchel packed / tipped out / packed again; the hot ground (the hollow boom, the
-    Spectrum, "since Hannibal", the fullery smell traced to the scrapers, the crescent tucked in); **the automat lemon meringue (mutation
-    2; Ch.35's mutation 3 must forget the pie and use no sulphur, no coin, no glass-door slice-picking)**; the kite string and the goat
-    and the postcard; "for crying in the sink"; the oyster line ("still making up its mind"); Kirk Douglas at the Boyd; Avernus's ducks
-    ("So much for that."); **the Zippo shown dead, once, as the named frame** (grass stalk, two sparks, "it works sometimes", "Once we're
-    back you get that one printed up … on top of the TV"); the frame of Lucius and the ducks lost; the keeper and his swarm; the
-    barker's patter and the oak leaves; Tarquin's burned books ("It's never the stuff they kept"); Ischia / monkey island; "You walk like
-    somebody's grandmother." / "I'm somebody's mother"; "Sixty-nine in August, give or take a calendar"; "You think I can't get down from
-    here."; "X marks the spot"; the palm to the dead rock (the anchor; Ch.42's hand at the door must be built from other material, and
-    none of "seam / niche / painted plaster / hand flat" was used here); "Say something" / "Mara," at the rock / the voice that bounces;
-    "like talking into a pillow"; "you could hang a side of beef"; "As a doornail … Door. Nail. No?"; "It just quit"; "You sit up with a
-    sick friend, don't you?"; Carter and King Tut / the Geographic; the rope-walk room and "I'd check the hill in the morning before I
-    checked the weather"; **the coat story (1968)**; "Some goatherd came along and got himself a coat out of the deal"; the carbon kept
-    from him ("That, he had no notion of."); the bone thrown down the gallery ("until the hill was full of a small bone falling"); the
-    diamond in the dust, Richie Allen, "He stops on the bag", the slide into home; "One more inning, come on, Mom"; "Next year, then …
-    Same month." / "If I'm still here, my friend." / "You say that every year."; "Don't tell your mister about the slide." / "I'll tell
-    him I fell down. It's even true."; "Is it the month it died?" / "Spring," … "Yeah."; "Write me … After the Kalends. Every one. Just
-    that it's cold." / "And if it isn't?" / "It will be,"; the bay going purple with the lamps lit down the mole.
-  - **Doors, canon added (rules shown in action):** a door can die with no cause Fenn can find; a live dormant door swallows sound and
-    breathes cold you feel before you reach it; a dead one gives the voice back and is "warm like a wall's warm". Fenn found the Cumae
-    door in AD 43; it died in the spring of AD 50; he kept a Kalends vigil a year, then an annual visit in its month. **Eros's door was
-    cool at the last Kalends** (Mara, in speech); Fenn has asked her to write him after every Kalends.
-  - **Ch.28 guards:** Felix's absence is news **on return** to Pompeii (Ch.27 never mentions him; he was not on the trip). The hook must
-    not be QUESTION (Ch.27's hook) and the pull must not be QUESTION PLANT (Ch.27's pull). The Kalends letter-to-Fenn is a standing ask,
-    not a device: never quote "Just that it's cold" again, and never stage a Kalends walk before Ch.30. Fenn's idiom: "a sap" and "swell"
-    now at 2/2 (SPENT). Lucius's single-word lines (Smoke / Duck / Bone / Again) must not repeat as words he "says" in Ch.28–29.
-    "the oyster beds / stakes" and "bars of sun" are Ch.27's; rest them.
+- **At-risk after Ch.27 (FINAL page, md5 `0566b748…`; "Cumae", Chronological walk, 3 breaks; synced 2026-10-24 from the evaluator's
+  cycle-4 sync list; replaces the Writer-draft block):**
+  - **SPENT (Ch.27's, never again, in any words):** the opening claim ("I had expected the Sibyl's cave to be a door…"); the invitation
+    lines; the octopus seller's lame ass; "Hold that." (Valens); the satchel packed / tipped out / packed again; the hot ground (the
+    boom, "booms like the Spectrum when the Flyers score", "since Hannibal", the fullery traced, the crescent tucked); **the automat
+    lemon meringue** (Ch.35's mutation 3 must forget the pie and use no sulphur, no coin, no slice-picking); the kite string / goat /
+    postcard; the oyster line ("still making up its mind"); Kirk Douglas at the Boyd; "So much for that."; **the Zippo shown dead, as
+    the named frame**; the lost Lucius frame; the keeper and his swarm; the barker's patter and the oak leaves; Tarquin ("Nobody ever
+    went digging for the stuff they kept"); monkey island; grandmother / "somebody's mother"; "Sixty-nine in August, give or take a
+    calendar"; "X marks the spot"; the palm to the dead rock (the anchor; Ch.42's hand at the door is built from other material); "Say
+    something" / "Mara," / the voice that bounces; "like talking into a pillow"; the side of beef; "Door. Nail. No?" / "Tough room"; "I
+    can hear my feet" / "Warm like a wall's warm"; "It just quit"; "You sit up with a sick friend, don't you?"; Carter / King Tut / the
+    Geographic; the rope-walk room and the hill-before-weather line; the coat story and the goatherd who got the coat; the carbon
+    withheld; the bone down the gallery; the diamond, Richie Allen, "stops on the bag", the slide; "One more inning"; "Next year, then.
+    Same month." / "You say that every year."; "Don't tell Valens about the slide." / "It's even true."; "Is this the month it died?";
+    "Write me… Just that it's cool." / "And if it isn't?" / "It will be,"; the bay going purple with the lamps down the mole.
+  - **Objects / doors, canon from the final page (rules shown in action):**
+    - **The Zippo:** DEAD, shown once (the named frame is SPENT).
+    - **The coat:** gray Navy wool, folded at the Corycian mouth "with my cigarettes in the pocket" (NOT the notebook). The carbon is in
+      the satchel, "folded small in the pocket inside the notebook's back cover".
+    - **Eros's door:** faintly COOL every time ("only cool" / "Still cool?" / "cool on the last Kalends" / "Just that it's cool"). It is
+      never cold until the plan escalates it. The Ch.25 l.258 re-quote (X1): "Shut tight. Cool under my hand with the sun on it, and
+      not a breath out of it." The Ch.25 l.314 repair (continuity CRIT-4): "Cool paint, noon or midnight, and nothing."
+    - **The Cumae door:** found AD 43; died spring AD 50; the keeper's "that month". A live door swallows sound and holds a cold you
+      meet before the end; a dead one gives the voice back and is "warm like a wall's warm"; it can die with no cause Fenn can find.
+    - **The lemon meringue:** on the page (quoted on Fenn's card).
+    - **The Pentax:** a frame spent on Fenn; the Lucius frame lost.
+  - **CUT LOG — Ch.27, every repaired string (never restore):**
+    - **Writer-draft card quotes off the page:** "The wick had drunk nothing but lamp oil for thirty years and wanted nothing to do with
+      a spark."; "walks the way he talked"; "slept in it a week"; "the notebook went in the pocket so it wouldn't get wet"; "I mean to
+      watch your face when there's nothing to argue with"; "It's never the stuff they kept"; "If I'm still here, my friend."; "Don't tell
+      your mister about the slide."; "Is it the month it died?"; "Just that it's cold" / "It was cold on the last Kalends."; "One more
+      inning, come on, Mom"; "I'd check the hill in the morning before I checked the weather"; "you could pick out your slice through
+      the glass before you paid"; "from Virgil and a picture" (now "I got it out of Virgil"); "Third base, nineteen sixty-four, rookie
+      of the year…"; "Hold on, hold on, it works…"; plus the Mara, Valens, Lucius, Aelia and walk-on strings on their cards.
+    - **Cycle 0 (F/C/P):** "How'd you go in, belly down?" / "Kneeling. Sideways, with my back to the slab." / "On your knees, for crying
+      in the sink." / "like a sap"; "Like Eros's," / "Like Eros's, only colder." / "Still cold?"; "I slept up at that mouth in it a
+      week" / "The day I went in I shucked it"; "August, you're frying" / "it's at the bottom"; "Along the right-hand wall" / "on your
+      right the windows" / "through every"; "his gaze kept to the sea" / "Fenn asked me, delighted."; "swinging the stick, the jenny's
+      rope looped over his wrist" (at l.88) / "walked ahead with the stick" / "with his stick planted and his hat brim pulled down";
+      "intent on the harbor" / "A fly on the jenny's neck…" / "watched the man in the window"; "the guy who drew it" / "I've seen guys
+      built like that" / "Like a guy on a billboard." / "his white hair standing straight up" / "right under us there's a guy asleep";
+      "And it's dead." / "And after?" / "And before, when you first-"; "Next thing I'm crawling around Phocis… snow up to here"; "said
+      Fenn gravely" / "with great bitterness"; "here was his Jupiter, cast from a stool…" / "Jupiter sitting up there"; "within five
+      minutes of first hearing my voice" / "before I had settled what to do about it"; "walking backward, and spread his arms" / "He
+      walked backward out of the light" / "That's the whole racket".
+    - **Cycle 0 echo swaps (E1–E67), old strings:** "a little before the room"; "the look across her back"; "in the half-dark against
+      the rock"; "showing over the wall against the sky"; "far along toward the doorway"; "another holding a child"; "He picked his way
+      back across the crust"; "two steps back toward the lip"; "before the string had cleared the warehouses"; "from before us and
+      behind"; "cropping behind us"; "with the sun down behind us in the sea"; "lit down the mole, small and yellow"; "the color go out
+      of everything"; "sat again beside the cheese"; "up between his knees… round the inside of the hoof"; "a long hoarse roar between
+      his teeth"; "into the hill from the doorway"; "soft enough to scratch with a key"; "gave a little of themselves to my fingers";
+      "everything that had come through the cave with me"; "tipped it all onto the blanket"; "possibly the year before"; "He called
+      down to the sleeping fisherman"; "the first corner, where he pulled up"; the tag "Bone," he said.; "At Horn and Hardart"; "I wanted
+      one night"; "Feet had hollowed the floor into"; "before he lifted it off"; "going off toward the Misenum road"; "sweeping both arms
+      out"; "The corridor ran on"; "gray poles rising from"; "set off after it at a run"; "Somebody ought to"; "somewhere beyond the rock
+      at his shoulder"; "He spread his hands, and the left one"; "the steam standing up behind us"; "taller than a man and open to the
+      sky"; "Don't tell your mister"; "That's all I ask of a dinner"; "Your own breath and that's all"; "the fuller's lads"; "I'd check
+      the hill in the morning"; "He tapped the stone beside his mark"; "with the chin and the whole business"; "There was another one.";
+      "when there's nothing to argue with"; "He laughed a little, through his nose."; "pick out your slice through the glass"; "since we
+      turned the corner"; "under the temple wall"; "our own fullery up the street"; the tag order "Not him," Valens said.; "His voice
+      reached me out of it"; "which by then was nearly all there was to see"; "while the crust went to pieces in his fist"; "that's
+      what happened to it"; "asks the same for what's left"; "When he talked at all it came short."; "when I brought Aelia out"; "while
+      you're at Misenum"; "worked down the rows"; "I worked it out from Virgil"; "You'd have walked right over it."; "loosened the neck
+      of my tunic".
+    - **Cycle 1 (D/G):** "All right, all right"; "Sure. Sure you were."; "Do me… do me, would you?"; "Hold on, hold on"; "It is, it
+      is,"; "C'mere, come here"; "One more," he said. "One more inning, come on, Mom"; "He threw out an arm at the whole hill."; "said
+      Fenn in Greek, and pointed".
+    - **Cycle 2 (S):** "The whole floor's hollow, you could put the Spectrum under here and have room left over for the ice"; "a lemon
+      meringue you could've stood a spoon up in"; "you could have set a watch by it"; "shuffles the whole deck"; "the whole fortune";
+      "So she'll love it later."; "Come on, it's down this end,"; "He shall ride, sir."; "Step right up, step right up"; "And you? That
+      morning?"; "Did you keep coming? After?"
+    - **Cycle 3 (T):** "the Spectrum would fit under here, ice and all"; "so stiff it would hold a spoon upright, with the meringue on
+      top a mile high".
+    - **Rejected drafts (never use):** "What did you do, that morning?"; "Where did you go, that morning?"; "there's room for the
+      Spectrum under here"; "said Fenn, and pointed"; "loosened my tunic at the throat".
+    - **Ch.25, replaced on the finalized page (never restore):** l.258 (X1) "Shut tight. Warm in the sun, like everything else on that
+      road."; l.314 (continuity CRIT-4) "Cold paint at night and warm paint in the day, and nothing."
+  - **WATCH:**
+    - Fenn "guy" at cap 3 per chapter.
+    - Fenn doubled phrases ≤1 per chapter; capacity sizing ≤2 per chapter whatever the wording; "and all / and everything" tails ≤2.
+    - Mara question + fragment ≤2; "And…?" ≤2; statement + dry fragment → **≤2 from Ch.28** (Ch.27 had 3).
+    - swell, buddy SPENT (2/2 book-wide).
+    - Spectrum/Flyers and the Marlboro man at 1/2 each; Horn & Hardart 1/2; "a sap" 1/2.
+    - "oyster stakes", "bars of sun", "pick strokes", "the jenny": rest them.
+    - Lucius's "fist" 5 (≤3 in Ch.28).
+  - **Ch.28 guards:**
+    1. **Felix is missing, and the reader learns it as news on return** to Pompeii. Ch.27 never mentions him; he was not on the trip.
+    2. **The hook must NOT be QUESTION** (Ch.27's). **The pull must NOT be QUESTION PLANT** (Ch.27's).
+    3. **TICKING CLOCK is still the one hook type never used.**
+    4. **No arena fight is set up for Valens.** He does not fight; nothing on the page sets up a bout for him.
+    5. **Felix's palm-branch is the last reservation** (Ch.21 was the first; the bible allows "one more if earned"). Drawn in fresh
+       wording; none of Ch.21's scratch strings reused.
+    6. **No route through Ch.21's barracks gate.** The search finds him another way.
+    7. **Nobody names the mountain**, the narrator included.
+    8. Lucius's Smoke / Duck / Bone / Again are not "said" again.
+    9. The Kalends letter to Fenn is a standing ask, not a device. Never re-quote "Just that it's cool", and stage no Kalends walk
+       before Ch.30.
+    10. Fenn's voicemail rage stays a one-off.
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
@@ -8470,3 +8629,4 @@ finalizing the chapter. Never add a tic to fix it.
   extended; Ch.27 walk-on block (the cave keeper and his swarm, the sulphur scrapers, the animals) and At-risk after Ch.27 added. No
   catchphrase, habit or tic assigned (Voices from lives, not rules); tic-bearer roster still NONE. Downstream passes re-sync quotes to the
   final page.
+- **2026-10-24 (finalize Ch.27):** every writer-draft Ch.27 block replaced from the evaluator's consolidated sync list (`evaluations/chapter-27-eval.md`, Re-evaluation cycle 4, "CHARACTER-BIBLE SYNC LIST — Ch.27 FINAL"), synced to the FINAL page md5 `0566b748…` (prose identical to `e3e00dd1…`; after dialogue-polish, disruptor, continuity repair, cycles 0–3, cycle 4 PASS, FN1 header only). FENN: in-person voice in both registers (courtly Greek, no contractions; comma-spliced 1968 English); idiom pool to the page ("for crying in the sink" and "a sap" NOT on it; swell and buddy now 2/2 SPENT); period references (Spectrum + Flyers NEW 1/2); the speech-habit ledger with its guards (doubling ≤1/chapter, capacity sizing ≤2, "and all / and everything" tails ≤2, "guy" AT CAP 3); narrated states final; the Zippo DEAD (the named frame, SPENT; base card annotated); the lemon meringue re-quoted from the page (stale "pick out your slice through the glass" replaced); the dead door, the addresses, the coat with the cigarettes (not the notebook), the kite string, the diamond. MARA: lines and habit ledger (question+fragment ≤2; "And…?" ≤2; statement+dry fragment 3 on WATCH, cap 2 from Ch.28); her draft lines CUT. VALENS: wharf, inn and yard verbatim ("since the corner", "Bring the boy's hat", "the look over her withers", "Long before me."). LUCIUS and AELIA rebuilt from the page (Lucius fist 5 WATCH; Aelia asleep 3 / wakes 2, no cry, no mouthing). Walk-ons rebuilt (the keeper verbatim, the sailor with no line, the scrapers; the bath keeper's wife struck). Eros's door faintly COOL throughout, with the Ch.25 l.258 (X1) and l.314 (CRIT-4) re-quotes. **At-risk after Ch.27** replaced with the FINAL block: SPENT, objects/doors canon, the full CUT log (writer-draft card quotes, cycle 0 F/C/P, E1–E67 old strings, cycles 1–3, rejected drafts, the two replaced Ch.25 lines), WATCH and the ten Ch.28 guards. Every quote placed on a card grepped against the final chapter-27.md (Ch.25 re-quotes against chapter-25.md); every CUT string checked off the page. Not touched: the manuscript, STATE.yaml, ENTITY_STATE.yaml, outline.md. No catchphrase, habit or tic assigned (Voices from lives, not rules); tic-bearer roster still NONE.
