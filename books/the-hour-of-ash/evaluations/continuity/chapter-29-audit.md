@@ -177,3 +177,67 @@ suggested_patches:
 | 18 (day 2) | forum figures; dice at the fountain; Valens in a cap ("supper tomorrow"); Felix home on leave, king by Venus, the law | l.58–l.142 |
 | 19 (day 3) | Fenn arrives at breakfast; the walk to the crossing; the mime; the feast; the jug; Cerdo recalled at the second firing | l.146–l.596 |
 | 20 (planned) | the stealing lesson "before he goes" | l.588 |
+
+---
+
+## Repair log (book-editor, 2026-10-24)
+
+Edited in place, `manuscript/chapters/chapter-29.md`. Before each swap went in, I checked it against the bible's SPENT, CLOSED and CUT lists for Ch.27–28 and the Ch.29 guards, against what the dialogue-polish and disruptor passes had cut, and against Ch.1–28 by grep. Line refs are to the pre-repair file.
+
+### CRITICAL
+| # | Finding | Fix on the page |
+|---|---|---|
+| CRIT-001 | l.450 Felix's reported silence ("had held his peace") | "The king mounted Grata's bench with his wreath slipping." |
+| CRIT-002 | l.168 Valens fronts an object ("The wood I'll cut anyway") | "I heard. I'll cut the wood anyway," said Valens. |
+| CRIT-003 | l.12 "In all our time on that street…" | "On other mornings he brought the basket to my plank bareheaded, took his coppers and went." I did not use the audit's "Until that morning": Ch.16 l.22 has "until that morning I had…". |
+| CRIT-003 | l.48 "in all our years there" | "…more light than our shop had ever burned." I did not use the audit's "since we came": it is already in Ch.6 and Ch.19, so this would have been a third use. |
+
+### WARNING
+| # | Finding | Fix on the page |
+|---|---|---|
+| WARN-01 | l.80 "no one carted" vs the fish-sauce cart | "since no wood came round by cart that week." |
+| WARN-02 | l.150/152 Mummers / Broad Street reuse | l.150: "It's the Gimbels parade … it's Thanksgiving morning, and all it wants is Santa going up a fire ladder into the store window." l.152: "You're on the wrong coast for Gimbels." I kept "wrong coast" so that Fenn's "I'm on the wrong everything." still answers it. Gimbels gets 0 hits in Ch.1–28. Ch.2's "Thanksgiving, 1967" is Fenn's own document, with no phrase overlap. |
+| WARN-03 | l.388 Fenn asks Mara for the Greek | "…wherever the Greek gave way. For the umpire he settled on *brabeus*, the judge at the games." The l.434 payoff stands. |
+| WARN-04 | "the stealing" never explained to Valens | l.388: "through the three strikes and the four wide ones and the base a fast man could steal," |
+| WARN-05 | l.372 wool cap as 1968 protection | "Wool, with a peak at the front for the sun, and a hard shell over it, the last I saw." "by the time I left" tripped a 3× recurrence and "before I left" echoed Ch.22, so both were varied away. |
+| WARN-06 | Answering "You were sitting down" | l.454 "There was a Gaul. I beat him." The tag was dropped to clear a "him said valens" echo with Ch.27; the speaker is clear from Felix's order. This agrees with Ch.12 and avoids "down". l.290 "you eat and he eats and I eat and they fetch" (Felix's opening "Sit," to Cerdo kept). l.314 "Not you. You've been bought." I used "Not you" instead of "Leave it" so that it does not pre-echo Valens's "Leave those." at l.584. Also l.320 "sat back down" became "settled again" (narration near the guard phrase). |
+| WARN-07 | l.512 Fenn's "live to a great age" fortune | "You have a son, madam," he told her, "and a husband, and more lentils than any woman in Campania." The fortune now tells only the visible present and predicts nothing. Grata's "Any midwife would have told me that" still lands, since a midwife delivered the son. "Do not marry before thirty" stays as the chapter's one joke fortune. |
+| WARN-08 | l.164 "the bow he kept for Valens" | "Fenn bowed to him." The SPENT waist-bow is gone too. |
+| WARN-09 | Narrated-silence census 5 | CRIT-001 plus l.384, now "Valens's big finger went among the pits and nudged…". The 3 left are l.264, l.270 and l.582. |
+| WARN-10 | l.470 "For a breath" | "Felix looked off at the fullery's shut door. Then he made his next law." l.252 "For some breaths" sits inside the protected anchor and is untouched. The gesture gate is clean. |
+| WARN-11 | Fenn "sir" ×5 | l.334 "Permit me."; l.390 "The runner was here, and…". That leaves 3 (l.166, l.298, l.444). |
+| WARN-12 | Felix's stacked-question bursts ×3 | l.412 is now "Get my face on one.", an imperative. The audit's "Could you get my face on one?" made a cross-paragraph echo ("the street could") with Ch.28. That leaves 2 bursts (l.104, l.408). |
+| WARN-13 | Superlative "ever" boast ×3 | l.132 "Somebody write that one on a wall." l.460 "Short and done, and you could learn from it, Felix," said Grata. l.500 is kept. The boasts are now 2 (l.500, l.568). |
+| WARN-14 | Place as addressee ×3 | l.460 handled by WARN-13. l.516: "'The street stays up,' Felix said from our doorway." Only l.142 is left. |
+| WARN-15 | l.492 "Felix's mouth fell open." | Deleted. |
+| WARN-16 | Festival-span vantage | l.10 "Evidence for it came to me as the festival went along, our fifth in that street". The audit's "from the festival's first morning" doubled l.12's "opening morning", and a "the first day / from the first" draft tripped two 3× recurrences. l.594 "I had been making my case since the caps went on". "for three days, and" tripped a 3× recurrence, and the new wording points back to the first piece of evidence. l.274 stays. |
+
+### INFO applied (trivially right)
+- I-06: l.508 "Grata's palm" → "Grata's hand". l.514 "left her palm in his" → "left it in his", which also avoids three "hand" in 12 lines.
+- I-09: l.566 cut ", and the felt cap beneath" (Fenn never takes a pilleus).
+- I-10: l.402 "'Then the tenth,' he told me, '…'" signals the switch to English without adding an 8th "in English" tag.
+- I-11: l.158 "and him" → "and Valens".
+- I-14: l.174 "The sea's had half the road there".
+- I-15: l.338 "before my Secundus was born".
+- I-16: l.484 "I cannot carry a tune to the door."
+- I-20: l.490 "I set down the jug."
+
+INFO not applied: I-02 (optional, left as written), I-13 (bible sync belongs to the evaluator's FINAL pass; character-bible.md is not touched here), and the rest, which are verifications.
+
+### Untouched by instruction
+The opening claim (l.8), the closing line, Valens's olive-pit questions, "I shall get olives in", the farce and Lucius's roll, Mara's cup rising to Cerdo's jug, and the bad song (apart from cutting WARN-15's sentence, which sits inside that paragraph).
+
+### Gates after repair
+- `bash tools/check_chapter.sh 29`: **ALL MECHANICAL GATES CLEAN**. Style clean; grammar 0 errors; rhythm 0; show/tell clean; voice-wear strict clean; tic gate clean (gestures included); **5c echo scan 0**; **5d closed ledger clean**; metaphor clean.
+- `python3 ../../tools/shape_check.py .`: **SHAPE CLEAN**. Ch.29 opens narrative and closes quiet.
+- Words: shape 6,950 → **6,897**; style 6,965 → **6,912**; show/tell 6,969 → **6,916**.
+- Dialogue: **37%** shape, **36.6%** show/tell (band 35–45; was 36.5%).
+- The l.6 header comment is updated.
+
+### For the bible sync (not applied here)
+These new or changed lines will need to go into the card quotes and the Ch.29 walk-on block:
+- Fenn: the Gimbels line ("wrong coast for Gimbels"), the "hard shell" line, and the Grata fortune.
+- Felix: "Somebody write that one on a wall.", "Not you. You've been bought.", and "Get my face on one."
+- Valens: "There was a Gaul. I beat him." and "The sea's had half the road there".
+- Grata: "Short and done…".
+- Fenn's period-reference census: Mummers and Broad Street are off the page; Gimbels and Thanksgiving are on it.

@@ -3,13 +3,13 @@
 #### *Pompeii · December, AD 76*
 
 <!-- SCENE BUDGET (Target 6,600; Essayistic, claim -> evidence -> shame; 3 breaks / 4 sections; gear high; dialogue 35-45%): S1 the claim; the evidence of the street: the felt caps (the bakers' oven slave and his master alike), the invitation and the baker's terms, the fountain line, wax tapers for pay, clay figures under the colonnade, dice in the open; Valens in a cap; Felix home on leave and made king by the throw 1,850 | S2 Fenn off the fish-sauce cart; the roads; the street stage at the crossing, the farce of the baker; Valens weeps; Lucius on his shoulders pushes the bread at his mouth 1,700 | S3 the table: Cerdo served first; Grata's aside; Fenn's olive pits and Valens's questions; the king's laws; Mara will not sing, and sings 2,150 | S4 the jug; the cup that rose; what nobody saw; Cerdo called back; the street after; quiet image 900 -->
-<!-- Word count: shape 6,950 / style 6,965 / show-tell 6,969 (writer draft was 7,143 / 7,158 / 7,162; pre-disruption 7,013 / 7,028 / 7,032) | Target: 6,600 (105%) | Writer draft 2026-10-24; dialogue-polish 2026-10-24 (evaluations/dialogue-chapter-29.md); hook-craft 2026-10-24 (evaluations/hook-chapter-29.md: penultimate closing sentences only); disruptor 2026-10-24 (evaluations/disruption-chapter-29.md; closing line: apostrophe only, bakers' -> baker's) | Dialogue 37% shape (show/tell 36.5%; band 35-45) | Breaks 3 (4 sections) | Median sentence 19 (gear high) | Semicolons 2.1/1k | Opens narrative ('Of everything the Romans ever thought of, the roads and the arches and the concrete included, Saturnalia was the best.', 19 words; VOICE hook via the claim), closes quiet (21-word last sentence, 'Under the baker's shutter the oven was showing a strip of light on the stones again, and somebody was feeding it.'; quiet SENSORY pull, not a gut punch) | Em-dash 0 | as-if 1 | And-chains 3 | Negation pivots 0 | Echoes 0 | check_chapter.sh 29 ALL MECHANICAL GATES CLEAN (incl. 5c echo scan, 5d closed ledger); shape_check clean | Anchor: Valens weeping helplessly at the farce of the cuckolded baker, and Lucius, on his shoulders, pushing the half roll into his father's mouth -->
+<!-- Word count: shape 6,897 / style 6,912 / show-tell 6,916 (continuity repair 2026-10-24, evaluations/continuity/chapter-29-audit.md "Repair log": 3 CRIT + 16 WARN + 9 INFO fixed; pre-repair 6,950 / 6,965 / 6,969; writer draft was 7,143 / 7,158 / 7,162; pre-disruption 7,013 / 7,028 / 7,032) | Target: 6,600 (105%) | Writer draft 2026-10-24; dialogue-polish 2026-10-24 (evaluations/dialogue-chapter-29.md); hook-craft 2026-10-24 (evaluations/hook-chapter-29.md: penultimate closing sentences only); disruptor 2026-10-24 (evaluations/disruption-chapter-29.md; closing line: apostrophe only, bakers' -> baker's) | Dialogue 37% shape (show/tell 36.6%; band 35-45) | Breaks 3 (4 sections) | Median sentence 19 (gear high) | Semicolons 2.1/1k | Opens narrative ('Of everything the Romans ever thought of, the roads and the arches and the concrete included, Saturnalia was the best.', 19 words; VOICE hook via the claim), closes quiet (21-word last sentence, 'Under the baker's shutter the oven was showing a strip of light on the stones again, and somebody was feeding it.'; quiet SENSORY pull, not a gut punch) | Em-dash 0 | as-if 1 | And-chains 3 | Negation pivots 0 | Echoes 0 | check_chapter.sh 29 ALL MECHANICAL GATES CLEAN (incl. 5c echo scan, 5d closed ledger); shape_check clean | Anchor: Valens weeping helplessly at the farce of the cuckolded baker, and Lucius, on his shoulders, pushing the half roll into his father's mouth -->
 
 Of everything the Romans ever thought of, the roads and the arches and the concrete included, Saturnalia was the best.
 
-Evidence for it came to me all festival long, our fifth in that street, and I gathered it the way I gathered other people's broken pots, without anyone asking me to.
+Evidence for it came to me as the festival went along, our fifth in that street, and I gathered it the way I gathered other people's broken pots, without anyone asking me to.
 
-The first piece came with our bread, at daybreak on the opening morning. The bakery facing us sent the loaves across in a flat basket each day. Their slave who kept the oven all night carried it: heavy and slow-moving, gray at the temples, the insides of both forearms glazed pink and shiny from years of reaching into heat. In all our time on that street he had brought the basket to my plank bareheaded, taken his coppers and gone. That morning a *pilleus* of brown felt sat on his head, round and soft and brimless. It was the cap stamped on the reverse of Brutus's coin, where it stood between two daggers for liberty. Behind him in the bakery doorway his master wore its twin, and nothing in that early light, at the width of a street, said which of the two men owned the other.
+The first piece came with our bread, at daybreak on the opening morning. The bakery facing us sent the loaves across in a flat basket each day. Their slave who kept the oven all night carried it: heavy and slow-moving, gray at the temples, the insides of both forearms glazed pink and shiny from years of reaching into heat. On other mornings he brought the basket to my plank bareheaded, took his coppers and went. That morning a *pilleus* of brown felt sat on his head, round and soft and brimless. It was the cap stamped on the reverse of Brutus's coin, where it stood between two daggers for liberty. Behind him in the bakery doorway his master wore its twin, and nothing in that early light, at the width of a street, said which of the two men owned the other.
 
 "Cerdo, look at you." Grata was at her marble, coaxing the fire under her pots, and the words were for him, for me and for the street. "The very spit of your master, and him dearer than you by half, that's the festival for you, and the aediles can't tell a thief from a decurion, which in this town is no great change, so mind it doesn't go to your head, Cerdo, you'll want that head for the oven."
 
@@ -45,7 +45,7 @@ At the spout I stood in mine with my hands up my sleeves for the cold, behind a 
 
 "I carry yours," the girl answered, and faced the spout again.
 
-My customers paid me in wax, and before the festival was two days old the old cobbler's shelf held more light than our shop had burned in all our years there. A widow from the alley behind the Stabian baths had brought me her lamp to mend three times that year. She came to my bench in her cap with a bundle of tapers in a cloth and laid it down as tenderly as if it held her grandchildren.
+My customers paid me in wax, and before the festival was two days old the old cobbler's shelf held more light than our shop had ever burned. A widow from the alley behind the Stabian baths had brought me her lamp to mend three times that year. She came to my bench in her cap with a bundle of tapers in a cloth and laid it down as tenderly as if it held her grandchildren.
 
 "Four, and good wax, the honey's still in it, smell it, and everybody that owes pays in wax at the festival, so that's for the lamp."
 
@@ -77,7 +77,7 @@ Behind them a ring of small boys was bowling walnuts at a pyramid of walnuts.
 
 "He can have these." The boy with the biggest heap dropped three into Lucius's hand. "He's too little to win any." Holding the mule and the walnuts, Lucius had no hand to spare for me, and kept close at my side the whole road back, joined to my skirt by no more than habit.
 
-Grata had put a cap on Valens too, and he wore it as he wore everything, without remarking on it. There was bark on his shoulders from cutting her firewood, since no one carted that week.
+Grata had put a cap on Valens too, and he wore it as he wore everything, without remarking on it. There was bark on his shoulders from cutting her firewood, since no wood came round by cart that week.
 
 "Did they keep the festival at the school in Corinth?" I asked.
 
@@ -129,7 +129,7 @@ The fuller's lad fetched a wreath of bay off the tree by the vats. Grata jammed 
 
 "Then you will be among the waited-on," I said.
 
-"So I will." That had not occurred to him, and it pleased him enormously. "That's the best law anybody ever made. And the fuller dances, here, now, on Grata's bench, and the mender gets soot on her nose for laughing at the king."
+"So I will." That had not occurred to him, and it pleased him enormously. "Somebody write that one on a wall. And the fuller dances, here, now, on Grata's bench, and the mender gets soot on her nose for laughing at the king."
 
 "I did no such thing."
 
@@ -147,31 +147,31 @@ Fenn arrived from Puteoli at breakfast, a day behind Felix, perched on the jars 
 
 "The Chaldean," Grata announced. "Hold on to your purses, he'll have your futures off you." Fenn stood in the roadway and turned slowly round on his heel, taking in the caps and the dice and the boughs nailed over the fullery door, until Felix bore down on him in his wreath.
 
-"It's the Mummers," Fenn said, dropping into English, "it's New Year's Day on Broad Street, and all it wants is a banjo and a string band in feathers."
+"It's the Gimbels parade," Fenn said, dropping into English, "it's Thanksgiving morning, and all it wants is Santa going up a fire ladder into the store window."
 
-"You're on the wrong coast for a banjo."
+"You're on the wrong coast for Gimbels."
 
 "I'm on the wrong everything." He hefted his jar. "Falernian, and it cost me an arm off a man on the quay who swore on his mother, and if it's vinegar we drink it regardless, because I don't pour good money in the gutter."
 
 Felix reached him and delivered the law in person.
 
-"You're the Chaldean, and you've never been bought, and who'd pay for that face, so you wait on me tonight, and him, and the oven man opposite, the mender's asked him, and you'll pour, shaking hand or not."
+"You're the Chaldean, and you've never been bought, and who'd pay for that face, so you wait on me tonight, and Valens, and the oven man opposite, the mender's asked him, and you'll pour, shaking hand or not."
 
 Fenn took the law with his head tilted, then straightened the wreath on Felix's head with great gravity.
 
 "Majesty," he said in his Greek, which came out stately even in our street. "I shall wait on your table with my own hands, and if they shake, the wine shall reach the cups by a longer road."
 
-The noise had brought Valens out of the stable. Fenn bowed to him from the waist, the bow he kept for Valens.
+The noise had brought Valens out of the stable. Fenn bowed to him.
 
 "Sir, I am to be your servant tonight, I hear."
 
-"I heard. The wood I'll cut anyway," said Valens.
+"I heard. I'll cut the wood anyway," said Valens.
 
 Walking down to the crossing that afternoon, Fenn kept at his elbow.
 
 "How have the roads been since the rains?"
 
-"Bad past the salt pans. The sea's taken a bite out of the road there, and the carts go single. The inn at Herculaneum waters its wine. It waters its hay as well."
+"Bad past the salt pans. The sea's had half the road there, and the carts go single. The inn at Herculaneum waters its wine. It waters its hay as well."
 
 "How does a man water hay?"
 
@@ -287,7 +287,7 @@ Cerdo came at lamp-lighting. He had washed; his hair was wet at the temples unde
 
 He took in the lit room behind me, the people in it, and the end of the plank, where our only stool with a back stood waiting.
 
-"Sit," said Felix from the bench, "that's the king's law, you sit and he sits and I sit and they fetch, and who's minding your oven?"
+"Sit," said Felix from the bench, "that's the king's law, you eat and he eats and I eat and they fetch, and who's minding your oven?"
 
 "The boy," said Cerdo. "He'll let it die, and I'll be on my knees at the mouth of it till daylight, bringing it back."
 
@@ -311,13 +311,13 @@ Cerdo ate the first mouthful slowly, with an eye on the doorway, and the second 
 
 Valens lasted till the loaf. When it wanted cutting he was halfway up from his seat with his knife out, and Felix seized his tunic.
 
-"Sit. You've been bought."
+"Not you. You've been bought."
 
 "Once."
 
 "Once is plenty." Felix relieved him of the knife and passed it over to me. "She cuts."
 
-Valens sat back down with his hands spread on the plank and nothing for them to do, and ate the piece I gave him.
+Valens settled again with his hands spread on the plank and nothing for them to do, and ate the piece I gave him.
 
 Fenn's gift for Lucius came out when the bowls were empty. It was a ball the size of a large apple, made by a saddler on the Puteoli waterfront from a drawing in wax. Two long pieces of white hide, each pinched at the waist, were curled together and joined with red thread in a single seam, the stitches neat and pulled too tight. At the very middle, under my thumb, something yielded a little and then refused.
 
@@ -331,11 +331,11 @@ Lucius took possession of it at once. "Ball," he told his father. "Tata. Ball."
 
 A dish of olive pits sat by Fenn's elbow. He cleared the bowls to one end, swept a space with his forearm, and began laying them out.
 
-"Permit me, sir." His Greek was at its most courtly. "It is a game, and I shall need a little room."
+"Permit me." His Greek was at its most courtly. "It is a game, and I shall need a little room."
 
 Grata came across for her pot and stopped at my shoulder.
 
-"The bakery's man in the good seat," she said in my ear, which for Grata was a whisper the fountain could have heard. "You've a soft head under that cap, and he'll go back to his mat by the oven tonight and lie there thinking about your stool, and be no use to the baker till the Ides, and I had a girl once, before my Secundus, and a cap and a cup at the door every year was all she got, and she slept the sounder for it." She hoisted the pot onto her hip. "Send him home with the sausage end, that's the sweetest."
+"The bakery's man in the good seat," she said in my ear, which for Grata was a whisper the fountain could have heard. "You've a soft head under that cap, and he'll go back to his mat by the oven tonight and lie there thinking about your stool, and be no use to the baker till the Ides, and I had a girl once, before my Secundus was born, and a cap and a cup at the door every year was all she got, and she slept the sounder for it." She hoisted the pot onto her hip. "Send him home with the sausage end, that's the sweetest."
 
 Fenn set a crust of the loaf at the corner closest to him. He laid four pits in a square tilted so that one corner sat on the crust, and made a dab of lentil in the middle.
 
@@ -369,7 +369,7 @@ Valens's hand came out, open. In time Lucius gave up the ball into it, though no
 
 "If the thrower hits him," Valens asked next, "this one with the club, what protects him?"
 
-"A cap." Fenn pointed through the candles at the felt on Valens's head. "Wool, with a peak at the front for the sun."
+"A cap." Fenn pointed through the candles at the felt on Valens's head. "Wool, with a peak at the front for the sun, and a hard shell over it, the last I saw."
 
 Valens touched his own cap.
 
@@ -381,13 +381,13 @@ Fenn's fingers stopped on the plank. "Once, before my day, a player for Clevelan
 
 "Pitched nine more years."
 
-Valens let that go by. A big finger went among the pits and nudged the one on the little hill back to the spot Fenn had moved it from.
+Valens's big finger went among the pits and nudged the one on the little hill back to the spot Fenn had moved it from.
 
 "Go on."
 
-Fenn kept on, through the three strikes and the four wide ones, in a Greek made for Plato and now explaining a foul ball, with English leaking out of it wherever the Greek gave way. "What's the Greek for an umpire?" he asked me, and I gave him *brabeus*, the judge at the games. Then the plank turned into Brooklyn, on the first of October, nineteen fifty.
+Fenn kept on, through the three strikes and the four wide ones and the base a fast man could steal, in a Greek made for Plato and now explaining a foul ball, with English leaking out of it wherever the Greek gave way. For the umpire he settled on *brabeus*, the judge at the games. Then the plank turned into Brooklyn, on the first of October, nineteen fifty.
 
-"I was sixteen," he went on, switching to English for me and moving pits at speed, "and they wouldn't let you stand more than a hundred deep in front of the appliance store on Frankford Avenue, so I was the hundred and first and got it over a policeman's shoulder. Bottom of the ninth, tied, Dodgers on first and second, Snider singles up the middle, and here comes Abrams round third to win it, here." A pit swung round the square's corner under his finger. "And out here's Ashburn, Richie Ashburn, who can't throw, ask anybody, he throws like my sister, and he's running in before the ball's off the bat." He returned to Greek for Valens. "The runner was here, sir, and the ball came from here, and he was out at the crust by the length of this table."
+"I was sixteen," he went on, switching to English for me and moving pits at speed, "and they wouldn't let you stand more than a hundred deep in front of the appliance store on Frankford Avenue, so I was the hundred and first and got it over a policeman's shoulder. Bottom of the ninth, tied, Dodgers on first and second, Snider singles up the middle, and here comes Abrams round third to win it, here." A pit swung round the square's corner under his finger. "And out here's Ashburn, Richie Ashburn, who can't throw, ask anybody, he throws like my sister, and he's running in before the ball's off the bat." He returned to Greek for Valens. "The runner was here, and the ball came from here, and he was out at the crust by the length of this table."
 
 "Why did he run, with it coming?"
 
@@ -399,7 +399,7 @@ Fenn kept on, through the three strikes and the four wide ones, in a Greek made 
 
 "They would."
 
-"Then the tenth, Sisler, home run, three in, the pennant, and I walked home to my mother's and I don't believe my feet touched the sidewalk." He sat back, short of breath. "We lost the Series four straight, but never mind that."
+"Then the tenth," he told me, "Sisler, home run, three in, the pennant, and I walked home to my mother's and I don't believe my feet touched the sidewalk." He sat back, short of breath. "We lost the Series four straight, but never mind that."
 
 Cerdo had followed none of the English and most of the Greek, and he had stopped eating to watch Fenn's hands.
 
@@ -409,7 +409,7 @@ Felix was out of his seat and standing over the pits.
 
 "Some of them far better," Fenn answered, "and their faces are printed on little cards, which boys trade in the street."
 
-"Their faces? Could you get my face on one?"
+"Get my face on one."
 
 "I could have it stamped on a coin, if you would only be patient."
 
@@ -447,17 +447,17 @@ Valens had not finished with the pits.
 
 Fenn turned a pit over on the plank with one fingertip. "I shall get olives in."
 
-The king had held his peace as long as he could bear. He mounted Grata's bench with his wreath slipping.
+The king mounted Grata's bench with his wreath slipping.
 
 "Now a story. Valens tells how he won his freedom."
 
-"When it finished, I hadn't fallen down," said Valens.
+"There was a Gaul. I beat him."
 
 "Tell it properly."
 
 "That was all of it."
 
-"Shortest tale ever told at a festival table, and the best," Grata told the plank, "and you could learn from it, Felix."
+"Short and done, and you could learn from it, Felix," said Grata.
 
 "The Chaldean tells the king's stars next, and will I be famous?"
 
@@ -467,7 +467,7 @@ Fenn rose and inspected him across the candles. "Majesty," he began, "you have M
 
 "It means do not marry before thirty."
 
-For a breath Felix was away at the fullery's shut door. Then he made his next law. "Everybody sings, and the guest first."
+Felix looked off at the fullery's shut door. Then he made his next law. "Everybody sings, and the guest first."
 
 Cerdo sang sitting, eyes shut, a song from the hill villages behind Nuceria about a goat that ate the priest's wreath off the altar and was made priest itself. His voice had gone to smoke at the oven years before and scraped in his throat, but he had all the verses. Before the end Grata was beating time on the plank and Felix was singing the goat. Aelia, in my lap, stared along the tapers on the plank's edge and crowed at each flame in turn.
 
@@ -481,15 +481,15 @@ Cerdo sang sitting, eyes shut, a song from the hill villages behind Nuceria abou
 
 "Sing."
 
-"Felix, I cannot carry a tune as far as the door."
+"Felix, I cannot carry a tune to the door."
 
 "Be a sport," Fenn put in, in English. "It's a party."
 
 "I sang, lady," said Cerdo. "You heard what it was."
 
-I gave Fenn the jug.
+I set down the jug.
 
-I sang them the one song I had every word of, the one the organ played in the middle of the seventh inning at the Vet. My father had taken me once, on a school night in May. He rose for it holding his frank, and sang louder than anybody in our section, and we were gone in the eighth to beat the traffic on the expressway. It started too high, and a line later it had sunk too low and wandered about down there; I heard it wander and could not call it back. Felix's mouth fell open. "That'll be a hymn to one of their gods," said Grata, "and he's welcome to it," and she covered the ear of Aelia's that was nearer me. Lucius hugged his ball and did not take his eyes off me.
+I sang them the one song I had every word of, the one the organ played in the middle of the seventh inning at the Vet. My father had taken me once, on a school night in May. He rose for it holding his frank, and sang louder than anybody in our section, and we were gone in the eighth to beat the traffic on the expressway. It started too high, and a line later it had sunk too low and wandered about down there; I heard it wander and could not call it back. "That'll be a hymn to one of their gods," said Grata, "and he's welcome to it," and she covered the ear of Aelia's that was nearer me. Lucius hugged his ball and did not take his eyes off me.
 
 Fenn came in on the peanuts, loud, in a saloon baritone with no shame anywhere in it, word-perfect, and drowned me out, and I was grateful and kept on underneath. On the line after the peanuts he flung both arms wide over the candles and sang the beams the one about never getting back, as loud as his lungs would let him.
 
@@ -505,15 +505,15 @@ I sat and drank my wine.
 
 * * *
 
-When the tapers on the sill had burned to stubs, Fenn's jar was drained, and Grata had sent over one of hers, and the talk had broken into pieces. Fenn had Grata's palm open in the lamplight and was reading her fortune off it in Latin.
+When the tapers on the sill had burned to stubs, Fenn's jar was drained, and Grata had sent over one of hers, and the talk had broken into pieces. Fenn had Grata's hand open in the lamplight and was reading her fortune off it in Latin.
 
 "I'm making this up as I go," he confided sideways, in English. "Don't tell her."
 
-"You will live to a great age, madam," he told her, "and eat lentils without end."
+"You have a son, madam," he told her, "and a husband, and more lentils than any woman in Campania."
 
-"Any midwife would have told me that, and cheaper," said Grata, and left her palm in his.
+"Any midwife would have told me that, and cheaper," said Grata, and left it in his.
 
-"The street stays up," Felix told the dark from our doorway, and the dark paid him no heed. Valens had Lucius asleep on him with the ball squeezed between them, and Aelia slept in her basket under the bench with the doll's crooked leg in her mouth.
+"The street stays up," Felix said from our doorway. Valens had Lucius asleep on him with the ball squeezed between them, and Aelia slept in her basket under the bench with the doll's crooked leg in her mouth.
 
 The jug stood empty in front of Cerdo.
 
@@ -563,7 +563,7 @@ Opposite me Cerdo was explaining the bakery's flue to Fenn, with gestures.
 
 I watched him cross from our doorway; halfway over he pulled the felt cap off his head and stuffed it in his belt, then went in at the baker's door, which shut behind him.
 
-"Mind you don't wake my bench," Grata said at the door. She took her pot home, and her empty jar, but left her bench, because Fenn was asleep on it, face to the plaster, hat tipped down and the felt cap beneath.
+"Mind you don't wake my bench," Grata said at the door. She took her pot home, and her empty jar, but left her bench, because Fenn was asleep on it, face to the plaster, hat tipped down.
 
 "Best night of the whole festival," Felix told me, yawning. He carried a blanket through to the mules, still crowned, and lay against the dun in the straw, and she shifted over for him. Valens carried Lucius through to his pallet, and by his return I had started to clear.
 
@@ -591,6 +591,6 @@ He let it alone, and I scraped the bowls into Grata's pot for the morning and ga
 
 "Both."
 
-I left the field where Fenn had laid it and wiped the plank round it. I carried the cups out to the step and rinsed them in the bucket, singly. It was late and cold on the step and the cups took a while. I had made my case all week, and I believed it; I still believed it at the bucket, rinsing, with the cup I had held out going round in the water among the others.
+I left the field where Fenn had laid it and wiped the plank round it. I carried the cups out to the step and rinsed them in the bucket, singly. It was late and cold on the step and the cups took a while. I had been making my case since the caps went on, and I believed it; I still believed it at the bucket, rinsing, with the cup I had held out going round in the water among the others.
 
 The tapers inside were down to their last finger of wax, and I blew them dark and left the brazier to itself. Back on the step for the last cup, I found the street unlit both ways as far as the fountain. Under the baker's shutter the oven was showing a strip of light on the stones again, and somebody was feeding it.
