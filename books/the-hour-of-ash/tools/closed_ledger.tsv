@@ -24,3 +24,5 @@
 \bask anybody\b	20	"Ask anybody." spoken shape SPENT (Ch.20; Ch.29 C4)
 \bmy voice (?:stopped|failed|broke|gave out|would not (?:come|start|stay)|wouldn't (?:come|start|stay))\b	20	Mara's voice failing as the body's reaction: retired ("voice stays retired", Ch.20; Ch.29 P8)
 \b(?:went|rose|burst) up into the sun\b	22	"into the sun" CUT (Ch.22 W-12; Ch.29 P11a)
+\bcurled up\b	29	"curled up" CLOSED: 3x book-wide in three unrelated senses (Ch.8, Ch.16, Ch.29 K1); no fourth
+\bgave us an? [a-z]+	29	"[X] gave us a [noun]" frame CLOSED (Ch.29 l.88 speech, l.472 narration K3; rest it)

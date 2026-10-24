@@ -878,6 +878,32 @@ loosened toward the life it came from.
     before"; "I was standing too, without having got up."; "To my eye it was no wax of a man hiding anything."; "nothing in all my
     time in that town had seemed so sure".
   - **Spent in Ch.28:** every line above; the Gloria rice; the greave strap.
+- **Ch.29 as written ("Saturnalia", Essayistic: claim, evidence, shame; Pompeii, December AD 76; FINAL page, body md5 `354dc770…` / file md5 `6a78a055…` before the l.6 header swap; synced 2026-10-24 from the evaluator's
+  FINAL consolidated list, `evaluations/chapter-29-eval.md` Cycle 2; quotes checked by grep; CUT strings checked OFF the page §3):**
+  - **The claim:** the opening sentence (l.8); "I gathered it the way I gathered other people's broken pots" (l.10).
+  - **The invitation:** asked at the plank, the baker's terms fetched in person; to Valens, "The Chaldean comes tomorrow, and I have
+    asked the baker's man, Cerdo, to our supper." (l.94)
+  - **Her eye at the stall (l.62):** the mule from a two-part mold, "the halves joined wet and trimmed".
+  - **Speech:** "Then you will be among the waited-on," (to Felix's law); "I did no such thing." (the soot); in English, "You're on the
+    wrong coast for Gimbels."; "He's fine." (to Fenn's "He all right?", l.262).
+  - **The refusals:** "I do not sing." / "Let the king choose another thing; I will mend his sandal, or read him every wall as far as
+    the forum." / "Felix, I cannot carry a tune to the door."
+  - **Memory (one, triggered by "You heard what it was.", returned to the table inside the paragraph):** "The one song I had every word
+    of was the one the organ played in the middle of the seventh inning at the Vet." / "My father had taken me on a school night in
+    May."
+  - **The song:** Fenn "drowned me out, and I was grateful and trailed along underneath." (l.494); "I stopped there." (l.496)
+  - **The cup (l.518–526):** "At the sound of the pouring my arm had raised the cup, at the right height, and waited"; "I thanked him
+    and drank."; "It is the wine," (to Grata's "Blame the Falernian,"); "I sat with my wet fingers in my lap."
+  - **With Valens, clearing:** "I knew mine." / "I forgot the rest."
+  - **The close:** "I watched him cross;"; "The field stayed where Fenn had laid it, and I wiped the plank round it."; "I scraped the
+    bowls into one for the morning"; the bucket sentence (l.592); the brazier left "to its coals"; the oven's strip of light.
+  - **Counts:** "Then…" 1; "And…" 0; question + fragment 2 (AT CAP); laughs 0; credential asides 0; memories 1 (triggered, returned);
+    sit/drink 2; voice-failure 0.
+  - **CUT (never restore; each checked OFF the page):** "I sat and drank my wine."; "My voice stopped there. Nothing I did would start
+    it again."; "My father had taken me once"; "I sang them the one song"; "I left the field where Fenn had laid it"; "At the sound of
+    wine pouring into the jug"; "No one at that table had seen anything but a guest forgetting himself and paying for it."; "with too
+    many to finish"; **"and I was grateful and went on underneath"**; "kept on underneath".
+  - **Spent in Ch.29:** every line above; the cup that rose; the seventh-inning song and the Vet; "trailed along underneath".
 
 #### VALENS ("Lupus") — muleteer, former murmillo, freedman; b. c. AD 38 in Thrace (Ch.6–44)
 - **Attention / worldview:** footing, exits, weather, and the moods of animals and men, which are one
@@ -1768,6 +1794,34 @@ loosened toward the life it came from.
     "That wants washing."; "Not once,"; "I stamped."; "with the Cilician listening, there on the quay"; "and stayed stooped". Struck
     (audit CRIT-002; nobody of the kind is on the page): "pays Grata's boy two coppers unasked".
   - **Spent in Ch.28:** every line above; "My boy,"; the first-fight feet; the strap re-stitched.
+- **Ch.29 as written ("Saturnalia"; FINAL page, body md5 `354dc770…` / file md5 `6a78a055…` before the l.6 header swap; synced 2026-10-24 from the evaluator's
+  FINAL consolidated list, `evaluations/chapter-29-eval.md` Cycle 2; quotes checked by grep; CUT strings checked OFF the page §4):** **he weeps at a farce and is fed by his son.**
+  - **The cap:** "Grata had put a cap on Valens too." (no rule stated, no residue).
+  - **Corinth:** "We had his couch and he had our bench." … "He gave us a pig." / "It was a small pig."
+  - **Cerdo:** "Give him the seat that looks at the door." / "He'll want to."
+  - **Felix home:** "Where will you sleep?"; "The fuller's boy." (who the black has bitten).
+  - **To Fenn's service:** "I heard. I'll cut the wood anyway,"
+  - **The roads:** "The sea's had half the road there"; the inn that "waters its hay as well" / "He leaves it out." … "And sells it by
+    weight."; "Sit at the back of it going home. The load shifts on the hill above Herculaneum."
+  - **The farce and the anchor:** "Beside me Valens laughed out loud, in a crowd of strangers."; "Valens was weeping."; "The sound he
+    made had stopped being a laugh, and it was nothing I knew."; "Valens's mouth opened, and he took it."; "drew a hand once down his
+    face"; then, at the theater steps, "The baker has bad knees," … "He won't drop on them like that for many more winters."
+  - **At the table:** "Four." / "She is." / **"Long ago."**; "Valens took his seat again and ate the piece I gave him."
+  - **The lesson:** "What does it weigh?" / "This is lighter." / "Who rakes it?" / "Has it killed one?" / "And the thrower." / "Go on." /
+    "And whoever waved him." / "They would." / **"He still plays."** / "How much oil does that take?"; the pit nudged back to "the spot
+    Fenn had moved it from"; "Valens touched his own cap."; "He considered." (once, before the pig).
+  - **His stair and his freedom:** "In the spring I'm hauling to Puteoli, and I'll come up your stair."; "There was a Gaul. I beat
+    him." / "That was all of it."
+  - **The jug:** "Valens lifted the jug out of Cerdo's hands and stood it on the plank." (the fine, not the cup, is what he sees).
+  - **Clearing:** "Valens carried Lucius through to his pallet"; "Valens stacked the stools."; "Cerdo sang well." / "He knew the words."
+    / "You stopped."; "Leave those." / "He's to show me the stealing. Tomorrow, before he goes." / "Both."; "He let it alone".
+  - **Counts:** "And…" 2; spread hands 1; narrated silences 2; deliberation 1 ("He considered."); predictions 2; no comparison; "why"
+    only of a plan.
+  - **CUT (never restore; each checked OFF the page):** "Once."; "And he plays."; "he wore it as he wore everything, without remarking
+    on it"; "There was bark on his shoulders from cutting her firewood"; "with his hands spread on the plank and nothing for them to
+    do"; "a laugh at the start, and then".
+  - **Spent in Ch.29:** every line above; the weeping at a farce (no later laugh-into-weeping for him); the bread taken from Lucius;
+    "Give him the seat that looks at the door."; the bad knees; "Leave those." / "Both."
 
 #### AUGUST FENN / "AUGURINUS" — the vanished treasure hunter; b. 1934 Philadelphia; crossed 1968, landed AD 41; Puteoli astrologer (documents Ch.2; in person Ch.25–35; dies winter 78–79)
 - **Attention / worldview:** systems and patterns: tides, tremors, star tables, the doors' timing, box
@@ -2010,6 +2064,42 @@ loosened toward the life it came from.
     kept"; "If I'm still here, my friend."; "Don't tell your mister about the slide."; "Is it the month it died?"; "Just that it's
     cold"; "One more inning, come on, Mom"; "I'd check the hill in the morning before I checked the weather"; "Third base, nineteen
     sixty-four, rookie of the year…"; and every Fenn string in the Ch.27 CUT log (At-risk after Ch.27). **Spent in Ch.27:** every line above.
+- **Ch.29 in person ("Saturnalia"; FINAL page, body md5 `354dc770…` / file md5 `6a78a055…` before the l.6 header swap; synced 2026-10-24 from the evaluator's
+  FINAL consolidated list, `evaluations/chapter-29-eval.md` Cycle 2; quotes checked by grep; CUT strings checked OFF the page §5):**
+  - **English (comma-spliced, to Mara):**
+    - "It's the Gimbels parade," … "it's Thanksgiving morning" … Santa ("I'm on the wrong everything."); "Falernian, and it cost me an
+      arm off a man on the quay who swore on his mother"; "What's on the bill?"; "there'll be a riot".
+    - "Abbott and Costello at the Earle," … "when I was eleven, with a laundry hamper, the same bit exactly, and I swear to God they
+      stole it."
+    - "He all right?"; the ball's heart, "Cork," … "so you've got wool."
+    - The 1950 game: Frankford Avenue, "got it over a policeman's shoulder"; "And out here's Ashburn, Richie Ashburn, who can't throw, he
+      throws like my sister"; "Then the tenth," … "Sisler, home run, three in, the pennant".
+    - "He wants the oil reckoned," … "that's the first sensible question anybody's asked me about baseball in thirty-five years."
+    - "Be a sport," … "It's a party."; the seventh-inning song alone, to the last note; "I haven't sung that out loud since Eisenhower,";
+      "I'm making this up as I go," … "Don't tell her."
+  - **Greek (courtly, uncontracted):**
+    - "Majesty" ×2 (the law; the stars); "Sir, I am to be your servant tonight, I hear."; "Permit me. It is a game, and I shall need a
+      little room."
+    - "Five unciae and a half, near enough."; "A man with a rake," (bare tag); "took it on the temple and died in the morning"; "Pitched
+      nine more years."; *brabeus* for the umpire.
+    - "That is for another evening, and another jar."; "I shall get olives in."
+    - The stars: "you have Mars well placed, and Venus in a dice cup" / "It means do not marry before thirty."; Grata's palm, "You have a
+      son, madam" ….
+    - The flue: "If it does not draw," … "he must straighten it."; "I shall put it in his stars."; "Straighten that flue!"
+  - **States:** hat 3 (beaten, crushed, tipped down); "Fenn stood" 3 (AT CAP); delight 2; Greek described 2 (stately, Plato); English
+    markers 7.
+  - **Speech-habit ledger, Ch.29:** doubling 1 (Ashburn); "sir" 2; "Majesty" 2; "I shall" 4 (register, WATCH); "fellow" 1; "slowly" 1;
+    "guy" / "kid" / "okay" 0.
+  - **Period references (all first uses):** Gimbels, Abbott and Costello / the Earle, Frankford Avenue, Snider / Abrams / Ashburn /
+    Sisler, Eisenhower.
+  - **Card note:** the chaos schedule's "the 1964 Phillies (Ch.25, 26, 29, 35)": Ch.29 used 1950 instead.
+  - **CUT (never restore; each checked OFF the page):** "Costello in a laundry hamper at the Earle"; "Oil," he told me; "ask anybody";
+    "another evening, sir,"; "His Greek was at its most courtly."; "with great gravity"; "kept his English to himself"; "said Fenn,
+    enchanted"; "the side of the head"; "Fenn stood at my elbow in his hat"; "taking in the caps and the dice and the boughs"; "without
+    Fenn's head turning".
+  - **Spent in Ch.29:** every line above; Gimbels / Thanksgiving / "the wrong everything"; the olive-pit diamond and the lesson; the
+    1950 game; the cards, the reserve clause, the night lights; the stars and "do not marry before thirty"; Grata's palm; the
+    seventh-inning song.
 ---
 
 ## MAJOR SECONDARIES
@@ -2796,6 +2886,33 @@ loosened toward the life it came from.
     the knee."; "to the top of the thigh. Over each shin".
   - **Spent in Ch.28:** every line above; the palm (no further palm anywhere in the book); the bowl handed to Lucius; "Say I can't."; the
     sandal.
+- **Ch.29 as written ("Saturnalia"; on leave; FINAL page, body md5 `354dc770…` / file md5 `6a78a055…` before the l.6 header swap; synced 2026-10-24 from the evaluator's
+  FINAL consolidated list, `evaluations/chapter-29-eval.md` Cycle 2; quotes checked by grep; CUT strings checked OFF the page §6):** Felix alive, the bout not recapped.
+  - **Home:** "Ten days!" … the bear and the pork ("in a cap" / "the bear got it"); "In my corner, where else, if Lucius hasn't moved into
+    it."; "He feeds us like a duumvir" …; "Good." (the black has bitten the fuller's boy).
+  - **King:** thrown "standing, elbow high"; Venus; the law, "Here's my first law" … "and that's you, and that's the Chaldean."; "So I
+    will."; "Write that one on a wall."; the soot drawn down Mara's nose.
+  - **To Fenn:** "who'd pay for that face".
+  - **The farce:** "up on the fountain Felix howled and nearly went in"; back "wet to the knee".
+  - **The table:** "It's a temple." … "Are we eating or praying?"; "Sit," … "that's the king's law, you eat and he eats and I eat and they
+    fetch"; "Not you. You've been bought." / "Once is plenty." … "She cuts."
+  - **The lesson:** "Do they pay them, how much, is it better than a lanista pays?"; "Get my face on one."; "Now a story." / "Tell it
+    properly."
+  - **The stars:** "The Chaldean tells the king's stars next. Will I be famous?" / "What does that mean?"; "Felix looked off at the
+    fullery's shut door."
+  - **Songs:** "Everybody sings, and the guest first."; "Sing."; "Worst song I ever heard," … "so do it again."; the fine ("Cerdo, that's
+    a fine, sit down and drink it off, every drop of it!").
+  - **The close:** "The street stays up,"; "Come back next year," / "I'll be king again."; "Best night of the whole festival," … yawning.
+    **"He curled up in his corner under his blanket, still crowned."**
+  - **Canon:** sleeps in his shop corner (CH29-3 closed; l.110 paid at l.566).
+  - **Counts:** bursts 2 (WATCH); ", and [Q]?" 2; superlative boasts 2; "nobody" 0; "the king" 3 (festival formula, ruled); up-on-things
+    3 (AT CAP); wreath askew 2.
+  - **CUT (never restore; each checked OFF the page):** "In the straw, where else, if the dun's kept my place."; "lay against the dun in
+    the straw, and she shifted over for him"; "Somebody write that one on a wall."; "and will I be famous?"; "said Felix, delighted";
+    "with a street that had not yet answered"; "to tell the street"; "before Grata had poured for him"; **"He took his blanket to his
+    corner"**; **"slept in the wreath"**.
+  - **Spent in Ch.29:** every line above; the ten days, the bear and the pork; king by Venus; the law; the fuller dancing; the soot;
+    curled in his corner still crowned.
 #### PLAUTIA — Celer's divorced wife; b. c. AD 44, married to Celer in the autumn of AD 63 at nineteen; the woman Valens was framed with (Ch.16–17, Ch.22)
 - **Attention / worldview:** what people want and admire, and what can be given; children (her son
   Marcus, b. autumn AD 64: seven in Ch.16, nine in Ch.22; kept by his father under Roman law). She has learned that everything can be taken, so
@@ -3374,6 +3491,22 @@ loosened toward the life it came from.
     appears with bare feet and two coppers. He is not on the page.
   - **WATCH:** "had it from" rested (Ch.20 its only use); "the fuller's girl" 2/2, rested.
   - **Spent in Ch.28:** every line above.
+- **Ch.29 (FINAL page, body md5 `354dc770…` / file md5 `6a78a055…` before the l.6 header swap; synced 2026-10-24 from the evaluator's
+  FINAL consolidated list, `evaluations/chapter-29-eval.md` Cycle 2; quotes checked by grep; CUT strings checked OFF the page §7):**
+  - "Cerdo, look at you." + the aediles flood ("so mind it doesn't go to your head").
+  - "He's in his all right" …; "Venus or nothing," + the Venus flood ("so don't you go thinking it").
+  - "less sense than a goose. Somebody find him a crown" …; "And nobody waits on me, as usual," said Grata to the street.
+  - "The Chaldean," … "Hold on to your purses" …; "You've burned a month of mending there" ….
+  - The good-seat flood with her girl "before my Secundus" and "Send him home with the sausage end".
+  - "That'll be a hymn to one of their gods," … "and he's welcome to it," (covers Aelia's ear).
+  - "Short and done, and you could learn from it, Felix,".
+  - "Any midwife would have told me that, and cheaper," … "and gave him her other hand as well."
+  - "Blame the Falernian," … "Menders have no head for good wine."
+  - "Mind you don't wake my bench,"; "She took her empty jar home but left her bench".
+  - **Counts:** questions 0; "men" 0; social touches 0 (still five); "so [command]" 2; "look at you" 1; "the street" 2 (hers alone).
+  - **CUT (never restore; each checked OFF the page):** "Look at the color of you,"; "so somebody find him a crown"; "and left it in
+    his"; "She took her pot home, and her empty jar"; the widow's borrowed flood.
+  - **Spent in Ch.29:** every line above; the palm read; the bench left for Fenn.
 
 ## THE CHILDREN
 
@@ -3484,7 +3617,20 @@ loosened toward the life it came from.
   - **Counts:** fist 0; watching 2, waiting 1; lent adult moods 0. Smoke / Duck / Bone / Again not said (guard kept).
   - **CUT (never restore):** "and stayed so until somebody came".
   - **Spent in Ch.28:** "Lix"; the bowl moments; the threshold fall; the dry knee; the Gaul's face.
-#### AELIA — daughter of Mara and Valens; b. winter AD 75–76 (newborn Ch.26; babbling Ch.29; Ch.30, 34, 38–44; 3½ at the eruption)
+- **Ch.29 (about two and a half; FINAL page, body md5 `354dc770…` / file md5 `6a78a055…` before the l.6 header swap; synced 2026-10-24 from the evaluator's
+  FINAL consolidated list, `evaluations/chapter-29-eval.md` Cycle 2; quotes checked by grep; CUT strings checked OFF the page §8):**
+  - The clay mule and the walnuts; "joined to my skirt by no more than habit".
+  - The half roll held "out of Valens's sight and well within the birds'"; **the anchor (l.252–256, verbatim):** "Lucius felt it first and
+    saw it after." … "Then he brought round the fist with the half roll in it and pushed the bread at his father's mouth." / "It struck
+    Valens on the lip, and Lucius pushed again, harder, the way he pushed bread at Aelia when she cried." / "when his father had got it
+    down he showed him the empty hand, open, so his father would know it was all gone."
+  - **Words:** "Ball," … "Tata. Ball." (the first "Tata" on the page, glossed by context).
+  - "Lucius set the pit in the lentil's middle, pressed it home with a fingertip and then took a step away to show it was done."
+  - "Lucius hugged his ball and did not take his eyes off me."; asleep on Valens "with the ball squeezed between them".
+  - **Counts:** fist 3 (AT CAP); watching 3.
+  - **CUT (never restore):** "exactly in its middle".
+  - **Spent in Ch.29:** the bread pushed at his father's mouth (no child feeds a parent again); the ball; the pit on the hill.
+#### AELIA — daughter of Mara and Valens; b. winter AD 75–76 (newborn Ch.26; crowing Ch.29; Ch.30, 34, 38–44; 3½ at the eruption)
 - **Attention / worldview:** the world's textures and tastes. She is greedy for everything and finds
   delight where adults find danger (sand, must, floating stones, falling pumice).
 - **Vocabulary band:** Latin nursery words; sensory nouns and verbs (hot, wet, sticky, look, mine, more).
@@ -3543,6 +3689,11 @@ loosened toward the life it came from.
   - No cry, no mouthing, no lent adult mood.
   - **CUT (never restore):** "sighed in her sleep, and went heavy again". **Spent in Ch.27:** every image above.
 - **Ch.28 (about four to five months; FINAL page, body md5 `4aca9f90…`, synced 2026-10-24; quotes checked by grep):** asleep on the bay road "with her mouth on my collarbone"; on Grata's shoulder, "awake now and staring at her earrings"; fed that evening when "Grata brought her across"; left with Grata for the games, "on her counter in the basket where every customer on the street could admire her". No cry, no mouthing, no lent mood. **Spent in Ch.28:** every image above.
+- **Ch.29 (about a year; FINAL page, body md5 `354dc770…` / file md5 `6a78a055…` before the l.6 header swap; synced 2026-10-24 from the evaluator's
+  FINAL consolidated list, `evaluations/chapter-29-eval.md` Cycle 2; quotes checked by grep; CUT strings checked OFF the page §9):** the doll whose limbs "hung on wooden pegs"; in the sling at the farce,
+  "gnawing the doll's crooked leg"; in Mara's lap she "crowed at each flame in turn"; her ear covered by Grata; asleep in her basket
+  "with the doll's leg in her mouth". **Counts:** mouthing 2 (AT the ≤2 WATCH). No cry, no lent mood. **Spent in Ch.29:** every image
+  above.
 ---
 
 ## THE 1998 FRAME
@@ -4892,34 +5043,47 @@ checked OFF the page. All functional; no habit assigned.
   "Grata's boy" ("rubbing one bare foot on the other, hoping to hear what he was owed"; two coppers) is not on the page.
 
 #### Ch.29 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
-Writer draft 2026-10-24 (quotes from the draft page; the evaluator's sync replaces this block). All functional; no habit assigned.
-- **The baker opposite** (Cerdo's master; unnamed; the Ch.19 "baker over the way" whose oven draws badly): "a narrow man with flour in
-  the hair of his arms and a cold he had nursed since the olive harvest", cap "pulled down to his eyebrows"; "Have him," … "and send him
-  home for the second firing, because Saturn can go without bread for the festival but the street can't, and nobody else of mine knows
-  that oven." / "Feed him, he eats like a mill," … "and blew his nose on his fingers and went in."; at night, "Cerdo!" through the
-  shutter at the hour of the second firing. Worldview: the oven's hours.
-- **The fountain girl and her mistress:** "That's mine," … "my mistress, and she's had to stand behind me since daybreak, and can't say a
-  thing." / "Tomorrow she can go first, and then she owes me." / mistress: "I heard every word," / "You were meant to, mistress." /
-  "Then there's no festival," (to Mara's "What then?").
-- **The widow from the alley behind the Stabian baths** (lamp mended three times that year): pays in four tapers; "everybody that owes
-  pays in wax at the festival"; "This is for the third mending, and the second's on account."; "it goes into the wax and comes out in
-  the year."
-- **The figure-seller** under the eastern colonnade: "one blind eye and sharp opinions in the other"; "It was a mule," … "and they lose
-  them, ask any carter."; "So she walks crooked, and so does my wife, and I've had my wife thirty years and nobody's offered for her
-  yet."; two coppers for the pair and a walnut for the boy.
+FINAL page, body md5 `354dc770…` / file md5 `6a78a055…` before the l.6 header swap; synced 2026-10-24 from the evaluator's FINAL
+consolidated list (`evaluations/chapter-29-eval.md` Cycle 2 §2); quotes checked by grep; CUT strings checked OFF the page. All
+functional; no habit assigned.
+- **The baker opposite** (Cerdo's master; unnamed; the Ch.19 "baker over the way"): "a narrow man with flour in the hair of his arms and
+  a cold he had nursed since the olive harvest", cap "pulled down to his eyebrows"; "Have him," … "and send him home for the second
+  firing, because Saturn can go without bread for the festival but the street can't, and nobody else of mine knows that oven."; "Feed
+  him, he eats like a mill," … "blew his nose on his fingers and went in"; at night, "Cerdo!" "in his master's voice, through the
+  shutter". Worldview: the oven's hours.
+- **The fountain girl and her mistress:** "That's mine," … "my mistress, and she's stood behind me since daybreak and can't say a thing
+  about it." / "Tomorrow I'll give her my place, and she'll owe me for it." / mistress: "I heard every word," / "You were meant to,
+  mistress." / "And when it's over?" / "I carry yours,".
+- **The widow** (the alley behind the Stabian baths; lamp mended three times that year): "Four, and good wax, the honey's still in it.
+  Everybody that owes pays in wax at the festival. That's for the lamp." / "The first time I did. This is for the third mending, and
+  the second's on account. And don't give them back, that's bad luck, it goes into the wax and comes out in the year." She has no
+  "smell it", no "so" close and no "don't you go"; her rhythm is not Grata's flood.
+- **The figure-seller / stallholder** under the eastern colonnade: "one blind eye and sharp opinions in the other"; "It was a mule," …
+  "ask any carter."; "So she walks crooked, and so does my wife, and I've had my wife thirty years and nobody's offered for her yet."
+  ("This one's legs are on backward." is Mara's line.)
+- **The crier one stall along** (separate from the stallholder): "Gods a copper!" / "The Emperor two, and he's cheap at that!"
 - **The aedile's attendant** dicing on the fountain step: "Not a word, mender," … "the aedile's dicing too, over at the basilica, and
-  losing." (swears by four gods). **The walnut boys:** "He can have these," … "He's too little to win any."
-- **The mime troupe** at the crossing (no masks): the baker (cushion strapped round his middle, flour, a peel), his wife (a big woman
-  "whose laugh carried to every wall of the crossing"), the youth (long legs, a hopeful face), a flute player on a cart's tail. Their
-  lines are the farce's own and are SPENT with it ("Guard the dough." / "With my life." / "The leaven, husband…" / "By Juno … I never
-  saw that leg in my life." / "Forgive me … the dough has risen into a man … Here, have a loaf."). **Crowd shouts:** "Behind you,
-  baker!"; "Under the lid!" (a boy); "Knead him, baker, lean on him!"; "She's lying! … Look at his feet, baker!"
-- **The fish-sauce carter** (the Ch.26 letter carrier): hands Fenn down "with a warning to mind the jar". **The fuller's lad:** fetches
-  the bay wreath from the tree by the vats.
-- **Mention:** the boy on the bakery's mill ("He's ten, he'd be sick."; "He slept his day off."); the lanista at Corinth (Valens: served
-  the troupe's supper one night, "We had his couch and he had our bench", and gave them a small pig); Albucius (Felix: served the troupe
-  "in a cap", dropped half the pork, "the bear got it"; ten days' leave); the Puteoli saddler (made Fenn's ball from a drawing in wax);
-  Grata's girl, "before my Secundus" (a cap and a cup at the door every year).
+  losing."; threw the dog and swore by four gods.
+- **The walnut boys:** "He can have these." / "He's too little to win any."
+- **The fuller's lads:** "Io, Saturnalia!" / "Louder than that, or you don't get past!"; "freckled gray with what they trod".
+- **The fuller:** "I've a vat in soak,"; trod the bench "as he trod cloth".
+- **The fuller's lad:** fetched "a wreath of bay off the tree by the vats".
+- **The mime troupe** at the crossing (no masks): the baker, his wife "whose laugh carried to every wall of the crossing", the youth, a
+  flute player. Their lines are SPENT with the farce: "Guard the dough." / "With my life." / "The leaven, husband…" / "By Juno" … "I
+  never saw that leg in my life." / … "the dough has risen into a man" … / "here, have a loaf."
+- **The crowd:** "Behind you!" (a woman), then the crossing's "Behind you, baker!"; "Under the lid!"; "Knead him, baker, lean on him!";
+  "She's lying!" … "Look at his feet, baker!"; the sneeze cloud "burst up and hung in the sun".
+- **The fish-sauce carter** (the Ch.26 letter carrier): "Mind his jar for him, he's nursed it since Puteoli and wouldn't part with it to
+  piss."
+- **Mention:**
+  - the boy on the mill ("He's ten, he'd be sick."; "He slept his day off.");
+  - the Corinth lanista ("We had his couch and he had our bench"; "It was a small pig.");
+  - Albucius (Felix's troupe served "in a cap"; "the bear got it"; ten days' leave);
+  - the Puteoli saddler (Fenn's ball, from a drawing in wax);
+  - Grata's girl, "before my Secundus" ("a cap and a cup at the door every year");
+  - "a player for Cleveland"; Snider / Abrams / Ashburn / Sisler; Abbott and Costello at the Earle; Gimbels; Frankford Avenue.
+- **CUT / struck (never restore; each checked OFF the page):** "she's had to stand behind me since daybreak, and can't say a thing";
+  "Tomorrow she can go first, and then she owes me."; "Then there's no festival,"; "with a warning to mind the jar".
 
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
@@ -5985,10 +6149,11 @@ Writer draft 2026-10-24 (quotes from the draft page; the evaluator's sync replac
 - **Attention / worldview:** fire and its hours. He measures a night by its firings, judges an oven by its draw, and knows the flue is
   bent because the smoke "sits in the bend and won't come out". The festival is a borrowed evening; the oven is the life it is
   borrowed from.
-- **Vocabulary band:** plain Pompeian Latin; trade nouns (batch, firing, flue, the boy, the cocks for the hour); his song is from "the
-  hill villages behind Nuceria", in a Latin "with older words knocked into it".
-- **Syntax fingerprint:** short statements, a fact followed by its cost ("The boy. He'll let it die, and I'll be up till the cocks
-  bringing it back."). Dry, undemanding, asks nothing personal. Talks at length only about the flue.
+- **Vocabulary band:** plain Pompeian Latin; trade nouns (batch, firing, flue, the boy, daylight for the hour); his song is from "the
+  hill villages behind Nuceria".
+- **Syntax fingerprint:** short statements, a fact followed by its cost (page text, Ch.29: "The boy," … "He'll let it die, and I'll be
+  on my knees at the mouth of it till daylight, bringing it back."). Dry, undemanding, asks nothing personal. Talks at length only about
+  the flue.
 - **Rhythm:** few words, long silences while he eats; a hoarse voice "gone to smoke at the oven years before".
 - **Evasion — never says:** a word against his master; anything about how he came to be bought, or from where; never asks for anything
   (of a bundle of honey cakes he takes two, for the boy on the mill). He never comments on the inversion, his status, or the kindness
@@ -6004,18 +6169,36 @@ Writer draft 2026-10-24 (quotes from the draft page; the evaluator's sync replac
 - **DISTINCTNESS GUARANTEE:** the only speaker whose talk keeps returning to a fire he has to go back to, against Grata, who tells you
   about yourself, and Valens, who reads ground and animals.
 - **Sample line (illustration only, never page text):** "It's banked. If the boy goes near it, it's out before the second hour."
-- **Ch.29 as written (Writer draft 2026-10-24; the evaluator's sync replaces this note):** named first in Grata's mouth ("Cerdo, look at
-  you."); in the felt cap at daybreak, his master in "its twin"; "It was his idea," … "and he's in his."; "Ask him," with a jerk of his
-  chin at his master. At the table: a round loaf "scored into eight wedges and stamped at the center with the bakery's mark", handed in
-  "from the step without stepping over"; "Off the best of the batch, and he'll never miss it."; "Poured for by a Chaldean. Me."; to
-  Valens, "You're the carter," … "The four mules." / "The dun's the best of them."; follows "none of the English and most of the
-  Greek"; "It's the boys with the walnuts," … "Grown up."; sings the goat-priest song, eyes shut; "I sang, lady," … "You heard what it
-  was." (the line that makes Mara sing). **The jug:** up with it "before it finished", fills Mara's cup "to the brim without looking";
-  fined by the king and "dried his mouth with the back of his burned wrist". **The flue:** "It goes up, see, then over, so, and the
-  smoke sits in the bend and won't come out, and I told him at the Kalends, and he says it draws." / "You tell him, he takes a Chaldean's
-  word." **Leaving:** called at the second firing; "For the boy on our mill," … "He slept his day off." / "He's ten, he'd be sick." /
-  "Majesty." / "If he lets me." / "Good pork"; halfway across the street he pulls the felt cap off and stuffs it in his belt.
-  **Spent in Ch.29:** every line above; the cap pulled off at the crossing; the two cakes; "If he lets me."
+- **Ch.29 (FINAL page, body md5 `354dc770…` / file md5 `6a78a055…` before the l.6 header swap; synced 2026-10-24 from the
+  evaluator's FINAL consolidated list, `evaluations/chapter-29-eval.md` Cycle 2 §1; quotes checked by grep; CUT strings checked OFF the
+  page):**
+  - Named first in Grata's mouth ("Cerdo, look at you."); the felt cap at daybreak, his master in "its twin"; "the insides of both
+    forearms glazed pink and shiny from years of reaching into heat".
+  - "It was his idea," … "and he's in his."; "Ask him," … "with a jerk of his chin" at his master.
+  - **At the table:** a round loaf "stamped at the center with the bakery's mark", handed in "from the step without stepping over";
+    "Off the best of the batch, and he'll never miss it."
+  - "The boy," … "He'll let it die, and I'll be on my knees at the mouth of it till daylight, bringing it back."
+  - "Cerdo perched on the stool's front edge, his burned forearms on his thighs."; "Cerdo looked at the bow."; to Fenn's "Forgive me if
+    I spill." he answers "It's in the cup."
+  - "Cerdo ate with an eye on the doorway, and as much as his master had promised."
+  - To Valens: "You're the carter," … "The four mules." / "The dun's the best of them."
+  - "Cerdo had followed none of the English and most of the Greek, and he had stopped eating to watch Fenn's hands."
+  - "Somebody's up those poles all night, then," … "and sleeps when the rest of you are up."
+  - **The song:** "Eyes shut, Cerdo gave us a song from the hill villages behind Nuceria about a goat that ate the priest's wreath off
+    the altar and was made priest itself."; "His voice had gone to smoke at the oven years before"; "I sang, lady," … "You heard what it
+    was."; "Cerdo beat it hardest of anyone".
+  - **The jug (the body's training, ONCE):** "he was up with the jug before it finished"; "He filled it level with the brim."; fined by
+    the king; "Cerdo paid his fine with a grin and dried his mouth with the back of his burned wrist."
+  - **The flue:** "It goes up, see, then over, so" … / "You tell him, he takes a Chaldean's word."
+  - **Leaving:** called "in his master's voice, through the shutter" (no reaction narrated); the two cakes, "For the boy on our mill," …
+    "He slept his day off." / "He's ten, he'd be sick." / "Majesty." / "If he lets me." / "Good pork"; halfway across, he pulled the
+    felt cap off and "stuffed it in his belt".
+  - **Counts:** forearms/burn 3 (AT CAP); eating 3; trained body 1; "the boy" 2 (subject); fact + cost 4 (card syntax, ruled).
+  - **Spent in Ch.29:** every line above; the cap pulled off in the street; the two cakes; "If he lets me."; the jug.
+  - **CUT (never restore; each checked OFF the page):** "Poured for by a Chaldean. Me."; "It's the boys with the walnuts," / "Grown
+    up."; "up till the cocks bringing it back"; "to the brim without looking"; "scored into eight wedges"; "Cerdo sat,"; "Cerdo sang
+    sitting, eyes shut,"; **"Cerdo gave them a song"**; "Cerdo was up before the second shout,"; "Cerdo sat down grinning, drank off
+    his fine,"; "Cerdo ate the first mouthful slowly"; "He took in the lit room behind me".
 
 ## UNNAMED SPEAKING ROLES PLANNED IN THE OUTLINE
 Give each one its own attention, and **promote it to a full card the moment the page names it.** One
@@ -8319,6 +8502,95 @@ line each, so that walk-ons don't all sound like Mara.
       "looked past X at Y, and at Z" and "considered X, and the Y," shapes), the eyes-arriving beat, the wet-stone smell, "than
       before", "not hard," and the same-paragraph relayed-order echo. **Still by hand:** a held silence filled by a passing moving
       thing (X1), and a relayed order whose "I X-ed" compliance comes in a later paragraph (X7 as found).
+- **At-risk after Ch.29 (FINAL page, body md5 `354dc770…` / file md5 `6a78a055…` before the l.6 header swap; "Saturnalia",
+  Essayistic, 3 breaks; synced 2026-10-24 from the evaluator's FINAL consolidated list, `evaluations/chapter-29-eval.md` Cycle 2 §10,
+  which supersedes the cycle-0 list and the cycle-1 deltas):**
+  - **SPENT (Ch.29's, never again, in any words):**
+    - **Opening:** the opening claim; the *pilleus* on master and slave and the Brutus coin.
+    - **The street:** the invitation and the baker's terms; the fountain girl and her mistress ("I carry yours"); wax for pay; the
+      Sigillaria stall (the tailless mule, the doll with the wrong leg, the one-eyed seller's wife); the attendant dicing and the dog
+      throw; the walnut castles.
+    - **Valens:** the Corinth lanista's supper and pig; "Give him the seat that looks at the door."
+    - **Felix:** Felix's ten days, the bear and the pork; king by Venus; the law; the fuller dancing; the soot; Felix curled in his
+      corner still crowned.
+    - **Fenn's arrival:** Fenn on the fish cart, Gimbels / Thanksgiving / "the wrong everything"; the watered hay; "Sit at the back of it
+      going home".
+    - **The farce and the anchor:** **the farce** (the trough, the sneeze cloud, "the dough has risen into a man"); **Valens weeping at a
+      farce and Lucius's bread** (no later laugh-into-weeping for Valens; no child feeds a parent again); "He all right?"; the bad knees.
+    - **The supper and the lesson:** the plank lit with tapers; the stamped loaf; the ball (two figure-eight hides, red thread, cork,
+      wool); **the olive-pit diamond and the lesson** (no pits, crust or lentil mound re-staged); the 1950 game; the cards; the reserve
+      clause; the night lights and the oil; the *brabeus*; "There was a Gaul. I beat him."; the stars and "do not marry before thirty".
+    - **The songs:** the goat-priest song; the seventh-inning song and the Vet; "trailed along underneath".
+    - **The jug and the close:** Fenn reading Grata's palm; **the cup that rises to a slave's jug**; the fine; the flue; the two cakes;
+      "Majesty."; the cap pulled off in the street; "He knew the words." / "I knew mine."; "Leave those." / "Both."; the pits left on the
+      plank; the bucket sentence; the oven's strip of light and "somebody was feeding it".
+  - **CLOSED (narration and speech).** The first ten were added to `tools/closed_ledger.tsv` at cycle 0 (21 rows); the last two were
+    added at finalize (23 rows):
+    - the without-looking construction (Ch.25 l.270 grandfathered);
+    - "the side of the head";
+    - "with great [noun]" (Ch.25 l.200 grandfathered);
+    - "kept [X] to himself/itself";
+    - "took in X, Y and Z";
+    - residue on a body as the work beat;
+    - Grata's "Look at the [X] of you";
+    - "Ask anybody";
+    - Mara's voice failing;
+    - "into the sun";
+    - **"curled up"** (3× book-wide after K1: Ch.8 a sole, Ch.16 a dog's tail, Ch.29 Felix; three unrelated senses; no fourth;
+      ledger row `\bcurled up\b`, closed after 29);
+    - **"[X] gave us a [noun]"** (2 in Ch.29, l.88 speech and l.472 narration; rest it; ledger row `\bgave us an? [a-z]+`, closed
+      after 29).
+  - **Canon from the page:**
+    - The household's fifth Saturnalia (AD 76).
+    - Felix has ten days' leave from Albucius and sleeps in his shop corner.
+    - Cerdo is the oven slave of the bakery opposite (the Ch.19 baker). The flue is bent, and the oven has a second firing at night.
+    - Fenn's visit was planned ("The Chaldean comes tomorrow"). He has met Felix, Grata and Cerdo, slept on Grata's bench, and is to show
+      Valens "the stealing" "Tomorrow, before he goes". Valens will climb his stair in spring.
+    - Lucius has the ball and says "Tata". Aelia has the peg doll. The olive-pit field is left on the plank.
+    - The Vet visit is one of the "sometimes" (Ch.25). Chapman was hit "on the temple" (unnamed on the page: "a player for Cleveland").
+  - **CUT LOG — Ch.29 (never restore; each checked OFF the final page):**
+    - **Writer-draft card quotes:** the CERDO and walk-on strings listed in the CUT lines on those entries, and the CUT lines on the
+      MARA, VALENS, FENN, FELIX, GRATA and LUCIUS Ch.29 blocks.
+    - **Cycle 0:** every old string of the 64 replacements, verbatim, in `apply_fixes.py` (IDs L1–L5, C1–C18, P1–P18).
+    - **Cycle 1, K1–K3 (old strings):** "He took his blanket to his corner, still crowned, and slept in the wreath."; "and I was grateful
+      and went on underneath."; "Eyes shut, Cerdo gave them a song".
+    - **Rejected drafts, cycle 0 (never use):** "lay down in the wreath"; "Cerdo got up"; "went up and hung"; "Cerdo shut his eyes"; "let
+      him keep it"; "while she was still pouring"; "settled again and"; "at the end of the plank" / "the plank's end" / "the head of the
+      plank"; "Fenn was at my elbow" / "on my other side"; "Cerdo was on his feet"; "emptied the cup"; "When it's over?"; "her hand still
+      open in his".
+    - **Rejected drafts, cycle 1 (never use):** "carried" for Felix; "He went off to his corner"; "with the wreath still on"; "carried on
+      underneath"; "sang under him"; "held on underneath"; "kept going"; "went on underneath".
+  - **WATCH for Ch.30:**
+    - **Caps:** race frame ≤1; X-first-then-Y ≤1; spoken "Then…" ≤2; "And…" rejoinders ≤4.
+    - **Narration words:** "kept" (5 in Ch.29); "went on" (3 in Ch.29); "stopped" (7 in Ch.29; the "I stopped there." / "You stopped."
+      pair is spent); sleep words (4 in Ch.29's S4); "every" 2.5/1k.
+    - **Fenn:** English markers 7 (vary them in Ch.35); "I shall" 4; doubling ≤1; "sir" ≤2; "Fenn stood" 3 and hat 3 (rest both).
+    - **Lucius and Aelia:** Lucius "fist" 3, no "exactly"; Aelia mouthing ≤2.
+    - **Trade residue:** introductions 3 and arm markers 2 (none new in Ch.30).
+    - **Grata:** "so [command]" 2 and "look at" 1 (rest both); "the street" as audience is hers only.
+    - **Felix:** ", and [Q]?" 2 and bursts 2; up-on-things 3.
+    - **Cerdo:** the trained body is spent. If he returns: no jug, no race, no cap.
+  - **Ch.30 guards (Tremor):**
+    1. The hook is not VOICE and the pull is not QUESTION PLANT (Ch.29's pair). TICKING CLOCK is still the unused hook type.
+    2. No Saturnalia callback: no cap, cup, jug, king, wreath, pits, stealing lesson or ball game. **The "plaster dust on the bread"
+       anchor never calls back the stamped loaf, and no Cerdo bread-delivery scene is staged.**
+    3. The family laughs; Mara does not, without an outline ruling. Her relief takes no spent channel (voice, mouth, hiccups, knees,
+       bladder, sleep, laugh).
+    4. The tomb is on the page for the first time since Ch.19 (CP4-2). None of Ch.19's threshold staging returns: the backs of the
+       fingers, the knuckle tap, "the whole of my palm", "a picture of a door", the warm-as / cool-as pairing, "seam", "niche", "painted
+       plaster", "hand flat". The door's coolness is "faint", never cold.
+    5. Valens's plaster dust in his hair is the quake's dust, given once, never as a work or homecoming residue beat, never re-noted.
+    6. The notebook entry is unlike Ch.20's: no count, no reckoning.
+    7. No portent, nobody names the mountain, and the tremor is ordinary for everyone but Mara.
+    8. Command echo 0 (same or next paragraphs, by hand), item-by-item look 0, without-looking 0, "kept … to itself" 0, "curled up" 0.
+  - **Craft rules recorded from Ch.29 (for the Writer and evaluator; never a character's habit, and nobody on the page remarks on
+    them):**
+    - The narration never states a character's habit as a rule.
+    - A repair's INFO swap is grepped against the CUT logs like any other.
+    - A cross-paragraph command echo is checked by hand.
+    - A walk-on's speech is checked against the principal it most resembles.
+    - An evaluator's swap is checked for a same-frame line in the ADJACENT paragraph and for a pronoun whose referent shuts the narrator
+      out of her own scene (K1, K3).
 
 - the **other retired reflexes** (patterns, not strings): define-by-negation openers ("Not X. Not Y. It
   was Z."); anaphora triads; chapter-closing aphorisms; proverb-as-button; any object, gesture or line
@@ -9164,3 +9436,4 @@ finalizing the chapter. Never add a tic to fix it.
   shouts, the fish-sauce carter, the fuller's lad; mentions incl. the ten-year-old mill boy and Grata's girl "before my Secundus").
   Both carry Writer-draft quotes; the evaluator's FINAL sync replaces them and writes "At-risk after Ch.29". Not touched: the principals'
   cards, the at-risk blocks, STATE.yaml, ENTITY_STATE.yaml, outline.md. Tic-bearer roster still NONE.
+- **2026-10-24 (finalize Ch.29):** writer-draft Ch.29 blocks replaced from the evaluator's FINAL list (`evaluations/chapter-29-eval.md`, Cycle 2), synced to the final page (body md5 `354dc770…`). CERDO base card corrected (vocabulary band, the song quote, the syntax example). Ch.29 walk-on block replaced. New Ch.29 blocks for MARA, VALENS, FENN, FELIX, GRATA, LUCIUS, AELIA. At-risk after Ch.29 added. closed_ledger.tsv already carries the 10 cycle-0 rows (21 total); +2 rows at finalize ("curled up" and "[X] gave us a [noun]", both closed after 29; 23 total). No catchphrase, habit or tic assigned; the tic-bearer roster is still NONE.
