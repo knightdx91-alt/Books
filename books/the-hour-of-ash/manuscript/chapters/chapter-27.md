@@ -3,7 +3,7 @@
 #### *Cumae · AD 76*
 
 <!-- SCENE BUDGET (Target 7,600; Chronological walk, Puteoli -> the hot ground -> the Lucrine shore and Avernus -> the Sibyl's cave -> the road back; 3 breaks / 4 sections; gear high; dialogue 35-45%): S1 the claim; the fish quay at dusk, Fenn meets Aelia, the invitation in his words, Valens and the lame ass, the satchel packed and unpacked 1,250 | S2 the road: the jenny Valens chose, the hot ground (sulphur, vents, the fullery smell, the hollow boom), lemon meringue, the Corycian asked about (the string), the oyster stakes, Avernus and its ducks, the camera found, the named frame (the dead Zippo) 2,250 | S3 Cumae: the keeper and his lost swarm, the gallery and its cut light, Fenn's patter and the window over the sea, the blind passage, the mark, his palm on the rock, the door shown dead, how it died, where he lived, the coat at the Corycian mouth 2,900 | S4 the bone down the gallery, the diamond in the dust, Richie Allen, the bases run; Mara on the bench; out; the walk back, the month, Eros's door asked after; long fade, the bay going purple 1,200 -->
-<!-- Word count: shape 7,947 / wc incl. header ~8,290 | Writer draft 2026-10-24; dialogue-polish 2026-10-24 (dialogue 35.1% -> 35.3%, quoted words 2,800 -> 2,803) | Target: 7,600 (105%) | Sections 983 / 2,502 / 3,076 / 1,411 | Dialogue 35.1% shape (band 35-45) | Breaks 3 | Median sentence 18 shape (gear high) | Opens I-statement ("I had expected the Sibyl's cave to be a door, a live one...", 51 words; QUESTION hook, not VOICE), closes long-fade (52-word last sentence, the bay going purple; QUESTION PLANT pull via "And if it isn't?" / "It will be," not EMOTIONAL GUT PUNCH) | Em-dash 0 | as-if 0 | And-chains 3 | Credential asides 0 | Negation pivots 0 | check_chapter.sh 27 ALL MECHANICAL GATES CLEAN | Anchor: Fenn's palm held to the rock of a dead door, waiting on it to turn cold -->
+<!-- Word count: shape 7,881 / wc incl. header ~8,240 | Writer draft 2026-10-24; dialogue-polish 2026-10-24 (dialogue 35.1% -> 35.3%, quoted words 2,800 -> 2,803); disruptor 2026-10-24 (7,947 -> 7,881; quoted words 2,803 -> 2,805; dialogue 35.6%) | Target: 7,600 (105%) | Sections 983 / 2,502 / 3,076 / 1,411 | Dialogue 35.1% shape (band 35-45) | Breaks 3 | Median sentence 18 shape (gear high) | Opens I-statement ("I had expected the Sibyl's cave to be a door, a live one...", 51 words; QUESTION hook, not VOICE), closes long-fade (52-word last sentence, the bay going purple; QUESTION PLANT pull via "And if it isn't?" / "It will be," not EMOTIONAL GUT PUNCH) | Em-dash 0 | as-if 0 | And-chains 3 | Credential asides 0 | Negation pivots 0 | check_chapter.sh 27 ALL MECHANICAL GATES CLEAN | Anchor: Fenn's palm held to the rock of a dead door, waiting on it to turn cold -->
 
 I had expected the Sibyl's cave to be a door, a live one, cool under the hand and quiet in the way the Corycian had been quiet on the morning I crawled into it, and I had expected it on no better evidence than Fenn's refusal to tell me what was in there. He refused at the landward end of the Puteoli fish wharf as a spring evening ran out, holding my daughter up before his face with both his arms straight out.
 
@@ -31,7 +31,7 @@ Aelia hung at the end of his arms and kicked. A hand came free of her wrappings 
 
 "Fenn, what's at Cumae?"
 
-"I'm showing you, I'm not telling you." He set the hat on his head and pushed it back off his forehead with a knuckle. "Tell you now and you'd only argue, and I mean to watch your face when there's nothing to argue with."
+"I'm showing you, I'm not telling you. Tell you now and you'd only argue, and I mean to watch your face when there's nothing to argue with."
 
 Valens had led the dun up behind me, the other three strung after her and the jars swaying in their nets, and Lucius rode on top of the second load with his fists in the netting, intent on the harbor.
 
@@ -69,7 +69,7 @@ The carters' inn by the tunny sheds had beds of straw, and the straw had been in
 
 If he made anything of the satchel he kept quiet about it, and in a while he rolled over and slept.
 
-I had not asked Fenn whether it was a door. This was someone who had given me the year within five minutes of first hearing my voice; if I had asked him there among the octopus baskets he would have answered there, and I would have taken the answer to bed with me. I wanted one night of it unanswered: a door that kept its own time and not his, whose rhythm owed nothing to tables worked backward from a schoolbook, a door within a morning's walk of where my children slept. My fingers lay under the satchel strap, and I did not finish the thought even in my head. I had been a conservator for eleven years and had seen good pieces come apart in the hands of people who could not leave them be.
+I had not asked Fenn whether it was a door. This was someone who had given me the year within five minutes of first hearing my voice; if I had asked him there among the octopus baskets he would have answered there, and I would have taken the answer to bed with me. I wanted one night of it unanswered: a door that kept its own time and not his, whose rhythm owed nothing to tables worked backward from a schoolbook, a door within a morning's walk of where my children slept. I had been a conservator for eleven years and had seen good pieces come apart in the hands of people who could not leave them be.
 
 * * *
 
@@ -85,7 +85,7 @@ Lucius sat bolt upright in the rush with the rope across his lap and his fists l
 
 Our food went in the other pannier, and Valens moved a loaf across until the jenny stood level. He gave me the look across her back that I had had from him on the morning of every journey since the ambush, and went to his string. When Fenn turned up in the yard with his hat on and a stick in his fist, the mules were already past the last of the sheds, their noise going off toward the Misenum road.
 
-Fenn walked the way he talked. He took the streets uphill so fast that I had to lengthen my stride to stay with him, swinging the stick, the jenny's rope looped over his wrist, and he climbed the steep places without stopping for breath. Our street climbed between garden walls and tombs, and at the top of the last rise he turned off it onto a track bending inland.
+Fenn walked the way he talked. He took the streets uphill so fast that I had to lengthen my stride to stay with him, swinging the stick, the jenny's rope looped over his wrist, and he climbed the steep places without stopping for breath. Our street climbed between garden walls, and at the top of the last rise he turned off it onto a track bending inland.
 
 "Cumae's west," I said. With the sun behind us our shadows went first up the track, and I needed no compass to read them.
 
@@ -95,11 +95,11 @@ Fenn walked the way he talked. He took the streets uphill so fast that I had to 
 
 "It's on my way. Five minutes, and you'll thank me, and if you don't thank me you're on cheese duty."
 
-The track crossed a lip and dropped into a bowl among low hills, and the floor of the bowl was white. It was a crust of white and gray broken into pits and cracks, with steam coming from every crack, in threads or in slow fat puffs that leaned in the morning air and went to nothing. The smell met us on the lip. It was the smell of our own fullery up the street, on the days the fuller's lads hung wet tunics on a wicker frame over a pan of burning sulphur to whiten them; I had smelled it every week for four years without wondering where the fuller bought his sulphur, and this was where. Two men carrying baskets on their backs were scraping yellow crust off the rocks round a vent with short iron hoes, their arms yellow to the elbow. Somewhere on our left something bubbled, thick and slow, like porridge left on the fire.
+The track crossed a lip and dropped into a bowl among low hills, and the floor of the bowl was white. It was a crust of white and gray broken into pits and cracks, with steam coming from every crack, in threads or in slow fat puffs that leaned in the morning air and went to nothing. The smell met us on the lip. It was the smell of our own fullery up the street, on the days the fuller's lads hung wet tunics on a wicker frame over a pan of burning sulphur to whiten them; I had smelled it every week for four years without wondering where the fuller bought his sulphur, and this was where. Two men carrying baskets on their backs were scraping yellow crust off the rocks round a vent with short iron hoes, their arms yellow to the elbow. Within a dozen breaths my eyes streamed and my throat tasted of struck matches. Somewhere on our left something bubbled, thick and slow, like porridge left on the fire.
 
 "Smoke," said Lucius out of the pannier. It was his first word of the morning, offered to the bowl at large.
 
-"This is where the town gets its sulphur and its sore throats," said Fenn, "and the doctors send the rich men up to sit in the steam for their chests and their gout and their wives, and the bath keeper round the back of that hill charges them for every breath of it, and I do his horoscope for nothing, and his wife thinks I hung the moon."
+"This is where the town gets its sulphur and its sore throats," said Fenn, "and the doctors send the rich men up to sit in the steam for their chests and their wives, and the bath keeper round the back of that hill charges them for every breath of it, and I do his horoscope for nothing, and his wife thinks I hung the moon."
 
 The bronze crescent on its red thread had worked out of Aelia's wrappings onto the outside of the sling, and I tucked it in again. Sulphur in the air would darken bronze in an afternoon; it was Grata's gift, and Grata would demand to hear who had let her good bronze go brown as a bad tooth.
 
@@ -139,7 +139,7 @@ We left the bowl by another track that came round west at last, the steam standi
 
 "I didn't see any string."
 
-"Thirty years," he said, "goats got it, goats'll eat anything that holds still, I watched one eat a postcard off me once, stamp and all, and look at me after like I owed it a letter." He walked on a bit. "How'd you go in, belly down?"
+"Thirty years," he said, "goats got it, goats'll eat anything that holds still, I watched one eat a postcard off me once, stamp and all, and look at me after like I owed it a letter. How'd you go in, belly down?"
 
 "Kneeling. Sideways, with my back to the slab."
 
@@ -163,7 +163,7 @@ A fly on the jenny's neck had Lucius's attention; he followed it about with the 
 
 "He was a gladiator, at Corinth. Long before me."
 
-"No kidding. Like Kirk Douglas, with the chin and the whole business, I saw that one at the Boyd three times and bawled like a baby when it was over, and don't you tell him that." He walked a while. "He talk about it?"
+"No kidding. Like Kirk Douglas, with the chin and the whole business, I saw that one at the Boyd three times and bawled like a baby when it was over, and don't you tell him that. He talk about it?"
 
 "No."
 
@@ -191,7 +191,7 @@ He sat with an olive halfway to his mouth and stared at the Pentax in my hands, 
 
 "My father's."
 
-"Don't." He put the olive down on the stone and cleaned his fingers on his hem. "Not one word about it, not what it's called, not who makes it, not what it set him back, I'll find all that out when I get there, I'll walk into Wanamaker's and buy one off the counter like a human being." He reached a hand toward it and drew it back before I had settled what to do about it. "Is it loaded?"
+"Don't." He put the olive down on the stone and cleaned his fingers on his hem. "Not one word about it, when I get there I'll walk into Wanamaker's and buy one off the counter like a human being." He reached a hand toward it and drew it back before I had settled what to do about it. "Is it loaded?"
 
 "Yes."
 
@@ -235,9 +235,13 @@ But the boy had given up on the ducks and settled with his back to the lake, eat
 
 * * *
 
-From Avernus a path climbed westward up the ridge, too steep for carts, through scrub oak and flowering broom, and the jenny took it with her ears forward. Lucius rode it asleep, curled in the rush, his grip on the rope given up. At the crest the sea lay before us, very wide and very bright, with an island on it in the haze to the southwest. Under us, on our side of a great dune, a town of red roofs sat inside old walls; past it, at the water's very edge, a hill of dark rock stood up by itself, walled round its crown, with the roof of a temple showing over the wall against the sky.
+From Avernus a path climbed westward up the ridge, too steep for carts, through scrub oak and flowering broom, and the jenny took it with her ears forward. Lucius rode it asleep, curled in the rush, his grip on the rope given up. At the crest Aelia woke wanting milk, and wanting it now, and I found a rock among the broom and loosened the neck of my tunic. Fenn turned his back on us so fast that the jenny threw up her head.
 
-"Cumae," said Fenn. "Oldest Greek town in the country, and doesn't it look it."
+"Take your time," said Fenn to the view. "I'm admiring Italy. Somebody ought to, and the Italians are all busy."
+
+He admired it with his stick planted and his hat brim pulled down until she was done. Under us, on our side of a great dune, a town of red roofs sat inside old walls; past it, at the water's very edge, a hill of dark rock stood up by itself, walled round its crown, with the roof of a temple showing over the wall against the sky.
+
+"Cumae," said Fenn, without turning round. "Oldest Greek town in the country, and doesn't it look it."
 
 The way to the cave skirted the rock's seaward foot, under the temple wall, along a terrace where the sea wind blew straight in and laid the grass down flat. The entrance was a doorway cut in the cliff, tall and narrow, wide at its foot and drawing in toward its top. Beside it, on a stool, sat a man with an unlit lamp at his feet and a row of hive baskets upturned on a plank against the cliff behind him, staring out to sea with a pot lid in his lap.
 
@@ -257,11 +261,13 @@ He knew Fenn. He turned at the scrape of the jenny's hooves, and his face did no
 
 "You came back, at least."
 
-Lifting Lucius out of the pannier woke him. I stood him on his feet, where he swayed with a fistful of my skirt, gazing at the doorway. Fenn hitched the jenny to a ring near the hives.
+Lifting Lucius out of the pannier woke him. I stood him on his feet, where he swayed with a fistful of my skirt, gazing at the doorway. Fenn hitched the jenny to a ring near the hives, and she bit him on the forearm.
 
-Inside, it was a corridor. It ran straight into the hill from the doorway, so straight and so long that the end of it was only a small brightness at the bottom of a great length of shadow, and its walls leaned toward each other as they rose, so that it was wide at the floor and narrow at the top, a tall slot in the hill with sloping sides. The stone was yellow tuff, soft enough to scratch with a key, and it had been cut with a pick, the strokes running in slanting rows along both walls, each a thumb wide, overlapping like the courses of a basket. I put out the hand I had spare and touched them as I went, which I could no more help than blinking. They were dry and faintly gritty and gave a little of themselves to my fingers.
+"Not hard," he said to nobody, shaking the arm out. "Not hard, says the gladiator."
 
-Along the right-hand wall, every twenty paces or so, a side passage had been driven through toward the cliff, ending in an opening on the sky, and through every opening came the afternoon. It came low and slantwise off the sea and lay across the floor and up the opposite wall in a broad clean slab of light, bright enough to make the pick strokes stand out in it like writing; beyond it the shadow closed in again for twenty paces, until the next. The sea's noise came in at each opening and fell quiet between them, and the dust we raised turned gold as it crossed the light and vanished beyond it.
+Inside, it was a corridor. It ran straight into the hill from the doorway, so straight and so long that the end of it was only a small brightness at the bottom of a great length of shadow, and its walls leaned toward each other as they rose, so that it was wide at the floor and narrow at the top. The stone was yellow tuff, soft enough to scratch with a key, and it had been cut with a pick, the strokes running in slanting rows along both walls, each a thumb wide, overlapping like the courses of a basket. I put out the hand I had spare and touched them as I went, which I could no more help than blinking. They were dry and faintly gritty and gave a little of themselves to my fingers.
+
+Along the right-hand wall, every twenty paces or so, a side passage had been driven through toward the cliff, ending in an opening on the sky, and through every opening came the afternoon. It came low and slantwise off the sea and lay across the floor and up the opposite wall in a broad clean slab of light, bright enough to make the pick strokes stand out in it like writing; beyond it the shadow closed in again until the next. The sea's noise came in at each opening and fell quiet between them, and the dust we raised turned gold as it crossed the light and vanished beyond it.
 
 "Who cut it?" I said.
 
@@ -269,7 +275,7 @@ Along the right-hand wall, every twenty paces or so, a side passage had been dri
 
 "She sold books too," I said. "To a king."
 
-"To Tarquin, the last king they had before they got smart. He laughs at her price, so she burns some right there in front of him and asks the same for what's left, and he laughs again, and she burns more, and in the end he pays the whole fortune for the last few. What wouldn't I give for the ones she burned?" He walked backward out of the light. "That's the whole racket, kid, that's what got me into this. Nobody ever went digging for the stuff they kept."
+"To Tarquin, the last king they had before they got smart. He laughs at her price, so she burns some right there in front of him and asks the same for what's left, and he laughs again, and she burns more, and in the end he pays the whole fortune for the last few. What wouldn't I give for the ones she burned?" He walked backward out of the light. "That's the whole racket, kid. Nobody ever went digging for the stuff they kept."
 
 Lucius had hold of my forefinger. At the end of each bright stretch he hung on the finger and leaned toward the shadow, and I towed him on into the following light. The third time he plumped down on the floor and had to be lifted. The sling's strap had been biting my neck since Avernus, my feet were hot in my shoes, and the satchel with everything I had packed and unpacked in the night bumped at my hip with nowhere to set it down.
 
@@ -297,15 +303,15 @@ The passage went twelve paces in and ended in a window in the cliff, square-cut,
 
 "You think I can't get down from here." He called down to the sleeping fisherman in Greek to ask what he wanted for his fish.
 
-I sat on the sill of the passage, where the tuff had been cut into a low step, and Lucius stood against my knees and watched the man in the window. I was a little short of forty; Fenn was nearly seventy. He had stamped on hell to hear it ring and climbed into a window in a cliff to look at a boat, and he was not out of breath. I had a pain in my leg that the ridge had put there and a baby on my front, and I sat on the Sibyl's step with the walk home in my mind.
+I sat on the sill of the passage, where the tuff had been cut into a low step, and Lucius leaned on my knees and watched the man in the window. The ridge had left a pain in the back of my leg.
 
 He quit the window in his own time, dropped the last of the way, and landed with a grunt.
 
 "Come on, it's at the bottom," Fenn said.
 
-The corridor ran on through its light and its shadow. Near the end the bright patches came closer together; then the walls drew back, and there was a room, a square chamber cut in the rock with a low bench running round three sides of it and a vaulted ceiling gone black from lamps. Feet had hollowed the floor into a shallow dish. Little clay figures stood on the bench, a hand high, a girl holding a jug and another holding a child, and people had pushed so many coins into a crack in the wall that it had gone green.
+The corridor ran on through its light and its shadow. Near the end the bright patches came closer together; then the walls drew back, and there was a room, a square chamber cut in the rock with a low bench running round three sides of it and a vaulted ceiling gone black from lamps. Feet had hollowed the floor into a shallow dish. Little clay figures stood on the bench, a hand high, a girl holding a jug and another holding a child, and people had pushed so many coins into a crack in the wall that it had gone green. On the bench a sailor off some fleet galley sat carving his name in the tuff with the point of a knife; he had reached the third letter, and never raised his head.
 
-"Here she sat," said Fenn in his barker's voice, but without much effort in it, "and the god got into her from underneath and she foamed at the mouth and so on and so forth." He kept walking. "That's for the customers, this way."
+"Here she sat," said Fenn in his barker's voice, but without much effort in it, "and the god got into her from underneath and she foamed at the mouth and so on and so forth." "Spell it well, sailor," he added in Greek, going by. "The lady reads everything." He kept walking. "That's for the customers, this way."
 
 He walked on by the chamber's mouth. On the landward side, a little before the room, there was a cut I would have walked by: a low narrow passage driven a few yards into the hill and stopping blind, with no window and no light of its own; the keeper kept his spares there, hive baskets, plaited and domed, stacked with a broom and the neck of a smashed jar stopped with a rag. Fenn handed me the broom, carried the baskets out to stand against the corridor wall, and went in stooping. I followed with the broom in one hand, the baby on my front, Lucius behind me in the half-light.
 
@@ -331,17 +337,19 @@ No word out of him; his head tipped toward the hand. The corridor's light reache
 
 My voice went at the rock and was handed back off it, small, flat, a little worn, and ran on past us into the corridor; somewhere far along toward the doorway it sounded again, fainter, from the walls.
 
-"Hear that? It bounces." He tapped the stone beside his mark with a knuckle, twice, and the taps answered him too. "I used to stand right here and tell it my name, out loud, like roll call, and it went in there and stopped, like talking into a pillow. Your own breath and that's all, not the sea, not the keeper, the whole hill gone deaf on you. August, you're frying out on that terrace, and in here you could hang a side of beef."
+"Hear that? It bounces." He tapped the stone beside his mark with a knuckle, twice, and the taps answered him too. "I used to stand right here and tell it my name, out loud, like roll call, and it went in there and stopped, like talking into a pillow. Your own breath and that's all, the whole hill gone deaf on you. August, you're frying out on that terrace, and in here you could hang a side of beef."
 
 "Like Eros's," I said.
 
-"Like Eros's, only colder. This was a beauty." He was proud of it. "Biggest I ever found, and I found it on my own, no carter in a wineshop, no fever, I worked it out from Virgil and a picture I'd seen in a magazine on a ship once, and I walked in here with a lamp the summer of forty-three and there it was."
+"Like Eros's, only colder. This was a beauty. Biggest I ever found, and I found it on my own, no carter in a wineshop, no fever, I worked it out from Virgil and a picture I'd seen in a magazine on a ship once, and I walked in here with a lamp the summer of forty-three and there it was."
 
 "And it's dead."
 
 "As a doornail." The grin was in his voice. "That's a joke. Door. Nail. No?"
 
-I could not laugh. I had a laugh somewhere, I thought, and it would not be fetched. He allowed it a moment, then gave it up without any sign of hurt.
+Lucius laughed, at the voice and not the joke, and the blind end of the passage laughed after him.
+
+"Tough room," said Fenn. "Half the house. I've played worse."
 
 "When?"
 
@@ -353,7 +361,7 @@ I could not laugh. I had a laugh somewhere, I thought, and it would not be fetch
 
 "Why? What killed it?"
 
-"Nothing killed it. That's what gets me." He spread his hands, and the left one went on going after the right had stopped. "No shake, nothing on the tables, nobody on this coast felt a thing, I asked the length of it for a year. It just quit. One month it's breathing and the next it's a wall with my mark on it."
+"Nothing killed it. That's what gets me." He spread his hands, and the left one went on going after the right had stopped. "Nothing on the tables, and nobody on this coast felt a thing, I asked the length of it for a year. It just quit. One month it's breathing and the next it's a wall with my mark on it."
 
 "Did you keep coming? After?"
 
@@ -365,7 +373,7 @@ I could not laugh. I had a laugh somewhere, I thought, and it would not be fetch
 
 "Show me what? That it's dead?"
 
-"That it was here!" He threw out an arm at the rock, at the passage, at the whole hill. "One right here in the Sibyl's own cellar, under all those customers, and the only folks in the empire who know it are standing in it. Carter finds King Tut, and does he sit on it? He sends for somebody to come look." He clapped the hat on again. "Soon as I'm back I'm writing it up for the Geographic, with pictures, I'll get the keeper in, I'll get his bees in."
+"That it was here!" He threw out an arm at the whole hill. "One right here in the Sibyl's own cellar, under all those customers, and the only folks in the empire who know it are standing in it. Carter finds King Tut, and does he sit on it? He sends for somebody to come look." He clapped the hat on again. "Soon as I'm back I'm writing it up for the Geographic, with pictures, I'll get the keeper in, I'll get his bees in."
 
 There was another one. That had been the whole of my night's hope, a door that was not his door, and here it was, and he was right about it, and it was a wall.
 
@@ -377,13 +385,13 @@ There was another one. That had been the whole of my night's hope, a door that w
 
 "Misenum. The fleet paid, and it's an hour from here if you step out. After that it's sixty-two, and Puteoli, for Eros's, you know about that."
 
-"And before? Before Cumae."
+"And before, when you first—"
 
 "Phocis." He leaned a shoulder on the rock beside the mark and crossed his ankles, the way men leaned on lampposts at home. "A goatherd's hut under the Corycian, two winters. I wanted to be handy in case it had a change of heart. No dice." He laughed a little, through his nose. "Guess what I left up there? Back home, at the mouth, I mean. My coat."
 
-I let that lie. Aelia stirred against me, sighed in her sleep, and went heavy again.
+Aelia stirred against me and went heavy again.
 
-"Best coat I ever owned, Navy surplus, gray, wool, you could've anchored a destroyer with it. I slept up at that mouth in it a week, waiting on the cold to rise out of the slot and stay put till I could trust it, and your breath smoked up there at sunup, even in July. The day I went in I shucked it, because you can't get down that crack on your belly in a coat, and I folded it on the rock where I'd tied off the string, nice and square, Navy style, with the notebook in the pocket so it wouldn't get wet. Like a good scout. Be back for that in an hour, I'm thinking. Next thing I'm crawling around Phocis in snow up to here, in my shirtsleeves, in the dark, in forty-one."
+"Best coat I ever owned, Navy surplus, gray, wool, you could've anchored a destroyer with it. I slept up at that mouth in it a week, waiting on the cold to rise out of the slot and stay put till I could trust it, and your breath smoked up there at sunup, even in July. The day I went in I shucked it, because you can't get down that crack on your belly in a coat, and I folded it on the rock where I'd tied off the string, nice and square, Navy style, with the notebook in the pocket so it wouldn't get wet. Like a good scout. Be back for that in an hour, I'm thinking. Next thing I'm crawling around Phocis in my shirtsleeves in snow up to here, and it's forty-one."
 
 "No coat."
 
@@ -435,7 +443,7 @@ He took the diamond at a dead run, white shins flashing under the hitched tunic,
 
 "Again," said Lucius.
 
-From the bench I watched them. The bars of sun had climbed the wall while we stood at Fenn's mark; they lay higher now, and longer, reddening at the top, and the sea's noise in the windows had shifted as the wind backed. My mind was on the ridge path at dusk with a child asleep in a basket, and on how dark it would be by the shore. A man of nearly seventy lay flat on his back in the dust, laughing, with a boy of two standing over him, fists clenched, waiting to be told to run; and of us three who were awake in that corridor, only I wanted to go home.
+From the bench I watched them. The bars of sun had climbed the wall while we stood at Fenn's mark; they lay higher now, and longer, reddening at the top, and the sea's noise in the windows had shifted as the wind backed. My mind was on the ridge path at dusk with a child asleep in a basket, and on how dark it would be by the shore. Of us three awake in that corridor, only I wanted to go home.
 
 "We should start back, it's a long walk," I said.
 
@@ -473,7 +481,7 @@ The ridge path home went slowly under a low sun, with Lucius asleep in the panni
 
 "Spring," said Fenn. "Yeah."
 
-Aelia woke where the stakes began, her first waking since the lake. She lay against me with her eyes open and roving over the sky, which by then was nearly all there was to see, going from blue to shell-pink, and she made a long soft noise at it and did not cry. The men were bringing the boats in along the oyster stakes, and their voices carried across the lake, clear and small.
+Aelia woke where the stakes began, her first waking since her feed on the ridge. She lay against me with her eyes open and roving over the sky, which by then was nearly all there was to see, going from blue to shell-pink, and she made a long soft noise at it and did not cry. The men were bringing the boats in along the oyster stakes, and their voices carried across the lake, clear and small.
 
 When the stakes were behind us Fenn said, "You walk out there? To Eros's?"
 
