@@ -13,7 +13,7 @@ They knew him. He had fought on that sand twice already, according to the woman 
 
 I could have told her. I watched the sand instead.
 
-He had walked out with a bird on his head. I had known for a week that he would be a thraex, and I had seen thraeces on that sand before, but nothing had warned me that the helmet would take his face away entirely: a broad bronze brim, a visor of punched holes where his eyes ought to be, and on the crown a griffin's head with its beak open, aimed wherever he aimed. Below the helmet he was all wrappings. Quilted cloth wound both legs to the top of the thigh. Over each shin a greave was strapped from mid-thigh to instep, so high and stiff that he crossed the sand lifting his feet like a wading bird. They were new, and the sun found them; I knew by then what they had cost him. His right arm was quilted from fist almost to the shoulder, and in the fist was the short curved sword, bent at its middle the way a vinedresser's knife is bent. The other arm carried a shield the size of a bread board.
+He had walked out with a bird on his head. I had known for a week that he would be a thraex, and I had seen thraeces on that sand before, but nothing had warned me that the helmet would take his face away entirely: a broad bronze brim, a visor of punched holes where his eyes ought to be, and on the crown a griffin's head with its beak open, aimed wherever he aimed. Below the helmet he was all wrappings. Quilted cloth wound both legs to the groin. A greave was strapped over each from mid-thigh to instep, so high and stiff that he crossed the sand lifting his feet like a wading bird. They were new, and the sun found them; I knew by then what they had cost him. His right arm was quilted from fist almost to the shoulder, and in the fist was the short curved sword, bent at its middle the way a vinedresser's knife is bent. The other arm carried a shield the size of a bread board.
 
 I knew him by his feet. Inside all that bronze and padding he could not keep still. He rose onto his toes and sank again while the herald finished, as he had after every errand I ever gave him, impatient to be let go.
 
@@ -33,7 +33,7 @@ Valens's hand lay spread on the front of Lucius's tunic.
 
 My eyes kept leaving the fight. They went to the strap that held Felix's left greave below the knee, where a new hole had been punched for his thin calf, too near its neighbor, so that the leather between them had begun to tear. Each time that foot took his weight I expected it to part. It held, and I waited again.
 
-Felix stopped circling. He went in. The sword drew back and came over, and the curved blade struck the top of the red shield, high, where the rim was bound in bronze; the knock came to us after the sight of it, small and flat. The red board shoved forward. Felix hopped clear. Out of the bowl came a long sliding groan that went right round the oval, and the griffin tipped upward at the benches, hunting for whoever had made it.
+Felix stopped circling. He went in. The sword drew back and came over, and the curved blade struck the top of the red shield, high, where the rim was bound in bronze; the knock came to us after the sight of it, small and flat. The red board shoved forward. Felix hopped clear. Out of the bowl came a long sliding groan, and the griffin tipped upward at the benches, hunting for whoever had made it.
 
 Lucius drummed his heels once on his father's shin.
 
@@ -43,7 +43,7 @@ Felix set his feet and went in again.
 
 Nine days before, we had returned from the Puteoli loads at the end of a long day on the bay road, with the four mules in a string behind and Lucius sleeping in a pannier with his cheek on a sack of meal. Aelia had slept since Herculaneum with her mouth on my collarbone. The street had gone blue with evening and its shutters were all up. Grata was round her marble and out to us before the dun had come to a stop.
 
-"He's gone to the gladiators. He went the very next day after you, before the bakers had their fires lit, and I'd have sent after you if I'd had a soul to send, but my husband's no use on a road. He swore himself in the forum, the whole oath, and the fuller's girl had it from him first and the fountain had it from her by noon. He left your stable mucked out, in the dark. His blanket's gone. That bowl of his is still on your shelf. He's to fight at the duumvir's games, nine days from now, the painter's had it up on the bath-house wall since yesterday, twenty pairs and the awnings, and the fuller's girl says he's to be a Thracian, whatever that means to her." She lifted Aelia out of the sling and settled her on her own shoulder. "Give her here. You're dropping where you stand, the pair of you, and the boy's got meal up his nose."
+"He's gone to the gladiators. He went the very next day after you, before the bakers had their fires lit, and I'd have sent after you if I'd had a soul to send, but my husband's no use on a road. He swore himself in the forum, the whole oath, and the fuller's girl was the first he told. He left your stable mucked out, in the dark. His blanket's gone. That bowl of his is still on your shelf. He's to fight at the duumvir's games, nine days from now, the painter's had it up on the bath-house wall since yesterday, twenty pairs and the awnings, and the fuller's girl says he's to be a Thracian, whatever that means to her." She lifted Aelia out of the sling and settled her on her own shoulder. "Give her here. You're dropping where you stand, the pair of you, and the boy's got meal up his nose."
 
 Valens slipped the dun's lead.
 
@@ -255,7 +255,7 @@ On the fifth morning Prima stood ahead of me in the fountain line with two jars 
 
 We went home from the fountain side by side, her jars and my one, the twin riding her hip and reaching for my hair.
 
-"Your husband was Lupus," she said. "They say so at the vats. Nine times, and the emperor's own sword."
+"Your husband was Lupus," she said. "They talk of it at the vats. Nine times, and the emperor's own sword."
 
 "Yes."
 

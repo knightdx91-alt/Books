@@ -445,3 +445,176 @@ Script: `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpa
 Apply `apply_fixes.py` to `manuscript/chapters/chapter-28.md`, re-run `bash tools/check_chapter.sh 28` and `python3 tools/tic_report.py --echoes 28`, then re-evaluate (cycle 1) using the census rulings recorded above.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Cycle 1
+**Evaluator:** book-evaluator (independent) | **Date:** 2026-10-24 | **Text:** `manuscript/chapters/chapter-28.md` md5 `d18ec6403c38c9d617954a7fae26f292`. That is exactly the tested cycle-0 result, so the 25-replacement script was applied verbatim (commit 5bd0d38). Line numbers below are for this file.
+
+**Measured:**
+- `bash tools/check_chapter.sh 28`: ALL MECHANICAL GATES CLEAN. Shape is clean: `short-punch` → `dialogue`.
+- `--echoes 28`: 0 echoes, 0 command echoes, 0 spoken-line echoes.
+- Body 6,603 words; dialogue 31.0%.
+
+### Verdict: **POLISH** (cycle 1). Floor **8.0** (Characters).
+- Casual 9.0 ✓. Pacing OK ✓. Gates clean ✓.
+- Every cycle-0 finding is resolved on the page.
+- Three new findings remain:
+  - One item cycle 0 missed: Grata's gossip chain, which repeats Ch.20.
+  - Two doubles that my own cycle-0 swaps created: "right round", and the thigh/shin wobble.
+  - One phrase my C4 swap kept: "say so" ×4 in the chapter.
+- All four are fixed by a 4-replacement tested script. **Projected after it: Floor 8.5 / Average 8.71 → PASS.**
+
+### 1. Cycle-0 findings verified on the page
+
+| ID | Now on the page | Status |
+|---|---|---|
+| V1 | l.124 "What was your answer?", answered by "That fat's better than burned." | ✓ |
+| V2 | l.358 "My boy," said Valens. Not spoken anywhere in Ch.1–27, and Grata's cut "my boy" is not restored | ✓ |
+| L1 | l.368 ends "…and on the right two fronds, and then nothing." The cause is not given, so the Ch.21 frame is gone | ✓ |
+| L2 | l.36 has no "new to me". **But see R2:** the swap "went right round the oval" doubles l.310's "right round to the gate" | ✓ / new double |
+| C1a–e | Prima's treading is down to the intro (l.96) plus the one stop and resume (l.108). l.120 has "hooked the strap out", so "fished" is now ×1 (l.114) | ✓ |
+| C2 | Grata/Aelia: l.46 settled, l.52 rocking | ✓ |
+| C3 | l.306 "because the trainer had eaten a bowl of her chickpeas" | ✓ (but see R1) |
+| C4 | l.258 "They say so at the vats." **But** "the fountain" as gossip is still shared, by Grata l.46 and Prima l.104, so cycle 0's own rule ("no town metonymy shared between speakers") is not yet met. See R1 | partial |
+| C5 | l.226 "chanting Lupus". Felix's "cry… name" is now 2 (l.122 relayed, l.372) | ✓ |
+| C6 | l.66 "and he was out there yet". The sit is said once | ✓ |
+| C7a–b | Boots at l.274 and l.288 only. "I would have argued it." (l.284) reads as elliptical, not dangling | ✓ |
+| C8 | l.148 has no napkin. Albucius is narrated eating twice (l.136, 148) | ✓ |
+| C9 | l.304 "Soon he slept. Lucius lay…". "lay awake" ×1 (l.248) | ✓ |
+| P1 | l.308 "I thought of my cousin Gloria's…". The label is gone and the saffron triggers it | ✓ |
+| P2 | l.332 "from all sides together". 0 uses in Ch.1–27 | ✓ |
+| P3 | l.128 "dragged". "hauled" ×1 in the scene | ✓ |
+| P4 | l.324 "Then he did nothing with any of it." | ✓ |
+| P5 | l.136 "with the shells picked off into a small white pile at his elbow". "eggs" ×1 in the sentence pair | ✓ |
+| I1 | l.16 "from mid-thigh to instep". **But see R3:** "to the top of the thigh. Over each shin a greave… from mid-thigh" puts "thigh" in adjacent sentences and a thigh-high greave "over each shin" | ✓ fact / new wobble |
+| I2 | l.184 "Bronze ones, past the knee." | ✓ |
+
+The census rows hold as classified at cycle 0. No failing row remains:
+- Prima treads 2 beats.
+- Grata 2, Albucius 2, boots 2.
+- Valens seated outside the anchor: 3, spread.
+- Mara sleepless: 2.
+
+The fixes added no new narrated state. "hooked" / "dragged" are Prima's hands at work, once each.
+
+### 2. New problems check (fix-created, or missed at cycle 0)
+Every replacement string was checked against Ch.1–27, the voice-bank, voice-dna, the bible's SPENT/CUT lists and the ten Ch.28 guards.
+- **No guard is broken:** the palm is unattributed, nobody names the mountain, and the herald does not cry Lupus.
+- **No CUT string is restored.**
+- **No continuity break:** "past the knee" and "mid-thigh" agree with each other and with l.34's strap "below the knee".
+
+Four items remain:
+
+| ID | Location | Problem type | What happens now | Why it fails | Revision direction (exact, in script) | Project rule? |
+|---|---|---|---|---|---|---|
+| R1 | l.46 (Grata) | Character (speech habit, book-wide) + Continuity (2nd use) | "and the fuller's girl had it from him first and the fountain had it from her by noon." | Ch.20 l.579 Grata: "she reckons I had it from her **at the fountain**". With Ch.28's two uses, that is the same gossip chain 3× in her mouth book-wide. "had it from her" plus the fountain is a 2nd use the echo scan cannot see, because the word order is reversed. It is also the last thing keeping "the fountain" as gossip shared with Prima (l.104), against C4's rule. Missed at cycle 0, which counted inside the chapter only | "and the fuller's girl was the first he told." Prima's "He told me first." (l.104) now corroborates her, and her "my aunt told the fountain" stays hers alone | Yes: speech-habit census also checks the speaker's earlier chapters |
+| R2 | l.36 | Style (double, created by L2) | "a long sliding groan that went right round the oval" | "right round" also at l.310 (and Ch.4 l.133). My swap planted it | "Out of the bowl came a long sliding groan, and the griffin…" The groan already comes from the bowl | No |
+| R3 | l.16 | Style / Logic (created by I1) | "Quilted cloth wound both legs to the top of the thigh. Over each shin a greave was strapped from mid-thigh to instep," | "thigh" in adjacent sentences, and a greave "over each shin" that starts at mid-thigh | "Quilted cloth wound both legs to the groin. A greave was strapped over each from mid-thigh to instep," | No |
+| R4 | l.258 (Prima) | Style (my C4 string kept a phrase) | "They say so at the vats." | "say so" ×4 in the chapter: Prima l.108 and l.258, Valens l.166, Felix l.196 | "They talk of it at the vats." This leaves one per speaker. "talk of it" is 0 in Ch.1–27, the voice-bank and the bible | No |
+
+Also checked and passed (no change):
+- "hook" family ×3 in three senses, 4,000+ words apart: l.120 hooked out, l.208 unhooked, l.370 hooked on two fingers.
+- "chanting" is new to the book.
+- "dragged the" is a common verb, with no frame.
+- "What was your answer?" is unique.
+- "the fountain" at l.108 is the literal place.
+- l.36's "whoever had made it" is the griffin hunting a noise. It is not the closed maker-conjecture frame.
+
+**R1 is why the floor holds.** It is the same class of item that held Ch.22 cycle 2 and Ch.27 cycles 2–3 at 8.0: one clause-level speech habit / cross-chapter echo, which the book treats as law. R2–R4 are hygiene. They do not hold the floor, but two of them were planted by this evaluator's own swaps, so they go in now and not later.
+
+### 3. Scores (cycle 1, the page as it stands; max +0.5 vs cycle 0)
+
+| Dimension | Cycle 0 | **Cycle 1** | Evidence / cap |
+|---|---|---|---|
+| Originality | 9.0 | **9.0** | Unchanged. The seated champion (l.336–340); the strap-tying mercy (l.330–332); Albucius's bear; "That fat's better than burned." |
+| Theme | 8.5 | **8.5** | Unchanged. Recedes by design; "haul him home by the ear" (l.80) is still stated outright |
+| Characters | 8.0 | **8.0** | Census clean. Spoken reuses gone ("What was your answer?", "My boy,"). Felix's habit is at 2. **Held by R1:** Grata's gossip chain is 3× book-wide and a hidden 2nd use of Ch.20 l.579, and the fountain metonymy is still shared. After R1 → **8.5** |
+| Prose & Voice | 8.0 | **8.5** (+0.5) | Cycle-0 holds are cleared: the palm trusts its image (l.368), the chaos device is unlabelled (l.308), and "new to me" and the And-opener are gone. Stopping sentences stand: l.10 "…and nobody caught it."; l.304 the bowl nudged "a fingernail's breadth"; l.336–338. The ugly sentence is l.86. Voice under pressure: l.348–352. R2–R4 required before finalize, but they do not hold the score |
+| Pacing | 8.5 | **8.5** | Unchanged. 6,603 words; S5 runs strap → sandal at speed; the ledger is matched |
+| Emotion | 9.0 | **9.0** | The anchor is untouched (l.336–340). "My boy," (l.358) sharpens the last line's irony: Felix never hears it |
+| Immersion | 9.0 | **9.0** | The greaves are corrected (l.16, l.184). R3 tidies the kit sentence |
+| **FLOOR** | 8.0 | **8.0** | Characters |
+| **AVERAGE** | 8.57 | **8.64** | (9.0+8.5+8.0+8.5+8.5+9.0+9.0)/7 |
+
+**Casual Reader: 9.0** (unchanged; the fixes touch nothing a casual reader notices).
+
+**CVI-Launch: 9.4.** Inputs: pacing 8, anchors 10, casual 9, shareability 7.5, pitch 10, closeness 10, giving 8.9; plus 0.5 for a strong anchor.
+
+**CVI-Legacy: 6.8.** Inputs: 9.0×.30 + 8.5×.25 + 3×.20 + 6×.15 + 5×.10.
+
+**Anti-AI:**
+- 8 of 20 patterns, which is the clean band. #6 is gone, and #11 is down to 3 (0.45/1k): l.22, l.60, l.208.
+- After R1–R4 the patterns stay at 8.
+
+**Pacing gate: OK.** The ledger row is matched, and the contrast with Ch.27 and Ch.29 holds as tabled at cycle 0.
+
+### 4. Fix script (tested)
+`/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes28/apply_fixes_c1.py <chapter-28.md>`. It makes **4 replacements** (R1–R4). Each must match exactly once, or nothing is written. A re-run aborts safely; tested.
+
+Tested on the scratch copy `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/eval28/books/the-hour-of-ash/`, starting from md5 d18ec64:
+- `check_chapter.sh 28`: **ALL MECHANICAL GATES CLEAN**. Tic gate clean, voice-wear strict clean, SHAPE CLEAN.
+- `--echoes 28`: **0** echoes, 0 command echoes, 0 spoken-line echoes.
+- Body **6,561** words; dialogue **31.0%**. `short-punch` → `dialogue` unchanged.
+- After the script: "had it from" 0 in Ch.28; "right round" 1; "say so/says so" 3, one per speaker; "thigh" 2, 300 lines apart.
+- Result md5: **`493621cce8584454710f8a15985afab3`**.
+- Untouched: the opener, the anchor (l.336–340), the palm, the last line, and every cycle-0 replacement.
+
+**Projected after R1–R4:**
+
+| Dimension | Projected |
+|---|---|
+| Originality | 9.0 |
+| Theme | 8.5 |
+| Characters | 8.5 |
+| Prose | 8.5 |
+| Pacing | 8.5 |
+| Emotion | 9.0 |
+| Immersion | 9.0 |
+
+That gives **Floor 8.5 / Average 8.71**, Casual 9.0 → **PASS** at cycle 2.
+
+Cycle 2 needs only:
+1. Confirm md5 `493621cc…`.
+2. Re-read l.16, l.36, l.46 and l.258 in place.
+3. Re-run the gates.
+
+### 5. Bookkeeping for finalize (bible re-sync, from the page after R1–R4)
+- **Cycle-0 sync list (above) stands**, with these corrections:
+  - **PRIMA:**
+    - "hooks the twin's strap out", not "fishes". She still "fished inside her neckline" for the sherd.
+    - "They talk of it at the vats." Not "The fountain says so", and not "They say so at the vats".
+    - Treading: the intro, plus the one stop and "She trod again, harder.", and nothing else.
+    - "dragged the stained cloth clear".
+    - Mara's question to her: "What was your answer?"
+  - **GRATA:**
+    - "and the fuller's girl was the first he told."
+    - "because the trainer had eaten a bowl of her chickpeas and said".
+    - "hitched Aelia up her shoulder" is CUT.
+    - WATCH: the gossip chain "had it from" is rested (Ch.20 l.579 is its only use). "the fountain" as gossip belongs to Prima in Ch.28.
+  - **VALENS:** "Wash that."; "My boy."
+  - **ALBUCIUS:** no napkin; "the shells picked off into a small white pile at his elbow" (no dish of eggs).
+  - **FELIX (kit):**
+    - Quilting "to the groin".
+    - Greaves "from mid-thigh to instep" / "Bronze ones, past the knee."
+    - "chanting Lupus".
+    - "no crowd ever cried a baker's name" (relayed) and "no one will cry my name" are 2/2: SPENT.
+  - **MARA:** CUT "For no reason at all", "I lay awake" (l.304), "new to me", "And you?".
+- **At-risk after Ch.28: replace the writer-draft block.**
+  - SPENT: "Mine." → "My boy."; "That wants washing." → "Wash that."; the sliding groan, now bare, with no trailing clause.
+  - CUT log: every cycle-0 old string; plus R1 "had it from him first and the fountain had it from her by noon", R2 "that went right round the oval" / "that travelled the whole oval", R3 "to the top of the thigh. Over each shin", R4 "They say so at the vats." / "The fountain says so."; plus rejected drafts "What did you tell him?" and "from above the knee"; plus the palm's last two sentences.
+  - WATCH: "right round" rested (Ch.4, Ch.28 l.310); "say so" 1 per speaker; "hook/hooked" 3 in Ch.28.
+- **Project rules to record:**
+  - V2: a charged one-word line is never re-spoken by another character.
+  - L1: an unfinished mark is never given its cause by the narrator.
+  - C4, corrected: a town metonymy used as gossip belongs to one speaker per chapter.
+  - R1: the speech-habit census also counts the speaker's earlier chapters.
+- **Header l.6:** body 6,561, dialogue 31.0%, revision "evaluator cycles 0–1".
+- **ENTITY:** greaves to mid-thigh; quilting to the groin; Prima's source "the vats".
+
+### PATH TO 8.5 (cycle 1)
+- **Characters 8.0 → 8.5 requires:** R1, Grata's l.46 clause recast to "and the fuller's girl was the first he told." That is the only floor-holding item.
+- **Required hygiene with it (not floor-holding):** R2, R3 and R4, since my own swaps planted two of them.
+- Apply `apply_fixes_c1.py`, re-run `check_chapter.sh 28` and `--echoes 28`, then run cycle 2 as a confirmation pass.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
