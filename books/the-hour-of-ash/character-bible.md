@@ -5085,6 +5085,32 @@ functional; no habit assigned.
 - **CUT / struck (never restore; each checked OFF the page):** "she's had to stand behind me since daybreak, and can't say a thing";
   "Tomorrow she can go first, and then she owes me."; "Then there's no festival,"; "with a warning to mind the jar".
 
+#### Ch.30 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+WRITER DRAFT, 2026-10-24 ("Tremor"; to be re-synced to the FINAL page by the evaluator's consolidated list). No new named character.
+All functional; no habit assigned; none borrows Grata's flood or the narrator's eye.
+- **The cookshop man** (a door on the long street east of the shop; not Grata): shouts after Mara "that it was over, Greek, nothing to
+  run from" (reported); returns at the end of the day with "a wine jar split from lip to shoulder": "Nothing to run from," … "Said so,
+  didn't I." Worldview: a shake is weather. Called by Mara "my adviser from the cookshop door" (once).
+- **The plasterer** on a trestle outside a wine shop, trowelling lime into a split over the door, his boy mixing below: "Yours as
+  well?" / "Tell her she's after the cooper and the widow and this fellow here. Tomorrow. I'll not get to her today." Worldview: the
+  queue. (No ladder: Ch.31 owns the ladder.)
+- **The wine seller** under his sign, "arms crossed on his belly" (silent).
+- **The boy in the gate passage** fitting the pieces of a dropped jar together on the paving (silent).
+- **The woman with the hen** pointing at her own roof; **the tile sweeper** and **the man on the roof** who "named what each had cost
+  him"; **the woman at the crossing shrine** "telling the snakes about her roof"; **the two old men on the fuller's bench** (they
+  quarrel over "the year of the shake before" and later "had settled the year between them and gone on to roof tiles"); **the women
+  queued at the fountain**; **the goat** on the tomb road "eating the violets off a tomb step" (all silent).
+- **The dyer's wife** (a lamp off its bracket, spout lost) and **a girl of nine or so** (her grandmother's bowl in three, carried in
+  her tunic's lap): customers, silent.
+- **Mention:** the cooper and the widow (the plasterer's queue); "the big shake fifteen years back" (AD 62) and the plasterer who
+  mended the hearth wall after it; the carter who told Fenn of the cold off Eros's door (Ch.25 canon, paraphrased).
+- **Writer's notes for the at-risk sync (Ch.30 draft):** "the painted door" 0 (allowance unchanged, 1 left); "seam" / "niche" /
+  "painted plaster" / "hand flat" 0 / 0 / 0 / 0; the door's coolness "faint", "No colder."; Fenn's rule paraphrased ("the doors went
+  with the ground"), "breathe with the earth" not printed (still 1 of 2); Grata swears by Castor (a woman's oath), not Hercules;
+  Valens's plaster dust given once (S5) and never re-noted; the notebook entry has no count and no reckoning ("*Mid-morning. Hearth
+  wall split down the old repair.*" / "*Eros: the same.*"); the satchel hangs "on its nail" (new, harmless); the stalls are heard
+  from the back room (agrees with Ch.28).
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)

@@ -1,0 +1,49 @@
+# Writer Report: Chapter 30 — "Tremor"
+
+- **Word count:** 2,600 (shape_check) / 2,608 (style) / 2,628 (show-tell) against a target of ~2,600 (100%). Seven shards: shake ~330 / the crack and the wish ~470 / run ~300 / door ~300 / Valens ~230 / walk back, Grata, bread, trade ~720 / night ~250. The first complete draft was 1,830 words. It was short because it had too few beats, not because the scenes were thin, and the shortfall was made up with new beats rather than padding: the instinctive grab for Aelia, then forgetting the children on the run ("I had forgotten them since the kneading"); the aftershock at the door; Mara shading the paint with her own body; Valens's look back from the arch; the answer she had ready and never needed; the shake bringing her trade; and "Valens in the road I left out."
+- **Ledger row honored:** Fragmented (one morning, shaken apart). 6 breaks / 7 shards. Opens `I-punch` with "I was kneading when the floor moved." (7 words, a single-sentence paragraph). Closes `punch` with "I hoped the next would shake harder." (7 words, a single-sentence paragraph). Dialogue 9% (band 5–15). Median sentence 11 (gear low). Theme present: the door wanted, and refused twice, once by the shake and once by the aftershock. Dateline *Pompeii · February, AD 77*: late winter, consistent with Ch.29 (December 76) and Ch.31 (March 77). Violets were picked for the month. Only the month is given, no day.
+- **Hook / pull types:** the hook is IN MEDIAS RES, not VOICE. The pull is EMOTIONAL GUT PUNCH by dramatic irony, not QUESTION PLANT. Mara wants a harder shake for the door's sake, and the reader supplies the rest. Her thought never touches the eruption, the date or the mountain. TICKING CLOCK is still unused.
+- **Gates:** `bash tools/check_chapter.sh 30` → **ALL MECHANICAL GATES CLEAN**: style, grammar, rhythm 0 flags, show/tell, voice-wear strict, tic gate including gestures and reflexes, 5c echo scan **0**, 5d closed ledger clean (23 rows), metaphor, shape. `python3 ../../tools/shape_check.py .` → SHAPE CLEAN. Em-dash 0, as-if 0, and-chains 1, negation pivots 0, credential asides 0, "So"/hinge openers 0, semicolons 7, similes 0.4/1k. The first draft carried 134 echoes and 44 tic-gate phrases. Every one was varied by rewording the sentence, never by cutting a beat.
+- **Emotional anchor:** hit, in two places. (1) The family laughing at the crack. Grata swears through it ("Castor," said the wall), Valens works a finger into it, and Grata tells him to get his finger out of her wall. Valens laughs, Lucius laughs because his father does, and Aelia laughs at both of them. Mara does not laugh, and Valens sees it. (2) The plaster dust on the bread. The dough takes "a fine skin of the dust", she bakes it "dust and all" under the clay bell, and at midday "The bread crunched. Everybody ate theirs anyway, me as well, it was bread." Lucius spits a bite into his palm to find the grit, then eats it, and Valens says "The wall." There is no stamped loaf, no Cerdo and no bakery basket.
+- **Emotional surprise (relief):** "That one had been hard. It had broken a mend that had held for fifteen years." / "I watched the crack and wished it wider." The relief is carried by a thought and by the run itself. None of the spent channels is used (voice, mouth, hiccups, knees, bladder, sleep, laugh).
+- **NON-NEGOTIABLES:**
+  - She runs out of the Nuceria Gate (named once). The hand at the threshold is fresh staging, with none of Ch.19's. Her palm, hot from the run, first feels "only the two warmths together, mine and the sun's". She steps in so that her own shadow covers the place, and when the sun's heat fades, "the coolness was the one I had found there when we were new in the town. Faint." The aftershock comes. "No colder." gets its own paragraph and closes the shard.
+  - The knowledge beat: "I turned. Valens was standing in the road." Plaster dust is in his hair (given once, from the ceiling, never mentioned again). He stays ten paces off. "The door was in front of him, and my hand on it. He saw where I had run to." He reads the name over the door, his lips moving once. "He put no question to me." From the arch he looks back at the tombs the way he looks back at a ford, which tells us he now knows the place. There is no two-item look.
+  - The walk back: a plasterer already at work with a queue ("after the cooper and the widow"), tiles swept up, a honey cake on the crossing shrine, the two old men who have "settled the year between them and gone on to roof tiles". For everyone else it is a plastering job.
+  - The night: the notebook in the satchel (canon, Ch.25/27) on its nail, under Fenn's letters. The entry is unlike Ch.20's, with no count and no reckoning: "*Mid-morning. Hearth wall split down the old repair.*" / "*Eros: the same.*" It is the first entry with Eros in it.
+- **Chaos moments:**
+  - Cognitive distortion in action: the door blots out everything, including her children for a mile. The grab for Aelia at the shake, then "I had forgotten them since the kneading."
+  - Body: her full breasts jarred by the run; the sweat going cold at the door.
+  - Irrelevant pull of her trade, inside the run, triggered by the scene: "Another day I would have stopped and shown him how the handle sat." (the boy fitting the jar together in the gate passage).
+  - Failed management, small: the sandal tied "badly", left as it is.
+  - Memory: none as a separate paragraph (Ch.29 had one). The only backward glances are canon facts folded into sentences: the AD 62 mend, Fenn's carter, the Kalends violets.
+- **Secondary character moments:** Grata swears by Castor (a woman's oath; "Hercules" would be a man's), tells everyone about themselves, asks nothing, touches nobody, and pushes a rag through the crack ("Leave my rag be"). Valens tests the beam before anything else, then puts his shoulder to the wall ("It'll hold") and plugs the bottom of the crack with straw. His hands "hung empty at his sides; the headstall lay by my board at home." Lucius: "Wall broke," "Grata," the hands-behind-the-back inspection, the oil carried at a solemn crawl, the plaster flake held in his sleep. Aelia slaps the floor "to make it heave again". The cookshop man ("nothing to run from" / "Said so, didn't I."). The plasterer, and the woman telling the shrine snakes about her roof.
+- **Impulse deviations (kept):**
+  1. The wall speaks first: shard 2 opens on "Castor," said the wall.
+  2. Mara uses her own shadow to take the sun off the paint. This replaces Ch.19's test and keeps the outline's "under sun-warmed plaster" literal.
+  3. The aftershock at the door: the door is refused a second time inside the same scene.
+  4. "Valens in the road I left out." Her secrecy reaches into her own record.
+  5. The shake brings her trade by afternoon, which shows the ordinariness without saying it.
+  - **Resisted:** a line from Valens in the dark about the road out of that gate. It would have answered the knowledge beat and spoiled "Whether he slept I had no way to tell."
+- **Ugly sentence:** "The bread crunched. Everybody ate theirs anyway, me as well, it was bread." (shard 6, the midday meal).
+- **Outline deviations:**
+  - The outline's "kitchen" is the hearth corner of the back room. The family has a hearth (Ch.21), and the house has no kitchen in canon and no upper floor. The cracked wall is the party wall with Grata, so her swearing comes through the crack.
+  - Why Mara kneads when the bakery sends loaves is not explained. She bakes flat cakes under a clay bell (a testum) on the hearth.
+  - The aftershock is an addition.
+  - Felix is absent, which agrees with Ch.28: he lives at the school.
+- **Structural approach used:** Fragmented. Seven shards from one day: the shake, the crack, the run, the door, Valens, the walk back and the bread, the night. The shard cuts land on movement and the gaps carry time.
+- **Guards checked by hand (bible "At-risk after Ch.29"):**
+  - No Saturnalia callback (no cap, cup, jug, king, wreath, pits, stealing or ball; the customer's vessel is a *jar*).
+  - Mara does not laugh.
+  - None of Ch.19's threshold staging, and "seam", "niche", "painted plaster" and "hand flat" each 0.
+  - "The painted door" 0, so one allowance is left.
+  - The door's coolness is "faint".
+  - "Breathe with the earth" is not printed, so it stays at 1 of 2. Paraphrased as "the doors went with the ground. When it moved hard enough, they could open."
+  - Command echoes 0 (Grata's "Take them" was recast so that Mara's "took" is not compliance).
+  - Item-by-item look 0, without-looking 0, "kept … to itself" 0, "curled up" 0.
+  - No portent. Nobody names the mountain, and the mountain is not on the page.
+  - Four mules, heard from the stalls (agrees with Ch.28). No ladder (Ch.31's). No lent adult mood on the children (Aelia "wanted down"; Lucius "pointing"). Aelia mouthing 1, reported by Grata.
+  - Valens: 5 short lines, no question, no comparison.
+  - Grata: questions 0, touches 0.
+- **Bible:** no new named character. Added a **Ch.30 unnamed walk-ons** block, with the writer's at-risk notes, ahead of MINOR NAMED CHARACTERS. The full at-risk sync is left to the evaluator's final pass.
+- **Weakest dimension (for the evaluator to test first):** Originality and Prose in shard 6. The street paragraph on the walk back strings five quick vignettes together, and it could read as a catalogue. If polish cuts, cut a vignette (the boys with the lime first), never the plasterer's queue or the old men. Second risk: the last line's dramatic irony. It is Mara's present wish about the door, and the irony is the reader's, but if the evaluator reads it as a wink at the eruption, the fallback is to close on Valens's unreadable sleep instead. That line is 9 words now, so it would have to be cut to 7 or fewer to keep the `punch` signature, and the echo scan would need re-running.
