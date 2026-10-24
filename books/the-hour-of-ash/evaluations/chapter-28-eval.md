@@ -1015,3 +1015,203 @@ The cycle-2 list stands, with these changes:
 That gives **Floor 8.5 / Average 8.71**, Casual 9.0 → **PASS**.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Cycle 4
+**Evaluator:** book-evaluator (independent) | **Date:** 2026-10-24 | **Text:** `manuscript/chapters/chapter-28.md` md5 **`4aca9f902c36ea683f80225e7f2e1b8f`** ✓. This is exactly the tested cycle-3 result, so `apply_fixes_c3.py` (12 cuts) was applied verbatim (commit df98174). This is a confirmation pass, scoped as cycle 3 prescribed: the §2 sweep is binding, and only a defect created BY a cycle-3 cut may be raised. **None was found.**
+
+**Measured on the real file (book folder):**
+- `bash tools/check_chapter.sh 28`: exit 0, **ALL MECHANICAL GATES CLEAN**. That covers style (foreshadow 0), grammar (0 errors), rhythm, show/tell, voice-wear strict, the tic gate with gestures, the echo scan, the **new step 5d CLOSED LEDGER** ("clean, 5 closed constructions checked"), metaphor and **SHAPE CLEAN**.
+  - Rhythm: the advisory is the same single paragraph as in cycles 1–3 (l.62, Lucius on the clean patch).
+  - Gesture: "jaw ×2" is still the cycle-0 false positive. Both hits are the beard (l.168, l.368).
+- `python3 tools/tic_report.py --echoes 28`: **0** echoes, 0 command echoes, 0 spoken-line echoes.
+- Body **6,481** (shape) / 6,482 (metaphor table). Dialogue **31%** (31.3% show/tell). 4 breaks. Median sentence 11. 8 similes. Em-dash 0. And-chains 3. Opens `short-punch` ("The crowd roared for the wrong man.") and closes `dialogue`, which matches ledger row 28.
+- One note: the cycle-3 re-read list gave "l.242–246". On this file the two "and stayed" sites are **l.240 and l.244**. That is my numbering slip. The other numbers are right.
+
+### 1. The twelve cuts, re-read in place
+| Cut | Line now | On the page | Ruling |
+|---|---|---|---|
+| X6 | l.60 | "The hare bowl sat high up, upside down, so that no dust could settle where the hare ran. The sherd with his name on it was gone. He kept it in a crack behind the shelving…" | ✓ Grammatical. "so that" still carries Felix's care. "He kept it" now has one referent, the sherd in the sentence before. No new double: "kept it" is 2, in different paragraphs (l.60, l.84), as cycle 3 ruled. |
+| X4 | l.64 | "At midwinter there had been a split eyebrow, and Felix said the dun had thrown her head." | ✓ The insert is a single sentence and closes on Felix's lie, an action. It is triggered by the empty corner and returns to the scene at l.66. "You knew about the eyebrow," (l.70) carries the doubt, so the lie stands uncommented, as Ch.26 ruled. The eyebrow is clearly Felix's. |
+| X1 | l.80–84 | "…haul him home by the ear." / "He took his name with him," I said. "The sherd." / Valens rolled toward the curtain… | ✓ Mara's line now answers Valens's directly. It reads as her evasion, and the exchange is tighter. The silence after it is left bare ("If he had an answer, he kept it."), as the bible prescribes. No orphaned referent. |
+| X2a | l.240 | "Lucius came to his father's knee and tipped the bowl up for him to see the hare. Valens stooped to it. Painted in brown slip, the hare ran…" | ✓ "it" = the bowl. The hare sentence takes the gaze. |
+| X2b | l.244 | "…went down flat, the bowl kept off the stone by his two arms stretched up as far as they reached, until somebody came." | ✓ "until" reads naturally on the held arms. The duration is kept without the closed frame. "until" is still 3 in the chapter (l.244, l.350, l.362), as ruled. |
+| X7 | l.296–300 | "…Nicanor yelled at me to stamp." / "Did you?" / "The crowd laughed." He shifted his head on the bolster. "After, I had them back." | ✓ Valens answers sideways, and the compliance is shown by its result. This is his register, and it is the best Valens line in the night talk now. "laughed" is still 3 across three laughers (l.30, l.190, l.300), unchanged by the cut. |
+| X11 | l.332 | "…cracked it on the backs of Felix's thighs, then on Rusticus's, and pushed at them with it." | ✓ Clean. "and pushed at them with it" still reads as goading. |
+| X10 | l.344 | "The duumvir sat there in the shade of the canvas, gray-haired, a slave at his side holding a cup. He considered the benches nearest him, and bent toward the man at his elbow." | ✓ "He" resolves to the duumvir, the sentence subject, exactly as before the cut. The single comma before the second predicate is the book's own rhythm and pre-dates the cut. |
+| X8 | l.352–356 | "Beside me the bean woman sat and began gathering up her beans." / "You know that bird?" she said. / "My boy," said Valens. | ✓ Without the gaze line she speaks beside Mara, and Valens answers across her. That is truer to him: he claims the boy before Mara can. Who is asked stays clear. |
+| X5 | l.362 | "Inside it was cool, with a smell of oil and sand dust." | ✓ No triad and no wet stone. "smell" is 3 in the chapter, about three different things (l.94, l.306, l.362). |
+| X3 | l.368 | "His hair was black with sweat and plastered flat, and the beard on his jaw looked darker." | ✓ The comparative now borrows its ground from the sweat in the same sentence. No orphaned "than". The closed ledger regex `\bthan before\b` is clean. |
+| X9 | l.374–376 | "Felix studied the hand on his arm. He looked past Valens's shoulder at the scratched wall." / "When they were all up shouting, I looked for you," | ✓ The look lands on the wall where the palm is, and the line turns to his father by itself. "looked … looked" across the paragraph break was already on the page before the cut and was ruled under §4 (sequential looks). The cut created no new pair. |
+
+**Defects created by the cuts: 0.** No fix script is issued for cycle 4.
+
+**Whole-page reconciliation:** every quoted "on the page" string in the cycle-2 §6 list and cycle-3 §7 corrections was grepped against this file, 79 strings in all. Each occurs exactly once. "in the forum" occurs 3 times, all different speakers and contexts, as ruled. Every CUT string from cycles 0–3 occurs 0 times, 22 strings in all, including "Mine.", "And you?", "and stayed", "than before", "not hard", "wet stone", "Her eyes went", "I stamped", "late cart", "as he kept it" and "believed it".
+
+### 2. Scores (cycle 4, the page at md5 4aca9f90; max +0.5 vs cycle 3)
+| Dimension | Cycle 3 | **Cycle 4** | Evidence / cap |
+|---|---|---|---|
+| Originality | 9.0 | **9.0** | The seated champion (l.334–336); the strap-tying mercy (l.328–330); "A sniff, he tells me. Two hundred sesterces of bear." (l.154) |
+| Theme | 8.5 | **8.5** | Recedes by design. Carried by acts: "I'd be one more pair of feet on that sand. I'll watch." (l.288). Not 9.0: "haul him home by the ear" (l.80) is stated |
+| Characters | 8.5 | **8.5** | The census and the speech-habit counts are unchanged and clean. X7 and X8 sharpen Valens: he answers sideways (l.300) and claims the boy first (l.356). Nameable-rule test passes for every card |
+| Prose & Voice | 8.0 | **8.5** (+0.5) | **X1–X11 confirmed gone.** The page carries no SPENT/CLOSED device: 5d ledger clean, plus the hand sweep of the held-silence and relayed-order classes the ledger cannot see. Stopping sentences: l.10 "…into the noon, and nobody caught it."; l.302 "a fingernail's breadth. The humming stopped. He slept on."; l.334–336 "every soul but one was up. / Valens sat." Ugly sentence l.84 "I slept some and not much and then it was morning." Voice under pressure l.346–350. #11 at 3 (0.46/1k). Not 9.0: the backfill (S2–S3) is measured, not stopping |
+| Pacing | 8.5 | **8.5** | Ledger matched, and the contrast with Ch.27 and Ch.29 holds. X1 tightens the night talk. Not 9.0: the ~4,400-word hold on the bout |
+| Emotion | 9.0 | **9.0** | The anchor is intact (l.334–338). The last line lands with no steered gaze (l.374–376). Body rebel: grit in her palms (l.358) |
+| Immersion | 9.0 | **9.0** | The greaves (l.16, l.182); stantes missi (l.348); "less forty, greaves" (l.142) |
+| **FLOOR** | 8.0 | **8.5** | |
+| **AVERAGE** | 8.64 | **8.71** | (9.0 + 8.5 + 8.5 + 8.5 + 8.5 + 9.0 + 9.0) / 7 |
+
+- **Casual Reader: 9.0.** Unchanged: a boy alone on the sand, a father who will not stand, and a last line that hurts.
+- **CVI-Launch: 9.4** (8.9, plus 0.5 for the anchor). **CVI-Legacy: 6.8.** Divergence 0.9, no alert.
+- **Anti-AI:** 8/20, clean band for commercial fiction. #3 stays at 3 instances (l.22, l.136, l.350) now that the X5 triad is gone. #11 at 3.
+- **Tomorrow Test:** ANCHOR EXISTS, IMAGE: the one seated man in a standing bowl, the boy on his knee. **QUOTE:** "You were sitting down."
+
+### 3. VERDICT: **PASS** (cycle 4)
+- Floor **8.5** ≥ 8.5 ✓
+- Casual **9.0** ≥ 8.5 ✓
+- PACING OK ✓
+- Mechanical gates clean, including 5d ✓
+
+The chapter is final at md5 `4aca9f902c36ea683f80225e7f2e1b8f`. Finalize changes only the l.6 header and the bookkeeping below.
+
+### 4. FINAL consolidated character-bible re-sync list (reconciled against the page at md5 4aca9f90; supersedes the cycle-0/1/2 lists and the cycle-3 corrections)
+All Ch.28 blocks are still **WRITER DRAFT**. Finalize replaces each one from the page. Line numbers below are this file's.
+
+**MARA**
+- "nothing had ever seemed surer" (l.246); "I was standing too." (l.334); "The wax looked honest to me." (l.142).
+- Speech:
+  - "And…" openers 1: "And you let him." (l.78).
+  - Prima is asked "What was your answer?" (l.122).
+  - Statement + dry fragment **2, AT CAP**: "He took his name with him," I said. "The sherd." (l.82); "The girl at the fullery," I said. "Prima." (l.208).
+- Memory, one triggered recall: "At midwinter there had been a split eyebrow, and Felix said the dun had thrown her head." (l.64). It is picked up by "You knew about the eyebrow," (l.70). The lie stands uncommented. The Gloria rice is unlabelled (l.306).
+- Body rebels: grit printed in both palms (l.358); dressed before he is back from the stable (l.246).
+- CUT: "For no reason at all"; "I lay awake" (night before); "new to me"; "And you?"; "a sandal from somewhere low down"; "Nobody in the house had believed it, and no one asked him again."; "Nobody in the house believed it, or asked him again."; "before he had sat"; "before the dun had come to a stop"; "Out in the street a late cart passed, its load chinking, and a dog ran after it till it lost interest."; "as he kept it"; "with a smell of oil, sand dust and wet stone"; "not hard," (the rod); "and the sand" (the duumvir); "Her eyes went across me to Valens and the boy he held."; "and at Valens" (the tunnel); "darker than before"; "I was standing too, without having got up."; "To my eye it was no wax of a man hiding anything."; "nothing in all my time in that town had seemed so sure".
+
+**VALENS**
+- "…ahead of the thraeces, and it's Lupus's boy on the sand." He sat on the bed and started on his boot laces. (l.272)
+- "The women will know me. They don't call heralds. Bring Lucius." (l.276)
+- **"My boy," said Valens.** (l.356), answering the bean woman's "You know that bird?" (l.354). "Mine." is CUT.
+- The Albucius misreading as on the page: "He wants more. He's looked the boy over … The duumvir pays him for the dead." (l.160). "The giver pays more for a corpse…" is CUT.
+- "Wash that." (l.372). "That wants washing." is CUT.
+- First fight (l.296–300): "I couldn't feel my feet," he said. "Walking out to my mark. I looked down to see were they still on me. Nicanor yelled at me to stamp." / "Did you?" / "The crowd laughed." … "After, I had them back." CUT: "Not once,"; "I stamped.".
+- Kirrha: "He's free. I said it at Kirrha, with the Cilician listening." (l.80). "there on the quay" is CUT.
+- At the bowl: "Valens stooped to it." (l.240). "and stayed stooped" is CUT.
+- Add: "The dun's cracked a hoof," … "Lie down." (l.248); stall to stall with the bucket (l.58); the dry knee (l.312); boots 2 (l.272 laces, l.286 "toes to the wall").
+- **Strike** "pays Grata's boy two coppers unasked" (CRIT-002).
+- Counts:
+  - hand/arm on the boy 3 (l.32, l.310, l.338)
+  - seated outside the anchor 3 (l.66, l.240, l.272)
+  - attention elsewhere 3 (l.142, l.312, l.338)
+  - "feet" 4 as the chapter's motif (rest in Ch.29)
+  - "Valens gave the [X]…" 2/2 (l.142, l.312): rest
+
+**FELIX**
+- Oath: "I never tripped on a word of it" (l.170). "Course she did." (l.174). "Because my arms won't hold the board up." (l.194). "…he laughed, with the whole yard watching." (l.190). "I had all that my first day." (l.200).
+- "Robbed me? He gave me what he promised. He never even asked me for a paper." (l.216)
+- "You've not been to the sand since the bear, Nicanor says. Two summers and more. Not even to look. Why's that?" (l.216)
+- "…they'd be chanting Lupus before I was halfway to my mark … and I'd spend the bout hunting the benches for you" (l.224)
+- The after-bout burst as on the page (l.370), ending "…in sheep towns where they can't tell one fighter from another, and no one will cry my name in this town again." / "Somebody threw his sandal at us."
+- The tunnel (l.374): "Felix studied the hand on his arm. He looked past Valens's shoulder at the scratched wall."
+- Beard: "the beard on his jaw looked darker" (l.368).
+- Kit (l.16, l.182): quilting "to the groin"; greaves "from mid-thigh to instep" / "Bronze ones, past the knee."
+- The palm (l.366) ends "…and on the right two fronds, and then nothing." No cause is given. "Its maker had been called out…" is CUT.
+- Counts:
+  - "nobody" 2 (WATCH continues); "never" 2; "everybody" 2; "whole" 2
+  - "cry/cried… name" 2 (l.120 relayed by Prima, l.370): SPENT
+  - Single questions only ("Did she show you?" / "Robbed me?" / "Why's that?" / "You saw him?")
+- CUT: "where nobody can tell one fighter from another"; "darker than before"; "and at Valens"; the cycle-0/1 old strings in the cycle-2 list.
+
+**GRATA**
+- "but my husband's no use on a road." / "He left your stable mucked out, in the dark." / "He swore himself in the forum, the whole oath, and the fuller's girl was the first he told." / "the fuller's girl says he's to be a Thracian, whatever that means to her" / "She lifted Aelia out of the sling and settled her on her own shoulder." (all l.46)
+- "She was rocking Aelia, awake now and staring at her earrings." (l.52)
+- One question: "For you?" (l.56).
+- The morning flood (l.304): "…because the trainer had eaten a bowl of her chickpeas and said the lad would be down inside three passes…"
+- The arrival (l.44): "out to us as the dun came to a stop". No race frame on her.
+- **Strike** "Her boy appears (bare feet, two coppers)".
+- CUT: "hitched Aelia up her shoulder"; "had it from him first and the fountain had it from her by noon"; "had it from the trainer, who'd had…"; "before the dun had come to a stop"; "before he had sat".
+- WATCH: "had it from" rested; "the fuller's girl" 2/2, rested.
+
+**PRIMA**
+- Rhythm: treads at the introduction, then "She stopped treading and stood in the gray water." … "She trod again, harder." (l.106), and nothing else. Do not write it as a rule.
+- Physicality: "hooked the strap out of the dirt by one end, wiped it on her hip and returned it" (l.118); "fished inside her neckline" for the sherd (l.112); "dragged the stained cloth clear" (l.126).
+- Speech:
+  - "Same words he gave the magistrate's man. Twice, so I'd have it right." (l.106)
+  - "I'm to marry the baker's nephew, from the Nola Gate bakery," (l.120)
+  - "They talk of it at the vats. Nine times, and the emperor's own sword." (l.256)
+- In the arena (l.334): palm pressed to her tunic where the sherd lay, mouth closed.
+- "the fountain" as gossip is hers alone in Ch.28. "the vats" 2: rested.
+
+**ALBUCIUS**
+- "Albucius was eating eggs." / "with the shells picked off into a small white pile at his elbow" (l.134); "ate half an egg" (l.146). No dish, no napkin.
+- "I'd have bet on today." / "Sit. There's the bench. You'll not mind if I eat. I've had a bear off its food since the Ides and a slave who swears it's sulking, and I was up with it till the cocks." (l.136)
+- "Nicanor wrote the name in for him." (l.140)
+- "Come back once the games are done, and bring your cloth. A tiro who's been out once and lived, the price comes down on him, and I'll sell him back cheaper than what's in it." (l.146)
+- "Is it eating?" (l.150); "A sniff." / "Lupus, I'll tell you this because Nicanor says you're no fool." (l.154)
+- "he tells me" 2: AT CAP.
+
+**NICANOR**
+- "Forty he's had off him for a pair of greaves that cost the smith thirty-five." / "he'll sell him back after, cheaper than today." (l.230)
+- "He squinted at the lamp I had trimmed." (l.234); "Twice this year." with the rod tap on the lintel (l.238).
+- Through Grata: "he'd pay for them because she wasn't the duumvir" (l.178). Through Felix: "he laughed, with the whole yard watching" (l.190). Through Valens's memory: "Nicanor yelled at me to stamp." (l.296, the order only).
+- Rod once, dry exaggeration once, no "Lupus".
+
+**RUSTICUS:** his wife sells eggs "in the forum" (l.12); "a field somewhere up the Nola road" (l.10); the greave tie (l.328).
+
+**LUCIUS:** add "During the hunt he wet himself, and Valens shifted him to the dry knee." (l.312). Also the threshold fall: "the bowl kept off the stone by his two arms stretched up as far as they reached, until somebody came." (l.244). "and stayed so" is CUT.
+
+**AELIA:** matches the page.
+
+**Walk-ons**
+- Bean woman: "She sells eggs in the forum." (l.12). She asks "You know that bird?" (l.354) with no gaze sentence before it, and chants "at her husband's niece's husband" (l.334).
+- Duumvir (l.344): "gray-haired, a slave at his side holding a cup"; "He considered the benches nearest him, and bent toward the man at his elbow." Strike "his toga very white".
+- The rod man (l.332): "cracked it on the backs of Felix's thighs, then on Rusticus's, and pushed at them with it."
+- The tunnel porter, the Gaul with the net, the slow-eating boy (l.362).
+- **Strike "Grata's boy"** (CRIT-002).
+
+**At-risk after Ch.28: replace the writer-draft block**
+- SPENT:
+  - "My boy." (Valens); "Wash that."
+  - "What was your answer?"; "Course she did."; "Robbed me?"; "chanting Lupus"; "You know that bird?"
+  - the dry knee
+  - "They talk of it at the vats."
+  - "from all sides together"
+  - "the fuller's girl was the first he told"
+  - the sliding groan, bare
+  - the unfinished palm ("and then nothing.", no cause)
+  - the north tunnel "cool, with a smell of oil and sand dust"
+  - Valens's first fight: "stamp" as the order only, answered by "The crowd laughed."
+  - "cry/cried… name" (Felix)
+  - "than before" 2/2 book-wide
+- CUT log: every cycle-0 old string; R1–R4; S1–S5; X1–X11 old strings (as listed under MARA / VALENS / FELIX / LUCIUS above); the rejected drafts "What did you tell him?" and "from above the knee"; the palm's last two sentences.
+- WATCH for Ch.29:
+  - race frame 1 (cap ≤1); narration "somewhere" 2 (cap); "Nobody had [verb]" 1 (l.132, cap); sentence-initial narration "Nobody" 0
+  - Felix "nobody" 2; spoken "Nobody…" openers across three speakers
+  - "right round" rested; "say so" 1 per speaker; "hook" 3
+  - Prima "the vats" 2; "the bowl" for the arena 2 beside the hare bowl
+  - Valens's "feet" 4 and "Bring [the boy…]" (Ch.27/28): rest both
+  - no bend beat; "had gone [colour]" 3 across Ch.27–28; "Valens gave the [X]…" 2/2
+  - "twice" 7; "cool" passages before Ch.30; narrator pointer at 1 (l.114)
+  - "kept it" 2 (l.60, l.84); "laughed" 3
+
+**Project rules to record**
+- V2: a charged one-word line is never re-spoken by another character.
+- L1: an unfinished mark is never given its cause by the narrator.
+- C4: a town metonymy used as gossip belongs to one speaker per chapter.
+- R1: the speech-habit census also counts the speaker's earlier chapters.
+- S1: the cycle-0 census runs the bible's per-chapter lexical caps and WATCH words by hand.
+- X11: "not hard" CLOSED book-wide (narration and speech). It is already in `closed_ledger.tsv`.
+- Evaluator process: the cycle-0 sweep reads the at-risk SPENT/CLOSED constructions in full.
+  - `closed_check.py` (step 5d, commit fb4452f) now mechanises "and stayed", the two-item look, the eyes-arriving beat, the wet-stone smell, "than before" and "not hard,".
+  - **Still unmechanised:** (a) a one-sentence narration paragraph between two quotes whose subject moves (the held-silence-by-motion device, X1); (b) a relayed order followed within ~3 lines by its "I X-ed" compliance (X7).
+  - Also: the ledger's two-item-look regex requires "looked at X, and at Y". It would not have caught X10 ("considered the benches nearest him, and the sand,") or X9 ("looked past … at the wall, and at Valens"). Widen it at the root when next touched.
+
+**ENTITY:** greaves to mid-thigh; quilting to the groin; Prima's source "the vats". No change from the cycle-2 list.
+
+**Header l.6, the exact replacement line:**
+```
+<!-- Word count: shape 6,481 / body 6,482 | Revision: evaluator cycles 0–4 (PASS at cycle 4; continuity repair + C/I/R/S/X fix sets) | Issues addressed: 7 CRIT + 18 WARN + 3 INFO (continuity) + evaluator cycles 0–3 | Date: 2026-10-24 | Dialogue 31% (show/tell 31.3%, band 25-35) | Breaks 4 | Median sentence 11 (gear low) | Opens short-punch ('The crowd roared for the wrong man.'), closes dialogue (Felix: 'You were sitting down.') | Em-dash 0 | And-chains 3 | Echoes 0 | check_chapter.sh 28 ALL MECHANICAL GATES CLEAN (incl. 5d closed ledger) | Anchor: Valens in the top ring, Lucius on his knee, the one man sitting while the whole bowl stands -->
+```
+(Editing l.6 changes the file's md5. The body text stays at the evaluated md5 4aca9f90 apart from that comment line.)
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
