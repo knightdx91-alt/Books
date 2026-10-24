@@ -3855,3 +3855,97 @@ Open contradictions: 33 → 37.
 - **Open count:** 62 → **60** (2 closed, 0 opened).
 - **Not touched:** chapter-27.md, character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
 - **Validation:** `yaml.safe_load` and the strict no-duplicate-key loader both pass. All ch-27 cites fall in p1..p242. All new Ch.27 and Ch.26 quotes were checked verbatim against the page. The contradictions list has 193 rows, 60 UNRESOLVED.
+
+## 2026-10-24: UPDATE (chapter 28, "Felix in the Arena")
+
+- **Page read:** drafted on the post-disruptor page f005575 (md5 1683aa77a50d310255e212867539d770; writer a42f8df, dialogue-polish 22dead7, hook-craft 4c779db one word). The continuity repair **d3b8841 landed mid-run** (7 CRIT / 18 WARN; md5 8c6b954795196e2a69b23370d6b917a5). That is the page as it now stands, so every Ch.28 row was **re-anchored to it**.
+- **Numbering:**
+  - 182 paragraphs, with breaks after p17, p61, p116 and p152. The dateline and the two HTML comments are not counted, so file line 8 = p1.
+  - The repair deleted old p95 ("Felix's mouth came open…"). Old p1–p94 = new p1–p94, and old p96–p183 = new p95–p182 (checked by script).
+- **Not recorded:**
+  - Writer-report and draft lines the passes cut: "From the bowl came a noise new to me since we sat down", "I never stumbled once", "The four went through to the stalls", "quilted from fist to shoulder", "below the quilting", "The giver pays more for a corpse", "Alone in that ring, he had no need to sit down".
+  - Post-disruptor lines the repair cut: Grata's "beasts fed and watered" and her barefoot boy; "by the Nucerian gate" (now "in the forum"); "since the Sarno bridge" (now "since Herculaneum"); "two pairs and a hunt" (now "the hunt and two pairs"); "thrown a shoe" (now "cracked a hoof"); "Was he anything of yours?" (now "You know that bird?"); "That wants washing." (now "Wash that."); "Grata would." (now "Course she did."); "his toga very white"; "without having got up"; "laughed till he had to sit"; "too thin to hold the board up"; "rims of his ears"; "shoulders hunched to his ears"; "watched Albucius's face"; "rubbed soft by his pocket"; "paid Grata"; "in all my time in that town".
+- **The news chain (Ch.21 guard kept):**
+  - Grata in the street before the dun stops (p19) → Prima at the vats the next morning (p44–p61) → "a room behind a wine shop on the Stabiae road" (p62) → "Nicanor brought Felix home at dusk." (p80).
+  - Valens "went nowhere near the barracks or the lanista" (p118); "I'll not come to the yard." (p107). The barracks is only Grata's "The troupe that sleeps at the theaters, with the bald one" (p22).
+  - New `knowledge_index.felix_sworn`. The outline's "found him at the barracks" is logged as CH28-2.
+- **Felix:**
+  - Status and age: "Felix, free, of no town he could name, eighteen, he tells me. Sworn to me for three years." (p66). This fits birth AD 58.
+  - Terms: 400 down "less forty, greaves" (p66–p67); "He never even asked me for a paper." (p104), so felix-no-paper is PAID.
+  - The bar on buying out is commercial: the duumvir bought the pair (p69). Albucius offers to sell him back after the games (p69). Logged as CH28-3 against the world rule.
+  - Armature: THRAEX, not the fish he asked for (p91). Kit (p5): griffin helmet; right arm quilted "from fist almost to the shoulder"; high greaves; curved sword; a "bread board" shield. The left greave strap is tearing (p14) and holds (p157).
+  - The cut is on the upper arm, above the quilting (p164), "at the edge of the quilting" (p180). The page agrees with itself after the dialogue and disruptor passes.
+  - Closing line: "When they were all up shouting, I looked for you," … "You were sitting down." (p182).
+- **NEW characters:**
+  - `albucius` (`lanista-pompeii` renamed, `slug_was` kept), `prima`, `rusticus`, `rusticus-wife` and `bean-woman`.
+  - `pompeii-duumvir-ad76`: NOT NAMED and not tied to Fabius.
+  - `duumvirs-freedman` and `porters-boy` (both needs_review).
+  - Walk-ons: `bakers-nephew-nola-gate`, `pompeii-greave-smith`, `albucius-bear-slave`, `arena-rod-man`, `arena-whip-slaves`, `amphitheatre-tunnel-porter`, `tunnel-fighters-ad76`, `pear-boy` and `arena-crowd-ad76`.
+  - The drafted `gratas-boy` and the `nuceria-gate` location were dropped before the write, because the repair took both off the page.
+- **Updated characters:**
+  - felix, valens, mara-reyes, lucius ("Lix", p9; "He is not two yet", p134), aelia, pomponia-grata, gratas-husband, gloria and ray (the yellow rice, p148).
+  - nicanor: needs_review cleared; role is trainer.
+  - fullers-wife-pompeii: Prima's aunt. Also fuller-pompeii, fullers-twins, arena-herald, barracks-porter and gaius-fabius-rufinus (ch28 notes).
+  - The plan rows for Ch.28 were replaced with page rows, each keeping `plan_was`. Both Mara and Valens learn first from Grata, not as the plan rows had it.
+- **Nicanor:** Albucius's trainer: "Twelve years I've worked for Albucius" (p111); "my trainer stood witness … Nicanor wrote the name in" (p66). He forecasts Felix flat by the third pass and is wrong (p113; p154). **CH21-3 RESOLVED.**
+- **Prima and the sherd:**
+  - Prima is the fuller's wife's niece ("my aunt"; "her aunt's twins", p48).
+  - The sherd: "a flat piece of red pot … rubbed soft. ΦΗΛΙΞ. I had scratched those capitals myself, in Valens's shed below Delphi, the winter we met." (p53). This AGREES with ch-11:p201–p213.
+  - Holder: felix → prima (p52); last mentioned at the bout, at p161.
+- **The bean woman:** Rusticus is her HUSBAND'S niece's husband (p3; p161). "You know that bird?" / "Mine," said Valens. (p171; p172).
+- **The show:**
+  - The duumvir's games: "twenty pairs, a hunt, and awnings" (p40); "We sat through the hunt and two pairs." (p151).
+  - The ending: "sent them both off standing" (p168); nut shells, crusts and a sandal (p169; object `thrown-sandal`).
+  - Date: AD 76, nine days after the return from Puteoli. The month is not named. Timeline row 28 was rewritten and seven timeline_events were added.
+- **Seating:** the top ring holds the women and "the men in dark tunics" (p8). This AGREES with ch-21:p105 ("the law said so").
+- **Valens:**
+  - "Up top. With the women." … "At the top I'm a carter with a child." (p129; p131).
+  - The wetting, then "the dry knee" (p151). "Valens sat. Lucius sat on his knee." (p162). "Mine," (p172). "Wash that." (p180).
+  - His mind-reading: "He wants more … The duumvir pays him for the dead." (p76). Nicanor corrects it: forty for greaves "that cost the smith thirty-five" (p111).
+- **The palm:**
+  - Half-finished above the fighters' bench in the north tunnel. The maker is not named; by reading it is Felix (p176–p177; p181).
+  - New object `tunnel-palm-unfinished` (planted and closed). `felix-palm-branch` and `felixs-palm-graffito` are CLOSED, so the device is spent book-wide.
+- **Other objects:**
+  - NEW: `felixs-thraex-kit`, `felixs-greaves`, `albucius-contract-tablet`, `duumvirs-games-notice` and `household-savings-jar` (chekhov_open: Albucius's buyback offer stands).
+  - `felixs-hare-bowl`: holder felix → lucius ("That's yours.", p108).
+  - `murmillo-bowl-promised`: note only; still open.
+- **Threads:**
+  - `felix-arena` CLOSED as an arc. The later planned beats (Ch.29, 37 and 40) stay on felix.status_log.
+  - NEW `valens-arena-arc`, CLOSED (Ch.28).
+  - `felix-no-paper` PAID.
+  - ch28 rows on lucius-infant, aelia-infant, valens-known and valens-literacy.
+- **World rules:**
+  - Five OBSERVED rows: the oath and the tablet; the editor pays for the dead; the order of a show; the rod, the whips and the standing release; seating.
+  - A `ch28_page` note on the auctoratus rule.
+- **Organizations:** pompeii-gladiator-school: Albucius, Nicanor's twelve years, twenty pairs, the bear. The three-year term (spring 76 to spring 79) agrees with "term served out by Aug 79".
+- **Locations:**
+  - NEW `albucius-room`.
+  - Facts added to pompeii-amphitheater (top ring, tribunal, editor's door, north tunnel and bench), fullery-at-the-corner (the treading yard), pompeii-gladiator-barracks (not on the page), cobblers-shop (Felix's corner), bull-fountain, nola-gate (the bakery) and pompeii-forum (the oath; Rusticus's wife sells eggs there).
+- **Flags:**
+  - **Opened on the post-disruptor page and RESOLVED by the repair:**
+    - CH28-1 (medium): Grata's "beasts fed and watered" while all four mules were at Puteoli (ch-27:p15). The page now reads "He left your stable mucked out, in the dark." (p19).
+    - CH28-6 (info): Grata's barefoot boy against Secundus. The boy is cut.
+  - **NEW and open (all info):**
+    - CH28-2: outline beat 2 "found him at the barracks", the "girl at the fuller's" and the palm "under the seats" against the page.
+    - CH28-3: the auctoratus world rule (law) against the page's commercial bar.
+    - CH28-4: "of no town he could name" against origin "Side". Compatible.
+    - CH28-5: Nicanor's twelve years with Albucius (from c. AD 64) against training Valens at Corinth from c. AD 61–62. Reconcilable.
+  - **RESOLVED:** CH21-3.
+  - **Rechecked:** CH20-6. The forward constraint holds (no tomb, Kalends or gate in Ch.28); still open.
+  - **Checked, no flag:**
+    - "cracked a hoof" agrees with the barefoot rule.
+    - The four mules agree.
+    - "Two summers and more" since the bear (Dec AD 73) agrees.
+    - Felix's "can't read" holds: he watches the letters go in and knows his own by heart. Valens "gave the writing no glance at all" (p67).
+  - **CRITICAL:** none. **knowledge_gap:** none.
+- **meta:** header note, `last_updated_by`, `mode`, `source` (Ch.1–28; the outline now covers Ch.29–44), `last_updated_chapter: 28`, `chapters_tracked` +28, the Ch.28 clause in `paragraph_rule`, and `ch28_requested_checks`.
+- **Not touched:** chapter-28.md (md5 8c6b9547…), character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - All 741 ch-28 cites fall in p1..p182.
+  - Every single-quoted fragment of 3+ words on the added lines was checked by script against the repaired page. The only misses are other-chapter, outline or foundation quotes, and post-disruptor or draft wording that sits labelled as CUT.
+  - Every page quote of 4+ words is anchored to a cited paragraph on its line (3 gaps found and fixed).
+  - The file holds 400 characters, 126 locations, 194 objects, 24 organizations, 74 plot threads, 135 world rules, 265 timeline_events and 199 contradiction rows.
+  - **63 open** (60 before; +4 CH28-2..5, −1 CH21-3; CH28-1 and CH28-6 opened and closed in this run).
+
+---

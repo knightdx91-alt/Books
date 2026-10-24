@@ -909,7 +909,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Opening strategy:** mid-action. The crowd's roar as a short line (≤8 words).
 **Key scenes/beats:**
 1. The bout begins, a thraex against a murmillo.
-2. **Backfill.** Felix vanished. Valens found him at the barracks, sworn by oath as a free man for a term (*auctoratus*), which cannot be bought out before his first fight. Felix's pride. A girl at the fuller's he wants to impress.
+2. **Backfill.** Felix vanished. (As written: the news comes by Grata, Prima at the vats and Albucius's room behind a wine shop; Nicanor brings Felix home; nobody goes to the barracks — the Ch.21 route is spent.) He is sworn by oath as a free man for a term (*auctoratus*), which cannot be bought out before his first fight. Felix's pride. A girl at the fuller's he wants to impress.
 3. **NON-NEGOTIABLE.** Valens's decision to *watch* rather than intervene, since he can't save him by fighting.
 4. **NON-NEGOTIABLE.** The bout: clumsy, cautious, short. Both are sent off standing. The crowd jeers. Felix is alive.
 5. Felix's spoken line to Valens afterward ends the chapter.
