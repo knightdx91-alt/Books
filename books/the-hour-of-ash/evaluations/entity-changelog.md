@@ -4049,3 +4049,73 @@ Open contradictions: 33 → 37.
   - **63 open** (unchanged).
 
 ---
+
+## 2026-10-24: UPDATE (chapter 29, "Saturnalia")
+
+- **Page read:** I drafted this on the post-disruptor page ab0d307 (md5 77e94134ff3dcb6a9e3b0cd0e78d5728; writer 0909769, dialogue-polish c37ebda, hook-craft 5019704). The continuity repair **dbc3425 landed mid-run** (evaluations/continuity/chapter-29-audit.md: 3 CRIT / 16 WARN / 8 INFO applied). Every row is re-anchored to the page as it now stands, md5 7baedf32c75b5d6d488b8649669e1f16. The chapter has not been evaluated yet.
+- **Numbering:**
+  - 292 paragraphs, with breaks after p68, p131 and p247. The '# Chapter' heading, the '####' dateline and the two HTML comments are not counted, so file line 8 = p1. The file-line formulas are 2p+6, 2p+8, 2p+10 and 2p+12 for the four sections.
+  - The repair added and cut no paragraph, so old pN = new pN (checked by script). It changed text inside 35 paragraphs: p2, p3, p21, p37, p63, p71, p72, p75, p78, p80, p83, p140, p152, p155, p162, p164, p181, p187, p189, p190, p196, p201, p220, p222, p225, p230, p237, p240, p241, p248, p250, p251, p252, p277 and p291. All of them are re-quoted.
+- **Not recorded as page facts** (wording the repair cut; it appears in the YAML only where marked CUT): the Mummers and "New Year's Day on Broad Street" (now the Gimbels Thanksgiving parade, p71–p72); "the bow he kept for Valens" (now "Fenn bowed to him.", p78); "When it finished, I hadn't fallen down" (now "There was a Gaul. I beat him.", p222); "live to a great age" (now "You have a son, madam … and a husband, and more lentils than any woman in Campania.", p250); "and the felt cap beneath" (p277); "Felix's mouth fell open."; "I gave Fenn the jug." (now "I set down the jug.", p240); "What's the Greek for an umpire?" (now "For the umpire he settled on *brabeus*", p189); "In all our time on that street" (p3); "no one carted that week" (p37); "Sit. You've been bought." (now "Not you. …", p152); "That's the best law anybody ever made." (now "Somebody write that one on a wall.", p63); "Could you get my face on one?" (now "Get my face on one.", p201); "For a breath Felix was away" (p230). Draft lines that are quoted only in character-bible.md are logged as CH29-6.
+- **Timeline:**
+  - The dateline is Pompeii · December, AD 76 (CONFIRMS the outline).
+  - The chapter covers three festival days in order: the opening morning (the caps; Cerdo asked for "The night after tomorrow"); the next day (the forum figures; Felix home at lamp-lighting on ten days' leave; the Venus throw); and the feast day (Fenn at breakfast; the stage at the ninth hour; the table at lamp-lighting; the second firing).
+  - All three day-statements agree that the feast is on the third festival day. If the festival opened on the 17th, that is about 19 December (derived; no date is printed).
+  - "our fifth in that street" AGREES with the spring AD 72 arrival.
+  - Timeline row 29 is replaced (plan_was kept) and 10 timeline_events are added, including Fenn's 1 October 1950, the Cleveland death "before my day", Abbott and Costello at the Earle, "since Eisenhower", Mara's night at the Vet, and the Corinth Saturnalia pig.
+- **NEW characters (15):**
+  - `cerdo` (supporting; named p4 in Grata's mouth; enslaved oven-man of the bakery opposite) and `baker-opposite`, his master (unnamed). This is the Ch.19 "baker opposite" whose oven draws badly; Cerdo's bent flue AGREES with ch-19:p130.
+  - `bakery-boy-ad76` (needs_review: possibly `pompeii-bakers-boy`).
+  - Walk-ons: `fountain-girl-and-mistress`, `taper-widow`, `pompeii-figure-seller` (not the Delphi one), `gods-a-copper-crier`, `aediles-attendant`, `fountain-dicers`, `walnut-boys`, `fullers-lads` (needs_review: "the fuller's boy"), `mime-troupe-ad76` and `stage-crowd-ad76`.
+  - Mentioned only: `gratas-former-slave-girl` and `pompeii-aedile-ad76`.
+  - The fish-sauce carter is a ch29 note on `letter-carter` and `fish-sauce-carter`. They are not merged.
+- **Updated characters:**
+  - mara-reyes: the planned singing trait CONFIRMED (agrees with ch-08:p207); traits for the claim, the cup, Cerdo's invitation and the soot; relationships; location row replaced (plan_was kept); 9 knowledge rows; knowledge_absent_ch29; waypoint.
+  - valens: the mime trait CONFIRMED (p111, p120–p125, p131); the practical questions; "Not you. You've been bought." / "Once."; "There was a Gaul. I beat him.", which AGREES with ch-12:p87; location row replaced; knowledge; waypoint.
+  - august-fenn: traits (the Gimbels parade; "I'm on the wrong everything."; Abbott and Costello; the courtly Greek; his first Latin on the page; the olive-pit lesson; "thirty-five years"; the song); relationships (felix, pomponia-grata, cerdo, and a valens ch29_status); possessions; location row and waypoint replaced; knowledge.
+  - felix: traits (questions in runs; the mock king; the fountain); relationships; status row replaced (plan_was kept); location; knowledge; **knowledge_gap** (CH29-2); a ch29_note on "sheep towns".
+  - pomponia-grata, lucius ("Tata. Ball."; the bread; the planned trait CONFIRMED), aelia (the peg doll), emilio-reyes, margaret-fenn, fenns-mother, fuller-pompeii, albucius and secundus.
+- **Locations:**
+  - NEW: `bakery-opposite`; `saturnalia-street-stage` (needs_review: by reading, the bull-fountain and crossing-baths crossing, but the page names neither).
+  - Facts added to pompeii (the mime plan CONFIRMED; the festival street), pompeii-forum (the eastern colonnade; "the basilica"), cobblers-shop, gratas-thermopolium, fullery-at-the-corner, herculaneum, nuceria, puteoli and philadelphia.
+- **Objects (14 NEW):**
+  - Background: `saturnalia-felt-caps`, `cerdos-stamped-loaf`, `saturnalia-wax-tapers`, `lucius-clay-mule`, `aelias-peg-doll`, `gratas-knucklebone-cup`, `felixs-bay-wreath`, `albucius-leave-tablet`, `felixs-walnut-sack`, `fenns-falernian-jar`, `fenns-saddler-ball`, `cerdos-honey-cakes`, `maras-held-out-cup`.
+  - **`olive-pit-diamond` is chekhov_open:** "the stealing" is promised for "Tomorrow, before he goes" and for the spring at Fenn's stair.
+  - `household-savings-jar` gets a ch29_note: Felix is still Albucius's man in December. It stays open.
+- **Knowledge index:** NEW `saturnalia_cup` (nobody but Mara knows her arm raised the cup; Grata is told "It is the wine") and `baseball_lesson`.
+- **Threads:**
+  - NEW: `fenn-valens-friendship` (open) and `maras-saturnalia-shame` (open; the page names no shame and draws no moral).
+  - Beats added to lucius-infant, aelia-infant, fenn-cautionary-mirror and felix-arena (a note).
+  - valens-english-word: HELD (no English from Valens).
+- **World rules:** five OBSERVED rows: the pilleus and open dice; wax for debts and figures as gifts; the Venus king and masters serving; the street mime; Grata's girl's cap and cup.
+- **Organizations:**
+  - NEW: `brooklyn-dodgers` and `pompeii-aediles`.
+  - Facts added to pompeii-gladiator-school (the ten days' leave; Albucius serving; the bear alive) and philadelphia-phillies (1950).
+- **Requested checks** (full results are in `meta.ch29_requested_checks`):
+  - **Lucius "Tata": AGREES.** It is the first "Tata" (and the first word for his father) on any page, as the bible plans. It is **not** his first word: Ch.27 has Smoke, Duck, Bone and Again; Ch.28 has Lix. No earlier chapter contradicts it.
+  - **Felix's law vs his status: AGREES.** He was bought on the Kirrha quay (ch-11:p220), and the page makes his forgetting it the joke ("Then you will be among the waited-on"). Valens's "Once." agrees with ch-22:p95–p107.
+  - **Fenn's 1950 story: AGREES** with his birth in August 1934 (sixteen on 1 October 1950). It leaves the 1964 canon untouched (Girard Avenue; Callison at Twenty-first and Lehigh, i.e. Connie Mack; Richie Allen). Plan note CH29-5.
+  - **"no one carted that week": FLAGGED** as CH29-1, then **RESOLVED by the repair** (p37 now reads "since no wood came round by cart that week").
+  - **Fenn's home and travel: AGREES.** Puteoli, his stair (ch-25:p12), and the fish-sauce carter's route (ch-26:p12).
+  - **Felix's ten days' leave vs the oath: AGREES.** The oath is three years and sets no leave rule.
+  - **Ages: AGREES.** None is printed. Derived: Lucius about 2 years 4–6 months; Aelia about 11–12 months (she may be just past one).
+- **Flags:**
+  - **Opened on the post-disruptor page and RESOLVED by the repair:** CH29-1 (low).
+  - **NEW and open:**
+    - CH29-2 (low, knowledge_gap): Felix's "that's the Chaldean when he comes" (p61) has no telling on the page. The audit's I-11 calls his knowledge of who the Chaldean is plausible.
+    - CH29-3 (info): "In the straw, where else" (p52; p278) against his blanket in the shop (ch-20:p16; ch-28:p26).
+    - CH29-4 (info): "My father had taken me once" (p241) against ch-25:p68 "Sometimes".
+    - CH29-5 (info): the 1950 pennant where foundation §3 plans the 1964 Phillies for this chapter.
+    - CH29-6 (info): character-bible.md's Ch.29 blocks quote draft wording (= audit I-13).
+  - **Rechecked:** CH20-6 holds. The forward window Ch.21–29 closes clean; the flag stays open. CH28-2..5 are untouched.
+  - **CRITICAL:** none.
+- **meta:** header log block, `last_updated_by`, `mode`, `source` (Ch.1–29; the outline now covers Ch.30–44), `last_updated_chapter: 29`, `chapters_tracked` +29, the Ch.29 clause in `paragraph_rule`, and `ch29_requested_checks`.
+- **Not touched:** chapter-29.md, character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and a strict no-duplicate-key loader both pass.
+  - All 893 ch-29 cites fall in p1..p292.
+  - Every single-quoted fragment of 4+ words on the added lines was checked by script against the repaired page. The only misses are other-chapter, outline or foundation quotes, and post-disruptor wording that sits labelled as CUT. Every page quote is anchored to a cited paragraph on its line (3 gaps found and fixed, including one line-for-paragraph slip, p78 → p36).
+  - The file holds 415 characters, 128 locations, 208 objects, 26 organizations, 76 plot threads, 140 world rules, 275 timeline_events and 205 contradiction rows.
+  - **68 open** (63 before; +5 for CH29-2..6; CH29-1 opened and closed in this run).
+
+---
