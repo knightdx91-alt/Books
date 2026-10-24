@@ -10,3 +10,7 @@
 \bthan before\b	28	"than before" 2/2 book-wide, SPENT
 \bnot hard,	28	"not hard," after a blow CLOSED book-wide (narration and speech)
 \bVesuvius\b	0	the mountain is never named on the page (AUTHOR-CP5-1)
+\b(?:looked|watched|studied|glanced|stared|peered|gazed) (?:up|down|over|across|past|round|around|back|along|out)\b[^.!?"]{0,40} at [^.!?"]{1,60}, and at (?!once\b|last\b|least\b|first\b|times\b|length\b|night\b|dawn\b|dusk\b|noon\b|home\b|the same\b|the end\b|that\b|this\b)	25	two-item look widened: "looked past X at Y, and at Z" (Ch.28 X9; CLOSED since the Ch.25 audit)
+\b(?:glanced|stared|peered|gazed) at [^.!?"]{1,60}, and at (?!once\b|last\b|least\b|first\b|times\b|length\b|night\b|dawn\b|dusk\b|noon\b|home\b|the same\b|the end\b|that\b|this\b)	25	two-item look widened: glanced/stared/peered/gazed "at X, and at Y" (CLOSED since the Ch.25 audit)
+\b(?:considered|studied|watched|eyed|regarded|surveyed|inspected)\s+(?:the|his|her|their|my|its|our)\s[^.!?",;]{1,40},\s+and\s+(?:(?:the|his|her|their|my|its|our)\s(?:\w+\'?s?\s){0,2}\w+|mine|me|him|her|them|us)\s*[,.]	25	two-item look, direct objects: "considered X, and the Y," (Ch.28 X10; Ch.25 CRIT-004 "watched X, and mine")
+\b(?:told|yelled at|shouted at|bid|bade|ordered|called to)\s+me\s+to\s+([a-z]+?)(?:e)?\b[^\n]{0,400}?\bI\s+\1(?:e?d|ped|ted|ged|ned|med)\b	9	relayed order echoed as obeyed, SAME PARAGRAPH, regular verbs only (SPENT since Ch.9; X7 cross-paragraph shape still by hand)
