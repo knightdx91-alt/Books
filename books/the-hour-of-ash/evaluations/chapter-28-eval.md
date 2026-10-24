@@ -848,3 +848,170 @@ The bible's Ch.28 blocks are all still **WRITER DRAFT**. Finalize replaces each 
 - Apply `apply_fixes_c2.py` and confirm md5 `5b980701f4000d3f2c7ce7d7744f4393`. Re-run `check_chapter.sh 28` and `--echoes 28`, then run cycle 3 as a confirmation pass.
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Cycle 3
+**Evaluator:** book-evaluator (independent) | **Date:** 2026-10-24 | **Text:** `manuscript/chapters/chapter-28.md` md5 **`5b980701f4000d3f2c7ce7d7744f4393`**. That is exactly the tested cycle-2 result, so `apply_fixes_c2.py` was applied verbatim (commit 12765d7). Line numbers below are for this file.
+
+**Measured on the real file:**
+- `bash tools/check_chapter.sh 28`: **ALL MECHANICAL GATES CLEAN** (style with foreshadow 0, grammar, rhythm with the same one advisory paragraph, show/tell, voice-wear strict, tic gate with gestures, metaphor, **SHAPE CLEAN**).
+- `--echoes 28`: **0** echoes, 0 command echoes, 0 spoken-line echoes.
+- Body 6,548 (shape) / 6,549 (metaphor table); dialogue 31%; `short-punch` → `dialogue`.
+
+### Verdict: **POLISH** (cycle 3). Floor **8.0** (Prose, corrected).
+- Casual 9.0 ✓. Pacing OK ✓. Gates clean ✓.
+- **S1–S5 are confirmed on the page, and Characters reaches 8.5.**
+- **The final bible sweep the brief asked for found eleven items that cycles 0–2 missed.** All were on the page from cycle 0; one (X4) sits in the string my own S2 wrote. Ten of them are SPENT or CLOSED **devices** from the at-risk list, not numeric caps: a held silence filled by traffic, "and stayed" ×2, the two-item look ×2, a relayed command echo, a gaze-arrival, a spent smell, a third "than before", a third narrated "not hard", and a memory paragraph that closes on a "Nobody…" verdict.
+- Cycles 1–2 scored Prose 8.5 with these on the page. That was an overscore. The book has held Prose at 8.0 for exactly this class: Ch.14 (SPENT frames), Ch.20 (R1, the same held-silence-by-traffic device) and Ch.25 (the two-item look and command echoes were continuity CRITs). **Prose is corrected to 8.0** under the V3.4 correction clause (well over 3 cited items, below).
+- The fix is **12 cuts and no new words** (`apply_fixes_c3.py`, tested). **Projected after it: Floor 8.5 / Average 8.71 → PASS at cycle 4**, which is a confirmation pass only.
+
+### 1. The five lines cycle 2 asked to re-read, in context
+| Line | On the page | Ruling |
+|---|---|---|
+| l.44 | "Grata was round her marble and out to us as the dun came to a stop." | ✓ No race frame. Her speed is still implied (she is already there). |
+| l.64 | "At midwinter there had been a split eyebrow, and Felix said the dun had thrown her head. Nobody in the house believed it, or asked him again." | ✓ for S2's purpose ("Nobody had" frame 1, pair 0). **But see X4:** the second sentence is a SPENT memory close and restores Ch.26's cut verdict. My S2 string, my miss. |
+| l.180 | "I heard her start on him: he was the trainer, she could tell a trainer…" | ✓ The colon takes the reported flood cleanly. |
+| l.352 | "…nut shells, crusts, a sandal that tumbled end over end and dropped on the sand between them." | ✓ Narration "somewhere" is 2 (l.10, l.30). |
+| l.372 | "…in sheep towns where they can't tell one fighter from another, and no one will cry my name in this town again." | ✓ Felix's "nobody" is 2 (l.188, l.214). The "nobody…, and no one…" pair is gone. |
+
+### 2. Scope of the final sweep (so cycle 4 has nothing left to find)
+Run against md5 5b980701, by hand and by script (`scratchpad/fixes28/capcount.py`, `ngrams.py`):
+1. **Every numeric per-chapter cap in `character-bible.md`.** That is all 171 lines carrying "≤ / cap / per chapter / max", plus every WATCH, for every card on the page (Mara, Valens, Felix, Grata, Lucius, Aelia, Prima, Albucius, Nicanor, Rusticus, the walk-ons) and the narration.
+2. **Every SPENT / CLOSED construction in the at-risk blocks, Ch.1 through Ch.27,** read in full and checked against the page. This is the class cycles 0–2 did not run.
+3. **Every quoted bible string of 4+ words grepped against the page.** Result: every hit is a Ch.28 card quote. No CUT string from any chapter is restored.
+4. **Every content 3-gram repeated inside the chapter**, judged.
+
+### 3. New findings (all present since cycle 0)
+| ID | Location | Problem type | What happens now | Why it fails | Revision direction (exact, in script) | Project rule? |
+|---|---|---|---|---|---|---|
+| X1 | l.82 | Style (SPENT device, zero tolerance) | "Out in the street a late cart passed, its load chinking, and a dog ran after it till it lost interest." It sits between Valens's "haul him home by the ear" and Mara's "He took his name with him." | Bible: "Measuring a held silence by something moving: SPENT … **0 more anywhere.** A held silence is left bare, or ended by speech". Restated after Ch.19 and Ch.20; Ch.20's R1 cut the same carts. The dog in a silence is also kin of the SPENT "dog barking once into a silence". | Cut the paragraph. Mara's line follows Valens's directly. | No (rule exists) |
+| X2a | l.242 | Style (CLOSED construction) | "Valens stooped to it and stayed stooped." | Bible: '"and stayed": 2 in Ch.15, **CLOSED for the book**.' This is the exact Ch.15 shape ("slow, and stayed slow"). | "Valens stooped to it." The hare carries the gaze. | No |
+| X2b | l.246 | Style (CLOSED construction; in-chapter double) | "…stretched up as far as they reached, and stayed so until somebody came." | A second "and stayed", about 80 words after X2a. | "…stretched up as far as they reached, until somebody came." | No |
+| X3 | l.370 | Style (book-wide WATCH, NO TICS) | "the beard on his jaw looked darker than before." | Bible: '"than before" 2 (Ch.25 l.218, l.382)'. A third use puts the phrase at 3 book-wide. | "…looked darker." | No |
+| X4 | l.64 | Style (SPENT memory close) / Continuity (Ch.26 CUT restored as verdict) | "Nobody in the house believed it, or asked him again." | (a) A memory paragraph closing on collective not-knowing is SPENT (Ch.6's "Nobody in the building ever learned his name."), and "a memory insert ends on an action or an object". (b) Ch.26 cut the narrator's verdict on this same lie ("The dun had never thrown her head at anybody in her life, and he knew I knew it." CUT, "the lie stands uncommented"). Supersedes my S2 string. | End the paragraph at "…Felix said the dun had thrown her head." Mara's "You knew about the eyebrow," (l.70) now carries the doubt. Sentence-initial narration "Nobody" goes to 0. | No |
+| X5 | l.364 | Style (SPENT image) / #3 | "Inside it was cool, with a smell of oil, sand dust and wet stone." | Bible at-risk after Ch.5: '"smelled of wet stone" … spent at its earlier use' (Ch.3 l.105, the cave: "It carried a smell of wet stone"). In a cool passage it also rebuilds the Ch.3 cave pairing. It is a #3 triad as well. | "Inside it was cool, with a smell of oil and sand dust." | No |
+| X6 | l.60 | Style (in-paragraph double) | "upside down, as he kept it, so that no dust…" / "He kept it in a crack…" | "kept it" twice in three sentences, about two different objects; l.86 "he kept it" makes 3 in 26 lines. | Cut ", as he kept it". The "so that" care detail stays (it pays off at "Keep your fingers off where the hare is."). | No |
+| X7 | l.298–302 | Style (SPENT device) | "Nicanor yelled at me to stamp." / "Did you?" / "I stamped. The crowd laughed." | The command echoed as compliance is SPENT at 3 book-wide since Ch.9, and "**a relayed order counts**" (Ch.20 entry). The gate cannot see it because "Did you?" sits between the order and the echo. | "The crowd laughed." This shows compliance by its result, as the bible prescribes. Valens answers sideways, in his register. | No |
+| X8 | l.354 | Style (SPENT frame) | "Her eyes went across me to Valens and the boy he held." | Gaze-arrival ("Then-her-eyes-went/came…") is SPENT, restated after Ch.19, whose cut string was "Then her eyes went past the girl to us". It is the same skeleton without the "Then". | Cut the sentence. Valens answering "My boy," shows whom she asked. | No |
+| X9 | l.376 | Style (CLOSED device) | "He looked past Valens's shoulder at the scratched wall, and at Valens." | Two-item looked-at-X-and-at-Y form: "CLOSED … No further use anywhere". The precedent is Ch.25 CRIT-004, which cut "looked at the plant for some while, and at Valens". | "He looked past Valens's shoulder at the scratched wall." The last line turns to his father by itself. | No |
+| X10 | l.346 | Style (CLOSED device, look verb) | "He considered the benches nearest him, and the sand, and bent toward…" | The same two-item form with "considered". Ch.25 CRIT-004 also cut "watched the Chaldean's mouth…, and mine". | "He considered the benches nearest him, and bent toward…". The duumvir reads his voters. | No |
+| X11 | l.334 | Style (narrator tic forming) | "cracked it on the backs of Felix's thighs, not hard, then on Rusticus's" | "[blow], not hard," is the narrator's third use (Ch.5 l.31 the kick; Ch.21 l.30 the cuff). Ch.27's spoken "Not hard" ×3 makes 6 book-wide. Bible SPENT: '"not hard," for a grip (Ch.5)'. | Cut " not hard,". "and pushed at them with it" already says goading, not punishing. | **Yes:** "not hard" CLOSED book-wide (narration and speech) |
+
+**Why Prose and not Characters:** X1–X11 are narration devices and lexis. None is a speech habit, a narrated-state count or a census row. **Why it holds the floor:** ten of the eleven are zero-tolerance SPENT/CLOSED entries, the class the book has always scored as law (Ch.14, Ch.20, Ch.25), not over-by-one hygiene like cycle 2's S2–S5.
+
+### 4. Class rulings (checked, not changed; recorded so cycle 4 does not re-argue them)
+- **Bend/stoop, bible "cap 2 per chapter" (written after Ch.10).** Since Ch.20 the evaluations measure this class with the gate's gesture regex (Ch.22 "bend 1"), and the gate counts Ch.28 at 1. Cycle 0 ruled the class OK. By hand there are 4 across 4 people (Prima l.112, Valens l.242, Rusticus l.330 (the plot event), the duumvir l.346), none clustered. **Not re-opened.** WATCH for Ch.29: no bend beat.
+- **Narrator call-out pointers (proposed cap ≤1).** l.114 "I had scratched those capitals myself, in Valens's shed below Delphi, the winter we met." is one pointer, at the proposed cap. It gives provenance the scene needs: Felix "told me it, letter by letter" lands only if Mara made the letters (Ch.11 l.434 agrees). l.16 ("I had seen thraeces on that sand before") and l.248 ("I had heard the benches roar that name") are her knowledge at work in the scene, not a rhyme being announced.
+- **"Twice this year."** (Nicanor, l.240) is not the CLOSED bare "Twice." reply. It carries a qualifier and new information. Cycle 0 kept it as a strength. "twice" is 7 in the chapter across five speakers and the narration (l.10 ×2, Prima 2, Felix 1, Mara relaying 1, Nicanor 1): WATCH.
+- **"had gone blue"** (l.44) is not the CLOSED "had gone (quiet|still)". Colour changes are routine on finalized pages (Ch.27 l.200, l.306). WATCH: "had gone [colour]" 3 across Ch.27–28.
+- **"The man with the (long) rod"** ×3 (l.28, l.334, l.346) is under the 6+ name-him rule. l.28 and l.334 mirror on purpose: he steps back to start the bout and steps in to break the stall.
+- **"Valens gave the [X]…"** ×2 (l.144 "no glance at all", l.314 "more of his attention than the sand"): the census row (attention elsewhere, 3) was ruled at cycle 0. WATCH: the skeleton is now 2/2 in Ch.28; rest it.
+- **In-chapter 3-grams judged as design or texture:** "the herald cried … the benches answered" (l.10 / l.316, the S4 hinge); "a man below us" (l.30 / l.326, the S1 / S5 rhyme); "the noise came" (l.332 / l.352, two constructions); "the door below the editor's box" ×2 (role-label landmark at its ≤2 cap).
+- **Sequential looks in separate sentences** (l.376 "studied the hand on his arm. He looked past … at the scratched wall") are not the item-by-item form once X9 is applied. Each look has its own function: the touch, then the palm.
+- **Other caps passed:**
+  - "said to the [non-listener]" / group-address tag 1 (l.12 "to the bench at large")
+  - "the way [a/the]" 2 in narration; "the size of a" 1; `to the (joint)` 1 (l.16 "almost to the shoulder"; cycle 2 said 0)
+  - "so that" 2; "until" 3; "considered" 2 (deliberation pauses ≤3); "slowly" 2 (narration; Fenn's cap is his)
+  - Grata "men" 1 (l.306 "grown men leave a show"); Grata social touches 0
+  - Nicanor's rod once, his dry exaggeration once, no "Lupus"
+  - "palm" 3 (one is the graffito); "fist" 3, Lucius's 0; "patch" 2
+  - "every" 12 (1.8/1k, against Ch.26's WATCH at 3.7/1k); "whole" 7 with Felix at 2
+  - "the bowl" for the arena 2; "the vats" as Prima's gossip source 1; body-part rulers 2
+  - paragraph-final negations 6 → 5 after X4 (0.77/1k)
+- **"cool" for the tunnel** (l.364): a live door is the book's cool thing (Ch.27 canon). An arena passage is plausibly cool and no door is implied. WATCH: no other "cool" passage before Ch.30.
+- **"whoever had made it"** (l.36) was ruled at cycle 1. Not re-opened.
+
+### 5. Scores (cycle 3, the page at md5 5b980701; max +0.5 up; correction clause applied down)
+| Dimension | Cycle 2 | **Cycle 3** | Evidence / cap |
+|---|---|---|---|
+| Originality | 9.0 | **9.0** | The seated champion (l.336–338); the strap-tying mercy (l.330–332); "A sniff, he tells me. Two hundred sesterces of bear." (l.156) |
+| Theme | 8.5 | **8.5** | Recedes by design; carried by acts ("I'd be one more pair of feet on that sand. I'll watch.", l.290). Not 9.0: "haul him home by the ear" (l.80) is stated outright |
+| Characters | 8.0 | **8.5** (+0.5) | S1 confirmed: Felix's "nobody" 2. The census is clean and no speech habit is over 2 (Felix's doubled phrases 2, l.196 and l.222; Albucius's "he tells me" 2; Prima's "never" 2). The spoken reuses are gone. Nameable-rule test passes for every card. No X item is a character item |
+| Prose & Voice | 8.5 | **8.0** (corrected −0.5) | Stopping sentences stand: l.10 "…and nobody caught it."; l.304, the bowl nudged "a fingernail's breadth"; l.336–338. Ugly sentence l.86. **Held by X1, X2a/b, X7, X8, X9, X10** (zero-tolerance SPENT/CLOSED devices) **and X3, X4, X5, X11**. Cycles 1–2 scored past them |
+| Pacing | 8.5 | **8.5** | Unchanged. The ledger row is matched; S5 runs strap → sandal at speed; the contrast with Ch.27 and Ch.29 holds. X1 removes a beat inside the night talk, which tightens it |
+| Emotion | 9.0 | **9.0** | The anchor is untouched (l.336–340). X9 lets "You were sitting down." arrive without his eyes being steered back to his father first |
+| Immersion | 9.0 | **9.0** | The greaves (l.16, l.184); the stantes missi (l.350); "less forty, greaves" (l.144) |
+| **FLOOR** | 8.0 | **8.0** | Prose |
+| **AVERAGE** | 8.64 | **8.64** | (9.0+8.5+8.5+8.0+8.5+9.0+9.0)/7 |
+
+**Casual Reader: 9.0.** Unchanged; no X item is visible to a casual reader. **CVI-Launch 9.4** (8.9, plus 0.5 for the anchor). **CVI-Legacy 6.8**. **Anti-AI:** 8/20, clean band. X5 takes #3 to 3 instances (l.22, l.136, l.352), and #11 stays at 3.
+
+### 6. Fix script (tested)
+`/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes28/apply_fixes_c3.py <chapter-28.md>`. It makes **12 replacements** (X1, X2a, X2b, X3–X11). **All are cuts**, so no new string enters the book.
+- It refuses any input whose md5 is not `5b980701…`.
+- Each replacement must match exactly once, or nothing is written.
+- A re-run aborts safely (tested).
+
+Tested on the scratch copy `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/eval28/books/the-hour-of-ash/` (Ch.1–27 byte-identical to the repo; repo `tools/`):
+- `check_chapter.sh 28`: **ALL MECHANICAL GATES CLEAN**. Tic gate clean, voice-wear strict clean, **SHAPE CLEAN**. The rhythm advisory is the same single paragraph.
+- `--echoes 28`: **0** echoes, 0 command echoes, 0 spoken-line echoes.
+- Body **6,481** (shape) / 6,482 (metaphor table); dialogue **31%** (31.3% show/tell). `short-punch` → `dialogue` unchanged.
+- **Counts after the script:**
+  - "and stayed" 0; "than before" 0 in Ch.28 (book 2/2); narration "somewhere" 2; "Nobody had [verb]" 1 (l.134); sentence-initial narration "Nobody" 0
+  - two-item looks 0; gaze-arrivals 0; command echoes 0; held silences filled by motion 0; narrated "not hard" 0
+  - "kept" in narration 7, with "kept it" ×2 in different paragraphs; race frame 1 (l.354)
+- **Replacement strings checked** (cuts only): each surviving join ("Valens stooped to it.", "until somebody came", "a smell of oil and sand dust", "looked darker.", "The crowd laughed.") occurs nowhere in Ch.1–27 or the voice-bank.
+- The opener, the anchor (l.336–340), the palm, the last line and every cycle-0/1/2 replacement are untouched. The exception is S2's string, which X4 deliberately cuts.
+- Result md5: **`4aca9f902c36ea683f80225e7f2e1b8f`**.
+
+### 7. Character-bible re-sync list: corrections to the cycle-2 list (§6 above), reconciled against the page AFTER `apply_fixes_c3.py` (md5 4aca9f90)
+The cycle-2 list stands, with these changes:
+- **MARA:**
+  - Memory, one triggered recall: "At midwinter there had been a split eyebrow, and Felix said the dun had thrown her head." (l.64), picked up at l.70. Replace cycle 2's quote of l.64.
+  - Add to CUT: "Nobody in the house believed it, or asked him again." (S2's string); "Out in the street a late cart passed, its load chinking, and a dog ran after it till it lost interest."; "as he kept it"; "with a smell of oil, sand dust and wet stone"; "not hard," (the rod); "and the sand" (the duumvir); "Her eyes went across me to Valens and the boy he held."; "and at Valens" (the tunnel); "darker than before".
+- **VALENS:**
+  - First fight: "I couldn't feel my feet," he said. "Walking out to my mark. I looked down to see were they still on me. Nicanor yelled at me to stamp." / "Did you?" / "The crowd laughed." … "After, I had them back." Add "I stamped." to CUT.
+  - At the bowl: "Valens stooped to it." Add "and stayed stooped" to CUT.
+- **FELIX:** the tunnel: "Felix studied the hand on his arm. He looked past Valens's shoulder at the scratched wall." Beard: "looked darker".
+- **LUCIUS:** the threshold fall: "the bowl kept off the stone by his two arms stretched up as far as they reached, until somebody came." Add "and stayed so" to CUT.
+- **Walk-ons:**
+  - Bean woman: "You know that bird?" she said. There is no gaze sentence before it.
+  - Duumvir: "He considered the benches nearest him, and bent toward the man at his elbow."
+  - The rod man: "cracked it on the backs of Felix's thighs, then on Rusticus's".
+- **At-risk after Ch.28:**
+  - SPENT: the north tunnel "cool, with a smell of oil and sand dust"; Valens's first fight now has "stamp" as the order only.
+  - CUT log: add the X1–X11 old strings above.
+  - WATCH for Ch.29:
+    - no bend beat
+    - "had gone [colour]" 3 across Ch.27–28
+    - "Valens gave the [X]…" skeleton 2/2
+    - "twice" 7
+    - "than before" 2/2 book-wide, SPENT
+    - "cool" passages before Ch.30
+    - narrator pointer at 1 (l.114)
+- **Project rules to record:**
+  - X11: "not hard" CLOSED book-wide (narration and speech).
+  - **Evaluator process (extends cycle 2's S1):** the cycle-0 bible sweep reads the at-risk SPENT/CLOSED constructions in full, not only the numeric caps. Ch.28 lost cycle 3 to ten zero-tolerance devices nobody grepped for.
+  - **Gate proposal (UPDATE RULE, root `tools/tic_report.py`):**
+    - `\band stayed\b` (CLOSED)
+    - the two-item look `\b(looked|watched|considered|studied)\b[^.]{0,80}, and (at )?(the |\w+'s )?\w+\.`
+    - a one-sentence narration paragraph between two quotes whose subject moves (cart / dog / shadow / drip)
+    - a relayed order ("told / yelled at / bid [me] to X") followed within 3 lines by "I X-ed"
+- **Header l.6:** body 6,481, dialogue 31%, revision "evaluator cycles 0–3".
+- **ENTITY:** no change from cycle 2's list.
+
+### PATH TO 8.5 (cycle 3)
+- **Prose 8.0 → 8.5 requires:** the page free of SPENT/CLOSED devices.
+  - Apply `apply_fixes_c3.py` (X1–X11, cuts only) and confirm md5 `4aca9f902c36ea683f80225e7f2e1b8f`.
+  - Re-run `check_chapter.sh 28` and `--echoes 28`.
+- **Cycle 4 is a confirmation pass:**
+  1. Confirm the md5.
+  2. Re-read l.60, 64, 80–84, 242–246, 300, 332, 344, 352–354, 362, 368 and 374 in place (post-fix numbering).
+  3. Re-run the gates.
+- The sweep in §2 is exhaustive and its rulings are recorded in §4. Nothing outside X1–X11 is open.
+- **Projected after the script:**
+
+| Dimension | Projected |
+|---|---|
+| Originality | 9.0 |
+| Theme | 8.5 |
+| Characters | 8.5 |
+| Prose | 8.5 |
+| Pacing | 8.5 |
+| Emotion | 9.0 |
+| Immersion | 9.0 |
+
+That gives **Floor 8.5 / Average 8.71**, Casual 9.0 → **PASS**.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
