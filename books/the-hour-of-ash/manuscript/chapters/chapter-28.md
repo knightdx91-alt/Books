@@ -319,7 +319,7 @@ Then the herald cried Rusticus, and the benches answered.
 
 * * *
 
-His second rush hit the red board square, and the board took it. He went in once more, lower, and Rusticus turned the blow aside with the board's edge without any trouble at all, and Felix backed off out of reach with his shield sagging to his belt.
+Felix's second rush hit the red board square, and the board took it. He went in once more, lower, and Rusticus turned the blow aside with the board's edge without any trouble at all, and Felix backed off out of reach with his shield sagging to his belt.
 
 The third pass came and went, and Felix was upright yet.
 
