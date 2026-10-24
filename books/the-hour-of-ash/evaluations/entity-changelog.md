@@ -4257,3 +4257,92 @@ Open contradictions: 33 → 37.
   - **66 open** (64 before; +3 for CH30-1..3; CH30-4 opened and closed; CH20-6 closed).
 
 ---
+
+## 2026-10-24: RE-SYNC (chapter 30, "Tremor", to the FINAL page) and RE-SYNC (chapters 6 and 11, author revision)
+
+### A) Chapter 30, FINAL page
+
+- **Page:** `chapter-30.md` at 8a1d298, md5 `2d8df26b956801632387468ee4219bbe`. The evaluator's cycle-0 fix set (21 swaps: L1–L4, C1, P1–P16, plus the l.6 header) landed after the UPDATE anchored on c555af7 (md5 `8eaf47ac…`). Cycles 1 (4da4085) and 2 (95bb333, PASS) changed no text.
+- **Numbering:** still 87 paragraphs, breaks after p9, p26, p36, p45, p53 and p78. Old pN = new pN, checked by script, so no cite moved. Text changed inside 22 paragraphs: p3, p7, p16, p22, p23, p32, p33, p36, p39, p42, p44, p50, p51, p55, p61, p62, p63, p64, p73, p76, p78 and p85. One sentence moved: the fuller's bench, from p61 to p62. The rows that cite it (`old-men-on-the-fullers-bench`, `fullery-at-the-corner`) now cite p62.
+- **Method:** a script found every single-quoted fragment on a Ch.30 line that is on c555af7 and not on the FINAL page. Greps caught the short cuts and the unquoted paraphrases. Each one was re-quoted to the page with the old wording marked CUT. **History left alone:** the UPDATE header log, meta mode/source/last_updated_by history, paragraph_rule's c555af7 clause, the `ch30_requested_checks` DONE rows, and the CH30-n plan/prose/note fields. The CH30-1 and CH30-3 prose fields are now labelled "REPAIRED PAGE c555af7 (superseded …, history)".
+- **Re-quoted (old wording CUT):**
+  - The door: "Hot from the run, the hand gave me only its own heat at first. I stepped in close, so that my shadow fell across it, and waited for the heat to fade." (p39). CUT: "The paint was warm.", "the two warmths together, mine and the sun's", "the sun's heat to fade from it".
+  - "The paint smelled of dust and lime." (p42). CUT: "and it was warm against my brow from the sun".
+  - "The dust at the door's foot lay undisturbed." (p44). CUT: "No breath moved out of it."
+  - The run: "I went east past them. At the next fountain the women in its queue swung round, jars and all, to watch me by. … Halfway to the gate my sandal strap came loose, and from there on I ran with my toes clawed to keep it on. A man in a cookshop door assured me it was over, nothing to run from." (p32). CUT: "The paving was gritty with fallen plaster under my sandals. Skirt gathered in my hand,", "The women queued at the fountain", "At the crossing", "slapped my ankle at each stride", "shouted after me", "Greek,".
+  - The cover: "a woman going out to her dead. I had not run it before." (p33). CUT: "A woman with flowers got no second look on that road."
+  - "I had told nobody where." (p50). CUT: "Its place I had told nobody."
+  - "His hands hung empty at his sides." (p51). CUT: "the headstall lay by my board at home".
+  - The walk home: "Where we turned for home, a woman had set a honey cake on the shrine's altar under the painted snakes." (p61). CUT: "At the crossing shrine".
+  - "Passing the fountain I had a lie worked out for the women there … I did not need it. On the fuller's bench …" (p62). CUT: "an answer ready".
+  - "She saw us coming." CUT (p63).
+  - Grata: "the wall open to your fire" (p64). CUT: "my wall".
+  - "against the draft." (p73). CUT: "draught, and the wall was plugged from both sides, hers at the top and ours below".
+  - The trade, a girl and then "Last came my adviser from the cookshop door" (p76). CUT: the dyer's wife's sentence.
+  - Others:
+    - "warm and unhurt" (p7; "whole" CUT).
+    - "dangling from one hand" (p16; "his fist" CUT).
+    - "like a zipper parting" (p22; "the way a zipper parts" CUT).
+    - "The dough had taken a fine skin of the dust." (p23).
+    - "Valens in the road went unwritten." (p85; "I left out" CUT).
+- **Entity notes from the eval** (cycle 0 §10, cycle 1, "## Cycle 2" item 10):
+  - **CH30-1 RESOLVED** (L1, P13). The painted leaf is faintly cool with the sun on it. Only her hand is warm, and its heat fades under her shadow. One value is left, and it agrees with ch-19:p168–p178, ch-25:p126, ch-25:p154 and the temperature ladder. A final_page field and a resolution were added, plus resolved_from_conflict. The world rule gets ch30_final.
+  - **CH30-3 RESOLVED** (L2, L3). Out: the fuller's bench → the next fountain east → "Halfway to the gate" → south to the Nuceria Gate. Home is the exact reverse. There is no named crossing, so nothing sits against ch-19:p119 or ch-29:p90.
+  - **Renamed:**
+    - `crossing-shrine` → `nuceria-turning-shrine`, "the shrine at the turning toward the Nuceria road (painted snakes)". needs_review and the CH30-3 review_note are dropped, and a `renamed` field records the old slug.
+    - `crossing-shrine-woman` → `turning-shrine-woman`, so the slug no longer carries the cut wording.
+  - **`fullery-at-the-corner`:** recorded as the shop's **EAST** corner ("The fullery on our corner", ch-28:p43; "I went east past them", ch-30:p32), in a new `corner` field. The bull's-head fountain crossing is the WEST corner. A later chapter must not stage the fullery at the bull's-head crossing.
+  - **`bull-fountain`:** the Ch.30 fact is removed and replaced by a ch30_note: NOT this fountain in Ch.30; this is the west corner.
+  - **NEW location `next-fountain-east`:** "the next fountain east of the shop". Facts: "At the next fountain the women in its queue swung round, jars and all, to watch me by." (p32) / "Passing the fountain I had a lie worked out for the women there …" (p62).
+  - **`fountain-queue-ad77`:** re-quoted from p32 and pointed to next-fountain-east. The canonical name is updated, and the "which fountain" question is settled.
+  - **`dyers-wife-ad77`:** now a CUT marker (status CUT; needs_review closed, since nothing remains to merge with toddlers-father-dyer). **`dyers-wife-lamp`:** CUT marker. **`dyers-shop`:** keeps only the smashed roof tile (p28).
+  - **Stale quotes cleared:**
+    - `cookshop-man-ad77`: "assured me it was over"; he no longer calls her "Greek".
+    - `valens-headstall`: "dangling from one hand" / "He dropped the headstall beside my board" / "His hands hung empty at his sides."
+    - `maras-sandal-strap`: "Halfway to the gate" / "toes clawed".
+    - `hearth-wall-crack`: "like a zipper parting"; "against the draft".
+    - Also mara-reyes (tremor-notes trait, mender's eye, the cover, location row, two knowledge rows, the tremor-notes possession), valens (practical-first trait, door knowledge, the closed knowledge_gap resolution), pomponia-grata (the flood, her room), aelia, CH20-6 recheck_ch30, pompeii street fact, nuceria-gate-tomb, nuceria-road, nuceria-gate, the painted-door object, fenn-notebook beat, dust-hearth-cakes, kalends-flowers, two timeline_events, knowledge_index (door_location ×3), the-where ch30_note, hand-at-threshold, repair-trade, kalends-walks, and world rules (ordinary tremor, ladder, three OBSERVED rows).
+  - **"kitchen":** the outline's word = the hearth corner of the back room (continuity I-25). Recorded on cobblers-shop's back-room fact, on hearth-wall-crack's note, and on mara-reyes's location row 30 (`route_resync`; plan_was kept verbatim). **outline.md is not edited here** (this skill writes only ENTITY_STATE.yaml). The outline patch is the orchestrator's to make.
+- **Flags:** CH30-1 and CH30-3 RESOLVED. CH30-2 rechecked (recheck_final; info, still open). No flag opened.
+
+### B) Chapters 6 and 11, AUTHOR REVISION 2026-10-24 (343144e; Ch.6 adjusted 02ba603; evaluations/author-revisions.md incl. "Independent fit check")
+
+- **Ch.6** (md5 `3f0c58ed8f433371f19a36604663acca`):
+  - **Numbering:** diffed against git 1c2aab1 (md5 `fdba9bb1…`, 340 paragraphs; the YAML's highest cite was p340, which matched). Two paragraphs are inserted after old p121: p122 "Was it on him when he died?" and p123 "The gray had burrs in her mane, worked in close to the skin. I looked at those." So old p1..p121 = new p1..p121 and old p122..p340 = new p124..p342. The breaks are now after p35 and p243. The new HTML comment line is not counted.
+  - **Remap:** a script moved 782 explicit `ch-06:pYY` cites (incl. range ends) and 45 bare Ch.6 refs. Bare refs moved only where the chapter is certain: the CH6-1, CH6-3, CH6-6 and CH6-7 rows; ch6_note/ch6_confirmed fields; kallia's widow ch6_note only; timeline row 6 incl. its shard ranges; mara's location row 6; P5's ch6_note; three knowledge notes. Bare refs on those lines that belong to other chapters (Ch.7 p174, Ch.9 p186, Ch.11 p273, Ch.13 p245, Ch.24 p229) were checked and left. "was ch-06:p172" (history) was left.
+  - **Verification:** a quote check of every explicit Ch.6 cite found 465/1091 single-quoted fragments in the cited paragraphs before (old text, old numbers) and 465/1091 after (new text, new numbers). Same lines, nothing lost.
+  - **Added:**
+    - `valens.knowledge`: UNCONFIRMED that her father is dead. He asks "Was it on him when he died?" and gets no answer (Mara looks at the gray's burrs). method inferred, certainty UNCONFIRMED. **Valens still does NOT know the father is dead.** That keeps ch-06:p329 ("Somebody there wants you back, a father or a husband", the old l.667) and Ch.15's "He'll be wanting it, then." / "He will not," (of the camera, ch-15:p121–p122) consistent.
+    - `knowledge_index.emilio_death_1998`: a valens row, NOT confirmed.
+    - `mara-reyes` trait: the evasion holds under a direct question.
+    - `fathers-seiko-watch` Ch.6 custody: the beat, plus cites p122 and p123.
+    - Valens's mules, the gray: "The gray had burrs in her mane, worked in close to the skin." (p123).
+- **Ch.11** (md5 `afeb841d79b26b1614552215330b9ca4`):
+  - **Numbering:** still 278 paragraphs. Only p46 changed: "It hasn't stopped. In the snow it had nine of its hours between sunup and sundown, and some over. Now it's eleven."
+  - **Re-quoted:** mara's knowledge row, the watch's Ch.11 custody row and relics-watch ch11. The old "It hasn't stopped." is extended, not cut.
+  - **Added:**
+    - `valens.knowledge`: the watch keeps hours that do not stretch with the daylight. "nine … and some over" in the snow, "eleven" now. method discovered (his own count, Ch.6–11).
+    - `knowledge_index.seiko_with_valens`: a valens row (discovered) and a mara-reyes row (told_by:valens; no reaction on the page).
+  - **NEW timeline constraint (timeline row 11, `daylight_constraint`):** Ch.11 falls **mid-February to early March AD 71**, from daylight at Delphi (about 38.5°N, Julian calendar, flat horizon with refraction). I re-computed this independently:
+    - "nine … and some over" fits the Ch.6 snow season: late November about 9.8h; solstice about 9.45h; end of January about 10.15h.
+    - "eleven" fits about 8 Feb–7 Mar: 13 Feb 10.6h; 20 Feb 10.9h; 1 Mar 11.2h. By 27 Mar it is about 12.3h.
+  - **Checked against the existing dating: NO CONFLICT.**
+    - Ch.11's last evening is two days before the 4th of Bysios (ch-11:p278; ch-12:p178). Its day 1 is about ten days before Kirrha. The mean new moon of 18–19 Feb AD 71 (derived) opens Bysios about 19–21 Feb. That puts Ch.11 at about 11–22 Feb, Ch.12 (4 Bysios) at about 22–24 Feb, and Ch.13 (7 Bysios) at about 25–27 Feb.
+    - The following agree with that: the half moon of the seventh setting by midnight (CH14-2 resolution); Boathoos (ch-04:p24) five Delphic months earlier, about 23 Sep–22 Oct AD 70, against "I stepped out into October" (ch-03:p84); Ch.10's "In four months" / "The middle of winter's gone by."; the fig's green tips (ch-11:p92); the almonds "come into flower in the last week" in Ch.9 (ch-09:p128) and "all in full flower now" on the seventh (ch-13:p12).
+    - **Forward:** Bysios must stay the February lunation. If a page ever dates it to the March lunation, "eleven" runs short (about 11.8h) and a flag opens.
+  - **CH12-4** gets recheck_ch11_author. The dating puts Ch.12's "first boats of the year" and Ch.10's Aigion crossings in February, before the world rule's "about … March" reopening. The rule says "about", and these are gulf ferries. Still open, still info, severity unchanged.
+  - **INFO, not a manuscript flag:** two statements in the author-revisions file do not match the page. The author log says almonds are "coming into flower" in Ch.11. The fit check's correction says "no almonds appear anywhere in the manuscript". Neither is so: Ch.11 has none, but ch-09:p128 and ch-13:p12 do. The almonds support the February dating. The fit check also says the watch "running fast does not affect an interval measured from sunup to sundown". The constraint treats the watch's hours as true hours, and that is noted on the row.
+- **meta.revalidation_needed** (chapters "6, 11"): PENDING → RESOLVED, with the action recorded. A new chapter-30 re-sync row is added (RESOLVED).
+
+### meta and validation
+
+- **meta:** two log paragraphs added to the header block; `last_updated_by`, `mode` and `source` prefixed; the paragraph_rule clauses for Ch.30 FINAL, Ch.6 and Ch.11 appended; a `ch30_requested_checks` RE-SYNC row added. `last_updated_chapter` stays 30; `chapters_tracked` is unchanged.
+- **Not touched:** any chapter, character-bible.md (another agent is editing it), outline.md, foundation.md, STATE.yaml. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` passes, and so does a strict no-duplicate-key loader.
+  - Cite ranges: ch-30 cites ≤ p87 (521); ch-06 cites ≤ p342 (1,234); ch-11 cites ≤ p278 (1,259).
+  - Every single-quoted fragment of 15+ characters on a changed Ch.30 line is on the FINAL page or labelled CUT. The only exceptions are other-chapter quotes, history fields and one escaped-quote string.
+  - Counts: 428 characters, 133 locations (+1, next-fountain-east), 217 objects, 26 organizations, 76 plot threads, 144 world rules, 282 timeline_events, 209 contradiction rows.
+- **Open contradictions: 64** (66 before: CH30-1 and CH30-3 resolved; none opened). PENDING rows: 0.
+
+---

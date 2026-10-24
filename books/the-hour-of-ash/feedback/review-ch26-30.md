@@ -156,7 +156,7 @@ Both chapters still pass every gate, and no later chapter gained an echo.
 
 ## Open items
 
-- **Entity tracker:** about 66 open flags, none critical. They are mostly informational: places where the page
+- **Entity tracker:** 64 open flags, none critical. They are mostly informational: places where the page
   words something differently from the outline, or derived dates. Every critical contradiction found in this
   stretch was fixed on the page before the chapter was finalized.
 - **The Phase 5 list** (done after the last chapter, before delivery):

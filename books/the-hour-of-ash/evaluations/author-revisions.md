@@ -81,3 +81,8 @@ After:
 - `bash tools/check_chapter.sh 11`: ALL MECHANICAL GATES CLEAN.
 
 BIAS CHECK: this check was made by the same system that wrote the insertions. The Ch.15 contradiction it found is a mechanical fact on the page. The fit judgements still want the author's ear.
+
+## Correction (entity re-sync, 2026-10-24)
+
+- The fit check's "no almonds anywhere in the manuscript" is wrong: Ch.9 and Ch.13 have them, and they support the February dating of Ch.11.
+- A fast-running watch would inflate a sunup-to-sundown count slightly. ENTITY_STATE treats the watch's hours as true hours, and the line still fits mid-February to early March AD 71 at Delphi.

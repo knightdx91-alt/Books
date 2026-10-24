@@ -958,7 +958,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 **Ledger:** Fragmented (internal shape: *one morning, shaken apart*) · open: flat statement (I) → `I-punch` · end: short punch → `punch` · 2,600 · dialogue 5–15% · theme present · 6 breaks · gear low
 **Dateline:** *Pompeii · AD 77*
 
-**Premise:** A small earthquake cracks the kitchen wall. The family laughs, and Mara runs to the tomb hoping the doors might breathe early.
+**Premise:** A small earthquake cracks the hearth wall (the hearth corner of the back room; the house has no kitchen; as written, the party wall with Grata). The family laughs, and Mara runs to the tomb hoping the doors might breathe early.
 **Function in arc:** The first physical tremor. Her hope for an early door shows, and fails.
 **Emotional anchor:** plaster dust on the bread; the family laughing at a crack in the wall.
 **Emotional surprise:** Mara is *relieved* by the tremor. If the doors "breathe with the earth," this could be an early chance.
