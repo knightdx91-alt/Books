@@ -26,3 +26,8 @@
 \b(?:went|rose|burst) up into the sun\b	22	"into the sun" CUT (Ch.22 W-12; Ch.29 P11a)
 \bcurled up\b	29	"curled up" CLOSED: 3x book-wide in three unrelated senses (Ch.8, Ch.16, Ch.29 K1); no fourth
 \bgave us an? [a-z]+	29	"[X] gave us a [noun]" frame CLOSED (Ch.29 l.88 speech, l.472 narration K3; rest it)
+\b(?:called|shouted) after (?:me|us)\b	30	stranger calling after Mara as she passes CLOSED (Ch.17 carter, Ch.19 rose woman, Ch.30 cookshop man as found; Ch.30 eval L2)
+\b(?:a stitch came|my side hurt)\b	30	the stitch in a run CLOSED (Ch.17, Ch.30 as found; Ch.30 eval P7)
+\b(?:my |his |her )?(?:hands?|fingers) went still\b	30	work-suspended "hands went still" tell CLOSED (At-risk after Ch.11; Ch.30 eval P10)
+\bbreath (?:moved )?out of it\b	30	Fenn's Ch.25 "not a breath out of it" (Eros's door) SPENT (Ch.30 eval P9)
+\bthe look (?:he|she) (?:gave|kept for) an? \w+	30	"the look [S] gave/kept for a [noun]" frame CLOSED (Ch.16, Ch.25; Ch.30 continuity CRIT-001)

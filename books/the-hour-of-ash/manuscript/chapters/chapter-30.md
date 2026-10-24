@@ -3,13 +3,13 @@
 #### *Pompeii · February, AD 77*
 
 <!-- SCENE BUDGET (Target 2,600; Fragmented, one morning shaken apart; 6 breaks / 7 shards; gear low; dialogue 5-15%): S1 the floor moves under the kneading; the jar, the spoon, the crack down the hearth wall, the dust on the dough; Aelia slaps the floor; Lucius 400 | S2 the wall swears (Grata through the crack); Valens's finger; the family laughs; Mara does not; the old mend; Fenn's rule paraphrased; she wishes the crack wider and goes 450 | S3 the run: the street putting itself back, the strap, the gate passage, the road 330 | S4 the hand at the threshold: sun on the paint, the same faint coolness under it, no colder 330 | S5 she turns: Valens in the road with plaster dust in his hair; he reads the name; asks nothing 300 | S6 "Grata has them."; the walk back past the plasterers; Grata's flood; the bread baked with the dust in it 520 | S7 night: the satchel, the back pages, the entry; the last line 270 -->
-<!-- Word count: shape 2,401 / style 2,408 / show-tell 2,429 (pre-continuity 2,512 / 2,520 / 2,540; pre-disruption 2,627 / 2,635 / 2,655) | Target: 2,600 (92%) | Writer draft 2026-10-24; dialogue-polish + hook-craft 2026-10-24; disruptor 2026-10-24 (evaluations/disruption-chapter-30.md; subtraction only, first line / last two lines / tomb beat / knowledge beat / notebook entry untouched); continuity repair 2026-10-24 (evaluations/continuity/chapter-30-audit.md, 3 CRIT + 16 WARN + 4 INFO; cuts and minimal swaps, protected lines untouched, notebook Eros line 'the same' -> 'no change' per WARN-03) | Dialogue 11% shape (show/tell 10.5%; band 5-15) | Breaks 6 (7 shards) | Median sentence 11 shape / 10 metaphor (gear low) | Semicolons 7 | Similes 0.4/1k style | Em-dash 0 | as-if 0 | And-chains 1 | Negation pivots 0 | Credential asides 0 | Echoes 0 | Opens I-punch ('I was kneading when the floor moved.', 7 words, single-sentence paragraph; IN MEDIAS RES hook, not VOICE), closes punch ('I did not wake him.', 5 words, single-sentence paragraph; DECISION POINT, not QUESTION PLANT; hook-craft replaced 'I hoped the next would shake harder.' as borderline portent, see evaluations/hook-chapter-30.md) | check_chapter.sh 30 ALL MECHANICAL GATES CLEAN (incl. 5c echo scan 0, 5d closed ledger 23 rows); shape_check clean | Anchor: plaster dust on the bread (the gritty hearth cakes at midday); the family laughing at a crack in the wall -->
+<!-- Word count: shape 2,296 / style 2,303 / show-tell 2,324 (pre-evaluator 2,401 / 2,408 / 2,429; pre-continuity 2,512 / 2,520 / 2,540; pre-disruption 2,627 / 2,635 / 2,655) | Target: 2,600 (88%; no per-chapter floor) | Writer draft 2026-10-24; dialogue-polish + hook-craft 2026-10-24; disruptor 2026-10-24 (evaluations/disruption-chapter-30.md); continuity repair 2026-10-24 (evaluations/continuity/chapter-30-audit.md, 3 CRIT + 16 WARN + 4 INFO); evaluator cycle 0 2026-10-24 (evaluations/chapter-30-eval.md: 21 swaps L1-L4 / C1 / P1-P16, incl. entity flags CH30-1 door not warm, CH30-3 route) | Dialogue 11% shape (show/tell 10.9%; band 5-15) | Breaks 6 (7 shards) | Median sentence 11 (gear low) | Em-dash 0 | as-if 0 | Negation pivots 0 | Credential asides 0 | Echoes 0 | Opens I-punch ('I was kneading when the floor moved.', 7 words; IN MEDIAS RES), closes punch ('I did not wake him.', 5 words; DECISION POINT) | check_chapter.sh 30 ALL MECHANICAL GATES CLEAN (incl. 5c echo 0, 5d closed ledger) | Anchor: plaster dust on the bread; the family laughing at a crack in the wall -->
 
 I was kneading when the floor moved.
 
 The board went first. It slid toward me a little and slid back, and the dough rode with it under my knuckles, and for half a breath I blamed my own weight. The water jar beside the hearth began to talk. Its water slapped the clay, this side, that side. A spoon jumped from the shelf's lip into the ash.
 
-Under my feet the floor heaved, set me down, and heaved again. My hands went still in the dough. In the stalls all four mules were kicking their boards, and the street's dogs started up, each setting off the next. Somewhere a tile let go from a roof and burst on the paving.
+Under my feet the floor heaved, set me down, and heaved again. In the stalls all four mules were kicking their boards, and the street's dogs started up, each setting off the next. Somewhere a tile let go from a roof and burst on the paving.
 
 Over the hearth the wall gave a dry little ticking. A line opened in the plaster under the beam. It ran downward in jerks and quit short of the fire. All along it a thin white dust sifted out. It settled on the hearthstone. It settled on the board, and on the dough.
 
@@ -17,7 +17,7 @@ The floor lay still.
 
 Aelia had been sitting by Lucius's pallet, drumming a lid on her knees. When the ground rose under her she shrieked with laughter and slapped the floor with both palms, hard, to make it heave again. It did nothing for her.
 
-I had her up in my arms. She was warm and whole and she wanted down; she shoved at my chin with her fists until I returned her to the floor.
+I had her up in my arms. She was warm and unhurt and she wanted down; she shoved at my chin with her fists until I returned her to the floor.
 
 Lucius had bolted in to me; his father was out front mending a headstall. I checked him all round, as I would a dropped pot. He frowned up at the wall.
 
@@ -37,7 +37,7 @@ High against the beam, where the crack gaped widest, a stripe of her room showed
 
 "You keep off that hearth, my lad, there's live coals under that ash."
 
-Valens had followed him in, the headstall dangling from his fist. He tried the beam over Aelia's head, shoving up at it, and the beam held. He dropped the headstall beside my board and worked one finger into the split, chin-high, to learn how deep it went.
+Valens had followed him in, the headstall dangling from one hand. He tried the beam over Aelia's head, shoving up at it, and the beam held. He dropped the headstall beside my board and worked one finger into the split, chin-high, to learn how deep it went.
 
 "Get your finger out of my wall," said Grata.
 
@@ -49,9 +49,9 @@ Valens laughed. Lucius copied him, eyes squeezed shut, both hands clapped over h
 
 The eye withdrew. On her side we heard Grata starting her husband on the price of lime once more. Valens wanted me in on it. He saw I was not laughing.
 
-The crack had traveled down another man's work. After the big shake fifteen years back a plasterer had mended that wall, and mended it well; the crack had found his repair under the limewash and run the length of it, beam to hearth, the way a zipper parts. The edges of his patch showed now on both sides of it, a shade grayer than the wall round them.
+The crack had traveled down another man's work. After the big shake fifteen years back a plasterer had mended that wall, and mended it well; the crack had found his repair under the limewash and run the length of it, beam to hearth, like a zipper parting. The edges of his patch showed now on both sides of it, a shade grayer than the wall round them.
 
-A fine skin of the dust had settled over the dough.
+The dough had taken a fine skin of the dust.
 
 In Puteoli Fenn had told me the doors went with the ground. When it moved hard enough, they could open. On the night of the big shake a family out on the tomb road, afraid of their roofs, had felt cold come off Eros's door till nearly dawn, and Fenn heard of it from a carter, too late to go.
 
@@ -71,15 +71,15 @@ The shake had emptied the doorways, and now people were drifting back in, slowly
 
 I ran.
 
-The paving was gritty with fallen plaster under my sandals. Skirt gathered in my hand, I went east past them. The women queued at the fountain swung round, jars and all, to watch me by. Aelia had last fed at dawn, and the running jarred my breasts, which were full. At the crossing my sandal strap came loose, and from there on it slapped my ankle at each stride. A man in a cookshop door shouted after me that it was over, Greek, nothing to run from. I turned south toward the Nuceria Gate.
+I went east past them. At the next fountain the women in its queue swung round, jars and all, to watch me by. Aelia had last fed at dawn, and the running jarred my breasts, which were full. Halfway to the gate my sandal strap came loose, and from there on I ran with my toes clawed to keep it on. A man in a cookshop door assured me it was over, nothing to run from. I turned south toward the Nuceria Gate.
 
-Each Kalends I passed under that arch at a walk, with a few flowers in a cloth: a woman going out to her dead. A woman with flowers got no second look on that road. I had not run it before.
+Each Kalends I passed under that arch at a walk, with a few flowers in a cloth: a woman going out to her dead. I had not run it before.
 
 In the gate passage a boy was gathering up the pieces of a dropped jar. He was fitting them together on the paving. Another day I would have stopped and shown him how the handle sat. I went round him.
 
 Outside, the tombs stood in full sun. Not one had fallen. A goat tied to somebody's railing was eating the violets off a tomb step.
 
-My breath was all in the top of my chest, and my side hurt. Ahead, low and white among its neighbors, there it was.
+My breath was all in the top of my chest. Ahead, low and white among its neighbors, there it was.
 
 * * *
 
@@ -87,17 +87,17 @@ Eros's door had had the sun on it since morning.
 
 My palm met it near the foot of the left leaf, and I pressed.
 
-The paint was warm. My palm was hot from the run, and at first I felt only the two warmths together, mine and the sun's. I stepped in close, so that my shadow covered the place, and waited for the sun's heat to fade from it.
+Hot from the run, the hand gave me only its own heat at first. I stepped in close, so that my shadow fell across it, and waited for the heat to fade.
 
 It left slowly. Under it, when it rose, the coolness was the one I had found there when we were new in the town. Faint. A little less warm than sunlit paint ought to be, and nothing past that.
 
 I pressed harder. Nothing in it altered.
 
-I leaned my forehead against the leaf. The paint smelled of dust and lime, and it was warm against my brow from the sun.
+I leaned my forehead against the leaf. The paint smelled of dust and lime.
 
 The ground shivered under my feet. It was a small one, the tail of the first, there and gone; grit trickled off the cornice of the big tomb next door and pattered on its step. Now, if ever, the door would answer the ground. Eros's bench was against my shin, where Fenn had sat his nights out.
 
-No breath moved out of it. The dust at its foot lay undisturbed. Sweat was going cold along my spine, and the door was a door on a tomb, faintly cool.
+The dust at the door's foot lay undisturbed. Sweat was going cold along my spine, and the door was a door on a tomb, faintly cool.
 
 No colder.
 
@@ -111,9 +111,9 @@ He had followed me out without his cloak. There was plaster dust in his hair. He
 
 The door was in front of him, and my hand on it. He saw where I had run to. I had no story ready.
 
-He had known for years that there was a door. Its place I had told nobody.
+He had known for years that there was a door. I had told nobody where.
 
-He read the name over it. I watched him read it. His hands hung empty at his sides; the headstall lay by my board at home.
+He read the name over it. I watched him read it. His hands hung empty at his sides.
 
 He put no question to me.
 
@@ -123,7 +123,7 @@ We went back with a gap between us. In the arch he turned for one look back at t
 
 Under the gate he spoke. "Grata has them."
 
-I had forgotten them since the kneading. Now I wanted to run home as hard as I had run out, and had no run left in me. Two babies, left with a hearth and a cracked wall, and I had run a mile.
+I had not thought of them since I left. Now I wanted to run home as hard as I had run out, and had no run left in me. Two babies, left with a hearth and a cracked wall, and I had run a mile.
 
 Valens matched his pace to my loose sandal. I stopped at last and tied it, badly, and let it be.
 
@@ -135,13 +135,13 @@ In the town they were already at their repairs. A plasterer on a trestle outside
 
 "Tell her she's behind the cooper and the widow and this fellow here. Tomorrow, if the lime comes."
 
-At the crossing shrine a woman had set a honey cake on the altar under the painted snakes. On the fuller's bench the two old men had settled the year between them and gone on to roof tiles.
+Where we turned for home, a woman had set a honey cake on the shrine's altar under the painted snakes.
 
-Passing the fountain I had an answer ready for the women there, a poor one, about what a Greek owed her dead out of season. I did not need it.
+Passing the fountain I had a lie worked out for the women there, a poor one, about what a Greek owed her dead out of season. I did not need it. On the fuller's bench the two old men had settled the year between them and gone on to roof tiles.
 
-Grata had Aelia on her hip at the counter and Lucius sitting on the marble with his legs hanging down. She saw us coming.
+Grata had Aelia on her hip at the counter and Lucius sitting on the marble with his legs hanging down.
 
-"He hands me your two over my own counter, the big ox, and off after you like a hound off its rope, and never a word, and the boy wanting his mother, and the girl chewing my sleeve, and my wall open to your fire so I'll smell your onions in my bed till the Kalends. You've run yourself scarlet, and that girl's wanted the breast this hour past. They're yours again, my pot's catching."
+"He hands me your two over my own counter, the big ox, and off after you like a hound off its rope, and never a word, and the boy wanting his mother, and the girl chewing my sleeve, and the wall open to your fire so I'll smell your onions in my bed till the Kalends. You've run yourself scarlet, and that girl's wanted the breast this hour past. They're yours again, my pot's catching."
 
 I lifted Lucius down and took Aelia, who had a fistful of Grata's sleeve and had to be unpicked. With the mules seen to, Valens set his shoulder to our wall beside the crack and leaned his weight on it. The wall bore it.
 
@@ -159,17 +159,17 @@ Lucius climbed off his stool to inspect the crack, close up. Aelia had a whole c
 
 Once during the meal I thought Valens would ask. He asked Lucius for the oil instead, and Lucius carried it to him at a solemn crawl, the jar gripped to his chest.
 
-Before we had finished, a wad of rag came worming through the top of the split from Grata's side and hung there. Lucius stretched for it, toes and fingertips. At its foot, over the hearth, Valens had already stuffed a twist of straw into the bottom of the split against the draught, and the wall was plugged from both sides, hers at the top and ours below.
+Before we had finished, a wad of rag came worming through the top of the split from Grata's side and hung there. Lucius stretched for it, toes and fingertips. At its foot, over the hearth, Valens had already stuffed a twist of straw into the bottom of the split against the draft.
 
 "Leave my rag be," said Grata, through it.
 
 She talked on till the light changed.
 
-Later that day the shake brought me trade. The dyer's wife came with a lamp that had jumped off its bracket and lost its spout. A girl of nine or so arrived with her grandmother's bowl, broken in three, carried in the lap of her tunic with the corners gathered up in her fists. Last came my adviser from the cookshop door, with a wine jar split from lip to shoulder, and stood it on my plank, grinning.
+Later that day the shake brought me trade. A girl of nine or so arrived with her grandmother's bowl, broken in three, carried in the lap of her tunic with the corners gathered up in her fists. Last came my adviser from the cookshop door, with a wine jar split from lip to shoulder, and stood it on my plank, grinning.
 
 "The small shake did that. I'd just told you it was over."
 
-I promised it him for market day. The plank was full by lamplighting, and I took the pieces in turn with the glue pot warming on the coals beside me, its smell of pine and hoof filling the shop. The jar I kept for last. Its split ran clean, and two lead clamps would hold it.
+I promised it him for market day. The plank was full by lamplighting, and I took the pieces in turn with the glue pot warming on the coals beside me, its smell of pine and hoof filling the shop. I kept the jar for last. Its split ran clean, and two lead clamps would hold it.
 
 * * *
 
@@ -185,7 +185,7 @@ That was the shake. One thing more wanted writing, and it was shorter.
 
 *Eros: no change.*
 
-Valens in the road I left out.
+Valens in the road went unwritten.
 
 I let it dry, closed the book on it and slid it in again below the bundle. No light showed in the crack; Grata's lamp was out. Valens was a long ridge of wool. Whether he slept I had no way to tell.
 
