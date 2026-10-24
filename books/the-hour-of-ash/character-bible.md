@@ -4891,6 +4891,36 @@ checked OFF the page. All functional; no habit assigned.
   he held."; "Was he anything of yours?"; "sells eggs by the Nucerian gate"; "thighs, not hard,". **Struck (audit CRIT-002):**
   "Grata's boy" ("rubbing one bare foot on the other, hoping to hear what he was owed"; two coppers) is not on the page.
 
+#### Ch.29 unnamed walk-ons and mention-only names (no card needed unless they return or are named)
+Writer draft 2026-10-24 (quotes from the draft page; the evaluator's sync replaces this block). All functional; no habit assigned.
+- **The baker opposite** (Cerdo's master; unnamed; the Ch.19 "baker over the way" whose oven draws badly): "a narrow man with flour in
+  the hair of his arms and a cold he had nursed since the olive harvest", cap "pulled down to his eyebrows"; "Have him," … "and send him
+  home for the second firing, because Saturn can go without bread for the festival but the street can't, and nobody else of mine knows
+  that oven." / "Feed him, he eats like a mill," … "and blew his nose on his fingers and went in."; at night, "Cerdo!" through the
+  shutter at the hour of the second firing. Worldview: the oven's hours.
+- **The fountain girl and her mistress:** "That's mine," … "my mistress, and she's had to stand behind me since daybreak, and can't say a
+  thing." / "Tomorrow she can go first, and then she owes me." / mistress: "I heard every word," / "You were meant to, mistress." /
+  "Then there's no festival," (to Mara's "What then?").
+- **The widow from the alley behind the Stabian baths** (lamp mended three times that year): pays in four tapers; "everybody that owes
+  pays in wax at the festival"; "This is for the third mending, and the second's on account."; "it goes into the wax and comes out in
+  the year."
+- **The figure-seller** under the eastern colonnade: "one blind eye and sharp opinions in the other"; "It was a mule," … "and they lose
+  them, ask any carter."; "So she walks crooked, and so does my wife, and I've had my wife thirty years and nobody's offered for her
+  yet."; two coppers for the pair and a walnut for the boy.
+- **The aedile's attendant** dicing on the fountain step: "Not a word, mender," … "the aedile's dicing too, over at the basilica, and
+  losing." (swears by four gods). **The walnut boys:** "He can have these," … "He's too little to win any."
+- **The mime troupe** at the crossing (no masks): the baker (cushion strapped round his middle, flour, a peel), his wife (a big woman
+  "whose laugh carried to every wall of the crossing"), the youth (long legs, a hopeful face), a flute player on a cart's tail. Their
+  lines are the farce's own and are SPENT with it ("Guard the dough." / "With my life." / "The leaven, husband…" / "By Juno … I never
+  saw that leg in my life." / "Forgive me … the dough has risen into a man … Here, have a loaf."). **Crowd shouts:** "Behind you,
+  baker!"; "Under the lid!" (a boy); "Knead him, baker, lean on him!"; "She's lying! … Look at his feet, baker!"
+- **The fish-sauce carter** (the Ch.26 letter carrier): hands Fenn down "with a warning to mind the jar". **The fuller's lad:** fetches
+  the bay wreath from the tree by the vats.
+- **Mention:** the boy on the bakery's mill ("He's ten, he'd be sick."; "He slept his day off."); the lanista at Corinth (Valens: served
+  the troupe's supper one night, "We had his couch and he had our bench", and gave them a small pig); Albucius (Felix: served the troupe
+  "in a cap", dropped half the pork, "the bear got it"; ten days' leave); the Puteoli saddler (made Fenn's ball from a drawing in wax);
+  Grata's girl, "before my Secundus" (a cap and a cup at the door every year).
+
 ## MINOR NAMED CHARACTERS (all four axes filled; the Writer extends each card on first appearance)
 
 #### PHILOKRATES — Greek physician in Pompeii (Ch.32)
@@ -5950,6 +5980,42 @@ checked OFF the page. All functional; no habit assigned.
   every line above.
 - **Verbal tic:** none (no speech)
 - **DISTINCTNESS GUARANTEE:** the fighter who fights to buy a field, against Felix, who fights to have his name cried.
+
+#### CERDO — the oven slave of the bakery opposite the shop (the Ch.19 baker "over the way"); carries the family's bread across each morning and keeps the oven through the night (Ch.29)
+- **Attention / worldview:** fire and its hours. He measures a night by its firings, judges an oven by its draw, and knows the flue is
+  bent because the smoke "sits in the bend and won't come out". The festival is a borrowed evening; the oven is the life it is
+  borrowed from.
+- **Vocabulary band:** plain Pompeian Latin; trade nouns (batch, firing, flue, the boy, the cocks for the hour); his song is from "the
+  hill villages behind Nuceria", in a Latin "with older words knocked into it".
+- **Syntax fingerprint:** short statements, a fact followed by its cost ("The boy. He'll let it die, and I'll be up till the cocks
+  bringing it back."). Dry, undemanding, asks nothing personal. Talks at length only about the flue.
+- **Rhythm:** few words, long silences while he eats; a hoarse voice "gone to smoke at the oven years before".
+- **Evasion — never says:** a word against his master; anything about how he came to be bought, or from where; never asks for anything
+  (of a bundle of honey cakes he takes two, for the boy on the mill). He never comments on the inversion, his status, or the kindness
+  done him.
+- **Physicality / silence:** heavy, slow-moving, gray at the temples; "the insides of both forearms glazed pink and shiny from years of
+  reaching into heat"; sits on the front edge of a stool; eats with an eye on the door (Valens: "Give him the seat that looks at the
+  door."). The body's training shows ONCE, at the empty jug (up and pouring before he has decided to); it is never a gesture loop.
+- **Verbal tic:** none — distinguished by attention (the fire, the flue, the firings) and evasion (never a word about the master or
+  himself).
+- **Bleed guard:** never borrows Grata's flood or Valens's level brevity as a manner; no oven figures of speech turned on people; never
+  the wise slave who explains the festival or the household to Mara; never effusive thanks.
+- **Chaos on the page (subjects, never phrases):** the flue (Ch.29), his own preoccupation, nothing to do with the family.
+- **DISTINCTNESS GUARANTEE:** the only speaker whose talk keeps returning to a fire he has to go back to, against Grata, who tells you
+  about yourself, and Valens, who reads ground and animals.
+- **Sample line (illustration only, never page text):** "It's banked. If the boy goes near it, it's out before the second hour."
+- **Ch.29 as written (Writer draft 2026-10-24; the evaluator's sync replaces this note):** named first in Grata's mouth ("Cerdo, look at
+  you."); in the felt cap at daybreak, his master in "its twin"; "It was his idea," … "and he's in his."; "Ask him," with a jerk of his
+  chin at his master. At the table: a round loaf "scored into eight wedges and stamped at the center with the bakery's mark", handed in
+  "from the step without stepping over"; "Off the best of the batch, and he'll never miss it."; "Poured for by a Chaldean. Me."; to
+  Valens, "You're the carter," … "The four mules." / "The dun's the best of them."; follows "none of the English and most of the
+  Greek"; "It's the boys with the walnuts," … "Grown up."; sings the goat-priest song, eyes shut; "I sang, lady," … "You heard what it
+  was." (the line that makes Mara sing). **The jug:** up with it "before it finished", fills Mara's cup "to the brim without looking";
+  fined by the king and "dried his mouth with the back of his burned wrist". **The flue:** "It goes up, see, then over, so, and the
+  smoke sits in the bend and won't come out, and I told him at the Kalends, and he says it draws." / "You tell him, he takes a Chaldean's
+  word." **Leaving:** called at the second firing; "For the boy on our mill," … "He slept his day off." / "He's ten, he'd be sick." /
+  "Majesty." / "If he lets me." / "Good pork"; halfway across the street he pulls the felt cap off and stuffs it in his belt.
+  **Spent in Ch.29:** every line above; the cap pulled off at the crossing; the two cakes; "If he lets me."
 
 ## UNNAMED SPEAKING ROLES PLANNED IN THE OUTLINE
 Give each one its own attention, and **promote it to a full card the moment the page names it.** One
@@ -9090,3 +9156,11 @@ finalizing the chapter. Never add a tic to fix it.
 - **2026-10-24 (writer, Ch.28 draft):** MARA, VALENS, FELIX (the oath, the thraex kit, the palm SPENT, the last line), GRATA, LUCIUS, AELIA, NICANOR (decided: trainer, not lanista) extended; NEW cards PRIMA, ALBUCIUS (lanista), RUSTICUS; Ch.28 walk-on block (the bean woman, the duumvir, the pear boy, Grata's boy, the Gaul) and At-risk after Ch.28 added. No catchphrase, habit or tic assigned (Voices from lives, not rules); tic-bearer roster still NONE. Downstream passes re-sync quotes to the final page.
 
 - **2026-10-24 (finalize Ch.28):** every writer-draft Ch.28 block replaced from the evaluator's FINAL consolidated sync list (`evaluations/chapter-28-eval.md`, Cycle 4 §4, which supersedes the cycle-0/1/2 lists and the cycle-3 corrections), synced to the FINAL page (body md5 `4aca9f90…`; after dialogue-polish, hook-craft, disruptor, continuity repair, evaluator cycles 0–3, cycle 4 PASS; header l.6 only changed at finalize). MARA: distortion, recall (the eyebrow, uncommented), body rebels, "The wax looked honest to me.", speech ledger ("And…" 1; statement + dry fragment 2, AT CAP). VALENS: verbatim from the page ("My boy," to "You know that bird?"; "Wash that."; the first fight answered sideways by "The crowd laughed."; the Albucius misreading; Kirrha; the stall-to-stall bucket; the dry knee; the counts); "pays Grata's boy two coppers" struck (CRIT-002). FELIX: oath, kit (quilting to the groin, greaves from mid-thigh), lines, the after-bout burst, the tunnel, the unfinished palm with no cause (SPENT for the book), the counts. GRATA (one question; no race frame; her boy struck), LUCIUS (the dry knee; the threshold fall with "until"), AELIA (header only), NICANOR (page quotes; header updated), PRIMA (base Rhythm and Physicality lines rewritten from the page; "They talk of it at the vats."), ALBUCIUS (base Physicality rewritten: no dish, no napkin; page quotes), RUSTICUS (wife "in the forum"), walk-ons (bean woman, duumvir, rod man re-quoted; "his toga very white" and Grata's boy struck). **At-risk after Ch.28** replaced with the FINAL block: SPENT, "not hard" CLOSED book-wide, "than before" 2/2 SPENT, canon, the full CUT log (writer-draft card quotes, cycle 0 V/L/C/P/I, R1–R4, S1–S5, X1–X11, rejected drafts), WATCH and the Ch.29 guards, and the craft rules recorded from Ch.28 (for the Writer and evaluator, never a character's habit). 539 quoted page strings grepped against the final chapter-28.md (+94 on the full Prima and Albucius cards); every CUT string checked OFF the page. `tools/closed_ledger.tsv` +4 rows (two-item look widened ×3: direction-word "looked past X at Y, and at Z", glanced/stared/peered/gazed, and "considered X, and the Y,"; relayed order echoed as obeyed, same paragraph only). Not touched: the manuscript, STATE.yaml, ENTITY_STATE.yaml, outline.md. No catchphrase, habit or tic assigned (Voices from lives, not rules); tic-bearer roster still NONE.
+
+- **2026-10-24 (Writer, Ch.29 "Saturnalia" draft):** NEW card **CERDO** (the bakery's oven slave opposite; Ch.29), all four axes from his
+  life (fire, the flue and the firings; short fact-then-cost statements; never a word about his master or himself; burned forearms, the
+  front edge of a stool, an eye on the door), tic line "none". NEW block **Ch.29 unnamed walk-ons** (the baker opposite, the fountain
+  girl and her mistress, the widow with tapers, the figure-seller, the aedile's attendant, the walnut boys, the mime troupe and crowd
+  shouts, the fish-sauce carter, the fuller's lad; mentions incl. the ten-year-old mill boy and Grata's girl "before my Secundus").
+  Both carry Writer-draft quotes; the evaluator's FINAL sync replaces them and writes "At-risk after Ch.29". Not touched: the principals'
+  cards, the at-risk blocks, STATE.yaml, ENTITY_STATE.yaml, outline.md. Tic-bearer roster still NONE.
