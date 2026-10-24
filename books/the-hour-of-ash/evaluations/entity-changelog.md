@@ -3835,3 +3835,23 @@ Open contradictions: 33 → 37.
   - All 710 ch-27 cites fall in p1..p242.
   - 193 contradiction rows, 62 UNRESOLVED.
   - Every remaining off-page Ch.27 quote is labelled CUT, or is a plan or Ch.26 quote.
+
+## RE-SYNC-2: Chapter 27, two lines (2026-10-24)
+
+- **Page:** chapter-27.md md5 914ecfb38b9a2687dfabb01e0ecf97e2. The orchestrator changed two lines to match Ch.2's consulate slip ("with contents of pockets").
+  - p189 now reads "with the notebook and my cigarettes in the pocket so they wouldn't get wet". The old "with my cigarettes in the pocket" is CUT.
+  - p191 now reads "Some goatherd hauled it off that mountain, has to be, or that notebook never makes it home to my sister's. I hope he tried it on first." The old "came along and got himself a coat out of the deal, you can bet on it. I hope it fit him," is CUT.
+- **Re-quoted:** every row citing p189 or p191 now carries the new wording, with the old wording marked CUT. That covers the header, the Ch.27 revalidation action and coat check, CH2-3, CH27-5, CH27-9, Mara's coat fact, Fenn's coat trait, Fenn's notebook and overcoat possessions, knowledge_absent_ch27, the plan fact and the Ch.27 cave fact, the 16 Sept 1968 and 22 July 1968 timeline events, fenn-notebook provenance notes and the ch27 row, the consulate-slip note and ch27_beat, and the overcoat ch27 detail.
+- **Facts reversed:** the cigarettes-only pocket and the notebook-via-lodging route are gone. The coat carried the notebook, as Ch.2 implies. fenn-notebook.provenance_source now cites ch-27:p189 and p191.
+- **New knowledge (august-fenn):**
+  - Ch.27 p191: the notebook reached his sister's, so someone brought the coat down. Method: inferred, from the Ch.25 estate sale; he "did not ask whose".
+  - Ch.26: Valens's name and news, via Mara's reply R4. Method: told_by:mara-reyes, in writing, inferred.
+- **Flags:**
+  - CH2-3 stays RESOLVED, but the reason is reversed: page, outline and foundation now agree that the notebook was in the coat. The old resolution is kept as `resolution_superseded`.
+  - CH27-5 stays RESOLVED. Fenn now connects the goatherd and the estate sale himself (p191).
+  - CH27-9 RESOLVED. Outline Ch.2 beat 7 (outline.md:166), foundation §3 Surface (l.114) and Wound (l.117) agree with the page. The lodging route is no longer in the foundation.
+  - CH27-10 RESOLVED. The path is ch-26:p78-p83: "Do you tell him about me?" / "Sometimes."; Valens says "Put that in." and Mara writes "I put the ford in." The name is not printed in the letter, so the path is inferred. The august-fenn.knowledge_gap entry and knowledge_index.valens_name are marked to match.
+  - NEW: none. CRITICAL: none.
+- **Open count:** 62 → **60** (2 closed, 0 opened).
+- **Not touched:** chapter-27.md, character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:** `yaml.safe_load` and the strict no-duplicate-key loader both pass. All ch-27 cites fall in p1..p242. All new Ch.27 and Ch.26 quotes were checked verbatim against the page. The contradictions list has 193 rows, 60 UNRESOLVED.
