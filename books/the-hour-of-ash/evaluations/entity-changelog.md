@@ -4119,3 +4119,75 @@ Open contradictions: 33 → 37.
   - **68 open** (63 before; +5 for CH29-2..6; CH29-1 opened and closed in this run).
 
 ---
+
+## 2026-10-24: RE-SYNC (chapter 29, "Saturnalia", to the FINAL page)
+
+- **Page:** chapter-29.md at b0fadea, md5 622863b94002591df27ce3657d827239 (evaluations/chapter-29-eval.md, cycles 0–2). The UPDATE above had anchored on the continuity-repaired page dbc3425 (md5 7baedf32…). Since then:
+  - cycle 0, e237c0f: 64 swaps (L1–L5, C1–C18, P1–P18), including the eval's rulings on CH29-2, CH29-3 and CH29-4
+  - cycle 1, ae1f74f: K1–K3
+  - cycle 2, b0fadea: PASS, header only
+- **Numbering:** 292 → 291 paragraphs.
+  - Old p247 is CUT (C14): "I sat and drank my wine." It was never tracked, and no row cited it by itself. The one range that ended on it (maras-saturnalia-shame, the evidence "p2-p247") now ends p246.
+  - Old p1–p246 keep their numbers. Old p248–p292 = new p247–p291.
+  - Breaks are now after p68, p131 and p246. The file-line formulas (2p+6, 2p+8, 2p+10, 2p+12) still hold, checked by script.
+  - Text changed inside 61 more paragraphs. The map was built by script from the git copy of dbc3425 (at 7424311).
+- **Cites moved:** 248 in all.
+  - 166 explicit ch-29:pYY.
+  - 82 bare refs on Ch.29 rows. The few mixed-chapter rows were checked by eye; every bare ref of p247 or above on them is Ch.29's.
+  - No integer resolution paragraphs.
+  - History left alone: the UPDATE header log, the meta mode / source / last_updated_by history, paragraph_rule's dbc3425 clause and the ch29_requested_checks DONE row.
+- **The eval's ENTITY rulings, recorded:**
+  - **Fenn's visit (CH29-2):**
+    - p44 now reads "The Chaldean comes tomorrow, and I have asked the baker's man, Cerdo, to our supper." CUT: "to our supper tomorrow".
+    - p61 now ends "and that's the Chaldean." CUT: "when he comes".
+    - Mara tells Valens on the second festival day, before Felix comes home that evening (p48). So the visit is household knowledge when Felix makes his law. His own telling is not shown, but a path through the house exists, as for the Cerdo invitation.
+    - Rows changed: felix.knowledge_gap (RESOLVED, kept for the record) and a new felix.knowledge row; new valens.knowledge row (told_by:mara-reyes); new mara-reyes.knowledge row (not shown how she knows; the invitation is off the page).
+    - Timeline: p44 now dates Fenn's coming, not the feast. The feast still falls on the third festival day by p7 and p61, and Fenn's "tomorrow" lands on it (p69). Changed: timeline row 29 and the dateline check row.
+  - **Felix's bed (CH29-3):**
+    - p52 now reads "In my corner, where else, if Lucius hasn't moved into it." CUT: "In the straw, where else, if the dun's kept my place."
+    - p277 now reads "He curled up in his corner under his blanket, still crowned." CUT: "He carried a blanket through to the mules, still crowned, and lay against the dun in the straw, and she shifted over for him." (Cycle 0's "He took his blanket to his corner … slept in the wreath" was itself replaced by K1 and never reached the final page.)
+    - This agrees with his blanket along the shop's shelving (ch-20:p16; ch-28:p26). The room is not named. He took his blanket when he left in Ch.28; how it is back is not stated (not flagged).
+    - Rows changed: felix.traits, felix.status_log, felix.location_log, cobblers-shop.
+  - **The Vet (CH29-4):**
+    - p241 now reads "The one song I had every word of was the one the organ played … My father had taken me on a school night in May." CUT: "once," and "I sang them the one song".
+    - One night among ch-25:p68's "Sometimes". Rows changed: emilio-reyes.traits and the CH29-4 row.
+  - **Grata's pot:** she comes across for it at supper and "hoisted the pot onto her hip" (p163; p164). At the door, "She took her empty jar home but left her bench" (p276). CUT: "She took her pot home". p284: "I scraped the bowls into one for the morning". CUT: "into Grata's pot". Rows changed: pomponia-grata.traits and location_log.
+  - **Chapman:** "took it on the temple" (p184). CUT: "on the side of the head". Row changed: the timeline_events row.
+- **What nobody saw (knowledge_index.saturnalia_cup):**
+  - The narration's "No one at that table had seen anything but a guest forgetting himself and paying for it." is CUT (P14).
+  - The page no longer rules out that anyone saw. It now shows: Fenn's cup rising "while he read on in Grata's hand" (p253; CUT: "without Fenn's head turning from Grata's hand"); Cerdo having "already moved on toward Valens" (p256); Felix seeing "only that his guest was standing" (p257); Grata's "Blame the Falernian," (p260). Whether Valens or Cerdo saw is not stated.
+  - Rows changed: the saturnalia_cup row for Valens, Fenn and Cerdo ("NOT SHOWN KNOWING" in place of "NOT KNOWN"); mara-reyes.knowledge (the "hers alone" note); knowledge_absent_ch29 on valens, august-fenn and cerdo.
+  - This narrows a fact. It does not contradict one.
+- **Smaller re-quotes (old wording marked CUT on the row):**
+  - Valens: p37 now reads only "Grata had put a cap on Valens too." CUT: "and he wore it as he wore everything, without remarking on it" and the bark from cutting her firewood (this also takes away CH29-1's repaired clause; the CH29-1 row, its check row and the fish-sauce-carter note say so). "Long ago." (p153). CUT: "Once." "Valens took his seat again and ate the piece I gave him." (p155). CUT: "with his hands spread on the plank and nothing for them to do". "The sound he made had stopped being a laugh, and it was nothing I knew." (p120). "He still plays." (p205). The Felix's-law check row now reads "Long ago" for "Once".
+  - Fenn: "Abbott and Costello at the Earle," … "when I was eleven, with a laundry hamper" (p103). "He wants the oil reckoned," (p210; CUT: "Oil,"). "That is for another evening, and another jar." (p217; CUT: "sir,"). "enchanted" CUT (p179). "Fenn stood with the hat crushed in his hand." (p128; CUT: "kept his English to himself").
+  - Felix: "Write that one on a wall." (p63; CUT: "Somebody write").
+  - Grata: "gave him her other hand as well" (p250; CUT: "and left it in his"). "Blame the Falernian," … "Menders have no head for good wine." (p260; CUT: "Look at the color of you,").
+  - Cerdo: "Cerdo ate with an eye on the doorway, and as much as his master had promised." (p146; CUT: the first-slowly, second-faster sequence). "Eyes shut, Cerdo gave us a song" (p231; CUT: "Cerdo sang sitting"). "Cerdo paid his fine with a grin" (p259; CUT: "sat down grinning, drank off his fine"). "Cerdo was up before the second shout" CUT (p268).
+  - Mara: "He filled it level with the brim." (p254; CUT: "to the brim without looking"). "At the sound of the pouring" (p256; CUT: "of wine pouring into the jug"). "I stopped there." (p243; CUT: "My voice stopped there. Nothing I did would start it again."). "trailed along underneath" (p242). "Let the king choose another thing;" (p235; CUT: "Then let").
+  - Lucius: "set the pit in the lentil's middle" (p167; CUT: "on the lentil, exactly in its middle").
+  - Aelia: "with the doll's leg in her mouth" (p251; CUT there: "crooked"; the leg is still "crooked" at p91).
+  - Walk-ons: the figure-seller's neighbour now cries "Gods a copper!" … "The Emperor two, and he's cheap at that!" (p27; the second "Gods a copper" CUT). The widow: "Everybody that owes pays in wax at the festival." and "bad luck, it goes into the wax and comes out in the year" (p22; p24; CUT: "smell it" and "at the festival,").
+  - Places and objects: "Our only stool with a back stood waiting for him." (p139; CUT: "the end of the plank, where"). The fuller treads "as he trod cloth" (p66; CUT: "in the vats"). The boughs over the fullery door CUT (p70; changed on fuller-pompeii, pompeii and fullery-at-the-corner). The loaf "stamped at the center with the bakery's mark" (p136; CUT: "scored into eight wedges"; changed on cerdos-stamped-loaf and bakery-opposite). The mule "the halves joined wet and trimmed" (p28; CUT: "by somebody with too many to finish"). "The field stayed where Fenn had laid it, and I wiped the plank round it." (p290; CUT: "I left the field").
+- **Cut, never tracked, nothing to change:** "I sat and drank my wine." (old p247); "Io!" (the lads' second cry); "And this" / "And what" openers; "with a street that had not yet answered"; "to tell the street" (now "to tell Grata"); "before Grata had poured for him"; "taking in the caps and the dice and the boughs"; "with great gravity"; "in his hat"; "He had not marched three steps before"; "went up into the sun"; "and pork from Grata's pot"; "He took in the lit room behind me"; "His Greek was at its most courtly."; "ask anybody"; "and will I be famous?"; "said Felix, delighted"; "from our doorway" (p275); "left the brazier to itself".
+- **Contradictions:** none opened. Every change narrows or rewords a Ch.29 fact. None touches another chapter's canon, the foundation or the outline.
+- **Flags:**
+  - **Closed:** CH29-2, CH29-3 and CH29-4, each by the final page (each row keeps the repaired-page prose labelled, with a resolution).
+  - **CH29-6 closed** by the parallel bible sync 93db06b ("character bible synced to the final page"), which landed during this run. I did not touch character-bible.md. Checked read-only by script: the "Writer draft" heading is gone; every bible string the row listed that is not on the page now stands only inside the bible's "CUT / struck (never restore; each checked OFF the page)" lists; outside its CUT and guard lists, no double-quoted string in the bible's Ch.29 blocks is off the final page. The orchestrator may reopen it if its own bible check disagrees.
+  - **Rechecked:** CH29-5 (the 1950 story, p189–p196) unchanged, still open. CH20-6: the forward window still holds (no tomb, painted door or gate; Cerdo's "at the Kalends" is the flue, p264). CH28-2..CH28-5 untouched.
+  - Opened: none. CRITICAL: none. knowledge_gap: none open from Ch.29 (felix's closed).
+- **meta:**
+  - A new header log block.
+  - `last_updated_by`, `mode` and `source` now lead with this RE-SYNC; `last_updated_chapter` stays 29.
+  - A RE-SYNC clause was added to paragraph_rule's Ch.29 entry.
+  - New rows: a `revalidation_needed` row (chapter 29, RESOLVED) and a `ch29_requested_checks` re-sync row.
+- **Not touched:** chapter-29.md (or any chapter), character-bible.md, STATE.yaml, foundation.md and outline.md. Nothing committed.
+- **Validation:**
+  - `yaml.safe_load` and the strict no-duplicate-key loader both pass.
+  - All 910 ch-29 cites fall in p1..p291.
+  - A 5-word-run sweep against the repaired page finds 40 stale lines before the edits. After them, every remaining hit sits on a row that labels it CUT or quotes it as repaired-page or post-disruptor history, apart from two paraphrases that still hold ("the pit on the lentil") and two false positives in other chapters ("on the side of the"). 3- and 4-word sweeps and targeted greps on Ch.29 rows ("Once.", "enchanted", "Oil,", "sir,", "crooked", "Somebody write") found the shorter cuts.
+  - Every final-page quote of 4+ words on a Ch.29 row sits in a paragraph cited on its row: 375 checked, 0 gaps.
+  - The file holds 415 characters, 128 locations, 208 objects, 26 organizations, 76 plot threads, 140 world rules, 275 timeline_events and 205 contradiction rows.
+  - **64 open** (68 before; CH29-2, CH29-3, CH29-4 and CH29-6 closed).
+
+---
