@@ -2,6 +2,7 @@
 
 <!-- SCENE BUDGET (Target 7,200): crisis in the recess 950 | BACKFILL: the lane, the weeks, the ashes 600 | Kallia and the wood 700 | the ask and the refusal 950 | the Seiko 850 | leaving before light 300 | the climb 1,250 | the wall, the scream, the bread 900 | the descent, the kiln, the evidence 1,200 -->
 <!-- Word count: 6,790 prose (shape_check; 6,769 after dialogue-polish) | Target: 7,200 (range 6,500-7,600) | Dialogue 36.8% (36.9% after dialogue-polish; 6,634 words / 38% after disruptor; 6,680 / 37% after continuity repair 2026-10-19: C-01, W-01..W-16, W-18, W-19; 6,643 / 38% after polish cycle 1 2026-10-19: eval PATH items 1-10 + Valens body sentence + route fix) | Revision: polish cycle 1 | Issues addressed: 19 | Anchor: Valens winding the watch backward, carefully, his thumb covering the crown | Memory-insert trim 2026-10-19 (AUTHOR-CP2-2: Larchwood + snow tires cut): 6,544 words / dialogue 37.3% shape_check (34.2% paragraph-aware; see evaluations/revision-memory-inserts-2026-10-19.md) -->
+<!-- Author revision 2026-10-24: watch period beats -->
 
 I had scraped the floor of the crack down to bare rock as far in as my arm would reach, and now I knelt at the bend with Kallia's ash shovel, chopping at a crust of earth that had frozen into plates. Each plate came up with a skin of rime on its underside. Below it the dirt was black grit, packed hard.
 
@@ -246,6 +247,10 @@ The clasp was stiff with the cold. It took me two tries to spring it, and then I
 "You took it from him."
 
 "He does not need it."
+
+"Was it on him when he died?"
+
+"It was by his bed."
 
 He was a long while over the back of it, and over the band where the three links had come out. Then he turned it face up. The thin seconds hand was going round. He watched it make one full circuit, and his face stayed as it was.
 

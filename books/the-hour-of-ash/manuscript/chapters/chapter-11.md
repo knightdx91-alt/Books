@@ -2,6 +2,7 @@
 
 <!-- SCENE BUDGET (Target 6,200; range 5,600-6,800): Praxias's price over the wall; the walk; the obol, the refusal, the watch read from the pouch; the breeching; the sharpened awl 2,000 | the week: the figs argument; the black comes in lame 1,500 | Praxias at the gate and Felix sent after him; the sherd; Felix's name and his price 1,500 | the shed: no paper; the near-kiss; the black standing on her bad foot; "the day he sits"; Kirrha 1,200 -->
 <!-- Word count: 5,929 (shape_check) | Revision: polish cycle 1 | Issues addressed: 13 (eval P1-P8 + PATH item 9 second uses + ENTITY CH11-2, CH11-5) | Date: 2026-10-20 | Target: 6,200 (range 5,600-6,800) | Dialogue 37.7% (band 35-45) | Breaks 3 | Median sentence 14 (gear mid) | Bare "No." 3 | Echoes 0 | Gates clean | Anchor: Felix asleep against the black mule's belly, the mule standing square on her bad foot so as not to wake him -->
+<!-- Author revision 2026-10-24: watch period beats -->
 
 On the other side of Praxias's wall, while he made up his mind what to charge me, a mule yard was already at work in the half dark: a shovel went along cobbles in long scrapes, buckets were being set down on stone, a boy was telling some animal at the top of his voice that it was the worst mule between Parnassus and the sea, and once, very low, a man spoke, and the boy answered him with three questions before he had finished. Praxias heard none of it. He sat on the bench outside his door with a quail in the crook of his arm and named me his price.
 
@@ -93,7 +94,7 @@ The shadow of the spout was on the trough's lip, and by it the morning was nowhe
 
 "It is fast," I said.
 
-"It hasn't stopped." He pulled the pouch shut.
+"It hasn't stopped. In the snow it had nine of its hours between sunup and sundown, and some over. Now it's eleven." He pulled the pouch shut.
 
 Close to, a white nick ran through one eyebrow, across the grain of the hair. He tried the knife's edge on the back of his forearm, and it took the hair off clean.
 
