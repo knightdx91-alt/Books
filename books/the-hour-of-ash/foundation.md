@@ -216,7 +216,7 @@ Irene Szabo (Pine Street dealer, Ch.1), Emilio Reyes (absence: objects and the a
 | 24 | Valens holding his son like a dropped amphora he has just caught | During labor she is fixated on the midwife's terrible teeth |
 | 25 | An old man in a Chaldean's robe saying "Jesus H. Christ" in a Philadelphia accent | The WHEN is delivered first, bluntly, in under a minute; the mystery is no mystery to him |
 | 26 | Fenn's letters in English, read aloud by Mara to a three-week-old, in a language no one else in the street speaks | Valens is jealous of a language |
-| 27 | A dead door in the Sibyl's cave at Cumae; Fenn pressing his palm to rock as if it might be warm | Fenn is funny and young in the cave; it is Mara who is old |
+| 27 | A dead door in the Sibyl's cave at Cumae; Fenn pressing his palm to rock waiting for it to turn cold (as written, Ch.27; a live door is the cool one) | Fenn is funny and young in the cave; it is Mara who is old |
 | 28 | Valens in the stands holding Lucius on his knee while Felix fights below | The fight is boring and short, Felix survives, and the crowd hated it |
 | 29 | Valens weeping at a mime farce about a cuckolded baker | Saturnalia's slave-master inversion is genuinely joyful, and Mara is ashamed of enjoying it |
 | 30 | Plaster dust on the bread; the family laughing at a crack in the wall | Mara feels relief at a tremor: it means Fenn might be right about something *earlier* |

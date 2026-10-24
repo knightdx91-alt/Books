@@ -876,7 +876,7 @@ Chapter titles throughout. A **place-and-year dateline under each chapter title 
 
 **Premise:** Fenn takes Mara, little Lucius and the baby to the Sibyl's cave at Cumae to show her a door that died, and she watches what thirty-five years of waiting have done to him. (Aelia, a few months old, rides in a sling against Mara and sleeps through the Sibyl.)
 **Function in arc:** The cautionary mirror at full strength, through example and never lecture. The rules of the doors are deepened.
-**Emotional anchor:** Fenn pressing his palm to the rock of a dead door, as if it might be warm.
+**Emotional anchor:** Fenn pressing his palm to the rock of a dead door, waiting for it to turn cold (a live door is cool, Ch.19; the dead one is warm like any wall — as written, Ch.27).
 **Emotional surprise:** in the cave Fenn is funny and young, and it is Mara who feels old.
 **Opening strategy:** a claim starting with "I" (more than 8 words), about what she had expected the Sibyl's cave to be.
 **Key scenes/beats:**

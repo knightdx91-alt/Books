@@ -332,3 +332,38 @@ suggested_patches:
 - The real orientation of the dromos (INFO-6) needs a plan of the site.
 - Whether *Spartacus* ran at the Boyd in Philadelphia is unchecked. It is harmless either way.
 - I did not run `check_chapter.sh` after proposing these fixes. The editor should re-run the gates once they are applied, especially the echo scan on the new strings (all were grepped against Ch.1–26 first).
+
+---
+
+## Repair log (book-editor, 2026-10-24)
+
+Result: Ch.27 shape 7,881 → **7,681** (101% of target). Quoted 2,805 → **2,772**. Dialogue **36.1%**. Ledger signatures are unchanged (I-statement / long-fade). `check_chapter.sh 27` and `check_chapter.sh 25` both print **ALL MECHANICAL GATES CLEAN**. The Ch.27 echo scan went 89 → 83, and no new echo comes from a repair string. Protected text is untouched: the opening sentence, the closing fade, the Zippo frame (apart from the WARN-4 cut), the palm on the rock, the lemon meringue and the carbon paragraph.
+
+- **CRIT-1: done.** Re-staged l.86. The audit's string tripped the tic gate ("from the gate" 3x, "did not come" 3x), so it now reads: "Fenn waited at the yard gate with his hat on and a stick in his hand, and came across only when the mules were past the last of the sheds…". Both of Fenn's yard lines and "Not hard, says the gladiator." are kept.
+- **CRIT-2: done**, as written ("with my cigarettes in the pocket so they wouldn't get wet"). The bible's Ch.27 Fenn card needs a re-sync (not edited, per brief).
+- **CRIT-3: done**, as written ("Our shadows fell behind us down the track").
+- **CRIT-4: done in Ch.25 l.314.** "Cold paint at night and warm paint in the day, and nothing." → "Cool paint, noon or midnight, and nothing." Nothing else in Ch.25 was touched. The ENTITY re-quote of ch-25:p154 is left to the parallel entity update.
+- **CRIT-5: done**, using the disruptor's tested string ("the bone kicked off third into the shadow as he rounded it;"). The rest of the diamond/slide passage is byte-identical.
+- **CRIT-6: done.** "Fenn walked the jenny on a dozen yards and let her crop." / "Take your time," said Fenn. (I tried "he said" first, but it made "time he said" and "he said i'm" 3x book-wide, so I reverted to the audit string.)
+- **WARN-1: done, all three.** The keeper's giants are cut. "gray Navy wool" as written. l.422 now reads "You hit it, you run the bases till you're back here". The audit's "all the way round and back" hit "all the way" 3x and a Ch.19 echo, and "come back" 3x.
+- **WARN-2: done.** The speech ends at "every breath of it."
+- **WARN-3: done**, as written.
+- **WARN-4: done.** The wick sentence is cut. This is the only change inside the Zippo frame.
+- **WARN-5: done.** The counter sentence is cut, leaving "Some." on its own.
+- **WARN-6: done**, as written.
+- **WARN-7: done, both.**
+- **WARN-8: done.** "Fenn walked the way he talked." is cut. The audit's l.128 string ("he said nothing") is a Ch.6 echo, so it now reads "and for some way he did not speak."
+- **WARN-9: done, both** (l.100, l.266). The keeper's "to the sea" stays.
+- **WARN-10: done, all three** (l.112, l.340, l.438).
+- **WARN-11: done.** l.464, l.156 and l.234 as written. At l.324 the audit's "the keeper's broom" read as "asleep against me and the keeper's broom", so the broom is dropped from that sentence. She is still handed it at l.316. "fist(s)" now appears 6x.
+- **WARN-12: done.** The audit's l.356 string ("hiked up here the") hit "up here the" 3x, so it now reads "Seven years I hiked it the first of every month, rain or shine". l.368 as written.
+- **WARN-13: done**, as written ("One month it's cold").
+- **WARN-14: done**, as written.
+- **WARN-15: done, both** cuts.
+- **INFO-1, 2, 3, 5, 9, 10, 11, 12, 13, 15: no page action** (doc patches or clean findings).
+- **INFO-4: skipped.** The opener is protected (orchestrator's call).
+- **INFO-6: skipped.** It is low confidence, and the change would have to touch both the narration and Fenn's "on your right".
+- **INFO-7: skipped.** It is Fenn's hyperbole, and "a century late" was chosen by dialogue-polish to break an echo.
+- **INFO-8: skipped.** "hot dog" is at 2 and not gated.
+- **INFO-14: done.** "He walked on by the chamber's mouth." is cut.
+- **INFO-16: done.** The chapter header bookkeeping is refreshed. The bible card re-sync is outstanding (not edited, per brief).

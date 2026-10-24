@@ -311,7 +311,7 @@ The number escaped me unchecked. I had never yet said it aloud on this side, and
 
 "How wrong?"
 
-"Twice. I had it for seventy-one. I'd worked it from the shakes, every big one since sixty-two, and they said spring of seventy-one, plain as day, so I took a blanket and a jar of something and I parked myself on Eros's bench three nights like a guy waiting for a streetcar. Nothing. Paint. Cold paint at night and warm paint in the day, and nothing. So I worked it all over again, and this time it said seventy-three, in the autumn, and I sat out there three more nights."
+"Twice. I had it for seventy-one. I'd worked it from the shakes, every big one since sixty-two, and they said spring of seventy-one, plain as day, so I took a blanket and a jar of something and I parked myself on Eros's bench three nights like a guy waiting for a streetcar. Nothing. Paint. Cool paint, noon or midnight, and nothing. So I worked it all over again, and this time it said seventy-three, in the autumn, and I sat out there three more nights."
 
 "When in the autumn?"
 
