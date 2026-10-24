@@ -733,3 +733,96 @@ The Ch.29 blocks are WRITER DRAFT (CERDO's "as written" note, the Ch.29 walk-on 
 **ENTITY:** Felix sleeps in his shop corner, not the straw (CH29-3 resolved by L3); Fenn's visit was planned ("The Chaldean comes tomorrow", CH29-2); the Vet visit is one of the "sometimes" (CH29-4); Grata's pot went home at the end of supper; Chapman was hit "on the temple".
 
 BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).
+
+---
+
+## Cycle 1 — confirmation pass (2026-10-24)
+**Text evaluated:** `manuscript/chapters/chapter-29.md`, md5 **`6151e4ae1020eddcdcfe476f1b714591`** (confirmed; it matches the cycle-0 tested copy). `tools/closed_ledger.tsv` now has 21 rows (11 + the 10 cycle-0 rows). *(l.N = line number in the 6151e4ae file.)*
+
+**Gates on the real file:** `bash tools/check_chapter.sh 29` **ALL MECHANICAL GATES CLEAN** (style, foreshadow 0, grammar, rhythm 0, show/tell, voice-wear strict, tic gate with gestures, 5c echo 0, 5d closed ledger clean over 21 rows, metaphor, SHAPE CLEAN). `tic_report.py --echoes 29`: 0 echoes, 0 command echoes, 0 spoken-line echoes. Body 6,650 shape / 6,669 show-tell; dialogue 38% / 37.5%.
+
+**Scope:** the cycle-0 census and rulings stay binding. I re-read all 64 swap sites in context, checking grammar, natural prose, orphaned referents, a new double within ~40 lines, restored CUT/SPENT strings and new echoes, and then re-read the full chapter once. 61 sites are clean. **Three swaps created a defect.** Each is small, but each is exactly what "a fix that creates a finding is not a fix" forbids:
+
+| ID | Made by | On the page | Defect | Fix (tested) |
+|---|---|---|---|---|
+| **K1** | L3b + L4a | l.564 "She took her empty jar home…" / l.566 "He took his blanket to his corner, still crowned, and slept in the wreath." | (a) The same "[X] took [object] [destination]" frame appears in adjacent paragraphs, and both are my swaps. (b) "still crowned… in the wreath" says the crown twice. (c) It adds a fifth sleep word to S4 (514 ×2, 550, 564). | "He curled up in his corner under his blanket, still crowned." |
+| **K2** | P15a | l.494 "and I was grateful and went on underneath." | (a) It is 36 lines from l.530 "The talk went on." (b) It brings narration "went on" to 4 (390, 494, 530, 592 "the caps went on"). (c) It rebuilds Ch.24 l.270 "her voice going on in Oscan underneath it". Cycle 0 traded a double 106 lines apart ("kept on") for one 36 lines apart. | "and I was grateful and trailed along underneath." |
+| **K3** | P1b | l.472 "Eyes shut, Cerdo gave them a song…" | Mara is at the table with Aelia in her lap, so "them" has no clean referent and shuts the narrator out of her own audience. The old "Cerdo sang" had no pronoun. | "Eyes shut, Cerdo gave us a song…" |
+
+**Rejected replacement drafts (never use):**
+- "He took his blanket" (the K1 double)
+- "carried" for Felix (Valens "carried Lucius" in the next sentence)
+- "He went off to his corner" (Ch.9 "He went off to his hives.")
+- "with the wreath still on" (Ch.13 l.266)
+- "carried on underneath" (l.484 "carry a tune")
+- "sang under him" (l.492 "sang louder")
+- "held on underneath" (l.498 "held the last note")
+- "kept going" (the narration "kept" WATCH)
+- "went on underneath" (Ch.24 frame)
+
+**Replacement strings checked:**
+- Grepped against Ch.1–28, the bible and the voice-bank. "trailed" appears 2× book-wide, in other senses. "curled up" appears 2× (Ch.8 a sole, Ch.16 a tail). "gave us" appears once, in Valens's speech at l.88, 384 lines away.
+- None sits within 40 lines of a same-frame line.
+
+**Script:** `/tmp/claude-0/-home-user/63791ee5-159c-5791-9429-07920f8d9417/scratchpad/fixes29/apply_fixes_c1.py`. It needs input md5 6151e4ae, makes 3 replacements, each exactly once, all-or-nothing, and aborts if re-run (tested).
+- Tested on the scratch copy (Ch.1–28 byte-identical to the repo; the repo's 21-row ledger copied in).
+- `check_chapter.sh 29` **ALL MECHANICAL GATES CLEAN**. Echo 0, closed ledger clean (21), tic gate clean, voice-wear strict clean, SHAPE CLEAN.
+- Body 6,647 shape / 6,666 show-tell; dialogue 38% / 37.5%; `narrative` → `quiet` unchanged.
+- **Result md5: `6a78a0550acdca834b457fd2563de0b5`.**
+
+**Checked and NOT raised (outside the swap rule, or not defects):**
+- "stopped" ×7 in the chapter (58, 248 [P10a], 336, 378, 404, 496, 576). No two are within 40 lines, and the designed "I stopped there." / "You stopped." pair survives. WATCH only.
+- l.160 "with his head tilted… on Felix's head". The doubling predates P5, which only cut the tag after it. INVESTIGATE, no change.
+- l.64 / l.68 "this one" ×2 in Mara's lines predates P18a.
+- "Long ago." → "Once is plenty." still answers.
+- C12's bare "Grata had put a cap on Valens too." still prompts the Corinth question.
+- L1 "The Chaldean comes tomorrow" fits the timeline: day 2 → Fenn at breakfast on day 3, "a day behind Felix". The household has used "the Chaldean" for Fenn since Ch.24–27.
+
+**Census re-verified on the page:**
+- Fenn: hat 3 · Greek described 2 · "sir" 2 · doubling 1 · "Fenn stood" 3
+- Mara: sit/drink 2
+- Valens: spread hands 1 · "And…" 2
+- Cerdo: trained body 1
+- Felix: ", and [Q]?" 2
+- Grata: "so [command]" 2 · "look at" 1
+- Race frame 1 · X-first-then-Y 1 · "Then…" 2 · "And…" rejoinders 4
+
+Every cycle-0 row holds, and no swap added a gesture, sit, stand or hand beat.
+
+### Cycle 1 scores (the page as it stands, md5 6151e4ae)
+| Dimension | C0 | **C1** | Note |
+|---|---|---|---|
+| Originality | 9.0 | **9.0** | unchanged |
+| Theme | 8.5 | **8.5** | P14 removed the cap reason; held, no new evidence for 9.0 |
+| Characters | 8.0 | **8.5** (+0.5) | C1–C18 and L3 verified in place. Every census and speech-habit row is ≤2 or at its cap, there is no reused charged line, no bleed and no narrated rule. No swap created a character defect |
+| Prose & Voice | 8.0 | **8.0** | All P1–P18 SPENT/CLOSED removals verified. **Held** by K1–K3, the swap-created doubles and the orphaned "them", under the house rule from Ch.16/17. Stopping sentences intact (l.12, 252, 256, 592, the last line) |
+| Pacing | 8.5 | **8.5** | 6,650 (101%); the four-section speed design is intact; S3 2,281 |
+| Emotion | 9.0 | **9.0** | anchor l.248–256 intact ("had stopped being a laugh" keeps "nothing I knew") |
+| Immersion | 9.0 | **9.0** | unchanged |
+| **FLOOR** | 8.0 | **8.0** | Prose |
+| **AVERAGE** | 8.57 | **8.64** | |
+
+- **Casual Reader 9.0** (none of the K items is visible to this reader).
+- **CVI-Launch 9.4 · CVI-Legacy 6.8** (unchanged).
+- **Pacing OK. Mechanical gates clean.**
+- Anti-AI: about 7 patterns, all minor (clean band).
+
+**Projected after `apply_fixes_c1.py` (md5 6a78a055):** Prose 8.5 → **Floor 8.5 / Average 8.71**, Casual 9.0, gates clean (tested).
+
+### VERDICT (Cycle 1)
+**POLISH.** Floor 8.0 (Prose) < 8.5, held only by three defects the cycle-0 swaps created. Casual 9.0 ✓, pacing ✓, gates ✓.
+1. Apply `apply_fixes_c1.py`.
+2. Confirm md5 `6a78a0550acdca834b457fd2563de0b5`.
+3. Re-run `check_chapter.sh 29`.
+4. **Cycle 2 is confirmation only:** re-read l.472, l.494 and l.566 in place. No other lane reopens.
+
+### Character-bible re-sync — cycle-1 deltas to the cycle-0 list
+These become FINAL at cycle 2 on md5 6a78a055.
+- **CERDO, On the page:** "Eyes shut, Cerdo gave **us** a song from the hill villages behind Nuceria…" replaces "gave them". CUT log: add "Cerdo gave them a song".
+- **MARA:** add "Fenn… drowned me out, and I was grateful and **trailed along underneath**." CUT: add "and I was grateful and went on underneath" (cycle-0 swap, retired). "went on underneath" also goes to the rejected list.
+- **FELIX:** replace "He took his blanket to his corner, still crowned, and slept in the wreath." with "**He curled up in his corner under his blanket, still crowned.**" CUT: add "He took his blanket to his corner"; "slept in the wreath".
+- **GRATA:** "She took her empty jar home but left her bench" stands.
+- **Rejected drafts, Ch.29 (add):** the K-list above.
+- **Header (l.6) for finalize (projected, valid on md5 6a78a055):** `<!-- Word count: shape 6,647 / show-tell 6,666 (evaluator cycle 0, 64 swaps + cycle 1, 3 swaps; pre-evaluator 6,897 / 6,912 / 6,916) | Target: 6,600 (101%) | … | Dialogue 38% shape (show/tell 37.5%; band 35-45) | Breaks 3 (4 sections) | Median sentence 19 (gear high) | … | Echoes 0 | check_chapter.sh 29 ALL MECHANICAL GATES CLEAN (incl. 5c echo scan, 5d closed ledger 21 rows); shape_check clean | Anchor: … -->`. Keep the rest of the l.6 fields as written. Re-measure the semicolon and and-chain figures at finalize.
+
+BIAS CHECK: This evaluation was produced by the same system that wrote the prose. Confidence in scores above 8.0 requires external validation (beta readers, editors, comp analysis).

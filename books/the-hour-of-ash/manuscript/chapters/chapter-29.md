@@ -469,7 +469,7 @@ Fenn rose and inspected him across the candles. "Majesty," he began, "you have M
 
 Felix looked off at the fullery's shut door. Then he made his next law. "Everybody sings, and the guest first."
 
-Eyes shut, Cerdo gave them a song from the hill villages behind Nuceria about a goat that ate the priest's wreath off the altar and was made priest itself. His voice had gone to smoke at the oven years before and scraped in his throat, but he had all the verses. Before the end Grata was beating time on the plank and Felix was singing the goat. Aelia, in my lap, stared along the tapers on the plank's edge and crowed at each flame in turn.
+Eyes shut, Cerdo gave us a song from the hill villages behind Nuceria about a goat that ate the priest's wreath off the altar and was made priest itself. His voice had gone to smoke at the oven years before and scraped in his throat, but he had all the verses. Before the end Grata was beating time on the plank and Felix was singing the goat. Aelia, in my lap, stared along the tapers on the plank's edge and crowed at each flame in turn.
 
 "The mender," said Felix, when the goat had its priesthood.
 
@@ -491,7 +491,7 @@ I set down the jug.
 
 The one song I had every word of was the one the organ played in the middle of the seventh inning at the Vet. My father had taken me on a school night in May. He rose for it holding his frank, and sang louder than anybody in our section, and we were gone in the eighth to beat the traffic on the expressway. It started too high, and a line later it had sunk too low and wandered about down there; I heard it wander and could not call it back. "That'll be a hymn to one of their gods," said Grata, "and he's welcome to it," and she covered the ear of Aelia's that was nearer me. Lucius hugged his ball and did not take his eyes off me.
 
-Fenn came in on the peanuts, loud, in a saloon baritone with no shame anywhere in it, word-perfect, and drowned me out, and I was grateful and went on underneath. On the line after the peanuts he flung both arms wide over the candles and sang the beams the one about never getting back, as loud as his lungs would let him.
+Fenn came in on the peanuts, loud, in a saloon baritone with no shame anywhere in it, word-perfect, and drowned me out, and I was grateful and trailed along underneath. On the line after the peanuts he flung both arms wide over the candles and sang the beams the one about never getting back, as loud as his lungs would let him.
 
 I stopped there.
 
@@ -563,7 +563,7 @@ I watched him cross; halfway over he pulled the felt cap off his head and stuffe
 
 "Mind you don't wake my bench," Grata said at the door. She took her empty jar home but left her bench, because Fenn was asleep on it, face to the plaster, hat tipped down.
 
-"Best night of the whole festival," Felix told me, yawning. He took his blanket to his corner, still crowned, and slept in the wreath. Valens carried Lucius through to his pallet, and by his return I had started to clear.
+"Best night of the whole festival," Felix told me, yawning. He curled up in his corner under his blanket, still crowned. Valens carried Lucius through to his pallet, and by his return I had started to clear.
 
 Valens stacked the stools. "Cerdo sang well."
 
