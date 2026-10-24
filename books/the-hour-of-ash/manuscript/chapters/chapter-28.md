@@ -13,7 +13,7 @@ They knew him. He had fought on that sand twice already, according to the woman 
 
 I could have told her. I watched the sand instead.
 
-He had walked out with a bird on his head. I had known for a week that he would be a thraex, and I had seen thraeces on that sand before, but nothing had warned me that the helmet would take his face away entirely: a broad bronze brim, a visor of punched holes where his eyes ought to be, and on the crown a griffin's head with its beak open, aimed wherever he aimed. Below the helmet he was all wrappings. Quilted cloth wound both legs to the top of the thigh. Over each shin a greave was strapped from knee to instep, so high and stiff that he crossed the sand lifting his feet like a wading bird. They were new, and the sun found them; I knew by then what they had cost him. His right arm was quilted from fist to shoulder, and in the fist was the short curved sword, bent at its middle the way a vinedresser's knife is bent. The other arm carried a shield the size of a bread board.
+He had walked out with a bird on his head. I had known for a week that he would be a thraex, and I had seen thraeces on that sand before, but nothing had warned me that the helmet would take his face away entirely: a broad bronze brim, a visor of punched holes where his eyes ought to be, and on the crown a griffin's head with its beak open, aimed wherever he aimed. Below the helmet he was all wrappings. Quilted cloth wound both legs to the top of the thigh. Over each shin a greave was strapped from knee to instep, so high and stiff that he crossed the sand lifting his feet like a wading bird. They were new, and the sun found them; I knew by then what they had cost him. His right arm was quilted from fist almost to the shoulder, and in the fist was the short curved sword, bent at its middle the way a vinedresser's knife is bent. The other arm carried a shield the size of a bread board.
 
 I knew him by his feet. Inside all that bronze and padding he could not keep still. He rose onto his toes and sank again while the herald finished, as he had after every errand I ever gave him, impatient to be let go.
 
@@ -85,7 +85,7 @@ Out in the street a late cart passed, its load chinking, and a dog ran after it 
 
 Valens rolled toward the curtain and the dark shop. If he had an answer, he kept it. I slept some and not much and then it was morning.
 
-First I walked to the baths, to see the painter's work. He had taken the whole of a white panel beside the bath door. The duumvir's name headed it in red, each letter taller than Lucius, with his father's name after it. Below, smaller, came the day, twenty pairs, a hunt, and awnings. No name was on it except the duumvir's. A boy on the curb with a pear followed my eyes down the panel, line by line, and asked me what it said, and I told him.
+First I walked to the baths, to see the painter's work. He had taken the whole of a white panel beside the bath door. The duumvir's name headed it in red, each letter taller than Lucius, with his father's name after it. Below, smaller, came the day, twenty pairs, a hunt, and awnings. No name was on it except the duumvir's. A boy on the curb with a pear asked me what it said, and I told him.
 
 "Is there a bear?"
 
@@ -213,7 +213,7 @@ The lamp on its hook between them had started to smoke. I unhooked it and trimme
 
 Felix went red from his collar to the rims of his ears.
 
-"She'll come to the games," he said. "The fuller's shutting the vats for it, they're all going, the aunt and the twins and everybody. She'll be there, up with the women, and she'll see." His eyes dropped, and lifted to Valens again, quick. "She's got the sherd. Did she show you? She'd show nobody that unless she meant to keep it."
+"She'll come to the games," he said. "The fuller's shutting the vats for it, they're all going, the aunt and the twins and everybody. She'll be there, up with the women, and she'll see. She's got the sherd. Did she show you? She'd show nobody that unless she meant to keep it."
 
 "Albucius robbed you," Valens said.
 
@@ -229,7 +229,7 @@ Felix went red from his collar to the rims of his ears.
 
 Lucius clutched it to his front.
 
-Felix left with his eyes straight ahead. He paused at Grata's marble to speak to Nicanor, who gave no answer, and then he was walking away to the fountain with his shoulders hunched to his ears. Nicanor rose, paid Grata, and came to stand in our doorway.
+Felix left. He paused at Grata's marble to speak to Nicanor, who gave no answer, and then he was walking away to the fountain with his shoulders hunched to his ears. Nicanor rose, paid Grata, and came to stand in our doorway.
 
 "Twelve years I've worked for Albucius," Nicanor said. "Forty he's had off him for a pair of greaves that cost the smith thirty-five. There's your robbery." He scratched his cheek. "And he's told you he'll sell him back after, cheaper than today. Go round every school this side of Capua asking for that. You'll wear your boots through."
 
@@ -313,7 +313,7 @@ First the fighters came round. They walked the oval behind the horns in a long l
 
 Valens's hand did not leave the boy.
 
-We sat through two pairs and a hunt. Valens gave the ropes on the masts more of his attention than the sand. Lucius gnawed a crust and showered crumbs on the woman in front, who brushed her shoulders off and never looked back.
+We sat through two pairs and a hunt. Valens gave the ropes on the masts more of his attention than the sand. Lucius gnawed a crust and showered crumbs on the woman in front, who brushed her shoulders off and never looked back. During the hunt he wet himself, and Valens shifted him to the dry knee.
 
 Then the herald cried Rusticus, and the benches answered.
 
@@ -323,7 +323,7 @@ Felix's second rush hit the red board square, and the board took it. He went in 
 
 The third pass came and went, and Felix was upright yet.
 
-They circled. They circled for so long that my neighbor opened the bag in her lap, which held salted beans, and passed them along the bench. Felix kept his distance now. He had his shield up, high on the arm, level with his chin, the griffin's beak jutting over it. Wherever the small shield went, the fish crest turned after it. Felix's feet meanwhile went elsewhere, quick and short in the tall greaves. And then he did nothing with any of it.
+They circled. They circled for so long that my neighbor opened the bag in her lap, which held salted beans, and passed them along the bench. A boy with a water skin worked along the ring behind us, a copper a cup, and the man at the end bought two and poured the second down his neck. Felix kept his distance now. He had his shield up, high on the arm, level with his chin, the griffin's beak jutting over it. Wherever the small shield went, the fish crest turned after it. Felix's feet meanwhile went elsewhere, quick and short in the tall greaves. And then he did nothing with any of it.
 
 A man below us jumped up and bawled at them to fight. The cry spread.
 
@@ -335,7 +335,7 @@ The bowl went mad for him to do it. The noise came from every side together, men
 
 The jeering started then. Two slaves with whips appeared at the door below the editor's box and took their places where the sand met the wall. The man with the long rod stepped in between the pair and cracked it on the backs of Felix's thighs, not hard, then on Rusticus's, and pushed at them with it.
 
-All around us the top ring was on its feet. They were shouting for the whips, kill him, whip him, burn him, those three words, beginning again each time they ended, and the women were shouting it as loud as the men. Ten places along, Prima was standing on her bench with her palm pressed to her tunic where the sherd lay and her mouth closed. I was standing too, without having got up. Along the whole long curve of the top ring, every soul but one was up.
+All around us the top ring was on its feet. They were shouting for the whips, kill him, whip him, burn him, those three words, beginning again each time they ended. My neighbor shouted it with the rest, at her husband's niece's husband. Ten places along, Prima was standing on her bench with her palm pressed to her tunic where the sherd lay and her mouth closed. I was standing too, without having got up. Along the whole long curve of the top ring, every soul but one was up.
 
 Valens sat. Lucius sat on his knee.
 
@@ -347,13 +347,13 @@ They stood and breathed, two strides apart.
 
 The man with the rod looked to the tribunal. The duumvir sat there in the shade of the canvas, gray-haired, his toga very white, a slave at his side holding a cup. He considered the benches nearest him, and the sand, and bent toward the man at his elbow.
 
-He would make them go on. There was no doubt in me. He would keep them at it until one was down, because the crowd wanted that, and he meant to be duumvir again.
+He would make them go on. There was no doubt in me.
 
 The herald walked out. He cried that the giver of the games sent them both off standing.
 
 For a breath the sound meant nothing to me. It started with the men below, a deep hooting with whistles riding on it. Behind the noise came whatever they had in their hands: nut shells, crusts, a sandal from somewhere low down that tumbled end over end and dropped on the sand between them. Rusticus made for the door below the editor's box with his board on his arm, looking at no one. Felix stood alone at the middle with the sandal at his feet, the griffin raised and turning slowly to face each bank of seats in turn, until the slaves with the whips came and walked him off.
 
-Before anybody had cleared the sandal away, the horns were sounding for the next pair. Beside me the bean woman sat and began gathering up her beans. Her eyes went across me to Valens and the boy he held. Alone in that ring, he had no need to sit down; he had never stood.
+Before anybody had cleared the sandal away, the horns were sounding for the next pair. Beside me the bean woman sat and began gathering up her beans. Her eyes went across me to Valens and the boy he held.
 
 "That bird," she said. "Was he anything of yours?"
 
